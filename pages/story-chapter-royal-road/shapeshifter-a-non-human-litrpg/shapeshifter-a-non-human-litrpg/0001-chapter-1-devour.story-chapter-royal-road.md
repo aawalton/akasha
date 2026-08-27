@@ -1,0 +1,175 @@
+---
+id: 747ebab0-1565-56b5-b0e7-6a480fac867a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Devour"
+slug: 0001-chapter-1-devour
+partOf: shapeshifter-a-non-human-litrpg
+position: 1
+ownLength: 2571
+unit: words
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405412/chapter-1-devour"
+royalRoadId: "2405412"
+---
+
+"What if I told you a slime could be stronger than a dragon?"
+
+A stern-faced professor's mana-empowered voice rang through the lecture hall. Now that he had gotten everyone's attention, he pointed to the giant projector behind him as it shifted slides to show a typical dungeon slime. "You can never underestimate rare variants of monsters, especially ones of common types found in the World Dungeon's initial floors."
+
+Randy, a response team analyst in training, rolled his eyes. What variant of a slime could possibly be worth fearing? The World Dungeon was a terrifying place not for the faint of heart or unprepared, but everyone knew slimes were harmless.
+
+"I can see the look on some of your faces," the stern professor said, scanning the crowd of students. "But know this: slimes have variants too. Take a Mind Slime, for example." The slide changed to show another color of slime. "This little purple bugger can learn from the memories of corpses. Imagine that, a monster that could think and even act like a human. Now, unlike us humans who have limited skillsets, monsters can grow and develop skills." The slide changed again to show a study. "There's evidence that slimes break down matter and add it to themselves, what if that extended to skills? My theory is that a Mind Slime, if given the opportunity, could harvest us for skills, memories and experience. If you ever come across one, you must kill it."
+
+Randy raised his hand.
+
+"But, professor, Mind Slimes are incredibly rare, and they usually die before they get a chance to reach their first evolution," he said, and felt his confidence die a little as everyone looked at him. "Not saying we shouldn't be wary... It’s just that I've never even seen one before."
+
+The professor nodded. "A good point, student. Mind Slimes are seldom given a chance to evolve. Maybe only one is born a year somewhere in the World Dungeon, fated to be a goblin's snack minutes later," he paused, and his expression turned dark. "But there is a one-in-a-million scenario in which a Mind Slime gets lucky and evolves after devouring a human’s mind, and let me tell you this: if left unchecked to roam the World Dungeon, its potential would be limitless. Forget dragons, it might even be able to devour the gods."
+
+Randy nodded but didn't take the professor's warning to heart. It had been twenty years since the system's arrival and the birth of the World Dungeon, yet such a thing had never happened.
+
+A slime was still a slime—nothing but a blob of clueless jelly. Devour the gods? What a joke. How would such a weak monster even get hold of a human mind in the first place?
+
+World Dungeon – 1st Floor
+
+Slimes were supposed to be stupid, but Xen knew for a fact that he was a smart slime.
+
+While his luminescent green brothers and sisters were murdered for exp by the two-legged creatures known to the dungeon as [Humans] who wore strange clothes, he would strategically roll away deeper into the dungeon because that was the smart thing to do. Such profound survival instincts were possible due to being a Mind Slime, a rare variant of a classic dungeon slime that had acquired a level of intelligence, his greatest asset. How, he wasn’t too sure. His brothers and sisters seemed quite clueless compared to him.
+
+What he did know for sure after navigating the status screen was just how pathetically weak he was. Combined with the knowledge he inherited from the dungeon, he concluded that he was not a match for a single thing within these stone walls.
+
+[Mind Slime: Rare Variant]
+
+[Level 1]
+
+However, as smart as Xen was, he was also starving. Unlike his brothers and sisters, he gained no nourishment from absorbing the luminescent moss growing in between the cracks in the stone walls, nor the blood that stained the floor, or the occasional discarded limb from a monster or man. No, the only thing he hungered for was knowledge and the tasty thing called a brain that contained it.
+
+As it turned out, being a level one slime made getting to anyone's brain a real challenge. Through his limited mana sight, he had observed many battles and concluded that without a doubt, he would lose to everything here. He had no legs to run away, arms to hold weapons, or even claws to rip apart flesh and fur. He was nothing but a slightly smarter jelly with a habit of rolling away.
+
+And what had his superior intellect granted him? Nothing but hunger. His body had shrunk to a tenth of what it was days ago. With every roll, he expended energy and shrank slightly. He tried to eat the moss like his brothers and sisters, but his body seemed incapable of absorbing anything from it other than the knowledge of what it was.
+
+[Dungeon Moss: Common Grade]
+
+A type of moss that grows throughout dungeons. It’s filled with mana, providing a food source for the dungeon ecosystem’s bottom feeders.
+
+This knowledge, however, did come with one use: expending more energy, he could mimic the Dungeon Moss, turning himself from a slightly purplish jelly to what appeared to be a ball of moss. It was this shapeshifting ability that had allowed him to survive this long in the dungeon despite lacking what the other monsters had at their disposal.
+
+Xen—the name he had given himself—had also absorbed various pebbles and other inanimate objects he had come across, but his shapeshifter ability refused to let him turn into anything that was not alive. Why? Xen was not sure. He may be a smart slime, but many things were still beyond his comprehension, such as why some of the two-legged creatures had so much arrogance to challenge the dungeon alone. Strength in numbers was one of the most basic tactics that he had observed, which had allowed groups of very weak monsters to take down a single strong two-legged person.
+
+Rolling around a corner of the dungeon, Xen once again heard the clashing of blades and shouts of the two-legged people out of his mana sight range. Usually, he had the intelligence to roll in the opposite direction. But today was different. Rather than roll away, he chose to venture toward the fight. Although the area around battles was dangerous for such a weak slime, battles were also the source of corpses and potential knowledge. Besides, he would die from hunger by the end of the day if he didn’t eat.
+
+So, armed with thinly veiled optimism, Xen rolled forth toward his potential demise. Any stray attack, or if one of the giant creatures engaged in battle fell over and hit him, he would perish instantly. Such was the fate of a weak slime.
+
+"Jonathan, what are you doing?! Have you healed Joe yet? Hurry up and heal me," one of the two-legged creatures shouted.
+
+"Sarah, are you crazy? Can't you see my fucking situation here?" another retorted.
+
+"That's nothing but a flesh wound," came an angered reply. “Heal Joe before yourself. Without him, we are dead. He's our frontline.”
+
+"Do you think I don't know that Sarah? None of this would have happened if we brought along one of my men instead of this random scrub you picked out."
+
+Xen had learned that those grunts coming from the two-legged creatures were a form of communication, but he could not decipher what they were saying or the meaning behind the grunts. But he knew that whenever the grunts were said, it was usually followed by a coordinated attack. The grunts also had varying pitches.
+
+"Basic sword slash," one of them suddenly shouted. This grunt was different from the usual—it carried mana-filled intent; it was a skill.
+
+Xen felt the stone floor a mere meter from his jelly body explode as a blade of red energy cleaved through the dungeon floor, showering the area with bits of rubble, followed by a high-pitched howl that Xen knew belonged to the dog-like creatures that were the apex predators on this floor. As a dungeon monster, Xen naturally knew that this was the first floor of the dungeon, and he was not allowed to go to the second or to leave. That was just common sense.
+
+Despite narrowly avoiding death, Xen—the very smart slime—rolled forth in a desperate hope to come across what he sought the most: the organ that contained knowledge, brains. If he could just taste the succulent meat that was a brain, he knew all his problems would be answered.
+
+Creeping along the cracks in the side of the wall, Xen soon came in mana sight range of the battle and could get a good look. Standing injured before a group of black fur wolves was a slender, silver-haired, two-legged creature with pointy ears. In her hand was some sort of short metal weapon that she was using to fend off the two feral wolves that were snarling and trying to bite off her arm.
+
+It seemed she was the only remaining member of her team able to stand and fight, as there were two people on the floor behind her. One, wearing white robes and holding a staff, was knelt over the second body, with blood dripping down from a savage gash across their face, which had taken out one of their eyes. Their hands were trembling as a golden light enveloped the one lying motionless on the ground. "Please, Joe, wake up," the white-robed person begged, but it almost seemed like a performance as they had a sly smile.
+
+Xen was a smart slime, apparently smarter than this dumb human, as he could tell that the man on the floor was most certainly dead as the dungeon was already trying to absorb the body. Which meant one thing: the dead human was going to be his target. Inching ever closer as the epic battle between pointy-eared person and wolves raged on, Xen felt a flurry of emotions that should be impossible for a blob of slime. Excitement, fear, and hunger consumed his mind as he pressed forward.
+
+Xen prayed with all his nonexistent heart that the silver-haired person would continue to fend off the monsters. Because if she lost while he was feasting on the corpse's knowledge, he would perish in the jaws of these feral wolves.
+
+Thankfully, the silver-haired woman was preoccupied, and the white-robed man was far too injured and distraught to notice the tiny Mind Slime crawling its way up the human's clothes and sneaking through the dead human's nostril.
+
+[Human Mucus: Common Grade]
+
+A sticky substance that is found inside the nose.
+
+Ignoring the system prompt, he practically vibrated with excitement. Something up ahead was calling to him as if it were the most delicious thing to ever exist.
+
+[Human Brain: Common Grade]
+
+An organ found in the human body responsible for critical thinking and memory storage.
+
+[Use Devour on Human Brain?]
+
+A system prompt Xen had never seen before filled him with joy. If he could lick his lips, he would. Naturally, he agreed to the system prompt without hesitation. This is what he had been yearning for his entire short life.
+
+[Devour in progress…]
+
+Xen felt a million things flood his mind. Knowledge. Scenes of blue skies, lazy summer days, and meetings with friends at the pub clashed with feelings of despair, misery, and hunger. Stress over something called taxes, breakups with girlfriends, and other incomprehensible experiences that were completely different from his own flooded and drained his mind.
+
+You have leveled up: 1 -> 2
+
+You may pick a class… ERROR
+
+User is not assimilated into the system.
+
+User is a Dungeon Monster.
+
+Searching for solutions…
+
+Xen had no idea what was going on as a voice spoke in his mind. Everything was a mess.
+
+[Unlocked Shapeshifter Class (Unique)]
+
+Those with the [Shapeshifter] class can replicate the appearance and abilities of beings they have devoured. Each form has its own level and set of abilities. However, the user has a global level and selection of abilities that carry over to any form they take.
+
+[Devour Complete]
+
+You absorbed 50% of the human’s memories.
+
+You have unlocked the [Human] form.
+
+You acquired the following skills:
+
+[Human Language (C)]
+
+You and the target shared similar skills:
+
+[Basic Mana Sight (F)] has been upgraded to [Mana Vision (D)]
+
+Xen wasn't sure how, but he now understood the words floating in his mind. Everything about the system suddenly made sense to him. Was it because of gaining the [Shapeshifter] class? Or was he relying on the memories he had inherited from a now very dead human named Joe?
+
+"Jonathan, are you done with healing Joe yet?" The elf Xen knew as Sarah from Joe's memories cried out as she swept her blade to keep the wolves away.
+
+Due to his improved skill called [Mana Vision], Xen could see everything happening around him and understood the intent behind Sarah's words. She desperately needed healing from Jonathan, who was still kneeling over Joe's body and pretending to heal the body he now inhabited.
+
+Which was a problem.
+
+Xen was not Joe, and he doubted Sarah would let him live once she found out a slime had devoured her party member's mind and was using his body as a skin suit. So, her getting healing in this situation was not ideal.
+
+I need more information. More skills and power. Xen thought.
+
+His vision drifted to Jonathan's head, which contained another source of knowledge. If he consumed Jonathan's mind like he had Joe’s without Sarah noticing and eliminated the threat of healing, wouldn't his chance of survival increase?
+
+[Do you wish to take on the Human form?]
+
+Knowing his thoughts, the system offered a suggestion.
+
+One that Xen happily accepted.
+
+Upon accepting the system prompt and willing to take on a human form, Xen mentally knew he had two options. He could either consume his biomass to create a new human body from scratch to his exact specifications, or he could overtake a nearby vessel that matched the form he wanted to take.
+
+Naturally, since Xen had almost no biomass to the point where he could sneak down someone's nostril and had a perfectly fine human corpse that he was currently inhabiting, he picked the latter option—to take over an existing body and puppet it.
+
+[Shapeshifting in process]
+
+Xen felt his consciousness spread throughout the body. It wasn't instantaneous, almost as if he was a fluid flowing through the body's veins and slowly becoming aware of every muscle fiber and organ within the body.
+
+All the while, Sarah was fighting for her life. She was barely managing to hold the wolves back. One of them lay heavily injured, bleeding out on the dungeon's stone floor, but there were still two mostly uninjured wolves that almost reached her shoulder height, taking turns trying to bite chunks out of her arm.
+
+"Sarah, I…" Jonathan said.
+
+"What, Jonathan?" Sarah shouted, not taking her eyes off the wolves for a single second. "Now is not the time for your mumbling. Spit it out."
+
+"I think Joe is dead," Jonathan said. Overall, the human seemed quite happy about this outcome. Unfortunately, that wasn’t going to last long.
+
+[Shapeshift complete]
+
+The ‘dead’ Joe's eyes shot open as Xen took complete control of the body, much to the immediate horror of the healer.

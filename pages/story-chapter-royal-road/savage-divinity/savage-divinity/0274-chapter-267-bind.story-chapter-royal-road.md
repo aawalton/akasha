@@ -1,0 +1,105 @@
+---
+id: 645abe31-333d-54b3-81a6-264577db4cf1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 267: Bind"
+slug: 0274-chapter-267-bind
+partOf: savage-divinity
+position: 274
+ownLength: 3385
+unit: words
+publishedAt: 2017-11-06
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/172775/chapter-267-bind"
+royalRoadId: "172775"
+---
+
+Six months after leaving Sanshu and coming to the Wall, Jorani was finally growing accustomed to his new life. Waking hours before sunrise inside his roomy, private yurt, he took a moment to lament his solitude and ignore his aching body before getting up to greet the day. After getting dressed, he tidied his bed, shaved his stubble, brushed his teeth, and headed out into the chilly morning to visit the jakes. Finished with his morning routine, he made his way to the recently constructed mess hall for a nice hot breakfast of congee with dried meat, pickled vegetables, and a plate of dumplings.
+
+Enjoying the simple, hearty meal with a pot of refreshing butter tea, he reflected on how different his new life had become, a world of change from his bandit days. Sleeping in the dirt or hay until noon, rinsing his mouth with a swig of wine, and eating nothing but hardtack or dried fish for weeks at a time, it’d been a sorry existence even on the best days. The bad ones lacked wine, food, and sometimes even sleep and security as he ran from guards or rival bandits alike.
+
+Honestly, if not for all the exercise, beatings, tooth-pulling, and people trying to kill you, being a soldier wasn’t half-bad. They even got one day a month to rest and recuperate thanks to Jorani, since he was the only one with the balls to ask for it. Not too shabby at all.
+
+While the bossman harboured unreasonable expectations and pushed his soldiers hard, he treated them well outside of training. Hot food, warm clothes, and sturdy homes, it was more than they deserved in Jorani's opinion. The other soldiers lived twelve men to a room while everyone in the bossman's retinue had their own yurt. No wonder he didn’t split the loot, between their pay and accommodations, Falling Rain spent his gold like it was burning a hole in his pocket. Not just on his soldiers either, Jorani had seen the bossman’s school grow from a tiny hut with a handful of children into a thriving academy with dozens of happy students, human and half-beast alike, practising the Forms and their numbers day after day, never having to worry about going hungry or sleeping cold.
+
+Ma would’ve loved it here. She wouldn’t’ve been excluded by the others for raising a half-breed son, wouldn’t’ve rubbed her hands raw washing clothes from sun-up to sun-down in frigid channel waters, wouldn’t’ve spent so many nights crying because her boy came home from a beating she couldn't stop...
+
+Fuck that old bastard GangShu. Pigs would fly before Jorani’d call him ‘Pa’, he didn’t deserve it.
+
+That was the best thing about the Bekhai, they were a close-knit community. Every last soul was looked after, though they would not abide lazy shirkers or cheats. Jorani had lost count how many times Ravil or Bulat had to drag him out of bed in the morning, the devilish duo taking great delight in parading him around the camp in his poofy nightclothes. A year ago, Jorani would’ve thought about knifing them in the dark for the humiliation but now, he thanked them for it. Soldiers who showed up late got ten lashes in the public square for dereliction of duty, so a little loss of face was well worth it in comparison.
+
+Everyone looked out for one another, that’s how it was here. They were comrades in arms now, all of them brothers and sisters who were suffering through Falling Rain’s hellish training regimen together. Not everyone stuck it out, their original five hundred winnowed down to a paltry two hundred and eighty, which was a hundred more bodies than Jorani had wagered. In fact, only the house won in this particular gamble, which explained Bulat’s knowing smirk while accepting everyone’s bets. The scheming sergeant knew the bossman wouldn’t toss people out on their asses. Anyone who left did so by choice, unable to take the rigorous demands and gruelling pace set by the number one talent of the North. Even then, those wash-outs found cozy jobs patrolling the roads and guarding Bekhai shipments for the low price of taking an Oath of Secrecy, a tempting prospect for many.
+
+Especially Jorani. He had no delusions about his character, a cowardly shirker who lacked both brains and brawn. He had no place on the battlefield, he was no hero or fighter, he was a survivor, a scavenger, one with no desire to ever face the Defiled again. In spite of all this, he still showed up for training every morning, feigning enthusiasm and playing his part as the no-nonsense Hangman Jorani for reasons he didn’t wholly understand.
+
+Pulling out his pocket watch, Jorani flipped it open and admired the glittering jewels before interrupting Ral’s daily hand-holding session with Chey. No longer did the sight stir up feelings of jealousy, only resigned melancholy as Jorani idly wondered when it’d be his turn to find a lady love. Sorya and Anrhi were still a part of his life, but they were adamant to play the part of his little sisters and not his lovers. “Time’s a wastin’,” he said, cursing his luck and gathering his dishes. “Told the squad to meet up before we go.”
+
+“Yes Jor. Got it Jor.” With his customary grin, Ral saluted three times and nuzzled Chey in farewell. The daft fool saluted for everything because he couldn’t remember when he’s supposed to and figured it was better to be safe than sorry. Swallowing the rest of his substantial breakfast in a single gulp, the big bastard caught up with a single stride, falling in behind Jorani as always. Ral was getting bigger by the day and his appetite followed, but his soft cheeks and rounded belly were gone now, replaced by a strong jawline and chiselled abs. Hair washed, beard trimmed, straight-backed, and head held high, he looked every bit the Bekhai Khishig in his long, fur-lined jacket. In a matter of months, the soft, dopey buffoon transformed into an intimidating, dopey, warrior.
+
+Not even Falling Rain could turn Ral into a hardened killer, but this was close as he’d ever get. Truth be told, Ral’s hard work and dedication surprised Jorani most of all, the dog-eared oaf pursuing strength with such single-minded perseverance he seemed like a person reborn. In this, his stupidity was an advantage, not smart enough to realize the bossman expected too much of them. His strength and skill reaching heights unknown, Ral’s meteoric rise served as motivation for Jorani who worked harder to not to fall behind. Feeble-minded and kind-hearted, Ral was just dumb enough to die doing something moronically heroic so Jorani had to be strong enough to stop him.
+
+Striding out onto the meeting grounds, Jorani’s squad gathered around him, waiting to hear from their leader. Aside from Dastan’s elites, Jorani’s squad had the lowest number of wash-outs, with only a handful of former bandits slinking away in shame. Even Wang Bao’s former Butcher Bay Bandits and Ulfsaar’s hardened cutthroats had more wash-outs, a point Jorani took great pride in. His squad comprised of former Freebooters and Mongrels, men and women who’d known him at his lowest, seen him bowing and scraping for their former bosses Kabi and Kosal. They all knew ‘Hangman Jorani’ was a sham and he’d worried it would cause issues, but far from it. They respected him more than they should, revered him for his false reputation, their eyes filled with faith and adoration as they hung on to his every word.
+
+They were idiots too, but they were his idiots. Another reason for Jorani to work hard and persevere.
+
+“Listen up,” he said, trying to sound gruff and gravelly. All serious warriors were gruff and gravelly, not squeaky and melodic like his natural voice. “Got wind of somethin’ I shouldn’t know, so keep it down. The bossman himself’ll be joining our squad fer a surprise inspection.” A chorus of muted groans rose but he stifled them with a snarl. “Nuff o’ yer bellyaching, shut yer ungrateful traps.”
+
+“Yes Sir,” came the reply.
+
+It was nice having a group hanging on to your every word. “Ain’t just room and board, the bossman’s done plenty for us so today we gonna show ‘im it weren’t no waste. Ninety minutes, that’s yer limit for today’s run. I want ye runnin’ like the Father Himself is chasin’ ye till we reach the training camp, and Mother save ye from my wrath if ye fall behind. Who knows, maybe one of you sorry maggots’ll impress the bossman and get a fancy Spiritual Weapon of your own, but I doubt it.” So far, they’d all gone to the veterans or Dastan’s squad, but Jorani’d prefer one of them fancy crossbows instead.
+
+Ignoring his squads pleading expressions and pitiful grimaces, Jorani removed his outer coat and loaded it onto a waiting wagon. Shivering in the brisk morning air, he stretched in preparation of their morning run, second guessing his decision. Ninety minutes for thirty kilometres uphill might be pushing it too far, he wasn’t even sure if it was possible. Worse, what if everyone else managed it, but Jorani failed to keep up?
+
+“Morning.” Arriving with little fanfare and dressed in a light, leather jacket, the bossman nodded in response to their salutes. Ral wasn’t the only one who’d changed, the scrawny, twig-thin teen had grown into a slim, sinewy young man. Despite his narrow build, below average height, clear eyes, and friendly smile, Jorani wasn’t fooled by the bossman’s appearance. He was a hard man, tough as nails and if he had unreasonable expectations for his soldiers, he had inhuman expectations for himself. Every one of them had seen how hard the bossman worked, doing everything they did only better and faster. With his pets and mounts following obediently at his heels, the bossman saluted Jorani. “I’ll be tagging along with your crew today, but you’re still in charge. Carry on as though I’m one of your soldiers.”
+
+“Understood,” Jorani said with a salute, mentally thanking Ravil for the head’s up. “Form up and move out!” Leading the way, he sprinted up the mountain path with measured breaths, pushing his pace faster than ever before. Sweat beaded down his neck, half-freezing from the winter winds and sending chills down his spine, heat and cold warring throughout his body as he fought the urge to check on the boss. After twenty minutes of hard running, Jorani casually turned to look at his squad and almost stumbled as he spied the bossman keeping pace with a bear clinging to his back.
+
+Mother above, he can’t be human, that bear must weigh 150 kilograms, easy.
+
+Gritting his teeth, Jorani picked up the pace and cursed the old bastard for sticking him with this monster clothed in human flesh. The bossman wasn’t even showing off, this was just a normal day in the charmed life of Falling Rain, effortlessly making everyone around him look bad. Life wasn’t fair, but this wasn’t news to Jorani. All he could do was work harder and pray the Defiled stayed out of the Northern Province forever.
+
+Then again, if that ever came to pass, the bossman was liable to go out riding in search of perilous adventure. That’s just the sort of idiot he was.
+
+No matter. Idiot or not, Jorani would follow Falling Rain into the Father’s Maw.
+
+...
+
+At a reasonable distance, of course.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pleasantly surprised by Jorani’s squad’s progress, I end my surprise inspection two hours before lunch and leave them to practice Healing. Although they’re not the fiercest or most talented of the bunch, Jorani’s ruffians are the most dedicated and obedient members of my retinue. Thirty kilometres in ninety seven minutes is impressive for trained Sentinels, even if Jorani almost died doing it. I should cut him some slack though, the poor guy was so nervous with me tagging along. He’s trying so hard and it makes me proud as a mama hen seeing him slowly and steadily improve over these past few months. Overall, I’ve no complaints with his leadership, and am especially pleased by his ability to inspire loyalty, my band of reformed bandits coming along nicely. Jorani’s people will be a competent squad of scouts and outriders, with their experience hiding in the wilds serving them well.
+
+All in all, my new retinue is shaping up nicely, even with no ‘proper’ Sentinels among their ranks. They all left after Mila was promoted to captain and formed her own Sentinel squad, which leaves my retinue sorely lacking. Unfair, just because she’s the boss's daughter... Baatar told me not to worry about it, but still... Why won’t the Sentinels love me? Did I offend them? Do I smell funny? Or is it because I’m a ‘foundling’? People have been ostracized for stupider reasons. Maybe I should hire a Public Relations manager or open my ranks up to regular soldiers...
+
+Whatever, I’ll make do with what I got. Ulfsaar and Wang Bao’s squads are my hammers while Dastan’s squad makes up my anvil. Chey’s squad is my ranged unit, each member armed with an expensive new crossbow to pepper my enemies with bolts. Besides, I can’t afford to arm, feed, and house a full retinue, much less buy everyone a quin, which is why Rustram, Ravil, and Bulat don’t have their own squads. Plus, this frees them up to practice alongside my other original cripples turned experts by default. While the rank and file are important, I can’t neglect the strength of my elites.
+
+Ha... My elites, Bulat and Ravil. So funny I could almost cry.
+
+Gathering my fluffies, I lure them over to the empty obstacle course with a healthy helping of treats. After drawing Peace and Tranquility, my pets fall into formation, knowing when weapons are out, playtime is over. Dressed in stylish cotton vests and knitted hats, Jimjam, Aurie, and Sarankho form up behind me while Banjo and Baloo take the flanks, their glossy black fur and resplendent scarves flapping in the wind. Ever the lazy bear, Banjo rears up on his hind legs and tries to climb onto my shoulders, but a firm ‘no’ is enough to dissuade him, the sweet yearling rubbing his head against my leg in search of forgiveness.
+
+Stay strong, don’t give in. This is serious business. We’re training so they know what to do if we ever need to make a run on foot. Shooing Banjo back to his position, I clang my weapons twice and set out towards the first obstacle, a series of chest high-hurdles. Well, waist-high for most people, but I’m short, so chest-high it is. Unfair. Cycling Chi throughout my body, I Lighten myself and clear the hurdles with ease, glancing back to see my fluffies in action. It’s too cute, the wildcats leaping over the hurdles while the bears try their hardest to do the same, treating each obstacle like a single stair as they climb over and jump down to the ground, happily grunting the whole while.
+
+In another year, they’ll probably be big enough to crash through the hurdles, but until then, they’ll need to be nimble.
+
+The next obstacle is the short wall, standing at three and a half meters tall. No ropes here, but that’s no problem. Stopping at the base of the wall, I Lighten my body once more and concentrate on the timing, successfully Amplifying my jump on the first try. There are few things better than the hang time after vertically jumping twice your height, the euphoria sending me into a fit of giggles as I land neatly atop the wall. Scorning my achievement, Jimjam bounds over in a single leap, sitting prettily while the other animals climb over like mere mortal animals.
+
+To Jimjam, this much is nothing. I’ve seen him parkour all over the mountain, leaping from tree to tree like a damn monkey. To be fair, the bears are nimble climbers too, though you wouldn’t know it by looking at them. You’d think a creature so butt-heavy would be terrible at climbing, but they zip up trees like over-sized squirrels, much to the chagrin of the actual, normal-sized squirrels.
+
+Moving on, we zip across the balance beams and over the long jump, making good time through both. The wall traverse, window jumps, and pillar steps all present no challenge for my fluffies. Banjo and Baloo aren’t really built for vertical jumps, but soon it’s their time to shine as we move on to the heavy lifting. While I Reinforce and lift a lead-core log over my head, my pets have weighted sleds attached to thick ropes to pull with their mouths, though it took a lot of practice to get them to play along. My tanky bears power through this part but the wildcats aren’t built for sustained power, dragging the sleds behind them in jerky bursts of speed. After travelling a hundred metres with our heavy loads, I give the command ‘release’ and they all happily drop their ropes, enjoying the game as I’ve taught them to.
+
+I’m enjoying myself too, but for different reasons. It’s great seeing all my hard work pay off as my fluffies build both strength, confidence, and obedience. Gone are the days when I have to keep a close eye on Aurie to make sure he doesn’t wander off or pay for food Jimjam steals from the market stalls. While I wouldn’t say my fluffies are domesticated, they’re so well-trained it’s almost the same.
+
+At least until the hormones kick in.
+
+After clearing the tall wall, a series of tunnels, a ramp jump, and a log climb, we finish our circuit with a celebratory lunch while I check my fluffies for injuries. With all the hard work I’ve put into training my pets, I now see just how amazing quins really are. Suret’s pups learned how to clear the obstacle course in a single run, running, leaping, and chirping happily the whole time, chasing one another through the course and dragging sleds around for fun. I stopped running it with them because there’s nothing worse than being judged by an oversized, bipedal otter for moving too slow.
+
+Cuddling with my pets for a short break, I take in the scenic, mountain view of frosted forests and mountains, sighing in contentment. Things at the Wall have been quiet of late, as if time itself were frozen by winter’s chill. Who knows how long this calm will last? With things in the Southern Province equally uneventful, an uneasy peace has settled across the Empire, but only because we’ve no news of the West. Eventually, the Defiled hordes will grow bored of razing the West and come pouring into the Central Province in search of fresh bodies to maim. Tens of millions of murderous Defiled warriors charging across the open grasslands of Central, may the Mother have mercy on anyone in their path.
+
+That’s not even all of it. The Imperial representative arrived at Sanshu two months ago and still has yet to pass judgment, so there’s still a chance the city will be Purged. Then there’s the Defiled horde which disappeared from outside our gates, which brings a slew of other worries. Are they still North of us, waiting for spring’s thaw before marching on the Wall once more? Or did we get lucky and they all froze to death?
+
+I doubt it. Nothing is ever easy.
+
+Either way, there’s nothing I can do except keep training, since matters to do with the grand scheme of things are way above my pay grade. All I can do is ensure my pets and soldiers are prepared for battle. Before heading down the mountain with Dastan for our daily sparring session, I watch my retinue running their drills, my chest swelling with pride at the sight of my warriors standing shoulder to shoulder in a shield wall, practising their maneuvers under Rustram’s supervision. I can see it now, my front line armed to the teeth with Spiritual spears and Runic shields, holding off the Defiled hordes like an immovable human fortress while the back line peppers the Enemy with bolts and arrows.
+
+It’s nowhere close to a reality yet, but a man can dream.
+
+Chapter Meme

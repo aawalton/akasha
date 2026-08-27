@@ -1,0 +1,119 @@
+---
+id: 588cb53a-b000-5832-a41d-ea5ac841c327
+page-type-slug: story-chapter-royal-road
+title: "Chapter 500: Discourse"
+slug: 0507-chapter-500-discourse
+partOf: savage-divinity
+position: 507
+ownLength: 3270
+unit: words
+publishedAt: 2019-09-02
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/398280/chapter-500-discourse"
+royalRoadId: "398280"
+---
+
+“...and only in acceptance, will you find peace. Eh-Mi-Tuo-Fuo.”
+
+“Accept the boot on the back of your head or the noose around your neck? Some things are worth fighting for, and the freedom to not be eaten by Defiled ranks high among them.”
+
+“You conflate surrender with acceptance, Junior Brother. Why must conflict be the only answer?”
+
+“What other option is there? It’s not like we’re riding out to attack the Defiled in their cozy little homes. They’re coming to us, so what would you have the Empire do? Retreat? Where to? Most don’t have impenetrable mountain homes to hide in.”
+
+“This monk does not claim to have all the answers, but the Empire and Defiled have battled for untold millennia yet still the conflict persists. Surely we can agree that violence is not the answer to humanity’s woes?”
+
+“It’s not the answer, but it’s an answer, and violence sure as hell beats acceptance. If left unchecked, the Defiled will rape, torture, pillage, and murder their way across the Empire until there is nothing left, but since violence isn’t the best solution, I should just give up and pray for the best? Tch. Please.”
+
+“Hai... such ignorance, such sin, Eh-Mi-Tuo-Fuo. Again, this monk speaks not of surrender, but acceptance. You see violence as the only solution, but harming others only harms one’s self, and...”
+
+Resisting the urge to pull her hair and scream, Luo-Luo took a deep, calming breath and hugged Banjo tight, taking solace in the sweet bear’s warm presence and happy gurgles. Today marked their fifth day of travel, and also the fifth day of non-stop squabbling between Lord Husband and the Abbot. Bickering like feuding fishwives, they were both too stubborn to relent or compromise, and lesser men would have long since devolved into petty name-calling or outright violence. Round and round their arguments went, so circular Luo-Luo’s head spun from trying to follow along, but try as she might, she couldn’t simply ignore them. At times, Lord Husband would call upon her to mediate, and if she feigned ignorance, then she would have to sit through the entire argument once again. If not her, then poor Jorani, or the other monk who spent most of his time Concealed, a rotund, ruddy-cheeked ascetic Jorani and Lord Husband insisted on calling ‘Happy’ despite the poor monk’s many requests that they stop.
+
+To be fair, differentiating between nameless monks presented something of a challenge, and ‘Happy’ was certainly a better moniker than ‘Fatty’.
+
+Truth be told, Lord Husband was being too disrespectful to the monks, as if their views offended him and must be corrected, but the Abbot was similarly being disrespectful by pushing his views upon Lord Husband and refusing to relent. Admirable as the Brotherhood’s goals might be, abandoning the mundane world was not a simple matter for most, yet the Abbot treated ties of friendship and family as less than air and expected Lord Husband to do the same, but he valued his family above all else, so of course they couldn’t agree on anything. Neither of them were in the right, but worse, neither cared, so their arguments went on and on.
+
+And on. And on.
+
+Without a moment of peace to be had, even Lin-Lin and the pets refused to sit at Lord Husband’s side, but the sweet half-hare still insisted her rickshaw travel next to Lord Husband’s despite spending most of her time fast asleep, so Luo-Luo was stuck listening to the obstinate debates day after day. Separated from the outside world by a barrier of silence to keep others from overhearing, Banjo’s soft grunts and the rickshaw’s spinning wheels were the only audible sounds to distract her from the Abbot’s dreary, monotone lectures and Lord Husband’s scathing, sarcastic retorts, and she prayed for an end which she knew would never come.
+
+“Look,” Lord Husband interjected, speaking over the meek, pacifist Abbot. “The crux of our disagreement is simple: you believe violence is not an acceptable answer, but I believe violence is the only viable option available. Am I wrong?”
+
+“There are options besides violence, but Junior Brother refuses to accept them,” the Abbot replied, his tone clipped and expression aloof, “And as this monk has said time and again, Junior Brother places too much focus on the impermanent.”
+
+“Considering the lives of all my loved ones fall under the category of ‘impermanent’, then yea, I’m kind of invested.” Holding a hand up to cut the Abbot off, Lord Husband continued, “Keeping to the issue of the Defiled, I stand by my belief that violence is the only viable solution we have available to us. You claim you can cure the Defiled, full Defiled who have completely given in to the Spectres, though you also refuse to elaborate on how. That’s fine, the details aren’t important, but by your own admission, the cure you extol is neither simple nor extensive, an exhaustive, collaborative effort which requires the afflicted to cooperate and endure months or years of arduous struggle in return for an exceedingly low rate of success. Is this correct?”
+
+How quickly the mind adapts. When Luo-Luo first heard the Abbot claim as much, she’d scoffed in disbelief, then gone wide-eyed with reverence when he revealed Lord Husband himself had done the same using a Droplet of Heavenly Water, but after five days of back and forth on the subject, she could hardly bring herself to care anymore. By this point, she would say or agree with almost anything so long as it put an end to their incessant bickering, but alas, there was no point because when one argument ended, another would rise up to take its place.
+
+After the Abbot reluctantly acknowledged the truth of the statement, Lord Husband continued, “Since this is the case, then your proposal that we stop fighting the Defiled and put our efforts towards rehabilitating them instead holds no water. The Defiled do not want to be rehabilitated because the Spectres will not allow them to even think it. I’ll help any person who comes to me for aid, but even before I was crippled, I could not cleanse the Defiled, only the Tainted.”
+
+“Hai... again with your unneeded complexities.” Shaking his head, the Abbot ignored Lord Husband’s statement and instead switched topics to another argument, a most infuriating habit of his which made Luo-Luo yearn to force his head underwater. “Window Tainted, Door Tainted, Tea-Drinking Tainted, all nonsense. Defiled are Defiled, what need is there for so many different labels?”
+
+“Uhh, because there is a quantifiable difference between Tainted and Defiled?” Lord Husband was no better than the Abbot for allowing their arguments to spiral out of control with his pithy sarcasm, but he was every bit as stubborn as his heritage suggested. “Tainted I could Cleanse, even without Blobby, but Defiled are immune to all my efforts. Haven’t you been listening? Maybe you should start taking notes.”
+
+Luo-Luo would have, had they not warned her against leaving evidence, because in truth, Lord Husband’s naming schemes left much to be desired.
+
+“Ridiculous,” the Abbot snorted. “If you can Cleanse the Tainted, you can Cleanse the Defiled, for they are one and the same. Whether it be a trout or a carp, the net cares not, so both will be trapped within its confines or both will break free and swim away.”
+
+“What if it’s a carp and a shark? Because that’s the scale of difference we’re talking about. The Tainted have only attracted the attention of the Spectres, whereas the Defiled have surrendered to their whims. It’s a matter of choice. The Tainted have none, and the Defiled have made theirs.”
+
+“The difference is not so great as you suggest, and even if it were so, is their mistake so grave it deserves a death sentence? Everyone is capable of change, provided they are willing and given time and guidance.”
+
+“No, they don’t deserve to die, but if given the choice, I will choose my life over theirs, a decision they force upon me and the Empire by coming to attack us. Mercy to one’s enemies is cruelty to oneself.”
+
+“Yet the Defiled themselves are not the Enemy. You said it yourself, they surrendered to the Spectres’ whims, so to hold them culpable for their actions is incorrect. They force no decisions, but are instead forced to them, and by killing them, you force them to an end.”
+
+“I agree, so if you have a method to directly defeat the Spectres rooted within the Defiled themselves, then please do share. If not, then I’ll stick to slaughtering their hosts and calling it a day.”
+
+“Such bloodlust, such sin. Hatred does naught but harm oneself.”
+
+“Perhaps, but I would gladly give flesh to break bone.”
+
+“And in doing so play right into the hands of the Enemy. Bloodshed only begets more bloodshed, for not only do the Spectres remain unchecked after the death of their hosts, they are also immediately exposed to new ones, men and women of the Empire lost in the madness of hatred and brutality. You treat the symptom, but leave the cause unchecked, so all you’ve done is delay and let the issue fester and worsen.”
+
+“Perhaps, but the soldiers of the Empire are strong enough to stand firm against the Spectres. Yes, some will succumb to the Spectres’ whispers, but most will not, else the Empire would have fallen long ago.”
+
+“How, pray tell, do you know this is not by design? Upon his deathbed, did Senior Brother not reveal to you the truth? The Spectres have broken free of the cycle of samsara and seek to end it, so this endless conflict does naught but bolster their numbers, but even wolves know they cannot hunt the deer to extinction, lest they starve to death next winter.”
+
+“Yea, but what’s the alternative? Run and hide? How many new Spectres will be born in the torture and mayhem that follows? Millions of lives lost in...”
+
+And so the argument had come full circle to begin anew, an endless back and forth between Lord Husband and the Abbot which had Luo-Luo at her wits’ end. It was clear to anyone watching, much less listening, that the two of them would never reach an accord, but still they argued for the sake of arguing and saw nothing wrong with their senseless behaviour. The worst of it was that in five, long, torturous days, they never once broached the topic of anything anyone might consider meaningful in any way shape or form, only touching upon immaterial matters of morality, ideology, and other abstract or hypothetical affairs which could neither be proven nor refuted. Never once did they speak of how they Cleansed Defiled, or what steps they might take to spread word of their miracles, or a thousand other matters which Luo-Luo deemed more important than idle philosophical musings. Every day since they left the citadel, the two of them would argue in circles all day and well into the night, not only driving Luo-Luo to the brink of madness, but also leaving her no opportunity to sneak into Lord Husband’s tent.
+
+Yes. A tent, not a yurt. Not even an officer’s tent, but a tiny, two person soldier’s tent, which Lord Husband insisted he use for propriety’s sake since he was ‘merely’ a private. While he claimed it was so the Justicars would have no reason to criticize him, Luo-Luo felt the decision had been aimed at her since there was barely enough room for her to sit up inside the tent, much less seduce him upon his tiny cot. She’d been so close to success the night before they left the citadel, his eyes burning with lust as he stood over her naked, trembling form, but the Abbot’s untimely appearance ruined everything and left her exposed in front of the entire family, a humiliating ordeal she had yet to recover from.
+
+At least Sister Alsantset seemed sympathetic to Luo-Luo’s misery and had been much kinder these past few days, her fierce scowls giving way to warm smiles and encouraging whispers, a sweet and understanding sister-in-law who cheered her on to keep trying. Then again, it likely had nothing to do with Luo-Luo’s naked escapades and everything to do with her decision to join Lord Husband on the field of battle, for the Bekhai were a fierce and warlike people who admired strength and courage, two traits Luo-Luo had yet to exhibit. Truth be told, she was rather surprised by how strongly the Bekhai supported Lord Husband, standing firmly by his side despite his frail, crippled state. Were he an Imperial Noble, he would have long since been cast to the wolves and she alongside him, a useless burden and eyesore best soon forgotten. Not so with the Bekhai, who turned out in full force to support him, a gesture which made Luo-Luo proud to count herself among them.
+
+To think, she worked herself to the bone for months hoping to be accepted, when in truth, they accepted her as one of the Bekhai the day she met Lord Husband and became his consort. Touched as she was by the sentiment, when she thought back on the many gruelling hours spent managing Lord Husband’s businesses and practising her Martial Skills, it would be a lie to say she didn’t sometimes resent her new family for their lacking social graces...
+
+Would it have been so difficult to simply tell her how they felt? Utterly maddening, this lack of communication.
+
+Sometime in the mid-afternoon, Lord Husband and the Abbot both fell mercifully silent, and though Luo-Luo cherished the unexpected hush of tranquility, her joy was short-lived as the barrier fell and the clamorous din of metal on metal reached her ears. Grabbing the handrail, she exerted her Chi to Stabilize her bearings and stood to peer at the source of the commotion. Off in the distance stood the dusty earthen walls of Fort Sinuji, their ultimate destination still at least an hour’s ride away yet already close enough to hear the distant clamour of battle. The blood drained from her face as she considered how loud it would be when she stood in the midst of the chaos instead of several kilometres away, a most humbling and terrifying prospect which set her knees to shaking.
+
+Mother in Heaven... was it too late to ask Lord Husband to send her back?
+
+A warm hand slipped into Luo-Luo’s and she turned to see Lin-Lin’s comforting grin. “Don’t worry,” she said, pulling Luo-Luo back into her seat. “There’ll be plenty of Defiled for us to kill, so don’t worry if we can’t make it there today, ya?”
+
+Even sweet Lin-Lin was as bloodthirsty as the rest of the Bekhai, though Luo-Luo still didn’t understand why the Medical Saint and his daughter weren’t considered Bekhai. No one would say, though it helped that Lord Husband also admitted his ignorance so she wasn’t alone.
+
+Only now did she notice that their convoy had slowed, and in her shock, she didn’t even realized she voiced the question out loud until Lord Husband replied, “With battle in full swing, we’re slowing down until we’ve informed the commander of our presence. If we approach too quickly without warning, we could be ‘mistaken’ for flanking Defiled.” Shrugging, he added, “Normally, flying our standards would be good enough, but considering the current political climate, I don’t blame Colonel General Nian Zu for playing it safe.”
+
+Despite his outward calm, his set jaw and unusually straight posture gave away Lord Husband’s agitation, as did his grasping hands reaching for a weapon which was no longer attached to his waist. Oh how it hurt to see his disappointment when reality reared its ugly head, having forgotten his frail condition at the first sight of battle, or that his ruined Spiritual Weapons still sat on the wall of his room back in the Citadel. As much as he professed otherwise, it was easy to see that Lord Husband not only thrived in conflict, but relished it as well, and that he dreamed of a triumphant return to his glory days as the Number One Talent in the Empire.
+
+A shame he refused to accept that his glory days were behind him and focus on the future instead, but in time, he would come to see that even though the Martial Path was forever denied him, there were still many avenues left for him to explore, some of which he would excel at. ‘Lending’ their workshops and facilities to Marshal Yuzhen had been a calculated gamble, one Luo-Luo prayed would work out since she didn’t expect the good Marshal would ever return Lord Husband’s properties. More likely she would ‘request’ to retain control of said properties in exchange for a place in her inner circle, an advisory one at first which would eventually lead to an official posting as a Lieutenant Marshal after enough time had passed to avoid the impression of bribery.
+
+It wasn’t illegal, just simply how business was done, but since Luo-Luo couldn’t outright speak her mind, she wasn’t sure if the Marshal would keep to her end of the implied bargain. Hopefully she would, since she was slated to marry the cheerless and taciturn Gerel, but nothing was certain when it came to politicians.
+
+None of this would matter if Lord Husband didn’t survive, so Luo-Luo put aside her errant thoughts and reached for her sceptre. The cold touch of metal reassured her as she reached for Balance and watched the battle unfold, though she could barely see through the billowing clouds of dust raised by the melee. Thundering hooves, ringing steel, booming horns, and crashing drums, there was a rhythm to the battle which she didn’t quite understand, but one she sensed all the same, a powerful cadence laid over-top the distant screams of the dead and dying.
+
+Palms slick and stomach twisting, she clutched her sceptre tight and wondered if she possessed the wherewithal to use it in battle, against the brutal Defiled no less. Before she left the Academy, she’d never even seen a dead animal, much less a dead person, and while she’d seen her fair share of the former in recent times, the sight of a skinned chicken ready to cook still made her queasy. What’s more, she had yet to even spar against anyone, for after Yan left, there was no one to supervise her training, so it was easy to imagine how she would fare in true battle.
+
+Poorly. She would fare poorly, and a quick death would be a mercy, for she’d heard tales of how the Defiled like to play with their prey...
+
+“Hey.” Lord Husband’s voice shook Luo-Luo from her thoughts, and she found his outstretched hand waiting for hers. Reaching over to take his hand, she grasped his fingers tight as he smiled and said, “Relax. There’s nothing to worry about.”
+
+And strange as it may seem, his kind words and warm smile were enough to reassure her, for they held an unspoken promise of safety and security. This was a man who, despite his physical frailty, was still the same confident and courageous Martial Warrior who took the Empire by storm, a true dragon among men.
+
+Or at least, it was reassuring, until he added, “Besides, if the Defiled get close enough for you to use that thing, then we’re probably all going to die regardless.”
+
+Quashing the urge to smash his smug face in with her sceptre, Luo-Luo almost regretted turning down the Grand Marshal’s offer all those years ago...
+
+Chapter Meme (Youtube)

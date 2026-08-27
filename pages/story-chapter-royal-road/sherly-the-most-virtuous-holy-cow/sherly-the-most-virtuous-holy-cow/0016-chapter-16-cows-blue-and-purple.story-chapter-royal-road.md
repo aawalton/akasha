@@ -1,0 +1,281 @@
+---
+id: f4eb9b81-7e68-50b3-a7da-8b3023c95f75
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 - Cows Blue and Purple"
+slug: 0016-chapter-16-cows-blue-and-purple
+partOf: sherly-the-most-virtuous-holy-cow
+position: 16
+ownLength: 2998
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2587549/chapter-16-cows-blue-and-purple"
+royalRoadId: "2587549"
+---
+
+Chapter 16 - Cows Blue and Purple
+
+A few hours ago…
+
+“And here I was expecting Sherly to ask me a bunch of questions.”
+
+Ishuin heard as Braum’s deep voice echoed within the cave, which was a simple, hollow-out place rid of any tunnels. It gave her the impression of something artificial. The former captain and his men had repurposed the originally cold enclosure, making it into something more hospitable.
+
+“She’s distracted,” said the elf, respectfully waiting for the man to gesture towards a seat. He did so only after pouring two glasses full of clear wine. “Thank you.”
+
+“Mmm,” Braum grunted. “I suppose you’ll be asking questions in her stead.”
+
+“Let’s just say, I’m just as curious.” Ishuin took a sip of the drink. It had a tinge of sweet plum to it, creating a straight line of heat down her throat. While the flavor was clear, it lacked some expected intensity.
+
+“A little young,” she commented. “Might not even be from a year ago.”
+
+“Can’t afford to age liquor these days,” Braum said, taking a sip of his own.
+
+“Three questions, Braum,” Ishuin started, putting down her glass. “If you have the time.”
+
+“I’m sure you’ll ask more than three,” he challenged with a smile. “But I have the time for all of them.”
+
+“In all my years, Sherly is the first person to have claimed to be from another world. While we were from different Claws back then, you never did tell me that you’d met other people who were in such circumstances. Did you just keep it a secret? Because it’s not that important?”
+
+“I never claimed to have met a person from another world, Ishuin,” Braum pointed out. “It was my great great grandfather. He left a journal about a girl from another world. While Sherly was placed into the body of a demon-cow, this one was more fortunate, depending on the perspective.”
+
+“Just a cow?” Ishuin guessed.
+
+“A bunny.” Braum smiled. “Just a normal bunny, which, after being taken over by this girl from another world, became awakened. And became a Wielder.”
+
+“If it was your great great grandfather… That’s around 200 years ago?”
+
+Braum smiled again. “That’s not supposed to be your second question, right?”
+
+“Yeah…”
+
+“Well, 200 years, yeah, give or take.”
+
+“What’s the bunny’s name?” Since she was asking more than she ought to now, Ishuin simply took advantage of it.
+
+“Ellie,” Braum said. “If you ask Lady Kansa, she can show you the records, but I don’t think that matters now, really.”
+
+“Why not?”
+
+“Two-hundred years ago was a long time, Ishuin. Taurus hasn't returned, back then. The circumstances Ellie had back then have nothing to do with Sherly’s today.”
+
+Braum rubbed his chin. “Except, maybe for two things.”
+
+“What?”
+
+“One, Ellie tried, and failed to go back home. But Sherly doesn’t seem to be looking for a way back, or at least that’s what I assume.”
+
+“I… I didn’t think to ask,” Ishuin said, clutching her temple. “By the Zodiacs, I should’ve asked!”
+
+“It’s not too late,” Braum said, finishing his wine and pouring another. When he gestured for Ishuin’s glass, which was still half-full, the elf noticed and finished her drink to ask for a refill.
+
+“I’ll ask, when I get the chance.”
+
+Ishuin sighed, which caught Braum’s attention. She regretted sighing, then.
+
+“What did you do?” he asked.
+
+“I…” Ishuin dejectedly shook her head and sighed. “I told Sherly to kill Taurus.”
+
+Braum only sighed… “Well, before you deal with that, I suppose you want to talk about Libra, yes?”
+
+Ishuin could only nod.
+
+Five minutes before Sherly saw the light…
+
+Ishuin was panicking. The mana surrounding Sherly had frozen and then crumbled. Then the cow girl was gone. It was an extremely rare occasion, but rarely did a Zodiac take interest in their evolving subjects.
+
+Quite in fact, it hadn’t even occurred to the elf to consider because of all the people and awakened animals she had seen evolve throughout her entire life, she had never seen a Zodiac interfere.
+
+“It’s against the rules,” she whispered, staring at her System Message.
+
+[Ishuin, this is Letters. I’ve hijacked your System Console in order to let you know that Taurus has abducted Sherly. I need you to send help. Sherly will not convert, and that means the Zodiac will just kill her. She’s not ready to fight him yet.]
+
+“Ishuin…” Maymay started. Her own System Console was hijacked by Letters as well. “We should ask Lady Kansa for help.”
+
+“Of course,” Ishuin said. “Taurus broke the rules, so we can ask Lady Kansa to interfere.”
+
+Together, they both kneeled to the ground and started to pray. Their connection was almost instantaneous, as if the Zodiac was waiting for them.
+
+”The urgency in which you make taut your bonds is not lost on me, my children. Speak, and I shall provide aid however I can.”
+
+Lady Kansa’s voice was a thought. The Zodiac herself did not speak. Instead, she made Ishuin and Maymay think of her words.
+
+“Taurus interfered with Sherly’s evolution, Lady Kansa,” Ishuin said. She didn’t care if she sounded like a child complaining about a bully to her parents. That was basically what was happening anyway, as far as she was concerned. Only deadlier. “She needs your help.”
+
+“Taurus’ Domain Heart is out of my jurisdiction, Ishuin. You know this. None of us Zodiacs can bring our powers there. It was a tradeoff we had to give to slow down his demonic invasion. Or else, we wouldn’t be here now.
+
+”Instead, I shall send the Hidden Cabal. Rest assured, Sherly will be saved.”
+
+Worry still lingered in Ishuin’s mind, but Lady Kansa closed their connection. She had no choice but to wait.
+
+She hated waiting.
+
+“Oooiii~ Oooiii~! Can you hear me, Cowie? Your spine’s, like, totally broken, but I can see your nerves are intact. Jeez, what did you say to Taurus to get him that grumpy? Anyway, just concentrate your mana on your back so you can repair it faster, ‘kay?”
+
+Sherly did as she was told, and immediately her spine reformed. It gave her a proper posture, allowing for the rest of her mana to flow properly throughout her body.
+
+“Good, good~! Quite the smart fellow, you are, Cowie~! I like you!”
+
+Now that Sherly’s hearing was clearer, she found the voice a little too enthusiastic and bubbly. A woman’s. Maybe a girl’s, she wasn’t sure. It was trying too hard to sound happy and cute.
+
+Almost too hard. Sherly didn’t even have the time to point out the nickname she was forcefully given.
+
+“Now, Cowie, try to fix your eyes, so you can see what’s going on. It’ll be easier for me to explain stuff, if you can see it too.”
+
+As Sherly focused, she could now clearly hear the sound of battle. Taurus was laughing and spewing threat after threat. There was also the sound of different metals clashing with each other, mixed with the sharp and booming noises from magical effects and explosions.
+
+People were fighting for her.
+
+“Oh, Cowie! Stop crying and heal yourself first! You’re making me sad!” said the bubbly voice, clearly distressed.
+
+Sherly didn’t care. She didn’t even care what the reason was why people were willing to help her. Whether they had any hidden agendas, or whether they needed to use her for something else.
+
+She didn’t mind. People were risking their lives for her, and she desperately wanted to return it in kind.
+
+In an instant, the cow girl’s eyes healed.
+
+She saw hope.
+
+“That’s right, just focus on me for now, Cowie.”
+
+Hope was a small girl with huge black horns larger than her head, with their length riddled with purple patterns. She carried a smile as bright as the sun. Long, straight, white hair was set in place with a purple-black tiara. And she had an overall purple theme. She wore a shining breastplate with intricate purple patterns layered on top of her long-sleeved tunic. The other parts of her armor carried the same design.
+
+On her waist was a black sword sheathed in a purple scabbard. And she had a white cape on her back.
+
+“There you go, Cowie! I know you can do it!” said this person that was Sherly’s hope.
+
+The girl’s ears twitched. Cow ears, with a purple earring. That was when Sherly rechecked the horns.
+
+Like the rest, they were purple.
+
+If they had been blue or purple, then we’d know that you’re an awakened cow instead.
+
+Sherly remembered the words, realizing the girl’s identity.
+
+“Now, Cowie, since you can see me,” said the white-haired girl. “I need you to focus on completely healing. Your body turned to semi-soup right as you were evolving, so your Continuous Regeneration has no idea how to reform you.
+
+“You need to guide it to where you were before you got interrupted, and then finish evolving. Only then can we get out of this place. Got it? It’s okay, my friends will hold the bad guys off for as long as you need. Taurus isn’t actually here, so he’s not in full power.”
+
+The purple cow girl cupped her hands over her mouth and took a deep breath.
+
+“Unless weak, cowardly, little Tau-tau wants to come and play!” she yelled.
+
+Taurus’ projection laughed and cursed, causing the world to quake. But the purple cow girl just laughed back. Sherly noticed she was being protected from the harmful effects of the cursed Zodiac.
+
+“Your taunts do nothing!” he spouted. “You’re just wasting my time. The moment I show myself, you cowards will just run away.”
+
+“Oooh! Scawwy! I’m so skwared!” The girl teased. “Who’s the big scawwy Zodiac? You are!”
+
+Thunder rumbled and lightning struck. Sherly didn’t even register the other cow girl parrying it with her sword until the deed was done. The fleshy ground around them suffered cracks, causing blood to spill. It gradually healed.
+
+“Okay, did that pinch a nerve, Tau-tau?” said the girl. “That’s my bad.”
+
+“Stop calling me Tau-tau!”
+
+“Face me Taurus! I’m your opponent!” said another voice. Female as well. But more mature and more elegant.
+
+“Who?” Sherly asked, now that she had fully recovered her entire upper body. She just now realized that her legs were also crushed.
+
+“Tau-tau?” the purple cow girl confirmed. She was still smoking from taking the lightning strike. Her hair had gone fizzy, and she was burned all over the place, but she was gradually healing. “That’s my nickname for Taurus. Cute, right?”
+
+“No, I mean—”
+
+“Oh, me?” the girl asked, now fully healed and beaming with joy. “I’m Beni! You may call me Cow-Beni! Or Kobeni! Get it? ‘Cause I’m a cow girl, like you. And Kobeni sounds like Cow-Beni. ‘Cause I’m a cow, see? Cute, right?”
+
+“Hello, Beni. Cow-Beni. Kobeni,” Sherly said, pushing herself up now that she only needed the rest of her cow legs to heal. “Thank you for saving me.”
+
+“Save it for after we get out of here, Cowie,” Kobeni said. “And Kobeni’s fine, if you can’t choose from the three.”
+
+“I think we can get out of here,” Sherly said. “I think I’m done evolving.”
+
+She was already able to stand on two feet. Her torso was also changed, now looking more human. She still had cow hair, but she realized she now needed clothes to cover her chest. The rest seemed fine, but Kobeni didn’t look convinced at all.
+
+“Nuh-uh!” she said, pointing at Sherly’s hands. “Cow arms should be gone if you took the Minotaur Evolution Trait.”
+
+“Oh…” Sherly looked and she still had hooves where her hands should be. “But I don’t know how to continue evolving.”
+
+“Use head. Think evolve. Then evolve.” Kobeni made a gesture for each step. Pointing at her head, then to her body. “Easy. No pain. No problem!”
+
+“Uh… Right.”
+
+Sherly focused and saw something to latch onto within her mind’s eye. Like a loose knot that needed tightening. She pulled with both mental hands.
+
+The change was immediate. Her flesh was reforming, turning cow forelegs into actual arms. They were covered in white hair like a gloved sleeve, but she could feel them. She moved her fingers. All ten of them. And she teared up with joy.
+
+“Yes! You did it, Cowie! Great job!”
+
+Kobeni rejoiced, jumping around before diving for a tight hug. Sherly didn’t mind.
+
+“Okay, now we need one more thing, Cowie. Before we go.” The purple cow girl turned and sent a green flare made out of her mana towards the battlefield.
+
+Almost immediately, someone approached them.
+
+A woman in full armor just like Kobeni, but she wore it with elegance and grace. Tall, with a face undisturbed despite all the fighting she had already done. She had thinner, black horns compared to the purple ones, with bright blue patterns along the length that pointed proudly upwards. Long, black hair with the ends turning into blue.
+
+It was more subtle compared to Kobeni, but this new cow girl had an overall black and blue theme to her. And that was when it struck Sherly.
+
+She was looking at two cow girls with actual human bodies. Cow-zilims. With the both of them, Sherly saw for the first time, the look of what she aspired to be. Their horns, their cow ears, and their tails were the only indication of them having once been cows. She was so surprised that she didn’t notice the blue cow girl holding something in her hand.
+
+One hand listlessly carried a blue sword with swirling mana around it. In the other was something else entirely. Something disgusting. She was presenting it to Sherly.
+
+“This is Belle,” Kobeni presented. “You can call her Cow-Belle, or cowbell! Get it? ‘Cause she’s a cow—ow!”
+
+Belle slapped the flat of her sword on Kobeni’s butt.
+
+“Just Belle, please, Sherly,” said the blue cow girl. Her voice was calm and caring, unlike the raging elegant voice she used to taunt Taurus. “Lady Kansa sent us to help you, but it was Ishuin who asked for help.”
+
+“Thank you!” Sherly cried. Or at least, she attempted to. Belle moved her hand closer, offering the disgusting thing.
+
+It was beating. Like a lump of flesh. Rotting and foul.
+
+“Wha…?”
+
+“Eat,” said Belle.
+
+“Explain it first!” Kobeni interjected, massaging her butt. “Ow! Jeez! What you have here, Cowie, is a Domain Heart. It’s a waste to leave behind. So you should eat it before we get out of here.”
+
+“Can’t you just eat it instead?” Sherly asked. But Belle insisted and she reactively held out her new hands, accepting the disgusting gift. “Sorry… If I choose not to eat this, are we unable to get out?”
+
+“Well, the thing is,” Kobeni started, scratching the back of her head. “Ah, wait, sorry. Belle, you can go help the others. Start retreating so we can hop off quicker.”
+
+“Roger,” said the blue cow girl before vanishing.
+
+“Where was I? Oh, yeah, the Domain Heart.” Kobeni cleared her throat. “The thing is, we already have our own Domain Hearts. It’s basically a dimension stored near your heart. You can store a bunch of things inside, so long as those things don’t have their own Domain Hearts.
+
+“Since you’re new, we’re pretty sure you don’t have one, so it’s a waste to just leave it. If you claim this place as your own, then we can sanctify it and abolish Taurus’ influence in this place.”
+
+“Wait…” Sherly looked around and stared. She didn’t quite get what Kobeni was talking about, so she asked for clarification. “You mean, we’re inside Taurus’ Domain Heart? But I thought you said we can’t put anything or anyone who already has one?”
+
+“Semantics, some antics…” Kobeni pressed her lips and tilted her head. “Actually, Zodiacs have a weird way with it, but the principle’s technically the same. There’s a better time to explain the details later. In any case, if you eat the Heart, this place will be purified and you’ll claim it as your own, then you can store a bunch of things and make it your own place.”
+
+She pointed towards the meaty landscape. “Technically, all of this will disappear and you’ll start a blank slate. The only difference is, you’ll start with a domain size already as big as this one, because it technically belongs to a Zodiac. If nothing else, think of it as weakening Taurus. Well, it’s barely a dent, but we do what we can, ya know?”
+
+“How big, exactly?” Sherly asked, holding the Domain Heart in her new hand. It was still beating slowly.
+
+Kobeni smiled. “Well, just look around you. Do you see where it ends?”
+
+“No…”
+
+“Well, there you go!”
+
+Without another moment’s hesitation, Sherly ate the Domain Heart. It almost choked her. Kobeni manifested a glass of water.
+
+“Calm down, Cowie. It’s all yours.”
+
+The purple cow girl sent another flare with her mana. Yellow, this time. Immediately, Belle and the others retreated towards them. Sherly noticed they were other cow and bull-zilims.
+
+“Did she eat it?” Belle asked.
+
+“Yep!” Kobeni said, hopping to her feet and offering Sherly a hand. “Time to go!”
+
+A white portal appeared behind them.
+
+“Enjoy it while it lasts, Sherly!” Taurus taunted, as the invaders retreated one by one. “In the end, you will all bow down to me!”
+
+Sherly took a deep breath. If there was one thing she had always wanted to do her entire life, it was to shout back at the people who kept messing up her life.
+
+“One day, Taurus! I’m going to take your place!” Sherly declared, putting all of her effort screaming as she was dragged into the portal. With tears, she kept yelling. “I swear, I will end you! I’ll be the holiest cow and end your life, demon!”
+
+Taurus’ laughter was gone, but Sherly, with her incredible hearing, made out his words even through the portal.
+
+“Let me see you try, Sherly! Let me see you try!”

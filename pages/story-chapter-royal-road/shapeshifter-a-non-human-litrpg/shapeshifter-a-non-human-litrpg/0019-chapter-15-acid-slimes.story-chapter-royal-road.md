@@ -1,0 +1,159 @@
+---
+id: 87aea64c-0308-56a4-aeaa-a027444feba8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Acid Slimes"
+slug: 0019-chapter-15-acid-slimes
+partOf: shapeshifter-a-non-human-litrpg
+position: 19
+ownLength: 1971
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3418122/chapter-15-acid-slimes"
+royalRoadId: "3418122"
+---
+
+Their footsteps echoed as they descended into the depths.
+
+Hina took the rear of the group, her gaze fixed on Yuki's back. She had worked with lower-level people before, and they had always notably slowed the group down. But not Yuki. No, the elf not only kept up with seasoned Hunters multiple grades above him, but he even denied eating food after hours of wading through freezing water.
+
+It was more than just strange.
+
+Alex had told her to drop it, but this went beyond an Archmage hiding their strength, as Daisuke had alluded to. This level of endurance was simply inhuman. Great healer or not, she refused to let her party of misfits succumb to this elf's scheme.
+
+[Entering the 11th floor of the World Dungeon]
+
+The system message flickered across her vision as she reached the bottom of the staircase, and for a moment, her attention was pulled from the elf by what awaited below.
+
+The eleventh floor sprawled out before them—a vast rocky plain that stretched to the edges of her Keen Eye's range and beyond, bathed in a dim amber glow that came from everywhere and nowhere at once. The ceiling was low for a dungeon of this depth, perhaps twenty meters overhead, and from it hung formations of amber crystal in long tapered columns, like frozen mid-drip. They were the source of the light. Not bioluminescence—these didn't pulse or breathe the way the fungal glow of the Drowned Canopy had. They were static and faintly warm, casting the whole floor in the color of old honey.
+
+The ground was something else. Black stone corroded into a texture like porous volcanic rock—pitted and rough, eaten away across its entire expanse into shallow channels and pools, as if acid had worked at it for thousands of years. The pools held liquid that caught the amber light with a greasy shimmer, making them look almost beautiful and deeply toxic at the same time. Hina had learned the hard way what lurked in the deeper ones last time.
+
+The acidic chemical smell bathing the entire floor had gotten worse. It burned her nose, causing her to wince.
+
+It's not good to be back, Hina thought darkly. Only a few days had passed since they were almost all killed down here, and with the acidic chemical smell in the air intensifying, the monster population had likely increased further. Now, where are those slimy fuckers? she thought, glancing over Alex's shoulder.
+
+"Let's make our way to the first beacon point," Alex said, pointing at a shadowed structure in the distance. "Everyone, follow me and stay in formation. A fight is unavoidable."
+
+The Vanguard moved forward, and everyone else followed as the floor opened into a wide basin ahead. The channels wove between rock formations that rose from the corroded ground like teeth, some still partially coated in a sticky amber residue. They provided cover. They also provided places for the monsters to hide.
+
+Hina caught sight of the first slime almost immediately.
+
+It was resting in a pool perhaps thirty meters to their left—easy to miss if you didn't know what to look for. An amber-tinted mass the size of a large dog, its body slow and formless, almost indistinguishable from the liquid it sat in. Translucent, with a faint orange-yellow core pulsing at its center like a very slow heartbeat. It hadn't noticed them yet.
+
+She cast Appraisal without breaking stride.
+
+[Acid Slime (Level 38)]
+
+Two levels higher than the strongest one we encountered last time.
+
+"They've gotten stronger," she said.
+
+"By how much?" Alex asked, keeping his gaze fixed on their target.
+
+"The highest I saw on our last run was level 36. That one is 38." She kept her eyes moving as she spoke. "And that's the first one I've found."
+
+"Could just be an oddly strong one," Alex reasoned, but didn't sound sure of it himself.
+
+"The mana intensity of the pools has increased as well," Daisuke said. He had crouched briefly beside a pool to peer into it, close enough that Hina had already checked it was empty before he got there because Daisuke absolutely would not have bothered to check himself. He straightened, wiping his hands on his robe. "Significantly so. I thought the mana density of each dungeon floor was considered fixed. Whatever is happening here contradicts that."
+
+"Perhaps as Hunters grow stronger, so does the dungeon to keep itself safe," Yuki suggested.
+
+"If that is the case, dungeon rushes will become more common as the Hunter guilds struggle to maintain the monster populations," Alex said, which was what everyone else was thinking. Yet, Hina noticed Yuki's hand clenching at his side. Did the idea of dungeon rushes displease him, or was it something else?
+
+I just can't make sense of him at all.
+
+The group remained silent as the structure in the distance slowly became clearer. It was a magnificent tower of black stone—but unlike the porous, acid-eaten rock that made up the floor, it was polished smooth, almost glassy, catching the amber light from the crystal formations above and throwing it back in long, dark reflections. It looked out of place amid the crystal-cave-like surroundings.
+
+It would take an hour to reach. Maybe two.
+
+What lay between them and it was the problem.
+
+The basin widened ahead into something that reminded her of a swamp—thin walkways of intact black stone cutting through a dense network of amber pools, the channels so narrow in places that they would have to move single-file. Every pool she could see was a breeding ground for the Acid Slimes, to the point that a normal person would notice them.
+
+It's like frogspawn.
+
+Hina cast Appraisal and glanced across the nearest cluster without stopping.
+
+[Acid Slime (Level 37)]
+
+[Acid Slime (Level 38)]
+
+[Acid Slime (Level 36)]
+
+[Acid Slime (Level 37)]
+
+She stopped counting.
+
+"This is where we failed last time," Alex said, mostly for Yuki's benefit, as the rest of them would never forget the horrific battle that took place here. He had his shield up already and seemed tense. "We know now that sneaking past them isn't an option—the Acid Slimes track mana signatures, not sound or movement. The moment we step onto those walkways, the nearest ones will surface." He glanced back at Daisuke. "Which is why you're going to strike them first as we planned."
+
+Daisuke sighed as though this were a mild inconvenience and stepped forward. He raised his staff, leveling it at the nearest cluster of pools, and drew a slow breath.
+
+"By the power invested in me, I call upon the strength and grace of the glorious Arcane—"
+
+"Daisuke," Alex said.
+
+"—to humble these accursed monsters that dare to stand between me and my goals." He paused for effect. "I shall show them your true might."
+
+"Any time now," Alex said, his voice flat.
+
+Daisuke took a final, deeply theatrical breath.
+
+"Arcane Barrage!"
+
+The mana around him shuddered and compressed—then erupted outward in a torrent of projectiles, hundreds of them, each no larger than a finger, raining down across the pools in a continuous roar of impact like deadly hail on a lake.
+
+It was incredibly effective.
+
+Acid Slimes were resistant to most physical force—their bodies absorbed blunt trauma and distributed it harmlessly through their mass. Magic was another matter. The mana projectiles punched through their translucent bodies and found the cores within. The sound of Acid Slime cores being obliterated echoed off the low ceiling until it filled the entire space.
+
+The volley lasted a full minute. When it ended, Daisuke lowered his staff and bowed to no one in particular.
+
+"The monsters have met their maker," he said, grinning. "The arcane is triumphant as always—"
+
+"How many died?" Alex asked, cutting the crazed Arcanist off.
+
+Daisuke paused and checked a notification they couldn't see. "I leveled up twice," he said, the theatrics dropping as he frowned. "Which means not enough."
+
+Alex mirrored Daisuke's grim expression. He looked out at the swamp ahead. Many cores were already beginning to move in the pools that Daisuke's barrage hadn't reached.
+
+"We push through," he said. "Single file on the walkways. Daisuke, use Mana Siphon to sustain yourself. You will be the only one doing meaningful damage to these things. Everyone else, don't engage unless one surfaces on the path directly." He glanced back at Yuki. "Stay close to Kenji. If one gets on you, he should be able to protect you."
+
+Yuki nodded.
+
+Hina said nothing and took up the rear. A situation like this, where she couldn't keep to the shadows and was forced out into the open, was far from ideal, so she would also be depending on Kenji, Alex, and Daisuke to create a path forward.
+
+The initial part of the walkways was wider than they had looked from a distance. That was the only good thing Hina could say about them.
+
+The stone was slick underfoot—not wet exactly, but coated in slime that burned to the touch. Hina pulled up the neck of her t-shirt over her mouth and nose from the intense chemical smell—the amber pools on either side close enough that she could feel the heat radiating off them.
+
+Thirty meters in, the first Acid Slime surfaced.
+
+It came up on Alex's left without warning. The amber pool hadn't even rippled to indicate the attack of such a vast pale mass. It was larger than the one she had appraised at the basin's edge. Much larger. The body was the size of a hippo, and it lurched forward with a speed that had no business belonging to something without limbs. The orange core at its center pulsed once, bright as a lit coal, and the mass launched itself at Alex with a force that sent amber liquid spraying across the walkway in a scalding sheet.
+
+Alex did his job as the Vanguard and took it on the shield.
+
+The impact drove him back a full step, his boots scraping stone, and for a moment, he looked like he was going to fall, the amber pool yawning behind him. Kenji caught him without being asked, pushing him forward, and Alex found his footing and leaned into the shield with a grunt.
+
+"That's new," Alex said through his teeth. "They weren't that strong before."
+
+Daisuke stepped forward and targeted the monster.
+
+"Feed me, oh accursed monster," he pointed his staff at the slime's core. "Mana Siphon!"
+
+Mana-like steam flowed off the surface of the Acid Slime and condensed towards Daisuke's staff. It didn't kill the Acid Slime, but it did weaken it enough for Kenji to step forward and drive his butcher's knife through the slime's body and strike the core. It might have looked like a perfect strike, but Hina could tell with her Keen Eye that the slime's size distorted perception. He had only managed to graze the slime's core, which was very bad news.
+
+When Acid Slimes felt their lives threatened, they self-destructed.
+
+"Wait—!" Hina called out, but it was too late. The slime exploded against Alex's shield and drenched Kenji's head and torso.
+
+The Warbringer howled out in pain, the acid eating away at his flesh as he collapsed to the stone in agony. It was the same nightmare all over again. One mistake, and the group fell apart.
+
+"Flash Mend," Yuki said, and a flash of radiant light bathed Kenji, cleansing him in an instant.
+
+Kenji stopped howling and blinked in disbelief at his hands as his flesh visibly regrew. "What?" he glanced at Yuki. "How did you..."
+
+"More are coming," Yuki said, pointing into the distance. "Let's focus on pressing forward."
+
+Level ten, as if, Hina grimaced as Kenji slowly stood up and readied himself again. I've seen B-grade Healers worse than you, Yuki. Just who are you?
+
+She couldn't wait to find out.

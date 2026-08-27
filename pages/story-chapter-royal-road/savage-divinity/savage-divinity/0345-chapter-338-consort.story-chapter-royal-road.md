@@ -1,0 +1,117 @@
+---
+id: 4297b3bc-710e-5c21-8c36-3ce75e6c0e85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 338: Consort"
+slug: 0345-chapter-338-consort
+partOf: savage-divinity
+position: 345
+ownLength: 3558
+unit: words
+publishedAt: 2018-05-22
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/217909/chapter-338-consort"
+royalRoadId: "217909"
+---
+
+The Mother was truly unfair to Her children.
+
+The thought tumbled around Luo-Luo’s mind as she waited for permission to disembark from her sedan. Hands trembling and jaw clenched, she smoothed her dress and patted her hair to calm her nerves, determined to endure through whatever trials and tribulations life had in store for her. Clutching her handkerchief, she faked a demure smile and inwardly lamented her fate, her life turning out so differently from the one she’d imagined. Even as a child, she’d stood out from her hundreds of rivals as she so rightly should, always one of the first to learn a new skill or grasp a new concept. Such was life within the Imperial Academy, where the scions of discredited families were sent to learn a trade in service to the Imperial Clan, a cutthroat world in which the winners became valued prizes and the losers worthless property.
+
+With her mastery in calligraphy, painting, dance, and music alone, Luo-Luo was undoubtedly a most valuable prize, but cruel fate conspired against her. While her inferior rivals were gifted to Imperial Princes and Heavenly Generals back in the homeland, she had the misfortune to be hoarded away for almost six years before being spirited off and abruptly gifted away without warning. Only an hour ago she’d been sitting in the palace gardens and ignoring the commotion going on outside the walls while composing a poem to best convey her sorrow when the Imperial Mandate arrived, overturning her life at a moment’s notice. She was to be given away to an outsider, an uncultured tribesman four years her junior by the name of Falling Rain. The Undying Savage they called him, a member of some tribal village in the northernmost mountains of the Northern Province, could this outcome be any worse?
+
+For long minutes after receiving the Mandate, Luo-Luo sat in stunned silence, wondering if she should invoke her Privilege and refuse the order, but she’d worked too hard to throw it all away before even meeting her husband. Perhaps things weren’t as terrible as she’d feared and he was some benevolent savage, oxymoron though it might be.
+
+The curtains parted and Luo-Luo flinched before putting on a happy face to receive her new husband. Instead, what greeted her was the adorable grin of a chubby-cheeked half-beast, a young girl with twin braids of snow-white hair and large, inquisitive eyes. “Hiya,” the girl said, climbing into the palanquin with a precious smile. “Wah big sister, you’re so tall and pretty!”
+
+“Why thank you,” Luo-Luo said, smiling as she scooted aside so the child could sit. “Such a lovely child, come sit with big sister.” Were this girl a student in the Academy, she would be a rare treasure, with her porcelain skin and snow-white hair, the exotic traits of a half-beast heritage. Judging by her embroidered, red-silk clothes and carefully braided hair, the child was someone of importance so Luo-Luo did her best to make friends. It never hurt to have too many allies, no matter their age or station. “This one is named Zheng Luo, but everyone calls her Luo-Luo. If it pleases you, what should Luo-Luo call you?”
+
+“I’m Tali.” Climbing onto the cushioned seat, little Tali stood to inspect Luo-Luo’s headpiece, a gilded crown shaped like twin phoenixes with a half-dozen amethysts dangling above her eyes. Luo-Luo worried little Tali would grab them and ruin her hair, but the child kept her hands to herself despite the obvious desire to do otherwise. Were she not about to meet her husband for the first time, Luo-Luo would have happily taken the crown off for Tali to play with, but a woman only had one chance to make a first impression. Charmed by the child’s manners, Luo-Luo reached into her sleeve for a bag of candied fruits and offered them instead. “Yummy, thanks!” Plopping down on the seat, Tali helped herself to the treats with gusto, still studying Luo-Luo’s jewellery and clothes. “Your dress is so purple and pretty, but it looks super tight and your chest is showing. Mama says only vixens wear tight dresses and show off their chest, but I don’t understand. Where are your fox ears?”
+
+Mother above, were these tribesmen a prudish bunch? Thank goodness little Tali was here to warn her. “Sweet child, Luo-Luo doesn’t know what your mama meant, but Luo-Luo is human.” Reaching for a shawl to cover her bare shoulders and exposed cleavage, she reminded herself she was no longer in the homeland and would have to adapt to her new family lest she be shunned or worse. Had she more time, she’d exchange her short, form-fitting dress for a more conservative robe, but her new husband could call on her at a moment’s notice. She knew little about him aside from what she’d heard in passing. Falling Rain, the youngest Second Grade Warrant Officer in history, attendant to the Divine Turtle, and most importantly, a man already betrothed. It was always a difficult prospect encroaching on another woman’s territory, but Luo-Luo was confident she could deal with any noblewoman in the Empire, much less an unschooled tribal tent-wife.
+
+Had she known this was what fate intended for her, Luo-Luo wouldn’t have worked so hard to excel and stand out above her peers. Maybe then she’d have been gifted to a minor noble or minister in the homeland like most of them had, a far better outcome when compared to being banished to the feral north-lands...
+
+Putting aside her regrets, Luo-Luo returned to the matter at hand, stroking Tali’s silky-smooth hair as she munched on candied fruits. “So tell me Tali, have you met Falling Rain?”
+
+“Yup! Rainy’s my uncle and he’s the best.” With Luo-Luo guiding the conversation, Tali revealed much about who Falling Rain was, a kind, gentle man who cared for Tali and her brother Tate, a learned man who taught them to read and write, or brought them out to fly kites and make pinwheels. Ignoring the child’s wild tales of bears, birds, and wildcats, Luo-Luo stitched together an impression of what to expect from her husband, but it was a jumble of clashing traits and personalities. Somehow, he was both a dedicated Martial Warrior and educated scholar, a warmhearted family man and charming scoundrel, a talented cook and budding herbalist, and lets not forget a successful businessman and generous philanthropist.
+
+How could one man be so many different things? Even allowing for the viewpoint of a child, this was too unrealistic to fathom.
+
+Worst of all, Luo-Luo learned she wasn’t encroaching on one woman’s territory, but three. According to Tali, Falling Rain was always surrounded by beautiful women his age, namely Lin-Lin, Mi-Mi, and Li-Li. There was also talk of finally reuniting with Yan-Yan, whoever that might be, which meant not only was Luo-Luo faced with an unfamiliar setting, she was also outnumbered by his many legal or prospective wives. Her new husband was a man of voracious appetites, but this was good news since he wouldn’t be immune to Luo-Luo’s womanly charms. Even better, all the other women were half-beasts, which meant Luo-Luo was the only one who could give birth to an heir, her most valuable bargaining chip in all of this.
+
+How depressing. Despite all her training and tutelage, she was reduced to the value of her womb. Then again, given how well Tali was treated and the prevalence of half-beasts, it’s possible these tribesmen care less for the difference between adopted and true-born kin...
+
+The curtains parted once more and Luo-Luo smiled prettily for her husband, a smile which slipped away as she identified the intruder. Sniffing around the palanquin was an honest to goodness black bear, its golden-brown muzzle parted in obvious hunger. A small bear, but a bear nonetheless, wandering around on its own with only a white bandana to restrain it. Gathering Tali into her arms, Luo-Luo brought her away from the voracious predator, only to find a second black bear poking its head in from the other side. With cushion in hand, she readied to fight the creatures off but instead, Tali giggled in delight and tossed out a handful of candied fruits. Struggling out of Luo-Luo’s embrace, she jumped down to pet the bears and said, “This is Banjo and this is Baloo. Or maybe the other way around, it’s hard to tell, ya? Rainy can and Tate says he can, but I think he’s just pretending.”
+
+It took several minutes for Luo-Luo to accept what was happening right in front of her, watching with wide-eyed disbelief as the two bears climbed into the palanquin to devour their treats and nuzzle the child with warm affection. Their warm furry hindquarters brushed against Luo-Luo’s bare calves as they clamoured for more treats, licking their chops and bowing their heads in obvious submission. Sensing no threat from the wild creatures, Luo-Luo tentatively reached out and stroked the closer one’s shoulder, marvelling how docile and gentle the large creatures were, sitting like dogs as they emitted a low, pulsating chortle and carefully took treats from Tali’s hand, allowing neither fang nor claw to touch her skin.
+
+How incredible... if Tali’s stories were true, then didn’t that mean there were wildcats and birds too? Were they all as well-behaved as Banjo and Baloo? How did Luo-Luo’s husband tame them? Perhaps she could impose on him for a pet of her own, like a tiny fox or adorable mink...
+
+The curtains parted a third time and again, Luo-Luo smiled for the intruder, this time a hare-eared, honey-skinned young woman in blue robes and a white shawl. “Hi,” she exclaimed with a toothy grin. “I’m Lin-Lin.”
+
+Heart skipping a beat, Luo-Luo resisted the urge to hug the diminutive and adorable girl. Instead, she curtsied in her seat as best she could, restrained by the twin bears crowding around her feet. “Consort Luo greets Madam Lin.”
+
+Though at least twice Tali’s age, Madam Lin shared the same hairstyle and reaction, her brown eyes going wide with wonder. “Wah, so tall and pretty!” Patting her cheeks, she squeezed her eyes shut and shook her head before continuing. “Madam sounds so stuffy. I don’t like it. Call me Lin-Lin and I’ll call you Luo-Luo ya?”
+
+Hesitating a moment, Luo-Luo lowered her head and waited before replying, “If Lin-Lin insists then Luo-Luo is happy to comply.”
+
+Smiling so hard her eyes turned into lines, Lin-Lin tugged on her braids and nodded while giggling in delight, won over with a single sentence. “Come,” she said, reaching for Luo-Luo’s hand. “I’ll bring you to meet everyone. Don’t worry, I’m sure we’ll all get along fine, ya? Tali, why don’t you take Banjo and Baloo to play with Tate?”
+
+This sweet, beautiful girl was almost too much. If her husband’s other wives were like this, then Luo-Luo would have nothing to fear.
+
+Holding hands and merrily chatting with her new ‘friend’, Luo-Luo stepped out of the palanquin and took in her first glimpse of her husband’s soldiers. The mere sight of so many tribal tattoos had her mind spinning in turmoil, wondering if she’d just been married off to a society of rustics and cave dwellers. Her husband’s soldiers were a motley, boorish bunch, especially when compared to the uniform and disciplined Imperial Death Corps around her. Hopefully her husband’s status would be enough to protect her from his brutish troops, but if not, Luo-Luo was not without her own defences.
+
+Leaving the Imperial Death Corps behind, Lin-Lin brought Luo-Luo on a short jaunt through the camp and what she saw set her mind a little more at ease. While these tribal warriors lacked discipline, they had plenty of respect, parting for little Lin-Lin with smiles and waves, like kindly uncles sending their niece off on a trip to the market. Many of her husband’s soldiers appeared scruffy and unkempt, but there were a handful of more presentable ones, mostly surrounding a handsome young man with long hair and a styled moustache being heartily congratulated for something or the other.
+
+Their curious domiciles were rather intriguing too, large canvas or leather covered huts with room enough for at least eight people side by side and height to spare for her to stretch. Even if Luo-Luo had to share with her handmaidens, it was a significant improvement from the linen tent she’d expected to find, which did wonders for her spirits. Then there were her husband’s war mounts, the large, bipedal otters who supposedly enjoyed frolicking in the waters, though the ones she saw bore long fangs and sharp talons which gave her pause. As they approached the camp’s centre, the Divine Turtle came into sight, a majestic creature of power and might laying next to the commander’s hut. Heart aflutter, Luo-Luo readied to meet her husband, but regrettably, Lin Lin steered her towards a different hut sitting across from her husband’s. Ducking her head to step through the doorway, Luo-Luo came face to face with a scowling, freckled red-head and a stony, cold-blooded brunette. Instantly recognizing them from Tali’s descriptions, she ignored the large wildcats sprawled around the room and gave a flourished curtsy, taking a calculated risk as she greeted them with a smile. “Consort Luo-Luo greets Madam Mi-Mi and Madam Li-Li.”
+
+How depressing. Luo-Luo lowered her guard and let Lin-Lin to lead her right into an ambush.
+
+A cold snort sent a chill down her spine and told her she’d made a mistake, so she fell to her knees and waited for permission to rise. This only seemed to infuriate ‘Mi-Mi’, who growled, “Oh for the Mother’s sake, not this again. Stop grovelling and stand up straight.”
+
+Cursing herself for her carelessness, Luo-Luo kept her eyes down and did as she was told. Unlike Lin-Lin, Mi-Mi and Li-Li were warriors, so aptly demonstrated by the various weapons bristling from their persons. Surely they wouldn’t beat or mutilate Luo-Luo before meeting her husband? Then again, being uncivilized tribesmen, they might not understand the repercussions of such an action. Resisting the urge to back away, she cursed herself for wasting so much time on chess, history, and politics instead of practising her Martial skills.
+
+In retrospect, it seemed silly to treat Heavenly Energy as little more than a beauty treatment, but how was Luo-Luo to know she would have to fight one day?
+
+Long seconds stretched by, and Lin-Lin was first to break the tense silence. “Don’t be so grumpy Mi-Mi,” she said, still holding tight to Luo-Luo’s hand. “Hubby already said he’s sorry about all this, and it’s not Luo-Luo’s fault. The Legate gifted her to Rainy, so it’d be rude to send her back, so we’re stuck with her, ya? Besides, she was so sweet with Tali and when Banjo and Baloo snuck in, Luo-Luo moved to protect her, so she’s not a bad person.”
+
+It took every scrap of self control Luo-Luo had to keep from staring at Lin-Lin, annoyed she’d underestimated the adorable half-hare. The dainty young woman was more calculating than she appeared, having sent little Tali in to see how Luo-Luo would react. Oh, such a shame to be married to a hen-pecked husband, having to play these games with his wives before even meeting him. How could she rely on his protection if he couldn’t keep his house in order?
+
+Deflating with a sigh, Mi-Mi uncrossed her arms and stepped forward, standing at about chest height as she gazed up at Luo-Luo’s face. With her short, fiery hair, pale complexion, and endearing freckles, Mi-Mi had a different beauty and possessed a tantalizing athletic frame to boot. Proving her husband was a man of varied tastes, Li-Li differed from Lin-Lin and Mi-Mi, a buxom, full-figured, bronze-skinned woman brimming with sensuous allure. With each woman here a unique beauty, Luo-Luo’s hopes of standing out through looks alone came to a crashing end.
+
+Though things looked dire, it was still too early to invoke the Privilege. Luo-Luo still had other charms besides her appearance, she only needed to survive long enough to entice her husband with them.
+
+Crinkling her button nose in an adorable grimace, Mi-Mi muttered, “Too beautiful,” beneath her breath and shook her head. With another sigh, she shook her head and said, “It’s all his fault. Even if he didn’t outright ask the Legate for a concubine, Rain’s indecent behaviour led to this.” Holding a hand up to forestall Lin-Lin’s arguments, Mi-Mi continued, “No, don’t make excuses for that mule-headed fool, you saw his stupid, perverted smile when he found out.”
+
+Excellent, at least her husband was interested in Luo-Luo, else she might as well give up now. Seizing the opportunity, she played the part of meek, frightened young girl, difficult as it was while being the tallest person in the room. “Honoured Madams, Luo-Luo has yet to decide if she will submit to Imperial Mandate, so if she could meet dear husband, then perhaps all your concerns will be laid to rest.” Let them believe she was ready to refuse so she could finally meet her husband and decide her fate.
+
+“Wait,” Mi-Mi asked, confusion plastered across her face. “You have a choice in the matter? You’re not a slave?”
+
+Bristling in indignation, Luo-Luo drew herself up to full height and replied, “This one is no slave, but an Imperial Servant, gifted in tribute to the Imperial Clan and educated at the Academy.”
+
+The three women traded puzzled glances and shrugs. “What’s the difference?” Lin-Lin asked.
+
+Calm yourself, Luo-Luo, they ask not out of malice, but ignorance. “A slave is bound by their Oaths, while a Servant suffers no such restrictions, attending to his or her duties out of loyalty to Imperial Clan. Imperial Mandate proclaimed this one to be the concubine of Falling Rain and this one obeys, because such is the Will of the Son of Heaven and Emperor of All Mankind.”
+
+The girls traded awkward glances once again before Mi-Mi asked, “So... you can refuse to marry Rain?”
+
+Luo-Luo nodded. “All Servants may refuse their duty by invoking the Privilege. At such a time, our patron is duty-bound to summon a Justicar so the Servant may submit their grievances for the Emperor’s perusal before they ascend into the afterlife.”
+
+“You’d rather die than marry Rain?” For some odd reason, Luo-Luo’s stance seemed to upset Mi-Mi. “Why? Is it because of the rumours? He’s a lecher, but really not all that bad.”
+
+Li-Li spoke for the first time, giving Luo-Luo a knowing nod. “If you do not wish to marry him, you need not take your own life. Sister will keep you safe.”
+
+“But you should marry hubby. He’s the best,” Lin-Lin added, hugging Luo-Luo’s waist as if afraid she’d run away.
+
+Head spinning from the abrupt reversal, Luo-Luo responded without thinking. “This one has yet to decide not because she is reluctant but because she knows nothing about her husband aside from his name.”
+
+“Oh, we can fix that.” Dragging Luo-Luo down to sit, Lin-Lin launched into a tale, dead set on convincing Luo-Luo to become Falling Rain’s concubine by telling tales of his kindness and generosity. Though less enthused, Mi-Mi also chimed in with stories of his martial prowess while Li-Li sat silently on the side and brushed the lazy wildcats, nodding along when she agreed and frowning when she did not.
+
+It was all very informative, but were it not for Luo-Luo’s impeccable manners, she’d have called her new sisters liars a half dozen times. There was more to Falling Rain than they would say, but overall, she was dazzled by his astonishing accomplishments and lofty pursuits. Little Tali wasn’t far off the mark with her fanciful stories, though she neglected to mention Luo-Luo’s husband was the newly-crowned number one talent in the Empire and a genius inventor. That alone was enough to convince her the Imperial Mandate was without fault, quashing all her thoughts of invoking the Privilege. Eager to meet him and especially eager to read his book of inventions, Luo-Luo steered the conversation towards that end and soon enough, Lin Lin was happily escorting her to meet him, with a less enthusiastic Mila (as she preferred to be called) and an apathetic Li-Li (whose ears fluttered in delight at the familiar appellation) following behind.
+
+Following Lin-Lin around the Divine Turtle’s bulk, Luo-Luo held her breath as she laid eyes upon her husband for the very first time. Broad of shoulder and slim of waist, he laid curled up against the Divine Turtle’s arm, no doubt exhausted after a long morning of gruelling, hard fought duels. A fierce and indomitable warrior, he hardly looked the part while curled up with more than a dozen rabbits, including one fully grown rabbit snuggled against his chest. While not the most handsome man she’d ever seen, a little skin care and make up would go a long way towards enhancing his appearance, not to mention a proper haircut and tailored clothes. As Lin-Lin skipped over to wake him, Luo-Luo glanced down and made sure everything was in place before donning her best smile and raising her head to meet her husband.
+
+Only to realize she raised it far too high, for she stood a full head taller than the number one talent in the Empire.
+
+Oh Mother above... her husband was so short!
+
+Chapter Meme

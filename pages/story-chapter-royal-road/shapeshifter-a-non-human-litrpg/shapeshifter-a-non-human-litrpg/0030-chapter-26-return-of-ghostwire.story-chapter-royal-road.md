@@ -1,0 +1,159 @@
+---
+id: 4c73215e-38d1-5e64-83da-f26feff85e1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Return of Ghostwire"
+slug: 0030-chapter-26-return-of-ghostwire
+partOf: shapeshifter-a-non-human-litrpg
+position: 30
+ownLength: 1825
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3588846/chapter-26-return-of-ghostwire"
+royalRoadId: "3588846"
+---
+
+[Shapeshift complete]
+
+Xen opened his eyes.
+
+[Class change to Spellblade successful]
+
+[B-grade class evolution complete. Skill and passive assigned to active form: Human (Ghostwire)]
+
+Two more notifications bloomed before Xen could even register the first wave fading.
+
+Skill Unlocked: [Spellblade's Edge (B)]
+
+Channel a prepared spell through your blade instead of casting it. Any debuff the spell would inflict is applied at one grade higher. The next three strikes after activation carry the spell's effect on contact.
+
+Xen smiled behind his mask. The thought of dishing out a Corruption Missile through the edge of his mithril short sword was an interesting one. A missile fired at range could be intercepted, dodged, or even shielded. Yet that same missile delivered through a sword tip at point-blank range, its debuff bumped a full grade, was outrageous.
+
+He focused on the second message.
+
+Passive Gained: [Duelist's Cadence]
+
+After landing a melee strike, your next spell cast within three seconds costs 30% less mana. After successfully casting a spell, your next melee strike within three seconds deals 30% additional damage.
+
+Now that is a Spellblade passive.
+
+"Bring up my status."
+
+Human: Level 50 (B)
+
+[Class: Spellblade]
+
+< [Multilingual (B)] - [Buff of the Berserker (C)] - [Corruption Missile (B)] - [Quiet Steps (D)] - [Crescent Rage (B)] - [Indomitable Defense (C)] - [Phantom Strike (D)] - [Vampiric Blade (C)] - [Ghoststep (B)] - [Windveil Agility (C)] - [Threadwalk (C)] - [Flash Mend (C)] - [Cleansing Light (D)]- [Spellblade's Edge (B)] >
+
+< [Sword Proficiency] - [Solo Hunter] - [Duelist's Cadence] >
+
+Xen nodded as he looked over the list of skills he had missed so dearly. His Elf and Human forms were both level 50, but the combat difference between them was incomparable. Better balanced stats provided by the human form aside, the [Solo Hunter] passive was the thing he had missed the most.
+
+[Solo Hunter]
+
+When fighting without allies, gain a stacking combat buff that empowers all stats. Each hostile enemy within close range adds +10% to strength, agility, defense, and magic, up to a maximum of +50%. The buff scales in real time with the number of enemies in your vicinity.
+
+It was absurdly overpowered, but it also showed just how foolish the system considered fighting alone to be.
+
+Dismissing the notifications, Xen slowly got to his feet and marveled at how high his perspective was now that he was inhabiting Ghostwire's tall body. It was almost disorientating as he looked down at his body. Yuki's clothes didn't fit him, so they were on the ground around him.
+
+The dungeon's breeze kissed his bare skin, not that he minded.
+
+He used Geomantic Perception to scan his surroundings for monsters and froze.
+
+To his surprise, there was a group of humans nearby.
+
+His head snapped in their direction, and he scrutinized them. "Three humans and an elf," he muttered, "not my party then."
+
+That meant there was another party down here with them, which made sense, as the 11th floor was vast and connected the continents of the world, as the other floors did. Was the whole floor locked down by this Abyssal Rift, or was it only this area?
+
+A question for another time.
+
+"Changeling Veil," Xen said, and illusion mana swiftly coated his skin, taking on the appearance of Ghostwire's signature black suit. He checked it, and while the skill warned him that it couldn't replicate finer detail, it seemed clothes weren't included in that. As far as he could tell, these illusory clothes wouldn't raise any suspicions.
+
+"Good, this will do," he said in Ghostwire's voice and grinned behind his mask. In this form, he didn't have to hold back, as Ghostwire was already being hunted. He was labeled as a murderer, a monster.
+
+Human, elf, or monster, they were all the same to him. Walking bags of experience to fuel his goal of reaching level 100. Only the group he had come in here with got special treatment.
+
+"I hope they have some interesting classes I can devour," Xen mused as he retrieved his mithril short sword from Yuki's poncho and made use of [Quiet Steps (D)] to silently stalk between the amber crystals to get a line of sight on the humans.
+
+There they are, Xen thought as he paused behind a pillar of amber and instantly recognized them as a party belonging to the dreaded Ether Technocrats by their sleek and dark armor glinting faintly with embedded mana circuits. One of them even wore an augmented monocle that Xen knew served as a substitute for the Appraisal skill after having been on the receiving end of its scrutiny before.
+
+Xen gritted his teeth. Learning they were part of the Ether Technocrats only furthered his desire to kill them.
+
+While most humans were the same to him, they were special. Publicly, the Ether Technocrats were one of Japan's most influential guilds, focused on manufacturing mana-based technology such as phones. Yet, in reality, they operated more like a mafia. By bankrolling the government, they were able to do as they pleased—such as designating random areas as research zones, where passing Hunters must be registered, scanned, and taxed.
+
+Xen had experienced this scheme himself and had harbored deep hatred for them ever since. They were also working alongside the Stormbringer's guild to hunt him.
+
+His eyes narrowed.
+
+The infiltrator had said he had dealings with the Ether Technocrats. Was this the group he was talking about?
+
+The humans were busy fighting a monster. It appeared to be an Ashrock, half the size of the Ashrock Colossus he had fought, but it was seemingly corrupted by the abyss. The usual featureless head was split lengthwise into a vertical seam, and inside, Xen saw nothing but swirling abyssal dark.
+
+The monster was focused on a human that Xen assumed was the team's tank. Its massive maw opened, and from within fired a tunneling beam of that black flame in a straight line. The human tank cowered behind his shield, the blast pushing him slowly back and glassifying the space between them.
+
+"Appraisal," Xen said, focusing on the monster first.
+
+[Rendmaw Colossus (Level 70)]
+
+So it wasn't just the Resinreaver that was overleveled. This is incomparable to the Acid Slimes from before the Abyssal Rift's appearance, who were all below level 40. Even the Ashrock Colossus I defeated was only level 55.
+
+Facing such a strong monster, Xen was even more interested in the party of Ether Technocrats easily fighting it.
+
+His quizzical golden gaze, empowered by the Appraisal skill, settled on the tank, who was still being pushed centimeter by centimeter across the glassifying basin floor as the Rendmaw Colossus's beam attack refused to relent.
+
+[Human (Bulwark Sentinel: Level 58)]
+
+A rare Juggernaut variant, if I had to guess, Xen thought, noting the layered runes burning along the rim of the man's tower shield. Each time the abyssal beam threatened to punch through, the runes flared and bled the impact outward, dispersing it across the shield face in a ripple of pale gold.
+
+So that's how he's still standing despite a twelve-level gap. Alex was only level 44 last time I checked, so I doubt he could survive against this Rendmaw. I hope they are okay...
+
+He shifted his focus past the tank to a second human, standing several paces back with both hands raised. Thin filaments of crackling violet light were weaving themselves between her fingertips, and the amber air around her had taken on a dangerous hue.
+
+[Human (Stormcaller: Level 60)]
+
+The Stormcaller finished casting her skill—the mana crystals embedded along the sides of her skin-tight black armor flaring with power—and she pointed at the monster. A torrent of purple lightning erupted from all around her and struck the Rendmaw directly in the face. The sheer force of the strike almost obliterated the monster's head, forcing it to cease its attack.
+
+Xen marveled at the firepower. The Ashrock Colossus had been magic-resistant, and this Rendmaw was 15 levels higher. Yet, this Stormcaller could unleash such magic and almost kill it.
+
+Was it due to her class, or the suit she wore? Xen wasn't sure, but he was going to find out.
+
+Given a moment of respite, the Bulwark Sentinel staggered to his feet. "Thanks, Vera," he said, exhaustion lacing his tone. Shouldering his shield, he retreated closer to the Stormcaller, who was already casting another spell.
+
+A blur of motion drew Xen's eye next—a third human, lightly armored, darting in and out of the Rendmaw's blind spots with a thin curved blade in each hand. Every strike left a faint afterimage trailing behind it, like ink painted across the air.
+
+[Human (Bladedancer: Level 58)]
+
+Behind the mask, Xen's grin widened.
+
+Another rare variant, and this one seems to have skills worth harvesting.
+
+Each cut the Bladedancer landed seemed to dent deeper into the Rendmaw's rocky surface, with their speed and strength notably increasing with each successful hit.
+
+Finally, his attention drifted to the elf.
+
+She was crouched on a low ridge of porous black stone behind the trio, both hands buried wrist-deep in the rock as though she were holding it down. From the cracks beneath her palms, faint emerald light pulsed in time with the others' movements.
+
+[Elf (Verdant Warden: Level 67)]
+
+Now that's a class I've never heard of before.
+
+From watching her and the class name, he was unsure what she was capable of. Some kind of terrain-bound support? A druidic offshoot of the Priest line? Xen had no idea.
+
+"Marcus, get in there," the elf commanded, her stern voice easily echoing through the cave over the sound of the Bladedancer's swords denting the Rendmaw.
+
+Without hesitation, the exhausted-looking tank charged at the Rendmaw.
+
+"Lend Weight," the elf said, and the very ground seemed to answer her call. Power erupted out of the porous stone and wreathed Marcus. The ground beneath him instantly cracked and quaked with every step. The Bladedancer kicked back and retreated right as Marcus's charge drew the Rendmaw's attention.
+
+Marcus's shield met the Rendmaw's face.
+
+It was as if the weight of a mountain had cannonballed into the monster. The Rendmaw's abyss-streaked body caved inward around the rim of the shield, the vertical seam in its featureless head splitting wider as the entire creature was hurled backward, smashing through a cluster of amber crystals on the basin's edge.
+
+Purple lightning from the Stormcaller streaked after the fallen monster, ending its life.
+
+Xen shook his head. While the Rendmaw was level 70, it would never stand a chance against a well-organized team.
+
+As the dust settled, Marcus turned with a wide grin to the elf. "I'll never get tired of that skill, Iris..." His grin faltered as he saw the elf still anchored to the ground and he became alert. "Is there another enemy nearby?"
+
+"That, I'm not sure," Iris said, and turned to look in Xen's direction. "But someone is watching us from behind that cluster of crystals."

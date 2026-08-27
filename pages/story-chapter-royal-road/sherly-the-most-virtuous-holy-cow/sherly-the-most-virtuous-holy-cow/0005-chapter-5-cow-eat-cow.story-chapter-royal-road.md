@@ -1,0 +1,195 @@
+---
+id: 649eaf29-ea59-543a-b40d-516bd3a77a74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 - Cow Eat Cow"
+slug: 0005-chapter-5-cow-eat-cow
+partOf: sherly-the-most-virtuous-holy-cow
+position: 5
+ownLength: 2027
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525698/chapter-5-cow-eat-cow"
+royalRoadId: "2525698"
+---
+
+Chapter 5 - Cow Eat Cow
+
+As far as Ishuin was concerned, Sherly, if that indeed was her actual name, didn’t look like a demon-cow.
+
+Small, white hair, her calm demeanor, and her ability to use reason and converse. Her claims of being from a different world aside, for it was not in the realm of impossibility in the first place, all these traits combined had made a convincing argument that the cow girl was indeed, at the very least, different from demons.
+
+Ishuin had her doubts, of course. Especially since Duis, Kasta, and Maymay all claimed that they found Sherly eating a unirat.
+
+And now, the scene before the elf Wielder testified for the truth of Sherly’s origin. If only she didn’t look like a savage doing it.
+
+“I told you she’s a demon-cow!” Duis proclaimed, turning to his comrades. “We should kill her!”
+
+Ishuin could see the bitterness in the bird-zilim’s eyes. Sherly had taken one of his prized possessions after all. And for a simple skirmish on top of that.
+
+The people were unsure. They weren’t blind to Sherly’s bravery during the fight. They all knew that this demon-cow, whether she actually was someone else, or just a weird version of one, had paved the way to safely destroy the herd of demon-cattle.
+
+All by herself.
+
+Even for a skirmish, this feat was unprecedented. Demons, no matter the form, had so much power and regenerative ability as to basically ensure some casualty to any faction or group that would hunt them down. Especially if the lot of them weren’t System Wielders.
+
+In the case of the Cancer’s Claw, only Kasta, Maymay, Duis, and Ishuin herself were part of this prestigious group. The others were only the more common System-touched, accompanied by a few gifted that were left uninfluenced by the System but had worked their way up the ranks through pure commitment and effort.
+
+In any case, Ishuin knew she had to control the impending chaos brewing within her people. She smacked Duis lightly at the back of his head.
+
+“Calm down,” she began, her gaze shifting towards her people and stopping towards Kasta. “Help the others. Leave Sherly to me. I’ll be alright. She’s not harmful.”
+
+There were a few moments of silence before Kasta ultimately sighed.
+
+“Gotcha.” The human Wielder clapped her hands. “Alright, everyone, stop gawking at the cute cow. Let her eat her own kin in peace. Get back to work! Pronto! Let’s find some poor folks we can exploit into joining the caravan by manipulating their hate for the demons, and then get them to work for us for free!”
+
+“Kasta…”
+
+“Let a bored woman have her fun, Ishuin,” Kasta said with a sigh. “I was just trying to lift the mood.” She turned to the others who looked stunned by her dry wit. “Go, get to it! Don’t make me kick your butts! I’ll make them so sore you can’t sit for a whole day!”
+
+Duis made a disgusted face before ultimately following his commander’s orders. Maymay lingered a tad more before Kasta, exasperated, pulled her by the collar. The dog-zilim threw a tantrum, saying she wanted to join Ishuin.
+
+The elf sighed as she waited for everyone to leave. By this time, Sherly had eaten three demon-cattle.
+
+How hungry are you?
+
+The thought, however, gave Ishuin an idea. It might not help clearly determine Sherly’s actual allegiance, but she would definitely know the demon-cow’s preferences when it came to her choice of food.
+
+Not the prettiest plan, but there’s no other option. I’m sorry, little child.
+
+Slowly, Ishuin placed a dead girl in front of Sherly. It took the demon-cow a minute to notice, too busy indulging in her avarice. But when she saw Ishuin, and then the small corpse, she immediately backed away.
+
+Sherly looked sad and disturbed.
+
+“You’re not going to eat it?” Ishuin asked.
+
+Sherly shook her head vigorously.
+
+“Can’t speak anymore?”
+
+“Please take her away,” Sherly said, her eyes staring solely at Ishuin. “I can’t stand staring at the dead.”
+
+Rather than grant her request, Ishuin gestured at the dead demon-cattle. “You don’t seem to have a problem staring at those. You’re even eating them.”
+
+“That’s…” Sherly took a pause and turned to one of the dead demons. “They’re different. I don’t see them as I see people.
+
+“They’re evil. They exist only to destroy. You can’t even reason with them. They’re not like animals that understand gestures and comprehend situations. They don’t even have survival instincts! They’re just demons.”
+
+Ishuin crossed her arms. “Awfully prejudiced for someone who claims to have seen them for the first time.”
+
+“Would you tell me otherwise?” Sherly said, staring back at the elf. “If you can prove to me that they’re not inherently evil, then I might change my mind.”
+
+Ishuin simply nodded towards Sherly. “I would say that you’re an inherently good demon-cow.”
+
+“That’s different,” said the demon-cow. “I’m not originally a demon-cow. I still have my personality from when I was human. I consider myself to be a human, regardless of what I may look like. I find it insulting and offensive to even be a part of the conversation whenever these demons are involved. I could’ve been anything! Why a demon-cow of all things!?”
+
+“So you don’t find this…” Ishuin gestured all over the half-eaten demons. “Whatever this is you’re doing as a form of cannibalism?”
+
+Sherly sighed. Or at least, that was what it looked like in Ishuin’s perspective.
+
+“When I first saw myself looking like this, the thought of eating beef was revolting,” Sherly said as she took a bite off of another demon-cattle. “But they taste exquisite, if I’m being honest. They’re juicier than any burger patty I’ve eaten before. And they can even make me stronger.”
+
+“These monsters do participate in such a depraved activity from time to time,” Ishuin said, gesturing at what was Sherly was doing.
+
+“You’re saying it’s because I’m a demon-cow that I can eat my own kind?”
+
+“Exactly.”
+
+“Does that mean you think I’ll be a danger to you and your caravan?”
+
+Ishuin smiled. She didn’t mind being interrogated. Trust went both ways, after all.
+
+“No. I find your contribution to the skirmish and your ability to be reasonable is completely that of a human. You might find trouble convincing others of this, however.”
+
+At this point, the elf Wielder moved the child’s corpse away from Sherly, putting the poor girl next to the others who had perished in this village. Since they have dealt with the demons, they could peacefully provide them all with a proper burial. Another fortunate event that could be traced back to Sherly’s bravery.
+
+“What do you suggest?” the cow girl asked.
+
+“Suggest on what?”
+
+“Convincing them.”
+
+Ishuin simply shrugged. “Turn into a human, I suppose.”
+
+The elf observed Sherly stare at her for an entire minute.
+
+“I can do that?”
+
+“Letters!” Sherly called out from within, her excitement going through the roof. Her tail flapped with joy. She didn’t even give enough time for her System Assistant to respond.
+
+“Letters! Letters! How do I turn into a human?”
+
+[The easiest way is to get an Evolution Trait from a human,] Letters replied. [Not Strains, but a Trait. Of course—]
+
+“No!” Sherly screamed. “Aside from that, please! Is there no other way?”
+
+[I know, I know. Calm down, Sherly.]
+
+“Oh, thank goodness.”
+
+“You should relax, Sherly,” Ishuin said. The cow girl had given the elf Wielder permission to see Letters’ words. “Your System Assistant wasn’t even done answering your first question.”
+
+[Ehem! As I was saying, there are other ways,] Letters wrote, in much bigger letters, but not ones overwhelmingly so. [The other method is simply by acquiring a lot more Evolution Strains from other monsters, or other sources we can find. There’s a path that’ll lead you towards a zilim progression.]
+
+“Oh!” Sherly cheered. “That’s much better. Why only zilim, though? I can’t be a pure human?”
+
+“You started out as an animal,” Ishuin explained. “That means your limit will only be up to zilim. You’ll have to go through becoming a chilim first, which is the limit for a pure human who wants to be part animal. Depending on how you progress, you might have multiple chilim stages before you reach zilim.”
+
+“What? Chilim?”
+
+“They’re more animal than human. Imagine Duis but with a bird’s face and a beak, and covered with feathers.”
+
+“Oh! I see.” Sherly tried to frown, but had difficulty doing so. She gave up. “Did Duis start out as a bird? Does that mean animals can become humans even without comprehension like I do?”
+
+“It’s totally possible,” Ishuin replied. “In such cases, they gradually gain human-level intelligence as they progress their evolution. As for Duis, he started out as a human.”
+
+“Eh?” Sherly tilted her head. “I guess those wings are pretty useful.”
+
+“Yep. Statistically speaking, bird-zilim is the most preferred evolution, the one most humans turn into, should they be given a chance. And it’s really all about the wings.”
+
+“I bet there aren’t any cows.” Sherly scoffed. That, she found out, her cow form could easily do.
+
+“Well, there are some.” Ishuin cleared her throat. “A number of Taurus worshipers opted to be closer to the Zodiac.”
+
+“Isn’t Taurus a bull?” Sherly realized that her knowledge about zodiac signs might be completely different from the ones of this world.
+
+“Yes, that’s correct,” the elf said, her eyes narrowing again. “Are you sure you’re not from this world?”
+
+Sherly sighed. “I don’t even know the name of this world.”
+
+“Sinzodia,” Ishuin said with a smile. “I was merely kidding, Sherly. I did not mean to offend. I already said that I believe your words. And after your bravery today, I now also believe that you are a good egg.
+
+“Though, what you exhibited afterwards, this excessive hunger you showed, almost ravaging the demon-cattle like a savage, I think this left a different impression upon my people. But trust me, they are also good eggs. So long as you keep your urges intact, don’t use them to bring harm upon them, and use your words calmly to provide proof of reason, I believe you’ll be alright.”
+
+“Can I just stick with you for now?” Sherly asked. “I don’t know much about this world, and I don’t think leaving the caravan is an option for me. But I don’t want to cause trouble for your people, either. So, if it’s alright with you, Ishuin, I’d appreciate it if you could keep me protected.”
+
+“Well, well, well.” Ishuin placed one hand on her waist while stabbing the butt-end of her spear on the ground. “You have some way with words there, young lady. If you’d thrown in a few praises, I would’ve considered saying yes.”
+
+“Oh, please, ever beautiful, gorgeous, magnificent Ishuin! I will be forever indebted with you, should your generosity and hospitality grace me with your infallible protection!”
+
+“Alright, alright.” The elf blushed slightly. “That’s going a bit overboard. I never planned to let you go in the first place.”
+
+“Oh, thank god!”
+
+“Which god?” Ishuin asked.
+
+“Err, what? It’s just an expression.”
+
+“Then your first survival lesson, my dear Sherly, is to keep that expression, or anything else relating to gods, to yourself.”
+
+“Why?” Again, the cow girl tilted her head. “Aren’t the Zodiacs gods?”
+
+“They are,” the elf agreed. “But not all of them are good. Which brings us back to your main problem.”
+
+“Oh, no… Let me guess…”
+
+“That’s right, little cow.” Ishuin shook her head in disappointment. Not in Sherly, but in the god that was supposed to be her creator. “Taurus, for a century now, has been spreading corruption and evil across all of Sinzodia.”
+
+“Nothing’s really going my way, huh?” Sherly said, scoffing. “What else is new?”
+
+A soldier arrived and whispered something to Ishuin. She gave a nod and sent him away just as quickly.
+
+“Come, Sherly,” she began, reaching out a hand. “We’ll talk more on the road. Crustia is still a few days away. I’ll teach you all the basics before we get there.”
+
+“Crustia?”
+
+“Yes. Crustia, the Great City of the Cancer Zodiac.”

@@ -1,0 +1,155 @@
+---
+id: 6bf36ad9-7922-50e4-b549-7d7ce960f0f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Cow Versus Shervisvile"
+slug: 0028-chapter-28-cow-versus-shervisvile
+partOf: sherly-the-most-virtuous-holy-cow
+position: 28
+ownLength: 2007
+unit: words
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2831386/chapter-28-cow-versus-shervisvile"
+royalRoadId: "2831386"
+---
+
+Chapter 28 - Cow Versus Shervisvile
+
+It was at the moment the lizard monster leapt at Sherly that the cow-chilim disregarded any manner of hesitation. Whether it was a wild animal she could’ve reasoned with, or if hunting one would’ve created an impact on the ecosystem of this forest, or whether what she was doing was right or wrong, they all vanished. Only one thing mattered at the moment.
+
+Survival.
+
+While defending against the grizzly bear claws of the lizard monster, Sherly convinced herself that she had no choice but to hunt it down. An animal protecting its territory would give away all kinds of warnings before ultimately pouncing to attack. This monster, however, looked at her once and decided she was prey.
+
+It didn’t matter that she was armored. It didn’t matter that she was armed. The monster had no discerning intellect to recognize such things. It was hungry and ready to hunt.
+
+After pushing off the monster with Stalwart, Sherly realized that the situation she'd gotten herself into hadn’t really changed when compared to the previous encounters she had fought in before. If she didn’t fight back, she would either be dead or food.
+
+On this, she placed her resolve, holding her greatsword with both hands as she stared down the monster.
+
+Unlike her, however, the shervisvile didn’t entertain the concept of right or wrong. There wasn’t a sliver of hesitation in its eyes. Instead, it circled around Sherly, observing her and deciding on how to approach its next attempt.
+
+The cow-chilim stood her ground, placing Stalwart in between her and the monster. She decided to wait rather than attack, relying on her sturdiness and ability to retaliate.
+
+The standoff didn’t drag on as the shervisvile decided to jump at her once more. Sherly raised her greatsword, placing the edge right in front of her attacker. It didn’t cut through, and the smaller surface area allowed the monster’s bear arms to slip through.
+
+Sherly was barely able to step back, her neck sliced open just barely shallow enough to miss the arteries. She barely felt any pain due to her Physical Resistance. And while her ability to regenerate instantly activated, she realized that the monster was smart enough to head straight to her weak spot. Her breastplate’s collar gave some protection to her neck, but not enough, it seemed.
+
+The cow-chilim redid her stance and took a deep breath. She concentrated on the shervisvile. The monster, realizing that its prey didn’t plan on moving, attacked once more, making the exact same move.
+
+Sherly defended in the same way as well, but this time she lowered her stance and pushed off her feet. She brought the balance on her waist forwards as she delivered her slash, with the muscles of her entire back forcing down the greatsword.
+
+Her lowered stance allowed her to barely dodge the shervisvile’s claw, which grazed her forehead before colliding with her horn. It took Sherly incredible effort to prevent her head from reeling back, letting the reptilian arm slide past. On her Stalwart, she could feel the monster’s hide resisting its edge. She knew her greatsword was sharp enough to cut through wood, but instead of cutting through, the lizard-like creature was instead pushed away with barely any mark left on its skin.
+
+Tough. Well, it wouldn’t be compared to a dragon’s hide if I could slash through it so easily.
+
+Not willing to be disheartened by that fact, Sherly appreciated her armor more. If that amount of tenacity was indeed the qualities included in her current armor, then she had more confidence in it now than ever before. She also appreciated the untold lesson that the shervisvile had taught her, whether by accident or deliberate.
+
+The cow-chilim touched her neck, where the wound had already fully healed. The monster either had incredible combat instincts or natural luck, determining quickly that Sherly’s neck was unprotected by the armor. But that same logic was something she could apply herself.
+
+Sherly changed her stance, stepping forward with her left foot so that her left side was in front of the shervisvile. She lifted Stalwart closer to her head, orienting it parallel to the ground so that the tip was pointed at the monster.
+
+The situation fell into another standoff. The shervisvile was smart enough to recognize that something had changed. It also understood that it had been hit, even though it was left relatively unharmed. It circled around Sherly once more, deciding on when and how to attack.
+
+The cow-chilim practiced her patience. She could carry the stance for hours now without breaking a sweat. She knew that the attack would still come, whether she had changed tactics or not. And all she needed to do was to prepare for it.
+
+Like the sun rising during the dawn, the shervisvile’s attack came as expected. It roared and pounced, attacking once more in the same reckless way it had done so in its previous attempts, but louder and quicker this time around.
+
+Sherly didn’t let go of her chance. She took a deep breath and held it, concentrating as much as she could. Falling into a state of extreme focus was not an unfamiliar realm for an athlete like her. A moment where the mind and the adrenaline reached a serene harmony, where things seemed to slow down at surreal levels. Details and predictions came like foresight, and distractions and hesitation completely vanished.
+
+This time, Sherly now realized, she could fall into this state even in her current form. All it took was putting her own safety on the line.
+
+Just like always.
+
+The cow-chilim didn’t blink, thrusting Stalwart straight into the shervisvile’s maw. As she had predicted, the flesh from the inside wasn’t as tough, not when compared to its hide. Her greatsword went through muscle and bone, but it didn’t pierce out the other side.
+
+The monster had a moment of surprise, before instantly falling limp, slipping off Stalwart’s blade. Blood pooled around its head.
+
+Sherly breathed out, eyeing her hunt. She could see the evidence of her success, but at the back of her mind, the unknown was keeping her on high alert. There wasn’t a sensation of finality in her strike, regardless of how effective it had been.
+
+Moments passed, and the monster stayed perfectly still. Completely lifeless.
+
+Sherly finally decided to relax.
+
+“You did it!” Maymay called out, causing Sherly to jump in surprise. “Oh, sorry!”
+
+“I almost threw my sword at you!” the cow-chilim screamed, catching her breath. “I have no idea if it’s dead or not, so I was sort of waiting.”
+
+“You cut through where its spine’s supposed to be, so I think it’s technically dead,” Maymay said sheepishly, gesturing for the greatsword-user to put her weapon down slowly. “Don’t worry, you’re good. Relax.”
+
+Sherly did as asked, placing Stalwart on her back. She looked at the shervisvile once more. Now assured that it was certainly dead, her stomach started to grumble.
+
+There was one problem, however.
+
+“How am I supposed to eat that?” she asked the dog-zilim. “The skin’s probably like rubber.”
+
+Maymay, in response, pulled out a pot from her Domain Heart. The bottom was so black with soot that there was no doubt about its purpose. She smiled back at Sherly.
+
+“We boil it.”
+
+[Congratulations Sherly, you’re now Level 14! You have one available Skill Point and currently zero Evolution Strains.]
+
+Sherly nodded and appreciated Letter’s update. “Thank you. I’ll see what I can do with the Strain.”
+
+“Over here,” Maymay said.
+
+The cow-chilim watched as Maymay dissected the shervisvile in preparation for the boiling. While it did have a really tough hide, slicing through it without it being able to fight back made the task relatively easier. The dog-zilim discarded the unwanted innards and deep within its chest, she retrieved a small gem-like object. It was rather small, no larger than her fingernail.
+
+She accepted the gem while tilting her head to deliver her silent question.
+
+“Here’s the mana-core,” Maymay explained. “It’s the thing you eat to get your Evolution Strains, remember?”
+
+“Oh, right. Thank you.” Sherly popped the crystal into her mouth while observing Maymay prepare the rest of the creature.
+
+The taste was surprisingly nothing, given that the thing had originated from inside a creature. Curiously, she gave it a bite. The crystal was instantly shattered, but apart from the glassy texture, there wasn’t any additional taste.
+
+[You acquired 7 Evolution Strains from that, Sherly.]
+
+“That’s not a lot,” she said in reply. “But it is just one monster.”
+
+[Stronger ones will have more, of course.]
+
+“Of course.”
+
+“Talking to Letters?” Maymay asked while she readied the pot on a makeshift campfire. She had no racks or special tools to keep the pot on top of the fire. She just placed a flat rock in the middle and surrounded it with dry wood before lighting it aflame.
+
+“About the Strains, yeah,” Sherly replied, not even daring to question the safety issues of the makeshift stove. The way Maymay had quickly made the setup was enough for the cow-chilim to trust her with it.
+
+“Must be nice to have a System Assistant.”
+
+“Oh, right,” Sherly said, remembering that not all Wielders had their own System Assistant like her. “I forgot about that.”
+
+“Well, I suppose you were thrown into this world without prior training or some sort of knowledge transfer. You’ll need every support you can get.”
+
+“I do appreciate what Letters does for me, yeah.”
+
+[You’re most welcome, Sherly!]
+
+Maymay sliced the shervisvile meat into cubes then threw them into the pot as it boiled. She added some herbs and spices from her Domain Heart before stirring it with a wooden ladle.
+
+“I still can’t believe how you can manage to cut its hide,” Sherly commented as she watched the field cook stir the pot. The smell was making her stomach rumble. “I used as much strength as I could and couldn’t even scratch it.”
+
+“A matter of technique and equipment,” Maymay explained as she covered the pot. Then, she pulled out some potatoes and threw them into the embers to bake. “While your Stalwart is indeed sharp, just brute forcing your attacks barely helps when fighting something so sturdy. Not to mention that the shervisvile was also utilizing mana to increase its defenses.”
+
+“Oh, I didn’t know it could do that,” Sherly said looking into the armor she was still wearing. “Can I do the same with my armor?”
+
+“I don’t think so,” Maymay said. “Otherwise, Edward or Phoebe would’ve already told you about it.”
+
+“Ah, that makes sense.” Sherly nodded. “They wouldn’t pass up an opportunity to boast about it.”
+
+“I have to say though, attacking the unprotected spot was pretty smart, given that you didn’t have any prior knowledge about this creature. I was about to give you a hint, but when you changed your stance, I figured you got it.”
+
+The discussion between the two continued until their lunch was cooked. Boiled shervisvile surprisingly tasted like beef. Matched with baked potatoes, it served for a hearty meal.
+
+All the while, the two discussed how to improve Sherly’s fighting techniques. Even though their styles were complete opposites, since the cow-chilim had the tenacity and set of Skills to stand her ground and take hits, while the dog-zilim opted for swiftness and precise attacks, Maymay was still able to impart some important pointers.
+
+Sherly took them to heart. Now with a full stomach, she was raring to go for another hunt. But Maymay suggested that they should return to the caravan soon.
+
+“We’re heading for The Gap,” Maymay started. “It’s better if we can get there before sunset.”
+
+“I can’t wait to see the reason behind all the fuss and secrecy about it,” Sherly replied.
+
+“Well, it’s not really a secret. It’s just better if you see it for yourself.”
+
+“Now I’m more curious!”
+
+Thankfully, on the way back, the two met another shervisvile. At the very least, Sherly had something to get her mind off the anticipation.

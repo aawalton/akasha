@@ -1,0 +1,139 @@
+---
+id: efe3ab11-5669-5bab-9295-9db9b8fa595f
+page-type-slug: story-chapter-royal-road
+title: "262. Black Hole (III) "
+slug: 0017-262-black-hole-iii
+partOf: speedrunning-the-multiverse-complete
+position: 17
+ownLength: 1654
+unit: words
+ownProgress: 1654
+publishedAt: 2023-07-14
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1276422/262-black-hole-iii"
+royalRoadId: "1276422"
+markedReadAt: "2026-06-29T22:42:15.256Z"
+---
+
+There was another reason Dorian found it hard to gauge his strength. For the first time his cultivation had gone from percentages to absolute numbers. It reflected his feeling of the Black Hole—like staring into the darkness an abyss. It gave an impression of fathomless depth. Which lent him an aura of mystique, but also meant even he didn’t know how much qi was in there.
+
+Maybe the scale in the System was calibrated to a universal constant. The amount of qi it took to fill a thousand max-grade Spirit Stones, perhaps? All Dorian knew for sure was that someone had made it this far. And that someone had likely taken great pains to keep it a secret. It wasn’t uncommon for the great clans, with their signature Techniques. Sadly it left Dorian feeling like a blind man who’d stumbled into someone else’s house, trying to construct a blueprint by touch alone.
+
+He stood and willed himself out of the Chamber. And like that, it was done.
+
+He was back in Coldheart’s tomb, which looked exactly as he’d left it two real-time days ago. Long fingers of sunlight brushed his face.
+
+“Coldheart!” he called. No answer. “Coldheart?”
+
+Maybe that last remnant of spirit had been released now that its purpose was done.
+
+Or maybe it was just that sound didn’t travel very well through hundreds of strides of ice.
+
+Either way, Dorian saw no way to get out. And the dragon hadn’t offered him any instructions, leaving him in an awkward place. As far as he was concerned what was about to happen was Coldheart’s fault.
+
+“I’m going to count to three,” he said. “If you don’t appear, I’m taking matters into my own hands! One, two, three.”
+
+Nothing. He shrugged. You couldn’t say he hadn’t given the Spirit a chance!
+
+“Let’s see…” He ran his fingers along the ice. Smooth, strong stuff. There was Coldheart’s permafrost qi permeating the whole thing; mere sunlight couldn’t melt it. And it was strong enough to freeze whole schools of Godly fish in place. No ordinary Technique would break through it.
+
+He flexed his fingers. This might take a few cracks. [Fist of Falling Star, Rising Moon!]
+
+The illusion that manifested was so real and so huge it almost made him drop the Technique out of shock.
+
+He was convinced for an instant he’d been teleported. There was no sunlight. There was no glacier. There was not even the ice beneath his feet.
+
+He stood amid a starless night, a velvet of a single hue stretching as far as the eye could see. But that was only the background. What drew his eye—what drew the Multiverse’s eye—was his fist, which was not a fist but a brilliant white comet, a fragment of bright Heaven fallen to Earth to land soft as a whispered wish on the glacier wall.
+
+Then he was falling, blinded by a wall of intensely hot air, grasping at nothing. It was in his eyes, his nose, his ears, matting his scales.
+
+He landed on his ass a moment later. A few thuds landed around him. And then a great crash.
+
+I seem to have overdone it.
+
+It took a few seconds for all that steam, and Dorian’s confusion, to clear.
+
+There was no glacier anymore. Instead there was a rising hurricane of hot air, pouring out through a crack high above him where sunlight trickled in. There were no frozen fish anymore. Instead there were cooked fish scattered haphazardly, some so crisped they seemed like charcoal blocks. Though a few still looked edible. He snatched them up—Sun might get a kick out of them.
+
+Then there was Coldheart.
+
+Dorian stood before a small mountain range of a corpse, once a lovely light blue, now scorched to an unsightly black.
+
+“Oops.” Then, just in case Coldheart’s spirit was still around somewhere—“Sorry! It was an accident. I seem to have underestimated my own strength quite severely…It’s remarkable, actually. Once you supercharge a Technique with qi it almost seems like a different Technique altogether! That mirage was blown up ten times its usual size. And even I couldn’t have predicted it’d do all this…Anyways—thanks for all those elixirs, and your life’s work, and that fantastic little treasure of yours!”
+
+He scratched his head. Was there anything else? “Ah. Now’s probably a good time to mention I’m also Salas Godhunter. Surprise! But I’m very sorry about—you know—” He gesturedhelplessly to Coldheart’s corpse. “But I was young and dumb and hot-blooded back then. Don’t we all make silly mistakes in those regrettable years? You understand. No hard feelings, eh?”
+
+With a CRACK, Coldheart’s skull rolled off its body to face him with truly eerie timing. Two hollowed sockets stared at him accusingly. He winced.
+
+“…I’ll see myself out.”
+
+He kicked off for the open sky.
+
+***
+
+It had been a pleasant three days of archaeology, and Gerard and Gerard Jr. were now ambling back to Coldheart’s grave, notebooks full of sketches in tow—not to mention an Interspatial Ring stocked to the brim with new fossils. At least two were worthy of a spot in a Realm Museum. Gerard would need to check with his curator friend back in Terranthia whether he might be interested. Pliny’s voice would always approach squeaking when Gerard brought him new species—he had spent many an enjoyable eve drinking with that paunchy, grey-bearded centaur and discussing the implications of the latest great finds. Old as he was he always brought a child’s enthusiasm. It warmed Gerard’s heart each time.
+
+A pity that the war situation meant Gerard wasn’t certain whether his old friend was even alive. Last he heard Jez had scoured Terranthia; he dearly hoped Pliny had avoided capture.
+
+He sighed. He could not fault cultivators very much. He understood why they fought. How immensely hypocritical would it be for him, of all folk, to condemn them? Yet if only they would pause on their blood-soaked battlefields, and glance up, every once in a while, they might notice—really notice—that above their heads hung stars in the night. And they even be moved to let new feelings into those hermetic hearts. As he had once done. The world was full of wonders, if only you dared look.
+
+Up came Coldheart’s monument, up ahead. A beautiful thing, constructed to appease a terrible ego—yet that did not diminish its beauty, which seemed an injustice to Gerard. So often beautiful things were birthed from awful creatures, laboring in agony.
+
+Gerard Jr. croaked a question at him, and he petted his Yulwa Toad fondly. An assistant, a friend, a conversationalist all in one, was this Gerard Jr. The only fault he could find in his wonderful new pet was its bloodthirsty hatred for his master.
+
+“No, we shall not simply leave him here.”
+
+Gerard Jr. croaked another suggestion.
+
+“It would not do to behead him either. What has he done to offend you, little one? Called you names? It is hardly worthy of capital punishment.”
+
+Gerard Jr. gurgled unhappily.
+
+“You haven’t gotten to know him yet. It is entirely possible you’ll yet become great friends.”
+
+Though Gerard rather doubted it, admittedly.
+
+More disgruntled gurgles.
+
+“Perhaps. But every one of us has a demon within us—some more than others, perhaps. We can’t simply off whomever fails to meet your moral standards.”
+
+Gurgle gurgle. Gerard frowned. Then he reached into his pocket, pulled out a tiny flyswatter, and whacked Gerard Jr. over the head. It didn’t seem to do much physical damage but by the look on Gerard Jr.’s face it sure seemed to hurt his feelings.
+
+“Bad Gerard Jr.,” said Gerard sternly, and put it away.
+
+Sourly Gerard Jr. glared at the ground. Then, confused gurgles.
+
+“That is strange. Good point.” Where had all the dragons gone? They hadn’t seen one for li. And there were none worshipping at the shrine.
+
+Gerard only noticed something was wrong when he landed.
+
+A whiff of a familiar scent. No—more than one. Far more than one.
+
+His hands were talons as the array formation burst to life. A bubble of a force field which sealed off him, and Coldheart’s monument, from the rest of the world.
+
+But that was not all it sealed off.
+
+A shimmer of air, and four figures appeared before Gerard. Four familiar figures, and they even had the decency to arrange themselves in ascending order. From least to most powerful.
+
+There was the Ogre King Ugas, two fangs protruding from that club of a lower jaw. He held in his fists two giant chains, which ended in metal balls with spikes tipped a sickly green.
+
+There was the Skyfox Nujia, eyes dangerously narrowed. She licked her lips.
+
+There was the minotaur Warlord Ajax, flaming battle-axe in tow.
+
+Then, at the front, a figure that made Gerard sag. A very familiar Godking.
+
+“Pliny?”
+
+The centaur looked back to him with sad, watery eyes. Gone was his professor’s well-worn coat. Gone were his neat little spectacles, his affable smile. In their place were a warlord’s armor and the legendary Plum Blossom Spear.
+
+Pliny blinked and looked away, as though holding Gerard’s gaze was physically painful.
+
+Gerard understood.
+
+They had tortured him, no doubt. Maybe that had broken him—but maybe it was the threats to those things he held dear. The objects in his museum that he’d poured his soul into, night over night, for thousands of years. Some of them laid the cultural foundations of entire civilizations. Or perhaps they had his wife. His children. We all had reasons. It was not Gerard’s place to judge him.
+
+Gerard simply nodded, and sighed, and unsheathed his claws. He did not beg. He did not flinch.
+
+He whispered an apology to Dorian. He glanced up one last time at the night sky. When he looked back down his eyes were not those of Gerard the Caretaker. He looked upon them as the Butcher of Pithia.
+
+“Well, gentlemen,” he said. “Shall we begin?”

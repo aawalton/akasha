@@ -1,0 +1,173 @@
+---
+id: 018b1818-f2f1-5f62-bc37-976fde9a77a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 - Cow Angry"
+slug: 0012-chapter-12-cow-angry
+partOf: sherly-the-most-virtuous-holy-cow
+position: 12
+ownLength: 2071
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2549720/chapter-12-cow-angry"
+royalRoadId: "2549720"
+---
+
+Chapter 12 - Cow Angry
+
+”What do we do?” Sherly asked, staring at the gigantic unirat. She could see the menacing aura swirling around the monster, and the highly condensed mana dripping off its fur.
+
+As the cow girl turned, she found no panic on either Ishuin or Maymay. They were calm. Collected. Weapons held by their sides and ready to attack at any moment.
+
+Sherly withdrew her question. If they were going to fight, then so would she. The elf, a captain of one of Cancer’s Claws, would know the difference between a fight they could win and one they would definitely lose. If she was confident, then—
+
+“It’s a risky fight,” Ishuin whispered, despite all of Sherly’s assumptions. She was barely moving her lips. “We can retreat now and use whatever unirat horns we got.”
+
+“Do we have enough?” Sherly asked. She wanted to take a step back, hopefully to get a head start should they actually intend to run. But she was frozen in place. They were in a stare down with the monstrous unirat. One wrong move could spark the entire fight.
+
+“Not nearly,” Ishuin admitted. “We might be able to save a couple of them, but Braum said a dozen of his men were suffering.”
+
+“Would that big one be enough?”
+
+“We probably won’t need it, but we can use it for something else.”
+
+“I’m ready to fight, then,” Sherly said. She was surprised by her own lack of hesitation. There was a craving urging her from the back of her head. She was curious what that giant monster would taste like. But she clearly understood she couldn’t take it on her own.
+
+“Maymay?” Ishuin asked.
+
+“I’m your dagger, Lady Ishuin,” said the dog-zilim. “You need only direct me where to strike.”
+
+“Good. Sherly, take the big one’s attention. Run circles around it, and keep your distance. Maymay, you take care of the little ones as fast as you can, then get back to the big one. Only strike when you have an opening. Buy me thirty seconds and I’ll end its life.”
+
+“Got it,” said Sherly.
+
+“Roger that,” said Maymay.
+
+With their objectives set, the three went to work straight away.
+
+Maymay vanished into the shadows and killed one of the smaller unirats before any of the monsters even realized what was happening. The big one roared, commanding the smaller ones to attack.
+
+In the meantime, Ishuin stabbed her spear into the ground and summoned a new weapon. A staff. Seashells dangled on both ends, with additional, larger ones where the top end should be. A large pearl floated above, following the staff’s movements. The elf placed it in front of her, held it with both hands, and began to muster so much mana that her entire vicinity was engulfed in a whirlwind.
+
+Sherly stood valiantly at the front, directly facing the giant unirat.
+
+“You’re facing me, big boy.”
+
+She attempted to roar, which, for a small cow like her, was a loud, high-pitched moo. She kept it going for as long and as loud as she could. Sherly didn’t do it to try and intimidate. Partly, it was to catch the giant monster’s attention. But mostly, it was to get all the nervousness out of her system.
+
+With a deep breath, the cow girl charged.
+
+The giant unirat gave another squeal. With a dirty claw, it pointed towards Sherly, commanding what remained of its kin to attack her.
+
+The cow didn’t falter, even as a rush of shadows passed through her form, slashing and dicing all the unirats. The ones that survived resorted to using their magical attacks. Sherly was more than familiar with these by now. She strafed from one side to the other, dodging the small beams of mana. Maymay made quick work of them as she did.
+
+“Come get me, ugly!” Sherly taunted as she passed by the colossal unirat. Whether it had understood her or not, didn’t matter. But it turned and gave chase anyway.
+
+For such a huge creature, it was capable of some deceptive speed. With a few lunges, it managed to catch up to the cow girl.
+
+It took Sherly by surprise. She tried to run to the side and get out of its way, but the giant unirat struck the ground and caused a wave of rocks and dirt. The wave knocked her off balance, toppling her over as it buried her under the debris.
+
+It took a second for the giant monster to grab her from within, digging its claws into her side. It didn’t even wait for another moment, bringing Sherly up to its mouth and chomping on the back of her neck.
+
+Something was taken from her, and she couldn’t even scream.
+
+It felt like a switch just suddenly turned off. She couldn’t move her legs. She couldn’t lift her head. Her eyes could move, but that was about it. Her breathing was all over the place.
+
+The pain… She couldn’t feel the pain. She was in shock. Or she wasn’t, she couldn’t know.
+
+Maymay blurred through and slashed the hand that skewered Sherly. But she couldn’t go and help. There were a lot more smaller unirats emerging from the burrow.
+
+Then her bodily sensations returned. Whatever nerve or bone or muscle the monster had taken from her, Continuous Regeneration had been working overdrive to heal.
+
+Pain returned. Her sides burned. Sherly took all of her effort and will power to drag her head to the side and pull the severed claw out of her stomach. Blood rushed out, but it didn’t take long to heal.
+
+She wondered why the unirat wasn’t finishing her off. Lethargically, she looked up. It was an effort. Her wounds were far from healed.
+
+Maymay was doing all the work. She had left the shadows, speeding around the colossal unirat while taking care of the small ones. One barely managed to scratch her feet, but she pulled it away just in time. She spun in the air, turning upside-down and dispatching the unirat in a single slash before recovering and continuing to dash.
+
+Now, Sherly felt like a burden. She could finally feel her legs, and could even start moving them, but she lay there on the dirt and took every precious breath she could take. She wanted to heal faster, but there was no trick in her Continuous Regeneration. She had no legendary potion to help her improve the Skill. She only had her flimsy Mana-Regeneration to help out.
+
+“Letters,” Sherly called out. “How many Levels do I have now?”
+
+[You’re Level 9 now, Sherly,] Letters said. [You have 67 Evolution Strains, too. I’ve been waiting for you to reach out!]
+
+“Just reach out to me anytime next time,” Sherly said.
+
+[I was trying. I couldn’t get a chance. I didn’t want to disturb your concentration.]
+
+“Nevermind that. Improve both my Continuous Regeneration and Mana-Regeneration to Level 4. Now. You have all the confirmations you need.”
+
+[Right away.]
+
+[You could’ve learned a new Skill with that many Levels and Strains, you know?]
+
+“Thank you,” Sherly said, appreciating how her System Assistant did her requests first and asked questions later. “I can’t trust a new Skill I don’t know how to use.”
+
+[Fair enough.]
+
+Sherly stood. With a sudden surge of her newly improved Skills, her injuries had quickly disappeared. The problem now, however, was how to defeat the boss.
+
+The cow girl’s objective had changed. She was angry. Angry at the unirat for hurting her. Angry at herself for being so weak. She wanted to finish it off before even Ishuin could finish her casting.
+
+Speaking of which, hasn’t it been thirty seconds?
+
+A single look quickly showed that Ishuin had abandoned attempting to cast her Spell. Maymay couldn’t keep the swarm away from Ishuin without Sherly’s help. They were fighting on the defensive.
+
+But there was an opportunity. All of the unirats’ attention was on those two, completely ignoring the cow girl.
+
+Sherly, now also furious for being ignored, took a part of the massive claw in her mouth and straining with all her might, ripped off a finger. She would’ve carried the entire thing, but it would be too heavy.
+
+She ran, carrying a flailing unirat finger in her mouth. It was taking all of her sanity and discipline to not just stop and consume it.
+
+The small monsters began to notice her. Then Maymay and Ishuin too. Their eyes, in particular, were staring at the finger. The elf issued a command, the dog-zilim nodded, and they all got to work.
+
+Sherly swayed her head, bashing and slashing the unirats that attempted to jump her. She kept running, channeling her entire past into the task. Covering her face with a facemask, or biting on a towel while running at full speed. Those had been her training methods before. A simple finger, while rather large, should be something she could carry without losing too much speed.
+
+Finally, she reached the colossal unirat. And finally, it noticed her. It made a sudden turn, but Maymay was waiting for it to lose focus. With a series of slashes to its hind legs, the dog-zilim forced the unirat onto all fours. That made it low enough for Sherly to reach its eyes.
+
+Stab.
+
+Sherly stabbed the unirat’s eyes with its own clawed finger. For good measure, she turned around and kicked it further in with her hind legs. The monster reared in pain, then lost its balance, toppling over as its injured knees buckled.
+
+Full of anger, Sherly drove her horns into its newly exposed belly and tore it open. Blood sprayed all around. Even while it was still alive, Sherly reached it with her mouth wide open.
+
+The unirat retaliated, lashing out with its remaining forearm. It stabbed through Sherly’s hind leg, but she didn’t care. She took her revenge by stabbing it again with her horns and tearing open a new wound. Her injury was already healing, while the unirat’s weren’t.
+
+A few more back and forth. Thirty seconds had passed by, but Ishuin didn’t release her Spell.
+
+The giant unirat monster was already dead. No, not dead. It was dying. It had lost the will to fight. Instead, Sherly got up to its face, and stomped its skull while avoiding the horn, giving it the finishing blow.
+
+“The horns are yours,” Sherly said to Ishuin. “The bodies are mine.”
+
+“Eat the big one first,” said the elf. “You don’t want the Managrove to take that from you.”
+
+Sherly didn’t waste another word and began to feast. By the end of it, Letters gave her a tally.
+
+[You’re now Level 13. And you now have a total of 140 Evolution Strains. Congratulations.]
+
+“You ready to go, Sherly?” Maymay asked. The initial disgust the dog-zilim wore on her face was gone. It was now replaced by curious amusement. What she couldn’t stand was the smell, not the fact that the cow girl had eaten the unirats. “Did you even feel full?”
+
+“I sort of hate that the Managrove took them. I could’ve probably eaten them all.”
+
+Maymay giggled. “Gross!”
+
+“Stop teasing the cow, Maymay,” Ishuin said. “If you’re all ready, then let’s head back. The sooner we can heal Braum’s men, the better.”
+
+“I can get all that blood off of you, Sherly,” said the dog-zilim. She took a potion from her pack and poured its contents on herself, getting rid of all the blood. “You want some?”
+
+“Yes, please,” Sherly replied. She had been ignoring how sticky all her hair was. “Thank you.”
+
+Just as they started heading back, however, a bright light colored their entire surroundings red. The ground shook, then the boom came, then the wind.
+
+They rushed over to the explosion, only to find Braum and his men facing the fire.
+
+“We’re too late,” said Ishuin. “I thought we had a day left?”
+
+“It’s not all of them,” Braum said, nudging his head towards a number of people on the ground. Their skin was already red. “Heal them, Ishuin. We’ll deal with the ones that turned.”
+
+Sherly stepped in front. “Ishuin. It’s still early. Do you think it’s still possible to help them?”
+
+“We can try,” said the elf.
+
+“It’s already too late!” Braum interjected. “Even if we can help them, you can’t administer the cure while enduring all that fire! This is madness!”
+
+“Madness?” Sherly turned. A smile formed on her cow face.

@@ -1,0 +1,123 @@
+---
+id: 451b48b9-5df9-57ac-8089-fa7827ea3970
+page-type-slug: story-chapter-royal-road
+title: "Chapter 374: Revelation"
+slug: 0382-chapter-374-revelation
+partOf: savage-divinity
+position: 382
+ownLength: 3794
+unit: words
+publishedAt: 2018-09-14
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/290159/chapter-374-revelation"
+royalRoadId: "290159"
+---
+
+For as long as he could remember, Goujian lived the life of an ascetic. Early on, the choice had not been his, for poverty meant he had no coin or time to spare for luxuries or hedonism. Every waking moment was dedicated to finding enough food to fill his belly, and he failed more often than not. As time wore on and he grew in wealth and power, he clung to his humble lifestyle because even though he’d fallen out with the Penitent Brotherhood over a difference in beliefs, he still respected their Precepts and found wisdom in their teachings. Extravagant luxuries and decadent comforts were but one step removed from losing one’s self to base desires, and left one vulnerable to the Father’s whispered temptations.
+
+A lie so laughable, Goujian could scarcely believe he hadn’t seen it sooner.
+
+Thus, for the first time ever, Goujian frittered away his morning in idle relaxation. Waking with the rising sun, he smiled, rolled over, and fell asleep once more, luxuriating in the warmth of his satin bed sheets and goose down mattress. Hours later, he opened his eyes when a servant entered to ask if he would like breakfast served in bed, and it seemed like such a novel idea, he couldn’t bear to say no. Swaddled in his blanket, he sat in bed and feasted on a sumptuous meal of the finest dishes of Central, all the while wondering why he’d waited so long to enjoy such simple pleasures.
+
+Since opening his eyes to the Truth, not only had Goujian’s aches and pains subsided, his mind and senses were sharper than ever. Whether it be the feel of silk on his skin or the taste of tea on his tongue, experiencing the pleasures and joys of life made Goujian’s intestines turn green from regret, cursing his stubborn foolishness and hard-headed beliefs. It wasn’t entirely his fault, for Imperial propaganda was cunningly designed to make him believe their lies, perfected through centuries of deception and misinformation. Through self-denial and deprivation, Goujian had closed himself off from the Truth and the proper Martial Dao, not a path of control and moderation, but a path of freedom and self-discovery.
+
+How could one be a part of the Heavens while denying so much of what it offers?
+
+Following his base instincts and desires, Goujian enjoyed himself to his heart's content. After breakfast in bed, he availed himself to the in-house hot spring, a marvel he’d read about but never experienced first-hand. Before entering the spring, the servants scrubbed him clean from head to toe, their warm washcloths tarnished black by weeks of sweat and grime accrued whilst posing as a common shepherd. His hair and beard were even worse, tangled and matted from his time spent hidden in a smuggler’s hidey hole, but the servants were well equipped to deal with it, using an assortment of mild soaps and scented oils to unravel the mess. As he sat on the stone bench and watched the filth cleansed from his body drain out of the room, he wondered what it would take to do the same to his soul, to cleanse his mind and free him from the burden of the sins he’d committed in the name of a ‘noble’ cause.
+
+After one final rinse to remove the last of his physical impurities, Goujian took his long-awaited step into the hot spring and made himself comfortable in the smoothed-stone depression. Carved into the rock and designed to support his frame, he found he didn’t need a single muscle to keep himself upright and allowed himself to relax. Uttering a groan of relief, the tension melted from his body as he soaked in the near scalding waters, but there was still more to be had. A pair of strong yet delicate fingers ran across his scalp before digging into the meat of his neck, and he discovered a pleasure unlike any he’d ever felt before. More hands joined them and he lost himself in pure bliss, availing himself to the pleasures of the flesh and the joining between man and woman for the first time.
+
+Well, man and women. Goujian’s new hosts were not stingy with his accommodations, and he had many decades of celibacy to make up for.
+
+Hours later, he sat in loose silk robes and enjoyed the morning breeze on skin, sitting idle upon a balcony while the inhabitants of Sinuji toiled away in the streets below. Unlike the North, there was no natural geographic barrier to differentiate between provinces, and Sinuji was just one dozens of so-called border towns straddling the divide between Central, West, and South. What made it unique was its middling location, equidistant from the Azure Sea to the North and the Arid Wastelands to the South, which was why Sinuji had been chosen as the headquarters on the front lines.
+
+Fools and buffoons, picking a location which had already been compromised by the Enemy.
+
+No, Goujian corrected, not The Enemy. The Empire’s Enemy, but not his own. Though enlightened to the Truth, he still fell back into old habits and only hard work and time would correct them. A part of him understood why his Disciples had refused to follow him down this path, but it had to be done. It was his fault things ended as they did, but perhaps their fates had been set in stone from the day they’d met. Goujian had saved them, but in doing so doomed them to a fate worse than death. He’d raised them on Imperial lies, lies he embraced because it was easier than pursuing the Truth. In service of those lies, he and his Disciples sinned against Heaven and blackened their souls in devotion to the Empire, and when Goujian told them the severity of their sins, his frail Disciples were too weak to accept the Truth.
+
+Oh his poor, ill-fated sons. How he wished they still stood at his side so they might fix this broken world together, but he had no choice. He had to kill them, for they knew too much regarding his plans, foolishly shared in his time of weakness because he believed they could be trusted, but alas, it was not so. Only Yuanyin was strong enough to follow him down the right path, the others too cowardly and set in their ways to see what needed to be done. Even though he loved them as a father loves his sons, Goujian could not trade their lives for the lives of every citizen in the Empire. Hundreds of millions, if not billions of people, all living under Imperial yoke, how could he let this travesty stand?
+
+It was his fault his sons were dead, and he accepted his sins wholeheartedly. He’d been too eager to return to contemplating the Truth and left his poor sons to flounder on their own, coming to grips with harsh reality bereft of his guidance and support. Had he not immersed himself in Heaven’s Impartation for nine straight days, then he would have seen the warning signs of his Disciples errant thoughts and convinced them his actions were just. For new seeds to be sown, the field must first be cleared. How could anyone argue against such basic reasoning?
+
+Alas, there was no cure for regret, but at least Goujian still had one son left to him. Having learned his lesson, Goujian was not yet ready to leave Yuanyin unsupervised, so he gathered his Chi to look in on his sole remaining Disciple. Like his Master, Yuanyin had lived a life of abstinence but was young enough to still feel constrained by it. No longer required to represses his urges, the young man wasted no time indulging his lust, but now sat in quiet meditation as he parsed through the mysteries of the Truth with more dedication than ever. This was the true Dao of Balance, not the one peddled by Imperial lies, one which made more sense with each passing day.
+
+Nodding in approval, Goujian’s curiosity got the better of him and he turned his Watch to the other young man in the manor. According to the reports, this Gen was a common village boy who turned Defiled after an encounter with Falling Rain, but if so, then someone had taught Gen well. The very picture of a young noble, Gen’s handsome features and strong jaw lent an air of honesty and integrity to his words, a warrior brimming with confidence and tenacity. Sitting cross-legged with impeccable posture, he meditated with an intense focus rarely found in one so young, his metallic hands hidden within his wide-brimmed sleeves. Goujian expected much from this former denizen of Sanshu, a startling talent by any measure. Chosen by Heaven was the only way to describe it, a common boy who Awakened to a Divine Blessing mere days after discovering the Truth. How strong would he be after almost a year of practice? What about ten years, or twenty?
+
+Gen was an example of what the Imperial Clan feared most, an informed and enlightened populace with strength enough to challenge them. Small wonder they hoarded their knowledge so jealously, but Heaven’s secrets would not remain hidden forever, especially not if Goujian had his way.
+
+Moving on, Goujian turned his Watch to Mao Jianghong, the so-called traitor of Sanshu. The former Guard Captain sat in his office, scowling darkly as he conversed with hidden allies, allies Goujian had yet to uncover. Granted, he had yet to put any effort into the search, merely a cursory sweep of their surroundings before retiring for the night, but he figured introductions would come in due time. Trust would be difficult, but they were both enlightened beings Chosen by Heaven, though Goujian viewed himself as undoubtedly superior. Jianghong stumbled across the Truth after succumbing to ‘dark’ powers, a man who willingly surrendered his soul in return for vengeance, and only luck saved him from eternal damnation. A petulant, weak-willed child of luxury, wholly different from Goujian’s life of dedicated service. Even though every death darkened his soul, Goujian’s faith never faltered, not until the Monk’s actions revealed the Imperial lies for what they were, and now, he was more resolute than ever and willing to sacrificing everything to set things right.
+
+Everything.
+
+Even though Goujian couldn’t listen in on Jianghong’s Sendings, there was much to be gleaned from the traitor’s expression. Last night, Jianghong had been supremely confident, but today, that confidence had been shaken. Anger and disbelief marred his handsome features, having received news he found difficult to swallow. Though hoping to work alongside them, Goujian drew a measure of satisfaction from Jianghong’s unknown setback, for if they were truly as strong as the traitor believed, then what use would they have for Goujian?
+
+Nose wrinkling in annoyance, Jianghong glared at the ceiling above him and stared directly into Goujian’s Watching eyes. A Sending arrived soon after, Jianghong’s voice dripping with sarcasm and irritation. “If the vaunted Confessor truly seeks an alliance, then perhaps he’d deign to dress himself and discuss matters in my office.”
+
+With a languid stretch, Goujian yawned and Sent, “Perhaps.” In no rush, he ambled back inside and order the servants to bring him a selection of clothing. Once they arrived, he spent long minutes looking them over before rejecting them all and forcing the servants to go running for more clothes while he amused himself with a lovely and enthusiastic young woman. Truth be told, he didn’t care too much about what he wore, but the delay was more to show Jianghong that the Confessor would not be ordered about like a lackey. Besides, he needed time to consider this new information, for Jianghong’s action inadvertently revealed what Goujian had suspected for months now. A method existed to determine whether one was being Watched, a method kept secret from the warriors of the Empire.
+
+But not Falling Rain.
+
+And with this single loose thread, Goujian finally unravelled the mystery behind this inscrutable and illogical young hero. While under observation back at the Northern Wall, Falling Rain undoubtedly knew someone was watching and his every action was meant to throw Goujian off the trail. The young hero’s story had all the markings of a poorly written drama, and Goujian now understood why.
+
+Falling Rain was an Imperial lackey, one planted to sell the lie of ‘Balance’ and give false hope to the uninformed people the Empire.
+
+It explained everything about the boy’s history which Goujian found questionable. How could a young boy of sixteen defeat a skilled Warrant Officer during the challenge for Shen Huo’s Magistrate’s Office? How did he escape unharmed from the Society’s pursuit while burdened with children and non-combatants? Why did the Bekhai keep their young hero at arms length, filling his retinue with former soldiers and captured bandits instead of fellow tribesmen? How did he not only stumble across a Defiled plot, but also play a pivotal role in defeating it? Where did he find the resources to take in and heal so many cripples, or feed so many hungry mouths at the Wall? All this and more could easily be explained if Falling Rain had Imperial backing, a mere puppet raised among the Bekhai to add authenticity to his role.
+
+It seemed Goujian underestimated how far the Imperial Clan would go to keep their propaganda alive. No one would believe the lie of Balance if no true heroes ever emerged, so they concocted heroes for the people to look up to. Even if Goujian’s poisoner had done his job and killed Falling Rain during his wedding banquet, the boy’s place in history had already been firmly established. A savage tribesman who rose higher than any before him, the youngest Second Grade Warrant Officer, the Number One Talent of the Empire, and a member of Imperial Peerage living amongst the people of the Empire all before the tender age of twenty, Falling Rain’s legacy was to become a beacon of hope for all to aspire to for centuries to come.
+
+Magnificently played. Utterly brilliant.
+
+More certain than ever he now tread upon the correct path, Goujian picked out the least gaudy robe the servants brought him and set out to meet with Mao Jianghong. Arriving at the traitor’s office, he let himself in and took a seat before offering a silent nod in greeting. With no servants to pour his tea, Goujian served himself and left Jianghong’s cup empty, inhaling the fragrant aroma before availing himself to a taste. Draining the cup with an appreciative smack of his lips, Goujian poured himself a second and asked, “So, what matters trouble Comrade Mao? Perhaps my humble experience might prove of use.”
+
+“Oh, I hope so.” Steepling his fingers, Jianghong leaned back in his seat and added, “Though perhaps it’s best we speak through Sending. One can never be too careful when it comes to privacy.”
+
+A jab, but not an undeserved one. A week ago, Goujian would have known better than to pry, but he was still adjusting to his new, unfettered mindset and finding it difficult to exercise restraint after his first taste of true freedom. Accepting the reprimand with a grimace and a nod, Goujian filled Jianghong’s cup as apology and Sent, “Then tell me, what troubles you?”
+
+“A setback in our plans, but not one we cannot recover from.” Shrugging with detached disinterest, he accepted the cup and continued, “Ancestral Beasts are a territorial bunch who rarely appear in groups, so how were we to know sending one would not be enough?”
+
+The revelation caught Goujian by surprise and he paused ever so slightly while lifting his cup to his lips. Jianghong implied that if not for the presence of multiple Ancestral Beasts, his plan would not have gone awry, the ramifications of which, if true, would be far reaching indeed. So Jianghong’s mysterious faction had not one, but multiple Ancestral Beasts cooperating with them, and these most formidable weapons were already in play. The Treaty be damned, this would be a battle to end all battles, a war to end all wars, and Goujian wouldn’t have it any other way.
+
+Widespread chaos and destruction would expose the roots of Imperial Corruption, and only then could he step in and scour them clean from this world.
+
+Unfortunately, his experience in the North taught him he lacked the strength to stand against an Ancestral Beast, but with his eyes opened to the Truth, he knew he would reach the lofty peaks of Martial Strength soon enough. Eager to resume studying the mysteries of Heaven’s Impartation, Goujian impatiently gestured for Jianghong to end his grandstanding and get on with it. Grinning in victory, the insufferable twit explained, “We dispatched a raiding party to Nan Ping, a vanguard meant to spread fear and chaos, but they were discovered by Imperial Forces led by Du Min Gyu and subsequently put to rest. Our Ancestral Beast ally claims she crossed paths with no less than four beings of comparable power, including one who had a similar mastery over the Divine Earth. What do you know of her, this Ancestral Beast Eccentric Gam calls Mother?”
+
+“Next to nothing,” Guojian replied. “My expertise lies in the realm of men, not in powers beyond my comprehension. Such matters are privy only to the oldest of noble houses, whereas I am of humble origins and am friend to none.”
+
+“Hmm.” Annoyed, Jianghong pursed his lips and Sent, “And here I thought the Confessor held the Emperor’s ear and had spies hidden across provinces, ferreting out every noble’s deepest, darkest secrets.”
+
+“My spies, as you call them, are merely common men and women of the Empire, servants and soldiers reporting on corruption and degeneracy. How are they to know of matters never spoke out loud?” Shrugging, he added, “They were useful enough in finding you, though I admit it took a stretch of the imagination to put the pieces together. The reports suggested you might be a Western noble who evaded capture at the border, a possible harbinger of Taint and Corruption, but there were clues enough to discern your true identity.”
+
+“Oh?” Stroking his jet-black beard, Jianghong scowled in displeasure before conceding to Goujian’s expertise. “Then I shall have to impose on Senior to point out the flaws in our guise. If you can find us, then others can too. In fact, we are preparing to leave even as we speak.”
+
+“Good.” It was always better to work with competent allies, though Goujian often had little choice in the matter. Embroiled in discussion, they traded ideas on how to escape detection until it was time for lunch, at which point Jianghong invited him to the dining room. Since Gen would also be there, Goujian Sent for Yuanyin to join them. Once they were all seated, Goujian raised his cup in a toast and said, “To old enemies and new allies.”
+
+“Hear Hear.”
+
+“Eh-Mi-Tuo-Fuo.”
+
+Jumping in his seat at the familiar dharmic greeting, Goujian drew his sword and pointed it at the Monk standing at the head of their table. Yuanyin and the others joined him in their surprise, and Jianghong roared, “Who the hell are you?”
+
+“Such Sin,” the Monk muttered and sighed, “Such Regret.”
+
+Mustering his courage, Goujian sneered and declared, “I have no regrets monk, only that I didn’t see the Truth sooner.”
+
+Raising an eyebrow, the Monk asked, “And this truth led you to slaughter your Disciples? This truth led you to ally with the Enemy?” Holding a hand up to forestall Guojian’s answer, the Monk continued, “Speak not and spare this one from your lies. You have lost your path and altered your Dharma, but the decision was yours to make. This one speaks not of your regret, but of mine.” Closing his eyes, the Monk pressed his hands together and bowed his head in supplication. “How much longer must this one suffer in the cycle of Samsara, forever unable to change his wicked ways?”
+
+A bolt of fire spattered harmlessly across the Monk’s body, thrown by the talented young Gen. Barely even noticing the attack, the Monk opened his eyes and shook his head, so filled with anguish and remorse Guojian almost empathized with him. “Perhaps the Abbot would plead to save your souls,” the Monk said, taking hold of his spade, “But this one is a sinner through and through, and now, he must sin once more. May you find peace in the afterlife, and enlightenment in the next. Eh-Mi-Tuo-Fuo.”
+
+The Monk moved faster than Goujian’s eyes could follow, disappearing from the head of the table and reappearing beside him, the crescent blade of his spade resting lightly against Goujian’s throat. Were it not for a portly stranger holding the spade at bay, Goujian feared the Monk would have already taken his head, unbelievably fast for a man so large.
+
+So what did that say about this stranger, who was not only faster, but also larger?
+
+“Now,” the stranger drawled, his accent curious to the ear, “Correct me if’n I’m wrong, but Ah don’t remember invitin’ no Dharma Protector in ta mah estate. Seems murderin’ my guests’d violate the Treaty.”
+
+“Hmph.” The Monk, who apparently was an existence on par with Ancestral Beasts, glared at Goujian’s mysterious saviour with such vehemence he seemed like a man changed, so at odds with the kind but stern lecturer who taught Goujian about the Four Noble Truths. “Zhu Chanzui, you finally dare reveal your true self and claim dominion over these Defiled?”
+
+“That I do,” the Ancestral Boar replied, snickering beneath his breath. “What are yew gonna do about it?”
+
+Visibly struggling with his anger, the Monk took a deep breath to calm himself. Then, he took another, and another, all to no effect. After an eternity of waiting during which the spade trembled against Goujian’s throat, the Monk finally retracted his weapon with a grimace. “Then so be it.” Slamming the butt of his spade against the floor, the Monk infused his voice with Chi and announced, “The Defiled traitor Mao Jianghong is currently residing in the Canston Trading Group’s estate. Conspiring with him is the Confessor Guojian. Loyal warriors of the Empire, seize these traitors and execute them for their crimes.”
+
+Sucking his teeth with a long, protracting inhale, Zhu Chanzui shook his head and sighed. “Really wish ye didn’t do that,” he said, lips pursed in a frown. “Well, guess there ain’t no choice anymore, is there Mao Mao? We wanted fear and chaos, so this gonna be the way it gotta be.” Breaking into a grin, the Ancestral Beast added, “Besides, ah been itchin’ fer a good fight fer ages now.”
+
+And then the room exploded into chaos and destruction.
+
+Chapter Meme

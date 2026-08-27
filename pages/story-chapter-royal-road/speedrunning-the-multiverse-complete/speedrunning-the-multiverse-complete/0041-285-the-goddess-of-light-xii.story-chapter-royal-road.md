@@ -1,0 +1,121 @@
+---
+id: e95886bf-2e54-543d-97f6-f4aaaf754845
+page-type-slug: story-chapter-royal-road
+title: "285. The Goddess of Light (XII)"
+slug: 0041-285-the-goddess-of-light-xii
+partOf: speedrunning-the-multiverse-complete
+position: 41
+ownLength: 1611
+unit: words
+ownProgress: 1611
+publishedAt: 2023-08-16
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1311905/285-the-goddess-of-light-xii"
+royalRoadId: "1311905"
+markedReadAt: "2026-06-29T22:43:04.972Z"
+---
+
+Before Dorian left, he cast a Blessing of Asclepius on Junior and the rest of his Empyreans, all of whom were still snoring. He left them a note—“Out for a walk. Be back soon!”
+
+A tug of a Fate Thread later he was spat back into the dragonrealm, or at least what he hoped was the dragonrealm. Hard to tell; cosmic dizziness had made his vision a slurry of color. It took a few breaths for it to resolve to clear, defined shapes. He stood on what appeared to be a hill with a single tree at its peak. A humanlike smudge leaned against that tree, working on something with its hands. It was Gerard, knitting what appeared to be a jumper for a tiny animal.
+
+“I’ve been expecting you all afternoon, my liege. You’re late,” said Gerard, dry as ever. But Dorian could tell the man was happy to see him despite there being no indication whatsoever in his face or body or tone. He’d spend enough time around his servant; he could just tell.
+
+“Welcome back.”
+
+“Gerard!” Dorian started. “Wait—that aura… you’re a Godking now? Why, congratulations are in order!”
+
+“Indeed, and thank you, my liege. I was fortunate to stumble across a breakthrough in the Chamber.” Gerard took his knitting needles, wiped them clean, put them in a bespoke leather box, folded the half-finished jumper, put it on its own tiny hanger, labelled it, and put it all in its own color-coded Interspatial Ring. Only then did he stand and nod to Dorian. “We ought to go. Fate was most insistent that we meet right away.”
+
+“I assume that jumper’s for the toad,” said Dorian as they streaked across the sky.
+
+“It is. Gerard Jr. is a growing boy, and very fashionable. Often he cannot find the garments he needs, and so I make them. This way—let us ride this airstream.”
+
+They weaved through a mountain range and veered hard left. “And tell me about your Heavenly Dao! Is it Fire? Magma, perhaps?”
+
+“Both taken. One of the few remaining options which suited my Great Daos was the Heavenly Dao of Destruction.”
+
+“You say that as though it’s some mediocre choice. Shiva got to the Top 10 with that Dao, once upon a time.”
+
+“I must admit I’m not overly fond of it. Had I a chance to restart my cultivation I might choose a more useful path. But there is nothing to be done now, except try to make the best of past mistakes.”
+
+“Tell me about it,” grumbled Dorian.
+
+The fort atop Mt. Tai was still pocked and cratered, though all the blood had been scrubbed away. On its neighboring peak was a new edifice, Gerard’s Museum, shaped vaguely like a dragon’s tail. On its roof Gerard Jr. croaked orders at harried worker drakes.
+
+“I see the Museum’s nearly done.”
+
+“The tail shape is meant to symbolize the Museum’s intent: to preserve this realm’s unique draconic history,” said Gerard. “In its construction I solicited feedback from many dozens of dragonrealm tribes, several of which willingly donated artifacts for display. It was important to display objects in a mindful and respectful manner—to educate, rather to perform a circus act—” Dorian nodded, smiled, and tuned him out. In a breath he’d said more about his new museum than he had about his Dao, which to most Godkings was the pinnacle achievement of their lives, but to Gerard was apparently a necessary if distasteful chore. Go figure. Dorian’s gaze drifted lower, down to Mt. Tai’s courtyard.
+
+There, hundreds of dragons were practicing flying in tight formations. The small ones were bunched—scouts, perhaps, or infantry? The big ones were at the back, the heavy duty. They flew together with pleasing synchronicity. At the bottom, directing them, was a shouting Sun. Who was back to looking pretty much like her old self.
+
+“—But perhaps a full tour can wait for a more convenient time,” said Gerard.
+
+“I strongly agree,” said Dorian hastily.
+
+They flew over to Sun, who greeted them with a big smile. “Hey! How was the trip?”
+
+“Harrowing, but fruitful,” said Dorian.
+
+“Nice. Well, I’ve been training the troops all week. We’re ready for battle!”
+
+“What battle?”
+
+“Dorian! Gerard! Sun!” Fate popped out of a balcony on the fort’s upper ramparts, looking like he hadn’t slept in months. Which was probably the case, actually. “Oh, very good! Please—come, come! There is much to discuss!”
+
+They met in a room Dorian found so small he had to hunch. Gerard and he were pretty much the same size, but somehow Gerard managed to configure his limbs into a sitting position that looked as dignified and relaxed as he always did. Maps were strewn over the floor. Maps were nailed to the walls. They were scrawled over so many times they were illegible. The whole room felt like staring into the inside of a madman’s brain.
+
+Fate had hastily set up mats and a small table for them.
+
+“What, no tea?” said Dorian.
+
+“No time!” cried Fate, then winced ate himself. “Sorry! Sorry. I did not mean to shout. I am merely under a rather unusual amount of stress at the moment. Please, sit, sit!”
+
+Before their butts had touched the mat Fate launched into his speech.
+
+“I’ve come to you today for two reasons. First, after recent events we need all the fighters we can get! Our most critical realms, like Hell, are especially in need of defense. Sun and her army of dragons have already agreed to join us.”
+
+Dorian frowned, then shot a pointed look at her. “What about our journey? You’re abandoning me?”
+
+“I…” Sun shifted guiltily. “He bribed me!” she wailed. “He said he’d give me an endless buffet after this, and he just kept beating me with these juicy adjectives… ‘sizzling’…’plump’…I’m weak! I’m sorry!”
+
+“Hmph.”
+
+“Err—are you really put out about it?” she seemed alarmed at that. “If so, I won’t go!”
+
+“No need,” sniffed Dorian. “Truth be told, I never liked you anyways, you smelly runt. I’ve been scheming to get rid of you ever since you made me sign that blasted soul contract. If anything, I’m glad. Thank Heavens that’s over!”
+
+Sun’s ears drooped. “…oh… I mean…well I had fun, at least…”
+
+There was a pause. Then Dorian sighed and rubbed her behind the ears. “Go get your buffet, runt.”
+
+She brightened.
+
+“What about you, Gerard? Do you plan on backstabbing me too?”
+
+“I shall do whatever you wish,” said Gerard with a shrug.
+
+“Perhaps it would be best if he were to join Sun and I…” offered Fate hesitantly. “I had another plan in mind for you and you only, Dorian. A solo mission, to be accomplished at most in the space of a moon!”
+
+He set a gray Interspatial Ring on the table. “In this Ring are thirty-two Fate Threads to Upper Realms and sixty-two threads to middle realms—all of the godly realms under Jez’s control! For each, I sought to drop you as close to the Infinity Heart as I could! With your power, you are uniquely capable of rapidly ambushing Jez’s bases and destroying him before he can send his mutant reinforcements. I’ve no doubt Gerard and Sun would be useful to you given time, but this will be extremely rapid, and you must be mobile. The rest of us shall mass an army for a vigorous assault on the critical Upper Realms on which we still have influence—we shall try to draw as much of his attention and power as we can…”
+
+He said all of that in a breath, and had to pause to gulp in more air. “Every day, one or two new mutants crop up—and every day a realm slides into Jez’s hands! And he makes more of them as we speak—and his experiments have only gotten more destructive, more powerful…I cannot stress enough how imperative this mission is! At this rate there will not be a free Multiverse in two moon’s time.”
+
+More gulps.
+
+“Which is all to say—for the good of you, and all of the rest of us—will you please, please accept this mission?”
+
+“This feels like one of those situations where I’m told I have a choice, but I don’t actually.”
+
+“There is always a choice,” said Fate. “This is a great and very dangerous undertaking. I do not offer it lightly. If you choose not to take it and to pursue your current path and merely take back your bodies, I shall support your decision.”
+
+“Hmm…”
+
+Dorian snatched the Interspatial Ring and slid it on. It fit perfectly. He pondered it, saw the light making warped shapes on its shiny gray surface, as though displaying ghostly futures on the steel.
+
+Then he shrugged. “Why not? I suppose I can fit a few more stops on the trip.”
+
+Actually, some part of him knew he’d accept the instant Fate had asked. All the rest was theater; somehow he felt he had to talk himself into it. Of course he accepted—could you imagine letting Jez grow without limit? At first, almost by reflex, he’d started to run through the risks and the rewards. Then he wondered what he was doing. Whatever risks there were, did he really care? It would not do to let Jez seize control of the Multiverse. It so happened that folk he cared about lived there, much as he hated to admit it. Including, but certainly not limited to, himself.
+
+“Yes!” Fate tackled him in a hug. “I thank you—the Multiverse thanks you!”
+
+“Enough of that,” snorted Dorian as he gingerly extricated himself. “Within a moon, you said? Well what are we wasting time here for? Let’s get going!”

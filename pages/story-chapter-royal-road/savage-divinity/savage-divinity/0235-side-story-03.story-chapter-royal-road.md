@@ -1,0 +1,89 @@
+---
+id: 717728a9-9f7c-5473-968a-7b672c2d10e9
+page-type-slug: story-chapter-royal-road
+title: "Side Story 03"
+slug: 0235-side-story-03
+partOf: savage-divinity
+position: 235
+ownLength: 1631
+unit: words
+publishedAt: 2017-07-19
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/149752/side-story-03"
+royalRoadId: "149752"
+---
+
+“Foul blackguard, I cast thee back unto the Father’s Maw. Eat my spear!”
+
+Hurtling through the air like a bolt of thunder, the projectile crashed into Yo Ling’s chest, his face twisted in shock and denial. “No,” he gasped, falling to his knees, “How can this be?” Peering up, he asked, “Your name, noble warrior?”
+
+Head held high, she answered, “Sumila, Disciple of Akanai, student of Husolt, warrior of the People.” A myriad of emotions flitted across the Bandit King’s face, anger, awe, and finally acceptance. Sinking to the ground, Yo Ling leaned forward in a pseudo-bow as he breathed his last. The deafening cheers of the victorious defenders echoed through the streets, celebrating the death of Sanshu’s greatest sinner. Smiling at her adoring admirers, Mila accepted the praise as her due, neither too arrogant or too humble. Finally, after years of arduous training and life-threatening drills, she was finally receiving her due.
+
+“My love,” Rain said, hands clasped and eyes fluttering. “My bold, courageous hero. You’re so incredible, I’ll never match up.”
+
+“No matter,” she replied, wrapping her arms around his neck, the two of them lost in their own little world. “So long as you try your best and remain safe at my side, I’ll love you all the same.”
+
+“Ah, you’re too good for me,” he replied, lifting her effortlessly into his arms, his amber eyes filled with love and affection. “I’ll never so much as look at another woman again, I swear.” Leaning in, his lips pressed against hers, his breath tickling her skin. Filled with hunger, she pushed him back and moved to follow, only for the ground to disappear beneath her feet.
+
+Waking with a start, Mila blinked in confusion, staring at the intricate pattern of crossbeams on the ceiling as she laid upon the massive bed. Sinking back into her pillows with a sigh, she huffed in annoyance, blowing Lin’s fluffy ears aside as the sweet girl nuzzled against Mila’s shoulder.
+
+Nothing but a wild, fanciful dream. Reality was not so sweet, her accomplishments next to nil. First, she lost to Gen, a mere farmer who turned Defiled little over a month ago, causing Song to take injury defending her. Then she failed to deal the killing blow to a wounded Yo Ling, enraging the powerful bandit and bringing calamity to Rain’s retinue. So many died defending her, a foolish girl with delusions of grandeur. Perhaps it was time to admit she’d never be like Mama, a valiant hero and fearless leader, standing at the forefront of battle as Papa supported from behind. With Rain growing stronger by the day, maybe it was time to accept her fate, destined to remain hidden in Rain's shadow.
+
+The fragrant scent of herbs and spices wafted through the room, setting Lin’s nose to twitching as she sniffed the air, waking with a contented smile. It’s no wonder Rain spoiled her silly, she was so adorable and sweet, even first thing in the morning. “Morning Mi-Mi,” she said with a cute little yawn. “How are you feeling?”
+
+Terrible. Mila’s body felt tender and swollen, her muscles bruised and aching, her skin itchy and inflamed. “Fine,” she lied, her feigned smile sending a jolt of pain through her cheek as skin cracked and pus dribbled out. “Much better now.”
+
+Sticking out her tongue, Lin let out a tiny snort. “Liar.” Stretching awake, she ran her fingers through her hair a few times, her glossy black locks settling neatly around her shoulders. Unfair, Mila dreaded looking into the mirror, knowing she would find a tangled snare resembling a fiery rat’s nest atop mangled, burned, and bruised flesh. Not even Song’s salve could straighten out the coarse, rough fibres of Mila’s hair, which is why she kept it no longer than shoulder length. Her hair straightened, Lin turned to Mila and beamed. “So cute, dishevelled Mi-Mi is best Mi-Mi.”
+
+Smiling as Lin combed her hair, Mila rubbed the sleep from her eyes, her mind, body, and core exhausted from yesterday’s efforts. Delicious scents continued drifting into the room and Mila’s empty belly rumbled loudly, sending Lin into a fit of giggles. A light knock her only warning, the door swung open as Rain entered, carrying two trays of aromatic dishes. “Time to wake, my sleeping beauties. I made lunch.” Streaming in behind him, the cats and bears took position on and around the bed, the tiny cubs chortling as they scampered about the room. Carrying two more trays, Song greeted them with her customary half-bow before setting the table, obedience and submission ingrained in her.
+
+Realizing her face had yet to be bandaged, Mila scrambled under the covers, darting away from Rain’s greeting kiss. “Get out,” she screeched, pushing Aurie aside. “I’m not decent.” Her face was a mess, bruised, burned, and ghastly, she didn’t want him seeing her like this.
+
+“Don’t be silly, love. Wifey, Li Song’s poultice needs changing. It’s already mixed and ready, so could you please help her?”
+
+“Okay hubby.” The bed barely moved as Lin hopped off, her tiny frame barely making an impact. Crawling deeper into the covers, Mila retreated from Rain as he sat down, taking advantage of the situation to pat her behind and squeeze her tail from over the covers. Lecher. “Come out, my love, let me treat your injuries.”
+
+“No. Go away. Lin will take care of it.”
+
+“She’s helping Li Song. Hurry, we should eat while the food's still hot.”
+
+Rain tugged at the blanket and Mila mewled in protest, clutching them tight around her. “I’m still tired. Eat without me.”
+
+Sighing, Rain laid down beside her, stroking her head through the covers. “I find your lack of cheer disturbing. Is it because you don’t want me to see your injuries? Don’t be ridiculous, a few cuts and bruises aren’t enough to scare me off. Where’s the strong, confident Mila I know and love? Stop hiding and come out.”
+
+Pausing to consider her options, Mila replied, “You’re not allowed to make fun.”
+
+“Understood.”
+
+“No wincing or pouting either.”
+
+“By your command.”
+
+“And no comments. Don’t speak unless spoken to.”
+
+“I live to serve.”
+
+Even though Rain sounded entirely serious, Mila had a nagging suspicion he was poking fun at her in his own, enigmatic way. Steeling her nerves, she sat up and gestured for him to get working, staring at the bed and unwilling to look him in the eye. She didn’t want to see the revulsion or nausea in his eyes as he gazed upon her ruined face. She didn’t consider herself overly vain, but no woman wanted to be seen like this. It was her misfortune, falling in love with a debauched philanderer, a womanizing playboy who drooled over every woman in sight. Worst of all, she’d never seen him gaze at her the way he stared at other women, with a literal hunger in his eyes.
+
+Stupid perverted Rain.
+
+Silent the entire time, Rain applied ointment to Mila’s burns and bruises, his blistered hands working quickly as he bandaged her injuries with tender care. How did he do it? He suffered so many injuries and worked so hard, yet probably woke hours ago, even finding time to cook a full meal. How was she to ever compare? She could barely grill meat over the fire, much less cook on a stove. She didn't deserve him.
+
+Finished with his work, he slid off the bed and into her field of view, kneeling on the floor to gaze at her with love and warmth. “Mila my love, you never have to worry about how you look. Even if you’re deformed and disfigured, I’ll love you until the day I die.”
+
+Stroking his hair, she asked, “You mean it?”
+
+“Course.” Wrapping his arms around her waist, he pulled her close for a hug, his cheek pressing into her chest, only a sheer nightgown separating them. Blushing at his audacity, she squeezed him tight, caressing his hair and tingling all over as his hot breath brushed across her skin. After a long embrace, she pushed him away, her cheeks aflame as he grinned. “It’s not like I fell in love with you for your looks.”
+
+Infuriated by his ill-timed jest, Mila pinched his cheeks until they turned red. “Scoundrel! Lowlife! Cretin! Just you watch, I’ll harbour a grudge over these injuries and remain permanently disfigured. We’ll see how long your flowery words last. Hmph.”
+
+“Forever and ever my love. I mean, we saved Sanshu, I’m sure the Magistrate won’t mind if we steal a few pillowcases. They’re the perfect size and once we cut holes for your eyes and mouth, no one will even notice your injuries.”
+
+“Rainy!” With her cheeks puffed, Lin stomped over and tapped his nose. “No bullying Mi-Mi.”
+
+“Mercy wifey, mercy!” Properly chastised, Rain put on an act of contrition, hanging his head in shame. Of course, this meant his face was buried in Mila’s lap, the rogue still taking advantage of her good nature. “Sorry my love, I can’t help it. You’re so radiant when you’re angry, I’m helpless to resist. Accept this meal as my apology, hand-made by this lowly sinner for my two forgiving brides-to-be. And Li Song. And the guards, but they can eat outside. Now, allow me.”
+
+Slipping his arm behind her knees, Rain lifted Mila with a grunt, carrying her to the dining table one careful step at a time, his arms trembling beneath her weight. Sighing to hide her overwhelming contentment, Mila rested against his shoulder, enjoying Rain’s efforts and affection. Things weren’t exactly like she’d dreamed them, but they were perfect all the same. Honour and glory were nothing compared to a sharing a delicious meal with Rain, Lin, Song, and all their little pets.
+
+Pure bliss.
+
+Chapter Meme

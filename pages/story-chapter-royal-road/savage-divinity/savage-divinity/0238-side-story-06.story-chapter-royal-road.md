@@ -1,0 +1,117 @@
+---
+id: 916c61ea-2446-59b7-95f9-81888f8159a5
+page-type-slug: story-chapter-royal-road
+title: "Side Story 06"
+slug: 0238-side-story-06
+partOf: savage-divinity
+position: 238
+ownLength: 2640
+unit: words
+publishedAt: 2017-07-26
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/151166/side-story-06"
+royalRoadId: "151166"
+---
+
+Sitting in the courtyard, Akanai sipped her tea while her home devolved into chaos. Last night, after a long, tear-filled farewell with Mei-Lin, Mila and her friend fell asleep in each others arms, forcing Taduk to come collect his precious daughter. Now Mila ran to and fro as she packed her things for the long trip ahead, something she should have done last night. Hiding her smile behind the porcelain teacup, Akanai tracked Mila’s progress around their home, enjoying the sight of her adorable twelve-year-old daughter racing about, her hair in disarray as the yearling quin Atir followed  her around. Already harnessed and waiting, Kankin watched over his daughter and Mila like a protective hawk. The greying quin boasted many clutches of quins with multiple mates, but this time, out of a brood of five, Atir was the only one to hatch, greatly upsetting the proud sire. Perhaps it was time for Akanai to find a new mount and let Kankin retire in peace, but the old, cantankerous quin refused to share his stable with a stranger and Akanai refused to be separated from him.
+
+No matter, the Empire was in a time of peace and the pup wore her mantle well, riding about the province with the Iron Banner in tow. Besides, raising a family was far more work than Akanai had ever imagined, having never been a part of one before. Though she’d found many abandoned orphans and raised a handful of disciples, Akanai was woefully unprepared for her first daughter. The sleepless nights and dirty diapers had now transitioned into mischievous pranks and inquisitive challenges, but it was all worth it. Still, even though she wouldn’t trade Mila for the world, after twelve years of idleness, Akanai itched to ride out and make her name known once more.
+
+Only a few years to go and the wait would be over, taking the world by storm with both husband and daughter at her side.
+
+Breathless and flushed, Mila ran to Akanai with her pack in hand, holding it out for inspection. “Sorry Mama, I'm ready now.”
+
+“Speak in Common. Best get in the habit before we leave the village. It’s not a crime, but other languages are frowned upon in the outside world. As a demi-human, you will need to work harder than humans to earn recognition.” Peering over the haphazard pack, Akanai frowned. “Are you satisfied with your work?”
+
+Sheepishly glancing over her things, Mila shook her head and set to organizing her pack, ignoring Atir as the curious quin poked her nose into every nook and cranny. Distracting the quin with breakfast scraps, Akanai pursed her lips in thought, worrying over Atir’s temperament. The pup was too friendly, showing none of her sire’s tenacity and calm. Though she hoped Atir would be a lifelong companion to Mila, a quin was also a weapon and as her husband was so fond of saying, to forge good weapons required good steel.
+
+“Mentor, you worry so much it's a miracle you have yet to grow a wrinkle at your age. Truly, the Mother works in mysterious ways.” Strolling in without so much as knocking, Baatar greeted Kankin before taking a seat beside her, topping off her cup and pouring one for himself with a wry grin. “When I heard about your plans, I raced over to catch you on your way out, but it seems you are behind schedule. Were you planning on a late departure? It’d make sense, considering I heard no scolding on the way up.”
+
+Mila’s tiny glare did not go unnoticed, a child full of fire and vinegar. She was a handful and Akanai struggled to toe the fine line between Mentor and mother. Were it Baatar in Mila’s place, she’d have chewed him out for laziness and ineptitude, but it was different when teaching her precious daughter. She never changed Baatar’s diapers or patted him to sleep, and though she took a firm stance with Mila’s discipline, it was difficult not to coddle the girl, wanting nothing more than to see her beautiful smile.
+
+Annoyed by the dig at her age, Akanai asked, “Jealous, pup? Instead of wasting time harassing my daughter, you should spend it practising. You always were a disappointment.” Giving him a wink to soften the blow, she added, “Worry about your own household before commenting on mine. You’ve a neglected wife and new foundling to attend to, what brings you here?”
+
+Wincing at her sharp tone, the pup’s ears flattened at the reproach. “Mercy Mentor, mercy. This lowly one spoke out of turn. This filial Disciple only came to wish his junior martial sister the best of luck on her hunt. So young and talented, the future of the People. I remember hunting my first Spiritual Heart at the tender age of sixteen and even then I was overwhelmed, but Mila far outstrips my meagre achievements. A word of advice junior martial sister: since it will be used every night, your bedroll should be left for last unless you intend to unpack and repack everything in the morning. Likewise, your clothes and...”
+
+Ignoring his backhanded remark about Mila being too young, Akanai pouted over the pup’s interference. She preferred to let her disciples learn from their own mistakes and the pup and Sarnai were living proof her system worked. Case in point, Baatar failed to learn from her mistakes, abandoning his family six months out of the year to go gallivanting off on his own. Now, he brought danger and hardship to them once again, fobbing off a possibly Defiled foundling to his daughter, the height of irresponsibility. Against her better judgment, Akanai offered her opinion on the matter through Sending, not wanting Mila to hear the harsh words. “From what little Taduk would tell me, the foundling has been through quite the ordeal. Are you sure he is untainted? If you have grown too attached, I could step in and handle it.” An unpleasant task, but someone had to do it.
+
+Teeth bared and hackles raised, the pup glared back. Idiot, still yet to master his temper, he’s lucky Mila was here else Akanai would have beat some sense into him. After a long silence, the pup finally calmed enough to answer, sinking into his chair to sulk. “The boy is resilient beyond his years. He will recover.”
+
+Stubborn blockhead. “And if not? Can you trust the girl to watch him? Does she not intend to start her own family? How can you allow children around him? The risk is far too great.”
+
+“I agree, but Alsantset insisted on the responsibility, protecting her mother like a filial daughter should. She knows Sarnai’s heart could not bear it if she grew attached and we were forced to put the boy down. My Sarnai has been pushing me to take another wife and child, terrified of leaving me alone after her death.”
+
+A heartbreaking thought, to see the pup and his lady love separated, but such was life. “It is not too late. Spend more time with your wife and admit your mistakes. You should have killed the boy the moment you laid eyes on him. It would have been a mercy.” So long as he said the word, she would deal with the issue before leaving. A simple enough matter to sneak in and steal the boy away, leaving marks to make the girl think he’d run off and died.
+
+Going silent, the pup sipped his tea with a haunted look in his eyes, the same look she’d seen in several Bannerman at the ceremony, a mixture of hope and sorrow. After a long pause, he shook his head and Sent, “I thought about it many times on the journey home. With his grievous injuries, cold rage, night terrors, and senseless rants, I worry I’ve brought calamity to the People.”
+
+“So why stay your hand?”
+
+Sighing, Baatar shrugged, looking lost and forlorn. “Because after all his struggles to survive, it would be too cruel to deny him a chance at life.”
+
+Foolish optimism, but she respected his decision and hoped for the best. Dropping the topic, she chatted with her Disciple of better times while Mila packed her things, the pup speeding things along with his advice. After finally waking, her husband ambled out just in time to kiss his wife and daughter farewell and Akanai lost her reason for delaying. Lifting Mila onto Kankin, she Lightened them both and rode out the courtyard with little Atir in tow, the yearling too weak to support Mila’s heavy frame. A minor disadvantage, but well worth the trade, Akanai’s multi-talented daughter well on the path to becoming an unparalleled warrior.
+
+Bright-eyed and bushy-tailed, Mila hummed a cheery tune as they left the village, excited at the prospect of her first journey. Allowing Mila to enjoy the moment, Akanai waited a few hours for the monotony of travel to set in. As they stopped to give Atir a break, Akanai set Mila to brushing the quins, lecturing her daughter all the while. “Remember, this is not a pleasure trip. We are here to hunt a dangerous, thousand-year-old beast for your second Spiritual Weapon.”
+
+“Yes Mama.”
+
+“The world is full of trials and tribulations, so you must be wary at all times.”
+
+“I know Mama.”
+
+“Have you memorized ‘The Three Hunting Strategies of Huang Shaotian’?”
+
+“Umm... Sort of.”
+
+Mila’s lashing tail gave away her anxiety. “You either have or have not. Which is it?”
+
+“...Not yet Mama, I’ve memorized more than a third, but the language is so complicated and flowery.”
+
+“I lack the patience for your excuses. After the break, you will resume your studies while we ride. Are you done brushing Atir yet? Then let us spar.”
+
+Mila was too adorable, her red-panda ears flicking back and forth as she moved into place. It would have been better to wait a few years and gift her a polearm instead, but Mila was too talented to allow her to lie fallow, proven by the massive leap in comprehension following her binding ceremony. Still too short to wield it one-handed, Mila held her Spiritual Weapon in both hands like a proper spear, her freckled face set in grim resolution.
+
+Hardening her heart, Akanai set to battering her daughter about the field, inwardly wincing at every bruise and welt inflicted. Mila’s enemies would not show mercy, so Akanai was merely preparing her for the world. Thrashing her daughter time and time again, she let up after an hour of vigorous sparring, leaving poor Mila panting, bleeding, and exhausted. Wasting no time, they mounted up and rode off while Akanai recited passages from The Three Hunting Strategies for Mila to repeat between bites of jerky, drilling each word into memory. Four hours later, they stopped for another session of sparring while the quins rested, then rode until sunset before setting camp and sparring a third time. After a quick wash and a cold meal, their first day of travel came to an end, sleeping nestled together in their tent.
+
+Their journey continued in the same manner for five days, riding from dawn till dusk, pushing Mila hard. She had too much talent to let it go to waste, but with each passing day, her cheery demeanour faded while Akanai’s uncertainty grew bit by bit. Was Mila too young for this harsh training? Was she stealing away the joy from her daughter’s life? The pup suffered far worse, but he needed it, a savage, bloodthirsty young man who needed to be beaten into compliance. Akanai herself suffered through the same at the hands of her army trainers, but she'd hated them with a vengeance. Would Mila grow to feel the same way?
+
+The thought terrified Akanai more than anything, and then it happened. During a sparring session, Mila made an amateur mistake by crossing her feet. Akanai’s boot scythed out on reflex, sending the poor child tumbling across the hard-packed dirt. Cradling her head, Mila wailed in pain as Akanai panicked and bolted over, checking her for injuries and easing her pain. “Sweet child, Mama’s sorry. Dry your tears, everything will be all right. Hush now...”
+
+Riddled with guilt, Akanai put an end to the day’s travel and set camp, cooking a nice, hot meal while Mila slept off her bruises and exhaustion. Though it wasn’t a particularly bad injury, the sound of her daughter crying in pain sent waves of agony through Akanai, hating herself for being the cause. Were it anyone else, she’d have ripped them limb from limb and fed them to Kankin, forcing them to watch as he devoured them piece by piece. How could she allow her precious Mila to continue down this path?
+
+After the meal was ready, Akanai called out to Mila, watching as she crawled out the tent with head hung and eyes red from crying. Sitting across from one another, they ate in silence while Akanai wrestled with shame and contrition. Clearing her throat, she spoke softly, preparing to surrender for the first time in her life. “Perhaps the pup was right, you are too young for this. Let us return home and try again in a few years, sweet child.”
+
+“No!” Running around the fire, Mila launched herself into Akanai’s arms. “I’m sorry for disappointing you Mama, but I’ll work harder, I promise.”
+
+Burying her face in Mila’s fiery hair, Akanai shook her head. “The day will never come when I am disappointed in you, silly girl. The fault lies with me, a foolish old woman who pushed you too hard and expected too much. I let pride overcome reason and in doing so, have failed you as both mother and Mentor.”
+
+“No, you haven’t! I can do this, I know I can.”
+
+“And I never doubted you for a second.” Gazing into Mila’s tear-filled eyes, Akanai was once again surprised by her daughter’s stubborn determination. “But you are so young, only twelve years old, a time for joy and happiness. Would you not rather spend your days being carefree and playing with your friends, instead of always studying and sparring?”
+
+“Nope. I wanna be just like Mama and Papa, a Peerless Warrior and Divine Blacksmith, so I need to work hard.” Stated with all the confidence in the world, Mila’s chubby little cheeks trembled with conviction as she stared into her Mama's eyes.
+
+Unable to hide her smile, Akanai kissed Mila on the temple and sighed, completely at a loss. “Is that so, precious daughter of mine? Reaching your goal will not be easy.”
+
+“Yes Mama.”
+
+“It will take hard work and dedication.”
+
+“No problem Mama. I can handle it.”
+
+“The Martial Path is dangerous and filled with adversity and suffering.”
+
+“I’m ready Mama.”
+
+Still hesitating, Akanai added, “I’d be proud of you regardless of your vocation, whether it be blacksmith, warrior, housewife or whatever.”
+
+“I know. I love you Mama.”
+
+“I love you too Mila.” Giving her one and only child a kiss, Akanai held back her tears and steadied her nerves. “Now, finish eating and off to bed. You took a bad bump on the head so no more sparring today, but we will make up for it tomorrow.”
+
+Looking as if she’d eaten a lemon, Mila nodded without complaint, her smile returning as she melted into Akanai’s embrace. Beneath the starry skies, mother and daughter enjoyed their meal by the fireside, each lost in thought as they dreamed of the future.
+
+A mere warrior and blacksmith? With Mila’s talent and determination, she set her sights far too low. In ten or twenty years, her name would echo across all the lands, Sumila, daughter of Akanai and Husolt, Hero of the Empire and Unrivalled Beneath the Heavens.
+
+Nothing would stand in her way, not so long as Akanai still drew breath. Nothing.
+
+Chapter Meme

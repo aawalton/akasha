@@ -1,0 +1,135 @@
+---
+id: f3a85639-ce20-5701-bcd5-f009551e1f12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - Cow Versus Treantcap"
+slug: 0032-chapter-32-cow-versus-treantcap
+partOf: sherly-the-most-virtuous-holy-cow
+position: 32
+ownLength: 1907
+unit: words
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2945771/chapter-32-cow-versus-treantcap"
+royalRoadId: "2945771"
+---
+
+Chapter 32 - Cow Versus Treantcap
+
+Sherly found herself starting to regret her own hubris. She could only laugh at the ridiculousness of the situation. It was reaching the giant demon-treantcap’s head at all that was the problem.
+
+She could only blame not thinking of it on the adrenaline and Stalwart. The amount of energy she’d suddenly gotten from Ignite Blade made her feel like she could conquer the world.
+
+The greatsword was a blaze of determination and it wasn’t taking a no for an answer. And now she was fighting with her pride just to not feel regret, or that she was backing out on her words.
+
+Sherly hadn’t done it just to put herself in artificial danger, but rather, she’d convinced herself that there was a purpose to fighting alone. After all, it wouldn’t always be the case that someone would be there to rescue her should things go awry. So she wanted to take advantage of the gracious cards she had been dealt, in order to prepare for the worst case scenario where she would have to fend for herself alone.
+
+Holding on to that rationality, the cow-chilim stood her ground as the treantcap lashed out with thorny vines. She met them with the blazing arc of Stalwart, slicing and burning through some. But a lot more made it past her defenses. Fortunately enough, her Physical Resistance had been working overtime ever since her meteoric fall.
+
+Sherly withstood the pain, trusting in her Continuous Regeneration. While taking a hit would take a toll out of her lifeforce for using Ignite Blade at the same time, she took the bet that she had a lot of it in reserve. She had no other option in the matter anyway. She wasn’t fast enough to dodge, or skilled enough to deflect all the vines.
+
+I just have to put my back into it!
+
+The cow-chilim growled, fighting off the pain with anger. Her glare pierced through the treantcap who was also hurt by their clash. Only then did Sherly notice the flames growing at its arms.
+
+The monster reeled back, screaming in agony as it tried to get rid of the flames. Being made particularly of wood and leaves, however, all its efforts were in vain. A slap at one part caused the fires to jump into its other arm. A roll on the ground allowed the embers to spread to the rest of the trees. It was like observing paint spreading everywhere, only it was made of red, orange, and yellow, and painful to watch. Sherly swore she could see some licks of black flame in there as well.
+
+Rather than give in to her curiosity whether the black flames were true, the cow-chilim saw the urgency of her opportunity. While the fires were spreading, they were still relatively concentrated on a small section of the forest. But if she allowed the commotion to continue, it might develop into a real wildfire.
+
+If she were to infer from how Ishuin and the others had built up the anticipation of arriving at The Gap, Sherly deduced that this place was of some significance to them. She didn’t want to cause them and the locals any more trouble than she already was.
+
+Sherly began her pursuit. The demon-treantcap was too distracted to even notice her approaching at its feet. Taking advantage of that, the cow-chilim made the largest wind-up she could possibly muster.
+
+Stalwart burst out a massive swing with a powerful Ignite Flame, as Sherly unleashed her strike. The greatsword was propelled in a wide arc, creating an extended fan of flames. Momentarily, it was as if the blade of the weapon itself had become the sharpened edges of fire that sliced through both legs of the demonic monster.
+
+The treantcap fell, and its screams of pain echoed throughout the entire forest. But Sherly didn’t heed its pleas. The demon had come with the intention of killing them. It had even attacked first. Before she could deal the final strike, however, conscience gripped the cow-chilim. Her hesitation didn’t come without reason. There was a purpose behind it, one that she would deliberately rip apart should her intuition be proven false.
+
+“Talk,” she said, standing beside the monster’s huge face. Her flaming sword threatened its neck. “Tell me why I should keep you alive, or I’ll kill you where you lay.”
+
+The demon-treantcap paused, shocked that its cries had been heard. Its teary eyes turned towards her. Desperate.
+
+“Please, spare me,” it said with a rumbling voice. Its tone was deep, and the way it slowly spoke shook the ground. “I don’t wish to die. I didn’t ask to be born a demon.”
+
+That took Sherly by surprise. Her arm retreated, pulling Stalwart away from the monster’s neck.
+
+Then she was skewered in the side by the monster’s branches.
+
+Sherly growled. Not in pain, but in anger. Deceit and betrayal. Two of the things she hated the most. She could tolerate the insults and the abuse. At least those things were as straightforward as they came. They were done when they were done. But there was nothing more painful than letting a lie lead her around in circles, only to be taken advantage of, and thrown away when she was no longer needed.
+
+The treantcap tried to pull and lift her up, but Sherly gave it no ground. Her Stalwart blazed in bright crimson as she lifted it with both hands, pointing it straight down the monster’s face.
+
+She was crying.
+
+“Go to hell!” she screamed as she plunged down the greatsword.
+
+She had always wanted to say those words. But society and hierarchy said she should endure instead. And now that she was actually able to say it, the catharsis she expected to comfort her became a deep sorrow of regret instead.
+
+Stalwart exploded in a great conflagration of brilliant flames, disintegrating the demon-treantcap as it screamed its existence away. The only thing that remained was its mana-core.
+
+Sherly felt her chest tighten. It wasn’t because of the emotions this time. Something was telling her to stop. Stalwart. After all the urging it had done to convince her to use Ignite Blade, it was now doing its all to ask her to stop.
+
+She did as told, as quickly as she could. Her breathing collapsed, even though her Continuous Regeneration was healing her physical wounds. Her eyes became a burden. Light was blinding and her world was spinning.
+
+Sherly couldn’t help but throw up.
+
+“Stay awake, Sherly!”
+
+The cow-chilim recognized Maymay’s voice, but it was piercing her ears like a stick drilling into them. At the very least, she followed the instruction with every bit of her will and determination.
+
+It was less of a pain, not so much as it was a struggle. Nothing like evolving. Knowing when her consciousness was starting to fade, forcing it to keep on, and continuing the cycle over and over, made the endeavor feel like an eternity.
+
+Sherly couldn’t even begin to measure if she was getting better or not. She couldn’t even afford to worry about the burning forest. Her trust in Ishuin and Maymay convinced her to leave that situation to them. She simply needed to concentrate on whatever was going on with her body.
+
+She found her flow. Breathing, as painful as it was, was mandatory to keeping herself alive. It was like swallowing jagged rocks. But she kept breathing.
+
+Slowly, as though she was crawling out of a tunnel without arms or legs, the cow-chilim finally found some semblance of comfort. She could feel her lungs full with air, though she still struggled to keep it consistent.
+
+A hand, one other than Maymay’s, touched her shoulder, and warmth suddenly followed. The tightness was being pulled apart. She felt her shoulders fall down, and the rest of her tension start to disappear.
+
+Her eyes didn’t feel heavy at all. The blinding brightness was gone, replaced by a gentler one. And she found some amusement with her spinning vision settling down to stability.
+
+That was when Sherly noticed the unfamiliar hand.
+
+“I’ve stabilized your lifeforce, cow-chilim,” said the stranger. A man’s voice. Gentle, yet assertive. There was a slight rumble as he spoke, creating a small semblance to the demon-treantcap that had just died.
+
+Sherly forced herself to bury that memory.
+
+“Are you alright, cow-chilim?” he asked, when she didn’t say anything.
+
+“Her name’s Sherly.” This time, it was Ishuin’s voice. “I wasn’t expecting you to show up so early, Rev.”
+
+“I was patrolling the nearby woods. Shift-cycles. You know how it is. I do still prefer evenings to sunsets.”
+
+The man called Rev, another elf, by Sherly’s assumptions, kept his dark red eyes on her despite answering the priestess elf. His calm face was turning to worry.
+
+“I’m sure I applied Lifeforce Healing properly,” he started. “If you’re unable to speak, then what’s wrong is something else entirely.”
+
+“Ah!” Sherly blurted out, startling the elf and the others. “Sorry, I was caught off-guard."
+
+The cow-chilim sat up with Maymay’s assistance. She then began to assess her physical injuries. They were healing nicely. As for the internal tightness, it was completely gone.
+
+“You said Lifeforce Healing?” she asked.
+
+“You overworked your lifeforce,” Ishuin explained. “Taking all those hits while using Ignite Blade, there was just no time for your Continuous Regeneration to keep up. Unfortunately, no one in the caravan specializes in lifeforce. But fortunately for you, Rev here happened to be around.”
+
+“Revashir Lightseed. You may call me Rev, for short. Nice to meet you.”
+
+The male elf made a familiar gesture. One that Sherly realized was something she hadn’t done since arriving in Sinzodia. While she had greeted some people by bowing before in this world, this was the first time that someone had extended a hand as a form of greeting.
+
+The cow-chilim, yet again, was caught off-guard. The gesture was extremely familiar. She had no doubt that Revashir was offering a handshake. And while she wasn’t exactly an introvert, she didn’t know if taking his hand and shaking it would be accepted, or if the action would offend the man.
+
+“It’s a handshake, Sherly,” Maymay whispered. Though her act of subtlety wasn’t actually hiding her from Rev and Ishuin noticing. “Are you not familiar with those? You take his hand and do a firm shake. Make sure you strengthen your hand, because some people like to grab with a bit of force.”
+
+“I assure you, I will not crush your hand,” Revashir said, blushing slightly.
+
+“Oh, yes, I’m familiar with those,” Sherly said as she took his hand. “I’m Sherly. Just Sherly. Thank you for helping me.”
+
+In the end, I still needed help. But at least, I finished the monster on my own…
+
+Revashir smiled as he and Sherly formally made a handshake. It went on for a little longer than the cow-chilim had expected, which naturally made her nervous.
+
+“Umm… Rev?” she started. “Do handshakes last this long?”
+
+“I suppose I’ve been holding your hand for a little too long.” The elf, however, still didn’t let go. His smile disappeared, and the handshake eventually stopped. He turned to Ishuin. “I just needed a moment to confirm my suspicion.”
+
+A dagger manifested in his free hand.
+
+“Now I don’t want to impose,” Revashir began. “But I’m giving you all ten seconds to explain why there’s a demon-cow stepping foot under my protected zone.”

@@ -1,0 +1,185 @@
+---
+id: 71c2108b-48d2-59f6-9536-ca6c5152ac83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: A Confrontation"
+slug: 0021-chapter-17-a-confrontation
+partOf: shapeshifter-a-non-human-litrpg
+position: 21
+ownLength: 2098
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3448420/chapter-17-a-confrontation"
+royalRoadId: "3448420"
+---
+
+Hina froze at the top of the stairs. She triple-checked that her Shadow Veil skill was active and that she was out of direct sight. There's no way he noticed me, she reasoned. Perhaps he's just guessing that I'm tailing him.
+
+"I see you at the top of the stairs," Yuki said, shattering any logical explanation. "Stop hiding and show yourself."
+
+Hina slowly emerged from the shadows at the top of the stairs.
+
+"I knew you spotting that Canopy Stalker on the tenth floor wasn't a fluke," she said, her tone betraying her tenseness. "My Shadow Veil skill is B-grade, and I'm almost level fifty. I can attribute your potent healing skills, large mana pool, and how you one-shot that Acid Slime with a Radiant Smite to being an Elf, but what I can't ignore is your perception, as that is my forte. I know what it takes to peer through the darkness and see me," she pointed an accusing finger. "Either you possess a specialized perception skill that is higher than A-grade, or you are secretly a high-level Hunter." She frowned. "Actually, you would have to be both."
+
+Yuki looked at her, his expression indecipherable due to his mask.
+
+Hina cast Appraisal on him.
+
+[Elf (Radiant Healer: Level 19)]
+
+The results of her Appraisal floated over his head—an obvious lie. He was somehow obscuring his true strength, and she was determined to find out how.
+
+She canceled the skill and snorted. "Level 19? I don't believe it."
+
+"You're right," Yuki admitted and shrugged. "I'm far stronger than you and anyone else here. Now what?"
+
+It was the obvious conclusion with everything Hina had observed so far, but Yuki confirming her suspicions sent a chill down her spine. This masked Elf was likely an A-grade Hunter, or possibly even a legendary S-grade. But why would a Hunter of that caliber go to such lengths to hide their strength and join Alex's party?
+
+Yuki seemed to grow impatient with her silence and turned to leave.
+
+"Wait," she called out, and he paused. Many questions were on the tip of her tongue. Was he a Reaper sent to kill someone in her party? Was the incident they were investigating far larger than she had initially thought? Who did he work for? Who was he really?
+
+Why?
+
+She gulped.
+
+"Thank you," was all she managed to say in the end.
+
+Yuki silently nodded and left—not by unmaking their barricades, but by simply stepping forward and vanishing. A ghostly afterimage remained for a moment where he had stood before fading.
+
+Startled, Hina collapsed against the stairs, her heartbeat pounding in her ears and her breath coming out ragged. She hadn't even seen him move. But that wasn't what shocked her. Yuki had displayed multiple healing skills, Radiant Smite, a perception skill of some kind, and now a movement skill.
+
+For a total of six skills.
+
+Either he was the first Hunter in history to have more than the known five skills, or his stats were so high that he could move that fast without the use of a skill, and Hina didn't know which option was more horrifying.
+
+I thought he was someone suspicious and possibly dangerous, but now I realize I was a fool, Hina thought as she stared at the empty spot Yuki had occupied a moment earlier. If he wanted us all dead, he would have killed us already.
+
+She glanced at the intact barrier. I had planned to tail Yuki and catch him doing something suspicious so I could report it to Alex and have him call off this mission. She shook her head and slowly stood, using the cold stone wall for support. Now I know that tailing such a person would only lead to my demise. I think I'll just join the others under the Beacon of Grace and relax. With him on our side, I doubt we can fail this mission.
+
+Trudging up the winding stairs, she still couldn't believe what she had just seen.
+
+Just who is Yuki Tanaka?
+
+She left with more questions than answers.
+
+***
+
+Xen waited behind a large amber crystal and scanned the obsidian tower being besieged by Acid Slimes for any traces of Hina. Confirming that she was returning to the others on the top floor and no longer trailing him, he frowned.
+
+"That's annoying," he muttered.
+
+After showing Ghoststep, I'd hoped to ignite her curiosity and draw her away from the tower. Out here, I could've easily staged her death to an Ashrock or fed her headless corpse to an Acid Slime after I devoured her brain and got the Nightstalker class.
+
+For whatever reason, she had finally chosen to leave him alone.
+
+While annoying, this is perfect. Hina was the only one with any type of perception skills. With her out of the picture and the obsidian tower lacking windows, I can do as I please out here without risking them seeing me. I'll figure out what to do with Hina later.
+
+He stepped out from behind the amber crystal and strode over to the nearest Acid Slime. Sensing movement, the mindless creature rolled toward him over the porous rock.
+
+"Why do you have a core?" he asked the slime. "I don't have one."
+
+Just like a rock, it didn't offer a reply.
+
+"Even at high levels, you never gained intelligence," Xen muttered, shaking his head with sadness. "How pitiful." The monster lurched closer, and Xen pondered how to go about devouring it. Shattering the core caused the entire thing to collapse, and he wasn't sure whether eating a broken stone would give him the form.
+
+Side-eyeing his list of skills, he had a few options. But one skill called out to him.
+
+"Chains of the Damned."
+
+The ground beneath the monster erupted as dozens of semi-ethereal, cursed chains made of porous black rock engulfed the large slime like a snare, rooting the Acid Slime in place. It tried desperately to lurch forward against the restraints—causing them to tighten and squeeze it to the point of almost bursting. Its translucent body then took on a darker shade as corruption began to stack, tainting its insides. The Acid Slime desperately tried to shed its corrupted body to survive until it had reduced itself to a puddle.
+
+Xen crouched down beside the chained puddle and plucked the core free from what was left of the body. His fingertips burned from the acid, and the core was hot to the touch, like a lit coal. Without using his hands, he shifted his skin upwards to raise the mask and uncover his mouth.
+
+It wasn't much, but this was going to be his first meal in days.
+
+He swallowed the slime core whole.
+
+[Devour Complete]
+
+You absorbed 0% of the [Acid Slime]'s memories.
+
+The [Acid Slime] form is considered an inferior species to the [Hexreaver Slime]. Therefore, the inferior species will be assimilated.
+
+Xen raised a brow at the system message. Firstly, he had never absorbed zero memories from a monster before, and secondly, it hadn't given him the option to keep the Acid Slime as a separate form. Xen smiled with amusement. It was almost as if the Hexreaver Slime form didn't want to even entertain the idea that he might take on the inferior Acid Slime form.
+
+The [Hexreaver Slime] and [Acid Slime] forms have been successfully merged.
+
+You acquired the following skill:
+
+[Acidic Burst (D)]
+
+On death or by active use, release a pressurized spray of corrosive acid in a short radius. Inflicts the Corrode debuff, reducing the target's physical defense over time.
+
+"Another debuff spell, nice." Xen nodded and looked at the other Acid Slimes moving around. "None of them have displayed any skills besides this Acidic Burst skill, so hunting them seems rather pointless for new skills."
+
+He pointed at a large nearby pool that was festering with Acid Slimes.
+
+"They do offer decent experience, though," he said. "Radiant Smite."
+
+A max power arc of golden lightning struck the pool, the water distributing the skill to every lurking slime and shattering their cores. While not considered undead, Radiant Smite was likely his most effective skill due to their liquid bodies.
+
+For some reason, he took joy in hunting his inferior kind.
+
+You have killed multiple opponents.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 74 -> 75.
+
+[Elf] has leveled up: 19 -> 25.
+
+Xen shuddered as he felt the flood of experience and subsequent level-ups increase his hidden stats.
+
+[Elf] has reached Level 25 (C Grade). Evolution is available.
+
+Please choose a class from the following options: [Mage], [Priest], [Archer], [Juggernaut], [Phantom Scout], [Spellblade], or [Radiant Healer].
+
+Xen pondered as he looked at the list and then glanced at the obsidian tower.
+
+I've already got quite a few healing skills now, and adding any more is going to become difficult to explain. Since Hina isn't watching me, I don't have to worry about briefly taking on another class.
+
+Looking back at the selection screen, he made his decision.
+
+"I choose Mage."
+
+[You have selected the devoured class [Mage] to imitate]
+
+Information flooded Xen's mind as twenty-five levels of class information were crammed into his head.
+
+A Mage commands the raw forces of elemental mana, transforming thought into destruction. What a Mage lacks in endurance and physical prowess, they compensate for in range, versatility, and the sheer explosive potential of their spells.
+
+New Skill: [Spellbreak (C)]
+
+Fire a concentrated bolt of raw mana at a target's active skill or spell. If it connects, the targeted ability is forcibly canceled, and the mana powering it is violently scattered, dealing damage proportional to the interrupted skill's grade. Higher-grade skills deal more damage on detonation.
+
+New Passive: [Mana Empowerment]
+
+Repeated spell use within a short period increases the potency of your magic by a percentage.
+
+As expected of the Mage class, both the new skill and the passive seemed useful.
+
+Spellbreak sounds almost too powerful for a C-grade skill, Xen mused, but then read the fine print. Ah, that makes more sense. Not only do I have to see someone casting a spell, but I have to use this skill fast enough to destroy it. Besides Daisuke taking forever to cast his skills for theatrical reasons, if he simply said the spell command and shot it, I doubt I'd have time to break his spell before it fired.
+
+This would only work against obvious spells that took a long time to cast, but he was fine with that.
+
+If a skill takes so long to cast and leaves the caster vulnerable, then that is the type of skill I'd really want to interrupt, and when the spell is broken, the mana used to conjure it is violently scattered and would likely strike the caster.
+
+[Mana Empowerment] was also an interesting passive. Its effectiveness was a little limited as he still lacked a reliable mana regeneration skill that would let him endlessly sling spells to stack the passive. But it would also increase the strength of his healing skills, which he used frequently in battle.
+
+"Though I'm a little worried they will get too strong," Xen chuckled. "I mean, what if the percentage is quite a lot? If my Flash Mend doubles in potency, I'll have no way to explain that to Alex and the others, who I already suspect are turning a blind eye to me—Daisuke in particular. There's no way that Arcanist hasn't noticed how strange it is that I don't run out of mana despite lacking a mana regeneration skill like him. I really want to get stronger as an Elf, so I can stop having to pretend to be weak all the time."
+
+A tremor in the ground stole his attention.
+
+"What was that?" Xen said, dismissing the system screens hanging in his vision, and used Geomantic Perception to lock onto the source. Not that he needed to, the culprit was startlingly obvious.
+
+A slow-moving behemoth was lumbering toward the obsidian tower.
+
+The size of a house, its six legs, shaped like the stalactites hanging from the ceiling, plunged into the Acid Slime pools without care. A withered tree grew on its back, its leafless branches trembling as it moved.
+
+"Appraisal," Xen said, though he already suspected what it was.
+
+[Ashrock Colossus (Level 55)]
+
+The true ruling monsters of this floor and the ones that had apparently pulverized the humans—an Ashrock. Though this seemed to be a colossal variant. Perhaps sensing his skill usage, the titanic creature slowly turned and looked his way.
+
+Xen met its gaze and strode toward it.

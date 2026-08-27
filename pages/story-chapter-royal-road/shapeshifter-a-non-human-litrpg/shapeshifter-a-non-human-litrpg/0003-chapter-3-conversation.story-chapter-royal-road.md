@@ -1,0 +1,105 @@
+---
+id: f065bc33-9070-5e18-84c4-10ebd26172f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Conversation"
+slug: 0003-chapter-3-conversation
+partOf: shapeshifter-a-non-human-litrpg
+position: 3
+ownLength: 1487
+unit: words
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405560/chapter-3-conversation"
+royalRoadId: "2405560"
+---
+
+His eyes were soulless? What did that even mean? Xen couldn't help but tilt Joe's head in confusion. "What do you mean my eyes are soulless?" he asked the terrified woman.
+
+"They have no pupils or irises," Sarah replied, her voice shaking. "They're just total blackness, like an animal's."
+
+Xen blinked in confusion. Why would his eyes look like that? He should have copied everything the original vessel had. Was it because Joe lost his eyes to an injury or something? Since he had no idea, Xen decided to ask his system, and to his surprise, it responded:
+
+[The eyes are the window to the soul, and the vessel's soul has long departed. What you inhabit is a soulless body]
+
+So, I have blank eyes because the body I am inhabiting is dead, and the soul is no longer here? Xen cursed and realized he was in deep trouble. It was already hard enough for him to act human with fragmented memories, but now he even outwardly appeared different from Joe.
+
+"Don't be alarmed, Sarah," Xen assured, raising his hands in surrender. "It must be a side effect of Jonathan's healing magic on me."
+
+Sarah stared at him for a long minute, then eventually uttered, with her back pressed against the dungeon wall, "Be honest, Joe. What are you?"
+
+"What do you mean?" Xen replied. "I'm Joe."
+
+"Your mouth isn't moving when you speak, yet words are coming out."
+
+Xen froze; it hadn't felt intuitive for him to speak with a human body, so he had been doing it through his newly acquired Human Language skill, which apparently worked without moving his mouth.
+
+Sarah slowly raised her chipped sword and pointed the blade towards him. "I will ask one last time: what are you?"
+
+This was bad. Very bad.
+
+"As I told you before, I am Joe," Xen insisted, this time trying to move the body's mouth to imitate human speech. "I was a last-minute addition to your party, remember? So there are not many ways to prove it, but I promise you, I am Joe. All of this is just a result of Jonathan's healing magic. A massive misunderstanding—"
+
+There was an audible tear of muscle as Xen felt his jaw begin to hang loosely from his face. An intense pain followed, unlike anything he had ever experienced. He had made too exaggerated movements with his jaw while trying to imitate human speech and had somehow dislocated or damaged the ligaments.
+
+"See," Xen said through the pain, "complications with healing magic."
+
+Sarah didn't seem convinced as she never lowered her sword. "Okay, Joe, if that is even your real name, tell me what happened to Jonathan. He was alive a minute ago until you woke up."
+
+Xen was hardly able to listen to Sarah as the pain of his ripped-off jaw was too intense, and there was a system message repeating in his head this whole time.
+
+[Use biomass to repair the body?]
+
+Without pushing it off anymore, he accepted the prompt.
+
+[Insufficient stored biomass. Converting biomass from the inhabited vessel]
+
+A warm feeling ran up his left leg, followed by the rancid smell of dissolving flesh that tickled his nose. Glancing down in confusion, Xen saw his foot dissolving into his body. Moments later, he felt his jaw clamp back into place as the muscle fibers repaired.
+
+“Um,” Xen gulped, “I can explain.”
+
+"You monster wearing human skin!" Sarah screamed.
+
+It would appear that the sight of him dissolving his foot to repair his face was the final straw, and his hope of convincing Sarah to trust him was long gone.
+
+"You killed Jonathan, didn't you?" She accused him as she charged forward with her sword raised.
+
+"No, wait," Xen exclaimed, raising his hands to meet the blade. He tried to roll to the side, but Jonathan's body held him down.
+
+"Basic sword slash." Sarah used a skill that wreathed her chipped iron sword in that same red energy that had cleaved through the dungeon floor when Xen had been a lowly mind slime. Swinging her sword in an arc, it all happened so fast. Xen saw his raised hands go flying in a shower of warm blood that splashed his eyes and tongue, and then the world span as Joe's head tumbled to the floor.
+
+Xen thought this might be the end of his short life, but to his surprise, he was alive.
+
+[Human vessel has sustained fatal damage]
+
+His slime body was still intact inside the rolling head. If she hadn't gone for the neck and had instead rammed her sword into Joe's skull, I would have perished.
+
+Through Mana Vision, he was able to see Sarah panting heavily while standing over the now headless corpse of Joe and the other dead elf that he used to mistake for a human. But now, with Joe's memories, he knew there was a distinct difference between humans and elves despite their deceptively similar appearances.
+
+Sarah spent a long time leaning against the dungeon walls while blood from many wounds dyed her clothes a scarlet red.
+
+Xen made no move to kill her despite her weakened state, as he had been reduced to nothing but a slime stuck in a decapitated head. It sucked that she might escape, but clearly, she was convinced he was dead, as she didn't try to ram her sword through the head he was inhabiting.
+
+"To think we let a monster into our party," Sarah eventually muttered as she stepped away from the wall. To Xen's surprise, she stayed clear of Joe's corpse as if it were tainted. She then began trying to drag Jonathan away, but her injuries and fatigue were too severe, to the point where even standing up by herself was too much.
+
+Eventually giving up in a panting-filled rage, she fished through Jonathan's pockets and retrieved a badge that Xen knew was a metal Hunter's badge from Joe's memories. "Uncommon Hunter" and the distinct letter E were written on it, though Xen was unsure what the title or letter meant. However, it seemed well cared for by its polished surface, so it must have been important to Jonathan.
+
+With the last of her strength, Sarah rested Jonathan against the dungeon wall. She closed his eyelids with a sad expression, and while touching his forehead, she said calmly, "You wait right here. I will return with a team to retrieve your body before the dungeon consumes you, so don't go anywhere."
+
+Standing back up with a sigh and wiping her tears, she gave one last disgusted look at the decapitated Joe before she left down the dungeon corridor with a limp, leaving behind the wolf corpses and the two men.
+
+As a dungeon monster, Xen knew that it took a week for the dungeon to fully absorb a corpse, and there was no way he would leave this banquet for the dungeon. So, once a while had passed and he was sure that Sarah was long gone, Xen tried to retake the human vessel that had been Joe.
+
+[Vessel is too heavily damaged, and you have insufficient biomass to repair it. Would you like to Devour the body instead?]
+
+Xen agreed with the system as there were multiple vessels nearby that he could inhabit instead, such as Jonathan the elf or one of the black wolves who were the apex predators of this floor. Furthermore, biomass seemed to be a vital resource for his shape-shifting skill.
+
+[Devour in progress…]
+
+Xen felt the bone and skin around him begin to dissolve and enter his body, and with that, he began to expand. Within a minute, his slime body had ballooned from the size of a fingertip to that of a human skull. He’d never been this large, and for the first time in his life, he didn't feel an intense hunger but rather satisfaction. Feeling happy with life, Xen rolled across the dungeon floor into Joe's lap and used the devour skill. Tendrils left his body and wrapped around Joe, slowly pulling the dead human into himself. There was a hissing noise followed by crackling as the body was broken down, but thankfully, Xen was in his slime form and, therefore, couldn't smell what he assumed would be a rather pungent stench.
+
+[Devour Complete]
+
+You gained biomass.
+
+Xen instinctively felt as his mass significantly increased. While he felt a little disappointed that he hadn't acquired any more memories or gained any skills or experience after devouring the corpse, at least he had gained a solid amount of biomass that he could now use to repair injuries or even construct a vessel from scratch in his own image. With that meal complete, he now needed to decide: should he eat Jonathan or the wolves next?
+
+Either way, he needed to be quick with his banquet. This was the first floor of the dungeon, so Sarah could return within the hour.

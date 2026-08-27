@@ -1,0 +1,71 @@
+---
+id: 2873137a-ff2a-5d51-ac39-269c3ceb1177
+page-type-slug: story-chapter-royal-road
+title: "Side Story 04"
+slug: 0236-side-story-04
+partOf: savage-divinity
+position: 236
+ownLength: 2145
+unit: words
+publishedAt: 2017-07-21
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/150157/side-story-04"
+royalRoadId: "150157"
+---
+
+Body weak and legs aquiver, Yuzhen collapsed on the bed, breathless and intoxicated as she basked in the afterglow. Lips stretched in a smile she thought reserved for empty-brained fools, she ogled her handsome lover as he laid beside her, lapsing in and out of blissful consciousness. After reading the reports detailing the abuse he'd suffered, she’d rushed over expecting to find him half broken and bleeding. Instead, she found him healthy and... enthusiastic as ever, though the healing left him leaner than she liked. Running her fingers across his skin, she drank in his athletic frame, broad shoulders narrowing down to a slim waist, his sinewy, supple muscles glistening with sweat as he audibly panted, drained from their carnal embrace. Chuckling at his cute gasps, she sat up and straddled him with a ferocious grin. “Rest up, my little lamb. I’ve yet to have my fill.”
+
+“Mercy, great beauty,” he pleaded, playing his part well. It’s one reason she sought him out so often, his willingness to adapt to her varying desires without complaint. “The mind is willing, but the body is weak. I beg you, allow me but an hour's rest and I’ll satisfy your every need.”
+
+Though his lips said no, his actions begged for more as his hands explored her body. Those amber eyes, so soft and warm, she could stare into them for hours on end, his broken nose and panda-like bruises long since healed. Slapping him across the face, she laughed mockingly at his frail protests, grinding her hips against him. “My patience is limited and options aplenty. If you’re too tired to sate my appetite, then I’ll look elsewhere for-”
+
+Before she could finish, Gerel rose with renewed vigour, his temper flaring at her teasing words. Enraptured by his fervent need to conquer and tame her, he pressed her down and loomed over her, his gaze filled with animalistic need. Enjoying the reversal of power, Yuzhen’s mind went blank with pleasure as she played prey to his predator, her struggles and protests dwindling away as she melted in his passionate embrace.
+
+Only after thoroughly satiating her every need did he allow exhaustion to win out, crashing down beside her, their bodies intertwined in naked embrace. Gasping for air, he smiled at her slack, contented grin and asked, “No need... to look... elsewhere... now?”
+
+Foolish men and their frail egos, it’s what made them so fun to toy with. “Fair enough,” she answered, allowing him a moment of smug gratification before adding, “For now.” A look of despair and desperation flashed across his handsome face as she leaned in to kiss his shoulder, hiding her smirk. “I’ve made allowances for your injuries, but if you’re still so lacking after the week is through...”
+
+“Woman, you’ll be the death of me. Off with you then, I’m no match. Find another poor soul to torment, I’ve lost all will left to live.”
+
+“So weak, how disappointing. My old man will never approve of our betrothal if you don’t shape up.”
+
+The mood shifted as his hopes erupted before subsiding, tempering his aspirations with caution. “Do not tease me with this. Are you truly willing to marry a no-name warrior like myself?” Suppressing her urge for mischief, she merely nodded, his palpable relief filling her with joy. So simple a thing, to be wanted for more than just physical release, she’d never felt this way before but Gerel’s frown marred her joy. “Why? Do you not have political nonsense to worry about?”
+
+Rolling her eyes, she bit him lightly and answered, “I haven’t the faintest idea.” Idiot. “Why do you want to marry me?”
+
+She asked the question in a casual manner, but her heart was filled with trepidation. All of her previous suitors hid ulterior motives, hoping find some advantage against the Marshal of the North. While Gerel didn’t seem like the type, there was still a tiny part of her which wondered at the possibility. Thankfully, his answer put a rest to her worries. “There was a time when all I thought of was battle, wanting nothing more than to fight better and kill faster. I've no family and few friends, so in my idle winter months, I’d hide away alone at home, honing my skills and pacing the walls, waiting for spring to come so I might find a worthy foe. It's all I lived for.” Sighing, he kissed her forehead and nibbled her fox ears. “Until this winter past. You were all I could think of, your smile, your voice, your scent, the memories plagued me without end. I offered to come along as Rain’s guardian only to spend more time in your presence, but Baatar had other plans. I even offered to guard the Magistrate's brat, but Akanai declined. It shames me knowing how I leapt with joy upon hearing Rain was missing, joining the search party just to see you once more. Want has nothing to do with it, I am consumed by the thought of marrying you. I will be your husband and you my wife, even if I must share you with a dozen others.”
+
+Unable to resist, she laughed and said, “Oh good, I always dreamed of having a harem of husbands. You will be my first and most cherished, but a dozen is far too few.”
+
+“Immoral wench.”
+
+Seeing his drowsy, contented expression, Yuzhen took his hand and whispered, “Rest, my handsome husband-to-be. If you’d like to keep our marriage bed empty of others, then I’ll need your best efforts.” Staying to watch him fall asleep, she rolled out of bed and sighed, cleaning and dressing herself for the day ahead. Though Yo Ling and the Coalition were defeated, Sanshu was far from safe, with plenty of work left to be done. Already she’d ignored her duties for too long, indulging her wounded lover after his ‘demoralizing’ defeat at the hands of Butcher Bay’s Spectre. A young man not thirty years old, beaten by a veritable legend famous for killing numerous heroes of the Empire, and Gerel had the gall to be depressed. Surviving one clash was reason enough to count his blessings, but this blockhead pressed his luck a second time. A dead hero wouldn’t warm her bed, but Gerel was nothing if not confident.
+
+Stepping out of Gerel’s room, she steeled her nerves as she strode past the beds of injured Bekhai, but to her surprise, they were nothing but cordial, though one or two men blushed and glanced away, likely remembering her... enthusiastic demands. How refreshingly delightful, were this anywhere else in the Empire, she would suffer through silent leers and whispered derision. It always seemed unfair to her, for men who slept around were heroes and idols, while women who did the same were labelled whores and tramps. The Bekhai seemed indifferent to her romantic tryst, treating her with the same aloof respect they gave all their superiors.
+
+If this were a week ago, she would’ve already been dreaming of escaping to live among Gerel’s people in seclusion, but things were different now. She’d finally accepted her place, poised to become the next Marshal of the North, and now that she had a real chance at surviving to accept the honour, she hungered for it. Not out of desire for power and authority, but to fulfill her old man’s dreams and make the north a better place, to save others like he saved her. Only with power would she have the ability to enact change, ensuring disasters like the Purge and Sanshu’s relocation of its commoners never took place again.
+
+Today marked the first step towards equality for human and half-beast alike.
+
+Taking her carriage to the Magistrate’s palace, she arrived just in time to greet her guest as he struggled out of his palanquin. “Chief Councilman Chao Yong, it is truly a pleasure.”
+
+The fat toad answered haughtily. “Of course it is.” His lecherous smile betrayed his thoughts, believing himself untouchable now that he was a ‘hero’ of Sanshu. “I was wondering when you would come crawling, but you moved faster than expected. Good, good.”
+
+Barely able to hide her disgust, Yuzhen led him to the meeting room and poured out two cups of tea. A minor courtesy of no real importance, but the toad’s smile widened even further. “As you know,” she began, “The Coalition’s heinous betrayal has left Sanshu in dire straits, your heroic efforts playing no small part in their downfall.”
+
+“Though I’m no warrior, as a loyal citizen of the Empire, I could do no less than stand against the hated traitors.” The puffed-up toad ate it all up, and she had to wonder if he truly believed the lies he spun. Unbelievable. “In fact, to sooner root out all possible traitors, I commanded my mercenaries to seize the Coalition assets, but it seems you were a step ahead of them.” Openly sneering, Chao Yong continued, “I’m sure you have only the best interests of Sanshu at hand, but I’ve lived here all my life and have a deep understanding of its dealings. It would be remiss not to use my expertise, and you’ll find yourself... deeply regretting your actions should you refuse my aid.”
+
+A flimsy excuse and thinly-veiled threat. Sipping her tea quietly, she nodded in agreement. “There are many documents and responsibilities regarding the Coalition’s holdings, and I find myself out of depth. In the spirit of cooperation, I’m sure we can come to an agreement.”
+
+Leaning forward, Chao Yong lowered his voice and asked, “Speaking of agreement, how are the Bekhai? Our reclusive allies have refused all my requests to greet them, but I understand you were just there. I hold no grudge, they must be tired from their efforts, the Mother’s Militia have also refused to meet me.”
+
+The idiot took so long to put the pieces together and now he thought himself clever. Feigning surprise and fear, she whispered, “Oh no...” This was almost too easy. After a long, thoughtful pause, she spoke quickly, abandoning subtlety out of worry he wouldn’t catch on. “I cannot relinquish the Coalition’s holdings, they are traitors and the investigation falls under the purview of the Empire, while you are merely a citizen. My hands are tied you see?” Pretending the idea just came to her, her eyes lit up. “What if I made you a Lieutenant Marshal? Then I could hand everything over to you and you’d be free to do as you please. I only ask you spare me, please...”
+
+Elated by her sudden capitulation, Chao Yong leaned back into his chair and stroked his beard. “Hmm... yes, yes. This is acceptable. With the Coalition’s assets and the office of Lieutenant Marshal, it’ll be even easier to annex the Union’s holdings...” Licking his lips, he stared hungrily at Yuzhen, weighing his options. “I’ve no desire for a barbarian’s leavings, so I’ll spare you for now, but do not think this absolves you of sin. Even after you’ve taken office as Marshal, I expect you to know your place. Begone from my sight, whore. Have the papers prepared within the hour, I intend to start immediately.”
+
+Hastily beating a retreat, Yuzhen smiled as the door closed behind her, yet another burden relieved. Even if she fought to hold onto the Coalition’s assets, it was only a matter of time before Chao Yong strangled her operations and left her with nothing, so why bother? Though he was a devious merchant, Chao Yong was an amateur politician, failing to understand the ramifications of his new office. As a Lieutenant Marshal, he wasn’t being given the Coalition’s assets, but rather the responsibility of overseeing them for the Empire. Given his nature, it wouldn’t be long before she caught him lining his pockets, at which point she would levy charges against him, seizing his life and possessions in one fell swoop. Why settle for a third of Sanshu’s industry when she could have it all?
+
+Despite her newfound optimism, she knew a long, uphill battle awaited her as Marshal of the North. If her brilliant and hard-working old man couldn’t do it, what chance did she have? Thus, she devised this plan to seize Sanshu’s wealth for the province, allowing her to remove all the corrupt Lieutenant Marshals her old man had no choice but to rely on. With her own means of production and supply, no longer would she be at the mercy of every merchant alliance and union, putting the outrageous profits to good use building schools and orphanages, raising scholars and soldiers loyal to the Empire. A small first step, but a vital one, she only needed to wait while Chao Yong wove enough rope to hang himself.
+
+Her mood lively and steps light, she hummed beneath her breath while heading towards her next meeting, the future already looking brighter.
+
+Chapter Meme

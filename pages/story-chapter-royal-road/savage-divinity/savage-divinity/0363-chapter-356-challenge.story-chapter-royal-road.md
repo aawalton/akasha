@@ -1,0 +1,131 @@
+---
+id: c072405c-b843-5952-a091-c4dcc151c864
+page-type-slug: story-chapter-royal-road
+title: "Chapter 356: Challenge"
+slug: 0363-chapter-356-challenge
+partOf: savage-divinity
+position: 363
+ownLength: 3375
+unit: words
+publishedAt: 2018-07-26
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/238141/chapter-356-challenge"
+royalRoadId: "238141"
+---
+
+“Okay, third time’s the charm.”
+
+Stepping off the boat and into the crystal clear bay, I surface to find two dark, inhuman eyes peeking out from the water and watching my every move. Sir Inky’s veiny, bulbous head bobs up and down as he lazily flaps his tentacles to keep afloat, unwilling to leave my side even though he’s free to swim wherever he pleases. “Look around little buddy.” His eyes blink, but otherwise stay locked on me, attempting to decipher the meaning behind my words and gestures yet failing horribly. “It’s the bay. We picked you up around here, remember?” He better remember, it’s only been three days and we kept him out of the bay for a day and a half at most. “I’m here to send you off.” Again. “Don’t worry, nothing bad will happen. See?”
+
+Since hand gestures aren’t working I maneuver myself between Sir Inky and Ping-Ping so he can see her swimming about while playing with the quins. “Ping-Ping won’t try to eat you again. Promise.” Not gonna lie, it was a real close call. “The quins won’t either.” They’re great at differentiating between friends and food, else Mama Bun and her babies wouldn’t have survived this long. Or me for that matter. When I think back on all the stupid things I did around them, like snatching random pups to cuddle or scaring Pafu awake for laughs, it’s a miracle Zabu’s the only quin who’s tried to kill me. “There’s nothing stopping you from leaving.” This time. “You’re free. It’s time to go home, Inky. Go. home.”
+
+Tired of staying afloat, Sir Inky extends a tentacle and wraps himself around my wrist. Blowing a stream of bubbles, his eyes blink sleepily as he settles into place, apparently unused to waking so early. With a full body shudder, Sir Inky’s colour ripples and shifts from a mottled brown to match the colour of my skin, making him look like a peachy white tumour on my forearm.
+
+...You son of a bitch octopus, I told you to go home. Why don’t you go home? The bay is your home. What are you too good for your home? Answer me!
+
+After much pleading and cajoling, I give up on getting rid of Inky and swim back to the boat to speak with Taduk. “This isn’t working. We’ve tried a dozen places in the afternoon, evening, and now morning, but Sir Inky clearly doesn’t want to leave.”
+
+“Hmm...” Looking ridiculous with a bowl on his head, Taduk rests his chin on one hand and mumbles into his fingers. “He refuses to leave and we cannot afford to scare him off, this is difficult, truly difficult...
+
+With Taduk lost in thought, Guard Leader offers her unsolicited opinion. “And why would he leave? The octopus knows you mean him no harm and is clever enough to take advantage. By your side, he is fed and sated, encountering neither trial nor tribulation.” Sated. I bet she chose that word to needle me. What a bitch. “A creature which once tread upon the Dao of Divinity has completely and utterly been ruined by your goodwill.”
+
+The last bit is spoken with scorn and contempt, as if collecting poor, defenceless baby floofs is a bad thing. Sure, my wildcat kittens probably wouldn’t survive a day in the wild, and my bears even less, and yea, maybe Roc’s too fat to fly now and the rest of the flock might soon follow, and maybe I abducted Mama Bun, her babies, and probably Blackjack by proxy too, but... Uh...
+
+Wait... What was the point I was trying to make?
+
+Oh right. This was an accident, I didn’t want Sir Inks-a-lot as a pet. He’s slimy, gross, and tried to rape my face, all major no-no’s. I’d be over the moon if Sir Inky led us back to his home, where we would hopefully find Blobby and the answers to all of Taduk’s questions, then forever part ways with the immoral, degenerate octopus and forget he ever existed.
+
+Ignoring Guard Leader, I tread water and wait for my teacher to finish his deliberations. Eventually, boredom takes over and I turn to watch Ping-Ping zip through the bay in sheer delight. It’s easy to see how much she loves being out here, gliding through the waters without a care in the world while using her Chi to create currents which send quins tumbling in her wake. There’s something incredible about seeing a powerful, potentially dangerous apex predator playing around like a child, watching the results of her work with as close to a smile as her beaks allows. Guard Leader seems to think trials and tribulations are all there is to life, but even giant turtles and voracious roosequins deserve to blow off steam from time to time.
+
+I wish I could forget all my troubles and be as happy as they are.
+
+With nothing else to do but wait, I leave off my turtle/quin watching to parse through recent revelations. It’s been a bit over two days since I discovered Baledagh and I are one and the same, and I’m still sifting through the wreckage. Yesterday, after the Legate’s announcement regarding contests and challenges, everyone was too busy running around to register for different events, which left me plenty of alone time to think things through. Problem is, I was never great at sorting out my thoughts without getting sidetracked, since I tend to ramble when left alone. It’s probably why (among other reasons) I created Baledagh, so I’d have someone to confide in and keep me focused on the issue at hand. Plus, by sorting my problems out into two separate personalities, it kept me from getting overwhelmed by everything at once and even helped me see my issues objectively from a different viewpoint. When you get right down to it, creating an alter-ego was rather clever of me.
+
+Says the self-deluding, bat-shit crazy schizophrenic.
+
+After much pondering, more procrastinating, a long nap, and two good nights of sleep, I’ve come to several conclusions. Baledagh, though a figment of my imagination, was real to me, so it’s okay to mourn him. It hurts knowing I’ll never confide in my little brother again. It helped having someone to unload my problems on. Sure, in the end, it was me talking to me about my own problems, but there’s something cathartic about having someone to trust and talk through my issues with. Baledagh was my little armchair psychiatrist, and while he rarely offered an opinion, I trusted his instincts and went with the flow, something I seem utterly incapable of doing on my own.
+
+Because when it comes right down to it, I’m a pessimistic cynic. I mean, I can barely bring myself to believe magic is real.
+
+It’s ridiculous. I’ve seen people perform super human feats using Chi, felt the Energy of the Heaven’s moving through me, done things which seem to defy the laws of physics and common sense, and yet I still have trouble believing certain things are possible. Take, for example, Enlightenment, Insight, and Awakenings, three different terms for three similar processes. Am I really supposed to believe there’s an all-powerful creator sitting around who uploads information directly into my brain? Why? For shits and giggles? Did the Mother fuck up with her magic system and couldn’t offer a coherent explanation, so she’s forced to manually hotfix every Martial Warrior who needs it? It sounds so far-fetched that even after experiencing it firsthand and seeing the effects in others, I still can’t accept it for what it is.
+
+I want to believe, but I can’t. There’s always this tiny voice in my head telling me there must be some trick, that there is no all-powerful, omnipotent being watching us from above and magic is merely science which has yet to be explained. Problem is, I’m not smart enough to figure things out, but I’m arrogant enough to believe that if it can’t be explained, then it must not be real.
+
+Sometimes, in rare instances, my brain steps aside and lets Chi do its thing. Like Honing. Sword is sharp, sword must cut, so I mentally shrug regarding the specifics and Honing happens. Same with Guiding. I pick a target, throw the sword, and I hit the target. Nothing particularly magical about either one, so long as I don’t think too hard about it. The moment I do, it all falls apart and I’d be lucky to cut through leather or hit the broad side of a barn. Baledagh was how I got out of my head and rationalized all this mystic voodoo, because so long as I was an ethereal, spectral squatter, then I didn’t have to follow the rules of physics. I’m magic, so I can do magic. Simple. Easy. Effective.
+
+Now that he’s gone, I’m back to being a transmigrated or reincarnated pleb who can barely hold Balance right now, much less Hone. While duelling my peers on stage, I had no time to think about anything besides fighting and everything fell into place. Against Ryo Seoyoon, I was incredible, Reinforcing, Lightening, Amplifying, and more, my years of training taking over and allowing me to disarm her within a dozen exchanges.
+
+Against Dienne, I was a train wreck.
+
+So wrapped up in analyzing Dastan’s incredible performance and wondering about Yan and Wu Gam’s relationship, I completely lost focus in my own match. Add in my dismissive attitude towards Dienne and I had a recipe for disaster. If he hadn’t badmouthed Mila’s craftsmanship, I wouldn’t have lost my temper and done something I’d already dismissed as too risky to try. If I’d kept a cool head, ignored my instincts, and played it safe, I 100% believe I would’ve lost the match.
+
+Thankfully, by the time my match with Wu Gam rolled around, I had my head on right again, but it shows how inconsistent I can be. Essentially, I am my own worst enemy. Rational, scientific me is too stupid to figure things out but refuses to believe otherwise, while ferocious, untamed me is not only reckless and foolhardy, he’s also vulnerable to Spectres and Defilement. What I need to do is find a middle ground between the two, a version of me who is both level-headed, yet fierce and unrestrained.
+
+Essentially, I need to strike a Balance between my two extreme mindsets. Who knew mysticism could be so grounded in reality?
+
+At least I think that’s what I need to do. Maybe. I dunno. Shit’s complicated, and as I’ve already established, I am not a smart man. I need someone to talk to, but I can’t bring myself to reveal how fucked up I really am. The more my family loves me, the more terrified I am of losing them. Will they reject me? I don’t think so, but I’d rather swim through an ocean of jagged glass and a sea of blazing fire than risk it.
+
+I blame the monk. Forcing me to confront my deep-seated issues then ghosting me the next day, how irresponsible can he be? If he had important business to take care of, then why didn’t he keep his mouth shut and wait until he had a few days free to help me work things out? Or maybe my problems aren’t his concern. Maybe he decided I’m not worthy of the Brotherhood so he went back to report his findings. Well good. I never asked to join anyways. I hope he chokes on his vegetarian meals in his isolated, sausage-fest monastery.
+
+Whoa, dial it down there buddy. You have a lot on your plate right now. Grief, anger, self-loathing, it’s all very overwhelming. Maybe it’s too early to process all this, so how’s about a nice, long nap?
+
+...
+
+While we’re at it, you should stop giving yourself advice in the second person. You’re not fooling anyone, it’s just a different way of talking to yourself.
+
+Stifling a tired yawn, I tentatively offer a solution which could both solve our Inky problem and have everyone back on shore as soon as possible. “Teacher, how about we give Sir Inky his rock back? If he has that, maybe he’ll go do... whatever it is he does.”
+
+Snatching the bowl off his head, Taduk cradles it in his arms and backs away, somehow without spilling a single drop. “No,” he replies, his mouth set in a childish pout. “It’s mine and I’m not giving it back. You don’t understand what this stone represents, Rain my boy. An endless supply of Spiritual Algae is only a small part of it. If we were to uncover the mechanisms behind how it propagates, it would rank amongst the greatest discoveries since the Empire’s founding, if not longer. Even if we fail to create other, self-propagating Spiritual Plants, just knowing such a thing is possible opens up a myriad of prospects and new avenues of thought.”
+
+“Mm... I understand, but we don’t need the rock to prove it exists.” Seeing my teacher’s confusion, I explain, “If you scrape most of the Spiritual Algae off and leave a little for Sir Inky, then worst case scenario is he swims off with the rock and never comes back. You’ll still have proof of self-propagating Spiritual Algae. If we’re lucky, it might even keep replicating when placed on a different rock.” Huh... Is the rock the reason the Spiritual Algae can replicate? Maybe it’s a Heavenly Kidney Stone or something...
+
+Thankfully, I’m smart enough to pass on the question through Sending, which saves me from embarrassment when Taduk informs me the rock is just a rock, and not Blobby’s cousin Rocky. Or Stony. Or Pebbles, Graveller, Cobble, Onyx, Crystal, Craig... Man, there are a lot of good names for a rock elemental. Just my luck, getting stuck with water...
+
+“Hmm... I need time to decide.” Decisively indecisive, Taduk calls it a day and we head back to shore, where an early-morning nap awaits. I don’t know what it is lately. When I first arrived in this world, I rarely slept more than four or five hours a day, and if I did, it was usually because I was injured or overworked. The past forty eight hours haven’t been all that strenuous, and while I’m not exactly exhausted, I feel sleepy and lethargic all the time. It’s not all too surprising if you assume I’ve been sleep deprived for all these years, but I doubt that’s the case. It could also be mental fatigue, my brain overworked in recent days because of everything going on, or maybe it’s a defence mechanism to keep me from breaking down into a quivering pile of tears and snot once I realize how fucked up my life is. Who knows.
+
+Whatever it is, napping isn’t the worst thing in the world. The whole world’s going to hell in a hand basket, so I might as well sleep through as much of it as I can.
+
+“I don’t get you boy, always frowning and fretting.”
+
+Guan Suo’s random statement jolts me out of my fugue and I turn to the grumpiest Red-Panda in existence. Noticing our surroundings, I belatedly realize we made it back to camp without me noticing, with Taduk and Guard Leader nowhere in sight. Already back in her groove, Ping-Ping’s head lays upon her dirt pillow with my hand on her beak, apparently looking melancholy enough for Guan Suo to interject. Puffing away at his pipe, he pulls it out of his mouth and points at Ping-Ping while smoke leaks out of his nose and mouth. “Don’t see why she’s so enamoured with a sad sack like yourself. Every time I look at you, you’re sighing about one thing or another. Really puts a damper on my mood.”
+
+“Well sorry for troubling you.”
+
+“Oh it’s no trouble.” Laying in the grass with one hand behind his head, he rests one foot against his knee and resumes smoking. “Found it strange is all. Legate crowns you number one talent in the Empire and you’re acting like the world’s coming to an end.”
+
+“Isn’t it?”
+
+Guan Suo lifts his head ever so slightly to shoot me a quizzical look, and I shrug in response. “I came here to defend the Empire from the Defiled, but so far, all we’ve done is hand out gifts and fight amongst ourselves. Any day now, an army could come marching in on the horizon, and we’ve done shit all to prepare, still fighting amongst ourselves. I’ve almost died twice now, yet haven’t seen a single Defiled, but I’m expected to fight alongside these people? Now, I find out there’s two weeks of contests and challenges scheduled, an entire twenty days of games and nonsense, so forgive me for preemptively mourning the loss of Central.”
+
+“Huh.” Resting his head once more, Guan Suo says, “Never pegged you for a quitter.”
+
+“I’m not, but everyone seems perfectly content to attend banquets and perform dances while the world burns to ashes around them, so why should I care about Central’s fate when no one else does?”
+
+“Idiot.” Guan Suo’s succinct statement is followed by a long draw on his pipe. “You ever stop to think why the Legate arranged all this?”
+
+No, not really. “Er... To raise morale?”
+
+“Got it in one. Smarter than you look, boy.”
+
+I can’t decide if that’s a compliment or an insult. “...Still, as vital as morale is, there are more important things to focus on, like troop deployments, supply lines, c-”
+
+“Wrong.” A ring of smoke billows out of the grass and into the air. “Guess you’re not so smart after all. You’re too focused on the Defiled, when instead you should focus more on the Enemy.”
+
+What? “Aren’t they the same thing.”
+
+“The Defiled are not the Enemy, merely tools turned to the Enemy’s cause. The Demons are our Enemy, and their favoured weapons are fear and despair coupled with deceit and false hope.” There’s no hatred or emotion in his words, uttered with the passion one would give a grocery list or instructional pamphlet. “I’ve been around long enough to know, every time the Enemy scores a major victory, the Empire sees large numbers of commoners turned Defiled. They lose faith in their stalwart defenders and give in to the Enemy, happens every time there’s an incursion or raiding party. This time, we lost an entire province, hence the need for all this spectacle. Guarantee every city across the Empire is doing the same, sparing no expense to keep people happy and distracted with ‘games and nonsense’.”
+
+Huh. Makes sense. The preparations gives the commoners something to focus on besides their imminent doom, and showing off our greatest champions gives them something to believe in. It’s a literal battle between hope and despair. If left to their own devices, how many commoners would turn Defiled? Even one percent of the population would match the Empire’s total Martial Warriors, which means keeping morale high isn’t just vital, it’s virtually a requirement for victory. There’s no point laying down lines of defence if the Enemy takes root in the hearts of the people we’re supposed to defend.
+
+Okay... maybe this world isn’t as stupid as I once thought.
+
+“Besides,” Guan Suo continues, probably to keep my spirits up, “Just because you weren’t asked to lend a hand doesn’t mean no one’s working on defending the province proper. You seen the little scamp around lately, or her pup you call a Mentor? No, because they’re busy doing their part, so quit your moping before I give you something to cry about, got it?”
+
+Mother in Heaven... how did I not see this before? The similarities don’t end at the red-panda ears and tail, no it goes so much deeper. So cold and hostile on the surface, yet possessing a soft, sweet, gooey centre, like (his presumably half-sister) Mila, grumpy old Guan Suo is a grade A, certified tsundere.
+
+So adorable. I really wish I caught a red-panda now...
+
+Maybe on the way home, after we defeat the Defiled and send the Enemy packing. For now, I’ll have to settle with cuddling quin pups.
+
+Now, where’s Zabu hiding his adorable babies? I demand a snuggling!
+
+Chapter Meme

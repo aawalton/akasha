@@ -1,0 +1,155 @@
+---
+id: 15266548-883e-5a99-a051-94992b47d727
+page-type-slug: story-chapter-royal-road
+title: "288. The Chimera"
+slug: 0044-288-the-chimera
+partOf: speedrunning-the-multiverse-complete
+position: 44
+ownLength: 1552
+unit: words
+ownProgress: 1552
+publishedAt: 2023-08-19
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1315204/288-the-chimera"
+royalRoadId: "1315204"
+markedReadAt: "2026-06-29T22:43:11.170Z"
+---
+
+“Find him,” breathed Jez. “And destroy him. Go!”
+
+The Thunderfire Chimera raised an arm in mechanical salute. Then it rumbled into the sky, trailing fire and crackling lightning, and was gone through a tear in spacetime.
+
+Leaving Jez to stand alone atop his parapet, staring silent at the somber skies of Hell. Starless, sunless, fixed in a purple purgatory.
+
+Seven mutants he had sent. Seven, to cover his Infinity.
+
+It would not be enough.
+
+Every few hours a star in his constellation of realms went out, courtesy of Dorian. Fate’s forces, seizing the moment, were driving stiff counteroffensives across dozens of realms. And Salieris put up a defense Jez might’ve found brave, had he not been the one struggling to break it.
+
+At times like this Jez wished he were not alone.
+
+When he’d first uncovered Fate’s scheme he’d been apoplectic. He had drawn his sword in rage, an act he now regretted; there were sections of the Labyrinth that would be scarred for eternity from his outburst.
+
+But now the anger had emptied him, like a fire burns through the trunk of a tree, leaving only a hollow, brittle shell.
+
+Standing up here, atop it all, gazing at the tiny dots of demons struggling across the Hellish plains, he felt as lonely as he ever had.
+
+It was times like these the doubts swarmed him. Nowadays they never truly went away; even at his most confident they were like ghosts, pressing at the back of his mind, awaiting their moment. A moment like now. He rattled in a breath.
+
+They were justified; that was what gave them power. Sometimes the task felt so enormous it felt laughably arrogant to think he could accomplish it. How could the vision of one man transform the Multiverse—undo millennia of injustice, of greed, overcome the very natures of living beings?
+
+Why did no one understand?
+
+“I just… wanted to help,” he said, soft as the night air.
+
+His voice quavered, and he let it quaver, since he was alone. Up here he got some respite from the jackals he called his generals, the horrors he called his soldiers. There was a time when his public face and his private one were one and the same. No more. He had exposed his soft underbelly to men he felt were his friends, and Salieris had knifed him for it.
+
+Even here he could not escape the world long. Just now, another light went out in him. A Middle Realm, one of his favorites—the Realm of Pure Jade. It felt like he’d been punched in the gut.
+
+Enough. He had no time for feeling. His enemies moved fast, moved ruthlessly; he had to match them in kind. And more.
+
+He descended into the bowels of the tower, where the Master Artificer Rithius was bent over his latest and greatest creation, a massive figure covered by a tarp—yet even the fabric could not obscure the horror if it. Jez had seen it in an early stage of its becoming. The uneven lumps, the suggestions of grotesque limbs and faces, failed to match the reality of it.
+
+“Three Godkings, melded in one,” said Rithius. His voice was hoarse, fragile. “It is done.”
+
+By now, there was nothing left of the cheery, curious soul he’d once been. Rithius moved like a machine, head bent, eyes dull.
+
+Jez pulled back the tarp and inspected the chimera, the body he would soon inhabit. Even prone and lifeless it was a wonderful and terrible sight.
+
+“You have done well.”
+
+Rithius looked neither pleased nor displeased at that. He closed his eyes. They were darkly ringed, as if bruised; they stood out stark in his pallid face. He could’ve been a corpse.
+
+“Will you release me?” he whispered.
+
+“Soon,” said Jez. “When the war is done.”
+
+Rithius merely nodded, not opening his eyes. He felt he should say something; he reached out a hand.
+
+“I understand—”
+
+“Please,” choked Rithius. “Leave me.”
+
+Jez did.
+
+He took the body with him.
+
+***
+
+Twilight Realm
+
+Salieris’s Castle
+
+The siege had gone on for moons. It would likely go on for many more.
+
+Salieris stood atop the battlements and watched wave after golden wave break upon his wards. Like waves of the ocean, crashing upon the rocks, receding and rushing forth again. And equally futile.
+
+Obviously, this was not how he anticipated spending the year.
+
+He’d anticipated none of this at the start. When a heartfelt, kind, incredibly powerful swordsman named Jez had come to him, the jaded old Salieris, and spoken of a remade world—a world without hatred, nor greed—he had made of Salieris a believer. At first. Jez had had this magic about him then, like he was untouchable, divine, Fated. An inexplicable spark of kindness in a sea of evil, a spark which refused to be extinguished.
+
+He had made an offer to Salieris. For he saw past Salieris’s image, the exterior everyone saw—the cruel, wicked, domineering Emperor of the Jiangshi. He saw a weary old man sitting atop a throne of skulls, and old man tired of killing, but who did not know how to live any other way.
+
+He moved Salieris, then, with his words, with his belief—so genuine, so fervent. He gave Salieris hope.
+
+No-one wishes for the Multiverse to be as it is. No-one wishes for the living creatures of the Multiverse to ravage one another, just as no-one wishes to feel hungry. But such is life. And once it became clear Jez was not the one—that his dream was fraying at the edges, that his aura of invincibility was but an illusion, a delusion—it became clear what had to be done.
+
+Beside him, a jiangshi cleared his throat. “Another Middle Realm has fallen, my Lord. Fate’s counterattack proceeds smoothly.”
+
+“Thank you, Artez,” muttered Salieris. “At this rate, we may be freed sooner than I had anticipated. Perhaps in a moon’s time our Realm shall be ours once more.”
+
+His general did not share his optimism. “Are you certain we shall last until then? Our reserves run worryingly low…”
+
+“Perhaps.” Salieris shrugged. “Perhaps not.”
+
+“Perhaps not?”
+
+“It matters not. If we truly are on the verge of defeat, I shall surrender.”
+
+“…Forgive me, but I do not believe that is wise.”
+
+“I have known the child for years. I know who he is—what he is,” said Salieris. “He is, underneath it all—however much he wishes to deny it—that rarest of species in this Multiverse, a good, moral creature. He would not harm us then.”
+
+“You have committed grand treason against him!”
+
+“And I shall ask for forgiveness, and mercy, and he shall grant them to me. It is his nature.” Salieris spoke it with more confidence than he felt. He might have known Jez’s mind moons ago, but he could hardly be sure now. Of late the child’s mind had undergone some dark metamorphosis… still, it was important to keep up the appearance of total confidence. Let doubt show and it would poison the minds of your men; doubt should be his to bear alone. Such was the burden of the emperor.
+
+“Peace, Artez. It shall not come to that…ah.” Salieris smiled without humor. “How apt. It is as though we have summoned him.”
+
+A familiar aura stronger than all the rest, like a bonfire among lit matches.
+
+“Do you think he has come to bargain?”
+
+“I think not. Last we spoke he made it quite clear he would see us finished.”
+
+“Perhaps the counterattack has softened his stance. Perhaps he believes he must sue for peace.”
+
+“Perhaps.” Though it sounded like wishful thinking to Salieris.
+
+Jez’s aura drew nearer—at first a speck, then resolving into a lumped shape in the distant darkness.
+
+“What is that?”
+
+“One of his creations, I believe,” said Salieris, keeping his voice cool and calm, almost bored, though he felt a twinge of fear. “A chimera, they are calling it. No matter. They have failed to breach our defenses with several Godkings’ worth of Techniques. This shall be no different.”
+
+Strangely Jez’s army stopped rushing; it fell back. The chimera came alone.
+
+They saw it now, not three hundred strides off. A creature with what seemed a lion’s body and the head of a man, pupils sightless and dull, skin pale as parched bone. Its tail was a thrashing serpent, fangs snapping at nothing, tipped sickly green. It was astonishing the thing could move at all. It was astonishing the thing was alive.
+
+And the power rolling off it…
+
+“Heavens,” gasped Artez.
+
+“Salieris…” It spoke softly, yet its voice carried far—it seeped beneath Salieris’s skin, trickle into his skull, where it echoed again, and again, and again.
+
+Its stomach began to glow with gold light, brightening light, light so intense it made the beast’s skin and muscles and organs translucent. The aura was like nothing Salieris had ever felt. It should not have been possible to make him, a Godking, feel so small, so insignificant—and yet—
+
+“We surrender!” he screamed, and he couldn’t keep the panic from his voice. “We yield—”
+
+“DIE!”
+
+Its face contorted in an expression of manic glee. Glee in the bared teeth, the wild eyes, the snarling nose.
+
+It opened its mouth, and a new sun rose from its throat and spilled into the world.
+
+They did not even have time to scream.

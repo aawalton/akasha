@@ -1,0 +1,181 @@
+---
+id: e6d96f78-3b82-5dc7-a4a8-6ca46b9d4169
+page-type-slug: story-chapter-royal-road
+title: "[Book 2] Chapter 1: Outside the World Dungeon"
+slug: 0004-book-2-chapter-1-outside-the-world-dungeon
+partOf: shapeshifter-a-non-human-litrpg
+position: 4
+ownLength: 2085
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3169084/book-2-chapter-1-outside-the-world-dungeon"
+royalRoadId: "3169084"
+---
+
+The midnight train into Tokyo was busy, as always. But the drunken and exhausted commuters warily gave Xen and his group space near the doors.
+
+After leaving the World Dungeon, the journey down the hill to the nearest town had given Randy and the others time to explain human society to Xen. To Xen, it was a complex mess of unspoken and written laws, which seemed mostly guided by one's moral compass—a thing Xen lacked. Once the lecture had finally concluded, Randy had taken him to a train station, bought him a paper ticket, and led him onto a train.
+
+Xen didn't like the train, not one bit. It was cramped, and worst of all, he was surrounded by humans. They were all casting glances toward him from behind newspapers or phones, or were outright glaring at him.
+
+"Why are the humans staring at me?" Xen grumbled to Randy as the train gently swayed side to side. Despite how many people were packed into the metal carriage, it was deathly silent, except for the rhythmic beat of the train moving forward.
+
+Was it something on his masked face? Had they seen through his impeccable disguise? He needed to know.
+
+Randy scowled at him and hissed under his breath, "First of all, don't refer to people as humans from now on. Secondly, that should be rather obvious. While some Hunters do take public transport, all four of us look like we just walked out of a murder scene."
+
+Xen looked down at his bloodstained, ripped suit. Then he glanced at Randy, Vesper, and Valoria. All three looked exhausted and dirty, with similarly bloodstained, torn clothes. He then surveyed the carriage, and even he could see the difference. The other humans—ahem, people—were all immaculately dressed in clean clothes.
+
+"Son of a bitch," Randy suddenly cursed under his breath, drawing the group's attention. He was frowning at something on his phone screen.
+
+"What is it?" Xen asked, leaning over to look while keeping one hand gripping the dangling bright yellow handle. What he saw was the faces of two humans he knew quite well—the warrior and priestess from the Stormbringers guild, whom he had murdered an hour ago before escaping the dungeon. Randy then scrolled down, and it showed the two bodies piled up in a dark room stained with blood. The woman was decapitated.
+
+Below, it said in bold letters:
+
+Two Stormbringer Guild Hunters MURDERED on the fifth floor of the World Dungeon. The Guild Association has locked down the floor and is offering a bounty for any information. The Ether Technocrats and the Stormbringers Guild are cooperating with the investigation...
+
+Vesper peeked at the phone and exhaled sharply. "Shit, that's not good."
+
+"They will soon be onto us," Randy said seriously, pocketing his phone and looking around with narrowed eyes.
+
+"Really? It didn't say anything about us, though," Valoria reasoned. "We didn't leave anything to connect us to the crime."
+
+"Are you sure about that?" Randy said, raising a brow. "What about your blood splattered all over a nearby building from when the Executioner hurled you into a wall?"
+
+Valoria paled.
+
+"Not only that," Randy continued with a grim expression, "they locked the floor down, meaning anyone going in or out will be accounted for. The Ether Technocrats saw us, and while they didn't charge us a tax, they will have noted down our presence. When we are the only ones unaccounted for, questions will be raised."
+
+A silence fell over the group.
+
+"We might be fine," Randy whispered. "The blood can be explained. But Gerald—never mind, let's not speak anymore here. We need a secluded space to discuss our next moves."
+
+"We can't return to the dorms looking like this without being questioned by the doorkeeper, let alone bring Gerald with us," Vesper pointed out. "What about your grandma's place, Randy?"
+
+Randy bit his lip in thought for a moment but ultimately shook his head. "We can't. She's in town this week, and I can't show up looking like this—I'll give her a heart attack."
+
+"The cat," Valoria whispered while looking at Xen.
+
+"What cat?" Randy asked, glancing between them.
+
+"Don't you remember, after Ghostwire was..." she paused and made a small motion near her neck, "...dealt with in the cave? We spoke about how Gerald isn't his real name, and how he took it from a mage that he met in the dungeon. That mage entrusted Gerald to look after his cat, so he must have an empty apartment out there somewhere."
+
+All three of them turned to Xen.
+
+"Oh yeah," Xen nodded. "The cat's name is Charlie."
+
+"No, forget about the cat for now. What did the mage say about where Charlie is?" Randy asked as the train began to slow.
+
+"Erm," Xen frowned as he tried to remember, "I think it was East Block housing estate? Number... eighty-something."
+
+Randy quickly pulled out his phone, opened another screen, and typed something in. He then glanced up at the map as the train came to a stop and the doors opened. "We get off here," he said as people moved around them to escape the confines of the train. "Come on, follow me."
+
+Xen allowed Randy to lead him through the rush of people while he took in the sights around him. As they navigated the station, it vaguely reminded him of the World Dungeon with its winding underground passages. But that's about where the comparisons ended. There were no monsters—except for him—just hundreds of humans rushing past one another. Bright neon signs screamed for his attention, but the smell coming from what he assumed were restaurants didn't entice him. Instead, it was all the blissfully unaware humans rubbing shoulders with him that he wanted to devour.
+
+"Appraisal," he whispered, and his eyes went golden under his mask. He scanned the crowd.
+
+[Human (Mage: Level 1)]
+
+[Human (Berserker: Level 1)]
+
+[Human (Guardian: Level 1)]
+
+[Human (Assassin: Level 1)]
+
+[Human (Elementalist: Level 1)]
+
+[Human (Beast Tamer: Level 1)]
+
+[Elf (Alchemist: Level 9)]
+
+[Human (Trapmaster: Level 1)]
+
+[Dwarf (Runesmith: Level 1)]
+
+[Human (Monk: Level 1)]
+
+[Human (Duelist: Level 1)]
+
+[Human (Lancer: Level 1)]
+
+His attention honed in on the Alchemist, who was level nine.
+
+It wasn't hard to locate her, as she stood out like a sore thumb. Compared to the sea of humans wearing suits similar to his, just not as bloodstained, the Alchemist was an elven woman wearing a patchy robe and a wide-brimmed hat that had seen better days. She was manning a stall near the exit, with a few potions laid out for sale. Catching Xen's gaze, the Alchemist glanced at him but was quickly distracted by a customer.
+
+Vesper nudged him. "Interested in that potion stall, Gerald? She's selling 'lifestyle' potions."
+
+"Why did you say lifestyle like that?" Xen asked while canceling out the skill. Despite everyone here being level one, scanning so many gave him a headache. None of the classes looked that interesting, but he found it weird that everyone was level one.
+
+Vesper smirked. "Lifestyle potions are exactly that—potions that assist humans in their everyday lives. Some will let you have sex all night long, others will help you focus for hours on end. I did one once that got me high as a kite—"
+
+"Focus," Randy said, cutting Vesper off. He was tense. "We need to get out of here. If you didn't notice, we kinda stick out right now."
+
+Vesper rolled his eyes. "Then lead us quicker! You're the one with the map."
+
+Xen was still curious about the Alchemist, so he asked, "Everyone around here is level one, except her. Why is that?"
+
+Randy and Vesper were busy exchanging death stares, so Valoria was the one to helpfully explain.
+
+"You can get experience in production-style classes without delving into the World Dungeon and fighting monsters. She likely reached level nine by running that stand, though she won't make much with such low-level potions. Mass-produced stuff you can buy for cheaper in the convenience store can do the same things."
+
+"Why sell lifestyle potions then?" Xen wondered.
+
+Vesper snorted. "What else is she going to sell? Mana potions? To Salarymen who haven't used a spell in their lives? Not a chance, and I know your next question: why doesn't she sell potions to Hunters? Gotta be higher level to make something worth using for a Hunter, and she likely doesn't want to risk delving into the dungeon to achieve that."
+
+"Why—"
+
+"Kids at home? Maybe she enjoys living and isn't suicidal or insane," Vesper shrugged. "Many good reasons. Only the truly desperate or psychopathic people like us dare to go down there."
+
+Xen tilted his head. "You guys seem quite normal to me."
+
+Vesper scoffed. "Normal? I watched you gnaw on a woman's head earlier, the sight of which would send any one of these normal people into a mental break—"
+
+"Stop. Talking. Please." Randy snapped, sending them all into silence. "We will take exit four, walk for five minutes, and then we will be there. Not another word until then."
+
+True to leader Randy's demands, the group remained silent the rest of the way. Xen didn't mind, as everything was all so new to him. Each glowing sign, person, flowerbed, and house fascinated him. Anyone walking along the same road as them let out a gasp and swiftly swapped to the other side, which Xen found odd.
+
+"Here we are," Randy said, pushing open a metal gate that screeched. "East Block housing estate; it seems like a good place for oddballs to hide. What number was it again?"
+
+"Eighty-something," Xen replied.
+
+"Do you have a key?"
+
+Xen shook his head. "Dropped it somewhere in the dungeon, but I do have his wallet and hunting badge. What, don't look at me like that? I didn't realize it was so important back then, and I was constantly fighting for my life."
+
+Vesper looked annoyed, Valoria was tired, and Randy was deep in thought.
+
+"I have an idea," Randy said after a moment. "It's late at night, so everyone should be home," he cast a glance at the looming building. A few of the windows were illuminated. "We can go along the eighty row until we find one that's unoccupied, and it's a bonus if there's a cat inside."
+
+"Ah, what the hell, I've heard worse ideas," Vesper said, taking the lead. "Eighty, right? This way."
+
+"Keep your voice down."
+
+"That would just make us look more suspicious," Vesper snapped back.
+
+"Dude, people are sleeping. It's late, have some respect," Randy calmly replied.
+
+"Ah, you're right," Vesper sighed and rubbed the back of his neck. "It's been a long day, you know?"
+
+Randy simply nodded and took the lead. A few flickering lights illuminated the path through the housing estate, but Xen wasn't bothered. He had night vision by using Geomantic Perception, though his skill felt far weaker than usual.
+
+"Is it normal to be weakened on the surface?" he asked the group.
+
+"The mana density up here is many times weaker than in the dungeon," Valoria said as the two guys were leading the way up ahead. "You might find some skills harder to use because of that."
+
+"Oh, that makes sense," Xen nodded. His Geomantic Perception skill relied on following the flow of mana, so if there was less mana, it would be harder to use.
+
+Climbing up a rusty staircase and through another screeching gate, they snuck along a walkway.
+
+"Right, which one do you think it is?" Randy asked as he peered through a window, but a curtain blocked any peeking.
+
+"Eighty-nine," Xen said after searching each room with Geomantic Perception, "it's the only one empty and has a cat."
+
+"That was fast," Randy mused and led the way. "Eight-eight, eighty-nine, here we are, the home of the great mage," he gestured to the dreary metal door.
+
+"But we don't have a key..." Valoria said.
+
+"Who needs a key when we have Gerald? If you would do the honors?"
+
+Xen wasn't sure what he wanted him to do, but he walked up to the door. Trying the doorknob, he confirmed it was locked. He then debated punching the door, but that seemed unwise. Ah, I got an idea. He reached into the letterbox and turned his fingers into slimy tendrils. The moment he did so, the cat inside began to hiss. Ignoring the creature, he felt around until he found the doorknob on the other side and pulled it down.
+
+The door clicked open.

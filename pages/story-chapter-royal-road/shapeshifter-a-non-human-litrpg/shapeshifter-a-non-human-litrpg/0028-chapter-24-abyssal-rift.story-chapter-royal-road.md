@@ -1,0 +1,167 @@
+---
+id: e3c2cff5-41d9-55ad-8f5f-cda5397db557
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Abyssal Rift"
+slug: 0028-chapter-24-abyssal-rift
+partOf: shapeshifter-a-non-human-litrpg
+position: 28
+ownLength: 1720
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3556464/chapter-24-abyssal-rift"
+royalRoadId: "3556464"
+---
+
+As Alex and his group neared the top floor, a terrible smell foreshadowed the scene they would find. Finally reaching the top, Alex's nose wrinkled in disgust at the rancid smell of decaying flesh that radiated from the room.
+
+Turning on his flashlight, as Yuki wasn't there to conjure Orbs of Light, he stepped into the room and crouched down beside the nearest corpse. He scanned the body with his flashlight, revealing in detail what his nose had already warned him about. He had seen many corpses in his career as a Hunter working for the Guild Association, but it didn't make stomaching the sight of them any easier, especially not ones in this state.
+
+"It seems they were killed in the same way as the others," Alex muttered, getting past the gruesomeness and determining how they had died: blunt trauma to the sides and from below.
+
+"But the others were fresh." Kenji's voice came from deeper in the room. "These are old."
+
+"Which means whatever did this hung around long enough to wipe out the second group too."
+
+"Why isn't the dungeon absorbing them?" Hina asked. She was hanging near the doorway with her arms crossed beneath her chest and a dagger at the ready.
+
+Alex swept the beam across the corners, then the floor. "Good question. Daisuke—do the obsidian towers not count as part of the dungeon's walls?"
+
+"They do," Daisuke said, a hint of worry in his tone.
+
+"Then why aren't these being absorbed?"
+
+Daisuke didn't reply at first. He was tracing a mana-bright finger along the wall, and when he finally turned, he looked horrified. "Because the dungeon isn't hungry anymore."
+
+Alex frowned. "I'm not following. Isn't that a good thing?"
+
+Daisuke adamantly shook his head. "No. The dungeon not absorbing corpses is rare but has been documented to occur before a massive dungeon rush. The dungeon doesn't absorb corpses because the floor is already brimming with so much mana that it can't differentiate the corpses to absorb. This is bad, Alex. Very bad. We should leave."
+
+"Okay, calm down," Alex said, rising to his feet and leaning against his tower shield. "While there were a lot of monsters on the way here, we handled them, did we not? Let's quickly get what we can find from these corpses and get out of here. Is that acceptable?"
+
+Daisuke took one hard look at a nearby corpse and eventually nodded. "It should be. Especially with Yuki having our back."
+
+"Speaking of," Hina said from the doorway, "what was that about?"
+
+Alex didn't need to confirm what she was asking about. "Yuki asked to be left alone for some time to deal with something," Alex admitted. "Did you expect me to say no?"
+
+Hina snorted. "He can do as he pleases, so long as he comes back to help us leave this Acid Slime-infested floor, that is."
+
+"He will come back, don't worry," Alex said, coughing as he was still not over the rancid smell.
+
+"Found their notes," Kenji called. His flashlight had settled on a table, his outline barely visible behind the beam.
+
+Alex carefully avoided anything rotten on his way over and set his shield down. Daisuke joined a moment later. Hina stayed at the door, watching the staircase—because whatever had killed two teams could come for a third, assuming it could get past Yuki first. That thought stuck with Alex. Maybe the reason they hadn't been hit yet wasn't that the killer was gone. Maybe it was that Yuki was with them.
+
+"The ambient mana increase is worse than I thought," Daisuke said into the silence after a while of analyzing what was set out before them.
+
+"It's not a curve." Alex tilted a sheet toward the light. "It's almost a straight line."
+
+"It's exponential," Daisuke corrected absently, his eyes flicking between a bloodstained page and a mana-measuring device left on the table. "If these readings from a few days ago are right, the density on this floor has doubled since then."
+
+"Enough to spawn a floor boss?" Kenji asked.
+
+Daisuke snorted. "Enough? It's more than enough. Hell, it's enough to create multiple floor bosses. Maybe even a rare variant many levels higher than it should be or..."
+
+"Or?" Alex asked.
+
+Daisuke grimaced. "Or there's something new the dungeon is capable of that we haven't yet encountered." He paused, his expression darkening. His realization seemed to send him into a panic, and he rushed to compare the data on the papers left by the dead researchers.
+
+Alex left him to it, watching him curiously.
+
+Eventually, Daisuke confirmed his fears.
+
+"The sharp increase in mana density wasn't notable outside. It's concentrated specifically in this obsidian tower. That's why the corpses aren't being digested."
+
+"What are you getting at?" Alex asked impatiently.
+
+Daisuke stood in a hurry, the papers he had been clutching falling out of his trembling hands. "We are likely standing on the floor boss's spawn." He grabbed his staff that had been resting against the table. "We need to leave. Now."
+
+"Hold on." Alex was already crouching, sweeping documents into a bag. The analysis teams back at the Guild Association would die for this data. Clearly, whatever the dead researchers had found here, it was big, and it wasn't going to survive a boss spawn. "We don't forget why we came. This research goes back with us."
+
+Daisuke ignored him. He was already at the stairs, moving like the building was on fire.
+
+"What do we do?" Kenji asked, helping him stuff the last of the instruments away.
+
+"You heard him." Alex slung the bag over his shoulder and reclaimed his shield. "We get the fuck out. Find Yuki, and we'll go."
+
+Hina vanished down the stairwell after their fleeing Arcanist. Kenji followed, flashlight beam swinging with every step. Alex came last, feeling every stair in his knees under the weight of his armor and shield. Stumbling down the last of the steps, his gaze darted to the still intact barricade.
+
+A small relief.
+
+"Where is Yuki?" he asked between gasps to catch his breath.
+
+"Gone," Hina confirmed his fear. "I checked every floor, including the basement, and he's nowhere to be found."
+
+Alex raised a brow. "Really? But the barricade is intact."
+
+"I think... he has a way to get through it," Hina said evasively.
+
+"Then blow it and let's move," Daisuke snapped. "If an Ashrock Colossus variant comes through here and buries us, I will haunt all of you as a mana spirit."
+
+Alex bit his lip in frustration. Where are you, Yuki?
+
+S-Rank or not, he was still a Healer. If something like a floor boss went after him, he wasn't sure if Yuki could handle himself.
+
+Yuki is strong either way. My job is to keep my party safe.
+
+"Shockwave Slam." The barricade detonated outward. Alex shouldered into the vanguard before Daisuke could bolt past him and raised his shield. "Hina. Status."
+
+"Acid Slimes, a lot of them," Hina said as she peered past his raised shield. "No Ashrock's insight."
+
+"Daisuke, clear us a path. Kenji, stay uninjured—we don't know when Yuki's coming back to heal us." Alex started forward. "We make for the first tower and barricade in. We wait for Yuki there."
+
+Nobody argued.
+
+"Arcane Barrage," Daisuke chanted without a hint of theatrics, showing just how terrified he was. A volley of mana projectiles tore the air above them, raining down death upon the Acid Slimes that were rolling their way.
+
+"The slimes have gotten stronger," Hina informed them of the bad news. "Around a level or two on average."
+
+"It's fine, we press forward—"
+
+A crack split the air behind them.
+
+Alex didn't dare turn. His sights were set on the path forward. "Hina, what was that?"
+
+"Um."
+
+"Hina?"
+
+"The obsidian tower." A pause he felt in his chest. "It's collapsing. Into a portal."
+
+Alex couldn't suppress his curiosity. He looked over his shoulder and almost wished he hadn't. The tower they'd stood in a minute ago was all but gone. It was folding inward, swallowed by a swirling black abyss where its foundation had been. A system message bled across it in red.
+
+[Abyssal Rift]
+
+"What is an Abyssal Rift? Hina? Does appraisal tell you anything more?" Alex asked, unable to keep the panic out of his tone. It was exactly as Daisuke had feared. The sharp rise in mana had resulted in something unprecedented.
+
+She shook her head. "It just tells me it's called an Abyssal Rift. Nothing more."
+
+"Should we investigate it?" Kenji suggested. "It looks similar to a portal, just a lot more ominous."
+
+"Are you insane?" Daisuke said. "Can't you feel the mana swelling off that thing? If you value your life, we should flee and never come back."
+
+Alex had to agree. Just as he was about to return to looking forward, something caught his eye. A shadow looming within the darkness of the portal.
+
+Hina's eyes widened, her mouth hung in disbelief.
+
+Alex didn't need to ask Hina what she saw, as whatever lurked within the abyss decided to step through and make its presence known. The sudden oppressive aura that hit Alex told him all he needed to know.
+
+It was a boss monster.
+
+"What is that thing..."
+
+It was an Ashrock, the way a corpse was a person. The same six-legged frame, the same lodged-boulder head—but the stone had gone black and wrong, threaded through with veins of that swirling abyssal dark, as though something had hollowed the creature out and poured the darkness in to set.
+
+Hina's eyes were glowing golden. "Its level is too high for my Appraisal skill," she muttered under her breath, yet they all heard it. "We have to run."
+
+Alex didn't need to be told twice. He increased his speed, ready to meet the Acid Slimes in their way with force.
+
+[The Guardian of the Abyssal Rift has spawned]
+
+A system message Alex had never seen before flashed in his mind.
+
+[Floor 11 has been sealed in preparation for invasion. The Abyssal Rift cannot close, and the floor cannot be left while its Guardian lives]
+
+Alex glanced over his shoulder at the unbeatable thing that was the supposed Guardian. If the system was to be believed, they had to beat that monster to escape.
+
+The monster met his gaze and lumbered forward.

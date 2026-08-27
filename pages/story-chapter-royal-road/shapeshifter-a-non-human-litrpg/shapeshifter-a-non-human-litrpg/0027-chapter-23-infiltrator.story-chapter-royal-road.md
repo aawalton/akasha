@@ -1,0 +1,117 @@
+---
+id: cc155816-7faf-5d24-856d-e9e8a553ac3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Infiltrator"
+slug: 0027-chapter-23-infiltrator
+partOf: shapeshifter-a-non-human-litrpg
+position: 27
+ownLength: 1370
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3547425/chapter-23-infiltrator"
+royalRoadId: "3547425"
+---
+
+After entering the second tower, everyone fanned out, alert and with weapons raised. Xen swiftly expanded his Geomantic Perception and froze as he was alerted to a presence lurking below them in a basement.
+
+Xen looked down. It was no doubt the unblinking person he had encountered hours before. They were standing in the middle of the basement, unarmed and seemingly waiting. The room had a single way in and out, a staircase hidden behind a boulder, and there were no other monsters or people down there.
+
+Then the person looked up, making Xen tense.
+
+He thought for a moment they would rush up the stairs to confront them, but they did no such thing. The unblinking person just stared up at him, through the floor, silent and waiting.
+
+"The room seems clear," Alex addressed the group. "Let's throw up a quick barricade and sweep the upper floors."
+
+As the others got to work, Xen kept half his attention below. The being continued to do nothing. It just stood there, staring up through the ceiling. It was unnerving, and it raised many uncomfortable questions.
+
+Alex found the basement entrance behind a boulder and shot a glance at Xen. The intention was clear—he was silently asking if he should mention it to the others or investigate.
+
+Xen gave the slightest shake of his head.
+
+An understanding passed between them without a word. Alex rolled the boulder back into place and turned to the others. "Alright, let's check the next floor. Yuki, mind staying down here to watch the barricade? It's shoddier than the ones at the previous towers."
+
+"Sure," Xen replied.
+
+Oddly, nobody pushed back on Alex's flimsy reasoning. They filed up the stairs, Hina even gave him a wave, and Xen tracked them through Geomantic Perception until they were two floors above.
+
+Is it normal to leave the Healer behind, or do they all suspect I'm an S-rank like Alex? Xen wondered. That sudden statement had thrown him off greatly. Shaking his head, he decided he would deal with that later. For now, his focus was on what lurked below.
+
+If this thing wanted to attack, it would have done so when it had the element of surprise, he reasoned. And by occupying the stairs, I cut off its escape route. If it proves stronger than expected, I still hold the high ground for a retreat.
+
+He shoved the boulder aside and stared down at the exposed staircase.
+
+The being below continued to stare right back, the floor apparently no obstacle to its line of sight.
+
+Xen went to take a step and hesitated.
+
+He was... scared.
+
+You're an A-grade Changeling Slime now, he berated himself. This floor is supposed to be host to monsters far weaker than that. How dangerous could one strange creature possibly be?
+
+The honest answer was that he had no idea. Which was exactly why he was hesitating. Without the comfort of Appraisal confirming that he outleveled his enemy, descending those stairs felt dangerous. It reminded him of his days as a Mind Slime, rolling through death-filled corridors of the first floor.
+
+But if I leave, there's a chance it will climb up and attack the humans on the upper floors. He frowned behind the Cursed Mask. I don't particularly care for their lives, but they've been kind to me, and explaining away their deaths on the surface would be a nightmare.
+
+It was a headache he would rather avoid.
+
+So, with hesitant steps, Xen descended into the basement to confront the unknown being, if only to spare himself the bureaucratic mess that would follow if the humans were to die.
+
+He reached the bottom step and emerged into total darkness. Not that it bothered Xen, who could thrive in the darkness unlike the humans. With a better look at the figure now, courtesy of Geomantic Perception, he learned something new.
+
+The man wasn't touching the floor. He was floating.
+
+Xen cast Appraisal, quietly hoping his evolution might have improved the skill's reach.
+
+[Appraisal Failed]
+
+Xen clutched his healing staff and tried to keep his voice level. "Who are you?" he questioned, not expecting a response. He was tense, ready to fight if needed.
+
+"I'm one of you," the unblinking man replied with a stolen voice crafted with mana. "An infiltrator."
+
+Xen stared at him, unsure how to respond.
+
+The figure's gaze drifted upward, tracking the humans through the floors of stone. "You're working with humans from the Guild Association. There are many of us in their ranks." His eyes fell back to Xen. "I have a message from the Dungeon that should be passed on to those on the surface."
+
+Xen gave a slow nod, despite having no idea what he was talking about. The figure seemed to take that as confirmation to continue.
+
+"The time has finally come, after two long decades," the unblinking figure said. "Mana saturation on the surface has reached levels sufficient to support spontaneous gate creation. Infiltrators are to continue sowing discord and crippling the natives' defensive efforts. In time, the planet will be devoured to feed the World Dungeon's continued development. End of message."
+
+"Okay, I got it," Xen said slowly with another hesitant nod. "I'll pass it on."
+
+"Good. Then I'll leave the humans upstairs for you to silence." The figure floated past him toward the stairs. "I have a meeting with the Ether Technocrats to attend, oh and a word of advice, I'd get out of here quickly."
+
+Xen stood there tense as a statue as the figure floated up the stairs behind him and vanished from his Geomantic Perception range. He had felt it when the figure passed. They were strong, and he was glad he hadn't attacked them.
+
+"That didn't go how I expected," Xen mumbled, deflating against the cold stone of the stairwell. The self proclaimed infiltrator, having confused him for one of their own, had given him a rather confusing message and a lot to think about.
+
+His talk of mana saturation matches the rising levels I and others have noticed in the dungeon, Xen thought. That could explain why the monsters are getting stronger. But spontaneous gate creation? Are gates no longer confined to subway entrances and underground places? Could they pop up anywhere?
+
+He frowned behind the Cursed Mask.
+
+That might actually be a good thing for me. Every gate right now is controlled by a guild or the Guild Association. If new ones start opening on their own, the Radiant Accord could use them without all the scrutiny.
+
+He drummed his fingers against his staff.
+
+And the Dungeon's goal is to consume the planet to fuel its own development? That's concerning for the humans. Even worse, they already have monsters walking among them, infiltrating their ranks. He paused, then huffed a quiet laugh behind the mask. Myself not included, of course. I'm one of the good ones.
+
+His amusement faded as quickly as it came.
+
+What was he supposed to do with this information? Keep it to himself? Bring it to Randy? Hand it over to the Guild Association? The Ether Technocrats were clearly infiltrated, but what about the Titanborn guild or the Stormbringers?
+
+Honestly, I wouldn't be surprised if the Guild Association itself is compromised. Their rules are absurdly restrictive. Forcing Hunters to delve in parties of three slows leveling to a crawl, and a weakened populace is an easier one to overrun.
+
+He started to push off the wall when a realization struck him.
+
+How did the infiltrator know I wasn't really an elf?
+
+His grip on the staff tightened.
+
+My disguise has fooled every human I've encountered, even Hina, who has been watching me like a hawk. So how did he see through it? His mind raced. Does this mean other infiltrators will try to contact me? Recruit me? Or test me the moment they realize I'm not actually one of them?
+
+His head spun. He forced himself fully upright, jaw tight beneath the mask.
+
+Whatever the case, I need to get stronger. Next step is reaching level 100 and S-rank before returning to the surface.
+
+Alex and the others would be busy clearing the tower for a while.
+
+I'll use the opportunity to go hunting.

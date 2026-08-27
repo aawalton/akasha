@@ -1,0 +1,93 @@
+---
+id: 25f83263-ac2f-5d5b-b743-97f2c8bdb188
+page-type-slug: story-chapter-royal-road
+title: "Savage Divinity - The Final Chapter April Fools Joke"
+slug: 0325-savage-divinity-the-final-chapter-april-fools-joke
+partOf: savage-divinity
+position: 325
+ownLength: 2357
+unit: words
+publishedAt: 2018-04-01
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/205077/savage-divinity-the-final-chapter-april-fools"
+royalRoadId: "205077"
+---
+
+Swept out by the current, Falling Rain descended into the dark depths of the Azure Sea. Presumed dead, the Behkai searched high and low while Lin sat in silent vigil, watching over the Sea with forlorn hope. For two days and two nights, there was no sign of her hubby, but still she persevered, kneeling on the sand in silent prayer and awaiting his safe return.
+
+And on the third day, he rose again.
+
+Sailors and fisherfolk marked his passing, watching in awe as he emerged from the fog and strode across the surface of Nan Ping Bay, a muscular giant among men with jade-like skin, finely-chiselled features, thick, luxurious hair, and a massive, magnum dong. Moving neither quickly nor slowly, he walked across the water with head held high and hands clasped behind his back, his footsteps causing no ripples as the morning breeze carried him along his way. Arriving on the northern shore outside the Bekhai camp, he was greeted by the tearful smile of his sweet wifey Lin. Taking her into his arms, he kissed her right on the lips and said, “Did you just fart? Because you blew me away.”
+
+His smooth, dulcet tones reached Lin’s ears and her flower flooded with juices and soaked her panties which fell of their own accord. Ripping away the rest of her clothes, he laid her down on the beach and consummated their marriage beneath the heavens, while encouraging everyone nearby to watch. A vision of beauty and wonder, all who saw him work were enlightened in the Dao of Manwhoring through this comprehensive and lengthy lesson, praising Falling Rain for his manly refinement, incredible prowess, and artistic imagination.
+
+After twelve hours of passionate love-making and six hours of respectful cuddling, Falling Rain stood up, fist bumped Taduk (who watched the entire lesson), and said, “I totally banged your daughter.”
+
+“Mad respect,” Taduk replied.
+
+Turning to face the Azure Sea, Rain sighed. “But there is still so much banging to be done. This world languishes in ignorance, but how can I spread my Dao of Manwhoring to them all?”
+
+Brow furrowed in thought, Taduk poured over his newfound enlightenment for ideas. Clapping his hands, he exclaimed, “Clones!”
+
+“Great idea.” Raising his arms, Falling Rain called upon the Energy of the Heavens and created a clone of himself in like totally less than five minutes. Studying his work, he nodded and asked, “So how’s the new body bro?”
+
+“Totally awesome.” Flexing his prodigious muscles which were a mirror of Rain’s own, Baledagh continued, “Check out how swole I am. I’m not a manlet anymore. This is awesome!”
+
+It was indeed awesome. Falling Rain then ascended from this plane of existence and pimp-slapped the Father out of existence, telling the Mother, “Woman, you deserve better than him. Didn’t you know? Mom’s are hawt, you got options. Also, quit hoarding souls like some crazy soul-lady, it’s super weird.” After banging her into complacency and lying about calling her back, Rain stole Qing-Qing’s soul from Her embrace and returned to existence. Crafting a new body for her soul, Rain gave her huge tits and a phat ass. “There you go bro, your waifu is back.”
+
+Baledagh replied, “Noice,” and thus got to banging the newly resurrected and thoroughly confused Qing-Qing.
+
+Having already mastered the skill of cloning because he was a talent seen once in a millennium, Falling Rain created clone after clone in the blink of an eye and sent them out into the world to spread his Dao, fornicating with the women of the Empire while the men watched and were Enlightened. All was well until he sensed a disturbance in the force and teleported over just in time to see five of his clones drained dry in an instant by Yan’s unparalleled technique. Licking her fingers clean, she winked and struck a sexy pose, her back arched, legs spread, and hands behind her head. “I’ve banged thousands of other dudes ever since we split, so you’ll have to do better than that if you want to satisfy me.”
+
+Wiping away a tear, Du Min Gyu proudly proclaimed, “That’s my Granddaughter, truly an insatiable harlot.”
+
+Concerned by the madness in Yan’s eyes, Falling Rain drew out his already erect flagpole which glowed with a golden light, indicating the presence of Sex Spectres. “You’ve been Defiled,” Falling Rain said, “but don’t worry. I’ll cleanse you with my holy fluids.” Grabbing Yan by the waist, he Healed and restored her virginity, making it nice and tight once more. Inserting his plump, throbbing eggplant into her warm, moist peach, he gazed into her eyes and said, “Now it’s time for some sexual Healing.”
+
+For hours, they stared into each other’s eyes while they boned, switching from position to position in flawless coordination. Faster and faster they went as they rose into the sky on the winds their fury, travelling through the heavens and across the Empire, broadcasting their contest for all to see in High Definition with 5.1 surround sound. The world watched as Yan’s eyes rolled back into her head and her tongue hung out from her open mouth, drowning in waves of unending pleasure provided by Falling Rain’s massive golden dong. Finally, with an earth-shattering grunt of “Begone, Thot!”, Falling Rain sprayed his love all over Yan’s body and face, cleansing her of the Sex Spectres in a purifying stream of Heavenly Sperm.
+
+As she spasmed with an orgasm which would last for hours, Falling Rain took a few pictures for posterity and left her cleansed soul and stained body in the care of a clone. Teleporting back to Nan Ping, he found Akanai and extended a hand, saying “Come with me if you want to cum.” Swooning in place, the blonde Valkyrie fell into his arms with a moan of pleasure, unable to think clearly when faced with his silver tongue. Teleporting once more, they arrived in a ship cabin and greeted Mila and Husolt, who were busy playing chess. Flashing his handsome smile, Rain explained everything then said, “Now that we’re all caught up, what say we have a mother-daughter threesome while Husolt watches?”
+
+Flipping over the chess board, Husolt let out a thunderous roar and grabbed Rain by the shoulders. “Lad,” he said, voice quivering with delight. “That’s my fetish.”
+
+After many trips to pound town, Rain left Mila and Akanai cuddling in bed and followed a trembling Husolt out of the cabin. “Thank you,” Husolt said, patting Rain on the back as they strode across the hall and into another room. “You helped an old man fulfill his dreams.”
+
+“Glad to be of service,” Rain replied, smiling as he reminisced about sleeping with his aunt and grandmother. “Besides, I’d do anything for family.
+
+“You’re a good lad.” Pulling out two boxes, one long and thin, the other short and compact, Husolt laid them both on the table and said, “Now let me show you your new Spiritual Weapons. Mila and I each made one for you. Here’s mine.” Opening the longer box, Husolt withdrew a long, curved sword. “This is my greatest work. The Spiritual Heart was mixed with glorious Nippon steel, folded over a thousand times, and shaped into what I can only describe as the preeminent sword form. I don’t know how you came up with the idea, but it’s incredible. All swords should be shaped like this, there’s simply nothing better. What did you call it again?”
+
+“A Katana,” Rain answered, drawing the weapon from its sheath. “Even a mundane Katana can cut cleanly through armour and is vastly superior to any other weapon. It’s a work of beauty and it deserves a wielder who looks the part.” Closing his eyes, Rain used the Energy of the Heavens to create the optimal fighting outfit, a long, black trench coat and fedora. Glancing at his reflection in the mirror, Rain tipped his hat and said, “Perfect.”
+
+Awestruck by how suave and mysterious Rain looked in his new outfit, Husolt couldn’t explain the other weapon but Rain didn’t need one. Binding both weapons in an instant because he’s super elite, he teleported away to where the Defiled army laid in wait, gathering for one concentrated attack on the Central Province. Staring down at the millions of unwashed heathens and murder-hobos, he spoke a single sentence, his voice resounding across the Western province and reaching every Defiled ear in existence. “Say hello to my little friend!”
+
+Brandishing his AK-47 forged by Mila, Rain gunned down the Defiled army like the animals they were, firing bullets of concentrated Chi from his Spiritual Gun which never missed or needed reloading. The thunderous roar of bullets was the last sound heard by thousands of Defiled warriors, dying in droves as the bullets sought out their targets and pierced through flesh and bone. “GG no re noobs,” Rain declared as he committed mass genocide, laughing all the while.
+
+“You aren’t the only one who’s become stronger,” Gen screeched, rushing forward to meet Rain in battle. “I now see the Truth! Face me in-”
+
+Gen’s speech was cut short as a bullet tore through his head and killed him instantly, unnoticed by Rain as he cackled in delight. “Aimhacks, lawls.” Still, even with his target-seeking bullets firing at fully automatic speeds, Rain soon grew bored of wholesale massacre. “This is taking too long. I need more DAKKA!” he yelled, and used Heavenly Energy to create a Gundam. Bristling with countless fully automatic weapons on every available surface, Rain’s kill rate soared through the roof but it brought him little joy as he impatiently waited for the boss to show up.
+
+As if responding to his thoughts, a murky grey shield of light materialized before him, blocking Rain’s storm of bullets with ease. Carried on the back of a naked gimp Demon, a wizened old man with wispy white hair and a frail, ruined body approached Rain with an army of Dick Demons at his side. Studying Rain with empty sockets and a villainous sneer, the boss declared, “You underestimate the power of the Father and his Dick Spectres. I, the Uniter shall now show you true power!”
+
+“Doubt it,” Rain replied, glad the old man had offered his name without prompting. “I mean, I already pimp-slapped the Father into oblivion, so how strong could they possibly be?
+
+“Wait, seriously?”
+
+“Yea, it was like the third thing I did today, after boning my wifey and getting my bro a bod. All this is just clean up.” Shaking his head, Rain added, “It was a dumb move, It’s all so anticlimactic. Should’ve left the big guy for the end, but I jumped the gun to get my boi laiddddd. Anyway, are you the mid-boss or second-to-last boss?”
+
+“This is such bullshit!” the Uniter whined, his face red with frustration. “I’m like eight hundred years old and you’re telling me you got this strong in less than twenty?”
+
+“Git Gud Scrub.” Exiting his Gundam, Rain grasped his sheathed Katana. “Want to know the secret to my strength? I studied the blade.” With that said, Rain disappeared from sight. Glancing left and right, the Uniter saw no sign of his foe until Rain spoke again. “Nothing personnel kid.” Turning his giant scorpion wheelchair around, the Uniter saw the back of Rain’s flowing trench coat as he sheathed his Katana. “Omae wa mou Shindeiru (you are already dead).”
+
+Unsure why he was suddenly seeing subtitles, the Uniter glanced down to find himself bisected at the waist and slowly sliding apart. “Hmph, you think you’ve won?” he asked with a contemptuous smile. “Fool, this isn’t even my final form!” Craning his head back to face the sky, the Uniter let loose with an anime roar as he powered up. The Dick Demons around him melted away and fused together, transforming the Uniter into a towering, colossal creature of phallic nightmare. Dick fingers, dick teeth, writhing skin made of dicks, everywhere you looked, there were dicks touching one another, a horrific and boner killing sight. “You may have cultivated the Dao of Manwhoring, but I studied the Dao of Yaoi, which is anathema to your Dao. Accept defeat!”
+
+Knowing this to be true because he didn’t want to touch another man’s dick, Rain sighed and threw away his weapons, standing there in his trench coat and fedora. “You’re right. Your Dao of Yaoi is anathema to my Manwhoring ways.” Grabbing the lapels of his trench coat, he smirked and added, “But who says the Dao of Manwhoring is my only Dao?” Ripping aside his trench coat, he exposed his now flacid, magnum dong, which glowed with a resplendent golden light. “It was all so simple, I should have seen it from the beginning. My amber eyes, the ‘Tear’ of the Mother, my golden, magnum dong, it’s all so obvious. My name is no longer Falling Rain. From this day forward, call me: Golden Rain, Master of the Dao of Piss!”
+
+With that said, Golden Rain took his magnum dong in both hands and let loose with a concentrated stream of piss so powerful it sliced the Uniter in two. Having only just begun, Golden Rain showered the entire western province with his purifying piss, smiling as the rescued citizens rejoiced and danced beneath the warm, salty shower while the Defiled and Demons melted away into nothingness. Channelling the Dao of Piss, Golden Rain scoured the last of the Father’s filth from the five provinces with a single, prolonged stream of fragrant, golden liquid.
+
+Once finished, he returned to his people and graciously accepted the offer to become the Emperor. Cuddling with his three wives and millions of animal-eared concubines, Rain then explained his past as a transmigrator and how he’d been sent here to save this world from evil.
+
+“Cool,” Lin said, accepting Rain’s story easily. “But why you? Why this world?”
+
+“Isn’t it obvious m’lady?” Rain asked, tipping his fedora. “Because this is my magical realm.”
+
+Then, the Azure Empire blinked out of existence as Rayne took his final breath, no longer assisted by the machines which kept him alive all this time.
+
+- Fin -

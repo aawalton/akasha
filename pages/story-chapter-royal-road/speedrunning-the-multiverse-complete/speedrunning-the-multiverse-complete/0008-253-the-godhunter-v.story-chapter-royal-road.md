@@ -1,0 +1,177 @@
+---
+id: 414cb0f0-c45f-5215-b192-11cc2dfe0ac1
+page-type-slug: story-chapter-royal-road
+title: "253. The Godhunter (V)"
+slug: 0008-253-the-godhunter-v
+partOf: speedrunning-the-multiverse-complete
+position: 8
+ownLength: 1989
+unit: words
+ownProgress: 1989
+publishedAt: 2023-07-01
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1263400/253-the-godhunter-v"
+royalRoadId: "1263400"
+markedReadAt: "2026-06-29T22:41:53.695Z"
+---
+
+“What is this?” snapped Slickclaw. “You would mock me, little dragonoid?”
+
+“Not at all!” Dorian smiled like the Buddha himself. He spread his arms.
+
+“Go on. Have at it!”
+
+Slickclaw stared at him for a few heartbeats, and Dorian got the sense the dragon was trying to decide whether Dorian had something up his sleeve, or if he was simply an idiot. Then he breathed out a cloud of smoke, lips curling to a nasty grin, and it was evident which of the two he landed on.
+
+“Very well,” said Slickclaw, voice soft as a snake’s hiss. “I will play this little game of yours.”
+
+He raised that cobweb wing of his, and its bony white edges boiled over with black Laws of Death. Dorian politely let it rise to a frothing peak. He even stuck out his neck as thewing screamed down like an executioner’s blade. There was a savage gleam in Slickclaw’s eyes; the dragon wouldn’t be satisfied with half-measures, a head left hanging by its gristles. No—he was swinging to shoot Dorian’s head into the sun.
+
+“Heavenly annihilation: WING OF FRENZIED DEATH!” screamed Slickclaw.
+
+There was a CLANG, shocking crackling, a wash of hot air, air electric with charged qi. The spectators shielded their eyes, coughed, turned away. Someone cried out.
+
+But then it was done, and everyone’s eyes turned back, wide and shocked, to find Dorian’s neck without a blemish.
+
+It was Slickclaw who was cradling his wing, tears prickling at his massive eye.
+
+“FUCK!” he roared. Dorian got the sense it was either that or whimpering.
+
+“Well, that’s that, everyone!” Dorian held out a hand. “Welcome to the resistance, brother Slickclaw!”
+
+Slickclaw’s face twisted. “This—that—I—no. No! I do not accept this! You’ve tricked me!”
+
+“How so?”
+
+“You made it appear as if—as if—No. I was not ready! That is all. One more! Again!”
+
+He must’ve thought Dorian would protest. Surely this would’ve given him a way out. But of course Dorian didn’t. He tapped at his lip, pretended to think, and shrugged.
+
+“Please, be my guest.”
+
+It was hard for a tar-black dragon to look pale, but Slickclaw managed it. He licked histeeth, flexed his wing, shuffled his weight no either leg, did a whole lot of squinting. Working himself up to the task, trying to fan up some courage, maybe. He took so long he attracted a few ‘boo!’s from the dragons gathered about. Then his teeth gritted, and that was that.
+
+Another wing CLANG’d down on Dorian’s neck. This time, Slickclaw couldn’t suppress a howl. Then a most undragonlike whimper.
+
+Again here was a crossroads. It would be so easy to stomp this Slickclaw into the dirt. So natural, and the dragon was in position for it too, head bent over, neck curved in perfect stomping position. Dorian’s foot got an itch just thinking about it.
+
+But that was no way to make friends. And friends, Dorian begrudgingly admitted, were valuable.
+
+“Actually, brother Slickclaw… I must commend you.”
+
+Out of the corner of his eye he saw Sun give him a thumbs-up. “Truthfully, those were some formidable strikes! Very few Empyreans—and certainly no Gods—could’ve taken them as I have. But I have taken the blows of Godkings on these wings.” It would’ve seemed an outlandish claim before that little demonstration. Now the crowd was nodding along.
+
+“Rest assured, friends, I can take the blows of that fake king Snaggletooth too! Now, brother Slickclaw—what do you say? We could use those wings of yours.”
+
+Slickclaw tongued his teeth, hesitant. “You… are strong, dragonoid,” he admitted. “That I will give you.”
+
+He looked like he needed just a little pushing—
+
+“That dragon-guy made you pay 10% of your hoard, didn’t he?” shouted Sun. “Think of all the gold he’s got stuffed up there! All the treasures! And also all the delicious treats! Go with us. Think about it—if we take Mt. Tai all that’s ours!”
+
+It took a few breaths of gnashing, and sucking, and squinting, for Slickclaw to come around to it. But when he did, a slow, rather evil-looking smile crept across his face.
+
+“Very well, then, dragonoid Dorian,” he said. “I will play this little game of yours.”
+
+“To the resistance!” cried Sun.
+
+“To the resistance!” roared everyone else.
+
+Sun cackled. She slapped one of the Glassy Dragons on the leg. They had a little back-and-forth, and the dragon snorted and slapped her back—which promptly sent her flying head-over-heels into a faceplant. She bounced up, grinning through a faceful of mud, and struck a pose, drawing a circle of laughs. Everywhere she went she had a way with creatures. She got them, somehow, knew just what to say to tickle them, to rouse them, to cheer them up, to get them on her side. And most seemed to like her back. Dorian suspected it had something to do with her being genuine, and friendly, and kind, and overall a rather decent person, which, now that he thought about it, went a long way to explaining why he’d never managed to pick up the trait.
+
+Still, his rabble-rousing and her people skills made for a winning combo. At this rate they’d be storming Mt. Tai in a week!
+
+***
+
+2 days later…
+
+The fortress atop Mt. Tai was so high up you had to breach not one but two cloud layers to get there. It was the peak above all peaks, which was symbolically resonant, but practically annoying, Scraggletooth always felt. It made looking down at the rest of the realm nigh impossible. You could only see the little folk on unusually clear days.
+
+But who needed them when he had all he could ever wish for up here?
+
+Scraggletooth’s sleek form was curled up on a gel sac in his garden. The garden was magnificent enough on its own—impeccably manicured, bursting with pretty Spirit Herbs. Vines crawled over the awnings, the trees, slithered all over the floors, heavy with fat Spirit Grapes. You couldn’t make it from one end of the garden to another without bursting a few.
+
+But the real attraction were the giggling harem of ladies lounging on either side of him. Thick of tail and thick of arm, just how he liked them, with waists so small you’d think they had no organs. Redfang, his favorite, batted her eyes at him as she fed him a grape. Servants—eunuch drakes—milled about with bottles of wine, eyes carefully downcast.
+
+Ah….
+
+Scraggletooth let his half-lidded eyes drift shut with a satisfied groan.
+
+When he’d sold out his brother to get all this he’d expected to feel some guilt.
+
+Thus far…not much, really. He thought he’d felt a prickling of it at one point, but it’d turned out to be a mild case of indigestion.
+
+“Redfang—would you be a dear and feed me one of those delightful ginsengs?”
+
+He ate it out of her palm, and she giggled. Why should Scraggletooth feel guilty? Guilt was a self-imposed emotion. Only idiots chose pointless self-flagellation. Scraggletooth had found the key to happiness. Anyone could be happy. Negative emotions were products of the mind, which meant they were entirely optional. Best to ignore them altogether, he felt, as he scoured the gaps in his teeth with a tiny diamond pick.
+
+Just look at him. There wasn’t a thing about his life he’d change. He could float in this blissful comfort forever…
+
+One eye cracked open and glared at the sky.
+
+“Oh, bother.”
+
+“What is it?” said Redfang.
+
+“Trouble,” sighed Scraggletooth.
+
+One of his lieutenants’ shadows fell across his face. The sole blemish in his perfect blue sky.
+
+Empyrean Spiketail landed in his garden in a disheveled heap, squashing four grapes as he did, splattering juice everywhere. He was a wiry figure, this Spiketail, with sunken-in eyes and Wings too big for his body. Disturbing to look at. At least he had the good manners to stay out of sight most of the time.
+
+Spiketail, of course, knew Scraggletooth’s opinion of his looks, as Scraggletooth brought it up to him nearly every time they spoke. It was how Spiketail knew never to present himself unless the situation was—how had Scraggletooth worded it, last they spoke?—‘unless the world is on fire and I am the only dragon with a bucket of water.’
+
+“What is it?” drawled Scraggletooth.
+
+“REVOLUTION!” cried Spiketail.
+
+“Calm down, please. You’re disturbing my women. Nothing is so dire that it merits a raised voice.”
+
+“My lord—but—” choked Spiketail. “There is a dragonoid in the valleys, stirring up great trouble!”
+
+“Those valley maggots, I swear. Stirring up trouble is their favorite pastime. Hardly noteworthy.”
+
+“But this time is serious. He’s gathered nine Empyreans to his cause. And no less than sixty Gods! And my sources tell me he’s only recruited from a third of the realm so far. My Lord—this is very, very bad.” There was this desperate cracking in Spiketail’s voice, which pretty much everyone had when they tried to convince Scraggletooth to do pretty much anything.
+
+Scraggletooth sighed again. It was growing readily apparent Spiketail was not going to go away on his own.
+
+“It’s nine Empyreans. What are they going to do? Tickle me?” Titters of polite laughter from his harem. None of them meant it, of course, but it was the appearance of it that mattered to Scraggletooth.
+
+“Please, my Lord,” said Spiketail. “I beg of you, take this seriously! This dragonoid is unusually—”
+
+“Dragonoid?”
+
+“Yes.”
+
+Spiketail drew himself up. “Describe him.”
+
+“He’s a Torchdragon who claims to be the first-ranked God in the Multiverse. Has a Monkey and a Roc companion, both in humanoid form.”
+
+“Fascinating.” It seemed Scraggletooth would need to do something about this infestation after all. How incredibly annoying. “Send a message to our dear friend Jez. Tell him his man is here. He’ll know which one. In the meantime, arm our cannons with high-grade Stones. Restock the Imperial Shields. Summon the rest of the guard and put them on high alert.”
+
+“Yes, sir!”
+
+“You may go.” Then, as an afterthought, “And please… do consider wearing a mask next time.Your face, as you well know, is hideous. Please do not subject me to it further. It’s rude.”
+
+“…” Spiketail looked rather dejected at that. He flew off with slumped shoulders.
+
+Sighing, Scraggletooth closed his eyes and drooped his head, trying for that same posture of total repose. He couldn’t quite find the right configuration for his limbs. He couldn’t for the Hell of him snatch back that feeling of blissful comfort. There was a strange feeling in his stomach now. He grunted. It had better be indigestion.
+
+“The little folk, I swear, Redfang,” he grumbled. “My brother was ranked in the top 5 in the Multiverse. But it is like they forget I am a top-ranking Godking too. A more… temperamental… Godking might take offense.”
+
+“It’s so unfair,” agreed Redfang, feeding him yet another grape.
+
+“With Jez’s gift of power I’m as strong as he ever was, aren’t I?”
+
+“Without a doubt.”
+
+“Yet I don’t get a tenth the respect.”
+
+“Mhm.”
+
+They smiled lovingly at each other.
+
+Ah, Redfang, Redfang. He’d stolen her from her husband—well, executed the dragon first, so was it really stealing if it was from the dead? Then he made her play this charade. Three of her children lay rotting in his dungeon. There used to be four, but she’d cracked once on the act—broken into tears, screamed ‘I hate you!’, pounded ineffectually at his chest and so forth—which was so disturbing to the rest of his women, and indeed ruined the morning’s good mood. So he’d been forced to execute one of those children, a girl of twelve years. Now Redfang’s act never cracked.
+
+“I like to think of myself as a liberal sovereign. One who gives his subjects free reign. Yet some, it seems, mistake my… laid-back temperament… as weakness.”
+
+In his eyes there was a flash of coldness. Then, in a blink, back to half-lidded slothfulness. “Another grape, my dear?”

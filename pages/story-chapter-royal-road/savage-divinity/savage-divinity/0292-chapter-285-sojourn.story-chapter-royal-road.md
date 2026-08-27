@@ -1,0 +1,123 @@
+---
+id: c9c71496-4010-51cd-9e7c-6074e43833e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 285 - Sojourn"
+slug: 0292-chapter-285-sojourn
+partOf: savage-divinity
+position: 292
+ownLength: 3347
+unit: words
+publishedAt: 2018-01-10
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/185899/chapter-285-sojourn"
+royalRoadId: "185899"
+---
+
+Gazing at the empty shelves and vacant drawers of my yurt, I’m overcome with a sense of dejection and melancholy. With the interior stripped bare and my things packed away, there’s little resemblance to the cozy residence I lived in for the last half-year. As much as I love my family and friends, I’m a creature of solitude and this oversized tent gave me my first taste of real independence. Even though I was living in closer proximity to my neighbours than ever before, it was nice knowing I had a place of my own to return to after a long day of arduous training, somewhere I could kick back and relax or brood and distress in peace. Within these leather-lined walls, I was free to do as I pleased, whether it be to croon at and cuddle with my fur babies or curl up and cry. This was my safe space, a place where I could be vulnerable in a world where weakness is held in contempt.
+
+It’s not just a yurt. This is my home, the only home I have left considering my recent near exile from the Bekhai. As fond as I am of the village, it’s hard to love a place while knowing no one wants you around. I was ready for a fresh start here at the Wall, making plans to build a house and settle in for the long haul, but the Emperor ruined everything. Okay, that’s not fair, the Defiled deserve most of the credit, but still. Instead of putting down roots, I’m tearing down my rustic little residence and packing it onto a wagon, all so I can head off to the Central Province alongside every officer, soldier, and warrior worth a damn. Considering the Emperor’s actions have shown him to care little for his subjects, I’ve no doubt the accommodations in Nan Ping will be subpar at best, assuming any are available by the time we arrive, so bringing the yurts and plenty of food along with us only seems prudent.
+
+I’m going to miss it here, surrounded by cuteness with all my pets living in peaceful harmony. Well, most of my pets. I had to kick Pafu and Suret out because the quin pups were too eager to taste both bird and bunny. They’ve been staying next door in Alsantset's yurt despite her insistence the quins would be happy sleeping in a burrow. That’s my sister for you, foul-mouthed and soft-hearted. Meanwhile, Lin unrepentantly continues to monopolize Jimjam and the bears every day, while Sarankho refuses to leave her mommy Li Song, which leaves me with only Aurie and Mafu to cuddle with. Contrary to their instincts, the two massive predators lie slack and motionless while a horde of baby bicorn bunnies zoom about like tiny, cocaine-fuelled fluffballs, tackling or headbutting everything in their path. Taking after Mama Bun, the bunnies have no fear or caution, happy to use Mafu’s belly as a springboard or Aurie’s nose as a target all while filling the yurt with the pitter-patter of their tiny feet. Overseeing the safety of her babies, Mama Bun sits atop my bed while nomming down on dandelions and tubers, taking in her territory with a vacant, yet satisfied look in her beady black eyes.
+
+With the way things are going, I’m terrified the first bunny casualty is going to result from too much rough housing. Despite their resting bitch-face and near suicidal stupidity, the bun-buns have wormed their way into my heart with their delightful antics. I have plenty of names picked out but since it’ll still be a few weeks before their genders can be determined, Tawny One remains as the only named bunny. A damn shame I don’t have an all black bun to name Blackjack, they’d make a wonderful pair. As it is, Tawny One will have to ride solo as he (or she) tries to force its way past Aurie’s teeth and into his mouth.
+
+So stupid, but so adorable.
+
+The bunnies aren’t my only source of cuteness. If I didn’t know any better, I’d swear Roc and his flock are hellbent on earning my love through sheer ingenuity. Scattered about every corner of the yurt, several of my lovely birds use short branches held in their talons to give themselves a vigorous, early morning head scratching, both an endearing sight to behold and a welcome relief. Not only am I spared from grooming them every morning, but I no longer need to suffer through the nips they use to signal they’ve had enough scritches. It didn’t take much effort to teach them to use tools, but they’ve gone above and beyond my lessons, now able to use the same branches to open their cage and pry open cupboards. At first, I worried Roc and the others would see baby bunnies as a snack, but Mama Bun has things well in hand, always ready to scare off any swooping birds with a vicious aerial headbutt. Kai Yay’s lucky Mama Bun only landed a glancing hit and Taduk was nearby to Heal him or else poor Yipi would be a widow now.
+
+It shouldn’t be an issue for much longer. A few days ago, Diyako informed me they’d found an alternative material and no longer need my birdies' feathers, so I’ve decided to let Roc and his flock go free once we reach the Central Province. It’s not right keeping them cooped up in a cage for the rest of their lives, and the north is too cold for them to survive. I’m gonna miss them, but it’s better this way. I’m sure they’ll love flying around and forget all about me in a week.
+
+Stupid onion cutting ninja. Get out of here, go cut onions somewhere else.
+
+Besides, now I think about it, my ‘relaxing’ little home is a huge source of stress, always worrying if I'm gonna come home to a bloodbath of bunnies and birdies. Then again, all this conflict and tension is nothing compared to what awaits me in Nan Ping, where arrogant nobles and headstrong warriors will gather in numbers never before seen. I can hear it now, with cries of 'do you know who I am?' echoing through the streets as thousands of entitled little shits try to throw their weight around.
+
+It's going to be awful.
+
+Even if we pretend the logistics will fall in place without a hitch, I can’t see this ending in anything but disaster. Assuming I don’t accidentally offend someone, which is doubtful considering my track record, who’s to say everyone will play nice? With so many pompous twits and narcissistic psychopaths gathered in one place, all it’ll take is one spark to set off a massive brawl of epic proportions.
+
+I’d much rather stay here but with the whole ‘attendance is mandatory’ bit, the decision’s out of my hands. Out of everyone’s hands actually, including the living legend Nian Zu’s, who will be leading us on the trek south. Despite this whole plan being nothing but a blatant power play by the Emperor, we have no choice but to comply. Our only other option would be to stay home and pray the Defiled sweep through the Central and Eastern provinces, then leave us alone for some strange, unknown reason. Otherwise, whoever wins is gonna run roughshod over anyone who stayed behind, so here I am getting ready to leave the North unguarded so I can head south to play meat shield for the Emperor.
+
+Seriously, fuck that guy.
+
+To be fair though, it’s not like I can offer an alternative solution. Everything outside the Empire is supposedly a veritable wasteland, with untillable permafrost to the north, barren deserts to the west, and scorching volcanic badlands to the south, which means in total population, the Empire has the Defiled outnumbered many times over. Unfortunately, in terms of fighting strength, our situations are reversed. Only one percent of the Empire’s population can use Chi, but from what we know, every Defiled man, woman, and child can use the Defiled equivalent. Add in Demons and possible turncoats hiding amongst our ranks and I’m genuinely surprised the Empire survived this long. In the past, only the Three Walls and a propensity for infighting kept the Defiled from conquering the known world but now that the Enemy has united together and breached the Western Wall, the fate of the Empire hangs in the balance.
+
+Repressing all my doom and gloom, I return to packing my things away. After herding the flock back into their cage and loading the baby bunnies into their sheepskin saddlebags, I step out into the morning dawn and take one last look at my surroundings. The sea of yurts has receded with mine being one of the last still standing. Some of the Bekhai will return to the mountain village, but most are coming with us to Central, including Charok and the twins. With her pigtails flying in the wind, Tali runs over with a cloth-wrapped tray in hand, her toothy smile filling my heart with warmth. “Morning Rainy. I maked breakfast with Papa, so eat now, ya? Oh, and Mama says it’s almost time to go, so stop dawdling and hop to it.”
+
+Tali’s tone and posture perfectly encapsulates her mama’s spirit and Charok’s snort of laughter tells me he hears it too. Carrying a sleeping Tate in her arms, Alsantset pretends not to notice our shared mirth and turns away to hide her smile. While Pran and Saluk dismantle my yurt, I eat my meal and watch sweet Tali play with Mafu and Aurie, so full of laughter and delight while unaware of the dangers lurking in our near future. I wish she were going back to the village where she’ll be safe, but again, the decision isn’t mine to make. Charok won’t stay behind while Alsantset rides to war and neither of them are willing to leave the children. I can’t fault them for wanting to keep their family together. Even though no one wants to say it out loud, everyone knows if the Central province is overrun, it’s only a matter of time before the other provinces follow.
+
+I’m trying to be optimistic, but Mother knows she’s not making it easy.
+
+Once my things are packed and everyone is ready, I lead my retinue and family to the front gates where the other Bekhai and soldiers of the North are waiting to set out. Spying Taduk’s rickshaw through the crowd, we make our way over to join him. Nearby, Akanai stands on the roof of her carriage with hands clasped behind her back as she scans the crowd, likely micromanaging her subordinates as she so loves to do. Baloo and Banjo greet me with happy, motor-like grunts while Lin hops out of the rickshaw to land lightly on Mafu’s back. Snuggling into my embrace, Lin yawns and closes her eyes, my sweet wifey unaccustomed to keeping early hours. “Hi hubby.”
+
+“Hi wifey.”
+
+“I was thinking.”
+
+“What about?”
+
+“Daddy says it takes twenty four days to reach the Society, then ten days by ship to reach coastal Nan Ping.”
+
+“Yea.”
+
+“But that’s how long it takes for the wagons to make the trip.”
+
+“True enough, but we need the wagons and everything they’re carrying.”
+
+“Well...What if we left the wagons and rode ahead to visit Ping Yao, ya?” Unleashing her greatest weapons, Lin opens her big brown eyes, so full of feigned innocence. “We could go see the turtle and catch up with everyone before they reach the Society.”
+
+Frowning, I pinch her cheek and refuse. “We’re not here to play and we can’t afford to tire out the quins before fighting the Defiled.”
+
+“No need to worry about the quins.” Here to protect my wifey once again, Guard Leader and her cronies arrive to back Lin up. Dressed in their dark leather armour and obscuring veils, they're every bit as daunting as I remember. “They’ll be fine so long as we keep them well fed. Besides, we have more than sixty days before the Spring Equinox. I’ll notify Akanai of our plans.” And just like that, the decision is made despite my protests.
+
+Well... whatever. The quins could use the exercise and I did promise to bring Lin to see the turtle. If things in Central go poorly, this might be our last chance. Besides, I don’t want to start an argument with Guard Leader over something so stupid. I haven’t seen her since my near exile, but there are no hard feelings on my end. She voiced her opinion without malice or hate and I don’t hold it against her. Hell, I still think she was right, but that’s beside the point.
+
+After a brief pause, Guard Leader asks, “How are the rabbits?”
+
+“They’re doing well.” Lifting Mafu’s saddlebags, I reveal fifteen sleeping baby bunnies, each nestled in their own individual compartments. “Tokta says they’re healthy as can be, with no signs of wasting or blindness. They’re growing bigger and fatter by the day.” Taduk refuses to treat the bunnies, but that’s no surprise. His hare-supremacist agenda is not his most flattering side.
+
+“Good, good.” To my surprise, Guard Leader pulls out a handful of leafy greens and places a palm-sized stalk in each pouch, almost as large as the bunnies themselves. Coming awake at the smell, the tiny rabbits set to devouring their treat with a voracious appetite, the first time I’ve seen them eat anything solid. Smiling at the sweet gesture, my eyes widen in alarm as I notice what she’s feeding them: idamare leaves, a rare and precious herb which requires Heavenly Energy to grow.
+
+My muttered prayer comes too late as Taduk notices as well. “Wastrel!” he hisses, hopping weightlessly from his rickshaw to land between Guard Leader and myself, barring her from feeding the bunnies. “What are you doing?”
+
+“Feeding rabbits.” I can almost hear the smirk in her voice, a coy, almost teasing tone. “I rather enjoy watching them eat.”
+
+“You hateful woman, you’re doing this on purpose aren’t you? You know how I feel ab-” Back straightening in alarm, Taduk asks, “The idamare, where did you get it from?”
+
+“On a plateau south east of your home in the mountains.” Oh no, Taduk’s been carefully cultivating that idamare plant for years now, but something tells me she knew this. “Such good fortune, I found twenty-three rare plants and herbs all within a days walk of the village. You really should pay more attention to your surroundings, this was a veritable treasure trove right in front of your nose. I harvested them all since these sweet creatures your student is raising will need plenty of nourishment to grow big and strong. Ah, if you have need of any herbs then ask and I shall gladly offer a fair price.” As if adding insult to injury, Mama Bun hops out of Alsantset’s carriage and into Guard Leader’s arms, where she too receives a portion of the priceless treat.
+
+“You... You...” Choking on his words, Taduk turns purple with rage as Lin hops down to calm his temper. It won’t be easy, Taduk treats those plants like his babies, and now one of them is in the process of becoming rabbit poop. There has to be a story behind their relationship, it’s more intimate and familiar than I’d imagined. Maybe they were once lovers in the nighttime and had a falling out, or perhaps Taduk spurned Guard Leader’s affections for another woman.
+
+Oh, how deliciously sordid. I want to know more...
+
+“Horrid man.” Mila’s voice pulls me out of my imagination, her hands on her hips and mouth twisted in a pout. “You were going to leave without saying goodbye.”
+
+“Never, my love.” I didn’t think she’d be here to see us off. Hopping off of Mafu, I lift her into my arms and laugh as she melts in my embrace. “I’ll be counting the days until we meet again.”
+
+Pinching my sides, my freckled, fiery betrothed rests her head on my shoulder. “It won’t be long. I’ll finish your weapon then Papa and I will catch up as quickly as possible.”
+
+“You don’t have to do this, you know? I don’t need another weapon, you can just leave with us now.” Besides, I’m not too thrilled about her travelling with an unbound Spiritual Weapon in her possession, not to mention me walking around with one.
+
+Sensing my concern, Mila snorts and rolls her eyes. “You worry too much. I’ll be perfectly safe with Papa and an army of Sentinels at my side. It’s better for you to leave first, we can’t all travel together and you can’t afford to be late. You were summoned by the Emperor himself while I wasn’t even invited.”
+
+“Don’t be jealous.” Kissing her on the cheek, I add, “Once the Grand Conference begins, the world will finally know your worth. I look forward to seeing Captain Sumila take her place as the undisputed number one talent in the Empire.”
+
+“Hmph. Flattery will get you nowhere.” Experience has taught me otherwise, but a smart man doesn’t argue with women. There’s no winning, even if you're right. Especially if you're right. Squeezing me tight, Mila buries her face in my chest and Sends, “Stay safe and don’t do anything stupid, okay?”
+
+I’m so happy she learned to control her volume. “Yes, my love.”
+
+“And if you see Yan before I arrive, tell her even though she didn’t send a reply, I meant what I said in my letters.”
+
+Yea, Yan didn't reply to my letters either, but it's okay. From what I hear, she's been busy. “Okay, but why so cryptic? What’d you say?”
+
+Blushing furiously, Mila punches my arm lightly. “None of your business, just remember to tell her.”
+
+All too soon, it’s time for us to separate and it hurts to see her go, but before I can process my emotions, Yuzhen's voice sounds out for all to hear, booming over the bustle of the crowd. “Heroes of the Empire,” she begins, wholly in her element as Marshal of the North. Filled with vapid platitudes and trivial accolades, her speech is tailored to inspire devotion and adoration for said ‘heroes’ while not forgetting to thank the common people for their ‘vital support’. Her flowery praise makes it sound like we’re marching to put an end to the Father himself, yet she never mentions how we’re leaving the North vulnerable to attack. According to her, we’ll march to Central where the Defiled will be defeated in open battle, neat, tidy, and wholly unbelievable. As her speech comes to an end, she closes with, “These are trying times we live in. United we stand, but divided we fall. To this end, I bid you all to forget school or faction, clan or sect, city or province. We are all citizens of the Azure Empire, and together, we will drive the Defiled scum back from whence they came!”
+
+While the city erupts into cheers, I can’t help but laugh at her words. United we stand, but divided we fall? If that’s the case, then there’s no point going to Central. We’re all doomed. Asking the various factions of the Empire to work together is like asking a pig not to fart, both absurd and impossible.
+
+Okay, this isn't helping. What I need is a positive mental attitude. Who knows? Maybe I'm in for a pleasant surprise. Maybe, under the growing threat of Defiled, the numerous factions of the Empire will come together and set aside their grudges and self-interests. Led by the Emperor, nobles, officers, and common soldiers alike will forge new bonds and work in harmony to overcome the odds against us, repelling the murderous Enemy from our borders and wiping out the Defiled threat once and for all. Our victory will usher in a new age of peace and prosperity, an age where we strive for equality and freedom for all.
+
+And maybe Mafu will sprout wings and fly.
+
+I mean, crazier things have happened.
+
+Chapter Meme

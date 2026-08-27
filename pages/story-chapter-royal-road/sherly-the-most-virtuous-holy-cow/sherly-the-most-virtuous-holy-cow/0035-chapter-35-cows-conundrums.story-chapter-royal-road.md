@@ -1,0 +1,193 @@
+---
+id: a6b379ad-d725-5e52-86ef-f161626784b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 - Cow’s Conundrums"
+slug: 0035-chapter-35-cows-conundrums
+partOf: sherly-the-most-virtuous-holy-cow
+position: 35
+ownLength: 1752
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/3053280/chapter-35-cows-conundrums"
+royalRoadId: "3053280"
+---
+
+Chapter 35 - Cow’s Conundrums
+
+”I don’t have anything that actually uses my mana,” Sherly said, looking at her current status.
+
+[Level 15]
+
+[Evolution Strains: 371]
+
+[Skill Points: 2]
+
+[Current Skills]
+
+[Continuous Regeneration - Passive - Level 4 (Total Skill Points: 4)]
+
+[Fire Resistance - Passive - Level 1 (Total Skill Points: 0)]
+
+[Healing Light - Active - Level 1 (Total Skill Points: 1)]
+
+[Learning Language - Passive - Level 1 (Total Skill Points: 1)]
+
+[Mana-Regeneration - Passive - Level 4 (Total Skill Points: 5)]
+
+[Sword Mastery - Passive - Level 1 (Total Skill Points: 1)]
+
+[Weapon Skills]
+
+[Ignite Blade - Active - Mastery: 0]
+
+[Current Traits:]
+
+[Minotaur - Level 1 (Current Skill Points: 1)]
+
+“Aside from Healing Light, I guess. But that’s something I can only ever use in certain situations.”
+
+Sherly scratched her head. The morning was pretty quiet. Ishuin was asleep on her bed across the room, which was a little out of character for the elf.
+
+That allowed her to spend some time looking at her current and potential skills. Only, now that she had gained some more levels, her options had grown to an unsurmountable amount. Not only had Sherly gained more skills in general, the new skills she now had suspiciously belonged from creatures or evolutions that she didn’t have. Not to mention the variety of Evolution Traits she could pick and choose from.
+
+“Still no Humanoid Evolution Traits, though,” she mumbled.
+
+[That’s not going to happen anytime soon, Sherly,] Letters said. [You just had your first evolution.]
+
+“Sure… But how did I get a Gansha Evolution Trait? And what is it?”
+
+[You don’t have those in your world?]
+
+Sherly simply shook her head. She knew that her System Assistant could see her. They even had strict talks about her privacy, which Letters indicated that she could activate through her System Console. It would block sight, but not the messages.
+
+[Their nonmagical term is elephant.]
+
+“That, we have. So these are magical elephants?”
+
+[Correct. Instead of tusks, ganshas grow horns instead. That’s probably the connection you have with the trait.]
+
+“Mmm…” Sherly skipped past the Evolution Trait’s definition. She didn’t have anything against elephants, but they didn’t exactly appeal to her either. “What about this Elgforth Evolution Trait?”
+
+[Magical Elks.]
+
+“Still because of the horns?”
+
+[It’s probably also because female elks are also called cows. Oh, I suppose elephants too, I guess.]
+
+“These connections are too loose!” she hissed.
+
+[Well, there aren’t actual defined parameters on what Evolution Traits you’ll get, aside from your first evolution, and those that you can randomly acquire by consuming mana-cores. For all we know, the ones that you eat had eaten some of these Traits themselves, and then passed them on to you. That’s why it’s always recommended to regularly check what’s available to you.]
+
+“How expensive are they?” Sherly asked next.
+
+[They each cost 700 Evolution Strains and a Skill Point.]
+
+“Oh, well… I can’t even pay for them.”
+
+[Yeah. Whenever you evolve, the costs of your next Evolution Traits become more expensive. Some may also disappear, if you don’t choose them, depending on what evolution you choose.]
+
+Sherly tilted her head, frowning. “And I bet no one’s made a list of which ones disappear whenever you choose something else, right?”
+
+[Exactly. So choose carefully.]
+
+The cow-chilim made a quick read of all her possible Evolution Traits. But none of them appealed to her, except for the elgforth one. The cheapest trait was 500 Evolution Strains, so she decided to just save up until she got 700 to get the elk evolution.
+
+[You’re not going to read what it’ll give you?] Letters asked.
+
+“I get too excited whenever I look forward to something,” Sherly explained. “I’ll check it once I get enough strains to exchange for it.]
+
+[Alright. What about skills then?]
+
+“Oh, yeah, I have to ask you about that too.” She quickly navigated her System Console to get to the skills section. “How come I have Falcon Dive and Burst Leap? Cows neither dive nor leap. Well, they jump, sure. But not burst jump.”
+
+[They’re recommendations by the System based on how you perform whenever you’re gaining your levels. I assume Falcon Dive was given because of what you did when you entered The Gap.]
+
+Sherly gave it some thought. “That’s actually pretty considerate. So if I spend my time gaining levels, let’s say, by punching my enemies, I’ll get a skill that’s centered around punching?”
+
+[Exactly. Sometimes, you’re also given a skill to help you with the challenges you faced while you were leveling.]
+
+“Oh, and that’s why I have Burst Leap!” Though excited, Sherly made sure to lower her voice, on account of the still sleeping elf. The cow-chilim was too lazy to get out of bed. “Wow… That’s actually pretty neat!”
+
+[I assume you have your eyes on these two skills, then? Both of them use mana.]
+
+“Actually, there’s one more,” Sherly said, thoughtfully rubbing her neck, since her chin was a little far away than where her human mannerisms would actually reach whenever she pondered on something. “What about this one?”
+
+[Mana Block? It’s a pretty complicated skill, you know?]
+
+“What’s wrong with that?” Sherly tilted her head. “As I understand it, it works pretty much the same as Mana Shield, in that it surrounds the caster with a shield made out of mana to take the brunt of any incoming damage. The difference is that this one only lasts for a second, and that tradeoff actually allows the caster to make a stronger shield by investing more mana into that moment, instead of spending that mana to sustain or repair the shield.”
+
+It took a while for Letters to reply.
+
+[Well, if you can match the skill check that Mana Block requires, you can actually recoup half of the mana you spent casting it. Your blocks need to be perfectly timed for the skill to work at its best performance. The shield would be even stronger on top of the recouped mana. If you really think that’s better than just getting Mana Shield, then I won’t stop you.]
+
+“There’s nothing stopping me from taking Mana Shield later, right? Or do skills also disappear after I choose a different one?” As far as Sherly could recall, none of the skills she had seen before had disappeared. She was just being cautious.
+
+[No, the skills stay. Don’t worry. It’s just that you can only really level up so fast in the early stages. It’s wiser to invest in skills that you will actually be able to use even many levels later.]
+
+“Yeah… I guess you’re right.” Sherly remembered that she had only ever used Healing Light once after she had learned the skill. She was still adamant, however, that the skill would be useful in the future. And so was her impression of Mana Block. “I think I’ll still give it a shot. Give me Burst Leap as well.”
+
+[Burst Leap costs an additional 100 Evolution Strains on top of the skill point.]
+
+“No problem.”
+
+Sherly laughed weakly as she read through the System’s notification. She couldn’t call it a definition without twisting some logic inside her head. She didn’t mind the sass, however.
+
+Sherly frowned at that one. The message seemed pretty curated for her, but she couldn’t be too sure.
+
+“Is it really not you sending all these System Notifications, Letters?”
+
+[It’s not me. I just submit your selections. It’s the System itself that gives you those notifications.]
+
+“So is the System watching or something?”
+
+[Well… It does. But any further clarification of that would toe the line of authenticated information that I can give to you. So I think we’ll stop at that one.]
+
+“Does that also mean that you’re actually someone at the other end of that screen?”
+
+Again, Letters took a while to respond. [What do you mean?]
+
+Sherly stared at the ceiling, trying to come up with the proper words to avoid being offensive.
+
+“I mean, you have an actual physical body, and you’re speaking or typing out your words. Or maybe you’re an integrated consciousness? Someone who was alive before, but now you’re a part of the System? Artificial Intelligence? I don’t know. Sorry, I’m just blabbering.”
+
+[No, I understand. I’ve been waiting for you to actually sit down and ask that question. To give you a clear answer, I was born from the System. We undergo preparation, given knowledge required to become System Assistants, and then we’re assigned to a Wielder. Not everyone gets one, but I was lucky enough to be assigned to you.]
+
+[How I develop in the future is totally up to you. How much I can help you out, if you’ll ever hear my voice, or if I’ll ever have an actual physical body, they’re all up to you.]
+
+“And that means, I need to level up more, right?”
+
+[That’s right.]
+
+Sherly smiled. “I look forward to the day I can meet you personally, Letters.”
+
+[Me too.]
+
+“And maybe we can have you get a proper name.”
+
+[No. I think Letters is fine.]
+
+Sherly took all of her energy to get out of bed and get breakfast. They were having chicken soup and biscuits. Not the best combination, but she was growing accustomed to the meals she was being given. There was also the option of hot tea or coffee, which she chose the latter.
+
+Not soon after, she was joined by a still slightly sleepy Ishuin. The elf sat next to her, and no one present dared to bother the caravan leader.
+
+“You were snoring,” the cow-chilim whispered after they had become a little more isolated.
+
+“Everyone snores, Sherly. It’s a sign of recovery.”
+
+“Is it?”
+
+“No, that’s just bogus talk. Did you sleep well?” Ishuin asked, taking a sip of her soup.
+
+Sherly nodded. “Yeah. I have a few skills I’m pretty excited to try out in the dungeon.”
+
+“You can try them today.” Ishuin made a huge yawn, still feeling pretty tired. “We’re going hunting later at noon.”
+
+“What for?”
+
+“We need some budget for provisions to bring into the dungeon.”
+
+Sherly tilted her head, confused. “Don’t we already have plenty in the caravan?”
+
+“Those are provisions for the caravan,” Ishuin explained, smiling this time. “And while it’s true that some of the rewards we’ll gain in the dungeon will also be for the caravan’s benefit, I’d rather not take from our stash if we can help it. Besides, you don’t mind doing a little hunting, right?”
+
+“You bet!”

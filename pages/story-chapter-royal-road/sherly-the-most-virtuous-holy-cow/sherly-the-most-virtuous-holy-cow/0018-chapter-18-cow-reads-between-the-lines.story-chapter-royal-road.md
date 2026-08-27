@@ -1,0 +1,163 @@
+---
+id: af7f1c4a-967b-5b67-9dc9-3eca3f18dfed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 - Cow Reads Between The Lines"
+slug: 0018-chapter-18-cow-reads-between-the-lines
+partOf: sherly-the-most-virtuous-holy-cow
+position: 18
+ownLength: 2037
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2613038/chapter-18-cow-reads-between-the-lines"
+royalRoadId: "2613038"
+---
+
+Chapter 18 - Cow Reads Between The Lines
+
+”You’re lucky that I always bring my hand-me-downs with me.”
+
+Sherly and Maymay were in one of the magically-engineered vehicles of the caravan. Ishuin had left them for a bit to get Kasta, leaving the cow-chilim a stronger version of the Spell that allowed her to talk with human words. In the meantime, the dog-zilim was choosing some shorts and undergarments for the newly evolved cow-chilim.
+
+“Here you go.” Maymay brought out two sets of undergarments and two pairs of shorts. There was no variety to them, Sherly realized. The undergarments were plain white, clear of any patterns, and the shorts were black.
+
+The chest undergarments, however, looked different than she expected. Still, they were oddly familiar. Rather than the cute and pretty bras, with all the frills and thin straps, the ones she received looked more like sportswear. They looked capable of handling extensive movement while being breathable and comfortable to the body.
+
+Sherly realized that these were perfect for someone like Maymay who moved around a lot. In fact, it seemed to be perfect for her purposes too. She accepted them with a smile and quietly put them on.
+
+The fit was flexible enough for her proportions. Even with Sherly’s evolved form, she hadn’t exactly suddenly grown into an adult woman. While she had been given a choice when sculpting her transformation, there had been clear limitations as to what she had been allowed to use. She was like an artist with not enough clay.
+
+In the end, she had ended up just being a head taller than Ishuin when standing upright. Her head, while staying as a cow, only grew a little bit in size in proportion to her new body. So did her legs. But not enough to outgrow Maymay, who was fully an adult.
+
+“They fit quite well,” Sherly said, facing the dog-zilim. “I look weird, though.”
+
+“That’s a natural reaction,” said Maymay. “Well, it’s probably doubly weird for you, since you were a human before. But it’s all just a matter of perspective. It took me a while to get used to my dog ears and tail. I do have the smell sensitivity of a dog, but the snout and nose doesn’t sit right with me unless I start aiming to be a chilim.”
+
+“Oh, right, you’re working from the other end of the spectrum.” Sherly nodded then put on her oversized shirt. Looking at herself in the mirror like this, she still couldn’t wrap her head around looking like a cow while standing and wearing clothes.
+
+Her arms were covered with a thin layer of white hair. If she squinted, she could convince herself as if she was just wearing some long sleeves. But the most weird thing was her midsection. The evolved part. She had the chest, the stomach, and the waist of a human. They all hid underneath her shirt, but she could clearly see her figure within the shadows.
+
+Still need to get used to this…
+
+With no other choice but to move on, Sherly turned to Maymay, who was waiting for her with a pair of shorts in her hands. She turned it to show the backside.
+
+“You see this little strap at the top?” The dog-zilim demonstrated, lifting the strap and pointing to the button where it could be fastened. “That’s for your tail. Neat, right? Try it on.”
+
+Sherly did just that. Her hooves were a little in the way, but not something she couldn’t manage with a bit of adjusting. The fit was just right. They were shorter than the usual shorts she was used to wearing, with the ends barely showing from underneath her oversized shirt. There was a snug space for her tail to slip into, and the strap above was like a second zipper she had to close to secure her tail in place.
+
+That was the other thing that she had to get used to, she realized. Her tail. It hadn’t been a big problem when she was still a full demon-cow. But now, she had sat on it by mistake a couple of times already.
+
+For now, though, she appreciated her new look. She definitely still had a long way to go, but this was as good a start as any.
+
+A knock came from the door, which Maymay quickly opened.
+
+”Oh, wow, she really did evolve! Ain’t you a beauty!”
+
+Sherly turned to find Kasta entering the carriage. She had a sway in her steps, but it didn’t seem to be because of the booze in her hand. Probably because she was merrily celebrating for the cow-chilim’s sake. Ishuin was with her.
+
+“Thank you,” Sherly said, giving a slight bow. “I didn’t expect you to recognize me that fast.”
+
+“Context clues, reading between the lines, retaining information and recalling them at the proper time, and all those wonderful things that makes explaining a lot less tedious than it has to,” Kasta replied, pointing towards the dog-zilim. “Unless little Maymay found another awakened cow somewhere, I’m only gonna assume it’s you.”
+
+“Fair enough.”
+
+“Yeah.” Kasta gave a nod. “Also, you’re intending to grow into that shirt, or what? Ain’t that like two or three sizes larger? Ishuin looks like she’s in her mid twenties after missing all her growth spurts. You look like a young teen who’s had more growth spurts than you’re supposed to have, but I don’t think you’re going to fill out that shirt anytime soon.”
+
+“Why did you have to say it like that?” Ishuin asked, crossing her arms. “You’re lucky I like you.”
+
+Kasta stuck out her tongue playfully.
+
+“It’s a comfy shirt,” Sherly said, answering the question. “I can get by with these until I can afford my own clothes.”
+
+“Fair, fair. So, when’s the party?”
+
+Sherly blinked, looking towards her companions. Ishuin and Maymay’s knowing smiles told plenty of her confusion.
+
+“So it really is a thing, then?” Sherly asked. “Throwing parties to celebrate an evolution, I mean.”
+
+“‘Course it is!” Kasta said, chugging her mug.
+
+Her satisfied exhale was a little tempting. Now that she was amidst a certain calm, Sherly couldn’t help but wonder about what other flavors she would be able to enjoy in this world.
+
+This world that embraced evolution. Whether a person wanted some traits of an animal, or an animal awakening and attempting to become a person, this world catered to them. Not in a sense that this was the only sensible choice for anybody with the means. There were cases like Ishuin, who wanted a specific zilim evolution. There were others still, who had no interest in changing their bodies. But at the very least, Sherly understood that she didn’t have to suffer any hypothetical shenanigans, as if she had been the only creature in this entire world capable of taking advantage of Evolution Traits.
+
+It was such a natural thing to the point that people celebrated a successful evolution like they would a birthday. On the contrary, she assumed a failed evolution would be akin to a burial.
+
+Such was the natural order of this world.
+
+“So?” Kasta asked, dragging Sherly back to her reality.
+
+“Hmm?”
+
+“Watchu cravin’ for?” The human had both hands proudly on her waist. “Might not be obvious, but I’m the best cook in the Claw.”
+
+“Oh, then I would like some meat!”
+
+“Then meat it is!” Kasta went to one of the larger vehicles. “I’ll be in the kitchen! Call the others in a couple of hours.”
+
+“I’ll help!” Maymay said, jogging and waving Sherly and Ishuin goodbye. “See you later!”
+
+With the two of them left alone, the elf turned to her with an expecting smile.
+
+“You look good,” she said.
+
+“You already saw me with my shirt on.”
+
+“I know.” Ishuin gave a small nod. “I didn’t get to say it earlier.”
+
+“Well, thank you.”
+
+“You’re welcome.” The elf started heading towards the door. “Let’s go. Since it’s just the two of us, I might as well help you buy some stuff.”
+
+The conversation skipped a bit in Sherly’s head. “But I’m not allowed in Crossmark.”
+
+“Well, you are now. Before I went to Kasta, I submitted our quest earlier. I also asked Captain Braum to vouch for you. Even if he’s no longer a member of the Claw, he still saved the town. So, after clarifying that with the Guild Hall, the town mayor came and personally provided you your permit.
+
+“Braum was given 200 gold pieces as a reward, but I’m giving it to you, instead. I don’t think he’ll mind. You did save his men. If you ask me, 200 is pretty cheap compared to what you did for him, but you can get some solid gear with this much at least.”
+
+A thought came to Sherly’s mind. It wasn’t the smartest idea, nor was it something she would do anyway, but she still brought the option to the table.
+
+“What if I just use this to buy that Ruingrass? If Duis’ Skills can make that potion more expensive than 200, surely the ingredients are somewhere under that price range, right?”
+
+Ishuin held the door open, urging for Sherly to walk and talk. The cow-chilim followed.
+
+“Sure, if you want. And if we can find a seller. Ruingrass is that expensive because it’s so hard to come by in the first place.”
+
+“What if I just give all of that the Duis, instead?”
+
+“I wouldn’t recommend it.” Ishuin laughed. “Not only is he not good with money, but he’ll also think that you’re patronizing him. I doubt it would change his mind about you.”
+
+“Was worth a shot.”
+
+“You’re really trying to smooth that crease between you, huh?”
+
+Sherly frowned. She didn’t like what the elf was insinuating with her words. Just like what Kasta had said, she needed to read between the lines and take context clues. And what Ishuin was implying was something that made her uncomfortable.
+
+“It’s not like that,” she said coolly. “I hate having to feel indebted to someone. I’d rather I clear up my debt and move on with a clean conscience.”
+
+Ishuin smiled, wrapping an arm around Sherly. The cow-chilim was only about a head tall, so it didn’t cause the elf too much of an effort.
+
+“Sherly, you’re not indebted to Duis. Nor to me, nor to Maymay, nor to anyone. You risked your life back there to help as many lives as possible. Regardless of whether you had some special potion to help you do it, your gesture alone, protecting these strangers, speaks a lot of you as a person.
+
+“Duis has his issues, sure. Once we’re back to Crustia, we’ll help him sort it out, but you’re not indebted to him whatsoever. I won’t stop you if you still want to do something for him. As long as it makes you feel better. But I’m telling you now that you don’t owe him or us anything.”
+
+“Alright,” Sherly said, nodding. “I don’t exactly want to give him my money anyway. It’s better to invest it in gear so I can get stronger, and then I can go look for this Ruingrass myself.”
+
+Ishuin proudly patted the cow-chilim’s shoulder a couple of times before letting go.
+
+“That’s the spirit!”
+
+It didn’t take long for them to reach the guards. They were the same pair who had guarded the gates on their first day in Crossmark, the silent one, and the mean one. Both men stood alert, eyes indicating that they were prepared to retaliate should Sherly force her way in. They only acknowledged the fact that she had evolved under the premise that she would be rampaging through the town with her new form.
+
+“Guys, I’m not even holding a weapon.”
+
+“News must be slow in your town, boys,” Ishuin said, bringing up a piece of scroll. “I have Sherly’s permission right here. Now let us pass.”
+
+The two guards looked at each other.
+
+“Well… It certainly looks legitimate,” said the mean guard. “Please, just make sure you keep her company the entire time.”
+
+“As if I’d leave her alone!” Ishuin turned with a huff, dragging Sherly by the arms. “Stupid idiots!”
+
+“Calm down, Ishuin…”
+
+“No!”

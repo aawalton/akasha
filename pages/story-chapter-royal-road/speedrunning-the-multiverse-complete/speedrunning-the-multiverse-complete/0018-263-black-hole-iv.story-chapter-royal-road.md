@@ -1,0 +1,173 @@
+---
+id: 35ce29af-0a72-55e2-909d-400cfa5da08d
+page-type-slug: story-chapter-royal-road
+title: "263. Black Hole (IV)"
+slug: 0018-263-black-hole-iv
+partOf: speedrunning-the-multiverse-complete
+position: 18
+ownLength: 2040
+unit: words
+ownProgress: 2040
+publishedAt: 2023-07-15
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1277700/263-black-hole-iv"
+royalRoadId: "1277700"
+markedReadAt: "2026-06-29T22:42:17.170Z"
+---
+
+Dorian emerged to a slaughter. At first he couldn’t comprehend what he was looking at. There was Gerard, in Midnight Roc form. Breathing heavy. Collapsed on the floor, glasses crushed at his feet. Bones jutted through his feathered skin. A tear exposed his crushed ribcage. Others carved up his arms. He was so bloody Dorian could scarcely tell it was him.
+
+One of his wings had been sliced off. The other hung on by a few ineffectual scraps of tendon. Limp. His legs had been sliced off at the knees.
+
+Standing before him, chest thrust up in defiance, was Gerard Jr. Space qi shimmered around it. Its eyes shone with rage. It seemed ready to make its last stand.
+
+“At last,” breathed Nujia. “He arrives!” The Skyfox’s tails burned like bonfires at the sight of Dorian. By her side were an ogre, a minotaur, a centaur—the last one a Godking, his speartip glistening with Gerard’s blood.
+
+Dorian took these facts in coldly, yet his blood roared hot in his ears.
+
+Nujia sauntered up to him. Her grin was sultry, mocking. Her claws were unsheathed, glinting, burning at the tips.
+
+“In Ur our dance was cut short! But I have not had my fill of you—”
+
+She choked. Hard not to, when his clawed hand was clamped so tight around her throat.
+
+Her allies shouted, started, readied their weapons. They seemed as shocked as she was. Which was to say, very, very shocked.
+
+Dorian smiled with none of the mirth.
+
+“Now—fucking me up is one thing,” he said softly. “But you really had to take it out on poor old Gerard. Who does that? All he does is water plants and read books!” Nujia’s face grew paler by the second. There seemed to be no blood going to her head. She hacked at his arm, thrashed at him, but they felt like the flails of a toddler. Her hands tried prying at his own, glowing with golden strength. You’ll need to try harder than that.
+
+Fire roasted the air. A giant fireball, surely a fierce thing, in an absolute sense, filled with some very impressive Laws.
+
+But who tried burning a Torchdragon? There was practically a warning against trying it embedded in the name. They gave him a tickle, but not nearly enough to make him drop her. Then she tried teleporting out in a flash of fire. But Dorian saw the Laws of Fire sputtering in the air about her and scoffed his disapproval at them. They flickered out.
+
+His hands gripped harder. There was a crunch. Nujia’s eyes bulged desperately.
+
+By now her allies had recovered enough to mount a counterattack. Dorian’s smile widened.
+
+The Ogre King roared, slinging a mace at him. But he flicked up a lazy wing with his [Shield of the Blood Moon]—and where the mace touched there was a burst of light and sound. The Ogre was sent flying.
+
+Next came that minotaur with his fiery axe. And it was like he hadn’t learned from his poor friend’s demise not a half-second before! For he hacked at Dorian’s other wing, and ate some shit of his own.
+
+Last was the Godking with the spear, slow to act. His expression was either wary or reluctant. Maybe both? “Wait,” said Dorian. “Aren’t you Pliny? The historian and curator?”
+
+The centaur flinched at the name. “Gerard tells me nothing but great things about you! Though…” Dorian eyed the tip of his bloodied spear. “Evidently he’s left some important things out.”
+
+“It isn’t personal,” croaked Pliny. The tip of his spear trembled. “I’m sorry—”
+
+“No. You aren’t.” Dorian’s hands clenched. There was one last crunch. And Nujia stopped resisting. She’d left some papercuts on his arms. Maybe signed a few of his hairs! He probably could’ve finished her off without allowing all that, but this way felt right.
+
+Probably because he was fucking furious.
+
+“If you were sorry you wouldn’t be here, would you? Let’s not kid ourselves! From one horrible person to another—just own it. Life gets so much simpler.”
+
+The other two Empyreans had picked themselves up. They weren’t very hurt, just startled. And these were hulks, tanks, unlike Nujia.
+
+Dorian had this funny feeling they’d crumble just the same.
+
+He opened his hands. One shone like a moon on a sky with no stars. The other like a comet in a cloudless sky. All his aura poured out into the world.
+
+“G-Godking!” spluttered the Ogre.
+
+“No, fool! See those Laws? Empyrean,” snapped the minotaur, hefting his axe. “Besides—we’ve got the Infinity to draw on. Don’t get in your head.” “He’s right,” commented Dorian, eyeing him lazily. “Say—it was that axe that split Gerard up the ribs, wasn’t it? Tsk, tsk.”
+
+He’d meant to Sunshine Step to land right in front of the beast, but he was still in that awkward phase post power-up when his body hadn’t gotten used to his strength. He plowed right into the fellow; they tussled, skidding some twenty strides before landing, facing one another.
+
+Dorian had gotten his hands on the haft of the battle axe. But the minotaur must’ve been a veteran—even bowled over he hadn’t let go of the thing. He must’ve deduced what Dorian was about to do, for a surge of gold qi went into his hands, and suddenly his grip was several times stronger. It made Dorian lurch forward, off-kilter.
+
+Then he steadied himself, frowning, and really pulled.
+
+There was a moment of deadlock. Gold qi coursed into the minotaur’s hands. It gritted its teeth, snorting, feet planted. The harder Dorian pulled the more gold qi it drew. Dorian got the impression it wouldn’t let go unless its fingers fell off.
+
+I can work with that.
+
+He yanked hard.
+
+The minotaur screeched as gold qi rushed into his fingers in a torrent. Flesh flaked off the bones, which glowed so bright they looked like gold bars. One more yank and he tugged toe axe free—along with half the minotaur’s fingers.
+
+He examined the axe—sturdy wood handle, runes glowing on its sides. They seemed to suggest it was enchanted to cut organic matter especially well. Gerard’s blood staining the axehead attested to it.
+
+“Nice axe,” said Dorian, and split the minotaur’s head in two. His brain matter splattered the earth; his blood splattered the axe head, splattering Gerard’s. Blood for blood. His body slumped, twitching, to the ground.
+
+The ogre seemed incensed. It made to rush forth, but Pliny held it back. He treated Dorian to a calculating gaze.
+
+“Support me,” he said. “I will deal with him.”
+
+“Good call.” Dorian started twirling the axe between two fingers, faster and faster. It shrieked as it spun, and with the way the blood caught the light it seemed a wheel of fire.
+
+“Pretty spear you’ve got there, Mister Traitor! Care to show me how it works?”
+
+“If you insist,” sighed Pliny.
+
+They charged one another.
+
+Things seldom caught Dorian off guard anymore. After his Bloodline had reached the Fourth Form his [Serpent’s Senses] pretty much eliminated the need for reflexes; he saw everything coming. So he noticed instantly how weird Pliny moved the instant the centaur set down a hoof.
+
+It wasn’t that Pliny moved particularly fast. But it seemed like the earth was shifting under him, even as he thrust himself forth, so each pace covered double the distance. An illusion? No, no—that’s his Dao. A Dao of the Earth.
+
+There was no subtlety to Pliny’s spear. Blossoms spiraled off it as it moved. One clean, elegant stroke aimed squarely at Dorian’s head. Its target was obvious to anyone, its arc fixed. Even so, Dorian had a gut feeling that if he tried dodging that spear would find him regardless. There was a subtle quality to the way it negotiated distance, to that smooth arc of its path.
+
+In the hands of a master a strike of immense complexity can appear as simple as if it were a child’s.
+
+Dorian raised the axe, grinning madly, and met his blow head-on.
+
+Speartip met axe edge.
+
+An explosion. A great rippling of sound. The grasses for a hundred strides were matted to the earth and Dorian gritted his teeth, muscles working furiously, his heels driven deeper and deeper into the dirt.
+
+Of all the gods those specialized in Earth and its cousins hit the heaviest. It felt as though Pliny had dropped the weight of a mountain on the tip of a spear.
+
+But even so, Dorian felt strong. His body was boiling over with qi, gushing out of his core and packing into his muscles. A wave of fresh power hit him like a jolt of electricity. Roaring, he shoved harder.
+
+Pliny frowned.
+
+Then he skittered back a pace, yielding the exchange.
+
+Dorian dashed in, pressing his advantage. But Pliny wasn’t retreating, not fully. Already the Godking was twisting his spear in a high arc, coming back for another blow.
+
+Dorian sent his axe to meet it—
+
+A giant spiked metal ball hit him in the face.
+
+It didn’t hurt. With his scales he could laugh off a hundred of these things. But the trouble was, a hunk of metal several tons heavy slamming into you mid-air still sent you tumbling.
+
+The ogre! Dorian snarled at it. He considered blasting it with a breath, but with how supercharged his attacks had been of late he might end up terraforming the realm on accident. And killing Gerard. It shot him a slick grin before ducking behind Pliny, where it was safe. It had the nerve to stick out its tongue at him. A child’s taunt, but you’d be surprised how many powerful warriors could lose their shit at nonsense in the heat of battle.
+
+“You have grown powerful, Dorian,” sighed Pliny, and Laws crackled around his body so strong they were visible to even mortals. The earth loved him like it loved no other—that was the privilege of the Godking. “You are more powerful than I ever thought possible of an Empyrean. But I am a Godking ranked eighty-six. The gulf between our Laws is too vast. Stand down, and I will spare Gerard, treat him, and make certain he makes a full recovery. This I promise you. We needn’t escalate things further.”
+
+The centaur looked tired, like an old warrior returning from a long war, only to find one last battle waiting for him. It wasn’t that he was scared of Dorian. It was simply that he sensed Dorian wouldn’t go down easy; he didn’t want to have to go through yet another drawn-out duel. Please don’t make me do this, his eyes seemed to be saying.
+
+“Ah, so now you want the peaceful way out. Sorry, but I’m afraid it’s far too late! Should’ve brought it up before you stabbed my friend full of holes, eh?”
+
+Dorian hefted his axe.
+
+“You cannot defeat me,” said Pliny.
+
+“No?” Dorian frowned. “You sound so confident.”
+
+“I have observed you with Nujia. And with Ajax. And in that exchange, just now. I have gotten the measure of your powers. You don’t want to do this.”
+
+“He does!” crowed the ogre. “He’s cracked in the head! You can’t seriously think you, a mere Empyrean, can beat a top ranked Godking, can you? It’s never been done!”
+
+“Ah, but it has. Houyi twice, and Fate too,” said Dorian, smiling lightly.
+
+At that the ogre burst out laughing. “You hearing this? He thinks he’s Houyi! He thinks he’s Fate! I’ve got news for you, buddy—”
+
+“Hey, want to hear a secret?”
+
+“Huh?”
+
+“Don’t tell anyone…” Dorian leaned in conspiratorially. “But I was actually only using a third of my powers all that time.”
+
+Centaur and ogre just blinked at him.
+
+“Here—I’ll prove it. Catch!”
+
+In a blur of motion he cocked the axe back, flooded his arm with qi, and threw with all his might.
+
+Pliny dodged. But the axe hadn’t been meant for him.
+
+The ogre’s head splattered like a crushed mellon.
+
+His body flopped behind the axehead, stuck, as the axe flew through the air, scarcely slowed. It burrowed into a mountainside and was gone from sight—though you could still hear thunderous booms as it went deeper and deeper through the stone.
+
+“I liked that axe,” sighed Dorian. “Oh, well.”

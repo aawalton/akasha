@@ -1,0 +1,157 @@
+---
+id: 396dd8f7-6b10-5f0c-a96a-26f0f4f61a71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Thornfin Lurker"
+slug: 0017-chapter-13-thornfin-lurker
+partOf: shapeshifter-a-non-human-litrpg
+position: 17
+ownLength: 2094
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3386212/chapter-13-thornfin-lurker"
+royalRoadId: "3386212"
+---
+
+Xen found acting weak difficult, which was made all the worse by Hina watching him like a hawk from the trees. Having already blundered once by noticing a Canopy Stalker moments before it struck, he now made sure to keep looking forward.
+
+He had hoped that healing Hina would foster some goodwill, but considering she spent more time squinting at him than doing her job, he suspected it hadn't worked.
+
+"Daisuke, do you have any detection skills?" Xen asked the Arcanist to his right, giving him an excuse to look to the side and cast Appraisal on the monster approaching them.
+
+[Thornfin Lurker (Level 41)]
+
+It wasn't the only one. Xen counted seven encircling them, only keeping a cautious distance because of his Orbs of Light, but he could tell they were growing restless. A fight was going to break out any second, but none of his party members seemed aware, especially with Hina's focus drawn to him.
+
+"Huh, me?" Daisuke had been distracted by something. "No, I don't possess such a useless skill. Instead, I was blessed with incredibly rare skills such as [Mana Siphon (B)]. It drains mana from a target and converts it to my own. Do you understand how unstoppable I am now? I can fight forever in theory."
+
+Infinite mana doesn't matter if you're dead, Xen thought. Though I will admit that skill sounds superior to any of my mana regeneration skills. All I have is [Soul Leech (D)] and the Undead Mage passive [Corpse Conduit]—the former only works on weakened enemies, and the latter on corpses.
+
+"Does nobody in this party have detection skills?" Xen asked the group, using the opportunity to survey their surroundings and cast Appraisal on more lurking monsters.
+
+[Thornfin Lurker (Level 42)]
+
+[Thornfin Lurker (Level 44)]
+
+[Thornfin Lurker (Level 41)]
+
+[Thornfin Lurker (Level 40)]
+
+[Thornfin Lurker (Level 45)]
+
+[Thornfin Lurker (Level 42)]
+
+Upper C-grade monsters, all in the level 40 range. Trivial for him and this party if they were prepared.
+
+However, Xen couldn't see the monsters, as the black water hid their bodies well. But by combining Appraisal with Geomantic Perception, he could successfully use the skill so long as he had a direct line of sight. A moment later, one strayed close enough to his ring of light for him to get a glimpse.
+
+It was roughly two meters long, eel-like in body shape, but with six powerful limbs ending in hooked claws that gripped the submerged roots, allowing it to move without making ripples on the water's surface. Its skin was translucent, and through it, a faint green light from its organs was visible. The monster cast a hungry look at Daisuke's leg before showing self-restraint and vanishing back into the darkness.
+
+"Hina is our eyes and ears," Alex admitted from the front, utterly unaware of the monsters' presence. "Her class is all about heightened perception and hunting, allowing her to pick out monsters before any of us."
+
+Well, she is terrible at her job, Xen silently thought. At this rate, we are going to get ambushed. I'm starting to see why this group might have lost to a bunch of slimes on the 11th floor, as they also lacked a healer.
+
+The strength of a well-balanced party is something he had figured out long before unlocking the Shapeshifter class. The black wolves of the first floor, no matter how mighty, would be butchered by a well-organized party. On the other hand, he had seen Hunters get overconfident and delve solo, only to meet a pack of wolves and be devoured.
+
+Perhaps sensing his growing unease, Alex laughed and added, "Don't worry, what we lack in awareness, we make up for in defense. Kenji and I both possess taunt abilities to keep the enemies off you."
+
+"That's good to know," Xen admitted. "But I have to ask, why not add someone to your party who has a mana detection skill? It would make traversing floors like this far easier."
+
+Daisuke snorted. "That's fairytale thinking. With the limit of five skills given upon awakening, sacrifices always have to be made. A mage that has a mana detection skill will have traded it for a mana regeneration or offensive skill."
+
+"Is that defensiveness I hear in your tone, Daisuke?" Alex said with amusement. "It's okay, I accept you for who you are..."
+
+Daisuke scowled. "Shut up."
+
+Kenji helped fill Xen in on the joke. "Most Arcanists do possess a mana detection skill, the lack of which denied Daisuke entry to the top parties and left him stuck with us—"
+
+"Guys!" Hina yelled from above, immediately changing the mood of the group. Everyone became alert, Alex raised his shield, and Kenji had already positioned himself closer to Xen, with his butcher knife raised and ready. "Thornfin Lurker's inbound, get ready!"
+
+Finally, Hina had caught sight of the monsters, and not a second too late.
+
+The water beside Alex's left leg erupted without warning.
+
+The Lurker came up fast—all six limbs spread wide, claws leading, aimed at the gap between the shield's lower edge and the waterline where Alex's thigh was exposed. Alex fell forward with his weight and caught the monster on the shield's face with a grunt, the impact of metal on claws ringing out through the trees and sending a wave outward in every direction.
+
+"Here we go," Kenji said, with what Xen could only describe as odd excitement. He gathered wind in his chest and shouted, "Intimidating Roar!"
+
+[Nearby Enemies Taunted] A system message flashed across Xen's vision. It didn't seem long-lasting, but it definitely drew the monster's rage.
+
+All seven Lurkers came at once, the water around them detonating.
+
+Lurkers came from every direction, the pale green glow of their organs radiating through the black as they cleared the surface. As the battle began, the Drowned Canopy, which had been eerily silent until now, was bathed in noise. Crashing water, Daisuke shouting an incantation, "Arcane Barrage!" and the deep metallic clang of a second Lurker hitting Alex's shield so hard that he slid back half a meter through the water.
+
+The Thornfin Lurkers were utterly savage, with strength and speed that didn't match their bodies at all.
+
+Kenji swept his knife in a low horizontal arc and caught one Lurker mid-breach, sending it spinning with a crunch. Another came in from behind him, and he pivoted with his elbow, catching it across the head with his forearm guard. Not a killing blow. He didn't care. His attention was already on the next one.
+
+Xen stood still.
+
+This was the part he found genuinely difficult. Not the danger, as it was honestly negligible. He could step out of the way of every one of these things without breaking a sweat, pivot around them, and put them down before they registered he'd moved.
+
+No, what was difficult was resisting the urge to kill and keeping up his weak persona amidst the chaos as Hina continued to observe him. He remained frozen in "fear" as water splashed around him. He hesitantly raised his staff and looked like someone who was hoping that the large man beside him would remain standing.
+
+A Lurker got past Kenji, the short-lived taunt having worn off.
+
+Not past him exactly—it had gone under, diving down beneath the surface as Kenji's knife passed over it. The monster came up directly in front of Xen, not a second later, with its six limbs already spread for the kill.
+
+Left with no choice, Xen sidestepped.
+
+Not far. Not fast. Just enough to dodge the beast. A small controlled step backward and to the right, the kind of movement that a person with quick reflexes might plausibly manage when something burst out of the water directly in front of them. The Lurker's claws raked across the left side of his short cloak instead of his torso. He performatively stumbled slightly in the aftermath, catching himself with his staff.
+
+The Lurker twisted in the water to reorient.
+
+Kenji's knife came down on it from behind, crushing its skull before it could try again.
+
+"You alright?" Kenji called, not looking at him—his eyes were already tracking the next one.
+
+"I'll live," Xen said, casting an unnecessary Flash Mend on himself before anyone noticed his natural regeneration.
+
+Nodding, Kenji lunged forward to finish off that dazed Lurker from earlier.
+
+Xen frowned behind his mask as he surveyed the chaotic battlefield. Besides Daisuke, who was condensing raw mana into blue-white bolts and blasting the Lurkers, the other two weren't using abilities. Even Hina seemed hesitant to join the fight.
+
+Are they conserving mana, as these monsters are considered weak? Or are they hoping I'll step in? Is this a test of some kind?
+
+Alex was holding the front flank alone, two Lurkers working in tandem to get around the shield's edges. One threatened his face, forcing him to keep his shield raised, while the other approached from below. The low one was going to get under Alex and tear his legs apart.
+
+Xen was about to step in when Alex finally took the scuffle seriously.
+
+"Shockwave Slam!" he roared, thrusting his shield into the water. It ignited with silver light, and a second later, a shockwave of water erupted out in a cone before him—popping both Lurkers like meat balloons. Their death was so violent that Xen expected self-destruction to be part of their hunting tactic.
+
+His theory was proved correct a moment later when he checked on Daisuke, who had taken a claw to the shoulder and was casting through it, teeth gritted, an Arcane Barrage building between his fingers in stuttering blue-white pulses that a haze from a dead Lurker was clearly interfering with.
+
+Their strange green blood creates an anti-magic haze upon death, which is a useful ability. I wonder if I could learn it? Xen mused as he came to Daisuke's aid.
+
+"Flash Mend." He aimed it at Daisuke's shoulder from a meter away without moving toward him. Daisuke's breath came back in a rush as the pain faded, and the Arcane Barrage stabilized, snapping into coherence, and he loosed it into the water on his right with a sound like a thunderclap. Two Lurkers went still, their ruptured translucent skin leaking green blood into the water that bubbled violently.
+
+Then Xen looked at Kenji.
+
+A Lurker had one claw hooked into the back of Kenji's knee and was pulling, trying to drag him down and off his feet. The Warbringer wasn't going down—his footing was too good—but he was facing three at once and distracted. The initial seven Lurkers had swiftly multiplied, Alex's loud shockwave skill having announced the battle to the entire Drowned Canopy.
+
+"Kenji," Xen called out loud enough for the man to hear over the chaos. "Behind your left knee."
+
+Kenji didn't question it. He twisted and dropped his elbow, connecting with the Lurker's head on the first attempt. The claw disengaged. He grabbed the monster by the back of the neck, raised it up, and gutted it with a brutal slash of his knife.
+
+The dying monster was then flung with the strength of a brute against a nearby tree.
+
+Hina's voice came from above. "Two more approaching from the north. Deeper water, coming fast."
+
+"Kenji," Alex said.
+
+"On it," the Warbringer said, turning toward the north. He crouched down and then charged. He rushed forward at such speed that it surprised Xen just as much as it caught the Lurker off guard. Kenji, obscured by a wave of black water, slammed into the monster the moment it crested the water with a bone-shattering crunch.
+
+An Arcane Barrage from Daisuke took out the other.
+
+Kenji swiftly returned to Xen's side, surveying the dark waters for any more enemies. There were some, but they were keeping their distance for now.
+
+"Good call there on the Lurker at my knee," Kenji said, giving him a friendly smile. "I get stronger with each wound, which leads me to grow careless, but not all wounds are the same. A ruined knee would bring me down no matter what."
+
+"Just doing my job as the healer," Xen said, casting a Flash Mend on Kenji as he was bleeding all over, having used his own body as a shield, unlike Alex.
+
+"Cheers," Kenji said, rolling his shoulder with an approving nod.
+
+The battle was over, but Xen could still feel Hina's gaze on his back.
+
+She's got to go, Xen quietly decided. She was far too perceptive for her own good, and he couldn't keep up this facade forever.
+
+The question was how.

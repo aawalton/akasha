@@ -1,0 +1,209 @@
+---
+id: 960f93a7-82a7-5849-b5a5-7a4eaf4ef4ab
+page-type-slug: story-chapter-royal-road
+title: "283. The Goddess of Light (X) "
+slug: 0039-283-the-goddess-of-light-x
+partOf: speedrunning-the-multiverse-complete
+position: 39
+ownLength: 1657
+unit: words
+ownProgress: 1657
+publishedAt: 2023-08-12
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1307672/283-the-goddess-of-light-x"
+royalRoadId: "1307672"
+markedReadAt: "2026-06-29T22:43:00.689Z"
+---
+
+“How’s it going up there?” yelled Dorian. His stalwart troupe of healers couldn’t hear him at first, so he opened a tunnel through the air to shepherd the sound through.
+
+“Can’t—hold—much—longer!” gritted Junior. “Please—finish! Soon!”
+
+Dorian’s best guess was they had about 20% left. The tithes were slowing down too. He weighed the odds in his head, then shrugged.
+
+“If any of you have qi elixirs, now’s the time to start chugging life your life depends on it—because it probably does!” he shouted. Then cut off the sound tunnel as the cries of protest started to leak through.
+
+“Alright,” he breathed. He opened his mouth, but this time his breath was not a man’s, but a dragon’s.
+
+A vicious heatstorm spawned in the midst of the cavern. If anything had been rooted to the ground—man, beast or stone—it wasn’t anymore! Some were incinerated on the spot. The others—the ones that’d had the reflexes to get their shields up in time—were thrown against the far wall, nailed to it by the sheer force of the inferno gales.
+
+They strained and twisted, but all they could do was shuffle along the wall; they couldn’t get an inch off it. As long as Dorian blew he could imprison them in two dimensions.
+
+Then he drew out his bow, still blowing, and started to shotgunning his makeshift arrow range.
+
+SHLUNK-SHLUNK-SHLUNK-SHLUNK-SHLUNK-SHLUNK-SHLUNK!
+
+The dragon’s breath was eating away at his qi far too fast; his qi recovery, even boosted, couldn’t keep up. His fingers were blurs, working as fast as he dared, but even so he only got through two dozen before he was forced to let them drop.
+
+He kept firing as hundreds of Empyreans, now made real, charged him from afar. He kept dropping the ones at the front, but soldiers behind them took their spot instantly, leaping over their fallen comrades, mindless drones of war. This time he couldn’t let them get close.
+
+When they got within fifty paces he blew again.
+
+A strangled cry came from above—one of his Empyreans collapsing. Then another. In a battle all the little people saw was the flashing steel, the sprays of blood, valor and the sacrifice, the intimate drama of war. But what a general saw, what Dorian saw, lay in a higher realm; the realm of strategy, impersonal yet critical. This was less a fight between people than an expression between two numbers. Two of his forty was less, by proportion, than a few dozen of about two hundred of his enemies. As he repelled the waves of Empyreans one by one it was clear he had the advantage.
+
+And so the battle was won. It was a simple matter of execution.
+
+A strange thought struck him then. This must be what his brother felt as he loosed his arrows. It wasn’t to Dorian’s taste. Too bloodless, too passionless. He preferred the thrill of the arena, the one-on-one, where life and death teetered on a knife’s edge.
+
+But this worked, he supposed. Eh.
+
+Soon the battle was done. Bodies littered the ground. Dorian let his crew fall, only to find only a dozen of them were still conscious. The rest lay drooling, limp, filmy-eyed. Including Junior, whose Godking aura was so feeble he could hardly feel it.
+
+“Are they alright?” rasped an Enforcer.
+
+“Oh, they’ll live! It seems I’ve overdrawn their cores,” he mused. “Nothing permanent. We’ll have to get that fixed when we get out. Speaking of…”
+
+The world around them was fading—the colors lightening, the sharp definitions growing fuzzier, taking on an impressionistic style.
+
+A swirl of color appeared in the center of the room, incongruous—like an oil painting set on the canvas of an otherwise realistic world.
+
+“That’s us.”
+
+They were all relieved to step through.
+
+They emerged to fresh air and the chirp of birds. The sun was high, the air was crisp and cool, and the sky streaked with clouds. Flocks of gulls wheeled overhead, riding the gentle breeze. It was a lovely day.
+
+“We’re free!” sobbed an Enforcer, dropping to his knees. “Praise Yeshima!”
+
+“Wait. Something’s not right here,” snapped Dorian. “The sky should be gold—”
+
+Shadows fell across them all. And like morons, they all looked up. A dozen screams filled the air. Then the anvils fell on them, crushing them flat, and there was silence.
+
+The anvil meant for Dorian bounced off his skull. He sighed.
+
+“Not funny!” he shouted at the sky.
+
+No doubt Lucy got a chuckle out of that. It was a mere painting of the world. A classic trick of hers—make them think the dungeon was over, get them to relax, let their guard down, and then whack them over the head. A parting gift before her world fully collapsed.
+
+This time the world faded for real. The sky changed to its proper gold color. The actual world resolved before him. Dorian waited a few seconds, holding out for more anvils, but none came.
+
+“Ironic,” he said, regarding his snoring troupe. “That the feeblest among you, the ones who failed first, survived in the end.”
+
+Though given this was the Church of True Light it was actually pretty darn fitting.
+
+How long had it been? It was hard to say. The sun gave no answers. Time got fuzzy when you bent space like Lucy did.
+
+“Stay put, all of you,” he said to his unconscious men, as if they had a choice in the matter. “I’ll be right back! I’ve got a body to collect.”
+
+***
+
+On a beach in Sylvian…
+
+The thirteenth-ranked Godqueen in the Multiverse lounged on a beach chair before an emerald sea. Tortoises bobbed along the waves. Eels chased one another in arcing leaps, dusting the air with sea mist. To either side of her, a shirtless male elf fanned her with a giant dried lotus.
+
+But her attention was on none of these things. Instead, through a pair of sunglasses, and through a pair of enchanted binoculars beyond that, she stared at a scene from an entirely different plane.
+
+“There go the anvils! I had so much fun painting them. Ah… no. What a shame. He’s wise to my tricks, it seems. No souls for me.” She set down the binoculars, kicked her feet back. “Cleared in six hours? My. You brought far more firepower than I expected. Fair play, Dorian. Fair play.”
+
+“Jez will not be pleased to hear of this,” said the elf.
+
+“That is why we shall not tell him,” said Lucy.
+
+“He will be even less pleased at that,” warned the elf. “He may fault you for not warning him. He will fault you for your failure to hold Dorian. If you do this he will come after you.”
+
+“Hush. None of this dreariness! Not when it is so lovely out.” She closed her eyes, smiling at the soft fingers of sunlight brushing her skin. “Tomorrow we shall gather our belongings and vanish from the Multiverse. At least, until things settle down. In the meantime…”
+
+She soaked in the happy trills of the seabirds. The warmth of the sun. The gentle breeze, the laughing waves. If Jez won, it was possible this would be one of the last times she could ever enjoy a view like this.
+
+“Fetch my palette, will you?”
+
+***
+
+Dorian found his body in the castle dungeons, chained to a wall. In the semidarkness her skin was flush with soft light, like she was lit from the inside. Her hair, streaked gold and white, was like a dim sun behind her head. She wore a silk robe pristine despite the muck lining the walls of the cell, the grime staining the cobbled floor. The floors around her were clean. The closer he got the fresher the air seemed too; as he breathed in he felt a calmness settle over him.
+
+Yeshima.
+
+It felt—and probably was—sacrilegious, what he was about to do. He even felt vaguely guilty for no good reason as he stuck out a clawed finger. This was him, after all! It was his body. Though the optics didn’t look very good, he had to admit. If this were a fairy tale, he’d be the hulking evil dragon-creature towering over the frail princess. He vaguely expected a knight to burst in through the door to heroically save her. Then he remembered he smashed the knight’s face in.
+
+He made the incision as small as he could get away with, but it still felt like tearing some priceless painting. The core he removed was small and dainty and absolutely bursting with power. More qi than even Salas.
+
+Closing his eyes, he drew it in.
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[38 % -> 55%]
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[55% -> 68%]
+
+…
+
+…
+
+Afternoon melted to evening.
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[89% -> 100%]
+
+[Level-up!]
+
+[Sun -> Red Giant]
+
+…
+
+…
+
+Evening ceded to midnight.
+
+[Level-up!]
+
+[Star Realm: Red Giant]
+
+[52% -> 66%]
+
+[Level-up!]
+
+[Star Realm: Red Giant]
+
+[66% -> 81%]
+
+…
+
+…
+
+[Level-up!]
+
+[Red Giant -> Supergiant]
+
+…
+
+…
+
+The sky was lightening though the sun still hid beyond the hills, playing coy with the dawn.
+
+Dorian exhaled a silver mist, like stardust.
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[84% -> 86%]
+
+A new white star shone in his core, orbiting his Black Hole diametrically opposite his Wind Qi Supergiant. It was so white it defied definition—for depth needed gradience, and this had none. It was simple, pure, holy light.
+
+And after that last level-up, it was complete. The core in his hands went dim.
+
+Now for the part he’d been waiting for. The skills that made Yeshima’s name.
+
+[Skill Learned!]
+
+[Blessings of the Loving God]
+
+[Level-up!]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+[Skill Learned!]
+
+[Curses of the Wrathful God]
+
+[Level-up!]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]

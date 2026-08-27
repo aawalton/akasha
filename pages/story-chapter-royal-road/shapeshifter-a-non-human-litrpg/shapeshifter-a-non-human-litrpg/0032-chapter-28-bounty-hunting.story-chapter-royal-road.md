@@ -1,0 +1,185 @@
+---
+id: 051a0299-0ced-512a-a62e-b0d6e2f2bf67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Bounty Hunting"
+slug: 0032-chapter-28-bounty-hunting
+partOf: shapeshifter-a-non-human-litrpg
+position: 32
+ownLength: 1937
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3621649/chapter-28-bounty-hunting"
+royalRoadId: "3621649"
+---
+
+"Dorian, the target has escaped the range of my perception. Return now," Iris commanded.
+
+"Roger that, Captain." The Bladedancer's static voice came back through their Ether suits' built-in comms.
+
+Iris cut the communications to save on mana and lowered her finger from her ear. She had no idea how long they would be stuck down here, so every resource had to be carefully managed.
+
+"So Dorian lost him." Vera crossed her arms in contemplation. "An A-grade, maybe?"
+
+"But what would an A-grade be doing on this floor alone?" Marcus muttered, frowning. "He didn't get a tip-off like us, did he?"
+
+"Impossible," Iris shook her head. "Our informant signed a contract with the Guild Master that he would only disclose the information regarding the Abyssal Rift to us. You really think someone like that would cross our Guild Master?"
+
+Marcus snorted and shook his head. "Not even the prime minister would go against our Guild Master, let alone a lowly informant."
+
+"But what if there are more researchers out there who figured out the same thing?" Vera reasoned.
+
+Iris considered it, then shook her head again. "That is a possibility, but a single A-grade wouldn't be able to escape from here. You saw what the Abyssal Rift message said. We can't leave until the Guardian is defeated."
+
+"How many days of supplies do we have again?" Vera asked.
+
+"Two weeks," Iris answered after running the numbers in her head. "We've already been down here a week waiting for the Abyssal Rift to begin, which has already severely cut into the time we have to harvest abyssal materials before we need to escape and close the rift."
+
+Marcus leaned on his shield. "I'm worried about this Guardian. The informant said it would be around A-grade, but the regular monsters have already jumped a full grade in strength due to the abyssal mana. If we keep fighting monsters of this strength, I don't think our mana reserves will last."
+
+"Agreed." Iris's mouth thinned. "This place is turning into more of a death trap than I expected—"
+
+"Guys!"
+
+"Dorian?" Iris turned to see the Bladedancer rush out of a forest of amber crystal clusters and jog over to them across the porous rock.
+
+"It's him," Dorian said, kneeling over and gasping for breath.
+
+"Who?" Iris asked.
+
+"Gho—Ghostwire," he panted. "It's him, the one the Stormbringer's guild and the Guild Master are after."
+
+Iris blinked. "You're sure?"
+
+Dorian nodded, still bent over his knees. "Mask, outfit, skills. All of it matches the descriptions."
+
+Iris exchanged a glance with the group. "What was his bounty again?"
+
+Marcus grinned. "For murdering two people? A healthy two-fifty."
+
+Iris whistled. "Two hundred and fifty thousand credits. That's one popular man."
+
+"And we're splitting two hundred between us for this whole mission." Dorian straightened at last, breath finally even. "I think we're all having the same thought."
+
+"A pay raise just presented itself," Marcus chuckled.
+
+"Hold on." Iris raised a hand. "The mission comes first. We're here to harvest abyssal cores from the corrupted monsters—they're worth a fortune to the guild, and let's not forget, this is how we earn our upgraded Ether Suits."
+
+"However…" Vera said sweetly.
+
+"However," Iris echoed with a scowl, "there's no harm in drifting his way. If he wasn't tipped off about the Rift, he didn't pack for survival down here. He's a scout type, so he can't kill the Guardian or open the way out on his own."
+
+"He will starve and slow down," Dorian smirked. "Then I take his limbs off, and we drag him back to the surface with us."
+
+"So we're agreed?" Iris asked. Everyone nodded. "Good. We move that way. Marcus, grab the Rendmaw's core, would you?"
+
+"Already did." Marcus waved a black rock that bled an unsettling haze into the air.
+
+Iris wrinkled her nose. "Seal it in a bag or something."
+
+"Yeah." He stuffed it into his pouch, chuckling. "Good idea."
+
+Iris shook her head in disbelief. "Idiot," she muttered under her breath before gesturing with her chin for Marcus and Dorian to lead the group in the direction Ghostwire had fled. They formed up and moved forward as a group. Walking long distances wasn't tiring thanks to the Ether Suits supporting them and their heavy equipment. On the way, a swarm of Cinderspawns attacked them, but Iris easily dealt with them by using Lend Weight on Marcus and having him stomp on the ground.
+
+They then dug them out one by one and harvested their abyssal cores.
+
+"Hey Vera, how much more mana do you reckon these hold than a regular mana stone?" Marcus asked, working a core free from a crushed Cinderspawn.
+
+"It's the fact they contain abyssal-tinted mana that makes them so valuable," Vera listlessly replied as she cracked a Cinderspawn open and pried out the abyssal core. "It's a mana type only found on the deepest floors of the World Dungeon and incredibly potent at corrupting and transforming organisms."
+
+"Transforming organisms?" Marcus asked, eyeing his open pouch warily.
+
+"They are safe to touch and be around, but if you were to eat one," Vera chuckled. "You would be in for a bad time."
+
+"I see," Marcus said, frowning.
+
+Iris was only half listening to their conversation. She was rooted to the ground with her palm threaded into the porous stone.
+
+"Any trace of Ghostwire?" Dorian whispered as he gutted a Cinderspawn without looking.
+
+"None. True to his name, he vanished like a ghost," Iris said, frowning. It didn't make sense. Right here, he simply disappeared without a trace.
+
+"What should we do then?" Vera asked.
+
+"Let's keep moving. The abyssal cores from these Cinderspawn are tiny compared to the one in the Rendmaw. We should go hunting, and there's another Rendmaw in that direction," she said, gesturing with her chin. She then pulled in her presence from the stone and freed her hands. "Dorian, can you go ahead and scout the area?"
+
+"You got it, Captain." He tossed the Cinderspawn aside and set off, dual blades spinning idly at his sides.
+
+Vera leaned on a nearby amber crystal and took the brief lull as an opportunity to have a drink. Meanwhile, Marcus had rested his shield against the ground so he could fiddle with its grip, which had been bugging him since they arrived. Something about the strap being too tight.
+
+Iris didn't pay them much attention and pondered how they should proceed. As Marcus had rightly brought up earlier, the Guardian's true strength and location were unknown. If every monster in here had become as strong as that Rendmaw, it wouldn't be their food supply that ran out first.
+
+They would become exhausted and mana-deprived far before that.
+
+A sharp crack cut through her thoughts.
+
+"What was that?" She glanced over her shoulder.
+
+"Mm?" Vera mumbled around the bottle.
+
+"Stupid clasp's come loose again," Marcus grumbled, climbing to his feet to glare down at the shield. "Should've had it readjusted. How was I supposed to know the new suits would bulk out my arm—"
+
+Iris found the source of the strange noise a moment too late.
+
+The amber crystal above Marcus shattered.
+
+Marcus threw his arms up and hunched against the rain of amber shards, shouting in confusion. "What?!"
+
+Vera dropped the bottle and threw her hands up, light already crackling between her fingers. But as powerful as the Stormcaller class was, it came at the disadvantage of casting speed. She had to grow a storm first before her spells could function.
+
+Iris was just as stranded. She'd only just pulled her presence from the earth. Reestablishing a hold would take precious seconds, and she didn't even know what they were facing.
+
+"Marcus, get back!" Iris shouted, making a split decision to retreat and get ready to become grounded if the threat called for it. A randomly shattering amber crystal wasn't worthy of the mana cost, but she soon regretted her inaction.
+
+Before Marcus could reach for his shield, a dark, vaguely human shape dropped from the broken crystal and slammed onto his back, flooring the level 58 Bulwark Sentinel like he weighed nothing.
+
+"Cleansing Light," the figure said, and a flash of radiant light coated its body. Rising, Iris got a good look at its body. It was like a freshly hatched alien with a glassy obsidian body, dripping in globs of amber. It twitched like an insect and glanced her way.
+
+"Appraisal," Vera yelled, her monocle artifiact flaring to life. The color drained from her face. "N—no. That's not possible."
+
+"How strong?" Iris demanded, already dreading it.
+
+Vera looked at her with terror. "It's over level 90. Maybe even S-Rank."
+
+Iris blanked. Level 90? S-rank?
+
+They were a team of B-rankers, with Iris the highest at level 67. They could take on an A-grade monster if they worked together. But a level 90? It would be a fight to the death even if they were prepared. But they had been ambushed.
+
+Marcus was struggling against the monster's foot, pinning his face to the rocky ground. He grunted in frustration but seemed unable to bridge the gap in their strength stats.
+
+"Iris!" he choked out. "Lend me weight!"
+
+She dropped and drove both hands into the stone. "Give me a second—"
+
+The monster didn't give her one.
+
+"Ashen Gaze," it said, and a wave of intense heat flashed from its eyes and burned her own. She screamed as her body stiffened and became encased in a rocky casing.
+
+She tried to move and break free, but a system message flashed in her mind.
+
+[You are Petrified]
+
+"Marcus!" Vera yelled, her Ether Suit flaring with power as she pointed at him. "Storm sur—"
+
+"Spell break," the monster replied, firing a beam of raw mana into Vera's storm right as she was about to unleash a torrent of lightning. The conjured storm reacted violently to the foreign mana and detonated around Vera, sending her stumbling back.
+
+The monster returned its focus to Marcus, who was still pinned to the ground, and reached down to tear off his helmet. The metal cracked and buckled under its claw, and Marcus yelled in pain as it was ripped from his head.
+
+Iris could see Dorian rushing back out of the corner of her eye, but it was too late.
+
+"You bastard," Marcus roared as he put his everything into standing, only for the monster to ruthlessly pierce his exposed neck with its claws. The strength left Marcus's body the moment his neck was impaled, causing him to slump to the ground with a thud.
+
+The monster twisted its hand and, with a sickening crunch of bone, ripped Marcus's head clean from his shoulders. From the hair, it raised Marcus's head up like a trophy and looked her way again.
+
+Shit, shit, shit.
+
+Iris burned her mana, as it was the only way she had to overpower the Petrification besides waiting it out. Cracks formed in the stone casing, and slowly she burned her way out of the rocky cage.
+
+The monster didn't wait around. It suddenly moved, leaving a ghostly afterimage in its wake. Iris braced, expecting an obsidian claw to be coming for her neck, but it never came.
+
+Breaking free from the casing, she rose and looked around in a panic as her heart pounded in her ears. Where did it go?
+
+"I saw it flee that way," Dorian yelled, pointing the way they had already come. "What should we do, Captain?"
+
+Iris felt the world slow as she stared down at the bloody mess of Marcus, their tank.
+
+He had died in an instant, and to a talking monster no less.

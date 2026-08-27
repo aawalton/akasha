@@ -1,0 +1,161 @@
+---
+id: e425838d-1ce7-54af-a4a9-5359bf474bb9
+page-type-slug: story-chapter-royal-road
+title: "277. The Goddess of Light (IV)"
+slug: 0033-277-the-goddess-of-light-iv
+partOf: speedrunning-the-multiverse-complete
+position: 33
+ownLength: 2028
+unit: words
+ownProgress: 2028
+publishedAt: 2023-08-04
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1299090/277-the-goddess-of-light-iv"
+royalRoadId: "1299090"
+markedReadAt: "2026-06-29T22:42:47.964Z"
+---
+
+“Halt!” cried the Enforcers as he ascended the staircase up to the Grand Basilica. It was so wide an army could’ve marched up it. Right now it was just him sauntering up the steps. Even so, the Enforcers brandished their scepters and ropes at him like he was an army unto himself.
+
+“What is this nonsense?” said Dorian with a theatrical sigh. “Can a man not even enter his own house?”
+
+He shook his head. “What has this realm come to?”
+
+“Stop there!” cried the Enforcer at the head. “Or we shall take forceful action!”
+
+Dorian kept walking like he’d heard nothing at all. Growling, the Enforcer made a hand sign.
+
+A dozen ropes of white light lassoed him in a flash. He gathered they were supposed to have some kind of immobilizing effect. As it was all they did was give him a pleasant tickle. He decided he liked the feeling. His wings and arms were feeling a smidge tight after all that flying, so he let them be and kept on striding.
+
+“So—strong!” cried an Enforcer, digging his heels in, but he was skidding along anyways. “Can’t—hold—gah!”
+
+Which was the point at which he pitched over his face. A few of his buddies followed suit. Dorian just kept walking, dragging a dozen Basilica guards with him as he shoved open one of the massive stone doors and entered the chamber proper.
+
+“Someone stop him!” came a shout. “Help! Help! He’s going up the steps—”
+
+“You’re lucky you’ll soon be working for me,” said Dorian. “Otherwise I’d stomp you for being such a nuisance.”
+
+He shrugged once. They all went flying. Cries of Invasion! and Intruder! echoed through the hall, but Dorian paid them no mind. Why focus on all that was going wrong in life, when there was so much beauty all around you?
+
+The Basilica’s interior was as he remembered it—except much grander, much more colorful. High above the ceiling was made of glass, admitting a wash of sunlight which softened the hard faces of the omnipresent marble. Pillars ran the length of the building to either side of him, each fitted with a hefty jade base. At the center of the room was a brazier the size of a house. Purple flames roared atop it, just as they had for thousands of years. Ever-burning, like hope or faith.
+
+What gave the Basilica its name, though, was all the art in and on it. The great sculptor Yveltan had been invited to carve saintly designs all over the place; angel’s wings over the brazier, emerald hearts in the ceiling, that sort of thing. He’d even carved the walls to look like giant framed paintings.
+
+And in those paintings were a dizzying confusion of paintings. You could walk up to one, as Dorian did now, and spend a year analyzing merely a square stride of space. Each inch was a masterpiece. Warring armies. Images of heavenly salvation. Dragons rising to the Heavens. Saints blessing their warriors. Yeshima featured heavily, here curing a poor soul struck down with the Fits, there leading a charge against the devil hordes. Curiously most of them were nude or semi-nude, when Dorian distinctly remembered being heavily armored for most of these. And they significantly exaggerated her proportions, too, particularly around the chest area. Now why would they do that? Very strange, these artists. There was some sort of justification in the literature—something about Yeshima being the “Great Mother” and the “Mother of the Realm”—and thus needing her breasts on full display at all times. Somehow Dorian suspected there were some other motives at play.
+
+There was a creaking from either side of the hall as side doors opened up, admitting fresh streams of guards. Several of them were healing this monstrosity of a contraption—like a siege machine had broken out in spikes and ropes and whirring hacksaws. Dorian wasn’t keen to learn what they did.
+
+He clenched a fist and birthed tiny tornados in the machinery. The contraptions caved in on themselves, screeching steel, cracking wood. It took him but a thought to do it; essentially effortless. When you were privy to Godking level laws you didn’t really need explicit Techniques to handle such trifles. The air just listened to you.
+
+The new guards gaped at their contraptions, then promptly retreated whence they came. “BACKUP!” came the cries. Shrugging, Dorian kept admiring the art.
+
+***
+
+Pope Junior meditated in a room at the top of the Basilica. It was the only room on the sole tower which stretched above the Basilica, above the rest of the city, a circular observation tower where you could see birds flying at eye level.
+
+A constant reminder of his place: that was, above everyone else. Supreme. The pope!
+
+If only he felt like it.
+
+You’d think after six millennia he’d have gotten used to the role. But he still had trouble thinking of himself as a Pope, as a leader; every morning he woke up as Pope it felt like a surprise. Every day he tread the Basilica its spaces felt too big for him, too grand. It was a place Yeshima would’ve strolled through with ease—like it was hardly worthy of a being like her.
+
+But Junior could only swallow and scrape the breadth of its echoing hall. It was all he’d done as Yeshima’s second-in-command; for the longest time it was all he knew how to do. It was an instinct—ingrained so deep, for so long, even now—as the literal Pope, the ruler, the one above all!—he couldn’t shake it.
+
+His men knew it too. He imagined his guards sighing and shaking their heads at his passing. Like every time they heard Pope they expected to see Yeshima, powerful Yeshima, beautiful Yeshima, perfect Yeshima, and were perpetually disappointed in the reality of himself.
+
+Just like the rest of the Realm.
+
+He sucked in a rattling breath.
+
+That would all soon change. It was high time he grew out of his name.
+
+“Dire times forge great men,” he muttered. “Dire times forge great men!”
+
+And these were dire times indeed.
+
+The barbarian Jez and his hordes had forced them into a humiliating treaty for peace. They were busy elsewhere, and hadn’t the time to squash the Realm of True Light—but everyone knew it was but a matter of time when they returned, and in far greater numbers.
+
+This fragile alliance would soon be broken.
+
+It was a matter of who did the breaking.
+
+Junior’s fists clenched. He sucked in more breaths. “I am the Pope! The One Above All, Chosen of the Realm of True Light!” Why did his voice sound so high-pitched? Like a child’s voice it was. Did it sound that way to everyone?
+
+“I am Pope Junior!” he screeched. It was even worse this time. He cleared his throat and pressed on. “I will turn back the barbarian hordes! I will reunite the Realm of True Light once more! And they will record my name in the history books—alongside that of Yeshima. As equals!”
+
+He was still having trouble believing he could ever surpass her. He tried saying it a few times but his throat would always close up and his hands would go clammy. Someday, he promised himself. Someday he’d get there.
+
+He’d already made a great deal of progress, hadn’t he? When he’d first become the pope he was still that guppy, running after Yeshima begging for every scrap of approval. He was such a sycophant she’d named him junior! At the time he’d been so happy she’d noticed him—cared about him enough to bestow him a name. He burned with humiliation at the thought now.
+
+The name stuck like a curse. Forever he was cursed to be the second, the replacement, the one stuck in his senior Yeshima’s shadow.
+
+But after he vanquished Jez…
+
+“No more!” he cried, glaring fiercely at himself in his full-length mirror. “You are just as powerful, just as inspiring, just as worthy a her! From this day forth—” A knock came at the door and he shrieked so loud he startled a mass of birds into flight.
+
+“Yes?” he said once he was sure his voice had lowered some. It still came out breathy and shrill.
+
+“Your Holiness! My deepest apologies for bothering you, but we have an urgent situation.”
+
+***
+
+Pope Junior burst into the main hall of the Great Basilica, his mustaches quivering in anger. “Who dares disturb—”
+
+He choked.
+
+There was a Godking hanging in the air, suspended by dozens of lassoes of light. Each was held by an Empyrean, each of whom groaned and puffed as they tried to hold their prisoner in place.
+
+Their prisoner in question was a totally unfamiliar face. Some kind of dragonoid. But then their eyes met, and a very familiar smile lit the prisoner’s face. A smile that could be seen on half the frescoes on the walls.
+
+“That grin…” croaked Pope Junior. “It can’t be! Yesh?!”
+
+“Junior!” said the prisoner. The Empyrean guards gasped at that. “You will address the Pope by his proper—” cried someone, but the prisoner cut him off.
+
+“I’m back! Miss me?” He rotated his head, which was about the only body part he could still move. “I see you’ve kept the place well while I’ve been gone.”
+
+“Your Holiness,” gasped a guard. “What ought we do with him? We’re pulling as tight as we are able, but we can’t hold him much longer—he’s far stronger than any creature we’ve ever—”
+
+CRACK.
+
+All the eyes in the room went to the prisoner, who had just slumped against the ropes.
+
+“…Did we kill him?” someone whispered.
+
+“Ahh….” groaned the prisoner. “That’s it—right there—”
+
+CRACK-CRACK-CRACK—
+
+“Oh, that’s very good. A little tighter—yes, there you go—”
+
+CRACK!
+
+“Gentlemen, I must thank you. This has been excellent,” said Dorian. “Those kinks in my back have been nagging at me for ages! If only it didn’t take forty-odd Empyreans every time I needed a massage. But now that I’ve got Junior’s attention I’m afraid our playtime is over.”
+
+He flexed his muscles. At the same time gales of wind blasted the Empyreans in the eyes, took the legs out from under them. They went sprawling over each other.
+
+The ropes snapped off him. Dozens of Empyreans spun into the walls. Even more were thrown out the door.
+
+***
+
+“So,” said Dorian. He only got halfway to Junior before the cronies set upon him again. But with a finger’s snap he a mini-whirlwind whipped into being in the middle of the room, sucking them all in. Dozens of Empyreans spun screaming, kicking and blasting indiscriminately to no avail, bound by forces far beyond their comprehensions.
+
+Salas’s Laws were fun.
+
+“So!” he started again. “Junior! Good to see you again. Where’ve you kept the basin? Let’s get this Trial of Rebirth going, shall we? I can’t wait to reclaim—”
+
+“Who are you?” said Pope Junior.
+
+“Oh come now,” drawled Dorian. “You recognize me.” He could see it in Junior’s beady watery eyes. The boy’s thoughts were always written plain on his face. It was a large part of why Dorian had chosen him.
+
+“I—I most certainly do not!” cried the Pope, clutching tight to his robes like a drowning man to a log. “Leave at once, whoever you are! You are not welcome here!”
+
+“…Are you serious?” said Dorian. “Do you actually—ahhh. I get it.” He grinned. “You’ve gotten greedy, haven’t you? In my absence you’ve forgotten you were only here to keep my seat warm! You’ve started to think of yourself as the actual Pope. With actual powers. And now I’m back, you don’t want to give up the throne.”
+
+“N-no!” There was that telltale shaking in Junior’s voice.
+
+“I will ask you one more time. And this is the last time I ask politely.” He made his eyes flash, the way Yeshima used to when Junior displeased her; Junior cringed. He drew himself up like a stern headmistress, exactly how Yeshima used to, and Junior all but fell to his knees. “Conduct the Trial of Rebirth. Now.”
+
+“No!” yelped Junior. But he was hanging on by a thread.
+
+Dorian snorted.
+
+“Junior, you dare?!”

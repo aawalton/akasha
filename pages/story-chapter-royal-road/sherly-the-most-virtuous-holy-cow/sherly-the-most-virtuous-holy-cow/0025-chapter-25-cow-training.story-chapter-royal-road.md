@@ -1,0 +1,165 @@
+---
+id: ba8c2989-ce0d-56d8-83ad-3d1224e0e7d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - Cow Training"
+slug: 0025-chapter-25-cow-training
+partOf: sherly-the-most-virtuous-holy-cow
+position: 25
+ownLength: 2044
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2739899/chapter-25-cow-training"
+royalRoadId: "2739899"
+---
+
+Chapter 25 - Cow Training
+
+Sherly was surprised when Maymay suggested practicing stances and sword swings. She had anticipated a spar, but she quickly accepted the proposition. It made sense, after all. She had next to no knowledge of how to actually swing a sword. And unlike how her instincts had guided her to use her horns and teeth, when she had still been a full-fledged demon-cow, swordsmanship wasn’t exactly engrained in her the same way.
+
+“You said you took Sword Mastery, right?” asked the dog-zilim.
+
+Together with Duis and Ishuin, they all made their way out of Crossmark and headed towards the nearby Managrove. The two were busy discussing their training regimen.
+
+“I did, yeah,” Sherly replied.
+
+“You should be able to pick up the basics pretty quickly, then.”
+
+“Sherly,” Ishuin started, looking behind her. “Make sure you don’t go anywhere else, except where Maymay tells you to go, alright? I’ll come by every few minutes to refresh your ability to communicate.”
+
+“Actually, I also have Learning Language now,” said the cow-chilim rather quite proudly. “It’s just Level 1, though, so I can only speak and hear Sinzodia Common. But yeah, I’m not planning to go anywhere anyway.”
+
+“That’s great!” Ishuin’s eyes were practically sparkling. “I’ll just check up on you from time to time to see how you’re doing then.”
+
+With that, she and Duis headed deeper into the woods, while Maymay and Sherly stayed relatively near the border.
+
+“They’ll be hunting some monsters for his training,” Maymay explained. “Unfortunately, we can’t do the same thing yet for you.”
+
+“Understandable.” Sherly didn’t miss the irony of not fighting monsters now that she could use a weapon. “How should I start?”
+
+Maymay went through a number of orthodox stances. With what Sherly could remember of what little knowledge she had on swords, or any weapon for that matter, the names and terminologies weren’t the same, save for a few.
+
+She understood the low, mid, and high stances, where she placed the greatsword in front of her in correlation to the stance she was asked to perform.
+
+“How’s it feel?” asked the dog-zilim.
+
+“Heavy,” Sherly replied. “My balance is off. It’s too high up the blade.”
+
+“Figures. The blade’s too big compared to a traditional sword. But since this is the one Lady Kobeni gave you, I’m sure we can make it work. I don’t even have to inspect it to know it’s magical. Have you attuned to it yet?”
+
+“Ah, Letters did mention something like that,” Sherly said while holding the sword in a low stance. It was the easiest one, she realized, since she could manage the weight by acting as a counter-balance to it. “I haven’t tried yet.”
+
+Maymay gave a firm nod. “Let’s do that first, then.”
+
+“I’ll just store it and then what?” Sherly willed her greatsword back into her Domain Heart.
+
+“Just simply exercise your will to attune to it.”
+
+She did just that. Sherly felt something grip back to her. A consciousness of something else. Not alive, she realized, but aware. Aware that she was there and that it was there. Just as she was trying to form a bond, so was it, but in a more assertive way.
+
+The greatsword begged her.
+
+“It’s asking for a name,” Sherly said to Maymay. “Is that normal?”
+
+The dog-zilim’s eyes widened. She hopped in celebration, almost banging into Sherly.
+
+“Yes! Do it! I knew it! I knew it was a Nameless!”
+
+“Nameless?”
+
+“Armaments that require names. They inherit the nature of the name and adapt the imbued magic within them to it. Once you give it a name, it becomes what we call a Moniker Armament. In the case of your greatsword, a Moniker Weapon.”
+
+Sherly frowned. Not because she was confused, but because she was suddenly given something more than what she anticipated. She wasn’t used to receiving too much without being able to return the favor.
+
+“So, if the name I give it will affect how I’ll be able to use it?” Sherly asked, moving on from her internalization. “That means, I can’t use names like David, or something?”
+
+Maymay quickly shook her head. “Give it a name with a defined meaning. Like Sharp Greatsword, for example. But don’t use that! It’s just an example. There’s so many ways to make your weapon sharp, you don’t need to make it the very nature of it.”
+
+“So adjectives, huh…” Sherly blinked a few times, looking inside her Domain Heart and studying her greatsword. “What if someone already gave their Nameless the same one I want to use? Like, someone else already has a Sharp Greatsword.”
+
+Maymay rubbed her chin for a moment. “There are actually a few Moniker Weapons and Armors with a common name. The nature of the name is just that popular, or powerful, so to speak.”
+
+“What names?”
+
+“Devastation. True-Strike. Some even risk themselves by naming their Monikers as Death. I don’t recommend that. Life is also common, but mostly on magical foci Monikers. That’s just to name a few. There’s a library for it. If you want to explore the possibilities before giving your weapon a name, then we can just move on to training.”
+
+None of those names appealed to Sherly. In fact, she was just curious what would be the common ones to check if they matched the one she had already decided to use.
+
+“Stalwart Great-Edge,” she declared. “Stalwart for short.”
+
+Unlike Letters, the greatsword didn’t wait for a confirmation. Once Sherly’s will was already fixed to the name, it grabbed the designation without hesitation.
+
+For a moment, Sherly couldn’t see in her Domain Heart. The light that appeared from her weapon was absurdly powerful, but it didn’t hurt her eyes. When it was done, the weapon looked generally the same, except for the dormant seals that were now a dull orange. The few ones that she had already unlocked had turned to runes. Bright orange runes.
+
+Maymay quickly realized what had happened. She moved on from warning Sherly, to encouraging her to bring out the new Moniker Greatsword.
+
+Sherly did just that, and she noticed right away the effect of attuning to it.
+
+“It’s so light!” she almost screamed, shocked and celebrating at the same time. She made a few swings and quickly realized that what she said wasn’t entirely true.
+
+There was still the same weight. But now, balanced weight. It wasn’t pulling her off her feet anymore. It was visually deceptive now, she concluded. For such a heavy-looking weapon, she felt like waving around a practice sword.
+
+“Now, we can practice!”
+
+An hour of practice swings and maintaining stances later, Sherly felt that the training was becoming monotonous. At first, Maymay had given her some pointers on how to properly hold her greatsword. How to properly swing it, and how to properly defend with it.
+
+Like what the dog-zilim had promised, Sherly quickly picked up on those lessons because of her Sword Mastery Skill. That was when she had been instructed to do routine swings and posture endurance.
+
+Thankfully, Maymay seemed to have caught wind of her boredom.
+
+“While you’re doing those, how about I give you important pointers that you can consider when in a fight?”
+
+“I’d love that,” Sherly said, struggling a little. Her arms were feeling tired now. And even with Stalwart attunement properties, it couldn’t get rid of the burn in her muscles.
+
+“This is something that’s usually not taught in our academies. See, our various training grounds usually only teach one or two disciplines, with a number of styles you can specialize in. The one I’m teaching you right now isn’t even a style yet, those are just the foundations. But I think, regardless of what level of proficiency you have with any discipline or weapon, or whatever, you can gain a lot from this little advice of mine.”
+
+Maymay summoned her own weapon, but Sherly couldn’t classify exactly what it was. It looked like a shortsword with a thin, straight, black blade. The end of its hilt, where the pommel should be, was round with a hole small enough to fit one or two of her fingers. The hilt itself was covered in red cloth that had enough length to make a pair of tails.
+
+Sherly noticed that this wasn’t the same weapon the dog-zilim had used in any of the previous fights they had worked together.
+
+“The styles and the foundations and the disciplines are all there to help you build a good habit in order to protect yourself. These are the moves that you’ll repeat until your body can do them without your mind giving the orders.
+
+“But in a real fight where your life is on the line, you should never limit yourself to what your discipline and style can and can’t do. Once you have proper foundations, you need to learn to let your mind think about something else, other than what you’re doing and what you know. Your body should move and react by itself, while your mind analyzes and adapts to the fight on the fly.”
+
+Maymay mimicked Sherly’s swings, but she let go of her shortsword at the last moment. The blade flew, but the dog-zilim kicked the pommel while catching the tail, making the sword shoot out with intense speed before getting yanked back. She made it twirl around her before it landed neatly on her palm as if she had never dropped it in the first place.
+
+“This is a fighting style is a combination of other styles that I made for myself,” she explained. “You don’t have to copy it, of course. I just wanted to demonstrate how practicing consistently with your weapon can yield results that make seeming complicated actions look effortless. Once you can do that, your mind can turn its attention to your surroundings.”
+
+“That was so cool,” Sherly admitted, making Maymay blush a little.
+
+With her arms becoming numb, the cow-chilim could no longer maintain her posture. But rather than let go, she employed the same tactic that Maymay used. With a twist of her wrist, she turned the greatsword before kicking its shaft with the intention of lifting it so she could prop it on her back.
+
+Sherly didn’t kick hard enough.
+
+Instead, she lost her grip and smacked her snout with the shaft of the sword. Then she promptly fell to the ground.
+
+Maymay gasped and quickly went to her side. “Are you okay? I told you not to copy it!”
+
+“But it looked cool!” Sherly complained. She sighed and sprawled completely on the dirt. “I think I get what you’re trying to say, Maymay. The advice, I mean.
+
+“The first time I had to really fight for my life, I didn’t let my mind think. I did everything in desperation. And I think I got lucky. Everything I had to use felt natural. My horns, my teeth, my hooves. But with this sword, even after attuning to it, it’s not yet a part of me.”
+
+“And that’s why you need to keep practicing,” Maymay said, after confirming that Sherly wasn’t injured. “You’re lucky you didn’t cut your head in half.”
+
+“Yeah, I don’t think I’ll be trying that again for a while.”
+
+“Foundations first.” Maymay presented a hand, offering to help.
+
+Sherly took it and felt the strength of someone else lift her to her feet.
+
+The sensation stunned her. She savored the feeling instinctively, as if desperate not to let it go. Her eyes started welling up, and no matter how much she wanted to stop herself, the emotion was getting the best of her.
+
+“Wait!” Maymay said in a panic. “What happened? Were you actually hurt somewhere?”
+
+“No, I’m okay,” Sherly said, sniffling. “I just… I don’t want to be a downer, but this is the first time I can ever think of someone actually helping me get back on my feet.”
+
+“Wha…?”
+
+“It’s crazy, I know,” said the cow-chilim, quickly wiping away her tears before getting her sword. “Don’t tell anyone.”
+
+“I don’t even think they’ll believe me, if I do,” said Maymay.
+
+Her ears perked up, and Sherly also caught the sound. Ishuin was making her way towards them.
+
+“Promise me!” the cow-chilim said desperately.
+
+“Alright, alright. I won’t tell anyone.”

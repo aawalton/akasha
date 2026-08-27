@@ -1,0 +1,173 @@
+---
+id: f769950a-b032-5bb4-9b2a-b15700af252a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Back into the Dungeon"
+slug: 0015-chapter-11-back-into-the-dungeon
+partOf: shapeshifter-a-non-human-litrpg
+position: 15
+ownLength: 1997
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3308975/chapter-11-back-into-the-dungeon"
+royalRoadId: "3308975"
+---
+
+The Sector 5JP dungeon entrance didn't look like a rundown subway entrance, like the one he had escaped from the dungeon a day prior. Instead, it was far more corporate than he had expected a teleportation hub to the dungeon's depths to look.
+
+The building was a towering functional block of reinforced concrete, shadowed by the Guild Association Headquarters in a district that smelled faintly of exhaust fumes and yakitori from a stall.
+
+A single banner above the entrance read GUILD ASSOCIATION: SECTOR 5JP ACCESS POINT in clean black lettering. Below it, in smaller text: Authorized Personnel Only. All entrants are subject to registration and mana screening.
+
+A queue of Hunters stretched from the entrance along the building's outer wall. Most were in groups of three, the legal minimum. Some were chatting, some were staring at their phones, and one was arguing with his party members about something Xen couldn't hear.
+
+What surprised Xen the most was just how busy this place was.
+
+"There are so many people," he muttered while glancing around.
+
+"After work rush," Kenji said simply.
+
+Xen glanced at him, his mask hiding his confusion, but it was clear enough for Kenji to explain. "Most Hunters below B-grade still have day jobs, as dungeon diving every day is too dangerous and unprofitable for most."
+
+"What floor are these people going to?" Xen asked.
+
+"This drivel will infest the floors between the first and tenth floor teleportation hubs," Daisuke said.
+
+"Luckily, we don't have to wait in line," Alex said, grinning. "Perks of classified missions and going to a deeper floor." He led them past the waiting Hunters, who shot them glances, and through a side door.
+
+Xen tensed a little as he felt the building's wards probe him but relaxed after remembering that he had survived the scrutiny of the Guild Association Headquarters' wards for hours without detection. He was an uninteresting elf with a generic name—a simple healer not worth a mention.
+
+Once inside, the interior had all the thrill of a DMV.
+
+What a DMV was, Xen didn't know. It simply popped into his mind the moment he saw the wide room divided by numbered counters behind reinforced glass. Suited civilians behind the glass served the long line of Hunters, answering questions and stamping paperwork.
+
+"This must be your first time in a dungeon entrance," Alex said after noticing him staring. "Some people jokingly call it the entrance to Disneyland, as what lies beyond is fun and adventure."
+
+Xen simply glanced at Alex, not understanding the joke.
+
+"I thought it was quite funny," Alex shrugged and led them to counter seven, which was without a queue, with the confidence of someone who had done this many times before.
+
+"Hello Beatrice, you look lovely today—"
+
+"Badges and documents, Alex," the middle-aged woman behind the counter said dryly.
+
+"Right," Alex nodded and passed over the document he had tried to give Xen earlier. He then deposited his badge in a slot, followed by the rest of the party members. Xen followed their lead and put his through as well.
+
+A beep from the woman's computer alerted her.
+
+She checked the badges individually, then the computer again. Frowning, she turned, and her gaze settled on Xen.
+
+"F-grade?"
+
+"There must have been a mistake," Alex cut in. "He's level eight, so he would be E-grade."
+
+"Alex, what nonsense are you up to?" she said with an icy tone. Her finger drummed on the documents. "This is a classified mid-tier operation. The grade requirement for unsupported access is D or above."
+
+"He's listed as a contracted specialist from another guild and is a Healer," Alex leaned on the counter with a smug grin. "Therefore, following the Guild Association's special clauses regarding hired healers, the grade restriction is waived."
+
+The officer turned to her terminal, typed something, waited, typed something else, and then looked past Alex with annoyance at Xen again.
+
+"Yuki Tanaka."
+
+"Yes," Xen said.
+
+"You are listed as a Radiant Healer. Is that correct?"
+
+Xen nodded.
+
+"You are F-grade, registered this morning."
+
+Xen felt Hina's silent gaze burning into his back. She already knew he was suspicious, and now things weren't adding up.
+
+"Yes, that is correct," Xen said again.
+
+The officer looked at him for a long moment. Just when he thought she was going to press the matter, she looked at the document again, stamped it twice, and slid it back under the glass along with the badges.
+
+"You're cleared." She was already looking at her terminal again. "Docket 5JP-114, party of five, cleared for gate access at 17:32. Proceed to the equipment room before descending. All members are required to review floor-appropriate gear before entering floors nine through twelve. It's not optional," she added, to no one in particular, in the tone of someone who had said those last three words a great many times.
+
+"Thanks, Beatrice," Alex grinned, taking the stamped document. A staff member then led them away.
+
+***
+
+The equipment room was down a short corridor off the main processing area, a long space lined with shelving units and open lockers, staffed by a young man with a clipboard who seemed genuinely pleased to have visitors.
+
+"Floor ten again?" he asked Alex.
+
+"Yes, though we are only passing through. We're heading to eleven."
+
+The young man nodded and moved along the shelving with practiced ease. "I know I explained this all last time, but it's procedure that I repeat myself. You'll want the waterproofing treatment on any leather or cloth gear. Standard application takes about three minutes to dry, then it's good for forty-eight hours." He glanced at the group. "The 10th floor's murky water is about ankle to knee depth in most areas, deeper near the root clusters and in the low-lying sectors. It doesn't sound like much, but it ruins footwear in about four hours and soaks into standard cloaks within the first twenty minutes."
+
+Xen had no idea what the man was talking about, but simply nodded along. The others seemed bored, like they had heard this many times before.
+
+The young man stopped in front of a section of shelving and produced several rolls of sealed packets—thin, flexible material in a dark grey that looked like something between a poncho and a second skin.
+
+"Water-resistant oversuit," he said, holding one out to Alex, who took it without reply. "Covers the torso, arms, and thighs. Doesn't restrict movement for most combat classes. Seals at the collar." He moved down the party and paused before Kenji next. "Big guy, do you want the long-hem version or the fitted version? The long-hem is warmer but catches on root systems if you're not careful, but with your size, I think it will be fine."
+
+"Always fitted," Kenji said immediately, already inspecting the material with the no-nonsense interest of someone who took his gear seriously.
+
+The young man nodded and focused on Daisuke next, who accepted his with a look of disappointment. "Does it come in other colors? This grey is deeply uninspired."
+
+"No."
+
+"Right."
+
+The young man reached Xen and paused, looking at him with mild confusion. The healer's cloak Xen wore was visibly impractical for anything involving standing water.
+
+"Your cloak is going to be a problem with your short stature," the young man said, not unkindly.
+
+"Is it?" Xen said.
+
+"The hem is floor-length. You'll be dragging two kilograms of wet fabric within ten minutes of stepping off the hub platform." He was already moving to a different section of shelving. "We have a short-hem travel cloak in the same grade of material that most combat healers prefer for wet-floor operations. It keeps the shoulders covered for passive skill conductivity and loses the lower half, which will only slow you down." He returned with it. It had the same deep blue, cut off at the hip, with a high collar and tighter sleeves. "It's not permanent. You can swap back when you return."
+
+Xen looked at it, then at his current cloak.
+
+He'd had the second-hand cloak for approximately six hours and had no attachment to it whatsoever. He accepted the shorter version without argument and tried to put it on.
+
+Getting dressed was still something he struggled with, but the young man thankfully noticed his plight and stepped in to help. With the cloaks successfully exchanged, Xen looked down and saw his bare legs.
+
+"Don't worry, we have enchanted Wellington boots imported from England to protect your legs and feet," the young man said and went to get them.
+
+Xen glanced at his party members. Most were decked out in the same waterproof suits they had been provided, with Daisuke having rejected them and choosing to coat his cloak in a waterproof resin.
+
+"What do we need all of this for?" he asked, honestly confused. Weren't they going to fight Acid Slimes? Did this help against them?
+
+Alex smirked. "The tenth floor is not for the faint of heart—you will find out soon."
+
+***
+
+After being outfitted with these strange Wellington boots, Xen followed his party into a service elevator. It plummeted down a dozen floors before opening into a vast chamber. It was mostly empty besides a handful of Guild Association technicians monitoring terminals, and at the far end, a flat circular platform ringed with mana-channeling runes set into the floor.
+
+Following a path lit with artificial lamps, they ascended a few steps and stood on the dormant teleportation hub.
+
+A technician crossed the room to Alex with a tablet. "Docket 5JP-114 confirmed. Hub calibrated for floor ten." She glanced at the party. "You'll land on the main platform. There's a Guild Association waypoint at the edge of the platform with basic supplies and an emergency beacon unit. The platform is cleared of hostiles as of six hours ago, but that status is not guaranteed."
+
+"Understood," Alex said.
+
+"Any questions before you go down?"
+
+"None," Alex said.
+
+The woman nodded and stepped back. Pressing something on her tablet, there was a loud thunk that echoed through the room, followed by a whirr of static.
+
+The runes lit up in sequence, floor to ceiling, and a ring of silver-white light began to engulf them.
+
+"Here we go again," Daisuke said cheerfully, to no one.
+
+The light swallowed them.
+
+[Entering the 10th floor of the World Dungeon — Sector 5JP]
+
+Xen felt himself falling, as if the floor had vanished into the void. Just as he was desperately finding his footing, the world lurched, and he reappeared alongside his new party members.
+
+The first thing Xen noticed was the unsettling silence, followed by the black water around his waist and stretching out before him. Looking around curiously, Xen started to realize what the biome of the tenth floor entailed and now understood the precautions taken.
+
+It was a vast flooded forest with enormous trees the size of skyscrapers. Xen craned his neck in an attempt to see their canopies, but they were obscured by a haze that lingered high above.
+
+"Welcome to the Drowned Canopy," Alex said with a sigh as he equipped his massive steel shield that had been strapped to his back until now. "We have quite a distance to cover to the 11th-floor stairway. Yuki, could you cast Orbs of Light and put them underwater?"
+
+Xen did as he was told. "Orbs of Light," he incarnated, spawning three blinding orbs of light above them. He forced them underwater and noticed how the water around them, which had been darker than oil, illuminated, revealing the shadows of roots lurking beneath.
+
+"Hina, get into the trees and watch for Canopy Stalkers," Alex ordered as he began to wade through the water, sending ripples out as he moved. "Kenji, make sure no Thornfin Lurker eats our healer."
+
+The friendly giant, wielding a massive butcher knife, came to Yuki's side, not that he needed it. With Geomantic Perception, he already knew they were surrounded.
+
+But he was playing the role of a weak healer now, so he kept quiet.

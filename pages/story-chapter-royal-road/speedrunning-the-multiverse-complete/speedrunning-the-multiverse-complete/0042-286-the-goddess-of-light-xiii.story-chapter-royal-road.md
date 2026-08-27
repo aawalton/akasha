@@ -1,0 +1,123 @@
+---
+id: f265466a-efd9-5691-9b07-fc56350947f6
+page-type-slug: story-chapter-royal-road
+title: "286. The Goddess of Light (XIII) "
+slug: 0042-286-the-goddess-of-light-xiii
+partOf: speedrunning-the-multiverse-complete
+position: 42
+ownLength: 1860
+unit: words
+ownProgress: 1860
+publishedAt: 2023-08-17
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1313008/286-the-goddess-of-light-xiii"
+royalRoadId: "1313008"
+markedReadAt: "2026-06-29T22:43:06.991Z"
+---
+
+Millennium Caverns - Middle Realms
+
+Ancestral Home of the Orcs
+
+Nothing grew in the Millennium Caverns. The soil was dry, void of nutrients, and vomited up deformed husks whenever anyone tried to coax anything green out a seed. These seeds were imported from other realms, for there were no plants native to the Millennium Caverns. Above the surface the land was barren, rocky, and so plagued with icestorms that any species foolish enough to try to make a life there was given a swift backhand by natural selection.
+
+Everything was underground, hence the name of the Realm, which in the tongue of the land was a garble of consonants and apostrophes, but which translated to something like ‘Realm of Very Very Many Tunnels’—or the Millennium Caverns. It was in the nature of the orcs that called them their home to be plainspoken and straightforward. Here for thousands of years they flourished in their millions; mostly demigods, sometimes gods, occasionally an Empyrean, and, once every few generations, a Godking. One would think the paucity of flora would make even reaching Empyrean near impossible—one might expect the Millennium Caverns to be among the weakest of the Middle Realms. Lack of flora meant no alchemy, after all, and most gods downed dozens of elixirs a week.
+
+But in fact the Millennium Caverns were among the strongest of the Middle Realms. What the Caverns lacked in flora, they made up for in other natural resources. They got their Spirit Qi from deep underground wells. But they were most known for the incredibly rich ore deposits that ran deeper than they could measure.
+
+For this reason the Millennium Caverns were often called the armory of the Multiverse. Their mines ran thousands of levels deep. The biggest, the Imperium Mine, was worked by hundreds of thousands each day. Slaving, sweating creatures so malnourished a scratch on their skin would expose bone, not blood. The sound of their picks cascaded atop one another, iron striking stone a thousandfold. It made an ugly melody with the clinking of the chains binding their wrists, shining with the gold light of Jez.
+
+To most, it might seem a harsh and meaningless clatter. To Grand Chieftain Thond it was a symphony.
+
+“Good!” he bellowed, striding across a narrow bridge which linked two tunnels. Below him lay more bridges, and more bridges below them, on and on until they were lost in the dust clouds.
+
+As he moved, his belly jiggled dangerously under him. In his middle age it now carried more than half his weight, making each step an adventure. Guardrails had been installed on each bridge; more than a few times he’d pitched over the edge. As he waddled, the steel girders beneath his feet squealed in protest.
+
+“MORE!” he roared. “FASTER! Harder!” He struggled to make himself heard over the din.
+
+At first Thond had been slap-happy when Jez came knocking with his vast coffers and vast orders. But lately things had just gotten too much. Jez’s latest order, just come in the day before, was for 10,000 cannons and 10,000 helms, all in the span of one moon. Plus three sets of the latest starsteel power armor. Privately Thond thought this was stupid and very unreasonable. But Jez had spat a great many words at him—something about sabotaged supplies and annoying jiangshi—and Thond’s survival instincts, which had yet to fail him, told him disagreeing would be a very bad idea. Maybe his last idea.
+
+So now he was here. There was no way they would make it all in one moon! Look at how much stress it put him under—nowadays his hands were always clammy. Sometimes he even woke up with night sweats!
+
+Then he saw something across the bridge that made him furious. One of his miners had decided now was a good time to curl up and lie there. To take a vacation—right in front of him! He had never seem someone so shameless!
+
+He barged over. “What do you think you are doing?!” he roared.
+
+“Great Chief! Brom is suffering from great heat exhaustion—he needs water!” cried another miner. Indeed the miner on the ground did look unusually shriveled. His eyes had gone filmy and a strange white foam was leaking out of his mouth. But Thond merely snorted.
+
+“Acting!” he snarled, and administered justice to the slacker a swift kick in the belly. “You ought to be ashamed to crall yourself an Orc of the Caverns! What selfish behavior is this, to shirk your duty while the rest of us are suffering for the cause?”
+
+The miners looked at each other funny at that.
+
+“What?”
+
+“Nothing, Chief!” came the mumbles.
+
+“Hmm…” Thond’s eyes narrowed. It would not do to teach the rest of these workers that slacking was a fine thing to do. Heavens knew they were given to it enough already.
+
+Thond picked up the slacker and chucked him over the edge, to cries of dismay. To his surprise the body didn’t scream as he went down; it didn’t react at all. Had that creature truly had heat exhaustion, after all?
+
+It didn’t really matter, did it? “Don’t you dare have heat exhaustion! Not on my watch! You can have it all you want when the order’s done. Got it?”
+
+His miners nodded frantically.
+
+“Good.”
+
+He wiped a line of sweat over his head, beads of which got in his eyes, stinging him. He hissed. His legs ached, he was sweaty all over, and he hadn’t eaten in almost an hour! Yet unlike these worthless grunts he didn’t make a sport of complaining about it. Great leaders led by example.
+
+“Ahem! Excuse me.” The voice was unlike any orc’s—smooth and light. There was a dragonoid behind him, holding up the slacker’s floppy body with one hand.
+
+“Who the fuck are you?” said Thond, squinting. There was an awfully strong aura floated off him… Empyrean?!
+
+In this whole mine there were only four other Empyreans, including Thond. Plainly this creature wasn’t from this mine, or even this realm. What if this was a ranked Empyrean? Thond had only seen those rare and dangerous creatures a handful of times. It was a poor idea indeed to rub one wrong; the last fellow he’d seen do it was the previous Grand Chieftain. It was why Thond was Grand Chieftain now. Black lines creased Thond’s brow.
+
+“Did Jez send you?” said Thond warily.
+
+“No, I came on my own,” said the dragonoid, tossing the slacker over his shoulder. “You almost hit me, by the way. It’s always good practice to watch where you throw your minions before you throw them! You might accidentally piss off someone you really, really shouldn’t.”
+
+“Err,” said Thond. “…What do you want?” His survival instincts, which had yet to fail him, told him pissing off this strange creature would be a bad idea. Thond had learned to trust his ample gut.
+
+“I’ve come to get directions to the Infinity Heart!” said the creature. “I was dropped here within 10 li of it on the map, but the teleportation didn’t account for depth—which, as I don’t need to tell you, matters a lot for a realm like this one.”
+
+“Hmm…” Thond’s hand started creeping behind his back as discreetly as he could manage. Which still wasn’t very discreet, considering it was a giant lump of meat.
+
+“Oh, go on,” said the creature, waving a hand. “Call your guards, if it’ll make you feel better.”
+
+Thond’s hand eased slowly away. That gut feeling was getting stronger. “Err. What… Infinity Heart…? Huh? I never heard of it,” he said. He even let a little slobber out the side of his mouth. Orcs, he knew, looked very stupid to other creatures at the best of times. But there was nothing for it; their faces were just built boxy and severely underbitten.
+
+“Really? That’s too bad. Perhaps I’m in the wrong place,” mused the dragonoid. “Before I go, though, let me try something.”
+
+He suddenly swooped up. Then veered sharp left—did he have some kind of sensor? Could he tell where it was?
+
+Sure enough, he made another turn. This time hard right. Thond felt all of the muscles in his face tighten. But the dragonoid gone right and up—maybe he didn’t know?
+
+Then he swerved right and down, and a cold horror settled in Thond’s stomach. The intruder’s face lit up. “Aha!”
+
+“What?!” said Thond. “You found something?”
+
+“Your face. I’ve been watching it this whole time, but when I swerved there you looked ready to shit yourself!” The dragonoid pointed. “It’s in that direction, isn’t it?”
+
+Thond hesitated for a second too long.
+
+By the time he got out his frantic “No!” the dragonoid had already plunged down.
+
+Thond jammed so hard on his panic button he nearly broke it. “ENEMY! ENEMY IN THE MAIN MINE! HE’S HEADING FOR THE HEART—KILL HIM NOW!”
+
+In a breath the walkways and bridges were bursting with soldiers. A flurry of shouts floated up to him; there was much crashing and banging, screams, bursts of flame. Thond winced at each loud noise. Thond cringed away from it. He’d been born in a noble family, so naturally he’d had years of tutoring in fisticuffs, but he’d never imagined there’d come a day when he might actually be forced to use them. The banging and crashing went on for a breath, then two—was there actually a chance they couldn’t subdue this creature? Might he really have to intervene?
+
+No, no! How ridiculous. Thond prided himself on his sensibility. That was but one Empyrean, against hundreds of Godly guards, plus his three Empyrean guard captains to boot—and they could all draw on the powers of Jez!
+
+Sure enough, the clattering died down. In the silence Thond could hear his heart beating. “Is he dead yet?” he shouted.
+
+Nobody answered. When he peeked over the edge, he saw why.
+
+They had all been laid out in smoking heaps. The walkways, bridges, tunnels were all stuffed with flattened orcs. The intruder was nowhere to be found.
+
+Thond let himself entertain the idea that maybe the creature had enough and had run off or something. Until he felt his connection to Jez sever.
+
+Then there was a great THUD, resounding through the space. It was not the sound of his heart dropping into his stomach, which he’d immediately assumed. It was thousands of pairs of manacles unshackling at once as the magic that powered them vanished.
+
+The emaciated workers stared at one another in disbelief, then, as one, their eyes swiveled to Thond. “Stay back!” Thond yelped. His belly jiggled not unlike a juicy chunk of steak, which did not help his cause.
+
+Thond was nearly glad to see the dragonoid pop back up. He’d floated to the center of the mine, in view of all.
+
+“Right, everyone! I was told to give you this speech. You are all free! After you stage your revolution and establish your new world order and so forth, if you feel moved to join the resistance against Jez, I shall leave a temporary portal behind, as well as instructions on how to contact a certain Old Man Fate. Goodbye!”

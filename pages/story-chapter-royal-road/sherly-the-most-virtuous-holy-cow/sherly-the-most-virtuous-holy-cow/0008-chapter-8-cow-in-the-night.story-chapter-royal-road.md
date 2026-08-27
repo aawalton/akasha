@@ -1,0 +1,129 @@
+---
+id: fe177fb3-5454-55c8-8071-7062c48ca0ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 - Cow in the Night"
+slug: 0008-chapter-8-cow-in-the-night
+partOf: sherly-the-most-virtuous-holy-cow
+position: 8
+ownLength: 1930
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525766/chapter-8-cow-in-the-night"
+royalRoadId: "2525766"
+---
+
+Chapter 8 - Cow in the Night
+
+Sherly found Duis lying on the ground outside of Crossmark. His face was full of dirt, and his clothes were dirtied with stains. Including the two guards manning the town gate, there were a total of seven people facing the bird-zilim. They were looming over him while he was spouting nonsense.
+
+Nonsense, but still words that made Sherly feel uncomfortable inside.
+
+“I’m telling you! That cow is a demon-cow! Nothing good will come from her! She gave herself a name to endear herself to you. You saw what she did with those other cows! She ate them!”
+
+“You got no eyes in your skull, Duis?” Kasta asked with an accusatory tone. She had not nocked her arrow, but she already had it pinned by her thumb. “You saw what the cow did back in that village. She showed more bravery than all the times you had to brew one of your experimental thingamajigs combined. She took those fireballs to the face and didn’t complain one bit! Some nerve you have accusing someone like her.”
+
+“You’re the one who’s blind, Kasta!” Duis interjected as he stood on his feet. Like a defense mechanism, the bird-zilim expanded his wings, trying to seem larger than he was supposed to be. “I’m telling you, it’s all an act! They all planned it! Of course she’s resistant to fire! She’s a demon! That cow will betray you! She’s a spy of Taurus! The moment any of you puts their guard down, she’ll eat you alive!”
+
+The argument went back and forth, with Kasta defending Sherly, and Duis condemning her. The cow girl watched, confused about what to do. On one hand, she didn’t want to get involved. On the other, she didn’t want them fighting because of her. She turned to find Ishuin staying beside her, far away from the commotion. Maymay was at the elf’s side, turning back and forth with a worried expression messing up her cute face.
+
+“They’re always like this, Sherly,” Ishuin began, sighing. “Though you are the topic of their argument now, unfortunately. I apologize for Duis’ behavior. He is a man of Science, you see. His mind has no flexibility with regards to changing his impression of you.”
+
+“Someone whose primary belief is guided by facts and research should have a more open mind than anyone else,” Sherly began. “If he’s really a man of Science, then discovering new proof that topples down the established truth should be his constant pursuit.”
+
+Her words carried on towards the arguing group, causing everyone to pause. Sherly realized too late that Ishuin was projecting her voice. The elf lifted her hand from the cow’s back.
+
+“Ishuin, you!” Sherly attempted to bite the elf’s hand, if only jokingly. “Ask for permission next time.”
+
+“Hopefully we won’t need it.” Ishuin smiled. “Sorry.”
+
+Duis was visibly stunned. Sherly’s words had obviously brought some understanding in the arrogant bird-zilim’s mind. But regardless of whether he accepted those words or denied them, they had also struck on his fragile ego.
+
+The bird-zilim huffed and stormed off from the group, flying back into Crossmark. Kasta made an exasperated sigh, sent her men after Duis to make sure he didn’t do anything stupid, and then went to Sherly.
+
+“Sorry you had to see that, Sherly,” said the human archer. “Hope that didn’t make us look bad in your eyes, but I can understand if it did.”
+
+“There’s nothing to forgive, Kasta,” said the cow girl. “Thank you for defending me against someone you’ve known for far longer than me. I appreciate it, really. But please, I don’t want anyone fighting because of me.”
+
+“Well, you got a tough wish right there, girl. ‘Cuz of Duis, you’re basically the talk of town now.”
+
+Kasta pointed a thumb behind her, beyond Crossmark’s town gates. Sherly had trouble seeing so far, but she could make out silhouettes of many people. She assumed they were all staring at her with curiosity.
+
+“They’re not going to hurt me, are they?” she asked. Her safety was her primary concern, after all.
+
+“Let’s hope not,” Ishuin said. “Kasta, make sure the townsfolk know that Sherly is under our protection. If they bring any harm to her, our Cancer’s Claw will no longer include their town in our patrols.”
+
+“Aye. I should probably head back, too.” Kasta turned to Maymay. “Come on. You still need to get their food.”
+
+“I’ll see you in a bit, Lady Ishuin, Sherly.” With a bow, Maymay went after the human archer.
+
+“So, Crossmark is under your protection, but they won’t let me in their town?” Sherly asked as she and Ishuin returned to their expanded carriage.
+
+“We’re protectors, not governors, Sherly,” Ishuin said, slumping back onto her sofa. “It’s not part of my jurisdiction to dictate how the people of Crossmark run their town. And if I flaunt my authority for such a trivial yet controversial thing, the people in power who don’t like me will have more reasons to try and overthrow me from my position.”
+
+Sherly blinked. “Wait. How much are you risking by keeping me alive?”
+
+Ishuin turned to her and smiled. “You’re not even offended after my implications?”
+
+“I am trivial and controversial,” Sherly said, confirming the elf’s implications. “If I understand my situation correctly, that statement isn’t even a question. For now.”
+
+“You’re pretty witty to comprehend that much without me even spelling it out for you. As for what I’m risking, how about you take a guess?”
+
+“A lot, I think.” Sherly stared at Ishuin, trying to read her. When the elf said nothing, but remained smiling, she continued. “I think you’re taking a gamble. You said it yourself. If I turn into a zilim, I’ll be able to achieve great things. I honestly don’t want to, but if I want to live free of everyone’s accusations, I’ll have to achieve these great things. I think you’re betting on that.”
+
+“Close!” Ishuin proclaimed. “Real close, Sherly. That’s impressive.”
+
+“What did I miss?” Sherly huffed. “I was so sure I nailed it.”
+
+“Well, it wasn’t your fault. You didn’t have all the information, in the first place.” Ishuin straightened up from her sofa and faced Sherly directly. “I’ll be straight with you. There’s a reason why Duis is so convinced that you’re a spy. There are no other demon-cattle, or any other demon for that matter, who have your level of reasoning and freewill, enough that they can make their own choices.
+
+“You’re unique, Sherly. And for that, you will always have people mistrusting you. Judging you. Condemning you. And I think there’s only one way for you to remove all of those, and convince everyone that you’re a good cow. Or a good person.”
+
+“What’s that?”
+
+“You’ll have to kill Taurus, Sherly. That’s the only way.”
+
+Sherly couldn’t comprehend the weight of Ishuin’s words, even hours after they had been spoken. Killing a god, after all, was just a thing she would hear about in stories and games. In those, the protagonists wielded power that could match the divinities. Whether through hard work or special exceptions, they were all given something that would help them take advantage of a god’s weakness.
+
+There was also that to consider. Gods in those stories had weaknesses. Sherly wasn’t so sure if actual gods would have something so convenient.
+
+Most of all, there was one absolute and undeniable difference that separated Sherly from those protagonists that killed gods. Unlike them, she was just a cow.
+
+Even if I turn into a zilim, that doesn’t guarantee anything at all.
+
+Sherly contemplated alone. They had finished dinner, and both Ishuin and Maymay were asleep. She couldn’t even get a wink herself. Her mind was too busy trying to catch up with her new reality.
+
+Her disbelief wasn’t completely gone yet. The hope of waking up from a bad dream was still there. Ever fleeting, ever teasing. Ephemeral whispers trying to drive her mad.
+
+Whenever she closed her eyes, she could envision herself standing in a line of people at a fast food restaurant. She could still remember the feeling of that paper wrapper on her nonexistent hands. She could feel the bounce of her hair as she celebrated, before attempting to take a bite.
+
+That instant always turned into a haze, like her own eyes getting dragged away from her skull, and then slapped into the body of a cow. That moment would always bring her back to reality. And she would open her eyes. Then frustration would grip her. Then anger. Then sadness. Sherly, then, would weakly ask that same question like she had always done.
+
+Why me?
+
+“I think,” a voice started, startling Sherly. It was Ishuin, sitting down next to her and leaning on her side. “I think, finding the answer to that question is the genuine reason why one goes through life.”
+
+It was only then that Sherly remembered how Ishuin could read her mind. She didn’t have it inside her right now to care whether it was actual mind reading, or if the elf could only hear the words she would say in her mind.
+
+“Circumstances might be different, blessings and curses may or may not be bestowed, happiness or despair might be involved, and many other such things. Whatever the case, there’ll always be a point in someone’s life where they ask that question. Why me?
+
+“Destiny. Fate. Whether you believe in those things or not, it is still your life. It’s still you who has to find the answer to your own question, just like everyone else who goes through theirs looking for their own answers.”
+
+“I never asked for this,” Sherly said quietly. “I just wanted to keep to myself. I just wanted a normal life. I just wanted to run marathons whenever I can. I just wanted to do my hobbies. I just wanted to earn enough money to live quietly. I just wanted to be…”
+
+A tear fell down the cow’s face. Ishuin reached out and wiped it away.
+
+“I just want to be normal again.”
+
+“I’m sorry, Sherly,” said the elf, her hand soothing the cow girl’s back. “For what it’s worth, you don’t have to meet my expectations. If all you want is to turn into a zilim, then that’s all I’m going to ask of you.”
+
+“No,” Sherly said. She lifted her head and turned to look at Ishuin with one eye. “Since I’m already here, I want to be useful. If I’m going to earn a place in this world, then I’ll have to prove to everyone that I’m not someone to be afraid of. I can’t promise you that I’ll kill Taurus, but I will at least support your caravan however I can.”
+
+“I’m sure you’ll be a great asset for the Cancer’s Claw. But before all of that, you should go get some sleep. You have a lot of hunting to do tomorrow. If you need help, I can cast a Spell on you.”
+
+Sherly turned her head back and relaxed. “Yes, please. Thank you, Ishuin. I’ll never betray your trust in me. I promise.”
+
+The elf Wielder touched Sherly’s forehead. The cow girl felt mana enter her mind. There was a soft sensation, then weightlessness, as if she was submerged in water with the ability to breathe in it. The Spell, or Skill, or whatever it was, had taken thought and worry out of her mind.
+
+Sherly slumbered peacefully, until the sun rose.
+
+When she woke, crushing that fleeting illusion of hope, she was still a cow.

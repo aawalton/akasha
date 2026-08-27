@@ -1,0 +1,117 @@
+---
+id: e40c4ce2-1198-589e-bfdf-0b817fad31c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: A-Grade Evolution"
+slug: 0024-chapter-20-a-grade-evolution
+partOf: shapeshifter-a-non-human-litrpg
+position: 24
+ownLength: 1535
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3491844/chapter-20-a-grade-evolution"
+royalRoadId: "3491844"
+---
+
+[Evolution timer: 2 minutes and 12 seconds remaining]
+
+Xen barricaded himself in a nook on the second floor of the obsidian tower but felt oddly exposed. He looked up and peered through the structure with Geomantic Perception. He sensed that, besides Hina standing by the stairs, the other party members were asleep on the top floor, which should give him some time to evolve in peace.
+
+Assuming Hina didn't abandon her guard and venture down here in search of him.
+
+"I miss having humans I can trust, like Randy, Valoria, and Vesper, to guard me during evolutions," Xen muttered as he sat down against his barricade made from large rocks he found scattered across the floor. In the darkness of the nook, he excitedly pulled up his system menu.
+
+[Hexreaver Slime] has reached Level 80 (A Grade). Evolution is available.
+
+Do you wish to begin the evolution process?
+
+[Yes/No]
+
+"Yes," he whispered.
+
+[Generating evolution options...]
+
+[Having already selected your primary evolution path, fewer evolution branches are available moving forward. However, due to your extensive list of achievements, three evolution options are available to you.]
+
+Select your path forward. Warning: Evolution choice is permanent.
+
+The system message vanished, and in its place, a block of text appeared.
+
+Come on, system, Xen prayed. Give me something good.
+
+[Option 1: Malediction Archon Slime]
+
+The natural ascension of the Hexreaver. Where the Hexreaver layered hexes one at a time, the Malediction Archon weaves them into a single compounding lattice, binding curses together so that breaking one strengthens the rest. It is a dangerous slime designed to slowly kill things that should not be killable.
+
+Skill: [Hex Lattice (A)]
+
+When three or more debuffs are present on a target, they are bound into a self-reinforcing lattice. Every debuff that ticks, refreshes, or is cleansed feeds the others, extending their duration and increasing their potency. If the target attempts to cleanse any debuff in the lattice, the cleansed effect is dispersed among the remaining hexes. The lattice persists until every debuff expires naturally or the target dies.
+
+Passive: [Mark of Suffering]
+
+The first three debuffs you apply to a target in combat are free of mana cost. Enemies who survive prolonged exposure to your debuffs accumulate a hidden Marked stat, permanently increasing your damage against them in future encounters.
+
+Xen read over the first option with interest and felt the skill and passive matched the strength of an A-grade monster in his mind.
+
+While I haven't encountered a party with a competent Priest in it yet, I can imagine how tricky it would be to face a boss monster capable of cleansing my curses. With so much of my power against stronger foes relying on stacking multiple curses, Hex Lattice would fix the fatal weakness of curses before I encounter the problem. The passive is also rather interesting, as many of my skills apply debuffs of some kind, so this passive would make the first three against a target mana-free.
+
+He didn't have long to dwell on each option, so he shifted to the next one.
+
+[Option 2: Voidrot Slime]
+
+A deeper corruption of the Hexreaver lineage, rarely manifested by the dungeon, as it causes death to everything around it. The Voidrot abandons the precision hex-crafting of its predecessor and instead infects the very space it inhabits—its curses no longer require a target. Instead, its curses bleed from it like heat from a coal. Where the Hexreaver hunted bosses, the Voidrot ensures nothing within its sight escapes.
+
+Skill: [Entropy Well (A)]
+
+Designate a point within visual range as an Entropy Well. For thirty seconds, all mana expended by enemies within a ten-meter radius of the Entropy Well—whether from skills, passives, or regeneration—is partially absorbed, weakening their active effects and restoring your own mana and biomass. Skills cast through the Well suffer a grade reduction.
+
+Passive: [Sessile Decay]
+
+Passively erode the mana and structural integrity of everything around you. Armor, weapons, and constructs rated B-grade or lower degrade over time in your presence.
+
+Entropy Well is a fantastic skill. It restores my mana while draining it from enemies? And weakens their skills on top of that? I've been in enough fights now to know mana is the only thing that really matters. Every Hunter, even if they have mana regeneration skills, runs dry eventually.
+
+He trailed off, then frowned behind his mask.
+
+But the passive is troubling and the core of what a Voidrot Slime is.
+
+Sessile Decay would be incredible if I always hunted alone. I could sit in the middle of a room, let everything around me rot. But it doesn't care who's standing next to me. Allied armor, clothes, and weapons—all of it degrades just for being near me. I couldn't walk through a guild hall without leaving a trail of decay in my wake.
+
+Xen really liked the offered skill. It was unfortunate.
+
+This form isn't made for someone who works with humans. It's barely made for a creature that works with anything. He glanced again at the description for the Voidrot Slime. Rarely manifested. I can believe that. The dungeon only births something like this when it wants a floor scrubbed clean of every living thing, monster or otherwise. A Voidrot Slime isn't a hunter. It's a purge.
+
+Not what I need. But if I ever see one in the dungeon, I'll be sure to hunt it down to get that skill.
+
+That left Xen to pick between Malediction Archon Slime, the natural evolution of the Hexreaver Slime, or whatever the third option was. He glanced down at the third and final option for his A-grade evolution.
+
+[Option 3: Changeling Slime]
+
+A rare deviation of the Hexreaver lineage. Where the Hexreaver hunts through raw curse-craft, the Changeling hunts through deception. It studies the shapes of creatures around it and weaves its biomass into their likenesses, creeping among prey as one of their own to inflict potent hexes and curses from up close.
+
+Skill: [Changeling Veil (A)]
+
+Swiftly reshape your biomass into the silhouette of any creature you have previously devoured and coat your new form with illusion mana to copy their appearance. While Changeling Veil is active, your mana signature, body heat, size, and general outline are replaced with those of the chosen creature—convincing enough to deceive Appraisal skills and to pass cursory visual inspection at a distance. The veil cannot replicate fine detail perfectly, cannot exceed the copied creature's base movement speed, and collapses the instant you use any debuff, hex, or slime-form skill. Any damage that would kill the chosen monster will also break the veil.
+
+Passive: [First Strike]
+
+The first debuff you apply after breaking Changeling Veil is applied at an upgraded grade and cannot be resisted, cleansed, or reflected during its first three seconds. A target struck from within Changeling Veil is considered ambushed, regardless of whether they were aware of your presence or actively observing you at the moment of the strike.
+
+Shapeshifter slimes exist in the dungeon? I never knew, but that does make sense for an A-grade evolution to be able to mimic other monsters. Slime bodies are adaptive, I would know, but their usual bodies are too obvious and have glaring weaknesses. If Kenji went to strike an Ashrock with his fist, only to discover it was actually a Changeling Slime that cursed him with Petrification, he would be taken off guard and likely lose.
+
+Xen focused on the Changeling Veil skill. While it was technically inferior to his [Shapeshift (E)] skill, which let him permanently take on another form and use their skills, there was one word in the [Changeling Veil (A)] that made it very appealing to him: swiftly. His current ability took a few minutes to complete the transformation, and it released a foul smell that gave him away. He couldn't shapeshift freely during combat or if there were people around him.
+
+But with [Changeling Veil (A)], that would be possible.
+
+I could dip out of sight for a moment and shift into an Acid Slime. So long as they don't strike me to break the illusion, I could hunt in peace right under their noses, and they wouldn't think anything of it. I haven't even mentioned how insane First Strike is in combination with a skill like [Ashen Gaze (A)]. I could blast someone with superheated stone mana, Petrifying them and inflicting Smolder. That's two debuffs in an instant. One more and I can finish them with Perish.
+
+A sudden timer flashed in his vision.
+
+[Evolution timer: 10 seconds remaining]
+
+He was out of time to decide. Voidrot Slime was off the table, and between the remaining two, one empowered his already potent curses and fixed one of their key weaknesses, while the other gave him a whole new way to infiltrate the humans and kill.
+
+"I choose Changeling Slime," he said. For him, he valued his ability to blend in over the potency of his curses, as he had so many other skills to use should curses prove ineffective.
+
+[Evolution to Changeling Slime Confirmed: Time until completion 179 minutes and 58 seconds]
+
+The world faded to darkness. In three hours, Xen would awaken as not only an A-grade existence but also a Changeling Slime.

@@ -1,0 +1,193 @@
+---
+id: 727846ec-dc69-5fd2-a369-d01a00ae1390
+page-type-slug: story-chapter-royal-road
+title: "274. The Goddess of Light (I) "
+slug: 0030-274-the-goddess-of-light-i
+partOf: speedrunning-the-multiverse-complete
+position: 30
+ownLength: 1879
+unit: words
+ownProgress: 1879
+publishedAt: 2023-08-01
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1295604/274-the-goddess-of-light-i"
+royalRoadId: "1295604"
+markedReadAt: "2026-06-29T22:42:41.688Z"
+---
+
+With one last punch the Infinity Heart ruptured. A gale of gold qi buffeted him, howling out the room, up the winding staircase, desperate to escape. Then there was silence.
+
+One down! One of dozens, perhaps but Dorian savored it anyways. In his experience the first of anything was usually the hardest. He had a feeling the Infinity Hearts might just be an exception, but a God can hope, can’t he?
+
+When he went outside once more the sky was blue, not gold. The world itself hailing his victory.
+
+And his army was wasted. Destroyed. Shattered.
+
+It looked like he’d missed some epic battle. Warriors were groaning, tongues lolling, strewn flat. Some spasmed. Others foamed at the mouths, eyes rolled back. Whatever had swept through here had upended tables, smashed bottles, littered the walkways with all manner of sauces and meats and smashed fruit. They hadn’t stood a chance.
+
+“What the Hells happened here?” he muttered.
+
+“We found Scraggletooth’s winery in the cellars,” said Sun. It was her voice, at least, coming out of a flabby ball of a creature. It took Dorian a moment to put the two together.
+
+“Sun?!”
+
+She burped happily. “Hey!” She was lying flat on her back; she rolled over to get a better look at him. She’d grown several sizes—she was nearly as big as him now, and she was so bloated she had to roll to move. Any other creature would’ve exploded but her anatomy was something special, alright. Her arms and legs were corded with thick muscles, but apparently even her metabolism couldn’t keep up.
+
+“Check this out!” She made a scrunched-up face which he gathered was supposed to look scary, then hit a couple of flexes. “Grr!”
+
+“Impressive,” he said dryly.
+
+“Thank you.” She tried getting up, but her belly was so big she couldn’t bring her legs or hands together. After a few breaths of puffing and straining she gave up.
+
+“I think I need some time to digest…” she said sheepishly.
+
+“Hmm,” said Dorian. “We’ve done all there is to do in this realm, I think. Which next?”
+
+He sat down on her belly like it was a couch. It was as soft as one, and he sank well into it. Then he laid back, crossing his arms behind his head, and started to turn the question over in his head.
+
+Sun wheezed as he did. “Hey!” She tried punching him, but her stubby little arms couldn’t quite reach him. She managed a menacing jiggle; that was all.
+
+“Of the threads Fate gave me, there’s the wildflower preserve,” mused Dorian. “And the Realm of True Light. And you can’t forget Ataria…”
+
+The dragonrealm had been a lot of marching and battling, back-to-back. He was in the mood for a palate cleanser—something lighter, something easier, with any luck. The answer suggested itself. Most of the time Dorian had to invent plausible-sounding reasons to suit his whims, but this one actually made sense on its own, too.
+
+“I’ve got a plan.”
+
+“Great!” said Sun. “Is step one, ‘getting off poor little Sun, who’s been nothing but good and kind to you?’”
+
+“No.”
+
+“Aww…”
+
+He snapped his fingers. “Gerard!”
+
+Gerard was on a nearby peak, busily directing a horde of drakes. They appeared to be building the foundations for something. A crane carried the body of Salas on a stretcher.
+
+“Gerard!”
+
+But he couldn’t be heard over the din. Sighing, Dorian picked up a chunk of stone and lobbed it. The air guided it in a smooth, perfect arc to land on Gerard’s head. Bonk.
+
+Gerard jerked up, frowning, and met Dorian’s gaze. Dorian grinned. Gerard gave him an unamused look. He flew over.
+
+“What is it, my liege?”
+
+“Say—how close are you to Godking?”
+
+“My Dao troubles me, as it has for several centuries… I’ve given up that path long ago, my liege. If I were to try once more it would take some centuries yet. It is a matter of surpassing a final bottleneck.”
+
+“What if you had access to all of Coldheart’s best Dao elixirs, plus the Chamber of Infinite Time? Could you finish it off in, say, a week’s time?”
+
+“Perhaps.”
+
+“Good! Then you sit here and do that. And you—” he flicked Sun. “You sit here and digest.”
+
+Sun slapped her belly, then gave him a salute. “Yessir! I’m on it!”
+
+“I’ll be back in a few days. I’m off to the Realm of True Light. A little solo run, if you will—it shouldn’t take long.”
+
+Gerard nodded. “May your Fate be true. Take care.”
+
+“Are you sure you don’t need any help?” said Sun.
+
+“You couldn’t if you tried. Besides, there’s no need for this one. I expect this to be smooth and easy. A vacation, if you will, before we take on the rest of the Realms.”
+
+“Uh-huh,” said Sun. She squinted at him.
+
+“You don’t know the Realm like I do. Trust me. The last time I was there I went under the name Yeshiva—I was the Goddess of the Church that ruled that place for millennia! It still controls most of the realm, doesn’t it?”
+
+Gerard cleared his throat. “From the last status report of which I am aware, Jez’s Infinity and the Church share the realm as allies, each controlling roughly half. The Church of True Light is a fearsome force, with four top-ranked Godkings and dozens of Empyreans. I imagine it would take an appearance by Jez himself to bring them to heel.”
+
+“Am I missing something?” said Sun. “Four top-ranked Godkings, plus Jez’s forces, is easy? I mean—even for you, it sounds…” She frowned mightily as she searched for the right word. “…sticky…”
+
+“Oh, I won’t be fighting them. I’ll be joining them.”
+
+“I still don’t get it.”
+
+“You don’t need to. Let’s just say before I ascended I left myself a… eh… a backdoor, let’s call it?” Dorian patted her belly and stood. “I’ll be back before you know it!”
+
+***
+
+The Realm of True Light
+
+Unlike the dragonrealm, the Realm of True Light was exactly as he remembered it.
+
+The Fate Thread spat him out on the side of a road beside a sparkling river. Picturesque hills stretched into the distance. Rows of plum blossom trees wound into the horizon on either side. Once upon a time it’d been a land full of farming communities, the sort of place where a villager might live his entire life without leaving their patch of land. Pretty, tranquil, and utterly boring. No-one had any ambition whatsoever.
+
+No wonder the first thing he’d done upon getting here was install a tyrannical church to spice things up. Give the place some flavor! Whip these lackadaisical locals into shape.
+
+Whistling, he followed the road. He was in no rush, and it'd been a while since he'd enjoyed this scenery.
+
+Soon he found a villager boy in a straw cone hat—a demigod, farming a rice paddy on the roadside. “Greetings!” he said, striding up. “I’m—“
+
+“WAH!” screeched the boy. “D-devil! Black devil! Stay back!”
+
+He brandished a hoe at Dorian.
+
+“I’m Dorian,” finished Dorian patiently. “What’s your name?”
+
+The boy leapt, screaming a battle cry, and thwacked him in the head with the hoe. Predictably, it bounced off, left his hands, and stuck into the dirt. The boy looked at him, then at the hoe, then at him. Dorian saw indecision flash in his eyes; then a sudden resolve. A bravery. He leapt for the hoe with such desperation he must’ve imagined Dorian leaping for it also. Then he wrenched it out, screaming triumphant, whacked Dorian over the head again, lost control of the thing, and they were back where they started.
+
+“I’m not a devil,” sighed Dorian. “I’m a human. Just a different sort, that’s all.”
+
+“Lies!” cried the village boy. “Liar! Flesh-eater!”
+
+“…Really?” sighed Dorian. “I hardly even—”
+
+His words were cut off by a thwack. The hoe went flying again. Rolling his eyes, he picked it up.
+
+“Keep a firm grip before you swing,” he said. “You’re trying to hit my head like it’s a rice paddy. It won’t work. And when you swing, go for a spot behind my head. And hold on tight.”
+
+Dorian mimed the motion to a gaping boy.
+
+“Here.” He handed the hoe over. “Now you try.”
+
+After staring at him for a breath, the boy obliged.
+
+“See? Much better.”
+
+“You’re really a human?” said the boy hesitantly. “But… if you’re a human—why are you so ugly? Your skin—it is dark, like coal!”
+
+“…” Dorian’s cheek twitched. “I simply have some dragon’s blood in me, child. No matter. Would you direct me to the nearest temple of True Light?”
+
+“…Okay…” The boy turned. Then hesitated, and turned back around, and frowned doubtfully at Dorian. “Wait. How do I know you are not lying to me? If you’re not a devil, prove it!”
+
+If Fate were here he would probably find some way to charm his way into this boy’s good graces. That was probably what Fate would have wanted him to do, given he was ostensibly on a mission to free the locals from the tyrannical Jez, and so on and so forth.
+
+But this was about where Dorian’s patience ran out. See, this is why I’ll never truly be good! It’s simply too tedious. He rolled his eyes.
+
+Then he widened them suddenly. He opened his mouth, lolled out his tongue, bared his fangs. “BOO!”
+
+“WAHHHHH!” cried the boy.
+
+“I lied!” cackled Dorian. “I AM a devil—the worst of them all, the Emperor of Devils, Dorian himself! And I love to drink the blood of little virgin boys!”
+
+“Devil! I knew it!”
+
+He whacked Dorian again, but Dorian caught the hoe this time, picked it up, and snapped it in half like a toothpick.
+
+“I came here,” said Dorian. “Because I was hungry, and I smelled a delicious little virgin boy!”
+
+He spread his wings out. The boy shat himself.
+
+“You don’t want me!” cried the boy. “My blood is tainted! I’m—I’m no virgin!”
+
+That made Dorian pause for about a half a second. Then he gave the boy a once-over. No way.
+
+“You think you can trick me? I smell it on you. A rancid stench! You dare lie to me, little boy?!”
+
+The boy broke out in sobs. “I’m s-s-sorry! I w-won’t do it again—please don’t eat me!”
+
+“What is your name, boy?”
+
+“Rin!” cried the boy.
+
+“Rin…” Dorian smacked his lips. “If you don’t tell me the directions to the nearest Temple of True Light, Rin… I shall swallow you in one gulp! Like that!”
+
+“It’s d-down the r-road—down the right fork, in-in the mountain w-with the v-v-village!” sobbed Rin. “P-please—”
+
+“Thank you.” Dorian retracted his wings and let his face sag back to normal. “Was that so hard?”
+
+He’d taken a dozen strides down the road before the boy caught on. “Wait!” came the cry. The boy dashed up to him. “You’re… not a devil?”
+
+“Well, many have called me that,” said Dorian “And I played at it for a while. But at the moment I’m trying not to be. It gets repetitive. And it doesn’t make life any more meaningful, which was what I was really hoping for. Alas.”
+
+Savoring the view, he made his way up to the village.

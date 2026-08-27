@@ -1,0 +1,213 @@
+---
+id: 030ad3da-fae8-5b55-8386-013f6aeb1a93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 - Cow Back to Safety"
+slug: 0017-chapter-17-cow-back-to-safety
+partOf: sherly-the-most-virtuous-holy-cow
+position: 17
+ownLength: 2500
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2605043/chapter-17-cow-back-to-safety"
+royalRoadId: "2605043"
+---
+
+Chapter 17 - Cow Back to Safety
+
+”Sherly?”
+
+The cow girl didn’t take it negatively when Ishuin asked her identity. She had evolved, after all. Instead, she just gave a silent nod. Her adrenaline had left her. She felt extremely weak. All the injury, the near death experience, and the healing back to one piece had taken a toll on her body.
+
+Ishuin caught her as Sherly collapsed to the ground, desperate arms wrapped around the newly evolved cow-chilim.
+
+Demon-cow-chilim.
+
+“I’m so glad you made it back safely!” Maymay said, joining the reunion with a tight embrace of her own.
+
+“I can’t breathe!” Sherly complained, but she didn’t push them back.
+
+“Here,” Ishuin said as she released her embrace. From her Domain Heart, Sherly realized it was called, the elf brought out a piece of bread. “Since you just evolved and gained a new stomach, you must be starving.”
+
+Sherly didn’t even realize it until the piece of bread was in front of her. It was an odd feeling, craving bread. She realized she hadn’t eaten anything simple or cooked since she had left the barn.
+
+The sensation of grabbing the piece of bread was an absolute joy. Each of her fingers touched the smooth surface. Each gave her the feeling of their own contact with the food.
+
+She smiled a dumb cow smile as she took the bread, spreading the same emotion to her two friends.
+
+Eating, however, felt weird.
+
+When she was still fully a demon-cow, Sherly had silently detested eating off the ground. Her cravings and hunger overpowered this sensation, but she always had felt a touch of disgrace whenever she would stoop her head low to take a bite off whatever she had been eating at that time.
+
+Now, however, she could use her hand to place the food close to her snout. The bread was big enough for a human head. For her, however, it was just a small chunk.
+
+Ishuin brought out an entire basket after confirming she could eat it.
+
+“Oh, wow, are we near Crossmark?” said a bubbly voice. Kobeni seemingly appeared beside them, though she had been with Sherly the moment she returned from the portal. “Hello, Lady Ishuin.”
+
+“Matriarch Kobeni!” Ishuin said, gasping. She and Maymay quickly faced her, properly fixed their legs so they were kneeling fully on the ground, and then bowed their heads. “When Lady Kansa said she’d send the Hidden Cabal, I didn’t think you would personally get involved.”
+
+“Well, it was against Taurus, so I had to be there,” Kobeni said, tapping their shoulders and urging them to relax. “Plus, I wanted to make sure our little Cowie survived the encounter. Since we’ve never had an awakened demon-cow trying to evolve, and is a Wielder to boot, I wanted to make sure she’s on our side.”
+
+“Thank you so much!” Ishuin said, bowing once more. Maymay followed suit.
+
+“C’mon, girls, ease up. I’m not going to bite or anything.”
+
+“What’s the Hidden Cabal?” Sherly asked, munching on bread. Since she didn’t want any awkward silence to fill the conversation, she went straight into sending her questions.
+
+“Hidden Cabal of the Taurus Rebellion,” Kobeni clarified and introduced. As she announced, all the other cow and bull-zilims appeared behind her. “We’re basically what’s left of Taurus’ empire from before everything succumbed to corruption. Well, we and the others who stayed in our hidden base, but you get the point.
+
+“I’m Kobeni Apocalypse, the leader of the Hidden Cabal. And our main purpose is to respond against Taurus’ movements and schemes. We’re technically not under any Zodiac anymore. We’re our own faction, allied with all the other Zodiacs. They give us information about Taurus and we take action when needed.”
+
+“You’re basically the anti-Taurus faction,” Sherly said, nodding along.
+
+“That’s right!” Kobeni said, smugly. She crossed her arms for effect, but with her small frame, she didn’t look intimidating at all. “And since we’re here Cowie, we want to extend to you our formal invitation.
+
+“When you said you wanted to take down Taurus, I was very touched! We want you to fight alongside us. Join the Cabal.”
+
+Sherly paused. She didn’t know the full implications of the invitation. She turned to Ishuin and Maymay, who both realized what she was unsure about. Of course, Kobeni saw this too.
+
+“Oh, bugger. I’m not going to pull you away from your friends, Cowie. It’s not like that. And you don’t have to answer right away. You still need to become a zilim and train. Once you’re more powerful, we’ll extend you the invitation again.”
+
+Belle went closer to Kobeni. “We should head back, Matriarch.”
+
+The purple cow-zilim nodded. “Well, Cowie, when it’s time for you to evolve into a zilim, make sure you let Lady Kansa know, so she can inform me. I want to be there to make sure you’re safe. As for your other chilim evolutions, since they won’t be as drastic a change as the first one, Tau-tau shouldn’t be able to bother you.”
+
+Kobeni motioned without waiting for a reply. A portal appeared behind them. She groaned as her group headed into it.
+
+“Three portals back-to-back-to-back! I’m going to read books for the rest of the week. Don’t let anyone bother me, Belle, okay? Only Zodiacs. And don’t think you got away with slapping your own mother with your sword! More training for you when we get back!”
+
+Belle sighed. “Yes, mom.”
+
+“Oh, right!” Kobeni started, jumping back out of the portal to rush at Sherly. From her Domain Heart, she reached out to retrieve a sword. It was large, quite taller than the owner. “Here, a weapon for you, Cowie.”
+
+“Thank you!” Sherly frowned. “But don’t minotaur usually carry axes?”
+
+Still, she accepted the weapon. It was a greatsword. A thick frame, wider than her new arms, with sharp edges on both sides. Sherly didn’t know the first thing to do with the sword, but she figured she’d learn and train anyway.
+
+“I can give you an axe if you want?”
+
+“Oh, no need. Thank you.” Sherly gave an appreciative bow. “I prefer swords to axes, anyway.”
+
+“Is this a special sword?” Ishuin asked.
+
+“Oh, no, no, no,” Kobeni said, waving her hands in denial. “It’s a totally normal, mundane, handcrafted, super standard, greatsword. It doesn’t have any magical properties at all. Definitely no secret runes that will activate based on your Level. It’s definitely not a weapon that grows with its owner. Nope! Nuh-uh! Nada! Nothing! None!”
+
+Sherly and the others could only make a dumbfounded smile as Belle dragged her mother back into the portal.
+
+After a few tries, Sherly finally stored her new sword in her Domain Heart. Then, she faced the other two and started the conversation with a bow.
+
+“Sorry for making you worry,” Sherly said.
+
+“We’re just glad you’re okay,” Maymay said, passing a bowl of water.
+
+She drank from it, a thing that she still couldn’t do as she would as a human. Dipping her mouth into the bowl, she sucked all the water in before making a huge gulp. Not exactly human-like, but she was getting there. If things went well, she would be able to use a glass in no time.
+
+Hopefully…
+
+“Before we get back, we should get you some clothes, Sherly,” Ishuin said, pulling the cow-chilim out of her thoughts.
+
+“Oh… Right.” Sherly looked at herself. Her middle section now had parts that of an actual human. Well, more like half-human and half-monkey with all the hair she had covering her skin.
+
+Or maybe half-cow… I evolved from a cow, after all. Demon-cow, but still. Sherly sighed mentally. I’m starting to sound like Kobeni.
+
+“I can lend you mine,” Maymay suggested. She smiled towards her captain sheepishly. “I don’t think your clothes will fit her, Lady Ishuin.”
+
+“I know, I know.”
+
+With that, the dog-zilim grabbed a few shirts from her Domain Heart. “I’ll have to make some customizations for your lower half, Sherly. Now that you’re upright, it doesn’t make sense for you to not wear clothes over that too.”
+
+The cow-chilim suddenly became a little too conscious of her nakedness. Still, she tried on some of the shirts. They all fit, but she still felt conscious about her lower half.
+
+“Can I have your largest one?” she asked, spreading out her arms. “It doesn’t matter if it’s too large.”
+
+“Well, I do have one.” Maymay pulled out one more shirt that was at least three times larger than the other ones. Just a normal, plain, white shirt.
+
+“Why do you have this?” Ishuin asked. “It’s way bigger than what you usually wear.”
+
+“Sometimes, I wear it as pajamas.” Maymay smiled. “I get what you’re trying to do, Sherly.”
+
+The cow-chilim tried on the oversized shirt, the hem of which reached down to her thigh. Satisfied, she gave a nod.
+
+“It covers me up nicely. I’ll return it when I get some proper shorts or pants. You have those here, right?”
+
+Ishuin pointed down to her own shorts. “You mean these, yeah?”
+
+“Oh, yeah. Sorry.”
+
+“Don’t worry about it, Sherly,” Maymay said. “I have one more exactly like that. Just consider it my congratulatory gift for evolving successfully.”
+
+“Oh, that’s right!” Ishuin said, clapping her hands excitedly. “We have to celebrate your evolution! We need to check up with Kasta and see if we can schedule a party.”
+
+“Do we really have to?” Sherly asked. “It feels like imposing, and I’m not exactly a member of the Claw, right?”
+
+Ishuin looked hurt. “You don’t want to join? Is it because you want to join the Hidden Cabal instead?”
+
+“Wait, wait! It’s nothing like that.” Sherly held out her hands in apology. “I want to join the Claw and the Cabal. I just thought there’d be some test before I can formally join the Cancer’s Claw.”
+
+“There is,” Ishuin said with a smile. “And that’s to fight alongside us, which you already did. So in most of my people’s eyes, you’re already a genuine part of the Claw.”
+
+“Most, meaning, it’s only Duis who’s yet to be convinced,” Maymay clarified. “It’s not like he has the right to tell who can and can’t join, in the first place.”
+
+“Are there a lot of people like him?” Sherly asked.
+
+“Let’s talk while we walk,” Ishuin said, leading the way back to Braum’s hideout. “What do you mean people like him?”
+
+Sherly didn’t know how to explain her impression of the bird-zilim without sounding offensive. She took the time to form the specific words in her head while they walked, and fortunately found an angle to start from.
+
+“Does he hate awakened animals?” she started. “Or did I just rub him the wrong way because I took his potion?”
+
+“It’s pretty much just the potion,” Ishuin explained. “Well, I hope. I think some of it is with the fact that you’re the only awakened demon-cow ever. Both anger and fear makes for a really annoying person, especially since he thinks he’s being reasonable, and that we’re the crazy ones for believing that a demon-cow can be reasonable.”
+
+“I heard his village was destroyed by a herd of demon-cattle,” Maymay said. “Not really sure. He doesn’t like talking about his family.”
+
+“I sure hope I can get that sorted out with him,” Sherly said. “I don’t like having conflicts with the people I work with.”
+
+“For starters, at the very least, he promised to leave you alone, after Kasta gave him a good scolding. Nothing physical, if you’re worried. They found a compromise, at least.”
+
+“What’s the compromise?”
+
+Ishuin sighed. “They agreed, that as long as you no longer take any potions from him for free, and that you don’t involve yourself with anything to do with him any further, then he’ll stay out of your way as well.”
+
+“Sounds fair to me,” Sherly said, frowning. “I just hate that I sound like the bad guy in this scenario.”
+
+“In his perspective, technically. Yeah.”
+
+“I kind of regret going into this topic now.” Sherly sighed. “I want to talk about more interesting stuff.”
+
+“Well, I am interested to know if you guided your evolution to what you looked like when you were a human before,” Ishuin started. “You have quite the lovely shape. It’s a pity you’re hiding it underneath that gigantic shirt.”
+
+“You’re pretty curvy, yeah,” Maymay added.
+
+“I think so?” Sherly answered Ishuin’s question, tilting her head before trying to look down. Her large cow head made it difficult to assess the rest of her body, so she started gauging herself with her hands. “Except for all the hair, I think I do have the same size as I used to. They’re not that large, but they’re a hassle to run with, so I hope you have some good undergarments that I can work with.”
+
+“We can certainly check once we’re back in the caravan,” Ishuin started.
+
+“You’re not as big as the other cow-zilim, I saw,” Maymay said. “I’m sure we can get something for you.”
+
+“Belle was certainly big,” Sherly commented, enjoying the fact that they had turned to a topic that wasn’t as difficult to talk about as the one about Duis earlier. “But Kobeni’s weird. You would think she’s the kid and Belle’s the mom.”
+
+Ishuin and Maymay looked at her like she had just insulted a queen, or something. Which, after much deliberation from her part, was what she had actually done.
+
+“Sorry?” she started. “I just didn’t expect it. But I guess I should. Kobeni blocked that lightning from Taurus like it was nothing, after all.”
+
+That issued another set of shock on her audiences’ faces.
+
+“Taurus attempted a Divine Smite,” Ishuin mumbled. “That’s good to know.”
+
+“Umm… explain?” Sherly asked.
+
+“Using Divine Smite isn’t something a Zodiac could normally do willy-nilly. There are complicated semantics working underneath the whole Divine thing, and while I’m a priestess, it’s not something I’m exactly privy to, if that makes sense. I think that maybe Taurus managed to do it, because Matriarch Kobeni was inside his Domain Heart.
+
+Ishuin lit up. “That reminds me, we should give you lessons about your Domain Heart as well. But one step at a time.”
+
+Sherly agreed. She wanted to talk about her experience first. “So Kobeni blocking that Divine Smite means she can go toe to toe with a Zodiac?”
+
+“That’s another complicated thing to answer,” Ishuin started. “If she could stand against Taurus, she would be doing that now with her Hidden Cabal.
+
+“See, Matriarch Kobeni is a bit special. I don’t think it’s proper for me to say more without her permission. But it’s definitely something she would share if you ask her personally.”
+
+“Once I become a zilim, and become strong enough, then I’ll go ask,” Sherly said. “But I don’t want to get too ahead of myself.”
+
+“That’s right. For now, we should head back to the caravan, plan for a party, then go from there.”
+
+“Yeah. I like that.”

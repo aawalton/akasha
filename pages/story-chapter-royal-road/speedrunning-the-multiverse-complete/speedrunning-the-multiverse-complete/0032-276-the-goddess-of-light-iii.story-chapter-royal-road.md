@@ -1,0 +1,145 @@
+---
+id: a7cc8314-1d34-5380-b9b1-0462c405cee4
+page-type-slug: story-chapter-royal-road
+title: "276. The Goddess of Light (III) "
+slug: 0032-276-the-goddess-of-light-iii
+partOf: speedrunning-the-multiverse-complete
+position: 32
+ownLength: 1793
+unit: words
+ownProgress: 1793
+publishedAt: 2023-08-03
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1297955/276-the-goddess-of-light-iii"
+royalRoadId: "1297955"
+markedReadAt: "2026-06-29T22:42:45.958Z"
+---
+
+“Look!” said Dorian. “We’ll probably be working together—or, more accurately, you’ll be working for me—very soon. Let’s not get started on the wrong foot, eh?”
+
+There was a collective confusion on the wall. The Enforcers looked to one another, as though to the guy next to them would know what the Hells Dorian was going on about. When it became abundantly clear none of them had a clue they all turned back with sneers.
+
+“Step away from the walls, foul devil!” shouted an Enforcer with a bigger, pointier hat than the other ones. Presumably the Chief Enforcer of this village. “This is your last warning!”
+
+“Aren’t warnings supposed to come before you unleash the arrows?” said Dorian. “It’s fairly pointless now that I know they won’t do anything to me, isn’t it?”
+
+“FIRE!”
+
+A storm of arrows flew at him. Dorian snapped a finger, and the arrows froze mid-air, trembling a little, like they were so scared they didn’t dare get an inch closer.
+
+Then Dorian blew.
+
+SHLUNK-SHLUNK-SHLUNK-SHLUNK-SHLUNK!
+
+It was some feat of aeronautics to thread the arrow just through their helmets, missing their heads. Six scruffy heads and a handful of bald patches were exposed to the cold wind. A second later the sound of their helmets clattering to the floor rang out somewhere far behind them.
+
+Actually he’d missed on one. The Chief Enforcer had a bigger, balder head than he’d expected. The arrow had carved a thin line over his head. Nothing fatal, but enough to make a trickle of blood wind down his face. He dabbed at it, staring numbly at his red fingers.
+
+“Let’s try this again,” said Dorian reasonably. “Hello! My name is Dorian. May I speak to who’s in charge?”
+
+This time they listened. No doubt his brother would’ve disapproved—he would’ve called this crude. Fate likely would too; he would’ve spent half the day pleading with them. That’s why they needed an asshole like Dorian on their side, he figured. Even the ‘good’ guys needed someone to do the dirty work if they wished to get anything done.
+
+As he waited for the folk on the walls to get their shit together he felt a niggle of annoyance. Now that he’d thought of his brother, he’d found a bone to pick with the prick. If Houyi hadn’t been so keen on following ‘due process’ and ‘just principles’—in other words, waiting for Jez to amass power, waiting until he violated a principle that’d compel Houyi to act—this whole thing would’ve been over before it’d begun! Dorian would’ve crushed the little shit in the cradle.
+
+The townsfolk shoved up a quavering old man with the biggest, pointiest hat of all. “Hello!” croaked the priest. “This one is named Xu. I am the priest and head elder of the humble Mystic Phoenix Village. Who are you? What do you want?”
+
+“I’m Dorian. But you may know me better as the Goddess Yeshima.”
+
+At that, a stir swept over the walls. “Huh?” said Xu.
+
+“I am the Goddess of True Light reincarnated. A pleasure to meet you.” He bowed.
+
+Xu looked at him, then at the Chief Enforcer, who didn’t seem to know what to do either. Xu chewed on his lip. He wore the expression of a man very much unused to thinking for himself—and now that the opportunity arose he hadn’t a clue what to do with it.
+
+“Err,” he said.
+
+Dorian got his dilemma. What to do? They all thought he was quite mad, by the looks of it. But it was also not a good idea to piss a madman off. What if he shot more arrows at them—except a few inches lower this time?
+
+“Look, people. We don’t need to quarrel. All I need from you is directions to the capital,” said Dorian. “It’s fine if you don’t believe me. But in the Grand Basilica there is a way to prove who I am. I mean to take the Trial of Rebirth.”
+
+His easy backdoor into the Church—one he’d left himself just in case.
+
+Well in case was here and he was glad as Hells he’d left it.
+
+At that the figures on the walls could no longer hold back their consternation. A chorus of loud roars; a few mocking laughs. Apparently what he’d said was so outrageous they momentarily forgot who they were talking to.
+
+“Is he serious?!”
+
+“The devil’s mad!”
+
+“But imagine if he tries it! The look on the Pope’s face—”
+
+The ones who’d spoken up were hit by a sudden and random gust of wind, and fell screaming over the walls. The rest shut up instantly.
+
+“Just give me directions to the capital and I’ll be on my way,” said Dorian with such patience he was honestly proud of himself. If only Gerard could be here so he could brag to about it to someone. “Surely one of you must know? I’m being uncharacteristically polite here because it would make a pretty bad impression on the rest of the congregation if their soon-to-be-leader were to murder a village as his first act upon entering the realm. But believe me—I’m not that opposed to it!”
+
+“I know where it is,” said the Chief Enforcer. He stepped up, fists clenched, and he had that set jaw, that righteous flare in his eyes that told Dorian he was a man of principle. Oh, bother.
+
+“I am the only one. This one is called Chief Enforcer Chan. None of the villagers have ever gone to the capital. They know nothing—please, there is no need to hurt them. I know since have gone there for my training.”
+
+“Do tell!”
+
+“Due southeast, following the curve of the Sanshou Range.” He traced the arc of a nearby mountain. “At its end, you shall find the capital.”
+
+Chief Enforcer Chan was sweating hard even before he spoke. Dorian could already tell Chan was not about to tell him the truth. For a second he debated torturing the man for real answers—why was it always the grunts who were the most principled?—until he saw a stork swooping in overhead, several rolls of papers in its claws.
+
+They’re still using stork post?
+
+It was an old strategy Dorian had installed as pope. The best way to stop an uprising was to make your subjects impotent. And the best way to do that was to artificially hold them at low levels of technology; it made them easier to control, it made them dependent. So rather than scrying glasses—which could easily be rigged to communicate with nearby villages and coordinate rebellions—villages could only communicate via easily intercept able, Church-owned storks.
+
+Which solved Dorian’s problem nicely.
+
+“Okay then,” he said with a stupid grin. “I’m off! Thanks for the instructions! Don’t you do anything silly in my absence, alright?” He wagged an admonishing finger, especially at the principled Chief Enforcer Chan. “Don’t even think about sending a message warning the capital I’m coming. Or there will be dire consequences!”
+
+Then, with exaggerated deliberateness, he walked off into the horizon.
+
+***
+
+Sure enough—as soon as he was gone Chief Enforcer Chan scribbled a hasty message, strapped it to a stork, and sent it in panicked flight toward the capital. Dorian saw this all with his Clear Skies Eye from hundreds of li away. “Thought so.”
+
+Leisurely he followed along.
+
+Hours later, when he sighted the capital, he snatched the stork out of the sky.
+
+Then he took a glance back with Clear Skies Eye, scribbled a message on its missive, and shot it on an arrow.
+
+…
+
+…
+
+An arrow dropped out of the sky during the evening meal, scaring the villagers of Mystic Phoenix Village witless. A message was attached to it.
+
+When a trembling Chief Enforcer Chan picked it up and read it out, he found that it was his own missive, sent just hours earlier. Feeling faint, he found a note scrawled at the bottom.
+
+“You seem a nice guy, and you have that blindly loyal quality I find very useful in grunts, so I’ll forgive your trying to trick me just this once. Do it again, and the next arrow goes through your head. Attached is a helpful diagram for reference:”
+
+Scrawled just beneath was a picture of a stick figure with X’s for eyes lying flat on his back, a tongue lolling out. An arrow went through his face and blood pooled around his head, shaded in with charcoal. It looked as though it’d been drawn by a fairly untalented toddler.
+
+The message ended:
+
+“Take care!”
+
+—your loving Goddess Yeshima
+
+P.S.—Do shut your mouth. Soup’s dribbling out of it.
+
+P.P.S—Take notes! This is how you’re supposed to do a warning.”
+
+***
+
+The capital was a gleaming city seemingly made entirely out of marble. It gleamed so white it almost hurt to look at, and every inch of it was sculpted marvelously. Every building seemed to have marble columns thrusting into domed roofs, flowing into archways passing over wide streets, paved so level you could drop a coin anywhere in the city and it wouldn’t roll more than a stride. Every road seemed to end at a fountain, and every fountain spurted over some sculpture—each fitted with a placard proclaiming this-or-that incredibly famous artist had devoted centuries to the sculpture. The entire place could’ve been one great museum gallery.
+
+And half its sculptures were of famous Bishops, Archbishops, or Popes. Mostly smaller ones, clustered around the churches which seemed to pop up on every street corner.
+
+The other half of its sculptures were of one person. Big ones, the ones rising tastefully nude out of nearly every fountain.
+
+Yeshima, Goddess of True Light.
+
+He remembered fondly his days as Yeshima. Mostly it sucked being a woman in these realms, especially a peasant woman—you were mostly expected to keep the household, bear children and the like. And indeed the early days were rough. But once things got going he did find certain advantages to it. The bad thing was men seldom took you seriously, especially if you were very young and very pretty, as he was. The good thing was their brains were so scrambled when she smiled at them it hardly mattered. She could win a city over with a laugh and a wink.
+
+It would’ve been nice to have that form again, he reflected, as he stalked the streets of the Capital. Folk moved out of his way like he was plague-ridden.
+
+He was on his way to the biggest dome of them all, visible from any point in the city, so riddled with fountains, and arches, and sculptures it was honestly far too much.
+
+The Grand Basilica. The heart of the Church.
+
+It was time to reclaim what was his—and get his body back too in one fell swoop!

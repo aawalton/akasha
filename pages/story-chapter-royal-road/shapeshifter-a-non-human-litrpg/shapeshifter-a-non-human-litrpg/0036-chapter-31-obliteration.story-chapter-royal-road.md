@@ -1,0 +1,117 @@
+---
+id: 7840749c-4f0d-59eb-911c-611032a88e1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Obliteration"
+slug: 0036-chapter-31-obliteration
+partOf: shapeshifter-a-non-human-litrpg
+position: 36
+ownLength: 1417
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3714712/chapter-31-obliteration"
+royalRoadId: "3714712"
+---
+
+[Taunted by Sentinel's Provocation] flashed above the level 60 Abyssal Slime.
+
+Xen hadn't expected to find a use for the tank skills he'd taken from Marcus so soon, but a single-target taunt was exactly what he needed to peel the slime off Alex.
+
+Come on, he thought, stepping slowly backward to draw the slime away from the barricade. Get off him.
+
+The Acidic Burst that triggered upon the death of an Acid Slime was already troublesome to deal with, but the Abyssal Slimes took that to a new extreme. He had hunted a few on the way here, and he did not want anyone near them when they died.
+
+While the original Acid Slimes were a translucent yellow with visible cores, the Abyssal Slimes were far more intimidating. A viscous mass somewhere between sludge and ink, dark purple-black in color, with threads of swirling abyssal mana running through it like dye dissolving in oil. The Abyssal Slime's surface was not smooth. It bubbled and rippled constantly, as if something under the surface was trying to break free. Every so often, a rupture extruded a tendril as thick as a man's arm and several meters long. The taunted slime was using a half-dozen at once, hauling itself across the porous stone toward him.
+
+The ground beneath it hissed loudly as it began to sink into the rock.
+
+Just a little more.
+
+Xen continued to step back and keep his eyes on the taunt's status. Once it had fully cleared the barricade, he was about to launch his attack when the Abyssal Slime beat him to it. A tendril erupted out of its body at Xen. He dodged with ease, but the tendril found purpose by latching onto an amber crystal behind him. The massive crystal fractured under the strike, and what remained of the Abyssal Slime that it could hold onto began to dissolve.
+
+Definitely can't get hit by these things, Xen thought. While I won't die, my Changeling Veil will disappear, leaving me without illusory clothes.
+
+Perhaps seeing him as the more ideal target, the other Abyssal Slimes crowding around the barricade retracted their tendrils and turned their attention toward him.
+
+There are about a dozen of them, Xen mused as he noted his Solo Hunter passive activating and the added stats filling his body with power. While their cores aren't visible, with our level difference and Solo Hunter, this should do the trick.
+
+He raised both hands and fanned out his fingers.
+
+"Corruption Missile, Phantom Strike, Corruption Missile, Phantom Strike, Corruption Missile, Phantom Strike, Corruption Missile, Phantom Strike—"
+
+Mana drained from his reserves in a flood to feed the dozen orbs of death orbiting his wrists in numerous rings. This was not an efficient use of mana, nor the most effective way to kill the Abyssal Slimes. But without access to Radiant Smite, this was the best option he had.
+
+I know Corruption Missile isn't effective against monsters corrupted by the abyss, but I don't think that's going to matter.
+
+Xen smirked behind his mask.
+
+He'd slaughtered a few more monsters on the way over and ticked his Changeling Slime form up to level 90. With Solo Hunter stacking 50% onto an already enormous Magic stat, the power crackling through him was obscene. By his estimates, his Magic alone—normally around 588 before buffs—was sitting at 882. Each missile carried firepower past what an S-grade mage could produce, and Phantom Strike would double the number of attacks.
+
+"I can only pity you," Xen muttered as his entire arms were decorated in orbs of death, and the layering of spells reached the threshold. "For meeting me."
+
+He fired.
+
+A wall of Corruption Missiles exploded outward from his fingers and slammed into the Abyssal Slimes. Their resistance held.
+
+For the first wave.
+
+The second punched holes through their outer layers. The third smashed into their insides. The fourth detonated their cores. Wave after wave continued to roll through the swarm until what remained was nothing but hissing abyssal sludge sluicing down the ruined barricade.
+
+In less than a minute, the dozens of high-level Abyssal Slimes that could easily wipe out Alex's party had been eradicated.
+
+You have killed multiple opponents.
+
+Experience split between [Changeling Slime] and [Human] form.
+
+[Changeling Slime] has leveled up: 91 → 93.
+
+[Human] has leveled up: 53 → 56.
+
+As always, fighting alone netted him a significant reward.
+
+Lowering his arms to his side, he checked the area with Geomantic Perception and confirmed that it was the last of them. The only thing left in the area was rather hard to ignore.
+
+The Guardian.
+
+It loomed in the distance, replacing the spot where the second obsidian tower had been.
+
+[Guardian of the Abyssal Rift (Level ???)]
+
+Triple-digits. There's a slim chance I could kill it by myself, but I don't want to leave this Rift yet. Not until I've hit S-rank and finished off the Ether Technocrats.
+
+He looked away from the hulking shadow in the distance and returned his attention to the remaining tower.
+
+Stepping over the hissing remains of the Abyssal Slimes, he ducked through the largest gap in the barricade and into the dark of the tower beyond. He felt relief wash over him at the sight of Alex, Hina, and Daisuke staring back at him. Kenji was passed out on the stairs, but Xen could tell he was still alive, if barely.
+
+My delays in arriving here forced me to reveal more firepower than I wanted, Xen thought as he stepped into the dark room, but I'm just glad to see they are still alive.
+
+As far as Xen was concerned, Ghostwire had become the facade he could use freely. He was already wanted and being hunted, so hiding his strength didn't matter, unlike Yuki, who was a registered member of a guild and was more trustworthy as a healer.
+
+The question was, what should he do now? They were familiar with Yuki, but Ghostwire was a wanted murderer. Should he help them further, or was this enough for now? All of them clearly required immediate medical attention, and in their current state, a single Abyssal Slime could likely take them out. If he wanted the freedom to go after the Ether Technocrats, he needed to give them the strength to fight by themselves.
+
+"Ghostwire, right?" Hina said, her narrowed eyes glowing gold from the appraisal skill.
+
+Xen nodded, a little surprised to get recognized so quickly. "You know of me?"
+
+"Who wouldn't know of someone with a 250,000 credit bounty?" Hina said, her eyes returning to their normal color. "Though I can see now that anyone with their eyes on it is foolish," she muttered, looking past him at the barricade coated in Abyssal Slime remains.
+
+Xen didn't know the value of credits that well, but even he knew that was a lot. He decided to take it in stride and chuckled. "I'm honored that someone wishes to kill me to that extent," he gave a small performative bow. "And I welcome them to try."
+
+"We have no desire to fight you," Daisuke said seriously. All of his usual theatrics had seemingly drained out of him alongside his mana.
+
+"That's good," Xen said, straightening up. "It wouldn't go well for you if you had and I came to save you."
+
+"Save us?" Hina echoed. "Why would you do that?"
+
+Xen paused. That was a good question. What possible reason would a hunter with a bounty on their head, like him, have to save people he didn't know?
+
+"I know you're a Savior, but we don't possibly have the funds to pay you to rescue us from this situation," Hina continued. "We all just decided to quit the Guild Association, too, so the likelihood we can pay back any debts is slim."
+
+Xen remained silent, trying to come up with a plausible reason besides the fact that he felt like it. Ghostwire was a freeing persona to wear, but it also came with suspicions that were hard to overcome. He was a murderer with a bounty after all.
+
+"Ghostwire," Alex rasped, "have you seen a small elf that wears a similar mask to you? He was in our group, but we got separated, and while I know he's strong, I'm worried about him."
+
+Xen glanced at Alex and saw an opportunity to earn their trust. "Are you talking about Yuki?"
+
+Alex's eyes widened. "You know him?"
+
+"Of course," Xen said. "He was the one who sent me here to save you."

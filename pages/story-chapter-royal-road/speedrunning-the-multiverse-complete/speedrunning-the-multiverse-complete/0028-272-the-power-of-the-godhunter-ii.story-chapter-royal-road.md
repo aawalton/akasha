@@ -1,0 +1,157 @@
+---
+id: b599823b-26f0-54fe-8837-b2da92976b7d
+page-type-slug: story-chapter-royal-road
+title: "272. The Power of the Godhunter (II) "
+slug: 0028-272-the-power-of-the-godhunter-ii
+partOf: speedrunning-the-multiverse-complete
+position: 28
+ownLength: 2046
+unit: words
+ownProgress: 2046
+publishedAt: 2023-07-28
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1291527/272-the-power-of-the-godhunter-ii"
+royalRoadId: "1291527"
+markedReadAt: "2026-06-29T22:42:37.463Z"
+---
+
+When Dorian emerged from the Chamber he felt about the same, and looked about the same too. His aura was still that of his Black Hole. If he summoned qi, by default Eclipse qi of Eclipse Laws would answer.
+
+Only now he could summon new powers too. And when he seemed a different man. His aura went from heavy and oppressive to light and sharp—though he felt no less deadly. Cool light-blue qi wafted from his body like early morning mist. It felt like like he’d stepped into an old coat, and found it still fit splendidly.
+
+It was a pity they’d scattered all his enemies. He still had to test this stuff out. Who would he use for target practice?
+
+As he peered over the walls of his high tower, all he saw was merriment. The ramparts had been made into dining tables, cluttered with dishes stacked high with meats, the dragon realm’s specialty. Giant tankards of wine blocked the walkways; dragons stuck their heads in and drank with abandon. Dozens had drunk themselves into a stupor, but still more shot around the lower atmosphere spewing their dragon breaths; fires, frost breaths, lightning breaths colored the air. In a lower courtyard a crowd of dragons huddled around a pie-eating contest: Sun against the giant Spiketail, each mired in little mountains of plates. He was entirely unsurprised to find Sun was winning.
+
+“Greetings,” said a soft voice. There were two dragons surmounting the steps to his high platform. “This one is named Redfang,” said the first, bowing her head. “I have come to thank you. You have freed me, and saved my children; thanks to you they have seen the open sky for the first time in decades. For that, they and I are forever grateful.”
+
+“Of course,” said Dorian. He used to play the hero all the time. When folk like this came up to him after to gush their thanks he used to get so giddy about it—like a child getting his favorite toy. Now he only felt a faint amusement. Was there some faint echo of that old self, too—a slight warmth in his belly, maybe? Probably just indigestion, sadly.
+
+A dragon’s head poked shyly out from behind Redfang. Pearly white, with big eyes. “This one is named Moontail,” she said, blushing. “Thank you… this one shall always be grateful…how can this one r-repay you? This one doesn’t have much, but… anything you like, prince—anything at all, just ask…This one will be happy to oblige…”
+
+At that Redfang leveled a faintly disgusted look at her. Moontail ignored her.
+
+“There’s no need for that,” said Dorian breezily. “There’s nothing you could offer I could possibly want. Your thanks is enough!”
+
+For some reason Moontail went red at that. She opened her mouth but Redfang beat her to it. “If I may be so bold, I do have a request to make of you.”
+
+“Oh?”
+
+She gritted her teeth. “Kill Scraggletooth. After all he’s done he cannot be allowed to get away. Not if there is any justice left in this world!”
+
+There wasn’t, of course, but Dorian took her point. He whistled. “That’s a tall ask.”
+
+“I know,” said Redfang. “So long as it is within my power… and does not sully my dignity—” at this she shot a pointed glance at Moontail. “I shall do whatever you ask. A millennium of servitude if you wish. As long as that scourge on this realm is dead by the end of it I am satisfied.”
+
+“No need!” laughed Dorian. “I’ll do it for free. I was looking for an excuse to test out a few new toys anyways. One moment.” He closed this body’s eyes.
+
+[Clear Skies Eye!]
+
+And the eyes of the Heavens opened up to him.
+
+He was the sky; the land was a plane of bumps, veined with rivers, a living map teeming with auras. It took no effort to scan across it, as though he were searching for a landmark. An unusually large glut of aura—a familiar aura….
+
+There. On a treeless, desolate coal mountain some three thousand li away, nursing his wounds, angrily vowing revenge. Dorian pursed his lips. Well we can’t have that, now can we?
+
+He flexed his palm, and the Bane of Dragons leapt to his fingertips, swept in with a screech of wind. It gave off sharpness like the sun gives off light; streams of Wind Laws whistled around it. Moontail gasped.
+
+He raised it high, plucked at the bowstring, and channeled [Bolt from the Blue].
+
+As he drew a bolt of pure qi materialized at his fingertips. Growing, solidifying, loading with more and more qi until it hung there at full draw, somewhere between corporeal and mere wild energy. An explosion held in stasis.
+
+Then he let go.
+
+***
+
+Scraggletooth was fucked, and he knew it.
+
+If the invaders didn’t hunt him down Jez would. Miserably gulped down the last of his qi elixir, reached for another vial and found his Interspatial Ring empty. Even with the Infinity boosting his recovery he’d only clawed back half his qi.
+
+“FUCK!” he wailed. He was wracked by a fit of sobs. Curse that—that—smiley bastard! Curse him, and his ancestors, and all his descendants too, while he was at it!
+
+“Mark my words,” he snarled. “You’ve not seen the end of me, invader! Oh, you’ll regret leaving me alive. I shall bide my time. I shall raise my strength. And just when you’ve relaxed, just when you suspect absolutely nothing—I shall strike! And you’ll not be laughing then!”
+
+He was aware at some level it was empty boasting. Probably he was fucked, and probably he would do nothing. Actually he was certain he’d do nothing. Just the thought of facing that bastard made the depths of belly churn unpleasantly.
+
+But saying it made him feel better, at least, so there was that. He imagined the invader on his knees, begging for mercy, and the image gave him the first twinge of joy he’d felt in hours—
+
+He glanced down and blinked. “Eh?” he said stupidly. There appeared to be an arrow sticking out of his belly. Had it always been there? Had he simply not noticed? A pretty arrow  it was, too, like a sculpted icicle—
+
+He screamed, blood spurting out his lips in a fountain. There was no arrow anymore. It had burst out in a thousand daggers of wind qi. And it had shredded him from the inside so thoroughly, so unexpectedly, that he could not believe what had just happened. On a less bulbous dragon it might’ve been an instant kill. But his waistline was so thick from decades of eating that it was like a natural layer of armor; only a few of his organs were punctured.
+
+Where had it come from?! When had he even been struck?!
+
+By sheer luck he happened to glance up, which was the only reason he saw the next shot coming.
+
+Which was just cruel, since it still wasn’t enough time to react. It lodged into his wing, shredding it to long strips of flesh. It’d cut so fast, so clean, that it took a breath or so for the breath to start bleeding. Like his biology itself was so shocked it took a second to remember to bleed.
+
+He fled screaming before the third shot came. By instinct he tried to take to the skies, but remembered he only had one working wing mid-flap. He was sent careening sideways. Lucky, since if he’d gone straight up a third arrow — the chunkiest of them all—would’ve lodged itself in his throat.
+
+He just started running, screaming, but he hadn’t had a proper run in decades. In the time since he’d mostly been lounging and eating. So his running was more of a hobbling waddle, his knees knocking against the jiggling of his fat belly as he went.
+
+“HELP!” he cried. “HELP!”
+
+Where was this bastard shooting from?! The sky was clear! The mountain was desolate, a wasteland—there wasn’t a stone to hide behind!
+
+He was gripped by a clammy terror. It was not the terror of being faced with a foe far out of his league; it was something far worse. At least then he had an enemy to face—a direction to run away from. But here there was nothing to do.
+
+Nothing but to stand here and take it.
+
+A third arrow took him in the arm. He blinked at it. These things made no sound at all—they just struck. It defied everything he knew of combat. He shrieked.
+
+Then, in the second before the barb exploded in his arm, a roc flew by. Casually, a few dozen strides away. It gave him a strange look. It couldn’t comprehend what the fuss was about. And of course it couldn’t; these things had no warnings, left no trace! He was stuck in his own private horror while the rest of the world went about as usual around him, perfectly normal.
+
+He’d think he was going insane if it didn’t hurt like the devil.
+
+“I’m sorry!” He cried. “Whatever I did—I repent! I was wrong!”
+
+Another shaft stuck his leg.
+
+“Whatever you want—you can have it! Please!”
+
+Yet another stuck his lung.
+
+“Doesn’t everyone deserve a second chance?” he sobbed. “I can change! I swear it! I’ll be good—for the rest of my life I’ll be good!”
+
+Then he found he was having a great deal of trouble drawing breath. The arrow in his lung must’ve done some nasty work. He tried speaking, but all that came out of his mouth was blood.
+
+He collapsed to all fours.
+
+Cringing, he braced himself for the end.
+
+A breath passed. He cracked an eye. He could hardly dare to hope. Could it be his plea worked? Could it be there was still some mercy in this mystery archer’s heart? Fat tears slid down his cheeks. He sniveled. “Thank you,” he croaked, hiccuping blood as he did. “You won’t regret this! From this day forth Scraggletooth is a changed God!”
+
+He was surprised he meant it from the bottom of his heart.
+
+A warmth spread through him. The warmth that comes only from goodness, he figured—from mercy. He thought back to the many transgressions of this life. In that instant they were all laid out before him in his mind; he could see them as clear as if they were happening now. Thieving from the caves of lesser Gods as a youth, all the way to backstabbing his chivalrous brother and enslaving the women of his harem. All the dragons he’d slain, the lives he’d ruined…
+
+It felt like his heart was melting.
+
+Even he would not have thought he could ever think this way; not in a hundred millennia. But something about the shocks of the day, about teetering on the brink of death, then being shown such undeserved, generous grace—it truly was enough to change a God.
+
+He could not ever atone for all the evils of this life. But he could at least try. He’d start an orphanage, and raise all of those poor children he’d deprived of fathers and mothers, and teach them never to follow as evil a path as his own. He’d protect the hoards of all those dragons too weak to protect their own; he’d helped share all the Manuals and knowledge he’d hoarded, so all in dragonrealm could prosper—
+
+“Oh,” he said. For an arrow had suddenly appeared in his eye.
+
+He toppled over as his head exploded.
+
+***
+
+Seconds earlier…
+
+“Strange question,” said Dorian, his bow held at full draw. Ready to fire. “But do you think folk can change? Who they are, I mean, deep down.”
+
+Redfang seemed confused. “Certainly.”
+
+“Even truly evil folk? Folk who’ve done horrible things?”
+
+“We all change—whether we like it or not. For some it takes more than others. The obstinate ones might require their lives to be upended before they do. But I believe change is part of living. Only the stones and the dead stay still.”
+
+“Hmm,” mused Dorian. “I shall take it to heart. Thank you. You are a very wise dragon-lady.”
+
+“Why do you ask?” said Redfang.
+
+“Oh you see, I was just considering—”
+
+TWANG! He blinked.
+
+“…Oops. My finger slipped. Oh, well!”

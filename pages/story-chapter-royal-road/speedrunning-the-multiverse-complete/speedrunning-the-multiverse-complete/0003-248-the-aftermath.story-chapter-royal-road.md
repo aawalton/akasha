@@ -1,0 +1,129 @@
+---
+id: fc84b0d3-cf1d-5bf5-b177-4bdb128f6ee5
+page-type-slug: story-chapter-royal-road
+title: "248. The Aftermath "
+slug: 0003-248-the-aftermath
+partOf: speedrunning-the-multiverse-complete
+position: 3
+ownLength: 1817
+unit: words
+ownProgress: 1817
+publishedAt: 2023-06-24
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1256080/248-the-aftermath"
+royalRoadId: "1256080"
+markedReadAt: "2026-06-29T22:41:43.590Z"
+---
+
+Realm of Endless Seas
+
+The Ever-Serpent floated peacefully in the midst of an empty expanse, as he had for ten thousand years.
+
+Water, clear as you like, ran from horizon to horizon all about him. His massive form—even he wasn’t sure how long he’d gotten—trailed out behind him. Too many fathoms to count. He wasn’t certain how he’d even set about it. Commission one of the cartographers who lived in one of the kingdoms on his belly, perhaps? One of the kingdoms that still thought they sat on a continent. He chuckled, and somewhere five hundred men died in what they thought was a freak earthquake.
+
+Men. Such silly little things. No sense of perspective. If they could only see their frantic screeching and dashing from his point of view—as mere tiny dots jiggling about—perhaps they’d be more calm about things. That was the problem with the world, in the main. Far too much… movement. Dashing about. Disturbance. Why not simply let the pools be still, free of ripples? Clear? Clean as the bright blue sky—
+
+Something tickled at the edge of his mind. He cracked open one giant eye, which proved rather catastrophic for the peoples that had called his eyelid their home. He felt rather bad about it; he’d forgotten they were there. He had a special fondness for them, since they thought the world was a giant turtle’s shell and worshipped that giant turtle fervently. The Ever-Serpent was not a turtle, but as models of the world went it was a Hell of a lot closer than the rest of the fool apes living on him. It was nice to be acknowledged.
+
+What had he been thinking of? Yes—yes—the disturbance. It was not in the seas, which lessened the degree to which it irked him. It was in the sky. Moving deceptively slow. A flare of qi that seemed to be carving the sky in twain. And the qi itself was deceptive too, for at first glance it seemed ordinary. And then he inspected it, and realized that if it touched him it would kill him most definitely.
+
+It was not merely the qi. There were Laws there which would destroy the very space a thing existed in. Not merely the thing itself. Ancient, forgotten Laws.
+
+Laws tipping an ordinary-seeming arrow.
+
+The Ever-Serpent wrinkled its nose, then wrinkled it a little further at the cacophony of tiny screams that resulted. He had moved at least thrice today, which was thrice too much. He would not move to disturb the arrow. It was not meant for him anyways. Merely passing through this realm on a long, long journey.
+
+Besides, it was nap-time.
+
+The Labyrinth
+
+Ninth Circle of Hell
+
+“…And then I crawled out of the crater!” chortled Fate’s ghostly form. “I’m recuperating now. Stuck in a sick bed and chugging elixirs, I am. But we won the day! And thanks in no small part to your brother’s timely help.”
+
+He took a bow. “The end! Is that a smile I see?”
+
+“Guilty,” said Houyi with a shrug. “You have tickled me. Quite a tale.”
+
+“Oh, good!” Fate smiled in kind. “Have no fear, old friend. You’ll not be stuck in this cursed cell much longer! As we speak my good friend the King of Phoenixes is rallying the rest of our troops. We’ve taken Ur—whose Godking, by the way, has proved most amenable to switching sides once he saw which way the winds blew! Businessmen. Such delightfully unsentimental attitudes. Anyhow—we’re well on our way to reclaim the rest of Hell. And that includes you, at the end of it!”
+
+“I see.”
+
+“Our friend—well—ally—Salieris has done his part too, as you’d predicted. He’s wrested control of a significant minority of the Upper Realms. Many of the Middle Realms are in open insurrection.” Fate pumped his fist. “I expect by the end of this season—err—what is that sound?”
+
+Fate cocked his head. “Pardon. My hearing is somewhat impaired in this form… are those screams?”
+
+“Indeed.” Houyi leaned forward. “I thank you for your update, friend Fate. Now here is mine. It is far too early for celebration.”
+
+The feeling of good cheer bled out of the room in an instant. Screams tended to do that. Why was Houyi still smiling? A knowing smile it was, like he’d expected that scream to arrive precisely then.
+
+Knowing him, Fate wouldn’t rule it out.
+
+“P-pardon?”
+
+“The war has only just begun.”
+
+He nodded to the walls. The scream spiked. Fate winced. Yes—most definitely a scream.
+
+“What’s going on?”
+
+“Jez has run out of patience. Or so this is my expectation.” Houyi sighed. “He is thinking like the rest of us, at last.”
+
+“Please! Houyi—none of this cryptic talk! What’s going on?”
+
+“I don’t know for certain. But I expect he is going cell-to-cell on this hall of Godkings, and giving each an ultimatum. Join him, or face torture. He cannot wrest power so easily from us, Masters of our domain. He can chain us—but to gain our powers he must obtain our consent.”
+
+“Torture?” Fate swallowed.
+
+“Not of the physical sort. It is rather difficult to torture a Godking. We are well past being susceptible to traumas of the flesh. But certain traumas to the mind and soul, certain concoctions of elixirs, can soften the mind. Make cracks through which methods of torture can sneak. I have seen elixirs that have poured the weight of time on a mind—force a soul to relive its moments of greatest psychic distresses; the death of a spouse, or a stillborn child—for a thousand thousand years in mental time. And then there is the more brute-force way. Subject a soul to enough psychic trauma and its sense of identity starts to unwind. It is not really a matter of willpower then. You are lost in so much pain you forget who you are. It is rather easy to convince you of… pretty much anything. A lobotomy for the soul, as it were.” Houyi paused. “I expect a number of them will succumb.”
+
+“That’s…” Fate, ghostly as he already was, went a shade paler. “Just… how many Godkings are in his custody?”
+
+“Perhaps three-quarters of all the Godkings on the Spirit Rankings, by now.”
+
+Silence. Fate’s jaw hung slack.
+
+“Good—good sire,” he said slowly. “If he manages to add even a third of that much power to his ranks in one fell swoop…”
+
+“He will become stronger than he has ever been. By a sizable margin. Make no bones of it, Fate. You, and the Multiverse, are in trouble.” Houyi paused. “But you have some factors on your side. For one, Salieris will prove a thorn to him. There is a civil war in the network, and only one can remain… that divide will be decided, one way or another. For two, you have the momentum. Jez cannot win the Multiverse on his own, no matter his powers. He needs bodies to pour his powers into. And you and Salieris have just seized a significant minority of his stock. And for three…”
+
+Houyi considered the muffled shriek with an expression nearing derision.
+
+“Some of us are more able custodians of our minds than others. Some of us have constructed intricate, well-fortified inner citadels impervious to external threats. Some of us shall break. But rest assured, some of us shall not.”
+
+“Of course! I would never doubt you, Houyi, not for a second—”
+
+“I am not done.” Houyi’s smile was sardonic. “That is not a good thing. Jez will realize, in time, that some of us will never break. Or so this is my expectation. And he will see that we are of no use to him alive.”
+
+“…You can’t mean…”
+
+“I do. Watch the Spirit Pavilion’s rankings. If you see names suddenly start to disappear, ranks suddenly start to shift, you will know.”
+
+“Are you sure of this? I don’t mean to quarrel, but, well, he seemed a—for all his faults—a lad with his heart in the right place.”
+
+“Hearts move.” The shriek cut off suddenly. “But I would not call it that. That is the thing about change of hearts. I have always disliked the phrase. Flip a coin to its opposite side, its hidden side. It is still the same coin, is it not?” Houyi sighed. “I have studied the man for well over a century. I know him better than he knows himself, I expect. He was always capable of this. But you needn’t take my word for the existence of his shadow self. You can arrive at it by deduction. All animals are base creatures; lacking leashes they will consume all around them, and then themselves. He is, in the end, an animal. And he has no one to leash him. It was a matter of time.”
+
+“I don’t accept that—that dim view of our natures, and you well know it! But now is... perhaps not the best time to argue…” Fate winced as another scream, closer, seeped through the walls.
+
+“No. It is not.” Houyi closed his eyes. “Let us hope that this is not the last time we speak. I do so enjoy our chats. Ah—and tell me, what of my brother? What next for him? He’s stolen Kinzo’s elixirs, I expect?”
+
+“Yes, I—how did you—that’s uncanny, you know that?” Fate squinted at him. “And they say I know everything! Sometimes I really do think you can see the future.”
+
+“I guess better than most. Sometimes my guesses miss the mark. Though… rarely. You were speaking of my brother?”
+
+“Ah—he’s off to collect his bodies! Across the many realms. First stop is Salas Godhunter, I expect.”
+
+Houyi nodded. “So I suspected. And how is he?”
+
+“Err—he’s recently taken a rather severe beating, but he should recover just fine, I think—”
+
+“No, no. I mean his mental condition.” Houyi waved him off. “Is he still in his… how best to call it… his phase, perhaps?”
+
+“Pardon?”
+
+“His depression. His… antics. With his speedrunning, and so forth, these silly games. You understand my meaning. I expect recent events have been a significant shock. It’s high time he got over it. Embarrassing, frankly.” Houyi snorted, though there was a teasing slant to his lips. “It took the Buddha—who, by the way, is a few cells down—it took him but seven days under a tree to make peace with the ephemerality of the moment, the fundamental hollowness of existence, as it were. How many runs has it taken Dorian? It’s like his footwork drills all over again.”
+
+Fate blinked. “I’m… not sure that makes any sense.”
+
+“Those movement patterns were a simple box-step. Child’s play. He took a week to master them. Granted he was seven, and no-one had done it save for me in a hundred and fifty years, but still.”
+
+“I meant the philosophical—never mind. His mental condition… hum. You know?” Fate smiled. “I think he’s getting better. I really do!”

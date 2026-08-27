@@ -1,0 +1,215 @@
+---
+id: 6e354c01-5657-5fb9-b0db-276c2a243f1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Cow on the Run"
+slug: 0001-chapter-1-cow-on-the-run
+partOf: sherly-the-most-virtuous-holy-cow
+position: 1
+ownLength: 2545
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525463/chapter-1-cow-on-the-run"
+royalRoadId: "2525463"
+---
+
+Chapter 1 - Cow on the Run
+
+Sherly left the barn.
+
+As far as she was concerned, it was a barn. The earthy smell of straw, stale water, and animal odors had made her convinced of that fact. Not to mention all the animals. Despite all the weird floaty things and automatically moving things she refused to acknowledge, the sight of stalls with sleeping creatures inside was something Sherly recognized, at least. And regardless of what exactly it was, she knew she had to leave.
+
+It is a weird barn…
+
+What happened to me, though?
+
+Sherly followed the sound of a moving river. She had travelled quite a ways, enduring her hunger, thirst and exhaustion, before the sound of water-giving-life gave her hope. She understood her movements were different, trotting on four legs rather than walking on two. From the moment she woke up, the notion of this reality had boggled her mind, and still did. She expected it would stay like that for a while, or even all the way until she woke up from this nightmare. For now…
+
+She had become an animal.
+
+I just wanted a burger… Didn’t this usually involve a goddess or a truck?
+
+Sherly had just finished a marathon and had wanted to reward herself with a cheeseburger. She remembered standing in line, making an order, receiving said order, and then unwrapping the burger.
+
+Then the next thing she knew, she was in that barn. No trucks, no goddesses, no words in the void. She had just blinked, and then she was somewhere else. In a body of an animal, no less.
+
+It had taken her a lot of courage to leave that barn. After observing the operations of the farm it belonged to for a single day, she knew she had to have turned into a cow.
+
+Out of all things… It had to be a cow. And while she liked them, both as an animal and as a source of food, she also knew her fate if she had stayed there.
+
+Sherly didn’t like the idea of remaining as a farm cow, no matter how safe or comfortable it might be to stay as one. It didn’t matter if her owners were kind people. The thought of having an owner itself was something she couldn’t accept. She had no choice but to leave. That was enough to encourage herself to get out before dawn.
+
+But now, hunger had consumed her very being. Her thirst, she had found a solution and was working towards it. Not to mention she had done nothing all day but walk. She was beyond exhausted, and sleepy, but it didn’t look like there was any safe place to take shelter, now that it was night once more.
+
+The hunger though…
+
+I could eat a horse… or a cow—
+
+Her body convulsed, rejecting the idea of eating a cow. What was worse, she felt hungrier. The human side conflicting with the animal.
+
+No cows anymore, then…
+
+The twinkling stars and the white, broken moon guided her, showing her a clear path towards the river. Aside from the water, she had one more objective in mind. These allowed her to remain sane while she accepted the truth of her current situation.
+
+Moo… Ugh, this is ridiculous!
+
+Sherly was thirsty, but more importantly, she wanted to see what she looked like. She thought looking at her reflection would stir her awake, or, at least, force her to accept her new reality.
+
+The water she had been drinking in the barn was a little murky and the container was small. Not to mention all the other cows that had wanted their turn at the water trough had kept pushing her out of the way.
+
+The closer she drew to the river, the clearer she could hear its flowing currents. Sherly found she had a keen sense of hearing. She could direct her ears in a certain way and focus on certain sounds, allowing her to pinpoint things that were beyond her sight. Speaking of, her eyesight was weirdly incredible and terrible at the same time.
+
+One of the reasons she had chosen to spend at least one day in the barn was to get used to the new way she perceived the world. In the simplest of sense, it was wider. Dizzyingly wide. She could see as if she had two additional sets of eyes on both her temples. Her only blind spot was directly behind her, though her direct front vision was annoyingly blurred. Not to mention that the colors weren’t the same. Everything looked a lot greener, and with more prominent yellows and greens.
+
+Pairing that weird vision with her incredible hearing, Sherly had quickly learned how to navigate without tripping over some rock or bumping into another cow. And now, she utilized these new gifts to find herself some fresh water.
+
+Ignoring the hunger and exhaustion she was feeling, for she had been walking the entire day and night, Sherly slowly lowered her head in front of the running water. There, she saw herself. And almost immediately, she felt like crying.
+
+Where she had, on some level, still expected to find her human form waiting to wake her up from the nightmare, instead appeared an actual head of a cow. By the looks of it, she was a white-haired highland cow. Half of the long bangs on top of her head were streaked black, as well as her cow ears. The middle of her nose was dark, too. Otherwise, she was white.
+
+She looked relatively young for a cow, Sherly surmised, recalling what little she knew of the animal back in her world.
+
+Less than a year? Maybe a year?
+
+She had horns too, which caught her by surprise. She had expected to be one of those hornless cows, but that wasn’t the case. It was weird knowing she had implements that could harm others affixed on her head.
+
+In any case, she was at the prime age to be considered a working cow. And she wouldn’t enter a new life—willingly or forcibly—just to remain stuck in that farm forever.
+
+I was taken from my previous life, so don’t just expect me to accept my fate.
+
+Sherly felt determined for some reason. So much that she drank from the river with just as much gusto. Satisfied, she waited for the ripples to dissipate and observed herself some more. If she would be stuck in this form for a while, she might as well appreciate and take advantage of what she could.
+
+Wait… Are my eyes orange?
+
+Before she could make proper conclusions, however, something else obstructed her view.
+
+[Hello, Sherly. How are you?]
+
+Sherly tilted her head. She could recognize the letters.
+
+“I’m fine?” she wanted to say but ended up mooing. She had never spoken as a cow before, and that took her by surprise. “No, I’m not fine!”
+
+[Calm down, Sherly. You can communicate with me through your thoughts. I wouldn’t recommend making noise while you’re outside of safe premises during the night.]
+
+“Oh… Oh, no.”
+
+Sherly turned around, only to find that the screen followed her view. It wasn’t intrusive, reverting to a small box when her intention directed towards observing her surroundings. For some reason, she could still read the words clearly.
+
+[There’s no need to panic. You’re not in any dangerous territories. However, I do wish for you to be prepared in case we encounter a monster.]
+
+“Monster!? But I’m just a cow!” Suddenly, everywhere around her felt like it had hidden eyes, watching from predators that were ready to pounce at her from every direction. She backed away from the river, but even with the trees and bushes, she didn’t feel safe.
+
+[Not just a cow. You’re a cow with the intellect of a human. Your very psyche has allowed you to integrate with the System. It’ll help you defend yourself against these monsters.]
+
+Something ruffled the bush up ahead. Sherly could hear it clearly, but it was too far away for her eyesight to focus on. She got a wide view of trees surrounding it, but that in itself made her confused and panicked all the more.
+
+Then it popped out of the bush.
+
+Sherly turned sideways to run, realizing that jumping back for a cow was an effort and a half. The moment she did, she saw the creature that had nearly caused her a heart attack.
+
+Oh, it’s just a rat.
+
+A rat that was at least three times its normal size, with a horn on its forehead. The realization hit Sherly a few seconds too late.
+
+Unirat?
+
+[Careful, Sherly. That unirat is dangerous.]
+
+“Wait. I got the name right?”
+
+[That’s not important. Pay attention, Sherly. This is your opportunity to level up. Defeat the unirat and gain experience.]
+
+“Level up? You’re telling me I’m inside a game? That means you can pull me out, right? Please! I don’t want this!”
+
+Before the screen in front of her could give an answer, the unirat gave a screech. Its horns glowed with magic, causing a thin line of magical bolt to shoot at Sherly.
+
+In a fit of panic, she twisted her cow form in the most sluggish way. She managed to dodge but ended up tripping over herself. It took all her strength to get back up. Her knees were scraped, and she could hear the unirat running towards her.
+
+[This isn’t a game, Sherly. That creature’s here to hunt you down. If you don’t defeat it soon, more of its friends will come, and there will be no escape for you. You need to fight!]
+
+“That’s not how rats work!” Sherly complained as she looked in horror. The unirat was closing in, and the fear it was instilling in her had rendered her immobile. Her legs were shaking, and she didn’t know what to do. “I’m just a normal person! Cow! Whatever! I don’t know how to fight!”
+
+[Defend yourself!]
+
+Adrenaline had taken hold of her exhaustion. Sherly mooed so fiercely, it might well have been a roar. Disregarding all manner of sanity, she reared up on two legs and stomped on the unirat. She felt a crunch and something wet. And then there was silence.
+
+“Wait… That was easy.”
+
+[Of course, it is. You’re a cow. But why didn’t you use your horns?]
+
+“I didn’t think about it…?”
+
+[Your horns are pretty powerful, you know?]
+
+“Get off my back. I’m a cow, not a horse. And stop bringing that up! Only I get to bring that up. Who are you, anyway? And how did you know my name?”
+
+[I’m— wait… Sherly? What are you doing?]
+
+After taking the time to calm her exhausted breathing, Sherly sniffed the dead unirat. It was pungent, and horrible. And yet, it was exactly what she was looking for. The idea of cooking the rat meat swiftly entered and left her mind. She was too hungry.
+
+Oh, well. I’m a cow. It should be fine, right?
+
+Beyond all reason, Sherly took a bite and ripped off the unirat’s head. It was surprisingly delicious. Tasted like beef. And it was perfect, since she’d decided not to eat cow meat anymore. Already, she found a replacement. Within seconds, she was done.
+
+It wasn’t enough.
+
+“Where can we find more of these?”
+
+As if to answer her question, two more unirats appeared. Now that she was more confident than she had been with the first, Sherly prepared herself to fight. They didn’t look any different than the first unirat. In fact, they were even a tad smaller.
+
+The two monsters glared at her, as if to ask her where their buddy was. Sherly didn’t care. She was going to have some good grub to feast on. She just hoped that had enough energy left to take on two of them at the same time.
+
+[Sherly, I don’t think—]
+
+“Quiet, Letters. I’m concentrating.”
+
+As expected, the unirats fired off the beam of magic from their horns. This time around, Sherly hopped to the side and landed properly, dodging the beams with as much grace her cow body could afford. Next, like she had predicted the future, the unirats charged at her.
+
+The stomp worked once again, as expected. But this time, there were two enemies. Sherly couldn’t rear up a second time fast enough. The remaining unirat managed to pounce on her leg, sinking its sharp teeth through her flesh.
+
+With a yelp, she spun in a desperate attempt to throw away the rat, but it clung on. Sherly fell to her side, pinning the beastly creature on the ground. She pressed harder, squeezing the life out of it, but it quickly let go of its bite and squirmed away.
+
+Sherly didn’t let it. Remembering what the letters on her vision had said, she quickly pushed herself and fell on top of the scurrying rat head first. It was all she could do with one of her legs in searing pain, but it got the job done.
+
+Out of blind desperation, Sherly had managed to gore the unirat with her left horn. She took deep breaths, which, for a cow, sounded incredibly noisy. Her heart was still racing, but she had hunted her prey. And now she could feast.
+
+A cow hunting…
+
+Sherly weakly laughed at her own musings. She had never heard of a cow hunting for prey, let alone a carnivorous one.
+
+[There are some carnivorous cows, Sherly. But you’re different from them.]
+
+“Different?” Sherly asked before she remembered what they had been talking about. “Oh yeah, sorry I called you Letters. What was your name again?”
+
+[It’s fine. I think Letters is a cute name.]
+
+“Only if you also sound cute.”
+
+[For now I can only write on the System to speak to you.]
+
+“Fair. What was it about me being different?”
+
+[You’re not just a cow.]
+
+“Over here!” said another voice, interrupting Letters once again. “They’re dead! Wait, is that?”
+
+Sherly turned while still munching on the second unirat. Humans.
+
+No, wait! Is that an angel?
+
+On closer inspection, Sherly realized it was just a human with wings. A birdman of some sort. Regardless, he looked horrified. And the woman beside him, a human, this time she was sure, was covering her mouth with both hands.
+
+The birdman drew his sword. “Demon-cow! I’ve no idea where you came from, but I won’t let you grow!”
+
+“No, wait!” Shery didn’t have to put two and two together. She knew they misunderstood. “I’m not a demon-cow! I swear, I’m good! I was just hungry!”
+
+[Sherly, you need to run! We can talk about stuff later. You even gained a level, but you need to go!]
+
+Try as she might, Sherly couldn’t press her injured leg on the ground to even walk. Traveling the entire day, with only the recent meal and drink to help her, she was beyond exhausted. Her sight was getting blurry. She was getting dizzy.
+
+The exhaustion, more than the pain, made her collapse on the ground.
+
+The last thing she saw, as she desperately looked back at the people, was a third person arriving on the scene and smacking the birdman’s head.
+
+Am I going to die?
+
+Then it all went to black in an instant.

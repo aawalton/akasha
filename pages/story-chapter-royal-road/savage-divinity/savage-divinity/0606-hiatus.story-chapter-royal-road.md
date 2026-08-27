@@ -1,0 +1,25 @@
+---
+id: b729ab8a-c784-5f61-a29c-71abfbeb481b
+page-type-slug: story-chapter-royal-road
+title: "Hiatus"
+slug: 0606-hiatus
+partOf: savage-divinity
+position: 606
+ownLength: 220
+unit: words
+publishedAt: 2020-06-19
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/512952/hiatus"
+royalRoadId: "512952"
+---
+
+So good news and bad news
+
+Good news is my consultation went well, despite me spending a long ass time waiting. Everything is set for my wisdom tooth removal and those suckers are coming out.
+
+Tomorrow.
+
+Yes. That’s the bad news. I gotta go on break now, because I gotta go shopping today to stock up on soft food, and then have a big fancy dinner before 8:30 pm, cuz my surgery is set for tomorrow morning. So, seeing as this is probably the least cliffiest cliff I could leave you on, I’m just gonna go on break here, and I’ll be back when I’m back. No idea how long I’ll be out for, but its as terrible as the last time around, it’ll be two weeks. So tentatively... back after the 4th? I dunno, don't quote me on that, and check discord for status updates.
+
+Sorry for the bait and switch with the whole ‘going on break, then not going on break, then going on break’ thing, but I figured the specialist would be booked up for a while. Turns out covid means cancellations galoreeeee, and there was an open slot for me to squeeze into. Hate to do it at this time and lose the momentum, but such is life. Sorry and thanks for reading as always.
+
+Peace!

@@ -1,0 +1,199 @@
+---
+id: bdcbed27-5293-54a5-9be6-734927aa76ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 - Cow Party"
+slug: 0021-chapter-21-cow-party
+partOf: sherly-the-most-virtuous-holy-cow
+position: 21
+ownLength: 2423
+unit: words
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2688725/chapter-21-cow-party"
+royalRoadId: "2688725"
+---
+
+Chapter 21 - Cow Party
+
+Sherly had her measurements taken. The experience was a bit familiar and different at the same time, as far as she was concerned. Phoebe went around her while she stood still. But rather than using a measuring tape, the receptionist was tracing her outline from a distance instead with a pointer device that emitted harmless mana.
+
+The entire time, she observed other blacksmiths doing their work. While some were working at a pace she assumed was normal, a few were practically speeding through some of the processes.
+
+She saw one who literally only hammered the heated steel twice, and the shape of the blade took form with that alone.
+
+“Blacksmithing Skills are quite impressive, huh?” Phoebe asked after transferring her acquired data on her System Console, which had Sherly’s upper body outlined. Then, she started working on measuring the cow-chilim from the waist down. “The one you’re looking at can make from two to two dozen high-quality swords in a day, depending on the requirements. He’s quite skilled at manipulating metals.”
+
+“What’s your proficiency?” Sherly asked.
+
+“Oh, I’m the pre-production manager. I make sure our ores, leathers, stones, forges, anvils, racks, tools, and whatever else are in good supply and tip-top shape. My Skills are catered to acquiring and turning those materials into something our smiths and leatherworkers can use.”
+
+“Sounds like a tough job.”
+
+“I’m used to it. Besides, compared to the guys and gals actually making the weapons and armor, my work isn’t as important.”
+
+Ishuin smiled at that, closing her System Console. “You’re being too humble, Phoebe. You didn’t need to pretend that you’re not the owner of this establishment.”
+
+“Eh?” Sherly almost moved, but she managed to just let her eyes show her surprise.
+
+“Thought I could hide it the entire time,” Phoebe said, smiling shyly. “Someone told me that Lady Ishuin’s visiting the smithy, and they were a bit intimidated by you. So I had to stand in.”
+
+“I see,” Ishuin said, nodding. “I didn’t realize the ownership had changed since I was last here. Recently, whenever we dropped by on patrol, I’ve always had one of my people do my shopping for me.”
+
+“Sherly must be someone special then, if a Priestess of the Cancer would escort her to choose an armor personally.”
+
+“You can say that.” Ishuin smiled.
+
+“Thank you,” Sherly said, showing her gratitude by doing the same gesture. “I really appreciate it.”
+
+“Well, if that’s the case,” Phoebe started. “We’ll have to use our best materials for your armor then.”
+
+“That reminds me, what kind of leather are we talking about?”
+
+“Oh, it’s not cowhide, if you’re concerned. That would be a little morbid, don’t you think?”
+
+“Yeah.” Sherly afforded to giggle a little. “I’d rather not wear something like that.”
+
+“The material we’re using comes from shervisvile hide.”
+
+“Shervi-what now?”
+
+“A shervisvile,” Phoebe clarified. “They’re pseudo-draconic lizards. Not actually dragons, nor actually draconic, but they have properties that mimic dragons at a certain level. One of which is their hides. Tough, durable, and flexible. And given that they’re as long as the average standing human when held upright, they’re a great source of leather. They can also breathe little tongues of fire, but that’s beside the point.”
+
+“That sounds pretty cool.”
+
+“In terms of quality, they’re actually pretty basic,” Phoebe added quickly. “They don’t match up to actual pseudo-dragons and actual dragons. But they’re cheap and better than cowhide or deerskin in terms of effective defense.”
+
+Sherly had to carry the information in stride. The realization that the things she thought would only be possible in fantasy stories was actually factual and common knowledge in this world, still made her internally question if they were real or not. But now she was just casually given confirmation about the existence of real dragons, and now had no choice but to live with it. Stopping at every shocking revelation would only make her look weird in front of other people.
+
+So, it was only natural, she assumed, to act as though she understood everything that Phoebe had said, and infer a proper reply from it.
+
+“Oh, I see. Thanks for being honest,” she said, finally.
+
+The receptionist, who had turned out to be not just a blacksmith, or a receptionist, or a supplier, but also the owner of the establishment made a proud huff. She crossed her arms and grinned widely.
+
+“That’s our best quality here, Sherly. If we give you the wrong expectations for what will technically be your most important companion as an adventurer, or fighter, or whatever, it might put your life at risk. We won’t embellish such a detail just to make it seem more marketable.”
+
+Phoebe tapped her System Console, making it disappear. “You’re all set, Sherly. Your total cost is 130 GP. We’ll take half now, then the rest when everything’s done.”
+
+Ishuin made the payments. Since Sherly’s pockets were too small to fit 200 Gold Pieces, the elf carried the satchel for now.
+
+“Thank you for your patronage,” Phoebe said. “Please come back tomorrow for the initial fitting. Anytime after lunch would be perfect.”
+
+“Gotcha. Thanks, Phoebe.” As it was in her nature, Sherly made a bow to show her gratitude.
+
+It caught the owner off-guard. Flustered, she raised both hands, urging the cow-chilim to raise her head. “It’s good business, so please. There’s no need to bow your head.”
+
+After a little more back and forth, Sherly and Ishuin finally made it out of the smithy. Evening had fully settled by now, and it was time for them to return to the caravan.
+
+“You never made that bow to me,” Ishuin said on the way.
+
+“I didn’t?” Sherly asked, tilting her head. “I guess I didn’t. I only bow to show my gratitude towards acquaintances.”
+
+“And I’m not?”
+
+“You’re my friend now, Ishuin. So I’ll have to thank you in a different way.”
+
+Sherly extended her arms and wrapped them around the elf’s shoulders. Ishuin didn’t retaliate, caught by surprise by the sudden embrace.
+
+“Thank you for all your help, Ishuin.” After a while, the cow-chilim let go. “If not for you and everyone else, I would probably already be dead.”
+
+“You’re exaggerating,” Ishuin said. She was blushing, but she didn’t turn away. “Letters wouldn’t have let you die. But I’ll take the gratitude anyway. And of course, you’re very welcome. Come on, we’ll be late to your own party.”
+
+Feeling a little bit more closer to each other, the two went out of Crossmark with high anticipations of the celebration Kasta and Maymay had prepared.
+
+Sherly was escorted to the largest vehicle of the caravan. She remembered it had been at the forefront throughout the entire they had been travelling on the way to Crossmark, but she had no idea what it actually contained.
+
+These magical vehicles manipulated the space within them, showing a larger interior than what could be estimated from the outside. The cow-chilim assumed that there might be an upper limit to this expansion, which would explain the larger make of the vehicle.
+
+Inside, the fragrance of the banquet filled the air. Sherly had to do everything in her power in order not to drool. It wasn’t the sort of hunger she felt when anticipating a meal from a monster. There was a feeling of kindness in this one, no factoring whether she would survive or not.
+
+Pure comfort. Pure joy. Pure relaxation.
+
+Maymay was the first to greet them. She wore some fancy formal dress. A silky black gown with just a few frills around the sleeveless shoulders to put a bit of style. That was when Sherly noticed the other people wearing something else other than their armors or combat gear. No one was carrying any weapons either.
+
+“Welcome,” the dog-zilim began. “You guys are right on time.”
+
+“There are a bit more people than I expected,” Sherly admitted. “I actually thought it would just be the four of us.”
+
+“You’re part of the Cancer’s Claw now, Sherly,” Ishuin said, tapping the cow-chilim’s shoulder. “Of course everyone’s invited to your party. Unless you don’t like it?”
+
+“Oh, no, I don’t mind. The more the merrier.”
+
+“Does that include people not from the caravan?”
+
+Sherly turned to find Kasta along with another man. The cow-chilim immediately recognized him, but she didn’t know if reacting was the proper thing to do. Though it took her by surprise, she tried her best to play it cool.
+
+“Have you eaten yet?” Kasta asked.
+
+“Not yet,” Sherly replied. “Smells good, though.”
+
+“Then, before you have dinner, I’d like you all to meet Frederick. You recognize him, don’t you, Sherly?”
+
+Frederick was a middle-aged man who looked like he could handle any amount of stress and still afford to smile. His clothes were simple, a plain shirt and trousers. He carried a knapsack like it was a normal part of his body. And his black eyes were full of controlled expectations, as if he was ready to be disappointed at any time.
+
+Of course, Sherly recognized him.
+
+“He’s the barn caretaker,” she said.
+
+Frederick’s eyes turned to life. He carried his surprise without a hint of preservation. An honest-to-goodness guy, just like what Sherly knew of him back in the barn.
+
+He stepped forward, looking at Sherly from horns to hooves. He was both delighted, surprised, and confused at the same time.
+
+“You don’t name your cows back in the barn, do you?” Sherly asked. It was an honest question, not a condescending one.
+
+“Not for our heifers,” he admitted. “I try not to get invested early on, since there are extremely rare occasions when a calf turns out to be a demon-cattle. I thought you became one. And after hearing the caravan passed through, I followed them here to report. I honestly didn’t expect you to be awakened and become a part of the caravan.”
+
+“You’re not going to ask me to come back, are you?” Sherly asked. She didn’t want to clarify the point that she was a demon-cow. While some people already knew her real identity, she decided to start hiding that fact until it was absolutely necessary.
+
+“Oh, no, of course not,” Frederick said. “I just wanted to make sure it was actually you. Now that you’re awakened, I don’t own you anymore. Which also means that you have to take care of yourself out there. So it’s a good thing that the caravan’s taking you in.”
+
+“We’ll take care of her,” Ishuin said. “You have my word.”
+
+“Thank you.”
+
+“Alright, now that’s all settled, let’s get something to eat!” Kasta said, tapping Frederick’s back and urging him to join. “Come on, you’re having some too.”
+
+The food was meat heaven. From pork, to chicken, to fish, to even beef, cooked in a variety of ways, Sherly decided to take a small portion of each. Of course, she checked if the others were doing the same before she started filling up her plate. As it turned out, in a banquet, it only made sense to get a full plate.
+
+Ishuin gathered everyone’s attention and made a short speech, clarifying that the celebration was for Sherly’s evolution. It was also to celebrate her joining the Cancer’s Claw, formally making it official to the rest of the members. After the applause, she joined them back at the table.
+
+“I’m curious,” Sherly started. “Now you’ve lost a cow, isn’t that a loss of investment? As it weird as it sounds, how much would I have sold for?”
+
+“You don’t have to think about that,” Frederick said. “You can look for it yourself, but I’d rather not put up a price. It feels a little weird. But as for the loss of investment, I don’t necessarily think that’s the case. In a business perspective, you’re probably right. But you’re a part of a prestigious group of people who go around protecting others from demonic attacks. I think that’s worth losing a cow.”
+
+“Oh, I see.” Sherly felt a little heat coming on her face. Thankfully, with a cow’s face, it didn’t show much that she was blushing. “Thank you.”
+
+“You’re welcome,” Frederick replied with a smile. “But you are free to visit us anytime. My wife would be delighted to meet you.”
+
+“I intend to make a visit after I’ve become a zilim,” Sherly began. “But yes, I’ll drop by when I can.”
+
+Dinner was full of joy and laughter. It was warm, and something Sherly didn’t know she enjoyed. She was having so much fun that she didn’t even notice one person was missing from the party.
+
+Duis wasn’t alone at the bar while he drank whiskey to pass the night away. The other drunks had passed out, sleeping on their tables. One was mindlessly sleep-talking, mentioning things in an incoherent way.
+
+The bird-zilim ignored them all. His mind was elsewhere. In his necklace that held his family’s crest. An image of a crow with one slashed eye.
+
+A failed family.
+
+He was the only survivor of the Fariman name. The demons had massacred the rest. He had made a promise to avenge them all.
+
+But his gifts were not for combat, he knew. His genius was for Alchemy. And now that his work of art was gone, he had nothing else. He saw how much Ishuin favored Sherly. He knew he wouldn’t get the promotion he wanted anymore.
+
+Why…? Why did it have to be a demon?
+
+In the back of his mind, he understood that Sherly made no signs of being a demon. Even back when he saw her eat the other demon-cattle, he knew he was stretching his logic. But he was desperate. And he was angry.
+
+After Maymay gave a courtesy invitation, which he had promptly declined, Duis had second thoughts. Maybe he had just missed his chance to apologize. Maybe nobody really cared. But rather than take his chance, he instead sat back on the bar to drown himself in liquor.
+
+Until a hooded figure passed an envelope.
+
+Duis, even drunk, had the cognition to check the bartender. But no one was behind the bar. The hooded figure pushed the envelope further.
+
+“Ruingrass,” said the figure, with a voice mixing female and male tones together. “I believe you can recreate your Magnum Opus.”
+
+“Who are you?” Duis asked. He tried to turn, but something stopped him from moving away from the envelope.
+
+“Nobody. I’m just here to help. All I need is a little information.”
+
+“What do you want?”
+
+“Does the name Sherly ring any bells?”

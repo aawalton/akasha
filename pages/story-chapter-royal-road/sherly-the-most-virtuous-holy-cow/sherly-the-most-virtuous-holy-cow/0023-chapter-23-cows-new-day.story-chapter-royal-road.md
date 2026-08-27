@@ -1,0 +1,205 @@
+---
+id: ed638259-6e58-5f4e-a4c3-bc30212d901d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 - Cow’s New Day"
+slug: 0023-chapter-23-cows-new-day
+partOf: sherly-the-most-virtuous-holy-cow
+position: 23
+ownLength: 2153
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2709043/chapter-23-cows-new-day"
+royalRoadId: "2709043"
+---
+
+Chapter 23 - Cow’s New Day
+
+”Here’s your soup,” Sherly started. Maymay and Kasta had asked that she serve it. She didn’t think much about the request, but she did note how hesitant they were to volunteer themselves for the task.
+
+“What’s in it?” Ishuin asked, her voice still weak. She lay on the sofa with her eyes closed, massaging her head.
+
+“Vegetable and beef broth,” Kasta replied, staying closely behind Sherly. “I added small, bite-sized chunks of beef too, and some celery.”
+
+“Should help with the hangover,” Sherly added. “It’s a bit hot, so be careful.”
+
+She patiently waited for Ishuin to slowly open her eyes, unsure of what would become of the situation. But looking at how slow the elf moved, she gauged that it would be something she could handle.
+
+With a groan, the elf pulled herself up. Kasta and Maymay both flinched, but Sherly stayed where she was, bent down on one knee beside the sofa with the tray on her hands.
+
+Ishuin had a twisted frown, like someone who was about to burst and scream. She didn’t even make any effort to fix the loose strap of her nightgown. Sherly felt the other two step back further away from her, but she didn’t falter.
+
+“Can you eat on your own?”
+
+The elf Wielder stretched out her hands, asking for the tray. The cow-chilim did as asked and silently watched. After the first sip, when Ishuin didn’t say anything, the other two made quite the exhale.
+
+“We’ll leave her into your hands, Sherly,” Kasta said. “Don’t let her leave until she’s taken a bath.”
+
+“Sorry,” Maymay added. “Work stuff.”
+
+The two quietly bowed to Ishuin, who didn’t mind them hastily excusing themselves. Sherly, for her part, found a chair and silently sat.
+
+“They’re afraid I might scream their ears off,” Ishuin explained. “I sometimes get tantrum episodes.”
+
+“Sounds adorable,” Sherly said, smirking. “With the way they flinched, I thought you were going to beat them up.”
+
+“I’m hungover, not insane, Sherly. If I did that, they wouldn’t be staying in my caravan.”
+
+“Yeah…”
+
+Sherly caught herself too late. The way she so absentmindedly agreed was too obvious to miss, even for someone who was still blurry in the head like Ishuin. The inquisitive elf snatched the implications almost too quickly.
+
+“Who was it?” she asked.
+
+“Who’s what?” Sherly asked in return, trying to feign ignorance.
+
+“My head’s throbbing in pain, but that doesn’t mean you can just dumb your way out of this conversation. Who was beating you up when they were hungover?”
+
+Sherly scratched her head and turned around, looking for a way to change the subject. But even after she found some interesting things and details in the room, like the intricate, gold-plated weapon rack and the polished wood armor stand that were both completely empty, she felt heavily compelled to reply.
+
+As for the elf, she was practicing patience, sipping and enjoying her soup.
+
+“Wish there was bread,” she mumbled.
+
+In the end, the cow-chilim gave a sigh. “It was my father. He would beat me up, including my mother and my little brother whenever he got drunk. It would be worse the next day while he was hungover.”
+
+“You didn’t fight back?” Ishuin asked. There was genuine surprise on her face, as if what she had heard was an impossibility.
+
+“I was young back then, I didn’t know I could. He passed away right before I entered high school. And when my mom picked up his habit, all I did was run away and hide with my little brother until she calmed down.”
+
+“No wonder…” Ishuin spent a few silent moments finishing her soup. “Compared to my habit, you’ve gone through worse. I’m sorry to hear about that.”
+
+“What is it that you scream about when hungover?” Sherly asked, pushing past the topic. “They seem pretty traumatized.”
+
+“It only happens when I drink away my frustrations,” Ishuin explained. “When we’re not on patrol, I spend my time researching about the Draconic Evolution Trait. Or at least, theories and vague leads about it. As you can guess, it always ends up in a dead end. That’s where I spiral. Of course, even then, I keep my secret. It’s part of what makes it so frustrating.”
+
+“What makes you so convinced that it exists?”
+
+The elf Wielder rubbed her forehead. “Sorry, Sherly, but it’s a bit of a long story. The short of it is, when I was younger, a dragon told me about it in a dream.”
+
+It all clicked for Sherly.
+
+“No wonder you’ve been keeping it a secret from the others.”
+
+“You think it’s childish.”
+
+“That’s the first impression, certainly.” Sherly noticed her hands move in a gesture. An act that she had forgotten the feeling of, when she was a full cow. The sensation of being able to do it was now a weird feeling, that she kept reminding herself to get used to having.
+
+“In our world, dreams happen regularly,” she continued. “It’s something we sometimes become superstitious of, but that’s pretty much the end of it regarding dreams. In this world, I can’t be too sure. It could be a premonition or a message from the divine, for all I know.”
+
+“That’s what I believe,” Ishuin said, placing the tray to her side. “Before the Zodiacs we have today, there was once a different group. One of them is a draconic Zodiac.”
+
+“Other Zodiacs?” Sherly repeated. “Like ancient ones? Do they have a pig? A rooster? A rat?”
+
+“None of those three, I don’t think. I’m not exactly versed with ancient history, but I don’t remember reading about those. I’m only sure of the dragon. I think there was a demon, a fish, and a cat, but I’ll have to reread the ancient texts to make sure.”
+
+“That’s a really odd combination,” Sherly said.
+
+“You said pig, after I said dragon,” Ishuin argued. “If you’re curious, you can check our books in Crustia. I’m sure Lady Kansa will allow you to read the ancient texts. In any case, there’s no real correlation to an Evolution Trait and a Draconic Zodiac. But I believe I was given that dream for a reason, and it’s been my life’s pursuit ever since. Childish or not, I’ll continue spending my life chasing that dream. And besides, Lady Kansa didn’t tell me to stop, when I shared it with her. She just told me to keep it to myself because of what the others might say.”
+
+“Yeah, I get that.” Sherly moved her hands again, placing them this time above her chest. “I wasn’t against you, or mocking you, or anything like that.”
+
+“That’s good to hear.” Ishuin forced herself to stand and made a big stretch. Then, she clutched her head again and groaned. “Ow!”
+
+“You alright?” Sherly asked.
+
+“Yeah, I’m fine. You can take a bath after I’m done with mine. Then we can head back inside Crossmark for your fitting.”
+
+“Wouldn’t it be too early?”
+
+“Maybe, but it wouldn’t hurt to check.”
+
+“Wow, it’s such a snug fit!” Sherly said after donning the breastplate of what would be her new armor.
+
+Seeing as it was just the initial fitting, the general look of the armor wasn’t that appealing yet. In fact, Sherly quickly realized that it was still incomplete. It was thin, and was essentially still something she might consider a vest or an article of clothing. At the back, right around the collar, was a split opening with laces, allowing for her to stretch it open for her horns to fit through.
+
+Regardless, the rest of her body snuggly fit into it. Her arms didn’t feel restricted, her chest didn’t feel compressed, and her stomach and back couldn’t feel any piece of the armor dig through as she bent around.
+
+“Alright,” Phoebe started. “Next we’ll put the shoulder pads, the tasset, and the armguards and the leg guards. I’m throwing in a pair of gauntlets as well.”
+
+That caught Sherly a little off-guard. She hadn’t expected the complete set to be given at the initial fitting. She stood still as Phoebe went all around her, strapping components of the armor where they should be. Now she looked like she was wearing a plain black canvas shaped in a set of armor. No rivets, no laces, no layers.
+
+She moved around, making sure nothing was impeding her movement.
+
+“Do some rolls if you want,” Phoebe suggested. “Just pull out all your moves, so we know where to adjust.”
+
+Sherly did just that. She even leapt backwards, as if trying to dodge an attack at the last minute, then recovering with a back roll. Then she twisted and jumped and spun in every direction she could muster.
+
+Nothing felt out of place, nothing felt loose. When she was done, catching her breath, her canvas armor was still intact.
+
+“Wow, you actually did run around,” Phoebe said, clapping.
+
+“That sounds sarcastic,” Sherly said.
+
+“It is. Most people come in here and feel embarrassed doing that.”
+
+The cow-chilim looked around her. Ishuin was silently giggling to herself. It even caught Edward off-guard, who was in the middle of his discussion with the caravan leader to let him join. She saw the rest of the blacksmiths and employees also looking at her with different expressions.
+
+“So what?” Sherly asked, shrugging them all off. “At least I know this armor can protect me.”
+
+That caused a loud cheer within the smithy, a single, loud ‘Ey!’ that caused the place to vibrate. Sherly and even Ishuin flinched, raising their guards in surprise. But it was just a short celebration by the blacksmiths, giving their applause.
+
+And just like that, the banging of hammers and movements in the crowd felt a lot more lively.
+
+“That shot the heart out of my chest!” Ishuin complained, taking a deep breath.
+
+“I thought we were in trouble,” Sherly added.
+
+“Hah! It’s not everyday we get an honest and cooperative customer like you, Sherly,” Phoebe said. “My blacksmiths are proud of their work. Even if they’re not the ones assigned to do your armor, a compliment given to one of them, is given to all.”
+
+“Mind letting us help out, Phoebe?” One of the blacksmiths asked. A group was forming and gathering around them. “We won’t change the original intention of the armor, just add a few finishing touches.”
+
+“Only if they’re alright with it,” the owner of the smithy said, gesturing to her customers.
+
+“Eh?” Sherly was stunned. “All I did was say the truth. There’s no need for—”
+
+“Yes, yes,” Ishuin interjected, pulling Sherly by the arm. “We’ll take your generosity, thank you.”
+
+“Ey! That’s the spirit! Thank you for giving us the opportunity, Lady Ishuin.” The blacksmith scratched her head. “I thought for sure, you’d reject us.”
+
+“How in Sinzodia’s name did I get this reputation?” Ishuin sighed. “I apologize, if anything I did made me look like a tyrant. I swear I don’t intend to make it so.”
+
+“Ishuin, is it really alright to take them all?” Sherly asked. “I’m not sure I have enough to pay them back.”
+
+“They’re for free, you silly cow!” said another of the blacksmiths. “Haven’t seen anyone genuinely test and express their comments about our work in a long while. People are just used to it, see? Expect that we’ll always give them exactly what they ask for.”
+
+“I mean isn’t that the norm?”
+
+“Sure, but that gets boring, you know?” The blacksmith sighed while the others enthusiastically agreed. “We want someone who’ll tell us what they feel about our work. Be they be criticisms or compliments. Mostly compliments.”
+
+Sherly scratched her cow head. “Well… I suppose as long as there’s no crazy additions or anything like that.”
+
+Immediately, she was bombarded by a lot of questions.
+
+“What weapon are you using? Do you need a strap on your back?”
+
+“How about quivers? I can give you an automatically replenishing one. Bit of an experiment, but nothing detrimental.”
+
+“Maybe you prefer using your fists? I can put spikes on your gauntlet. They can be elementally imbued.”
+
+“How about pockets? I can give you secure ones to hold your potions.”
+
+“Or a utility belt? We can upgrade your tasset with it.”
+
+“Hidden knives in your leg guards is where it’s at!”
+
+“Cape!”
+
+“Horn ornaments!”
+
+That caused everyone to turn. It was said by a rather young blacksmith. Taking her chance, Sherly made the obvious choice.
+
+“I guess I’ll take all of them? The ones that I can use, I mean.”
+
+Once more, the smithy made a loud cheer.
+
+When they finally made it out, Sherly felt like she could breathe again.
+
+“Not used to nice people, I bet?” Ishuin asked.
+
+“It’s going to take a while, yeah.”
+
+“Well, our next stop is going to be a bit somber, if you’re fine with that.”
+
+“Where?”
+
+“Kasta found a resting place for the villagers that didn’t survive.”

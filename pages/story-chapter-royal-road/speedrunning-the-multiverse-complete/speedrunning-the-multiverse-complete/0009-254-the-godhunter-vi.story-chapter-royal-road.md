@@ -1,0 +1,143 @@
+---
+id: 7d4f54cd-9b09-512f-99cd-641e4dfcfe92
+page-type-slug: story-chapter-royal-road
+title: "254. The Godhunter (VI)"
+slug: 0009-254-the-godhunter-vi
+partOf: speedrunning-the-multiverse-complete
+position: 9
+ownLength: 1882
+unit: words
+ownProgress: 1882
+publishedAt: 2023-07-04
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1266283/254-the-godhunter-vi"
+royalRoadId: "1266283"
+markedReadAt: "2026-06-29T22:41:58.284Z"
+---
+
+“Who are we?!” squeaked Sun at the top of her lungs.
+
+“The resistance!” shouted Dorian.
+
+The two dragons flanking him did too. Then the dragons behind them in the V-formation, then those farther back, until the words rippled down their whole fleet, all the way to the clumps of Gods in the rear.
+
+“What do we do?!”
+
+“Fly fast!” shouted Dorian.
+
+“Fight hard!” shouted the dragons in the middle.
+
+“And never surrender!”shouted the dragons at the rear.
+
+“Hurrah!” cried Sun.
+
+“Hurrah!” cried everyone else. It was a marching song Sun had spun up, and silly as it was it helped keep up their army’s good cheer these last few days. And they were starting to gain the shape of a real army. Greenscale had been made a squadron commander, in charge of eight dragons, and was overjoyed to get a hand-knitted cap from Gerard to mark it, too. Slickjaw was one of Dorian’s captains; he’d taken to being the army’s resident hardass with gusto.
+
+Sun didn’t have a title, but folk seemed to listen to her anyways. Maybe she was the official mascot. She kept the troops suitably fired up. Chomping for battle at a moment’s notice.
+
+So far they’d snagged some seventy-odd deities, and the more they got the easier it was to snag more. A few more days and they’d finish sweeping the realm for recruits.
+
+And then it was on to Mt. Tai!
+
+Gerard flew up to him. “Sir? I’ve discovered a possible opportunity. You’ll want to listen to this.”
+
+“Do tell.”
+
+“You recall the Dragon Ancestor.” Gerard dropped his voice. “The Godking Coldheart, mightiest of the elder dragons. The one you battled for forty days and nights as Salas, and at last dealt a fatal blow.”
+
+“Of course.” Coldheart hadn’t been an endless fount of qi, as some dragons were. Nor was he a miracle of nature physically. But he did have a deep understanding of the Dao of Ice—so deep that fighting him felt like wading a thousand li through thick mud. Sometimes it felt like Coldheart could freeze time itself.
+
+Coldheart was particularly memorable because Dragons did not usually have strong Daos. Even their Godkings lacked something in comprehension when put next to peers of other species; they usually leaned on their physicality and brute qi to win fights.
+
+Gerard held up a thin volume. “It is said in the History of the Dragon Realm that Coldheart was one of the few dragons in the Multiverse to be gifted a Chamber of Infinite Time by the Master Artificer Rithius himself.”
+
+“Which is?”
+
+“A miraculous artifact. A great training tool for Dao and Qi, purportedly, but it is so much more. Time within passes differently than for those outside—and all one needs to power it is a ready supply of Spirit Stones. At its maximum setting, ten thousand days can equal one outside.”
+
+That explained Coldheart’s weirdly advanced Dao.
+
+“Fascinating.”
+
+“Fate has gifted you with the Divinity Lotus, which already enhances your Dao comprehension speed sixteenfold. If paired with this Chamber of Infinite Time, and an infusion of Dao elixirs…”
+
+“…I can probably hit Empyrean. Maybe even before we assault Mt. Tai. I like your thinking! And I assume you’re about to tell me you know just where to get this thing?”
+
+“The Dragon Ancestor left an Inheritance before he passed. It is recorded in Chapter Forty-Six, ‘The Reconstruction (XVI).’ According to Thaddeus, it is a matter of public knowledge in the dragon-realm. The Ancestor’s Inheritance is situated in an impressive temple, you see. It is said to draw dozens of visitors daily. Some even pray to Coldheart. A minor religion of some note has cropped up around it, actually—”
+
+“Hold on. It’s been, what, over seven thousand years now since Coldheart left this thing. And it’s public knowledge.”
+
+“It appears so, my liege.”
+
+“So… we’re out of luck?” Dorian raised a brow. “Or are you telling me that in all this time, no one has taken the Inheritance?”
+
+“That is exactly what I am telling you.” Gerard slipped out a monocle from his suit pocket, put it on, and thumbed his book open. “The requirements to receive the Dragon Ancestor’s Inheritance are quite stringent, and are all enforced by Godking-level Array formations that no-one has managed to crack. First, you must be of a pure, regal dragon’s bloodline. And second, you must enter the Ancestor’s Tomb and complete the trials that await you.” Gerard snapped the book shut. “Thus far, no-one who has gone into the tomb has come back out.”
+
+“Hmm.” Dorian massaged his chin. “If that Chamber of Infinite Time is as you say, it’s too good to pass up! It can’t be helped. I do feel bad killing the old coot and taking his Inheritance...”
+
+“No, you don’t,” said Sun.
+
+“…Okay, fine. I’m looking forward to it, actually. I’m sure old Coldheart won’t mind. It’ll be for the good of the realm! But mostly myself. Usually the two are mutually exclusive, but this seems to be a happy exception. Say—how do you feel about holding things down here while I’m gone?”
+
+Sun blinked. “Me?”
+
+“The troops seem to like you well enough. Surely you can handle—let’s say… three days?… without imploding the rebellion. Just go around doing what I’ve been doing! We’ve got enough of a force here that I don’t really need to be here for us to get recruits.”
+
+“But I’m…me.”
+
+“And that, runt,” said Dorian, nuzzling her head with his knuckles, “Is precisely why you’re the one who’ll lead. Have some faith in yourself, will you? I know I do.”
+
+He was surprised to find he meant it, underneath all that cheesy ra-ra stuff he knew worked on her for some reason.
+
+Sun blinked again. Then her eyes shone, a little teary. She grinned. “Yeah, actually—what am I saying? I’m Sun Wukong the Ninth! I'm awesome! I’ve got this! Hell yeah!” That was new. “You won’t regret this! By the time you get back we’ll have half the realm on our side!”
+
+***
+
+The Tomb of the Dragon Ancestor was half a day’s flight away, going at top speed. Gerard led the way, alternating between his history tome and a book stuffed with maps. Dorian was content to follow, whistling cheerfully as they went.
+
+“What are we looking for?” asked Dorian.
+
+“A pure white gravestone, engraved with light blue, stretching from the earth to the sky,” said Gerard.
+
+Gerard saw it first, a tower of marble the clouds seemed scared to touch. Dorian felt it next—a resonance in his spirit, like a plucked string in his heart quivering, quivering. It wasn’t that pure harmony a Torchdragon artifact might elicit, but it still drew out a pleasing note in his soul, a note that stirred up that hot eagerness in Dorian’s soul, that familiar desire. This was a cousin of his, also possessed of pure dragon blood. And by the feeling of it a great deal of that blood. The gravestone was still wreathed in its proud aura.
+
+The stone had that grand aura only truly ancient things do. It seemed to say that it had been here since the dawn of time, and would be here at its twilight too. So old that its oldness was too big for puny Godly minds to wrap around; so old their minds could only fall back on a sense of awe, of cosmic smallness, as a way to make sense of it. Dorian was pretty sure it was a cosmetic effect. Maybe some glamor array? Neat trick. He could see why the little folk, who were always in need of something to worship, really, chose it as their object.
+
+As they descended Dorian noticed a dotting of Gods prostrate at the Tomb’s base. There were even a few Empyreans. All were humming a low, bassy tune. The religious folk Gerard had spoken of, no doubt.
+
+“Praise be to his August Majesty, First of his Name, The Great Ancestor!” croaked an old dragon who looked so withered his body seemed one long stretch of jerky, spottedin parts with cracked scales. His Empyrean aura flickered like a candle on the verge of going out. He seemed to be held upright by the sheer strength of his faith. A priest of sorts?
+
+“Praise be!” said the congregation. It looked a lot like what the rebellion had going on, actually. Maybe Dorian ought to pull this priest aside after this Inheritance business. Exchange notes, one cult leader to another.
+
+Dorian dropped straight into their midst. “Praise be!” he said.
+
+Gasps. Cries. Folk rippled away from him like he was a pebble tossed in a still pond.
+
+“Nice to meet you! I’m Dorian, of the regal Torchdragon Bloodline! And I’m here to try for the Dragon Ancestor’s Inheritance. Might any of you fine fellows point me to the entrance?”
+
+He got some growls from the crowd. A few spat. Which was fair. He had been rather rude, barging into their worship unannounced. The Priest didn’t seem fazed in the slightest by Dorian’s sudden entrance.
+
+“Young one,” croaked the Priest with a sigh. “Do not fall prey to such whims! This request bespeaks your ignorance.” Which was a little rich, considering he was only of Third Form—meaning Dorian was at least ten times as old as him. But he let it slide; you couldn’t take things personally with these youths. They probably didn’t know any better.
+
+The Priest went on. “Every moon an impetuous youth comes along, brashly requesting to challenge for the Inheritance. And every moon they leave, never to return! Young one, this gravestone is our Lord Coldheart’s final lesson to us all. His true inheritance is the wisdom that we creatures of the Multiverse must rein in our desires. Lest they lead us down dark paths.”
+
+“That’s certainly one interpretation,” agreed Dorian. “But isn’t there a Chamber of Infinite Time buried under that hunk of rock? That seems the likelier inheritance to me.”
+
+“You have missed the point!” growled a burly Empyrean.
+
+“Probably. I was never very good at internalizing these morsels of wisdom. But if I wish to challenge for the Inheritance, that’s my choice, isn’t it? The Dragon Ancestor didn’t go through the trouble of constructing it for no-one to try for it.”
+
+“It has been prophesied that one day the savior of the realm shall descend from the Heavens, and claim the Ancestor’s Inheritance,” said the Priest. “Until then, all who try are doomed to fail!”
+
+“Oh, I never put much stock in prophecies.”
+
+“You!—” the Priest sighed. “I can see you shall not be persuaded. Very well. Follow—”
+
+“Wait.” The burly Empyrean stalked up to Dorian, teeth bared. “If you wish to challenge for the Inheritance, you must first get through me! If you cannot even defeat me, what hope do you—Oh.”
+
+Before he’d finished the sentence, he found himself off the ground. Dorian had picked him up before he could react, and now held the dragon overhead.
+
+Then Dorian closed one eye, licked his thumb to test the wind, aimed, and tossed him into the sun.
+
+The dragon left a trail of screams, then a trail of vapors in the sky. He was soon a tiny dot.
+
+“Don’t worry. He’ll come back down,” Dorian promised the gaping Priest. “So—about that Inheritance?”

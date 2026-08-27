@@ -1,0 +1,177 @@
+---
+id: c04d3d21-4932-5a9c-abd2-d7cbaa854ebd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Elf Healer"
+slug: 0011-chapter-7-elf-healer
+partOf: shapeshifter-a-non-human-litrpg
+position: 11
+ownLength: 2267
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3251578/chapter-7-elf-healer"
+royalRoadId: "3251578"
+---
+
+Despite not being a registered Hunter or Healer, people bowed slightly towards Xen as he made his way deeper into the Guild Association's headquarters.
+
+"Why are they bowing to me?" he asked Valoria, who was following him. Besides the examiner, it was just the two of them now as Vesper had left to do his own thing.
+
+"You are wearing a typical healer's outfit and being escorted toward the infirmary by guild staff. I'd assume they think you're a Healer here to do charity work," Valoria replied, shrugging.
+
+"I thought Healers weren't liked?" Xen whispered.
+
+"The greedy ones aren't," Valoria replied. "But the ones that offer charity healing, or are willing to enter the dungeon, are highly respected."
+
+Xen nodded along and smiled behind his mask. Humans would bow and respect him from now on? He was liking this healing elf persona more and more. The only question was if he could pass the following trial without giving himself away.
+
+"We are here," the red-haired woman said, sliding open a large door.
+
+Xen gulped as he stepped inside and looked around. The room was large, like a white, sterile warehouse. Hunters sat upon rows of beds being tended to by medics and the occasional Healer. The whole place was shrouded in a blue glow from the massive mana crystals implanted in columns between the beds, which seemed to feed mana to the recovering Hunters through wires.
+
+"Only he can enter," the red-haired woman said, holding Valoria back from following them in. "This is a restricted area for Healers and guild members only, so you will have to wait out here until the test is complete."
+
+Xen looked back in horror. He would have to face this alone?!
+
+Valoria bit her lip. "Can I really not watch from the door? I won't step foot inside."
+
+"Don't be difficult," the examiner said, and slid the door shut in Valoria's face. She then turned to Xen, clipboard in hand. "Let's start with Orbs of Light. It's a harmless E-grade skill, and I'll use it to verify your control."
+
+Xen came to terms with the terrible fact that he was here alone now and pondered how to proceed. He had to handle this carefully. If he cast without thinking, the skill would channel with the strength afforded from hundreds of magic stats, and even the most clueless observer would know a level 1 had no business producing that kind of output.
+
+What if I cast the skill through my Elf form and try to rely only on the mana that's stored within this body's muscles? Surely that will be enough of a handicap to seem convincing?
+
+"Whenever you're ready," the woman said with impatience.
+
+Xen nodded and concentrated as hard as he could to detach his Hexreaver Slime mana pool. Hoping he had done it right, he said the skill name. "Orbs of Light."
+
+Three blindingly bright orbs of light spawned above him, earning a few yelps of surprise throughout the room.
+
+Ah, that's not good, Xen thought as he looked up at them.
+
+"Rather strong for level one," the woman commented. "What is your range of control?"
+
+"This is it," Xen lied. He remembered the skill description said that the range and brightness of the orbs were dictated by his magic stat. At level one, he shouldn't be able to send them far.
+
+"Really? I find that hard to believe," she said, but noted it down anyway. "Elves are known to have a talent for magic, but that is certainly the brightest orb of light I've seen."
+
+Xen wanted to crawl into a hole and die. In fact, the Guild Association might even dig the hole for him and throw him in it by the end of this test, once they figure out he was too strong.
+
+"Moving on, the next test should be Radiant Smite," she paused and gave him a dubious look. "I have a lightning rod with a mana register attached here," she said, holding up a metal bar ending in a ball. "I will put it down here in the corner, and I want you to lightly blast it."
+
+Xen slowly nodded, not feeling good about this. The woman stepped away from the lightning rod and awaited his attempt.
+
+A little less mana this time, Xen thought, then glanced up at the orbs of light. Okay, maybe a lot less mana. It would be better to fail casting the spell than to unleash a Radiant Smite with my full strength.
+
+With that in mind, he hesitantly raised his finger, pointed it at the lightning rod, and tried to hold back. "Radiant Smite," he said, and there was a familiar flash of light. It struck the metal rod with a hiss, rebounded, and struck the ceiling, leaving a scorched mark. The mana reader let out a strange beep, and then the room was drowned out by sirens and flashing red lights.
+
+Xen thought that was it. He was dead.
+
+"Did that set off the fire alarm?" the examiner cursed and went to rush out of the room, but paused as she slid open the door to tell him, "Don't go anywhere, stay right there. I will be back soon."
+
+Xen nodded and tracked her leave with Geomantic Perception. She was jogging down the corridor and was soon out of detection range, as the buildings' ever-present wards suppressed his senses.
+
+Despite agreeing to her words, Xen had no plans to stand and await his death. There had to be something he could do. Should he flee? Perhaps hide in a cupboard somewhere and change identities?
+
+A pained groan audible over the sirens from behind him drew his attention. It was a Hunter covered in burns and deep gashes along his flank. For whatever reason, he seemed to be ignored by the Healers and medics.
+
+Xen got an idea.
+
+He scanned the room. Everyone else was too distracted by the sirens and their patients to give a random Elf any attention. Here goes nothing, he thought as he approached the man. Placing his hand on his body, he muttered "Flash Mend" over and over. The skill rapidly drained his mana pool, and after around five uses of the skill, he grew worried that the man was too healed and any further healing would be detrimental. Not good, I still have so much mana to spend. Xen found his next target and dashed over to a woman who was passed out. He repeated the process of spamming the skill.
+
+In total, he used Flash Mend fifty times on ten different patients before the sirens abruptly cut off, and he detected the red-haired woman returning.
+
+Valoria wasn't joking when she said Healer spells were mana-intensive, my reserves are zero now, Xen thought as he obediently returned to the spot the woman had left him in. She returned with a scowl.
+
+"What an annoying time for a fire drill," she grumbled and resumed her role. "Right, where were we?"
+
+Fire drill? Had she not noticed the scorched mark on the ceiling when it happened?
+
+"Radiant Smite," Xen said helpfully.
+
+"Right, Radiant Smite," she muttered and walked over to the machine. "An error? Sorry, Yuki, can you try again?"
+
+That confirmed it—she really hadn't noticed his first Radiant Smite spell arc off the device and strike the ceiling.
+
+"Sure," Xen replied, aiming at the lightning rod once more. "Radiant Smite." A sharp headache that felt like an icepick to the head almost made Xen crumble to the ground as he drew on mana that wasn't there.
+
+The skill thankfully still fired, but compared to earlier, it was frankly pathetic. A small spark that matched the skill's F-grade arched between him and the rod.
+
+It was perfect.
+
+"Five," the machine beeped.
+
+"Magical power stat of five," the woman noted with a nod. "A little high for level one, but within reason for an Elf."
+
+"I might have poured too much mana into the first skill to impress you," Xen lied while clutching his head. "I have mana deprivation already."
+
+The woman glanced at him with concern. "That was silly of you. Do you have enough to proceed with the other three skills?"
+
+"I think... I might have just enough to manage," Xen replied. In truth, he was below zero right now and was drawing on the mana left inside the elf's body, like he had tried to do originally. Just this time, he was forced, rather than managing through his own control.
+
+"Then let us proceed," she said, looking at her clipboard. "Let us find someone deserving of your Flash Mend skill. Follow me." She walked past him into the sea of hospital beds and right past the many people he had just spam healed.
+
+Xen followed behind, silently wondering why the people closer to the door were overlooked. Was it because they were lower-ranked hunters? Perhaps they were with different guilds or were considered not to have life-threatening injuries?
+
+"Thank you," a voice whispered to him as he passed, causing him to freeze. He slowly turned toward the voice and recognized it as the man he had originally healed.
+
+"Good deeds never go unpaid, Healer. Don't worry, your secret is safe with me," he winked and then rolled over.
+
+"Over here!" the clipboard lady called, drawing a spooked Xen away. His sight lingered on the man for a while longer, his mind racing. Was his secret really safe? How many of the people he had healed had seen him do it? He had picked people who were sleeping, but were some pretending, or had his healing woken them up?
+
+"Those things are really bright," the lady complained once he came to stand beside the same hospital bed as her.
+
+"What are?" Xen asked dumbly, his mind still on the man.
+
+"Your orbs of light," she said, gesturing to the three glowing balls of light hovering over his head. "Can you dismiss them?"
+
+Xen glanced up and realized the orbs might be why she hadn't noticed his Radiant Smite. They really were blindingly bright.
+
+"Sure," Xen said, and extinguished them. The entire room notably got a little darker.
+
+"Good. Now, this is Alex, one of my colleagues. He got ambushed by an Acid Slime. No life-threatening injuries or wounds, but he has skin burns, and he was inflicted with a rotting curse. Could you remove the curse first with Cleansing Light and follow up with Flash Mend?"
+
+Xen didn't waste any time, but did enjoy the irony of a Mind Slime healing wounds on a human inflicted by an Acid Slime. "Cleansing Light, Flash Mend."
+
+He used the skills at the same time to try to mask how much mana he was pouring into them, as it was still likely too much despite his deprivation. Alex's eyes shot open, and he gasped for air.
+
+"Chill, Alex, I have a newbie attending to you," the lady chuckled as she noted her findings.
+
+"Thank you... Healer..." Alex smiled weakly at Xen. His face was pale, and he looked like he was still in a lot of pain.
+
+His smile disgusted Xen, but helping people also felt... good? It was a strange feeling to describe. That's when a notification appeared in his vision.
+
+"All looks good so far," the lady said. "If you have the mana left, put a Beacon of Grace on Alex to heal the rest of his injuries over time."
+
+Flash Mend, while effective as an instant heal, used the target's own lifeforce to conduct the heal and didn't fully restore everything. Following up with a Beacon of Grace was a good idea. It would also heal the other patients within a five-meter radius.
+
+"Beacon of Grace," Xen said as he used the skill for the first time. True to the skill's description, a golden sigil appeared overhead and began pulsing softly with radiant light.
+
+Alex looked blissfully under the healing light, and the red-haired woman began rolling nearby beds to be within its range. Even Xen benefited, as it helped somewhat numb the splitting headache he was suffering.
+
+You have healed multiple people. Bonus experience awarded.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 68 -> 69.
+
+[Elf] has leveled up: 1 -> 8.
+
+Xen was stunned by a sudden message. He had leveled up without killing anything? Strength surged through his body, and he suddenly felt amazing, aside from the headache.
+
+"Well, that is certainly a working Beacon of Grace. Congratulations, Yuki, you have qualified as an F-grade Radiant Healer with amazing potential," the woman said, unaware that he had just leveled up multiple times, likely due to the fifty times he had used Flash Mend.
+
+"Thank you. This means so much to me," Xen said honestly as the woman passed him a metal badge. For the first time, it hadn't been stolen.
+
+This was his badge, and he proudly pocketed it.
+
+Against all odds, he had somehow survived the test.
+
+Leaving the infirmary, he gave one last glance to the man and the others he had healed. A few returned smiles or gave a little wave. He didn't wave back and left swiftly in fear that someone would spill his secret, only to walk out into an empty corridor and find Valoria missing.
+
+"Do you know where Valoria went?" Xen asked.
+
+"Valoria?" the woman asked, confused. "Do you mean your distant cousin?"
+
+Xen nodded.
+
+"Oh, she was taken in by the guild for questioning," the woman said. "Something to do with a murder case on the fifth floor? You can wait for her in the lobby."

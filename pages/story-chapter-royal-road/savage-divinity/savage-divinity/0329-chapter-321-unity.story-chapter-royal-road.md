@@ -1,0 +1,133 @@
+---
+id: abd1eaa2-ec3c-56b4-b533-a1f4d687f9c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 321: Unity"
+slug: 0329-chapter-321-unity
+partOf: savage-divinity
+position: 329
+ownLength: 3672
+unit: words
+publishedAt: 2018-04-10
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/207317/chapter-321-unity"
+royalRoadId: "207317"
+---
+
+Letting loose with a piteous moan, Mila prayed for a merciful end to this inhuman suffering. Cursing the twisted mind which devised this harrowing machine, she tried to ease her misery by rocking back and forth in her chair, but failed miserably and made things worse. Stomach lurching in protest, she reached for her bucket, clutched it to her chest and peered into the darkness of its disgusting depths, wondering if she still had anything left to offer.
+
+She most definitely did. Bile and water mostly, and she didn’t want to think of what else.
+
+“Papa,” she cried, after the vomiting stopped. “You’re a liar! You said the worst has passed, that this was almost over. Why isn’t it over yet Papa? Why isn’t it over...”
+
+She went on like this for some time before Papa finally answered, occupied as he was with his own torment. “Not long now lass,” he croaked, voice husky and weak. “Stay strong daughter, we can make it through – Urg.... blarggggh... this... worst is behind us... Stay strong...”
+
+Tears dripping down her face, Mila gazed upon Papa’s shrunken form laid out across the bed, his head strategically hanging over a bucket of his own. Drifting in and out of consciousness, Papa still had the mind to mumble encouragement and platitudes to try and ease her suffering. It hurt seeing him like this, so weak and vulnerable, not at all like his usual vigorous and robust self. Although Mama was the famed warrior of their family, Papa was no less impressive in Mila’s eyes, her jolly, good-natured, imperturbable protector. Whether it be sheltering her from Mama’s more ambitious training exercises or beating a spoiled young noble and would-be rapist to death, Mila could always count on her Papa to take care of her.
+
+Until now. Nothing could save them from this abominable affliction, so Mila prayed for the warm embrace of the Mother to come take her away.
+
+Whimpering for someone to come save her, Mila wept and hugged her bucket, long since desensitized to the awful smell. Both struck down by the same calamity, father and daughter had suffered side by side for nine days and today was the tenth. Sweet freedom lay so close, yet seemingly so far out of reach, Mila feared she wouldn’t survive to make it. Just staying upright in her chair took everything she had, but she knew things would get much worse if she laid down. Even closing her eyes made her head spin, so she stared out the tiny, open window to their cabin room and focused on the horizon, the only thing she found which could ease her misery.
+
+This wasn’t right... No one should be treated this way, not even the worst of criminals, and Mila was far from one. Were she to slip back through time and do this again, she would’ve broken out before the first day – no, the first hour had passed and ridden home. The flimsy wooden door was nothing to her, but now, after so many days of anguish and misery, she was weak as a day-old kitten and in no condition to walk, much less run.
+
+Humans were not meant to travel on boats.
+
+How anyone could stand the constant lurching was a complete mystery. The Captain and their sailors were no help, telling Mila she’d ‘get her sea legs’ soon enough, nothing but cruel lies and sadistic deceit, offering her a strand of hope where none existed. Were it not for Papa suffering beside her, Mila would have long since suspected this was all some cruel joke, with everyone hiding the remedy just so they could watch her suffer. Oh how she wished it were true, for it meant there was a cure and she wouldn’t have to go through this a second time. Better to walk home, nay, better to die fighting against the Defiled than repeat this harrowing experience, and if she had her way, no boat would ever travel on the open waters ever again.
+
+If the need arose, Mila would even swear an Oath to the Heavens to avoid stepping foot on another floating wooden deathtrap of infirmity and nausea.
+
+Slipping into peaceful oblivion, she came to while being flung from her chair, tumbling across the cabin, and coming to a stop in a corner. With her back on the floor and feet against the wall, she waited for her muscles to stop aching and the room to stop spinning before trying to stand. Struggling to her feet, she thanked the kind soul who thought to secure her vomit bucket while she slept, and simultaneously cursed that same person for putting it so damned far away. Leaning heavily against the wall, Mila dragged herself around the room, aiming for her bucket on the other side and praying she’d make it there before the nausea caught up and her vomiting began.
+
+Again.
+
+After three, arduous, unsteady steps, she realized the deck no longer swayed beneath her feet, though her legs insisted otherwise. Unable to adjust to these new circumstances, she fell to her knees in a mixture of exhaustion and relief, mind reeling at the implications. If the deck wasn’t swaying, that meant the ship wasn’t moving, and if the ship wasn’t moving, that meant...
+
+Oh thank the Mother! It’s over! We made it!
+
+Bursting through the door without knocking, Tursinai’s smug grin made Mila want to backhand the former bannerman across the face. How dare she be so happy while Mila suffered so horribly? “Why hello there little Mila,” she said, striding past the kneeling Mila to place a basin of water on the table. “You’ll be delighted to hear we’ve made landfall and everyone is outside waiting to greet you, but we can’t have you go out looking like death warmed over.”
+
+Tursinai must be a holy saint sent here by the Mother herself.
+
+As the warm washcloth ran across her face, Mila sat listlessly on the floor with tears streaming down her cheeks. “Thank you Tursi,” she cried, holding the older woman’s sleeve tight. “I’m sorry for every rude thing I’ve ever thought about you. I’m a horrible person, just horrible.”
+
+Between her inability to keep food or liquid down and still spinning room, Mila found she was having a little trouble controlling her emotions.
+
+“Hush now, little Mila,” Tursinai said, gingerly working at Mila’s crusted hair. “No need for thanks or apologies, just call me big sister once or twice.” Eyeing Papa, Tursinai bit her lip, sucked in her breath, and whispered, “I’d be even happier to help big Papa over there, but I worry the Lieutenant General would not look kindly upon my actions. If you really want to thank me, then how about you sit tight while I give your Papa a wipe down, and we keep it as our little secret?”
+
+After several minutes of inappropriate comments, Tursinai gave up on making Mila look presentable and carried her away. As they exited the ship’s interior and strode down the ramp, Mila gazed upon the almost endless stretch of sand and grass, celebrating her victory over death and having stable, stationary land beneath her feet. Resisting the urge to wriggle out of Tursinai’s arms and kiss the sand, she heard Lin’s excited cries and sought out her best friend’s face in the crowd. Wearing a laurel of flowers in her hair and a radiant smile, Lin looked lovely as a summer day as she ran towards them. “Mi-Mi! Mi-Mi! You’re finally here! There’s so much...” Mila’s heart broke as Lin crinkled her nose and skidded to a halt at arm’s length. Recoiling in visible disgust, she pinched her nose and exclaimed, “Ewwww Mi-Mi... So stinky. What happened?”
+
+Laughing so hard she had to put Mila down, Tursinai rolled in the sand and cackled in delight, oblivious to the odd stares she attracted. Glaring at her supposed best friend while kneading the soft, wonderful sand, Mila blinked through her tears of joy or indignation and asked, “Is that how you greet me after all those weeks apart?” Everyone was staring now and like Lin, they also backed away. Mila couldn’t possibly smell that terribly, could she?
+
+Scuffing her boot, Lin at least had the courtesy to look ashamed, so adorable in her contrition it made Mila burn with jealousy. “But Mi-Mi,” she said with an adorable pout, “you really do smell, ya?”
+
+Contrary to Lin’s revulsion, Song, with her hair up in a braided bun and wearing a similar laurel of flowers atop her head, made her way over to Mila’s side without hesitation. Holding Mila close, Song nuzzled her without regard for smell or filth, acting like a true sister could. “Thank you Song,” Mila said, leaning against her sister for both physical and emotional support. “I love you so much.”
+
+“I love you too, sister.”
+
+With a squeal of delight, Mila hugged Song as tight as she could, which was to say not tightly at all. “You mean it?”
+
+Smiling beautifully, Song nodded with confidence. “Yes sister.” So wonderful, Song was finally opening up after all their time together. Strange how it took a month of separation to make it happen. “Mama went in for Papa, so perhaps you’d like to take a bath before seeing her? Lin... is not wrong.”
+
+Well... maybe they had a point. Mila couldn’t remember bathing since before boarding the boats ten vomit-filled days ago. Though they beached every night, after twelve or fourteen hours at sea, Mila was in no condition to do anything but collapse into a pile of tears and snot. At least Rain wasn’t here to see or smell her like this.
+
+... Wait, why wasn’t Rain here to greet his betrothed? She missed him so much, did he not miss her?
+
+“Er... Hello Mila.” Stepping out from the crowd as if summoned by her thoughts, her beloved arrived holding a laurel of flowers with both hands. Unlike Song’s or Lin’s, this one was shoddily made, the flowers unevenly spaced and oddly angled as if put together by a five-year-old. Cheeks bright red and eyes averted, Rain placed the laurel on her head and mumbled, “You changed your hair, it’s shorter and curly now. You look very lovely. I made this for you.”
+
+It’s okay. So her betrothed was not a craftsman. Mila even found it endearing to know he wasn’t amazing at everything, though she was also miffed he only now noticed her new haircut, three months after the fact. Reaching out towards him, she whimpered, “Carry me?”
+
+Stiffening in surprise, Rain’s grimace broke her heart. Did she really smell so terrible? Was his love for her truly so shallow? Luckily for him, Rain’s hesitation only lasted a heartbeat before he nodded in agreement. After closing his eyes and taking a calming breath, he dithered about trying to figure out how to best approach her, almost as if afraid to touch her. Silly man, still thinking about her dignity now, being carried by Tursinai was a little humiliating, but being carried by her betrothed would be romantic. Helping him along, she wrapped her arms around his neck, settled in against his shoulder, and waited for him to carry her away.
+
+And waited.
+
+And waited.
+
+Grunting in exertion, the veins in her beloved’s neck bulged as he struggled to lift her up, unable to shift her even a single centimetre. How odd, he’d been carrying her for weeks now without her help and she was too tired to Lighten even if she wanted to. Why was he pretending to have trouble now? “What’s wrong?”
+
+“Nothing. I can do this.” Veins throbbing and heart pounding, Rain grit his teeth and threw everything he had into lifting her off the sand but to no avail. After a minute of futile struggle, he snarled and shouted, “Shut up!”
+
+Taken aback, Mila released her hold around his neck. Without her arms to brace against, Rain tumbled backwards into the sand with a heavy thump, wheezing as the air was forced out of his lungs. “Excuse me?” she asked, annoyed at his tone. “What did you say?”
+
+“Not... talking to... you,” Rain gasped, gesturing aimlessly around him. “Monk. Concealed. Won’t stop Sending. Nattering on... Celibacy and sin.” Searching through the crowd, he snapped, “Blow it out your fat ass! I am not your brother, nor am I a monk! I’ll touch any woman I want and nothing you say will change my mind.” Noticing Lin and Mila’s sour expressions, he quickly corrected himself. “I mean, I will only touch the women I am betrothed to. Not in a sexual manner, but a wholesome, chaste... er...” Sighing, Rain stood up and brushed himself off. “Sorry. I’m very tired from my recent ordeals, so I think I should go to bed now. You look lovely as always Mila. Sorry.”
+
+Leaving her sitting in the sand without so much as a smile, Rain strode off into the crowd. Overcome with emotions, Mila couldn’t decide whether to be furious or heartbroken and looked to Lin for an explanation. Puffing her cheeks, Lin stretched her arm and patted the air by Mila’s face, staying as far away as possible. “Don’t be mad Mi-Mi, hubby’s been through a lot recently and now he’s acting so strange, all mopey and scared. He sleeps a lot and only leaves his yurt to swim. He even took the bears away and told me I shouldn’t be so selfish and need to learn to share...”
+
+The rest of the night passed by in a blur and when she opened her eyes again, Mila found herself wrapped in a warm blanket inside Song’s yurt. Basking in the cozy comfort of the cot, she drifted in and out of sleep for untold minutes, lazily putting off the new day for as long as she could. Right now, things were perfect and she didn’t want to ruin it with the complications of life. Rising with a bone-cracking stretch, she arched her back and rejoiced at her complete and utter lack of queasiness. In fact, for the first time in days, she was actually hungry, her stomach rumbling in anticipation of a well-deserved feast. Unable to find her clothes, she borrowed one of Song’s outfits and staggered out of the yurt to greet the day. Shielding her eyes from the bright afternoon sun, she took a deep breath and admired the majestic blue skies and verdant green grass of the Central Province.
+
+And the magnificent, menacing turtle napping not two meters away.
+
+Even at rest, the formidable creature exuded an air of vigour and majesty, power and fortitude given form. A self-proclaimed emperor of her domain, the Guardian Turtle of Ping Yao lay perfectly still, relaxed and unafraid despite the crowd bustling around her. Her smooth, leathery skin looked soft to the touch, shimmering in the light with a beautiful moss-green hue. As Mila drew close, the turtle’s eyes shot open to inspect the unfamiliar intruder, with the sun in perfect position to reveal a lustrous golden gleam in her dark, fathomless eyes. Tilting her head in a strangely human fashion, the turtle squeaked in delight and stretched her neck to nuzzle Mila in a gentle, loving manner.
+
+Giggling in pure glee, Mila wrapped her arms as far as they could go around the turtle’s beak, treating the affectionate creature to a hearty hug. “Why hello there,” she crooned, nuzzling with a turtle large enough to swallow her whole. “Aren’t you affectionate? You must be Ping-Ping. I’m Mila, nice to meet you.”
+
+“So you’re the little scamp’s daughter.” The gruff, unfamiliar voice made Mila jump in fright, and she turned about to find an older gentleman lounging in the grass nearby. Wearing a wide-brimmed, conical hat and a ragged tunic, the stranger puffed on an exquisitely crafted pipe and studied her with his piercing brown eyes. With the ghost of a sneer pasted across his face, he blew a cloud of white, wispy smoke, pungent and unpleasant to the nose. “You’re shorter than I expected.”
+
+Despite his rough exterior and atrocious habit, Mila instantly felt drawn to the older man when she spied his floofy, ringed red panda tail thrashing behind him. Finally, after all these years, Mila had found a half-brother, though judging by his silver eyebrows and beard, he was a much, much, much older half-brother, one almost at the end of his natural lifespan. Barely able to contain her excitement, Mila gracefully overlooked his jab at Mama or Papa and bowed in greeting, a difficult task with Ping Ping demanding another hug. “This one is Sumila, Disciple of Akanai, Student to Husolt, sister of Li Song and Captain of the Sentinels. How might I address you, good sir?”
+
+“Well, well, well,” the stranger said, sitting a little straighter as he put his pipe aside. “At least the little scamp taught her daughter manners. This lord is Guan Suo of the Protectorate, guardian to... Ping Ping.”
+
+The last was said with a sigh, but Mila was too busy trying not to lose her temper. How dare he call Mama ‘little scamp’? Just because he’s older than her doesn’t mean he can look down on her. Hmph, if Mila still didn’t need to question him, she’d give him an earful, half-brother or not. Best to get straight to the point before she lost her temper. “Greetings, Guan Suo. As you can probably tell, the two of us probably share a... progenitor. I was wondering if you’ve ever met him or her, and if you have, if you could tell me where?”
+
+“Oh?” Raising one long, bushy eyebrow, the old man asked, “The little scamp never told you about your parentage?”
+
+“I know no scamp and my parents are Akanai and Husolt,” Mila corrected, a little more curtly than intended. “But no, they’ve never told me anything about the people who conceived me.”
+
+“Feisty little cub aren’t you?” Rolling his shoulders in a lazy shrug, Guan Suo settled back against his clump of dirt and stroked his beard. “Fair enough, I’ll give you that, but if you feel so strongly about the subject, then why even seek out your... progenitor?”
+
+Her patience slipping, Mila wondered if the old codger even had an answer to give her, but she persisted nonetheless. “I have something important he or she needs to hear.”
+
+“A message?” Amused, he smiled and asked, “And what, pray tell, would you say?”
+
+This was all a game to him, making light of a matter she held dear. Mila almost turned around to leave, but something in his eyes made her stay. More than just idle curiosity or callous humour, she saw an intense need to know hidden beneath his veneer of indifference. Against her better judgment, Mila opted for honesty. “I would tell them who I am, a forgotten daughter who was abandoned and left to die. That I have two loving parents, a wonderful sister, amazing friends, and a valiant betrothed. That I am a warrior unmatched by my peers who at twelve-years-old, tracked and killed a one-thousand year old carnugator by myself. I then used its hide to craft a Spiritual Weapon, the shield you see me carrying now, and at the age of eighteen, was Inspired by the Mother and attained the rank of Divine Blacksmith.” Taking a deep breath, Mila calmed her nerves before pressing on, holding back the flood of emotions welling up from within. “Most importantly, I would tell them that despite their best efforts, I have lived a life full of love and affection and that I am far better off without them.”
+
+Staring off into the distance, Guan Suo stifled a yawn and asked, “Have you considered writing it down and presenting a letter instead? That was quite an earful.”
+
+Grinding her teeth with an audible growl, Mila resisted the urge to rip his eyebrows clean off. “Can you. Direct me. To our progenitor?”
+
+Instead of answering, the old man rolled his eyes and said, “I take it you don’t know much about Ancestral Beasts then. You’re upset over being abandoned as a child? Pei! You’re lucky you weren’t killed outright. Don’t go looking for sympathy from an Ancestral Beast. They might look human, but they’ll always be beasts at heart, a slave to their baser instincts. Despite all your skill and accomplishments, in the eyes of an Ancestral Beast, you’re nothing but a feeble, deficient failure, someone to whom death would be a mercy.” Shaking his head, Guan Suo sneered and added, “Some like to pretend and play human, but that’s all it is, a game. They’re creatures of the wild, and not even all the time in the world will tame them. Run along now, Sumila. Forget this idle fancy of speaking with your progenitor. Like you said, Akanai and Husolt raised you and love you. What more do you need?”
+
+With that said, Guan Suo stood up and walked away, melting in the sea of Sentinels so seamlessly, it had to be Concealment. Burning with anger, Mila glowered in Guan Suo’s general direction before turning her attention back to the affectionate turtle. “Poor Ping Ping,” she crooned, giving the gentle giant yet another hug. “Like me, you’re also surrounded by infuriating men.” Glancing at Rain’s yurt, she balked at the thought of seeing him again. Curious as she was about his second Awakening, a small part of her mind wondered if his cold reception was not due to his weariness but for other reasons.
+
+He’d been polite and respectful, but not warm or affectionate, like he was doing what he thought she wanted instead of being genuinely happy she was here. What if he had a change of heart during their time apart? Taking the coward’s way out, Mila said her farewells to Ping Ping and strode off in search of Mama, Lin, and Song.
+
+Whatever was going on with Mila’s betrothed, it was always better to face bad news on a full belly.
+
+Chapter Meme

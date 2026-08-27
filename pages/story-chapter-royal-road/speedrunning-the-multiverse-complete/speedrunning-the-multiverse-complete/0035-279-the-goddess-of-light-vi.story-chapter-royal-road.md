@@ -1,0 +1,143 @@
+---
+id: 3f854e0b-059a-50c2-bc32-11115845a37d
+page-type-slug: story-chapter-royal-road
+title: "279. The Goddess of Light (VI) "
+slug: 0035-279-the-goddess-of-light-vi
+partOf: speedrunning-the-multiverse-complete
+position: 35
+ownLength: 1884
+unit: words
+ownProgress: 1884
+publishedAt: 2023-08-08
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1303368/279-the-goddess-of-light-vi"
+royalRoadId: "1303368"
+markedReadAt: "2026-06-29T22:42:52.071Z"
+---
+
+The thirteen ranked Godqueen in the Multiverse sat crosslegged atop a parapet, admiring her painting. In one hand she held a wooden brush whose tip smoldered with Laws of Necromancy. In the other she held a glass of wine. The sun was high, the air was crisp and cool, and the sky streaked with clouds. Flocks of gulls wheeled overhead, riding the gentle breeze. It was a lovely day, and Lucifer, better known as Lucy to her many, many enemies, was in a lovely mood.
+
+As she took a sip from the cup there was a shrill sound, like a thousand tiny voices screaming out at once. Silenced by her lips on the glass. When she set it down, impressions of horrified faces bubbled up in the foaming liquid; but with a stir of a tiny silver spoon they were lost once more in the murk.
+
+“Strange,” she said, tapping her brush to her lip. She scrutinized the clouds. There was something about them that was indefinably off. It was what separated the real from the unreal, life from a mirage, some ephemeral essence of being that no-one had gotten better than she at capturing. She picked up the brush, humming to herself, and dabbed it on her palette. Perhaps a little more gradience—
+
+A tinkling like jingling keys. Ringing metal. She frowned, setting down her implements, and held up her scrying glass.
+
+“Jez?” She snorted, set it down again, and went back to analyzing her clouds. The ringing faded.
+
+Then abruptly picked up again, twice as loud as before. Like clashing cymbals.
+
+“Oh, Heavens! Fine, you whiny brat.”
+
+She closed her eyes.
+
+Now she was Lucy. Her hair was frizzy, disheveled, tied back in a hasty bun. She was draped in a thick artist’s smock, and she wore wide-rimmed glasses that lent her a bug-eyed look. Quite a plain, forgettable girl; some might’ve even called her a smidge unsightly. Her one redeeming feature might’ve been her smile, which seemed to radiate a genuine warmth—a warmth that made anyone who met her instantly take to her.
+
+Blink, and someone else stood in her place.
+
+There was Lucifer. Her hair was a glorious raven mane. She was bound in a scandalous red dress which hugged an equally scandalous body. To say she was merely beautiful did her a disservice; here was dangerous beauty. It was a beauty that, through arcane magics, reached beyond the physical.
+
+Every person, man or woman, had some standard in their brain for beauty buried deep in the subconscious. Those folk they deem beautiful express a constellation of those features. Yet Lucifer expressed them all. It was like she was a blank canvas for upon which others projected their fantasies. When different folk looked at her different features of hers seemed to pop out at them; for some, it was her chest which strained the seams of her dress; for others it was the regal curves of her cheekbones. Some saw a devastatingly sexy harlot, others a gorgeous dominatrix. Others might see an innocent belle, or a perfect queen, or a mighty goddess. This time, her smile was dazzling. And utterly fake.
+
+That was Lucifer’s magic. She was there, but what you saw wasn’t her; you saw what you desired in a woman. It said little about her, and a lot about you.
+
+It was this Lucifer that answered Jez’s call.
+
+“What do you want?” she drawled. “I’m in the middle of something.”
+
+The scene resolved. In the background: a realm with a sky which looked like a purplish whirlpool. A high castle amid desolate wastes where only ash trees grew. An army moved against it. There was much shouting, and screaming, and booming.
+
+Jez’s face came in, pale and bright.
+
+She could tell he was annoyed by her tone. He’d gone on a power trip as of late, but the first time he’d demanded she call him master she’d laughed in her face, and that was that.
+
+“Dorian has arrived in the Realm of True Light. He is coming for you as we speak.”
+
+“Hmm.” Lucifer tapped her brush to her lip. “How unfortunate. And what do you plan on doing about it?”
+
+“At the moment I’m… rather indisposed. There is, as you can hear, a pressing matter I must attend to.” A pair of cannon blasts punctuated his words. “We’ve driven Salieris to his home realm, the Twilight Realm. He hides in castle with the last of his forces, where he makes his last stand.”
+
+“Still? Weren’t we here days ago, too? Can’t you hurry up and finish him off?”
+
+“If only it were that easy,” said Jez bitterly. “This is the ancestral home of the Jiangshi; it is where they are at their strongest. A dozen Godkings of their race hold the fort, not to mention thousands of other troops. They also have the aid of their Prime Heart, the final and most powerful node in his rebellious network. Even for me, forcing a victory is no simple matter. Especially as I fight wars on dozens of different fronts.”
+
+“I sense,” said Lucifer, “That you’re about to request something of me.”
+
+“I need you to hold our territory against Dorian’s forces.”
+
+“Nah.”
+
+“Excuse me?” Jez’s face blushed angry red. “Lucifer, I have given you more leash than nearly any of my other subordinates. I have tried to be kind to you, to understand your… idiosyncratic… nature. I really have. But even I have my limits—”
+
+“Oh, please. I’m not your subordinate. You pay me, and so I pretend to listen to you, which is not at all the same,” said Lucifer. “Besides, this isn’t part of our deal. The deal was, I babysit this realm for you while you finish off all the others. Not pit myself against Dorian, of all people! We’ve got a... how might I put this... a sordid history. No thanks.”
+
+Jez forced himself to take several deep breaths. “I do not need you to defeat him. Only hold the realm, until my reinforcements arrive to finish him off. I have sent weapons, new weapons, capable of eviscerating him utterly. They will be there in one day. I merely ask that you—”
+
+“I refuse.”
+
+“You!…” She could hear the grinding of his teeth. “How many more souls do you want?”
+
+“Ah! Now you have my attention. Let's see...Eighty thousand.”
+
+“Done.” Jez sounded disgusted.
+
+“Then in return I will do my best to hold him off for one day, and one day only. I will lead him into a deep, lightless forest where you can’t tell down from up and all paths run in circles. But if he breaks out?” She shrugged. “I’m fleeing.”
+
+“Are you serious?”
+
+“I’m not very strong,” she said. “What if he gets his hands on me? He’ll snap me in two. I have a delicate constitution.”
+
+“You are a top twenty Godqueen in the Multiverse!”
+
+“Perhaps, but I don’t do anything myself. My opponents kill themselves for me. I just trick them into it. If he beats my tricks, well…”
+
+Jez looked ready to burst. “Can you hold him or not?”
+
+“Of course. I’ve done it twice before, haven’t I? Not even Fate himself could unwind my magics in a day. Rest assured, your realm is safe,” she said, rolling her eyes.
+
+With a parting glare, Jez severed the connection.
+
+“What a drama queen.”
+
+To her he just seemed a little boy playing at being ruler of the Multiverse. For a while he’d been a sweet boy, at least, but now he’d started throwing tantrums he’d quickly grown insufferable.
+
+In a blink Lucifer was Lucy once more. She turned her eyes back to the cloud, soaking in its every contour. Then she dipped her brush, held it up to the sky, and painted the rest of it in. It was exactly what the picture needed. The cloud sagged and shifted, came alive, started drifting on the gentle breeze.
+
+“Hmm,” she said. The piece was almost done. Or was it done? Idly she picked up a stone and chucked it into the distance.
+
+A few thousand li away there was a pop. A jagged black hole poked through the line where the sky met the mountains. It totally ruined the realism. She sighed.
+
+A blink, and the scene faded. She wasn’t on a mountain parapet, she was in a studio in the bowels of a castle. Staring at a painting of a cloud-streaked sky which now had a spot of black in it. She would fix it another time.
+
+Instead, she installed a new canvas. She grabbed another brush, this one sleeker, blacker, burning with fiercer Laws. Laws of resurrection and creation, of Necromancy. Not only bringing the dead to life, but the inanimate to the animate, a mirage to reality.
+
+“Dorian…always such a tough customer. I truly hate fighting you. But a job’s a job.”
+
+She tapped a brush to her lips.
+
+“What shall I paint for you?”
+
+***
+
+It looked like Dorian was going to have to most of the work himself. Again.
+
+The crowd of Empyreans shuffling before him might wear spiffy Enforcers’s robes, but you could tell they weren’t exactly the Multiverse’s elite. There was a term for those folk who occupied the bottom 10% of the Rankings: dregs. He could count a fair few drags here, dragging about, holding swords and spears with hands used to hoes and sickles.
+
+Then there was Junior standing at his side, shuffling his feet, most definitely a dreg of a Godking. It was a miracle the man made Godking at all, even with Dorian practically shoving him into it.
+
+It didn’t matter much. Due to their bond, a Pope and his congregation could cast a plethora of uniquely powerful support Techniques on each other. All they needed to do was to stand behind him and chuck healing and regeneration spells at him until they ran out, and the battle would be over in a flash.
+
+Well—the battle with all the other folk guarding Jez’s land. Lucy was always a trickier matter. Heavens, he truly hated fighting her. Such a headache, every time.
+
+“Greetings!” said Dorian. “I am your new Pope, and Yeshima reincarnated. By now you’ve heard the news, surely. This may come as a shock to you. You may have imagined a slightly more appealing figure, perhaps, with a mightier bust than I. Alas—that body is in the hands of the enemy. Stolen by the Infinity! I’ve gathered you all here to assist me in taking it back. This ought to be a quick and easy journey—we’ll get there in, oh, an hour, roll over them, snatch the body, and be back by dinnertime! Any questions?”
+
+They just stared dumbly at him.
+
+“Excellent! If you had any I wouldn’t have answered them anyway, that was just me being polite. There is no need for you to understand what’s happening. Just do as I say and things will work out.”
+
+It might as well be the unofficial motto of his Church.
+
+“And we’re off!”
+
+[Carp Leaping the Dragon’s Gate!]
+
+About forty Empyreans and one Godking vanished screaming into the sky, as though shot out of a cannon. Dorian took a second to marvel at the neat pattern of condensation trails they made, crisscrossing the sky. Then he leapt to follow.

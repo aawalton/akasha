@@ -1,0 +1,173 @@
+---
+id: 06ce42d3-9903-5919-949d-a248c51bf361
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: I'm a girl now, so what?"
+slug: 0006-chapter-3-im-a-girl-now-so-what
+partOf: shapeshifter-a-non-human-litrpg
+position: 6
+ownLength: 1951
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3195633/chapter-3-im-a-girl-now-so-what"
+royalRoadId: "3195633"
+---
+
+"I'm a girl? So what, is that a bad thing—?" Xen began, but then covered his mouth in shock. His voice was nothing like the one he had grown used to; it sounded more high-pitched, like Valoria's.
+
+Randy glanced up from his phone and burst out laughing at the sight of him. "What the hell happened to you, Gerald? Why are you a pipsqueak elf now?"
+
+"I just wanted to be as different from Ghostwire as possible," Xen muttered as he looked down. The bloodstained suit that had fit him like a glove before was now incredibly oversized, with the shirt sleeves almost reaching the ground.
+
+"Well, you did a good job on that front," Randy mused with a grin. "You went from a tall man with black hair and a frightening aura to a short elf girl with blonde hair." His eyes turned golden as he used his Appraisal skill. Xen felt the skill's intrusive nature wash over him. "Wait, you're a level one Radiant Healer now?" Randy said in disbelief. "Are you actually that weak?"
+
+"Do you want to find out?" Xen asked as he split open the mask and glared at Randy with his soulless eyes.
+
+Randy flinched. "Er, I'll take that as a no then."
+
+"This is perfect, actually," Vesper said while appraising Xen and rubbing his chin. "Even with the cursed mask glued to Gerald's face, which is the exact same one as Ghostwire's, the authorities would never be able to pin the murders on him now that he looks like this."
+
+"Her," Valoria corrected as she emerged from the bathroom with the shrunken cat t-shirt on. "Gerald isn't Ghostwire anymore."
+
+Randy furrowed his brows. "This is going to get confusing."
+
+"Yeah, I can't exactly refer to her as Gerald anymore either," Vesper said, frowning.
+
+"A skinsuit is a skinsuit, but if it's such a problem, I can change it," Xen said and expended a lot of biomass to pointlessly swap genders. Putrid smoke billowed off his body for a moment as some proportions changed. From his understanding, the main differences were in the chest area and vocal cords. He never bothered to waste biomass constructing reproductive organs when he changed forms, and this time was no different. He just left it blank down there.
+
+"Better?" he asked, but his voice still wasn't anywhere near as deep as it was when he wore Ghostwire's skin. Was it a feature of elves, or perhaps because he was shorter now?
+
+"Now I can't even tell what you are," Randy chuckled. "With the mask hiding your face, all I have to go off is your long blonde hair, small stature, and soft-spoken voice."
+
+Valoria pouted. "You were cuter before you changed."
+
+Xen sighed. There was no pleasing these people who cared way too much about the skin their fleshy brains inhabited. He just couldn't wrap his head around it. Their bodies were destined to rot away in the end, leaving only a blank skeleton behind, so why did it matter? Especially when he planned to only use this identity for a while.
+
+"Gerald, are you going to be shapeshifting into different bodies more often from now on?" Vesper asked.
+
+Xen glanced at Vesper. "Yeah, if the situation requires it. I have no attachment to any of these bodies I inhabit, though I'd like to limit how often."
+
+Crafting entirely new bodies from biomass was incredibly expensive. Even with Xen's current reserves, he could only change bodies a handful of times before needing to go and feed.
+
+Vesper seemed to be pondering something while appraising him. "In that case, I think we should move away from the name Gerald and pick something more gender-neutral that could apply to any of your forms. Preferably common, so it's not weird that I know multiple people with the same name."
+
+"Oh, I know!" Valoria perked up. "We should call him Yuki. It's a common unisex name here in Japan."
+
+"Isn't that a girl's name?" Randy asked.
+
+Valoria shook her head. "Westerners like you are more familiar with female celebrities with the name Yuki, but I know plenty of guys at school who had that name."
+
+"I see... but if he chooses Yuki, that ties him to one ethnicity though," Randy reasoned. "Something far more generic, like Alex or Sam, might be better. They are unisex too, from what I remember, but are admittedly a little more male-focused."
+
+Valoria deflated at Randy's suggestion.
+
+"How can you tell one's ethnicity?" Xen asked.
+
+"Usually by the facial features and skin color," Vesper said. "Oh, and mannerisms, culture, there's a lot that goes into it, to be honest."
+
+"Would always wearing a mask and clothes be enough to have people question what my ethnicity is?" Xen asked. "Because if so, then I'll pick Yuki as Valoria suggested."
+
+Randy shrugged. "Should be fine. Either way, we could always change it again in the future."
+
+Vesper chuckled. "Yuki the androgynous elf, here to save the day with heals, only to snack on corpses when you aren't looking," he nodded approvingly. "I like it."
+
+Randy wearily sighed. "Okay, this was fun, but back to business. The game plan for tomorrow is to try to get you registered as a Hunter when the offices open, and then create a guild of our own. After that, we will have far more freedom to move within the World Dungeon."
+
+"I have Gerald's Hunter badge still," Xen said.
+
+"Oh," Randy seemed relieved. "That uncomplicates things, at least for now. We also only need three members and the registration fee to found a guild, so the fact that Yuki the elf lacks any legal documents should be fine..." He yawned and stretched his arms. "Ugh, I'm beat. My brain has gone to mush."
+
+"Staying up for multiple days straight will do that, even to high-level Hunters," Valoria said, mirroring Randy's yawn and plopping down on the free end of the sofa.
+
+"We could crash here," Vesper suggested.
+
+Randy glanced around. "Where? This is a single-room apartment that's messy as hell."
+
+"We can give Valoria the couch? I'm sure there are futons in the cupboard we could lay out."
+
+Randy considered it for a moment but ultimately shook his head. "We should return to the dorms to give ourselves a solid alibi. The doorman will be able to attest that two students returned from days spent in the World Dungeon wearing bloodstained clothes."
+
+"Can I at least change my clothes?" Vesper practically begged. "I've been in these for days now, and I reek."
+
+"No, returning like that is good for our alibi. We were saved from the brink of death by Ghostwire, remember? That's our running story. If we show up at the dorms in fresh clothes, they are going to start asking more questions, and we can't exactly say we broke into a house and stole a dead man's clothes, now can we?" Randy smirked and patted his friend on the shoulder. "Just bear with it. It's only an hour walk from here to our dorms."
+
+"An hour walk in the freezing cold? Can't we at least take a taxi?" Vesper grumbled. "Healed or not, I swear I'll faint from exhaustion if I take another step."
+
+"Don't be such a drama queen," Randy rolled his eyes. "A taxi? I can hardly afford my rent at the moment. We will walk."
+
+"I have credits stored away in my stomach you guys can use for this taxi thing," Xen suggested.
+
+Vesper perked up, but Randy quickly shot him down. "Thank you for the offer, Yuki, that's really kind of you. But we need those credits to cover all the costs of establishing a guild tomorrow. Valoria, are you coming?"
+
+Valoria yawned and shook her head. "Nah, I'll hit the hay here."
+
+"Really?" Randy asked.
+
+"Yeah, I mean, I live off-campus, so nobody would know if I went home or not," she said.
+
+"You really think it's a good idea to stay here with Yuki alone?" Randy clarified as he glanced between her and Xen. When Valoria nodded, he sighed and gave up. "Well, just take care of yourself and keep Ger—I mean Yuki out of trouble."
+
+"Will do," Valoria said while fighting another yawn.
+
+"I'll bring suitable clothes for Yuki when I return tomorrow morning," Randy said. He picked up his rucksack and hauled it over his shoulders. "Come on, Vesper, stop sulking."
+
+"You are so annoying sometimes, you know that?" Vesper ranted as he picked up his own belongings and the pair made their way to the door.
+
+"If anything comes up, call me. You have my number, Valoria—"
+
+"Just go already," Valoria said, waving him off while slumping on the couch.
+
+Randy snorted and left, clicking the door closed behind him. Xen could hear the two friends talking as they made their way across the walkway and out of the housing estate.
+
+"Do you even need to sleep, Yuki?" Valoria asked, sleepily looking at him.
+
+"Not really, but the lack of mana up here is making me feel more sluggish than usual," Xen replied. "I can keep watch while you sleep."
+
+"Keep watch?" Valoria let out a small laugh. "This isn't the World Dungeon anymore, Yuki. You're safe here. Speaking of," she yawned again, but this time far more deeply. "How... are you finding the outside world so far?"
+
+"Busy is the word that comes to mind the most. There are just so many people here, it's like humans are an infestation upon the planet. Without these laws, moral codes, and the presence of such powerful Hunters, I'd love to have a taste..."
+
+The sound of Valoria's soft snoring told Xen that she had fallen asleep in the middle of his reply, not that he could blame her. They had gone without rest for days and were finally back in the safety of their home.
+
+Xen leaned against the door and summoned his status menu.
+
+Elf: Level: 1 (F)
+
+< [Multilingual (B)] - [Radiant Smite (E)] - [Orbs of Light (E)] - [Beacon of Grace (B)] >
+
+< [Radiant Aura] >
+
+"It's a shame that the two skills, Flash Mend and Cleansing Light, I got from eating the Priestess are stuck on my human form. I'll need to switch out two of my Free Skill Slots so I can use them," Xen said and opened the menu.
+
+Free Skill Slots (10):
+
+Slot 1: [Bloodmark Hunter (B)]
+
+Slot 2: [Multilingual (B)]
+
+Slot 3: [Corruption Missile (B)]
+
+Slot 4: [Ghoststep (B)]
+
+Slot 5: [Chains of the Damned (A)]
+
+Slot 6: [Radiant Smite (E)]
+
+Slot 7: [Cataclysm (A)]
+
+Slot 8: [Orbs of Light (E)]
+
+Slot 9: [Hellfire Howl (B)]
+
+Slot 10: [Earthen Regeneration (B)]
+
+"My elf form comes with the Radiant Smite and Orbs of Light skills, so we can switch those two out," Xen said, glad the decision was so easy. Closing the menu, he sat there and glanced at Valoria, who was sleeping.
+
+"How can she sleep so peacefully with me right here?" Xen muttered and frowned as Charlie came to sit in his lap. "And what is the deal with you? Am I not scary?"
+
+With his clothes so oversized, he supposed it was rather hard to find him scary. With a sigh, he resigned himself to being this strange creature's cushion and a human's guard while he stared at the ceiling. Time stretched on, and before he knew it, he had drifted off to sleep.
+
+Only to be awoken the following day by a pounding on the door he was leaning against.
+
+"Gerald, this is the police. If you are inside, please answer the door."
+
+Xen's eyes shot open, and Valoria swiftly awoke from her sleep. They met each other's gaze in a panic.

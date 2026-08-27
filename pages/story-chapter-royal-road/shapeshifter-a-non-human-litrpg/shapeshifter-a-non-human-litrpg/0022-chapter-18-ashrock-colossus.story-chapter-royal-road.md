@@ -1,0 +1,181 @@
+---
+id: d2705a77-64ca-57cb-a0e8-0079b3160410
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Ashrock Colossus"
+slug: 0022-chapter-18-ashrock-colossus
+partOf: shapeshifter-a-non-human-litrpg
+position: 22
+ownLength: 2098
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3460129/chapter-18-ashrock-colossus"
+royalRoadId: "3460129"
+---
+
+Hina returned to the top floor with a head full of questions.
+
+"Oh, Hina, where'd you go?" Kenji asked. The giant of a man was slouched against a wall, snacking on a protein bar and enjoying the Beacon of Grace's healing light.
+
+At his question, Alex glanced up from inspecting the corpses with a look of suspicion.
+
+"I was tailing Yuki," she admitted and sat beside Kenji. The healing light was warm, and she could feel it soothing her tired muscles.
+
+"Hina, I told you to leave him alone," Alex lamented, then returned to analyzing the corpses and the research notes they left behind.
+
+"I know, I know," Hina said dismissively and waved him off. "I won't be bothering him again, I can promise you that."
+
+Daisuke, who had remained uninterested until now, narrowed his eyes at her. "Hina, you were practically stalking him before. What changed?"
+
+"Huh?" Hina was surprised by Daisuke's question. "N—Nothing."
+
+Daisuke snorted. "Did he finally show you his true strength and scare you off?"
+
+It was Hina's turn to be surprised. "You suspected him as well?"
+
+"Of course, we all do," Daisuke said. Kenji and Alex wordlessly nodded in agreement. "I've worked with healers before and know their spells are incredibly mana-intensive and sometimes even cost lifeforce to use. Elf or not, a level 8's mana pool would never outlast mine, especially without the help of a mana regeneration skill. I estimate he is S-rank at least."
+
+"You think this as well, Alex?" Hina asked.
+
+"I have no idea what level he is. Daisuke has more expertise when it comes to magic-based classes, but he also seemed to have more endurance than I or Kenji, so S-rank is possible," Alex admitted with a sigh. "However, I've never heard of a Radiant Healer Reaper. Even if he truly is one of the legendary S-rank Hunters going undercover for whatever reason, I doubt he could take us on with raw stats alone. A Healer is still a Healer."
+
+Alex was right.
+
+It wouldn't make sense if Yuki were a Reaper, as he had saved her and hadn't tried to silence her earlier when given the opportunity.
+
+Alex glanced her way. "S-rank or not, Hina, you should be able to take Yuki out with a single well-timed strike, right? He's a Healer, after all."
+
+Hina opened her mouth to tell him there was no chance after she had seen him phase through a barricade and leave a ghostly afterimage, before deciding better of it.
+
+"Yeah," she lied. "I could deal with Yuki if needed, so rest assured."
+
+"Good," Alex nodded. "Then this matter is dropped until Yuki makes a move against us. While his motives are unclear, I don't care for them. To hire a healer of his caliber would not just be expensive—it would be downright impossible. S-rank combat healers like that are reserved for boss fights on the lower floors and are treated as national assets."
+
+Kenji chuckled. "No kidding, I could get used to this," he said, looking up at the Beacon of Grace that continued healing long after Yuki had left the obsidian tower to do God knows what.
+
+A national asset, huh? Hina thought as she looked down at her clenched hands. I think he might be on a higher tier than that, considering he has shown six skills so far. A Hunter that isn't limited to five skills would be a global asset. And now that I think about it, what kind of Healer possesses a movement skill like that? Maybe he has another class as well?
+
+Her curiosity was insatiable, but she had felt the danger during their earlier confrontation. If she had pushed further, she doubted Yuki would have remained so kind.
+
+A sudden tremor that shook the whole tower interrupted her thoughts.
+
+"Was that an Ashrock Colossus?" Alex asked the group.
+
+"I didn't feel anything," Hina said.
+
+"Neither did I," Kenji said with an amused grin.
+
+"Better not to ask questions we don't need answers to," Daisuke added.
+
+Alex chuckled and shook his head. "You guys are right. It must have been the wind."
+
+***
+
+Xen was leading the monster away.
+
+The level 55 Ashrock Colossus resembled a mountain, given the shape of a spider, and moved with the finesse of a landslide. It relentlessly followed him, with the sound of scraping rock. Everything in its way, including the towering amber crystals and any stray Acid Slimes, was obliterated under its immense weight.
+
+Its head, a blunt, featureless mass of darker stone set into its shoulders like a lodged boulder, tracked his every movement despite any evidence of eyes. Xen guessed it had a skill similar to Geomantic Perception, allowing it to navigate and hunt prey.
+
+"Radiant Smite," Xen said, aiming right at the monster's face once he had led it far enough away. The darkened cave flashed with light as the lightning arched and struck the monster in the face.
+
+It didn't even flinch. A metallic sheen coating the monster's black rock skin absorbed the hit. Only a scorch mark remained from his attack.
+
+"No way," Xen said and fired again, this time aiming for a leg. Same result.
+
+My magic stats are over twenty levels above this monster, yet it can shrug off my Radiant Smite that one-shots Acid Slimes with ease. Xen frowned behind his mask. While he had many other skills in his arsenal, this wasn't a good sign. While in my Elf form, I want to stick with magic, as most of my Spellblade skills are stuck in my Human form, and getting close to a level 55 monster like that while in the form of a level 25 Elf is just asking to be pulverized like those corpses in the tower.
+
+The ground beneath him trembled as the monster approached and loomed over him.
+
+I don't want to switch to my human form, which means I'll need to rely on my Hexreaver Slime's corruption stacking to take down this monster, Xen thought as he dove out of the way to avoid one of the Ashrock's limbs that crushed the area where he had been standing a second ago. That was closer than I expected. I'm not used to this form's short stature and inferior stats, making it so much slower than I was as Ghostwire.
+
+"Appraisal," Xen said as he dove to avoid another limb.
+
+[Ashrock Colossus (Level 55)] Afflictions: Blight Aura (stacking)
+
+[Blight Aura]
+
+Enemies within 5 meters suffer a slowly stacking debuff that reduces healing, regeneration, and magic defense. Corruption-type effects last longer depending on the number of stacks a target is burdened with.
+
+I'll keep running around in circles until it's fully stacked, Xen thought as he kept moving. While the Ashrock Colossus had focused heavily on defense, size, and power, it had sacrificed speed and didn't seem to have any abilities it could use to strike him.
+
+Unless it was holding back.
+
+After another few minutes of running, diving, and rolling as fast as his Elf form could manage to avoid the Ashrock Colossus's limbs, which were like pillars, he confirmed with another use of Appraisal.
+
+[Ashrock Colossus (Level 55)] Afflictions: Blight Aura (stacked)
+
+Its magic resistance should be significantly reduced now, Xen mused and decided to test it. Circling behind the monster as the world around him was crushed to dust, he aimed at its back.
+
+"Radiant Smite."
+
+The lightning met the same metallic sheen as before, but this time left a deep smoldering wound. Just when Xen thought he had landed a good hit, streams of amber light trailed through the air from the amber crystals overhead and fed into the withered tree on its back.
+
+It's absorbing mana from the dungeon floor's crystals, Xen realized, and before he could stop it, the smoldering wound had already begun to harden and heal. His Blight Aura was supposed to heavily reduce healing, which might have been why the beast had to rely on the surrounding mana to boost its regeneration.
+
+While the monster slowly tried to turn around to face him, Xen made further use of its immense size and slow speed to land one of his most devastating spells.
+
+"Withering Hex."
+
+[Withering Hex (C)]
+
+Fire a thin beam that inflicts a single target with rotting energy. The target takes further necrotic damage over time and suffers a reduction in their physical defense and magic resistance. The effect is enhanced against already wounded foes.
+
+The thin beam struck the almost healed spot, and with the Ashrock Colossus's magic resistance already lowered, it wasn't able to shrug it off, nor could it outheal the rotting energy spreading through its body. It let out a monstrous roar and slammed the ground in rage, but Xen got out of the way.
+
+If all I had to rely on was my Radiant Smite skill, even if he had twice the levels of this monster, I wouldn't be able to defeat it. But with my Hexreaver Slime abilities, large foes like this that focus on defense become easy to deal with. Now to finish this.
+
+Xen broke out into a sprint, ran up a slanted amber crystal, his feet barely managing to get a grip against the slippery surface, and leaped onto the back of the Ashrock Colossus. Grabbing onto the withered tree to keep his balance as the monster shifted its weight, he noted how close the monster's back was to the amber crystals embedded in the ceiling.
+
+The crystals were enormous up close. The largest were four meters long and as thick as a person at the base, tapering to needle-sharp points below. He had to duck to avoid some from piercing him as the Ashrock Colossus tried to throw him off, seemingly uncaring if the tree on its back survived.
+
+I need one more debuff to use my Perish skill.
+
+Xen crouched and placed his hand against its back.
+
+Let's try this new Acidic Burst skill I got from the Acid Slimes.
+
+His fingers devolved into black slime tendrils.
+
+"Acidic Burst."
+
+With surprising force, his slimy hand detonated against the back of the Ashrock Colossus, denting it and almost throwing him off. His arm was ruined in the process, and the self-inflicted pain was as humiliating as it was painful. At least he wasn't the only one hurting, as the Ashrock Colossus unleashed a dungeon-shaking roar.
+
+[Ashrock Colossus (Level 55)] Afflictions: Blight Aura (stacked), Rot, Corrosion.
+
+Xen spent biomass to repair his arm, as mana was a more precious resource—he was running near empty after the fighting earlier, and now this battle was taking more of a toll than expected. Standing up, he winced at the acidic smell as the acid he had released dissolved the Ashrock Colossus's more fleshy insides.
+
+"This seems rather potent for a D-grade skill," Xen muttered. Though it did make sense. Not only was the Ashrock Colossus's magic resistance greatly lowered, but also by layering so many skills, he was benefiting from his new mage passive: [Mana Empowerment].
+
+All of his spells were enhanced, making the next move a guaranteed finish.
+
+"Goodbye, the fight was fun," Xen said, pointing down at the roaring monster. "Perish."
+
+[Perish (B)]
+
+Target an enemy afflicted with 3+ debuffs. All active debuffs are violently amplified, dealing a burst of damage based on their cumulative strength. If the target dies while under this skill, nearby enemies receive a fear effect.
+
+The Ashrock Colossus's death was as violent as it was loud.
+
+The debuffs detonated simultaneously in a deep, rolling concussion of corrupted energy that shattered outward through every crack and fissure in the creature's body at once. What had been a house-sized beast of living stone simply disaggregated, its pieces launching outward as chunks that pummeled the surroundings.
+
+Including the obsidian tower.
+
+You have killed an opponent.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 75 → 78.
+
+[Elf] has leveled up: 25 → 32.
+
+The sheer difference in experience awarded by killing alone rather than as part of a team was astounding, but it made sense. This battle would have been impossible to win, even for an S-rank Radiant Healer. Luckily, Xen had enough skills to rival an entire Hunting party.
+
+[Use Devour on Ashrock Colossus?]
+
+The question hung in Xen's vision as he stood on what was left of the corpse's head, but he was focused on something else.
+
+A person was watching him.
+
+It wasn't Hina, Alex, Kenji, or Daisuke. It was someone he had never seen before.
+
+In fact, he wasn't even totally sure if they were human at all.

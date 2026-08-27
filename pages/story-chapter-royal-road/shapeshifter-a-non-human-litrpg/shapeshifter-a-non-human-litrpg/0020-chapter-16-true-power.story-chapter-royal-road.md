@@ -1,0 +1,133 @@
+---
+id: 4376ec44-61f9-5b8b-8c8e-62a3d3b56fdd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: True Power"
+slug: 0020-chapter-16-true-power
+partOf: shapeshifter-a-non-human-litrpg
+position: 20
+ownLength: 1672
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3427349/chapter-16-true-power"
+royalRoadId: "3427349"
+---
+
+Xen quickly understood why Alex's party had struggled against the Acid Slimes the first time around. Their somewhat questionable teamwork aside, their classes simply didn't fare well against a swarm of Acid Slimes that were weak to magic.
+
+Daisuke was the only mage in the group, and his main attack skill was Arcane Barrage. It had a wide area of effect, which was great for slaughtering weaker enemies from afar, but he couldn't use it freely when the Acid Slimes were crashing against Alex's shield without striking Alex in the back.
+
+On the topic of Alex, his Vanguard class made him incredibly tough and a great tank. But he relied heavily on his [Iron Fortress] skill, which made him resistant to physical attacks. The Acid Slimes detonating themselves against his shield melted right through it. His [Shockwave Slam] skill did detonate slimes, but it covered him and anyone else close enough in acidic sludge in the process.
+
+Xen readied another Flash Mend skill as he watched Kenji plunge his arm into a massive Acid Slime to reach its core. This time, his aim was true, and the orange-yellow core, the size of a fist, fractured, causing the slime's body to lose shape and collapse back into the pool.
+
+Kenji's jaw tightened with pain as he looked down at his trembling arm of acid-burned flesh.
+
+"Flash Mend," Xen said, bathing the Warbringer in a warm light and healing his flesh.
+
+"Thank you, Yuki," he said for the tenth time. "You're really a lifesaver, but are your mana reserves holding up? I can deal with the pain if needed."
+
+"Don't worry about me," Xen said dismissively as he felt Hina side-eye him. At this point, he had all but given up on trying to act like a weakling—if he did so, this party of humans would be wiped out. Not that he cared that much, besides how annoying it would be to explain how he alone survived.
+
+The last member of the party, and by far the most useless, was Hina. Not that Xen could exactly blame her, despite his annoyance toward her. Her Nightstalker class thrived on keeping to the shadows, tracking enemies, and then striking when they weren't on guard. Being confined to a thin bridge gave her nowhere to hide, and the Acid Slimes couldn't exactly be caught off guard, as they were the ones swarming them.
+
+She mostly kept to the back of the group, making use of her great perception to warn the group a second in advance before an Acid Slime surged out of a nearby pool. Helpful, but she hadn't killed a single Acid Slime so far, and everyone was getting exhausted.
+
+Well, except for Xen.
+
+Maybe I should show more of my strength, Xen thought as he eyed the tower in the distance that still seemed so far away. I reported Radiant Smite as one of my skills, but I can't easily control its strength. If I one-shot one of these C-grade monsters while being a D-grade Healer, I won't be able to pretend that I just have a big mana pool anymore.
+
+While the situation was less than ideal, the rewards so far were decent.
+
+You have assisted in killing multiple opponents. Experience distributed among party members.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 70 → 71.
+
+[Elf] has leveled up: 10 → 14.
+
+I think I gain more experience from healing while in combat than in the safety of the infirmary, as I've gained multiple levels from only a handful of Flash Mend usages, Xen mused. That would make sense. Otherwise, there would literally be no reason besides money for Healers to ever dare brave the dungeon. Unless they are suicidal, of course—Xen's thoughts were cut short as he noticed an Acid Slime taking Hina by surprise.
+
+While Hina's [Keen Eyes] skill gave her great perception of anything she was looking at, it still left her vulnerable to getting ambushed. Something Xen's far superior [Geomantic Perception (B)] skill allowed him to notice.
+
+Hina shouted with surprised pain as a large Acid Slime erupted from a pool on their right and latched onto her dagger-wielding arm. She tried to stab at it with the other dagger in her free hand, but the Acid Slime was too big, and the dagger couldn't reach the core.
+
+"Alex, Kenji! Help!" Her cry for help fell on deaf ears as the two were facing off against three Acid Slimes alongside Daisuke. The shouts of Alex unleashing his shockwave skill drowned out Hina's attempts at getting their attention.
+
+Only Xen glanced at her over his shoulder.
+
+Now the question was, should he help her?
+
+If the Acid Slime finishes devouring her, the party would be forced to retreat, and I'd have to return with them to the surface again. I'd rather stay down in the dungeon for as long as possible to farm experience and level up my Elf form.
+
+Xen sighed and turned. Simply healing her wouldn't be enough. She was utterly helpless against the Acid Slime—he would have to kill it.
+
+Hina screamed at him through the acid, her voice ragged and raw. "Yuki! Get help!"
+
+"I am the help," Xen said, raising one finger and pointing it at the slime.
+
+Her eyes widened. "Yuki, what are you—"
+
+"Radiant Smite."
+
+He didn't bother regulating the skill's output. A bolt of divine lightning cracked from his fingertip and struck the slime dead center. The current sprawled instantly through its gelatinous mass with a blinding light, superheating it from within until the body swelled—then the core shattered, and the entire thing collapsed with a wet, deflating hiss. Hina dropped with it, landing hard on her back, almost in the shallow pool the monster had come from. She couldn't get up as her body violently shuddered, faint arcs of static still dancing across her skin.
+
+Hina was [Stunned], but her eyes swiveled to glare at him.
+
+Xen crouched beside her. "Relax," he said quietly. "I'm not going to kill you." He pressed his palm gently over the worst of the burns. Her skin was a ruin. "I'm a healer, remember?" He chuckled and took a second to enjoy the confused terror in her gaze. Having power over life and death, he could get used to this.
+
+"Flash Mend."
+
+Radiant light pulsed from his hand and swept across her wounds, knitting the charred tissue back together with a soft warmth that looked almost peaceful. The burns vanished. The raw, weeping skin sealed over and faded to nothing.
+
+She still couldn't move as the stun had been inflicted by a level 71 monster.
+
+He leaned in slightly, close enough that she could see her own reflection staring back at her on the surface of his mask. "Before I cleanse the stun," he said, keeping his voice low, "I want you to understand something. I chose to let you live." A pause. "Don't make me regret that kindness."
+
+He straightened and stood over her. "Cleansing Light."
+
+[Party member Hina's {Stunned} debuff has been cleansed]
+
+Hina gasped, air rushing back into her lungs, and bolted upright as if awakening from a nightmare. She sat there for a long moment in dead silence, a mix of emotions dancing across her face until she eventually concluded something unknown to Xen and stood up with a grunt.
+
+She didn't offer any thanks for being saved, not that Xen had expected it.
+
+They both returned to the fight, the other three members unaware of what had occurred between them.
+
+***
+
+After another few hours of brutal combat, the exhausted group finally reached the obsidian tower and barricaded themselves inside.
+
+"The previous group's beacon should be on the upper floor," Alex said as he led them up a winding staircase. Nobody bothered answering him, their ragged breaths from a long life-and-death battle being all that filled the space. After reaching the tenth floor after an exhausting climb, what remained of the previous Hunting party welcomed them.
+
+"What a deplorable sight," Daisuke said, his voice stripped of its usual enthusiasm and laced with disgust.
+
+Their corpses were pulverized, their armor and bones shattered—their organs smashed to a pulp.
+
+Xen glanced around with interest and a little hunger. These corpses were still fresh enough to be eaten.
+
+Alex paused beside the nearest one and inspected it closely. "Blunt trauma and the bodies remaining here mean it wasn't the Acid Slimes that got them."
+
+"Then what monster did?" Xen asked.
+
+"Ashrock golems most likely," Kenji said as he slumped near a wall, the endless fighting and healing finally wearing out the Warbringer.
+
+"What are they like?" Xen asked, as he hadn't seen any monster besides Acid Slimes so far.
+
+"They are the original lords of this floor before the Acid Slime population got out of control," Alex explained as he also took a seat. "Not too dangerous when fought in the open and as a group, as they are slow-moving. But for an exhausted party, they are fearsome."
+
+Xen saw his opportunity to ditch these humans and gain a moment of freedom. "Beacon of Grace," he said, spawning a glowing sigil of light that bathed the room in gentle pulses of healing. "You all remain here and heal. I'll search the lower floors for these Ashrock golems so we don't get surprised."
+
+"No, Yuki," Alex insisted. "You are tired too, right? Take this opportunity to rest."
+
+Xen left with a dismissive wave. "I'm fine. While you guys fought to the death, I was just slowly walking behind, healing. I'm not tired at all."
+
+"Okay, but come back safely," Alex called down the stairs.
+
+Xen smiled behind his mask. He was going to devour an Acid Slime to gain their abilities, then he would hunt down one of these Ashrock Golems and maybe do a little solo hunting...
+
+He paused on the first floor of the tower.
+
+"Why are you following me?" he said, turning to look at the moving darkness at the top of the stairs.
+
+"Hina."

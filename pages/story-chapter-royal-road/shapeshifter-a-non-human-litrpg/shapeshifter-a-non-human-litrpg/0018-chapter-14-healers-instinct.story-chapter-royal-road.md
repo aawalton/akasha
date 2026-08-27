@@ -1,0 +1,161 @@
+---
+id: b82a23f1-3eea-54fe-a548-d72ecc676171
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Healer's Instinct"
+slug: 0018-chapter-14-healers-instinct
+partOf: shapeshifter-a-non-human-litrpg
+position: 18
+ownLength: 2161
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3394590/chapter-14-healers-instinct"
+royalRoadId: "3394590"
+---
+
+With the battle drawing to a close, Xen glanced at the system message hanging in the corner of his vision.
+
+You have assisted in killing multiple opponents. Experience distributed among party members.
+
+Experience split between [Hexreaver Slime] and [Elf] form.
+
+[Hexreaver Slime] has leveled up: 69 → 70.
+
+[Elf] has leveled up: 8 → 10.
+
+Oh, level 70? That leaves just ten more levels until I reach the A grade and my next evolution, Xen mused as he dismissed the notification and another popped up.
+
+[Elf] has reached Level 10 (D Grade). Evolution is available.
+
+Please choose a class from the following options: [Mage], [Priest], [Archer], [Juggernaut], [Phantom Scout], [Spellblade], or [Radiant Healer].
+
+Picking Mage is tempting. A better mana recovery skill like Daisuke's would be invaluable. But I just can't risk Hina casting Appraisal on me and catching my class mid-switch, even for a moment. Therefore, I chose Radiant Healer.
+
+[You have selected the devoured class [Radiant Healer] to continue imitating]
+
+New Skill: [Mending Pulse (D)]
+
+Release a gentle wave of restorative light in a small radius around you, applying a short-duration regeneration effect to all allies caught in it. The heal-over-time is weak but costs little mana, making it suitable for sustained use between engagements.
+
+New Passive: [Healer's Instinct]
+
+You passively perceive the vitality and injury status of allies within a short radius. Heavily wounded allies register as a faint luminescence visible only to you.
+
+These two seem useful, Xen mused as he glanced them over.
+
+"Did you level up?"
+
+The sudden question pulled Xen back into the real world. He turned to face Daisuke, who was soaked from head to toe and squinting at him through his rounded glasses that were fogged with water droplets.
+
+"I did," Xen confirmed. "Two, actually. I'm level ten now." He paused. "How did you know?"
+
+"Your mana pool expanded." Daisuke pushed his glasses up. "Subtly—I mean remarkably subtly. Enough that I'd assume you were a seasoned Archmage trying not to be noticed, not a healer who gained two levels." He tilted his head. "Just how much mana were you born with for two levels to make such a minuscule difference?"
+
+"Enough," Xen said dismissively. "Maybe humans simply have pathetically small pools in comparison to elves," he added, knowing Daisuke was easy to taunt from an easier exchange.
+
+"Or," Hina's voice came from somewhere in the canopy above, "you're hiding something from us. That dodge you made—when the Lurker came up in front of you. It was too clean and well-timed for a person's first time facing monsters. You didn't even panic despite coming so close to death."
+
+Xen looked up. He couldn't see her through the dark, but he didn't need to. Geomantic Perception put her three trees back and four meters up, crouched against the bark. Watching.
+
+"If you'd spent less time observing me and more time doing your job, I wouldn't have been in a position where that dodge was necessary in the first place," Xen retorted coldly. He then pointed at his torn robes and faked anger. "Besides, it still got me. I had to waste a Flash Mend on myself because people can't do their jobs correctly."
+
+A sharp click of her tongue was the only response.
+
+"Now, now, can everyone just calm down?" Alex said, with a fake leader's smile on his face. He glanced at Xen. "Allow me to apologize for all of our incompetence. A Lurker getting past both Kenji and me to reach you is unacceptable. I hope you can forgive us."
+
+"It's fine," Xen said dismissively. He had only faked anger to get the group off his case. "But I wanted to ask, why didn't you or Kenji use many skills during that fight? I only noticed Daisuke making full use of his skills."
+
+Alex and Kenji exchanged a brief look.
+
+"Because we have you," Alex said simply.
+
+"What do you mean?" Xen asked, tilting his head. He hadn't done much. If anything, his presence as an apparently fragile healer should have forced them to spend more resources protecting him, not fewer.
+
+Daisuke was the one to answer. "These fools don't have amazing mana regeneration skills like I have, so the number of skills they can use on an excursion is limited before needing to rest."
+
+"Yes, it's as Daisuke says," Alex sighed. "Without a Healer, our health is our most precious resource that has to be protected at all costs, typically with the use of skills. When you can't afford to take a single Thornfin Lurker claw to the leg, you have to be risk-averse and resort to overusing defensive skills." He paused. "At the end of the day, it is all about resource management, and having a Healer covers one of them. Thanks to you, I didn't have to waste a load of mana on casting my [Iron Fortress (B)] skill because you could heal me should I take a hit."
+
+"But Healers also have mana problems to worry about. You shouldn't burn yourself out healing every scratch. Save it for when it counts," Kenji said with a wink. Xen noticed Kenji's entire body was now subtly glowing due to his [Healer's Instinct] passive triggering from his many small wounds.
+
+Xen nodded. "Thank you for the explanation. It all makes far more sense now."
+
+"Good," Alex said, scanning the dark water around them before gesturing forward. "Let's keep moving." He raised his voice slightly toward the canopy. "And Hina, whatever you think about Yuki, he's a darn good healer. So drop the suspicions and focus on scouting for monsters, okay?"
+
+Hina didn't offer a reply, having already camouflaged herself in the darkness of the trees from everyone except Xen. He could always track her with Geomantic Perception through the trees.
+
+Alex took the lead, and the party followed in a notably tighter, more alert fashion, while Kenji and Alex seemed to be keeping watch over Xen to ensure the monsters didn't attack him again. At the same time, he could feel Daisuke's suspicious gaze and Hina still glaring at him from the darkness.
+
+The following three hours were rather dull for Xen.
+
+Hina, finally doing her job, spotted Canopy Stalkers before they struck, and the few Thornfin Lurkers that drew too close to his Orbs of Light were pierced by Arcane Volleys or gutted by Kenji. He received a trickle of experience for being in the party, but not enough to level up.
+
+Without wounds to heal, I can't contribute much, Xen thought. No wonder Healers dislike being brought into the dungeon. You assume all the risk of death, with little reward for doing so. I guess that is why they offered to pay me well—the money these humans care so much about is the only way this can be worth it.
+
+Currently, the only way he was gaining any experience at all was from his Orbs of Light. If I struck a few monsters with my Radiant Smite, I could level up some more. The problem is controlling its strength in the heat of battle and avoiding the stun from striking my allies through the water. If only I had a low mana cost buff skill of some kind that I could use without them growing suspicious.
+
+"I can sense we are close to the exit," Daisuke said, the first words anyone had uttered in almost half an hour. "Over there."
+
+Xen followed Daisuke's finger and laid eyes on the stairway to the 11th floor.
+
+It was built into the root system of one of the great canopy trees—so seamlessly that Xen wasn't sure whether the dungeon had grown the tree around the entrance or carved the entrance into the tree. The roots formed a natural archway over a fossilized entrance, wide enough for two people to walk abreast. The water ended at its lip, draining away into channels along the sides of the steps, leaving the stone staircase itself dry.
+
+Alex paused at the archway and held up a fist. The party stopped.
+
+"Hina," he called.
+
+A beat of silence. Then she dropped from the canopy in a controlled descent, catching a root to slow herself before landing at the water's edge without a splash. Her eyes swept the archway, the tree, the dark beyond the first few steps.
+
+"Clear," she said. Her narrowed gaze moved to Xen for a fraction of a second before sliding away.
+
+Alex lowered his fist. "We rest here before going down. Ten minutes. Eat if you need to, drink if you haven't." He moved to the edge of the archway and began to unshoulder his waterproof pack. "The eleventh floor won't give us a clean stopping point once we're in it."
+
+Daisuke immediately sat on the nearest exposed root and produced something from his robes that he began eating with focused enthusiasm. Meanwhile, Kenji found a dry section of stone near the stairway entrance and settled against it.
+
+Xen stood in the water for a moment, looking at the stairway.
+
+It would lead to a floor of acid slimes, and he would be helping the humans fight his own kind. It unsettled him in a way, but as long as combat was done in an honorable way, he didn't care which side he stood on. Anything was better than what those Orcs on the fifth floor were subjected to.
+
+The idea of being killed on a schedule to maintain population and prevent a boss spawn still made his slimy body tremble with rage.
+
+"You should eat something."
+
+Xen turned. Kenji was watching him from his spot against the stone, an unwrapped ration bar held out in one massive hand.
+
+"I'm fine," Xen said. Human food wasn't appetizing to him, and he couldn't eat with the mask on. Yet, unlike Ghostwire, who had modified his body with tubes to get the required sustenance a human body requires, Xen hadn't bothered with that.
+
+"You've been casting Orbs of Light since we arrived. Don't you know that mana burns calories?" He didn't retract the offered bar. "You're also far lower level than any of us," he smiled kindly. "I bet wading through monster-infested waters for hours worked up quite the appetite. Besides, the last thing I want is for my healer to faint from hunger in the middle of battle. I've seen it happen once before—the whole party almost got wiped because of it."
+
+Xen hesitated, but after feeling Hina's interest, he was left with no choice. He waded over and took the offered bar. He held it without eating it, which was the only option available to him. He silently hoped Kenji would lose interest before the ten minutes were up.
+
+He didn't. The smiling giant kept looking at him.
+
+"You worked with a healer before?" Xen asked, if only to redirect the man's attention.
+
+"On a long contract, yes. Two months on the ninth and tenth floors before the guild recalled me." Kenji looked down at the stairway. "Nice girl, and she had the same habit you do."
+
+"What habit?" Xen asked curiously.
+
+"Watching everyone else to see who needs healing before they ask." He said it simply. "It must be a healer thing, I think. Or a certain kind of person thing. Whichever."
+
+Xen had no answer for that. He looked at the ration bar in his hands.
+
+From further along the archway, Hina's voice cut through the quiet.
+
+"Alex. We should discuss what to expect on the 11th floor before we go down." She glanced over at Xen. "For Yuki's benefit."
+
+Alex looked up from his pack. "Good call. Yuki, come here."
+
+Glad to have an excuse, Xen tucked the untouched ration bar into a fold of his cloak and waded over.
+
+Alex spread a map flat against the fossilized tree that merged with the stone steps, holding it open with two fingers. The paper was damp at the corners from the journey but was still legible.
+
+"Sector 7JP. Here is where both teams activated their emergency beacons before going silent." He tapped two marked points on the map, close together—perhaps a dozen meters apart in practice. "Here is the nearest structure, which the survey teams were using as a staging point." Another tap. "And here is the known center of the Acid Slime density spike. The three points form a rough triangle. We go to the staging point first, recover what we can, then assess."
+
+"Why are the beacons so close together?" Xen asked.
+
+It was a genuine question. If the second team had been sent specifically because the first team failed to return, they should have approached more cautiously. But with the points so close, he failed to see how the second team got wiped out besides incompetence or the presence of a dangerous monster that ambushed them.
+
+Alex's jaw tightened. "That's one of the things management wants answered."
+
+Xen looked down at the map and took a mental note.
+
+Now, where should I stage Hina's death? he silently wondered.

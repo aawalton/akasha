@@ -1,0 +1,75 @@
+---
+id: e2d09d72-576d-50b8-89b7-5f4b015c705d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Lifeless"
+slug: 0002-chapter-2-lifeless
+partOf: shapeshifter-a-non-human-litrpg
+position: 2
+ownLength: 1110
+unit: words
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405556/chapter-2-lifeless"
+royalRoadId: "2405556"
+---
+
+Despite the dim lighting, the sudden sensory overload was overwhelming. Until now, Xen had observed the world in a myriad of colors through the flows of mana in the air, almost like seeing everything as a blur, but now he could see everything in excruciatingly fine detail.
+
+Such as the complete shock on Jonathan's face as they looked into each other's eyes.
+
+"Dead?" Sarah screamed out as she wildly raised her sword and struck at one of the wolves, making it snarl in pain as she took out one of its ears. "How could Joe be dead? What have you been doing this entire time? You're a healer, goddamnit! His wounds weren't even that serious."
+
+Jonathan's eyes widened as Sarah's voice clearly broke him out of his astonishment at seeing the dead Joe come back to life.
+
+"Why the hell are you alive?" Jonathan hissed under his breath with rage.
+
+Xen ignored the man as he was still busy sorting through all these new human emotions and memories to make sense of Jonathan's switch-up. It took a moment and didn't make much sense, but if he had to guess... Jonathan wanted Joe dead but didn't want Sarah to know. Why would these two-legged people want to kill one another while in a dungeon of monsters? Xen didn't know. It seemed human nature was more complex than he had first thought.
+
+His curiosity aside, he had no interest in the news of his revival reaching Sarah, so he quickly reached up and grabbed the injured healer's throat.
+
+"What the—agh," Jonathan gasped as Xen squeezed with all the strength he could muster until he heard an audible snap.
+
+He hardly felt anything as Jonathan took his last breath, and he watched the life leave his eyes. In fact, a distinct feeling of euphoria overtook him as a strange energy flowed from the now-dead healer into his body, accompanied by a system notification.
+
+You have killed an opponent 4 levels above your own. Bonus experience awarded.
+
+Experience split between [Mind Slime] and [Human] form.
+
+[Mind Slime] has leveled up: 2 -> 3.
+
+[Human] has leveled up: 1 -> 2.
+
+The healer's body fell on top of him like a warm blanket. Xen was about to use Devour but refrained when he noticed Sarah getting a lucky hit on the other wolf, causing it to collapse to the ground with blood spurting from an artery on its neck.
+
+The silver-haired elf had sustained multiple grave injuries covering her body; her breathing was ragged, and she looked ready to collapse any moment. Still, even in such a state, Xen believed that Sarah had the potential to defeat the single wolf remaining, which was a problem. Jonathan had most definitely been alive a second ago, so she would probably wonder why the healer had suddenly collapsed dead.
+
+Should I pretend to also be dead? Xen wondered. He had no fighting capabilities, was still adjusting to his new body, and his head was a mess of disjointed memories. He tried to move his body, but the heavy corpse of Jonathan weighed him down.
+
+"Basic sword slash," Sarah shouted with mana-filled intent, and Xen saw her chipped iron sword blaze with red energy. She swung it wildly, and the final remaining wolf ate the attack in the face. Like a warm knife through butter, the sword had no problem cleaving through fur and bone, killing the wolf nearly instantly.
+
+As the wolf fell, Sarah's sword clattered to the stone below. She followed by collapsing to her knees. "I did it," she wheezed, "I really did it."
+
+Through his Mana Vision, Xen saw an external force briefly wrap around Sarah's body, which he suspected was a level-up similar to the one he had just experienced. It didn't recover her wounds, but she did seem notably less tired a second later. While groaning, she sluggishly picked up her bloodied sword and got back to her feet.
+
+"Jonathan, Joe, I won. We can escape now," she turned around, and her look of absolute relief turned to one of horror as she gazed upon the pile of bodies. Her hand began trembling. "Guys?" she questioned as she slowly walked over to the two bodies, one of which Xen was secretly inhabiting.
+
+Collapsing beside them, she began shaking Jonathan's shoulders, and as expected, he remained unresponsive as his neck had been snapped. From Xen's fragmented, inherited memories, he knew that the two elves, Jonathan and Sarah, knew each other outside of the dungeon, while Joe had been a last-minute addition to the party.
+
+It wasn't exactly clear to Xen how they were related, but he knew there was some sort of deeper connection between them.
+
+Sarah put her trembling finger under Jonathan's nose while rubbing his back. "No, no, no, no, you can't be dead. Why aren't you breathing?" she began panicking and rummaging through Jonathan's belongings and pockets. "A health potion, goddammit! You must have been carrying a health potion. Where is it?"
+
+Meanwhile, Xen was trying to stay completely still but was struggling under Jonathan's weight. He wasn't inhabiting the corpse as an undead like the skeletons that roamed this floor but rather as a living being, so Joe still needed to breathe, and his heart was still beating.
+
+The silver-haired elf, whom Xen just wished would leave, began sobbing into Jonathan's clothes. "You idiot, why did you spend your savings on this fancy white robe rather than health potions?" she cursed between cries. An awkward minute or two passed before, eventually, Sarah gathered herself and wiped away her tears on her sleeve. "This doesn't make any sense. We are on the first floor of the World Dungeon with a three-man party! Even if we were reckless, a wipeout like this never should have happened..."
+
+Much to Xen's horror, her eyes widened as she looked at him. "Joe? You’re alive?"
+
+No, don't look over here. Xen inwardly cursed.
+
+She put two fingers on his neck and another below his nose. Xen tried to hold his breath for as long as he could, but the body he was inhabiting required oxygen, so after a dozen seconds or so, he took a sharp breath.
+
+Knowing his cover was blown, Xen sleepily opened Joe's eyes and pretended he was barely alive. He hadn't expected Sarah to scream and stumble back while pointing at him.
+
+Joe searched his fragmented, inherited memories and couldn't see why she would have such an adverse reaction to him opening his eyes. "Is something the matter?" he asked, surprised at how his voice sounded and how effortlessly human speech rolled off his tongue.
+
+"Your eyes, Joe," Sarah exclaimed, "they're soulless."

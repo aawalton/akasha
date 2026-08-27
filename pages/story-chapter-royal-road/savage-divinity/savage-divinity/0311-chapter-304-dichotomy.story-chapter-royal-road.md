@@ -1,0 +1,103 @@
+---
+id: 099395c6-86e1-53a8-b49a-a46070d4eef9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 304 - Dichotomy"
+slug: 0311-chapter-304-dichotomy
+partOf: savage-divinity
+position: 311
+ownLength: 3106
+unit: words
+publishedAt: 2018-02-26
+link: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/197278/chapter-304-dichotomy"
+royalRoadId: "197278"
+---
+
+Holding his head up high, Zian rode behind Patriarch Rang Min and cousin Gulong as they led the Situ Clan warriors through the massive gates of Nan Ping. Sweltering beneath the afternoon sun, he inwardly cursed Rang Min for insisting they wear full parade uniforms, swaddled in padded armour and thick ceremonial robes. A welcome extra layer in the frigid North, wearing it here in the Central province was pure agony but there was nothing to do but endure. Aching for the cool breeze coming off the Azure Sea, he sat atop his Guonei Charger and suffered in stoic silence, wishing he had a full-faced helmet to hide his sweating face.
+
+It was all so asinine. What did Rang Min expect? For Nan Ping’s residents to stop and cheer at the sight of their banners? Forget the Situ Clan, even if the Society of Heaven and Earth were all gathered together they weren't prominent enough to merit such treatment, not here in Central and especially not with so many factions gathered in one place. Still, he had to admit, the Situ Clan warriors made for a resplendent sight in full battle dress, waving their banners and advancing in step to the beat of their drummer. Gathered behind him were the core elite of the Situ Clan’s strength, close to a hundred and fifty named Experts, each one a decorated veteran and ranked officer. A fighting force which could easily overpower most regular factions, this was but a small fraction of the power the Clan could call upon. Considering recent revelations, Zian harboured conflicted feelings over the Clan and Society but he still took pride in what his ancestors had accomplished.
+
+The banner on his back bore the Situ family name but Zian was also a son of the Lu family. No one would ever remember his father, Lu An Jing, an Expert of the Empire and rising dragon of humble origins who died too young. Now, the man likely responsible for Zian's father’s death was riding a single horse-length away. How easy it would be to kill Rang Min here and now in front of all the clan Experts. All Zian needed to do was take his spear and ram it through Rang Min’s neck. The Patriarch would never see it coming, not with his nose pointed towards the clouds and eyes locked on the horizon. While escape would be impossible, none of the clan Experts would dare openly strike him down with so many witnesses around, for with Rang Min dead, the mantle of Patriarch naturally fell to Zian. It wouldn’t be the first case of Clan Patricide in history, though it would undoubtedly be the least covert assassination ever.
+
+If only he had proof Rang Min played a part in his father’s death. Though the Patriarch benefited most from Lu An Jing’s death, that wasn’t enough for Zian to act on. Neither was the blatant attempt to turn Zian into a hedonistic dandy, hardly an offence worth killing over. What father didn’t want their own son to succeed? It was human nature and he couldn’t fault the Patriarch for his actions, a rather delicate and non-combative way to get Zian out of cousin Gulong’s way. During his years spent living at the Clan ancestral home, it would have been all too easy to have Zian killed since he’d more often than not been under Rang Min’s personal care. This meant that even if Rang Min had Zian’s father killed, he wasn’t willing to murder Zian in cold blood.
+
+The only thing Zian knew for certain was someone had set his father up for failure, if not death. While Rang Min benefited most and was the obvious suspect, it could also have been the work of a sycophant hoping to get into Rang Min’s good graces, or a jealous, jilted admirer of Zian’s mother, or an enemy of both Clan and Society. Until he knew for certain, Zian refused to openly act against his people but it was impossible for him to pretend as if nothing had changed.
+
+Luckily, Zian's concubine was as conniving as she was lovely, a woman to be feared and respected. Following her directions, Zian played the part of dutiful Situ scion with little enthusiasm and much reluctance, neither of which he had to fake. Then, during the formal Clan dinner, he’d ‘drunkenly’ divulged his dissatisfaction over Clan responsibilities to a handful of listeners, citing a fervent desire to focus on his Martial Path and restore his reputation to its former heights.
+
+This was hiding his enmity in plain sight, a solution so obvious yet Zian would never have come up with the idea in a thousand years. Not only did it explain his sour moods and angry glares, it would also give Rang Min an excuse to eventually remove Zian from his position as Young Patriarch, which was exactly what they both wanted.
+
+A shame Jing Fei was so untrustworthy and free with her poisons, else she’d make the perfect wife.
+
+Outside the Magistrate’s Palace, Zian left Uncle Yang behind for his audience with the Legate. By all rights, as the Clan’s highest ranked Military Officer, Uncle Yang should have been invited in to meet the Legate, but Rang Min decided to bring his son instead. Giving Uncle Yang's place to a callow, unranked youth was undoubtedly an insult, but since he didn’t make a fuss, Zian swallowed his anger and went along with it.
+
+After the Crier announced their arrival, Zian marched into the throne room on Gulong’s heels and greeted the Legate, who sat at his throne surrounded by guards. Otherwise, the room was empty, which was odd since these greetings were usually done publicly with an audience, but apparently the Legate decided otherwise. “Ten thousand years of boundless longevity upon the Emperor. Imperial Servant Jia Zian greets Imperial Legate.” Leaving out his Clan name brought him a small measure of satisfaction, especially after hearing Rang Min choke on his own spittle.
+
+“Warrant Officer... Jia Zian.” The Imperial Legate sounded amused as he ignored Rang Min and Gulong. “I’ve heard stories of your prowess and having met your rival Falling Rain, I look forward to seeing you in action.” Sitting on his throne, he smacked his palm with a closed fan made of white-jade which presumably bore the Imperial Sigil. Even the politically ignorant Zian was alarmed by the Legate’s casual disregard for Imperial Authority, even forgetting to be annoyed at being called Rain’s rival. Either the Legate was a foolish, arrogant idiot drunk on power or someone so highly ranked he didn’t fear Imperial reprisal.
+
+Since the fate of the Empire depended on this Imperial Grand Conference going smoothly, Zian safely assumed the latter. Could this surprisingly young Legate perhaps be a direct descendant of the current Emperor? One still in line for the throne even?
+
+Realizing he’d been silent for too long, Zian hurriedly responded, “Imperial Servant thanks Imperial Legate for the praise and will endeavour not to disappoint.”
+
+“Skilled yet humble, a promising young warrior of the Empire,” the Legate replied, before switching to Sending for only Zian to hear. “Or should I say, ‘promising young expert’? Truly, the north continues to surprise.”
+
+Unsure how to respond, Zian merely nodded and thanked the Legate again. Could he peer into Zian’s soul and see his Natal Palace or was it merely a guess? Luckily, the Legate was content to allow Zian his secret and continued speaking out loud. “On behalf of the Emperor, I formally welcome you all to the First Imperial Grand Conference. My seneschal will go over the rules of the Conference and I look forward to hearing of the Situ Clan’s accomplishments.” With that said, the Legate stood up and unceremoniously walked out of the throne room while the seneschal, a wrinkled, stately servant, stood on the lowest step, unfurled a scroll, and read it word for word in a bored, droning voice. Most of it didn’t apply to Zian, since it had to do with securing food, campgrounds, and what not, but Zian committed it all to memory regardless.
+
+Ignorance was no excuse when it came to Imperial Law.
+
+After almost boring everyone to sleep with his voice, the senescal presented the scroll to Rang Min with both hands. Accepting it in the same fashion, Rang Min nodded and said, “We’ve travelled a long distance. Have a servant direct us to our quarters and we’ll be off.”
+
+In his same bored tone, the seneschal replied, “The Northern Province campgrounds are along the Northern shore of Nan Ping Bay. You are free to remain within the walls to dine and freshen up, but do keep in mind the city curfew. Anyone found inside the city after curfew without a lodging permit will be subject to military law.”
+
+“...Surely there’s been a mistake,” Rang Min answered, keeping his tone polite. “I am the Patriarch of the Situ Clan, one of three leaders of the Society. How am I to represent the interests of the Northern Province while camped outside the walls?”
+
+Raising an eyebrow, the seneschal tilted his head in question. “My apologies,” he said, speaking slowly, “but I believe Marshal Yuzhen, Colonel General Nian Zu, and Lieutenant General Akanai are the highest ranking members of the Northern delegates, representing Imperial Administration, Army, and Defence Forces in turn. Three days ago, they were given quarters inside the Palace at the Legate’s command, but if you show this servant proof of rank, then I shall inform the Legate of this oversight and have the Crier disciplined for his neglect.”
+
+Caught by surprise, Zian almost forgot himself and laughed out loud, though he disguised it with a cough. Red-faced with anger and shame, Rang Min stammered and sputtered before turning to leave, unable to vent his frustrations on this high-ranking member of the Legate’s staff. Given how he’d never held rank or publicly declared himself an Expert of the Empire, officially, Rang Min was merely a civilian figurehead akin to a mayor or chief. Uncle Yang might have merited lodgings inside the city, but since he wasn’t brought in to meet the Legate, why would the Legate bother to accommodate him?
+
+Zian’s amusement was short-lived as he considered the implications of the Legate’s actions. By ignoring the Northern Province’s political climate, the Legate was telling the Society and all the other factions of the North to fall in line with the ‘disgraced’ Nian Zu and ‘puppet’ Yuzhen. While Zian agreed with the Legate’s stance in these dire times, he was savvy enough to know things wouldn’t go so smoothly.
+
+Outside the Magistrate’s Palace, Rang Min proved Zian’s point by ordering a Clan Elder to lead everyone out of the city while he left on his own, presumably to seek an audience with whatever allies he had in Nan Ping. After telling Uncle Yang what happened inside through Sending, he clapped Zian on the back and grinned. “Come,” he said, looking both relieved and amused. “We’ll stop for a meal before going back to camp. Bolin and Jukai can handle things outside.”
+
+Ignoring the protesting Clan Elder, Zian removed his ceremonial garb and armour and followed Uncle Yang into the city. Bursting at the seams, the city was bustling with activity as Zian rode through the crowded streets, listening to the jumble of a thousand voices speaking at once. Unable to make heads of tails of the noise, he ignored their jabbering and focused on keeping up with Uncle Yang, who appeared to have a specific destination in mind. A half hour later, they stopped at a restaurant and handed their horses to a stableboy. Across the street, two painted fools pranced about on a square stone stage, showing off their supposed skills to a massive crowd’s delight. It was nothing special and Zian looked forward to showing the citizens of Nan Ping what true talent looked like in the days to come.
+
+After heading up to the second floor, Uncle Yang went straight towards a table occupied by a Central noble bedecked in jewels and ornaments, sitting alone except for a guard behind him. Taking the seat across from the noble, Uncle Yang helped himself to a bowl of wine before greeting the noble. “So, Shi-Woo, this is how you greet an old friend? Or does the disgraced Situ Jia Yang no longer warrant an invitation into your home?”
+
+“You’re lucky I’m meeting you at all, though it has nothing to do with your supposed ‘disgraced’ status. Mother above Yang, I don’t remember you being so dramatic.” Sniffing primly, Shi-Woo looked Zian up and down as he took a seat, noting how the noise from the crowded room and busy streets had disappeared. Sound suppression, already in place before they sat down, which meant either the noble or his guard was a peak expert. “This is your nephew?” Shi-wo asked. “He has your nose. A shame, he’d be so handsome otherwise.”
+
+“Enough.” Amused by the noble’s words, Uncle Yang rolled his eyes and asked, “What happened? The Legate outright snubbed my Patriarch at today’s greeting and I don’t understand why. Has my blunder placed the Situ Clan in dire straits?”
+
+“Unlikely,” Shi-Woo replied, sliding a sheaf of documents over. “Considering only you seem to know what your blunder is, so I suggest you keep it that way. I had this copy made but I read the originals with my own eyes this morning. Honestly, you made it sound so serious I was ready to destroy all proof of our friendship, but whatever you did, it wasn’t reported.”
+
+Shuffling through the papers, Uncle Yang skimmed through the reports like a madman. Glancing over a discarded page, Zian found Major General Baatar’s writing style completely devoid of embellishment or elaborations, merely laying out the facts as they were. What must have been a heroic last stand had been rendered down to the driest terms possible, almost reading like a checklist of events. “I don’t understand,” Uncle Yang said with a frown. “Why didn’t he report me? Where’s Akanai’s report? The petty bitch uses every chance she has to trample over my pride. I cannot believe she’d ignore this one.”
+
+“Her report is at the back, but I’ll save you the trouble. It reads the same as Baatar’s, ponderous and uninspired. No mention of any folly of yours, only stating you did an adequate job. Not exactly glowing praise, but it’s the most praise anyone received, including their own people.” Shrugging, Shi-Woo leaned back in his chair and smiled. “Judging by the look on your face, I’d say you owe the Bekhai a favour, and a big one at that.”
+
+“... It makes no sense. Why spare me? Their reports make it seem like the Defiled were thrown back by our stalwart defence, but...” Remembering himself, Uncle Yang held his tongue, but Zian remembered his Uncle’s words. The Defiled’s victory was all but assured and Uncle Yang ordered his soldiers to pull back to Shen Yun, in direct violation of Baatar’s orders, who held command at the Wall. Only the Defiled’s inexplicable retreat at the first sign of rainfall kept the Northern Province from sharing the fate of the West. If Baatar and Akanai had reported his infractions, depending on how the Justicar felt, Uncle Yang could have been stripped of rank and possibly even executed for dereliction of duty.
+
+So why didn’t they? And Why didn’t they use this to blackmail Uncle Yang?
+
+More confused than relieved, Uncle Yang peered suspiciously at Shi-Woo and asked, “If I haven’t been disgraced, then why did the Legate treat my Patriarch so coldly? Why did you insist we meet here at a private restaurant instead of inside your home?”
+
+“Because the Legate favours the Bekhai and I cannot afford to back the Society against him. How much do you know about Akanai?”
+
+“Akanai?”
+
+“Yes, Akanai. The Herald of the Storms.” Leaning close, Shi-Woo whispered, “The Legate admires her. Respects her even, and with good reason.”
+
+As Shi-Woo narrated the events of the past few days, Zian’s eyes grew wider with every word. Rain taming the Divine Turtle and earning the Legate’s favour was surprising, but even more unexpected was Akanai’s past exploits. They’d known about Akanai saving the future Magistrate of Shen Huo which earned her a promotion to Major General, but the details of her antics in the Central Province had been ruthlessly quashed. Little surprise there, who wanted to admit they’d lost so many experts to a previously unknown half-beast? No wonder the Bekhai had been so confident to let their dispute with the Society go to trial. Even without Nian Zu’s interference, they were likely to win, if Shi-Woo’s tale was to be believed.
+
+"Akanai's enemies won't act against her, not while she enjoys the Legate's favour." Spreading his hands in helpless surrender, Shi-Woo shrugged. "And as I said before, I cannot afford to help you, not unless you make things right with the Behkai."
+
+Hmph. Whatever. If the Bekhai saved Uncle Yang's career, then Zian would thank them for it, but it didn't make up for things between Rain and him. Saying his farewells to Uncle Yang and Shi-Woo, Zian hopped over the railing and landed lightly in the streets. Pushing his way through the crowd, he waited for the duel to conclude before hopping on stage, giving no time for the victor to even bow. Raising his voice, he yelled, “I am Warrant Officer Jia Zian, twenty-five years of age. Long have I heard of Central’s prowess and today, I hope to experience it for myself. Who among you would seek to enlighten me?”
+
+“Hmph. You northerners are all so arrogant.” Dressed in blue silk robes, a young warrior leaped onto stage and drew his sword. “Radiant Sword Ryo Geom-Chi, twenty-five years of age, accepts your challenge. Spiritual Weapons, to injury or submission.”
+
+Frowning, Zian asked, “Didn’t you already lose to Tong Da Fung?” No need to be overly polite, he would offend many with his actions today.
+
+“I won!” Geom-Chi snarled, face turning purple with shame.
+
+“Oh. My mistake. You’ll do then.” Leaving his sabers sheathed, Zian smiled and waited for the Justicar to go over the rules. Just because he and Rain were in different age groups didn't mean they couldn't compete. Since Rain defeated twenty-eight young talents in two days, then Zian would beat thirty young Experts in one and therby prove his superiority.
+
+A minor handicap having to face older opponents, but only fitting for Jia Zian, son of Lu An Jing, disciple of Jukai, and a dragon among men.
+
+Chapter Meme

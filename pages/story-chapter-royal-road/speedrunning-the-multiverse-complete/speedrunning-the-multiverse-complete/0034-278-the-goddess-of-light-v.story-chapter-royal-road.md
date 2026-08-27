@@ -1,0 +1,159 @@
+---
+id: f1c9f7ff-7aaf-538b-a61a-d1185c772d14
+page-type-slug: story-chapter-royal-road
+title: "278. The Goddess of Light (V)"
+slug: 0034-278-the-goddess-of-light-v
+partOf: speedrunning-the-multiverse-complete
+position: 34
+ownLength: 1716
+unit: words
+ownProgress: 1716
+publishedAt: 2023-08-05
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1300461/278-the-goddess-of-light-v"
+royalRoadId: "1300461"
+markedReadAt: "2026-06-29T22:42:50.036Z"
+---
+
+“Junior, you dare?!”
+
+There was no qi nor Law in the air, but the hall was still choked with tension. You could see it on Junior’s face, which spasmed and twitched and trembled. It was as though he were wearing his brave face as a mask and cracks were splitting it down its length. You could see it in Junior’s body, the dragging hunch of his shoulders, the gasping of his throat as he opened his mouth and tried to find words, and the courage to speak them.
+
+This was the moment. Either Junior shed his name and stepped into the fullness of the Pope here, or he never would.
+
+Junior hung his head.
+
+Just like Dorian knew he would.
+
+“No…” he cried. “I’m sorry. I just—all I ever wanted was for you—for you to be proud of me… I thought maybe—maybe if I was—if I finally—”
+
+“Hush,” said Dorian gently. “I always approved of you, Junior, even if I didn’t always show it. You make for a fine right-hand man—as fine as I could ever ask for.”
+
+“Really?” croaked the Pope.
+
+“Of course.”
+
+By the looks of it not a single guard in the room could believe what they were seeing. Eyes popped. Mouths hung open. This strange dragonoid creature was making their holy father, the man to whom they had sworn their loyalties—indeed, the figure many of them revered—weep like a toddler. It must’ve been like something out of a bizarre nightmare, and most of them were frozen there, waiting to wake up. Dorian had seen it in many a time before, especially in children. It was ‘my dad is invincible!’ syndrome; when they finally saw him beaten up their tiny brains simply couldn’t process it.
+
+“Come now,” said Dorian. “Let’s go take the Trial of Rebirth, shall we? It’s time we set things right.”
+
+“Okay…” sniveled the Pope. His eyes were glistening with wet. “I’m—I’m so happy your back, mistress…”
+
+“Err—just Dorian is fine.”
+
+The Pope led him to a black-steeled door in the walls and spoke a phrase. The door opened slowly; it hadn’t been used in so long its hinges shrieked with every inch. They vanished into the darkness.
+
+***
+
+“This way, mistress,” said Junior. He cringed. “Sorry. Dorian. Sorry—”
+
+“Stop apologizing,” said Dorian, even though it was he who’d trained Junior to do so some millennia earlier. Some men are like forged steel; soft and moldable only in their youths, when their personalities were still in the forge. But when cooled by time they stay that shape forever—no matter how much they wish to change.
+
+“Sorry,” said Junior. He cringed, realizing his mistake. “Sorr—”
+
+“Shhhhh,” said Dorian. “Let us soak in the silence, eh? Relax. There will be no lashings coming for you—verbally or otherwise. You’ll find time has mellowed me a little.”
+
+For a while the only sound was the echoes of their footsteps, cascading over one another in the dim corridor.
+
+Dorian never liked Junior much as a man, but but he was fond of him the way you are fond of a trusty, well-used tool. Junior was useful. And like a tool he seldom thought much for himself. He sort of just cringed there, strung up with a sourceless anxiety until he was called upon to act; and only then did he gain some form of sentience—and only for a period, until the job was done. Of all his believers Junior had been his most devoted.
+
+“It’s not only I who has changed in all this time. You’ve made something of yourself too, haven’t you?”
+
+“I wouldn’t dare- Mis—Dorian! I wouldn’t dare—I am your faithful servant, always! You—you must believe this!”
+
+Junior had been on the verge of something; Dorian had seen it back in the chamber. A self-actualization of sorts before Dorian had stomped his burgeoning ego flat.
+
+“Perhaps it is time for you to come into your own,” mused Dorian. “I won’t be taking back the papacy forever. When the time comes I’ll be handing it back to you.”
+
+“Really?”
+
+“After I’m done with this run.”
+
+“Oh…”
+
+“In your current form saddling you with a Pope’s hat is simply cruel. But in time perhaps you can be worthy of the hat.”
+
+Junior didn’t seem to know what to think about that. This was also by design. The way to coup-proof any regime, religious or otherwise, is to gather as many faithful bureaucratic cronies as you can and stuff them in positions of importance. Junior had been plucked out of his obscure life as a grain tallying supervisor by Yeshima specifically for his insecurity, lack of ambition, and dearth of creativity. He subsequently rode Yeshima’s coat-tails to the top of the Realm.
+
+If the Church hadn’t changed much in the millennia since he’d installed it—and these hulking organizations seldom do; they seem to move through time a thousand times slower than everything else—then it meant the whole of the Realm could be like one massive tool to Dorian. Thoughtless, useful, easy to command.
+
+“Here we are,” said Junior.
+
+They’d arrived at a stone basin filled with a murky liquid.
+
+“Should I wait outside?” said Junior.
+
+“What for?”
+
+“The Trial—the powers of the Heavens brought low—it has been some time since I had to use my shielding Techniques… perhaps it’s best if I—”
+
+“What are you rambling about?” They blinked at each other.
+
+“The ninety-nine Thunderfire Tribulations?” mumbled Junior. “Is it not said that the Godly powers you left behind, that would strike down all imposters in Hellfire, that only the true Reincarnation of Yeshima could withstand it? The Tribulation Lightning—”
+
+“You believed all that?” Dorian laughed. “Of course you did. No, no, my foolish erstwhile apprentice. Those were all rumors I invented to keep idiots from trying to claim to be me! Do you really think I’d put myself through some drawn-out challenge just to reclaim what was my own?”
+
+“…Yes…”
+
+“Don’t be silly.” Dorian stuck a finger into the basin.
+
+Cracks of white light spread from where his finger, branching until the whole of the liquid was lit from the inside by a flourishing tree made of Holy qi. Then the light started to branch up his arm, probing. A question, asking permission. He granted it.
+
+Holy qi spilled into him. Light leaked out of his mouth. Light burst from his eyes.
+
+[Blessing Acquired!]
+
+[Mark of the Goddess]
+
+He blinked, and he saw Junior anew. There was the sight of his eyes, unchanged. And the sight of his mind—which saw a dark figure whose heart was bound in a thick knot of Holy Qi.
+
+He saw other knots. Knots clustered so tight they seemed a swarm of fireflies in the night sky, shuffling in this Basilica, in the city outside, and the villages nestled in the mountains outside that, and in the farmers tilling their fields farther beyond. A congregation of minds.
+
+Some flared with sudden brightness. They were praying, and the qi they tithed washed over Dorian in warm waves, a tingling on his skin.
+
+“Is it working?” said Junior.
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[0% -> 18%]
+
+The inklings of a new white star twinkled in his core. It’d only grow from here, endlessly fed by a constant influx of tithed qi. In her time Yeshima had wielded one of the largest qi pools of all Godkings. This was why.
+
+“Oh, I’d say so,” said Dorian with a grin. “I believe the Church of True Light now recognizes me as the Pope.”
+
+“It… has? But—but aren’t there supposed to be a sign from the Heavens? A shooting star? Was that all fake too?”
+
+“Of course. The moment does feel a little anticlimactic, doesn’t it?” said Dorian. “As for your shooting star—if the array formations haven’t rusted there should be a little light show going on over the Basilica for the common folk to eat up. That’s that! You can keep the hat, by the way. I always thought it looked ridiculous. Oh, by the way—the stream’s a little smaller than I would’ve expected. How many faithful do we have now?”
+
+“By the last census it ought to be about twenty thousand.”
+
+“…Strange. Then I should be getting at least five times this qi.”
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[18% -> 30%]
+
+Junior started to say something, a stricken look on his face, but he was cut off by a rattling of footsteps. Three peak Empyrean auras burst out of the gloom. Their owners followed shortly after, frazzled, hairless old men. Yeshima’s Archbishops back then. Kane, Bu, and Norem, looking much the same as they had back then, only fatter, having had millennia to gorge on the qi of the faithful. He remembered selecting them for the same reason he’d selected Junior. They had no personalities as far as he was aware of, which was actually a very good and rare trait in a minion.
+
+“Your Holiness!” cried Kane, bowing to his knees. “We heard the news—we saw the sign—we rushed here as soon as we could!”
+
+“Congratulations!” said Bu, bowing to his toes.
+
+“It was divined!” said the Norem, scraping so low his hairs tickled the ground. “The Goddess would return to lead us in our time of greatest darkness!”
+
+“Shut up,” said Dorian. “Junior—what were you saying? Is something wrong with the tithing?”
+
+“There was a disturbance, some moons ago, over territory under Infinity control. Ever since, a great portion of our qi has been diverted elsewhere.” He swallowed, throat visibly bobbing with nervousness. “It is almost—almost as though another Pope were present in the realm.”
+
+“That would be my body! Which is in Jez’s hands,” said Dorian. “And it’s stealing my own powers from me, too. Typical. Say, who does the Infinity have at their disposal?”
+
+“By our latest estimates, three highly ranked Godkings and three dozen Empyreans. Lucifer, Queen of Devils, leads their army,” said Bu.
+
+“Wait. That’s it? Then what are we waiting for?”
+
+The three Archbishops looked to one another nervously. “Err,” said Norem. “Your Holiness, what precisely do you mean?”
+
+Dorian clapped so loudly they all jumped. “Let’s get to it, then! Send commands all over the land to tithe as much as they can. Gentlemen, we are going to war. You have six hours to round up as many Enforcers as you can. We march in the morning!”

@@ -1,0 +1,103 @@
+---
+id: 279a6e25-59e3-5ee9-bb17-c5a79d877d28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: New Party"
+slug: 0014-chapter-10-new-party
+partOf: shapeshifter-a-non-human-litrpg
+position: 14
+ownLength: 1481
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3303004/chapter-10-new-party"
+royalRoadId: "3303004"
+---
+
+Once Xen was fully seated, he felt the gazes of Alex's party members scrutinizing him.
+
+"Welcome to our team of misfits," Alex said, then introduced Xen to his party members. "This is Yuki, the talented healer from the infirmary I was telling you guys about."
+
+"He's level eight," a sharp-eyed woman said, mana clouding her eyes as she used the Appraisal skill.
+
+Alex waved his hand in front of the woman as if trying to shield Xen from her scrutiny. "Using Appraisal on someone without asking first is rude, Hina. Please excuse her, Yuki. She's just cautious and a little..."
+
+"A little what?" Hina said, glaring at Alex.
+
+Alex paused as he mentally savored each word before settling on, "A little blunt? Intrusive? Suspicious of everyone—okay, I'll stop." He lowered his hand as Hina sent him a death stare. "Honestly, level eight is lower than I expected, considering your skills. Have you gone dungeon diving before?"
+
+Xen wasn't sure how to reply, so he avoided the question. "I gained my levels from healing."
+
+"Of course, you weren't an official Hunter until today, so you can't have gone into a dungeon," Alex reasoned, dropping the topic. "Either way, I can attest to his healing skills. He nursed me to health in minutes from all those acid slime burns."
+
+The man directly opposite Xen, wearing a scholarly outfit fit for a mage, squinted at him through round glasses. "I believe Alex's words, as I detect immense magical talent from Yuki." He leaned over the table a little too close. Xen tensed and could see his own reflection in the silver rim of the man's glasses—he was that close. "How curious," the man muttered to himself, "I know elves are blessed by the arcane, but your mana seems to be on par with mages like me despite being a healer—"
+
+"Okay, give Yuki some room," Alex thankfully pushed the man back. "Forgive him, Yuki. Daisuke is quite obsessed with magic, and you will have to endure his musings regarding the arcane and his shameful way of spellcasting."
+
+"Shameful?!" Daisuke snapped at Alex, scaring the shit out of Xen. "The arcane is a gift granted upon us by the gods of this world!" He ranted. "Each spell is a miracle not owed to us. If I don't pay my respects to the beauty of spellcasting, who will?"
+
+Alex glanced at Yuki with a deadpan expression. "See what I mean? He's crazy."
+
+Xen nodded.
+
+"Don't agree with him—OW!" Daisuke cursed as he was smacked on the back by the terrifying-looking man at his side. Clearly a warrior of some kind, he was built like the vending machine outside the restaurant, with a shaved head, a broken nose that had healed crooked, and exposed arms covered in war scars. If there were half-orcs on the surface, this is what Xen imagined they would look like, as the man towered over everyone by a few inches.
+
+"Hello, Yuki," the terrifying man said, and then he smiled—his smile seemed oddly kind considering his fearsome appearance. "I look forward to working with you," he said, giving a respectful nod.
+
+Xen felt compelled to return the nod.
+
+"This gentle giant is Kenji, a Warbringer," Alex introduced the man. "He likes fighting, talking about his daughter, fighting, and um, more fighting? He's our team's frontline alongside me. Oh, I'm a Vanguard, by the way. Daisuke is an Arcanist, and Hina is a Nightstalker."
+
+Xen was surprised. Four rare class variants in a party?
+
+Perhaps sensing his surprise, Alex followed with an explanation.
+
+"We were all fast-tracked through the Guild Association's talent program and met during it. I call us a group of misfits because management didn't assign us to any other parties for one reason or another," he let that hang in the air for a moment as his party members looked annoyed, before bringing out a folder and passing it his way. "This is the classified mission you will be joining us on."
+
+Xen stared at the folder stamped with the words CLASSIFIED in red. "I'm... not one for reading. Can you summarize it for me?"
+
+Alex shrugged and took the folder back.
+
+"Three weeks ago, a Guild Association survey team was dispatched to the eleventh floor to conduct a routine population audit," Alex patiently explained as his party members continued eating, "essentially counting monster density in a designated sector to assess whether culling was needed to prevent a boss spawn. They never came back. A second team sent to locate them also failed to return. Both teams were experienced, C-grade operators. It's a total disaster, and the Guild Association has classified the disappearances internally but has not made them public to their families yet."
+
+Xen could guess what happened from the description. It had been rumored that monster activity was increasing in the dungeon, leading to more frequent and larger dungeon rushes. He had also noted an increase in rare variants.
+
+Alex continued, unaware of Xen's thoughts. "Our group was tasked with investigating the last known position of both teams that used their emergency beacons before perishing, and to retrieve whatever evidence we can, such as gear, logs, bodies, and assess the current state of the sector."
+
+"Which is where you encountered the Acid Slimes that put you in the infirmary?" Xen guessed.
+
+Alex sharply nodded. "Indeed. The sector in question is known for its Acid Slime population. What the Guild Association's remote mana sensors are showing now is that the Acid Slime population in sector 7JP has undergone an abnormal density spike in the last three weeks, coinciding exactly with when the first team went missing. The leading theory is that the first team disturbed a breeding cluster and was overwhelmed by the resulting disturbance. The second team presumably walked into the same situation."
+
+"Then management sent us to fall for the same trap for a third time," Daisuke grumbled, pushing his glasses up his face with a scowl. "Truly a bunch of incompetent fools they are."
+
+The giant Kenji nodded in agreement. "Acid Slimes are too hard to fight in large numbers."
+
+"Yes, their corrosive explosions on death make them nearly impossible to fight in concentrated numbers without sustained healing," Alex pointed out. "Which is why things will be different now that Yuki is here. With his help, we can complete this mission and prove to management that we aren't failures."
+
+"Could we really not get our hands on a better healer?" Hina said bluntly.
+
+Alex shot Hina a disapproving look. "That's a pointless comment. Management didn't give us a combat healer the first time around, and certainly won't lend us one after failing the first time. You know that healers are in short supply and a precious resource for every guild."
+
+"Still," Hina frowned. "A level eight? What is he going to do, heal my paper cuts?"
+
+"Didn't Alex say all of his slime burns were healed?" Daisuke pointed out. "His mana is also beyond normal. I think he could cast far more healing spells than another healer, making up for each individual spell's weakness."
+
+If only they knew, Xen thought silently to himself, not getting involved. Either they took him or not. It wasn't his place to force his way into the party, and he didn't want to be around humans who didn't want him to be there.
+
+Hina crossed her arms, not looking pleased at all. "If we fail again, forget being labeled as misfits, we will be kicked out of the Guild Association. I'm not comfortable with putting my safety and future in the hands of a newly registered level eight healer who also looks like a kid."
+
+A tense silence followed.
+
+"Sorry about this, Yuki," Alex sighed. "Everyone, let's take a vote. All those in favor of going dungeon diving tonight with Yuki's assistance, raise a hand."
+
+Kenji didn't hesitate. The Warbringer was thrilled at the idea of having a healer, no matter their level. Or perhaps he just wanted to go into the dungeon again, considering his love for fighting. Daisuke hesitantly raised his hand, likely out of curiosity about how a level eight could possess so much mana. Alex naturally raised his hand.
+
+Hina didn't uncross her arms and glared at everyone. "This is a mistake," she insisted. "There's something wrong with this healer you've picked, Alex."
+
+"Three to one," Alex said, ignoring Hina's keen instincts. "Are you coming?" he asked the Nightstalker.
+
+She reluctantly nodded. "I'll come and keep a close eye on this new recruit of yours."
+
+"Then it's settled," Alex clapped his hands. "I was going to wait until nightfall, but there's no time like the present. Yuki, are you ready to go? The mission should only take a day or two."
+
+Xen nodded. He didn't need anything; the dungeon was his home.
+
+Alex stood up, his chair scraping behind him. "Then let's head to the dungeon entrance."

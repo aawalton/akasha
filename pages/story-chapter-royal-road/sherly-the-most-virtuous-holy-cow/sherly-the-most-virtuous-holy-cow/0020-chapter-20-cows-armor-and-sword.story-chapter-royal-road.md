@@ -1,0 +1,173 @@
+---
+id: 1e885169-be74-5db7-a1d4-7d15cc782ccd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 - Cow’s Armor and Sword"
+slug: 0020-chapter-20-cows-armor-and-sword
+partOf: sherly-the-most-virtuous-holy-cow
+position: 20
+ownLength: 2021
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2643547/chapter-20-cows-armor-and-sword"
+royalRoadId: "2643547"
+---
+
+Chapter 20 - Cow’s Armor and Sword
+
+”Have you ever worn metal before, miss?”
+
+“Sherly,” she started. “And no, sorry. I just turned into a chilim, and I didn’t wear metal as a cow either.”
+
+The receptionist pulled out two catalogues, but she presented the thinner one first. She also took out what looked like an application slip and wrote Sherly’s name on it.
+
+“If you’ve just recently transformed, I think it’s better if you start off with some leather first. You might still need to get a feel on how you should move in general with armor on.”
+
+“Isn’t it mostly the same as clothes?” Sherly asked, tilting her head.
+
+“They’re generally heavier,” said the receptionist. She had an understanding smile on her face, realizing that she needed to exercise some patience with her new client. “In terms of movement, they’re not restrictive at all, as long as you know how to move about while wearing them.”
+
+“Things like recovering from a fall, running around, ducking and weaving,” Ishuin added. “While armors made here are generally easy to move around in, you’ll still feel a significant hindrance if you’re not used to wearing them. I agree with our receptionist. You should probably start with leather armor.”
+
+“Phoebe,” said the receptionist. “My name is Phoebe. Sorry, I’m not used to introductions. Nice to meet you, Sherly. And Lady Ishuin, it’s an honor to help you today.”
+
+“Nice to meet you, Phoebe,” Sherly greeted.
+
+“Same here,” Ishuin followed.
+
+Phoebe presented the thinner catalogue, opening it somewhere in the middle. “Here are our designs. We cover everything from top to bottom, but you can mix and match whatever you like. Since you only made the request for a basic list, none of these are magical, which makes them cheaper and quicker to make.”
+
+Sherly perused the catalogue, and quickly realized that she didn’t know the first thing about these armors. Of course, she understood that an armor with a shoulder pad would be more protective than one without. But she noticed that the prices were the same between the two. So it begged the question of who would choose one without sleeves.
+
+There was one with flaps that extended beyond the waist, and one without. There were also a variety of shin guards and armguards. She didn’t know the difference between the variants of each type.
+
+“I’m not sure which to pick,” Sherly admitted to Ishuin and Phoebe.
+
+“Well, the price isn’t a problem, by the looks of it,” Ishuin started. “I think, for your first armor, it’s alright to go by feel. You’ll eventually improve them or replace them, anyway.”
+
+“I agree with Lady Ishuin,” Phoebe added. “If you already have a weapon and don’t know which armor to pick, you can find a combination that matches the look of it. Aesthetics is just as important, when going on adventures or quests or whatever combat you have to do. If you look ready, then you’ll feel ready as well. And since we’ll make sure you’ll have our finest quality armor anyway, you can find one that fits best with your style.”
+
+“Ah, that’s one way to do it. Can you bring it out, Sherly?”
+
+The cow-chilim realized she didn’t actually know how to retrieve the sword from her Domain Heart. She looked at her companion, sending a silent question that she hoped would be understood.
+
+“Oh, right,” Ishuin said. “You just have to reach into yourself. Imagine as if you’re pushing your hand into your chest, but don’t literally do it. If you need to close your eyes, then do it for now, but we’ll train so that you won’t have to later on. Once you can envision your Domain Heart, you should be able to find your sword. Just grab it and pull.”
+
+Sherly took a moment to breathe. She gave a glance at Phoebe, who was still showing a lot of patience and understanding. It was as if the receptionist had experienced this exact same thing multiple times already.
+
+Or maybe it’s because Ishuin’s here… No, come on. Now’s not the time.
+
+Shaking her head, Sherly concentrated on her task. She closed her eyes and imagined exactly what Ishuin had told her. There was nothing at first, but she kept trying.
+
+After a minute of trying and failing, the cow-chilim suddenly found herself in a blank space. White, as far as her eyes could see. She couldn’t even tell if she was looking at a wall or not, or if the ground she was standing on bent far in the horizon.
+
+There was just nothing. Except for a single greatsword. It was standing, or floating, with the edge floating downward. With nothing else to do, or see, Sherly grabbed it by the hilt and pulled.
+
+Then she was back in reality, sword in hand.
+
+After receiving a nod of affirmation from Ishuin, she presented the sword to Phoebe, expecting some hints or suggestions for her leather armor. But the receptionist’s mouth was open. Her eyes were wide, and shoulders tensed.
+
+“This… Isn’t this a Zodiac Relic?”
+
+“I’m not sure.” Sherly turned to Ishuin, who simply shrugged while smiling.
+
+“It is,” the elf finally confirmed. “But I’m not sure what it does.”
+
+“I’m sorry,” Phoebe started. “Would you mind if I call a colleague of mine? He’s researching Zodiac Relics. I think he’ll be interested in this sword. Not to buy, but to study. He might also be able to inform you what it does.”
+
+“What about the armor?” Sherly asked.
+
+“Sure, go get him,” Ishuin said at the same time.
+
+Two against one, Phoebe quickly took a bow and rushed to the stairs.
+
+“Guess we’re waiting, then…” the cow-chilim said. She gave Ishuin a knowing look. “Did you ask me to bring it out, because you know they’ll be interested?”
+
+“Of course. And I actually don’t know what your sword does. Kobeni said it improves as you level up, but that’s about it. Plus, these people are pretty enthusiastic with sacred relics like the one you have there. If we’re lucky, we might be able to get you an upgraded armor for free.”
+
+“Oh, I didn’t know information could be sold that way here.”
+
+“I teach as we go, you learn as we go.”
+
+“Fair enough.”
+
+A few minutes later, Phoebe returned with a human male in tow. Signs that he had worked with a forge for a long time were apparent in his figure. His black hair was cut short, in order to not get in the way of his work. His work apron was full of soot and burn marks. And his blue eyes were keen and observant. He quickly spotted the sword, showed recognition, and reeled himself back to introduce himself.
+
+“I’m Edward,” he began. “You can call me Ed for short. I’d be happy to identify your Zodiac Relic for you. In return, we can give you a fifty-percent discount on your order. More if we find something more significant.”
+
+“I’m Sherly.”
+
+“And I’m Ishuin. How significant are we talking about?”
+
+Edward scratched his head, giving Phoebe a glance. She was urging him to speak up.
+
+“Well, significant in a sense that we discover something we haven’t seen before. I have a small compilation of various enchantments collected from workshops across the Cancer Empire.” He pulled out a small book. "If the enhancement in your greatsword isn’t found here, then we can deem it a significant discovery.”
+
+“That’s good enough for me,” Sherly said, presenting her sword, but she didn’t let go of it yet. Moving it, she realized how heavy it was, so she had to use both arms to balance it horizontally.
+
+“What she said, yes,” Ishuin followed.
+
+“While I perform the examination, please go ahead and choose your armor design,” Edward said.
+
+“Oh, you’re doing it here?” Sherly asked when the blacksmith didn’t move.
+
+“Of course. We won’t take your weapon out of your sight while we study it. That would be unprofessional.”
+
+“Oh, that makes sense.”
+
+Sherly turned her attention to the armor designs, but before she could even flip through the catalogue, Edward leaned in closer to the greatsword.
+
+“Matriarch Kobeni’s mana signature’s imprinted on it!” he exclaimed. He quickly took his compilation and went straight to the blank page. He started writing.
+
+“Is it that important?” Sherly asked. Ishuin, Edward, and Phoebe all turned to her immediately. “Okay, fine, I get it.”
+
+“Matriarch Kobeni has never parted with a Zodiac Relic, since the Zodiac she served was corrupted. It’s said that she’s only given her treasures to those who went away with her. No offense, but if you’re only a cow-chilim, then you’re not part of that group.”
+
+“She gave it to me when I was trying to become a chilim,” Sherly said. “The bad guy interrupted my evolution and then Kobeni helped me out.”
+
+“Are we sure telling that story is a good idea, Sherly?” Ishuin asked.
+
+“I’m aiming for the armor upgrade,” she replied.
+
+“Fair enough.”
+
+“Yes,” Edward began. “I think this is something we can consider a significant discovery. Give me a moment to see the exact enchantments.”
+
+Eventually, Edward and Phoebe began to concentrate on their research. It gave Sherly and Ishuin the time to look at the armor designs. It didn’t take either group long to finish their tasks.
+
+“You first,” Ishuin said, allowing the blacksmiths to deliver their studies.
+
+“The greatsword has multiple seals embedded into it. If you run your mana through, the runes on the blade will begin to glow, signifying the amount of seals you have unlocked. And yes, it’s equivalent to your level. I believe at Level 30, you’ll be able to release the first layer of seals.”
+
+“First layer?” Sherly asked.
+
+“How many are there?” Ishuin followed up.
+
+“Yes, there are four layers of seals,” Edward continued. “Each layer unlocks a Weapon Skill which improves with every seal you release. The first layer gives you Ignite Blade. It covers your sword with flames in exchange for mana.
+
+“Unfortunately, we can’t identify the three other layers until you fully unseal the first layer. You can either try and figure it out for yourselves when the time comes or return here and we can help you out. Either way, we’ll offer you compensation for the information.”
+
+“Aside from the layered seals, we also found a second enchantment on the Zodiac Relic,” Phoebe followed up. “The edges around the weapon were magically formed. It’s already sharp, but the runes within it will elevate that sharpness more the higher your level, Sherly.”
+
+“Wow… I should seriously thank Kobeni when we next see each other.” The cow-chilim stared at her greatsword. In her untrained eye, the magical weapon looked even more menacing now than before.
+
+“You meet Matriarch Kobeni on the regular?” Edward asked.
+
+“Oh, no. Nothing like that. But she said she’ll help me out when I try to become a zilim.” Sherly stopped herself from adding more information. Since the blacksmiths didn’t know exact information about the Hidden Cabal of the Taurus Rebellion, she figured it was better not to mention that she would be joining them in the future.
+
+“Anyway, about the armor, I think I’ll have this set,” Sherly presented her application form, filled with the details of what she wanted for her design.
+
+“We’ll work right on it,” Phoebe said. “Since we’re giving you an upgrade, we’ll take two days instead of one.”
+
+“That still sounds pretty quick,” Sherly commented.
+
+The female blacksmith’s chest swelled with pride as she smiled smugly. “We might not be Wielders, but we did receive a bunch of Skills that greatly helps us with blacksmithing. So don’t you worry about a thing.”
+
+Edward gave his colleague a stare. Sherly tried to figure out what was going on, but the female blacksmith sighed.
+
+“I suppose we’ve been keeping your talents from blossoming here,” she said. “As long as Lady Ishuin permits it, then I don’t mind.”
+
+“What happened?” Sherly asked.
+
+“I think I know,” Ishuin said, but she allowed Edward to proceed.
+
+“I would like to help out in the caravan, Lady Ishuin,” he said.

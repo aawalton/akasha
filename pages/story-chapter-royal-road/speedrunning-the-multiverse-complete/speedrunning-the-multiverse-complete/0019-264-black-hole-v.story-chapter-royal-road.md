@@ -1,0 +1,137 @@
+---
+id: 6f3236e9-7ea8-5a0d-9b3d-e414f50decc5
+page-type-slug: story-chapter-royal-road
+title: "264. Black Hole (V) "
+slug: 0019-264-black-hole-v
+partOf: speedrunning-the-multiverse-complete
+position: 19
+ownLength: 1736
+unit: words
+ownProgress: 1736
+publishedAt: 2023-07-18
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1280749/264-black-hole-v"
+royalRoadId: "1280749"
+markedReadAt: "2026-06-29T22:42:19.383Z"
+---
+
+For a few breaths, Pliny merely frowned at the axe-shaped hole in the mountain. His expression was blank. Then he let out a sigh that started from his belly, flowed up his chest, and where it passed he sagged with resignation.
+
+“Quite a throw,” he said. “Quite a throw indeed.”
+
+“Why, thank you,” said Dorian. “Though axe-throwing isn’t my strong suit. I much prefer fisticuffs, actually.”
+
+His hands lit up with qi. “Let’s end things, shall we?”
+
+“Very well,” said Pliny. The words dropped from his lips heavy as a stone. He cast his watery eyes above, to the Heavens. The sun was rising in the East, banishing the last vestiges of night. But you could still see glimmers of the stars in the lightening blue.
+
+“I wished things didn’t have to end this way,” he murmured. His eyes searched for Gerard’s. Dorian’s manservant was propped up to his elbows, but still nowhere near in moving condition. Gerard simply nodded.
+
+“Jez has my daughter,” said Pliny, his voice a little choked. “You remember Thalia. The one who’d gifted you that watercolor of that Horned Dragon fossil of yours—hand-made, as I recall. She always used to ask me, ‘When’s Uncle Gerard with the silly glasses coming back?’—”
+
+“You do not need to justify yourself to me,” said Gerard. There was no hate in his eyes, even now, and the sight seemed to ease some invisible load off Pliny’s shoulders. “I understand. If it consoles you at all, I shall see too it that she is taken good care of. After all this.”
+
+The implication—that Pliny would not be there to do it himself—hung heavy between them.
+
+Pliny shook his head. “If things had been different—”
+
+Then Dorian stepped in front of him, cutting off his line of sight. “Alright. That’s enough! Sentimentality is like sugar. A little is nice, but too much gets sickly sweet fast.”
+
+He flashed his teeth. “Besides. Gerard might understand. But I sure as Hell don’t. All I understand is you hurt my friend. Would’ve killed him, too, if I’d been a few breaths late!” He snorted. “That much closure is already more than you deserve. Goodbye!”
+
+A burst of Sunshine Steps and Pliny gagged on the words in his throat.
+
+Dorian came at him head-on, no tricks, partly because he was just that confident. And partly because there was nothing more cathartic than a good old-fashioned pummeling.
+
+[Fist of Falling Star, Rising Moon]!
+
+Pliny might’ve been caught wrong-footed. On all four feet, no less. But he was still a Godking, and his spear darted up to meet Dorian, arching like a snake. There was a mound of Earth Laws at the tip packed with incredible density. The runes along the steel shaft worked mightily, but they still couldn’t stop the thing from bending.
+
+All around them the tops of mountains were floating. Clumps of dirt. Chunks of stone. Gravity had loosened its hold on the world. But it was only an illusion; a redistribution of weight. Dorian felt all that weight the instant his fist made contact with the spear.
+
+His arm nearly buckled under all of it. One hand versus a mountain range. There was a light CRUNCH in his fist. A bone snapping, a spike of pain. Dorian was flung back. But before Pliny had time to retract the spear he was on the centaur again, slinging blows with abandon.
+
+Fist met spear again and again, and the air shivered at their passing. Nothing much moved, for their forces seemed to cancel each other out. Which masked just how immense each blow was on either side. Dorian’s fist would’ve made a sooty heap of any common Empyrean. Pliny’s spear would’ve made dust of all the bones in their body.
+
+It was doing a fine enough job obliterating Dorian’s hands as is.
+
+But Dorian kept rushing in. Kept wailing, blow after blow, faster and faster. Pliny looked shocked at the aggression. It was all backward. You didn’t get fiercer the more injuries your body sustained! But Dorian felt like a racehorse that was still getting up to top speed. There was so much damned qi in him—so what if his vessel couldn’t handle it?
+
+It had to be let out!
+
+Centaurs did not like to be crowded. Neither did spearmen. As Dorian rushed in Pliny grew skittish. His spear rose a little slower each time, a little more frantic.
+
+One more punch and a cloud of blood erupted around his hand. Dorian blinked at it; the fingers refused to curl, all bent in the wrong direction. His thumb was smooshed deep into its socket, a little deformed nub. His qi and Bloodline worked madly to heal all of it. He shrugged, and launched the thing again.
+
+“Hells!” cried the centaur. “You’re a madman!”
+
+Dorian cackled.
+
+His next blow landed hard on Pliny’s face, four knuckles branded deep into his cheek, blackening the skin. There was the pleasant smell of burnt meat. Pliny screamed, kicked him off, broke something in Dorian’s chest as he did. Dorian kept coming.
+
+There was some gold at Pliny’s trembling fingers now. Jez’s power. He slashed at the air with his spear and a hurricane of rose petals erupted. Dorian simply put up his wings, pumped them full of qi, and waded through it. He didn’t care what Pliny threw at him. He burned to get his hands on the fucker.
+
+The petals bounced off his skin like hail off a rooftop. Dorian scarcely felt it.
+
+Punch by punch, step by step, he blasted his way into Pliny’s personal space. Real close. So close he could wrap his wings tight around Pliny, even as the centaur launched a desperate thrust of the spear.
+
+There was a loud crunch, then a squelch as it shattered Dorian’s abdomen plates, pierced the skin, skewered enough internal organs to make a meat kebab, and poked out his backside.
+
+Just as Dorian planned.
+
+Well—not precisely. He’d been hoping to pull himself in so that the spear went right between his organs, and emerged out his backside unharmed. But this stuff was more of an art than a science.
+
+He got what he wanted, in the end.
+
+To get some alone time with the bastard. Up-close and personal they were, so close he could pick out the branching red veins at the edges of his eyes, could see the terror in Pliny’s shivering pupils. With what remained of his hands he clung on tight to the spear. He crunched in, and his body clung tight to it too. Even if Pliny could pull it out, with his wings wrapping them up there was simply no room to try.
+
+There was a timer on Dorian’s life now. Make no mistake—that spear in him had made a mess of things. It had detonated a bomb of golden qi within him too. He wasn’t healing from this. He’d be dead in minutes.
+
+So he seized the moment, and headbutted Pliny in the face. The centaur had a thick skull. But Dorian’s was thicker, and had horns on it besides, and one of them found a crevice where something softer and squishier lay and dug greedily into it.
+
+Pliny screeched. Dorian kept bashing. He was disappointed that there was only broken bone this time. He bashed again—cracked the skull further. Where was that damned second eye? Another bash, then another, and finally he rolled his head around and felt the squelch.
+
+He paused for a moment. What’s gotten into me? This level of savagery was unlike him—really it was more of a Gerard thing. He must’ve been madder than he’d thought.
+
+He kept bashing. CRACK! CRACK! CRACK! The skull caved in in earnest.
+
+All the while they Pliny was screaming and bucking and thrashing. He was vaguely aware they were falling, flipping upside down over and over again. None of it mattered. He only had one mission in mind. To see which of their heads broke open first.
+
+Then Dorian was flung flying.
+
+All his holds were broken at once. His wings, his hands on the spear—the spear wrenched free of his body. He gasped, hitting the earth hard. Wheezing. His ears were ringing. His head was splitting in pain. As always with these sudden shocks it took some detective work to figure out just what the Hells had happened.
+
+He was so singed that had to have been an immense explosion. Where was that blasted centaur?
+
+Ah.
+
+In his desperation Pliny had pulled on the Infinity. Recklessly.
+
+His body—corpse—lay at the center of a smoking crater. His eyes stared sightlessly. There was little else above them. It seemed he’d inadvertently blown the top half of his skull to bits. His brain had roasted in his own head.
+
+A bit of an downer ending, but that was about as good as he could reasonably expect! Revenge was seldom as satisfying as you pictured it. By the look of him he figured Pliny had learned his lesson. The old centaur wouldn’t be bullying any more poor geeky Rocs anytime soon.
+
+Gasping, trying not to vomit up the rest of his internal organs, Dorian crawled up to Gerard. They looked quite alike, strewn out like that. If anything Dorian had the claim to the more mangled body. His manservant just stared.
+
+Dorian coughed, wiped some blood out of his eye with a limp hand. “So,” he croaked. “How’d the dig go?”
+
+“…Good,” said Gerard. His voice had a faraway quality to it. “I found a fossil.”
+
+“Nice.”
+
+Another coughing fit bent Dorian over.
+
+A pause.
+
+“Thank you,” said Gerard.
+
+“Oh, don’t mention it.”
+
+They sat there for a breath, blinking numbly at the smoking wasteland around them.
+
+A croak punctured the surreality of the moment. It was Gerard Jr. He opened his mouth, and out popped two glowing violet flowers. He nudged one to Gerard, licking his cheek in affection. Then he wrinkled his nose at Dorian, but plopped the other flower at Dorian’s feet nonetheless.
+
+“Blueviolet Petunias,” said Gerard. “Excellent healing properties. Good find. Well done, Gerard Jr.”
+
+He reached out to give the toad some well-earned scratches behind the ears. Gerard Jr. purred. At times it was like he forgot he was a toad.
+
+“Oh, that reminds me!” said Dorian. “I got a literal dragon’s hoard of healing treasures from Coldheart’s tomb. Not to mention that Time Chamber. What do you say we head in to recuperate?”

@@ -1,0 +1,129 @@
+---
+id: f0dd4e24-1c72-5fa8-acb3-2af35eff7e17
+page-type-slug: story-chapter-royal-road
+title: "252. The Godhunter (IV)"
+slug: 0007-252-the-godhunter-iv
+partOf: speedrunning-the-multiverse-complete
+position: 7
+ownLength: 1981
+unit: words
+ownProgress: 1981
+publishedAt: 2023-06-30
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1262129/252-the-godhunter-iv"
+royalRoadId: "1262129"
+markedReadAt: "2026-06-29T22:41:51.728Z"
+---
+
+Dorian stood atop the Glassy Mountains and squinted into the distance. The sun was peeking over the horizon, pinking a sea of fluffy clouds. Mountain peaks poked through them. There was a nub of a mountain peppered with tiny sakura trees. There was a mountain right out of a classical painting, dotted with bonsai trees, with a pretty blue stream winding from top to bottom. There were mountains spurting fire, mountains belching smog, mountains pimpled with crystals and riddled with greenery. You could bet the dragon living in each of them had a Law that matched.
+
+“Where to next?” said Sun.
+
+“Hmm.” Dorian carefully considered the lot. “What about… that one?”
+
+One mountain that towered over the rest of them. It looked like a mound of giant thorns glued together with tar, and slivers of smoke slithered around it.
+
+“I don’t know,” said Sun with a frown. “Looks villainous.”
+
+“It is the tallest mountain around. And we’re raising an army, aren’t we? We’ll need strong fighters.”
+
+“Excuse me,” said Greenscale. Ever since Dorian recruited him the dragon had gone from brash to fawning. “But that’s Mount Death, home to the notorious Slickclaw. This one humbly suggests that we pass.”
+
+The glassy mountain dragons nodded their agreement. “He’s a bully, that Slickclaw. Worst in a thousand li! Always spoiling for a fight,” said one. “Plus, he’s ranked in the top 100 among Empyreans. He can be very nasty.”
+
+“Top 100 among Empyreans, you say?” Dorian said, grinning. “We’ll need a lot of Empyreans if we’re to storm Mt. Tai! As many as we can get. Let’s pay this Slickclaw a visit, eh? Can’t hurt.”
+
+The worried looks the dragons shot each other told him what they thought of that sentiment. Still, Dorian forged on ahead, and the rest of them scrambled to follow.
+
+This time, there was no need for any prodding. Slickclaw came out to get him. There was a crash and a shower of stone as its head broke through its mountain peak. Then it bellowed, glaring, and hauled the rest of its body through.
+
+Slickclaw might’ve been the biggest dragon he’d seen in this life. His head alone dwarfed Dorian’s whole body. He steamed Laws of Death. He had a great black body, blackened further by swathes of scar tissue, and two great white wings spread like giant cobwebs. He was missing an eye, and a leg, and half of his teeth, but Dorian had no doubt that if those gnashing jaws snapped shut around you they’d get the job done just the same.
+
+Slickclaw took in their strange procession. His expression curdling from disgruntled to downright nightmarish. “What the fuck is this?” he boomed.
+
+“Greetings, Slickclaw!” said Dorian. Up went the Torchdragon aura. Up went his smile, warm and wide like they were old friends. “My name is Dorian of Torchdragon blood, and I’m here to help the wronged dragons of the dragon realm strike back at that horrible slaver Jez! I, and my compatriots, are currently gathering recruits. And I’ve heard your name brought up as a great candidate.”
+
+“Me?”
+
+“My friends here say you’re among the fiercest of the dragons! The proudest! Never one to give up, that Slickclaw, never one to bow down—not to Jez, or anyone else. We could use your fighting spirit.”
+
+It was his best speech so far, but Slickclaw did not seem very taken with it. Nor was he much impressed by Dorian’s Bloodline, nor with his aura, nor even his winning smile.
+
+“Ha!” It was like a thunderclap from Slickclaw’s throat, so loud Dorian saw a few heads poke out from neighboring peaks to see what the fuss was about.
+
+“Is this meant to be a joke?” And Slickclaw issued a snort to rival Greenclaw’s best. “You four pipsqueaks and this God whelp want to bring down Jez?”
+
+“We may not look like much now!” said Sun. “But you just wait. Once we’re done recruiting—”
+
+“Ha! Ha! Ha!” Slickclaw laughed, and laughed, and wouldn’t stop laughing. Lots of heads were poking out now. “Funny! Funny little monkey.”
+
+Slickclaw licked his lips. “Let me tell you what is going to happen. You will run around this realm with your… parade of fools. You will pick up more fools as you go. And you will run up against Mt. Tai, and its hundred-cannon fleet, and its walls of blacksteel, and its arrays which no dragon has broken for ten thousand years, and you shall break like wind against the mountain-side.”
+
+Their troupe was still bubbling with honeymoon optimism. It was rather rude of Slickclaw to sprinkle in that other, much more likely possibility. And now Greenclaw and the others shuffled uncomfortably behind him. That was the trouble with crowds; they were easily swayed one way, but the same went for the other way too.
+
+Dorian got the sudden strong urge to beat the shit out of this Slickclaw fellow. Not out of anger, mind you. But the neat thing about arguments between cultivators was the winner was not really the one who made more sense. Slickclaw could produce an ironclad treatise listing ten thousand ways this resistance was a stupid idea. And as long as Dorian beat him up, then laughed at him, then humiliated him, then violated his corpse in amusing ways, his followers would cheer him on more than if he’d produced the most magnificent argument the Multiverse had ever seen. It was the first rule of debate: your argument is invalid if I can beat you up!
+
+Also it would be quite fun. And the easy thing to do. They might even get a few recruits from the onlookers that way.
+
+But then again… he wasn’t alone. This wasn’t a solo run. There were actual consequences to his actions this time, and it was sadly not simply about him and his whims anymore. Fate had saddled the burden of a movement on him. And if he was to give this resistance the best shot of success, there were probably better, more diplomatic ways. It hardly did his whole ‘I’m here to help the little guy!’ thing any favors if he went around beating up any little guys who disagreed with him.
+
+So, stifling a sigh, Dorian plastered on that winning smile again. Or a smile, at any rate. It appeared to be winning very little from Slickclaw.
+
+“I understand your scorn, Slickclaw,” he said. “Frankly, if I saw some rag-tag bunch of dragons dreaming of challenging the rulers of the realm, I’d laugh them off too! Our cause may be just, but what’s the point if none of us can make it a reality?”
+
+Slickclaw considered him with a lazy eye. “If you know this,” he breathed. “Why the fuck are you still here?”
+
+“Because we may be more than meets the eye,” said. Dorian simply. He said it as much to the dragon before him as the dozen dragons that were drawing closer and closer, curious who this impetuous little fellow was who dared to challenge Slickclaw. Step one: establish credibility.
+
+“For instance…”
+
+He tossed his ranking crystal to Gerard, who caught it with a flick of the wrist, and with the same hand displayed his Empyrean ranking. A few gasps from those nearby. It wasn’t every day, or every year, or even every century you came face-to-face with a top ranking Empyrean.
+
+“This is Gerard,” said Dorian. Slickclaw pulled back, hissing and narrowing his eye, like it’d just been struck by a light that was a little too bright.
+
+“Ranked seventh among Empyreans in this Multiverse! And he is my servant.”
+
+“Greetings,” said Gerard, waving.
+
+“You may be wondering—why is it that Gerard, a creature of such a caliber, is a servant to me? A mere God?”
+
+Gerard tossed back the crystal, and Dorian caught it with an open palm, let its #1 ranking show for all to see.
+
+“Because I am Dorian, the first ranked God in this Multiverse! We alone can challenge that coward of a dragon-king. But we will not be alone. We will have at our sides all those brave dragons, true of heart, who are sick of bowing their heads to that tyrant up in Tai!”
+
+“Hear, hear!” said Sun. A few murmurs echoed her.
+
+“Who are sick of being forced to give up a tenth of their hordes—a full tenth—to that scoundrel!”
+
+More murmurs of agreement.
+
+“Who are sick of living under a golden sky! An outsider has already come to the Dragonrealm once. His name was Salas Godhunter, and it was due to him that you live in mountains with no peak!”
+
+Angry murmurs.
+
+“Now a second outsider has come, thinking the dragonrealm is easy pickings. Will you let Jez do the same once more? Friends, I can tell you the Torchdragon Ancestor would’ve never put up with such a thing! Nor the venerable ancestors of any of your Bloodlines!” He was riffing now, not really sure what he was saying. But he could tell the crowd was into it.
+
+“And where are they now?” said Slickclaw. Shaken, but still defiant. “Dead! Slain by Salas!”
+
+“Dead, fighting for what they believed in. Fighting with the true spirit of the dragon: you can wound our flesh, but you can never put out the fires in our hearts!”
+
+“That’s right!” cried Sun. He even got a few shouts at that.
+
+“I—You’re one to talk! Aren’t you an outsider too?” spluttered Slickclaw.
+
+“I’m a descendent of those true dragons, just as you. In fact—of purer blood than you, friend Slickclaw. And you are right. I am a product of the Great Draconic Diaspora—just as so many of us dragons in the Multiverse are.” A diaspora he’d learned about ten minutes ago, incidentally, but he spoke teary-eyed and wobbly-voiced, like it was something as dear to his heart as family. “Do you know what they say out there, in the Multiverse? They say that the great age of the dragon is past. They say that the dragonrealm is but a husk, doomed to be a plaything for foreigner’s whims.”
+
+Snorts, cries, gnashing of teeth. “But I have returned because I do not believe that. I believe that the dragonrealm can rise again—that the spirit of our proud ancestors yet remains in our blood! That all it takes is for those who still believe in the might of the dragon to rise again, as one, and seize back what was once ours!”
+
+“To the dragonrealm!” cried Sun, shaking a tiny fist.
+
+“To the dragonrealm!” went the roars. Dorian wagered they’d just gotten at least a half-dozen signups in one fell swoop. He gave himself a mental pat on the back. By how he was speaking he nearly convinced himself he was out to do some good for the realm.
+
+Slickclaw could only gape, leaking smoke like a chimney whose fire had almost gone out. “This…you…” He swallowed. “You’ve got pretty words, little dragonoid. I shall give you that. But words is all they are! I have yet to see any evidence you can back them up. You may have tricked all these fools with that—crystal-tossing of yours—but for all we know that crystal was a counterfeit!”
+
+“Perhaps. But a Fourth Form regal Bloodline is harder to counterfeit, wouldn’t you say?” said Dorian. “But I take your meaning. You wish to see evidence! Shall we make a bet, then, friend Slickclaw?”
+
+“Name it!”
+
+“I hear you are an Empyrean ranked in the Top 100 in the Multiverse, are you not?” said Dorian. “I am but a God, as you say. Give me your strongest strike. I will put up no defense to it. Not a shield, not a Technique, nothing. If I can receive it, you’ll join our cause! If not… well naturally I’ll be forced to stop bothering you, on account of my being dead. What do you say?”
+
+And Dorian knew he had him.

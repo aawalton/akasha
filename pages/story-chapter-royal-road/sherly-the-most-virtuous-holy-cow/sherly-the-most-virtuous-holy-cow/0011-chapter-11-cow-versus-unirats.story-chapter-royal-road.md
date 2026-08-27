@@ -1,0 +1,193 @@
+---
+id: 0bee7fbf-b8b1-5401-ba91-30af06f4489f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 - Cow Versus Unirats"
+slug: 0011-chapter-11-cow-versus-unirats
+partOf: sherly-the-most-virtuous-holy-cow
+position: 11
+ownLength: 2412
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2541580/chapter-11-cow-versus-unirats"
+royalRoadId: "2541580"
+---
+
+Chapter 11 - Cow Versus Unirats
+
+”Do I have the plague?” Sherly asked as she went looking for a unirat. She had no direction to follow, besides the feeling in her gut. But at the same time, she kept her ears open for any sudden movements. “What if I injure one of those unirats and it survives to become a demon?”
+
+“That’s the first thing I checked when Kasta brought you to me, Sherly,” Ishuin replied. “If you did have it, we might’ve already killed you.”
+
+“Oh… Good thing I didn’t have it then.”
+
+“Now, I’m not sure if you can become a carrier one day. That’s also part of the reason why we kept you alive, and why I want you to stay with us. We lack a lot of information regarding these demons. And you’ll be a good resource to study.”
+
+“What if I don’t want to develop my demonic side? What if I find a way to keep it dormant?”
+
+“Then I’ll be a lot happier for you, Sherly.” Ishuin smiled. “I would prefer that, actually.”
+
+“Oh…”
+
+“Did you think I would say otherwise?”
+
+“No…” Sherly cleared her throat. “Actually, yeah. Sorry.”
+
+“I’d rather that you become someone I can fully trust, Sherly. That’s preferrable to you becoming a mere subject for studies. If you can become both… Well, in that case, I’ll take what I can.”
+
+A sudden awkward air developed after that small conversation. Sherly tried to concentrate on looking for signs of a unirat. She didn’t exactly know what to look for, aside from footprints or rat hair. So far, no luck. And the sudden dead air wasn’t helping her focus at all.
+
+”So are there any bandits in this world, or what?” she asked, trying to break the ice.
+
+“There are. And Captain Braum and his companions are considered bandits,” Ishuin clarified. She seemed to notice none of the awkwardness at all. “In the sense that they are not allowed within the premises of the Cancer’s civilized territories.”
+
+“Why not?”
+
+“Their captain committed a grave sin.”
+
+“Which is?”
+
+Ishuin kept pace with Sherly, but decided to consider whether to answer the question or not. As for the cow, she exercised her patience. She understood that if the elf chose not to give an answer right away, for whatever reason, she was not owed to have one.
+
+“He switched Zodiacs,” Ishuin said finally.
+
+Sherly shifted her head, then tilted it one side. With the way it was presented to her, it seemed to be a rather serious sin to do, switching to a different Great Zodiac. The concept was foreign to the cow girl. And it had taken much of the flexible part of her understanding to not outright reject the idea. However, she couldn’t find the right words to explain her situation without being overly dismissive of it.
+
+Fortunately, Ishuin seemed to have noticed her struggles.
+
+“Your Zodiac Signs were given based on when the person was born, if I remember correctly.”
+
+“Yeah.”
+
+“As I’ve said before, in this world, a Great Zodiac will bestow their favor to those who share their ideals. The days of the year have something to do with their Divine Authorities, but we aren’t privy to how those actually work. As for their favor, sometimes, a person can garner the interest of multiple Great Zodiacs. If so, this extremely gifted person gets to choose which one to align with.
+
+“In Braum’s case, he was originally with Lady Kansa. Now, he’s with Lord Cidra.”
+
+Ishuin purposefully stopped herself from disclosing the Zodiac of Lord Cidra, Sherly noticed. The elf’s curious look also suggested a silent challenge for her to take a guess.
+
+“Libra,” said the cow girl, answering the implied question. “Just a guess, based on the sound.”
+
+“Amazing!” Ishuin said. “I find these similarities and differences so fascinating!”
+
+“Why did he change sides?” Sherly asked, refusing to let the elf Wielder from going too far off topic. “And how?”
+
+“Oh… I’m not exactly sure,” Ishuin admitted. “I wasn’t part of his Cancer’s Claw. Though, Lady Kansa expressed a deep regret when she conveyed to me that Braum had left. You see, aligning yourself with a Zodiac is to become connected to them. You essentially bond with their soul and their Divine Authority. And if one severs that connection, both parties essentially lose a cherished part of themselves.”
+
+“Did Lord Cidra say anything about it?” Sherly asked. At this point, she remembered that she was supposed to be finding some unirats. She tried to focus, pulling herself from her own curiosity.
+
+Ishuin seemed to notice this as well, but she didn’t really make any effort to change her demeanor.
+
+“Communications between Zodiacs rarely occur,” Ishuin said. “I’m not exactly privy to a different Zodiac, other than the one whom I serve. Whether Lord Cidra said anything to Lady Kansa or not, that is between them.”
+
+The elf cleared her throat. “Maymay.”
+
+The dog-zilim appeared beside them. “I found a burrow.”
+
+“Excellent. Lead the way.”
+
+“Burrow?” Sherly asked. She didn’t question the new direction itself, only the destination. “A unirat burrow?”
+
+“Yep,” Maymay said. “I went ahead and looked for one after Lady Ishuin accepted Captain Braum’s request. It’s not far.”
+
+Like the dog-zilim had promised, it didn’t take them long to find the burrow. Before they even reached the place, Sherly had already sniffed the repulsive odor coming from there. The trees were many and magical indeed, but even they could not filter such a nasty stench.
+
+And now that the burrow was within sight, the cow girl saw something that she could only describe as an infestation. The trees were thinner and shorter here. They curled in an impossible spiral, bringing somewhat of a deathly beauty to the little life that remained in the place. They cut off eventually, leading to bareness all around a giant hole in the ground, underneath a brown hill. No grass, no flowers, just dirt and filth.
+
+Sadly for Sherly, she couldn’t cover her nose. Even Ishuin and Maymay were having trouble. They had facemasks on them, made out of cloth, but with the way they were frowning, it seemed those provided them with little reprieve, if any at all.
+
+Sherly could sense her Continuous Regeneration working, preventing her from feeling nausea or contracting some form of ailment. Still, it did nothing to make the smell any more bearable. But what she saw in front of her, after walking through soft dirt and mud, overwhelmed her even more.
+
+The burrow was gigantic.
+
+Footprints were all over the place. They were also of different sizes. The biggest one Sherly could find was something that was about her size. She was small for a cow, of this she was sure, but she had hoped that a unirat’s footprint would be half her size at the most.
+
+The burrow was deep. Now that they were at the entrance, the stench was at its most powerful. Given that it came from within, any sort of breeze that would enter it would inevitably carry back out the foul odor.
+
+Sherly couldn’t explain it. The closest thing she could probably compare it to was a septic tank, or a garbage dump. She had dared not come close to either of the two, and yet here she was, staring at something that could be potentially far worse.
+
+At least in those places, there were no monsters that would’ve wanted to kill me…
+
+That thought sent a chill up her cow spine. Her tail shivered and she forced it down to prevent her nervousness from showing.
+
+“Are we going in there?” Sherly asked in a whisper. “I don’t want to go in there.”
+
+“Going inside would be suicide, Sherly,” Ishuin replied, manifesting her spear while she tied her blonde hair into a ponytail. “Even as powerful as I am, there are better ways of dealing with a burrow full of unirats. I don’t want to deal with the smell. Maymay’s suffering enough. I wouldn’t want to be torn to shreds either.”
+
+“What’s the plan then?”
+
+“Maymay?”
+
+Ishuin turned to the dog-zilim, and Sherly followed. Maymay was tearing up. Her face was covered with cloth and both hands were on her nose, but they were doing nothing to help her crying and sniffing. She didn’t have a dog’s nose. Her face was mostly human with only dog-ears to indicate her zilim form. But her reaction told much about just how sensitive her sense of smell actually was.
+
+On Ishuin’s implied command, Maymay quickly rummaged through her backpack and brought out a satchel of small spheres wrapped in bandages. The elf took two handfuls and presented them to Sherly.
+
+The cow looked curiously but had no clue what they could be. She wanted to shrug, but her shoulders stayed in place. She tilted her head quickly instead, to try her best to mimic the gesture. It seemed enough to convey her message.
+
+“We’ll smoke them out,” Ishuin said. From within her hands, a small blaze ignited, causing the bandages to burn. Then she, along with Maymay, who had her own ignited smoke pellets, threw them into the burrow. “Step back.”
+
+Almost immediately, white smoke rose from the burrow. It had an opposing smell to it. Not good, but tolerable. It did an amazing job at overpowering the foul stench.
+
+Sherly checked on Maymay, who had gradually recovered from her suffering. The dog-zilim’s ears twitched. And the cow heard it right after.
+
+There were movements in the burrows. Lots of them. Lots.
+
+Sherly braced herself, and so did the other two, as a wave of unirats emerged from the burrow.
+
+There was no ceremony, no negotiations of any kind, no stare downs or anything of the sort. The moment the monsters emerged, it was an all out war.
+
+The entire place became a bloodbath.
+
+Maymay was a blur, drifting in and out of the shadows. With a dagger in each hand, she eviscerated every unirat in her path.
+
+Ishuin performed true to her name. She was a sharp whirlwind, and the unirats were helplessly sliced into bits. She was in full control of the destruction, making sure her allies were unharmed. Her mastery even spared the weird trees.
+
+And Sherly? Sherly was a desperate mess.
+
+She tried to ram a bunch of the unirats with her horns. While she skewered a few, they had immediately taken up the length of her weapons. Her horns weren’t exactly long yet. She shook them away, and that was when the single-horned rodents swarmed her.
+
+Scratches, bites, and stabs. Sherly immediately drowned under the wave of these rodents. They hadn’t even resorted to using their magical bolts. Pain was everywhere, and her Continuous Regeneration couldn’t keep up at all.
+
+She forced herself to stand, growling as she did. Not wanting to become a burden, Sherly started chomping down on whatever unirat she could reach, while running as hard as she could. She managed to return to Ishuin, who immediately took care of the rats that clung to her hair.
+
+“There’s so many,” Sherly said. Her wounds quickly healed.
+
+“Sherly,” Ishuin began. She pointed towards a group of unirats that had stacked together. They were standing on each other’s backs, forming a pyramid. “They’re forming up for a large Mana-Lance. My Slicing Vortex can’t block that. If I lose this, I might not be able to get it back up—!”
+
+“I got it!”
+
+Sherly stood right in front of Ishuin. In front of her, countless unirats were jumping to their deaths, trying to reach the elf or break her Slicing Vortex. She stayed her ground, waiting for the right time to jump out of the whirlwind to block the Mana-Lance.
+
+A glint of light was her only cue.
+
+The cow girl jumped, using her entire body to block the beam of piercing mana. She turned just in time to make sure it didn’t hit her head. She didn’t want to test out if Continuous Regeneration could solve getting pierced in the brain. The beam went straight into her shoulder, coming out of her back, but it was enough to weaken and redirect it out of Ishuin’s Slicing Vortex.
+
+Sherly collapsed to the ground, her foreleg unable to stand. Immediately, the swarm of unirats started munching on her. But before they could take enough to be considered dangerous, Maymay arrived and sliced through the shadows, causing red to spray and taint the cow’s hair.
+
+“Begone!”
+
+With Ishuin’s proclamation, her Slicing Vortex expanded and sliced through all the unirats at the same time. The entire place became red. And now, the smell of guts and iron combined with the rest, making a mix of something Sherly could no longer endure.
+
+The thought of vomiting quickly turned to a desire to eat. She didn’t even bother thinking about how it worked. It was much better than regurgitating.
+
+“Could you not have done that right away?” Sherly asked, munching on a random unirat tail. She was still waiting for her shoulder to heal.
+
+“I would’ve, if I could’ve,” Ishuin replied as she tried to gather the horns from the mass of corpses. “Obviously. Good job blocking the lance.”
+
+“I don’t even know how I managed to do it. It felt like freezing up would instantly mean death. So I just stopped thinking.”
+
+“Ugh, I can’t take it anymore!” Maymay said and turned, hurling her breakfast. “Gross…”
+
+“Get back here, Maymay,” Ishuin said. “There’s so many horns. I don’t think we need them all, but it might be better for us to stock up before they vanish.”
+
+“Vanish?” Sherly asked.
+
+“The Managrove is alive, Sherly,” Ishuin explained. “It’ll claim anything dead within a few minutes and use them to feed the trees. I doubt you can eat all of these, but if you don’t hurry up, you might not get your fill.”
+
+Sherly quickened her pace. As soon as her shoulder healed up, she started dragging her face across the corpses to get as many as possible in her mouth.
+
+Just as she was chewing, the ground shook.
+
+All three of them stopped what they were doing and turned to the entrance of the burrow. More unirats came out. Behind them, however, was a more sinister thing.
+
+First was its great horn. Mana was bending space around it, like a heat haze from the sun. Then the snout, then the burning red eyes. It miraculously fit through the hole as it stepped out.
+
+A colossal unirat.

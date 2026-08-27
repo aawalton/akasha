@@ -1,0 +1,155 @@
+---
+id: a2ee900d-38e9-551a-bd23-bb6091d07506
+page-type-slug: story-chapter-royal-road
+title: "273. The Power of the Godhunter (III) "
+slug: 0029-273-the-power-of-the-godhunter-iii
+partOf: speedrunning-the-multiverse-complete
+position: 29
+ownLength: 1777
+unit: words
+ownProgress: 1777
+publishedAt: 2023-07-29
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1292644/273-the-power-of-the-godhunter-iii"
+royalRoadId: "1292644"
+markedReadAt: "2026-06-29T22:42:39.499Z"
+---
+
+For so long Jez had seen the virtue of keeping a certain childlike innocence. A sense of wonder. A boundless kindness toward every living being.
+
+He saw now why children grew up. It was a way of living out of step with the world. The world as it was now, at least.
+
+Kindness was so tiring. Not physically, nor mentally, but emotionally. For a time Jez had made it a point to live among the tribes he was about to conquer so that he could feel the weight of what he was about to do. He broke bread with them and laughed and told tales around their bonfires. Sometimes he even wedded their kind. It was a way of treating life with dignity. It was a way of separating him from mere monsters, mere tyrants. It was a basic kind of empathy all living beings deserved.
+
+Yet none of his enemies burdened themselves with such trifles. They spared no thought to those they crushed underfoot. And why should they?
+
+‘Dignity’? ‘Respect’? What difference did it make if he dug a grave and wept for a man he’d slain? The man was dead regardless.
+
+The only difference, he supposed, was in himself. In his honor. Morals. Character. Ideals. And even now they meant something to him; they moved him deeply; in quiet moments they still welled tears in his eyes. They were the basis of all of this.
+
+But they were things reserved for his new world. Not this one.
+
+You could not measure honor. You could not stopper an ideal and drink it. But power was real, tangible, and in this world power—winning—was paramount. Only winners had the luxury of kindness.
+
+Until the world was his, he could ill afford to weary himself with empathy.
+
+Take, for instance, the screams echoing down the corridors of his dungeons. The screams he was plodding towards, step by step. In times past they would torment him. Even now his instinct was to wince as he heard them; they roused a throbbing horror in his heart. Some part of him—perhaps the part that made him him—cried out.
+
+This was good. It meant he was still human; it meant he still cared.
+
+Yet for now, gently, he quieted those anguished cries within. He let the screams outside become mere noise, mere sound, signifying nothing. By the time he approached the door at the end of the corridor he was calm.
+
+He took a long, slow breath, steeling himself, and stepped through.
+
+The room was overgrown with machinery; pipes and gears and cables and bulging steel engines clung to the walls like vines to a tree, groaning and puffing steam. Thick cables joined them to the centerpiece of the room: two metal tables scrawled with hundreds of runes. On them were two human Godkings fitted with qi-suppressing bracelets. They were writhing, and from them came the throes of dying animals. Red smoke leaked from their bodies. Their eyes were pits of shining gold.
+
+Aurus, Godking of Flora. And Nuwa, Godqueen of Life. Jez had chosen them for this particular project since their Daos were kin to one another. He was hopeful it would smooth the fusion process.
+
+The only other person in the room jumped when he entered. Rithius, the Master Artificer, a squat white-bearded goblin with a thick pair of spectacles, sweating so hard his beard looked like a wrung towel.
+
+“There’s no need to fear,” said Jez, laughing softly. “It’s just me.”
+
+If anything Rithius looked more frightened at that. Jez sighed.
+
+“How is the project coming along?”
+
+Rithius wiped a splashing of sweat off his brow. “W-well, Master Jez. Well,” he said. His voice was soft, weak, trembling slightly. Almost totally drowned out by the screams.
+
+When Jez had first approached Rithius for this project, the Master Artificer had protested. Rithius was an artist, a craftsman—he would not be an instrument of war! When he heard Jez wished for him to conduct biological experimentation he vigorously protested. He demanded Jez leave his lab immediately. He had a naturally soft voice, but he could still put some fire in it.
+
+Yet Jez was lucky that in the end Rithius had proved malleable. Rithius was an affable fellow by reputation, untested by war, unbroken by loss. He was merely a bubbly scientist at heart, eternally curious, used to being lost in his little world of pure exploration. But his lab could not seal out the world forever. When Jez found him, and captured him, and subjected him to Jez’s methods…Rithius was a kind, curious, gentle soul. Soft. Weak.
+
+He didn’t last a day.
+
+Still, though, Jez had only bled his body. He’d not managed to bleed out Rithius’s ideals with him. The Godking was shivering as his great machinery whirred ever harder and black lighting began to play across the bodies. He looked like he might faint any moment.
+
+“If I may,” said Jez, gentle as he could. “A piece of advice. You must quiet the voice of empathy. You can let it in after the battle is done. For now, think only of the cause. You are doing the right thing. That is all that matters.”
+
+He wasn’t sure whether he was speaking to Rithius or himself. Rithius nodded. He did not seem convinced.
+
+This was a necessary evil.
+
+One of Jez’s key weaknesses had been made plain to him in that battle in Hell. Very few of his bodies could withstand the full power of the Infinity—like balloons swelled until they burst.
+
+What if he could create bodies that could suit his needs?
+
+He had the raw materials. The time-honed bodies of over a hundred Godkings in his possession. Now it was simply a matter of testing.
+
+Their first attempt had gone disastrously. The Godkings perished after a day of agony. Their second, equally as poorly. But with each failure they’d learned and tweaked.
+
+This time Jez was hopeful.
+
+But if it failed, no matter.
+
+They were hardly lacking for bodies.
+
+***
+
+As the party raged above, Dorian took a set of winding stone stairs which crept deep into the lightless heart of the mountain, whistling as he went. There was still one final chore he had to do.
+
+For a while there was only his panting breath in the darkness. Sight did him no good, but his other senses took up the slack, mapping the space before him; the echoes of his footfalls, a drifting stale stench, his wings brushing the path ahead. It all coalesced into a sort of wireframe image in his mind, a second sight. Lower and lower he went.
+
+There were some defenses. He tripped some invisible wire and the ceiling fell on him. Or rather, crumbled off him. He hardly noticed it. A bunch of arrows shot out the wall. There was a ward at some point, but he breathed on it then kept walking. How far does this thing go?! It’s been an hour! I must be under the mountain by now!
+
+Then his true vision came alive again.
+
+Slowly but surely, then faster, more sure, the way the first rays of the dawn lighten the sky. The stairwell was hazy with gold, then flush with it as he drew nearer. He rounded one last bend, and gold was all he saw.
+
+There was only one light source in the stone chamber; tendrils of gold ran up to it through the ground like roots off a tree. It was planted in the rucked-up ground, one giant diamond twice as big as he was, perfectly cut. It waned, then brightened, then waned once more, as though it were throbbing. Several Godkings’ worth of pressure rolled off it.
+
+The Infinity Heart.
+
+The source of Jez’s power on a realm. The item that connected it to Jez’s vast network.
+
+His first thought was, can I eat it? There was no harm in trying, he supposed. He put his hands to its surface and tried drawing it in, just as he’d done with Salas.
+
+It was the qi equivalent of trying to eat something far too hot, and spitting it back out in haste. Gold qi splattered the walls. “Eugh.”
+
+This qi was bound to someone else, to his annoyance.
+
+He rolled his eyes. Might as well be a good Godking and do what he was told…
+
+“Hmm,” he muttered. Which to go with? Now he had so many choices! But probably it was best to be direct.
+
+***
+
+Jez flinched, gasped.
+
+“What?!”
+
+Rithius asked something, but Jez only saw the movements of his mouth; his eyes rolled up, staring at something far away.
+
+A vision came to him. The dragon-realm. His Infinity Heart deep in the bowels of Mt. Tai.
+
+“YOU!”
+
+Dorian, fists alive with qi, was bashing at his heart with abandon. Each hand was so laden with qi it warped the air around it. You could never throw a punch like this in a battle; it was too slow, too ponderous. But here he had a sitting target.
+
+What of Scraggletooth?! What of his defenses?!
+
+Jez screamed in frustration.
+
+“USELESS!”
+
+Must he do everything?! All his men—utter fucking incompetents!
+
+Scraggletooth had better hope he was dead. For if he wasn’t—
+
+“Phew!” said Dorian. “That was a lot.” He wiped some sweat off his brow, sat down, then took out a huge jug of qi elixir. He was recharging, taking his time. And why shouldn’t he? There was nothing Jez could do about it.
+
+There were times when Jez wondered about the world of his dreams. Could such a place admit a creature so foul, so weak, so incompetent as Scraggletooth? As all his so-called followers in the dragonrealm? Did they truly deserve to live in a community of eternal happiness—when they’d done nothing to earn it? Nothing but fail him again, and again, and again? Perhaps they instead deserved eternal fucking suffering. Perhaps his dungeon ought to admit a few more floors, and a few hundred more screams—
+
+“—my lord!”
+
+Jez blinked.
+
+Rithius was on his knees, clutching at his hands, pleading.
+
+The floor around Jez’s feet had melted so badly he sank a foot into it. Two of the pipes had ruptured.
+
+“Ah,” he breathed. He felt his heart slowing. “You may let go now, Rithius. I am… calm. Calmer.”
+
+He’d had a fit again. He rarely had them before; of late they’d been coming on with frightening regularity…
+
+“You were saying things,” whispered Rithius. “Such—such awful things—”
+
+“Mere words. I meant none of them. That was not me. I merely lost myself in anger,” said Jez. He laughed but it sounded a little strained, even to him. “Don’t we all, on occasion?”

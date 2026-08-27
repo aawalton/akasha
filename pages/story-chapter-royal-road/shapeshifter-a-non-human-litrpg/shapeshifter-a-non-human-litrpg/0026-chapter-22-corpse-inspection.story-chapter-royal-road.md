@@ -1,0 +1,135 @@
+---
+id: a42e0ab3-0d33-5b35-87b7-b5da60249748
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Corpse Inspection"
+slug: 0026-chapter-22-corpse-inspection
+partOf: shapeshifter-a-non-human-litrpg
+position: 26
+ownLength: 1710
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3523890/chapter-22-corpse-inspection"
+royalRoadId: "3523890"
+---
+
+Alex tore away part of the barricade they had set up to keep the Acid Slimes out of the tower and slowly lowered his shield in confusion.
+
+"Where are the Acid Slimes?" he asked nobody in particular, sticking his head through the gap. The black stone outside had a faint, wet slickness to it—the unmistakable residue of Acid Slimes—but the pools themselves had receded, and not a single slime stirred in the amber light.
+
+"That's a good thing, is it not?" Daisuke yawned from somewhere behind him. "Now we don't have to fight our way out."
+
+"I suppose," Alex muttered, retreating from the gap. "But if the Acid Slimes are gone, what happened to them..."
+
+He met Hina's gaze. She was already looking at him, faintly tilting her head toward Yuki.
+
+Ah. Alex's stomach tightened a notch. I forgot Yuki was down here alone last night. Did he deal with the Acid Slimes for us?
+
+He glanced at the alleged F-rank Healer with questions he didn't dare demand answers to. The Elf looked harmless—he would give him that. Short stature, sporting beginner robes, and a healer staff that looked like it was bought from a pawn shop. But Yuki possessed more endurance than he or Kenji, a larger mana pool than Daisuke, and seemed to avoid Hina's detection with ease.
+
+There was no doubt about it. Yuki had to be S-rank at the very least. His motives were impossible to grasp, but Alex wasn't going to poke the hornet's nest to feed his curiosity the way Hina had been doing. The whims of the strong were better left unquestioned.
+
+"Well, whatever dealt with them has done us a favor," Alex said, raising his shield with a forced chuckle. "Let's get out of here."
+
+He prepped his shield before him. "Shockwave Slam," he said, and the tightly packed porous boulders and shards of amber detonated before him. He strode through the dust and falling rubble, and his party spilled out into the open in his wake.
+
+"There's an Ashrock Colossus," Hina said abruptly.
+
+"What?" Alex spun, shield already coming up. "Where?"
+
+"I think it's dead." She pointed.
+
+Alex followed her finger and saw it—a titanic beast the size of a barn, slumped into an acidic pool, unmoving. Stone limbs jutted at broken angles, half-submerged in steaming amber.
+
+Was that also Yuki? Alex thought, biting his lip. S-rank or not, a Healer shouldn't be able to topple an Ashrock Colossus by himself. I'll be able to figure out more by inspecting the corpse. If it took damage the same way as the bodies in the tower, I might have a lead. But if it suffered holy damage, then there's a chance Yuki finished it off.
+
+He didn't even want to entertain that possibility.
+
+"Keep your eyes sharp, everyone," Alex said, stepping forward with his shield raised and ready. "Whatever killed this beast may still be lurking."
+
+The others fell into formation without needing to be told—Alex in the front, Kenji at the rear, Daisuke and Hina between them, and Yuki, of course, in the middle of it all.
+
+Protecting the Healer, Alex thought, the irony making him frown. As if he needs it.
+
+Reaching the Ashrock Colossus corpse, more questions arose. The corpse was in terrible condition, and not the kind Alex had seen before.
+
+Its insides were not crushed or rotten. They were missing, as if something had reached inside the stone shell and scooped out everything edible. Not even blood remained. The featureless head was the only piece still recognizable. It sat slumped in the acidic pool with the rest of the body splayed around it in chunks—boulders of black rock launched outward in a rough circle and embedded in the ground at violent angles, some half-buried in the porous floor stone, one driven straight through a four-meter amber crystal that had cracked under the impact and now hung lopsided from the ceiling.
+
+It was clear that the Ashrock Colossus had fought to the death and died brutally.
+
+Alex took it in for a long moment. Then he surveyed the surroundings to see who could have done this.
+
+"Daisuke, I need to know what happened here," he said sharply. As the leader, it was his responsibility to keep his members safe, and whoever could do this could do it to them, too.
+
+"Already on it," Daisuke murmured, kneeling without his usual theatrics.
+
+For all his crazed ramblings, Daisuke knew his stuff. While Hina was great at detecting and tracking active threats, Daisuke was the man for uncovering the past by studying the mana residue left behind.
+
+Daisuke drew a slow breath, and pale mana clouded his eyes as he leaned over a wide crack in the colossus's split flank. He stayed there for a long time, his lips moving without sound.
+
+When he stood up, he didn't look at Alex.
+
+"Three signatures," he said. "Maybe four. The residue is thin due to the Ashrock Colossus's natural mana resistance. Still, I can pick out radiant mana, layered rot, and something corrosive that doesn't quite match the Acid Slimes' natural acid, as it seemed created from mana." Daisuke paused and glanced at the fallen beast. "The radiant mana strike was deep. Through the magic resistance, which shouldn't be possible without the beast being weakened first."
+
+"I think the beast was being played with," Hina said while leaping down from its back.
+
+Alex's jaw tightened.
+
+"What about the rot?" Alex asked Daisuke. That concerned him the most, as the radiant mana could have been from Yuki, but the rot? That pointed to someone or something else.
+
+"Incredibly potent and clearly targeted. We aren't dealing with a monster that can spread rot here. I believe it's someone who can control rot with skills."
+
+"Shit," Alex said, not needing to elaborate. A mage that could wield rot was a nasty person to face, but with Yuki here to cleanse them of their alignments, they had less to fear. He glanced at the Elf. He was remaining silent, the mask hiding his expression, but he seemed interested in the conversation, yet also uneasy.
+
+He knows something we don't, Alex summarized. But he isn't willing to share it.
+
+Kenji let out a low whistle. "So someone or a group fought the Ashrock Colossus, beat it down to its weak points, killed it with magic, which is nearly impossible, and then ate it from the inside?"
+
+"I found Acid Slimes," Hina said.
+
+Everyone turned to her.
+
+She was crouched a few meters off, near a crusted yellow puddle that had been a slime once and was now mostly amber sludge. Around it, smaller broken cores lay scattered like spilled marbles. She raised a few pieces and inspected them.
+
+"Shattered with magic and seemingly all at once as they died in a clumped group," she discarded the pieces and stood, pointing at the Ashrock Colossus. "I found Acid Slime residue on the outside but not inside. I think whoever killed them returned, finding them trying to melt the corpse, and wiped them out."
+
+"Radiant mana again," Daisuke confirmed as he joined Hina in inspecting the Acid Slimes.
+
+"I see," Alex muttered and wondered how to proceed. He could feel Yuki's gaze on his back as he considered what to do. "Yuki," he eventually said, turning to face the elf. If he tensed at the question, he didn't show it.
+
+"Yes?" Yuki asked, tilting his head. "Do you think I did this?"
+
+Alex froze. That was a strange thing for an F-rank Healer to say. Who would possibly assume he was responsible for this just because of the radiant mana residue? But with a response like that, it all but confirmed it to him. Yuki was either directly responsible or had seen the fight.
+
+He shook his head despite his inner thoughts. "No, of course not. Other classes make use of radiant mana, and a Healer couldn't possibly destroy an Ashrock Colossus by themselves. My concern is this rot. If we encountered someone capable of using rot magic, would you be able to cleanse us of it? Because if not, we will have to turn back now and flee this place, as I don't want to endanger my allies, which includes you."
+
+Yuki looked like he was about to say something but paused. "I... yes, I can cleanse it."
+
+Alex nodded. "Good. Then we can proceed to the second tower."
+
+Leaving the Ashrock Colossus corpse behind, Alex led the party across the porous rocky terrain, with Hina leaping between the amber crystals and scouting the land before them. There was a strange friction between the party members that Alex was picking up on, especially with Yuki.
+
+He seemed to be wrestling with something internally, and Alex, against his better judgment, decided to speak up while Daisuke and Kenji were discussing something.
+
+"Yuki," he whispered, falling into line with the Elf. "I can't say for the others, but I can keep a secret. If there's something you want to tell me, especially if it will improve the safety of the party, I'd be honored if you could share it with me."
+
+Yuki looked up at him, and he could feel the suspicious appraisal behind the mask.
+
+"You're strong," Alex pressed. "Maybe even S-rank, no?"
+
+Yuki almost missed a step.
+
+"Whatever your reasons are, I don't care. Your assistance so far has been invaluable, and I'd love for us to keep working together. Just let me know what you need, and I can try to make it happen."
+
+"I'm not S-rank," Yuki insisted. "But there is something I wanted to warn you about."
+
+"Is it about the rot or the Ashrock Colossus?"
+
+"No, it's about the second tower," Yuki said, looking up at the tower as they climbed a hill of porous rock to reach its entrance. "There's a..." he paused and seemed to change what he was going to say. "I might disappear for some time to deal with something inside. Cover for me when I do."
+
+"Are we in danger?" Alex asked, raising a brow.
+
+Yuki didn't answer him directly and stared at him for a long moment.
+
+"I'll handle it," he said and looked away.
+
+Alex didn't like the sound of that one bit but dared not press further.

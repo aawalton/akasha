@@ -1,0 +1,233 @@
+---
+id: 068c2feb-6fa7-5e73-aea8-1a333c028916
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 - Cow and the First Town"
+slug: 0007-chapter-7-cow-and-the-first-town
+partOf: sherly-the-most-virtuous-holy-cow
+position: 7
+ownLength: 2210
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525748/chapter-7-cow-and-the-first-town"
+royalRoadId: "2525748"
+---
+
+Chapter 7 - Cow and the First Town
+
+”Whatever reason you may have, Lady Ishuin, we can’t allow a demon-cow into town!” said one of the guards manning the huge gate. “She’s going to induce panic. No one will understand, even if you’re there to explain to them.”
+
+Sherly sighed. “It’s fine, Ishuin. I can just stay with the carriages.”
+
+The various carriages that made up the Cancer’s Claw’s caravan were parked outside the town, settled neatly and properly on the side of the road in order to not hinder any passersby. Sherly questioned the security of such a decision, but she remembered that she wasn’t of this world, and didn’t have all the information needed to judge it. She headed towards it, but the elf Wielder gripped one of her horns and forced her to face the guards.
+
+“Ow!”
+
+“Look at how small she is,” Ishuin started. “What damage can she do? She’s alone. She doesn’t even know how to cast Fireballs. All she can do is regenerate on her own. You can ask any of my warriors, they can tell you that this demon-cow, Sherly, fought against her own kin, and won! You can even hear her speak, for Kansa’s sake!”
+
+The warriors Ishuin spoke of had already entered the village, along with the survivors and the dead. They had an easy time entering. Sure, they could’ve snuck Sherly within the line, since she was difficult to differentiate from a normal cow in the first place. But both she and Ishuin had agreed to only resort to such tactics during desperate situations. They didn’t want to be caught in a problematic scenario where commotion would quickly go out of their control.
+
+If Sherly were to convince people that she was good despite being a demon-cow, she understood that she must come from a place of honesty.
+
+That, however, also meant she had to face stubborn people, unwilling to change their perspective.
+
+“I’m sorry, Lady Ishuin,” said the same guard. There were two of them, Sherly noticed. The other one was just silently watching her. “We can’t take the risk, regardless of what you say. A demon is a demon. She’s lucky that we haven’t even killed her yet.”
+
+“You will do no such thing!” Ishuin exclaimed, mana raging around her, causing the speaking guard to flinch. With an angry huff, she turned around and stomped away from the town gates.
+
+At least she let go before dragging me away…
+
+Sherly cautiously followed. When they arrived at the caravan, the elf let out an angry squeal.
+
+“Those good for nothing, arrogant, stupid… Worthless!”
+
+“Hey, Ishuin. It’s okay,” Sherly said. “I’m completely fine with staying here. I can probably find some food. In fact, I’m not really that hungry yet, after eating so many demon-cattle.”
+
+“That’s not the point!” Ishuin shouted.
+
+Sherly flinched away from the angry elf. Not because she was afraid, but because she didn’t know how to calm her down. She already considered the elf her friend, but they were nowhere near close enough for her to be comfortable clashing with such anger. No matter how trivial or small the cause of it was.
+
+Fortunately, Ishuin caught herself. “Sorry. I shouldn’t have screamed at you.”
+
+“Look, I’m really happy that you’re trying to help me out, Ishuin. I don’t even know why you’re being so nice to me. But really, I’ll be fine out here.”
+
+“No, I won’t let you be on your own, Sherly,” Ishuin said.
+
+Before the cow girl could speak, the elf Wielder raised a hand.
+
+“Maymay,” she said.
+
+Suddenly, the dog-zilim appeared out of nowhere. “Yes, ma’am?”
+
+“Inform Kasta that she’ll be covering for my duties while we’re in Crossmark. She’ll coordinate with the survivors on where to bury their dead. If any of them choose to stay, tell her to let them.”
+
+“Right away.”
+
+Sherly noticed Maymay take a glance at her.
+
+“Would it be alright if I stay here with you and Sherly, Ishuin?” the dog-zilim asked.
+
+“That’ll save us some time for tomorrow,” said the elf. “As long as you’re fine missing out on the tavern, you can stay here.”
+
+“Yeah, I’m not too fond of that, anyway.” Maymay smiled and brightened up, as if to telegraph that a brilliant idea had formed in her head. “Oh, I can bring some food out, if you want?”
+
+“I’ll have my usual then. Thank you.”
+
+“Sherly?”
+
+“Any sort of meat,” said the cow girl. “Thank you.”
+
+With a smile, Maymay disappeared again.
+
+“That was a Skill, right?” Sherly inquired. “Maymay disappearing, I mean. Or was she teleporting?”
+
+“Are those actual things that people can do in your world?” Ishuin asked. “Or are they also part of fiction?”
+
+“There’s no magic where I came from. Everything was done through research. Science, if you know what that is.”
+
+“Science here involves magic, still.”
+
+“Well, I’m pretty sure your studies are more interesting than ours, then.”
+
+“To answer your question about Maymay, she’s able to teleport short distances, yes. Her hearing is quite exceptional as well. She can easily recognize my voice and know when I’m calling her even from far away.”
+
+Ishuin gestured towards one of the carriages, urging for Sherly to follow. The cow girl did as asked. As soon as she got close, the elf made a sign with both hands.
+
+Mana surrounded them, originating from the carriage. Sherly observed, as the vehicle expanded, enclosing the two of them within. The ground was replaced by a wooden floor, with carpets to add comfort. Chairs and sofas surrounded them. A table, too. Each of the walls had its own intricately framed window, and two doors could be found on each end.
+
+On one corner of the room was a soft, round, low sofa. Sherly took it as her own spot, lying down to rest her legs.
+
+“I’m not going to lie, I think this is better than whatever’s in that town,” she started. “Quiet, cozy. I don’t mind staying here at all.”
+
+Ishuin took one of the long sofas. She gave a long sigh, relaxing and putting her legs up.
+
+“This one was made through applied science,” the elf explained, getting back on topic. “Magic and technology working together to make a carriage that can expand to a small room, with basic comforts. I can choose to create a kitchen and a wardrobe if needed, but we have no need for either at the moment.”
+
+“Ah, that reminds me,” Sherly started. “I’ll need clothes when I become a zilim.”
+
+“You’ll need those the moment you become a chilim, Sherly,” Ishuin noted. “Just evolving to that level will have you standing on two feet. Most of your parts will adjust to a humanoid form. The only issue you’ll have is your head and skin, but you’ll be as bare as any other human, or elf, or whatever else standing on two legs, with only your cow hair to provide you some cover.”
+
+“How soon am I supposed to reach that evolution?”
+
+Ishuin shrugged. “Ask Letters?”
+
+“Letters? Are you there?”
+
+[You acquired a lot of Evolution Strains from all the demon-cattle that you consumed. If you can gather a few more, we can spend those Strains to make a chilim Trait. You’ll have limited options at first, but you can eventually evolve into a zilim.]
+
+“Get Strains to acquire Traits, sounds straightforward enough,” Sherly said after conveying Letters’ explanation to Ishuin.
+
+[Well, there are some things that can make your decision-making a bit complicated. And I suggest that you learn them now.]
+
+In order to skip the process of retelling everything that Letters had written on the screen in front of Sherly, Ishuin got up from the sofa and sat beside her.
+
+“Yeah, Letters is right, Sherly,” said the elf. “You should learn about these things, even the most basic ones.”
+
+“What are these things exactly?” Sherly tilted her head, a little confused.
+
+[Well, let’s start with what you’ve experienced already. You gain Levels by killing monsters. A Level will provide you with the ability to learn a Skill or improve a Skill that you already have. As a demon-cow, you gain the ability to obtain Evolution Strains by consuming monsters, on top of other available options.]
+
+“It’s different for the others?” Sherly inquired.
+
+“People who choose to evolve will need to acquire their own Evolution Strains to convert into Evolution Traits,” Ishuin started. “There are many ways to acquire that. Eating is one of them.”
+
+“What’s the difference between learning a Skill with an Evolution Strain and learning a Skill from a Level?”
+
+[There isn’t,] Letters wrote. [There are some Skills that could be acquired with only a Level. There are some that require both a Level and some Evolution Strains. There are even a few that require an Evolution Trait.]
+
+“Oh, so those that choose to evolve have an additional set of Skills to choose from?” Sherly turned to Ishuin. “Why didn’t you choose to evolve? Is it because it’s backwards?”
+
+“Backwards?” Ishuin tilted her head.
+
+“Turning into an animal.”
+
+“I think you’re confusing things. How you view evolution is subjective. People who choose to do so, do so voluntarily. They’re an improvement.”
+
+“So why didn’t you?”
+
+“What I want is difficult to find.” Ishuin scratched her head. “I’m looking for a Draconic Evolution Trait.”
+
+“Oh… I suppose that’s difficult to find.”
+
+Ishuin couldn’t hold her laugh. “Okay. You’re really not from this world.”
+
+“I thought we already settled that?”
+
+“We did. But I suppose this just further proves it. A Draconic Evolution Trait doesn’t exist, Sherly. They’re stories of myth. Fairytales.”
+
+“So that’s not why you chose not to evolve?” Sherly slumped her head on the sofa and sighed. “You’re confusing me.”
+
+“Well… They are myth, but I am looking for one. Keep it hidden from Kasta and the others. It’s a secret only a few people know. Because they’ll laugh at me for having such a dream.”
+
+“But you said Maymay can hear you, right?”
+
+“Not inside here.”
+
+“Oh. Alright. I’ll keep it a secret, promise.” After resolving this small tangent, Sherly turned her attention back to Letters. “So what you’re saying is that I might want to use my Evolution Strains on some Skills as I level up?”
+
+[Correct. In fact, you’ve gained three more Levels after defeating the herd of demon-cattle.]
+
+“How many Strains do I have?”
+
+[52.]
+
+“How many Strains do each Skill need?”
+
+[Depends. The cheapest ones require one Strain, out of those Skills which require Strains at all. The most expensive one you can currently learn at your Level needs five Strains.]
+
+“How much do I need for an Evolution Trait?”
+
+[Cheapest one is 60, and the most expensive one is 120.]
+
+Just then, something clicked in Sherly’s mind. She turned to Ishuin. “Wait! You said you’re looking for an Evolution Trait, right? Can’t I just find mine and then have it for free?”
+
+Ishuin shook her head.
+
+[That was my first suggestion, Sherly. If you acquire a Humanoid Evolution Trait straightaway, then you can skip a lot of the chilim steps. You might just need two or three of these Traits to jump straight into your zilim form.]
+
+“But that requires…”
+
+[A lot. Traits are difficult to find. You’ll have to consume a large amount if you’re looking for one.]
+
+The thought made Sherly uncomfortable. “Yeah, we’re not doing that. How expensive are Humanoid Evolution Traits, if I’m trading them in with Strains?”
+
+[Five hundred Strains. And you have to be a chilim, if you want to acquire them through the Evolution System.]
+
+“And you said I might need two or three?”
+
+[Depends on how you get there. You might need less, you might need more. We’ll only know as you progress.]
+
+“Makes sense. Anything else I need to know?”
+
+[Well… Like I said, you have three Levels now. You can either learn a new Skill or improve Continuous Regeneration in any combination thrice.]
+
+“How much does it cost to upgrade Continuous Regeneration?” With a mental prompt, Sherly asked Letters for the Skill Description of it. A second screen appeared to grant her request.
+
+[2 Evolution Strains each,] Letters replied.
+
+“Can I learn any Skills that can improve my Mana-Regeneration?”
+
+[The actual Skill, Mana-Regeneration, is available for you. It doesn’t cost any Evolution Strains, but costs two Levels instead.]
+
+That made the decision easy for Sherly. “Awesome. I’ll take that Skill, then improve my Continuous Regeneration once.”
+
+[Just to be sure, I’ll need a confirmation on that, please.]
+
+“Yep. Confirmed.”
+
+“I don’t feel much stronger,” Sherly said.
+
+“The things you learned don’t show an immediate effect,” Ishuin said, standing up and stretching. She gave a wide yawn that caused Sherly to feel a little sleepy as well. “You’ll notice them tomorrow, when we fight.”
+
+“Alright. Can you wake me up when the food gets here?”
+
+“Sure. Maymay will wake us up. I’ll take a nap too.”
+
+Before either of them could even fall into a slumber, a sudden rapping on the door shook both of them awake.
+
+“Lady Ishuin, wake up!”
+
+The voice came from Maymay. She sounded distressed. Without a second thought, both Sherly and Ishuin went for the door.
+
+“What is it?” asked the elf.
+
+“It’s Duis! They’re throwing him out of town!”

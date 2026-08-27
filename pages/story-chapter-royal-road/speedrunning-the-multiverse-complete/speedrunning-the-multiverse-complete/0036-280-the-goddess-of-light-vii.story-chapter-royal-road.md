@@ -1,0 +1,173 @@
+---
+id: eace460a-aec1-515c-bbdb-e107fc5e3029
+page-type-slug: story-chapter-royal-road
+title: "280. The Goddess of Light (VII)"
+slug: 0036-280-the-goddess-of-light-vii
+partOf: speedrunning-the-multiverse-complete
+position: 36
+ownLength: 1744
+unit: words
+ownProgress: 1744
+publishedAt: 2023-08-09
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1304457/280-the-goddess-of-light-vii"
+royalRoadId: "1304457"
+markedReadAt: "2026-06-29T22:42:54.411Z"
+---
+
+It was easy to tell where Jez’s territory began. Just look to the sky—blue melting gradually into gold like some otherworldly sunset.
+
+Dorian’s crew crash-landed into a hill so hard it became a valley. He landed nimbly amid a heap of groaning Enforcers still climbing out of human-shaped holes in the ground.
+
+“Now where is this fortress?” he mused, scanning the landscape.
+
+“Jez’s forces have staked out the Summer Palace, your Holiness!” said Junior. “Please follow me.”
+
+He led the way.
+
+In the wrong direction for about an hour. Then Junior reversed course, apologizing profusely. He led the way for another hour in a direction Dorian was pretty sure he’d picked at random. It didn’t help that he kept second-guessing himself as he went. When they finally stumbled upon the Summer Palace even Junior was surprised.
+
+It was less a coherent palace than a series of buildings with domed roofs, circling a central tower with the biggest dome of all. It’d been around for ages, even before Dorian had taken the realm. The lore was some ancient Emperor had insisted on designing it himself, and out popped this hideous insult to architecture. It was wrapped in a thick blue shield which looked like a glass dome. It was conjured by an array glyph which was the Multiversal Standard for warding, duplicated many a time over across countless realms.
+
+“Wardbreakers!” called Junior, gesturing to a fleet of men with giant pickaxes.
+
+“No need for that,” said Dorian. He sucked in a breath, called up a good quarter of his qi, and blew. Dragonsbreath rushed forth.
+
+The wards shattered like they really were made of glass.
+
+The Palace stood naked in their sights.
+
+Gasps ran through his Enforcers. They looked to him with fresh reverence. “What power…!” said one. “Praise be the new Pope!”
+
+“Praise be!” Cried another. A third got was so inspired he went charging forth on his own. “For the Pope! For the Church!” He shouted, brandishing a sword two sizes too big for him.
+
+“Wait!” called Dorian, too late.
+
+The Enforcer vanished as soon as he stepped over where the array had been. Charged straight into nonexistence. Dorian sighed.
+
+“See what happens when you start thinking for yourselves?” he said, shaking his head. “Let him be a lesson to all of you.”
+
+“Um. What was that?” said Junior. “Where did he run off to?”
+
+“Oh he’s still there, in a manner of speaking. You just can’t see him. He’s trapped in a realm betwixt our own.”
+
+“Correct.” The voice was clear and melodic, drifting over from a balcony on the high dome, and though it came from far away they all heard it as if it was said at their ears. A figure there stood and flew toward them, shimmering in the light. As she neared and her appearance grew clearer there was a series of thumps on Dorian’s side. At first he thought she’d struck them with some kind of Technique. Then he realized it was just his Enforcers falling to their knees en masse. Their jaws dangled uselessly. It was eerie seeing their eyeballs all swivel in unison, tracking her perfectly as she moved closer.
+
+“Really?” sighed Dorian. “Minds like wedges of cheese, these ones.”
+
+“Well, you can hardly fault a fish for biting on a hook,” said Lucy.
+
+She appeared as she always did, a woman in a simple red dress. Catlike eyes, a button nose, a soft smile with an innocent charm. Looking at her felt like picking at a scabbed wound. “Must you always take that form?”
+
+“Can’t help it, can I?” said Lucy with a sly grin. “I am who you wish I am.”
+
+“Figures. I was really hoping your presence here was just a rumor.”
+
+“Dorian, Dorian, believe me—the feeling is mutual. It truly is terrible seeing you again. I hated fighting you when you were Yeshima. Hated you even more when you were Malachai. You have an incredible propensity for being annoying.”
+
+“If it’s any consolation, I detest fighting you too! Any chance I can convince you to step aside?”
+
+“Jez has offered me eighty thousand souls. Can you match him?”
+
+“I’m a bit light on souls at the moment.” He nodded at his troupe. “Will these forty nitwits do?”
+
+“Afraid not.”
+
+“Then can I pay you back after all this is done with? Come on! For old time’s sake?”
+
+At that Lucy let out a peal of laughter. “Oh, Dorian! After all this I expect you’ll be long dead.”
+
+He sighed. “More’s the pity.”
+
+“What you need,” said Lucy, “Is at the center of this World. I painted it just for you.” She nodded, and another ward enveloped the castle. This one was special: mottled shifting hues of purple and black, and it slowly dripped Laws of Life and Death.
+
+“If, on the off chance you survive all of what’s coming for you, you can find me on the beaches of Sylvian. It’s been too long. I’d love to catch up over some wine.”
+
+“If I’m alive, and not too ticked off by whatever mad nonsense you’ve concocted in there, I might just take you up on it.”
+
+“Pshh. Don’t be such a child! It’s just a job.” She waved one last time, winked, and dissolved into mist.
+
+Dorian tapped a feet for the next few breaths, waiting for his men to slowly regain sentience and pick themselves off the floor.
+
+“Did—did anyone else just see that?!” cried Junior. “The Goddess—her avatar—where’d it go?”
+
+“Goddess?” mumbled the Enforcer next to him. “What goddess?” He blinked. “Say— where’d that farm girl run off to?” The others blinked at him. “Y’know, with the bosom dangling out—”
+
+“Farm girl?” said the Enforcer next to him. “I never saw a farm girl.” Heavens, they were all starting to sound the same.
+
+“Everyone!” said Dorian. “Shut up. Stop thinking at once, I command it! There. That’s it. You there, in the corner, with the furrowed brows. You’re not still thinking, are you? Knock it off!”
+
+“Sorry,” mumbled the offender.
+
+“Good. Listen up! We are about to enter a dungeon of sorts. You need to know only two things—hold them in your mind, regardless of what you see or hear inside. The first. Follow Dorian. The second—this world was made to trick you! But it’s all fake. All of it. It cannot hurt you. Understood?”
+
+He left out a few key details—namely that that last bit wasn’t strictly true. But at this point he didn’t trust their minds to juggle three things at once. Besides—if they stuck to those two, really stuck to it, things should turn out fine.
+
+Probably.
+
+With a stiff gust of wind he tossed them in. He dove in straight after.
+
+***
+
+The Battle of Ur had changed everything.
+
+Before, Fate’s troops marched somber, as though to their dooms. But now they broke out in song as they went! They’d captured a few cities, slowly grinding their way across Hell. They were pushing Jez back, and Fate was feeling optimistic.
+
+Well—even moreso than usual, that was.
+
+It seemed Jez’s attention was split, what with Salieris mucking things up. It was Fate’s intention to take full advantage of it! If they could just cut to the Labyrinth in the next moon, and the rest of the Realms of the Resistance could just hold on, and the Wyrm-king showed up as he promised, and the Rocs came to their aid, and Dorian came back with new fire…
+
+They really could win this thing!
+
+They marched through the Soulless Desert. So named because it was void of all life and death alike; there was nothing here but smoking ashen valleys filled with soot. Once upon a time there’d been some ancient battle here, between two titanic Godkings. The land had never healed since. The only thing that moved here was the smoke, rising perpetually from the ground, muffling their sights.
+
+“Stay alert, everyone!” cried Fate.
+
+They were marching for the key Fortress Fangborn. It was smack in the geographical midpoint of the Nine Hells, which made it one of the most strategically important locations in all of the war.
+
+Which made it so strange why they’d encountered no resistance the whole trek through the desert. You could almost believe Jez didn’t know they were coming, things were so quiet.
+
+It made Fate nervous.
+
+“Sir!” A scout boy ran up to him. “We’ve sighted the stronghold! It’s just up ahead, up the slope—not five hundred paces!”
+
+“Oh! What of their army? How many Empyreans, how many Gods?”
+
+“There’s… no one.”
+
+Fate blinked. “What?”
+
+“No one’s at the gates. No one’s on the walls. It’s like it’s been abandoned.”
+
+A few breaths of marching later, Fate saw that it was true. A walled fortress with no torches lighting the walls. No sound issuing from within. Lifeless.
+
+His army’s first reaction was uproarious joy. “They heard we were coming for them and they ran!” shouted a general.
+
+“As they should!”
+
+“Haha! Look at me—all riled up for nothing!”
+
+“Friends…” whispered Fate. Why did he feel such dread? Fate put more stock in his feelings than most. More often than not, they were premonitions.
+
+“Break out the kegs—it’s time to—”
+
+“Friends!”
+
+“Eh?”
+
+“The gate… it’s opening!”
+
+Just one figure came out from that gaping block of darkness, just a smudge of deeper blackness in the hazy smoke. One figure, but two Godking auras. They both felt so familiar to Fate—yet something about them felt… off. He squinted, and saw what it was. Its Fate-strings were so tangled, so horribly knotted, he could hardly believe this was a living thing.
+
+His dread was spiking.
+
+A gust of wind cleared the air, and the figure came into full view.
+
+It had four arms and two heads. Its skin was a patchwork from two folk, sewn together. Its limbs were mismatched, one leg much shorter than the other, so that it limped as it moved.
+
+Rot spread around its feet. As it moved, shapes sprung into being around it—what looked to be trees and grass, except all made out of tar. Pus leaked from them constantly. Flowers bloomed at its feet, except rather than thorns it was studded with human teeth.
+
+Laws rolled off it, though not any Fate had ever seen. They were almost like Laws of Earth, and almost like Laws of Flora, the way a taxidermied animal resembles the real thing.
+
+“Nuwa?” croaked Fate. “Aurus?”
+
+Then, trembling—“What has he done to you?”
