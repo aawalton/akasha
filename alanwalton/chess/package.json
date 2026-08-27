@@ -23,7 +23,8 @@
     "./lib/maia": "./src/lib/maia.ts",
     "./lib/game": "./src/lib/game.ts",
     "./lib/loop": "./src/lib/loop.ts",
-    "./lib/persist-game": "./src/lib/persist-game.ts"
+    "./lib/persist-game": "./src/lib/persist-game.ts",
+    "./*": "./src/*.ts"
   },
   "scripts": {
     "test": "bun test",
