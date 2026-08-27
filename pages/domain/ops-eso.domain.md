@@ -10,7 +10,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Ops eso** — the commands that rebuild what the code repository carries of the ESO API.
+- **Ops eso** — the commands that rebuild what akasha carries of the ESO API.
 
 # Design
 

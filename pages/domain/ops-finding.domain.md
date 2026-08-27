@@ -17,4 +17,4 @@ required-reading-slugs:
 
 The repository a finding stands in is read off `pages/page-type/finding.page-type.md`, and no flag names it.
 
-The domain a finding is keyed to is validated against the instructions repository, whatever repository holds the finding.
+The domain a finding is keyed to is validated against akasha, whatever repository holds the finding.

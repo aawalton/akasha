@@ -16,4 +16,4 @@ required-reading-slugs:
 
 Every command but `work-tree` is one file serving several repositories.
 
-The domain a finding names is checked against the instructions repository whichever repository the finding lands in.
+The domain a finding names is checked against akasha whichever repository the finding lands in.

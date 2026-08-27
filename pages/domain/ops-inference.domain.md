@@ -17,4 +17,4 @@ required-reading-slugs:
 
 A command that runs a model opens a row for the run before it starts and closes that row as completed or failed.
 
-The two reconcile commands take the code repository as their workspace, wherever they are run from.
+The two reconcile commands take akasha as their workspace, wherever they are run from.
