@@ -68,3 +68,18 @@ export function statusesOver(ctx: BuildContext): ReadonlyMap<string, FolderShape
 export function statusesIn(root: string = akashaRoot()): ReadonlyMap<string, FolderShapeStatus> {
   return statusesOver({ roots: { [AKASHA]: root }, said: KEEPS_NOTHING })
 }
+
+const HELD = new Map<string, ReadonlyMap<string, FolderShapeStatus>>()
+
+/**
+ * The status of the one shape named, worked out from the check that shape names.
+ *
+ * EVERY SHAPE IS READ AT ONCE AND KEPT FOR THE PROCESS. Working one shape out walks the whole page
+ * index, and the deriver asks for each shape in turn, so asking per shape would walk it once per
+ * shape. A process outliving an edit to a check page reads the status from before that edit.
+ */
+export function statusOfShape(slug: string, root: string = akashaRoot()): FolderShapeStatus {
+  const held = HELD.get(root) ?? statusesIn(root)
+  HELD.set(root, held)
+  return held.get(slug) ?? HYPOTHESIS
+}
