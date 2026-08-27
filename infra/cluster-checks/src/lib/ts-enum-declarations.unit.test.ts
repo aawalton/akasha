@@ -89,7 +89,7 @@ describe("scanEnumDeclarations — declarations", () => {
   })
 
   test("file path passes through verbatim", () => {
-    const findings = findingsOf(`enum X { A }\n`, "packages/foo/src/bar.ts")
-    expect(findings[0]?.file).toBe("packages/foo/src/bar.ts")
+    const findings = findingsOf(`enum X { A }\n`, "foo/src/bar.ts")
+    expect(findings[0]?.file).toBe("foo/src/bar.ts")
   })
 })

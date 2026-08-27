@@ -176,9 +176,9 @@ describe("scanCollectionTypes — line/column and file passthrough", () => {
   test("file path passes through verbatim", () => {
     const findings = findingsOf(
       `function f(items: number[]): undefined {}\n`,
-      "packages/foo/src/bar.ts"
+      "foo/src/bar.ts"
     )
-    expect(findings[0]?.file).toBe("packages/foo/src/bar.ts")
+    expect(findings[0]?.file).toBe("foo/src/bar.ts")
   })
 
   test(".tsx file with prop array type is reported", () => {

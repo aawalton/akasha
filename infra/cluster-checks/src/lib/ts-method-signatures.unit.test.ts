@@ -137,8 +137,8 @@ describe("scanMethodSignatures — line/column", () => {
 describe("scanMethodSignatures — file paths", () => {
   test("filePath is preserved verbatim in findings", () => {
     const src = `interface Foo { f(): void }\n`
-    const findings = findingsOf(src, "packages/example/src/foo.ts")
-    expect(findings[0]?.file).toBe("packages/example/src/foo.ts")
+    const findings = findingsOf(src, "example/src/foo.ts")
+    expect(findings[0]?.file).toBe("example/src/foo.ts")
   })
 
   test(".tsx files are parsed correctly", () => {

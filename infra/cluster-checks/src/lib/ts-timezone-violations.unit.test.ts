@@ -3,13 +3,13 @@ import ts from "typescript"
 import { scriptKindFor } from "./syntax-scanner-entry.ts"
 import { scanTimezoneViolations } from "./ts-timezone-violations.ts"
 
-const parse = (source: string, filePath = "packages/temper/x.ts"): ts.SourceFile =>
+const parse = (source: string, filePath = "temper/x.ts"): ts.SourceFile =>
   ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true, scriptKindFor(filePath))
 
-const findingsOf = (src: string, filePath = "packages/temper/x.ts", allowEsoZoneOffsets = false) =>
+const findingsOf = (src: string, filePath = "temper/x.ts", allowEsoZoneOffsets = false) =>
   scanTimezoneViolations(parse(src, filePath), allowEsoZoneOffsets)
 
-const rulesOf = (src: string, filePath = "packages/temper/x.ts", allowEsoZoneOffsets = false) =>
+const rulesOf = (src: string, filePath = "temper/x.ts", allowEsoZoneOffsets = false) =>
   findingsOf(src, filePath, allowEsoZoneOffsets).map((f) => f.rule)
 
 describe("scanTimezoneViolations — t00-parse rule", () => {
@@ -53,32 +53,32 @@ describe("scanTimezoneViolations — t00-parse rule", () => {
 describe("scanTimezoneViolations — hour-offset-constant rule", () => {
   test("Date.now() - X * 3600 * 1000 chain is flagged in ESO domain", () => {
     const src = `const d = Date.now() - 6 * 3600 * 1000\n`
-    expect(rulesOf(src, "packages/temper/x.ts")).toEqual(["hour-offset-constant"])
+    expect(rulesOf(src, "temper/x.ts")).toEqual(["hour-offset-constant"])
   })
 
   test("X * 3600000 single literal is flagged in ESO domain", () => {
     const src = `const d = Date.now() - 6 * 3600000\n`
-    expect(rulesOf(src, "packages/shared/tasks/x.ts")).toEqual(["hour-offset-constant"])
+    expect(rulesOf(src, "shared/tasks/x.ts")).toEqual(["hour-offset-constant"])
   })
 
   test("3_600_000 with underscore separators is flagged in ESO domain", () => {
     const src = `const d = Date.now() - hours * 3_600_000\n`
-    expect(rulesOf(src, "packages/shared/recurrence/x.ts")).toEqual(["hour-offset-constant"])
+    expect(rulesOf(src, "shared/recurrence/x.ts")).toEqual(["hour-offset-constant"])
   })
 
   test("when allowEsoZoneOffsets is true, hour-offset is not flagged", () => {
     const src = `const d = Date.now() - 6 * 3600 * 1000\n`
-    expect(rulesOf(src, "packages/infra/scripts/foo.ts", true)).toEqual([])
+    expect(rulesOf(src, "infra/scripts/foo.ts", true)).toEqual([])
   })
 
   test("MS_PER_DAY = 86_400_000 day-duration constant is not flagged (no DST risk)", () => {
     const src = `const MS_PER_DAY = 86_400_000\nconst window = Date.now() - 7 * MS_PER_DAY\n`
-    expect(rulesOf(src, "packages/temper/x.ts")).toEqual([])
+    expect(rulesOf(src, "temper/x.ts")).toEqual([])
   })
 
   test("X * 86400 * 1000 day chain is not flagged (no DST risk)", () => {
     const src = `const d = Date.now() + 1 * 86400 * 1000\n`
-    expect(rulesOf(src, "packages/temper/x.ts")).toEqual([])
+    expect(rulesOf(src, "temper/x.ts")).toEqual([])
   })
 
   test("multiplication with no 3600 or 3600000 literal is not flagged", () => {
@@ -124,8 +124,8 @@ describe("scanTimezoneViolations — iana-zone-literal rule", () => {
 describe("scanTimezoneViolations — output shape", () => {
   test("file path passes through verbatim", () => {
     const src = `const d = new Date(s + "T00:00:00")\n`
-    const f = findingsOf(src, "packages/foo/src/bar.ts")[0]
-    expect(f?.file).toBe("packages/foo/src/bar.ts")
+    const f = findingsOf(src, "foo/src/bar.ts")[0]
+    expect(f?.file).toBe("foo/src/bar.ts")
   })
 
   test("line and column are 1-indexed at the violation site", () => {
@@ -142,7 +142,7 @@ describe("scanTimezoneViolations — output shape", () => {
 
   test(".tsx file is also scanned", () => {
     const src = `export const X = () => <div>{"America/New_York"}</div>\n`
-    expect(rulesOf(src, "packages/temper/x.tsx")).toEqual(["iana-zone-literal"])
+    expect(rulesOf(src, "temper/x.tsx")).toEqual(["iana-zone-literal"])
   })
 
   test("file with no violations emits no findings", () => {

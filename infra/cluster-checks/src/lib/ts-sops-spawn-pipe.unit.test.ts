@@ -42,8 +42,8 @@ spawnSync("sops", ["encrypt", "/dev/stdin"])
 const x = 1
 Bun.spawn(["sops", "/dev/stdin"])
 `
-    const findings = findingsOf(src, "packages/foo/bar.ts")
-    expect(findings[0]?.file).toBe("packages/foo/bar.ts")
+    const findings = findingsOf(src, "foo/bar.ts")
+    expect(findings[0]?.file).toBe("foo/bar.ts")
     expect(findings[0]?.line).toBe(3)
     expect(findings[0]?.column).toBe(1)
   })

@@ -7,7 +7,7 @@ const scriptKindFor = (filePath: string): ts.ScriptKind =>
 
 const parse = (
   source: string,
-  filePath = "packages/temper/web/app/components/x.tsx"
+  filePath = "temper/web/app/components/x.tsx"
 ): ts.SourceFile =>
   ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true, scriptKindFor(filePath))
 
@@ -89,7 +89,7 @@ describe("scanClientPageAccess — hand-rolled pages realtime subscription (#114
 
   test("the same subscription in a module with no use-client directive is out of scope", () => {
     const src = subscription("pages")
-    expect(countOf(src, "packages/agents/shared/supabase-realtime.ts")).toBe(0)
+    expect(countOf(src, "agents/shared/supabase-realtime.ts")).toBe(0)
   })
 
   test("a postgres_changes subscription on another table is not flagged", () => {
@@ -251,7 +251,7 @@ describe("scanClientPageAccess — compliant / out-of-scope code (green)", () =>
 
   test("a non-use-client (server) module is out of scope even with a direct call", () => {
     const src = PA_IMPORT + "export async function loader(sb) { return getPages(sb, {}) }\n"
-    expect(countOf(src, "packages/temper/web/app/routes/api.items.tsx")).toBe(0)
+    expect(countOf(src, "temper/web/app/routes/api.items.tsx")).toBe(0)
   })
 
   test("a use-client module calling a non-pages-access function is not flagged", () => {
@@ -280,10 +280,10 @@ describe("scanClientPageAccess — output shape", () => {
     const src =
       USE_CLIENT + PA_IMPORT + "async function f(supabase) {\n  await upsertPage(supabase, {})\n}\n"
     const findings = scanClientPageAccess(
-      parse(src, "packages/temper/web/app/components/import/use-temper-import.ts")
+      parse(src, "temper/web/app/components/import/use-temper-import.ts")
     )
     expect(findings).toHaveLength(1)
-    expect(findings[0]?.file).toBe("packages/temper/web/app/components/import/use-temper-import.ts")
+    expect(findings[0]?.file).toBe("temper/web/app/components/import/use-temper-import.ts")
     expect(findings[0]?.line).toBe(4)
     expect(typeof findings[0]?.column).toBe("number")
   })

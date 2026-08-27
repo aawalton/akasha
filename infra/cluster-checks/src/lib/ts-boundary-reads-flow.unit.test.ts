@@ -141,8 +141,8 @@ describe("scanBoundaryReads — flow analysis", () => {
 
 describe("scanBoundaryReads — file plumbing", () => {
   test("file path passes through verbatim", () => {
-    const findings = findingsOf(`JSON.parse(s)\n`, "packages/foo/src/bar.ts")
-    expect(findings[0]?.file).toBe("packages/foo/src/bar.ts")
+    const findings = findingsOf(`JSON.parse(s)\n`, "foo/src/bar.ts")
+    expect(findings[0]?.file).toBe("foo/src/bar.ts")
   })
 
   test(".tsx file is parsed correctly", () => {

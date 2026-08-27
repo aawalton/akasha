@@ -122,8 +122,8 @@ describe("scanClassDeclarations — declarations", () => {
   })
 
   test("file path passes through verbatim", () => {
-    const findings = findingsOf(`class X {}\n`, "packages/foo/src/bar.ts")
-    expect(findings[0]?.file).toBe("packages/foo/src/bar.ts")
+    const findings = findingsOf(`class X {}\n`, "foo/src/bar.ts")
+    expect(findings[0]?.file).toBe("foo/src/bar.ts")
   })
 })
 
