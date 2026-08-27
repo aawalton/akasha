@@ -21,7 +21,7 @@ const WRAPPER = 691386
 const TMUX = 3304934
 
 function snap(pid: number, ppid: number): PidSnapshot {
-  return { pid, ppid, vmRssKb: 0, name: "bun" }
+  return { pid, ppid, vmRssKb: 0, pssKb: 0, name: "bun" }
 }
 
 const FLEET: readonly PidSnapshot[] = [

@@ -6,7 +6,7 @@ import {
   assessMemoryKill,
   assessTreeKills,
   MAX_RSS_GB,
-  MAX_TREE_RSS_GB,
+  MAX_TREE_PSS_GB,
   selectTopmostSupervisors,
 } from "../lib/memory-reaper-legs.ts"
 import type { PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
@@ -14,7 +14,7 @@ import type { PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
 const GB = 1024 * 1024
 
 const snaps = (rows: readonly (readonly [number, number, number, string])[]): readonly PidSnapshot[] =>
-  rows.map(([pid, ppid, gb, name]) => ({ pid, ppid, vmRssKb: Math.round(gb * GB), name }))
+  rows.map(([pid, ppid, gb, name]) => ({ pid, ppid, vmRssKb: Math.round(gb * GB), pssKb: Math.round(gb * GB), name }))
 
 const TREE_A = snaps([
   [100, 1, 0.5, "bun"],
@@ -64,7 +64,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
   "per-tree: nested wrapper and supervisor count once": [
     {
       "rootPid": 100,
-      "treeRssKb": 25165824,
+      "treePssKb": 25165824,
       "descendantPids": [
         101,
         111,
@@ -72,14 +72,14 @@ const STANDING: Readonly<Record<string, unknown>> = {
       ],
       "decision": {
         "kill": false,
-        "reason": "supervisor tree root=100 (descendants=3): tree VmRSS 24.0 GB"
+        "reason": "supervisor tree root=100 (descendants=3): tree PSS 24.0 GB"
       }
     }
   ],
   "per-tree: residue spares a tree whose runaway is already reclaimed": [
     {
       "rootPid": 100,
-      "treeRssKb": 4194304,
+      "treePssKb": 4194304,
       "descendantPids": [
         101,
         111,
@@ -87,31 +87,31 @@ const STANDING: Readonly<Record<string, unknown>> = {
       ],
       "decision": {
         "kill": false,
-        "reason": "supervisor tree root=100 (descendants=3): tree VmRSS 4.0 GB"
+        "reason": "supervisor tree root=100 (descendants=3): tree PSS 4.0 GB"
       }
     }
   ],
   "per-tree: two disjoint trees are both kept": [
     {
       "rootPid": 200,
-      "treeRssKb": 10485760,
+      "treePssKb": 10485760,
       "descendantPids": [
         201
       ],
       "decision": {
         "kill": true,
-        "reason": "killing supervisor tree root=200 (descendants=1): tree VmRSS 10.0 GB exceeds 8.0 GB ceiling"
+        "reason": "killing supervisor tree root=200 (descendants=1): tree PSS 10.0 GB exceeds 8.0 GB ceiling"
       }
     },
     {
       "rootPid": 300,
-      "treeRssKb": 3145728,
+      "treePssKb": 3145728,
       "descendantPids": [
         301
       ],
       "decision": {
         "kill": false,
-        "reason": "supervisor tree root=300 (descendants=1): tree VmRSS 3.0 GB"
+        "reason": "supervisor tree root=300 (descendants=1): tree PSS 3.0 GB"
       }
     }
   ],
@@ -197,10 +197,32 @@ const LARGEST_LEGITIMATE_PROCESS_GB = 3.3
 
 describe("how the two ceilings compose", () => {
   it("the per-process ceiling is strictly below the per-tree ceiling, so the narrow leg is reachable", () => {
-    expect(MAX_RSS_GB).toBeLessThan(MAX_TREE_RSS_GB)
+    expect(MAX_RSS_GB).toBeLessThan(MAX_TREE_PSS_GB)
   })
 
   it("the per-process ceiling clears the largest legitimate process with at least 2x headroom", () => {
     expect(MAX_RSS_GB).toBeGreaterThanOrEqual(LARGEST_LEGITIMATE_PROCESS_GB * 2)
+  })
+})
+
+const SHARED_PAGES = snaps([
+  [400, 1, 1, "bun"],
+  [401, 400, 12, "claude"],
+  [402, 400, 12, "claude"],
+]).map((s) => (s.pid === 400 ? s : { ...s, pssKb: 5 * GB }))
+
+describe("the per-tree leg weighs what killing a tree would return, not what RSS counts twice", () => {
+  it("a tree whose members share pages is spared where the summed RSS alone would have killed it", () => {
+    const summedRssGb = SHARED_PAGES.reduce((a, s) => a + s.vmRssKb, 0) / GB
+    expect(summedRssGb).toBe(25)
+
+    const [tree] = assessTreeKills({
+      snapshots: SHARED_PAGES,
+      supervisorPids: [400],
+      perTreeThresholdKb: 16 * GB,
+      perProcessKillPids: [],
+    })
+    expect(tree?.treePssKb).toBe(11 * GB)
+    expect(tree?.decision.kill).toBe(false)
   })
 })

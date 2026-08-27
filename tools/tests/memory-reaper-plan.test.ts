@@ -8,7 +8,7 @@ import type { PidSnapshot } from "../lib/memory-reaper-proc-scan.ts"
 const GB = 1024 * 1024
 
 const snaps = (rows: readonly (readonly [number, number, number, string])[]): readonly PidSnapshot[] =>
-  rows.map(([pid, ppid, gb, name]) => ({ pid, ppid, vmRssKb: Math.round(gb * GB), name }))
+  rows.map(([pid, ppid, gb, name]) => ({ pid, ppid, vmRssKb: Math.round(gb * GB), pssKb: Math.round(gb * GB), name }))
 
 const TREE_A = snaps([
   [100, 1, 0.5, "bun"],
@@ -54,7 +54,7 @@ const CASES: readonly Case[] = [
   { name: "global: tripped with nothing to kill", run: () => assessGlobalKill({ snapshots: [], supervisorPids: [], availableKb: 0, swapTotalKb: 0, swapFreeKb: 0, minAvailKb: 4 * GB, minFreeSwapKb: 4 * GB }) },
   { name: "plan: a per-process breach inside a tree under its ceiling", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null, readArgv: () => undefined }) },
   { name: "plan: the tree leg swallows the pid it contains", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 3 * GB, globalTarget: null, readArgv: () => undefined }) },
-  { name: "plan: a global tree target already taken by a hard breach", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: { kind: "tree", rootPid: 100, descendantPids: [101, 110, 111], treeRssKb: 24 * GB }, readArgv: () => undefined }) },
+  { name: "plan: a global tree target already taken by a hard breach", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: { kind: "tree", rootPid: 100, descendantPids: [101, 110, 111], treePssKb: 24 * GB }, readArgv: () => undefined }) },
   { name: "plan: a global pid target joins the batch", run: () => planReaperKills({ snapshots: TWO_TREES, supervisorPids: [200, 300], selfPid: 999, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 24 * GB, globalTarget: { kind: "pid", pid: 201, vmRssKb: 9 * GB, name: "claude" }, readArgv: () => undefined }) },
   { name: "plan: a tree containing self is refused", run: () => planReaperKills({ snapshots: TREE_A, supervisorPids: [100, 101], selfPid: 111, perProcessThresholdKb: 24 * GB, perTreeThresholdKb: 12 * GB, globalTarget: null, readArgv: () => undefined }) },
   { name: "plan: self and pid 1 are never per-process candidates", run: () => planReaperKills({ snapshots: snaps([[1, 0, 30, "systemd"], [777, 1, 30, "bun"]]), supervisorPids: [], selfPid: 777, perProcessThresholdKb: 8 * GB, perTreeThresholdKb: 24 * GB, globalTarget: null, readArgv: () => undefined }) },
@@ -70,14 +70,14 @@ const STANDING: Readonly<Record<string, unknown>> = {
   },
   "global: swap drained and headroom gone, largest tree picked": {
     "kill": true,
-    "reason": "MemAvailable 2.0 GB at/under 4.0 GB pre-OOM margin with swap drained \u2014 killing largest supervisor tree root=200 (tree VmRSS 10.0 GB)",
+    "reason": "MemAvailable 2.0 GB at/under 4.0 GB pre-OOM margin with swap drained \u2014 killing largest supervisor tree root=200 (tree PSS 10.0 GB)",
     "target": {
       "kind": "tree",
       "rootPid": 200,
       "descendantPids": [
         201
       ],
-      "treeRssKb": 10485760
+      "treePssKb": 10485760
     }
   },
   "global: swapless host with no supervisor, largest pid picked": {
@@ -108,7 +108,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
     "sparedTrees": [
       {
         "rootPid": 100,
-        "treeRssKb": 4194304,
+        "treePssKb": 4194304,
         "reclaimedPids": [
           110
         ],
@@ -126,7 +126,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
           110
         ],
         "leg": "per-tree",
-        "reason": "killing supervisor tree root=100 (descendants=3): tree VmRSS 4.0 GB exceeds 3.0 GB ceiling",
+        "reason": "killing supervisor tree root=100 (descendants=3): tree PSS 4.0 GB exceeds 3.0 GB ceiling",
         "disposition": "signalled"
       }
     ],
@@ -150,7 +150,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
           110
         ],
         "leg": "per-tree",
-        "reason": "killing supervisor tree root=100 (descendants=3): tree VmRSS 24.0 GB exceeds 12.0 GB ceiling",
+        "reason": "killing supervisor tree root=100 (descendants=3): tree PSS 24.0 GB exceeds 12.0 GB ceiling",
         "disposition": "signalled"
       },
       {
@@ -190,7 +190,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
           110
         ],
         "leg": "per-tree",
-        "reason": "killing supervisor tree root=100 (descendants=3): tree VmRSS 24.0 GB exceeds 12.0 GB ceiling",
+        "reason": "killing supervisor tree root=100 (descendants=3): tree PSS 24.0 GB exceeds 12.0 GB ceiling",
         "disposition": "refused-contains-self"
       }
     ],
@@ -213,7 +213,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
           201
         ],
         "leg": "per-tree",
-        "reason": "killing supervisor tree root=50 (descendants=4): tree VmRSS 13.1 GB exceeds 1.0 GB ceiling",
+        "reason": "killing supervisor tree root=50 (descendants=4): tree PSS 13.1 GB exceeds 1.0 GB ceiling",
         "disposition": "refused-spans-seats",
         "seats": [
           "019f4785-924f-7d05-a177-2d4063f90482",
@@ -232,7 +232,7 @@ const STANDING: Readonly<Record<string, unknown>> = {
           201
         ],
         "leg": "per-tree",
-        "reason": "killing supervisor tree root=200 (descendants=1): tree VmRSS 10.0 GB exceeds 1.0 GB ceiling",
+        "reason": "killing supervisor tree root=200 (descendants=1): tree PSS 10.0 GB exceeds 1.0 GB ceiling",
         "disposition": "signalled"
       }
     ],

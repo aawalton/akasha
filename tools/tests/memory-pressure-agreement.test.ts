@@ -13,7 +13,7 @@ const minFreeSwapKb = GLOBAL_MIN_FREE_SWAP_GB * KB_PER_GB
 const spawnFloorKb = MIN_FREE_MEMORY_GB * KB_PER_GB
 
 function snap(pid: number, ppid: number, rssGb: number, name = `proc-${pid}`): PidSnapshot {
-  return { pid, ppid, vmRssKb: Math.round(rssGb * KB_PER_GB), name }
+  return { pid, ppid, vmRssKb: Math.round(rssGb * KB_PER_GB), pssKb: Math.round(rssGb * KB_PER_GB), name }
 }
 
 describe("kill decider vs spawn-admission decider — no pressure-direction disagreement", () => {
