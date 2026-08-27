@@ -35,9 +35,6 @@ export async function run(argv: readonly string[]): Promise<void> {
   }
   const args = parseArgs(argv)
   const roots = resolveRoots()
-  // Every persona, role, domain and person this reads is a page, and the pages
-  // stand in akasha. What was passed here was the instructions root, which is
-  // where they used to be and now holds none of them.
   const pages = akashaRoot()
 
   if (args.resolve) {

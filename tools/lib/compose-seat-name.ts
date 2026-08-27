@@ -29,9 +29,6 @@ export interface SeatAssignments {
 
 export const FLEET = "agent"
 
-// The person pages have moved into akasha and every caller here still hands in
-// the instructions root. Look where the caller names first and where they now
-// stand second, so no seat is refused its principal over a page that exists.
 export function personPrincipals(root: string): readonly string[] {
   for (const at of [`${root}/${placeDirOf("person")}`, `${akashaRoot()}/${placeDirOf("person")}`]) {
     if (!existsSync(at)) continue
