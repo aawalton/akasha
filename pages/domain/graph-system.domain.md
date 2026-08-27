@@ -20,7 +20,3 @@ settled: true
 # Definition
 
 - **Graph system** — how we keep track of how things are connected.
-
-# Intent
-
-No held answer outlives the shape it was written in.
