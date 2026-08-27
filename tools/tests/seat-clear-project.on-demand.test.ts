@@ -2,15 +2,16 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { type Fixture, fixture } from "./fixture.ts"
-import { namedIn, plantProject, seatStore } from "./seat-fixture.ts"
+import { indexFixture, namedIn, plantProject, seatStore } from "./seat-fixture.ts"
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
 function plant(at: Fixture): void {
   seatStore(at)
   namedIn(at)
-  at.document("domains/widget.md", 'page-type-slug: domain\nslug: widget\ntitle: "Widget"\ndomain-parent-slug: global', 20)
+  at.document("pages/domain/widget.domain.md", 'page-type-slug: domain\nslug: widget\ntitle: "Widget"\ndomain-parent-slug: global', 20)
   plantProject(at, "18233")
+  indexFixture(at)
 }
 
 const WHOLE = [
@@ -23,8 +24,9 @@ function seat(at: Fixture, agent: string, args: readonly string[]): number {
   const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--agent", agent, ...args], {
     env: {
       ...process.env,
-      INSTRUCTIONS_ROOT: at.root,
-      MEMORY_ROOT: at.memory,
+      // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
+      // repositories that are gone: nothing reads them, so the child read the live checkout.
+      AKASHA_ROOT: at.root,
       HOME: at.home,
       PATH: `${at.home}/bin:${process.env.PATH ?? ""}`,
     },
