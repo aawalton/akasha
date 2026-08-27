@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind service"
 slug: file-kind-service
 domain-parent-slug: domain/file-kind-code
-extension: service
+name-pattern: "*.service"
 required-reading-slugs:
   - domain/code-comment
 ---

@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind lua"
 slug: file-kind-lua
 domain-parent-slug: domain/file-kind-code
-extension: lua
+name-pattern: "*.lua"
 required-reading-slugs:
   - domain/code-comment
 ---

@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind sql"
 slug: file-kind-sql
 domain-parent-slug: domain/file-kind-code
-extension: sql
+name-pattern: "*.sql"
 required-reading-slugs:
   - domain/code-comment
 ---

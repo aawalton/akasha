@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind mjs"
 slug: file-kind-mjs
 domain-parent-slug: domain/file-kind-code
-extension: mjs
+name-pattern: "*.mjs"
 required-reading-slugs:
   - file-kind-domain/file-kind-js
 ---

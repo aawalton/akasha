@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind tsx"
 slug: file-kind-tsx
 domain-parent-slug: domain/file-kind-code
-extension: tsx
+name-pattern: "*.tsx"
 required-reading-slugs:
   - file-kind-domain/file-kind-ts
 ---

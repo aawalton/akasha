@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind ts"
 slug: file-kind-ts
 domain-parent-slug: domain/file-kind-code
-extension: ts
+name-pattern: "*.ts"
 required-reading-slugs:
   - domain/code-comment
 ---

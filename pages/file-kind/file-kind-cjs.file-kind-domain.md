@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind cjs"
 slug: file-kind-cjs
 domain-parent-slug: domain/file-kind-code
-extension: cjs
+name-pattern: "*.cjs"
 required-reading-slugs:
   - file-kind-domain/file-kind-js
 ---

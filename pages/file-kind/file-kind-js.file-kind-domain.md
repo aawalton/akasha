@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind js"
 slug: file-kind-js
 domain-parent-slug: domain/file-kind-code
-extension: js
+name-pattern: "*.js"
 required-reading-slugs:
   - domain/code-comment
 ---

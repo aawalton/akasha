@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind yaml"
 slug: file-kind-yaml
 domain-parent-slug: domain/file-kind-code
-extension: yaml
+name-pattern: "*.yaml"
 required-reading-slugs:
   - domain/code-comment
 ---

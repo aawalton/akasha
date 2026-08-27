@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind toml"
 slug: file-kind-toml
 domain-parent-slug: domain/file-kind-code
-extension: toml
+name-pattern: "*.toml"
 required-reading-slugs:
   - domain/code-comment
 ---

@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind py"
 slug: file-kind-py
 domain-parent-slug: domain/file-kind-code
-extension: py
+name-pattern: "*.py"
 required-reading-slugs:
   - domain/code-comment
 ---

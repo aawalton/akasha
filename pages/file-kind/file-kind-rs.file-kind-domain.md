@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind rs"
 slug: file-kind-rs
 domain-parent-slug: domain/file-kind-code
-extension: rs
+name-pattern: "*.rs"
 required-reading-slugs:
   - domain/code-comment
 ---

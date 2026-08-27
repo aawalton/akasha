@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind conf"
 slug: file-kind-conf
 domain-parent-slug: domain/file-kind-code
-extension: conf
+name-pattern: "*.conf"
 required-reading-slugs:
   - domain/code-comment
 ---

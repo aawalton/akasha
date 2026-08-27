@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind sh"
 slug: file-kind-sh
 domain-parent-slug: domain/file-kind-code
-extension: sh
+name-pattern: "*.sh"
 required-reading-slugs:
   - domain/code-comment
 ---

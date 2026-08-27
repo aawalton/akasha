@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind swift"
 slug: file-kind-swift
 domain-parent-slug: domain/file-kind-code
-extension: swift
+name-pattern: "*.swift"
 required-reading-slugs:
   - domain/code-comment
 ---

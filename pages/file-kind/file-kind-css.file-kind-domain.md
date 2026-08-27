@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind css"
 slug: file-kind-css
 domain-parent-slug: domain/file-kind-code
-extension: css
+name-pattern: "*.css"
 required-reading-slugs:
   - domain/code-comment
 ---

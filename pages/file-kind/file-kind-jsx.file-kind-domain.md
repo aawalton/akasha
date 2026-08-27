@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind jsx"
 slug: file-kind-jsx
 domain-parent-slug: domain/file-kind-code
-extension: jsx
+name-pattern: "*.jsx"
 required-reading-slugs:
   - file-kind-domain/file-kind-js
 ---

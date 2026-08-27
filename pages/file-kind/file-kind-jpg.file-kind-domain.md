@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind jpg"
 slug: file-kind-jpg
 domain-parent-slug: domain/code-quality
-extension: jpg
+name-pattern: "*.jpg"
 binary: true
 ---
 

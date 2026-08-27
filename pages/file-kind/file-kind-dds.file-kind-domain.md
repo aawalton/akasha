@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind dds"
 slug: file-kind-dds
 domain-parent-slug: domain/code-quality
-extension: dds
+name-pattern: "*.dds"
 binary: true
 ---
 

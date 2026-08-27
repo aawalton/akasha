@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind ico"
 slug: file-kind-ico
 domain-parent-slug: domain/code-quality
-extension: ico
+name-pattern: "*.ico"
 binary: true
 ---
 

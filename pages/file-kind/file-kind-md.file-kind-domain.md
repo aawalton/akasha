@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind md"
 slug: file-kind-md
 domain-parent-slug: domain/writing
-extension: md
+name-pattern: "*.md"
 ---
 
 # Definition

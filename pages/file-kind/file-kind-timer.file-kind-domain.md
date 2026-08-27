@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind timer"
 slug: file-kind-timer
 domain-parent-slug: domain/file-kind-code
-extension: timer
+name-pattern: "*.timer"
 required-reading-slugs:
   - file-kind-domain/file-kind-service
 ---

@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind bash"
 slug: file-kind-bash
 domain-parent-slug: domain/file-kind-code
-extension: bash
+name-pattern: "*.bash"
 required-reading-slugs:
   - file-kind-domain/file-kind-sh
 ---

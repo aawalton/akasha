@@ -4,7 +4,7 @@ page-type-slug: file-kind-domain
 title: "File kind png"
 slug: file-kind-png
 domain-parent-slug: domain/code-quality
-extension: png
+name-pattern: "*.png"
 binary: true
 ---
 
