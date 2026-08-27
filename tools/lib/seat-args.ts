@@ -54,7 +54,13 @@ export function parseArgs(argv: readonly string[]): Args {
       i += 1
       return next
     }
-    if (arg === "--initiative") initiative = value()
+    if (arg === "--repo") {
+      const named = value()
+      if (named !== AKASHA) {
+        fail(`--repo ${named} — a seat page lands in akasha, so this states no other repository`)
+      }
+    }
+    else if (arg === "--initiative") initiative = value()
     else if (arg === "--errand") {
       const said = value()
       if (said === "") clear.push("errand")
