@@ -1,5 +1,5 @@
 
-import { AKASHA, MEMORY, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { ATTRIBUTES, type Attributes, type Claimant, type Mode } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
 import { type Documents, declaredPathReading, requiredReadingClosure } from "./domain.ts"
@@ -50,13 +50,13 @@ export function initiativeWarrant(
   roots: Roots,
   docs: Documents
 ): readonly SeatDocument[] | null {
-  const memory = rootFor(roots, MEMORY)
-  const place = initiativePlaceOf(slug, memory)
+  const root = rootFor(roots, AKASHA)
+  const place = initiativePlaceOf(slug, root)
   if (place === null) return null
-  const held: SeatDocument[] = [{ root: memory, relPath: place.relPath }]
+  const held: SeatDocument[] = [{ root, relPath: place.relPath }]
   const type = docs.domainAt(place.pageTypeSlug)
   if (type === null) return held
-  return [...held, ...withAncestry(type, rootFor(roots, AKASHA), docs)]
+  return [...held, ...withAncestry(type, root, docs)]
 }
 
 export function onCallWarrant(root: string, docs: Documents): readonly SeatDocument[] | null {

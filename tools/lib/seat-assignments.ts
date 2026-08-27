@@ -1,5 +1,5 @@
 
-import { MEMORY, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Roots } from "../../page/page"
 import { initiativeFinishedIn } from "./seat-sweep.ts"
 import { statedOf } from "./seat-stated.ts"
@@ -14,7 +14,7 @@ export function seatAssignments(agent: string, roots: Roots): SeatAssignments {
   const stated = statedOf(agent)
   const initiative = stated.initiative
   const handedBack =
-    initiative !== null && initiativeFinishedIn(rootFor(roots, MEMORY))(initiative.value)
+    initiative !== null && initiativeFinishedIn(rootFor(roots, AKASHA))(initiative.value)
 
   const named = [
     stated.task === null ? null : `task ${stated.task.value}`,

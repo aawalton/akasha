@@ -9,7 +9,7 @@ import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { type Roots } from "../../page/page"
-import { AKASHA, MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { initiativesIn } from "./seat-initiative.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
@@ -33,11 +33,11 @@ export function seatPageRelPath(seatName: string): string {
   return `${SEAT_WRITE.dir}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
 }
 
-function initiativeSlugOf(stated: string, memoryRoot: string): string | null {
-  const at = initiativesIn(memoryRoot).get(stated) ?? []
+function initiativeSlugOf(stated: string, root: string): string | null {
+  const at = initiativesIn(root).get(stated) ?? []
   const [only] = at
   if (at.length !== 1 || only === undefined) return null
-  const slug = frontmatterOf(`${memoryRoot}/${only}`)?.["slug"]
+  const slug = frontmatterOf(`${root}/${only}`)?.["slug"]
   return typeof slug === "string" && slug !== "" ? slug : null
 }
 
@@ -82,7 +82,7 @@ export function seatPageBody(
   const task = stated.task?.value ?? null
   if (task !== null) lines.push(`task-slug: ${task}`)
   if (stated.initiative !== null) {
-    const slug = initiativeSlugOf(stated.initiative.value, rootFor(roots, MEMORY))
+    const slug = initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))
     if (slug !== null) lines.push(`initiative-slug: ${slug}`)
   }
   if (stated.errand !== null) {

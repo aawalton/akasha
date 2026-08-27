@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { blobId } from "../../repo/git/git.ts"
 import { countLines, DEFAULT_READ_LIMIT, recordingAgentId, recordRead } from "../lib/read-record.ts"
 import { canonicalize, isInside } from "../../repo/path/path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots"
 
 function positiveInteger(value: unknown, fallback: number): number {
   return typeof value === "number" && Number.isFinite(value) && value > 0 ? Math.floor(value) : fallback
@@ -27,8 +27,7 @@ async function main(): Promise<void> {
   if (typeof filePath !== "string" || filePath === "") return
 
   const resolved = canonicalize(filePath)
-  const memory = resolveRoots().memory
-  if (memory === undefined || !isInside(memory, resolved)) return
+  if (!isInside(akashaRoot(), resolved)) return
 
   try {
     const bytes = readFileSync(resolved)

@@ -2,7 +2,7 @@
 import { existsSync } from "node:fs"
 import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { type Roots } from "../../page/page"
-import { isDirty, MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
@@ -38,18 +38,18 @@ function initiativeFiles(root: string): readonly string[] {
   return found.sort()
 }
 
-export function initiativeStemOf(bare: string, memoryRoot: string): string | null {
-  for (const [spelling, at] of initiativesIn(memoryRoot)) {
+export function initiativeStemOf(bare: string, root: string): string | null {
+  for (const [spelling, at] of initiativesIn(root)) {
     const [only] = at
     if (at.length !== 1 || only === undefined) continue
-    if (frontmatterOf(`${memoryRoot}/${only}`)?.[SLUG_KEY] === bare) return spelling
+    if (frontmatterOf(`${root}/${only}`)?.[SLUG_KEY] === bare) return spelling
   }
   return null
 }
 
-export function initiativePlaceOf(bare: string, memoryRoot: string): InitiativePlace | null {
-  for (const at of initiativeFiles(memoryRoot)) {
-    const held = frontmatterOf(`${memoryRoot}/${at}`)
+export function initiativePlaceOf(bare: string, root: string): InitiativePlace | null {
+  for (const at of initiativeFiles(root)) {
+    const held = frontmatterOf(`${root}/${at}`)
     if (held === null || held[SLUG_KEY] !== bare) continue
     const stated = held[PAGE_TYPE_SLUG]
     return { relPath: at, pageTypeSlug: typeof stated === "string" && stated !== "" ? stated : KEY }
@@ -59,7 +59,7 @@ export function initiativePlaceOf(bare: string, memoryRoot: string): InitiativeP
 
 export function initiativeOf(agent: string, roots: Roots = resolveRoots()): InitiativeRecord | null {
   const bare = pageTextOf(agent, INITIATIVE_SLUG_KEY)
-  const stem = bare === null ? null : initiativeStemOf(bare, rootFor(roots, MEMORY))
+  const stem = bare === null ? null : initiativeStemOf(bare, rootFor(roots, AKASHA))
   return stem === null ? null : { value: stem }
 }
 

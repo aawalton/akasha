@@ -1,5 +1,5 @@
 
-import { AKASHA, MEMORY, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -11,7 +11,7 @@ const STORE = "findings"
 
 export const findingsSorted: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
-  const store = findingsDirIn(rootFor(repo.roots, MEMORY))
+  const store = findingsDirIn(root)
   const failures: string[] = []
   const folders = new Set<string>()
   let sorted = 0

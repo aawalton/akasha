@@ -104,7 +104,7 @@ function carryReadings(
   moves: ReadonlyMap<string, string>,
   dryRun: boolean
 ): number {
-  const dir = `${roots.memory}/pages/seat`
+  const dir = `${rootFor(roots, AKASHA)}/pages/seat`
   if (!existsSync(dir)) return 0
   const absolute = new Map(
     [...moves].map(([from, to]): [string, string] => [`${root}/${from}`, `${root}/${to}`])
@@ -116,9 +116,9 @@ function carryReadings(
   }
   if (entries.length === 0) return 0
   land(
-    resolveRoots("memory"),
+    resolveRoots(AKASHA),
     entries,
-    `memory: carry ${entries.length} reading record(s) to the pages they recorded`,
+    `akasha: carry ${entries.length} reading record(s) to the pages they recorded`,
     dryRun
   )
   return entries.length

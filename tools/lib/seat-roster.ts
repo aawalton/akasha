@@ -2,7 +2,7 @@ import { statSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../../page/name/name"
-import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import {
   type HeldSeatPage,
   newestBodyPerPath,
@@ -109,7 +109,7 @@ export function seatsAbsent(): readonly Seated[] {
     standing.filter((one) => one.presence !== "absent").map((one) => one.id)
   )
   const roots = resolveRoots()
-  const seatRoot = seatHistoryRoot(roots) ?? rootFor(roots, MEMORY)
+  const seatRoot = seatHistoryRoot(roots) ?? rootFor(roots, AKASHA)
   const heldById = new Map<string, HeldSeatPage>()
   for (const held of newestBodyPerPath(seatRoot)) {
     const body = gitAt(seatRoot, ["show", `${held.commit}:${held.path}`])
