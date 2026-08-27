@@ -35,6 +35,11 @@ function closureFrom(root: string, seeds: readonly string[]): Closure {
   return { reached, outside }
 }
 
+function git(root: string, args: readonly string[]): number {
+  const done = Bun.spawnSync(["git", ...args], { cwd: root, timeout: 10_000 })
+  return done.exitCode ?? -1
+}
+
 describe("the mark names the code that works out the answer", () => {
   const { reached, outside } = closureFrom(HERE, CODE_SEEDS)
   const covered = (at: string): boolean => CODE_DIRS.some((dir) => at.startsWith(`${dir}/`))
@@ -49,6 +54,11 @@ describe("the mark names the code that works out the answer", () => {
 
   test("the answer reaches no code the mark cannot hash, so nothing stands outside the runtime", () => {
     expect([...outside].sort()).toEqual([])
+  })
+
+  test("every declared folder stands and is recorded, so none is left out of the ground", () => {
+    expect(CODE_DIRS.filter((at) => !existsSync(resolve(HERE, at)))).toEqual([])
+    expect(CODE_DIRS.filter((at) => git(HERE, ["rev-parse", "-q", "--verify", `HEAD:${at}`]) !== 0)).toEqual([])
   })
 
   test("the seeds stand, so the walk is over the answer code and not over nothing", () => {
