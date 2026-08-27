@@ -66,11 +66,11 @@ test("a kind carrying bytes passes on its length alone, not on being unreadable"
   expect(verdict("page/art.png", OVER)).toEqual([])
 })
 
-test("a page of an unbounded type over the ceiling passes", () => {
+test("a page of an unsplittable type over the ceiling passes", () => {
   expect(verdict("pages/story-chapter-royal-road/a/b/0001-first.story-chapter-royal-road.md", OVER)).toEqual([])
 })
 
-test("a chapter taken in from a book is unbounded too", () => {
+test("a chapter taken in from a book is unsplittable too", () => {
   expect(verdict("pages/book-chapter/plato/001-apology.book-chapter.md", OVER)).toEqual([])
 })
 

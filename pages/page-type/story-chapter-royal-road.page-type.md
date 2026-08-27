@@ -6,7 +6,7 @@ extends-slug: story-chapter-read
 files: akasha:**/*.story-chapter-royal-road.md
 body-shape-slug: text
 slug: story-chapter-royal-road
-unbounded: true
+unsplittable: true
 domain-parent-slug: page-type/story-chapter-read
 ---
 

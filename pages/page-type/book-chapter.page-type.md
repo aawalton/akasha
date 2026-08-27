@@ -6,7 +6,7 @@ extends-slug: chapter
 files: akasha:**/*.book-chapter.md
 body-shape-slug: text
 slug: book-chapter
-unbounded: true
+unsplittable: true
 domain-parent-slug: page-type/chapter
 required-reading-slugs:
   - page-type/book

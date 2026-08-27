@@ -6,7 +6,7 @@ extends-slug: story-chapter-read
 files: akasha:**/*.story-chapter-wandering-inn.md
 body-shape-slug: text
 slug: story-chapter-wandering-inn
-unbounded: true
+unsplittable: true
 domain-parent-slug: page-type/story-chapter-read
 ---
 

@@ -6,7 +6,7 @@ extends-slug: collection
 files: akasha:**/*.story-turn.md
 body-shape-slug: text
 slug: story-turn
-unbounded: true
+unsplittable: true
 domain-parent-slug: page-type/collection
 required-reading-slugs:
   - domain/narrative-story-played

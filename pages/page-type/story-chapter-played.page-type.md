@@ -6,7 +6,7 @@ extends-slug: story-chapter
 files: akasha:**/*.story-chapter-played.md
 body-shape-slug: text
 slug: story-chapter-played
-unbounded: true
+unsplittable: true
 domain-parent-slug: domain/narrative-story-played
 required-reading-slugs:
   - page-type/story-chapter

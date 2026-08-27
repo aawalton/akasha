@@ -6,7 +6,7 @@ extends-slug: story-chapter
 files: akasha:**/*.story-chapter-written.md
 body-shape-slug: text
 slug: story-chapter-written
-unbounded: true
+unsplittable: true
 domain-parent-slug: domain/narrative-story-written
 required-reading-slugs:
   - page-type/story-chapter
