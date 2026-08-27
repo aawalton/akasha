@@ -7,7 +7,7 @@ key: name
 type: formula
 returnType: text
 narrows-slug: page
-expression: '{text(seq)} ?? {slug} ?? {id}'
+expression: 'text({seq}) ?? {slug} ?? {id}'
 slug: workflow-name
 domain-parent-slug: page-type/workflow
 ---
