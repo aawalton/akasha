@@ -16,6 +16,6 @@ My own reading of Abby's backlog at `~/abby-backlog-2026-08-06/`, migrated here 
 
 The spine's cursor lists this among the archivist's next-session queue (`backlog.md` line 89), alongside a count correction on the same expansion, so it is queued rather than merely open.
 
-Worth noting: the value order this expansion moves away from is the one the instructions repository still carries. `page-types/value.md` lists six values and its Design line says they stand in the order they matter. If the persona system has moved to a domain-keyed set, those two structures are drifting apart, and nothing I read connects them.
+Worth noting: the value order this expansion moves away from is the one akasha still carries. `pages/page-type/value.page-type.md` says in its Design line that values stand in the order they matter, and six `.value.md` pages stand under `alan/value/`. If the persona system has moved to a domain-keyed set, those two structures are drifting apart, and nothing I read connects them.
 
 What I did not measure: I opened neither file in the corpus, so the stale descriptions are the backlog's report. The audit of which captures assumed six values is the part nobody has scoped, and I did not scope it either.
