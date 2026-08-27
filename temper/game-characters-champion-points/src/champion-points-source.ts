@@ -1,7 +1,7 @@
 import { createDataFile } from "@shared/utils-narrow/create-data-file"
 import type { EffectSourceInterface } from "@temper/shared-formula-framework/effect-source"
 import type { Effect } from "@temper/shared-formula-framework/effects-types"
-import { craftPassives } from "./craft-passives"
+import { craftPassives } from "./data/craft-passives"
 import { craftSlottables } from "./craft-slottables"
 import { fitnessPassives } from "./fitness-passives"
 import { fitnessSlottables } from "./fitness-slottables"
