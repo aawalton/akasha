@@ -49,7 +49,7 @@ run_bun_test_gated() {
   [ -z "$files" ] && return 0
 
   local out rc expected
-  expected="$(printf '%s\n' "$files" | grep -c . || true)"
+  expected="$(printf '%s\n' "$files" | sed '/^$/d' | sort -u | wc -l)"
   out="$(mktemp)"
   set +e
   printf '%s\n' "$files" | xargs bun test "${BUN_TEST_ARGS[@]}" 2>&1 | tee "$out" |
