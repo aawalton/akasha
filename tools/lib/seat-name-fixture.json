@@ -49,15 +49,15 @@
       "reads": { "persona": null, "domain": null, "role": "manager", "flex": null, "task": null }
     },
     {
-      "name": "amy-alan-handler",
+      "name": "alan",
       "vocabulary": "collisions",
-      "why": "A handler, the one form spelling an identity in front of a domain and a role. Alan's own inbound path carries this name live. The form is keyed on the role rather than on the principal: his principal would otherwise take the short name, and every seat serving somebody else would answer to the same address as the one serving him.",
-      "reads": { "persona": "amy", "domain": "alan", "role": "handler", "flex": null, "task": null }
+      "why": "A handler, spelling the person it serves and nothing else. Alan's own inbound path carries this name live. A person is a domain, so it reads through the same form every other seat does; no persona can be mistaken for it, a persona and a person never sharing a slug.",
+      "reads": { "persona": null, "domain": "alan", "role": null, "flex": null, "task": null }
     },
     {
       "name": "alan-handler",
       "vocabulary": "collisions",
-      "why": "A handler nobody has been authored over, spelling the person it serves and its role and no identity. It reads through the same form every other seat does, which is what keeps an unauthored inbound path addressable.",
+      "why": "A person and the handler role spelled after them. No handler composes this — a handler spells the person alone — but the general form reads it, so an older page or row naming one still resolves to the seat it meant.",
       "reads": { "persona": null, "domain": "alan", "role": "handler", "flex": null, "task": null }
     },
     {
@@ -111,13 +111,19 @@
     {
       "name": "claude-domain-lead",
       "vocabulary": "collisions",
-      "why": "The defect measured on 2026-08-06 across the fleet's live names, and now a name no seat can carry at all: a persona is spelled alone, or in front of the person a handler serves, and never in front of a domain and a role. Nine live seats wore this and each spells `domain-lead` now. It reads as nothing rather than as the seat it used to name, which is the answer that leaves the old spelling visible instead of quietly re-pointed.",
+      "why": "The defect measured on 2026-08-06 across the fleet's live names, and now a name no seat can carry at all: a persona is spelled alone and never in front of anything. Nine live seats wore this and each spells `domain-lead` now. It reads as nothing rather than as the seat it used to name, which is the answer that leaves the old spelling visible instead of quietly re-pointed.",
       "unreadable": 0
     },
     {
       "name": "ki-handler",
       "vocabulary": "collisions",
-      "why": "A real person's handle in front of a role — the live inbound path for two people. The reading draws every segment from a vocabulary and `ki` is in none, so this reads as nothing at all. It is NOT a name this system refuses: the code repository's looser `seated-persona` family holds it, and this case is what fixes which of the two answers it.",
+      "why": "A real person's handle in front of a role, where that person is in no vocabulary here. The reading draws every segment from a vocabulary and `ki` is in none, so this reads as nothing at all. Ki's own seat spells `ki`, which this case is held beside to show that a person absent from the vocabulary is unreadable either way.",
+      "unreadable": 0
+    },
+    {
+      "name": "amy-alan-handler",
+      "vocabulary": "collisions",
+      "why": "The form retired on 2026-08-27: an identity spelled in front of the person a handler serves, and its role after them. A persona is spelled alone and never in front of anything, so this reads as nothing rather than as the seat it used to name, which leaves the old spelling visible instead of quietly re-pointed.",
       "unreadable": 0
     },
     {
