@@ -1,0 +1,13 @@
+[Event "Study - Analyse du jeu des Echecs (Philidor, 1749)"]
+[Site "?"]
+[Date "1749.??.??"]
+[White "Rook and pawn"]
+[Black "Rook (Philidor position)"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/8/r7/4K3/4P3/8/8/5R2 w - - 0 1"]
+[Collection "endgame-classics"]
+[Lesson "Rook endgame: the Philidor position - the drawing method: hold the rook on the third rank until the pawn advances, then check from behind forever"]
+[GameId "study-philidor-position-1749"]
+
+1. Kd5 Rb6 2. e5 Ra6 3. e6 Ra1 4. Kd6 Rd1+ 5. Ke5 Re1+ 6. Kf6 Rf1+ 7. Ke5 Re1+ 1/2-1/2
