@@ -1,25 +1,10 @@
 export const summary = "Move files, repoint everything that named them, and remove the orphans"
 
-import { existsSync, readFileSync, statSync } from "node:fs"
-import { anyRefused, render } from "../../../outcome/outcome.ts"
-import type { Roots } from "../../../page/page.ts"
-import { sidecarCarriedTo, sidecarsOf } from "../../../page/sidecar/sidecar.ts"
-import { type Carry, land, type Landing, LandingRefused } from "../../../repo/land/land.ts"
-import { canonicalize } from "../../../repo/path/path.ts"
-import { rootsHere, targetRepo, targetRoot } from "../../../repo/roots/roots.ts"
-import { escapedSpellings } from "../../../repoint/mention.ts"
-import {
-  importerReading,
-  type Importers,
-  type Moves,
-  type Repointed,
-  specifierReading,
-  surveyImporters,
-  surveyRename,
-} from "../../../repoint/repoint.ts"
-import { slugEdges } from "../../../repoint/reslug.ts"
-import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
+import { readFileSync } from "node:fs"
+import { landMoves, type Pair, validatePairs } from "../../../move/move.ts"
 import { applyPairs, type Pair as EditPair, parsePairs } from "../../../patches/edit-pairs.ts"
+import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
+import type { Moves } from "../../../repoint/repoint.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import {
   DESCRIPTION,
@@ -33,7 +18,6 @@ import {
   REPO,
   TO,
 } from "./mv-help.ts"
-import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const VALUE_FLAGS = [FROM, TO, REPO, MESSAGE, MESSAGE_FILE, INPUT_FILE]
 
@@ -44,11 +28,6 @@ export const help = {
   flags: FLAGS,
   positionals: [],
   exits: EXITS,
-}
-
-export interface Pair {
-  readonly from: string
-  readonly to: string
 }
 
 export function statedPairs(argv: readonly string[]): readonly Pair[] {
@@ -82,75 +61,6 @@ function sideOf(argv: readonly string[], paths: readonly string[], flag: string)
   const at = addressOf(argv, paths)
   if (at === null) fail(`every ${flag} here stands inside no repository, and a move is a commit in one`)
   return at
-}
-
-function rootsFor(at: Addressed): Roots {
-  return { ...rootsHere(), target: at.repo }
-}
-
-export function validatePairs(
-  pairs: readonly Pair[],
-  source: Addressed,
-  destination: Addressed
-): Moves {
-  const refusals: string[] = []
-  const here = (relPath: string): string => `${source.repo}:${relPath}`
-  const there = (relPath: string): string => `${destination.repo}:${relPath}`
-  const sources = new Set(pairs.map((one) => here(one.from)))
-  const seen = new Set<string>()
-  for (const { from, to } of pairs) {
-    const absolute = `${source.root}/${from}`
-    if (!existsSync(absolute)) refusals.push(`${from} does not exist — a move names what is there`)
-    else if (!statSync(absolute).isFile()) {
-      refusals.push(`${from} is not a file — name the files inside it`)
-    } else {
-      const bytes = readFileSync(absolute)
-      if (decodeUtf8(bytes) === null) {
-        refusals.push(
-          `${from} is not UTF-8 text, so nothing here can read what names it or carry it — ` +
-            `it begins ${leadingBytes(bytes)}`
-        )
-      }
-    }
-    if (here(from) === there(to)) {
-      refusals.push(`${from} names itself as its destination, so it asks for no move`)
-    } else if (sources.has(there(to))) {
-      refusals.push(`${to} is both a destination and a source — declare the chain as its final pairs`)
-    } else if (existsSync(`${destination.root}/${to}`)) {
-      refusals.push(`${to} already exists — a move never overwrites`)
-    }
-    for (const [side, shown] of [
-      [here(from), from],
-      [there(to), to],
-    ] as const) {
-      if (seen.has(side)) refusals.push(`${shown} is declared more than once`)
-      seen.add(side)
-    }
-  }
-  if (refusals.length > 0) fail(refusals.join("\n       "))
-  return new Map(pairs.map((one): [string, string] => [one.from, one.to]))
-}
-
-function carriedFiles(moves: Moves, source: Addressed, destination: Addressed): readonly Carry[] {
-  const carrying = [...moves].flatMap(([from, to]) =>
-    sidecarsOf(source.root, from).map((one) => ({ from: one, to: sidecarCarriedTo(one, from, to) }))
-  )
-  const standing = carrying.filter((one) => existsSync(`${destination.root}/${one.to}`))
-  if (standing.length > 0) {
-    fail(
-      [
-        ...standing.map((one) => `${one.to} already exists — a move never overwrites`),
-        "remove what stands at the destination, or land the page where nothing does",
-      ].join("\n       ")
-    )
-  }
-  if (carrying.length > 0) {
-    process.stderr.write(
-      "the files standing beside a page this call moves, which go with it\n" +
-        carrying.map((one) => `      ${one.from} → ${one.to}\n`).join("")
-    )
-  }
-  return carrying
 }
 
 function readPayload(argv: readonly string[], named: string): string {
@@ -213,47 +123,6 @@ function edited(
   }
 }
 
-function reportRepointed(named: string, entries: readonly Repointed[]): void {
-  for (const entry of entries) {
-    process.stderr.write(
-      `${named}${entry.relPath}${entry.moved ? " (moved here)" : ""}\n` +
-        entry.notes.map((note) => `      repointed ${note}\n`).join("")
-    )
-  }
-}
-
-function repointedBodies(found: readonly Importers[]): ReadonlyMap<string, string> {
-  return new Map(
-    found.flatMap((one) =>
-      one.entries.map((entry): [string, string] => [
-        canonicalize(`${targetRoot(one.roots)}/${entry.relPath}`),
-        entry.body,
-      ])
-    )
-  )
-}
-
-function landOrRefuse(
-  where: Addressed,
-  entries: readonly Landing[],
-  message: string,
-  dryRun: boolean,
-  removing: readonly string[],
-  carrying: readonly Carry[],
-  goneElsewhere: readonly string[],
-  repointedElsewhere: ReadonlyMap<string, string>
-): void {
-  try {
-    land(where, entries, message, dryRun, removing, carrying, true, goneElsewhere, repointedElsewhere)
-  } catch (thrown) {
-    if (thrown instanceof LandingRefused) {
-      process.stderr.write(`error: ${thrown.message}\n`)
-      process.exit(3)
-    }
-    throw thrown
-  }
-}
-
 export default async function mv(argv: readonly string[]): Promise<void> {
   if (argv.includes("--help") || argv.includes("-h")) return
   rejectUnknownFlags(argv, VALUE_FLAGS, BARE_FLAGS)
@@ -284,70 +153,14 @@ export default async function mv(argv: readonly string[]): Promise<void> {
       : (valueOf(argv, MESSAGE) ??
         defaultMessage(source.repo, "rename", [...moves].map(([from, to]) => `${from} to ${to}`)))
 
-  const dryRun = argv.includes(DRY_RUN)
-  const roots = rootsFor(source)
-  const landing = rootsFor(destination)
-  const survey = surveyRename(moves, roots, landing)
-  const entries =
-    change === null
-      ? survey.entries
-      : survey.entries.map((one) =>
-          one.moved ? { ...one, body: change(one.relPath, one.body) } : one
-        )
-  reportRepointed("", entries)
-  const importers = surveyImporters(moves, roots, landing)
-  const pending = repointedBodies(importers)
-  for (const one of importers) reportRepointed(`${targetRepo(one.roots)}:`, one.entries)
-  const carrying = carriedFiles(moves, source, destination)
-  const outcomes = [
-    slugEdges(moves, roots),
-    escapedSpellings(survey.escaped),
-    specifierReading(survey.reading),
-    ...(importers.length === 0 ? [] : [importerReading(importers)]),
-  ]
-  process.stderr.write(
-    `${render(outcomes).join("\n")}\n` +
-      (survey.quarantined.length === 0
-        ? ""
-        : `  quarantine           advisory        ${survey.quarantined.length} reference(s) under \`dirty/\` name a moved path and were left as written\n` +
-          survey.quarantined.map((one) => `      ${one}\n`).join(""))
-  )
-  if (anyRefused(outcomes)) {
-    process.stderr.write("nothing was moved\n")
-    process.exit(1)
-  }
-
-  for (const one of importers) {
-    const at = { repo: targetRepo(one.roots), root: targetRoot(one.roots) }
-    process.stdout.write(`repo:   ${at.repo}, which imports them from outside\n`)
-    landOrRefuse(at, one.entries, message, dryRun, [], [], [], new Map())
-  }
-  const sources = [...moves.keys()]
-  if (source.repo === destination.repo) {
-    if (importers.length > 0) {
-      process.stdout.write(`repo:   ${source.repo}, which the bodies move within\n`)
-    }
-    landOrRefuse(source, entries, message, dryRun, sources, carrying, [], pending)
-    return
-  }
-  const going = [...sources, ...carrying.map((one) => one.from)]
-  const beside = carrying.map((one) => ({
-    relPath: one.to,
-    body: readFileSync(`${source.root}/${one.from}`),
-  }))
-  process.stdout.write(`repo:   ${destination.repo}, which the bodies land in\n`)
-  landOrRefuse(
+  landMoves({
+    moves,
+    source,
     destination,
-    [...entries.filter((one) => one.moved), ...beside],
     message,
-    dryRun,
-    [],
-    [],
-    going.map((one) => `${source.root}/${one}`),
-    pending
-  )
-  process.stdout.write(`repo:   ${source.repo}, which gives them up\n`)
-  landOrRefuse(source, entries.filter((one) => !one.moved), message, dryRun, going, [], [], pending)
+    dryRun: argv.includes(DRY_RUN),
+    ...(change === null ? {} : { transform: change }),
+  })
 }
 
 if (import.meta.main) {
