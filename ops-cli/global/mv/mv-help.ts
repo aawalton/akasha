@@ -49,6 +49,17 @@ export const DESCRIPTION =
   "a new name substituted into that lands a statement which is false rather than merely stale. " +
   "Change the term and its sentence together, or leave both.\n" +
   "\n" +
+  "A PATH A MODULE WRITES AGAINST ITS OWN DIRECTORY is followed like anything else, and " +
+  "[runtime-paths] names it. Three spellings are read: the first argument to `new URL` where " +
+  "`import.meta.url` is the second, a literal handed to `join` or `resolve` beside " +
+  "`import.meta.dir`, `import.meta.dirname`, `__dirname` or a name bound to one of them, and " +
+  "the static tail of a template one of those opens. Such a string is neither an import " +
+  "specifier nor a path from the repo root, so no other survey here can see one, and a move " +
+  "that passed over it left working code naming a path that was no longer there. A base whose " +
+  "path cannot be read — a computed segment, a helper taking the path as an argument — is " +
+  "COUNTED rather than passed over, and REFUSES the move where the call takes a file out from " +
+  "under the directory that base does spell out, or moves the file the expression stands in.\n" +
+  "\n" +
   "AN OCCURRENCE THAT SPELLS A MOVED PATH rather than writing it — a regex escaping its slashes " +
   "and dots, a JSON string escaping a slash — is named by [escaped] and REFUSES the move. " +
   "Re-emitting a path into a matcher's escaping means guessing which language and which of its " +
