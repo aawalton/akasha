@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66ec-7dc3-7868-8c60-50d400b73fa8
+title: "Perfected Whorl of the Depths"
+slug: perfected-whorl-of-the-depths
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"When you deal damage with a Light Attack, you apply Whorl of the Depths to the target, dealing 1016 Frost Damage over 8 seconds. When this effect ends, a 5 meter whirlpool is created under the target for 6 seconds and deals 764 Frost Damage every 1 second. This effect can occur once every 18 seconds and scales off the higher of your Weapon or Spell Damage."}]'
+eso-set-id: 653
+icons: '{"axe":"/esoui/art/icons/gear_amenossea_axe_a.dds","bow":"/esoui/art/icons/gear_amenossea_bow_a.dds","mace":"/esoui/art/icons/gear_amenossea_mace_a.dds","maul":"/esoui/art/icons/gear_amenossea_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_amenossea_sword_a.dds","dagger":"/esoui/art/icons/gear_amenossea_dagger_a.dds","feet:*":"/esoui/art/icons/gear_amenossea_lgt_feet_a.dds","head:*":"/esoui/art/icons/gear_amenossea_lgt_head_a.dds","legs:*":"/esoui/art/icons/gear_amenossea_lgt_legs_a.dds","shield":"/esoui/art/icons/gear_amenossea_sheild_a.dds","chest:*":"/esoui/art/icons/gear_amenossea_lgt_robe_a.dds","hands:*":"/esoui/art/icons/gear_amenossea_lgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_amenossea_lgt_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_amenossea_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","greatsword":"/esoui/art/icons/gear_amenossea_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_amenossea_lgt_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds"}'
+key: perfected-whorl-of-the-depths
+subcategory-id: trial
+valid: '["*:light"]'
+---

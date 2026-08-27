@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66ec-7e2a-7386-9825-7996114c9bb3
+title: "Roar of Alkosh"
+slug: roar-of-alkosh
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"When you activate a synergy, you send a shockwave from your position that deals 318 Physical Damage and an additional 1590 Physical Damage over 10 seconds. Reduces the Physical and Spell Resistance of any enemy hit by the amount of your Weapon Damage for the duration, up to a maximum of 6000.  The damage scales off the higher of your Weapon or Spell Damage."}]'
+eso-set-id: 232
+icons: '{"axe":"/esoui/art/icons/gear_khajiit_1haxe_e.dds","bow":"/esoui/art/icons/gear_khajiit_bow_e.dds","mace":"/esoui/art/icons/gear_khajiit_1hhammer_e.dds","maul":"/esoui/art/icons/gear_khajiit_2hhammer_e.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_khajiit_1hsword_e.dds","dagger":"/esoui/art/icons/gear_khajiit_dagger_e.dds","feet:*":"/esoui/art/icons/gear_dromathra_medium_feet_a.dds","head:*":"/esoui/art/icons/gear_dromathra_medium_head_a.dds","legs:*":"/esoui/art/icons/gear_dromathra_medium_legs_a.dds","shield":"/esoui/art/icons/gear_khajiit_shield_e.dds","chest:*":"/esoui/art/icons/gear_dromathra_medium_chest_a.dds","hands:*":"/esoui/art/icons/gear_dromathra_medium_hand_a.dds","waist:*":"/esoui/art/icons/gear_dromathra_medium_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_khajiit_2haxe_e.dds","ice-staff":"/esoui/art/icons/gear_khajiit_staff_e.dds","greatsword":"/esoui/art/icons/gear_khajiit_2hsword_e.dds","shoulders:*":"/esoui/art/icons/gear_dromathra_medium_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_khajiit_staff_e.dds","lightning-staff":"/esoui/art/icons/gear_khajiit_staff_e.dds","restoration-staff":"/esoui/art/icons/gear_khajiit_staff_e.dds"}'
+key: roar-of-alkosh
+subcategory-id: trial
+valid: '["*:medium"]'
+---

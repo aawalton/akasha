@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66ec-7cf1-7d5a-bcd8-6b3287ba1f30
+title: "Perfected Pearlescent Ward"
+slug: perfected-pearlescent-ward
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"healing-taken-base","effectType":"fractional-change","effectValue":0.04}],"description":"Adds 4% Healing Taken"},{"count":5,"status":"unsupported","effects":[],"description":"Grants you and up to 11 other group members Pearlescent Ward. This bonus persists through death.\n\nPearlescent Ward increases Weapon and Spell Damage by up to 180 based on the number of group members that are alive.\nCurrent 180 Weapon and Spell Damage.\n\nPearlescent Ward increases damage reduction from non-player enemies out of 66% based on the number of group members that are dead.\nCurrent 0% damage reduction."}]'
+eso-set-id: 651
+icons: '{"axe":"/esoui/art/icons/gear_amenossea_axe_a.dds","bow":"/esoui/art/icons/gear_amenossea_bow_a.dds","mace":"/esoui/art/icons/gear_amenossea_mace_a.dds","maul":"/esoui/art/icons/gear_amenossea_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_amenossea_sword_a.dds","dagger":"/esoui/art/icons/gear_amenossea_dagger_a.dds","feet:*":"/esoui/art/icons/gear_amenossea_hvy_feet_a.dds","head:*":"/esoui/art/icons/gear_amenossea_hvy_head_a.dds","legs:*":"/esoui/art/icons/gear_amenossea_hvy_legs_a.dds","shield":"/esoui/art/icons/gear_amenossea_sheild_a.dds","chest:*":"/esoui/art/icons/gear_amenossea_hvy_chest_a.dds","hands:*":"/esoui/art/icons/gear_amenossea_hvy_hands_a.dds","waist:*":"/esoui/art/icons/gear_amenossea_hvy_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_amenossea_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","greatsword":"/esoui/art/icons/gear_amenossea_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_amenossea_hvy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_amenossea_staff_a.dds"}'
+key: perfected-pearlescent-ward
+subcategory-id: trial
+valid: '["*:heavy"]'
+---

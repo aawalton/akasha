@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0b9-78db-b4f9-b85088c59410
+title: "Rush of Agony"
+slug: rush-of-agony
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"stamina-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Stamina Recovery"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"penetration","effectType":"integer","effectValue":1487}],"description":"Adds 1487 Offensive Penetration"},{"count":5,"status":"unsupported","effects":[],"description":"Dealing direct damage with a Blink, Charge, Leap, Teleport, or Pull ability creates an area under the enemy that pulls enemies within 12 meters after 0.8 seconds. After 2 seconds, deal 1705 Physical damage to all enemies within 7 meters of you. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage.\n\nThe pull will not apply Crowd Control Immunity but works once every 7 seconds per target."}]'
+eso-set-id: 604
+icons: '{"axe":"/esoui/art/icons/gear_blackiron_1haxe.dds","bow":"/esoui/art/icons/gear_blackiron_bow.dds","mace":"/esoui/art/icons/gear_blackiron_1hhammer.dds","maul":"/esoui/art/icons/gear_blackiron_2hhammer.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_blackiron_1hsword.dds","dagger":"/esoui/art/icons/gear_blackiron_dagger.dds","feet:*":"/esoui/art/icons/gear_blackiron_med_feet_a.dds","head:*":"/esoui/art/icons/gear_blackiron_head_a.dds","legs:*":"/esoui/art/icons/gear_blackiron_med_legs_a.dds","shield":"/esoui/art/icons/gear_blackiron_shield.dds","chest:*":"/esoui/art/icons/gear_blackiron_med_chest_a.dds","hands:*":"/esoui/art/icons/gear_blackiron_med_hands_a.dds","waist:*":"/esoui/art/icons/gear_blackiron_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_blackiron_2haxe.dds","ice-staff":"/esoui/art/icons/gear_blackiron_staff.dds","greatsword":"/esoui/art/icons/gear_blackiron_2hsword.dds","shoulders:*":"/esoui/art/icons/gear_blackiron_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_blackiron_staff.dds","lightning-staff":"/esoui/art/icons/gear_blackiron_staff.dds","restoration-staff":"/esoui/art/icons/gear_blackiron_staff.dds"}'
+key: rush-of-agony
+subcategory-id: dungeon
+valid: '["*:medium"]'
+---

@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0bf-70ea-af44-fe1ab7fd0a83
+title: "Scorion's Feast"
+slug: scorions-feast
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"magicka-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Magicka"},{"count":3,"status":"supported","effects":[{"metricId":"magicka-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Magicka Recovery"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"When you deal damage with a fully-charged Heavy Attack, you gain an Imbued Aura for 10 seconds, granting you and up to 3 other group members 307 Magicka and Stamina Recovery. This effect can occur once every 20 seconds.\n\nIf you deal damage with a fully-charged Heavy Attack with an Imbued Aura active, consume it and gain an Overflow Aura for 10 seconds, granting you and up to 3 other group members 307 Weapon and Spell Damage."}]'
+eso-set-id: 603
+icons: '{"axe":"/esoui/art/icons/gear_blackiron_1haxe.dds","bow":"/esoui/art/icons/gear_blackiron_bow.dds","mace":"/esoui/art/icons/gear_blackiron_1hhammer.dds","maul":"/esoui/art/icons/gear_blackiron_2hhammer.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_blackiron_1hsword.dds","dagger":"/esoui/art/icons/gear_blackiron_dagger.dds","feet:*":"/esoui/art/icons/gear_blackironlgt_feet_a.dds","head:*":"/esoui/art/icons/gear_blackironlgt_head_a.dds","legs:*":"/esoui/art/icons/gear_blackironlgt_legs_a.dds","shield":"/esoui/art/icons/gear_blackiron_shield.dds","chest:*":"/esoui/art/icons/gear_blackironlgt_robe_a.dds","hands:*":"/esoui/art/icons/gear_blackironlgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_blackironlgt_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_blackiron_2haxe.dds","ice-staff":"/esoui/art/icons/gear_blackiron_staff.dds","greatsword":"/esoui/art/icons/gear_blackiron_2hsword.dds","shoulders:*":"/esoui/art/icons/gear_blackironlgt_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_blackiron_staff.dds","lightning-staff":"/esoui/art/icons/gear_blackiron_staff.dds","restoration-staff":"/esoui/art/icons/gear_blackiron_staff.dds"}'
+key: scorions-feast
+subcategory-id: dungeon
+valid: '["*:light"]'
+---

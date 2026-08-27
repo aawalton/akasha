@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0c1-747a-b4a2-89316e9bee4c
+title: "Sheer Venom"
+slug: sheer-venom
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"When you deal damage with an Execute ability you infect the enemy, dealing 948 Poison damage over 6 seconds and dealing up to 100% more damage to enemies under 100% Health. This effect can occur once every 6 seconds per target and scales off the higher of your Weapon or Spell Damage."}]'
+eso-set-id: 195
+icons: '{"axe":"/esoui/art/icons/gear_imperialdaedric_1haxe_c.dds","bow":"/esoui/art/icons/gear_imperialerialdaedric_bow_c.dds","mace":"/esoui/art/icons/gear_imperialdaedric_1hhammer_c.dds","maul":"/esoui/art/icons/gear_imperialdaedric_2hhammer_c.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_imperialerialdaedric_1hsword_c.dds","dagger":"/esoui/art/icons/gear_imperialdaedric_dagger__c.dds","feet:*":"/esoui/art/icons/gear_breton_medium_feet_d.dds","head:*":"/esoui/art/icons/gear_breton_medium_head_d.dds","legs:*":"/esoui/art/icons/gear_breton_medium_legs_d.dds","shield":"/esoui/art/icons/gear_imperialdaedric_shield__c.dds","chest:*":"/esoui/art/icons/gear_breton_medium_chest_d.dds","hands:*":"/esoui/art/icons/gear_breton_medium_hands_d.dds","waist:*":"/esoui/art/icons/gear_breton_medium_waist_d.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_imperialdaedric_2haxe_c.dds","ice-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","greatsword":"/esoui/art/icons/gear_imperialdaedric_2hsword_c.dds","shoulders:*":"/esoui/art/icons/gear_breton_medium_shoulders_d.dds","inferno-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","lightning-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","restoration-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds"}'
+key: sheer-venom
+subcategory-id: dungeon
+valid: '["*:medium"]'
+---

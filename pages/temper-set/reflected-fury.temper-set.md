@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0b5-729b-8e76-87488c2141f9
+title: "Reflected Fury"
+slug: reflected-fury
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":3,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":4,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":5,"status":"unsupported","effects":[],"description":"When you taunt an enemy, gain a stack of Broken Shards for 5 seconds, up to 5 stacks max. You can only gain one stack every 1 second. When Broken Shards ends, you release the stacks in an 8 meter blast, dealing 936 Physical damage to enemies hit and applying Major Maim to them for 3 seconds per stack of Broken Shards consumed, reducing their damage done by 10%. The damage scales off your Max Health."}]'
+eso-set-id: 737
+icons: '{"axe":"/esoui/art/icons/gear_blindpath_1haxe_a.dds","bow":"/esoui/art/icons/gear_blindpath_bow_a.dds","mace":"/esoui/art/icons/gear_blindpath_1hhammer_a.dds","maul":"/esoui/art/icons/gear_blindpath_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_blindpath_1hsword_a.dds","dagger":"/esoui/art/icons/gear_blindpath_dagger_a.dds","feet:*":"/esoui/art/icons/gear_blindpathcultist_hvy_feet.dds","head:*":"/esoui/art/icons/gear_blindpathcultist_hvy_head.dds","legs:*":"/esoui/art/icons/gear_blindpathcultist_hvy_legs.dds","shield":"/esoui/art/icons/gear_blindpath_shield_a.dds","chest:*":"/esoui/art/icons/gear_blindpathcultist_hvy_chest.dds","hands:*":"/esoui/art/icons/gear_blindpathcultist_hvy_hands.dds","waist:*":"/esoui/art/icons/gear_blindpathcultist_hvy_waist.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_blindpath_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_blindpath_staff_a.dds","greatsword":"/esoui/art/icons/gear_blindpath_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_blindpathcultist_hvy_shoulder.dds","inferno-staff":"/esoui/art/icons/gear_blindpath_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_blindpath_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_blindpath_staff_a.dds"}'
+key: reflected-fury
+subcategory-id: dungeon
+valid: '["*:heavy"]'
+---

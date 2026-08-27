@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66ec-7d49-7d79-bd6a-3622410cebdd
+title: "Perfected Stone-Talker's Oath"
+slug: perfected-stone-talkers-oath
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"magicka-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Magicka Recovery"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"magicka-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Magicka Recovery"},{"count":5,"status":"unsupported","effects":[],"description":"Your fully-charged Heavy Attacks place a soul bomb on your target that charges as the target takes damage. After 10 seconds, the bomb explodes, restoring 5% of the damage received as Stamina and Magicka, up to 2240 Stamina and Magicka, to 12 group members within 16 meters of the explosion. This effect can occur every 10 seconds."}]'
+eso-set-id: 592
+icons: '{"axe":"/esoui/art/icons/gear_rockgrove_1haxe_a.dds","bow":"/esoui/art/icons/gear_rockgrove_bow_a.dds","mace":"/esoui/art/icons/gear_rockgrove_1hhammer_a.dds","maul":"/esoui/art/icons/gear_rockgrove_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_rockgrove_1hsword_a.dds","dagger":"/esoui/art/icons/gear_rockgrove_dagger_a.dds","feet:*":"/esoui/art/icons/gear_rockgrove_lgt_feet_a.dds","head:*":"/esoui/art/icons/gear_rockgrove_lgt_head_a.dds","legs:*":"/esoui/art/icons/gear_rockgrove_lgt_legs_a.dds","shield":"/esoui/art/icons/gear_rockgrove_shield_a.dds","chest:*":"/esoui/art/icons/gear_rockgrove_lgt_robe_a.dds","hands:*":"/esoui/art/icons/gear_rockgrove_lgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_rockgrove_lgt_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_rockgrove_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_rockgrove_staff_a.dds","greatsword":"/esoui/art/icons/gear_rockgrove_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_rockgrove_lgt_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_rockgrove_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_rockgrove_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_rockgrove_staff_a.dds"}'
+key: perfected-stone-talkers-oath
+subcategory-id: trial
+valid: '["*:light"]'
+---
