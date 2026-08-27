@@ -106,7 +106,7 @@ Three places work out where a page's code sits, each for itself: `checks-system/
 
 `page-type/check` and `domain/the-graph` both write the beside convention as an invariant. Those lines change when the attachment lands, and each changed line goes to Alan first.
 
-`tools/required-reading.ts` keys a file claim into a plain map by repository and path, so where two pages name one file the second silently replaces the first. Two `readout-widget` pairs do, leaving one page of each pair unwarranted.
+`tools/required-reading.ts` builds four maps in one loop — by repository and path, by file extension, by file-purpose ending, and by body-section heading — and each takes a plain `set`, so a second page claiming a key another page already holds silently replaces it. Two `readout-widget` pairs do, leaving one page of each pair unwarranted. A declaration that is displaced reads exactly like one never written, which is what makes it expensive to find.
 
 `code-loaded-by` is written `type: string`, and no page-property-type page defines `string`. That is why it draws no relation edge and earns no required-reading warrant.
 
