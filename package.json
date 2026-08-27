@@ -12,7 +12,8 @@
     "alanwalton/voice-core",
     "automation/core",
     "infra/auth-proxy",
-    "infra/git-transport"
+    "infra/git-transport",
+    "infra/inference"
   ],
   "dependencies": {
     "@vscode/ripgrep": "^1.18.0",
