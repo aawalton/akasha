@@ -12,7 +12,7 @@ Every fleet session's tool-schema deferral rests on one JSON key, `ENABLE_TOOL_S
 
 # Evidence
 
-The key stands at `settings/agents.json:5` in the instructions repository, `"ENABLE_TOOL_SEARCH": "true"` inside `env`, one of three keys there beside `BASH_ENV` and `DISABLE_AUTOUPDATER`. JSON carries no comment, so the file cannot state why.
+The key stands at `settings/agents.json:5` in akasha, `"ENABLE_TOOL_SEARCH": "true"` inside `env`, one of three keys there beside `BASH_ENV` and `DISABLE_AUTOUPDATER`. JSON carries no comment, so the file cannot state why.
 
 That it is not a redundant default is settled by the Claude Code binary's own changelog rather than by any document here. `~/.claude/cache/changelog.md:2550`, version 2.1.72: "Fixed tool search to activate even with `ANTHROPIC_BASE_URL` as long as `ENABLE_TOOL_SEARCH` is set." A later entry at `:1477` adds that tool search is disabled by default on Vertex AI, opt in with the same variable. Every fleet session carries a base URL — `monarch/seat.ts:96` in this repository states that an interactive session carries its own proxy routing in `ANTHROPIC_BASE_URL`.
 
