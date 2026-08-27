@@ -9,7 +9,7 @@ import {
 
 const HELP = `bun services/rule-population-sweep.ts — read every enforcement rule's population and file the reading
 
-One pass over the code checkout beside this one. It dispatches every syntax scanner across the
+One pass over this repository. It dispatches every syntax scanner across the
 whole canonical TS population, counts what each rule WEIGHED rather than what it FOUND, and files
 one message in \`${READER}\`'s mailbox saying which rules weighed nothing.
 
@@ -21,7 +21,7 @@ repaired, so this reports and never refuses — the call stays a person's.
 A SWEEP THAT READ NO RULES FILES NOTHING. A reading over zero rules carries the same empty finding
 list as a healthy one, so it fails the run instead.
 
-It reads the code repository as it now stands, with no graph cache, so a rule landed this morning
+It reads the repository as it now stands, with no graph cache, so a rule landed this morning
 is read this morning.
 
 Driven by the rule-population-sweep service, whose document states its cadence. Safe to run by hand.
