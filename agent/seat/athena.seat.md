@@ -9,4 +9,5 @@ person-slug: alan
 on-call: true
 initiative-slug: athena-agent-harness
 registration-account: aawalton
+claude-code-session-uuid: 73fc587f-89d3-4a77-9ea5-f569570a94e4
 ---
