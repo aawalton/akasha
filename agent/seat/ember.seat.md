@@ -6,4 +6,5 @@ persona-slug: ember
 domain-slug: domain/temper
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
