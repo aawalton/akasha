@@ -16,12 +16,12 @@ export interface LevelImagery {
   readonly pose: string
 }
 
-export interface LadderLevel extends LevelImagery {
+export interface ClosenessLevel extends LevelImagery {
   readonly level: number
   readonly stage: string
 }
 
-export const LEVELS: readonly LadderLevel[] = [
+export const LEVELS: readonly ClosenessLevel[] = [
   {
     level: 1,
     stage: "Initiating",
