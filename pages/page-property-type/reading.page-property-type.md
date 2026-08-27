@@ -10,4 +10,4 @@ domain-parent-slug: domain/page-property-type-record
 
 # Definition
 
-- **Reading** — which lines of one body an agent has read, and of which version of it.
+- **Reading** — one body an agent has read whole.

@@ -8,15 +8,13 @@ domain-parent-slug: domain/required-reading
 
 # Definition
 
-- **Read record** — what each agent has read, when, and how much of it.
+- **Read record** — what each agent has read.
 
 # Design
 
-A record covers the lines a reader saw, never the file they opened.
+A partial read leaves no record.
 
 An authored change discards what was read of the body.
-
-A read that names no range covers only what the tool returned.
 
 A replaced context takes every reading the agent has made.
 
