@@ -7,8 +7,6 @@ files: akasha:agent/seat/**/*.seat.md
 body-shape-slug: empty
 slug: seat
 domain-parent-slug: domain/agent-definitions
-required-reading-slugs:
-  - repo/memory-repo
 settled: true
 mortal: true
 ---

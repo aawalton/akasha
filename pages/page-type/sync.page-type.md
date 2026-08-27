@@ -7,8 +7,6 @@ files: akasha:**/*.sync.md
 body-shape-slug: empty
 slug: sync
 domain-parent-slug: domain/collection-system
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

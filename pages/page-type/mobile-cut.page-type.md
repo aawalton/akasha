@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: mobile-cut
 plural-slug: mobile-cuts
 domain-parent-slug: domain/ops-mobile
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{app-slug}-{build-number}"
 ---
 

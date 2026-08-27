@@ -7,8 +7,6 @@ files: akasha:**/*.relationship-deposit.md
 body-shape-slug: empty
 slug: relationship-deposit
 domain-parent-slug: domain/persona-points
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

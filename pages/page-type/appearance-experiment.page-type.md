@@ -8,7 +8,6 @@ body-shape-slug: empty
 slug: appearance-experiment
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
-  - repo/memory-repo
   - domain/persona-points
 ---
 

@@ -7,8 +7,6 @@ files: akasha:**/*.code-editor-terminal.md
 body-shape-slug: empty
 slug: code-editor-terminal
 domain-parent-slug: domain/code-editor
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

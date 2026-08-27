@@ -7,8 +7,6 @@ files: akasha:**/*.pipeline.md
 body-shape-slug: empty
 slug: pipeline
 domain-parent-slug: domain/change-harness-cluster
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{branch}-{commit}"
 next-seq: 101
 mortal: true

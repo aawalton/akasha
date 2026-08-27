@@ -9,7 +9,6 @@ slug: question
 plural-slug: questions
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
-  - repo/memory-repo
   - domain/alan-harness-agents
 named-for: "{slug}"
 mortal: true

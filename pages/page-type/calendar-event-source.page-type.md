@@ -8,8 +8,6 @@ body-shape-slug: empty
 named-for: "{external-id}"
 slug: calendar-event-source
 domain-parent-slug: page-type/calendar-event
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

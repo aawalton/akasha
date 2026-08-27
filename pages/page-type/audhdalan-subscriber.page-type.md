@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: audhdalan-subscriber
 plural-slug: audhdalan-subscribers
 domain-parent-slug: domain/audhdalan
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{email}"
 ---
 

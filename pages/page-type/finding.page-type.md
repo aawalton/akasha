@@ -7,8 +7,6 @@ files: akasha:**/*.finding.md
 body-shape-slug: finding
 slug: finding
 domain-parent-slug: domain/work-system
-required-reading-slugs:
-  - repo/memory-repo
 settled: true
 mortal: true
 ---

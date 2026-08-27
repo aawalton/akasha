@@ -7,8 +7,6 @@ files: akasha:**/*.monarch-month.md
 body-shape-slug: empty
 slug: monarch-month
 domain-parent-slug: domain/monarch
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

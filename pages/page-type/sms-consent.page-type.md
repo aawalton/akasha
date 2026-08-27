@@ -8,8 +8,6 @@ body-shape-slug: empty
 named-for: "{slug}"
 slug: sms-consent
 domain-parent-slug: domain/sms
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

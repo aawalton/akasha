@@ -8,8 +8,6 @@ body-shape-slug: reminder
 slug: reminder
 plural-slug: reminders
 domain-parent-slug: page-type/message
-required-reading-slugs:
-  - repo/memory-repo
 mortal: true
 ---
 

@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: idle-save
 plural-slug: idle-saves
 domain-parent-slug: page-type/idle-game
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: device-token
 plural-slug: device-tokens
 domain-parent-slug: domain/alanwalton-ios-notification
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

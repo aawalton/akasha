@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: artist
 plural-slug: artists
 domain-parent-slug: domain/music
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

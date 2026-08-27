@@ -9,7 +9,6 @@ slug: worktree
 plural-slug: worktrees
 domain-parent-slug: domain/change-harness
 required-reading-slugs:
-  - repo/memory-repo
   - domain/worktree
 next-seq: 19491
 mortal: true

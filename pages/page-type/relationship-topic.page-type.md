@@ -7,8 +7,6 @@ files: akasha:**/*.relationship-topic.md
 body-shape-slug: empty
 slug: relationship-topic
 domain-parent-slug: page-type/person
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

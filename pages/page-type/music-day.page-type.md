@@ -7,8 +7,6 @@ files: akasha:**/*.music-day.md
 body-shape-slug: empty
 slug: music-day
 domain-parent-slug: domain/music
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

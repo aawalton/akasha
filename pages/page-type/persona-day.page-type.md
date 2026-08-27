@@ -7,8 +7,6 @@ files: akasha:**/*.persona-day.md
 body-shape-slug: empty
 slug: persona-day
 domain-parent-slug: domain/persona-points
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: notification-feed
 plural-slug: notification-feeds
 domain-parent-slug: page-type/notification
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{person-slug}"
 ---
 

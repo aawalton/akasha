@@ -7,8 +7,6 @@ files: akasha:**/*.review-session.md
 body-shape-slug: empty
 slug: review-session
 domain-parent-slug: domain/persona-points
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

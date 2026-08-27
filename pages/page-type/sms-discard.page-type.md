@@ -9,8 +9,6 @@ named-for: "{slug}"
 slug: sms-discard
 plural-slug: sms-discards
 domain-parent-slug: domain/sms
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

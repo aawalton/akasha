@@ -8,7 +8,6 @@ body-shape-slug: empty
 slug: wake-daily-tracking
 domain-parent-slug: domain/alan-harness-tracking-store-page
 required-reading-slugs:
-  - repo/memory-repo
   - domain/wake-day
 ---
 

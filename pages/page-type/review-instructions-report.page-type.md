@@ -7,8 +7,6 @@ files: akasha:**/*.review-instructions-report.md
 body-shape-slug: review-instructions-report
 slug: review-instructions-report
 domain-parent-slug: task/review-instructions
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

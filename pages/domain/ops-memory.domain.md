@@ -6,7 +6,6 @@ slug: ops-memory
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - repo/memory-repo
 ---
 
 # Definition

@@ -8,7 +8,6 @@ body-shape-slug: text
 slug: to-do
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
-  - repo/memory-repo
   - domain/alan-harness-agents
 named-for: "{slug}"
 ---

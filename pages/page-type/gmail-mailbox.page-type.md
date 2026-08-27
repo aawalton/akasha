@@ -8,8 +8,6 @@ body-shape-slug: empty
 named-for: "{slug}"
 slug: gmail-mailbox
 domain-parent-slug: domain/email
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

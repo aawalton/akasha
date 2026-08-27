@@ -9,8 +9,6 @@ owner-slug: player-id
 slug: idle-persona-card
 plural-slug: idle-persona-cards
 domain-parent-slug: page-type/idle-game
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

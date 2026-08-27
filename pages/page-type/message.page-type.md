@@ -8,8 +8,6 @@ body-shape-slug: text
 slug: message
 plural-slug: messages
 domain-parent-slug: domain/agent-definitions
-required-reading-slugs:
-  - repo/memory-repo
 settled: true
 mortal: true
 ---

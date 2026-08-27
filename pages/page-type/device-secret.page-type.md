@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: device-secret
 plural-slug: device-secrets
 domain-parent-slug: domain/person-identity
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

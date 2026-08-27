@@ -7,8 +7,6 @@ files: akasha:**/*.life-theme.md
 body-shape-slug: empty
 slug: life-theme
 domain-parent-slug: page-type/value
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{slug}"
 ---
 

@@ -7,8 +7,6 @@ files: akasha:**/*.persona-wallpaper-notification.md
 body-shape-slug: empty
 slug: persona-wallpaper-notification
 domain-parent-slug: page-type/persona-wallpaper
-required-reading-slugs:
-  - repo/memory-repo
 ---
 
 # Definition

@@ -8,8 +8,6 @@ body-shape-slug: empty
 slug: error
 plural-slug: errors
 domain-parent-slug: page-type/finding
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{fingerprint}"
 ---
 

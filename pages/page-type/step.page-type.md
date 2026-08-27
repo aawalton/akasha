@@ -7,8 +7,6 @@ files: akasha:**/*.step.md
 body-shape-slug: empty
 slug: step
 domain-parent-slug: page-type/workflow
-required-reading-slugs:
-  - repo/memory-repo
 named-for: "{workflow-seq}-{name}"
 next-seq: 13782
 mortal: true
