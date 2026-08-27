@@ -251,8 +251,8 @@ export const refusedTypes: FormulaCase[] = [
   {
     name: "a computed key answering a kind other than the type it declares is refused",
     group: "refused-types-do-not-meet",
-    from: L.typesMeet,
-    claim: C.typesMeet,
+    from: L.answersDeclaredType,
+    claim: C.answersDeclaredType,
     formula: "{mislabelled}",
     shape: {
       count: { type: NUMBER },

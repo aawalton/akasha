@@ -23,29 +23,18 @@
 // spelling and the parentheses that group were all provisional once and are
 // now written down, so they cite the page like everything else.
 //
-// This file is plain data. It knows about no evaluator and imports nothing.
+// This corpus is plain data. It knows about no evaluator, and every file under
+// `cases/` imports only its siblings. The cases stand one file to a group and
+// this file is the way in, holding the types they are written in and the whole
+// corpus in order.
 //
 // What the specification does not settle, and so is not tested here:
 //
-//  1. `-` and `/` have no written associativity, so `10 - 3 - 2` is not here.
-//  2. There is no unary minus in the operators list, so `-1` is not here;
-//     `0 - 1` is.
-//  3. Whether a function given an absent value answers absent is written for
-//     operators and not for functions. One case takes the reading that it
-//     does, and is marked in its comment.
-//  4. Whether a number or a boolean may be filled into a text literal at all
+//  1. Whether a number or a boolean may be filled into a text literal at all
 //     is not written. What an *absent* reference does is settled, on
 //     `formula-absent-value.domain.md:25`; what a present non-text one does is
 //     not. One case-form case assumes it may; it is marked.
-//  5. Whether `<`, `<=`, `>` and `>=` reach text is not written, so only
-//     numbers are compared here.
-//  6. Whether `hasWord` folds case, and what besides a space bounds a word,
-//     are not written; only space-bounded, same-case cases are here.
-//  7. Whether `hoursBetween(later, earlier)` is negative or a magnitude is not
-//     written; every case here puts the earlier instant first.
-//  8. Whether a formula may answer an instant or a list at all, and whether a
-//     page type constrains what kind its `name` formula answers, are not
-//     written.
+//  2. Whether a formula may answer an instant or a list at all is not written.
 
 import { absence } from "./absence.ts"
 import { arithmetic } from "./arithmetic.ts"
@@ -87,7 +76,7 @@ export type FormulaValue =
 
 /**
  * One key a page type declares. A key carrying a `formula` is a computed
- * property; `pages/domain/formula-language.domain.md:36` says a formula names
+ * property; `pages/domain/formula-language.domain.md:44` says a formula names
  * one exactly as it names a stored one.
  */
 export interface ShapeKey {
@@ -101,7 +90,7 @@ export type Shape = Record<string, ShapeKey>
 /**
  * Where a wrong program is caught. `pages/domain/language-failure.domain.md:15`
  * names three moments: reading it, checking what it names, running it on
- * values. `pages/domain/formula-language.domain.md:54` closes the third for
+ * values. `pages/domain/formula-language.domain.md:70` closes the third for
  * this language, so no case here expects a refusal at run time.
  */
 export type RefusalMoment = "read" | "check"

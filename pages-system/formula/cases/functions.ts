@@ -97,17 +97,12 @@ export const functions: FormulaCase[] = [
   {
     name: "hours between with an absent instant",
     group: "functions",
-    from: L.fnHoursBetween,
-    claim: C.fnHoursBetween,
+    from: L.absentFunction,
+    claim: C.absentFunction,
     formula: call("hoursBetween", "{start}", "{finish}"),
     shape: MIXED,
     values: { start: instant("2026-01-01T00:00:00Z") },
     expected: ABSENT,
-    // See the questions: the specification states this for operators and not
-    // for functions. This case takes the reading that a function given an
-    // absent value answers absent, matching
-    // `language-failure.domain.md:37`, "Let one absent value stop the whole
-    // answer."
   },
   {
     name: "contains answers true where the list holds the value",

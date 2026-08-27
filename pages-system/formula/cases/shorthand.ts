@@ -135,13 +135,15 @@ export const L = {
   cycle: onLine(FORMULA_LANGUAGE, 48),
   joinsText: onLine(FORMULA_LANGUAGE, 50),
   precedence: onLine(FORMULA_LANGUAGE, 52),
-  parenthesesGroup: onLine(FORMULA_LANGUAGE, 54),
-  shortCircuit: onLine(FORMULA_LANGUAGE, 56),
-  textLiteral: onLine(FORMULA_LANGUAGE, 58),
-  valueWords: onLine(FORMULA_LANGUAGE, 60),
-  undeclaredKey: onLine(FORMULA_LANGUAGE, 62),
-  typesMeet: onLine(FORMULA_LANGUAGE, 64),
-  neverFails: onLine(FORMULA_LANGUAGE, 66),
+  equalBindsLeft: onLine(FORMULA_LANGUAGE, 54),
+  parenthesesGroup: onLine(FORMULA_LANGUAGE, 56),
+  shortCircuit: onLine(FORMULA_LANGUAGE, 58),
+  textLiteral: onLine(FORMULA_LANGUAGE, 60),
+  valueWords: onLine(FORMULA_LANGUAGE, 62),
+  undeclaredKey: onLine(FORMULA_LANGUAGE, 64),
+  typesMeet: onLine(FORMULA_LANGUAGE, 66),
+  answersDeclaredType: onLine(FORMULA_LANGUAGE, 68),
+  neverFails: onLine(FORMULA_LANGUAGE, 70),
 
   absentOperator: onLine(FORMULA_ABSENT_VALUE, 15),
   absentEquality: onLine(FORMULA_ABSENT_VALUE, 17),
@@ -149,6 +151,7 @@ export const L = {
   fallback: onLine(FORMULA_ABSENT_VALUE, 21),
   divideByZero: onLine(FORMULA_ABSENT_VALUE, 23),
   textLiteralAbsent: onLine(FORMULA_ABSENT_VALUE, 25),
+  absentFunction: onLine(FORMULA_ABSENT_VALUE, 27),
 
   valueText: onLine(FORMULA_VALUES, 15),
   valueNumber: onLine(FORMULA_VALUES, 16),
@@ -210,7 +213,8 @@ export const C = {
   cycle: "A cycle among a page type's formulas is refused when the page type is checked.",
   joinsText: "A formula joins text by writing references into a text literal, and in no other way.",
   precedence:
-    "A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.",
+    "A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication, negation.",
+  equalBindsLeft: "Operators that bind equally group to the left.",
   parenthesesGroup: "Parentheses group.",
   shortCircuit: "An operator that can answer from its left side alone does not work out its right.",
   textLiteral: "A text literal is written between double quotes, and holds no quote of its own.",
@@ -218,6 +222,8 @@ export const C = {
   undeclaredKey:
     "A formula that names a key its page type does not declare is refused when the page type is checked.",
   typesMeet: "A formula whose types do not meet is refused when the page type is checked.",
+  answersDeclaredType:
+    "A formula that answers a kind other than the type its property declares is refused when the page type is checked.",
   neverFails: "A formula that passes its check answers a value or absent, and never fails.",
 
   absentOperator: "An operator that reaches an absent value answers absent.",
@@ -226,6 +232,7 @@ export const C = {
   fallback: "`??` answers its left side, or its right where its left is absent.",
   divideByZero: "Dividing by zero answers absent.",
   textLiteralAbsent: "A text literal answers absent where any reference in it is absent.",
+  absentFunction: "A function that reaches an absent value answers absent.",
 
   valueText: "**text** — a run of characters.",
   valueNumber: "**number** — a count or a measure, whole or fractional.",
@@ -236,20 +243,22 @@ export const C = {
     "**absent** — what a formula gets where the page holds nothing under the key it read.",
 
   fnNow: "**now** — the moment the formula is worked out, as an instant.",
-  fnHoursBetween: "**hoursBetween** — the hours between two instants.",
+  fnHoursBetween: "**hoursBetween** — the hours between two instants, never negative.",
   fnContains: "**contains** — whether a list holds a value.",
-  fnHasWord: "**hasWord** — whether a text holds a word, bounded at both ends.",
+  fnHasWord:
+    "**hasWord** — whether a text holds a word, bounded at both ends by anything that is not a letter or a digit, ignoring case.",
 
   opPlus: "**`+`** — adds one number to another.",
-  opMinus: "**`-`** — subtracts one number from another.",
+  opMinus:
+    "**`-`** — subtracts one number from another, or negates one where nothing stands to its left.",
   opTimes: "**`*`** — multiplies one number by another.",
   opDivide: "**`/`** — divides one number by another.",
   opEqual: "**`==`** — whether two values are the same.",
   opNotEqual: "**`!=`** — whether two values differ.",
-  opLess: "**`<`** — whether the left is less than the right.",
-  opAtMost: "**`<=`** — whether the left is at most the right.",
-  opMore: "**`>`** — whether the left is more than the right.",
-  opAtLeast: "**`>=`** — whether the left is at least the right.",
+  opLess: "**`<`** — whether one number is less than another.",
+  opAtMost: "**`<=`** — whether one number is at most another.",
+  opMore: "**`>`** — whether one number is more than another.",
+  opAtLeast: "**`>=`** — whether one number is at least another.",
   opAnd: "**`&&`** — whether both sides are true.",
   opFallback: "**`??`** — the left, or the right where the left is absent.",
 
