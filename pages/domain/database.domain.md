@@ -16,3 +16,6 @@ A GIN index sets a small pending-list bound rather than taking the default.
 
 Every database-backed test boots its schema from the committed snapshot.
 
+# Intent
+
+- Supabase is reached only for auth.

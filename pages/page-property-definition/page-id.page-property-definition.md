@@ -13,3 +13,6 @@ domain-parent-slug: domain/page-property-universal
 
 - **Page id** — the one name a page keeps for its whole life.
 
+# Intent
+
+- Every page carries an id.
