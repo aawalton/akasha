@@ -8,7 +8,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-The TypeScript-subset checker for procedural source is wired into nothing. `findForbidden` rejects the constructs with no plpgsql lowering — `forEach` with a control-flow `return`, `replaceAll`, classes, untyped `any`, `Promise.all`, `await` on a non-context call — and is reachable from its own unit test and no other caller. It sits on no compile path and no CI path, so a forbidden construct in a real procedure file is caught by nothing. The `check-proc-subset` gate two documents name does not exist.
+The TypeScript-subset checker for procedural source is wired into nothing. `findForbidden`, at `shared/proc-compiler/src/forbidden.ts:16`, rejects the constructs with no plpgsql lowering — `forEach` with a control-flow `return`, `replaceAll`, classes, untyped `any`, `Promise.all`, `await` on a non-context call — and is reachable from its own unit test and no other caller. It sits on no compile path and no CI path, so a forbidden construct in a real procedure file is caught by nothing. The `check-proc-subset` gate two documents name does not exist.
 
 # Evidence
 
