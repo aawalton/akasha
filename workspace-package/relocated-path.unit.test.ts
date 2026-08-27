@@ -232,3 +232,36 @@ describe("the root and the container that holds the packages are moves like any 
     ).toBe("../addons/tsconfig.base.json")
   })
 })
+
+describe("a repository beside the source is a landing site only where the plan names it", () => {
+  const AKASHA: Landed = { from: "../akasha", to: "" }
+
+  const PARENT: Landed = { from: "..", to: "" }
+
+  const BESIDE: readonly Landed[] = [AKASHA, PARENT]
+
+  const SHIM = "packages/shared/recurrence"
+
+  const SETTLED = "shared/recurrence"
+
+  test("a reach into a named sibling repository is renamed to where that repository landed", () => {
+    expect(relocatedPath(SHIM, SETTLED, "../../../../akasha/day/day.ts", BESIDE)).toBe(
+      "../../day/day.ts"
+    )
+  })
+
+  test("a rootDir naming the folder holding both repositories follows that folder", () => {
+    expect(relocatedPath(SHIM, SETTLED, "../../../..", BESIDE)).toBe("../..")
+  })
+
+  test("a sibling going nowhere is refused rather than followed to the folder above it", () => {
+    const stays: Landed = { from: "../instructions", to: null }
+    expect(
+      relocatedPath(SHIM, SETTLED, "../../../../instructions/tools/ops.ts", [...BESIDE, stays])
+    ).toBe(null)
+  })
+
+  test("a plan naming nothing above the source refuses every path above it", () => {
+    expect(relocatedPath(SHIM, SETTLED, "../../../../akasha/day/day.ts", CROSSING)).toBe(null)
+  })
+})
