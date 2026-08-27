@@ -62,8 +62,8 @@ function ran(): CheckOutcome {
   const root = scratch("editor-single-instructions")
   installRefusals(root)
   const repo: RepoView = {
-    roots: { instructions: root, code: "/nonexistent", memory: "/nonexistent", books: "/nonexistent", stories: "/nonexistent", "code-editor": "/nonexistent", target: "instructions" },
-    name: "instructions",
+    roots: { akasha: root, "code-editor": "/nonexistent" },
+    name: "akasha",
     documents: [],
     read: (relPath) => require("node:fs").readFileSync(`${root}/${relPath}`, "utf8") as string,
     exists: (absolute) => require("node:fs").existsSync(absolute) as boolean,

@@ -42,7 +42,7 @@ function subject(relPath: string, body: string, alsoPending: Record<string, stri
   return {
     relPath,
     body,
-    roots: { instructions: at.root, code: "/nonexistent-code", memory: "/nonexistent-memory", books: "/nonexistent-books", stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor", target: "instructions" },
+    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
     agent: "agent-one",
     mechanical: false,
     exists: (absolutePath) => bodies.has(relative(absolutePath)) || existsSync(absolutePath),

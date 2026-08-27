@@ -13,8 +13,8 @@ function put(rel: string, frontmatter: string): void {
 
 function view(): RepoView {
   return {
-    roots: { instructions: root } as unknown as RepoView["roots"],
-    name: "instructions",
+    roots: { akasha: root } as unknown as RepoView["roots"],
+    name: "akasha",
     documents: [],
     read: () => "",
     exists: () => false,
@@ -26,11 +26,11 @@ beforeAll(() => {
   put("pages/page-type/page.page-type.md", "page-type-slug: page-type\nslug: page\nextends-slug: none\nfiles: none")
   put(
     "pages/page-type/team.md",
-    "page-type-slug: page-type\nslug: team\nextends-slug: page\nfiles: instructions:pages/team/**/*.md"
+    "page-type-slug: page-type\nslug: team\nextends-slug: page\nfiles: akasha:pages/team/**/*.md"
   )
   put(
     "pages/page-type/person.page-type.md",
-    "page-type-slug: page-type\nslug: person\nextends-slug: page\nfiles: instructions:pages/person/**/*.md"
+    "page-type-slug: page-type\nslug: person\nextends-slug: page\nfiles: akasha:pages/person/**/*.md"
   )
   put(
     "pages/page-property-definition/person-team.page-property-definition.md",

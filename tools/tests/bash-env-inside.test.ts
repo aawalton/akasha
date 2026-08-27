@@ -7,8 +7,8 @@ import { bashEnvInside, declaredIn } from "../audits/bash-env-inside.ts"
 import { installRefusals } from "./fixture.ts"
 
 const STARTUP = "tools/bash-env.sh"
-const INSIDE = `$HOME/instructions/${STARTUP}`
-const OUTSIDE = "$HOME/code/packages/shared/dotfiles/bash-env.sh"
+const INSIDE = `$HOME/repos/akasha/${STARTUP}`
+const OUTSIDE = "$HOME/repos/code-editor/tools/bash-env.sh"
 
 function declaring(value: string): string {
   return JSON.stringify({ env: { BASH_ENV: value } })
@@ -16,15 +16,8 @@ function declaring(value: string): string {
 
 function repoViewOf(root: string): RepoView {
   return {
-    roots: {
-      instructions: root,
-      code: "/nonexistent-code",
-      memory: "/nonexistent-memory",
-      books: "/nonexistent-books",
-      stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor",
-      target: "instructions",
-    },
-    name: "instructions",
+    roots: { akasha: root, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: [],
     read: (relPath) => readFileSync(`${root}/${relPath}`, "utf8"),
     exists: (absolute) => existsSync(absolute),
