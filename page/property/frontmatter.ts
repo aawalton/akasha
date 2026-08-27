@@ -1,5 +1,5 @@
 import { propertyTypesOf } from "./computed.ts"
-import { claimant, matchesAny, PAGE_TYPE_GLOBS, placeOf, reposOf, PROPERTY_GLOBS, type PageType } from "../page-types.ts"
+import { claimant, matchesAny, pageTypeGlobsIn, placeOf, reposOf, PROPERTY_GLOBS, type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
 import { stemOf } from "../name/name.ts"
 import { backReference, SELECT, TYPE_SLUG, TYPE_VOCABULARY } from "./value.ts"
@@ -115,7 +115,7 @@ function typeIndex(tree: FileTree): ReadonlyMap<string, string> {
   const standing = indexes.get(tree)
   if (standing !== undefined) return standing
   const bySlug = new Map<string, string>()
-  for (const relPath of tree.paths(PAGE_TYPE_GLOBS)) {
+  for (const relPath of tree.paths(pageTypeGlobsIn(tree.roots))) {
     const slug = stemOf(relPath)
     if (!bySlug.has(slug)) bySlug.set(slug, relPath)
   }
@@ -149,7 +149,8 @@ export function chainOf(type: PageType, tree: FileTree, index?: ReadonlyMap<stri
 }
 
 export function pageTypeChain(relPath: string, repo: string, tree: FileTree): Specifiers {
-  if (repo === INSTRUCTIONS_REPO && matchesAny(relPath, PAGE_TYPE_GLOBS))
+  const ownRepo = tree.roots !== undefined || repo === INSTRUCTIONS_REPO
+  if (ownRepo && matchesAny(relPath, pageTypeGlobsIn(tree.roots)))
     return { relPaths: null, why: "the registry requires no reading of its own files" }
   const claim = claimant(relPath, repo, registryOf(tree), tree.open(relPath))
   return claim.type === null ? { relPaths: null, why: claim.why } : chainOf(claim.type, tree)

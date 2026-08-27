@@ -223,6 +223,10 @@ export function namedOf(slug: string): string {
   return `**/*.${slug}${MARKDOWN}`
 }
 
+export function pageTypeGlobsIn(roots: Roots | undefined): readonly string[] {
+  return roots === undefined ? PAGE_TYPE_GLOBS : PAGE_TYPE_SPANNING_GLOBS
+}
+
 export interface Filed {
   readonly repo: string | null
   readonly place: string | null
