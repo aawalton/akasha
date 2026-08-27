@@ -9,7 +9,7 @@ const ID = "019ff7d3-64eb-7461-915f-86e3404857d6"
 
 describe("personBehindHandlerSeat", () => {
   test("a handler seat name reads back as the person whose domain the seat states", () => {
-    expect(personBehindHandlerSeat("amy-alan-handler", ROOT)).toBe("alan")
+    expect(personBehindHandlerSeat("alan", ROOT)).toBe("alan")
   })
 
   test("a name no person's handler is spelled as names nobody", () => {
@@ -20,7 +20,7 @@ describe("personBehindHandlerSeat", () => {
 
 describe("messagePageAddress", () => {
   test("a handler mailbox is addressed by the person's domain and the handler role", () => {
-    expect(messagePageAddress(`amy-alan-handler/${ID}`, ROOT)).toEqual({
+    expect(messagePageAddress(`alan/${ID}`, ROOT)).toEqual({
       stated: { kind: "domain", domain: "alan", role: "handler" },
       id: ID,
     })
