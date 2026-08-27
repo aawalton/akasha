@@ -47,7 +47,7 @@ async function spawnFfmpeg(args: readonly string[]) {
     return Bun.spawn([...args], { stdout: "pipe", stderr: "pipe" })
   } catch {
     throw operationalError(
-      "ffmpeg not found on PATH — install it (see packages/shared/dotfiles/Brewfile)"
+      "ffmpeg not found on PATH — install it (see dotfiles/Brewfile)"
     )
   }
 }

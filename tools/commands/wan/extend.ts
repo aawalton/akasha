@@ -141,7 +141,7 @@ async function runFfprobe(args: readonly string[]): Promise<string> {
   const proc = spawnFfprobe(args)
   if (proc === null) {
     throw operationalError(
-      "ffprobe not found on PATH — install ffmpeg (see packages/shared/dotfiles/Brewfile)"
+      "ffprobe not found on PATH — install ffmpeg (see dotfiles/Brewfile)"
     )
   }
   const stdout = await new Response(proc.stdout).text()

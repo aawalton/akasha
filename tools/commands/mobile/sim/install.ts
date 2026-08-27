@@ -28,7 +28,7 @@ export const help: CommandHelp = {
     {
       name: "--skip-stage",
       description:
-        "Deliberate fast path: skip the react-router SPA rebuild and reuse the already-built workstation www/. Still rsyncs that bundle to the mac, but only after a staleness guard that FAILS LOUD (naming both timestamps) when the built www/ is older than the newest source under packages/alanwalton/web — never silently install stale code.",
+        "Deliberate fast path: skip the react-router SPA rebuild and reuse the already-built workstation www/. Still rsyncs that bundle to the mac, but only after a staleness guard that FAILS LOUD (naming both timestamps) when the built www/ is older than the newest source under alanwalton/web — never silently install stale code.",
     },
   ],
   exits: [{ code: 3, meaning: "operational error: ssh/build/install against the macbook failed" }],
