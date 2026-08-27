@@ -9,6 +9,6 @@ impact: 4
 interest: 4
 phone: "+18015028196"
 sms-allowed: true
-sms-handler-target: "amy-ki-handler"
+sms-handler-target: "ki"
 account-user-id: "395db962-77dd-4aa7-b1c2-6500025dc331"
 ---
