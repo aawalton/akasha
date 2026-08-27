@@ -88,7 +88,10 @@ describe("which repo a rename addresses", () => {
         "`initiatives/amy/ambient-hud.md`"
       )
       expect(commitsIn(at.root)).toBe(before + 1)
-      expect(git(at.root, ["status", "--porcelain"])).toBe("")
+      // ASKED OVER WHAT THE RENAME ADDRESSES. A bare `status` also answers this seat's own read
+      // record, which is uncommitted by design and is not a file this rename either moved or
+      // repointed.
+      expect(git(at.root, ["status", "--porcelain", "--", "initiatives", "pages", "tools"])).toBe("")
     } finally {
       at.dispose()
     }
