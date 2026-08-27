@@ -3,7 +3,13 @@ import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { type BuildContext, KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
-import { CODED, ENFORCED, type FolderShapeStatus, HYPOTHESIS, statusesOver } from "./folder-shape.ts"
+import {
+  CODED,
+  ENFORCED,
+  type FolderShapeStatus,
+  HYPOTHESIS,
+  statusesOver,
+} from "./folder-shape.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -57,7 +63,9 @@ function repoAt(files: Readonly<Record<string, string>>): string {
   return root
 }
 
-function statusesFor(files: Readonly<Record<string, string>>): ReadonlyMap<string, FolderShapeStatus> {
+function statusesFor(
+  files: Readonly<Record<string, string>>
+): ReadonlyMap<string, FolderShapeStatus> {
   const root = repoAt(files)
   try {
     const ctx: BuildContext = { roots: { [REPO]: root }, said: KEEPS_NOTHING }
@@ -119,7 +127,10 @@ test("a shape naming no check is a hypothesis", () => {
 test("the check it names refusing a patch is what moves a shape from coded to enforced", () => {
   const shape = shapeSaying("one", "check-slug: named\n")
   const coded = statusesFor({ [shapeKey("one")]: shape, [CHECK_KEY]: checkSaying(REFUSES_NOTHING) })
-  const enforced = statusesFor({ [shapeKey("one")]: shape, [CHECK_KEY]: checkSaying(REFUSES_A_PATCH) })
+  const enforced = statusesFor({
+    [shapeKey("one")]: shape,
+    [CHECK_KEY]: checkSaying(REFUSES_A_PATCH),
+  })
   expect([coded.get("one"), enforced.get("one")]).toEqual([CODED, ENFORCED])
 })
 
