@@ -12,7 +12,7 @@ export const DECLARATION_EXTENSION = "ts"
 const SLUG_KEY = "slug"
 const KIND_KEY = "kind"
 
-const REPO = "instructions"
+const REPO = "akasha"
 
 const EVERY_KIND: Readonly<Record<WorkflowKind, true>> = {
   preparation: true,
@@ -74,19 +74,19 @@ function kindOf(values: Readonly<Record<string, unknown>>, at: string): Workflow
   return stated as WorkflowKind
 }
 
-export function rootedAt(instructionsRoot: string): Roots {
-  return { ...resolveRoots(), instructions: canonicalize(instructionsRoot) }
+export function rootedAt(root: string): Roots {
+  return { ...resolveRoots(), akasha: canonicalize(root) }
 }
 
-export function workflowPages(instructionsRoot: string): readonly WorkflowPage[] {
-  const roots = rootedAt(instructionsRoot)
+export function workflowPages(root: string): readonly WorkflowPage[] {
+  const roots = rootedAt(root)
   const asked = answer(roots, {
     pageType: WORKFLOW_TEMPLATE_PAGE_TYPE,
     keys: [SLUG_KEY, KIND_KEY],
   })
   if (asked === null) {
     throw new Error(
-      `the tree at \`${roots.instructions}\` names no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page type ` +
+      `the tree at \`${roots.akasha}\` names no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page type ` +
         "whose pages are files, so no workflow stands to be run"
     )
   }
@@ -97,7 +97,7 @@ export function workflowPages(instructionsRoot: string): readonly WorkflowPage[]
       slug: textIn(row.values, SLUG_KEY) ?? relPath,
       kind: kindOf(row.values, row.at),
       sourcePath,
-      declarationPath: `${roots.instructions}/${sourcePath}`,
+      declarationPath: `${roots.akasha}/${sourcePath}`,
     }
   })
 }
@@ -184,10 +184,10 @@ export async function loadWorkflowPage(
 }
 
 export async function discoverWorkflows(
-  instructionsRoot: string,
+  root: string,
   context: DeclarationContext
 ): Promise<readonly DiscoveredWorkflow[]> {
-  const pages = workflowPages(instructionsRoot)
+  const pages = workflowPages(root)
   const loaded = await Promise.all(pages.map((one) => loadWorkflowPage(one, context)))
   return loaded.flat()
 }

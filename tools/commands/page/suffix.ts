@@ -125,11 +125,11 @@ function carryReadings(
 }
 
 function refileType(type: PageType, glob: string, dryRun: boolean): string {
-  const roots = resolveRoots("instructions")
+  const roots = resolveRoots("akasha")
   // Renaming the `page-type` type moves the very document that states its own
   // `files:`, so the path read off the registry is the one it stood at before.
-  const relPath = pageTypePathIn(roots.instructions, type.slug)
-  const body = readFileSync(`${roots.instructions}/${relPath}`, "utf8")
+  const relPath = pageTypePathIn(roots.akasha, type.slug)
+  const body = readFileSync(`${roots.akasha}/${relPath}`, "utf8")
   const line = body.split("\n").find((one) => one.startsWith("files:"))
   if (line === undefined) throw operationalError(`${type.relPath} states no \`files:\` to refile`)
   const next = `files: ${glob}`
@@ -137,7 +137,7 @@ function refileType(type: PageType, glob: string, dryRun: boolean): string {
   land(
     roots,
     [{ relPath, body: body.replace(line, next) }],
-    `instructions: file every \`${type.slug}\` by its name rather than its folder`,
+    `akasha: file every \`${type.slug}\` by its name rather than its folder`,
     dryRun
   )
   return `${line}  ->  ${next}`

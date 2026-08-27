@@ -35,7 +35,7 @@ export function surfaceRoots(flags: {
   readonly codeRoot?: string | undefined
 }): SurfaceRoots {
   return {
-    instructionsRoot: real(flags.instructionsRoot ?? resolveRoots().instructions),
+    instructionsRoot: real(flags.instructionsRoot ?? resolveRoots().akasha),
     codeRoot: real(flags.codeRoot ?? codeRoot()),
   }
 }
