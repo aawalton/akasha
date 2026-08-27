@@ -10,7 +10,6 @@ import { domainEdges } from "./audits/domain-edges.ts"
 import { editorExtensionSingle } from "./audits/editor-extension-single.ts"
 import { emailRulesCover } from "./audits/email-rules-cover.ts"
 import { emailRulesDisjoint } from "./audits/email-rules-disjoint.ts"
-import { graphAttributesClaimed } from "./audits/graph-attributes-claimed.ts"
 import { hooksAgree } from "./audits/hooks-agree.ts"
 import { hooksDelivered } from "./audits/hooks-delivered.ts"
 import { hooksUncopied } from "./audits/hooks-uncopied.ts"
@@ -53,7 +52,6 @@ export const CHECKS: Readonly<Record<string, Levy>> = {
   "email-rules-cover": { repos: ["akasha"], run: emailRulesCover },
   "email-rules-disjoint": { repos: ["akasha"], run: emailRulesDisjoint },
   "findings-sorted": { repos: ["akasha"], run: findingsSorted },
-  "graph-attributes-claimed": { repos: ["akasha"], run: graphAttributesClaimed },
   "hooks-agree": { repos: ["akasha"], run: hooksAgree },
   "hooks-delivered": { repos: ["akasha"], run: hooksDelivered },
   "hooks-uncopied": { repos: ["akasha"], run: hooksUncopied },

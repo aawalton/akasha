@@ -10,7 +10,6 @@ sequence-slugs:
   - domain/graph-attribute
   - domain/graph-producer
   - domain/graph-deriver
-  - workstation-service/graph-service
   - domain/graph-reader
   - domain/graph-artifact
   - domain/ops-graph
