@@ -15,6 +15,7 @@ import {
   type Importers,
   type Moves,
   type Repointed,
+  runtimeReading,
   specifierReading,
   surveyImporters,
   surveyRename,
@@ -288,6 +289,7 @@ export function landMoves(move: Move): void {
     slugEdges(moves, roots),
     escapedSpellings(survey.escaped),
     specifierReading(survey.reading),
+    runtimeReading(survey.runtime),
     ...(importers.length === 0 ? [] : [importerReading(importers)]),
   ]
   process.stderr.write(
