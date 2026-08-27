@@ -1,0 +1,1 @@
+Pre-generated audio is unaffected (all timing up front). The fork is only how the LIVE Kokoro stream behaves: track-the-frontier keeps fast-start and matches how the stream actually plays (my lean); wait-for-full-render is simpler/uniform but loses the streaming benefit. Blocks dispatching #15770.

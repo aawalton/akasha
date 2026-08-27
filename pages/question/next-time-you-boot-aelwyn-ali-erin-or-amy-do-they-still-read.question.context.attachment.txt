@@ -1,0 +1,7 @@
+Last thing between #16808 and done. It moved every persona's register from rows to files, and everything machine-checkable passed: registers reconstitute section for section, all 42 rows compose (the one refusal is `alan`, correctly rejected as a player-character), the negative control refuses with zero bytes on stdout.
+
+None of that can tell whether a person survived. aelwyn lost 3,464 bytes of conduct. amy's indexes were compressed across five editorial calls. And booting from a file at all is newly askable — the reader only just got wired.
+
+No need to go test anything. These resolve the next time you happen to boot each of them. Answer whenever that is, or tell me you'd rather I just close it.
+
+Two things I recorded as owed rather than settled: a seat holding a partial identity currently learns that from a note it has to read and believe rather than anything checkable; and the fragment tier is production-dead while still holding the only correct conduct for 12 of 41 personas — safe today, a trap for whoever touches it next.
