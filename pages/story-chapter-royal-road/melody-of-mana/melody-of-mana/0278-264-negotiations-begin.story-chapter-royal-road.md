@@ -1,0 +1,85 @@
+---
+id: a4c7e2f6-efe5-56dd-9edc-1d818e7ee1ab
+page-type-slug: story-chapter-royal-road
+title: "264 Negotiations Begin"
+slug: 0278-264-negotiations-begin
+partOf: melody-of-mana
+position: 278
+ownLength: 1296
+unit: words
+ownProgress: 1296
+publishedAt: 2023-09-02
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1330381/264-negotiations-begin"
+royalRoadId: "1330381"
+markedReadAt: "2026-06-29T22:35:26.178Z"
+---
+
+I sat at the meeting table, waiting, across from me the woman who I was fairy convinced had founded The Lovers. She sat there playing with her hair as I ran through my paperwork, looking over reports that had just arrived this morning. The scouts had noticed some of the local monsters were acting strangely, either missing or riled up. There were a few ways that might have happened, the most likely being that some other, bigger beast had moved into the area, but it was all still far enough away that we shouldn't be in immediate danger.
+
+Mystien was at my side, our table divided into thirds. He was comporting himself better than most had, as well involved in his own work, and the interest in meeting our final guest.
+
+There were a few guards here, and all were now acting right, Ulanion having given them a firm beating into shape. He though was elsewhere, just because something big was going on didn't mean that we had no other concerns where senior staff was needed.
+
+I thought back to my conversation with Kala this morning. She absolutely gushed about our guest, and knowing her I was well aware how the two of them had spent their evening. The shade of red she turned when I asked her the woman's name and she failed to answer acted as both confirmation and a reminder that our elven 'friend' liked her games.
+
+The final third of our circular table sat before a portal, recently moved from my personal lab. As the time for our meeting finally arrived it charged up, flaring to live.
+
+The first one to step through was a rather familiar looking golemic dog. It surveyed the area briefly before the figure of the ancient elven king stepped through. His eyes swept the room before landing on the priestess. I almost felt his face fall, shoulders lowering briefly and eyes taking on the look of age.
+
+“Naturally they'd send you. I am at least glad to see you well Adia.” Now I had a name at least.
+
+“Let's get this over with. You want to research this anomaly at Silversprings yes? I'm willing to listen to the proposal, but we want guarantees that you'll do nothing else,” Adia said.
+
+“Not even a hello? After all this time can you not at least forgive me?”
+
+“I was satisfied with your punishment, which was never to trod these lands again, and yet here you stand.” The priestess released her aura like a wave, undulating pink like a tide pushing across the room in her anger.
+
+Mystien drew back in near panic at the amount of power, but I was less impressed, having seen such displays before. She was strong, sure, very strong, but this wasn't controlled, she'd actually lost her cool. A look revealed that Justin too was unimpressed, merely keeping a small bubble of bubbles around himself.
+
+I flared my power, as well. It was meager compared to the titans around me, but there was a point to be made that we wouldn't be bullied. As soon as he recovered our own archmage joined me.
+
+“I believe we all agreed that there would be no fighting here,” I said with as much steel as I could force into my voice.
+
+In an instant the aggression fell away, returning things to their former state.
+
+“My apologies,” Adia said.
+
+“We are satisfied to allow access to our lands,” Mystien declared. “Though we do want the results of the investigation to prevent further disasters.” While I might be in charge of this facility, he would be the one who could authorize work at other places. “I'd also like to speak with you at length another time, as I feel it might be enlightening,” he said to Justin.
+
+“That is not enough for us, we want a guarantee,” the priestess said, crossing her arms.
+
+“Of what kind?” I asked, hoping to solve this problem.
+
+“That is the problem isn't it? We have few who exist at the level of magic needed to combat him, and I doubt you lot could stop him from making a portal and marching an army through it,” she argued, and she was right.
+
+“I no longer command armies, Adia, and haven't in a long time.”
+
+“Oh? And how many golems like that one do you have?” At the face the other old elf made she snorted. “That's what I thought.”
+
+I had to look between the two, there was history here, a lot of it, but neither seemed interested in going into the details. There was a deep seated desire in me to know what happened between the two of them, but there was a problem. If I pried one or both might spill the details of who I was to Mystien or the others, something I decidedly didn't want.
+
+“If I wanted to do that, I simply would,” Justin argued. “It isn't like there's anyone here who could do much about it. If an army of automatons to conquer land was what I desired to release, I would just release them. Clearly though, you want something, so why don't you tell me what it is?”
+
+There was a slight smile from Adia. “Alana, could you construct another of those explosive devices, like the one whose results he wishes to look into?”
+
+“Not with the new restrictions on the portals, no.”
+
+“Convenient, but you could have?”
+
+“Yes?” I said, curious as to where she was going with this.
+
+“Then why didn't you send one over to the other continent and repeat the experiment there? The mess would have been reproduced, and he could have studied it,” she pointed out.
+
+“One, because that's insane, and two, because I don't want something bad to happen there either.”
+
+It was clear where she was trying to go with this, 'Why didn't you just do it there?' nonsense and I wanted none of it. I'd dumped too much time an effort into seeing that particular mistake never repeated to just casually set off destruction elsewhere.
+
+“I've told you the details of what happened, and if you're unaware of why I wouldn't do such a thing, then you're too stupid to have been sent here. Just say what you actually want and stop playing games,” I said, already unhappy with the beginning of this.
+
+The only upside to this whole debacle, and this world in general was that politicians tended to be mages as well, and therefore all knew that they had better things to do than dicker around once their games had been found out. Sure, some of the more entrenched factions would play games with each other, but when it came to groups like ours, and any who had powerful enough individuals then it stopped. If you really were strong, you never needed to go around shouting to the sky about how awesome you were.
+
+“Access to a number of golem designs, as well as some of the weapons and weapon platforms produced in the last war between our factions. Added to that we want full access to the portal technology so that we might build and maintain our own network,” Adia said, finally giving a list of demands.
+
+“No,” Justin said simply. “I'm not giving you all of that.”
+
+Now the real haggling began, and I felt myself smile when the old elven king declared that I was Ristolian's inheritor and therefore the one who should own the rights to the portal technology as far as he was concerned. I knew it was a lie, that he'd still do with it what he wanted, but it made sure that we still had a seat at the table. It did make my mentor give me the strangest look though.

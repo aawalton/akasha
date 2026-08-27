@@ -1,0 +1,113 @@
+---
+id: 59670cdd-34cb-5d23-bd15-23f8e595ee7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136 Planning for Fun"
+slug: 0149-chapter-136-planning-for-fun
+partOf: melody-of-mana
+position: 149
+ownLength: 1991
+unit: words
+ownProgress: 1991
+publishedAt: 2022-05-13
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/906326/chapter-136-planning-for-fun"
+royalRoadId: "906326"
+markedReadAt: "2026-06-29T22:30:59.557Z"
+---
+
+On our next break day I ended up managing to get all my friends together.  This wasn't an easy task, due to conflicting schedules, timetables, and the fact that some of them weren't in school, but after a lot of planning, and no small amount of personal irritation I managed it.
+
+We had secured a room at my home, both because it was spacious and Dras was having some issues with public places as of recently.  I didn't blame him for that at all, but it meant that he was far less likely to go and get a drink or whatever he did when he wasn't in class.  As we sat around playing the local analog of chess, which had room for up to twelve players and a whole slew of irritating rules, I pulled out my boxes.
+
+"What's all this?"  Kala asked as I passed them around.
+
+"Well, after recent events I decided to do what I could for my friends' protection.  These are some items."
+
+Dras narrowed his eyes at me.  "And what do they do exactly."
+
+I gave a brief explanation as each tried theirs on.  I'd gone for anklets for myself and Pinea, while making Kala a bracelet.  Bracelets were common for women, and anklets for those dancing, but the latter could easily be hidden if desired, so it didn't matter much.  The boys both got rings, as men in our society didn't wear other jewelry very much.  I wouldn't say it never happened to see a man with bracelets or whatever, but it wasn't common.  Getting all of the enchantments to fit on such a small item had been an absolute pain in the ass, but after a bit of work I'd managed it, though they both looked kinda like graduation rings.
+
+While Charles was trying his on, Dras put both hands on the table.  "Look, Alana, if these do what you said, do you know how much they'd cost?  Even just to run them is going to be costly."
+
+I looked at his arms.  He was whole now, with little other than the clearly regrown skin on his limb and the faintest trace of a scar on his face, but I couldn't forget how he'd looked in the hospital.  I still saw it in my mind when I thought about him too much, lying there, covered in bandages with only the one hand able to do anything.
+
+"I don't suspect that you'll be using them all the time, but if things look dicey it's something you can use without training or the like."  I sighed, looking up to meet his eyes.  "Look, I know you don't like taking expensive things, but keep it, hopefully you never need it, but..."
+
+"Thank you, this could really help," Charles said, still looking at it.  He was still a bit short on the words, but he looked up to give me a brief smile.
+
+"Same, After what they showed me during that interview..."  Pinea shivered.
+
+Kala just gave me a light smile and nodded.
+
+"I suppose I am being a bit of a jerk.  These don't contain any weird stuff though right?"  Dras gave me a bit of a look.  I sort of deserved that, since the last piece of magical equipment I'd given him had been taken away for containing a trace amount of military technology.
+
+"No, perfectly normal stuff.  I had Professor Ieala help me with the testing.  Anyone could do it, but most don't bother.  Either you don't need it, or there are cheaper methods of defense for most people."  I nodded.  She'd been rather disappointed when she saw my sequences, because they were fairly straightforward.
+
+"Thank you then.  Hopefully we don't need them."
+
+After that we went back to playing 'not chess' I hated it with a passion, and barely understood the rules, but it was popular amongst the wealthy.  It was a bit embarrassing how I was the only one who struggled here, my friends having learned the various rules over their lives for the purpose of interacting with nobles and rich folk.  Even Charles and Dras, who were both decidedly from the lower classes of the city were quite good, though none of us could hold a flame to Pinea.
+
+There were two groupings of pieces, one could move 'north' and 'south' primarily, while the others could move 'north/south-east' and 'north/south-west' primarily.  They all did this on a hexagonal game board.  From there there were several distances they could move in each way, much like pawns and queens.
+
+"So," Pinea began, after having destroyed us all collectively again.  "Do any of you know of any good balls happening?  I've tried to get word on some even though it isn't the right season, but it seems nothing is going on."
+
+"I don't, and frankly don't mind all that much."  The rest of the table looked at me, but I hated some of those I'd been to.
+
+"Come on Alana, everyone loves a good party," Pinea objected.  "Heck, you could organize one yourself if you wanted to.  I bet your parents would be thrilled, I'd even be willing to help.  It would look really good..."
+
+"I do love a good party, but what I consider a good party, and what most of noble society thinks is a good party are two significantly different things.  If I threw one it would likely be the talk of the town, and might be the cause of no small quantity of scandal."
+
+"I'm in."  Pinea didn't even blink as she answered.
+
+"Sounds fun." "Worrying, but what ya got?" "Why exactly?  You're always fun." Came the responses shortly thereafter.
+
+"Is this really the best time for this?"  I asked, looking at my friends tiredly.
+
+That got me a series of nods.  This began an argument that lasted no less than an three full games back and forth.  I would personally love to throw a massive party, but there was no occasion and frankly I wasn't sure I wanted to deal with all of the blowback that would certainly come.  While I was holding the line my father decided to make his appearance, throwing a wrench into the works.
+
+"Are you lot still going?  I didn't know you enjoyed games this much."  He looked us over with a slight smile.
+
+"We're trying to convince Alana to throw a party," Pinea said, beating me to the punch.  "She's being very contrarian about it.  Which is weird for a bard, and putting a damper on things."
+
+"Come now Alana, I may not be much for social events, but a small party might do some good."  That statement seemed to go against everything I knew about him.
+
+I looked at him with hard eyes.  "Who are you, and what have you done with my father."
+
+"Alana, your mother has been pestering me for far too long about how we should be acting more in accordance with how people think their rulers should.  She thinks we should throw a ball or two, or something.  More social events for the young of our lands would be right on what she would like."  That made more sense.  Mom could be relentless when she got on a subject, and a month or two of badgering might well make him jump on any opportunity.
+
+"We were discussing how what I think a party should be like would likely cause mass scandal."  I answered, and it seemed to cause him some amount of worry.
+
+"Does it include public sex or nudity?  Or any other illegal activity?" He asked.  "Or anything dangerous, or potentially dangerous to either the participants or the country?"
+
+"No, most of the people I know are a little too pent up for that.  Depending on your definition of nudity, so like I imagine someone will wear something like the professor's dancing outfit."  I tapped my chin as I thought.
+
+"Emperor Durin wants to establish new traditions, and I hate the old ball format.  If this succeeds there, and your mother is mollified by having more social events, then I'm fine with it.  I'll see if your brother will help.  If you can fold some of the things from the Ermathi part of the population's traditions in too, that would be excellent."
+
+"I... can't believe you're giving permission for this."  I was stunned.
+
+"Your mother and I will be out of town for a few days, I'll see to it that it overlaps with one of your off days if I can.  Who knows, if you pull it off well everyone wins.  We get new traditions, your mother gets off my back, you have fun, and everyone is happy.  Use the ballroom and edit your guest list carefully."
+
+With that I was grabbed by Pinea, clearly attempting to silence me.  "Don't worry, we'll make sure to help!"
+
+We were left shortly thereafter and several of my 'friends' started laughing at me.  After a brief moment of introspection I decided that if he wanted me to throw a party, a party would be thrown.  There were a number of things I'd need, but I knew that those were hurdles we could make with ease.
+
+"Fine then, if dad okayed it then I won't have to deal with anyone's whining when it's done.  Pinea, Kala, can you two come up with guests?  We'll also need everyone possible who we can reasonably trust from our dance class.  Invitations too, make sure people don't wear clothes they will mind getting a bit mussed."
+
+"Got it," Pinea said, she was practically bouncing.
+
+"Charles and Dras, we are going to need a band.  We'll talk later on specifics, but for now if you can secure a handful of bards that work together, that would be great."
+
+"Where are we getting money for that?"  Charles asked, a valid question.
+
+"We shouldn't need too much for this, but I can make you a bit of sugar to sell or something.  The band can be one from the lower part of town, talk to Lucien, he probably knows someone who can put on a wild show."
+
+"What will you be doing?" Kala asked.
+
+"Refreshments and party games.  I'll grab my brother to help and see if we can fold some of the old Ermathi traditions in too, he might know those, or know someone who does."
+
+As it turned out, my brother didn't know any of the traditions I was looking for.  He did know a few people from the old empire there though, and they were both trustworthy and very willing to help.  We spent an afternoon going through all of the different things they could think of, trying to find something that fit with the atmosphere.  When I brought up the idea of festivals is when we really started to hit onto things I liked.
+
+One of their summer celebrations had involved a sort of fighting, well, all of their celebrations involved fighting, it had been a rather military society.  In their case it had been done on poles over a pit of coals that was hot enough to burn, but not kill anyone who fell into it.
+
+I threw in a bit of old gameshow ideas to change it over to water, and since they were already using staffs, the idea of padding them a bit for safety didn't go down too badly.  This hadn't been one of those somber serious traditions, but rather something idiot teenagers did to impress girls with how strong and daring they were.  When I suggested doing it about fifteen feet up they'd stopped whining and jumped on board.  The only issue would be setup, but my brother assured me he knew someone who could probably pull it off without any issue.
+
+That settled I began my work on food and drink.  It was the job of a good hostess to provide refreshments, and I had just the magics to help make sure that it was a wild party.

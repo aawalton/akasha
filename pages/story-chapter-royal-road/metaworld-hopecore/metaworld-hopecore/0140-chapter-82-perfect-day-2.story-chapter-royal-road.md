@@ -1,0 +1,137 @@
+---
+id: 4819a1cc-7eb1-5bdc-a272-c6fcb4cb4b49
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 82 - Perfect Day (2) "
+slug: 0140-chapter-82-perfect-day-2
+partOf: metaworld-hopecore
+position: 140
+ownLength: 2101
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3735765/chapter-82-perfect-day-2"
+royalRoadId: "3735765"
+---
+
+Webber watched his crew abandon their lunch boxes—and their equipment—and meander like a hungry zombie horde toward the idling truck that had pulled up a minute ago and made its intention to stay self-evident.
+
+“No way… No way…” Reggie's accented English sounded like a man delivering a mantra. “¡No mames, that's Chuy's! That's Chuy's, wey!”
+
+Webber didn't know what a Chuy's was. But something shifted in his electrics and gaffer the moment the truck rolled up—a recognition that no film school could teach. They'd clocked the hand-painted mural on its flank before Webber had even registered what the truck was selling. Lonchera, he recalled people calling it. Legendary, or so he'd heard. He had assumed they'd all gone the way of restaurant chains by now.
+
+Either way, the crew reacted as if off-duty royalty had arrived. The cook, calling himself Chuy, leaned out the window, recognising three grips by name before he'd even set up the griddle. Priya, prim, bossy and orderly, got in line like everyone else.
+
+Chuy put up a sign before he promptly refused payment: a laminated placard taped to the window, reading “COURTESY OF THE DAUGHTER OF F. CURON”.
+
+Somebody cheered. Somebody else, an electric, actually applauded, which made Webber's lips curl, because they didn’t even applaud him at the end of a long shoot.
+
+“Who’s the daughter of Director Curon?” he asked no one, apparently, because they’d all run off.
+
+“I think…” Mrs Okafor said, holding her own lettuce sandwich, glad for the space she finally enjoyed. “That’s Miss Fontaine…”
+
+Webber was fairly certain that Fontaine’s dossier had said no such thing and grew deeply suspicious of Frederick Curon’s status as a famous bachelor who had no interest in women. His concern evaporated when his gaffer handed over a trio of soft tacos in a tray.
+
+“This is the best lonchera before they went mainstream.” Reggie was still chewing as he spoke. “Here, for you. Courtesy of the daughter of Mr Curon.”
+
+“Do you know who that is?” Webber asked with a smirk.
+
+Reggie shrugged, then followed his eyes.
+
+“No way… No way…” The man sounded shocked. “Fred Curon…? She looks nothing like him!”
+
+Webber agreed. He was mid-bite into his second taco, watching Eppie decline a chair in favour of sitting cross-legged on the kerb, which wasn’t a very poor-little-rich-girl routine, when a second vehicle nosed into the cul-de-sac behind the taco truck. It was a blacked-out SUV, the kind for VIPs.
+
+The door opened, and out spilt a giant who was a bodyguard, another man who had to be a fellow handler, and the unmistakable personage of Sony’s no.1 female starlet.
+
+“It’s really Chuy’s!” the voice announced, unmistakable in its timbre and quality, then she screamed. “OH MY GOD—EPPIE?!”
+
+Half the crew turned to observe this new spectacle as another familiar artist slid out from behind the bodyguards.
+
+“Sup, Merric!” Kel G threw him a sign of respect, which Webber returned with a wave.
+
+Their attention, however, was wholly consumed by Kellie Noah holding Euphemia Fontaine’s hands and shaking them violently, swinging her hands up and down. Unlike Webber, his staff were now amazed by the scene of two girls doing a little happy dance.
+
+“Sup, Kel.” The two shook hands. “Fancy seeing you here.”
+
+“Not my choice, BB over there thought that truck was rollin' for us,” Kelvin said, shaking his head. "My bad—shoulda known better. BB over there had us pull up just to tell y'all you're on the wrong lot."
+
+Kel stared at Big Brandon. The large man’s face went a shade redder as he drifted into the line to order for the group.
+
+Webber laughed at the absurdity of it all. It took Kel a moment more to warm up, but he started laughing as well.
+
+The lunch that was supposed to be an hour turned into an hour and a half. Chuy fed Euphemia first and foremost. Kellie Noah ate with the crew on the curb, then signed a script supervisor's clipboard without being asked, then a PA's beanie, then Bram's forearm, speaking about Eppie the whole time, before she started taking selfies with Eppie and Zara in costume. Selfies that would invariably make their way through MySpace and beyond.
+
+Was this planned? Webber felt the shadowy hand of Frederick Curon looming over the set. Was this all done for socials?
+
+Kel hung back a beat longer, hands in his pockets. Then, to Webber’s disbelief, the proud and arrogant rapper stepped forward to greet… Eppie. The man leaned in, head bowed, and thanked her. For everything. He said.
+
+Webber watched the crew's faces do the same thing his own face was probably doing—a slow, collective recalibration. Grips who'd shrugged off a sixteen-year-old day player that morning were now realising they were shooting some kind of… orphaned royalty.
+
+She's not just a hapless Garland, Webber mused to himself, watching Eppie laugh at something Kellie said, so natural among the stars that the pair of Grammy stars looked to be falling into her orbit, not the other way around.
+
+Then he saw something incredible. Something that should be physically impossible.
+
+Jesus Christ. Webber acknowledged with abject horror. She’s on her third quesadilla!
+
+With the crew well-fed and watered, the afternoon shoot proceeded with good cheer and high morale. This time, it was Eppie and Zara together in the basement room.
+
+Incredibly, it was the best hour of the shoot thus far.
+
+“Give me the bed-and-floor 90s friendship,” Webber said, sketching it with his hands. “Eppie on the bed, Zara on the floor, talking up at each other. Then swap—you on the bed, Eppie on the floor. Then I want the top-down: both of you in the bed, side by side, looking at the ceiling like it's got something written on it.”
+
+The bed-and-floor takes were too easy. Eppie lay on the bed, looking down on Zara, while Zara looked up at Eppie with her face on fire. There was no need for directing at all; the shot Webber wanted simply happened.
+
+The top-down shots with the girls on the covers listening to the sound of cicadas outside took longer. When Eppie turned her head, Zara kept breaking character completely, turning as red as the Sony logo on Culver’s water tower.
+
+In the last five minutes, Zara seemed to relax, and the whole thing just happened. Bram moved about, documenting a genuine friendship and its teenage ambiguities, his shots as steady as a gimbal’s.
+
+“Let it run,” Webber told his AD, “Don’t call anything yet. Just… let it run.”
+
+Afternoon tea was uneventful. No one had the stomach for the cold sandwiches after eating so much Mexican food.
+
+The crew rested where they could. Deb refreshed the girls’ makeup, then waited with them for the light to begin its long slide toward gold again.
+
+“Final scene, from sunset into blue hour,” the director told the crew, offering Eppie a nod of grateful acknowledgement. “Porch and swing. Eppie, you’re on the porch first. Zara, you’re on the swing, playing the guitar to Eppie.”
+
+The gaffer moved in before they did. Reggie wheeled out a single 2K tungsten head, gelled full CTO to marry the last of the natural gold, kicking it off a show card angled into Eppie's face on the porch.
+
+Now, almost twelve hours into the shoot, Zara seemed to be getting the hang of things. As before, so long as she had an instrument in hand, a different woman seemed to emerge. Eppie play-acted a smitten teen on the porch, watching her cool neighbour jam on the swing.
+
+Zara played In the Pines. Eppie sang. The spontaneous sequence impressed Webber so much that he made them play both Dream a Little and Pines back-to-back; then Eppie gave the crew a guitar rendition of Whatever Will Be, just so Webber could capture the moment the sky went from orange to deep blue.
+
+“Last setup.” Webber brought the girls together on the porch and explained the shot. Reggie swapped to a half-CTB, letting the blue bleed back into the frame right as the sky did.
+
+The final scene was the girls wedged together in the last days of a fading summer. Zara’s knees against Eppie’s. Eppie lay on Zara’s shoulder first, while Zara looked over the fence at a future that did not involve her friend. Then Zara was on Eppie’s shoulder, finally too exhausted to blush while Eppie looked relaxed, happy and caught in the moment.
+
+Then, like their fictive friendship, the blue hour was over, and so was the shoot.
+
+“Check the gate,” Webber called, and Bram did, and came back nodding before anyone had time to hold their breath about it. “Clean. All day, clean.”
+
+At Mrs Okafor’s urging, the girls were sent home early. Their job was done, and keeping them on set for longer than necessary risked pushing them past their legal hour cap. She reminded Webber that it was her name on the compliance paperwork, not his, leaving no room for negotiation.
+
+After a round of applause, hugs, and thank-yous, they bid the girls goodbye, leaving Webber and the crew to strike the set.
+
+Priya was already on the walkie to the production office, running numbers with someone on the other end, and when she came back, her face had the particular stillness of someone doing arithmetic in public. "We don't need tomorrow," she said. "We're covered. Full coverage on every scene, plus the two-shot stuff we weren't sure we'd get to. There's nothing left on the board."
+
+Webber stood with that for a second. A contingency day, fully budgeted, fully crewed; call it thirty per cent of what they'd set aside for the shoot, just sitting there, his to spend on something other than more hours in a cul-de-sac.
+
+"Post," he mumbled to himself. "All of it into post. And the shorts." He was already moving, already thinking of the next two weeks. “Priya, casting call for the young ones and the old ones, both, this week—we're doing it. Full storyboard, not the cut-down version I pitched yesterday. Get me some veteran actors. We got the budget.”
+
+His 1st AD disappeared into the trailer with a nod.
+
+Webber’s mind was already running ten thousand frames a second.
+
+Today’s labour was done, but now he had made more work. But it was work he wanted to do, for his art, for the crew, for the blondie who had bought them lunch then left. It was only after he drank a cool glass of water that he reminded himself shots did not go like this. Not in the last five years of shooting had a hundred music videos gone like today's. Frustrations, whatever they may be, simply disappeared in the last five minutes like clockwork. It was as if the complications possessed a schedule that was tied to Priya’s call sheet. There were no accidents, no incidents, no lost setups, no weather troubles, no lighting drama; not a single contingency was touched.
+
+AND there were still mountains of enchiladas and quesadillas left over, too. Curon had paid for a lot of food. Was it out of pocket, or did he bill it to Davis?
+
+“Tell everyone to box those up,” he said to Reggie, distracted by his own disquiet. “Take it home. Feed your families.” He said it generously. He meant it generously. He felt a bit queasy. The sheer, unnatural abundance of the day was strangely sickening.
+
+Watching the crew’s satisfied faces, he decided to cement the day’s success with a speech.
+
+“EVERYONE! Hi. Okay—give me a second here!” The set went quiet by degrees, grips still coiling cable, Reggie's electrics leaning on a condor, three foil-wrapped quesadillas stuffed into bags. “THANK YOU ALL for today! This was the smoothest shoot I’ve done in living memory. I want to thank you all, every department, every setup, every one of you doing exactly your jobs. Priya kept us on schedule. Reggie kept us lit. Bram didn't miss a frame all day. Sol designed two entire childhoods out of nothing. And our actresses—ah—anyway, thank you all! I’ll see you on the next set!”
+
+The crew clapped—the kind reserved for Chuy's—as Reggie whistled through his fingers and a PA banged a beanie against her thigh, and Webber allowed himself a moment to bathe in the warmth of a set well-shot and a job well done.
+
+This is going to be a legendary video, Webber thought, watching the loader stow the film. I just know it.
+
+“Hey!” he called out to Reggie as the man pulled out a second bag. “Leave me one of those! I haven’t had dinner yet!”

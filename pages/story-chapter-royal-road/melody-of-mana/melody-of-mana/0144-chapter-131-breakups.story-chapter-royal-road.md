@@ -1,0 +1,151 @@
+---
+id: 462e3fd0-f4fc-54f9-a0ef-155d0156fd42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131 Breakups"
+slug: 0144-chapter-131-breakups
+partOf: melody-of-mana
+position: 144
+ownLength: 2641
+unit: words
+ownProgress: 2641
+publishedAt: 2022-05-04
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900070/chapter-131-breakups"
+royalRoadId: "900070"
+markedReadAt: "2026-06-29T22:30:49.375Z"
+---
+
+"Well, why don't you tell me what happened.""I went to the wedding. I don't know if the news is out yet, but we now have an emperor and a queen, so there's that."
+
+"He declared himself emperor? Okay, let's go over that first"
+
+"Alright," I told her, "Some big fancy looking guys from the senate of Ermath came forward and declared that they'd voted him emperor, and then a bunch of nobles from Bergond came and declared Sophia to be the proper queen of the land now that her brother is gone and parents are dead."
+
+"... that is... going to have some implications, yes. Anything else you can tell me?"
+
+"The whole event was basically a festival. So I'm not sure that there's much to say there. Did you know about 'the running of the chamber' or whatever?"
+
+"Huh? Yeah of course, it's a standard wedding tradition... nobody did anything to you did they?" She sounded genuinely concerned, like she'd found why I was a bit off.
+
+"Uh, no, you've met my dad, and I bet you can guess how he'd respond after I got done setting them alight."
+
+"I always forget that you can do that."
+
+"Because I never feel the need to start fires, but that's not really the point."
+
+"Then what is?" She asked as I flopped down on my bed. I looked at her and got that sad smile again. "Oh, I see."
+
+"I'm sorry, I didn't mean to..." I wanted to cry as she came to join me.
+
+"It's alright Alana. I knew you weren't interested in me in a number of ways. We both also knew this was coming. We'll still be around too, so it's not goodbye, things are just changing."
+
+"But it hurts."
+
+"Yes, that is one of the worst parts about love. It's so magnificent, so beautiful, that when it changes you always miss what it was. That's how you know it was real. My order has teachings on that too though, would you like to hear them?" I nodded, not really wanting to speak. "Love never dies. Things change, people change, but love, real, actual love, it never really dies. It may change, or fade or become something new, but it's still there, and it will always be. What we had was not as most love is, but it was something, and it was worthy of enjoying."
+
+"That's... I like that."
+
+"It's peaceful isn't it? I do hope we can remain at least friends, in some way. Though... it may take some time before that truly works. At any rate you missed a good bit while you were away."
+
+"What?" I looked up to see her smiling there.
+
+"Yeah, sorry I didn't go first, but I thought this was going to be a bad one, and wanted you to have something to distract you when it was done."
+
+I lidded my eyes a bit, she knew that I hated people trying to make decisions for me, but I guess she wasn't hiding anything in the end. "Okay, what happened?"
+
+"Your friend Dras. His ex tried to murder him."
+
+I sat up straight, looking at her in shock. "WHAT? is he okay!?"
+
+"He will be, it's a bit rough right now but he's stable. You should go see him as soon as you can, he's at The Shield's hospital."
+
+"I... um, okay, we should talk, a lot, and..."
+
+"It's fine." She said with one more smile, and we left my room. I immediately began making my way back towards the gate while she moved off.
+
+Getting a ride to the hospital was easy, in that my dad's carriage was still at the school. They'd had a few things to unload of mine, and the driver didn't have anything pressing, so he took a small break to socialize while I was... breaking up with Kala. I cringed as I thought it, but there was nothing to do for the moment and I needed to go see Dras.
+
+The driver was less than enthused about me giving him another couple of jobs this late in the afternoon, but he could get over it. I took the time to scrawl a quick note to my father as I rode, my family would certainly know I'd left the school, and telling them was not a bother. He might even be able to help somehow.
+
+As I rushed into the hospital I was in a state. It was fortunate that someone had come by and told them that I would be visiting, as well as the fact that I knew several of the members of the order who could vouch for the fact that I was in fact who I said I was. Normally those who'd had someone try to kill them had tighter security, but that had managed to get me through without too much hassle.
+
+As I entered his room I nearly fell over in tears. While I'd been told he was stable he looked anything but as he laid there on the bed. As I came closer one of his eyes opened and he cracked a slight smile at me.
+
+"Hey there Alana. How's it going?"
+
+"How's... Dras, what happened to you?"
+
+"Yeah... about that."
+
+Three days earlier
+
+Dras
+
+I had about a week, or so I'd been told, until I found out if my application had been accepted. As I was set to graduate from the academy next year there were a number of places that I could go to work, but there were some things that just couldn't be ignored.
+
+One of those was that the girl who I considered one of my best childhood friends was the daughter of one of the most powerful men in the city. It might have been a bit wrong to use that connection, and her connection to her former mentor, but what were connections for, if not to help you when you needed it, and I didn't plan on doing anything wrong.
+
+For now I was back at the old house, in my old room. I wouldn't be here much longer regardless of what happened, but I thought that perhaps one last stay with mom and dad was something I owed them. I didn't get to see dad nearly enough, not since I was really little and mom... well, she loved me, and that's what counted.
+
+I stood and headed downstairs, there wasn't much to do until everyone came back from the wedding, but I could take care of things here at least. I walked over to the large brass item in the living room and began pouring mana into it. This simple little thing would keep the house warm for the winter even after I left. It was nothing too complex, or too expensive, but I'd managed to put an absolutely obscene mana supply into it so that even if I didn't get by to visit too much, mom and dad could stay warm. To go with it were several small lamps here and there in the house, of similar make.
+
+"You don't have to do that you know." Came the high pitched voice from behind. The same thing she always said when she found me charging these up.
+
+"I know mom. I just want you and dad to have something in case I'm gone for a bit."
+
+"I'd rather have you around more son. Have you heard any word?"
+
+"No, I told you though, lots of people are out of town. I'll know a bit after they all get back, but I'm sure I'll get it. Crap, they basically invited me to apply."
+
+"That's not what I was talking about and you know it!" she snapped.
+
+"Mom, she's not coming back." I could feel my mood darken as I spoke, we'd had this argument before.
+
+"Maybe if you..." she stopped as I turned, the look in my eyes must have been a giveaway.
+
+"I know you don't mean ill, but it's enough. You weren't there, you didn't hear her, or see her, it. Is. Over." I breathed for a few moments. "I'm sorry. I need to go clear my head."
+
+She reached out and touched me as I moved to the door, halting me there. "I'm sorry son..."
+
+"It's okay. Love you mom."
+
+"You too. Will you be back for dinner?"
+
+"Yeah, I'll see you then." I kissed her cheek and headed for the streets.
+
+There wasn't anywhere particular on my route today, but getting out a bit would be nice, and I could even earn a bit of coin if I wanted. At this point I knew enough bars and brothels that I could make a round charging items, tattoos, whatever all day. With that food and drink and... other services would be easy to come by.
+
+It was astounding how many of the working girls preferred to pay that way to cash. Lots of the seniors at the academy spent far more time than needed on their days off engaging in such things, but for me, I wanted the coin. It would have been a betrayal back when I was dating Clarissa, one that I wouldn't like, and now, eh, girls were easy enough for a wizard; we had money, power, status enough for most.
+
+Today though I just walked, at first unsure of where I wanted to go. It was ice cold outside, with snow falling all around, not like that was a real issue, but it meant that I stood out a bit. First I headed up towards the market, to see what was open, after I was done, I thought I'd stop by The Sky for a nice warm drink.
+
+The market was well enough dead. Sadly as the winter went on nobody really stayed open, the stalls and shops didn't do enough business to keep things running and it was too cold for much besides. There was one small shop for more general things which I stopped in at, but they didn't have anything I needed or wanted, so I just kept on. On the way out I bumped into a man. As I looked up I saw his frown and quickly moved out of his way. There was no need to be impolite.
+
+Freshly fallen snow crunched under my boots. It was still only mid-afternoon and there was plenty of time to spare, but wasting it all wandering about that city wasn't nearly as fun as is had been when I was a child. I thought back on those days as I approached The Sky, my old haunt was still one of my favorite places in this city.
+
+As I stopped to look upon it's edifice I heard the sound of boots behind me. I turned to get out of the middle of the road and as I did pain bloomed in my side. With a scream I instinctively cast a spell, a powerful mix of heat and kinetic magic that blew my attacker away from me. Unfortunately that also took his knife, which ripped it's way through my flesh as it was violently pulled back.
+
+I finally got a look and it was the man from the market. He'd stabbed me with some kind of large knife, but why? I certainly didn't carry much on me, and didn't look like I did. Between that and the aura of heat I always let off he should have known that I wasn't someone to fight. Now he was crumpled into the side of a house like a rag-doll, his spine as shattered as the plaster behind him had been.
+
+With a gasp I tried to hurry to The Sky, I was bleeding and badly. Around that time I hear the voice.
+
+"Well, I suppose if I want something done, I'll have to do it myself." Clarissa moved from the corner of my vision to the road in front of me. With a move of her hand a whip-like spell sprung forth, hissing on the ground where it touched.
+
+"What? Why?" I gasped as she struck, only to find that I'd put my own spell in her way. "Clarissa, stop this, it's madness!"
+
+Once I'd cared for her, and I thought she for me, but now she sprang forward, casting as she came. Neither of us were trained in battle magic, neither knew the ways to strengthen ourselves against magic, or proper shields, or proper attack spells, but that didn't make us any less deadly to each other.
+
+I pulled out my old fire ribbons, they weren't really suited to fighting other people, but they were almost instinctive, and with a bit of kinetic power fused into them should prove useful against her whip. She struck and I blocked again and again, both of us hampered by the fact that we were basically flailing like children.
+
+"Do you know how many I lost Dras!? Do you know how many of my friends, my family died when they took the city? Cousins I'd known since I was a girl, friends I'd grown up with! I could have dealt with it if you'd just wanted to keep out of it, but no, you had to keep being friends with those traitors, and now, now you want to go join them?" She screamed as she attacked, moving to and fro with her whip snapping in wide arcs.
+
+"Stop! There's no point to this, no point to any of it. The war is over! There's nothing more to do, just stop, you have to stop!" I begged, I didn't want this fight, didn't want to hurt her, or anyone else really, just to live a good life.
+
+As she moved forwards once again her weapon turned in an odd way, screaming towards my face. I jumped back as it came down, slashing across my visage in a burning arc. That wasn't the end though, as I fell backwards it kept going, onto my right forearm, and straight through it. As I landed on my back, my ribbons failing I could see it there, my own hand laying a couple of feet away in the snow.
+
+I tried to push myself up with my other hand she slammed her knee down on it, straddling me. I looked up to see her with my good eye, her enraged face now tinted with pain, and fear, and shame.
+
+"I'm sorry Dras, I really am, but I have to do this. I have to show them that I'm still loyal to the crown, that I won't turn against them." Tears bloomed in her eyes as she turned her whip into a blade and slowly moved it towards my neck. "I'm so sor..."
+
+The only real rule to fighting a caster was to never give them time. The lance of white hot flame that slammed into the back of her skull was why. My good hand was still there, still able to throw spells, I'd just needed time, and while that spell wasn't meant for combat, it would certainly serve. Her face didn't survive, but I thought I saw just a moment of surprise as the beam of heat that could melt iron, was designed for melting iron, hit her, vaporizing her head.
+
+As the body of the girl I'd once loved fell to the snow beside me I tried to reach out, only to find the stump couldn't. I wept where I lay, broken and bleeding onto the cold stones of the street. Soon enough I heard cries of alarm and the calling of names. As I started to drift off into a sleep that might well have been my end I heard a deep singing and the warm light of healing pulsed over me. A final look up showed Lucien's assistant barkeep there, his hands held over my wounds as he sang for me.

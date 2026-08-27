@@ -1,0 +1,213 @@
+---
+id: 9aa60287-9713-5a47-9370-1f75ff42a3c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - Everyday People (2) "
+slug: 0074-chapter-40-everyday-people-2
+partOf: metaworld-hopecore
+position: 74
+ownLength: 2387
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3398921/chapter-40-everyday-people-2"
+royalRoadId: "3398921"
+---
+
+Six days to G-day. Sunday.
+
+Zara found her in the dark, her petite body stretched out on the wooden floor, doing imaginary starfishes.
+
+“Trouble with theatre? Or William? Did he harass you again?” her friend asked, unslinging the guitars, then joined her on the floor. “Want a sandwich? I got spares.”
+
+“Not theatre. Yeah William. And I would indeed like a sandwich,” Eppie accepted her friend’s kindness.
+
+They ate. They practised. Eppie tried freestyle to no avail, while Zara’s bars rolled off the fret like a warm wind from the Santa Ana, sending goosebumps up and down her forearm. Hers sound like Costco’s inter-aisle broadcasts.
+
+“What’s that one called?” Eppie asked. “I am all shivers.”
+
+“The Devil,” Zara replied.
+
+For some reason, Eppie almost heard “William”, which was impossible, because she had [Perfect Pitch].
+
+Eppie sat. The tune Zara played in the style of Paco’s solitude had touched something inside her, something tender and agitated, something that did not appreciate being prodded. “Is it finished?”
+
+Zara shook her head. “I am not sure how it should end. Let’s do another round. Add in some more free-style segments. You never know if the audience will demand an encore.”
+
+“Alright,” Eppie picked up her guitar. “Let’s take it from the top.”
+
+The room filled once more with sweet music, easing the tyranny of time.
+
+Five days to G-day.
+
+Min-jun ran the entire 3-scene sequence perfectly for the first time, not just on Eppie, but on the other students as well, garnering applause from Eppie and co and approving nods from Costello.
+
+Under his improved mastery, the black box was convincingly transformed into an isolated dramatic space: that of a government briefing room, a conference space, and an officious office. James’ Creon looked three inches taller, thanks to the converging light and his crisp new costume. The press corps, in their suits, jackets, shirts, and ties, and with borrowed camera rigs, found their bodies adjusting without Seyrova’s instruction. Everything was coming together; the illusion was complete.
+
+On the stage, Ismene trembled at the unyielding figure of her shorter sister, who in this moment looked a full foot taller.
+
+“You are free to be what you want to be. Emmi, but I will bury him.”
+
+Her delivery was just so. Her delivery had wings. Eppie stood in the light, steady and present, embodying the role, becoming Antigone, knowing that she was right, that she was the minister of God’s will.
+
+“There it is,” Cooper sighed from the third row. “Yes indeed.” Tyker ticked off the box from the fourth. “Now about that costume, I found the perfect thing...”
+
+Four days until G-Day. The crew rested, recouped, took notes, and practised in groups or alone while the Playhouse was booked for personal showcase practices.
+
+Cameron made a final update to the Bible and shared it with everyone, personally highlighting all the key points and handwriting last-minute annotations. Lighting cues, sound balance, Eppie’s position, and the Xs on the stage: all were adjusted.
+
+In the evening, they were visited by a group of seniors who were filming the whole thing for the post-Gala review and future media releases. Eppie, their current celebrity, was an obvious choice to include.
+
+It was during such a visit that Eppie noticed a tall, lanky figure among the boys holding their handycams, standing like a crane above a flock of chickens.
+
+William Chen had joined the documentary team.
+
+He waved at her, as a big brother might upon seeing a little sister in a play, then brought his subordinates closer.
+
+“Here is our Songbird,” he said, smiling so sincerely that Eppie’s classmates were instantly wooed. He was a charming man. That was William’s greatest trait. He was tall and handsome, but not in an intimidating way. His long-slitted eyes, which reminded Eppie of a fox, were full of genuine curiosity and interest, delivering a pseudo-sense of authentic interest in Eppie’s life.
+
+He was also far too direct.
+
+With a familiarity that made her skin crawl, William walked around her like a salesman at a car showroom, then placed his hands very gingerly, with the tiniest, most subtle hint of a touch, on her exposed shoulders.
+
+[- 1327 Causality]
+
+She fought the sensation of her own body recoiling.
+
+“Eppie here will make history for LAPA. No one here can begin to imagine what she might achieve by her Senior year. Will you write a song for one of our own, Eppie? I hear you and Zara are working on something incredible.”
+
+The bile in her belly threatened to spill, but Eppie persevered.
+
+“You must come to the Whitman’s during the Gala, William,” she said sweetly, forcing the bile down her throat with supernatural body control via her [Physicality].
+
+She must not have been a very good actor, because William gave her the strangest look, like he was almost seeing past—
+
+“Please?” She turned to the oldest trick in the book. Puss in Boots. Her enormous eyes fluttered. Her face was red, though not a hint of its scarlet was from being flustered. “For me?”
+
+For a moment, the mixed signals seemed to send William into a tailspin, then the man smiled like Iago being begged to find a handkerchief.
+
+[- 2234 Causality]
+
+“For you, Songbird,” he said to the camera, his lips close enough to kiss a cheek. “Anything.”
+
+G-day minus 3.
+
+Wednesday arrived.
+
+New costumes. Full lights. Full Prompt Book operations. Cameron ran in circles, calling out the cues.Min-jun, Sage, Kimberly and Harrison ran themselves ragged in the control box, wishing they could each sprout two more heads and an extra pair of arms.
+
+After all the drama, their three sets were The Sisters, Antigone’s Protest, and The Bride of Death. Eppie’s part, by consensus, took centre stage.
+
+James Jules now played well with invisible cameras as a man who believed that law was civilisation and could not understand why the girl in front of him refused to cave. The young actor had finally come to believe that his Creon isn’t a villain, merely a man who believed in himself a little too much.
+
+Chloe, freed from Val’s presence for about three weeks now, played an unconfident Isemene with great confidence. Her movements were heartbreaking, her expressions sincere as she interacted with Eppie. She was becoming an actress; she was no longer so intimidated by Eppie’s superior Antigone.
+
+Eppie arrived at the stage with her character fully inhabited. She stood in the cool hue of the coloured lighting, delivering lines that grew with conviction with every reading.
+
+After the final light faded, the black box was illuminated.
+
+Tyker stood with Cooper and Costello. Costello and Cooper clapped. Tyker took no more notes.
+
+The show, as far as the young actors could know, was complete.
+
+Evening.
+
+LAPA had two Galas a year, and though the Fall Gala was the lesser, it was no less all-consuming of the school’s resources and the students' and staff’s time. This meant that a particular atmosphere had taken over the whole of LAPA, creating the likeness of a conglomerate beehive with competing queens.
+
+Students in costumes. Students in overalls. Students in dresses. Students with every instrument studied in the popular discourse flooded every conceivable habitable space. Teachers, even the General Education staff, helped out where they could, affirming confidences and soothing insecurities, putting out fires before they began.
+
+Since the Sophomores were a second-string performance, the Playhouse was booked out again, leaving them to ruminate upon their final experience the day before.
+
+Eppie and Zara ran Dream a Little Dream and In the Pines" over and over in the practice room, from ten to twelve. They lamented the loss of Paco’s bass, but there was no way to find a third member they could trust. For their eventual Sony recording, however, Eppie had promised a master guitarist no worse than Paco.
+
+"He'll be in the audience, I think,” Zara said after the final round.
+
+"I know," Eppie said, still humming the tune in her head. “That’s what I want.”
+
+"William, I mean. Maybe Valorie, too." Zara tuned her strings like a sushi chef whetting a blade.
+
+"Good," Eppie tuned hers with equal, if greater precision.
+
+Her friend and partner was quiet for a moment.
+
+Eppie looked at her closest friend at LAPA—the gal who had driven her through the Grapevine in a Prius and offered a room at a family hotel in Fresno, whose hand she had held in the dark so she wouldn't shiver the whole night through.
+
+"Eppie, I am with you till the end," Zara said earnestly. “But don’t you think all of this is a little… mad?”
+
+"Oh, we can’t help that," Eppie grinned like the Cheshire Cat. “Cuz I am mad, Zara, mad as a kicked cat.”
+
+G-Day minus two.
+
+Morning. The Sophomore crew gathered at the theatre for a final Prompt Book check. Each by each, they confirmed their annotations, every light number, every cue, every blocking mark, every pause and emphasis. They made a huddle. They joined hands.
+
+They were ready.
+
+Midday. Eppie and Zara met in their private music room. They ran the songs from the top to soothe their nerves, then played freestyle, channelling everything they had into the first official performance of their lives.
+
+Afternoon. Eppie and James stood as Antigone and Creon in costume, but no make-up as yet. Min-jun runs the final lighting sequence: flash effects for the press conference, lighting for the speeches, directionals for Eppie’s Bride of Death. Costello arrived to watch, then Cooper. Both left without a word, leaving the students to their own devices.
+
+Evening. Eppie fed the cats and met Lim at the Stray Cat Society.
+
+“Are you trying to entrap William?” the big man asked with a face full of concern. “He’s talked about you for days now. Far more than before.”
+
+“Maybe?” Eppie said.
+
+“Please don’t,” Lim begged her dearly. “Don’t look to him. I can’t lose you, too.”
+
+[- 234 Causality]
+
+Fuck.
+
+“It’s a bit late for that,” Eppie told her friend the bitter truth. “Your Mr Chen is already looking for me”.
+
+G-day minus one.
+
+The crew spent the early morning and midday working on the set, helping with the final setup and double-checking safety. Cameron walked the stage with Cooper, noting every precaution and marking. They walked the stage from the vestibule to the C-section, from C to the L section, up the rows, then down to the R-section, mapping every wire, cable, and potential hazard. Min-jun signalled that the lighting documentation was done and that everything was prepped. Eppie and the others followed, learning the trade as the crew marked the props and triple-checked the slides and pulleys.
+
+In the afternoon, just after lunch, Eric called. “Director Curon will be there, as well as some bigwigs from Universal and Warner. EMI might send someone as well, but the director isn’t acquainted with their C-suite.”
+
+“Oof,” Eppie wanted to say she felt nervous, but tormenting a psychotic, unrepentant philanderer was infinitely more thrilling than pleasing some suits. Besides, she had Daddy Curon. Even if Universal had bigger budgets and bigger concerts, they didn’t have a shaggy-haired music producer who understood her alter-earth anthems to a tee. “You know what? I’ll surprise Zara. I’ll just tell her it's Daddy and his crew of lackeys from Sony. Are you coming?”
+
+“Emily and I both.”
+
+“My god! The famous Mrs Lee, finally!”
+
+Eric laughed. “One more thing. Lafitte called. She’s got what you needed.”
+
+“Oh?”
+
+“Denise Goode, 33. She works at Mae’s Diner, a local institution, from the AMs to midday. During the weekends, she works at The Century Grill on Century Boulevard, noon to AMs.”
+
+“The one near Lax?” Eppie recalled seeing the giant signage on her drives the airport.
+
+“That’s the one.”
+
+“Two jobs?”
+
+“Seven days a week.”
+
+“Is she in debt?” Eppie felt suddenly uncomfortable with all this information. “Simone stays at school, after all. I think she gets free lunches too from the canteen, and stuff from Valorie.”
+
+“You didn’t know?” Eric sounded surprised. “Our Simone has two siblings. Renèe and Cora. Twelve and six. Mum works two jobs trying to keep their house together.”
+
+“Three kids?!” Eppie could not, in her capacity as Lana, imagine such a thing. “Hold up, did you say she’s 33? Was she a teen mother? She’s solo raising three kids?”
+
+“It’s not that… uncommon in Broadway, Manchester,” Eric’s tone was compassionate. “I don’t know, Eppie. I don’t feel comfortable dragging her mother into this. Maybe you can confront Simone directly?”
+
+Eric was right, and yet Simone was perfectly comfortable pulling an Emilia and pushing Eppie off the roof.
+
+Eppie wanted to remind her Newfoundland which side he was on, but refrained out of concern for her friend’s feelings. Eric was a good man, a compassionate man. Eppie was sorry to disappoint him, but she would make it up to him, somehow, somewhere.
+
+“Thank you, Eric,” she spoke into the phone with the sweetest voice she could muster. “I’ll take your counsel into careful consideration.”She drowned out his reply with kisses for Emily, then hung up.
+
+In the evening, Mama Josefina cooked up a batch of wondrous tacos for the girls at the dorm, which Eppie shared with Ava and Halle. Her roommates were a hoot as usual, arguing about small nothings, joking about trends and friends, living the life of ordinary happiness unique to the young and carefree.
+
+Eppie sat on the couch, all smiles and laughter, her head on her thighs and her arms around her knees. She didn’t share the feeling of oppression in her chest. The girls would not understand, nor could they if they tried. After a while, like indigestion from the taco, the feeling faded, and she announced that she was going to bed.
+
+On her iPhone, her theatre group chatted like a kicked beehive, spamming her with an unending train of iMessages. She answered what she could, then sent Zara a good night.
+
+“Tell me true,” her preciosa asked. “What do you feel right now?”
+
+“Honestly?” Eppie lied as she breathed. “I feel like eating a whole flan.”
+
+[- 499 Causality]
+
+Jesus Christ. Eppie's head throbbed as her [Script Analysis] fired itself up. So this is how it works. This is how the fucking [Usurper] had driven Eppie to the edge, step by step, [Causality] by [Causality], toward catastrophe.

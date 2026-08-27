@@ -1,0 +1,209 @@
+---
+id: f3db9300-8686-5940-8b40-e377446acdca
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 18 - The Gift of Giving"
+slug: 0033-chapter-18-the-gift-of-giving
+partOf: metaworld-hopecore
+position: 33
+ownLength: 2789
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368869/chapter-18-the-gift-of-giving"
+royalRoadId: "3368869"
+---
+
+"The deeds you do may be the only sermon some persons will hear today"
+
+St Francis of Assisi
+
+Compared to the chaos of her first two weeks, her weeks 3 and 4 flowed on like a mid-summer dream. As the temperature fell and the month drifted from August to September, the children of LAPA delved into the busy cycle of their conservatorial lifestyle, having nary an hour or two to spare each day to exercise the social ritual of teenagehood.
+
+For Eppie Fontaine, life could not be better.
+
+Eric found her a Media Manager, Mildred Morrow, from Sony Marketing, who could manage her online personas, and, to make matters easier for everyone, her manager was paid in-house. On her new iDevice, a long email from Mueller informed Eppie that Juliana Vaughan had completed her new vision for the Met: a fully immersive, wall-to-wall projection system with select songs and music to represent each of the Met’s collection of van Gogh’s works, concluding with a two-minute elegy by Eppie.
+
+This meant that, on the Sunday, the 7th of October, she was invited to the Met to perform for a small but rare company of artworld bigwigs.
+
+As a private function run by the infamously private Juliana Vaughan, the event would not bring her great public renown, à la the Met Gala, but it would give her an opportunity to show off her face to industry insiders and maybe build some rapport for the future.
+
+That and $2000 dollars.
+
+This would normally go straight into her own pocket, but Eppie remained paranoid that she would disturb the Chain of Being that is her dormant and happily functioning [System].
+
+Theatre continued to be an absolute hoot. In Week 3, they visited the Los Angeles Zoo, and Mrs Seyrova asked the students to study a single animal so that they would take on the likeness of that creature on stage. While many people chose lions and cheetahs, Eppie was mesmerised by the sight of a giant bird called the Shoebill—and readily performed her rendition of Atticus Finch as a giant, stalking bird, clucking at her audience, transforming the classroom into rolling tides of breathless laughter.
+
+In Week 4, the vibe changed. Week 4 saw the release of the Casting Call roles for the Fall Showcase. For the Sophomores, the roles available were as follows:
+
+Three Antigones, for those who want to try their hand at defying the laws of man.
+
+Three Creons, for those who uphold the legalistic rule of man.
+
+Two Ismene, for those who wanted to portray the soft power of femininity.
+
+One Haemon, who dies of heartbreak.
+
+One Tiresias, the blind prophet whose words foretell the tragedy. Chorus, between twelve and fourteen students. There are three “Leader of the Chorus” roles.
+
+Technical Crew, assorted, ten to twelve students.
+
+When not playing their roles, all acting students automatically become the Chorus.
+
+With the announcement, week 4 shifted into high gear, with the acting classes diving into the devilish details of a full-scale stage production. Some of the students have already resigned themselves to the labour of Technical Theatre and Design, and the class’s tempo has moved to match the marching orders.
+
+As Juniors, they were not yet clearly split into actors and crew, and so all were taught the intricacies of shop etiquette. These manifested as the “crew hours”, an extra set of theatre classes that were mandatory for the Theatre major.
+
+There, for the first time in her life, Eppie wielded a Mitre Saw, measured out blocks to cut on the Table Saw, and finally, took immense pleasure in the Black and Decker Pneumatic Staple Gun. She re-learned how to use C-Clamps and safety cables from when she had a few years of avid rock climbing, and saw how lighting functioned first-hand. Like the others, she was giving it a go, but failed to fully understand the ETC Express console.
+
+It came as a great shame to Eppie then that it was only in week 5 that she finally learned the names of the kids who rarely volunteered for roles within their first few classes.
+
+Their Stage Manager was a Sophomore who looked like he could graduate tomorrow and be a chartered accountant, a boy called Cameron Atkinson. It was Atkinson who brought the group together to make the “bible” known as the Prompt Book—a binder that contained the Marked Script for the three scenes, with blocking, lighting, and musical cues yet to be fully cued in. Cameron was assisted by a mousy blonde by the name of Sage Copeland, one of Madison’s crew.
+
+The Sound Crew consisted of a boyish girl, Kimberly Kemp, and a quiet, goth-coded boy by the name of Harrison “The Raven” Duncan, who, despite his style, was an absolute hoot and a natural comedian.
+
+The only person who volunteered for lighting was Min-Jun, meaning he alone would be learning the deeper knowledge of the ETC Express dark magic.
+
+The scripts for the three scenes: The Prologue, the Confrontation and the Road to Perdition, would also take place in a radical new setting.
+
+And it was, at least to Eppie, mind-blowing.
+
+Rather than Thebe, the renewed setting takes place in modern-day America, post the threat of 9/11, and the American bombing campaigns that saw the death of a dictator and the destabilisation of the region into civil chaos.
+
+In Neo Antigone, General Creon was the Secretary of Defence, brother-in-arms to Oedipus, who perished in the war. He was the ward and protector of his friends’ orphaned kids, Polyneices, Antigone and Ismene, and a good father to his son, Haemon.
+
+At the play’s opening, it was revealed that Polyneices, a decorated War Hero in pursuit of his father’s legacy, has become a whistleblower, exposing the accidental bombing of civilians by US air strikes, playing into the low point of Gore’s policies in the Middle East. Consequently, Polyneices is declared Persona non grata by a deeply shamed Secretary Creon. He is thus forbidden to return to the USA.
+
+The Sophoclean’s first scene opens with Antigone, riding the moral tide of public sentiment and inalienable moralism, leveraging the mass media to return her brother to the United States. Her only demand—bring back Polynieces and allow him to be judged by a Grand Jury—not by a secret military tribune.
+
+Creon is horrified by his adopted niece’s actions, more so when his own son, Haemon, Antigone’s fiancé, vehemently berates him at the dinner table. Unable to withstand pressure from the President, the media, and the threat to his career, he orders Antigone’s arrest, leading to a public showdown.
+
+And while the Sophomores would not cover the final portion of the play, the tragic twist lies in Secretary Creon’s too-late decision to recognise the humanity of the adopted siblings, including his own son’s compassion, which led the duo to elope to Syria in search of Polyneices. There, they are killed by a chorus of faceless hatred, manifesting as a grieving militia in search of justice—any form of justice.
+
+In the final scene, the Secretary sits in his office with his medals and accolades, pondering a world where his wife has left him, his son is dead, and the entire family of his best friend, whom he promised to protect are dead. In a narrow, simmering pool of light, he slowly takes out his service pistol—then the curtain falls.
+
+The script, with its modern prose verse and stark political message was, hands down, the most amazing manifestation of an ancient text Eppie had ever seen, and she could not wait to put herself in Antigone's shoes.
+
+That and the anachronisms, such as framing the Leader of the Chorus as a Fox News Host, the Chorus as an audience of Americans watching the TV at home, were too goddamn amazing.
+
+The duo responsible, Dr Costello and Chair Cooper, were confident and bonkers to give a play of this calibre to their amateur students.
+
+Of the selected actors and actresses, only one group, pending rehearsals, will take centre stage in the Playhouse session for the invited public, with the other groups forming for in-house audiences and examiners.
+
+As a troop member, no matter the praise heaped upon her, she was stuck in the bottom of the Old Music building with the others, sawing wood and painting sets all the way til 9 PM.
+
+On the Monday of Week 5, Eppie finally solo-played the backing track to her own song. Zara had learned the song, then spent the last two weeks going over the movements with her so that she could play her own song if needed at the Met.
+
+As the final notes faded, her instructor exhaled at Eppie’s progress. “It's far from perfect, but you’ve done it.”
+
+“You mean you’ve done it?” Eppie thanked her teacher with her eyes. “How could I have done it myself?”
+
++ Karmic Causality
+
+Zara’s eyes grew warm. Eppie pursed her lips in thought.
+
+“Say, could I—” “Do you want to—”
+
+“Please, you first,” Eppie halted herself. “What were you saying?”
+
+“It’s a big ask,” Zara looked overwhelmed as her face grew scarlet. “I have a showcase in the Fall Gala. Do you think I could play your song…”
+
+“Absolutely,” Eppie answered before she even finished.
+
+“... with you,” Zara said, “as the vocalist and the resonance. I’ll play the lead guitar."
+
+“Oh?” Eppie felt suddenly responsible. What her Senior was asking was indeed a big ask. If Eppie screwed up, it would reflect badly on Zara’s grading. “ I would love to, but you would have to have a lot of faith in my skills, haha…”
+
+“You have the talent, and we have time,” Zara reached over and held her hand. “And it has been an absolute pleasure.”
+
+“Well,” Eppie felt her face taking on heat. “Thanks. I really appreciate you teaching me.”
+
+“Are there any permissions that we need to attain?” the Senior asked. “I can ask the school to apply for the catalogue.”
+
+“Naw, not if I am singing it,” Eppie explained softly. “I had it put in my contract that I can sing my own songs if need be, just in case I find myself busking for change…”
+
+The guitarist laughed. Eppie watched her friend and teacher, then felt suddenly struck by a premonition.
+
+She suddenly recalled that she had something else that needed to be tapped. “Say, Zara?”
+
+“Yes, Eppie?”
+
+“You er… want to hear a new song?”
+
+The breath caught in her friend’s throat. “Are you serious?”
+
+Eppie nodded.
+
+“Is it a folk ballad?”
+
+“Kinda…”
+
+A moment of silence passed between them.
+
+“Are you going to leave me hanging… or…”
+
+“Yeah, just let me get my head in the right space…”
+
+Eppie played the song in her head, her fingers miming the movements on her guitar. “It’s a simple jailhouse progression, maybe you’ve heard of it? Very repetitive, E major—A major—G major—B major, with er… one of these…”
+
+She played the cords, and out came the heavy sound of yet another dirge, a funeral waltz.
+
+“Ah, we call that a three-four time signature.” Zara’s eyes were fixated on her fingers. “Go on.”
+
+“Right…” Eppie gathered her wits as she reimmersed herself. She cleared her voice, then lowered her voice to give it more bass and weight, like she was trudging through a heavy pile of immovable pine needles.
+
+Slowly, steadily, her fingers played the low-register notes, then picked out the individual strings to add the soulful air of prison Blues.
+
+She took a deep breath, then held it as her body counted the metronome. When she finally opened her mouth to sing, she tilted her head, her hair fell over her face, and the song emerged as a breathy mumble.
+
+Across from her, Zara’s eyes were wide, and her whole body began to shiver.
+
+My girl… My girl… Don’t lie to me.Tell me where did you sleep last night?
+
+A chorus later, they were no longer in the studio. The padded walls were suddenly heady with the scent of pine, and the cool air of the central air conditioner was the sting of wet pine needles clinging to the smouldering body of a young girl alone in the woods.
+
+In the pines, in the pines Where the sun don't ever shine I would shiver the whole night through
+
+Without realising, Eppie’s body began to hunch. She was the girl, she was the accuser, she was answering her own rhetorical question. Her body was suddenly weighed with fear, with guilt, haunted by what had to be done.
+
+Just about a mile from here His head was found in a driving wheel
+
+By the third verse, she was staring in horror at Zara, and her instructor’s hands were on her own neck.
+
+My girl, my girl, don't lie to meTell me where did you sleep—
+
+The tune stopped. Eppie’s fingers snapped away from the cord. In her lost state of being, she had nicked herself badly in the gap between her nails.
+
+“Shi— sorry, I need more practice,” she apologised.
+
+It took Zara a whole other minute to finally snap out of her stupor. “That’s incredible… It's so… dark. How did you even come up with that?”
+
+“It’s an old Appalachian blues, isn’t it? It’s ancient,” she wasn’t about to take credit for something that should be common to the people.
+
+“I’ve never heard anything like it,” Zara shook her head. “I mean, I know my Blues, I know too much, in fact, but nothing like that.”
+
+“Ah, well…” Eppie chewed her lip. I guess it doesn’t matter. Either way, it's going to the Trust. “Maybe I did dream it up.”
+
+“But why is it so sad?” Zara wiped away some unbidden moisture from her eyes. “What do the lyrics mean?”
+
+Eppie swallowed. It was easy to explain what she knew via Black History Month, but there was nothing easy about explaining systematic sexual violence when you’re fifteen, to a seventeen-year-old. Instead, something just as terrible came to the fore of her mind, something she had come across in the research of her present self.
+
+It was a recent piece of history that had influenced Director Harper’s disgust with Children and Family Services. Only five years before Eppie landed in her present body, there had been the infamous case of a nine-year-old French migrant who arrived in CA to pursue an education. From the age of eight or perhaps younger, the girl suffered unimaginable abuse by her Foster parents, who kept her in the basement bathroom in her own excrement, and was forced to eat from a dog bowl. She was abused daily with household implements. Ultimately, the girl escaped from the estate into the woods, and it was by the evidence etched onto her frozen body that her abusers were brought to justice. Her Foster Parents were given suspended Death Penalties, and the abusive father was found strangled to death by an inmate with a broom down his throat. What made the incident a national scandal was that, during the time of her abuse, the neighbours, four separate individuals from local authorities, a hospital nurse, and even the local church leader had reported their suspicions to DCFS to no avail.
+
+An inquest followed, and CA’s DCFS was then embroiled in a multi-decade, billion-dollar lawsuit for over 2000 victims of physical and sexual abuse. New laws were passed, and yet, even in Eppie’s own case, DCFS was quick to sideline her protection for self-interest.
+
+For Eppie the Second, this was another case of revenge best served cold. When she has built enough influence, power, and social capital, all shall pay their due.
+
+To Zara, she explained her feelings of alienation at the hands of the DCFS, and cited the horror of the poor baby who fled into the pines. Her Senior knew of the incident, all Americans did—but she did not know of Eppie’s own experience as a State Ward.
+
+“I am so sorry, Eppie,” her instructor, merely two years older, hugged Eppie to her chest. Her eyes were wet, and Eppie could not help but mirror the sentiment. As the heat between them grew, Eppie felt her heart swell with an unusual sensation—the desire for generosity.
+
+“Let's do it. Let’s write the song together,” she said. “We’ll debut THIS song at your showcase.”
+
+In the corner of her blurry vision, a message panel opened.
+
+Trait Acquired
+
+[Noblesse Oblige]Causality Tier (C)
+
+A privileged individual who bends causality should naturally embark upon the path of munificence. By giving to others and exhibiting unconditional generosity and sacrifice, you have become a karmic catalyst. As a result, a portion of your beneficiary’s Karmic Causality will nourish your continued existence. This trait can only be improved through further application of Noblesse Oblige.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality

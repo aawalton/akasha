@@ -1,0 +1,245 @@
+---
+id: 9fd03c6a-729b-50be-ac41-8772b33cff7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 741 - Realities of the Fight"
+slug: 0252-chapter-741-realities-of-the-fight
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 252
+ownLength: 2634
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3842808/chapter-741-realities-of-the-fight"
+royalRoadId: "3842808"
+---
+
+Tala struggled to relax, looking out of her dining room window at the star-lit vista within the sanctum.
+
+Rane willed himself into the room beside her, greeting her with a bit of surprise in his tone before looking her over once more. “Tala? What’s going on?”
+
+Tala grimaced, then took a long pull of coffee. “I’m struggling with something. Mind chatting?”
+
+He raised an eyebrow at the out of character request. “Uh, sure?”
+
+She nodded. “Good, good. How do you feel about the deaths against the Black Legion so far?”
+
+Rane’s shoulders slumped in seeming relief. “Is that what this is about? Tala, you aren’t responsible for—”
+
+She held up a hand, forestalling him. “This isn’t about self pity or self blame. Please?”
+
+He gave her another searching look then nodded, pulling up a chair. “Alright. In that case, I suppose I’d say that I wish they hadn’t died, I wish we could have done things differently, but people die in war, and this is that. Now, we even have found our enemy, and we might be able to bring this to a conclusion.” He considered. “Keeping in line with your question, I suppose that this means more will die, but that’s a cost we have to be willing to pay. After all, people die in war.”
+
+Tala pointed at him somewhat forcefully, making him blink. “That’s it! Right there.”
+
+“Tala?”
+
+“You repeated the same phrase: People die in war.”
+
+He hesitated a moment. “I’m sorry? I guess I am usually more articulate, but not that much. What’s gotten into you?”
+
+“Why do you expect people to die in war?”
+
+“Because it’s war? That’s just the reality of things.”
+
+She snapped her fingers and pointed again. “There. Did you hear it?”
+
+He frowned. “No… I’m sorry, but no?” He leaned forward. “Are you… alright?”
+
+She nodded, waving him off. “You said that was the reality of things.”
+
+His eyebrow lifted once more. “Is that the issue? I mean… Once again, I apologize for being inarticulate, but it was the right word for it.”
+
+She gave a slow nod. “It really is the right word for it. I think they’re influencing us on a deep meta-level. Leaning on what actually is a historic truth, but imposing it upon us in a way to dull our reaction to losing so many.” She was breathing a bit harder now. “You and I have never been in a war. Large scale death—especially on a single day—is new to us, yet we’re both fine. Sure, we’ve seen horrors before, but this is different. It should be hitting us differently, but we’re brushing it off as if it was to be expected.”
+
+Rane frowned, leaning back in clear thought. “I… I can’t say you’re wrong,” he held up a finger to stop her, “but I don’t know that I could tell either way. In logical assessment, I would agree that I have been… colder toward our fallen than I would have expected, but I’m also weary, Tala. My body and soul are still raw from advancing. Not weak, not needing to be coddled, but still not as grounded as they should be. That could be the reason I feel off, or it could be why I’m able to be affected.”
+
+Tala shook her head. “No, I’m feeling it too. It’s a numbness to the realities of our situation. It’s making it difficult to see our forces and losses as anything other than numbers, and if I can achieve victory by allowing some of the numbers to go up, why wouldn’t I?”
+
+Rane baulked momentarily. “Tala, that’s…” He then frowned. “That sounds reasonable, but it’s also horrible.”
+
+He visibly swallowed, his eyes flicking back and forth in clear contemplation.
+
+After a long moment, he gave a slow nod of understanding. “I see your point. Something is wrong. Something is influencing us, tilting us toward the acceptance of ‘reality’ rather than pushing against it as Mages have done throughout our history.”
+
+“Exactly.” Tala smiled and sighed, clearly relieved to have his confirmation. “I don’t know that I’d have noticed it, but I was trying to deeply analyze how the existence shield changed my mindset, and I came to this topic and found… it wasn’t very different. I almost passed it by—after all, it’s not like I became an entirely different person, and there are commonalities—but Alat pointed out that based on our past, it should be.”
+
+“So, what can we do about it? Assuming we should.”
+
+Tala gave him a confused look. “Why shouldn’t we?”
+
+He shrugged. “I mean. Isn’t this what good generals aim for? To see the battle clinically? To drive toward victory with the least loss of life, but accepting those losses that are required?”
+
+She hesitated, starting to agree with him, but something within her rebelled. “That may be the reality of things, but in the current clash, it’s hard not to see that as an attack as well.”
+
+“Then it comes back to the core question. What can we even do? And to what end?”
+
+Tala grimaced, growled, and then seemed to deflate. “I… I don’t know. We exist in reality, and that’s not something we can change, but I don’t like how much this feels like a subtle attack.”
+
+“I hear you. We should bring it to the war council.”
+
+Tala sighed. “I have…”
+
+That got another eyebrow. “Oh? They dismissed your concern?”
+
+“No… They simply weighed things, and determined that even if it is an attack, the best path forward is to cut it out at the roots.”
+
+“That…” He grunted. “Yeah, I can see the sense in that.”
+
+She sighed. “Yeah… me too. I still don’t like it.”
+
+They shifted their chairs a bit closer, leaning on one another and looking out at the nightscape, simply reveling in one another’s company.
+
+The next day would bring yet another fight, and they needed the rest they could get, while they could get it.
+
+* * *
+
+Dawn found them in their bed, the uncommon luxury of a satisfying night of sleep lingering as they rose.
+
+Neither opted to simply will themselves free of the sheets, instead taking the time to get up the mundane way, enjoying the little moments together until they were fully ready to move to the dining room for breakfast.
+
+Lea was already waiting for them, enjoying a large spread of Kedva-prepared foods and… a breakfast caravan.
+
+Tala’s eyes narrowed. “How did you even know we had those?”
+
+The girl gave a broad, guileless smile. “Momma takes good care of me.”
+
+Traitor.
+
+-The girl was hungry, and nothing’s too good for my girl.-
+
+Tala sent a flat look to the alternate interface.
+
+-Fine, fine, but did you really want her interrupting you this morning?- She gave the impression of a single eyebrow, raised in question.
+
+Tala sighed. I suppose not…
+
+-That’s what I thought.-
+
+She smiled at her daughter. “Well, I’m glad that you are enjoying the food.”
+
+Rane gave a wide grin, sitting down and rubbing his hands before his own breakfast appeared. He’d chosen a massive mug of… green tea—Tala sighed—a heaping bowl of diced fruits and berries with a side of whipped cream, and… a breakfast caravan.
+
+Traitor.
+
+Alat snorted, and Tala grinned, joining her family for an all too normal breakfast with an abnormal amount of coffee, just for her.
+
+“What’s the status, Alat?”
+
+The alternate interface projected her words for all to hear, matching Tala’s outward directed question. “-We’re loaded with all that we can carry and already flying toward the meet-up with the forces coming from the escarpment.-”
+
+Rane grunted. “What’s our ETA?”
+
+“-Less than an hour. We’re gathering outside the Leshkin part of the forest, and the expectation is that we can launch our attack within an hour of arrival.-”
+
+Lea set her current forkful down, frowning. “Less than two hours until the next clash…”
+
+“-Point of fact, we don’t know how much resistance we will encounter before the immediate area around the Spawning Tree… or it might be more accurate to call it a factory now. Depending on our collective speed and the presence or absence of hampering terrain features, it could be between a quarter hour and two hours before first contact, with true battle to commence at some point thereafter.”
+
+Lea waved that off. “Understood, Momma. Thank you.”
+
+“-Of course, dear.-”
+
+They fell into silence then, enjoying not only each other's presences, but those radiating from the family portrait which dominated one wall, reminding them of the many whom they cared for, even if mostly from afar.
+
+* * *
+
+Tala stepped across the almost perfectly straight dividing line between the Pack’s forest and that of the Leshkin and Forest Spirit.
+
+It was a fascinating transition.
+
+The wolves maintained the cycle of nature, the growth and death of all sorts of trees—even including some endingtrees in small clearings that made it impossible to mistake what they contained—undergrowth, and wildlife: mundane, arcanous, and magical.
+
+In contrast, within the Leshkin’s woods, the trees weren’t allowed to die, instead having grown to massive proportions before falling into a sort of torpor where they simply maintained their pillar like shapes, their canopies the roof of the great, unchanging hall.
+
+The massive tree cities of humanity within the forest showed the true potential of these stunted behemoths, should the strongest have been allowed to win out against their brethren and continue to grow, unchecked.
+
+Tala tried to imagine a forest dominated by city-sized trees, smaller ones on the periphery. It was beautiful in her mind’s eye, and she knew that she couldn’t possibly do it justice.
+
+Maybe when this is all over, I’ll get the chance to see it.
+
+With her expanded sense of authority, she found it impossible to miss the vice-like grip of the Forest Spirit, undergirding everything, nudging and influencing every process and interaction within this domain.
+
+To Tala’s shock—now that she was down among the trees and really in the creature’s domain—its authority felt… atrophied? Frozen?
+
+It was like a hand that had held a grip on a sword for so long it could never release the hilt again.
+
+Even his authority has stagnated… which might be self-reinforcing, both keeping it from degrading and locking out any growth. The idea was quite an interesting one but hardly that relevant at the moment. Besides, it didn’t feel like it was quite right.
+
+Her threefold perspective allowed her to see the various arcanous and magical creatures hiding before the advancing allied army, the beings clearly intelligent enough to avoid clashing with such a powerful force despite the tantalizing and irritating gated among their number.
+
+It was quite funny. When she’d first entered this forest as a Mage Protector and Dimensional Mage for a caravan, these woods had been a beautiful mystery, filled with wonder and danger.
+
+Now, the danger was far more real and apparent, and while there was still a sort of beauty to the place, the mystery was all but gone, and the ugly truth of it was laid bare before her.
+
+Her forces—arcane and gated alike—advanced in a coruscating bubble of her authority, both relying on her and adding to her weight through that reliance, trust, and deference.
+
+They were water flowing across a hydrophobic surface, with her using a large chunk of her willpower and focus to keep her authority from rubbing against that of the Forest Spirit.
+
+She was not here to disrupt the status quo of the forest. She was here to remove something that had, something new that didn’t belong.
+
+That was her mindset, and she was sticking to it.
+
+A small smile pulled at her lips when she regarded the arcanes and humans moving side by side, united in purpose under her direction… well, at least following her edict. There were commanders and sub-commanders, captains and sergeants of the various units and divisions of the force, but that wasn’t the point.
+
+Human and arcane were approaching a field of battle side by side, intermixed and preparing for a clash in which they’d be intricately dependent on one another. It was unprecedented.
+
+Even in the original pact against the Black Legion, they’d simply been allies of convenience, remaining separate and simply not harming one another toward a common end.
+
+Now, they were one force.
+
+What a time to be alive.
+
+What added to the oddity was the knowledge that she was the catalyst of the change.
+
+As a recognized Eskau of the House of Blood, her standing among the arcanes was unquestionable. As a Reforged of humanity, she held weight in that society as well.
+
+She had been the linchpin of the negotiations, a demonstration to both sides that they had some overlap in those they valued.
+
+Now? She suspected that the alliance would outlive her if the worst happened, and there was a joy in that.
+
+Even if she were to fall, her life would have a lasting impact on all of Zeme.
+
+That inevitably brought her thoughts to when she’d been in this section of the forest before and the circumstances surrounding the trip. It had been upon her return from the arcane lands, as she was making good her escape.
+
+It’s amazing how so short a span of time has altered so much about my life and the world as a whole.
+
+It was true, she’d been captured by Be-thric and in his custody for right around a year, yet it had reshaped her at a fundamental level, forever changing her path in life.
+
+She still struggled with the fact that almost every one of those changes was for the better.
+
+That man’s actions had been detestable, but she’d seized back control of her life and turned it to her advantage.
+
+She’d embraced her identity as an Eskau of the House of Blood, and incorporated it as a foundation of who she was. Even so, that was a title she’d earned as his representative, and only through the opportunity that he had provided.
+
+As her feet treaded this ancient forest, her thoughts continued to tread old paths.
+
+What Be-thric did had been unquestionably wrong, even if she’d come out better for it.
+
+No, that didn’t mean that she was grateful to him. She chuckled darkly at the very idea. She would kill him again if he were before her.
+
+And again.
+
+And again.
+
+Oh, that would be a sweet act, facing him as I am now… But she set that aside. He was dead and gone, and he no longer held sway over her.
+
+She smiled at that, realizing that she’d used his name in her thoughts several times, and she’d done so without pain or difficulty.
+
+It was possible that she’d finally moved past her pain, leaving it fully in the past.
+
+She gave a slow nod, finally fully acknowledging something that she’d long known.
+
+If she were redesigning her life, she couldn’t honestly say that she’d take that part out… It made no sense, but there it was.
+
+If nothing else, without the sojourn in the arcane lands she wouldn’t have faced Io, learning of automata so early and capturing the body that would eventually give rise to Lea, and she would never make a choice to lose her daughter, not even now it was clear that she could have more children if she so desired.
+
+But that was hardly the only reason.
+
+That time had been a crucible that refined her as truly as her actual Refining.
+
+Tala looked around herself, taking in a deep breath of the forest air and smiled, her perception picking up a rather important change before them.
+
+“It really is good to be back.” Her smile spread. “Let’s do some reconstruction, shall we?”
+
+A Black Legion force was closing in.
+
+It was time to fight once more.

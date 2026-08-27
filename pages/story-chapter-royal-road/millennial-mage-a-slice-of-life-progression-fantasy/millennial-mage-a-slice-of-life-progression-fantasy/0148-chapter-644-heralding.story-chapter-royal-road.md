@@ -1,0 +1,197 @@
+---
+id: eb9c6adf-127a-5c49-9516-d719a77411a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 644 - Heralding"
+slug: 0148-chapter-644-heralding
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 148
+ownLength: 2796
+unit: words
+ownProgress: 2796
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2820871/chapter-644-heralding"
+royalRoadId: "2820871"
+markedReadAt: "2026-06-29T19:39:48.365Z"
+---
+
+Tala soaked up the atmosphere of Irondale as they made their way to the heart of the minor city within her expanded space.
+
+Lisa walked with her, if half a step behind, near enough to talk if the desire seized Tala, but still in a position that indicated deference to her.
+
+The streets were far from crowded, even with the obvious traffic from Marliweather, various citizens coming and going freely.
+
+The gated that came in did wear at the space, but not appreciably, and as it was uncommon and infrequent, Kit had been able to keep up with maintenance despite the abrasion.
+
+Now? Tala actually took a moment to look.
+
+The gated weren’t harmless to her expanded space, but there was an odd sort of cushion of power moving with them. Near as she could tell, it was a mix of magic, voidmagic, and reality illusion, all working together at an instinctive level to smooth the way and reduce the impact of the gates.
+
+It was quite reminiscent both of how she was able to move faster and how Lea was. Though it was identical to neither method.
+
+Part of it was only possible due to Tala’s monumental authority within this space, along with the tacit submission to that authority given by any who entered Ironhold.
+
+She didn’t have any direct hold on their souls, but she likely could have asserted such with relative ease. Still, she had no desire to do so, and thus this mitigation was a quite satisfying, workable solution.
+
+Whether Lisa had somehow intuited her line of thinking, or if he simply had similar thoughts himself, the fox-kin huffed. “You do realize that you’ve done something nearly unprecedented, right?”
+
+“Hmm?” Tala turned to regard him. “What do you mean?”
+
+“You are effectively both Reforged and Revered. It might be argued that you are more even than that, but I think your gate is holding you back from advancing as the gateless do. If not, you’d likely unbalance yourself.”
+
+She frowned. “How so?”
+
+He grinned even as they continued to make their way forward.
+
+Those who noticed Tala nodded or waved in acknowledgement, and she did her best to respond in kind.
+
+“An overly simplistic distinction between gated and gateless advancement is thus: gated seek to grow in power until they have authority over the world around them while gateless seek to grow in authority until they have power over the world around them.”
+
+Tala huffed a laugh. “I suppose I could see it that way. And what of magical beasts?” She hesitated a moment, actually considering the question herself before she nodded. “They grow in unity with the world around them until that unity naturally results in power and authority.”
+
+Lisa shrugged. “Again, overly simplistic, but near enough. That is not what I am talking about, however.”
+
+Tala shrugged, leaving that sub-topic for the moment. “So, you’re saying that I am growing in both power and authority? Isn’t that true for all who advance?”
+
+“Yes, but you are growing in each area, independently of the other. Your authority within Ironhold has nothing really to do with your gate and your personal magical power. True, your power has allowed your acquisition, maintenance, and expansion of it, but the ongoing reality? Distinct. If your gate were sealed, and you were left with only that which exists in Zeme? This power would endure.”
+
+Tala started to open her mouth to object, but then she hesitated. Wait… He’s right. It doesn’t take power from my gate to manipulate things within Ironhold or the sanctum. It’s just an act of will. It’s a flexing of my nature, now more than ever. It used to be an act through my connection with Kit, but now that we’re one?
+
+-That’s… that’s fascinating. I didn’t consider it that way.-
+
+He let her contemplate his words for a moment, but Lisa wasn’t done, and he didn’t let the silence drag out too far. “In a similar way, your personal power, your gate, your magics, are not dependent on this hold. You certainly utilize this hold to your advantage, but if it were torn away, you would be just as much a Reforged as you are now.”
+
+He was right. If that happened, it would hurt her greatly, but it wouldn’t change her advancement. She had somehow come to a place where she was both Reforged and Revered without even realizing it.
+
+-Just as you are both Mistress and Eskau.-
+
+Could anyone who found a being like Kit achieve this? Tala was feeling off base, unbalanced by this realization. Confusingly, this actually seemed to allow a whole slew of things to settle into place within her, and as she truly considered it, she realized that Lisa was right. Based on what she knew that the City Lords of the arcane lands were seeking, she’d achieved their goal. She should be Hallowed in power… and maybe she was?
+
+“I… I think that my authority is Hallowed in advancement, but my aura is based on my magic. In gateless, their magic is directly tied to their authority, just as you’ve said, mine isn’t.”
+
+He considered for a moment. As he did so, they arrived at a large building with a sign proclaiming it the Little Shop of Wonders.
+
+Not so little any more.
+
+Lisa led them around toward the back, and in the pseudo privacy of the side street, he threw up illusions that turned it to true privacy. That done, he gave a predatory, vulpine grin, taking a moment to bow deeply toward her. “All hail Mistress Tala, Reforged Blood Archon, Hallowed Eskau of the House of Blood. Ravenous Jealous Devourer, Maternal Iron, and Iron Matriarch of Gated Humanity. ”
+
+The entirety of Existence seemed to hesitate as his words thrummed through reality threads as much as the air.
+
+In that moment, Tala felt the gaze of Sovereigns and god-beasts alike, drawn to the outlandish pronouncement like moths to the flame.
+
+They swept across the superficial where she was currently anchored, then they swept across again, this time taking in the dimensions of magic, looking upon her stoneward and starwards selves.
+
+There was a mix of emotions imparted by the very focus of the souls and spirits in question as each remained for only the barest fraction of an instant. They were everything from enthusiastic welcome from two who felt like Anatalis and Vidarra through satisfaction from the man with alabaster skin and void eyes and on to anger and challenge from the forest spirit and a couple of others.
+
+Most, however, were simply passingly curious before they turned their attention back to whatever they had been occupied with previously.
+
+Existence began to move forward anew, and Tala found that she’d broken out in a cold sweat, the autonomic reaction having utterly surpassed all her lauded control and restraint.
+
+One other thing had changed in that seemingly eternal instant.
+
+The reality node that was Lisa—centered on and bound together by his very spirit and soul—now had at least two dozen more reality threads connecting to it, seeming almost in a posture of… gratitude? Acknowledgement of a debt?
+
+“Did you just draw attention to me to earn boons for yourself?” Her tone was a bit icy, but it contained more incredulity than true irritation.
+
+He shook his head slowly. “Nothing so crass. Though I will not deny that I benefited from my actions. A Hallowed must be acknowledged in their authority by equal or more powerful beings to truly claim that power. As a fox-kin, Existence hears my words more easily, and so I could act as herald, drawing their attention and allowing a cementing of your advancement.”
+
+That… Well, honestly? It both made no sense, and seemed somehow plausible at the same time. “So, what? The first Hallowed was stuck until another advanced sufficiently that they could acknowledge each other?”
+
+Lisa nodded, grinning. “Indeed. Well reasoned. This not only maintained balance, preventing the first from simply claiming all of existence, but it also ensured that they would never be able to advance further without the other. It also bound the two into their places within Existence.”
+
+Tala’s eyes narrowed. “This is a part of your mythos, isn’t it? They were fox-kin and snake-kin?”
+
+He shrugged. “Indeed. That is what we are told. Hallowed is their place in existence, forever, as is our own.”
+
+She frowned. If that were true, then she matched them in authority… but the scope of that authority was far more limited. That actually made a lot of sense, now that she considered it. How could one differentiate between those of Authority? Why, by looking at what they had that authority over.
+
+Still, authority wasn’t sovereignty.
+
+Authority wasn’t Sovereignty.
+
+She rocked backward, feeling like she’d been smacked in the face. “Authority is granted, Sovereignty is taken.”
+
+Lisa cleared his throat, amending her statement, “Or naturally in place.” He paused a moment, then gave a more comforting smile. “But that is not in your near future.” He actually patted her arm. “Come, come. You’ve just had a shock, and you were interested in seeing our little shop. Shall we?”
+
+He gestured to a door, his illusions falling away from around them, allowing through a wave of sound from the small city around them that Tala hadn’t even noticed the absence of. She shook herself before nodding and turning toward the indicated door. Tala hesitated, hand on the latch, then glanced back. “You forgot something.”
+
+“Hmm?”
+
+“In your oh so officious pronouncement. You forgot something.”
+
+He tilted his head to the side in obvious interest. “And what might that have been, Mistress?”
+
+Tala gave a half-smile. “I am Tala Sappherrous. My power is forged by wealth wielded and blood shed with the mundane and the precious in equal measure. I have claimed what is mine, and I will not be denied.”
+
+Existence gave another, much weaker pulse at her words before settling down once more. Lisa blinked at her a few times, even as she turned and entered ahead of him.
+
+Her all encompassing perspective showed him giving a slow appreciative nod.
+
+His voice was quiet, but he had to know that she could hear, regardless. “As you say, Eskau Tala Sappherrous, herald of great change.”
+
+Tala decided not to address that for the time being. Before her was a small hallway, leading to the back of a warehouse sized room. It was time to check in on Artia.
+
+As it turned out, the woman was thriving. She’d always loved the merchant side of magic, and with Lisa’s expertise behind her, she was doing better than ever before.
+
+Her husband had taken over as the co-head over research and general head of magical stuff for Tala, depending on her needs, but even so, he still spent a good deal of time with his wife and their shop. Part of that was so he could learn from Lisa and other fox-kin as well, but the other part was to be with his wife and son.
+
+Her magical progression was coming along well enough. More than a decade of study had brought her to the point of inscription and initiation as a full Mage, even if her spellforms were almost entirely perceptual and analytical in nature. The only exceptions were some mental enhancement scripts—which were all but required for the main sets—and some augmentation to her durability to allow her to more easily continue life alongside her husband, son, daughter-in-law, and grandchildren. Without that, she’d be about as durable as paper walls to them all. It wouldn’t have been prohibitive, but it would have been less convenient.
+
+As such, she’d chosen to lose a bit of analytical power for a more practical portion of inscriptions.
+
+Beyond even that, she was rapidly approaching the point at which she might be able to make an attempt at Binding—though no one had told her that yet. There was still the issue that she had less than even odds at succeeding, based on historical precedent. In the end, someone would have to decide if it was worth the risk.
+
+Tala wasn’t entirely sure who would make that call—Alat knew, but she kindly didn’t add to Tala’s mental burden—but Tala did know that Brandon and Adrill had her best interest at heart, and they’d be keeping a close eye on the situation.
+
+She was incredibly glad that she didn’t have to make the choice, herself.
+
+Tala chatted with the woman and looked over the vast spread of artifacts. There were knives, expanded spaces, trinkets, and more of all kinds. It was something that would have made younger Tala salivate at the possibilities, but she found that beyond mild interest, she was unmoved by the hoard.
+
+She had what magics she wanted, and adding in more now would be more likely to cause issues than result in an increase in power.
+
+As such, she didn’t stay very long before bidding the woman—and Lisa—goodbye and moving on her way.
+
+She’d already taken far more time in the early part of her tour than she’d expected. The next portions would need to be expedited.
+
+First, she needed to check out the local restaurants. In short? They were better than ever. Ironhold’s magic suffused the generic ingredients, not making them magic infused—not specifically—but enhancing the flavors.
+
+Moreover, with decades of practice in some cases, the chefs and cooks knew how to make the most of the superior ingredients.
+
+As she flitted from food-seller to food-seller, she glanced into the various shops. In the end, she just had to shake her head in wonder at the sheer variety of all that was available.
+
+The merchants that had storefronts held ones of various sizes, and they carried products from clothing to tools, ranging in quality and detail from basic to mastercrafted items. The spread and depth of types of items offered was staggering.
+
+We’ve become a traveling one-stop-shop.
+
+-Indeed. People have worked hard to fill the niches.-
+
+Merchants and chefs weren’t the only citizens of Ironhold, of course. They each had their assistants, waiters and laborers, but beyond those industries were the craftsmen and more.
+
+Tala had already seen the farms, and that was another large chunk of the population, that being farmers and ranchers and the attendant workers. After all, the land surrounding Irondale was as lush and fertile as it was beautiful.
+
+The lake that bordered one side of the small city had been stocked with fish, and as a result there were several groups that actively fished the waters, careful to not ever tip the balance past sustainability.
+
+It was interesting for Tala to see fox-kin scattered about, often working as advisors or consultants to the various industries, though a few did seem to be acting as more physical laborers which surprised her.
+
+I suppose all races have all sorts.
+
+-Seems so, yeah.-
+
+Finally, she visited the Talons who occupied a good portion of the dense forests to the west of the hold—that portion which used to be an elven hold before Master Grediv had conquered and eventually gifted it to Tala.
+
+The Talons were undergoing an expansion of sorts with new members being inducted almost daily. Those new initiates were held to a Refined level of power until they mastered such, then they were graduated to Paragon and so forth, but the more senior members were already working to contain and dole out the Reforged levels of magic.
+
+It was something that they all struggled with, and the most common result was roughly ten seconds of power of that level as it blazed out of them, followed by a more sustainable, longer lasting use of power at a Refined level.
+
+Therefore, the most experienced Talons were effectively acting as Revered warriors, with those who were a bit newer matching Honored in power, with the newest simply being equivalent to the gateless Elders.
+
+That was fine for the moment. Tala had no doubt that they’d improve in the weeks, months, years, and even decades to come. Even without that, though, they were a force to be respected.
+
+She smiled at that, even as she stood, unnoticed to the side of the training yard.
+
+Tala herself had found her ability to retain magic amplified to an insane degree, even if it was largely due to leaning on the iron nature of her body and containment magics incorporated therein as much as having trained her will and spirit to retain the power, directly.
+
+The Major Houses would soon find that she was more than any Eskau who had come before her.
+
+She and hers would be the boulder around which the river of their power broke. Stars willing, she would change the path of that river for the better.
+
+But only time would tell.

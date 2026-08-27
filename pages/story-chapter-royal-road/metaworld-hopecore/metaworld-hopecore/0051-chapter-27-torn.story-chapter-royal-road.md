@@ -1,0 +1,282 @@
+---
+id: bef4e217-e489-5a9b-9f26-3d2b483fdd94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - Torn"
+partOf: metaworld-hopecore
+position: 51
+ownLength: 3639
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374263/chapter-27-torn"
+royalRoadId: "3374263"
+---
+
+“Make yourself familiar with the angels... they are present with you.”
+
+St. Francis de Sales
+
+The first lesson of the Arts Block after the Final Callback list was inked and finalised was very different from the anticipation of the openings, the fatigue of the middle weeks, and finally, the anxiety of the last two weeks.
+
+Now that the roles were chosen, some students fell into their assigned positions with gusto, while others resigned themselves to defeat. Facing deflating morale, Costello had to double down on the significance of each and every role within a theatrical company, while downplaying the obvious significance of the chosen “few”.
+
+For the latter, he chose to focus the rehearsals on the technical aspects of the performance, rather than on the individual performances of Eppie, Chloe and James.
+
+The black box theatre was thus stripped bare, leaving only the centre stage and the lighting.
+
+James Jules, the student who had won the role of Creon, stood six feet at fifteen with a shocking head of blonde hair in a style popular in the mid 2000s. He had trained with a dance company in his youth, and thus carried himself with a regal poise that few other students could match.
+
+He sat on a box, miming the work of a man surrounded by paperwork.
+
+On cue, Atkinson conjured the ambient sound of a press conference through Kimberly.
+
+5000K daylight, akin to the cold, clinical white of a TV studio, or simply 'a hard, daylight-white spotlight. controlled by Min-jun, thrusts the Secretary of State into the spotlight.
+
+“Captain Polyneices has been removed from the board because he has chosen to make himself a threat. A threat to our theatre of operations in the region. A threat to his comrades in arms, and a threat to the reputation of the United States as an uncompromising source of stability. By communicating with you, Antigone, who has released unredacted logs of his final communication, your brother has made YOU a danger to the safety of the state.”
+
+Eppie’s body was shaking. In her own pool of weak light, she looked more vulnerable than ever. When she gazed upward at Creon, however, the atmosphere around her changed into one of righteous retribution. “My brother wasn’t a traitor.”
+
+Her voice was low and controlled, a vibrato that seemed like a whisper, and yet was audible to her audience.
+
+“He was a true American. He followed his orders, but couldn’t live with his conscience. Your own Marine manuals explicitly state the duties of a soldier, not even an officer, in their own doctrines of war…”
+
+Each take of Antigone abridged lasted about five to ten minutes, with Costello remarking upon the performance, and Atkinson delivering his verdicts and adjustments. Even with the actors giving it their all, there was still much more to do before the play was polished. From the Chorus’ murmurs to Kimberly’s live-tuning of atmospheric ambience.
+
+At the end of the session, Costello called out for her, asking her to remain.
+
+“Sir?” Eppie had thirty minutes before she met with Zara.
+
+“Fontaine,” Dr Craig Costello waited until the room was cleared before he spoke again. “Is everything alright?”
+
+“Alright, sir?” Eppie asked, studying her instructor’s face.
+
+A masterful actor himself, the man genuinely looked concerned.
+
+“You had a moment with Miss Sanders,” Costello pushed up his glasses. “I am wondering if you are carrying some of that emotion into your playing of Antigone. You, a young woman of immense pride, and Valorie, whose father is partially responsible for… our new rooms and equipment. It’s a difficult parallel to ignore.”
+
+An interesting icebreaker… Eppie smiled and made herself smaller. “Miss Sanders has some disagreements with me outside of school. I sold a few songs to Sony and received a few accolades that displeased Miss Sanders. In all honesty, I have no idea what I should do.”
+
+“Yes, I am aware of your extracurricular activities,” Costello took off his glasses and held them with one hand. With a more serious expression, he looked up at her. The middle-aged American-Italian was a good-looking guy, Eppie noted. Like Superman, the glasses were a part of his scholarly act to appear wiser and less attractive to the very impressionable students. “I listened to your song. It’s an excellent song, Miss Fontaine. Thank you for creating it.”
+
+“You’re welcome,” she performed a little curtsey.
+
+“Now, on the matter of Miss Sanders,” Costello pointed toward the room, meaning the school and its architecture. “I want to give you some perspective, as I had done for a predecessor. Since its inception under Dr Laurent, LAPA had scraped by, free from politics, free from donations, free from contractors. Then, we acquired fame and accolades, and prestige, and ironically, pressure from our alumni. The same year the Berlin Wall fell, Principal Burton was outvoted by the PA, and LAPA began its glorious foray into the 2000s as a hybrid institution. Principal Burton attempted to balance the student body with skill-based, needs-based, and customer-based students, and by the loss of what was once a full head of hair, he had succeeded.”
+
+Eppie listened to the old man’s yarn with a sympathetic face. It certainly helped that she could imagine herself conversing with Dr Doug Ross. For an old bird like herself, prime Clooney was simply—chef kiss.
+
+“So…” Costello did not like how her eyes glowed. “Sanders isn’t going to be the last of her kind you’ll meet in showbiz. You can’t fight their kind, Eppie. There’s no end to their resources. Even asymmetrically, you’ll expend so much of your time and effort just trying to stay on your own two feet that everything else will suffer. Your music, your theatre, your mental health— we romanticise about Antigone, but the reality far favours Creon.”
+
+At least the man’s honest. Eppie nodded with sympathy. Costello needn’t worry, however, as when things take on mass, they are bound to acquire a quality all on their own. In the world of their present Information Age, fame and reputations were as Archimedes’ famous fulcrum, that "Give me a lever long enough…. and I shall move the world."
+
+“Sir, I absolutely understand what you are saying,” she replied with resonant respect. “But before I take your advice, could I ask an intrusive question?”
+
+“You may,” her instructor looked unfazed.
+
+“Did you also tell this to Luciana Mio?”
+
+Her instructor was now fazed.
+
+“Can you tell me about Luciana?” Eppie struck while the iron was hot. “From one Antigone to another.”
+
+They regarded one another.
+
+“I think I walked into that one,” Costello broke character with a tired, weary laugh. “I guess it makes more sense for you to be interested in your predecessor than not. What would you like to know?”
+
+“Well, did Luciana stand up to Miss Sanders?”
+
+“She did,” Costello’s voice grew tense. “She never let up in class, nor in the auditions. Dr Cooper had placed immense hope on Luciana. She was, in a sense, the living proof that talent and personality trumped privilege.”
+
+“Then she quit.”
+
+“Mio never actually withdrew,” Costello informed her of a detail that surprised Eppie. “She applied for a sabbatical, then never came back. We could not contact her or her emergency contact. Dr Cooper and I even went to her family’s restaurant and home address, but alas…”
+
+Her instructor’s blue-grey eyes grew gradually serious and very arresting. “... You’re an exceptional student, Eppie. I don’t think you need me to go into explicit details to understand why we’re having this conversation. I am ashamed to say that there isn’t much more I or the faculty can do for you. Even if we help you fend off Miss Sanders, there’s still your Junior and Senior year. There will be a new intake of students. A few will be special admissions, and a great deal more will be fee-paying admissions. Their parents will own agencies, studios, production houses, or be famous industry insiders. Will you fight every Creon you come across? Antigone doesn’t have nine lives.”
+
+I am not trapped in here with them, they’re trapped in here with me—was the truth that Eppie wanted to tell her instructor. With her knowledge of economics, trends and the wealth of her old world, the only thing saving those people was ironically, the [System].
+
+“I think I understand,” she smiled at her teacher. “I’ll take the utmost care when dealing with Miss Sanders.”
+
+Costello’s body moved from bound flow to free flow via a bittersweet smile and an affirming nod, yielding to gravity. “Good girl. Look. You live on campus. If things get rough, you’re welcome to find Dr Cooper and me in the staff rooms. We’re old dogs, but we still have a few tricks up our sleeve, so long as Miss Sanders is a student of LAPA. Outside of the school, though—I fear, that’s Creon’s world.”
+
+When she finally arrived at the basement of the Old Music Building ten minutes late, Zara was waiting for her.
+
+Her Senior and mentor sat on a stool, her guitar slung across her knee, her face in deep thought.
+
+“Eppie! Oh, thank God, I was worried,” the girl played a note to emphasise her worry. “I heard you had a whole thing with Sanders this morning? You’re the talk of the town.”
+
+“I ain’t dead yet,” Eppie flashed one of her disarming smiles. “My God, is there anyone who doesn't know I had a spiff with Valorie Sanders?”
+
+“It’s not the spiff that matters,” Zara’s smile was wan. “According to the rumours, you destroyed her, Eppie. She stood there like an idiot after her accusation failed, while you school her like a toddler. At least that’s what they say.”
+
+“Fuck—” Eppie felt a headache come on. “So that’s how I die, with thunderous applause.”
+
+“Haha…” Zara’s laugh had more nerves than any other emotion.
+
+“Don’t worry.” Eppie picked up her guitar, then began playing with the tuning pegs. Unlike before her ascension, the rising pitch now had an audible texture, something like a coloured, textured synaesthesia that made pinpointing the exact sound as easy as identifying hues. “I got something to put your mind at ease.”
+
+After working through the frets, she placed her fingers delicately over the 5th and 7th, then strummed up a shimmering note that seemed to linger through the air.
+
+Across from her, Zara watched with growing suspicion as Eppie tuned the guitar in under thirty seconds.
+
+Eppie looked up at her friend. “Ready?”
+
+“Ready for what?”
+
+Eppie delivered a secret smile, then plucked a pure, perfect C6 out of the air.
+
+Stars shining bright above you
+
+Night breezes seem to whisper, "I love you"
+
+Birds singing in the sycamore tree
+
+Dream a little dream of me.
+
+As a dream, Eppie’s voice rolled from her lips, shrinking the space between them into one of immense intimacy. With her child-like voice and her hesitant cadence, she took on the persona of a vulnerable, fatalistic lullaby.
+
+Say "nighty-night" and kiss me.Just hold me tight and tell me you'll miss me.
+
+Her friend’s face flushed like rowanberries as the old-timey sound of a vinyl filled the room. Eppie did her best to conjure what she felt was a birdsong of longing for human connections in a fragmented, postmodern world.
+
+I'm longing to linger till dawn, dear.Just saying this...
+
+Her transition wasn’t perfect, but Eppie pulled off, much to her own relief, the famous chromatic shift as she struck the “linger.” Her friend’s eyes had grown dreamy by now, as if lost in a midnight stroll. The story within the ballad was simple but effective—a transition from night to morning, from romantic longing to recognition to fatalistic acceptance.
+
+Sweet dreams till sunbeams find youSweet dreams that leave all worries behind youBut in your dreams, whatever they may beDream a little dream of me
+
+The final verse closed, and she hit the “Dream a little dream of me,” with a rich, playful melancholy, allowing the “me” to linger. There was much work to be done still, but the spirit of the original—and her original take- had certainly come through.
+
+Then, finally, silence reigned.
+
++ Karmic Causality
+
+Additional Causality from [Noblesse Oblige] received
+
++ Karmic Causality
+
+“Well?” Eppie watched the numbers go up. She loved it when numbers went up.
+
+“I…” Zara watched her carefully, then mimed the opening of a can with her hands. “I want to open that skull of yours and have a look inside to see what other treasures might be inside.”
+
+“Ha!” Eppie chortled. “So you like it?”
+
+“Are you kidding me? Sweet Jazz? You do know what I’ve been trained on, my entire life? If my uncle hears this song, he’s going to freak.”
+
+“Ooo…” Eppie grimaced. “I er… kind of promised this one to someone already.”
+
+“Oh…” Zara’s smile faded.
+
+“Not like that,” Eppie laughed. “We can do the song. I want to do it with you. I already have a buyer, is what I mean.”
+
+Her friend’s face once again grew scarlet. “What do you mean?”
+
+“Both In the Pine and this one, er… Dream A Little Dream… are pre-ordered by one Frederick Curon.”
+
+Zara’s pupils shrank. “F-Frederick Curon?! From Sony BMG?”
+
+“That’s the one!” Eppie gave her a thumbs-up. “He produced Vincent for me.”
+
+“HE—” Zara looked at the ceiling, hoping to find sanity. “Eppie, you’re going to be the death of me.”
+
+“Let’s hope not,” Eppie laughed nervously, thinking of Sanders. “So yeah… don’t stress, but er… We’ll be selling both songs to Sony.”
+
+“We?” Zara shook her head vigorously. “No, no no no… this is all you, Eppie. I am just a musician.”
+
+“Hey,” Eppie wagged her strumming fingers. “You really think that I, who couldn’t even play guitar a month ago, could have done any of this without your help?”
+
+“No, that’s… I can’t.”
+
+“My song, my decision, and that’s final,” she used her chest voice to add gravitas to her [Persuasion]. “Zara, you’re my music mentor. You deserve this as much as anyone deserves anything. Pines is absolutely half your song, and Dreams, well, sure. But you will be taking writing credit for Pines, and performance credits for Dreams.”
+
+“I… I don’t know what to say,” Zara slumped. Were they not both holding guitars, the girl would have slumped right onto her shoulder and given her a great, enveloping hug. “This is all too much.”
+
+“If you think that’s too much,” Eppie’s smile grew suddenly wicked. “Wait til I set you up with a VGT ETF account…”
+
+Madison Avenue.
+
+The Belmont Building.
+
+The Executive Suites.
+
+According to the NY Times, Sony BMG’s c-suite had a reputation for Nakamutsumaji, “Harmoniousness”, derived from the Japanese corporate culture of its founder, Akio Morita. Realistically, Sony America’s founders from CBS were far more… cavalier in their pursuit of popularity and profit.
+
+The same dynamic applied to the present duo of Trent Davis and Frederick Curon, the twin pillars of Sony Music’s present market domination.
+
+Trent had pioneered the 90s Pop-Group market, taking a leaf from the Nippon “Factory” concept to create the first-ever American “Associate” Model, where teenagers were thrown into structured, agency-derived conservatory training. Those who survived the Hunger Games were rewarded with a market-driven, metric-derived Mould Press methodology, creating supergroups like G-Sync, Crowded Street, and Karisma Girls. Such was Davis' legacy.
+
+Curon, meanwhile, represented the BMG grassroots of American music, discovering and polishing individual artists, singer-songwriters, garage bands and cultivating “authentic” music over manufactured Pop-slop.
+
+In the 90s, there was no question that while Curon brought home the Grammys, Davis brought home the bacon.
+
+In the 2000s, with the emergence of ‘indie’ cultural waves superbands like Chad Lain’s Human Animals, Curon attained album sales and accolades, rapidly diminishing the significance of Davis’ seasonal, ever-changing moneymakers.
+
+Curiously, what made the Sony duo so incredibly complementary was that neither had been a classically-trained music student. Davis was a financier turned circus master, and Curon was just a guy with an ear for good vibes, almost 95% of the time.
+
+Their present conflict, held in check by their two decades of partnership, was now strained as a result of a young, blonde, innocuous “nobody” who had just submitted an unacceptable demand.
+
+“Frederick, don’t do this, not now.” Davis was a patient man, and he had infinite patience for his friend and sometimes mentor, but even that was reaching its limit. “It took me six years to bring Lucia Lancet to our present market dominance. Don’t fuck this up for me.”
+
+“If she’s not going to win the Grammy without this song.” Curon’s expression was no longer the chill, uncaring Producer who ate sushi with diet coke on the couch. “Then she doesn’t deserve it. The song is NOT for Lucia. It’s for Miss Price, and that’s the PRICE. Take it or leave it.”
+
+“We work for Sony!” Davis growled, half-howling his frustration. “Lucia gets the song. She’s got the momentum, she’s got the looks, she’s got the fans. She gets her Grammy. We make money. AN UNIMAGINABLE amount of money. Your girl gets her cut. Everyone wins.”
+
+“She doesn’t CARE about money! God damn it, Trent. How many times do I have to say this? Why is this so hard to understand?”
+
+“Give her a bonus!” Davis really didn’t understand. “Tell her, for every Platinum the album sells, we give her… a mil—a hundred thousand.”
+
+Curon slammed his palm against his face. “Trent, you’re ruining my mood. We need to make the song in time for next month, or we'll miss the Grammys.”
+
+“Then MAKE IT for LUCIA! It’s a shoo-in.”
+
+“Lucia’s got the vocal agility of a dog. Besides, she’s not allowed to sing it.”
+
+“SAYS WHO?”
+
+“Euphemia.”
+
+“What?” Davis felt like he was going insane. “WHO GIVES A SHIT about what a mercenary thinks? We pay her for a song!”
+
+“This is a generational hit, Trent,” his Director shook his head. “A decade from now, people will still be listening to it on stream and on their devices. You want goddamn Lucia Lancet’s voice singing this song? She’s goddamn product placement.”
+
+“She’s talented! She's OUR talent!"
+
+“She’s tutored, then tuned, then stacked, then fattened, and even so, I had to comp her vocals!” Curon sneered. "Let's not hype our own marketing."
+
+“She’s the best performer on the market!” Davis protested. “She plays four instruments!”
+
+“I don’t need her to play an instrument, and Miss Price is the better singer, and that’s despite your investment or lack of.”
+
+“For fuck’s sake, Fred,” Davis wanted to hit something or throw something. He was so close! When Curon showed up with the damn song, he thought he had finally had it in the bag. “You know we have an ongoing drama with the Ray Richards estate. If we can give his granddaughter a Grammy, it’s all water under the bridge.”
+
+Curon gave him a look that clearly communicated the perception that Sony’s CEO was slow.
+
+“AND,” he made his point known. “We’ve been brewing this rivalry between Miss Price and Lucia for about two years now. If Kellie Noah wins the Grammy or the AMA, it derails our entire marketing strategy. Can you imagine how Ray Richards’ estate might pursue the same legal recourse after that? Don’t be a fool.”
+
+“You always see such a big picture,” Curon replied, the anger on his face subsiding. “But I am here to make music, Trent. When have I ever given a shit about your corporate politics?”
+
+“You can’t separate the two.”
+
+Curon looked at him with an expression that was more disappointment than any indication that he would relent. His director suddenly reached down to pull out his phone, read something, then looked up at him with placidity. “She’d already signed the contract. Miss Price will perform it.”
+
+Davis felt his temple throb. His blood pressure was spiking. “You sent the contract already?”
+
+“I sent it last night,” His director smiled. “You gave me full jurisdiction when it came to Eppie, remember?”
+
+“Not for this.” Davis felt his body grow cold with rage. The maniac! This goddamned, music-loving, arrogant clusterfuck genius of a man!
+
+“A bit late to rectify that fact now,” Curon shook his head. “Just take the loss, Trent, and count your blessings when the money and the awards come rolling in.”
+
+“I…” Davis felt his throat constrict. I should fire you right now. Were the words simmering at his throat, but even he knew such a thing wasn’t possible. A man like Frederick Curon would find another directorship before the ink was dry on his severance package. The package was also so large that Curon could easily start a new studio, furnish it with every form of equipment, then play the mercenary Producer. The loss of Curon was far worse than Lucia Lancet’s outrage, or the Ray Richards’ estate and their lawsuit.
+
+In the past, Sony needed him, Trent Davis. Right now, Trent Davis was Sony, and he was the one who needed his old partner from BMG.
+
+“The girl is the cause of all this,” Davis said at last. “I shouldn’t have let you go to California that time.”
+
+“You sound like a jilted wife,” Curon suddenly burst into laughter. “What, am I cheating on you?”
+
+“Are you not?” David pouted.
+
+“Maybe a little,” his Director came closer, then offered a hand. “Are we still making sweet music or what?”
+
+After staring at Frederick’s hand for half a minute, he shook it. The alternative was to push their friendship toward business, and businessmen had no friends. They were, in his mind, Hobbes and Locke. “That said, you can’t keep getting away with this. Next time our songbird sends something in, you are to inform me before you send out a contract.”
+
+“Well,” his dual Director pulled Davis closer, so that the distance between them closed. “Did I tell you our golden goose has pledged two more eggs?”

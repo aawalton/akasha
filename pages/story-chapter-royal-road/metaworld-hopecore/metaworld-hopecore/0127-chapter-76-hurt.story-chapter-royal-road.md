@@ -1,0 +1,181 @@
+---
+id: 2d4840d6-3d4d-5e40-aaf7-355f4f5a45c6
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 76 - Hurt"
+slug: 0127-chapter-76-hurt
+partOf: metaworld-hopecore
+position: 127
+ownLength: 2210
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3664224/chapter-76-hurt"
+royalRoadId: "3664224"
+---
+
+"Never hung poison on a fouler toad. / Out of my sight! Thou dost infect mine eyes."
+
+William ShakespeareAct I, Scene II, Richard III
+
+LAPA. Monday. Week 8. So began Eppie’s observation diary of Valorie Sanders.
+
+Her espionage work began with Lim, who had no qualms informing her where Valorie lived, where she usually hung out with William, and where and at what time Valorie could usually be found. This gross invasion of privacy felt so creepy to Eppie that she had to mentally stop herself from refusing Lim’s liberal information, while reminding herself that William had already acquired far more on Euphemia Fontaine.
+
+In the morning, she jogged in her hoodie and sweats to Lim’s nominated location at LAPA’s parking bay. After a few laps, she found Valorie and William being dropped off by a palatial-looking Mercedes G-wagon at the gates.
+
+With the weather warming, Valorie had switched back to her old uniform—four-figure jackets and knee-length skirts in the Blair Waldorf style, headband and all. William didn’t look like a kid at all. With his long limbs and six-three height, he looked like some C-pop star from the mid 2020s, a fact cemented by his pale, almost vampiric appearance, an impression heightened by his elongated fox-slit eyes.
+
+The two walked from the drop-off to the Old Music Building, greeting the students who came to pay their respects, then disappeared.
+
+Valorie spends her weekends at William’s house. Lim had said.
+
+So they’re happily married? Eppie huffed as she ran the circuit again. They had been dating longer than some of her teachers had been married, according to rumours.
+
+For her morning Gen-Ed, Valorie attended AP English, AP Government and Politics, and Pre-Calculus on alternating days. She had AP French and Physics.
+
+At lunch, Eppie observed Val going to and from her Musical Theatre and Theatre double-major arts blocks, but could not observe Valorie because of her own Sophomore block.
+
+And for the Senior Block, she was right there with Valorie anyway, feeding each other lines.
+
+Five weeks into their production schedules, both of their plays began to take shape. For the Sophomores, Eppie’s Draconian scheduling meant that not only were they under budget, but each phase took place without a day's delay. No sickness, tardiness, or missing crew member derailed her project because Eppie had redundancies for everything. Across five weeks, her management thoroughly impressed all of her instructors and brought tears to Susan Carr’s eyes.
+
+Tyker even jokingly asked if she would like to take up the role of Budget Chair for the Senior Production.
+
+Eppie refused, citing that she had made enough enemies.
+
+On Friday, Eppie sat through Dr Kirby’s final lesson of the week while day-dreaming about her booked trip for that same night, keeping Maddie’s email open in a tab as Kirby spoke about the dilemma of control.
+
+From: Madeline Filmore [email protected]To: Euphemia Fontaine [email protected]Date: Wednesday, February 27, 2008, 9:42 AMSubject: 🗽NYC MISSION BRIEFING: Kiritani Opening Weekend!!
+
+Eppie!!! Your flight is booked!
+
+✈️THE FLIGHT You're booked on the midnight red-eye out of LAX on Friday, Feb 29, business class, touching down at JFK early Saturday morning. Cars are arranged at both ends; don't worry about a thing- just SLEEP on the plane, please. I don't want 🦝-eyed Eppie showing up to a Met event.
+
+🏨 THE HOTEL Four Seasons, just a few blocks off the Met 🏛️. As before, please attend Mrs Vaughan’s home at noon. Rooms booked under Sony; breakfast's covered.
+
+💄 HAIR & MAKEUPJuliana Vaughan's people. The glam team (yes, it's Marta😭✨) will get you camera-ready before doors open. Just show up, sit down.
+
+📋 THE GUEST LIST (deep breath, this is a BIG one) This is not a casual gallery thing, Eppie. This is a whole photography session.
+
+Basically: be ON, be gracious, be YOU. You don't have to perform tonight; you just have to be in the room. 🌟
+
+Text me when you land.📱💗
+
+xoxo,Madeline Filmore | Artist Relations | Sony Music Entertainment 🎵
+
+Guess I’ll be observing Val over the weekend too… Eppie bit her lips.
+
+“THE HIGH COURT,” Dr Kirby raised her voice when she caught Eppie slacking. “Not the church, not the Salem, but the COURT, cannot ever admit its own wrongdoing. Why? Eppie?”
+
+It was just as well that Eppie knew the answer a lifetime ago.
+
+“Mills himself tells us in the foreword.” She smiled back at her teacher. “He tells us that these are frightened children in the woods. He says that outside the fragile candlelight of Salem, there is only the Devil’s Preserve. There’s Indians…”
+
+“Native Americans, Miss Fontaine.” Kirby interrupted. Someone chortled.
+
+“Sorry… Indigenous Americans,” Eppie corrected herself. “And they’re killing every Pilgrim they can get their hands on. They’re blocking the trade routes, burning the fields, scalping their victims. Wabanaki Nation raids on the Pilgrims were common. Some of the families are literally surviving households from other Colonies.”
+
+“Therefore?” Dr Kirby was impressed enough to ignore her email-checking.
+
+“Therefore,” Eppie looked around the class as her [Script Analysis] clocked in to work. “Faith must absolve doubt, because the alternative is unthinkable. Danforth cannot refuse the girls now, not after he’s hung people, because the authority of the Church, of the High Court, is the only thing keeping Salem in one piece. Danforth cannot out Abigail—the court hanged forty men and women who are innocent rather than admit that they, and therefore God, are fallible.”
+
+And this is why every scandal at LAPA is buried, why William Chen walks. Eppie noted with bitterness and irony. This is why Principal Burton won’t actively act to protect Mio, and why VP Thomas had Eppie sign an NDA. LAPA’s loss of credibility would ruin LAPA as it exists, and with it, the dreams of five hundred students, fee-paying and state-sponsored, would go up in flames.
+
+VP Thomas would rather let Mio disappear a second time than burn down the school she had spent ten years rebuilding. Burton… would prefer the new money chased out, offering Mio as a human sacrifice.
+
+Lana, a lifetime ago, would have accepted far worse outcomes, just to keep the stock price pumped…
+
+With Kirby satisfied, she kept an eye on the board and set her mind to karmic accounting.
+
+[All the World’s a Stage]Should she… save up?Or should she spend to maximise returns?
+
+Her [Prophet of Profits] trembled. Lana had been an aggressive day trader and an excellent hedge fund manager before the AI bubble flew her into the sun. Given the choice, she ALWAYS invested proactively rather than played the long game. She had borrowed Umbrella to frighten away William, and now she needed another song to top up her [Causality].
+
+Was it possible to produce a song SOLELY for [Causality]? Evidence suggested not really. Everything thus far… was tethered by karmic threads.
+
+So who the hell was House of the Rising Sun supposed to be for?
+
+Twirling her pen, she audited her karmic tethers once more. Eppie. Valorie. Simone. Luciana. Kellie. Kelvin. Kiritani. Just WHO THE HELL—
+
+The spinning pen fell.
+
+Lucia Lancet?
+
+Her [Wisdom], [Intelligence], and [Script Analysis] spun on the spot like a Claude logo and arrived at the sole karmic tie she had yet to address.
+
+Last year, she had inadvertently agreed, by failing to express acknowledgement, to write a song for Lucia. Sony’s top pop princess had come to “boost” her Fall Gala, but she had neither chased up on their one-sided deal nor given Eppie grief for non-delivery.
+
+Could this be a thing? She turned the thought over.
+
+Lucia Lancet. Greater than Valorie Sanders by far. A child genius and a Guilliams graduate at fourteen, granddaughter of a legendary multi-generation Blues household. Her father was richer than ten Chen families. And Lucia easily possessed a [Comeliness] on par with Valorie, assuming one could exchange pitiful allure with elegance and grace.
+
+The Richards’ estate controlled Lucia’s Masters. Lucia was absolutely not being exploited, as in the case of pre-Eppie Kellie.
+
+What the hell does someone like that have to do with… a bawdy house? Or a gambling den?
+
+And yet…
+
+The Richards Estate. The House of the Rising Sun. Old jazz. New Orleans.
+
+Go and tell my baby sister Never do like I have done.Shun that house down in New OrleansThat they call that Rising Sun.
+
+However she tried, Eppie genuinely could not picture it.
+
+Eppie’s head throbbed as Dr Kirby handed out the homework. Just how the hell was she going to make another [400000] [Causality] by May?
+
+She popped open the Mail again.This time, Lafitte should be able to help.
+
+Arts Block II.
+
+In the Senior class, Eppie was fitted for her costume while Cooper critiqued his students to the point of tears.
+
+“Uninspired,” their instructor grew frustrated by the end of the first hour. “All of you, breathing exercises. Take a break.”
+
+“Don’t stress them.” Tyker, who had been directing Ms Olivia McGregor, LAPA's Wardrobe Mistress, gave Cooper a soothing rub on the shoulders. “They’re kids; having instability is normal.”
+
+“I can see they’re trying,” Cooper had to do a few breathing exercises himself. “But the difference is like night and day. I can see they’re emulating what they WERE doing—but that’s it; it's not coming from within. I can’t explain it. They look and feel like… uncanny pantomimes, of themselves. It's WORSE than when they didn’t succeed.”
+
+“Aye, they’re just lad and lasses, David,” McGregor said, wrapping Eppie in her dress. “What’s eating you?”
+
+“Valorie is the only one keeping pace, but… it's jarring,” Cooper said, looking at Eppie while speaking with mounting despair. “I think they can do it. They just need…”
+
+He looked at her again. “Motivation…”
+
+Cooper’s eyes glinted.
+
+Eppie gulped.
+
+Eppie's Lavinia dress was cut from the same bolt of cotton, folded and pinned the same way. On her petite curves, no cincture caught the waist; the fabric fell straight from her shoulders in one unbroken column, sleeves loose to the wrist, hem pooling well past her feet, like a christening gown gifted by St Augustine. Where Valorie's dress formed curves and mounds like Corradini’s veils, Eppie's read less like a woman and more like the votive figures left on the side chapels of old cathedrals—angelic, small and pale. On her head sat a golden diadem. Her hair, messy but pretty, fell from her small face in inadvertent ringlets.
+
+“Sanders. Take a break. Fontaine. You’re up. Act II, Scene III. Tamora. Demetrius. Chiron. Bassianus, come and play your corpse.”
+
+Valorie, cold and ivory in her Lavinia garb, passed Eppie with an unreadable expression, then sat among her friends.
+
+Eppie stepped into the place Valorie once occupied.
+
+By now, everyone’s costumes had arrived.The boys, the “Goth Princes”, wore the borrowed St Anne costumes with the sensitive markings removed; their jodhpur trousers tucked into knee-high leather boots that made the silhouette unmistakable. Furthermore, on Chiron and Demetrius, the uniform came undone by design—top button loose, one glove missing, a collar worn open like a threat rather than a rank. It read exactly as intended: two young men playing soldier in a war of appetite.
+
+Comparatively, Elizabeth Moore wore red to juxtapose Lavinia. Her Tamora outfit was sleeveless, floor-length, draped like Lavinia’s, but combined with a General’s cloak. She wore a Germanic sword on her hip. Her diadem was bronze, with two hammered eagles facing forward, the same aquila Rome once carried into battle, now resting on the head of the woman who meant to burn it down from the inside. She was a twisted, insane Athena, but also a grieving mother. The complexity was but one of the reasons why Cooper was so displeased with Elizabeth and the others’ flat performances.
+
+The players took their places, including the young man playing Bassianus, an aspirant named Derek Lindqvist, who was blond to the point of near-albinism. He did his best, forming a likeness of rigour mortis mid-betrayal, which drew a round of appreciative laughter from the nervous crowd.
+
+“Which line do you want to start with?” Elizabeth, clearly tired, certainly wasn’t going to give it her all against a sixteen-year-old Sophomore.
+
+Eppie already knew which line. Her advantage over Valorie lay in [Script Analysis] and maturity. She knew precisely where the finger must be placed upon the pulse. She wasn’t going to solo the scene like Valorie. Lavinia… was merely the means by which the vengeance takes form—even in these scenes—the ONLY scenes where Lavinia speaks with her own tongue before losing it—she is not the main character. She cannot be played with main-character energy.
+
+“Demetrius,” she turned to Joshua Ramone. “Can you open for the team?”
+
+“Me?” Joshua’s face lit up. “With ‘Stay, madam’?”
+
+“Yeah,” Eppie knelt over the body of Derek, putting her face into his chest, just below his neck. She listened for his heart, then did a few chest pumps, as if to resuscitate the man.
+
+The corpse turned beet-red. The whole audience burst into laughter, including Cooper. The atmosphere turned jovial, and the tension dissolved.
+
+“Ready?” Eppie lay herself bodily upon the corpse, like a weeping willow. “Pull me off him mid-line.”
+
+“Got it.” Joshua shook himself out, using Lion Face to relax his jaws. “I am ready.”
+
+Eppie placed her head on Derek’s chest.
+
+Tyker’s digicam blinked red.
+
+[All the World’s a Stage] activated.

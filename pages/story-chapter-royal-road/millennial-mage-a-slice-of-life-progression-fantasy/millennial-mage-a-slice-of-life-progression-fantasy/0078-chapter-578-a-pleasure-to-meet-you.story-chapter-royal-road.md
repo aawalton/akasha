@@ -1,0 +1,307 @@
+---
+id: ae7ff4ae-288e-57c3-9050-096546fca3a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 578 - A Pleasure to Meet You"
+slug: 0078-chapter-578-a-pleasure-to-meet-you
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 78
+ownLength: 3372
+unit: words
+ownProgress: 3372
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2371118/chapter-578-a-pleasure-to-meet-you"
+royalRoadId: "2371118"
+markedReadAt: "2026-06-29T19:37:47.552Z"
+---
+
+Tala and Rane hesitated only a moment before moving over and sitting near the automaton, both nodding. Rane immediately answered the girl’s question. “Yes. We are your parents.”
+
+Tala was at a bit of a loss as to what to say. She’d known they needed to get here as quickly as possible. She’d felt like she had a clear path and direction that she needed to take… But facing the sitting being? She was at a loss.
+
+She’d had years as an older sister interacting and helping to raise her siblings, and she leaned heavily on that experience—she’d even helped to watch the children of family acquaintances and friends on occasion—but mainly, she had her sibling’s mother’s actions, attitude, and mannerisms roiling through her head as she tried to figure out just how she should act in this unprecedented situation.
+
+It didn’t help that the person before her didn’t look like a child, despite Tala’s own heart and soul seeming to reach out and yearn for connection with her.
+
+The body was fully formed, especially when compared to Tala’s memories of Io’s under-developed form when they had fought. More than ten extra years in the growth-tank designed for her had clearly allowed everything to mature and settle into place.
+
+Unlike Io—the automaton that Tala had killed to take this body—the girl had spoken with her lungs, throat, and mouth. Io had simply used sound magic, and while Tala could still see the magics for those workings, her daughter had used her body to communicate in a more mundane fashion.
+
+Tala had been monitoring the process of the automaton’s maturation throughout, so she thought that she should be familiar with the physical form.
+
+There had been some rather drastic alterations, however. True, the only entirely new thing was the odd conglomeration of material that made up the back of her head.
+
+She remembered that Io had kept her vestige power source there along with the various control and decision making scripts meant to contain that trapped soul and provide power and direction as needed to the body.
+
+All of that was gone, of course, but in its place, Tala felt a mostly mundane, human soul. It was gated, as Tala honestly expected, and something about it felt… heavier? More solid? It was hard to describe, but it seemed to echo her own in aspects that she hadn’t really taken note of before.
+
+In addition, the soul was a bit… squished wasn’t the right word, but ‘differently formed’ seemed to fit. One large difference was its presence in a head rather than a chest, and another was that Tala could actively see the mental processes of the body taking place in tandem with—if not within—the soul.
+
+More like Alat than like me in that regard.
+
+Beyond the entirely new portion of her head, her body had shrunk. Io had been about Tala’s size, but as the body developed, it had grown until it should have towered over Tala, where now, the body seemed to be barely taller.
+
+Alat?
+
+The alternate interface clearly understood the question. -It happened when the soul came. Magics all over the body seemed to pull inward, compacting and strengthening the body. I think that this would have happened whenever a power source was supplied, but the exact way it happened seems to be connected to the consciousness in command, in this case, the soul.-
+
+That’s… huh. So, Tala’s very soul caused her daughter to be short? She didn’t honestly know how to feel about that.
+
+As to changes that were less substantive? Well, her eyes that matched Tala’s own were a large one, and the facial features of the automaton were quite a bit different than those that Io had shown. To be honest, the feminine face looked like a subtle combination of Rane and Tala’s features.
+
+The body as a whole looked incredibly human; the only exception being the back of the head. The white steel, which was the skin of the physical form, was even mostly matte, so while she did have a bit of the ‘perfectly sculpted’ look, she didn’t look polished in the sense of being reflective or seeming fake.
+
+Because of the nature of the material—and the body’s design—there were no seams to be seen anywhere, not even to Tala’s threefold sight.
+
+-She asked what we looked like early on, as the body is seemingly designed to allow the growing consciousness to alter its appearance as needed. She wanted to know what to do with the inputs.-
+
+How did she end up like this, then? She shrunk after that?
+
+-No… Well, yes. The body compacted upon her arrival, but grew a bit shorter after she asked how she should look. We tried to explain that children often look like a combination of their parents.-
+
+That’s a bit over simplified…
+
+-Did you want me to take more time before getting you?-
+
+…No. That’s fair.
+
+The automaton seemed surprised as Tala and Rane sat down on either side of her, though not upset. She looked back and forth. “You are not scared? Your kind hates my kind.”
+
+Tala didn’t know what to say to that, so she was unendingly grateful to Rane when he shook his head and smiled. “No. Not your kind. You are—and have—a human soul. You aren’t simply using one as a power source like many automata do. That is a rather large difference.”
+
+She seemed to consider before nodding slowly in return.
+
+Tala, though, sent a glare toward Alat. You already told her that humans hate those who look like her? Really? She’s only hours old.
+
+-First of all, I was in panic mode.-
+
+That’s… fair.
+
+-Secondly, I did not say hate, I said that there are difficulties between those who look like her and those who don’t.-
+
+That doesn’t seem like much of a distinction.
+
+-Well, I wanted her to be prepared, alright? I was trying to tell her why there wasn’t anyone around, and why she was in this cave to begin with.-
+
+So, you taught her everything else that will be needed?
+
+-...I may have gotten my priorities mixed up.- Tala got the distinct impression of Alat shamefacedly kicking at the floor, refusing to meet Tala’s gaze.
+
+Finally, the subject of their internal discussion responded, pulling Tala’s focus back outward. “Hmmm… Others will like me, then? Because I am me?”
+
+Rane sighed. “We’ll have to work through it. Those who matter should be able to see past your exterior, to who you truly are, and we will be here to sort out any confusion.”
+
+He was taking this rather well. Honestly, he was taking it like Rane always took unexpected things. Aside from when he put his own foot in his mouth, he was very careful and considered. Tala shouldn’t be surprised that he was taking this in stride.
+
+She shifted closer, and the automaton seemed to respond to her proximity, leaning over and placing her head on Tala’s shoulder. It felt oddly real.
+
+Tala had a flash of Illie doing the same so, so many years ago, and had to fight down tears. I’ll deal with you soon, grief. Right now, I need to focus on this little girl.
+
+She used the humor of the situation to struggle free from her grief, before the memory could pull her down. As to why it was funny? Well, the automaton was a bit taller than her, even when both were sitting.
+
+With Rane as the father, I knew any children I had would likely outgrow me, but this is a bit more rapid than I’d thought would be possible.
+
+-Indeed.- Alat chuckled internally, clearly trying to help Tala stay focused on the current primary concern.
+
+As she considered it, Tala realized that she didn’t like how she was internally framing the being leaning against her. She shouldn’t think of the soul that was unarguably her daughter as she had been. “Do you have a name?”
+
+Her head pulled back, a confused expression washing over her features. “No… why?”
+
+“Well,”—Tala considered—“we use names to address one another, and so that it is known who we are speaking to or about.”
+
+The girl’s face made her confusion obvious, and Tala had a moment of fascinated wonder at just how impressive the manufactured body was. Still, her answer kept Tala on task. “We can talk with the Archive?”
+
+“We could… I suppose? Though, that wouldn’t fix the ‘about’ utility of a name. Do you have a connection to the Archive?”
+
+“Ummm… yes.” She nodded firmly. “I feel it…” Then, her face shifted, showing some uncertainty. “I feel it, somewhere. I cannot use it.”
+
+-We gave her a dump of linguistics and definitions. I think she’s progressing quite well.-
+
+The girl pointed at Tala. “That! I see you are talking to you. I feel the… talk… the connection. Can we use that?”
+
+Tala blinked a few times. “I will absolutely want to talk with you about that, as it seems like you are perceiving reality threads, but first, we really do need a name for you. You’ll just need to trust me for now. It will help to quantify and think about each other.”
+
+“I am… Daughter?” It was asked with an oddly small voice.
+
+Tala felt like she should feel some hesitancy, some trepidation, but in truth, she didn’t. She could see this little girl’s soul, and no matter her body, she was Tala and Rane’s daughter as surely as if Tala had carried her and birthed her. “Yes, we can and will call you that, but how then would we introduce you to others? Do you want them simply calling you ‘Tala’s daughter’ or ‘Rane’s daughter’?”
+
+“Yes?” She clearly had a bit of confusion still around the whole idea.
+
+Tala shook her head, smiling. “That could work, but humans tend to shorten things, especially terms of address. Soon, you’d just be called Tala, or Rane even.”
+
+“No.” That elicited a titter from the girl. “Those are your names, not my name.”
+
+Tala smiled. “Really? Then what is yours?”
+
+The red eyes—so like Tala’s while being so different at the same time—widened. “Oh, yes! I need a name.”
+
+Tala briefly had ‘Illie’ flash through her mind, but pushed that idea away immediately. It was still too raw, too soon. Even the very idea caused a shudder through her body. This girl was not a replacement for Illie. She was not a patch for Tala’s grief. They were separate, and needed to be handled as such.
+
+Rane smiled, moving the discussion forward as he noticed Tala’s momentary disquiet. “It sounds like you don’t have one already. Do you have one that you would like?”
+
+The girl’s eyes unfocused slightly. “Mother Alat? What are names? Because I need one.”
+
+-Here you go, dear.-
+
+Tala somehow felt Alat and Enar giving the girl what she asked for. After an instant of consideration, she realized that the two alternate interfaces had likely purposely conveyed that feeling to their physical selves as well as they attempted to keep the communication open and easy to follow.
+
+“Oh… There are so many…” She looked a bit overwhelmed, clearly processing things slower than Enar or Alat could, despite her obviously prodigious capacities.
+
+Tala stepped in. “We could do something simple. What about Rana? Tara? Alna or Alleen?”
+
+The girl was nodding along. “Oh, I understand. Mix my parents’ names up.” She gave a light frown. “I have four parents. That is not often.” After another moment, so continued. “Rate? Or… Tear?”
+
+Rane smiled and interjected. “What about Terra?”
+
+Tala chuckled. “Slipping two ‘r’s in I see?”
+
+He shrugged. “Entirely a coincidence, I assure you.”
+
+“Sadly, it is very close to Terry. I think that would just cause you confusion.” Tala turned back to the girl. “You have an uncle named Terry."
+
+“Oh, then that is his name, not mine.” She seemed a bit disappointed.
+
+After a bit more consideration, Tala put forward an idea, “What about Lea?”
+
+“I… I like that. I like it. Do you?” Lea said tentatively, eyes fixed on her father.
+
+Rane shifted a bit closer. “Yes, I do.” He smiled. “Well then, Lea Sappherrous, it is a pleasure to meet you.”
+
+Lea tilted her head. “Sappherrous?”
+
+Tala nodded. “It is our last name, chosen and adopted for our family.”
+
+Lea’s voice was small once more. “Me, too?”
+
+Rane put an arm around her sturdy frame. “That includes you.”
+
+Lea shifted a bit to lean against him. “Thank you.”
+
+They sat like this for a while before Tala felt the need to ask. “So, I must admit that I am uncertain, do you eat? This is all a bit… new.”
+
+Lea nodded. “I can eat and what I eat is used. I do not know how or why. I have just sat and thought, so maybe eating would be good for when I do other things?”
+
+Tala stood to her feet, holding out a hand to each Rane and Lea. “Let’s go get some food.”
+
+-We have… a lot of communications about Lea from Mistress Ingrit and others. What should I tell them?-
+
+That we are about to have breakfast, and if they would like to come by afterward, they should schedule an appointment.
+
+-Will do. I’ll assure them that Lea will stay within the sanctum until we’ve had a chance to have her thoroughly checked out.-
+
+Tala frowned, a bit miffed, even if she did understand the reasoning, but Alat continued.
+
+-Enar and I did our best on the soul-housing, but I am certain that it is only both continuing to work and holding up at all because we are within the sanctum and maintaining it by dint of our will for it to be maintained.-
+
+She grunted at that, timed fairly well with the two pulling on her hands and standing up. I hadn’t considered that. Fair. It’s a good assurance to them as well, without actually being a concession from us.
+
+-That was my thought, yes. I’ll handle the messages and arrangements.-
+
+Thank you, Alat.
+
+-You’re welcome.-
+
+And Alat?
+
+-Yes, Tala?-
+
+Tala decided to try to tease her alternate interface as means of trying to restrengthen their connection. Please let me know sooner the next time that we have a baby.
+
+-I’ll do my best to remember that.- Alat sent the sense of a glowing—not quite gloating—smile.
+
+What?
+
+-You said the next time. There was no if.-
+
+Tala mentally froze, even as she and Rane were still moving with Lea up the long tunnel sloped toward the surface.
+
+After a long moment, Tala found herself nodding slowly.
+
+You’re right. I did. I suppose… I suppose I see it as a given, now.
+
+-You haven’t before.-
+
+Once again, she hesitated. You’re right. I know you are, but this? Lea? She makes it obvious that it is possible, even if this was a… less than standard means.
+
+-I can see that.-
+
+Tala turned her focus outward as they neared the end of the tunnel. Tala and Rane had tacitly decided to take the long way, walking with Lea to their home in the sanctum rather than just willing the three of them to move there directly.
+
+Rane likely had a whole bevy of reasons, but Tala’s were somewhat simple.
+
+First, Lea had never seen anything besides the underground research cave, and Tala wanted to show the girl the beauty of nature, even if it was the cultivated nature of the sanctum.
+
+Second, Mistress Petra was still finishing up getting breakfast ready, her time extended when Alat and Tala asked her to set out food for a guest who might eat as much as Tala.
+
+The woman needed another ten minutes or so to be ready—even though she was pulling from her stocked back-up dishes, held perfectly ready by the sanctum’s magics—and then she needed to have fully departed.
+
+Tala could craft an illusion around Lea, making her seem a normal, young, human woman, but Tala didn’t like that idea. Lea would have to be disguised much of her life—whatever that actually meant—and so there was no reason to start that earlier than necessary.
+
+Therefore, they needed her to not be seen by Mistress Petra, not yet. There was just too much that they needed to figure out first.
+
+Lea walked with ease, her magics rippling to activate the artifact-style constructs that made up the whole of her body in precise ways. It had only taken her a stride or two to accustomize herself to the body and how it moved, and she now walked as naturally as Tala or Rane.
+
+Wait, are these her first steps? Tala had a momentary thrill at the thought, only to be brought back to reality a moment later.
+
+-Not quite her first steps. I can show you memory of those later.-
+
+Oh… Okay. That would be nice.
+
+Lea’s white steel exterior moved and flexed as if it were simple skin, though Tala knew it was anything but.
+
+If anything, it was essentially like Tala’s armor, which moved with her every thought, enhancing rather than hampering.
+
+Sure enough, when Tala focused, she could see a subtle aura of Lea’s influence over her own body.
+
+It was an obvious magic-binding between her soul and her body. Exactly like gated-humans always have.
+
+The girl was human in the ways that counted—at the level of her soul—and the fact that her biological functions were replaced by magical functions shouldn’t matter.
+
+If anything, that makes her more like me, as I’ve quite overwrought my own body, bending it more toward magic than merely biology.
+
+Finally, they reached the top of the long incline, and Lea sucked in a startled breath.
+
+Tala frowned for a moment as all they could see was a bush positioned to block easy line-of-sight to the tunnel downward.
+
+“It’s beautiful… so green and… alive.”
+
+Rane put his arm around their daughter. “It is, yeah.”
+
+Tala smiled. “Come on, around the bush, and take in the real view.”
+
+Lea looked to Tala, eyes widening. “This is only a bush? I thought… Wait, there is more to see?”
+
+Instead of responding, Rane and Tala led her around the bush and out to the path proper, exposing her to a small—if still stunning—vista.
+
+“Oh!” Her gasp of delight was heart wrenching, and Tala found her own smile stretching into a huge grin.
+
+They could see out over some rolling hills and to the trees of the forest beyond. It was nice enough, but it was among the least of the views available within the sanctum. That was why no benches—nor any true means of stopping to enjoy the landscape—had been placed at this point.
+
+Even so, it was clear that the sight was new and exciting to Lea, and that caused Tala’s heart to warm. If Rane’s broad smile was any indication—and the feel of his soul through their bond said it was—he was feeling much the same way.
+
+She spoke softly. “Do you like it, Lea?”
+
+“I do, mother. I really do.” Tala gave the girl a side-hug squeeze, surprised at how soft the white steel seemed under her hands. It was warm too, likely due to the magics and motion, but the results combined to make the girl feel incredibly real, incredibly human.
+
+When Tala pulled back, she met the red eyes, a thought coming to her. “The white steel is your skin, isn’t it? You feel with it?”
+
+“Yes.” Lea nodded easily.
+
+“Then, you’re effectively naked at the moment.”
+
+She frowned, then nodded. “Yes?”
+
+Rane blinked a few times, clearly not having considered that.
+
+Tala placed a hand on her shoulder, then. “Here, let me.”
+
+Her elk leathers grew over the girl, clothing her similarly to what Tala, herself, wore. After a moment, Tala broke the connection to the clothing, and it became simply mundane material.
+
+“There you go.”
+
+Lea moved and shifted, looking down at herself, then up at Tala. “This is pretty, mother. Thank you.”
+
+“Of course. I am happy to help with something so simple.”
+
+“It’s pretty, thank you.” Lea’s open and honest face left absolutely no doubt that she meant it.
+
+“You are most welcome, Lea.” Tala gave her another squeeze. “Now, come. Let’s go get you some food.”

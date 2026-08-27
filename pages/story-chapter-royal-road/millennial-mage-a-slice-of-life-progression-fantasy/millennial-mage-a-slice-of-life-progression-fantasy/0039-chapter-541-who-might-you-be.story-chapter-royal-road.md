@@ -1,0 +1,309 @@
+---
+id: f9c825d8-2317-5176-ae4c-7cbc596ebb02
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 541 - Who Might You Be?"
+slug: 0039-chapter-541-who-might-you-be
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 39
+ownLength: 3358
+unit: words
+ownProgress: 3358
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2136462/chapter-541-who-might-you-be"
+royalRoadId: "2136462"
+markedReadAt: "2026-06-29T19:36:32.892Z"
+---
+
+Tala found herself rather enjoying the campfire that the unit had made outside the cell’s antechamber. Several hefty sections of wood had been skillfully arranged into a hot, long-burning fire.
+
+It occasionally crackled and popped, but Tala saw that more as a feature to be enjoyed than as something to be avoided. Additionally, with her enhancements, when the smoke came her way, she felt no need to move aside.
+
+The fire wasn’t needed, of course. Everyone present was at least Refined, it was still just late afternoon, and it was summer. Regardless, it was enjoyable.
+
+There was a quality to the heat from fire that was just nicer than many other heat sources.
+
+It was dry and clean.
+
+Perfect.
+
+But the enjoyment of the fire was ancillary to her purpose, there in the wilderness with a bunch of strangers. She was along on this little excursion to close a cell for a Defender unit.
+
+This unit was sharing food, joking, and chatting, among other things. They’d offered Tala some food, but she’d declined.
+
+As to conversation, initially on the expedited trek through the wilds, they’d engaged Tala occasionally, but while she’d answered without hesitation or difficulty, she hadn’t gone out of her way to extend the conversations, causing them to fall off in frequency until they essentially ended.
+
+At the moment, some of the unit were reading, a few were eating, and one even seemed to be napping. Two of them were taking the time to spar, off to one side. Though, they were doing so without active enhancement or spellwork.
+
+The two sparring were a halberd user and a woman with a curved sword and buckler. Both were fast, and the clashes would likely have been all but impossible to follow for a mundane, but they seemed a bit slow to Tala’s eyes.
+
+-Critic.-
+
+Of course. They’d both fall to even a halfway competent Eskau.
+
+-Well, to be fair, they aren’t actually showing their full capacities. They are going slow to not harm one another, and not using their inscriptions.-
+
+I suppose that’s true.
+
+The two went back and forth, the buckler giving a defensive advantage that was countered by the reach advantage of the halberd.
+
+She almost inserted herself in, either challenging both or offering to provide correction and teaching, but she couldn’t figure out a way to do so without coming off as an arrogant know-it-all.
+
+-Ahh, social incompetence. It’s been a while since that’s mattered.-
+
+Yeah… These people are almost peers, so there’s not much awe, but they aren’t actually peers, so there isn’t the sense of unity.
+
+-I don’t think any of these were at the party when you became a Defender either. So, they aren’t aware of how fast you’ve risen. That would put proper awe in them.-
+
+No, I don’t think so either, not that such is actually my goal… Regardless, they’re a newer unit, or at least one more newly arrived to Alefast. I don’t think I even saw them before we left the city for our honeymoon.
+
+-So really new?-
+
+Or just operating in different circles, yeah.
+
+Regardless, this group handled things very differently than Mistress Cerna and Master Clevnis had.
+
+First of all, no one went into the antechamber but Tala… Well, Tala didn’t either as she could see it just fine from out near the fire.
+
+They’d opened the initial door, and then set up camp out here on the superficial.
+
+Tala had gotten some odd looks when she didn’t go in either, but they assumed she knew what she was doing and didn’t actually question her.
+
+Huh, I wonder how many of the Paragons who came with us were just winging it?
+
+-That’s a bit of a terrifying thought. I think we always had in the back of our mind that they were there to keep everything from falling into disaster if needed. As it turns out, they might have been just as flawed and uncertain as we were… are.-
+
+I don’t think that notion—if known—would be very popular… lar?
+
+-Rhymes aren’t required.-
+
+But they are fun, and it was so close to one.
+
+-Fine… but stay on task, Tala, or at the very least let me stay on task.-
+
+Fine…
+
+She had moved a bloodstar cloud in to make sure she didn’t miss anything due to perspective, but Alat was handling most of that, with Tala simply supporting the low-level effort of will required to extend her aura and authority into the expanded space.
+
+It helped having Kit stoneward of the whole thing… well, sort of. Cells and their antechambers extended into the void rather than simply hanging stoneward, but Kit was stoneward of the entrance, adding weight to Tala and Alat’s authority and power within.
+
+Terry was splayed out beside her, having been excited at the prospect of wandering out into the Wilds once more. He’d barely been around at the beginning, as he went about to hunt and range through the hill country, but as the day had progressed, he’d stuck with her more and more.
+
+The unit of Defenders had given him odd looks at first, but by this point, he was mainly ignored.
+
+Barbarians.
+
+-I know, right? Not even offering him jerky.-
+
+They’d be dead already if this were the old Terry.
+
+-We are such a good influence on him.-
+
+I know, right?
+
+They had already documented the entire antechamber, including the treasure, and sent the information to Master Grediv and the other overseers of this process. Though, Alat was diligently continuing to examine the area for further clues.
+
+Regardless, Tala had a pretty good idea of what was inside.
+
+It seemed to be a being that could make copies of itself—all tied to and dependent on a single soul—and any damage or effect enacted on any one of the clones, could be sent back as an attack upon the one who enacted it.
+
+The various pictograms seemed to imply that not only could the being within delay that ‘return’ of effects, it could use any of them on others instead of the original ‘actor.’
+
+This also seemed a bit like the cell that made unlimited copies which adapted to every death, though this one was more reactive, and less flexible? It didn’t seem like they could actually change to mitigate damage, more they could throw that damage back. So, while they seemed a bit similar, Tala could also see just how different they truly were.
+
+This prisoner was ungated and either a humanoid magical creature or an arcane… or had copied the form of one long ago.
+
+The base concept was incredibly obvious: Perfect replication.
+
+Well, it probably has some kitschy wording like: To copy is to honor the original.
+
+-Or a perfect copy is indistinguishable from the original.-
+
+Yeah… that sounds better.
+
+-I know.-
+
+It’s also odd that there are warnings that simply obliterating everything within the cell—even self-sacrificially—wouldn’t work.
+
+-Yeah, it definitely feels like it should? But they seemingly tried something like that, and the Mage died without ending the prisoner. It seems like even they didn’t fully understand all that this prisoner could do.-
+
+Regardless, it seems like it’s a question of authority, though I can’t quite tell how? Tala groaned. I wish I could just handle the cell myself. I don’t feel like I can actually ensure the safety of this group.
+
+-I mean… we could? It’s important to note that we aren’t actually responsible for their safety, that’s on them, but we definitely could try to handle this ourself nonetheless. I’d want a true anchor within for you to work your magic from if needed, but I can handle the repair of the cell.- She laughed. -Honestly, Kit can do most of that work, but I need to monitor her and assist, or she’ll just eat the cell, and that wouldn’t be ideal.-
+
+Yeah, and we need to keep Kit’s magics from coming anywhere near this creature, as the ability to replicate such would be… unideal.
+
+-There is the danger that if they can use effects more than once even a single wrong action could doom everyone. That possibility was somewhat implied, but not very explicitly, and I feel like it would have been made very clear if that was the intention.-
+
+Agreed. In the worst case, it could have a bank of things it can do, yeah. Unless the ‘collection’ fades over time? It’s been millennia for them, so? Tala shrugged.
+
+-Yeah, that’s fair. So, as to the matter of an anchor within the cell?-
+
+Yeah… Terry? He’d have fun being a part of this, and through him we can deploy our field of iron spikes.
+
+-Oh! That would do it. That should allow me to better work on the repairs. This is my first time, and I expect it will take a bit longer because of that.-
+
+Tala nodded slowly, smiling to herself. Then, she hesitated briefly. So, are we really going to just handle the cell?
+
+-We can try, yeah. If it doesn’t work, we close it up and have this unit help us.-
+
+That swept away the last of Tala’s hesitation. That’s a good plan, yeah. Has Master Grediv gotten back to us?
+
+-He concurred with our assessment of the likely nature of the prisoner as well as a basic course of action—that our handling of it would technically fall within—but we are still awaiting final council approval to move forward and act on that information.-
+
+Understood. Start prepping. We’ll go as soon as we get that go-ahead.
+
+-Will do.-
+
+Tala reached out and scratched the back of Terry’s head and neck. “Up for some fun?”
+
+Terry opened an eye, regarding her for a long moment. Finally, he closed it again and let out an affirmative chirp.
+
+“Alright. I’ll let you know when.”
+
+He chirped again, and they settled in to wait.
+
+It was less than an hour before final confirmation came in.
+
+Tala took in a deep breath and stood to her feet, Terry flickering to her shoulder.
+
+The unit commander started to stand, but Tala waved him down. “I’m just going to go take a look inside to check some things. I shouldn’t be too long. Don’t mind the power fluctuations, if you feel any. I’ll let you know if you’re needed.”
+
+One of the Defenders muttered under their breath, surprisingly low enough that most Refined shouldn’t have heard it.
+
+Even so, Tala heard it with ease. “About rusting time she does her job.”
+
+She probably had looked like she wasn’t doing as she should, so she didn’t fault the guy. Thus, she chose not to respond or react at all, instead simply walking through the open doorway into the antechamber, Terry flickering after her.
+
+The fact that the unit hadn’t come in here made her less certain of their ability to handle the cell, hence another reason why she was willing to entertain handling it herself at all.
+
+The other core reason was that she should be able to temporarily close the cell again if she really had to.
+
+Regardless, it was time for her to see what she could do.
+
+First, she locked down the entire antechamber, driving iron spikes into the loose gravel of the enclosed dimensionality.
+
+Her aura radiated freely from each one of the spikes, powerful and rich, making the metal chunks seem more like minor amplifiers than simple extenders of her range.
+
+The baba yaga’s iron is having an effect, and we’ve barely even scratched the surface of what it can do.
+
+-Yeah, the changes to your iron self-model are crazy. This is just another facet of the change.-
+
+Terry flickered off of her shoulder, growing to the size of a small horse, crouched and ready.
+
+A single obsidian block rested in the middle of loose gravel which otherwise covered the slope, and as Tala reached out, it was from that block that the gate began to form.
+
+The obsidian liquified, becoming lava once more even as it flowed upward into the air, forming the outline of a doorway.
+
+As it did so, Tala was working with the magics, the knotted reality threads and nodes.
+
+Effectively, what a cell was could be likened to a scrunching together and grabbing from the center of a massive sheet, creating a pouch of sorts. Then, it would be twisted tightly and tied off, leaving a segregated, cut off section.
+
+But, while it could be likened to that, the analogy fell apart quickly if thought about too deeply.
+
+Instead of a sheet, it was more like a puddle on the ceiling with the ‘pouch’ contained by surface tension and the ‘twist and knot’ just being a frozen bit where the surface tensioned volume was still connected to the rest of the water for the moment. If the ice broke, the separate bit would fall and be free, ending up who knew where. If the ice melted, the separate bit would be drawn back up to reunite with the main section of water.
+
+-Huh… that… that actually makes sense?-
+
+I know. Sometimes my genius surprises even me.
+
+-I mean, it also makes no sense. How could there be a puddle on the ceiling?-
+
+Water clinging to a surface?
+
+-Hmmm… I guess?-
+
+Regardless, we’re sort of busy right now.
+
+-Right.-
+
+As the lava door frame grew up, the reality threads and nodes were unknotted, the connecting space unfrozen, and a hallway of pure dimensionality was established.
+
+-It’s a bit funny that the hallway isn’t strictly needed.-
+
+Yeah, technically, but it does provide a buffer in case of mistakes or small fluctuations.
+
+-True, and especially this first time, we want such buffers in gold.-
+
+Now, Tala could have immediately ‘reknotted’ the cell, sealing it off once more, and that would probably have held for at least another decade or so. But to truly fix the cell’s seal, she needed to clean out the stagnant dimensionality keeping the cell in place. She had to flush out the kinks in Reality itself so that the reality nodes and threads wouldn’t atrophy and pinch off, or spasm and pull the cell back to the superficial.
+
+At least that’s how she’d pictured the process when Master Grediv had taken her through what was needed.
+
+Regardless, it was almost time to try.
+
+The molten material threw light and heat onto the surrounding stones, creating a secondary source of illumination in the late afternoon, causing intricate, jagged double shadows of everything around Tala.
+
+Terry shifted from foot to foot, crouching ever lower as he was clearly excited to dive into the cell.
+
+Alat had already prepped him on what he would face, and while he was uncertain if he could land hits without taking them in turn, he was willing to try. He even had some ideas on how to potentially mitigate such a defensive skill.
+
+But they needed testing.
+
+He’d even suggested using void through aspect mirroring as a means of potentially negating or reducing the effect. But that was just one theory that they’d have to test out, if given the opportunity.
+
+But that would only be possible once the cell was actually opened. So, Tala reached out with her will—her authority—stretching her awareness along the threads and nodes perpendicular to the superficial and the stone- starward axis, out into the void.
+
+Huh, this feels like trying to find a severed eye in a bowl of peeled grapes… while blindfolded.
+
+-What the rust sort of analogy is that? Now I have to live with that mental landscape, you jerk. Can we maybe rein in our imagination just a bit?-
+
+I’m sorry? This feels… wrong in here, like my authority doesn’t belong, like no authority belongs here. The void isn’t a place that any part of … anything is meant to be. It’s supposed to be the place between things, not a place in which to exist. I can’t even wrap my extended will in voidmagic because I don’t want to damage the cell… if I can ever find it, and—Oh! There it is.
+
+She commanded the cell to move toward her, her body acting as an anchor as she drew forth the dimensionality of the prison. As she pulled it closer—while leaving it still suspended in the void—she realized that she could actually connect in several places, at least to this particular cell.
+
+Or maybe it’s because I have more experience or capacity because of Kit?
+
+-Either way. Where do we want to connect?-
+
+There was part of a town—or at least a collection of buildings—several cultivated fields, a forest that seemed to have been harvested and replanted in cycles in centuries past, and a large lake.
+
+She could open the hallway into any one of those locations. -Underwater!-
+
+Forget that… Even if I thought that was a good idea, it would be horrid for Terry and rather unkind as such. How about…? The forest.
+
+The empty door frame darkened, the hallway extending away from it before the other side appeared as a bright rectangle in the distance.
+
+Terry immediately flickered forth, knowing the procedures from having participated in quite a few cell missions previously.
+
+Alat cleared her metaphysical throat, taking over the threads of will and authority that Tala was working with.
+
+Tala then felt Kit drawing close from where she hung at all times, stoneward of their current position.
+
+Alat quickly exerted a bit of repulsive pressure to keep Kit at a respectful distance, even as Alat also began drawing portions of Reality close to the voidling, Kit exercising her own will and power to smooth and strengthen the dimensionality and connections of what she was presented with.
+
+It wasn’t fast by any means, but it did seem to be effective. It was also odd, because Kit didn’t really have a will with which to act. She was a part of Tala, bound and merged even closer than she and Terry were.
+
+So, in effect, Tala was simply using the part of herself that was Kit… and that part really, really wanted to eat the cell.
+
+But that was ancillary to the current matter.
+
+Apparently, every Paragon had the ability to do what Kit was doing in one way or another, but most had to perform the work as an act of pure will and authority.
+
+It was like how Tala could create a fire with her authority over a stick if she really had to, but it wouldn’t be easy, as sticks tended to not want to be anything other than a stick. Fire was great and all, but it was better to stick to what it already was.
+
+-That was a bad pun and you should feel bad.-
+
+Hush you. I thought you were focusing.
+
+-I’m trying, but bad puns are distracting.-
+
+Regardless, in this case, she was like a fire Mage. That rusting stick would burn whether or not it wanted to.
+
+There was a beat of silence after Terry flickered to the far end as he looked around the forest that surrounded him.
+
+-I still say that fire and sticks make a weird metaphor.-
+
+I didn’t ask.
+
+-Fine, fine. Well, I’m busy here. Go be of use with Terry.-
+
+Tala considered for a moment, then agreed, moving the cloud of bloodstars that had swept the antechamber after Terry, using the terror bird as the source of her aura in which to work.
+
+It essentially made Terry the focal point of her field of view, and she was fine with that.
+
+Still, as he began to advance into the cell—weaving among the trees—she drove iron spikes into the deep, soft soil of the forest floor to serve as another source for her aura and an amplification of the same.
+
+One is none, and now we have two, three, four… More and more iron spikes were placed as Tala fortified and extended the position that she and Terry would defend while Alat and Kit continued to work.
+
+This was either going to be incredibly anti-climactic or quite the fun little clash.
+
+That internal uncertainty was resolved sooner than she’d hoped as a stunningly symmetrical woman stepped out from behind a tree. “Well hello there, little birdy. Who might you be?”

@@ -1,0 +1,157 @@
+---
+id: 82631f2e-d6ea-5e42-bace-c9a4a1ba1da1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 Clothes and marks"
+slug: 0048-chapter-41-clothes-and-marks
+partOf: melody-of-mana
+position: 48
+ownLength: 2169
+unit: words
+ownProgress: 2169
+publishedAt: 2021-09-03
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/744501/chapter-41-clothes-and-marks"
+royalRoadId: "744501"
+markedReadAt: "2026-06-29T22:27:51.180Z"
+---
+
+The day before I took a bit of time to make some simple sugar cookies. A quick wrap in waxed linen made a pleasant little package, and they were easy to make, if a bit expensive. As a final touch I took a small ribbon and tied it up with a pretty bow. People around here didn't normally do things like that for presents, but it looked good to me.
+
+Dras came by early in the morning to pick me up. I had the day off and was bouncy with excitement as he came through the door looking like he was going for his least favorite chore. We met near the door and I took him by the hand.
+
+“Come on, let's go!” I drug him right back out and into the busy morning street.
+
+“So, where are we going? Do you have a favorite shop?”
+
+“There are a few good places. Let's go by some stores and see what they're displaying, and then we can make a decision.”
+
+“... That'll take hours.”
+
+“Yup yup, let's go!” I knew that he wasn't really enjoying this, but... Well I hoped if I stayed upbeat enough he'd start to like it.
+
+The first place we went by was somewhere I'd been to a few times. I looked at their current displays and was rather disappointed, there were a few nicely made pieces but they just weren't what I was looking for.
+
+This process repeated itself twice more before I found something that I rather liked.
+
+“Hey Dras, what do you think of this?” I looked back at my companion, who'd seemed completely disinterested up until now.
+
+“It's fine I guess.”
+
+“That's not an answer, look at it.” I pouted, trying to pull him over.
+
+“Alana, I don't really know anything about girl's clothes.”
+
+“Dras you wear robes. Which is similar enough in design to a dress. Now, at least make some comments on the cut and the matching of the fabrics.”
+
+“Fine, the grommets they used here don't look quite right with the color of the fabric.”
+
+“Yeah, you're right. Let's go to the next place.”
+
+Two more shops later and he was actually giving me good constructive information.
+
+“This fabric, with that cut would look better on you I think.” He pointed out two pieces on display, and I had to say I agreed.
+
+“You're right, let's get something here. Are you getting new clothes too?” I asked him as we approached the shopkeeper.
+
+“Huh?” He blinked at my words.
+
+“Your robes are getting a bit older, and kinda short. You should think about getting something fresh. Here, let's take a look.” With that I turned away from the salesman and pulled him over toward the men's displays.
+
+There were a number of different styles on display here, including some rather nice robes. There were a few different colors, and he seemed a bit off-put by my sudden change in subject.
+
+“Here, I think you should look at something like red or dark orange. It'll match your fire theme better, or do you want something else?”
+
+“Hmm, I don't know...”
+
+“Personally I think you'd look best in a dark red or something similar. Definitely darker warmer colors to go with your look though.”
+
+“Warmer?” He looked over a couple of the display pieces as he spoke, seeming to judge how each was cut.
+
+“Yeah, reds, oranges, yellows, and browns. As opposed to blues and greens.”
+
+“I didn't know those had words...”
+
+“Many things have words Dras. Now, what do you think?”
+
+“I think another set of good robes would be nice. Some of these are a bit pricey though.”
+
+“Yeah, don't go too expensive, you're still growing. Something you don't mind getting a bit dirty and can work in would be good though, for day to day wear.”
+
+It was cute how much more animated he could be when talking about something he would use. It occurred to me that I should have had him looking at things for himself the whole time, but what was past was past. After comparing a few more things and me steering him more towards something that would be less formal we made our orders and he paid. The clothes themselves would take some time to make, but that was normal. Not everyone could just push out three brand new outfits in an evening. I was still wondering how exactly that had been done.
+
+The shopkeeper looked at us like we were the most adorable couple he'd ever seen. His young assistant had to put her hand over her mouth to hide her smile a few times as we were measured. I don't know if Dras even noticed but I found it personally quite annoying.
+
+Dras was elated when I gave him the little package of cookies upon our return. His mood had been going steadily up from its low point earlier in the day. He thanked me as he turned to head home, it was getting a bit late.
+
+A couple of weeks later we picked up our new outfits and as I returned to The Sky Lucien pulled me aside.
+
+“Hey Alana, I've been called away for the next few days. The notice is a bit short and I haven't had time to work out some of my more regular appointments. Could you handle those for me?”
+
+“Is it any different from what I normally do?”
+
+“Yes, I don't believe you've dealt with Lovers' Marks before have you?”
+
+I could easily tell that was a proper noun, but not exactly what it did. “Erm, no, I don't think so.”
+
+“Yeah... normally it's adults who take care of those, but, short notice and all. It's easy enough, I'll show you.”
+
+With that he motioned over one of our regulars, one of the girls who worked at a nearby brothel, by the name of Inga. We all then went upstairs.
+
+“Thanks for assisting me Inga, it's a big help.”
+
+“Oh, no thanks needed, four weeks for free is payment enough.” She gave him a soft chuckle as we entered one of the back rooms that I knew Lucien used on a regular basis.
+
+“Regardless, if you would please Inga dear.”
+
+At his words she began to remove her skirt. There were a few moments when I worried what exactly I'd gotten myself into before she had it pulled down, exposing herself to us.
+
+“Um...”
+
+Lucien pulled my attention to a small tattoo on her abdomen, just above the pubic mound. It was quite familiar, but I couldn't quite place it.
+
+“This is a Lovers' Mark, they are made by the Order of the Lovers. It functions to keep someone from having children should they not desire to. There are variations for both men and women, though they are by far more used by women who desire not to get pregnant.”
+
+It clicked as I looked at the mark for a few more moments. I'd seen these twice before. One on Mystien's 'friend' and another time on my brothers... well, I didn't really want to know about my deceased brother's sex life, but I suppose he had one.
+
+“I... I think I've seen one of these once or twice, didn't know what it did though.”
+
+“Yes, it can store enough mana to operate for up to a year, though a month or two at a time is rather more common, since mana is a bit pricey. To charge it just place your hand or finger on and do exactly as you would with any other item, you're fairly experienced in that by now.”
+
+He demonstrated, pushing a bit in. I'd gotten quite a bit more used to the subtle color changes that some of these went through and that did seem to be about two weeks for a functioning item.
+
+“Now you try, roughly the same amount.”
+
+I worked slowly, not knowing how much mana this would need. Turns out not very much. Judging by what I had done before I was very sure that my mana capacity had increased dramatically in the last couple of years.
+
+“Thank you.” Inga smiled as I pulled away my finger. She bent a little to keep an eye on the mark, judging for herself how much mana had gone in.
+
+“Lucien, how many of these do you do?”
+
+“About twenty a day, it's one of our main sources of income here at The Sky. Though generally only older casters charge them. It is a bit... rude of me to push this on you, and if I had another option I would use it.”
+
+“That's a good few. The amount of mana shouldn't be an issue, but I won't be able to do as much of the other work as I normally do.”
+
+“That's fine Alana, most of that we can work around. If working girls don't get these charged regularly though, they can't work, and that's no good for anyone. I'll give you a little bit of a bonus for my having to push this onto you, and they're all prepaid, so that's taken care of. It'll be two weeks on each girl, that's our normal.”
+
+“Lucien... I know roughly how many brothels there are in town, and roughly how many girls at each. There's no way they can charge all of these that easily, it'd take at least a thirty of me to keep that up if I ran myself ragged. Only twenty a day? Where are all the others getting their mana from?”
+
+“Well my dear, mana is expensive. How do you think many of the poorer students at The Academy pay their tuition? The boys are also known to trade mana for... time with the ladies.”
+
+I tried, and failed to hide my disdain. “Does Dras...” I didn't quite get to finish that one.
+
+“Sixteen is the normal minimum age most women will let a man charge their Marks, even prostitutes. The fact that you're a girl means they're not so bothered.”
+
+That wasn't a no, but I suppose that Lucien might not have known. I wasn't sure if I even had any right to feel a bit... put off by the idea of Dras dealing with lots of naked women, but it still rankled a bit.
+
+“Okay, I'll take care of it then Lucien, leave it to me.”
+
+Inga had excused herself after getting redressed and seeing how the conversation was leaning towards more personal subjects. I was quite glad that she had done so, but I suppose that it was smart on her part, she surely didn't want to get involved if it could influence her getting what she needed to work. Not that either of us would have done anything that bad to her. Did she know that though?
+
+“Oh? Well if you need help I'm sure Dras will...” He didn't finish that comment when he saw my glare. I might be young, but I could still be awfully mean. “Just kidding, just kidding.”
+
+Lucien was gone for nearly a week. That was an enormous amount of time for him to not be at The Sky, he might be gone for a day or two every now and then, but an extended leave was new. He didn't tell me where he was going, and based on his actions I choose not to ask. He'd not pried too deeply into my private life, so it was only proper for me not to pry into his.
+
+There was an absolute line of girls daily while he was gone. I hadn't really noticed it before since most of them came by after I left my shift. There was some sort of rotating schedule and it had very little wiggle room in it. Of the girls I saw, most of them had only a day or two left in their Marks. It seemed that although they could hold an impressive amount of mana, actually doing that was really rare.
+
+The Marks themselves could be placed anywhere it seemed. Most people liked to place them somewhere they could easily see them. They were also invariably covered by clothing. Upon asking one of the madams in charge when she brought her girls by I was informed that displaying one, particularly if it was charged was seen as an invitation. While the girls might want to do that at work, while trying to attract customers, doing so while walking down the street was bad taste. It also was thought to lead to assaults, an even bigger reason to keep them covered.
+
+By the time Lucien had returned I had made the decision that I wanted one of these. The pure importance of having birth control and chance that I might end up somewhere where I couldn't get one in the future made me bump it up to rather high on my priority list. I just had to consider where to get it. Though if The Order of the Lovers would even give me one was still a question too.

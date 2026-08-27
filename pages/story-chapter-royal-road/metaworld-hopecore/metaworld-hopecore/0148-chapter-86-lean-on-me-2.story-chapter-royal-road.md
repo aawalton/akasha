@@ -1,0 +1,241 @@
+---
+id: 296d1c67-3b18-5bb1-9f62-51e496d2879a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 86 — Lean on Me (2) "
+slug: 0148-chapter-86-lean-on-me-2
+partOf: metaworld-hopecore
+position: 148
+ownLength: 2797
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3771923/chapter-86-lean-on-me-2"
+royalRoadId: "3771923"
+---
+
+Saturday. With Valorie gone to Reedley, Eppie took a taxi down to Broadway-Manchester with a bag of things she pretended weren't gifts to shore up confidence in one of their more vulnerable companions.
+
+She knew it was manipulative. She knew it wasn’t done out of the goodness of her heart.
+
+But she didn’t want any surprises in the four-week lead-up to D-day, and she also wanted to give away some stuff to Simone’s sisters.
+
+Denise Goode answered the door, pulling Eppie inside before the security barrier had finished swinging. The mother of three’s eye bags had subsided substantially, which made Eppie a little less guilty, welcoming Eppie with the Goode news.
+
+“We’re moving in June!” Denise was giddy. “I can’t believe it’s finally happening, and it’s all thanks to Simone having friends like you and Valorie.”
+
+The family, Denise explained, before Eppie could even sit, had found a place in Carson. Two bedrooms and a yard the size of a postage stamp, but a yard was a yard, in a building with an elevator that actually worked, and they could move as soon as next month if the paperwork behaved itself. Denise said all of this in one breath, like the tale had been caught in her throat since Eppie had called the day before—then hugged Eppie, kissed the girls, hugged Eppie again, then apologised profusely before going to her shift at the diner, leaving Renée as Eppie’s replacement host.
+
+Disrupted from her studies, Renée looked as serious as ever, but the young scholar regained her childhood when Eppie indicated that she had brought two whole bags of America’s favourite snacks.
+
+Cora dragged Eppie onto the living room carpet by the hand. She produced, with the solemnity of a museum curator, the entire photo envelope from the Disneyland trip—Mickey ears, churros, Cora mid-scream on Slinky Dog, Simone laughing with her whole face. Cora narrated every photo in exhaustive detail, whether or not narration was strictly necessary, making Eppie wonder if she should introduce Cora to the niche market of making Disneyland Guides on YouTube.
+
+With Cora cradled between her arms, Eppie watched her [Causality] pop a dozen times until Renée accidentally revealed, winking, that she had stacks of college brochures and would like to know how much these cost… really cost.
+
+It was just as well that Eppie was somewhat of an expert—an expert blessed with [Memorisation].
+
+“Alright,” Eppie hugged Cora in with both arms while delivering the truth. “First thing… that number on the front? That’s the sticker price; no one seriously pays it.”
+
+Renée's face did something complicated; her eyes grew wet.
+
+“Hold up…” Eppie realised Renée had the wrong idea entirely. The girl must have thought she meant that college cost MORE, not less. “So… your grades should be fine for UC, or CSU, right? UC’s about seven grand, CSU’s about three?”
+
+Holy hell, the mid-2000s were cheap… Eppie winced at the post covid pricing of her old world, and metaphorically wept.
+
+“If yes, then that’s a scam. For someone in your position, you should fill out this thing called the FAFSA—Google it—it's just paperwork, and that’s your cheat sheet. Once you have it, you can apply for a Pell Grant; that’s four grand a year. Then, apply for a Cal Grant, and if you qualify, it covers your entire tuition. Not a loan. A grant. The whole bill, gone!”
+
+Renée stared. Too fearful to hope. “T-the whole bill?”
+
+“The whole four years,” Eppie nodded with confidence. “CSU and UC both have support for Educational Opportunity Programs. You get private advisors, priority registration, academic support, and there’s even an additional grant on top of your existing grant.”
+
+Renée’s lips trembled. Oh… poor baby… Eppie opened her arms, and the girl settled into the nook with her face already a mess of tears.
+
+The cruelty of kindness here was its own tragedy. Renée knew that Simone would be supporting the family soon, but she was far too mature to burden her sister AND her mother with something like tuition. In a house like Lana’s, the one hundred and one ways of getting into the right college had been discussed to death at dinner like yesterday’s news. For a family like Renée’s? It must sound like a barrister giving legal counsel from the bench.
+
+She wondered if she should also tell Renée about TAG agreements, but decided against it. From what she knew of the girl—Renée's academic ability ran in inverse proportion to her family's ability to pay for it.
+
+“There… there…” Eppie patted the girl’s head like she was petting a cat, because she had not been built for compassion. “You’ll love college. I promise.”
+
+Something evidently broke, and Renée just started bawling, and Cora, for reasons Eppie could not discern, spontaneously decided that emotional resonance was her new superpower.
+
+Simone better not come home now… Eppie prayed as she cradled one girl in her left arm and the other in the nook of her right.
+
+Thankfully, or perhaps depressingly, in Broadway-Manchester, life was too harsh to entertain sitcom-tier misunderstandings.
+
+Sunday night, Eppie ate Josefina’s homemade meals for dinner while listening to the tenth lecture her dorm mother was giving on the dangers of young blonde women lost in the glitz and glamour of Hollywood.
+
+Eppie wanted to explain that, no, I wasn’t in danger—I was at a seedy club, served Mao-tai alongside underage students, by folk who could probably play the right parts in a Triad flick, but decided against gracing Josefina with the facts.
+
+Ava turned up at the dorm mid-evening, looking like she had gone through boot camp, appearing unannounced at the door after three weeks of absence. She looked like she should be crying—or worse—but was too exhausted to spare what remained of her emotional battery.
+
+“Did something happen?” Eppie asked, but could guess the answer. “How was New York?”
+
+“New York… is not happening,” Ava slumped into her chair.
+
+Meaning Guilliams, this world’s version of Juilliard, was most definitely not happening. Instead, she would be going to Dartmouth, like her father before her, and her father’s father before that.
+
+Eppie made a few sympathetic noises, then ran out of sympathy.
+
+Dartmouth was… for Lana, a school in the bonnies, for folk with the blood, but not the brains to make it in the bigger Ivies. When she conducted the yearly intern Hunger Games, anyone and everyone with a degree from Tucks went straight from inbox to the shredder.
+
+“Oh god… now I have to do Med, or Business, or… yuck… Finance, like my dad.”
+
+“Ay, pobrecita,” Josefina did her best, most comforting impression of dorm motherhood.
+
+Eppie’s lips pulled in opposite directions, fighting the urge to say something sarcastic.
+
+She thought of Denise's two jobs, Simone choosing work over college, and Renée having a mental breakdown because she couldn’t afford chump’s change for her tuition. She thought of Cora's careful, reverent handling of a stack of theme-park photographs like they were heirlooms—and found herself wondering what the fuck was wrong with people.
+
+Ava’s eyes begged Eppie to share her grief, but Eppie couldn’t give it. How could a girl whose worst-case scenario was a life of drudgery making good money via an Ivy League diploma paid in full by a father who wasn’t in prison, and who cared a little too much, be tragic?
+
+Was there a point in comforting Ava?
+
+Certainly, the [System] didn’t think so, and neither did her [Script Analysis] of the situation.
+
+DING—! Her phone buzzed. It was a text from Maddie.
+
+“Excuse me, I am expecting an important text.” She took the opportunity to escape.
+
+In her room, on her iMac, Eppie read the first few lines of the text, then immediately checked her email.
+
+From: [email protected]  To: [email protected]  Cc: [email protected]  Date: Sunday, 13 April 2008, 9:38 PM  Subject: 🚨 "BETTER" IS UNOFFICIALLY LIVE (Sorry in advance 😬)
+
+Hi Eppie,
+
+Okay, big news first because you deserve it before the chaos: the "Better" license went out last Friday. Clean, Chief Fielding-approved, every box checked. Schools, choirs, non-profits, student productions—free and clear, while you’re alive, and for seventy years after 🎉
+
+Now the chaos. 😔 Deep breath.😬
+
+WHAT HAPPENED 🚨🚨🚨🚨Somebody already jumped the gun. There's a recording floating around of you and Valorie doing the song together back in March—up on some non-monetised channel; the username means nothing to me, and views are climbing FAST. 🚀
+
+I mean, why wouldn’t it? It’s in 720p, and you and Val were 🌋🌋
+
+WHAT IT MEANSHere's the annoying part: it's fine. No ads on the video, no profit anywhere in sight, which technically means it doesn't even violate the new waiver. It just… exists now, in the world, without either of you agreeing to it first. Legal wants to know your thoughts. Director Davis is not panicking, so I'm not panicking. 🙃
+
+Director Curon is panicking. 😭
+
+WHAT'S NEXTActual good news to close on: Director Curon pulled some strings and got Mueller free for the first weekend of May. Proper studio time, both songs, Better AND House of the Rising Sun, done right instead of a cellphone in someone's pocket.
+
+ACTION ITEMS:
+
+That's everything!! 👑👑👑
+
+— Maddy
+
+Madeleine Filmore, Media Manager, Artist Services, Sony Music Entertainment T: (310) 244-XXXX | [email protected]
+
+Eppie sat back in her chair and thought about the implications of her and Val’s rendition at the Met in front of Francis, and decided she would check it out herself. She punched in the link that Madeleine provided, then braced herself for the 2008 YouTube commentary section.
+
+In 2008, there were very, very few bots. In 2008, there were also… no filters, moderators, or censors.
+
+xXeternal_starlightXx — 22 hours agoOk but why is nobody talking about how gorgeous both of these girls are?? The blonde looks like a kid, but the redhead is STUNNING omg
+
+LunaWolf_003 — 14 hours ago i dont even know who these girls are but ive watched this like 15 times today. that blonde's voice literally gave me chills, no idea how she's not famous yet
+
+sarahbeth_xo — 9 hours ago crying at my desk right now lol.
+
+tOnedeaf_Xylix — 5 hours agoWho ARE these two. unreal talent AND unreal looks?? some record label needs to sign them like yesterday
+
+xxMissyLuvsMusicxx — 2 hours ago lmaooo not the silver fox the redhead is hugging? dude looks like if GQ magazine had a dad. total daddy dandy (lol) (OH S— THAT’S FRANCIS SANDERS)
+
+shawn_g_wilson — 38 minutes ago ok this is gorgeous but WHERE can i actually buy this song?? Not on iTunes, not on Limewire, nothing. Someone help a G out
+
+Apparently, In 2008… YouTube had yet to invent formalised grammar. Fighting the cringe, Eppie read on.
+
+cat_tv — 6 hours agoFound the blonde's myspace i think?? "efontaine08" — profile pic matches 100%, someone confirm
+
+goku_996 — 5 hours ago @cat_tv YES it's her, her top friends have a "Zara A", and that's literally the girl who was ALSO in that Fall GALA video going around a few months back. this is the same singer from the "in the pines" thing right??
+
+Corps_collector — 3 hours agoThe redhead is Valorie Sanders; she's got a whole acting profile on the LAPA school site, and she's cast as some lead in their spring play. Also apparently her dad is like an actual state Senator??
+
+prodded_by_theo — 2 hours ago guys maybe don't go digging through a highschooler's myspace and posting it in the comments lo. Too creepy.
+
+itsjustkarenn — 1 hour ago @prodded_by_theo relax it was already public lol im just saying what i found. They’ll thank us for getting more popular.
+
+“Oh SHIT—” Eppie picked up her phone and dialled for Valorie.
+
+The call connected. “Eppie? I just got back—” “Val, we got drama!”
+
+“Oh? Did William…”
+
+“William is NOTHING compared to this. Listen…”
+
+Eppie turned to [Script Analysis] to try and explain the plot of their postmodern dystopian social media-driven state exposure. She told a sordid tale of many potentials, the best of which was creepy DMs, the worst of which was sexual harassment, or even stalkers. As hopeful as the video was, as public as its setting, the moment they shared with the world was intensely private. As for the song, the lyrics clearly implied that Val was resolving complex emotional trauma to do with her father, the “Silver Fox”. On one hand, the music was incredibly moving and hopeful—on the other hand, the optics really ticked the parasocial box so ubiquitous to ‘anonymous’ YouTube viewers.
+
+The fact that Eppie’s generosity had backfired a day into the contact going live was… certainly very 2008. On the other hand, she knew far too much about the Streisand effect even to consider nuking the video.
+
+“Should… should I delete MySpace?”
+
+“I don’t think that matters. Look. You’re going to get a LOT of friends, mostly…thirsty dudes. DO NOT ACCEPT. Get your Dad to get you a Media Manager, or just… pretend the whole thing’s been hacked for a few months.”
+
+“Is it that bad?”
+
+WITH YOUR LOOKS? WITH YOUR DAD’S REPUTATION?
+
+“IT’S BAD,” Eppie shouted into the speaker. “Just cut out everything until your dad gets you a professional to do this. He can ask Sony, actually. I am sure my dad is happy to help.”
+
+“Your… oh, you mean Director Curon!”
+
+“... Yes. Anyway, lock your profile. NOW.”
+
+She heard the sound of Valorie moving around her room, probably to her iMac. “How do you know all of this, Eppie?”
+
+“I have… 700,000 friends on MySpace. So trust me.”
+
+“Okay!” A shaky breath. “So, about my dad—”
+
+“Call him. See him. Tonight, before some staffer does it for you. It’s not your fault. Like, for real. So don’t panic.”
+
+A dramatic pause. “Okay. Okay, I’ll do that.”
+
+“Oh, and Val?”
+
+“Yeah…?” Valorie’s voice quivered.
+
+“We look pretty good… and sound even better. Watch the video for yourself. After seeing you, I gotta say, I am a fan.”
+
+A wet, surprised laughter cracked through the phone.
+
+The joy was flooding in. The video generated zero income, but that didn’t stop the [Causality].
+
+“And Eppie?”
+
+“Yes, Val?” Eppie recollected herself at the suddenly serious tone.
+
+“I spoke to Mio.”
+
+Oh yeah… Eppie nearly slapped herself for forgetting. “How was Mio?”
+
+“I saw Nozomi,” Valorie announced with a devastating calm. "I held her."
+
+“Yep... She’s a cute one,” Eppie replied. She wracked her brain for comforting words, but alas, her bankruptcy of linguistic empathy was something she really needed to work on as an orator.
+
+“I… asked to be Nozomi’s Godmother,” Valorie said.
+
+“Oh… I am also… Nozomi’s Godmother,” Eppie said, then suddenly realised in horror that she had absolutely missed Nozomi’s baptism. But then again, Doves Cry was sliding into No. 1… probably not for long, but the money should be respectable. That was her gift to Nozomi… as a… fairy Godmother.
+
+As for an actual Godmother… a family as old as the Sanders’ was a solid choice.
+
+“Sorry…”
+
+“Don’t apologise,” Eppie cut in before Valorie’s joy could sour. “Good job. I am serious. Between Mio, you and me, Nozomi is going to have a hella blessed life.”
+
+“There’s one more thing.”
+
+Eppie listened.
+
+“I'm taking Mio's place. On stage. In May.”
+
+The profundity of Valorie’s words made her momentarily speechless. Her immediate thought was shallow and insulting, wondering if Val was once more usurping a role meant for Mio. A second later, her [Script Analysis] kicked her in the gut hard enough for Eppie’s eyes to water.
+
+The shape of it was simple.
+
+Val had taken something from Mio—a role, a stage, the small triumph of being chosen. Now, Valorie Sanders was taking Luciana Mio’s place again. Same verb, same two names, different Shakespeare.
+
+Yet, this time, every particle of the original sin had been reversed. What was envy dressed as ambition is now penance dressed as sacrifice. In the aftermath, what could William do to Senator Sanders’ daughter? What could the Chens do to Francis Sanders? Valorie Sanders wasn’t some refugee from Reedley. If a Senator’s daughter stood exposed to the pain of an explicit recording of a fellow student’s torment, then it was art of the highest degree.
+
+And Mio… Mio could still sit in the theatre, somewhere safe, on the second floor. Mio could watch her assailant’s blood be let in public until the last vital drop.
+
+Then she could go home to Nozomi, safe in the knowledge that justice was done, and her grievance had been served, and no Chen would ever touch her again.
+
+Val wasn’t stealing Luciana’s spotlight. She was bearing its weight in Luciana’s stead.
+
+O Ye of little faith… the [System] seemed to mock her as the [Causality] compounded and her innards grew knotted. Witness what thy deeds have wrought, and tremble!

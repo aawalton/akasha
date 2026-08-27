@@ -1,0 +1,199 @@
+---
+id: d9f1bcbe-ac3e-529c-a362-6a6eb5a3d956
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 Back to Hazelwood"
+slug: 0013-chapter-11-back-to-hazelwood
+partOf: melody-of-mana
+position: 13
+ownLength: 3247
+unit: words
+ownProgress: 3247
+publishedAt: 2021-06-26
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706269/chapter-11-back-to-hazelwood"
+royalRoadId: "706269"
+markedReadAt: "2026-06-29T22:26:41.766Z"
+---
+
+Fall had just begun, and we were harvesting a few bits here and there. It was still a bit too early for an actual harvest. We would of course have to begin our harvest early, but that flurry of activity was yet a week or two away.
+
+My family was having a bit of a lazy day, working our way through a small tomato field. There were a few that had become ready for us, and we plucked them gingerly. The work was calming and easy enough, a good rest from the insanity that would shortly begin.
+
+The rumbling of hooves disturbed our whole hamlet. Turning to the sound I could see that there was a small carriage with two riders making it way up the dirt road that led here. It was a well made coach, wood with some apparatus to soften the vibrations I'm sure any occupant would be going through. The riders for their part were lightly armored, but on very nice looking horses. Our mayor appeared to be hanging off the back of it for some reason, looking completely out of place.
+
+Dad went up to meet them while I hid behind a particularly bushy vine. Neither of the riders had an aura I could see, but I was a bit scared nonetheless. I could barely hear their conversation as the mayor came near.
+
+"Verren, Lord Hazelwood sent for the priestess, apparently his daughter was severely injured in a training accident." The mayor looked nervous, and well he should be. Dad looked like he might take the man's head off.
+
+"Well, she's been gone for weeks now, and she's certainly not staying up here," he snapped.
+
+"I... well one of the soldiers in town mentioned..." Malke was stuttering.
+
+"We heard there was a bard in this hamlet, time is short and we're here to take her to help the young Mistress." One of the two riders spoke up. He did not share the mayors nervousness, to him this was an order.
+
+The other rider responded to this. "Watch your tone. We've no orders to bring the bard girl, and any mage will be able to refuse without them. You piss people off and you'll have to explain why we couldn't bring back a healer." He seemed the senior of the two, and nodded to my father.
+
+"Our apologies, but we are in a rush. If you could kindly bring the young woman in question, we'd like to speak with her."
+
+"I'm her father, you'll speak to me." Dad turned his gaze to the senior, dismissing the younger guard.
+
+"Greetings," The man began. He seemed to know this would be an uphill battle. "As was already said, Lord Hazelwood's daughter was injured in an accident. We were sent to request assistance from a priestess we'd heard was staying here, not knowing she'd left. If you would consent to render aid, I'm sure you would be well rewarded.""How has he failed to yet hire a new healer?" Dad fixed the man with a hard look.
+
+"They are short on the ground right now, as I'm sure you know." There was almost a sigh in that response.
+
+Dad looked over them, considering for a moment before calling me. "Alana, come, we're going to go assist Lord Hazelwood."
+
+I exited my hiding place and walked over to them. The mayor was polite enough to open the door for us as the carriage turned and sped off, carrying us forward toward Hazelwood. I was a bit of a nervous wreck. If only because I'd been told numberless times not to attract that particular man's attention.
+
+This method of travel was night and day to walking. For one thing, it was much, much faster. It had taken days of walking to make it the distance to Hazelwood. Traveling this way it might only take a couple of hours, how fun. The ride itself though was a bit rough. I was constantly bounced around, hitting the walls and seat roughly a handful of times before latching onto my father's arm.
+
+The roads, such as they were in this part of the world, were mostly dirt paths pounded down with perhaps a bit of gravel on them. The city had some paved streets, as was the main thoroughfare leading to it, but those between towns were not.
+
+There were only two small windows on this particular carriage and try as I might I couldn't get a good view of the outside, so I decided to talk to my father instead.
+
+"Doesn't this count as drawing Lord Hazelwood's attention to me?" I asked him, since we were alone.
+
+"I don't like doing this Alana, but if we refused and his daughter died, not only would he know about you, he might blame you for it."
+
+"Why hasn't he hired a new healer yet do you think?" I mostly wanted something to take my mind off the shaking.
+
+"Because this is a rather rural area, he's a prat, and as the guards said healers are short on the ground right now."
+
+"Okay, is there anything I should know?"
+
+"Don't agree to help him in the future. Outright refuse any offer he gives you. Even if it's something small seeming, just say 'No thank you' to anything. I'll do most of the talking, it would be nice if you'd pretend to be shy." Dad rattled off his instructions. Seems he knew a thing or two about dealing with the nobility.
+
+Before long we arrived at the city. I knew because we slowed, and I heard our guards talk to the gate guards. We went straight up the main road towards the manor, and I finally had a good chance to get a look. Hazelwood was not in the best form. The passing people looked better fed than the peasants outside, but only marginally so. From what I could tell the market was almost empty of food as well, though there was a bit here and there.
+
+The manor itself was a fortified building within a secondary wall. I would have called it a castle but it was just too fancy looking, this was somewhere built with displaying wealth first, and defense second. The walls were plastered white and there was a decidedly grand looking entrance, even if the door was rather small.
+
+The carriage came to a stop as a hawkish man in formal dress came forward to us. He opened the door, looked in, and stopped.
+
+"We were expecting a priestess, what exactly is the meaning of this?" He gave the guards a sharp look.
+
+"The priestess had left the area already sir, but we did manage to find this young lady, the mayor of Orsken reports she's a bard of some skill." One of the guards was polite enough to respond for us.
+
+I pretended to hide behind my father as the man's attention returned to us.
+
+"Well, this is most unexpected, but I would like to welcome you. I'm Lord Hazelwood's head steward. If you would please come with me." With that he led us up to the door and inside, chatting as he walked.
+
+"Young lady, can you heal wounds? Potentially poison as well?" He turned his head to address me as we were led along.
+
+"I... um... yes, I should be able to do that." I put on my best 'cutesy shy girl' voice. "Er... are there no other bards or priests in Hazelwood?" No time like the present to gain information.
+
+"I know of one other bard," he responded. They knew of Veska. "but she claims to not know or have an interest in learning healing magic." His tone indicated he believed that as much as I did. "It's also difficult to get in contact with her most of the time." This man was a wealth of information, I was so glad he chose to share it with me.
+
+I did make a note of the tactic Veska was using. If I ended up somewhere else I might consider using that trick to remain unmolested by people. She was not only lying through her teeth, she had also set up a way to hide. I guessed that she had people warn her of any incoming messengers so that she could go elsewhere, only showing up hours late to every meeting she was called to. If I ever had enough people answering to me I'd definitely do that.
+
+As the steward opened a door he gave me a nervous glance before showing us inside.
+
+He spoke as we entered to a man seated beside a bed. He was middle aged, and a bit larger than most. He had an aura around him, one of moderate power.
+
+"Your Excellency, it would seem the priestess has moved on, but the guards sent for her found a young bard girl. It seems she might be able to help." He spoke softly to the nobleman.
+
+Lord Hazelwood turned, his eyes widening visibly as he saw my father, then flicking down to me hiding behind dad's arm as if afraid.
+
+"I do not care that you were hiding from me. I will not ask any questions of you today. If you can heal my daughter you will have my gratitude." His voice was wooden.
+
+I was given a slight push by my father and came over to the bedside. There was a girl in the bed, somewhere in her mid teens. There was an aura about her, barely. She had horrid burns covering the left side of her body and was shaking slightly in her sleep.
+
+After a very short examination I began to cast, spreading the healing mana over her. The burns were fairly deep, some even going past the skin and into the underlying tissues. I was glad that the damage was similar enough to frostbite in what it covered. That fact would make it more straightforward.
+
+It took a long time to deal with the burns, during which time her father left us. I took my time trying to keep any scarring from appearing, which I was quite successful at. Once I had all of the burns dealt with I moved to looking for poison. The steward had mentioned it, and it seemed a good idea to pull any out before they caused any more damage. This led to a secondary problem.
+
+"Could you call for someone?" I asked my dad.
+
+A few minutes later the steward was back. It seemed he intended to handle this personally. When he saw the state of the young lady he smiled, looking very relieved. "Oh, wonderful," he said.
+
+"You talked about potential poison," I asked, stirring him from his musings. "There are multiple foreign mixtures in her body, but I can't tell what's what. I'm assuming some are medicine of some kind, but I won't be able to pull any poison out without taking it too. Will that hurt her?"
+
+He thought for a second before going to consult with the nurse who'd been tending her. Most medicines are just weak poison, I was guessing they gave her one to make her sleep, but as I had told him. I had no clue what was what.
+
+When he returned the head steward looked at me.
+
+"It should be fine. Though she may be in some distress when she awakens. Is it alright if I stay?"
+
+"Um... that's fine, sure." I tried to look like I was trying to look like his presence didn't bother me.
+
+I pulled the poison, and medicines from her. Grabbing and pulling them away and out of her body.
+
+She awoke with a start, gasping as if in pain for a moment before looking down at herself.
+
+"What? Where am I? Who are you?"
+
+The steward stepped forward, speaking gently, "My lady, you were in an accident, and this girl came to heal you. Please be calm."
+
+"You're, um... not quite done yet. Could you please lay still for just a few more moments?" I asked.
+
+"Very well," she said, sounding a bit irritated about the whole situation.
+
+I took a few moments to go over her for any infections that might have started from the burns, but she'd been lucky on that account.
+
+"There, all done." I smiled at her as I declared that I was finished. I was also thoroughly exhausted, so being done was a blessing.
+
+"Excellent, you may leave now." She made a shooing motion with her hand.
+
+Alright you snooty bitch! I liked you way better when you were asleep!
+
+Oh how I longed I had said that out loud, or been able to knock her stupid ass back out. Sadly I did not, and could not.
+
+We left her as I felt a vein on my head pound, and were shown to an extravagant room where we could rest for the night.
+
+"What a cunt," was the first thing I said as soon as I knew we were alone.
+
+My father did a double take at his six-year-old making such a statement.
+
+"I don't know where you learned that but if your mother hears you saying that she'll wash your mouth with soap," he warned.
+
+"My brothers. And maybe, but she'd agree with me while she was doing it." That got a laugh from him.
+
+We had a chance to clean ourselves before we were brought dinner.
+
+I had a steak, an actual steak! There was a tiny bit of melting butter on the top, dripping off of it. It was delicious, heavenly, and perfectly tender. The vegetables and mushrooms it was served with were roasted until soft and sweet, their juices popping as I bit into them. At the end of the meal a maid brought us a small bowl, a new dessert that had been making the rounds, "Even Lord Hazelwood is fond of it!" Ending on ice cream was a great choice in my opinion.
+
+After dinner I went into a practical food coma. I laid on the bed considering, that meal might have made all the work, hassle, and irritation worth it.
+
+"That was amazing," I said, as I slipped off to sleep.
+
+"Yeah," was the last thing I heard. I was glad dad agreed.
+
+The next morning we were given a tasty, if light breakfast. I ignored most of the bread and dug into the fruit, greedily eating those things that I didn't have at home. After which the steward came to see us again. This time presenting dad with a sizable bag of coins.
+
+"Lord Hazelwood offers you his utmost thanks for your aid in this matter, and has arranged for a carriage to return you home." I personally suspected that the steward had made those arrangements, but whatever. We were getting paid.
+
+The ride home was slower, and therefore exponentially more comfortable. I claimed one gold and a couple of silver from the money we made. Dad complained about children not needing to handle so much coin, but I'd done the work, I got a claim. I had no clue what he was doing with the money I got from healing people and the like. I assumed it went into the house finances, and we didn't want for much, at least the things we could buy. I also guessed a good clip was going towards the rest of the hamlet. Dad did stuff for that reason alone a lot.
+
+Our little trip and job had made me completely forget about harvest. I was reminded harshly when we got home, and launched back into our normal work.
+
+This year I ended up working a small field with Mystien, so that we could practice magic when my mana filled itself. Rather than his normal lectures he regaled me with stories of his youth in the capital to pass the time as we worked. He and a young bard by the name of Lucien had gotten into endless shenanigans.
+
+"And he jumped out of the woman's window, pants around his ankles, and landed face first in a cart of manure. I had a hard time running away from that one, because I couldn't breathe."
+
+"Whatever happened to him?" I asked.
+
+"Oh? Well, we both got older. Bit after I joined the army he opened a tavern called The Starlit Sky, so far as I know he's still there. Lucien's the one who trained Jackson, they're much alike."
+
+"I'll have to go there one day, the capital sounds like somewhere to see," I said.
+
+"It is, a city that big is something on its own level." Mystien looked out at the fields, breathing deeply. "But you know, there's something special about living out here in the countryside too, I truly love it here."
+
+"Yeah, it's beautiful. If there only wasn't a mountain of work to do all the time it might be perfect." That got me a laugh.
+
+After harvest we had a small celebratory meal together with the rest of the hamlet. Simply making it through this year had been cause enough for us to party. Our harvest had been good, all things considered, and a few of the foods needed to be eaten anyway since they didn't store well. A number of older chickens were slaughtered. They added much needed meat to our diet, and made way for fresh stock.
+
+Word arrived not long after harvest that the age of men required to serve in the army had been expanded, it would now include almost every adult man able to hold a spear. Some like Barro had been exempted, as their work was vital to keeping everything running. Those under the age of adulthood were not called, there seemed to be some kind of taboo there about those too young going to war. This was not altogether unexpected, but it was still a heartwrenching event for everyone.
+
+That day my father took the boys aside to have a conversation with them. He had some instructions for them should anything go wrong, ones that he choose not to share with me. He did tell me that I was to trust them though, that they would take care of me.
+
+I wept as both dad and Mystien left, sad to see those that I cared about so much going off to fight. Mystien was kind enough to leave me with a number of his books, and strong admonitions to keep studying.
+
+What was unexpected was that three days after they'd left, a mass of soldiers moved into the village, gathering up everyone from it and all the hamlets to the village hall.
+
+A man in elaborate armor walked before all of us, looking harshly out at the gathered crowd.
+
+"Where are they?" he loudly questioned, nearly yelling.
+
+"Every single one of the men from this town called to join the army disappeared, all of them. Do not expect me to believe that none of you knows anything about it either, that would be impossible. So tell me where they are, and do it now." Stunned silence greeted him.
+
+"I will find them. Right now every home, every barn, every shed, field, and scrap of woods is being combed for those men. If you tell me where they are, only the leaders will need to be executed. The rest will be spared so long as they agree to serve their duty."
+
+Nobody said anything. The silence stretched on for minutes as he looked out at us. It actually seemed that nobody knew.

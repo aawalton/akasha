@@ -1,0 +1,209 @@
+---
+id: 9b5fb2f8-5596-57db-86ee-ddaec2625ab7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 726 - Arrival, Impartment, and It Begins"
+slug: 0236-chapter-726-arrival-impartment-and-it-begins
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 236
+ownLength: 2785
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3679869/chapter-726-arrival-impartment-and-it-begins"
+royalRoadId: "3679869"
+---
+
+Tala’s flier came in low and fast, but their arrival was still expected. As such, they were greeted by a large group when Tala willed herself and all those she was transporting out and to the superficial.
+
+She and Alat had to get a bit creative given they had quite a few gateless warriors to ‘bring out’, and there wasn’t quite enough room in the middle. Still, it was easy enough for them to be brought to the superficial interspersed among the crowd. Even so, they worked to have everyone appear near those they were traveling with to minimize the potential for confusion and misunderstanding.
+
+It was surprising how much confusion being willed to an entirely different location could cause, even when people had been warned ahead of time.
+
+As soon as they all appeared, there was a flexing and shifting of those who’d come to greet them in order to make more room. The whole group spread out, giving space almost as smoothly as if they’d preplanned for such an action.
+
+A moment later, a white figure flashed forward with inhuman quickness. Everyone in the area was rather advanced, so she wouldn’t be a blur to them, making it understandable that the girl was easily let through.
+
+Then, Lea was there. Tala and Rane wrapped her in their arms, both grinning with pride. Rane was the first to speak. “So you did Refine? That’s incredible!”
+
+Tala had obviously told Rane about what she’d felt and her theories therein. For her part, she squeezed Lea. “Congratulations, Lea. Truly.”
+
+Several officials came forward, and Tala connected with them briefly before passing off the warriors who’d come with her into their care and under direction.
+
+The final thing the war council’s representative conveyed to her was rather simple. “We will begin moving into place for the attack in three hours, assuming that you are willing, Eskau of War. The last of the expected fighters should arrive within the hour, and that will give them a short breather before the assault.”
+
+Tala grinned. “That sounds excellent. I will need to meet with the commanders half an hour before that departure. Will that fit with your plans?”
+
+The man bowed. “I will gather the leaders at that time. You can find us, I assume?”
+
+“Yes. I will.”
+
+And that was that. With nothing required of them for the next short bit, Rane and Lea willed themselves into the sanctum for a family meal, but Tala paused, catching the eyes of the three arcanes who had been with her daughter.
+
+Eskau Pallaun and Kanabo and Pillar Tili came forward and bowed their heads before Eskau Pallaun ceremonially intoned, “We return her to your care, our task is done.”
+
+Tala smiled. “I receive her, whole and hale.” She felt a rising of authority, that which she’d granted them beginning to fade, but she made a decision. “Core members of the House of Iron, I grant you fully that which was lent.”
+
+The two beast-kin gasped, power swelling around them in a hard to convey manner. It wasn’t that there was more magic, nor was it that they were suddenly more metaphysically dense. Instead, the power that was about them seemed… less viscous? Regardless, it moved just a bit easier, however that should be described.
+
+Additionally, the iron about their persons became… opaque to Tala at a fundamental level. If she were a magnet, it was suddenly non-ferrous, which was a funny thing to consider for iron.
+
+The two arcanes bowed deeply, thanking her profusely as they retreated to meditate and prepare for the upcoming battle. The others were also already dispersing away, leaving just two people in the arrival zone.
+
+Tala turned to Eskau Pallaun, but the hue-man held up his hand. “I thank you for your temporary boon, but please do not go beyond what you have already done.”
+
+Tala narrowed her eyes at him. “You… know?”
+
+He chuckled. “Yes and no. I suspect, and do not wish another step. I would be forced to take over the House of Blood or leave it, and neither appeals.” His smile then turned a bit self-recriminating. “I also have felt the weight of one above me on my chosen path, and I do not find myself so arrogant as to believe I can unseat a pinnacle, nor so humble as to believe I could serve as adjunct beneath such a master.”
+
+She… thought she understood what he was getting at. “I assume you are being obscure for a reason?”
+
+“Of course. There are many who do not appreciate truths being spoken of openly.”
+
+Tala sighed. “Very well. I will leave it at that. My husband and daughter are waiting.”
+
+“The love of close family is a precious thing, Eskau Tala. I am gratified that you are able to bask in it—even if just for a short time—before our clash.”
+
+His words touched something within her, and she felt instinct guiding her response. “Thank you again, Eskau Pallaun. May the darkness you wield grant the comfort you seek.”
+
+The man’s eyes widened momentarily before he bowed deeper than before, seemingly at a loss for words.
+
+Tala felt her authority tremor slightly at such a powerful man’s acknowledgement.
+
+Without waiting for him to straighten, she willed herself to her dining room, finding Lea and Rane each already eating a cheesy little caravan.
+
+Tala’s eyes narrowed as the two froze mid-bite. Lea pointed vaguely at the ceiling. “Momma gave them to us.”
+
+Traitor.
+
+-What? It was time for a celebration.-
+
+Tala chuckled at that. “Fine, fine.” She held out her hand and another appeared there. “Let’s enjoy ourselves. There is a lot to celebrate.”
+
+She was a bit sad that Terry wasn’t with them, but he was still combing the southern forest, and while her bond with him let her know he was alright, it didn’t allow for easy updates.
+
+Be safe, my little murder bird.
+
+The time passed in a blur as Lea and Rane each conveyed the tales around their own advancements. Both were… stressful in their own ways, and Rane obviously had to be a bit circumspect in order to not put Lea’s own advancement at risk, but beyond that, it was a wonderful deep breath before the plunge that was before them.
+
+Lea did her best to convey what she’d learned about the various schemata of the Black Legion, and Alat made sure what they could put together for wider consumption was shared appropriately.
+
+Near the end of their time, Rane placed a hand on Lea’s shoulder. “I’m so glad that you Refined, little love. I’d have hated to ask you to sit on the sidelines.”
+
+Lea’s eyes widened. “You would have left me behind? But I’ve spent the last days training with everyone else!”
+
+Both Rane and Tala nodded in unison. “Yes.”
+
+Lea glared. “That’s so not alright.”
+
+Tala sighed. “You would have been among the weakest on our side, in terms of advancement, and it would have been unfair to require others to protect you, despite your capacities. You simply wouldn’t have had the weight to endure in the fight that is to come. Now, though? Now, you can fight at our side with pride.”
+
+Rane chuckled. “Well, not at both our sides.”
+
+“Right, right.” Tala smiled. “We’re likely going to be the two anchors of the battlefield.”
+
+Lea frowned. “You’ll be the strongest two here?”
+
+“No.” Rane said flatly. “We will be among the strongest, but it will be your mother’s… will that will let us breach this fortress. As I am soulbound to her, I am a more effective anchorpoint for that than most.”
+
+Lea looked between the two. “What of me?”
+
+Tala shrugged. “We’ll find a place for you if you want, or you can be with your father or I. What do you prefer?”
+
+The girl bit her lip in thought, reminding Tala quite a bit of her younger self. Finally, Lea smiled and nodded. “Can I fight with the Talons?”
+
+Tala and Rane exchanged a look before they both smiled, Rane speaking on their behalf. “That sounds like a great idea.”
+
+From there, they moved on to lighter topics, just enjoying their time together. And just like that, all the time they had was spent, at least all that Tala had.
+
+She bid her husband and daughter goodbye and went to work. Specifically, she willed herself into the gathering of leaders, composed of Archons and arcanes, Paragons and Revered, city dwellers and wanderers alike.
+
+She also brought out Ron and a few Talon officers for good measure along with Eskau Meallain, all having been forewarned once more by Alat.
+
+There were nearly five hundred people gathered in, close to the lifted platform that Tala appeared upon.
+
+In general, each person there was in charge of twenty others who were not present, meaning they had a force of right around ten thousand fighters of Refined—or Elder—and above.
+
+That sounded like very little until Tala remembered that in all of the Cycling cities, there were only roughly five thousand Archons of a rank of Refined or above.
+
+This wasn’t all of their forces, but it was all of their magical forces available for the strike. There were another thirty thousand more mundane forces, even if they did have magic flowing through them by dint of how the world worked. Their commanders were in the group as well, but the averages had taken that into account.
+
+Regardless, this was a staggering force of arms that should be able to utterly crush even a force of Black Legion automata ten times their size with relative ease.
+
+Tala smiled, looking out at the gathered leaders. “Welcome, proud warriors of Zeme.”
+
+Everyone turned her way, giving her their undivided attention, even as they gave bows of various degrees. The genuflection and genuine respect and deference given to her caused her feeling of authority to practically buzz even if it didn’t grow by that much.
+
+Still, she smiled and gave a nod in return. “We are about to assault a Black Legion stronghold. You’ve been briefed on the plans, you know what’s at stake. I won’t take your valuable prep time beyond one more thing.” She lifted her hands, almost in benediction. “As Eskau of War, I empower you to lead our soldiers, our squads, our units, and our companies. I empower you in this fight to come. Be a bulwark against the machinations of our enemy. Bolster the magic of those under your command and any others who come to fight by your side. May your seconds inherit your mantle if you fall, and may our blades find the enemy’s heart.”
+
+A swell of something rolled out through the gathered crowd, utterly unsensed by any that Tala could see.
+
+She was going to end there, but yet again, she felt an instinct deep within and followed it. “This war was given to me to proctor, and this army is mine.” Her hold and authority over every fighter present swelled as not a single one of them denied her words, seemingly not even in their hearts. “Go forth and gain honor and glory for us all.”
+
+As far as speeches went, Tala felt it had been a bit pretentious, but Alat had helped her model it on similar injunctions by Pillars and Eskau in ages past. It shouldn’t stand out as odd, while conveying more than the usual underlying authority.
+
+It really is astonishing how much of their culture has molded around authority while almost no one among them truly understands that foundation.
+
+-People are good at adapting and using what works, even if we don’t fully understand it.-
+
+Indeed.
+
+-...Fun addition at the end there. The dasgannach acting up?-
+
+Tala sent a flat look. There is just me, and I am following the instincts from many different parts of myself.
+
+-Fine, fine. I think it was good either way.-
+
+An Eskau wearing House of Iron heraldry stepped forward. It wasn’t Eskau Kanabo, but the bull-kin was equally as massive. “For Blood and Iron! For the united cities! For the Eskau of War!”
+
+Three pulsing shouts rang out in response, each one washing over Tala, bolstering—even if not increasing—her authority. That bolstering radiated back outward to the officers she’d put her support behind, and she smiled. “Disperse to your posts. We have automata to crush.”
+
+The officers turned and did just as she said, going to those they held command over and guiding them toward their appointed places.
+
+Tala felt her aura and authority going with them as they went. Moreover, as each got to their groups, she felt it spreading over those soldiers and fighters, magic and mundane alike.
+
+Her grin grew.
+
+This was her army, and even though she had not been the one to make the specific plans they would be executing, they were, nonetheless, executing her will.
+
+She was a weapon, aimed directly at the heart of the Black Legion, and it was finally time to thrust home.
+
+It had been decided that they should attack from all sides at once, swarming inward from eight points around the outside of the large dome. Given it still wasn’t that large, the eight divisions would still be within sight of one another, especially as they converged on the center.
+
+Importantly, with the power of everyone involved—even the most ‘mundane’ of the soldiers able to be transported by the more advanced—it took less than an hour to get everyone in position, and when the time came, Tala called for the advance.
+
+For her part, Tala was at the forefront of a mixed group of arcanes from various houses and mobile settlements and Refined Defender groups. It seemed that assignment to her portion of the battle had been seen as an honor and privilege to be negotiated for.
+
+She advanced on the barrier and—knowing that she was setting the mood for the whole clash—she pushed through without hesitation.
+
+Tala reinforced her aura, filling it with authority specifically geared to deny the nebulous field around them. She handed it off to Alat and felt the alternate interface bend the entirety of her will toward that one purpose.
+
+The effect spread, and as the combined army contracted in on their enemy, Tala felt the miniscule increase in strain upon Alat for each person that entered under her auspices.
+
+It was odd, because on one level it felt like simply resisting a magical effect in the air, keeping it away from herself just by the nature of her own power and density. At the same time, she was highly aware of all that was hers, and this army was hers beyond question. In purpose, in goals, in drive, in concept. At every level, this army had given itself over to her, and she had accepted it gladly.
+
+Then, as the last of the army entered what would soon be a battlefield, Alat made a single comment of great import. -We are cut off from the Archive. That includes through soulbond.  Even our link with Terry is being muffled and quietened. If it isn’t within this bubble, we can’t contact it through non-mundane means. Keep that in mind.-
+
+They’d theorized that such might happen, but it was still not ideal. Rust. Thank you.
+
+The alternate interface was already back to devoting the entirety of herself to the task at hand. Tala did the same, picking up her pace as they advanced into enemy held territory for the first time in the war.
+
+* * *
+
+Terry snuck closer as something changed. The few squads of Black Legion automata that he’d been tracking had suddenly frozen before all turning and beginning to run north.
+
+He moved along with them, following his instinct and keeping to the upper reaches of the canopy to avoid detection, and it was good that he’d done so.
+
+Black Legionnaires seemed to practically boil out from under every bush and hill. Even coming from places that Terry knew had been empty.
+
+The Doman-Imithe. They were exiting the Doman-Imithe in droves.
+
+He was able to catch passing glimpses of rifts to that place, and he found himself… frustrated.
+
+His little hatchling and her inner voice had just left contact, and it seemed that these automata knew somehow. Or, rather, they knew of something that had coincided with that blockage.
+
+Now?
+
+Now, it seemed that a before unseen army was coming together in the southern forest and moving directly north, toward the gated cities with frightening speed.
+
+Terry did not know what he should do about it. So, he didn’t try to decide. Instead, he followed his instinct and continued to shadow the growing tide of automata.
+
+Things were about to get rather… interesting.

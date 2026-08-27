@@ -1,0 +1,153 @@
+---
+id: 83af2463-7f0d-5a6c-aa2d-8876cc880ff4
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 686 - Moving Forward"
+slug: 0194-chapter-686-moving-forward
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 194
+ownLength: 2549
+unit: words
+ownProgress: 2549
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3183073/chapter-686-moving-forward"
+royalRoadId: "3183073"
+markedReadAt: "2026-06-29T19:41:16.681Z"
+---
+
+Tala knew that the gathered warriors were uncertain about fighting her daughter given the advancement disparity, even though they did trust that Tala had her reasons. They were right in that; she did have many reasons.
+
+This park had been partially chosen for the sparring ring that stood ready beside them, and Lea moved into it, speaking clearly so even mundane ears could have easily heard her. “You may not have noticed the true weight of power my mother has within this space. You also might not have been aware that it is more than simply soulbound to her. It is as much a part of her as her hands or eyes.”
+
+There were mutters at that, but no one spoke loudly enough to interrupt. It lined up with what Tala had said, but still some hadn’t truly caught or incorporated the fact into their thinking.
+
+“She has delegated some of that power to me, and I will be using it as a stand-in for powers of Reality that the Black Legion will have access to when you fight them.” Lea seemed a bit nervous, but she was still doing quite well.
+
+Her proclamation brought stunned silence. The reality shaping ‘magics’ of the Black Legion were well known, or at least well recorded in the annals of history and the memories of those who had fought them, but most didn’t know that they were not magic.
+
+Among those who did know—several of the House of Iron representatives as example—they knew the information to be a closely guarded secret, and their expressions of discomfort made that quite clear.
+
+Tala was dispensing with that nonsense. These people would be fighting the Legion, and poor information cost lives.
+
+To that end, Tala cleared her throat, drawing eyes back to her. “As mentioned before, the metal of the Black Legion is partially composed of the white steel you now hold a sample of. I will restate again to remove confusion, another part—possibly the more important part depending on how you look at it—is reality iron.”
+
+She let that sink in a moment before continuing. I hope I don’t have to repeat the information again for it to truly sink in…
+
+“They are anti-magical savants by nature of their very existence. The vestige that powers them barely fits the name as they have taken the horrid methodology farther than any other, binding the soul to the intelligence of the given unit. If it is not properly contained and destroyed or the soul directly set free, the soldier can be reconstructed at one of their facilities. At least they could be during the initial conflict.” She huffed a laugh before adding. “There should no longer be such facilities left on Zeme, or anywhere else. Unfortunately, records indicate that they were largely dealt with by the Mezzani before their fall, so corroboration of the complete destruction is… difficult. Regardless, we suspect that the Black Legion will be trying to rectify that lack as soon as they can. Those facilities were among their greatest advantages. We are keeping a look out for the ripples in existence that such should create, but such monitoring isn’t perfect. We know of several cache holds—long since drained, sadly—that the Legion might try to reconnect with for materials, but we aren’t hopeful that they will make such a mistake. Unfortunately, their mere existence has caused ripples since their creation. We’re still finding the occasional person or group who is practically compelled to delve into the research, and the House of Blood has destroyed three books with stronger affects in the last month alone as we found them among various repositories.”
+
+Tala hesitated, and Lea gave a strained smile, smoothly stepping in, “But—as fits the Eskau of War—my mother is discussing the larger picture. We are here for the minute. How well can you face an automaton with sway over reality?” Her gaze swept across the gathered arcanes. “Who would like to be the first to test themselves?”
+
+Eskau Reidh immediately stepped forward, his draconic features alight with anticipation. “I would test myself, good Lea.”
+
+Lea bowed to the dragonling. “Then let us clash.”
+
+The man strode forward, the blood drenched scales on his left arm glimmered and rippled, clearly responding to the man’s battle lust.
+
+Lea shook her head slowly, a smile growing on her perfect features. “And the first mistake has been made.”
+
+Tala felt the granted authority bend, Lea doing an admirable job of attempting to mimic reality based abilities. Tala also felt both Alat and Enar working alongside their daughter to smooth out the inconsistencies and more closely match the records they’d gained access to. The two alternate interfaces were also adding weight and power to the workings for better effect.
+
+A sphere, ten feet in radius, grew outward, causing all magical power to seemingly bleed from the air, when it reached Eskau Reidh—who had drawn up his weapon in a guarding position—it caused the blood on his arm to shudder before it simply fell free, splashing on to the ground.
+
+Lea gave a sad smile. “Liquids flow down, Eskau.”
+
+Eskau Reidh’s eyes widened, before he began to laugh. “Yes, but a dragon’s blood is something even reality honors.”
+
+An odd sense flooded outward from the blood even as it seemed to congeal on the ground, hardening into the form of a sword, looking more like a jagged scab than the liquid Tala was used to seeing.
+
+“This will not halt my attack.” He snatched up the newly formed weapon and rushed forward.
+
+Magic tried to coat his feet, but it was driven back inside him, causing the dragonling to almost stumble.
+
+Instead, the experienced warrior used the motion to increase the pace of his headlong charge. Lea met the attack with her impossibly sharp blade.
+
+The clash was… sedate? Both warriors had skill—Eskau Reidh’s clearly greater than Lea’s—but both were also moving too slow for what would be expected.
+
+Neither was really able to use enhancement magic effectively.
+
+-Lea decided not to use her enhancements even if the Black Legion can and does, at least not for this first demonstration.-
+
+Probably wise.
+
+In barely fifteen seconds, Lea was shown to be both faster and stronger than the dragonling, even powering through his blocks and forcing the man to show off more of his skill as he rolled with attacks and twisted around seemingly certain hits.
+
+His defense was further complicated by Lea’s ability to move in entirely inhuman manners, the nature of her body allowing her to twist and strike with power in myriad ways that no biological opponent could have, at least not with any sort of strength.
+
+Magic continually tried to rise up within Eskau Reidh, but it had trouble actually manifesting.
+
+After a minute of constant engagement, the dragonling pulled back, panting with exertion. He laughed. “Not since a hatchling have I felt so restricted. I can think as usual, but move? No. The deeper within myself, the more I can use my power, but I am unused to having a stronger, faster core than extremities…” He bowed. “This will take much practice.”
+
+Lea bowed in turn, her expression an odd mix of self-conscious and stoney. “This is the recorded suppressive aura of one of their lieutenants or commanders. Their foot soldiers will have it barely extend past their own bodies,”—she lifted a finger for emphasis—“unless they are in formation. The Black Legion is able to link the effect between units and amplify it, making groups many times more dangerous than individuals.”
+
+Tala stepped in then. “Eskau Reidh identified the key. They cannot banish magic from us entirely, and in many cases, they will barely be able to keep themselves safe from direct attack. That said, they will create gradients of magical effectiveness, and that—even more than true negation—will cause issues in combat.”
+
+The thirty gathered arcanes nodded seriously. They were no fools. They understood how having a tool function inconsistently or unexpectedly could be more dangerous and hampering than simply not using the tool at all.
+
+“We could avoid magic when clashing with them, but that surrenders one of our greatest assets before the clash has even begun. Instead, I want our warriors to train under variable suppression until it is no longer the hindrance it would otherwise be.”
+
+Lights of fervor sparked within the gathered arcanes, and Tala found herself smiling.
+
+This would not be a fast process, but it was possible.
+
+It would only take time, and as such, Tala would take all the time she could get.
+
+The Sappherrous family only stayed in Croi for another week before they returned to Platoiri, bringing their sanctum full of researchers and Ironhold along with them.
+
+The House of Iron delegates came along for the journey, while those of the House of Blood mostly remained in Croi to disperse back to their various branches, carrying news and instructions that would begin a fundamental shift within the House.
+
+Tala didn’t meet with the City Lord of Croi during her stay, partially because she both didn’t want to accidentally confirm the woman’s authority nor snub her in a way that could harm either the House of Blood or their war effort.
+
+The entire population of the House of Iron in Croi relocated to Platoiri in Tala’s wake—following those who were still in Ironhold—one hundred of their best and brightest gaining temporary access to the hold for a variety of purposes, one of those being the research of the iron dasgannach that Tala had taken along with the restraint collars. The creatures were all but cousins to Tala, now that she’d merged with her own dasgannach, and any insight that could be gained would help her as well as aid the House of Iron’s quest to delve deeper into the secrets of iron.
+
+Once back in Platoiri, word went out far and wide, and the allies of the House of Blood sent representatives and warriors to learn, as well as pledge their Houses to the cause, placing ever more resources at Tala’s disposal, and causing her authority to grow day by day.
+
+Barely two weeks after she returned to Platoiri, the guild which had sought help to deal with their automata problem was found… or more accurately, the remnants were found in the form of one servant family that had changed their names twice and was currently in the service of a minor guild.
+
+When they were approached, they explained that everyone they knew from the guild—whether servants or members—had slowly vanished or had… accidents. When they went to the city guards, nothing nefarious was found, but to be safe, they’d gone through the process of trying to hide.
+
+To be fair, while Alat hadn’t had that much difficulty finding them, it had taken a modicum of effort. When considering that it could have been related to the oddities that always seemed to happen around those who researched automata, the mere act of distancing themselves from the targeted guild could actually have saved them.
+
+Or there had just been an odd, coincidental series of disappearances and accidents… Stranger things had happened, and as a rather large number of people died or went missing every day, it could be just that. Though, even if Tala doubted that was the case, she didn’t have the time, interest, or other resources to truly track down the reasoning.
+
+Regardless, it seemed that they wouldn’t have easy answers either about the automata or the white steel, so they moved on to other projects and tasks.
+
+In the aftermath of the revelations of the unfortunate guild, Lea was quieter than usual. Apparently, she’d been looking forward to speaking with them, and Tala supposed she could understand that. After all, Lea was curious about the origins of her body, where it had come from, and how it had come about.
+
+When Tala had asked her about it, the girl said that she’d learn about her body’s origins through other means. At the same time, she’d seemed to focus even further on training those who came to learn from them, which helped Tala immensely.
+
+On the other hand, Rane seemed to take something more from Lea’s reactions, but he also told Tala that he’d dig into it and let her know if anything further needed to be done.
+
+Lea seemed to return a bit closer to her old self shortly after, regardless. As such, Tala put it from her mind for the time being. There was just too much else to do, and while she was still able to take good time with her family at regular intervals, it wasn’t nearly as much as she would have liked.
+
+Once we’ve got all the preparations underway… Then, I’ll get back to this.
+
+On another front, to Tala’s consternation—and that of the Cycling Cities—the new alliance with the arcanes was too shaky to be pointed at the Leshkin. The Black Legion was enough of an existential crisis that old grudges and issues were able to be set aside for the time being, but the Leshkin were… contentious.
+
+Regardless, gated humanity wouldn’t be able to leverage the upcoming threat of automata to deal with the more present issue of the plant abominations. That wasn’t ideal, but this war and the preparations for it were a wide open door to improve relations long term. At the very least, gated humanity had a chance to show their value as allies rather than antagonists.
+
+Finally, things reached a tipping point, and just three years after Tala’s return to Platoiri, the Revered City Lord demanded her presence, even if his summons was cloaked in words of wanting to ‘join the war effort’ and professions of hope that Platoiri could be of assistance against the incoming threat.
+
+-Well, three years was longer than we thought we could go without seeing him again.-
+
+True, and we haven’t had any additional requirements laid upon us, despite our return and continued role as Eskau.
+
+-So, we’re calling this a win?-
+
+Absolutely, three years’ reprieve was more than we could have hoped for.
+
+-Indeed… this is a gift.-
+
+A gift. Tala sighed. She did wish she could turn down the end of the ‘gift’, but hopefully, this would just be a small bump.
+
+She might even finally get to take the man’s arm in return for his taking of hers, but that might be too much to hope for.
+
+Regardless, there was no longer a chance of him killing her, and she could likely cause him great harm, even if killing him was equally unlikely.
+
+This would be a meeting… not of equals, but of peers of a kind.
+
+Yes, Tala, keep telling yourself that.
+
+Regardless, she had to admit that letting her pick the day had been quite the concession, and the morning of her scheduled appointment finally dawned, finding her at the gate to the Revered City Lord’s estate.
+
+She wore no armor despite it being ready at a moment’s notice, but she did have Flow on her hip, hanging in the form of a knife both as a comfort and because it reminded her of her previous times on these grounds.
+
+Here goes nothing. She stepped forward, and pushed the gates open. It was time for a private meeting with the Revered City Lord.

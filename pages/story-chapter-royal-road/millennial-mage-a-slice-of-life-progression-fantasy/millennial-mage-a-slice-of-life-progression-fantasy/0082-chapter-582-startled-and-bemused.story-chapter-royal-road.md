@@ -1,0 +1,195 @@
+---
+id: 0db284a2-cf0c-599b-a590-f986a8ae9f7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 582 - Startled and Bemused"
+slug: 0082-chapter-582-startled-and-bemused
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 82
+ownLength: 2889
+unit: words
+ownProgress: 2889
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2402787/chapter-582-startled-and-bemused"
+royalRoadId: "2402787"
+markedReadAt: "2026-06-29T19:37:55.425Z"
+---
+
+Tala had completely forgotten the coffee in her hand and was, instead, staring in non-comprehension and growing rage at the woman who sat across from her.
+
+-Tala… calm down. Keep a clear head on your shoulders.- Alat’s voice had an edge to it, but her words were filled with careful restraint.
+
+Tala practically snarled at her alternate interface. Alat, you heard her, right? Why are you telling me to calm down?
+
+-There’s no way you’re killing a Reforged… not unless you approach it with a clear, level head. Focus!-
+
+Tala felt a wave of calm sweep through her mind, clearly imposed by Alat, but she didn’t fight it. Oh… yeah, that makes sense. Thank you.
+
+-Of course. If we do this, we do it together.-
+
+Mistress Jenna was watching her closely, and Tala returned the stare.
+
+Funnily enough the two women were of the same height, though Tala’s build was more slender to Mistress Jenna’s curves.
+
+Tala thought she was physically stronger, both at a baseline muscularly, and in how her inscriptions were oriented.
+
+Mistress Jenna had at least a few centuries of experience on her side as well as a tier of advancement.
+
+They were also in her place of power, and as Tala looked closer at the magics around them—using her bloodstar clouds and threefold perception—she noticed that those workings were actually far more than simply privacy in nature.
+
+They were clearly designed both for defense against outward threats and to contain anything that tried to escape from this small room.
+
+Wait… She narrowed her eyes in sudden understanding. This was expected. The woman had prepared for potential reactions. A test? This is a rusting test?
+
+Mistress Jenna’s stoic facade cracked slightly as she gave a little smirk, something that was not quite mirth dancing in her eyes.
+
+And she just saw that I realized that based on the fluctuations of my soul and aura…
+
+-Hey, I was trying to keep you level, but it’s hard when I’m rusting ready for violence myself.-
+
+Mistress Jenna nodded. “I see. I am glad that we understand one another.”
+
+Tala sighed, releasing a long-held breath, but not really able to fully set aside her irritation. “What was the point of that?”
+
+The other woman shrugged. “It was an easy way to test out three things.”
+
+Tala arched an eyebrow. “Oh? Please do tell.”
+
+Mistress Jenna shrugged. “I don’t see any reason to keep it hidden. Sure. First, your immediate reaction showed that not only do you see her as your daughter, you are genuinely attached to her. That is critical knowledge for me in this situation.”
+
+Tala grunted. That was… fair. The rusting woman could have just asked and watched for the truth of her answer, but Tala supposed that such wouldn’t have been quite so clear or definitive.
+
+“Second, the fact that you were able to rein in your initial reaction, and logically assess the situation sufficiently to realize I was testing you, tells me that you aren’t under some sort of compulsion, nor are you in any sort of altered state—whether natural or artificially engendered—with regard to the defense or disposition of the girl.”
+
+That was also irritatingly fair. Tala could see herself doing something like that. She supposed that she shouldn’t really have had such an emotional reaction. After all, it wasn’t like she—
+
+“Thirdly, I was actually speaking the truth. The death and destruction of this new entity would simplify everything for many people.”
+
+Tala’s eyebrow twitched. Alright, now. It’s back to killing time.
+
+-Hold on there, Tala. Let’s hear her out… then we can strike. To do it right now would be too expected.-
+
+Tala took a moment to consider before sighing internally. Agreed.
+
+Mistress Jenna chuckled. “Please remember that simple doesn’t mean good, Mistress Tala. Life is simpler if you never get married, never have children, and so on. It would be simpler to die as a child and never have to face the world as an adult, but that is not better. The simplest solution to remove a given disease is to kill everyone who is infected or exposed, but that simple solution is a case of the cure being worse than the disease. Do you understand what I am saying?”
+
+Can’t I just punch her a little?
+
+-No… I mean, she’d probably be able to take it… but no.-
+
+Tala sighed, pulling herself out of her inner, violent thoughts. “I hear you, yes. I’m not a fan of your methods, but I do hear you.”
+
+“Good. Now, we need to actually discuss your daughter. She is at once a liability and an opportunity.” Mistress Jenna took a sip from her own mug of dark liquid.
+
+Tala leaned back, finally remembering the coffee that she still held in her hand. She took a moment to marvel at the material as she’d gripped it quite hard in her emotional state, and it had endured it effortlessly.
+
+Mistress Jenna saw her quick inspection and smiled. “It’s made from a magic-adjacent clay, made into a ceramic through mostly mundane means.”
+
+Tala cocked an eyebrow. “Magic adjacent?”
+
+“Magic has enhanced it, but it does not sustain it, nor is it required for the material to remain superior to the mundane varieties. It is effectively ‘Refined’ clay.”
+
+Tala grunted. That actually made sense… possibly… in an odd sort of way. She did know of other ‘Refined’ materials, and how they could be used in various constructions and products. She just hadn’t ever considered their use in dishes. But that wasn’t really the point of their conversation. “I understand. Now, about my daughter?”
+
+“Yes. First, I want to assure you that her life will not be on the line simply from city defenses. We do not target anything with a gated human soul, such beings are excluded from being struck down by default. Vestiges are altered sufficiently to not create issues in this regard, thankfully, else an arcane carrying a vestige would be immune to our most basic protections. We further have layered checks with regard to human souls in general so that our gateless do not get struck down by mistake. From what Master Boma has provided, her soul is not so unusual as to fall outside of our standard expected tolerances.”
+
+She gave a slow nod, appreciating Mistress Jenna’s thoroughness with regard to her daughter’s safety.
+
+“Now, her physical appearance is only slightly at issue. Due to her non-standard makeup. She has a skin-analog that removes any obviously non-human joints or anatomy from easy notice. Because of that, the main problem is her head, specifically the soul-medium in the back of her cranium and the lack of hair. Her makeup is otherwise human enough to fall into the appearance of extreme albinism, which is hardly a cause for alarm. Even the subtle glow in her eyes is so mild—when it is there at all—that most mundanes shouldn’t notice it during the day. Albinism is not even something that is generally corrected when it presents in the average population. Despite their resemblance to white hue-folk, laymen don’t really know of such a race, so that isn’t an issue either. Her skin looking as it does, she would get some attention, but that is all. She might want to somehow color her lips, but it wouldn’t be required. With your permission, I would like to ask that Master Boma create a layer of hair-growth medium on his improved version of the soul-medium. That would disguise the construct, itself, and provide her with a more human-like appearance as a part of her true body. Another option could be trying to craft an illusion, but that could cause issues, especially if someone thought that a member of the black legion had infiltrated our cities in disguise. You could also confine her to Audel, but that seems counter to how you’ve lived your life thus far.”
+
+Tala was slowly nodding. “I will want to discuss it with her, first—Rane as well—but that seems reasonable. Is there a concern that her origins will still be obvious to those capable of seeing?”
+
+“They will be, yes, but we will circulate knowledge of her existence to those who might be able to realize her nature. That should at least give them enough pause that we will be able to avoid truly unfortunate encounters. At least for humans. You’ll need to consider the others that she might encounter as I have little insight into how they would respond.”
+
+Tala remembered an over-eager young mage hunter’s attempt to waylay Kedva. “Yeah, that would be best. Thank you.”
+
+Mistress Jenna set her mug aside and reached for an Archive slate. “So, I should tell him to go ahead, then?”
+
+Tala shook her head. “Not just yet. He is welcome to begin to plan for it, but please do not implement such until I’ve had a chance to discuss it with my husband and daughter.”
+
+Mistress Jenna regarded her for a long moment, taking a long sip before replying. “Very well.”
+
+Tala nodded once, feeling mostly relieved. “Is it that easy, then? We just need to find a way for her to fit in, and she’s fine?”
+
+The older woman held up her hand and waggled it back and forth a bit. “Mostly. We will want to do regular checks on her. If you agree to that, you all can freely visit any city in the Cycling Cities. There have been rumors of automata sightings in the wandering plains, but nothing concrete has turned up. Her appearance will likely cause a few more of those rumors, but a bit more close to home. That’s fine. If the rumors are true though…” Mistress Jenna sighed. “I don’t know what will happen. Most of the people with any sort of power are both reasonable and insightful enough that there shouldn’t be any issues, but she still might have to be careful about where she travels in the event of a true resurgence of the Black Legion.”
+
+Tala was still a bit confused, feeling like there was still another shoe about to drop. “That’s it? Really?”
+
+“I mean… Do you want there to be more? There will be some educational requirements, and it would be useful to test her for aptitude as a Mage, but beyond that? She should be like any other citizen.” She chuckled. “Even in those things, she is just like any other citizen.” Mistress Jenna nodded once. “Congratulations, Mistress Tala. You have a daughter. That is no small blessing.”
+
+Finally, the woman’s somewhat professional mannerisms fully fell away, and she beamed at Tala.
+
+“I’ve had ten daughters myself.” Her smile became a little sad. “None are around any more, but each was the source of uncounted, cherished memories. I still see some of their descendants on occasion, though most have simply blended with the populace by this point.”
+
+Tala blinked at the woman a few times, but then, she found herself leaning forward. “How do you do it?”
+
+That caused the Reforged to hesitate, a small frown creating a line between her eyebrows. “Do what, Mistress Tala?”
+
+“Cope? You’ve clearly lost a lot of people whom you love… How? How do you keep on?”
+
+A sad smile stole over Mistress Jenna’s features. “One way is to remember them. The time we had was short—relatively speaking—but it was meaningful. Each of them touched and influenced me and my husband deeply. We would not be who we are today without our children, both the girls and the boys. Our grandchildren too, and so on.” She chuckled. “I could list them out for you, or spend days telling stories from their lives, but that isn’t what you’re asking. I cope—I continue to keep on—because I have no other choice.”
+
+Tala frowned at that. “That’s… that’s not very comforting.”
+
+The older woman shrugged. “It is, and it isn’t. Why do you eat? I mean why do you eat at all, not why do you eat what you eat.”
+
+Tala shrugged in turn. “Because I have to.”
+
+“You don’t have any other choice?” Mistress Jenna smiled.
+
+Tala saw her point. “I suppose you could say it that way.”
+
+“I’m glad you see that. Now, does that make eating horrible and bereft of joy? Does that mean you are forced to endure a terrible task every time you open your mouth to consume?”
+
+She shook her head at the obvious silliness of that notion. “No. I choose what I eat, when, and how.”
+
+“Exactly. Once you accept the requirement of continuing, that such isn’t an ‘option’ but an inevitability, you can then approach that requirement in any way you choose.”
+
+Tala grunted. “Like eating.”
+
+“Very much so.” The Reforged shrugged. “That is how it makes sense to me. Not everyone would agree, but that is no concern of mine.” She gave a mischievous half-smile.
+
+“I… I think I understand.” Tala actually did. For some reason, she hadn’t really set in her mind that she had to keep going, keep living, keep moving forward. Even her question had revealed her underlying mindset. By leaving myself in that state of uncertainty, genuinely uncertain if I even could go on—because it seemed like too much—I was adding to my burden, my stress.
+
+Tala actually drew in a deep breath, and it felt like the first one in a long time. Her grief was still there, alongside her joy in regard to Lea—though that was somewhat tainted by a forward look at what might happen to the girl—but it didn’t seem so suffocating any more.
+
+Because I will keep on regardless. I may not know how, but I do know that I will. She took another deep breath. Just like my time in the arcane lands. I didn’t know exactly how I’d get free, but I knew that I would.
+
+-Yes. Exactly. Though, to be fair, asking someone as seasoned as Mistress Jenna how she has survived centuries might not be the best means of learning how you can do it. She simply sees things from a different perspective than you do. Time means different things to each of you.-
+
+That’s also true… Tala frowned.
+
+Mistress Jenna gave a comforting smile. “My means might not be useful to you, but I hope you take it to heart. Some let themselves drown in the passing of the seasons, the passing of those they care for. As a Paragon, you should be rather inured to that, simply by the enlightenments which line the path to that advancement, but no one is unscathed by the death of those we care for. Your Lea is alive now. Don’t let fear of losing her ruin the time that you are given, be it long or short in the end.”
+
+Tala nodded her head in deference. “I hear and will consider your words. Thank you, Mistress Jenna.”
+
+The woman waved the thanks away. “Of course, of course. Think nothing of it.” She hesitated. “As a final note, I mentioned earlier that Lea has the potential to be a boon in many ways. I sense that now is not the time to discuss that.”
+
+“I agree.”
+
+“Master Boma will likely be the best person to discuss that with you regardless. I am glad that we were able to have this chat.”
+
+Tala’s thoughts began to crystalize, and a few things stood out. She’d learned a lot of things from this short interaction, but one rose above the others. “I do appreciate your words. However, I must say one thing…”
+
+With a smile on her face, Tala stood, letting her presence begin to billow out.
+
+Iron bled onto the superficial, entirely overlaying the inside of the room almost instantly, not only blocking the easy activation of the magics that surrounded them—especially since the iron was blocking off the stone- and starward directions as well—but ensuring that Tala was at least on an equal footing with the Reforged before her in aura stability.
+
+Tala felt her own eyes blazing with red power as the air practically vibrated with magic.
+
+“You will not threaten my daughter again, no matter what gain you see in the act.”
+
+Then, like the blinking of an eye, the iron was gone, Tala’s features had returned to normal, and her aura was politely withdrawn once more.
+
+She smiled. “I’m glad that we had this chat.”
+
+Then, Tala gave an appropriate bow toward the woman, spun, and reached for the door handle.
+
+There was a slight swelling of presence behind her, and Tala sensed that Mistress Jenna wasn’t going to let her just walk out after her assertion without a response of her own.
+
+-Let’s not let this be a whole thing.- As the alternate interface communicated that, Alat willed reality iron to the superficial, and it flowed through the small air gap around the outside of the door, immediately breaking all magical connections. It also pushed the lock open, even as Tala turned the handle, ensuring there were no issues.
+
+There had been resistance of course, but with Tala right there, backed by her over the top density, and Rane and Enar’s wills closely aligned with Alat and Tala’s own, the action went forward with barely a hint of resistance. Thank you.
+
+-I do what I can.-
+
+Thus, Tala strode from the room, leaving Mistress Jenna slightly startled and bemused in her wake.

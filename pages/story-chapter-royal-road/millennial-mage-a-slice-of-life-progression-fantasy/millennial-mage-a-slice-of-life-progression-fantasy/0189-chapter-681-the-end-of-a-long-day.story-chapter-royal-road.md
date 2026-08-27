@@ -1,0 +1,245 @@
+---
+id: aa5426d9-0ba1-5ee9-b7ce-922a7acdeab1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 681 - The End of a Long Day"
+slug: 0189-chapter-681-the-end-of-a-long-day
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 189
+ownLength: 3023
+unit: words
+ownProgress: 3023
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3139780/chapter-681-the-end-of-a-long-day"
+royalRoadId: "3139780"
+markedReadAt: "2026-06-29T19:41:07.397Z"
+---
+
+Tala took a moment, while watching the Head of the House of the Frost Lance get situated, to manifest some of her iron strategically around the room where it couldn’t be visually seen.
+
+Through that, she solidified her hold on the area with her authority and aura. The manner in which she did it didn’t disrupt the auras or authoritative scope of anyone present, partially because that was her desire and partially because she claimed the space as the Eskau of War of the House of Blood.
+
+As such, those of the House of Blood were already under her authority, and therefore, experienced no change. For the two of the Frost Lance? They were already within the central hold of the House of Blood and they weren’t trying to subvert it. So, the House of Blood’s authority around them strengthening wasn’t a noticeable change.
+
+Still, it made Tala feel more comfortable in the presence of a Head of House whose members had already attacked herself, her daughter, and her husband.
+
+-Well… to be fair, you attacked them too.-
+
+Details. Tala mentally waved her off.
+
+-I mean… no? Those ‘details’ you dismiss are precisely what makes a thing self-defense instead of aggression.-
+
+Eh, they were being difficult. My attack was self-defense.
+
+-...You don’t even believe that… but fine.-
+
+The white hue-folk woman rested her elbows on her self created throne, her Eskau flanking her to the left, mirroring Head Corinis’s own Eskau. “Now, our Houses seem to be on the edge of… true difficulties.”
+
+Head Corinis huffed a laugh. “Yes, that is one way to put it. You were explicitly invited into Platoiri to be an opposition to my House there.”
+
+She nodded, not denying it. “And you tore down those I’d sent to establish that branch and confiscated the hold…” She gave a mirthful smile. “Forgive me, ‘dispersed’. You dispersed the hold as a service to the city after we’d relinquished claim to it.”
+
+Tala gave a nod. “True on all counts. I must confess, I do not know the various Houses well enough to know your name. Mine is Tala.”
+
+The woman’s smile grew. “I am Head Kori. Though, in your case, I believe Kori will be sufficient. How should I address the Eskau of War?”
+
+Tala nodded, following the underlying question. “Very well, Kori. You may address me as Tala for the moment.”
+
+“Generous of you.” The woman’s smirk grew.
+
+Tala shrugged. “My position does not require you to use the title. I already… How did you put it? …That’s right. I already tore down those you sent to Platoiri.”
+
+“That you did, including my nephew.” Her smile had faded a bit moving closer to a sneer of anger, though that faded back toward congeniality soon enough.
+
+Tala considered. “The Pillar? The armored one?”
+
+“Yes.”
+
+“He fought well. His Eskau tried to ambush my Child daughter, but your nephew seemed to have more honor to him.”
+
+Kori grunted at that. “I am glad you found him… honorable.”
+
+“I did. He fought quite well for his advancement. I asked him to leave, to let me pass as I was there on business for the Revered City Lord, but he refused.”
+
+Kori shook her head. “I saw the record.” She huffed. “You provided the record to my people. The House of Blood sent a runner with a magical storage device to catch my people before they could all enter the Doman-Imithe.”
+
+Tala held her face stoic. We did what now?
+
+-No idea. One moment… Huh. It seems that Pillar Sanguis decided to add to our plan a bit.-
+
+Reasonable if so. After a moment’s consideration, she nodded to herself. I’m actually glad he just handled that rather than telling us, or checking with us, or anything.
+
+-Yeah, it’s nice to have people working with us who know what they’re doing.- Alat also sent across a mental image of Lyn.
+
+Yeah, yeah. I’ll get allowance for the Irondalians to come out and get some trading done.
+
+-I do think they’d appreciate that, but I was more saying that you shouldn’t forget your friend.-
+
+...Fair.
+
+Tala had only taken the equivalent of a long breath to consider before returning her attention to the potentially hostile Head of House before her. She then smiled. “I am glad that it reached you. I did not know he was your family. Though, I won’t insult you by saying I’d have acted differently.”
+
+Kori huffed. “Indeed.” She then let out a long sigh. “The family is large, and while I liked him, I didn’t like him enough to condemn more of my family to a fruitless feud. He acted as he should have, and you acted better than you needed to.” She took another moment, clearly steeling herself for what she was about to say. “I thank you for the lives of my people. You took a hold with violence, against strong opposition, and yet you slew the absolutely bare minimum required to do so. That could be seen as weakness save for the manner of your victory.” She shook her head. “I am sworn to the protection and benefit of my people, and you helped me uphold that oath for that branch.”
+
+Tala shrugged. “We did not need nor want a new feud between Houses. We are preparing for a war the likes of which hasn’t been seen in hundreds of years, if not longer.”
+
+“Yes, I’ve been hearing about this more and more. The Black Legion?”
+
+Tala nodded. Head Corinis took the moment to interject, if briefly. “Indeed. The misbegotten creations of the past are returning, and we need to deal with them once and for all. It will require a new outlook, a new path forward, and Eskau Tala is the person we feel will be best able to bridge the old and new.”
+
+“Yes… the northern gated.” Kori was nodding slowly.
+
+“Exactly.” Head Corinis nodded. “We are somewhat stronger as a people than when last we faced the Legion, but that won’t be enough, even if they haven’t grown at all. The gated? They have exploded in both number and power. We of the House of Blood believe it is time to step forward as partners on the continent rather than continuing as hostile neighbors.”
+
+Kori’s smile returned, and she bobbed her head toward Tala. “So I can see.”
+
+“Indeed.” He smiled in turn, leaning back and obviously surrendering the discussion back to Tala.
+
+Tala leaned to one side, making a show of propping herself up on an arm, elbow on the opposite armrest from her helmet. “So, I think that brings us to the core question. What do you want here?”
+
+Kori’s smile shifted to a half-smirk. “You mean, why did I come here, personally?”
+
+“That too. Your House could have called Platoiri a loss and avoided the House of Blood going forward. We don’t have that many overlapping branches, and in the cities we have in common, we have very little interaction.”
+
+“That is how it is at the moment, yes.”
+
+Tala nodded, then waited. The question had been asked, the context given. Kori would speak when she was ready.
+
+The silence grew long before Kori finally sighed. “Opposition between our Houses would end poorly for my House, even if I were able to keep our Eskau from encountering you once more. Moreover, with the rising situation, avoiding your House would lose us too much influence and opportunity. I am not convinced the Black Legion are coming back.”
+
+Tala straightened in irritation, ready to correct the woman, but before she could speak, Kori held up a hand to forestall her.
+
+“One moment please, Tala.”
+
+Tala grudgingly nodded, leaning back to one side.
+
+“As I was saying, I am not convinced that the Black Legion is returning. The issue is, I don’t actually think it matters in the near-term. Whether they come back or not, the winds of opinion make preparing for a return a requirement. If they return, we’ll be as ready as we can be. If they don’t we’ll be better prepared to act and seize new ground for the House or for our peoples as a whole. There is much land—both claimed and not—ripe and ready for the taking. A build-up of resources and a honing of personnel can only benefit us going forward.”
+
+Tala found herself nodding along with the logic.
+
+“So, to actually answer your question? We want in. I want my House in on the war effort. You requested it of our Platoiri branch, and they refused. I have come here in person to agree on behalf of our entire House. Tala, Eskau of War, I formally request that the House of the Frozen Lance be counted as being among the first to join your banner.”
+
+Alat began to cackle with Tala’s head.
+
+What?
+
+-I’m just imagining them with white steel armaments. We’re going to need to find a snow-storm for them to fight within. They’ll be invisible!-
+
+Tala held back an internal laugh. That’s… That’s pretty funny to consider.
+
+-I know, right?-
+
+Even as she was chatting with her alternate interface, Tala rose to her feet, addressing Kori. “Are you certain? This is a matter of authority, and once confirmed, it will not be easily retracted.”
+
+That got an odd look from both the Heads of Houses. Right… they see this as tradition, not actually as something literal or based in the tangible or measurable.
+
+Thankfully, her words didn’t put the woman off, and Kori rose from her own throne, the ice fading from existence, leaving not even a puddle. “Will we be as any other House under your banner?”
+
+“You will.”
+
+“Then I agree. The House of the Frozen Lance officially declares itself under the banner of the House of Blood for the coming conflict with the Black Legion.”
+
+Thick ropes of connection and authority seemed to unspool from the woman, reaching for Tala, seemingly awaiting Tala’s response. Tala’s will reached out and seized them, even as she spoke. “I Tala, Eskau of War of the House of Blood, aimed at the defeat and destruction of the Black Legion, accept the allegiance of the House of the Frozen Lance for this coming conflict. You shall be as those of my own House, lives safeguarded, resources properly utilized, honor given.”
+
+The connections snapped fully into place, suffusing Tala with additional layers to her existing authority. At the same moment, she got a vague sense of the warriors of the House of the Frozen Lance, just as she did of those of the House of Blood.
+
+Oh… I’m going to have to get these oaths from every Head of House allied with us, won’t I… It wasn’t really a question.
+
+-It seems so, yup. That sounds like a blast! I wonder if it can be done at a distance?-
+
+That… That would be convenient if so, yeah. Tala smiled down on the hue-folk woman and her Eskau. “Welcome to the war, Kori. May your lance strike true.”
+
+The Head of House bowed appropriately. “Thank you, Eskau of War. May you guide us to victory both swift and thorough. We will be in touch for your instructions going forward. I wish you a good evening.”
+
+Head Corinis stood, and the two Heads of Houses exchanged bows before the woman departed. When the doors closed behind her, he turned and glanced toward Tala. “Do you regularly take enemies and make them friends?”
+
+Tala frowned, considering for a long moment. “You know what? I think I do… A man tried to kill me—tried to put a knife into my heart—and we became fast friends, and there was this terror bird who just couldn’t figure out how to take a bite out of me…”
+
+She trailed off when she noticed that the man hadn’t actually been asking her to itemize.
+
+“Ahh… Suffice it to say, this isn’t that out of the ordinary.”
+
+He grunted, shaking his head. “Wonders never cease.” He shrugged. “That should be all for the day. I do not need you here tomorrow, especially as you have quite a few other tasks to be about, but if you find yourself with any free time? I would welcome you here at any point. I do think that those who will be of interest to you were properly concentrated within today’s session.”
+
+They exchanged bows. “I will keep that in mind. Thank you, Head Corinis.”
+
+“Of course, Eskau Tala. Good evening.”
+
+“Good evening.”
+
+* * *
+
+Tala flopped down at her dining table with a groan.
+
+It hadn’t been a hard day per se, but it had been a full one. Moreover, it had been exhausting in that she’d had to deal with a lot of various people in rather tense social situations.
+
+No… not tense. High stakes? Yeah, that was it. She’d felt like she was on the edge for most of the day, where any wrong word could make things difficult. Even when she didn’t need to say or do anything, she then had to be sure not to say or do anything
+
+She did not like such tasks or situations.
+
+Still, her day wasn’t done.
+
+Rane and Lea would be ready for dinner in about an hour or so, but until then, she had someone else to talk with.
+
+A moment later, Lyn flickered through the superficial—the world-fragment really—and into the sanctum, taking the chair opposite Tala. “Well, long time no see.”
+
+Tala instantly felt guilty, and her expression must have shown it.
+
+Lyn’s expression immediately softened. “I didn’t mean that as a reprimand, Tala. It has been a long time, but you’ve been unbelievably busy. There were times here and there that you could probably have fit me in, but you need downtime the same as anyone else. I appreciate that you made this time for me.”
+
+“I am sorry that it’s taken this long.”
+
+Lyn waved the notion away, willing a glass of wine into her hand. “I think we’ll be fine. There’s been plenty for me to do, and honestly? There wasn’t much for you to help with. Alat’s been keeping me informed, and I know we have much more coming down the pipeline.”
+
+“We do, but we are also now in a place that we should be able to let the merchants out into Croi, at least a bit.”
+
+Lyn seemed to relax at that, taking a sip of wine, clearly enjoying it. “That’s good to hear. They’ve been… understanding, but I can tell they are chomping at the bit to get out and get trading.”
+
+Tala chuckled. “I can imagine. We’re also going to be hosting a slew of experts for the hold warden project.”
+
+“I’d heard… but…” Lyn blinked a few times, clearly gathering her thoughts and choosing her words. “You’re going forward with that?”
+
+“We’re going to try.”
+
+“What about the limitations?”
+
+“Well, the largest one is the hold itself. The expanded dimensionality needs to be bound through a sentient medium. A devourling was my method, but they aren’t the only option.”
+
+Lyn began nodding. “Right… There are actually quite a lot of creatures that are able to create, manipulate, or otherwise connect with expanded or extra dimensional spaces.”
+
+“Exactly. We’ll need to narrow that down to those who actually claim the space rather than just using it, but that should give us a good working set to start with.”
+
+“And the onboarding of the new Mages?”
+
+Tala shook her head smiling. “That’s what I realized, what really made the path forward theoretically possible. We don’t want to make them Mages. We have specialized sets of inscriptions provided by Mistress Holly—bless that woman and her love of interesting puzzles. They’ll have to be custom fit, but otherwise, they should be good to go. We aren’t training them in the fundamentals of power; we are teaching them intricacies of one spell-set. If anything, they will be like the Talons.”
+
+Lyn’s head rocked back, eyes widening in understanding. “Oh! You’re giving them a specific skillset. It’s more limiting than the Mage path, but a vast improvement over becoming a vestige.”
+
+“Exactly. With specific training, and by removing most of the ancillary things, we should be able to push them to binding in less than a year.”
+
+Lyn frowned. “That… that’s going to have a high attrition rate.”
+
+“Yes and no. I suspect that the simplified powerset, and unified way of thinking that will be pushed, should reduce—if not eliminate—the danger of founting. Records indicate that gated humanity tried something similar near the beginning to great success in some regards. Unfortunately, very few people excelled under the incredibly regimented system, and it hampered creativity and the pursuit of individual, foundational beliefs.”
+
+“They decided freedom was worth the cost.” Lyn intuited.
+
+“Indeed. I’m… uncertain about how the final plan will look, but even so, we are effectively dealing with a condemned population. We are going to do our best to increase the odds, but any saved will be an improvement.”
+
+“I suppose that’s true… I still don’t like it.”
+
+“I don’t either, but the alternative is going slower, and letting many, many more be turned into vestiges elsewhere while we stand on the moral high ground, here.”
+
+Lyn grimaced, slowly shaking her head. “Tala… that’s a slippery slope. We can’t control what others do. We can control what we do.”
+
+Tala grimaced in turn, summoning her own glass of wine. “I know, but… I’m trying to balance so many concerns, Lyn.” She looked pleadingly at her friend. “Help me?”
+
+Lyn’s smile returned. “Absolutely. Come on. I’ll help you organize your notes, and Brandon and the others can begin digging through tomorrow. You said you have experts coming?”
+
+“We do, yeah. They should start arriving in the next few days, the first ones should be here tomorrow.”
+
+“Alright then. Let’s get your side of things ironed out, then we can pass it to ‘great minds’ and all that.”
+
+Tala’s smile returned as well. “Thank you, Lyn.”
+
+Lyn waved her off. “Yeah, yeah. Come on. Let’s get to work. We both have husbands we want to be with. Hop to, Mistress War Eskau!”
+
+Tala chuckled. “Yes, ma’am.”

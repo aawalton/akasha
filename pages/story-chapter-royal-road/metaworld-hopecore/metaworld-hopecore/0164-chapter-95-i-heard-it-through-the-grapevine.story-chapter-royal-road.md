@@ -1,0 +1,289 @@
+---
+id: 60d85f10-f550-5f44-a67b-1c29ba97f56a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 95 - I Heard It Through the Grapevine"
+slug: 0164-chapter-95-i-heard-it-through-the-grapevine
+partOf: metaworld-hopecore
+position: 164
+ownLength: 3151
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3861282/chapter-95-i-heard-it-through-the-grapevine"
+royalRoadId: "3861282"
+---
+
+“Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny.”
+
+William Shakespeare Hamlet
+
+At the end of her first night as a nepo intern, Euphemia Fontaine exercised an old habit from the yesteryears of her former life.
+
+She ran.
+
+In her twenties, Lana had done her post-collegiate stint in NYC, first at Chase, then at McKinsey, before moving into M&A with private equity. She had shared a two-bedroom with two girls in a fancy flat on 81st, doing what influencers and run clubs would popularise in the late 2010s: The Central Park Circuit.
+
+Switching to cheap running clothes, she went down the service stairs and out the Fifty-sixth Street side at twenty past seven, ran north up Fifth Avenue glowing golden on its western side and blue-grey down its eastern, keeping to the shade. She slid past Tiffany at Fifty-seventh with its windows lit for nobody.
+
+Grand Army Plaza came up smelling of horses.
+
+She came up to a Pulitzer Fountain swarming with tourists. She went round it anticlockwise like a seasoned old New Yorker.
+
+Past the Scholars’ Gate, the park took the sound out of the city like a hand over a mouth, which… in hindsight, was a poor analogy. She was sweating now, her hair plastering to her cheeks, but the traverse up East Drive with the light through the trees was just sublime. She relished the familiarity of the Pond on her left, then Wollman in its summer colours, then the Zoo at Sixty-fourth, then the Mall at Sixty-sixth, then Bethesda.
+
+It felt, for a liminal moment caught between her breaths, like she might burst through an intersection and arrive in her original universe.
+
+She passed Conservatory Water at Seventy-fourth, waved at Alice on her bronze mushroom with three children comically attached. Finally, crossing the lawn, she saw The Delacorte, low and tented against a burnished sky, ready for the lighting of the lamps.
+
+There were already several hundred people present, all carrying blankets and paper bags and cheap wine and cushions from home—walking west across public grass in the last light to watch a theatre that had been free every summer since 1962.
+
+The current showing was Hamlet.
+
+Eppie took note.
+
+She proceeded past Greywacke Knoll, and the Obelisk, and the back of the Met at Eighty-second. That was the top of her journey home.
+
+She turned, and came down the east side with the light still warm and hazy, and went out at Inventors’ Gate on Seventy-second, and slowed to a walk on Fifth with her heart going and her shirt soaked, north for one block, east half a block.
+
+Then… she was home, punching the door code to an estate older than half of the city.
+
+Thus concluded day one of Eppie’s life as a New York returnee.
+
+Saturday.
+
+Breakfast at the Vaughan House was served at 6:30 AM sharp. At 7 AM, George brought up the papers of the day, laid in neat arrays on the marquetry side table, where the natural light was best. The Times. The Journal. The Post.
+
+To Eppie, Vaughan’s morning ritual was an unexpected opportunity to influence her benefactor. Each paper presented an instrument of forewarning. On Friday, crude had gone up ten dollars, the Dow had come down three hundred and ninety-four points, and unemployment had hit five-and-a-half per cent.
+
+Eppie deliberately placed the headlines beside Vaughan, then spoke to her at length about Curon’s music business.
+
+“Mm,” said Vaughan, without looking up. Absently, she picked up the paper Eppie had arranged and read from where her ward had grown bored with economics.
+
+That was the whole of it. The game.
+
+At 8 AM, Juliana had work—she always had work—so Eppie kissed her not-patron goodbye and proceeded with her own business.
+
+She packed an airy summer dress in a loaded K-Mart backpack from her LAPA year, then ran in the park with the June light coming in flat and gold along the reservoir path, smelling of wet stone until she came to the place.
+
+The place where Kiritani’s famous cats hung out.
+
+She knew that, in the morning, before the park filled with tourists, she would find them as they were, because it was hard to teach an old cat new sleeping spots.
+
+They came out from the bushes, three of them, and a fourth that hesitated at the edge of the trees.
+
+“Kimi!” Eppie gushed, her hands quickly moving to open the cans of cat food she had bought.
+
+“Meow?” Kimi emerged with her new gang.
+
+After a fulfilling meal, Kimi leapt onto Eppie’s thighs and allowed herself to be gently massaged.
+
+Eppie crouched there, heedless of the wet, and performed her duty as handmaiden to the cats of Central Park. She briefly thought about her Sensei—the old man who had been here for five decades, stroking the cats—and wondered where he was, and how he was doing.
+
+Vaughan had told her that the exhibition was a resounding success. After the initial glut, they were holding steady at twelve thousand visitors a month, split between local and international attendees.
+
+She told her that Kiritani-sensei still helped to curate his collection at the Met when his stamina served. He still made art, small sketches of cats, and gave them out like he used to on the streets.
+
+Eppie had expressed a desire to visit Kiritani, but their last parting had been so final that she wasn’t sure if she should. Vaughan told her that, if Kiritani-sensei also wished to see Eppie, she would arrange it without delay.
+
+Kimi purred like thunder on her lap.
+
+“Have you seen Kiritani-sensei?” she asked her sensei’s old companion.
+
+“Meow?”
+
+“You and me both, Kimi…”
+
+Should she visit Kiritani without his permission? Surprise him, perhaps? Maybe she could bring Kimi. She could wear Kimi over her head as a cat-hat, make a kawaii expression, and say “We both missed you, Kiritani-san!”
+
+Or she could respect his wishes.
+
+Considering just how much was on her plate—Eppie chose the rarer virtue of not acting presumptuously.
+
+Central Park. The Boathouse Café.
+
+Valorie Sanders, newly enrolled at Guilliams, felt a strange thrill when Sir Woodhouse informed her that Eppie was no more than a Central Park away at all times. Between her new school, her new apartment, Sony City and Dame Vaughan’s manor, they formed a diamond with Central Park in the middle.
+
+She was doubly thrilled when, only a few days into her lessons at Guilliams, Eppie emailed her to say they should meet up for coffee.
+
+And so, Valorie braved the mediocre reviews of the Boathouse Café to await her friend, right after her private lessons with Signora Bertani, her vocal coach.
+
+She was mid-scroll through Vogue’s spring catalogue when Eppie came into view, her balayage highlights utterly out of place in NYC, marking her as an out-of-water valley girl. Valorie stifled a smirk when she saw that Eppie wore a summer dress that probably cost less than the luncheon they were about to share, but looked, as always, a million and one dollars.
+
+She stood. A dozen pairs of eyes shifted as if by supernatural command toward her statuesque figure. Ignoring the gaze of the friendly guests, waiters and tourists, she pulled Eppie into a tight embrace, lifted her off her feet, then stroked her blonde curls like she had done to Andrew Garfield that morning.
+
+The attentive staff brought them sparkling water with ice and lemon wedges while they shared light-hearted tales of their new homes. Valorie laughed until she had to fan herself with the menu after Eppie told her about Director Davis’s warning. When the mirth cooled, Valorie remade her case for Eppie to attend the august halls of Guilliams.
+
+“Come to my school,” Valorie blurted at her Sophomore, then recalled she had meant to build up to it.
+
+“Val…”
+
+“No, listen, I’ve thought about it properly.” Valorie’s face was warming up. “Admissions will love you. You’re a Grammy winner already. You’ve got a great catalogue. We’ll basically be in the same intake year, we’ll…” Valorie held her friend’s hand and hoped that her sincerity was being transmuted, even as she grew conscious of her rhetoric. “I think it’s meant to be.”
+
+Eppie did not nuzzle her back. Her stray was unmoved by the offer of shelter and board.
+
+She shook her head. Valorie deflated. The finality was what stung the most.
+
+Nonetheless, Valorie did her best to extoll the virtues of her new institution. Forty-one Tonys. Twenty-two Academy Awards. Thirty-eight Emmys. A hundred and six Grammys—she said that one twice. She told Eppie that eleven Broadway houses that season had a Guilliams graduate in the cast. Two thousand applied to Musical Theatre last year. They took nineteen.
+
+And then, threading between her desperation, Eppie asked:
+
+“So how’s the Martin kid doing?”
+
+“Who?” Valorie’s mind drew a blank.
+
+“Martin.” Eppie made a small gesture. “Fourteen, Ontario, sings. One of yours.”
+
+“Mine?” Valorie racked her brain. “From Guilliams?”
+
+“From Universal,” Eppie corrected her.
+
+“Say that again?” The voice that answered wasn’t Valorie’s, but a man who insisted on wearing long pants in the godforsaken NYC summer, on a Saturday, next to a lake.
+
+Sir Woodhouse was standing at the end of the table with his coat over his arm. Like herself, Woodhouse lived not far from the park. In fact, it was he who had signed her lease. Ergo, Universal’s boss being here of all places shouldn’t be too surprising—though Valorie certainly felt flatfooted by the interruption.
+
+“Good afternoon, Sir.” Valorie stood, because she had been taught to from a young age, and tried to curtsey.
+
+Eppie merely looked on with suspicion.
+
+Sir Woodhouse bid her sit, then seated himself at their table.
+
+“Miss Fontaine. Could you repeat yourself?”
+
+“Martin,” Eppie said.
+
+“Martin who?”
+
+“You know who.” Valorie watched Eppie roll her eyes.
+
+“I certainly do.” Woodhouse nodded. “But… no more than a dozen people are aware of the contract we have just signed with young Martin. It was finalised Friday. The news won’t break until Monday morning. And yet, I find you here, with my Valorie, speaking about something my VPs are not privy to.”
+
+“I heard it through the grapevine,” Eppie smirked like a very mischievous cat.
+
+So cute… Valorie could not help but be charmed. Cuter than Andrew Garfield…
+
+“Really now?” Sir Woodhouse’s question was rhetorical. “Your father didn’t plant a mole in my high command, did he?”
+
+“Your high command, sir?”
+
+“I mean, seeing as we’re at war.”
+
+“Well.” Eppie placed her adorable chin in her adorable hand. “Well, Sir, as Universal is the senior power, that makes you Germany.”
+
+Valorie looked from one of them to the other.
+
+“Very funny, Miss Fontaine.” Woodhouse clapped once, without a flicker. “Knowing that you’re Japanese.”
+
+The two laughed. Valorie laughed a half-beat later, not fully understanding the exchange. They suddenly stopped laughing. Valorie stopped a beat too late, perceiving only the static electricity between her mentor and her friend.
+
+“Since we’re being direct…” her mentor circled his wagons, drawing his considerable wit about him. “—here is what I think. I think you want something for that boy, and you cannot have it, because he is ours. Yes?”
+
+“That’s one way to put it,” Eppie said.
+
+“What do you want?”
+
+“Oh… nothing serious,” Eppie shrugged. “If you recall, he became famous while singing my song. Better. He is karmically tied to Valorie and me. We’re like… his fairy godmothers.”
+
+Valorie felt that there was no disputing this logic.Her mentor’s subsequent expression was far more difficult to rationalise.
+
+“Look, I am not asking for much. I want Universal to treat him nicely. Not just chew him up and spit him out. Raise him, not just use him. Real teachers, not some tutor. His mother on payroll, with her own room and an independent lawyer. His money in a trust nobody can reach, including him. Nothing about girls until he’s older than the girls buying it. He plays on his own records; guitar in the frame, not an advert in a booth. Ethical working hours, not legal—ethical...”
+
+She stopped. But that wasn’t the end.
+
+“And when his voice breaks—because that’s nature—you retrain him and give him time.”
+
+Sir Woodhouse stared. Clearly, like Valorie herself, no one had actually expected Eppie to have a list of demands, especially on behalf of someone she had never met.
+
+“I did not realise my colleagues had signed adoption papers…” Woodhouse said dryly. A second later, Valorie recognised the cogs turn behind Sir Woodhouse’s eyes. “But… all is not lost, I suppose. If we cannot expect a No.1 from Mr Reiber anytime soon—then we’re happy to receive one by proxy.”
+
+Valorie’s already large eyes grew larger as her gaze darted between her teacher and her junior.
+
+“Write Universal a No.1 for your friend here, and I will treat Martin like my own son. In the meanwhile…” her mentor sighed. This time, he did glance at her. “In the meantime, I’ll speak to my colleagues about proper schooling.”
+
+Valorie put her cup down. She knew Sir Justin Woodhouse. If he could say it, then he meant it. He would not say it in front of her otherwise.
+
+Eppie, for once, was no longer mewing.
+
+“Well, that’s the trade.” Sir Woodhouse, seemingly satisfied, stood, put on his coat, told Valorie her Tuesday had moved to Wednesday, then bid his lovelies beside the lake goodbye, all in one uninterrupted sequence.
+
+The girls sat there a while, looked on by onlookers. Someone, somewhere, snuck a picture. Valorie guiltily wondered whether she should take a picture of sad Eppie to use as her wallpaper.
+
+“I’ll look after him,” Valorie promised, even though she wasn’t Universal management, and all she could do was lend a sympathetic ear. “We’re… his fairy godmothers, right?”
+
+“We are indeed,” Eppie sighed, then forced a smile back onto her face. “And we shall play our parts…”
+
+The Belmonte Building.
+
+Like a trodden kitten, Eppie went straight to her bulldog father to snitch on the bad man who tried to take advantage of her tender heart.
+
+She told it in order. Val, Martin, the contract.
+
+Then, the offer.
+
+Her father listened to the whole thing, then Googled the kid’s YouTube channel. He watched the video of Better, then grew contemplative.
+
+“Fourteen?”
+
+“Fourteen.”
+
+“Poor?”
+
+“Single parent.”
+
+“Widowed?”
+
+“Divorced.”
+
+“Mm.” Curon scratched his unshaven jaw. “Okay. First things first. Calm down.”
+
+“I am calm.”
+
+“Sure you are.” Her father made her sit on the spare Herman Miller. “Look—Woodhouse is an ass, but he’s not a bad dude. Additionally, Martin isn’t signed by Woodhouse.”
+
+“I know.”
+
+“I don’t think you do. Woodhouse isn’t the problem, but you’re telling me like he is.” Curon leaned back. “He’s a snob, and he’ll take your artist from under your nose, but if he shakes on a thing, the thing happens. If Woodhouse says he’ll look after that kid, he’ll at least put it in his schedule.”
+
+She pouted. She knew precisely what it did to Curon and did it anyway.
+
+“But Woodhouse doesn’t own Universal,” Curon shifted in his chair. “Well, he’s got six per cent of it, but the point stands. He’s C-suite. Sir Justin has a duty to turn a profit.” He turned a hand over. “Like us, Universal is a business. It’s got quarters. When the numbers don’t go up, people get fired.”
+
+I know it's business… Eppie sighed. If I could do business. I would have bought Universal within the decade. “Should I have nabbed the kid?”
+
+Her faux-father laughed—not unkindly, though she still felt like shit. Eppie could see that her father liked it when her prescient teen genius persona grew flustered. “If it helps, I can confirm Trent would treat the kid no better—and if he did, it’s because you promised a No.1…”
+
+Eppie’s expression told Curon everything going through her head.
+
+“You’re frowning still. Okay. Can I be brutally honest with you?” Her father sat upright.
+
+Eppie nodded.
+
+“I’m glad the kid’s not our problem,” Curon’s voice was firm and careful. “I don’t want to be stuck between you and Trent. On one hand, Sony BMG is my company too, not to mention Trent has already established our red lines long ago. On the other hand, it’ll break my heart to see you unhappy. Can we balance the act? Can we balance instrument training, vocal training, songwriting, transport, costumes, marketing, artist management, touring… TAXES, with an ultra-generous contract? No. Besides, if I adopt this kid. What about the next kid? And the next? You’ve been to level nine. There are two dozen trainees there, slaving it out right now. Don’t they deserve a generous contract? So… no. I don’t want that kid in this building either.”
+
+The room was very quiet.Eppie felt repressed. She had never had to deal with these bullshit feelings in M&A.
+
+“So what fixes it?” she asked.
+
+“Quitting,” her faux-father said. “That’s it. That’s the only cure. Martin goes home, finishes school, plays with his friends, and puts covers up on the internet. Gets hits, gets views, gets a decent GPA. Maybe, when he’s older, he partners with YouTube and makes it on his own terms. Gets married. Gets a house.” Curon studied her face. “Is that so bad? That’s the American Dream, ain’t it?”
+
+“But…” Eppie felt her frown pulling every individual muscle in her face, far more acutely than ever before. Was this the effect of [The Facial Landscape]? “He wants to be an artist.”
+
+“That’s not… exactly correct,” Curon shook his head. “The boy wants to be you. He wants to be famous. He wants to stand outside the multitudes and sing. That’s not a defect, Eppie. Wanting it isn’t a sickness. Some people are supposed to be up there. Some people feel that life is unbearable if they’re not up there, so please don’t make that face.”
+
+Eppie spent a dozen [Causality] and felt her own face settling into placidity.
+
+“But the dream isn’t free, and it’s never been free, and it doesn’t go on sale. You want the fame. You want the SCALE. You pay. You don’t pay once, either. You pay in instalments. Childhood first. Then health. Then sanity. The returns, however, can be very lucrative.”
+
+“Am I paying it?” It came out before she could control her face again.
+
+Her father didn’t answer straight away. He got up, moved a cable that did not need moving, and poured himself a drink from the alcohol cabinet.
+
+“Maddy called me,” he said.
+
+“Okay…” Eppie felt the shift in atmosphere.
+
+“There’s going to be a great deal of unsavouriness in the coming days,” Curon sipped the bourbon. “You, of all people, I trust to be able to deal with this. You took down William Chen. You took down LAPA; this… is small potatoes.”
+
+Eppie read her father’s awkwardness at once.
+
+“Someone published the photo in our lobby, didn’t they…”
+
+“Yeah…” Curon looked apologetic. “That they did…”

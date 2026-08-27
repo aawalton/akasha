@@ -1,0 +1,113 @@
+---
+id: 1debf476-b363-54ce-9864-3f10d1eb6a7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145 Leaving the Academy"
+slug: 0158-chapter-145-leaving-the-academy
+partOf: melody-of-mana
+position: 158
+ownLength: 1900
+unit: words
+ownProgress: 1900
+publishedAt: 2022-06-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/927510/chapter-145-leaving-the-academy"
+royalRoadId: "927510"
+markedReadAt: "2026-06-29T22:31:18.370Z"
+---
+
+I stood before my mirror in the clothes that would serve as my under layer before graduation.  The black quilted cloth hugged my body tightly like a second skin, warming and comforting as I prepared for my big day.
+
+"Nervous miss?"  My maid asked, standing to the side.
+
+"A bit if I'm honest, but nothing for it."
+
+"That's the spirit, come now, let's get you ready."  As she spoke she pulled the first piece of armor off of it's rack.
+
+My armor was that which I'd been given years ago after the attacks that left me still a bit nervous during storms.  There had been a few small changes for this occasion, but nothing that would disturb the enchantments.  It now shone black, with a few decorations indicating my place and the like in my class, a deep green with small golden threading.  Here and there were a few spots that had been scuffed and damaged over the years, but in this world that wasn't seen as a mark of shame, it merely showed that I'd seen combat.  What armor would suit me better than that which had seen me through battle already and out whole to the other side?
+
+Based on her expressions I thought the girl dressing me was having a great time acting like a squire would for any knight.  Save after the armor went on she had to do up my hair in a severe updo to fit under my helmet, an item which I would carry until we reached the field.
+
+Our class was small, well, compared to the graduating classes from years ago we were larger, but I still compared this to my own high school from my past life.  Here our numbers ranged in the hundreds, and not high in that.  As I reached the staging location it was easy to see and put a name to all of the faces, all of those who'd seen our way through this academy together.
+
+Before long we made our way to the arena, standing there in the bright winter sun.  I hadn't noticed during Dras' graduation, but they must have used magic to both heat it and remove the snow that was beginning to fall at this time of year.  While I remember the stands being a bit chilly the area we were was not so.
+
+A few short speeches later and a handful of names and I was called to the front.  My heart pounded as I took the stairs one by one to the podium where our dean stood, the smiling man reaching out and tying around my waist a midnight black sash.
+
+As he did so I let my eyes move up a bit.  I hadn't looked for my parents before, not wanting to fidget, but there they were, sitting right on the front row and smiling.  My brother and his shit-eating grin right beside them.  Directly above and behind I saw Dras, Lucien, and of course Mystien.  They'd have to have pulled a lot of strings to get that many in, and thankfully they'd stood right in line with my family, someone had thought of the perfect positioning.
+
+Before long the ceremony was over, my family meeting me as we all left, walking along the path that led to our carriage.
+
+"You look good in that armor dear, it suits you well."  Dad said as I approached him.
+
+"Trying to recruit me to the army?"  I raised an eyebrow as I walked up to give him a hug.
+
+"Never.  I don't want you to have to see battle again, not ever again.  Though that capture unit you escaped has made offers..."
+
+"I'll pass on that."  I shook my head, the army wasn't a place I wanted to go, not now, not ever.
+
+"Good, let's go to your party then."  With that we all piled into the carriage, one of the plainer ones, and it shot off down the road.
+
+The ride seemed to go on and on, and I was getting a bit confused as we finally stopped.  It shouldn't have been that far to go to one of the eateries in the upper city.  When the doors finally opened I understood.  My family had guessed, and quite correctly, that I might enjoy a bit of a different party than some fancy ball, and they'd brought me to the perfect place.
+
+The Starlit Sky stood there, as it always had, with one change.  A small sign by the door indicated that the bar would be closed for the evening for a private event.  I nearly ran up the stairs to my once home and flew inside to see the smiling faces of all of my friends.  Some of them wouldn't have been comfortable in some noblesque restaurant, but here they were spread out chatting.
+
+The staff had gone above and beyond with the food.  Between them, and my parents they knew all of my favorites, the soups and roasts that I liked best, a light herb salad, all ending with paw paw ice cream.  I was told the last bit was my brother's idea.
+
+We sang and chatted, told stories, and as we did I looked around.  I couldn't help but notice a few of the changes.  Everyone was decidedly older, I'd known some of the people here for most of my life and hairs had grayed, skin had developed new wrinkles.  Dras and Charles were both way different than they'd been as boys.  If I wasn't mistaken Lude, The Sky's cook had a bit of a bump, I suppose her marriage to Jackson was going well, so to did a rather familiar looking redhead who was hanging off of Mystien's arm.  Have to figure out who she was later.
+
+After a short time Kala made her appearance.  She'd had her own celebration to go to and looked a bit awkward joining mine, but we quickly pulled her in, letting her jump in on all of our fun.  After a few moments of her being strained I pulled her to the side.
+
+"I'm glad you came."  I gave her a smile as she moved beside me.
+
+"Yeah... it's good to be here."
+
+I had a few things I could have done.  We could have had some mopey, sad talk, or perhaps made up and... No, both of us knew that in this society, at this time, there would be no long term future, and there was no need to go through that pain again.  I did still care for her though, so instead of bringing the mood down...
+
+"Hey, I hear Pinea's throwing a party tonight, you coming?"  I gave her my brightest, most inviting grin.
+
+"Of course, who would miss that?"
+
+With a few words we gathered up our peers and headed upwards into the city.  I think my parents had known this would happen and prepped a carriage, because we had no issues on that front.  The small black vehicle rolled and rolled, and eventually stopped in front of a massive house that was clearly our destination.
+
+It was clearly our destination because of the many lights and loud music emanating from the structure.  I'd thrown a party, but Pinea, that night Pinea put on a rager that would have made the most debaucherous fraternity proud.  She had learned from my good example at least and a number of casters were periodically curing poison, particularly for those leaving the main room.  No worries about roofies or anyone being too drunk here.
+
+I crashed in one of her spare rooms, of which there were many.  As I made my way out the next morning I found that I was not the only one who'd failed to make it home, sleeping, and sleepy people were strewn about the first floor of her mansion, some stumbling out of rooms, some on couches or the floor.
+
+Before long a disheveled Kala made her way out of a nearby room, and not alone.  As I went to see her the young man she'd been in there with blushed and rushed off to busy himself.  She was nearly laughing as she joined me.
+
+"Have a good time?"  Pinea said as she appeared beside us, pulling us in and making wiggly eyebrows at Kala.
+
+"Yes actually, I did," the priestess responded.
+
+"Excellent!  So, um... I may have underestimated one or two things, don't suppose I could ask for a bit of help?"  The looked at the mess of people.
+
+"Sure."  It was no skin off my back to cast a few spells.
+
+"I suppose that's a reasonable request."  Kala looked at all the mess.
+
+"You work on the hangovers while Pinea and I take care of breakfast?"
+
+"Sounds good."
+
+A few moments later a small table of bread, cheese, jam, and lots and lots of water was set up and people were slowly making their way over to nurse themselves before returning home.
+
+A few days later I reported to my first day working for Mystien.  I still had to go through his insane security protocols, something that I was told would be run every day that I came in.  The facility was too secure for all of that to be waved for any reason.
+
+It had grown since I was last here, either that or I'd only been shown the barest amount of it before, I was unsure.  We passed room after room with perhaps a dozen others working for the old mage working on various tasks.
+
+"So... what am I doing exactly?"  I asked as he led me to a smaller room with a desk and a number of tools.
+
+"For now I need you working on a few different tasks.  They tell me you're good at rune sequences so I'd like you to go over a few that we're having issues with, those are nothing too major, but tools we think we'll need and need to be made on site.  Other than that I need you to catch up with our current state of affairs."
+
+Great, get out of school for more education, and what sounded like apprentice work.  I raised an eyebrow at him.
+
+"So I'm just making items?"
+
+"For now," he glared.  "What do you know of the mage Ristolian?"
+
+"Not much, he was supposedly a genius wizard who did some really impressive magic, including... Am I allowed to talk about that here?"  He was also probably from another world, just like me.
+
+"You are, this facility deals with a number of things, but those gates are our biggest project.  Everyone here knows, and is secure to know.  Good on your for making sure.  Yes, Emperor Durin's home was also built by him, as you might have guessed, and there were a number of things there that have been... mysterious, but useful.  A lot of writings and important bits on rune sequences particularly."
+
+"And I need to go through those, and I'm guessing some of your notes, to understand your work?"
+
+"Correct.  After that... well, some of the things we've found indicate that Ristolian didn't write everything down, particularly not some of the more important bits involving the Alcubierre Gates.  He did on the other hand leave information about where he learned some of his secrets.  The expedition isn't ready yet, won't be for another year or two, but I'll need people I can trust on that one.  Are you interested?"

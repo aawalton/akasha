@@ -1,0 +1,81 @@
+---
+id: 1ed062bf-166a-5434-8a3d-765620e61c51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127 Democracy and New Spell"
+slug: 0140-chapter-127-democracy-and-new-spell
+partOf: melody-of-mana
+position: 140
+ownLength: 1875
+unit: words
+ownProgress: 1875
+publishedAt: 2022-05-01
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897977/chapter-127-democracy-and-new-spell"
+royalRoadId: "897977"
+markedReadAt: "2026-06-29T22:30:40.949Z"
+---
+
+I attended a number of different events, mostly alone. In the time moving up to the wedding there were gatherings of casters, exhibitions of local foods, there was even a small tournament that I went to to cheer on my brother. It was a party like atmosphere, rather like a festival from back on earth.
+
+Today I found myself sitting in one of the fortress' gardens watching a handful of people try to make art from the ever present snow and ice. I wasn't sure where these were going, mostly because some of them were deeply weird. There was one that was a two story building with lights and ice walls, build in an almost Gothic style. Those mages that liked to use ice and its softer cousin apparently were just having a field day with what they could do.
+
+The judge of this competition was the bride to be, who showed up rather late in the afternoon. She moved from exhibit to exhibit and made a few notes. I found it odd that a majority of people still referred to her as princess, but it did seem right. She gave off the air of a pure and kind princess as she handed the award, a small ribbon, to the winner. That man had made a set of ice rosebushes that achieved an almost rainbow effect in the way the flower petals bent the light.
+
+As she moved to leave Sophia stopped briefly beside me. "You were Verren's daughter were you not? I don't believe I saw your presentation?"
+
+"Oh," I blushed. "I don't really have much in the way of ice manipulation magic. I just came to watch mostly."
+
+"I see, I see. Well, I'm sure if you want to you'll find something fun that you're good at while here. Sadly I must return to my preparations, though this little break was nice." With a kind wave she left me there.
+
+I thought for a few moments and pulled back out my schedule. I didn't have anything important going on for the next bit. There were a few different discussions going on shortly though that were of note to me. The most important of which was on the subject of villages and how to handle the integration of them all into our new empire most smoothly. That called to me as a former villager myself, even if it was likely that it would just be impossible for me to do much more than watch. Not that anything would be too important anyway, these were just discussion groups on the subject, not some kind of legal council.
+
+As I sat off to the side I read through some of the documents on the changes that were going on on the village level. A few things popped right out at me, mostly the changes that were being made towards magic users of all kinds from villages to cities and up.
+
+Based on what I was seeing, they'd kept the idea of leaving casters as a higher class. We were exempt from most taxes with the large exclusion of trade tariffs. There were also provisions for making sure that all casters who wanted to would receive some education. The normal exclusion from forced conscription, though heavy encouragements to join the military were there. The provisions that gave jaw droppingly generous inducements for anyone who had magic using children were interesting too.
+
+The reason for the last bit was obvious, because every nation needed those, and ours was definitively a conquering sort. It would surprise me if Lord Durin didn't have designs of some of the other nearby neighbors, and he'd need lots and lots of soldiers to make them happen.
+
+The inducements themselves were something else. On a child demonstrating an aura or the ability to use any magic the parents were given a stipend for food, medicine, and housing, as well as a small yearly payment. Of note female magic users had all of their children included up to age ten, as well as themselves if pregnant. These hadn't gone into effect yet, but I imagined when they did every minor talented girl in the region would be taking the government up with haste. Full casters might be slower, but I think many would be jumping on this ship too.
+
+"On to the subject of leadership. There are several proposals on how to see to it that local mayors remain of good skill. While we currently have military command of them this isn't feasible long term. The Ermathi tried that and it came out rather brutal. Similarly there are no more local lords to appoint mayors now, not that we'd want that sort of corrupt official anyway. The leading proposal has the councils of the central towns appointing public servants to the position." An older man stated to the group, which got several people to flip over to that section of the provided booklets.
+
+This stirred me from my musings and got me to flip over too. I briefly read through the current proposals. They all boiled down to appointing someone to lead the town. Either the local council, or local military commander, there was even one that proposed having local magic users appointed. To me they all seemed a bit foolish.
+
+"Why not just let the villagers choose?" I asked.
+
+There wasn't a whole lot of speaking going on right now, so it sounded much, much louder than I'd intended. I nearly flinched as dozens of eyes turned to look at me. Some were a bit amused, some condescending, some curious, all though turned to see who'd spoken.
+
+"Care to explain young lady?" The speaker was the main presenter.
+
+I was glad that he'd managed to at least keep any condescension out of his voice. I think that was mostly because he had an image of impartiality. As I looked at him though I had no illusions, he decidedly looked like the thought I was stupid.
+
+"Let the villagers choose their local leadership. They will mostly be handling the day-to-day events anyway and you are unlikely to find anyone who knows those better than the people who live there. They'll also know who in their community isn't stupid, and is trustworthy. Add to that that they'll not resent someone being sent in from outside to control them and I think it will work better overall." I stood as I spoke, as seemed to be the procedure.
+
+A woman with grey hair and a few lines quirked an eyebrow at me. "What shall be done if they choose someone corrupt or poorly suited?"
+
+"The same thing that would happen if it turned out an appointee was corrupt or unsuitable as well." I pointed out, which got me a nod.
+
+"That sort of option will never work. For a few places perhaps, but the majority will not know what would make a good leader." There was a strong murmur of agreement to that opinion.
+
+"Such democratic institutions are known in some of the eastern city-states." Another fellow pointed out. "They have failings, but benefits as well. We may have been remiss in not adding such an option for consideration."
+
+I settled back into my spot to continue my reading and listening. Glad that these people were just the equivalent of a bunch of old codgers having a round table at some conference. Most of what was discussed would seem odd from an Earth perspective, mostly because there weren't even whispers of the idea of equality. Those with magic and those without seemed to be separated completely in their minds, and more as the years went on in mine as well.
+
+I woke up bright and early, tomorrow was the wedding proper, and then everyone would be clearing out. There were a few more talks and the like I'd have liked to go to, but those were later, this morning I had time, and I had privacy. I'd checked and all my family were going to various things they wanted, leaving me well alone.
+
+There was something I wanted to try out, and now was my best chance during this trip. There would be other, better chances later, but I wanted to give it a go before I went back home.
+
+I sat on my bed holding an apple, and I began to concentrate. I breathed deeply as I felt out around me. Magic was a slippery thing sometimes, and often hard to get to do what you wanted, but I knew what I wanted. I tried to visualize space, like it was so often shown in all those sci-fi documentaries and stuff, like a rubbery sheet. Then I reached forward with my mind and tried to bend it, to make a little divot in the sheet like a tunnel, just a small one. I tried to replicate the feel of the gate that I'd come through on my way here. If it worked I'd have my first step to teleportation, if not, well...
+
+Nothing happened. I spent the better part of about an hour scrunching up my face in various ways as I tried to pull the sheet, all to no avail. As I laid back I threw the apple up, catching it, something which I repeated again and again. After a few tries the apple went off a bit and though I tried to catch it, it landed smack on my face.
+
+"Ow! Stupid apple." I rubbed my nose as I turned to where it'd fallen, rolling along the floor.
+
+It was around that point that I realized I wasn't thinking right again. I didn't need to bend a sheet, sheets were flat. I needed to bend... I don't know jello? A rubber ball? Something like that. Regardless I needed to make three dimensions move, not two.
+
+With this insight in mind I went back to my focusing. I tried to make a small tunnel, just a couple of inches wide and a few feet long across my room. I focused on the feeling of the portal before, and tried to visualize what I wanted. The picture in my mind was a bit weird, I had plenty of practice making weird visualizations real through illusions, but this was truly strange. Around the areas that I wanted my teleport? Portal? Whatever, I tried to bend space in all dimensions, making it flow and stretch like bread dough.
+
+I strained as my mana flowed out in buckets. Soon though there was a small distortion in front of me, right in the center of my room a small spot, maybe a foot wide and four long stretched, pulling against me as it tried to close. Picking up my erstwhile apple I threw it through.
+
+A second after the fruit hit the front it disappeared, before reappearing a second later at the other end. It plopped out and continued on it's thrown trajectory, eventually hitting a wall and rolling across the floor again. It was seemingly unharmed, that was a victory if I ever saw one.
+
+"Whoooo!" I shouted as loud as I dare. It was followed immediately by "WoooOOoooooOOOoo." I tried to aim at my bed as the mana drain of the new spell hit me and I fainted.

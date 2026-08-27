@@ -1,0 +1,293 @@
+---
+id: 5b7a4b88-931f-5e86-b4a7-f148db1834bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 136 - Underpinning Aura"
+slug: 0017-chapter-136-underpinning-aura
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 17
+ownLength: 2835
+unit: words
+ownProgress: 2835
+publishedAt: 2022-06-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/934478/chapter-136-underpinning-aura"
+royalRoadId: "934478"
+markedReadAt: "2026-06-29T19:35:50.285Z"
+---
+
+Tala couldn’t wipe the smile from her face as she entered the Constructionist Guild front entry room. The previous afternoon of plays had been amazing, the food fantastic, and the company enjoyable. She felt more relaxed and mentally level than she had in…She shook her head, still smiling. It’s been years.
+
+Even a frustrating breakfast with Mistress Odera hadn’t spoiled Tala’s mood, despite the woman continuing to deflect anything resembling a personal question. She wants to know all about me but doesn’t want me to learn anything of substance about her. She dismissed the mild irritant.
+
+The breakfast food had been as good as always, and Tala actually felt pleasantly full, for the moment. I hope that lasts for a couple of hours at least.
+
+Terry had watched the plays with seeming dispassion, but he had watched. He’d obviously enjoyed the food.
+
+At the moment, he was asleep, content, on Tala’s shoulder.
+
+Rane had enjoyed the afternoon as much as Tala from what she’d seen. He was meeting her at the training room later that morning.
+
+After she’d finished breakfast, Tala had come to the Constructionist Guild to see if Jevin was available.
+
+Now, a large part of her felt a bit bad coming to Jevin with her questions, especially just after Rane had so eloquently walked her through choosing a good use of her own time, and this wasn’t fusing, or recovering from fusing. Even so, these things were weighing on her mind, and it would only take a quick moment to drop through and move them forward.
+
+She was scanned, and a ding resounded from the back.
+
+At that moment, she remembered Grent. Oh… rust… I really hope he isn’t-
+
+Jevin came out, speaking quietly with the two Mages accompanying him. He smiled her way. “Mistress Tala.” The two Mages bowed slightly to Tala and eyed Terry with a mix of curiosity and wariness but didn’t speak.
+
+Tala smiled at them but addressed the Archon directly. “Oh, Master Jevin, just who I was looking for.” Thank the stars.
+
+“It’s good to see you, but we are just leaving.”
+
+“Oh?”
+
+“Yes, these two are looking for advice on creating their Archon stars.”
+
+Tala regarded the two more closely. “That’s wonderful!” She smiled.
+
+“Do you have any advice for the younger generation?”
+
+Tala suppressed a smile. Both of the Mages were her senior by quite a few years. Still, Jevin was giving her an opportunity to help others.
+
+Older Mages keep implying that that is important. And if she was being honest, she was realizing more and more how much she’d missed by skipping her time as an apprentice.
+
+I wouldn’t be here, if I’d gone the normal route. That, arguably, might mean she’d have a better foundation. No going back, now.
+
+She nodded once, passing off her extended pause like she’d been considering what to say. “What do you know about Archon stars?”
+
+The woman spoke first. “It is how we become Archons.”
+
+The man nodded. “Some mediums are harder to forge one within, and we should choose a medium that speaks to us. If none seems to, we should use diamond.”
+
+Tala thought, nodding. Their masters didn’t think they’d handle full information well… They were both guides. “It helped me to think of guiding the power, not forcefully, that isn’t possible in most mediums.” Well, unless you have it inside your body…which they shouldn’t do. She hesitated.
+
+They both gave her interested looks, and Jevin closed his eyes in a silent sigh.
+
+Oops. “What I mean is: you won’t be able to directly control the power within your medium. You need to guide it, so that it wants to take the shape of the desired spell-form.”
+
+Looks of seeming introspection swept across the Mages’ faces, and Jevin smiled. “Thank you, Mistress Tala. That is solid advice.” He gave her a meaningful look.
+
+Tala smiled to the Mages. “Well, I’ll let you two get to it. I do have a couple of quick, esoteric questions for Master Jevin.” She turned to the Paragon. “Could I borrow you for a minute, or should I come back?”
+
+Jevin considered her for a moment, then turned to the other two. “Would you wait for me outside? I’ll be just a moment.”
+
+They bowed to him, then to Tala, and departed.
+
+“Now, ‘most mediums’?” He gave her a wan smile.
+
+“I apologize for that. I was thinking about working within your body versus without, but I didn’t mean to…lead them down odd paths.”
+
+He laughed, shaking his head. “You know, they’ll spend days trying to understand the ‘bit of wisdom the Archon hinted at.’ ”
+
+Tala grimaced. “I am sorry.”
+
+He waved that off. “I know. It’s an odd balance. I know you took an unconventional path, though I don’t know all the details. Perhaps that is a tale you could tell, but some other time.”
+
+Tala found herself smiling. “I’d like that.”
+
+He gave a brief, genuine smile before professionalism fell back into place. “Now, I really do have to go. Your questions?”
+
+“Alright, quick one first. Can you make me some inscribed darts, linked to my anchor?”
+
+Jevin considered for a moment. “To trap an opponent? Of course. That’s a clever use of the anchor.” He laughed slightly. “Well, I suppose it’s very close to the original use of it, actually.” He scratched his cheek, then nodded. “I’m sure you’re aware that this use will cause the inscriptions to run out faster.”
+
+“I figured as much, yeah. Can you do it?”
+
+“I’ll put it together. Come back tomorrow?”
+
+Her eyebrows rose. “That’s soon.” Well, so much for just moving it along a bit… Do I really want to take time from my fusing for this?
+
+He shrugged. “It’s just your bracers, in a different form.”
+
+I can fuse as much as I’m able right before coming back, then use the walk down as a mental and magical break. After, I can Fuse a bit, here, then walk back. She nodded. “Afternoon?”
+
+“That’s when I have time, so yeah.”
+
+“Will do.”
+
+“So, your longer question?” His smile didn’t have any impatience, despite his obvious time crunch.
+
+“My archon stars can… combine.”
+
+Jevin nodded. “Master Grediv’s treatise on liquid mediums implied such, and your ascension so soon after its dissemination made a connection fairly likely.” He smiled. “Master Grediv’s most recent pupil being with you? That made the association virtually assured.”
+
+She shrugged. “Well, yeah.” Tala cleared her throat. “So, my understanding is that making an Archon star stretches the soul, creating a tendril of sorts which can latch onto a magical item.”
+
+“True. That’s one way to conceive of it.”
+
+“So, my question,” she swallowed, “should I make as many small, weak Archon stars as I can to stretch my soul, then combine them for my next bonding?”
+
+“That…” Jevin frowned. “That is a fascinating question.” He clucked his tongue, clearly distracted with his own thoughts. “Does a weak star stretch your soul in a meaningful way?”
+
+“I… I don’t know.”
+
+“We can test it, if you like.”
+
+“You can?
+
+He chuckled. “Of course. When you come back tomorrow afternoon, we’ll run a couple of tests. Do I remember correctly, you have a star already?”
+
+“One, yes, and I could make another fairly quickly.”
+
+“That might be necessary, but we’ll see.”
+
+“Will that take mental or magical energy to test?”
+
+He gave her a searching look, but then shook his head. “To analyze the star you already have, no. If we end up having you make another, then of course, but that choice will ultimately be yours to make.”
+
+Tala shrugged. Still probably a good use of time. Use the resources while I have them, and he seems quite happy to help those less powerful than himself. “Well, I could come earlier, if we’re going to be doing testing.”
+
+He shook his head. “You are far from the only Mage I’m working with at the moment, Mistress. I have my day rather booked, tomorrow. I do have time in the afternoon. I was going to suggest then if you hadn’t. Let’s say three hours past noon?”
+
+After a moment’s thought, she cocked her head. Everyone seems pretty happy to help those weaker than them. Instead of answering his question, she took the conversation for a hard left. “Why are you helping me?” She glanced over her shoulder. “Why are you helping them? It sounds like you are helping a lot of people. Surely you have more useful things you could be doing with your time.”
+
+Jevin barked a laugh. “Hardly.” After a moment’s thought, he nodded. “There are two main types of Archon. The first is those who advance for their own gain. That’s fine; that’s wonderful, but it ultimately leads them to die or depart. Then, the others grow in power for some greater purpose. Most of us care for the fate of humanity.” He laughed again. “Most successful people, in general, have that bent.”
+
+“Why?”
+
+“Why? Because humanity is standing on the edge of a knife. People don’t like those who rust the rest of us.” He smiled sadly. “We need each other, so we need to help each other. True, I could be personally more powerful if I didn’t help anyone else, but I can’t be everywhere, and humanity as a whole would be worse off.” He shrugged. “That’s how I and most of my peers see it.”
+
+Tala found herself nodding. That’s what she’d felt when talking to Grediv, Jevin, Master Himmel, even Holly to some extent. They each had their own goals and eccentricities, but they all genuinely seemed to want humanity to succeed, as a whole, and they were willing to invest in new Mages to advance that goal. “I’ll be here tomorrow, at three past noon.”
+
+“I’ll look forward to it.”
+
+Together, Tala and Jevin walked from the building.
+
+Jevin joined the others, and the three Mages got on a hovering platform before it lifted from the ground.
+
+Tala examined it briefly. Fascinating. There are inertial isolation scripts, like on a dimensional storage item, but they isolate that which rests on the platform, rather than a separate space.
+
+“Oh!” Jevin’s voice caused Tala to focus on him, thinking he had some parting remark for her.
+
+Instead, Jevin’s aura flexed back at the Guild building’s front and pulled the door closed behind her. He smiled and gave Tala a last nod before the wooden platform zipped up the spiral, leaving Tala and Terry to walk up, alone.
+
+Tala was locked in place, her mind an incoherent mess as she felt herself shaking uncontrollably, fear beyond any she’d ever felt overwhelming her for a brief instant.
+
+She’d felt his aura clearly as it worked behind her. He hadn’t had to reach past her, his aura had already been there.
+
+More than that, though, his magical signature was deeply familiar. She’d felt it before, obviously, but she’d felt it more often than she’d truly realized.
+
+The power surrounding Makinaven, that which was already under the control of another, unmistakably held Master Jevin’s signature.
+
+Fighting herself, she focused her magesight on the air before her, digging deeper, trying to find the power signature of the city itself.
+
+She let out an unconscious whimper.
+
+Master Jevin’s aura underpinned all of Makinaven.
+
+* * *
+
+Tala fell backwards, a headache not quite manifesting as she pulled her latest stitch tight, joining her soul, body, and spirit ever closer.
+
+Her thoughts flickered back to the Constructionist Guild and Master Jevin.
+
+It had taken her long minutes to overcome her shaking nerves, after she realized just how extensive Master Jevin’s power was. She’d slowly mastered herself, in large part because she simply couldn’t conceive of the man’s power and reach. There’s no way he actually holds authority over the entire city.
+
+He’d said he had god-like power within his aura. No. There is no way his aura underpins this entire city. She reassured herself with the repeated, obvious lie.
+
+Strangely, it did help, even while she fully realized she was actively deceiving herself.
+
+But that was in the past.
+
+Focus on the present. She did not allow herself to focus on the fact that she was, presently, within that same aura. She did not allow her magesight to look deep enough to see it.
+
+She groaned, stretching her arms wide and letting her legs straighten against the floor.
+
+“I do not envy your method of fusing.” Rane’s voice was calm as it reached her from the far side of the training room.
+
+She turned her head to glare at him. “Whereas you can just dump power constantly into your binding.”
+
+Rane shook his head a bit ruefully. “I am actually starting to feel a…pressure, if that makes sense. The bond is getting stronger, but it isn’t doing what it’s supposed to. I’m going to need to twist it, somehow, before I can fuse.”
+
+She grunted. “That’s something, I suppose.”
+
+He laughed. “Oh, yes, your suffering is lessened because I suffer too.”
+
+“That’s how we humans work, Master Rane.”
+
+He grunted. “When we don’t choose to be better? I agree.”
+
+Tala sighed, sitting up and pulling out her cold-water incorporator for a drink. “Way to make me feel like a rusting jerk.”
+
+He opened his mouth but seemed to think better of responding. Instead, he simply shifted from one deep stretch to another.
+
+Tala cleared her throat, a thought coming unbidden to her mind. “Master Rane?”
+
+“Hmm?”
+
+“What form of government runs this city?”
+
+He turned to look at her, not coming out of his deep butterfly stretch. “That’s seems an odd question for you.”
+
+She shrugged. “I just realized that I’d never really given it a thought.”
+
+He smiled. “Probably a good change, I suppose.” He cracked his neck, bending fully back into the stretch. “There are two layers, really. There are popularly elected administrators for the day to day, and even year to year, running of Makinaven.”
+
+“And the other layer?”
+
+“A Guild holds carte blanche over major decisions.”
+
+Tala felt her eye twitch. “Which?”
+
+“Hmm? Oh.” He frowned, thinking. “I believe the Growers.”
+
+Tala felt herself relax.
+
+His head shifted as he continued to consider. “No, that’s Retindel… They have an almost identical system.”
+
+She waited for a long moment as Rane shifted stretches yet again. Finally, she cleared her throat. “So…?”
+
+“What?”
+
+“Which Guild rules, here?”
+
+“Well, not ‘rules.’ They-”
+
+“Master Rane.” She cut across him.
+
+Something in her tone seemed to catch his attention, because he sat up straight, looking her way. “Well, I’m not sure, but I think it is the Constructionists. I’d have to consult the Archive.” He grinned, attempting to inject humor. “Or I suppose we could just ask the attendant.”
+
+Tala swallowed involuntarily. Well, that makes sense, if he owns the tree already…
+
+“Why do you ask?”
+
+She didn’t know how to respond. “I…I’m not sure what to say.”
+
+“What do you mean?” He was fully facing her, now, clearly a bit concerned by how she was acting.
+
+“I think I realized something that might be a secret…”
+
+He nodded, quirking his lips to the side in thought. “If you can share, I’m happy to hear but don’t break a promise, or put anyone in danger, to tell me.”
+
+Tala blinked at him. That’s…kind. After a moment’s thought, she nodded. “Did you notice anything odd about the power signature in the Magic surrounding Makinaven?”
+
+He shook his head. “Just that it was claimed, but that’s standard for a city. If anyone could just grab onto a city’s power, all sorts of chaos could come about…” He frowned again. “Your magesight is more sensitive than mine. What did you notice?”
+
+“I think I recognize the signature of a Mage’s aura threading through the power.” She let that hang out there. I can tell him more, depending on how he reacts.
+
+After a considerable pause, Rane shook his head. “Mistress Tala. You think you’ve seen a Mage’s power, influencing the power around all of Makinaven?”
+
+“No, Master Rane. I’ve recognized the signature of the aura which is the power around and throughout Makinaven.”
+
+He leaned forward. “Really? Who?”
+
+A familiar voice came to her ear before she could respond. “Mistress Tala. We will speak of this, tomorrow. I would appreciate your silence on the issue, until then.”
+
+Silence rang through the room as Tala’s entire body broke out in a cold sweat.
+
+“Mistress Tala?” Rane was standing and walking towards her. “Mistress Tala, are you ok?” From his actions, he seemed to have not heard Master Jevin’s request.
+
+“Yeah. Yeah. I… I might be mistaken, so… can we talk about it tomorrow?”
+
+Rane was kneeling beside her, concern clear in his expression. “Are you sure?”
+
+“Yeah. I think that would be best. Ask me again, tomorrow night?”
+
+That seemed to help him relax a little bit. “Alright. If you’re sure.”
+
+“I am.”
+
+He smiled and stood, holding out a hand. “Want help up?”
+
+“Yes. Let’s spar. I need to clear my head.”

@@ -1,0 +1,69 @@
+---
+id: 763dbdb7-52e7-552a-b004-4b9e505a6951
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 3"
+slug: 0318-epilogue-3
+partOf: melody-of-mana
+position: 318
+ownLength: 852
+unit: words
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1500515/epilogue-3"
+royalRoadId: "1500515"
+---
+
+So many years had passed since I'd come to this world. I even had a few gray hairs here and there. These days I mostly kept to my school coming out to advise the king, or attend to things like I was today. I passed through the halls of the royal palace like a shadow, heading to the wing where the former kings and queens resided. There was something I needed to do before it was too late, a secret held too long.
+
+When I knocked I was pleased to find that the owner of the room I was headed to was awake and not alone. There were servants of course, there were always servants here, but one of the princesses was here too, speaking to her great-grandmother at her bedside, the older woman smiling as she looked at the young girl. It was heartwarming to see that the kids were so loving.
+
+“Hello Lena,” I said with a sad smile. She looked horrible, even if she were smiling. Priestess or no her body was failing, the healers saying that she'd likely not survive the week.
+
+“Oh if it isn't my old teacher. Serena dear have you two met?” she answered, introducing us.
+
+“Ma'am,” the young girl said, making to rise. “You're one of my father's advisors right?” Being that she was maybe eight or nine that was all she needed to know.
+
+“Something like that dear. I hate to ask, but to you think we could have a moment alone? There's something I need to talk with her about privately.”
+
+Serena looked over asking, “Granny?”
+
+“It's fine dear, why don't you wait just outside. This shouldn't take too long,” Lena said, patting her hand gently.
+
+After she was gone I put up a privacy barrier. I really didn't know how Lena would react, but I couldn't hide it from her any longer, and there was no point.
+
+“I am sorry for disturbing you, but there was something I had to tell you, before the end,” I struggled with it, to get the words out.
+
+“About my parents?” she said with a smirk. My face must have shown some amount of shock because she continued. “You're not the only one with connections in the Orders, you know that right?”
+
+“When did they tell you?” I asked.
+
+“That I was the true heir? Just before I married Omos. The same time they told me how you fought to let that happen. Thank you for that by the way. He was a wonderful husband.”
+
+“You never brought it up,” I said softly, saddened that she'd kept my secret for so long.
+
+“You seemed content to let it be.” She didn't even seem angry.
+
+“You're not mad that I killed your parents?” I asked, still stunned at that.
+
+“Not as much as I could be. You forget that I learned of their crimes long, long before I learned who they were. It was painful to learn that I'd hated them so. Yet I was also told that you saved me, tried your best to give me a peaceful life.”
+
+I sat down beside her. “You shouldn't have hated them. Your father was my enemy, and he caused a lot of pain, but I've met worse men. I think he really did want to do right, but went about it in such a wrong way that we came to blows. As for your mother... her death is one of the things I've regretted more than you can imagine. So far as I know she was just another victim, and she just wanted to protect you.”
+
+“And you killed her?” Lena looked a bit taken aback.
+
+“I wanted surrender, not violence with her. She attacked me, and things went badly. War is like that sometimes. Had we had just a bit more time perhaps it would have turned out differently, I'm sorry.” It was a pale thing, but it was the best I had.
+
+“I forgive you,” she said, and I felt the worry fall off of me. “You forget that I've known you most of my life, that I've seen you at work for that time. I've watched you advise, tell Omos that he needed not to go to fight some of those fools even if he wanted to, tell him how much pain it could cause. At any rate it seems pointless to hold a grudge this late in it all.”
+
+“Thank you.” It was all I could manage to this woman who had every right to hate me.
+
+“Will you do me a favor though?” she asked.
+
+“Of course,” I replied, if I could, I would. I owed her that much.
+
+“Look after them, the kids, long as you can.” As I watched her eyes began to cloud a bit.
+
+“I will,” I promised, leaning up to kiss her on the forehead.
+
+“Good, now send Serena back in. She's a lot more fun to talk to than you.”
+
+I did just that, promising to myself that I'd be here for as long as I could to keep an eye on them, all of them.

@@ -1,0 +1,161 @@
+---
+id: 02f09ded-6bb6-5843-b13a-d078c0eca373
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 79 - A Change Is Gonna Come (2) "
+slug: 0134-chapter-79-a-change-is-gonna-come-2
+partOf: metaworld-hopecore
+position: 134
+ownLength: 2102
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3704679/chapter-79-a-change-is-gonna-come-2"
+royalRoadId: "3704679"
+---
+
+Eppie walked from her first meeting to her second after clearing the lobby of the Four Seasons.
+
+A striking young woman, probably a fan, accosted her before she could cross over to the bar lounge. It took Eppie about ten seconds to recognise the fan as Valorie Sanders.
+
+The real Valorie Sanders.
+
+The gown was gone, so was the jewellery, and the pinned pile of her flaming hair, and the last evidence of an evening spent crying in front of important people. Valorie had scrubbed her face down to nothing but moisturisers, and she stood there under the lobby's warm light with her hair loose around her shoulders, in a cosy pink Adidas tracksuit.
+
+Who is this girl? Eppie smiled at the young woman smiling back, the opposite of Senator Sanders’ famous daughter. Val could no longer capture the room with a swing of her hair, but somehow, to Eppie, her friend looked more beautiful for having stopped trying.
+
+Behind her, Francis Sanders had changed into a soft-collared quarter-zip and looked like a golfer contemplating an early tee time. Eppie appreciated the effort. It was disorienting to see how ordinary clothing drew the cameras away.
+
+“Let’s get a booth,” Eppie said. “A quiet one.”
+
+It was now close to midnight, the bar was closing, but none of that mattered in the least; a word to the front desk and the Four Seasons produced a curtained corner. A pot of tea and shortcakes arrived from the manager. The staff told her she could just call the concierge for additional service.
+
+The trio settled. Sanders folded his hands on the table, like a man playing poker. Valorie sat beside her father, knowing what was coming.
+
+Eppie was still in her couture dress. Unfortunately, changing and cleaning up would take up time she did not have. Fortunately, the length of her hem didn’t matter at all to the topic they were about to address.
+
+Once the waiter left, Eppie decided that ripping off a gauze bandage was better than doing it slowly and bloodily.
+
+“Val,” she said to her friend before she said anything else. “I want to hear it from you first. How much are you willing to tell Mr Sanders? If you’re uncomfortable, I can tell him. If you’re uncomfortable with that…”
+
+Eppie chose to offer small mercies because nothing would save William anyway.
+
+“...we don’t have to talk at all. It can be just between you and your father.”
+
+Am I testing Valorie? Eppie watched her friend’s sculpted face contort. Indeed, Valorie had gone pale and feverish.
+
+“Tell me what, exactly…” Sanders’ voice remained easy and professional, senatorial, even. Eppie could see the man’s emerald eyes make their calculations. “...this is about?”
+
+“Could we let Val decide? Mr Sanders?” Eppie pushed the envelope back. To prevent Val from slipping back into William’s embrace. She had to make the choice herself.
+
+Valorie looked down. Eppie held her gaze.
+
+“I… I can’t say it,” Valorie said quietly. “Could you tell my dad, Eppie?”
+
+Eppie held out a hand.Valorie allowed Eppie to stroke the top of her hand like a trembling pup.
+
+Senator Sanders watched them without words.
+
+“Okay,” she turned to look at Francis Sanders. “Mr Sanders, what I am about to tell you is highly confidential, and I am telling you out of trust for Valorie and respect for your position. Several people in places much higher than mine already know what I am about to tell you, so the information isn’t exclusive. What you choose to do with it… may create inconvenience for your office. Do you wish to hear it?”
+
+Francis looked at her critically. “That’s a loaded question.” He smiled. “Are you really sixteen? And an orphan?”
+
+“I am.”
+
+“It's just that…” Sanders poured himself a cup of digestive tea. “You sound like a paralegal, more than a Sophomore.”
+
+More like someone who used to buy your kind by the baker’s dozen… Eppie gave the man her best smile, which was, confessedly, quite jarring, considering how much makeup had survived.
+
+“I try.” Eppie’s [Act Natural] gave Sanders the cute head tilt as a diversion. “So, to clarify. Val: has William Chen ever detailed what he did to Mio? What happened in that locker room? What he did afterwards? What he did to the Goodes? To me?”
+
+Sanders’ smile disappeared as Valorie reacted to each name like she was enduring physical blows, her body slumping against her father’s chest.
+
+“... We’re talking… serious accusations, I see,” the Senator’s back straightened. “Please, Miss Fontaine. I am listening. Val, you can speak the truth. Daddy won’t judge.”
+
+Valorie nodded. Eppie could taste the relief, even if her father meant it as a platitude.
+
+“I… I only know what Eppie told me and what Simone hinted at,” Valorie’s face was taking on waves of shifting pink and scarlet. “Will never told me anything like you did. He said all I had to do was ask… and I… didn’t ask.”
+
+Sanders looked at his daughter for a long moment, then looked at Eppie. “How… serious an offence are we talking here?”
+
+The man’s tone was as gentle as it was surgical. Indeed, ignorance was better, both legally and morally. Eppie’s tale was hearsay. William’s own words would have been a confession.
+
+Unfortunately, Eppie wasn’t about to let the man slip away. Her [Physicality], [Charisma], and [Vocality], together with [Persuasion], simultaneously activated as she leaned toward Sanders, so that their faces were only a handspan apart.
+
+“Francis,” she said his name as Lana would, gentle but unrelenting, killing the distressed father with kindness. “Before I say another word, I need something from you, and I need it to be true. The Chens have worked with you since the nineties. You know that Senior Chen is good for his word. You permitted your daughter to stay with William Chen out of wedlock. So, I need to know. If I put the truth in your hands tonight, are you a father to a child who needs you? Or a Senator who needs his political capital?”
+
+She gave Francis a second to digest her warning, then continued before Sanders could weasel away with words.
+
+“Are you going to put Valorie first? Or would you prefer that everyone stay comfortable? Please choose one. I am quite happy to walk away, and I can guarantee that, so long as you stay away from the inevitable fallout, Valorie’s life and her career will be fine.”
+
+The air felt suddenly pressurised.
+
+Francis Sanders worked his jaw while he studied her. Eppie felt the man’s gaze hot against her exposed shoulders, her neckline, her face. In her hand, Valorie’s fingers were clammy. She could FEEL Val’s thumping heart with her [Clockwork Pulse].
+
+“I would like to protect Val…” Sanders said after Valorie held her breath for a little too long.
+
+Eppie waited. “Do you swear by that, sir?”
+
+She had learned not to trust her own hope; hope was copium, and people lied to hope specifically.
+
+“Don’t answer that,” Eppie stopped the Senator before he could metaphorically produce a bible from a coat pocket. “I trust you, Sir.”
+
+“Should I be relieved?” Sanders laughed, probably at himself, for taking this tiny blonde so seriously.
+
+Eppie relaxed as well. Thank you, [System]. The human heart was beyond understanding, but the compass of goodness dictated by [Causality] always pointed north—even as it sailed her onto strange shores.
+
+So she told him.
+
+She did it the way you tell a man his backyard had been on fire for years while he was at work—plainly, without ornament, without letting him look away, and without a single detail he didn't need. She told him of Valorie’s vulnerability when she lost the role to Mio. She told him about the locker room and what she had heard. She told him about Mio’s escape from LA and William’s abuse of Eppie Fontaine. She told him about Simone Goode, the locker rooms again, then, with more kindness and euphemism than the original Fontaine could ever manage, she told him about Valorie’s spiral of depression, about William’s metaphorical usurpation of her most vulnerable moments.
+
+Francis Sanders’ jaw tightened as the politician fell away and the father emerged. By the time Eppie finished the candid truth and nothing but the truth, he had both hands around Valorie, and her head under his chin.
+
+If nothing else. Eppie nodded to herself. At least we plucked Val from the fire.
+
+“Jesus Christ, Valorie…” he kissed the back of her head, his arms tight around her shoulders. “I am so sorry…”
+
+Valorie melted into him and sobbed like she was twelve.
+
+Eppie drank the cold tea, making a mental note to tell the manager that, when she ran her next therapy session at the Four Seasons, the staff needed to bring a tea cosy.
+
+When he could speak again, Sanders’ voice was very quiet and very serious.
+
+“In my opinion,” he said to the daughter in his arms, “I don't think you should be seeing Mr Chen anymore.”
+
+Valorie nodded against his shoulder, snot and tears staining her father’s sleeves.
+
+Quest Advanced [The Usurper of Hope]
+
+Your actions have reaped the Usurper’s Causality.
+
+You have restored one of the [Usurper]’s victims through [Noblesse Oblige].
+
+You have gained immense Causality.
+
+Eppie felt the warmth move through her like liquid gold. Relief, enormous and bodily, like the loosening of a clenched fist she'd been holding until the nails bit her palm.
+
+“Does his father know?” Sanders asked. “Lee-Kwon. Does the old man know his child is… this creature?”
+
+“He’s ignorant, or wilfully ignorant.” Eppie shook her head. “And my knowledge comes from a trustworthy source.”
+
+Sanders nodded slowly, absorbing the information, still holding his daughter. “What would you like me to do? Euphemia? Money, lawyers, a phone call to the right office…”
+
+Eppie shook her head again. They were beyond such mundane methods now. Luciana Mio would have to face her parents with the truth. The Mio family would have to live and relive the trauma. Knowing America’s media, Nozomi would become a national headline, just because Valorie was involved. Val’s career would effectively be over unless her father personally intervened with his position on the line. And Lim and the five families would have to meet the Chens in court, rather than as peers. What’s worse, the Chens would have the money to fight them all, and William would be no worse off, even after causing such a volume of misery that her [Causality] meter could not even begin to comprehend the loss.
+
+“I need you not to do that,” she said, as kindly as she could. “Val was never in the room for the worst of it, or any of it, really.” She met Sanders’ eyes, her [Legality] and [Persuasion] firing. “I've built my case carefully, Senator. Every piece of it. If a Senator, and an old ally, comes charging in swinging his name around, he doesn't help me; he gives the Chens something to fight. They’ll ruin your career and accuse you of racism. Accuse you of being crooked.”  She let the smallest smile through. “So long as you keep loving your daughter and keep William unsuspecting. Make no mistake. I will bury that boy.”
+
+Sanders looked shocked. “You’ve already confronted him? With proof?”
+
+“Indeed. I offered William a way out, you know,” Eppie smirked, almost idly. "A quiet one. Confess. Go to jail. Get rehab. He’ll be in his twenties when he’s released, but he still has money and good looks. What’s not to like?”
+
+Her nonchalance made Sanders snort. “The Chens,” he said, “will never broker a deal. That family would rather burn down the block than lose face.”
+
+“Which is why this must be between me and William,” Eppie turned her cup a quarter-turn on its saucer, and for just a moment the light behind her eyes was not a child's at all. “Have faith when I say that, when I am done with him, without touching a finger on his body, William will wish he were dead.”
+
+The booth went quiet again.
+
+“Eppie…” Valorie spoke with a trembling voice, a young woman just now realising how close she had come to a polar bear. “I am so glad we’re friends now…”
+
+“Miss Fontaine, if you require aid from my office, just… call.” Sanders caught his breath as well. “In the meantime… has anyone ever told you that you should go into politics?”
+
+“That was just good acting,” Eppie smiled with her [Charisma] and [Comeliness] on full blast. “I am a very nice person.”
+
+Unfortunately, neither father nor daughter seemed to believe her.

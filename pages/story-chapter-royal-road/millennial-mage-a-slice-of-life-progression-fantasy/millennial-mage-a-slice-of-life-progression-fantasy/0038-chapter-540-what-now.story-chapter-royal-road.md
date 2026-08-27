@@ -1,0 +1,285 @@
+---
+id: e949c338-92bf-5f84-9756-f43f531899f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 540 - What Now?"
+slug: 0038-chapter-540-what-now
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 38
+ownLength: 3167
+unit: words
+ownProgress: 3167
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2131802/chapter-540-what-now"
+royalRoadId: "2131802"
+markedReadAt: "2026-06-29T19:36:30.961Z"
+---
+
+Tala, Rane, and Master Grediv returned to their tea for a final cup and further conversation after honoring their fallen friend.
+
+Master Grediv spoke as he poured his cup. “I think that it is an excellent memorial to Master Girt.”
+
+Rane nodded, accepting the compliment, and Tala smiled. “We’ll invite the rest of our former Defender unit tomorrow, then.”
+
+Rane cleared his throat. “Speaking of whom, are they going to be able to function as a unit of just four?”
+
+Master Grediv shook his head. “No, but they won’t have to. Several more Refined have come to aid in the waning, and two of them will be assigned to fill in the gaps. We even have a few entirely new groups, as people have been working to ‘come in’ early given the waning’s greater… acceleration of danger.”
+
+That was good to know. Tala had been a bit concerned that they would be leaving their friends in the wind with their advancement and Master Girt’s death on top of that.
+
+“But that shouldn’t concern you directly.” He gave an implicative smile. “I would like you to be Paragon in command of a cell detail, however. It is expected—required even—for any Paragon in the city.”
+
+Tala felt her expression brighten, her focus and thoughts being pulled from the previous topic. “Oh? Does that mean I’ll get to learn how that’s done?”
+
+He gave her a flat look. “Yes.”
+
+When he didn’t say more, she shrugged. “Alright then. When?”
+
+“We should meet up tomorrow, and I believe that you’ll go out either then, or within the week.”
+
+She raised an eyebrow. “Oh?”
+
+“Yes. The feel of the zeme makes our experts believe a cell will reveal itself in the next week or so, and I’d like you to handle it… with a Defender team of course.” He was looking straight at Tala, a bit of an intensity to his gaze.
+
+“Sure.” She smiled, shrugging. “I was hoping to learn how that was done regardless. This is as good a time as any.”
+
+“What about me?” Rane interjected, clearly feeling a bit left out.
+
+“What about you?” Master Grediv arched an eyebrow. “You’ll learn as well, and we’ll get you out for the next cell.”
+
+“Ahh. Sure.” Rane smiled, leaning back and taking up his tea once more. “That sounds excellent.”
+
+“Speaking of advancement...”
+
+Tala frowned. They hadn’t really been speaking of advancement, but she supposed she wasn’t one to throw stones over conversational awkwardness.
+
+The older Paragon shifted. “Has anyone discussed Reforging with you?”
+
+Tala was the one to answer. “Some, yes.”
+
+“Good, good. I assume that neither of you is one who will Reforge immediately? I mean, by the lack of such advancement, it seems obvious, but you aren’t holding back for some reason?”
+
+Rane shook his head. “I am not, no.”
+
+Tala hesitated, causing both men to look at her. Rane gave a knowing, encouraging smile, and Master Grediv frowned. “Is there something that you would like to share?”
+
+Tala shrugged again. “I feel like I could Reforge, if I stretched my will and authority in the right way, but it feels… incomplete. The sense I get is that I would step onto a peak and never progress further.”
+
+Master Grediv actually seemed to relax. “That is wonderful to hear.”
+
+It was her turn to arch an eyebrow. “Oh?”
+
+He smiled and nodded reassuringly. “Yes. If you can sense that, then you likely won’t fall into that trap… if any advancement to being fully Reforged can really be called a ‘trap.’”
+
+“What do you mean?” Tala was incredibly curious, and Rane leaned forward as well.
+
+“Well,” The older Paragon paused for a moment, clearly collecting his thoughts before continuing. “To Reforge is to remake yourself completely under your own authority—this is the imperfect shorthand for what is to happen. The truth of it is that any human, with sufficient determination, can throw off other authority sufficiently to ‘claim’ their own body uncontested for enough time to ‘Reforge.’ For mundanes or lesser Archons, this manifests as a brief moment of increased power or seemingly supernatural capacity in one way or another, but it isn’t sustainable. For a Paragon, with an actualized and understood soul? The result is permanent.”
+
+“And that’s bad because…?” Rane prompted, though he looked like he already had some idea.
+
+“That’s bad because you aren’t actually remaking yourself. You are claiming yourself as you are.”
+
+Tala frowned. She thought she was following his thought process, but she wasn’t sure. “And that’s… bad?”
+
+“Yes.” Master Grediv gave a half smile. “Who and what you are, physically, is decidedly influenced by many, many outside factors. So while claiming it as your own is good—and even required—it is not truly Reforging in the most potent sense. In fact, it cements ties, restrictions, and influences, making Ascension essentially impossible.”
+
+“Essentially?” Tala prompted.
+
+He shrugged. “It’s never been recorded, but we’ve had so few Ascended to begin with that such is hardly a comprehensive refutation of the possibility.”
+
+Rane grunted his understanding.
+
+She tilted her head to the side in consideration. “So, it would be like calling a broken sword a finished piece, or saying it had historical significance and shouldn’t be touched, or something like that. It has been ‘remade’ into a ‘complete’ item that doesn’t need to be or shouldn’t need to be fixed, but that doesn’t actually make it better than it was before?”
+
+“Well, it does make it more useful, in the sense that it is acknowledged for exactly what it is and can be utilized as such, but essentially, yes.”
+
+Tala nodded, asking the obvious follow-up. “So? What does need to happen then?”
+
+“You need to remake yourself into something that is uniquely you, and by your own volition.”
+
+What he said lined up with what she already understood. So, Tala arched an eyebrow. “I can already do that.”
+
+That caused Master Grediv to hitch. “What now?”
+
+She shrugged. “I can quite easily recreate my physical body from the individual cells outward, in a better-than-Refined state due to fundamentally threading them full of magic at every level as I build.”
+
+He blinked at her a few times. “And that feels… incomplete to you?”
+
+“Yeah. It feels like I’d just be a human with magic highlights, no matter how intrinsic those were.”
+
+Master Grediv seemed contemplative. “I see.”
+
+His confusion made her feel like she needed to give further explanation, like she needed to defend her position. “I feel like I need more, like I have something else that is graspable, but not quite in my grasp yet. I think I know pieces of it—even if I can’t quite actualize them yet—but I’m still missing… something from the basic concepts.”
+
+Master Grediv seemed a bit at a loss for words, but eventually, he gave a slow nod. “I will not advise you to ignore your own intuition, especially not on something like this. I will simply trust that you are continuing on your path of advancement.” He then turned to Rane. “What of you?”
+
+“What about me?”
+
+Master Grediv gave Rane a flat look, causing the younger man to chuckle.
+
+“Fine, fine. Ever the mentor, eh?”
+
+That brought a smile to Master Grediv’s lips. “Always.”
+
+Rane chuckled. “Well, in all honesty, I am moving toward much of what Tala has rejected. Though, to be clear, I am not simply solidifying myself as I am. I am working to learn what I need to know in order to perfect my physical form to match my view of—and desires for—myself.”
+
+Master Grediv nodded, not saying anything further on the matter. “I did want you to know that Master Jevin has been involved with the goings on with Eskau Meallain.”
+
+Tala gave the man a level look.
+
+He held up his hands. “I’m not telling you anything about what else is happening with her, but that was important to know, as it explains why he and I were talking, and why you came up.”
+
+She grunted but didn’t otherwise respond.
+
+“Regardless, Master Jevin would like to see you when you have the availability. Even with your… history? Yes, let’s call it that. Even with your history with the Leshkin, you should be more than up for making the journey through the southern forest safely.”
+
+Tala considered for a moment, then nodded. “I don’t see any reason not to. It might not be for a bit, but I think we’ll be able to make the trip.”
+
+As she glanced toward Rane, he shrugged. “Sounds fine to me. It could be fun to go back.”
+
+She smiled. “Then it’s settled. How is he doing, by the way?”
+
+“Master Jevin?”
+
+“Yes.”
+
+“Oh, he’s doing just fine. He’s been a bit close-lipped about it, but I believe he Reforged a year or two back. The old tree keeps his aura looking the same as ever, though, so it’s hard to tell.” Master Grediv chuckled. “I guess calling him the ‘old tree’ doesn’t really make sense anymore, if my guess is actually right.”
+
+Tala felt an upsurge of happiness. “Hey! That’s wonderful news.” She hesitated a moment, but when Master Grediv didn’t continue, she frowned. “Shouldn’t this be a bigger deal? I mean, he’s one of the older Archons we have, right? His advancement should be cause for wide-spread celebration.”
+
+Master Grediv nodded. “It should be—and would be—if he announced it. As it is, though? We might be celebrating nothing, and he is entitled to his own privacy as he deems appropriate.”
+
+She grunted. There was some logic to that. “But you think he’s advanced?”
+
+He grinned widely. “I’d bet a lot on it, yes.”
+
+Tala grunted again. “Well, I guess we’ll see when we go for a visit.”
+
+“I suppose you will, yeah.” Master Grediv considered. “Honestly, the old tr… man might have jumped straight to Ascending, and he just doesn’t want to rub it into anyone’s face.”
+
+She felt her eye twitch. “That’s possible?”
+
+“Oh, yeah. Especially for someone like him. I know of two who have reached Ascending almost as soon as they Reforged. Both had spent a long time both reaching and being Paragons, so that likely explained how they gained the needed insight for their soul… whatever it is.” He grimaced. “ I have been told that I should wait until I’ve Reforged to worry about it. Their records are locked to anyone not Reforged as well, and they aren’t around to be asked…” He gave a helpless, saddened smile as he shrugged. “So, I suppose I’ll never know.”
+
+Tala narrowed her eyes. “The City Stone is that restrictive?”
+
+“It can be.” He didn’t seem even the least bit apologetic.
+
+“And yet you keep asking if we will take one on?”
+
+“I do.” He nodded in easy affirmation.
+
+“Why?”
+
+“Because humanity is in need.” He gave her a level look. “There is also the possibility that you wouldn’t be locked at Paragon. My mentality holds me back as much as—if not more than—the City Stone. Honestly, my mentality about the City Stone is more of an issue than its nature. Regardless, either of you unquestionably have the power to bond with one successfully, and while you might not be the pictures of good rulers now, you’ve shown the wisdom to select competent administrators to do what you don’t wish to, or feel unable to handle.”
+
+She grunted at that. There was a lot of truth to what he said, but no. There was too much of a commitment in that. She didn’t want to be obligated to stay in one general area for the next few hundred years, if not longer. In her general inquiries, it seemed like those bonded to Stones only relinquished them through death.
+
+If that weren’t the case, she’d be interested in it for Rane, to ensure he wouldn’t be killed anytime soon. Since that exact feature—rebirth—seemed to be a ubiquitous benefit granted by the Stones, she had been confused to learn that there had, in fact, been several who had died and passed on their Stone.
+
+She apparently still didn’t have clearance to learn how that made any sense, likely because the knowledge could be leveraged to the detriment of all the cycling cities and no one was infallible.
+
+Either way, the topic didn’t really have anything further to be said about it, and after that, there wasn’t too much for them to discuss in general. Master Grediv bid them congratulations once again before departing less than an hour later.
+
+At that point, Rane turned to Tala with a big grin. “Are you ready for your present?”
+
+“Only if you’re ready for yours.” She grinned back.
+
+“I suppose I’ve no choice.” He gave a wink. “You didn’t attempt another chicken purge, did you?”
+
+She huffed a laugh. “Of course not. We still have plenty of dodge chickens.”
+
+“I really didn’t think that you got to call Terry that.” Rane had a twinkle in his eyes.
+
+Tala gaped at her husband in mock outrage. “How dare you? I would never.”
+
+He held up his hands in mock surrender. “Fine, fine. My mistake.” His demeanor shifted, then. “But first, I am ready to show you what I’ve been working on. It isn’t really a present for you, but I want to show you regardless.”
+
+Tala chuckled. “Sure. Do we need to go anywhere to see it?”
+
+He nodded. “Mind if I take us?”
+
+“Not at all.” She felt a bit of excitement welling up within her as her husband exerted his will and moved them both.
+
+They appeared in a glade—one of many scattered around their sanctum—and Tala’s eyes were immediately drawn to the area in which her threefold sight was denied. That was Alat’s doing at Tala’s request, but it was still a hole in her awareness that she naturally wanted to remedy.
+
+There—perfectly highlighted by a shaft of sunlight—was both a sculpture and a source of steady, controlled motion.
+
+Tala drew in a sharp breath, taking a moment to fully understand what she was seeing.
+
+She’d seen ‘perpetual motion machines’ in the past. Some were even truly that… with a bit of help from added magical power. In this case, it seemed that Rane had positioned the sculpture to take advantage of the air currents—or maybe the sunlight?—in this area for that source of power, harnessing it to keep the whole thing moving as he desired.
+
+To call it intricate would be like calling lace knotted string.
+
+Every portion was moving in carefully regulated patterns, changing the entire shape of the structure moment to moment.
+
+At that moment, there was a boy walking down a pier. When he reached the end, he dove off, splashing into the water before the milieu changed to what seemed to be birds in flight.
+
+There wasn’t really any ‘emptiness’ per se. Instead, there were just thinner bits of metal that gave that impression in comparison. Some were also blackened, while others were polished and sealed to shine more brightly.
+
+What truly stunned her as she watched was how many parts were reused, having twisted, turned, moved, and reoriented to come into play in other parts of the insanely elaborate structure.
+
+Honestly, she couldn’t comprehend how it worked at all… until Alat unveiled her threefold sight and Tala realized that the whole thing was moving in four physical dimensions.
+
+She did gasp then. “Rane. This… This is incredible.”
+
+He beamed beside her. “Do you like it? I’ve been bugging Lisa some, but much of it was just the result of study, and trial and error.”
+
+She gave him a flat, unamused look. “You did not ‘trial and error’ your way into this in less than a year. How did you even make this in less than a year?”
+
+He chuckled. “Oh, that. I commissioned most of the parts… well the three-dimensional parts. I simply put them together.”
+
+She arched an eyebrow. “But you conceived of it? Designed it?”
+
+He smiled widely. “Absolutely. It’s something that’s been boiling in my mind for years, and I have finally achieved the understanding I need to create it—though part of that understanding came during the actual construction—I am the sculptor of motion, after all.”
+
+She shook her head. “This, Rane… this is magical. I think I might understand how it can work, but even trying to imagine a simple scene, and how it would need to be constructed?” She shook her head again. “This is beyond me.”
+
+He squeezed her close and kissed the top of her head. “I’m glad that you like it.”
+
+She turned to regard him before going up on her tip-toes to kiss him. “It’s beautiful.”
+
+* * *
+
+Rane stared at the cunningly crafted bracer that fit perfectly to his arm, affixed firmly without inhibiting movement or pinching no matter how he turned, twisted, or stretched. “This… This is amazing.” He grinned up at Tala. “And with the iron, your aura and authority will have an even better anchor near me.”
+
+She laughed. “Better than our literal soulbond?”
+
+He hesitated, a mischievous glinting sparking behind his eyes. “Well… I guess not, but I could throw it at someone in a pinch.”
+
+Her tone dropped dangerously. “Don’t you dare.”
+
+* * *
+
+Tala felt only a little disappointed when she set out from Alefast, Waning, a few days after her anniversary. She was on foot with the group of Defenders.
+
+They didn’t have a fast means of transportation—save their own quick feet—and that meant that the trip would likely take at least a couple of days, no matter how fast they reset the cell.
+
+She’d been told not to simply transport them, unfortunately.
+
+Rane had already bid her goodbye, and Terry was at her side, running and flickering through the wilds, gleeful exuberance in his eyes.
+
+The eight Refined who surrounded her—treating her like an honored guest that they needed to guard—were nice enough even if a bit reserved. She hadn’t even officially met anyone beside the leader yet.
+
+Maybe she wouldn’t have needed to meet anyone else? That would actually be preferred…
+
+She sighed, putting the issue of names to the side even as she focused on following their navigator, a woman who seemed to be using a small compass-like device to point their way toward the approximate cell location.
+
+-I could take us straight there… Well, you could too, but the point stands.-
+
+Hush you. We are here for one task, and so if there isn’t any danger, we’ll stay in the background… probably.
+
+-Yeah, we’re good at that.-
+
+…I said hush.
+
+-Fine, fine.-
+
+Even if she really had no desire to get to know the group, it was heartwarming to see the camaraderie between this Defender unit, but it was also odd to be on the outside of it, clearly being an add-on.
+
+This must have been how the Paragons who came with us would feel.
+
+It made her miss her unit—and Master Girt especially—all the more.
+
+Well, it’s going to be an interesting trip regardless.
+
+-Indeed.-

@@ -1,0 +1,139 @@
+---
+id: 011a1d9d-edcf-5f5c-a3f6-2fa44ba58d9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 Peace and the open road"
+slug: 0028-chapter-23-peace-and-the-open-road
+partOf: melody-of-mana
+position: 28
+ownLength: 2372
+unit: words
+ownProgress: 2372
+publishedAt: 2021-07-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/714889/chapter-23-peace-and-the-open-road"
+royalRoadId: "714889"
+markedReadAt: "2026-06-29T22:27:12.916Z"
+---
+
+It was on a bright and sunny day as summer faded to autumn that the word was sent out. Messengers had run all through the city declaring the fact; the war was over. I was working this day and many came by the tavern to drink in celebration of this occasion.
+
+They were not celebrating because we had won. From all reports it had been practically a stalemate, the borders barely changed. Rather everyone knew that with the end of this fight, that much of the suffering of the past few years would fade. Their sons, husbands, fathers, and brothers would soon be returning. I saw old men weep tears of joy that their beloved sons would be coming home to them. Women jumped and danced in the streets because their husbands would soon again embrace them.
+
+Haven frantically tried to purchase as much food and alcohol as he could from any merchant that would answer him. Istlan was a bit back from the front-lines, but we were situated on a main road that many would be taking to return from the front to their homes further west. We had little time to prepare before the first wave of returning soldiers would pass by. Knowing such a group would desire food, drink, and women; every business involved in such things was trying to gather all the resources they could for the inevitable horde.
+
+Even in the temple there was some amount of celebration. Around a third of the children here had some relative who was in the army, and would certainly come get them when it was all over. Susie purchased a bit of honey with her saved pocket change and shared it with Gigi and I that night. It was a bit nostalgic since I'd had none in Istlan, and the taste of honey on toast was a refreshing change.
+
+As I munched on the sweet treat I thought of my own kin. I had no idea where my family had gone, so there would be no happy reunion for me. I'd only known a few relatives here anyway, but the fact that they were all now missing was rough. I longed to see my mom and dad, to eat around a table with them as a happy family once more. I briefly even thought of what would happen to the men of Orsken. Did they know? Had anyone told them the town was gone and the people scattered? There was nothing I could do at present, so I tried to put it from my mind.
+
+It wasn't for a couple of weeks that the first group of men came by. That day every tavern in the city filled within hours; fortunately I had the day off. I stood by the gate as they approached, some thousand men passing through before heading west to their homes.
+
+They looked a bit strange to me. Some were obviously in good spirits, laughing and cheering with their friends and the small crowd that had gathered upon hearing of their approach. Others though looked tired and sad. More than a few looked broken, their eyes like something I'd seen in photos of soldiers on Earth. These were not glorious victors, returning home to cheers. Rather they were men who'd been in a war they never wanted, eager to be home and done with all of it.
+
+"Meline?" I heard one of the men call out, apparently recognizing someone.
+
+I yelped as an arm wrapped around me from the side, pulling me in close to someone I didn't know. It took me only a second to turn around and let loose a harsh scream onto the person, an act that seemed to alarm those around me.
+
+"What was that?"
+
+"An attack?"
+
+Several men turned to look at the two of us as I hopped back and drew my knife, looking towards the soldier who'd nearly picked me up. A few came close, looking between the two of us.
+
+"What happened?" A man who seemed to be a leader among this group stepped forward. He seemed to be the one in charge of this unit.
+
+"He grabbed me." I pointed towards the man who was still trying to recover from my point blank attack.
+
+After a several moments he could finally stand up and process again. The leader stepped forward and looked at him harshly.
+
+"What's with grabbing the kid?"
+
+The man who'd grabbed me looked at me for a few seconds before he blushed red. "I... I thought she was my Meline for a moment, I'm sorry."
+
+Several of his friends looked at him with a mix of irritation and pity. "Your kid has gotta be three years older than her now, and is back home," one of them pointed out.
+
+"I'm really sorry for that." He bowed his head at me and I nodded back as his friends drug him off.
+
+Their leader came over to me after the others had left. "I'm really sorry kid, poor guy's been worried sick about his daughter, and you really do look a bit like her."
+
+"He still shouldn't go grabbing people," I pouted.
+
+The man chuckled a bit, "True true, I'll talk to him later. Nice shot on him though, you dropped him like a stone."
+
+"Mmm." I truthfully hadn't had time to go all out, so the power was lacking. I was not about to let this guy know that had I not been so surprised I would have likely rendered his friend at least partially deaf.
+
+He patted me on the head, much to my chagrin, before turning to join his companions.
+
+It took several weeks for the men of Istlan to be sent home. While there were a few nights of celebration as the different groups came in there just wasn't time for too much of that. The men immediately jumped into helping with the harvest, making sure that it got brought in properly and without any issues for the first time in years.
+
+As Susie was picked up by her dad and I could finally see the prices of bread going down I knew that the famine was finally ending. That led me back to my previous decision though, I liked the priests here, but I had no intention of remaining in the orphanage until I was of age. I considered these things one day while working. Even my work here would soon change; bread was no longer such a prime good, and I would wager I had less than a month before Mr. Haven wanted to renegotiate the terms of my employment.
+
+"You look like someone who's got a lot on their mind." A man at the bar spoke as I got around to cleaning that part.
+
+"Yeah, the famine is finally ending here isn't it?" I pointed out.
+
+"Sure is, but that's not a bad thing. With everyone coming home we finally get a break."
+
+"I know, but it'll mean things change."
+
+"Things are always changing kid. Some are for the better, some for the worse, but always do things change."
+
+"I wonder what will come next." I mused.
+
+"Winter," he said, "after that spring, as the whole cycle starts again. Though everything will be locked down for winter first."
+
+I nodded, winter was indeed coming, only a few weeks out now. With that I made my decision, I'd be leaving, just after I got my preparations done.
+
+It didn't take me long to buy basic traveling provisions, I also grabbed a set of boy's clothing in my size. People would be less prone to worrying about a boy in my experience than a girl, and it would help to throw off any attempts from the priests to follow me.
+
+I made up two letters. The first was to Haven, to tell him I was leaving. Then one to Father Mannory, saying basically the same, and that I was sorry but I wanted to be on my way. I hoped that the priest would understand, even if he was pissed about it. As I wrote those I came to the realization that I was really leaning into the bad reputation that bards had for being complete flakes.
+
+The merchant areas near the gate were the place to go. They would post notices of where they were headed, and if they wanted any passengers. That was not an uncommon thing; it gave the merchants a bit of extra cash and filled up any empty cargo space.
+
+A merchant caravan was leaving to the capital not three days after I'd made my decision. They were allowing some passengers to travel with them. So after breakfast that morning I made my way over to them. I had my bag stuffed with some dried meat and fruits, with my dresses stuffed into the bottom to make it look very full of provisions. I'd finally purchased a small mace, which hung from my belt by a leather strap.
+
+The proprietor was easy to find, a few questions to workers led me right to him.
+
+"Excuse me sir, I understand you're headed to the capital?" I was going to go with a slightly higher class accent than I normally used, in the hope it would make things easier.
+
+"Sure am kid, we're leaving in an hour. Why?"
+
+"I'd like to get a spot as a passenger if that's at all possible."
+
+"Just you? Where're your folks?" He was suspicious, which was fair I suppose. A kid traveling alone was odd.
+
+"Just got word my dad's not coming back from the war, but I've an uncle in the capital. I'd rather stay with him than be alone." It was a simple enough story, if not a true one. I'd wanted to see the capital for a long time, and I knew that Mystien's friend lived there. If I couldn't find him then I'd be about in the same place I was now, so that seemed the best bet.
+
+The man gave me a hard look. I couldn't tell if he believed it or not, but he nodded. "Sorry to hear it kid. Price is fifteen silver, for a full gold we'll throw in ale and one meal a day. You're on your own for the rest of the food though."
+
+I considered for a moment. I could easily make it without the extra food and drink. On the other hand not taking it might be suspicious, and a bit of variety might be nice anyway. I handed over the full gold. I had a bit of leeway on my finances now. That was a large cost, but it would not be too bad.
+
+"Alright kid, you'll be in the wagon third from the back. Like I said, we leave in an hour, if you're not here, you forfeit your spot."
+
+"Understood, I'll be there."
+
+It only took me a few minutes to go to a messenger service and have the letters delivered. I knew they wouldn't be out until tomorrow morning, as I hadn't put a rush on them, and that suited me just fine.
+
+Having done that I returned to the caravan and took up a spot in the third wagon from the back. It wasn't super spacious, and there were already a few people here. I nodded to them as I got in, setting myself up in a vacant spot along the right side.
+
+It wasn't too long until the wagons started moving out. Nobody in here with me had an aura, so I felt fairly safe. Though when the guards did their inspection of the cargo I was careful to repress my own as hard as I could. I wanted to look like nothing more than an ordinary passenger. They were quick, comparing faces to a number of known criminals before they waved us through.
+
+As the wagon rattled down the road, a woman across from me looked over. She had a small child sitting on her lap cooing up at her as the soft rocking of the slow cart lulled it to sleep.
+
+"This is my first time traveling, how about you?" She seemed to just be making small talk.
+
+"Hmm? No, I've been between a few cities before. First time with a caravan though."
+
+"Aren't you nervous? I always heard that there are monsters and bandits outside of the cities, waiting to eat you up."
+
+I tried not to giggle, but made a small smile. "Not many monsters around here, not many bandits either. At least that's what my dad always said."
+
+One of the men in the cart laughed as he heard that. "The boy's right lass." He then turned to me. "Can't say I've seen many kids your age hauling around weapons though."
+
+I shrugged, "Family friend liked to travel, showed me how to use it in case I got in any trouble. I'm not too worried about bandits or monsters, but I don't want to be completely helpless either."
+
+"Oh? Gonna protect us from any bad guys then lad?" He was on the verge of a full belly laugh at that one.
+
+"Nah, but if someone comes after me I'll happily kneecap them before I run." Now about half the cart was snickering.
+
+"Good! At least you're not a complete fool then. If anything does happen let the caravan guards deal with it, lad like you will only get in the way."
+
+I nodded, and he patted my shoulder. As we talked a bit more about the goings on I looked out the back of the wagon. I got one last look at Istlan as we rounded a corner, it had been my home for a good while, but the idea of staying was stifling. I couldn't live under the rules of the priests. If it had been my family, I wouldn't have minded. They weren't the same though, while I respected them, there was no love there. Without that bond, and without obligation to help those who'd protected me... I had to leave, there was simply no other choice. Perhaps that's what made bards. Without strong enough bonds of love, we just wouldn't stick around. Sooner or later the obligations and pressures would drive us to find something different.

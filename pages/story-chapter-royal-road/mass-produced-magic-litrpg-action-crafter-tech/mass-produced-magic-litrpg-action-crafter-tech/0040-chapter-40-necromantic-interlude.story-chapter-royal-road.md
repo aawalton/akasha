@@ -1,0 +1,125 @@
+---
+id: 10de1eb7-4520-5685-b560-8b22614d36e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 – Necromantic Interlude"
+slug: 0040-chapter-40-necromantic-interlude
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 40
+ownLength: 1683
+unit: words
+publishedAt: 2025-01-04
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1992303/chapter-40-necromantic-interlude"
+royalRoadId: "1992303"
+---
+
+Pain. It raced through the old necromancer, Diana, and she hissed, opening her eyes. An ornate table with the most exquisite foods greeted her. Seared meat was piled high. Fruit was piled in decorative piles, and glowing wine sat on the table. Looking at her empty, golden glass, she snapped her fingers and gestured toward it, a long nail cutting through the air. Oh, Kindra. You were always a troublesome one. She sighed.
+
+A servant in a black and white dress dashed forward and refilled the goblet with the glowing fluid. Diana reached out, took the goblet, and drank, savoring the sweet and spicy taste of mana. It flowed through her, soothing the backlash from the spell. Who was killing my undead like that? She frowned and looked up at the rafters of the ornate building. A chandelier lit the large, stone dining room, its candles flickering and reflecting off the glass.
+
+“Mother?” a man asked from down the table, returning her thoughts to the pointless conversation she’d left behind.
+
+Turning, she looked at the man in a perfectly tailored, elegant black suit. It fit his body like a second skin, providing a nice contrast with his short, white hair and pale blue eyes.
+
+Looking at her with an expression of concern, he frowned. “Mother, did you hear me?”
+
+“I apologize. There was a matter on the dwarven realm,” Diana replied. “I needed to handle it.” Her fingers drummed on the glass. Such a troublesome project. Frustration spread through her, and she forced it down. It needed to be done.
+
+The man raised his brow. “And it’s handled now?”
+
+“I have it handled and know where she is,” Diana replied, waving her hand dismissively. Her thoughts drifted back to the dwarven world and the girl that remained there. I’ll need to find and kill the radiant caster, and I’ll need to go retrieve her. She studied her hands momentarily, memories flashing by. Perhaps she’ll see reason.
+
+A woman cleared her throat. “Tell her, Spencer. Tell her, or I will.”
+
+Diana turned toward the voice. A woman sat there, swirling her wine. Her black dress clung to her body, revealing every curve.
+
+Spencer glared at the woman before gesturing toward the servant. “We ran into a complication, mother.” His eyes turned icy, rage spreading across his face. He gestured a servant forward. “Show her.”
+
+The trembling man stepped forward and lifted the cloth, revealing a head with white hair, icy blue eyes, and a hooked nose. The servant swallowed and quickly covered it, stepping back into the shadows without a sound.
+
+Diana sighed loudly. “Savages.” She frowned and looked back at Spencer. “Please tell me that you sent them a firm message before retreating.”
+
+“I didn’t have time.” Spencer lowered his head, swallowing.
+
+“More work for us to do,” the other woman said, sighing loudly.
+
+Diana sipped her wine and looked at the two. So young. So young and foolish. She paused. “He lost control over his shield?”
+
+“Yes,” Spencer admitted. “They applied enough force that it snapped.”
+
+Very well. They need a lesson. Diana contemplated killing him for a moment before dismissing the thought. “I will handle it.”
+
+“Thank you,” Spencer said, leaning back in the chair.
+
+“You will both come with me. I wish to see how far you’ve progressed, and I trust you won’t disappoint me with some pathetic showing again?” Diana asked, a stern frown spreading across her face.
+
+“Of course not,” Spencer said. He paused. “How is the war going?”
+
+“The same as ever. You must learn patience. That is our greatest skill.” Diana took another sip. “And you must push yourselves.” She leaned back against the cushion, studying the two. I shouldn’t have agreed to take them as my own. She drummed her fingers on the table. They do not compare to her… Memories flashed through her mind. A soft smile spread across her face, and Diana took a moment.
+
+Pulling on her skill, her vision faded away. Black streamed around her, and she felt thousands of eyes. Reaching to one, her vision snapped elsewhere. She looked into the gray of the dwarven realm. Now. Where did they go? Willing her flying minion forward, she cruised away from the city, searching the forest for any sign of the girl.
+
+Flying down, she soared into the trees and quickly found the trail. She followed it, flying deeper and deeper into the forest. The trees blurred around her. Banking around trees, she followed, the bird’s gaze flickering between the ground and the pathway forward.
+
+The sounds of a stream filled the air. The birds above went quiet, and she slammed back into her body. Hissing, she felt the phantom pain of talons sinking into her back. Cursed forest. I should burn the entire thing down. She massaged her brow, letting the headache slowly fade.
+
+“Mother?” the other woman asked.
+
+“What?” Diana snapped, glaring at her.
+
+The other woman went quiet.
+
+“I had to verify things on another world. Both of you need to acquire and learn the skill.” Diana picked up the goblet and drained it, letting it sooth away the headache. Crossing worlds wasn’t easy, even with her skills and power.
+
+Reaching forward, she grabbed a fork and knife, spearing a piece of seared meat. Dropping it on her plate, she ate with ferocity, savoring the raw meat and taste of blood.
+
+The two went quiet, rapidly eating. A nervous servant darted forward and refilled her glass. Diana ignored her and downed the glass.
+
+Picking up a napkin, she wiped her mouth and stood. “Very well. Let us handle the realm of night elves.”
+
+“Are we burning down a city?” the woman asked, standing with a dark smile.
+
+“We will sow the seeds. These things take time, dear. We are not the raging inferno, burning everything in our path. We are the farmers, those who expand their fields and grow their crops.” Diana turned and walked toward a side room. “We will need to start this quickly. I do have other matters.”
+
+“Other matters?” the woman asked. “What matters?”
+
+It was a mistake. Diana turned, her voice turning icy. “You overstep and have already cost me both reputation and time.” She glowered at the woman. “I allowed you to be my daughter. Do not push it further, Elana.”
+
+Elana paled, swallowed, and nodded.
+
+Diana turned and walked to a room. The walls were lined with runes, etched in a flowing pattern that created a sphere of silver and gold. The candlelight glistened off the walls, casting the room in a large glow. Realm travel, so irksome.
+
+Walking into the room, she stood in the center of it and pulled on her magic. Like diving in an ocean, it crashed over her, and she looked at the two. “Come.”
+
+The two scrambled into the room, taking a position next to her. Diana’s eyes glowed, turning a vibrant blue. Willing the final runes into her mind, she focused on the night elf realm. The magic roared out of her, flowing through the etchings on the wall. Blazing like they were made from the sun, stars, and moon, the symbols flared and twinkled. Pressure surged around them, and the dazzling lights faded. Blackness tugged at their bodies, and the three slammed onto the surface of another world.
+
+Taking a deep breath, Diana blinked away the blurriness in her vision and looked into the dark. A strange purple light from the distant star lit the area. Towering trees of blue and purple filled the air, and an arrow slammed into her shield.
+
+Grabbing her skill, she extended the magical barrier and shook her head. “Fool elf,” she hissed, turning and locking onto the target. A small group of night elf soldiers stood there wearing scanty clothing.
+
+A man’s eyes blazed with a dark blue light. He nocked an arrow so fast that his hands blurred. The others did the same, causing their arrows and bows to glow.
+
+Diana’s eyes focused on the glowing runes. Stamina reduction and augmented strength. The fools. She smirked.
+
+“You should not have come back, abomination.” He released his arrow. Glowing bolts rained down.
+
+A wave of fire slammed into her shield. Diana reached out and triggered her skill. A cloud of green filled the spherical shield, surging in intensity. Looking over, she watched the two others do the same. Good. They are learning.
+
+“Die!” a night elf hissed, and everything went silent. A beam of light smashed into Spencer’s shield, and it shattered. He gasped, and his body incinerated.
+
+A growl ripped from Diana’s throat. “You’ll pay for that.” She flooded magic into her shield, filling it with the toxic green mana.
+
+Ending her spell, she began another, pulling on her remaining mana and triggering Recall. The magic surged around her. Pressure built, and the world faded.
+
+She snapped back into the room. Turning, she nodded. “Well done, daughter.”
+
+“Of course. I listened, unlike some.” Elana paused a moment. “You know that I am not your enemy, mother.”
+
+My outburst. Diana sighed and gestured to the empty space where Spencer should have been. “You see my frustration.”
+
+“Yes, but I am not him.” Elana stepped forward, her dress swishing around her ankles. “The dwarven world? Is there a cause for concern? I know that the recent events were costly to you.”
+
+Diana blanched, the reminder unnecessary. It was the ultimate travesty to lose her like that. “I’ll handle it.” She straightened her black dress and walked out of the room. “I need to prepare a replacement for Spencer. It will take some time.”
+
+“Of course, mother.” Elana nodded and walked up to the table. “I will ensure our duties are obeyed.” She took another drink of the wine.
+
+Diana did the same, draining the refilled glass. Shame. This will take a few days. She looked at the servant, who edged forward to refill it. She held out her hand and let her thoughts drift. Do be safe over there, daughter, dear; I can’t have you dying on me. That would not do. That would not do at all.

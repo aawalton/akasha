@@ -1,0 +1,357 @@
+---
+id: 3bc25055-d667-5b18-96b5-85413d6f0815
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 372 - Magics Consumed"
+slug: 0028-chapter-372-magics-consumed
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 28
+ownLength: 3300
+unit: words
+ownProgress: 3300
+publishedAt: 2024-01-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1474616/chapter-372-magics-consumed"
+royalRoadId: "1474616"
+markedReadAt: "2026-06-29T19:36:11.797Z"
+---
+
+START OF BOOK 10
+
+Tala came back to her physical body in a rush, feeling power flooding through her as the cheshire core and Kit finished combining with her bloodstar.
+
+She sat in a testing room beneath the Archon Complex of Bandfast, her soul-binding with Kit: Complete.
+
+Her magics consumed the spellforms on the floor, causing it to appear as if the precious metals were being drawn inward before vanishing altogether.
+
+As the last specks of gold disappeared along with the power contained within, she felt Kit click into place in relationship to her soul.
+
+Mistress Elnea—metaphorical holder of the Bandfast City Stone, Paragon, head of the local Archon Council, and expert in soulbonds with dimensional storages—was engrossed in the information her magics had garnered during Tala’s bonding of Kit.
+
+Master Simon—Fused and research assistant to Tala—was similarly enthralled by what his own artifacts and magical measuring devices were telling him.
+
+Refocusing on that which was currently critical, Tala looked to her newest soulbond.
+
+Power poured into Kit through the bond, and Kit guzzled it down even as the pouch vanished, seeming to fade from the physical world.
+
+Tala’s eyes were closed, but that was hardly a barrier given her sixteen bloodstars each mirroring her perspective to give sight along each direction of each axis from two points. Thus, she was ‘looking’ up, down, left, right, forward, back, starward, stoneward from two clusters, one starward and the other stoneward of where she sat.
+
+Additionally, each cluster was rotating to give sweeping fields of view, and hopefully maintaining as close to perfect awareness of her surroundings as possible.
+
+With a flick of thought, a hatch opened below Flow where the knife sat on a shelf, dropping it seemingly through the wood upon which Tala had left it.
+
+Tala watched the magics respond to her will, connecting the superficial to her sanctum, which rested where it had before, connected to the core of magic that was Kit.
+
+The little devourling had grown considerably.
+
+I’ll look into that in a moment.
+
+An instant after Flow began to fall, that hatch was gone, and Tala opened her hand, allowing Flow to pop up out of a portal in her palm, which closed instantly, allowing her to grab the weapon already properly positioned for her use.
+
+Oh, I like that.
+
+-That is quite nice.-
+
+With Flow back in hand, she had her iron in contact with her once again, and that felt good.
+
+On a whim, she let her iron flow back over her inscriptions, sandwiching each and every line within the spatial dimension of magic. She then caused her iron to pool out over her skin, beginning the pressure-cooking process as the torrential inflow of power through her gate quickly filled her to capacity without slowing in the least.
+
+This time, however, as the magic reached uncontainable levels, the power was bled off into Kit, preventing any spillage.
+
+Even so, she still felt the manifestations seemingly carved of light appear across her form under the illusion of her through-spike…
+
+Her through-spike!
+
+The illusions were fading, and her false outward-facing aura was dispersing. There simply was no magic for it to work with since Kit cleaned up the dregs before they could go to any other purpose.
+
+With a thought, Tala forcefully directed some of her power to the item.
+
+Kit… didn’t approve, but they were able to come to a compromise. They needed the through-spike functional in order to get access to more things to eat, after all.
+
+WIthout it, she’d have a hard time entering human cities.
+
+Tala felt herself smile at that line of reasoning. It was going to take a bit to adjust to her newest bond.
+
+Focusing back on the manifestations of her magic within reality itself, she was satisfied with how they seemed to be working, adding yet another layer to her power.
+
+Her newly conceptualized sight also showed that she had similar echoes and manifestations both starward and stoneward as well.
+
+But that had brought Kit back into her notice, and so she focused her attention there.
+
+Stoneward of Tala rested a core of magical power, a knot of natural magics that were now wholly Tala’s.
+
+Where before they’d been fraying channels formed of Kit’s own magic but filled with Tala’s, now both channel and power belonged to Tala.
+
+Just as both belonged to Kit.
+
+The damage was repaired, not leaving a trace of anything undesirable, and the magics, themselves, had changed.
+
+Where before there were thick cables of knotted power, there was now an almost incomprehensible tapestry of thread skillfully interwoven to form complex and potent magics.
+
+Needless to say, the newly advanced Kit was powerful.
+
+The artifact had undergone a qualitative reworking as the Mage-level magics had been drawn up to Refined by the mere fact of bonding to Tala’s Refined power and body.
+
+Tala couldn’t really tell what that meant yet, but she knew that Kit would be even more capable than before.
+
+Maybe she can consume faster?
+
+-Devour.-
+
+Tala huffed a laugh. Right, devour.
+
+-Probably. I would bet that she—and we—can now control the matter within the sanctum to a much greater degree, and with much more fidelity, but that would require testing.-
+
+Agreed.
+
+Tala hesitated before a realization came to her, You know, I didn’t notice any of our other soulbonds trying to influence this merging. Do you think it’s because both Kit and I had a mind, so there wasn’t really room for other interference?
+
+-That’s as good a theory as any.-
+
+Tala shrugged internally, focusing on her new bond with Kit. I wonder if I can finally lock Terry down, and prevent him from teleporting around, at least within the sanctum?
+
+The idea pulled her attention to the terror bird, who was still in his corner, one taloned foot resting on his chicken.
+
+The chicken seemed to have exhausted itself in its terror, as it wasn’t even trembling anymore, and its eyes were glassy and unfocused, even while its feathered chest still rose and fell in a regular pattern.
+
+Tala felt a mischievous grin spread across her face.
+
+-That’s probably not the best… oh, you’re already doing it.-
+
+A hatch opened beneath Terry, causing the chicken beside him to drop through with an almost relieved—but still terrified—squawk.
+
+Terry flickered to Tala’s shoulder before dropping even a fraction of an inch, already chirping irritatedly before headbutting her cheek much harder than was strictly necessary.
+
+Tala chuckled. “Sorry to have lost you your friend, Terry. I was just testing the limits of what I can do.”
+
+Terry chirped again in a descending series of notes, then looked around grumpily.
+
+It took Tala a moment to realize that he was looking for Kit. “Oh, here you go. You can go inside.”
+
+A swirl of vapor opened a miniscule connection to her sanctum.
+
+Terry gave her an incredulous glance, then flickered away, easily passing through the incredibly small opening.
+
+I knew it.
+
+-Yeah, we figured he could get smaller, or at least pass through exceedingly tight spaces.-
+
+Mistress Elnea and Master Simon both approached Tala, the Paragon speaking first, “I think we are right in assuming that things went well?”
+
+Tala nodded, smiling at the older woman. “Yes, I believe so. Where would you like me to place the entrance to Kit so that you and your team can assist Master Simon in completing the teleportation functionality?”
+
+Mistress Elnea nodded and pointed at one wall. “That should work.” She looked to Master Simon, “Your family is welcome to return at any time. I do have one test to run, just to make sure that everything we theorized did work as expected.”
+
+With a thought, Tala caused a door to appear in the wall where indicated, and it swung open, revealing the central plaza of her sanctum.
+
+Tala stood up, frowning slightly, “What do you still need to test?”
+
+“Well, if I’m going to ask those under my command to go in, I need to confirm that there is no soulbonding.”
+
+Her eye twitched. “I thought you said that wouldn’t be an issue.”
+
+“And it shouldn’t be, but we shouldn’t mess around when soulbonds are potentially involved.”
+
+Tala reluctantly nodded, “So, what are we looking for?”
+
+“Well, I’m more advanced than you are, so I will make it utterly clear that I wish no bond, and if one is required to enter, I will not be able to cross the threshold.”
+
+She bit her lip. “Terry just entered, and I’m not bound to him or the other animals within.”
+
+Mistress Elnea nodded. “That is all well and good. That proves that we were at least mostly correct in our estimations, but the gated human soul is a bit more predisposed toward soulbonding than almost any other.”
+
+“Right.” Tala nodded in resignation. “Let’s get it done, then.”
+
+The Paragon walked to the open door and spoke under her breath. Tala caught it anyways, “I foreswear all potential connections. My soul is my own, and not open to a bond.”
+
+Then, without hesitation, Mistress Elnea stepped through the door. There was no difficulty, resistance, or attempted bonds.
+
+Even so, Tala felt her eye twitch at what she witnessed.
+
+Her mundane sight showed the Paragon less than ten feet away through the doorway, but Tala’s other sights revealed that to be an illusion, as the woman was, in fact, standing in the expanded space, stoneward of Tala, within her sanctum.
+
+The Paragon grinned as she came back out. “There we have it. Exactly as expected.”
+
+Tala watched yet again as the woman seemed to instantly move from Tala’s sanctum to the room in front of her.
+
+I didn’t see any magics act on her. But how could they have?
+
+-Yeah, she’s a Paragon. Our magics should struggle to do anything with her, let alone act without leaving a trace.-
+
+I think… I think I need to spend a lot of time analyzing this.
+
+-Back in Alefast?-
+
+Oh, definitely. We need to go meet up with Rane.
+
+-I’ll message him… done.-
+
+Thank you, Alat.
+
+Rane had gone to meet with some friends while Tala dealt with Kit and her bonding of the dimensional storage. They’d agreed that Tala would find him when she was done, and she planned on doing that sooner rather than later.
+
+Master Simon was clearly sending a message with his Archive slate, likely to the receptionist upstairs, as he and his family had agreed that they’d check in with her to learn when and where they could return to their residence within Tala’s sanctum.
+
+“Well, do you need anything more from me?”
+
+Mistress Elnea shook her head. “No, I’ve advised my assistants, and they’ll be here shortly. Unless things are entirely unlike our assumptions, I expect we’ll have the teleportation scripts working for outbound travel in a couple of hours. Inbound might take a bit longer, but it shouldn’t take more than the end of the day.”
+
+Tala blinked, then turned to Master Simon, one eyebrow raised.
+
+Mistress Elnea preempted Tala’s incredulity, “I’ve looked over his notes, Mistress Tala, and he did an excellent job in attempting to get teleportation working, but while Kit was still unbound, her natural magics were an unknown that was impossible to account for when dealing with teleportation. Additionally, I will bring my tools and means as the Head of the local Archon Council to ensure that this is accomplished. Either it will be done before you depart the city, or it can’t be done, and I don’t see that being the case.”
+
+She smiled at the last, causing Tala to smile along with her, “That’s fair.”
+
+Master Simon gave a shallow bow, “Thank you for trusting us with this project, Mistress Tala. We won’t disappoint you.”
+
+“I know you won’t, Master Simon.” She turned her attention to the sanctum, and immediately had a view of the entirety once again.
+
+Terry was chasing chickens, pinning them for only a moment before releasing them to pursue others.
+
+The various wildlife and farm animals were going about their regular routines.
+
+Io still floated in her tank, utterly unmoving and unmoved.
+
+Tala’s eyes widened, “Oh… Oh, that might be bad.”
+
+She had spoken quietly, but something in her tone caused both other Mages to orient on her instantly. Mistress Elnea’s voice held a note of command when she inquired, “Mistress Tala, please explain.”
+
+“I have an automaton within my sanctum.”
+
+“Yes, that is known, it’s…” The Paragon trailed off before returning, a hard edge to her words, “Did you have any oddities in your visions for the bonding and merging?” The question bordered on impropriety, but Tala didn’t blame the woman. There was a reason that automata were heavily controlled bits of magical construction.
+
+Tala even felt something from the woman focus on her, pushing against her aura in an irresistible manner, likely to detect whether or not Tala answered truthfully, “Nothing relating to automata or anything even hinting a connection.”
+
+Tension bled from Mistress Elnea as she nodded. “Then, it should be fine. The magics of a bonding don’t tend to penetrate into expanded spaces, else you’d have bonded every animal within, and that would have cracked your soul.”
+
+Tala nodded. She’d known that was a remote possibility.
+
+Alat huffed, -Remote in the vein of catching a snowflake on your tongue containing the exact molecules of water that you caught on your tongue the year before on the same calendar day, and the year before.- Alat hesitated a moment, then added, -And on for a decade. The same molecules every year on the same day, caught in the same way.-
+
+Alat, I don’t really catch snowflakes on my tongue.
+
+-That was taken into account.-
+
+Tala chuckled internally. So, not possible.
+
+-It was and is technically possible, but not actually possible given the choices made.-
+
+She hesitated at that. Huh, then that really was a perfect analogy.
+
+-I know, right?- Alat beamed happily within Tala’s mind.
+
+Thank you, Alat. Tala grinned. Thank you a lot, Alat.
+
+-Happy to assist, even when you make bad puns.-
+
+You are me, lest you forget. So you are happy to assist even when we make bad puns.
+
+Alat groaned, but it was obviously good-naturedly.
+
+Master Simon cleared his throat, “Well, with that minor scare out of the way, I think we should get to work.”
+
+Tala bowed to each in turn—deeply toward Mistress Elnea and a nod of acknowledgement to Master Simon—before departing. “I’ll watch for your communications. Please keep me up to date!”
+
+“Yes, Mistress. Enjoy your time in the city.” Master Simon bowed deeply.
+
+“We’ll keep good notes, stay safe,”—Mistress Elnea smiled playfully—“at least until we have the teleportation functions working. Then, at least, we could get out if you died.”
+
+Tala laughed, waving over her shoulder without turning around, “I’ll keep that in mind.”
+
+-He responded; I can lead us to him.-
+
+Then by all means, my Alat, let us away.
+
+*  *  *
+
+Tala arrived at the arena where she and Rane used to train with the other Archons, and instead of entering the combat area, Tala made her way up to an observation deck, looking down on what was happening below.
+
+It was a sight to see.
+
+Rane was fighting Master Cazor, and the experienced Mage Hunter was actually on the backfoot.
+
+Rane was practically bouncing off of the stone walls, sandy floor, and wire-mesh ceiling to avoid the sweeping rivers of iron.
+
+It was most clear on the sand and with the wire mesh, but Rane wasn’t putting any pressure on that which he launched from.
+
+He’s getting better every day.
+
+He even somehow managed to redirect off of the very iron he was avoiding, though Tala had seen Master Cazor grab onto Rane with the clouds of particles in bouts in the past.
+
+Force flickered and flashed throughout the dizzying acrobatics, blowing apart clusters of iron, sending plumes of sand to distract and disrupt, and even landing blows on hastily raised defenses, causing Master Cazor to struggle to maintain any semblance of control in the arena.
+
+Rust me, he’s gotten better.
+
+-Yeah; that he has.-
+
+She continued to watch what was obviously a forgone conclusion. Regardless, both men continued fighting until the end.
+
+When it came, it came quick.
+
+Rane redirected off of the ceiling, spearing straight toward Master Cazor with Force held before him like the tip of a lance.
+
+Master Cazor tried to sweep Rane from the air, but Rane pulled out something new.
+
+From his leather loop, Rane drew forth a handful of magically powerful magnets, throwing them out to spread around himself.
+
+There had to be further magics involved, because while they weren’t drawn to each other at all—in fact they even seemed to repulse one another—they obviously completely changed the magnetic landscape of the battlefield.
+
+Master Cazor saw and corrected like the expert that he was, but the moment’s delay and reprieve was all that Rane needed.
+
+He stopped, his sword resting against Master Cazor’s shoulder in a pull-cut that would have forced the Mage Hunter to move toward Rane in order to mitigate the damage.
+
+Taking the blow would have thrown the smaller man into Rane’s embrace, where it would have been a quick end to the fight as well.
+
+Master Cazor laughed, the iron in the air freezing in place, then dropping to coat the sand in beautiful, swirling patterns of dark gray on tan. “Well fought, Master Rane.”
+
+Rane grinned in return, “And you, Master Cazor. I think if I didn’t have the ceiling, I’d have lost long ago.”
+
+The other man waved that off, “Some battlefields favor me, some favor others. I would be a poor opponent if I complained after such a well-earned victory on your part. Besides, having so much iron readily available in the sand has to be taken into account. If anything, I gained more from this arena than you did.”
+
+“I disagree, but thank you.”
+
+“I have to ask, though, did you specifically get magical items to counter me?”
+
+Rane shrugged, his smile widening, “Among others, yes.”
+
+“Are they monopoles?”
+
+“That’s right.”
+
+The man shook his head. “Magic is amazing. They must have been expensive.”
+
+“Somewhat. They were actually harvests off of a truly fascinating metal elemental. There were two of them, found in near proximity to one another, and each had more than a hundred monopoles.”
+
+“The other halves in those within the other?”
+
+“Exactly.”
+
+“Huh, not necessary, but an interesting way for them to have been formed.”
+
+“That’s what I thought.” Rane nodded in agreement.
+
+Then, in the brief lull in their post-fight conversation, both men turned to look up at Tala.
+
+She waved, smiling in return.
+
+Master Cazor’s lip curled in wry amusement, “See anything you like?”
+
+She chuckled, “I’d love to fight you both, but that’d be a bit unfair.”
+
+Rane nodded seriously, and Master Cazor grimaced, “We don’t have enough Fused friends to even the odds against a Refined, battle-hardened Defender, let alone you.”
+
+She laughed happily at the obvious compliment, “Well, thank you, but it could still be fun…”
+
+He laughed. “True enough.” He looked to his previous opponent. “What do you say?”
+
+Rane didn’t look to Master Cazor, instead meeting Tala’s gaze with one of determination, “I’m always game for a round.”
+
+-You’re not very nice sometimes, Tala.-
+
+I’m not going to humiliate them. Besides, I’ve been working on controlling my iron despite competing forces. If anyone can test that properly, it’s Master Cazor.
+
+-True, and Rane?-
+
+He’s always enjoyable to spar with. Even when he isn’t a ‘true’ opponent, he’s good enough to press me to be better.
+
+-And he seems to be hunting for ways to counter you as well.-
+
+Tala’s smile grew as she dropped down into the sandy pit. Let’s see how well he’s done, then.

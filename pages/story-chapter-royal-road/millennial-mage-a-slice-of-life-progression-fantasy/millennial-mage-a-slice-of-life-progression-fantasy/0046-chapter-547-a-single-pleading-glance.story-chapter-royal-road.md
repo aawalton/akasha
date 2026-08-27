@@ -1,0 +1,227 @@
+---
+id: 2679dc5b-31dd-59de-82b6-dba907ab4a5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 547 - A Single Pleading Glance"
+slug: 0046-chapter-547-a-single-pleading-glance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 46
+ownLength: 3130
+unit: words
+ownProgress: 3130
+publishedAt: 2025-04-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2181432/chapter-547-a-single-pleading-glance"
+royalRoadId: "2181432"
+markedReadAt: "2026-06-29T19:36:46.407Z"
+---
+
+Tala regarded the impossibility before her, the hungering void unable to consume the man who stood amidst it, its very nature being violated. The only place that it looked to have purchase was around his waist, where the void seemed to be all that maintained his decency.
+
+Void… as clothing?
+
+-I think it’s more that he’s allowing the void to separate the light that would otherwise be reflecting off of… that region.-
+
+Tala grunted at that. It was odd, the man himself was easily visible, the illumination upon him seeming to have no easily discernible source. He also wasn’t glowing with any sort of self-glow. He was simply visible, sources of illumination didn’t factor in.
+
+As to how he looked, the man was clearly strong without being bulky, and he had almost no fat anywhere on him, as if his body had long ago devoured anything ‘extra.’ The result moved him out of the realm of conventionally attractive and into the sort of physique that was impressive for the obvious effort a mundane would take to achieve it, while not being particularly appealing, generally speaking.
+
+-Tala… you’re in shock.-
+
+A seemingly naked, old, white man just broke into my sanctum, Alat. And now he’s standing before me, waiting for me to collect my thoughts.
+
+-Yeah, I felt him briefly look in there before finding you here, in Ironhold. That was odd.-
+
+He must not have perfect perception into my soulbound space?
+
+-Possible.-
+
+The man sighed. “Have you collected yourselves yet? I do not wish to be here, and the tedium of awaiting your silly ‘judgement’ has already taken a great deal from what I would have preferred to be doing.”
+
+Eskau Meallain was visibly trembling. “Sovereign.”
+
+He nodded easily. “Yes, yes. Do you need to worship? I think that such is a bit crass, but if you feel that requirement I can…” He grimaced. “No, I won’t dissemble. I’d simply strike you down and be on my way. Worshiping one who began as mortal is folly, no matter how far above you I have advanced.”
+
+The elf visibly swallowed.
+
+Tala shook her head slightly at the oddity of everything, then addressed the man before her, “Do you wish to come in?”
+
+He grinned, showing a row of perfectly white teeth. “No, I don’t think that I will.”
+
+Her eyes widened in surprise. “Do you fear danger? I’d thought you would be immune to my authority, even in here. I could swear not to act against you in any way if—”
+
+He waved her off. “No, no. You misunderstand. You couldn’t actually harm me in the slightest, but the insight my very presence would give you could be considered unbalancing assistance rendered to gated humanity as a whole. I don’t wish to deal with the others because of a simple matter of courtesy.” He hesitated a moment, then gave a slight bow of his head. “But I do thank you for the invitation.”
+
+-So, more than just a little light is being cut off with the void. Is that why we can’t feel his aura or any other part of his power? We can’t even properly see his reality node.-
+
+That seems likely.
+
+“But we are wasting time. Eskau Meallain. Eskau Tala has been charged with your care, and she has been additionally charged with utilizing you for the good of humanity, be it in small ways or large.” He nodded once. “Though, she could simply confine you for three millenia, if she so chose.”
+
+Eskau Meallain nodded once as well. “That is correct, oh great one.”
+
+“Good, then we have a basis of understanding.” He looked to Tala. “If you choose to confine her, I will strike her dead immediately and inform the House of Blood as to the reason for her death, closing the matter for all time.”
+
+The way he said it left no room for doubt. There would be no retaliation, nor any other negative consequence for Eskau Meallain’s death. The matter would be settled and done with.
+
+Tala felt herself pale at the very implications inherent within the absoluteness of the pronouncement. He wasn’t done, however. “If you choose to use her, however, I will insist that you not only do so in a way helpful to gated humanity, but so that Reality and Zeme are given recompense.”
+
+Tala felt a bit lightheaded. “How… how would I accomplish that?”
+
+The Sovereign arched an eyebrow. “Your advancement for one. Should you find a path in the direction you are seeking, that would provide a definitively soothing effect everywhere you went. I do not know if she could help you achieve what you seek—or if what you seek is even possible—but pursuing that would be an acceptable path forward. Additionally, your soldiers… Talons, I believe you call them. They are—or have the potential to be—salves to Zeme rather than simply more exfoliants. Once again, it is not up to me to tell you how, or even if such is possible for you to accomplish. The pursuit of such worthy goals is all I ask.”
+
+Eskau Meallain frowned, clearly sensing something underlying the statement. “And if we don’t succeed?”
+
+He shrugged. “Then when the humans release you, your life will come to an end, and all will know the reason why.”
+
+That hung heavy in the air for a long moment.
+
+“Well, that is all that I came to say… One thing I will convey—off the record as it were—is that Reality is still… inflamed by what you did in rash foolishness, Eskau Meallain. It is not a thinking entity, and yet the results can often seem so. An ancient tool of Reality’s… means is stirring, and you are to blame. It was on the rise already, but you hastened the return. Be ready.”
+
+Tala frowned. “That is so vague as to be almost useless.”
+
+He shrugged. “It is not my place, nor desire, to mitigate the natural consequences brought about by the fools who prance around Zeme.” After a moment’s pause, he shrugged again. “Regardless, I will say: Congratulations on your marriage. It was touch and go there for a while, but things seem to have worked out.”
+
+He gave a beaming smile, and Tala blinked a few times. “Wait… you know I’m married?”
+
+“Of course. Even were I not aware of the circumstances, your soul is evidence enough. Besides, I’ve been watching your progress for some time. I must say that your path is entertaining.”
+
+Tala didn’t really know what to say, but a realization struck her. Not all Sovereigns were the same, nor did they have the same power. Maybe…? “If you know that… do you think that you could…?”
+
+His gaze flickered to her hand, which rested unconsciously upon her lower abdomen. And he shook his head. “My answer would be the same as Anatalis’. He is more skilled in that type of boon than I. There is not a Sovereign on Zeme, who could do more than he and his… love.”
+
+“So, you can do nothing?”
+
+“Nothing that you would wish for me to have done, and I dislike giving boons that turn sour.”
+
+She was at a loss, so she held her tongue.
+
+The Sovereign grimaced, then seemed to think of something, chuckling to himself, tickled by a thought that seemed to have struck him. “While I cannot do anything about that issue. Your Reforging might. In either case, I think that I will leave you with a present of sorts. Think of it as a wedding gift, or an apology for not being able to help, or an anniversary present, or simply a token of my… interest.”
+
+She really didn’t know how to take any of that, and the slight flicker of hope—now extinguished—had left her feeling drained.
+
+“Tell the Sculptor of Motion that his promise no longer applies in regards to what he may discuss with you, but if he takes advantage of this allowance, it will bind your words thereafter.”
+
+There was a ripple through existence itself. Tala’s threefold sight and voidsight went crazy as every reality node around her trembled at the simple utterance.
+
+Before Tala could inquire further, the void—and the man within—was gone without fanfare or flourish.
+
+Tala and Eskau Meallain stood in stunned silence for nearly five minutes before Tala shook herself free of her revery. She placed aside her embers of hope and pressed onward. “Well… It seems that your tasks are rather set at the moment, at least until we think of more.”
+
+The elf huffed a laugh, clearly focusing on the portion of the interaction that she’d understood and which had concerned her. “So, you aren’t simply going to let him end me?”
+
+Tala grimaced. “I… no. No, I will not.”
+
+That got a somewhat relieved smile. “Thank you, I suppose. I do admit that I had not actually considered my life on the line in this… no matter how much that was a callous way of considering it.”
+
+Tala’s grimace deepened. “Yeah… that doesn’t make me think better of you.”
+
+“Well, it’s the truth. I’d rather you think rightly of me than well.”
+
+“Fair enough. So, the tasks.”
+
+“Yes, help you advance in some odd way?” The elf frowned. “I will admit, I have little useful knowledge of gated means of advancement. Do you know what he is talking about?”
+
+“Yes, but we can discuss that later. The other task should be easier. Let’s discuss the Talons.”
+
+“Yes, yes. They are a waste of potential. Oh, sure, they seem to have a good enough foundation, but they aren’t utilizing their tools well, and they lack any conceptual oomph.”
+
+“Well… of course. They don’t have concepts. They can’t.”
+
+Eskau Meallain waved the excuse away. “That’s not important. They could be powerful, a force to be feared, but even the magics they wield are… unideal.”
+
+“We work with what we have. They aren’t great at containing power, so we’ve designed their magics to maximize the use of the power that they are going to lose anyway.”
+
+She snorted a derisive laugh. “Don’t expect me to applaud the ingenuity of placing a water wheel on a spurting artery.”
+
+Tala sighed. “Except in this case, the person doesn’t die.”
+
+“They might as well. All this power, and that is all they can do?”
+
+Tala shrugged. “Then teach them. Once they can control their power better, we can alter the magics at their disposal. In that way, we might achieve something that will let you survive this.”
+
+Eskau Meallain grunted. “Possibly… We shall see what is possible. I cannot create fine lace from burlap… but speaking of material… do you have more of that white metal they were reshaping during combat?”
+
+Tala hesitated for a moment, then sighed, handing Eskau Meallain a small cube of the white steel, pulled from Tala’s sanctum by her will. “Yes, and we’re actively making more.”
+
+“Fascinating… I’ve seen some merchants and craftsmen peddling material similar to this, but none would admit to knowing the source.”
+
+Tala gave a small grin. “I may have taken the source, assuming there is only one, which I somehow doubt. The creators of the manufacturing device could almost certainly make another. Given the utility of the material? I would put a lot on the line, betting that they’ve another by now.”
+
+Another grunt. “Well, then, let’s see what you have to offer…” The metal shifted in her hand. “It takes power to mold, but it doesn’t expend the power? It is like a lock and a key…Oh, fascinating. It then becomes keyed to the one manipulating it, so that others can’t use it against you.”
+
+Tala nodded. “Until it is left inert for a time. Then it becomes usable by anyone yet again.”
+
+The other Eskau contemplated the metal for a long moment. “This is like your Talons. If used with good magical containment, it could be Zeme-shaking, but to do as you have been? As they have been? To pour power through it? It is a waste.”
+
+Tala was beginning to feel a bit exasperated at her repeated refrain. “Then teach them.”
+
+Eskau Meallain gave a single, decisive nod. “Very well. I will see what kind of lace we can make of your burlap soldiers, but I will not leave my fate to them alone. You—” She nodded again, more happily this time. “You are material worthy of my skill. I don’t know the specifics of the task, but we will find a way.”
+
+Tala gave her a flat look. “I will discuss my advancement with you, too, but not now.” Tala laughed, then, more to release her own tension than in actual humor. “For some reason, the idea of getting your input just feels right. After all, you were my mentor, and I did respect you, for what that’s worth.”
+
+The elf regarded her for a long moment, then nodded. “You still are my pupil. I still care for you and for what you may become. The House of Blood… failed, we did not live up to our tenets, not fully. You represent a chance for us to truly honor the founders’ lofty goals.”
+
+Tala sighed. “Then let’s see if we can’t ‘salve Zeme’ or whatever else we can do to pull benefit from this pile of slag.”
+
+Eskau Meallain grinned. “That, I can agree to.”
+
+The two of them left the place they had been loitering—and where they had been waylaid by the odd Sovereign—and headed toward Lyn and Ron.
+
+The two noticed the Eskau approaching, and both had similar reactions.
+
+They each closed their own book, setting them carefully aside and standing to meet the two women.
+
+Ron bowed deeply, and Lyn gave a smile and slight nod. “Mistress Tala, it is a pleasure.”
+
+“Tala, good to see you, dear.”
+
+“Ron, Lyn. I trust that you know who Eskau Meallain is?”
+
+The two oriented on the elven woman and nodded. “Yes.”
+
+“Good, that makes this easier. Lyn, she will need a place to live, and introductions around within Ironhold. She will not be permitted to leave, but Kit will keep her contained, so that isn’t your issue. Ron, Eskau Meallain will be training the Talons, you included. She will be helping them learn how to hold power more effectively, as well as how to utilize morphic weapons and armor to better effect. We will decide the details in the days to come.”
+
+The two had matching expressions of shock. Ron seemed utterly at a loss for words, but Lyn was able to master herself enough to ask. “I… see… May I ask the purpose and length of her stay?”
+
+Tala grimaced. “Well, her purpose is to supply recompense and restitution to gated humanity and Reality itself for the ills she brought about, and the length of her stay is three millennia, or such time as I determine her debt is repaid… or if I decide such won’t happen and send her to her death.”
+
+Eskau Meallain grimaced, Ron rocked back slightly, and Lyn barked a laugh.
+
+When Tala arched an eyebrow, Lyn waved her off.
+
+“Oh, I know you aren’t joking, but it’s still funny. Only you would be stuck with such a ridiculous task, and only you would have any chance of actually achieving a positive result.” She gestured around herself. “This is becoming a sort of cell, Tala. If you let them, you just might become the warden to all the undesirables of the Cycling Cities.”
+
+That made Eskau Meallain laugh in turn. “A prison on the move, all subject to her whims. That sounds positively mythic.”
+
+Tala sighed. “Let’s not be over dramatic.”
+
+Ron seemed to have collected himself, as he added in, “Well, at least we can have the prisoners train the guards. We could stand to learn from anyone willing to teach.”
+
+The elf nodded once, emphatically. “That’s a good attitude to have. Eskau Tala, will I be granted any power to call my own, with which to teach? I’ve been forbidden from drawing on my weapon, and I assume you will maintain that restriction… Or should I continue to husband the crumbs I scraped together more than a month ago?”
+
+Before Tala could answer, Ron cut in. “You’ve been holding that power for a month? With no refill?”
+
+Eskau Meallain scoffed, shaking her head. “Oh, dear child, I’ve held Hallowed level power for centuries after scraping it together from the dregs of the southlands. If I were to have this hold’s power at my disposal, I could crush any save the Sovereigns themselves, and even they would hesitate to test me.” She gave Tala an almost hungry look. “This place is a resource that could topple worlds.”
+
+Tala sighed, closing her eyes and hoping for strength to bear the woman’s antics. “So, we won’t be doing that.” Still, she didn’t want to hamper the woman’s ability to teach. “I will allow you to draw in power anytime you are below Mature in density within your flesh. If you are controlling power outside of yourself, it will be considered as if it were compacted and within you. You won’t be allowed to gain authority over a large area of ‘low density’ power before pulling it all in and achieving a higher level.”
+
+Her prisoner only gave a slight grimace. “Very well. I will operate under those restrictions. It is good to know that you have such fine control in your hold and the power within it.”
+
+Tala gave a half smile. “So long as you don’t forget that, we should all get along swimmingly.”
+
+“Oh, I won’t forget, Eskau. I won’t.” She gave Tala a meaningful smile before turning back to Ron. “Now, lead me to your people. I have to forge fighters out of brawlers, and I only have your silly human lifespans in which to do so.”
+
+Ron winced, holding up a finger in clarification, seeming reluctant to do so, but also unwilling to let the misunderstanding remain. “Actually, we believe that we should be incredibly long lived, now.”
+
+That caught the elf by surprise, and she looked to Tala. “Truly?”
+
+Tala shrugged. “It seems so.”
+
+The smile that spread across those elven lips was practically malicious with glee and anticipation. “Well, then. Maybe we will be able to make meaningful progress after all.”
+
+Tala felt a headache coming on, and Ron seemed to feel the same way. After saying goodbye to Lyn, he led the elf away, only sending a single pleading glance back their way before the two were out of sight.
+
+Lyn sighed. “If she breaks him, I’m going to be irritated with you.”
+
+Tala barked a laugh at that. “Well, we’ll just have to keep a close enough eye to ensure that she doesn’t.”
+
+Lyn nodded once, emphatically. “That we will.”

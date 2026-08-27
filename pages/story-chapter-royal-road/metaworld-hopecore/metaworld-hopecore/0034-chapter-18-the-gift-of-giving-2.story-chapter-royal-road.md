@@ -1,0 +1,97 @@
+---
+id: de7ca9b5-4b6a-5b40-817d-b5a2e3f08703
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 18 - The Gift of Giving (2) "
+slug: 0034-chapter-18-the-gift-of-giving-2
+partOf: metaworld-hopecore
+position: 34
+ownLength: 1593
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368875/chapter-18-the-gift-of-giving-2"
+royalRoadId: "3368875"
+---
+
+Thanks to the work of her Media Manager, almost every student at LAPA now knew that a Sophomore had created a song that briefly touched the rare rank of top 20 on MySpace. Everywhere she went now, there would at the very least be smiles and nods, and glances from strangers as they tried to discern if this tiny, jogging blonde was indeed the girl in the dark, singing in the parking lot.
+
+Week 5, much like the prior weeks, came and went like a flash in between assignments, essays, flash quizzes, and ever more intensive hours spent either prepping for the auditions, practising the guitar with Zara, and working on the evolving techniques taught by Dr Cooper, Costello and Miss Seyrova.
+
+From their instinctual acting, they moved into the heavy theories of Rudolf Laban, categorising their deliberation of actions into the Eight Efforts, acting out the cornerstones of body theatre in ways she never knew existed. For Eppie, the application of Laban Movement Analysis (LMA) gave language and dimension to something that had previously been vague and ambiguous. Though complex, it allowed Costello to give exact instructions to the student actors struggling to perceive the physical dimensions of immaterial expression, such as that of emotions.
+
+The theory was a complex, ongoing process, though Eppie had a memory like no other.
+
+With her newly acquired [Noblisse Oblige], Eppie’s ambitions once more turned to old connections and familiar faces. She had not seen Armand for weeks. Rumour has it that he was obsessively painting, but now it just seemed that the boy was avoiding her.
+
+Considering that he had recorded her singing Starry Starry Night, there was most definitely a piece of the pie reserved for his artistic self—but she had also expected Armand to seek her out by now.
+
+The principal reason was that Eric had called and asked if she had anyone she wanted to bring with her. Her very first thought was to bring Zara, but Eric had said that Antonio would be her guitarist, and there was no way Sony’s execs would risk having a student play her backing track live, especially when the host was Juliana Vaughan.
+
+Nonetheless, she had a “spare ticket”, and it was a very good opportunity to give a young artist an unforgettable night at the Met.
+
+Of course, her guest had to pay for their own airfare and accommodation, unless they wanted to share a room with Eppie.
+
+On Wednesday, when the theatre was done, Eppie decided it was time to visit the arts rooms.
+
+Unlike the dance, music and theatre kids, Fine Arts had their abode in the underbelly of the old school building. Armand, however, was a selected talented senior, meaning the school had hired more roomy, artistic spaces for seniors with Showcases in Fall and Spring.
+
+This would be the Whitman Hall complex, a beautiful Art Deco building of salmon sandstone, with neo-classical columns made in postmodern styles to accentuate CSULA’s heritage of the arts.
+
+Using the power of the smile, she asked security where she would find LAPA Seniors, then made her way down into the interior of the gallery. She wandered past the massive Sculpture Lab and the Kilns, the heavy presses where the print makers experimented, and arrived finally in a white, sterile display space. Presently, there was nothing sterile about it, because the corner assigned to Armand was covered with tarps and dividers, with a smell of turpentine so thick that Eppie could taste it.
+
+“Armand!” She called out toward the canvas-strew barrier. “Guess who’s here—”
+
+“NO!” the artist sounded like he had leapt out of his skin. “Don’t come in!”
+
+Her whole body froze.
+
+“Are you naked?” she asked. It was a very sensible question. Artists, even Persian ones, could be very strange.
+
+“... I am not,” Armand’s voice replied. “I just… It's not finished.”
+
+“Okay… okay…” Eppie stood on the edge, her curiosity burning a hole in her frontal lobe. “So er… I have a thing for you…”
+
+She explained that in three weeks, on Saturday the 6th, she would be flying out to NYC, staying the night, and then performing at the Met. There will be Van Goghs, and there will be Madam Juliana Vaughan. Unfortunately, Sony will not be paying for the flight and accommodations of her one allocated guest.
+
+“I asked Eric, and he said that cattle flights should be around $340, $600 for return, and the hotel he can subsidise with corporate, so it’ll be $300 a room. You have a passport, right?”
+
+“I do.” Armand’s voice reverberated around the room. “And I’ll do it, I got money saved up.”
+
+Finally, her painter friend emerged from behind the tarps. The man was covered in oil, and his eyes were bloodshot. “Thanks, Eppie. I don’t know what else to say.”
+
+“Well, what else needs to be said?” Eppie tilted her head and flashed the boy a golden grin. “I am somewhat partial to people who pull me out of the sea.”
+
++ Karmic Causality+ Karmic Causality
+
+Even with her two free Gen-Ed subjects, Eppie had no more time to think and plan for the next three weeks. By the time October rolled around, the whole school buzzed with activity, counting every second as final auditions for Theatre, Music, Dance, and the selection of Fine Arts and Cinematic Arts rolled into view.
+
+During these two weeks, Chair Cooper was their primary instructor, working with the students on something called the “Linklater Voice”, built on the belief that everyone was born with the means of expressing every emotion, while social masks create physical blocks that prevent cognition of man’s natural gifts.
+
+This came as a jarring conflict to the students, who had each developed their own idea of theatre voice. For Eppie, this was doubly strange, for she didn’t even know what Eppie’s original voice sounded like, if indeed it was tied to the physicality of her internal fears, and the subconscious manipulation of her masseter muscles.
+
+Over three weeks, the students worked on their characterisations, and also the resonance of their voice, to really draw out the depth of vocal projection from their gut, shifting the habitual throat voice to the resonant chest voice.
+
+In particular, “The Call” was an incredible skillset that made her feel a physical leap in her [Vocality] trait, though apparently it wasn’t enough to raise the ranking of her potential talent. Nonetheless, she had an idea to integrate this into her work with Zara, particularly in capturing the permeating pain so inherent to In the Pines.
+
+The Linklater was to cause Josefina a great deal of mirth, for she had walked around the apartment practising how to loosen her jaw, to which her Latina dorm mother responded by giving her a block of brick-like chilli jerky. Ten minutes of chewing later, her jaw was truly hanging off its hinges.
+
+At last, the 6th arrived, and so did Eric in his pickup. They met Armand outside the dorm building, with the young man being accosted by Josefina, this time demanding why he wasn’t coming to see Eppie.
+
+After a round of teasing, the trio made their way to LAX, parked in corporate, then made their way through security. Armand was randomly selected for a security screening, leaving Eppie and Eric waiting awkwardly at the exit.
+
+On board, Eric once again directed them toward business, while Armand left for Economy. The difference in treatment made Eppie self-conscious for the first time in a long time, because, for most of her life, she had only flown business or first class.
+
+Perhaps seeing her face, Eric had offered to change seats, but Eppie only shook her head. What’s done was done, and charity would only make a prideful artist more aware of their lack of success. In the future, when Armand hit the big leagues, he would also fly business, and he would think of his childhood more fondly.
+
+At 4 PM, they landed at LaGuardia, met their Sony chauffeur, and then checked in at the historic Hotel Surrey, about an 8-minute walk away. After a sumptuous steak dinner, Eppie left for a power jog in the familiar avenues of Central Park, easily leaving Armand in the dust, puffed out and gasping for air.
+
+At eight, the group reconvened at Surrey to check notes and reply to emails from headquarters. The private function was to take place in The Annenberg Galleries, home of Wheat Field with Cypresses, Self-Portrait with a Straw Hat, and Shoes. The invitees' list was only fifty-odd, consisting mainly of Juliana's inner circle. As Eric read out the list, Armand’s face grew more and more pale.
+
+The foremost billion-heirs Eppie had never heard of. It was also the first time she had heard the names of the City Cultural Affairs Commissioner, the French Consul General, the Fashion Editor of Vogue and Harper's Bazaar, the director of MoMA, who lent Juliana Starry Night, and noted art critics. From the list, she knew only the CEO, Davis, and his Creative Director, Frederick Curon, the “discoverer” of Eppie Fontaine.
+
+There were no actors, no celebrities, no fluff. This was a business function for the artworld movers and shakers, living aloof above the common man’s circus.
+
+At 8 AM in the morning, a towncar would pick them up and deliver them to Sony Studios, where a make-up and costume team, together with Antonio and Mueller, was waiting.
+
+Armand would be given a suit. And she would be given a dress.
+
+Both on loan, of course.They were, after all, merely actors for a stage.

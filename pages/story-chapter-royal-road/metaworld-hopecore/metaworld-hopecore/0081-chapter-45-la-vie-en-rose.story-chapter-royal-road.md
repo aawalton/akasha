@@ -1,0 +1,253 @@
+---
+id: 185a5cb9-ba03-5a7c-972b-512e5baae82b
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 45 - La Vie en Rose"
+slug: 0081-chapter-45-la-vie-en-rose
+partOf: metaworld-hopecore
+position: 81
+ownLength: 3737
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3425508/chapter-45-la-vie-en-rose"
+royalRoadId: "3425508"
+---
+
+Frederick Curon’s heart slid from his throat when the girl on stage went down on her knees and howled.
+
+She howled like a wounded animal, sans vocal training, sans control, sans decorum, crossing the thin red line that was performance into the realm of pain.
+
+As the best Producer in the music business, he felt unnerved that so much pain could pour from such a petite body. Eppie had committed herself to something terrible, something that only a select few people in the crowd would ever know.
+
+And the victim of her aural assault was… He looked around. Curon had very sharp eyes for detail.
+
+There—that must be our man. The fabled Mr Chen, heir to a local construction company with a pipe dream of breaking into the film business. It was a fantastic idea, Curon had to admit. Creative accounting and Hollywood set-building went hand in hand, and nary a day went by without a movie “flopping” so that the studio could recoup its operating costs on its blockbusters.
+
+What impressed Curon was that Zara didn’t miss the opportunity to swing her guitar forward and perform a final, lingering solo so low and powerful that Eppie’s scream seemed forethought, rather than spontaneous. The Spaniard had spunk. Curon liked that.
+
+“Sir!” Maddy Filmore arrived at his side, sweat streaming from her face. She had been running cameras and socials for three days without sleep, and now her ward was hugging the stage like a vomiting cat. “Should we intervene? I can get up there! I can—”
+
+“Hold your horses,” Curon shook his head. “Let her finish.”
+
+“What if Eppie falls—”
+
+“Then she will get back up,” Curon cut off Eppie’s Media Manager.
+
+“SIR—”
+
+“MADDY, she’s fine,” Curon grunted a little more audibly to overpower the applause. The trouble with these corporate guns was that they were too responsible for art. Eppie wasn’t just a precious investment. Eppie was a performer. He did feel for Filmore. As a result of Eppie rarely reading her e-mails, Madeline had developed a neuroticism that was starting to show as lines on her face. And to think the poor lass was only 20-something. “Look, Zara’s not even helping. She’s closing the song instead. It’s all a show, Maddy, even if the feeling’s real.”
+
+Indeed. The show must go on. That was the cardinal rule of the performing world. A performer must take responsibility for art. If they couldn’t, they should go home and raise kids instead. No one was forcing them to be on stage, certainly not in the 21st century.
+
+Like a resurrected monster, Eppie rose on wobbling knees, hair draped over her face, smothering a pair of seething blue eyes.
+
+“That’s a great shot,” Curon reminded his daughter’s Media Manager.
+
+Maddy gestured wildly with her hands, but there was no need. Sony’s PR team was already snapping away.
+
+He waited for the applause to die down.
+
+The girls were panting on stage. If the auditorium were any colder, the audience would see puffs of steam issue from their mouths and rolling streams of heat falling from their shoulders.
+
+Instead of ushering the girls offstage right, the MC joined them, as if waiting for some fortuitous event.
+
+His daughter looked confused. She was still in that daze artists enter when they dive too deep into their performances. Very few performance artists could pierce that veil naturally, and it warmed Curon’s heart to know that his daughter possessed such prodigious, if dangerous, potential.
+
+From the upper section of the auditorium, entering from a subtle side section, someone was approaching the stage.
+
+Maddy turned to her employer with confusion and consternation. “Sir, you said that Kellie Noah had gone back to Culver.”
+
+“I did say that.” Curon shrugged. “But we paid for the slot anyway, and you know what they say, waste not, want not…”
+
+“Sir,” Maddy’s voice trembled. “Is that… is that Lucia Lancet? You told me it wasn’t her at Antigone! You said it was just a look-alike! ”
+
+“Well, aren’t you lucky, then?” Curon kept his answer curt and casual. “She was shooting a commercial in the area, so I got her to duck in…”
+
+Before leaving the Media Manager to lose her mind on her own, Curon made sure to pat his pockets.
+
+The provisionals were all there, pre-filled, and every detail entered. He hoped his plan would work out. Unlike Davis, he had a flair for doing things through vibes. Kellie giving Eppie flowers would have made a nice family photo. The stepchild gave the true daughter a floral wreath to say welcome to the family. It was a good narrative, if a little boring. Now Lucia… What did a rival’s favour portend?  Lucia was a different stepchild altogether. No one would know the story of why Lucia Lancet was here until the tabloids hit tomorrow. LAPA would make the back pages for a week. Interviewers would fill gossip columns, and feature articles would flood the US from coast to coast. Somewhere in London, a tabloid would feast. That was the vibe the Creative Director sought. Curon sank into his fourth-row aisle seat, gifted, of course, by Principal Burton. Did Burton know that Eppie had a plan, and that her plan would turn his school upside down and inside out? He probably didn’t, and Curon was all for it.
+
+His songbird may fit in the palm of a hand, but she also had a mean streak like no other.
+
++ Karmic Causality+ Karmic Causality
+
+[Stamina] replenished.[Stamina: 28/28]Stamina has increased by 2[Stamina: 28/30]
+
+[Causality: 232819]
+
+As if by the magic of stage lighting, Eppie’s cheeks regained their rosy complexion.
+
+Her crash-out hadn’t been the most elegant, and she was thankful that Zara was there to pick up the slack. From the reaction of the crowd, though, there was zero chance that Zara would receive anything other than the highest accolades for her showcase.
+
+It took the [System] about 3-4 seconds to fully inflate her rag-doll body to its usual vigour. The sensation was palpable, like lukewarm gel moving through her belly into her chest, then her legs, arms, and even the tired muscles of her jaw and throat. There was healing happening as well, because the soreness in her jaws disappeared, and the metallic taste of her own breath was gone.
+
+She stood and bowed.
+
+Zara shifted her guitar and came to her side in case she had another near-anaemic collapse.
+
+“I am alright,” she said to her partner.
+
+It took her a few more seconds until her eyes adjusted to the new lights that had replaced the ambience. The very first thing she did was scan for William Chen to see if the man had fled or was still stuck to his seat.
+
+Except she couldn’t see him. Half the auditorium was standing for some reason, and she wasn’t the reason.
+
+The MC lady was next to her, announcing something, but it wasn’t about herself or Eppie; it was about the commotion to the upper left of the theatre.
+
+Someone was descending, step by step, and the audience was shifting like a living ripple, their gasps of awe and delight filling the rest of the space, stirring those who had yet to realise what was happening.
+
+“PLEASE TAKE YOUR SEATS!” The grey static in her head finally cleared enough for her to hear what the MC was shouting into her mike. “PLEASE DO NOT STAND!”
+
+Thankfully, enough of the crowd listened to persuade the reluctant half to feel too self-conscious to disobey. After all, it was 2007, and phones took such trash low-light videos that the audience may as well enjoy the spectacle with their eyes. Likewise, without the malaise of Social Media clout, there wasn’t nearly enough rabid obsession to break decorum just so an attendee could post, “I saw Lucia Lancet.”
+
+For indeed, that was who was descending the stairs.
+
+Which made no sense, because Eppie could swear that her [Memorisation] was insistent that Kellie Noah had promised her a happy surprise.
+
+Lucia Lancet. Sony BMG’s headlining starlet had not reached the stratum of mega-stars in Eppie’s former world, such as Taylor Swift or Lady Gaga. Still, Lancet was comparable to Alicia Keys, a child genius who was multi-instrumental and had graduated from Juilliards for Columbia at fifteen.
+
+If this was Daddy’s plan, and if this was an olive branch to engender a song for Lucia… perhaps “New York?” The problem with New York was the incredible popularity of the song, its complexity, and the fact that, at least in her experience, Lucia isn’t that good a singer. Could Lucia even match the incredible “biblical” vocals of Alicia Keys? Eppie somehow doubted it.
+
+Just how much of the rivalry was planned out based on the girls’ personas? Pop vs Musicality? Street vs Guilliams?
+
+Eppie shook both her mind and her body from the reverie, putting a hand on the small of Zara’s back to assure her friend that she was now fine.
+
+Lucia Lancet was moving at a pace that was measured for cameras, descending slowly but making steady progress. In her hands, she carried two bouquets, both roses, both slung against her forearms to rest at her shoulders. She wore casuals, which was a surprise, because winter-top skivvies and jeans did not exactly flatter Lucia’s modelling-worthy figure.
+
+She followed the path of a large man who was her bodyguard, and was otherwise flanked by Seniors who had been summoned for this special occasion. Together, they formed a moving barricade that, in the 2030s, would have collapsed in the first five meters as rabid fans mugged Lucia for their personal TikToks.
+
+The former No.1 of the Top 100 reached the stage bearing flowers. The MC left their side to arrive at Lucia’s. Somewhere, there had to be a Candid Camera crew filming their reactions.
+
+Eppie and Zara stood awkwardly, unsure if they should descend to greet Lucia, or if Lucia would join them in the light. To their relief, their MC guided the Pop Princess onto the stage via a side ramp, finally bringing the crowd’s anticipation to an end.
+
+“Hello LAPA!” Lucia waved to the crowd, soliciting a solid minute of cheers and waves, cementing the evidence of her popularity.
+
+Is she establishing her dominance? Eppie ground her teeth a little. Then Lucia turned to them, the MC’s microphone held an arm’s length from her lips, and told them, “You guys were amazing, that was an absolutely incredible performance. These…”
+
+Lucia delivered her floral gifts. One for Eppie. One for Zara. Eppie was about to snarkily remark on how performative Lucia seemed when the bouquet arrived in her arms, dazzling her with the overwhelming scent of fresh roses in carmine. “...are for you, from your family at Sony.”
+
+The auditorium answered with roars and whistles.
+
+The room went off, their sound overwhelming her [Perfect Pitch], turning all sensation into CRT static.
+
+Eppie heard the word family land somewhere in her chest and could only accept the gesture. She turned because she needed to confirm what she already knew. She found Curon in the fourth row aisle seat he had demanded from Burton, one arm still spread across the armrest, and he looked at her across the length of the auditorium with the expression of a man who had played exactly the hand he intended to play.
+
+He winked, expecting gratitude. She could have punched him. She also could have cried under different circumstances. She did neither.
+
+Instead, she turned around and grabbed Zara.
+
+Zara had not moved since Lucia appeared. She was standing approximately where she'd been standing when the song ended, guitar still in her hands, with the expression of someone whose brain had completed a full reboot and was waiting for the operating system to reload. Her mouth was very slightly open.
+
+"Zara." Eppie got a hand on her arm. "Come here."
+
+"That's—" Zara said.
+
+"Yes."
+
+"That's Lucia—"
+
+"I'm aware."
+
+"Lucia Lancet—" Lucia said. “You played wonderfully.” “I did?” Zara’s words were slurred by the family of frogs now living in her mouth.
+
+"Zara—" She pulled her friend forward a little ahead of Lucia. Somehow, Eppie felt that if Kellie were here instead of Lancet, there would be a different vibe, something closer to a family reunion than a corporate sponsorship. “—This is your night.”
+
+Lucia was certainly dedicated to her work. As Zara stumbled forward, her arms were open. She hugged them expertly, cleanly, with the flowers pressed between them, her face against the flowers, the flowers against Lucia’s chest. The roses had no thorns; they had been clipped for the occasion, a level of professionalism that was truly Curon. When she hugged Lucia, she finally noticed just how tall the girl was, even without her heels. Then Lucia hugged Zara. Zara let out a sound that Eppie would not repeat out of human kindness, for her Spaniard was clearly starstruck and awestruck by the attention.
+
+The crowd was eating up the hype like a decadent double-chocolate mudcake.
+
+And then came the resolution. Handshakes, thank yous, they weren’t even the final act, but they made it feel as though the audience could now get up and go. Eppie did not like that either, but there was no recourse. Either VP Thomas or Principal Burton had condoned this carnevalesque promotion of LAPA, and they were now all clowns, willing or unwilling, in this three-ring circus.
+
+She left the stage while walking last, alone. Ahead, Lucia walked beside Zara, holding her admirer’s hand.
+
+The flowers smelled nice.
+
+Eppie looked for William, but could not find him. What she did find was her smiling father, giving her his biggest, most sincere shit-eating grin.
+
+Curon counted the seconds it took the girls to reach the backstage area, then moved. In his mind, he was like a hawk diving down for a pair of hares, but in reality, he was a slightly overweight suburban dad trawling for a rotisserie chicken at Costco.
+
+Thankfully, with his ID Pass, he leapfrogged the student-staff without incident and arrived at the back, where Maddy was doing her best to ward away the talent scouts from Warner, EMI and Universal.
+
+He took his time, smiling at his rivals as he passed. He paid them no mind because Sony had already cemented its reputation in LAPA. Forevermore, the students graduating from this school would recall that legendary moment when Eppie and Zara hugged Lucia Lancet in the middle of a Fall Gala. Unless the Big Three topped that, there would be no way to undo a first impression on impressionable children.
+
+And of course, none of his rivals had brought contracts. Humility wasn’t how the industry worked. The company approached from up on high, doing the young artists a favour. The young artists, grateful for the chance at stardom, sold their bodies and souls.
+
+His daughter saw him coming, and she knew exactly what he had in his top pocket. It was a bit scrunched up, but it was there. A contract for Zara, and a contract for herself. Eppie’s contracts were all unique; it was one of Sony’s best-kept secrets. If a rival could get their hands on one, they would be bewildered by the sheer number of terms and conditions that ensured Eppie received little in the way of personal wealth. Compared to a traditional contract, the thick stack of legalism looked more like a charitable tax write-off.
+
+At the threshold, like an old cowboy stylishly drawing a revolver, he produced the contracts—a little scrunched, but reasonably visible to the stunned faces of the Division heads, VPs and Head Scouts.
+
+“Good luck with your meetings,” he said with feeling, then slickly slid through the open door, his slightly yellow teeth adding insult to smug injury.
+
+Before entering, he made sure that Lucia had also left. The girl had a commercial to shoot, and it was already too late. Someone somewhere was, at this moment, very upset.
+
+Inside, in the green room lounge, his girls were recuperating.
+
+“Yo!” Eppie raised a hand. Curon high-fived it. “Nice spectacle.”
+
+“My girls, my girls…” Curon hummed a song that would soon cruise the charts. Pines wouldn’t reach the height of Umbrella, or match the song he had planned for Christmas, but it would linger for long enough to become an evergreen. “Here’s your contracts for tonight—”
+
+The Zara girl looked at the crumpled papers. Miss Arriaga was still living somewhere south of the moment Lucia Lancet had put flowers in her arms and given her a hug about the shoulders. What remained of the girl reached out like an automaton to take the contract and pen Curon offered.
+
+“Zara.” Eppie took the contract instead. “Lesson One. In this business, never sign anything without reading through everything.”
+
+“What?” Zara’s eyes refocused, seeing Curon for the first time. “Oh my god! Are you Director Curon? Frederick Curon? It’s an honour, Sir.”
+
+Curon stared at his daughter. Are you seeing this respect? His eyes said to her. Where’s mine? Where’s my hug? What’s this distrust? You think I would rip your friend off?
+
+Eppie stared back. I know what you are… Her baby-blue eyes seemed to say. Let’s not kid ourselves here… Dad.
+
+Curon found himself a seat. Instead of tearful celebrations and kisses on the cheek, his Eppie was now going through the contract line by line like some legal eagle fishing for trout. He watched her makeup-smeared face focus with immense concentration, and found it strangely enticing. She had a young face, but she looked older. Her eyes were older, Curon realised, and the juxtaposition gave Eppie an air of reliability.
+
+It also made Eppie a little terrifying. Her howl at the William lad was evidence of that. In that moment, if she had leapt down and crashed the guitar over the guy, using the body like a hammer, Curon would have believed it.
+
+Eppie was underlining the contract; it was such a familiar sight that Curon felt strangely nostalgic for August. Holy shit. He felt his brain tremble. I met her in August? It felt like he had known her for years, since she was a child. Had he hallucinated his familiarity?
+
+“18 per cent?” She looked up. “3 per cent above standard,” Curon fired back.
+
+“Co-writing floor is at 40%?” “That’s regardless of how many other collaborators there are. You wanted Antonio on the bass, right? For the studio recording.”
+
+Eppie nodded in approval and read on.
+
+“50% retainment?” Eppie looked up again. “That’s a bit generous.” “That’s a one-time offer,” Curon said. “Don’t expect the same for anything hereafter.”
+
+“Net receipt for Streaming?” Eppie whistled. “You’re sparing no expense, Dad.”
+
+Curon’s heart melted. Finally, his wayward child had come home to roost.
+
+Zara’s eyes, which were very pretty, nearly popped out of her head. She looked at them with an expression of realisation, then recognition, then epiphany.
+
+Curon coughed. “That was a joke…”
+
+“Am I a joke to you, Dad?” Eppie pouted. She was cute enough already, but in that damned school uniform, and with that deliberate makeup, Curon could only curse Trent Davis for ruining the moment forever. “Are you ashamed of—”
+
+“ALRIGHT—” he redirected their attention back to the contract. “Look here, no cross-collaterals. And that’s slitting my own throat.”
+
+No cross-collateral meant that Zara’s earnings from their guaranteed hit were without strings. There wouldn’t be a situation where her subsequent albums’ losses, assuming they underperformed, would eat into the payments of Pines as an evergreen hit.
+
+Eppie read the rest of the contract with a speed that would have made Eric’s eyes water. “It’s a very generous contract.” “I know,” Curon said. “Just for this one song, though. Trent will have my ass otherwise.”
+
+Eppie slid the papers back to Zara. “As your legal counsel, I can safely say this is safe to sign.”Still suspicious, Zara signed on the dotted line.
+
+“Mr Curon… er…” Zara hesitated, her Basque sensibilities taking a hold of her tongue. If Curon was Eppie’s Godfather, then… “Uncle Curon?”
+
+“Oh, I like that.” Curon watched Eppie scan through the second contract. The terms were mostly charity-focused. Her cut of the song was pretty much in the single digits. “Yes, call me Uncle Curon.”
+
+“Her actual Uncle can tear a cow carcass apart with his bare hands,” Eppie’s warning was earnest. “For asado, I mean.” His daughter signed with a flourish. At the Belmont Building, Davis called them “Eppie Standard” contracts, or ESCs. The first few were a pain to draft. Now, legal had several standard templates to modify on the fly.
+
+“Ahaha…” Curon recovered the contracts and signed as the witness. “Just Fredrick is fine, Miss Arriaga. Where will you go now?”
+
+“We have dinner at the El Cid,” Eppie said. “You want to come? I am sure the Arriagas won’t mind.”
+
+“Pass,” Curon did not refuse because of the ethnic food. He had the contracts, and he needed them processed before he could book Mueller and send him down to Culver City. Eppie’s, or rather “Mio’s” new song had a digital release on the 17th, with physicals shipping on the 22nd, all ready for Christmas. He wondered if that had been in Eppie’s plans for the unfortunate Mr Chen.
+
+Considering what she had shown the William boy tonight, a second song hitting the charts would pour salt onto his open wound. Curon tried for a moment to imagine himself in the kid’s shoes, trying to survive Christmas. At the same time, Pines and Cries cycled on the radio, in people’s cars, on the street, in online advertisements and in Social Media, singing about his unforgivable crime, while implying nothing.
+
+Such… saturation might just inspire a sinner to search for a tall roof.
+
+Feeling ambivalent, he looked over at the girls sitting on the couch, one tall and one tiny, one hugging the other, dreaming of tomorrow. He felt an inexplicable anxiety for his wayward songbird.
+
+“Eppie,” Curon tried to summon both courage and authenticity. Still, for a veteran Producer in an inherently exploitive industry, any emotions divorced from performance came sparingly and with a dose of self-conscious hypocrisy. “Are you okay? Truly okay?”
+
+Eppie looked up, her eyes were witness to something in the middle distance before her pupils focused on his face.
+
+She smiled beautifully, yet with her theatrical makeup, it was also tragic.
+
+“I am fine, Dad,” his girl said in a voice made for television. “In truth, I feel better than ever.”

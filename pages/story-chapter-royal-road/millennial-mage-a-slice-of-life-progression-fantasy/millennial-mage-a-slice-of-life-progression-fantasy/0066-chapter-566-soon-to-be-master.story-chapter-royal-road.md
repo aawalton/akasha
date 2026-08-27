@@ -1,0 +1,257 @@
+---
+id: 7a82ca97-2e10-58e4-bc01-098a1bac6539
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 566 - Soon-to-Be Master"
+slug: 0066-chapter-566-soon-to-be-master
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 66
+ownLength: 2960
+unit: words
+ownProgress: 2960
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2299752/chapter-566-soon-to-be-master"
+royalRoadId: "2299752"
+markedReadAt: "2026-06-29T19:37:24.396Z"
+---
+
+Tala regarded Master Halko, Osip’s soon-to-be master, after his introduction to the family, as he slowly moved through the various members, chatting and asking both after them and about Osip.
+
+His eyes flicked toward Tala and Rane every so often, showing that the Fused man had enough magical sense and awareness to have noted their advancement—given they weren’t hiding their auras at the moment.
+
+He’d greeted the family as a whole with a deep bow, and he hadn’t rushed to them first, which spoke well of his priorities.
+
+She hadn’t expected that her brother would choose someone obsessed with advancement and those more advanced than himself, but she was glad to have that confirmed.
+
+-It helps that you have no tie to the family name. So any research of the family in general won’t lead directly to you. Someone who takes the time to dig deeper has already gone above and beyond in showing interest in him as a potential student.-
+
+Exactly, yeah.
+
+While Master Halko was moving through the family, the rest were settling into the private dining room that Tala and Rane had arranged for their final meal with the Karweils.
+
+-You know that many of them married into other names, right?-
+
+Yeah, yeah, but it’s easier to lump them all together.
+
+-While true, shouldn’t you be in that group, too, then?-
+
+No. She responded firmly. I specifically forsook that name, where none of them did the same.
+
+-While fair, I don’t really think that precludes you… I mean, you’re still gathering with them as family, as those raised together in the same home.-
+
+Tala sent the impression of a grimace back at Alat, causing the alternate interface to sigh.
+
+-Fine, fine. I’ll not push the issue.-
+
+Like before, Tala and Rane had pre-ordered a spread of dishes for the family to pull from, both expediting the process, and reducing the effort that anyone had to devote to thinking about food.
+
+Through these regular meet-ups over the years—even if most were less extensive and ‘event-like’ than this one—Tala had found that the more that was pre-arranged, pre-set, and pre-handled, the more that everyone oriented and focused on each other rather than on the plans or potential choices before them. As that connection was the whole point of the get-togethers, they leaned into that understanding as much as possible, turning the gatherings into entirely planned and scheduled times.
+
+When Master Halko finally reached where Tala and Rane were chatting with one of the servers—ensuring that some of the most-chosen types of food were refilled sooner than originally planned—he patiently waited for them to finish, then bowed low. “Master Halko, at your service, Master, Mistress.”
+
+Terry fluffed his feathers but didn’t make a sound.
+
+The man hesitated, eyes narrowing slightly before he gave another bow. “Master avian.”
+
+Terry shifted happily, settling back down and closing his eyes.
+
+Tala grinned and Rane chuckled even as they gave slight bows in return. Rane straightened first, if barely. “Master Halko. Thank you for agreeing to meet with your mageling’s family.”
+
+He held up his hands and smiled. “First, he is not my mageling until tomorrow. Tonight, we are just acquaintances getting to know one another. Second, however…” His eyes sparkled. “I believe most who take on magelings would pay unfathomable sums to learn so much about them from their families. Our families are intrinsic parts of who we are, and influence us in ways that are often hard to detect, especially in cases such as this.” He gestured around at the gathering. “It is obvious that even though you are all different, and on different paths, you still care for one another.”
+
+Rane nodded in agreement, and Tala grunted in understanding.
+
+“Thus, I should thank you. I understand all of this is your doing? More than that, you are largely responsible for the continued close connection between yourself and your siblings?”
+
+They nodded again, Tala coloring a bit at the directness.
+
+“Then, truly, thank you. And your invitation to me was a true kindness. You are allowing me to be a part of my mageling’s life before I’ve the right, and in a more meaningful way. Thank you. I look forward to my time with your brother. He seems like a very bright boy.”
+
+That drew a genuine smile to her lips. “I don’t believe he’s told me your specialty, if you don’t mind my asking?”
+
+He waved that off. “Of course, of course. I do not mind in the least. I am a wood-Mage, for lack of a better descriptor. It seems rather mundane in a forest environment, but I find the practicality more than makes up for the lack of novelty.”
+
+Rane chuckled at that. “I do suppose there are no shortage of wood-focused Mages and Archons around here.”
+
+“Indeed there aren’t.” He gave a self-deprecating laugh of his own. “I think what caused the connection with young Osip—aside from the fact that I put myself forward for students to consider—was the fact that I am a Material Creator at my core. I use the wood around me as a template then forge my own material toward whatever purpose I require.”
+
+Tala’s eyebrows rose up in surprise. “So, the forest around us isn’t a resource to you as it is to others?”
+
+He shrugged. “Not as much… or should I say, not in the same way, as it does greatly inform my magic. It is impossible to create something of worth without understanding its make-up, its origin, and its innate properties.”
+
+Rane cleared his throat. “Can’t you modify any property at need?”
+
+“Of course, but it is easier, cleaner, more efficient, and usually yields a better result when I understand the starting point. Otherwise, I’d just be making ‘material’ that happens to resemble wood."
+
+Tala frowned for a moment, considering. “You know, I hadn’t considered it that way, but I can see it.”
+
+Master Halko gave a minor bow of gratitude at the acknowledgement.
+
+Rane was tilting his head to the side. “I assume you create raw wood, right?”
+
+“Ahh!” The man brightened. “You mean, I don’t make ‘lumber’ or pre-dried wood, correct? My material doesn’t come out stained or sealed?”
+
+“Exactly.” Rane smiled. “Am I correct in that assumption?”
+
+“Yes, yes you are. I can’t say I’ve ever had anyone think to ask that.”
+
+Rane’s smile grew. “I work with stone in my carving, mostly, but I have looked into wood, and the number of factors involved?” He puffed out his cheeks while exhaling and shaking his head. “I don’t envy you.”
+
+Master Halko gave a commiserating nod. “It’s true. In order to practice my magic to best effect—and toward the most precise solutions—I need to understand all the ambient factors. It’s truly daunting how much the surroundings affect wood once it isn’t shielded by my power.”
+
+Rane chuckled. “Stone is similar, if to a far lesser degree. I think everything is, really. I once finished a statue only to have a part shatter when it was left in the sun all day. The rock was heterogeneous and the various materials expanded irregularly. I hadn’t taken that into account, and I removed more material than it could bear with those constraints.”
+
+Master Halko winced in sympathy. “I feel for your loss. There are so many times—as I was learning—that I crafted an item to a perfect fit, only to find it utterly useless the next day because of any number of environmental conditions.”
+
+The two continued to trade stories of their failures and lessons learned.
+
+Tala wasn’t really involved in the conversation, but she found that she didn’t really mind. It was nice to simply be with her husband and listen, soaking in the feel of the gathering.
+
+Make no mistake, she would hate to just be a hanger-on much of the time, but in this case—especially after such a full day of socializing—it gave her a good excuse to simply people watch, all while being with the man she loved and near her family as they had a good time.
+
+Soon enough, the men decided that they’d taken up enough of each other's time, and they parted ways with polite bows, allowing the general interactions with the family to begin again.
+
+Dinner passed with the same joy and companionship that had seemed to suffuse the day as a whole.
+
+And that was it.
+
+It was time for her family to depart, and for Tala and Rane to get back to their research, study, and preparation for Reforging… at least until something else rose up to demand their time and attention. After all, that was a very long project, and so small delays were—and would be—fine.
+
+-Don’t forget, you promised to meet up with Master Saliocas tomorrow.-
+
+Right! That should be an interesting conversation, if nothing else.
+
+-Indeed.-
+
+Master Halko said goodbye to the family and departed before Tala moved the whole family back into the sanctum, at which point they all said their goodbyes—each group to all the others—and began teleporting away.
+
+Very few took advantage of Tala’s offer to caravan their purchases to them, but those few arrangements were handled between waves of departures, not delaying anything overmuch.
+
+Soon enough, Tala, Rane, and Terry were left with Osip in the otherwise still teleportation space.
+
+Osip was staring where the last sibling—Sella—had departed from, the silver of the teleportation circle still fading into the ambient zeme. “Huh… They’re gone.”
+
+Tala hip-bumped him. “Yeah. They’re all back where they belong, just as you are.”
+
+He gave a hesitant smile. “You know… I’ve never been away from family… I mean, never. Even at the Academy, there was always a brother or sister easily available.”
+
+Tala hmmed.
+
+“We even had a meal together at least once a week…”
+
+I wonder what that would have been like? To have that support, that companionship.
+
+-We would have become a very different person, I believe. At least our drives would be different.-
+
+Yeah…
+
+“Now?” He closed his eyes and swallowed. “I’m going to be alone… Even you will be gone in a few more days.”
+
+Tala didn’t know what to say. Instead, she wrapped her arms around her little brother, pulling him close.
+
+He leaned against her for a long moment before giving her a squeeze and pulling away. “Thank you, Tala.”
+
+“Of course. I hope you never forget that we’re always just a teleport away, and if you need us to come to you, you just have to ask, and we’ll come as soon as we can.”
+
+He grinned back at her. “I know. Thank you.”
+
+Rane smiled and clapped the younger man on the shoulder. “You’ll do well. It will be hard at times, but hard is good. Basically everything worth doing is hard in one way or another.”
+
+Tala blinked at her husband a few times, then schooled her features as she held back a laugh, letting the moment pass.
+
+Osip nodded slowly. “I suppose that you’re right… Still, it’ll be odd to be on my own.”
+
+“Novel you mean.” Rane grinned. “It will be a new experience, and you’ll have so, so many of those over the coming days, months, and even years. Embrace the change and learn from it. When you are a full Mage, you can move back near to family, if that’s what you want.”
+
+The mageling nodded. “I’ll try to keep that in mind. Thank you, again.”
+
+They spent the rest of the evening with Osip. Tala had thought that they’d be chatting about Mage or mageling related topics, but she was surprised when, overall, he just wanted to chat with them about inconsequential things and spend time together.
+
+The time passed quickly, and soon enough, the quite-mortal young man was bidding them goodnight and going to sleep in their rarely-used guest bedroom.
+
+Tala and Rane moved out under the false night sky, laying in the grass and simply being together.
+
+It was the perfect end to the day.
+
+* * *
+
+After dropping Osip off with Master Halko, and spending a few minutes with the pair as they settled into their new dynamic, Rane and Tala walked back toward the market.
+
+Tala was meant to meet with Master Saliocas.
+
+Rane was heading below ground, where the mining was accomplished for Makinaven. Apparently, the unique environment of the southern forest made some interesting stone in the deeper layers—both magically and in the aesthetics of the material.
+
+Terry was taking a day to be ‘out,’ and he’d departed before the sun was up, seemingly set on hunting some of the creatures in the nearby countryside.
+
+She parted with her husband after grabbing breakfast in the city, and headed to the coffee shop that Master Saliocas had suggested for the meeting.
+
+-At least we know he’s a man of taste.-
+
+True.
+
+The man was easy to see when she arrived. He’d taken a table away from the others, and there was already an incredibly subtle bit of privacy magic in place around it, which should block any sound. In fact, Tala couldn’t actually see the magic itself. To her three-fold perception, it simply looked like the air inside the area was a completely distinct thing. It had its own reality node that wasn’t connected to the surroundings at all.
+
+I need to ask how he did that.
+
+-Definitely, yeah.-
+
+Two large mugs were already steaming away on the smaller table, both waiting untouched.
+
+As she walked up, passing through the privacy delineation, she felt her three-fold perception twinge slightly as it registered her reality node pass from associating with one bit of air to the next.
+
+There was a brief feeling of… spiritual cold? It was something like that at least. Regardless, the feeling came as she passed through the ‘void’ between air reality-nodes, instantly bridging what she suspected would have been an infinite distance on the Doman-Imithe side of things.
+
+-We still need to prod Eskau Meallain about Doman-Imithe travel.-
+
+True, but not yet. We’ve still got too many things swirling. Maybe when we get back to Alefast, Waning?
+
+-Yeah, that makes sense to me.-
+
+Master Saliocas stood at her approach and grinned as she glanced over her shoulder—unnecessarily—to check behind herself.
+
+Unlike with an old city site—and the four-dimensional creatures found in such abundance there—her crossing of the divide did not create a connection between the two nodes.
+
+Interesting.
+
+“Mistress Tala, I presume?” He gave a shallow bow.
+
+“Indeed. Master Saliocas?” She bowed a bit more deeply in return.
+
+“Yes. Please, sit.”
+
+As they sat, he motioned to the drink. “Please, that one is for you if you desire. I was informed that you prefer coffee to tea. If I am wrong, I’m happy to get you the other.”
+
+“No, coffee will be wonderful, thank you.”
+
+He picked up his own and took a slow drink before setting it aside. “I appreciate your willingness to meet with me. Your memories of the experiments with the Leshkin simply begged for this conversation.”
+
+She nodded, enjoying her own coffee. “I do want to know what you mean by that, but first…” She gestured around herself. “First, I would like to know what you’ve done around us, here. You’ve somehow created a clean separation of reality-nodes?”
+
+His eyebrows rose. “Ho, ho! You are as perceptive as your memories implied. Yes, of course.”
+
+She waited for him to continue as they both took sips.
+
+“Well, the easiest way I can convey it still requires some context. You see, I began my magehood as an Immaterial Guide. I focus on information.”
+
+That made Tala’s eyes widen. “Isn’t that a concept?”
+
+“Maybe? I suppose that you could see it that way, but I don’t. Everything is information.” He leaned in, grinning. “Master Xeel and I have a long-standing argument. He believes that light is the fastest thing in the universe, and the speed of light, therefore, is the capstone of all things. He even contends that matter and light are essentially the same thing, from a certain point of view. While I agree with that last point—if with some variation—I say that information is the limiting factor, and what we call the speed of light is actually just a limiter on the speed of information transmission.”
+
+Tala grimaced, understanding what he was saying, but not really comprehending the nuance that was supposedly the source of the disagreement.
+
+He shook his head. “Regardless, we were discussing what I did here. Here, I simply altered the ability for non-sapient information to cross the delineation around us. The result seems to manifest as a division of reality-nodes, at least as you perceive them.”
+
+“So, you have no means to affect them directly, or at the very least you didn’t do so here?”
+
+He scoffed, before chuckling. “Certainly not. I would say that doing that would be conceptual magic.”
+
+Tala grinned at his rejoinder. “I see. Different ways of approaching similar things.”
+
+He nodded. “Precisely. For me, information is a concrete—if immaterial—thing, and it has fascinated me for as long as I can remember.” He leaned back, clearly momentarily lost in his own thoughts. “We can write squiggles on a page and cause others to have the thoughts that we aim for. We can flex the material world around us—through light, sound waves, and so on—and that similarly manifests thoughts in those able to perceive and comprehend our alterations. It’s amazing.”
+
+“I suppose… yeah.” She frowned as she considered what he had said.
+
+He chuckled. “I know it’s not for everyone, but it’s something that I am passionate about.” He nodded once. “Hence, this meeting.”
+
+Tala chuckled in turn. “Ahh, yes. As I said, I am curious what you meant.”
+
+Master Saliocas clapped his hands together and rubbed his palms in anticipation. “Then, let’s get to it.”

@@ -1,0 +1,193 @@
+---
+id: 4d7fb48b-8134-566e-b410-ef4b30e57337
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 47 - Red Envelope (2) "
+slug: 0084-chapter-47-red-envelope-2
+partOf: metaworld-hopecore
+position: 84
+ownLength: 2968
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437788/chapter-47-red-envelope-2"
+royalRoadId: "3437788"
+---
+
+LAPA. The Whitman Galleries.
+
+Armand Armar spent three and a half years at LAPA, wondering if he had made the right choice.
+
+For an undiscovered artist without family, museum, or industry connections, this was the norm. Visual Arts was a significant discipline at LAPA, but it occupied a strange ecological niche within the school’s hierarchy of the arts. First, it was immensely respected, having produced some true world-class artists in the last four decades. Secondly, it was invisible until a Gala hit, then all the artworks were everywhere all at once.
+
+Before the Gala, his calling card was being a good-looking Iranian kid who looked like a Sufi poet of love. His usual engagement with the “theatre” class involved helping out with painted backdrops. Like his peers, he struggled to find his niche, his art.
+
+Then he had pulled a mermaid out of the sea one night, and then spent the next four months pouring his soul onto a three-plane canvas.
+
+When it was done, he was too afraid to speak to the mermaid, too fearful that she might not like his art, so he went home to sleep.
+
+When he woke up, Principal Burton had set him up in the gallery for the day, where his artworks would remain until the end of January.
+
+His first visitor arrived at 10 AM on the dot. It was a middle-aged curator from the Hammersleigh Museum in Pasadena, LA. She was a forty-something in a linen blazer that looked like it cost more than his pastel oil budget. She introduced herself, handed him a card, then straight away told Armand his vision was remarkable.
+
+They sat and talked for about twenty minutes, about his inspiration, his artistic vision, about where he wanted to be in five years, and about an exhibition.
+
+For now, he had only this—this singular vision Eppie inspired. There would be more, but here in this room, his whole world lay.
+
+The lady thanked him. She would be watching him with great interest, she said. Come and find me anytime, when you have more work of a similar calibre. They would love to have him. They exchanged contacts.
+
+Armand’s second visitor arrived at ten-thirty, a man this time, an art trader, from the Annenberg Foundation's acquisitions arm. As if afraid of being seen as a critic, the older gentleman in his tweed jacket spent ten minutes explaining that he was not from the Gallery.
+
+He was from the foundation itself. He represented the money. He was very, very friendly. He praised Armand to no end and told him that the work—this work—would be important if his career trajectory were to follow its natural course.
+
+Hence, the foundation wanted it. It was an investment. In him.In his art. In his vision.
+
+He offered a price. Six figures.
+
+Armand did not barter, as was Iranian tradition, because he owed his uncle a great debt, both in cash and in the use of the family van. It was also proof. It was a repudiation of his Baba, who had sat him down and seriously told Armand he would not make it as an artist and that he should stop dreaming and become an architect. It was also proof that his Maman was right, that her artistic soul had a place here, in America, a country where anything was possible.
+
+Two more businessmen arrived at noon, but the work had already been sold. They gave him business cards.
+
+The LA Modern Art Association. Los Angeles County Museum of Art
+
+In the afternoon, before he went home, a man stumbled into the gallery thirty minutes before closing time. It was a Middle Eastern man, a developer. The man explained in no uncertain terms that he admired Gogh and Juliana Vaughan and that when the two could arrive at a happy synthesis, his wallet would open generously. He needed an installation built for a mixed-use entry lobby on the top floor, serving members of the fine arts exchange market.
+
+One of their directors called him at midnight and told him to find Armand. They wanted his work, “Girl with Almond Flowers”, or something like it, ideally a fresh, new piece. The deadline was the end of 2008, November.
+
+The installation would remain for a year, then a new artwork would replace it. Each year, the chosen artist would be given full creative latitude and a generous salary as the “Century City Artist in Residence”.
+
+It was the rarest thing in the world of young, burgeoning artists—a job.
+
+They shook on it. Call us soon. The man said.
+
+At 430. The museum light dimmed.
+
+Armand Amar sat on the faux-leather bench in front of his sculptural impasto for a long time, looking at the impressionistic fragments that made up Eppie in Almond Flowers.
+
+He thought about Vincent, who had sold one painting in his lifetime.
+
+He had to prove himself now. To Vincent. To her.
+
+Armand Amar (b. 1989, Los Angeles)
+
+Girl with Almond Flowers (2007) Oil pastel, impasto on panel, plaster on wireframe, triptych installation
+
+Set on a pale blue base, the viewer perceives branching ley lines that shift as they move through the installation space, wherein flowers appear and recede. Petals cast on the floor deepen toward ultramarine at the threshold, so that the act of entering the work becomes a liminal crossing. Amar applies pigment not as paint but as matter. The impasto is a geological strata of palette knife, brush, and hand, building a surface so tactile that the first instinct is to verify its dimensionality. The artist’s technique extends Van Gogh's late impasto into three dimensions: the emotion is not represented but deposited, ridge by ridge, across three panels.
+
+The work retains a hidden figure, visible only to those who look long enough—a young woman, standing in a dress comprised of bisecting almond flowers. She is hidden the way muses are hidden: Amar claims to see her in her entirety. The visitor may witness only a figment.
+
+Amar completed this work at seventeen, during his senior exhibition at the Los Angeles Performing Arts Academy. It was acquired the following morning by Sir Joseph Klaus of the Annenberg Foundation.
+
+LAPA. The Stray Cat Society. 10 PM.
+
+Fat Lim Wang’s body served as a living heater for the cats of the shelter. The kittens were not yet old enough for adoption or operation, but they still had to be socialised. The best way to socialise them was to play-fight, teaching the kittens the boundaries of teeth and claws.
+
+Their mother was gone. Mrs Catch’em was not one to stay put, even when there were kittens about. He was already thankful that she stuck around for a month, probably because of Eppie. That or Mrs Catch’em no longer trusted Lim after she was taken to the vet and returned with her reproductive organs neutralised. Lim was sad, but it was fine. Losing her favour was better than her wasting away after too many litters.
+
+Every few hours, he went back to watch a recording of Eppie’s performance on his phone. He felt better for watching it, but also grew worried. She was so powerful. So brave. The moment of the accusation, the changed lyrics—the first time Lim watched it, the cats had scattered in every direction as his muscles tensed. Mr Chin rubbed up against his shins. Together, they hummed her lines off-key.
+
+My girl, my girl, don't lie to me.Tell me where did you sleep last night
+
+Eppie had slept in the dorm.Eppie was safe. And Lim would keep it that way.
+
+Monterey Park. The Lantern Club.
+
+11 PM.
+
+Simone’s workplace was not one of those places that needed advertisements. There was no YELP page, no valet parking cones, no bouncers reading off a list. What it had was a heavy, red lacquered door on a side street in Monterey Park, a pair of brass knockers shaped like dancing carps, and an exclusive clientele.
+
+The signage was in Chinese, but there were no internal strobes to make it stand out. What stood out was a dozen lanterns that hung outside the entrance, but this was not the entrance used by the club’s clients.
+
+A visitor to the interior would be shocked to discover that the multi-tiered building was one of the best mixed-use establishments in and around Chinatown. It was a nightclub in the sense of the old 1920s Shanghainese speakeasies, a bar, a supper club, a hangout, and a private dining hall with authentic Chinese chefs. The setup was the brainchild of Lee-Kwon Chen, who wanted to recreate his rose-tinted memories of Hong Kong nightlife before it was returned to China.
+
+Its patrons were exclusively Chinese-American, comprised of the business community in and around Chinatown and those visiting from the old country. Membership was exclusive. The old inducted the new. The club’s doors did not open to those whose names were not known.
+
+Simone Goode, hostess, moved between the rooms in her almond-flower cheongsam, catching eyes wherever she went.
+
+At seventeen years old, she was taller than most of the guests, even in her embroidered kitten heels. Her doll dress was standard issue for the Lantern, sleeveless, side-slitted to above-thigh, with a mandarin collar that made her elegant neck look longer than most. She had a dancer’s posture, and a runner’s contours, and when she served the food, the middle-aged uncles who came for mahjong, drinks or chit-chat ordered drinks without thinking, just so that the hei-mei could come again to pour for them.
+
+The busboys, Lin, Chow, Lee and Jonie, were already her ardent fans, their eyes following her hips the way a compass pointed to the true north. Their attention, Simone ignored. She also ignored the gossipy girls. She was not here to flirt or make friends. She was here to pay off a debt.
+
+She was working the main level, an open-pit dance floor of sorts where patrons could slow-dance with the young women they invited in droves. Her shift was without incident—until a grey-haired gentleman decided that while the Chinese girls were hands off, the proprietors couldn’t possibly care for a hei-mei.
+
+She didn’t even know it was happening until she felt it, a clammy hand, high on the inside of her thigh, waiting for her reaction. The man was on a barstool. His hand was at the right height, and the booze had made the decision for him.
+
+As a stunned gazelle, she went completely still, tilting the tray just enough to spill the man’s order of XO onto his expensive-looking suit.
+
+She wilted like a sunburnt flower. She was already in debt; she couldn’t afford to dry-clean a branded shirt and jacket.
+
+This, according to Uncle Lai, her manager, was the opening their guest had engineered.
+
+The words “I am so sorry” hadn’t even escaped her mouth when Uncle Lai appeared next to them.
+
+She hadn’t even seen Lai move from the billiard pits. One minute he was doing his rounds, the next second, he materialised between her and the patron beside the long bar.
+
+From behind the bar, Uncle “Bao” Bu approached with a slow, deliberate waddle. He was as wide as he was tall. He was, by his own admission, more bao than man.
+
+Valorie had said that the Chens were connected to the triad, or that they were their own triad, whatever that meant. Simone only knew that beneath the collared Polos and the wifebeaters, the men were heavily tattooed and well-trained. In the months she had worked at the Lantern, she had not seen any evidence that the men were gangsters, other than the fact that they swore like they were LARPing old Hong Kong movies. “Diu” was used in place of full stops. “Gau” was a common conjunction. “Dead Dog” was an endearing term for anyone below them, and “Pok gai” referred to anyone and anything from food deliveries to customers to a stubbed toe.
+
+Now, she was seeing proof of Valorie’s insight.
+
+She wasn’t exactly sure what had happened because thirty seconds later, she was in the back room, watching a shakedown in real time.
+
+There was a rapid firing of “Diu lei lo mo!” and “Pok gai!”, then, for some god-forsaken reason, Uncle Bao let loose with a “You think our hei-mei is easy? Just because her SAT is 1100? She dumb! You dumb? She hei! Is your head hei, too? I fuck your mother, EH!? pok-GAI?!”
+
+Her estimate of 1100 was perfectly respectable! Simone despaired. She had only told Bao because one night, while boasting about themselves by boasting about their kids, Bao had asked her. When she told them 1100, the room full of Asians had gone deadly quiet. Uncle Bao had to pour himself another drink with a shaking hand.
+
+That night, she had received another $100 in tips. The different uncles on the roster treated her nicer after that as well, in the manner of compassionate men having more patience for slow children.
+
+Inexplicable racism aside, Uncle Lai then informed the man of his choices. Emotional Reparations, or Old Fashioned. The man chose the former.
+
+“You sure, ah? Diu lei lo mo, YOU SURE?” Uncle Bao was a demon out of the old Yung Fat movies.
+
+The man assured them that he was sure.
+
+“Cao! Ham gaa chaan—” Bao spat. “Clean that up!” On instinct, Simone reached for a towel and—
+
+“HE clean up!” her fat uncle barked at her. “Stupid girl. This is why you 1100!” The man mopped the gob with his expensive suit, his eyes full of appeasement.
+
+Bu counted the cash—it was about $1200. To Simone’s horror, Lai shook out the man’s wallet, retrieved his licence, then walked behind the small counter where they kept the cash till. He rang up a bill for the man—a bottle of Rémy Martin Louis XIII, then took a picture of the license and the receipt together.
+
+$1100, tax and service charge inclusive. Simone's long legs grew unsteady. Rémy Martin Louis XIII! That’s $80 a pour!
+
+“You are one drunk pok gai,” Lai returned the receipt to their client. “Go home. This is to show your wife, Mr Lee Lei Choi. Next time, drink slow.”
+
+Her molester fled through the back door. Incredibly, Mr Lai had left him with enough loose notes for a taxi.
+
+“Hei-mei.” Lai gestured to Simone. “Come here.”
+
+Simone approached very carefully, knock-kneed, like a newborn calf.
+
+Uncle Lai opened a drawer, took out a red envelope, folded the $1000 inside, sealed it, and added it to the pile of cash at the back corner of a silver tray. Her tray. Normally, the establishment took a cut. For an incident like this, she had no idea.
+
+“For William,” he said. He looked at her with something approaching ambivalence, then shook his head. From another pile, he took $150 and a fistful of change, then slid the money on a silver plate toward her. “Enough fun tonight. Go home. I tell Chow to drive you. Tell him if he gets handsy again, I’ll fuck his mother.”
+
+Simone took the money. She had to, because she needed proof that she was working at a friend’s restaurant for her mother.
+
+Just as she passed the kitchen, Uncle Bao appeared, holding a large paper bag wrapped with twine.
+
+“Char siu bao,” he said. “Jook. Fish head soup with the pork bones for your sister, the little one. Good for the brain. So she not become dumb, like you.” He smoothed the paper bag with one hand, adjusting it slightly so the twine was centred.
+
+“Uncle Bao, I can’t,” Simone felt the $150 in her hand grow sweaty.
+
+"Mei-mei, you told mother restaurant. This restaurant? You dumb, but your mother not so dumb. Okay?" He gestured at the bag with a small movement of his chin. “No charge. Leftover yumcha.”
+
+Simone looked at the bag, gripped the money in her hand, and watched the grim-faced uncles count money and pack sieu-ye. She recalled the imprint of the man’s rough hand against her thigh.
+
+Life can be so confusing.
+
+"Xie-xie," Simone said. She didn’t know any other Cantonese words other than the two dozen swear words that might get her killed.
+
+Chow arrived, his face eager and his eyes gleaming, until Uncle Bao gave him a good “Pok gai! Drive safely! Okay? Diu—!”
+
+Chow graduated last year. He had told her in the car, while eyeing her legs, that his SAT was 1430. He was accepted into Cal Poly. He had then offered her a roast goose leg in a box as some kind of pre-game. There was a jar of plum sauce. He then offered to tutor her. It was the most bizarre courtship Simone had ever experienced. Either that, or her SAT was too low to understand.
+
+Simone bowed her head and received the sieu-ye with fixed feelings.
+
+The two uncles were her jailers, debtors. Yet, from the first week she arrived, they had adopted her. They were rough men with a predisposition for violent acts, and yet, between their obscenity-filled speech, they felt more fatherly than anyone Simone had known in her often trying life. With “uncles” like these, Simone wondered now and then, when her skirt grew breezy during a shift, why was William Chen so…
+
+She dared not finish that thought.
+
+“Wednesday, your shift, 4 to 12,” Uncle Bao reminded her. “Chow pick you up from the station, okay?”
+
+“Thank you,” Simone bowed again. Why is William so god damned twisted when the people around him are like this? She held the oxymoronic thought in her head carefully, as one might hold a lit match, aware that the warmth and the burn came from the same flaming head.
+
+Then she went and got changed. On the counter, the fresh buns still steamed. Her sisters would eat well the next morning.

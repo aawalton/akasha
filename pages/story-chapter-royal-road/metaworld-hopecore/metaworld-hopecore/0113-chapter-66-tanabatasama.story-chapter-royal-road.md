@@ -1,0 +1,167 @@
+---
+id: 35600379-93ed-5cb5-892a-d11abd642677
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 66 — Tanabatasama"
+slug: 0113-chapter-66-tanabatasama
+partOf: metaworld-hopecore
+position: 113
+ownLength: 2461
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3577817/chapter-66-tanabatasama"
+royalRoadId: "3577817"
+---
+
+"Those who sow with tears will reap with songs of joy."
+
+Psalm 126:5
+
+January 23rd. Before her fated trip back to Fresno, Eppie had one more quest to clear: her new routine with the LAPA Seniors.
+
+While musical prodigies were dime a dozen, the same rarely held for Theatre, Dance and Music Theatre, largely due to constraints related to multidisciplinary expertise. As Susanna Tyker puts it, a good actor isn’t just someone who can expertly carry out theatre exercises—a good actor possesses an “inverse of vanity”, but not humility. They can read the audience and yet remain cool under the pressure of judgmental, passionate, and hostile viewers.
+
+A good actor must be economical yet appear expansive before her peers. A good actor must be an old soul in a capable body, and Eppie… was nothing less.
+
+In her current setting, Eppie decided to fight fire with fire, facade with facade. Unlike the humility she brought to her Sophomore classes, she came to her Senior practice as the young lady responsible for writing a Sony chart topper.
+
+When she stepped into the Old Music Building, she was finally turning heads for the right reasons. She wore matte Wolford tights with a Lemaire three-quarter-sleeve crop top, completed with a markless Common Project in black with a white sole. The duffel she used was another object of envy she had kept out of the public eye, a Tumi, practical and expensive and given to Curon as a gift.
+
+She walked in, the self-made young woman, and the room took note.
+
+Nathan Drake, the rugged young man playing Titus, stopped stretching against the barre, straightened up, and gave her a nod that said welcome to the club. Jamal Whitfield, another Senior who played Marcus, elbowed the alternative-themed kid whom Eppie recognised as Saturninus, and said something Eppie didn't catch but could guess the shape of.
+
+The only other Senior whose headshot she recalled was Elizabeth Moore, the older-looking blonde playing Tamora. Moore gave her a slow once-over and then, scoffing, returned to her warm-ups.
+
+Valorie stood with her clique, flanked by two girls who looked at Eppie with unfriendly eyes. Her rival wore similarly expensive attire, and she wore it far better than a young girl without the blessings of blooming puberty.
+
+Eppie crossed the floor and stopped in front of Valorie. She bowed a little, showing just enough respect not to be rude.
+
+“Evening, everyone,” she flashed her winning smile at the class.
+
+A dozen people waved back. A few minded their own business. A handful ignored her. Unlike her Sophomore class, the Seniors had been inoculated against feminine wile.
+
+“Val.” Eppie waved.
+
+“Eppie.” Valorie nodded back.
+
+The air between them sizzled. Half the Senior cast had abandoned their stretches to watch; someone had produced an actual bag of marshmallows from somewhere, and it passed hand to hand as if this were a sporting event.
+
+There came a clap from behind Eppie. Dr Cooper had arrived with Mrs Seyrova.
+
+"Alright," Cooper said, not loudly, but in a particular register that ended chitchat. "Sit down. Warm-ups. Now."
+
+The sweets vanished into a backpack. Twenty Seniors dropped to the floor in a ragged circle, and Cooper took over without ceremony—Suzuki walks first, weight rooted through the heels, spines stacked with weight. Mrs Seyrova called out spacing drills over it, sightlines and stage geography.
+
+Unlike the Sophomore class, the Suzuki walks the Seniors enacted required the entire body, an exercise called the “Statue Walk”. The ordeal involved students walking on the ten-count with their bodies lowered, their feet landing with weight and in motion, while their upper bodies were locked into the immovable pose of “Grecian statues”.
+
+Eppie stumbled for the first few rounds, but her [Agility] [Strength] and [Physicality] kicked in enough for her to follow, even as the use of all three aspects of her [Persona] rapidly taxed her [Stamina].
+
+They only worked for fifteen minutes, and the Seniors were drenched in sweat, Valorie included. Eppie was positive that, were it not for her special constitution, she would be in stitches on the floor.
+
+She now understood why the Seniors were all stretching like crazy before she entered the room.
+
+“Alright, good warm-up.” Cooper nodded approvingly at the seemingly unbothered Eppie. “Now for the lines.”
+
+They repeated the exercise, now with lines from Titus.
+
+To Eppie’s horror, this was the exercise that broke her. Her [Vocality] moved her body in ways, externally and internally, that her [Physicality] refused, contorting her organs in ways she did not imagine were internally possible. The strangeness of the muscles that moved in independence, triggered by [Traits] rather than will, felt as though she was being put through the rack.
+
+[Pain Suppression] triggered, but even so, she had to take a breather against the wall until the stars faded from vision.
+
+The Seniors laughed. Someone not associated with Valorie approached her with a towel and a bottle of cold water.
+
+“Armand saw your posting,” the girl gave her a wink. “He’s rarely at school these days, but he told me to take care of you while…”
+
+Good old Armand… Eppie felt warm and fuzzy inside.
+
+The girl looked at Valorie, then leaned in and gave Eppie a pat on her sweat-soaked shoulder. “Well, if there’s anything you need, you can give me a call.”
+
+The Senior introduced herself as Emma Andersson, a dual-Dance and Theatre Major. She looked bookish and lanky, with streaks of blonde in her dark hair. She wore Hello Kitty earrings.
+
+They exchanged numbers and spoke a little while, and a few others joined them. It couldn’t be helped. Valorie’s clique aside, there were still a dozen unaffiliated individuals, and Eppie was a mere slip of a girl who was as cute as a stray cat that had wandered into the watering hole of lions.
+
+After the break, the circle reconvened. Eppie sat next to her new friends while Cooper read out the basics.
+
+“From today until May, this is the shape of the work.” He held up a hand, counting off without looking at notes.
+
+"Table work for the first two weeks. Text, scansion, who's saying what to whom and what it cost to say it.”
+
+“Blocking, four to six weeks, scene by scene, slow enough that nobody is allowed to fake it.”
+
+He took a deep breath.
+
+“Costume integrates from week four onward until go time.”
+
+“Tech starts joining us by mid-March.”
+
+“April is run-throughs. If you’re quitting. Quit before April. Do so after, and you will repeat the year.”
+
+A few people laughed.
+
+“May. We will exclusively be practising in Whitman’s until LAPAGANZA.”
+
+“Am I understood?”
+
+“YESSIR!” The circle shouted back in their theatre voices, drowning out Eppie’s meows.
+
+Susanna Tyker came in partway through, folio under her arm, and waited for the circle to gather again.
+
+She had a massive roll, a poster, under her arm. With the help of a few taller Seniors, she unfurled it.
+
+SI? Eppie recognised the aesthetic at once.
+
+The poster Tyker had unrolled was clearly based on the real 1934 Mussolini "SI" referendum poster, the one with a mass of identical faces composited into a single jutting fascist jaw. It was a genuinely clever design, a horrifying choice for Titus, because Mussolini's whole aesthetic was very much “Ave Caesar”.
+
+The composition: a sea of small, severe profile faces, packed tight and identical, all tilted upward at the same angle, fading from sharp black ink at the bottom edge into a dense, granular grey as they rose, until the topmost row of faces resolved into one single, enormous silhouette, jaw forward, mouth open mid-roar. Instead of Mussolini's face at the apex, it was Titus's. The colour palette was the actual fascist-era one: blood-oxide red, bone white, matte black. No gradients, no softness, avant-garde, powerful, imposing.
+
+Above the crowd of faces, instead of fasces or eagles, there was a tangle of laurel branches that, on a second look, were knotted into something closer to a noose. The very bottom was studded with triumphant block lettering: TITUS ANDRONICUS—A Tragedy.
+
+Tyker's pitch, Eppie realised, was also a tongue-in-cheek stab at the current political discourse. The Petrol Dollar and its continued destabilisation of the Middle East by Gore’s policies weighed heavily on America’s nationalist fervour. Without the revenge justification of the Twin Towers, there was much more space for navel-gazing when it came to bombing brown people with Raytheon, while rebuilding the Middle East via Halliburton, both on the taxpayer’s dime.
+
+An Election was coming up soon, and the poster was… for an election, originally. She was glad that there were no boots on the ground in the current Iraq War and, as such, no future Afghan War; thus, unlike Fascist Rome, no Saturn was devouring his son, at least not live on TV.
+
+Whether the President of Hope and Change would win, Eppie guessed, depended entirely on how Gore would handle the bank bailouts. Whoever came at the end of 2008, however, she would advise Juliana Vaughan regardless, so that her foundation would have excess funds for young artists and creators going forward.
+
+“An Empire on the brink, turns into a Regime,” Tyker spoke through aphorism. “We see it in the costumes, the uniforms doing the talking. We're not updating Shakespeare to make him relevant. The Bard is timeless. We're choosing a frame violent enough, and recent enough, that nobody in that audience gets to sit back and call this irrelevant history." She seemed pleased with her speech. "Titus is a General the state used and then discarded because they fear him. Saturninus is a man who inherited power, a true Nepo Emperor. Tamora is what happens when a defeated foe decides self-debasement is a weapon.”
+
+She looked around the circle. Her eyes landed, briefly, on Eppie.
+
+“I have received an offer from industry specialists on wardrobes. When the designs come through, I’ll be bringing the team for fitouts.” She closed the folio. “Dr Cooper, as you were.”
+
+Cooper nodded once, glanced at the clock, and said, “Pairs. Text only. Go.”
+
+The room broke apart into murmured Latin meter, one by one, from the opposite ends of the circle.
+
+Her partner, Eppie, noted awkwardly when everyone else paired off, was Valorie.
+
+It would seem, she noted with some consternation, that Valorie’s popularity did not extend to practice.
+
+And when she finally squared up to Valorie… all five-foot ten of her.
+
+Eppie realised they were not, in fact, standing face to face…
+
+For the next week, Eppie’s mind was so preoccupied by texts of and about Mio’s condition that she didn’t even summon the energy to antagonise Valorie. She saw William a dozen times, most often at night, but the [Usurper] was obviously well fed enough on the blood of his victim that he could put up his swarmy “Senior Brother” facade. As a fancy, Eppie wondered if William had cheated on Valorie with anyone else in school—but came to the helpless recognition that the heir to Omnia had actually kept his LAPA reputation spotless.
+
+If she was hoping to play Iago and turn William’s “virtue” to “pitch”, then she could stop hoping. Likewise, Valorie seemed so captured by the fox-eyed cannibal that she couldn’t see Val cosying up with a handsome “Cassio” at all. Besides, who would play Cassio? Would she really bring an innocent into this broken relationship? What would the [System] say, and how would it beat the Machiavellian out of her?
+
+Thus filled with anxiety, she sat through Kirby’s week-long digest of Act III. The Salem girl corps, previously powerless, was now moving full-tilt toward accusations of anyone for any reason. Francis Nurse tried submitting depositions defending his wife, only to be steamrolled by the court's refusal to consider evidence that challenged the girls' credibility. Mary Warren's recantation was followed immediately by Abigail’s girls staging a mass "vision" of Mary's spirit attacking them, which broke Mary completely and flipped her back to accusing Proctor. Elizabeth, brought in to corroborate, unknowingly torpedoed her husband by denying it.
+
+The only line that resonated with Eppie was Kirby’s “if you can't prove your innocence, your innocence is itself proof of guilt,” because that was precisely the quandary of Eppie’s Mousetrap. Any attempt by William to defend himself would invite discovery, and in discovery, there was already proof awaiting his execution.
+
+In Sophomore theatre, she ran budget and logistics with an iron hand.Unlike LAPAGANZA, the “LAPA Sophomore Theatre Company” was responsible for their own budgets and costumes, meaning her crew were throwing up all kinds of magic and mystery her way. She rejected a costume request because the quote was 140% of the allotted amount. She made members source cheaper suppliers, and she threatened to bench someone too lazy to log their hours.
+
+Cameron Atkinson, nominally the Stage Manager, started deferring to her in meetings, prompting Sage Copeland to ask, “Who's actually in charge of this production?” Everyone laughed nervously, side-eyeing Eppie to see if she was laughing too, so they could also laugh, or not laugh, or just shut up.
+
+Over the course of a week, she evolved the vernacular of their group. The Sophomores could be heard speaking in tongues, using words like “is that within scope?” and “can we table this?”
+
+Yet things were moving fast and efficiently, and people were amazed that they were getting three weeks of work done, under budget, in one. On a personal level, Eppie felt she could add a little more zest to their costumes. She faxed an email to Maddie Filmore about the matter, and then she went back to ruling her fief.
+
+In her Senior block, she did her best to find her footing. Faced with the monstrous fourth years, she was no longer the most capable body in the room. Skills aside, there were the usual small humiliations. Valorie’s allies would screw with her now and then, making her miss a cue or seem foolish. She was an outsider who didn’t know the in-jokes the Seniors weaved into their banter, and so became the skinny butt of many jokes.
+
+Playing against Valorie remained a challenge. The girl was really that good—good enough that not even her [System] could make up for the albatross of tragedy Valorie carried around her neck whenever she stepped into character.
+
+Eppie was beginning to realise just how honest Valorie’s craft really was—which was frankly surprising, because Val’s pretty privilege was already insurmountable.
+
+Cooper smoothed out nothing for Eppie, while Costello watched her as if she were an amusing cat. Tyker did give her extra attention, but the Seniors wrote this off as Tyker being sympathetic.
+
+None of it particularly mattered, because she took Friday and the weekend off, got into a car with Zara first thing in the morning, and drove from LAPA to Fresno.

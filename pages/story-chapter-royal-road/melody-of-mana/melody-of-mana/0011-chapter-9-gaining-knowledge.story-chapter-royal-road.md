@@ -1,0 +1,253 @@
+---
+id: e9be9396-e984-5fda-9170-ed88a7f0f9c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 Gaining knowledge"
+slug: 0011-chapter-9-gaining-knowledge
+partOf: melody-of-mana
+position: 11
+ownLength: 4022
+unit: words
+ownProgress: 4022
+publishedAt: 2021-06-25
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/705322/chapter-9-gaining-knowledge"
+royalRoadId: "705322"
+markedReadAt: "2026-06-29T22:26:37.569Z"
+---
+
+We were led through the doors, our guide leaving us and closing the door. As it clicked a woman approached the large desk there. She was around as old as my mother, and was a stunning redhead. What almost threw me was that she was dressed in what could only be described as a nightie. It was crimson, barely covering her, and... silk? I hadn't seen any silk since coming to this world.
+
+"Well, well, well, look what we have here," she crooned, giving Mystien a suggestive smirk.
+
+"Veska, could you not put on proper clothes to meet people?" Mystien seemed a bit tired by her appearance.
+
+"Why would I do that?" she asked, "Anyway, who's the kid?"
+
+"My new apprentice, Kale," the old mage explained.
+
+"It's... quite nice to meet you miss." I was a bit flustered.
+
+She looked me over for a few moments. We were examining each other's auras. Hers was almost like tentacles, spreading out and caressing everything around her. She walked over, kneeling in front of me with her chin resting on one hand. From this angle I couldn't help but notice the small circular tattoo on her right breast, something complex... and definitely magical.
+
+"Oh is that so? Well there is a problem young master Kale." She was smiling as she spoke.
+
+"Whatever would that be?" I asked innocently.
+
+Her free hand snapped out quicker than I could react, yanking off my hat and sending my hair flowing down.
+
+"You my dear, are far too pretty to be a boy." The laugh that went along with this was like tinkling bells.
+
+I flushed crimson as she spoke, coving my face a bit. I didn't realize I'd lost control of my aura till she stood up and spoke again.
+
+"That's a pretty strong aura for a kid so young," she said as I was wrangling it back down.
+
+Mystien sighed from beside us.
+
+"This must be the young bard girl from Orsted I've heard about then?" she asked, handing me back my hat.
+
+"What have you heard?" The old man's tone was deadly serious now.
+
+"Not much truthfully. That there was a young bard girl, and that she was healing a lot of soldiers over the winter. Mind if we're properly introduced?"
+
+"Fine, Alana, this is Veska, Veska, Alana," he rattled off quickly.
+
+"Um... hi" I stammered.
+
+"Training a little girl for espionage Mystien, how devious. I love it," she gave the old man a sly grin.
+
+"Don't go spreading information about her. If the wrong people get hold of it, you could make an enemy of both her father and myself."
+
+"Her father?"
+
+"Verren."
+
+"Well shit, won't go sticking my head in that wasp's nest," she backed off a bit, going over to her desk and sitting down.
+
+"So, to what do I owe the honor of your visit?" all business now, she looked us over.
+
+"I'd like information on what's going on with the populace, and general info locally." Mystien said. Seemed that the woman was an information broker.
+
+"In return I get?"
+
+He held up a small envelope, "Information on a dessert, supposedly from halfway across the nation. Must be something local because I've never had it, and it beats out almost anything I've ever had. Better even than the stuff from the capital." he had her attention now.
+
+"What's it called?" she looked curious.
+
+"Ice cream." he told her.
+
+I was just a bit miffed about my recipe being sold. Of course I'd told them it wasn't mine, so I couldn't be all that mad, but still.
+
+"I'll trust you with your assesment, what you want isn't too important at any rate," she leaned back.
+
+"Local info goes about like this. Most villages got hit hard by so many men leaving, Hazelwood's insistance on keeping the taxes normal hit even harder. Two or three had major riots over the tax fiasco, I'm sure you went through Khole's Hill on your way, they were one."
+
+"How bad were the riots?" chimed in the wizard.
+
+"Bad enough. Soldiers had to be dispatched to two, in those far too many died. If the war doesn't end soon, those towns might not make it. On a more disturbing note, I've also heard that some towns have begun stockpiling weapons. If Lord Hazelwood tries to collect full taxes again, I doubt anything less than using the actual army will make it happen." that got Mystien's attention.
+
+"Will he?" he asked.
+
+"That's still unclear, he's sort of an idiot. I've also heard rumors that they might expand the draft to include some older men, but that's unconfirmed." she seemed a bit miffed that these answers weren't any more substantial.
+
+"What about the food situation? What's that looking like?" Mystien was going to get his money's worth it would seem.
+
+"Not great, on average it's about what you'd expect from a draft this big. Worse by a bit because of the timing of it of course. We're not at critical levels, but depending on where things go, we could be in a year or two," Veska poured herself a glass of juice from a pitcher on her desk, "If they expand the draft it'll be bad, but for now, things are holding."
+
+Mystien nodded, "I don't suppose you'll tell me how the war is going?" he seemed hopeful.
+
+"Poorly, Ermath caught us off guard, and tons of resources are being poured into it. I think the border may get pushed back a good bit. We may even be in Ermath soon enough, but if I had to wager on it, I'd say they won't take the whole kingdom. They're taking heavy losses too."
+
+"You seem unconcerned." I pointed out.
+
+"My sweet, I'll have to move or hide my assets, but I'll make it through either way," crooned the woman. "Only thing that them moving in changes too much on my side is that all the brothels in town will be flush with new clients."
+
+My teacher indicated that he'd heard all he needed, and the two of them chatted about some other light business while I put my hair back under my hat. Veska had some items and the like that she wanted filled up with mana, and negotiated a price. From the sound of it she could do it herself, but didn't like being too drained of power, something I well understood.
+
+The room we stayed in that night was posh. It had two great beds, stuffed with down or something, and clean linen sheets. There were also a few pieces of furniture, a desk and chairs, and a small nightstand, things not present in our other rooms. The dinner that night was equally on par with the lunch.
+
+Mystien went off after dinner to 'handle the other business with Veska'. He came back quite late that night, and turned a bright red when I pointed out that he smelled like perfume and had lipstick stains on his mouth. I'd never seen anything like that from him, but it seemed he'd had a thing for her. That also explained why we were staying here.
+
+The next morning he took me out into the town.
+
+"Alright, we're going to go over the basics of how to find things in a town this size." he said.
+
+He took me around, this city, like almost every other one in the nation, was divided into districts.
+
+The noble's district was mainly housing and shops catering specifically to the nobility. It was tiny in this city, and always located at the very center. Normally nestled within or beside the entertainment district. Next came the entertainment district, it was where you would find the nicer inns and taverns, along with the areas for festivals and the town's brothels. Then came the residential and craftsman's districts, these two were together, and surrounded by a small gap. Mystien informed me that it was a fire break, as fires most often started in these two areas. The merchant's district was an area around the main street, between the entertainment district and the main gate. The poor's district was called low town, and was a smattering of areas located near the wall, between the gates.
+
+The gates were a special case. All of them would have some amount of taverns and the like near them, but one was designated the main gate. The main gate was different in that it was the only one where anyone other than a pedestrian could normally enter. As such the main gate had stables and areas for caravans to be processed around it. It also had a much more substantial number of taverns and general goods shops.
+
+He also told me that most wizards would work in the noble's district. Bards of course more often work in the entertainment district. Veska of course was a bard, and it wasn't unusual for one to run a tavern. The happy, generally apt to singing patrons made a great focus for bard type magic.
+
+After he gave me a brief primer on haggling Mystien took me over to the merchant's district. I took a bit of time looking around at all the wares being hawked before stopping at one stall, the woman running it sold hair pins of various types. I went up and indicated a small box of bronze looking bobby pins.
+
+"My big sister has been complaining about wanting something to put her hair up with. How much are these?" I lied fluently to the woman.
+
+"Oh, good eye young man, but wouldn't you want something a bit fancier?" the saleswoman pointed out some decorated pieces, with enameled designs on them.
+
+"No thank you, those look a bit out of budget, and I don't know which she would like best." I deflected her, I really did just want something simple.
+
+She sighed, giving me a quick once over, "Those are ten copper." her price was high, not a complete ripoff, but more than would be fair.
+
+I wanted these for around seven, "They're very simple, I could give you four."
+
+"Four?" she seemed a bit insulted, it was a good act, "I could come down a bit, but certainly not below eight."
+
+I picked one up, looking it over and thinking for a moment, "Six."
+
+She gave me a hard look, "I could meet you in the middle, how about seven?"
+
+"Fair enough." I stated, then counted out seven copper for her. I was quite happy with how it'd gone.
+
+After I went back over to Mystien he looked down at me, "That was not bad." he said.
+
+"I have two older brothers, I know how to negotiate," I chuckled, "Seven is what I wanted to pay in the first place."
+
+After that I went by several more shops. I checked prices on general goods, as well as second hand clothing, it might be useful later. Clothing was far more expensive than I'd thought it'd be, even secondhand. I consulted with Mystien about those prices and he confirmed they were within a normal level. Upon further consideration, it did take a lot of work to make clothes, so that made sense.
+
+Our day was, in my opinion quite productive, and once we got back to the Harlot, we went over everything once more. Mystien seemed pleased with the mix of information he'd gathered, and training he'd given me. We rested early, prepping to head home at dawn.
+
+Summer began to close after we returned. The bright warmth of what had to be my favorite season gave way to the coolness of fall. It also led to much more work for everyone as the harvest had to be brought in. I was even brought into the fieldwork this year, a new first. I didn't like working in the field, it was hot, itchy, and otherwise miserable, but I still did my part. By the end of fall I'd come to the conclusion that one day I would make sure to move, so I didn't have to be a farmer when I grew up.
+
+It was just after the harvest that the tax collector returned. This time he told us that our taxes had been drastically reduced by Lord Hazelwood. We were only expected to pay about half of the normal rate, much to our relief. I couldn't help but notice that he had significantly more guards this time, and they were all much better armed.
+
+My lessons continued with the espionage training. This mostly consisted of hammering out my accents. I will say that Mystien was suitably impressed with how well I could change up my hair with only some string and the bobby pins I'd bought. One day after lessons I brought up what I thought was a rather good point.
+
+"Mystien, if the taxes are too bad, why don't people just move to another place?" I asked
+
+"The majority of people in villages like this can't." his response was a bit weird.
+
+"Why not? You'd lose all your land and stuff, but if it got too bad, it'd be an option."
+
+"You misunderstand. Most of the people in this village, and most others are peasants." he said it like it was obvious.
+
+"How does that change things?" I asked.
+
+"Peasants are commoners, bound to their land. It would be highly illegal for them to leave without the local noble's permission."
+
+"I don't like that, I want to be able to leave." I was adamant on that point. I'd be nobody's slave, and if they tried to keep me here when I grew up... I'd think of some way to fight.
+
+"I told you when we were in Hazelwood, spellcasters aren't commoners. In fact, no one who can do magic is.""Oh." I said, "That's some special treatment."
+
+"It's for good reason." he replied, "Someone capable of magic is both a commodity, and a dangerous enemy. I could go anywhere. Even if it was illegal most nobles would be happy to welcome me to their lands. The same would apply to you. Some have even tried to entice me to join them, but I like it here."
+
+"So, because you would be welcome elsewhere they don't try to keep you?" that made a sort of sense.
+
+"Also, if I decided to fight to leave, I could cause great destruction. It would take many, many normal men to fight me if I knew about them. The same applies to most spellcasters."
+
+"I don't think I could fight that many people." I admitted.
+
+"You are a child Alana. If someone tried to hold an adult bard, and said bard got angry enough, they might get a dozen or so assistants and begin doing things like making storms, or releasing diseases. While few bards develop the spells to cause destruction like that, it is quite possible."
+
+"Oh wow, I never thought of something like that." I had to take a few moments to process that.
+
+"It applies to physical magic users too. If someone like your father wanted to, they could fight a dozen armed men with just their bare hands, well at least he could in his prime." he continued, "We'll add to that that magical talent tends to run in families. So you're not often fighting one, but multiple, and they often have children to protect. Only a suicidal man would take those odds."
+
+"Don't nobles have magic users too though?" that seemed another point to address.
+
+"Of course, to be considered a noble one must be a magic user of some form. They won't have many though, and those are valuable resources as well. Why waste them over a fight you can avoid?"
+
+"Yeah, that would be dumb. I didn't know that all the nobles were magic users. I guess it makes sense though." I said, contemplating the ramifications of being weak when such powerhouses were running around.
+
+Mystien nodded, "Magic is weird, it can be inherited, though that depends on a variety of factors. One can also undertake certain rituals in an attempt to unlock knowledge magic, though they are more often than not fatal. Even if you do succeed, if it's unnatural it can ravage your body and drastically shorten your lifespan."
+
+This was all news to me, I had no idea you could actually force yourself into becoming a wizard. It sounded suicidal though.
+
+"Do people try to unlock other types of magic?" I asked.
+
+"There are no known ways to do so. Even those who unlock knowledge magic are extremely rare, mostly because trying to is generally considered suicide." he thought about something for a few moments, "The only time I've heard of it succeeding was in a young man from a noble house who couldn't manifest his own. In desperation he bought the reagents and did the rituals. It worked and he gained the ability to do magic, but he died not five years later. I've heard of many similar cases where the person in question blew up or caught on fire when the magic was forced into them though."
+
+I wondered for a bit if that was what had happened to me in my previous life. If the fruit had tried to force magic into me and that had been the end. I stared at my hand and shuddered. The pain was something I never wanted to experience again.
+
+"Alright. That's enough for today, off you go." and with that Mystien shooed me off to my other chores.
+
+As was his tradition, the mayor came by just before the first snow fell. He found us at the little area our hamlet was using for training. I'd come by to watch, it was a good place to sit around with Sara and talk. It was such a good place that almost all of the older girls had made it their usual habit to sit out of the way and chat while they did a bit of handiwork. With only pure intentions I'm sure.
+
+The mayor came up to my father and began to speak, "Verren, as I'm sure you know, things haven't really improved..."
+
+Dad cut him off with a wave of his hand, "Malke, you've had years to come up with a solution to this, or at least plan something earlier. You're not getting it from us this year."
+
+Huh, I guess the mayor's name was Malke. Everybody always just called him 'the mayor' as far as I'd heard.
+
+The mayor paled, "Now wait a moment, please be reasonable...""I have, and I have thought about it enough, we cannot spare her this year, and that is final." his tone was hard.
+
+The man looked to me for only a moment, almost like he wanted to ask me. He then thought better of himself, "What am I to do then?" he asked.
+
+"You are the mayor, it is your duty to figure that out." dad was being a bit harsh in my opinion, but he did have a point.
+
+And so it was decided that I would stay at home for the winter this year, and hopefully for the years to come. Going to town for the whole season was frankly a bit grating.
+
+"Dad, why did you tell the mayor we wouldn't help him this winter?" I asked at dinner. I was happy, but I still thought there were things I was missing.
+
+"I told him, he's not worked to come up with a solution yet, it's irritating." he said, then continued, "I've also heard that people are starting to learn about you, and we need to put a stop to that, not going this year will help."
+
+"Did you actually want to go?" asked Rod from the side. He was ever the peanut gallery.
+
+"No, it's a pain," I told him, "I'd prefer to stick around here."
+
+"That's good," added in peanut gallery number two, "it's a lot less running for us."
+
+"You boys are missing the point." mom piped in, "The whole operation will be easier on your sister, us, and all our neighbors."
+
+"What do our neighbors have to do with it?" Rod asked, "I get Alana and us, since she can keep the house warm, but how them?"
+
+She flicked him on the forehead, he was getting a bit big for a spanking now, "If she's not using all her mana to heal up those soldiers for the idiot mayor, she can make more bread to feed them. You can also do group magic can't you dear?" she asked me, to which I nodded.
+
+"Oh! we can invite a couple of the girls over to join in, and it'll be a great time!" I was excited to actually enjoy my winter for once.
+
+"Hey, I have a friend or two that could help, you don't have to only invite girls." Rod boldly jumped in again.
+
+It was my turn to flick him on the forehead. As I did so I had to appreciate that my brothers were truly growing, he had to be pushing six feet. "Girls are more fun to talk to. I was going to invite Sara and Sandra, but I'll just tell them you don't want them around."
+
+"Oi oi! I never said that!" he panicked.
+
+Dad leaned over, clamping him on the shoulder, "Son, you've lost this one, it's important to know when to give up." that got a few laughs.
+
+Winter was a wonderful affair. A couple of the local girls would join us every day for a singing craft circle, with breaks to talk about whatever local gossip was flying around, which mostly concerned how much of a wreck the village was at the moment, and discuss our projects. Sara came almost every day, and in that time I managed to make myself a nice little woven belt. It was long and doubled over, so I could use it for years, and sew little pockets for things like hidden coins and spare bobby pins into it. I privately named it my utility belt, a joke that nobody on this world would get.
+
+Sandra ended up coming by quite a bit too. Her excuse was to spend time with her sister, but from where I sat it looked like she just wanted to make puppy eyes at Rod. She even volunteered to fix up one of his shirts when he ripped it. Mom even nodded her approval at that. Rod for his part became a clumsy, absolute mess when she was too near, and had to be monitored by more responsible adults. A list which included everyone.
+
+It wasn't all wonderful, my main complaint was our diet. It consisted of bread, bread, cheese, bread, yogurt, bread, bread, and bread. Winter had always been a bit tight, but this was getting out of hand. There was also the fact that we had less lamp oil, most people were converting any edible fat into food, so it was a no go this year. I could have used a light spell to fix our lamp problem, but doing that all the time was not really feasable.
+
+As the winter wore on there were a few arguments about who was allowed to come over to our house every day, and how much food everyone got from me. It was tense, but it boiled down to the fact that my close friends were getting some real preferential treatment. A couple of the families who didn't have kids that could come play with us got a bit cross about being left out, and a deal had to be brokered to keep everyone happy. That deal boiled down to a series of food deliveries from those who did visit us often, all monitored for fairness by my father. I'm sure some of the people didn't really trust that he was going to see to it that things were distributed fairly, but all seemed to agree that accusing him of not doing so was a stupid act.
+
+Relief washed over me as the snow finally started to melt and the first green sprigs poked their heads out. Relief and the desire for any possible variety in my diet.

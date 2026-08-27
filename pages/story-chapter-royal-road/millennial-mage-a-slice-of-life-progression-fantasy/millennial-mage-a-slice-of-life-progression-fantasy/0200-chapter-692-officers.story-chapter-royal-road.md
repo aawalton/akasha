@@ -1,0 +1,249 @@
+---
+id: 0cec2b32-8d36-5dee-992a-9672c1685bfc
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 692 - Officers"
+slug: 0200-chapter-692-officers
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 200
+ownLength: 2886
+unit: words
+ownProgress: 2886
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3255440/chapter-692-officers"
+royalRoadId: "3255440"
+markedReadAt: "2026-06-29T19:41:28.241Z"
+---
+
+Tala was torn. On one side, her spirits were bolstered by the steady cadence of Rane subverting the automata magics and freeing souls that had been trapped for millennia.
+
+She wanted to be doing the very same and hopefully would be, soon enough.
+
+On the other hand, a stark reality had come to her attention, brought to the forefront only when it changed. Every Black Legionnaire she had sensed was of equivalent power.
+
+They’d only been fighting footsoldiers.
+
+Now? Now, officers were taking the field.
+
+* * *
+
+Rane laughed as he kicked through the shin of an automaton that had lifted its leg to block his attack, sending the offending limb spinning off to the side.
+
+Not only was his body Refined, making him physically tougher than was possible for mundane materials, but his own bodily enhancements were backed by Paragon level magical power. That—combined with his magics that could both add force to his motions and mitigate the backlash—left him a bit of an engine of destruction among these supposedly terrifying foes.
+
+As the de-limbed automaton began to fall, he snapped his hand forward, catching its head.
+
+He leaned heavily on his bond with Tala, feeling the aspects of her that bled through to his own soul, his own power, and invoked reality. This soul shouldn’t still be here. It belonged to a long dead human.
+
+He invoked the void. This soul was distinct from the body and magics that tried to hold it. They didn’t belong together.
+
+The result was a momentary release of the stranglehold that the magic and spirit of the automaton warrior had on its source of power, allowing Rane’s magic to ‘kick’ the soul on to the next world.
+
+Another pulse rippled through existence and before the now devoid body could self-detonate, he willed it into Ironhold where Alat and Enar dismantled the imminently destructive powers, storing the now inert body for later study alongside several others.
+
+The first he’d collected were already being dissected and examined to pull what secrets could be quickly gathered from the corpses.
+
+But that all happened out of Rane’s sight and therefore out of his focus.
+
+To either side, Talons were engaging the Black Legion, their white steel clashing against the black with interesting results.
+
+Rane could see the black metal pushing at the magic woven through the white, but the Talons held firm, their will as strong as iron while they maintained their completely internal uses of power—at least if their metal was counted as their body, which they all did.
+
+That belief had power, and the result was that the magic denying forces radiating from the Black Legion had as much trouble rendering the white steel mundane as it did negating the Reforged level magical enhancements in the Talons.
+
+Rane did find that funny when he thought of it. Each Talon was amplified to be physically superior to him in every measurable way, but theirs was a borrowed power.
+
+In this case, that was more than enough, but they all knew that it might not be when more powerful automata decided to show themselves.
+
+After his initial show of permanently killing a Black Legionnaire—proving their theories correct and their plans sound—Rane had fallen back on the meticulously honed strategy.
+
+The Talons were engaging Black Legionnaires before sending them his way by way of creating openings for him to exploit or by actually physically throwing them toward Rane when possible.
+
+In that way, Rane was effectively just doing clean-up.
+
+The Talons had tried to dismiss the souls at the Black Legionnaires’ cores, but none had succeeded as of yet. And while they couldn’t get every legionnaire to Rane for permanent elimination, they did their best to get as many his way as possible.
+
+In truth, the fact that Rane could allow the soul-cores to pass on while the Talons couldn’t was another good demonstration of borrowed versus achieved power. Rane’s direct soulbond with Tala—along with years of practice—gave his will and authority the touches of void and reality necessary to find success.
+
+The Talons weren’t even magic bound to his wife. Their power was purely magical in nature, even if they had insights that only came from training around reality and void.
+
+Still, their skill and power was phenomenal, despite it still requiring two on one for them to guarantee success in each engagement.
+
+That ratio had quickly been settled on near the beginning of the clash. More than a dozen Talons were already within the healing wards inside Ironhold from an overabundance of confidence. Moreover, those currently fighting beside Rane were just the current group—including the replacements of the injured—and they’d begin cycling out, injured or not, soon enough in order to replenish their magic and take a breather.
+
+Again, this is something that was long practiced, every Talon having a fellow actively monitoring them from within Ironhold, ready to will themselves to the superficial—and their charge back into Ironhold—at need.
+
+It was an elegant system that let the Talons fight flat out at their peak capability at all times, and that let them continually push that capacity and capability in a wonderful upward spiral that they’d been feeding for years now.
+
+Regardless, Rane was left with an assurance that he had powerful allies that wouldn’t be running out of steam anytime soon.
+
+A more powerful ripple of void, reality, and magic distorted existence as Terry claimed his first permanent kill nearly a hundred yards away, somewhere within the ranks of the Black Legion around them.
+
+Nicely done, Terry.
+
+An instant later, something shifted and an automaton stood before Rane, less than a hundred feet away. It was not necessarily larger than the others, but something about it felt larger.
+
+The lesser automata moved to the sides, circling to continue engaging with the Talons.
+
+Rane compared the new to the old and came away with a single impression.
+
+More real. It feels more real somehow. The vestige within its head had been gate-broken far wider, increasing the throughput and thus amplifying the enhancements that Rane should expect. Moreover the weight of power pressing against his reality-defying magics increased four-fold. If Rane recognized the symbology on its armor, it was a captain of the Black Legion.
+
+They had been recorded as much more powerful than the standard footsoldiers in the last war and shouldn’t be underestimated.
+
+Rane simply grinned, Force flashing out as he didn’t hesitate to engage.
+
+He sent a wave of cutting force forward, fully expecting the dissipation of the attack. Still, he feigned shock when the magic failed to reach the elevated automaton.
+
+The thing shook its head, an all too human face taking on the look of disappointment. “Troublesome and stupid? Today really isn’t your lucky day.”
+
+Rane was genuinely shocked by the thing’s words, its voice that of a middle-aged man as it strode forward. “You can speak?”
+
+“Obviously.” It continued to walk, clearly unconcerned.
+
+“Then, can we not find a way to end the fight before it goes further? We are trying to fix the issues, to heal reality and allow all to live in peace.” Rane didn’t hold much hope for a peaceful resolution, but he also hadn’t expected any of them to talk to him, so this seemed like it was worth a shot.
+
+It shook its head, the black metal flowing across it to form a sword in its hand that mirrored Force in appearance. “No. We are the cure, your removal is the fix. While, I will admit, we didn’t expect gated of power here, that simply makes our mandate all the more important. Oh, how far our creators have fallen if they tolerate the likes of you.”
+
+Rane shrugged, beginning to throw force blade after force blade, each failing before it could come within a dozen yards of his enemy.
+
+“To attempt the same actions, expecting a different result…” It sighed, clearly in no hurry, even as the Talons kept the other automata from flanking Rane. “Reality must be failing indeed if you achieved advancement.”
+
+Rane had kept up the steady cadence of attacks, all but ignoring the thing’s taunts. Finally, he conceived of one of the attacks differently, putting the full weight of his power, will, and authority behind it.
+
+The next ones were normal once again, as Rane tried to hide the special attack among the onslaught.
+
+He almost succeeded.
+
+His special force blade passed the point of normal dispersion, and Rane watched the captain’s eyes widen in shock.
+
+Unfortunately, the thing wasn’t a statue.
+
+Its sword swept up and struck at Rane’s magics, deflecting and dispersing them more directly. At the same time, it jerked the other way, trying to dodge the sharp edge.
+
+The result was a cut to its off-shoulder, and a gleam of personal hatred sparking in its eyes. “So, not so much of a—”
+
+Rane was done waiting. He’d crouched and launched himself forward as soon as his forceblade crossed the dispersion line, counting on the distraction to draw the captain’s focus.
+
+It had worked.
+
+He crossed the distance in a blink, Force slamming through the automaton chest and cutting off its words.
+
+His left hand left the handle, snapping up to grab its head. “No, not a fool, unlike you.”
+
+He flexed his will, meeting far more resistance than he had from the soul-cores of the footsoldiers, but as the act wasn’t instantaneous, he also felt the soul, itself, begin to flail in a vain attempt to help him, to be free.
+
+He tore Force out of the things chest sideways before bringing it back around and beheading the captain.
+
+Rane grinned as his magic lanced forward, pressing on the soul and slowly pushing it free of its cage and onto the next world.
+
+He sent the body into Ironhold with the others, only keeping the head as he continued the work, not trusting that the soul could be moved on from within the expanded space. Even so, he hadn’t wanted the body to do something to disrupt him in the last moments.
+
+Despite his quick-seeming victory, he counted himself lucky.
+
+This one had been arrogant, acting far more sapient and fallible than he’d expected.
+
+Still, the quickness it had shown in deflecting his attack at the last moment put it near enough to his own speed that a true fight might have been problematic…
+
+The soul was almost free, when another ripple announced the arrival of two more captains.
+
+These didn’t speak, forming weapons and charging forward instantly.
+
+“Form up!” Rane cracked out the command, his aura carrying it to the Talons around him, and their formation collapsed inward in a coordinated action, keeping pressure on their opponents and not allowing any opening in their own defenses, even if that was because they were now universally fighting in pairs to cover one another’s weaknesses.
+
+The soul was still not quite free, and the captains were almost upon him, the razor edge of a collapsing garrote around Rane and his Talons.
+
+Rane growled, tossing the head to the side, he didn’t trust it within Ironhold, even if it should be fine, and he didn’t have the will or attention to spare to force it within. In that the soul would likely resist as much as the captain.
+
+Regardless, it seemed that the arrogant captain would live to learn from his arrogance and return another day.
+
+That was unfortunate. Rane really wished that—
+
+Terry flickered into being, catching the head barely a few feet from Rane’s outstretched hand in one taloned foot before slamming it into the ground, screeching his defiance as void and reality wove together with the catalyst of magic, outright shattering the cage, eviscerating the Black Legion spirit, and ejecting the soul from existence.
+
+The charging Black Legionnaires hesitated, slowing to a more measured advance, giving Rane, Terry, and the Talons a moment to solidify.
+
+Rane began to chuckle, his chest shaking with mirth, and the Talons grinned in anticipation.
+
+Terry let out a powerful puff of air like a war-horse preparing to charge. The avian then looked toward Rane, the glint of exuberance in his eyes.
+
+Rane met the gaze, his own battle fervor growing within him. The soldiers hadn’t been a challenge, but these captains? They would be worthy opponents.
+
+No.
+
+They were worthy prey.
+
+Rane’s voice was heavy with intent. “Let’s do this.”
+
+Terry’s gaze sharpened, briefly shifting to the approaching captains before he let loose a ground-shaking squawk of challenge.
+
+The Talons understood, already aligning to provide backup at need.
+
+Their purpose aligned, Terry flickered away, and Rane charged.
+
+* * *
+
+Lea… was frustrated.
+
+Make no mistake, she was excited that her father was reaping a harvest of Black Legion lives, but she was just standing there beside her mother… waiting.
+
+She wanted to move; she wanted to fight; she wanted to be useful.
+
+The enemy automata were getting closer, small groups already engaging the forces under her mother’s direct command near the city center.
+
+They were moving faster than expected, but that was fine with Lea.
+
+She wanted to fight.
+
+She’d never tell her mom—or even her momma—but she longed to prove herself against the Black Legion. They were abominations, enslaving the souls of humanity as power-sources to fuel their destructive crusade.
+
+She, in contrast, had not only claimed one of their bodies, but she’d made it truly her own.
+
+A smile pulled at her lips at that thought, gratitude for her father—and to a lesser extent her mother, momma, and dadde—filling her heart to overflowing.
+
+Still, she felt the desire to prove that the human soul was the true power. In a clash between an enslaved soul in a crafted body against a repurposed, crafted body Fused to a free soul, she would be the victor.
+
+Since she was actively looking for a place to throw in, the arrival of more powerful automata made her smile grow.
+
+She had studied the symbology of the Legion just like all their forces, and so she recognized the sergeants that seemed to simply appear beside some of the footsoldiers, almost instantly turning some of the losing clashes to even fights, or even tipping the scales in the Black Legion’s favor.
+
+Lea looked to Tala. “Mother? They could use help.” She pointed to one group in particular. “I think I can assist.”
+
+Tala seemed to hesitate for only a moment before nodding once. “Support the guards, don’t take the fight from them. The sanctum is with you.”
+
+Even as she felt a growing warmth at her mother’s confidence in her, Lea felt the odd weightless burden of the sanctum upon the back of her mind. It was something her parents seemingly never experienced, but the heft of the expanded space—when temporarily granted to her primary oversight—was a burden akin to the knowledge that others were counting on her…
+
+She couldn’t really describe it any other way. Regardless, she was mostly used to it by this point, and so it was only a mild distraction and wouldn’t inhibit her combat ability in the slightest.
+
+“Yes, mom.”
+
+Tala nodded again and smiled. “You’ll do well.”
+
+Lea didn’t stay longer, but she felt the smile grow across her face as she used the momentum she’d been building to blast downward at an angle toward the pressed beast-kin and hue-folk.
+
+She marveled at how much more she’d been able to store now that she was Fused. That very thought caused her joy to mount higher.
+
+She was Fused body, spirit, and soul.
+
+Her sword was already in her hand, and she’d aimed well.
+
+Her landing cratered the cobbles below her, even as two legionnaires fell behind her, cleaved in two by her angled arrival and well-aimed sword.
+
+Unfortunately, the sergeant had twisted out of the way, only taking a glancing cut to a deflecting hand.
+
+Lea’s sword rang like a chime, the impossibly thin blade trembling at the strain of the hit, not that there was any danger of it breaking. Its creator had bound its form into the very nature of reality. No amount of anti-magic nor mundane forces would ever threaten its integrity.
+
+Rust, most magic couldn’t so much as dull the tip, regardless of advancement or power level.
+
+She loved her sword, hers by right, earned and claimed through combat.
+
+The sergeant struck toward her back, the officer seemingly able to shape his anti-magical power as it extended to surround her, condensing and trying to keep her suppressed.
+
+She spun, deflecting his strike and cutting into his black-metal spear-shaft, getting more than half-way through before the angle changed enough to force her to scoop the blade back out, sending the chunk flying free.
+
+Her eyes pulsed with blood-red glee, and the sergeant stumbled, his follow-up attack faltering.
+
+Behind him, the mix of house and city guards had engaged the two remaining basic legionnaires, pressing them hard, but the sergeant seemed not to care. “What are you?”
+
+Lea blessed the stars for that set-up. She’d been preparing for this for years, even if she feared she’d never be worthy, let alone have the opportunity, to say it. “What you could have been but fell short. Your failure cannot be borne, and so I am also your death.”
+
+And to her surprise, Existence itself thrummed through her soul at the words.

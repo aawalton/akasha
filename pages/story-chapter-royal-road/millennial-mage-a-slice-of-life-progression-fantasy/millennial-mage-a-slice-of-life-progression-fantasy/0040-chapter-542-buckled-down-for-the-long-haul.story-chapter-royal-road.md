@@ -1,0 +1,231 @@
+---
+id: c501b1f1-68c5-596b-9336-7950e0c7eaac
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 542 - Buckled Down for the Long-Haul"
+slug: 0040-chapter-542-buckled-down-for-the-long-haul
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 40
+ownLength: 3285
+unit: words
+ownProgress: 3285
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2141108/chapter-542-buckled-down-for-the-long-haul"
+royalRoadId: "2141108"
+markedReadAt: "2026-06-29T19:36:34.819Z"
+---
+
+Tala stood at the entrance to the cell, using her threefold sight to regard the woman who was clearly the prisoner held within.
+
+Well, at least one of them.
+
+Terry was standing in a forest, having gone nearly a dozen yards from the long tunnel that breached the cells, meaning that the opening into the tunnel was out of easy sight. It helped that it was among a tangle of branches, not having needed to be against the ground.
+
+Spatial holes, not physical ones.
+
+-Well, this is an extra-physical hole…-
+
+Fair, I suppose? Regardless, it serves our purposes.
+
+Tala’s cloud of bloodstars hovered star- and stoneward of him, and those were the source of her threefold sight around her soulbound companion.
+
+The woman who was walking toward Terry was honestly stunning, appearing to be in her early twenties—if Tala was going off of mundane appearances—athletic and trim, curvy and fit.
+
+Her hair was of medium length and dirty blonde, held up in an artful twist by a whittled stick thrust through at a critical juncture of the various sections.
+
+It was hard to gauge the prisoner’s height given the new environment, Terry’s variable size, and other contributing factors, but Tala would guess that the woman was a bit taller than Tala, herself, while remaining on the shorter side for a woman in the cycling cities.
+
+Her clothing was sparse but present, which was interesting to Tala, given that the woman was alone with only herself in here and had been for centuries.
+
+She supposed that clothing gave a sort of comfort, even if it wasn’t strictly needed. A Refined-equivalent arcane shouldn’t need the environmental protection or support, but Tala supposed that she didn’t actually know, nor was she likely to find out.
+
+The prisoner wore shoes that seemed to be woven from plant fibers, and simple bindings and coverings around her hips and bust of similar material.
+
+Honestly, if the woman had taken off her shoes, the outfit would have reminded Tala of the traditional wedding garb.
+
+On a Reality level—when she examined the prisoner’s reality node—the woman reminded Tala a lot of Mistress Kaeti, the Refined who could replicate herself across a battlefield, albeit temporarily.
+
+This woman seemed… more permanent? More real rather than a mere temporary—albeit solid—illusion? She couldn’t quite place exactly what the difference was, even if she felt like she should be able to. Regardless, the prisoner’s reality node seemed unified with something that wasn’t present… and at the same time it seemed distinct.
+
+Finally, a portion of what she was detecting seemed to click into place and make sense. It’s like my arm. It is a clear part of me, but there is also a distinctness to it when considering it alongside my torso, or even my other arm.
+
+-Yeah, I can see that.-
+
+Still, the prisoner was drawing closer, no hint of fear in her eyes, one hand held out toward Terry. “You’re beautiful. I haven’t seen your kind in ages. Did you get sucked in here somehow? That happens sometimes, but it never has with anything as big or as beautiful as you.”
+
+Terry tilted his head to the side, regarding the woman critically.
+
+Then, in a manner that would have been invisible to Terry without his own bloodstar clouds, a second copy of the woman seemed to simply come into being, moving back the way she’d come, keeping in the visual shadow of the first.
+
+We can’t let her get away. It seems that they might not have long range communication, and that one is going to tell others.
+
+-I’ll let Terry know.-
+
+An instant later, Terry flickered slightly, only noticeable to Tala because of how closely she was watching the whole area.
+
+The secondary woman—who had made it behind some trees and had begun running away on quick, silent feet—fell with a precise slice opened on the side of her neck.
+
+At the same instant, a spurt of blood shot from Terry’s neck, painting the trees to his right.
+
+The terror bird squawked a pained grunt before flickering again, the body vanishing before it could hit the ground.
+
+Even so, the original couldn’t help but notice the blood that had come from Terry.
+
+Tala immediately mirrored her healing onto him, repairing the physical damage, but the game was up, even if only partly.
+
+The prisoner narrowed her eyes. “You’re not a good birdy, are you?”
+
+Terry trilled indignantly.
+
+Tala felt Alat consoling their friend. They all knew he was the best of birds. This woman had clearly gone a bit insane in this cell.
+
+At the same time, Tala saw an eye replicate on the back of the woman’s head—somehow not blocked by her hair—and from that eye's vantage, it would be easy to see the blood that had come from the other’s neck behind her.
+
+Kill her.
+
+Terry didn’t hesitate, the thought clearly carried instantly via Alat.
+
+He flickered forward, this time void coating his talons. Unfortunately, even as he did, eight versions of the woman seemed to spring outward in opposing directions, leaving the ninth to die by a similar—if deeper—slash to the neck.
+
+Tala healed the duplicate on Terry’s neck, fighting against the void that had been duplicated as well. Yeah, that didn’t do any real good, and it made things harder for us.
+
+The tactic of just healing through Terry’s kills wasn’t going to be sustainable.
+
+One of the eight shook her head even as the others circled, crouching low, arms up as if to corral Terry. “You are a bad birdy. We’ll have to catch you and train you to behave properly.” A light of desire was obvious in all of the eyes regarding Terry. “Your power… it must have let you breach this place, and that means it can get me out. Come willingly, and we’ll treat you like a king.”
+
+Tala almost laughed. It was actually a rather perfect misapprehension. It fit, too, so she wasn’t even that surprised, and it suited their purposes quite well.
+
+There was no reason that prisoners should think their cells would need repair—the information security on that front almost assured that they wouldn’t—so with the exception of the few who fell into terrible powers after learning of the cells, prisoners shouldn’t have any idea that a chance to escape would ever come their way.
+
+But Tala was allowing herself to get distracted.
+
+Terry began to flicker around, slaying the clones with terrifying rapidity and precision. Each cut was in exactly the same place, so the replicated damage didn’t actually harm him more if Tala didn’t heal him.
+
+He was robust enough—and had enough blood and mass—that the bloodloss didn’t truly harm him in the short term, so she left it alone.
+
+Even so, his task seemed endless. For each woman he killed and ate, another would diverge from one of the others, keeping the number at eight.
+
+Worse, the bodies that he ate didn’t seem to contain any real sustenance. They took up space in his stomach, but didn’t seem to have nutrients, or true biological matter that he could pull from.
+
+Tala and Terry didn’t have time to truly analyze the how or what of it—and Alat was otherwise occupied—but suffice it to say, they wouldn’t be refilling their reserves with this woman’s clones.
+
+Because of that, he stopped eating them.
+
+Thankfully, there was something going on with the bodies, because they began rapidly disappearing after barely a minute, except those that Terry had already eaten.
+
+Odd that… Or maybe not? His body claimed them, so maybe they can’t be dispersed? Or something like that…
+
+-Not really the time?-
+
+No other copy had tried to make a run for it, which would be good, except for the implication that the prisoner hadn’t thought such would be needed.
+
+-We also don’t know why she stopped at eight copies. It seems an odd choice. From the magic we’re seeing, this isn’t taking much, power… somehow, and I don’t see us wearing her down anytime soon.-
+
+Then it’s a good thing that wearing her down isn’t our goal.
+
+-Exactly. Delay and distract until we—-
+
+“Oh! You cheeky bird. There’s a breach in my cell?” One of the copies had apparently gone out wide enough—despite Terry’s attempts to continue killing the farthest afield versions—to have gotten an angle of view on the exit. Unfortunately, the woman had seemingly instantly understood the nature of what she’d seen.
+
+-Well, there went that plan.- There was a momentary pause as the prisoner seemed to process the opportunity before her. -This is actually harder than I expected. I need to pull back more. I’ll try to answer if you talk, but otherwise, I need to devote myself to working with Kit to clear away the issues around the seal.-
+
+Understood… Yeah, there shouldn’t be an issue with this turn of events, not yet. We just need to be more involved. But first, I need to figure out how her power is working if I’m going to counter it. Tala drew Flow and threw it down the long hall, guiding it with her aura, originating from and augmented by the iron spikes that were already liberally scattered through the nearby area.
+
+It was just in time too, as one of the copies made a break for it by ducking around a tree and sprinting for the breach. She got two steps before taking a Flow-knife to the forehead.
+
+Tala hardened her will, her authority, and her aura, meticulously looking for any incoming effect, but it was in vain.
+
+She grunted, her head jerking back as a wound appeared, momentarily causing an odd feeling of disjointment between her left and right sides. It healed almost instantly, but she felt like she desperately wanted both chocolate and lemon ice cream…
+
+It was a deeply odd sensation, feeling as if she wanted both equally, both at the same time, and both exclusively. It made no cognitive sense, but there it was.
+
+The attack had seemingly surprised the woman, because no clone or copy had appeared from the attacked version before she died.
+
+In that moment, the first of the copies seemed to forgo her eight-copy self-limit and exploded outward in dozens of replications. The others would likely soon follow suit.
+
+Tala rubbed her own forehead, grimacing against the echos of pain. Frustratingly, the attack shouldn’t have been able to hurt Tala if she’d been on the receiving end, so their interpretation had been correct. Somehow, the effect was mirrored, not the action or the magic itself.
+
+Alright, that’s going to be even more annoying than I realized. So, while maintaining Flow near the entrance, positioned to be able to strike from a hidden location, she pulled her defensive disks, tungsten rod and spheres, and even called her two Leshkin tower shields—each with three bloodstars mounted to their backs—from her sanctum, opening a portal directly into the cell for quicker deployment onto the battlefield.
+
+She was exceedingly careful in doing so, ensuring that the portal wasn’t near—or in view of—any of the copies of the prisoners.
+
+As that worked perfectly, it gave her an idea, and she tried to open a portal completely blocking the tunnel out, but something about the way that dimensionality was interacting with Kit stopped her. More specifically, she felt like if she actually did block the tunnel completely, then Kit would eat the cell by default.
+
+Would that actually be a bad thing? In theory, all copies of this woman are in here… right? Kit could eat her, and we could kill them all… or we could keep her trapped…
+
+That contemplation brought Alat’s focus back to her. -Assuming that her concept couldn’t retaliate and kill you as backlash, that might work, but as we discussed before, many of the pictographs seemed to imply that it wouldn’t, even if it wasn’t clear as to why. Having her fully in Kit might also simply let her replicate Kit’s magics, which would make her uncontainable.-
+
+Tala grimaced. Her growing soulsight showed an odd… resiliency? Yeah, something like that. It showed an odd resiliency to the prisoner’s soul, and thus, Tala felt like just killing off everything in this cell wouldn’t actually do what she wanted it to, and that lined up with what the antechamber had seemed to imply.
+
+-Besides, we proposed that, and Master Grediv and the others said it wasn’t worth the risk. I don’t think we want to go directly against their advice, especially not on our first cell closure.-
+
+Fair enough. Tala let Alat get back to the work of renewing the seal on the cell, and Tala fully focused back on the fight within the same.
+
+Terry was continuing his rampage of precise kills to no true, lasting effect, but now, the number of copies was growing, the woman seemingly willing to devote more of whatever resource her copying took now that she had a potential escape in sight.
+
+Tala’s items joined the fight, breaking bones, tripping running feet, and otherwise spoiling movements to let Terry kill all the more.
+
+Some of the bones that broke were mirrored onto Terry, causing the bird quite a bit of consternation, but with Tala’s healing, he was able to continue. It helped that she’d warned him of what she was going to do, turning it from a potentially ally-killing issue to one of mitigation tactics.
+
+The injuries that were copied back to her hurt a bit, but she healed so quickly afterward that it was essentially a non-issue. Imagine if we could put this woman through Refining, and she could simply mirror the result onto others… It would allow so many more to cross that hurdle.
+
+-No, Tala. Even if it could work—which I doubt—we aren’t authorized to even consider such.-
+
+Yeah… she seems like she’d try to sneak a copy off at the first opportunity, then we’d be rusted.
+
+-Exactly.-
+
+Tala’s thoughts danced through the battlefield, her mind, control, and authority split in many, many directions.
+
+One group drew away from Terry, and rushed toward the tunnel out, Flow only able to kill two by beheading—the mirrored effect annoying but not difficult to heal as she was able to keep her own head and body in place—before some ten were drawing close to escape.
+
+So, Tala—without difficulty or effort—created a small portal into her artificial lung, sending out a stream of dissolution breath. It lacked the containment scripts from her mouth, but in the current situation that wasn’t an issue. As she opened the portal—only letting it remain open for an instant—she shifted the cell-side position, strafing through the whole group.
+
+She’d almost perfectly calibrated the amount of magic sent forth to eliminate only the bodies of the women hit. She then braced for the copied effect, preparing to work against the same if it was directed at her ally.
+
+As it turned out, that was exactly the right thing to do. Terry was seemingly seen as the greatest threat, because at that moment, dissolution power blossomed against him, Tala having to devote a massive section of her mind and authority to counter-healing against the dissolution effect, and keeping her soulbound companion alive.
+
+Thankfully, she’d been watchful for just such a possibility, and so she’d been ready to act. Even so, if he had had the same physical volume as the prisoner, Terry would have been dead, and she’d have had to bring him back as she had before. That wasn’t the case however, and she felt like she was able to hold off such an end because there was that discrepancy in size.
+
+Alright, not using that again for the moment. Send my apologies to Terry.
+
+-He understands.- Alat did have enough space to facilitate their communication, though she sounded strained.
+
+The terror bird, himself, let out a trill of exultation. It was truly a battle worthy of his attention.
+
+Alat was clearly being distracted by the issue of the prisoner’s power, as she took the time and mental energy to quickly query Tala about it. -How are they breaching our authority—and his—to apply these effects? I’m not feeling any contests of such… though I am rather busy.-
+
+I’m handling this. Focus on your task. Terry and I have got this. Tala did frown, however, redevoting a portion of her sight and mind to hunting down the how.
+
+As she detonated a series of siege orbs across the battlefield—coating the ground liberally with ice to spoil the enemies’ footing—she saw it.
+
+Her magics that were acting upon the orb expanded outward, along with the cooling effect.
+
+Only a bit of cold got to some of the copies, but Tala immediately saw something like a pull on the reality thread that connected her to the effect that she had caused, power flowing back down it like a wave down a rope.
+
+That power hit her, and frost crawled across her skin, her body cooling much more than if she’d been hit by her own magics directly.
+
+Mirror the effect, not the cause, proven yet again. It’s an effect of reality threads, or at least enacted through them.
+
+That type of effect was… not blockable? Not with what she knew. The baba yaga could have blocked it, and so Tala theoretically should, but she had not spent the time that she should have exploring that pathway. She’d correct that soon but couldn’t now.
+
+As to the abilities that she did have well in hand? She could sever any ties to herself… and to Terry, otherwise he’d be the target of all the replication.
+
+She couldn’t do that with him continuing to add threads with his every attack. Each was something that she’d have to address, and she had no illusions about being quick enough to cut each new one before any retaliation could come.
+
+Or… She sent a feeling to Terry directly, it was more an emotion than anything else, and she did her best to convey just one thing: Brace for oddity.
+
+Alat also caught her intention and filled in some details to their soulbound companion.
+
+Tala immediately aspect mirrored her void and magic into her iron defenses. It had been years since she’d used her existence-shield, but even so, the awful feeling that it brought down on her was exactly as she had remembered, exactly as she’d feared it would be.
+
+The isolation, the dawning horror of being separated from the world, it was sickening.
+
+But this time, she felt her connection to—and bond with—Rane, and Terry was in this with her. Those two were anchors for her, though the fact that Rane was so far away made that connection a bit less reassuring. For Terry, this was his first time experiencing this, and so having her there wasn’t as much a relief as it was for her to have him.
+
+Terry screeched seemingly involuntarily at the wrongness of the sensation, but Tala continued, purposely not protecting any of the reality threads that had been created, tying them to the woman within the cell.
+
+Those were cut as cleanly as a mundane thread with a razor, and suddenly, the copied effects stopped coming.
+
+In the grand scheme of things, it was a little change as the prisoner could still copy herself seemingly without end, but it was enough to tip the balance, at least for a moment.
+
+Alat warned Tala that she’d need another hour at the very least—mainly because she and Kit were doing something that they’d never done before. Thus, Tala and Terry buckled down for the long-haul, trying to eliminate the woman entirely if possible, but mostly conserving their strength and capacities to be able to continue the fight for as long as Alat required.

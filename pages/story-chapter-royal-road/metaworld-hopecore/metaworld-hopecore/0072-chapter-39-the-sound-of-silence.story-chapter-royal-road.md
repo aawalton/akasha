@@ -1,0 +1,213 @@
+---
+id: fd29a4ea-8dee-578c-9fd4-e7b5fc7f82b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 - The Sound of Silence"
+slug: 0072-chapter-39-the-sound-of-silence
+partOf: metaworld-hopecore
+position: 72
+ownLength: 2820
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3397283/chapter-39-the-sound-of-silence"
+royalRoadId: "3397283"
+---
+
+“Poetry is finer and more philosophical than history; for poetry expresses the universal, and history only the particular."
+
+AristotlePoetics
+
+When the afternoon arrived, Eppie shed her outer layers for the theatre blacks, then stretched out her body beside the stage while the rest of the cast tried to wrangle their minds into the right headspace. As much as she wanted to wear her Sony leotards, she just couldn’t work up the courage, not when everyone else wore their basics.
+
+Chloe Vickers, Valorie’s clique-mate and her Ismene, was already on stage, running her lines.
+
+Costello was their presiding instructor while Cooper did his Senior work, and the pair were in the process of perfecting the opening act—the scene that would decide whether the walk-ins would leave or stay.
+
+Normally, this was a very, very important stage for Sophomores. It was their first time taking to the black box in a professional production, and the experience would make or break many of them.
+
+Unfortunately, this year’s Sophomores would not be subject to the high-pressure criticism of a golf-clapping audience. This was because the school was already singing praises of their new golden goose, Eppie Fontaine, a songwriter with a knack for evergreen tunes that seemed to gel with an older demographic with disposable income. As for her singular pop tune, Umbrella had no challengers on the pop charts during its run. The song would not be dethroned until the audience grew bored or new talent rose to usurp Kellie Noah’s reign.
+
+That, and Sony had sent over some pictures of Eppie, which LAPA promptly included in the Fall Gala brochure.
+
+As with all of Valorie’s lackies, Eppie felt no particular antagonism toward Chloe. Sanders’ relationship with her cronies reminded Eppie of her old self. They both had lots of hangers-on, lots of associates, but no one who would jump into the sea to pull her back on deck.
+
+“From the top now,” Costello wasn’t paying attention to Eppie at all. He sat cross-legged on the floor with a Moleskine notepad, taking Chloe through the Laban movements.
+
+The scene was simple. Antigone will bury her brother. She wanted her sister to help, but the stake was their lives.
+
+“How can we fight? Annie?” Chloe’s body shrank into itself, as if to hide from the harsh light of Antigone’s interrogation. “We’re just girls… we’re girls, Annie. Students. Nobodies. How can you expect us to challenge Uncle Creon? He’s the Secretary of Defence! I… I don’t…”
+
+"From the top," Costello said, from the floor where he is sitting cross-legged with his notes. "Antigone calls Ismene out of the palace at night. She has a plan. Ismene doesn't know the plan yet."
+
+Costello allowed the dialogue to run.
+
+Off stage, Eppie felt her body act in turn. Antigone’s response wasn’t anger. It’s something more dignified, resigned, and dangerous. Antigone had resigned herself to action. She loved Ismene, even if her sister was weak, even if her sister wanted peace.
+
+You can be what you want to be. Emmi, but I will bury him.
+
+That was Antigone’s counterpoint, Eppie’s line, her spine unyielding to the end, even if it meant a live burial.
+
+In the evening session, Dr Cooper arrived with the economy of a man who could no longer afford sleep. He had a mug the size of Eppie’s head, not filled with water, but iced coffee.
+
+They worked on the burial speech. It's Eppie’s scene, and her longest dialogue, the one where she backtalks Uncle Creon after he has her arrested and confined. As Antigone, she delivers a monologue about her elopement with Haemon to find Polynices and their inevitable doom.
+
+In the lightless prison, kept dark to cool her hot head, she spoke to the audience by speaking to herself, to the pantheon of Gods.
+
+"The last four lines." Cooper held her back before she could finish. “Again”
+
+She performed the lines again.
+
+"You're rushing the end," he said. "Why?"
+
+Eppie knew why. It was because their conversation wasn’t about Mio; it was about her Antigone. "Shouldn’t we want the pain to end? To resolve?"
+
+“Not resolved,” Cooper studied her, mulling over her words. “It is my belief, and you can disagree if you wish, that the final four lines are not the end. I think they’re a destination of arrival. She knows she’s death incarnate, but that was her choice; now, she’s simply arriving at the destination of her choosing. She didn’t want to die—of course. But she’s here now. She owns it. It’s a relief, almost.”
+
+“Yessir.” Eppie shook herself out. She tried to put herself in the right state of mind, but there was no [Trait] for that, at least not yet. Either the [System] wanted her to earn it, or it was something tied to a bigger story, a crueller [Usurper].
+
+She took her time.
+
+Across from her, Cooper listened with his eyes closed, measuring the tenor of her voice, her chest compression, her projection in minute detail.
+
+When she finished, he opened his eyes as if to examine her.
+
+"What’s holding you back, Eppie?” Her instructor’s face was close. The African American philanthropist was leaning down to reduce the distance between them. Her instructor was close. She could smell his cologne; it was something infused with sandalwood.
+
+“If you must know,” Eppie moved her face closer as well, uncomfortably close. Before Cooper could move back, she shot her shot via an intimate whisper. “I found Luciana Mio. Doc. I know what happened to her.”
+
+Dr Cooper froze on the spot for a microsecond. The man’s eyes opened wide, then returned to neutral, as she’d never said anything at all.
+
++ Karmic Causality
+
+Well, that was the right gamble. Eppie would have patted her own back if chance permitted, but she was acting now, acting as a troubled theatre student.
+
+As an actor far more natural than Eppie, Cooper stepped back with discernible disappointment and concern, looking at his student even as he near-imperceptibly shook his head.
+
+“Let’s take a break,” Cooper said to the class. “Fontaine. We’ll discuss your concerns in my office after the evening session.”
+
+LAPA. Eppie waited in front of David Cooper’s office until his Senior rehearsals were done, whereupon the poor man stumbled back in his cashmere coat to the Main Building. He gave her an affirming nod, then unlocked his office.
+
+The desk of Dr David Cooper was filled with notes on the productions, headshots of students, resumes and casting sheets. The walls were covered in photos, awards, and certificates of appreciation. Cooper was married, she could see. Two kids. Both old enough to be in college or work.
+
+With a groan from old, protesting furniture, the man sat.
+
+“Fontaine, make yourself comfortable.” He pointed to the seats in front. These were the famous interview seats. The Seniors spoke of them with reverence, the Juniors with terror. In these seats, theatre leads were made and unmade.
+
+No doubt, sometime ago, Mio sat here with Valorie, and Cooper had told them in his deep, baritone voice, that one was to be the understudy of the other.
+
+This was Cooper’s Hubris, his hopes and dreams for the common actress. This novel is published on a different platform. Support the original author by finding the official source.The consequence was a catastrophe.
+
+“Tell me, Miss Fontaine,” Cooper commanded. “Where is Mio?”
+
+Above them both, the ancient fluorescent tubes were harsh and flat, affording neither of them any particular mercy.
+
+She told him. She told him because she trusted the [System] and her instructor. Dr David Cooper had a reputation. He had ethos. He had done in his youth what no talented theatre major on a national level was willing to do: to step out from the limelight and into the Bronx, to teach the kids there that art was a viable path to greatness, that talent was something money can’t buy.
+
+She prefaced nothing. She ran down the dramatis personae like a scripted play in four acts, missing the finale. Mio. Cooper’s decision. May 4th. William. Herself. The pregnancy. Mio’s peace. She did not name Lim; she made it clear that she would not.
+
+Then, she slid over a cassette tape.
+
+She never got past the first minute. She doesn’t want to. She knew too much already and did not need the trauma of Mio’s howls rattling in her head. If she had finished, she doubted her little mind could find the sweet balm of sleep ever again.
+
+Dr Cooper produced a Sony Walkman. He slid the tape in. He rewound it. He played it. His eyes grew hard, then soft, then he closed his eyes in prayer to a higher power. Her teacher listened with both hands on the table, their nails scraping against the leather and the grain of his enormous desk.
+
+He would make a good Othello, she decided. He certainly looked the part in Act V.
+
+Whip me, ye devils,From the possession of this heavenly sight!Blow me about in winds! Roast me in sulphur!Wash me in steep-down gulfs of liquid fire!
+
+In January, Cooper had planted a seed of hope in the girl sitting in Eppie’s seat.Now he sat opposite Eppie, dissecting the hideous flesh of his karmic fruit.
+
+“The Chens,” her teacher said quietly. “They know this?”
+
+“Only William and his unhappy few,” Eppie replied.
+
+“Sanders?”
+
+“She is the instigator, but… she doesn’t know how far William was willing to go, or had gone.”
+
+Cooper’s jaws tightened. Her teacher had the trained body of a multi-disciplinarian. His muscles were lean and defined. If the dam broke, he might just become an avatar of vengeance.
+
+“Does the Principal know? He spoke of you highly.”
+
+“Dr Burton suspects, but has no evidence,” Eppie shook her head. “He told me as much. He wants the industry out of LAPA. He wants the PTA cowed. That’s his main concern, I think. Recourse for Mio is secondary.”
+
+She knew this because she knew men like Burton. They were good men, but they were institutional men. Their child was not the children inside the school, but the institution itself. LAPA was Burton’s boy, one he had raised with all his heart. Mio was a tool to dislodge the parasites sucking on LAPA’s verdant trunk, and Mio was no less a danger.
+
+Very carefully, Cooper took out the tape and returned it to her. “Have you made copies?”
+
+“My lawyer has the original, actually,” Eppie revealed another card. “We have a reporter from the LA Times detailing every fact. She will publish when the time is right.”
+
+Dr Cooper studied her again. “You are very thorough.”
+
+“This is a serious matter,” Eppie stated. “And I have a proposal. One that will let us have our justice as the arts demand it, as students of theatre.”
+
+Their gazes entwined, student and teacher, playwright and thespian. Cooper’s gaze felt like feelers on her mind, probing her mind for the devious little twists and turns that she wanted to show off to her teacher like a child with a papier-mache volcano. The bond between a theatre student and her Chair was different to the intellectual exchange of Dr Kirby. It was more intimate, physical, cross polinating.
+
+“You’ve been learning your Titus lessons. Dr Kirby should receive a commendation,” Cooper said suddenly. “You’re thinking of using the play?”
+
+“Ovid,” Eppie pointed to her earlier lesson.
+
+“Yes, Ovid.” Cooper inclined his chin, his jaws firm and tight. Like Lim, the man also swallowed his feelings in a way that can’t possibly be healthy. "Lavinia carried it in her arms because she had no hands, and she guided her father to the right page, and the text became her testimony. Do you mean to have Mio carry her own Ovid onto that stage?"
+
+Eppie was shocked that her teacher had figured it out within seconds. “The play’s the thing…”
+
+“... Where I’ll catch the conscience of the king—” Cooper completed the sentence for her. The veteran thespian was agog, his rage displaced by sheer genius. “The Mousetrap, from Hamlet. This is… an incredible act of theatricality, Miss Fontaine. I am… both impressed and horrified. More so, the latter, if I am to be honest. You are a monstrous playwright if you have figured it out to this degree. What plays might you write in the future? I cannot begin to imagine.”
+
+“I was thinking about the Spring Gala,” Eppie continued. “There isn’t anyone willing to compete with Valorie for the role of Lavinia, right?”
+
+“No,” Cooper said coldly. “There is not. Val Sanders has been expecting Lavinia since September, and frankly, she’s not wrong to expect it. On paper, on track record, on her institutional history… She has her own demons, that’s all I can say. It’s a shame that her father is Senator Sanders. She’s still guilty, of course…"
+
+“Good. With a web such as this, we will ensnare them here,” she expanded on her plan. “I don’t know if Mio would be willing to return for the role. If not, I’ll be her understudy. We’ll perform the play, sans Valorie. We’ll use…”
+
+She looked at the cassette.
+
+“Indeed, we will. What better l'ambiance,” Cooper declared to the room, indulging in a little French, “than truth itself?”
+
++ Karmic Causality
+
+Good God! What a pleasure it is to speak to Cooper. Eppie marvelled at the… marvel of it all. The man was on board. The man knew everything instantly; he could even foretell the future. Did Cooper also have a [System]?
+
+“Actually, leave me the copy,” Cooper took the cassette once more. “For your plan to work, we need to enlist one other.”
+
+“Dr Costello?” Eppie knew the answer at once.
+
+“Actually, no,” Cooper said. “Craig is very trustworthy, but he is soft-hearted. He also loves the school as much as Burton. I was thinking of someone who had refused to join the school for very specific reasons. Someone who has long felt that there is something rotten in the heart of Denmark.”
+
+“... Tyker? Do you mean Susan?” Eppie clicked the puzzle piece into place. For someone who gave LAPA so much time, she wasn’t even on the staff roll.
+
+“Indeed,” Cooper applauded her. “She will be planning the LAPAGANZA’s theatre programs with Mrs Carr. She will have complete creative control with my support. Access to the control desk, the software, and the files for the electronic broadcasts. With the two of us…”
+
+Eppie nodded. There was nothing else that needed to be said.
+
+“We shall proceed with this,” Cooper declared, almost to himself. “But let me ask you one more thing. Mio—if you do want Mio to reprise the final role, then it must be because she wants it. It has to be because it will close this terrible, sordid chapter of her life. It has to be catharsis, Eppie. Do you understand? Mio is not your plaything. As playwrights, there is a tendency to see people…”
+
+Cooper inhaled sadly, his tone weighted with regret. “As props. She will not be your prop. She isn’t Lavinia, and you’re not Titus.”
+
+“I understand,” Eppie nodded. “Her consent is foremost.”
+
+“And as for yourself,” Cooper’s eyes softened. “I can see you are an actor as well, a damned good one. Still green, but…”
+
+Her instructor’s voice grew more serious. “We’ve spoken about Method Acting in class. I told you, if you recall, that the emotions on stage can’t be fully faked, that often, they’re felt. The way actors access that authenticity, that veritas, is to draw upon earlier memory, to create a simulcrum of fear, horror, love or lust. This is the Stanislavski Method, do you recall?”
+
+“I do,” Eppie did not like where Cooper was headed, but she had to listen, because it was polite, and because she needed his help.
+
+“I feel you might be a little too immersed in Antigone. I cannot speak for your early memories… but…”
+
+“What William did was unforgivable…” Eppie snapped. Her face felt like a furnace.
+
+Her teacher shook his head, as if to dispel a terrible thought. “Eppie. You’re the most brilliant student I have taught in years. Don’t mire yourself in vengeance. Remember—”
+
+“The boons of reciprocal hatred, the behemoth that feasts upon its own flesh,” Eppie parroted Kirby.
+
+“If you must channel someone,” Cooper’s tone was sincere enough to feel oppressive. “Channel the Philosopher Prince. Don’t become Titus.”
+
+“I understand.”
+
+“Do you really?” Cooper looked at her hands, but refrained from reaching out. They were a student and a teacher, first, then a man and a woman. The man had corrected her posture a hundred times, but this was different. This was with feeling. “You promise?”
+
+“I promise,” Eppie said to herself.
+
+“Then our pact is made.” Cooper stood. He bowed his head in reverence. “Miss Fontaine.”
+
+“Dr Cooper.” Eppie stood as well. She bowed from the waist, in the Japanese way.
+
+The play’s the thing, where they’ll catch the conscience of the king.

@@ -1,0 +1,344 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 96 - Wayfaring Stranger"
+slug: 0166-chapter-96-wayfaring-stranger
+partOf: metaworld-hopecore
+position: 166
+ownLength: 3591
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3871967/chapter-96-wayfaring-stranger"
+royalRoadId: "3871967"
+---
+
+Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+
+John 12:24
+
+11 East Seventy-Third. The Vaughan Estate.
+
+Euphemia Fontaine came into the reading room with Fifth Avenue still on her Common Projects. Her host, the Dame of the Met, looked up from the escritoire, set down a cup of coffee she had only just poured, and gestured for her to sit.
+
+Eppie sat.
+
+“Kiritani Sensei went at ten to eleven this evening, in bed, without duress. Dr Marchetti, his primary physician at Sinai, told me he had eaten well, and it was comfortable.” Vaughan folded her hands. “He slept well and was at peace when he passed.” Ten to eleven…
+
+At ten to eleven… she was watching the Philosopher Prince inform Fortinbras of his dying voice. Like the Danish Prince himself, Eppie’s head suddenly filled with questions. Should I have been there? Should I have attended to Kiritani-sensei? Should I have—
+
+“Euphemia.” Vaughan’s voice cut through the static of her thoughts. “Listen.”
+
+She looked up at the lady of the house. Vaughan’s expression was one of repressed sorrow, but it wasn’t for her sensei. Vaughan’s simmering anxiety was for her ward—for Eppie.
+
+“I should inform you,” her not-mentor said in a careful, measured voice. “That it was Kiritani-sensei’s choice to hide from you that he had been ill since February.”
+
+Eppie felt her innards constrict. February? Was her sensei already sick?
+
+“Kiritani-sensei told me in no uncertain terms that he had been duly informed by Dr Marchetti of his hard-won old age. He did not want you to worry. He knew that you had… your troubles, with William, with LAPA.”
+
+Eppie’s torso convulsed. She took a breath. Then another. And another. Calmly. Rationally. Because she was in control.
+
+“Are you upset with me?” Vaughan gave her a wan smile. “With your Sensei?”
+
+“No,” Eppie managed to keep her voice from cracking. “No… I… I understand.”
+
+“Good.” Vaughan held out a wrinkled hand. Her fingers were skeletal.
+
+Eppie took it. Warm as the room was, Vaughan’s fingers were ice-cold and trembling.
+
+“Henry has left something for you.” Vaughan brought up an embossed manila folder with her free hand, the type used by prestigious law firms. “Kiritani left you this, among other things, but I would like to pass this on, first and foremost, because of its personal nature.”
+
+Her host set a piece of cardstock on the table, rectangular, about the size of a small paperback. Vaughan slid it over slowly, with solemnity.
+
+The artwork was in ballpoint, like most of Kiritani’s creations. Her sensei had worked as a resident artist for a few months at the Met, using forty-nine-cent Pilot biros from K-Mart.
+
+As always, there was a wall, drawn in about eleven masterful strokes.
+
+The drawing was of three cats atop the wall.
+
+Kimi. Tanaka. Kana.
+
+There was… snow? It was incredible what Kiritani could achieve with a few scattered strokes.
+
+Christmas Eve. She recognised the scene. That’s the wall I scaled—behind that wall, in the tunnel, was where Kiritani had slept.
+
+She turned the card.
+
+In the middle, running downward in his vertical hand, was a careful script written with the last strength of an artist in his final weeks.
+
+去年の雪 · 猫は覚えぬ · 我が名かな
+
+kozo no yuki / neko wa oboenu / wa ga na kana
+
+Last year’s snow.The cats do not remembermy name.
+
+She read the words to herself, first in silence, then as a murmur. Her lips followed the cadence perfectly as her [Sublime] purred with pleasure. Even so, she knew that there were meanings in the characters that her commercially learned Japanese could not discern.
+
+Wait… Oh my God… you sly fox…
+
+Shocking her host, Eppie suddenly snorted. She understood the joke.
+
+The cats did not remember Kiritani’s name, because… well… they’re cats…
+
+For fifty years, Kiritani had fed the now-famous Kiritani’s cats, and none of them could say his name. He probably thought, in his final moments, that this was the most hilarious thing he had ever conceived, and that he simply wanted to share it with her.
+
+Underneath the poem, in smaller characters, was a final message.
+
+To my tenshi.
+
+Eppie put the card down on the table. Now was the time to expel ten per cent of her water weight in tears.
+
+“Don’t,” Vaughan commanded. “Kiritani-sensei wouldn’t want that. He wanted you to appreciate this moment. The card… it’s to make you smile, I guess.”
+
+Eppie held back the tear-floods, the sigh-tempest and the choking sobs, because Juliana was right.
+
+“That is the correct response. The card… his art,” her not-teacher advised in her patented, aphoristic manner. “It is… the pathos of things.”
+
+Yes. Mono no Aware, Eppie knew of the phrase Vaughan was trying to impart in English. The pathos of things was the empathy for life’s ephemerality. It was… acceptance, and understanding, of transience. Of things, of memories… of human connections.
+
+“More like…” Eppie rubbed away the moisture that had inadvertently escaped. She cracked a smile. “The fleeting lives of his cats.”
+
+“Cats that were well worth feeding, for fifty years,” Vaughan’s voice softened now that Eppie did not collapse into uncontrollable grief. “Cats that have lived well, like their master.”
+
+They smiled at each other then. On the cardstock, the cats looked as if they were smiling as well.
+
+“I have long since arranged the aftermath of Kiritani-sensei’s passing,” the Dame of the Met informed her of something she had planned since February. “The service will be at the New York Buddhist Church, on Riverside. Reverend Yasuda will preside. He was also interned, though he was at Heart Mountain.”
+
+“Did he know Sensei?”
+
+“With great regret, he did not.” Vaughan shook her head. “Even so, there will be a great many people in attendance. Kiritani-sensei’s artworks have reached many communities and touched many people, and stirred a great many conversations.”
+
+Eppie acknowledged the facts slowly, appreciatively. This wasn’t just Kiritani-sensei’s funeral; it was a send-off for something far larger.
+
+Vaughan reached down and pulled out another manila envelope.
+
+“There is one more thing,” she slid this one across in the same way. “Henry has left you everything.”
+
+Eppie gulped; it was a very thick envelope.
+
+“The Tule Lake pieces. The cats. The camp. The butte. The five rooms and the drawings since. It is his complete body of work, Euphemia. The exhibition was a loan; none of it was ever sold.” Vaughan paused. “I know you don’t care about its monetary value, but it’s a lot. And it’s yours. No matter what you say, you’re its discoverer.”
+
+The weight on Eppie’s shoulders, and not just from the [System]’s pedantic allergy to profit, was beyond oppressive.
+
+“Could you take care of the collection for me, Juliana?”
+
+“Naturally,” the Dame of the Met said. “Many of his works are… not in a condition to be casually stored or transported.”
+
+“No, not like that,” Eppie shook her head. “I wish to bequeath the collection to the Met.”
+
+“Did I mention it’s worth a considerable amount of money? It’s a complete collection. There will be none like it in the world.” The Chief Curator sighed. “Would it kill you to take a lump sum?”
+
+Eppie affirmed her love of life by denying any desire to possess such a collection. “When the Met’s finished, could the collection go on tour?”
+
+“It absolutely can. It absolutely will.”
+
+“Then…”
+
+“The Metropolitan Museum of Art will accept.” Juliana retrieved the envelope. “By the way, I believe your Newfoundland has arrived in New York. He was one of the few people I contacted to inform of Kiritani-sensei’s unfortunate passing. If you wish, I can contact him to have the instrument drawn, and you can sign it yourself next Saturday. You can bill his hours to Sony. I’m sure your father will pay it.”
+
+“Thank you.” Eppie relaxed. She felt the hand of the [System] retract its claws. “Is there anything else I should do? His body…”
+
+“What you should do is go to bed, Euphemia. The temple… The Church will take care of Henry. Know that if you accept his will, then you have become his last remaining family member. You’ll be the moshu.”
+
+The receiver.
+
+“Hai…” Eppie bowed her head.
+
+As the bearer of Kiritani-sensei’s will, and the beneficiary of his collection, it was the least she could do to attend to his kokubetsushiki and return the bows of those who had been moved by his art.
+
+Until then, all she could do was endure the agony of time.
+
+Saturday. Central Park. Loeb Boathouse
+
+After first light, Eppie came to the cats to inform them that their Kiritani-Sensei had passed away. She brought with her an enormous bag of the Dollar store stuff from the bodega on Madison, because Kimi and the lads wouldn’t touch the expensive stuff if their life depended on it.
+
+Sure as the morning joggers, she found them there, near the wall shielding the pump machinery, the wall still crumbling where it crumbled, the gap unrepaired.
+
+She was lucky today.
+
+Kimi. Kana. Tanaka. The troops were all still there. She told them that her sensei had died, and then she hugged the cats one by one.
+
+Kimi bit her when she hugged Tanaka to her chest.
+
+Eppie sat on the flagstones, heedless of the wetness against her tights, and allowed them to clamber over her, like they used to do to Kiritani. She imagined herself as her sensei, cat-covered, with his face to the sun, photosynthesising.
+
+Here was where she had found him on Christmas Eve, sheltering from the snow in the steam-sodden dark. Even now, it was hard to believe that the black shape under the cats and the tarpaulin had turned out to be a man.
+
+She stayed until she was hungry, and the cats were not, speaking to them in hushed tones about Kiritani-sensei’s final joke, that the cats did not know his name.
+
+“His name was Henry Kiritani…” she told her feline audience.
+
+“Meow?”“Meow…” “Meow—!”
+
+“... You’re back.”
+
+When Eppie realised it wasn’t the cats speaking, she looked up. At some point, she must have dozed off.
+
+She looked up. She looked up a long way.
+
+The speaker was the Eastern European vagrant. Not as big as Lim, but large nonetheless. His name, Eppie recalled, was Bogdan. She remembered him because he had helped her carry Kiritani to the Four Seasons. His enormous frame looked softer than she recalled, probably because he put on weight. Presently, he had a canvas bag over one shoulder with the handle of a plastic litter scoop exposed, a green polo shirt with something embroidered on the breast, and gloves on his rough-hewn hands.
+
+“I knew it was going to happen,” Bogdan said, his voice low and gruff. “When he stopped showing up to feed the cats.”
+
+Eppie’s eyesockets grew warm. Bogdan looked at her, at the cats, then suddenly informed her that, “a few years ago, I sold one of his drawings for eleven dollars to a tourist.”
+
+He sat next to her. Kimi, the traitor, shifted immediately over to Bogdan’s lap.
+
+Eppie could read his shirt clearly now. Beneath the embroidered outline of a sitting cat, it said “CENTRAL PARK FELINE PROGRAMME · VOLUNTEER,” and beneath that, on a laminated tag clipped to his collar and turned round the wrong way, it said his name and the word “STAFF.”
+
+“Are you…”
+
+“I have a bed, and a job,” Bogdan said proudly. He had a great big beard now, and he looked good. “Not much but enough. I have a room. I am good with the cats. The veterinarian tells me so.”
+
+“That’s wonderful,” Eppie was wholly sincere.
+
+“It is.” Bogdan was laconic.
+
+They sat for a few more minutes, then Bogdan cleaned up the cans of food she had left lying around while Eppie blushed for shame.
+
+Then he stood over her, blotting out the sun.
+
+“You are a good person,” Bogdan said in his heavily accented English.
+
+She waited for a follow-up, only to find that her human shade sail was gone.
+
+With the day hot and slow, Eppie sat on the warm flagstone with the bodega bag empty beside her, and lashed herself with the man’s parting words.
+
+Sunday.
+
+Eppie queued at dawn for another Shakespeare ticket, hung out with the cats, answered no emails, then jogged around the park’s inner circuits, burning her stamina, channelling Forrest Gump until she felt a smidgen better.
+
+In the evening, she sat on the same patch of grass soaking through her tights and watched Hamlet, again, properly this time.
+
+She watched the scenes like a hawk-eyed critic at a competitor’s product launch. She watched for the Blocking, the Sightlines, the ways her [Empty Space] made the invisible obvious. She internalised the limitations of the open-air theatre. [The Facial Landscape] scrutinised the actresses’ faces and the actors’ expressions, running a cold audit of their interactions. She allowed her [Love the Light] to whisper suggestions for a company fighting the sunlight at 8:30 PM in ways only a veteran thespian could discern.
+
+Act III was the best by far. Eppie was biased against Act V.
+
+The play had spent four acts being the greatest dissemination of human thought ever established, a true mind at war with itself, then—then it gives up. Hamlet gives in to fate, without guilt, without remorse. He lets it happen.
+
+The readiness is all.
+
+Was that what Kiritani-sensei felt? What he was ready to receive? After a lifetime of fighting an unjust system, of refusing to allow an unjust government to violate his human dignity, he had bewitched the world through his cat drawings, then—
+
+The rest is silence.
+
+Eppie placed her chin on her knees.
+
+Behind her, a couple was rustling a paper bag, wrestling with a pastrami sandwich. The trees past the stage swayed indifferently. The lighting over the stage hummed, and the sky over Manhattan had gone the colour of bleeding bruises.
+
+It was all so beautiful. Indifferently beautiful.
+
+Six days.
+
+Monday.
+
+Euphemia Fontaine went back to work.
+
+No one needed her at work, nor was her work tangible, but she went anyway, against Maddy’s advice, a lovely email filled with emojis offering her condolences. Kiritani-Sensei’s obituary had gone out, and, according to Vaughan, the exhibition was about to be hit by a tsunami of visitors.
+
+Sony City was itself indifferent, though that indifference did not extend to those who knew of her relationship with the late Tule Lake artist whose cats had been on display on the multi-storey banners in front of the Met for nearly four months now.
+
+In his abode, Curon watched her walk in, placed an arm around her neck, kissed her forehead, then sat with her while she fought the grief that came in waves.
+
+“I am so glad,” he said, his arm squeezing her shoulder. “That I came and opened up that Four Seasons room for him.”
+
+They spent the next hour listening to Curon’s curated collection of sad music. Ballads really weren’t her faux-father’s forte, but it helped.
+
+Trent Davis came down at eleven to see if his Director was working—and find father and daughter loafing.
+
+He opened his arms. Eppie went into it.
+
+It felt like she was being hugged by the facsimile of a hug. The feeling, the pressure, the overwhelming cologne, as opposed to her father’s laundry powder and body odour, made it feel like there should be a camera somewhere, capturing them for a press release.
+
+“We’ll be there on Saturday,” Trent said. “To give our respects.”
+
+“Thank you, sir…”
+
+He patted her hand, then returned to the top floor.
+
+Did Davis descend to share grief? To mourn the loss of an artist who had straddled both sides of American history? Or had he come down to cultivate rapport with his golden goose? Or was the [System] reminding her that her daily net income would soon dip into the negatives?
+
+Her questions were rhetorical, for the bard had told her the answer, a long time ago.
+
+All the world’s a stage,And all the men and women merely players.
+
+After lunch, Maddy suddenly materialised from the digital world and confronted Eppie while she hung around the corridors of the Belmonte building like the unhappy spectre of disgruntled idols whose dreams had been exhumed and sold for pennies on the dollar.
+
+Maddy went analogue and gave her a big, tight hug that lifted her off the carpet. Finally, after holding her like a homeless kitten for about a minute, she gave her a physical readout of Eppie’s current reputational crisis.
+
+Maddy asked for permission to make posts about Kiritani-sensei.
+
+Eppie said she’d rather not.
+
+“Okay, but take care of your mental health.” Maddy channelled her corporate lingo with as much humanity as she could squeeze into the phrase. “I’ll take care of everything on this end! You can count on it!”
+
+Then she took Eppie down to the cafeteria for ice cream.
+
+After the ice cream, Eppie realised that another reason Maddy had come down was that Eppie wasn’t answering her emails.
+
+Tuesday
+
+It was Kellie’s turn in the Mueller Suites, and she had brought fajitas to cheer Eppie up.
+
+Fortunately, Kellie hadn’t lost anyone in her immediate family yet, and, as the child of a young family, she hoped that she wouldn’t for a long time. When she heard that Eppie was going to be in the Mueller suites, she just knew she had to offer some kind of emotional support.
+
+“I heard,” said Kellie, watching the listless girl waiting to host her sensei’s funeral on Saturday. “You have my condolences. I…I don’t have anything better than that. Sorry… would you like a fajita?”
+
+She had remembered how much Eppie loved Mexican during the Dream a Little shoot, and sent Big Brendan a long way for the best fajitas this side of the Rio Grande. She even had the kitchen downstairs reheat them.
+
+“Sure, I’ll take one…” She watched Eppie bite into the saucy tortilla, allowing the flavour to hit, then moodily gulp down the lot.
+
+Kellie watched this happen, then opened one of her own.
+
+Her technician’s nose wrinkled, and Kellie felt it in her stomach. She had carried hot food into his room. Nobody carried hot food into Mueller’s studio unless their name was Frederick Curon.
+
+Then he looked past her at Eppie, and something in his face gave way. He sighed, asked Kellie whether there was a spare, and took it to the far end of the suite to eat well away from the meter bridge, the faders, and the routers, holding it flat on a paper towel the whole way.
+
+“Should be working on your song,” he mumbled, mostly to himself. “Not feeding a stray cat the C-suite adopted.”
+
+Kellie decided she had not heard that, but when she tried to apologise, Mueller just waved her into silence.
+
+Eppie ate four fajitas.
+
+By the end of their meal, even Big Brendan was afraid.
+
+Wednesday. Zara texted her from Detroit.
+
+I am so sorry, Eppie. Antonio says the cats will find you again. (What does that mean?) I’ll be in or around NYC in six weeks. Please take care of yourself.
+
+Eppie considered what she should text back. Zara had never met Henry Kiritani. Her friend was sad for her, not for the artist who journeyed into the pure world.
+
+So she texted back a picture of Kimi, having grown fat thanks to the shelter. Plus a love heart emoji.
+
+That's a FAT cat...
+
+Eppie agreed. Kimi was a right chonker.
+
+Then the rest of the week happened.
+
+She sat in on two A&R meetings, listening to the VPs and Producers argue over mixed reviews. She received confirmation from Green Hasson Jank that her T-bill bidding was complete. She texted and received texts from Valorie, passing on a message from Sir Justin that Reiber had been moved to NYC, and that he had engaged a premium remote education service for the boy.
+
+Every morning, George laid the day’s papers, and every morning, Eppie subtly curated the financial news for the Dame of the Met.
+
+Seventy-nine days until the economy implodes.
+
+How many days after the fact would tens of thousands of artists find themselves unemployed?
+
+Her Newfoundland called on Thursday.
+
+“Deed’s drawn. Mr Whitfield reviewed it as a favour. It’s clean.” A pause; a car horn somewhere behind him. “You sign Saturday morning before the service. Director Curon will witness. It’s four pages, and three of them are the schedule of works, which, by the way, is 141 items. Half of which have yet to be exhibited. Kiritani-Sensei was very prolific.”
+
+Eppie said thanks. She told Eric that she was glad he was in NYC, and that their working relationship would continue.
+
+“Em and I are not far,” he told her. “Thirty-Fourth and Ninth. Movers get here Tuesday. I’ll be in the same building as you, just below 27. Business and Legal Department, reporting to Whitfield.”
+
+“Are you still going to be my babysitter?” she asked.
+
+“Are you still a baby?” Eric returned her question with one of her own.
+
+They both laughed awkwardly, flatly, then Eric sighed with heart, and said: “Take care for now. See you Saturday.”
+
+When she hung up, there was a new text from Valorie.
+
+Francis Sanders would also be attending Kiritani’s funeral.
+
+Well, that makes sense… Eppie tossed her phone back onto the bed. If Francis is going national—there’s no way he would miss the man who catalysed Tule Lake’s transformation into a national monument.

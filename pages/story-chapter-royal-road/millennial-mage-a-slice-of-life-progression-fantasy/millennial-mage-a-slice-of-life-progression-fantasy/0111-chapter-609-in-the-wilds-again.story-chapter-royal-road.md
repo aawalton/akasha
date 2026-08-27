@@ -1,0 +1,227 @@
+---
+id: f2471672-08c0-52f3-bfde-56f936a63e44
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 609 - In the Wilds Again"
+slug: 0111-chapter-609-in-the-wilds-again
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 111
+ownLength: 2689
+unit: words
+ownProgress: 2689
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2584052/chapter-609-in-the-wilds-again"
+royalRoadId: "2584052"
+markedReadAt: "2026-06-29T19:38:51.128Z"
+---
+
+Tala spent much of the night getting to know the various Mage Protectors, letting Alat log and categorize the individuals, their groups and their abilities. Lea politely accompanied her mother throughout, occasionally going to the food or drink tables to get things for herself or Tala.
+
+The girl only occasionally dulled her own senses, the alteration in the flow of power within her body so minute only a Paragon like Tala could sense the change.
+
+A bit past midnight, the last of the questions had been answered, and the Mage Protectors began to move toward the wagons that would be their homes over the next section of the caravan’s trek.
+
+The Talons got curious looks, but as Tala had explained them already, simply describing them as magically equipped and infused soldiers, most of the Mages dismissed them.
+
+It is amazing what humans can set aside out of ignorance.
+
+-Yeah, they don’t realize the massive shift in culture and power in the Cycling Cities right before them.-
+
+Tala frowned for a moment. I mean… I didn’t think of it that way?
+
+-I know, that’s why I put it that way.-
+
+Lea and Tala exchanged bows with each Mage as they passed out into the workyard, giving Tala plenty of time and mental energy to direct her thoughts at Alat… not that it took either much time or mental energy to begin with. Alright, explain.
+
+-Well, up until now, gated were the preeminent citizens in the Cycling Cities. They lived longer, healthier lives, had access to the Academy—at least in theory—and had all the myriad Mage or Inscribed professions available to them. Now? Any gateless who is accepted by you and the Talons has effective immortality instantly. They will live as long as you do, assuming they aren’t killed. Training then comes into it, building their capacities and giving them an honorable and powerful profession. The average Talon would easily defeat the average Mage in one-on-one combat, and even most low level Archons would be hard pressed to stand up to even newer Talons for long.-
+
+It wouldn’t have to be for that long for the newer ones. They bleed power like a sieve.
+
+-Indeed, but the higher ranked ones? They are already to the point that fighting one of them is like fighting a weaker arcane from the south. Archons would need to simply endure, but you’ve broken that restriction without even realizing it.-
+
+What?
+
+-How are you keeping the wagons charged?-
+
+Aura and iron.
+
+-Exactly. How hard do you think it would be to implement something like that to funnel power from Kit to the superficial? To Talons ranging in Zeme nearby?-
+
+Tala rocked at that idea. She hadn’t even considered it. True, it would be a foolish waste of power for newer Talons, and even the most capable still bled power too quickly to make it a feasible solution for the moment, but if they ever got to the point of arcanes?
+
+Yeah, it would radically change their utility on the battlefield.
+
+And if we gained any arcanes that we trusted.
+
+Alat sent a shudder. -Imagine Eskau Meallain with all the power within Ironhold at her disposal.-
+
+Tala held in her own shudder as she gave a shallow bow toward another departing Mage Protector. That isn’t something I want to consider.
+
+-You know, with how arcanes advance…-
+
+Yeah, I considered that. If we granted her authority within Ironhold—really and truly without reservation—she might advance on the spot, she might even push up against the bounds of Sovereignty, though I imagine she’d be kept from that final step given that our own authority would supercede hers in her ‘seat of power.’
+
+-True. That’s likely the issue that City Lords have. They are the pinnacle authority, but there are enough other authorities that, combined, match or exceed their own that they can’t claim true Sovereignty.-
+
+Tala chuckled internally. No wonder they are so grumpy with the various Houses.
+
+-Tala, the House structure is explicitly designed for this. Remember what Eskau Meallain said? What you, yourself, experienced? No House can have singular control over a city, and no City Lord can be overtly affiliated with any House? So many other things. City Lords are striving for Sovereignty within a system explicitly designed to keep them from it.-
+
+Tala sent her understanding back. And they know it, but to leave would be to give up the power they do have.
+
+-And each believes that they can succeed where none has before.-
+
+They fell into internal silence as the last guest departed, and Lea exhaled in relief, leaning against her mother. “That was… somehow worse than the ‘nothing’ of being on the road.”
+
+A smile pulled at Tala’s lips. “Well, you did very well, Lea. Thank you.”
+
+The girl straightened, beaming at her mother. “Well, it was either be polite or kill them all, so this seemed the better option.”
+
+Tala gave her a flat look. “Your body is still labeling every new Mage as ‘hostile’ and ‘kill on sight’?”
+
+Lea shrugged. “It’s not just Mages. Every gated human. But yes.”
+
+Tala grimaced. “I’m sorry, sweet. That must be frustrating.”
+
+“A bit. Momma and I are working on tracking down the remnants of automata programming, but it’s pernicious and self-replicating through my body. It doesn’t try to subvert my will or push back against my explicit commands, but the notification system is rather resistant to general alteration. Though, it’s still easy to make discrete changes.”
+
+Tala hugged her daughter with one arm. “I’m sorry, my little love.”
+
+Lea looked down at her mother with the help of her extra inches of height, raising one eyebrow. “Little?”
+
+“Yes, little. You’ll be my little love for as long as you live, Lea. Get used to it.”
+
+“I’ve literally never been smaller than you.”
+
+Tala huffed a laugh. “That doesn’t matter. You’re still my little girl.”
+
+“Okay, mom.” But the girl’s tone conveyed humorous skepticism.
+
+“Ready for bed?”
+
+“Yes, please.”
+
+Without further delay, Tala willed them both into her sanctum. They arrived in the central area, beside their dais. “Good night, Lea.”
+
+Lea finally returned the hug. “Night, mom.”
+
+The two parted ways, each going to their own room.
+
+Rane was already asleep in their bed, and Tala took a moment to get ready before sliding under the covers next to him.
+
+He unconsciously shifted and wrapped his arms around her, pulling her close and helping to usher her toward sleep.
+
+* * *
+
+The next morning was a logistical storm that the Sappherrous family watched from the comfort of their dining room while they enjoyed a magic-filled repast.
+
+Well, Lea didn’t get magic-imbued food, not yet, but there were portions and crops within the sanctum that were already being slowly altered to incorporate the magics that Mistress Holly was sure would be in the girl’s arsenal in the end.
+
+None were ready, of course, but they were in progress.
+
+The normal view out into the sanctum’s lush hills and valleys was replaced by replicated views of the workyard, and the long lines of citizens checking in and funneling into the various wagons.
+
+The Caravaners’ Guild showed their worth in the efficiency of the entire operation.
+
+They really know what they're about.
+
+-Indeed. It’s almost like they’re experts in the field.-
+
+Yeah, yeah.
+
+Aside from the Mage Protectors, there would still be standard guards, but those positions were filled by Talons, which would rotate out as each reached half-capacity with power. There would be a portal into Ironhold set up so they could change out themselves when possible, but that wasn’t being treated as the only means of rotating out. They didn’t want to be put in a place where someone had to run back to Ironhold when they were needed on duty. So, as a backup, Tala would be ready to switch them out with simple acts of will.
+
+The use of the Talons in this role would normally be a hugely wasteful expenditure of power, effectively turning every Talon into a carrier of magic out of Kit to be dumped into Zeme. But with Tala and Rane maintaining collective aura supremacy across the entire caravan, they could create a pseudo City Stone effect, drawing all the power down and into Kit to be purified once more.
+
+This would actually reduce their effect on the zeme as they traveled through the wilds, and reduce the otherwise overwhelmingly potent draw on every magical creature in the region.
+
+In fact, the ability of Tala to do this—secreting the power away in Kit in a mimicry of a traveling City Stone—was the core reason she’d been allowed to do this large caravan venture at all.
+
+The final exodus from each city was in the company of the City Stone, making it a safer journey for all who remained until the end. Tala’s methods weren’t quite as effective—not that the City Stone method was perfect in any regard—but it was sufficient to allow the approval of this test trip.
+
+Rane and Lea talked and joked as they ate, but Tala was watching closely as people poured into each wagon. It was gratifying to see her work potentially helping so many people. The costs for this trip had been greatly reduced compared to normal caravans, and Lyn had worked to prioritize those who might otherwise not be able to afford the journey.
+
+In regard to the wagon spellforms themselves? Tala had let them run down a bit through the night as she slept, but she had nearly gotten them fully refilled once more, since waking.
+
+Talons were still on patrol, and their slow shedding of magic was being divided into what Tala and Rane could capture and what made its way down into the City Stone, as it had been since the caravan arrived in Bandfast.
+
+Ironically, time within cities would be the least power-efficient portions of the trip from Ironhold's perspective.
+
+It was a bit irritating to Tala that she needed to be in close proximity to all the wagons at essentially all times, but as it was a self-imposed rule, she didn’t really have much to complain about.
+
+She could go off, and let the spellforms use up some of their stored power, just as she had when she slept, but she just felt like it would be doing a disservice to act in that way.
+
+Rane reached out and placed his hand on her forearm, drawing her from her internal contemplations. “Tala? Love?”
+
+She shook her head before turning and smiling at him. “Yes, Rane?”
+
+“You just looked lost in thought. Is everything okay?”
+
+“Yeah, yeah.” She nodded, taking a pull of coffee. “There’s just a lot going on, and I don’t want to miss anything.”
+
+He smiled, giving her arm a squeeze before pulling back and returning to his food. “Captain Ron and Lyn are both working hard to keep everything moving properly, and the local Caravaners’ Guild has really stepped up and is doing an excellent job.”
+
+“That’s true.”
+
+Lea leaned over and poked Tala. “Come on, Mom! Momma says you’re not really doing anything useful.”
+
+Tala sent a glare toward Alat.
+
+Lea rolled her eyes. “Don’t glare at her, mom. Dadde and Dad clearly agree.”
+
+Tala turned toward Rane, and he held up his hand, chuckling. “Enar thinks both you and Alat work too hard, and I just want a nice meal with my family.”
+
+“Please?” Lea shifted, leaning forward and trying to catch Tala’s gaze.
+
+Tala pursed her lips and frowned for a moment, then finally nodded. “Very well, I can let the caravan sort itself for a few minutes.”
+
+The views out onto the workyard vanished, replaced by the lovely vistas of their home.
+
+“Thank you, Love.”
+
+“Thanks, Mom!”
+
+Tala, of course, could still perceive everything that was going on, but she let that fade to the background as Alat happily took up the task. -Eat, enjoy the parts of life I can’t, and let me handle the things I do best.-
+
+You make it sound sad.
+
+-Oh, don’t mistake me, I am quite happy with my circumstances, but there are still things that you can do that I really can’t with any degree of ease. Enjoy those. I certainly enjoy the things you can’t do.- Alat sent a wink, and Tala rolled her eyes, but she smiled all the same.
+
+Without further delay, she dove into the food before her, looking between her husband and daughter. “So, what are we talking about, then?”
+
+* * *
+
+The caravan had slowed just outside of Bandfast in order to let the long train of wagons catch up and get into formation, as the roads out of the city only allowed one wagon to travel at a time, and the formation they were using was five wide and eighteen long.
+
+That necessitated that they take a bit of a longer way around so they wouldn’t hit any pinch points on their route, but given that what they were traversing was effectively a wide open, rolling plain, it had been decided that this was the best means.
+
+The wagons that they were using were technically ‘less efficient’ than they could have been, given that Tala could have empowered cargo slots, and then had those mounted with many to each wagon, but as that would have highly concentrated the gated passengers to an unhealthy degree from a Zeme perspective—thus increasing the draw for hostile arcanous and magical beasts—it was decided to stick with the Guild standard of one passenger carrier per wagon.
+
+Master Himmal had alluded to that the night before, and Tala hadn’t felt the need to add it in when he omitted it.
+
+Tala was sitting alone atop the third wagon from the front in the middle column. From there, she was close enough to deal with anything that came up to the front, while also being able to easily respond to dangers threatening any other part of the caravan as well.
+
+Rane and Lea were similarly positioned three wagons from the back in the center.
+
+Talons ranged around the wagons, not needing horses due to their prodigious endurance and physical capacities—honed by Eskau Meallain’s training. Additionally, they helped to fill in the gaps—or, more accurately, less defended areas—that would otherwise exist in Rane and Tala’s defense.
+
+The Mage Protectors were spread out around the outside, and with twenty-seven of them, they were easy to put into place effectively.
+
+There was one on each of the lead and trailing wagons in each column, with the remaining seventeen evenly spaced on the outside wagons on either side, and one in the middle to act as a coordinator and central point for any united defence.
+
+That resulted in an incredibly robust defense against enemies coming from any direction. With the Talons moving through the wagon lines as well, anything that managed to come from below would be able to be dealt with too, and Tala was making sure that Alat paid special attention to what was beneath the large caravan regardless.
+
+She felt a swelling tumult of rage and sadness at the thought of the last monster she’d killed beneath the ground, the one that had led to Illie’s death…
+
+Tala tore her thoughts out of the spiral, returning her focus to the task at hand.
+
+Terry’s presence in the surrounding countryside further reduced the chance of large threats reaching them.
+
+That, coupled with the active capture of free power bleeding off the gated and Talons, and her Reality Iron doing its best to smooth and soothe Reality around their passage, they were in a very solid position.
+
+That lasted all through the first day and night, and they were just an hour after breakfast when Lea groaned and sent a message to Tala through Alat.
+
+“I’m bored…”
+
+That is, of course, when the issue arrived, and as it usually did, it came from the least defended sector. Directly above them.
+
+One of the Mages to the rear of the Caravan had spotted something high, high up in the sky, and their magic-aided call resounded over the creak of wheels and rumble of oxen hooves. “ROC!”

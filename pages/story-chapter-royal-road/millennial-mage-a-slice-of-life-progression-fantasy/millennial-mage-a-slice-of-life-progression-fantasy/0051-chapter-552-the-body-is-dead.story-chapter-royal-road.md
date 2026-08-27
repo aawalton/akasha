@@ -1,0 +1,221 @@
+---
+id: ae5ed2b7-0ba6-5cc7-abc9-032d0fdb4965
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 552 - The Body is Dead"
+slug: 0051-chapter-552-the-body-is-dead
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 51
+ownLength: 2927
+unit: words
+ownProgress: 2927
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2211729/chapter-552-the-body-is-dead"
+royalRoadId: "2211729"
+markedReadAt: "2026-06-29T19:36:55.963Z"
+---
+
+Tala and Eskau Meallain sat in silence, the movement of their white steel portions at Captain Ron’s commands was almost meditative as they both considered the story that Tala had just told her one-time-mentor.
+
+Finally, the elf broke the silence. “So, I now understand how you got your hands on the reality iron.”
+
+Terry flickered into being before her, eyes locked with the elf’s. Eskau Meallain hitched, clearly having been about to continue before his arrival.
+
+They stared at one another for a long moment before Terry gave a long, implicative squawk before flickering away once more, leaving Eskau Meallain blinking in confusion.
+
+Finally, she shook her head, turning back to Tala.
+
+“Yes… Well, I now understand how your familiar got you that reality iron. As to the rest of this? Let me see if I understand your goals correctly. You are attempting to make a perfect replica of your own body purely out of iron. You are enforcing ‘biological’ actions on that body with your will and authority, and then trying to make that facsimile real, through the use of the intrinsic properties of reality iron—which just as regular iron reflects and keeps Magic at bay, does the same for Reality—thus, making it effectively a truly biological body that just happens to be entirely iron.” The woman took a deep breath, smiled, and continued. “Then, with the new information you have, you want to fully fuse and merge your immortal elk leathers along with the remnants of the dasgannach—and possibly even with Kit, herself—entirely into and throughout this new form.” She paused again and cocked an eyebrow. “All while both maintaining your humanity and moving toward the goal of being able to have children—a gift currently denied to you—and you hope to improve your physicality’s power retention and your own control over and finesse with magic to match a Revered?”
+
+Tala considered for a moment then nodded. “Yeah. That sounds about right.”
+
+The older Eskau’s eyebrow climbed higher. “Are you insane?”
+
+Tala quirked a half-smile. “Based on what other people have told me, categorically, yeah. It seems likely.”
+
+That drew a barked laugh from the elf, and she quickly covered her mouth in slight embarrassment as she continued to chuckle. “And here I thought all this”—she gestured at their surroundings—“would have made you complacent, and I’d have to drive you to pursue loftier goals. You might as well attempt to keep a wave upon the sand.”
+
+Tala’s smile grew. “You mean it’s like freezing something?”
+
+The raised eyebrow twitched, along with that whole side of Eskau Meallain’s face. “Fine… catch a cloud and pin it down?”
+
+Once more, Tala’s smile expanded. “We just met a whole settlement of people who devote a large portion of their economy and efforts to harvesting clouds and turning the products into workable materials. I’d personally say that such is pinning down a cloud, but maybe you were thinking of something else?”
+
+The elf groaned. “Do you understand what I’m trying to say?”
+
+Tala nodded once. “That I want to do something that seems impossible until you think about it in the right way?” Tala beamed back at the other woman, fully understanding just how cheeky she was being. “I’m glad that we agree.”
+
+“Fine.” The woman threw her hands up in defeat. “Fine. We’ll try to do it your way.”
+
+Tala shook her head and chuckled. “That’s part of the point, Eskau. I have to do it myself. I need you to advise and brainstorm with me, but you can’t do any part of it.”
+
+The other woman grunted but still gave a slow nod. “That will be more difficult, but I understand. I also now better understand your reasoning for training here. I’d assumed that if you wanted greater retention, you’d just use your iron in some way, but you seem to have another purpose in all of this.”
+
+Tala shook her head. “I do have another purpose, but iron doesn’t work how you describe.”
+
+“Oh? Is that right?”
+
+“Yes. The iron doesn’t actually slow the rate of loss, not really. It just makes it take longer before the loss begins. That allows me to increase my density, but it doesn’t really address the issue this training hopefully will.”
+
+Eskau Meallain frowned. “I think I know what you mean, but could you explain it just so I’m sure?”
+
+Tala shrugged. “If my body is a bucket in a fountain, with water flowing in constantly and then flowing out through a hole in the side, iron doesn’t change the size of the hole, it just moves the hole up, so that more power has to fill the bucket before it begins to flow out.”
+
+“That sounds like retention to me.”
+
+“Yes and no. It's a different type of retention. In the analogy, the way you do it is by changing the size of the hole, or even sealing it off entirely.”
+
+“I mean, you can do that to some extent by disabling your inscriptions.”
+
+But Tala shook her head. “No. In this analogy, the inscriptions are people dipping water out of the well. I also have some people who hold a wooden bucket below the hole, so any power that flows out is still used, but none of that is actually related to retention in the way that I mean it.”
+
+The other woman grunted. “I suppose I can see that. So you want to be in full control of your hole, then?”
+
+Tala gave her a flat look. “You don’t need to make it sound weird. I want to gain control of more aspects of my use of power, yes.”
+
+The elf smirked but moved on anyway. “Well, that is laudable. It also seems like at least one Sovereign thinks it’s a good idea.”
+
+Tala nodded. “Yeah. It also feels like it would translate well to greater and more precise control over power within my aura. It’s all mine anyways, so I’d like to control it better.”
+
+At the word ‘mine’ the very substrate of existence trembled, the reality nodes resonating with the statement. Eskau Meallain’s eyes widened momentarily then she chuckled. “You have a lot of weight now, Eskau Tala. You need to be careful how much will you put into your statements of fact, or you’ll shake the very foundations of Zeme.”
+
+Tala looked around, before slowly nodding. “So, that’s what that is? When a statement has will and intention behind it—”
+
+“And it’s true.” Eskau Meallain interjected.
+
+“And it’s true,” Tala conceded. “then Zeme reacts?”
+
+“That is probably the cleanest way to consider it. It is viewed as a bit rude to do under most circumstances. It can play havoc with active magics that are nearby, depending on the assertion and the response. Specifically, vestige cores of holds tend to respond very negatively to the rumblings of reality. It isn’t an effective weapon for disabling such, but as I said, it causes issues, and is therefore just seen as rude.”
+
+Tala grunted. “Noted.”
+
+They fell into a lull in their conversation as both women continued to move the white steel back and forth, up and down.
+
+Finally, Tala grimaced. “This practice isn’t really useful to me at this stage. I think we should go, and I can show you a version of my iron body. I’ll join back in the white steel training once the average Talon is closer to my current capability.”
+
+Eskau Meallain regarded her for a long moment, then nodded. “That seems reasonable.”
+
+Together they both stood, and the elf went to inform Captain Ron of the change in plans.
+
+He gave a nod toward Tala, acknowledging that he’d heard, and without further ado, Tala willed herself and the other Eskau into her sanctum.
+
+They arrived in the quiet little dell that Tala had been preferring of late for her iron-body work, contemplation, and practice.
+
+The circle river calmly flowed by, barely screened by a few trees, and not truly obscured.
+
+Eskau Meallain looked around, taking in a long, deep breath. “They really did excellent work.”
+
+Tala glanced her way. “Oh? What do you mean?”
+
+The elf looked her way with an expression which said that the answer should have been obvious. “The hold-crafters employed to forge this place for you… They did a good job.”
+
+“You can tell the difference?”
+
+The elf laughed. “Of course. That previous place was nicely created. It was also clearly originally put together for those of my lineage, but the feel of it was far more… haphazard. The dimensional structures are solid enough, but they aren’t really aligned… It’s like a pile of sticks versus a nice stack.” She frowned then. “No, that implies an instability in one…” Finally, she shook her head. “I don’t have the right terms, nor any way of explaining it. There is simply a feel to it. Like when you sit on a piece of well constructed furniture, versus one that is nicely made, but not to the same quality.”
+
+Tala just stared as the other woman shrugged. “Alright, then. Yes, we are in the sanctum.”
+
+-Everything we’ve added onto here, we’ve aligned and done our best to match what was already in place. Ironhold was created… separately? It started as a bit of dimensionality from here, but we were explicitly trying to create something else. Do you think there’s some concept in effect on the sanctum that we inadvertently cut off from Ironhold?-
+
+I mean… that actually makes a lot of sense. She almost asked if Eskau Meallain believed that concepts were involved in the shaping of the sanctum, but she caught herself. It would have been a decidedly foolish question.
+
+Arcanes had used their magic to craft the sanctum. By definition that meant it was filled with conceptual effects, whether or not they’d endured or stayed active. The remnants were there and would be forever, unless Tala reforged the entire place.
+
+She shook her head, but that wasn’t relevant. “Well, I’m glad that you like it here. Get comfortable. This process is not fast.”
+
+The elf nodded and dropped into a cross-legged position on the grass, with her back against a larger tree. Sitting there, it became harder to see that she was missing an arm, and the injury definitely didn’t seem to inhibit the woman overmuch.
+
+Tala sat as well before briefly closing her eyes and centering herself.
+
+Then, she began talking through what she was doing, drawing up a few bits of iron to the superficial within Kit, forming them into the likeness of a human heart.
+
+The dark gray creation hovered in the air before her, perfectly matching her mental image of how it should be, of how her own heart was.
+
+She then further imposed her will upon the false fibers, watching them contract and checking the quality of the nature she’d imposed.
+
+Once she was satisfied, she built outward, monologuing the whole while.
+
+Instead of building physically outward, she built systemically outward, constructing her entire circulatory system of iron. From there, she moved on to her pulmonary system, then nervous system, then digestive system, and so on.
+
+For each one, she imposed her will and authority over the material itself—as well as the space in which it existed—to enforce proper interactions with the surrounding ‘cells’ and systems.
+
+It took a few hours. On one side, that was glacially slow as what she was making wasn’t very big, but in most regards, it was insanely fast because of the sheer level of detail she was putting in place.
+
+Eskau Meallain watched intently, asking questions in the gaps that Tala left in her ongoing monologue.
+
+In a few places, her questions—and the subsequent back-and-forths—opened Tala’s eyes to a few things she wasn’t considering. One of the largest ones was that it seemed that arcane advancement caused magic to seep into every cell of their bodies. It wasn’t really a structural change, but it was an important one.
+
+-Yeah…- Tala felt Alat scan her entire body before continuing. -I can’t really put my finger on it, but there is definitely something about your cells that has shifted, ever so slightly, since before your recent training with the Talons.-
+
+Well, yeah… you don’t have fingers. How could you put one on anything?
+
+-...- Alat was unamused.
+
+Fine, fine. I think I see what you mean. There’s a… sort of inflation to each cell? Like dough that’s been allowed to rise when compared to the same dough without that allowance. But it’s on a magical level, not a physical one.
+
+-Huh… that’s a really good analogy, actually. There isn’t really anything physically different about the dough, save the expansion.-
+
+I don’t think that’s strictly true, but I’ve never been a baker, so… it’s probably fine?
+
+-Are you undercutting your own analogy? Don’t you think that’s a bit silly?-
+
+…Fair. Sorry. So, Magic inflates the cells, but not in a physical way. Then, just like with a dough, we need to ‘bake in’ that rise, instead of letting it fall or drawing out the power for use.
+
+-So, we’re like a bellows, and arcanes are like pressure tanks?-
+
+I mean… sort of? I’m not sure why we’re mixing metaphors, here…
+
+-And what we need to do is implement a means of building up pressure safely within our bellows-system for use later.-
+
+Yes? At the moment, we have Paragon level density because the power coming through our gate is so vast and potent that as it flows out through our physical form, that density is just a matter of course.
+
+-Yeah, we’re a river compared to a holding tank. Our cross sections could be the same, but we have far more water flowing through us—-
+
+—and they have far more precise control over how their water is applied. Yeah, I like that analogy. So, we want to make a dam.
+
+-Or, at the very least, a holding tank along the banks, with which we can better regulate and feather our output.-
+
+Tala grunted at that. And the only clue we have to how that could be accomplished is how our cells are reacting to the training with the Talons…
+
+-You know what that means.-
+
+She sighed. I’ll be sprinting a lot more, as well as doing the magical retention exercise as often as feasible?
+
+-You got it in one.-
+
+One other aspect that Eskau Meallain had a lot to say about was Tala’s inscriptions. Tala had incorporated them into her body as miniscule iron tubes—modified because they were iron in iron as opposed to gold or silver in flesh and bone—that were held entirely vacant and void. Given her connection with void-magic—and her vast experience with void-channels—it was simple by this point.
+
+She was also aided by the mere fact that her authority over her own sanctum made creating and maintaining any sort of physical void trivial to say the least.
+
+When her iron body was complete, she imposed the reality aspect of the iron, transforming the facsimile of humanity into what seemed to be a living, breathing body.
+
+Eskau Meallain stood and slowly circled the ‘finished’ creation, nodding and muttering to herself. “I can see at least one reason there’s a problem.”
+
+“Oh?” Tala perked up. She knew it wasn’t perfect, nor perfectly suited for Reforging, but she was having trouble narrowing down why or how.
+
+“The body is dead.”
+
+Tala arched her eyebrow. “I mean… yes? Blood is flowing through it, and all the systems are functional, but there’s no life in there.”
+
+The elf shook her head. “There’s no soul or spirit in residence. It’s like this limb that was cut off.” She gestured to where her still missing arm should have been. “Had you not destroyed it, it could have been reattached, but until it was, it would have been dead, cleanly cut from me by your void-blade.”
+
+Tala frowned. “I’ve been wanting to ask you about that.”
+
+Eskau Meallain shook her head. “No, not yet… maybe in a bit. Right now, though, don’t get distracted. We are talking about dead things. This body is dead. There is no spirit behind this. It is a puppet, if an incredibly intricate one.”
+
+Tala bit her lip and slowly nodded. “So, I need to reconstruct my spirit within the body as well, only then could I move my soul over?”
+
+“Yes.” The elf responded as if it were obvious, and honestly, it really should have been. “Well, the spirit part. We can discuss souls later.”
+
+Tala grunted at the last, following the advice to set the matter of her soul aside for a moment. “Well, then I guess I have yet one more thing to delve into… I suppose that doing so will allow me to include my soulbonds, weaving their spirits and magics in as well.”
+
+“That seems like a required step, yes. If this is all it was,”—Eskau Meallain gestured at the iron body—“then I suspect your kind would Reforge with relative ease.”
+
+Tala was about to protest that what she was doing was actually incredibly difficult on every level, but then she considered for a long moment. Most Paragons had centuries more experience than she did, and if she was capable of building up the needed knowledge and skill this quickly, it would be arrogant to think that others couldn’t do the same if given the right motivations. Reforging would absolutely be the right motivation for most, or at least more than had actually Reforged. “Huh… that’s probably quite true.”
+
+Either way, it was time to start that process.
+
+Alat?
+
+-Yes?-
+
+How do we create a spirit?

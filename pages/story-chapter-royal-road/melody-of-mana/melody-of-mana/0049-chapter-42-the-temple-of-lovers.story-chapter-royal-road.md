@@ -1,0 +1,105 @@
+---
+id: 7a3c5ed6-978b-524f-a0df-eb5874d1d7ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 The Temple of Lovers"
+slug: 0049-chapter-42-the-temple-of-lovers
+partOf: melody-of-mana
+position: 49
+ownLength: 2013
+unit: words
+ownProgress: 2013
+publishedAt: 2021-09-07
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/746574/chapter-42-the-temple-of-lovers"
+royalRoadId: "746574"
+markedReadAt: "2026-06-29T22:27:53.361Z"
+---
+
+I considered my options for around a week, if I was going to go about getting inked up I wanted it to at least be a good one. I also heavily considered not getting it at all, at least not for a couple more years, but remembering the sudden exit from my last home killed that thought. I probably wouldn't be cast out of the capital in the near future, but it was best to be prepared.
+
+After much consideration I decided that an outer thigh was the best place. Nobody would see it except me, and I could easily see to recharge it myself. Anywhere that might be publicly visible was of course out, as was anywhere where anyone not seeing me absolutely naked. Clothes here were quite a bit more covering than those back on Earth, and a woman's upper thighs were normally only seen by a lover.
+
+Most prostitutes went for somewhere similar, my guess was that they didn't want someone to have to get too personal to recharge it. From what I'd seen the side or bottom of breasts was quite popular, as was the outer thigh or armpit. The lower parts of the belly were also popular, for all of the connotations that were there. That was something that I had no concern for at all, since the only person I'd have charging this was me.
+
+So as early fall came around I headed off in the general direction of the temple for The Lovers. It would be my first time going there, so I was not exactly sure where it was. As a matter of course I tended to avoid the area of town where all of the temples were situated, mostly out of concern that I might run into someone from the Istlan branch of The Shield.
+
+It was near enough to the areas frequented by nobles, so the streets were clean and safe. That said it was still a bit weird to go and explore a part of the city I had little experience with, it was so unfamiliar compared to the markets and the entertainment district. Even the underground felt more familiar to me than this area, there were a handful of large temples, each a few blocks from the other, dominating the streets and all around them.
+
+The first I recognized was that of The Order of the Shield, stark and white it stood enormous, much larger than that in Istlan. A man stood nearby taking information and directing those visiting the complex to where they needed to go. I nodded as I passed, and he smiled in return.
+
+I passed another walled area. It wasn't really a complex in the same fashion, in that it seemed to be walled off by grown vines shaped into form. From the gate I could see a number of plants growing about within, along with a handful of animals wandering about. I wasn't sure whose place this was, but it was not a group I had knowingly met.
+
+There were a number of other buildings along the streets. Shops selling trinkets whose use I didn't know and a few more mundane doctors, for minor injury or those who couldn't afford a priest's healing. There were also those selling minor magical items produced by the temples near to their complexes. Those shops were well guarded and looked to be too expensive for me to reasonably purchase anything in, not that I needed anything they had.
+
+It took me a few blocks of wandering, because I was completely unwilling to ask anyone where this particular establishment was, but I eventually found it. I was beginning to get a bit concerned that I might have to actually publicly embarrass myself by requesting its location before I saw the temple where the Lovers made their business.
+
+This place had to be correct, if I was any judge. There was an open gateway which led into a columned entry, wide and open with pale white stone walls on either side. They were smooth and on the roof over the entry was a mark, a man and woman face to face, lowered hands held. Beneath them a pair of red banners fluttered gently in the wind.
+
+There were a few people in the small yard before the temple, tending to various plants that made up the garden. They gave me a once over as I passed, I gathered that those as young as I was were not particularly common here, but none stopped me. By the time I got to the top of the stairs though there was someone waiting for me.
+
+“Greetings, my name is Kiana. Please come in.” The woman was obviously a priestess, the pale blue glow surrounding her gave no misunderstanding to that.
+
+“Oh hello, thank you.” I was a bit at a loss at her quick appearance, and a tad nervous about my business here.
+
+She led me down a corridor to an small room, letting us both take a seat on well cushioned couches before she began the conversation in earnest.
+
+“Now, you're quite a bit younger than most who come here my dear. Though some come with their mothers...”
+
+“Oh, my mother is... not in the city as of right now.”
+
+“Ah I see. You are about that age, and I'm sure you have a lot of questions about the things you're going through. I'm quite happy to explain.” I could see her winding up her puberty talk and nearly turned purple. “No need to be embarrassed dear, it's perfectly normal.”
+
+“Um, no actually, I'm not concerned about that. I'm actually here because I wanted to get a Mark.”
+
+That stopped her in her tracks, and her eyes turned suddenly more serious. Her brows climbed up into her bangs as she began to speak. “You are very young. Are you involved with anything that would make it necessary? If so that is quite the serious matter.”
+
+“I'm not, and it isn't because I think I'll need it now, or any time in the near future. Rather so that I have it covered in case I do need it later in life.”
+
+“Is there some reason to not simply get it when that time comes about?” She seemed unconvinced as to my explanation.
+
+“Things are not stable in my experience. It is best to be prepared as early as possible to keep things from getting out of hand.”
+
+“That's... an unusual view of things.”
+
+“During the war my village was destroyed. It is because of my teachers showing me how best to prepare for even the worst that I managed to survive. So... I don't think, or want anything to happen, but if it does, and I can't get a Lovers' Mark in the future I want to be prepared.”
+
+The priestess made a quick movement of her hand and a blue light flashed over me ever so briefly. In a second I'd jumped from my seat and was glaring at her. I was unsure what exactly she'd done, but casting something on me without my permission or consent like that was unbelievably rude.
+
+“My apologies, I had to make a quick check on some things, just to be sure.” She held up a placating hand as she spoke.
+
+“You checked to see if I'd...” I didn't manage to finish the question completely before she cut me off.
+
+“No, there is no spell that can determine with complete surety if someone is a virgin. At least not to my knowledge. I can however check for signs of abuse, and for a girl your age to come here seeking a Mark, you must understand my suspicions that they would be present.”
+
+“Look at my aura. If anyone tried something improper I'd bury him.” I glared at Kiana, my teeth clenched. I really wanted to scream her into the floor, but that would probably end with me failing this mission.
+
+“I would like to believe that, but what can be done and what is are often not the same. As it stands though I found nothing of concern, so if you still want a Lovers' Mark, I will arrange it. Will the fee be any issue?”
+
+“It will not, and thank you.” I had enough silver saved up to easily cover the cost. I wasn't sure on exactly how high it was, but I was sure that I'd brought more than enough.
+
+After informing me of the cost, and taking it Kiana left me there in the comfy little room to remain irritated. Returning a few minutes later with a small box. Upon opening it I saw a number of tools, including a hammer and needle type tattooing arrangement and some rather fancy looking bottles of ink. She closed and locked the door behind her.
+
+“Now, please show me where you want it and we'll begin. If you need to undress, you may do so.”
+
+I did as she indicated and pointed to a place high up on my right thigh. Kiana gave me another look before she began. The ink was literally beaten in, it was an old type of tattooing I'd seen talked about once or twice, and nothing really prepared me for how painful it was.
+
+By the halfway point I was really regretting my decision, and thinking about all the stupid things I'd done in my life. It wasn't singularly painful, not a harsh stab, but a growing throbbing agony. It wasn't enough damage for adrenaline to kick in and block out the pain, nor slight enough to ignore. It was instead constant, like a stabbing and ripping.
+
+My teeth were clenched as she finally put away the tools and turned back to the work itself. It was red and raw, the skin angry at it's punishment. There she put her finger upon it and I could feel her working some kind of spell. The magic was invasive, moving through my body along various routes. I squirmed as the spell wormed it's way into me, like something living wriggling through every inch. Then it faded, even the pain was gone as everything finished and I felt strangely normal.
+
+A look down showed the mark standing bright against my skin, with a tiny amount of mana in it. The skin itself appeared to have been healed by the spell that was added to it, as well as any and all of the little imperfections in the tattoo worked out.
+
+“Thank you.”
+
+“My dear, I am quite discomforted by this. I do hope you speak the truth about your situation, but if something ever does happen, please do seek shelter either here or with The Shield. The only reason I did agree was that the possibility of something horrid happening to you would only increase had I refused.”
+
+It was weird leaving. I'd done what I came for, but it was still a major thing, a hurdle I had wanted to, and succeeded in passing. The walk back to The Sky was far shorter than the one out this morning, though it was already late afternoon as I strolled home. I took my time, letting the sights and sounds wash over me. I'd wanted safety for a long, long time, and today I'd managed one step closer to it.
+
+As I entered The Sky I saw Dras, huddled in a corner. I went over to join him and plopped down on the opposite side of the table.
+
+“Hey, I came by to study, only a few weeks till entrance exams. Everything alright?”
+
+“Yeah, I just had an errand to run. How goes things?”
+
+“I think I've got everything I need down, can we go over some of the geometry again though?”
+
+We spent the rest of the evening working on problems. If I was any judge, he was going to ace the math and reading. He should with how hard he'd put his nose to the grindstone for the last couple of years. I couldn't help but be proud, his hard work had really paid off.

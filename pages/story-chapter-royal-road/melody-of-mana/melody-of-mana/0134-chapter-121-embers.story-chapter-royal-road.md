@@ -1,0 +1,137 @@
+---
+id: 59bbcf52-350b-5087-ae22-1b83fb78a1bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121 Embers"
+slug: 0134-chapter-121-embers
+partOf: melody-of-mana
+position: 134
+ownLength: 2024
+unit: words
+ownProgress: 2024
+publishedAt: 2022-04-19
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/889611/chapter-121-embers"
+royalRoadId: "889611"
+markedReadAt: "2026-06-29T22:37:00.197Z"
+---
+
+Spring passed into summer and things were fairly uneventful. My mastery of those magics I focused on was improving by the day, particularly my shields and illusions. It was Professor Etia who helped me with hammering those out even more. The main thing I was working on with them was adding more and more accurate movement magic to them. I wanted them to be able to pick up and carry things, or at least appear to, and that was a real challenge to make look right.
+
+I thought on my entrance exam and how I'd managed footprints. Those were good, but they were very simple and poor compared to having illusions that could fool even experts with how they behaved.
+
+"The cup is sinking into the hand, put it down and try again. Also, your clothes aren't moving quite correctly, make sure that the way the fabric flows matches with how dense it is."
+
+I stood in a corner as a mock-up of me put down the cup it was holding and picked it back up. Then I made a slight adjustment to the hang of the fabric on the dress. She was right, it was too flowy for the woolen winter outfit the mock-up was wearing.
+
+"More like this?"
+
+"Better, but remember the thickness of that wool. Imagine yourself wearing the clothes on your illusion and think about how they feel, then adjust for that movement. You don't want it to look like a summer dress, or a dancing outfit, it will be too obvious."
+
+I did as she said. Honestly I doubted anyone would notice, but then again someone like Charles might. He did seem to be able to see through even my invisibility, which still rankled a bit. The flesh texture was worse though, getting the right bounce to a held item, the way it sank into the skin and how the skin adjusted around it was no easy task.
+
+"How's the hand look?"
+
+The elven teacher marched up to my illusion and bent over to look at the hands. "It is closer to an acceptable level than it was before." She turned to look at me where I stood and sighed. "We're done for today, any further practice would be counterproductive."
+
+"I feel fine though."
+
+"I'm sure you do, but you're starting to wear a bit. Go and work on something else for the rest of the day."
+
+"You're right. I didn't know when we started that your standard would be this high."
+
+She snorted at that. "This is the minimum Alana. My brother is an archer, did you know that?"
+
+I shook my head, "No ma'am."
+
+"For him to be considered acceptable he had to be able to split the shaft of a stationary arrow in ten shots out of ten at fifty paces. Then he had to be able to strike a coin thrown through the air at the same distance ten out of ten times. Once he could do this he was considered properly trained for his duties."
+
+"That's a bit insane professor."
+
+"It is stringent, and a high requirement for consideration, but your father could probably do it, as could your brother. If they had been trained since youth as archers at least."
+
+"So I could make it to what you consider acceptable?"
+
+"In a decade or two you would pass rigor for an elven illusionist, if you study hard."
+
+I just sighed. "That's too much for me I think."
+
+She laughed a bit. "Don't look so dejected Alana. You are not as us. While elves will often devote mountains of time to perfecting one art, few would have a grasp of as many disciplines as you. You can summon food, do illusions, heal, and I suspect you're better at creating magical items than you'd like others to know. I myself have never learned beyond the most basic emergency healing spells, or summoning of food." Shaking her head she came over to me. "Even illusions, I know where they should be, but that does not mean that I can do it. I'd wager that mine would be poorer than yours."
+
+"But... you know so much..."
+
+"Knowing and being able to do something are two very different things. I know the theory behind a number of magics to at least a basic level, but practicing them until I could get them there would stifle my own growth in my chosen areas." She patted my head lightly. "Now off with you, either relax or find something else to do for a bit."
+
+I acquiesced knowing she was right and scampered off to my room. I did have a project that I'd been working on a bit, and getting some practice time in with it would be nice.
+
+Settling down at my desk I pulled out the little basket of inexpensive cloth I'd been practicing with. Inexpensive was relative I supposed, but it was from older pieces and rags, or else bits that were rather small and would be a pain to work with. All of it was clean, if of a much lower quality than even most commoners wore.
+
+I laid down two pieces and began to hum. Slowly a thread from one came undone and began to weave its way through the two pieces in a back and forth pattern, slipping through fibers like a snake in grass. As my first thread ran out I carefully pulled on another, continuing my work. I did one side with a back stitch, than another with a running stitch, so on and so on until I'd gone through the five most basic ones for making clothing a half dozen times or so. All of that took around an hour.
+
+"Hi there." Kala said as she wrapped her arms around my neck.
+
+"Yeep! How'd you even get in here!?" I accused as I leaned back, still a bit shaken.
+
+"Your maid let me in. She said you were deep in practice."
+
+"I should never have told her to just bring you in instead of asking every time..."
+
+"Probably not no Alana. Anyways, I have good news!" Kala let me go and flopped down on my nearby bed. "Seems that it's unlikely there is anything going on with princess Sophia. She's going to be staying at our temple for awhile.""That's wonderful! Now you can stop sitting in the corner with all the other priests like some kind of apolitical outcast."
+
+She stuck her tongue out at me. "Also some bad news. We won't be having any visitors at the temple, at least the private areas, while she's there, so you won't be able to visit me there on our days off."
+
+"What about those after marks or pregnancy advice?"
+
+"Most will be sent over to The Shield's hospital, though we may keep some of the front areas open. I really don't know yet. Anyway... what are you working on?"
+
+"Nothing much for now, just trying to get these right." I held up my piece and Kala popped up to come an examine it.
+
+"Sewing?"
+
+"With magic."
+
+"Okay... but why?" She looked a bit perplexed. I hadn't told her much about my little project, and she hadn't asked about a lot of the things I worked on. I think it was a mix of her wanting to keep everyone a bit back and my paranoia about sharing my work.
+
+"Because my mom won't stop telling me I need to work on my sewing every time I come home. The magic way is easier, I can kind of feel it."
+
+She took a hard eye on each little seam, pulling it this way and that. "They're not bad. Not up to a tailor's work, but not bad at all, and the way you're using the threads from the cloth is nice too."
+
+"Do you sew?"
+
+"Of course Alana. Our temple doesn't budget much for us beyond necessities, you know that. All the priestesses learn to sew, most of the priests too, even if they're bad at it."
+
+I groaned, "I feel like I've been left behind on this by everyone! Am I the only person who doesn't always practice?"
+
+"Probably the only girl, yeah. I think noble girls do a bunch of other stuff though, to make their clothes look all fancy. Well, former noble girls, I guess they aren't nobles anymore."
+
+"Do not even get me started on the lectures on embroidery, and lace 'Oh Alana you must learn it, it's so important!' bah!" My mother had gotten more insistent on those as well. I looked forward to the day that I could magic them into existence too.
+
+Kala laughed and reached forward, pulling me to join her on the bed. "You may hate it, but she isn't doing it because she hates you. You mother is trying to prep you into being a good wife."
+
+"Maybe I don't want to be a good wife. Maybe I want to live in the forest with fruits, and sugar, and tea, and dancing, lots of dancing!"
+
+"Then you'll have to learn to sew so you can make your own clothes, oh, weaving too," She giggled.
+
+"Aaahhhhhh! My dream is smashed in one argument." I laid back as she snuggled into my side.
+
+"You don't really mean that though do you?"
+
+"No, not really. Some day perhaps... though we can't..."
+
+She held my arm tighter. "Alana, we both know that this won't last forever. This is one brief moment for us, before whatever comes next. A beautiful ember floating through the sky that will too soon fade away."
+
+I felt my throat tighten. She was right, I knew she was right. "Are you saying..."
+
+"I'm saying that I want to blow on that ember and keep it alive for as long as I can. And when it fades I want it to do so with love, not anger."
+
+I wasn't sure what to say to that. Here I was supposed to be the one good at stories and songs and poetry, but she'd outdone me handily. Instead I just stayed there with her, holding her, feeling the warmth and caring as I tried to focus on the now, not what was to come.
+
+I was still a bit sullen a few days later as the little carriage that took me to our house once a week rattled up to the house. I was still struggling to think of it as 'home' as I'd only lived there for a few weeks total, a paltry amount compared to The Sky or the academy. My family was here though, and I suppose that's what really counted.
+
+I was surprised to see another, far, far fancier carriage had pulled into my normal spot. It was decked out in gold, with pure black horses to match the pitch colored sheen of the wood. A few guards stood around here and there, looking menacing.
+
+This had to be another of the higher ups in the government, and one who wasn't bothered by ostentatious things, unlike my dad. I could tell that the monstrosity of a vehicle was expensive, and I was pretty sure that there were runes on the metal pieces, but they were too far to make out.
+
+The driver helped me down as was usual and as I came near to my own house a few of the guards bristled, looking as if they might stop me. It was at that moment my father appeared in the doorway, dressed in one of his few formal outfits.
+
+"Alana, hurry up to your room and get changed, we have guests for dinner." Was all he had to say for them all to stand down.
+
+As I passed through the entry I saw him return to my mother. There he continued talking to who must be our visitors. The man was handsome, in his late forties or perhaps his fifties. He had dark hair and eyes and a truly regal pose. Off his arm hung a much younger woman, her black hair done up in a lovely silken plait. Both of them wore finery that perfectly matched them, surely custom made for each.

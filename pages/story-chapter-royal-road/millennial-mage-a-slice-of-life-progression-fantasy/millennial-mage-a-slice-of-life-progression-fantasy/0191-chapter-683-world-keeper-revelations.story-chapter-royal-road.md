@@ -1,0 +1,201 @@
+---
+id: 5c3f9062-889d-54b2-acdf-7adda7375d60
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 683 - World Keeper Revelations"
+slug: 0191-chapter-683-world-keeper-revelations
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 191
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3157426/chapter-683-world-keeper-revelations"
+royalRoadId: "3157426"
+markedReadAt: "2026-06-29T19:41:11.014Z"
+---
+
+Tala looked at the four fragment keepers with a warm smile across her features and a warm cup of coffee in her hands.
+
+The four settled back into their own chairs, the room and furniture preselected and arranged at Tala’s request to be a less formal, more casual setting.
+
+Ma-a, once more, was the one to break the momentary silence. “You have questions, Eskau of War?”
+
+Tala nodded. “Please, call me Tala. What moniker is appropriate for you four?”
+
+“You may address us by our names, Tala.”
+
+She smiled. “Very well. I wish to learn all I can about the world fragment. It might be better to start with the general, and move toward more specific portions? I can ask questions if I don’t understand, and we can go from there.”
+
+Erde’s large ears twitched as the four exchanged furtive glances. This time Pamant spoke, her voice containing a smooth basso musicality while somehow remaining feminine. “I do not think that you understand what you are asking… Tala.” She frowned, the lines on her face looking like ripples in stone. “If I were to ask you about inscriptions, telling you to start with the general, how would you go about it?”
+
+Tala blinked a few times. “Ahh… I think I would start by saying they are lines of precious materials meant to guide magic toward specific outcomes, those being determined by shape, material, and medium, among other things…” Tala gave a slow nod. “I see. My request was so broad as to essentially ask for you to take on an undue burden.”
+
+Jord held up his hands. “On the contrary Esk— Tala. We are happy to do as you asked, but we do not want to begin at too basic a level. We also don’t know your background to a sufficient level to know how to tailor our explanations for best comprehension. Nor do we know how much time you have in order for us to have a meaningful length of time in which to convey the totality of what you have requested. Senior Ma-a has raised up more than a hundred fragment keepers during his tenure, and he is quite skilled at the process, but it is a process.”
+
+Ma-a was nodding along, and when Tala glanced his way he gave a professional smile. “Pamant was an exceptionally gifted student, and she took one hundred years to reach the level of comprehension and mastery needed to be considered a full fragment keeper.”
+
+Pamant smiled warmly at the praise, giving a deferring nod. “Senior is kind.”
+
+“Honor earned should be honor given.”
+
+The stone woman simply nodded again in acceptance.
+
+Tala thought she understood the problem. “So, as I don’t wish to become your apprentice, I need to constrain my inquiry?”
+
+Erde’s tail flicked as he nodded. “If you would, that would help us assist you more… efficiently.”
+
+Tala frowned at that. “The issue is this: I don’t know what I don’t know. I don’t wish to ask a pointed question and think I understand the answer when I am woefully misunderstanding the underlying layers.”
+
+Ma-a grunted. “There is wisdom in that concern, but the issue remains.” He took a sip of his tea before giving a slow nod. “If it does not overstep, could you tell us the nature of your interest? Then, we might better guide you?”
+
+Tala ‘hmmed’, considering before nodding. “I believe so. I will state as the Eskau of War, that this pertains to the war effort and as such I officially forbid you from disclosing this to anyone through any means.”
+
+She watched as her authority resonated with their own, both deeply entrenched in the House of Blood. Hers superseded theirs in this as it was genuinely something that pertained to resources and the upcoming clash with the Black Legion.
+
+The four nodded, clearly understanding the gravity of the situation in their own way.
+
+With that done, Tala smiled.
+
+“Are you all aware of Anatalis and his mate?”
+
+The four each reacted with visible surprise, each slightly differently. Erde’s ears twitched; Pamant’s face became utterly expressionless, despite her eyes widening slightly; Jord’s left eye twitched, his right hand reaching for some pouch or tool, seemingly without his conscious thought; and Ma-a frowned. It was Ma-a who spoke in response. “We are… given the context, I will assume that you have knowledge greater than standard. Very, very few know that he… that they…” The man visibly paled before his eyes flicked up, and he continued in a rush. “That she is united with the only other world fragment widely known to exist.”
+
+The man flinched slightly, eyes closing as if expecting a blow. When nothing happened, the four all seemed to relax, Ma-a most of all. Tala frowned. “That is bound knowledge?”
+
+Ma-a nodded. “We are only able to discuss, or even acknowledge it, with full fragment keepers or those who already know.”
+
+“I apologize for putting you in such a precarious position.”
+
+The man chuckled. “Honestly, our reaction at your question would have been enough to violate the binding had you not already known. I think we were all caught off guard and expected to be struck down for our lack of diligence.”
+
+Tala grimaced. “As I said, I apologize. I had no idea it would be a sensitive subject.”
+
+“Nor could you have known. I guess that you are under no such binding?”
+
+“Not in that regard.” She gave a wry smile.
+
+The others chuckled, and Jord lifted his cup in salute to her. “Understood, good Tala. It seems that we all shall need to exercise care going forward.”
+
+-In case you didn’t understand that, they are bound to more secrets than this, and he is hoping you understand that and allow deflections in the future.-
+
+Yes, Alat, I understood that perfectly well.
+
+-Good. I’d hate for you to kill off the experts before we get our meal.-
+
+We aren’t eating the world-fragment.
+
+-Really? Are you sure? I think you should investigate further.-
+
+Enough.
+
+Alat fell silent, and Tala smiled toward the small beast-kin. “Understood, Erde. So, if you know of that pair, do you know of her origin, what she began her life as?”
+
+They all nodded, almost as one, Pamant speaking up, “A devourling, the base creature behind many less savory beings and features in the wider world.”
+
+Jord shuddered. “My people have a special… dislike of mimics. They and syphons, and others, are often called cousins of devourlings, but the predominant theory is that they are of the same stock, just divergent in their development.”
+
+Tala waggled her head back and forth. “That might be the case, but when I met The Devourer, I didn’t get that feeling.”
+
+There was a beat of silence… then that silence stretched out long.
+
+Finally, Jord responded, seemingly speaking for all of them. “Do you speak to god-beasts and Sovereigns regularly… Tala?”
+
+Tala shook her head, starting to laugh and open her mouth to deny it, but then she paused, actually considering.
+
+Alat began cackling in the back of her head, and was promptly ignored.
+
+“I… I suppose I’ve personally met… five? Only four from Zeme, though. And to be fair, I think that the one that was from away, might have only been Hallowed… Oh! That actually didn’t include The Devourer, so five or six, depending.” She chuckled, coming out of her thoughts and actually focusing on the others only at the end of her words.
+
+The four had paled almost in unison, though in Erde’s case, Tala could only tell because her perception let her see his skin beneath the fur on his face.
+
+Tala cleared her throat. “That aside… Vidarra consumed and merged with a world-fragment, creating the Lunar Hunt from which she and Anatalis rule the Northern Pack.”
+
+That seemed to draw the four a bit back to themselves, and they gave hesitant nods of understanding. Ma-a cleared his throat before addressing her. “Yes, that is our understanding.”
+
+She smiled in return. “Good! Then, my questions revolve around that. Is there any downside to either the being or the world-fragment from such a consumption and merging? What would it take and what would it mean?”
+
+The four frowned considering, but it was Pamant who seemed to put together some pieces first. “If you talked to The Devourer… You aren’t a devourling… are you?”
+
+The other three snapped their focus first to Pamant, then over to Tala in the rather eerie unison of those long acquainted with one another.
+
+Tala chuckled. “No, no, I’m human…” Her chuckling broke off, and she added. “Well, I am human, but I merged with my soulbound devourling as part of Reforging. So… Yes? She is not a part of me, and I am not a part of her, we are one and the same now, her sentience having added to my sapience.”
+
+Jord leaned back, his cup falling from his hand, looking on the edge of fainting. Thankfully, it landed on a rug, and therefore didn’t break.
+
+Pamant’s eyes widened, clearly not having thought that she’d intuited correctly.
+
+Erde’s ears laid back, flat against his head.
+
+Ma-a, once again, showed his wisdom and experience by getting straight to the heart of the matter. “You want to consume the world-fragment.”
+
+Tala held up her hand and waggled it back and forth. “I have considered it, that is true, but it feels like it can’t be that simple. If I were to merge with the world-fragment, I could increase the power density significantly, allowing for faster expansion as well as giving me the ability to add dimensionality directly.”
+
+Ma-a gave a slow nod. “I see now the reason behind seeking us out. You are both in a unique position and entirely ignorant. You see a choice before you and don’t know what it would actually mean. Am I correct?”
+
+Tala almost pushed back on the ‘entirely’ part of his assertion about her ignorance, but she could feel how tenuous the situation was, so she decided against it. “Yes.”
+
+Jorde was trembling. “She is a toddler holding a knife to our throat, asking what would happen if she pushed.”
+
+When Tala glanced his way, the little gnome squeaked, seemingly unaware that he’d spoken aloud.
+
+Ma-a sighed, shaking his head slightly. “First, and foremost, I will state that if you were to do this, we would become unneeded in all ways, but for our knowledge, so take whatever we say with that in mind.”
+
+All eyes turned to him, three sets seemingly filled with confusion and differing levels of betrayal. The blood-red eyes held only calm as the midnight-black man held up his hands to forestall his fellow’s objections.
+
+“She is not set on this course, and I do not want her to realize our bias on her own and thereby throw out all that we have to say.” That seemed to calm the others down a bit, allowing him to turn back to face Tala. “Beyond that, I think the consequences and repercussions are entirely beyond your consideration.”
+
+Tala leaned back, taking a long sip of her coffee and waiting.
+
+“First of all, the world-fragment can’t move or be moved. That is definitional to its existence. If you were to somehow force any sort of relocation, it would cease to be a world-fragment.”
+
+She gave a slow nod at his words. She’d been concerned about that.
+
+“Second, you couldn’t just add dimensionality. We have tried and all that it does is create a hold, or section of expanded space attached to or within the world-fragment. The added dimensionality lacks all features of the true volume of the fragment. So, you could add to the space, but it wouldn’t do what I’m sure you are hoping. As for power density, that is actually tied to the nature of the fragment. This is the natural level of power just before the fracturing in this location.”
+
+Tala frowned, leaning forward once again. “What do you mean?”
+
+He smiled, nodding. “The world-fragment exists in a perpetual state of how things should be. The world before did have magic, and actually a lot of it. The Mature level of power in here is what covered the whole of the world at the time.” He held up his hands in uncertainty as he continued. “We do not know if that was a surge which led to the fragmenting, or some other result or precursor to it, but we do know that it is correct. We cannot raise it, save in localized areas. Extra power does go toward expansion, but at incredible inefficiency. It is even less efficient than if we provided the density of power along with paying to create the dimensionality and all matter within it via magic.”
+
+Tala grunted. That was… that was pretty awful, then.
+
+“Indeed.”
+
+That, alone, would be an issue. The nature of her expanded space meant that it matched her own density, and if that was forcibly lowered by the nature of the world-fragment? That could harm her specifically. That, though, caused her to frown. “Wait… The Lunar Hunt’s density is different.”
+
+Ma-a shrugged. “I had not known that. It could be that her part of the world had a different density, or she has altered it in some other way. You would have to seek out the Lunar Hunt for those answers. We cannot know what Sovereigns and god-beasts are capable of.”
+
+“Understood.” That did make sense. She drank more coffee, considering.
+
+Erde seemed to decide he wanted to add to Ma-a’s words. “I imagine that you have sufficient presence and power to hold sway over this expansive fragment. I will also assume that you could actually consume it if you wished, but I don’t know how you would do so.”
+
+Tala waved that off. “I would extend my authority through the reality nodes and threads and make them mine.”
+
+The four shuddered at the ripple in existence at the utterance, their perceptions clearly tuned to the world-fragment enough that it was obvious to them. “I… see. I won’t pretend to understand what that means, but clearly, you aren’t incorrect in your assessment of your own abilities in that regard.”
+
+“I do not believe that I am, no.”
+
+“So… why would you even be interested in doing so to begin with? That might aid our assistance.”
+
+She nodded. “That’s a fair question. At the moment, I have thousands of people within my expanded space. Most are gateless by necessity."
+
+Jord had come back to himself, having recovered and refilled his cup, and he instantly seemed to understand. “You wish to investigate the resilience of the world-fragment, specifically how it is resistant to damage from gated? To use that within your own space?”
+
+Tala nodded, smiling.
+
+Ma-a gave a slow understanding nod before sighing and shaking his head. “I am afraid that consuming the fragment would be the only means of achieving that.”
+
+She frowned. “What do you mean?”
+
+“That resilience is not actually that.”
+
+Her frown deepened, and he held up a hand to forestall her.
+
+“It isn’t resilience in the truest sense. Instead, it is like the magical density, a locking of Existence to how it was before the fragmenting.”
+
+“But it is that mirroring that allows this to be a world-fragment?” Tala inquired, puzzled.
+
+“Indeed.” He chuckled. “We must maintain symmetry, else this will no longer be a world-fragment, and while this is a world-fragment, symmetry is enforced by Existence itself. It makes no sense, yet it is so.”
+
+Tala grunted, refiling her coffee and draining it as she considered yet again. Finally, she nodded. “Can you tell me how the world-fragment came to be? That might help me understand.”
+
+Ma-a nodded. “It would be my pleasure.”

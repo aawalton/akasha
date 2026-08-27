@@ -1,0 +1,127 @@
+---
+id: 0a04cbf6-1247-5e43-8c50-892a39bf2efd
+page-type-slug: story-chapter-royal-road
+title: "Side Story 7 Goings on in the royal palace"
+slug: 0044-side-story-7-goings-on-in-the-royal-palace
+partOf: melody-of-mana
+position: 44
+ownLength: 1832
+unit: words
+ownProgress: 1832
+publishedAt: 2021-08-18
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/735692/side-story-7-goings-on-in-the-royal-palace"
+royalRoadId: "735692"
+markedReadAt: "2026-06-29T22:27:43.353Z"
+---
+
+The marble halls echoed my footsteps as I quickly walked down them, two guards hovering behind. As I came to my room they settled beside the door, several servants moving forward to assist me. I was filthy and they'd already prepared a bath for me.
+
+I was washed and given clean clothing as fast as was functionally possible. The sheer amount of filth was amazing, it came off in layers, much of the water even had to be changed. It was as the last of my buttons were being done up that the head servant for my chambers spoke.
+
+“Your Highness, their Majesties wish to speak with you as soon as feasible.”
+
+“Yes, I assumed as much, please let them know I'm on my way.”
+
+It was a bit exhausting, sending servants to and fro to ask to see someone then more to confirm. The strict formality of it all was tiring. That was one thing that the commoners I'd spent the last few days with had done well, if they wanted to say something, they just did so. Sadly that was not what one would call an enjoyable time because of the situation.
+
+The doors to my parents' room were opened as I approached. If my room had been busy with servants then their rooms were an absolute riot. Beside them stood Emil, I didn't really like the man, he felt like a snake, nobody else really liked him either. That said he was the best spymaster anyone knew of. He seemed to know and be quite proficient with every technique of the job, from ferreting out lies to torture. He also seemed to have a contact for almost everyone, he could even track the histories of a given commoner in a day or two at most.
+
+I sat opposite my mother and father, then looked to them. “Could we have a bit of privacy?” With a flick from mother's hand a small dome appeared around the four of us, opaque, and able to muffle any noises from outside. She was a rather skilled wizard, controlling both sight and sound at once, and shaping it all was no easy feat.
+
+Once it was in place we three royals could finally relax a bit.
+
+“I'm glad you're unharmed son.” Father said, giving me a kind smile. Mom actually came over and hugged me, a bit embarrassing as I wasn't a kid anymore.
+
+“I'm glad too, it was a bit of a mess there.”
+
+“You just got lost in the undercity right? A few encounters with those damned rebels?”
+
+“No, quite a bit more than that.” I proceeded to give them a basic run over of our encounter with the golems, both were quite surprised at that.
+
+“Emil, did you know such things were living down under our city?” Father turned to look at the man in question.
+
+“Not those specifically your Majesty, but I knew there were a number of things down there. Removing them isn't really feasible, and if we did, something else would just take their place. The only long term solution would be to have soldiers stationed in the undercity long term. Regardless of that, we should try to find those golems. Items like that are rather rare, and they could be useful.” He scratched down a few notes on a pad as he spoke, notes on what I'd said and plans obviously.
+
+“Well, we'll need to reward those three commoners. You said they were all magic users son, could we elevate them to the nobility?" With that he looked at Emil again.
+
+“I would recommend against it your Majesty.”
+
+“Is saving my son not enough for that even in your opinion?”
+
+“That is not the issue at all my king. Of the three I've almost no information on two. The older boy claims he was lost in the undercity for years. If he's still completely sane, which I'd be worried about, there is no way to verify that story completely. The girl is also unusual, I've received a handful of reports about her before. She's been on my watch list for quite some time.”
+
+“A rebel?”
+
+“I doubt it sire. There is some evidence of contact with suspected rebel elements, but no more than anyone living in the lower parts of the city might have. No indication that she's sympathetic to them either.”
+
+“Then what about it?”
+
+“She's powerful, not world shakingly so, but even at this point her aura indicates she has far more mana than even most fully trained casters. She's also connected to one of the more potent bards in the city, though I don't know how."
+
+"The main question though is where she came from. She's decidedly not from the capital, that much I'm fairly sure of. There was a report filed of a girl posing as a boy years ago who entered the city and had a strong aura. I do not know where she came from before that though, the merchant caravan she came in with stopped in a number of places.”
+
+“You've been keeping an eye on her for years?” I turned to Emil, the surprise I'm sure was written on my face.
+
+“Of course, a skilled unknown caster is someone to keep tabs on. There are a few hundred casters in the capital, most of them not really of note. Keeping files on all of them is an important part of my job.”
+
+“You spy on all of them!?”
+
+“Most of those files are rather sparse Highness. Unless there's something odd it's generally enough to know who they are and where they're from. This girl is decidedly a bit odd.”
+
+“That is beside the point. With those two you're right Emil, elevating their status is not viable for the time being, we'll give them some money or something, and keep an eye on them for future raising to the nobility, from afar.” Father looked at me pointedly on that last bit. It was clear he wanted me not to get too involved with these unknown elements.
+
+“There is a reward one of them would likely want more than that father. One that would be easy enough to give and might even win us loyalty in the future.” All three adults raised an eyebrow at me at that.
+
+“What would that be son?”
+
+“Can I ask that what I will tell you not be pursued if you decide not to grant the reward I ask?”
+
+Father waved his hand in assent. “Very well.”
+
+“One of them admitted to killing a man. A royal pardon for all past crimes would be a fine reward no?”
+
+“A man? Are we talking a noble or a commoner? If one of them is responsible for the death of a noble or their child pardoning that might be difficult.”
+
+“A commoner it would seem, a minor official for the kingdom.”
+
+Father hesitated. “That could be construed as rebellion son, or being part of one.”
+
+“I don't care if a hundred men were killed and had their heads mounted on pikes, they brought my son back to me.” Mother seldom spoke in exchanges like this, but her words always carried weight.
+
+“Dearest...”
+
+“Don't you dearest me,” she continued, “Issue the pardon and be done with it. If the youth continues on any path of rebellion, let it fall upon their head. For now though, let it go. It would be no different than giving a general pardon to a village that rebelled then surrendered.”
+
+Father looked towards Emil. “Your thoughts?”
+
+“I support Her Majesty. From the sound of it, the cost would be negligible, and if the one in question is a rebel we might well turn them, or I'll at least know to keep a closer eye on them.”
+
+“Very well then, I'll issue it. Which of them is it?”
+
+“The girl, apparently she killed a mayor in a fit of rage. He'd killed her brother or something.”
+
+Emil chuckled a bit.
+
+“What?” I asked.
+
+“I was wondering which of the two it was. The boy hiding for years in the undercity, or the girl who seemed determined to hide her origins. I guessed wrong, not something that happens often.”
+
+I shook my head at the spymaster, before turning back to my parents.
+
+“We'll have them treated as guests for the night, give them their rewards then send them home. Emil, I'd like you to speak with them to see if they know anything useful personally. I'll have the steward arrange some gold and the house seamstress to make them new clothing. They should like that if they were half as filthy as I'm told you were.”
+
+I nodded at his commands, they made good sense. After all was settled we bid our farewells and went back to the various tasks that needed doing. For me that mainly meant going to get food, I was quite hungry and had only had bread, cheese, and wild plants from the tunnels in the past few days.
+
+The house seamstress was a bit of an odd woman. She was a bard who'd specialized in making clothing for some reason. With the spells she'd developed and put her all into she could turn out a full outfit in astounding time. More complex pieces would take her a day or so, but simpler ones she could push through in an hour or less. Very simple things like undergarments she'd toss out in around ten minutes. I loved watching her work, it was like seeing things just jump into place, cutting themselves and sewing as she moved hands across them. After my meal I went to watch her in her workshop, if for nothing else then the simple joy of watching a master at work.
+
+Eventually though my tutors and trainers came to pester me. There was always more to be done here in the castle, and sitting to enjoy something idly would only be allowed for so long. I looked back at the work the seamstress had finished so far. My friends would look quite good in their new outfits, it was a true shame I wouldn't get to see them.
+
+On my way back to my chambers I passed my sister in the hall. She raised an eyebrow as I came near. Her friend, some noble girl from a backwoods barony who stood back while we spoke.
+
+“Oh dear brother, I'm so glad you survived. Are you feeling quite well?” I doubted that, she'd fallen in order of succession when it was found that I had more potential for mana than her.
+
+“Yes sister, quite well, and yourself?”
+
+“Oh I've no complaints, we were just on our way to enjoy a bit of tea. You've met Lady Gwenna have you not?”
+
+I explained to my dearest sister. “Only in passing I believe, a pleasure.” I nodded to the girl. “Well then, don't let me keep you.” With that I excused myself, I'd no desire to deal with her right now.

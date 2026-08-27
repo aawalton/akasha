@@ -1,0 +1,93 @@
+---
+id: 40497014-989e-5476-a3f6-4a8b0200beb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 296 Return to Eratol"
+slug: 0311-chapter-296-return-to-eratol
+partOf: melody-of-mana
+position: 311
+ownLength: 1327
+unit: words
+ownProgress: 1327
+publishedAt: 2024-01-10
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1471924/chapter-296-return-to-eratol"
+royalRoadId: "1471924"
+markedReadAt: "2026-06-29T22:36:33.476Z"
+---
+
+I was all smiles as I watched the kids approach the little village I'd gone to so long ago. Those folks I knew were good, and as long as at least one of them revealed that they were mine there shouldn't be any problems. With that solved I could go to more important work, preparing the way.
+
+The forest reminded me of that trip, of the time that I'd passed through, huddled against my friends as we hunted down a shadowy beast. It wasn't fun, but in retrospect those were some of the most important memories. It was where I'd met Ulanion, where we'd found the first portal, and how to create more. It was also where we'd lost people, had them fall against the beasts we sought to kill.
+
+It took awhile, with several missteps on which path I needed to take, but soon enough I found Justin's facility. The real solution was to just go down, that and look for the very center of the crater where it lie, hidden beneath the dirt and stone.
+
+This time I really had the ability to appreciate the place. Before I'd been harried or just too tired, but with a bit of breathing room there was no problem taking some time to see what had been built here. The outside was dirty, in perfect repair because of the magic being used, but covered in leaves and debris. There were even a few sections where dirt had built up over the years, creeping in.
+
+After a short jaunt through the courtyard I returned to the atrium where Olnir had died. The arched door leading in, the high stone columns and balconies looking down from above. There was no evidence of our battle, not a speck of dust or crack to indicate what had happened all those years ago. As a point of fact it looked even more pristine than it had back then, the lights on and the floor shining. Idly I wondered if I could one day get the enchantment used for that, it would be a terrible waste of magic, but a self-cleaning and repairing building was just fancy.
+
+I'd barely made it up to the long reception desk, which was completely clean now, before I heard noise. Off to the side came the noise of clicking metal on the white stone, echoing through the empty room. It wasn't rushed, or slow, it wasn't loud, just a faint sound, almost like claws scratching the rock.
+
+“Greetings your Highness,” the wolf golem said as it appeared. “The administrator would like to see you.”
+
+“Good, I'd quite like to see him too,” I answered after sighing at the form of address, something my husband still used when he wanted to tease me.
+
+The machine wasn't talkative, and as it led me through the building I regretted not having someone to speak to for so long. I wondered how Justin did it, alone in his cave. Maybe it was an elf thing, maybe he was just weird, I never had found out.
+
+We did not go down into the bowels through stairs and elevators this time, but rather to a relatively nearby room, where a portal sprang into existence across the wall. There wasn't really any more clear of an invitation than that, so I strolled through.
+
+I recognized Justin's lab, the one he had the portal back to my place in. I was pretty sure, though not completely, that this was a bit far from the room with the eggs. He'd never been too forward about how things were laid out, and I'd never needed to go wandering far from wherever he brought me.
+
+The man himself sat in a plain robe at a nearby desk, sipping on some tea. “Of all the people to stroll up to my front door, I didn't expect you,” he observed.
+
+“Really?” I asked.
+
+“We do have a portal we normally use? I'm guessing you've got some problem that needs resolving, which somehow brought you here?”
+
+“That predictable?” I asked.
+
+“Do you ever come to see me for anything else?” There was a bit of a chiding tone in his voice.
+
+“Er, sorry about that. You don't really seem the type to entertain visitors, and you won't come over to my place. You're welcome as far as I'm concerned though.”
+
+“Fair I suppose. So, what brings you here?”
+
+I told him about the trip to Atal, about the kids coming, and the general plan. There was a small smile as I went over what we'd done, explaining how the trip was supposed to go. When I got to the attack on the city there was a bit of concern there, long ago he'd abandoned his post, but I got the feeling he still cared about his people.
+
+“The city?” he asked.
+
+“Seemed intact, though there was fighting going on. The wards held the creature back while some of the heavy hitters dropped it,” I reassured him. “Will you go help?”
+
+“There are some things I can, and will do without revealing my presence, depending on how bad it is.”
+
+With a small smile I continued, getting a laugh at my threatening of the mayor, and a few notes here and there about the actions of the kids. I left out how they seemed to be intent on spying on one another, no reason to give him a bad impression.
+
+As I began to wrap it up there was a long, loud tone, followed by a calm feminine voice. “Incoming mana signature, identification Councilor Chien.”
+
+“Um?” I said, confused.
+
+“I updated the wards and cleaned up a bit after you lot left. Didn't want anything else nasty moving into my attic,” Justin answered, frowning at what looked to be a monitoring panel. “Hate to be a poor host, but I must deal with this, there are cups and tea in the cabinet there, please wait for me to return.”
+
+“Should I come with?”
+
+“No, our history is... complicated, and if he came to fight you'll only get yourself killed.” There was no room for argument in his tone, and I'd seen him fight before, so with a frown I nodded.
+
+I made it through a full cup, and was considering another when the tone sounded once more. “Incoming mana signatures, identification unknown humanoid, six.”
+
+That barely had time to register before it sounded off again. “Incoming mana signature, identification unknown monstrous.”
+
+Illa
+
+The villagers were surprised when we appeared, all blinking at us as the group of youths poured into their front gates. Before we could even begin to ask questions an old elf moved to the front of the group, his eyes lined with wrinkles and hair white. He regarded us for almost a full minute, the others silencing as he did so.
+
+“Ah, forgive an old man his quirks,” he finally said. “It's just that you reminded me of a group that passed by some years ago. Particularly the girl there, looks just like that bard...” he said, pointing to me. “I'm Indriel, the village elder.”
+
+I blushed. It was true that I did indeed look a good bit like mom, her hair was a shade lighter, and I'd not quite inherited her figure, but in the face and eyes we looked a good bit alike. My brother, who was chuckling off to the side, took more after my father though, with even Amara looking more like me than he did.
+
+“Don't suppose her name was Alana?” I asked.
+
+That question caused the man to go into uproarious laughter. “My, my it was! And I suppose you're looking for some old ruin in the woods?”
+
+“Hmm,” I mumbled.
+
+“Well come in girl, I feel you've a story for me. Though luckily this time around we're monster free.”
+
+With his apparent approval our group was led forward, with he and a few others just spinning up the first of the questions for us.

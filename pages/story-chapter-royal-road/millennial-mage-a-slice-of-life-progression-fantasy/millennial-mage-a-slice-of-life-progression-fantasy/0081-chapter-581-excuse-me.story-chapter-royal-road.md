@@ -1,0 +1,227 @@
+---
+id: b035fab6-7c98-55a8-b16b-5aeff90b5aa7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 581 - Excuse Me"
+slug: 0081-chapter-581-excuse-me
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 81
+ownLength: 2934
+unit: words
+ownProgress: 2934
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2389243/chapter-581-excuse-me"
+royalRoadId: "2389243"
+markedReadAt: "2026-06-29T19:37:53.496Z"
+---
+
+Tala, Rane, and Lea spent a good chunk of the morning with Mistress Ingrit, only interrupted when Terry returned from his own hunting expedition.
+
+The four humans were sitting in a circle, in one of the glades around the circular river, when Terry flickered into being, having just willed himself from the superficial to their location.
+
+He seemed a bit less down than he had when he left, and Tala was glad that he’d gotten some time to himself to hunt and work through his own feelings on Illie’s passing.
+
+Even the thought of it caused Tala to flinch slightly, though it didn’t hurt quite as much as the last time.
+
+Terry trilled, looking at Tala for a moment before his head shifted just slightly, and he caught a glimpse of Lea.
+
+He froze, almost like a woodland creature that just noticed that it had landed beside a human without realizing it.
+
+He slowly turned to face Lea, eyes narrowing in confused concentration. He wasn’t aggressive—and he was clearly intrigued—but he was just as clearly uncertain.
+
+Tala cleared her throat, garnering his attention, but not his focus, as his eyes remained locked on the almost face. “Terry, this is Lea. She is Rane's and my daughter.”
+
+Terry froze again before finally allowing his eyes to come off the girl, slowly turning to look at Rane and Tala, then returning his gaze to Lea.
+
+Lea’s eyes were wide with wonder, and she slowly lifted one hand toward Terry.
+
+The terror bird leaned back slightly at first, then, the girl spoke. “Pretty birdy.”
+
+Tala wasn’t sure what it was about those two words, but Terry’s reticence vanished, and he flickered forward, pressing the side of his head against Lea’s outstretched palm.
+
+The girl gasped, almost jerking her hand back in surprise, but Rane reacted faster, catching her wrist and holding her despite the speed and power of her arm. “It’s okay, Lea. He’s not going to hurt you. This is your Uncle Terry.”
+
+Lea had stiffened, but at his words, she relaxed. “Uncle? Like Auntie Lyn is my auntie?”
+
+He smiled happily. “Exactly like that, yes.”
+
+Tala cleared her throat. “Additionally, he is my soulbound companion.”
+
+Lea was already running her hand over his feathers, and she began scritching at the base of his skull.
+
+Terry closed his eyes and continued to lean into the contact.
+
+When she finally pulled back her hand, he opened his eyes, blinking a few times before he flickered around her in a quick sequence, clearly trying to get a look at her from all sides.
+
+Finally, he settled on her shoulder, much to Lea’s delight.
+
+Thus, Terry joined them for the rest of Mistress Ingrit’s private visit.
+
+The next appointment, which she was staying for, was with a high level constructionist, one that Tala and Rane were quite familiar with, actually.
+
+Master Boma was quite punctual, and he was carrying an Archive slate and diagnostic tool that was absolutely tangled with interweaving magic of various kinds.
+
+Greetings and bows were exchanged all around before he turned to regard Lea. “So, you are the girl in question, then?”
+
+Lea shifted nervously from foot to foot for a moment, before settling herself and nodding. “Yes, sir.”
+
+He smiled. “Well, aren’t you just wonderfully polite.”
+
+She smiled. “Thank you, sir.”
+
+“Well, I’m going to scan you with this.” He lifted the long rod to indicate it. “I’ll have to move it near you from all sides, but it shouldn’t need to touch. If you can sense magic, then it might feel a bit tingly, but it shouldn’t hurt at all. If it does, tell me right away so I can fix it. How does that sound?”
+
+She seemed to waffle for a moment before nodding once. “Okay.”
+
+Master Boma stepped forward, holding out the rod and activating it.
+
+What followed was rather mundane from an outside, unknowing perspective, but Tala could see that literal torrent of power gushing from the construct before flowing back with information via slight alterations to the flow, garnered by what was scanned, mainly Lea.
+
+The magic flowed deeply through Lea, quite possibly scanning every miniscule part of her. The powers that be were quite concerned about the potential for things being hidden within her construction, especially since the body had originally been made by arcanes.
+
+It only took about an hour, during which time Master Boma engaged Lea in near constant chatter, having her move about for scanning, even though Tala noticed that such wasn’t really needed.
+
+Better to have her moving and engaged than forced to simply stand in place for the whole time.
+
+Lea did admirably well, likely in part because of Master Boma’s bedside manner and how he approached the whole situation.
+
+When he was done, he patted the girl on the head, even though they were nearly the same height. “Well done, Lea. That was not fast, but you did excellent. You have an amazing amount of patience for one so young.”
+
+Lea beamed back at him and nodded. “Of course, I am amazing.”
+
+He chuckled. “That you are, in essentially every way.”
+
+Tala and Rane praised the girl as well as she and Master Boma took their seats.
+
+Finally, the constructionist nodded, still consulting his tablet. “There are no area of effect magics oriented outside of her body. There is nothing that could easily cause catastrophic destruction, nor anything that could build to critical failure. The body’s strength and reaction metrics seem to be in line with a Refined that doesn’t have any physical enhancement inscriptions. There are no detectable, magical connections with the mind or soul, meaning there are no exterior influences currently acting upon her. I am concerned about where her soul is housed, and with the fact that the mind and soul seem to be essentially one and the same.”
+
+Tala and Rane both leaned forward, while Mistress Ingrit took out a slate on which to take notes.
+
+Terry was watching Master Boma closely and critically, as if just waiting for him to make a hostile move.
+
+When Tala checked on her daughter again, she found that Lea was suddenly playing with a few little ropes that… Tala had no idea where she’d gotten.
+
+-I willed them over to her. She seemed to want to do something with her hands while you all were talking, so I got these and provided her with some knowledge of knots and braiding.-
+
+Oh… okay. Thank you.
+
+-Of course.-
+
+Master Boma shook his head, drawing Tala’s attention back. “I honestly don’t understand how the soul-medium functions at all. Let me be clear, I understand how it is supposed to work, and how it should work. I have no idea how the stuff that is in that location, performing that function is able to do so. I can see what the intention was, but it is like a child grabbing a stack of loose pages, splashing ink onto them at random, and wrapping it in raw, untanned leather before declaring ‘Behold! My book.’”
+
+-Ouch… Wow… We did our best.-
+
+Tala cleared her throat, ignoring Alat. “Is there anything that can be done?”
+
+“Oh, of course. We will need to create a replacement.”
+
+Rane frowned. “Master Boma, I know of Mages who have literal rocks as their bodies, not magical rocks, just a rock. How can this be so much worse.”
+
+The man smiled in return. “That is a fair question. In this case, it is because those are Archons who have soulbound themselves to that vessel, with the express purpose of it being their physical form. Lea here is effectively a mundane human. She has no volitional magic bonds—let alone soulbonds—to facilitate her existence.” He held up a hand, forestalling them. “Before you ask. No, we can’t just have her magic- or soulbond her body to make this issue go away. It could help, but the time it would take to ensure it was done properly would be longer than simply fixing the issue.” He smiled. “Now, I do suggest you pursue that option as well, because the body was never intended to actually house a volitional human soul.”
+
+That got their attention, and Tala frowned. “Can you explain?”
+
+He seemed to have been prepared for that request. “Absolutely. The body was designed for self-sapience. It was created to be its own entity, outside of any interactions with a soul. I really can’t explain it any better than that. It seems to be a downfall of any automaton body, even those that have been created specifically for a human soul, though I would word the issue differently in those situations.”
+
+Tala cleared her throat. “Can you explain that to us, too?
+
+He frowned, then nodded, having clearly thought they could move past this point without delveng deeper. “Well, it would be like an Archon trying to soulbond a perfectly preserved corpse of an arcane. Assume the soul has passed on, but the body was kept working through magic. In theory, it’s a perfectly functioning body, a vessel fit for a soul, right? Right? Wrong. Unfortunately, it never works. There have been an… unfortunate number of attempts at that line of research—for whatever reason some people just want to have a different body—but it has never worked. Something about being too close to the natural form without being the right form makes it fail.”
+
+Tala glanced at Rane, who shrugged. Alat had said something similar earlier in regard to automata bodies.
+
+“Regardless, that’s not the issue here. Clearly Lea is in this body because it is her body. Her soul isn’t rejecting it, nor the body the soul, but the body still isn’t… right. It’s like a shirt that was made to fit perfectly, then the person tried to put it on. There was no allowance for actually doing that—actually putting it on—so now that it is on, the garment is strained, and the person is stressed and a bit out of sorts.”
+
+Rane was frowning. “So… she’ll recover in time?”
+
+“Possibly. The soul definitely will, the body too, but the connection? I don’t know. We certainly shouldn’t try to move her to a different form. That would undoubtedly fail. I don’t even think that arcane vestige methods would work on her. Though, to be fully clear, I wouldn’t try those even if I could.” He sighed. “Regardless, we’re getting ahead of ourselves. We need to address the current issue before we look at potential problems that may arise in the future.”
+
+Lea suddenly looked up and spoke. “What if we don’t change my… soul-medium?”
+
+The constructionist nodded. “Excellent question, Lea. Basically? You could never leave this expanded space. I suspect that it is only your parents’ active will that is keeping you alive, and that will weaken outside, even if they are right beside you, actively working on the issue.”
+
+Lea frowned. “I don’t like that. I want to go outside.”
+
+He smiled comfortingly. “Then we need to work on this fix.”
+
+She nodded once. “I agree.”
+
+Tala found herself smiling. “It sounds like we have a go-forward, then?”
+
+Master Boma nodded. “I’ll take these readings and get to work. I believe that the Constructionist Guild has quite a deficit toward you two. Do I have authorization to draw on that for this project?”
+
+Tala glanced toward Mistress Ingrit, who nodded. Tala then turned back to the man and smiled. “That would work. Please connect with Mistress Ingrit if you have a need to work out any specifics.”
+
+They chatted for another few minutes before Master Boma bid them goodbye, giving a final word to Lea specifically before departing.
+
+Mistress Ingrit also stood at that point. “I should get back to my other tasks. Mistress Jenna has reached out—as the Prime Defender of this city—and she would like to speak with you alone, Mistress Tala.”
+
+Rane frowned, but Mistress Ingrit held up her hand to have him wait.
+
+“She will most likely also want to talk with you too, and to meet our Lea here in person, but she’s spoken with Mistress Tala before, and she wants to have her first touchpoint on this issue be on familiar grounds.”
+
+Rane shook his head. “Do we have a choice?”
+
+Mistress Ingrit scrunched her face in thought, waggling her head back and forth. “I mean, you could try to leave Bandfast without her knowing, but I wouldn’t count on that working. If you tried to come together, you’d just find yourself blocked at some door or other. You could try to break through, but that would cause a whole scene…” The Librarian shrugged. “Essentially, no. You have no option, unless you wish to start this at odds with the city’s leadership.”
+
+Tala placed a hand on Rane’s shoulder. “Stay with Lea, get to know her, let her get to know you. I’ll be fine.”
+
+He grimaced, then slowly nodded. “Whatever you decide, I’m with you. However the conversation goes, we’ll face it together.”
+
+She gave him a quick kiss. “Thank you, Rane.”
+
+Tala then went over to Lea, kneeling down before the sitting girl, even as white fingers flashed, weaving bits of rope into complicated patterns.
+
+As she watched the girl work, she had another flash of awe. She’d only had this daughter for less than a day, yet she already felt immediate, complete attachment. If she and Alat hadn’t implemented numerous, ridiculously robust checks and counters to mind, emotional, and even reality type magics, she’d suspect that something supernatural was affecting her.
+
+Instead, she knew that something quite natural was to blame, even if it had come about in an unusual way.
+
+She had a daughter, and she loved her. Tala smiled as she spoke. “Lea? I have to go out for a bit. Can you stay here with your dad and Terry and enjoy some time with him?”
+
+“Yes.” The girl nodded, responding without looking up.
+
+“Good. Love you, Lea.”
+
+“Love you, too.” The girl still didn’t look up, but that was fine.
+
+Tala shook her head and smiled, standing and following Mistress Ingrit out.
+
+They were somewhat close to the Archon Compound in the center of the city, and with Tala willing them out at the edge of her range, it was less than a five minute walk to the rather familiar atrium.
+
+Mistress Ingrit walked beside her, heading toward the Library within the compound, silently keeping her company. Finally, when they were about to enter the building, the Librarian turned to Tala. “Congratulations, by the way. I know it’s sudden and anything but standard, but you still have a daughter.”
+
+She smiled, and Tala felt herself rock back a bit. “I… Thank you. I suppose that I do.” She huffed a laugh. “It’s odd… On one side, it feels like the most natural thing in the world. I can feel my connections to her, and the resonance of her soul with mine and Rane’s. She is my daughter, beyond question, but on the other hand, it feels like a dream, like this can’t possibly be real.”
+
+“Many parents feel that way.” The woman then laughed. “Though, I will admit, you have more cause than most to feel that way. Her existence is magical, and something that I can’t say has ever happened before.”
+
+Then, the Librarian gave Tala a hug. Tala returned it hesitantly, taking a surprising amount of comfort and stability from the gesture.
+
+“Feel free to reach out to me if you need anything, alright?”
+
+“Sure. Thank you. I will.” Tala was a bit overwhelmed, if she was honest. She had sort of just… responded to Mistress Ingrit’s kindness, and she felt better for having spoken her feelings out loud. Still, she felt in a bit a daze.
+
+They walked down the long hallway and into the atrium. There Mistress Ingrit split off from her, saying goodbye as she headed for the Library.
+
+Nearly as soon as she vanished, Mistress Jenna appeared, entering from the far side. It was almost suspiciously perfectly timed. Though, did Mistress Jenna delay to arrive after Mistress Ingrit left? Or did Mistress Ingrit leave before Mistress Jenna arrived? …Or was the timing just a coincidence?
+
+It wasn’t like it actually mattered one way or another.
+
+Mistress Jenna’s tone held some tension, but it still seemed genuine as she greeted Tala. “Mistress Tala. Thank you for giving me this time. I understand that things are rather… hectic for you at the moment.”
+
+Tala felt a flash of memories: Illie’s death, the Leshkin, Gretel’s death, progress toward her Reforging, Master Girt, Eskau Meallain, and now Lea… Yeah… “That’s a rusting understatement.”
+
+Mistress Jenna gave a small smile. “Indeed. Come, come. We shouldn’t discuss such things out here.”
+
+She waved a greeting to the receptionists in the central desk area of the Archon Compound’s atrium, and they waved back in greeting. Then, Mistress Jenna led Tala deeper into the hallway.
+
+They got to the woman’s office without any incidents or difficulty. After the door closed, Tala felt some privacy magics engage around the space.
+
+“Coffee? Tea?” Mistress Jenna offered Tala some refreshments.
+
+“Coffee, please.” She did her best to relax. This was meant to be an informal discussion, a quick meeting between the two of them.
+
+“Of course.” Mistress Jenna pulled a steaming mug from thin air.
+
+“Thank you.”
+
+The two women sat, and Mistress Jenna locked eyes with Tala. “Now, Mistress Tala. We really must be frank with one another. The simplest course of action at this point is to scrap the automaton and move past all of this.”
+
+Tala froze, coffee halfway to her lips. “Excuse me?”

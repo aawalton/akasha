@@ -1,0 +1,255 @@
+---
+id: 5d82b88f-860d-5096-b7d6-843cb1d074b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - Everyday People"
+slug: 0073-chapter-40-everyday-people
+partOf: metaworld-hopecore
+position: 73
+ownLength: 2482
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3398731/chapter-40-everyday-people"
+royalRoadId: "3398731"
+---
+
+"The readiness is all."
+
+William ShakespeareHamlet, Act V, Scene 2
+
+Monday. LAPA.
+
+Eppie watched Dr Lucas Ford listen as if absorbing music through his pores, allowing every strum and stroke of Zara’s fingers to vibrate through his body.
+
+While listening, her teacher took notes and added things here and there to the score sheets the girls had provided. Eppie knew Dr Ford heard the intent in their song, but she also knew that he misunderstood it as teen politics. They were two girls wishing to enter the world of Pop, and girl power was a trending topic. Ergo, a dark and edgy song that hinted at sexual violence, revenge, and history was a reasonable artistic output.
+
+Their song had changed a bit since September. After Fresno, Zara’s playing had collected something, grit perhaps, the way a rolling stone accumulated texture. More than mere technical proficiency, Zara’s playing had become more instinctive. Where Eppie’s voice led, she adjusted naturally, adding to the resonance.
+
+In the Pines, in the PinesWhere the sun never shines
+
+Ford’s office seemed to expand as the song resonated; the curtains rustled as Zara worked through the progression.
+
+“Very good, Miss Arriaga,” Ford gave a satisfied expression before it changed to a more serious one. “But, as you know, your choice remains controversial.”
+
+“I know,” Zara said. Unlike last time, there was now conviction in her voice. Eppie’s partner now knew the song's purpose and who it was aimed at.
+
+“I’ve been informed that there will be many important guests attending the Whitman’s Theatre performances,” Ford said, looking at them carefully. “The usual, of course, the board members, prospective students and their parents, but this time, Miss Fontaine has truly stirred the pot.”
+
+“I have?” Eppie touched a hand to her throat.
+
+“Yes. Did you know Director Frederick Curon of Sony BMG will be attending? If he’s coming for you, then there will be representatives from Universal and Warner. There is a rumour that some celebrities, singers, mostly, will also come and see who has been making waves in the industry out of our humble abode.”
+
+Oh, so Daddy is coming to town? Eppie realised a second later that Dr Ford had just ruined Director Curon’s surprise. It was an obvious gesture, considering his industry-specific fame and the rise of Umbrella. Still, it would have been a nice moment when, after the song was done and the lights dimmed, the infamous Frederick Curon stood to give them a standing ovation and a contract.
+
+“The song is good,” Ford said carefully. “And I will give a final warning. There are careers on the line here.”
+
+"Yes," Zara said, looking at Eppie.
+
+Don’t look at me like that. Eppie felt cold sweat drench her cheap K-mart T. She had no desire to be seen as Zara’s bully. They were co-conspirators, not user and victim.
+
+Dr Ford watched them, then smiled. “Alright, it’s approved.” He signed his name on the dotted line. “If VP Thomas asks, just say you forced my hand for the sake of art. We’re a performing ART conservatory after all, not a popstar factory.”
+
+“One more thing. Miss Fontaine, Dr Burton has asked me to note, for the record, that your participation in Zara’s programme as a Theatre student must be by Dr Cooper’s permission. This has been obtained, yes?"
+
+He looked at her over the rims of his glasses. "You have obtained it, yes?"
+
+"Er…” Eppie was not aware that permission was a two-way street between the department chairs. “I’ll get it for you now, sir. First thing tomorrow morning?”
+
+“Good, then we're done.” Ford opened a new folder. "Dream a Little Dream anchors the first half. In the Pines closes the set. Good luck, girls. We’re all rooting for you.”
+
+The days there after began to blur.
+
+Classes. Practice. Classes. Practice.
+
+December arrived without ceremony, and Eppie didn’t even notice. It was a strange feeling, once she looked back at the weeks zooming by, because her previous life had felt so packed with stakes. A good decision made on Monday might mean that she made seven figures on a short by Wednesday. A poor decision on a Friday meant she woke up to a bankrupt shell company on Monday. Time happened in iCalendar blocks, managed by assistants like Emily, who had then ended all that nonsense. The irony of that fact was not lost on Eppie, though she was no longer filled with bitterness at the memory.
+
+She felt… happier here. It was a nebulous thought, delicate as a glass-winged butterfly, but it was there, teasing her at the edge of her consciousness. Was the euphoria a part of the [System]? She wondered as she meditated. If the [System] could inject knowledge into her brain, why not endorphins? Why not oxytocin?
+
+Without a care for her concerns, the Gala calendar loomed. Every day, the Quest Board filled with more and more notices, sprouting with such regularity that it looked like a verdant bloom of fungi had taken over the underground notice hall.
+
+Dr Kirby was wrapping up Titus Andronicus so that the Theatre department could move on to their next roles as soon as possible for the Spring Gala. Mr Ali’s Algebra reached the stage of quizzes and tests, and World History was banging on the final chapters of the 20th century.
+
+In the never-ending Arts Blocks, Costello was working to make the young actors more natural, less stiff, and less prone to wooden acting. They were now doing “Improv”, still Antigone-themed but with unexpected partners, interesting settings, and interrogative dialogue.
+
+James Jules, her Creon, asked her out one evening. Eppie had stared at the boy like he’d spouted a new head before realising that the request was age-appropriate, and that the boy was both taller and older than she was. She rejected him, of course, citing that she had only art on her brain and that Sony’s work was forever demanding her full attention. The boy walked away dejected, but bounced back the next day as a more sombre Creon.
+
+Cooper’s lessons became more enjoyable. She looked forward to every lesson with her co-conspirator as much as Apple’s CEO looked forward to quarterly earnings calls. With Cooper’s help, her acting was improving step by step. The last four lines were no longer a problem. They were in sync; they understood each other now.
+
+Min-jun had become an apt rig-jockey, partly because [Love the Light] taught the young man exactly where to point, whether supernatural or not, or because he simply got used to doing things the right way. Unfortunately, when he had several mishaps with Madison, it would seem that Eppie’s earlier hypothesis held more weight than the latter.
+
+Susan Tyker joined them at the Playhouse whenever she could spare the hours. She brought in trial costumes and took notes as the students tried them in scenes. She would watch for ten, twenty, sometimes thirty minutes without saying a word, then take more notes. She would speak to Cooper in private after, making Eppie wonder when Cooper would inform her that indeed, Tyker was now in the fold of their conspiracy against William.
+
+The following Monday, she ran into Simone in the same way she had run into Valorie.
+
+The meeting was inevitable, in a way. She lived in the new dorms; Simone lived in the old college dorms. At some point, with her jogging, they would meet face to face, leopard to gazelle.
+
+“Simone!” Eppie had called out when she jogged close enough to tackle the girl.
+
+The gazelle girl leapt a full meter to the side, landing halfway in the bushes.
+
+Before Eppie could get another word in, the girl ran like the wind.
+
+Eppie watched her run, observing the careful economy of someone taking up as little of the path as possible. It was a marvel, in a way, because Eppie herself jogged like a bulldozer, with every encounter parting before Sony’s golden goose, the composer of the yet to decline No.1 on the Hot 100.
+
+She did not seek out Valorie or William, but they met now and then as well. William had his abode deep in the Old Music Building, and Valorie in the Whitman’s Theatre. Between the Dorm and the Playhouse, they made a four-way intersection.
+
+Valorie was cold as always, her expression between disgust and annoyance.
+
+She did not like the look on William’s feminine face at all; every time he called out “Eppie!” she could see the leer of someone lean and hungry, like a hyena sizing up a meerkat. She hated the way his pupils slid past her face and down her chin, even though she had nothing of value to oogle, unlike Valorie. She also loathed the way his fox-like eyes lingered on the small patches of bare skin between her top and her training bottoms.
+
+He teased her, one remark at a time, probing her weakness.Flirting with Eppie?
+
+Did he even know that Mio was carrying his child? Did he even know that she had found out how Eppie died?
+
+It really was as the OG Mage once said:
+
+As with age his body uglier grows, so his mind cankers.
+
+Eppie smiled and played the timid waif, fleeing like Simone whenever they met.
+
+I will plague them all, even to roaring.
+
+One morning, during Yoga, while in downward dog, Halle asked her what it was like to have Umbrella on a perpetual loop somewhere around the school.
+
+“Eh… honestly?” Eppie said while dogging. “It’s not even my song. I didn’t submit the lyrics they ended up using. It’s theirs now; I am just the starting point. The only part that’s 90 per cent the same as what I handed over was the chorus.”
+
+“Does that upset you?” her roommate asked, her eyes glimmering.
+
+“Not really,” Eppie changed positions. “Pop songs are a means to an end. It's entertainment, and if someone out there is deriving joy from what I managed to pull out of thin air, who am I to judge how it's manifested?”
+
+“Wow,” Halle, her closest fan, exhaled loudly. “So philosophical! Are you really a year older than I am?”
+
+“Mentally?” Eppie scoffed. “Sweet child, I am old enough to be your mother.”
+
+Twice, she caught Armand wandering and managed to trap the artist long enough to have lunch. The boy had lost weight, and there was a bit of Vincent creeping into his eyes and his hair. He remained mum about his artistic vision, however, and told her to visit after her Gala was done. He had something for her and her alone, he said. A work in progress.
+
+Sometimes, at night, she and Zara sat in the music rooms after practice, listening to Zara’s original songs and her uncle’s Solitude. The girl had real talent, and she was easy on the eyes as well. With her olive complexion, exotic Mediterranean face, and sun-bleached black hair, more people would give her music a chance than not.
+
+On nights like these, Eppie would sit on the floor with her back against the wall and listen, her [The Clockwork Pulse] ticking quietly in her chest, measuring each bar, noting the micro-variations. At the same time, [Perfect Pitch] turned each song into technicolour displays more trip-inducing than microdosing on mushrooms.
+
+Outside, December pressed against the windows, frosting up its hoary panes with the girls' warm, shared breath.
+
+With seven days left til D-day, Eppie ran through the freezing evening, her heated body seemingly immune to the kiss of winter descending upon the campus. What annoyed Eppie more than the cold was the wetness, for December left the path littered with puddles and mud, so a single misstep meant she had to go home and change.
+
+In their Arts Block, the actors were locked into their roles. On this wet, miserable Saturday morning, they had been sent on stage to run the three scenes from start to finish. In the audience sat Costello, Cooper and Tyker, three coffees in hand, pens and papers in the other, making notes.
+
+“Pass,” Costello had remarked to the students, Eppie included, for Theatre was an Ensemble. It was group work. Her artificial brilliance, blessed by [Causality], could not make the others gel with her overacting or underacting, and she could not simply match their output because she lacked the skills and the [Traits].
+
+She had even spent another 4023 [Causality] to no avail. The [System] had given its gifts for the time being, and it was preparing itself for whatever came next. Did this mean that she had to resolve Eppie’s karmic threads before there was more progress, more [Potential]?
+
+When she checked her progress at night, she became genuinely unnerved.
+
+[Causality: 213000]
+
+It was a very threatening number. A foretelling number, considering more [Causality] was trickling in. She knew the upkeep of her life was gradually increasing, and the excess should assure her—but when had the [System] ever simply been kind? It was a penance [System], not a [Karmic Easy Mode].
+
+What of her [Potential]? She had mulled over it, night after night, too suspicious to spend her capital haphazardly.
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+20
+
+Athletics
+
+213000
+
+Agility
+
+20
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+33 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+20 / 28
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS :: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] Inactive :: [Weak Willed] [Demure] [Fearful]
+
+With so much [Causality], she could push [Charisma] toward 30. She could likewise push [Comeliness] toward 30, dwarfing the allure of Valorie, the figure of Simone, and the sun-tanned exoticism of Zara. If she pushed [Strength] to 30, would she become herculean? Was her ultimate role to become a superhero, saving people from runaway trains for [Karma]?
+
+She somehow suspected the [System] wouldn’t allow it, for if it did, it could easily grant her atonement through the most protean resource in the modern world. Money.
+
+What else could [Causality: 213000] purchase? A Beatles classic? Toto’s Africa?
+
+Next year, in 2008, there were events aplenty on her bingo calendar. The GFC in September, assuming things ran parallel. And the election of a once-in-a-lifetime African American President, a symbol of audacity and hope, in November
+
+Was this why she had to accumulate [Causality]?How the hell was she going to stifle the GFC if she couldn’t profit by pre-shorting the living shit out of Lehman and Morgan?How was a student in LA in any way re-negotiate a historical landslide victory?
+
+SPLAT—!
+
+Eppie hissed. Her pants were ruined. She really shouldn’t run in the dark, while staring at that damn floating text box.
+
+Wet and filthy, she felt truly unnerved.
+
+Just what great beast, its hour come at last, slouches toward Bethlehem?

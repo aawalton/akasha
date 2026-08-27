@@ -1,0 +1,227 @@
+---
+id: d871ef9f-d77c-51d7-a34d-e9dd04e2990f
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 615 - Right to Business"
+slug: 0117-chapter-615-right-to-business
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 117
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2619578/chapter-615-right-to-business"
+royalRoadId: "2619578"
+markedReadAt: "2026-06-29T19:39:02.686Z"
+---
+
+Tala and Rane sat with their daughter as the caravan circled up for the night. There were already magical lights strung through the trees around long tables of laid out food. The passengers were streaming out of the wagons that were in proper position and moving through the food lines before grouping up in various sized smaller gatherings off to the sides.
+
+Terry was doing loops as the caravan settled in, ensuring that the last movements didn’t draw anything too powerful, and the Talons were moving through the camp, keeping the peace when there was the occasional scuffle, and ensuring nothing cropped up within the nearly finished wagon circle.
+
+Lea was staring at Tala’s left arm… well, the stump of it. “That’s so weird.”
+
+Tala quirked a smile, disliking how calm she felt about the whole thing but not willing to purposely make herself freak out. “Explain what you mean.”
+
+“I remember you having a left hand, but the absence… It doesn’t feel wrong? It’s creating an odd dissonance in my mind, and I don't like it. The whole thing just makes me feel uncomfortable, like when someone stares at me too long.” She shuddered. “It’s just weird.”
+
+“Yes, you said that.” Tala fought back a small smile.
+
+Rane cleared his throat. “For me, it’s almost the reverse. It’s like someone is telling me it's fine, but I know it’s not. I both remember your hand, and it being missing feels wrong, but it’s like I shouldn’t feel that way.”
+
+Tala gave a slow nod. “Maybe a combination of your advancement and our soulbond?”
+
+“That could be, yeah.”
+
+She looked down at the stump of her left arm. “I don’t even know how I lost it. I assume it was the smiler, but I didn’t feel anything at all. It wasn’t like when I lost my legs in the Doman-Imithe last time.”
+
+“-Yeah, I try to keep a close monitor on our health, especially in hostile situations, and I didn’t notice it disappear at all. Even going back through our memories, it is really difficult to pin down when it vanished, because there was no change to our physical state. It simply wasn’t there, as if it had never been.-”
+
+Tala grimaced. “I hate to think what would happen if someone was completely consumed in that way.”
+
+Rane shook his head. “I don’t think that you could have been.”
+
+That brought her full focus. “Oh?”
+
+“Think about it. Even Anatalis said that your soul is special, it has a weight beyond even that of most Paragons. I think this effect came about as an odd combination of Void and Reality, though I could be wrong. Regardless, I think you lost as much as it could take.”
+
+That… that was somehow both comforting and horrifying. “So, if it could have killed me, I’d be dead?”
+
+“Likely? Yes. There’s also your bonds to me and Terry. I think that gives your existence additional weight. Though, in this case, I’m theorizing. It lines up with what we’ve learned about such things, but I don’t know how often people have the weight of their existence so tested.”
+
+Tala grunted, but then slowly nodded. “I can see that. So, another person… or me as a Fused?”
+
+He shrugged. “They—or you—would be utterly gone… in theory.”
+
+Tala’s gaze kept flicking down, but it was becoming harder to see it as something that needed to be fixed. She growled. “Okay. Let’s fix this.”
+
+She closed her eyes and focused on her magic… but she didn’t know what to focus it on. There was no wound, nothing to heal.
+
+“Fine, this will be… unpleasant.” She pulled out Flow and sheared off the end of the stump before she could change her mind. It hurt, of course, but her authority and mastery over her iron in her blood meant that it didn’t even bleed, at least not in any normal way. Instead, arcs of blood connected the pathways that had been cut, allowing blood to flow as it had.
+
+It was effortless to fill her regenerative scripts with power and… the stump healed over. “What the rust?”
+
+Lea looked mildly horrified, but Rane was grimacing in determined understanding. “It heals by following your internal map. It seems that’s been changed, too.”
+
+“That makes no sense. Injuries don’t change a person’s blueprints.”
+
+“But that’s not an injury. Instead, it’s something else.”
+
+Tala growled, cutting free the end again. This time, she meticulously began rebuilding the hand, just as if she was creating her iron-self.
+
+The first step was sending the blood through all the paths that it would have taken had she had a left forearm and hand. It took nearly an hour, during which Rane sent Lea to get food from their sanctum.
+
+The girl only vanished for a couple of minutes before returning to the superficial with three laden plates.
+
+When Tala finished the circulatory system, she wove the magics around it with raw power. She only broke focus—and then only slightly—to take bites of the food Lea had brought her.
+
+Finally, she connected the last of the spellform pieces for her regenerative magics. She’d even done her best to ensure that the magics would take the blood flow into account and try to mirror her right hand.
+
+“Here it goes.” Rane gave her an encouraging smile, and Lea leaned forward.
+
+Power rolled through the magics, and Tala’s reserves gave up the material needed. Her left arm reformed all but exactly how it should have been.
+
+Rane let out a breath of relief, but before he could say anything, Tala retched. “Oh… That’s… that’s so strange.” She retched again, her anti-vomit inscriptions enacting for what felt like the first time in ages. “That feels so wrong.”
+
+The fingers were twitching—almost writhing—in unnatural ways, completely out of her control.
+
+“It’s like I tried to grow an extra hand out of my shoulder.” Tala tried to focus, bringing calm to her mind, but her body just felt wrong.
+
+-I’m doing my best to take in everything, bear through it as long as you can.-
+
+I’m trying!
+
+Losing the whole arm to the leshkin juggernaut hadn’t felt this awful, this strange, this wrong. Moreover, even though every connection was exactly right, she couldn’t control the limb. It was like her mind just wouldn’t send the proper signals despite her magically forcing exactly that.
+
+It didn’t matter.
+
+She stuck it out for five minutes, Alat examining every part of her in every way they could think of for the entire time.
+
+Finally, Flow snicked back into Tala’s hand, and she lopped off the offending addition. It healed over in an instant, a stump once more.
+
+Tala shuddered in almost overwhelming relief.
+
+Rane caught the hand before it fell to the ground, waiting as Tala pulled the blood from it and drawing it back into herself.
+
+With that done, Rane willed himself into the sanctum, taking the hand and placing it in a container before returning.
+
+When Tala gave him an inquisitive look, he shrugged. “It might be useful for others to examine it themselves as we seek a solution.”
+
+That brought a smile to her lips. “Thank you, Rane.”
+
+“Of course.”
+
+“-I’ve packaged all the information I gathered and sent it over to Mistress Ingrit with a high priority. Hopefully, we’ll be able to find a resolution sooner rather than later.-”
+
+Rane smiled. “Thank you, Alat.”
+
+“-Of course, Rane.-”
+
+Lea took her last bite, dabbed at her mouth with a napkin, then spoke into the growing silence. “So, momma?”
+
+“-Yes, dear?-”
+
+“Are you going to tell me how awesome it was that I killed one of them?”
+
+Alat sent a wave of irritation toward Tala, then sent an audible sigh, flexing the air around Tala just as she did to produce her voice. “-You were very brave, yes, but I think it important to tell you—as I am sure Tala would have already under more normal circumstances—you didn’t kill that creature, and had your mom not actively intervened, it would likely have hurt you quite a bit.-”
+
+Lea frowned. “But… What?”
+
+Tala groaned, turning her focus to her food.
+
+Rane gave a half smile. “Let me convey it, if I can. Is that okay, my love?”
+
+She nodded gratefully.
+
+He then went on to convey what Tala had been doing leading up to the death of that first hyena.
+
+Lea deflated just a bit, but she understood the truth of it.
+
+Tala then leaned forward, placing her hand on Lea’s knee. “We are still very proud of you. Those you were with were in danger, and you chose to put yourself in the way for their benefit.”
+
+Rane nodded. “It wasn’t the wisest choice, but it was one worthy of praise nonetheless. It reveals aspects of your character that we are so grateful are within you.”
+
+Lea smiled a bit at that. “So, a bad thing, done for a good reason?”
+
+Tala nodded. “Exactly. It’s a sad fact of life that much of the bad that there is in sapient society exists because people are trying to do good, but don’t understand all the effects their attempts will cause. The fact is there nonetheless. But that isn’t the point. We are proud of your heart in this situation and the fact that you put others before yourself.”
+
+Rane then put on a mock severe expression. “But we still need you to be safe, young lady. The Talons are more resilient than you and able to heal much more easily. They are supposed to protect you, not the other way around, at least not yet.”
+
+Lea sighed, looking down for a moment before nodding. “I hear you, dad. I know that I was supposed to retreat, but I felt, deep down within my core, that I was meant to fight, and I didn’t want to pull back.”
+
+“I can understand that, Lea. Our instincts can be powerful things, but they need to be channeled appropriately. We are not beasts to follow every whim, passion, or desire.” His expression softened, then. “But truly, for a first true clash with something out of your depth? Well done.”
+
+Lea got up and went over to sit beside Rane, leaning against him as he put an arm around her. “Thank you, dad.”
+
+Alat informed Tala about a rather strained back and forth with Mistress Ingrit as the woman apparently came up against the oddity of Tala’s… change. She could conceptually see what Tala wanted help with, and she would even acknowledge that most people had two hands, but the woman was also seemingly uncertain at some level why Tala would want to have two hands.
+
+It was further complicated by the fact that the Librarian was obviously aware of the cognitive dissonance involved in all of that. The result was a stance of deep fascination with the idea, and the start of a somewhat horrifying rabbit trail.
+
+As it turned out, there were other cases of ‘non-standard’ humans who had never sought or been given healing, and those around them never saw anything odd in. The specifics put Rane’s theory to the test as most were mundane, and they had not been removed from existence outright.
+
+Also, Alat was certain to point out that all told, there weren’t more than a hundred that they could find throughout the cycling cities.
+
+That brought up the idea that the injuries could have come from other sources, and were simply similar in type.
+
+All told, this was, apparently, the avenue that Mistress Ingrit came up with as a way of combating the oddities around seeing an issue with Tala’s change.
+
+There were a series of non-standard humans who seemed to have an odd effect on those around them. There was no way under the stars that Mistress Ingrit wasn’t going to get to the bottom of this.
+
+On Tala’s side of things, she found it frustrating that even her own mind didn’t like conceiving of the lack of a left hand as an issue. Thus, her focus often simply slipped off the topic, moving toward other, ‘actually important’ things.
+
+Finally, she shook herself. “Rane?”
+
+“Hmm?” He was taking slow sips of his tea while watching the caravan and enjoying the forests around them. “Yes?”
+
+“Can you take full watch? I want to ask Lisa about this. I’ll want to ask you about your own success against the shadow hyena when I get back, but I don’t want this to fall to the side.”
+
+He nodded. “Sure. That’s probably a good idea.”
+
+Lea perked up. “Oh! Can I come? He asked me to dig into a topic, and I think I’m ready to discuss it with him.”
+
+Tala hesitated a moment, then shrugged. “Sure, but I'll talk first.”
+
+“Sure thing.”
+
+Rane chuckled and shrugged. “I’m alright with that. Take all the time you need. I slept last night, so I’m good for the full span if you need.”
+
+“Thank you.” Tala leaned in and gave him a quick kiss. As she pulled back, Lea was there, hugging them both.
+
+“I belong here.”
+
+Both Rane and Tala chuckled, hugging each other and their daughter.
+
+A moment later, they pulled back, and Tala willed herself and Lea to the fox-kin neighborhood.
+
+More than two dozen archways of various makes and materials spread out before her, each with their own little yard.
+
+Younger—or at least more normal seeming—fox-kin were walking about or even chatting with their fellows, but when Tala and Lea arrived, they all turned and gave slight bows or nods of acknowledgement.
+
+As they were all returning to their various activities, Lisa’s redstone arch was suddenly filled with a door, which swung open on its own. The fox-kin’s deep voice drifted out. “Come come, Eskau Tala, Miss Lea. I can see we have much to discuss.”
+
+Lea glanced to her mother, and Tala smiled. “You heard him.”
+
+Needing no further prompting, Lea led the way through the door.
+
+The door closed behind them before twisting starward and disappearing from alignment with the space.
+
+The three were then in a sitting room that Tala had only visited a few times before. Tea was steaming from several teapots, and Lisa stood before his chair, one of only three in the room.
+
+He gave an appropriate bow. “Welcome to my home. Tea?”
+
+“Yes, please.” Tala moved forward, taking in four walls, each featuring a wide window that displayed on various scenes. She froze after taking three strides when she noticed that one looked out at the Doman-Imithe.
+
+The window seemed to have some sort of filtering, because what she saw wasn’t quite the maelstrom of madness that she was expecting, but it still, unmistakably, featured a large, stone-encased eye in the exact center of the view.
+
+There were no smilers in sight, but the simple view of the location caused Tala to grimace. “So… does that mean you were watching?”
+
+“Hmm? Oh, of course not. I’m not all seeing, nor all knowledgeable. I simply have that window tuned to provide a view that will enhance the discussions to be held in this room.” He glanced at it, seemingly taking in what it showed. “So, you had problems in the Doman-Imithe, it seems? That will be quite the discussion indeed.”
+
+They all sat, and Lea poured herself some tea.
+
+Lisa glanced toward Tala. “Shall I give you a hand?”
+
+Tala gave him a flat look before holding up her stump. “I would be grateful if you did.”
+
+Lisa frowned as he looked at the raised limb, his eyes seeming to unfocus for a moment. “Ahh… I see why you have come, then. Shall we get right to business?”
+
+Lea took a quiet sip, and Tala nodded. “Yes, please.”

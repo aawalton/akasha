@@ -1,0 +1,199 @@
+---
+id: 80c2205e-90a2-5b23-a36c-5672a5552e4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 647 - Back to Howlton"
+slug: 0151-chapter-647-back-to-howlton
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 151
+ownLength: 2936
+unit: words
+ownProgress: 2936
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2841257/chapter-647-back-to-howlton"
+royalRoadId: "2841257"
+markedReadAt: "2026-06-29T19:39:54.236Z"
+---
+
+Tala reveled in the warm light of sunrise as she sat on her throne within the sanctum.
+
+Before her, a large panel of stone showed the world outside as her flying construct zipped forward.
+
+Rather than opening a portal within the flier as an anchor, Tala had effectively attached her star- and stoneward bodies on either side of the vehicle, her web of authority and power shaping existence to remove all but the faintest ripple of their passing, despite their insane speed.
+
+One of the primary reasons that such was possible was because most of the gated were effectively locked away in the linked expanded spaces, hanging in the void, thus technically not moving, at least not due to the flier’s movement.
+
+She still had to deal with the two aspects of her own gate, which were respectively attached to her two manifested forms, but as that power was contained entirely in iron and used to the fullest, rather than simply flowing free? It was a minimal concern.
+
+Rane and Lea were taking a father-daughter walk on a circuitous circumnavigation of the sanctum, each enjoying a selection of breakfast-themed hand pies that they pulled to themselves one at a time at need.
+
+Tala’s own breakfast was laid out on a table beside her on the dais, and it was trivial for her to will any part that she wanted to her left hand. Her right hand held a glorious, massive, black mug of dark coffee.
+
+They were already halfway from Bandfast to the southern forest, and they wouldn’t be stopping until they were past the Leshkin patrolled areas as no one had been quite certain how they or the Forest Spirit would react to a Reforged Tala in the area. Even flying over might be an issue, but since she was slowly guiding the flier higher, trying to reach at least a thousand feet, the experts-that-be seemed to think that it shouldn’t be a problem.
+
+The view was breathtaking from up so high, reminding her of their visit to Sunnyvale in the Wandering Wilds to the north. That city had floated many times higher than she was planning on going, but it still reminded her of that time.
+
+I can’t believe how long it’s been.
+
+-Indeed. You and Rane have been married a good long time, now.-
+
+She grinned. True enough.
+
+They had been coordinating with Howlton via messengers since her advancement, and the moving city should be in the southern region—roughly along their intended path—to allow for them to drop through, even if only briefly.
+
+Tala had been tasked with talking with Head Pareshti to ask a favor. Apparently, Howlton was one of the most well defended of the minor settlements in the Wandering Wilds. The larger ones came with centuries of diplomatic baggage, and most of the small ones would be overwhelmed if anyone of true power were to even pass through, let alone actually visit.
+
+Howlton, though? It had remained out of regional politics and was strong enough to not be overwhelmed.
+
+As such, Tala was to ask if Howlton would host a summit of sorts between gated humanity and the Major Houses once the news of the Black Legion had been revealed.
+
+Tala wasn’t exactly forbidden from telling Head Pareshti about the Black Legion, but she was supposed to be discreet about it. So, she had to hope that he was open to hosting and able to schedule what most would see as an ‘unspecified’ event with powerful gated humans and Pillars and Eskau of Major Houses in attendance.
+
+He would be able to reveal knowledge of the Black Legion before the date was set, but the secret was still to be a closely guarded one for the moment.
+
+-Worse case scenario, Master Grediv said he has a pilfered hold left that could be set up in the Wandering Wilds as the meeting place.-
+
+Yes, nothing says cooperation as clearly as meeting within the spoils of conquest…
+
+-Indeed.- Alat seemed to consider for a moment. -You know what? Given the historic attitude of the Major Houses, I still do think that it might be a pretty good opening state for gated humanity. But they dismissed that already, I suppose. If it worked it would be great, if it didn’t it could blow up in our faces rather dramatically.-
+
+Indeed.
+
+It took less than a day to reach the southern forest and to pass over it completely.
+
+Several powerful presences turned their attention toward the flier as it passed overhead, but none attempted to interfere with its path, leading to a rather uneventful first leg of their journey.
+
+Trees behind them, and plains all around, Tala had to trust in the location indicated by their last messenger from Howlton. The village’s defense were rather powerfully geared toward stealth, after all.
+
+There were reality threads leading all over the place, and Tala might have been able to trace one to Head Pareshti, but with their personal interaction being so brief, she wasn’t confident it would work. There was also the fact that reality threads didn’t always follow physical rules, or follow a direct path between the things they were indicating connection between.
+
+In the end, the sun was just beginning to set—sitting like a fat fireball on the horizon—when the flier unexpectedly pierced the obscuring magics of Howlton.
+
+Even Tala was taken by surprise by the sudden appearance of the town, and she exerted her will and authority to jerk the flier to a halt at a non-threatening distance.
+
+“They’ve upgraded their cloaking.” The realization brought a grin to her face. That was good, if they were going to be the neutral grounds for such important talks, they would need to be seen as competent in their own rights.
+
+Rane grunted from the throne beside her, glancing up from his book. “Oh!” He took in the image of the town—as it slowly walked along through the plains—projected on the large slab before him. “I didn’t realize we were here already.”
+
+The ground had the usual groups swarming about, gathering things like grass, sand, and rocks while leaving unwanted materials. After that, other groups were coming behind—mostly with magic—to remove all traces of recent passage or other activity.
+
+Tala mentally checked and found Lea engaged in a one sided beatdown with Terry… Lea on the side being beat down, of course, regardless of Terry’s care to keep his blows non-damaging.
+
+The girl was apparently attempting to train stability and battlefield mobility against the terror bird, which explained why Terry was going as easy on her as he was. He was trying to mimic how others might fight her… while still making sure she knew who the best little murder bird really was.
+
+Tala felt a smile pull at her lips. My little murder bird.
+
+Terry let out a huffing sigh—clearly having felt the sentiment despite being so far away—even as he appeared behind Lea, sweeping her back leg.
+
+Lea shifted balance, pulling in the limb and keeping her footing… until Terry flickered again, knocking out her remaining knee.
+
+Even so, the girl only fell a couple of inches before her magics kicked in, absorbing her downward momentum and allowing her to get her feet back underneath herself.
+
+Tala almost left her to it, but then she decided to give the girl the choice. Tala created her own voice in the air near to Lea, but not so near as to cause alarm. “Lea, we’ve arrived at Howlton. You are welcome to continue training, but if you want to join us, you should do so soon.”
+
+Lea hesitated a moment, then nodded, straightening and bowing toward Terry. A moment later, she had willed herself into the river, diving in to clean herself off before she appeared beside Tala and her father, already seated in the chair that was positioned near those of her parents. Her eyes fixed on the screen before them, and she grinned. “So, that’s Howlton, eh?”
+
+The structure of the town towered into the sky toward them, easily a few hundred feet from its foundations to the tallest tower. The whole thing was ambling across the landscape on six long, almost delicate-seeming legs, which stuck out from the foundations of the compound.
+
+Tala grinned, feeling a wave of nostalgia that felt entirely misplaced when she considered it. She’d only seen this place once, more than a decade previously, but even so, it represented something to her.
+
+This was the first group of people that she’d come across after escaping Platoiri. These were the first people who had known her as Tala after so long imprisoned and forced to wear the guise of Tali.
+
+Now, she was returning to Platoiri, but she would remain Tala.
+
+She returned with the power and backing to remain free and to even come out ahead… she hoped.
+
+Drawing her focus back to the matter at hand, it was clear that they had been seen by those below, even if all they would seem to be was a small flying construct. Or Head Pareshti saw us and notified his people below.
+
+Either way, it amounted to the same thing. It didn’t really matter, as Howlton had been expecting them. So, when a bright green light shone their direction in the prearranged signal, Tala moved forward without hesitation, bringing the flier in for a smooth landing—despite the slow rocking of the walking village—near a blank wall that had been prepared for them in the market district of Howlton.
+
+Tala immediately drew a doorway of iron onto the superficial, connecting it to Irondale’s smaller gate as Howlton’s market wasn’t set up for wagons within the market. Because of that, anything larger than the overlarge double doors would be a bit out of place—not to mention a bit rude—and this was meant to be a friendly visit.
+
+Alat notified their passengers, and moments later, the doors opened, and the residents of Irondale made their appearance, meeting the greeting party from Howlton that had gathered in preparation for them.
+
+In all the tumult and organized chaos, it was trivial for Tala to will the flier into its bay in the sanctum. With that done, Alat dismissed the display of the superficial, and Tala stood, regarding her family. “Shall we go?”
+
+Lea hopped up with excitement evident in her movements as much as across her face, Terry flickering to her shoulder from only the stars knew where he’d been waiting, and Rane simply nodded.
+
+“Alright then.”
+
+A breath later, the four of them were on the superficial, their arrival lacking anything to mark it, allowing them to go essentially unnoticed by the standard folks in the market. Even so, there were clearly a few who had been watching for them, because a moment after they appeared three arcanes and four humans were before them.
+
+Their leader, a burnt orange hue-man, bowed, his companions mimicking him to a greater degree. “Greater Tala, it is a pleasure to have you visit us once more, even though I was not a citizen when last you graced Howlton’s halls.”
+
+Tala gave a shallow bow in return, Rane deferring a bit more, and Lea bowing nearly double in the presence of the Honored man.
+
+It was interesting, the green aura was decidedly impressive, especially in these lands, but it just seemed less than impressive to Tala’s skewed perspective. Head Pareshti is only Honored, so this man is clearly someone of import.
+
+His companions all had yellow auras—even the one gated human among them, which was impressive away from the cycling cities—and the Honored would have greatly outclassed Tala the last time she’d been through, but that was no longer the case.
+
+-I don’t think they had anyone of this power last time.-
+
+Yeah, I was just thinking that, or they didn’t feel the need to bring him forth… Well, he said he wasn’t a citizen before, so maybe he was out on a mission trying to earn that, or he’s joined this village since.
+
+-Any of those could be, yeah.-
+
+“Thank you for the warm welcome. I know that our merchants were quite excited to engage in a bit of trade.” They all briefly glanced toward the barely organized throng of people coming and going through the portal into Ironhold. Tala grinned, looking back to the Honored among them. “It is an Honor to be met by such as you.” She bowed again. “Is Head Pareshti available? I know that we did not specify an exact meeting time.”
+
+The man bowed again. “Head Pareshti is free and awaiting you above. I am Honored Brandgul, and I will be your… escort for the term of your stay.”
+
+Tala smiled at that. They both knew that ‘guard’ or ‘minder’ would have been both more accurate and more misleading terms as there was basically nothing the man could do to protect her, nor to stop her, should something come up. After an assessment of his magic, she had no doubt that Rane could defeat him easily as well, but as Honored Brandgul’s power seemed bent toward large scale environmental management, she suspected that he was more of a functionary than a warrior regardless. “That will be more than acceptable. Does your market have hours of operation? I know that with sunset upon us, most would be heading home under normal circumstances.”
+
+Honored Brandgul smiled in return. “Only by convention, not law. I suspect that those conventions will be ignored this night. Your plan is to leave in the morning, correct? You asked for a simple way-stop on your trip?”
+
+Tala nodded. “Indeed. We are expected in Platoiri by noon, the day after tomorrow.”
+
+He stiffened slightly, but to his credit, he showed no other outward signs of distress at that. “It seems that Head Pareshti spoke truly if gated humans allow themselves to be expected in such a place. Things are changing indeed.”
+
+Her smile softened. “We can hope, for all our sake.” She then glanced over to where her family were waiting patiently. “But where are my manners?”
+
+She introduced her family members, and Honored Brandgul reciprocated, pointing to each of the six with him in turn.
+
+That done, the eleven moved off toward the stairs up to the top of the moving town.
+
+Tala looked around in true wonder, even while keeping her eyes mainly straight ahead. It was exactly how she remembered it, if a bit older, repaired in places and expanded in others. Yet, even so, it was marvelous to behold.
+
+While there were only two holds—the village core she’d learned of last time and one that seemed to be newer, based on what little she could make out of its contents—they were rather large, and she was reminded that the non-hold facilities were almost entirely for the gated among Howlton’s citizenry, which was the vast minority.
+
+Still, there were more than a thousand gates in the near region. Tala knew that some would be inheritances—the recently passed gated who chose to remain to provide power to their descendants—but most would be gated humans, simply living their lives away from the majority of their kin to the north.
+
+Tala felt a moment of conflict within herself. She was their kin, even if so far removed as to make the connection effectively meaningless. Even so, she felt kinship to these people, and she knew that the Major Houses often hunted among the towns of the Wilds for their vestiges.
+
+That needs to stop.
+
+-It is on the list of demands for truly peaceful coexistence, and even for any temporary alliance in order to face the Black Legion.-
+
+If it depends on the second, the reprieve will be temporary as well.
+
+-True…-
+
+Tala grimaced briefly before she mastered herself and moved on.
+
+Every member of their escort stole glances at the four who moved in the middle of the group, those following being less tentative, as made a bit of sense.
+
+Still, they all seemed more focused on Lea than even on Tala or Terry.
+
+Tala had warned Head Pareshti, but she didn’t know if he’d informed his populace. Hopefully, he’d at least told their escort of her nature.
+
+Whether he did or not, they were professional enough to keep their thoughts to themselves in regards to the clearly odd girl—maybe a hue-folk, maybe not—with her gate in her head. Depending on the quality of their senses—and what they were focused on—she might register as either Bound or Refined—maybe both—due to the power of some of the scripts on her body.
+
+The most construct-like parts of her might just look like magical implants of incredible power, at least that’s what the Constructionist Guild told us.
+
+-Indeed. In this case, it is a bit of a curse to have such good perception that we cannot see or understand what lesser sight would tell us.-
+
+Isn’t that the truth.
+
+Regardless, the trip up through the interior of the town was uneventful, save Rane and Lea’s occasional question and frequent exclamations of wonder.
+
+Their escorts answered each question with patience and obvious knowledge, leading to a pleasant little walk over all.
+
+Finally, they reached a tightening of the curve of the stairs, leading up to Head Pareshti’s command room.
+
+It was time to see if she could get some buy-in for someone of power.
+
+-No pressure. See this as a practice run for Platoiri. He already likes you after all.-
+
+Right, no pressure. If this fails, we have other options.
+
+Tala smiled, took a deep breath, and started up the final stairs at Honored Brandgul’s direction.
+
+The real work was about to begin.

@@ -1,0 +1,95 @@
+---
+id: e9a9bc25-9b6c-5a92-8d62-a10da16c87ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135 ...Prepare for War"
+slug: 0148-chapter-135-prepare-for-war
+partOf: melody-of-mana
+position: 148
+ownLength: 1990
+unit: words
+ownProgress: 1990
+publishedAt: 2022-05-11
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/904753/chapter-135-prepare-for-war"
+royalRoadId: "904753"
+markedReadAt: "2026-06-29T22:30:57.434Z"
+---
+
+Rooke
+
+I walked along the halls, not that there were all that terribly many. This facility had never been designed for a lot of people, and as such was quite small. It traded comfort and size for the fact that it was also quite secret. Its general was known to the higher ranking members of the kingdom as one of several places they could evacuate, but the exact location was known only to a few. That meant that in theory we would have the chance to see people searching for it before they got here.
+
+In practice it was clear that if our enemies wanted they could send enough men to flush us out, and would likely kill us if they did so quickly enough. It seemed unlikely they would, because of the casualties they would take, but they would win. We were leaning on those odds for now, because we had nothing else.
+
+As I passed by several other rooms for families and the few that had come I passed towards my current project. There was much work to be done on the warding of this location which could turn it into an actual fortress and not a small facility afraid of being crushed. Getting the wards up to snuff was point one on that. It might not matter much if the full might of our enemies came down upon us, but it would at least keep a small force from wiping the lot of us out.
+
+After several hours of slaving over sequence after sequence and beginning the process of forging numerous magical items I was interrupted. "How go things lad." Lorrae asked from behind me.
+
+"Slowly old man, very slowly, is there even a point to this?"
+
+"To a point, in the end we'll have to take the fight to them. We've already seen that a defensive war is not in our favor." He seemed more sullen than he used to be, not joking, or jibing at me.
+
+"That's got to be some kind of joke. You saw their offensive power, if their defenses are anything near it, then..."
+
+"Then we will lose. I'm not saying it's a good gambit, but the only one we have. If we can cut the head off of the beast, then perhaps it's body will begin fighting itself. That's our only play right now. Without an army, without far more people than we have, it's the best we can go for."
+
+"Too many variables." I said, frowning at him.
+
+"I know, but it's the only path any of us can see."
+
+"I'll get back to my work then." I turned from him, grumbling.
+
+"When you're done, we need to start on some offenses too."
+
+"Yes grandfather."
+
+Verren
+
+I sat in the meeting room, side by side with my fellows, all the generals, and most of the advisors, of our fledgling empire gathered for this.
+
+"Greetings gentlemen," Emperor Durin said as he sat down. "Let us begin with the obvious. After our work in both The Empire of Ermath and The Kingdom of Bergond, we've garnered a name for ourselves. We've also made more than a few enemies. General Lenore, if you will."
+
+The woman indicated stood, she was skilled at her art, a monster of a battlefield tactician and supply chain organization, and one of our best. "Of course my Emperor. To our East and South we have the nations of Oronir and Litea, both are now eyeing us nervously and we expect that they will be waiting for our attack. Ermath had a form of truce with them for the past several years, and they're not particularly strong, but it would be a foolish move to underestimate them. If they think we're likely to overtake them, they may act. On our Northern there are a number of small city-states, no real threat, but they may serve as an aiding force for any remnants of our defeated enemies. We believe several are already hiding there."
+
+"We will have to deal with our neighbors eventually, but if possible we should rest to shore up our reserves first. Keep an eye on them for now." Durin declared as he looked out at the rest of us. "And for the remnants we were speaking of. General Verren, what are the goings on in your district?"
+
+I stood, addressing the head of this group. "A few minor attacks my Emperor. Current evidence suggests that they are most likely just individual groups, a few nobles here and there who are displeased about the change in governance. While we aren't discounting the possibility that there may be others behind their actions, we have not found evidence of it yet. The incidents we have had have been... unorganized, messy. I've got men working on it, but the patterns are varied, and not particularly effective."
+
+"And General Klendle?" He asked as he turned to my counterpart.
+
+"Much the same as General Verren sire. There has been some success in capturing some of the wayward princes, but the Ermathi leadership apparently spent all their time trying to make as many as possible. I'm having difficulty figuring out how many legitimate and illegitimate heirs there were and some are bound to slip through. If only by dint of them not being well enough known." He seemed irritated about that, and I truly understood.
+
+"No matter, so long as none tries to make a claim on anything we can capture them as they come. Those you have taken?" He quirked a brow.
+
+"If they are compliant and willingly acknowledge the situation they are being reeducated, as you commanded. Those who try to fight are being disposed of, of course. I will say that there have thankfully been few of the latter." I got the feeling that he didn't really mind killing the youths, but he knew that most of us found doing so distasteful.
+
+"I am glad that there aren't many. Now, onto less unfortunate business. We've seen several proposals on turning over day-to-day operations, of these I think three have merit, one of which comes to us from General Verren's daughter. Let us discuss these, the sooner we can free our soldiers from their holding positions the better." As Emperor Durin spoke servants passed around the proposals.
+
+After a long discussion Emperor Durin finally declared the victor. It was surprisingly Alana who'd come up with the winning bid. There were some changes made to her original proposal of course, on who could stand, what powers they would have, and all of that, but most of it remained the same. We'd run into several points at which the more military minded of our council had disagreed vehemently, but when it was pointed out that none of them had lived in a village they had to concede that they might not fully comprehend the situation.
+
+That decision was only for the smallest of communities of course. For the larger ones the winning bid had come from a panel of advisors in the civic section. Basically the larger cities would be ruled over by a council, each member would be chosen to represent a different section of the city, with a military governor to act as the head and to overrule in case of conflict or tie. I of course would be retaining the position I had in Lithere.
+
+I had to take a gate to return home, followed by an hour long run. I wasn't as fast as I had been in my prime, but I could still easily outpace some of the fastest horses. I'd never get tired of using my strength to push myself like this, the wind rushing through my hair and fresh air almost forced into my lungs by the speed.
+
+My wife met me after I'd cleaned myself and readied for bed. She brought me a cup of the cheap herbal tea that I preferred and sat with me for a few minutes. This might well be the highlight of my day, something I'd missed too often because of war.
+
+"You look tired dear, is all well?" She asked.
+
+"Nothing particularly wrong, just... I never wanted to rule anything, it's taxing. It's a shame we couldn't just live in peace like we used to."
+
+"I know you hate it, but that's why you're right for the job. My heart tells me that you'll never fall to corruption like those damn nobles did, because you never wanted to rule in the first place." With that declaration she kissed me lightly and pulled me towards our bed, it was late after all.
+
+Alana
+
+After spending weeks working through the mass of information Mystien had sent me, along with my own work, I finally had a outline of a ward I liked. Between the normal class schedule, which was still absolutely brutal, and trying to get my core up to the next milestone I had less time than I would have wanted.
+
+I did manage to get to the second level of the core and it was a massive step up. The notes in the Guide seemed to believe this was truly the basic level of what I should be working with for any real magic. It wasn't a small step up, but almost a skyward shot in complexity. My old work could only have held a few lines of sequence here and there, but now, now each could hold several functions, even if they were significantly more complex, that was a huge step up.
+
+This particular item consisted of five total functions. Three were detectors, and two active uses. There was a detection for an on/off switch, turning on either the full function, or the other detectors, depending on what was needed. The other two detectors looked for changes in velocity or in temperature. I'd wanted something better, but the velocity mechanic seemed to be the best way to go about it. Finally the active functions smoothed out either the change in velocity between the user and whatever was approaching, or the change in temperature.
+
+I'd decided to add heat/cold protection because there was no good way to take the cost in mana of running an item constantly down too much. Adding the second function was not a large addition to cost in comparison to just having the damn thing on all the time, and if I was going to have to pay for it, I at least wanted my mana's worth. It 'should' take the worst of any fire or cold based attack trying to enter the protected area. I was sure it wouldn't stop things going out, but it had limits on what it could take.
+
+The velocity warding was not exactly what I'd envisioned, but it would stop arrows, or crossbow bolts, or massive pillars of water from killing me by slowing them down to a fraction of their initial speed. It was imperfect perhaps, but I'd rather be wet than a small red stain on a wall. It also never escaped me that an arrow could end my life as sure as any other human.
+
+I'd shoved them into various pieces of jewelry for myself, Dras, Pinea, Kala, and Charles. I still cared deeply for Kala, even though we now spoke far less. Pinea and Dras had already been targets, so I had no qualms about giving them an extra bit of protection. As for Charles... I'd been a really shitty friend to Charles over the years, and this was something I reasonably could share. There was nothing secret here, just commonly known sequences arranged well.
+
+Once I'd gotten it all ready, I made a test mock-up. I didn't want these out in the wild until I knew it worked, and I knew one professor who would certainly help me run some quick numbers in exchange for the item. After that it would all be a matter of getting the time to make all of them.

@@ -1,0 +1,239 @@
+---
+id: be0eaf5e-fa27-5f0c-9cc1-17c0ee52c0b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 564 - A Wonderous Milieu"
+slug: 0064-chapter-564-a-wonderous-milieu
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 64
+ownLength: 3072
+unit: words
+ownProgress: 3072
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2290237/chapter-564-a-wonderous-milieu"
+royalRoadId: "2290237"
+markedReadAt: "2026-06-29T19:37:20.712Z"
+---
+
+Tala and Rane welcomed each wave of guests as they arrived through the teleport receiving circles in their sanctum.
+
+It was a Karweil family reunion, even if the ostensible patriarch and matriarch weren’t going to be present. Even if they had explicitly not been invited.
+
+The Karweils actually came essentially in age order, which really helped Tala’s mental checklist.
+
+-I’d have been fine either way.- Alat teased.
+
+Of course, so would I, but it still helps. Tala pushed back on her alternate interface, already feeling a bit on edge at the upcoming social obligations.
+
+-Fine, fine. I won’t let you stew, though.-
+
+I know… thank you.
+
+-Of course.-
+
+They were all, yet again, coming straight into Tala and Rane’s sanctum, for ease rather than through any sort of intermediate step. They also had chosen not to use Makinaven’s robust teleportation amenities because it was more private, and it was a bit cheaper, all things considered.
+
+Around the arrival area—in which there were a full four teleportation receiving circles created and recreated at Tala’s will—Tala and Rane had laid out tables with a fantastic spread of light foods and drinks.
+
+Love people with food. It is a method as old as time.
+
+Latna and Caln—along with his wife, Verla, and their children—arrived first, and even though they arrived on separate teleportation platforms, the siblings began arguing almost as soon as they appeared, seemingly picking up mid-spat where they had likely been before transport.
+
+Tala sighed and willed the two to a different part of the sanctum to hash it out, allowing her and Rane to approach and greet Verla and the children a bit more peaceably.
+
+Alat and Kit flexed their will in tandem to refresh the receiving circles, and thus, they were ready for the next arrivals.
+
+Akli and Mita came with their spouses and young ones. As soon as these little ones arrived—adding to those already present—Terry flickered into being nearby, prompting Tala’s siblings, the older twins, to set the babies down for Terry to play with and chase.
+
+Their husbands looked a little uncertain, but they contented themselves with following after, onto the large grass meadow nearby, and keeping an eye on things.
+
+Verla simply smiled at the increasingly familiar sight before turning back to those around her.
+
+Miro likewise arrived with his family; in his case that meant a pregnant wife and three children. Their arrival was the first painful reminder of this get-together that Tala hadn’t been invited to all the weddings over the last ten years.
+
+Even so, she and Rane greeted the family with courtesy and gratitude for their attendance. After the initial exchange, the children immediately saw Terry’s play and set off to join in.
+
+The terror bird flickered around the group, engaging all of them with relative ease, even while occasionally bumping the children to keep them from harm.
+
+Illie, Nalac, Dagan, and Alva all came from their respective masters, all grinning widely upon arrival, only to wince briefly at their loss of now-familiar inscriptions before they recovered and hugged Tala and Rane. It was actually a bit funny how similar their expressions and reactions were upon arrival, even though they came in some few minutes apart.
+
+Nea arrived with her husband, both still seeming so young to Tala’s eyes. Their first child arrived with them. Nea had let Tala know that she was pregnant again, even if her round belly proclaimed that fact quite loudly as well, but Tala wasn’t trying to calculate how obvious such things were, so she let it go.
+
+Tala and Rane both congratulated them, asking how far along she was, how things were going, and generally just doing their best to be sociable and good hosts.
+
+At this point, it was clear that Latna and Caln had settled down a bit, even if they were still frustrated with each other. So, Tala willed them back to the clearing with everyone else.
+
+After a moment of irritation, they each sighed, shook their heads, and turned to speak with the other siblings already there.
+
+Next, Osip arrived in a flourish, bowing as soon as he appeared. “The new graduate has arrived!”
+
+That got a round of laughter and smiles, and even a bit of scattered clapping, as all those already there congratulated him on his success.
+
+Finally, Fedir, Olen, and Sella all came in rapid succession, straight from the Academy too, though not as graduates.
+
+That’s when the gathering truly began.
+
+The first order of business, after officially welcoming everyone—and once again congratulating Osip—was to tell everyone to grab a bite to eat and prepare for shopping.
+
+There was mild confusion as they all drew closer for Tala to explain further.
+
+She was going to give every child five silver pieces and every adult twenty silver to spend in the Makinaven market, or save it if they so wished. The only requirement for the kids was that their parents had to approve of how they used the funds.
+
+Once it was clarified that those who were at the Academy were to be counted as adults, Sella gave Tala a leaping hug in glee. Tala moved with the impact to keep the nearly fifteen year old from hurting herself on Tala’s magically hardened and resilient body.
+
+She spun her sister, laughing a bit before setting her down. “You’re welcome, I suppose.”
+
+Sella just beamed back at her oldest sister.
+
+With that explained, everyone dug into the food, trying to ensure they wouldn’t have to spend any of their funds on filling food unless they wanted to.
+
+Five minutes later, Tala clapped her hands, sending the sound to every ear while keeping it from being too loud for anyone. “Alright. Your coins are in your pockets or pouches.”
+
+Everyone looked down, checking their pouches or pockets and finding her words to be true.
+
+“Now, anything that you purchase, which will not teleport with you, will be sent to where you reside through the caravans. For you Academy students, it will go to Marliweather to await your graduation, at which point it will either be picked up by you, or sent to where you find a master. Are we understood?”
+
+Everyone nodded, though some a bit more hesitantly than others.
+
+“Good. Go!” She clapped her hands again and willed everyone to the superficial, where the Makinaven market awaited.
+
+They arrived with only mild disorientation, but seemed to quickly take in the market that surrounded them.
+
+Only Terry, Rane, and Tala remained in the suddenly empty receiving area.
+
+Tala sagged just a bit, already feeling exhausted by the socialization required of her.
+
+Rane came over and gave her a big hug. “So far so good. This idea really is generous of you.”
+
+As she pulled back after the hug, she hip-bumped him. “Generous of us. You agreed, and it’s your money too.”
+
+He shrugged. “Maybe so, but it was your idea, and you made it happen.”
+
+She shrugged in turn. “I want this visit to be memorable for them. Who knows where Fedir will find a master. It might be in someplace like Marliweather, and we won’t get another chance like this. I doubt most will ever come to another forest city. It’s a unique experience for them, and I want it to be a good one, one that they’ll never forget.”
+
+“Of course.” He smiled, kissing her. “Shall we?”
+
+“One moment.” She turned to look at Terry. “Most of the kids will be with their parents, but can you watch out for the few older ones?”
+
+Her oldest nieces and nephews weren’t quite ten, but they might be allowed to wander off on their own. Terry would help make that a safer choice.
+
+He threw his head back and trilled in agreement before vanishing, having willed himself after the children.
+
+Rane chuckled. “He does so like kids.”
+
+Tala pulled in a long breath before letting it out again in a long exhale, tears briefly welling in her eyes, unexpectedly.
+
+He noticed, turned, and embraced her again. “Oh, my love. I’m sorry. I—”
+
+She shook her head. “No, it’s not your fault. You were just talking. It just comes on sometimes.” She pulled back, forcing a smile across her lips. “Really. I’ll be fine.”
+
+He studied her for a long moment before kissing her forehead. “If you say so, I won’t press.”
+
+She leaned into the kiss, letting out another shuddering breath. “Thank you.”
+
+He held her for another moment more, then tentatively asked. “Are you ready to join them?”
+
+She nodded, then willed them both out of their sanctum.
+
+The market looked like it always did, the addition of twenty-odd people wasn’t enough to create more than some few ripples in the movement patterns of the folk already there.
+
+To Tala’s perception, though, she could see her family like beacons in the night as they hustled from stall to stall, trying various things, buying some and moving on from others.
+
+She hadn’t given any of the babies money, instead adding their portion to their parent’s pockets or pouches, as doing otherwise would have been a bit silly.
+
+That did mean that the young mothers had a bit more to spend, and Tala was quite alright with that.
+
+In most senses, the shopping day was utterly frivolous. Her family couldn’t take anything they bought with them, but the experience wasn’t meant to change their lives. Tala had wanted them to be able to look at the market as buyers rather than just observers.
+
+They could have wandered through just looking, and it could have been fun, but it wouldn’t have been the same.
+
+She knew that such a shift changed how she viewed things, and she hoped to grant that ‘new sight’ to her family. The Makinaven markets had been a wonderland when she’d first been here, and her hope was to recreate that sense for those with her, now.
+
+It was fun seeing her siblings or their spouses able to splurge and buy treats for the kids, not having to consider the cost. It made her heart warm to see the widening eyes as even the adults partook in usually ‘too expensive’ things that were suddenly laid before them, available at their desire.
+
+Rane was able to see much of what she watched, and so when he leaned over and kissed the top of her head, his words held even more weight than usual. “This was a wonderful idea, and you executed it splendidly.”
+
+She snuggled up against him, under his embracing arm, and nodded. “Yes, it seems like it. Thank you, again, for your support in making it happen.”
+
+“Of course.”
+
+Soon enough, their time in the market drew to a close, if they were to keep the schedule she’d planned out.
+
+The family gathered back together in high spirits, only for Tala to reveal the open carriages that she’d arranged to take them up to a restaurant on one of the outer limbs.
+
+It was a merry band of people who piled in, all shouting their gratitude Tala and Rane’s way, waving purchases to show or offer them.
+
+That drew the attention of other family members and a bustling atmosphere of trade sprang up between the beneficiaries of Tala and Rane’s generosity.
+
+Even as the carriages began to move, the trading and cross-sampling continued. Only when a Mage in the front vehicle began acting as a tour-guide—using power to project and carry her words to every ear in the family—did the trading finally slow down, but even then, it didn’t stop.
+
+Up and up they went, their guide providing interesting tidbits about the history and meaning behind various sights, structures, and features.
+
+Once they reached the base of the fifth tier, the carriages turned outward, where the road narrowed a bit as it went onto one of the branches.
+
+Tala felt an internal twinge as she recalled Mistress Odera leading her down this very branch-way. It was a different experience in the carriage, but her memory allowed for an almost perfect overlay of that time.
+
+They’d walked for close to a quarter hour, traversing a bit less than half the branch’s length and steadily sloping upward. The carriages covered the same distance in about ten minutes, all the while providing an easier view out, over the walls and down-set shops.
+
+Just like the last time, there was quite a bit of foot-traffic around them, as well as a few vehicles, but the carriages passed them with ease on the generous road.
+
+Tala revelled in the joy she saw on all her family’s features as they took in the views and enjoyed the open air, along with continuing to chat, sample, trade, and listen to their guide.
+
+They would be walking back along this branch after lunch—and they’d been warned of such—so Tala wasn’t surprised to hear various members noting shops that they passed which were of interest.
+
+It would be a rather slow meander back, it seemed, and that was fine. That could even be said to have been the exact intention.
+
+There was a beautiful teahouse set into the body of Makinaven, beside where this branch joined the trunk, and it would be the ideal place for those who didn’t want to dally to wait for those who took more time on the walk. Tala and Rane had reserved a room in that establishment for just that purpose.
+
+When they reached their destination, the carriage drivers quickly put up flags to notify other traffic as the passengers disembarked.
+
+Rane led the way down a set of stairs to their left. He opened the door into the restaurant without hesitation, and Tala’s family followed him through.
+
+A man with gray hair—well on the way to becoming white—bowed to them as they entered. “Welcome to our humble establishment, Masters, Mistresses, honored guests. I assume you are the party who reserved our lowest room?”
+
+Rane leaned forward and spoke to the man for a moment, after acknowledging that they were, indeed, that party.
+
+“Oh, certainly, Master! Right this way.”
+
+Tala chuckled at the frowns on some of her family’s faces. Thankfully, no one argued as they followed Rane and the older gentleman. They all went down a couple of floors, and Tala saw the hallway that she and Mistress Odera had taken so long ago. A tug at her heart caused some tears to come to her eyes, and she didn’t dismiss them.
+
+Her old mentor was gone, but she would never be forgotten. Truly never—with her perfect memory—so long as she, herself, persisted. In a way, that was an odd kind of immortality.
+
+She let herself remember and smiled at the recollections of her mentor.
+
+Their group went a further two floors down, coming out on one side of a long, open dining room. Both the north and south sides had been replaced with glass or something like it, and the far end of the room—the side further from the trunk—even had open viewing as well.
+
+They were at the very bottom edge of the branch, it seemed, and the views that afforded were breathtaking.
+
+As this was one of the lower branches, there was very little below save open air, reminding Tala of the views from Sunnyvale, of all things.
+
+Mountains were visible in the distance in both directions—more easily toward the north than the south—and the chairs were staggered so that everyone would have an easy view while still being able to interact with those near them.
+
+The long table was set up for communal dining, and so the family settled in, enjoying the views all the while.
+
+Their server came a few minutes later, bringing water without ice for all of them, along with hot tea and the start of their meal.
+
+Empty plates were set in front of each of them and dishes laden with food were set all along the table around them. Rice was in abundance, both plain and fried, and most of the main dishes consisted of variously glazed or seasoned—sometimes both—meats and veggies, intended to be eaten overtop of, and with, the rice.
+
+There were also large tureens of soup with a thin—yet delectable—medley of egg, broth, and greens.
+
+Overall, it was a glorious spread. The only complaints—jokingly given—were that the family wished that they had been warned such fare was going to be offered, so they might not have had quite so many sweets and treats from the market beforehand.
+
+No one was truly upset, obviously, but it started playful comparisons such as, ‘this chicken almost makes me wish I’d eaten one less cream-puff, just so I could fit another bite.’
+
+Each such proclamation began a teasing debate, usually consisting of those who had had the treat in question, either agreeing or disagreeing with the original speaker.
+
+The result was a lot of laughter and good cheer rippling back and forth down the table throughout the entire meal.
+
+Tala and Rane sat at opposite ends of the group, in order for both to interact with more of the family, and to not be drawn into their preferred companionship—that of being with each other—but she still stole glances down the long span at her husband, a smile tugging at her lips whenever she saw him laughing or leaning in to listen intently to those around him.
+
+Terry, for his part, added to the fun by flickering all around the table, as the young ones had realized and renewed Tala’s old game with the terror bird.
+
+They tossed out random bits of food, and Terry caught them. Every. Single. Time.
+
+The parents went out of their way to explain to the kids that this was a ‘one time’ thing, and that they weren’t generally allowed to throw food while at the table, but they didn’t outright disallow it.
+
+Tala was grateful for that, as she wouldn’t have wanted to play peacemaker between Terry and her siblings. As much as he liked them, he was rather fond of the game, and of the littles. It was good not to put those various likes in competition within the terror bird.
+
+For her part, Tala was seated next to Osip, so she plied him with an easy, standard series of questions about his time at the Academy and his hopes for the future, following Master Nadro’s example and doing her best to keep him talking most of the time.
+
+In that way, lunch passed in a wondrous milieu.

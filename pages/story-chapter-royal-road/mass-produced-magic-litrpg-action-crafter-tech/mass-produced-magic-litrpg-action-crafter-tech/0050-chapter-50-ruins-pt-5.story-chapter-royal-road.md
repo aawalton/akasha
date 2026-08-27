@@ -1,0 +1,129 @@
+---
+id: 7c76a643-79f4-5ca0-b791-fac9596510bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 – Ruins – Pt 5"
+slug: 0050-chapter-50-ruins-pt-5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 50
+ownLength: 1941
+unit: words
+publishedAt: 2025-01-23
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2026506/chapter-50-ruins-pt-5"
+royalRoadId: "2026506"
+---
+
+Aika perched on a small stone outcropping. The sound of steps filled the air. She exhaled and held up her spear.  Just buy them time.  Mana flowed into her, surging with power.
+
+[Your level has increased: 10  →  15.]
+
+A smile spread across her face, and she willed updates to her attributes.
+
+[Your speed has increased: 18  →  28.  Current value: 28+20. ]  ‎ [Your dexterity has increased: 18  →  28.  Current value: 28+20. ]  ‎ [Your strength has increased: 18  →  28.  Current value: 28+20. ]
+
+She grinned.  Well, Kindra may not approve, but I’m not surviving if I get hit.
+
+[Choose an upgrade:  ‎ - Heightened Bond: Mana from kills is increased and flows more easily to your bonded.  ‎ - Reduced Bond: Solo kills will slowly advance your level.  ‎ - Severed Bond: You retain half your levels if you sever your bond.]
+
+Well, that’s obvious, but I get it.  She picked the first one, and another popped up. An eager grin spread across her face.
+
+[Choose an upgrade:  ‎ - Guardian Suit -  You may sacrifice nanites to reduce damage to yourself or your bonded. In addition, your bonded may use 50 mana to summon you to them .  ‎ - Infiltrator Suit -  You may go invisible after a minute without attacking .  The invisibility fades after attacking.  ‎ - Evasive Suit. -  Your suit will help you avoid strikes, boosting your speed and dexterity by 15%. ]
+
+She paused to study them.  One’s good for scouting, but I want to fight.  She looked at the other two, and a dwarf appeared below.  I can protect Kindra this way.  She picked the first one and dove, launching herself off the wall with her wings blazing.
+
+The air rushed around her, a soothing, calm stream to her thundering heart. Slamming the spear forward, she slashed it across the dwarf’s throat on the way by. Blood sprayed into the air, and the dwarf gurgled something.
+
+The nineteen others turned. A burst of green light lit the injured dwarf, and Aika zipped through the dwarves, slamming a spear into the robed one in the center. His eyes glowed a vibrant red, blood oozed from the wound, and Aika ripped the spear out.
+
+A large hand swung at her, a burst of stone ripped from the ground, and Aika dove, shooting between his legs. The stone smashed into another dwarf, and she cackled, the sound echoing everywhere.
+
+A hammer swung toward her like a bat. She shot around it, focusing on avoiding the ongoing strikes and stalling. The healer snarled and barked something. Weapons swung, and she wove through them, spinning and twisting like a ribbon in the wind.
+
+A sword swung, and she shot straight up. It blurred next to her head, and she shot upward. A stone ripped out of the wall, crashing toward her. Aika stopped and dropped, falling like a brick.
+
+The stone smashed into a dwarf. He shouted something incoherent, and a group of dwarves burst free, running up the hallways.
+
+Aika hissed.  Damn it.  She flew forward, and an axe swung. The massive thing was as big as she was. It slammed down toward her body, and she reached upward, grabbing the side and twisting over it. Stone fragments and dust erupted around her head.  “Kindra! Incoming!”
+
+Aika launched herself off the ground and flew without her wings. Her spear sunk into a dwarf’s throat. She ripped it free, flew to his shoulder, and used it as a platform, leaping off of it.  I underestimated my strength boost.
+
+With a manic look on her face, she slammed her spear into a large eyeball. It exploded. Fluid and blood rained around her, and she ripped it out while falling to the floor. It rushed toward her. A sword blurred by her head, and she hit the floor.
+
+Rolling, metal crunched into stone. A blade smashed into stone, and she vaulted off the ground, launching upward with her wings blazing. The robes of the caster blurred by. An explosion of sound echoed from the nearby tunnel, and Aika slammed her spear upward.
+
+It sank into the healer’s jaw, pushing further and further into his head. An axe slammed toward Aika, and she shoved off of it, abandoning the spear.  Thank goodness that fairies are fast.
+
+Flying up, she watched blood spray from the healer’s chest. The axe ripped free, and the healer coughed blood, spraying it into the healer. The attacking dwarf looked horrified, and Aika dropped, falling toward the ground and pulling out a short sword.
+
+Flaring out her wings, she swooped and flew up. A large fist swung toward her, and she dropped, hitting the ground lightly before launching herself upward. Slashing at dwarven knees, she blurred by and fell to the ground, blood raining around her.
+
+Landing, she vaulted backward and looked at the healer. Magic gathered around him. The wounds slowly closed, and Aika leapt. She slashed into another dwarf’s knees, sheathed her sword, and grabbed the falling spear.
+
+Dropping toward the ground, a hammer swung toward her, and she flared her wings, vaulting off the hammer and slamming her spear into the dwarf’s eye. It exploded. Fluid rained down, and he screamed, the screech echoing around the tunnel.
+
+He slapped his hands toward his eye, and Aika ripped the spear out, dropping down and slashing at his wrists. Blood erupted around her, and a hammer hit her. The jarring impact spread through her body, and she lurched to the side, flying through the air.  And this is what I love about aerial combat.
+
+Shoving off the hammer, she flipped into the air, and the hammer smashed into an axe.  They’re getting smarter.  She dropped down and stabbed a dwarf on the way by, using her weight to rip the spear out.
+
+The healer barked something. Dwarves turned and ran for the tunnel.  “Kindra, incoming!”
+
+Aika scowled, landed on the floor, and launched herself upward.  How do I kill them with that horrible healer?  She jabbed her spear into a leg, spun upward, and shot toward the floor, ripping the spear out on the way down.
+
+The ground below shifted, going completely flat. Aika flared her wings, and a hammer slammed into her, knocking her toward the stone. Scrambling up the hammer, she shoved off, and the stone surged upward, flowing like loose mud and engulfing her in it.
+
+It hardened, encasing her in stone. Aika wriggled, trying to burst out of the rock.  “Kindra! Summon me!”
+
+Magic surged around her, and a strange pressure built. The dark stone vanished, and she burst into the air, gasping for air and looking up at the stone. A gun barked next to her, booming a wave of noise down the tunnel.
+
+She sat up, looking down at Gleon. He lay there, breathing heavily. Blood trickled from his mouth, and the gun barked repeatedly. Aika stood and turned. Blood burst from the wave of dwarves, and Kindra slammed a new magazine into the pistol.
+
+A rope pulled Gleon upward, and Aika jumped off him. Flying there, she watched a dwarf stumble and fall, blood oozing from his chest.  “Follow him, Kindra.”
+
+Kindra reached out and touched her spear.
+
+[Basic spear has been enhanced with +20 strength to the wielder for 2 hours.]
+
+Aika grinned and shot down the tunnel, her wings blurring behind her. The air whistled through her hair. Bloody dwarves lay on the ground, and a wave of green light settled on them.
+
+With her wings fluttering, she zipped down the tunnel and slashed the spear across necks, spraying blood into the air. Jabbing it into a helmet, she stabbed red eyes and heard shouting.
+
+“Devil fairy!” a dwarf shouted.
+
+Aika ripped out her spear and leapt to the next dwarf, slamming the spear down through the armor and sinking it into his chest. Ripping it free, the ground erupted around her, and she shot into the air, retreating down the tunnel and away from the flowing stone. It cascaded behind her, a river of stone that flowed and splashed along the halls.
+
+Shooting into the tunnel, she shot upward and saw Kindra hauling herself up. The stone behind her flowed upward and then hardened into solid stone. She blurred upward and shot over the lip. Stone flowed from the wall, sealing it off.
+
+Blurring forward, she looked at Gleon. “What’s wrong with him?”
+
+“It punctured his heart,” Tilly said, grabbing him. “I have him stable, but you don’t recover from this quickly. He’ll need rest.”
+
+Kindra grabbed him and walked down the tunnels. The sound of stone rumbling filled the air, and Aika dodged against the wall.  Maybe I should have gotten invisibility.
+
+She waited and watched the stone flow away. A passage opened up, winding around the corner. Aika zipped over to it and waited, trying to hide among the stone. The group jogged up tunnels, and Aika crouched against the wall.
+
+The first dwarf rounded the corner. He poked his head out and barked something to the others before rushing forward. His footsteps filled the air, and Aika waited. The crack of gunfire echoed through the tunnel. Footsteps thundered, and the mage appeared.
+
+Launching herself off the wall, Aika blurred. Her wings pounded, and she slammed the spear into the mage’s temple. Bone crunched, blood sprayed, and the mage dropped.
+
+Ripping her spear free, Aika charged another, stabbing and slashing while zipping through the group. The dwarves turned and shouted.
+
+“Aika, watch out!”
+
+Aika shot toward the wall.  “Clear!”
+
+Gunfire rolled down the cave, the gun blasting out metal and death. Blood sprayed. Dwarves staggered, and the remainder fled, racing for the tunnel.
+
+Aika followed, slashing and stabbing. A hammer caught her, carrying her toward the wall. She launched off it and drove the spear into an eye. While the dwarf toppled, she zipped forward, stabbing and dropping the rest.
+
+Zooming toward the dwarf at the front, she braced the spear, and he spun. With his red eyes and face full of rage, he spat and raised his axe. “You woke the titan. Don’t think you’ll live,” he hissed.
+
+Aika ignored it, and the axe slammed toward her, a massive chunk of glowing metal that seemed to follow too easily. She flared her wings and fell, opening them and shooting between his legs. The wing raced through her hair. Her heart thundered, and she slammed the spear into his spine.  I love flying.
+
+With her wings blurring, she ripped it free and dropped. The axe ripped through the air above her. Currents of it rippled around her, and she fell, dropping on the ground and rebounding off it like a spring.
+
+The axe blurred, and she slammed her spear into his throat. The dwarf fell, blood leaking from the wound.  “Kindra. They’re dead. Do you have mana? I can boost my suit.”
+
+She landed on the weapons, and magic surged through her. Willing it to the axe, the metal flowed around her, making her nanite dress thicker. Like a snug, second skin, the metal rippled across her small body. She looked down at it and smiled.  Being a fairy is awesome.
+
+[Advanced Mechasuit upgraded to level 15. New stat boost: 30.]
+
+She grinned and bent down. Gleaming coins caught her attention, and she hopped over to the caster. She opened the purse and studied the metal.  What is that?  She picked the coin up. A large elemental was on it. The coin glowed in her hand. It felt warm. Too warm. She placed it in the bag, grabbed the purse, and raced for Kindra.  Maybe she can figure it out.

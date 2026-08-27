@@ -1,0 +1,95 @@
+---
+id: 4d085f26-ac7e-5dc2-9932-79e77b5a85a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 268 Halfway"
+slug: 0282-chapter-268-halfway
+partOf: melody-of-mana
+position: 282
+ownLength: 1195
+unit: words
+ownProgress: 1195
+publishedAt: 2023-09-15
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1344081/chapter-268-halfway"
+royalRoadId: "1344081"
+markedReadAt: "2026-06-29T22:35:34.196Z"
+---
+
+Mystien allowed me to lead him over to my office, if we were going to have such serious conversations then the hall just wasn't the place for it.
+
+“Well?” he asked.
+
+“Well, obviously I still have secrets,” I responded, a bit unhappy he'd noticed.
+
+“Clearly, but before I go and talk to a mage that could quite easily turn me into a fine red mist should I irritate him I would like to know what exactly I'm dealing with.”
+
+I sat in my chair, contemplating, what to tell him, how to tell him.  I could reveal everything, but that seemed to generate even more issues.  A truth would be the best way, but a partial one, one he might understand.
+
+“Justin and I are different,” I explained.  “As was Ristolian, the maker of this fortress, and the leader of the Orders.”
+
+“Different?  Different how?  Because you're no wizard and no priest, and I remember your birth young lady, so you're certainly not as ancient as that man out there.”
+
+“Knowledge, knowledge of places, and people, and things our eyes have never seen.  I think it's a bit different for each of us, and I won't go into the specifics too much, but all of us were born aware of who we were, and knowing things that others didn't.”  I considered for a bit.  “I can't explain how, or why, as I simply don't know.  I think Justin is working on that, something to do with space magic and the like, but his work is beyond me.”
+
+I could see Mystien's gears turning as he too took a seat, staring off into the air.  He sat like that for a long time, fingers tapping on the armrest of his own seat.  It looked like he was going over things one by one, trying to piece together things.
+
+“Your insights into the nature of water, or the rearing of bees, or Pi,” he said still focusing on the wall.
+
+“Yes,” I confirmed.
+
+“How much more do you know?  I've seen so much already,”
+
+“That's difficult to put into words.  I know quite a lot, and a lot of what I know I don't realize I know.  Like how you could probably identify a lot more areas when you see them then if you just tried to list them out, or something.  There's a lot though, some of which I won't share with you.”
+
+“You won't?”
+
+I sighed.  “Mystien, I don't need to be the one to explain to you that some knowledge is dangerous, some of it extremely so, do I?  Even with what I have shared, look at the damage from some of it, and what could have happened if it were the wrong thing.”  I contemplated how to put it best.  “You know, Justin said that he did some bad things in the past, and I don't want to get caught up in the kind of pain that he's in, or that he seems to have caused.  Ristolian too was known as terrifyingly powerful wasn't he?  And I can assure you that the others have been a danger too.”
+
+He looked at me, and I could see worry in his eyes.  “You were born with this?”
+
+“Yes.”
+
+“Your maturity as a child, the control you always had.  It was like you were an adult, never throwing tantrums, never losing your focus.  Because you were?  You were actually born old, and knowledgeable weren't you?”
+
+I nodded.  “Again, I can't explain why or how, but that is how it is.”
+
+“Yet you've always cared about your family, and your friends.”
+
+I was a bit offended at that.  “Of course I loved my family, why wouldn't I?  They showed me love, before I could speak, before I could ask for help they helped me, were there for me.  The same with you, and Dras, and everyone else.  I care for you because it's the right thing.  I may know things I shouldn't be able to, but I'm not some monster.”
+
+That made him blink, eyes losing some of their focus.  “Oh, I see.”
+
+“I didn't want to talk about this because it's weird, and I know it's weird, and I know the kind of trouble it could cause.  Other than you only a few people have ever found out, and then not because I was happy about letting them know.  So I would appreciate it if you dropped it, and never spoke of this again.”
+
+“Your family?” he asked, and my face must have betrayed me.  “Alana, they'd understand, you know that, right?”
+
+“Mystien, it would cause problems, too many problems.  I obviously can't stop you from telling my father and brother what you want, but I would appreciate it if you didn't.”
+
+“You should tell them,” he said.
+
+“Maybe, but that is between me and them.  Kindly stay out of it.”
+
+“Very well.  What sort of knowledge is Justin likely to have?”
+
+“What?  Isn't that obvious?  He knows more than I do, and some of that's experience, but you should expect him, at his age, to be able to change the form of the world around him mostly at will.  He knows how things are bound together for sure, how to make them change and become new things, deeper understandings of things like fire, and water, and how things move or whatever.  Probably also knows more about lightning than anyone else alive.  Basically anything, or at least as far as I would guess.”  I leaned back.  “He knows how the portals work better than I do, how the core works better than I do, because he made it.  I've seen him teleport, and we both know he can make complex magical items.”
+
+“So basically I should assume that if he wants to do something, he can?”
+
+“Maybe?  There are limits on magic, so he probably can't just destroy everything, but within reason and how wizard magic works, I'd say he can do much as he pleases.”  I really didn't know how to put that any better.
+
+“Any insights on to what he wants?” my mentor inquired, maybe looking for something he could offer.
+
+“He's interested in the portals, in space magic.  That's why he's here, but as for the reason he is, that's his business, and not my place to tell you.  I don't think we've got much on that account to offer him other than access to Silversprings.”
+
+“Why do you think that?” he asked.
+
+“Because I've personally seen some of his notes back when we were on the elven continent.  Let me tell you that we're nowhere near it, the only thing I could make heads or tails of was his tea set.”  I laughed internally at the idea that I'd sat there drinking the man's tea, confused as to all of his work.
+
+“Helpful,” Mystien deadpanned.
+
+“I mean, we know what our opposites want, that makes negotiation easy.”
+
+“I suppose.  I'll go and have that chat with our guest, when are we good to take him to the disaster site?”
+
+That was an easy question.  “Soon as everyone is ready.  There's not much I need on my end.”
+
+“Good, that at least is simple.”

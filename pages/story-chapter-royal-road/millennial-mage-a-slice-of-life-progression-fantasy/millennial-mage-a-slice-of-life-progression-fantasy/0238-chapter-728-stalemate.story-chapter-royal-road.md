@@ -1,0 +1,211 @@
+---
+id: 318d94a8-fcdb-5ac3-a106-2c2f6402e085
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 728 - Stalemate?"
+slug: 0238-chapter-728-stalemate
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 238
+ownLength: 2596
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3701272/chapter-728-stalemate"
+royalRoadId: "3701272"
+---
+
+Tala floated above the edge of the cliff, overlooking the relatively flat top of the escarpment.
+
+To either side walls were broken and battered, frost still clear across their surfaces, a residue from her use of siege orbs to weaken the material.
+
+Before her hovered two commanders, obvious concept blades in their hands, and they weren’t the only ones that she could detect across the battlefield.
+
+These commanders, though, looked… wrong. The standard automata physiology seemed to have been changed out to have a more organic, vegetative look while still being metal.
+
+Are they cutting corners or changing methods out of desperation?
+
+In all honesty, of all the beings she’d encountered, they reminded her most of the Leshkin generals who had waylaid her on her return from captivity, after she’d briefly fallen to the influence of the void. Though, these looked to be lesser versions of those beings, and they lacked the weight of those existences.
+
+Did they somehow subsume some Leshkin spirits for their use? Is that even possible?
+
+Around her, arcanes and Archons fought side-by-side against a common foe: automata. Despite that growing clash, she and the commanders were all but unmoving.
+
+The message was clear. She could likely fight both and win in the end, but she couldn’t fully tie down both in a way that would protect her forces.
+
+To engage the two would mean that her people would be subject to the fallout such a fight would bring. She might be able to push the clash into enemy lines, but some of her people would still invariably be hit. On balance, the two seemed quite content to maintain this stalemate.
+
+Aiding in Tala’s choice was the fact that she was the majority of the reason their army could fight at all. Anything that took too much of her attention and power might put that at risk, but the automata likely didn’t know that. If they had, they most likely have already attacked. They seemed self-sacrificial like that.
+
+So this stand-off was how it would be for the moment. The most powerful pieces on this section of the board would wait for something to upset the balance.
+
+Look at me, being patient and strategic. Rane would be so proud.
+
+Alat sent her a sense of incredulity. -You think your husband, the berserker, would be proud of you for holding back?-
+
+Yes? Restraint and proper application of force is like his whole thing.
+
+Even while keeping the commanders in check, she wasn’t idle, but she wasn’t overt about it.
+
+She strove to turn every slain Black Legionnaire into a banished soul and dispersed spirit, at least when they fell within her aura and authority.
+
+The very act gave her a surge of strength for following her mandate, but each pulse quickly faded. Those she was able to affect in that way were limited to sergeants or weaker, given how diffused her power was at the moment. Still, her strength was enough to allow Alat to throw her will behind the task, the oscillating bolster of success enough to free her for the task.
+
+Tala smiled at the commanders before her, content to lock them in place even as she undercut their advantage of reincarnation across the entire battlefield, theoretically without them even being aware of her actions.
+
+In the distance, off to her right, flickering shadows showed that Eskau Pallaun was hard at work. At another place, just about directly opposite Tala’s position, an explosion of stone suddenly fountained outward from the edge of the plateau. Less than half a minute after that, a torrential gout of light and heat that could only loosely be restricted to the label of ‘fire’ bathed yet a third location.
+
+It was good to see the alliance putting forth such a good showing.
+
+* * *
+
+Rane pulled back Force for another swing, once more changing the aspect of his attack from a concentrated slice to one of dispersing, lofting power.
+
+The wall splintered, blasting inward and arching high before falling back down on the automata that were trying to approach him, but he didn’t expect that to truly end them.
+
+Still, his people were swarming outward from the beachhead that he had made.
+
+Even so, the gains hadn’t been costless. The bodies of human, hue-folk, beast-kin, and other arcanes were being pulled into dimensional storage or otherwise removed before they could be desecrated, either on purpose or simply due to proximity.
+
+Those paying the highest price were obviously the least advanced—mostly Mature or Elder arcanes—and even though they were working together to slay multiple legionnaires for every one of them that fell, there was still as a river of blood that had its headwaters on this field of carnage.
+
+The more elevated combatants weren’t unscathed by any means. While he hadn’t seen any Eskau or Pillar fall yet, many senior warriors of the Houses were dead or too injured to continue, and gated humanity had already lost more than a dozen Refined in Rane’s section of the battle alone.
+
+Once more, they each contributed to the fall of swarms of Black Legion automata, but they still fell.
+
+Rane felt his wife working behind the scenes, her will settling onto each slain legionnaire as they fell, attempting to make that fall permanent, and he bent his aura and will to aid her.
+
+He couldn’t actively participate in the act of such dispersed action, but by throwing his weight behind her lead? She became that little bit more successful, making the sacrifices of their allies just a bit more worthwhile.
+
+In truth, Rane felt heartless. He knew people were dying as he fought, he even watched it happen where he couldn’t prevent it, but the reality of it just washed over him.
+
+It was inevitable, to be expected, and as such, while he was sad at their passing, they were barely more than numbers tallying up in the ‘costs’ side of the equation of this battle.
+
+That fact made him a little slower to defend, a little less able to interfere, and so the number ticked steadily up. The realities of war were unrelenting.
+
+Off to his left, he saw continued flickers of darkness, showing that Eskau Pallaun had engaged with something, and the fact that they were mere flickers meant that it was likely at least two commanders, if not a senior commander. The man was also likely suppressed by the overbearing field, even though Tala had directly imparted a conduit of her authority to him for this assault.
+
+His gaze was then drawn to a hurricane of fire, washing over a portion of the escarpment to his right. Too bad that was aimed up at an angle or that might have swept a good portion of the plateau.
+
+His distraction by other portions of the assault almost cost him.
+
+The growing lethargy and ambivalence shattered as his soul raged. The power that was roaring in and through his soul spiked, warning him of danger an instant before a concept blade came for his neck.
+
+The incoming strike felt unavoidable. He was simply living through history long since written, but that feeling was wrong.
+
+Rane’s foundations were deep. His body—his very being—had been Reforged, and it was his.
+
+In a drawn out moment, he turned and locked eyes with the incoming commander, its concept blade seeming to warp existence itself as it declared his death as a foregone conclusion.
+
+The statue of resolve, which Rane now was, cracked a smile.
+
+He had time to see the commander’s eyes widen in confusion and surprise even as his off hand snapped up.
+
+Force flicked out to the side, seemingly opening him up further to the attack even as a blast of air from the swing cleared dust from that side of the immediate area.
+
+Rane’s stone fingers snapped closed on the blade and locked into place, stopping the sword’s tip a good six inches from his face.
+
+In that frozen instant, ripples of magic and reality fought back and forth. As reality washed out, Rane’s hand was revealed to be carved stone, as utterly unyielding as the foundations of Zeme itself. Despite that, the commander’s force and strength pushed forward, cracking the substance of the limb.
+
+Then, magic swelled forth, asserting that his arm was living flesh and healing what damage had been wrought in the preceding flash.
+
+The two powers oscillated more than a hundred times in the space of a slow blink, Rane’s smile growing all the while.
+
+Force flicked forward, sweeping in from the side.
+
+The commander had only an instant to react, and it would not be able to pull its weapon free in time.
+
+It abandoned the blade, lifting both arms as it twisted, taking the hit on its vambraces and being launched across the battlefield, disappearing to skip across the oncoming, roiling mass of automata, heading almost directly toward the opposite side of the plateau.
+
+Rane grunted in irritation, looking closer at the concept blade even as magic won out, sweeping through the weapon and—
+
+His eyes widened, and he threw the sword, but it was already too late.
+
+Previously inert precious-metal inscriptions hidden in the blade soaked up the power as it radiated through the weapon, asserting Rane’s control… and the entire thing detonated, throwing out shards of reality bent metal to scythe through the nearest fighters.
+
+Rane cursed, surging forward to fill in the gap as nearly two dozen of his allies took grievous injuries in that moment.
+
+None seemed to have died, but they would need time to be healed before they could return to the fight.
+
+As he launched forward, his left arm fell to the side, momentarily numb due to some reality nonsense that he would now have to purge, and he cursed again before tasking Enar with diagnosing the issue and getting him fully capable once more.
+
+He’d won the brief clash, but it had been a pyrrhic victory.
+
+It seemed that the Black Legion were ready for at least some of their strength.
+
+Rane growled as he scythed through the oncoming push, keeping the automata back as they attempted to drive his forces from the cliff top.
+
+Others fell in beside him, short range magics flickering all around them as the otherwise close-melee continued.
+
+* * *
+
+Lea didn’t gasp for air—she didn’t need air after all—but she desperately wished that she could, as it might just provide some relief to her screaming body.
+
+They’d gotten tied up in what amounted to a pushing match. The automata before them brought great iron plates forward and attempted to simply sweep down the earth ramp that this portion of the assaulting force had cobbled together.
+
+In response, the Talons, Lea, and others with beyond-mundane physical strength had thrown themselves forward, bearing the incredible weight and slowly forcing them back up the slope.
+
+Behind that advancing front, Black Legion would occasionally drop through the screen of rock and earth that was being maintained overhead, laying about themselves with abandon as they tried to hurt and kill as many as possible before they were taken down. Even so, for the most part, this sector had been reduced to the worst sort of reverse tug-of-war.
+
+Push-for-battle? That was a terrible name, but she couldn’t think of any better.
+
+Her Refined, artificial body radiated waves of heat and power as she did more than her fair share.
+
+Humorously, Talax and the other Talons were barely contributing as they needed to husband their magical reserves for the fight that was surely to come.
+
+Even so, they did have passive benefits from holding as much power as they did, and they did allow their unavoidable leakage of magic to fuel some level of enhancement.
+
+Just another dozen yards. Then we’ll be over the lip. Then, finally, we can actually fight.
+
+She had no idea what was going on in other parts of the assault, but she prayed to the stars that other teeth were making better progress than they were, otherwise things were not looking good.
+
+“Enough of this.” The voice was calm, powerful, and decidedly feminine.
+
+Lea felt a flare of power behind her, and she couldn’t place her mind on what level it actually was.
+
+She turned in surprise and saw someone who was clearly at least Paragon—likely Reforged but her aura was obscured and roiling.
+
+Regardless, the woman strode forward and motioned for those in the middle of the central iron plate to shift to the sides.
+
+She threw her arms backward—shucking her mage’s robes like one would shuck an ear of corn, if faster—revealing a heavily inscribed, lithe and fit form.
+
+The woman brought her arms forward and power rippled through her body. That magic came forth as a lance of fire rocketing forward, and dozens of mouths let loose curses and cries of horror as it struck the iron.
+
+The magic, of course, rebounded, splashing outward like water poured onto a spoon, but even as it did so, more inscriptions flared to life across the woman’s body, burning through their metals, and the woman’s aura and will came to bear.
+
+As the fire magic splashed outward, scoops of power caught and redirected the heat, light, and power back into the lance, creating a cycle of magic pressing hard up against the iron.
+
+Heat? She’s just going to melt through? Lea’s jaw dropped.
+
+That was… That was insane.
+
+Crazy or not, it was starting to work.
+
+The iron took on a spreading glow even as the surrounding air was kept unaffected by the woman’s magics.
+
+To call it churning seemed a disservice given how evenly and smoothly it rolled onward, more and more power being added to the middle, only to flow outward and back around to drive forward at the middle once again.
+
+In less than ten seconds, the superheated air put enough pressure on the liquifying iron that it bubbled backward.
+
+Two seconds later, that bubble burst, and a roaring scream of cremated air tore up the ramp and into the sky.
+
+On the far side of the iron plate, the magic was utterly scrubbed away, but the woman’s attack was hardly only magic at that point.
+
+Lea couldn’t see the results, but the active resistance on the modular iron wall faltered, and the attackers surged forward, sweeping the blockage up and over the cliff’s lip, gaining the top at last.
+
+The various pieces of  heavy iron were shoved outward and to the sides, forming bulwarks just past the absolutely devastated ramparts that were still dripping magma down toward their new cleft of entry.
+
+The powerful woman gave a self-satisfied smile and nodded once. “There. I won’t be much use in this close-fighting nonsense, but at least I’m not useless.”
+
+Lea gave a nervous chuckle before the tumult of thundering feet drew her gaze. The automata that had been thrown or driven back by the plume of heat were charging forward once more.
+
+It was time for the real fight to begin.
+
+* * *
+
+Tala frowned as something came streaking across the tops of the roiling army before her.
+
+It only took her an instant to register that it was a commander variant, its arms held up as if it had just blocked a particularly powerful blow.
+
+Unfortunately, it seemed that whatever had hit it had sent it flying rather than doing significant damage. Moreover, the fact that it was heading almost directly toward her was… inconvenient.
+
+She shifted, settling Flow into a void-glaive form and ensuring she had a comfortable grip.
+
+Well, there goes the stalemate.

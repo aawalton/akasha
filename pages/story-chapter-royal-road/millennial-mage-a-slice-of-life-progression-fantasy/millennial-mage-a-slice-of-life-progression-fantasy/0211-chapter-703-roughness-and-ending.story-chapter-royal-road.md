@@ -1,0 +1,213 @@
+---
+id: 02f671c2-dffd-5358-9b8b-d8914a805930
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 703 - Roughness and Ending"
+slug: 0211-chapter-703-roughness-and-ending
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 211
+ownLength: 2959
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3361901/chapter-703-roughness-and-ending"
+royalRoadId: "3361901"
+---
+
+Tala did not feel great, but the knock-on-effects were far less than she expected, and in looking back—and consulting with the magical experts she’d brought to witness the experiements—she believed that the reduction was because the void she’d used had been closer to ‘true’ void, thus helping her to be more divorced from the negative potential than she’d been able to be in the past.
+
+In assessing her state while the working was in effect, the negative effects included the sense un-reality from everything around her, and disconnect from the flow of time and her own previous priorities and mindset. There would likely have been more, but the experiment had been cut short, and reasonably so.
+
+As to the positives?
+
+Well, Tala was a bit concerned to learn that essentially everyone observing had attempted to use magic of one kind or other on her to absolutely no effect.
+
+None had put their full power into the workings by any means, but they had ramped up over time.
+
+There was the fact that she was Reforged, and her resistance to direct magical alteration was already high enough to shrug off such affects to begin with, but she hadn’t needed to do so.
+
+In fact, even looking back with perfect hindsight, she couldn’t even detect them trying. She could see the magic coming toward her and splashing across her, but there was no sense of having resisted or of the magic trying to take hold.
+
+While under the effects of the working, she’d changed from a solid wall to a well-built building. As they discussed things, they thought that if she truly bent her power and authority to the working she could render herself into a fortress. Not unassailable, but the next best thing in regard to any short-term clash.
+
+Rane had also attempted to cut her bare skin while she was under the influence of the working, which she was very concerned by, not because her husband had done so—she was grateful that he’d taken it upon himself to perform the test—but because she genuinely hadn’t registered it at all.
+
+That was the disconnection rearing its head once again.
+
+She hadn’t been invulnerable—nobody thought that she had been—but her resilience to essentially any form of external alteration had been magnified manyfold.
+
+So, something to use against powerful effects in short bursts… at least for the time being.
+
+The researchers had a lot more to say, but most of it had to do with magical resonance, the shifts in zeme, and the affects on their own workings when they attempted to interact with her.
+
+It was all fascinating, but it all fell by the wayside when Lisa made a comment. “Your gate skated across reality when you were under the effect.”
+
+Everyone stopped and oriented on the fox-kin, and he gave a vulpine grin, clearly having expected something similar. Tala had waited only a moment before realizing he wanted her to ask. “Would you explain, Lisa?”
+
+“Certainly, Eskau Tala. If reality is a fine silk—now stitched back into a whole with rushed, frantic hands—a normal gate is pumice stone, sliding across it. The more weight the gate has—the more advanced the gated—the more it bears down on the silk and the more harm is done.”
+
+She nodded, waving for him to continue. This was well known, and the core reason reality seemed to specifically dislike gated. Though it seemed to have a general dislike for magic regardless, but that was to a lesser degree.
+
+“While under the power of your working, you were more like a river rock, all smooth curves and rounded edges. I believe that, with sufficient weight, you could tear through, but you were not actively causing damage. I wouldn’t want you to ride the seams of our Zeme, but elsewhere? In the least damaged portions? I believe your passage would effectively do nothing, at least nothing more than the passage of any weighty existence.”
+
+That… that was rather important.
+
+She had felt the jaggedness of soul—her gate—and she conveyed that again.
+
+The researchers contemplated with Adrill, especially taking vigorous notes as the highlighted point seemed to trigger a cascade of thoughts for the man.
+
+He began rambling a bit, seemingly mostly talking to himself. “What if it wasn’t the gates themselves that harmed reality? What if it was something left over from their creation? The very fact that they came from a breaking rather than a careful construction.”
+
+Brandon had drawn close to his father, and he was nodding along, the two clearly quite familiar with working together. “Could that be a path to healing, to correcting many of the ills of this world? If so, how would one even go about smoothing a soul?”
+
+Rane cleared his throat drawing attention from the group. “When a hole is ragged, and the goal is a smooth one, craftsmen often bore a slightly larger hole through, effectively smoothing out all the walls and making it new.”
+
+It bore considering… but they were running low on time, and Tala still had another ability that she wanted to test now that she was doing actual experiments.
+
+The researchers continued to toss ideas and speculation back and forth as Tala began to shift her mind to the next task.
+
+The Ending Blade.
+
+Illie’s death had been the catalyst for Tala’s first use of it, and she’d all but ignored that fact when fighting the commander. It had been too heavy a burden to acknowledge. She did so now.
+
+Illie had passed years ago, but Tala still missed her sister. Her ability to feel the girl’s aura in isolation on the Path of Remembrance let Tala feel close to her on occasions when she missed her more than usual, and the aura mixed in with the rest of her family’s through the portrait in the dining room helped Tala feel like the girl was still with those she had loved, at least in spirit and memory if nothing else.
+
+Tala tipped her mind toward Illie for a moment, closing her eyes and sending a smile to her sister in the next world. I hope it’s a place of wonder, Illie. I miss you.
+
+After a moment’s silence, Tala opened her eyes, ready to get to work.
+
+When Tala had manifested the Ending Blade to kill the magical creature responsible for Illie’s death—in pure instinct and rage—she had overlaid the magical pathways within and around Flow with reality iron—mostly stone- and starward—filling each and every spellform with void-channels, and flooding them with power, pushing the weapon forward.
+
+Because Flow’s normal magics were essentially just the ability to change between multiple forms and a magically enhanced cutting edge. She had needed something more, something that could actually be useful when backed by magic, reality, and void.
+
+She’d had one spellform come to mind instantly, one she’d already been using with nearly this combination of power and overlapping pillars: She had thought of the power she used in her artificial lungs, the inverse of spellforms that had protected her since she was a new graduate. The magic of endingberry seeds.
+
+Dissolution.
+
+The forms had fit, and just like when she manifested void magic through it and created the void forms of the weapon, something about the weapon had changed and bent.
+
+The spellform had formed easily, slotting into Flow’s magical edge with room to spare. Unfortunately, they began doing exactly what they were created for, obliterating everything around them.
+
+At the time, she’d only been a Paragon, and the powers she was bringing to bear had tried to chew through her own soulbound weapon, forcing her to employ the endingberry’s magic, that which was designed to contain the power of dissolution.
+
+The two were a set. The only place they occurred in nature was side by side, in counterbalance.
+
+With that newly created equilibrium, Flow had shifted, grown, and quickly settled into its final form.
+
+Where before an almost black, sucking heat-haze had manifested around the void-blade—and Flow’s normal sword-form contained a burning energy—there had been nothing. The wire-thin outline of the blade was still there, but the inside appeared… normal.
+
+It almost seemed as if Flow was simply a shaped wire and nothing more.
+
+Even so, Tala could feel the difference. The metaphysical weight of it had threatened to tear free of her hand. Looking back, it had likely only been the bond of her soul to the weapon—and the powers at play—which had allowed her to wield it at all.
+
+She hadn’t felt that same weight when wielding it against the Black Legion scout, or commander. Was that because existence had approved of her destruction of the automata, but not her severing of the magical mole from its source? Had existence read her intent each time and either helped or hindered her?
+
+She didn’t know.
+
+In either case, the first time she’d used it, the blade had instantly affected everything around it, as reality threads and nodes bent away from the weapon, being preserved and redirected by the outer shell of power, that which protected and contained the dissolution.
+
+The paired magic was designed so that she would have to force anything she wished to cut to come into contact with Flow and the dissolution edge as it was now contained and sheltered. Otherwise, anything she struck or touched would naturally be reinforced even as it was moved out of the way.
+
+The blade couldn’t cut on accident.
+
+That reinforced the idea of existence having a way of reading her intent. Rust, she had to impose her intent to make the blade function to cut at all.
+
+She still felt awe even in the memory of the newer form, the Ending Blade.
+
+Existence hadn’t liked her first target, but it had reveled in her severing and containment of the Black Legion scout. It had stuttered when she attempted to erase that which had slain her sister, but allowed her to glory in the slaying of automata.
+
+In its use the second time, Flow had slid inexorably forward, altering Reality as it went. The severed ends of reality threads had wanted to connect to something, and while she couldn’t direct them, she had been able to either accept or reject those that tried to join with her.
+
+Both ends had tried when she slew the mole, but neither Black Legionnaire had resulted in attempted connections. She didn’t know why, but that distinction seemed important.
+
+She shifted her focus to that second use.
+
+Just as in the cave, deep beside Arconaven, she had forged reality iron, void magic, and raw power into Flow, basing her working on the duality of endingberries, and empowering it with Void Channels.
+
+Her Ending Blade had come into being in the physical shape of a sword, Flow resonating with weight well beyond the merely magical.
+
+With a single sweeping cut that circumnavigated that automaton as much metaphysically as physically, she had severed its every connection to the world around it.
+
+And that was it.
+
+She’d released the working before it could affect her overmuch.
+
+Finally, she’d used it when slaying the commander.
+
+She had run void-magic and reality-iron through Flow, interlacing and empowering the whole with her magic, bringing out her ending blade. It had almost been instinctive—even if it wasn’t practiced—given all her research into the spellforms and various parts of herself that meshed into the form.
+
+She had felt the strain on the part of her that was Flow, much like she’d feel the weight of an object held in her hand. It had been a disjointment, like the weapon was heavier than it should have been, not quite in alignment with most of her being, even while she was drawn forth by the working around and through it.
+
+It had been odd for Flow to cut material in that form rather than reality threads, but the metal was partially reality iron, and Tala suspected that such made a difference. It also wasn’t that the ending blade couldn’t cut material, just that such wasn’t its primary aim.
+
+It had worked quite well at making a wound that the legionnaire couldn’t heal, however, so that factored into her understanding as well.
+
+She hadn’t used the blade to free the soul, not after that method had allowed the scout to detonate. She couldn’t allow even the potential of such in the center of a city, and it was definitely preferable to let the soul ‘naturally’ pass on and for the spirit to die than to have both severed free, perhaps to bring a chunk of the world with them.
+
+It would take more research to determine, and that was assuming that she would ever be able to find the deeper reasons.
+
+All told, remembering the various uses of the ending blade demonstrated just how greatly existence magic affected her, seemingly bypassing all her defenses and abilities to shrug off most external mental influences. That seemed to indicate that the change in mindset came naturally from within herself, based upon her own change in perspective at the time.
+
+That was… that was a bit scary, but with the existential cohesion working, she had reason to believe that bringing a truer form of the void into play would shelter her more from those affects, after the fact in the very least.
+
+She nodded, the totality held in the front of her mind, and she indicated to those around her that it was time.
+
+Their myriad conversations halted, and all eyes and senses oriented on her.
+
+Flow manifested in her outstretched hand, a knife she was as familiar with as any other part of her being.
+
+Flow was her edge, her natural weapon, her means of close engagement.
+
+She wove the forms out of iron and reality iron once more. This time, it was the duality of forms rather than just those of cohesion. Moreover, rather than wrapping the whole weapon with the working, she slotted it into the magics of the blade, the scripts fitting as if Flow had been made for this use.
+
+The weapon morphed even before Tala let power run through the workings, meshing with added the material easily.
+
+Of course it would. It was all a part of her, and once again she was struck with a feeling like changing her posture. Though in this case it was more like learning new hand signs for silent communication.
+
+Her hands weren’t really used to making the shapes, but they were fully capable, and it would just take time for comfort and familiarity to settle in.
+
+Then, Tala pulled the voidchannels open—both physical and conceptual—and her magic poured through.
+
+Flow lengthened, the wire swordblade forming and settling into shape with a resonant hum that caused the very grass of the dell to ripple, bending away from the Ending Blade.
+
+If anything, it felt weightier than ever before in Tala’s hand, there was a subtle pull, as if it longed to be used.
+
+It was akin to a joint that wanted to pop or a muscle that wanted to be stretched.
+
+Flow wanted to end.
+
+On the metaphysical, the reality nodes and threads both seemed to shrink away and were subtly pushed back and reinforced by the magic of cohesion now inherent in the weapon.
+
+It wasn’t a contained field like with the apple, nor a direct effect such as when it was tested on Tala, herself.
+
+Instead, it was cast outward, and Tala watched as all those present shifted, relaxing, and settling as if they were now more comfortable than before, more sure of themselves and the situation.
+
+Flow as a pure white light shining in a world that had only ever seen red before.
+
+The truth of everything was laid bare for all to see, not because it hadn’t been there before, but because it had been hidden due to the lack of proper illumination.
+
+Even so, at the core of the calming radiance was an edge of utter dissolution.
+
+In light of that, the reinforcement could almost be seen as a cutting board, sliding under existence, ready to brace the chosen target for a clean separation. This was even more true given her net of iron chains spread out both stone- and starward, subtly echoing the stability as it flowed through Tala and to her nearest physical parts.
+
+The stability was simply an echo of the terrible end waiting in the wings.
+
+Tala moved Flow, rolling the blade in a simple motion, and everyone present shuddered, shrinking back instinctively despite the otherwise pleasant feelings.
+
+It was like a group of primitives, huddled around a fire in mid-winter, flinching back as a log collapsed and sparks shot toward the sky.
+
+They knew their safety and reprieve came hand in hand with danger. Fear and need balancing on the edge.
+
+Her edge.
+
+She straightened. Realizing for the first time that it was those very magics of cohesion, radiating over her and coming from her very self, which most facilitated her ability to actually use the weapon.
+
+She was bolstered to the point that her soulbond and unity of physicality made the weapon available to her.
+
+Flow moved in graceful arcs as Tala stepped away from the others to perform a simple form.
+
+They trailed after her, seemingly without much thought. Though they did occasionally send magics her way, scanning and attempting to catalogue the experience. They did so far less than any time previous as they were all drawn after the power before them.
+
+Tala considered cutting off the working, but really, there was no need.
+
+Besides, she had yet to find something to end, and it would be heretical to allow the ending blade to fade without fulfilling its purpose.
+
+She just needed to find a worthy thread to sever.

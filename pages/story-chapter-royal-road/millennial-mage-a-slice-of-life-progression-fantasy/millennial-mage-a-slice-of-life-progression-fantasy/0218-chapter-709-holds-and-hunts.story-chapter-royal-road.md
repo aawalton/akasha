@@ -1,0 +1,197 @@
+---
+id: 36b4a3b6-2650-5336-a3d1-c06875e49cca
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 709 - Holds and Hunts"
+slug: 0218-chapter-709-holds-and-hunts
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 218
+ownLength: 2768
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3464294/chapter-709-holds-and-hunts"
+royalRoadId: "3464294"
+---
+
+Tala arrived in the center of Monstranous without issue, easily finding where the craftsmen, crews, and artisans were already hard at work, their tasks in the final phases, the resort seeming all but complete.
+
+When the task is ninety-five percent complete, you’re just past halfway done. Tala smiled at the memory of her dad’s wisdom, very little bitterness or sadness left in the recollection.
+
+The column plaza was a bit different in this city, when compared to Platoiri. In Platoiri, the central column had been to one side of a massive public space in which arcanes came to get food, eat, socialize, and do a bit of shopping.
+
+There had been many tables of various sizes spread around with mild magics—taking advantage of the ready source of power—woven in for protection from the sun or various forms of mild weather to extend the use of the area into more parts of the year.
+
+Here, the climate was clearly more extreme—as made sense of a mountain-valley city. As such, it wouldn’t really have made sense for Monstranous’s plaza to be laid out in the same way as the Platoiri’s.
+
+Instead, the column seemed to have been situated in the middle of a smaller plaza while also extending into the ground and an underground open space.
+
+Tala was surprised to notice that the stone of the upper plaza was magicked to be transparent from below without sacrificing structure or appearance from above. That upper plaza was all but empty—seemingly by design—almost seeming to intentionally be a stark reminder to the solemn, horrible necessity that the column had been.
+
+That potentially symbolic impression was spoiled by the positively festive nature of the lower plaza, which had much the same purpose as Platoiri’s, containing places where arcanes could gather and eat, surrounded by various restaurants and shops. Even now, it was clearly a hub of culture and society within the city, a place where arcanes could gather and be together.
+
+All under the shadow of the column. …Well, it had been.
+
+Now, the space meant to have the column was empty. There wasn’t a hole because reality itself had been distorted, closing the gap that would have been there if the column had been removed through more mundane means.
+
+I’ll have to remember that potential issue if I fix this scar too.
+
+-Indeed. I doubt that they’d appreciate a hole being introduced into their public space, safety concerns aside.-
+
+Indeed.
+
+The mention of safety made her think of the integrity of her own expanded spaces, including Ironhold.
+
+She had been vaguely monitoring her self in all its various parts as well as her connections and bonds.
+
+Obviously, all parts that were with the superficial poritons of her body were in good health and solid state. Her stone- and starward selves were there with her, attached, interwoven, and mirroring her superficial body’s every movement as made since given they were simply extensions of the same physical portion.
+
+Her chain nets were a little bit less attached—but no less her—as they embodied the physical manifestation of her authority in the tangible world around her.
+
+The sanctum and her other, nearby expanded spaces were all in good repair—with no issues in their small bubbles of existence—visible to her seemingly stoneward of superficial even as they actually dangled in the void, anchored to her as much as her other parts such as arms and legs.
+
+That brought her to Ironhold, the largest of her expanded spaces by a fair margin. She had delegated authority over that hold—that portion of herself—to her husband, and Rane was continuing to take it further to the northeast.
+
+She could feel it, perceive within, and even affect it if she wished to. She didn’t wish to affect anything within. She trusted Rane and had fully entrusted all of herself to him in marriage, what was trusting a small portion in comparison to that?
+
+Tala did find it funny that Rane had apparently created some sort of throne room in the mountain near Irondale, and the odd, wonderful man was actively carving a second throne within it, of all things.
+
+A smile pulled at her lips.
+
+Still, the theory that he could take Ironhold in a different direction was panning out. There was no pain or difficulty with the distance.
+
+She knew instinctively that she could not will herself into Irondale at this point nor open a door into or out of the space, but otherwise, it was no less a part of her and still just as connected to her as ever.
+
+Good. Now, to the task at hand. Her full focus turned to the Monstranous central plaza, the spell-carved doorway within it, and the nearly finished hold attached thereto.
+
+Without using any more time for delays or internal contemplations, Tala began to sweep her perception through the various parts of the resort hold, finding it in order—if anything a bit better tuned and calibrated than the first—ready for her to begin the process.
+
+As she couldn’t perform her part instantly, the work for others to accomplish wasn’t fully done, but proper planning along with her diversion meant that they’d finish a couple of hours before she would.
+
+Let’s get to work. She pulled a little cheesy caravan into her hands and began to absently eat the still-steaming culinary wonder as she continued, only pausing the consumption of food in order to down tasty gulps of coffee every so often.
+
+A portion of her mind—along with another portion acting at Alat’s direction—manipulated her magics, aura, authority, and will toward the unification of the hold and the gathering of it all together in preparation for final anchoring.
+
+The hold was not the warm climate, water park that the previous one had been. Instead, it was an absolutely stunning and cunningly crafted series of gardens. If Tala hadn’t been able to pass her perception through the totality with ease, she likely could have taken weeks wandering the paths, continuing to find beautiful, fun new things to hold her attention and provide relaxation and meditative ambiance the entire time.
+
+Then, she’d have wanted to see most of it again.
+
+She was a bit at a loss as to how such a thing was even designed—let alone built—in the timeframe that they had.
+
+-Maybe the hold-crafter guilds had some dreamers among them? People who had been meticulously designing places of wonder, beauty, and fun without any real hope that they’d be able to build them.-
+
+Huh… Maybe? She suddenly had a vision of some arcane planner working up nothing but subtle variations on House or crafting holds for centuries, eventually starting to wonder what else might be possible. Then, they would begin spending their own time to meticulously design and plan a masterpiece simply for their own satisfaction, with no hope that it would ever see the light of day.
+
+-That’s an elaborate fantasy you have there, Tala. How does it end? The Black Legion apocalypse descending turns out to be the very thing that these starry-eyed old souls need to realize their dreams?-
+
+Probably not what they’d have chosen, but sure. Why not?
+
+Alat grunted. -I suppose it’s as good a theory as any for how the hold-crafters were able to put forward such coherent and well designed plans so quickly.-
+
+That’s what I was thinking, yeah. She could ask, but she didn’t actually really need to know. It had just been a passing curiosity, and it was actually more fun not knowing for sure.
+
+And with the passing of the curiosity, her mind moved to more pressing things.
+
+The arcane cities were still reeling from the Black Legion’s attacks. The ten cities that had lost their core columns were actually being held together with relative skill and solid leadership, but there was fear and concern all the same.
+
+As for the other cities? The Houses, guilds, citizens, and City Lords knew that only chance had likely spared them, and that chance could turn against them if the automata decided they needed more columns.
+
+As such, there was not-so-low-level tension throughout the entire southwestern portion of the continent, and the slightly unhelpfully vague primary objective of the war council was simply to deny all further objectives of the Black Legion.
+
+Tala had been a bit confused by this, but it had been explained to her as a goal rather than a promise. After all, if the war council had planned to throw resources at any sighting of Black Legion automata, that could quickly be noticed and used to manipulate and control their forces. If that happened, they’d already be as good as lost.
+
+Beyond the overarching goal, the council was expending resources to hunt down any and all factories and bases that the Black Legion might be utilizing.
+
+It was assumed that any such would be well defended, so in preparation for that, they were gathering strike forces as quick-reaction teams to deal with any incursions from the Legion.
+
+Major Houses and guilds with more advanced methods of travel were donating either the constructed vehicles or the actual techniques to create them—with crafters along with Archon Constructionists busily working to make more. As such, Tala was more sure than ever that the only reason gated-humanity hadn’t been under truly constant assault over the centuries was that the Houses didn’t like working together at more than a surface level, and the gated ‘threat’ hadn’t been enough for them to put aside their differences.
+
+Transportation wasn’t even the only way in which the Houses were finally showing true dedication.
+
+Advanced techniques and schemata for defenses and detection grids, weapons that—while not concept blades—were worked with effects capable of causing damage that was at a deeper than superficial level.
+
+Now that the Black Legion had executed their first strike, everyone expected that there would be more attacks, likely building up to larger scale conflicts. Regardless, the plan for the moment was that the prepared groups would remain local for city defense, vehicles to soon be provided for select elite units that could be sent to any ‘bigger’ conflict within range.
+
+Tala wanted to be sassy about so many ancient existences not having a better plan than that, but honestly, when they didn’t know where the enemy was, it was as good as they could hope for.
+
+As for all the efforts to locate them? One, at least, had come back with a definitive answer.
+
+The expeditions to the Doman-Imithe had come up with nothing in their sweeps of the ‘near’ areas, whatever that meant.
+
+Tala understood that she, and every gated, could not interact with the Doman-Imithe as experienced arcanes could, so such things made little sense to her to begin with.
+
+More important than those expeditions however, Eskau Reihd—and the other dragonlings who had gone with him—had returned with the expected response, and one bit of good news.
+
+The dragons wouldn’t be helping against the automata, but they did state categorically that the Black Legion hadn’t set up anything even semi-permanent within the Doman-Imithe.
+
+Tala would have simply taken that as ‘good to know’, as a simple statement that the dragons hadn’t noticed anything, but the war council—along with Eskau Reihd and the other dragon-lings—had taken it very differently.
+
+If the dragons said it that plainly, it was an indisputable fact.
+
+As such, all expeditions had been pulled back from the Doman-Imithe, and the arcane cities were more secure than ever, reactionary forces being fully established and trained at multiple levels, the arcanes from the expeditions joining the defenses to help monitor the Doman-Imithe around each city on a more active basis.
+
+After all, the Black Legion could—and likely would—still use the Doman-Imithe for quick covert transportation even if they didn’t have any sort of base within.
+
+While that monitoring wouldn’t make a surprise attack impossible, it would make it much, much more difficult, thus adding to the cities’ security yet again.
+
+Funnily enough, the tactic of city defense with quick reacting elites was very close to the model that the Cycling Cities had been using for centuries, if in this case it had been scaled up to have larger response groups. Though, the gated humans were increasing their own units as well, much to the irritation of some like Master Xeel, even if he understood the reasons and reasoning.
+
+Everyone knew that it wasn’t ideal in any sense, but given the Black Legion’s mobility through the Doman-Imithe and the fact that they had still yet to find any base of operations, it was as good as they could do for the moment.
+
+Only time would tell if it would be enough.
+
+* * *
+
+Rane had come to a conclusion.
+
+After meticulous work, multiple experiments, and approaching the issue from all sides he could think of at the moment, he had decided something.
+
+Authority was entirely instinctive. It both made complete sense and defied easy explanation and categorization.
+
+“Congratulations, Rane, you’ve figured out the obvious.” His tone carried a hint of exasperation and self-mockery.
+
+Terry cracked an eye open from where he lay in the long corner against the glass wall and smooth floor.
+
+Rane decided to distract himself from his other contemplations. “Are you about ready for your mission?”
+
+The avian let out a long, lazy squawk, closing his eye once more.
+
+Rane chuckled. “That doesn’t inspire confidence, but I know you’ll be fine.”
+
+Terry’s eye opened again, his feathered brow raising to one side.
+
+“Yes, I said ‘fine,’ but I suppose ‘spectacular’ would be better?”
+
+The terror bird shimmied, cooing contentedly and settling back into a few more minutes of sunlit rest.
+
+Rane considered the upcoming mission.
+
+Terry had volunteered—well, demanded really—to search the southern forest for the Black Legion, insisting that because he was an arcanous beast at his core, he wouldn’t stand out as much, and would likely be able to circumvent any active attempts to hide, if the automata were concealed within the Forest Spirit’s domain.
+
+It was a long shot, but Terry had been certain that such was what he wanted to do. Honestly, Rane wished that he could join the terror bird, but his doing so would rather defeat the purpose.
+
+Thankfully, Terry was bringing along a small quantity of white steel to identify himself to any other member of the alliance as an ally. The last thing anyone wanted was Terry killing a powerful Archon or arcane who didn’t realize who Terry was.
+
+…Well, Terry likely wouldn’t mind, but that was part of the issue.
+
+That’s not fair. Terry isn’t insane, and he knows we need allies.
+
+Regardless, Terry wasn’t quite as well practiced with the white steel as the Talons or other Sappherrouses, but given the fact that Terry could fill it with his own magic and bring it along with him in flickering, Rane was surprised that the avian hadn’t gotten more or made more overt use of it before this point.
+
+On that point, Alat and Enar had jokingly hinted that some of the white steel produced over the last years had been ‘misplaced’, so maybe Terry had secreted some, and the two alternate interfaces were enjoying being a part of the ‘conspiracy.’
+
+Soon enough, Rane brought the flier to the edge of the forest, stopping almost exactly where Tala had said she entered when returning home so long ago.
+
+The idea was for Terry to start at the dividing line between the Pack controlled woods and that filled with Leshkin.
+
+It was funny that no one, not even the arcanes, thought that Anatalis would tolerate the Black Legion in his woods, at least not on a long-term basis.
+
+Terry flickered to his feet, wriggling in a manner that sent a series crackling pops down his long neck and spine, ending with a poof in his tailfeathers.
+
+He cawed in a bit of irritation before he shook himself again in a slightly different way, taming the feathers back into place.
+
+Rane thought it humorous given the avian had so much control within Ironhold that he could have simply removed the need for the pops from himself or fixed the feathers. Either or both issues could have been resolved with a thought and minor application of will. “Ready?”
+
+Terry bobbed his head in an affirmative before glancing down and visually checking the white steel band around his left foreleg.
+
+The avian then flickered forward to press his head against Rane’s shoulder. Rane scratched behind his neck, and then Terry was gone, appearing on the superficial only briefly before he flickered away, into the southern forest.
+
+Be safe, Terry. By the stars, I wish you luck.

@@ -1,0 +1,215 @@
+---
+id: d3934d92-c682-5d27-b0a6-437f73fd0eb0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 617 - New City Site"
+slug: 0119-chapter-617-new-city-site
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 119
+ownLength: 2725
+unit: words
+ownProgress: 2725
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2630188/chapter-617-new-city-site"
+royalRoadId: "2630188"
+markedReadAt: "2026-06-29T19:39:06.495Z"
+---
+
+Tala and Lea left Lisa and headed home a bit after midnight, the girl going straight to her bed within the sanctum.
+
+Tala went to her husband, where he sat in the midst of the caravan’s nightly camp, eyes closed, and focus thrown wide.
+
+Terry was curled up in the man’s lap, seemingly actually asleep, rather than just resting.
+
+With her arrival, she and Alat took some of the burden of overwatch from him and Enar, their skills aligning with the duty more fully.
+
+Rane opened his eyes and smiled her way. “Thank you, my love.”
+
+She kissed his cheek before sitting beside him and shrugging. “We are stronger together.”
+
+“Indeed.”
+
+Terry shifted slightly but didn’t otherwise react to her presence.
+
+They sat in the comforting silence for a long moment, just drinking in each other’s presence. Finally, Tala looked back toward him. “So? How were you able to slay one?”
+
+Rane gave a small smile. “It was rather simple. Well, it was once I realized that the shadows weren't the main body of whatever they had been.”
+
+“Oh?” Tala leaned against him even as she inquired.
+
+He nodded. “Indeed. I simply sent a load of energy through the shadow in a kinetic chain, resulting in a detonation of the true body. Given that the creature was only equivalent to a Fused in power, it was relatively trivial in the end.”
+
+Tala frowned. “Kinetic chain? Isn’t that when your body is aligned well to transfer force from a punch or block?”
+
+“More or less.” His tone didn’t seem concerned.
+
+She was rather confused. “How does that apply in this case?”
+
+“If I pull on your arm, doesn’t your whole body become influenced?” She could hear his smile in his voice.
+
+“Yes, even if I resist, that is still a change.”
+
+He nodded once, clearly seeing the matter as settled. “Exactly. I simply relied on that principle.”
+
+Tala… didn’t understand, but it was clear that Rane conceived of it differently than she did, and that was fine. She wasn’t about to argue him out of such obviously useful magic. “So, you can now send attacks through magical connections?”
+
+He gave a slow shake of his head. “I don’t think it would work as well through attacks. In this case, they were actively projecting and controlling a false body. That was a solid, stable connection.”
+
+She pulled back, turning toward him, and quirking a smile. “You know, if we work with you to improve your view of and interactions with reality threads…”
+
+His eyes widened, followed by a truly massive grin. “Oh… oh, I like that. If it is possible, it will only be because of touches of reality and void now woven through my soul.”
+
+She leaned against his shoulder. “I’m glad to be of help.”
+
+He turned and bent slightly to kiss the top of her head. “You are an ever-present blessing in my life, my love. Please protect my blessing with armor whenever reasonable?”
+
+She snuggled a bit closer. “I’m glad you feel that way… and fine.”
+
+He gave her a searching look, but when she didn’t continue, he didn’t press.
+
+“You know, you are a blessing to me, too.”
+
+He turned back and kissed the top of her head, smiling into her hair. “I’m glad.”
+
+Another long stint of silence passed comfortably between them before Tala remembered something. “Thank you for saving the Talons.”
+
+Rane shifted slightly and grunted. “Of course. They were stalwart till the end, and I even had to actually willfully overcome their resistance to pull them out.”
+
+He chuckled at that, shaking his head.
+
+“The rusting bits of slag nearly got me hurt because of how much focus I had to devote in order to extract them.” The words were harsh, but his small smile and jovial tone told Tala that he was more impressed than upset. “We’ve got a good group in the Talons.”
+
+“Yeah. We really do.” So much was progressing well with Ironhold. Even the unaccompanied children that had been allowed in—the only gateless in their families, sent to have a chance at a better life—those that Tala had been so hesitant to accept, had been well and truly integrated. Many had been adopted, gateless families taking in the otherwise unattached kids and growing their families with ease, and others had been old enough that they simply needed some training before they could start life on their own.
+
+Lyn had kept a good eye on them—the latter as much as the former, if not more so—and Alat was aware of everything that went on within Kit, making the potential for abuse all but nonexistent.
+
+The important thing, though, was that they were growing and thriving, learning and picking up useful skills. They would have better lives than they could have on the outside. Tala would make sure of it.
+
+Moreover, with more and more of the citizenry reborn into at least a portion of the power available to them, they would have far longer, healthier lives as well.
+
+-We’re doing good.-
+
+And we’re doing well at it.
+
+Alat chuckled in their head. -That we are.-
+
+Tala let out a long, contented breath, returning the majority of her focus outward.
+
+They passed the remainder of the night in peaceful silence.
+
+* * *
+
+The next day, as the caravan was getting ready to set out, Tala brought some more of her knowledge and experience to bear. Knowing that there were creatures in the Doman-Imithe that might be a threat, she imposed her will upon that which was under her authority in a new and different way.
+
+She did her best to compress the reality nodes more tightly together than they usually rested.
+
+She didn’t amplify their connections to one another like she had when helping speed up the healing and repair at the former city sites. Instead, she pressed them together, like binding a sheaf of wheat or reeds. In this case, she extended that compression across the whole caravan.
+
+It wasn’t exactly easy, but it wasn’t something she struggled to do either. To her irritation, she was able to see that it made the superficial abrasion of gates across reality worse where she had compressed the nodes of Zeme itself closely together. So she let those parts fall away, simply keeping the mobile parts within her aura and authority tightly compacted on a reality node level.
+
+That seemed to minimize the leaking of traces of power through the void-gaps, which existed between all things. It also seemed to help optimize their power-gathering workings, reducing the number of threats they had to deal with overall, even if only by a bit.
+
+On the odd side, though, as she observed the caravan over the next days, she noticed a growing familiarity between the various workers and Mages who spent a lot of time on the superficial. Even a few of the oxen that had been on the ornery side seemed to be settling in and obeying more easily.
+
+In any single case, Tala would have dismissed it as the comradery of long days on the road together, and barriers being finally broken down after such a long trip, but the fact that it seemed to all happen so quickly and all in sync across the whole caravan?
+
+Yeah, her active will forcing proximity of their reality nodes was likely contributing.
+
+Later that day, some drivers were commenting on one particular ox that had been testy for all of its three years in service to the caravan guild. Apparently, it was suddenly buddying up with his driver. After hearing that, Tala was convinced that she was at least partly responsible.
+
+-We could monetize this. Imagine, families in strife, brought together with just a day in our presence.-
+
+I’m not going to take money to emotionally manipulate people, Alat. Not even if they sign up for it.
+
+-Oh, alright. So, we’ll just do it for free to the unaware?-
+
+Tala sent Alat an unamused look. It isn’t something we are trying to achieve. It is a byproduct and unintended secondary result of our defense of the caravan from more esoteric threats.
+
+-Fine, fine.- After a moment, Alat continued, sounding more contemplative. -You know, if the closeness of reality nodes is tied to closeness on an emotional level, and that closeness provides defense against certain threats…-
+
+Oh! I get what you’re saying. Yeah, that might explain why certain threats and horrors seem less prominent among those with close connections and lots of friends or loved ones. Huh… Positive relationships as a form of defense. Who’d have known?
+
+-I’m sure there are theories.-
+
+Well… yeah. There are always theories. So, I guess those who made them may have guessed.
+
+-Or… you know… theorized.-
+
+…Fine.
+
+Regardless, at the very least, Tala decided to assume that her work was protecting the caravan—even if only just a bit—from threats from the Doman-Imithe.
+
+The only evidence she had for this was the lack of any further threats seeming to stem from that place, and she understood that such was hardly definitive, but she decided to take the win, regardless.
+
+The final days of their extended caravan trip passed in relative monotony, though there were still enough attacks to keep Lea quite engaged, training, patrolling, and fighting alongside the Talons.
+
+When they finally came upon the new city site, they passed from dense, old growth forest to cleared land in a stark transition even more extreme than that of the current Makinaven in the southern forest.
+
+The white of snow across the cleared, largely vacant land made their northerly location all the more apparent and the early winter stand out, where Tala had been mostly uncaring of the seasons for quite a while.
+
+The area cleared was much wider as well, given the presence of both the farm and orchard lands and the outermost ring that would be the foundation of the mining operations in the opening years of the new city.
+
+There were a few mining camps already beginning to come together, and several large sections of the farmland were already tilled, clearly having undergone greater preparation for agricultural work in the coming spring.
+
+At the center of the massive site lay the walled city, streets complete and many buildings already ready and waiting.
+
+Even so, it was clearly not a fully established city, despite its size.
+
+Many plots of land were clearly sitting ready for buildings, with no active construction in progress. Moreover, the usual din of such a population area was decidedly less than even that within Alefast, Waning with its greatly diminished population.
+
+This new city likely had at least as many citizens as that waning city, but they would be far more spread out.
+
+Another thing that set it apart from a ‘real’ city—as Tala was used to seeing within the domain of gated humanity—was the lack of magical defenses.
+
+There were towers filled with inscribed magics, but they weren’t active. Deep underground, Tala’s threefold sight could see magical connections, running back to the city’s magical grid, but those were inactive as well, with the grid operating only minimally.
+
+Massive spellforms, woven and constructed of welded gold and silver cable and connections undergirded everything, dozens to hundreds of feet underground. That span wasn’t a singular working. Instead, there were dozens of layers of those, some redundant, clearly meant so that one could be activated when the previous needed to be repaired or replaced.
+
+Tala had always felt—and she’d even caught glimpses of—these great magical workings, but the sheer power they would contain and put off had always made them all but impossible to truly perceive. But now, in this dormant state, they were laid bare before her.
+
+A small gasp escaped her lips, unbidden.
+
+She, of course, had access to the various schema, but drawings and descriptions were not the same as seeing for herself.
+
+There were literal tons of precious metals in an unfathomably complex network of spellforms, all connected to and centered around where the power was already starting to be collected and, eventually, where the City Stone would rest.
+
+She blinked a few times, a realization coming to her like a bolt of lighting. This is just an inscription set for the city. They inscribe a city site and then maintain those inscriptions through the lifespan of the place.
+
+-Well… yes, I suppose they do.- Alat was contemplative for a moment. -I feel like I should say that we already knew that, but I don’t think we ever really put it in those terms before. This is essentially making each city its own, fully-unified entity, and that is facinating.-
+
+I know, right?
+
+Rane didn’t have her level of perception, but he was still captivated by what lay before them. He’d come to join her at her more forward position, along with Lea, for this moment of revelation.
+
+Terry was screening the back of the caravan for their last moments in the forest as, to him, a human city was a human city. He didn’t see any need to treat this one differently.
+
+Even so, from Tala’s point of view, it was amazing to see just how new everything was.
+
+They’d only been building for twenty five years, and prep work—including laying down most of the inscriptions in the ground—had been done over the twenty-five years before that.
+
+No wonder we have such an appetite for silver and gold. This would inscribe every Mage we’ve ever met for their entire mortal lives.
+
+Even so, the inactive magics also allowed Tala’s perception to see far deeper into the ground without interference than she usually could. Even just near the surface, there were myriad deposits of various metals. As she considered it, she realized something. Somehow, there seemed to be more gold in raw deposits than in the city’s inscriptions. The same held true for silver and copper as well.
+
+As she continued to examine the various layers of the city before her, the caravan was continuing forward, and Rane was already dialoguing with Lea about everything that the girl was seeing.
+
+Tala finally detected one of the things she’d been hunting for. The resonant remnants of gathering magics, drawing in gold and other precious metals transformed into power by magical workings through the ages, ensuring that when those materials returned to a physical state, they would manifest near the veins already in the ground.
+
+It was subtle magic, just as she’d been promised, usually entirely outshone and obscured by the other workings.
+
+Tala, Rane, and their assistants had already—long ago—implemented cruder, more power-hungry versions of these within Kit, drawing all spent metals to collection points for recycling, but these of the city were reality deep, making the draw and collection simply how reality worked in this small region.
+
+Throughout each cycle, the city at this site had strengthened the magics, embedding them further and increasing the resonance with existence itself. Now, as a Paragon, Tala could feel that compounding undercurrent of generational magic, and she was left in awe of the long-thinking plans of her people.
+
+This city was just one more manifestation of the will of mankind to thrive in a world hostile to them at every level.
+
+In that moment, she felt proud to be human, proud of all those who had come before her, who had allowed her to be who and what she was. She was proud of her heritage and longed to leave a lasting legacy of her own.
+
+She felt deep resonance within herself as her view of herself as the Iron Matriarch aligned quite well with those feelings and desires.
+
+Her eyes fell on Lea, animatedly talking with the girl’s father, and Tala was overcome with a wave of love for them both.
+
+“Hey, guess what I found?” Tala had spoken into a small silence, so they both were able to immediately give her their attention. “Let me show you.”
+
+She and Alat worked together to display an intelligible view of what they’d discovered on an Archive slate they had with them. If they’d been in the sanctum, they could have made a display the size of a wall, but their control was less on the superficial.
+
+No matter, the smaller display led to her family crowding close to get a good look, and Tala couldn’t say that she minded that in the least.

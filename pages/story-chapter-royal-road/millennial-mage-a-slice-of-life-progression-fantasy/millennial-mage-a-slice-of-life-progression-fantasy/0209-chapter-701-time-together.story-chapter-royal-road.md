@@ -1,0 +1,241 @@
+---
+id: df665492-dcdb-5ead-b5af-9c5b45cae035
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 701 - Time Together"
+slug: 0209-chapter-701-time-together
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 209
+ownLength: 3062
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3340478/chapter-701-time-together"
+royalRoadId: "3340478"
+---
+
+Tala found that a large part of her hated being indispensable in their current stop-gap plan.
+
+Make no mistake, she was grateful to be of use, and grateful beyond explanation that they had a plan, stop-gap though it might be, but she hated hearing about battles second hand.
+
+I’m just glad the back-up holds don’t need me to efficientize and finalize them.
+
+-Yup, time will do that at least to some extent. They might need us to lock them in when they’re switched out, but until then, we’ll be back on the front line.-
+
+Where we belong.
+
+She was barely more than an hour away from her planned departure toward Montranous, an arcane city to the west and a bit north of Platoiri, and the city selected to have their hold-source fully activated second of the ten.
+
+A flier construct would be carrying her within her sanctum, the small gate barely needed alongside her will anchoring her to the magical flier.
+
+The construct wasn’t one of those she and Rane had been given for their wedding, more than a decade earlier, but it was very similar, having been created in the last couple of years based on further research and funding from the Sappherrouses, carried out superficially in the arcane and Cycling cities with the Archon’s share done by the magical experts working within the sanctum.
+
+Rane would be attempting to take Terry and Lea—along with Ironhold—in another of the new, improved fliers and heading northward.
+
+Just that morning, the slightly slower methods of communication had brought a message indicating the potential of Black Legion presence and activity up there, and the war council had requested that they go to investigate, the Talons in tow.
+
+The Refined searching for the Black Legion bases of operation across the continent hadn’t seen any of the reported small groups, but they were looking for far more obvious ripples in existence over such large swaths of the continent that such wasn’t surprising.
+
+Terry was going to be dropped off on the way, to hopefully engage with whatever the newest attack indicated, while providing the capacity to permanently end the Black Legion to the allied forces in that region.
+
+Now, as to why Rane’s venture was going to be an attempt? They’d never separated the various parts of Tala’s expanded space by that much before. There was no physical connection between them, and she knew that she could be teleported to the far side of Zeme while leaving her expanded spaces behind to follow slowly toward her new position assuming that they were unanchored.
+
+Rust, that was one of the methods of cargo-transport that had been used in the past, but it had had its own issues, and that was hardly the point.
+
+She and Rane were soulbound, and while she didn’t think she could flicker to his location and into their shared aura across discontinuous space, it was theoretically possible. But again, that wasn’t the issue at hand.
+
+Tala had gotten a lot of experience loaning authority over—and thus attaching—an expanded space to both Lea and Rane. She’d even granted a small one to Terry since she had the ability to create such.
+
+This attempt would be an extreme example of that, but half of her Archive ring in Bandfast stood as proof that soulbonds didn’t really care about distance if properly utilized, but that was common knowledge to begin with.
+
+All that to say, Rane would be departing on a different path than she went, and they would both be paying very close attention—along with Alat, Enar, and all the various researchers and magical experts they had within both the sanctum and Ironhold—to ensure nothing went sideways.
+
+Tala sighed, all the technical considerations a thin veneer over a growing hollowness. Her family was heading off on their own missions.
+
+Even Lea had been personally requested to do a circuit of training facilities to give their fighters—first arcane but then Archon as well—experience against an automaton combatant.
+
+Tala and Rane had both been… hesitant to say the least, but Eskau Pallaun had stepped forward before the couple could raise any objections, stating that the war council recognized Lea both as an incredible asset and a highly likely target for the Black Legion. As such, he had been asked to accompany her on her circuit.
+
+Additionally, the House of Iron had insisted on providing protection as well to the ‘daughter of the Iron Matriarch.’
+
+A Pillar Eskau pair—not attached to a city even before Tala had upended that House’s whole structure—had been tasked to accompany Eskau Pallaun.
+
+They were both Revered, and powerful for their advancement. It made sense as they were both ancient, having been with the House of Iron since before the first gates.
+
+Regardless, the oddly bubbly and diminutive sparrow-kin Pillar Tili and the stoic mountain of a bear-kin Eskau Kanabo seemed competent enough despite the eccentricities that Tala had begun to associate with the truly ancient.
+
+When Lea moved to the Cycling Cities, a pair of Paragons would join her as well, though they would likely be as much to keep an eye on the three exceedingly powerful arcanes as to protect Lea.
+
+More importantly than any sort of offered protection, though, Tala knew she couldn’t keep Lea by her side forever. Yeah, because a war is the right time to grant such independence and separation.
+
+-She has real, tangible ways in which she can help. She feels like this is partly her fault—true or not—and she needs to feel useful.-
+
+I know… I still don’t like it.
+
+-But we’re letting her anyway.-
+
+…Yeah…
+
+Regardless, the Sappherrous family was taking an hour to simply be as a family before they split and went to all different destinations.
+
+As was often the case, they were in a lovely little clearing, surrounded on three sides by massive trees that gave dappled shade, the circular river of their sanctum bracketing the fourth side, and filling the air with a pleasant coolness as well as the lovely susurration of flowing water.
+
+Terry was laying in one of the few larger patches of sunlight—a patch that he’d made by strategically breaking branches a few years earlier—splayed out on his back, legs and talons spread in obvious contentment.
+
+Lea was sitting with her feet dangling in the water, one hand playing across the surface as she kicked lazily, a far-off look across her features.
+
+Rane and Tala sat on hard-yet-comfortable chairs, reclining back and just enjoying the ambiance and being together, their hands resting side by side, fingers only slightly intertwined.
+
+They’d talked of small things, but they both simply wanted to be together with their family, the topic of conversation—or even whether or not there was any—didn’t really matter.
+
+Still, they both knew that it would likely be, at minimum, weeks before they were back together.
+
+As such, Tala did have one thing she wanted to ask her husband.
+
+“Rane?”
+
+“Hmm?” He glanced her way, not even really turning his head. “Yeah?”
+
+“When you sent the souls on, destroying the Black Legion spirits…”
+
+He slowly turned to face her then, realizing the seriousness of the topic and wanting to convey his attention.
+
+Lea glanced their way, obviously easily able to hear but not interjecting, and even Terry cracked an eye, making his own attention clear.
+
+Tala sighed. “Did you feel any resistance? I mean, beyond that of the magics and powers that were in place.”
+
+Rane frowned for a moment before slowly nodding. “You mean volitional resistance from either the soul or the spirit?”
+
+“I don’t really expect the souls to resist, at least not more than standard. Rust, even founts are usually eager enough to pass on when shown the way, but the spirits… I expected them to… I don’t know… seem scared at least? But it was almost like they welcomed it, longed for destruction.” She grimaced. “I don’t know. It didn’t stand out in the moment, because the magics around the soul and spirit were so entrenched that their action was hardly necessary, but in looking back? I think the Legionnaire spirits wanted to be ended. Even when they started becoming harder to permanently end, it almost felt like it was the magics adapting rather than the spirits searching for ways to continue.”
+
+He leaned back, looking up at the canopy overhead. “Well, if they are spirits born of reality—and yet they can only exist when tied to gates—maybe they hate their own existence at some level? To live is for Reality, to die is gain, or something like that?”
+
+Tala shuddered. “That would be a powerful mindset if genuine. I suppose we already knew they were devoted to their cause, but I expect all that exists to strive to continue…”
+
+“But that’s part of the imbalance, isn’t it?”
+
+She gave a slow nod. “They were created leaning more toward reality to balance out their soul-cores’ magical leanings. And in reality, everything ends.”
+
+“Precisely. We often think of existence and reality as interchangeable, but they aren’t.”
+
+“Indeed.”
+
+Rane quirked a smile. “Speaking of which…?”
+
+She sighed. “Really? We only have another half-hour or so…”
+
+“All the better to do it now than when you’re alone.”
+
+She grimaced, then nodded. “Fine… You are probably right.”
+
+Lea was looking expectant, and when Tala nodded, she leaped up with glee. “Existence shield practice! Yeah!”
+
+Tala sighed. “Lea, even if you can learn it. It almost overwhelmed me as a Refined. I want you waiting alright?”
+
+Lea was undaunted. “I will if I can, mom.”
+
+Tala regarded her for a long moment before sighing. “I suppose that’s the best I can hope for since I’m unwilling to simply send you away.”
+
+The girl was wise enough not to comment further, but she did grin broadly.
+
+Tala focused. She hated the feeling of using existence—or triune—power. It felt like it exposed her to truths that she’d rather remain ignorant of.
+
+But Rane was right, so was Master Grediv and Mistress Holly, and the many others who had learned of the ability through the years and subtly—or not so subtly—told her that she should explore it further.
+
+So, it was time, and if the ‘time’ just happened to be so short she couldn’t do too much? That wasn’t her fault, now was it.
+
+Even with that mentality, she hadn’t fully neglected this. Honestly, she couldn’t. She’d devoted far more thought to the abilities than might even seem reasonable, but she had shied away from practical experimentation.
+
+There, in one of their favorite dells, her family gathered close, and Tala reached back, remembering how she’d used her existence shield for the first time
+
+She had coated herself in iron, just regular iron, pulling it up through her elk leathers and her ownership of the metal. The magic and void within the defensive magics of the soulbound item had easily infused the covering, the second skin.
+
+There was no form of power, just a forced blending of various aspects in a moment of desperate need.
+
+She’d wanted a defense from a creature and powers that she didn’t understand. She’d wanted protection from a threat that had so scared ancient Archons that they’d locked the thing away.
+
+The iron had been hers more fully than any mere possession ever could be, the magic had been hers—the product of her very soul. It was laughable to consider the two wouldn’t be able to mix. Finally, the void had come from voidmagic woven through the morphic garment.
+
+It had done more to solidify her existence than to actually defend her, but the defense was still powerful—more than enough to stop the pernicious attempts to link with her reality node—and a type of protection that could not be ignored.
+
+Despite that, it had been imperfect in some way she hadn’t understood. She had felt almost disconnected from herself, as if she was walking around in someone else’s body. Even with that feeling, she had almost not dropped the existence shield, and who knew what the result might have been.
+
+She also remembered when she’d used the existence field or shield or defense in the tunnels, preparing to enter Sole’s cell, unaware of how her mindset could affect her use of the working, and how she’d tried to claw into her own face in an attempt to breathe or for any outside connection.
+
+She remembered.
+
+It was… honestly? Looking back—and tracing her continued use of that initial mental and physical schema—she was like an Academy student with her first inscriptions, just throwing magic into creating ‘heat’ in a vague direction and hoping for a plume of fire.
+
+As such, Tala didn’t enact the powers right away, instead moving toward that initialization, analyzing every step.
+
+To her surprise, while she’d always felt a soul-level resonance with the magical parts of the working—and with all parts of her magic if she were being honest—she found that, with her intense focus, she felt her very authority resonate with the powers of reality even as they began to move toward the idea of the existence shield. More surprising even than that, however, was how she felt her self—the self she’d explicitly Reforged—resonate with void.
+
+In the past, she might have been confused by that, but despite her surprise, she found that it only made sense. After all, what was a sense of self except an explicit understanding of how she was separate from that which was around her?
+
+As she truly bent her focus toward the gathering pieces, she saw that while this was an existence shield, it was really an enacting of the void, facilitated by magic and reality working in tandem.
+
+More than that, she had been doing the equivalent of holding up a door and saying she had a shield from the rain.
+
+Sure, it accomplished that, but it was hardly a good use or means.
+
+Tala frowned, hesitating before actually moving toward enactment.
+
+First, she now knew that she didn’t need to completely enshroud herself—or anything she wished to shield—completely with iron.
+
+What’s more, she had both standard iron—which reflected and interfered with magic—and reality iron—which did the same for reality—and put like that, she groaned.
+
+Rane’s hand was on her arm the next instant. “Tala?”
+
+She shook her head. “Haven’t instantiated it yet. I just had a realization.”
+
+“Oh?” He still looked concerned, but there was a blossoming curiosity.
+
+“Iron can effectively keep out magic, right?”
+
+“That’s right… a bit simplified but true enough.”
+
+“Right. And reality iron can do the same for reality.”
+
+“True, I suppose. Though, I’m not sure I’d have worded it that way.”
+
+“So, what’s left in existence if we keep out both magic and reality.”
+
+He frowned. “I think you want me to say ‘void,’ but just like dropping a person within an iron box doesn’t steal magic from them, doing as you suggest wouldn’t create void. It wouldn’t even create void-magic or void-reality.”
+
+She waved him off. “Not what I’m saying.” She sighed, momentarily holding her tongue and thinking. “I think I can make physical void channels, true ones, not just mental models and manifestations of will.”
+
+That clicked into place and Rane’s eyes widened. “That… might just work, yeah, but that’s a different method than before… You’ll need an actual form to create this time, then…” He only had to consider for a moment.”So, endingberry cohesion?”
+
+Lea was looking back and forth between them, clearly a bit lost, but not wanting to interrupt lest they send her away.
+
+Tala nodded. “I think that’s best. With the void contained, it shouldn’t actually sever me from anything outside. It will likely have other effects, but it shouldn’t do that.”
+
+Rane was nodding in comprehension. “It wouldn’t really be a shield, but it would increase your coherence…” His eyes widened again. “It should do that for anything so contained!”
+
+She grinned in return. “Unfortunately, it would require a power source able to utilize all three pillars of existence, but…”
+
+Rane chuckled. “It would work for our family, Lea best of all.”
+
+With that, the girl seemed to feel confident enough to interject. “I don’t understand at all, Mom. Dad?”
+
+They both smiled her way, Tala responding. “If this works as we think it will, we’ll begin teaching you what you will need to know, but in truth? You’ll have to soulbond with both iron and reality iron for it to really work. I don’t know how we’ll make that happen, but we’ll find a way… if this works.”
+
+Rane waved that off. “Let’s see if we’re right.”
+
+As to what they might or might not be right about? Well, for magic—or reality for that matter—to affect something, it effectively had to overcome the weight of it.
+
+On the physical side of things, this was generally called inertia, though static friction often came into it some of the time as well as other forces and factors.
+
+For Mages and magical alteration, that was most often discussed as magical weight, because essentially every Mage had so little inertia in reality—let alone void—that those basically didn’t factor. To overcome them on those fronts was no harder than doing so with any similar matter.
+
+So, the Academy—and most masters—taught the concept as magical weight when it was really—more accurately—existential weight.
+
+It was like talking about how hard it was to walk with the weight of a backpack, and discussing different packing methods and such. Everyone knew that the person carrying the pack would also be moving their own weight and body, but that was fairly constant, so it wasn’t brought into it.
+
+If this worked as they were thinking, Tala would be able to increase the existential weight of what she shrouded, making it monumentally harder for anything external to affect it in any way.
+
+There was the issue that she was effectively ‘faking’ void, but she’d been doing that for years anyway. She had no direct method for interacting with or manipulating the power of the void, only for utilizing it through secondary effects. It was rather funny as Kit—a complete part of Tala—had been a voidling, but that didn’t actually mean she’d used the void. That kind of creature was simply a resident of—and therefore resistant to—the void in which they lived.
+
+This would still be the closest that she’d ever come.
+
+If it worked.
+
+Rane was grinning at her. “Well? Shall we test it?”

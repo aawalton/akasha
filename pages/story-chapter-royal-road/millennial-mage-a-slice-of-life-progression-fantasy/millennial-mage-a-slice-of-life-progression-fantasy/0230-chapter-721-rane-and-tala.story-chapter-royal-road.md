@@ -1,0 +1,247 @@
+---
+id: ee6aaa10-2c3a-5fe6-8cc8-ac4f33a5d8d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 721 - Rane and Tala"
+slug: 0230-chapter-721-rane-and-tala
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 230
+ownLength: 2578
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3606857/chapter-721-rane-and-tala"
+royalRoadId: "3606857"
+---
+
+Rane’s magics slammed into a wall, and even as he battered it down, he knew that it was a losing proposition, at least at the moment. The captain was still too in-command of its faculties and abilities.
+
+His grip was broken before he could truly bore into the defensive workings. The captain had recovered enough to launch an assault of its own. Rane staggered backward as a lance of reality struck at him, managing to suppress his enhancements for a fraction of a second before his soul roared and his own power and borrowed authority threw the attack aside, tearing it apart.
+
+He grit his teeth as he fought to catch his balance. He was no Reforged with complete and unquestioned mastery of his own body. He’d chosen to delay that step, and it was costing him now, even if only briefly.
+
+But he was still Rane Sappherrous, Paragon of humanity, Sculptor of Motion and beserk warrior of the Gredial line.
+
+His soul continued to rise in response—bolstered and focused by his boon—countering the last vestiges of reality attempting to hold him back.
+
+He called his sword back to him, and it came. A blink later, he exploded forward—after the retreating captian—Force sweeping in great, lightning fast arcs.
+
+The captain continued to backpedal away from Rane, its field rising up to minimize the blades of kinetic energy that were launched its way.
+
+The automata couldn’t really destroy energy, and Rane’s attacks actually contained very little magic.
+
+Over years of practice and perfecting, Rane had altered his inscriptions and natural magics to mesh with his soulbound weapon and create a devastating tool.
+
+Most accurately, it was two, opposing clusters of kinetic energy, imparted through his swing of Force and his own magics to be in perfect balance. His power held the energy in a state of flux, unable to attach and affect matter directly until it reached his target.
+
+At that point, the impact would create an obsidian-edged line upon which the energy would be imparted, half driving one way and half the exact opposite, opening the way for the next portion to get a bit deeper and sheer further and further in.
+
+It was a cut with no blade, the sharpness created and determined by the minute line of division between the opposite forces.
+
+Unfortunately, it was still magic that held the kinetic energy back, keeping it from being imparted on any of the intervening matter.
+
+As such, when this meticulously crafted working of magical precision entered the reality field of a captain of the Black Legion, that inhibition was the only part that could be effected, the energy left to act on what surrounded it.
+
+The air itself was parted, the energy imparted there.
+
+And in that came an advantage that Rane had never considered.
+
+He had sent a series of cuts tearing through the distance between himself and the captain in an almost unbroken stream, and it had an unforeseen effect.
+
+As each blade effectively triggered at the same point of space—at the edge of the reality field—they created a region devoid of even the matter normally present in the atmosphere, with each subsequent attack entering the same space and either widening it or, in the case in the true center of the attack, passing through a void, unable to be imparted until it reached air further in.
+
+As such, Rane’s attacks were actually drilling closer to the captain with every ‘disrupted’ blade, creating a rough cone of void.
+
+If given enough time, it might have been able to penetrate all the way to the automaton, thus bypassing the Black Legion’s greatest defense, but Rane didn’t fully grasp what was happening, and he moved to reposition in order to gain advantage and press the enemy against the blades of the Talons who were joining him in the battle.
+
+This left a cone of void, with the final blades of energy diving into it. Those passed the large end of the void—allowing that to begin collapsing—while imparting their payload further in, keeping the smaller part of the cone a void for longer.
+
+The result was a collapsing of air inward fully refilling all at once, and as such, less than four seconds into the battle a concussion of immense sound shattered the area.
+
+It was a detonation of atmospheric collapse, and thus shouldn’t have been so powerful, but it was something else as well.
+
+It was a thing of void, created by the interaction of reality and magic in a hostile clash, each side backed by the weighty power, will, and authority of very advanced combatants.
+
+The existence explosion was far more than a simple thunderclap.
+
+It was more than any Mage could have created by simply denying an area of atmosphere and allowing it to repressurize.
+
+It was more than an arcane could create by imposing the concepts of explosion, or detonation, or any other variation to a section of air.
+
+Every warrior present was flung away by reverberating air that was more than air, all of reality trembling for miles in every direction.
+
+In the aftermath, it was—unsurprisingly—the automata who recovered quickest, and they pounced upon the Archons who were still trying to get their bearings.
+
+The Talons recovered somewhat more quickly than their Mage colleagues, being steeped as they were in more powerful magics, and having greater metaphysical weight. As such, it was the Talons who fought to their feet and defended the Defenders for the next, furious seconds.
+
+Their hyper focus—esentially to the exclusion of all else—on physical enhancement, coupled with their Reforged level power density and backing behind those enhancements, allowed them to move far more rapidly than than the still recovering automata and vastly more quickly than the far less physically and magically robust Refined Defenders.
+
+Rane was just a hair behind the Talons in his own recovery, and that’s how he found himself facing the captain on his own.
+
+He might have been confused at why his Talons were no longer there to help him, but Enar placed the knowledge in his head that another half-dozen automata had finally joined the fight.
+
+Apparently, this had been a sort of ‘kill squad’, and there had been another few lieutenants holding the Doman-Imithe side of things in reserve.
+
+They had either been called through, decided they were needed, or the existence implosion had forced them to the superficial of Zeme.
+
+Rane really didn’t have time to consider the various possibilities that Enar presented, ready for when he did have time.
+
+Thus, Rane closed and clashed with the captain alone.
+
+The Black Legionnaire was obviously skilled and moved in ways that no human could while maintaining strength, even while it kept that humanoid form, but Rane was more than up for matching a captain stroke for stroke.
+
+He didn’t know exactly what had happened—even with Enar having already analyzed the events, come to a conclusion, and placed that information within his mind—and he didn’t trust that such couldn’t happen again. Thus, he was left with a more close quarters fight.
+
+It was a blessing that Force was soulbound to him, else he would have had trouble maintaining the magics within it that kept it strong and sharp despite its wooden construction.
+
+The captain’s sword was disappointingly mundane. It wasn’t even mundane in the ‘no magic allowed here’ sort of way.
+
+It was a simple sword, but well enough crafted that Rane didn’t expect to be able to break or otherwise damage it during their exchange, at least not without direct applications of magic, and that wasn’t happening.
+
+The mundanity of the blade did give him more options, though, as his own armor was soulbound and anything but mundane.
+
+He let a strike through, twisting properly to take the blow on his breastplate, the material easily resisting the edge even as the elegant construction redistributed the force across his torso.
+
+The blow was hard enough to move him sideways, but he’d expected and planned for that.
+
+He took the strike to keep both arms free for a two-handed slash, which he drove into the automaton’s leg with a crack.
+
+The enemy armor resisted the cut, but the joint bent the wrong way and any human—even a Talon—would have been incapacitated.
+
+But this wasn’t a human.
+
+Even so, the hit still drove the limb downward, crumpling the joint and bringing its head closer.
+
+Rane let go of Force with his off-hand, whipping it upward in a crushing, rising backfist. His entire body twisted with the strike, and his harnessed, berserk strength added tremendous force to the already powerful blow.
+
+The white steel of his gauntlet groaned under the force of the blow, and the captain’s lower jaw splintered, delicate inscriptions and workings of power disrupting and sending sparks of magic and distortions in reality showering outward.
+
+Even so, the automaton wasn’t done.
+
+It rolled with the hit—likely the only thing that saved its head—and kicked upward, trying to take Rane with a surprise attack.
+
+Rane’s right hand released Force and caught the rising foot, slapping downward with a meaty impact, his arm flexing to absorb the power.
+
+With that hand-hold, he jerked, pulling the thing closer and letting him snap both hands up to grab the captain’s head once more.
+
+The automaton met his gaze, and Rane thought he saw a note of longing in its eyes. Even so, as he threw his power and authority against the soul-spirit pair, seeking to free the soul-core and destroy the spirit, it resisted.
+
+He bent his will, his boon enhanced soul, and his entire metaphysical weight against the defenses, breaking through with relative ease, but not fast enough.
+
+As the last layer crumbled, light left the automaton’s eyes, the consciousness within, fleeing back to wherever Black Legionnaires went to await reconstruction.
+
+Rust! He could have killed it much faster if this was going to be the result either way. He’d wanted to banish it, not just kill it. His efforts had been for nothing!
+
+Rane ripped his hands to the side, taking off the captain’s head—with a great squeal of tearing metal—before throwing it into the ground in frustration.
+
+He looked around to see the rest of the automata destroyed, and healers already moving to help the few wounded.
+
+The bombardment from above had ended.
+
+They had won.
+
+But I lost.
+
+He growled internally even as he got reports from the victors, his mind still somewhat clouded by his berserking state.
+
+He began the process of calming his soul, even as he received the information, Enar helping him process it through his fading fugue.
+
+The automata that had arrived at the end were different somehow. They were still of the black steel, but their construction was less utilitarian. In fact, they almost looked to have been grown rather than built.
+
+He willed them into Irondale, delivering the oddities to the researchers therein before returning his thoughts to the fight.
+
+I wasn’t fast enough.
+
+The Defenders were exhausted and were requesting transport up to the city above for at least a day of rest and recovery. He easily agreed.
+
+I wasn’t strong enough.
+
+The Talons secured the area, then most willed themselves back into Irondale to address their own needs.
+
+I let him get away.
+
+He retrieved Force and sheathed the weapon.
+
+He’d thought that taking time to Reforge would be a waste. After all, he was capable of helping as he was and so taking that step would have been purely for selfish reasons.
+
+He’d been wrong.
+
+Even as he willfully finished calming his soul—tucking the boon away for later use—he made a decision.
+
+I advance.
+
+* * *
+
+Tala sat in a meeting room, a truly stunning view visible out through one transparent wall.
+
+She’d been welcomed with open arms by the ruling council of this city, and her call to arms was being answered.
+
+Now she got to simply wait while they mustered, preparing to depart either with her or to make their own way to the staging area.
+
+It had been nearly a day since she’d left the Mountain Kings, and things were moving at a reasonable pace, but she was chafing to get back to the fight. She already had three settlements’ worth of gateless warriors in her sanctum, with the gated traveling on their own, to allow her to keep up her current pace.
+
+She still chafed at any delay.
+
+To be clear, the leaders of this city had been quite courteous, offering her whatever she wished as she waited.
+
+Currently, she was sipping a glass of juice, squeezed from a fruit that she’d never encountered before, but which apparently grew quite well at extreme altitudes and in more extreme conditions.
+
+Magical breeding programs for the win, I suppose.
+
+-You know that would sound absolutely awful out of context.-
+
+Yeah, well, it’s my own thought. Who’s going to take it out of context?
+
+Alat sent a mischievous, knowing smile.
+
+Who’s going to take it out of context, Alat?
+
+Before the alternate interface could respond, they both felt a pull at their very soul.
+
+Tala’s eyes went wide. I knew he was close but—
+
+-But we expected to know before he made his attempt.-
+
+Tala growled. I hate the restrictions on the Archive.
+
+-I mean… we could go try to kill the information dasgannach? Might be a fun little sidequest.-
+
+Tala sent Alat a flat look. With what time?
+
+She took a sip of juice before pausing with a groan, Alat cackling.
+
+Yeah… I walked into that one.
+
+They both fell into silence, thinking of her husband. They both looked across the miles at the distant part of herself. They looked at the part of Ironhold that Alat and Enar were using in order to communicate on occasion.
+
+I… don’t have any idea what that says.
+
+-He said he loves you, and he apologizes for not taking this step sooner.-
+
+Tala smiled, swallowing unconsciously. She trusted him and his judgement, but she still didn’t like the chance of losing him, not like this. A large part of her wanted to toss everything else aside and go to him, to be there for him however he needed.
+
+He’d offered her the same when she Reforged even if she’d said no. -And we offered to be there with him. He didn’t reach out to us. Going now would be to dishonor his choice and show him that we don’t trust him.-
+
+Tala grimaced. I know… I also know this wasn’t unexpected.
+
+-Yeah, those soulbound to higher tiered Archons tend to have an easier time advancing.-
+
+Except for Refining.
+
+It was Alat’s turn to grimace. -Right, except for Refining. That requires a different kind of… mindset.-
+
+But he’s Reforging.
+
+-He is indeed.-
+
+Tala allowed her expression to shift, slowly becoming a small smile. It will be good to be on an equal footing with him again.
+
+-Indeed it will.-
+
+She shifted in her seat to look northwest, even though that meant staring at a solid wall. “Good luck, Rane.”
+
+She almost said something like ‘My authority is yours in this.’ or some other such impartation from her to him, but she held back, knowing that Reforging—more than most other advancements—had to be done on one’s own.
+
+Soon enough, Rane would step up beside her or fall away, leaving her and Lea without a husband and father.
+
+Her eyes didn’t waiver, her heart was confident in his choice.
+
+May the stars bring you back to me, soon.

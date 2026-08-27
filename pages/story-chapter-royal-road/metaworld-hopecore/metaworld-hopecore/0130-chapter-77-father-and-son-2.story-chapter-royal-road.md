@@ -1,0 +1,191 @@
+---
+id: 9e8da5f2-0050-5daf-82e1-3d57b8a1772d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 77 - Father and Son (2) "
+slug: 0130-chapter-77-father-and-son-2
+partOf: metaworld-hopecore
+position: 130
+ownLength: 2168
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3683193/chapter-77-father-and-son-2"
+royalRoadId: "3683193"
+---
+
+Eppie found her mark near the edge of the exhibition’s temporary lobby space, set up with canapés, drinks, photographers and posters of what was to come inside the Tisch Gallery’s partitioned spaces.
+
+Valorie stood next to… Eppie squinted. Picasso's “Woman in White”?
+
+To Lana, the significance lay in the 40 million USD figure attached to the work, when the Met gradually became hollowed out by political influence, until its own charter was changed to allow individuals like Bezos to “own” certain paintings through donations.
+
+To Eppie, the significance lay in that, in Vaughan’s house, Valorie had stood beneath Madame X in black.
+
+What this symbolism portended, Eppie could only guess.
+
+Valorie looked glorious in a scattered emerald dress. Unlike her costumes with Sir Woodhouse, she had swapped her iconic deep plunge for something more demure. It was a maxi dress that swept the floor, leaving her shoulders bare while everything else was covered.
+
+Long enough to hide the bruises? Eppie studied the girl as she approached.
+
+The man next to her could only be Senator Francis Sanders, looking exactly as a decade of C-SPAN clips and campaign photography had conveyed: silver at the temples, a jaw that photographed well, charming and charismatic. If the man hadn’t looked so cold, she would have attributed his resemblance to George Clooney.
+
+“Valorie!” Eppie slid into place, her heels click-clacking as she looked at the giantess. “We meet again.”
+
+“Eppie.” Val's smile was automatic but frantic, stretched a little too carefully over whatever was underneath. There was fear in Val’s eyes, like the moment the school principal finally met their unknowing parent for the first time, for a meeting about anti-social behaviour.
+
+“And you must be Senator Sanders.” Eppie offered her hand; his grip was firm; it was the shake of a seasoned politician.
+
+She returned the same shake, much to Sanders’ unexpected recognition.
+
+“Ms Fontaine. I've heard a great deal about you.” His eyes crinkled at the corners. “I am so glad that you found Kiritani Sensei. Had we lost him to history and discovered his art too late, the whole country—its history—its conscience, would have suffered.”
+
+“Valorie was there as well,” Eppie recalled seeing Val with Sir Woodhouse. “I should have dragged her with me into Central Park, hahaha.”
+
+The three of them laughed, Valorie’s with more nervousness than mirth.
+
+“Thank you for being Valorie’s friend,” Sanders said. “Sir Woodhouse had nothing but praise for you. He said that you helped Valorie make up with Dame Vaughan. That you helped my daughter when she got lost at the Christmas Gala.”
+
+“I did what I could,” Eppie blushed for Valorie, who was now blushing so furiously that her exposed shoulders were pink.
+
+The word Friend did a lot of quiet, revelatory work in Francis’ sentence, and Eppie wasn’t going to let sleeping dogs lie. If that’s what Val had been telling her father, then her plan for Val was already falling into place.
+
+“Eppie is a fantastic songwriter and singer,” Valorie said quickly, the compliments coming out of her uncontrollably. “She’s a Grammy winner. Record of the Year—she wrote 'Umbrella.'”
+
+“You’re the one responsible for my intern’s taste in music?” Francis laughed again. “Well done, Ms Fontaine. Will you be gracing us with a song tonight?”
+
+Eppie smiled. [Charisma], [Comeliness] and [Persuasion] fired up all at once.
+
+“Only if Valorie joins me.”
+
+“WHAT?” the two of them answered as one.
+
+Valorie’s paranoia turned into genuine confusion, the kind that not even a natural actress could hide. Then, it turned into suspicion.
+
+“Fontaine! What the hell are you up to now?” Her fear leaked out before she could catch herself. Her tone was accusatory, sour, acerbic, truly… prime Valorie.
+
+Beside her, Senator Sanders looked at his daughter as if seeing a side of her he had never seen before. “Val?”
+
+Valorie rocked shut like Antigone’s tomb.
+
+“Excuse us a moment, Senator.” Eppie gave the Senator a blindingly dazzling smile. “I think Dame Vaughan wants a personal word with you.”
+
+Eppie looped her arm around Valorie's waist before either of the Sanders could object, picked her up like a paralysed Barbie doll with her [Strength] of 21, then moved her Roman marble body away from her father into the contemporary arts wing, where the lights were ambient and patient.
+
+The MET. The Contemporary Arts Wing.
+
+It took Valorie about five minutes to finally recover from being bodily carried by a girl who had lifted her off the floor and dragged her away. The pain, when it finally reached her brain, made her kneel for another minute before she could stand.
+
+“What the hell was that?” Val huffed, the emerald silk of her dress catching the gallery light. “How the hell are you so strong?”
+
+“Does it hurt?” Eppie pointed to the small of Valorie’s back, her hips, and her abdomen. “Last night, I couldn’t tell if you were beating William, or if he was going to town on you.”
+
+Valorie went red. Not embarrassed-red, but a deep, sudden, involuntary flush that told Eppie everything before a single word could be uttered. Valorie lashed out, in Eppie’s eyes, in slow motion, with a hand, aiming to slap Eppie across the face. Eppie caught Valorie’s wrist easily, then—gingerly—she reached out and pinched Valorie above the hip, an old, cruel, childish little test.
+
+Val’s breath caught in her throat. The flesh there must be bruised, for the half-moan, half-groan that escaped from Val’s intake of breath was sharp and unbidden.
+
+“Sorry…” she winced. “I didn’t think… it was that bad.”
+
+Fuelled by another flush of embarrassment, Val moved to slap her again.
+
+“What would Francis think?” Eppie effortlessly diverted the strike. “If he saw you now?”
+
+Valorie froze so fast, Eppie wondered if the [System] had cast a spell.
+
+Her complexion turned from drunk-happy pink to ivory-white so fast it looked like a trick of the light. Valorie’s eyes cut from Eppie to the door, toward where Francis was tied up by Juliana Vaughan and Mirabelle, who would play along even without complete knowledge of Eppie’s plans.
+
+“You must… love him very much,” Eppie said, her tiny body against the enormous dark door. Her words weren't an accusation. They came out softer than she intended.
+
+Val's neck grew scarlet again. Something ugly and grief-shaped moved across her beautiful face: anger, shame, some unspecified fury. Valorie had no comebacks for the truth. She looked like she might, for one terrible second, cry in the middle of the Contemporary Arts wing.
+
+“If you love him so much, then you should know that what William is doing to you, to your body, to your… head, will break his heart.” Eppie’s [Vocality], [Persuasion], and [Charisma] made her voice no less aphoristic than if Morgan Freeman had delivered the speech himself.
+
+“I don’t know what you’re talking about.” Valorie’s denial came hard and fast, but at least she wasn’t trying to bitch slap her Sophomore classmate.
+
+“Val,” Eppie said drily. “If I tear off that dress right now, how many bruises are you going to have?”
+
+Valorie clutched her sheer maxi-dress tightly against her neckline.
+
+Eppie waited for Valorie’s infamous temper to cool. She had time. Between her daughter-napping and the beginning of Kiritani’s show, they had three hours.
+
+“You don’t know… anything.” Valorie walked back in her heels, afraid that Eppie, with her barbarous strength, might just end her and her father’s career with one tug on her flimsy dress. The daughter of Senator Sanders, running topless through the Met. What a headline that would make.
+
+Eppie’s [Act Natural] changed gears. Now was the moment she had been engineering for the last thirty minutes.
+
+“It’s not your fault that your mum died,” she said quietly, delivering the lines with [Vocality]. “Your Dad needed time to breathe through his grief, and then he got lost in it.”
+
+Eppie felt relief flood her body like warm water. Her gamble had been correct. The Senator’s scheduling, Val’s loss of her mother, the ‘him’ she had murmured, it all added up to a simple, almost childish truth.
+
+Val was lonely. She wanted the daddy she had grown up with, not this cold politician who couldn’t bear to be in her presence.
+
+“Shut up…” Valorie’s emerald eyes were already brimming. She was a good actress, good enough for TV, but she was still just a kid.
+
+Eppie took a deep breath and a step closer to the girl, clutching the fabric of her neckline.
+
+“Val. I don't have a dad,” Eppie said, before the anguish could curdle into something worse. [Act Natural] and her [Physicality] did the work while her [Vocality] choked up. “I never had parents. Whatever you possess now—however meagre,” her voice choked up, almost imperceptibly; her eyes grew moist. “I never had that, Val. Not even the broken version you’re holding on to with all your strength.”
+
+Val looked at her like she'd been handed hot coals.
+
+At least the girl’s still empathetic, Eppie felt a wave of relief. Knowing William, he would probably laugh in her face or start taking off her top.
+
+Valorie didn't say anything. But something in her face had gone very still, and very far away, the anger draining out of it like venom from a pus-filled wound.
+
+“I think your father loves you so very much,” Eppie continued, her voice resonating against the vaulted ceiling. In the empty museum, she sounded as though she was channelling a higher power. “If you talk to him, express yourself, he’ll understand.”
+
+“What do you know?!” Valorie raised her voice as well.
+
+Then Eppie came closer. It was a facsimile of something she had seen in a movie a long time ago, but she had felt it then, and she felt it now, and she knew it was the right thing to do.
+
+“It’s not your fault, Val.”
+
+It was working. Her words landed on something soft. Valorie blinked, once, twice, and Eppie watched the practised machinery in Valorie’s head grinding back into place, spine straightening, chin lifting. She was the Senator's perfect daughter, reassembling herself one vertebra at a time like nothing had happened at all.
+
+“You don’t know anything—”
+
+“It’s not your fault, Val.”
+
+She repeated the words. No excuse, no new angle, nothing Valorie’s own head couldn’t process. She was a smart girl. She was an excellent actress. She could be sympathetic and empathetic with Lavinia. Hence, Eppie understood, when she had planned this moment, scene by scene, that Valorie must come to a conclusion she already knew for her to be saved.
+
+Her friend’s mouth opened for another mocking rebuttal. Eppie came closer, closing the two feet between them so that they were face to face.
+
+“It’s not your fault, Val.”
+
+“Shut up!” Valorie’s voice was swallowing itself. Something was welling up, and she was powerless to stop it.
+
+“It’s not your fault.”
+
+“Stop it!”
+
+“It’s not your fault.”
+
+She clinched Valorie like a boxer. Pushing Valorie’s face into her shoulder, so that if Val should wish, she could take a chunk out of her jugular.
+
+Valorie’s perfect-daughter facade held on for another second, then, against Eppie’s body, something collapsed.
+
+Eppie was choking up as well, caught in the emotional resonance, caught in the memory of her own loving parents, Lana’s parents, who were still alive and living it up when she fell from that boat. What would they say, how would they feel?
+
+Something warm touched Eppie’s neck, and she hoped to God that it was tears. Val better not kiss me again, reflex or no reflex. The first time was weird enough.
+
+Thankfully, she was right.
+
+The green silk at Valorie’s bare shoulders started to shake, small at first, then not small at all, and Eppie watched five years of composure, the hallway walk, the carpet smile, the bitch queen of LAPA, melt into wracking sobs.
+
+“I forgive you. For everything. Mio’s forgiven you, too, and Simone… understands.”
+
+Valorie's knees simply stopped being load-bearing, but that was fine. Eppie could lift a Valorie in each hand if she tried.
+
+Her friend didn't cry pretty. Nobody did, when the dam broke for real. The emotion that escaped came in ugly, heaving pulls, her whole body fighting the release. Her hands formed fists and punched the front of Eppie's dress hard enough to leave marks she wouldn't find until she undressed that night.
+
+Quest Advanced
+
+[The Usurper of Hope]
+
+Your actions have reaped the Usurper’s Causality.You have prevented one of the [Usurper]’s victims from [Karmic Decay]You have gained immense Causality.
+
+Eppie held on. She didn’t need the [System] to tell her that she had done 'good'.
+
+Human compassion had done its job, and now, it was time for catharsis.
+
+“When you’re done crying,” Eppie said in between her own sobs. “I’ve written a song for both of us to perform.”
+
+“A song?” Valorie pulled herself away. Her meticulous make-up was ruined aesthetically, and her eyes had gone soft, becoming brimming, reflective pools.
+
+“Yes, a song, a deceptively easy song,” Eppie said. “A song for Francis Sanders.”

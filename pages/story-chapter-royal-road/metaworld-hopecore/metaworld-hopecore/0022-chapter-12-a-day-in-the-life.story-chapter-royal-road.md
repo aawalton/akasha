@@ -1,0 +1,259 @@
+---
+id: 2de1a772-2ccf-5cf5-a7bc-154e05f360c5
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 12 - A Day in the Life"
+slug: 0022-chapter-12-a-day-in-the-life
+partOf: metaworld-hopecore
+position: 22
+ownLength: 3662
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368568/chapter-12-a-day-in-the-life"
+royalRoadId: "3368568"
+---
+
+"The mouth is the source of disaster."
+
+Confucian Proverb
+
+Day Three was when adrenaline turned to repetition.
+
+Mama Josefina made them breakfast. Halle took them to a practice suite she somehow hired for yoga, and Eppie taught the girls the tantric arts using borrowed mats.
+
+The Freshman talked about boys in her basic classes, and the Junior talked about the scramble for October auditions. From her “senpai’s” words, Eppie discerned that the school would slice and dice Titus Andronicus into three major components, then further dissect the play with the students to get “postmodern” with it.
+
+Then they changed into their everyday clothes. East Coast trends for Ava. West Coast cool for Halle. Kmart for Eppie.
+
+Her “Fit-check” continued to involve nothing spectacular. However, the Californian summer remained scorching, making even crop tops and uninspiring jeans near unbearable.
+
+At the Quest Board, she read the latest offers by the newly formed Jazz Ensembles and fancied a relaxing evening listening to some of the performances. Apparently, the competition between the musicians was a weekly battle, and kids dropped in and out of ensembles like revolving chairs, unable to keep up with the pressure.
+
+While looking for her redhead, she met Armand Amar again. They chatted, he told her some gossip about the Seniors, then they parted. A part of her wanted to use Armand as a wedge to dig into the lives of the Seniors and uncover the connections between herself and the redhead, but the day was young, and her schedule was busy.
+
+Once she dealt with her challenge exams, she would have more time to both live out the life Eppie could not—and investigate her own murder.
+
+Her first lesson was English Honours.
+
+Dr Kirby continued with the classics. After a head count and a homework check, she dove into the mechanics of Aristotle's Poetics.
+
+“Greek Tragedy,” the silver-haired professor spoke with her hands as well as her voice, though compared to Mr Cooper, she sounded like a mono-speaker stereo. “Is public education. It's a service. It's virtue ethics.”
+
+“The tragedy is a form of theatrical veritas—the imitation of that which is serious, complete and must possess a certain mass.”
+
+Her instructor invited the class into an Aristotelian Circle to discuss the stages of the tragedy in groups, from the Noble Hero “better than we,” to the Hamartia “flaw”, to the Peripeteia “reversal,” to the Anagnorisis “recognition,” to finally, the Catharsis, the “purging” of negative emotions.
+
+Somewhere in the midst of Kirby’s droning lecture, Eppie found herself pondering if she, too, was the victim of some Godly tragedy. The [System] was certainly something outside human knowledge, and its particular rules of [Karma] smacked of old religions that ran on virtue ethics. Lana was rich, a modern nobility, and her Hamartia, she supposed, had been gluttony. But was she Antigone or Creon? She who had transgressed the heavenly laws with her human rules was certainly Creon.
+
+If so, was Eppie her anagnorisis? Was she to purge the negativity of this body? This school? This nation? This world? By the 2030s, her old world had become a genuinely maddening place where every social structure teetered on the edge of ruin. Was there also an Eppie sent to her world to set its course right?
+
+And more importantly, was she the subverting, Postmodern hero of her own tragedy, or was she merely a face in the course of someone else’s rising action?
+
+Homework was a five-hundred-word write-up on the 5 stages. Her next class was Chemistry, which she skipped, and then French, which she skipped as well.
+
+Instead, she retired to the library to work on her AP Physics and Japanese.
+
+Here, [Memorisation] and [Intelligence] became a beautiful thing of wonder. In her prior life, Lana had been a mathematical wunderkind. It was a given, a basic skill really, for anyone who wished to master both Actuarial Studies and Finance. As a part of her Wharton entry requirements, she had aced AP Physics. She had aced everything, in fact, scoring 2240 on the old grading scale while simultaneously earning rare accolades from her private girls' preparatory school, including international debating championships.
+
+As Lana, she had never, NEVER in her life, considered the arts. Like all wunderkins of that era, they dove headfirst into finance, and the result was a world that grew a little worse for every talent lost to the fundies.
+
+That life, however, was now behind her, and what remained of Mechanics, Thermodynamics, Electricity, Magnetism, Waves, Optics, and Nuclear Physics, even Astrophysics, was recalled as if she had refreshed the course only weeks ago.
+
+The second section was more troubling—but she had sample answers, and her mind was very quick to re-learn the ways of trigonometry thanks to [Arithmetics]. Her only problem was the explanations, for the formatting and phrasing in her samples took some getting used to.
+
+AP Japanese was, comparatively, a hoax. She had, after all, lived and worked in Japan and China on and off for years, parlaying with business partners at the highest level. Where most students would find Kanji exceedingly difficult, Kanji was her forte, while Katakana still led to the odd mistake.
+
+As for section II, the test was a breeze. She had to read chat messages, write about American Culture from the vantage of a Japanese native, and finally, hold a conversation with a computer recording and deliver a two-minute diatribe. For the latter, she already knew exactly what would blow the marker’s minds, which is a treatise on the difficulty of exporting Japanese J-Pop to the West. A presentation she had literally delivered during the Sony IP Merges.
+
+She left herself only thirty minutes for lunch, which she spent on a log-sized shawarma, then she arrived at her favourite subject—Sophomore Theatre.
+
+There was no David Cooper today, only Costello and Seyrova.
+
+This time, Eppie and the other students were lined up against the wall like prisoners and told to use the padded barrier as their acting partner. Against their private section of the wall, they stretched out their bodies, shook out their limbs, and became “neutral”.
+
+Seyrova walked the line, critiquing each actor's balance and fixing their poise.
+
+“Relax, Eppie,” her teacher spotted the tension in her stressed-out body almost immediately. “Why are you gripping the mat with your toes? Are you being chased? Is there someone here you are afraid of?”
+
+Eppie laughed nervously at her instructor’s insight.
+
+“Let your sole touch the ground. This isn’t ballet. Lower your arch, relax… like this—”
+
+Seyrova dropped her body at once, becoming weightless, becoming neutral. “To become someone, your body must not belong to you. What good is Antigone in your voice, your upper body, if your feet move like a high school student trudging to the next class?”
+
+“This is why in theatre, the look of the actor or actress can sometimes be a burden, and why many of the greats merely look presentable, rather than sublime,” Seyrova continued, possibly mistaking her secrecy for defiance. “I look upon your body now, and I see all of your anxieties. There is so much… noise. What I need—what you need—is to become tabula rasa.”
+
+Seyrova watched the others return to their task before leaning in toward her for a more private session. “Your spine is hunched, Eppie. You’ve been studying, but it also represents other stresses. Money, most likely. Your face is smiling, however, positively beaming—oh, to have skin like yours once more. Alas, this is vanity. And your legs…”
+
+Seyrova cocked her head. “Are they yours? They seem to be overconfident and vain, while paradoxically frightened and quivering. So what is it? Make up your mind.”
+
+Eppie had no answers. Either she had to reach her own epiphany, or [Roulette] one up.
+
+“YOUR BODY IS CLAY!” Seyrova shouted, projecting her voice expertly. “Mould it with your mind! Don’t stumble over it.”
+
+Their next exercise was more abstract, but also incredibly fun.
+
+Starting from their instructor, they must mime the passing of an object. The first pass was a medicine ball of the mind, with each student acting out the act of throwing and catching the “weight”. The second pass was a weightless balloon, a far more difficult exercise that involved the control of muscles to mimic delicacy and finesse. The third pass was a puppy, frightened and needing to be carefully passed from hand to hand. The fourth pass involved a combative cat, a rescue that they had to pass carefully, because some of them were marked as having “allergies” to cat fur.
+
+After the cat escaped and badly scratched Eppie, Costello took over.
+
+Once more, the group returned to neutral.
+
+Costello’s lesson was “The Walk”, using characters from Antigone, taking place on an early morning outside the Royal Palace of Thebes. Each by each, the students were asked to walk the perimeter of the gardens, pondering how they would break the news to a loved one that Polyneices’ body had been left to the birds.
+
+She did well this time. Not amazing, but well enough for some nods and remarks on her file. After all, she was an old soul. She had been to funerals. She had known loss: to walk with the phantom weight of guilt and grief were not foreign emotions to Eppie, as they would be for the kids.
+
+After theatre, she declined her peers' offers to join them for study, then ventured back to the CSULA library, dragging her duffle of study materials like Antigone dragging the rotting corpse of Polyneices.
+
+In her sealed cave, she studied until 7:30, jogged, ate dinner, then returned home to the hot and heavy embrace of Mama Josefina, becoming tabula rasa in her double bed.
+
+Thursday.
+
+Ava and Hille skipped Yoga, leaving Eppie to do her morning run alone. Unlike herself, whose [Stamina] was a controlled variable, her friends simply couldn’t after three days of conservatory-style study.
+
+After her jog and a warm meal, she re-orientated herself by performing what her theatre instructors called the “reset”. She sat on the floor of her bedroom, inhaling and exhaling, allowing her muscles to relax, feeling the minute spasms that signalled the electrical impulses driving her [Persona] body.
+
+Her morning lessons began with a double block of Algebra, which she used to revise her AP Physics math. Her instructor, an Indonesian mathematician called Mr Ali, had evidently received word and so left her to her own devices.
+
+In her “French” period, she went back to the library.
+
+After lunch, she found herself meshing with the theatre crew. Eating burgers and talking about the tragedy of teenage life. From their lunches, Eppie could see that LAPA was still the school famous for having all walks of life. Most of the kids still brought their lunches, mostly rolls and slabs of homemade sandwiches. The wealthier kids, some of whom she had seen around her dorm, bought fast food like herself. These they shared, putting together the trays into a democratic-socialist multi-cultural collective.
+
+“Eppie, are you from a rich family?” One of the girls asked jokingly. “You always eat out.”
+
+A few of the others laughed awkwardly. Eppie felt awkward as well. She had spent a whole year at the school as a Freshman, and after missing the final term of the last academic year, there were people who had no idea who she was. And these were kids from her own department! They did theatre together! Just how unmemorable was her former self?
+
+“What was I like, like, before?” She asked the group. “Before I took a break from school.”
+
+“You know, now that you mention it,” one of the boys, a Korean American kid called Min-jun who’d been very keen to keep her company, keenly studied her face. “What happened to you?”
+
+“I got sick. It was a medical emergency,” Eppie lied. “They stuck me together with glue.”
+
+“Omg, that’s terrible.” The kid’s eyes were genuinely empathetic. “Did you beat the illness?”
+
+“I… er… yes, I pwned it,” Eppie felt her body shivering as she dragged out the archaic slang.
+
+Her friends laughed.
+
+“So, what was I like?” She pursued her line of inquest. “I can’t exactly trust my own judgement.”
+
+“You were… really kind of… weird?” A girl called Lucy Tenterman made a face. “I remember you were totally gung-ho in the summer terms. After winter, you kind of changed.”
+
+“I did?” Eppie cocked her head sweetly. “Was I a bad girl?”
+
+Her audience laughed out loud. Or “Loled” as the Gen-Z would say.
+
+“Nothing like that,” Lucy snacked on a chip. “Like, we saw you get chewed out by Costello a few times. Chair Cooper had you in his office once or twice as well.”
+
+Eppie could imagine that. Everyone in LAPA, especially the normal admissions, was here to succeed. Even if Eppie had poverty as an excuse, to disappoint her passionate instructors would have been soul-crushing for a girl with such incredible [Traits]. Traits like [Weak Willed], [Demure], [Fearful]. Getting a dressing down from Cooper’s voice would have felt like a dik-dik being licked by a panther.
+
+“You started missing a few classes here and there… then…”
+
+The girl pantomimed an explosion, or perhaps a puff of smoke.
+
+“Whatever happened to the girl you used to hang out with?” Another girl, a Chelsea McQueen from Santa Monica, leaned in with an air of conspiracy. “You two used to be like this.”
+
+She pinched her forefinger and her thumb together in front of her face.
+
+“We were Italian?” Eppie asked, making the same gesture. The section lost it..
+
+“Oh, my god. She’s a Junior now, but she was a Sophomore,” Chelsea spoke while digging out a nugget from the stubborn cheese sauce. “I don’t know her name. Black girl from Dance? I think she’s contemporary Jazz.”
+
+“Ah,” Eppie nodded sagely. “Simone Goode?”
+
+“YES!” the girls clapped. “That’s the one. What happened? Did you guys have a falling out?”
+
+“What, were we dating?” Eppie had her suspicions.
+
+“Whaaaaa? Girlfriend, she was your roommate! Back at the old dorms!” Chelsea blurted out.
+
+The news came so fast and so hard that Eppie almost burst the cup she was holding.
+
+THE PLOT THICKENS.
+
+“Oh, if you mean that. Yeah, well, people change,” she sighed. “You know how it is.”
+
+Her friends nodded as if they also understood. Indeed, in a competitive conservatory where roles had to be auditioned, and 60 kids fought for 10 to 30 places, people did change. Rapidly. For Eppie, however, nothing changed people faster than that first six-figure paycheck after an M&A. The success became an addiction; her peers were forever chasing the first high of their multi-million dollar closer.
+
+“You’ve changed too,” the Korean boy smiled warmly as if in a drama. “For the better, I mean.”
+
+“Oh MY GOD, Min-Jun!” “URGGGH—” “Holy cows, he just went there.” The group grew so clamorous that a few of the university students started giving them dirties.
+
+“Sorry, Min, I am a bit preoccupied for the foreseeable future,” Eppie shot the boy down like C-RAM downing a drone during the mid-2020s Gulf War. “I appreciate the effort, though. I really do.”
+
+“Hahaha…” Min-jun fell from the chair as if struck by a bullet in the chest. She pulled him back up.
+
+“Did anything weird happen when I went away?” she asked. “Or did the disappearance of Eppie Fontaine faze no one?”
+
+“Actually,” Chelsea leaned in once more. Clearly, she was the gossiper of the group. “Did you hear about the Junior year scandal over winter?”
+
+“Come on…” Eppie pointed at herself.
+
+“Oh yeah, sorry,” Chelsea self-course-corrected. “So, have you heard of the name Luciana Mio? Luci for short? She would be a Senior now if she had stayed.”
+
+“Nope,” Eppie shrugged. “But I am all ears.”
+
+“Alright, so, late January this year, they announced the casting call for the Senior Final Project. It’s a postmodern Taming of the Shrew, with a gender-bent twist. Mr Cooper’s producing it. He got a friend from the Roundabout Theatre Company to fly down to direct it. It was all very happening. The role selections were announced, and Petruchio was given to Luciana Mio in the audition, probably because the new Director doesn’t give a shit about our local politics, Mio thrashed our local celebrity, Valorie Sanders.”
+
+Valorie Sanders. Eppie noted. The plot thickens yet again.
+
+“Is that a scandal?” Eppie asked. “Rich girl beaten by… a poor? Talent trumps privilege? How un-American?”
+
+“HA!” Chelsea gave her a look of smug superiority. “Why would that be interesting? You see, Sanders was dead set on that role for some reason. Her Dad had contributed god knows how much money to the production, and now his daughter’s going to play second fiddle? That’s crazy, right?”
+
+“There was this whole hoo-ha about Cooper picking Luciana,” Min-jun explained, having recovered from being shot in the heart. “You know, Mr Cooper’s big on the whole social inclusion thing. Luciana’s family are refugees from Peru, they’re Nikkei, you know? Peruvian Japanese? They came over during the unrest in Lima, certified refugees. They rented a hole-in-the-wall joint in K-Town, selling Peruvian chicken… I know them because that’s some damn good chilli chicken—”
+
+The boy paused, suddenly noting her massive tray of fast food. "Aren't you meant to be poor or something, Eppie?”
+
+“No, not really,” Eppie waved the boy away like swatting a fly. “Chelsea, continue.”
+
+“Okay, okay. So, the Sanders family made a hoo-ha, Mr Cooper told them to buzz off. Principal Burton said he’ll CAN the whole production if Pay2Play folks interfere again. That got VP Thomas into a real tizzy. Sparks flew in the Admin building. The Chairs take sides. All of LAPA trembles.”
+
+“Yo,” Min-jun interrupted the flow again. “Eppie, aren’t you living with the Pay2Play folks right now?”
+
+“SHUT UP!” Lucy snapped at the young man. “I want to hear this, too. I’ve never heard of this part.”
+
+“Then… Luciana disappeared."
+
+“What?” Eppie almost swallowed her straw. “Someone tossed her off a boat?” Into the Santa Monica Bay?
+
+“What? No! Don’t be ridiculous,” Chelsea’s eyes narrowed. “They say that Luciana had er… affairs outside of school. She either got sick from a you know what, or was… You know what. And she kind of just stopped coming to school. They ended up giving the role to Valorie.”
+
+“Egh—” Eppie tried her best to imagine what might have befallen this “Mio”.
+
+“And that kicked off the scandal,” Chelsea’s brows wiggled. “Rumours were going craaaaazy. People were writing fan fiction about Valorie’s revenge. Some say her boyfriend threatened Luciana. Some people were saying that Luciana actually died. Her parents’ shop closed around the same time, so people think her boyfriend might have threatened Luciana’s mum and pops. Or had them deported. It was kind of a big deal. Took months to finally die down. In the middle of all this, I guess no one noticed you were gone, haha…”
+
+“The play was a great success, though,” Chelsea continued. “Valorie got scouted by a theatre company. She was on several TV shows before Spring Break. I heard there are movie roles after she graduates. She’s also doing music with a studio somewhere. It’s all very amazing. I love her.”
+
+“Is Valorie popular?” Eppie asked carefully. “Is she an institution?”
+
+“Oh, Val’s a household name,” Min-jun’s eyes glazed over. “She has the best stuff. Did you know she drives a Lexus convertible?”
+
+“Once, she brought a Birkin bag to school, and the staff freaked out,” Lucy added with sagacity. “She’s been confined to LVs only. They even changed policy to be not liable for loss of luxury goods.”
+
+The girls sighed wistfully. The boys for entirely different reasons.
+
+Eppie’s eyes twitched. Somewhere south of 2029, their AI-based conglomerate fund could have purchased Hermès twice over and had change left for Dior. Unfortunately, for someone who could not accrue personal wealth, material clout was out of the question.
+
+“Where does she usually hang out?”
+
+“Oh…” Chelsea shook her head. “I wouldn’t do that. They have their own practice rooms in the Old Music Building. Val’s Dad is hugely influential. I think he’s a politician.”
+
+“He’s a state legislator,” Min-jun rolled his eyes. “Come on, do your homework.”
+
+The wannabe K-pop idol met her eyes again. It would seem that Min-jun was a very flirty, very persistent child. “Did you know he’s responsible for LAPA’s expansion a few years back? Those apartments you call home, he pushed for those to be built. Our new theatre? He voted for the budget to be released. That’s why no one messes with her, William or no William.”
+
+Eppie was beginning to see where the story was going. Life was strange, but business was clichè. “Let me guess, Chen’s family is in construction. The new buildings are tied to the company. There are rumours Mr Sanders is moving into the private industry as a consultant once he retires.”
+
+The theatre kids looked at her strangely. “What? No. Chen’s her overprotective boyfriend,” Chelsea said dreamily. “He looks like a Japanese Popstar.”
+
+Oh yeah. Eppie slapped herself. She was still dealing with kids. Theatre kids. The kids are least likely to know the dirty secrets of the congressional bodies and their soiled laundry of ill-gotten cash flows used for campaign finance. Once her AP exams were done, it was time for some FOI requests.
+
+It was also time to bid her friends goodbye. Thus far, she could see these were good kids, full of vim and hope. It would be nice if she could give them a hand in achieving their dreams.
+
+Like an old midwestern matron, she slapped her knees. “Whelp—I better get going. I got some tests happening at Salazar Hall.”
+
+Lucy burst into laughter. “Why do you sound just like my dad?”
+
+“Show some respect, young lady!” she growled, then burst into laughter herself.
+
+It was good to be young.And it was good to be among the young. The guileless joy was, for an old soul like herself, balm for the weary soul.

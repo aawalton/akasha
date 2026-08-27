@@ -1,0 +1,193 @@
+---
+id: a478aae1-7cbd-5003-9f6c-d1f5638bfe46
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 21 - Fake Plastic Trees (2) "
+slug: 0040-chapter-21-fake-plastic-trees-2
+partOf: metaworld-hopecore
+position: 40
+ownLength: 2236
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368981/chapter-21-fake-plastic-trees-2"
+royalRoadId: "3368981"
+---
+
+She met up with Eric outside. Her lawyer gave her a thumbs-up and asked for permission to take a picture so Emily “could see.” Eppie gave it, then the two were guided by a PA to the set.
+
+When they finally cleared the row of cables, lights and staff, Eppie saw a scene that once more educated her lack of knowledge about the business she bought and sold. The first person to greet them was a middle-aged man who looked as if his veins were flowing with pure caffeine. Addressing them quickly with a, “You Eppie? Nice. Very nice. Over there. Stand on the yellow X, wait for your scene. Robert will run your lines,” before leaping headfirst back into the chaos.
+
+The coffee shop was a real coffee shop. From the looks of their opening hours, the production had reserved the location for the afternoon, where they were usually closed from 3 PM onwards. What was strange was that the windows were covered with ND film to ward off the Los Angeles sun, and the entire side entrance looked more like a cobweb-strewn cave entrance. Inside, she could see that all the food had been replaced by what looked like props that mimed the real thing.
+
+Inside, she saw the stars of the show. A middle-aged lady with make-up that simulated a heavily “nip and tucked” individual, her husband, a well-to-do businessman, and the background actors acting as patrons and staff, and Dr Morrow, whose jaw could grate parmesan.
+
+The scene where Eppie’s nameless blonde appeared was meant to be the golden hour, a metaphorical symbol, a moment of ephemeral beauty, and the sunset of the episode's client.
+
+The physical setup was of immense interest to Eppie as well. The 1st Camera was mounted on a track on the floor, handled by a Grip with a title she didn’t know. There were two more rigs, both body-mounted, one for an over-the-shoulder shot of the client’s husband. The script stated that that would be a third shot as well, a bokeh-heavy 100mm tight close-up of her head as Eppie turned toward the husband and returned his smile.
+
+A DA with a name tag, Robert, asked for her lines, and she repeated them without fail.
+
+“Alright, send her in,” he instructed a PA, who guided her into the room.
+
+Instantly, Eppie gained immense respect for the actors. It was HOT in the cafe. The lighting, the equipment, the windows with the soft bloom covers, and the ND films to simulate golden hour, none of it was comfortable or particularly bearable.
+
+Yet the actors who gave her affirming nods looked cool as cucumbers, even as the PA guiding her to her spot was streaming with sweat.
+
+“Drop the light by two stops!” The cameraman shouted into his headphones, and a Grip immediately showed up with a mesh cloth to block some of the light. A PA redirected her gaze to the tiny crosses on the floor, indicating the exact position she needed to be in for the cameras to be in perfect focus.
+
+While the lighting crew adjusted, a flurry of camera jargon flooded the atmosphere, ending with a resounding, “Okay, RESET.”
+
+“ATMOSPHERE!” The 1st AD called out.
+
+Before Eppie’s eyes, the cafe came to life.Without sound, the background actors began their pantomime of a busy, trendy, working coffee shop. They were writing, drinking, eating, talking, typing, working, making coffee, pouring coffee, and taking payment.
+
+The professionalism, the connection to theatre, it all suddenly became apparent to Eppie.
+
+“Background— AND ACTION!”
+
+Eppie entered the cafe, her body shifting from neutral to action, creating a simulacrum of life. Every trait she had thus acquired activated at once. [Physicality], [Script Analysis], [Act Natural], [Hitting the Mark], [Love the Light], buoyed by her [Charisma].
+
+On camera, she glided into place, as natural as the breeze, and placed her order for a “Yuzu iced Latte, almond milk.” Her foot landed on the mark just as the dolly moved to stage right. She felt in her bones the heat of the lighting and the refraction of her face burning onto film. She smiled as she turned, hitting her second mark, a little green tab at the lens hood. At the third mark, she faced the client's husband. The man stared. She felt a little uncomfortable, but smiled anyway, because she’s a good girl, and good girls were polite when gawked at.
+
+Their gaze lingered for a second too long.
+
+She turned to leave. Without appearing self-conscious, she cleared the cables, the dolly, and a refractor held by a PA, looking directly at the ceiling lest he look up her skirt.
+
+“CUT!” The director’s shout dropped like a gate. “RESET!”
+
+The 1st Camera responded with a “Checking the Gate,” and before Eppie could clear the shot. The Director leapt from the dolly with a “Hey, you!”
+
+Oh shit. Eppie felt her stomach drop. Did I fuck it up?
+
+“Jack Ferroni,” the man introduced himself, then stood in front of her as though inspecting a strange curio. “LAPA, eh? When the hell did they start producing girls like you?”
+
+“Sorry, sir?” Eppie was caught off guard.
+
+“Is this really your first time?”
+
+“Yessir,” Eppie nodded.
+
+The Director looked at her for a few seconds more, then returned her nod. “Good grief. Alright. I guess these things happen. Now, which hand did you put on the door when you entered?”
+
+“Right?” she answered.
+
+“Cruz?”
+
+“Right side,” the Script Supervisor gave them a thumbs up after checking the footage.
+
+“Good girl,” Ferroni was impressed. “Ready for another take?”
+
+“I am, sir,” Eppie replied as a high school student should when speaking to industry seniors.
+
+“Good, I’ll have a reward for you if you manage the shot two more times. For this next one, can you act like there’s nothing in the world that you’re worried about? Your pretty privilege has opened all doors. When Mr Bergerson looks at you, it isn’t as creepy as you might think. You’re used to people staring.”
+
+“Gotcha,” Eppie nodded. She was certain she was already doing that.
+
+The director returned to his dolly. The scene was reset. “ATMOSPHERE—” “ACTION!”
+
+She walked, she talked, she ordered her coffee, and she smiled, then she left.
+
+“CUT!”
+
+When she finally shed her character to look at Director Ferroni, the man was sitting on his Dolly and staring at her as if she had suddenly sprouted two heads.
+
+“Are you sure this is your first time?”
+
+“It’s my second take so…” Eppie said, a bit more cutely this time to emphasise the point.
+
+“Sure. Know what that is?” Ferroni pointed to the big rig he was using.
+
+“... A camera rig?”
+
+“This?”
+
+“A man on the floor with a mesh?” The PA on the floor waved.
+
+“Who is this?”
+
+“The First Camera Assistant!” Eppie hoped the spontaneous quiz wasn’t a test to see if she was going to get paid.
+
+Ferroni looked at the veteran actors at the fictive lounge. The cast smiled back at him, sharing a mirth only they shared.
+
+“Alright, back to your spot,” he said. “RESET!”
+
+“ATMOSPHERE!” “ACTION!”
+
+The third time, with [Physicality], [Script Analysis], [Act Natural], [Hitting the Mark], [Love the Light] firing all at once, she managed to coax a look of astonished pleasure from the actor playing the husband.
+
+“CUT!”
+
+The first AD came back a few seconds later with a resounding “CLEAR!”
+
+The whole ordeal, from entering the lot to finishing, took 45 minutes.
+
+“We’ll be watching your career with interest, Euphemia Fontaine,” Jack Ferroni offered her a hand. She took it and felt the man’s rough fingers around her own. “Good luck with the Guild, and give Director Vaughan my best if you speak to her again.”
+
+With Eric in tow, they retreated to the make-up trailer, much to the delight of the stylists. The HMU team helped her change out of her costume, then cleaned up her make-up with a healthy helping of moisturisers and conditioners. Back at Trailer No.4, the Second DA verified her final hours, then handed her a yellow timesheet as proof of her work.
+
+“Congratulations,” the Second DA shook her hand as well. “The Director said that you’re now SAG-Eligible. You have 30 days for other work, but you’re now on the ‘Must-Join' for union gigs.”
+
+They thanked the man, went back to make up to say goodbye and thanked them for her new hair-do, then left in search of Eric’s electric pickup.
+
+On the way back to LAPA, Eric asked her about her day-to-day life as it pertained to their findings in the phone recording.
+
+Eppie replied that she caught someone filming her, but since then, there hasn’t been anything particularly worth noting. She told him about Fat Lim Wang and the Cat Society, and the lawyer expressed his suspicions until she noted that they were a legitimate society, that there were real cats with real pregnancies, and Lim had peers who could vouch for him.
+
+“You could probably ask this Lim fellow about Mio’s whereabouts, if he’s as helpful as you suppose,” Eric said, his tone adorably fatherly. “Neither of us has time to look into this. I am actually considering asking for outside help.”
+
+“Outside?”
+
+“Do you remember Charlene Lafitte?”
+
+She shook her head.
+
+“She’s a journalist,” her lawyer explained. “She’s actually the one who posted your original hospital video. We know her through our legal channels after she handed over the video rights to us. Well, to you, technically. Dr Harper isn’t contesting it, certainly.”
+
+“Fax it over, I guess,” she replied. It was kind of insane that the ordeal at the hospital was less than three months ago, but that’s how fast life flew when a girl was only fifteen. “What’s Lafitte’s interest in all of this?”
+
+“She’s been digging into LAPA for a while, actually, ever since the 97’ scandal between one of the staff and the Sophomores. It's a great school with great teachers, but a school like yours has a predilection for transgressions. Now that there are industry plants fighting for influence, I doubt things would have gotten better.”
+
+Of the latter, Eppie agreed.
+
+The school’s obsession with professionalism aside, there were fundamental factors that increased the incidence risk for a school like LAPA. On the most basic tier, it was a school of hormonal teenagers, many of whom were free-spirited privileged, and in possession of good looks, little supervision outside of school, and close proximity to the opposite sex.
+
+An arts school wasn’t at the level of an Olympic village, but it wasn’t unimaginable that students undergoing the single most significant metamorphosis of their lives chose to explore more than just the arts.
+
+Outside the basic biology of life, the injection of wealth into LAPA additionally muddied the waters. Pay-2-Play students with industry connections could make offers to their peers that a purely meritocratic student body could not begin to imagine. Likewise, not all students who made it into LAPA had the demonstrative skills necessary to bask in the limelight, considering there was only the Sophomore, Junior and Senior Showcase to be had.
+
+Wasn’t Mio’s exit a great example of the very thing Charlene Lafitte wanted to expose?
+
+“My question is,” Eric said slowly, “do you condone such an investigation? Do you like the school enough to turn a blind eye?”
+
+Eppie felt a shiver strike her spine. It was a very, very poignant question. Since arriving, she had gotten to know Director Cass, Dr Cooper, Dr Costello and more. These were good people. They were proud of their school. Unless she misread them entirely, they were Samaritans, each and every one of them. She had also gotten to know its students, people like Lucy and Min-Jun, and Armand. They were good kids as well.
+
+But good people aside—Eppie Fontaine had died that night. And Luciana Mio was still missing.
+
+The [System] had put her here for a reason, and it sure as hell isn’t the enjoyment of four years of high school.
+
+She gave her consent.
+
+“Very well,” Eric gave his affirmation with a breath of relief. “I’ll arrange a meeting. Afterwards, the two of you can hash out how you want to proceed. One more thing, do you want Director Curon to know what you’re doing?”
+
+“Does he want to know?”
+
+“The Director is quite invested in your education,” Eric explained with a hint of jealousy. “Don’t forget, I am billing Sony my hours every time we’re out like this.”
+
+“What?!” Eppie looked at her friend in horror. “You’re telling me you’re not doing this for free out of the goodness of your own heart? What would Emily say?”
+
+“Good job?” Eric snorted. “I mean, you could probably pay me yourself. Have you checked your account lately? You’ve got… Well, not enough to buy a house in Santa Monica. But there’s a tidy sum.”
+
+“Somebody’s VGT ETF doing well, eh?” Eppie snickered. “Isn’t that enough to pay for your time?”
+
+“You said it's a gift,” her man from Newfoundland had no humour at all.
+
+“Erg—to play with my heart like this,” Eppie moaned, hugging herself pitifully while doing her best impression of Puss-in-Boots.
+
+“Stop that!” her lawyer suddenly snapped.
+
+Shocked, she straightened her body. “Okay.”
+
+Eric grunted, then sighed. “I didn’t mean it like that. Sorry.”
+
+“No, no, you’re right.” Eppie felt her own heart pounding.
+
+For the rest of the drive through the interchange, the pair rode in silence.

@@ -1,0 +1,371 @@
+---
+id: aeca3a8e-5b9e-550a-8750-a31deb2c87ae
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 56 - Sukiyaki"
+slug: 0099-chapter-56-sukiyaki
+partOf: metaworld-hopecore
+position: 99
+ownLength: 3918
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3491089/chapter-56-sukiyaki"
+royalRoadId: "3491089"
+---
+
+"Yet what I can I give him — give my heart."
+
+Christina RossettiIn the Bleak Midwinter
+
+Fifth Avenue on Christmas Eve at ten-thirty was not the same as the same time mid-January. In the final hours, the crowds thinned, the last of the late-service churchgoers dispersed, couples held hands more intimately, seeking out shopfront mistletoes, and panhandlers grew more aggressive, knowing that tomorrow would be brisk business indeed.
+
+In between the gaps left by the crowd, a slip of a girl returned to Central Park.
+
+Eppie ran against the wind.
+
+If the astute coach of a sporting team were present to witness her, they would have observed the unprofessional gait of a young woman pumping across the concrete and brick-textured paths in long, unbroken strides. Like a supercharged Camry, her [Strength] and [Agility] roared, sending power through her Common Project shoes, a punishment no fashionware was ever intended to receive.
+
+The frigidity of December hit like a board. Her youthful lungs pulled in air that had been sitting in a freezer and expelled superheated steam.
+
+At night, the park was a hostile country. It existed like a dungeon map in a survival game, for the ancient streetlights were readily swallowed by the tree lines. From light to dark, then dark to light, she pounded through the frost-hardened path until she reached the Conservatory Water.
+
+Exothermic exchange, in the form of mist, rose from her cheap coat, which kept jack shit preserved. I really should have taken the Maxmara. She shivered.
+
+“[Causality] to [Stamina],” she said under her breath. Her body silently switched gears. The exposed parts of her neck steamed. If a Mangaka from Kumamoto could see her now, he would be inspired by a [Muse].
+
+Eppie ran a short circuit. No Henry. No Jellicle Cats.
+
+She ran north. The reservoir path. The North Meadow. Her feet found the route from the morning.
+
+At the 102nd transverse, she was breathing audibly, her internal organs taxed in a way that even [Stamina] couldn't entirely suppress, at least not in this cold. She wasn't tired, but her body was burning. It needed something. Calories, maybe. Electrolytes. Water.
+
+Her wounds from the pot toss had healed, a natural function of her enhanced metabolism.
+
+At 105th, the Vanderbilt Gate was dark.
+
+She stopped.
+
+The benches were empty. She swore.
+
+She pressed her face to the gate. The garden beyond was dark and still, the bare wisteria arms of the pergola black against the sky. It was no longer aesthetic. It looked Gothic.
+
+She slid along the perimeter wall to the east toward the maintenance building. The wind came off the meadow and kissed her side like a razor. If she were a normal girl, she would have collapsed.
+
+“HENRY—” she used her Cooper voice. “HENRY SENSEI—”
+
+Henry, where—
+
+“Meow?”
+
+Her ears perked up.
+
+Freshly regurgitated from the feline dimension, Kimi, Tanaka, and another cat she didn’t recognise emerged on the perimeter wall like the Three Fates of Greek Tragedy, untouched by the tree’s shadows.
+
+Kimi raised her paw, a single paw, like a small God beckoning her to come, her eyes catching the amber light so that one was orange and the other was emerald.
+
+“Where’s Henry?” Eppie’s question erupted as steam.
+
+Kimi showed her butthole. Follow.
+
+She scaled the wall after two attempts, mimicking a scene she had seen in a Jacky Chen movie. She almost tripped thanks to her Stella McCartney, and so made a mental note for Mirabelle to tell the designer that the winter skirt was poorly fashioned for midnight parkour.
+
+Eppie landed with a thump, her knees and ankles absorbing enough force to crack were it not for her magically inclined body. Kimi moved swiftly, and she followed, threading the bare hedge, the maintenance building, the stone flanks, rounding the corner until she faced the garden wall.
+
+It was warmer here.Of course! She realised. This is where the city’s heating elements ran. The service tunnel was sheltered from the wind, sleet and snow. It was the natural place for the homeless to gather.
+
+With one hand, she scooped up Kimi, then rounded the corner.
+
+Her $500 fashion boats skidded to a halt.
+
+The passage was occupied. They were not alone.
+
+She saw them, three men, two against the wall, one standing, all looking at her with dark eyes that glimmered against the amber light of the utility building. They knew she was coming because she had crashed through the garden. They studied her, her clothes, the winter skirt, the thinness of her arms and legs. The cheap coat. The bandages. Her tiny stature.
+
+Comparatively, they were enormous. Not the way of fat men, but men in survival gear, and in survival mode. Having grown soft on $36 Four Seasons cheeseburgers, she had forgotten the city had people who couldn't afford Central Park hot dogs.
+
+One of the men held a length of pipe. He was as tall as Lim and twice as terrifying.
+
+She scooped up Tanaka. She raised Kimi and held both cats like Uzis.
+
+“MEOW?” Kimi protested. Are you serious? It meowed. Et tu, Brute?“Meow…” Tanaka was resigned to his fate. Such was the cost of the canned fish.
+
+Eppie gulped.
+
+Three-on-three? She wasn’t Lim. One good hit from that pipe…
+
+As a little lady, she had to do this the hard way. “Hello, Sirs…” She said to the men, her voice soft and feminine, laying down the groundwork to inspire parental affection. “I’ve come… to find my lost cats.”
+
+Kimi struggled. Tanaka, for his part, accepted this new position with the composure of a creature who had seen life’s tragedies play out daily.
+
+The man with the pipe stared. Then he stared at the cat.She lifted Kimi threateningly. Don’t make me do it!
+
+"Are you lost?" he said finally, his voice like rolling rocks. “No lies.”
+
+“No,” Eppie used her theatre voice, and a cloud of breath accompanied the word. “I'm looking for someone. An old Japanese artist. He hangs with the cats.” She held Kimi slightly higher, as if presenting credentials. “This is Kimi. She brought me here.”
+
+“Meow—HISSSS—” Kimi twisted her body, scratched her hand, then fled into the deeper recesses of the room. FUCK YOU! The cat said.
+
+Eppie nursed her hand. Tanaka stayed put. The atmosphere between them grew incredibly awkward.
+
+The three men exchanged a look. A visual shorthand among the survivors of the winter apocalypse.
+
+The leader, pipe in hand and a blanket across his shoulders like a barbarian’s cape, stifled a laugh. "You looking for Henry?"
+
+"Henry Kiritani," Eppie said. "Yes."
+
+He relaxed. He lowered his weapon.
+
+“You're his family?” the third man asked. He was older, a grey beard in a wool cap, watching her with hungry eyes.
+
+“Jamison, are you blind?” the leader snapped at the old timer. “She’s white.”
+
+“It's dark… Bogdan,” Jamison protested.
+
+Eppie raised both hands, allowing Tanaka to cling to her K-Mart coat. “I met him this morning. I fed his cats. He gave me drawings.” She paused. With the cat hanging from her, she was aware she looked slightly unhinged. “I fed him katsudon. It was extra large.”
+
+The seedy guy gave her a leering, lopsided grin. Eppie realised she sounded even more unhinged.
+
+“Look. I have a hotel room. I want to bring him with me.”
+
+The men laughed. Not the friendly kind.
+
+Jesus Christ. Eppie wanted to slap herself. I should just shut up. It’s the cold. The cold was pulling all the blood from her brain.
+
+In the silence, the leader looked at her, then at the cat, then at each other. Tanaka began to purr at a frequency that said: “She’s with me, hoss.”
+
+Bogdan sighed. “Okay, come in. But you can’t tell anyone we’re here, and don’t wake the others.”
+
+“Thank you,” Eppie said with immense relief, her eyes still on the pipe.
+
+“You first,” the second man said.
+
+She set Tanaka down. The cat walked ahead. The man called Bogdan stuck the pipe into the garden.
+
+She followed the cat.
+
+Ahead, the passage narrowed further, and the air grew warmer and more humid. In the dim light of the access walkway, she saw the crumbled body of her artist against the wall.
+
+It was Kiritani-san.
+
+He was sitting rather than lying, his back against the stone, his greatcoat pulled around him, the ushanka down over his eyes. His chin had dropped to his chest. His hands were in his lap, still holding the canvas satchel with its bundles of pens he scavenged from God knows where.
+
+He was warmed by the cats. Six cats, Kimi among them, who now judged her. Kimi stepped over Nobu and walked over until she stood over Tanaka.
+
+Tanaka rolled onto his belly.
+
+Finally, Eppie breathed. The heat escaped her in a great, billowing cloud of fog, changing from her slow exhalations to something long and relaxed. Her face looked drunk as more [Causality] transformed into [Stamina]. It certainly would not do to collapse among the homeless men, no matter how amicable they might be at this moment. After all, she was wearing $500 shoes.
+
+As for Henry, she could see the cats on his chest rising and falling. The man was asleep.
+
+It was the breath of an old, exhausted body in deep sleep.
+
+She crouched, one bandaged hand braced against the wall, the corner of her eyes on the men and her eyes on an eighty-seven-year-old artist sleeping in a corner with six cats, inhaling cat fur.
+
+Then she crouched in front of him, put her hand very gently on his knee, and said, in Japanese:
+
+“Mr Kiritani. Please wake up.”
+
+Her artist’s eyes opened before her hand fully landed on his knee.
+
+The reaction was so quick that Eppie’s hand shot back to avoid being bitten, scattering the cats on his chest. It was only then that Henry’s reaction slowed, becoming more like that of an eighty-seven-year-old man.
+
+Now, with the disorientation of someone dragged from deep sleep, Henry’s eyes fluttered until he was fully awake. His hand moved to the satchel strap.
+
+“It's-a-me,” Eppie said in stuttering Japanese. “Katsudon.”
+
+A pause. His eyes adjusted to the light. He looked at her, her bandaged hands, the wild hair, the entirely implausible fact of a teenage girl in this corner, in this hour. Something in his face settled, memory, maybe, Eppie hoped.
+
+“Why are you here?” Henry’s words slurred.
+
+She helped him up. His body was light, his back hard and full of bones, even with the puffer and the surplus jacket between them.
+
+“It's twenty degrees,” she said. “I couldn’t leave you.”
+
+“What are they saying?” Someone behind her said. “They’re speaking gook.”
+
+“Shut up,” Bogdan snapped. The rest of the men fell silent.
+
+“It's twenty degrees," she repeated. "And you're old."
+
+The artist made a sound that was not quite dismissal and not quite acknowledgement, a gruff Samurai refusing to yield to the reality of his old age.
+
+"Do you sleep here every night?" she asked. The more she felt his back, the lower her heart sank. Considering how she felt running here…
+
+“Tokidoki na,” Henry grunted, his accent ancient and thick. “Sometimes, the security comes.”
+
+"How often?"
+
+“Often enough.” Finally, the man sat.
+
+She knelt on the ground beside him, her knees confined by her skirt. The air wasn’t too bad here, but the ground leeched heat from the body. The texture of the stone through the fabric was brutal, and hers was a Stella McCartney!
+
+“Kiritani-san,” she switched to formal Japanese. “I know someone who will be very interested in your work, your art.”
+
+Henry looked at her with righteous scepticism. The man was betrayed by a nation. No one bothered to see his art, his work, for five decades.
+
+Why now? Why this slip of a girl? This blonde-haired, blue-eyed, angel-faced creature that looked no different to the people who left him to rot in Tule Lake?
+
+“I have…” Eppie prayed that Vaughan would not mind. “I am the student of Juliana Vaughan Sensei, of the Metropolitan Museum. She is a very serious person. She will know your art for what it is. Shinjite kudasai.”
+
+You must believe me! Eppie pleaded.She wondered what she must look like to Kiritani-san. She must seem… like a ghost. A phantasm. The kind you saw right before you died.
+
+“Vōn-sensei is very serious. She will know the value of your art far better than me. Please walk with me to the hotel. Onegaishimasu!”
+
+She bowed while on her knees. Her head was so low as to touch the ground. Please believe me! She hoped. Even knowing how hard it was for Henry to summon even the smallest sliver of faith. What answered her was an exhalation. No. It was a refusal.
+
+“Ikenaī.”
+
+Cannot.
+
+“WHY?” Eppie blurted out, her voice echoing across the tunnel. The men behind her murmured.
+
+“Toshi da.” Kiritani-san looked at his fingerless gloves, his skeletal fingers.
+
+I am old.
+
+“Mō tsukareta.”
+
+I am tired.
+
+“But your art…” Eppie was crying without knowing it. The [Sublime] was too overwhelming. The man’s feelings were transmuted to her without a filter. She wanted to swear at him in Japanese, tell him to get a grip. Tell him to find his unwavering spirit. What the fuck is wrong with you? She wanted to say. You survived on the fucking streets for 50 years, you beat a concentration camp, and NOW you’re tired?
+
+Then, he broke her heart. She had no idea if Kiritani-san ever broke another young woman’s heart for any other reason, but he broke hers clean in half.
+
+“Omae ni wa kankei nai.” He said, it is not your concern, then closed his eyes so that she would go away.
+
+Apparently, Kimi wasn’t the only asshole in the room. Eppie despaired. Where the fuck am I going to find a katsudon on Christmas Eve?!
+
+But she understood as well. How could she not? The wall here was fully formed, concreted, then reinforced over fifty years, and he had known her for an afternoon and one bowl of Katsudon. There wasn’t even a Tonkotsu Ramen somewhere in the middle to pave the way to trust. Was her [Charisma] insufficient? What else was she to do? Pump her numbers up? Should she just use her [Strength] of 20? If she could lift a planter, she could lift an old man.
+
+The cats watched them. The vagrants in the back were watching. The once warm atmosphere had rapidly atrophied. The curiosity would only last so long before the nocturnal instincts of a harsh city took over.
+
+She had to go, with or without Kiritani-san, or become another NYC statistic.
+
+Her [Intelligence], for all its generational prowess, offered no solace. Her [Script Analysis], perpetually verbose over the smallest details, had no more dialogue to deliver.
+
+Yet, it is in these liminal spaces between despair and hope, streetlight and shelter, standing forlornly upon the bridge of life and death, that the artist grew incandescent, illuminating the dark waters to show the hidden beauty of the floating world.
+
+Eppie opened her mouth, her notes catching the air in fog-filled breaths.
+
+Her [El duende] [Vocality] and [Songstress] activated at once.
+
+What came from the depths of her memory wasn’t hers. When she had first heard the song from her Japanese tutor, she had not possessed the means to understand it. Yet, all these years, it had stayed in her head, dormant, waking now and then as stray thoughts, tied to happier memories and Halcyon days.
+
+She sang, the melody long and forlorn, bitter and sweet, yearning yet fatal. “Ue o muite arukoo…”
+
+Her voice reverberated through the tunnel, filling every nook and cranny, stirring the sleeping cats who shared the same space as the vagrants. The verses were in Japanese, but her sorrowful trill was delicate and crystaline, no vibrato, no fancy techniques, just the clean sound of a child begging an old NO-NO BOY not to give up on life. She sang about sadness in the shadow of the celestial bodies. She sang about the sadness on the dark side of the moon.
+
+It was the voice of a crying girl trying her best not to cry. The lifting note, the drop in octave, the humid passage in the dark, the artist beneath her hand and the men who lurked, blocking the entrance.
+
+The song ended.
+
+Muse Acquired
+
+Ue O Muite Aruko
+
+Song by Kyu SakamotoLyrics by Rokusuke EiMusic by Hachidai Nakamura
+
+A small amount of Karmic Reciprocity has been paid.Penalties of Prophet of Profits have not applied. The Karmic Resonance of this artwork already exists in the present world.
+
+[El duende] has been applied. Audiences with a high Karmic Resonance will perceive cardinal truths. A large volume of Causality has been consumed.
+
+[142004 Causality]
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+[155284 Causality]
+
+[SYSTEM MESSAGE]
+
+You have overtaxed your [Persona]
+
+Penalties have been applied due to excessive use of [Stamina]Penalties have been applied. [-1 Vitality][-2 Health][-1 Dasein]
+
+If Eppie had seemed defenceless before, she was now truly defenceless. Together with the grief of Kiritani-san’s refusal, she was now assailed by unbidden emotions of turmoil, disappointment, and heartbreak: Rokusuke Ei, trying to hold back his tears after a failed protest against the US occupation, and the rejection of his love by Meiko Nakamura. What made it all worse was that the [System] found it necessary to transmit the [Karmic Resonance] of the song’s singer, the dearly beloved Kyu Sakamoto, a man who connected continents, only to perish in the single deadliest airline disaster in history. For 32 minutes, JAL Flight 123 circled the air, out of control, leaving enough time for passengers to write their farewells before crashing into Mount Takamagahara.
+
+The song reached No.1 on the US Hot 100 in 1963.
+
+The record label chose a nonsensical title. Sukiyaki. Beef hot pot.It was a generational crime against art.
+
+For Kiritani-san, the warmth of Sukiyaki was what he needed. There was no katsudon for Eppie to purchase at this hour, but she could summon Sukiyaki through song.
+
+In the wake of her audible exhaustion, the silence, much like the tofu in the soy soup, was silken.
+
+“Bogdan…” a mocking voice croaked in the dark. It would appear that not all are universally sensitive to the influences of [El duende]. The truths, it would seem, applied only to those who had dallied with death. “Are you crying?”
+
+“Shut your face,” the big man replied, his tone leaving no quarter. “Before I shut it for you.”
+
+But Eppie did not hear the men, nor cared. The song was not for them.
+
+“Ikō yo?” Eppie reached out to her artist once more. Shall we go?
+
+"Ikō ka," Henry said quietly, his eyes studying the stains on the ceiling.
+
+Let’s go.
+
+The ragged men in ragged clothes allowed them to pass. Or rather, Bogdan made it obvious to the others that, should anyone disagree, they would answer to his bear-like mitts. While Eppie held Henry’s things, he helped the old artist to his feet, aided by a few others, and guided them outside, putting themselves between her and those who would rather the naive songbird stay the night, for reasons.
+
+Near the entrance, Eppie pulled out her phone and called the number with the contact title of “Dad”.
+
+It rang twice.
+
+“Miss Fontaine!” the voice sounded delighted. In fact, it sounded like he’d been waiting for her call. “Did you like the show I sent to the lobby? Did you… love it? Merry Christmas.”
+
+THAT WAS YOU? Eppie’s chest erupted with warmth even as she almost dropped one of the polyester bags holding Henry’s work. If only you could know just how much I love you right now.
+
+“I love it,” she said, but her true affection would have to be shown later. “Dad, I need help. I need a MASSIVE favour.”
+
+“Oh?” Curon’s voice grew serious. “Is this about William?”
+
+There was a pause, it was the sound of someone making a difficult decision.
+
+“Did you kill him? What with?”
+
+This time, it was Eppie who stayed silent while her brain re-routed.
+
+“No, Dad, I need help with a fellow artist…”
+
+She told him. With a succinctness that Claude could not muster until it digested OpenAI wholesale in 2030, she told him everything in under two minutes.
+
+The cats, the bench, the drawings, the artist. The cereal box, the Tule Lake camp rendered in black ink from memory in 1954, the mushroom cloud signed 1975, NO-NO Home, No Citizen, No Oath. She told Curon that an eighty-seven-year-old Japanese-American artist was sleeping in Central Park with his cats because the country that interned him and bombed his family promptly forgot he existed.
+
+“You know it’s Christmas Eve…” her father said.
+
+“I thought you were single… No family, no kids. Come spend it with me.” Eppie said.
+
+Curon made a noise. She could see the man doing Edvard Munch’s The Scream.
+
+“Room at the Four Seasons,” he mulled. “How long?”
+
+“Until I get Juliana, which is at least until after Boxing Day. At worst, after New Year's.”
+
+“Did you say there are cats?”
+
+“... Yes…”
+
+“The cats can’t be booked into the Four Seasons. I’ll…” Curon groaned. “I’ll call someone. What’s his name again?” “Henry Kiritani.”
+
+“Okay, I’ll tell the concierge. I am coming down from Sony City myself. This is insane… I swear to god, you better have a song ready.” Curon hung up. She turned to Henry. “Kiritani Sensei,” she offered her five-foot-one body, five-two on tippy toes. “Please get on my back.”
+
+Henry stared. Bogdan stared. Someone snickered. Henry Kiritani had survived the knowledge of his hometown. He had survived Tule Lake. He had survived forty years of New York winters on and off a park bench. A man possessed of such a samurai spirit was not about to clamber onto the back of a girl-child to be brought across the park to a hotel.
+
+“I’ll do it,” the big man, Bogdan, offered. “You hold his stuff.”
+
+“The cats,” she said. “Tomorrow morning. Someone should be coming with food, I think…”
+
+"We'll take care of them," he declared to the folk behind him, an alpha to his pack. There was a collective murmur of agreement.
+
+Then they carried Henry Kiritani out of Central Park and south down Fifth Avenue.
+
+Forty-eight blocks.
+
+She held his artworks, and Bogdan held her artist on his back. He weighs nothing, the big man said. Like a bundle of twigs. On Fifth, they traversed long white columns ahead of light, lit by streetlights and Christmas decorations, the city thinning around them as midnight approached. The trio made steam angels as they passed, watched by New Yorkers. Avoided by New Yorkers.
+
+A man with a great coat in the seasonal colours of the Four Seasons met them before they had even arrived. Gerald Fitts, he introduced himself. “Mr Curon called. I have the room ready for you. Do you mind if we use the service entrance? Miss Fontaine? The lobby is quite congested at this hour.”
+
+Eppie did not mind. In the future—in the near future—men like Gerald would wish that they had welcomed Kiritani Sensei with open arms and a full percussion marching band.
+
+Before they crossed the threshold and Henry was lowered to the floor, Eppie turned to the man called Bogdan and bowed. She then rummaged through her coat pockets until she produced her wallet.
+
+$500. That’s all she had.
+
+The man was already gone by the time she ushered Henry inside.

@@ -1,0 +1,251 @@
+---
+id: fd37be48-4169-5d82-b0ad-896a400d6723
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 621 - Inscriptions Please?"
+slug: 0123-chapter-621-inscriptions-please
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 123
+ownLength: 3128
+unit: words
+ownProgress: 3128
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2672712/chapter-621-inscriptions-please"
+royalRoadId: "2672712"
+markedReadAt: "2026-06-29T19:39:14.229Z"
+---
+
+Tala and her family bid the city administrator goodbye and headed back toward where their sanctum waited, just stoneward of superficial.
+
+As they walked, Lea was unusually quiet. She would occasionally look toward things of interest, but she lacked much of her standard exuberance.
+
+Even so, Tala and Terry were content simply being silent as well, the two of them enjoying quiet more than the others. Rane, however, worked to tease out words from their daughter.
+
+She responded well enough to his promptings, but it was clear that her heart just wasn’t in it. Finally, he simply asked, “What’s going on, Lea? You seem to have something on your mind.”
+
+“Hmm? Oh… I suppose that I do…”
+
+They continued in silence for another long moment.
+
+Finally, Lea stopped and turned to her parents. “I’m ready for my inscriptions.”
+
+Rane blinked a few times, and Tala frowned. She was the first to respond. “Lea, we’ve talked about this. Inscriptions are incredibly important and dangerous. You need a solid foundation, and that usually takes years, and that doesn’t even count the foundational education that is meant to build upon.”
+
+“Yes.” She nodded vigorously. “I understand that. I have that solid foundation now, Mom. Momma has worked very hard with me, along with Dadde, to teach me all that I need to know. Test me, and I’ll prove that I have the knowledge it takes to use inscriptions safely. I’ve even studied, in detail, the schema Mistress Holly has built out for me.”
+
+Tala looked to Rane, and her husband frowned. “I think we should talk about it privately.”
+
+Lea opened her mouth, but hesitated, seeming to realize something. “That’s not a no?”
+
+Rane didn’t bother to hide his smile. “No, that isn’t a no. Can you accept that your Mom, Momma, Dadde, and I will talk about it in private?”
+
+She nodded excitedly. “Yes, Dad!”
+
+Tala fought back a smile at her daughter’s exuberance, then realized that there was no reason to do so. She grinned widely. “I’m glad that you are so excited, Lea. It is good to have goals and go for them. Even if we decide that it isn’t the right time yet, I hope that you keep this drive.”
+
+Lea nodded sagely. “Yes, Mom. I’ll do my best.”
+
+“Thank you, sweet.” Tala’s perception caught a rarity in this new city. “I think that’s a bakery with a specialty more toward sweet treats than bread or other savory items. Is there anyone in my family who would enjoy that?”
+
+Rane raised his hand, a wide grin on his face, unashamed.
+
+Lea rolled her eyes glancing around at all the people around them.
+
+Terry cracked open an eye before shifting and lifting one of his taloned feet into the air.
+
+That brought a smile to Lea’s lips, wiping away her burgeoning concern for what others might think of her. She raised her hand and did a little hop. “Me too!”
+
+Tala’s smile grew to match her husband’s. “Come on, then. Let's get treats!”
+
+“Hurrah!” Lea dropped her hand and scampered forward.
+
+Rane put his arm around Tala, pulling her and Terry—resting on her shoulder—close. “Nice job, Mom.”
+
+She leaned against him. “Not so bad yourself, Dad.”
+
+* * *
+
+Later that night Tala and Rane sat, alone, in a little side alcove on one of the myriad paths through their sanctum. It had a commanding view out toward one quadrant of the sanctum, but was only large enough for four people to comfortably sit. They generally preferred larger spaces, so this was very rarely used.
+
+Terry was off hunting in the wilds. He’d apparently taken to helping the local hunters, which Tala assumed meant that he was taking care of the things that were beyond them, but who really knew with Terry? She was sure that he wasn’t hurting anyone in the very least.
+
+Lea was ‘out on the town’ with Lyn and a couple of Talon ladies. Apparently, there were a few places that catered specifically to the smaller, female population of the city, giving them places where they wouldn’t stand out quite as much. One was a playhouse, right beside a nice restaurant, and that was their plan for the night.
+
+Tala was a bit sad to not be going with the group, but this was an important conversation, and she got all too little time with Rane of late.
+
+They had moved off of their standard script and had cracked open a bottle of wine.
+
+While that was usually a turn of phrase, Tala had actually accidentally broken the bottle, but her authority within Kit had kept the liquid contained and the glass fragments from getting mixed in.
+
+“-It’s nice to just be here, all together.-”
+
+Tala raised an eyebrow. “But you’re not…”
+
+“-Right… let’s fix that.-”
+
+She huffed a laugh and glanced at Rane, who shrugged. “Fine.”
+
+A moment later, Alat and Enar manifested. As usual, Alat wore a dress, this time in a deep emerald green. Her skin was almost as pale as Lea’s, without actually crossing into ‘true’ white, and her hair was closer to black than Tala’s, making her blue-green eyes—a trait she purposely differed from Tala’s blood-red—stand out all the more. Beyond that, she looked like a slightly taller, bit less muscular version of Tala, not that Tala was in danger of being called ‘buff’ despite her strength.
+
+-I also have two hands.-
+
+You’re a jerk… but thank you for not projecting that.
+
+-Of course. My sass can be just for you, when needed.-
+
+Enar wore black slacks and a green shirt to match his wife. His physical difference from Rane was greater than Alat’s from Tala, but he was still a tall—though not quite as tall as Rane—powerfully built man. The glasses were clearly a stylistic choice, but they did serve that purpose nicely.
+
+In Tala’s threefold sight, the manifestations were… not odd, but unusual. The two alternate interfaces had obviously gone the extra mile in creating entirely human forms for themselves, down to their digestive tracts.
+
+When she noticed that, Tala pulled another set of wine glasses from elsewhere in the sanctum and poured the two their own.
+
+Alat flounced slightly as she took hers, spinning to swirl her dress before moving to sit down in one of the two remaining chairs. “Thank you, Tala.”
+
+“Of course.”
+
+Enar was far more subdued as he came forward and took his own, bowing in thanks.
+
+Once everyone had settled in and begun enjoying their wine, Rane started off their conversation. “So, you two have been working to prepare Lea for her inscriptions?”
+
+Enar looked to Alat, who was already nodding. “Yes, we have. As we’d discussed before, we are spearheading the more cognitive side of her education. To our minds, that includes her understanding of magic and inscriptions.”
+
+Rane was nodding along, but he still glanced toward Tala. She smiled before responding. “Yeah, I have no issue with that. I’ve been working with her in that regard as well, as has Rane.”
+
+Alat was nodding along, clearly aware of this, and Enar hmmed. “Yes, it is good for her to be learning from multiple sources. It helps to confirm the facts, and gives her different perspectives on the various topics.”
+
+None of them really considered it odd that the alternate interfaces differed enough from the physical forms to actually be able to provide that different perspective.
+
+“So…” Tala took another long sip. “How about you catch us up on where she’s at from your side? You both obviously already know what we do.”
+
+Rane nodded, leaning back. “I think I’d appreciate that as well.”
+
+It was funny, what followed felt to Tala like sitting in a parent-teacher conference, but this time, she was the parent, and the child wasn’t present at all. There were definitely things that surprised her, and from his reaction surprised Rane as well.
+
+Apparently, while Lea had been focusing on kinetic energy, leaning more toward Rane’s magics than Tala’s, she was approaching it far more from an inertial perspective. That was something that Tala had often touched on, especially in her early magics like Restrain.
+
+With that simple explanation, Tala found that the schemas she’d reviewed dozens of times clicked into place. They didn’t seem like they would work in her mindset, but she supposed that it made sense that Lea’s foundational understanding was different from either of her parents.
+
+Apparently, Lea had been especially fascinated by the hanging ball demonstration of the transfer of momentum, and that had led to her foundation being ‘momentum can be perfectly transferred.’
+
+What’s more, that means of thinking about it—which Tala immediately found dozens of flaws with, but she wasn’t about to poke holes in—meant that the change was on Lea’s side of things, rather than forcing a working on her opponent. In that way, it neatly bypassed any question of comparative magical density or weight.
+
+That was one of the flaws in Rane’s magics—or it might be more accurate to call it a drawback. He couldn’t directly impart kinetic energy into his target unless he entirely magically outclassed it. Instead, he imparted that energy into his weapon or fist or the air, in order to then attack with that in a ‘mundane’ final step. He had been working to overcome that, and he’d become largely successful with a Refined level of aura control and magic density—backed by Tala—but it was still a ‘flaw’ in his magics that he’d had to overcome and still worked past and around.
+
+If Lea made this work? She would simply make her physical motions perfectly transfer force to that which she attacked. That, coupled with her greater-than-human strength and speed? She would be a terror. She’d have battlefield mobility close to Terry’s, with the added ability of using that power in strikes, where Terry’s talons couldn’t really do anything similar.
+
+She could dodge as well as Rane, if not as automatically, and her single target destructive potential would be close to Tala’s initial inscriptions, without the barrier to applying it to creatures and beings of higher advancement.
+
+Rane was nodding as he considered. “Isn’t a part of her schema focused on inertial storage of some kind?”
+
+Enar nodded. “Indeed. Her mindset of perfect transfer allows for a banking of her momentum for up to a few minutes. In time, and with practice, that should be able to grow, but we’ll have to see.”
+
+He brought up an illusory version of the inscriptions that their daughter wanted to get so badly.
+
+“You see here? Mistress Holly implemented ‘drag’ scripts that evenly drain her of a fraction of her relative momentum at all times—though it can be turned off—in order to fill and maintain that reserve.”
+
+Tala leaned forward, touching a few connection points in the illusion. “And here, these massive pathways… She could dump the entirety in a single movement, or strike, or she could distribute the momentum back out in smaller doses along with her standard movements, effectively amplifying her speed and power in variable bursts.”
+
+Alat smiled. “Exactly, yes.”
+
+Tala was shaking her head. “That will be a nightmare to control. In fact, I’d even say it would be impossible.”
+
+Alat held up a finger. “It would be for a normal Mage, but Lea is far from normal.”
+
+Enar grunted. “Don’t sugarcoat it, Love. These scripts would kill a standard, new Academy graduate. There is no way they could learn to control them well enough to even practice with them.”
+
+Rane and Tala shared a look, but Enar wasn’t done.
+
+“Lea is different. Her mind moves faster, naturally, than yours did with your first set of mental enhancements, Tala. Because of that native capacity, she doesn’t need to use the inscription space for those improvements, and thus, this is possible. She is also more durable, allowing for mistakes, where anyone else would risk killing themselves with the slightest error.”
+
+Alat took up the explanation from there. “The inscriptions carry most of the load, but there will be a learning curve. She will need to train within this sanctum for months, if not years, before it will be safe for her to leave again. Even training with the Talons will be dangerous.”
+
+Tala was nodding slowly. “Because of the power she could bring to bear.”
+
+“Exactly.”
+
+Rane cleared his throat. “And what about the resonance? If she’s capable of moving that fast, even over short distances, she’ll be effectively bringing down reality’s wrath on her wherever she fights, or did the investigations pan out?”
+
+Alat and Enar shared a look. “Theoretically… yes.”
+
+Rane sighed. “So, by all you and others can find, her existence soul—which we still don’t fully understand—will mesh with the inscriptions?”
+
+Alat huffed, and Enar shook his head, answering. “The reality baked into her soul, into her power, is part of why she is able to control her body directly at all. From what we can tell—and from what all the researchers we employed were able to determine—a standard vestige couldn’t control the automaton body at all. At first, we thought it was due to the twists to her soul, her oddities and—for lack of a better term—malformations, but that’s not it. It is the reality tint to her power that effectively ‘forces’ the body to accept her power and control as natural. The void removes the separation between herself and the body. That, more than anything, is what makes her body her.”
+
+Rane was nodding, and he glanced toward Tala, who smiled. “So, we were right.”
+
+“So it seems.”
+
+“It’s a mild effect now, right? Should be greater once she soulbonds her body?”
+
+Alat and Enar nodded. “Undoubtedly.”
+
+Enar continued. “Additionally, from our understanding—once she’s mastered her inscriptions enough to go back out into the world—we expect her to be able to soulbond her body basically as quickly as you did, Tala, if not more rapidly. She is prepped for it on every level, and in this, her automaton nature will aid her. The only thing she’s really missing is the magical control, which learning her inscriptions will facilitate far better than any other method we know about. Beyond that, her body will utterly reject the idea of ‘its power source’ turning into a fount, and while she could fight through that if she wanted, the fact that it will be aligned with her goals will make her nature an unlooked for boon when it’s time for her to become Bound.”
+
+Rane hmmed this time. Tala grunted. “So, she should be able to push the speed limit for resonance farther than anyone else can, or at least more easily.”
+
+Alat nodded and added, “Exactly. And that will increase when she’s Bound, likely again as a Fused, and who knows after that?”
+
+There were a few moments’ of silence before Rane took another sip and brought the topic back to the more immediate future. “So… you think she’s ready for her inscriptions, then?”
+
+Alat and Enar shared a look before Alat shrugged and Enar sighed. “I think she’s close.”
+
+Tala frowned. “So… not ready?”
+
+Alat shook her head. “This instant? No.”
+
+Enar continued. “But if we approve her inscription, and set that before her, I think that she could be ready. We have a few weeks before the initialization of the city’s spellforms. Then we’ll travel to Bandfast, to Mistress Holly. With even a modicum of the dedication that she’s shown, Lea can be ready by then.”
+
+The four fell into silence then, each contemplating the decision before them.
+
+After a bit, they refilled their wine glasses and moved to talking about other things, simply enjoying their time together.
+
+It was late in the night, near midnight, and Lea had long since returned with her group, going straight to bed as she was set on not interrupting her parents’ conversation.
+
+The four had polished off the few bottles of wine they’d set aside and raided the sanctum stores for the same number again.
+
+They were, of course, not drunk in the least, given their advancement and mostly cognitive natures.
+
+“So, we are agreed then?” Tala said, bringing them all back on task.
+
+There were a round of nods.
+
+“Then, tomorrow, we’ll tell her we agree, if she puts in the work between now and Bandfast.” Tala drained her glass. “I’ll tell her tomorrow.”
+
+They all stood, bidding farewell and headed to bed.
+
+* * *
+
+That next morning, a squeal of glee shook the sanctum.
+
+Well, not literally, but both she and Rane grimaced at the sheer volume of Lea’s excited exclamation. “Really? Are you sure?” Then she hesitated. “No, you already said it. No takebacks!”
+
+Rane chuckled, and Tala held up one finger. “Don’t forget what I actually said, young lady.”
+
+Lea stopped, her eyes scrunching for a moment as she clearly worked to remember. Then, she nodded. “Yes, Mom. I will study hard and work to shore up my few remaining gaps.”
+
+Rane cleared his throat. “And…?”
+
+“And…” Lea frowned again, then perked up. “Oh! I will be confined to the sanctum after I get my inscriptions for an extended period, likely months, until I can show control and capacity to be gentle, to keep my strength under control.”
+
+Rane nodded. “Good.”
+
+Tala smiled. “I’m glad you’re so excited, sweet.” She gestured toward the table of food laid out for them. “Come on. Let’s eat, and you can tell us about your night.”
+
+Lea brightened once more before practically skipping over to the table. “Oh, Mom! Dad! It was amazing. The food was good, but that wasn’t the highlight. The play was about a woman who had magic in a world where most people don’t! Can you imagine that?”
+
+Tala and Rane shared a look. Yes, they could, in fact, imagine that, especially given that such was the state of this world, but they didn’t see a need to correct the girl, especially as the gushing continued even as Lea was eating.
+
+The couple shared a loving look while they listened to their daughter.
+
+In that moment, Tala realized that, by many metrics, she’d made it. She was rich, powerful, and in command of her own destiny. She had a family whom she loved, and things were looking up.
+
+With only the Black Legion and the upcoming Leshkin war—along with her Reforging and a return to the arcane lands—hanging over her head, things really were in a great place.
+
+-I feel like you realize this somewhat often.-
+
+Well… I’m not good at letting it sink in.
+
+-We should be better about that.-
+
+Yeah, we really should.
+
+So, Tala did just that. She ate and allowed the reality of things to truly sink in. All the while Lea continued to tell of her glorious evening out on the town.

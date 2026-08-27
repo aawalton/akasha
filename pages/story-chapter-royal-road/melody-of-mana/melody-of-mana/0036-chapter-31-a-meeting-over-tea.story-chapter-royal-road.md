@@ -1,0 +1,155 @@
+---
+id: 86b0f8ae-6bf0-508e-a1de-e7ec46ba210d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31  A meeting over tea"
+slug: 0036-chapter-31-a-meeting-over-tea
+partOf: melody-of-mana
+position: 36
+ownLength: 2204
+unit: words
+ownProgress: 2204
+publishedAt: 2021-07-25
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/722683/chapter-31-a-meeting-over-tea"
+royalRoadId: "722683"
+markedReadAt: "2026-06-29T22:27:28.209Z"
+---
+
+It was the next day that Dras came to see me after my afternoon shift. He looked thoroughly exhausted when he came in.
+
+"So, my mom wants to meet you."
+
+I narrowed my eyes at him. "Questions first. Why did you not tell her about me?"
+
+"To avoid all of her questions, and because she'll try to sink claws into you too."
+
+"..."
+
+"My mom is nosy to an unbelievable degree. She also thinks that we're courting now, regardless of what I tell her. There's a lot that I keep from her. Partially because I don't want her in my business, but also for other reasons."
+
+"Like how much money you're making? She was worried about the cost of healing. With your amount of mana it would be no problem to make that much. I know you well enough to know that you do already."
+
+"Yeah, like that. Will you not tell her about that?" He seemed genuinely concerned that I would.
+
+"Maybe, if you tell me why."
+
+"You know that there's an academy for mages in the city right?"
+
+"I didn't, but I did kind of assume."
+
+"Well, the tuition is expensive. I want to go when I'm old enough, but my family will want that money for their own expenses."
+
+I was really familiar with my family taking the money I made. I hadn't minded at the time since I was so young, but now it would really grate if they did. "You should help them some at least, they are family."
+
+"I do! When I first manifested my abilities they took everything I made, all of it. Mom knows I'm making a bit more now, but not how much. If she knew how much she'd want more, and I can't afford that if I want to get into the academy. Right now it'll be close as it is."
+
+"Fine, I won't tell her." He was my friend, and that at least wasn't an unreasonable request. I did have another question though. "Does this academy take bards too?"
+
+"Huh, yeah, any kind of caster. They start when you're fourteen. There's an entrance exam every fall, unless you're a noble or know someone who has a good in with the staff."
+
+"Interesting, I'll have to look into that. So you're going... next year?"
+
+"Year after, I was born in early winter."
+
+"I'll have to think about all of that. That's a long time off though, when and where does your mom wanna meet? I'm guessing not here, since she probably doesn't know that you spend so much time in a tavern."
+
+"Yeah, maybe don't mention that, or explicitly where you work. Mom doesn't like this whole street."
+
+"Don't you live like right down it?"
+
+"We're two over, she wanted you to come by for tea on the next day you're off. If that's okay?"
+
+"That's fine, mind taking me over then?"
+
+"Yeah yeah, but I won't be joining you two. She was real clear on that."
+
+"Alright then, come by around... late morning? Something like that. I'll be around all day anyway, so it's fine."
+
+He looked relieved as we went off for our usual practice, running through several of our spells. I was still keeping the invisibility one secret though. It seemed like something special, and I wanted an ace up my sleeve to surprise him one day.
+
+I woke early the day of and after a quick breakfast took my time getting ready. Getting truly clean was a pain, particularly at this time of year. I had no tub, nor large basin, so washing out of a couple of buckets was it. Cleanup from my improvised shower was also a bloody pain, there was water and soap everywhere. I was also thoroughly thankful for my heating spell, else I would have been freezing. My better clothes were luckily clean anyway, as I'd had plenty of time for laundry.
+
+My hair was normally loose; but since this was as close to a formal event as I'd been to in the past nine years, I decided to go with something a bit fancier. I did a quick French braid, which I moved into a bun. In this world I'd only seen something even a bit like this on Hazelwood's daughter. In my previous life I'd done this and seen it done on a childhood friend's hair several times. It was a first for me in either life. I'd kept it short in my previous, and only done simple stuff before here.
+
+I headed out to the common area of the tavern to sit down and wait for Dras. Lucien came over to look at me, looking like he wanted to say something.
+
+"What?"
+
+"Alright, what are you up to."
+
+"Er... I'm going to tea with Dras' mom?"
+
+"Tea with... okay." He skulked off, seeming to believe I was going to cause some mischief.
+
+When Dras came in he stopped and stared for a few moments.
+
+"You did your hair different."
+
+"Yup."
+
+"It's... nice."
+
+"Thank you."
+
+I was getting the distinct impression that I might have overdone it. Sure, nobody in the village did much other than simple ponytails, but it wasn't that big of a deal. I mean, I was pretty sure I'd seen something like this before here. Racking my memory I found only images of really wealthy women in the upper part of the entertainment district, or girls dressed super fancily with really done up hair. Well, it had taken me too long, and I wasn't taking it down now, so whatever.
+
+Dras' house was only a couple streets away. The coward bolted as soon as I got to the door. It would appear he wanted nothing to do with this entire outing. Within only a few moments his mother had appeared and brought me in, giving me a big smile.
+
+"So, tell me about your family." She launched right in as soon as the drinks and small snacks were served.
+
+Their house was not big, nor really fancy, but they were not terribly bad off either. It was two floors stuck between several other small homes right on the edge of the entertainment district, closer to the wall.
+
+"We're from a village out east. Dad used to be a soldier. I have two..." I had to pause for a moment to compose myself. "One brother."
+
+She raised an eyebrow, but didn't ask. "How long have you known Adraias?"
+
+"Since spring I guess? Adraias?"
+
+"My son dislikes his name for some reason I cannot comprehend. Something I'd rather him get over. It is a pretty name isn't it?""It's nice." This seemed to be a sticking point between the two. I was beginning to understand some of his issues with her if she couldn't even call him by a nickname.
+
+"How did the two of you meet by the way?"
+
+"Oh, some people were fighting and spilled their food all over me. So I dropped them like a stone. Dras seemed to think it was hilarious and started to want to hang out after that."
+
+"Really? What kinds of things do you do?" She leaned in, staring intently.
+
+"Talk mostly, and practice. There aren't a lot of kids around here who're casters."
+
+"Oh that's true! What kind of things do you two practice?" I could feel where she wanted this to go already.
+
+"Our magic is pretty different, so we each do our own. It's fun to have someone to talk to while doing it is all."
+
+"I see. What sort of things is he working on now? He's pretty shy about showing us that kind of thing." And there it was.
+
+"What a caster can do is a very personal question. You should really ask him if you want to know." Her face went absolutely sour for about half a second before she recovered.
+
+"Like I said dear, he won't talk to me much about it. I really was hoping you might tell me."
+
+"If he doesn't want to talk about it; then I shouldn't." It was clear that this was not at all the answer she wanted. Unfortunately for her, it was a super personal question, and he'd made it clear he didn't want her to know anything at all.
+
+"Well I am his mother dear."
+
+"If someone went to tell another about the magic I could do, I would be irritated. Even if they were family. What you are asking is between him and whoever he wants to share it with." There came a time when you had to just be blunt, and we'd reached it. I did at least manage to keep my tone calm and polite. If only because a hard no in a light tone with a smile was a brutal turn down.
+
+She huffed a bit, and changed over to some other mundane topic. Our little meeting ended shortly thereafter. I got the feeling that Dras' mom really, really did not like being told no, and felt a hard pang of sympathy for him.
+
+The next day my friend came by to tell me how his mother had spent the better part of her evening railing against me. Which he took to be the highest compliment on my personality he'd ever heard. He had in fact been told that he needed to not hang out with me, that I was a bad influence. So of course he was going to spend as much time as was possible hanging around. I really worried for his family life, that couldn't be good.
+
+Winter on the other hand quickly fell upon us. Dras did come by The Sky as much as he could during our snowy season, but that was limited to a couple of times a week. He could easily deal with the cold, but nobody really liked going out during the snowstorms that made up much to all of the winter.
+
+As people returned to their travels with spring the rumors of the rebellions continued. It wasn't one group either, details now seemed to speak of several. The empire was being slammed with them too. People were pissed at what the war had done to both countries, particularly the peasants. A few of the border baronies had already fallen, and while troops were moving the peasants had taken to hit and run guerrilla type fighting. There had even been a few assassinations of nobles.
+
+Magic was a powerful weapon for war. The issue that the nobility was having was simple. Finding their opponents was proving nearly impossible. An army of only commoners could have been crushed, but there wasn't one.
+
+None of that really concerned me. I'd managed to bring down my invisibility spell to a reasonable cost from a frankly insane amount of practice. Darkness was now easy too, and while it wasn't at Lucien's level, it was still pretty good. With that it was time for some new spells.
+
+First I went for a cleaning spell. After some consultation with Lucien I decided to combine something like the remove disease and remove poison spells. The trick was to imagine the grime and dirt, then pull away and dissolve it, leaving whatever you were working on squeaky clean.
+
+On a whim I tried to use it to bathe. It worked, sort of. It wasn't pleasant like a bath or shower, nor did it leave the nice soap smell, feeling more like a vacuum than anything. It also removed hair. My guess was that on some level I instinctively thought of body hair, and stray hairs, as yucky. Which meant it was a no go for washing my hair, unless I wanted to be bald.
+
+I asked about a silencing spell as well, but according to Lucien that would leave me unable to cast, unless I learned to dance or something. I put a pin in that one and went for an attempt at making sugar instead.
+
+I had seen white sugar in the market once or twice, at insane prices, so I knew it existed in this world. I did not know enough chemistry to know what it looked like, but I was super familiar with it from my life on Earth. I knew how it melted, how it tasted, how it smelled when it was hot. How to use it in foods and everything else. My experience was deep when it came to the delicious crystals. Thanks to one teacher who'd made us look at food under a microscope I even had an idea of what the crystals looked like when you got close.
+
+Making sugar was not nearly as easy as I might have hoped though. Even with all that I only got around a tablespoon full for what I could make several loaves of bread with. I was not dissuaded, practice would make perfect in time, of that I would be sure. It could also be safely stored in a jar until I needed it for... research purposes.
+
+Jer also started coming around every now and then with Dras. He seemed to think having a friend who was a healer might one day be a good idea. We would spend the spring evenings chatting and wandering the city, seeing what we could.

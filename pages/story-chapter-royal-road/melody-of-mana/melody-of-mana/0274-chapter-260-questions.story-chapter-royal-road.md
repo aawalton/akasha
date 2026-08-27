@@ -1,0 +1,105 @@
+---
+id: aa04ed17-09ae-5030-9632-b398b9794b40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 260 Questions"
+slug: 0274-chapter-260-questions
+partOf: melody-of-mana
+position: 274
+ownLength: 1283
+unit: words
+ownProgress: 1283
+publishedAt: 2023-08-19
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1315259/chapter-260-questions"
+royalRoadId: "1315259"
+markedReadAt: "2026-06-29T22:35:17.483Z"
+---
+
+I tensed, they weren't alone. There were over half-a-dozen others with them, not that they would be needed. Those two alone were enough to deal with the few people I'd brought along.
+
+“No need to be afraid Alana, we just want to speak with you about some of our concerns,” father began, his eyes watching both Ulanion and myself sharply.
+
+My former mentor said nothing, just looked on. I could feel the magic he was holding in place, ready in case we did something.
+
+“Alright... mind if we go somewhere private then?” I asked.
+
+Quickly we were shown to a room.
+
+“I'd rather we do this privately,” dad said to Ulanion.
+
+We were in a small meeting room, and quickly threw up a number of privacy wards.
+
+“Let us start with the basics. Why exactly did you destroy our one means of making new portals and place new restrictions on those who could make them? We've discussed this, and were already having less made, and with more protections.” Mystien began, he looked quite unhappy.
+
+“I had to consult with an expert about the issues surrounding them to try and find a long-term solution. He is the one who put those down. I think the larger question is how you know about all of this?” I replied, a bit more snappily than I would like to admit.
+
+“Alana, we have an inelegance wing, you know this,” dad sighed.
+
+Mystien gave me a searching look. “Alana, you are the resident expert in portal technology, perhaps the best in the world right now.” At my raised eyebrow he searched his memories. “The elf.”
+
+Dad quirked his own eyebrow, so I opted to explain. “We ran into an archmage of extreme power over in the elven lands. He's very private, but agreed to look into this, he's the one who provided the new additions we're using to stop another disaster like Silversprings, or worse, which he agrees is possible. Good news though, it means we can restart adding gates when we've got that done.”
+
+“Who is this man? How are you contacting him?” dad asked in rapid succession.
+
+“An old gate left behind, and as for his name, well I suppose I'll need Mysten's help with him soon. Most people just call him the elven king.”
+
+Dad didn't understand, Mystien let out a solid stream of expletives.
+
+“Which king? Atal's?” dad asked confused. While he knew a lot about politics, only on our own continent.
+
+“The elves only have one king Verren; they only ever had one king. He's supposed to be dead.” The old spellcaster was finally speaking something other than curses.
+
+“The rumors are exaggerated.”
+
+“The last time he showed his face he almost took over two continents!” It seemed my feelings on the matter didn't calm him at all. “It took the literal formation of the Orders to stop it, and even then it was said to be a near thing! If word of his return gets out the elves will go to fucking war! A war we cannot afford, and one that would put us on the front-line.”
+
+“I'm glad you're up to date on your history. More good news, he's uninterested in that nowadays. What he is interested in is my project, because it relates to his own.” I looked them down, dad confused and Mystien looking like he wanted to throttle someone.
+
+“Explain,” dad said, eyes furrowing.
+
+“He's doing some work with the same kind of thing that goes into the portals. I saw his papers once and if I'm being honest it's all nonsense to me, but he gets it. The price for my consult was nothing bad, we got new safeties, what we needed to know, and a friendly connection that may one day prove useful. Bad news, more information about the distortions is needed right now.” I started listing what we'd gained.
+
+“Why didn't you tell me about any of this?” dad asked, looking frustrated.
+
+“Why haven't I seen you in months? And don't tell me it's because you're busy, you pass through the portal network all the time; which I know, because I can see the logs. Yet not once have you come to see me, or even the woman who will soon birth your grandchild. You don't get to complain to me that I'm not telling you things when you're never around to tell.” Now was my turn to be mad, because he looked to be avoiding me. All I ever got was formal letters with instructions and requests for magical items for us to produce.
+
+We sat in silence for minutes after that. Mystien could see this was a family issue, and kept back. My father and I just stared at each other.
+
+“Your mother...” he began, letting it trail off.
+
+“You think I don't know!? I was there, she died because I wasn't strong enough,” his raised hand stopped me.
+
+“It wasn't your fault, you didn't hurt her, and nobody could have stopped her from stabbing that woman. It's that you look just like her when she was your age. I can't look at you and not see her, and I can't fight this war and be distracted too.” He looked hurt, and tired, and his age began to show even through all of his strength.
+
+“Oh.” It was all I could say. I'd clearly not known his own issues.
+
+I placed a hand on his, and held it there. Dad needed time to grieve, and everything was preventing that, it hurt to think about, but he couldn't now, not if he wanted us to be able to see tomorrow.
+
+“I'll try to come see you when I can, but there are things we still need to be kept in on. Like why you're going to Linden,” he said, finally going back to the point of their waylaying me.
+
+“Because one old and powerful archmage wants to meet with another old and powerful archmage, and I'm apparently now the delivery girl for them both. I'm hoping this will be enough to sate the elf and get him working on what I need so I can spend more time on advancing our wards. I'm hoping Mystien will be there in case something goes wrong.” I said with a bit of a shrug.
+
+“You are a very frustrating girl who became a very frustrating woman,” Mystien said.
+
+“Thank you,”
+
+“Not a compliment,”
+
+“Yes, it was.” I let it drop when I saw his eyebrow begin to twitch.
+
+“When will this be?” he asked after a few moments.
+
+“I don't even know where it will be yet. Working on finding all of that out now.”
+
+“I'd offer to send more guards with you, but from my reports the people of Linden seem extremely against the idea of a repeat of the last time you were there. If someone attacks you I don't actually have much better than the priests they're sending. Still, be careful.”
+
+“Keep us informed,” Mystien added. “I will be coming by to see you soon. I'd like to see some of your new work too if you don't mind.”
+
+“I don't, but you will not interfere with my facility,” I said, placing my foot firmly down.
+
+“Are you satisfied?” dad asked his companion.
+
+“For now.”
+
+“Good, because I need to get back to the front. We're still unable to locate some of General Ozen's forces. I expect an attack on the eastern side of the country at any moment.” Dad rose and left, giving some signal to the men outside. They fell in, so I supposed it was good for us.
+
+Ulanion sent me a questioning glance, and I just shook my head. “Misunderstanding.”

@@ -1,0 +1,225 @@
+---
+id: b8e7a625-b718-5842-b4de-20b1ff619034
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 669 - View of the Doman-Imithe"
+slug: 0175-chapter-669-view-of-the-doman-imithe
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 175
+ownLength: 2781
+unit: words
+ownProgress: 2781
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3028356/chapter-669-view-of-the-doman-imithe"
+royalRoadId: "3028356"
+markedReadAt: "2026-06-29T19:40:40.505Z"
+---
+
+Tala stood beside Rane and Lea—Terry upon Rane’s shoulder this time—facing the obsidian pagoda, the place where she and Thron had been sent into the Doman-Imithe to die… Well, she’d been sent in to die, he’d been sent in to make sure she died and to bring back her stuff.
+
+It was not a place of good memories for her, but she was genuinely curious what they would see.
+
+Eskau Pallaun wasn’t going to be the one to open the way this time, and they wouldn’t be stepping through. So, all things considered, it would be an entirely different experience.
+
+She shouldn’t be hesitant. After all, I demanded that they show this to me. I want to see it.
+
+-Yup, that’s just what they want you to think. The door will open, and someone will appear from invisibility and push you through!- Alat sent across a maniacal cackle.
+
+I… think that is unlikely. I’m far more powerful than when they tried condemning me within before, and I’d be right rusting angry if something like that happened.
+
+-True, true… but you never know.-
+
+Not helpful, Alat.
+
+-Fine.-
+
+Waiting ahead of them was a rat-kin man in a red robe. He had absolutely no aura, his power and authority completely and utterly contained well within his body, so deeply sequestered that Tala couldn’t find it with any rapidity. On the exterior, his fur was brown and well cared for, but still clearly roughed with age. Bits of gray were visible around the edges and on the tips of his rounded ears. The man also leaned on a gnarled wooden cane.
+
+As the Sappherrous family came up to him, he bowed low, sliding his hand down the cane to facilitate the bow. “Greetings, Eskau of the House of Blood. I am honored by the—Ow!”
+
+He jerked his hand off his cane, causing him to unbalance. Lea moved first, stepping forward to catch his shoulders and help him right himself, even as he brought a finger up to examine closely. “Splinter?”
+
+The rat-kin grunted. “Yes.” He reached with his other hand and pulled out a long sliver of wood. “I just had this cane refinished too.” He smiled at Lea, using her help to rebalance. “Thank you, young miss. That was kind of you to assist me.”
+
+“Of course… I’m sorry, I didn’t catch your name?”
+
+“It is Hama, young miss. I am shamed by my mistake. If you wish, I will call another Path Finder for your display this day.”
+
+Tala stepped forward, picking up the cane and handing it to Hama. “That won’t be necessary. Accidents happen, and this accident didn’t affect us in the least.”
+
+Rane nodded. “So long as you’ll be alright, I think we’re fine to continue.”
+
+Hama raised a murine eyebrow. “It was a splinter, good sir. I didn’t lose a hand. It is embarrassing, not fatal.”
+
+Rane chuckled. “Fair enough.”
+
+Hama nodded. “Alright, then. Follow after me.” As he walked into the pagoda, he glanced over his shoulder. “I must say, I can’t remember ever opening a passage just so my patrons could sight-see.” His eyes narrowed briefly. “You aren’t planning on dumping something in, I hope?”
+
+“No, no.” Tala chuckled. “My understanding is that gated aren’t exactly safe in the Doman-Imithe, but we are still curious.”
+
+Hama nodded. “True, true. That very fact should mean you stay well away from anything to do with the place, not stand on the edge of oblivion to see what interesting things might be gleaned in the madness.” He shook his head. “But who am I to look down on anyone’s hobbies.”
+
+They entered the black, shiny room, the entrance sealing behind them. Once inside, Tala frowned. “Don’t you engage in the madness yourself?”
+
+“Are you insane? The Doman-Imithe is entirely predictable until you let magic into it. So, there is some chaos around openings, unless a true master is involved.” He stood up a bit straighter. “But beyond that, gated can’t hold in their power perfectly.” He glanced their way and gave a small bow. “Begging your pardon, but it’s the truth.”
+
+Rane shrugged, nodding in acknowledgment. Lea grinned, and Tala sighed. “Fair enough. So, you’re saying that the madness I’ve seen in the Doman-Imithe is a result of my own power leaking in and… what? Changing things?”
+
+Hama stopped, turning to regard her for a long moment. “So, you’ve been in before, and you just want to see it when a professional is involved?”
+
+She nodded. “Effectively? Yeah.”
+
+“Then, I would say yes. It’s like dumping a bucket of blood in the ocean. You’ll draw danger to yourself from everywhere around. That danger comes with various distortions—some by the nature of the things coming your way, some by the nature of the Doman-Imithe itself distorting under the influence of magic—and it is those distortions that make travel all but impossible.”
+
+“Huh… I’ve managed alright.”
+
+The rat-kin gave her another incredulous look. “You traveled through as well?”
+
+“Only a couple of miles.”
+
+“I see…. How long did that take you, then?”
+
+“A few hours?”
+
+He huffed. “I could do thirty miles in three steps, young one. The fact you survived and found your way out is… something, I’ll give you that, but don’t assume that you experienced true Doman-Imithe traveling.”
+
+“Fair enough, I suppose.” She smiled. “That is why I’m here. Seeing, I mean. I know we can’t use it for travel.”
+
+Hama chuckled, mirroring her utterance. “Fair enough, I suppose.” He then clapped his hands together. “Shall we, then?”
+
+He made eye contact with each of them waiting until they nodded. He even locked gazes with Terry for a moment before the avian similarly agreed.
+
+“Good, good. I assume you have a way of keeping your power contained? My methods will keep the ambient magic of the city in check, but I do not pretend capacity to restrain aura or authority from the four of you.”
+
+“Is that why you seem to have no magic or aura about you? You are keeping it suppressed so it doesn’t interfere?”
+
+He smiled. “Precisely.”
+
+Tala nodded. “Show me where the delineation needs to be, and I will put down an aid that will prevent any power from crossing.”
+
+The rat-kin raised an eyebrow yet again, then nodded, walking forward. He ran his finger along the ground, and Tala saw something that made no sense. There were inscriptions within the obsidian… made of obsidian.
+
+They weren’t a different color, nor were they a different finish, but she could see the inscriptions… even though they weren’t there.
+
+It was as if the very act of having them pointed out made them appear.
+
+Hama chuckled. “This is something new to you, eh?” He bobbed his head and clicked his claws against his walking stick. “This is the power of reality.”
+
+Rane stepped up, frowning. “Like natural magics? Spellforms tied to a physical thing, not needing to be refreshed?”
+
+“Hmmm… Yes, but no.” Hama shrugged. “Natural magics are as you said, but they are magic. This is a twisting, a working of reality.”
+
+“Reality magic?” Lea asked.
+
+Hama held up his hand and waggled it back and forth. “The easiest way to create such as this is with reality magic, but they are not reality magic. They are simply reality.”
+
+Tala tapped Lea on the shoulder. “Like the slaughteryard bones. There was no magic to them, but the reality of the place was twisted and different from others.”
+
+Hama nodded, pointing toward Tala. “Just so, if I understand what you’re saying. The young miss is correct though, this was originally set, condensed, and codified by reality magic. Sadly, that was done by those long passed, and given their end… we are unlikely to have more. A rearranging so that this circle is naturally repellent to magic.”
+
+Tala gave a slow nod in turn. She hadn’t really noticed because the zeme of Platoiri was all eddies and swirls, pockets of greater magical density and of less, all moving and dancing around one another just as everywhere in the world, only more tumultuous within the arcane city.
+
+Among all that, there was a ten-foot radius sphere surrounding the central platform of this pagoda in which there was less and less magical power until the center had none at all.
+
+“I see… It effectively makes it ‘steep’ to magic, right?”
+
+Hama clapped his hands twice in obvious excitement. “Precisely, Eskau. Well noted indeed. It is like an island that rises out of the surrounding sea. It is not hydrophobic, but stays dry all the same.”
+
+“So, our power would act as a tidal wave, submerging the island regardless of its elevation above the standard currents.”
+
+“Just so.”
+
+She smiled, calling iron up to the superficial, surrounding the ring, leaving a six-inch buffer between her iron and the reality working. “Fascinating. While I can see what it is doing, I don’t understand how.”
+
+The rat-kin chuckled. “That is not surprising, good Eskau. Even I don’t know the how. It does line up with the tales of antiquity, that when our world was broken it was submerged in the distortions of magic.”
+
+Tala blinked a few times. “Reality was bent to make Zeme a ‘low point’ at which magical power could gather. Otherwise, even were there magic flowing into our world, it would simply flow away to be spread out across all existence to such a low density as to be meaningless.”
+
+“Exactly!” He clapped his hands in excitement once more. “We are an ocean—or at least a lake—of magic within the cosmos, maybe the only one?” He shrugged. “Who knows though? The Doman-Imithe is a series of caves beneath the surface, and if we allow the ocean to flood in, not only do they become difficult to navigate, but they can be distorted or even destroyed by the rushing water.” He hesitated, then shrugged again. “Though that metaphor fails in other ways.”
+
+Tala grinned. “It is understandable either way.” Her ring finished. “Let me assist.”
+
+All remnants of power within the circle were grabbed and pulled out, her reality iron exerting her authority within for a moment before turning it outward, and simply keeping any other power or authority from coming in. In that moment, a stark absence became apparent to her. “The Revered City Lord… He has no authority here?”
+
+Hama grinned. “No one has authority here, in this building. It belongs to all and none. For one such as he to have authority here would threaten the integrity of the connection as surely as sticking a vestige at its heart.”
+
+Tala looked around, noticing that the undercurrent of that man’s authority was indeed absent from the whole building. “I see.”
+
+“Now, as much fun as the conversation is…” He smiled around at all of them. “and it has been genuinely diverting—I need to show you what I can and let you go on your way. I have travelers coming in this evening whom I must prepare for after we are done here.”
+
+They all nodded, thanking the man for his time.
+
+Hama stepped forward, lifting a hand and opening his mouth. He uttered a sound that sounded more like a deep, basso instrument, than any sapient voice, the air almost visibly trembling as the slowly undulating song began to instantly echo around the sealed room, building and resonating.
+
+Tala saw power around the man then, and just like the inscriptions that weren’t there, his power was something based in reality.
+
+Her eyes widened. It isn’t even reality magic. It is something based in his authority as a Path Finder? He has power because he is one who is supposed to? That’s circular.
+
+-Isn’t that the way with all non-magical power? It has basis only because people agree that it does?-
+
+Tala slowly nodded. This wasn’t a new concept, but it was something that she hadn’t seen in quite this tangible of a way before. This is nothing like how Eskau Pallaun opened the way.
+
+-Well, he wasn’t trying to open a stable path. It’s nothing like how you’ve done it either.-
+
+Well… I was working without having seen this.
+
+Hama strode forward, crossing the lines of delineation with ease, and the vibration and resonance in the air slowly seemed to shift and settle. After less than a minute, nothing seemed to have changed, but everything was different.
+
+The central area now contained a distortion that was almost like a heat-haze but less substantial. Through that, Tala could see an obsidian hallway, matching the pagoda, leading into the distance when there was no such passage within the building. “That’s it? Just that path?”
+
+Hama had fallen silent when the hallway became visible, and he chuckled. “It is a path, and I have found the way.”
+
+Tala narrowed her gaze. “This isn’t how everyone does it, is it?”
+
+He grinned. “No, of course not. This is only the means by which things entirely without magic can travel.” He exhaled, and the smallest amount of power leaked from deep within the man. It was instantly sucked into the distortion in the air, and the view changed in an eyeblink.
+
+Though… change wasn’t quite right. It was almost as if the focus of Tala’s sight had shifted slightly, and she was now seeing something that had always been there, just not important before.
+
+Now, the view was of an obsidian road across a field of blood-soaked grass.
+
+In the sky overhead, a hand hovered, seemingly ready to snatch any who dared set foot upon the road. “That would be a path for any who could not fully contain their magic.”
+
+Lea’s gaze was locked on the massive, inhuman hand. “Would it be safe?”
+
+“If you stayed on the road? Yes.”
+
+Rane frowned. “Why could we not take that road, then?”
+
+Hama chuckled. “Once again, no offense meant, good sir, but you leak more than a little power. This is what most gateless would experience, for none but the truly masterful can keep all power within.”
+
+His true blue aura was suddenly visible, the power being shed into the distortion, and the scene changed again. Every blade of grass sprouted eyes, all watching the road, and the previously slate gray sky became bone white before violet eyes started to open, glaring down.
+
+The road itself seemed to begin to break apart, first becoming cracked, then broken, before being reduced to obsidian gravel. Then, it faded further.
+
+Hama shuddered, then clapped his hands together, the action somehow collapsing the connection. He then grabbed at his cane from where he’d leaned it against his leg and braced against it, clearly struggling to stay upright. “Even a moment of inattention by any one of the travelers can mean horrific death for everyone in the group. You exist in a constant state of that ‘inattention’ for lack of a better description. I would not step into the Doman-Imithe with you for even a moment, not even for a Boon, unless it came with an Existence clad guarantee of survival.”
+
+Rane grunted. “I see.”
+
+“I truly mean no offense.”
+
+Rane shook his head. “No offense given. You have told a fish that he will make things wet wherever he goes. This is simple truth.”
+
+Hama chuckled. “Even so, I thank you for your understanding.” He looked at each of them in turn. “Do you have any other questions?”
+
+Lea nodded. “What was that… singing?”
+
+“Ahh, yes. Effectively, that was a resonance, which allowed a thinning of the barriers between Zeme and the Doman-Imithe.” He hesitated. “More, it is like vibrations within a pseudo-solid, causing it to flow like water and allow passage. When the resonance dies or is interrupted? It becomes all but impenetrable once again.”
+
+“And that can be done with sound alone?”
+
+He chuckled. “For me, yes. My concept, my dear, makes me uniquely suited for this role.”
+
+“May I inquire…?”
+
+He smiled and nodded. “I would not have mentioned it if not. The portion I will share is: Vibration is at the heart.”
+
+Lea frowned. “I… I don’t understand.”
+
+He shrugged. “I thought not. I have no interest nor way of conveying it more fully nor in a way that you would likely grasp. Suffice it to say, to me? All existence is but vibration at different frequencies, and I work with that.”
+
+Lea gave a bow. “Thank you.”
+
+Hama bowed in turn, if to a lesser degree. “Of course. Now, is there anything else?”
+
+Tala and Rane exchanged a look then shook their heads. Tala addressed the rat-kin on their behalf. “No, that is all. Thank you, Revered Hama.”
+
+They exchanged bows, and then the Sappherrous family departed, leaving the rat-kin to his tasks.

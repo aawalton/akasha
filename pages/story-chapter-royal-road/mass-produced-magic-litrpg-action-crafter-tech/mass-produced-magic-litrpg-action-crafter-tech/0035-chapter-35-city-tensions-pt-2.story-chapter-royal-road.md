@@ -1,0 +1,177 @@
+---
+id: 0fbdd3b4-79f5-5e1e-a7e7-c4bb91784627
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 – City Tensions – Pt 2"
+slug: 0035-chapter-35-city-tensions-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 35
+ownLength: 1963
+unit: words
+publishedAt: 2024-12-26
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1976675/chapter-35-city-tensions-pt-2"
+royalRoadId: "1976675"
+---
+
+Forcing one foot after another, Kindra stepped out of the forge and approached Dain. “Dad?” she called. “Mom said she needed—” She turned to the guards and stopped. Breathe. Just breathe.
+
+The guards scowled. “And there she is.” He gestured with his head. “The mayor wants a word, Kindra.”
+
+Kindra moved closer to Dain. That can’t be good news.
+
+“I’m coming with you,” Dain said, scowling and prodding at the bloomery. He sighed and walked away from it, taking Kindra’s arm on the way by. Smiling, he patted her gently on the back before frowning at the guards, his eyes showing their annoyance.
+
+What do they want? Kindra moved closer. The guards turned and marched through the town’s streets. She followed, slowly forcing her breathing under control. I still have bullets in the M4. Worst case, I burn everything I have and use them. She frowned. I need to make more bullets for it today. That has to happen.
+
+She added it to her list and walked down the streets. Dwarves paused and watched. Some turned and scurried into their homes or shops, wanting nothing to do with whatever was happening.
+
+Walking past a merchant selling vegetable-filled carts, Kindra entered the town square. People were gathered around a few vendors and the well. All of them parted, moving away from the guards and her.
+
+Several looked at Dain, and the group approached the barracks. Guards stood next to the door, undead ones among them. Another dose of fear hit, sending a shiver down her spine. An undead canine was standing next to the door, sniffing everything that walked by. Okay. That’s a problem. Willing the runes into her mind, she pulled on her mana and created a little ball.
+
+The canine turned, fur dangling from a large wound on its side. Icy blue energy crackled through its side. Its blue eyes locked on hers, and it sniffed. Its mouth opened, and Kindra flicked out her spell, sending a glowing white ball zipping across the square.
+
+The dwarves remained blissfully unaware, and the dog’s eyes locked onto Kindra. It sniffed, and the ball hit it, snuffing out the magic and dropping the corpse onto the ground. Yellow fluid oozed out of it.
+
+The guards frowned. One scowled and turned. Kindra looked up at him and smiled. “Sir?” she asked, letting her smile turn to confusion.
+
+“How did you do that?” the guard demanded.
+
+Kindra turned. “What’s he talking about, Dad?”
+
+“Do what?” Dain asked, sighing loudly.
+
+“That watchdog just died,” the guard hissed.
+
+“It was already dead,” a nearby dwarf said, chuckling to himself.
+
+Kindra let a chuckle sneak out. She covered her mouth.
+
+The dwarf grinned. “Maybe they went and found somethin’ better,” he said. “Like a wyvern. Bloody beasts.” He chuckled and walked down the lane.
+
+The guard scowled and gestured to the door. Kindra followed Dain into the building and into a nearby office, and stopped, looking at the two dwarves behind a desk. One was sitting in a fancy dress, her hair in an immaculate bun. Her brown eyes locked onto Kindra, and a frown spread across her angry face. Reminds me of an angry librarian. Kindra looked at the other.
+
+He was wearing a uniform and looking as pompous as ever. His brown beard was trimmed neatly, and his brown eyes gleamed angrily. He stared at Dain.
+
+Dain gave a small bow, and Kindra mirrored it. Wonder what Dain did. That guy looks pissed.
+
+“Where is he?” Varric hissed, placing his hand on his sword and glowering at Dain.
+
+“Who?” Dain asked. “Be specific, Mayor.”
+
+Kindra looked at both, confusion on her face. Who are they talking about? She mused on it.
+
+“You know who. Your father-in-law. Gleon.”
+
+Slamming a mask on her face, Kindra kept the confusion up. Who even knows? He’s probably charging something.
+
+“How should I know? Crazy dwarf could be anywhere,” Dain replied, rolling his eyes.
+
+Kindra looked at the woman, who looked disdainfully at both of them. At least she isn’t like that woman from my dream.
+
+Varric turned. “Kindra, have you seen this dwarf?” He picked up a sketch.
+
+Kindra prepared to lie and studied the extremely crude black-and-white sketch. That could be anyone, literally anyone. A different idea came into her mind. She nodded. “Yes.”
+
+A look of glee passed across the faces of both the mayor and his wife.
+
+Varric turned. “And it seems that you’ve been lying to us.” He smirked at Dain.
+
+Kindra raised her brow. “Sir? He’s right there.” She gestured to the guard behind her. Then she traced the paper, nodding repeatedly.
+
+Varric’s look turned sour. He grabbed the paper and studied the two. “No, you daft girl. He has a red beard!”
+
+Kindra blushed and looked at the black-and-white sketch. “Oh.” She looked at the ground, her face going crimson as she fought the laughter.
+
+Dain snorted. “How was she to know that?”
+
+“Have you seen a man like this? Red beard? Brown eyes? Covered with blood?” the woman demanded, gesturing frantically.
+
+“Covered with blood?” Kindra shook her head. “Sorry.”
+
+“I’d have reported him if I had seen him,” Dain said, huffing angrily. “You could have just asked instead of ruining good metal.”
+
+“Enough,” Varric hissed. He turned back to Kindra. “You girl. What village are you from?”
+
+Kindra shrugged, and the woman gestured. A stream of mana flew out, forming runes before circling Kindra.
+
+Studying them, Kindra pretended not to see them. She felt something akin to a growing desire to be truthful. I can’t break it. Can I resist it?
+
+“What village did you come from?” the woman asked again.
+
+Kindra shrugged and felt a growing desire to speak. Look. There’s no name in dwarvish. I can’t answer it. The thought made the compulsion dim, and she shrugged again.
+
+The woman frowned. “How old are you?”
+
+“No idea.” Kindra sighed. The magic surged and stopped almost instantly. No idea for so many reasons.
+
+Letting out a long breath, the woman tried again. “Your clan name? Your birthday? Your class? Anything?”
+
+Kindra shrugged. I don’t know the dwarven words for any of those. She smiled apologetically at the woman. “I have the artificer class,” she said with a nervous smile.
+
+The woman sighed long and loud before turning to her husband. “She doesn’t remember anything, and the spell is working.”
+
+Varric scowled. “Did you see Gleon?”
+
+The magic built around her. Kindra reached for the counter, pulling it into her mind. She shrugged, and the magic pushed inward. Then it bounced back, almost breaking at her touch.
+
+Groaning, the woman sighed. “She’s useless. Get her out of here.”
+
+Dain sighed. “You could have just asked us.”
+
+“If I find a hint of that supposed rebellion, I will personally execute every single person involved in any way,” Varric hissed, his voice bouncing through the room.
+
+“As expected.” Dain turned and walked out of the room.
+
+Kindra followed him. She walked out of the barracks and through the crowded courtyard. A group of guards were carrying the canine’s carcass somewhere, and people were avoiding them.
+
+Darting around a crowd, Kindra left the courtyard and jogged next to Dain, heading toward the forge once more.
+
+Dain looked over at her. He leaned closer. “Mind telling me how you lied to that spell?”
+
+Kindra smiled and shrugged. “It puts on pressure, and you just stop it.”
+
+“Just stop it,” Dain muttered, shaking his head. “Like last night?”
+
+“You heard about that?” Kindra asked, blushing.
+
+“Everyone heard about that.” Dain shook his head. “You just stopped the magic from a hundred high-level screamers. Magic that knocked out some of our strongest.” He turned toward her and raised his brow.
+
+Kindra leaned closer. “I can see magic,” she whispered. “Makes it easier.”
+
+Dain's mouth opened. Footsteps carried down the lane, and he turned away, striding toward the forge. “Interesting. I’ll ask you more later.”
+
+Kindra looked down the lane at the two dwarves walking by. “Don’t ask for details because I don’t know them.” She followed him down the street. Is it because I’m a vampire-thing? She considered it while walking up to the forge and the smoldering bloomery.
+
+Smoke billowed out of the top. The breathing hole was plugged, and the glowing coals were low. Kindra grimaced. “Can you save it?”
+
+“I’m going to try.” Dain walked over and pumped the bellows furiously.
+
+We need electricity… One problem at a time. We already have a necromancer on their way here. Kindra leaned closer. “Where’s the workshop?”
+
+“Building next to the forge.” Dain walked to it and pulled out a key. Unlocking the building, he opened the door.
+
+Kindra walked inside, and the door shut behind her. She looked at the few windows on the walls. Small streams of light streamed through them, lighting the place in a soft light. Well, the lighting is terrible, but so be it. She turned and studied the room. The walls were stone. A table with tools and handles sat there with two chairs in front of it.
+
+Walking forward, she poked her head through a doorway and saw shelves of supplies. Ingots were on shelves. Handle material was everywhere, and four large constructs were sitting there, blocking most of it.
+
+Walking over to one, Kindra pulled it out, dragging the heavy thing into the sunlight. Sitting in the chair, she studied the metallic shell, searching for any trace of magic. Finding none, she sighed and focused on its head, grabbing a screwdriver and hammer from the table.
+
+Finding several screws, she removed them, setting them aside and prying a panel off the golem’s head. Peering into the metal ball, she blinked. The heck is this? A large crystal was mounted in the middle, and the bullet had broken it, shattering pieces everywhere. Well. We’d need to detach its body to figure that out.
+
+She pulled out pieces and looked at runes carved on the metal’s inside. She carefully set the pieces on the table and paused. Standing up, she walked to the door and poked her head out. “Dain, paper? Pencil?”
+
+Dain turned and nodded. “In the desk.”
+
+“Thanks.” Kindra shut the door and walked back to the desk. She opened a drawer at the bottom and found paper, pencils, ink, and feathers. I’m not learning how to make a quill. Pulling out the paper and pencil, she set them on the desk and started writing down the runes, trying to decipher the meaning as she worked.
+
+Sketching out a round rune with a strange, star-like symbol in the middle, she heard footsteps. The door swung open, and she looked up.
+
+Sigrid smiled, shut the door, and walked over. “Oh. That’s a shame.” She gestured to the crystal. “I think that’s the core piece.”
+
+Kindra nodded and pointed at the rune. “Do you know what it means?”
+
+“That’s why I’m here.” Sigrid pulled out a book. She flipped it open and pointed at a rune that looked like the sun. It was round with jagged edges. “This is the rune for fire. By itself, you could invoke fire from mana. However, it would burn anything around it. So, you have to add other runes, a lot of other runes. These help shape it. These direct it. These…” she continued a lecture on combining different runes to have different effects on the magic.
+
+Kindra blinked. So, it’s a billion adjectives that are built upon fundamental forces? She nodded, and Sigrid flipped a page, showing her more from the book.
+
+After twenty pages, she altered the approach and began searching for the runes in the golems. The two searched and began parsing out a sequence where they could. Several were unknown, and Kindra slowly progressed the concepts and runes, working through it like a jigsaw puzzle.

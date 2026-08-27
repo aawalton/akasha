@@ -1,0 +1,89 @@
+---
+id: ff12ad41-b19a-5da2-89a8-ac3f877bca8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 294 Sharing and Caring"
+slug: 0309-chapter-294-sharing-and-caring
+partOf: melody-of-mana
+position: 309
+ownLength: 1296
+unit: words
+ownProgress: 1296
+publishedAt: 2023-12-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1448627/chapter-294-sharing-and-caring"
+royalRoadId: "1448627"
+markedReadAt: "2026-06-29T22:36:29.543Z"
+---
+
+'Okay,' I thought to myself. 'When exactly did this happen? How exactly? Why? What had I missed?'
+
+One hour, they couldn't have had more than one hour out of my sight and suddenly Omos is hanging over little Lena like he wants to drag her off to the nearest closet for some 'alone time' and she's sitting there looking not only like she might be up for it, but that she's the cat who caught the canary. Either I had to reveal myself to them and put this exercise for the kids down, or I had to figure out how exactly I was going to explain to John how that had happened.
+
+The answer was obvious of course. I'd not done all this work to throw it away. Both my children and the royal ones needed this, they needed to have a chance to move on their own, to prove to themselves that they could do it. They could do it too, and letting them know that I'd been quietly helping from the background this whole time would destroy their confidence. The girls though might be getting a visit from me soon.
+
+If those two started going at it did I need to tell my brother who she was? Did I need to tell her who she was? Shit, what if they got married? Could I just keep my mouth shut and let them go along unknowing? What if someone else found out and told the parties involved, what then? That asshole bishop already knew for sure, and if it got too far he really might tell them.
+
+Even the kids didn't look like they knew. Veska and Rodrick both looked like they would be hounding for information as soon as the group split. Illa looked amused if anything. Amara I could at least agree with, she looked irritated with the priestess, something I could fully get behind.
+
+They all chatted, hanging out and relaxing for longer than I'd hoped. Perhaps they needed this break, for just a little time off. There was even a bit of card playing. The two new lovebirds were huddled up for this, leaning on each other.
+
+Eventually though everyone needed to rest, so the group split. I of course followed the girls. There was no doubt Rodrick would get around to pulling the details from his cousin, but how long that would take was anyone's guess, perhaps they'd dance around it for awhile, perhaps it would take days.
+
+“Alright, spill!” Veska demanded as soon as the door was shut. I'd barely even snuck into the room in time.
+
+“I too want answers,” Amara demanded, much more harshly. “You're not the first girl to go after Omos, and if I find out you're playing with him for status not even your magic will be able to put you back together.”
+
+“Seems harsh,” Illa said from the side, eyeing her cousin.
+
+“My brother's proclivity for thinking with his dick has gotten him in trouble before, and I don't want any right now,” Amara explained.
+
+“That's all men not just your brother Amara, now let her answer,” the redhead said, waving vigorously at the princess to quiet herself. A bold decision, but she got away with it.
+
+“Well, you three were going after Rodrick, and we didn't really want in on that so...” she sighed. “We just sort of went for a walk, and then there was a window, and we talked a bit, and I don't know. I guess we ended up making out after he flirted a bit...”
+
+“So are you going out, or what now?” Veska said excitedly.
+
+“I don't know, we didn't really talk about that.”
+
+“And your intent?” Amara inquired, arms crossed over her chest.
+
+“Nothing, I mean, I like him? He's nice, and I like the way he handles things.” That statement sent several pairs of eyebrows right up, and she quickly corrected. “Not like that!” she added as red crept into her face. “I mean, he takes the lead, like... with getting us here.”
+
+“Very well,” Amara really wasn't much for talking, and after so much time in her 'serious knight' voice, finally settled. “Remember what I said though.”
+
+“Okay, more details, we're not done,” Veska said, pulling the priestess off to the side to discuss exactly what had happened, point by point.
+
+I didn't need to listen to that. It was enough to know that they were now, something, and that they'd not discussed too much of it yet. If something more came of this, then I'd have to make more decisions, but at least until we got back it could hold fine. That was assuming that neither of them did something tremendously stupid. Just thinking the last part sent shivers up my spine.
+
+Now it was time to wait, hang back, watch, and royally screw over a particular elf if he tried to hold my children against their, and my, will. For the next day and a half I did exactly that, interspersed with watching the area around the city for any more incursions. They seemed to have the latter part well in hand, with only minor incidents. It seemed that for now the monsters had been beaten back.
+
+When the day came Omos and the others packed their things before heading to see the mayor. They were ready, and it was clear, and not willing to take no for an answer easily. The man didn't seem pleased to see them at all.
+
+“I see you still wish to leave,” he commented.
+
+“We do,” Omos agreed, eyes locked on him.
+
+“Well, you should know that I received word from the capital just this morning.” That had my attention. If they'd managed to get word there and back so quickly then maybe things really were settling down. Also, it begged the biggest question of all.
+
+“Oh? And what did they say?” Omos inquired.
+
+“You're free to leave if you so wish. For my part though I do hope that you'll consider not doing so. I've received my orders, to let you, but if you choose to stay, know that you'll have a place here.” His eyes spoke volumes, imploring them to reconsider.
+
+Perhaps I shouldn't have been so hard on him. After all he had really wanted to protect the kids. Maybe I didn't like his methods, and maybe he was a bit of a jerk for lying, but there were worse people in the world.
+
+“We'll continue on. I hope there are no hard feelings,” the prince said with a slight relaxing of his shoulders.
+
+“No, none. I can't offer you much, and sadly supplies are very tight, but we do have a small scouting party heading inland a bit. If you wish we can send you the same way. They're not going too far, but...” That was at least a partial lie. He was sending them some guards for a day or two and everyone here knew it. Maybe they did need to scout, but that was just too convenient.
+
+“That would be much appreciated, thank you.”
+
+Omos was handed a slip of paper, directing him to one of the gates in just a few hours. After accepting the addition of one final meal from the kitchen here the children moved off. Though for a moment I stayed behind, watching him. Once they'd moved off a bit he spoke again.
+
+“My office is warded, are you still around? Satisfied?” he asked the air.
+
+I summoned a small illusory voice to whisper in his ear. “Yes.” Being a bit mysterious was always good.
+
+“We take care of our children here in Atal. I'd ask you take care of those since I cannot.”
+
+“I will, goodbye mayor,” I had the voice respond before heaving.
+
+“Farewell.”

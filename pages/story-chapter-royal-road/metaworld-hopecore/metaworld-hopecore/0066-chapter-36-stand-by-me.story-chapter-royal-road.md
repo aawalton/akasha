@@ -1,0 +1,149 @@
+---
+id: 3dbbdb32-78d1-566a-944a-78cc2176caa1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Stand By Me"
+slug: 0066-chapter-36-stand-by-me
+partOf: metaworld-hopecore
+position: 66
+ownLength: 1832
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3385094/chapter-36-stand-by-me"
+royalRoadId: "3385094"
+---
+
+"Hope is the thing with feathersThat perches in the soul,And sings the tune without the words,And never stops at all."
+
+Emily Dickinson
+
+Hotel Baque. Fresno.
+
+Aunt Carmen had a full Spanish Breakfast ready the moment the girls cleaned up and descended the stairs in their autumn clothes. Zara had on her usual love of dresses with a large overcoat, while Eppie layered up in her gifted frocks, looking eclectic.
+
+After more chorizos than was good for her, Uncle Paco pulled up in front of the hotel and told them it was time to go, that Father Parson was waiting.
+
+“Wait just a second,” Carmen informed them. The proprietress returned with a cardboard box that could barely contain the delicious smell of rich, spiced sausages and other delicacies. On top, there was a freshly baked loaf of sourdough. In another bag, there were plastic containers of sealed soup.
+
+Are we going to a refugee shelter? Eppie salivated at the sheer volume of food, then castigated herself for thinking so carelessly of Mio’s circumstances.
+
+“This is for Mio’s family,” Carmen said carefully. “But you should give it personally to Mio, if you can. If Father Parson takes it, tell him that it's for the familia. He will know what to do.”
+
+“Thank you so much,” Eppie replied, feeling guilty that she had brought nothing.
+
+“Sí, sí.” the matron gave her a pat on the head, futily taming her wild hair. “Give the girl our wishes.”
+
+They loaded the gifts into Uncle Paco’s car.
+
+Paco drove the exact car that Eppie expected a Spanish guitarist as cool as Paco to drive, a vintage Ford F-250. It was a diesel in dark red, well-worn and wreathed in chrome. Inside, the massive cab smelled of tobacco and tacos, coffee and hay. Zara sat in the back row, holding the soup containers, while Eppie sat shotgun beside Paco.
+
+The engine roared, she texted Eric, and then they were on their way.
+
+There was nothing to see on the way, because they were beset by the infamous Tule fog in every direction. This late in November, the San Joaquin Valley carpeted its mornings with a mist that rolled on like thick wool, swallowing the farmland. A part of it was natural, but most of it was man-made from the sheer volume of irrigated fields carved into the old Indian tablelands.
+
+The 99 South was eaten up by the F-250 without slowing. Eppie rode with her heart in her throat and a hand on her bosom, both legs straining against panic. Uncle Paco drove with complete nonchalance, his eyes scanning into the fog as though the vapours were no impediment. Incredibly, he avoided potholes before they appeared, hailing trucks as they passed.
+
+There was no music, so Zara hummed. Paco joined in, and the trio performed a rendition of “In the Pines”. The tune felt different from the bleakness of last night, for they were going somewhere now. They were taking action.
+
+Eppie watched the fog, her chest resonating with the tune.
+
+“Father Parson has been the Reedley Parish priest for the last thirty years,” Paco said suddenly. “He buried generations of people living here, including us Arriagas.”
+
+Eppie wasn’t sure if this was a conversation, so she let the man talk.
+
+“He is a good man. Dedicated. A good Christian,” Paco said. “He will keep your girl safe.”
+
+Eppie expressed her gratitude for the assurance.
+
+Behind them, a car had been following them since Fresno.
+
+“That’s Eric,” Eppie informed Paco.
+
+“Good,” Paco said stoically. “He is also a good man.”
+
+It took them over forty minutes to get to Reedley in the fog, which barely thinned as they exited the 99 and dropped onto Main St. The town appeared through the thick white vapours like a video game rendering in real time. First, a grain elevator, then the silos, then the barns, then the water tower. On Thanksgiving, there was no one at work.
+
+They pulled up close to the church, a modest, missionary-era construct with white plaster walls, dark timber and a few stained pieces of glass filtering the light into its interior.
+
+By the time Eppie and Zara were out with their Aunt Carmen Uber delivery, Eric had parked.
+
+Uncle Paco and Eric approached one another. Two men, both in flannels and jeans, walking toward one another like a scene from Tombstone. They met in the middle of the parking lot without so much as a preamble, their silhouettes fuzzy on a fog-strewn Thanksgiving morning.
+
+They shook hands in the way of men who understood each other implicitly.
+
+“Francisco Arriaga, call me Paco,” said Uncle Paco. “You are the Newfoundland.”
+
+“Eric Lee, they call me Lee,” said Eric. “Eppie told me about you.”
+
+Eppie watched the men smile and exchange hands again. They were apparently friends now, for life.
+
+From inside the church, they could hear the voice of hymns and speech, and collective “Amens”.
+
+It was Mass in progress. They were here a little earlier than expected.
+
+“You ready?” Eric asked her, his voice bouncing off the frosty tarmac.
+
+“Yeah…” Eppie felt her knees knock. “Ready as I’ll ever be.”
+
+They sat at the back of a church that was already filled to the brim. The congregation contained about a hundred people, most of whom were Latin-X, though Eppie could spy a dozen Nikkei among them, near the front.
+
+Father Parson did not acknowledge them from the pulpit, but continued to speak.
+
+While Uncle Paco and Zara washed their hands in the vestibule, Eppie and Eric sat.
+
+With her height, she could barely see anything, and short of sitting on Eric, Uncle Paco or Zara, such was her fate. From the pulpit, Parson was delivering a theme-appropriate sermon for Thanksgiving, speaking of Mathew 25, his Irish accent worn threadbare after three decades of speaking to a Spanish community.
+
+He was reading Matthew 25:35, a verse made infamous by her old world presidents’ beef with the Pope. Maybe he saw them, Eppie could not tell without another five inches to her sitting height, but she heard his sermon loud and clear.
+
+“I was a stranger, he said, and you took me in,” Father Parson’s voice filled the room like Cooper’s in the black box. “But what is a stranger? A stranger isn’t just a man or woman from a place we do not recognise. A stranger is a problem, a circumstance we do not understand or wish to know. Christ teaches us to welcome the stranger, not because we wish to know them or convert them—but because we do not know.”
+
+Parson’s voice grew low.
+
+“We do not know where they came from. We do not know what they are running from or what was done to them. We do not know if they are trustworthy. We do not know if they are safe to receive. We do not know how long they will need us, or what it will cost.” “But Christ was a stranger. His origins, unfathomable. And he was taken in.”
+
+His voice loomed over the congregation.
+
+“The stranger might be an angel, as Abraham found out by the oaks of Mamre.”
+
+Parson’s voice grew resonant within the church interior. “Beloved, many of you know this already. Generations ago, from what your grandmother told you, or your grandfather, or conversations at dinner. Your families came here. Somebody opened the door.”
+
+The voice paused. “In practice, this is hard, I know.”
+
+Parson's voice dropped slightly. Softer, but not quieter.
+
+“This is, perhaps, the spirit of Thanksgiving. Not the turkey. Not the football. No los peregrinos, válgame Dios.”
+
+Someone in the solemn crowd burst into a chuckle, triggering a torrent of laughter from the rest of the congregation.
+
+“To make the table longer is no chore.”
+
+The speech must have ended, for in the next few moments, the organ began. Eppie did not recognise the tune, but she did acknowledge the elation inherent in the musical style.
+
+Together with the soaring notes, a choir rose from the front pews. She still couldn’t see, but from the sound of their voices and her [Perfect Pitch], she mentally noted that it was twelve people at least, all women, from teenagers to a regal old lady. From what she could see through the gaps, she saw no uniforms. This far from the city’s performative cathedrals, the choir and music were less ceremonial, more from the heart.
+
+When the lord, O Lord the MightyRestores the fields of Zion, O Zion
+
+Eppie’s eyes grew wide as a voice as clear as a clarion call soared above the rest.
+
+There was no mistaking it. Her [Gospel] trait told her with absolute certainty that here was the one professionally trained voice. She was the caller, and the rest of the singers were answerers. Hers was the crying voice of the unheard.
+
+From scattered seed to gathered wheatFrom wound to wholeness, loss to found. The voice that sorrow held complete Returns at last to hallowed ground.
+
+Eppie stepped out onto the middle of the aisle, heedless of the rudeness of the act. Her eyes scanned the front pew, locking onto the figure of a small, feminine silhouette near the middle, the very source of holy song filling the church.
+
+Perhaps seeing the look on Father Parson’s face.Or perhaps, sensing the gaze of a dear, departed friend. The girl turned her head.
+
+Mio.Eppie felt her innards shudder. Luciana Mio.
+
+The manic pixie dream girl was no longer so manic. The sun-kissed caramel of her Andean skin was darker now, more pronounced. From eyes with impossibly thick lashes, she looked out at Eppie.
+
+First, surprise. Then, delight. And finally—regret.
+
+The choral continued for another two songs, then the congregation dispersed. To the side of the church, the community moved to set out an enormous cookout of local food, supplied by the locals themselves, for anyone who wished to join as a kind of potluck.
+
+Kids poured out into the open car park with their ball games, and families laid out old carpets and towels to create picnics. The Tule fog rolled away as late morning neared, sinking away like sulky cats into the tablelands.
+
+Father Parson met them as the crowd cleared, shaking their hands one by one. He did not introduce Mio, for there was no reason to doubt that this was the girl and their objective. After a hearty embrace with Paco, the conversation shifted to agrarian matters: the weather, the early frost, the coyotes. They followed Father Parson, trailing behind the girl until they reach another set of open doors to the back of the church, to a section older than the church’s frontage.
+
+It was an intimate cloister with fruit trees. Navel oranges, from the looks of the bounties hanging from the boughs.
+
+The group separated here.Eppie and Mio proceeded to the front and into the cloister, and the rest to the benches, where they can make private and quiet conversation a safe distance away, leaving the girls to their shared history.

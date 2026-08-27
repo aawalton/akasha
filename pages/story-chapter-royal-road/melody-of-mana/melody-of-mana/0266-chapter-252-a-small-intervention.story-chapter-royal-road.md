@@ -1,0 +1,89 @@
+---
+id: 7c6d721d-132a-53fa-ab6c-4b08410e8b94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 252 A Small Intervention"
+slug: 0266-chapter-252-a-small-intervention
+partOf: melody-of-mana
+position: 266
+ownLength: 1512
+unit: words
+ownProgress: 1512
+publishedAt: 2023-07-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1274453/chapter-252-a-small-intervention"
+royalRoadId: "1274453"
+markedReadAt: "2026-06-29T22:35:00.394Z"
+---
+
+I was meditating, looking at my completed core. Three levels one built upon another, it had taken a lot of hard work to get it, but now I needed to use it to its full potential.
+
+Most people never got that one, and those that did almost always took decades. Between my trick for quick growth and my long time of work I'd done it in a fraction of the time. That was good, because what I wanted next would never work with a lesser core.
+
+The final level was almost never done because most considered it a waste of effort. You could do so very much with only the second level, so why bother? There was a reason though, and that was that as you built and built upon it your ability to make progressively more complex items increased in leaps and bounds.
+
+It wasn't the limit of the core that was the issue, it was the limit of what people thought to do with it. Once in awhile someone would come along and think to use it to do massive spell-works, and it was needed for that, but it was needed for other things. The best use of a fully complete core was for highly complex items.
+
+You could brute force most larger things, either using switches or manual controls, or just making them simple. Most wards, and even very good ones were like this, simplistic meant there were few openings. But if you wanted something to be able to respond in myriad ways depending on what happened, to adjust and be ready for a number of situations, to run huge calculations and spit what it found out, that required a finesse that lesser works couldn't match, and processing power that they lacked.
+
+That was what I wanted right now, because what I wanted to do was quite a lot more complicated than normal. I wanted to make something to find, and warn about any dimensional issues on a grand scale. I had the sensor already, and that was a good start, but it was the difference between a compass and a GPS. Or I suppose in my case something more like what they used for finding earthquakes and atomic bombs, fitting because of how dangerous these things were.
+
+The system itself consisted of a large number of sensors, spread out at known locations, that were looking for any dimensional issues nearby. They were then communicating with a central node at the fortress, where all the big work was taking place. There were a number of safeguards on the remote sensors and what they sent, mostly to detect if they were being moved, but that was a lower concern to me.
+
+Once the data was collected the central unit processed the most likely location through triangulation, and estimated the size of each disturbance as it found it. That would be nice, but I'd also added in a function to ignore the known locations of our gates, unless they showed an unusually high disturbance Finally it spat out where everything was; I didn't bother trying to put a map in it as I knew those were only of middling accuracy at best.
+
+For now though I was still looking for bugs. It wasn't possible to change this thing when it was done, and I wanted not to waste the time and resources if there was some small issue with it. I was going through with a fine-toothed comb, and while I had hopes that it would work as intended, I also was a realist. This first one would, if I could get it going, function. The next one or two was where I might get it right.
+
+As I stirred from my trance a light hand landed on me. I knew it's owner instantly, and smiled.
+
+“Good afternoon, what brings you here today?” I asked the elf.
+
+“Etia came to ask me to get you, she was a bit concerned. More so since you missed both lunch and dinner.”
+
+“Crap, seriously? I must have gotten distracted.”
+
+“I figured as much,” he answered sagely. “But talk to her first, then we'll see about food.”
+
+With a quick look to check that nothing had changed with the gate I'd had brought here I sighed. I'd been trying to activate it now and then, but only got flashes of a connection, which was far less than ideal, there was someone I really wanted to speak to. With nothing else to do for the moment I left my room to find my sister in law there, and instinctively looked, she was just starting to show a bit.
+
+“Did you need something?” I asked politely.
+
+“Yes, can we talk?” I led her to the gardens, one of the less used areas of the compound while Ulanion held back.
+
+“Brother?” I asked, raising an eyebrow.
+
+“Yes, he just sent me a letter. I'm rather concerned about your father,” she said nervously. “He said he's...”
+
+“Not the same, yes. I've been getting fewer letters from him recently, and they've been shorter. Mother's death hit him hard, but I think he's trying to hide it, trying to deal with the grief on his own. I'm not sure there's much we can do for him right now, unless he lets us.” I frowned as I spoke, it wasn't good.
+
+One of the most powerful men, not only magically but also politically was going through problems. Father had always been there, seemingly happy and ready to do what was right, but... he was different now, his letters were colder, the few times I'd spoken to him recently he seemed more withdrawn. I didn't know what to do about it, or if I should, as we'd all mourn in our own way.
+
+I'd thrown myself into work to hide from the pain. My brother had become harder, less foolish and more serious over the last month or so. Perhaps this was how my father was dealing with it, becoming withdrawn, shorter of words, I honesty didn't know.
+
+“Perhaps you could ask your mentor to speak with him? I know they were close,” Etia suggested.
+
+“I have, and he has I think, but the fact of the matter is that dad is mourning. Just don't know if this is the healthiest way for him to do so,” I explained. “At least he's not erratic or anything. How's brother been the last few times you've seen him?” My family came by every now and then, if only because they needed to use the gates.
+
+“Less joking at least on the surface. Deep down he's still the same man, but between your mother's death and my current condition, I think he's stressed.” We passed some lovely flowers, something made by Sophia through selective breeding and magic, I'd not known just how much of that she'd done until recently. “I'm more worried about you.”
+
+“Me?” I asked, a bit incredulous.
+
+“In the last month how many times have you gone out to do something you enjoy?” She asked.
+
+“I enjoy my work,” I replied.
+
+“That isn't what I mean. Have you gone out for some fun activity, or even danced? I do remember you doing quite well in my class and seeming to like it. When's the last time you did so just for the joy of doing it?”
+
+“Mmm...” I hummed as I thought, a bit indecisive.
+
+“Yes, that's what I thought. Did you know that some of the younger individuals here are still using that old hot spring you lot found? I've even gone myself a few times, though I'm a bit picky on which of the pools I use. I think they're going to have a celebration soon for the spring, even if there's no spring here,” she rattled off.
+
+“You're going to push this aren't you?” I asked slightly tiredly.
+
+“Yes, yes I am. I don't want to see things fall apart even more than they already are. With the armies maneuvering as they are I think the only reason we've had peace is because people were trying to figure things out. Perhaps it lasts till the next harvest, or perhaps the fighting starts before, but soon there will be battles.”
+
+I wanted to grumble about it, but she was probably right. She was also trying to help, and genuinely if I were any judge, so I couldn't really be that mad at her.
+
+“Fine I'll go. On another subject, been thinking of names?” I asked, hoping to get to something that wasn't about me.
+
+“John and I discussed that. If it's a boy I'm thinking Omos, after my father, he died to a beast many years ago. If it's a girl, he was thinking maybe Amara, I wanted to get your thoughts on that first though.” She looked at me hesitantly, as if worried that I'd take offense to the suggestion.
+
+“I think those are wonderful names.” I had to look away a bit as I considered it, it was a good name, my mother's name. I thought she'd be honored.

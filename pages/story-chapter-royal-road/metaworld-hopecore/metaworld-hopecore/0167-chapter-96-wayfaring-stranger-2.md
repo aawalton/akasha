@@ -1,0 +1,206 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 96 - Wayfaring Stranger (2)"
+slug: 0167-chapter-96-wayfaring-stranger-2
+partOf: metaworld-hopecore
+position: 167
+ownLength: 2354
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3871972/chapter-96-wayfaring-stranger-2"
+royalRoadId: "3871972"
+---
+
+Saturday, 8:40 AM.
+
+Before the ceremony began, Eppie, Eric, Vaughan and Curon shuffled into a small room on the side of the historic Beaux-Arts mansion, each of them already in funeral black, except for Eppie, who would soon don her mourning clothes, as befitting her role as moshu.
+
+She signed with a flourish.  The Chief Curator of the Metropolitan Museum signed. Eric signed, and Curon, as a witness, also signed.
+
+Without ceremony, the museum that underwrote Kiritani’s exhibition was now its legitimate possessor. That was the whole ceremony.
+
+“Congratulations,” Eric drew a figure from the insurance sum. “For about ninety seconds you were holding five million dollars.”
+
+“They’re priceless, Eric,” Eppie chided her Newfoundland. “These artworks will never appear, ever again, in the same circumstances and by a similar hand.”
+
+Eric laughed. “You sound like a Curator already. Taking lessons from Lady Vaughan here?”
+
+The room shared her Newfoundland’s humour—then the door cracked open, revealing the exquisite face of Diana Mirabelle. “Ready for your dress down?”
+
+Diana Mirabelle was holding a garment bag with no assistants. They would not need an MUA. For the occasion, Vogue’s Editor in Chief would do the solemn task herself.
+
+The dress was a modified Conti. Black and matte, simple, and clean. Hem below the knee, shoulders and neck covered, with a structured bodice that fitted her a bit too well.
+
+“I’ve had it for about a month,” Mirabelle told her guiltily. “Sorry, Eppie. Kiritani-sensei was very firm.”
+
+By now, Eppie wondered whether even Eric and Curon knew and had chosen not to tell her. Mirabelle worked in silence for ten minutes, pinning at the shoulder, and at the end she stood behind Eppie in the mirror with both hands on Eppie’s shoulders.
+
+“Single strand of pearls,” Mirabelle clasped a small string of pearlescent beads around her neck.
+
+Eppie examined herself. She looked prim. Proper. The balayage was slicked back into a tight bun, low at the nape. “Thanks, Diana.”
+
+“I dressed him for California,” Mirabelle admired her work while speaking with sadness. “In January. He was already… very skinny.”
+
+“I know.”
+
+“He looked good in the Haori. Proper. As he was meant to be.”
+
+Eppie nodded. Mirabelle had given her a juzu from Kiritani. It was now hanging from her wrist, though Eppie was unsure of its purpose beyond the usual propriety.
+
+The apparel oft proclaims the man.
+
+It was good that her sensei had seen himself before anyone else did.
+
+331 Riverside Drive.
+
+10:20 AM. New York Buddhist Church.
+
+The historical church was two buildings: a stone mansion from another century and a low modernist chapel of glass and metal, built by architects who believed in a better, fairer America.
+
+Between them was a garden with a statue, a whole fifteen feet of harmonious bronze facing the Hudson, green-black with age. Down its side, from the shoulder to the hem, the bronze was scorched by a streak of orange-ochre fire.
+
+Nuclear fire. Shinran’s humble statue was not wrought in America. It was rescued from Hiroshima.
+
+In the hondo, a low room of glass and metal sat, steeped in Buddhist motifs. Eppie sat in seiza, ready to receive mourners. The hall behind her was empty.
+
+At half past ten, the kansho began. A man in his seventies in a grey suit struck the calling bell, slow at first, then quickening.
+
+Behind her, the doors opened.
+
+They had come from Sacramento and San Jose, from Seattle, from Chicago, from a place in Utah. They came in wheelchairs, with oxygen bottles, accompanied by families, sometimes a nurse. Folks in their nineties were pushed by their children in their seventies, their tottering frames braced by teenage descendants.
+
+Eppie did not turn round. She visualised it by sound, using [Perfect Pitch]: the wheels on the boards, the small hiss of the bottles, a walking frame set down, lifted, then set down again. The survivors were as ancient as they were rare. Nobody hurried them.
+
+Reverend Tsutomu Yasuda was eighty-four and bilingual. He spoke in English first, because half the grandchildren in the room had no Japanese.
+
+He told the audience, told Eppie, that in the Buddhist Tradition, a man’s name is a small but heavy thing. He said that in this tradition, a person must receive a Dharma name—a homyo.
+
+Henry Kiritani’s homyo would be Shaku Genjō.
+
+Shaku, from Shakyamuni, meaning noble sage of the Shakya Clan. And then two characters: return, and pure.
+
+It was a name for a man who had been carried a very long way against his will, who would now be inscribed in the kakochō—the temple’s book of the dead.
+
+Another copy would be sent to Kyoto.
+
+“You should all understand what that means,” said Yasuda, his voice growing softer. “There are now two books with his name. Names that will never again be tarnished, removed, or stricken from the records.”
+
+The ministers filed in at the side of the room and began the shoshinge. Some knew the chanting by heart; the rest had it printed in the pamphlets on their laps.
+
+At eleven, a bell rang once, and they began to come forward. Each person went to the altar, where a photograph of Henry Kiritani stood in a black frame. They bowed, took a pinch of incense between their fingers, and let it fall into the burner.
+
+Eppie sat, returning the bow.
+
+In any other circumstance, the setup would have been absurd. A white girl, sixteen, her hair all golden and silky, receiving internment camp survivors in a black dress styled to resemble the haori. But this was no usual circumstance. The mourners knew, from the exhibition, from the newspapers, from the JACL, that she was the girl who had pulled Kiritani-sensei from the frigid cold of Central Park on Christmas Eve. She was the one who had found Lady Vaughan of the Met. She was the reason, or so it was made known, that their unjust suffering could announce itself to the world on Fifth Avenue.
+
+And so, Eppie sat. And the mourners came.
+
+The first was a frail woman on her son’s arm. She bowed to the photograph, put her pinch of incense into the burner, then turned and bowed to Eppie.
+
+Eppie bowed back. From the floor, from the waist, eyes down. Shallower. That was the form. Her [Act Natural] said as much.
+
+A man in a wheelchair who could not bow with his back, and bowed with his neck.
+
+Then it did not stop.
+
+One every nine seconds. One every eleven. [The Clockwork Pulse] counted them for her whether she wanted it to or not.
+
+She bowed long and deep. Some of the bows went past thirty degrees and stayed down. If hers came back shorter, it would be improper.
+
+Somewhere around the fortieth they stopped being faces. Her thumb worked the beads in her lap. Her neck began to stiffen at sixty. Her [Pain Suppression] went from buzzing to roaring.
+
+She did not face them with tears. Tears were an imposition.
+
+She was looking at the floor when a pair of very good shoes stopped in front of her. Senator Francis Sanders and Valorie beside him in black. Somewhere behind them, at the doors, a team of photographers had stopped and would come no further.
+
+They exchanged bows.
+
+Then the Mayor. Two congressmen. A deputy from the Governor’s office. Alan Nakamura from the JACL.
+
+Then came the familiar faces. Eric and Emily. Juliana and Mirabelle. Trent Davis, who came with her father. Her father, whose eyes asked her if she was alright. And unfamiliar faces with familiar names, like Dr Marchetti, Kiritani’s physician for four months, and Dr Rietveld, who had handled her sensei’s works since December.
+
+Thirty-four minutes.
+
+Then the aisle was empty, and an old man came down it on a stick, all the way from the back. It was Mr Tanaka, and he had brought his whole family. He put both hands on the head of the stick, and bowed.
+
+Eppie returned the bow. She had lost all sensation past her waist. Her legs and feet were no longer her own.
+
+There was no real need for ryakureki, the personal history; the guests who were present already knew Kiritani’s life through the Met. The chōji, the condolences, were brief and laconic, because no one was qualified to speak of Kiritani’s five decades in Central Park, or of Eppie, an orphan from West Hollywood.
+
+With the incense done, Reverend Yasuda took the front once more. He would speak, and then she would speak.
+
+“In 1943 they gave us a form with two questions on it…”
+
+The murmuring grew quiet.
+
+“I was nineteen, I was ignorant. My mother told me what to say, and so I answered ‘Yes’ and ‘Yes’.” His hands were folded. “Henry Kiritani answered ‘No’, and ‘No’. He was twenty-two. They sent him to Tule Lake. This year, I am eighty-four. I have presided over four hundred and thirty funerals from this very spot—”
+
+The Reverend’s voice cracked. “But never had I sent off a No-No Boy,” said Reverend Yasuda. “A man who lived for dignity when I lived for permission.”
+
+A wave passed through the crowd. A man in a wheelchair, wheezing through a bronchial tube, sobbed for a stranger’s preserved dignity. [The Facial Landscape] read their faces for Eppie. What she saw was not shame. Shame would be the wrong word. It was empathy—empathy for the samurai spirit of an artist who had devoted five decades of his life to preserving a principle no one saw until it was on display at the Met.
+
+Then, it was her turn.
+
+Eppie stood. Or she thought she did. She had sat in seiza for so long with her [Pain Suppression] active that she had forgotten that she was paralysed from the waist down. For a brief second, no [Trait] could save her from embarrassment.
+
+Then a pair of hands caught her, and she saw that it was Reverend Yasuda.
+
+“I thought that might happen,” he grinned at her. “Wouldn’t be the first time, gaijin girl or otherwise.”
+
+The sight of her blushing, coupled with Reverend Yasuda’s empathic amusement, was enough to send a ripple of compassionate murmuring through the solemn room. Eppie spent the spare change for [Stamina], and felt blood, feeling, and sensation return to her limbs.
+
+She bowed her head. She was the Chief Mourner. But what was there to be said? She wasn’t there at the camp. She wasn’t there, in the park, in the fifty years since the camp. She was a gilded bookend at the conclusion of Henry Kiritani’s long, suffering life.
+
+Sure, she had given his cats a shining path, but it wasn’t because she was kind or wise, or empathic. It was because a [System] told her “Here be [Causality]” and she had dived, headfirst, without forethought, into her quest for more time.
+
+Her reward had been [Causality], and [Causality] was [Dasein]. Indeed, it wasn’t she who had saved her sensei. It was Kiritani who had saved her.
+
+She had no words. But she did have [Causality] to burn. [Causality] she did not deserve.
+
+And so, Eppie opened her throat to song.
+
+I am a poor wayfaring stranger, While travelling through this world of woe, Yet there’s no sickness, toil, nor danger, In that bright world to which I go.
+
+The first note came out as a reedy eulogy, a whisper on the wind. It was thin, unsupported, too young—a little girl’s voice in a low glass room with no reverb to hide in and the incense still hanging in the light.
+
+Then, at “world of woe,” she stopped holding the door shut. [El Duende] and [Perfect Pitch] flooded her next lines, and what came out was not a sound, but the synaesthesia of fifty cold winters kept at bay by a man asleep under a tarpaulin, held in place by six cats.
+
+Two hundred and more mourners opened their eyes wide to stare at the child at the altar, disbelieving that so rich a voice should come from a body so small.
+
+I’m going there to see my Father, I’m going there no more to roam.
+
+She launched into the second verse. Nobody in the room moved. An old woman in the fourth row could no longer hold back the tears.
+
+I’m going there to see my mother,She said she’d meet me when I come,
+
+A man across the aisle openly wept, handkerchief forgotten.
+
+[Causality] flowed from her pool of potential time. Her audience wasn’t just Kiritani and Bogdan in a pump tunnel; these were people who had survived the camps.
+
+She took them over Hiroshima. A city that had sent more of its children to America than almost anywhere else in Japan. Half that room had a father, mother, aunt or uncle that had been engulfed in that indifferent fire.
+
+I’m going there to see my classmates,Who’ve gone before me one by one,
+
+The hymn’s rise and fall, hills and valleys, did not change. Four verses, one melody, over and over, and the wayfarer continued on his journey, forever repeating the same climb, the same fall, verse after verse, the same landing, the unending yearning.
+
+Every new verse promised an arrival—yet every promise exited Eppie’s throat as grief.
+
+Reverend Yasuda closed his eyes.
+
+Eppie’s eyes were closed as well, but the [System]’s warnings were not ocular.
+
+Muse Acquired Wayfaring Stranger
+
+Song by — no attribution Lyrics by — no attribution Music by — no attributionDale, 1893 — four. Origin disputed.
+
+The cyclical hymn reached its middle verse.
+
+I’ll soon be freed from every trial, My body sleep in the church yard, I’ll drop the cross of self-denial, And enter on my great reward…
+
+Her breath was freed into song. Her lungs burned. The last three verses lowered themselves, going down step by step, trembling, like a prophet descending a mountainside even as his knees gave out, his hands full of understanding, his legs buckling, until, finally, he was knee-deep in grass, eyes wet with glory, before an amazed congregation.
+
+I’m only going over Jordan, I’m only going over home.
+
+The song ended. Nobody clapped.
+
+The rest was silence.

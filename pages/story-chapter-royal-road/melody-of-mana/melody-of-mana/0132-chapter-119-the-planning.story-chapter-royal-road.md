@@ -1,0 +1,127 @@
+---
+id: 605d91e0-ac37-5ec5-9f72-7dd60bd15319
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119 The Planning"
+slug: 0132-chapter-119-the-planning
+partOf: melody-of-mana
+position: 132
+ownLength: 2032
+unit: words
+ownProgress: 2032
+publishedAt: 2022-04-15
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886147/chapter-119-the-planning"
+royalRoadId: "886147"
+markedReadAt: "2026-06-29T22:36:56.174Z"
+---
+
+When I came into Combat Magic the first time I nearly had to pick my jaw up off the floor. Endel had somehow retained his job, albeit with a new assistant (minder) in tow.
+
+"Good everyone, it's taken a bit of time to polish up all of your slacking from our break, and to bring our new classmates up to speed with where we are, but I can at least tolerate your current progress." He smiled, something a bit rarer these days. "Now, we'll be learning about battlefield tactics next."
+
+We'd already been given some lectures on this in the past but what he went over now were details on where and when to set up defenses, as well as the logistics. This was apparently something that war mages ended up doing in the field enough that he felt it an important topic.
+
+What it came down to was that most locations were only so defensible. Anything you put up would only slow your opponents so you needed to consider your current mana supply, what you expected to come up against, natural structures like hills, and the cost of the items that you had. It was rare for there to be too much of a budget for magical items used in the field, so knowing what to order was crucial.
+
+The training scheme for this was, to my amusement, a rather complicated board game. It wasn't a square setup like you'd see in the more common ones, but more like something you'd see in movies, with tables and little models. Of course we just used tokens instead of complex little figurines, but the concept was the same.
+
+The rules were a simple counting system, but you never knew what your opponent would invest in in their defenses until you met them on the field, and there were tons of options for that. It was fun, and we spent several classes playing matches of various groupings. Sometimes we were given more resources than our opponents, sometimes less, sometimes we worked in teams.
+
+After about a week of this Endel looked out at us. "Good, I'm pleased to see you're thinking tactically about planning your defenses and offenses. Many of you have shown some skill at the logistics but we'll be putting this into practice now. Games can teach us a bit, but only so much, and there is no teacher like experience." He had a bit of an evil grin. "I have secured one of your off days for just such an exercise. You will be divided into groups of three and have two weeks to prepare." There were about thirty people in this class, so that meant ten groups.
+
+One of our number raised his hand. "Sir, in the game we had resources in the standard warding items, will we have the same?"
+
+"Wonderful question! Each group will receive a 'budget' from which they may 'purchase' items that the school will provide. You may also choose to take the time to build your own, though if you do so you will need to submit them to inspection by our professors three days before the event. We cannot have you bringing anything dangerous along with us. There will also be a slightly lesser 'cost' which will reflect the mana and production cost if something similar were used in war."
+
+Our teams were decided that day and we were permitted to meet in class. The first thing I did was set up a privacy bubble around us.
+
+"So, thoughts?" I asked, looking around.
+
+"I think he's going to assign us to one or more teams with other groups." A boy named Troy offered. He'd been with us in this class for some time.
+
+"Agreed." The other boy in my group was named Leeve. I didn't know much about him, but he was one of our newcomers who'd been part of Ermath before it's fall.
+
+"Same, but what should we go for item wise? Should we take what he has, or build our own? Or both? I'm inclined towards illusion, but everyone knows that so it seems a bit predictable." That got nods.
+
+I had a bit of a reputation for being a pain in any practice round we held in class. My defenses were all rock solid and I'd flood the area with illusions. It was a simple trick, but it often worked best for me.
+
+"With you here we could have good defenses and I'm not bad in a fight." Troy looked unconvinced that it was a good plan, but it would be a normal one.
+
+"What if... what if we went hard in on offense instead?" I asked, looking between them.
+
+"I hate to say it Alana, but from what I've seen your offensive magic kind of sucks." Leeve shrugged, looking sorry.
+
+"I have some ideas," I offered, and boy did I.
+
+"Okay then, fill us in."
+
+I had one day off before our little battle and I took it. Normally I might have stayed around the school with Kala for most of the day before heading to our mansion for dinner. Having a mansion was weird, but it was nice in small doses.
+
+A series of letters over the last few days explaining the situation to Mystien and asking him to look over some designs had ended up with me receiving the written equivalent of a 'DON'T DO ANYTHING OR TELL ANYONE ANYTHING IMPORTANT UNTIL I LOOK AT IT!' letter. Sure, it was couched in euphemisms and the like, but the meaning was clear. He'd also been amazingly willing to schedule a meeting on my day off.
+
+As I arrived at the house he stood there, looking peeved.
+
+"Your father has loaned me a room so that I might advise you." My father indeed was nearby, he also looked peeved.
+
+"Excellent, let's go!" Both of them just narrowed their eyes at my exuberance.
+
+It took a few moments for the items Mystien had brought to be properly set up and for those I simply hummed happily, looking at him.
+
+"Okay, what are you planning?"
+
+"Let's start with the list of supplies and the magical items I want to make." I held out several papers for him, all basic order forms and a sheet with the rune sequences jotted down.
+
+"Standard military supplies... non-standard military supplies... non-military supplies... Okay, I don't see anything too bad here. Let's have a look at your sequences." He poured over the papers for some moments before returning to look at me confused. "Okay, I understand what these do, but why? And how are you going to use them?"
+
+I presented next my master plan, laid out in steps, with diagrams. He looked over it, my dad took his time to look over it. Dad just laughed a bit, while Mystien looked at me with half-lidded eyes.
+
+"There is nothing I would be worried about showing here, but I do want you to understand that on a battlefield this would likely get you killed."
+
+"The chances of that are good yes, or it would win."
+
+"Alana, it is foolish to gamble with your life."
+
+"I'm not here though. These aren't hardened soldiers with a solid command structure, nor are they able to deal with these like a physical magic user would. At least I don't think they'll be able to."
+
+"This is supposed to be a military exercise is it not?" Dad seemed to think that not taking it seriously was the wrong move.
+
+"It is, but I know my enemy. They won't know how to deal with this, and they won't know how to work together well enough either. That's a problem with us too, but as long as we have some semblance of order I'm fairly sure it will work."
+
+"Fine, fine, do what you want," my mentor finally capitulated.
+
+Our dinner that night was lovely. It wasn't anything too odd, but there was more beef in it than I commonly got, even here in Lithere, and beef was tasty.
+
+I ended up in the office of our new Magical Item Creation (Theoretical) teacher Professor Ieala. She was mouse looking with brown hair pulled back in a loose bun to go with her rather more plain robe choices. I guessed that the was perhaps thirty years old tops, but she seemed to know her stuff pretty well and had approved everything I'd brought to her with little fanfare. That had been a real concern, as was the theoretical idea that our teachers would absolutely be stealing any good ideas we brought them.
+
+In all of my planning for this I had been sure that I didn't use any new tech, and that I kept all strategy to simple ideas. I'd already introduced more than I had expected to and putting more thoughts out there that could cause major problems later might come back to bite me.
+
+"Oh Alana, I'm so glad that we finally got a chance for a little chat," Professor Iaela said. "Your work in my class is quite good and I'd heard about you speeding through your core development. How are you feeling about your progress?"
+
+"Quite good. My core is advancing steadily and I feel like I'm getting a better grip on the basics of item creation. As long as I can keep it up I think I'll be on the right track." I was trying to find a way to stay out of her radar, but from the sound that might be a lost cause.
+
+"Wonderful! Now, I heard the most interesting story. Is it true that you have a sample of sky-metal?" There it was, the thing she really wanted.
+
+"That is what Professor Hern believed it to be, but it's been put somewhere safe regardless of what it is."
+
+"I was hoping to see it some time if you don't mind. It isn't often that any amount of that comes around and it's not a chance I'd want to miss."
+
+I shrugged. "If that is the case you're welcome to file a request with my parents. If they approve then it should be fine." This was the nicest way to turn someone down, mostly because everyone was afraid, or at least leery of what might happen if they offended the upper ranks of the military.
+
+"I may do so. On an unrelated note, what do you make of this." She pulled out a rather standard looking sequence, which I spent a few moments going over.
+
+"It won't work." I said after considering my conclusion. The item in question was a small light emitting thing with a broken off/on switch. It looked like someone had tried to fix it and failed miserably."
+
+Moreover this was clearly a test.  The way that it had been attempted would never work.  Whoever had done this had gone from a simple 'touch here to activate' to a 'touch and verbal' but had not set any parameters.  We had not covered how to activate a verbal item by touching a spot and speaking.  I could probably have done it with what I'd learned from the guide, but there was no reason to let anyone else know that.
+
+"How would you fix it then?" She asked, smiling a bit.
+
+"Like this."  I erased fully half of the sequence, taking it back to the simplest on/off parameters I could.  "There is no need for complexity for something like this; a simple solution is best."
+
+Judging by her expression that was not the answer she'd expected, or wanted.  My guess was that she'd heard I was into some weird methods from Hern, or read some of Rooke's notes, but this was so poor of an attempt to figure those out that it was comical.
+
+"I was hoping you'd make it work as intended.  This was supposed to be the basis for a touch and password lock."
+
+"Ah I see.  Well, we haven't covered anything like that yet professor, maybe I'll take another look at it later.  Did you need anything else?"
+
+"Not presently Alana, no."
+
+"Well then, thank you for the meeting.  Sadly I have a lot of preparations to make and must be on my way."

@@ -1,0 +1,263 @@
+---
+id: e6b55c3f-0d47-5444-a86e-654f1dfa3127
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 549 -  To the Training Yard "
+slug: 0048-chapter-549-to-the-training-yard
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 48
+ownLength: 3321
+unit: words
+ownProgress: 3321
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2192512/chapter-549-to-the-training-yard"
+royalRoadId: "2192512"
+markedReadAt: "2026-06-29T19:36:50.260Z"
+---
+
+Tala moaned in ecstasy as she took another slow, luxuriating taste.
+
+Perfect. Absolutely perfect.
+
+-Tala, don’t make such sounds. They’re a bit obscene.-
+
+Why? Only my husband is here.
+
+-...It’s food, Tala, and it’s not that good.-
+
+I’d say, ‘Bite your tongue.’ but it seems silly to say that to a person without a mouth.
+
+-...You’re a jerk.-
+
+Well, you can experience the memory of the flavor any time you want so… She shrugged.
+
+Rane was chuckling to himself as he regarded her across the breakfast table. “I know these are good, love, but isn’t that reaction a bit extreme? I’d bet that even Alat had something to say about it?”
+
+She shook her head, grumping slightly at being ‘ganged up on.’ “It’s hard to convey, but Mistress Petra has more magics to work with when making my food as compared to yours. Not only has she balanced the flavors and baked these to perfection, but the very magics within them are in harmony and playing off of each other as well. She added a whole other level to the flavor and balanced it perfectly. I honestly didn’t even know that was possible. She must have been experimenting with it and only decided to reveal the masterpiece now.”
+
+Rane grunted, looking at his own breakfast.
+
+The two sets of food looked almost identical from a mundane perspective. A square of laminated dough with an egg inset into the upper layers along with bacon and seasonings.
+
+The only difference between Rane’s pile of four and her stack of a dozen—aside from the obvious quantitative one—was the magic running through each.
+
+For Rane’s, only the eggs held magics ready for his consumption. They were working on getting other sources of magical food for him, but gated humanity just didn’t have the experience in such things that the arcanes did.
+
+Sadly, Eskau Meallain didn’t have it either. Ideally, they could trade for that expertise—or at least some of the experts’ services—in coming years.
+
+Tala’s breakfast in contrast was shot through with power, even down to the salt, which came from bins that had been created to infuse the substance with power for Tala’s benefit.
+
+He shook his head. “That may be so, I suppose.” He took another bite, clearly thoroughly enjoying it even if he kept himself silent for that enjoyment. “So, what’s on your docket for the day?”
+
+“I’m going to check in on Eskau Meallain. Ron has some things he wants to discuss in relation to her, and I think it’s wise that I know what’s being done.” She shrugged. “I mean, I can see what’s being done, but I like seeing things in person before making final judgements.”
+
+He grunted. “I suppose that makes sense, and what about your Reforging?”
+
+“I may talk with her about that, yeah. We’ll see how the day goes.” She took another bite, fighting to keep the sounds of enjoyment purely internal. After reveling in the taste and washing it down with perfectly brewed coffee, she smiled. “Do you want to come?”
+
+He nodded. “Yes, I would love to, but I can’t, at least not today. I’ll join them for some of their training with the white steel.” He lifted his left arm, highlighting the beautiful bracer that rested there. “I want to be able to use this to the best effect, after all.”
+
+“I figured as much, but what do you mean you can’t today?” She frowned, though it didn’t last as she took another bite.
+
+He chuckled. “I took far longer than I’d prefer to do the work on the cell. The fact that it wasn’t a time crunch made that fine, but if I want to be useful in dangerous instances? I need to get better.”
+
+“War games?”
+
+He shook his head, then hesitated. “Well… I’m sure I’ll do a few runs in that medium, but mostly, I’m going to be working with the training cell maintained at this city site.”
+
+She gave him a flat look. “You mean the temporary holding cell for those too powerful to incarcerate in other manners?”
+
+Rane grinned back. “Some of us didn’t need such a potential stated aloud. If only some of us did the tasks assigned instead of going their own way so much of the time.”
+
+Tala glowered, but then huffed a laugh. “That’s… fair. Still, I think that I was told mainly because of Eskau Meallain. That’s where she was held during the days that they didn’t need her for their deliberations or discussions. I understand that it’s completely bereft of all power. Master Grediv’s authority over the city allows him to keep any power from permeating the cell, as would otherwise happen.”
+
+Rane grunted at that. “That makes sense, but I’m not sure. I suppose I’ll learn today?”
+
+With their days each laid out, they didn’t dally too much longer over breakfast. Still, they didn’t rush, and simply enjoyed each other's company until the food and drink were spent.
+
+Finally, it was time to part ways, and they stood, exchanged kisses and goodbyes, and Rane willed himself out of their sanctum.
+
+-He’s getting better at that.-
+
+He is indeed. It helped that she’d stopped doing it for him by default. Allowing him the simple practice did wonders for his capacities.
+
+-You are also getting better at delegating authority and ability within Kit. Practice with Rane has really expanded your capacities in that regard.-
+
+It was true, she trusted Lyn enough that the woman could already move about within Ironhold—and even come to the sanctum—with relative ease and on her own initiative. She couldn’t leave Kit of her own volition by her own will, not yet, but both women thought that such should be possible, eventually.
+
+But Tala was delaying.
+
+She willed herself to the training yard in which she saw the Talons working under Eskau Meallain’s tutelage.
+
+They were all sitting cross-legged on the ground, each with a block of white-steel resting on the ground between their legs, hands at the base.
+
+The elf woman was snapping out commands to the more than two hundred people gathered there, even as she sat at the front, following her own commands.
+
+“Up.” She didn’t shout, but the flicker of magic in the words made it easy for everyone to hear regardless.
+
+At the word, every block almost seemed to shrink, pulling inward even as it grew vertically upward while it got slimmer.
+
+For the ‘worst’ of the Talons, a tendril of metal would lift up, reaching up to about the person’s eye-level.
+
+In the best cases, the block contracted uniformly inward, even as it grew upward, with Kedva and Talax being the very best.
+
+It seemingly wasn’t a school day, and the boy had joined his mother for that morning’s training. He waved to Tala as soon as she arrived—the white steel bracelet that she’d given him shortly after his birth catching the light—before returning his attention to the activity.
+
+Kedva’s steel extended nearly six feet in the air, retaining almost perfect uniformity for the whole length. Talax achieved a nine-foot pole, with a square cross-section of roughly four inches to a side the whole way up.
+
+Eskau Meallain was almost as good as Kedva, which was both a testament to how advanced Kedva was—to be able to best an Eskau with so much more training than she had—and proof of how hard the elf was working to map her skills and abilities onto this new reactive material.
+
+“Cube.”
+
+Again, the word carried easily across the crowd, and all the metal pulled back downward, returning to roughly a block shape.
+
+“Left.”
+
+At that command, each participant moved their left hand to rest on the ground with its back against the grass, and then the metal began to flow and extend out, over their left legs and to their waiting palms. The only exception was the elf, herself, who still lacked that arm. She simply moved the metal to press against the outside of the indicated leg.
+
+Eskau Meallain gave enough time for everyone to get the metal to at least touch their left hand. Though, by that point, the better third or so of those present had all the metal gathered in the left hand. “Right.”
+
+Everyone moved their right hand to mirror the left, the metal then having to extend over their entire lap to reach this new target.
+
+Again, once all present had at least gotten the metal to touch the right hand, the elf spoke again. “Cube.”
+
+At the simple word, everyone moved the metal back toward the center.
+
+That seemed to be the pattern. It was incredibly basic, but Tala appreciated the various skills involved in making it work and causing the material to move in those ways.
+
+Tala had come at this time specifically to catch the end of this practice time, and she wasn’t disappointed.
+
+“Eyes closed now.” There was some shuffling, but the command was clearly not a surprise, and many even looked a bit relieved, given that it was an indication that they had only about five minutes left of this activity.
+
+Eskau Meallain went through the commands twice more, and the results were almost comical.
+
+For ‘up’ many of the extending bits of metal veered off in one direction or another, forcing the Talon in question to brace the bottom of their white steel more firmly so it didn’t fall over and smack someone else.
+
+The ‘cubes’ created were far, far less precise than before, and the ‘left’ and ‘right’ extensions often had to almost search out the hand in question, tapping along the ground and questing about almost like a blind-man. Many even undercut the exercise a bit by shifting the target hand toward the metal when they struggled to make them connect.
+
+That difficulty made the two cycles take much, much longer than any of the previous ones.
+
+By the end, when Eskau Meallain called, “Rest” everyone was sweating, grimacing, groaning, or otherwise showing the strain of the work. Even Talax seemed to have required great effort to accomplish the aim.
+
+Eskau Meallain, herself, looked a bit worse for wear, but not too much. As she hopped to her feet and strode toward Tala, the elf drew in a smidge of power from the environment, refilling to the bottom most edge of the Mature advancement.
+
+She stopped before Tala and bowed. “Eskau Tala, thank you for coming to inspect our progress. Do you care to join us?”
+
+Tala considered. “I… I think I will from now on, at least some of the time. I need to improve my control, even though I have a fairly solid handle on it. Practice will do me good, and seeing what I can do should highlight to them what is possible.”
+
+“I agree, those were almost precisely my thoughts. Additionally, it will also bind them more tightly to you. When their training is complete, in a century or two, they will be a power that this world has rarely seen. Each won’t be equivalent to a fully trained Eskau of the House of Blood, but they will be far, far closer than any standard soldier has any right to be.”
+
+Tala grinned. “And there are hundreds of them. If it takes ten to overcome—or even just counter—an Eskau?” She shrugged. “We could still overcome any Major House, regardless of whether or not they’d gathered their whole strength.”
+
+“If their training goes well.”
+
+She shrugged again. “It should. Humans can learn. We’re rather good at it much of the time.”
+
+“Of course you can. This isn’t about intellectual capacity. Your gateless simply aren’t long-lived enough for most to progress to higher levels of advancement, in order to live long enough to progress further.” Eskau Meallain shook her head. “Some of that is due to your innate lack of magical retention, but that deficit is easily correctable with proper training.”
+
+“Easily?” Tala cocked one eyebrow.
+
+The elf didn’t even hesitate. “Yes. Easy and long. That tedium likely drives away many who might have succeeded, given the law of large numbers. Thus, we are in a situation where a human who has achieved a Mature advancement is a rarer sight than a wild-flower in a snowstorm.”
+
+Tala grunted. “But these?”
+
+The other woman grinned. “They have effective immortality. We have time to train them properly.”
+
+Ron had joined them by that point, and he gave a bow to Tala and an acknowledging nod to Eskau Meallain. “Mistress Tala, it is good to have you join us.”
+
+“Ron, what—”
+
+Eskau Meallain cleared her throat, effectively cutting Tala off. “We are introducing ranking to the Talons, to increase cohesion as well as build a framework both for the battlefield and to inspire some competitive advancement.”
+
+Tala only hesitated a moment before sighing slightly. “I see. What designation do you have, Ron?”
+
+He colored a bit. “At the moment, Captain.”
+
+Tala nodded. “Very well, Captain Ron. What can I do for you?”
+
+Eskau Meallain gave the man a raised eyebrow, but he cleared his throat and addressed Tala nonetheless. “Eskau Meallain is driving the Talons a bit hard on the next portion of our standard training day.”
+
+The elf rolled her eyes and snorted but didn’t otherwise respond.
+
+Tala frowned. “Tell me about the issue. This is the sprints and retention training, correct?”
+
+“Yes, Mistress.” He nodded. “There is a path all the way around this section of Ironhold, and we are required to sprint it. That is good, but the issue comes in if Eskau Meallain does not think the Talon in question is sprinting fast enough.”
+
+The Eskau in question spoke up for herself at that point. “I pursue them, and if I catch them, I break a finger. If I catch them again, I break an arm.”
+
+Tala blinked. That’s what that was?
+
+-You really aren’t paying close attention…-
+
+I have no interest in spying on everyone within Kit at all times. I figured that you would tell me if there was anything that I needed to know.
+
+-Well… that’s fair. They all healed quickly enough. It seemed fine.-
+
+Ron cleared his throat. “Exactly. The result is that our least skilled Talons are being literally broken.”
+
+Eskau Meallain let out a derisive huff. “They needed inspiration, and they heal quickly enough.”
+
+Tala frowned. “How is the amount that they have to sprint determined?”
+
+Ron nodded, clearly glad that she was asking further questions. “We all are about to enter the magic deficit room. When our power fully leaves us, we must exit the room and sprint until we are full once more—meaning until we match the ambient density—or for one lap, whichever is longer.”
+
+Tala nodded in reply. “At which point, you go back into the room, and you can only rest for as long as you hold your power.”
+
+Eskau Meallain grimaced. “I would like to have it be half drained—or ideally less—as even the worst at retention still gets nearly five minutes of rest every cycle, but they are so bad at self-detection, I’d have to be monitoring every Talon constantly and sending them out myself. That would further worsen the situation, as well as lose out on enforcing their own self-assessment.”
+
+Tala sighed. “The training method sounds solid enough. You have arrived at a wonderful incentive to improve magical retention, as well as provide benefit for everyone, regardless of their capacities.” She then turned to the elf. “I do not like the punishment of broken bones.”
+
+Eskau Meallain shrugged. “They heal before completing a single lap, and I’ve never had to go beyond the breaking of an arm. It is effective, immediate, and notable.” She then locked eyes with Tala, her intensity increasing. “It is possible to achieve results with… softer methods, but they will take longer, and in the end, they will be lesser. Coddling these Talons will not help them be all that they can be.”
+
+Tala sighed. “I see your point, Eskau Meallain.”
+
+Ron’s eyes widened, but Tala held up her hand.
+
+“I won’t let it continue to the point of abuse. That said, the punishment is established. If anyone is consistently having something broken, we can talk about how to provide them with remedial training to bring them up to what is expected of them, or we can discuss stripping them of power. I think most, when faced with that choice, would shape up, but I want that to be a final recourse.”
+
+The two facing Tala nodded, speaking almost in unison. “Understood.”
+
+Eskau Meallain seemed to consider something for a moment. “We could always have that terror bird of yours be on standby? He could chase anyone that he felt wasn’t giving their best effort. From my understanding, he’s already been doing some training with the Talons.”
+
+Ron’s eye twitched at that, but Tala was already shaking her head. “He has, and he will again, but I don’t want your training and his to overlap at the moment. He’ll continue his training of these warriors after you’ve gotten a bit established.”
+
+The elf grunted. “Very well.”
+
+Tala almost left then, but instead, she grimaced. “I will join you in this training as well, at least today. Shall we get to it?”
+
+Eskau Meallain grinned broadly, even as Captain Ron’s eyes widened.
+
+Neither contradicted her though, and so the whole group moved to the large magic deficit room that was prepared for them.
+
+-I will be shunting all power from your gate to other tasks.-
+
+Tala grunted. Thank you, Alat.
+
+As soon as they entered, everyone’s power levels began to sink, some faster than others.
+
+Well, everyone’s began to sink save Eskau Meallain. Hers were utterly rock-stable.
+
+Tala… was the worst by a wide margin.
+
+It took her less than thirty-seconds to bottom out. At that point, she was sucking in gasps of air as her body struggled to operate without power, and she had trouble forcing herself up, to stagger out of the room.
+
+The difficulty was quite odd to her. She’d just been utterly without power after the hammer stroke of Reality drove it all away in the battle which had ended with Eskau Meallain imprisoned. During that time, she hadn’t felt this utterly drained and awful, but she supposed that at the time she’d been filled with adrenaline and need. This was purely voluntary, and that was somehow much worse.
+
+I shouldn’t have sat down… Still, she would do this. Once she was up and out the door, she tried to draw on her gate, but Alat blocked the action. Tala could have overridden the alternate interface, but she inquired instead. What are you doing?
+
+-Forcing you to do the exercise. Draw power from the environment.- To her credit, Alat provided power that Tala could draw, rather than the true ambient power which was useless to her at the moment.
+
+Tala groaned but did as she was told. Her scripts and natural magics soaked up most of what she was able to draw in, her reserves only refilling slowly as she moved as fast as she could in her impaired state.
+
+Thankfully, the very magics that were eating up her attempts to refill also made the sprinting easier, so it wasn’t a total loss.
+
+Even so, she had to do three full laps before she was topped off that first time.
+
+She felt much better by that point, her magics having restored her after the rough start.
+
+Tala entered the deficit room once more, and found most of the Talons still in there, all but a few below half-power, but still holding strong.
+
+She sat down, concentrating on holding onto as much power as she could for as long as she could.
+
+She did better this second time, but better just meant that it was about thirty-five seconds before she had to get up and stagger into a run once more.
+
+It was going to be a long, long day.

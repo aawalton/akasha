@@ -1,0 +1,309 @@
+---
+id: 18220f02-b983-5393-a31e-1512cddff792
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 575 - Reality Rope"
+slug: 0075-chapter-575-reality-rope
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 75
+ownLength: 3199
+unit: words
+ownProgress: 3199
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2353048/chapter-575-reality-rope"
+royalRoadId: "2353048"
+markedReadAt: "2026-06-29T19:37:41.854Z"
+---
+
+Tala’s baleful focus was locked on the mole-thing, and a portal began to snap open and closed in a staccato rhythm, each one allowing a gravity-shot to tear forth, coming at the magical creature from a wide variety of angles.
+
+Even so, rock-spider-things threw themselves in the way time and again—somehow seeming to anticipate the shots that were far too fast to have been simply reacted to—some creatures even generating specifically to move in the way. To be clear, their fragile bodies didn’t block the attacks, but they were always positioned so as to deflect the projectiles enough to miss their target, and Tala didn’t have sufficient authority and aura mastery to correct the issues or stop the spiders.
+
+The things even tried to block the iron spikes she flung out to pepper the space, as she worked to increase and assert her own authority and dominion over more and more of the clash-site.
+
+The siege orbs that she sent out exploded, giving her battlefield control with the ice, but even they were being kept too far from the mole to truly hamper it immediately.
+
+Thus, the thing had made it a quarter of the way across the cavern already.
+
+-It’s getting away!-
+
+No.
+
+Tala saw the cords of reality that linked the mole to the region as a whole, to this cavern and the zeme within in particular. She seized the primary, the one linking the mole to its place of rebirth, and poured gravity amplification into it.
+
+This was not what she’d done near the old city sites, strengthening the reality threads, themselves, that linked them. Tala simply used the reality thread as a medium and targeting mechanism to increase gravity.
+
+Her head screamed with pain as she threw her magical weight against that of the region… and lost.
+
+Her head jerked back as if she’d been struck, and Terry let out a low hiss, flickering down and away, going after what had so hurt Tala.
+
+He had been respectfully allowing her to seek her own prey, but as soon as she was bloodied all consideration ended. Her safety and the kill were more important.
+
+The mole let out another cry of distress, and this time Tala felt it echo outward along reality threads, reminiscent of—while being quite unlike—the Leshkin.
+
+Surprise built upon surprise as vibrations came back.
+
+Communication via reality thread? It wasn’t a new concept, but it was one she hadn’t truly delved into, and it was hardly the time to do so.
+
+When she pulled her thoughts back together, she found Rane bracing her and Terry harrying the creature.
+
+Rock grew up to protect and spider-things spawned to interfere, and even when Terry did land cutting blows—more often than Tala really should have expected—the mole healed quickly.
+
+As terrified as it seemed, she needed to remember that the mole was in the center of its power, and it was drawing on that seemingly inexhaustible source with abandon.
+
+She needed to end that.
+
+Flow snicked into her hand, before she threaded power through the pathways of change within the knife, allowing it to extend and take on the form of a sword.
+
+Then, she did what she’d tried only once before.
+
+She overlaid the magical pathways within and around Flow with Reality iron—mostly stone- and starward—filling each and every spellform with void-channels, and flooding them with power, pushing the weapon forward.
+
+Flow’s normal magics were essentially just the ability to change between multiple forms and a magically enhanced cutting edge. She needed something more, something that could actually be useful when backed by Magic, Reality, and Void.
+
+One spellform came to mind instantly, one she’d already been using with nearly this combination of power and overlapping pillars: She thought of the dissolution power she used in her artificial lungs.
+
+Just like when she manifested void magic through it and created the void forms of the weapon, something about the weapon changed and bent.
+
+Those spellforms formed easily, slotting into Flow’s magical edge with room to spare. Unfortunately, they began doing exactly what they were created for, obliterating everything around them.
+
+Tala’s soul screamed in agony as her soulbound weapon began to break apart, and in that moment of primal pain, she slammed another spellform into place. That which filled the majority of her body, that which was the antithesis of dissolution.
+
+It wrapped around the dissolution spellform, both thrumming and practically clicking together. They were designed to be used together…
+
+Of course they were.
+
+The only place they occurred in nature was side by side, as a set.
+
+Now, Flow held that balance, but held up and maintained by Reality and Void as well as Magic.
+
+Tala felt her soul shudder as Flow pulled on their bond for strength and to simply endure and continue to support the intensely powerful working.
+
+She felt like only her Paragon level advancement allowed both her and Flow to continue as the weapon continued to shift, trying to settle into its final form.
+
+Where before an almost black, sucking heat-haze had manifested around the void-blade—and Flow’s normal sword-form contained a burning energy—now, there was nothing. The wire thin outline of the blade was still there, but the inside appeared… normal.
+
+It almost seemed as if Flow was simply a shaped wire and nothing more.
+
+Even so, Tala could feel the difference. The weight of it threatened to tear free of her hand.
+
+She could see it, as reality threads and nodes bent away from the weapon, being preserved and redirected by the outer shell of power, that which protected and contained the dissolution. In that moment, she instinctively knew that she would have to force anything she wished to cut to come into contact with Flow and the dissolution edge as it was now contained and sheltered. Otherwise, anything she struck or touched would naturally be reinforced even as it was moved out of the way.
+
+That was fine with her. She didn’t want to cut free parts of existence without meaning to.
+
+She had a moment of awe in which she regarded the new form, her emotions, her rage momentarily supplanted as she beheld Flow in a form that could only have one name.
+
+The Ending Blade.
+
+But rage and remorse could only be held off by discovery for so long, and a heartbeat later, her focus returned to that which needed to die, that which needed to End.
+
+She asked Rane to drop her, and she fell.
+
+Tala slammed into the cavern floor just beside where the mole had been reborn, pulled the reality-thread binding it to the spot toward herself, and swung.
+
+Existence stuttered.
+
+She was attempting to cut through something forged by Zeme itself, and no mere Paragon could hope to—
+
+No. She denied that. She wasn’t fighting all of Zeme. She was diverting a trickle of water, not holding back the rain.
+
+Zeme didn’t care whether this creature was magical or not.
+
+The world didn’t need this creature to exist. It wasn’t even benefited by its connection to this cave.
+
+In the heart of her established domain and authority—backed by Rane and the entire weight of magic contained with Kit—she knew it was so.
+
+That simply left the creature’s own weight—and that of the local power to which it was bound—fighting against her and hers.
+
+The creature was barely in the tier equivalent to Refined.
+
+It wasn’t trivial, but against Tala, Rane, and a small region’s worth of Paragon level power? The outcome was all but predetermined.
+
+Flow slid inexorably forward, altering Reality as it went.
+
+As the cord was severed, Tala realized two things.
+
+First, her gambit had worked, the mole was suddenly bereft of its source of new power, left with only what it had in reserve before the severing.
+
+Second, magical resonance was not the only thing that could cause a backlash from portions of existence.
+
+The two ends of the reality thread that she had severed—more like a thick rope in size—whipped free.
+
+Tala had only ever severed miniscule, barely formed connections before. She’d denied many such as well. But in all those cases, they’d been so minute as to contain no more power than a breath of wind.
+
+These contained the weight of a powerful confluence of zeme.
+
+The two ends struck her, one in her right hip and one in her left shoulder. She felt like they tried to erase her entirely for her violation, but her layers of defense—likely heavily backed by her reality iron—kept that from happening.
+
+Since she couldn’t be erased, for a brief moment, they tried to link to her, to reconnect to each other with her as a medium. There was a temptation in that. She realized that she could tap into the confluence, bind to it, and thus gain yet another source and type of power. She could do so much good with that power.
+
+She also realized that she could claim the mole-creature and gain utter dominion over it. A dark part of her almost bent to that, the desire to make it suffer for as long as anything had ever suffered welled up within her.
+
+But she utterly rejected both connections, both desires.
+
+Neither was who she was or who she wanted to be.
+
+Still, each rejection took its pound of flesh—quite literally—and her blood painted the cavern.
+
+She tried to contain it with her aura and authority, but her mind and spirit recoiled. The viscera and bone chunks were not hers any longer, and they utterly denied her attempt to reclaim them despite them being entirely within her aura and area of authority.
+
+Even the iron within her spilled blood separated from her without being voided, wholly sundered from her and the magics that governed her flesh.
+
+More than that, her very spirit had been driven back and cut away as her soul—her gate—shuddered in the aftermath of the hits.
+
+Her body refused to heal the wounds. Even her magic, which simply acted on her body's patterns and natural state, was powerless to do anything about it.
+
+Thankfully, the blood that was pouring forth even as she fell did listen to her, and she was able to seal off the wide gashes with tightly controlled blood.
+
+She hit the ground regardless, Flow clattering away in knife form.
+
+Terry quickly slew the mole now that it was bereft of its power source, and Rane landed beside her, concern obvious on his face.
+
+Tala vaguely noticed reality threads that had linked to the confluence through the mole were whipping about, trying to reconnect with the cavern without the failed intermediary, but she didn’t have the ability to notice more than that.
+
+Inside Tala’s head, Alat screamed in agony, the thought-sound louder and more all encompassing than anything Tala had ever experienced.
+
+The alternate interface was far more closely connected to Tala’s spirit, and thus more attuned to injuries to it.
+
+Rane spoke softly to his wife as he held her. “I and Enar have both called for healers. Paragon minimum given what we’re feeling. You and Alat are both in magical and spiritual turmoil. What happened?”
+
+Tala grit her teeth, words refusing to form.
+
+He looked over to where Terry was eviscerating the mole and consuming all parts of the thing. “You did something to it, didn’t you.” It wasn’t a question. “This is the backlash?”
+
+She managed a jerky nod.
+
+He grunted. “It’s dead, then. Now and forever.”
+
+The rock spiders were continuing to stagger for a few odd moments, their creator dead, but their connection to the surrounding magic somehow struggling to remain because their power had no longer been coming through their creator.
+
+Regardless, they couldn’t continue unguided, uncontrolled, and thus were falling apart all the same, even if a bit more slowly.
+
+Finally, Tala managed to get out two words, “More coming.”
+
+Rane frowned. “What?”
+
+She struggled, knowing this was critical, and not trusting Alat would recover in time to help communicate. “It called—” She grimaced, sucking in a ragged breath. “It called for other things.”
+
+He gave a slow nod. “We’ll handle them. Rest, my love. You’ve avenged…” Rane closed his eyes, fighting back an upwelling of tears. Finally, he shook his head, unable to say the name. “You’ve avenged the fallen.”
+
+Tala didn’t want to rest. She didn’t want to lie back, but her whole being was in turmoil. Her spirit had been torn and malformed by Reality’s backlash, and as a result, she just felt wrong.
+
+She imagined it was akin to someone without access to magical healing suddenly being without a hand. It should be there. Everything told her it should, her every instinct, thought, and action was in line with it being so, but it wasn’t.
+
+She had a final, passing thought as she fell into a hazy stupor. My balance is broken…
+
+* * *
+
+Tala came back to herself as half a dozen auras entered her vertical tunnel.
+
+She panicked, attempting to lash out and crush them, but after the barest inward flexing, her spirit seized up, and her will could not be enacted.
+
+Even so, she felt a ripple of trepidation pass through the still falling auras, even as Rane’s will came into place, pulling back their collective authority to allow those approaching easier passage.
+
+Tala grimaced, trying to take back control mostly based on instinct.
+
+She knew that other, monstrous auras had tried to breach their area of authority already, but Rane and Terry had denied them, killing anything that came close, with Terry even going out to end the sources more directly.
+
+Why was Rane not doing so now? Why was he helping them come through? He clearly felt them coming closer, closer.
+
+He was suddenly there, holding her in his arms. “Hush now, my love. It’s a Defender team. They were gathered from their various postings when the attack was happening, and they’ve come to aid us now. There is a healer with them who should be able to help you.”
+
+Tala barely processed her husband’s words, but the sound of his voice—and the calm tones with which he spoke—soothed her, allowing her to drift off once more.
+
+* * *
+
+Tala came to, once more, lying in a bed.
+
+By the feel of what was around her, she was not within her sanctum, and it took a moment for her thoughts to catch up to her current circumstances.
+
+Her threefold sight flashed back into her awareness, and Alat groaned within her head.
+
+-What’s going on?-
+
+I… I’m not sure.
+
+By what she could see, they were in the city. Specifically, they were in a house of healing, in a private room separated from anyone else.
+
+There was a funny pile of iron spikes in one corner of her sanctum, and she had the strong idea that Rane had used their aura and authority to pull them free and open a portal to stick them there for safekeeping as she was being moved.
+
+Her spirit and soul no longer screamed at her about their brokenness. Though, they did ache more than seemed possible. More oddly, it seemed like her iron—her reality iron—was now meshed through the restored part of her being.
+
+Her sight also let her see that her hip and shoulder were healed entirely. There was not even a visible discoloration of new-grown flesh visible to give away the previous presence of the injury. The iron was simply in too small a quantity to stand out to mundane sight.
+
+That bore investigation later… but not right then.
+
+Terry was seemingly asleep, the size of a cat and curled up on her shins above the blankets which covered her.
+
+Rane was down the long hall, talking with someone, but even as she regarded him, he glanced her way and smiled, tension obviously bleeding away from him.
+
+Their soulbond had likely alerted him to her changing emotions, and even possibly to her return to consciousness.
+
+Then, she saw him.
+
+Nalac was alone in a room just like her, curled in a ball, weeping.
+
+That’s when the memory hit Tala like a collapsing mountain.
+
+Illie was gone.
+
+Her sister, the bright and chipper young mageling, was gone forever.
+
+In that moment, Tala wished that she were still injured. She wished that she was in some sort of physical pain so that the emotional turmoil could be kept at bay.
+
+She knew that it wouldn’t actually help—especially not long term—but she felt utterly powerless to do anything about the only hurt that seemed to matter at the moment.
+
+Terry lifted his head, then flickered up to her chest as she rolled onto her side, catching him and hugging him close.
+
+His sturdy body—small though it was—bore up just fine under her distressed clutching.
+
+Though Rane was there in less than a minute, the time in her own despondency felt like an eternity.
+
+As soon as he opened the door—having seemingly felt her shift in mood and hurried to her—he shot across the room to pick her up and cradle her in his arms, just as she was clutching Terry close in hers.
+
+“She’s gone, Rane. She’s gone, and there’s nothing we can do about it.”
+
+He slowly stroked her hair. “I know. I know, my love. I’m here. You aren’t alone.”
+
+She curled inward almost convulsively, then shook herself. Alone.
+
+“Tala?”
+
+“We need to go to Nalac. He shouldn’t be alone.”
+
+Rane nodded. “He is here. I looked in on him, but he was sleeping.”
+
+“He’s awake now.”
+
+Rane hesitated for only a moment. “Let’s go to him.”
+
+It was actually a trivial thing for Tala to extend her aura downward and over to Nalac’s room. Though her everything still felt achy, nothing actively opposed her, so she was quick to establish dominance in the boy’s room, carefully not asserting her power over him.
+
+Then, she mirrored Terry’s magic across all three of them and flickered.
+
+The next instant, they were all standing in Nalac’s room, Terry on Tala’s shoulder, and Rane’s arm across her back.
+
+There was no sound from their entry.
+
+Because of that, they stood there, unnoticed for a long moment as Nalac wept.
+
+Tala felt instantly awkward, as if they were intruding, but Rane seemed to be able to shake himself free of the sentiment.
+
+He cleared his throat and moved them forward.
+
+Nalac jerked his head up, showing off his red-rimmed eyes and tear-streaked face.
+
+“Tala? Rane? Terry? What—?”
+
+Then, the three were upon him, wrapping him close, causing him to descend back into tears.
+
+“I’m sorry. I’m so sorry. I… I tried. I tried to keep her safe. I tried to… I tried! I really did!” He babbled as they held him.
+
+Finally, Tala quieted him. “You did all you could, Nalac. Illie’s death isn’t your fault. It wasn’t because of you.”
+
+He shook his head, trying to argue, but Tala wouldn’t hear it.
+
+“We can talk more later. Now? Now, you are with us. You are safe. You aren’t alone.”
+
+Nalac broke down again, sobbing and shaking as they held him. Tala and Rane were crying freely as well.
+
+Their sister was gone, and that wound would not heal quickly. Nor completely.

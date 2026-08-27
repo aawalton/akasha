@@ -1,0 +1,293 @@
+---
+id: bd67e104-9d50-5643-ab12-78062c8e97f2
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 19 — Lady Stardust (2) "
+slug: 0036-chapter-19-lady-stardust-2
+partOf: metaworld-hopecore
+position: 36
+ownLength: 3636
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368891/chapter-19-lady-stardust-2"
+royalRoadId: "3368891"
+---
+
+Central Park.
+
+The Met.
+
+The interior of the Annenberg Galleries was a suspended, artistic silence where the infamous New York Minute ceased, a place where time held its breath for the timeless art displayed within. Here, the Met displayed its grandest collection of colonial art in a neoclassical sanctuary of monumental intimacy across a suite of forty-five galleries with 700 works of art.
+
+To walk through the Annenberg Galleries is to walk through history itself; it was a tour of colonial power, a heritage of the European Empire from the 1300s to the 1800s. The experience was a narrative made possible by the Met’s endowment, enabling a renovation six years in the making, through which the Met’s European curator rehung almost every image.
+
+Now, in an isolated, intimate space, the Met’ director, Juliana Vaughan, had done something no museum in the world had yet attempted.
+
+A projection-mapped display of the Met’s Vincent van Gogh works.
+
+The concept began when she was approached by Panasonic, though she had not imagined that the technology was mature enough. This was because authenticity required twenty-six to fifty digital projectors with ultra-resolution laser-mosaics that worked in tandem, adding the illusion of depth and texture that was so central to the grandmaster's work. To create such a project mapping, the Met had to risk its collection by allowing Immersive Light and Magic, the conceptual company responsible for the technology, to deep-scan and 3-D map the museum’s priceless originals.
+
+The scan took months, but Juliana simply felt that there was something missing, yet could not place her finger on the texture of the impasto—until she heard the song.
+
+Music. Not just any music, but an ambient song, the sound of each location as the painting depicted, or was painted.
+
+And in the exhibit’s finale, she would have the visitors realise that this painter, this world-renowned genius, had not been appreciated or recognised, that he died while making peace with failure.
+
+At 7:15, the newly rearranged wing of the gallery was closed, and her staff was reorganised to receive tonight's guests.
+
+Evelyn Chambers, the Cultural Affairs Commissioner.
+
+Jean-Jacques de Cambacérès, the French Consul.
+
+Hugo Maarten Klijn, Vice-Director of The Van Gogh Museum Amsterdam.
+
+Diane Mirabelle, Editor-in-Chief of Vogue USA.
+
+Lizia Bailey Hearst, Editor-in-Chief of Harper’s Bazaar, is heir to the Hearst fortune.
+
+Betye de Phelps, Director of MoMA, who had loaned them Starry Starry Night.
+
+Sir Justin Woodhouse, CEO of Universal Music. Trent Davis, CEO of Sony BMG, and his aide, Director Frederick Curon, a dear friend and the enabler of tonight’s festivities. And many others, the heirs, patriarchs and peers of families that Juliana only recognised by their contributions to the arts. Her lack of familiarity was a necessity; for someone in her position, it was cogent that she knew her donors, while also limiting her knowledge of where they had found their fortunes.
+
+This was not a red-carpet event, though the corporations involved nonetheless forced their entourages of camera-wielding sycophants into her private Showcase. For the pre-show, Vaughan offered no resistance or opinion toward these ghoulish parasites of the mass media, because they, like bottom feeders on a riverbed, provided an essential function.
+
+However, past the hallowed halls of Gallery 822, none were allowed to peek, lest their press passes to the Met’s celebrity events were forever abjured.
+
+At 7:45, later than she preferred, the guests reported that they were sufficiently stuffed with expensive canapes and were ready for the time of their lives.
+
+At 8:00, like a train of school children, they entered the exhibit.
+
+With relish, with pleasure, and with quiet expectation, she watched their eyes grow from mild wonder to incredulity, to open-mouthed disbelief.
+
+Cypresses, textured and enlarged, spanning some five meters high to twelve meters wide, seamlessly stretched across walls, pillars, doorways and even the floor, greeted them at every turn. Thanks to the multitude of projectors, there were no shadows to be seen. They were inside the paintings now, living inside the grand master’s head.
+
+The first of the ten rooms was Wheat Field with Cypresses. Within Juliana’s sorcerous realm, her guests wandered without borders through spaces uninhibited by physicality, listening to the authentic rustling of ultra-high definition audio sourced from a sunny afternoon from the very place the painting was born.
+
+At 8:10, they entered the next room. Stark, sterile, white, containing only the painting itself, a short description, and the audience.
+
+“Good god, Juliana.” Hugo, Director of Amsterdam, could not help but shake her hand “Any price, my love. We want this same technology at any price. I will find the space.”
+
+“Mister Simon is the man responsible.” Juliana pointed to a demure young man with reddened eyes standing near the corner, nursing a flute of Bordeaux champagne. “His work is ours for the next six months, but you are free to negotiate for either rental or re-creation once the Met is done.”
+
+Juliana watched her protege cower as the bigwigs marched on him with shining eyes and big smiles. She hid her satisfaction by biting the interior of her lower lip. Rather than the limelight, she preferred to bring others into it.
+
+The next man to approach was her old friend, Frederick Curon.
+
+“Eppie is ready.” The man raised his glass in a toast. “Woodhouse is going to lose his mind hahaha…”
+
+“You are the pettiest, most obsessive person I know.” Juliana rolled her eyes. “So what if Woodhouse signed those two young DJs from Connecticut. Was that really worth this much spite?”
+
+“They were god damn geniuses.” Curon’s beard rustled against his turtleneck sweater. Juliana could only admire her friend’s courage to show up to her party wearing an attire suitable for casual dinners at a non-exclusive country club. “They could have flourished under me, like Eppie. They would have made the best electronica in the world.”
+
+Juliana sighed, refusing the waiter’s offer of water. “I believe you, for what it's worth. Yet, we must move on. Let’s hope your songbird doesn’t choke.”
+
+The second room was The Flowering Orchard.
+
+For this room, Juliana had contacted a friend from the House of Mouse and borrowed, under a strict NDA, a number of Smellitizers. When the Met’s competitors reproduced the displays, it would not include her curated sounds and smells—that would be their problem to solve, or improve upon.
+
+The third room was Roses. The fourth was Irises.
+
+The fifth was Sunflowers.
+
+The sixth was Shoes, with the room suddenly filled with the stark scent of oils, leather, and trace mildew.
+
+The seventh was “Corridor in the Asylum,” a stark painting from when the artist admitted himself to the psychiatric hospital of Saint-Rémy-de-Provence. The room smelled like antiseptic.
+
+The eighth room had the audience audibly gasp.
+
+It was the Met’s title piece, Self-Portrait with a Straw Hat.
+
+And there was something explicit to be said about an ultra-HD laser-mapped, textured, Ken Burns slow-moving visage of the man’s portrait, six feet tall and four feet across, replicated on every wall, staring unblinking at the audience. After the cold colours of the Asylum, there was something so vivid and bold about the portrait's palette—a bold summation of sunburst yellow and oranges set against Van Gogh’s famous blue and green teal, bringing the portrait to life.
+
+Her guests did not stay for long. There was calm in the self-portrait, but also accusation. The grandmaster’s interiority was visceral.
+
+In the ninth room, against the portrait, they convened.
+
+“The tenth room is a timed experience, a summation of the former,” she explained to her guests, all of whom were now drunk on art. “We also have a special guest—”
+
+She looked at Curon, who looked back smugly.
+
+“—and no, it is not Vincent, I am sorry to say.”
+
+Her audience laughed on cue.
+
+“When you are ready,” Juliana also hoped that their little bird would not choke. To ensure their success, she had even arranged a pressure-free environment. “We shall proceed.”
+
+One by one, her flock of art-touched connoisseurs shuffled into the final room.
+
+Juliana followed, a mother goose with her flock of curious goslings.
+
+The room was dark.
+
+The room smelled like the countryside. The wind, reproduced by specialised equipment, made them shiver.
+
+In the centre projection, a line of words materialised.
+
+“I also need a starry night with Cypresses or—perhaps above a field of ripe wheat” Conversation with Theo van Gogh, April 9, 1888.
+
+Stroke by stroke, the most famous painting in the world began to materialise.
+
+A guitar began to play, perfectly in sync with the brush strokes.
+
+Then a thin, ethereal voice, one that belonged to the underworld, delivered a dirge through the speakers.
+
+“Starry Starry Night…”
+
+The voice sent a shock through the room, conjuring shivers throughout their collective body. The French Consul looks about from left to right, bewildered, questioning the source of the voice. To her right, a triumphant Frederick stared at Woodhouse, who looked suddenly lost in the dimness of the exhibit.
+
+With texture, the song moved from verse to verse, caressing the fabric-covered walls, slathering on the impasto strokes. The girl’s voice grieved for an artist she had never met. Her voice grieved for them all.
+
+One by one, the paintings came to life. Every work in every other room. The fields, the flowers, the asylum, the self-portrait.
+
+By the third verse, the spectral elegy pierced even Juliana’s defences. Her mind, usually a tightly-knit ball of interwoven thoughts, began to unwind. Her artistic fancy, long caged by more critical theory than was healthy for any sane individual, was suddenly left to wander. Like the first time she had heard the song, she merely listened.
+
+No sycophants. No cameras. No critics.
+
+The Chief Curator of the Met was free to simply listen and absorb, to inhale the notes. As a long-time teacher, she had forgotten just how much she could absorb as a student.
+
+The music faded. The lyrics said they would not understand, but her audience now understood.
+
+It was time for the final room.
+
+Juliana gestured at her black-clad staff, then gestured again until she caught their eye, for their ears had been utterly arrested by the infectious sentiment of the song. With a few clicks on their wired remotes, swirling lights painted a path to the exit.
+
+Juliana led the procession.
+
+This time, she would be the visitor, and not the curator.
+
+In the epilogue chamber, her sight took several seconds to adjust.
+
+When she finally saw Curon’s songbird, emotions she had not considered for decades welled in her throat, the very same as the first time she had seen that very same painting in Amsterdam.
+
+Whether by chance, fate, or karma, the girl was wrapped in ukiyo-e patterns of ivory blossoms on pastel teal. From Juliana’s studied eye, she recognised the fabric as shaped silk crêpe de chine in a mid-century vintage design that shifted with feline grace. The high halter neck design drew the viewer’s eye toward the girl’s face, where her eyes were made cerulean by the museum’s shadowless fluorescence. With great relish, she studied the flowing pattern of petals, the same colour code as the painting she was missing from her collection—Almond Flowers, originally given by Vincent to his brother as a gift.
+
+The girl smiled, then turned her body slowly, acknowledging her audience, revealing the elegant lines of her lithe limbs and sharp shoulder blades, arriving at a pleasing aesthetic that teased, but also spoke solemnly of respect for the grandmaster’s work.
+
+When she moved, the A-line skirt, unpleated, fell to her calves, drawing the eye to its repeated pattern.
+
+Turning her head ever so imperceptibly, Juliana regarded the reaction of her patrons. Like herself, they were equally impressed, though for some, smitten might be a more appropriate descriptor.
+
+Feeling uncharacteristically overwhelmed by motherly emotions, Juliana, single and famously combative toward children, opened her arms unconditionally. “Euphemia, darling, thank you. Truly.”
+
+The two of them embraced. Juliana was surprised again when, despite having exchanged cheeks, both of their makeups were left impeccably intact.
+
+It was only then that she noticed the guitar player in the corner, trying to make himself unseen, and the poorly dressed tech packing away a borrowed guitar.
+
+The men, the women, the shakers and movers, the billion-heirs all moved past Juliana to accost their songbird, to express their joy, share their pleasure, and ask for her name.
+
+A waiter approached, and Juliana scooped up a flute of bubbles.She turned to regard the priceless painting in the last room, ironically forgotten, and made her peace.
+
+Her work here was done.
+
+Without a doubt, the new exhibition would be the birth of a global trend. The Met will once again be the first among equals in reshaping how art can be made accessible to the public. Furthermore, tonight’s experience would not be replicated, not now, and not in the future, perfectly capturing the ephemerality of high art. And though the girl was merely a part of the exhibition, Juliana was also conscious that she had inadvertently made this all happen.
+
+The Chief Curator drained the flute.
+
+She would call in a few favours tonight to rockblast a few walls from the girl’s future ambitions. To pay just $2000 to garner the reaction she had seen from her patrons and competitors, Juliana’s face grew hot just from thinking about the thrift.
+
+She was just about to rejoin the circles of smiling patrons when, as one possessed of a keen social intellect, she smelled sulphur in the air.
+
+Scanning around the room, her gaze once more landed on their floral songbird, her tiny figure barely visible among the dark suits.
+
+The girl was smiling at another girl.
+
+A tall redhead with a striking face that was completely unknown to Juliana. If she had to recall, the girl was one of the dozens or so of plus ones offered to her select list of donors. Presently, the girl stood as though Hera to Eppie’s Medusa, staring with such hidden vehemence that Juliana could feel the tension from across the room.
+
+The Consul teased their songbird in French. With her Californian accent, Euphemia laughed off the fact that she was not literate in French. The Consul asked if she’d like to learn.The crowd laughed. Everyone laughed.
+
+They were having a good time, but not this redheaded child.
+
+“Diane.” Juliana arrested the Editor-in-Chief of Vogue as she passed. “Spare me a moment, darling. Who is that over there?”
+
+“Oh, the tall redhead with the carmine dress?” Her friend consulted the ceiling for a second to jog her memory. “That’s Senator Sanders’ daughter. She’s with Sir Woodhouse. Why? Did she catch your eye?”
+
+“Does she know our Euphemia?” Juliana’s voice was cold.
+
+Diane-Grace looked over to where she was looking, then made an “O” with her lips. “Oh yeah, I see it. Goodness, that girl has some feelings for your songbird.”
+
+Indeed, the redhead was bunching her fists. Strangely, Euphemia barely acknowledged the girl’s existence, which, Juliana discerned, only added fuel to the fire.
+
+“Justin!” she called out to the man enduring the insufferable boasting of a certain Creative Director of Sony. “Over here!”
+
+Offering a prayer to the ceiling, Justin Woodhouse left his one-sided conversation partner to join their circle of two. “Thanks for getting me out of that.” The Brit took a deep breath. “That man could talk the hind legs off a donkey.”
+
+“My pleasure,” Juliana pursed her lips.
+
+Diane, matching her tempo, said nothing.
+
+“Oh no.” Sir Woodhouse assumed a more stoic pose. “I know that look. What has made our Director displeased? How may I make it right?”
+
+“I don’t want to be bothersome,” Juliana code-switched to English. Discreetly, she lowered her voice so as to appear that the two were sharing a naughty secret. “But your ward there appears to be a standard drink away from punching our songbird in the face.”
+
+Woodhouse’s eyes filled with confusion until he glanced over yonder and muttered an “Oh dear. I think Valorie accidentally drank.” As a showbiz veteran, Curon’s rival recognised rivalry when he saw it, and saw a lot more than what Juliana could guess, considering the redhead’s offhand was choking an invisible neck.
+
+“I am very, very sorry, Doctor Vaughan.” The man dumped his drinks with the waiter at once. “It looks like we’re not feeling the best tonight. Rickie is spiking my hypertension, I think we might call it an early one, if you don’t mind?”
+
+“Aw.” Juliana tilted her head. “It’s a shame to see you go so soon.”
+
+“Until next time.” The man gave her his most sincere smile, and she believed it. If Universal’s stars wanted to attend the next Gala, they had to be besties with Diane Mirabelle. And Diane’s partner and mentor was this mean old lady who ran the Met with an iron fist. “Again, my apologies.”
+
+With panache, the CEO of Universal Music approached his ward, told her with a smiling face that he needed her for a moment, then gracefully waltzed the still-staring girl away without an additional word.
+
+“How exciting,” Mirabelle raised a glass. “I look forward to their rivalry.” Juliana met her protégé halfway. “Come, let's hear what our songbird’s saying that has the Fundsters so stirred up.”
+
+Euphemia Fontaine was enjoying herself immensely.
+
+She was finally among peers. Politicians, Fund Managers, CEOs, and the social attachés who parasitically lived off those with power.
+
+The night had gone swimmingly.She made only two minor mistakes while singing her song. And she had picked the right dress absolutely, once more proving that her [Intelligence] and [Wisdom] were in a class of their own, and she got to pay back Armand for his Air Jordans.
+
+Presently, her Senior had circled around the gallery to the front of the exhibition to experience it for himself, as some of the guests had. The only condition of their re-entry and exploration was to enter with no phones and leave with no pictures. For the common folk, there were also NDA disclosures, lest they ruin the experience for the first-time public when the exhibition opens next week.
+
+A more unique sensation, she felt, was being five foot six in heels, while still surrounded by men and women who towered over her. Her old body wasn’t excessively tall, but she was still above average, and with heels, she never felt overpowered.
+
+Now, with her back exposed, she felt a little electrified by their wandering eyes. She was also shivering a little, because the temperature was kept low to protect the sacred oils on the originals. As a result, now that the adrenaline faded, she could feel goosebumps travelling up her legs and arms.
+
+Nonetheless, it was easy for her to keep up with the droll Finance bros, Consuls and Commissioners. For the moment at least, they were thankful for the unexpected joy she had brought—which, to the rich and powerful, was a rare treat indeed.
+
+But when she did speak, no one really listened. They humoured her, laughed at her jokes even, barely acknowledging that her wit was contextually salient and savvy.
+
+Was it because of her dress? Or had the alcohol made them more digress?
+
+Looking up at the men with her luminous eyes, she tried to skim their thoughts by reading the reflection of her face in their eyes.
+
+She saw happiness and gratefulness.
+
+She saw lust and guilt.
+
+She saw possessiveness and protectiveness.
+
+She saw curiosity. And she saw greed.
+
+Curiously, she had not received much [Causality] from them. This meant, she supposed, that the folk here principally thought of her as an asset for their personal benefit.
+
+Then, her eyes slipped past the V-line tuxedos, and saw for the first time a face she had not seen in nearly eight weeks.
+
+It was a conventionally beautiful face, a starlet’s face.
+
+Pale green eyes, red ringlets of piled hair in a messy bun, lips as glossy as ripe cherries, a thin white neck, and perky bosoms made more prominent by the magic of tailoring.
+
+Valorie Sanders.
+
+How very karmic. She mused to herself as their eyes met. In another lifetime, she would not have believed in such a coincidence, but in this life, she had literal evidence of a greater force at play.
+
+Evidently, the girl had noticed her for some time.
+
+Responding to the men around her, she told an ethically questionable joke about stockbrokers, sending the men into hyperbolic bursts of hilarity. In the midst of their self-aggrandisation, Eppie took the chance to deliver her dearest Miss Sanders the most desirous, flirtatious, and provocative smile she could muster.
+
+Five seconds later, the young lady of House Sanders was on fire.
+
+She was just about to goad the girl some more to see if her foe would drop clues like a slain video game monster when, out of nowhere, the CEO of Universal Music whisked Valorie away like a knight errant in charge of a wayward lady.
+
+Ah well. She shrugged prettily, then returned to the conversation at hand.
+
+“Eppie, do you know why your boss hates day trading, but likes you so much?” One of the Rockefeller fellows leaned in to hear her answer.
+
+“Is it because…” Eppie smiled warily at her CEO, whose eyes begged her to play along. “Gentlemen prefer bonds?”
+
+“Oh, my god.” The Rockefeller stumbled back, almost spilling his drink, laughing so hard he couldn’t breathe. “I… I can’t, she is the death of me, Humphrey. I have died and gone to pun-gatory.”
+
+“Eppie, tell us another one!” Someone begged her. “You can’t just dote on Joshua. Tell us, how did Graham’s portfolio end up with ten million last quarter?”
+
+Eppie’s [Intelligence] of 35 shuddered at the unmentionable acts it must perform to harness future investors for her philanthropic endeavours.
+
+“Easy,” she smiled at the expectant face of her breathless audience. “He started with twenty million the quarter prior…”

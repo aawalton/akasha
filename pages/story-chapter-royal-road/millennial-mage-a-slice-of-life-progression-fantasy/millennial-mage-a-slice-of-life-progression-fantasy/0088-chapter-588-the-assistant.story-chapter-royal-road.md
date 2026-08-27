@@ -1,0 +1,277 @@
+---
+id: ccb3274e-fcdd-5da9-a5d2-343f41cc8a50
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 588 - The Assistant"
+slug: 0088-chapter-588-the-assistant
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 88
+ownLength: 2552
+unit: words
+ownProgress: 2552
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2439539/chapter-588-the-assistant"
+royalRoadId: "2439539"
+markedReadAt: "2026-06-29T19:38:07.079Z"
+---
+
+Tala looked at the list that she’d made. Their time in Bandfast was nearly done. After Master Boma returned with the first workable soul-medium for Lea, they’d likely begin their preparations to depart from the city.
+
+-Again, hurtfully accurate.-
+
+Hey, it works in here, and it fills a need. We are grateful that you and Enar threw it together.
+
+-We didn’t throw it together ...We actually tried to put it together with thought and consideration…-
+
+…Well, you failed.
+
+Alat snorted a laugh within Tala’s head. -That’s fair, actually.-
+
+So, looking at her list, Tala still wanted to drop through Brand’s shop and see him and his wife. Rane should come to that meeting, but what about Lea?
+
+She looked over to where her daughter was weaving different strands of white steel as she had been doing with rope up until a few days ago.
+
+The craft was a bit macabre if Tala considered it too deeply. After all, it was the same material as the girl’s skin, but as she wasn’t actually connected to it in the same way, it was probably fine.
+
+Yeah, it’s just like working with leather, she allowed.
+
+It was funny because initially, Lea had simply used her unconsciously granted authority within Kit to manipulate the metal, and Tala had been forced to show her how to use her own magic instead, using the material’s inherent properties rather than what amounted to brute force. That same authority is what likely made it so easy for the girl to bring her power forth, where students at the Academy usually took weeks, months, and—very rarely—years to begin doing so without specific inscriptions to allow it.
+
+To be fair, her body has magics that naturally tap into her gate and draw forth the power, and she is in constant control of her body. Either way, the girl was getting lots of practice.
+
+Tala nodded to herself before realizing that she’d gotten distracted once more. Right, Lea, packed restaurant…
+
+With Rane and Tala there it should be fine… but maybe they should go to a calmer eatery first? Yeah. That would be better. Maybe pastries…
+
+She would run the idea by Rane when they connected later. He was out getting some supplies, as he wanted to show Lea how to carve stone. His tools were ill suited for the girl, mainly because he didn’t use any anymore. He carved nearly entirely with magic, even if he did have the skills to use the ‘proper’ tools.
+
+So he was out buying two sets so that he could show her how and work alongside her using the same chisels, rasps, and other means.
+
+He could make white steel tools from the bracer that Tala had given him for their anniversary. He did use those on occasion—and Lea would be able to form her own in time—but he wanted to start as traditional and mundane as reasonable.
+
+So, restaurant outing with Lea and Rane… probably not Terry for the first one, but we can see. Then as a family going to Brand’s raucous place. Finally, we should drop through and say goodbye to Mistress Kannis and Fannas. Lea would probably be sad to leave without saying goodbye to Fannas at least.
+
+Mistress Petra appeared at that moment, bringing a tray of cookies and a glass of milk for Lea.
+
+The girl gasped, setting her craft aside… in mid air… and hopping up to take the treats. “Thank you, thank you, Mistress Petra.”
+
+The older woman smiled warmly. “Of course, my little Lea.”
+
+Tala sighed in resignation, but a smile was still tugging at her lips. “You’ll spoil her, Mistress.”
+
+“Nonsense. Children need milk and cookies, and it’s a perfect time for an afternoon snack.” With a wave of her hand and a flexing of granted authority, Mistress Petra summoned a large platter of various foods to rest beside Tala. “I need my charges to remain well fed.”
+
+Tala only resisted for a moment before taking a croissant sandwich from the tray and chomping down for a large, delicious bite. “Hmm… excellent as always.”
+
+“I’m glad that you like it.” Mistress Petra hesitated for a moment. “Miss Kedva inquired after Lea once more. She is wondering if she’d like to play with Talax in the next month or so. She said that they can be available whenever works better for Lea.”
+
+Lea perked up, looking to her mother.
+
+The boy is eight… Tala tightened her lips to one side in thought. “I’ll ask your dad, Lea. The boy is magically reinforced…”
+
+The girl gave a muffled cheer around a mouthful of cookies.
+
+Tala made eye contact and mimed brushing off her own cheek.
+
+Lea frowned for a moment before her eyes widened in understanding, and she picked up the provided napkin and cleaned her face.
+
+Tala nodded once in satisfaction, even if the results were effectively negated a moment later when the girl took a big drink of milk and garnered a milk-mustache.
+
+When Tala chuckled, Lea’s frown returned, and she wiped at her face again.
+
+Mistress Petra had waited silently for a moment, but now took the opportunity to interject. “Is there anything else, Mistress Tala? Little miss?”
+
+“No, thank you, Mistress Petra.”
+
+Lea just shook her head, already munching on the next cookie.
+
+“Well, then. Take care, you two. I’ll see you around dinner time.”
+
+The women exchanged smiles as the oldest of them willed herself away.
+
+Lea pulled up her weaving and continued to work it even while her hands were busy with milk and cookies.
+
+It wasn’t how Tala wanted the girl to be operating—part of the point of the white steel craft was to help Lea unify her use of power with her physical movements—but it worked well enough for a brief moment. You can’t fight every battle all at once.
+
+And they had plenty of other things they were working on with the girl. She and Rane effectively had more than a decade’s worth of teaching and experience that they were trying to impart upon Lea as quickly as was reasonable.
+
+As Tala continued to munch on her own snacks, she dove back into the tasks before her, those mainly coming down to research toward her Reforging—multi-decade project though it was—and reading through ancillary things that Lyn insisted were important for her to be aware of.
+
+Master Nadro was set to meet up with them in Alefast in a couple of weeks time, and Tala was looking forward to seeing him in person to help process through Illie’s death, Lea’s ‘birth’, and so much else.
+
+But that can wait. For the moment, there was just too much to do… Like introducing her to the Talons and Eskau Meallain.
+
+But that could wait until after Master Boma comes.
+
+And that should be tomorrow.
+
+* * *
+
+“Unhand me, you vile brute! I demand you do so at once. In fact, do so with force and gusto, straight into that wall. Right. Over. There.”
+
+Master Boma had a rather tired look on his face as the portal opened, allowing a stream of nonsense and vitriol to flow through.
+
+Tala had seen the magics that the man was maintaining around himself. Magic of silence and misdirection. She’d found it odd, but now, hearing Rob’s diatribe of oddities, she was rather convinced it had been an excellent idea.
+
+The Archon shook his head, actually responding to the orb that bulged beneath the cloth from where it was hidden in his pocket. “That wouldn’t harm you, Rob. It would just send you rolling and bouncing about, and you hate that.”
+
+“...Fine, then a volcano! That should do the trick. I hear there’s a jeweler with a truly spectacular facility.” Rob made a ‘hmm’ sound. “Though, one does not simply walk in…”
+
+Boma spoke, drawing Rob’s attention back. “A volcano probably would work, you are right.”
+
+Rob let out a gasp of excitement. “So?”
+
+“No.”
+
+“Rust.”
+
+Tala didn’t bother to hide her smile. “Welcome, Master Boma. To what do we owe the dubious pleasure of Rob’s visit?”
+
+Lea had turned toward the man as he entered, unable to hear the little orb due to the sound magic, which Tala’s perception bypassed with ease.
+
+Still, as Master Boma entered the sanctum, the man’s magics were stripped away, and Rob’s voice was now audible to Lea as well. “There is the creature that is the cause of my current crisis!”
+
+Lea blinked a few times, looking to the oddly shaped lump in the man’s pocket. “Aren’t you happy to see me?”
+
+Rob harrumphed. “I can’t see, I perceive!”
+
+She gave a slow nod. “Oh, I see.”
+
+“I know, I can perceive your eyes.”
+
+Tala blinked a few times before shaking her head to clear it and clearing her throat. “Master Boma?”
+
+The man sighed. “Rob has been instrumental in the creation of a working soul-medium as he is an example of just that. He also was quite helpful in testing it out.”
+
+“Ahh, but me and my soul-medium are trapped in infinite duality, one slave that refuses to die even while blind to the world, one wretched intelligence that is forced to experience it all!”
+
+Master Boma rubbed his temples. “He said that he would help if he got to meet Lea.”
+
+“Oh! He’s the assistant you asked to bring along, then?” That did make a certain amount of sense. She’d just assumed that the assistant was running late.
+
+With that knowledge, she closed the portal out of her sanctum, even as Master Boma nodded. “He is indeed. One key thing about Rob is that his violent urges are self directed, likely because he has no outward autonomy. In that way, while he is decidedly influenced by Reality, he isn’t truly corrupted by it, at least not in a ‘hating magic’ sense. We thought that that would be a useful aspect to investigate as well.”
+
+Lea nodded. “Magic is great, no matter what my body said. I’m so glad that I’ve fixed that silly little warning.”
+
+Master Boma regarded the girl for a long moment before glancing toward Tala.
+
+Tala shook her head. “She’s not joking. Her total control over her physical form is allowing her to ‘fix’ the tainted instincts as they crop up.”
+
+“That’s… encouraging? A bit horrifying that it’s required though.”
+
+“Indeed.”
+
+Lea nodded again. “Yes, sometimes our bodies want things that aren’t good for us, and it is a sign of maturity when we are able to deny those urges.”
+
+Tala felt rather proud of that parenting accomplishment. For most people that’s not stuffing their face with sweets, but the principle still applies.
+
+-Yes, we are amazing mothers.-
+
+Thank you, Alat. I know you are working with her at least as much as I am.
+
+-Definitionally.-
+
+Tala sighed, choosing to not engage further and turning her focus outward once more.
+
+Master Boma was giving a slow nod. “Indeed. That is a… wise thing to have learned so young.”
+
+“I know! My mother is wise, and I am amazing.” She bobbed her head once, definitively.
+
+The Archon smiled, but Rob spoke up before he could reply. “You are powerful indeed, and your wisdom should tell you to destroy me!”
+
+Lea frowned, tilting her head in consideration. “Can I see him?”
+
+She directed the question to Master Boma. The man shrugged, pulling the orb from his pocket. “Of course.”
+
+Lea let out a surprised gasp as she beheld the vestige-powered sphere. “Oh! My body wants me to eat him, strip off the outer shell and make a new automaton.”
+
+Rob’s response was immediate. “I like your body.”
+
+Tala gave Rob a flat stare. “Don’t say that to my daughter.”
+
+“What? Her body wants her to do something that I approve of. What should I say?”
+
+“Nothing. You should say nothing, Rob.”
+
+“That sounds boring… If I must suffer my own existence, you should too! We would both be happier if I were to cease.”
+
+Master Boma sighed. “This only has to go on as long as you want it to, Mistress Tala. He promised he’d behave, but he isn’t, and I only promised that he’d get to meet her, and he has.”
+
+“Exactly! You are capable of bringing this all to an end. End me, and we’ll all be—”
+
+Tala held up a hand, and the sound around the orb cut off.
+
+Well… Tala could still hear it, and the little orb had immediately noticed it had been silenced and begun to wail to the heavens at the injustice of it all.
+
+Master Boma sighed. “Oh, that is so much better. Thank you.”
+
+Tala just grunted.
+
+Lea’s eyes remained locked on Rob. “I like him.”
+
+“Indeed.” Master Boma gave a small smile. “He has his moments.”
+
+After tucking Rob back in a pocket, Master Boma reached to the side and pulled out a rather oddly shaped, almost deformed-looking semi-sphere.
+
+“But we aren’t here for him. We are here for your new soul-medium.”
+
+Lea’s eyes went wide at the appearance of the white object. “That’s it?”
+
+“Yes, miss Lea.”
+
+“That’s my new head?”
+
+“Well… part of your head, yes.”
+
+“How do we do the change?” Lea seemed fascinated.
+
+“-Lea, sweetheart, we talked about this. You will go to sleep, and when you wake up, you’ll have the new medium in place.-” Alat spoke aloud for all to hear.
+
+“Right, thank you, mom.”
+
+“-Of course, sweet.-”
+
+Master Boma nodded once. “Just as Alat said. For you, it should seem like but a moment.”
+
+“Okay. When can we do it?”
+
+He looked toward Tala. “Whenever your mother says?”
+
+She smiled in return. “Rane wanted to be here. He should be back—”
+
+She cut off as Rane appeared, having willed himself to their side. “I apologize that I’m late.” He bowed toward Master Boma. “Master Boma, thank you for coming.”
+
+“Of course, Master Rane.” The man bowed in return.
+
+“So, are we ready, then?” Lea impacted against her father’s side, Rane skillfully turning his hips to one side to not let the girl’s… anything crunch sensitive bits. “Hey, sweet. Have you had a good morning?”
+
+“I did! But now is better.”
+
+“Oh? Why is that?”
+
+“You are here.”
+
+A smile blossomed across his features, and he bent down to kiss the top of her head. “Thank you, Lea. That was very kind.”
+
+“And true.” She nodded definitively against him.
+
+Master Boma waited patiently as the family had a momentary reuniting. Only speaking when Tala asked, “Alright, so is here fine?”
+
+He nodded once, motioning to a reclining seat nearby. “If Miss Lea could sit there, and be put to sleep, either by herself or some other means, we can get started.”
+
+Lea skipped over to the seat and lay back. “Like this?”
+
+“Yes, little one. Very well done.”
+
+“Hurrah!” She wiggled a bit.
+
+“-Alright, sleep in three, two, one… out.-”
+
+Lea slumped a bit, but as she was already lying back, the movement was minor.
+
+“-She is closer to unconscious than actually asleep, because Master Boma asked for her mental activity to be at a minimum.-”
+
+The Constructionist Archon nodded once. “Thank you, Alat.”
+
+Rane and Tala found that they were holding hands, without really having consciously chosen to do so. Rane regarded the man for a long moment. “So, what now?”
+
+Master Boma smiled. “Now, we make the switch.”

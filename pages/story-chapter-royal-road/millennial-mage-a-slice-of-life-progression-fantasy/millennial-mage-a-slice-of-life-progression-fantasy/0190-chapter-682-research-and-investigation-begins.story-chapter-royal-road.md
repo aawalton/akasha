@@ -1,0 +1,181 @@
+---
+id: c8907706-4f80-53b8-9856-8c34d2701025
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 682 - Research and Investigation Begins"
+slug: 0190-chapter-682-research-and-investigation-begins
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 190
+ownLength: 2773
+unit: words
+ownProgress: 2773
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3146922/chapter-682-research-and-investigation-begins"
+royalRoadId: "3146922"
+markedReadAt: "2026-06-29T19:41:09.230Z"
+---
+
+Tala woke early the next morning, ready for the chaos she knew would punctuate the coming day.
+
+Rane hadn’t slept the night before, instead taking the time to explore the world-fragment. Tala envied him a bit, but she didn’t begrudge his exploration.
+
+She willed herself to within the House of Blood’s hold—skipping breakfast for once—and quickly found a servant to ask for directions. As it turned out, the main entry hall had been altered for her purposes, and so Tala made her way there.
+
+Within Ironhold, Tala could already see merchants lining up with carts of various kinds, ready to make their way out. There were just as many groups of people on foot, desiring to explore the arcane city. Though whether it was for business or pleasure in any given case, Tala didn’t know.
+
+Each person was clutching a simple paper that Lyn had put together with rules and tips for being in the city—advised by Alat and Tala of course, given she’d never been in an arcane city herself—clear excitement and trepidation warring across their features.
+
+No Talons would be venturing forth for the moment, but the House of Blood had kindly agreed to provide guards and guides for the citizens of Ironhold for their ventures into the city.
+
+The gateless humans were both defacto citizens of the Cycling Cities to the north—a growing ally of the House of Blood—and under the direct protection of the Eskau of War of their House. The assignment of guards in that light just made sense.
+
+Tala arrived at the large entry hall to the House of Blood’s hold in Croi, finding groups of guards ready and awaiting their charges.
+
+There were also several groups of arcanes who were clearly not from the House of Blood, looking about expectantly, attended by House of Blood servants as they waited.
+
+Tala turned to the prepared spaces and opened two portals, one to Ironhold and one… one into her sanctum.
+
+The Ironhold entrance was exactly as large as the exit from the House of Blood’s hold for ease sake, and as that one opened, the first merchant—with his assistants—pulled his cart through, looking around, an eager light in the man’s eyes.
+
+A group of three House of Blood guards walked up to him, gaining his attention and drawing him forward as they introduced themselves.
+
+More followed from both sides, the guards always acting to keep the procession moving as they engaged with their charge that day.
+
+The whole process continued rather seamlessly, the mere fact helping to relieve some of Tala’s stress.
+
+She knew that there would be at least some difficulty in the city, but that was to be expected, and the guards would mitigate that. There would be enough trade to have a sizable positive impact on Croi, so long as the local powers-that-be handled the one-time trade appropriately, and as such, the city guards should have vested interest in helping her people as well.
+
+They had communicated with Croi officials, so word should have trickled down by this point.
+
+In all honesty, this first outting could likely have been arranged in Platoiri, but if there was going to be a one time benefit to a city, she’d rather it go to Croi than Platoiri. Platoiri would get plenty of positives as more consistent trade was established with the Cycling Cities and Wandering Plains, so it shouldn’t be seen as a slight, at least not a major one.
+
+After all, if the moving cities no longer had to be concerned about their gated being snatched, they’d be more inclined—likely even eager—to trade, and Platoiri was well positioned to be a primary point of contact for those interactions.
+
+But all that was just in regard—at least ancillarily—with the larger portal. The smaller, person-sized entrance was created near the non-House of Blood arcanes, and they all oriented on it immediately.
+
+As she opened and maintained the entrance, Tala restrained even the impression of power from leaking out, keeping that secret from the wider populace for the moment.
+
+Thankfully, none of the waiting experts rushed through, allowing Adril and Brandon to come from the other side and begin greetings.
+
+Their assistants waited on the other side, along with the potentially more problematic people who would be aiding in the research of so many topics.
+
+Formal greetings were exchanged as Tala approached, those only pausing for all nearby to genuflect toward the Eskau of War.
+
+Once the formalities were out of the way, one arcane—a man who seemed to be a mix of black and red hue-folk by his mottled skin—stepped forward. “Eskau Tala. Thank you for seeking our assistance in whatever these mysterious projects are.” He gave a smile, looking around at his fellows. “I will admit, you have piqued my curiosity with the spread of knowledge you have gathered here, but before we begin, we were offered meditation chambers for advancement as payment for our work. May we inspect them before we continue? We do not doubt your honor, of course, but I think we would all appreciate understanding the payment before work begins.”
+
+There were nods of general agreement, causing Tala to give a small smile. “That stands to reason, and that will be our first stop. However, as you can imagine, the exact nature of such is a rather closely guarded secret. Once you proceed from here, you will be kept in seclusion for the term of your contract, as previously discussed and agreed to. This is the final time for you to turn back.”
+
+That got less enthusiastic mutters, before the self-designated spokesperson responded. “So, that was genuine? Three years with no outside contact?”
+
+Tala shook her head. “No. Three years with no departure. You will be allowed to send messages, but we will screen them for security purposes. Once you cross the threshold, you will not be permitted to leave for that time.”
+
+A small blue hue-folk woman grimaced and raised an objection. “What if we decide that we don’t wish to continue working? Are we to be your slaves?”
+
+“Not at all. You will be given comfortable—not opulent or grand—accomodations and kept so outfitted for the remainder of the time. The same will happen to any who proves unfit for the task or tries to undermine the effort in any way. Though, in the latter case, their accommodations will be less comfortable.”
+
+There were a few more questions and clarifications, and in the end three arcanes bowed and took their leave, unwilling to take the final step.
+
+Finally, however, twenty-two agreed to proceed, and they followed Adril and Bradon back through the portal.
+
+This was only the first group, and honestly it was about twice as many as she’d expected this first day. They’d invited near to three hundred experts in various fields to join them in their projects in the coming years. Only about a hundred had accepted, and Tala expected at least a few to turn back at the last, all told. The three who’d left this group were indication she was likely right on that count.
+
+As the arcanes entered her sanctum, Tala brought up the rear mostly as an obvious show that running wouldn’t work. It was purely symbolic, of course. Once they stepped through, they couldn’t leave whether she was in their way or not.
+
+Given that the most advanced was Honored, and after voluntarily submitting to her authority so overtly? They would have no hope of opposing her within her own separate space, not even to escape, at least so long as she kept up her side of their agreements.
+
+As they stepped through into the thick power maintained within the sanctum, their responses were universal, even if the manifestation of those responses was quite varied.
+
+Every one of the experts went through shock, doubt, and incredulity, before finally settling on baffled acceptance.
+
+Some sent out their will or other senses, seeking a trick. Others tried to absorb the Revered level power. One white hue-folk man actually fainted as he came to full understanding and true acceptance.
+
+Thankfully, all of this happened far enough in that it didn’t slow the entrance of those behind them.
+
+The resulting tumult of questions was a bit irritating until a fox-kin used their granted authority to simply cut off all sound from the group for a moment.
+
+That was the second thing that Tala expected to cause waves. As such, she closed the portal before anyone outside got the chance to catch too much of a glance inside.
+
+The momentary total silence caused the gathered arcanes to glance around in confusion, and during that inspection, they saw Lisa and the five other fox-kin whom Lyn and Lisa had recommended for these projects.
+
+The arcanes were clearly… something about the revelation, but as they were still silenced, it didn’t amount to much.
+
+Some tried to manifest magics of various kinds, which Alat dispersed, leaving the arcane in question with less power and little else to show for their efforts.
+
+Finally, all the experts—including the one who had fainted—seemed to have come to realize that they weren’t going to be able to say or do anything of consequence at the moment, turning to regard Tala expectantly, no small amount of potential hostility in evidence.
+
+She gave a nod, and released the silence from around them. “First, know that such a restriction can easily be imposed again and maintained indefinitely. Moreover, it can be done so you sound normal to yourself, but everyone else is spared your nattering. Don’t make us do that. Second, yes, that is real power in the air. That is, in fact, your payment, or at least access to it will be your payment once work begins. You will shortly be granted access to magic of a density equal to your advancement level for your unrestricted use with the sole exception that you will not be able to use it to advance.”
+
+That got shocked—and even a few furious—looks, prompting Tala to raise her hand to forestall them.
+
+“That restriction will be lifted based upon your participation, exactly as the contracts indicated. This power is your payment, not your right, and that means it will come to you only when you have earned it. Using power at your current advancement is required for your work, and so that will be possible… now.”
+
+She effortlessly altered her hold on her power to allow each of these arcanes access to the proper amount of power. The result brought a smile to her face as she felt little fluctuations as most of the experts tested her words.
+
+“Now, no violence of any kind will be tolerated.” She gave a meaningful glance at the woman who had tried to force a nearby tree to attack the fox-kin. “The humans and fox-kin whom you see are to be your colleagues in your various projects over the next three years and, we hope, for years longer than that.” Before any more objections could be raised, Tala pointed to a massive spread of food off to one side. “And that is your food. Eat, talk, get to know one another.”
+
+Many, many askance glances were sent toward the fox-kin, causing Tala to sigh.
+
+“The fox-kin have sworn off making any lasting deal for the term of their work with you all.” She looked toward the fox-kin as if to emphasize their side of things. “Lasting deals are any that endure longer than a day or whose consequences or results endure so.”
+
+That got six simple nods of agreement and understanding.
+
+“So, go, eat, get to know one another. Most of your projects will have some overlap, and even where the projects don’t overlap, it is possible that cross-talk and collaboration could aid in the process.” She smiled. “Believe it or not, we seek to change the face of this continent. If we succeed, everyone will benefit for generations to come.” She nodded once. “Let’s keep that in mind.”
+
+The arcanes slowly moved toward the food, humans and fox-kin moving forward to engage with them on the way, joining them for the meal.
+
+Huh… I really don’t see the fox-kin as arcanes, do I?
+
+-For some reason, you really don’t.-
+
+Fascinating. Regardless, she had things to be about. Others would take it from here, and Alat would convey anything of interest that occurred.
+
+She was a bit sad that a part of her sanctum would be ‘lost’ as they’d moved a residential block from the previously elven hold to the extreme west of the sanctum for use by these researchers and experts.
+
+Still, none of her favorite spots had been there, and honestly, she hadn’t been to the displaced grove of trees in a long time.
+
+She’d altered some aspects of the sanctum so that none of the temporary residents could reach the central hill—they’d actually have a hard time even noticing it—but that was the only concession she’d made to maintaining the privacy and sanctity of her home.
+
+Still, she was excited to be drastically increasing the minds at work on what she needed done, and that was worth the change.
+
+When possible, outsource what others can do.
+
+-Exactly. Now go. I’ve got this.-
+
+You sure?
+
+-Yup. I can even make them think you’re here if that’s truly necessary. Go, investigate the world-fragment. We need to know everything we can if we’re going to eat it.-
+
+Tala chuckled to herself, shaking her head. We’re not going to eat it… probably.
+
+-Ahh, yes. Of course not, but that ‘probably’ is what needs research.-
+
+Fine, fine. Thank you.
+
+Without further delay, Tala willed herself back into the House of Blood’s hold’s entrance.
+
+After getting the attention of a passing servant, she was informed that the world-fragment experts she’d requested would be gathering in a room deeper in, and they should be ready in the next half-hour or so, assuming they weren’t there already.
+
+Tala thanked the servant and headed that way, blessing the nature of servants to gossip and chatter about all the goings on of their House.
+
+The receiving room—more of a balcony really—had been quite intelligently chosen. As Tala stepped into it, she was happy to find that it extended beyond the rest of the complex, leaving it with three walls and an upper bound physically open, only shrouded with magics to keep inclement weather out at need.
+
+There were four arcanes waiting for her, already chatting amiably, clearly familiar with one another.
+
+One caused her to jerk in shock before her mind caught up with reality. The pitch black hue-man looked quite reminiscent to Be-thric on first inspection, but even an extra instant showed they were quite distinct. Their faces were different shapes, and this man even had white and grey in his hair. That would be Ma-a, the most senior of the world-fragment’s care-takers.
+
+Even though he looked to be in his mid-fifties with distinguished wings of white and grey in his hair on the sides of his head, she knew that he was likely one of the oldest arcanes in Croi.
+
+He’d been there when this world-fragment was first established as a hold for the House of Blood, and he had worked in maintaining and expanding it ever since.
+
+A woman with a gray, stone-like look to her too-smooth skin was clearly Pamant. She was the youngest, but just as clearly respected by how the others were interacting with her. The lack of any hair was odd to Tala, but it was seemingly a hallmark of her race, just like her stony skin and powerful physique.
+
+Erde was a large-eared beast-kin of some mouse variety. He stood about the same height as Eskau De-arg, meaning he would come up to Tala’s waist if he and she stood side by side.
+
+And the final arcane awaiting her was Jord, a gnome with the expected long, white, unadorned beard and innumerable little pouches and tools hung about his person.
+
+They’d each been enjoying a hot beverage, but upon her entrance, they all set them aside and rose from their seats, giving deep, almost horizontal bows of respect. “Eskau of War, we humbly greet thee.”
+
+Tala gave a shallow bow in return. “Caretakers of the world-fragment, I greet thee.”
+
+As they straightened, they seemed quite pleased that she’d responded as tradition dictated. The younger three turned slightly toward Ma-a, clearly deferring to their elder. “How can we serve the Eskau of War this day?”
+
+Tala grinned in return, willing a large mug of coffee into her hand and pulling up a seat. “I have a lot to ask about this wonder of a world-fragment. Shall we begin?”

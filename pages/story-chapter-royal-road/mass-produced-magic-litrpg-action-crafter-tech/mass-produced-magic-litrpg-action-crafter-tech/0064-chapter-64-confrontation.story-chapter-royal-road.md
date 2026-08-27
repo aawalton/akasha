@@ -1,0 +1,147 @@
+---
+id: a0450df8-3cb8-5c47-98b1-4d2a33561e39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64  - Confrontation"
+slug: 0064-chapter-64-confrontation
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 64
+ownLength: 1707
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2093575/chapter-64-confrontation"
+royalRoadId: "2093575"
+---
+
+Kindra staggered forward, the dwarves crowding together. Looking out at the defenders, she watched them smashing into a variety of undead.  This is not going to work.  She looked over.  “Aika. I’m going to enchant your spear, but be careful.”  She reached over and burned mana.
+
+[Basic spear has been enhanced with +5 radiant damage for 4 hours.]
+
+Aika darted off her shoulder.  “Yes!”  She zipped into the field of undead, and a wave of light set off under their feet.
+
+The group stepped forward once more. Old swords slammed onto shields. Claws and horns did the same, the dwarves on the outside grunting. Some slammed hammers through the cracks, and Kindra focused on the dying undead, ripping ribbons of mana into her while the group’s momentum ground to a halt.
+
+This is not good.  Kindra focused on the mana, pulling it to her and looking at the defenders.  I need to enchant their shields and weapons.  She stood there with a frown. The smell of blood spread through the air, and a surge of green magic hit a defender. Their wounds closed.
+
+“Thanks!” he shouted, slamming his hammer into a feline undead.
+
+Kindra felt bodies push into her. She bumped into the tight group and tugged on Sigrid’s arm.“Sigrid, let me enhance a piece of gear.”
+
+Another dwarf thrust a large hammer in front of her. Imaging the runes, she tapped the weapon and burned mana.
+
+[Basic hammer has been enhanced with +5 radiant damage for 4 hours.]
+
+The hammer swung away. “Thanks,” the dwarf called and slammed his hammer into an undead dwarf. A wave of light followed, and a corpse dropped.
+
+“Can you do it again, Kindra?” someone shouted.
+
+Kindra felt her inert pool of mana and winced. “Not yet.”
+
+“Let me know if that changes.”
+
+Kindra nodded and stepped forward with the group, inching toward the forest. A fairy blurred through the undead. A stream of light rippled outward, and some undead fell to the ground. The mana flowed toward Kindra, some splitting into the other dwarves.
+
+She pulled it toward herself and took another step forward. Another burst of green magic filled the air. Kindra spun and looked over to see a dwarf bleeding. A jagged cut across their shoulder slowly closed.
+
+When we run out of mana, we’re dead.  Kindra swallowed and stepped forward.
+
+~~~
+
+Aika flew like a hyperactive sparrow. She wove through undead legs, slashing with her spear. Little waves of light radiated with each strike, and the undead lurched. A large leg flew toward her, and she dropped.
+
+Hitting a stone on the forest floor, she leapt and slashed her spear across the canine, slashing into it repeatedly. It jerked after her, and she stabbed. As it dropped, she zipped forward to the next targets.
+
+With her spear bouncing across the bodies, she soared up and out, breaking free of the chaos and soaring into the air. A grim sight greeted her. A half-dozen defenders were covered in blood. The group had stalled, the undead swarming them like an endless stream of ants from an angry hive.
+
+A bird dove, swooping down toward her with its beak open wide. Aika dropped, shooting back down toward the ground. Landing lightly, she ran forward, scraping her blade across the legs of the undead. Mouths snapped downward. Blades swung, and she jumped around wildly.
+
+Stabbing a canine in the belly, she ripped it free, landed, and jumped backward, slashing the canine’s head on the way by. The magic rippled through it, and it dropped.
+
+Vaulting to the side, she slashed, landed, and leapt onto the back of a bear. Its body shook, and she stabbed her spear into it, running and pole vaulting off its head.
+
+Soaring toward the defenders, she frowned. Three defenders were bleeding. Kindra was enhancing a shield, and they still weren’t moving.
+
+Come on!  She frowned and dove, unleashing strike after strike. The undead didn’t care, moving over the bodies and pushing toward their quarry.
+
+~~~
+
+The sound of battle raged. Kindra looked out at the group.  Why didn’t I save mana for this?  She grimaced and heard the screech of fangs on metal. Jerking her head, she watched the metal shield crumple. It ripped from the defender’s hands, and jaws crunched around his leg.
+
+Reaching forward, she enhanced another hammer. A dwarf shoved the wounded defender free, pushing him back into the group. A surge of green magic hit him, and the wound began to close.
+
+“Kindra, reduce the time,” Sigrid whispered and held out a hammer.
+
+Kindra triggered her ability again.
+
+[Basic Hammer has been enhanced with +5 radiant damage for 1 hour.]
+
+The hammer vanished, heading out to the defenders. Light radiated around the group, and another hammer appeared. The stream of mana increased, and Kindra pulled it in, causing a ripple through her mana, granting her more energy to use.
+
+[Basic Hammer has been enhanced with +5 radiant damage for 1 hour.]
+
+She frowned and looked at the stationary group. Shields had been pulled in. Weapons hammered into the outside undead. They swarmed forward, and bursts of light radiated from four points around the circle. Another hammer appeared in front of her, and Kindra pulled in the mana before using her skill again .
+
+[Basic hammer has been enhanced with +5 radiant damage for 1 hour.]
+
+The hammer vanished, and additional waves of light magic rolled from the circle. Kindra looked back at the cliff.  Ten steps. We made it ten steps.  The trees, twenty feet away, seemed extremely far. Worse still, they were full of undead. The two dwarven kids were huddled in the middle, the young wyvern bumping nervously in Roto.
+
+Kindra pulled the mana toward her and willed the number into view.
+
+[Your mana has increased: 4605 → 4677.]
+
+She reached over and enhanced an axe with radiant damage. It quickly made its way outward. A large undead bear shoved its way through the others. It lurched onto its back feet, and a blurring Aika assaulted it, stabbing its neck repeatedly.
+
+Light burst around her, falling like strange glitter. The bear thrashed, and an axe clipped its paw. A burst of light spread through it, and Gleon stepped in, slamming it again. The bear dropped, and Kindra reached out, pulling the mana into herself.
+
+“Is she getting the mana from these?” a dwarf muttered.
+
+Kindra ignored it, pulling it inside.
+
+“Of course. She added the enhancement,” another replied. He turned. “Kindra, got enough?”
+
+“Give me thirty seconds,” Kindra said, looking at the wall of soldiers.  At least we’re holding.
+
+The ground trembled. Stones danced on the loose dirt. A few undead nearly fell over, and Kindra froze.  Shit.  She looked down at the ground. The dwarves went quiet, leaving nothing but the sound of steel and bone. The weapons clanged. Sweat dripped from the nearby defenders, and the ground trembled once more.
+
+Looking down, Kindra’s mind raced.  What do we do about this?
+
+“Druids at the ready!” Gleon bellowed, slamming his axe into an undead dwarf and sending rotting flesh flying. The putrid stench wafted by, and the ground erupted under him.
+
+The undead grub swallowed him and thrashed, slamming into the defenders like a bowling ball. Dwarves rolled, undead surged, and the smell of blood filled the air.
+
+Shit!  Kindra summoned her crossbow and grimaced.  This won’t do anything.  She turned and watched a separated dwarf get swarmed. Undead ripped into his body. His blood sprayed, and he screamed. A burst of stone tossed him back toward the group. Blood showered everyone, and a dwarf caught him. A surge of green magic filled him, and Kindra looked at the now still grub.
+
+Gleon burst out of it, sending a small flood of foul-smelling acid all over the ground. His hair was a mess, blood covered his face, and he panted heavily. “Rott’n buggers!” he bellowed, his arms red and bloody.
+
+Turning, he began slamming his axes into undead. His wounded arms slowly healed, and Kindra reached for the mana, pulling it into herself. The group stepped forward, and she enhanced another hammer.
+
+With a half-dozen weapons around her, she watched the light surge. It streamed out with each strike. The undead began to fall, and the group took another step toward the trees.
+
+Are we going to get out of here?  Kindra focused on pulling mana in.  “Aika?”
+
+Aika burst from the undead, cutting down some skeleton dwarf on her way by. She zipped into the group of dwarves and landed on Kindra. “There are undead everywhere.”
+
+Kindra looked at the forest. Hundreds of eyes looked back. The hordes of undead pushed forward, and Sigrid held out a hammer.
+
+Pulling on mana, Kindra burned the little mana on it. “Can anyone else do this?”
+
+“You need to know the sequence,” Sigrid replied, patting her on the back. “I wish we’d gotten it before.”
+
+Whoops.  Kindra blushed. “Sorry.” A spray of blood splashed across her face, and she turned to see a guard bleeding. The undead dwarf swung his sword, and Aika slammed her spear into his eye. A burst of light rippled out.
+
+Kindra stepped forward, and the smell of smoke caught her nostrils. Turning toward the city, she saw smoke.  What the hell?  Distant screams from the distant city filled the air, and the group ground to a halt again.
+
+The city’s burning, too?  Kindra swallowed as despair flashed through her.
+
+Another hammer was thrust in front of Kindra. Reaching out, she burned mana, enhancing it.
+
+Please let that help.  She waited, watching waves of light pour off the defenders who rotated their positions to follow an angry Gleon. He turned toward the city, smashed down an undead, and bellowed.
+
+A burst of energy filled the group, and they charged through the undead, smashing rotting bodies on their way.
+
+Kindra followed the group, led by a ravaging Gleon. His axe was everywhere, glowing energy filling the air as he struck.
+
+Should we be heading to the city?  Kindra swallowed and looked at Sigrid.
+
+“We have to help them. Don’t worry.” Sigrid patted her on the shoulder and stepped over a corpse.
+
+Three people have died already!  Kindra shuffled forward, pulling mana and following the charging group of dwarves.

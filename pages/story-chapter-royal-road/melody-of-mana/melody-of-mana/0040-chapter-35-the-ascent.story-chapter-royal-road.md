@@ -1,0 +1,117 @@
+---
+id: 6fa9dfee-f413-57fa-b7fd-53c2154fc524
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 The Ascent"
+slug: 0040-chapter-35-the-ascent
+partOf: melody-of-mana
+position: 40
+ownLength: 1721
+unit: words
+ownProgress: 1721
+publishedAt: 2021-08-03
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/727603/chapter-35-the-ascent"
+royalRoadId: "727603"
+markedReadAt: "2026-06-29T22:27:35.651Z"
+---
+
+Trying to make my way down the tunnel was a bit rough. I needed to heal my leg as soon as possible, since it was slowing me considerably. I was also going to have to maintain a light and start making food and water here soon. Charles had a bit, but the rest of us were right out.
+
+"Can we stop for a moment, when we find a good place?" I asked. Lief was leading, with lots of advice from Charles.
+
+"Sure, soon as we find a spot."
+
+It was perhaps fifteen minutes later when we did find something. A small section of carved out rock, it had moss and fungi growing along the walls. Some gave off a light glow. Meaning I could at least drop my light and rest a tiny bit.
+
+Charles went around, picking several off the different types. "Some of these are quite yummy. These mushrooms here go well with rat; make it a little spicy."
+
+"That's... good to know I suppose. Here, bring your water over, I'll top you off." As soon as I had the water I drank it all, then refilled it with fresh cool stuff. We passed it around after that, filling it a couple more times.
+
+"Nice trick, could have used that."
+
+"Where were you getting water anyway?" Dras set a little flame to hovering as he spoke.
+
+"Oh, there was a drip in one of the cistern's pipes. Came down onto a bit of stone that'd worn down into a bowl."
+
+"Yeah, I like the magic stuff better than the funky old cistern water." Since I was planning on running it for us until we got out I could be picky.
+
+There was a good little alcove outside the mushrooms and moss cave where we took turns relieving ourselves. I was thankful that it went back far enough that nobody could see when someone did so.
+
+A couple of hours later we found what might have at one point been remains. A few pieces of cloth, some scattered buttons and buckles, and a club. After saying a few prayers for the dead man, asking him to rest and thanking him for leaving his weapon for others Charles took the club and gave it a few swings.
+
+"Whoever he was died a good long time ago. Not as old as some of the bodies in the tomb, but old. Looks like rats got to him too."
+
+"Did you actually open the coffins!?" Lief looked scandalized.
+
+"Yes, I was hoping to find something to stop the golems. I never did, there were a few rings and the like, but I left them all alone. I've no desire to disturb the dead, nor to desecrate them for money."
+
+Lief still looked miffed, and a bit put off.
+
+"Look, there's plenty of old tombs down here. Most lacking murderous golems. And sometimes those tombs get infested with rats or other small monsters. It is a ratcatcher's job to clean those out, and all the best know the proper prayers to say before and after disturbing their graves, and not to take of the dead for financial gain. This club, I took it because I needed a weapon, not out of greed, but out of the hope that I may return home. Do you think this dead man would begrudge me that?"
+
+"Well, no, I suppose not..."
+
+"Of course not. Also I didn't, and won't go through his corpse for coins, or rings, or anything like that. Just too damn disrespectful."
+
+While I might not have had as much of an issue because of my previous life, it seemed this was a strong taboo here. Strong enough even to discourage those that had been stuck for years. Not that gold would have helped him. Either that or Charles had raided that place and just didn't tell us. Whatever the answer was, I couldn't bring myself to care too terribly much about it.
+
+"So, we don't really have anywhere to bury him..."
+
+"No, we'll leave him here." Charles looked down at the fallen man once more, and thanked him for the club again, then we passed onward.
+
+We had to rest again, this time to sleep in an old destroyed basement. I made us dinner and thought Charles would weep when he saw me make food out of thin air. He ate his portion and another, declaring how magnificent my food was. Dras and Lief both told him to chill just short of him making marriage proposals.
+
+We had nothing to sleep on save a bit of rubble. Any other time the boys might have rolled up a jacket for a pillow but it was chilly, and laying on the stone/dirt floor sucked the heat from you. I considered using my heating spell but with all the mana for healing, lighting, and food I was much lower than I'd like to be. If I used it and there was some emergency I might run out, and that was unacceptable. So I just shivered on the ground. We did keep a rotating watch, though with this many of us there were few creatures that would attack.
+
+I woke up rough. It felt like I'd aged forty years in the last three days, and had a hard time stretching my cold, sore joints. Lucky I was a child, and bounced back easily. Lief and Charles both seemed alright. I was fairly sure their damn physical magic had done something to keep them in top shape, the pricks.
+
+We kept moving, taking a few more breaks. It was clear that we were moving up at least. Every now and then we'd find a ladder or slope that led upwards, and we'd cheer. Sometimes though our paths seemed to lead us down. Some amount of backtracking was needed. All of the tunnels so far seemed lifeless and uninhabited, save for the occasional giant rat or slime, which we avoided.
+
+We might have been healthy, but all of us were a bit frayed, save Charles. He was practically giddy. We were caked in sweat, blood, and dirt, barely functional clothing, and confusion from the constant change of direction. I wondered what I looked like, before I looked at the current state of my clothing, then I dreaded what I might see in a mirror, had I had one.
+
+We had to rest again before continuing and as I went to lay down after my watch Lief offered me his outer coat. I blinked a bit, it was an extraordinarily nice piece, even ruined.
+
+"You looked horridly cold last night. I'll get it back later."
+
+"Are you sure?"
+
+"It is the duty of the higher classes to protect those lower than themselves."
+
+I stared at hearing that, causing Lief to quirk an eyebrow at me.
+
+"What?"
+
+"That has most decidedly not been my experience with the nobility."
+
+"That... pains me to hear, but some have allowed their power to overtake their sense of duty. I hope nothing too bad happened?"
+
+"I don't really care to talk about it." He nodded as I told him that, looking quite concerned.
+
+I thanked him for his kindness and curled up to rest again, deep in thought about how this young man was so very different from other members of the nobility I'd known. It was still bloody cold, but the extra layer really did help, and I wasn't nearly as exhausted the next morning. I returned the nobleman's coat as Dras frowned a bit at the exchange.
+
+"So, anyone got any ideas on how deep we are? Or how long till we make it back to the surface?" I asked the boys.
+
+"Well," began Charles, "we can't be too much further from the surface, two or three layers if we're lucky. Only issue is finding the way up and out. I don't know any of these tunnels. It's been years since I really got a chance to be in the ones near the surface, but I used to know the ones in town pretty well down to two. So I think we're still below that."
+
+As we kept moving we eventually came to another ladder leading up. It brought us into a small little tunnel, after some squeezing and another rip to my dress, we made it into a larger bit. After a few rooms Charles looked around a bit, leading us on a different path and nodding to himself. Only a few minutes later we came to a big round room, with a small drainage hole in the middle, he gave a big smile and looked around at us.
+
+"I know this place. We're close to the surface, follow me."
+
+He hurriedly moved along tunnels, going this way and that. We all struggled a bit to keep up as he came to another ladder leading upwards. Charles' grin was huge as he looked up to the tunnel above us, one hand on a rung. As he looked like he had something to say I heard voices drift down from up above.
+
+"Anyone find the brat's body yet?"
+
+"No, not yet, but we kinda know where he went."
+
+"What do you mean kinda?"
+
+"Some pipe, had to go find someone small enough to fit in after him. That guy didn't come back so we think he ended up monster food. Boss says no body no proof though, so until we find him..."
+
+"Can't we send someone to, ya know, kaboom whatever's down there?"
+
+"Used all those in the fighting, won't get more for a few weeks at least."
+
+"That's a shame."
+
+I turned to see Lief beginning to draw his sword. His face looked like a mask of rage. I looked over at him, making a calming gesture, then towards Charles. I held up two fingers with a questioning look. He listened for a few more moments before shaking his head, holding up three.
+
+We took another few moments to decide on a basic plan, shared through gestures and a few mouthed words. That done Charles led the way, with Lief right on his heels. I didn't know who these guys were, or what they were about, but they had tried to kill me. With that in mind I could wait to get answers to my questions until after we'd beaten them into the dust.

@@ -1,0 +1,195 @@
+---
+id: d9dee1aa-1178-5979-b4a2-17d8ee72704f
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 58 - Hotaru no Hikari"
+slug: 0102-chapter-58-hotaru-no-hikari
+partOf: metaworld-hopecore
+position: 102
+ownLength: 2348
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3503753/chapter-58-hotaru-no-hikari"
+royalRoadId: "3503753"
+---
+
+"So we beat on, boats against the current, borne back ceaselessly into the past."
+
+F. Scott FitzgeraldThe Great Gatsby
+
+December 26.
+
+Despite the lack of Boxing Day, the day after Christmas brought window shoppers and customers alike onto Fifth Avenue to work off overlarge dinners.
+
+Eppie dressed and ate breakfast in her room because her adopted father had said he would show her around the city and set a few things straight before she returned to LA for six months.
+
+Curon arrived at her door at 9 AM with the sweetest Caramel Latte she had ever tasted.
+
+She drank it anyway, because she could only imagine the looks the man received, having to squeeze his Lincoln Continental through the drive-through. Kiritani-san had gone somewhere with Juliana, likely relating to his citizenship issues. As an institutional figure, Eppie figured Vaughan would tap the JACL, her contacts at the State Department, or perhaps the administration itself. Ironically, a man who would absolutely Stan for Kiritani was still doing a local tour called “Stand for Change.” Without the galvanising power of Bush’s war and the incoming financial bloodbath that is the GFC, the junior Senator from Illinois was still an unknown to the rest of America.
+
+In deep thought, she followed her adopted father, once more wearing head-to-toe brands, mismatched with an effort that bordered on fashion irony, then snapped back to reality when they entered the iconic lobby of Saks on Fifth. Her old haunt.
+
+At 10 AM on the 26th, Saks was best described as a shit show. The returns queue stretched past the ground-floor cosmetics counters. The length of the line was a metaphor for the duality of the American shopper, both overly generous and overly reliant on credit debt. The impeccably dressed sales staff moved with the efficiency of automatons, stuck in the singular setting of holiday cheer. It was only through their unmoving eyes, lit by the shards of winter light from the Fifth, that a manic shopper may perceive the desolated soul inhabiting their over-caffeinated brains.
+
+They arrived on the sixth floor. The ladies’ off-the-shelf boutiques.
+
+“Are you serious?” she questioned Curon’s judgment. After all, she wore the same thing as yesterday, only steamed clean and ironed by the hotel on Sony’s dime. “I thought we were going to tour the museums.”
+
+“Well,” Curon lowered his Ray-Bans. “It irks me that you’re representing Sony in LAPA and most of your clothes are trash.”
+
+“Seriously, though,” Eppie said. “I don’t need anything.”
+
+What if a Maxmara costs Causality? She protested. “I swear on my life.”
+
+“No, no,” Curon was already moving. “You need everything.”
+
+Evidently, the sales staff either knew Curon or recognised the sheer amount of “cash” he was wearing. Thus aided by… Sak’s elves, Sony’s Creative Director roved through the section like a madman on a mission until—
+
+“Frederick Curon!” Eppie’s tone grew stern.
+
+Curon visibly shuddered. The last time someone had used his full name…
+
+The sales clerk also stopped. She saw their eyes move, with withheld judgement, from Curon to herself, then back to Curon, realisation dawning with each item of clothing they held.
+
+Sugar daddy? Their eyes said. With a capital S. The other clerk nodded with solemnity.
+
+Your secret is safe with us, milord. They nodded together at Curon.
+
+“Dad,” Eppie’s internal shame-meter said fuck it, we ball. “That’s a Loro Piana.”
+
+“So?” Curon smirked. “Clerk, how much?”
+
+“$599, Sir.”
+
+“See? It’s not even the tailored version,” Curon said smugly. “How much are those?”
+
+“The atelier collectables start around $8999, Sir.”
+
+Curon swallowed his next words. He stared at the clerk suspiciously. Their faces were completely impassive, signalling that it was not a joke.
+
+“See?” Curon’s voice lost some of its arrogance. “Not… not so bad? We’ll take two… of the shelf ones. Cream and navy.”
+
+“I’ve got jackets,” Eppie made a final, futile attempt.
+
+“You're going back to LAPA in a week. You have rehearsals. You need to look like someone who has written a No.1.”
+
+The clerks shared this new information among themselves.
+
+“You almost froze to death on Christmas Eve,” Her father finally revealed the reason for his investment. “Gerald told me you looked like an icicle when you came in. He said you were channelling Hans Christian Andersen.”
+
+Eppie gave up.
+
+“You're impossible,” she said. “What will my friends say?”
+
+“What will your mum say?” Curon lied with a nonchalance that made her wince. “If you went back to LA wearing K-Mart clothes? You want to make me look bad?”
+
+The clerks gave one another a brief expression of enlightened wonder. The plot thickens! Damn, this is better than daytime television!
+
+They shopped.
+
+They ate lunch somewhere inexpensive.
+
+They shopped some more.
+
+Then finally, with one eye on her [Causality] gauge, they arrived at The Cube.
+
+Job’s personally designed Apple Store sat in a sunken plaza at 59th and Fifth, in front of the GM Building. Thirty-two feet on each side, entirely transparent—ninety panes of patented glass, each held by minimal steel joints. No frame visible. No branding visible. Just a glass box sitting in the plaza, lit from within at night so it glows against the limestone and the dark.
+
+“Don’t fight me here,” the Director did, in fact, know the store manager, who personally came to greet them.
+
+“Mr Curon, I have your order ready.”
+
+“Order?” Eppie felt her [System] tremble.
+
+“Just a few things. This one’s on corporate.”
+
+Her [System] halted its eruption. Apparently, the [System] was hot-linked to her personal income statement at the IRS.
+
+After an inventory check, they walked out empty-handed. Unless she wanted to reveal her [Strength] of 20 here in the Apple Store, there was no way they were leaving with a MacBook Pro, an iMac 24-inch, a pair of Sennheisers and an iPod classic.
+
+Everything would be sent back to Sony, where they would be bundled as a care package to arrive at her dorm and room come January.
+
+When they arrived back at the Four Seasons, Eppie felt physically and spiritually exhausted. When she wasn’t spending her own hard-earned money, there was no euphoria, only the stress that came with knowing she owed someone something, even if it wasn’t material.
+
+For dinner, they ate at the hotel buffet, talking about the state of pop music, the good old days of rock and roll, and the worrying future of RnB as the genre dived head-first into full-blown corporate enshittification.
+
+December 27
+
+Curon had a working luncheon with Kellie Noah and dragged Eppie along to make up for Lucia Lancet ruining their last meeting.
+
+The Sony Director took them to a rib place on Ninth Avenue—his haunt, the kind he’d been frequenting since Relish Girls went triple platinum. The tables were red vinyl. The vibe was retro, and of course, Umbrella played while they chit-chatted.
+
+The song was finally moving down from No.1. Universal had a rap duo that released a song called “High,” which zoomed through the charts uncontested, hitting No.1 on the 26th.
+
+For Eppie, the rankings really didn’t matter. Given enough [Causality], she really could throw out as many hits as she needed, so long as she had enough life left to reap the longitudinal rewards.
+
+What mattered to Eppie was the fact that Kellie Noah had brought her boyfriend.
+
+Unlike the Southeast Asian market, it was completely normal for female artists in the West to “love freely”. The performativity was, in fact, encouraged. What disturbed her was that, finally seeing this boyfriend in the flesh, she couldn’t help but be reminded of the specific karma attached to the original singer of Umbrella.
+
+The boyfriend introduced himself as Kel G. He was eighteen and had six hits in the last four years, each reaching the single digits. He did not introduce his real name to either Curon or herself, then tried to assert himself by sitting in a way that made the seating arrangement uncomfortable for Eppie. He shook Curon’s hand with both hands, but gave her a low five when she tried the same. Despite all this, he was undeniably a cool cat. Beneath his jacket, he wore wife beaters that gave serious Stanley vibes from A Streetcar Named Desire.
+
+Kellie, on the other hand, was something else. For once, she was out of costume, and she was… in Eppie’s eyes, far more gorgeous. Seeing Kellie in a plain blouse, low-rider jeans, and a mini-jacket, she finally realised why Kellie’s normal demeanour was so demure.
+
+The pumped-up, pushed-up, mid-riff-baring pop-sensation in four-inch pumps was, in actual life, a librarian! She was short-sighted! Kellie wore horn-rimmed glasses, for god’s sake.
+
+Curon ordered far too many ribs. Kellie ate a few fingers, her boyfriend tanked a slab, Curon ate his share, and Eppie meticulously worked her way through more than Kellie and Kel-G ate together.
+
+Curon and Kellie talked shop the whole time.
+
+Their primary goal was the Grammy campaign six weeks away. At this stage, it was theirs to lose. Umbrella lacked real competition, even from Lucia Lancet. Industry insiders placed it as Record of the Year, Song of the Year, and Best R&B Song. Presently, Sony’s marketing was pouring everything they could into the campaign, but there were complications. PayZEE's involvement in the opening verse demanded redress; they would be performing together on the night, but Sony wanted her to accept the award alone. As a show of solidarity, they had even arranged for Lucia to be the presenter.
+
+They also discussed the nuisance called Euphemia Fontaine at her expense. Curon was all for Euphemia to take the stage, at least to appear in the background. Davis would prefer that she doesn’t, but it wasn’t his song and he had little say in it. That was one of their chief cooperative agreements. My Production—My Award.
+
+Eppie listened with wonder. It wasn’t every day that one was a fly on the wall of an Awards campaign, listening to all the seedy politics.
+
+"That's on Kellie. She bodied that track. Writer can eat from the back." A voice, a bored one, interrupted the conversation between producer and singer.
+
+Excuse me? Eppie was caught so off guard that she almost dropped her corn.
+
+The underarm uppercut had come so suddenly that even Kellie and Curon stared at the young rap artist, smirking at Eppie.
+
+“What, you're serious?” Curon asked. Her father wasn’t happy, but he wasn’t about to blow up over a kid rapper being dense. “You don’t think she deserves to be up there?”
+
+“Jus give the little lady a little hospitality, you feel me?” He placed an arm around Kellie protectively. “What I'm saying is, on the night, Kellie's the story. Nobody's checking for the writer. Why split the spotlight?”
+
+“I want Eppie to be on stage with me,” Noah pushed on the hand around her collarbone, but was powerless to dislodge it. “I owe her so much.”
+
+“You don’t, really…” Eppie dropped the corn. She had lost her appetite.
+
+“I insist,” Noah’s eyes were very earnest.
+
+“Nah—nah—” Kel shook his head. His biceps were really impressive for an eighteen-year-old kid, even if they were crowding Kellie. “Director Davis said as much, Kellie, baby, you’re the star.”
+
+Kellie gave the boy a look with her fluttering eyes. It was cute, but the rapper wasn’t looking at his girlfriend. He was looking at Eppie, mustering his machismo like a bull…frog.
+
+Alright, let’s test the karmic waters… Eppie pulled out two wet wipes, forcibly cleaned her fingers, then summoned Lana.
+
+[Act Natural], [Intimidation] and [Charisma] fired up in tandem, conjoined in potency with the [Physicality] taught by Dr Costello. In a split-second, she was no longer a fifteen-year-old girl stuffing ribs down her gullet, but a CFO of a multi-billion-dollar company, staring imperiously at a junior employee she didn’t much fancy.
+
+“You know, Kel,” she said coldly, throwing down the dirty towels as she smacked her lips. “I don’t see how any decision of hers has anything to do with you. Kellie is a no.1 Singer, and I am a no.1 Songwriter. Who are you again?”
+
+Curon stared at her with his mouth open. For a second, probably several seconds, Kel G’s body seized up. It was the kind of primal paralysis she had seen in her employees before. People who had long suspected they would be fired for their conduct finally receiving—at the lowest point of their lives—an email from HR requesting a one-on-one Zoom meeting.
+
+She waited. Drats. No [System] pop-up. At least I am not being punished…
+
+But something did audibly pop.
+
+An invisible air of implied violence clouded Kel’s eyes, misting over the perpetual coolness the young artist exuded. There was a lot happening inside the young man’s head, and Eppie, with her theatre training, caught it all.
+
+His jaw held a density that was no longer casual. His masseter muscles—the ones that clenched and unclenched—looked like cables under his skin. His hand on the table raised a centimetre, then sat back down. His neck muscles bulged, the veins filling with blood, as if to activate some fight or flight reflex.
+
+Then, Kel smiled like a jaguar. It was the first real expression he'd shown all lunch, real in the sense that it connected to something genuine inside him, which Eppie read as the fucking audacity of this bitch.
+
+"Jus eat yo food, lil sis," he forced the words through smiling lips. "You did good. Song goes hard."
+
+“Ow,” Kellie finally brushed off the hand on her shoulder. “Why are you squeezing me?”
+
+Kel laughed, then kissed Kellie on the forehead.
+
+Curon laughed to offset the awkwardness.
+
+Eppie laughed to reset the scene.
+
+Kellie looked confused.
+
+“Sorry, killer,” Eppie held out a fist. “Loose lips sink ships, eh? Forgive me?” He gave her a bump. The atmosphere relaxed, even if Eppie did not. Should she tell Curon? Was a self-fulfilling prophecy too dangerous? She couldn’t foretell the future, but at least the guy wasn’t an [Usurper]. Hopefully, she was completely wrong, because the alternative was to play a postmodern Iago, and that character arc did not go down well for the hapless Desdemona.

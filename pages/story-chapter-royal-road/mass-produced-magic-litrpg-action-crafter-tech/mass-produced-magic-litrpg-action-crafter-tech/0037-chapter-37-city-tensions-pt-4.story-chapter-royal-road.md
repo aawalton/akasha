@@ -1,0 +1,221 @@
+---
+id: 1ab8af7c-9050-5b43-b5dc-766dbf94de0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 – City Tensions – Pt 4"
+slug: 0037-chapter-37-city-tensions-pt-4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 37
+ownLength: 2082
+unit: words
+publishedAt: 2024-12-29
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1981189/chapter-37-city-tensions-pt-4"
+royalRoadId: "1981189"
+---
+
+Ore crunched beneath the hammer. The red stone crumbled, breaking into gravel. Grinding it into dust, she slowly filled a bucket. Walking over, she grabbed charcoal and limestone.
+
+“Going to build a bloomery?” Dain asked with a smile.
+
+Kindra groaned and looked at the supplies. “Can’t I use yours?”
+
+“It’s in use. You should make one.” Dain smiled. “It’ll be good for you.”
+
+“Where do I get clay?” Kindra asked, groaning.
+
+“From the fields.” He gestured toward the fields that were arcing around the town.
+
+Kindra sighed. “Really? That’ll take a dozen loads.”
+
+“Aye.” Dain chuckled. He looked at the workshop. “You two going to stand around all day? Why not come help Kindra get some clay?”
+
+Kindra turned and smirked.
+
+“No. We need to ensure the criminal doesn’t come into contact with you,” a guard said, sighing.
+
+Kindra looked at the guard. “Please?”
+
+“No.”
+
+Shrugging, Kindra dumped the charcoal and limestone into a little pile. Dumping the bucket of ore on top of it, she burned mana, willing it into bullet casings.
+
+The entire thing lit on fire. The coal burned. Smoke billowed everywhere, and Dain turned. He raised a brow. “Really?”
+
+Kindra grinned and nodded. “Yep.”
+
+A guard poked his head out and saw the smoking mess. He laughed and nudged the other.
+
+Acting game. Got it. Kindra blushed and grabbed the cart. She pulled it forward and looked at Dain.
+
+“Dump it there.” Dain gestured to his pile of ore.
+
+Blowing hair from her face, Kindra pushed the cart over and dumped it. Maybe I should just use mana and level up. Turning, she dragged the cart back to the road.
+
+Walking back to the smoldering mess, she reached down and pulled the casings into her cache. That’s really handy. Smiling, she grabbed the cart and pulled it toward the distant gate. At least I have a skill to find clay. And he can show me how to do this.
+
+Walking down the stone streets, she ignored the looks of hatred and fear, quickly striding up to the gate.
+
+The guards turned.
+
+“Business?” one barked.
+
+“Clay for a bloomery,” Kindra replied, gesturing to the cart. The guards walked over and searched the empty cart.
+
+Spotting nothing, they waved her through. Kindra walked out of the stone walls and looked around the fields.
+
+Dwarves were scattered throughout the area, tending to the plants. Beyond them were trees and undead. They patrolled the forest, silent sentinels against anything coming from the forest.
+
+Kindra looked at the plants and burned mana, triggering Scavenger’s Sight. Ignoring almost all the text that appeared, she searched for clay and saw a pit near the forest’s edge. Great. Right next to the undead. She pulled her cart down the road, affixing the runes in her mind in mental preparation.
+
+Walking toward the trees, she waited. Two undead felines turned. Jagged cuts lined their bodies. Fur dangled off them, and a blue magic surged inside. One sniffed at her and turned back.
+
+Why? Kindra sniffed, the smell of ash hitting instantly. The smoke from the forge? Is that all it takes? She walked closer, the spell at the ready.
+
+The undead ignored her, looking out into the forest without moving. Pulling the cart off the road, she grabbed the pick from the cart. I need a shovel. Breaking off pieces of the clay, she grabbed and hauled large clumps to the cart, boredom surging through her like the heat from the distant sun.
+
+To think. We did this for thousands of years… Her thoughts drifted to a memory as she worked.
+
+~~~
+
+A seven-year-old Kindra studied the clay pot. The reddish-brown surface was smooth and a bit rough to the touch. The top tapered upward.
+
+“And why did we shape them like that?” her father asked.
+
+She shrugged and looked at it. “It’s like a fat bowling pin.” She chuckled.
+
+“Yes. That’s to help keep things inside while you are carrying it.” Her father chuckled and gestured. “Come on, try it.”
+
+Kindra walked over to the small pottery stand. Dropping a lump of clay on the spinning wheel, she prodded it. “It’s like mud.”
+
+“And that’s about to be more accurate.” Her father chuckled and gestured to the bowl of water.
+
+Dunking her hands in it, she ran her finger alongside it, trying to shape it. After several minutes and a bit of water, she looked at her creation, a dumpy-looking bowl that would likely leak if someone glared at it. She blushed. “It’s terrible.”
+
+Her father laughed. “People spent a long time practicing, but it was a staple for a very long time.” He grinned and gestured to the sink.
+
+Kindra ran to it, and water splashed onto her face.
+
+~~~
+
+Jerking out of the daydream, she felt water running down her body. She looked over and saw the reason why. Two dwarven girls were snickering. One gestured. Mana gathered around her hands. Rune flowed into view.
+
+Kindra studied the spell. Water was pulled from the air, forming a ball. It launched forward, and she stepped out of the pit. The ball splashed nearby, and she looked at the two girls, shaking her head. Some things never change. She walked to the cart, grabbed it, and hauled it toward the city.
+
+I need to visit the forest tonight, she thought. I need to finish my bullets and find hair dye somewhere. This is not going to work.
+
+She felt the draw of mana. It spread through the air, pulling water. Do I need to do something about that? A ball of water flew, and she stopped, letting it fly by her face and splash into the field.
+
+Continuing forward, she quickly walked to the gate. The guards ushered her inside without searching.
+
+Walking down the streets, she quickly returned to the forge and pulled the cart up.
+
+Sigrid walked over with a smile. “How well do you know clay?”
+
+“Not very,” Kindra admitted.
+
+“We’ll use some stone and clay to make the bloomery.” Sigrid grabbed the cart and pulled it forward, dumping a mound of clay near the other bloomery. “Normally, we’d use bricks and clay to form it, but we’ll speed that along today.”
+
+With a flourish, she gestured. Magic surged from her hands. Runes shimmered, and Kindra locked onto them, trying to memorize and decipher exactly what was happening.
+
+Stone pulled from the ground, mixing with the clay and forming a large chimney. An opening formed at the bottom, and Sigrid smiled. “There.” She turned to the guards. “Waste not, want not. Come help, gentlemen.”
+
+The guards groaned.
+
+“That’s not our job,” one muttered.
+
+“And I shall inform the mayor that you spent the day doing nothing when you know we’re behind.” Sigrid walked into the workshop and returned with a set of bellows. She placed them next to the opening, poured charcoal inside, and walked to the other bloomery.
+
+Using a pair of tongs, she grabbed a hot coal and carried it over, setting it on the others and using the bellows to spread the fire. “Come on, gentlemen.”
+
+The guards grumbled and walked up. One grabbed the bellows and started pumping. Walking to the ore, Sigrid started grinding it.
+
+Kindra walked over and did the same, pulverizing the iron ore into fine dust.
+
+Sigrid shoveled a scoop into the bloomery and added a layer of charcoal and lime.
+
+The group fell into a rhythm, slowly adding the material to the bloomery and building the heat to a high roar.
+
+Kindra worked robotically, her thoughts drifting. “Aika? What are you up to?”
+
+“We’re with Gran, expanding the tunnels over to the cliff. They’re making a new base. Oh, and those little dwarves are menaces. Avoid them at all costs!”
+
+“Why?” Kindra asked, dumping in more iron ore.
+
+“She thinks I’m a little doll. It’s terrible.”
+
+Smiling, Kindra nodded. Yeah. I could see that. Aika does look really cute.
+
+“How are things over there?” Aika asked.
+
+“We have guards that are standing here, watching us. They are looking for Gleon.”
+
+“He says, ‘no surprise.’ Did you get a chance to look at the golems?”
+
+“Yes.” Kindra studied the bloomery. “But then we got interrupted before we could figure it out. If we don’t have an intact head crystal, we’ll need one.”
+
+“Got it.”
+
+Smoke billowed from the top of the bloomery. Mixing some water with the ore, Sigrid dumped it in. Kindra added charcoal and a bit of lime. Robots can’t get here fast enough.
+
+She repeated the process, alternating with Sigrid to pump the bellows. The sun arced through the sky while the group worked. To her surprise, the guards walked over and helped with some of it.
+
+As the sun descended to the horizon, Kindra used tongs and pulled out the bloom, placing the metal on a nearby anvil.
+
+Walking back to the bloomery, she repeated it, slowly gathering the pieces while Sigrid knocked off the glass and other impurities.
+
+The guards looked at them and sighed.
+
+“Listen. We can’t have rebels. You know what happens to rebels,” one said. “Entire villages. It’s happened over and over. Even if you kill a necromancer, another takes their place, and they know exactly what happened. Don’t burn this one to the ground.”
+
+Dain turned and scoffed. “So, stay shackled here until they end our life?”
+
+“That’s the way it is, Dain. You know that. Yes, it’s terrible, but there is no stopping it.” The guard shook his head. “We failed. The dragons failed. The fae failed, and so has every rebellion. Don’t kill off more innocent people by trying again.”
+
+Dain grunted. “I know. If he comes here, we’ll report him.”
+
+“Good. We will be watching.” With that, the guard spun and walked away.
+
+Kindra frowned , her memories flickering to her dreams. “So, we need to be able to turn the tide.” She looked at Sigrid. “Mom, is it impossible?”
+
+Sigrid leaned next to her. “Yes,” she said loudly.
+
+Well. That means someone’s listening. Kindra nodded and resumed working on the ingot. She pounded on it, slowly trying to shape it while knocking off the impurities that had mixed in.
+
+Struggling to remove a piece of glass, she frowned at it and burned mana, willing a chunk into slugs. Steel slugs… My ancestors would be spinning in their graves. She willed them into storage while Sigrid and Dain took over. They shaped and knocked away ash and glass.
+
+“How are you so good at this?” Kindra asked, studying the precision movement. “Skills?”
+
+“You can get some, but practice makes perfect,” Dain said, smiling at her momentarily before turning back to the glowing ingot.
+
+“Dexterity?” Kindra probed.
+
+“Helps,” Sigrid replied. “As does strength, though you have to be careful with it.”
+
+Good to know. Kindra watched a moment more, studying their forms as they studied the metal. Pulling out a magnet, she walked around the bloomeries, gathering anything magnetic.
+
+Dumping it into a pile, she added charcoal and limestone before triggering her skill, letting the mana take care of the process.
+
+“How are you doing that?” Dain asked, walking over and studying it.
+
+“Skill upgrade. It lets me do it.”
+
+“That’s amazing,” Sigrid said with a smile, patting Kindra’s back and watching the metal.
+
+Kindra willed the slugs into her cache and smiled. “Runes?”
+
+Sigrid shook her head. “Let’s get home. They are watching.”
+
+Dain leaned closer. “And it’s not impossible. We are so close now.” He took a long breath. “We once held them for generations, and they were stronger then. This time, we end them for once and all.”
+
+Kindra nodded and followed them toward the cottage. How would they have lost if that had been the case? She pondered that mystery. They had to lose somehow. That’s what we have to stop. She turned and looked at the two dwarves. A small ray of light hit them, showing a gleam of hope in their eyes.
+
+They are betting on the golems… but how did they lose? She frowned. I need a trip to the ruins. “Aika? Up for some ruin exploration after I make some bullets?”
+
+“Yes. One second.”
+
+Kindra turned and walked down a street. Dwarves scurried inside.
+
+“Gleon wants to go, but he wants you to figure out the constructs.”
+
+“We need an intact crystal for that, but I’ll take another look first.” Kindra walked into the cottage, shutting the door behind her. She turned and looked at Sigrid. “Can we?”
+
+“In your room,” Sigrid replied with a smile.

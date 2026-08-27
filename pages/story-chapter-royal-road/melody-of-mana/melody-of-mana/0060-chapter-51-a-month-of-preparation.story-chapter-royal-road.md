@@ -1,0 +1,143 @@
+---
+id: 5366057a-89d0-53da-a22e-8d98002c0a87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 A month of preparation"
+slug: 0060-chapter-51-a-month-of-preparation
+partOf: melody-of-mana
+position: 60
+ownLength: 2079
+unit: words
+ownProgress: 2079
+publishedAt: 2021-10-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/765421/chapter-51-a-month-of-preparation"
+royalRoadId: "765421"
+markedReadAt: "2026-06-29T22:28:15.770Z"
+---
+
+The day after the ball Jackson woke me up by pounding on my door. We'd basically gotten back to the tavern, coming in through the back door, and crashed. My rented dress was put to the side, since it was supposed to be returned later this afternoon. It wouldn't be a bad trip and I had the day off anyway.
+
+I yanked open the wooden door with all the viciousness that a thirteen year old could muster. Someone awakening me so early on a day otherwise reserved for rest and relaxation was likely to get screamed at.
+
+"What did you do!"
+
+"What?"
+
+"WHAT DID YOU DO!"
+
+"Jackson it's way too damn early for riddles."
+
+He waved a folded bit of parchment in front of me angrily. "It is also too damn early for me to be getting invitations to a noble's house for the both of us. Now, what did you do!?"
+
+"Lord Johannes' son asked me if I was coming to their ball. I suppose he sent them upon learning I hadn't been invited." I tactfully left out the part where I'd told him I hadn't been invited.
+
+"Which son?"
+
+"Dietrich? The older one."
+
+"Did he say anything else of note? Invite you to do or go anywhere else?"
+
+"He suggested we have breakfast some time. I don't know what that has to do with anything though. I was non-committal as you told me to be."
+
+Lucien had appeared by this time, and I considered it rather fortunate that we were currently the only people staying here. A guest having a shout at one of the workers early in the morning would look bad.
+
+"What's all this about then?" The old man asked as he came over toward us.
+
+"Some noble's son is trying to court Alana, and it seems she's TOO DENSE to realize it."
+
+"He invited me to a public party and breakfast. It's not like that's a big deal or anything."
+
+At this point Jackson actually bonked me on the head with a closed fist. "He invited you to his house and on a date. The second of which you at least didn't say yes to."
+
+"How is breakfast a date? Shouldn't that be dinner?"
+
+"What kind of an idiot would invite a girl to dinner as a date? She's just going to go home and sleep. Isn't it better to wow her in the morning and have her thinking about it all day?" I had apparently missed some cultural stuff here, constantly forgetting that some things were just going to be weird. "And how are you going to attend a ball hosted by a noble family Alana? You're going to need to be far more dressed up than you were for our little job last night."
+
+Lucien looked like he had a headache. Jackson had a vein pulsing just above one eyebrow.
+
+"Let me see the dress you rented." The older man finally declared.
+
+I went and got it, it had been hung up and I was fairly sure that it was nice enough.
+
+"This will do, but you will need at least a necklace, hair decoration and a bracelet to go along with it, all of good quality. Take this back to Marcus and speak with him on the subject."
+
+"How long do we have to deal with this?" I hesitantly asked.
+
+"About a month." Jackson looked down at the invitations, handing me mine.
+
+"You'll need to go today to start getting her ready. Alana, do you have more of that sugar?"
+
+"Erm, yes?"
+
+"Good, take it to market and sell the lot. You're going to need the money to pay for this mess."
+
+"I mean, I could just not go..."
+
+"No, no you can't just not go. It will lead to some absolutely unacceptable social repercussions for me." Jackson was more than a bit irritated.
+
+"Alright, you two need to go and take care of this as much as you can today. Lad, since you're the one who took her there when she had no clue you can take her to the market today and back up to Marcus' to talk with him. You know him better anyway. See what you two can do about accessories for her too, so she doesn't look awful."
+
+Jackson was pissed, but went along with it, packing up our clothes in cloth bags and leading me off. Our first stop was the market so I could sell the sweet sugar I'd amassed over the past bit. I hated to see it go but I really needed the funds. The price that I got was excellent, as it was more than most people could get and of higher quality. My familiarity with pure crystal sugar from Earth had really paid off.
+
+After that we returned to Marcus' Fashion, the proprietor met us as we came in.
+
+"So, how did everything go?" He asked as he handed over the clothing.
+
+"The girl went and got herself invited to a noble's ball, any advice?"
+
+"Don't do that." The tailor answered quickly with a smirk.
+
+"Any real advice?" I chimed in.
+
+"You can get some decent jewelery from a place down the road for a reasonable price. I'll keep the dress in your size for now and you can use it again. I would go for lapis in silver if you can afford it."
+
+"And if I can't?"
+
+"Definitely something blue. It'll match both the dress and your eyes. I advise silver or something silver colored as well, for similar reasons. You could go with brass as well since it'll match your hair, but you would need a different dress."
+
+Our trip to the jeweler was spent with Jackson glaring daggers at me. He was very stressed about this whole thing and I was personally a bit tired of it. I was the one having to spend all the money to make this actually happen.
+
+We took our time looking at different sets at the store Marcus had recommended, until I found one tucked in the back corner. The necklace was a simple pendant with a few small glass beads that were a lovely blue held in a silver wire. It had a pair of bracelets as well, more dainty pieces that were almost too large in the same style. The included hair piece was not one, but a number of small pins with little blue balls on the end.
+
+The whole set looked almost like bubbles in light silver wire, or in other words, absolutely perfect. It would match the dress and myself very well, and had the added advantage of being one of the cheapest sets in the whole shop. Most people liked stones instead of glass, but in this case it went so well with my aura that there was no issue at all.
+
+When I worked it all out I was actually a bit up on money. With the sugar I sold and the pay for the previous night's job I had a hefty sum. Re-renting the dress was no small expense, though much of that was the cost of the deposit which I would get back except in disaster. The other expenses were comparatively small to what I had feared.
+
+I walked through the market with Jackson, headed home. Until that is I was distracted by a flutist standing beside a small cart. It appeared he was advertising the pieces the man who owned said cart was trying to sell.
+
+"Hey Jackson, I've been thinking I need a hobby."
+
+"Can you even play a flute? Anyway, for the next month you need to focus on learning every dance I can force into your head."
+
+"Oh come on, you can't tell me you've never made flash decisions. As for playing, let's find out."
+
+I watched the player for a bit, looking at his fingers. My first set of parents had decided when I was still in elementary school that I needed to learn an instrument. Pianos were large and expensive, and a violin was not only expensive it tended to sound like someone was skinning a cat when played wrong. They had settled on the recorder as the safe option to force me to learn, the poor fools.
+
+What had followed was a couple of years of pain for the entire house, though I did learn. Eventually I traded it out for an ocarina, and a concert flute at school. I'd not had a replacement ocarina since coming to this world and I knew their making was a bit difficult, the holes had to be just right.
+
+These flutes on the other hand seemed to be set up almost exactly like a recorder, and I was pretty sure I remembered enough to make it work. So I walked over to the merchant.
+
+"How much?" I leaned over a few of his pieces, pointing out one that looked a bit more reddish than the others he had laid out.
+
+"Two silver each. I've got three sizes."
+
+"May I?" I asked, it would be impolite to not at least request permission, and might get me in more than a bit of trouble.
+
+"Go on." The man nodded.
+
+I picked up one of them, the reddish one that I liked and played through a scale. It was pitched in D if I still had any ear for that, and made quite a nice sound. The fingering was ever so slightly different, being shifted just a bit upwards, but it was easy to adjust for. I ran through one of my practice songs that I'd probably played a couple thousand times.
+
+"One and a half?" I offered to the seller.
+
+"Ya know, I've never heard that tune before. How about one and a half and you teach me that song?"
+
+"Deal."
+
+Jackson waited not so patiently as I ran through the tune with the merchant a few times, even letting his assistant come over and look. It was short, only a couple of lines, and catchy as well. As far as I knew it didn't even have a proper name, just Irish Jig. That was all that had been written in the book I had.
+
+The days that followed involved me being forced into dance lessons for a couple of hours daily after my shift. Jackson would drill me until I could do it perfectly, often using the cook as his example and assistant. Lude seemed to enjoy this to no end, smiling happily as he twirled her around the floor. After that I would spend the evenings doing some light studying and playing my flute. I wasn't nearly as good as Lucien was with the mandolin he brought out around the time I'd previously headed to bed, but I was passable.
+
+Often, after all the kitchen work for the night was done we'd be joined in the common room. It was kind of odd. I'd seen Jackson flirt, a lot, chase skirts, invite women to his room to varying degrees of success, and generally sleep around while in Istlan. Here though he seemed to actually be enjoying just talking to and sharing a laugh with a girl I think he wouldn't have given a second though to just a few years ago.
+
+For my part I wished those two the best. I'd never thought of Jackson as one to settle, either in one place or with anything close to one woman. I remembered the lines of angry fathers and husbands, the long list of one night stands, the fact that he openly admitted he'd happily knock a maid up if she just wanted that. Perhaps I was wrong though, or perhaps they could work something out, I didn't know. Lucien seemed to share my opinion, communicated through looks and nods only.
+
+The time passed both too quickly and painfully slowly, and soon enough the evening of Lord Johannes' ball had arrived. We returned to Marcus to prepare and rent a much nicer carriage (Which I was eating a bit of the cost on). He'd made a few additions to the dress to fancy it up a bit and quite approved of my choice in jewelry. His assistant again fixed up my hair as part of their service. All prepped and everything in place we were ready, or as ready as we could ever be. I was nervous, excited, and a bit exhausted as the carriage pulled us into the evening light, hoping I was ready for what came next.

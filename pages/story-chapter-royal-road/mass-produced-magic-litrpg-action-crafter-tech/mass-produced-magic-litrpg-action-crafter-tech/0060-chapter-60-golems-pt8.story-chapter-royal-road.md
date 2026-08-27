@@ -1,0 +1,143 @@
+---
+id: 22820b64-5781-596f-85f5-45d8d1f51f97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60 – Golems – Pt8"
+slug: 0060-chapter-60-golems-pt8
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 60
+ownLength: 1809
+unit: words
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2075178/chapter-60-golems-pt8"
+royalRoadId: "2075178"
+---
+
+The canopy below moved like the ocean, small waves rolling through the leaves. A trail of trees had died, their leaves turning a dark brown. Aika noted them and flew toward the source of the disruption, the line of dead trees. Leaves on one of the trees began to die, the color fading impossibly quickly. Diving between the branches, she swooped down and searched.
+
+The clean, crisp smell of the forest was replaced with something worse: the scent of rot and decay. Like dead fish that had been left in the sun, it washed over the quiet forest, building in a horrific intensity that made Aika’s stomach churn.
+
+Looking down from the branches, she saw why. A massive glob of something like a primordial ooze slimed across the forest floor. Branches, leaves, and other items were stuck in its body. It slimed to a tree and engulfed it like some strange, living parasite. The tree began to wilt. Sap poured into the ooze.
+
+It’s feeding on the forest. Aika watched as the tree’s color faded to nothing more than a dark black. The ooze burbled and headed toward the next tree, its colossal mass leaving a trail of itself behind.
+
+That is the strangest thing I’ve ever seen. Aika turned and saw a large squirrel bolt by. Why are they so scared of it? She flew into the air and watched the giant mass engulf another tree. Flying past the blob, she looked down and examined the trail. Strange lumps were sitting in the slime. She fluttered down and studied them. Are they valuable? Looking back, she watched and saw a stream of insects swarm the trail. They began feeding off the slime.
+
+Huh. That’s wild. She turned and watched the ooze engulf another tree. Tendrils reached up and burned into the tree. Is that an acid? She watched a falling leaf hit the slime. It sunk inside, decaying as it went. “Kindra, there is some slime thing over here that’s burning its way through the trees.”
+
+“Strange. I’ll ask.”
+
+“Thanks.” Aika flew high in the air, and a blast of slime shot out of the ooze. The glowing globule flew toward her, and she jerked up. Okay. That answers that. She zipped up into the branches, and the spit splattered against the leaves.
+
+The smell of smoke filled the air, and Aika flew away from the tree.
+
+“Kode says it spits slime and that he wants to know where it goes so we can gather things it drops,” Kindra whispered in her mind. “Tell us if it heads in our direction.”
+
+“Will do.” Aika flew through the branches and peered down at it. Where is it heading?
+
+She peered out of the canopy and looked down. The ooze was engulfing another tree, drinking it dry. The leaves wilted and turned gray. That’s sort of amazing.
+
+Aika watched and listened. Is it heading toward them? Looking down, she saw streams of insects running up to the slime. And is that acidic? She looked back, and a loud crack rang through the air.
+
+The ooze exploded, sending a spray of itself crashing across the forest floor. What? Aika turned toward the source of the sound. A beetle the size of a small car scurried forward, following the slime toward the ooze.
+
+Well. What did it do? Aika watched it stick its mouth into a puddle and slurp up slime. Moving forward, it repeated the process and sent out another loud click. It rang through the air like a gun, and the beetle scurried forward, its large legs following the slime.
+
+“Now there is some beetle thing.” Aika waited and watched. It ran forward, gobbling down the slime.
+
+“Kode doesn’t know what that is, but it sounds close.”
+
+“It is.”
+
+The beetle waded forward, sunk its mouth into the puddle, and the ooze pulled itself off the ground, engulfing the bug completely. A muffled crack rang through the air, and a spray of ooze blasted out, spraying trees and smoldering.
+
+The beetle charged and thrashed, pushing itself out of the opening. The ooze sealed itself off and then a bolt of fire hit it, igniting it like a fuel tank. A massive wave of heat surged through the area. Leaves charred. Smoke billowed, and the ooze burned. “Kindra?”
+
+“He said it was weak to fire… I feel that was an understatement.”
+
+Aika looked back at the raging inferno and agreed. The ooze was a giant pillar of flame. “Could have used that to smelt things.”
+
+“I agree.”
+
+Watching the blazing fire, Aika looked at the charred trees. The leaves above singed. Is she going to set the forest on fire? The fire wasn’t moving down the slime trail. It stood there, a massive beacon of flame. Shadows flickered throughout the forest. How long is this going to burn?
+
+The flames roared for another minute before slowly fading away, leaving a smoldering pile of slime with a charred beetle corpse inside. Aika sniffed the air and landed, scooping up a slimy rock. “What are the rocks?”
+
+“Something like coal from the wood that it drained. Grab them if you can. We’re back to sawing.”
+
+Aika looked at the black trees. Those are charcoal? She scooped up another rock and headed back to the distant tree, dropping them by the two. “There are entire trees like that.”
+
+“The scouts and others will come for it soon,” Kode replied, pulling the blade back and sending a soft spray of both sparks and sawdust into the air.
+
+Kindra pulled it back, sending out another stream of sparks and sawdust. Aika flew into the air and back toward the slime. Where are the scouts? They can fish the coal out of the slime. She fluttered around trees and found the remnants along with a new sight.
+
+The invading bugs continued their quest, and birds dove, attacking them in earnest. “There are so many birds over here.” Like a storm of feathers, the birds landed, pecking at the bugs and each other.
+
+Other creatures joined the mess, each hunting in the wake of the destruction the ooze had made. Aika grabbed her spear, and a loud crack pulled her attention. Kindra?
+
+She turned and flew toward Kindra. The sound of rushing leaves and breaking branches filled the air. With a thunderous boom, the tree hit the ground.
+
+Aika glided over and found the two panting. Kindra lifted her head. Sweat streamed down it, and sawdust was everywhere. Aika flew down and studied it. Is there metal in here? She picked up some silvery shavings.
+
+“Feeding frenzy over there?” Kode asked, lifting his head and leaning against the tree.
+
+“Yep. The bugs are after the slime. The birds are after the bugs.”
+
+“I’d avoid it for a while. We’ll collect after.” Kode looked at the tree and shook his head. “You’re going to get the lumberjack class.”
+
+Aika laughed. “I can totally see that. Kindra the lumberjack.” She snickered. “She’ll chop down the entire forest.”
+
+Kindra stuck her tongue out. “Nothing will steal this tree, right?”
+
+“No. Why?”
+
+“I want to see the feeding frenzy. Come on, Aika. Show me.” Kindra grinned and headed through the trees, pulling out her crossbow.
+
+Aika zipped after her. “Are we trying to level?”
+
+“A bit. I need all the mana I can get to make this gun.” Kindra grinned and walked around a tree.
+
+Aika followed. The sound of fighting creatures filled the air, and she poked around a tree to watch. Like seagulls fighting over trash, the birds were unleashing magic on each other and the bugs, periodically grabbing and swallowing. The bugs continued unabated, rushing in to harvest the slime. Seems suicidal.
+
+She watched a grub swim into the slime. Like a strange, gross cacoon, it engulfed itself inside and began to feed.
+
+Kindra’s crossbow twanged. The bolt zipped across the air and speared into one of the birds. Aika turned and grinned, hefting her spear.
+
+“Stay close,” Kindra thought into her mind.
+
+“I will.” Aika landed on Kindra’s head and looked up. A large hawk burst from the branches and plucked a bird off the ground, hauling it back up into the trees.
+
+Another bolt flew, sinking into a large bird that was scooping up bugs. The smaller birds pounced on it, ripping off feathers and flesh.
+
+“Why are they fighting for this? Animals shouldn’t behave like this.” Aika frowned, and a group of hogs emerged from the trees. They pushed through the birds, their snouts opening to reveal rows of teeth. One chomped on a bird, and it screeched, ripping away feathers before flying off.
+
+“No idea.” Kindra stepped closer to the slime, moving stealthily toward it.
+
+Aika flew off her head. The pigs began devouring it, shoveling down the slime and bugs as fast as they could manage. A crossbow bolt flew, streaking across the air and sinking into one of the hogs. “Are they sick?”
+
+“No… This is risk and reward.” Kindra reloaded.
+
+Aika looked at her. “Reward?”
+
+“That slime is full of nutrients and mana.”
+
+With her wings fluttering, Aika followed Kindra closer to the slime. She watched as the hogs began growing. A large grub burst out of the slime, now nearly the size of a large dog. Well, that explains it.
+
+Kindra’s foot touched the slime, and all the nearby slime sank into the ground as if it were nothing more than water. The nearby bugs and birds turned and ran, some heading for the remaining slime and others chasing the free food.
+
+Like a small stampede, they charged across the ground. A distant grub burst from the slime and slammed into the ground. Is that how those are made? It thrashed, slamming its massive body into birds and bugs alike.
+
+Kindra jogged toward the slime, and a ball of fire formed in her hand. It cast the area in a soft light before streaking toward the stampede. Pulsing, it slowed and hung above the group. They ignored it, and it seemed to surge in power.
+
+“I take it back. She won’t be a lumberjack,” Kode whispered.
+
+The ball exploded, bathing the group in flames. The smell of burning flesh and feathers filled the air. A nearby black tree caught flame, and it cascaded, following the line of slime and coal like a fiery avenger brought to life.
+
+A wave of heat washed by. Creatures burned. Flames snaked from tree to tree, and Aika stared. “Kindra?”
+
+“Whoops. Forgot about that.” Kindra blushed and looked at the two. “I don’t think I can stop it.”
+
+“You can’t. Let’s go.” Kode stared at the fire. “It’ll burn out eventually.” He turned and walked back toward the tree. Kindra spun and followed.
+
+“Will we get the mana from it?” Aika fluttered after them.
+
+“Some, yes,” Kode called, heading back toward the tree with a chuckle.

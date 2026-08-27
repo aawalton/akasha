@@ -1,0 +1,187 @@
+---
+id: ace68e21-1f8e-5a53-8d57-027eec8491a1
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 9 - Back to School "
+slug: 0016-chapter-9-back-to-school
+partOf: metaworld-hopecore
+position: 16
+ownLength: 2430
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364716/chapter-9-back-to-school"
+royalRoadId: "3364716"
+---
+
+"There is nothing on earth intended for innocent people so horrible as a school.”
+
+George Bernard Shaw
+
+Eppie napped until the evening, then set up her electronics.
+
+The first thing she did was confirm a suspicion.
+
+Her “dorm” was Stratford-upon-Avon as homage to the Bard.
+
+With Google’s blessing, she searched up familiar names like Christopher Marlowe, John Milton, Jonathan Swift, William Wordsworth, Oscar Wilde and more. It would seem that, for the most part, the two earths ran in parallel.
+
+It was more so the late 19th century and the turn of the 21st centuryt that names and ideas began to diverge. She saw Robert Frost, but there was no Willa Cather. She saw T.S Eliot by another name, but couldn’t find a parallel figure to Tennessee Williams. There were also numerous Fitzgeralds, but no explicit Hemingway.
+
+Meanwhile, in the great book of American history—
+
+Protests were held.
+
+Wars were fought.
+
+Iron Curtains were drawn.
+
+A wall came down in 1991.
+
+A world was connected via the World Wide Web, and the optimism of the 90s did not fade.
+
+How all of these might have contributed to the twice-election of Albert Gore in 2000 and again in 2004, it was difficult to say. What she did understand from Google’s limited 2007 functionalities was that the American of her alternative present had not burned its global goodwill and bankrupted its budget surplus. The result was that for seven years, the tug-of-war between the Presidency and Congress was between social democracy and plutocracy. New laws were enacted to dissolve monopolies and empower government agencies such as the FCC. New Senators were voted in to cast wedge votes and veto bills. The FTC and the DOJ were wielded as cudgels to smash entrenched industries, while the oligarchs fought back through backroom deals, settlements and legal loopholes.
+
+All of which were possible because the great malaise of the 21st century, social media, had yet to terminally infest the host body of the USA. For the moment, it remained benign. The powers that be, be it corporate or state, had yet to truly automate the great machines of disinformation that would sideline democratic consent forevermore.
+
+And what role was she to play in all of this? Were there others like her in this parallel universe?
+
+Was there an avenging [Usurper] whose [System] power was political policy?
+
+She didn’t know, or perhaps, she was too afraid to know.
+
+Her body was only fifteen, and her present goal was only survival and revenge. She had barely enough Karma for [Roulette], much less improving the trajectory of the world.
+
+With the same fatalistic optimism of her song, therefore, Euphemia Fontaine explored the bisecting campus of the college and her school.
+
+Naturally, she felt far more at ease with the university students, several of whom stopped to chat to her, than she did with her future peers, who ranged from cautiousness to judgement. A part of the matter, Eppie guessed, was that teens were far more predisposed to cliques and clichés due to their macrocosmic perception of the world.
+
+Without mass social media virality, she determined that she was basically an unknown. True to Sony’s expectation, the interest around “Whatever Will Be” was dying down, and the video of her impromptu performance had completely fallen out of public interest.
+
+She bought food with her card at the cafeteria, which, in true mid-2000s fashion, consisted of Subway, McDonald's, Chick-fil-A, Taco Bell, Burger King, Starbucks, Dunkin', Au Bon Pain, and Cinnabon, to name a few.
+
+Her [Stamina] was still high, so she opted for a meal of cell-crushing McNuggets, fries, and a Fanta to wash it all down. As someone in possession of a body built through causality, she wanted to run a few tests, such as the impact of saturated fats, salt, and sugar, and if these could be offset by her supernatural [System].
+
+When she returned to the brick pit, aka the sunken quadrangle in the High School division, she found a cosy corner, then doomscrolled while she ate, showing these Gen Ys the final evolution of their future selves.
+
+Thus far, in the pre-regulated landscape of the social media Wild West, she had set up a YouTube channel, a MySpace, and a Twitter account for the future. As for Facebook, that would be a job for her media manager in the future.
+
+Midway through her deep dive into her parallel world history, she was disturbed by a commotion not far from where she lounged against a landscaped retaining wall.
+
+There was a group of kids—meaning people her age, looking and pointing at her, because clearly, someone hadn’t taught them that it was rude to point. She naturally recognised none of them, and when she rose to confront the finger waggers, they scattered by suddenly dispersing, leaving a singular figure to stare at her.
+
+The remaining silhouette belonged to an African-American girl, tall for her age, slim but athletic, with a pole vaulter’s figure. It was too bad that, in the dying heat of summer, the school’s ambient lighting wasn’t enough to illuminate the young lady’s face.
+
+“Hey!” Eppie shouted across the quad. “How’s it going?”
+
+The girl ran.
+
+She ran full-tilt, Tom and Jerry style, into the Old Music Building, stopping only to wait for the electronic double doors.
+
+“Well, well, well,” Eppie watched the courtyard staring back at her before losing interest. “It’s a good start.”
+
+The next morning, Eppie began her morning by checking her stats.
+
+She replenished her [Dasein] to 32, a sweetspot that entailed a minimal cost to maintain her spare [Causality] between 900 and 1000.
+
+She then dressed up in her new tracksuits from K-Mart and went for a run around the college campus.
+
+She ran like the wind.
+
+With her [Strength], [Vitality] and [Dexterity] on 20, she ran like her body possessed no weight. She slipped through the campus spaces, flew up the stairs, and zipped effortlessly from the open amphitheatre to the Whitman Theatre, from the old Play House to the Gershwin Music Concert Hall. She left behind LAPA and dove headfirst into the wide avenues of CSULA with its salmon-pink brickwork, zoomed past Lincoln Hall and the Jefferson Science building, down to the Chapel and the gymnasium, then circled back and did it all in reverse.
+
+Back at Stratford-upon-Avon, she calculated that she was pushing close to 8 minutes per mile, which was already as good as what her old body achieved in her 40s. Considering that she measured just 5’1”, it was a credible feat, one that would put all but dedicated young athletes to shame.
+
+Susan Carr arrived on time, at 9 AM sharp, with everything she needed for life on the campus. She chatted a bit more with her Director of Operations and managed to tease from the extroverted blonde a confirmation of what she had suspected.
+
+The powers that be in LAPA were the Principal, Dr Arthur Burton, and the VP, Emilia Thomas. Each has its factions within the school, with Dr Burton having the old guard who dreamt of making LAPA a free-tuition Performance Arts powerhouse, while VP Thomas spoke for the alumni body and the investors who wanted LAPA to become an exclusive arts power broker.
+
+Carr was herself in a position of power, but only because she was the events planner and organiser, the woman to see for all production schedules. Meanwhile, the academic powerhouses in LAPA were the Chairs of each “art” House, much like in Hogwarts.
+
+These were the Department Chairs, ranging from Cinematic Arts, Dance, Music, to Theatre, respectively, with Visual Arts existing outside the politics of fighting for practice and showcase space. As for the Gen-Ed staff, they were respected authorities in their fields, but outside of the school’s astoundingly well-regarded English Department, they were basically revolving chairs.
+
+Eppie then went to the university cafeteria, long inhabited by corporate finance, and had her breakfast burrito, juice, and a double-shot espresso.
+
+Over the next few hours, she found the university gymnasium, did some strength training, had a high-protein lunch, then napped until the afternoon, where she once more ventured into the quadrangle to watch the practice of their craft.
+
+Her body was in possession of [Athletics] [Acrobatics] and [Physicality], all in the C-range, which could be improved. [Script Analysis] and [Memorisation] were already being exercised through her daily reading, though there were no discernible improvements. She had experienced [The Sublime] several times already while listening to new music, and she clearly had no opportunity to witness skills such as [Persuasion] and [Seduction] in practice.
+
+She did not find the African-American gymnast again.
+
+In the late afternoon, when she was doing her sunset jog, a particular thought came to her. If she could indeed replenish stamina with minute amounts of [Causality]...
+
+At a full sprint, she ran through the sun-lit streets of University Drive, pounding her way up the incline until she was near-seeing red. Rapidly, her stamina fell, rebounding only when she rested enough for her breath to catch up.
+
+When it fell below half, and she was drenched from head to toe in perspiration, she paid the pound of flesh in [Causality].
+
+Her breath slowed.
+
+The stitch in her muscle ceased.
+
+The pain in her joints faded.
+
+She was refreshed, but also thirsty and hungry.
+
+After replenishment, she could easily do another circuit.
+
+And so she did.
+
+By curfew, when she returned to her dorm, she had managed to achieve a 6:30-minute mile via [Causality]. Every nerve, every capillary was suing her for unpaid wages, but she did it.
+
+[Pain Suppression] Rank B to B+
+
+You have endured pain of all kinds throughout your life, be it hunger, injury, or neglect. Your body is now able to endure pain that would cripple an individual of lesser will.
+
+This trait can be improved through training, endurance, and higher [Wisdom]
+
+“Huh. I guess that works.” Eppie pondered the state of her being as she stepped into the tiny shower. The suspicion that her present body was not exactly a mortal, biological construct again reared its head. For now, she was short enough to be comfortable. She hoped to grow taller, but that would probably involve a whole other kind of [Causality].
+
+She restored all but the last five points of her [Stamina], leaving the rest for sleep.
+
+There was so much potential to be unlocked.
+
+For the first time since her rebirth, she could not help but feel that life was fun.
+
+On Wednesday morning, she returned from breakfast to find a stranger standing in the living room, a little lost and a little intimidated beside another woman, a Latina who looked completely businesslike.
+
+The girl looked a little older than she was, was taller by half a head, and had a suitcase by her side covered with travel stickers.
+
+The Latina was a middle-aged woman who looked younger than her role suggested, carrying a plump, curvaceous figure with dark auburn hair and a personality that matched the lipstick.
+
+“Hola!” The woman clasped her hand and vigorously shook it. “We haven’t met, but I am Señora Josefina Noceda, your Dorm Mother for Building C. You must be Eppie Fontaine, our little pajarita. Bienvenidos!”
+
+Eppie endured the aural assault, then broke into her classic smile.
+
+“Aeee—” her Dorm Mother was pleased. “¡Qué cosa más linda, mi amor!”
+
+Clearly, she had inspired the woman, for Señora Noceda then arrested the awkward fingers of the redhead with the pink, glowing face and made them hold hands.
+
+“Eppie, here is Holly HillCORKA, you two be friends now. Okay?”
+
+The redhead tried, but could not get a word in. The more their dorm mother talked of the importance of friendship, the more Holly Hillcorka grew scarlet.
+
+“Okay, okay, my door is always open if you need a consejo or just a little cafecito, but don't think that means you can skip your chores. Josefina does chores for now, but you will too, soon. I’ll bring the last girl on Friday. Nada de dramas. In MY HOUSE, we treat each other with respeto and love. If I see any hair-pulling, you’ll be helping me clean all weekend. Si?”
+
+Señora Noceda then crushed their bodies into her bodacious figure, smelling strongly of rosewater, then bid them to settle.
+
+With the woman gone, Eppie finally released the hand she was holding. “So er… I am Eppie Fontaine. Nice to meet you, Holly.”
+
+“... Umm…” the girl was on the verge of tears. “My name is Halle Hillock…”
+
+Eppie had to bite her lip until it hurt to halt her natural desire to assert dominance by saying, “No, you HILLCORKA now.”
+
+Sadism aside, however, she wasn’t exactly sure what to do with the new arrival. Strictly speaking, she was here at LAPA to kick ass and get revenge, not make friends. If she did make friends, it would reasonably complicate revenge. For instance, what if the student at the centre of her revenge was Hillock the senior? What if she confided in Halle, and she ratted her out?
+
+But wait… the Lana side of her raised a diligent hand. What if Halle could use some help? What if she could farm… [Causality] from her roommate?
+
+Oh, you devil… Eppie was amazed at her foresight. No wonder her [Wisdom] was an astounding [27].
+
+“Do you need help unpacking?” Eppie blinked innocently, trying her best to hide her teeth. “Are you hungry, Halle? There’s a baller salad bar at the cafeteria.”
+
+While helping her new roommate unpack, she learned from their small talk that Halle was a midwestern drama student from Nashville. She had sent in some impressive audition videos of her performing dramatic monologues, and now she was here. Halle was also very insistent that she was not rich.
+
+“We’re just simple folk,” she explained on repeat. “My family runs a few small restaurants…”
+
+What Halle meant was that she came from old money, and the family either ran a dozen fast-food franchises or ran a local chain. While helping Halle with her bags, she noticed stickers on Halle’s luggage that were clearly souvenirs from places in Europe, such as the Shakespeare Bookshop, the British Museum, or the Van Gogh House. She wasn’t sure how good of an actor Halle purported to be, but the girl couldn’t lie for shit.
+
+Knowing that she was dealing with the youngest child of a very well-to-do family, Eppie lost interest for the time being. She made sure the girl was at home, then left to repeat her routine around the college.
+
+A side effect of her training, it would seem, was an insatiable appetite.

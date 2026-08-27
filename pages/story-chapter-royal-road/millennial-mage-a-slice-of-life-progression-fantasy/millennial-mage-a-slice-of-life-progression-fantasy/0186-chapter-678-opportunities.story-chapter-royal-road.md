@@ -1,0 +1,177 @@
+---
+id: 04a7b29b-2169-5ae8-a2fb-1791344c2648
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 678 - Opportunities"
+slug: 0186-chapter-678-opportunities
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 186
+ownLength: 3061
+unit: words
+ownProgress: 3061
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3115288/chapter-678-opportunities"
+royalRoadId: "3115288"
+markedReadAt: "2026-06-29T19:41:01.757Z"
+---
+
+Tala sat down to a private meal with Head Corinis, the man seeming quite happy for her company.
+
+His private dining room was as white as the celebratory dining hall had been dark, with perfectly smoothed stone composing every surface, rendering them with a near-perfectly reflective finish. The windows allowed in natural light which was more than sufficient given the reflectivity of the stone.
+
+His table and chairs were of polished steel, crafted so expertly—and to such a high polish—that it was a mirror in all but form. Even the darker nature of the material didn’t ruin the effect. In fact, that slight darkening served as a boon among all the white and other mirrored surfaces, the coloration practically insisting that the occupants keep their focus on the table and those sitting at it.
+
+The dishes were similarly of polished steel, their value shown in their thin elegant strength rather than any unnecessary detailing. In fact, the overall effect was for the plates to practically vanish from sight when placed atop the table, leaving the artfully presented food to stand on its own merits.
+
+And stand, it did.
+
+Tala loved good food, and she’d rarely cared about how that food looked, so long as it wasn’t unappetizing in presentation. This though? This was like looking at a painting specifically made ephemeral.
+
+She almost didn’t want to eat it.
+
+Almost.
+
+As a prime example, this first plate looked like a peacock, plumage flared behind it. The body was a perfectly cooked chicken breast under a blue glaze that was both savory and evoked the idea of blueberries without being sweet.
+
+She had no idea how it had been done, but it was excellent.
+
+The plumage was composed of various fruits and vegetables chosen and arranged as much for proper visuals as for taste. The fact that both were spectacular showed just how skilled those involved had to be.
+
+The drink—seeming to float in a too clear glass—was a blueberry wine, once again stripped of almost all sweetness through the fermentation process, yet without the alcohol within becoming overwhelming in flavor.
+
+When she’d asked, she was informed that it was actually too alcoholic to truly be considered wine any longer, but regardless, it was delicious.
+
+I might need to have Kedva and her assistants train with these chefs while we’re here… or we can find similar expertise in Platoiri? I would bet the cycling cities have it as well; we’ve just never thought to look?
+
+-It is lovely, and the taste seems exquisite… sure? I’ll ask if she’s open to it. No need to use political capital only to have her refuse or lack interest.-
+
+Thank you.
+
+Now, this meal was private, but it was only so by the arcane definition. Servants were in attendance, ready and waiting out of easy sight but within quick-response range.
+
+Head Corinis’s Eskau was also there, standing behind his Pillar on the lefthand side. Tala hadn’t gotten the man’s name, and she felt like asking at this point would be… awkward.
+
+-I don’t understand that. You have perfect memory. You know that you haven’t been told his name.-
+
+Yeah, which means I should have asked long ago…
+
+-...Yeah… that makes no sense.-
+
+Tala sighed internally, turning her focus away from the alternate interface.
+
+She and Head Corinis chatted about small things while enjoying the meal. It was mainly pleasantries. The man asked after her husband and daughter, curious about Lea’s training, and how she was progressing. He also commented positively about Rane’s duel, having heard about it from various informants.
+
+Tala returned his polite curiosity with inquiries of her own after the man’s family and got an odd response.
+
+Head Corinis froze, hesitating for a long moment before giving a tightlipped smile. “I’ve no living family, Eskau Tala. I do appreciate the inquiry, but I am without such ties any longer.”
+
+And that killed that part of the conversation. She expressed sympathy for his loss—losses?—and they moved on.
+
+As the remains of the third course were removed, Head Corinis leaned forward, a seriousness coming across his features for the first time in the meal, aside from his brief stoicism around the topic of his own family. “I would like to get this in the open, Eskau Tala. If it pleases you, attend to my next words carefully.”
+
+Tala raised an eyebrow but leaned forward as well, putting her full focus on the man.
+
+“The House of Blood has ever been a meritocracy. As such, the Head of House must be the best person for the job.”
+
+She tried to not let her expression fall. Was this just going to be some sort of ego stroke? No… that didn’t fit what she knew of the man. She kept her face neutrally attentive as he continued.
+
+“As it is a political position, that necessitates skill in that arena as well. Even so, while I have held this post for a long time, it has not been without opposition, not without those attempting to unseat me.” He smiled broadly at that point, some of the seriousness fading to the background. “Thus, I must thank you. Your return and elevation has done more to cement me as Head of House than any other event in recent centuries.”
+
+She tilted her head in confusion. “I am grateful to have been of assistance. From my understanding you have led the House well, and upheld the intentions of the founders faithfully, but how have these events solidified your position?”
+
+He held up one finger. “First, I openly opposed Pillar Be-thric’s actions even while he was alive—you can check the records if you wish—while also staunchly refusing to have you removed. Most of our colleagues either grudgingly approved of the distasteful things he had done, given the results, or wished to wipe away all taint from those actions, which would have meant your death. I and a scant few others saw the middle ground once we learned the full truth, and while I did not foresee how it would… come to a head, I did see the value in your life, even if as a shadow of your former self. I imposed restrictions on Pillar Be-thric, insisting that he no longer tinker with your mind… though I suspected he danced the line, there. We required that he allow you to grow into a full person naturally.” He chuckled. “I did not know that you had returned to yourself and the ‘fully actualized person’ you were becoming was the real you. I likely would have acted differently had I known, but hindsight blinds us to our own faults. I cannot promise that I would have done differently than I did.”
+
+Tala felt a bit out of sorts with all the information and decided to simply express that. “Why are you telling me this?”
+
+He smiled and nodded. “Because the end results, now fully revealed, entirely vindicated my position. Pillar Be-thric was punished by his own hubris—showing how right those who opposed his actions were—and you have shown yourself to be an asset to the House regardless, proving that those who fought against your removal and execution were right to do so.” He grinned. “That is exactly in line with what I pushed for again and again.”
+
+Tala gave a slow nod. “So, my own elevation, which includes tacit approval and deference from all the House branches, is at the same time a joining of the House to your widely known view of the best path forward.”
+
+“Exactly. His actions, and later your disappearance, was a minor blemish that those who wished to unseat or replace me attempted to use to accomplish that aim. It wasn’t of great concern at the time, but now? Those have been removed as tools in their arsenal. Moreover, with an Eskau of War in place, I cannot be removed without a unanimous vote of the council, confirmed and approved of by you. Even then, House Law requires you to present me with the reasons for my removal, and give me a chance to change my ways and rise to meet the needs of the House.” He waved one hand dismissively. “There are, of course, provisions for your removal of me if I present a clear and present danger to the integrity of the House in the face of the prescribed foe, but that has not only never been done, it has such stringent requirements that I would practically have to be found shaking hands with the Black Legion in soulbound friendship for such to be invoked.”
+
+Tala grunted, finally understanding. “So, your position is effectively unassailable while I remain as Eskau of War?”
+
+“Exactly.” He lifted his glass to her. “Thank you for that. I will not forget it. I would want to aid you even if I didn’t already see our interests as aligned. I don’t understand all the nuance of what you are pushing toward, but I am absolutely behind the reduction and eventual elimination of non-willing vestiges. I do not have the proper foundation in the requisite portions of magical and gate theory to meaningfully move toward such a change myself, but I am excited to support your efforts in that regard.”
+
+She found herself nodding in gratitude. “I am happy to hear that.”
+
+He smiled. “It is only wisdom. No society can survive forever if a part of it acts under duress by default. No law will survive if most people wish it to be elsewise. No institution will endure if it is universally disdained, and no resource can be relied upon if its acquisition is solely through coercion. The very existence of the gated to the north is proof of this. Our society—as it is—exists on borrowed time and has from the very beginning. We guarded our hold with a chained dragon. Only a fool would expect that chain to last forever. I—and those with even a modicum of insight—will see your efforts as a potential path for a peaceful transition.”
+
+“So… you don’t expect resistance?”
+
+He laughed at that. “You might have misheard. I said those with even a modicum of insight. Most Houses are led by those with very little desire for anything but power. That is why the churn of Houses rising and falling, the cycle of inter-House conflict, and the violent removal of those in power is so pervasive. This is, of course, spurred on by the City Lords as a means of keeping their authority unchallenged.” He hesitated before seeming compelled to continue. “Don’t mistake me, they rarely interfere directly, but they set up laws, culture, and events such that the churn is inevitable. Very, very few Houses, major or minor, avoid that.” He hesitated, seeming to realize that he had been rambling. “My apologies. I am allowing myself to get off topic. Needless to say, I expect much resistance to the idea. Once we are getting results? Once those results are shown to be superior? The Houses will flock to the new way of doing things precisely because they are disruptive, precisely because it will allow those in the secondary positions throughout the cities to step beyond those who lord over them. The most important question will simply be which of the City Lords will see the changing tides and embrace it and which will attempt to enforce the status quo in fear that their authority will be shaken.”
+
+Tala was nodding again. “That makes sense. So, your advice would be to obfuscate our process until we have tangible results, then present those to City Lords so that they can be the source of the new path forward?”
+
+Head Corinis blinked a few times. “That…” He frowned. “That could actually work very well. It would cement them in power more fully…” He started nodding. “But only if they embrace the new process, which is exactly what we want. I had thought of going from the bottom up, potentially toppling the structures if they resisted, but that would be more disruptive, likely more violent, and possibly take far more time. Going from the top down could be smoother.”
+
+“Could?” Tala was curious as to what hurdles he foresaw.
+
+“If the City Lords universally reject our new path, despite our success, they could even move to ban it, and if we are the sole practitioners of the new way, it would be difficult to gain a foothold in the face of such opposition.”
+
+“Oh…” It was her turn to frown. “That could be problematic…”
+
+“Indeed.” Head Corinis leaned back. “But! We are rather off in the minutia of things. We have yet to discuss the delegates that we are to meet with this afternoon. Are you amenable to a topic change?”
+
+Tala gave a slow nod, draining her glass as a help to mentally reset. “Very well. Who will we be meeting with.”
+
+“The first is a delegation from your old adjunct, or rather from his newly founded city and faction on the other continent.”
+
+Tala gave a slow nod. “That’s right. Pillar Sanguis mentioned that Thron had gotten a bit of power and was reaching out to the House of Blood.”
+
+“Ahh, yes. He’s ‘gotten some power.’ A concept blade is a bit of power indeed.” His eyes sparkled with mirth as he gave Tala a meaningful look.
+
+She shrugged. “Seems so, even if I’ve no use for such.”
+
+“Indeed. One could even say it would be the perfect trade good in your hands, useless to you and utterly invaluable to practically anyone else in the cities.”
+
+“I suppose. I’ll keep that in mind should I get my hands on one in the future.”
+
+His mirth vanished for a moment. “I pray that if such happens… in the future… you see it within your heart to bring such a treasure to our House, as it would be a benefit without compare.”
+
+She shrugged then nodded. “That is most likely, yes. As Eskau of War, I would, of course, use such a strategic resource to best effect to accomplish the martial goals of our House.”
+
+He gave her a level look. “Indeed.” He waved his glass and a servant came forward to refill it. After he had thanked the woman and taken another sip, he nodded. He went over quite a few other groups that Tala had no real connection to or knowledge of. As each audience would likely be less than a half-hour, they’d have enough time to see quite a few people.
+
+After several, one stood out among the others.
+
+“We have a relatively new elven House. They claim to have had an encounter with someone who opened their eyes to the wisdom of some of our tenets. They wish to know more about our philosophies and are open to working closely with us in the future.” He sighed. “I have been putting them off, but as we are building a coalition? I can hardly continue to do so. They are a purely elven House and proudly so. I don’t see their operating laws as compatible with our own, but who knows? I have been surprised before.”
+
+Tala narrowed her gaze. “What was their House name?”
+
+Head Corinis waved a hand dismissively. “Wakeful Trees or some such.”
+
+His Eskau cleared his throat, interjecting for the first time. “They were the House of the Awakening Woods, my Pillar.”
+
+Head Corinis smiled. “That was it! Thank you, Eskau.”
+
+The Eskau bowed, giving no further response.
+
+Tala blinked a few times. “Well… I’ll be. I think I might have encountered them… but that was more than ten years ago.”
+
+“Well, that encounter might be the source of this revelation… whatever it was. Elves are famously slow to adapt and long in their internal debates. Honestly, if this is because of such a recent interaction, I may yet be proven wrong. These elves just might be the sort to see progress and change as worth pursuing.”
+
+She grunted at that. “I suppose that we will see.”
+
+“Indeed.” The discussion continued through a few others who might be called until he came to the final one. “The House of Iron has been begging for an audience for days now. They are among the oldest Houses, and as such we have a rather… fraught history with them. Even so, I cannot put them off any longer. Apparently, something has them up in arms with excitement, and the fact that they are reaching out might be a good thing. If they choose to directly join the war effort—especially if it can be under our banner?—it would be a boon I could scarcely have hoped for. They are often seen as the most stalwart of the Houses, and no one likes fighting against them. Where they go, many will follow, despite their oddities.”
+
+Tala grunted. “I think I met some of them in Platoiri? They were at least at my welcome back assembly on the outskirts. I don’t recall any direct interaction. I wonder why they approached us here instead of there?”
+
+“Between Houses as ancient as ours, branches do not have the authority to make lasting deals. The delegation is from their central House. I only delayed receiving them because your arrival had been planned, and given the nature of such an agreement, I felt that your position should be decided upon before I heard them out. Changing terms once we’d begun would not have gone over well.”
+
+She nodded again. “Understood.” A smile pulled at her lips. “I absolutely loathe this type of thing, but I suppose it cannot be helped.”
+
+He chuckled. “Yes, I rather assumed that would be the case. Thankfully, your post is not a political one. Soon enough, you will be established enough that you can delegate without it undercutting how you are perceived. You will never be entirely free of such duties, but they should lighten with time.”
+
+Tala sighed, appreciating the sentiment. “May it be so.”
+
+Head Corinis stood, pushing back from the table. “Well then. Shall we?”
+
+Tala blinked a few times. “What? Now?”
+
+“Unless you have any further questions? The delegates have been notified to be ready for a summons at any point today.”
+
+She considered for a moment before shaking her head. “I suppose I don’t.”
+
+“Well then. Shall we?” He grinned.
+
+Tala chuckled, standing. “As you say. Let’s see what we can forge of these opportunities.”

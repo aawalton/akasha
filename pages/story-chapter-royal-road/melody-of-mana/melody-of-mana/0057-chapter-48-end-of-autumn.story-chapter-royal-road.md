@@ -1,0 +1,169 @@
+---
+id: 6c41d211-6314-5768-ab89-411d80feeb70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 End of Autumn"
+slug: 0057-chapter-48-end-of-autumn
+partOf: melody-of-mana
+position: 57
+ownLength: 2400
+unit: words
+ownProgress: 2400
+publishedAt: 2021-10-01
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/759566/chapter-48-end-of-autumn"
+royalRoadId: "759566"
+markedReadAt: "2026-06-29T22:28:09.673Z"
+---
+
+Jackson's arrival, and announcement caused what can only be described as a 'significant disturbance' to that evening's events in the tavern. He'd successfully chosen everyone's conversation topic too. So once everyone settled down a bit, that was all I heard about for the rest of the night.
+
+Part of the reason was that nobody had known just how bad the Empire had apparently been. Sure there had been rumors of revolts there, but nothing of that level. This level of surprise was not something that most people were used to. Normally there would have been at least signs that they were about to fall, but the report from our newly arriving bard was that their army had been destroyed in one fell swoop. That was followed by city after city being taken down, ending in their capital being taken.
+
+Not even the messenger knew much here. Jackson knew what had happened, and knew that it had been quick, but not the who or how. This was much to the chagrin of several of our patrons who'd bought him drinks in the hope of pulling out more information that he simply didn't have.
+
+What he did have though was reports of a few people fleeing across the border to seek safety from the new regime. Most of these were those who lived nearby, or fleeing nobles of the Empire. None of those trying to get refugee status were very welcome though, and the overwhelming majority had been quickly chased away. Our people were a little less than interested in helping those we'd just fought a years-long war against.
+
+It was also apparent that the Empire had done all it could to hide just how bad their problems were, even from their own people. Their fall had come so quickly after what seemed to be minor reports that it must have been covered up. Even the knowledge that their army had been destroyed was just now filtering across the border. I suspected that they'd hidden all the information that they could in an attempt to keep order. Hiding that knowledge hadn't helped them at all, and may have in the end caused more issues since nobody knew what was going on until it was done.
+
+It wasn't until the next morning that I got a chance to talk to the bard myself. It was unsurprising that Lucien had rented him a room, or that he planned to stay for the winter. Of course I wasn't really looking forward to a full season of having to deal with his antics, but he could be a bit fun every now and then.
+
+"Morning." I waved as I came down to the main hall.
+
+"Mornin', so you're here now."
+
+"So I am."
+
+"Working for Lucien?"
+
+"Yup."
+
+"In the capital."
+
+"Uh-huh"
+
+"And the Shield is okay with that. I remember you were with them last I saw you."
+
+"Not at all, they're livid."
+
+"Well that's... good I guess? Any word from your folks?"
+
+"Nothing, don't suppose you've heard about them or Mystien?"
+
+"Sorry, no." As the aforementioned Lucien arrived he looked between the two of us. "Okay, how did you two end up meeting anyway?"
+
+"She showed up at my door. So she actually is that old coot's apprentice?"
+
+"Oh yeah, I met her when she was just..." He indicated roughly knee height. "This big of a little monster." He turned back to look at me. "You scared the fire out of your town or something right?"
+
+"Okay, yeah, but that was my brothers' fault, not mine." Both men snorted in disbelief at that declaration. "I was minding my own business," another snort, "and my brothers came up and threw a bug at me, and my spell went out of control."
+
+"A likely story," declared Lucien.
+
+"Yeah, nobody's gonna believe that," agreed Jackson.
+
+"It's the truth! It doesn't matter if you believe it or not." I didn't even have Dras to back me up anymore. Of course he might have sided with these two jerks, that was a daunting prospect.
+
+They shook their heads in apparent disbelief, with Lucien even going so far as to press my cheeks when I puffed them up. An action that got about half the staff laughing. Soon enough though I did have to get back to work. Even as winter approached there was much that needed to be done.
+
+I ended up cleaning most of the kitchen. The room was rather small, designed to shove out high amounts of food in low varieties. There was a oven for bread and things like pies or casseroles, a stove mostly optimized for making huge pots of stew, and a few small spits for meat. I didn't spend much time back here. I wanted to be rather alone today though, and with how little food we put out in the afternoon I could be assured of low traffic.
+
+The cook who was working for The Sky right now was a tall, thin, and not particularly talkative girl by the name of Lude. With Lude and I thoroughly ignoring each other we both got to enjoy the silence. So when she finally spoke while ripping up our day old bread for stew I was more than a bit surprised.
+
+"You're the one who makes this right?" She held up one of the loaves she was breaking into bits.
+
+"Yes."
+
+"Why?"
+
+"Why what?"
+
+"Why do you spend time and mana making bread. Isn't there some better way to use it?"
+
+"At this point my spell for that is really efficient. So it's not like I'm using very much. I've been doing it since I was a little kid."
+
+She cocked her head, a few strawberry blonde strands fell over her shoulder as she made a face. "Why would you even learn that spell though? Isn't it hard to learn magic or something?"
+
+"Have you lived in the capital your whole life?" She nodded as I finished my question, looking a bit confused. "During the war the small towns and cities outside of the central area of the country were starving to death. There was no food, so I learned to make some. It really helped both my family and village."
+
+"What? Don't they grow lots of food out there?"
+
+"Normally, but not when too many people are called off to war. Not enough people to work the fields."
+
+"We never had that kind of problem. Sure, grain got more expensive, and meat was really hard to find, but it was never just nothing."
+
+"The laws here are made so that there isn't too much scarcity around the capital. Probably because the rulers don't want problems here."
+
+"Huh, I didn't know that. Well, at least the war is over, so your village can grow enough now." She smiled.
+
+"Something like that." I didn't really want to go into all of it.
+
+"Can you make other kinds of bread though? For a bit of variety?"
+
+"I can change it up a little bit, anything in particular?"
+
+"Most of your stuff is the very fancy white bread. Having some of the darker would be nice for a few of our dishes. People don't like it as much, but the flavor is better for some things."
+
+"Sure." I generally defaulted to something more like white bread from back home. Here though that was considered rather high class. Whole wheat, much more almost 'meaty' breads were used by the more common folk. Mixing a bit in would be no issue at all.
+
+After I finished up with my cleaning we chatted a bit more. Lude was in her late teens or early twenties and part of the group that made up a lot of the temp workers in the city. Most women lived with their parents until they married and she was no exception, but at her age and economic level she still needed to bring in a bit of money. Working for Lucien was her solution to that. The pay was fair, the job easy enough, and she didn't really have to deal with customers. The last part was of importance to her because she was a bit of an introvert.
+
+After work the next day our newest resident came to join me for a late lunch.
+
+"So, what's this I hear about you getting a boyfriend?" Jackson leaned over the table. "One going to The Academy at that? I'll admit I was a bit surprised at first, but you did learn from the best..."
+
+"You heard wrong. Anyway is there a point to this?"
+
+"Alright snippy, I've got a gig tonight that involves some light illusion work. Lucien said you'd been putting real effort into some of that kind of thing and might do well to have a bit of experience in the field. So, wanna come?"
+
+"More details please?"
+
+"Fine, fine. There's a merchant putting on a party. It'll be really swanky, lots of high class folks. A lot of those guys aren't nobles, but really like magic, and have tons of cash to boot. Therefore they often hire casters to come and put on some effects in the background. The pay is solid, and it's the kind of thing you only really see here in the capital."
+
+"So we'll just be tossing out illusions in the background of the party?"
+
+"We get to attend the party too, if that's a bonus you wanted."
+
+"I wasn't really thinking about that, and don't really have a fancy party dress."
+
+"Not a problem. I know a guy who can help. You'll be borrowing it, but it'll look good and so will you."
+
+Now that was something that piqued my interest. After a few moments I nodded. "Alright, let's do it."
+
+I took a few moments to tell Lucien that I'd accepted the job with Jackson and we were off. The city streets passed by quickly as we climbed higher and higher into the city, moving just to the edge of the nobles' district. Eventually though we came to a small, rather hidden shop. It was the kind of place I would have walked past without anyone else with me. The small sign beside it read 'Marcus' Fashion' and my companion opened the door like he'd been there a thousand times.
+
+The store was bright and clean on the inside, with a surprising amount of mirrors. In the back was an area that seemed dedicated to cutting hair, while the front was obviously a tailor's shop. Upon hearing the bell a man quickly came out towards the front, looking us over.
+
+He was tall and clean cut, with sharp eyes that moved over us approvingly. His hair was jet black, short, and well done. Perfectly fitted pants, vest, and shirt paired with the tape measure behind his neck gave him the look of a professional. A small woman followed after him behind. She gave me a bit of a frown.
+
+"My my, if it isn't Jackson. You're looking garish as always, and a new friend this time? A bit young isn't she?"
+
+"An apprentice of sorts, and both of us need something on loan appropriate for a ball. I figured I'd bring her to the best."
+
+"Flattery as well, you know it'll get you everywhere. Come on then, let's see what we have to work with."
+
+He motioned us both over and quickly began taking measurements. As the tape fluttered around, checking each body part I had to admire his speed. It only took him a few moments to get everything he needed before looking at me again.
+
+"Janis, hair and makeup on her." He motioned over his assistance who led me back into the back of the shop while he worked on Jackson.
+
+The current fashion it would seem was for complex braids that lightly pulled the hair up off of the neck. Janis didn't bother cutting my hair for this reason and just started working it. Her hands were firm and quick, but not rough, lightly tugging and pulling things until she was satisfied, then pinning them in place with care.
+
+Makeup was, to my relief, minimal. Janis explained that some older women would wear heavier stuff, but for girls my age that was considered poor form. Since I was already rather pale a bit of blush and the smoothing out of a few blemishes was all I really needed.
+
+As I finished up I took a long look in one of their mirrors. I almost never got to see myself in one, and it was surreal to see how I now looked. I took my time, finally giving a smile as I decided that I really liked the whole thing.
+
+When I returned to the front I got to see Jackson paying for us and popping out for some reason or another. While he did that Marcus was bringing forward two sets of clothes. He had a pale blue dress I was fairly sure wouldn't quite fit me and I marveled as he sang to it. The cloth subtly shifted and seams moved, pulling and expanding the dimensions to his desires.
+
+"My family specializes in bardic magic that works on clothes. We've done it for generations, each learning what they can and passing down their knowledge." He looked up as he saw me staring.
+
+"It's quite impressive."
+
+"Thank you. Now, go and put this on." He handed me the dress and I quickly moved back to a curtained off area. Janis came to help me, a kind mercy as this particular garment was rather more complex than what I normally wore.
+
+It still took several minutes for us to get all the layers on and tied down properly. When I finally returned I found Jackson dressed in similarly fancy clothing waiting for me.
+
+"I went and rented us a carriage for the night. It's not fancy or anything, but we can't well walk in these." He indicated our borrowed outfits with a flourish.
+
+I felt myself blush a bit as I suddenly had the feeling that this was rather like a very awkward prom.
+
+"If you can keep that up all night dear you'll be an absolute hit," Marcus said as he saw me reddening. Which of course only caused it to get worse. "No, no, too much, a bit less dear."
+
+I had a feeling that I may have bitten off more than I could chew.

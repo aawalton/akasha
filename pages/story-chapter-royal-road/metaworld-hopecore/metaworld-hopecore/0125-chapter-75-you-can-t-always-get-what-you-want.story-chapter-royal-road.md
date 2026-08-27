@@ -1,0 +1,163 @@
+---
+id: 3dc6bc36-1b5a-5a9f-b96a-1e50b44bd260
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 75 - You Can’t Always Get What You Want"
+slug: 0125-chapter-75-you-can-t-always-get-what-you-want
+partOf: metaworld-hopecore
+position: 125
+ownLength: 2405
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3655449/chapter-75-you-cant-always-get-what-you-want"
+royalRoadId: "3655449"
+---
+
+"I am in bloodStepp’d in so far that, should I wade no more,Returning were as tedious as go o’er."
+
+William ShakespeareMacbeth, act III, scene IV.
+
+LAPA. The Dorms.
+
+Euphemia Fontaine woke at noon, rising from the bed like Vlad Tepes from a coffin. She subsumed what Josefina left in the fridge. She dressed for the warming weather. Then she went for a jog around campus.
+
+Along the way, college kids waved to her as she passed, veering from their paths like asteroids being pulled into a gravitational orbit. Near the coffee cart, she accosted her Operations Director about her production notes. Susan Carr, more than happy to spare the time, commended Eppie on her submissions, then remarked offhandedly that she looked more amazing than usual. Eppie then bolted straight back to her Dorm and into the bathroom, stripping off her soaked workout clothes and bringing out the tape measure.
+
+She had grown… zero inches.
+
+She wrapped the tape around her waist, her hips, her chest, her heart pounding as she read out the numbers in the mirror. 33-25-35
+
+5'1"
+
+Her numbers did not go “burrrr”, as the online novels had promised. Those [Systems] were clearly superior to the one she had been saddled with.
+
+It would take time for her “blessed” genetics to start filling out. She hoped.
+
+Her lips trembled. Big Girls Don’t Cry. The mew she made, something between a sob and a growl, was entirely undignified. She wasn’t reborn to look good and feel vain. She was here to disseminate joy and bring happiness to the people she met. If the Pantheistic Powers that Be felt she didn’t need the height for her present assignment, then she must make do with what was given.
+
+She leaned in closer to the mirror instead, looking for consolation prizes. To her surprise, she found it. Her hair, which was annoyingly the hue and texture of dried straw, had improved itself. It was now balayage—a warm, honeyed gold with its own gradient, the kind that cost somewhere between $400 and $500 at an upmarket salon. Her roots looked a shade or two darker; the middle was a soft sunburnt-amber that faded up into brightness the way real hair grown out over a summer would, and the tips were true blonde. It was the kind of hair that some girls dreamed about, while other girls surfed for three months and simply acquired.
+
+Her eyebrows seemed… styled, somehow. The colour was darker, the lines more refined. Her lashes were thicker—not Elizabeth Taylor thick—but she certainly had no express need for mascara.
+
+My improvements are hair based? Eppie questioned her [System].
+
+Feeling hairy, she checked her legs. She wasn’t hairless—thank god—that would just be weird —albeit her unusually fine blonde follicles were basically invisible anyway.
+
+She slicked her fringe back with some tap water.
+
+She looked… good. Like, really good. Her hair looked styled.
+
+Eppie shook her head violently, then checked herself in the mirror again.
+
+Perfect messy bed hair. If she upped her eyeshadow and the mascara, she could be on the cover of a punk-themed Teen Vogue titled “Hot Mess”.
+
+She found some gel, then twirled her shoulder-length hair into cat ears.
+
+“Oh my God…” Eppie took a selfie. After a moment’s indecision, she sent the selfie to Maddie. Waste not, want not.
+
+Was this how Valorie woke up every morning? No wonder William Chen was obsessed.
+
+Unfortunately, her improved aesthetic was not figure-driven. Instead, it seemed her [System] had consulted a karmic focus group and decided that the correct return on her investment was adorability. Styled appropriately, Eppie felt, the response from her onlookers would be parental instinct; styled inappropriately, the reaction would probably involve immense, inconsolable guilt.
+
+She chose a neutral outfit for her afternoon outing. Something that raised no eyebrows, nor drew attention to herself from a hundred feet out.
+
+At the cafeteria, looking like someone’s lost daughter with her MacBook, she completed the weekend homework for her various instructors.
+
+Then, in a self-destructive act, she devoured a pepperoni pizza and drank full-strength cola.
+
+Her [Persona] was a karmically-fuelled philosophical zombie. She wasn’t even completely certain if she could starve to death, though she did feel intense hunger and thirst. Whether these were metaphysical constraints, or merely leftover sensations like the human tailbone, it was impossible to say—nor did she feel like putting either to the test.
+
+Then she looked toward the middle, where Valorie usually sat and thought about Jude.
+
+Her [Script Analysis] clearly inferred a connection between Val and the song’s original purpose. Indeed, the karmic well surrounding the song resonated well with the idea of children abandoned by their fathers. It was, after all, conjured by McCartney mid-drive, on the way to console Julian Lennon when John abandoned his family for Yoko.
+
+A part of Eppie wondered whether she could compose the song and maybe offer it to Paul McCarron. But Lenden was gone, and Harwood had passed away as well. And—from the looks of her Google search, Hanton was the world’s most famous recluse.
+
+Would McCarron even recognise the song when he didn’t need to console Julian? Eppie was certain he wouldn’t, because the [System] was karmically selective with its gifts.
+
+Would Hey Jude be no.1 without its karmic well of abandonment and misery? Her internal musiciology said no, but her [Prophet of Profits] scoffed. Curon knew his music, and Jude was timeless. Would a man as sensitive to musical gold let a song like Jude languish? If anything, her adopted father would put his life on the line to guarantee its success.
+
+On the other hand, Eppie was painfully aware that her [System] hadn't handed her "Hey Jude" so she could launder it into [Causality]. It had been handed to her so that she could make it better.
+
+Make what better? She asked herself. Valorie?
+
+Valorie, the beautiful. Valorie is rich. Valorie, who has a wonderful career ahead of her.Valori,e who has Sir Woodhouse as a Godfather. Valorie, who could at any time retire and help Daddy with politics.
+
+Valorie had a life that was in the top one per cent of the top one per cent. Wasn’t that why she went psychologically pear-shaped when the child of a Nikkei refugee beat her fair and square?
+
+Sipping from her cooling coffee, Eppie blasted “Francis Sanders” into Google, wondering just what horrors she might find.
+
+What she found was pretty much stock-standard. Francis Sanders grew up the son of a one-term assemblyman—old land, older money, the kind of family whose name was on a grain elevator before it showed up on a ballot. He went south for Stanford, political science, then stayed for the law degree.
+
+Francis spent his mid-twenties doing legal aid and advocacy work up and down the northern counties. He ran for State Assembly at twenty-eight, won on the strength of his town halls. He worked extensively with the Chinese, Japanese and Korean communities, becoming a local authority. Term limits pushed him up rather than out—a 22nd State Senate run at thirty-five was won comfortably, and he has since aged into his present role as a senior Senate.
+
+“Guess that’s where he met Chen Senior,” Eppie tapped the pen against her cheeks. At least on paper, the man was clean. And in America, donations were not bribery. If Sanders did indeed care for his Chinese-American constituents, fighting for their legal rights against the city of Los Angeles was not only legal, it was laudable.
+
+Of particular interest was Senator Sanders’ latest whereabouts, written as such:
+
+A Senator's Long Road to Tule Lake State lawmaker's two-decade campaign nears a federal designation
+
+By MARGARET OYELARAN, Staff Writer SACRAMENTO — Jan. 14, 2008
+
+For nearly twenty years, state Sen. Francis Sanders has been building toward a hope that, by his own admission, he had not expected to see in his lifetime.
+
+The work in question is the Tule Lake Unit, the most heavily fortified of the ten World War II incarceration camps, where more than 18,000 Japanese Americans—including United States citizens—were held behind barbed wire and gun towers roughly an hour from the Sanders family landholdings. For decades, the site sat largely unmarked, its history haunting the local families, like the Sanders, who ran the region’s barley and potato farms for generations.
+
+“Nobody talked about it, not even Pa,” The Senator said. “Understandably, it was a shameful part of our history.”
+
+Senator Sanders has a history of civil-liberties casework alongside the Asian-American residents of Los Angeles. His groundwork, colleagues say, predates his political career by years. Now, Senator Sanders is using his influence to advocate for the Tule Lake region to be designated a historic landmark.
+
+“Francis has our heart and our support,” stated JACL regional director Alan Nakamura. “I can’t believe the paperwork is nearly done. That our families' stories are going to be told.”
+
+As of late January, the federal National Monument proclamation for the Tule Lake Unit is now under active review. The Senator declined to reveal the timeline, though he was photographed in the same week, at a New York preservation gala alongside Metropolitan Museum patron Juliana Vaughan, a meeting Sanders described only as “a monumental conversation about America’s soul.”
+
+If the designation is approved, the Tule Lake Unit would become the first National Monument in California dedicated to the wartime incarceration of Japanese Americans — a distinction Sanders, when asked, waved off entirely.
+
+“It's not about me,” he said. "It's about the fact that in fifty years, we can look back on the past and say ‘never again.’”
+
+“Tule Lake…” Eppie mouthed to herself. “I am responsible for this?” Holy shit, she really did have some kind of karmic gravitation happening with Valorie. It was downright uncanny how often they crossed paths as well. At the MET, at Vaughan’s party, at the Grammys, at school…
+
+Okay, maybe not the last part—but her [Intelligence] and [Wisdom] had arrived at a hypothesis: that Valorie was the linchpin to the William situation. For William to be truly penitent, she had to starve the beast. She had to remove William's source of [Causality] to roast him like a rotisserie chicken in the 8th Circle of Hell.
+
+Only then would Guido “Chen” Montefeltro recant his ways to her Dante “Eppie” Alighieri.
+
+Was that possible? Her [Script Analysis] said there’s always hope. You have to believe.She growled at herself.
+
+Conversely, she wasn’t categorically against uplifting Valorie, and it had nothing to do with Val’s love of crop tops. She had seen Valorie act. The loss of such a talent harms the arts. On the other hand, she had, at some point, given William’s generational film a peek—and seen bland nostalgia bait performed by student actors, shot with Wong Kar-wai's Chungking Express cinematography. The latter, Eppie felt, was most certainly NOT William’s solo work.
+
+Besides, Jude could bring SO MUCH solace to all the people out there. Her world might be a more hopeful America, but… after a quick Google, 25% of the nation’s children still grew up in single-parent households.
+
+If, on a sad, lonely night, a song on a fuzzy radio could make it better. That was the kind of good Eppie was willing to commit. “Hey Val…” could just as easily be “Hey Renée… or Hey Cora….”
+
+Feeling morbid, she Googled “Francis Sander’s Wife,” then clicked on an old AP article about the family.
+
+“Whoa…” Her eyes fell upon the spitting image of Valorie, but older, more mature, with a less prominent nose, and sans the green eyes. “Assemblyman Francis Sanders and stage actress Julie Sanders attend the Chinese-American GALA,” the article read.
+
+The other was an obituary from the LA TIMES.
+
+Julie Anne Sanders (née Ashford), 30, of Encino, passed away June 12, 2003, at Cedars-Sinai Medical Centre after a two-year battle with ovarian cancer. Born on January 3, 1970, to Harold and Diane Ashford, she attended Harvard-Westlake and married her childhood sweetheart, Francis Sanders, at nineteen. Julie pursued acting in Los Angeles before building a modelling career in regional print campaigns. She is survived by her husband, State Senator Francis Sanders; daughter Valorie Sanders; and her parents. A memorial will be held at St Cyril of Jerusalem, Encino.
+
+Eppie sat with that for a while, noting a few college kids who hadn’t taken their eyes off her since they arrived.
+
+10 years old… Christ. Valorie was ten when her mother died. It’s a vulnerable time for a kid, though Eppie wasn’t exactly sure how vulnerable.
+
+Her childhood… was wickedly good. Her parents had time; they had 3 holidays a year, and casual Disneyland visits on any given weekend. They were good with money too—good enough that their daughter became the Woman who Sold the World…
+
+“Excuse me?” a voice interrupted her internal dialogue, coming from across her MacBook. It was the trio of college guys. Sophomores, from the looks of their hopeful faces. “We’re just wondering if you’re a student here…”
+
+“I am a Sophomore,” Eppie smiled and watched with great amusement as the leader’s face turned to relief.
+
+“Oh, thank God,” the leading man wiped the sweat from his brow. “Yeah, so, I was wondering if you wanted to grab some food, or a drink or something… The Chinese here are hella good.” “I am a LAPA Sophomore.” She smiled sweetly, giving her best Alice in Wonderland.
+
+The hopeful young man swallowed his next words like stones.
+
+One of his friends stepped back in disgust. “I knew it. You sick bastard.”
+
+The other gave her a wink. “We’re sorry to bother you, Miss Fontaine. We’ll take him to the police now.”
+
+“YOU KNEW WHO SHE WAS?” Number 1 stumbled back, convulsing from the knives in his back.
+
+“You don’t know Euphemia Fontaine?” Number 3 and Number 2 were in stitches. “She’s our resident Grammy winner! How could you not know?”
+
+The young man, now half-beetroot, ran. Number 2 gave chase. Number 3 gave her a Robert Redford nod, then followed with his phone still recording. Eppie marvelled at the innocence of the late 00s. In the late 2020s, she had no doubt some fan or anti-fan would harass her not for shared joviality, but for the clout of being able to nuisance-stream a pretty girl doing her thinking alone.
+
+Ah, to be a kid again, Eppie nodded sagely at the antics of these boisterous boys, then packed up her five-one figure, tucked her Malibu Barbie hair behind her doll face, then went back to her dorm.

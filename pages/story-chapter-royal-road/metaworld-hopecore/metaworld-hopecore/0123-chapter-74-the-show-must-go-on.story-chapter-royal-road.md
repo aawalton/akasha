@@ -1,0 +1,183 @@
+---
+id: dc80dba2-b798-59f2-9af6-13de865aac6f
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 74 - The Show Must Go On"
+slug: 0123-chapter-74-the-show-must-go-on
+partOf: metaworld-hopecore
+position: 123
+ownLength: 2478
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3642749/chapter-74-the-show-must-go-on"
+royalRoadId: "3642749"
+---
+
+"All the world's a stage, and all the men and women merely players."
+
+William ShakespeareAs You Like It
+
+Friday morning, Eppie’s patience was at an end. She dipped into her [Causality] pool and propped up her [Stamina] and missing [Health].
+
+Unfortunately, her resin cast was far more resilient than a plaster one and would require a second visit involving Wang Sifu and a Stryker saw.
+
+Besides her, lying against the bed like a body, was the gift from Paco, or more accurately, from everyone from Fresno and Reedley. Inside it sat a guitar—a mid-1950s Gibson J-45. Eppie knew nothing about the history of this particular guitar, but she knew of the model. When she had picked up the guitar, her [El Duende] trembled, and Eppie knew that this was an instrument whose original owner had died for the craft. The emotions transmuted through her synesthetic death-seeking [Trait] were vivid enough to make her think of the progenitors of modern rock.
+
+Elvis Presley. Bob Dylan. Buddy Holly. All three had produced timeless hits from their trusty J-45s.
+
+Her new “vintage” J-45's default finish was what Gibson called Vintage Sunburst, involving a deep, bruised amber-brown that began at the edges of the spruce top and bled inward to a warmer honey-gold. The back and sides were mahogany, dark and matte, while the top stayed glossy, giving the whole instrument a two-toned hue. The spruce felt almost alive to the touch: slightly convex, ridged with grain, human. The neck had a rounded ‘V’ profile, the fretboard was the sole evidence of its age, for the protrusions were worn slick from incalculable hours of fingerwork.
+
+Eppie sat on the edge of her bed for a while because, from the angle that she held the guitar, she could see the well-wishing message from Paco, Father Parson and Luciana peering from inside the well—Exodus 31:3.
+
+After a minute, she turned away from God to ask Google for the implication.
+
+“See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah: and I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship, to devise cunning works, to work in gold, and in silver, and in brass, and in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.”
+
+The message, it would seem to Eppie, was rather ambitious.
+
+The [Script Analysis] translation in her head read thus:
+
+See, I, the [System], have filled this [Usurper], Euphemia (Lana) Fontaine, with the spirit of redemption. In ALL manners of the ARTS, to devise cunning plays, to work with songs and music, to create film, to inspire all media, and to set them, in all manner of workmanship, to shelter human creativity against AI slop.
+
+“An Ark…?” she mouthed to the [System]. Jeez… thank you for the free [Dasein] last night, but that’s a bit of a task…
+
+She looked at her absolute surplus.
+
+[Causality: 417936]
+
+It was a lot, but was it enough to build an Ark for artists against what was coming in the 2020s?
+
+Friday’s lessons came and went, with only her friends knowing that a magical thing had happened last night, and that the memory was imprinted upon their lives forever. Dr Kirby taught her lessons of wisdom, as did her History and Algebra instructors.
+
+In Sophomore theatre, she shot her shot to Tyker in front of Cooper re: Combined costumes. Cooper saw no problems with the exchange. Tyker said she would have to check her own Gantt Charts, but was otherwise in support of Eppie’s savvy frugality. Eppie remained confident; after all, her proposal struck four birds with one stone—reducing Sophomore overhead, reducing the burden on LAPA’s costume makers, and increasing the allowance for the Seniors’ LAPAGANZA. The final bird was Eppie’s true intention—to receive professional, film-grade costumes for her peers, something that rarely happened for the lite Sophomore productions.
+
+Past Senior practice, she ate noodles with Lim at night, not in the Stray Cat Society, but in a nice Vietnamese joint south of the campus. Lim told her that William had demanded increased surveillance on her actions, and he had been writing back meticulous nothings as a form of malicious compliance.
+
+In the privacy of their old Chinese takeout, she asked him about how much the Five Families knew about the William ordeal, and Lim took so long to answer that his pho went cold.
+
+“Father knows—I told him, but I don’t know if he told anyone in their generation specifically,” Lim answered with careful consideration of his hypothesis.
+
+“He says Kitty’s mother knows,” Eppie said.
+
+“That’s on Kitty, though.” Lim stirred his soup. “Uncle Meng has a temper, and Aunty Meng is usually very quiet.”
+
+“How about…” Eppie consulted her [Memorisation]. “Edson? He’s got… extremely illicit materials on his phone. So illegal I am surprised the phone didn’t burst into flames.”
+
+Lim sipped his soup. “He’s buried it, last I heard. Edson’s got his own problems. The Li family owns the big mart over at Yale St. The Chen’ye has been giving them discounted rent since forever.”
+
+“... they won’t just sell the place to the Li family?” Eppie understood the game well. “Groceries have decent turnovers, especially cash businesses.”
+
+Lim’s lack of an answer told her more than she needed to know.
+
+“Jimmy is in the same boat,” Lim counted the members off the top of his head. “The family's been using that tailor shop for almost fifty years. It’s the only reason they’re still in business. I think Father’s best bet lies with the Bu family. Their nail salon has multiple franchise stores outside of Chinatown. As for the Mengs. Kitty’s Dad is an actual GP, so his clients will go where he goes. It’s just a problem of convenience.”
+
+“Three out of five isn’t that bad.” Eppie did the mental math.
+
+“I think the Li family will join us,” Lim said seriously. “All it needs is Edson to show—”
+
+“I’d rather the whole thing be turned over to the police,” Eppie interrupted the giant. “That’s still Mio in there…”
+
+Lim’s chopsticks paused. He covered his face with his giant mitt-like hands and groaned. “Pok-gai… you’re right. You’re absolutely right. What was I thinking?”
+
+“Lafitte could probably handle that,” Eppie raised her chopstick. “If the local police can be trusted. Do the Chens have their teeth in local law enforcement?”
+
+“Chen-ye is the chairman of the Chinatown Community-Police Advisory Board,” Lim said. “He donated millions to the LAPD Foundation. Omnia funds the PA Leagues all the way to Little Tokyo.”
+
+Her giant then smiled in a bittersweet way. “The Five Root instructors are almost all ex-officers. My Sifu was one as well. Active duty officers come and train with us on the regular. We do Lion Dance performances WITH the community Policing Initiatives.”
+
+“Oh…” Eppie felt her lips pull. “Not a great direction then?”
+
+“No,” Lim concurred. “Chen-ye would be the very first to know. They would lawyer up and pressure the Five Families before we even see a court. That’s assuming the phone isn’t just smashed to bits the moment it leaves our hands. Can we count on a Chen to jail their sole heir? I am not taking that bet. Besides, the Mios are gone as well. They’re not coming back, are they? We already agreed we’re not dragging…”
+
+Lim took a deep breath.
+
+“No, we’re not,” Eppie confessed her disappointment in the lawful course of action. As for Mio and Nozomi, everything hinged on the May LAPAGANZA.
+
+Saturday.
+
+Eppie traversed the 10 miles from Cal State to Glendale via taxi. Her discretionary Trust didn’t allow for luxury spending, but transportation was well within her Education charter.
+
+1401 Flower Street sat low and anonymous behind chain-link and eucalyptus, a sprawling beige-and-glass complex that gave away nothing from the sidewalk—no marquee, no mouse ears, nothing to suggest that here was where the sausage was made. To the side, security gates guarded a loading dock big enough to swallow a soundstage.
+
+A single unassuming sign read WALT DISNEY IMAGINEERING in letters no larger than a dentist's office would use.
+
+As a veteran visitor to the House of Mouse and the holder of the lauded Premium Annual Pass, Eppie found it amusing that a place that looked like a Daikin Air-Conditioner warehouse was responsible for the experiences of countless multitudes since the inception of the happiest place on earth by the dreamer himself.
+
+She entered the air-conditioned lobby wearing her wealth-coded fashion flair so as not to demean Vaughan’s favour. Charcoal miniskirt, merino crewneck, a woollen coat, and her white Common Projects. Her hair was flattened down with spray. She wore no jewellery and virtually no makeup.
+
+The lobby was bare, bereft of mouse ears, smell, music or merchandise. A single wall of cabinets displayed the production history, both photos and designs, as well as half-finished animatronics.
+
+The receptionist, a disinterested young lady, took Eppie’s name and ID and handed over a visitor’s badge on a lanyard.
+
+Odette Kessler came out to meet her five minutes later through a side door, in a grey-white canvas apron. She looked to be in her late forties, with cropped silver hair, reading glasses pushed up into it like a second pair of eyes.
+
+“Want a tour?” Kessler offered. “Goodness, Mrs Vaughan said you were young, but… you’re a kid!”
+
+“Is that going to be a problem?” Eppie asked sheepishly.
+
+“You’re playing Lavinia, right?” Kessler took a little stroll around her. “You know she gets…”
+
+“Brutally.” Eppie nodded with nonchalance.
+
+“Ah—Theatre kids…” Kessler shook her head. “You know, I went to LAPA.”
+
+“YOU DID?” Eppie’s eyes lit up. So Odette was her Senpai?
+
+“Technical theatre, class of '81.” Kessler studied her from head to toe. “Came back and built the costumes for your school's Snow White Ballet in '04, too. Alas, the stage was never for me. Doesn't look like that's your problem.”
+
+“Thanks?” Eppie gave Kessler her best smile.
+
+Kessler shielded her eyes, then broke into laughter. “You don’t look like much of a Snow White to me. Maybe… Ariel?”
+
+“Not Aurora?” Eppie pointed to her blue eyes and shoulder-length blonde hair. Personally, she was rather smitten with Cinderella. She must have seen the mouse scenes enough times to wear out the tape on two separate Disney Home Video offerings.
+
+Kessler patted her shoulder, holding back laughter. “Put on a red wig, and you’re the spitting image of Ariel. Perfect height, as well.” Eppie’s lips twitched.
+
+Kessler's studio was a cavernous bay with a poured concrete floor stained by decades of glue and resin, ringed with steel shelving that held everything from latex torsos to a disassembled animatronic Iago missing half its feathers. Spools of thread in every conceivable red, from arterial to rust, hung on a pegboard like a colour wheel gone rogue. A worktable sat under a bank of daylight lamps. Another table was scattered with pins, a half-finished mannequin torso in superhero leathers, beside the most elaborate sewing machine she had ever seen.
+
+“Marvel costumes?”  Eppie marvelled at what an actual, studio-grade Costumier’s workshop looked like.
+
+“The comic publisher?” Kessler cocked her head. “Big fan?”
+
+“Huh—?” Eppie stopped her mouth before she said something that might butterfly into something else. Oh yeah, Marvel was in 2009… Lucasfilm wasn’t until 2012. “Oh, I was… just thinking out loud.”
+
+They walked until they were standing beside a mannequin with a canvas cover.
+
+“When Juliana first called,” Kessler said as she unclasped the buckles on the canvas wrap. “I had no idea who you were. Of course, having now seen the Grammy, I have some idea who you might be.”
+
+Eppie wasn’t sure how to respond, and so responded with humility.
+
+“Imagine my surprise when Diana Mirabelle called a few days later, not to ask if we should meet to discuss your needs, but to drop off a design.”
+
+“Diana’s too good to me,” Eppie felt her face take on an appropriate level of heat.
+
+“All this for a Sophomore showcase? Lavinia bloodied, but without blood?” Kessler shook her head. “Do they owe you money?”
+
+“Ah. Haha…”
+
+“Eh—anyway, Mrs Mirabelle wants your opinion on this. It’s from one of the design houses lower down the food chain. They were a part of an international Theatre Festival, and they—the Ninagawa Company—happened to impress her with their take on Warring States Titus Andronicus. Impress Diana Mirabelle? That’s an achievement in itself. She had them express-ship a production costume to the office. I… mechanised it.”
+
+Eppie turned her attention to the mannequin.
+
+Kessler pulled the canvas in one go.
+
+“Whoa…”
+
+The mannequin stood centre stage, clothed in a virginal kimono in ivory, silver and gold, arms raised in permanent supplication, and from its sleeves, she could see a mechanism of sorts.
+
+“Watch—” Kessler punched a button hidden by the sleeves.
+
+From the wrist-stumps, red cotton threads began to fall, not dropped, but fed, some hidden mechanism behind the wall paying it out in a slow, continuous cascade, gravity doing the rest. Like congealing blood, it pooled at the wrists first, then lengthened into ribbons, blood-red, haematite-hued, ruby corduroy gore, falling from the flesh-stump like a shredded curtain, raw-gauze carmine at the tip, closer to black near the wrist.
+
+“HOLY HELL!” Eppie felt suddenly violently ill.
+
+Her stomach dropped before her mind caught up with why. It wasn't the blood; there wasn’t any, but the idea itself. The hue, the texture, the slow unspooling. Just trying to imagine herself wearing this in her sleeves, dragging the ever-lengthening red mass across the stage—
+
+It was metaphorically perfect. Nothing else could quite convey the visceral revulsion of what Lim had described, of what was on Edson’s phone, of what her [Persona] had endured for what were minutes or hours in that locker room.
+
+“On a symbolic level….” Kessler seemed pleased by her guttural response. On a symbolic level, Eppie’s [Script Analysis] told her. Here was also the tapestry. The tapestry of blood, of violence against women’s bodies by the body politic. There would be no words, no lines, just the trailing tapestry of Lavinia’s bruised and bloody life, spilling from her wrist and mouth onto the stage like an umbilical cord.
+
+“... So what do you think? I can dismount the mechanism, but I need a design for Lavinia’s dress. Do you want an early epoch? Late Roman Empire? Holy Roman? If the mechanism passes muster, the rest is just costume work. Give me a lead of about… two weeks? We have aftermaths from the Hercules exhibition I can alter.”
+
+“I think I need to take a video.” Eppie felt her pockets for her phone. “I think my Production Manager is going to freak…”
+
+“Don’t go crazy just yet,” Kessler was all smugness and smiles. “There’s a mouthpiece too…”

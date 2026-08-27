@@ -1,0 +1,221 @@
+---
+id: e83361f3-8e1b-582b-8c3a-5564c304790a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 Honey, ice cream, and falling night"
+slug: 0007-chapter-6-honey-ice-cream-and-falling-night
+partOf: melody-of-mana
+position: 7
+ownLength: 3780
+unit: words
+ownProgress: 3780
+publishedAt: 2021-06-22
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703543/chapter-6-honey-ice-cream-and-falling-night"
+royalRoadId: "703543"
+markedReadAt: "2026-06-29T22:26:29.009Z"
+---
+
+Spring came and I managed to convince dad to let me set up my hive in an unused corner of one of our fields. That area was a bit too rocky to be useful, and clearing it out would not have been worth the effort in my family's opinion.
+
+There were no bees in it as of yet, a problem I was currently working on. Starting by building an appropriate outfit for my brother, Rod was volunteered to help me a bit. The main part he'd need was a face shield. Using my mesh, and with a bit of haphazard straw weaving I should be able to manage to construct something that at least looked like it'd keep bees off of his face.
+
+I was only allowed to work on my side project in the evenings. Chores waited for no girl, and between that and lessons I was swamped. It would take me a few weeks at the very least to prepare the hood and gloves.
+
+It was a few days after returning home that those lessons began with a check-up from my now mentor Mystien.
+
+"Alright, welcome back, let's cut to it," with that he handed me a book, a first for me. It was already opened to a particular page, "Let's see if you actually did what you were told," he smiled.
+
+"The basic structure of water-type magic is the triangle. Visualizing it while imagining the properties of water will increase the effectiveness of your water magic." I read out, suddenly the shape of Mystien's aura began to make a bit more sense, along with the feeling that the magic he used was based on trig.
+
+"Very good, I never taught you that, but using it, let's see what you can do with water magic now shall we?" he asked, pulling over a pot, "Fill this up as much as you can."
+
+I began to do as he asked, filling the pot up about halfway with the normal amount of mana I'd been using for a practice spell, a marked improvement.
+
+"Um, can I try again? I think I can do better," I asked him as he emptied the pot. He nodded and brought it back over.
+
+This time rather than just triangles I pictured things as I'd learned they were in science class. Oxygen, covalently bonded to hydrogen in a bent angle. I even tossed in the hydrogen bonds that made water so much like it was. I almost blinked, the mana usage plummeted. It was still slow, but I easily filled the pot with the same amount of mana. Doing water like this hadn't occurred to me before.
+
+"Very good, what did you do?" he inquired as he looked over my work.
+
+"Umm, I sort of changed it a bit," how to explain my knowledge of chemistry to a wizard, I may have made a mistake here.
+
+"Well, I learned a bit about making ice over the winter," I admitted, which got me a stern look, "and how I did ice was just water with a hard hexagon shape." that got me a startled look.
+
+"Putting aside that you were experimenting with magic without my supervision, something you are not supposed to be doing, how did you know that hexagons worked well with ice?"
+
+"It just seemed right," I lied. Explaining that ice crystals were hexagonal at standard temperature and pressure was a bit too much for a four year old, "but, if you take a hexagon and divide it up like this," I drew a diagram out, showing where the oxygen and hydrogens would go, and cutting off to make a standard water molecule shape, "Then you just make the edges grab to the center pieces like this," I drew several angles representing water, with dotted connections between what would be the oxygen and hydrogen atoms, "and then I imagined it all moving around a lot, because water moves a lot," I finished.
+
+He blinked at my words, "Stay here for a moment," he said before stepping outside. I assumed to cast something. When he returned a few minutes later he gave me a very hard look, "You are not to tell anyone else about your technique, it's too strong. You don't want to be known to know that," his words had both a harshness and concern in them.
+
+"W-what?" he looked a bit scary, and seemed to be implying something important.
+
+"The army will want this, and they won't want anyone else to know about it. They will go after anyone they think knows," his statement chilled my blood, the way he said it didn't help.
+
+I nodded, "Okay, I won't tell anyone," of that much at least I was sure.
+
+He ran me through the rest of my spells afterward. My comments on repairing more serious injuries only got a small comment, "Yes, almost anything can be healed, even missing parts, but the mana goes up by quite a bit if parts are missing," he shrugged.
+
+When my father got home that night he actually used his belt on me. I almost never got punished, being a pretty well behaved kid, and never before by dad. Apparently Mystien told him about my unauthorized experimentation with magic, and the clarity of how not allowed that was became clear.
+
+Upon finishing my brother's improvised bee suit we began 'operation acquire bees'. Rod thought I was insane, John couldn't stop laughing. First things first, we needed the basic tools, knives, which every child over the age of eight carried, a smoker, improvised out of a small clay pot we used to hold coals at night, and a small cup and board to capture a bee on.
+
+I had never kept a beehive before, but my uncle had, and had explained far more than I thought I'd ever cared to know about bees when I showed even the slightest interest. He was a really nice man, even bought me a book on the subject, but my interest stopped after the first time I went to watch him and got stung like ten times. I briefly wondered how he was, and I knew I'd probably never know, but I hoped he was well.
+
+I began by catching a bee on one of the afternoons I had off, a bit of honeysuckle nectar as bait, and holding it for around a quarter of an hour, following it once I had released it, a process I repeated for around four hours. After a good amount of trying and some luck, I managed to locate a hive, ten feet up a tree.
+
+The next part had to be done at dinner. My father had taken to training the boys in fighting during the afternoon, and they were both tired when I struck.
+
+"Big brother," I poked Rod, "will you come help me catch some bees?" I asked pleadingly.
+
+"It's spring, you don't get honey until summer," Rod said leaning back in his chair.
+
+"I want to catch the whole hive though," I continued.
+
+"For what?" he quirked an eyebrow at me.
+
+"So that we can harvest honey from it many times," I could tell I had his interest
+
+"That won't work Alana," he responded, "at least I don't think it will," he scratched his chin.
+
+"I'll make you ice for your bruises," I offered, knowing I needed some immediate incentive, "if you help me with my project," he looked at me full on now, "you can use it for drinks too. I could just heal you, but I think ice would be better wouldn't it?" I kept pushing.
+
+Dad had started their training, and while John had taken to fighting like a fish to water, Rod had not. He still managed to hold his own just through size and reach, but that gap was closing quickly upon him. Every day he looked more like he'd taken a sound beating.
+
+"You should help your sister, if nothing else it'll make her stop pestering everyone about it," dad offered from the side. "If and when she finds a hive, you two take a day to put it in her weird little box," his blessing, along with the added benefit of a day without training was the final push I needed."Okay little sis, you find a hive and I'll help you," Rod patted my head. He seemed to think I never would.
+
+"Found one earlier today Rod. We can do it tomorrow if you want," I gave him a big grin.
+
+"Devious," John laughed as all involved agreed on what our plan for tomorrow was.
+
+I spent the rest of the night making a small wicker cage for the queen.
+
+"Okay, there'll be a bigger bee right, and you need to get it. If you don't get that one, we failed," I explained as we brought all of our tools near the hive, "John and I will be way back. We'll get the ladder and stuff after all the bees are gone."
+
+"You've explained your whole plan here several times, I know," Rod retorted.
+
+"Okay then, it's all on you," I went and stood with John.
+
+We watched as he carefully pried open the hive and began putting comb into frames with string, each then loaded into the box.
+
+"He doesn't seem bothered by the idea of opening up a beehive," I commented to my other brother as we watched.
+
+"Why would he be? After ten or so all us boys hunt them in the summer," he responded, "Wish I could draw though, I'd love to have a picture of this," he quipped. He seemed to think the whole operation was the funniest thing he'd ever seen.
+
+"You go after bees?" this was news to me.
+
+"Yeah, honey is tasty, you can sell it in town if you like. Also the thing to give to a girl you like, girls really like sweet things," he nodded. He wasn't wrong, my pushing for this whole operation was some evidence.
+
+Rod finished up and waved at us. The bees looked peeved and he held up the little queen cage, giving a gesture that he'd succeeded. I made cheering motions as he packed up and took the hive off to it's new home, the cloud of bees following along.
+
+After a solid wait, John and I cleaned up the tools. We both got one or two stings doing so, but managed without too much hassle. I also grabbed up a few dead bees, for future use. The next day I came back to scrape all the extra wax I could from the now defunct hive, it was useful stuff.
+
+The bees, to my great relief, actually stayed, and after a few more bits of instruction Rod became quite the beekeeper. I was surprised at how well he took to it, but it seemed he'd developed a soft spot for the little bugs. I also kept paying him with ice and the occasional healing, which probably helped.
+
+My hive had come with two extra boxes, what would have been called 'supers' on Earth. These I loaded up with frames, filled with wood backing with a layer of wax.
+
+I also did some measurements on the bees, and a bit of testing with a couple of boards and a box to come up with a size for a queen excluder. Getting it was a mess, involving cajoling, and the healing of several villagers before my dad would order it for me. Uncle Barro made it to exacting specifications, and my little wire mesh was ready in time for summer, to my great joy. It, and my supers were installed immediately as per my requests.
+
+Mid summer rolled around, and life continued as it was. The peace of all of it only broken by a dinner conversation.
+
+"Sorren reckons his ox has about had it. He's planning on slaughtering it in ten days," dad declared.
+
+Sorren was one of our neighbors, he was nice enough, "That's gonna be a lot of meat," I nodded along.
+
+"Aye it is, he's invited everyone to have a big feast of it. We'll salt most of it, but there should be a good bit for cooking too. We'll need to take something with us for the feast, like honey," dad looked at me squarely.
+
+"Not from my hive," I pouted.
+
+"Don't be greedy Alana," mom chastised me.
+
+"It'll make more honey over time, if we take it now, we won't get any more from it," I argued, "What if I find another we can get honey from?" compromise was often a winning solution.
+
+"If you can find another, that can give four jars of honey, we'll leave yours," dad was nothing but reasonable.
+
+I had to give it to him, even on Earth, most parents would just say no to their kid. I knew he expected me to fail, but still. The jars he indicated were of a standard size, full I could guess he wanted around two gallons of honey, twenty-five or so pounds. That that was almost assuredly more than my hive would have was not lost on me.
+
+"Okay," I agreed, knowing that this was the best deal I could get, "Can I borrow Rod for a few days?"
+
+Dad nodded, "You can, but if you don't get that honey I don't want to hear any whining about taking it from your hive," with that it was settled.
+
+The next day Rod and I went to the forest. We had to go a good ways in so that we didn't just find my hive again, and from there I showed him my technique.
+
+"I like it," he nodded as he watched me following the bees, "How long will it take?" his only question.
+
+"Long as it takes," a frustrating, if not incorrect answer.
+
+It took half the day, at the end of which we were both quite tired, but we found one. The hole was around twenty feet up in a tree, and amazingly busy.
+
+"I'm going to check it out," my big brother declared, and began to climb.
+
+He made it about halfway up before stopping, tapping the tree and climbing back down.
+
+I looked at him, my question obvious.
+
+"It's big," he responded, "That thing is big, we'll come back tomorrow, and we're bringing John,"
+
+I didn't really understand, but nodded, he seemed to know his stuff.
+
+We returned the next day with all our tools, and what even seemed to me like an obscene number of baskets. Then my brother began to crack open the hive.
+
+I understood why he'd stopped halfway up. It looked like the bees had hollowed out this whole tree, which was, I finally saw, quite dead. This thing was a monster of a hive.
+
+I began that day to realize that while my oldest brother might not be much of a fighter, he was undoubtedly skilled with his hands. He pulled comb after comb from the tree, deftly cutting and separating the honeycomb from the brood, tossing them in different baskets.
+
+We wanted both the honey, and the wax from the brood comb. Both were quite valuable, though the honey moreso for us.
+
+Rod had to put the raid on hold twice as we retreated, for me to heal some of the stings up. He was getting dozens, just from the time and quantity. I made sure to take the extra time to deal with the poison too, it was slow, but important. While he continued John and I would head home to deliver our bounty and eventually get more baskets.
+
+The whole process took the entire day, at the end of which I was left to process out our spoils, the boys deciding that they'd helped more than their share.
+
+Mom joined me for this, chatting as we worked to set the lot up.
+
+"How many jars do you reckon this is?" I asked. I was arm deep in crushed and cut up honeycomb.
+
+"I don't know dear, more than enough I'd say. How big was the hive?" she looked over the baskets worth that I was working on.
+
+"Huge, are we going to make it into anything, or are we just going to take pots of honey with us?" the whole idea of a big feast was something new to me, large animals were almost never killed, and if they were they were sold at market.
+
+"Some of it, I've got some nuts we can toss in too, and maybe we can find something else to take," she had crushed up several cones, setting them to drain their contents into my ice cream churn, a device she'd been giving glares as it sat unused at an increasing interval.
+
+"I've got an idea," I then proceeded to explain the use of that churn. Pretending it was something one of the soldiers over the winter had told me about when asked. The ingredients for ice cream were all close at hand, or easy to get, with the honey as sugar, we were set.
+
+The morning of the would be feast we awoke early and gathered with the rest of the local families in an open area nearby to Sorren's home.
+
+It was a party atmosphere as the men slaughtered the old ox and began the process of cutting the meat into cuts, several of them also setting up tables and the like for when all was readied. The women and girls started the long process of communal cooking, chatting idly as pots of meat and vegetables simmered happily.
+
+I was paired with two girls named Sara and Lena, both about a year older than me. I'd met them a few times, and we'd played a bit when we were still toddlers, but as of late I hadn't had much to do with them, I was too busy with everything. It was a bit odd talking to those around my physical age, being so much older mentally, but I decided that I needed some friends, and this would be a good place to start.
+
+"Are you excited about the food?" I asked, this got fervent nods.
+
+"Yeah, I've never had beef," Sara said, "Oh, I had it once, it was yummy, kinda tough though," Lena added in.
+
+"I think it is kinda tough, but it looks like we're roasting most of it with sauce, that should help," indeed most of the meat being cooked today was going in large vessels with a sweet sauce, a mix of honey, vinegar, tomato, and herbs, what one might expect from a standard barbecue sauce, guess that might be universal.
+
+We alternated with tending the two pots we'd been set to and playing a game not unlike hop scotch, save that the board was circular.
+
+Throughout the day people came by to talk. Even my brothers, they came together a few times. Rod seemed determined to awkwardly flirt with Sara's older sister Sandra. They were cute together.
+
+Several other girls came by to gossip with Sandra after the boys had left, asking for opinions and the like on my brother, as well as a few more boys his age. The discussion on who was best was intense. Sandra's mother and my own were off in a corner too, huddled together in conversation. I couldn't hear much from them, but it would seem they approved of the pairing, or at least thought it was adorable.
+
+These might have seemed like games to me when I first came here, but it was quite important. Our little hamlet was tiny, even the whole village wasn't that big, and the list of potential spouses was short. All that considered, it was quite possible that my big brother would be marrying the girl he was trying to chat up when they both came of age at eighteen.
+
+Lunch consisted of mostly quick cooking foods, the only meat some that had been shaved thin, even then it was still a bit tough. The old beast had been ancient. It was short, but rather enjoyable on the whole, we even had some sandwiches of the meat, I thought they were a hit, but most passed.
+
+After lunch Rod dragged John with him to continue his flirtations several more times, it eventually became a distraction. Mom solved this by filling up the ice cream churn and setting the two to work. I provided the ice, and with a bit of salt added to it, the two could use their overabundant energy productively.
+
+The whole event could only be described as a miniature festival, and continued on until dinner. Which started with a series of toasts to the generosity of Sorren, and his toasts to the others who'd brought food as well. The food that night was the best I'd had since coming to this world. Slow cooking the meat was absolutely the winning choice, and whoever had made the sauce was an artist. My ice cream was the after dinner hit, mom got someone from every family asking how to make it, even old Mystien came by to check out the churn.
+
+The sky was darkening as we cleaned up, our bellies full and joy on every face. It was as a few last jokes were being told that we saw him coming, a rider in some kind of official looking getup. All conversation stopped as he came near, not even getting off of his horse.
+
+"Is this everyone who lives here?" asked the rider.
+
+My father looked around, "Yes, it appears to be, something has happened?"
+
+The rider nodded to my dad, pulling out a scroll as he did so, "Good, it'll make this easier,"
+
+"Oye, oye," he intoned, his voice loud enough for everyone to hear.
+
+"By decree of His Majesty Erik the Third, King of Bergond and Master of the Great Cities.
+
+War is henceforth declared upon the Empire of Ermath. To suit our great nation on this righteous endeavor towards their destruction, every man between the ages of eighteen and thirty, excluding those with three or more children below the age of fifteen, is henceforth ordered to report to the appropriate officials for registration in the kingdom's military," with that he rolled up the scroll.
+
+"Thus ends the official decree. The mayor would be who you would report to, he will be sending you off to Lord Hazelwood once that is done, that's who you should see. Volunteers outside of the required men will of course also be accepted," the messenger looked out over us, our whole group stunned to silence, "Be well," with those last words he rode off, leaving us standing there as night fell upon our happy little home.

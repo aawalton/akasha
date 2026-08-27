@@ -1,0 +1,179 @@
+---
+id: 5f41290d-e1b3-5e98-8229-f80e9cfa405d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 – Rebel Camp"
+slug: 0044-chapter-44-rebel-camp
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 44
+ownLength: 1883
+unit: words
+publishedAt: 2025-01-11
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2005055/chapter-44-rebel-camp"
+royalRoadId: "2005055"
+---
+
+Hazy trees towered around Kindra. An uneasy silence lingered in the air, lurking like the countless creatures that were out there, hidden. Her focus shifted, and she studied the trees. Mana flowed through them, lighting the green forest with a soft glow.
+
+It is beautiful. And strange. So many strange dreams.
+
+“Come out, or lose your precious forest,” she said, raising her hand and willing her magic forward. Runes took shape around the flowing tendrils of magic.
+
+An image appeared in her mind. A regal-looking elf focused on her. His golden hair flowed in the breeze, and he flicked out his hand, willing the magic to crash against her spell. “You will not win.”
+
+Shoving the magic back, Kindra snapped her fingers and gestured to the woods. Large undead raptors stalked by. Talons protruded from their feet. Missing green feathers revealed decaying skin, and they ran, racing through the forest with their tails wagging.
+
+She strode forward, fighting against the magic that tried to end her spell. “Come out, come out, little elves.”
+
+The forest remained silent.
+
+Walking around a tree, she looked across the clearing. The raptors surged forward. A wave of other undead dinosaurs followed, thundering out of the woods. The ground shook around her.
+
+Looking at the treetops, she saw homes built on the branches. “And thus begins the final stand of the elves,” she said, her voice bouncing across the clearing.
+
+A barrage of arrows flew from the trees, slamming into the undead and raining toward her. Her magic flared, and a shield slammed out. The arrows smashed into it like a rain of wood and metal. “Pitiful,” she muttered and stepped forward, the strange language dancing off her tongue. Chanting, she willed her magic into a stream, focusing it into a ball of flames.
+
+The archers in the treetops shouted. The undead crashed forward, stone smashing into them and grinding them into the ground. Her spell surged, and Kindra’s shield dropped. She hurled the ball of fire into the houses, and an arrow slammed into her chest.
+
+Hissing, she brought back the shield and looked down. Her heart thundered. Pain rolled through her body, and blood poured from the wound.
+
+“So annoying.” Coughing up blood, she reached into her bag and pulled out a glowing potion. Downing it in a single gulp, she ripped the arrow free and watched her fireball cruise forward. Stone and water rose to meet it, and it exploded, sending waves of fire rolling through the trees. Smoke filled the air. Homes caught fire, and Kindra coughed up another mouthful of blood.
+
+These happened, didn’t they? The thought and pain gnawed through Kindra.
+
+“Kill her!” an elf shouted, appearing and drawing an arrow.
+
+Kindra smiled. She invoked another spell. It sat there, pulsing with an ominous black, and a roar thundered through the air. The ground shook, and a voice filled her ears.
+
+“Kindra. Kindra, wake up.”
+
+“No,” she muttered, her dream freezing around her. It began to break, pieces falling away like a shattered mirror.
+
+“Kindra, get up.”
+
+The fragments fell, crashing down around her, and she opened her eyes, blinking and looking around the small stone building. Those dreams suck. She sighed, her arms surprisingly warm, considering her surroundings.
+
+Sigrid smiled cheerily. Her red hair dangled over her shoulder, and she patted Kindra. “Back with us?”
+
+Kindra looked down at the fur that was covering her. Last I remember… She blushed. “Did Gleon wake up?”
+
+“He did.”
+
+Kindra rubbed her eyes and looked around the room. Two dwarves were missing. “Where are they?”
+
+Sigrid sighed outside. “We had some visitors, and my father was never one to ignore company.” She gestured to the door.
+
+Placing the fur to the side, Kindra stood and poked her head outside. A large bear growled, sending a low rumble through the air. Blood ran down its black fur, and a massive wave of mana sat inside, thrumming like a small sun.
+
+How strong is that thing?
+
+It charged toward Gleon, its mouth opening to reveal teeth larger than Kindra’s fingers. The teeth shone a vibrant white, magic surging through them. Gleon hefted his axe, spat, and charged it.
+
+“Are they going to be okay?” Kindra asked, leaning closer to Sigrid.
+
+Sigrid placed her arm around Kindra. “Of course. Your father and grandfather are strong.” She peered out the door. “And I’ll help if needed.”
+
+Kindra watched and frowned, gnawing on her lip. They still think I’m a kid, don’t they?
+
+A loud thud carried through the air. Gleon’s axe bounced off the bear’s skull, leaving a deep gash across its face. Blood ran from down its black fur, and the bear sunk its teeth into Gleon’s leg, shaking him like a rag doll and slamming him on the ground. Blood sprayed. The metallic scent hit her nostrils.
+
+Nah. Time to hunt bear. Kindra pulled out her rifle, the cold metal appearing in her hands.
+
+“He’ll be fine,” Sigrid said, patting her and reaching forward. Magic surged around her hand, runes flashing in and out of existence. A spear of stone shot from the ground, slamming into the bear’s neck. Blood sprayed, and the bear coughed, releasing Gleon. He tumbled across the ground, blood spilling from his mangled leg.
+
+Nah. Kindra aimed and pulled the trigger. Her gun barked, the sound bursting through the forest. The slug flew, and the bear’s eye exploded, spraying blood and viscera into the air. The bear bellowed, jerking to the side and turning toward them.
+
+Kindra aimed, and Dain slammed his hammer into its head. The bear staggered, turned, and stumbled forward.
+
+Exhaling, Kindra looked down the barrel of the gun. She exhaled and pulled the trigger. The gun barked. Sigrid jumped, and blood exploded from the bear’s fur.
+
+It turned and ran, fleeing for the woods. Exhaling, Kindra aimed, and an angry Gleon blurred across the ground. Leaping into the air, he brought his axe down in a furious chop, sinking it into the bear’s spine in a spray of blood.
+
+Woh. Kindra’s eyes widened. Blood sparkled in a few errant rays of sunlight, and her stomach grumbled.
+
+The smell filled the air, and she stepped forward.
+
+Sigrid’s hold tightened.
+
+“You know I’d never try to eat you, right?” Kindra said, turning toward the dwarf.
+
+Sigrid swallowed, pain flashing across her face. “Yes, but it would be best not to give in to the urges.”
+
+Kindra nodded. It’s just food. She reached down and grabbed the casings, stashing them for replacement bullets. Looking up at the trees, she searched for fruit. Mana-filled fruit isn’t bad… Should I tell her that? She turned. “Mana-filled fruit tastes good.”
+
+Sigrid turned and smiled. She nodded. “That it does. Let’s try to find some.” She walked out of their little hut and searched the trees.
+
+Kindra stepped out and looked at the canopy, failing to see anything resembling fruit. Maybe they have nuts? She searched and failed to see any.
+
+Dain walked over to the bear. “Is it safe to return?”
+
+“Yes,” Gleon replied. “They’ve lost us.” He wiped off his axe and sheathed it.
+
+Kindra looked back at the hut. Wood and other supplies filled the building. “Why’d we gather all that?”
+
+“In case we had to spend a few days inside. And it’s a good hunter’s cache,” Gleon said, looking over with a smile.
+
+“Can I use some of the ironwood then?” Kindra asked, looking at it with a smile. I have a lot of mana. I can get some bullets, real bullets.
+
+“Sure,” Gleon replied, gesturing to the stack outside the hut.
+
+Kindra darted to it and pulled out more metal. In theory, I could downgrade to my pistols if I use a high enough enchantment… half and half. She nodded to herself and pulled a few logs to the side. Burning mana, she watched it steam and smolder.
+
+Stepping back, she waited, and Sigrid watched with a curious expression.
+
+“It’s like coal?” she asked.
+
+“Sort of. That’s not quite as good, but yes. The idea is to have it all burn at once. That pushes the bullet out.” Kindra reached down and drew in the dirt, drawing the casing, the bullet, and the powder.
+
+“And what lights it?”
+
+Kindra pointed at the end of the bullet. “The pin. It pushes on a special chemical, called primer, that lights on fire when pressure is applied.” She looked over at the mess she’d made. The smoke and steam drifted away.
+
+“It’s a non-magic way to throw small rocks?” Sigrid asked, taking the bullet and studying it.
+
+“Yes, at high speed. Very high speed.” Kindra said with a nod.
+
+“A pointy rock,” Sigrid amended with a nod. A smile spread across her face. “Thank you. I will experiment.” She handed the bullet back.
+
+Kindra gathered the bullets. “Experiment?”
+
+“Replicate it with magic itself instead.”
+
+Fair enough. Kindra nodded. “I’d like to see that.”
+
+“Of course,” Sigrid said. “You’d make a good druid.”
+
+Kindra straightened. A wave of magic flowed forward. Runes danced through the air, and she scowled at it. “Scrying spell.” She gestured at it and formed the counter in her mind.
+
+The spell hung there like a living eye.
+
+“That’s what I was afraid of,” Dain said, sighing loudly. He scowled.
+
+Gleon chuckled and waved. “Where is it, Kindra?”
+
+She pointed up at the magic. A glowing axe shot through it, ripping it apart. Runes broke into pieces, falling down like fragments of incorporeal glass. “You broke it.”
+
+Gleon grinned and nodded. He jogged over and grabbed his now non-glowing axe. “Thank you.”
+
+“How do we stop that?” Kindra asked.
+
+“Enchantments or be somewhere that is just trees.” Gleon gestured to the forest around him. “They won’t get much from this.”
+
+Kindra turned and nodded. That’s true. She looked up at the canopy above. “Will they try again?”
+
+“Periodically,” Gleon said. “I was debating staying here, but the undead didn’t find us in the night.” He tossed his axe over his shoulder and looked at the three. “Ready?”
+
+“Yes,” Sigrid said, walking over to the bear carcass.
+
+I sure hope they don’t expect me to carry that. Kindra walked up and looked at the monstrous thing. The size of a small car, it had to weigh at least a ton. I can’t carry that much… She paused. Or can I?
+
+“Get the other leg, Kindra,” Sigrid said, gesturing.
+
+Kindra grabbed and struggled to get the heavy thing off the ground, the weight far more than she’d realized. How thick is this thing? She scowled and tugged, trying to get it fully off the ground.
+
+“It’ll be alright,” Gleon said, grabbing the front paws and hoisting them over his shoulder.
+
+Dain took the paw from her, patting her on the back. “Keep an eye out while we walk. Some things hunt based on the smell of the blood.” He hoisted the bear off the ground.
+
+Kindra stepped to the side, looking at the large creature. Magic remained in the fur and meat. She pulled some leaking mana into herself. I wish transmutation made magic gear. I need to figure that out and turn this into leather armor.
+
+The group lumbered forward, and Kindra shifted her focus to the trees. She looked out at the jungle and followed the three toward the cliffs.

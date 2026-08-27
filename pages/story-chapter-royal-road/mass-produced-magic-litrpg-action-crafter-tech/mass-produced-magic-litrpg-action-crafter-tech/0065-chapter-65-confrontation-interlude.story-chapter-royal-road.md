@@ -1,0 +1,145 @@
+---
+id: 62b292a0-e4cf-5d86-8569-1706da928d70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65 – Confrontation – Interlude"
+slug: 0065-chapter-65-confrontation-interlude
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 65
+ownLength: 1620
+unit: words
+publishedAt: 2025-03-01
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2097722/chapter-65-confrontation-interlude"
+royalRoadId: "2097722"
+---
+
+Varric glowered, and a dwarf groaned. The smell of blood and smoke lingered in the city’s air. The sound of distant fighting could be heard in the moment of silence. Undead birds flew overhead, circling and relaying everything back to their master.  We stand on the brink of disaster.  Anger roared through him.  I should have killed them all.
+
+“Relax, dear. We will capture the others,” his wife said, stepping forward and glaring at the manacled dwarf. “Who else?”
+
+“No one,” Stavn whispered. “They ran. You know that.”
+
+Varric’s foot slammed into the priestess, knocking her to the ground. “The girl, Kindra. What did you see?”
+
+“She is an artificer. I swear it, Varric. You know I wouldn’t lie,” the priestess replied, pulling herself into a ball and revealing the manacles on her arms. Runes etched in the metal glowed with a soft light.
+
+“What else?” Varric demanded.
+
+“She has too much affinity to mana. She’ll be offered a highly-ranked caster class.” The priest looked up. “Please, Varric. I am not with the rebels.”
+
+“Did she kill the undead?” Varric asked.  Maybe that’s why they want her…. Perhaps that will be enough to appease them. Another to join their ranks. Though, they have never taken a dwarf before.
+
+The priestess looked at him, blood trickling from her split lip. Her hair and robes were covered with dirt, and she nodded at him, uncertainty flickering through her brown eyes.
+
+“Of course,” his wife said. “And she is to join them. She has their gift.” She grimaced. “Pity we didn’t realize it then. It was apparent.”
+
+“How does one unlock such an affinity?” Varric whispered, leaning closer to her. “How do I get it?”
+
+The priestess trembled. She lowered her gaze. “I don’t know.”
+
+Varric snarled and turned away.  Useless.  He paused.  I’ll ask the girl.  He turned his focus back to Stavn. “I will kill every member of your family if you do not speak. Who else is in the rebellion?” he hissed.
+
+Varric’s wife walked over to another prone dwarf lying on the cold stone in a puddle of blood. She raised the whip.
+
+“Please,” another prisoner whimpered. “I’ll tell you anything. Just let me go.”
+
+Varric spun and walked to the dwarf. “Who else is aligned with them?” he asked, baring his teeth and reaching for a knife. He pulled it from his sheath.
+
+The dwarf looked up. “And you’ll set me free?”
+
+“You’ll be rewarded,” Varric said, nodding. He looked up at the spiraling birds who kept a watchful eye on everything.
+
+“There are secret tunnels in the mines and farm below. They lead—”
+
+“No!” Stavn barked, slamming against his shackles. The stake in the ground surged with light, and a whip cracked across his chest, ripping skin from his body.
+
+Varric kept his focus on the dwarf. “Where?”
+
+“They lead to rebels in the town,” the older dwarf finished. “That will lead you to all of them.” He held up his shackled hands with a look of sorrow.
+
+“Where are they?” Varric demanded, tapping his foot on the dirty stone. “Draw them.”
+
+The man reached down and began sketching a path.
+
+“Traitor,” Stavn hissed. “You are all traitors to your own people. You’d rather—”
+
+The snap of the whip rang through the air. Blood ran down his chest, and Varric walked into the nearby barracks.
+
+Marching to a nearby bed, he ripped the blanket off and walked out, dragging it behind him.
+
+Cutting off a strip of the blanket, he grabbed it, tied it around Stavn’s mouth, cinching it shut and smacking him upside the head. “Bite through that, and I’ll cut out your tongue.”
+
+Varric turned and walked back to the other dwarf, who’d outlined the tunnels on the ground. He studied them and turned toward the mines. The nearby smithies were smashed into rubble. They smoldered, sending up plumes of smoke.  Rotten traitors.  He scowled and looked at the entrance. It smoldered, the coals lighting the hill and city with an ominous red glow.
+
+Turning back to the guards, he met the captain’s eyes. “Go. I want every traitor in chains before she arrives.”
+
+The captain saluted and ordered guards forward. Varric looked at the sketch and back at the kneeling man. “Who else?”
+
+Stavn’s voice rang. “Traitor. Monster. B—”
+
+A whip cracked across his back, ripping away flesh. Varric walked forward. Taking his knife, he shook his head. “Do you have any idea how much I’ve sacrificed to keep us alive? Do you?” He spat on Stavn’s head. “They would kill us all, you fool.”
+
+Stavn met his gaze. “Bastard,” he snarled, and whip cracked. He grimaced, blood running from the wound.
+
+Sheathing the knife, Varric turned and gestured to a guard. “Break his jaw. He won’t need it anymore.”
+
+The guard stepped forward, pain in his eyes. He walked up to Stavn and stared, his arms trembling.
+
+“Do it,” Varric hissed.
+
+The guard raised the hammer and swung, arcing it through the air and slamming it into Varric’s side. His ribs snapped. The traitorous guard raised his hammer, and Varric tumbled, staggering to his knees. The crack of the whip filled the air.  I’ll kill him.  The guard yelped and slammed his hammer onto Stavn’s shackles.
+
+The metal glowed, absorbing the impact without a care. Varric lurched up and coughed, blood oozing from his mouth. He looked at the treasonous dwarf as rage flooded through his body.  He broke my ribs.
+
+The guard spun, his hammer swinging once more. Varric lurched backward, and a burst of flame engulfed the guard.
+
+He screamed while his flesh melted. The smell of burning flesh and hair filled the air, and the hammer dropped to the ground.
+
+“Heal him, or you are next,” Varric’s wife hissed at the priestess, fury in her eyes, the blue replaced by a glowing red.
+
+The priestess gestured, and Varric felt his bones realign. Agony raced up his side, and he coughed, blood running down his chin. He coughed again, sending a spray of it out onto the prisoners. Reaching up, he wiped away the metallic liquid, the scent lingering in his nose and the taste still on his lips.
+
+Moving forward, he grabbed the hammer and spun. It whistled through the air and slammed into Stavn’s jaw with a sickening crunch. Blood and teeth hit the stone. He looked up with rage in his eyes.
+
+“Try me,” Varric said, glaring and spinning. He looked at the charred remains of the guard.  Idiots. Don’t they realize what this will cost us?
+
+He turned back and spit residual blood on Stavn’s head. Hefting the hammer, Varric raised it. “Let this be a lesson to all of you.” He swung it like a bat, smashing it into his jaw once more. The loud crunch rang through the air, and Stavn dropped to the ground, blood oozing from his mouth.
+
+Rage surged through him as he turned and glared at the other prisoners. “I am trying to save our people. You fools would doom us all.”
+
+An older dwarf raised his head. “Better dead than slaves.” He glared and looked at Stavn. “May the gods condemn you and them.”
+
+“The gods are dead. How have you not realized that?” Stavn walked to him and embraced the rage. It mingled with the taste of blood in his mouth.  They need to learn. It is necessary. We survive.  He raised the hammer. “Tell me every rebel you know. Which ones remain in my city?”
+
+“Your city?” another dwarf called, fury in her green eyes. “You have failed us.”
+
+Stavn swung the hammer, slamming it into her side. Ribs snapped, and she curled on the ground.
+
+He lifted it again. “If you won’t do this the easy way, we’ll do it the—”
+
+“Leave her be!” a young voice shouted.
+
+Stavn jerked up.  Who?  He looked over to see a young dwarf, no more than eight years old. His short black hair was a mess, and his clothing was worn. Holes were in his pants, and rage burned in his brown eyes.
+
+The boy held up a small hammer and stepped forward. “Leave them alone.”
+
+“Leave,” Stavn barked. “Before you lose your life and hers. This is not a game. This is not a fight you can win. Do you know what she will do if she discovers the rebellion remains?” He stepped toward the child. “Turn us all into that.” He gestured to the undead dwarf that staggered into the square. It lurched forward and then dropped to the ground in a burst of light.
+
+A small fairy with silver hair and a silver dress flew into the air. Aika turned her focus toward the group gathered, and people everywhere gasped.
+
+“Praise be,” a guard murmured. “The fae,” she whispered.
+
+Stavn stared at her. His mouth dropped open.  How is she here? She can’t be here.
+
+“The fae returned?” a prisoner asked, looking at Aika.
+
+Aika stared at them. She looked at Stavn and scowled. “Let them go. Let them go, right now.”
+
+Stavn stepped backward, his anger giving way to relief.  The fae. We can leave.  He reached for the keys on his belt, and a cold laugh bounced across the city.
+
+“No, he won’t be doing that, my dear,” an ancient voice called from the sky. A bolt of lightning crackled into Aika, and she fell to the ground in a charred heap.
+
+Stavn looked at the undead wyvern that had landed outside the building. Elana stepped off of its back and looked at the people gathered. “So much trouble. Mother is displeased.” She smirked.
+
+“Please, my lady,” Stavn said, holding up his hands.
+
+Elana laughed, and a cloud of sickly green magic flooded the square.

@@ -1,0 +1,221 @@
+---
+id: 366fdd15-2ff1-51ae-8ddf-3238972dab7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 670 - Travel and Quickways"
+slug: 0176-chapter-670-travel-and-quickways
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 176
+ownLength: 2975
+unit: words
+ownProgress: 2975
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3036065/chapter-670-travel-and-quickways"
+royalRoadId: "3036065"
+markedReadAt: "2026-06-29T19:40:42.480Z"
+---
+
+Tala rested on her throne, not because she was tired, but because it was a comfortable place to observe the landscape flashing by below her flying construct as they were carried toward Croi.
+
+Rane and Lea were in their own chairs nearby, both reading books, actually. The similarity caused Tala to smile a contented smile, even if which books was quite the difference.
+
+She liked her family, and she loved little things like that that reminded her of their close connection. The fact that Rane was reading on the formation of stone from softer substances through the aegis of time, and Lea was consuming a book on unit tactics in humanoid warfare didn’t ruin that feeling.
+
+Even so, Tala was plagued by memories completely apart from those of her family, her perfect recall able to pick out similarities between this and her last trip from Platoiri to Croi, back when she’d been afraid for her very self, accompanied by him even as they moved ever farther from home and safety.
+
+She felt no fear now, and even the memory of that time had lost most of its sharpness. That time, as awful as it had been, was the only reason any of this was possible.
+
+She, an Archon, was welcomed into the arcane cities and able to bridge the gap between societies, her dual nature as Archon and Eskau giving her standing on both sides of the conflict like no one in their history had ever had. At least, no one to her knowledge.
+
+Previously, all Eskau had been seen as the worst of the worst by the gated who knew of them. This was because they were those who enforced the social structure and authority required for the enslavement and exploitation of vestiges. Even now, Eskau Meallain was tolerated only because she was a prisoner in truth, her advice and training given out as penance. Tala, alone, was an Eskau that the gated could see without encountering the personification of a villain from their darkest nightmares.
+
+On the other side, arcanes saw Archons as those who had ‘stolen’ potential from society. They were hoarding their gates—a limited resource—for personal use instead of helping their House or society as a whole. They were a strong man who refused to help clear a neighbor’s field of boulders despite the desperate need in the community for more land and food production. Worse even, because they made their gates more powerful—thus damaging reality further—and only for their own benefit. Madness. Selfish madness.
+
+Tala didn’t agree, but she could understand the base thinking.
+
+Regardless, once again, Tala was an exception. As an Eskau, she was using her power for her House. Protian weapons had vestiges in them, and that power simply went to empower the Eskau. What difference did it make to the average citizen if that soul was in the weapon or in the body of the Eskau? None. The answer was none.
+
+So, Tala was looked at by both sides as something of a unique case and not even through argumentative tricks or cunning plans. She simply fit in each side’s understanding of the world as on their side, worthy of respect, and in a position to draw these incompatible cultures toward one another.
+
+More than that, on the human—gated—side, she was Reforged, an advancement rarely reached, and on the arcane—gateless—side, she was on her way to hopefully be confirmed as Eskau of War, a title with power and authority not only in the House of Blood, but carrying weight of purpose, honor, and authority that would matter to any who learned of it.
+
+She was shifting from a rope-bridge to one carved of stone and with deep, well-seated foundations.
+
+She frowned. A bridge doesn’t draw together, though… This might not be the best metaphor?
+
+-Well, no analogy is perfect. I think it’s as good as any.-
+
+Fair enough. It certainly wasn’t worth taking time to hunt down one that might only be a little better.
+
+The trip from Platoiri to Croi wasn’t a long one, all things considered, and it passed uneventfully, allowing the Sappherrous family to exit just on the outskirts, the flier being tucked away, back within its space in the sanctum at the same moment their feet came down on the springy turf.
+
+Lea hopped from foot to foot, shaking out her limbs. “That’s too long to be sitting down.”
+
+Rane huffed. “You could have been doing anything with your time, sweet. You chose to read, and it really wasn’t that long.”
+
+“You were reading the whole time.” She responded accusingly.
+
+“Of course, I did. It was wonderful, and do you hear me complaining about it?” He arched an eyebrow.
+
+She grimaced and glanced down. “No…”
+
+“No, exactly.” He nodded once. “Now, come on…” He looked around and frowned. “Wait, where is Terry?”
+
+Terry chose that moment to flicker out of the sanctum, landing on Rane’s head with a triumphant squawk.
+
+Tala chuckled. “He was waiting for one of you two to notice his absence.” She hesitated a moment before adding. “And I think he was waiting, just in case.”
+
+Rane reached up to scritch the back of the avian’s head. “Where was he for the journey?”
+
+Tala shrugged. “Apparently, Walden had use for him.”
+
+Terry chirped an affirmative before reaching up with one taloned foot to pick at something in his beak.
+
+Rane sighed, giving a rueful grin. “Well, I hope you had fun.” Then, Rane seemed to process what she’d said. “Wait… waiting ‘in case?’ In case of what?”
+
+Terry narrowed his eyes, looking all around before letting out a low squawk.
+
+Tala chuckled. “Exactly. Last time I came here, I had a welcoming party of arcanous creatures, even one of reality if my guess was right. He just wanted to make a dramatic entrance if that was the case again.”
+
+He let out an indignant squawk.
+
+“You would have been dashing doing so, very heroic.”
+
+Terry shuffled slightly, seeming mollified, at least enough so that he flickered to Rane’s shoulder for the moment.
+
+Their arrival had been noticed, and as they were expected, the welcome party was already filtering out of the edge of the city.
+
+Given the nature of their visit, they weren’t going to be greeted outside the city by either Eskau or Pillars, as such could be seen as tacit support for Tala’s bid for the position, and that would be unseemly.
+
+More to the point, it could be seen as attempting to curry favor in the event she succeeded in acquiring the title, but that concern overlapped with the first.
+
+Regardless, they were greeted by three squads of House of Blood guards, and a senior adjunct, who all bowed appropriately to Rane and Lea before bowing a bit more deeply than required toward Tala.
+
+When they all straightened, the adjunct addressed her directly. “Eskau Tala, welcome to Croi. We are uplifted by your Revered presence, and no matter what the ultimate decision is, we are grateful to have you among us once more.”
+
+Tala vaguely remembered this cat-kin from her last visit to Croi years previously, but it had been just seeing him in the background rather than any direct interactions. Still, she bowed along with her family. “It is good to return. I have much that I wish to see, and I look forward to seeing a few… acquaintances.”
+
+“Understood, Eskau. Do you wish to take the lead, or shall I guide our path?”
+
+Tala considered for a moment. She did remember the way, but she felt no need to be in charge or in the front. “I am content to follow your lead. May we take the quickways?”
+
+“But of course, Eskau.”
+
+Rane gave Tala a concerned glance. “If I remember what those are correctly, is that wise? Won’t our gates be a problem?”
+
+“I don’t think so. The magics, when used over too long a distance and uncontained, can be damaging, but I suspect the quickways have something to them that I deeply want to investigate.”
+
+He still looked uncertain, but he didn’t protest further.
+
+As they approached the city as a group, Tala could feel the authority of the local City Lord underpinning everything in the area. It had a softness to it that was utterly unlike that within Platoiri. Instead of feeling weaker, however, Tala suspected that this City Lord’s authority was both flexible and strong to the point that it was utterly uncontestable by this point.
+
+She felt almost instantly that, if she were to try to oppose or unseat even the smallest part of this power, she would be utterly unable to do so. She didn’t fear that this authority would grab hold of her of course, but it was something beyond her ability to directly affect in the least.
+
+There is a depth of age to the authority as well, as if this same City Lord has been here for uncounted ages.
+
+-That, or the authority was passed down directly?-
+
+That could do it, yeah.
+
+It didn’t take long to walk deeply enough into the city to find the first quickway. Even so, their short walk was punctuated with quite a few eyes on them, and Tala realized that Rane and Lea didn’t technically have permission to walk about the city unconstrained, given they were gated.
+
+Strangely enough, both Rane and Lea reported feeling like their throughputs were less than usual after they crossed into the city proper. The difference wasn’t enough to affect their inscriptions, but it was enough to weaken them slightly, and they both felt like whatever it was, it could do more.
+
+Tala didn’t feel any such limitation, nor had she the last time she was here.
+
+When she looked closer—even as they were descending the stairs into the quickway—she found what could only be described as a small nodule of authority from the House of Blood that seemed to be pressed against that of the City Lord, the two keeping one another at bay despite there being absolutely no comparison between the two in terms of raw power.
+
+Agreements and understandings?
+
+-That would be my guess as well.-
+
+That was as far as Tala got before they reached the bottom of the stairs, and she could no longer put off her perception of what lay before them.
+
+In every direction—save back toward the edge of the city—were the short-seeming tunnels, thrumming with dimensional magic.
+
+It was a funny thing. The magic involved wasn’t actually that powerful. In fact, Tala suspected that a single vestige could probably power the entire grid across the whole city.
+
+In truth, it was a study in efficiency and precise usage.
+
+The tunnels and their magic would only work here, in this place, and Tala was finally able to truly see how and why.
+
+Her eyes widened. “They aren’t magically shortening the distance, not at the core. This isn’t a simple, temporary effect maintained for the long term.”
+
+Rane frowned, looking for himself. Unfortunately, his perception was both less powerful and differently tweaked than hers. “I don’t quite see what you mean.”
+
+Tala shook her head slowly in wonder. “It is taking into account that Reality wouldn’t like to be compressed for any length of time. There are threads of void interlaced through that actively consume any bit of reality that would otherwise be over compressed. I suspect that, even if the magic were turned off, the tunnels would remain shorter than expected, even if not quite as extremely so.”
+
+It was elegant in an odd way, like a chain drawn through two loops again and again to pull them together. Then, if any link began to fail, the links on either side would simply magically become connected, the failing link in the middle gone as if it had never been. In this way, the loops were actually slowly getting closer together, and Tala suspected that, in the end, the final ‘failure’ would lead to the loops being directly connected, no chains needed.
+
+Tala turned to the adjunct. “How long have the quickways been in use?”
+
+“Our histories indicate they have been continually active for more than two thousand years, Eskau. Though they have been expanded over that time. I’m told that new nodes consume far more power for the first hundred years of operation or so. The City Lord maintains them herself.” There was a note of pride in that.
+
+Tala gave a slow nod. The woman’s concept likely aided in some way. “The newer sections are more expensive to run because the distance is greater, and more ‘links’ have to be removed and accounted for.”
+
+The adjunct clearly had no idea what she meant, but he still gave a non-committal shrug. “It could be, Eskau. Shall we?”
+
+Rane gave Tala an interested look. “So? Will it be safe?”
+
+“I think so, actually. Our passage will consume more power, but I suspect that will be offset almost immediately… or near enough.”
+
+Rane shrugged. “Good enough for me.”
+
+The first squad of House Guards walked casually forward, passing down the hall to the next node with ease. After them, the second squad followed with the adjunct.
+
+Finally, Tala, Rane, and Lea followed, with the final squad of House of Blood Guards behind them.
+
+As the three passed, they all saw the effect their gates had within the compressed space.
+
+Lea’s was all but a non-issue, just as Tala’s hadn’t been when Tala had been here last. Lea simply didn’t have enough throughput or magical weight to her gate to be a problem over such a short space. However, beside her parents, as one more additional strain?
+
+A thin skittering crack in reality followed on her heels.
+
+Rane’s was greater, causing issues like a rock skipping across panes of glass, leaving large sections untouched, but utterly breaking through in others.
+
+Tala? Her gate was like a plow overturning everything in her wake.
+
+It was important to note, however, that this was simply what the magical portion of their existences did. Had that been all, there might have genuinely been a problem. Blessedly, all three were something… different.
+
+In Lea’s case, the already small nicks she’d put into reality seemed almost to flow toward the center of the compressed space after she’d passed before that small section was cast aside, removed by the void-aspects of the quickway magics.
+
+Rane’s soul was only marginally bent toward void and reality, and so his overall impact was actually the largest negative when taken as a net change. His ‘skipping breaks’ were indeed isolated to the specific sections, which were cast aside just as easily as the single bit had been for Lea. As the compressed space could be likened to a billion sheets of glass stacked together, the fact that he cracked a couple hundred, requiring their disposal, really didn’t result in much issue. Lea’s passage had necessitated the removal of only a single one in this analogy.
+
+Tala, on the other hand, turned the glass entirely to fine powder with her passage. At the same time, her authority and density was so energetic, and her connections to reality and void so profound, that the sand was melted once more. Since no new impurities had been added, the result was clear once more. In fact, the very act of churning exposed previously ensconced imperfections that the active void-magics quickly disposed of before they could be reincorporated.
+
+That—combined with her now constantly active technique of enforcing existence as it had been before her arrival, upon existence after her passage—left a neat stack of glass sheets, cleaner and clearer than before her movement through.
+
+All of that took place on a meta-physical level, of course, and only those with a view into reality or existence could have a hope of seeing it.
+
+To Tala’s view of reality nodes and threads, she’d effectively taken the two nodes of the physical locations she was passing between, and obliterated the threads binding them before recreating those threads stronger and without any tangle or impediment.
+
+It had actually been a mentally draining process, even if it had been handled mostly unconsciously… and by Alat.
+
+-That… Please only do that when needed. I can get us through to the hold, but I don’t want to do this hundreds of times…-
+
+I’ll keep that in mind. Thank you.
+
+Alat just gave a grunt of acknowledgement.
+
+On a magical level—a sense most arcanes had—there had been a clear uptick of power usage from the quickway spells, and a pulse of power had been in evidence as those spellforms acted to maintain integrity and remove issues.
+
+To mundane sight? If an onlooker had been very perceptive, they could have seen that the distance between the two quickway nodes now seemed a bit shorter, and the air looked a bit cleaner, the walls of the tunnel a bit more polished and reflective.
+
+Most didn’t have the quality of vision or focus to have noticed, however.
+
+The final squad of House Guards following behind the Sappherrous family experienced no issue, and aside from the occasional curious glance, none of the random citizenry around them seemed to think overmuch on what had occurred.
+
+The adjunct was a bit more perceptive however. He walked up to Tala and bowed. “Eskau, should we take a different path to the hold?”
+
+Tala shook her head. “No, this should be fine. Though, with improving relations with the gated to the north, it might be worth putting up signs recommending that none above Fused be allowed in the quickways.”
+
+The adjunct gave a slow nod. “I will ensure that advice is passed on to the City Lord.”
+
+“Thank you.”
+
+“Then, if there is nothing else?”
+
+Tala shook her head.
+
+“Then, let us be on our way. I believe that dinner is prepared in honor of your arrival.”
+
+“By all means, lead on.”

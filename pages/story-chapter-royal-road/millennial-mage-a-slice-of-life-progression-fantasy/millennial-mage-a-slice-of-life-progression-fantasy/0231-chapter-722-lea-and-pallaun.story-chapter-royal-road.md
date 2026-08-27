@@ -1,0 +1,217 @@
+---
+id: 28d83331-f9a5-589c-b7da-d77f4e3a0ca1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 722 - Lea and Pallaun"
+slug: 0231-chapter-722-lea-and-pallaun
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 231
+ownLength: 2609
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3616504/chapter-722-lea-and-pallaun"
+royalRoadId: "3616504"
+---
+
+Lea jerked awake just after midnight, her mind racing.
+
+What…?
+
+She was well on her way, heading back toward Platoiri with her escort, Eskau Kanabo and Pallaun along with Pillar Tili.
+
+The Houses and Guilds were gathering their ancillary forces to send against the new Black Legion concentration that had been found to the east. As such, the ‘training cycle’ through the southwestern cities had been cut short, with the intention being that she could continue with the warriors that arrived at the staging area up until the assault.
+
+There was some word of trouble for smaller groups traveling between cities over the last day or two, but Lea wasn’t concerned. The three with her were quite capable, to the point that she doubted anything less than a full army would be an issue.
+
+In fact, the only way that she’d feel safer was if she’d been with her mother and father… or Uncle Terry.
+
+She felt a twinge in her heart at the reminder of their absence.
+
+Their group was looping through the mountains, Pillar Tili providing transport on a large iron disc.
+
+It was a bit crowded for the four of them given her limitations, but they managed, allowing them to keep up the pace of a galloping horse for the full day.
+
+The bird-kin was unwilling to fly them at night, given their speeds and what an impact would mean at such velocities. Pillar Tili could see in the dark, but there just wasn’t any reason to risk it.
+
+As such, they were camped in a small dell, resting through the night, their campsite shrouded in darkness.
+
+Having barely awoken due to the odd feeling of something important close at hand, she sat up in their little hollow, looking around and finding Eskau Pallaun on watch.
+
+The hue-man glanced her way, frowning. His voice was soft, but easily carried to her incredibly enhanced ears. “What is the matter, Lea?”
+
+“I… I don’t know. I felt like something was near. In one way, it felt familiar, but I don’t actually recognize it.”
+
+He frowned for just a moment, then his eyes widened. “Your form. Black Legion?”
+
+Lea only considered a moment and was about to nod when the feeling spiked behind her.
+
+She rolled forward, jumping up and away, spinning in the air only to see a black hand stretching from thin air toward where she had been.
+
+Eskau Pallaun’s voice resonated through the camp, the man not needed to yell in order to ensure he was heard. “Legion. Arise Eskau, arise Pillar, and do your duty.”
+
+The two beast-kin came out of their own sleep with violence, each coming to their feet with pulses of power running through their surroundings, clearly meant to eliminate any incoming attack that might have been trying to take advantage of their rising.
+
+As such, all four members of their group were up and ready when a sizable breach to the Doman-Imithe fully manifested and a single automaton stepped through.
+
+Lea’s eyes widened when she saw the mark on its shoulder.
+
+A commander.
+
+Behind it, she caught a glimpse of automata, but the opening hadn’t been large, and it was still blocking the way. Its gaze swept the area before returning and locking onto her. “Wayward child, come. We must be away. The work must be accomplished.”
+
+She drew her weapon, keeping herself from trembling only by a tremendous effort of will. “No. I will not go with you.”
+
+The commander sighed, his form oddly reminiscent of Eskau Pallaun’s with its midnight black features. “We have no time for broken toys. You will come, be brought, or be destroyed.”
+
+Eskau Pallaun stepped around her, and only then did she notice that he’d momentarily cloaked himself in darkness, hiding from the commander’s view until then. “You will not take the girl.” He narrowed his eyes briefly—seeming to look through the automaton and into the Doman-Imithe beyond it—before snorting in derision. “Not you or your army.”
+
+The commander’s eyes widened in clear, almost horrified recognition. “Pallaun? What are you doing here?”
+
+There was obvious fear in the words, causing the hue-man to chuckle. “Good. You haven’t forgotten me. I am here as guard to the girl. Depart.”
+
+That seemed to make it hesitate. “You are guarding her.”
+
+“That’s right.”
+
+Resolve entered the commander’s features and tone. “Then, you are likely alone out here.”
+
+A chill wind swept through the dell, and Lea felt Eskau Kanabo and Pillar Tili preparing themselves.
+
+“Either removing you or dealing with her would definitely be worth a delay.” A smile pulled at its lips. “Reality has smiled upon us this night. What are the chances that we happened to pass close enough to sense you. Such can only have been arranged.”
+
+Lea did not like the way this was going.
+
+Eskau Pallaun grinned in return, clearly not bothered with this turn. “Good. I prefer that you stay, but requesting such would have been selfish of me. She is obviously safer if you go, but if you choose to stay?” He shrugged. “Then I may remove your stain from the likeness of my people, even if only for a time.”
+
+There was no further warning.
+
+A flash of darkness hit the camp as blinding as any bright pulse of light, even if the resulting difficulties with sight were shorter lived.
+
+Lea felt something closing in on her even as her two lesser guardians moved to flank her, and she struck out, cleaving through the something that had come forth to grab her.
+
+When the temporary darkness passed, there was devastation.
+
+Eskau Pallaun and the commander were locked in combat, flickering around the area as quickly as Terry to Lea’s eyes, always meeting in a violent clash of protian weapon against black steel.
+
+Around the now larger tear into the Doman-Imithe, a dozen automata lay in ruins, clearly destroyed by Eskau Pallaun in the brief moment of darkness.
+
+Before Lea? A lieutenant stood, one arm falling toward the ground, still reaching toward her as it fell, the cut clean through the shoulder.
+
+Eskau Kanabo was driving his iron-studded club through a sergeant—its body crumpling apart at the sheer force of the blow—and Pillar Tili was drawing her power inward, reinforcing her self-enforcements in preparation for their fight—just as she’d been doing whenever she faced Lea of late.
+
+The lieutenant only hesitated for a moment before reaching for her once more, forcing Lea to strike out again, but this time, her sword was intercepted by another blade as a second lieutenant joined the first, followed by others of various rank closing in on her.
+
+This… This could get interesting.
+
+As officers flowed toward her—backed by lessers—her own escort charged forward and to the sides. It was obvious that they wouldn’t be able to hold back the tide on their own, so they took positions to blunt the charge and let her face what she could.
+
+Around them, Eskau Pallaun and the commander slammed into one another, every brief manifestation of their conflict leaving dozens of automata mangled well beyond functionality.
+
+The hue-man couldn’t handle the entire army on his own—not with the rest of his group to be concerned about—but he was certainly giving it a good try.
+
+Still, a steady stream was flowing toward Lea, and she, herself, was already engaged.
+
+Her sword rang like the chiming of the most expensive of instruments, but each pure tone was so close together that it came across more as a swelling of growing harmony than individual notes.
+
+She blocked a strike to her head, then powered through the resisting lieutenant to drive its sword downward and allow her to duck below another one coming from the other side. The motions combined, allowing her to kick up, her right foot lashing out to drive away a sergeant coming in to bodily tackle her and her left flicking down to drive a heavy pole-mace into the ground.
+
+Within her, she ruthlessly traced and snuffed the parts of her form that were telling her these were allies, fellows of her true origin
+
+No. A smile tugged at her lips. I think not.
+
+Her mind was split multiple ways, and she found a limiter within her forged mental pathways, something meant to limit the soul’s interaction with the body.
+
+It was funny; that had likely always been there, but she’d simply never pushed up against those limits before.
+
+She did now, and found them unacceptable.
+
+With a flick of her mind and will, the material of her body flowed like water falling into a mold of her intent.
+
+Around her, the world seemed almost to freeze.
+
+Her body and soul sang as one, dozens, then hundreds, then thousands, and finally more connections than she could quickly count sprang into being, and her soul truly sank into her physical form. The soulbound was now entirely able to solidify on a physical level, removing restrictions that she hadn’t even known she’d been under.
+
+Her inscriptions began to flake apart, the power rushing through them too much for the precious metals to handle. Those which had been meant to regulate the flow had buckled under the increased connection almost instantly.
+
+Lea grit her teeth, beginning a fight within as well as without.
+
+She landed from her aerial maneuver, bouncing her blade off seven incoming strikes with such force that each was entirely diverted or deflected.
+
+Within, she reinforced curves, swirls, and hard corners of her inscriptions like they were the banks of a turbulent river, fighting erosion before it could become catastrophic.
+
+Her body twisted, bent, flipped, and spun among the growing crowd around her, even diminished and divided as it was by those fighting at her side.
+
+Lea rebuilt dams with proper overflow and retention systems within her inscription network, bringing the power of reality to bear more fully, giving the metal of the constructions more resilience and throughput, solidifying the whole. The whole while, she blessed Mistress Holly for suggesting she have a reserve of precious metals within herself so that she could use her unique bodily control to do such repairs in the field.
+
+The mounds of bodies around her were growing inconvenient… to her enemies. She danced upon the corpses of those who might have been like her, were they less flawed, slaying all that opposed her. Her success continued until a captain arrived, finally able to match her stroke for stroke, step for step.
+
+But its capacities were different. Obviously it was more skilled, that wasn’t what she was considering. Some of her movements were more powerful, but less controlled, specifically surrounding what would be the larger muscle groups in a biological form. At the same time, her hands and smaller movements were more controlled and less powerful than the captain’s. She’d perfected the various parts of her form in their specific functions, where the captain was more balanced, allowing a relatively equal footing in that regard.
+
+Lea dove through her command workings—those which she’d only recently instantiated within her reality matrix—not seeking to control but utilizing what she’d found and implemented all the same.
+
+With a punch to the captain’s shoulder, she made a brief connection, demanding and receiving an informational dump of mechanical and physical specifications.
+
+She laughed as she spun away from the automaton, momentarily hiding among lesser officers as she slew them.
+
+Her mind parsed the stolen information, discarding the portions that were inferior to her current construction, and she was left with a not-inconsiderable list of tweaks.
+
+Normally, she would cut sensation from her body before she made such modifications, but this was the middle of battle. She couldn’t be so divorced for even a second.
+
+So, instead, she handed the modification over to her physical form, providing the new specifications, and letting it go to work on her in the same way it would if she’d been damaged.
+
+The pain of her body’s restructuring was unlike anything she’d ever let herself experience before.
+
+She screamed.
+
+A moment later, Eskau Pallaun fell upon the area around her like a cloud passing between her and the sun, obliterating all the lessers she’d been among before the darkness moved on, engaging the commander once more.
+
+Bodies rained around her as she stood, momentarily trembling as her systems realigned.
+
+Unfortunately, the captain had been too far away to be taken by the passing calamity, and it now approached her once again, confidence in its gait.
+
+In that moment of stillness, Lea saw that both Eskau Kanabo and Pillar Tili were striving with captains of their own.
+
+She was momentarily surprised that they were struggling with them, until she noticed that each was facing three.
+
+How large is this force?
+
+Lea didn’t have time for any further thought as the captain facing her lunged in again, crossing the still settling forms of obliterated automata with careless grace.
+
+She fell into an aggressive stance, then charged to meet it, faster, stronger, and surer of foot than ever before.
+
+* * *
+
+Pallaun was… irritated.
+
+The anti-magical effect that the Black Legion were able to impose was preventing him from simply crushing this commander as he should be able to. They’d improved that since the last war, now seemingly better able to integrate across multiple units, lending every automaton added weight and protection.
+
+Still, the created effect was like incredibly powerful armor. Even if it was unbreachable in the short term, he could still smack it hard enough to pulp the weaker things, cowering within.
+
+The commander, unfortunately, was nearly as tough as its defense, so while Pallaun was able to knock it around with almost impunity, he couldn’t do true harm with his magics nor through physical violence.
+
+Frustrating.
+
+He was doing his best to keep his companions in view and in his mind, lessening the burden on their shoulders, even if he couldn’t remove it entirely.
+
+When Lea had screamed—for an instant—he’d thought that he’d failed.
+
+He knew her to be capable, and so he had not fought to keep her entirely isolated. In that moment, he’d feared that he’d been mistaken. The very idea let him truly realize just how much stock he put in his task from Eskau Tala. He would not fail.
+
+Thankfully, she had screamed from something other than the taking of a mortal wound. No enemy had harmed her that he could see, but her aura was in turmoil and… advancing? She was advancing in the middle of this clash?
+
+Good girl. Pallaun grinned to himself, and the commander—that he was once more engaged with—flinched back at the sight.
+
+The reaction drew a deep laugh from the Eskau as he swept his protian weapon in a great arc, leaning on the commander’s defense to lock it into shape for him.
+
+The scythe struck like a charging bull, launching the automaton into a nearby hill.
+
+A simple step through darkness brought Pallaun into range once more, forming his weapon into a gauntlet on his right fist.
+
+His left hand snapped out, grabbing and holding the commander down as he landed powerful blow after powerful blow.
+
+His magic writhed within him, feeling like a sheet held tight in a stiff wind, but he did not yield. His very flesh squirmed trying to draw away from the horrid thing, but the magic within was his power, gleaned from the world and wielded for his purposes.
+
+He pulled it deeper, and continued to hammer his opponent, leaving the whole rest of the battlefield alone for a moment in order to put a dent in this greater threat.
+
+His companions should be fine for a few moments.
+
+He could trust them that far.

@@ -1,0 +1,99 @@
+---
+id: 0db8239b-ff0b-5cdd-a202-97c5cd14e498
+page-type-slug: story-chapter-royal-road
+title: "Chapter 297 Last Hurdle"
+slug: 0312-chapter-297-last-hurdle
+partOf: melody-of-mana
+position: 312
+ownLength: 1267
+unit: words
+ownProgress: 1267
+publishedAt: 2024-01-13
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1475627/chapter-297-last-hurdle"
+royalRoadId: "1475627"
+markedReadAt: "2026-06-29T22:36:35.376Z"
+---
+
+Illa
+
+This little village, Eratol, was really quite pleasant to look at. It wasn't a bustling city, or an ancient monument by any standards, but it was quaint, homey. I'd never lived in any of the villages back home, but I'd passed through from time to time, and it rather reminded me of them, mixed with a fair bit of a nature style magic. Perhaps one day I'd retire in a place like this, when I was old and gray.
+
+The village elder was so pleased to meet us too, all smiles as he led us to his house.
+
+“Well, since you've come all this way perhaps you'd like to hear the story of how I met your parents and how they saved our village?” he asked, smiling at my brother and I.
+
+“I would, but unfortunately not at this moment. We're in a bit of a hurry you see, and lives could well be on the line.” Was that strictly true? Maybe, but we'd taken a lot of time to get here and I really wanted to have a route home before reminiscing with this man.
+
+“Something's happened?” he asked.
+
+“Yes,” Rodrick answered. “We were staying at the capital and there was a sizable monster attack. It's only theory, but we've come to believe that there may be something that could lead to help and establishing a connection with our home in the ruins. A way to provide aid should it be needed.”
+
+“Monsters? What kind?” he inquired.
+
+“Enormous crabs,” my brother told him. “Have you seen any?”
+
+“We found a large shell, though we haven't seen any living specimens. I'd call it odd, but now and again we get magical beasts of some form or another. That's just part of living this far from the cities,” he explained with a shrug.
+
+“Our thinking was that they probably couldn't survive so far from the water anyway,” Lena told him.
+
+“Mayhaps so, mayhaps not. We do have a few species of things like that, little animals that live in the lakes and rivers. It's not like one of the coastal cities, but they do exist,” the man replied.
+
+“Regardless,” Omos interrupted. “Could we get a guide to those ruins?”
+
+“None of the guides are available right now, but it's not far if you're in that much of a hurry. You could walk the path yourself in a couple hours,” the elderly elf offered.
+
+“That would be much appreciated,” I said, hoping we once more met so I could hear his story.
+
+We didn't stay in the village long, filling up on a few small supplies and getting directions was fast, and we were eager to be on with it. The elves seemed a bit put off that we wouldn't at least stay the night, but our group really, really wanted to be home.
+
+In under an hour we were back on the road, marching off into the woods.
+
+“The first thing I'm doing when I get back is taking a bath,” Amara declared with conviction as we sped along the path.
+
+“Stellar idea,” I replied. “Though I may go for food first, then bath.”
+
+Each of us told our plan, be it food, or washing, or sleeping, many nods went to the idea of having proper beds once again. At the idea of a proper soft bed my back began to ache.
+
+“Not that I haven't enjoyed it. Perhaps I'll even go and explore again one day. See the world as it is.” Amara was a bit of a weird one, but she seemed honest in that intent, and I wished her the best.
+
+Omos on the other hand had a different opinion. “Not me, I think I need to take a long look at how our kingdom would deal with a monster like that. If it were to land on our coast I pale to think of the casualties.”
+
+“Luckily we don't get the same kinds of beasts as they do,” I pointed out to him.
+
+“Maybe not, but it would still pay to be prepared.”
+
+The path followed along the banks of a creek that seemed to be as old and meandering as time, weaving in and out of the trees. Small animals and bugs buzzed by on occasion, and we were close, so close. It was just as the path turned from the creek that I noticed something amiss. I couldn't quite put my finger on it, but something felt wrong.
+
+“Why did the birds go quiet?” Veska asked, nailing what was wrong.
+
+There was a shuffling of the trees and branches, and across the bank from us a leg appeared, then another, the beast pulling its way into the opening in the canopy created by the passing water. It was one of our old friends, but this time on another scale. It was easily three or four times the size of the others we'd met, the shell darker and splotched.
+
+As one we launched into our favorite spells, and as one they slammed into the carapace of the beast. Cold and bolts of death rained down upon it, but had little in the way of effect, and as we broke to check on our progress and let Amara move forward we saw that there'd been little effect.
+
+With what could only be described as a look of simple confusion the crab stumbled before lifting itself once more. There was a clicking of claws and around it the stream started to move. At once I was reminded of the things progenitor, a massive abomination that moved the sea. This smaller version didn't have that much power, but the creek began to rise into the air, water flowing around it and towards its claws, one of which pointed towards me.
+
+“Oh shit,” I managed before it loosed a crushing geyser of liquid in my direction.
+
+I wasn't alone though, and before the blow struck many things happened. Shields snapped into place before me, trying to slow the cannon, and a dark-haired blur reached me, scooping me off my feet and out of the line of fire.
+
+“Towards the ruin! We need to get it away from the water!” Omos yelled as he began to backpedal.
+
+Alana
+
+“Shit, shit, shit, golem, how to I get to the meeting room Justin went to?” I yelled at the automaton.
+
+“The path to that location has been locked, your Highness,” it replied in it's monotone voice.
+
+“Then alert him to a monster on the premises! He said that he'd upgraded to wards to do so.”
+
+“Affirmative, your Highness.”
+
+Behind me there was a sound not unlike that of a cell phone ringing, a persistent attention getting one. It emanated from a point on what looked to be one of the workspaces. Sensing my eye beginning to twitch I walked over and pressed the big friendly button that indicated pick-up on a small blackish square.
+
+“Unknown monster on premises,” a slightly feminine voice echoed out.
+
+“What is the point in this if he doesn't carry it!?” I roared impotently.
+
+“Screw it, which door leads to the surface?” I asked the golem. It didn't verbally confirm, but did move to stand before one of them.
+
+Of the magical items I'd brought only one had a chance of opening this. I rose my hand, the bracelet glowing bright red before sending a maximum power attack at the portal. It failed, bouncing and not even leaving a scratch. When he got back I was going to give him an earful about emergency exits, and heaven help him should anything happen to those children.

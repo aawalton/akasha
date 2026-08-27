@@ -1,0 +1,261 @@
+---
+id: 1f7aa8b9-eebd-565b-9451-618455ca8037
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 594 - Therapeutic  Violence"
+slug: 0096-chapter-594-therapeutic-violence
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 96
+ownLength: 3026
+unit: words
+ownProgress: 3026
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2490928/chapter-594-therapeutic-violence"
+royalRoadId: "2490928"
+markedReadAt: "2026-06-29T19:38:22.292Z"
+---
+
+Tala and Meallain moved to the center of the large space, and Tala began to speak, “We will fight on equal footing, advancement wise, with a longsword’s quantity of white steel. There will be no additional armor nor other items, and only martial and perceptual magics can be used.”
+
+Eskau Meallain grinned, nodding in easy agreement. “That greatly favors me, Eskau Tala. Are you trying to appease me with this bout?”
+
+Tala huffed a laugh and smiled in return. “Think what you will.”
+
+She did notice Lea frown slightly at the title of ‘Eskau’ when applied to Tala. It wasn’t the first time it had been said, but Lea seemed to truly hear and register it for the first time. That, or she finally realized that it was the same as ‘Eskau Meallain’, and she was seemingly now quite curious.
+
+That can and will wait.
+
+-Of course. Why satisfy a child’s curiosity when it blossoms? I’m sure that they will remain curiously inquisitive for as long as we wish.-
+
+Tala sent a feeling of disgruntled concession. You are welcome to answer any question she has.
+
+-And I shall.-
+
+While Alat seemingly sorted that out, Tala was thinking toward the upcoming clash. The other Eskau wasn’t wrong. The elven woman was far more experienced with truly morphic weapons, which the white steel would be. Flow was far more restricted in its forms, but also far more powerful in each of those forms as a result.
+
+Beyond the weaponry that they would use, Eskau Meallain’s magics were all but entirely martial focused. They could be used for other things as well, but the woman’s applications and primary bent was in close-quarters combat.
+
+Tala, on the other hand, had quite a few tricks, tools, and magics that were primarily used for ranged combat or far more magical effects that unequivocally fell outside of ‘martial magics’ classification.
+
+The only area that was to Tala’s favor was the equalizing of their advancements. True, at that moment Eskau Meallain was being held quite a bit below Tala, but in truth, the woman stood a solid step beyond her. Thus, the equalizing of advancement was both ‘fair’ of Tala to offer, and to her advantage in an overall sense.
+
+Well, that was to her advantage alongside the fact that Tala had been using white steel armor for years and therefore had a depth of knowledge and experience with that material, and in that regard, the elf couldn’t really match.
+
+I’m glad that she didn’t bring her armor when she was banished, or we might be doing an armored clash, and I don’t know how that would shake out. We never really delved into all that her armor was capable of…
+
+-If she had, I’m not sure that we would be in this position at all. If she’d been fully armed and armored? I don’t know that things would have gone as well as they did…-
+
+True enough, yeah.
+
+Eskau Meallain glanced in the direction of the Talons, where they were training before regarding Tala for a long moment. “I think that having the Talons observe would be useful for their progress.”
+
+Tala glanced toward Lea, feeling quite a bit of hesitation.
+
+“Your plan was to introduce them to your… daughter, yes?”
+
+She sighed. “Yes.”
+
+“Then do so now. They won’t have my wisdom with regard to her physical form, so it should be simple enough.”
+
+After a long moment, she nodded. -I’ll reach out.-
+
+Ron?
+
+-Yeah. And… done. He’s wrapping up the current task, and they’ll be out here within five minutes.-
+
+Thank you, Alat.
+
+-But of course.-
+
+Tala walked back over to Lea and Lisa. “Lea?”
+
+“Yes, mother?”
+
+“I know that we discussed your meeting with the Talons soon, but we were planning on it being a bit later.”
+
+“Yes, Mother Alat told me. That’s changed, and I will get to meet them today, right?”
+
+Tala sighed, giving Alat an internal side-eye but responded regardless. “Yes. In just a few minutes.”
+
+“Oh! That’s wonderful. Then you and that crazy elf lady will fight?”
+
+Rane huffed a laugh from where he stood beside their daughter but didn’t comment.
+
+This time Tala gave the side-eye to Lisa in the physical world, but the fox-kin just grinned in return, utterly unashamed of his influence. Tala shook her head. “Eskau Meallain and I will spar, yes.”
+
+Lisa cleared his throat. “For most, that would mean blunted blades. I assume in this case you don’t mean that?”
+
+Tala shook her head again. “No. They will be live, if non-magic, weapons.” She frowned. “Well, the white steel is magically morphic, but it doesn’t have spellforms, or combat magics within it, nor will the edges be more sharp than the mundane sense of the word.”
+
+Lea nodded along, at least vaguely understanding what Tala meant. Her education was coming along quite well, but it was far from complete, even with Alat and Enar skirting the edges of ‘too much’ information each day through direct infusion.
+
+Soon enough, the Talons had gathered in a rough circle around Tala, Rane, Lea, Lisa, and Eskau Meallain in the large training grounds. Each Talon had thick white steel vambraces, showing just how much progress had been made in their training and equipping.
+
+Ron came out with the last straggler and bowed toward Tala, prompting everyone else to do the same. “Greetings, Mistress Tala.”
+
+Tala bowed back. “Greetings, Captain Ron, Talons.” Feeling a bit awkward, Tala decided to simply dive into things. “In a moment, you are going to witness Eskau Meallain and me spar with live blades, but no battle magics. I expect it to be a short, brutal clash, but we will see.”
+
+That sent a wave of excited murmurs through the gathered Talons and caused a smirk to grow on Eskau Meallain’s face.
+
+“But first, I wish to introduce you to my daughter, Lea.” Before the Talons could look around for a baby as several immediate, excited exclamations implied, Tala motioned to Lea, herself. “This is Lea Sappherrous. We will provide more details soon, but know that she is a fully human, gated soul, and this is her natural body. Her physical form is similar to that of an automaton, but she is in control of herself, not simply a source of magic for a reality-touched monstrosity.”
+
+That caused an almost stunned silence.
+
+Ron, having been made at least vaguely aware of Lea beforehand—by Lyn directly and by Tala and Alat indirectly—stepped forward. “We’ve just been introduced to our patron’s daughter. Talons!”
+
+That hit them like a mental control spell, and they all snapped into straight posture, hands at their side. Then, as one, they bowed toward Tala and Lea. “Greetings, Lea Sappherrous. Our metal is yours.”
+
+Lea gave a bow toward Ron. “It is…”
+
+She hesitated, clearly feeling a bit uncertain being the center of attention. Tala leaned in. “You aren’t shy, Lea. I know that this is a new experience, but remember that it is an exciting one.”
+
+Lea’s smile grew a bit at that, and she straightened. “It is an honor to meet you. I will be joining you for training in the coming days. I’m told that you all are physically and magically almost ready for real combat training once again. I look forward to learning alongside you.”
+
+Tala felt one eyebrow raise. -You’ve been busy, so I didn’t bother you with the details. There is more than one reason that Eskau Meallain likely wanted to spar with you.-
+
+Ahh, I see.
+
+-So… stomp her into the ground, yeah?-
+
+Tala chuckled internally. I’ll do what I can.
+
+Ron gave a decisive nod. “Shall the spar begin?”
+
+Rane, Lisa, and Lea moved off to one side. The Talons made way for them deferentially. It was only then that Tala took specific note of Talax among their ranks. He and Lea were supposed to meet and spend some time ‘as kids’ together in the next weeks. Clearly, his mother had told him about Lea, as he was quickly working his way over to the girl, evident excitement across his features.
+
+She nodded in return, moving to face Eskau Meallain. “I don’t see any reason to delay.”
+
+Tala willed a training sword of white steel into place, the weapon hovering before each of them.
+
+Meallain took it and gave it a few quick swings before it altered shape within her grasp, moving from a straight bladed weapon to one with a slight backward curve.
+
+Tala took her own weapon and immediately pushed power into it to allow her to reshape it to mirror Flow’s sword form in size and shape. Though, in this case, she almost filled in the normally wire-frame blade to give it more striking power and resilience.
+
+Before she did so, she hesitated, a small smile tugging at her lips. Without changing the outward appearance of the weapon, she coiled, spun, and added tension to that wire form, ensuring that it was under incredible strain, even as her power within the blade held it in the proper shape. From there, she left the sword as she’d made it, almost all of the mass of white metal in the hilt and pommel.
+
+Talax had made his way over to Lea, and Tala saw him quietly introduce himself to her, practically bouncing as he did so. He was tall for his age, but still far shorter at the moment than she was. Regardless, Lea was clearly excited to meet him as well.
+
+-We did tell her about him, and their upcoming ‘play date’.-
+
+Yeah… I hope they both still pay attention to the match.
+
+-I’m sure that they will. See? Lisa is speaking, helping to refocus them.-
+
+Tala nodded, locking her thoughts in on her opponent. “Are you ready, Eskau Meallain?”
+
+“I am. Are you, Eskau Tala?”
+
+Tala took a long breath to work through her entire self, limiting her muscles, reactions, and even perceptual abilities down to match the elf’s current level of physicality and power. That done, she took another moment to shift in place and ensure that she was ready to act and react with this level of limitation. That done, she nodded. “I am.”
+
+“Begin.”
+
+Tala knew that unless she directly countered Eskau Meallain with her authority within Kit, the woman would not be where Tala’s instincts said she should be. As countering her in such a way would be a bit counter productive, she didn’t do so.
+
+-Ha! A productive counter would be counter productive.-
+
+Alat…
+
+-Right, right. I want you to win, so I need you to focus up.-
+
+I am trying…
+
+Tala closed down her instincts and just relied on what her perception was actually seeing in the moment.
+
+As Eskau Meallain strode forward, Tala practically dove forward, lashing out, purposely aiming for the woman’s head in a way that would be relatively easy to block.
+
+The elf slashed across with a look of mild contempt. If they were moving slower, the woman would likely have made some sort of snide comment, but as they were anything but slow, the look was seemingly sufficient.
+
+As her sword cut into the wire outline of the not-Flow, white steel sword, the elf seemed to realize that something wasn’t quite right.
+
+Eskau Meallain’s blade went all the way through one side, and the tension that Tala had built into the wire snapped, whipping the thin edge forward in an utterly unexpected secondary burst of speed.
+
+Eskau Meallain’s eyes only had a moment to widen before the twisting, lashing wire tore through her cheek from just below her left eye, all the way to her ear, severing that clean through as well.
+
+Had Eskau Meallain been properly filled and reinforced with power, this hit would have barely left a welt across the skin below the eye. As it was, however, she was far weaker, and without her normal power, her body wasn’t nearly as resilient.
+
+As such, Tala’s tactic worked a bit too well for a sparring match.
+
+The flesh moved outward like water spilled from a shattering glass, and the bone beneath had a deep groove carved through, sending cracks radiating out through the thin material of the cheek, caving it in and mushing the eye above.
+
+All around them, the Talons' own expressions were shifting toward surprise, or horror, or even confusion in a few cases.
+
+-A bit much?-
+
+Maybe? I don’t think so, though.
+
+Lea was seemingly beginning to draw back slightly in shock, but there wasn’t really time for any of those expressions or actions to fully manifest.
+
+Tala had less than an eyeblink of time to feel smug in the success of her surprise attack before she realized that Eskau Meallain’s parry had come with a powerful riposte.
+
+The white steel of the elf’s sword drove into Tala’s shoulder before the weapon began morphing faster than thought.
+
+The experience was incredibly odd, as the other Eskau’s magic was effectively flowing through Tala’s body without actually entering it. She could have used her proximity to overcome the material even without using her unique position within Kit… probably, but that would have been against the spirit of the clash. So Tala would have to continue the fight down other tracks.
+
+Eskau Meallain’s weapon flattened, thinning as it spread out along the plane of the edges. Those sharp, leading edges cut outward even as they continued to thin, shearing through Tala’s shoulder entirely, fully separating her left arm.
+
+-Really, Tala? Again?-
+
+Rust you. Rust this. No, it was not too much.
+
+-It’s not overkill if no one is killed.-
+
+Exactly.
+
+Tala fell forward even as she manipulated her white steel to pull back and form a mini-shield beside her head. The action was just in time to deflect a secondary, cutting strike from Eskau Meallain’s weapon.
+
+With Tala’s right hand now free, she reached out and grabbed the falling wrist of her own severed left arm.
+
+Tala hit the ground and rolled, shifting her white steel defense around to protect herself from further harm—relying on her experience with her own white steel armor to make the task almost effortless—even as she lashed out, slamming her own severed arm into Eskau Meallain’s hip, hitting the woman at a downward angle with enough force to pop that joint out of its socket, causing the first scream of pain in the short clash.
+
+Tala sprung back to her feet, turning to ensure she faced her opponent, retreating even as she brought the arm around, using the white steel to shift and press it back into place.
+
+Her blood had been held within both her shoulder and the limb. So after the all but trivial reattaching of the severed appendage, she had nothing further to do to negate the injury.
+
+Tala’s white steel formed a gauntlet on her left arm, growing up to encompass her forearm, even as Eskau Meallain was still falling, the blood from her face only then splattering across the nearby grass.
+
+There was a collective intake of breath from all those watching as no one seemed entirely sure of exactly what happened.
+
+But the fight wasn’t over.
+
+It had barely begun.
+
+As Eskau Meallain fell—one eye blind, blood pouring down her slackened cheek, one hip clearly sunken in as the foot dragged back—her hand lashed out, her weapon extending into a whip that cracked forward.
+
+Tala barely got her left arm up and in the way in time, the end wrapping around her gauntlet.
+
+It was odd, having the white steel filled with Eskau Meallain’s power pressed hard against—even trying to dig into—the metal filled with Tala’s. It was almost as if their power was pressing against one another, sparking and jockeying for dominance.
+
+In this space, Tala could have utterly overridden Eskau Meallain, taking her weapons’ material for herself, but that would, once again, ruin the point of the clash.
+
+As Tala pulled back against the tug of the whip, she watched Eskau Meallain split off tendrils of white steel.
+
+The first effectively lassoed her own leg, pulling it up and allowing the woman to jerk her hip back into place with a disquieting crunching squelch.
+
+Then, with threads so thin and dexterous that Mistress Cerna would have been proud, Eskau Meallain’s cheek bone was pulled outward, back into place, and the flesh sutured closed.
+
+Finally, the last act was one only possible due to the elf’s true elevation, suppressed and bereft as she was. Even so, Tala would have said it was impossible.
+
+All of Eskau Meallain’s power, from all throughout her body rushed together, compacting and amplifying until the woman’s power hit Revered in a very tiny area, specifically that of her damaged eye.
+
+With a flicker and a flash, all the power vanished, used up to execute a self-replenishment of the flesh.
+
+The next instant, Eskau Meallain had sucked in new power, back to the maximum allowed her, the over-abundance of the surrounding zeme allowing such a quick acquisition of power.
+
+Well… I did not expect her to be able to do that.
+
+-Yeah… maybe she isn’t quite as restricted by our strictures as we believed?-
+
+That’s… concerning. It dances on the edge of what we forbid without actually crossing the line.
+
+If the small smile on the elf’s lips was any indication, she had very purposely demonstrated that little trick.
+
+Even after the white steel sutures pulled free once more and flowed back down to rejoin the whip, barely a handful of seconds had passed.
+
+Tala could have attacked in that time, but this wasn’t a life and death fight. She wasn’t trying to take every possible advantage. It was meant to be a sparring match, and it only made sense to let the other woman recover between clashes.
+
+Eskau Meallain gave an appropriate bow even as she pulled back her whip. “I concede that the first round goes to you, Eskau Tala. Shall we go again?”
+
+Tala immediately gave a decisive nod. “Of course.”
+
+Lea was tucked in close to Rane, with her eyes glued to the combatants. She didn’t seem to want to miss anything.
+
+That made sense. After all, there was more violence to be had.

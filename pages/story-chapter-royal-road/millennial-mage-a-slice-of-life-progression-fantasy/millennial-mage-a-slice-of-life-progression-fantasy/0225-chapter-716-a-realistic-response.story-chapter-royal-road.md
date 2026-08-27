@@ -1,0 +1,273 @@
+---
+id: 856dd965-7809-56f6-b427-9d2431006372
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 716 - A Realistic Response"
+slug: 0225-chapter-716-a-realistic-response
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 225
+ownLength: 2945
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3551601/chapter-716-a-realistic-response"
+royalRoadId: "3551601"
+---
+
+Tala stood just beyond the edge of the slowly expanding field that was radiating from the escarpment.
+
+-Based on quick comparison, if it’s steady, then it looks like it’s growing at a rate of an inch an hour, give or take? So, two feet a day.-
+
+That’s… Tala frowned. That’s actually really slow?
+
+-Yeah, more than seven years to expand by a mile in radius.-
+
+So, not an imminent threat, but definitely not something we can ignore.
+
+-Exactly.- Alat only paused a moment before continuing. -That is a lot faster than the world-fragments expand. Not sure why, but that isn’t surprising. We don’t really know how they work either.-
+
+Theories?
+
+-Is it because it’s able to use all the magic that it absorbs, as it’s creating a space without any?-
+
+Maybe… Tala sighed, narrowing her focus and getting ready to pay incredibly close attention to a small area. Let’s test this, then I want to see if I can find something.
+
+-Oh! Oh, alright. Yeah. Let’s see what we can do.-
+
+She had her armored hand extended, and with a deep breath, she stepped forward, allowing her palm to penetrate the very edge.
+
+The edge was an odd thing. It wasn’t a physical barrier so much as a sort of event horizon of magic.
+
+It was entirely invisible to mundane sight while being entirely unavoidable to her magesight.
+
+As a portion of her armor passed through, the magic was stolen from it, leaving the metal locked in place. That was fine, Tala didn’t need to move the metal at the moment, and it was still her. A simple loss of localized magic couldn’t change that.
+
+As her flesh and blood passed through, the magic within her body felt like it was easier to move toward that limb and harder to pull back through the various magical circuits that ran through it. Even just the power that naturally saturated her body was drawn that direction.
+
+Her natural magics might have started to go haywire, but they were entirely enshrouded in her iron—both mundane and reality—and backed by her aura and all-but-unquestionable authority, and so they remained unaffected.
+
+So, the pull is strong enough to affect the power within my body?
+
+-That’s not a good sign.-
+
+Tala grunted, then simply shifted her mindset. This would not affect her magic.
+
+The flow of power through her body returned to normal, and it was as if she were not under the influence of any outside power.
+
+Handy. So, it’s capable of working on even Reforged level power, but seems almost trivial to overcome with authority.
+
+-Good thing all our forces are able to use authority.-
+
+Tala sent an unamused look toward Alat. Now is hardly the time for sarcasm.
+
+-It is always the time for sarcasm.-
+
+She arched an eyebrow.
+
+-Fine…-
+
+The field seemed to be targeting magic specifically, which is likely why higher orders of magic were less able to resist it than might otherwise have been expected. The reality working was, at its core, an exercise of authority, trying to claim magic and use it for other purposes. That nicely explained why Tala’s authority could resist it. And it was all the more effective because her authority was meant to oppose anything originating from the Black Legion.
+
+So, Tala would need to help any assault for them to be able to have any success at all. Not that I was considering sitting this one out.
+
+She wasn’t the only Archon with known, growing authority, but there weren’t many, and even fewer with her direct control. Moreover, she didn’t know of any others who could encompass others or grant their authority as easily as she could.
+
+In her case, though? She had a base of authority over everyone fighting the Black Legion and delegation of authority in a conflict was expected, making it neatly fit with her growing capabilities.
+
+The question was, would her power and authority be enough to simply drive the Legion off right now?
+
+-There are only a couple of dozen combat worthy individuals near enough to join you if you were to assault immediately. Add to that the few Talons you have in the Sanctum, and Eskau Meallain—who is continuing to petition to be let out to fight by the way—and you are going to struggle if they have sizable force, which we already know that they do have. This is their territory now, and it’s never been ours in any sense. Any authority we use will be less stable. We could probably find a way to simply wreak havoc, but it wouldn’t be a wise move. The chances of success are vanishingly low.-
+
+Tala sighed. See if Mistress Vera can get a more accurate count from above, and let the war council know.
+
+-Will do, and already keeping them up to date.-
+
+She had one more thing to check, and she began to circle the monument of stone, looking for… There.
+
+Her work fixing the ten wounds across the ten cities had helped refine her senses toward the seams in reality, and she was able to find one rather quickly that was actively being consumed by the reality field, if at an oblique angle.
+
+Tala landed beside a boulder that came up to her waist.
+
+-Boulder? More like pebble. We could pick that up with our bare hands.-
+
+Not really the point, Alat.
+
+-Fine, fine.-
+
+She shook her head as she approached the place that she now knew would have bits and portions folded into the Doman-Imithe.
+
+Before her, she was able to see the seam with relative ease—as easy as shifting the focus of her eyes—but as it crossed the expanding line of the automata’s field?
+
+-It’s… gone?-
+
+No, it’s still there, look. Tala highlighted what she was sensing.
+
+-That’s not a seam, Tala. At most, that’s a line in reality, a crease that’s going to fade with even a bit of time.-
+
+Yeah… Tala was frowning. This would effectively destroy the Doman-Imithe in this area. There wouldn’t be any bits of folded-under reality for the backside of things to latch onto.
+
+-Wait… Then how will the remainder of their forces arrive? Aren’t they still gathering?-
+
+Exactly… I think we need to send a scouting team into the Doman-Imithe to have a look.
+
+-Noted to the council. Shall we return to the gathering point?-
+
+Yeah, let’s.
+
+It was the next day before Mistress Vera’s report came in, and Tala had to sit down in the early, dawn light. “That can’t be right.”
+
+The flighty Archon lifted another couple of inches off the ground at Tala’s contrary tone, but still, she held her ground… metaphorically at least. “I am as sure as I can be, Mistress Tala.”
+
+“A hundred thousand? That’s… that’s madness.”
+
+“I said at a maximum, Mistress. I put the current estimate as closer to fifty, but they are setting up defenses that won’t be fully manned with less than eighty, and from the looks, I would bet the goal will be a hundred. There could be that many there already if most are simply dormant within the formation, but I can’t speak to that.”
+
+Tala opened her mouth to argue, but realized it was pointless. Inform the council.
+
+-Already done.-
+
+Thank you. Tala rubbed her temples. “Thank you, Mistress Vera.”
+
+The woman nodded. “I’m going now. I’ll be back when called, but I’ve already been here… too long.”
+
+Tala nodded. “Thank you again.”
+
+Mistress Vera’s wings snapped outward, wrapped in magic, and the Archon launched skyward.
+
+“We… We need to gather a response to this force. If we leave them here…”
+
+-They’ll threaten a quarter of the continent, and that’s assuming they are truly limited to only using superficial means of travel.- Alat sighed. -Well, we wanted a concentration of forces for us to attack…-
+
+Yeah… It seems that we got it. Still, I think something is going on within the Doman-Imithe. It’s the only thing that makes sense, no matter what assurances we have from dragons.
+
+-To be fair, the dragons only said that Black Legion didn’t have any permanent bases within the Doman-Imithe, not that they weren’t traveling through it. Rust, we know that they are.-
+
+True, but this feels… I would bet they have at least a token force on the other side, somehow helping new arrivals join them.
+
+-Unless Mistress Vera’s guess is right, and they’re already there.-
+
+I suppose… Still, something about this doesn’t feel right. Tala pulled out her breakfast, using the comforting flavors to help ground her thoughts as she continued to consider.
+
+The war council was surprisingly quick in their reply. A cordon would be created around the escarpment to watch it on all sides on the superficial while a force was gathered. Additionally, scouts would be sent through the Doman-Imithe to check on things from that side of reality.
+
+As for Tala? She’d been politely requested to go to the dwarves and appeal to the Mountain Kings for aid.
+
+From there, she was to go to the northern wilds and gather what forces that could be gathered before she got there, and bring them to join in this assault. Others were bringing warriors from the southern cities.
+
+Even if this wasn’t the totality of the Black Legion—a potential that was somewhat horrifying—they needed a heavy-handed response. They needed to deal a solid blow to the automata.
+
+Well, to the dwarves we go, it seems.
+
+-Hurrah!- Alat seemed to contemplate for a moment, and Tala decided not to comment on the affectation. -Do you think we could get a look at a soul-engine while we’re there?-
+
+A smile pulled at Tala’s lips. Oh, I hope so.
+
+It didn’t take long for them to button up their presence at the growing, forward base.
+
+As the flier headed around the cordon, they saw various strategic points already being secured and reinforced, Mages and arcanes entrenching those positions against potential skirmishing actions by the Black Legion within.
+
+Nothing like that had occurred so far, but they’d be fools to assume that it wasn’t a possibility. In the worst case, the work would simply make the observers more comfortable until the attack. At that time, enhancements would help the allied forces hem in the survivors or any that might try to escape when they went in to crush the Legion.
+
+Suppression and capture until we can remove them permanently.
+
+-That is the hope, yeah. But… a hundred thousand? Can we really send that many on?-
+
+We’ll have to do that many and more if we’re going to end this threat once and for all.
+
+Alat grunted in resignation. Then, she seemed to have a thought. -You know what? It really is incredibly odd that the soul-spirit pairs are able to continue, waiting for a new body to be created. It’s unnatural. The disembodied should pass on. To do otherwise could distort the soul, warp the spirit. Like water, such are meant to flow when not contained. Otherwise it invites stagnation.-
+
+Tala sighed in agreement, increasing her flier’s speed to the maximum that she could safely facilitate. They had little time. At the moment, the assault on the escarpment was set for a week hence.
+
+The plains whipped passed under them as they moved through the least populated part of the continent, excepting the great white north of course. Tala’s powerful perception picked up evidence of some cities or other settlements passing this way toward the dwarven fortress nation, but none would stay in this area.
+
+The dwarves were in a position of power: wielding their magics and well-established-and-entrenched industry to provide the mechanisms and components for the various traveling settlements of the Wandering Wilds.
+
+They build holds, flight engines, great legs, and myriad other conveniences and necessities. Some were so expensive that Tala wouldn’t be able to even consider their acquisition, and others were so inexpensive that a single gated family could acquire them for use in staking a small claim in the wilds.
+
+It was no wonder that the Mountain Kings had gathered so much wealth and power.
+
+And authority.
+
+-Indeed.-
+
+The plains were, quite honestly, beautiful.
+
+Tall, green grasses over unbroken, rolling hills. Not a tree, bush, or even a shrub for tens of miles in every direction, at least not easily visible.
+
+Her threefold sight picked up various streams weaving through the low places, with bushes and even small trees near those sources of water.
+
+Much like the wilds around the Cycling Cities, there weren’t any great rivers, but there were innumerable small streams and other little waterways that all worked together to move an unbelievable amount of water through the area while not disrupting travel for land-bound animals or vehicles.
+
+As to where all these little streams gathered? Well, that was like the gated-human plains as well, and Tala could easily see larger rivers underground, far closer to sea-level.
+
+It was funny, actually. She’d read in the history books Academy, about how there once were great rivers on the surface, before the rending, but now? Zeme had been stitched back together so haphazardly that even the bedrock was riven with paths and cracks, making the rivers flow down there.
+
+I don’t really think about such things very often.
+
+-Well, it makes sense that you wouldn’t think about how things aren’t. What brings it to mind now?- Alat obviously already knew, but as she often did, she was affecting ignorance to spur on Tala’s own thought process.
+
+The world-fragment. There’s a river visible in the distance. I didn’t think much of it, because it matched the histories I’ve read, but seeing this new land, with all its little streams? It called it to mind. I think that is even more the case since we just saw what the Black Legion is doing.
+
+-Trying to remake the world without magic and solidify it in this ‘new’ image.-
+
+Exactly. That brought the old and the new to the forefront of my thoughts.
+
+Alat grunted. -I can see that. Imagine how much harder caravans would have been if we had to cross great rivers?-
+
+Tala let out a barked laugh. “Oh, rust. I didn’t even think of that. Fording monster invested waters, or worse, trying to protect or maintain bridges?”
+
+-Well, it might have just required stone or ice mages in every caravan.-
+
+Yeah… that might have also made those magics more appealing to students at the Academy.
+
+-True. Oh, we could have worked to let caravans simply walk across the water with a modified ‘Restrain’, right?-
+
+That’s true enough. She shrugged upon her throne. I suppose it would have been different, not necessarily better or worse.
+
+‘Different’ usually came with other pros and cons, often even in equal balance. It really was surprising how often different was just different, not good or bad.
+
+With a thought, Tala immersed herself in her aura and authority projected around the flier as it moved across the skies of the southeastern wilds.
+
+There was no disorientation associated with the disembodied senses. If anything, having her threefold sight centered on the flier was liberating, when compared to keeping it fixed to her position, seated within the sanctum.
+
+She was flying, in perfect control of what kept her aloft, able to feel the air and see in every direction, unobstructed.
+
+There was a trembling in her soul, one of excitement and freedom.
+
+How often had she flown in the flier? Yet, she’d never manifested her full focus around it like this. Instead, she generally sat within the sanctum and observed dispassionately.
+
+I wonder why that is…
+
+Alat was uncharacteristically silent.
+
+Tala considered.
+
+She was used to seeing from her eyes, and so she usually had her perspective center there, but her threefold sight was entirely magical, and in truth, it was a compilation of multiple points of view regardless, overlaid to give a rather robust sense of all that was around her.
+
+Yet she still almost universally had one of those compounded perspectives originate from her body’s eyes.
+
+She also used her legs for most movement—though she was flickering more and more of late—and with her magics, aura, and authority, she could ‘feel’ anything near her, yet she still reached out and touched things.
+
+Her magic, more and more, was making her physical form ancillary.
+
+Rust, she could simply move food into her stomach if she desired to process nutrients at all.
+
+That last one had her burst out laughing, the sound rolling from around the flier as it continued forth.
+
+Why would anyone want to eat without eating? That’s madness. And there it was. Her soul was thrumming again. Is that it? Is it… balance?
+
+She felt her body back in the sanctum grin at the humor of it.
+
+Ascending can’t be about forsaking the body, even while it is absolutely about reducing the importance thereof.
+
+To Ascend wasn’t to shed the physical form—even Transcending couldn’t be that—and now that she considered it, no one had told her that it was.
+
+Ascending meant that her body wasn’t her true self, her core, that which needed to exist for her to continue to live.
+
+Reforging had been incredibly difficult for many reasons, and one of the core ones had been that she was working to instantiate herself into her body, but she didn’t have to work to do so with her aura…
+
+Was that it? Was that the key? To see her body as nothing more than just another extension of her power, aura, and authority?
+
+That didn’t seem quite right, but she did feel like she was getting close.
+
+She was prevented from further contemplation by a wonder, rising out of the plains in the near distance.
+
+Tala had arrived.

@@ -1,0 +1,219 @@
+---
+id: e8f477d9-5215-5c6d-a852-b7569d48fecc
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 92 - Everybody's Talkin’"
+slug: 0159-chapter-92-everybodys-talkin
+partOf: metaworld-hopecore
+position: 159
+ownLength: 3403
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3830065/chapter-92-everybodys-talkin"
+royalRoadId: "3830065"
+---
+
+"…for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs."
+
+George Eliot Middlemarch (1871)
+
+Around the United States’ imagined corners, the world moved on without the need for personal input from its presumed protagonist.
+
+A day after the story broke, blog posts, MySpace, Facebook, YouTube, everyone had something to say, some comment to give and some verdict to deliver—
+
+The papers didn't have a chance to catch up until 24 hours after the fact, because it was 2008, and editors still made you prove things. A journalist who filed a lie could still be laughed out of the industry, and collusion between corporate money and the fourth estate remained, at a minimum, career-ending when uncovered.
+
+Lafitte’s labour, by the loosey-goosey standards of 2032 faux-media, would have been a shoo-in for a Pulitzer.
+
+Such were the epilogues orbiting Euphemia Fontaine’s colourful past at LAPA as told through headlines.
+
+First, there was Charlene Lafitte’s coup de grâce.
+
+"THE SCHOOL KNEW" The Hidden Infamy of "Fame High"
+
+By Charlene Lafitte, Los Angeles Times Los Angeles — May 20, 2008 Second of two parts. Part one was published on May 18.
+
+Since 1998, the Los Angeles Performing Arts Academy has settled at least eleven claims arising from the abuse of its students. None reached a courtroom. None appears in any public record that the Academy maintains.
+
+Several of the students involved left the school mid-year. In the Academy's own files, their departures are logged under a single word: administrative.
+
+Among them is the young woman whose 2007 audio recording this newspaper reported on Sunday.
+
+The victim was a Junior at the Academy at the time, and underage. The recording, which The Times has reviewed in full and whose provenance and origin it has verified, documents a violent sexual assault committed against her on Academy grounds by a fellow student. What is permissible reveals that a young woman is heard pleading, and that the man heard on the recording not only refuses her but threatens her life and her family, and boasts that she will not be believed if she reports it. The recording runs thirty minutes — the maximum the tape allows.
+
+The alleged assailant's age at the time of the incident means The Times cannot name him. What is permissible to report is that he was a Senior at the Academy, enrolled in its Film program, and had earned rare accolades in filmmaking. At the time of publication, he is deceased.
+
+The victim left LAPA in the summer of 2007. Her file records no complaints, investigations, or findings. It records a withdrawal.
+
+In the course of a five-month review of the Academy's disciplinary history, this newspaper examined a decade of parent complaints, insurance filings, and civil suits settled before reaching a courtroom. The pattern does not vary. A family raises a concern. A payment is made. A confidentiality provision is signed. A student stops attending, and the file closes with a word that describes a process rather than an event.
+
+The Academy did not dispute a single factual assertion put to it.
+
+…
+
+Charlene Lafitte covers arts and investigations for the Los Angeles Times. Anyone with information regarding this story may contact her securely at the address below.
+
+Then, there came the corroborating evidence.
+
+In Lapaganza's Titus Andronicus, Theatre Finds Veritas By Marcus Whitfield, Los Angeles Times Los Angeles — May 19, 2008
+
+This critic attended the single Sunday evening performance of the Los Angeles Performing Arts’ LAPAGANZA production of Titus Andronicus. Something occurred in the auditorium during that performance which I am not at liberty to describe, and which is the subject of separate reporting by this newspaper. I want to be clear about why I am filing this review anyway.
+
+There is a moment, late in the third act of the Los Angeles Performing Arts Academy's LAPAGANZA production of Titus Andronicus, when the audience stops breathing. It arrives when Lavinia — played with a physical and vocal commitment rare even among veteran actresses by Senior Valorie Sanders — is discovered by her family, sans hands and tongue; what she does at the end of that walk transcends the stage and enters life.
+
+Co-helmed by Theatre Chair David Cooper and West End veteran Susanna Tyker, who produces, the production stages its horror without a drop of stage blood. Instead, there is thread — red silk that spills from Lavinia's mouth and wrists and goes on spilling, unspooling further with every step she takes downstage, until the floor behind her is webbed in it. This critic has not seen the device before. It is built by effects designer Odette Kessler and integrated into Ada McGregor's costume design so completely that one cannot see where the gown ends and the wound begins.
+
+This is not an easy play, yet LAPA's student ensemble elevates it. Sanders anchors the production with a performance of unnerving restraint; opposite her, Elizabeth Moore's Tamora is coiled fury dressed as diplomacy, and Nathan Drake, as Titus, finds something unbearably tender underneath the character's descent…
+
+…
+
+It is, simply, some of the finest student work this critic has seen in fifteen years on this beat.
+
+Then, the afterthought. The last and final time William Chen would ever grace the pages of a newspaper.
+
+HEIR TO OMNIA CONSTRUCTION FORTUNE FOUND DEAD AT LOS ANGELES ARTS ACADEMY
+
+The Associated Press Los Angeles — May 27, 2008
+
+The Los Angeles County coroner's office has ruled the death of William Chen, 18, a suicide.
+
+Chen, the only son and sole heir of Lee-Kwon Chen, chairman of the real-estate and construction firm Omnia Construction Group, was found deceased on the grounds of the Los Angeles Performing Arts Academy on the night of May 18, in the hours following the close of the school's annual spring showcase.
+
+The ruling was announced Tuesday after a review that officials described as complicated by "the circumstances surrounding the decedent in the days preceding his death." Investigators declined to elaborate, citing the privacy of surviving parties.
+
+Those circumstances have been the subject of intense scrutiny since May 20, when the Los Angeles Times published an investigation into the Academy's disciplinary history, reporting the existence of an audio recording documenting an alleged sexual assault by an unnamed Senior in the school's Film program.
+
+Reached Tuesday, a spokesperson for Omnia Construction Group said the Chen family "asks for privacy in this time of profound loss," and disputed "any attempt to connect a grieving family's tragedy to unproven allegations against an unnamed individual." The company declined to answer whether the family had retained counsel.
+
+No memorial service has been announced.
+
+Eppie guessed that Lee-Kwon Chen was eager to move on from his son, now that his fiefdom was no longer barren.
+
+But as she had no way of knowing that there were letters going back and forth, back and forth, between San Marino and Reedley, the question she asked herself was a smaller one: knowing what she believed, could she feel sorry for William?
+
+Eppie struggled.
+
+She struggled because she had her suitcase on the bed and a pair of underwear in her hand, and the goosebumps covering her arm informed her that William's case was unsalvageable.
+
+The regret, as it had done prior when the [System] paid for Lee-Kwon’s salvation, passed like a muscle spasm.
+
+Eppie felt firm in her decision.Just as William had been firm in his.They were two [Usurpers] who had stuck to their guns. Maybe that was what made them different. Maybe that was what differentiated [Usurpers] from [Parasites]. The psychopathy… was in their bones.
+
+The thought was so disturbing that she chose to think about her friends instead.
+
+Zara. Valorie.Simone.Her Sophomore classmates.
+
+She felt certain that their paths would cross more often than not. This content has been misappropriated from Royal Road; report any instances of this story if found elsewhere.After all, the higher one went in the performing world, the narrower the alleyway.
+
+Louisiana.Sans Souci.
+
+Unbeknownst to Eppie, there was someone that she wasn't thinking about, whose path was crossing hers as she packed.
+
+The name of said forgotten “friend” was Lucia Lancet, heir to the Richards Estate, daughter to Henry Lancet, heir to the Sofitel fortune.
+
+But she wasn't at one of her father's franchises now. She was reading Eppie's epilogue on her phone in the back seat of a car, passing an oak allée so old that the branches had fused overhead into something like a spine.
+
+Suicide. Bullying. Pattern of silence. She scrolled past a photograph of the Academy's multi-coloured logo. Incredibly, the reporters were nice enough to include no people. Nothing of this William Chen. Nothing of Valorie Sanders. And nothing of Euphemia Fontaine.
+
+Even so, she could see Curon’s songbird, her small, blonde, luminous figure, her ridiculously large eyes, and her strange mind for making music. And her ability to attract misfortune was like a debt attracting interest.
+
+Eppie. Dear God, Eppie. First the hospital, then the bullying, then Kel G, now this?To Lucia Lancet, Euphemia’s daily life resembled that of a protagonist in a young adult novel she had snuck on the occasion when her manager wasn't watching. The girls in those books were always in terrible danger, and yet, via the authorship of their own fate, they somehow always survived, with or without their hunk.
+
+Compared to Eppie, who seemed to ricochet from horror to horror, Lucia’s life was a call sheet: a laminated one, with lessons, practice, diets, more practice, and scheduled rest.
+
+She didn't quite get enough time to finish her musing because the car was already slowing at the base of the front steps. Mathias Clay, the major domo of her grandmother’s estate, was already coming down to meet them. Compared to Bennet, her driver and bodyguard, he was a big, unhurried African-American man, silver-templed, wearing a dress shirt despite the heat, and known to her since she was small enough to be carried in his arms.
+
+“Miss Lucia.” He took her bag before she could protest. “Your grandmother is awake now. Best you go and see her before her good mood is spent.”
+
+“Of course, Mathias.” Lucia followed him up the steps and into the house.
+
+The house loomed as always, cool, dim, high-ceilinged, smelling of cypress and lemon oil, furnished with fourteen-foot doors, plaster medallions, and faded French wallpaper the colour of weak tea, so that the visitor felt as if they were stepping through time.
+
+Above the long dining table, the punkah still swung from where it had hung since the 1840s: a great paddle of painted wood that a child had once been made to pull, hour after hour, through the suppers of a family that owned him. Grandma had it restored the year she bought the place and had a man install a motor. She said it was a reminder of how far they’d come.
+
+And down the gallery hall, where the portraits of somebody's ancestors used to hang, her grandmother hung the records. Gold discs in black frames, forty of them—songs with famous names pressed into the vinyl, and Bailey Richards's blood pressed into the notes underneath.
+
+Lucia had grown up walking beneath them and had never once thought about it. Not until she broke into the industry herself and found the same discs on the walls at Sony BMG.
+
+It was…a wall of evidence. Hung the way a plantation patriarch hung the heads of dangerous animals he’d shot in his hours of leisure.
+
+"Mathias. Can you pass me the CD in my bag?”
+
+Mathias presented her with the manila envelope from NYC.
+
+Inside was a CD. On it was a song. She had, on the plane, listened to it a dozen times, with her eyes closed, with her eyes open. She had sung the song, trying it on for size.
+
+It didn’t fit.
+
+And yet, Eppie's own impeccable, print-like handwriting had said that it was for Lucia. For the debt from last time.
+
+House of the Rising Sun wasn't a pop song.It wasn’t rock, either, nor a ballad, per se.It wasn't in her key, nor her register; it was raw where she was polished, blues-inflected and missing the backing instruments to make it snap. Besides, she was Sony’s perfect Pop-princess. How could she sing a song about a whore house in New Orleans? Why was the singer the one who had personally participated? It sounded, if anything, like something that belonged to someone twice her age and half her fame, and from two centuries ago.
+
+She rapped her knuckles on the wood, then pushed.Even as an adult, the doors seemed impossibly heavy and impenetrable.
+
+Delphine Richards sat in the music room, where she always sat in the morning. Her grandmother’s preference was for silk from another decade, high-collared dresses cut for a body she no longer had, in a green that had long since lost its fashionability. Everything about her was skeletal. Her face should have looked younger than it did. Unfortunately, the frown had been there long enough to build its own valleys and gorges.There were still photos of her around the house. Delphine Richards, the famous songstress.Delphine had been breathlessly beautiful, though one would hardly know when gazing upon the Richards’ enormously influential matriarch, wasting away in an enormous colonial music room with the shutters drawn, frowning at foes Lucia could not see.
+
+“You're late, child.”
+
+“I came straight from the car, Grandma.” Lucia curtsied because her grandmother had insisted.
+
+“Mm.” A pause, the particular silence Delphine used the way other people used punctuation. “Still no Grammy. Three years, child. The good Lord put it all in you, every bit, and they still won't set you at the top of anything.”
+
+Lucia choked on her own breath. Heat climbed her throat. Her chest felt like someone had trodden on her solar plexus, forcing her to shift her balance involuntarily. She put her hands behind her back, where she had been taught to keep them.
+
+“It's not that simple, Grandma…”
+
+“I know exactly how simple it is.” Delphine's hand, spotted and ringless except for one wide gold band, closed slowly around the arm of the chair. “They gave that Kelly Price girl 'Umbrella.' You think I don't know what goes on inside that building? Mm. Child, I was in that business before your mother could walk. That song was yours before it was ever hers. Somebody up there decided otherwise, and somebody up there thought they could go back on what they promised this family.” Delphine fought for breath. “Thieves in good suits. Same as it ever was.”
+
+“Grandma—” Lucia wanted to protest, but a cat had caught her tongue. “Eppie…”
+
+“And what would a white girl know about the blues? What would she know about what we carried? You've been sold a story, child. Curon bought that song off somebody, somewhere, and stood himself up and told the world his little protégée dreamed it out of the air. A child can't write In the Pines. Why would the Almighty hand it down to her and pass over every soul who earned it? Fontaine. Fontaine. I've known a few Fontaines in my time, and so did your great-granddaddy. Where's them Fontaines now? Mm?”
+
+Lucia didn't have an answer. She wanted to explain to her grandmother that Euphemia Fontaine did not have an easy life, but when her grandmother was taken by the mood, the only solution was to wait out the storm.
+
+“I brought you something else, Grandma,” Lucia decided she had to change the subject, even if that subject also involved Director Curon and Euphemia Fontaine.
+
+Lucia clicked on the Sony CD player and fed it the golden CD. Her grandmother preferred vinyl records. The rapid evolution of technology, however, did not afford that convenience for all music, including this recording.
+
+Her finger rested on the plastic triangle indent.
+
+The first notes filled the room—that same warm, wood-grain voice, which had no business coming out of a little girl's mouth, much less a white orphan from LA.
+
+There is a house in New OrleansThey call it the Rising Sun,And it’s been the ruin of many a poor girl,And me, oh God, I’m one.
+
+Maybe Grandma was right. Maybe. There was no way to explain why a child was singing a song of the old souls. Yet, Eppie had succeeded in bringing forth things Lucia could not. Nostalgia, forlornness, isolation—all of it spent and settled through a life regretfully lived.
+
+If I had only listened to what my mama said,I’d be at home today.But bein’ so young and foolish, my Lord,Let a gambler lead me astray.
+
+Her grandmother went very, very still.
+
+Lucia felt something ugly grow in the pit of her stomach. Her grandmother had never reacted like that to any of her songs, not even when they were number one on the Hot 100.
+
+By the second verse, Delphine was on her feet.By the third, the stillness had broken entirely, into something Lucia had never once, in nineteen years, seen her grandmother do. Delphine was shaking, both hands balled into fists, staring at Lucia, but not seeing Lucia.
+
+Somebody go get my baby sister; Tell her not to do what I have done.But shun that house in New OrleansThey call it the Rising Sun.
+
+“Where did you get this?" Her grandmother had become a wild woman. It was a question. It was a demand, and the light behind her eyes wasn't reason, but rage. “Where. Did you get this? Nobody has this. Nobody outside these walls has ever heard this—”
+
+Delphine rounded on her grandchild. Lucia felt a pair of powerful hands close around her slim shoulders. “Who gave you my daddy's voice to sell? Is that what this is? Is this Trent Davis putting his hand on my shoulder? Is that boy pressuring me?”
+
+“Grandma, I didn't—I don't even know—” Lucia felt the ache in her arms acutely, even though she was tolerant of pain. A lifetime of lessons since she could walk had taught her that. The snaps on her fingers during piano lessons, the switches to her thighs during dance practice.
+
+“GET OUT—Get out of my house—!” Delphine threw her to the floor, or at least tried. It was just as well that the old woman’s adrenaline lasted only a second.
+
+Lucia slipped from the music room, stumbled, almost.
+
+She could not recall crossing the gallery hallway, and did not remember the gold records blurring past her. Her lucidity didn’t return until she had arrived at the other side of the front doors, breathing hard in tears, the Louisiana heat pressing down like a wet, firm hand.
+
+Mathias found her there a few minutes later, on the bottom step, and lowered himself down beside her. He had a glass of iced tea on a tray. Heavily syruped. The same thing he used to bring her when she was found sobbing after a lesson that hadn’t gone stellar.
+
+“I'm sorry, baby,” he said it plainly, this time with nothing professional over the top of it. "Your grandmother's going to need a few days to sit with what you brought her. Longer, if she takes a mind to have it looked into." He watched the drive for a moment. “Some things have been buried a long while, Miss Lucia. They don't come up gentle.”
+
+“Look into what, Mathias? I don't even understand…” Lucia wiped herself down with the complimentary napkin. Her arms still stung. Lord, grandmother’s hands were strong.
+
+Mathias couldn't answer her—it wasn't his place. Instead, he repeated a phrase he always said. "Miss Delphine has great expectations of you. Always has," then left her the iced tea and went back inside to the old woman shaking apart in the music room.
+
+Bennet came up the gravel a moment later, faster than his knees had agreed to. He'd been out at the car the whole time and hadn't heard a thing. Sans Souci was built thick, built a long time ago, and built to keep its sounds inside.
+
+“Miss Lucia.” He crouched down level with her, joints popping the whole way, and didn't ask what had happened. “Shall we return to NYC?”
+
+Lucia sipped her sweet tea and nodded.If this was how Delphine treated her own grandchild, what would become of Euphemia Fontaine?

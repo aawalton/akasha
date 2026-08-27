@@ -1,0 +1,247 @@
+---
+id: e19105a0-6022-53af-bd9c-b4a539359906
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 584 - This Was Possible"
+slug: 0084-chapter-584-this-was-possible
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 84
+ownLength: 2651
+unit: words
+ownProgress: 2651
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2415796/chapter-584-this-was-possible"
+royalRoadId: "2415796"
+markedReadAt: "2026-06-29T19:37:59.281Z"
+---
+
+Tala felt a bit conflicted about leaving Rane alone with Lea again, after having just done so the morning before.
+
+That, along with Lea’s nightmares had made Tala rather hesitant, but Rane assured her that it would be fine. Mistress Holly had already rescheduled multiple times for them, and neither one of them wanted to have to ask her to delay again, no matter how good the reason.
+
+Still, Tala felt very much unhappy about leaving without her daughter. She knew that Rane would be fine, but Lea…
+
+She’s barely more than a day old.
+
+-She’ll be fine, and you can get back to the sanctum rather quickly if the worst were to happen.-
+
+I know… It was already done. She was already on the superficial, walking her way toward Holly’s warehouse-like facilities.
+
+At that very moment, Rane and Lea were sitting down to breakfast. As a change of pace, both Enar and Alat were manifesting illusory selves at the table with the two to have a more ‘complete’ family breakfast.
+
+And I’m missing it…
+
+-Well… It’s the first of many?- Alat tried to helpfully point out.
+
+That I’ll miss… Tala was a bit irritable.
+
+-Oh, don’t be a downer, Tala. I’m here, so you’re here.-
+
+I know… More than just the pseudo-presence via Alat—and the memories of her perspective that she would have easy access to—Tala did have a live view of the goings on.
+
+She just wouldn’t be participating…
+
+This time. I’ll be there next time. It’s fine. She’ll be fine. I’ll be fine.
+
+She shook herself, diverting to grab three cheesy little caravans, this one modified to be more breakfasty in flavor.
+
+As she looked rather mundane, she didn’t fault the attendant for his odd look when she picked up the three food-logs that were each basically the size of her own head… or at least close to it.
+
+As she walked outside, she willed two into the sanctum either for her family or for later, at their discretion.
+
+The final one was all for her.
+
+Thankfully, it was skillfully created and wrapped, so she was able to consume it as she walked.
+
+Huh… it’s funny. I used to count every copper. Now? The cost of this, this expense, doesn’t even register. It literally doesn’t matter to me at all.
+
+-Ahh, wealth, how it changes one’s perspective.-
+
+I suppose.
+
+-Having your own lavish estate and township doesn’t hurt either.-
+
+Tala grunted at that.
+
+-Oh! Lea says to say hi. So… Hi!-
+
+A smile tugged at her lips even as she took another enormous bite. I say hi back.
+
+-She wants to know when you’ll be home.-
+
+I heard.
+
+-...Well?-
+
+Tala sighed, shaking her head even as her smile grew. You know that answer, probably better than I do. But you can tell her that I will be home as soon as I can.
+
+-Will do.-
+
+A moment later, Tala felt a warmth well up within her.
+
+-She says to tell you that she loves you and misses you.-
+
+Message received. I love and miss her too.
+
+-She says to say bye!-
+
+Tala huffed a laugh. Bye! Bye to you too, Alat.
+
+-Bye, Tala. Have fun.-
+
+Lea tried to continue to have Alat convey messages to Tala, but Alat wasn’t having it, insisting that the girl should focus on those who were actually at the table with her. Tala would be back soon enough.
+
+Finally, the girl acquiesced, and their family breakfast continued.
+
+Tala continued to feel a warm, tight, heaviness within her chest as she licked the remnants of her own breakfast from her fingers.
+
+It’s fine. I’ll be home again soon.
+
+A stray thought made her chuckle, helping to relieve some of the melancholic feeling.
+
+I never took Rane for a house-husband, but he seems to be doing a reasonable job.
+
+He obviously wasn’t actually one, but the passing thought never went past that point as she’d finally arrived.
+
+Tala took a moment to look up at the edifice before her. It really is a plain building.
+
+It wasn’t like Mistress Holly needed a fancy place to impress, nor to draw in customers…
+
+With another shake of her head, Tala pushed open the door and stepped inside.
+
+“Mistress Tala, dear!” Mistress Holly’s voice practically slapped her in the face as soon as the door swung fully open. If she hadn’t already been moving forward, Tala likely would have stumbled backward from surprise alone.
+
+“Mistress Holly…” Tala blinked a few times, steadying herself before continuing, “Thank you for making time for me.”
+
+The Inscriptionist bent to the side to look past Tala, then did the same to the other side. “Oh, you’re alone?”
+
+“Yes. Rane and the rest stayed behind today.”
+
+Mistress Holly cocked one eyebrow, a smile pulling at her lips. “The rest being your terror bird and your daughter?”
+
+Tala huffed. “I see that you are already fully informed, then.”
+
+“To say that someone is ‘fully’ informed about such a thing would be an exaggeration in the extreme. I think it would be folly to say that even you are fully informed in this regard.” Mistress Holly considered a moment before shrugging and appending. “Maybe in any regard, but full knowledge is a tricky thing.”
+
+They stood in momentary silence that was moving toward awkwardness—at least from Tala’s perspective—so she decided to change the subject. “No assistant today?”
+
+The Inscriptionist made a displeased face before clucking her tongue in annoyance. “No. Though, I’d have told any I did have to stay away around your visit today.” She shook her head. “Good help is so hard to find, I must say.”
+
+Tala grunted, realizing that she didn’t really want to discuss this topic either. Maybe I just don’t want to talk?
+
+“But! We are not here to sit around gabbing like a couple of old women. We have work to do, and magics to explore. Come with me.”
+
+Rather than going back to the Inscribing Room, they went to the side, entering a room that Tala had yet to visit, despite all her time spent in this building.
+
+“This is a visualization chamber.” Mistress Holly explained. “It’s frustrating to use for simpler spellforms, but when dealing with more complex or more pervasive inscribings, it is rather useful.”
+
+As the door swung shut behind them, the light faded, and magical illusions sparked to life.
+
+Before them, a depiction of Tala came into being, floating well clear of the floor so that they could examine it from all sides.
+
+Thankfully, the part that was actually ‘her’ had received the ‘doll treatment’ removing any visualization of her more private areas—at least externally—but as that wasn’t the point of the display, Tala quickly moved on.
+
+The inscriptions were extensive. Even when compared to her greater than standard amount, this new set was… yeah.
+
+Mistress Holly began her explanation almost immediately. “As you can imagine, this was a project like few others I have done. Magic, Reality, and Void each behave very differently as a rule and using Magic—even magic tinted by reality or void—to interact with either of the other two pillars isn’t a simple thing. What you requested was an interweaving of the three throughout everything, especially your physical enhancements.”
+
+There was a pause there as the Inscriptionist seemed to realize something, a small frown creasing her brows.
+
+“Will your new daughter change your desires around your reproductive organs?”
+
+Tala shook her head. “Lea is wonderful, and we would also love to have biological children some day.”
+
+“Good, good. I’d be… less than pleased if my work in those regards was for naught. Now, what I have created here is not sustainable within even a Refined body. The Void would poison you, and the Reality would quickly permeate its way through, effectively undoing your refinement. You simply don’t have the throughput and magical stability to keep them in perfect balance. Your Reforging must take these magics into account, which is—I suspect—exactly why you are approaching this as you are.”
+
+Tala nodded.
+
+“Good. The result is that your inscriptions have effectively tripled, leaning heavily on your soulbonds to void and reality materials. More than that, your recent experience with the… What did you call it in your memory? The Ending Blade?” Mistress Holly paused for dramatic affect, and Tala grimaced slightly, eliciting a half-smile. “Regardless, your insights provided the last building block that I needed to complete this. All that means that you will need more than to simply strengthen and fortify those bonded magics as well as your bonds to them.”
+
+“And you incorporated those magics in directly?” She thought she could pick out the dual-natured reinforcement and dissolution magics threaded throughout. Endingberries are still useful, even after all this time.
+
+“I did.” The woman gave her a long look. “You are going to be required to fully merge with these bonds, Mistress Tala. You do understand that, correct?”
+
+“Yes. I will effectively be fusing with them body, spirit, and soul.”
+
+Mistress Holly grunted. “If you had mentioned ‘mind’, I would have slapped you.” She shook her head. “Still, you take great risks…” She frowned then sighed. “I will not try to dissuade you as most things worth achieving are hard to reach, and few come without commensurate risks.”
+
+She clearly wanted to say more on that topic, but stopped herself.
+
+“Regardless, we also have this.” She made a motion with her hand, and the illusion shifted, Tala and her new inscription-set fading as a stunning tapestry of spell-lines came into focus. “These are the natural magics that will need to be manually carved within days of your Reforging. I’ve highlighted where there is overlap with your existing magics, thus making the process easier in those areas.”
+
+Tala leaned in squinting. After examining the entirety—even walking around it once for good measure—she shook her head. “I apologize, I can’t find any sort of highlighting. Can you show me an example so I can understand?”
+
+“Exactly. And, no, I cannot.” Mistress Holly gave her a flat look. “Your changes will require an utter scrapping of the magics currently carved into your spirit and a reconstruction of entirely new spellforms.”
+
+Tala returned the flat, unamused look. “Very amusing.”
+
+Mistress Holly shook her head. “No, it’s not.”
+
+Tala sighed, breaking eye contact. “It is how it will be.”
+
+“And if you fail, you’ll leave your husband a widower, and your daughter without her mother.”
+
+She returned her gaze to the other woman’s face. “Then, I guess I shouldn’t fail.”
+
+“If only such a declaration was worth anything.”
+
+The two women stayed with eyes locked for a long moment. Finally, Mistress Holly let out her own sigh before looking away and adjusting the visualization yet again.
+
+“If that wasn’t sufficiently complex—because it isn’t sufficient to actually do what you want and need—here is the magic that you need to enforce on either side of yourself along the dimensions of magic.”
+
+The visualization of her natural magics had faded and another set came into focus. Well, to be fair it was two sets, one would be one increment stoneward, the other the same starward.
+
+She wouldn’t become a creature that truly had some of herself along the fourth-dimension like Terry, but she would be taking a strong step in that direction.
+
+With the full picture laid out, Tala could finally start to make real sense of the scope and scale of this undertaking.
+
+Across all the layers that were now visible in their totality, she picked out pieces of magic from Kit, her elk leathers, and Flow, threaded throughout her own current set—heavily modified—forcing the alteration of all to interleave and interweave them cleanly.
+
+In truth, the end result was a work of art the likes of which Tala felt humbled to witness.
+
+And I need to understand it well enough to make my own version. She released a long breath.
+
+Her Reforging couldn’t be based upon anyone else, it had to be fully her and fully her own, which meant that she couldn’t use this schema as it was. She had to make her own based on what she learned from Mistress Holly’s masterpiece.
+
+This would not be a fast process.
+
+Mistress Holly finally pulled a book out of thin air, offering it to Tala.
+
+It was… massive. The cover was nearly two feet square, and the binding was nearly a hand’s width thick. She also couldn’t help but notice the large, gold ‘1’ on the spine.
+
+“I have also granted you access to this in the Archive, but I highly recommend that you read through it, physically. I know that you are capable of simply subsuming the information.” She met Tala’s eyes yet again. “Don’t. You need to process this naturally and fully.”
+
+Tala gave a slow nod. “How many volumes?”
+
+“Seven.” The Inscriptionist chuckled. “I will say, this would have been impossible without the extensive information you were willing to provide about yourself and your soulbonds. Thank you for that. This has turned out to be my most… interesting project in centuries. I’ve had to stretch myself and delve into avenues of my field that I’d abandoned as useless or archaic. I am…” She hesitated for a long moment before continuing. “Truly, thank you for this opportunity. Even though it is effectively a purely theoretical exercise, it is one that I doubt I will ever forget. More than that, I believe that what I’ve learned will help me push inscriptions forward yet again.”
+
+“Oh… well… you’re welcome?” Tala gave an uncertain smile. “Thank you?” She nodded. “Thank you. This would have taken me decades—”
+
+“Centuries… if we’re being generous.”
+
+Tala nodded again, not arguing. “Centuries. This would have taken centuries of research and work to build up to and create. If I Reforge within the next few cycles, it will be due to what I can glean from this.” She gave a deep bow. “Truly, thank you.”
+
+Mistress Holly waved her off. “Think nothing of it. As I said, it helped me more than you will soon know. I’ve forgotten that inscriptions still have a long way to go until they are perfected, and in more than just the area of physical application of the base-level spellforms.”
+
+The two fell into companionable silence as Tala continued to examine the illusory version of herself.
+
+Soon enough, the questions started as Tala began to plumb the depths of all that she was seeing.
+
+Mistress Holly’s assistants and workers in the building came and went, always seeming to be incredibly careful when passing by the room occupied by the two very advanced Archons.
+
+The Inscriptionist was a patient teacher, seeming more a proud parent, showing off her beloved child than a worker explaining the task that they’d completed. Moreover she never rushed Tala, and even went out of her way to explicitly state that they had all the time that Tala needed.
+
+With that coming through so clearly, Tala felt drawn into asking more questions and delveng ever deeper into the ‘how’ and ‘why’ of essentially every aspect of the schema.
+
+The more she learned, the more Tala was sure. She had made the right choice.
+
+This was possible.
+
+She could do this.
+
+All that she was, and all that she knew she was supposed to be, was there, laid out before her. This, combined with her physical Reforging, would be the pillars of her Reforging.
+
+Then, finally, she would be herself, not the result of someone else’s interference, influence, or manipulations, not the girl who ran, nor the student who hid, nor the never-mageling, striving for power and wealth, nor the duplicitous Eskau.
+
+She wouldn’t even be a woman dependent on her husband or daughter. She would still love them, and they would be a part of her—and her life—for as long as they all lived, but she wouldn’t be defined by them.
+
+She would simply be Tala Sappherrous, nothing and no one else.

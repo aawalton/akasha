@@ -1,0 +1,255 @@
+---
+id: 570e0cbb-b415-54fa-a564-2d76de7de006
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 53  - Kiss With a Fist"
+slug: 0094-chapter-53-kiss-with-a-fist
+partOf: metaworld-hopecore
+position: 94
+ownLength: 3071
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3475832/chapter-53-kiss-with-a-fist"
+royalRoadId: "3475832"
+---
+
+“One wonders if all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage. Perhaps the things that frighten us are, in their deepest quintessence, a helpless thing that desires love."
+
+Rainer Maria Rilke,Letters to a Young Poet
+
+Veritas.
+
+Truth.
+
+That great and nebulous capture of personal reality.
+
+Vaughan’s sophistry hung in the air with the weight of a sword by a thread of human hair, smelling simultaneously of metal and sulphur. With a [System] like hers, she half expected there to be an Ariel and a Caliban popping up on either side of her shoulders, but it was only Prospero’s bony hands that weighed down on her mind and soul.
+
+What will you do now? That was the implication of Vaughan’s message. Show me who you really are.
+
+Her mentor’s sentiment felt like loam after a summer squall, present, heavy, real.
+
+There is nothing either good or bad, but thinking makes it so.
+
+Yet, Juliana was wrong. Her [System] told her so. Her [Wisdom], in conjunction with her [Script Analysis], would not allow the inter-textual obfuscation to pass. In the play, Hamlet was NOT being sincere. He was testing his Rosencrantz and Guildenstern, these men who called him their bosom companions. He gave them every opportunity to repent. He asked them twice if they had exercised their God-given goodness, and twice, they had deflected and lied. Choice by choice, step by step, the men chose their own death.
+
+Hamlet had then shaken his head and responded with the modern-day equivalent of, “Heh.”
+
+Hamlet was the ploy laid by her chief curator. There was a duality to Juliana; she could see it now. The bright-eyed genius who had married into the Vaughan estate and guarded her husband’s dream for five decades. It was impossible to think that such a woman wouldn’t have a Machiavellian side.
+
+Such was Juliana’s theatre of cruelty. She was a terrifying woman.
+
+Unfortunately for Vaughan, Eppie never liked Hamlet, not even outside AP English. Hamlet was a righteous cunt. Hamlet had qualified, soliloquised, deferred, and let his Uncle live for four acts, and Ophelia had died to feed his revenge. The way that the philosophical thespian had treated Ophelia was a crime. No. In Eppie’s revenge, she would not allow Ophelia to die, spy or not, traitor or otherwise.
+
+She would not play in Vaughan’s theatre; she had another play in mind.
+
+Eppie looked at her presumed teacher, the lady of the house, the mentor who had dressed her up as Audrey and showed her a world that not even Lana could reach with all her capital. “Between the acting of a dreadful thing and the first motion, all the interim is like a phantasma,” she quoted Brutus to her erstwhile mentor with Cooper’s theatre voice, resplendent with the fatalism of Antigone’s unwavering faith in the law of the Gods, not men.
+
+Vaughan looked back, and her expression was the expression of a woman waiting for the opera to start. Perhaps she had read the programme and knew the ending. Perhaps she was waiting to see how the new production would surprise her.
+
+Her mentor did not respond.
+
+Eppie looked across the gallery, through the press of bodies and the amber light and the chandelier, her [Perfect Pitch] picking up the clinks and the laughter. In the time that she had been held hostage by indecision, Valorie and Grein had gone to perform their merry deed.
+
+Fuck.
+
+Thankfully, the double French doors to the outside were askew. It was obvious where they had gone.
+
+“Excuse me,” she said politely.
+
+She leapt. Her action said fuck your sophistry.
+
+For a second, Eppie considered showing the guest the incredible, once-in-a-lifetime sight of a girl in Givenchy leaping from the second floor in four-inch Chanels. Instead, she half-slid down the polished granite bannister, her skinny buttocks taking the punishment as her heels landed with a click, pushing her [Agility] to its utmost not to snap her ankles.
+
+She knew what to do. Calm rationality dictated that Val was old enough to set William on her victims and so could take responsibility for herself. Cold calculus deduced that what she had done to Mio was far worse than what she could herself consent to.
+
+And yet. And yet. She was Brutus in the orchard, left with nought but the act and the reasons. The reasons to save Valorie were insufficient. And yet she didn’t need sufficient reason to pull a girl from the grasp of a [Karmic Parasite], just as Brutus knew that human fallacy lay not in fates or stars or the fixed machinery of a world indifferent to intervention.
+
+The fault was in ourselves.
+
+The intent was all.
+
+She threaded through the crowd, who had yet to notice her. Unlike Valorie, she was a feline personified, her presence a mere slipstream. She thought about kicking off the heels, but by the time her brain had caught up, she was already at the French doors.
+
+Like a cat, she slipped between the gap, ready to grab her redhead and drag her back into the room.
+
+Eppie stepped out into the cold.The frigid wind wrapped around her bare legs, then blasts of warm air from the interior dispelled their hold.
+
+Where the fuck—Her heart sank. She was on the wrong balcony! OF COURSE, she was at the wrong balcony! Who the hell takes a senator’s daughter out for a salacious deal and leaves the door unlocked? Did Grein want people to hear? To see? To witness the glorious moment that Valorie’s spine went supine?
+
+Her eyes scanned the dark, taking their god damn time to adjust.
+
+Outside the manor, there were three semi-circular balconies, all hanging from the front facade, overlooking the terrace gardens, above which hung the cold light of a New York December. Each terrace had its own manicured, tiny Christmas tree in an oval ash-white terracotta pot. Her balcony sat on the far right.
+
+She saw them. Grein, Valorie, and Marie, their silhouettes unmistakable in the dark, backlit by the galleria's light. Grein, his mass unmistakable, had his back toward them, standing to the right edge, facing Valorie. Valorie stood still as a greek statue, her face illuminated by the amber light, facing Grein with a fatalistic expression of drunk optimism. Marie stood at the double doors, barring anyone from entering or exiting. With the drapes as an additional barrier, there was little reason anyone else would witness what was about to transpire.
+
+Grein was speaking. He had now migrated past Valorie’s elbow. While one hand gesticulated, the other was already beside her bodice.
+
+One second, the fingers were visible. The next—
+
+THE MOTHER FUCKER!
+
+Am I too late? Eppie despaired, her heart pounding in her throat. For a second, she seriously considered the possibility of using [Agility] and [Strength] to parkour across the balcony’s spaces. It was three odd meters at best. With her enhanced body, surely she could make it. Besides, even if she didn’t, another rooftop event might just trigger Valorie enough to think twice about continuing to get jiggy with Grein.
+
+With one white calf up the balcony’s balustrade, her eyes caught sight of the Christmas trees in their terracotta pots.
+
+It was the kind of pot made for the lobby of a country estate—wide as a large cat, planted with a topiary that had been trimmed into a perfect cone, sitting on a stone plinth beside the balustrade. It was, conservatively, thirty-five kilograms of fired clay, five kilograms of soil, and five kilos of tree.
+
+Eppie dropped to the floor.
+
+Lift with your knees, not your back, said the OSHA manual.
+
+And that’s what she did. With her [Strength] of 20, capable of lifting her own body weight with complete ease, she lifted her [Noblesse Oblige] from the plinth. Then, like a hammer thrower, she spun, destroying her Chanels in the process, keeping her balance through sheer karmic resolve to launch her [Noblesse Oblige] in an arc.
+
+The [Noblesse Oblige] travelled through the air lazily, shedding tree, soil, rainwater, and pebbles.
+
+Her [Noblesse Oblige] fell short.
+
+Instead of reaping Grein with her utmost and heartfelt expression of [Noblesse Oblige], the terracotta struck the balustrade, then shattered into ten thousand lesser shards of [Noblesse], transforming into grapeshot.
+
+It was a [Sublime] moment. So sublime that Eppie did not realise the Christmas tree had caught onto her Givenchy folds and tore the slip of a dress to shreds. She had not noticed that, in the heat of the moment, the accumulated December rainwater had sloshed over the dress and drenched her singularly shattered Chanel shoes. She did not realise that the effort, the weight, the sheer catharsis of bestowing Valorie her [Noblesse Oblige] had torn her nails, scraped the skin from her wrist, her palm and her upper thigh, and that the tree had cut her cheek and nicked her ears.
+
+But in that moment, she had become Brutus. The noblest Roman of them all.
+
+Then she fled from the scene like Remi from Ratatouille.
+
+On the third floor of the Vaughan manor, above Eppie, above Grein and above the party, Aziz Malouf could not believe what the fuck he was seeing.
+
+He knew what he should be seeing, seeing as Héloïse, the party photographer, had informed him ten minutes ago that Grein was making a move on the redhead.
+
+He was on loan to Madam Vaughan, arranged through Lady Mirabelle, his current contractor. Aziz had recently returned from Darfur, and his photojournalism work had been shortlisted for a Pulitzer Prize. The Madam had told Aziz that they would be catching monsters tonight, and Aziz had happily taken the paycheque and the prestige.
+
+Nobody noticed Aziz. The thing about photographers at a Gala was that they were invisible. It was the strangest thing, yet it was true. One might think that a lad hoisting a full-frame flash and three lenses might appear intrusive, but the opposite was true.
+
+When the trio appeared, Aziz shot twelve frames in the first minute.
+
+He did not stop when Grein's hand slipped under. Fucking animal.
+
+He shot eight more.
+
+He was starting to feel artistic when the god damn terracotta pot arrived. It was only on the second snap that Aziz saw a dark bloom of soil, joined by what looked like a torn tree, erupt like a cannonball from the Pirates movies against the balustrade.
+
+SNAP— Grein took the blast to the back, his body shielding the girls, the force laying him flat on the sandstone like a scene from Darfur involving a UN Jeep and an RPG.
+
+The redhead fell back, brushed by the blast hard enough to hit her head on the French door, jarring the locking mechanism.
+
+Grein’s co-conspirator suffered almost no injuries until the soil blinded her and she fell to one side.
+
+In a split-second, before the chaos even landed, Aziz’s camera spun. He was a war photographer. He pointed at the source, and he snapped away.
+
+The explosion of soil, terracotta and Christmas cheer was extraordinary.
+
+But not extraordinary enough to penetrate the double-glazed panes and solid oak panels of a sandstone house built in the 1910s, during the Gilded Age.
+
+Before surprise, amusement and chaos could arrive, Eppie had slipped inside and slid into the adjacent balcony. In a crowd of people moving toward the balcony windows, a barefoot teen went through the press of tipsy bodies the way water goes through a closing fist, even though she looked worse for wear.
+
+She violently turned the latch, then caught her flaming Norwegian Forrester by the nape of her neck.
+
+Valorie was a lot of things, but someone capable of resisting [Strength] 20, she was not.
+
+Senator Sanders’ daughter was too shocked even to resist, dazed and covered in soil and pine needles. Eppie pulled the girl through the crowd without a word, without care. The distance between the balcony doors and the private room George had shown her was only ten-odd meters.
+
+Into the next room she went, then the anteroom, then the library, and then, they were in the lower corridors, two doors from the back of Vaughan’s lauded sculpture garden.
+
+The two of them stood in the dark, shoulder bare, dresses torn, panting.
+
+Quest Progressed
+
+[The Corruptor of Dreams]
+
+You have diminished a Karmic Parasite, a lesser Usurper. You have prevented misery, denigration and abasement.
+
+Your act of [Noblesse Oblige] has prevented the Parasite from feeding on a victim.You have harmed a victim directly or indirectly.
+
+[Karmic Balance] will take place.
+
+You have reaped the [Karmic Parasite] directly or indirectly without the application of [Noblesse Oblige]
+
+[Karmic Rebound] will take place.
+
+The Usurper may reap the Karmic Parasite for [Causality] only through [Noblesse Oblige].
+
+[Strength -2]
+
+[- 9330 Causality]
+
+[Causality: 167233]
+
+Her knees felt weak.
+
+There were many mirrors in the corridors, installed to maximum natural light. With Brutus finally gone from her head, she looked in the mirror and felt her heart sink.
+
+The Givenchy was open at the thigh, a clean twelve-inch tear from hip to hem where the chiffon had caught on the plinth. An unknown number of diamonds were simply gone. Her palms were bleeding. It was the sandstone, she realised. As were her arms and thighs, both of which were conjuring beads of ruby blood. The soil from the topiary was in her hair. Her chignon had partially collapsed, one of the tendrils plastered to her cheek with a combination of blood and garden.
+
+She stank. She stank like December winter water that had been sitting in a pot for a month.
+
+I hope insurance covers acts of [Noblesse Oblige]. Eppie sighed.
+
+Across from her, John Singer Sargent’s Portrait of Madam X watched on with immense disapproval. Below the Madam, Valorie was in a comparable, but less injured state. Her scarlet McQueen was now carrying fragments of terracotta. Her mascara was melting, and in her deep cleavage, the very one Grein had invaded, there was a fistful of wet topsoil. In her left hand, she was still holding a business card. In all that commotion, all that chaos, Val had held onto the accursed cardstock.
+
+Val stared at her.
+
+Eppie stared back.
+
+It took a minute for the shaking to start because the duo had to register what they had done. Valorie’s throat kept bobbing, her eyes drifting in and out of focus, like she was hearing some strange music in her head.
+
+Jesus. Eppie felt anger rising in her chest once more. Even in her down to “earth” state, Valorie looked photogenic. She looked cinematic, in fact, like they were shooting some god damned horror film, and Val had just been chased down by a werewolf.
+
+CLICK—
+
+The door behind them opened. Her host and her entourage filled in. George.Aziz. Mirabelle.
+
+Juliana. “Thank God you’re safe, Eppie. Aziz told me the most ridiculous thing…” Mirabelle cooed with compassion. Her face froze only when she saw the Givenchy, whereupon her pupils dilated. “Oh God…”
+
+Vaughan’s expression was so complex that it was impossible to read. Her gaze swept them both, first landing on Eppie with softness, then on Valorie with far less kindness.
+
+Val’s eyes grew afraid.
+
+Eppie was just about to explain herself, explain for them both if she had to—
+
+Then Valorie Sanders took one step forward, put both hands on Eppie's face, and kissed her on the mouth.
+
+The flash was instantaneous.As was the flash in her head, the actual flash came from Aziz, who had reflexively lifted his camera and blasted them at ISO 3200, f/1.8, 1/125 on a 50mm Prime.
+
+Eppie pushed her assailant away with enough force to send her into the wall, rattling the portraits.
+
+WHAT THE FUCK? Eppie’s hand came away with blood because her palms were bleeding, and now it looked like Val was bleeding as well.
+
+With the imprint still hot on her mouth, she glared at Valorie, wiping the soil and the lipstick from her lips, then turned to her former mentor.
+
+“I can’t explain that,” she confessed instantly, because that was the truth. “But can you delete that picture?”
+
+Vaughan's expression was a picture in itself.The stern museum curator had her mouth half-open. She had to blink several times before her usual resting Curator face returned.
+
+Mirabelle’s expression could only belong to the Chief Editor of Vogue. She looked to Vaughan. There was a split-second of hesitation, then Vaughan nodded.
+
+“Aziz,” she said. “Give me the card.”
+
+Mirabelle held her hand, and Aziz placed the card, already ejected, in her palm. After a prolonged second, she dropped it into the flute of bubbles she was holding. The champagne accepted it without complaint, as did George when Mirabelle passed it over.
+
+“I saw nothing,” Mirabelle said pleasantly. “But Eppie… Oh… that limited edition Haute Givenchy…”
+
+Eppie flattened the front ruffles. A diamond fell off. They all winced.
+
+Valorie stumbled to her feet. From the looks of it, the knock to her head had done her mental state some good. Her cheek and neck were smeared with blood. Eppie’s blood.
+
+“I need to go,” Mirabelle declared, unable to look. “Take care of the party.”
+
+She turned to go, then stopped.
+
+"Marta," she said to Eppie with the air of a tragic heiress, "is going to be inconsolable."
+
+“Eppie, Miss Sanders,” the next person to speak was Juliana Vaughan. “I wish to speak with you both, later. I will inform Sir Woodhouse and take care of Mr Grein. Until then, let George take care of your wounds. He is a man with many certifications.”
+
+“Madam,” George bowed.
+
+“Eppie,” Vaughan’s voice was entirely serious.
+
+“Yes?” Eppie was still trying to wash the taste of her fated-foe from her mouth.
+
+“DO NOT throw the statues in the greenhouse. Some of those are original.”
+
+Outside in the gallery, the party had resumed its noise, rerouted now around the evening's new centrepiece: a balcony, a shattered pot, and a concussed, bewildered Grein who, when pressed, by multiple witnesses, on what exactly had occurred could only describe the projectile as enormous, and could not satisfactorily explain how it had come to be airborne, because the only person standing near the adjacent balcony at the time of impact had been a very small girl in a cocktail dress.
+
+The guests exchanged theories.
+
+Maybe, someone said, it was the Spirit of Christmas Past. It was, after all, that kind of house.

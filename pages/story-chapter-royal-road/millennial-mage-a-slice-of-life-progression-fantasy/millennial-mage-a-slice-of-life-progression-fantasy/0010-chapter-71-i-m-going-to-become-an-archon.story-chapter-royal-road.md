@@ -1,0 +1,385 @@
+---
+id: 62643445-abe2-5604-850c-db364d22c4de
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 71 - I’m Going to Become an Archon"
+slug: 0010-chapter-71-i-m-going-to-become-an-archon
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 10
+ownLength: 4031
+unit: words
+ownProgress: 4031
+publishedAt: 2022-02-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/840760/chapter-71-im-going-to-become-an-archon"
+royalRoadId: "840760"
+markedReadAt: "2026-06-29T19:35:36.857Z"
+---
+
+Sighing, Tala took one last look around her room before turning around to see Lyn standing in the doorway.
+
+“Gah!” How did I not hear her? She thought back, and realized that she had, in fact, heard her arrive, but hadn’t registered it. I’m going to have to figure out how to control that better…
+
+Lyn smiled. “I know it probably feels even smaller now, after the wilds…”
+
+Tala smiled, her stance softening. “It’s wonderful, Lyn. Thank you, again.”
+
+Lyn’s smile widened. “So… you’re sure you want to stay?”
+
+“Absolutely.”
+
+The older woman stepped forward and gave Tala a quick hug. “Good.” After the brief contact, she pulled back. “How about I go grab us some dinner?”
+
+Tala brightened. “That sounds fantastic! How about some more of Gretel’s meat pies? I feel like I could eat a dozen…maybe two.” She felt her stomach rumble slightly. “Make it three? And anything else you think looks good…” I lost a few earlier, rather violently…
+
+Lyn gave her a questioning look.
+
+“Holly said I needed to eat, a lot.”
+
+She shook her head. “Fair enough. I’ll do that. Take some time, settle in. I’ll be a bit.”
+
+“Sounds good. Thank you, Lyn.”
+
+“See you soon.” She left without another word.
+
+Tala stretched, again. “You know, if I’m going to be without my salve for a bit, I should enjoy baths more often.”
+
+Terry looked at her skeptically.
+
+Tala coughed, looking away. “You have no idea how often I’ve taken baths, before.”
+
+Terry let out an oddly deep, seemingly disbelieving, chirp.
+
+“Fine, well, I’m going to ready a bath.” She grabbed one of Holly’s books and her review notebook, using the latter to narrow down what to study in the former as she strode from the room. The Digestive System was her first focus. A smile tugged at her lips, and she glanced back, seeing the terror bird on her bed, and the tools on her writing table. It looked horribly bare, but it also looked right. Not that I’m going to leave it like this. She smiled.
+
+Time to relax.
+
+* * *
+
+Tala’s bath was not quite ready before Lyn returned with food.
+
+Tala had forgotten that a fire had to be built to heat the water in this place, and she hadn’t wanted a cold bath. I’m getting spoiled, it seems.
+
+She had filled the tub and just stoked the fire when Lyn called out to her. “Dinner!”
+
+“Coming.” Tala walked out, moving carefully as she continued to read, only to find Terry already sitting beside Lyn, eyeing the basket full of mini meat-pies. Another basket of food sat off to the side, the contents wrapped in linen.
+
+Lyn smiled up at Tala. “Can he eat one?”
+
+Tala shrugged. “I’ve seen him eat worse.”
+
+Lyn smiled and tossed one to Terry. The bird devoured the mini-pie quickly.
+
+Tala grinned. “Watch this.” She grabbed one of the pies, then looked to Terry. “Up for some showing off?”
+
+Terry tilted his head, eyes on the pie, and gave a slight nod, hunkering down, almost dancing from foot to foot.
+
+Tala tossed the pie to the side.
+
+Lyn opened her mouth to protest but stopped. “Where’d it go?”
+
+Tala had had her eyes on Terry the whole time, and still, she’d only seen the barest flicker. The only difference was that he’d changed position, slightly, and was now wolfing down the little pie.
+
+“Tala…” Lyn focused on Terry. “How old is that terror bird?”
+
+Tala grinned, devouring her first pie. So good! Garlic and yams, and is this beef? “Not young.”
+
+“The shortest cool-down I’ve seen between teleports was in a dimensional rabbit. It could jump every three seconds or so.”
+
+Tala shrugged. “Not too different.”
+
+Lyn had a serious look on her face. “It was hundreds of years old, Tala. My understanding from my passing curiosity is that the time is halved every decade or so, for non-sapient users, and the time increases, the larger the thing teleported.” She narrowed her eyes, examining Terry more closely. “Is he a dwarf terror bird? That might explain some, but he’d still need to be close to a hundred and fifty years old, at least.”
+
+Terry looked inquisitively to Tala, but she slightly shook her head. “Could be, I suppose. Who knows for sure?” She ate another pie. Oooo! Parsnips and beets? Nicely blended flavors, too. I wouldn’t have thought those would go with pork so well.
+
+Lyn stared at her for a long time, then sighed. “Fine…” As she took up and began eating her first pie, she was watching Terry. She finished her first, and started on her second, suddenly throwing another off to the side.
+
+Terry seemed to instantly shift positions, again eating the newly acquired pie.
+
+“Less than an eyeblink…” She examined Tala, again, and sighed. “Fine… I won’t dig.”
+
+Tala smiled. “Thank you for dinner. What do I owe you?”
+
+Lyn waved the question off. “Welcome home, that’s what you owe me.” She smiled. “I assume you want to get back on the road, as soon as Mistress Holly’s done and you have your chat with the Guild?”
+
+Tala hesitated. “Maybe…” She thought about the training that she’d been doing, as well as the mounting advice to create a sufficient Archon star. Plus, she’d promised the Guardsman’s Guild she’d give them some time. “What would it mean for our contract, if I became an Archon?”
+
+Lyn froze, new bite of meat filling her mouth. After a long moment, she began chewing once more, and eventually, she swallowed the savory treat. “Tala. How likely is that?”
+
+Tala shrugged. “Depends on the answer?”
+
+Lyn sighed, deeply, scratching beside her right temple, eyes squeezed shut. Under her breath, she muttered, “Give me strength.” After another long moment, she opened her eyes and smiled. “Tala, dear friend, that would constitute a material change to the services you could offer the Caravan Guild.”
+
+Tala thought back. There was a clause about something like that… “Sooooo…?”
+
+“So, at the very least, we would retest you, and alter the arrangement accordingly. The most common result would be that you’d be allowed to take on two contracts at once, being considered a dimensional Mage, and a Mage protector of the wagon train, assuming you’d be capable of that.”
+
+Tala perked up at that. “So, half my inscriptions would be covered? And I’d earn a gold ounce for each arcanous encounter the wagon’s survived?”
+
+“You’d earn that for your team, but basically, yes.” Lyn confirmed.
+
+That would be so utterly fantastic. “How does that work, anyways? If one thunder bull attacks, versus a herd of ten, is that the same pay, because it’s one encounter?”
+
+Lyn sighed, again. “Depends. If there’s any indication that you personally caused the encounter, then you get nothing additional. If it is unavoidable, then it depends on the quantity and power of the beasts in question. Ten thunder bulls directly defended against would be three ounces, gold, added to the payment of the protectors.”
+
+Tala was nodding. “That sounds fantastic.”
+
+Lyn was giving Tala a very wary look. “What are you planning…?”
+
+Tala gave the other Mage a quizzical look. “I’d think that was obvious. I’m going to become an Archon.”
+
+Lyn groaned, putting her head in her hands.
+
+Tala popped another meat pie into her mouth, and Terry flickered just slightly, then held very still. She turned to regard the bird; its dimensional magic burst obvious. “You know, I can sense when you do that.”
+
+Terry looked her right in the eye, then tipped back his head, opening his mouth and allowing the four meat pies he’d snatched to slide down his throat.
+
+Tala just laughed, and Lyn looked up in confusion. “Terry. I’m going to feed you. Is human food so much better than what you’re used to?”
+
+The bird locked gazes with her and bobbed up and down, letting out a low, resonate squawking affirmation.
+
+Tala cleared her throat, handing Lyn another meat pie. “Now, my room. What can I do in there?”
+
+Lyn looked between her two housemates and sighed. “This is my life now, isn’t it…”
+
+Tala grinned. “Just when I’m in town.”
+
+“Right! You never answered my question.”
+
+“Oh… you’re right.” Tala thought. “I just did two contracts, so I’d be good for four months, right?”
+
+Lyn nodded hesitantly. “Yes, but it would look bad, and lower your priority for taking contracts.”
+
+Tala nodded. “Understandable. A month then? I think I can do what I need to by then…Though, I’ve no idea what becoming an Archon requires…. I’ll try to have that at least started in a week and a half. I shouldn’t do anything too crazy until Mistress Holly’s done.”
+
+“That goes without saying.” Lyn took another bite, speaking around the food. “And don’t forget your meeting with a senior guild official.”
+
+“Right…Assuming my contract isn’t dissolved-”
+
+“As I said, I should have been informed if they were going that route.”
+
+Tala nodded. “Assuming that’s true, a month should be a good amount of time, but I’ll know more in less than two weeks?”
+
+Lyn sighed. That was becoming a habit. “Alright, Tala. I won’t start looking for your next trip, yet.”
+
+“Thank you. Now, my room?”
+
+“Do what you like with it, just please don’t break down any walls or destroy the furniture. If you want something different, let me know, and I’ll pull what’s in there, out.” Her eyes twinkled just a bit. “You can buy whatever you want to put in there.”
+
+Tala rolled her eyes. “Yes, with my thousands of gold ounces, I shall customize this room to perfection.”
+
+Lyn just smiled back at her. “If you so choose.”
+
+Tala ate one last meat pie, feeling a bit past half-full as she swallowed the final pieces. Her eyes fell on the other basket. “What’s in there?”
+
+“My, you weren’t kidding.” Lyn grinned. “This,” she picked up the basket, handing it to Tala. “This is a selection of desserts. I certainly don’t need them.” She picked out a chocolate puff-pastry. “So, you should take them before I eat them all.” She winked.
+
+Tala rolled her eyes. “Thank you.” She took the basket, and began eating, savoring each bite. “Mmmmm… Thank you.” She sighed contentedly. “Well, I’ve a bath on. I should get to that. Good night, Lyn.”
+
+“Goodnight, Tala.”
+
+Tala walked back and placed the basket of pastries into her room. Then, leaving her books beside the basket, she moved to the steam filled room, undressed, let her hair down, and climbed in.
+
+Terry didn’t join her, but she sensed him from the direction of her room through the collar, with no added feeling of warning. Close. Likely on my bed.
+
+With her next few days already planned out, she simply relaxed in the water, allowing the embers below the tub to keep it just below her maximum temperature.
+
+This is nice.
+
+* * *
+
+Tala woke early, her window still showing no sign of morning’s light. Even so, she knew it was time to rise.
+
+No nightmares last night. She would have thought that all the fees she’d been forced to pay the day before would have made the nightmares more prevalent, not less. Don’t knock it, Tala. Just be happy. So, she put them from her mind.
+
+She glanced under her covers and felt herself smile at the subtle, yet obvious, glow. True to her guess, the light didn’t even illuminate the blanket above her, but she could clearly see herself, fully covered in the magical lines.
+
+She stood slowly, then with careful deliberation, she moved through her wake-up routine: stretching and exercising her mind, magic, spirit, and muscles.
+
+The last was expectedly surprising.
+
+I knew there would be improvements, but this seems incredible. Every single exercise, she had to shift towards harder variations, and even so, she struggled more with proper form and balance, than with the strength required for the movements. In the end, she was left frustrated with her lack of control more than any missing strength.
+
+A clear way to improve, I suppose.
+
+Her room wasn’t really big enough for the longer range calling of her knife, so she simply did a couple dozen summonings from around five feet, at which point, she had to lay down due to dizziness. That’s right, Tala. Overwork your soul. That seems wise. She’d still been focused on how much her physical strength had improved that she hadn’t been as careful as she should have been. I’ll be more careful next time. I swear…
+
+While she was trapped on her back, the spinning room holding her prisoner, she contemplated the day’s tasks.
+
+Charge the cargo-slots, go to the Guardsman Guild’s training yard, go to the Constructionists Guild, massage…then Mistress Holly. She felt tension grow at the last. Maybe, I could skip, today? At the thought, a memory of Holly’s visible aura of power surfaced, and she shuddered. Maybe, I won’t skip…
+
+Still unable to stand, she began making random noises, playing with what sounds she could make. I’m bored… She looked to the side, even the act of turning her head brought her near to retching. She stared at Kit from across the room. “Must get book…”
+
+The pouch did not respond.
+
+“Terry?”
+
+The bird shifted in his corner, opening one eye to regard her.
+
+“Can you bring me my pouch?”
+
+Terry tilted his head, regarding her. Then, he was suddenly beside her on the bed, the dimensional magic blip unpleasant in her current state, though less so than she’d expected.
+
+She felt a light pressure on her arm, then Terry let out an oddly indifferent, low, thrumming squawk. The bird vanished back to his corner and curled back up.
+
+“You’re no help.” She raised her arm lightly, looking where she’d felt the pressure. “Did you just try to cut me?”
+
+Terry chirped happily.
+
+“Still happy with your decision, eh?”
+
+Happy chirps were her only reply.
+
+“Won’t help with the pouch?”
+
+He settled back down, closing his eyes.
+
+“You’re kind of mean.” Hey! Moving my arm didn’t make it worse. She flexed, bringing her arms up in front of her, her hands clapping together with surprising force. She felt the last vestiges of the ending-berry power left in her system drain away, and a crack like thunder exploded through the room. She felt extra power shunt to the inscriptions around her ears, protecting them from the incredibly loud sound.
+
+Terry jumped up, looking around in alarm.
+
+Tala felt a fresh wave of dizziness at the loud sound, despite the dampening scripts.
+
+Lyn’s voice floated their way. “Tala? Is everything ok?”
+
+Tala groaned, and she heard Lyn hurrying to her door.
+
+“Can I come in?”
+
+“Sure…”
+
+The door opened, and Lyn stood in it, regarding her for a long moment. “Tala.”
+
+“Yes?”
+
+“Why are you naked?”
+
+“It’s my room.” And…I forgot to get dressed.
+
+“I asked if I could come in.”
+
+“And I answered.”
+
+“Usually, that question is to determine decency.”
+
+Tala groaned. “Decency can wait for my head to stabilize…”
+
+“Are you ill?”
+
+“No. I just overworked my soul.”
+
+Lyn sighed. “From anyone else, I would assume that to be a joke.”
+
+“From anyone else, it just might be.”
+
+“What do you need?” Her tone had taken on a maternal cast.
+
+“Apparently, a blanket…”
+
+Lyn snorted, striding into the room and moving the blanket that was bunched up beside Tala to cover her. “There.”
+
+“Thanks…”
+
+“So…” Lyn sat down on the bed beside Tala. “What was the noise?”
+
+“I clapped.”
+
+“You clapped…”
+
+“Yup.”
+
+“Is that a metaphor? Some obscure training technique based on the heroes of yore? Or…?”
+
+“No. I just clapped.”
+
+Lyn looked at the other Mage’s palms, seeing the subtly glowing scripts, just like those that covered the rest of her. “Seems like it was a hard clap.”
+
+“Yeah.”
+
+“Please refrain? It was quite loud, even out in the living room.”
+
+“Will do, boss.”
+
+Lyn shook her head. “Do you need breakfast? The work-yard is expecting you to drop by this morning, and I’ve written down the information for your other appointments. The sheet is ready for you.”
+
+Tala groaned, again, and sat up. Surprisingly, the room remained steady. “I think I’m ready.”
+
+Lyn stood, keeping her back towards Tala. “Well, get dressed first, please?”
+
+It took barely any time for Tala to pull her clothes back on. She decided to go with the immortal elk leathers again, given she was going to the training yard this morning.
+
+Terry appeared on her shoulder as she stepped out of her room. A smile on her face, Tala took a moment to look around herself.
+
+To her right, directly beside her at the end of the hall, was the door to Lyn’s room. Across the way was the door into the bathroom, and beside the bathroom door, closer to the living room, a window let in the beginnings of the first light of day.
+
+The building was a simple construction, with poured stone floors, lightly textured and likely sealed. The walls were painted plaster over stone. Heavily built. The floor was dark, the walls light; it produced a pleasing atmosphere.
+
+Why have I never just stopped to take it in?
+
+She felt herself smile. She didn’t have any deadlines. Nothing was demanding she become ready. Sure, she had tasks that she wished to do, but that wasn’t what she meant. She had no obligations on her overall time, not at the moment.
+
+She moved down the hall, which was wide enough for her and Lyn to pass each other quite easily.
+
+Tala came out into the living room and saw Lyn sitting at the table off to one side, food laid out. “I thought food wasn’t included?”
+
+“Well, I figured two meals wasn’t quite a pattern.” Lyn smiled. “I was informed that you developed a…liking for coffee.”
+
+Tala was quite sure that ‘liking’ hadn’t been the word Lyn was going to say. She was about to comment, but then she saw the coffee in question, in a mug beside the other place at the table. Tala immediately forgave Lyn all implied slights and sat down, taking a deep pull of dark, decadent, deliciousness.
+
+So smooth, so dark, so perfect.
+
+They ate quickly, as both had many things to accomplish that day.
+
+Lyn and Tala left at the same time, saying their goodbyes as they went in different directions: Tala to the work-yard, and Lyn to the Caravan Guild’s main office.
+
+Tala took her time walking through the city, enjoying being back in Bandfast.
+
+It had a different feel to it than Alefast, more relaxed, less…imminent. I suppose that’s what happens when you’re one wall away from the wilds.
+
+There were similar mixes of architecture, and the people didn’t really look different, save Bandfast citizenry seeming a bit more relaxed. Maybe a bit heavier too… It was an interesting notion. Does safety lead to weight gain? That can’t be the only factor, obviously, but it was entertaining to consider.
+
+Many people gave Terry odd looks, but no one seemed particularly alarmed by him. Tala fell back into her habit of reading, sketching, and jotting down her thoughts as she walked, both to keep her mind occupied and to prevent her from sprinting through the city. Mostly, though, she read. I have to get through my anatomy review, after all.
+
+She was still having a bit of an odd time moving, each of her movements more powerful than she was expecting. Interestingly enough, the method of walking, learned at Adam’s suggestion, leant itself marvelously to the task, as she was used to careful, precise movements, and her enhanced nervous system adjusted to the changes in her power quite rapidly.
+
+As Holly had implied, and Tala had discovered the night before, she felt ravenously hungry, and she was sure it was her new inscribings that were causing the hunger, even if not directly. They were working on reshaping her at a fundamental level and that required nutrition.
+
+Towards that end, Tala bought no less than ten pasties of various kinds for the wonderful price of a single silver. As she walked, she occasionally tossed out bits of jerky, noticing the instantaneous, slight shift of Terry’s weight when he moved out and back, always having caught the meat.
+
+She did not share the pasties.
+
+Terry did not hold it against her. Much.
+
+Finally, she reached the work-yard and the waiting cargo-slots.
+
+The first one, to her surprise, charged incredibly slowly, taking a full minute to reach its maximum. She frowned. The mental construct is right… After a long minute of thought, and ten bits of jerky flicked randomly, she had a realization. I’ve just been using my left-over power-flow to charge these up. And my scripts are using most of that, now.
+
+That actually reminded her of her items. She had charged them as part of her training earlier that day, and it had taken longer than usual. She’d just attributed that to the city being utterly devoid of free-floating power. Maybe it was something else? Since she was already thinking of them, she decided to top them off. If I can be hungry, why not them?
+
+That done, she moved to the next cargo-slot and concentrated.
+
+She formed the mental construct, just as before, but now, she reached inside. She saw, as well as felt, almost all of her power pouring from her gate into her spell-forms. She grabbed the entirety of that flow and channeled it down her right arm, through the mental construct, and into the second cargo-slot.
+
+She exhaled.
+
+The indicators flickered to life in rapid succession.
+
+Blinking in surprise, Tala pulled back her hand. Less than two seconds? The cargo-slot in front of her was fully charged and ready to go.
+
+Hesitantly, she moved to the next one and repeated the process.
+
+Done.
+
+She moved down the line, charging the remaining seventeen with little more than the time it took to touch them and take a quick breath.
+
+That was…amazing! She had noticed a slight dip in her internal reserves during each charge, as her active scripts continued to use her power. That store of power had needed to be refilled by her gate, once the inflow was available again, but it was a minimal dip.
+
+She heard the sound of a single person clapping, approaching from behind. “Wonderful! I can see you took my suggestions to heart and have improved remarkably.”
+
+“Master Himmal!” Tala turned around, giving a slight bow. “It’s wonderful to see you again. Thank you, once again, for your advice.”
+
+He smiled, folding his hands before him. “Think nothing of it, Mistress Tala. You have progressed tremendously in just two short weeks.”
+
+She smiled. “Thank you.” As she focused on him, she saw the same oddities to his aura as before, but more clearly this time. The underlying color was suppressed, but obviously red. What she could see of it was fractured, somehow broken, and as she examined it closer, she could see that parts of it were much closer to orange than she first realized. Not uniform? From what little she understood, that seemed…bad. Well, he did say that he’d broken something with his gate. It’s probably related to that.
+
+“Now, I can see that my hopes were not unfounded. We are nearly done with your custom set of cargo-slots, and I am glad that I added the ability for the larger capacities to be enabled. We should be able to get you a set close to four times those measly constructs, with added additional benefits for more fragile and valuable cargo. With those sizes, you’ll be able to have some outfitted as passenger and bunkhouse variants. You’ll be able to have a full caravan in just two or three wagons, depending on the Mage Protectors.” He shook his head. “The cooks will never leave their own wagon behind.” He smiled whimsically, speaking under his breath. “I would so love to examine one of their chuck-wagons one day.”
+
+I knew it! That wagon and what the cooks could do within never made sense. Brand hadn’t just been messing with her after all. She smiled. “You and me both.”

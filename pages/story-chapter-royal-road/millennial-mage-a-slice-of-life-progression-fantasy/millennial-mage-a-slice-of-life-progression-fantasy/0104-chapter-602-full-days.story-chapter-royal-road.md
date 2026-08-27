@@ -1,0 +1,243 @@
+---
+id: ad3d6eb9-8b21-521e-8165-323caaf1c602
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 602 - Full Days"
+slug: 0104-chapter-602-full-days
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 104
+ownLength: 3185
+unit: words
+ownProgress: 3185
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2538394/chapter-602-full-days"
+royalRoadId: "2538394"
+markedReadAt: "2026-06-29T19:38:37.568Z"
+---
+
+Tala stood back and smiled as Rane and Lea poked at every corner of Lea’s new room. It had taken a bit of rearrangement of the sanctum's buildings, but with Tala’s authority, will, and control within Kit, it hadn’t been that difficult.
+
+Now, tucked between Tala and Rane’s room and the dining room was a hallway that led to Lea’s room. Being so situated, her windows looked out in two directions, thus sharing the views of both neighboring rooms to some extent.
+
+There was a bed of course; a wardrobe for her various outfits; a dressing table to allow her to sort out her hair, among other things; and a single other door into a small room. That room held only the tank in which Lea’s body had been grown and in which she could heal, be checked over, and recover from any damage or disruption.
+
+The magics within and around the tank—as well as those inherently within the liquid—had already been heavily analyzed and broken down for Mistress Holly to incorporate into the girl’s inscriptions, when she was ready for those. Assuming that they could get it all to work, Lea wouldn’t need the tank after getting them. Nevertheless, Mistress Holly, Master Grediv, Master Simon, Tala, and Rane—one and all—felt it would be best to keep it regardless, even if just as a backup.
+
+Despite so many people counseling that course of action, Lea was a bit grumpy about the whole idea.
+
+Regardless, she didn’t seem to mind in the moment as she gushed over her simple, comfortable room.
+
+As she sat at the dressing table—able to look out through the window or lift up a portion of the table to reveal a mirror on the underside of that portion—she opened a drawer and found another gift. An artifact comb rested within, eliciting a sharp intake of breath. “Is this… for me? It’s my own?”
+
+She turned around, looking to Tala, and Tala smiled, giving an affirming nod. “Yes. You are capable of being in charge of your own hair, now.”
+
+Lea’s expression shifted to one of both pride and a bit of sadness as she returned her gaze to the comb in her dressing table.
+
+Tala gave a soft smile even if the girl wouldn’t see it now that she had turned away. “I’ll still help you whenever you wish.”
+
+Lea straightened just a bit at that, her smile coming back in full force. “That would be nice.”
+
+Rane came back to stand beside Tala for a moment, just letting the feeling settle in. Finally, he cleared his throat. “Well, we’ll leave you to it. Dinner is in an hour.”
+
+Lea turned back to regard him, seeming suddenly uncertain. “You’re going?”
+
+He gave a gentle smile. “Yes, Lea. This is your room. You are safe in here, and we can come to you in an instant if you need us. We think you’re ready to be on your own, a bit more than a minute here and there.”
+
+She hesitated before her face took on a determined cast. “Thank you, Dad. Thank you, Mom.”
+
+They moved forward, hugged and kissed her. Then, without further delay, they left… walking the twenty feet out that was needed for them to stand in the dining room.
+
+Tala glanced at her husband. “Is it weird that I’m nervous?”
+
+He chuckled. “No. We’ve done this to ourselves. She was capable of being without us from the moment of her conception. It is us who never left her alone.”
+
+Tala grimaced. “You’re right, but… She’s our daughter…”
+
+He kissed the top of her head. “That she is, my love. She’s going to be fine.”
+
+Tala huffed. “I know that, Rane. I can see her, now and always, in here. Literally the only way something could happen to her is if Kit were destroyed, or I died. Even so…”
+
+He squeezed her in a half hug. “Even so, we worry. It’s only natural. She is our daughter, but we cannot let that worry lead us to hold her back. I just hope we haven’t delayed too long.”
+
+She nodded. “I hope that too.”
+
+* * *
+
+Tala watched from her meditation clearing, beside the circular river within her sanctum.
+
+She watched Lea chase after Terry in one of their newer variations of tag.
+
+Lea wasn’t allowed to use her authority within Kit at all, though she was allowed to use the white steel she had, currently in the form of a heavy, round shield—measuring four feet across—and a boar spear.
+
+She had been practicing using white steel clothing and armor, but she wasn’t competent enough with it for use in such a competition quite yet.
+
+Terry, for his part, could only flicker three times before Lea would be counted as the victor, and they started again.
+
+The game was simple, as most variations of tag usually were. Lea had to tag Terry with weapon, shield, or anything really, and he had to keep her from doing so.
+
+He led her all around the sanctum—blessedly keeping away from things that might have been damaged—changing size and running and jumping with insane speeds to keep from her reach.
+
+Lea kept right on his tail, striking and working to catch or trip him up.
+
+She was getting better, but it still took nearly half an hour each time before she was able to get him to expend even his first flicker.
+
+The first times had been little more than blind luck. Now? After they’d been playing this new version for a couple of days, she was actually willfully accomplishing the objective more often than not.
+
+Of course, Lea never got winded, and her body didn’t have muscles— in the biological sense—to be broken down and come back stronger. That said, her body did have a sort of stress monitoring and recalibration system, which worked both to help strengthen the movements that she did most often, and to reduce reaction time when performing tasks that were common to her.
+
+It was an ingeniusly devised and implemented system that mimicked human results while approaching it from another, far more efficient angle.
+
+Lea’s days were rather full of late.
+
+She played games like this one with Terry, trained with the Talons, sparred with Tala, Rane, or Talax, and dove into lessons with Lisa as well as others who had knowledge to impart.
+
+All that also didn’t include meals with her family, her own reading—which she was blessedly, finally excited for—and ‘sleep’ during which her mind and body processed and shifted to better handle the tasks that she’d undertaken the previous day.
+
+Rane only got to sculpt with her on occasion, and the Sappherrous family as a whole only got to play games and just be together about once or twice a week.
+
+Aside from those breaks, Rane filled his time within the sanctum in meditation and self contemplation, sparring with Tala, and study of his own incrementally altered inscription sets.
+
+The largest thing he was moving toward, magically, was to allow his inscribed defenses to operate along the axis of the magical dimension, giving him the option to bypass incoming attacks without always being sent in a three-dimensional direction.
+
+It involved adding in a two-step magic—sending him stone- or starward, then bringing him back—as well as adding in all the needed sensory and conditional aspects to ensure it only triggered automatically under the right circumstances. After all, it wouldn’t do to give away the existence of such a powerful defense on the first mundane strike that might have otherwise connected.
+
+Beyond that, the spellforms for volitional activation of the magics would actually give Rane a greater four-dimensional movement potential than Tala had.
+
+That was fine. He couldn’t enter the Doman-Imithe, not that he wanted to. Tala’s connection to Terry allowed for far more battlefield mobility overall, while Rane was more versatile within contested areas.
+
+Outside of the sanctum, Rane assisted in more cell closures, even taking on ones that should, technically, have been Tala’s, when he was able. There was one coming up for repair that Tala would absolutely have to handle herself. In fact, she was one of only a handful of Archons who could deal with it at all, but that wasn’t for a few years yet.
+
+Tala, for her part, had put off a lot of things, with Illie’s death and Lea’s conception. The two which were most pressing were Flow’s newest form, the Ending Blade, and how she’d been able to travel at unprecedented speeds with use of her aura—utilizing all parts of existence—and the flier.
+
+The former—the topic of the Ending Blade—she temporarily entrusted to a group of Archons and researchers led by Master Simon, with whom she shared the related memories and knowledge. She did not give him Flow, that would be silly, but she did ask the group to dig deeply into the implications and potential uses—along with likely pitfalls and downsides—of the weapon in that form.
+
+That left her free to experiment with the augmentation to her travel… after her regular time in meditation of her own, along with study of the host of magics and materials she’d gathered for her own Reforging. She’d even begun trying to put together her own inscription schema, though she wasn’t having much luck in that department.
+
+Her experiments with the rapid travel, in contrast, were bearing much fruit.
+
+Essentially, she was able to figure out that the technique had three parts, as simply made sense.
+
+She used her faculty with the Void to consume any magical power that would otherwise build up into magical resonance.
+
+It sounded simple, and technically it was, but it required a very specific exactness to both not leave too much power in place—thus creating the magical resonance that she was seeking to avoid—or take too much power away— thus leaving a void in the zeme which would cause ripples of a different, if just as undesirable, kind.
+
+Her magic, she worked almost exactly in reverse. She had to add power into the wake of her passing, thereby ensuring that a different source of that second type of disturbance never came to pass.
+
+Her Reality Iron was required to essentially tell Reality that nothing had changed, and an odd moving hole through the fabric of existence was fine and wouldn’t leave any damage. The magic that was present had always been present, rather than having been switched out by a passing calamity.
+
+It also had to actually enforce that assertion, as the rapid passage of even the few gates within Ironhold—just beneath the superficial—could easily abrade Reality to an unhealthy degree at such speeds.
+
+She was effectively reaching forward as she moved, finding all the reality threads that she would be passing and temporarily reinforcing them until they were passed. That was the most general description of that portion of what she’d done with her Reality Iron and the abilities granted through that.
+
+She’d done most of it unconsciously and on instinct the first time, only realizing much later how lucky it was that her path had been high in the sky, through the wilds, where there were relatively very few reality threads to be negatively affected. Moreover, even if there had been any to be harmed, there was essentially no chance that anyone else would pass through the sky along that path before Reality was able to heal what damage she was unable to prevent.
+
+All that to say, the ability wouldn’t let her move that quickly all the time, and it still came with risks and downsides.
+
+As all things do.
+
+-Correct. There are no true solutions, only tradeoffs.-
+
+Indeed.
+
+Still, now that she’d figured it out, she had the ability in her back pocket if she ever needed to travel great distances, quickly.
+
+Alat snorted within her head.
+
+What?
+
+-Don’t act like you could just do it again on a whim. If there happened to be any beasts in the way, we’d have ripped a hole in existence as we passed them. It is not a perfected technique, and we need to practice under carefully controlled circumstances.-
+
+It’s on the list…
+
+-I know, and maybe one day we’ll find a way to accomplish it without control over all three pillars. If we did that, then maybe others could use it at need too.-
+
+True. Even as it is, though, Lea should be capable of it… eventually.
+
+-Exactly. Should. We’re laying the foundations, but there is still much to investigate.-
+
+Indeed.
+
+That aside, Tala had been doing her best to arrange for an Archive-assisted consultation with the woman who was making her new sparring sheath, and it was finally happening.
+
+Mistress Airim faded into being within Tala’s sanctum, looking around in wonder. On her side of things, she was in a heavily modified ‘war games’ set up, allowing her to feel like she was here, even though she couldn’t really use her magics through the link, nor do many of the other things the normal rig allowed Refined to achieve.
+
+She wasn’t Refined, after all, and trying to impart all of that would likely have killed the woman.
+
+More importantly for the success of the endeavor, the whole thing tapped into Tala’s authority, power, and control within Kit, and that was the true keystone to the whole process for one such as Mistress Airim.
+
+Nevertheless, she was here, and they could have their consultation.
+
+Mistress Airim gave a quick bow toward Tala. “Mistress Tala, it is good to see you again. I’m almost ready for the final construction of your new sheath, do you have the measurement tools that I asked you to acquire?"
+
+Tala bowed in return as a greeting before gesturing to a table off to one side. “Welcome, Mistress Airim. Yes, I believe that you will find everything you need has been prepared for you.”
+
+The other woman gave Tala a skeptical look. “I suppose we’ll see.”
+
+Together, they walked over to the table where Flow was already laid out among a large number of various artifact items. Tala had needed to pay a hefty sum just to rent all of them from the Constructionist Guild of Alefast, Waning, but that couldn’t be helped.
+
+It saved them a trip, and allowed Mistress Airim to get the final information she needed from a distance.
+
+The woman set to work, not delaying in the slightest as she moved from device to device, interacting with Flow in different ways with each one.
+
+To be clear, this was not the acquisition of measurements that the woman had never before acquired. It was, instead, a final check on what had changed in the last year or so since Tala had ordered the new sheath be made from materials that had to be collected and processed.
+
+Finally, Mistress Airim stepped back and huffed. “You’ve done something more to this sword than simply advance while soulbound to it, a lot more.”
+
+She rounded on Tala, eyebrow arched in accusation. Tala held up her hands defensively. “Yes, that might be right, but I haven’t merged anything new with it per se. I did discover a new means of using it.”
+
+Mistress Airim huffed, shaking her head. “Per se? Per se, she says. It’s now bound with a non-standard iron, and I’m detecting traces of both Void and Reality within the weapon.” She locked gazes with Tala. “Let me be clear. I did not say void magic and reality magic. I said Void and Reality. This weapon is a nascent Existence weapon.”
+
+Tala blinked a few times. “What is a ‘nascent Existence weapon?’ I’ve thought of it as an Existence blade in that form, but nascent?”
+
+“I have no idea. I just made the term up because it seemed to fit.”
+
+Tala gave her a flat look.
+
+Mistress Airim lifted her hands defensively. “Hey, I’m just working with what I have here. I call it nascent, because while the aspects are there, they are minor, weak even. I feel like if you wanted to purge them you could with relative ease. ‘Existence weapon’ should be self explanatory given the fact that it uses all three pillars, or seems like it can.”
+
+Tala shrugged. “I’ve been thinking of it as an Ending Blade, given the form the pillars are used to activate.”
+
+Mistress Airim gave her an unamused look. “Yes, Mistress Tala. If this were a flaming blade, I could and would still call it a magical weapon. It is a nascent Existence weapon, and the form that takes is an Ending effect. Do you realize how terrifying that is in concept?”
+
+“Powerful, yes, but terrifying? More like useful.”
+
+The woman sighed. “You aren’t thinking it through. Take the flame blade. You could say that it is a magical flame blade, right?”
+
+“Right.”
+
+“Good, then you could equally say that your weapon is an Existence Ending blade… a nascent one.”
+
+“...Oh.”
+
+“Yeah.” The woman nodded slowly, meaningfully.
+
+“That’s little more than word play, though. It’s not actually what it does.”
+
+“Sure, I suppose. I don’t know what it does, but the very fact that you named it that, and I got the same sense in my examination is terrifying to consider.”
+
+Tala regarded Flow for a moment as it lay there in its rather mundane knife form. “So… can you make the sheath?”
+
+Mistress Airim was unamused. “No, Mistress Tala, I cannot effectively sheath an Existence Ending weapon. I don’t even know exactly what such a weapon could do. So, there is no way I could create something that effectively contained it.”
+
+Tala grunted. “What if I just wanted the sheath to contain it when not using those aspects of the weapon?”
+
+Mistress Airim grimaced, clearly considering. “So long as it was understood that it could never be used with that aspect?”
+
+“Yes.”
+
+“Then… Most likely, yes. It will be expensive, and I’ll want to make it as robust as I possibly can.” She shifted, ensuring she had direct eye contact with Tala. “Let me be clear. This will be the most durable I am capable of making, which means it is the most durable that can be made by human hands. I may not be that advanced, but I have delved deeply into this craft, and I use augments that make up for the potential issue of raw power. I doubt even many arcanes could surpass what I will create. Even so, if you activate those magics while your weapon is within the sheath, I cannot guarantee it will last even the briefest of instants.”
+
+Tala nodded. “Understood.”
+
+There was a long moment of silence before the woman added, “And it will be expensive.”
+
+“You said that.”
+
+“You haven’t commented on it.”
+
+“Well, it will cost what it costs.”
+
+That got a look. “You haven’t asked how expensive.”
+
+“You haven’t said. Connect with Mistress Ingrit, and arrange for payment. If she tells me it’s too expensive, then it won’t happen. Otherwise, you’ll get your payment.”
+
+Mistress Airim grunted at that. “Very well.” She took a deep breath, then nodded once. “Now, your husband wanted to discuss a sheath of his own?”

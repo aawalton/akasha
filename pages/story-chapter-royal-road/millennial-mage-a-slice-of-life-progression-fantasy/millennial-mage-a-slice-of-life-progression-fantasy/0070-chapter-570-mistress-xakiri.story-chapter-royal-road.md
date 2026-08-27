@@ -1,0 +1,269 @@
+---
+id: 21de92c0-b9fb-55d0-9483-cd162d4c6d1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 570 - Mistress Xakiri"
+slug: 0070-chapter-570-mistress-xakiri
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 70
+ownLength: 2886
+unit: words
+ownProgress: 2886
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2324069/chapter-570-mistress-xakiri"
+royalRoadId: "2324069"
+markedReadAt: "2026-06-29T19:37:32.121Z"
+---
+
+Tala, Rane, and Terry tipped the tide of combat against the Leshkin, but it still wasn’t going to be a quick clash. The incoming enemy numbers seemed to be never-ending as the surrounding forest seemed to disgorge foes constantly, more seemingly rushing in from every direction.
+
+Tala hadn’t seen so many coming after someone in a long time.
+
+With her gravity mitigated, allowing her to hover over the center of the beleaguered caravan, Tala had an easy line of sight—even with her mundane eyes—of the seemingly unending reinforcements. As they weren’t really gaining anything by killing the Leshkin—and every moment risked the others that they’d come to help getting injured or killed—she decided to try out an idea.
+
+Well, I’ve got to do something.
+
+With her aura—combined with Rane’s—holding supremacy over the whole area—simply and easily allowing the other Mages to function within it—she had options. Still, one stood out to her as potentially a simple solution.
+
+With an act of will akin to plucking the string of an instrument, she caused the feel of her aura to rise to the surface and resonate throughout her surroundings.
+
+It had one immediate, unfortunate side effect. Every mundane gasped, either falling to their knees or freezing in place momentarily. Even the Mages staggered slightly, though they seemed to have been differently affected.
+
+Oops.
+
+-Yeah, big oops. I’m glad you didn’t exert yourself more fully or entirely express our power. We might have killed some on the spot.-
+
+Yeah…
+
+On the positive side, the action had seemingly jarred the Leshkin from their rage, and they all seemed to truly sense who was before them.
+
+Every Leshkin eye snapped to her, and a keening wail went up among them. Even the trees seemed to shudder around them, and the cries could be heard coming from miles around.
+
+With her allies off-kilter, Tala needed this idea to work. Thus, she seized one of the juggernauts, pinning it in place, but allowing its resonant communications of alarm through without contest—not that she was sure she could actually stop them.
+
+Then, she immediately let it go, so as to not start a renewed rush by the others attempting to free it.
+
+There was only a single moment more of hesitation before every Leshkin fled their vegetative bodies, causing a cacophonous whoomph as a literal—if small—army collapsed as one.
+
+It took a moment for the caravan members to notice, as they were all still dazed from Tala’s aura usage, but then one of the guards started laughing. One of his fellows slapped his back. “Have you gone mad, Cass? What’s funny about this?”
+
+The man shook his head. “If that little wash of pain was all we had to pay to slay an army? I’ll pay that anytime.”
+
+The other man snorted, then started to chuckle. “Yeah, I guess that’s fair.”
+
+The laughter was seemingly more born of relief than of true humor, but Tala didn’t mind.
+
+She altered her gravity to lower herself down on top of a wagon, next to the fire Mage who seemed to be the lead Mage Protector.
+
+The fire Mage was wiping a bit of blood from his nose and upper lip, but he smiled, regardless. “I can’t say I understand what you did—and it hurt like a rusty knife in my head—but thank you.”
+
+She grimaced slightly. “My apologies. I’m used to being alone with my husband and bound companion. I should have considered your presence and acted accordingly.”
+
+He waved her off. “We only have the magics that we have, and the results speak for themselves.” He gestured around them. “I don’t know how we can repay you.”
+
+The man looked rather nervous, clearly truly meaning that last statement. Therefore, it was her turn to wave him off. “No, no. That’s not necessary. I’ll chat with your guest and then leave you to your route. Without her, you shouldn’t have any more unexpected encounters.”
+
+He smiled in relief. “Thank you, Mistress…?”
+
+She bowed his way. “I am Tala.”
+
+“Mistress Tala, thank you. I am Ignair.”
+
+“Good to meet you, Master Ignair.”
+
+Rane landed lightly beside them, bowing to the man. “I am Rane, Master Ignair. It looks like you all were acquitting yourselves quite well in a difficult fight, even before we arrived.”
+
+Off in the woods, Terry let out a mournful trill, clearly a bit sad that the clash had ended so soon.
+
+Rane chuckled, but continued speaking to Master Ignair. “Is there any other assistance you might need?”
+
+The man bowed toward Rane. “No, Master Rane. Your wife has already done me the courtesy of verifying just that.” He then looked hopefully toward the darkly clothed Mage, below. “She was about to speak with that Mage, though?”
+
+Tala grinned at his hopeful, questioning tone. “Yes, I was. I will say goodbye to you, now, Master Ignair. I wish you well on your travels.”
+
+He bowed deeply. “And I you both. My gratitude—and that of our whole company—goes with you.”
+
+Rane and Tala gave him shallow bows.
+
+As she examined the woman below, Tala decided that it would be best to start the conversation with the wandering Mage from a point of strength, and because of that, she purposely flickered down—using Terry’s magics—reappearing in a comfortable stance, uncomfortably close to the woman, where Tala’s aura still reigned.
+
+She had brought Rane beside her, and to his credit, he didn’t show even momentary surprise.
+
+The Mage stumbled backward at their sudden appearance. There was blood coming from her nose as well, and she seemed at least a bit disoriented still after her ordeal.
+
+-It seems that while our aura affected the mundanes more, the impact hit the Mages more… acutely? Likely due to their magical senses.-
+
+That makes sense to me.
+
+The woman quickly recovered her footing and bowed. “Thank you, Master, Mistress. I am Xakiri. I am grateful for your interference, and I am...” She swallowed, Tala only then seeing the woman swaying just a bit. “I am exhausted.”
+
+Tala took a moment to examine the other Archon. Her black hair was short on the sides, and long on the top in a style that Tala found confusing, but she had been seeing it more and more of late. Mistress Xakiri’s green eyes held intelligence—along with weariness—and a single scar marred her otherwise unremarkable, if pretty, face. As she was a Mage at the very least, the scar had seemingly been left there intentionally.
+
+So, a mark of pride?
+
+-Yeah, likely from something that she survived or overcame.-
+
+Interesting…
+
+Rane cleared his throat. “Greetings, Mistress Xakiri. I am Rane, and my wife is Tala. Can you tell us why the Leshkin were pursuing you?”
+
+Tala frowned, the second hearing of the name tickling the back of her mind. As she thought about it, the memory came to her instantly. Master Saliocas mentioned her? This is her?
+
+Mistress Xakiri’s eyes widened as she fully focused on Tala. “Mistress Tala? I was heading toward Makinaven in the hopes of finding you. A mutual acquaintance let me know you were in that city.”
+
+Tala’s frown deepened, feeling like something might be off. “What are the chances we ran into each other out here?”
+
+The other woman shrugged. “Well, I assume that you came to help this caravan when you sensed the Leshkin gathering or something like that?”
+
+Tala shrugged. “Yeah, I suppose that’s accurate enough.”
+
+“Then it wasn’t that unlikely. I was heading your way from Retindel, and I took the opportunity to delve into the respawning tree on the way from there to Makinaven. That always gets the Leshkin a bit irate… though this time, they seemed somehow… prepared for someone to mess with them?” She shook her head. “I should have realized something was wrong, but I didn’t. I barely escaped the increased activity there, and I fled ahead of a larger pursuit force than I’m accustomed to. It was more persistent as well. I was nearing my limits when I saw the caravan and came here for shelter.” She looked a bit guilty.
+
+Only then did Tala see that large portions of the woman’s skin were a bit flushed as if irritated… and they all lacked any inscriptions. Tala’s eyes widened. “You used up your inscriptions entirely?”
+
+The Mage sighed, but shook her head. “Only my more powerful, limited ones. I can usually step through shadows, but it’s power intensive—and requires burning through inscriptions.”
+
+Like my ‘Crush’ and ‘Restrain’ used to be.
+
+-Indeed, but movement focused rather than combat. That’s rare.-
+
+True.
+
+The woman didn’t pause for Tala’s internal dialogue. “I was using that to flee. It’s normally enough just to draw away from the pursuit, causing them to break off as they lose interest or realize they won’t catch me. This time? They just kept coming. I’ve been running for…” The woman grimaced. “Three days? I should have been able to reach Makinaven in one, but they kept heading me off, forcing me to go the wrong way in between shadow steps.”
+
+Rane cleared his throat. “If you were able to evade them for so long, that must be a powerful ability. I am glad that you were not caught or overcome.”
+
+The woman smiled back. “Thank you, Master Rane… I don’t suppose you would be willing to bring me along with you? I assume that you are going toward the research station in this area, but that is also assuming you didn’t divert too far from your intended path to come aid this caravan. I don’t want my presence to cause any more issues for these good people, but I do not trust my chances in these woods alone.”
+
+Rane glanced toward Tala. “I’ll talk with the others here, then we can go.”
+
+Tala nodded. “Thank you, Rane.” As he turned away, she looked back to Mistress Xakiri. “You can come with us as far as the research station. I would like to know what you’ve learned about Leshkin.”
+
+Mistress Xakiri huffed a humorous laugh. “We don’t have that much time, Mistress Tala. I’ve been studying the Leshkin for more than a century. I suspect I know as much about them as almost anyone these days.”
+
+“Have you put that information in the Archive?”
+
+“I have. I don’t want one mistake out here to cost us all I’ve been able to learn.”
+
+Tala nodded, glad that the woman saw gated humanity as an ‘us’ to safeguard. “Then, I might simply ask for an overview, and then access to that information.”
+
+The other woman nodded slowly. “I can do that. I agreed to an exchange when I got access to your memory of some Leshkin. Would this qualify?”
+
+Tala shrugged. “That seems fine to me. You can arrange that with Mistress Ingrit.”
+
+“Yeah, I’ve communicated with her before. Then we have a deal.”
+
+Rane only took about ten minutes to confer with the powers that be in the caravan, made faster by their previous conversation with the lead Mage Protector, Master Ignair.
+
+When that was done, Tala, Rane, and Terry departed with Mistress Xakiri.
+
+The woman was exhausted, and once they were a bit away from the caravan, Tala offered, “Would you like to rest somewhere safe until we arrive?”
+
+The woman brightened. “You have a large enough, unbound space?”
+
+Tala waggled her head a bit. “It is large enough, yes, but it is bound.”
+
+That made the Mage frown, clearly confused. “Then…”
+
+Tala headed off the objection. “It has unique properties that make it safe to enter. If you wish, you may ‘resist’ entering and bonding which would prevent entry if I were lying.”
+
+The woman gave a slow nod. “That’s true enough. Very well. I will resist.”
+
+“Good.” Tala grinned, then willed the other woman in.
+
+It seemed that she was Refined, just as Tala had thought due to her aura.
+
+Or, she somehow is able to only resist with Fused level strength?
+
+-That seems like a bit of a stretch just to hide one’s advancement. It also risks a bonding if we’d been lying, due to her ‘not really’ resisting as much as she could.-
+
+That’s fair.
+
+She put Mistress Xakiri in the guest room and watched as the guest spun around, eyes going wide.
+
+Tala then communicated with Mistress Petra, and the woman headed toward their guest to help her with anything that might be needed.
+
+Rane raised an eyebrow. “So, she is all settled, then?”
+
+Tala nodded once. “She is.”
+
+“Good. I would have been… a bit frustrated if we’d had to keep that pace the rest of the way.”
+
+Terry let out a series of condescending chirps having joined them momentarily.
+
+Tala sighed. “She was injured and exhausted. Let’s not judge her too harshly. I’m sure she’s very fast when she has her full inscription set.”
+
+Rane shrugged, and Terry trilled noncommittally.
+
+“She does shadow-step, which even if much more limited, is almost like flickering.”
+
+Terry chirped his agreement, his opinion immediately turning on a coin.
+
+She chuckled, shaking her head. “Come on. Let’s go.”
+
+They took off, each using their own method of travel.
+
+It only took another hour or so for them to find the research station where they’d met Mistress Noelle so long ago.
+
+The massive stump was still there, and as soon as they arrived at the edge of the clearing, Tala felt the magical sensors and protections that she’d missed previously.
+
+She was surprised that she hadn’t felt them before they entered the clearing. Well concealed.
+
+-Indeed.-
+
+Rane grunted beside her. “Nicely concealed magics.”
+
+Only moments after they crossed that line, Mistress Noelle appeared before them. “Well, you three certainly have interesting timing.”
+
+Tala had seen her move… spiritually? She hadn’t really moved physically, at least that isn’t how it had looked to Tala’s threefold sight. Regardless, Mistress Noelle had been in the center of the large clearing, near the heart of the hollow stump, and then her reality-node had shot over, the woman physically disappearing from the stump and appearing before them in the same instant.
+
+Rane and Tala bowed even as Terry trilled his greeting. Tala spoke for them, “Mistress-”
+
+Mistress Noelle cut across Tala’s words. “As I’m sure that I’ve said before: Drop the Mistress, or I will end you.” She gave a tight smile. “Are we clear?”
+
+Tala hesitated a moment, then cleared her throat and nodded. “Just Noelle, then.”
+
+Mistress Noelle nodded once. “Yes, that will do. Thank you.”
+
+“Noelle. We are on our way to Bandfast, and we thought to drop through and say hello.”
+
+The powerful Archon arched an eyebrow. “Oh? So the crazed attitude of the Leshkin the past couple of days, and the flare of your aura just before they settled down are simple coincidences?”
+
+Rane chuckled, and Tala sighed. “Truthfully? The Leshkin aren’t because of us, and the flare of my aura was because we were coming to the aid of a beleaguered caravan.”
+
+That drew Mistress Noelle’s attention. “Oh? I hadn’t received a call for aid.”
+
+“I don’t know that they’d had time to call. The Leshkin were in pursuit of a Mistress Xakiri, and she unintentionally led them to the caravan while seeking shelter.”
+
+A sigh escaped her lips. “Very well. I don’t suppose you got a full report from the woman? She does like to stir the forest…”
+
+“Better.” Tala grinned. “I have her with us.”
+
+That caused both the older woman’s eyebrows to climb. “Well, then. Please produce her.”
+
+Tala focused on the Mage, finding her just finishing up a light meal provided by Mistress Petra. Tala notified her cook that she would bring their guest out shortly. “One moment.”
+
+As soon as the two women had said their goodbyes, Tala willed Mistress Xakiri to the superficial.
+
+The dark-haired woman staggered slightly yet again as she arrived on different terrain. “Mistress Tala? Is there trouble? I…” Her eyes widened, and she bowed deeply to Mistress Noelle. “Mis… Noelle.”
+
+The older woman’s eyes narrowed, but she didn’t interrupt.
+
+“It is a pleasure to see you again. I had not expected to arrive so quickly.” She gestured to her still disheveled clothing. “I would have made myself more presentable with a bit more warning.”
+
+Mistress Noelle waved that off. “We are in the woods, Xakiri. No one smells of roses…except the black trumpets, but they hardly count, and they are always rude, regardless of their smell.”
+
+Tala blinked a few times, looking to Rane and Mistress Xakiri for explanation. The woman seemed just as confused as Tala, and Rane just shrugged noncommittally.
+
+-Maybe a type of forest creature? But it sounds more like a plant, except the bit about rudeness.-
+
+Yeah…
+
+Mistress Noelle clapped her hands together. “Well, it seems that there are a few conversations that need to happen. Shall we adjourn to somewhere a bit more comfortable?”
+
+Everyone agreed—save Terry, who gave Mistress Noelle a wary glance before he flickered back out into the surrounding woods to hunt—and so they proceeded back toward the stump.
+
+“I’m so glad that we could get together like this. It has been far too long since I’ve had truly stimulating company.”
+
+“I was here less than two weeks ago…” Mistress Xakiri grimaced.
+
+Mistress Noelle arched an eyebrow at the other Mage. “I know what I said, child. Come on, now. It’s tea time.”

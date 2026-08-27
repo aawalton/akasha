@@ -1,0 +1,165 @@
+---
+id: 0b85ff63-e50d-520b-8324-792e07a35069
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Macavity (2) "
+slug: 0055-chapter-29-macavity-2
+partOf: metaworld-hopecore
+position: 55
+ownLength: 2681
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374531/chapter-29-macavity-2"
+royalRoadId: "3374531"
+---
+
+The after-class party, AKA the “After Party”, was attended by a mere forty students, mostly Sophomores, Juniors and a handful of Seniors. Someone had brought in mood lighting in the sense of battery-powered string lights from the old Ikea Xmas catalogue, and a group of Jazz Ensemble students had decided to “practice” tunes in the courtyard by playing reimagined pop hits from G-Sync, Lucia Lancet, and Rikki Lynne. The result was a bit shoddy, but the organic sound very much added to the atmosphere of a non-alcoholic party.
+
+Evidently, the party organisers were not poor, for a good deal of fast food, from KFC to Pizza, and copious amounts of soda arrived en masse. As tradition would have it, some students thought themselves heroes for smuggling plastic water bottles of vodka. Still, they were such poor mixologists that their attempts were almost immediately abandoned and confiscated by sharp-eyed Seniors.
+
+Valorie and her friends were all missing. The rumour engine said that they had rented out a hall close to the campus, and that’s where the popular, well-to-do, and the hangers-on were having their “Halloween Function”.
+
+Eppie felt surprisingly snug in her catsuit, considering that the mid-section was literally an aerobics leotard. It didn’t really matter, though, for it wasn’t in the style of costumed teenagers at a casually organised party to dance. A few of the more daring girls with their more outlandish costumes made moves near the Jazz Musicians, but the rest of the art-nerds were more comfortable sticking to their little cliques and staring.
+
+From the desert, the Santa Ana rolled through the courtyard, swinging the lights and sending wayward cups into the bushes.
+
+Eppie stood against a wooden railing with Chelsea and Lucy, Fanta in hand, feeling ridiculous. Twelve hours in, the skin-suit was now a natural part of her body, as was the tail. She listened to the banter of her friends from the theatre, noting down their dreams.
+
+Lucy’s family were supportive of her dreams, and would love nothing more than to see her on stage. Her worry was about two years down the line, when she would have to try to enrol in acting colleges.
+
+Chelsea’s family was less supportive, but only because of their financial limitations. Her mother worked for their local church, and her father was a toolmaker for a local trade shop. She had no idea what would happen once Senior Year ended.
+
+In her dark dress and her Wednesday-like get-up, Chelsea projected a rare vulnerability, one that Eppie could sympathise with. College for the Arts was expensive, with the supply-your-own-equipment model, space hires and additional tutors. Without the full support of one’s family, how could such a future be seriously considered? Chelsea’s grades were good but not amazing; she might have a chance at Cal State, but UCLA and the gold standard like Guilliams were just pipe dreams.
+
+“You know, you could just go straight to auditioning,” Lucy broke the silence between them. “Get a commercial agent, go do some roles, get your SAG and AFTRA, apply for Equity, do local work, do day jobs, waitress, study or work under someone. It’s doable, I know people who did it. It’s not glamorous, but you’re doing what you love.”
+
+“Maybe,” Chelsea sipped her Coke. “Sounds like a plan anyway.”
+
+“How about our MySpace breakout?” Lucy’s eyes twinkled. “You’re already under Sony’s tent, aren’t you, Eppie?”
+
+And I got my SAG and AFTRA… Eppie refrained from boasting. “I want to explore several disciplines. Songwriting is too unstable. It’s all vibes. Most days, nothing; some days… it just falls into your head. I would like to do more theatre if possible.”
+
+At least, that’s what the [System] inferred with its gift of [Muses] and [Traits.] The road to perdition was long, and the unseen hand that guided her toward this world’s [Usurpers] could not be known. A part of her duty was clearly re-living Eppie’s life, giving the [Persona] the means to live a life that was robbed unjustly.
+
+Which one took precedence? That, she had no idea.
+
+“With your grades, you should apply for Guilliams,” Lucy said. “They will surely take your songwriting credits into account.”
+
+“Not the life for me,” Eppie shook her head. The fact that her daily life gradually costs more [Causality] was no joke. At the trajectory it was growing, there was no doubt that the consumption would be exponential once she was an adult. She needed to WORK, and she would develop her skills through the [System]. Besides, the USA’s most elite Conservatory was unlikely to have people that needed her help—albeit she could imagine running into a [Usurper] or three.
+
+As for her friends, she didn’t have the heart to tell them that there was no difference. As a [Usurper] who had run a trillion-dollar AI Ponzi scheme, she knows what the entertainment scene looked like from the inside, and that neither route guarantees anything. Success was about connections, luck, and how much a girl was willing to sacrifice. And even then, when the AI slop hits…
+
+Eppie mingled a little more, took pictures with the folk who came in search of the First Cat in Space, then announced that she was going to see Lim at the Stray Cat Society. Two other families had now joined Mrs Catch’em’s litter, and she had no idea how many students would volunteer on Halloween night.
+
+She also wanted to see how the kitties reacted when she walked in wearing a Cats the Musical suit.
+
+The girls wanted to stay longer and wait for Min-jun. Eppie told them that she might come back if there were already people at the Cat Shelter. If not, she’d at least change the water and fill the food, because she wasn’t about to ruin the borrowed costume.
+
+Slipping from the party with her cat-like [Agility], she jogged a little in her cat costume, finding humour in the way her tail held its life-like act. She followed the now familiar path, waving at late Halloween-dressed college students and avoiding the ones that wanted to chat, until she arrived at the old college dorms.
+
+She knew the code to the door by now, and so popped the pin and entered. Usually, only senior members of the Cat Society were allowed private access. Still, she had catalysed so many adoptions that Lim found it easier just to let her do her thing with prospective adoption candidates, as she lived five minutes' jog away while Lim lived in Chinatown.
+
+The basement was warm as always, with an odour that could only be endured. On the far wall, a line of roomy, donated kennels of different shapes and ages, all lined with fleece, was occupied by a rotating population of eight kittens and four adult cats. From the looks of it, no one had been in today, meaning the food stations, the water bowls all had to be changed.
+
+She quickly checked the logbook and confirmed that, indeed, she was the sole soul to have ventured into this ammonia-smelling purgatory. Stepping into the room, the cats studied her warily. One of the local chonkers, a grey tabby called Mr Shin, carefully sniffed her costume. Another cat, The Duchess, grew curious. The kittens, however, knew her scent through the costume, and had all come crawling out of their Mrs Catch’em’s burrow to greet her.
+
+Removing her paws, she worked the water bowls first, taking them one by one and pouring them into a bucket before unhurriedly moving the pile to the bathroom for cleaning. A tortoiseshell came forward and did its due around her ankles. Mr Shin descended from its kennel and sat at her feet while she poured, supervising.
+
+Once the bowls were clean, she returned them to their usual places, then went into the storage room for the kibbles. These were heavy bags, but with her [Strength], she could easily take them down and tear the seam with her bare hands.
+
+At this point, she had about four cats on her person. The tortoiseshell was on her leg, Mr Shin was on her shoulder, meowing, and two Kittens were potentially tearing her leotard.
+
+BANG— The door upstairs opened, Eppie jumped, the tortoiseshell ran, and someone swore.
+
+Heavy footsteps travelled down the stairs, then a voice, a male voice, low and baritone and familiar, spoke in the most native Cantonese Eppie had ever heard.
+
+“Chen-ge, there’s no benefit in what you’re proposing. I kept an eye on her for most of tonight, and she has no interest in you or San-jei. She did her classes, went to the party, did not draw attention to herself, chatted with friends, and I lost her after that.”
+
+In the storage room, Eppie the Cat stood very still, not even daring to breathe.
+
+A kitten tried to play with her tail. She ignored it.
+
+“I know, I know! San-jei is still obsessed with making the blondie pok-gai, but what do you want me to do? I am studying accounting here. If any of us gets caught by the Uncles, or worse still, Chen-ye, we’ll all pok-gai. You said San-jei’s enjoying herself tonight, right? What made her upset now?”
+
+There was a deep sigh.
+
+“Maybe if she didn’t lose the stupid Birkin Bag, the Principal wouldn’t have asked her to come to his office. This is wu shi shen yun ah—, me and the crew can’t even keep up with the development.”
+
+“Fong xing la,” Lim sounded exasperated. “If there’s an opportunity…”
+
+The call ended. Lim punched the wall with enough force to shake the dust from the ceiling.
+
+“Hung gaa caan—! Pok gai!” Lim swore with such vehemence that Eppie felt her tail explode into fluff.
+
+The Blondie.
+
+Horror of a kind moved through Eppie like a rapidly developing fever. Comprehension gave way to realisation, then her [Intelligence] of 35 put everything into order. Lim was her gaoler. Himself, or his crew, were Chen’s agent, watching her from the beginning. She was their plaything, a little golden finch that thought itself free from the gilded cage.
+
+Then came the fear, the paralysis, the natural reaction of Eppie’s borrowed body.
+
+She couldn’t move. Eldritch ice, glacial and sharp, moved from her sternum, freezing her body and soul. She became suddenly aware of the fact that there was one way in and one way out, and that a giant stood in her way.
+
+Then came the nausea.Eppie had no idea that this was what her old self experienced, but she was feeling it now. Her body was lurching with a heaviness that felt like globs of lead moving through molten veins.
+
+BREATHE! She commanded herself. Her lungs moved, she began to breathe like Cooper taught her. She sucked in the air and fought the pain. She restored sensations to her limbs. Below her, the tortoiseshell purred. On her shoulder, the weight of Mr Shin was like a stone statue. The kittens, frightened by her changed scent, clung to her costume for dear life.
+
+I need to go. She told herself. She can’t die here—not when she had so much to live for.
+
+Move your leg. Move your thighs. Move your torso. Move toward the door. Dash past Lim. Go for the exit. Lock it behind you.
+
+Like giving a Golem its command scripts, she made her body move.
+
+Then, Eppie remembered why she was here. She had the [System]. She had unlimited stamina. She could also talk her way out of the basement. But more than anything, the Lana inside Eppie refused to accept betrayal. Lana had seen some shit. The quieter, older, the part of her that had sat across from US Senators and mocked them for their lack of knowledge would now allow it.
+
+She would confront the giant. She would find out what happened to Mio. And she would bring them all to karmic justice.
+
+The footsteps reached the bottom of the stairs.
+
+She reached for the door.
+
+“Hung gaa caang—! Pok gai!”
+
+Fat Lim Wang stowed his smartphone.His temple throbbed. His fist bled. He was tired as shit of Chen’s shit.
+
+He had rushed over from his classes just to check in on Eppie, and after an hour of nothing, he had rushed away for a bite to eat, then rushed his way over to the shelter.
+
+Clearing the threshold of the entrance, he welcomed the ammonia while dreaming of soft fur and thunderous purrs. These days, it was the only thing that could relax him, stop the pent-up anger in his chest from reaching out and punching William Chen so hard that his head would go through the fibro walls.
+
+When he turned the corner at the final step of the stairs, however, he was confronted by something wholly unexpected.
+
+A very large cat with four smaller cats attached. No, a girl in a cat suit, from the Alley Cat Musical from an old LAPAGANZA.
+
+Lim had seen many things in his reasonably exciting life. He had seen a cat give birth behind the fridge at 2 AM in the morning. He had held a tabby that died because someone turned off the heat during the December Break. He had once beaten a man so hard his eyeball came loose because Lim discovered poisoned bait. Then he had watched, silently, as William Chen defiled a fellow cat-fancier who had called him friend.
+
+This… This was new.
+
+She was smaller in person than in his mind. Lim hadn’t registered just how small the girl was until she confronted him, her small, petite body against his, her neck slender and white. Her costume was extraordinary, just like when he’d watched the Musical. It was silky, matte black, fitted, the kind of thing that had been made by someone who had both passion and skill. The ears sat at the correct anatomical position, shaped and wired, moving with her head. The tail was excellent, quivering with her anger, reading her defiance.
+
+Mr Shin meowed at him. Duchess hissed. The kittens hung on for dear life.Lim looked around the room. The water was changed. The kibble was not. She hadn’t gone back to the dorm. She had come here to feed his cats, to clean their litter boxes and refill their kibble.
+
+Finally, his eyes focused on her face.
+
+Lim’s heart fell to pieces.
+
+She was on the verge of tears, but the expression blasting from her brimming blue eyes wasn’t hate or anger. It was disappointment and profound loss. Lim’s fists clenched and unclenched. He can deflect anger. He can parry rage as easily as he can deflect her strikes. But he couldn’t stomach her disappointment.
+
+"You speak Cantonese," Lim said finally, just to confirm. It was not quite a question.
+
+"Mandarin, primarily," Eppie replied in Cantonese. "I can listen, but I can’t speak it.”
+
+Lim nodded. He thought of her charity, the help she had given to those around her, like the artist and the guitarist, the money she had given to the hospital, the time she had sacrificed for the cats. In her cat costume, the girl was far prettier than he recalled. He became aware, acutely, that her cat ears sat at the precise angle that a cat's ears go when a cat is upset with him, tilted forward and inward.
+
+"How long?" she asked.
+
+"Since September,” he answered. “Through myself, and others.”
+
+Eppie looked like a stray that had finally found a warm room, only to hear the dogs being unleashed.
+
+She looked so pitiful. She looked hurt.
+
+Mr Shin hissed at him as well.
+
+Fat Lim Wang was twenty years old and had seen some shit, but he was not prepared for the mental purgation that was Eppie as Félicette la chatte, accosting him for being the traitor that he was.
+
+Something inside Lim snapped, or perhaps they had connected. He felt suddenly compelled by a higher, greater power to say the thing that had gnawed at his conscience for months.
+
+"I have to tell you something," he heard himself saying. Even as the rational part of him screamed in protest. “I know where to find Luciana Mio.”

@@ -1,0 +1,265 @@
+---
+id: 3cef8304-fd78-5f5c-95b8-4052038942a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 591 - The End of Their Visit"
+slug: 0092-chapter-591-the-end-of-their-visit
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 92
+ownLength: 2895
+unit: words
+ownProgress: 2895
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2464858/chapter-591-the-end-of-their-visit"
+royalRoadId: "2464858"
+markedReadAt: "2026-06-29T19:38:14.581Z"
+---
+
+As the Sappherrouses were led toward their seats in Brand’s fight-view restaurant, there was a bit of rumbling from around them since they bypassed the wait that most had to endure, but that was fine. Tala didn’t mind the special treatment, especially as it benefited her daughter.
+
+Once they were led to a slightly lifted table that was slightly set apart, but still quite obviously in the main space, the woman bowed again. “Your server will be with you shortly. It was also noted that the good avian, master Terry, should be offered a deal.”
+
+Terry—who had been beginning to shimmy as he looked around, eyes obviously hungry—let out a surprised chirp and looked at the woman.
+
+She smiled before continuing. “If you stay at this table, a large to-go selection will be prepared for you to take with you.”
+
+He crouched a bit, eyes narrowing.
+
+She chuckled then, a hint of nervousness creeping into her voice as she glanced down at the slate in her hands. “And if that isn’t of interest—which it seems not to be—we can have the staff hang ribbons about themselves, and you will be rewarded at the end of your visit based on how many you collect.” As his eyes opened with glee, she held up her hand to forestall him. “So long as you don’t cause a commotion, and only take them off staff. If a staff member notices a ribbon being taken, you must leave that one behind. No cheating, and no disturbing the other guests. Are we agreed?”
+
+Terry’s eyes narrowed once more, but then he huffed and trilled his assent.
+
+The woman seemed to relax. “Thank you.” She bowed a final time. “As I said, your server will be here shortly.”
+
+As she walked away, Lea turned to regard Terry. “They are concerned about Uncle Terry?”
+
+Terry let out a derisive chirp, but Rane was already chuckling.
+
+Tala decided to answer her daughter more directly. “Yes. He is… he can be a handful if not treated properly.”
+
+Terry gave a decisive nod, as if such was only to be expected.
+
+She went on. “The owner of this restaurant has known Terry almost as long as I have, though they’ve spent far less time together. And last time we were here, he sent me an itemization of the chaos Terry caused.”
+
+Terry huffed an amused, half-squawk.
+
+Lea tilted her head to look at Terry, causing her braid to sway across her back. “Are you…” She leaned in closer. “You’re not a bad birdy, are you?”
+
+He gave a quiet squawk of indignation in reply.
+
+“Oh… Well, I suppose that makes sense.”
+
+Rane frowned. “Wait… did you understand him?”
+
+Lea frowned. “Of course? Mom Alat was very clear when she conveyed what he meant.”
+
+He blinked a few times at his daughter, then huffed a laugh. “Ahh. Yeah. That makes sense.”
+
+At that moment, Lea’s eyes widened as she clearly lifted her gaze upward for the first time, seemingly having been reluctant to stop people-watching up until that point, even while in conversation with Terry, her parents, and the attendant. She’d finally noticed the various battles ongoing, shown on the various displays around the restaurant. She started to stand, practically screaming in horror. “Mom, dad! You have to help them!”
+
+Tala flexed her aura, catching the sound before it could reach nearby tables, having acted as soon as Lea’s eyes had begun to widen. Tala held a finger to her lips. “Shhh, Lea. I’m glad that you want to help them, but these fights aren’t happening now. They are recordings of fights in the past, shown for entertainment.”
+
+Lea blinked a few times. “Well… that’s silly.”
+
+Rane hid a smile, and Tala chuckled. “Why is that?”
+
+“Well, if the human dies, then it isn’t entertaining, it’s sad, so they won’t show one of those fights. But if we know the human doesn’t die, it removes the tension.”
+
+Tala hesitated a moment. “Huh… that’s very insightful.”
+
+Lea beamed. “Thank you.”
+
+“However,” Tala smiled as she continued, “it shows a bit of a lack of understanding. How about you watch one of the fights, knowing the human wins in the end? Then, you can tell me what you think.”
+
+Lea nodded seriously, turning her attention to one of the ongoing clashes.
+
+Rane shook his head. “I’ll get the food ordered.”
+
+“Thank you, dad.” Her eyes didn’t leave the ongoing fight.
+
+This should be enlightening.
+
+-Indeed.-
+
+* * *
+
+“NO!” Lea stood in a rush, throwing her hands up in sympathetic frustration. Tala had managed to move the girl’s food to the side and brace the table before Lea crumpled downward in irritation, putting her head down on her folded arms as she groaned in irritation.
+
+An instant later, her head came up and her eyes locked back on the large Archive slate.
+
+Rather than being irked by the display, Tala found herself smiling. Her daughter’s action had been all-but-mirrored in quite a few places around the restaurant, by many of those watching the same fight on one slate or another.
+
+An older man at a table to one side looked Lea’s way and smiled in camaraderie as they’d both seemingly been rooting for the same Defender.
+
+As to what they’d been watching?
+
+Well, an oddly coordinated swarm of rabbit-like monsters, each with a horn on their head, had tried to mob the Waning city being depicted.
+
+Tala wasn’t sure what city it was, nor even what cycle it had been, but that was hardly important.
+
+In the recording, teams of Defenders had sallied forth to engage the creatures, that seemed oddly capable of destroying stone, thus making remaining behind the walls an… expensive strategy.
+
+The rabbit-things, apparently, didn’t like to fight directly. That, or they realized that in a straight fight with the humans before them, they stood no chance. Therefore, they had scattered, leading to the Defenders having to do the same, every individual Archon striving to catch and kill—or simply obliterate—as many of the swarm-creatures as possible.
+
+Lightning, fire, whips of water, hardened air, and a dozen other types of attack lashed out, yet the bunnies were both miraculous in their ability to dodge and seemingly endless.
+
+As to what had made Lea so exasperated?
+
+The recording had begun tallying various Archons’ counts, and one in particular was having a rough time of it.
+
+A young looking man was darting around, trying to physically catch his quarry. No one really knew why his particular magics meant that he needed to catch rather than just touch or blast, or something else, but the results were quite entertaining and—at times—comical.
+
+This particular time, the man had herded three rabbits close together and had seemingly tried to catch all three at once.
+
+He should have been able to take any one, but he was not satisfied with such a meager harvest.
+
+He’d received two powerful kicks—Unlucky.—even as he’d dodged an attempt by the third creature to gore him. But well avoided.
+
+It was a comedy of errors that had more than just Lea enraptured. The girl was muttering under her breath, however. “How could he miss that? Is he foolish? I wouldn’t have failed so utterly.”
+
+Rane cleared his throat, drawing her attention. “Lea, it can be fun to comment on the sport, but don’t be so quick to judge. Do you think you could do better? Do you think you could put in a better effort?”
+
+She frowned. “Yes? I think I could have done better. As to effort, he does look like he is trying very hard. I would not need to do that.”
+
+He sighed. “At the very least, you should have some respect for a person’s effort. As to you doing a better job? Were you aware that the recording is slowed down for us to view it?”
+
+Lea blinked. “What?”
+
+Rane smiled. “Look at how the grass moves around him. We’re watching it quite a bit less than half speed.”
+
+“But… he’s moving normally. How?”
+
+“He must have some form of enhancement magic. My guess? His body is enhanced beyond his mind, and he hasn’t acclimated to it yet. Regardless, he’s moving faster than you could, and still, he isn’t succeeding. Sure, he’s not making great decisions, but he’s having to make them fast.”
+
+She grumped a bit. “I still think I could do better. I would just need practice and training first. I bet he’s had years of it. I wouldn’t need that long to get better than he is there.”
+
+Rane raised an eyebrow. “Setting aside your… natural advantages. Do you actually want to train? To learn to fight?”
+
+She shrugged. “I know I need to learn to fight eventually, at least to keep myself safe. You and mom fight all the time, and you enjoy it.”
+
+Rane hesitated, then nodded. “It can be enjoyable, but it’s also scary.”
+
+Lea’s eyes widened. “Really? Every time?”
+
+Tala smiled and nodded, interjecting. “Every time. Courage isn’t a lack of fear, it is continuing even when you are scared.”
+
+Lea frowned, then slowly nodded as well. “Then I need to train even more. Will you teach me?”
+
+Rane and Tala shared a look, then smiled. Rane turned back to their daughter. “Absolutely. And you can start playing tag with Uncle Terry, too.”
+
+At that moment, a wave of cheering swept through the room, and they all looked up to see the young-looking man holding up a rabbit by the ears. “Aww… I missed it.”
+
+As Rane consoled their daughter, Tala just found herself chuckling quietly.
+
+-Brand has skillful people involved in selecting the recordings he has. If the ‘score’ count is any indication, they’re modifying them for their use, too.-
+
+Oh? That was added by Brand?
+
+-Or his people. The record of this clash that we have access to doesn’t have that.- Alat paused for a moment. -Though, to be fair, it might be something offered to entertainment establishments as part of a separate fee.-
+
+Or for an extra fee, maybe? That was an interesting thought.
+
+-Could be, yeah. Someone else might have taken the time to put together a ‘modifier’ package as well.- Alat made some absent noises then added. -Oh! Yeah. We could buy the same thing… wow. That’s not cheap.-
+
+Oh?
+
+-Yeah. For some other purchasable content, you can buy ‘modifier’ portions as well, that alter, enhance, or censor the base information. You can’t take income from the owners of the base content, but it is rather easy to make money if you provide a useful modification.-
+
+Huh. Tala felt like she’d be vaguely aware of such things. She even felt like she remembered Mistress Ingrit saying that some people were providing such for much of what she was selling.
+
+-Yup. You’ve absolutely heard about this before.-
+
+Fine. I guess I just don’t consider it very often.
+
+-That’s fair.-
+
+Rane was openly grinning at their daughter’s antics, even as he enjoyed his food.
+
+Terry was occasionally flickering out and back, only the small dimensional ripples from his actions giving any evidence that he’d moved at all.
+
+Well, that, and the… second step.
+
+After all, he was retrieving ribbons for a reward. So after he returned, he turned his head to the side and pushed the target from his mouth with his tongue, only occasionally having to reach up and pull it free with his talon.
+
+He had quite a nice little pile on a napkin on the back corner of their table.
+
+As Tala took another bite of the tasty food, her eyes met Rane’s, and they both gave contented smiles.
+
+This had been a wonderful idea, and they would have to do things like it again. Even if this is a more rare type of establishment. I don’t know that she’d enjoy quieter fight-view places as much.
+
+-It will be fun to find out.-
+
+But that was for later. For the moment? Tala would simply enjoy the time with her family.
+
+Brand and Lissa came out to their table before the meal ended, and the five chatted a bit.
+
+Lea was introduced as their daughter, and while they were both confused, neither of them were fool enough to dig for information that wasn’t offered. They understood that Lea was special—as well as special to Tala and Rane—and so they didn’t press, simply conveying their congratulations all around.
+
+Unsurprisingly—given the evidence to the restaurant—they were doing very well for themselves. Brand had apparently been offered a regional management position for the Culinary Guild, but he’d turned it down in favor of spending more time with his family at his own establishment.
+
+Even so, the Guild had been unwilling to lose him. After much back and forth, Brand had accepted a part-time position, consulting and helping to optimize and improve various processes.
+
+Brand, himself, had reddened quite a bit as his wife had gushed about his accomplishments. He, in turn, tried to deflect onto her, stating that most of what made the restaurant work so well was the food, that she continued to work to improve, and the staff that she interviewed, vetted, and trained personally.
+
+She, of course, had rolled her eyes and pointed out that people were far more interested in watching the fights than eating the food.
+
+They might have continued to go back and forth like that in playful disagreement, each trying to out-honor the other, but Lea had chosen that moment to speak up, barely loud enough to be heard over the general hubbub. “I like both.”
+
+That had caused the two to realize that the girl was a bit uncomfortable with their ‘fighting.’ They’d hesitated a moment, then expressed that they were glad she was enjoying her visit, allowing the conversation to turn to other topics.
+
+In the end, it was a very pleasant afternoon.
+
+* * *
+
+The time had seemed almost to fly by, but it was finally the end of their visit to Bandfast.
+
+I arrived here in grief, and will leave with a daughter.
+
+-I feel like that type of thing is a lot more common than you credit, even if you did speed up the timeline a bit more than I think most would consider possible.-
+
+That’s… fair. We seem to do that a lot… speed up expected timelines, I mean.
+
+-We do, don’t we?-
+
+They shared an internal chuckle.
+
+Ironhold had been given warning, and they’d be leaving the following morning. Their last task was simply one of saying goodbye.
+
+Lea was a bit sad that she hadn’t been able to see Fannas again, and she really didn’t want to leave before at least saying goodbye.
+
+Therefore, Tala, Rane, and Lea were headed to the Caravanner’s Guildhall to see Mistress Kannis and Fannas in their place of work.
+
+Terry had apparently gone to bother Walden as he did on occasion.
+
+Tala had checked with the immortal elk, and he’d claimed to not mind, as Terry was apparently quite respectful, in that he didn’t hunt any creature that Walden didn’t wish him to.
+
+Apparently, unlike his sire, Walden did not like stagnation, and having an apex predator on hand to cull the various populations was seemingly a boon in the elk’s eyes.
+
+Who knew? Maybe he wouldn’t have been an ally for the Forest Lord… Tala didn’t really know how to feel about that. In theory, it meant that Walden had been locked away for no reason, but she also didn’t know how such things worked.
+
+It was possible that Walden could have risen to become a partner to the Forest Lord, his seeming opposition allowing him a separate Sovereignty that he would have then wielded alongside his sire, resulting in greater power for both.
+
+Or, he might have been a check to the stagnation within the southern forests allowing for the whole region to be more prosperous.
+
+The ancient Mages had seemingly had good reason for their actions, and Tala was still rather young and inexperienced in the assessment of such things. Still, it did leave her in a place where she believed she could see the potential for Walden to be freed one day.
+
+Probably not soon… if ever.
+
+Eskau Meallain was getting increasingly persistent in her demands to see Tala, but Tala was still a bit hesitant to have Lea meet her, and Tala felt like the two would be difficult to separate, meaning that when she met with the Eskau again, she’d be bringing Lea.
+
+Tala wasn’t excited for that meeting.
+
+Regardless of what she wanted, though, it did need to happen, and that time was set for a couple of days from then.
+
+Lisa had agreed to train Lea around the arrivals of his kin, the first of which was already working to lock their home into the allotted space.
+
+Lea seemed to enjoy the lessons so far, which were mainly just talking, and with Tala enforcing the fact that the fox-kin couldn’t make any deals with the girl? It seemed to be perfect.
+
+Regardless, Lisa had come to mind as a potential extra party to be there when Eskau Meallain met Lea. The purpose would be to hopefully redirect some of the Eskau’s likely-to-be-bad reaction onto.
+
+-That’s not very fair to Lisa.-
+
+I’m sure he’ll be fine.
+
+-I guess…-
+
+But all of this was just a distraction from the Caravanner’s Guildhall, at which they had finally arrived.

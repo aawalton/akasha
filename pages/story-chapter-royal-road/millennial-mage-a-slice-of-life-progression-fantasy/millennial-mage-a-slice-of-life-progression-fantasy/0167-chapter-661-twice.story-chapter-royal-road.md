@@ -1,0 +1,247 @@
+---
+id: 743591f3-c203-5b21-b8c4-d8572d99eeec
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 661 - Twice"
+slug: 0167-chapter-661-twice
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 167
+ownLength: 3238
+unit: words
+ownProgress: 3238
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2964099/chapter-661-twice"
+royalRoadId: "2964099"
+markedReadAt: "2026-06-29T19:40:24.615Z"
+---
+
+Tala watched the arcanes slowly disperse around her—moving away from the former location of the hold of the House of the Frost Lance—feeling a tremendous sense of accomplishment. She’d set out to accomplish exactly this. She’d been opposed, and she overcame.
+
+A smile pulled at her lips, and she allowed herself to bask in the victory.
+
+The previous hold of the Frost Lance was being added to Ironhold as she considered things, the door being re-placed as she situated the hold within a not-quite mountain near Irondale.
+
+She wasn’t exactly sure what it would be used for, and in truth, it would likely be parcelled out eventually—apparently Lyn had already been informed about the addition and was poring through various options—but for now, it was a trophy of her recent conquest.
+
+That in mind, she began to notice a theme in the looks arcanes were casting back her way.
+
+They’re afraid.
+
+-Of course they are. You just went out of your way to make them afraid.-
+
+Yeah… Something about their fear pulled at her. After a moment’s thought, she realized what was bothering her. She was on the precipice of becoming something she despised.
+
+When she was taken, she had been afraid of those above her, unable to do as she wished or be who she really was. Now, she was back with enough power and authority to do as she wished to others with startling ease. She was even planning on moving them toward giving up large portions of their culture and identity, as she wanted to strip co-opted vestiges from every facet of arcane life.
+
+In fact, it wasn’t even just her future plans. It could be easily argued that she was actively doing that, forcing her will on those weaker than herself. The House of the Fated Clash opposed her and the House of Blood, and she was putting pressure on them—instilling fear within them—in an attempt to force them to her way of thinking.
+
+She frowned.
+
+Alat obviously sensed her growing trepidation, and decided to interject, cutting off the growing cascade of thought. -You aren’t a tyrant, Tala. In most things, you don’t care what people do one way or another.-
+
+No, I just want them to obey me where it matters.
+
+Alat picked up the implication, the real root of the issue. -You are nothing like Be-thric, Tala. This is like your discussion with Lea. Sure, your actions are similar in the broadest sense, but this is a question of degree and methodology. In those two, critical areas, you are nothing like that man.-
+
+Tala nodded to herself, forcing her momentary frown away.
+
+-Rane is ready, by the way. Shall I give him clearance?-
+
+Tala gave a slow shake of her head. “Come on, Lea. We’ll have dad join us once we’re a few blocks away.”
+
+Lea smiled. “Bakery?”
+
+Tala nodded. “Bakery.”
+
+“Hurrah!” Lea practically skipped forward as the two women strode away from the obviously odd, blank wall behind them.
+
+How long before that spot is refilled?
+
+-Who knows. The Revered City Lord should be happy, though.-
+
+Oh? She considered for a moment. Oh, right. He can charge someone else for the hold charter now.
+
+-Exactly.-
+
+It sounds like he will be both irritated and happy with me.
+
+-Most likely, yes. We are dancing an interesting line, probably a dangerous one, too.-
+
+Dangerous for our cause, yeah… I believe we could escape any threat, but we are here for a purpose…
+
+Again understanding what Tala was thinking, Alat decided to offer some comfort, -We haven’t jeopardized that, Tala. Our actions were directed and approved by the House of Blood, and while that doesn’t instantly make them okay, it does mean that we aren’t taking actions that are absolutely unacceptable to those we are seeking to aid gated humanity against the Black Legion.-
+
+Yeah… She firmed her shoulders. On the previous subject, she had an important thought. There was another key difference between her and that man. She was doing this for others rather than for her own benefit. This was not a case of the ends justifying the means, but her motivation did matter.
+
+By the time Tala, Lea, and Terry were near the edge of the District of Doors, those who were still around them were no longer looking at the three of them with the reverent fear of those who had seen what Tala did to the House of the Frozen Lance.
+
+I wonder how soon word of what we’ve done will spread through the city.
+
+-Probably not too long, honestly.-
+
+They were on the far side from the city center, so the holds in the area were theoretically the poorer houses or even non-house entities. Regardless, some Major Houses chose to have their holds in these parts as their power was more mercantile than militaristic, so being near the merchants and craftsmen who were wealthy enough to have holds in the District—no matter that they weren’t near the city center—was to their advantage.
+
+It was from one such hold that an Eskau strode, the weight of his age and authority moving with him like a mantle despite being obviously restrained with a level of control that spoke to true mastery.
+
+His aura was an aquamarine which alone spoke of power, but beyond the color, there was a depth to it that Tala had basically never experienced, making the sensation feel like looking upon an ocean from the deck of a sturdy ship.
+
+Lea couldn’t properly perceive the man’s power, but her instincts—or something within her body—made her almost unconsciously move to Tala’s other side. Terry fluffed his feathers but didn’t make a sound even as his eyes locked onto the man.
+
+He wasn’t human—that much was obvious—but his species wasn’t easy to suss out. His skin was the gray of sea-cliffs, his hair a mane of white that was both so wispy as to drift about him like a cloud, and so thick as to completely obscure that which was beyond it. His eyes were an oddly glowing tan, and the frown he wore was weighty enough that Tala half expected thunderclouds to begin forming in the sky above to match the gravitas of the expression.
+
+His eyes had initially flitted over the three beings before him with disinterest, but when he saw the symbol on Tala’s tunic, the frown had been born. He spoke, his voice deep and calm as a dwarven well. “A human Eskau? Again?” He tsked. “Did they not try that already?”
+
+Tala turned to face him, despite his words seeming more a self-musing than a question directed her way. “We are but passing through. Is there an issue?”
+
+The man’s frown deepened. “She is a powerful one, but still human.” He shook his head. “I am Jiyan, Eskau of Commerce for the House of Stone.”
+
+There was an odd force of expectation from him after his pronouncement, and it demanded Tala reply with who she was more insistently than a scream or a blade to the throat. “I am Tala, Eskau of the House of Blood.”
+
+An Eskau of Commerce was very similar to an Eskau of War, in that the one in the position was outside the normal structure of the House, an Eskau that had no Pillar because they needed no Pillar. Where an Eskau of War oversaw a conflict, an Eskau of Commerce would oversee just that, commerce.
+
+Other Houses had other such posts, but they were rarely filled, and Tala had been too weak when she was in Platoiri previously to have ever encountered one as more than a vague mention, if even that.
+
+Eskau Jiyan grunted, clearly recognizing her name. “Ahh, so you aren’t another human Eskau, you are that human Eskau. Interesting.” He chuckled, his frown melting away at the mild joviality. “So, you are that girl.” He looked her over again, clearly with an eye to her power and weight, even if she couldn’t see exactly how he was analyzing her. Finally, he gave an approving nod. “I can see why you’ve caused such consternation.”
+
+The House of Stone was on good terms with the House of Blood, but this man could change that, given his position. Tala was entirely thrown off by this random encounter, and she was struggling to regain her balance.
+
+“Very well… I am departing Platoiri regardless, so it hardly matters. I did not mean to cause you delay.” The man gave exactly the appropriate bow when their relative power levels and political positions within their houses were taken into account. The man even placed his hand exactly correctly on his chest to denote the level and type of alliance between his house and the one to whom he was giving honor.
+
+Of course he did, Tala. This is his role. He probably didn’t even have to think about the specifics. It’s like you choosing the right words to form a sentence. Tala returned the gesture, modified for her position relative to him in turn. She did have to think about it and was incredibly careful to do so.
+
+And that was it.
+
+Eskau Jiyan strode away without further comment or interaction, seemingly also without a care.
+
+Only after he departed did Tala realize something that should have been incredibly obvious.
+
+He didn’t have a vestige on him. The only weapon he seemed to bear had been a stone knife at his belt that looked more ceremonial than martial but seemingly no less deadly for that fact.
+
+An Eskau without a protian weapon… I didn’t think that was possible.
+
+-It isn’t in the House of Blood. The House of Stone must be different. There was something odd about that knife, but I couldn’t really sense it properly through his aura.-
+
+Yeah… You don’t think it was a concept blade… was it?
+
+-I don’t think so? It didn’t feel exactly the same as the other we’ve encountered.-
+
+Tala grunted and dismissed the oddity, ushering Lea forward.
+
+The transition from the district of doors to the surrounding mercantile area wasn’t sudden, but it was stark.
+
+The roads looked the same, and the same people seemed to be meandering around without regard to some arbitrary line. Even so, the businesses that were within the district, and which were fully ensconced within holds, were obviously a bit nicer and ‘full featured’ in their services.
+
+Tala saw a few tea-houses with far more extensive private rooms than those without as extensive hold usage. There were training rooms, restaurants, clothing stores, and innumerable other shops on both sides of the line, and it was fascinating to see the differences.
+
+That said, she wasn’t out and about to shop.
+
+She passed along notice that they were out of the District of Doors, and Rane was suddenly walking beside them, no noise or other fanfare announcing his arrival.
+
+Tala’s outward directed perception caught a few arcanes doing double-takes, but none of them seemed to actually realize that the massive, tall man had appeared from nowhere.
+
+-Or they realized that if he did, it’s above their notice? No one wants to stick their noses in the business of the Houses.-
+
+Tala grunted internally. She did notice that most who saw her tunic—either the back with the emblazoned symbol for gated humanity, or the front with that of the House of Blood—seemed to turn their attention elsewhere.
+
+The fact that both Rane and Lea were wearing small medallions with the symbol of the city, itself, likely kept away the few people who would have been interested in learning more about—or harrassing—gated in such a setting.
+
+Rane leaned over and kissed the top of her head. “How did it go?”
+
+She glanced up at him and smiled. “Weren’t you watching?”
+
+He grinned down at her. “Of course, but I want to know how you felt it went.”
+
+“Ahh… It went well, I think.” She frowned for a moment then nodded decisively. “I don’t think that the House of the Fated Clash will need to be addressed directly, and from what I know, they are good warriors to have on your side, so that’s a positive outcome.”
+
+Rane grunted. “The Frost Lance folks weren’t bad…”
+
+She gave him a knowing glance. “They were very skilled, but they were not very honed. I agree. They were warriors who took great pains to practice, but seem to have had little need to apply their arts martially.”
+
+“Exactly.”
+
+Lea slumped a little. “Oh…”
+
+Rane skillfully stepped around Tala, coming up beside Lea even as they continued forward. “Lea, you were magnificent. They might have been hesitant to use their full power against you, but you still drove them into the ground with your sheer endurance and tenacity. The fact that they had to be cycling out fighters to face you?” He chuckled, squeezing the girl close. “Magnificent. Play to your strengths, sweet. Work on your weaknesses, but remember your strengths.”
+
+That seemed to lift Lea’s mood a bit. “Thank you, Dad.”
+
+He squeezed her shoulder once more before letting go. “Of course. It’s my job to point out the positive truth and encourage you where I can.”
+
+Lea hip-bumped Rane’s upper thigh and chuckled. “Sure, sure.”
+
+The Sappherrous family walked through the city of Platoiri enjoying companionable conversation.
+
+Tala, Rane, and Terry all were able to facilitate the easy speaking and hearing despite crowded or loud parts of their walk. It also helped that they all had levels of enhancement with which they could probably have held a normal conversation regardless.
+
+Partially because of the pleasantness of just being together, Tala didn’t take the straightest route. She also remembered how she had been regretting not taking more time for the little things of late. She kept them well away from the vestige pillar in the center of the city, but that really wasn’t an impediment because that was on the far side of the District of Doors, and she wasn’t planning on circumnavigating that place.
+
+The bakery was only a few blocks from the edge they’d come out of, but they walked nearly twenty blocks distance as they meandered, just experiencing the city.
+
+They passed some parks—a mix of walking paths with adults socializing and those clearly aimed at younger citizens with children playing—and the beauty and laughter brought smiles to all their faces. Well, Terry just cracked an eye to glance around every once in awhile, but he still seemed to be having fun.
+
+Finally, they arrived at the courtyard containing a few more specialized establishments, including the Many-Fold Bakery.
+
+There didn’t seem to be a long line within, and the few customers that were inside only barely glanced their way when they first entered.
+
+Yamanther, the baker with the odd arms, was instantly standing behind the counter, eyes locked on Tala.
+
+Tala froze in place, her own eyes widening as her perception truly took in the being before her.
+
+The shop owner that could be seen on the superficial was suddenly, quite obviously just the smallest part of a fully four-dimensional creature.
+
+Uncounted arms stretched stone- and starward, branching, multiplying, and grasping at every layer of existence that she could perceive.
+
+Only after she’d taken in his enormity did she see the obscuring magics deeply woven through the bakery, explaining why she hadn’t seen this before. Moreover, it explained why the man wasn’t a beacon to anyone or anything that could see into the dimensions of magic.
+
+Importantly, just stoneward, she could see a massively powerful interweaving of such magics, currently distorted by uncountable hands.
+
+Tala swallowed, once again feeling off-balance. Twice in barely an hour. There really are monsters who remain well beyond us, here.
+
+-Indeed… We shouldn’t let hubris cause us to run afoul of such.-
+
+Indeed…
+
+Yamanther smiled. “Little Eskau, you return, hopefully to make voluntary purchases this time?”
+
+Tala gave a slow nod, unable to make her mouth work, and unwilling to attempt enforcing her will in this place to create her voice.
+
+He nodded in return, and the stoneward hands released the spellform, causing the fourth-dimension of the being to simply vanish from her sight, utterly imperceptible to Tala once again. “I am glad to hear it.”
+
+Rane and Lea were giving Tala odd looks, and she realized that she had basically frozen in place, just inside the door. Tala cleared her throat, recovering herself. She glanced at her family, finding Terry regarding the baker with narrowed eyes. Still, she addressed her husband and daughter first. “Sorry about that. Come on. The baked goods here are the best in the city.”
+
+She remembered being forced to buy out their entire stock when she’d caused a disruption before, scaring away his customers.
+
+Those had been incredible, even if they’d been tainted by her enslavement and the manner of acquisition.
+
+Still, she was here with her family now, and they were excitedly picking out various delicacies. The other customers had seemingly been handled while she was distracted, as they were nowhere to be seen any longer.
+
+Yamanther seemed utterly stoic as he added their selections to various to-go containers, building out quite the order.
+
+Throughout, Terry’s gaze was locked on the man, and the baker only occasionally returned the look. Each time, there was a spark of something that vanished as soon as he looked away.
+
+Finally, when Tala had made her own selections, and Rane had produced the gold—yes, gold—for their sizable order, it was time to go.
+
+As they turned to go, something crossed the man-puppet’s face. “The bird.”
+
+Tala turned back to the baker. “Yes?”
+
+Terry trilled questioning.
+
+“The bird can stay for a time… if he wishes.”
+
+Tala blinked a few times before joining her husband and daughter in looking toward Terry.
+
+Terry, for his part, was looking toward Yamanther inquisitively. Finally, he let out a little squawk and flickered to a seat behind the counter.
+
+Tala felt a moment’s hesitation before dismissing it. She trusted Terry, and she had no doubt that he could take care of himself. “Let me know if you need anything, Terry. See you when you get done?”
+
+He squawked again, turning to regard Yamanther once more.
+
+Tala shook her head, turning back toward the door.
+
+At that moment, a group of arcanes came in, hesitating as they saw Tala’s family, or, more specifically, Lea. The seeming leader of the group sneered. “This place serves whites? Disgusting. She and her slaves should be banned from anywhere civilized.”
+
+Tala bristled, and she saw Lea and Rane blinking in surprise. There was a bit of humor in the situation in Tala’s estimation, given the blue-skinned group had obviously assumed that Lea was a hue-folk woman. She, herself, had never really seen the enmity between various arcane species, but she’d heard about it. She’d just quite effectively kicked the teeth in of the most powerful white-hue-folk House in the city, and she had no love for that specific species. Truthfully, though, she had nothing against them either. Nor did she dislike blue-hue-folk… except these had just insulted her daughter, even if it was a misunderstanding.
+
+Yamanther’s voice floated from behind her, cutting through the momentary stillness. “Take it outside, little Eskau. Your interesting bird will not increase my forbearance should you harm my place of business.”
+
+Tala nodded without looking back before stepping toward the arcanes and addressing them. “We were just leaving. If you have a problem with me or mine, we can settle it outside.”

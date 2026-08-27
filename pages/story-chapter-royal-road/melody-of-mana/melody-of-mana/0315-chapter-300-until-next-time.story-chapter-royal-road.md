@@ -1,0 +1,103 @@
+---
+id: 3bb480bc-27c9-50ad-aa3d-4200dad6a601
+page-type-slug: story-chapter-royal-road
+title: "Chapter 300 Until Next Time"
+slug: 0315-chapter-300-until-next-time
+partOf: melody-of-mana
+position: 315
+ownLength: 1541
+unit: words
+ownProgress: 1541
+publishedAt: 2024-01-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1492712/chapter-300-until-next-time"
+royalRoadId: "1492712"
+markedReadAt: "2026-06-29T22:36:41.502Z"
+---
+
+After giving my host a quick goodbye I followed the kids through the portal. I was really going to have to do something for Justin, though I was still unsure as to what. For now I needed to get things back together as they should be, though I supposed that was mostly done.
+
+My lab was, to my relief, still sealed from when I'd left. So while the young ones were quickly getting their bearings, and Rodrick was examining every surface like an excited gremlin I waited. Eventually one of them tried the door and in that moment I managed to slip out. We were back in our own country now and there was nowhere near enough time for the ruse I needed to set up to keep all the work I'd done in place.
+
+I flitted through the halls like a speedy ghost, heading straight for my room. It was late in the day, and if Ulanion was keeping to his normal schedule my husband would be there right now. Luckily for me I knew this place better than almost anyone else, and being able to bend space meant that I could be there quick as lightning.
+
+As I through open the doors I saw Ulanion blur and stand, barely take time to register me, and then blur again, his arms appearing around me and lips by mine. After a rushed kiss I pulled away looking up at him.
+
+“We should continue this later, but the kids are at my lab, can you go quickly and get them back to the palace? And don't tell them I was with them,” I said as fast as I could.
+
+“I have questions,” he said, not quite letting me go, but not trying to stop me from ducking under his arms and slipping into our rooms.
+
+“Later!” I answered with a yell. “Need to change, be right behind you.”
+
+I heard a sigh and Ulanion leaving to go do as I'd requested. Soon I'd be done with this mess and we could spend as much quality time as he wanted going over everything. He knew what living with me was like by this time, and being gone for a few weeks had been expected, so there was no real issue right?
+
+With a fresh dress, and a hesitant use of magic to clean myself I hurried back to the lab where the kids were being corralled by various staff. They'd found someone on their own naturally, and there was no small amount of confusion that followed. Once Ulanion arrived though there were a few tearful greetings followed by the cats being quickly herded into a portal leading back to the capital.
+
+There were no portals in the palace proper, this was inconvenient, but a simple security feature. Well, actually there might be a portal there made by Dras, but if there was I didn't know of it, and I hoped to all things good and decent in the world that they'd kept it sealed. This meant that the collective of our group had to take a carriage to the palace itself, and were beaten there by messengers.
+
+Now my brother and his wife were the rulers, but unlike the previous king and queen had little care for formality when it didn't suit them. Therefore as soon as the kids made it into the palace with guards in tow they appeared. Etia scooped her two up into a hug as soon as she appeared, and started to speak not long after.
+
+“I was so worried, where were you? How did you get stuck over there? Are you hurt? Amara IS THAT BLOOD!?” she asked as she finally looked at her daughter's clothes, the stains from her injuries in the battle standing out brightly on her chest. Unlike me she'd not cleaned up at all.
+
+Veska and Lena stood back, trying not to catch the attention of the royal couple while my own two looked a bit relieved. They had a pretty good relationship with their aunt and uncle after all. Our family might have changed, but we still cared for each other, and the infighting that a lot of royals ended up in hadn't set in, at least not yet.
+
+“Where is Alana?” John asked Rodrick, who clearly didn't have an answer.
+
+“Here I am,” I said appearing out of the air. Unveiling yourself from invisibility was a party trick that never got old.
+
+“Did you just walk through most of our security and wards?” he asked, seemingly surprised.
+
+“Brother of mine, I designed most of those wards,” I replied truthfully, getting past them had been a breeze, and not because I hadn't tried to fix the holes. Just that there were some holes that really couldn't be fully patched. “And I knew the moment this lot made it into my workshop.”
+
+“That is... fair.” I could see the flash of understanding in his eye. I hadn't mentioned that I'd been with them the whole time, and he wouldn't either.
+
+“Mom! Where did you come from?” Rodrick asked as I approached him and his sister. They both needed a hug, and I'd been holding off on that for too long.
+
+“Your mother is everywhere,” I replied mysteriously.
+
+“But...”
+
+“Everywhere...” A bit of acting let me put just a quick turn, making it sound like my voice was coming from every direction.
+
+Illa held me tight, speaking softly. “Missed you,” she said.
+
+“You too sweetie. We should talk later, maybe do something fun.” I wasn't sure what she'd want to do, but I'd promised that I'd spend more time with her, and I planned to keep that promise.
+
+“Okay,” she agreed.
+
+Etia was still fussing over the prince and princess while John turned, looking at the two oddballs in the group.
+
+“And I don't believe I know either of you? You traveled with my children though, and I am glad you made it all back together,” he said, rather more politely than a king would be expected to.
+
+“I believe the redhead is dating my Rodrick,” I informed him, causing the girl's head to snap in my directions and her eyes to go wide. They'd been keeping that from me of course. I just looked at her and mouthed 'Everywhere' once more.
+
+“Oh, and this is Lena father,” Omos said, pulling away from his mother briefly. “We've been... seeing each other recently as well.”
+
+“Is that so,” John said, looking down at the girl in a way that made her freeze up. “I'll have to meet her then won't I?”
+
+“Oh me too,” his wife agreed, giving little Lena if anything an even more harshly appraising look. It seemed the royal couple didn't plan to let their son be led astray if they could help it.
+
+Eventually the hellos were done, and the story of how the kids had survived told, at which point they were shown off to go and clean up. All of them were exhausted and dirty, and I think everyone wanted a good warm meal. Since they'd be nicely distracted I pulled my brother and his wife to the side and decided to have a conversation with them.
+
+“They don't know I was with them,” I told the royal couple. “And I think we should keep it that way.”
+
+“Is this another of your, 'being mysterious' things sister?” John asked tiredly.
+
+“No, they gained a lot of confidence in their abilities, achieved things by their own merit, and succeeded. Letting them know that I was watching over their shoulders for it and making sure they didn't bite off more than they could chew would destroy that confidence, something they'll all need.”
+
+“You did keep them safe though?” Etia asked.
+
+“Of course, I even cleaned up a lot of the mess ahead of them. They still had their struggles though, and those will build them up.” I left out how I'd been pulled away a few times during the crisis. “If I'd thought they couldn't deal with something I would have stepped in to aid more obviously, but they handled themselves marvelously.”“Fine, what about the girl?” John asked, seeking my opinion of her.
+
+“He seems to really like her, and while I'm a bit nervous about it she seems genuine. I'd appreciate it if you kept an eye out, but let them be.” That was the best I could do for Lena, a girl whose parents I'd killed. She seemed a good apple to me, and I hoped that I wasn't wrong.
+
+“She's a priestess though; won't that cause problems?” Etia asked.
+
+“I've got connections in the Orders, and if you think it's going to work out between them I'll call those in.” Those might be some powerful casters, dangerous even to me, but I could go to Linden and visit their head, he at least seemed reasonable and I didn't think he'd try to split them up.
+
+“Settled, what next?” John asked.
+
+“What next? Next I'm going to spend time with my children and husband John. We've only so much time and how many lives do we get? I'll be around if you need me though.”
+
+“Until next time then Alana?” he asked with a smile.
+
+“Until next time,” I replied.

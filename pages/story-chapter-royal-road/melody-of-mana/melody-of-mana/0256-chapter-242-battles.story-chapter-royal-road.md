@@ -1,0 +1,105 @@
+---
+id: ebf8c049-cfc1-540e-bc4d-c18a74e4e746
+page-type-slug: story-chapter-royal-road
+title: "Chapter 242 Battles"
+slug: 0256-chapter-242-battles
+partOf: melody-of-mana
+position: 256
+ownLength: 2003
+unit: words
+ownProgress: 2003
+publishedAt: 2023-06-02
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1233369/chapter-242-battles"
+royalRoadId: "1233369"
+markedReadAt: "2026-06-29T22:34:39.730Z"
+---
+
+Lorrae
+
+Once again I pulled back my mana, readying a new spell. Years I'd trained, using ancient documents, and now this upstart was matching me blow for blow. Honestly I didn't know if I should be proud of him for growing so strong or immensely frustrated that he had.
+
+I of course remembered Mystien from his youth. Back when I'd been but a teacher and not the man I was now he'd come through the academy, surprising all with his strength and potent understanding of the element of water. He was no match for me at that time of course, but certainly an up and comer.
+
+With a flash one of my many shields died, now was not the time to reminisce.
+
+A comet of water appeared from the air, streaking at me and promising death. With a wave I met it with a blazing burst of light, obliterating the projectile into a bursting cloud of steam. I responded with a lance of force, only for my own attack to be absorbed by a wall of liquid.
+
+Both of us flew in circles like sharks looking for the kill, both testing, prying, looking for any opening in the defenses of the other. Neither could find one, and so for now it was a battle of attrition, launching spell after spell in hopes of wearing down the enemy's reserve of mana, until the time came for a finishing blow. This was sadly how most battles between potent wizards ended.
+
+Another joined us for only a moment, one of his apprentices launched himself into the air at me, spewing magic. I swatted him from the air with little more than a blink. This was not a place for the young to involve themselves, and they should all know better.
+
+I could read the expression on my opponents face, the rage at seeing one of his men killed. He charged forward, blasting a line of his favored element in a pillar that could turn stone to naught but so much dust. Water was powerful, but it could only do so much, my own elements of choice met it, a drill pointed with blazing light. The point flash evaporated the center of his pillar, pushing outwards on the rest and opening up an easy route for the rest of the construct to pierce it.
+
+Moments passed and the sky around us filled with billowing clouds. Second by second his pillar was pushed back. The man was nearly smart enough to beat me, altering the flow of the water inside, and even adding a few extra bolts, but it wasn't enough, he couldn't drop his attack, or I would kill him with mine, and in a straight battle of wills I would win.
+
+I had to squint as bit by bit my drill approached him. The energies between us too bright for me to look at without some tool. It didn't take long before finally the water broke, the construct failing and my own spell shooting across the night like a blaze, through my enemy.
+
+It was a sad conclusion, but inevitable. Slowly I started to descend to secure my enemy's body and take care of that damnable girl. I'd have to find her, a shame, since she too had seemed rather promising.
+
+Suddenly the clouds formed by our battle closed in like a whirlpool, pouring towards me. I threw out a shield in every direction, trying to push back against the incoming spell. It shouldn't be... no, he must have figured it out, managed to understand the teleportation that the girl had used, it had been a trap.
+
+I pulsed a circular shield outwards, trying to evaporate the condensing water again. It worked, for a second, and then the boiling water fell back in. He'd managed to get me to fly headfirst into his spell's radius, like descending into a lake. The protective spells around me began to waver under the onslaught of compressed steam, and I switched my goal.
+
+Upwards like an air filled bucket at the bottom of the sea I ascended. I needed to get out of this spell, out of the surrounding fluids.
+
+Above me there was the briefest flash of magic and the other magus popped into existence, aiming down another pillar. I sighed, as it fell into me, unable to see him, but imagining that he was smiling as he cast the spell that would end this.
+
+Emil
+
+I was too old for this, far too old, we all were. Not that there was much a choice. Durin had to die, he had to, there was no other way, and everyone agreed on it. If we could kill him, just him, maybe we could do something about all of his followers. We could call the nobles who'd survived his purge, and they'd come, and while I doubted we could retake everything we'd lost, some part of the kingdom could rise again.
+
+Men swarmed forward, over half were lost already and the remaining were mostly men like me who'd been trained and bought with promises of wealth, but I'd brought one or two of the weaker knights in my group as well. Many of them disdained me, thinking me dishonorable, or above my station, but honestly, after how far we'd all fallen I couldn't care less. I took the men I could for my group, and we'd deal with the rebels as we could.
+
+We had to split now, with part moving out towards the courtyards while another charged upwards towards the 'Emperor's' office. The bastard had taken the king's old meeting chamber for it, something it had taken me quite a bit of effort to learn. I passed a few bodies on the stairs, recognizing the unit, those who'd been supposed to take him, and protect our king. It looked like they'd taken out the enemy bodyguards at least.
+
+As I followed up the rear of my men one of my knights passed me, going down the stairs, through the central opening of the stairwell, at speed. With a crunch he struck the banister opposite and one floor down, his back bending unnaturally with a sickening crunch. That bode poorly. A second later he was joined by several of his fellows, and while I didn't get a good look, there were clearly wounds slicing parts of them, blood spraying as they passed us.
+
+Our opponent made himself known shortly enough, walking down the stairs like it was an afternoon stroll. In one hand he had a bow, clearly taken from one of my men, with a quiver over his shoulder. His dark coat and fancy tunic shining with some kind of enchantment. Arrows shot forth, each landing in an eye-socket or at just the right angle to pierce a heart.
+
+I brought up my crossbow, loosing at him a full volley, only to see the man drop, pulling one of my own people into the line of fire. It was almost lazy looking, of course the men who were left now weren't knights or casters, and would be little threat to him unless he got surrounded, or careless.
+
+The cranks and latches of the multi-shot crossbow I preferred struggled against me as the magic user cut through my men. Some caught arrows, some were simply pushed out over the handrail to their deaths, a few received kicks that broke bones and crushed heads.
+
+As I brought the mechanized crossbow up his eyes flashed in my direction. I sensed some form of recognition, and then abyssal hate that sent all my hairs on end. He turned and loosed an arrow at me that by some miracle thunked into my weapon, right over where my chest was. Luckily his was a bow meant for normal men, else the arrow would have penetrated the crossbow, me, and possibly part of the wall behind.
+
+"He's out of arrows!  CHARGE!"  One of my few remaining men yelled.
+
+"Idiot!" I managed before he moved.  He might as well have been stuck in amber against someone with physical magic.
+
+The soldier was right, our enemy was out of ammo at least.  As my man thrust at the descending warrior his blow was ducked under and through some twist I didn't catch he was flipped over the railing.  The bow was placed neatly on a corner post, the string under the soldier's chin.  He was left to strangle, since somehow the wooden spar held.
+
+The descending enemy was nearly upon me, making it to my flight after drawing a glowing sword and continuing his rampage.  His sword was either traditionally enchanted, or subjected to whatever the elves did that made theirs capable of slicing through pretty much anything non-magical, hard to tell which would be worse.
+
+"Do tell," he said with a slight accent almost unnoticeable, elven?  "I heard of a man who looked like a viper, the torturer for the 'king', might that be you?"
+
+"I prefer the term, 'head of intelligence' if you don't mind," I responded, trying to get a clean shot on him.
+
+"I'm sure you would," he said, cutting down the last of my men.  I could see the sweat and slightly harder breaths as his effort finally showed that it was taking its toll.
+
+Finally I had an opening, poisoned bolts had killed more than one monster for me over the years, and this would be no different.  I pulled the trigger with practiced restraint, even though I wanted to yank the thing hard I only had one chance.
+
+The mechanism clicked but didn't move.  My heart dropped as I saw the arrow in the gears, keeping them still.
+
+He was before me, slapping away the crossbow before his hand attached around my neck like a vice.  "But it was highly unintelligent to torture my friend Selene, or threaten the woman I love."
+
+Durin
+
+Our blades clashed, sparks lighting the night as the enchanted swords slammed against each other.  The young man before me narrowed his brows as me met me blow for blow.
+
+This fight was between we two mirror images.  He was barely an adult, fiery and strong, clad in golden armor with a white cape and paldrons which had to be mostly for show.  I on the other hand was getting on in years, in suave black with a light cloak to match.  His crown of gold, was pretty, but mine of sky-metal had allowed me to contact my men in the castle and academy, alerting at least some to the attack.
+
+Our battle had started in my office, but after several explosions and falls we'd ended up here, on the roof of one of the buildings, the palace complex engulfed in battle and flames below us.
+
+"There's no future in this boy," I said, admonishing him as I charged our blades meeting again.  "You know that, surrender to me and I will have mercy."
+
+"Mercy!?  MERCY!?  How many have you slaughtered in your conquest!?  You're a monster and nothing more, here to consume, and take, and destroy!  Your very men shout their darkness to the heavens themselves!"  I'd heard a number of objections like this over the years, and frankly I found them amusing.
+
+"My men have brought peace.  I ended the wars yours never would by having the will to do what needed to be done," I responded while parrying one of his strikes.  It landed on the tiles, shattering them.
+
+Another clanging of steel as we exchanged a flurry of blows at speed and he growled, self-righteousness flaring.  "You slaughtered my father!  You murdered my mother!  You stole my birthright and this kingdom you bastard!"
+
+He screamed like the pained child he was, it was a shame that I couldn't have brought him under my banner before.
+
+"Enough," I said, finally seeing a weakness in his form.  "It is time to end this."
+
+I thrust at the well-hidden hole in his defenses with both hands, focusing as much of my strength into my blade as I could.

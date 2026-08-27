@@ -1,0 +1,205 @@
+---
+id: 0f9053e1-4a4b-55dc-b02f-1a23a36b59d3
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 12 - A Day in the Life (2) "
+slug: 0023-chapter-12-a-day-in-the-life-2
+partOf: metaworld-hopecore
+position: 23
+ownLength: 2058
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368583/chapter-12-a-day-in-the-life-2"
+royalRoadId: "3368583"
+---
+
+She studied all night, thanks to her private room. And thanks to her inexhaustible [Stamina].
+
+With her studious self, iron will, and the [System], she crammed six AP Physics Papers and self-evaluated with total confidence that she would ace the exam.
+
+At 5:30 AM, she tried to wake up the others for Yoga, succeeding only in dragging Ava to their morning routine.
+
+At 6:30, she took advantage of Josefina’s limited-time breakfast offer, consuming two portions of toasted bolillos, washed down with heavily sugared coffee.
+
+At 7:15, she stepped out into the campus and jogged her way down to Salazar Hall, waving at the familiar faces of College students living in or near her dorm. With a routine and a face like hers, she was very quickly becoming a local attraction, which suited Eppie’s purpose well. After all, if some creep were to corner her somewhere near the dorm, people who knew her voice and silhouette were far more likely to come to her help, preventing her from becoming yet another Kitty Genovese.
+
+At 7:45, she arrived at the threshold of Salazar Hall, an enormous, brutalist L-shaped rectangular structure of concrete, brick and glass. In the shadow of its incredible bulk, the temperature dropped, and the scent of the eucalyptus-lined campus changed to the stink of antiseptic.
+
+In the lobby, she was met by Coordinator Carr, who had volunteered to see her through the process. The Director didn’t have to do this, nor was this her duty, but she was truly, TRULY thankful for the gift of Excel (™).
+
+The lobby was positively cavernous. In the morning hours, only the admin staff and students with early exams stalked the halls. Following her Director, they made it through hallway after hallway until they reached the C-Wing.
+
+The auditorium they entered had no windows. It was a tomb world, like Antigone’s resting place. Vivid fluorescent lights banished all shadow, leading her eyes toward Proctor's desk, where a middle-aged, sleep-deprived man sat on the desk with arms crossed and eyes closed in a short-sleeve shirt and Cal-State vest, one loafer tapping the concrete floor.
+
+There were a half-dozen students in the room, all young men.
+
+She smiled at them.
+
+One of the boys grew so startled that he almost stood to greet her, dragging his table a meter across the room.
+
+The Proctor coughed. “Right. That’s everyone. This is Euphemia Fontaine, I assume.”
+
+“I am, sir,” Eppie bowed her head.
+
+“Sit.”
+
+She moved toward the boys.
+
+“No, Miss Fontaine, sit behind them.”
+
+She moved past the boys, who gave her big smiles and hopeful grins.
+
+Eppie was glad that she chose all black, ankle-length yoga pants and a full sleeve Cal State jersey. Had she worn her croptop, the Proctor might have requested that she leave and come back when the boys were done.
+
+She bid Susan goodbye with a confident grin, received her well-wishes, then sat.
+
+The Proctor walked by with a plastic box. “Phones OFF. It rings. You fail.”
+
+Eppie gave up her phone, as did everyone else.
+
+“No labels on water bottles. Clear bottles only,” the instructions continued. “Pencils and Calculators. I will now issue you your standard TI-85s.”
+
+Once he was satisfied, the Proctor asked them to check the number of booklets. “Alright then. My name is Marcus Cunningham, and I am your AP Physics Competency Exam Proctor. The paper will take exactly 120 minutes. There are 40 multiple-choice questions and three free-response problems. Read the content provided on the front page. Do not open the packet until I give the mark."
+
+“Check your Scantrons now. IDs need to be bubbled correctly. If you make a mistake, raise your hand. Do not get up. Do not make a noise.”
+
+Eppie closed her eyes.
+
+Neutral Face.Neutral Body. Neutral Mind.
+
+“You may now begin.”
+
+The onomatopoeia of flapping books filled the auditorium. The past papers were as fresh to her mind as the cold waters of Santa Monica Bay.
+
+The Proctor returned to his desk, eyes half-closed, his gaze scanning the test-takers like a hawk.
+
+With the ease of a dancer gliding across the stage, her pencil tap-danced across the Scantron, chasing the results of her tried and tested mental math. She finished Newtonian law in minutes. She blasted through Energy and Momentum, hopscotching across friction calculations and elastic collisions. Next came Rotational Dynamics, where her momentum could not be stopped. Electricity and Magnetism were her weak points, so she slowed down to take it easy, solving for resistance by carefully double-combing her parallels and series until she was sure of the answer.
+
+In fifty minutes, she was done with section one.
+
+Her second section consisted of three long-form answers. One, the Atwood Machine, solving for acceleration.Two, the Roller Coaster, solving for Conservation of Energy. Three, Electric Field Variable, her worst possible area, solving for value.
+
+She finished the first two in under thirty minutes, the last in thirty minutes, then double-checked her answers, concluding with a flourish of double lines on her final derivatives.
+
+“TIME'S UP.” Cunningham’s voice rang out, together with the clatter of pencils and collective groans.
+
+The student ahead of her slumped in his chair, a dead man.
+
+As the last student, Eppie was to return her packets first. She rose with grace and slid past the zombies with the grace of a video game protagonist. At the Proctor’s desk, her answers landed with a soft thump.
+
+The Proctor’s eyes moved from her face to her test. Her bubbles were laser-etched. Flawless.
+
+“May I?” he smiled at last.
+
+“Please do,” Eppie smiled back.
+
+Proctor's grin grew as he scanned the Scantron data sheet. When he opened her long-form answers, he audibly sucked-in a lungful of air-conditioned air.
+
+“You did this?” the man licked his lips.
+
+“Is there… something wrong?” Eppie grew suddenly paranoid.
+
+“No… no,” the man looked to her, then to the test, then to her hand. “You have… really good handwriting. Usually, the students write in Arabic.”
+
+Eppie cocked her head. “Arabic numerals, sir?”
+
+“No, no… Arabic…” her Proctor flipped through the pages. “This… is a pleasure to grade. Thank you, Miss Fontaine.”
+
+Eppie held back her laughter, lest the other testers grow hostile.
+
+Outside the testing hall, she was just about to find lunch when a voice called out her name, flagging her down.
+
+“Erm…” One of the college fellers had a face as red as a baboon’s bottom. “Eppie, do you want to grab some food? I would love to discuss some of the questions with you. That Atwood Machine question… um…”
+
+“MISTER JONAS,” the booming sound of their Proctor called out from inside the hall. “If you need advice from our fifteen-year-old Sophomore, then I suggest you retrieve your test now, and not waste my time.”
+
+Jonas’ face turned white.
+
+Eppie fought back the laughter, fighting to escape her throat. She gave Jonas an earnest smile for good luck, then slipped out into the midday sun of Cal State.
+
+Cal State. Salazar Hall.
+
+Later that afternoon, Marcus Cunningham, Proctor and Physics TA, pondered his most recently graded papers, desiring someone with whom to make conversation.
+
+He had just marked a wholly unimpressive, but wholly correct answer. Students achieving the gold standard at Cal State wasn’t unusual, but it wasn’t every day that a fifteen-year-old arts student turned in gold standard answers either, and now he didn’t know how to proceed.
+
+Thankfully, a colleague happened to enter the room, searching for more coffee.
+
+“Thorton!” Cunningham felt his whole body relax. “Got a minute? I want to show you something.”
+
+“Sure,” Dr Thorton, venerable but helpful, skidded to a halt. “You need a hand with grading?”
+
+“Not that, just… check this out.” He handed over the Eppie Papers.
+
+“Is this a printout?” Thornton flipped through the pages, then paused. “Holy shit, this is handwritten? Who the hell writes like this?”
+
+“A theatre Sophomore from LAPA,” Cunningham replied smugly. “She scored 95%. What do you think of her solutions?”
+
+“... Surgical, but orthodox.” Thornton’s expression showed he was equally impressed.
+
+“I feel I should do something.” Cunningham chewed his lower lip. “If she’s this good now, maybe she’ll be a prize contender or something.”
+
+“Hold your sextons. I’ve heard of that before.” The old Professor shook his head. “Tell me. When she finished the test, did she look worried about her results?”
+
+“Nope,” Cunningham answered. “Did she look… interested in her answers?”
+
+Cunningham froze. No, the girl did not.
+
+“Where did she go after?”
+
+“Back to…” Cunningham felt a sudden, unhappy realisation. “Back to LAPA.”
+
+“Yes,” his colleague, far wiser than he, patted him on the shoulder. “You understand now? She isn’t here to do physics, Marcus. She’s here to add AP Physics to her theatre hours…”
+
+The Physics Professor was not wrong, for Eppie did indeed return to the quad to eat, relax, and speak to her newfound theatre buddies.
+
+When the time came, however, she bid them goodbye until Monday, then returned to the Salazar building, leaving her friends with more questions than answers.
+
+AP Japanese took place in Wing D, in the maddening maze that was the computer labs.
+
+At precisely 2:30 PM, she met her next Proctor, a Lab Coordinator with the name tag “Henderson”.
+
+She was also the sole contestant.
+
+Her testing station was a humming Dell Tower beside a 19-inch LCD screen with a refresh rate that already made her eyes water. Henderson taught her the ropes like a man explaining to a cat how to open a tin of sardines, then helped her adjust a pair of recently sanitised headphones.
+
+Sound checks were verified. Voice recording and clarity were signed off on.
+
+Finally, after what felt like forever, she could start.
+
+The multiple choice had a duration of ninety minutes, and it could not be rushed. As a captive audience, she endured the recordings for a whole 20 minutes before filling out the answers, arriving at the reading, where she finished a 70-minute segment in forty.
+
+After a ten-minute break, she had to hammer out answers via archaic keystroke systems that the muscle memory of her fingers barely recalled. Incredibly, she barely finished in time, taking up the entire 30 minutes.
+
+Finally, the fifteen-minute recording for her vocalised answers passed with agonising slowness, as five, ten, or fifteen-second answers all took the entire 20 seconds of recording window, regardless of her expertise in nuance.
+
+Finally, after three mind-numbing hours, she stumbled out from the Lab, [Stamina] running below half, to emerge into the afternoon light.
+
+It was done.
+
+She had no idea what she would score, but 5 was the only acceptable tier. Her answers had no umms, no doubts, no unnecessary pauses. If she were in a boardroom full of Sony Executives, none would take offence at the Gaijin’s pronunciation.
+
+Eppie then topped up her [Stamina].
+
+She would go to the gym.Then she would run. She would eat.Then sleep.
+
+Eppie, like a copyright-protected, sock-sniffing Elf, was free.
+
+Saturday.
+
+Rather than window shopping or enjoying a quiet coffee at the university parklands, Eppie found herself doing chores.
+
+This week, her rostered role was the kitchen. Halle, the bathroom. And Ava, the linen.
+
+Ten minutes in, Josefina was livid.
+
+Halle had apparently never scrubbed a loo in her life. Ava had never darned linen in her life.And Eppie… had never in the last twenty years cleaned her own kitchen.
+
+Like fish on dry land, the girls flopped about, transforming the Latina from helpful dorm mum to a slipper-wielding demoness. It took them three hours to do the work her dorm mother usually performed in forty minutes to her satisfaction.
+
+“Mother Maria!” Josefina hollered, half filled with rage, and the other half with pity. “Halle, you spent a hundred dollars on that haircut, and you can’t scrub a bowl! Ava, your mother has the hands of a working woman, and yet you can’t refit your own fitted sheet! ¡Mira esta porquería, Eppie! What are you doing? You can’t use dish soap on the Caesar top!”
+
+At 12:30 PM, the girls fled.
+
+After a morning like that, no one was in the mood for Yoga. Halle said that she had a movie with friends, and Ava had dinner with a cousin just outside of campus.
+
+And so, Eppie Fontaine, possessing “limited” funds but a wealth of time, decided to visit an old haunt and put some old ghosts to rest.

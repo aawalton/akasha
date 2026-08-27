@@ -1,0 +1,147 @@
+---
+id: bfe7fedd-4097-5a38-9e47-299ecab83033
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 Lightning strikes"
+slug: 0037-chapter-32-lightning-strikes
+partOf: melody-of-mana
+position: 37
+ownLength: 2418
+unit: words
+ownProgress: 2418
+publishedAt: 2021-07-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/724031/chapter-32-lightning-strikes"
+royalRoadId: "724031"
+markedReadAt: "2026-06-29T22:27:29.993Z"
+---
+
+I had a real issue as summer began to crest once again. My clothing was getting out of fit, I'd not bought any in a good while and while I could make some adjustments, I was growing straight out of it. The only solution was to go and get new ones.
+
+Normally I kept only one or two outfits at any one time, since they were quite expensive. This time though I decided to buy an extra one that could be a bit more formal, in case I needed to make visits to anywhere fancy in the next year or two. To ensure that it would be used enough to make it worthwhile I had it made a bit big, with extra cloth behind the seams so they could be moved to increase the size to a fairly good degree. My hope was that it would last me at least until I was thirteen or so.
+
+With new clothes also came new shoes. It had been too long since I'd seen Sorn, he came by The Sky every now and then, but we just moved in different areas of the city now. So I made a point to go see him.
+
+"Hey there Sorn!" I yelled out as the bell to his shop rang behind me.
+
+"Oi, look at you!" We smiled at each other, even exchanging hugs. "So, I can guess why you're here. What are you looking for today?"
+
+"Work shoes and boots of course. When have I ever needed something else?""I don't know, but if you're going to go out on the town you'll need something eh?"
+
+"Nope, just the normal. How are things by the way? The shop looks good." It really did. I could tell just from the look of things that he was getting plenty of customers.
+
+"Been good, other than a scare last week."
+
+"Huh?"
+
+"Some noble got ambushed down the street. They locked down the whole area to talk to everyone and try to find the guys who did it."
+
+"You're kidding me!? Did they get them?"
+
+"Not that I know; the men who did it slipped into the undercity and got away. There were guards going over every nook and cranny. They even ripped up half of my basement trying to find a way into whatever tunnels those idiots used."
+
+"Attacking a noble is a pretty big deal. Were they from another group or something?"
+
+He shook his head. "Rebels if I had to guess, you haven't heard about the goings on outside the capital have ya?"
+
+"No, I guess not..."
+
+"Got a letter from a cousin a couple of weeks ago. Half the country is in some level of rebellion. They're trying to keep it quiet, since it's mostly bandits and the like, but there are still signs."
+
+I blanched as I thought that over. "You don't think the Empire will attack us again do you? We'd probably not be able to fight much right now."
+
+Sorn snorted. "They've got it worse than us. Most of our stuff is just small unorganized groups. Some idiot calling himself 'The Lord of Shadows' has started going after them, and he's taking huge swaths of their lands."
+
+"What's the story on him?" If there was some rumors, particularly ones that weren't a threat to us, I wanted to hear them.
+
+"Not sure honestly. There's not much anyone knows, save that some of his mages are pulling some terrifyingly powerful magic out of nowhere. Higher order stuff, at least that's what I've heard."
+
+"Scary, I hope they stay over there."
+
+"Me too Alana. I've seen enough fighting to last me several lifetimes. On a happier note, I'm getting married come winter!"
+
+"Huzzah! Someone I know?"
+
+"Doubt it, but um... could I ask for a small favor?"
+
+"Depends on what it is."
+
+He moved behind the counter and pulled out a small box. Inside it there was a little orb, covered in runes. "This is a little security device, but it requires a huge amount of mana. Stuff like this is also technically not something I should have, but... I want my Jana to be safe, ya know? She got it from her father, but don't know anybody who could do it up for her. If ya don't mind?"
+
+It wasn't a big deal to me. I'd never seen this particular item before, but I had been charging up stuff for a good long while now.
+
+Lucien had even taught me some new things about devices. For example, it was easy to put mana in, but it could also be drained. Draining mana from a device was orders of magnitude harder than putting it in, but it was possible. The only exception was your own mana, which could be pulled out with hard, but doable effort.
+
+The runes themselves were some kind of language based on math. That wasn't overly surprising. It was interesting though that it could also represent concepts, and was a full language. Many of these items could be made by a single caster, but advanced works required many, and multiple types. The runic system worked differently for each as well, depending on their method of casting.
+
+That said, books on the subject were expensive and hard to find, and Lucien refused outright to teach me the language. There were guilds and agreements and the like which specified who could do so, and he did not want to run afoul of those. He also explained that while he knew it, he was no expert, and didn't craft items himself.
+
+I nodded, placing a hand on it and letting my mana flow inside. I was nearly drained when I had to stop. "You weren't joking about it taking a lot of mana. It's just over half and I'm slammed."
+
+He smiled as he saw the workings of it. "Tell ya what, finish it off when you come to get your shoes and there'll be no charge on them."
+
+"Fine, fine, but this is your wedding present too. That really is too much mana."
+
+It was about a week later that the shoes were ready. Sorn for his part, had done a magnificent job on them. I finished filling up his item before I left, skipping out the door. It wasn't too bad, and both of us seemed to think we'd gotten the better end of the deal.
+
+As fall arrived I found myself with Dras, making our way deep into the upper part of the city. Both of us had worn our best, so as not to stand out too much amoung the crowd of rich folk and nobles, to limited effect. Ignoring the stares and the following eyes of the guards we made our way forward.
+
+The Academy of Mages was easy enough to find, being that it was the second tallest building in the capital. it was also mercifully close to the edge of the noble's district, rather than deep into it. On most days the gates were shut and locked tight, but today was different. Today was the day that prospective students might take the entrance exam.
+
+Neither of us were nearly old enough to take it, but that mattered little. Our mission today was to go in and scout out what Dras needed to do to pass the exam. The arena where the practical portion took place was easy enough to find, but there was a small issue.
+
+A man in midnight blue robes stood beside the door to the visitor's seating. He was a lanky kind of guy, in perhaps in twenties. He gave us a deep and appraising look.
+
+"I doubt you two are members of our student body. You're certainly not nobles here to scope out potential talent. What exactly are you two here for?"
+
+"I want to see the tests and what they involve, sir." Dras didn't back down, looking at the man straight in the eye. "It is my understanding that anyone can observe."
+
+"That is technically true, but we generally do wish to know who is in our school and why." It was clear that we weren't getting in without some explanation.
+
+"I'm Dras, this is Alana." I waved to the man, observing his aura. He was strong, not nearly as strong as Lucien or Mystien, and he had nothing on the sheer terror my dad could give off, but strong. Dras' voice broke through my musings on that. "I want to join the academy when I come of age. So I'd like to see what is required."
+
+"Ah, prospective students, I see. Observing the practical won't help you much, but it is permitted." He seemed a bit amused by that.
+
+"Why won't it help us?" I asked. There seemed to be a hint of something truly important there.
+
+"Because the practical is not really a series of tests. There are a few of those on basic mana handling, but judging by your auras you two would easily pass those. It is primarily a demonstration of the abilities that you've learned before coming to us. The grading scale is based on their power, and how you use them. Finesse is just as important as strength. Therefore, everyone's practical exam is different."
+
+"Hmm, what about the written then? I don't suppose you'll tell me what it covers?"
+
+Whoever this man was, and I was guessing a member of the staff, found that very amusing. "Generally speaking, it covers basic math, reading, and writing. On the wizard side there is a slightly higher weighting toward math, needing a basic understanding of algebra and geometry. There is a higher weight given to the ability to rhyme and craft prose on the bard side. For priests there is a section dealing with common beliefs and practices of their order, should they belong to one. A current study guide can be found at any bookstore catering to casters."
+
+I nodded along with what he was saying. Dras looked like he wanted to faint, but that wouldn't be helpful, so I just led him into the arena to watch after bidding the interloper a good day.
+
+"How am I supposed to learn all of that? I can do basic adding and subtracting, and I can do a little bit of multiplication and division, but what even is geometry?"
+
+"Math involving shapes, it's not too hard. We'll work on it together." I had frankly aced geometry when I'd taken it, trig too. I was not at all worried about that section, as long as the basic ideas held.
+
+We found some seats in a visitor's section, well back from the actual action. It was difficult to see what was going on down there, but readily apparent why they'd put us so far back. There were perhaps a half dozen students currently going through their practical, and the one that launched a bolt of fire into the stands by mistake was the first to go. It had hit well across from us, but the blaze it shot up was impressive. The extra space to react, and I was guessing some wards based on how that fire had quickly gone out, were certainly welcome.
+
+Several groups came and went for their practicals. Those that were obvious failures, like the kid with the firebolt, were removed once it was clear they wouldn't make muster. The others ended up spending quite some time before they were escorted out. Most of these took around half an hour to go.
+
+Watching the proceedings was really close to useless. There were too many different techniques, and too many different methods for us to truly understand what they were looking for. Seeing the clear fail states didn't really help either, because most of those were just out of control magic.
+
+After two or three hours we left, both thoroughly frustrated.
+
+"That was a waste of time," Dras complained.
+
+"Not at all. We learned that it would probably be best to focus on the practical. Let's go get one of those study guides!"
+
+Dras grumbled but assented, and we made our way to a nearby bookshop. The girl manning the counter looked at us like we were something dirty on her shoes, but got us the study guide, the cost of which we split. I was interested in it easily as much as Dras was, and his expression when she told him the cost made me decide I wanted to read it too.
+
+The book itself was not overly large. It was about as big as a textbook ought to be, and dense. We'd gotten a small sealable case to go with it, leather with a watertight seal to keep it dry even in bad conditions. It fit together over the book like closing a waxed box.
+
+Dras had it in a small carry sack as we picked our way towards home, going down a side street.
+
+Suddenly the world was bleached blue-white. A thunderous 'BOOM' and the smell of ozone hinted as to what had happened, and it was nearby. We ducked as people started running, Dras pulling me into the nearest wall.
+
+There was panic everywhere as everyone fled the area. I was still a bit stunned when I heard the shouting. Several men where pulling a boy, around fourteen and dressed in some of the nicest finery I'd ever seen, down the street. Behind them arrows flew, every man had one or two bounce off armor with a few lodging themselves in flesh. On the other end of the street another group was forming up, ten or twenty at the very least.
+
+The shout went up from one of the groups now quickly advancing down the street we were stuck on.
+
+"Take them all down boys, leave nobody alive." My blood froze, there was no way these men would leave us alive.
+
+Dras, for his part, was thinking much more clearly. He ran forward to a grate in the street, quickly levering it up and out of it's spot in the road.
+
+"Alana! In!"
+
+I didn't have to think. I ran forward, nearly jumping into the potential exit from the deathtrap of a road. Several of the guards, and their charge, followed us down with haste. The others were stopped from doing so by another earthshattering explosion just outside the hole. A few of the soldiers who were too close to the opening were cooked, the rest of us fled down the unknown corridor. Anything had to be better than what was behind us.

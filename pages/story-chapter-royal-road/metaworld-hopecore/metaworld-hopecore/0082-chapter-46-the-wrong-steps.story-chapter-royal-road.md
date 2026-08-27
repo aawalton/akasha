@@ -1,0 +1,267 @@
+---
+id: c84621fd-ed7d-5a1b-8a00-2714b61ea92d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 46 - The Wrong Steps"
+slug: 0082-chapter-46-the-wrong-steps
+partOf: metaworld-hopecore
+position: 82
+ownLength: 4318
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3430100/chapter-46-the-wrong-steps"
+royalRoadId: "3430100"
+---
+
+"The duende does not come at all unless he sees that death is possible."
+
+Federico García LorcaPlay and Theory of the Duende
+
+With the papers delivered, there was nothing left for the girls but to wait until the rest of the performances were done, and should they choose to, attend the after-party. Unfortunately, as the anchor of the Fall Gala was Valorie’s musical theatre Antigone, and William Chen was one of the organisers for the party, Eppie’s only choice was to bounce. She wanted to thank the people who had supported her thus far, such as Costello, Seyrova, and Susanna Tyker, but her gratitude would have to be expressed in other ways once school resumed, in the form of flowers, chocolates, or cards.
+
+The drive from LAPA to El Cid took thirty minutes in two cars, Paco’s truck and Mateo’s minivan. From their choice of daily driver, it wasn’t difficult to discern that the bookish younger brother had lived a different life from the eldest.
+
+Eppie and Zara sat in the back with Itiziar, who profusely thanked Eppie for giving her daughter the incredible opportunity to “breakout” as a musician. Eppie refused any and all thanks, stating that Zara deserved it as much as anyone, considering Eppie was musically illiterate in August.
+
+Ten minutes in, Zara was asleep on her shoulder, and the conversation ceased. With the sweet scent of her partner’s perfume acting as aromatherapy, she also found herself drifting into a semi-conscious daze. Her stamina might be topped up, but her mental threshold for stress, she guessed, was made of less [System] driven stuff.
+
+With each traffic light, sensations drifted in and out of her consciousness, leaving only the impression of Zara's temple against the side of her jawline, a cool arm weighing against her sore shoulder, and Paco’s brand of solitude through the speakers.
+
+She woke when the car stopped, Zara a half-second later, both of their groggy heads resurfacing into the amber light of Sunset Boulevard like newborn babes.
+
+"Llegamos," Paco said from the front, and the crew alighted at the fabled “El Cid”.
+
+According to Paco, El Cid was a relic of his grandfather’s time. It had been there since Paco was a child, and when his mother was a girl. The massive signage, lit by spotlights, looked like a relic carved by folk from the droving days. The double-door, French-window entrance was only half-open, making the frontage small and intimate. The interior was dark but ambient, giving the vibe of a secret threshold to another country.
+
+The owner, from what Eppie could see, was a barrel-chested Andalusian who looked like he used to wrestle for money. It was winter, but the man wore a shirt a size too small, with meticulously ironed collars that drew her eye to his fine chest of curly hair. He introduced himself as Rodrigo.
+
+Her suspicions were confirmed when Paco graced her side, and the two men embraced, clasping hands like in that popular meme of masculine cooperation, and bumped chests. Some inexplicable Spanish ritual then followed as the men spoke low and fast, too fast and too Castilian for Eppie to understand with her bronze Duolingo Spanish.
+
+"Mis chicas," Paco said, presenting Eppie and Zara with a flourish.
+
+Uncle Rodrigo kissed Zara on the cheek, then stopped dead when he reached her. He looked at her tattered uniform, her makeup, then gave Paco the most judgmental look she had ever seen grace the face of anyone.
+
+Paco’s face turned to tanned hide. “Es teatro, Rodrigo.”
+
+Rodrigo shook his head, refusing to believe his friend.
+
+Paco growled like a kicked coyote.
+
+“I’ll get changed,” Eppie offered before a fist fight broke out. Unlike Zara, who could wear her stage costume to dinner, Eppie had been in a ravaged schoolgirl for almost 12 hours. “That’s probably for the best…”
+
+Something else in Spanish was exchanged in secret. Carmen laughed, Mateo snorted, and Pilar slapped her knees. Paco rolled his eyes and directed Eppie to the women’s room.
+
+When she emerged again in her all-blacks and layered casuals, Eppie finally had the chance to study the interior of El Cid. Her immediate favourite was the Spanish terracotta, which gave the diner a kind of ethnic authenticity. The walls were filled with memorabilia dating back to the 40s, mostly framed photos of old-timers and musicians. There were a few enormous portraits, though, and these caught Eppie’s eye, especially a life-size sepia print of a woman mid-stamp, skirt frozen mid-wave, while behind her, on a stool, sat a man with a classic guitar—Flamenco. Everything else was best described as vintage, for the low-iron lighting fixtures and the chairs with new and old stitching suggested love and constant use over any attempt to impress Instagram bloggers.
+
+The playing stage was already occupied by a pair of old musicians. The dance floor was enormous, clearly built for a different age, when public dance halls were the norm and the public was well-versed in various forms of ballroom dance, both formal and ethnic.
+
+She sat down in a rowdy private section where the Spanish was bouncing off the walls. No one asked if she wanted Cava. Eppie sat, and there it was, a glass of crisp, dry bubbles in gold, teasing her hoarse throat. Eppie drank, feeling the wine slide down her throat to infuse her tiny fifteen-year-old body even as Lana’s eyes rolled in her skull at the pleasure of something so familiar.
+
+Then she choked. She grabbed a tea-towel and dumped half a mouthful of bubbles from her nostrils onto the absorbent fabric. She coughed.She hacked. Eppie’s virgin [Persona] had never known the pleasures of Spanish Cava.
+
+Carmen stowed the bottle to rub her back while Zara helped her clean up. She was beyond embarrassed, but the men seemed immensely amused by her antics and offered to top up her glass to save her from distress.
+
+“Pass the Sangria,” Carmen gave the men the evil eye, then poured Eppie a glass of pale red amber liquid in pieces of sherry-soaked fruit. “Here, this is probably more to your taste.”
+
+Actually, I am not allowed to drink alcohol at all… Eppie wanted to say, but she accepted the cup and sipped, gently this time, and savoured the soothing sting of the fragrant elixir.
+
+Food arrived without her ever seeing a menu. Patata bravas, crisp and honest, sitting in a dark sauce. Gambas in a rich, garlic-soaked paste. A plate of jamón as translucent as skin was joined by ripe blocks of melon. The bread was oily, but the tomato emulsion baked into it was orgasmic. She was six plates deep before she realised that all she had eaten since the morning was Cooper’s party food. She was starving, her body demanded its due, and so she ate without ever refusing the endless row of plates from Carmen. As the girls pigged out, the Arriaga family talked over and around them in the easy manner of simple folk for whom food and conversation came as easily as a Samaritan’s Sunday prayer.
+
+By the time flan arrived, she spent [Causality] to keep digesting, lest she slip into a food coma. Following dessert for the Arriaga family’s golden-haired glutton, other plates were rapidly cleared. Patrons had since filled the dinner venue. Bottles were popped, and glasses were refilled, and a particular atmosphere was starting to materialise.
+
+By now, her brain was wool, the lights were fuzzy, and the guests’ conversations became murmurs. Eppie looked up from between her second and third flan to see three musicians already in place.
+
+What happened next was entirely in Spanish.
+
+First came a double-clack from the palmas, then the tocaor’s hand fell across the strings, his long fingers fanning the string so quickly that Eppie’s eyes watered, producing the unique tempo of rasgueado. The guitarists’ offhand crawled up the neck as if possessed by some demonic force, etching a sound that was impossibly crisp and clear, even as the compás beneath remained steady as a heartbeat. Twelve beats! Eppie paled, her hand twitching in tune as her [Clockwork Pulse] demanded redress. Her Mary Janes were moving with a life of their own. Either this was a side-effect of the [Trait], or her tipsy body was getting happy feet.
+
+“¡Eso es!” an oddbody called from beyond the curtains. One, two, three. One, two, three. One, two—went the metronome in Eppie’s head.
+
+Then the cantaor opened his throat to song.And the flan fell from Eppie’s hanging mouth.
+
+What emerged was nothing that Eppie had ever learned in any of her existing disciplines. It was older than that, it was quejío, a wail that split song syllables then threw out every excess until only the soul remained.
+
+The palmera performer clapped the compás in her palms. The beat was percussive and muffled, the sound of rain on a tin roof or a cheap window.
+
+The whole room was suddenly alive and breathing. Eppie couldn’t explain it. She had been to concerts with ten thousand people cheering in unison. She had Platinum-class seats at the US World Cup, but the feelings infiltrating her chest remained unexplained. “Is this Flamenco singing?” She asked Zara, whose eyes were aflame with the low, burning lights. “Not yet,” Zara’s smile was infectious. “Eso es el duende.”
+
+Eppie understood nothing, but she understood a little more the moment a flaming woman slipped onto the stage with a dramatic flair that put her Antigone to shame.
+
+The lady in noir was not young. She was in her late fifties, but could be older. Her hair was pinned flat against her scalp, her dress black, then carmine, then dark burgundy, covering her from neck to ankle as it sashayed.
+
+The palmera percussionist started the note. Then the lady’s feet began.
+
+More flan fell from inside her mouth, prompting Zara to recoil. The zapateado struck the wood of the dance floor with a sound that was both percussion and an impassioned argument in Spanish on a smothering summer night.
+
+The palms struck, the skirt swirled into life like living fire, moving a second behind the geometric arch of the dancer’s contoured body, as if physics itself were delayed. Her hands, elegant and white, carved the air at a pace that seemed independent from her feet. HER FEET! Eppie was halfway to squealing. She finally knew why the dance floor was polished to perfection. The pace at which the lady’s feet tapped and moved in sync with the rapid guitar work was [Sublime] beyond measure.
+
+She took another swill of her sangria. Rodrigo’s restaurant made damn good sangria.
+
+“Zara—” she looked to her right, but the girl was gone. Toilet? She could use the loo herself, if she had to be honest, but she wasn’t missing this spectacle for all the world.
+
+She watched the woman’s feet match the impossible cadence of the rasgueado, while intermittent interjections from the golpeador added yet another layer to everything.
+
+Before she knew it, the restaurant had arranged itself, something that seemed to happen often when Paco was around. Men, women, children, grandparents, and all had set themselves around the stage as if summoned by the sorcerous song from the cantor.
+
+“¡Agua! ¡Agua!” The old couple at the next table shouted, demanding more water from the waiter staff.
+
+"¡Así!"
+
+"¡Dale!"
+
+The room was breathing as one. In a minute, the cadence reached a climax. The dancer’s feet became an indiscernible blur of taps and heel kicks, her dress was a black-red flame, an erupting rose, a sunburst of sound—then, with a final, lingering triple note, silence.
+
+The diners roared and clapped. Eppie learned to breathe again. Stolen from its rightful author, this tale is not meant to be on Amazon; report any sightings.“Wow,” Eppie could barely keep her flan down. She turned to the owner of the establishment, who’d been standing behind Zara’s empty seat while talking to Paco. “Is this Flamenco?”
+
+“Sí,” Rodrigo gave her a curt nod, then leaned in. “Eso es el duende." She still had no idea what the phrase meant, but felt confident that she could guess. El duende was the spirit of this room, the people between the notes. Maybe.
+
+Rodrigo left to speak to the musicians and to bring them free shots of something far too strong for Eppie. She leaned back in her chair and patted her belly for a bit. The food had dropped a bit of her [Stamina], then the alcohol had done something as well. She wondered if, by topping up her [Stamina], it was possible to offset the booze in her blood. But even if she could, now was not the time to kill the best buzz she had experienced since landing in a hospital bed.
+
+She drank some water to hydrate herself and to accept what she had done today.
+
+She woke up as Antigone. She had told a black box audience that laws older than human laws existed. She had spoken to an old lady with an impossibly altruistic dream. She had potentially set Armand up for the next decade. She had sung her heart out with Zara. She had received flowers from Lucia Lancet. She had sold two songs. And somewhere in between, she had declared war against William Chen to his face.
+
+It had been a… very long day.
+
+An empty chair away, Paco was speaking to Carmen in low Spanish, shooting glances her way. Carmen was looking at her and giggling, her expression somewhere between amusement and concern. Eppie felt a pang of jealousy. The two were so close, so happy. Their ordinary happiness was something that the superwoman Lana never considered important.
+
+“Ahora es un buen momento,” Pilar announced something from across the table. Eppie hoped that it was a compliment. Beside Pilar was Zara’s father, Mateo. Looking at Mateo, Eppie could see where Zara got her jaws from, though clearly it was Itiziar who had given Zara her eyes. Her friend’s dad was watching her with a quiet smile he could not suppress. They were murmuring.
+
+Then Paco stood up.
+
+Uncle Paco wasn’t a tall man. He was clearly known to the patrons, for they all quietened when he took to the stage. "Perdón," he said to Rodrigo, to the room, to the faces in the dining hall. Then Paco switched to English, looked at Eppie, who sat by herself at the table with three empty plates of flan, and raised his glass at her. “My daughter—” the man paused, and Eppie understood he meant Zara as a Goddaughter, “was born singing, the day I met her at the hospital nursery. She was destined to be a musician.”
+
+Carmen made a shrill sound. Paco smiled without looking at his wife.
+
+“We did not know if her dream was real, but she showed us by being accepted into the best Arts School this side of America. Some of you may remember that day. We had a good one, four years ago, eh?”
+
+“Sì!” some of the men in the crowd horse-laughed. Paco waved them into silence.
+
+Eppie’s ears were blood red. She was staring at the tablecloth. Holy shit, Uncle Paco, give a girl some warning next time.
+
+“Still,” Paco continued. “The road to being an artist, a Charting Artist, is long and hard, and there are no guarantees. Yet, tonight, several hours ago, Sony Music gave Zara a contract for two songs.”
+
++ Karmic Causality
+
+There were gasps from the crowd and intermittent applause.
+
+“Zara did not write these songs. This girl did. This girl over there, with the hair that looks like spun gold—” Someone whistled. Eppie grew redder yet.
+
+“She did not have to share the songs. She is an accomplished musician herself. She did not have to ask Zara to help. She had her own connections at Sony. She is the God-Child of the big man there!”
+
++ Karmic Causality
+
+He raised the glass higher.
+
+“Her name is Euphemia Fontaine,” he said. “She is fifteen years old. She wrote a song for Father Parson at Reedley and gave it to the church, asking for nothing. I am fifty-two years old—” Paco’s voice suddenly cracked. The room grew quiet.The hard man swallowed his feelings. “—and I have never met anyone like Señorita Eppie. She has taught this old man something. Something I never knew in my youth. When you raise someone above you, it feels far better than lifting yourself.”
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+"Salud," said Mateo, raising his glass Eppie’s way.
+
+“Salud," said the table.“Salud,” said the patrons from as far as the door.
+
+Scarlet as a cherry tomato, Eppie picked up her mystically refilling sangria, raised her glass in turn, then sculled the lot.
+
+Then Zara came back.
+
+Her friend had changed into a new dress. A flamenco dress in searing scarlet, deep and red enough to touch the floor, made from the kind of fabric that hugged the body like a possessive nudibranch. Her hair, which had been in a bun, showed off the elegant lines of her neck and shoulders in a way that flirted with the sangria inside Eppie.
+
+Without a word, Zara came to her, and in front of her family and the restaurant, she held out her hand.
+
+The owner said something in Spanish, and half the place roared with whistles and laughter.
+
+Eppie knew when she was beat. She took Zara’s hand.
+
+The tocaor took this as the cue to start playing—in a second, the compás lifted into a tune that warmed Eppie’s body, triggering her [Clockwork Pulse] with a bulería groove that moved her feet unwittingly.
+
+“Follow me,” Zara’s breath was breathless and sweet with a hint of flan. “I know you can.” The girl danced around her, inviting her to join in. Zara’s bright red flamenco heels struck the floor, the clavo striking the wood in a staccato step that activated latent musical neurons in her brain that Eppie didn’t previously know existed. Carried by nought but rhythm and an [Agility] of 20, she did her best to follow, despite knowing nothing.
+
+This was a different stage from the Whitman Theatre. This wasn’t the music of conspiracy or the music of competition, or petty jealousy, or ego. This was—
+
+Trait Acquired
+
+[El duende]Causality Tier (A) “It is not a question of ability. It is a question of blood.”
+
+For your Karmic labours, the pantheistic powers that be have awarded you with the blessing of El duende. When the Usurper performs in a state of tragedy-inspired ecstasy, with a sense of proximity to death, audience resonance is greatly enhanced. Audiences with a high Karmic Resonance will perceive cardinal truths.
+
+This trait cannot be improved.
+
+Alright. Eppie acknowledged the [System]. This was el duende.
+
+“Eppie! Catch up!” Zara’s dancing reached a new cadence. Comparatively, she felt like a dumb log being pecked at by a flaming woodpecker.
+
+From somewhere in the room, someone started clapping. Then someone else. The compás spread outward from the stage like a wave, drowning the whole restaurant and everyone in it. Zara’s eyes flashed in the light, her body swirling around Eppie like a flaming flower.
+
+“¡Agua! ¡Agua!” Someone was out of table water again.
+
+Paco was clapping along. Carmen had her chin in her hand and was smiling at something private. Pilar was executing the palmas claras flawlessly. Zara's father was crying, as if his daughter had been given away to some wayward Californian boy from West Hollywood.
+
+Eppie was clapping along before she realised it, then—
+
+Trait Acquired
+
+[The Clockwork Pulse] Causality Tier (A)
+
+You can hold a perfect cadence. You feel the metronome in the marrow of your bones. You have the talent to modify, challenge and subvert the rhythm without breaking the law of the tempo.
+
+Beyond (A) tier, this trait can only be improved through Karmic Causality
+
+A second gift! All without a single spot of [Causality]! The system was generous indeed! Just as she was about to try out her new internal metronome, the music shifted.
+
+Eppie felt it before she understood, because she was so god-damn attuned to the rhythm. She could feel the minute changes of the guitarist’s blurring hands loosening into something faster, less fatalistic. The spontaneous had given way to the rigid.
+
+The cantaor grew silent. Zara stepped forward, and the skirt came up with a flash of her toned legs. Her arms opened. It was an invitation of sorts—a challenge—a tease. Eppie stood stunned.
+
+She understood the action. She knew the move.SHE KNEW WHAT TO DO. How?! Her [Memorisation] fired up all her remaining neurons.
+
+A long, long time ago, in another world, as a younger woman who still dreamed, Lana had a film that she watched over and over and over, because she was a girl, and even studious girls had their fantasies. Scott Hastings had been her teen crush, and his punk-rebel ballroom steps had given her tingles she was too ashamed to tell her mother, but not so ashamed as to wear out the rewind button.
+
+She stepped into Zara’s circle.
+
+It was involuntary, in a way, because [Clockwork Pulse] had a goddamned mind of its own. Her legs just kind of made the decision for her, much in the same way that her guitar playing was causality, moving her fingers independently of her brain.
+
+Zara saw her coming, and something shifted in her face, something joyous, something daring and inviting.
+
+I’ll show you Spanish dancing! Eppie heard the sangria talking too late, because a second later, she was doing the Scott Hastings thing. She became the matador: waist back, chin up, two hands above her head, index and fore fingers out as twin horns. Now. I am a Minotaur. No. She was a matador. Shut up! The sangria said. Just go with the flow.
+
+The guitarist almost lost the beat, and the clapping grew jarring for a second before picking up again. Zara, professional, Jerez-trained, almost tripped on her own heels before her face made a smile pretty enough to launch ships.
+
+The dress went up, another flash of calf, thigh and heel, then Zara became the cape.
+
+Years in the future, when Zara Arriaga became a household name, the patrons of the restaurant would speak of the night’s travesty in hushed tones, as if it were a dirty word that was nonetheless enticing and titillating. “It wasn’t Paso Doble.” Men would whisper in the dark.“It wasn’t flamenco.” “What is it then?”“El Flamenco Borracho.” Then, there would be a hushed, uncomfortable silence.Rodrigo would join the conversation, as if summoned. “No. Ea el Diablo,” he would say, then walk away, leaving the patrons with more questions than answers.
+
+In truth, Eppie’s legendary dance was something that had never existed before in any Federation rulebook and would never exist again. It was a dance created from memory and driven by pure instinct; her body unconsciously moved by [Clockwork Pulse] in response to Zara’s teasing staccato feet.
+
+She stamped. Zara swirled. She advanced, horn in hand. Zara retreated, skirt flaring, one arm arcing overhead in a move that was absolutely flamenco and absolutely a response to being led.
+
+Her brain told her that she was drunk and doing the man's part of a dance from a Baz Luhrmann film at a private dinner in a Spanish restaurant. The sangria shouted YOLO. Then, [El duende] activated, and she managed to catch Zara through the flaming cloth by the waist.
+
+“Wha—” her lady made the cutest protest as she arrested Zara’s hourglass waist with both hands and tried to advance as Scott Hasting did, her body low and folded, with perfect pose and control. “¡Ay, Dios mío, Eppie—ay—!” Zara’s protests came hard and fast as she was dragged across the floor like a weightless, life-size Flamenco Barbie. “Eppie—stop!”
+
+Zara’s parents made sounds as well, as did everyone else, wincing sounds. The musicians played while studying the ceiling. Eppie glanced down, past the skirt, past the one white leg, past her own delusion and saw that she had laid down her [Strength] of 20 as divine punishment into Zara’s dainty red feet, via her military-grade Mary Janes.
+
+Muse Acquired
+
+Strictly Ballroom Directed by Baz LuhrmannScreenplay by Craig Pearce
+
+[SYSTEM MESSAGE]
+
+You lack Causality Penalties have been applied due to Karmic ReciprocityPenalties are amplified by Prophet of Profits
+
+The cost of Baz Luhrmann’s virgin work was astronomical, but it made sense. There was cinematography, costuming, dance sequences and, most importantly, songs.
+
+Still strapped to her snap-trap arms, tears rolled down Zara’s paling cheeks. The dancer looked like a jilted wife who’d just been ravaged by her wife-beater-wearing husband. Gingerly, guiltily, Eppie returned Zara to her feet like a girl putting a broken doll back on its stand. The guitarist resolved into a rising rasgueado, and Zara's foot came down once at the same time as the clappers, final, fatal, like a door slamming for the last time.
+
+Silence.
+
+There was no applause. Someone sniggered, then the room burst into gales of laughter. Patrons who knew their Paso Doble could be seen rolling at the tables, bent down, knelt over, holding the chairs and tables for support. Rodrigo, having finally picked himself up from the floor, was purple from the neck up, muttering something about el Diablo.
+
+Eppie stood there breathing harder than she'd expected, her body a blow torch of embarrassment, sweat and sangria streaming from every pore.
+
+Zara looked at her for a long moment, wiped away her tears, then hugged her about the shoulders. Eppie welcomed the suffocation. If the [System] gave her extinction now, it would be worthwhile.
+
+Inhaling the citrus scent on Zara’s neck, she swore to never drink sangria again.
+
+“Eppie, thank you,” Zara’s whimper was that of Haydée’s plea to her Count, her indistinct murmur a millimetre from Eppie’s ear. “Thank you for having me.”
+
+“I am the one who is grateful,” the careless Count whispered back in slurring Inglese. “Thank you for being with me”

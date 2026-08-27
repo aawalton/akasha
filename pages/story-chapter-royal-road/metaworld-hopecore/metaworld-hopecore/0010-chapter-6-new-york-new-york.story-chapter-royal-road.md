@@ -1,0 +1,187 @@
+---
+id: 8e978803-04c6-5252-8027-a1127592ee4b
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 6 - New York, New York"
+slug: 0010-chapter-6-new-york-new-york
+partOf: metaworld-hopecore
+position: 10
+ownLength: 2008
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364625/chapter-6-new-york-new-york"
+royalRoadId: "3364625"
+---
+
+"One belongs to New York instantly, one belongs to it as much in five minutes as in five years."
+
+Thomas Wolfe
+
+Frederick Curon was a dual Director of the largest music publishing corporation on Earth, for which he was duly compensated, and then some.
+
+His pedigree came from American Records, but before that legendary run, he was a college dropout without an ounce of musicological knowledge. As a teen, he had grown up here and there, spending much of his youth navigating the tumultuous 70s in the Bronx and its surrounding boroughs, serendipitously hanging out with legendary musicians and trend-setters.
+
+On paper, it made no sense that someone without instrumental training could be the father of progressive punk, and that someone without roots in Hip-hop could be the stepfather of Pop-Rap, Crunk, and Instrumental-Hip-hop.
+
+Yet, Curon was born with an ear for sound, and though he was a master of no discernible discipline, he had talent for sifting gold from silt, a quirky genius whom the CEO of Universal would trade their better testicle to acquire.
+
+Such was the creative persona of Curon, a free-spirited, unorthodox hermit of musicology who drank instant coffee, loved his sushi, pressed his own cigars, and lived in Sony’s penthouse suites while dressing like a divorced suburban dad.
+
+On the flipside, Curon was also Sony’s Director of Data Science and Analytics. This was a division focused on pure data: audience analytics, marketing strategy, growth volumes, predictive earnings, and, in recent years, streaming and data fraud committed by their partner platforms.
+
+Curon was no more a statistician than a musician, and yet somehow his predictions were rarely wrong, which drove his team to madness. One such call to fame came when Curon told his then-executives at BMG to invite Rock veterans to collaborate with New School Hip-hop artists. BMG had thought him insane until, after a surprisingly drama-free collaboration lubricated by upfront cash and luxury, CordSmith‘s collab with Jump St went triple platinum in six months in 1986.
+
+Oftentimes, the data-crunchers at D&A doubted their own predictive modelling, because Curon himself was the source of so many outliers. Their “safe numbers” were more closely tied to the work of their current CEO, Trent Davis, the “Father” of successive generations of girl and boy bands. Sometimes, they felt that they existed solely to prove to the board that Curon wasn’t going to burn it all down.
+
+At any rate, Sony’s Creative Director was a busy man, but not because he was locked up in his penthouse office with a row of sycophants waiting outside. Curon was busy either working to death or not working at all, with nothing in between.
+
+“Sir, your 6 PM is here to see you.”
+
+The message was from his secretary, a vivacious ex-model who had given up her music dreams to be the gatekeeper of her peers’ dreams. Curon liked her because she was passionately brash and acerbic, perfect for keeping brash, entitled wannabes out of his den.
+
+“Send them in.” He swung off the hammock by the window.
+
+“... Is your workspace decent, sir?” His secretary carefully reminded him that HR being on his side wasn't a reason to create work. There were a dozen incidents over the years when, having left everything everywhere all at once, visitors to Curon’s office had leaked company secrets of album drops, collaborations, and cancellations. “I should also remind you that smoking indoors is still banned, and that one of your clients is underage.”
+
+Curon looked at his desk.
+
+Like his suite itself, the answer was no.
+
+As much as Sony wanted to emphasise creative space, the suits in charge still subconsciously filled the Director’s offices with mahogany, marble, stained oak and dark leather. Curon’s mess made the grand luxe aesthetic worse, for he had gifts, instruments, a half-packed Christmas tree, music sheets, photo frames, and awards, all haphazardly stashed in the same way that a suburban dad would stock a garage.
+
+“... I’ll meet them on floor 28,” he spoke to the intercom. “Send them to my usual table at the Club. Let them order what they want. I’ll be there shortly.”
+
+“Yes, sir.”
+
+The intercom light faded.
+
+Now. Curon rubbed his hands together, a maestro anticipating the inspection of a new and unusual instrument. Let’s see what species our healed hatchling turned out to be.
+
+***
+
+Eppie was so hungry that she could eat a horse, and so was very pleased when the concierge guided her and Eric up to the famous double-storey atrium of 27 & 28 with its wishbone stairs, home to the Sony Club.
+
+She was even more surprised when, without pause, they were ushered into the Club, rather than the cafeteria.
+
+Finally, she was uniquely shocked when, rather than the vista of Manhattan at night, they entered a windowless room to arrive…
+
+At a sushi bar.
+
+“Rasshai!” shouted the middle-aged chef poached from Iron Chef, gesturing to the hand-carved wooden seats, of which there were only five.
+
+They sat.
+
+Eric was turning pale.
+
+“What’s wrong?” Eppie tugged on the man’s primly ironed sleeves. It was a fresh set that he had changed into as soon as they landed. “Want me to help with your jacket?”
+
+“I… er…” Eric remained polite as he stared at the chef. “I don't eat fish.”
+
+“Allergies?” she cocked her head.
+
+“No, no… I… I can’t stand to look at them. My father fished a lot; he used to gut them right there and then.”
+
+Indeed, behind the traditional bar setting, they could see a tank with living ingredients, including some with tentacles.
+
+“Rasshai!” The chef announced the arrival of their host.
+
+Curon arrived with the air of a king, then bade them sit, his eyes moving past Eric toward her. “Good work, Eric. And you…”
+
+The Director’s gaze swept over her Velour. “You clean up well, Miss Fontaine.”
+
+“I tried.” Eppie gave the man her best. “There’s more to work on, but I was only recently stitched together.”
+
+Curon laughed. then subtly gestured to the Iron Chef. “This is Kuromon-san. Our Japanese CEO from Sony brought him over, and I’ve kept him on ever since. Had I not jealously guarded Kuromon-san, he would have earned a few Michelin stars by now. He knows what I want, so you two should order what your eyes fancy.”
+
+Eric’s eyes dashed about the room. “Sir… is there a menu?”
+
+Neither the chef nor the Director answered her lawyer. A lesser observer might think that the man was being bullied, but the fact of the matter was that having them in this private space was already the height of accommodation—and that this place did not, in fact, have a menu.
+
+“O-shibori o douzo!” The chef presented them with hot towels. “O-nomimono wa?”
+
+Her new friend, the twenty-something, non-fish-eating Canadian from Newfoundland, stared at the chef. “I’ll… have the rice. Please.”
+
+“Arigatou gozaimasu. Shun no osusume no nihonshu o kudasai,” Eppie came to Eric’s rescue, wondering if there was karma involved.
+
+Curon almost spat out his tea. Wiping his chin, he gave her an admonishing look. “No Sake for this one,” he said quickly. “Kanojo ni wa kawari ni soda o onegaishimasu.”
+
+The two of them met one another’s gaze.
+
+“You surprise me more and more, Miss Fontaine.” The Director pursed his lips.
+
+“I took Japanese as my World Language,” Eppie explained. If need be, she also spoke a bit of Spanish, tourist French, and enough Chinese to make her clients laugh. In truth, not only was her Japanese excellent, it was corporate-tier. “I am not very fluent at it.”
+
+She then turned to the chef and bowed her head. “Tomodachi wa sakana ga nigate nanode, nikuzushi o tsukuremasu ka?” She explained Eric’s fear of fish and asked for meat.
+
+Even Kuromon-san was impressed.
+
+“See?” Eppie made a sad face at the director. “My fluency is only so-so.”
+
+The Director shook his head and bid her order while he organised his thoughts. They made some small talk about the flight, the trip, her school and her plans while the sushi was plated set by set.
+
+Kobe nikuzushi for Eric. Otoro and Chutoro for herself, followed by uni and scallop.
+
+Curon dined on a custom set the chef had prepared with intimate care, washed down with the occasional sip of warmed sake.
+
+“I'll give you two sessions,” her employer said, raising two fingers. “Monday, and next Tuesday. Three hours each. If we’re not done after that, I’ll bring in my own people. To capture initial momentum, the clock is ticking. Even with marketing, Whatever Will Be, will lose heat very soon.”
+
+“Done,” Eppie replied, sipping her Yuzu lime pop. She was confident. After all, the [System] did not lie, and only she knew the song in its authentic entirety. “Easy peasy.”
+
+Neatly folding his napkin, the Director sighed in wonder. “Easy, huh? Tell you what, if you manage the master, I’ll bring you up here again. And I’ll help you make a new friend.”
+
+Curon looked like he wanted to pat her head, but thought better of laying hands on her petite frame. Instead, he laid his hand over her fingers in a fatherly manner. “You have given me great expectations, Fontaine-san.”
+
+“Goshitai o uragirimasen.” Eppie bowed. I won’t betray your expectations.
+
+This time, even the stoic chef roared with laughter.
+
+“Eat as much as you want,” Curon bid them sit once more when he rose to say goodbye. “Outside of this building, you’ll be paying a week’s rent for Master Kuromon’s most modest set.”
+
+Her first night with Eric was in a twin room at the Warwick.
+
+Her chaperone acted all hypersensitive, but Eppie was completely unfazed. Their rooms were, after all, merely connected, and other than the occasional sound of Eric’s laptop and his heavy suitcase, they were largely living alone.
+
+When she finally disrobed to thoroughly self-care after a long flight and a gluttonous dinner, she once more studied the impact of the [System] upon her wellbeing.
+
+It was true that her [Persona] had a lot of growing to do.
+
+Her body was that of a malnourished young woman, unremarkable for now, though age and [Comeliness] would eventually fulfil their promised potential. Perhaps, at some point in the next decade, her [Karma]-forged exterior would bring ocular joy to folks in many ways, but for now, she was happy that Eppie’s figure was demurely androgynous but for her face.
+
+Slowly, she split her neck-length hair aesthetically around her slender neck.
+
+The woman formerly known as Lana was a career woman, and while she had graced many magazine covers as she rose through the ranks, beauty had never been her forte. Perhaps this time, it could be a new avenue to explore.
+
+This [Persona] was her body now.
+
+One worthy of perfect health.
+
+For now, what she found most intoxicating was Eppie’s youth.
+
+Like a curator of Florentine marble, she admired the tenderness of her skin, the suppleness of its buttercream texture. There should have been scars, cuts and bruises, bookmarks of violence left from Eppie’s past, but the [System] had taken care of it all.
+
+She poked herself in the belly, where her skin was taut and toned.
+
+Was this body susceptible to harm?
+
+She looked at the glass cups the hotel provided, but chose not to create a misunderstanding.
+
+Was this body pliable by means of pharmacology?Perhaps she could slam five Red Bulls and find out.
+
+Could she expend karma to negate fatigue, since she could already avert fatal injury?
+
+“[System], convert [Causality] to [Stamina].”
+
+[Stamina] replenished.[Stamina: 28/28]
+
+Only a smidge of [Causality] was used for 6 [Stamina].
+
+“Ooo,” she whistled to herself.
+
+Eppie’s face, gifted with that golden ratio, was very good at lighting up a room. No wonder Eric, Frederick, and even Kuromon-san were all smiling back so wholeheartedly.
+
+She concluded her sanitation routine, then ventured to the bed as a woman too poor to afford PJs. Thankfully, the thread counts of The Warwick were high, and the bed was plush and soft.
+
+Her only problem, she realised too late…
+
+[Stamina: 28/28]
+
+“Fuck…”

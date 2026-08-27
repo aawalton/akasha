@@ -1,0 +1,231 @@
+---
+id: 26994092-41ce-51a0-bfed-83b1d33fbfb0
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 67 - Am I Wrong"
+slug: 0115-chapter-67-am-i-wrong
+partOf: metaworld-hopecore
+position: 115
+ownLength: 2967
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3587122/chapter-67-am-i-wrong"
+royalRoadId: "3587122"
+---
+
+"Choose thou whether thou wilt know it,"
+
+William ShakespeareTitus Andronicus Act III, scene ii
+
+They stayed at the hospital until night fell, taking turns holding baby Nozomi. Zara was a natural, cradling the child with a tenderness that put Mrs Mio at ease. Eppie, on the other hand, held the child as she would a cat, making Nozomi burst into tears and Mrs Mio’s hypertension apparent.
+
+Eppie tried bottle feeding the baby as well, but the child knew instinctively that hers was a [Persona] and not the true flesh and blood of a living, breathing, normal human being, and so refused nourishment from a karmic aberrant.
+
+Thus rejected and feeling dejected, Eppie sat as Zara, Mio and Mrs Mio talked for hours about babies, a topic both Eppie and Lana knew nothing about, unless Nozomi needed a trust fund. As for that, Eppie had a concept of a plan for Nozomi’s birthright, but she wouldn’t need to choose until May.
+
+Somehow, between breastfeeding, bathing the baby, and teaching Eppie how to mix warm milk in a bottle and test the temperature, night had descended, and it was time for her and Zara to go back to Hotel Basque.
+
+When Mrs Mio finally left for home, and the baby had slept, Eppie worked up the courage to recant a part of her revenge tragedy.
+
+“You don’t… have to help us,” she said softly so as not to wake Nozomi. “You deserve better, Mio. The plan. William. All of it. You can just…” she gestured at the porch, the street, the whole unglamorous okay-ness of it. “Let go. Live in peace. You don’t have to be on that stage and deliver the lines. You don’t…"
+
+Thanks... [System], for the Pavolvian conditioning. Mio was quiet for a moment. Down the corridor, someone else’s baby was crying for milk.
+
+“You don’t think I should?” Mio looked at her with a stern expression uncharacteristic of the girl she knew as Lana-Eppie. Her rhetorical was a question and an accusation.
+
+“But you have Nozomi, happiness,” Eppie whispered. “And I’ve been dealing with William this whole time. He is… unpenitent. He sucks out happiness like a vampire. Valorie knows the truth now, as well. She’s shaken, but she refuses to act on it. There are people here who love you. Think about that instead.”
+
+Mio offered her a hand when she grew too agitated to continue without raising her voice.
+
+Eppie took it.
+
+“Thank you, Euphemia.” Mio held her skinny hand with her tiny hands. They were both petite women. Girls, really, even if Mio was now eighteen.
+
+Mio looked down at Eppie’s fingers. “But have you thought that, maybe just once, I want to say what happened out loud? Even if I am Lavinia with her tongue cut out, in a room where people have to listen.”
+
+Eppie’s chest shuddered. For Mio, it wasn’t about justice, or vengeance, or revenge. It was about closure. It was about… airing the pain.
+
+“Okay,” Eppie said. The choice was Mio’s. Just as William’s choice was his to bear.
+
+“Thank you,” Mio hugged her from the bed. “I am so happy that you’re here, Euphemia. I am so glad… for what you’ve given Nozomi.”
+
+Eppie embraced her former friend, fusing with her maternal body. Her [Persona] absorbed the warmth, the milk scent, the motherliness, but her soul recoiled at Mio’s softness. She hoped she was right. That beneath Mio’s closure, it wasn’t just a friend making a sacrifice, that it wasn’t Mio saying yes because Eppie hoped for a closure herself—closure via the utter and unconditional destruction of William’s perfect world.
+
+Hotel Basque on a Saturday remained as busy as ever, with its regulars and tourists who had come to try the authentic food. Carmen and her sister Pilar ran here and there, having no time to look after the girls other than to bring them the sumptuous chow.
+
+Zara played, because Zara always played when she was in town. It was less a request than a house custom, the guitar coming out the moment the after-dinner lull set in, and the regulars settling back as they'd paid for a show they hadn't. Tonight, Zara kept the music sweet and sombre, thinking of Mio giving her bonnie baby the breast.
+
+Eppie ate. Or went through the motions of it. The tortilla soup was good, the chargrilled skewers and tapas were better. She had already made up her mind to “Let it go,” insofar as her opinion on baby Nozomi went, and she knew, as the [System] knew, that she should be finding ways to convert William, somehow, so that Nozomi’s life wasn’t amiss as an heir to the Omnia Empire.
+
+But the man was so god damned unpenitent, so arrogant in his belief in the privilege of the rich over the poor, the powerful over the powerless. How was she going to change that?
+
+Her phone buzzed against her thigh halfway through the skewers.
+
+The meat fell from Eppie’s lips.
+
+Mr Biscuit? The black-and-white tuxedo cat?She recalled vaguely that he was skittish and unfriendly, and that he came and went after eating or sleeping for a few hours when it got too cold. Mr Biscuit was an old stray, one that didn’t trust people and hated being touched.
+
+And before she could stop it, before there was any reason to, her mind went straight to William.
+
+For Christ’s sake, she told herself, you were always thinking about William. She might be more obsessed with William than with Valorie. The number of times she thought about William in a day was definitely not healthy.
+
+William was on file, kicking one cat—and had threatened Mio as well, but there was no reason some guy with an impeccable reputation would go around harming the local stay population—not while he’s busy tearing up Valorie.
+
+It just wasn’t logical.
+
+She put the phone face down on the table and tried to rationalise Mr Biscuit’s demise.
+
+It’s Winter. It's cold. An old cat who dashed in front of a car going too fast on campus is far more rationally sound than William going around punting strays in an overcoat. By that same logic, CSULA didn’t just have one William. There were definitely people who would speed up when a cat was underfoot, or about to go under the bonnet. People were sick like that.
+
+Zara finished the piece with a chord that didn't quite resolve, mirroring her unfinished song, and a smattering of polite applause went up. She came back to the table and slid into her seat, breathing a little harder than the song should have warranted.
+
+"You good?" Zara asked, reaching for her water.
+
+"Yeah," Eppie said, which wasn’t so much a lie as it was a deflection.
+
+They ate. Or Zara ate, properly, while Eppie pushed her spiced rice around a plate with the focus of someone defusing a bomb strapped to a cat she barely remembered five minutes ago and now couldn't stop seeing.
+
+Paco came around eventually, wiping his hands on his apron, and dropped into the empty chair across from them without asking, the way he did everything. "Eat, eat," he said, eyeing Eppie's plate with theatrical offence, and then proceeded to eat off it himself, to prove that it wasn’t poison. He distracted her with the trucker's running feud with the jukebox, about Pilar's opinions on Sacramento farmers, about the seeding, the harvest, about Father Parson’s celebrity choir. Eppie found herself eating again because Paco was really that intense.
+
+Nonetheless, the shadow of her [Usurper] sat at the table with them anyway, and it would stay until May. Eventually, the regulars thinned out, the lights came down a notch, and Eppie and Zara said goodnight to Paco and went upstairs.
+
+Eppie showered first. Then tucked herself warm into bed while Zara performed her absolutions. Before they slept, Zara sat on her bed and parted Eppie’s bangs where they covered Eppie’s face.
+
+They spoke a little while about school, about Sony, and about music. Then Eppie pretended to drift off to sleep, so that her friend could sleep as well.
+
+Sunday.
+
+The drive back to LAPA was quiet in the way of a girl’s trip. Sunday morning traffic was light going north; the valley gave way to hills, which gave way to the basin's orange smear of light. Eppie watched the 99 turn into the 5 turn into traffic.
+
+She called Eric on the way and described everything to the best of her ability, which went very well. Eric gave her their best and repeated the advice that Eppie should accept Mio’s choices. She told Eric about Mio’s choice, and her Newfoundland grew silent.
+
+They chose instead to talk about the Grammy. Eppie promised that, next time, for her Grammy, she would petition for seats for Emily and himself.
+
+Noon, Eppie and Zara ate Carmen’s takeaway for lunch next to a park overlooking the valley, then reached LAPA in the early afternoon. Hugs were shared in the blessed presence of Eppie’s roommates, who came out to see what incredible deliciousnesses Carmen had given Eppie this time, after which Zara went home to report to her parents.
+
+At night, Eppie went to the Stray Cat Society to see Lim about Mr Biscuit.
+
+When she walked in, Lim was already there, cleaning out the litter boxes and changing the water. They had it easier in winter, but the warmth, food and accessibility also brought more cats than usual.
+
+Biscuit was one of those vagrants, showing up only when the nights grew too cold.
+
+“Hey,” Eppie said. “Biscuit’s been taken care of?”
+
+The big man nodded. “It’s a shame.”
+
+“A shame?”
+
+“I would have preferred if he limped back here instead,” Lim sighed. “To die alone, cold and injured behind a dumpster, is no way for a cat to go.”
+
+She opened her arms. Lim accepted the hug.
+
+Then, while arrested by Lim’s enormous body, she was struck in the chest by the man’s next question. “How’s the baby?”
+
+“Very cute,” she answered into his chest. “The cutest baby I’ve ever seen, and Mio will be a wonderful and loving mother.”
+
+They finished cleaning the trays. The giant sat in the dim light, stroking two cats at once. Lim said nothing, for there was nothing else to be said about his and Mio’s lost potential.
+
+Such was the [Causality] that William Chen had usurped.Such was the babe that William Chen had brought into the world.
+
+Monday started with a bang.
+
+Valorie, without subtlety, reached into her bag and pulled out something in an Ikea zip-lock, then, in front of the Seniors, pressed it into Eppie’s hand.
+
+For a terrible ten seconds, Eppie thought that Valorie’s revenge took the form of a bag of marijuana, or even a batch of Walter White’s Blue Sky. If this were some kind of mutual destruction, it would certainly land them both in the dock in short order, permanently removing their roles as Lavinia.
+
+Then she looked down and saw that it was a pair of underwear.Her underwear.
+
+“Ah…” Eppie quickly scrunched the thing like it was meth, only she had no pockets in her theatre blacks. “What’s this for?”
+
+The other Seniors were already murmuring.
+
+“I found it in my drawer,” Valorie said, looking at her with a gaze that was between calculation and disappointment. “I figured it was yours.”
+
+“You found a pair of a stranger’s underwear, and you figured it was mine?” Eppie looked around. Sure, she didn’t have Val’s figure, but this was Theatre. The girls were all in decent shape. “That’s… not how deduction works…”
+
+“I checked the label,” Valorie said coolly. “80% cotton. Kmart Essentials. XS.” She looked around them. “Who else would wear—”
+
+“YEAH—that’s mine,” Eppie ran back to her bag, stowed her missing underwear, then returned to Valorie. “... Thanks, I guess?”
+
+“Don’t mention it,” Valorie kept stretching.
+
+“Umm…” Eppie averted her eyes from sin. “You’re not curious?”
+
+“About what?”
+
+“About—” Eppie rolled her eyes.
+
+“Okay, I guess you’re not curious.” Eppie caught herself. The hell was that?
+
+“No,” Valorie said coldly. “I am not. We need to focus on the play.”
+
+“Okie dokie,” Eppie’s own curiosity burned, but it's not like she could grill Val on why William put her underwear in Valorie’s drawer. The sheer fact that she had an underwear draw in what can be presumed to be William’s house already spoke volumes about their relationship.
+
+As they were in the third week now since the auditions were finalised, Tyker had brought in costumes for the players to try out. Sound, light and props had also been assigned, bringing another layer of excitement and business that made Eppie painfully aware of the need for a Gantt Chart.
+
+A matter of particular interest to the two Lavinias was the matter of their mutilation. The obvious thing to do was to paint Valorie’s hands black, then use stage make-up to mimic the wounds. Tyker, however, wanted the moment to be truly shocking. She didn’t want gore; that would be cheap.
+
+She wanted something artistic yet horrifying, in true performance-arts style, that would make parents talk in awe for years to come. Eppie had no particular idea either until Cooper floated the notion of setting aside a budget for an SFX props. For some reason, she thought of Vaughan, of what Vaughan had done with the smell and the sound and the projection mapping…
+
+She would send her “Art Ally” an email.
+
+After that, Senior block ran long every day, Cooper moved the “Senior Theatre Company” into full blocking on Act I, and Eppie, who was their resident amateur, spent most of her time learning the ropes from Valorie, who did not seem to mind teaching her.
+
+Wednesday.
+
+Eppie listened to a man scream in her face that her [System] wasn’t real.
+
+“I say—I say—God is dead!!!” James Jules howled in her face, reading with such gusto that a spittle landed on Eppie’s expensive sweater.
+
+She braced herself.
+
+“YOU ARE PULLING DOWN HEAVEN AND RAISING A WHORE!”
+
+Clearly, someone was salty over their roster budget submissions.
+
+“Thank you, Mister Jules…” Kirby coughed gently. “Eppie, are you alright? Do you need a tissue?”
+
+The act of kindness drew more attention to her than anything else James Jules could have said or done. She received the tissue from Dr Kirby and wiped down her sleeves. James apologised, and the class engaged in the collective mirth known as watching Eppie act in strange and funny ways unbefitting of a fifteen-year-old.
+
+“Look at where Mills puts the line,” Kirby worked the projector. “Note the stutter. Mills doesn't give Proctor eloquence here. Proctor is a broken man. His entire belief system is broken.
+
+She let that sit before turning to the board, where she'd already written the second line in block letters: RAISING UP A WHORE.
+
+Better not let the Power that Be know see this—Eppie had to admit that, once an Atheist, she was now at least an Agnostic.
+
+“Proctor isn't apologising for adultery anymore,” Kirby noted. “He's telling the court that they are the ones committing the real sin: elevating a lie, Abigail's lie, to the status of scripture, while burying the truth under procedure and fear. There’s nothing whorish about Abigail's capture of the system. It's about what the court has chosen to worship. Power. Complicity. Stability. The community chose this over truth, justice and compassion.”
+
+Kirby paused, scanning the room—and, Eppie noted, lingered half a second too long on her face, as per the [System]’s instructions.
+
+The English professor tapped the board once, on the word ‘whore’. “Mills wants you uncomfortable with that word. You sit in discomfort. You ask yourself if the death of truth is worth the lives of everyone else in town who still need order, the law, and stability—or—if personal justice is worth burning down Salem.”
+
+Friday came.But it wasn’t the relaxing TGIF Eppie had hoped.
+
+Instead, it was the beginning of a three-day marathon.
+
+From: [email protected]To: [email protected], [email protected]Cc: [email protected],  Date: Friday, 8 February 2008, 8:14 AMSubject: GRAMMY WEEKEND — Full Schedule, Culver City (please confirm receipt😁)
+
+Hi Eppie (and Zara!),
+
+Grammy weekend is officially upon us 🖖 exciting, I promise, even when it doesn't feel that way at 6 AM on a Saturday. Full schedule below. Please read it twice. Sony's covering the Sofitel block in Culver City for the duration; rooms are already assigned, keys waiting at the front desk under SONY [Your Name]
+
+SATURDAY — ARRIVAL, FITTINGS, AND STRATEGY
+
+10:00 AM: gathering/check-in, Sofitel Culver City. 11:00 AM: costume fittings (Mirabelle's team flying in for you👸👸👸). 1:00 PM: props/accessories review and final measurements — this is the last chance to fix anything, so flag issues now, not tomorrow. 3:00 PM: speech run-throughs (I don’t think this applies to you, this year). 6:00 PM: welcome reception (label folks + team only). 7:30 PM: strategy meeting—run-of-show, press list, "approved" talking points,🤐 who's sitting where. Curon's running this one personally. 🙃Evening: final wardrobe check, early night strongly recommended.
+
+SUNDAY — GRAMMY DAY
+
+1:00 PM costume and makeup. 4:00 PM limo departs Sofitel. 4:45 PM arrive venue, red carpet begins. 🤩5:30 PM red carpet wraps, pre-show mingling. 6:00 PM doors close, seated. 6:30 PM ceremony begins—opening performances. 7:00–8:30 PM award categories roll (yours is mid-block, exact placement to follow). 8:30–9:15 PM marquee performance block. 9:15 PM Album/Record/Song of the Year, closing performances. 9:45 PM show wraps; after-parties begin (optional, since you can’t drink 🥳).
+
+ACTION ITEM
+
+That's everything!!🤩🤩🤩
+
+Maddy
+
+PS: You're joining Kellie on stage.
+
+Madeline Filmore | Junior Artist Relations | Sony Music Entertainment
+
+Eppie breathed in. Eppie breathed out. Like a weird dream come to life, it was finally happening.
+
+Her first Grammy. Not as the capital investor sitting in the VIP rows. But as it should be—as an artist.

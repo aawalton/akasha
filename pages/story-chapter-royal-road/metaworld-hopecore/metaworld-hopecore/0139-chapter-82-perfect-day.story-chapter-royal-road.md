@@ -1,0 +1,147 @@
+---
+id: c564e6fb-3345-5de0-a50e-ae2f7fbe19e6
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 82 - Perfect Day"
+slug: 0139-chapter-82-perfect-day
+partOf: metaworld-hopecore
+position: 139
+ownLength: 2633
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3735764/chapter-82-perfect-day"
+royalRoadId: "3735764"
+---
+
+"That's a lovely song. A description of a very straightforward affair."
+
+Lou ReedOn Transformer
+
+Call time was 4:40 AM, which was par for the course for conservatory kids like Eppie and Zara. After all, even if Eppie had on-campus accommodations, she was up and about before 5:30 AM due to her running and yoga schedules. Zara, meanwhile, lived 35 minutes away with morning traffic, slept at 10 PM and was usually up by 5 AM.
+
+They'd lingered in the lobby that morning over a photo of Judy Garland beside the 124 Munchkin actors said to have stayed there during filming. Then a PA collected them from The Culver Hotel next door and delivered them to the cul-de-sac while the sky was still dark.
+
+Deb was already in the wardrobe trailer with the heater running and two mugs of instant coffee steaming on the counter, yesterday's ageing-down makeup held overnight under a silk wrap. The girls’ costumes were already steamed, hung and ready to be donned.
+
+While their makeup was being done, Mrs Okafor came in and gave Eppie a supportive, if sceptical, look.
+
+“Morning, girls.” Eppie’s teacher held a folder instead of a coffee, looking all business. “Big day ahead. Miss Euphemia Fontaine, are you aware that production has filed a minors' work-hours waiver for this shoot? Citing early exteriors and night exteriors both, same calendar day?”
+
+Eppie nodded. There was an email, maybe, somewhere, that mentioned this. Maddie would not have agreed to the schedule otherwise.
+
+“You are approved for a fifteen-hour window from call, not a minute longer,” she said sternly. “You are also entitled to a break of at least one hour. Once your hours are up, today is done. Are we clear?”
+
+“Crystal,” Eppie nodded again.
+
+Outside their trailers, the set tech had completed the miraculous work of unseen artists all too common in the cinema business. Now, two houses faced each other across the cul-de-sac's dead end: Eppie's, pale blue with a white picket gate and a bike dumped on its side on the lawn; Zara's, low and brown-shingled with a basement window at grass level, half-shuttered, less white-picket, looking slightly more working class.
+
+In the open spaces between the houses, Condors stood at the corners like cherry-picker sentries, HMIs shrouded in black wrap and waiting to be unshrouded. Twelve-by-twelve silks hung from stands at the tree line, ready to soften whatever the actual sun did or didn't do. Reggie moved through the middle of it with a travel mug and a headlamp, calling numbers to his electrics, watching his men run cable and sandbag the stands in the gloom. Eppie spotted a harnessed electric up in the sycamore, clipping a small bounce card into the branches like tinsel.
+
+“Good morning, ladies!” Priya materialised out of the grey with both call sheet and eye bags. She exchanged a nod of acknowledgement with Mrs Okafor, then addressed the girls with a business-class smile. “We start as soon as you’re done. Webber says we’ve got ninety minutes before the light gets boring. Sunrise first—then breakfast!”
+
+The girls exchanged a single greeting with Webber before they were placed into the set itself.
+
+“Swing first,” Webber said, directing Eppie to the rope swing from the sycamore tree. “Then the grass, standing, walking, sitting, lying down. We alternate between you and Miss Arriaga. Your placements are already marked. Who wants to go first?”
+
+Eppie raised her hand. If nothing else, she needed to show Zara how any of this worked, especially as she had no idea how most of it worked.
+
+From what she could see in her peripheral vision, Bram was crouched behind the Beaulieu on its tripod, one eye shut, an incident meter cupped in his palm. He thumbed something on the lens barrel, the aperture, she guessed, but had no idea if it was for technical reasons or for artistic vibes. Behind him, Reggie had a bounce board tilted low across the grass, waiting for their starlet to shine, while one of his electrics swung a black net onto a C-stand between the sun and the lens. "Watch your highlights, Bram," Reggie called, receiving a grunt from Bram.
+
+This is all black magic… Eppie mused. She was keen to learn, but now was not the time.
+
+Unlike the boots-loving Zara, Eppie, guided by [Script Analysis], carried her Converse to the end of the porch, only to step away into the grass barefoot, symbolising her role as a child of nature. With her piggies out and about, she took to the swing in a slow arc, toes trailing the dirt groove worn into the grass beneath it.
+
+She did all of this without elaborations from Webber. Her [Physicality] was informed by her [Script Analysis], with six months of tutelage by Costello and Cooper, vivified by [Act Natural], while passively enhanced by [Hitting the Mark] and [Love the Light].
+
+Her balayage highlights fluttered as the wind tossed her hair; her head swung back, drifting in the moment, lost in the characterisation of her role, a svelte flower girl of the careless nineties, pining for the cool friend next door with secret feelings she did not understand herself.
+
+“Whoa…” Webber remarked despite himself. Bram’s camera rolled, capturing Eppie at her most natural, not yet knowing that a supernatural something akin to uncanny perfection was being etched onto the innocent celluloid film in his Super-8.
+
+For the next shot, before Eppie even lay down, a PA swept the patch of grass for anything sharp or damp while Mrs Okafor, standing behind the equipment, nodded with approval. Webber crouched to her eyeline. “That was spot on. The light’s perfect right now, so let's channel dreamy Halcyon days, like you're listening to a song—you know which song. Chin down, arms by your side, don’t block line of sight to your face—Good!”
+
+Following Webber’s blocking, Eppie lay back into the grass, its fecund scent cool and damp against her shoulder blades, smelling of cut lawn and loam.
+
+“Rolling,” Bram informed them from half a metre away.
+
+"Action—” Webber called.
+
+Eppie lay in the grass and let the light hit her just right, accentuating her cheekbones, her baby-blue eyes, the orange-glow of the rising sun, the warm emerald of the grass, and the slow rise of her chest as she looked toward the mark to the right of the camera, then to the mark on a stand, then toward the sky. Unbidden, she reached for the clouds, her long, thin fingers grasping at nothing, then her eyes looked downward, toward herself.
+
+“Cut—” Webber offered her a hand. “Next scene.”
+
+They did one take at the pastel room's window, gauze curtain, then another of her on the porch, in her shoes, staring forlornly at Zara’s door with eyes that gradually softened and lips that secretly curled.
+
+Eppie’s segment took fifteen minutes, leaving her partner with forty to work out the kinks.
+
+From behind the Beaulieu, Bram Halloran was starting to fear for the safety of his drive home. He did this because filmmakers were a superstitious lot, and with Euphemia Fontaine, everything had gone down too well—well enough that filming Fontaine was analogous to taking a long relaxing spa at a Japanese Onsen.
+
+Bram was an experienced DP with a resume for hundreds of music videos, dozens of films and a few theatre productions. He had a rule for shooting kids and inexperienced actors, particularly famous ones. The rule was this: three good seconds out of every minute, if they were lucky. Between distractions, overcorrections, mistimed blinks and their face drifting off the mark, a good DP learned to treasure what could be filmed by chance.
+
+Then there was Euphemia Fontaine, whose eyes never moved a millimetre off mark at f/2.8.
+
+He told himself, for the first two takes, that the format was doing the work. Super 8's frame was minuscule after all, 5.79 by 4.01 millimetres of image, a postage stamp against the 35mm standard. If the girl drifted an inch off her mark, it was still forgivable. There was a reason why the format was a favourite of amateurs and film students, not to mention home video.
+
+But over time, things got weird. Frame after frame, her eyeline found the stand-mark, held, released to the sky with no hunt, no correction, just the actual point in space Webber had envisioned. He found her light on the grass take without a single adjustment from Reggie's crew, framed her face at the window at precisely the angle that let the panes reflect her face without her looking away, not even once. Somewhere around the fourth take, near the porch, Bram noticed he'd stopped trying. He just followed her striking face through the viewfinder, allowed his own artistry to flow—and it somehow all worked out.
+
+He was sweating by the last take, because anything going this well meant misfortune was on the horizon. Then it was Zara's turn, and the light, which up to that point had been behaving like an obedient extra, was no longer so friendly.
+
+Eppie watched the crew rush to the opposite side, equipment in tow, and work on Zara’s mirroring shots. She watched at first with mirth, then with patience, and then… with worry.
+
+Zara hit her mark, missed her light, hit her light, missed her mark. She overcorrected a smile into a grimace, undercorrected a glance into nothing at all. Priya's face went from patient to studied. Webber stopped giving line readings and started giving gentle commands, all the while doing his darndest to smile.
+
+Eppie wasn’t sure what she had expected from Zara, but Zara was bad enough to teach her why directors hated working with amateurs, animals, and small children. What was worse was that Zara knew she was bad, and she was genuinely remorseful—which made her all the more flustered.
+
+And yet—it was a necessary pain. She could not be with Zara forever, and if Zara wanted to move between musician and pop star, she would need to learn to love the lens and all its technicalities. The best Eppie could do for her friend now was to give her a safety net, while allowing her to experience the triumph and the frustration at their highest and lowest.
+
+And then, with maybe five minutes of usable light left in the whole morning, something in Zara simply stopped fighting itself, and the take that came out the other side made everyone sigh with relief.
+
+Eppie did not lament the cost for [All the World’s a Stage]. She owed it to her friend—the time and effort everyone else put into the morning.
+
+Nobody could explain the turn. Bram looked relieved instead of angry, which was a good outcome.
+
+“CUT,” Webber called, and then, to no one and everyone: “There goes the light. That's the take, folks. Genuinely good show! Now, enjoy breakfast!”
+
+Eppie relaxed and moved to comfort Zara and shore up her confidence. As for Webber, she knew that filmmakers, like thespians, were a superstitious lot. For a shoot, snags were natural. It was the smooth sailing that got a director worried about the safety of everyone on set.
+
+Breakfast was folding tables and steam trays under a pop-up tent. Webber ate standing up with a monitor cart wheeled beside him, watching this morning's video tap playback, Bram narrating technical notes with his mouth full.
+
+“It was incredible, I tell you,” Bram said, tapping the small screen. “I didn't miss a pull all morning.”
+
+“You’re that good,” Webber said, smirking.
+
+"I'm experienced," Bram agreed, "but not this good. Nobody’s got micro adjustments this good.” He scrubbed back to the window shot, froze it on Eppie's face at the exact angle with the blurry grass at the corner of the frame, her enormous blue eyes reflecting the orange sun. “Ninety per cent of this is usable. We got thirteen minutes of footage, and we only need 27 seconds of it.”
+
+Webber scrubbed through the frozen frames, the swing, the bare feet in warm light, the face against grass, the reflective window, the gauze curtain, the forlorn gaze toward Lot 2.
+
+“The other girl?”
+
+“Out of her forty minutes, maybe two minutes usable at the same quality,” Bram said sadly, and yet, he sounded relieved. Webber felt it too.
+
+“Yeah…” Webber stuffed the iced doughnut down and looked away from the monitor to the girl holding her friend’s hand and telling jokes to cheer her up. “Let's get the bedrooms set up.”
+
+The indoor shots were static and easy, if crowded and hot. There was no fighting the sun, but that also meant being slow-roasted by Sol’s four practical lamps being bounced off a card taped inside the closet door to create the atmosphere of an ambiguous memory.
+
+The idea was that the footage needed to look like something someone's mother had found in a shoebox. To create authenticity by intent, rather than chance, was the artistry.
+
+As before, Eppie led the charge. She sat on the bed, reading a book with a cracked spine that props had dug up from a second-hand bookshop. She sat at a desk that was half the size of Lana’s designer furniture, and did homework for a normal high school that didn’t exist, chewing a pencil with unperformative boredom.
+
+She lay in bed while Bram stood on a ladder over her, harnessed and supported by a spotter in case he fell on her, with and then without the J-45 across her belly. She did this all in one take, and the crew went quiet with a strange reverence, afraid that speaking too loudly might spook the magic.
+
+Zara's basement room took two hours.
+
+It wasn't the light this time, or the marks. Without the benefit of age or [Script Analysis], Zara could not understand Webber’s intended vibe, nor produce something she didn’t comprehend by chance. Try as she might, the Spaniard looked like someone who had wandered into a stranger’s room, rather than a carefree dreamer who lived as she wanted, heedless of her middle-class migrant parents' best wishes.
+
+They did a dozen takes: Zara on the bed, Zara on the floor, Zara writing music. It was only when she played the guitar—soleares, specifically—that she looked the part.
+
+Priya rescheduled around her twice. Webber knelt at her eyeline, on his knees like a kindergarten teacher, and narrated a whole life story for her imagined character.
+
+Somewhere in the second hour, her [All the World's a Stage] took its pound of flesh. Close enough to actual tears, tired and cornered and real, Zara’s frustration turned to churlish rebellion and true attitude, capturing the dreamer that Webber wanted for their short, impressionist narrative.
+
+Relief went round the crew like a passed breath.Eppie hugged her friend and felt Zara’s body tremble against her tiny frame. Early-on-set-PTSD, as it turned out, was real.
+
+“It’s okay,” she told Zara. “You did well. We got the take. Well done! If you were half as good at theatre as you are on camera, you’d be killing it. Let’s break for lunch…”
+
+As an imperfect hypocrite who had cheated her way into mastery, Eppie had no particular wisdom to offer Zara other than what she once dispensed to her ambitious interns. Those who survived the 60-hour work week pressure cooker got raises; those who did not got shown the door. Watching Webber working with Zara, her respect for Cooper, Costello and Seyrova grew exponentially, realising that dragging out a student’s true potential was infinitely more difficult than simply telling them what to do.
+
+Should I pick up a teaching degree? Eppie pondered the possibility very seriously. Could I, with all the gifts of the [System], instruct others holistically?
+
+Just as she pondered the future, her nostrils rich with the scent of Zara’s citrus-scented hair, lunch arrived at the cul-de-sac unannounced, after which the crew went wild.

@@ -1,0 +1,185 @@
+---
+id: 4a635503-1d9d-5750-b427-453ef5c6d298
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 565 - A Tree-mendous Day"
+slug: 0065-chapter-565-a-tree-mendous-day
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 65
+ownLength: 2570
+unit: words
+ownProgress: 2570
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2294858/chapter-565-a-tree-mendous-day"
+royalRoadId: "2294858"
+markedReadAt: "2026-06-29T19:37:22.489Z"
+---
+
+Tala and Rane slowly meandered back down the branch toward the teahouse where they’d reserved a large room.
+
+Even with their slow pace, they were near the front of their family all vaguely headed to the same destination, even though they were, momentarily, dispersing in every direction.
+
+A few had even decided to head to the end of the branch and the viewing platform there. Osip was among that group as he wanted to see more of the city that would be his home for the foreseeable future, and he was excited to see as much as possible with his family.
+
+Even those that headed back toward the trunk didn’t take the straight path, ducking into myriad stores, shops, and other businesses along the way.
+
+The husband and wife didn’t need to enter anywhere, given their threefold perception, borrowed in Rane’s case. There were a few things of interest, but nothing really caught their attention enough to cause a detour. Thus, they walked arm in arm down the branch, simply enjoying the time together while hugging the side of the road so as to not block traffic while they took their time.
+
+“Are you enjoying the time with your family?” Rane’s question was softly asked, and it drew her from her internal thoughts smoothly.
+
+“Hmm? Yes, I think so.” She frowned. “It’s funny. I want to be around them. I want to be known by them and know them in turn, but…”
+
+He waited, letting her process.
+
+“But, it’s hard to really care, you know? If any one of them died, I would be sad, I would mourn—at least I hope that I would—but my life wouldn’t actually change. Mistress Odera’s death—Master Girt’s as well—had a real, ongoing effect on my life, but in their cases, it was something that would have faded anyway with time. In the case of my family? It would really affect essentially nothing for me.”
+
+Rane hmmed but didn’t otherwise respond.
+
+“Am I a terrible person? I don’t want my family to die. I want them to live long, full, good lives. I even want to be in them when possible, but… I feel like whether they live or die doesn’t actually mean anything in my life… but that’s horrible… right?”
+
+There was another long pause, and so Tala looked up to her husband. He returned her look with a kind smile and asked, “Do you want me to just listen? Respond? Or something else?”
+
+“Respond, I think.” She then pulled herself against his arm, leaning her head on his shoulder.
+
+“In that case, I think the fact that it really wouldn’t change your day to day life, yet you still care, speaks to your concern. To be sad when someone who affects you every day dies just makes sense. In some ways, that’s a selfish grief, which doesn’t make it bad, just different. In the case of family, especially that which is somewhat removed from you, it is only a mourning of emotion, not one of inconvenience or resistance to change. There is no practical reason to weep, there is no justifiable cause for distress, yet still we feel the weight of the passing. We look at the relationship that has ended, and we wonder if we should have done more, seen them more, talked with them more. We wonder if we made their life better, all the while not usually caring if they improved ours in the least. Though, in some cases that does factor in as well.”
+
+Tala frowned. “Isn’t it selfish—just like you said—to consider how they affected me?”
+
+“Yes and no. Everyone around us affects us to some extent—family more so—but we usually mourn the potential loss more than the actuality of it.”
+
+She winced, hearing echoes of her feelings around her currently barren womb. Her free hand unconsciously moved to rest on her lower abdomen at the association.
+
+Rane leaned over and kissed the top of her head. “That is a similar sadness, yes. I think, though, the death of a family member has the added element of knowing who is lost beforehand and remembering them specifically after.” He smiled. “But I’ve likely said more than ideal. May I ask what brought up this thought of death? They are all whole and hale as far as I know. Did I miss something?”
+
+“No, no. They are all fine. It’s just that… Most won’t be alive in a hundred years, when you and I will be much the same as we are now. Even the Mages and soon-to-be-Mages among them likely won’t survive the century, at least statistically speaking. Is it really worth it to get attached?” She huffed a humorous laugh, amending, “More attached.”
+
+Rane turned to face her, guiding her off the road and up a little rise to a look-out point. Thankfully, there wasn’t anyone else there at the moment. “Tala, look at me.”
+
+She looked up at him once more, wetness in her eyes.
+
+“Yes. It is worth it. You already chose that when you chose me, even before I Refined. The love you feel for your family is greater for the coming loss, not less. You aren’t investing in them to gain anything. You aren’t spending time with them because you’ll be stuck with them forever. You love them—you actively choose to love them—because they matter to you, and they always will. Even when they are but statues along the Path of Remembrance, your love for them will remain, and they will continue to affect you for as long as you live.”
+
+The tears came then, and she pulled herself against him, his arms wrapping around her in a tight embrace as she allowed herself a cathartic cry. “I miss her so much.”
+
+He gave a squeeze, kissing the top of her head again. “I know. She would be proud of who you’ve become. Though, I’m sure she’d have found something worth improving.”
+
+That brought a barked laugh from Tala as she buried her head a bit more firmly against him. “She always did find a way to highlight my shortcomings.” After a moment, she added, “But it was always in the attempt to help me improve. It was never to condemn or bring me down.”
+
+“She was amazing.”
+
+They settled in there for a long span, allowing the city to flow by behind them on the thoroughfare.
+
+Some of their family noticed them as they passed, but seeing the couple’s close embrace, they each chose to give the two of them space rather than joining them.
+
+When she was ready, Tala pulled back, wiping her eyes and nose before smiling up at Rane. “Thank you.”
+
+“Of course. I’m always here for you.”
+
+“I know.” She went up on her toes to kiss him, and he bent down to meet her halfway.
+
+“Are you ready?”
+
+She nodded. “Yeah. Let’s get to the teahouse.”
+
+They traversed the rest of the distance in companionable silence and found that they’d still arrived in the first half of their group.
+
+The room they’d reserved was bustling as the family talked and mingled, enjoying the well-brewed tea and meticulously paired snacks.
+
+There were cards and other accoutrements set up at several of the tables, and a few of the people ahead of them were starting to play various games.
+
+Others were enjoying the view as they chatted, whether continuing to admire the surrounding landscape or people-watching on the branch laid out below their wall of windows.
+
+Tala and Rane exchanged a quick kiss before diving back into their role as hosts, moving from group to group, ensuring that everyone was enjoying themselves and no one was lacking anything that they needed at the moment.
+
+Tala felt as if a weight of self-imposed expectation had been lifted from her shoulders as she focused on the ‘now’ rather than trying to project each relationship to its inevitable end.
+
+In that way, she was able to see each person as a brother, sister, niece, nephew, and in-law rather than yet one more person that she would eventually have to bury and mourn in the end.
+
+-Yeah… that wasn’t a very healthy perspective.-
+
+Yet, you didn’t say anything?
+
+-Hey, I’m not perfect. I get trapped in most of the same mental quagmires that you do.-
+
+That’s… fair.
+
+Once everyone had regathered at the teahouse—and they’d had enough time to relax and socialize a bit—Tala and Rane drew them on to the ‘final’ activity of the day.
+
+They loaded up into open carriages yet again and headed all the way up to near the top of Makinaven. They then proceeded onto one of the upper branches. There they were let out at the large turn-about at the end of that branch road.
+
+“Alright!” Tala clapped her hands. “Many of you have experienced my gravity manipulation before, but not all of you have. For all who are willing to give it a try from either group, I am going to create an effect, so that we can jump off together and safely fall to the land below.”
+
+Many, many eyes widened—mostly in trepidation—even among the more magically inclined.
+
+“There is no pressure or obligation.” She gestured to the carriages. “For those who do not wish to do this, the carriages will take you to the base, where you’ll meet up with us for the introduction with Osip’s new master and our supper, before return teleportations begin.”
+
+That seemed to calm basically everyone. The ability to easily back out of the scary activity actually seemed to give most the courage that they needed, knowing that it would be their own choice either way.
+
+Tala had, of course, known that such would be the case. She didn’t really feel bad about the subtle manipulation, especially since they genuinely did have a choice. Still, she’d purposely presented it in the way most likely to get her preferred result.
+
+True to her predictions—and the advice she’d gotten and followed—once the tide turned, everyone agreed fairly quickly, even though some were clearly still a bit reticent.
+
+Soon enough, Tala was targeting all of them to reduce their effective gravity to a good, manageable level.
+
+What she didn’t tell them was that Rane was also extending his aura over everyone, and he would be actively keeping their rate of descent to a safe range.
+
+Even with greatly reduced gravity, the family would have reached dangerous velocities before reaching the ground without Rane’s help. Well, unless she continued to alter their gravity as they fell, or altered it so much beforehand that it would be a miserably slow descent.
+
+Regardless, Rane’s active involvement was one of the safety checks that they would be using.
+
+They had, of course, coordinated with Master Jevin, as he had a lot of magics in place to keep people from doing exactly this, whether on purpose or on accident.
+
+Tala could feel that the Reforged was watching, and he should be able to interfere in the unlikely event that something went catastrophically wrong.
+
+Even with all of that, Tala set her mental image of each family member as being not on the ground. In that way, their modified gravity would self-correct as soon as they touched the soil below.
+
+Thus, there shouldn’t be any awkward bouncing, or tripping, or tumbling upon landing.
+
+It took less than five minutes to enact all the alterations across the family, and many of the younger members, Sella included, were already bouncing about and giggling.
+
+Tala had instructed the carriages to stay until they jumped off. That way, no one should get cold feet by seeing that avenue of escape departing.
+
+Parents reiterated to their children—sometimes for the fourth or fifth time—that this was a one-time thing, and they couldn’t expect to jump off high things safely in the future. Once there had been a round of grudging acknowledgments? They were ready.
+
+Together, they all gathered on the edge, lined up hand-in-hand—or in the case of the little ones, being carried—and then, they jumped.
+
+There was a collective intake of breath as they began to drift down, speeding up slowly.
+
+Then, the laughter started as the reality of what they were doing settled in and everyone began to enjoy the almost-weightless feeling, taking in the unrivaled, unobstructed view around them.
+
+Tala had selected a place with a clear path straight down, so while they passed other branches, none were an issue in their descent.
+
+She grinned to herself as she felt Rane’s magics begin to bleed off their growing kinetic energy, keeping them to a sedate—but not ‘slow’—pace. She knew that the physical connection of the linked hands made it easier for Rane, but she also knew that anyone within their aura could be affected almost as easily. At least, that was true for any and all without the magical density or strength of will to actively resist him.
+
+No one in her family was even close to that level.
+
+Rane was incredibly skillful in his application of power, and he kept the entire group moving at a speed that was exciting while always remaining completely in his control.
+
+There were a couple of ‘incidents,’ of course. But none lasted, and none caused too much concern. In one, a child pulled free and started to drift away, causing momentary panic in both the child and the adults around him.
+
+Rane was able to easily impart some energy to move him back, and the child didn’t try to pull free again.
+
+In less than five minutes, they reached the last stretch, where the ground grew larger and larger.
+
+That caused another wave of concern to momentarily rise within the family, but Rane skillfully stole nearly all kinetic energy, causing an almost full stop just three feet above the ground.
+
+That allowed everyone to reorient before they drifted the last little bit down, their gravity instantly returning as soon as they touched down.
+
+There was a moment of stunned silence, followed by an explosion of laughter and chatter as everyone gushed and exclaimed, trying to describe or reference the experience that they’d just had.
+
+Moments later, different carriages pulled up—after all, there hadn’t been nearly enough time for those above to get down to the base of the tree—allowing the family to pile in, and they were off once again, heading to where they’d have dinner together and meet Osip’s master.
+
+The laughter and outpouring of joy and energy didn’t stop for the entire ride to the trunk of the great tree city, and it brought an unrestrained smile to Tala’s face.
+
+Rane had sat next to her for this ride, and she reached over and clasped his hand, speaking softly enough that even those crowded around them couldn’t even tell that she had uttered a sound. “Thank you.”
+
+“Of course.” He grinned back at her.
+
+“I mean it. The tree-jumping was a fantastic idea, and you made it both safer and more fun. Thank you, my love.”
+
+“Your family is my family. I am glad to be able to love on them so. It’s been a tree-mendous day.”
+
+Tala gave him a flat look, fighting back a bark of incredulous laughter. “You did not just make that pun.”
+
+His grin grew. “I did, and I’m not sorry.”
+
+She chuckled then, leaning in for a quick kiss before turning back to those around them, keeping his hand in hers for the remainder of the ride.

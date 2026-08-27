@@ -1,0 +1,333 @@
+---
+id: c558b663-c820-5561-a4fe-6028e6c87e34
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 48 - You Are My Life"
+slug: 0085-chapter-48-you-are-my-life
+partOf: metaworld-hopecore
+position: 85
+ownLength: 3747
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3442005/chapter-48-you-are-my-life"
+royalRoadId: "3442005"
+---
+
+"Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there."
+
+Rumi, MasnaviThe Great Wagon
+
+Tuesday.
+
+On the second day of the cleanup, LAPA put itself back together like a disassembled jigsaw puzzle.
+
+Once more, every student and staff member was drafted. Dancers carried boxes. Musicians swept. The Cinematics students stowed equipment in places only they knew. The Media Department burned the midnight oil, trying to release photos, footage and videos for social media. Everyone else wiped down or vacuumed everything else, working hand in hand with the regular janitorial staff.
+
+Eppie’s class was assigned to the Whitman backstage. With everything now removed, it was time to clean the floors, the walls, empty the bins, and put props back where they presumably belonged. Everything was logged, which was why the final clean-up took so god-damned long.
+
+Somewhere along the cleanup, she saw someone up in the projection room, watching her from up on high.
+
+It was William. She recognised the boys’ unique silouette.
+
+By noon, the backstage was done. By 1 PM, the auditorium was reset. By the afternoon, even Eppie was exhausted, but at the very least, LAPA was once more the performing arts high school she knew a week ago.
+
+Wednesday.
+
+For her final English of the Semester, Eppie encountered a glitch in the Matrix. Dr Kirby came in carrying printouts of their Winter holiday reading; only the Title and the Author section made Eppie perform a double-take.
+
+The Crucible. Atticus Mills. 1952.
+
+With exams done, portfolios submitted and showcases performed, the students were in no mood to learn. To motivate the students to read the play, Kirby crafted a summary, which James Jules read aloud in a theatrically trained voice.
+
+Salem, 1692. Abigail Williams, orphaned and powerless, conducts an affair with John Proctor, a respected farmer. When Proctor ends it, Abigail, fearing persecution, leads a group of girls in accusing Salem's women of witchcraft. Proctor knows Abigail is lying. To expose her, he must confess the affair and destroy his own name. Abigail bites back. Proctor is condemned. He accuses the High Court of “raising up a whore and pulling down the church”. He hangs for truth. The flawed hero dies with his name intact. The villainess survives with nothing but a box of stolen coins.
+
+Dr Kirby stood at the front of the room with immense patience, marker in hand, clicker in the other, and worked through the drudgery with the stoicism of a seasoned teaching veteran.
+
+“Thank you, Mr Jules. You may sit down.” Kirby looked over the sleepy class. “Allow me to append Mr Jules by stating that this is our third and final tragedy. Thematically, they are not just connected by death, catastrophe and civil disintegration—they are connected by women. Women’s bodies. Women’s voices. Women’s complicity.”
+
+Kirby writes, in her exquisite handwriting, the three titles.
+
+Antigone / Titus Andronicus / The Crucible.Antigone / Lavinia / Abigail Williams
+
+“Antigone speaks," her voice reverberated around the class. "She names what Creon has done. She invokes laws older than the state and accepts the consequences of her invocation. She is then silenced by the state, her body entombed.”
+
+Kirby marks her point across the whiteboard. “A woman speaks.” “Her voice is silenced.”“Her body is confined.”
+
+She moved along the X-Axis, one row down. “Titus Andronicus, we’ve all done it.”
+
+“Lavinia protests against her role as a political tool.” “Lavinia is silenced. Her tongue cut out.” “Lavinia’s body is mutilated.”
+
+She moved along the X-Axis again, one row down. “In the Crucible. Mills asks a subversive and terrifying question. It is a question that arises because his female characters are no less complex or capable of human horror than his men. What if the voice of the woman in question isn’t the truth? He asks. What if she becomes too powerful to be silenced? This isn’t misogyny, as some might protest. A woman has just as much capacity to lie, cheat, and orchestrate catastrophe as any man. This is not irony either. This is humanity without bias. This is veritas. So—”
+
+Her writing continues across the board.
+
+“Abigail Williams," Kirby's chalk moved across the board. She stopped.
+
+Ah shit. Here we go… Eppie groaned. She was glad, at least, that the only things that had discernibly changed were Miller’s name, some of the lines, and the order of presentation. History had a way of repeating itself. The Hollywood Ten was now Hollywood Eleven. McCarthy still happened. There was still an Edward Murrow by a different name, and the Red Scare still remained a traumatic stain on US history.
+
+“Eppie.”
+
+The class laughed. They were used to it by now. Dr Kirby was obviously tired, and she was in no mood to slowly work her way through students who couldn’t carry the Socratic Circle.
+
+“Abigail Williams is NOT silenced,” Eppie replied. “Miller’s tragedy operates on the profundity of the seventeen-year-old’s… voice… becoming amplified…”
+
+Eppie paused. She could feel, if such a thing could be felt, her [Script Analysis] doing the rounds. There were layers here. In one layer, a Samaritan who desired nothing but truth burns down the town and the institution. In a second layer, a seventeen-year-old makes a selfish decision that changes the trajectory of her life forever.
+
+“Yes, not silenced,” Dr Kirby’s gaze was raising the hair on Eppie’s neck. “She leverages the fear, the hysteria, the public paranoia, and she raises her voice until it could be heard across Salem and beyond, in Andover, even. And her body, Eppie?”
+
+“Er… Not confined,” Eppie tried to fight off the parallels. Was the [System] arranging the goddamn school curriculum via some providential karmic assortment?
+
+“NOT literally confined, though assuredly, as a girl, her virginity is the business of others.” Dr Kirby’s eyes finally left her face. “She talks. She walks. She watches fourteen people get hanged. Against our plays, one from Antiquity, one from the Renaissance, Mills delivers a different tragedy. A common man, and a common woman’s tragedy.”
+
+“Abigail speaks.” “Abigail is amplified.” “Abigail escapes. No prison. No punishment.”
+
+Dr Kirby completed the 3-by-3 grid. “Write this down.” The class did their best. Some of the students didn’t even bring their books.
+
+“Antigone is a tragedy of a woman entombed,” Kirby said. “Titus is a tragedy of a woman mutilated. The Crucible is a tragedy of a woman believed—each led to catastrophic outcomes."
+
+“And your book reports,” Kirby wrote the date on the whiteboard with a flourish. “Are due when I see you again, January 7th. Merry Christmas, everyone, and have a Happy New Year.”
+
+Evening.
+
+Eppie showered. Dried off, then sat in the silence of an apartment that had been emptied out. Her two roommates were already gone for the holidays. They had disappeared as soon as the Gala was over, and Eppie had not even noticed because she was out with Zara. It was only on Tuesday morning, when Mama Josefina came to tell her that she would be leaving for two weeks, that Eppie realised she was basically home alone.
+
+Her roommates had left her boutique chocolates, and Josefina had left her six portions worth of homemade taco ingredients. Eppie had given her companions nothing, though they had expressed great gratitude for the opportunity to see Lucia Lancet up close and to hold and take pictures of the flowers.
+
+Then she checked her email. Eppie was very glad she had decided to check her email.
+
+She was a shit boss. She did not deserve Ms Filmore.
+
+From: [email protected] To: [email protected] Subject: NYC — December 23rd — Please read in full
+
+😢😢😢Eppie😢😢😢
+
+If you do not reply or call by the 20th. I am driving down to LAPA in person. 😤
+
+Yesterday, a handwritten invitation arrived at the office via courier from Chief Curator Juliana Vaughan of the Metropolitan Museum of Art, requesting your presence at her private Winter Gala on the evening of December 23rd at her New York residence.
+
+😐 I could not, in good conscience, believe that you will refuse the woman who curated your Vincent, who came to LAPA to see you perform Antigone, who spent an hour talking to you, and now sends you a personal invitation.
+
+I did some homework, and this Winter Gala thing at her home is serious business. It’s where the stuff under the table happens. She’s inducting you into her inner circle. I know I sound a little 😜, but you have to trust me on this. This will make or break your career, whatever path you take.
+
+So I messaged her office from your phone with, “Yes, thank you, ma’am! It would be my pleasure. Happy Holidays!”
+
+Director Curon has been notified. He’s requested a budget for your trip. You’ll be going to New York, arriving on the morning of the 23rd, flying First Class. Take a cab. We’re covering the bill. While you’re in NYC, you’ll be staying at the Four Seasons. I freed up Sony’s artists’ suites for a week. Let me know if you need more time. Booking references and Tickets are attached. 🛃
+
+Warmly, and with hope.
+
+Maddy Filmore, Artist Relations | Sony Music Entertainment
+
+P.S. — I think you probably forgot to send cards and gifts, so I sent flowers, chocolates, and assorted gifts in your name to people on your contact list, chiefly 🎁CEO Davis, 🎁Director Curon, 🎁Mr Muller, Eric, and 🎁Emily. Also 🎁Armand. Did you know he sold the artwork? You should speak to him… assuming he hasn’t run away. If you wish, I can arrange the same for your faculty Chairs as well.
+
+Eppie collapsed in her seat.
+
+FOR THE LOVE OF GOD, GIVE THIS WOMAN A RAISE.
+
+She wrote a letter of profound gratitude to Maddy Filmore. Then wrote another to Daddy, asking for a raise for her Media Manager.
+
+Then she checked her [Stamina], left a few blocks empty, and went to bed, dreaming a little dream about Abigail.
+
+Thursday 21st. Arts block. You might be reading a stolen copy. Visit Royal Road for the authentic version.Final theatre lessons.
+
+The Antigone crew performed a theatre exercise without a name, invented somewhere between Costello’s Tony tour and his pivot into teaching. It involved the students lying on the Marley floor, arms loose, feet bare, eyes on the grid, releasing everything they had learned so that they could start January in neutral.
+
+The exercise began with silence. The heating system clicked on the walls.
+
+Plink. Plink. Plink.
+
+Somewhere, music students were still practising, and they could feel the vibration through the floor of the black box room.
+
+“Since August, I’ve trained your body,” Costello walked among them, his feet landing without sound. “Your body has learned to be Antigone, Ismene, the Chorus. Now, I need you to unlearn everything, lest you bring these characters into our next project unnecessarily.”
+
+Next project. The students perked up. “Stay in neutral,” Costello informed them. “Now, I hope everyone has a good holiday, but know that there’s a limit to your bodies, and what they can take. Enjoy life, but not to excess. I am your playwright, and you are my players. We are a theatre company. You are the instruments of the stage. I do not need half-tuned instruments. In your spare time, do your stretches, perform your Laban Exercises, and practice your voices. In the professional world, there is nothing more dangerous to an actor than idle time.”
+
+Eppie watched the others watching each other.
+
+The most eye-catching figure, as always, was Madison Evans, the girl who had lost Antigone to her and had worked instead in technical theatre, for the chance of Eppie falling ill had been zero. Eppie had felt guilty about robbing Madison of her chance—but she also had a plan to make it up to the leggy blonde.
+
+Costello’s “Next Project” must have struck a nerve, for all Eppie could see was Madison stiffly swinging her arms and legs like a mannikin, her hips limply thrusting now and then to comical effect.
+
+Dr Costello shook his head and moved on.Her mind wandered.
+
+She had Friday to do the thing she had been putting off this whole time—her reckoning with Simone. Ever since the lesson with Kirby, the gazelle girl had been on her mind like a tack, and she no longer had the patience to play the Delayer.
+
+Eppie noted she was in a good position now. She was known. She was illuminated. She had money, even if it wasn’t hers to spend, and she had influence. She wanted to catch the truth before it got away.
+
+Then, she had to take a flight to NYC and meet her benefactor.
+
+"Up."
+
+She raised her body, resurrecting the dead through flexibility, weight and counterweight. Costello stopped to look, then nodded with silent satisfaction.
+
+Their final exercise was a balancing act involving pairs. It was a kind of no-contract see-saw, and it was a test of both balance and endurance.
+
+Madison was paired with Min-Jun. He spent the entire time staring at her exposed midriff. Lucy was paired with James Jules. She spent the entire time staring into James’ exposed abs.
+
+She was paired with Chloe Vickers, AKA Ismene, her sister. Chloe’s skill was a natural gift, unlike Eppie’s [System] upgrades. Twisting their bodies, they formed themselves around each other, not losing balance for the whole five minutes.
+
+At the end, Costello gave them his highest praise.
+
+Her teacher’s eyes lingered on her a little longer than necessary. The thespian was studying her. He was trying to feel her out. He looked like he could smell the scripts in her head.
+
+“GOOD WORK,” Costello’s voice boomed as the students separated to find their towels. “I have one more announcement, after which I shall see you in January, around the 7th.”
+
+The man took a deep breath.
+
+“Thirty minutes ago, Dr Cooper posted the LAPAGANZA sign-up sheet. It’s on the Quest Board now. Sophomore Production for the Playhouse. Main Production for the Whitman’s Theatre. There are enough places for everyone who wishes to audition, but as always, only the best will take to the stage.”
+
+The black box room was so quiet they could hear a hairpin drop.
+
+Dr Costello smirked, then stepped aside from the exit.
+
+"That's your semester. Happy holidays. Rehearse something in the mirror."
+
+The Quest Board was four minutes from the black box at walking pace, which meant ten minutes when half the school was also trying to get there. First-in was a privilege left to the students who stayed until the final day of school. Those who left early would have to sign up when they returned, meaning they would be the last to be auditioned, which would greatly increase the pressure from staff and peers.
+
+The Sophomore Theatre class was there after the Seniors and Juniors had already picked their roles, meaning the board was already a mess of signatures and contacts.
+
+Eppie walked at a brisk pace, followed very closely by Madison, then Lucy, Chelsea and the others. James Jules walked in front anxiously, while behind the group, Min-jun and the technical theatre crew walked with unhurried leisure.
+
+Dominating the Theatre block was a massive laminated sheet. Below were markers on strings.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LOS ANGELES PERFORMING ARTS HIGH SCHOOL
+
+THEATRE DEPARTMENT — SPRING SEMESTER 2008
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+L A P A G A N Z A
+
+SPRING GALA 2008
+
+THEATRE DIVISION — AUDITION SIGN-UPSophomore, Junior, and Senior Students Only. Freshmen: see separate Music & Dance notices.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT DATES
+
+Sign-up closes: Friday 11 January 2008. Cold reads: Tuesday 15 January 2008Prepared auditions: Wednesday 16 – Friday 18 January 2008Casting announced: Monday 21 January 2008Rehearsals begin: Wednesday 23 January 2008LAPAGANZA: Saturday 17 May 2008All auditions by appointment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MAIN PRODUCTION — ALL YEARS (SENIOR-LED)
+
+TITUS ANDRONICUS — William Shakespeare (c.1588–93) Directed by: Dr D. Cooper & Mrs S. Tyker
+
+All-school Spring production.Performance dates: May 15–17, 2008 (LAPAGANZA weekend).Venue: The Whitman Theatre
+
+── LEADS ───
+
+TITUS ANDRONICUSThe Roman general returned in triumph. Audition req: Prepared monologue (10+ lines), Act III.i or Act V.iii. Physical stamina essential.
+
+LAVINIATitus's daughter. Betrothed to Bassianus. Assaulted by Chiron and Demetrius; tongue cut out, hands cut off. Note: this role requires commitment to the full physical theatre demands of the production. There will be profession-grade props.
+
+TAMORAQueen of the Goths, captured prisoner, married to the Emperor, architect of Titus's destruction. Audition req: Prepared monologue (10+ lines), Act I.i ("Stay, Roman brethren") or Act II.iii ("Have I not reason").
+
+AARON THE MOORTamora's lover. Playwright, schemer, orchestrator of almost every act of violence in the play. Audition req: Act IV.ii ("Some devil whisper curses") or Act V.i ("Even now I curse the day").
+
+── PRINCIPAL SUPPORTING ─── Cold read audition
+
+SATURNINUS / Emperor of Rome. LUCIUS/  Titus's eldest surviving son. MARCUS ANDRONICUS /  Titus's brother. CHIRON / Tamora's son. DEMETRIUS / Tamora's son. Acts with Chiron. BASSIANUS / Saturninus's brother.
+
+── FEATURED ROLES ── Cold read audition
+
+YOUNG LUCIUS / Titus's grandson. QUINTUS / Titus's son. MARTIUS / Titus's son. MUTIUS / Titus's youngest son.
+
+── ENSEMBLE ──
+
+ROMAN SENATORS (4–6 students)GOTH SOLDIERS (4–6 students)ROMAN SOLDIERS / GUARDS (4–6 students)SERVANTS / ATTENDANTS (2–4 students)Ensemble members will participate in all blocking and
+
+Physical theatre rehearsals. Only the committed may apply.  Express interest to Dr Cooper directly.
+
+── UNDERSTUDIES ───
+
+Understudies will be assigned at casting for TitusLavinia, Tamora, and Aaron. If you are interested in understudying a specific lead, note this beside your name when signing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Questions: Dr D. Cooper (Room 12) or Dr C. Costello (Room 14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Next to it was another notice.
+
+SOPHOMORE PRODUCTION (Sophomore students only)
+
+TITUS ANDRONICUS — Excerpts: Acts II.iii – III.iiDirected by: Mr C. Costello
+
+The assault, the forest, Marcus's discovery, and the fly-killing scene. The play's turning point. Performed as a standalone excerpt programme at PLAYHOUSE.
+
+LAVINIA _______________________TAMORA _______________________AARON _______________________CHIRON _______________________DEMETRIUS _______________________BASSIANUS _______________________MARCUS ANDRONICUS _______________________TITUS ANDRONICUS _______________________LUCIUS _______________________YOUNG LUCIUS _______________________QUINTUS ______________________MARTIUS _______________________ATTENDANTS (2–3) _______________________
+
+Audition req.: Cold read. Scene sides available from Mr Costello or the Theatre Department office from Monday 7 January.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Questions: Dr D. Cooper (Room 12) or Mr C. Costello (Room 14)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The very first entry on the laminated sign-up section was written in perfect cursive.
+
+Lavinia (lead). Valorie Sanders. Senior.
+
+Eppie fingered the “L”. It was in permenant marker. No one else had applied. Valorie had it in the bag. The audacity of this bitch…
+
+Madison had moved beside her and was reading as well.
+
+“You're going for Lavinia, right?” Madison asked. Her voice quivered. The way people do when they've already done the calculations and are now dreading the inevitable.
+
+“Yep.”
+
+Madison’s throat bobbed. “I guess we’ll be competing again.”
+
+Eppie uncapped the pen hanging from the board on a string, then filled the blank row directly beneath Val's line.
+
+She wrote: Lavinia (understudy). Euphemia Fontaine. Sophomore.
+
+Madison stood very still.
+
+Eppie recapped her pen. She looked at the board for a moment, at the two names sitting in the same column, one above the other. Valorie Sanders. Euphemia Fontaine. Senior and Sophomore. This shit is going to blow the fuck up.
+
+Madison wrote her name down in the Sophomore section. Of their class, only Eppie had placed her name in the LAPAGANZA production. This meant that she was relegated to technical theatre for the Sophomore production, and had to participate in the Senior production at the Old Music building once rehearsals began. Week by week, she would be next to Valorie. Her presence would haunt them, “I know what you did last spring.”
+
+How would the two of them act? What new and profound crimes would their tortured minds engender?
+
+It was as she had promised:
+
+I will plague them all, even to roaring.
+
+The students pushed their way out. Eppie was just about to go home when Madison accosted her by the sidewalk. Eppie had to look up. She was short, and Madison wore pump heels.
+
+“Why not perform with us?” Madison’s eyes were warm and a little red. “Are we not good enough for you now? What’s wrong with the Sophomore Lavinia? Is the costume too cheap? Is the stage too small?”
+
+Eppie signed. How could she explain this? Any of this?
+
+“I want to do plays,” Eppie said. “When I graduate. Being the understudy to Valorie means I get Senior training, while I can still learn Sophomore technical theatre. Stage management, production design, and maybe costuming if Ms McGregor will have me. I got some ideas. Some brilliant ideas… for Lavinia.”
+
+“You want to do plays?” Madison’s eyes were as confused as they were impressed. “As a career?”
+
+“That and write songs, which will pay for the theatre,” Eppie nodded. “Is that so hard to understand?”
+
+“You want to be backstage? Like, a director?”
+
+“And a playwright,” Eppie nodded. “I can write music, I can write plays, put two and two together—” And maybe we get some Strictly Ballroom happening. There was another play that the [System] had given her. Shaw’s Pygmalion. As far as she knew, the [System] did operate under some kind of… predeterministic scenario, almost like she was being put through a series of redemptive trials.
+
+Madison grew silent. It was hard for the starlet to process this new information. Madison looked at the middle distance for a moment, the fountain, the empty basin, the kids making a mad rush for the Quest board.
+
+The girl looked sad, and now Eppie felt sad. Overcoming one’s rival was a great source of satisfaction. It was character-building. To have your rival tell you that he’s going to college while you’re still suck in Sophomore year was… discerning. Madison, at the very least, was feeling completely and utterly untethered.
+
+“Okay?” Madison said to Eppie’s forehead. “That’s Okay.”
+
+“Hey, Madison,” Eppie decided she may as well do good, since that was her present mission in life. “I promise you, the production for this thing is going to be KICK ASS.”
+
+Then she gave Madison a hug. It wasn’t a big hug, but it was tight, warm, and genuine. They were wearing winter layers for the theatre, which meant she had total accessibility to Madison’s rigid torso. Against her face, she could hear Madison heartrate shoot up.
+
+After ten seconds, the girl’s rigid body finally softened. Madison had accepted her new reality.
+
++ Karmic Causality
+
+“Happy Holidays.” Eppie gave the girl’s hip a friendly bump. “See ya next year.”
+
+She looked at the Quest Board for a moment longer, marvelled at the dreams being made and unmade, then turned toward the dorms.

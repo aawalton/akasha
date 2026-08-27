@@ -1,0 +1,269 @@
+---
+id: 8488c848-a34e-5ae2-9ef0-1f7b860010fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 616 - Abrasion"
+slug: 0118-chapter-616-abrasion
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 118
+ownLength: 2894
+unit: words
+ownProgress: 2894
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2624972/chapter-616-abrasion"
+royalRoadId: "2624972"
+markedReadAt: "2026-06-29T19:39:04.587Z"
+---
+
+Tala and Lea each took careful sips from their tea as Lisa clearly took a moment to order his thoughts.
+
+The low ceiling in the cozy sitting room gave a feeling of closeness and comfort rather than one of crampedness, and the chairs were perfectly suited to their occupants.
+
+Lisa didn’t have any horns or antlers in view—even to Tala’s threefold sight—and he seemed more contemplative even than usual.
+
+Tala took the moment to thoroughly look about the space. The small paintings on the walls beside the windows were each done in four dimensions, leaving Tala to believe that small changes to her stoneward-starward alignment would change what she was seeing with her eyes. Though, she didn’t have the ability to tell exactly how it would change with her bloodstar cloud.
+
+Similarly, the rugs seemed to be woven spanning more than just the superficial layers, leading to them seeming both locked in place more effectively than any other method that Tala could conceive of and sound-absorbent in a way that simply superficial floor coverings could never be.
+
+The dyes and weavings hinted at complex patterns that Tala’s mind simply wasn’t equipped to actually comprehend.
+
+Aside from the window out into the Doman-Imithe, the other three walls showed a variety of scenes, the door having vanished after they came through, rolling marginally starward.
+
+One was a simple view out at the area surrounding Lisa’s redstone archway. It would have been disorienting to see a full spherical view through a two dimensional perspective, but Tala’s mind was equipped to understand three-dimensionality, so she was able to parse the input with relative ease.
+
+Another window looked out on an ancient forest. Is that Walden’s sub-hold?
+
+-Yes. The Immortal Elk gave Lisa permission to view portions of his woods at will.-
+
+Interesting… The final perspective was a top-down view of a common dining area with nearly a dozen fox-kin moving about.
+
+Tala assumed this last view had been chosen to demonstrate to her that Lisa was taking his job as primary fox-kin and overseer of his kind within Ironhold seriously.
+
+The perspective of the Doman-Imithe had already been explained as something magically selected as being pertinent to their conversation.
+
+The window out onto the front entry could be meant as a test of her spatial conception abilities, or to allow Lisa to ensure no one approached while they talked—though he could see such things whether it was housed in a window or not—or it could have been selected for any number of other reasons.
+
+She wasn’t sure why the forest view had been selected, but it might just be because such was lovely.
+
+Finally, Lisa nodded, drawing his guests’ attention. “Alright. Thank you for that moment to gather my thoughts.”
+
+Tala gave a slight dip of her head. “Of course.”
+
+Lea shrugged. “It wasn’t very long.”
+
+“Indeed.” Lisa gave a small smile. “I’m afraid that the short time was due to how few thoughts I have to offer about your predicament.”
+
+Tala grimaced momentarily but held her tongue, waiting to at least hear what he had to say.
+
+“Simply put, I believe that your Existence was damaged. I would be curious as to what exactly was able to do this, and the circumstances that led to it.” His eyes flicked to the view out into the Doman-Imithe. “That is a place where oddities and exceptions abound.”
+
+Tala sighed and nodded. She gave a quick overview of what had happened, starting when the shadow hyenas had attacked.
+
+Lisa lifted one eyebrow. “A habitat crossing, Doman-Imithe predator? And a pack based one as well. That is…” He shook his head. “...concerning. Such predators are generally deep in the Doman-Imithe, crossing to upper layers rather than into Zeme. Something must have driven them to this either directly or indirectly. I imagine that once they were closer to Zeme, our magic drew them closer, and your… generous caravan likely pulled them the last bit of distance.”
+
+It was Tala’s turn to frown. “Should we expect more such threats?”
+
+“On one side, no, but then you shouldn’t have had reason to expect this. My actual answer would be: Always, but that’s just safer. Do I think it likely that you’ll encounter more? Probably not.” He hesitated. “We are near our final destination, correct?”
+
+Tala nodded.
+
+“Good, then I am comfortable with my response. If we were going to be in such a large, moving group of gates for much longer, I would say to expect ever growing oddities, even if we never again encountered something exactly like this.”
+
+She nodded again. “Understood, but we are getting side-tracked.”
+
+“Indeed.”
+
+“So… damage to my Existence?”
+
+“That is what I am seeing.”
+
+“How does that even work?”
+
+“Well, given the nature of… smilers—assuming that’s what did this to you—I would bet the reality-void tore at you like a great wind across the plains, or a grazer and the tallest grass.”
+
+Lea was frowning, but she didn’t interrupt.
+
+Tala understood the comparisons, or at least she thought she did. Honestly, she was likely barely less confused than her daughter. “Can you expound?”
+
+“Certainly, but please understand that I am simply attempting to explain the results, not actually the method through which those results were achieved.”
+
+“Understood.”
+
+“When your Existence was strained, that which was most ancillary to your existence was broken away, like the rough spots on rocks tumbled together. You stated that you were not exerting your aura and authority around yourself, did I understand that correctly?”
+
+“Yes, but I was keeping myself under my own authority. I have Refined.” She didn’t need to explain more. Her body was as closely tied to her as any’s who weren’t Reforged.
+
+“As I said, I won’t attempt to explain the ‘how’ simply the result.”
+
+“Right, right.” Tala waved distractedly, considering. “So, my left hand?”
+
+“Was the part of you least intrinsic to your existence. If I had to guess, it is the thing that will affect you least, now that it is gone. This is one reason such injuries are so little understood. Many people who do get so harmed have little reason to seek help, because, generally, their lives change little or not at all.”
+
+“So, a conceptual attack? Really?” Tala grimaced, then. She deeply disliked conceptual magic. Give her a heat-based fireball or gravity shot any day over ‘you don’t know where I am’ or ‘corrosion.’
+
+“In a sense, yes.”
+
+“Just in a sense?”
+
+“As I said, I can’t really describe the ‘how.’ The damage was applied via conceptual parameters, at least that would be my guess, but that doesn’t mean the attack was conceptual nor that the resulting injury is conceptual in nature.”
+
+Tala opened her mouth to ask further, but then she shook her head and sighed. “Regardless, how do I heal it? My normal magics don’t work, and if I force it, the result is unresponsive and just feels… wrong.”
+
+Lisa nodded. “In this, your advancement is both a blessing and a curse.”
+
+She arched an eyebrow and waited.
+
+“It is a blessing because the surest way to be healed would be to Reforge, ensuring your chosen, remade form has the missing part.”
+
+Tala gave him a flat look. “That’s the good part?”
+
+He nodded. “Yes. The curse comes from the fact that you are so established in who and what you are. As a Paragon, your understanding of your non-physical self is rock solid. That means the underlying structure of who you are is all but unshakable. If you—or anyone—tries to add to your body in a way that doesn’t align with that, it will fail.”
+
+Tala held up her hand… Well, she held up her lack of a hand. “This doesn’t seem like it failed.”
+
+“Ahh, but that is a hostile alteration, done in violence—a removal not an addition—something taken, not something imposed upon you.” He hesitated. “I am struggling to find the right words.” He gave a smile at that. “As out of character as I am sure that seems.”
+
+Lea grinned, taking another drink of her tea even as Tala huffed a laugh. “So, it’s a scar upon my Existence, and simply slapping a new hand on won’t help.”
+
+“No, it won’t.” He grimaced. “It is easier to destroy than to create.”
+
+“I took similar seeming damage before, but that was more a block on healing, a brief setting of existence against my real form than a true altering of that form at the level of existence.”
+
+“I would say that seems accurate, based on what I know. Yes.”
+
+“So, I hear the words that you have been saying, but what has actually been damaged? What do I need to work to fix?”
+
+Lisa sighed before taking another sip from his own cup. “What you are was fundamentally abraded. The world now doesn’t expect you to have a left hand, and that iterates down to every level of existence. You can’t fix it any more than you could give yourself wings or horns or a second head.”
+
+Tala found herself slowly nodding. “Because the absence of a second head isn’t something to fix. I shouldn’t have a second head, trying to add one would be a deviation from how things should be rather than a return to ‘rightness’.”
+
+“Exactly.”
+
+“...So, who can alter what I am?”
+
+“You, by Reforging.” Lisa replied with a dead-pan tone.
+
+Tala took a long breath. “Besides that?”
+
+“You could merge with something that has a left hand and devote your considerable willpower to taking on that trait.”
+
+She grunted. “Besides that?”
+
+The fox-kin gave her a flat look. “Who could make Master Jevin more human once more? And—at risk of being insensitive—who could fix your fertility issues?”
+
+Tala rocked back at that. “A Sovereign could, but Anatalis said he wouldn’t because it would alter me into someone who was not me.”
+
+Lisa nodded. “A Sovereign might be able to repair your hand, that is true, but even Anatalis would require a price I doubt you’d want to pay. Even if he didn’t, such an alteration would be… straining on you. It might even prevent you from ever Reforging, as I understand the process.”
+
+That… yeah, that made sense. She’d effectively be tying someone else’s creation to her soul and incorporating it deeply within herself. Taking such a modification from a Sovereign just might make having that hand after Reforging impossible, even if it didn’t simply prevent Reforging as a whole.
+
+“I apologize. I wish I had a better answer for you. I am not sure that the smilers were the cause, but they could have been. I can’t say that I’ve ever come across someone who actually interacted with them. They are either noted as unmoving observers—disturbing, mindbending ones, but still only observers—or there is no record. I could guess that such means that those attacked don’t survive, or it could mean that they simply don’t attack.” He shrugged. “The information I have could support either option.”
+
+Tala waved her stump implicatively.
+
+He shook his head. “We know that the smilers were nearby when that happened, but the Doman-Imithe is never empty. For all we know, the ‘air’ you thought you were breathing was, in fact, a Doman-Imithe being slowly gnawing away at your Existence, and the smilers were coming closer only for the portal or to observe what it was doing inside of you.”
+
+Tala’s eye twitched. “I didn’t need another thing to give me nightmares… Do such things actually exist? The air-creature-thing, I mean?”
+
+“Theoretically, they are quite possible, but we don’t have any record of such.” He gave her a smile that told her exactly what that meant.
+
+She closed her eyes and took a moment to master herself. “Very well. Thank you, Lisa. I appreciate the insights that you have given.”
+
+“But of course. It is the least I could do for one who has given my people a stable home.”
+
+Tala frowned. “Lisa?”
+
+“Yes, Eskau Tala?”
+
+“What would have happened to Ironhold if my existence had been consumed or destroyed?”
+
+Lisa tilted his head first to one side, then to the other. “Most likely?”
+
+Tala shrugged. “Sure.”
+
+The fox-kin grinned. “Nothing. It is impossible to completely erase any existence, as doing so would require removing everything that existence had ever affected, and then anything any of those things ever affected after being effected by the first existence, and on outward until much of localized Existence would be obliterated.” After a moment’s hesitation he appended. “Meaning it couldn’t be done. I’m not stating the results. Not even the Sovereigns, all working in tandem, could do such a thing.”
+
+“Understood. What about a less likely outcome?”
+
+It was Lisa’s turn to shrug. “In all but the oddest of cases, Ironhold would be left intact, though there are quite a few situations in which it would be left adrift in the void to slowly lose power and cohesion, becoming tainted and breaking apart over the eons. Anything more extreme than that would require Kit actively attempting to interpose herself between you and whatever was harming you, but then anything that occurred in that scenario wouldn’t be an effect of your existence being damaged, but hers.”
+
+Tala grunted. “Understood.”
+
+There was a moment of silence before Lea cleared her throat. “Excuse me.”
+
+Lisa smiled and turned toward the girl. “Yes, Lea?”
+
+“Has your discussion reached a good end? I don’t wish to interrupt, but I would like to have our discussion if appropriate.”
+
+Tala smiled, and when Lisa glanced inquisitively toward her, she nodded.
+
+The fox-kin turned back toward Lea and smiled. “Yes, I think that now would be a good time.”
+
+Lea sat up straighter. “Thank you. You asked me to investigate what makes a human a human, and gave me quite a few authors and great thinkers to research.”
+
+Tala’s eyebrows went up in surprise, but she held herself back from interrupting, keeping her maternal irritation at the topic in check.
+
+“And what did you find, child?”
+
+“Well, one of the earliest definitions of humanity was simply a featherless biped, but even at the time that was proposed it was laughably inadequate. It also didn’t account for arcanes, though it is theorized that the man was attempting to call all of us human rather than segregating the races.”
+
+Lisa nodded. “And what was the oh, so subtle refutation?"
+
+Lea grinned. “A plucked chicken, ‘Behold, a man.’” Lea chuckled. “A bit cruel to the chicken, which seems to have still been alive, but it gets the point across.”
+
+Lisa grinned in turn. “Indeed. Go on.”
+
+“The original definer wasn’t so easily thwarted, so he went on to amend ‘with flat nails.’”
+
+“And is that satisfying to you?”
+
+“No. Again, it includes some arcanes, which, I suppose could be waved away, but it remains open to abuse given its ambiguity. Others have tried to define what a human is as a rational animal, but many animals show rationality, especially magical beasts in select circumstances. Anatalis is a perfect counter example as he is decidedly not a human.”
+
+Lisa smiled. “True.”
+
+“Others proposed ‘social’ or ‘political’ animal, or they attempted to quantify how our minds worked, or our view of Zeme. The most recent definitions, and those I think I hold most closely, myself, are that the soul is what makes the human.”
+
+“Ahh, so a fount is human?”
+
+Lea shook her head, not put off. “A soul—of a particular type—within a physical container. A fount is naked to Zeme, no longer human.”
+
+Lisa's smile widened to a grin. “Oh, so a vestige then? Those are human?”
+
+“Arguably, yes. That is one reason their imprisonment is so heinous.”
+
+He tilted his head to the side, seeming to consider. “And the use of founts isn’t? Just because they are not in physical vessels?”
+
+“That…” She frowned. “I’m not sure, but I don’t think anything is keeping founts in place, and many have naturally moved on. In contrast, vestiges prevent the soul from passing on without the destruction of the housing.”
+
+“Much like a human body?”
+
+“I suppose.”
+
+“So, being imprisoned is a requirement to humanity?”
+
+She quirked a smile. “I would say being tied to Zeme is a requirement to be human. If you are not tied to Zeme in a physical sense, you are not human, you are the soul of a human.”
+
+“Is that not how we speak of vestiges?”
+
+Lea shrugged. “The common means of speaking about something doesn’t make it so.”
+
+That brought a full smile to the fox-kins lips. “Just so.”
+
+“So, is that it, then?”
+
+His smile shifted slightly. “Hardly. I noticed that you fall outside of your own definition.”
+
+Lea hesitated. “Only if you go with your ‘imprisoned’ requirement. I am decidedly tied to Zeme.”
+
+He nodded. “Good. You took yourself into account.”
+
+She huffed a laugh. “Of course. I am human, so my very existence informs my definition of humanity. For it to be otherwise would be the height of folly.”
+
+Lisa gave a satisfied nod, and the discussion continued.
+
+Tala leaned back, enjoying watching her daughter think. She wasn’t sure she exactly agreed with what Lea was putting forward, but it was enlightening to hear the thought process behind the conclusion.
+
+Her eyes skimmed over the stump of her arm, and she grimaced. Yet one more driver toward Reforging.
+
+-Not that we needed more reason.-
+
+Indeed…

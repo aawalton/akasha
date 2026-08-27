@@ -1,0 +1,109 @@
+---
+id: f48cf301-9ab2-500c-833f-f0cc39a1bda8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 202 Culture Shock"
+slug: 0216-chapter-202-culture-shock
+partOf: melody-of-mana
+position: 216
+ownLength: 1868
+unit: words
+ownProgress: 1868
+publishedAt: 2023-01-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1087780/chapter-202-culture-shock"
+royalRoadId: "1087780"
+markedReadAt: "2026-06-29T22:33:17.558Z"
+---
+
+The tavern was strikingly quiet.  Sure there were a few conversations, and someone playing music in the background, but it was not the ruckus and wild place that most of the taverns I knew tended towards.  It might have had the same level of noise as a very high end one, but the decor clients didn't match that either, everyone was just quiet.
+
+I looked around feeling a bit odd.  I knew taverns, I'd lived in and worked in taverns for much of my youth, this place was... strange.  A few people gave me a passing look as I entered in as well, but that lasted only a minute before they went back to their drinks and hushed talking.  I didn't even get many guys checking me out, which was odd.  I liked to think I was a bit above average and even very homely girls would get looked at when they entered one of these places.
+
+My face must have betrayed my consternation at the odd location, because the barman chuckled as I came over to his side.
+
+"First time in the city?"  He asked.
+
+"Yeah, I'm from further west, over near Lithere."  I said as Selene came over to join me.  Even she seemed a bit surprised by the atmosphere.
+
+"You've got the look of it.  Always get a new crop when the soldiers rotate out, and they always have that same look you do," he explained.
+
+"So... what's with."  I pointed around the bar generally, indicating everything.
+
+"Oh that old bastard..." at that word someone nearby spit on to the side.  "Oi, don't spit on my floor."
+
+"Sorry Abe," the man said, putting one hand up to the barman placatingly.
+
+"Right then," Abe, the barman and I supposed the owner continued.  "That old bastard who used to rule this place, and most of his predecessors hated things like art, and music, and all the good things in life.  Unless it was for the military they tamped it down like a dying fire.  Now, we've come a long way in these last few years, but most folk are still trying to get used to how Emperor Durin runs things."
+
+I couldn't help but notice that several people raised glasses at the name, giving a quiet toast.  I knew that he was liked by a lot of folk, particularly common folk, and there had been one boy who absolutely fanboyed over my father back in school, but this was extreme.
+
+Selene looked a bit confused too.  "How bad was it?"  She inquired.
+
+"Well, the really rich had more than you'd believe, and they could get things like music and art, all dedicated to combat of course.  They could also do much as they pleased, treating everyone like slaves, particularly the slaves.  It was... dark, though at the time nobody really knew how bad.  Suppose if you live without any beauty to speak of then anything seems bright."  Abe smiled and got our order for drinks, a pair of ciders.
+
+"I'm sorry to hear that," I said.  "But it's better now?"
+
+"Oh loads and loads.  So what brings you two to town then?"  He asked.
+
+"We just got done with an expedition for the government out on the elven continent.  Came to give some presentations on the flora and fauna there, along with potential trade goods."  It was the standard line that I gave him, though not technically a lie.  We would spend a few minutes talking to a small crowd about some of our experiences, and asking questions tomorrow afternoon, after the real work was done.
+
+"Well how about that, right explorers huh?  Making our emperor proud?"  Abe was a nice sort, jovial.  Though I heard one man scoff at the mention of the elven lands.
+
+"I don't know if he was proud, but he seemed happy enough last I saw him, kind words and all."  I could have smacked Selene as she spoke, giving away far too much.
+
+"You've spoken to him?"  Abe looked downright surprised, and several of those nearby leaned in to listen.
+
+"Our expedition was at his behest, and we lost a lot of people.  He came by to see the us survivors after we returned," I quickly put in, hoping that I could keep my partner from saying anything else.
+
+My comment got a series of nods from those nearby, one man even commenting, "Of course, that's what a decent leader would do huh."
+
+I did not want to tell these people that we knew him, or had any real connection.  I really, really didn't want them to know that my family and mentor were high up in the military.  Based on the few former Ermathi citizens I knew, they all seemed fanatical about Durin.  It was almost to the level of being creepy.
+
+Selene seemed to get the message after that and shut up.  I wasn't worried that she'd spill any state secrets, but rather that she might say something to get us mobbed with people interested in our leader.
+
+"So, if you're from out west, you know any good songs?  Lots of the soldiers passing through had some they liked to sing, and I think Ellen there is about to finish up for a bit," Abe asked.  I bet it was easy to get a slightly sloshed soldier to sing here, if only to break up the solemness of the surroundings.
+
+I chuckled, "One or two yeah, don't suppose I could use the harp?"  I pointed to the girl currently strumming away at it.
+
+The instrument in question in fact belonged to the bar, and Abe himself.  The current performer Ellen was somehow related to the owner and looked a bit irked at giving it up.  That all ended when I began to play.
+
+I hardly kept up with all of my instruments, but I'd still been trained on them, and drilled well.  I launched into a song about the pleasant darkness of the night, something I felt would go down well here.  As I did so I began to weave an illusion across the ceiling.
+
+Lucien had loved to weave the stars and sky above the patrons of his bar, and while I might not have quite his faculty with that particular illusion, illusion was one of my specialties.  As I wove the words and chords I formed the images, spreading across the beams and whitewash fill.  A few people gasped as the stars and moon bloomed to life bathing the onlookers with their soft light.
+
+I didn't go on for too long.  Not only was it a bit bad to show off, but I wasn't working, just having a bit of fun.
+
+"Y-you're a caster?"  The barman said as I returned to my seat.  "No, you're both casters?"
+
+He looked a bit scared, if only in part.  "Don't worry," I said, trying to calm him.  "We're both in the service of Emperor Durin, and neither of us came here to cause harm.  It is the duty of the strong to protect the weak,"  I added in one of the pieces of propaganda that had been drilled into us in school.
+
+I could tell that something about casters had scared him, or magic users in general probably.  No matter how much it might have changed in the years since The Empire of Shadows had taken over there was still a bit of fear.
+
+"Of course, sorry.  That was beautiful, why don't you have your drinks on the house tonight?"  He recovered nicely.
+
+We thanked him and after finishing up our beverages decided it was about time to head home.  Though I was happy to see that Selene had the same thought as I did, and hid a couple coins under the glass before leaving.  He may have offered for them to be free, but we both knew we were held to a standard, and paying was what we were expected to do.  It wasn't like either of us were hurting for cash either.
+
+The next morning's installation was frankly boring.  It was a by the book thing that we needed to supervise, because we were the go to people on this, but it wasn't interesting.  The spells and the like had been gone over until they were just routine, so getting it done was no issue.
+
+The talk we gave was to a few scholars.  I described the Hurricane Whale, and it's use of potent weather magic, along with what I could understand of its abilities.  Being that I was a weather magic user there weren't many considered more qualified, even if I didn't really understand the details of it.  The given reason for that talk was to tell them about the dangers, without spilling secrets.
+
+Dras was staying behind for now, at least until we got the other gate installed.  Selene and I would be going onwards to our installation point, a city called Linden.  We'd be taking the gate network most of the way there, but a couple of weeks would have to be by carriage.
+
+That afternoon we decided to walk back to our temporary accommodations, and as we did I saw something that was strikingly odd, and a bit terrifying.
+
+There was a crowd, a large one, and a slightly buzzing, nearly angry atmosphere.  They'd gathered in one of the squares along a larger road.  It was a simple place near the city center where several buildings just hadn't been built.  At the back, looking new though, was a gallows.
+
+We arrived just after the announcement of the crimes, as several men were brought up.  It struck me that they all looked old, and rather more large than one might expect of hardened criminals.
+
+Executions happened under Durin's rule; not many, but they did happen.  The odd thing was that this was public.  Public executions were very, very rare, almost vanishingly so.  Victims, or their families in the case of murders might be allowed to witness the end of a criminal, but allowing it to be seen by all was only done in the cases of truly heinous crimes, or those where a loud message needed to be sent.
+
+"What did they do?"  Dras quietly asked a man nearby, "Sorry, I missed the announcement," he explained.
+
+"Bankers," the man replied, looking disgusted.  "Got creative with how they were managing people's money.  You wouldn't believe how bad it got."
+
+"This is very harsh," I said, not really thinking.
+
+"Oh?"  The local said.  "Lass, if they'd burned down a village, leaving all the folk alive without homes or businesses they'd have done less harm.  Let them swing I say."  This world took a very dim view of bankers in general, and those who wrecked people's lives in particular.  It wasn't short to say that it was a hated profession.
+
+We couldn't well leave without attracting attention, but it still bothered me.  I'd seen people die, but this, even if the world thought it deserved, it still hurt to watch.  The worst part was that the people cheered as one by one they were dropped, but at least it was quick and clean.
+
+Once it was over we left, I had little desire to stay with the crowd.

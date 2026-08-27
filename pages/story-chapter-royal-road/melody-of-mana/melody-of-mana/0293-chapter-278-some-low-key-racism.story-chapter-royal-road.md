@@ -1,0 +1,83 @@
+---
+id: 4a62de07-b311-5095-bbf0-519cd6416e80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 278 Some Low-Key Racism"
+slug: 0293-chapter-278-some-low-key-racism
+partOf: melody-of-mana
+position: 293
+ownLength: 1189
+unit: words
+ownProgress: 1189
+publishedAt: 2023-10-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1384658/chapter-278-some-low-key-racism"
+royalRoadId: "1384658"
+markedReadAt: "2026-06-29T22:35:57.045Z"
+---
+
+The first few days of the field trip were fairly boring. Mostly the students were shown around the school grounds here and went on some basic lessons. There were a few things here and there, things I would need to address later, but nothing major. One of the boys was getting very touchy with an elven girl, but she seemed into it and they were quickly hiding in some lost corner of the school.
+
+Atal had one of the best academies I'd ever seen, the whole place looking like a mix of a boarding school and college campus. It was far more open and green than either of our schools had or would be, but it also housed many, many more students. Elves had a much higher rate of mages, even with their low birth rate, and it showed. They also spent a lot longer in school, though that varied.
+
+The school was divided into tiers, in a way that reeked of eugenics. Simple facts were that elves with less human blood just lived longer, not the immortal that pure-blooded ones got, but ages and ages. The slowdown began in late puberty, and that meant that some of these students would have much more time to study here, hence the tiers.
+
+Students who had less elven blood were on something of a 'rush' track. Everyone attended the same lessons, and got the same general classes, but after that these kids were pushed onto their specialty and out. They didn't have the luxury of spending decades in academia, with lifetimes of only a couple of hundred years. Had my children been born in Atal they would certainly be on that track.
+
+Above that there were two strata of medium tracks, each spending more time and gaining more specialties. Where a rush student might specialize in fire and related magic, with only general education on other specialties, these could take between three and five.
+
+Finally came the longest tracked youths. These few could have almost every specialty there was, only missing one or two of the ten offered unless they really wanted to work hard. I spent a bit of time near these young elves, listening to them as well as my own students after hearing a few things that concerned me a bit. I had questions about some of their language, and luckily enough someone to ask them to.
+
+Headmaster Indir and I were having a nightly meeting after dinner to discuss what we'd seen throughout the day, problems to nip in the bud and places we could improve.
+
+“Headmaster Indir,” I began. “I have my suspicions I know what it means, but could you confirm the meaning of the word 'thinnies' for me?”
+
+My counterpart's jaw visibly tightened, and I noticed his hand clench, even though he tried to hide it.
+
+“Where exactly did you hear that term? Not from any of my staff I hope?” he inquired, displeasure hardly hidden.
+
+“No, students, a few times from those on the longest and second longest tracks,” I answered.
+
+“I would like their names or seating locations and descriptions, as we don't tolerate that sort of language here.” He sighed when I rose my eyebrows. “As you may have guessed there are those who believe that over-mixing with humanity has been a bad thing. It's a small movement, but one that is considered both foolish in the extreme and a rampant danger. They would press it as being 'watchful' over their 'lessers' but the term 'thinny' indicates that a person has thin blood, as opposed to a 'thickie', someone with more elven blood. Used so it is widely considered an epithet.”
+
+“You do separate them based on those criteria,” I said, not trying to hide how I felt about that.
+
+“Yes, but not because I like it. We simply have more time with some of our students than with others. If I could, I would give every one of them a full run of all of our courses.” That was a pretty good answer, and I even believed him.
+
+“What about pure elves?” I asked. “Do they get involved in this nonsense.”
+
+That got me a bark of laughter. “No, they have better things to do, and are rare enough that it's sort of beneath them. During my tenure here we've had not one such student, though if one were to be born and attend our academy it would be a whole ordeal.”
+
+“Really?”
+
+“Mmm, yes, our culture loves children, as I'm sure you know, but there's more as well. Those that have time are expected, nay required, to invest it wisely. A child who might live for millennia must be nurtured as well as possible, as they will almost without doubt one day become one of the councilors that rule our nation, or one of the others nearby.”
+
+That made good enough sense, a mage who could just keep growing could surpass almost everyone with enough time. I'd seen such things myself a few times. I also didn't doubt that they'd be watched like a hawk to quickly correct any 'bad' behavior.
+
+“That I follow,” I admitted.
+
+“Have you met one of our esteemed councilors?” he inquired after looking at my face.
+
+“No, I've not had that chance, but there are one or two others still bouncing around on the human continent.”
+
+That made his eyebrows rise. “Are you sure?”
+
+“Yes, though that's all I'll say on the subject. I got the feeling that privacy was of importance to certain people,” I spoke not angrily, but firmly, there were some sleeping giants that were better off that way.
+
+“I cannot dispute that statement,” he chuckled.
+
+“So tomorrow, what's on the schedule? Looks like you're taking everyone into the city proper to see some monuments?” I said, switching the topic to something else.
+
+“Hmm, that's right, standard tourist type things. It'll be good for optics and something fun for the young ones. Couple of museums, His Majesty's palace, all the standard locations are on the list. It might be a bit much for one day, but at the end we're going to a lovely restaurant that serves some of the best traditional foods.” He flipped through the pages while speaking.
+
+“Not sure I've ever had the traditional ones,” I admitted, Ulanion never really said much about those.
+
+“If you can disguise yourself you could join in?” he questioned.
+
+“I could, but it would be a risk, one I'm unwilling to take for that,” I said with a shrug.
+
+“Well at least allow me to have the cook put something together for you then. It's not a chance even I get often.”
+
+“Personally I'm more excited about some of the other demonstrations you're pulling in over the next week. Some of these disciplines are not really found in our country.” In particular I was looking at the one on tattoo magic, something I'd gotten almost no information about from even our best institutions.
+
+“Oh, good to hear! Tomorrow then?”
+
+I nodded and left him, looking forward to getting to see some more of the city than I had on my last visit.

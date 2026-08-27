@@ -1,0 +1,413 @@
+---
+id: 55359130-4375-5f02-ba7a-81ebe851abac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Some Things Begin, Somethings End"
+slug: 0003-chapter-1-some-things-begin-somethings-end
+partOf: metaworld-hopecore
+position: 3
+ownLength: 3139
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364450/chapter-1-some-things-begin-somethings-end"
+royalRoadId: "3364450"
+---
+
+“Judging whether life is or is not worth living, that is the fundamental question of philosophy.”
+
+Albert Camus
+
+Beep.
+
+She was on fire.
+
+Beep.
+
+She was all ice.
+
+Beep— Beep.
+
+Her arm, her hands, her fingers all felt like that childhood winter when, disobeying her mother, she chose to cruise the frozen lake on skates. She had made it only a dozen meters when, as her mother had foretold, she fell face-first into the crunching ice, diving into the blue-black dark. What had followed was the righteous anger of desperate hands, dragging her back into the light.
+
+Into a tub her prepubescent body was dumped, frozen and shivering, wondering why the lukewarm water felt like lava.
+
+It was a sensation that mirrored her present circumstance.
+
+With great effort, Lana Zacanissian attempted to open her eyelids.
+
+Beep.
+
+A jolt of inexplicable pain shot through her skull, ran down her arm, and triggered reciprocal bolts of agony that shot through the entire lower half of her body until she was wide-awake with one eye open.
+
+Beep.
+
+She was… in a hospital.
+
+THANK GOD. Her mind finally caught up. I was saved. But by whom? The coast guard? Did those very same ungrateful employees of hers have a change of conscience? It was a plausible deduction. In the USA, it was no easy feat to murder a 1% CEO and not face capital punishment. Ever since that trend took off in the mid-2020s, the Department of Justice has designated the motive as a Federal Hate Crime.
+
+Click.
+
+The door to her hospital room yawned open, flooding the room with a pale, clinical nimbus. It was then that Lana noted how small her hospital room looked. This detail made no sense because her level of coverage would have had her air-lifted from the Swiss Alps by the US Military and chauffeured to Cedars-Sinai by a team of primary physicians in every relevant discipline. They would do this because, one, it was their job. And two, a donation from her grateful self could probably result in the building of yet another Neurology Wing, or at least a modest Cardiology Theatre.
+
+Nonetheless, this hospital room was small, cramped, and smelled strongly of antiseptic.
+
+“Oh my, you’re awake.” The nurse, a stout, chocolate-complexioned woman with a thick Nigerian accent, sounded delighted. “I’ll inform the doctor right away.”
+
+Lana tried to crane her head, but once again her body declared no.
+
+The doctor who arrived looked like he was barely a few years out of medical school. From the name tag, she was apparently in a place called “St Marten’s Children’s Hospital”.
+
+Jesus Christ, they sent me to a kids’ hospital? Lana’s heart felt physically in pain as disappointment made her almost drown a second time. What kind of stupidity is this? Assuming Emily was still around, she would have the girl dragged before HR and—
+
+“Ah, our little bird is awake. I have good news, and bad news,” the weedy voice of her guilty-looking physician spoke through his spectacles. “We’ve treated your injuries as required by the Emergency Medical Treatment and Active Labour Act, then we found out that you have no insurance… Fortunately, someone offered to pay your operating expense, but the aftercare is still outstanding… As you are a ward of the state…”
+
+This man is insane. Lana could only stare at the obtuse fellow in his Mormon shirt-and-tie getup. I am a grown woman. Why would I need a Guardian? Furthermore, I have the best healthcare coverage in the United States. My custom plan makes Cigna Platinum look like Silver.
+
+“... But don’t worry about all that. For now, all of us here at St Marten’s will fight to make you whole again. Of course, there are some caveats. You may be asked to sign something once you recover. That is, unless your caseworker...”
+
+The man’s incessant pauses were pissing her off and making her oxygen meter unhappy. Lana wanted to shout at the man, or at least, shout her policy number, but once again, she was paralysed by pain.
+
+“Alright, Doctor Mills, that’s enough. Nwam needs rest, can’t you see that? I think her ibuprofen is wearing off…” The nurse said.
+
+The young doctor shut as told. “Are you in pain, Miss?”
+
+Fuck YES I am in pain. Give me the morphine. Give me Percocet. Give me everything.
+
+“So er… that’s the good news,” her physician said happily. “Now that we don’t have to worry about your insurance, you’ll get more than just Tylenol.”
+
+The scalding gaze the nurse gave the man mirrored Lana’s pain.
+
+“Ha… that was a joke. Let’s do a head-to-toe, and I’ll see if we can ease your, ah… discomfort.” Her physician approached, slipping into a pair of latex gloves, joined by a worn stethoscope around his neck and an old penlight in his coat pocket. “Nurse Bessey, privacy curtain, please. Now… look at my finger. Try to follow it… good… now…”
+
+Lana played along, suddenly less sure of her circumstances.
+
+“Is this your name?” Her doctor asked, moving a clipboard toward her face.
+
+Lana’s eyes watered.
+
+Euphemia Fontaine? Who the hell is Euphemia Fontaine?
+
+With supreme effort, she shook her head.
+
+“Oh…” Doctor Mills seemed taken aback. “Is this NOT your name? Little lady?”
+
+Lana shook her head again, more vigorously this time. Beep. Beep. Beep. The heartbeat monitor protested.
+
+“Er… Bessey?” Dr Mills retreated. “I’ll speak to Doctor Harper about what medications he may recommend. We’ll need a CT Scan. Can you…”
+
+“I can.” The Nurse allowed the young doctor with the face of medically induced insomnia to retreat. With a matronly kindness, she placed her great, heaving body beside the gurney bed. With great tenderness, the Nurse with the name of Bessey held her hand.
+
+The sight of the IV cannula stuck in a child’s hand made Lana’s skin come alive.
+
+“Now, now, Eppie. I know it's scary. When the ambulance brought you in, we were almost ready to give you up, but Doctor Harper insisted that we could give you a future, and here we are. A great many people have, despite everything, done more than what was necessary to keep you in this world. Insurance or no, we’ll take care of you, at least until you can take care of yourself. Do you understand?”
+
+Not knowing what else to do, Lana nodded.
+
+“Good girl. You survive now. Don’t think about anything else. Only the living can worry about what comes next.” Her nurse made the sign of the cross. “Rest. I’ll bring Dr Mills around after breakfast, after you’ve had ten hours of sleep and a meal. Don’t be too harsh on him. He’s a shịshị pincher, but his heart’s in the right place. Now rest. Nothing will make us happier than to see you walk out of here on your own two feet. Blink if we’re on the same page.”
+
+She blinked.
+
+“Oh, bless you, sweetheart.” The nurse’s eyes grew warm and moist. “Thank you, Eppie. It means a lot to us.”
+
+The nurse then asked her whether she needed to evacuate her fluids.
+
+Lana did not, nor would she want to be assisted.
+
+Click.
+
+The door closed.
+
+The room grew dark—then suddenly bright.
+
+[SYSTEM MESSAGE]
+
+“Do You Believe in Karma?”
+
+You who have brought woe to untold billions, live again to atone for your sins.
+
+Generating Persona…
+
+Processing…
+
+Processing…
+
+Processing…
+
++ Karmic Causality detected.
+
+The system is initialising…
+
+What the fuck is this? Lana had experienced every form of VR and AR on the market. Hell, she lobbied for weakened privacy laws to consolidate the AR glasses market, but even so, these displays had far too much fidelity. There was also the fact that she had one functioning eye, and yet she had depth perception.
+
+Will the Usurper Consent?[YES] / Spend Causality to obtain Potential. Disseminate Joy to obtain Causality. [No] / Oblivion awaits
+
+OBLIVION AWAITS? Her mind rioted. What the fuck does that even mean? Am I a part of some prank? Is this a prank game show? The menu, appearing no less than Apple’s latest offering in spatial computing, had no apparent control modules. If so, then it was ridiculous that..
+
+[No] Selected / Oblivion awaits in 3… 2…
+
+NO… YES! YES! FUCK YES! Lana almost screamed in the physical sense, were it not for the oxygen mask and the strangled sensation in her swollen throat.
+
+[YES] Selected. Initialising Persona… in 3…2…1…Warning! The Usurper's Health is below minimal operational thresholds. Automatically initialising stabilisation procedures. Exchanging 20 points of Causality for two points of Vitality.
+
+Exchange complete. [Vitality +2]Restoration of Persona progress…Displaying Potential
+
+Her vision dilated.
+
+Euphemia Fontaine [Lana Zacanissian]
+
+Causality
+
+Strength
+
+10 (-3)
+
+Athletics
+
+15
+
+Agility
+
+12 (-4)
+
+Acrobatics
+
+Health
+
+Vitality
+
+11 (-4)
+
+Endurance
+
+Pain Suppression
+
+12 / 25
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception
+
+Legalism
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+18 / 30
+
+Charisma
+
+12 (-3)
+
+Persuasion
+
+Intimidation
+
+Larceny
+
+Dasein
+
+Comeliness
+
+18 (-4)
+
+Seduction
+
+24
+
+TRAITS :: [Prophet of Profits] [Crippled] [Silenced]Inactive :: [Weak Willed] [Demure] [Fearful]
+
+What the hell is this? Lana had spent half of her life around Excel spreadsheets, and this was certainly not Excel (™). It looked more like the kind the eggheads put into games, or the tables e-publishers used to pad word count in those niche role-playing books that had become popular after the Paramount-Warner merger.
+
+Thinking of the merger, Lana felt smug as a golden bug that she was one of the architects who had brought streaming back after the House of Mouse bought the lot. The consolidation had allowed them to implement two advert tiers, two ad-free tiers with internal adverts, and a single ultra-premium tier with subliminal adverts.
+
+Consequently, she had to endure a grilling from the House of Representatives, and the public had sent her death threats, but the quarterly report was nothing short of orgasmic.
+
+Warning
+
+The Usurper’s health remains sub-optimal.Additional Causality required for the restoration of Health to optimal conditions.
+
+Karmic Roulette is recommended. Will you use Roulette?
+
+At this point, I am either insane, or… Lana focused her mind. She had to go with the flow if for no other reason than to find out what the hell was happening.
+
+“YES!”
+
+The voice that issued from her throat was sweet and weak and small and petite, completely different to the whiskey and cigarette tenor she had perfected over her tenure as CFO.
+
+[YES] Selected. Spending 15 Karmic Causality Points
+
+Processing…Processing…
+
+"There are darknesses in life, and there are lights, and you are one of the lights, the light of all lights."
+
+Bram Stoker
+
+Muse Acquired
+
+Que Sera, Sera Jay Livingston and Ray EvansPerformed by Doris Day
+
+Now what… Lana winced as a hand, small and delicate, escaped the blanket to hold her forehead lest her frontal lobes implode. Knowledge of a kind, insofar as she could tell, was welling into her mind.
+
+Of course, as a veteran of veterans in the entertainment industry, she knew Doris Day’s class-defining performance of Que Sera, Sera in Hitchcock’s The Man Who Knew Too Much. What she did not know, nor cared for, was that the song’s iconic title was an English corruption of "qué será, será", first used by the Church of St Nicolas as a motto. Livingston had deliberately taken the original inscription in Italian and then added a Spanish flair because, apparently, there were “many Spanish-speaking people in the world".
+
+What is the point of knowing a song?
+
+Was she to sing it?
+
+Her copyright work with Sony BMG had raised countless young starlets to atmospheric heights… but she was not one for karaoke, at least not without help from a bottle of Dom.
+
+Without warning. Her vision grew cluttered once more.
+
+[Songstress]? Lana fumbled with the idea while her hands fumbled with the oxygen tubes clipped to her mask. The burning dryness that had made her entire respiratory system feel aflame was numbed, though that detail was now drowned out by the roaring of Doris Day in her head. Her body still ached, and her limbs still felt like wet noodles, but at least she could move her neck.
+
+At any rate, [Songstress]?
+
+[Songstress]
+
+Causality Tier (B)
+
+Songs are the first art form of humanity, the root of culture and communication. Your talent has marked you as a born singer with above-average potential. Your singing voice will capture and fascinate others. This trait can be improved through training, performance, and Karmic Causality
+
+Lana rubbed her eyes, but the “screen” did not wobble. It wasn’t her eyes that were seeing this, but her head. Either someone had implanted a microchip inside her skull, tied it to her optic nerves, or…
+
+What was it that she first saw?
+
+[SYSTEM MESSAGE]
+
+“Do You Believe in Karma?”
+
+You are a Usurper who has brought woe to untold billions, live again to atone for your sins.
+
+Ah yes. That was it.
+
+Lana sat in the silence, her surroundings devoid of luxury but for the instruments that beeped. Wasn’t this what Emily had said? Before… before it happened? Before she drowned via bottles of Armand de Brignac shoved into her limited edition Burberry Gabardine Heritage?
+
+“What does that mean?” a voice that could only be hers spoke to the curtain. “What the hell is even Karma?”
+
+[SYSTEM MESSAGE]
+
+Your profiteering has twisted Causality and brought misery to millions and billions. The pantheistic powers that be demand recompense.
+
+“Me? I am just a face for the Entertainment Fundies. Everything I enabled were beautiful compromise… It’s not like I killed anyone. Is this because we sold the IP to the tech bros? Everyone was pardoned, if you must know. The President didn’t even use an autopen. If this is why I am here instead of in an actual hospital, I object.”
+
+[SYSTEM MESSAGE]
+
+A Usurper must pay their Karmic due.
+
+As a Usurper, your boundless greed has deprived countless others of Potential.
+
+As a Usurper, you have stolen, embezzled, swindled, oppressed, extorted and crushed the hopes of others without discrimination. You have taken songs from the lips of their singers, words from the minds of writers, and stories from the filmmakers. You who have catalysed the sale of ideas to soulless machines have given each and every dreamer a little death.
+
+As a Usurper, you have not murdered—yet countless Potentials have ended. You have ravaged the chamber of maiden thoughts, all because you chose to slake your thirst for a number’s game.
+
+In antiquity, Lana Zacanissian, the psychic loathing you have reaped would have given birth to a God.
+
+“Hold up,” Lana’s throat grew suddenly dry once more. “Is this divine judgement? If so… what denomination are you? I went to Church a dozen times, if you must know. I donated millions to the Church-led PACs. I’ll convert, right now, if needed.”
+
+Your Dasein is
+
+24
+
+Acquire Dasein through Karmic Reciprocity
+
+It was now clear to Lana that someone, somewhere, up there, was fucking with her. If this god-damned system had aphorisms to give, then she had one of her own.
+
+As flies to wanton boys are we to the gods; They kill us for their sport.
+
+Unfortunately, though her body looked like it had been mangled by a Roman Mob, she was no Antony.
+
+“What happens when… I am out of [Dasein]?”
+
+[SYSTEM MESSAGE]
+
+The Usurper will face oblivion.
+
+“Ah, that’s not so bad. At least it's not hell… So I guess the powers that be ain’t our brand of Christianity…”
+
+[SYSTEM MESSAGE]
+
+Your Dasein is
+
+23
+
+Acquire Dasein through Karmic Reciprocity
+
+“What the fu—” Lana’s eyes darted from screen to room, to the dark silhouette of her body covered by the white, perforated sheet, then back to the “screen”. It was then that she noted on the digital clock that it read 00:00. As a woman who had worked her whole life in high-pressure, snap decisions, she made the necessary calculations almost instantly. “I see.”
+
+She exhaled. “So, is this like Groundhog Day? I know it isn’t a do-over. Are we even on Earth?”
+
+The System was not cooperative.
+
+“Hello? System Sir? Ma’am? Sir, They? Oh my—”
+
+The pain was back.
+
+“[Health]?” Lana winced.
+
+[Health]12 / 25
+
+A quantification of the Persona’s state of being.
+
+When Health falls below half, the Usurper becomes prone to injury, infection, and other maladies. When Health is critical, the System will consume Karmic Causality unless otherwise specified.
+
+This quantification is affected by [Vitality]
+
+“[Vitality]?”
+
+[Vitality] 15 - 4 (injury) = 11
+
+A representation of the Usurper’s Life Force.
+
+As an adolescent, the Usurper currently possesses a level of vitality below that of the average adult. The Usurper is highly prone to injury. The Usurper is presently afflicted by [Crippled] and [Silenced].
+
+This innate statistic can be improved through exercise, care, and Karmic Causality
+
+Well, that certainly explained why she couldn’t move her body. “Hmm… [Intelligence]?"
+
+[Intelligence] 35
+
+A representation of the Usurper’s intuition, discernment, and cognitive processing abilities. The Usurper is endowed with generational intellectual potential that lies at the apex of talent, utilisation, and experience. Individuals such as these bring great change to the world, be it weal or woe.
+
+This innate statistic can be improved through study, invention, and Karmic Causality
+
+Her interest was now rightfully stoked. After all, such was the malaise of the hyper-intelligent.
+
+“[Comeliness]?”
+
+[Comeliness] 22 - 4 (injury) = 18
+
+A representation of the Usurper’s superficial, external presence in the eyes of her beholders.
+
+The Usurper is endowed with exceptional genetic privileges beyond those of the average adult in her present world. Presently, the Usurper is injured.
+
+This innate statistic can be improved through care and Karmic Causality
+
+“Alright…” Lana comforted herself with the assurance that first impressions were the first step of any shortcut to survival. After all, in a superficially social world, having a good face was the equivalent of having a permanent discount on the currency of social capital. “What the hell is the [The Prophet of Profits]?”
+
+[The Prophet of Profits]
+
+Causality Tier (SSS+)
+
+You have a supernatural eye for profiteering, honed to a molecular sharpness over many years of malpractice. Your ventures almost always generate profit for those in your Karmic circle. In your past life, it is the utilisation of this trait to its utmost degree that has usurped the destiny of millions. While this trait is active, profiteering will result in Karmic Rebound.
+
+Conditions of Karmic Balance must be met to neutralise this Karmic Trait.
+
+“I am here because I created too much value for my shareholders?” Lana rolled her eyes. To deceive others, you must first deceive yourself. “That doesn’t seem fair.”
+
+The system, if it did possess cognisance, chose not to clap back.
+
+Lana wanted to prod the system some more, but the more she called up its holographical windows, the more fatigued she became, until she once again fell victim to the lull of Hypnos.

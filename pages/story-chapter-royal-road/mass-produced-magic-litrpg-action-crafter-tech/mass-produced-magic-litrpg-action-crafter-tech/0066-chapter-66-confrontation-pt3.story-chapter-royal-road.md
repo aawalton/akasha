@@ -1,0 +1,146 @@
+---
+id: 71af08d9-644f-5821-8375-e2f49bb57ad9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66 – Confrontation Pt3"
+slug: 0066-chapter-66-confrontation-pt3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 66
+ownLength: 1433
+unit: words
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2104297/chapter-66-confrontation-pt3"
+royalRoadId: "2104297"
+---
+
+Kindra marched with the group. Undead sizzled and fell, swept away under the augmented weapons.  This is a bad idea.  Dread churned within her, and she pulled on every scrap of mana she could find.  “Aika, did he stop?”
+
+No response came back, and a cloud of green magic burst out of the middle of the city. The familiar runes glowed, and Kindra’s mouth dropped in horror.  Not again.  “Run!” she barked alongside dozens of others. Dwarves burst from their homes. The group of rebels broke, everyone fleeing the magic.  Aika.
+
+Kindra stopped, darting away from Sigrid and dashing down the cobblestone streets. Fixing the counter runes in her mind, she looked down the street and toward the square.
+
+A woman with long white hair, a short nose, and icy blue eyes stood there. Wearing a silver dress, Elana looked almost regal if it weren’t for the horrific magic pouring out of her. A blight that was all too familiar.
+
+Laughing at the fleeing dwarves, Elana gestured with another hand. Kindra watched the magic forming. It flowed and gathered into a concentrated ball before streaking across the sky.
+
+Kindra darted out onto the street and raced toward Aika’s charred remains. Her body lay there, and the sound of breaking stone mixed with screams.
+
+Reaching into her storage, Kindra pulled out the fifty caliber. The cloud of green encompassed her like some horrific mist, and the runes in her mind flared. The magic around her did the same, and a presence slammed into her mind.
+
+“Who are you?”
+
+“Who are you?”  Kindra echoed back.
+
+“My sister,” Elana called from the tower. “Return to us. Mother wishes to speak with you.”
+
+A shiver ran down Kindra’s spine. She felt pressure slam into her mind.
+
+“Stop this poor behavior, sister.”
+
+Kindra frowned.  “Sister?”
+
+“Of course. You were prepared for a far better life. Don’t you remember?”  Elana’s laughter faded. The sound of crashing stones filled the air.
+
+“Kindra!” Sigrid shouted in the distance. “Kindra, where are you?”
+
+Kindra froze.  “Remember?”
+
+“It can be difficult, but I will aid. Come to the square and cease fighting my spell,”  she snarled.
+
+Kindra felt a strange, soothing presence wash over her. It was warm, comforting, and smelled like hot chocolate.  It’s so nice.  She stepped forward, and runes shimmered by her eyes.
+
+Realization slammed into her like a bullet. Kindra exhaled and stepped forward again. She let the runes in her mind fade and began working on another, stepping forward and looking down the barrel of the gun.
+
+Burning the last of her mana, she triggered Enhance Item.
+
+[Fortified 50 Caliber (Tier 1) has been enhanced with Minor Shield Penetration for 2 minutes.]
+
+Stepping forward, Kindra raised the gun and looked down the barrel. Minor runes danced around her, and she lined the shot with Elana’s head.
+
+“There you are,” Elana said. She smiled. “I think I have the perfect gift for both you and mother.” She snapped her fingers, and the magic stopped rolling off her. It lingered through the air, and Kindra recalled the runes.
+
+Like a ripple upon the waters, the magic shook. The fog vanished, and Elana’s face contorted in anger. She glowered at Kindra. “What the hell do you think you are doing? Would you throw your future away?” She looked at the gun with confusion in her eyes. “Why would you have that? Did you take a lesser class?” She gasped as if she’d been stabbed.
+
+Buy time. Buy time and fire.  Kindra stepped forward. “Lesser?”
+
+“Yes, you dolt. The ranking matters! Why would you pass up a far superior class only to get that—what is it?”
+
+Kindra smiled and studied the white-haired woman.  She does look like me.  “It helps me see things,” she lied. “And why would I have sacrificed the best class?” She stepped forward.
+
+Elana sighed. “Well then, use it to watch me help you ascend to something far better.” Magic gathered around her, and Kindra pulled the trigger.
+
+The cold metal moved with her finger. The firing pin slammed into the cartridge, and the powder inside exploded.  Welcome to the modern age.  The gun cracked, and Elana’s head exploded.
+
+What? No stamina?  Kindra stared in shock. The woman fell backward, and the casing bounced off a stone wall.  How was it that easy?
+
+“Kindra!” Sigrid shouted.
+
+Kindra darted forward instead.  Aika. Where is her body?  She reached toward the corpse and froze instead. A cloud of black and red swirled and churned into the air, pulling itself out of the corpse. It whirred toward her like some living horrific force, magic forming a shield around the strange entity.
+
+She connected with it and felt the dark presence inside.
+
+“You’ll pay for this,”  Elana hissed into her mind and slammed into Kindra.
+
+Familiar runes flashed into view. Kindra felt the thing trying to enter her body. Massive pressure shoved her mind down. It grew and grew and grew. Her heart thundered in her head. Her body quivered, and Kindra ripped the magic away from being, pulling it into herself.
+
+The magic flooded her like a tidal wave, and the darkness came with it. Both surged into her body and mind. The pressure grew, and she screamed.
+
+“Don’t fight it!” a voice hissed.
+
+Kindra slammed her will into it, ripping the mana into a churning vortex inside. Like claws digging into her brain, the thing clawed toward her, and she shoved.
+
+The thing burst out, black smoke oozing into the air and dissipating, turning into nothing. With her vision blurry and her heart thundering, Kindra staggered forward, stashing her gun.
+
+[Your mana has increased: 4677 → 12390.]
+
+Kindra stared at it, her mind and body swimming as the mana churned through her body.  What the hell?
+
+A low whistle rang through the air, and she blinked, clearing away the text and looking out at the swimming mana. It churned through her body and eyes.
+
+“Kindra?” a blurry Gleon called, walking up and passing Sigrid. He held up a blurry axe.
+
+“Gleon?” Kindra blinked at the blurry surroundings. “Do you see Aika? I think she died.”
+
+“Are you infected?”
+
+“I think I’m immune for some reason.” Kindra blinked and felt mana engulf her. She blinked and struggled to find the meaning.  Calm down, mana. Calm down.  She pulled some into her center and willed it with the ball inside.
+
+[Your mana has decreased: 12390 → 11310.]
+
+[Your level has increased: 17→ 20.] 
+          ‎ [Your intellect has increased: 32 → 38.]
+
+Pausing, she distributed it among dexterity, speed, and stamina.
+
+[Your dexterity has increased: 16 → 20.] 
+          ‎ [Your stamina has increased: 12 → 16.] 
+          ‎ [Your speed has increased: 16 → 20.]
+
+The pressure began to drop, and she blinked up at Gleon’s axe. “Gleon? What?”
+
+“Nothing. Just checking something,” Gleon said, lowering the axe and dashing forward. He scooped up Aika’s charred body and looked around the square.
+
+Kindra rubbed her eyes and did the same. The captured, the guards, and the mayor were dead. Thier bodies were lying there, runes lingering in their flesh.  Not again.  “They’re infected, Gleon.”
+
+Gleon handed her Aika’s body and gave her a deep look.
+
+Kindra cradled Aika in her arms and burned some of her new mana. A wave of healing passed over her body, and Aika’s eyes opened. She looked up and smiled.
+
+“Welcome back,” Gleon called, hefting his axe and walking up to the corpses. He chopped, cutting a head off.
+
+Kindra grimaced and looked at the text in front of her face.
+
+[Please pick an upgrade…]
+
+“You!” a voice snarled. Churning wings sent bursts of air downward, and Kindra looked up, dismissing the text.
+
+A livid woman with white hair glared down from what had to be an undead dragon. The massive creature’s skeleton churned the air, and Gleon jerked up.
+
+Magic flooded the air. Diana glowered, her dragon landing and smashing a cottage with its tail. She turned and then gestured. “Kindra, my daughter, kill him.”
+
+Kindra swallowed and reached for her gun. “What?” she whispered.  Who are these people?
+
+Diana nodded. “Kill him. Make him pay for what he did to you and—”
+
+Gleon leapt. He swung his axe, fury glinting in his brown eyes. It arced through the air and slammed into a transparent magical shield. Bouncing off it, he landed, and Diana laughed, sliding off the dragon.
+
+Straightening her dress, she gestured, and magic streaked out, snaking toward him and slamming him into the ground. “Come my daughter. Take your place with me.” She gestured. Runes filled the air, and she barked a compulsive order. “Feed!”

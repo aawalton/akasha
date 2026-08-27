@@ -1,0 +1,125 @@
+---
+id: 490a7f7a-5cec-5098-a359-3173fcbe0722
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120 Plan in Action"
+slug: 0133-chapter-120-plan-in-action
+partOf: melody-of-mana
+position: 133
+ownLength: 2295
+unit: words
+ownProgress: 2295
+publishedAt: 2022-04-15
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886150/chapter-120-plan-in-action"
+royalRoadId: "886150"
+markedReadAt: "2026-06-29T22:36:58.060Z"
+---
+
+The day of the event came and we were all loaded into carriages.  Our group was loaded down with items in bags and we were all prepped.  Everything was safe, and all had the ability to give a small flash of blue light and burst of cold when they went off, our signal for an item that would kill/disable the opponent if it landed.
+
+The rules of engagement were similar to the standard ones for any of our training exercises.  There were a number of safeguards in place that were supposed to keep anyone from getting hurt, at least seriously.  We also knew that Professor Endel and a few others would be around, keeping an eye out for cheaters and those who might try to use more dangerous moves.
+
+Soon enough we arrived at our training location, another walled off forested area.  There were a number of these, other than The Junkyard Copse, and they were mostly used in the past by very wealthy nobles who wanted a personal hunting preserve.  It lacked the warding that particular copse had, instead using a simple wall, but for our purposes that would be more than enough.
+
+"Alright everyone line up!"  Professor Endel looked at the assembled youths with an evil grin, and then began pointing.  "You, you, you, and you, you're group one.  The rest of you lot are group two.  Now for the scenario, group one will be loosed into the woods and have until nightfall to set themselves up, group two will be the pursuing group and will be in charge of taking group one out.  If group one has more than half of their players left at the end, they win."
+
+"That seems rather unfair to group two."  One of that group's players pointed out.
+
+"It is, but war is often not fair."  He left out that this setup would practically force us to fight, without some reason to we would stalemate.  "Alright then, group one head out."
+
+I was of course in group one, and quite happy to be.  I felt that our plan would work out better that way.  Once we were out of sight of the other students we stopped for a brief chat.
+
+"So, how do we want to do this?"  One of my classmates asked.  She was a rather skilled wizard and one of the better fighters on our team.
+
+"I'd like you to drive them towards us.  Also, we won't be using drums, as they'll be useless once we start."
+
+"What?"  Another student perked up, in war one normally used a sound like drums, or drums themselves to communicate over distance.  Sometimes one would use light and the like too, but the deep sounds carried well and would easily relay orders.  "Light then?"
+
+"Sorry no.  Once everyone is in place We'll be able to send a high pitched sound and a moving light out, we'd like everyone to try and drive the enemies to the source."  I'd come up with this, and would be right there at the center.
+
+"Fair enough, we can set up in a semicircle and..."  The placements for the other groups were decided, made in a way to thin the enemy herd and funnel them into us.  Going after them might have been easier in some cases, but for this one we wanted everyone to come to the location of the fight.
+
+Samantha
+
+Professor Endel had designated us as the attackers and I was ready for it.  We'd all been practicing, and going back and forth on what items we wanted.  My group was all wizards and we were the best for this, our shields were good and we knew our team well.
+
+As soon as the time was called the three of us moved as a unit.  We'd been given time to discuss and come up with the idea of sticking to our own groups.  Each group of three would move forward, trying to find the enemy, once we did we'd send up one of several designated signals.  The only banned color for this exercise was blue, a blue light would indicate that a given person was out of the fight, or that there was a hit in that place if accompanied by cold.
+
+The two girls with me were named Alli and Menae.  Menae had put some kind of sound muffling magic on us while I handled a spell that made the light around us just a bit darker, it wasn't invisibility, but it would make us just that much less easy to spot.
+
+I wanted to laugh.  Endel had put all those with the best dueling ability on our teams, and given us numbers.  Sure, the enemies had some neat tricks, but in the end, we'd win this.  Now was not the time though, once we'd taken them down...
+
+As I was thinking a red light flew up from near us, forward and to the right, going high into the sky.
+
+"Enemy found," Allie said, smiling slightly.
+
+As we started we heard five drum beats in one of the standard patterns off to our left, one of our signals for 'Under attack, need aid.' with a look we turned to their aid.  As we did, a green light went up from behind, then more of the standard drum signals started from several different directions.
+
+"What!?  There's no way all that's happening at once!"  I yelled over the booming sounds and flares going up all over the damn place.
+
+"It's something the enemy is doing!  They're trying to kill our communication!"  It was Menae this time and she was right.  This was all just a ruse to keep us disorganized.
+
+"How pathetic.  I can't believe they spent that much effort on this.  We still outnumber them and will still win.  Forward!"  As I pointed towards the opposite end of our entrance there was a screaming, keening noise.
+
+A brilliantly gold glowing missile streaked over us, exploding three or four hundred feet behind with a thunderous *BOOM* followed by several sounds of impacts.
+
+"WHAT THE ACTUAL FUCK!  HOW DID THEY GET ARTILERY IN BUDGET!?!"  Alli screamed as the monstrously dangerous projectile passed us by.
+
+"Stop screaming, they can only have gotten one or two.  One of the groups must have..."  At this point I had to eat my words as four more came flying over, all headed towards different sections of the field.
+
+They had to be some kind of item, the range was too far for most spellcasters, and a big burst of energy like that would have been pretty tiring.  We were lucky in that they all seemed to be coming from one section of the wood.  As one we turned a final time, heading to where our enemy must be.  Or at least the most likely area.
+
+We lucked out in that on the way we met up with another of our groups.  They'd had the same issue as us and come to the same conclusion.  Our new six person team was a real threat as we barreled at our attackers.  Even if all of them were there we could still do some good damage.
+
+It was easy to see where we were heading to as we approached, because of all the light.  Not those in the sky, though they probably helped, but the fact that a small meadow had been cleared up and torches were set at close intervals, bathing the whole area in warm brilliance.
+
+That alone would have been odd, but it wasn't the weirdest of it.  The weirdest part was the bard girl dancing in the middle of the field like it was some kind of stage.  In fact it looked like they'd actually cleared and raised part of the field for her to use as a stage.
+
+"Okay... so, we just go take her down?"  One of the boys who'd joined us on the way asked as another screaming projectile flew up from near her and arced off.
+
+"Oh no, no that's a trap.  There is no way that isn't an illusion and she isn't planning some weird nonsense.  We go in there and we're done."  One of his friends was smarter than he was, and nailed it.
+
+"I agree, I don't see the purpose yet, but let's put up our barriers and wait for reinforcements."
+
+Setting up our defenses was easy enough.  Alli put down several spheres while we covered her and a small dome popped up.  It would keep out anything high energy, no dangerous projectiles, no heat or cold spells, no lightning, the last we'd added since we'd heard about this particular bard being known for using it.  A person or something small and slow could pass through, but not at great speed, and it would flash to warn us.
+
+We sat there for several minutes, seeing nothing of note.  One of the nearby trees shook a bit from a passing wind and I heard Alli say, "Stupid pine cones."
+
+"What?" I asked as I turned.
+
+It was at that moment that something small struck me in the kidney.  It wasn't hard, or fast, but about the size of a little stick.  When it hit it let off a burst of blue light, and a trill of cold that flowed up my spine.  The sign that I was dead.  Almost simultaneously the same thing happened five more times to my teammates.
+
+"Ugghhhh."  I groaned as I tapped myself to put a blue light over my head, then we made our way towards the point for the dead.
+
+At least we weren't the first.  Five more from my group and three from the opposition were already seated there, playing Endel's strategy game.
+
+Alana
+
+Back in my previous life I'd heard about a leader who'd thrown open his doors and beaten drums loudly at an approaching army.  The army, convinced that it was some form of trap, had retreated and the leader had gained the time he needed to gather his forces and push forward.
+
+That was why I was dancing on a stage in the middle of a brightly lit field.
+
+My classmates had fought me time and again, had seen me make copies of myself time and again.  Every single one of them would know that this was a ruse, a trap to draw them in, or make them cast at me.  Every single one of them would guess wrong, and I could save the mana I'd otherwise need to make myself invisible.
+
+While I bluffed like a poker player with pair or twos I instead focused on moving around our light and sound show.  They were far out and I needed a bit of height to get them all where I wanted, hence the stage, but they were doing their job excellently so far.
+
+Troy was sitting on a disc of force quite high up in the air and well cloaked and was in charge of firing our artillery behind and to the side of our enemies.  He was doing a marvelous job of herding those that would have been difficult to see from the ground towards us.
+
+As a note, almost no wizards flew.  I couldn't really manage that much direct kinetic energy as a bard, but from what I understood trying to manage all the forces while rocketing through the air was both really hard and very disorienting.  Some of those who tried ended up flying into large solid objects, like the ground, so few went that route.  There were reports of well protected ones going along a set path though, but the mana cost was reportedly obscene.
+
+What I could manage were all the little items that we had to confuse our opponents.  Most of those were about the size of a ballpoint pen, and were either bright flashing lamps, or noisemakers that sounded like drums.
+
+Leeve was on the ground, well hidden in the trees, managing the 'sedative darts' an idea I'd stolen from the capture team.  He waited for someone to come near to the circle of light then snuck them into their midst and took them down.  I had to admit that from what I could see he was doing a spot on job too, he'd dropped like eight or nine people.
+
+Dawn came in it's due time and our game ended.  As we all walked towards the meeting area our victorious team's approach started a line of questions.  I was sure Endel could answer all of them, but he'd apparently wanted to wait for us.
+
+"That was funny, but you know in battle that wouldn't work right?"  He said as we came over.
+
+"I was told that.  I think it would if we refined it, but with the time and what we had it was good for this opponent."
+
+"What I want to know is how your groups managed to buy artillery items.  Those are expensive and if they were real the cost would have been unbelievable!"  One of the girls from the opposing group demanded.
+
+"They didn't," Endel commented dryly.  "Didn't you notice that none of those used blue?  That while they made a bunch of noise they didn't have any wave of cold or even a breeze from their 'explosion'?  It was all just sound and light.  None of them even came near you lot.  It was just something more to throw you off.  Oh, and to lead you into their kill-zone."
+
+"I will admit that the dancing illusion was a good distraction."  One of the boys commented.  I could tell he was staring, and not at my face, but I ignored it.
+
+"Anyway, since we're all done now, I think I fancy a bit of a nap."  It was late after all, and we had been up for far too long.

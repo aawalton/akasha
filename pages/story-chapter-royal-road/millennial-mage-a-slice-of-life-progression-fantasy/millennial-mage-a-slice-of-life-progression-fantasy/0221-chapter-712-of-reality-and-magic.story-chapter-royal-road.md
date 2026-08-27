@@ -1,0 +1,241 @@
+---
+id: 19c65df1-d0c0-5769-b236-28ce33d56be1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 712 - Of Reality and Magic"
+slug: 0221-chapter-712-of-reality-and-magic
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 221
+ownLength: 3012
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3495967/chapter-712-of-reality-and-magic"
+royalRoadId: "3495967"
+---
+
+Lea fought with Pillar Tili and Eskau Kanabo while Eskau Pallaun looked on, a humorous smirk on his lips as he observed from the sidelines.
+
+She was not physically engaging with the two powerful members of the House of Iron, not at the moment. Instead, she was using her physicality to dodge and maintain safety while striking out with her new toy.
+
+It’s a tool, not a toy, Lea. Don’t make that mistake again. She almost shuddered, remembering the look Eskau Pallaun had given her when she’d referred to it that way out loud. He had been rather displeased.
+
+As to what this new tool was? Her body had responded to her forays into the reality iron manipulation and her abilities with it by unlocking several new systems within herself that she hadn’t been able to find before.
+
+Rust and slag, no one had known about them. They were reality based, and no one—except possibly her mother—had any way of seeing them.
+
+Moreover, she supposed that it made sense that it had been obscured even from her as she hadn’t had reality iron at her disposal before, but it was still both a pleasant surprise and a clear reminder that while she was in command of her body, it hadn’t always been her.
+
+This had been an automaton body, and the Black Legion had somehow either shifted reality or tapped into it deeply to carry their purpose, their abilities, and their mindset to every automata across all of Zeme, no matter when it was made.
+
+It made it incredibly clear why every recorded attempt to make automata ended in disaster.
+
+Now, though? Now, she needed to learn more, and a treasure-trove of information and potential was laid out before her. And thus I must dive ever deeper into murky waters, in order to map this lake that is me.
+
+One of these newly unveiled systems had pulled the reality iron into herself, melding it with a portion of her white steel in order to create a sub-type of alloy that wasn’t the black of the Legion, nor the white of the Talons.
+
+She then used her mastery of her own flesh to weave the gray strands throughout her form, around her inscriptions and other magics.
+
+Her body knew the forms the new alloy could sketch out, though she didn’t utilize all of them, not by a long shot.
+
+She wasn’t interested in overriding her own magics and replacing them with workings of reality, and she honestly felt that she would be lesser if she did.
+
+Instead, she picked and chose, latching onto several of particular interest and even rearranging and finessing the offered schemata to enhance the desired results.
+
+The most obvious one was the workings to better shape and control the reality field that she and the Black Legion could generate.
+
+It was these workings that she was using to lance out and precisely disrupt the magics of the House of Iron pair. She could also target ongoing spell effects outside of their bodies, but those had hardly any effect on her to begin with.
+
+That near lack of effect was because of the second working that she’d selected and incorporated. At its base, it was simply a very short range, high-intensity sort of ‘armor’ of reality that was purposely imposed, starting about half an inch from her form, extending to two inches away in every direction.
+
+This—more even than her direct interference—rendered ranged magical attacks all but non-effective.
+
+The reality armor didn’t have the direct backing of will, cognizance, and weight that was required to affect opponents themselves—meaning that they could grapple her or strike through it with little effect—but free-floating magics were universally torn apart, at least in their tests.
+
+Third, she kept the workings for connecting to other reality fields exactly as they had been. She didn’t understand the not-magic well enough to change them without great risk of harming or utterly ruining them for their intended purpose. For all she knew, if she altered their structure, she’d be unable to interface with Black Legion effects at all.
+
+As to why she wanted to do that? It had to do with the next working, one that she had expanded and enhanced, following the information buried in her claimed form.
+
+The odd reality-memory-reserve was even quite helpful in giving different versions so that she could determine which she wanted.
+
+This was the working of command. With it, she could—in theory—take control of a unified reality field of many different Black Legionnaires. She would need to experiment before she would know what all that would open to her. Regardless, she did not expect to be able to order the automata themselves, simply hijack their fields to some extent.
+
+She ducked, spinning under Eskau Kanabo’s club as it swept across where her torso had just been.
+
+A spike of enforced reality targeted the bear-kin’s head, temporarily removing the natural enhancement given by high magic density, and slowing his reaction speed.
+
+Lea used the opening, punching the inside of his front thigh, drawing forth a cry and causing the man to crumple as his immensely powerful quadricep spasmed from the precise impact.
+
+She wasn’t only dodging. Eskau Pallaun had suggested that she be allowed a single strike against each opponent for every six they sent her way. Just to keep things interesting.
+
+She swept the leg with enforced reality as she pulled back, preventing his magics from quickly repairing the injury and ‘resetting’ how reality saw the leg’s natural state to be.
+
+He could still heal it of course, but it would take more focused effort and more power to do so. If she were stronger, she thought that she might be able to make it all but impossible to heal, but she doubted it. Magical healing could do a lot to alter and repair the body, after all.
+
+He cursed, giving her a mock glare. “By the stars, girl. You’re vicious.”
+
+Lea grinned. “Well, we’re training for”—she ducked the strike from behind, not letting the attempted distraction allow her to be caught unawares—“actual combat, aren’t we?”
+
+She spun beneath the thin blade that Pillar Tili grudgingly began wielding in their matches. It was apparently her preferred weapon, but she kept it hidden in times past to prevent targets from preparing for it ahead of time.
+
+Lea made its use a necessity, and that gave her a wonderful feeling of warmth and pride.
+
+But the bout was hardly over.
+
+Pillar Tili used the proximity she’d gained to launch a powerful drill of heavy, hard air aimed directly at Lea’s chest.
+
+Lea’s normal responses wouldn’t be enough. Even the reality armor would only blunt such a powerful strike from such a close range. In all likelihood, Pillar Tili would have maintained a connection to the working, making it able to all but ignore that defense. As such, Lea pulled, feeding more power into her reality iron.
+
+What she pulled wasn’t magic, and it didn’t come through her gate, but it did come from her soul.
+
+If she were an orange, then magic would be orange juice—coming from the inside—and this power would be zest, coming from the outside, the containing matter, her actual soul rather than that gate which was the connection between the parts of her broken self.
+
+As she did that—meeting the incoming magics with a counter-force to undo and disperse them—she felt the power mix with the magic already flowing through her body and inscriptions, that mixing causing a reaction.
+
+Her body rippled even as she twisted, braced, and struck, driving the bird-kin backward and using one of her built-up attacks against the woman.
+
+The rippling of her form allowed something like sand to shake free, though it was both darker and finer than such implied.
+
+It wasn’t the first time, and she was looking forward to having a moment to investigate what it might be, but for the moment, she knew that it wasn’t negatively affecting her magic or reality workings by falling from her.
+
+If anything, those uses of power were becoming slightly more forceful, more efficient, more effective.
+
+Lea kicked Pillar Tili away, spinning just in time to deflect Eskau Kanabo’s heavy club as he’d tried to strike her silently from behind.
+
+The big bear-kin chuckled. “Thought I had you that time.”
+
+“Not quite.” She grinned back before launching forward once more to dodge past him as he attacked again, continuing the bout.
+
+An hour or so later, Lea sat in a meditative pose, legs crossed before her, hands resting on her knees, eyes closed.
+
+Her perception and focus was entirely inwardly focused despite the stunningly luminescent night sky overhead.
+
+Given they were near-to halfway between two cities, there was effectively no light pollution. Even the heat sources they’d used to cook a bit of food had been shrouded by Eskau Pallaun to ensure their group wouldn’t make themselves apparent from afar on the moonless night.
+
+They could defeat even a medium sized Black Legion attack, but they would prefer not to be forced to do so.
+
+Inward focus, Lea. She quirked a smile at her own lack of self-control. Even with her eyes closed, she had near perfect recall of the humbling star-scape overhead.
+
+But inside was her priority.
+
+Within, she held two slightly oppositional powers, both seeming to be drawn from her soul.
+
+No, that’s not right. One is coming from my soul, and the other is coming through it.
+
+That was an odd distinction, but she felt like it was an important one.
+
+The one originating from her soul directly was interfacing with the reality iron alloy that she’d allowed her body to craft, with the forms of power that were now woven within and around her inscriptions.
+
+The one originating through her soul went to her inscriptions, and her body’s suite of natural functions.
+
+As she traced through the systems within herself, she found what she’d found before, her digestive system broke down what she ate to supplement what came through her gate, among other things.
+
+That second, ‘through’ power was obviously magic, and that meant that the first—the ‘from’ power—was somehow… reality?
+
+It was interesting, because it had no ability to do anything in the sense that she was used to. If applied to anything mundane, it just… was. If used against magic, however? That was the source of the Black Legion’s deadliness to gated humanity and now the other magic users in the world.
+
+In her body, the little reality power—whatever it actually was—seemed to be used to stabilize and reinforce the various materials and parts so that magical enhancement could be even more effective.
+
+Used externally, she had the previously expounded possibilities that the Black Legion had perfected and used to such great effect.
+
+As she examined further, she found that even though the two powers were coming from directly beside one another, they weren’t actually interacting. After all, such an interaction would actually spend the reality in removing the magic… Leaving her with none of the first and less of the second.
+
+Huh… I wonder if that actually happens in a normal gated? What if all human souls had a bit of reality generated by them. That would explain why non-gated were generally worse with magic than non-humans. Then, with gated, that was simply overcome by their throughput.
+
+Then, Archons purify their magic by… reducing their connection to reality? Increase their soul’s bent toward magic?
+
+That actually could be the case.
+
+Does that mean that all humans are reality bent naturally? If so, that was quite the interesting thought…and entirely off topic.
+
+So, for me? The two aren’t interacting… She frowned, pushing her perspective through the constant outpouring, seeking the division between the two and… There!
+
+Something she couldn’t sense was there, between the two other powers despite them seeming to be directly side by side. There was a stark division that took no space but was clearly there.
+
+Void.
+
+Her soul was constantly imposing division between her reality and her magic.
+
+It’s my void.
+
+That was… That was important.
+
+She knew that she’d been called ‘existence souled’ in the past, but nothing had really come of it.
+
+It made for a noteworthy label but otherwise? Nothing.
+
+For all they could tell, she was gated. Just gated.
+
+Now, as she was finally on her own and finding ways to pull on and utilize her connection to reality, she was also seemingly utilizing her void more as well, facilitating her continual use of both.
+
+If my soul is producing it, my will should be able to influence it. She fell deeper into meditation, reaching out and trying to seize the trifurcation of power—as odd as it was to remember that the very fact of division between two was the third—bending it to her will.
+
+She was able to split off a small bit without disrupting the otherwise constant flow outward.
+
+As that unified thread shot sideways, it ‘manifested’ in her right shoulder, and she watched closely as something happened.
+
+That same odd sand was suddenly present, seemingly condensing from the materials that she’d thought pure.
+
+Her body acted to contain and expel the exposed contaminants, and she understood.
+
+She was exposing her body and her makeup to what was an imperfect form of existence power, and even that shadow of the truth allowed the material of her physical form to move beyond previous limitations.
+
+To be Refined.
+
+Lea broke out into an uncontrollable grin, but that was insufficient to contain her glee.
+
+A near-manic laugh overflowed from her, drawing the attention of her three guardians, who were all but finished cleaning up their camp for departure.
+
+Lea’s eyes snapped open. Lifting her right hand to examine her own aura more closely, she registered that she had, indeed, decidedly moved a bit closer to Refined.
+
+Likely, her earlier sparring had allowed much of the advancement that she was just now noticing, but her own efforts had definitely borne fruit.
+
+It wouldn't be easy, nor would it be fast, but she had a path forward.
+
+She could advance.
+
+* * *
+
+Tala was practically dancing from foot to foot, only a masterful amount of self-control kept her still.
+
+-You look like you have to use the restroom.-
+
+…You could help you know.
+
+-I’m not emptying your bladder.-
+
+Tala sent a glare toward Alat. You know what I mean.
+
+-Of course I do, but do you really want me to assert control over part of your body just so you don’t display giddiness or nervous excitement?-
+
+…No. Tala scrunched up her face even as most of her mentality—along with most of Alat’s—whipped through the final applications of her magics upon the final resort hold in the final city, Croi.
+
+Croi being the final had been a concession by the House of Blood—well, the fact that they were providing most of the power until the city’s new magical fount could be built was the real concession—in order to help alleviate fears of favoritism.
+
+It was actually quite a concession given the ongoing cost of the quickways atop the other magical drains in the area.
+
+The House of Blood had been required to pull in a lot of resources from other cities to provide enough power to keep that wonder functional through this time.
+
+Additionally, the resort hold that would be providing that power was also slightly larger that the others—again at the House of Blood’s expense, but this time not entirely—and the Houses and guilds of the city had come together to help bear some of that cost.
+
+Every city had oddities and variations in their magical needs, but Croi definitely had the highest constant use.
+
+Soacali—the one costal city that had lost its column—had periodic, high magical requirements when they discouraged beasts of the deep sea from coming too close. They also suppressed and leveled the nearby ocean when storms or unnatural swells or waves might otherwise have threatened the prosperous city and port.
+
+The way that they’d described it to Tala was that the continental shelf was just off shore—less than half a mile—and that meant that the water went deep and quickly.
+
+There were a few aquatic beast-kin cities nearby as well—along the coast north and south but under the water rather than on the shore—making it a critical connection point in various trade networks.
+
+Additionally, there had been numerous ships and boats that at least somewhat drew on the ambient power, making it the second most power hungry city that Tala had worked in
+
+Another place of interest had been the predominantly elven city of Lothendel.
+
+Situated in an ancient forest in a high mountain valley—not as high or as large as the one that Monstranous occupied, but it bore noting nonetheless—the city had been one of peace, research, and education.
+
+That city had required the smallest new source of power given its peculiarities, including the fact that the tree species that made up the forest seemed to slowly—very, very slowly—exude power, thereby bolstering the ambient magic of the region and supporting the arcanes who lived there.
+
+It was funny. When Tala had been serving a Pillar, she’d only been to plains cities, and while they’d each had their own flavor, their own feel, they had been much the same overall. Now? Now she knew that such wasn’t ubiquitous. It was the plurality given most arcane cities were on the plains or at least bent their structure and feel in the same direction, but each city was a kaleidoscope reflecting the differences and strengths of the citizenry therein.
+
+She felt like she could spend years in each of the ten cities she’d briefly visited, getting to know the people, the restaurants, the feel of each place. Even so, she’d likely continue to find new things for decades if not longer.
+
+She might be able to come back for quick visits in the future—ideally with Rane, Terry, and Lea—but she doubted she’d get to truly explore them in the short term.
+
+For now, it’s enough to work for their continued existence.

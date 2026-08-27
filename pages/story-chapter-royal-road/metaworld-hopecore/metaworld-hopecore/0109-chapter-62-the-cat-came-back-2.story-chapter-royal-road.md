@@ -1,0 +1,207 @@
+---
+id: 7fcc7c22-6fcf-5fb6-b481-ade646bb82a0
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 62 - The Cat Came Back (2) "
+slug: 0109-chapter-62-the-cat-came-back-2
+partOf: metaworld-hopecore
+position: 109
+ownLength: 2097
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3540975/chapter-62-the-cat-came-back-2"
+royalRoadId: "3540975"
+---
+
+Tuesday evening. The music rooms.
+
+Zara was already present when Eppie came in. The guitars were ready, and the Spanish girl was tuning her instrument.
+
+When Zara saw her, her joy bloomed.
+
+The two hugged. They were partners and old friends now, so the hug lingered and carried more weight than one offered for perfunctory reasons.
+
+“You look different,” Zara remarked as they separated. “More mature, perhaps?”
+
+“Well, a lot happened…”
+
+Zara placed her chin on Eppie’s forehead. “Same height though.”
+
+“Haha…” Eppie wondered if she should pick Zara up with her [Strength] and swing her like a flower pot.
+
+Her friend picked up the guitar and took her seat.
+
+Eppie took up hers and tuned the strings with [Perfect Pitch].
+
+They started with free style. Zara had gotten better in the traditional sense. Her left hand was faster, her transitions cleaner, a new economy in her strumming that came from training with Paco at the bar.
+
+Eppie had not practised, and it showed. But something else had changed. When she sang In the Pines, the song sounded… more textured. It sounded richer, deeper, like she was pulling up something from inside her that hadn’t existed before her NYC trip.
+
+After the second practice, her friend grew curious.
+
+“What did you do over the holidays?” Zara asked. “Your register sounds different.”
+
+“What did I do?” Eppie inhaled and exhaled. “You ready for a STORY?”
+
+“Eppie,” Zara rolled her eyes. “It’s been two weeks. What did you do? Change history?”
+
+“Well…” Eppie strummed her guitar. “Let’s start with Juliana Vaughan’s house…”
+
+After she finished with Kiritani-sensei returning to NYC, Zara set her guitar down and had to get a drink of water.
+
+“She kissed you?” Zara asked.
+
+“Is that…” Eppie slid the guitar to her side. “The thing that stood out to you?”
+
+Her friend was blushing furiously. “The Kiritani stuff was nice as well. You did something incredible again, Eppie. The Japanese community here will talk about nothing else for a year. There are Nikkei in Fresno who had been in those camps, not to mention folk from Mio’s Church.”
+
+Eppie looked at her Spaniard until she looked away, imagining Zara on stage, flashing her gams through a flaming red dress. I still got Strictly Ballroom… but that was work for after she was done with LAPA. Her Karmatron Trust was piling up nicely, ensuring that she would have no shortage of funds. Concurrently, she thought about her Sensei doing interviews and reorganising fifty years of his work, not to mention producing new ones for the new exhibition in March. The productivity of it all was very calming. “Yeah. I am glad it all worked out.”
+
+Zara’s gaze lingered somewhere above Eppie's chin, then the guitarist picked up her guitar again.
+
+"From the top?"
+
+"From the top."
+
+By day three, the week found its rhythm.
+
+Kirby moved them through Act II. After Abigail’s accusation, the arrests began. Salem fractured along fault lines exploited for greed and grievance. Rebecca Nurse was taken. Giles Corey said more weight until he died. Private settlements became public executions. They read the lines out loud. They absorbed the common man’s tragedy.
+
+In Cooper's arts block, they performed the entry of the Andronicuses, the triumph that led to Titus's first catastrophic decision, one made out of pride, before the play was twenty pages deep. Eppie read Tamora's lines while keeping an eye on [Script Analysis]. Cooper taught them that Tamora’s hatred was not villainy but an injury. An injury looking for an outlet.
+
+Costello ran them through the spatial logic of the combined stage. How a body moves differently when the audience is on three sides, how exits become statements, how to integrate Suzuki into the iambic pentameter.
+
+Seyrova ran them haggard with spacing exercises.
+
+Practice with Zara continued, each replay bringing back a sense of familiarity and deepening their mastery.
+
+On Friday morning, the flash-forward lost its rhythm.
+
+William Chen cornered her first thing at 7:30 AM, between the dorm and the Main Building, on the footpath with the least traffic.
+
+The [Usurper] looked unlike his usual self. He had lost something, weight, gravitas, something. What he did not lose was the fox eyes that told her with absolute certainty that he was a predator. His shirt was still impeccably pressed. His hair, slightly undone, actually made him look cooler than his usually prim self.
+
+He looked more dangerous, and accordingly, more conventionally attractive.
+
+She hadn’t even noticed him until he stepped out from the bushes like a mugger and paced beside her, his hands thankfully kept to himself.
+
+“What did you do to Val, little bird?”
+
+It was a statement, not a question. The question mark existed only for rhetorical purposes. And clearly, the fact that he could no longer drain [Causality] from others did not apply to a fellow [Usurper].
+
+She sped up her pace. Her heart was hitting her throat. As quickly as she could, she had to reach somewhere with more people. William kept up easily.
+
+“What can I do to someone like Val?” she said under her breath, wondering if she should sprint like Simone before William took—
+
+MOTHER FUCKER.
+
+His hand, with its long and thin fingers, found her wrist. He had arrested her.
+
+“Don't you dare lie to me.”
+
+She pulled. He held on.
+
+She held his gaze for a full second. “I can scream very loudly.”
+
+They were not alone, at least not after a hundred meters.
+
+William freed her from his grip. Were her [Persona] not so well provisioned with stats, his grip would have left a bruise. He glared at her the way people look at hateful things. He looked at her like dog shit on a pair of expensive Oxfords.
+
+“If you take Val away from me…” His words sizzled the space between them like acid.
+
+Eppie could hear herself panting. Her body no longer froze up. Now, it merely threw her into a rollercoaster adrenaline rush.
+
+“If you want to keep Val,” she said coldly. “Then fess up. Tell her the truth. Pay your dues, and when you come out, she’ll be there, waiting for her one true love.”
+
+William growled, his voice low and dangerous and wounded.
+
+She walked past him, then, after a brief second of indecision, she ran like the wind to AP History.
+
+That night, in the music room, she told Zara.
+
+She told the story plainly. “I nearly pissed myself.”
+
+Zara almost spat out her water, then they hugged for a long minute. “He put his hand on you?”
+
+“He let go, though.”
+
+“Because you were going to scream?”
+
+“I could make him scream just as loud…” Eppie was certain that, if she kicked an unsuspecting William in the knee-caps with her [Strength], both of their [Causality] would tank.
+
+Zara set her guitar down with the careful deliberateness of someone managing an impulse. “Eppie…”
+
+“I know, I know…”
+
+“I'm serious. Did you make him lose Val?” She looked at her. “If he loses Val, he’s… I don’t know. They’ve always been together. We Seniors joke that Will and Val are the oldest married couple in LAPA.”
+
+Eppie thought about a man who had lost his principal outlet, his emotional punching bag, and now his anchor. With three legs gone, where would William topple?
+
+“I can’t give up,” she said to Zara. “It’s too late for that.”
+
+Zara picked up her guitar. “It’s never too late…”
+
+The girls played freestyle until seven, then "In the Pines" twice, "Dream a Little Dream" once.
+
+Tomorrow, they would meet Antonio in Culver City, put notes on paper, and, hopefully, a top-20 tune into the Hot 100.
+
+LAPA.
+
+William Chen went out at eight from the Old Music Building.Without Val, there was no point going home, and with the uncles still peeved at him, it was best to avoid the mandarin club until the Spring Festival, where he could splurge on gifts for the elderly, especially his father’s trusted lieutenants.
+
+This late at night, the campus was cold, and he had the paths mostly to himself. Alone, he could think. He was very good at thinking. He had rarely miscalculated in the last four years, and yet, one wrong step—
+
+Life really was like the tragedies that Dr Kirby taught.
+
+He knew where the girl went in the evenings. Wang had told him as much. She still thought that Wang was her friend in the Stray Cat Society, a mistake that Luciana Mio had also made. This time of night, she should be in the basement of the east dorm building, the filthy room with all the stray cats and a window where a cat door was installed.
+
+In his expensive coat, and in his mind, he stood in the dark, watching the lit windows, thinking about the girl’s mockery.
+
+Fess up. Go to jail.
+
+William turned the phrase in his mind the way Uncle Kai blasted the ho-fun in the wok.
+
+As if the world were that simple. As if jail were a thing that happened to people like him, to the heir of Omnia Construction. The dim-witted orphan did not understand what she was asking him to give. Like a child, she still believed in things like justice.
+
+He moved toward the lower windows. From the hill, he could easily peer inside, while those inside could not see him.
+
+He missed Val. Val had spent Christmas in NYC with Sir Woodhouse, meeting people from Universal. Meeting people from the film studios. She had then spent the next few days playing aide to Senator Sanders. He knew this because he saw her on TV.
+
+Yet, even though she was back, she had denied him her hot-water bottle body to hold. She had not stayed in his house, where they had effectively lived for two years. She stayed at home, almost thirty minutes away from LAPA.
+
+He confirmed something was wrong when he brought her flowers in the film rooms. She took the flowers, and he held her. Yet, it wasn’t the same. Her body was cold. She was resistant, unsure. Valorie didn’t meet his eyes. She didn’t seek out his touch.
+
+This meant one thing.It could only mean one thing.
+
+But which thing, William thought, arriving at the hill. Which thing did Val find out?
+
+Was it the cats? Which one? There were a few, now and then, over the years. The last one was still around. Was it Simone? That wasn’t likely, though, because Simone was far too timid to tell on William, too poor to act up. Had Fontaine told her about the rooftop? About how he locked her up in the same room where Mio had been…
+
+Mio. He felt it was Mio, or Mio-adjacent. Somehow, Val had found out what he had done to Mio.
+
+The immensity of it all momentarily amazed William. Dr Kirby had taught them Richard III a semester back, and in the final act, the scheming King had been overwhelmed by just how much he had accomplished.
+
+I am in so far in blood that sin will pluck on sin. Tear-falling pity dwells not in this eye.
+
+There was an important lesson in Richard’s decline. It was about weakness. The weakness of men who allowed conscience to weaken the structural beams of their ambitions, until the weight of their actions crushed them. As heir to Omnia, he had to be stronger than that.
+
+“Meow?”
+
+William looked down. It was a cat.
+
+Orange and white. A new one. Small, which meant recent. A baby. There was no recognition, no fear. The kitten perceived the world with total innocence. It was born in the basement, and the girl, or Wang, or one of the others, had shown it nought but compassion. It reminded him of Mio, who, until it happened, had lived her guileless life not knowing that naivety was a sin.
+
+William licked his lips. He crouched.
+
+The kitten approached.
+
+It rubbed up against his expensive coat.
+
+William watched the cat in silence, his coat warm around him and his breath making vivid ghosts in the air. The campus was silent. Eppie did not come, but Wang would be here in thirty minutes.
+
+Since I cannot prove a lover...
+
+William snuffed the impulse. He allowed the cat to move away, mocking him with its upright tail, its disgusting butthole.
+
+Euphemia must love that cat. She must have raised it with meticulous care.
+
+William put his hands back in his pockets. He turned and walked back the way he had come. There was an order to these things, and the first was Val.

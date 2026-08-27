@@ -1,0 +1,177 @@
+---
+id: cf23e2e9-fe0a-5ba4-ac0f-b3e974faaac3
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 73 - Apologize (2) "
+slug: 0122-chapter-73-apologize-2
+partOf: metaworld-hopecore
+position: 122
+ownLength: 2387
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3631029/chapter-73-apologize-2"
+royalRoadId: "3631029"
+---
+
+A liminal drive through the city later, Eppe was back right where she had been three days prior, in the lobby of Culver City’s resident Sofitel.
+
+This time, she took a right turn for the ballroom rather than the guest suites.
+
+A pair of attentive staff opened the door, not to light, but to darkness.
+
+After an encouraging bump from Eric, Eppie stepped into the room.
+
+THWUMP—!
+
+Her entry was announced by the sound of erupting confetti cannons, followed by strobe lights that lit the entryway in living colour. Paper parchments caught in her hair, in her sling, on her eyelashes; she blinked through a blizzard of foil hearts and paper pieces shaped, unmistakably, like tiny clefs.
+
+Somewhere, a House DJ struck up something bassy and hip-hop, moving the air so profoundly that the confetti pulsed.
+
+“HAPPY BIRTHDAY!” came the expectant greeting, filling her ears and reverberating through her brain, loud enough to high-five the lowest segment of her spine.
+
+Her eyes adjusted, a little wetly, and saw that everyone—EVERYONE—was here.
+
+Chelsea and Lucy stood at the dessert bar like marines claiming a beachhead, already holding platefuls of buffet offerings.
+
+Min-jun stood near the DJ booth pretending to learn from the man manning the rig.
+
+On the dance floor, Cameron Atkinson and James Jules, plus a few of her English class boys, were waiting for the girls to join them.
+
+As for the girls, Madison Evans and a few of the others from her theatre class stood sheepishly to one side, fully aware that they were here by association rather than invite.
+
+To the side of the entryway, Eric kissed Emily, who kissed him back as a reward for a job well done.
+
+Zara stood apart from her Sophomore friends, joined by her immediate family, who lived in LA and could chaperone their daughter.
+
+At the centre of it all, next to what Eppie could only conceive as a wedding cake, was Frederick Curon, Kellie Noah, the mastermind that was Maddy Filmore… and Kelvin Grant. The final member of the quartet should have been a surprise—but Eppie’s [Intelligence] had worked out the rationale long before the surprise could bring delight.
+
+Indeed, what better way to suck up to herself and Director Curon than to present himself in person? It wasn’t as though her captive audience self could rebuke his apology in front of all her friends.
+
+As one, the guests converged on their one-armed birthday girl. Ballooned to the throat with gladness, she greeted each and every one of them until her voice grew sore. It wasn’t that she didn’t have amazing birthdays as Lana—her parents had been excessively doting, and she had no shortage of friends. It was more so that her [Persona] was reacting all on its own. Euphemia Fontaine, so it seemed to Eppie—had never experienced a birthday party.
+
+The grimness of this realisation was such that Eppie had to turn to [Act Natural] to stop herself from becoming an emotional wreck. With trembling lips, she threaded through her friends and adopted family with care, holding their hands, exchanging hugs, nodding and laughing, then hugging them again. She hugged Miss Filmore the hardest of all, for being her unsung angel. Being loved by this many people at once, it turned out, was its own kind of exhaustion—but one she was glad to experience.
+
+They ate from a laden buffet table with far too much food, after which came the part of the night when the gifts were given. Some of the gifts were enormous, others were in petite boxes wrapped with ribbons. To Eppie’s immense delight, the very first and the largest gift was from the most reclusive of her friends, Armand Amar.
+
+To Eppie, my Muse. The inscription read simply and cleanly.
+
+When Eppie opened the wrapping a little, she immediately saw that this was the very painting Armand had withheld from her—the one from the Santa Monica pier. It was finished now, dried, cured, and coated with a protective varnish. Such a work—the virgin work of a future artist of national renown—held its weight in gold to collectors and fans alike. That Armand gave it to her so freely spoke of his devotion and generosity in ways that were more than just words.
+
+The second box Curon handed her was from another guest who could only send her feelings through the gift of giving. She did not need to open the box to recognise the logo of Vittoria Conti atelier, nor did she feel that flashing her friends with a potentially $4000 dress was appropriate, so she expressed her love and moved on. Vaughan’s gift was equally eye-watering, and Eppie felt guilty for mistaking the subtle packaging for subtlety. The gift was a choker, the type that old-fashioned high-society ladies wore with their bare-shouldered dresses. In the white-gold setting, there sat an enormous milk-honey cat’s eye gem that followed the viewer’s gaze as they moved.
+
+A gift from my husband, given on my sixteenth birthday. I wore it once. We have no children. Now, it's yours.
+
+Eppie’s throat closed up. It was a personal item. One that was near irreplaceable. Like the dress, she handed it back to Curon for safekeeping. Her room at LAPA had no safes—not to mention someone could come and go as they pleased.
+
+Curon patted her shoulders. “You were supposed to wear these,” he said. “Alas, you were injured…”
+
+Ah… Eppie felt vindicated by how much sense Curon’s decision made.
+
+Thankfully, the rest of her gifts were more pedestrian. Lim gave her a plushy made in the likeness of Mr Chin, which she hugged and kissed. Chelsea gave her handmade jewellery, which she loved. Lucy gave her a signed, limited edition novel that she’d been touting for weeks. Her roommates gave gifts, with apologies, because their parents forbade them from going to strange Hollywood parties. Then came the less personal gifts. Chocolates, mugs, CDs, the type of gifts that were representative of middle-school memories.
+
+She thanked them all, then hugged them all, wondering with growing curiosity what Kellie and Kel were planning with Curon, since their names had been absent from the list of physical gifts. Come to think of it, Eppie realised, she had received chocolates from the Arriaga family, but not Zara herself.
+
+Her anticipation reached its peak when the cake returned from the kitchen with sixteen candles burning unevenly, wax already dripping onto white fondant. Her father pulled her into an enormous hug before the song could start and gingerly swung her by her good shoulder, lifting her tiny body off the floor.
+
+“Let's do this,” he grinned at her, his voice rough with emotion. “I’ve got a flight in three hours.”
+
+They sang the old Happy Birthday, Kellie’s voice soaring over the rest. Her friends from LAPA stopped singing halfway, too star-struck to continue. After the hip-hip hurrays, Eppie blew out the candles with a single breath, and dearly wished that her [Causality] would continue to bring joy to the many and to keep her [Persona] serviced for twelve more months.
+
+Once the cake was divided, her father signalled the DJ, cut the music down to a throbbing ambience, then moved Eppie to the middle of the dance floor.
+
+He pulled up a chair and made her sit so that she was facing Kellie and Kel.On cue, the music picked up in both volume and jazziness. Eppie sat in the fold-up chair, ankles crossed and feeling suddenly and inexplicably vulnerable.
+
+She looked at Kellie and saw that the singer was shaking herself out, as if preparing for a performance. She looked at Kel, who looked pumped as all hell and was taking short, quick breaths.
+
+Curon looked smug. She understood the look to mean that her father was feeling very pleased with himself.
+
+Considering Kellie’s usual choice of clothing, and Kel flexing his tight tee…
+
+I swear to God if Kel’s apology is a lap dance… Her mind instantly settled on something her unpredictable father would absolutely demand of a prideful young rapper high on machismo. It made too much sense. Director Curon’s benign-but-vengeful grudgefulness was legendary.
+
+Curon held a finger to her lips before Eppie could speak. “Say no more…”
+
+NO! She wanted to bite the finger. YOUR DAUGHTER IS A CHILD!
+
+Heedless of her inner struggles, her Director-father handed Kellie and Kel a microphone each. Behind the artists, the DJ made the OK sign.
+
+“Happy birthday, and… enjoy.” Kel’s voice, slightly higher than his usual register, floated in the air before fading into the ambient beat. The boy’s face, Eppie could see, was sweat-damp at the collar, his face flushed a deep plum—but not from embarrassment. Instead, it was anticipation.
+
+Oh dear… why is he so excited?
+
+“Did you know…” Curon moved behind her so that he, too, could be an audience member. “Kel’s original audition wasn’t for rap?”
+
+HUH? Eppie had no interest in Magic Mike, Kel-G edition, either. Against her will, the beat started.
+
+The beat. The timeless beat composed by Prince.
+
+DOVES CRY? Eppie nearly stood up before she was pressed back into the chair by her father—then Kel’s clarified voice rose through the beat… like an MTV from 1984.
+
+I hope you can try—to pictureA sinner—begging for blissThe sweat of regret—it covers me In this—my sorrow—how could I caption this?
+
+Eppie’s ears were in shock. The lyrics were different—but the soulfulness remained. Through pure imagination, through stripping back the bassline, Frederick Curon had somehow recreated the very same song, sans the personal trauma. Invariably, a measure of the magic was lost—but the nostalgia was more than enough to make her ears sing, and her heart melt. Kel’s style wasn’t rap, nor was it a ballad. It was more like… a performance poem, a confession in synth-funk.
+
+The second verse arrived without missing a beat, tickling her [Clockwork Pulse]
+
+Dare, if I ask—for forgivenessMy verses were written in blueBear with me now—my witnessHear—my vows—and read them as the truth—
+
+Eppie felt her [Sublime] kick into gear. She knew they had a banger on hand before Kellie even launched into the Chorus—and then Kellie did just that.
+
+The songstress with the “biblical” voice took the chorus, low and steady, the melody instantly recognisable even when reshaped—Curon's arrangement kept the ache of Mio's version but gave it a pulse, something built for radio rather than a chapel.
+
+Why did you leave me stranded? How could you act so cool (SO COOL—)
+
+Kel slid into Kellie’s verses in a falsetto nobody in the room was expecting, controlled, unmistakably real, the kind that made people open their mouths and look to the heavens in wonder. Mah boy was a choral kid?! Eppie was so excited she code-switched to jive.
+
+Then she realised what Curon had done. Curon, her Muse. FREDERICK CURON! YOU BEAUTIFUL BASTARD! A DUET?! YOU WROTE A FUCKING DUET?!
+
+Kel's voice climbed into head voice again, this time as a solo:
+
+You said I was just too demanding—That I would be like your father, too cold
+
+Then, Kellie’s voice came in, deeper, with Kel’s underlying falsetto:
+
+You said I’ll become my mother—A woman who never tried(I SO TRIED—)
+
+Then, the voices unified, solid and true and piercing, reaching a climax that made the heart sore and the listener’s hands weak.
+
+Is this the reason we’re screaming? Is this what it feels like—When Love Dies?
+
+Quest Progressed [The Thief of Joy]
+
+Your act of [Noblesse Oblige] has reaped the [Karmic Parasite] The budding [Parasite] has been diminished!You have gained immense [Causality]
+
+Eppie fought for breath. THAT WAS IT? She hadn’t done anything yet?!
+
+No, wait— Eppie calmed herself, because the emotions from the song had driven her to such states of [Sublime] that she was assuming every ounce of her will not to pee out of sheer, unadulterated puppy joy.
+
+Kel wasn’t fixed yet. The quest had not ended. Nonetheless, everyone was dancing. Prince’s beat was too hypnotic; their bodies moved without permission.
+
+When the final beat faded to black, Curon stood behind her like Mephisto to Faust with a smug hand on her exposed shoulder. “What do you think? How’s my plan for Mr Grant? Are you satisfied?”
+
+Eppie seriously considered teasing her father, but the song was simply too good, and too nostalgic for someone who had heard the timeless beat a thousand times.
+
+“I love it,” she said. “Thank you so much.”
+
+Kellie and Kel both beamed. Whatever they were, they were artists first, and in those three minutes, all of them knew that something timeless had been born in this room, on the sixteenth birthday of the girl who had dreamed up the chorus line in Reedley.
+
+“Alright,” Curon said to the two singers panting on the ballroom floor. “You’ve both passed. Lucky prick. You’re coming with me back to headquarters.”
+
+Kel closed his eyes and pumped his fist toward the heavens. Kellie leaned in and smooshed Eppie between her pushed-up blessings, squealing in joy.
+
+Somewhere in between the wonder and the diffusing joy of having participated in this touchstone moment of music history, Zara reached her side and hugged her as well.
+
+“Happy birthday,” her partner whispered in her ear. “That was such a wonderful song.”
+
+“I know…” Eppie exhaled. “That was insane.”
+
+“I am afraid my gift isn’t so impressive in comparison,” Zara moped. “It’s modest, but it's from the Arriaga family, and everyone in Reedley.”
+
+“Any gift from you,” Eppie said seriously. “Is a joy I cannot wait to experience.”
+
+Just as she delivered her pleasantries, Zara pulled her in with her arms, her hair smelling like citrus, and pressed a long, warm kiss to her cheek, lingering long enough for Eppie’s face to grow red hot before Zara pulled herself away.
+
+Then the night was done. The room blurred. Time dilated. Excess food went into containers. Cake, mixed with confetti, went into takeaway boxes. With her cheeks still warm, she hugged Kellie and Curon goodbye and shook the hand of a sheepish Kelvin. Her LAPA friends said, “See you tomorrow,” and Eppie found herself drunk with joy in the middle row of the Mercedes.
+
+As the city grew liminal once more, she thought of her strange, borrowed life. She felt, for the first time since her return, nothing but gratitude for the [System].
+
+Her [System], if it had a heart, seemed to agree.

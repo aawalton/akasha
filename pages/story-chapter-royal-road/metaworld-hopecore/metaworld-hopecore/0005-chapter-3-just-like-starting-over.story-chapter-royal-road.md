@@ -1,0 +1,215 @@
+---
+id: ddd18d56-af77-5664-b596-8ea2f9b568de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - (Just Like) Starting Over"
+slug: 0005-chapter-3-just-like-starting-over
+partOf: metaworld-hopecore
+position: 5
+ownLength: 2595
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364485/chapter-3-just-like-starting-over"
+royalRoadId: "3364485"
+---
+
+This dewdrop worldIs a dewdrop world
+
+And yet, and yet
+
+Kobayashi IssaOn the death of his daughter
+
+“You don’t remember?” Dr Hughes asked, her voice trembling. “When we received you, you were a mess. Dr Harper spent days putting you back together in the ICU with the rest of the trauma team. The cause… the paramedic said that it was a T14.91.”
+
+“Which is…”
+
+Dr Hughes swallowed, then swallowed again. “Maybe it's best if…”
+
+“What is it?” Lana’s tone grew firm and persuasive. With that same tone, men and women’s entire careers had been liquidated.
+
+“Suicide,” Dr Hughes uttered the terrible words at last. “They said that you jumped from the school’s main building. The fourth storey rooftop.”
+
+“School?” Lana could not recall anything regarding a school.
+
+“LAPA, Los Angeles Performing Arts. It’s a conservatory high school.”
+
+Her mind went completely blank.
+
+“Permission to hug?” Her physician looked wracked with a guilt that wasn’t her own. From the look on her face, Dr Hughes clearly mistook her stone-faced confusion for trauma.
+
+Not seeing any harm in the act, Lana gave it.
+
+They hugged. The first real hug Lana had experienced since her parents passed. Dr Hughes’s embrace felt warm, if a little desperate, and a bit stiff, like a mother holding a missing child who had returned. “Euphemia—Eppie… please live well from now on. As unprofessional as it sounds, we’re all rooting for you.”
+
+With her borrowed towel, Lana dried her face. She was in control of her emotions now. The mystery of the song had faded.
+
++ Karmic Causality
+
++ Karmic Causality
+
+“I’ll get Bessey,” Her physio said at last when they separated. “Good work today. We’ll get you back up to spec in no time. If there’s anything you need, Eppie, don’t ever hesitate to ask.”
+
+“Thank you, Dr Hughes,” she said after a while. “I’d like to go back to my room now.”
+
+The pragmatic part of Lana wanted to check her [Potential], but she was now too tired to move, and far too tired to think.
+
+“God. What a mess.” Dr Jane Hughes was wondering whether her makeup remained sufficiently intact to attend the case conference when she noticed her camera was still recording after she had wiped down the equipment. Euphemia was her final patient for the day, with whom she had wanted to spend what was left of her rostered hour.
+
+A week ago, when they had brought that poor girl’s ragdolled body into triage…
+
+Hughes shuddered at the recollection.
+
+Assuming the girl survived, she had not expected to see her for months.
+
+And now Dr Harper tells her that, a week after the fact, the girl was healed enough to walk with assistance, and exercise her neglected muscles and tendons.
+
+Hughes had thought the Director was joking until the radiography came in, and Hughes could only admit that, yes, there had been a medical miracle.
+
+For several seconds, she stood where the girl had leaned against the parallel bars, camcorder in hand.
+
+“Whatever will be, huh…”
+
+The song. Whatever it was was too haunting to be real.
+
+Eppie’s voice, the otherworldly, mellifluous purity of it—the silvery chime of each desperate syllable clambering from her youthful throat—
+
+Her eyes grew hot once more. The whole ordeal had felt like a fevered dream.
+
+With a few familiar clicks, she rewound the video on the memory card, then played it back from the moment time stood still.
+
+The first verse was the worst. The hope of it all. Beauty. Wealth. Happiness. The things that Eppie surely deserved, but seldom knew.
+
+“God damn it…” Hughes had to pause the video, lest it ruin her completely again. Her patient didn’t yet know, but Eppie’s discharge was only the beginning of her woes. In LA, the Department of Children and Family Services had a reputation, and it certainly wasn’t for protecting kids.
+
+In her tiny office, with only the sound of the computer fan and her CRT monitor’s electric whinny keeping her company, Jane Hughes played back the video twice over, then slipped the Sony Camcorder into her bag.
+
+Dr Gillian C Harper, Medical Director of St Marten’s Children’s Hospital, Los Angeles, instantly failed the test of masculinity when Dr Hughes played the video on the theatre projector.
+
+When his colleague had arrived with the memory card, he had just begun the case conference for Euphemia Fontaine, and was about to call for their Chief Physio.
+
+Gathered around the round table were Unit Manager Bessey, Dr Mills, and the Radiology Lead, who were now all vigorously studying details on the gypsum ceiling while finding that dust had invaded their eyes.
+
+“Thank you for that, Dr Hughes,” Director Harper sighed, then sighed again. “You say she doesn’t remember anything?”
+
+“I added some minor but important details after she inquired, but there was no reaction at all,” Hughes confirmed Harper’s suspicions.
+
+“Radiology?”
+
+“If you look at sample A, dated on the day of her arrival,” Dr Richardson expertly replaced the image on the projector. “You can see the diffused axonal injury here, here, and here. It’s not usual, but there are well-documented incidences of Retrograde amnesia associated with DAI. This was one of our primary concerns. Of course, if you look at sample D—poof—no more inflammation. Her brain is as unremarkable as can be.”
+
+“Mills?”
+
+“Once she physically convalesces and meets Dr Hughes’ metrics, we can apply for a routine discharge. But to whom?”
+
+“Right,” Harper stood as the other sat. He paced half the length of the conference table, then sighed again. “I’ve spoken to Miss Fontaine’s CSW handler.”
+
+His crew perked up. Harper did not blame their lack of objectivity.
+
+How could they not, after seeing that heart-rending performance in the physio studio?
+
+“It’s not good,” Harper laid his hands on a thick stack of documents he sourced through the CARES unit. “This fucker…”
+
+The Director forced his hand to unclench. “This government colleague of ours informed me that Miss Fontaine was a routine user of narcotics and opioids. She said Euphemia rarely shows up for case meetings and has been disturbing the peace at her high school. She told me over the phone that Miss Fontaine was observed engaging in illicit acts for monetary gain. That she was drinking the day we found her. That she’s a wild child.”
+
+“That’s god damn bullshit.” Hughes was up in a split-second, ready to punch someone’s daylights out.
+
+“I know.” Harper raised both hands in case his Chief Physio got physical. “Remember. We did her bloodwork. Remarkable traces of painkillers were present. That’s it. As for her sexual health, I had Nurse Bessey double-check with a kit. We’re good in that regard, thank the Lord.”
+
+“In that case, I know a good lawyer," Dr Mills raised an unlikely hand. “Half of my fraternity were law majors…”
+
+“Thank you, Dr Mills, but I’ve got it handled. I have colleagues in CWS who audit for this sort of thing. Normally, I would angle for a payout for Miss Fontaine, but as you know, we’ve already had an anonymous donor foot her bill. I am not going to say who it is, but I think we all know.”
+
+“Gil, don’t tell me you took a settlement on her behalf.” His physio was far too emotional, but Harper forgave it. Who couldn’t be emotional after hearing that song?
+
+“Nothing like that.” Harper shot her a wilting look. “The payment covered her emergency care and then some, but it isn’t enough for Miss Fontaine’s aftercare. I deeply suspect that whoever made that donation was merely ensuring that Miss Fontaine didn’t die because of something as stupid as lacking a viable insurance policy. She’s covered under CARES, of course, but few people have insider knowledge of how much of the coverage is subject to our discretion. Alternatively, had Miss Fontaine died, the police would have had to launch a comprehensive investigation.”
+
+“But not if she survived…” Hughes was shaking. “Not if she’s T14.91XA. The cops are far too busy to chase transients. Especially if her caseworker is adamant. Especially if she’s got cooked documentation and ‘witnesses’. Now, combine that with the fact that LAPA is absolutely meticulous with its reputation…”
+
+“Jesus Christ,” Richardson leaned back. “This is fucked.”
+
+“I know.” Harper was also fighting a visit to the cardiologist department. “Something happened in that school. And though it's none of my business, I would very much like to know what. I don’t know if I can sign that discharge form if I didn’t. And that god damned caseworker…”
+
+The good Director made the gesture of someone giving CPR with extreme prejudice.
+
+“Poor Bebe.” Bessey crossed her heart again. “How can someone who sings so beautifully be treated like this?”
+
+“Well, what’s the plan, boss?” Richardson, the Radiologist cracked his neck. “We can’t trust DCFS not to fuck her again.”
+
+“She stays here, for now.” Harper tapped the table. “I’ll be honest. There isn’t much we can do for Miss Fontaine, beyond the best medical care we can afford. We’re doctors, after all. Not lawyers, and certainly not vigilantes. But—”
+
+Harper tapped the laptop with the memory card still jutting from the port.
+
+The haunting song was now permanently etched into the grooves of their brains, along with Euphemia’s stoic smile as she sang the verses, tears staining her too-large shirt. Harper felt compelled by a higher force to do something drastic, something that challenged the boundaries of privacy, but they were out of time. St Marten’s had no right to hold Euphemia under its protection once she was medically sound. The moment Eppie was discharged, she would once again be at the mercy of ticks and parasites. He can’t have that, especially not after hearing her swan song.
+
+“—But if this is the hill we choose, then I do know someone who will make it a mountain."
+
+Charlene Lafitte, Staff Writer and part-time Investigative Journalist for the LA Times, also failed the test when, at 2 AM, she watched the video her high school alumni sent over.
+
+The whole thing was two minutes and four seconds, and yet, it was so god damned haunting and heartfelt. The performance, if it could be called that, should have been issued from the lips of a professional songstress.
+
+And yet, it was not.
+
+It came out of the mouth of a fifteen-year-old ragdoll found on a concrete pavement, whose broken body was stitched together by her friend, the good Director Gillian C Harper.
+
+Over the phone, over an hour, the Director of St Marten’s had made it very clear what his medical evidence had inferred, where her circumstances sat, and what the girl meant to the hospital and its staff.
+
+“LAPA, Los Angeles Performing Arts High School.”
+
+That was the school Euphemia Fontaine attended, the object of Lafitte’s narrative disovery. For the average Joe on the street, the only enquiry they could make would be to petition the school itself. For Lafitte, however, she had the help of aggregate information technology, courtesy of the LA Times’ generous subscription to LexisNexis & Nexis and the AP Wire Service.
+
+“The Los Angeles Performing Arts High School… LAPA to its alumni,” Lafitte wrote in her notebook. “Is the no.1 public performing arts school on the West Coast, offering tuition-free education to 580 students, concurrent with fee-paying students since 2001.”
+
+As a result, Lafitte noted with the deftness of a shepherd correlating loose data, the school has flirted with many a board reviews into its hostile, ultra-competitive arts streams, and has been the subject of no less than three lawsuits in the last ten years, ranging from sexual harassment, workplace misconduct, to… staff neglect, student suicides, and bullying… written off as “teen drama”.
+
+Teen drama at a DRAMA school? Lafitte snorted. At least it's a plausible cover.
+
+But the problem with LAPA, alas, was how clean everything had remained. No lawsuit ever made it to the Superior Court before it was settled quietly and with grace. Like a slippery catfish, there was nowhere to find purchase.
+
+Lafitte looked over at the memory card Harper had sent.
+
+That god-damned first verse…
+
+In truth, exposing LAPA did not mean the girl received help.
+
+Likewise, her “Samaritan” friend had no interest in suing the school anyway. He wanted to help a girl and a patient, and that was the extent of it.
+
+What the good Director had hoped, Lafitte figured, was that the song would be Eppie’s voice, a cry for help that drew the judgmental eyes of society so that someone, somewhere, might throw Eppie a rope.
+
+Her notebook snapped shut.
+
+As a member of the Fourth Estate, she would create the first knot in that rope.
+
+From the historic Art Deco Centre, the home of the LA Times, a certain song sung by a tearful fifteen-year-old walked its way across two blocks into the “slow” newsroom of CBS2, where it was duplicated and duplicated again in Culver, Glendale, Hollywood and Universal City.
+
+It was a song that made for a suitably engrossing human-interest story. A song that did not exist in any catalogue and was never before heard in the Union or anywhere else on God’s grace-filled earth.
+
+A perfect song for a performative spectacle.
+
+And so, when the midday anchors read out the story, edited and edited again by purposeful copywriters and editors, it proliferated.
+
+And when the morning hosts, mostly blonde and beautiful, were handed tissues by their spray-tanned male co-hosts, the song became irresistible to anyone working in a predominantly female workplace.
+
+A few days later, after breakfast, Nurse Bessey burst into Lana’s room and dragged the television hanging from the roof to her bed to show her the AM rendition of Good Morning America.
+
+“Finance experts say that Americans are not saving enough for retirement. Pension funds are almost non-existent for gig workers, and those without a 401k are putting themselves at risk…”
+
+Others came into the room as well. Those on break and those between jobs until, finally, the human interest arrived.
+
+“Now, to other news. A viral sensation has taken the nation and the World Wide Web by storm. Sung by a teenage girl from East Hollywood after a near-fatal accident, the candid, raw emotion of the song “Whatever Will Be” has captured the hearts and minds of people all over America…”
+
+The nurses clapped, and Lana felt her face turn scarlet.
+
+She had already known the song was a hit because of the influx of [Causality], but it was nice to receive the adoration of people who weren’t after stock portfolio advice. What Lana did not know was that, though Silicon Valley had yet to dominate the internet in its full, unbridled glory, her alter-world Americans were no strangers to viral videos.
+
+“Watch this and try NOT to cry!” Claimed a blurb that everyone's mothers and aunts began to pass on to every person they could reach on their rudimentary Facebook networks. In no time, the original video received half a million views, and the reposts more.
+
+At the same time, on forums and channels moderated by men who prided themselves on poor UIs, green text, and anonymity, the original recording spread like a Californian wildfire after the leaves were left unraked.
+
+“What is this song?” “Who is the girl?”“God, I just want to give her a hug.” “One like = One prayer.”
+
+“Where can I download the song?”
+
+“This song isn’t on anything?”
+
+“Who wrote this?”“Holy mother, the tears won’t stop…”
+
+The information age had yet to land in full force, but compared to her former world, it had most certainly arrived.

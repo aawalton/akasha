@@ -1,0 +1,247 @@
+---
+id: 1c52364f-34ab-5e7f-997c-2ea74bf8046a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 58 - Hotaru no Hikari (2) "
+slug: 0103-chapter-58-hotaru-no-hikari-2
+partOf: metaworld-hopecore
+position: 103
+ownLength: 3277
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3503762/chapter-58-hotaru-no-hikari-2"
+royalRoadId: "3503762"
+---
+
+December 28
+
+Kuromon-san had returned to work, and Eppie was his first customer in the Sony Building. After that, Curon showed her the operations while introducing her as the writer of Umbrella. Regardless of whether she lucked out or had true talent, she had made the company money, and everyone she met was very accommodating as a result.
+
+Then, Eppie was in heaven because she finally got to meet the faces behind the music on Eric’s iPod.
+
+The first to greet her at the Sony Club’s end-of-year Artist Reception, AKA “The Annual”, was the lady at the heart of her Gala disruption, the forever charming Lucia Lancet. Wearing a skin-tight cocktail dress, the untouchable young lady of Sony crossed the floor with a confidence few carried, not even the actual No.1.
+
+They shook hands, exchanged cheek kisses, and Lancet handed over a few signed photos from her aide when Eppie asked, with personalised messages for Renee and Cora.
+
+“Next time, call me first when you have a song,” Lucia said, holding onto the photos a little tighter until Eppie promised. Immediately after, Kellie Noah, once more in her bodacious diva persona, came to defend her territory by pushing into Eppie’s personal space with her pushups. Taking photos, giving her autographs, even offering to call this “Cora” Eppie mentioned. The whole time, her boyfriend kept a hand on Kellie’s waist while sizing her up.
+
+I should arm wrestle the guy… the thought came to Eppie. There was a pretty good chance, she felt, that she would trash his ass in front of everyone that mattered in the boy’s life.
+
+The next celeb she met was a tired-looking blonde called Candice Leah. She was one of Davis’ survivors, famous for dominating the early 2000s with biannual No.1s, only to crash and burn, ending up in rehab. Nonetheless, her fame and household nostalgia were such that Davis kept her around, throwing her hits now and then, though she would never again see the success she had in her teenage years.
+
+It took Eppie five minutes of listening to her rambles to realise that this was the girl. It was Britney. She was the quintessential schoolgirl dream, selling a forbidden desire that enthralled Americans for half a generation. Now, she was here, wearing a velour hoodie in pink, talking to a kid from LAPA. The young lady’s eyes looked like they hadn’t slept in weeks.
+
+“You’re so little,” Candice giggled in an entirely age-inappropriate manner. “You look like a little light. Can I pet you?”
+
+Eppie didn’t know how to respond, because what else was there to say? It wasn’t as though she could ask how high are you right now? in the middle of an artists’ gathering. Or could she?
+
+Candice gave her a kiss that was a little too wet on the cheeks, then wandered off, followed by a handler, leaving her to wonder if there was anything to be done.
+
+A little while later, Eppie finally met one of her idols, the Bronx Queen, Katrisha, a lady with the aura and presence of stormy weather. Katrisha was Sony’s multi-platinum evergreen, the lady who managed to be in the Top 10 whenever the vibe was right to make a song. She was, at one stage, married to PayZEE, though the two had since amicably separated. For a lady in her early thirties, Katrisha carried the room better than anyone with her statuesque figure and a body line that put Lucia and Kellie to shame.
+
+“My favourite,” the lady confided to her over a glass of something pink. “Is Starry Night.”
+
+Once Sony’s monarch and mistress lost interest in Eppie, she was met by a young man who introduced himself as Nathaniel Ellake. He was Candice’s contemporary, having both served their time in the House of Mouse. Unlike Candice’s fading star power, the boyish singer and actor was enjoying a bit of a renaissance, with two back-to-back hits in the top 5.
+
+“Love your work,” he said, shaking her hand. “Man, theatre. You know, if it weren’t for this biz, I would be in theatre too.”
+
+“Never too late…” Eppie rather liked the affable young man, at least what she’d seen of him so far. “What’s your plan for the future?”
+
+“Gonna see if it's possible to jump to Sony Pictures,” he said with a smile. “That was actually my main gig, back at Disney, did you know?”
+
+She did not. But she gave him her best anyway.
+
+“EPPIE!” The man who interrupted them was none other than the coolest cat in all of Sony, the ineffable Mr Antonio in his snakeskin boots and his evil goatee. The two hugged, embracing tightly for old times' sake.
+
+“Mi fantasma,” he said. He put both hands on her shoulders the way Latin Americans did when words were too formal. “Still playing the guitar?”
+
+“I killed it,” she said. “During the Gala.”
+
+“Good, good,” He winked at her. “I'll see you again soon, eh? We have a song to make in January.”
+
+“I can’t wait,” Eppie confessed readily. There really was nothing like having Antonio play the bass guitar lines with Chad Lain’s guitar. When they record In the Pines with Zara, it would bring the house down with tears.
+
+Perhaps drawn to the karma of her thoughts, the last Sony aristocrat she met for the night introduced himself not by his own band, but by Chad Lain’s Human Animals. She had not recognised the drummer-turned lead singer at first because he wore a turtleneck that had nothing to do with his grunge-soul persona.
+
+Eric Gowler, in his natural habitat, was a front man who lived in the perpetual shadow of a legend whose suicide meant he could never be surpassed. Eppie adored his songs, the soulfulness of it, the energy, the pain—but she could see in the way he spoke that there was a fear—the fear that Eppie saw him as Lain’s drummer, and not himself.
+
+They spoke for almost twenty minutes on the songs and artists they loved. The whole time, Eppie avoided any and all questions about Lain, even though that was her sole and singular interest. They agreed on Glam, but disagreed on Metal, particularly Nu Metal.
+
+“I heard a live recording of In the Pines,” Gowler said before he left. “I think Lain would have loved it.”
+
+Eppie agreed.
+
+Curon came to pick her up at 6 PM. There was an after-party, her father told her, but… that was no place for little girls.
+
+December 29
+
+Kiritani-sensei was on his usual bench when she arrived.
+
+He handed her a katsudon, just the regular size. Then he pulled out a stack of cut cardboard, and began to draw.
+
+The manager-san, he said, had the kitchen cut up their ingredient boxes for him.
+
+He told her that each day, he returned to the park to feed the cats. He had disposable cash now, for the first time since he was incarcerated. Her serious sensei had purchased his collection on the Met's behalf, using the Vaughan Arts Foundation Trust. For the first time in Henry’s life, he had a bank card and a balance, though his only purchases thus far had been cat food, pens, and katsudon.
+
+His Four Season room had also been rebooked under her sensei. Director Curon had his credit card charge reversed because Vaughan did not owe favours she could readily repay.
+
+Eppie sat beside her artist and ate the lukewarm cutlet while he sketched the cats with cheap biros, speaking softly to himself, to the park, to the girl eating katsudon.
+
+He told her about a boy from the camp. His name was Tanaka. He was six years old when he arrived at Tule Lake. The kid had a way of appearing next to Kiritani during Henry's afternoon drawing sessions. Kiritani taught him how to draw cats, so he drew cats. The boy was god damn terrible, but he was confident, and confidence had a quality all on its own. By the third month, he was drawing both cats and dinosaurs, then the dinosaurs waged a war against the cats. At four months, he was drawing his mother’s face from memory because the commander had moved her to a different block, and he could only see his mother on Sundays.
+
+Kiritani’s hands stopped. He passed her a new cat sketch. TANAKA. EATING KATSUDON WITH EPPIE. 2007.
+
+Kiritani took out another piece of cardboard. He caressed the bleached surface, as if trying to picture a face.
+
+“Tanaka no okāsan.” He smoothed the edge of it with his thumb. “She died in the other camp. Tuberculosis outbreak."
+
+He stroked a cat that leapt onto his lap. As always, it was Kimi.
+
+“Chichi-oya wa... ichinen go ni.” The father. One year later. “Suicide.”
+
+“He was a NO-NO-BOY. Like me,” Kiritani stroked the vengeful Kimi, who made direct and challenging eye contact with Eppie.
+
+“He was a pacifist, a farmer...” Kiritani massaged Kimi’s ears. “What saying no meant. For his wife. For his child. He didn’t know.”
+
+“The families who said hai—” Kiritani's fingers made Kimi purr like thunder. "Better conditions. They stayed together."
+
+He said nothing for a moment.
+
+"His father could not bear the guilt."
+
+“What happened to Tanaka?” Eppie held her new cat piece. It was worth something now, and it would be worth much more when Vaughan could arrange an exhibition, but none of that held any meaning in this moment.
+
+“He was adopted by another family,” Kiritani allowed Kimi to leave. The cat flashed Eppie her butthole, then slinked back into the bushes. “I don’t know after that.”
+
+“Thanks for the katsudon,” Eppie sealed the soiled chopsticks in the empty bowl. There was nothing more to be said, but maybe there was something to be done.
+
+It was a long shot, but Eppie suddenly had an idea.
+
+December 30
+
+Sony Club. Kuromon-san’s secret sushi bar.
+
+Sony’s presiding CEO was less flashy than in Eppie’s memory.
+
+He was still the silver fox, and she still liked him—or at least her [Business Acumen] and [Prophet of Profits] did, but after hearing all the stories from Curon and seeing Candice first-hand, the man’s mythology was starting to lose its shine.
+
+Almost four months after their first meeting, they were once more eating at the bar where he had told her that she was lucky to even taste one of Kuromon-san’s egg rolls.
+
+“I must admit that I was wrong,” David bowed his head half an inch, speaking in the way of folk who loathed admitting that they had miscalculated. “You have changed a lot, Eppie-san.”
+
+“I was a diamond in the rough,” Eppie gave the man her best. “A little too rough, if you ask me.”
+
+Trent Davis chuckled. “Here’s to diamonds, then.”
+
+They knocked glasses, her Calpis to his sake.
+
+“I have an offer for you.”
+
+“Oh dear,” Eppie was serious. Whatever Davis was offering, there was no way she could get away now, not with William already loaded onto the racking wheel.
+
+“Just hear me out,” the man said, then laid it out there.
+
+Sony artist. Sony songwriter. Dual credits. Full contract. Development budget. A&R support from Curon’s division. Her pick of the company’s talent. His expectation was at least four songs in the top 20. Bonus for the top 10. Bonus again for the top 5. An additional bonus for every rank above 5.
+
+“Trent…” Eppie said seriously as the bonuses were laid out one by one using sake cups. “You’re killing me here.”
+
+You really are, she wanted to say. Those bonuses are direct to her account, do not pass Go, do not collect [Karma], would go straight to her [Dasein] with a one-two.
+
+“Is that a yes?”
+
+“Was it your idea to pair Kellie and Kel?” She said nonchalantly. “What if I want them cleanly separated?”
+
+Davis was quiet for a moment, then his eyes fell onto her new expensive clothes. The first time they met, she was wearing a borrowed wardrobe. The time after that was a costume dress. Now, finally, he saw her in an outfit of her choice, curated by herself and purchased by Curon. Ivory silk blouse, Miu Miu high-waisted pencil skirt, with matching heels in nude. Jewellery had not crossed Curon’s mind, thank God, so the only thing she had was a pair of faux-gold studs.
+
+She had chosen the younger brand because, in all honesty, outside of its atelier range, Givenchy wasn’t the same after Hubert de Givenchy stepped down. Eppie’s [Persona] was underdeveloped and short-as-all-hell, and now that Marta had shown Eppie her Hepburn potential, she wasn’t going to let the aesthetic go without a catfight. The problem was that Hepburn was Elven in stature, while she was merely elfin.
+
+“I want to open that skullcap of yours” Trent Davis’ confession sent goosebumps up her spine. His eyes moved from her heels to her skirtline, then to her face. “How can you be… fifteen and be… whatever this is? Who taught you? Juliana Vaughan? Who dressed you? Diane Mirabelle?”
+
+“I’ll take that as a compliment,” Eppie enjoyed the man’s dismay. “But will I have your undying support regardless?”
+
+Davis gave her a look of pure disgust. “Curon did tell you, didn’t he? You derailed my plans for Lucia. It took… four years, probably longer, to build her up.”
+
+“Oh yeah…” Eppie gave her CEO a playful wag of the tongue. “Sorry, I guess?”
+
+The CEO tapped his sake cup. “Of course, if you came over to my side…”
+
+“I would stop right there,” Eppie feigned a cough. “If my father heard that… he might deck you.”
+
+“He wouldn’t dare. I could transfer him to California. Hollywood would drive him up the wall.” Davis snorted, then sighed when Eppie’s face remained completely deadpan. “He’s standing behind me, isn’t he?”
+
+“Yeah, asshole,” Curon said from behind.
+
+Davis turned to the silent, grinning sushi chef with a look of professional betrayal. The fuck happened to your IRASSHAIMASE—!?
+
+“Come on, Dad,” Eppie hopped off her chair, her [Agility] allowing her a grace that few could manage in heels. “Let’s head back. I need to pack. Goodbye, Mr Davis!”
+
+“Stay safe, hellion,” her CEO cursed them from the bar. “If you want Kellie, write me more No.1s!”
+
+December 31
+
+Vaughan called at eleven in the morning.
+
+“Kiritani sensei will fly on the 2nd and arrive on the 3rd. Curon has arranged a man called Eric to take you both northward.”
+
+Ah, good old Eric. Eppie thought of her Newfoundland fondly. To think she would miss him so much after such a short holiday apart. From the sounds of it, there would be a long drive involved, and they can take the time to catch up.
+
+“Wow, you managed to get him a passport?” Eppie was genuinely impressed. She had expected everything from delays to stonewalling to incompetence. Even so, five working days was an insane speed. “How?”
+
+“Through institution,” the curator’s voice was rich with amusement. “I called a Senator who oversaw the State Department, who called someone higher up. They were rightfully informed of the embarrassment Mr Kiritani would cause when his story hit the international circuit next week. The State's Bureau of Consular Affairs apologised profusely. They informed our Senator that, due to involuntary renunciation, Mr Kiritani never lost his citizenship. A new certificate was promptly produced, and other related documents were FedExed on a midnight flight to the Met. I then informed our Senator that his name would be proudly presented to the JACL, and that the present Administration would be… praised. These are the levers, dear. The ones you forsook.”
+
+Eppie sucked in a breath of cold air. This… was what she had given up in choosing to do good on an artisanal basis.
+
+“Thank you, Juliana,” Eppie didn’t know what else to say.
+
+“Speaking of the Japanese-American Citizens League,” the curator’s smugness continued. “I am genuinely surprised none of us had even thought about it. I called the reporter you recommended, Lafitte?”
+
+“Yes?” Eppie’s ears, assuming she was an actual cat, perked up. “Can it be done?”
+
+“She says it can,” Vaughan sounded excited as well. “Assuming the survivors are hardy, like Kiritani-sensei. You know this Tanaka is going to be seventy, right?”
+
+“It’s a long shot, I know…” Eppie shared the same excitement. “I won’t tell him anything, of course. I wouldn’t want to disappoint him.”
+
+“No,” Vaughan’s voice returned to its usual instructional cadence. “You do not.”
+
+The phone fell silent for a few seconds.
+
+“See you in March,” she said. “The donors have made their pledges. This is going to be big, Eppie. And it’s all because of you.”
+
+“So SOON?!” Eppie was genuinely shocked. Usually, it took years to free up a gallery for a special exhibition.
+
+“You do realise Kiritani-sensei is 87…”
+
+“Ah…” Eppie apologised. “Do I need to sing?” she asked in jest.
+
+“Would you like to?” Vaughan’s question was rhetorical.
+
+“Er…” Eppie really couldn’t fathom the idea of a blonde-haired, blue-eyed guitarist belting out a Japanese camp song at the end of the exhibition. If she insisted, not only would Kiritani-sensei collapse from the cringe, the JACL might just have her lynched. “No….?”
+
+Her would-be teacher laughed. “See you in March. I’ll send you the date when it's settled. Good luck, my girl. Be careful when you venture into the pines.”
+
+The call ended. Eppie looked at the shimmering slip of a dress on her hotel bed.
+
+It was time.
+
+The private Times Square venue was exactly what it sounded like—a room, with windows, above the crowd, where you could see the ball without becoming part of the situation below. Sony’s corporate stakeholders arrived in ones and twos through the evening. Glasses were poured. Music played from somewhere. Kellie, Lucia, Katrisha, Ellake, and a dozen more had all come and gone to share their well-wishes, more so to Curon than herself.
+
+At eleven fifty-nine, the music died.
+
+The crowd below was enormous, cold, and very loud. The ball descended with its ten shards of light, and New York City counted down in the specific register of a city that knew itself to be the beating heart of the known world.
+
+Ten. Nine. Eight.
+
+The voice of the city was enough to make the windows vibrate. Her adopted father stood beside her at the window. He had both hands on the rail, and she had a hand on the small of his back.
+
+Three. Two. One.
+
+The sound of popping champagne filled the back rooms. The noise that rose from the street was immense and intimate; it filled their chest with the vitality of a city that had found the passing year wanting, but that was no matter now. As the ball fell, they reached out with hope, the hope that tomorrow, they would run faster, their arms would reach further, that in the great sea of their collective American Dream, some might make it.
+
+"Happy New Year, kid," Curon’s face grew illuminated by the fireworks.
+
+Eppie looked at the city blazing below. Somewhere in the Four Seasons, Henry Kiritani was in room 612, asleep or drawing, spending his first NYE indoors since Tule Lake, then she looked at this strange, irrational man who had flown across the country to watch a crippled kid sing Que Sera Sera.
+
+For some reason, her vision grew blurry.
+
+“Happy New Year… Rick.”
+
+The missing beat needed not be said. She held the man’s hand, and he gripped her tiny fingers. The world was a blazing circus of fire, but in this moment, for what it's worth, for what they’ve done to make it a little better, a little more hopeful, it was enough.

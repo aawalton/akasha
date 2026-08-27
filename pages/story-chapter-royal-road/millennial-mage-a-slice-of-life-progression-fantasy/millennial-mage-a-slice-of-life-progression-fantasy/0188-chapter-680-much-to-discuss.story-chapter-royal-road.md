@@ -1,0 +1,205 @@
+---
+id: cee8be44-1342-5def-b1b6-6ba8b5aed3aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 680 - Much to Discuss"
+slug: 0188-chapter-680-much-to-discuss
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 188
+ownLength: 2754
+unit: words
+ownProgress: 2754
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3132558/chapter-680-much-to-discuss"
+royalRoadId: "3132558"
+markedReadAt: "2026-06-29T19:41:05.475Z"
+---
+
+Tala regarded Eskau Jern for a long moment in the drawn out silence. Beside her—well nearly ten feet to her side—Head Corinis was holding a perfectly schooled expression.
+
+Even so, Tala had honed a pervasive enough perception to put together a few things. First, Head Corinis had had no idea about any of this. So, the House of Iron didn’t make their core tenets widely known. More than that, they must have actively worked to keep them hidden for millennia for such a long-standing House to not have had that information leaked by this point.
+
+He also hadn’t known why they wanted to meet with the House of Blood. As it turned out, the representative at Tala’s reception to Platoiri seemingly had sensed the iron within her… or something like that. Such had been enough to spark their House’s interest, and this ‘Third Eskau’ was more perceptive in whatever way was required to perceive her relation to iron. Or this one has more authority to act overtly.
+
+Second, Head Corinis was utterly shocked at what the Eskau was saying. Since Head Corinis couldn’t possibly know her Paragon revelation of self, that meant that the House of Iron Eskau was saying something else that she hadn’t quite understood. He was saying something else worthy of shock.
+
+In that vein, Tala shifted, leaning forward. “Eskau Jern, while I understand the words you are saying, I believe I am missing the implication. Please speak plainly.”
+
+He glanced up from his kneeling bow. “The House of Iron stands ready to join with you.” He hesitated, clearly trying to follow her request. “We will not become a subset of the House of Blood, nor slaves to your whims… It might be most accurate to say: we are ready to become the Eskau to your Pillar.” He hesitated a moment longer. “In this, assume an equal relationship rather than the Pillar having found and uplifted the Eskau.”
+
+“So… a relationship of equals with deference given as appropriate?” Tala clarified
+
+“Exactly. I will return to my House and announce you as Mother of Iron… by your leave of course.”
+
+Alat cackled, providing a tidbit. -Their Head of House is called the Father of Iron.-
+
+Tala closed her eyes, taking a mentally enhanced moment to think.
+
+She wasn’t going to be able to hide away. She wanted to draw other Houses to the war, to her banner as Eskau of War.
+
+This… Well, it wasn’t that, but it was close? Head Corinis said that they were a martial house. Moreover, he said that other Houses would follow their lead.
+
+Still, Tala didn’t like how this felt. With a sigh, she opened her eyes as she asked a question, “So… You believe I am some… what? Prophesied teacher?”
+
+Eskau Jern blinked a few times, frowning. “What? No.” He seemed to be searching for the words. “Were that the case, we would put ourselves under your command as a House. I attempted to convey that this is not that.” His frown deepened. “For comparison's sake, consider us as fumbling warriors. We have just walked past a sparring ground and seen a master of arms. We wish to learn from you, study your techniques, your magics, your… everything.”
+
+She gave a slow nod, “And in this you speak for your House?”
+
+His smile began to return. “I do. Based on first reports, I was coming to open relations to exchange knowledge, but that was because I and others assumed the reports were overblown. They were not.” He was nodding to himself. “The core of who we are is oriented toward iron. All will want a connection with you.”
+
+And that rang true. They are conceptual in their magic. Of course they were, Tala knew that, but she hadn’t really understood that connections with people who had certain aspects or magic could strengthen that. In hindsight, it was obvious. With that added insight, she realized that the House of Iron might only be able to utilize iron magically because they were a House and group all united around the idea of doing just that.
+
+Arcane magic is so ridiculous.
+
+-Yeah… only arcane magic.-
+
+…Fair.
+
+Tala gave a slow nod. “Very well. I understand.”
+
+The man smiled, but she held up a hand to forestall him.
+
+“I will not have this be based on a misunderstanding. I might have little to teach you directly, but I might not.” She took a deep breath, gilding herself before surging ahead. “A part of my self revelation in order to advance to the level of Paragon was that I am the Iron Matriarch.”
+
+There was the smallest of resonances within her, and as she considered, it was focused around her iron… which was spread throughout her whole self. At the same time, the House of Iron’s Eskau’s odd shield seemed almost to vibrate as well, causing the man to shudder.
+
+“A good portion of this comes from the fact that I am soulbound to an iron dasgannach.” She hesitated, then shook her head. “Apologies, I was soulbound to one. Now? Now it is as much a part of me as my blood. We are one and the same.”
+
+The man visibly swallowed. He was not taking this as dissuasion. -Oh! You haven’t checked up on it, but Adril, Brandon, and their assistants have been studying the altered dasgannach that you took from the Platoiri Revered City Lord.-
+
+…Really? You’re telling me this now?
+
+-Well, you haven’t thought about them since you took them. Now? You finally did.-
+
+Obliquely.
+
+-Hey, I’ll take what I can get.-
+
+…Fine.
+
+Regardless, Tala continued. “My iron aspects are a part of who I am, gained through special, possibly even unique, circumstances. I don’t know that I can teach you anything at all.”
+
+The man didn’t seem dissuaded in the least. “Even being able to be near and study your aura and existence would forward our pursuits. If that was all, it would be worth much to us.”
+
+Tala sighed, but slowly nodded, causing Head Corinis to visibly relax. Even so, he did not speak, allowing her to pull together her thoughts before breaking the momentary silence. “Very well. As you heard, I am Eskau of War. The war I am to prosecute is against the Black Legion. I trust you know of them?”
+
+“I do.”
+
+“I will require the House of Iron to join in that cause, bringing all appropriate resources to bear as we prepare for the coming conflict.”
+
+Eskau Jern stood, bowed once more, and straightened to meet her eyes. “I will take your revelations and requests back to the Father of Iron.”
+
+“Thank you, Eskau. Go in peace, prepare for war.”
+
+He smiled up at her, seemingly grateful to hear her give his House’s traditional send off. He returned the gesture. “Thank you. Part in peace, united by our blood, Iron Matriarch.”
+
+With a final bow, he spun on his heel and strode from the room, obvious alacrity in his every step.
+
+When the doors closed, Head Corinis turned to regard her. “Well… today is just filled with surprises it seems.”
+
+She sighed, nodding. “So it seems.”
+
+“Care to elaborate on any of… that?”
+
+Tala grimaced momentarily before shaking her head. “Not at the moment, no.”
+
+He regarded her for a long moment before nodding. “Very well. We are here if that changes.”
+
+“Oh, I know.”
+
+The next couple of delegates were simple enough with Tala just being a sort of political set-piece while Head Corinis handled the details.
+
+It was mid-afternoon by that point, and there was a short break for tea—well, coffee in Tala’s case, at her request—and slices of various sweet breads.
+
+Tala particularly enjoyed one that seemed to be a sourdough toffee swirl. The whipped cream helped unite the flavor with the coffee beautifully, elevating the experience to an entirely new level.
+
+Head Corinis had what looked to be buttered, cinnamon chip bread and a cup of dark tea.
+
+The man glanced her way from his throne, a small smile pulling at his lips. “You know, I’ve heard that some people put butter in their coffee. Do you know why?”
+
+Tala frowned. That sounded… gross. Still, he had to have a reason for asking. “I’ve no idea, why?”
+
+The man’s smile broke through as he grinned widely. “Because some people are idiots.”
+
+Tala snorted a laugh, having to work to keep from spilling her coffee at the disjointment of the joke in the current context. “That was ridiculous, Head Corinis.”
+
+He shrugged. “Still entertaining.”
+
+“So it seems.”
+
+They chatted amiably for another few minutes before the short repast was complete, and at that point, servants swarmed over them to remove the remnants and dishes.
+
+Magic briefly washed across them, obliterating any potential stains or crumbs despite none being in evidence to Tala’s perception. Still, she didn’t object, they were just being thorough.
+
+They were about to call in the next petitioner when Tala had a thought and raised her hand, forestalling the servant. She turned toward Head Corinis. “What would have happened if I had returned as a Paragon instead of as a Reforged?”
+
+He frowned, seemingly honestly considering. “Truthfully? I’ve no way of knowing, but I can give you my best guess.”
+
+She shrugged and nodded, prompting a smile from him.
+
+“In that case, you’d likely have been required to pick a Pillar and take up a post as a regular, if more influential, Eskau. That, or we would have sought means of amicably severing ties. As powerful as you would have been, to do otherwise would have put the House of Blood in a position of having to shelter and shield you. The benefits might have been worth it, but we likely wouldn’t have taken that risk. We might have been able to be persuaded, but I am inclined to doubt it…” He frowned. “Maybe with your mysterious hold filled with power?” He shrugged. “Who can really know?”
+
+Tala gave a slow nod, smiled, and lowered her hand, allowing the servant to move toward the large doors once more. “Thank you for the honesty. I appreciate seeing the truth without gilding.”
+
+“Of course.”
+
+Yes, her position was powerful now, but it was only possible because of what she’d made of herself, the path she’d fought to climb. A healer might feel undeserving if she came into a hospital and was put in charge of patient care, but if she is genuinely an amazing healer, it could make perfect sense for the powers that be to take a chance on her.
+
+She was a confluence of opportunities and potentials, wrapped in enough power and connections to be worth the risk.
+
+Head Corinis added a small addendum. “Now, if the House of Iron had responded like this? We might have been fighting to keep you with us, rather than losing you to them outright, but I still don’t really understand what is going on with them.”
+
+Tala chuckled, and then the next delegate came in and work continued apace.
+
+The third group after tea caused her to come out of internal contemplations.
+
+It was two elves, a male Pillar and female Eskau, reminding her uncomfortably of herself and Be-thric, but the brief comparison passed. They were of the House of the Awakening Woods.
+
+It was seemingly a very young House. The official reason, especially, of late, was that they had broken away from their parent House due to their desire to allow not only other races to join, but because their Matriarch had married a green hue-folk man. She had been a minor potential inheritor of the hereditary house at the time, and she’d taken those loyal to her and struck out on her own… Well, with her husband and retainers.
+
+All this Tala knew from several sources. It was a bit funny to her that what they’d been saying in the wandering wilds was that the lack of support against the House of Blood had caused the schism. Though, Tala supposed that if the House of the Awakened Woods wanted better relations with the House of Blood, they might have changed their emphasis.
+
+As to why this Pillar and Eskau pair were here? They’d come to forge ties with a powerful, ancient House that famously welcomed all races.
+
+Their eyes lingered on Tala after her introduction, the two clearly able to tell that she wasn’t an elf… somehow.
+
+The woman bowed. “I am gratified to see that word of your beliefs is not merely pretty flowers, drawing in outsiders for your use. We have seen many of various races since we arrived at this spectacular hold, and to find a human—a gated human at that—in such a position is a true surprise.”
+
+Tala decided to speed things up a bit. “Are you in contact with Pillar Cuivie and Eskau Elnar? I believe they stated they were of your House when we met in the Wandering Wilds.”
+
+The woman’s eyes widened, clearly making connections. “Then… are you the human who fought Eskau Elnar?”
+
+Tala gave a small smile. “I am at least one of the humans who fought him.”
+
+The elf smiled and bowed again. “In either case, thank you. I owe you much, it seems. He is my brother, and while he came with us in the split, he was… he was not fully convinced of our change of goal. His interaction with you shifted his mindset, and since then, he’s been able to help the others who were hesitant come to accept our new tenets."
+
+“It was an enjoyable encounter.” She considered for a moment before adding, “I must thank him as well. At the time, I was still… in need of reminders of portions of who I am. He helped me in his own way.”
+
+The elf smiled, clearly grateful to hear about the mutual assistance. “I will be sure to tell him.”
+
+From there Head Corinis took over, laying out the first basic structures that would allow the Houses to interact and draw closer. She stepped in to add a few military portions. She wanted their Eskau and Pillars to be trained to fight the Black Legion and ready to do so at need.
+
+All told, it was a very productive meeting.
+
+A couple more petitioners and representatives came and went without really needing Tala beyond her presence and the occasional addendum about the upcoming conflicts.
+
+Then, at long last, the final group of the day finally arrived. Specifically, it was two women.
+
+The lead figure was utterly regal, her movements elegant. Her skin was the alabaster of new-fallen snow, the hair on the top of her head matching. Her eyebrows were darker, but only just, highlighting piercing light-blue eyes. The woman was lithe and clearly fit. Even so, she was clearly feminine in form and stride. She didn’t have ornamentation, and as Tala considered it, the woman would likely have looked lesser had such things been added to her minimal covering.
+
+Light gray inscriptions were clear across her bare skin, and they were just as clearly held empty of magic.
+
+The second white hue-folk woman was in armor that mostly hid her figure, while still being obviously designed both for her specifically and for easy movement. This was an Eskau, made obvious by the protian weapon covering her left forearm, in the form of a vambrace of icy crystal.
+
+The woman stopped before the dais and gave the smallest incline of her head as the servant announced Head Corinis and Tala. “The Head of the House of the Frozen Lance greets the Head of the House of Blood and their Eskau of War.”
+
+Tala and Head Corinis gave slight bows in response.
+
+A throne of ice grew up from the floor behind the woman as she sat down, trusting fully that the furniture would catch and hold her.
+
+Tala almost flexed her will and authority—which was so overwhelming within this place at the seat of power for the House of Blood—to prevent its formation, but to do so would have been unbelievably petty.
+
+Honestly, more than just the humor of causing the woman’s fall, Tala wanted to flex the odd authority she had, feeling strangely twinned and divided, without being lessened. The Head and she shared this rule over the House of Blood at a deep level, and that sharing added to the authority rather than spreading it out.
+
+But Tala was getting distracted once again.
+
+Once the woman was seated, she leaned back and smiled. “I believe we have much to discuss.”

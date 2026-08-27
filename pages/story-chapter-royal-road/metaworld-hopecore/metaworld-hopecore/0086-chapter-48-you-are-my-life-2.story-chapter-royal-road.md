@@ -1,0 +1,185 @@
+---
+id: 960ecd98-d040-5d88-bab9-81adaabff422
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 48 - You Are My Life (2) "
+slug: 0086-chapter-48-you-are-my-life-2
+partOf: metaworld-hopecore
+position: 86
+ownLength: 2000
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3442200/chapter-48-you-are-my-life-2"
+royalRoadId: "3442200"
+---
+
+LAPA. 6:05 PM.
+
+Eppie’s greatest worry while she was gone was that the cats would freeze. Outside, the temperature dropped to 45°F at night, colder if there was rain.
+
+For the Stray Cat Society, the shelter was also at the mercy of the dorm management, though it seems Lim had paid the management enough bribes to keep the heat on.
+
+She jogged from the Dorm to the Cat Society for her meeting with Lim. The large man wouldn’t be here until 9 PM, which gave her enough time to clean out the poo, change the water, and redo the kibbles.
+
+When she was gone, there would only be Lim and another Senior who lived only ten minutes away to look after the strays who wandered in for food and shelter. When she last met with Lim, she had proposed using some of her Charity Trust money to establish a permenant, rostered shelter, but Lim had said no.
+
+There were always more cats to save, and he didn’t want her to be distracted from her work. Both professional and private.
+
+The sun was dying now, and the temperate dropped rapidly. She kept to a very specific route, one that led her to all the strays' hiding places. If she passed these places, the cats would follow her scent back to the shelter. If she did not, some of them may not even show up for a free groom and feed.
+
+As she ran, her breath made small ghosts in the air.
+
+The campus was unusually quiet this time of December. It was kind of insane that a week prior, she had been tripping over dog walkers, food delivery drivers, joggers, and more, yet all that remained now was the white pavement and the intervals of light and dark left by the old fluorescent tubes.
+
+She was three blocks from the school gate when she saw Mr Chin.
+
+The furry rascal was sitting in the centre of the footpath as if he owned it, grooming himself while bathing in the light. Mr Chin was a scrapper. Ever since his injury, he had acquired a hankering for mortal combat, and could be see fightin every other non-CSULA stray for territory whenever a new cat strolled into town.
+
+Eppie slowed her step. She loved Mr Chin, and Mr Chin loved her. If chance permitted, she was seriously considering adopting Mr Chin.
+
+Moving slowly, she knelt. “Here, Mr Chin—” she cooed at the cat, patting her pockets for treats. “Here, kitty kitty!”
+
+To her horror, Mr Chin crouched, its back coiled, the fur stood, and let off the most savage, obscene snarl she had ever heard.
+
+Her heart shattered. She knelt lower, lowering her hands and her head, peeping at the cat to avoid eye contact that might challenge him, then—
+
+Mr Chin fled.Before Eppie could curse, a pair of enormous hands closed in from behind her, catching her off-balance. She gave a yelp, but the first hand gripped her face and made her swallow the sound. The second hand was around her waist, just below her breast, pulling her back so hard and fast that the air expelling from her lungs made her see stars.
+
+Her [Pain Suppression] activated. She forced her lungs to inflate. She fought off the agony. She twisted her body like a contortionist, spinning her torso like at cat’s, then struck at the figure who had arrested her.
+
+Then her world spun. Her assailant parried—parried her blow. Before Eppie could even figure out what was happening, a leg swept her ankle, and she was halfway off balance and stumbling. A second blow struck her kidney, sending a string of flashing lights across her vision.
+
+She heard a sound of rustling metal.
+
+Her face slammed into the chain-link fence, which wasn’t painful, but it was pretty obvious that she had been cornered.
+
+She looked up, gasping for air, her breath making angels as she dragged herself up.
+
+[Stamina] replenished.[Stamina: 30/30]
+
+The pain in her ligaments grew dull. She was taking no chances.
+
+In the amber light of the groundskeeping light, William Chen looked more like an impressionist figure drawn by Armand than a human being. He wore cashmere Ice-breakers that looked very expensive. His body was steaming. His face was cold with rage. His lip was cut.
+
+… Did Lim beat the shit out of him earlier? Eppie could not begin to process the scene before her. Was this a trap of some kind?
+
+“What the fuck is wrong with you?” William huffed, exhaling his soul into the night.
+
+The FUCK is wrong with me?! Eppie wanted to sock the guy, but realised she might be a little lacking in the self-defence department. Her eyes darted back and forth. She could make a run for it. If she could just keep pace, there was no way William could keep up with her [Stamina].
+
+“You put your name down under Valorie.”
+
+It was only after his question that she saw the hickie on his neck. Someone had bitten William badly. Someone with a small, petite mouth and matted sakura lipsticks. That someone had also apparently tried to destroy his face with her nails.
+
+“It’s a free country,” she managed to choke out.
+
+“You’re a crazy bitch,” William seemed to examine her in a new light. “You’re as fucking insane as Val.”
+
+“Well, you did push me from the roof,” Eppie spat back. She did the crazy-eyed blonde at him, hoping that it would deter the man. “Maybe they missed a few bits of my brain when they stitched me back up.”
+
+“I didn’t push you,” William seemed to have collected himself. “Your roommate encouraged you. Gave you a little prod, like this—”
+
+William poked at her with a finger. The tip was bleeding.
+
+Simone Goode. Eppie growled. Up to no good.
+
+William moved half a step closer. She could smell the cologne on him. She could also smell other things. Like sex. Like the perfume Valorie religiously wore.
+
+“You've been telling people things,” his voice was dangerous.
+
+He reached out for her face. Maybe to stroke it. Maybe to choke her. She brought her hand up hard and fast, her [Strength] and [Agility] pushed to their maximum. The result was a sudden snap, a violent kiss of skin on skin, then William’s body withdrew as though stung by a hornet.
+
+But not before he pulled some trick and caught her wrist.
+
+She pulled.He pulled. He slid forward.
+
+“You’re stronger than you look,” he said, seemingly confused by the outcome. Then, to her surprise, he freed her.
+
+“Sorry about earlier,” the man said with a nonchalance that was more disturbing than settling. “That fucking cat… gets on my nerves. And as you can see, I have some rightful grievance with you.”
+
+She stared. It looked like William also had a black eye developing nicely. Good work, Val. Her psychotic tomentor was already paying dividends.
+
+“Let’s… talk,” he moved to one side of the fence so that she could bolt if she wanted. Either the man was very confident in his dexterity, or he really did just want to talk.
+
+Just in case, Eppie pulled out her iPhone and waved it. “Company phone,” she said. “Location tracked.”
+
+If William cared, he did not show it. “What do you want? Redress for Mio? Money? You have Sony money now, so has to be something else. Do you want my life? What’s your angle?”
+
+Eppie stepped back two paces. Enough distance. She kept her balance even.
+
+Eppie already knew the answer. She knew the answer the day she heard Lim confess to the horrors of the locker room.
+
+"Your time," she said.
+
+Chen looked at her strangely.
+
+"That's it. That's what I want. Your time,” she said.
+
+“If you wanted to date me,” William said, looking almost relieved.
+
+“NO! YOU PIECE OF SHIT!” Eppie was surprised by her own vitriol. “You know what you did to Mio. I don’t know what the fuck you did to me, but I KNOW what you did to Mio. I heard it! I also know that you have money. I know you have your triads or whatever, you have Daddy to help you. You have Valorie and maybe her Daddy, too. You have so much of everything, William Chen, but there’s one thing you don’t have in excess. TIME. Everyone gets the same twenty-four hours. You stole Mio’s time, fuck-face. You took it from her.”
+
+William was very still.
+
+“And now, I want you to pay with it.”
+
+“You want me to go to prison?” William said quietly, dangerously.
+
+“Oh, you’ll be going to prison sooner or later,” Eppie said coldly, feeling the fire in her chest burning her parched throat. “You can go kicking and screaming, or you can go quietly, with dignity. You will first satisfy the Natural Laws, then you will satisfy the Human Laws. That’s what I am after.”
+
+“The theatre has gone to your brain,” William looked at her as though he was staring at an insane child. “What the fuck is the Natural Law?” “A penitent,” Eppie said. “Must first admit that he was wrong, truly wrong. He must tell his family and his community of his crime. That's nature's law.”
+
+“Really now.” William’s fox-like eyes narrowed. “And then?”
+
+“Then you will answer to Human Law. You will report yourself. In a court of law, your peers will pass their judgment.”
+
+This time, the silence lasted a long time.
+
+“You're serious,” William said finally.
+
+“Yes.”
+
+“And you actually thought I would agree?” William’s face moved as though he understood something. The bewilderment gave way to understanding, though Eppie had no idea what he was meant to understand. “You expect me to tell everyone, then walk into a police station?”
+
+“Yes,” Eppie said. Eyeing the Quest pop-up.
+
+Suddenly, she grew strangely self-aware.The man was looking at her weirdly. His gaze was on her covered legs, her exposed neck. Never in her life has Eppie felt more glad that she was not wearing a Neo Antigone schoolgirl uniform. If they were in a locker room with no escape. If her voice couldn't reach half the campus with its projective power... If she didn't have a recording... Woud William be so cool, so calm?
+
+“I politely decline,” William said abruptly, his eye refocusing. “I think I finally get it now. The Euphemia that leapt off the roof is already dead. You…”
+
+He stepped forward. She stepped back.
+
+“You’re just some psychotic bitch, wearing her skin,” he said.
+
+Her world shuddered. The Quest box trembled.
+
+William Chen looked at her for another moment. Then he adjusted his collar in two short, precise movements. He fixed his shirt, tucked in the tails, then turned and walked away without looking back. The amber light ate him in sections, then he was gone.
+
+Eppie stood in the cold for a while, watching her soul exhale toward the light.
+
+Mr Chin reappeared from behind the kerb and sat on her left shoe.
+
+Her phone buzzed. Unknown number. One line.
+
+Are you alright? I got a call just now.
+
+I am fine. She texted back. Had a run-in with your man. Nothing happened.
+
+Thank God, the unknown replied. I’ll be right there. I am fifteen minutes away.
+
+“Meow?” Mr Chin demanded answers. What were you doing with the bad man?
+
+"Meow," she said to the cat. "Meow. Meow. Meow"
+
+Quest Progression Failed
+
+[The Usurper of Hope]
+
+You have failed to reform the Karmic Usurper. You have successfully disrupted the Usurper’s theft of Causality from others. You did not progress the Usurper on the path of Karmic Penance.
+
+Your actions have not reaped the Usurper’s Causality.Warning! The Usurper must be made to repent to complete this quest.
+
+Failing this quest will result in immense loss of Karmic Causality
+
+Did I fail? Or did she want to fail? Was it her fault that William refused penance?
+
+She picked up Mr Chin, wore the cat like a scarf, then followed her assailant into the same darkness.

@@ -1,0 +1,149 @@
+---
+id: 24d25c2c-5d40-5e0d-a9c9-812b68d64486
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 24 - The Actor (2) "
+slug: 0046-chapter-24-the-actor-2
+partOf: metaworld-hopecore
+position: 46
+ownLength: 1557
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372616/chapter-24-the-actor-2"
+royalRoadId: "3372616"
+---
+
+At 9 PM, Eppie sat down in her room, made sure that her door was locked, then waited for a call from a woman who had given her a “leg up” in this new world. In her former life, she loathed journalists, for they almost always worked against her interests. Yet even so, she understood the necessity of the Fourth Estate, for it was the collapse and commercial consolidation of public watchdogs that led to the rise of companies like her partners.
+
+At the exact second the clock ticked over, her phone buzzed against the wood, moving itself toward her hand as though sentient. The number was “Private”.“Hello, Eppie Fontaine speaking.”
+
+A husky voice with a slight nasal twang and a hint of exoticism returned her address with a “Hello, this is Charlene Lafitte, LA Times. Let me apologise for the late call. Are you free to discuss our mutual interest at the moment?”
+
+“I am,” Eppie replied. “And thank you very much for bringing up the matter of my first video with your peers. It has… made a significant difference to my fortunes.”
+
+“Hey, the feeling’s mutual,” the woman answered with gladness. “It was just a puff piece, but it was very well received. I got a promotion out of it as well.”
+
+“No act of kindness, no matter how small, is ever wasted,” she replied.
+
+“Well said,” Lafitte laughed. “Aesop, right? You truly are an arts student.”
+
+Both women waited to see if that had broken the ice. When they both concurred that, indeed, the water freely flowed, they chose to continue their conversation.
+
+“So, your lawyer told me about the recording. He sent a copy over, and I have listened to it. Before we begin, do you consent to our discussion being recorded?”
+
+“Yes.”
+
+“Thank you,” Lafitte’s tone grew serious. “Let’s discuss Luciana Mio. Can you tell me what you know of her?”
+
+“Actually…” Eppie explained herself as succinctly as possible. After her fall, she had lost a good chunk of her memories. There are people from her first year of school that she simply cannot recall.
+
+“I am going to give you the benefit of the doubt, since it was originally Director Harper who vouched for you, and he was your primary physician.” Lafitte’s voice was backed by the sound of rapid typing. “So, you have no idea who this ‘he’ may be, even now?”
+
+If the reporter had called a day ago, she would truly say that she had no idea. However, with the [System] being what it is, it was pretty bloody obvious who “he” was going to be.
+
+After all, at the end of the day, the incident was a localised one, and the culprits involved were children. With a mind like hers, a mind of measurable [Intelligence] that had been reserved for corporate intrigue, hostile takeover, mergers and acquisitions, how could it not predict the actions of mere mortals?
+
+In her mind, thanks to the [System], the Dramatis Personae of Eppie’s life was already cast.
+
+The protagonist victim was Luciana Mio, talented and popular, but desperate for roles due to her parents’ financial straits.
+
+The chief antagonist was a [Usurper] like herself, someone who robbed the [Karmic Causality] of others around him, which the [System] has identified as William Chen.
+
+The supporting antagonist was Chen’s girlfriend, Valorie Sanders, a mentally unstable nepo-baby, as beautiful and talented as she was vicious and childish, which made for incredible toxicity.
+
+A turncoat foil was Simone Goode, a former friend of Eppie Fontaine, who was clearly involved in all of this as well, especially as she was Valorie’s loyal lackey.
+
+Then there were the side characters. Royal Road is the home of this novel. Visit there to read the original and support the author.Senator Sanders. Lee-Kwon Chen.
+
+And an unknown amount of involvement from LAPA’s management, such as VP Thomas, or even Principal Burton.
+
+Due to an unknown interplay of these characters, Eppie Fontaine was isolated. Mio had abandoned her, and Simone likely switched sides. Left alone and afraid, Eppie made a stupid decision on a rooftop.
+
+Very quickly, she organised her thoughts, then presented her findings to Lafitte.
+
+“My goodness,” the reporter’s background was a furious storm of heavy key-clacks, which to Eppie sounded like a stenotype machine’s natural ambience. “I must confess, this is far more information than I had hoped to receive.”
+
+“That said,” Eppie confessed, because it wasn’t as though she could show Lafitte her [Quest]. “I have no evidence for any of this.”
+
+“I’ll take care of that,” Lafitte’s voice returned after more clicks. “You just keep your head down and live your best life. You seem to be doing well, so far.”
+
+“Why can’t I contact you directly?” Eppie asked.
+
+“Did you forget you’re a minor…” Lafitte’s reply made too much sense. “It's well within reason for you to call a friend and mentor, but what I present may very well be open to discovery and deposition, long trials, even. We both want you to steer clear of the ugliness that may result. Your school…”
+
+Lafitte hesitated.
+
+“It’s got history, students folding under pressure to engage in untoward actions. In recent years, however, under VP Thomas, its own commercial investors have retained a significantly capable legal firm to deal with any unpleasantness that may impact their investment. Yours isn’t the first suicide, and what happened to Mio isn’t exactly one-off.”
+
+“What…” Eppie said slowly. “What did they do to Mio?”
+
+Lafitte’s voice sounded pained. “Sorry, Eppie. I don’t think it's appropriate for me to expand on this line of speculation with a minor.”
+
+Holy fucking shit. Eppie felt her original body’s predilection for paralysis kicking in. “They murdered Mio and her whole family because of an audition? For a school play?”
+
+“No,” came the hesitant reply, followed by a sigh. “There’s no evidence of anything remotely resembling that. I’ll handle chasing up the whereabouts of Luciana Mio for now. You should be very careful. Is Valorie Sanders openly targeting you?”
+
+“We haven’t even talked, actually,” Eppie confessed. “As I said, William shooed her off.”
+
+“I would stay away from Mr Chen,” Lafitte advised. “A piece of knowledge I can tell you is that his family does indeed possess immense influence in Chinatown, and that Omnia Construction has been tied to Triad activity.”
+
+“Gotcha. It’s not like I plan to hang around them if I can help it,” Eppie considered the verification of Armand’s hearsay. “Thanks, Mrs Lafitte.”
+
+“Call me Charlene,” Charlene Lafitte returned her kindness with friendship. “That’s all I need for now. Stay safe, Eppie. Nothing is more important than that.”
+
+The call ended.
+
+Eppie felt a sudden chill shoot up her spine.
+
+Lafitte’s euphemisms were too telling to ignore.
+
+What the hell did they actually do to Luciana Mio?
+
+That night, Eppie Fontaine did not sleep a wink.
+
+Friday, October 26th.
+
+On the last Friday of the second week of mid-Semester break, a wall of teenagers was pressed against the Quest Board, searching for their names. The entire underground seemed to buzz as Eppie entered, herself quivering from the nerves of having to confirm for the first time in her life that she “had it”.
+
+If she were taller, she could probably take advantage of her perfect vision. Alas, she was barely up to the shoulders of the Seniors and some of the Juniors, and could only join the scrum with her powerful elbows.
+
+At 8:35, a proctor arrived. This was a Senior who served as Cooper and Costello’s aide.
+
+The hall went completely quiet.
+
+Thwack— goes the first staple. Thwack— the second staple goes in. Thwack—Thwack—
+
+The crowd crushes forward.
+
+Shouts of “YES!” and “NO!” and “ARRRRRR— NOT HIM!” fill the air.
+
+Eppie fights her way forward; her superior strength and slim body make it easy to shimmy through the jostling teens until she is face-to-face with the board.Then, she saw it.
+
+FALL SHOWCASE GALA
+
+December 14, 2007
+
+Her name was not hard to find.
+
+For it was the very first name.
+
+ANTIGONE................... EPPIE FONTAINE
+
+ANTIGONE (U)................... Madison Evans
+
+Her body almost collapsed as the tension in every inch of her muscles relaxed all at once.
+
+The euphoria was a… strange experience. Possessed of a mature mind, she did not feel the compulsion to scream, to shout, to celebrate with a face-splitting smile. Everything just felt… right.
+
+“Congrats, Eppie,” a voice like a ghost entered her hearing. She turned to see Madison turn away. The girl was doing her best to swallow her tears. For a second, she wanted to reach out and grab Madison’s hand—but she was too petite to do so, and was soon regurgitated by the crowd in the other direction.
+
+“EPPIE! Congrats! OMG!” her theatre friends were waiting.
+
+“YOU did it!” “I knew you could do it! I never had an ounce of doubt!”
+
+Chelsea was perfectly happy with her role in the Chorus and in the stage crew.Lucy was the understudy for Ismene. And Min-Jun had won his role as the BO, Board Operator, for their production. As for Eppie, the moment the euphoria faded, the MySpace blog post of Luciana Mio invaded her mind.
+
+“Congrats!” “Omg, Mio!” “You’re the best Mio!” “You did it! You deserve it!”
+
+Her Senior had received the same praise and support from her fans and friends.
+
+And yet, where was her Senior now?

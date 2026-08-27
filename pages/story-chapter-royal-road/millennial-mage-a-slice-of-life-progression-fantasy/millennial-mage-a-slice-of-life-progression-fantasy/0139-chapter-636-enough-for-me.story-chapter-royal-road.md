@@ -1,0 +1,329 @@
+---
+id: 952a632e-d5e9-5ba9-b497-85809b36a5fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 636 - Enough for Me"
+slug: 0139-chapter-636-enough-for-me
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 139
+ownLength: 3684
+unit: words
+ownProgress: 3684
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2768310/chapter-636-enough-for-me"
+royalRoadId: "2768310"
+markedReadAt: "2026-06-29T19:39:31.242Z"
+---
+
+Tala, Rane, and Lea stood outside the house of the senior Karweil. Terry rested on Lea’s shoulder, but his one open eye was locked on Tala, clearly aware of her inner turmoil.
+
+Rane held Tala’s hand. In their momentary pause, he gave her hand a squeeze and leaned in. “I can take her, alone. You don’t have to go in.”
+
+Lea gave her father an incredulous look but wisely didn’t say anything.
+
+Tala squeezed his hand in turn, grateful for the offer. She was more so because she was well aware that Rane firmly believed that she should go in. He was offering purely as a gesture of kindness and love for her. “Thank you for the offer, but no. I need to do this.”
+
+Lea smiled and gave a slight nod, clearly happy with the decision and again, holding her tongue.
+
+Without further delay, Tala strode forward, leading her family up to the door.
+
+They were greeted by Martha, who opened the door before they knocked, having been forewarned of their arrival. Tala had also seen her within the home when the woman had noticed their arrival.
+
+“Mistress Tala, Master Rane…” Her eyes locked onto Lea, and a mixture of joy and sadness filled that gaze, tears building but not overflowing just yet. “You must be Mistress Lea. You are lovelier, even, than you’ve been described.”
+
+“Thank you, you are too kind. Please, call me Lea.” The young woman stepped forward, opening her arms. “May I call you grandmother? Or do you prefer Martha?”
+
+The older woman hitched for a moment, then burst into tears, practically falling into Lea’s arms. Lea caught her with ease. Still, it took a moment for Martha to pull herself back together. “Grandmother is more than fine… Lea. Grandma would work as well, but please whatever you choose.”
+
+“Grandma, then.” Lea smiled, even though the woman couldn’t see it.
+
+Martha seemed about to tear up again, when Rane stepped forward, enveloping her in a hug as well. “We are so sorry that Alan is doing poorly. How are you holding up?”
+
+Tala took her turn, getting over her own desires in order to comfort this woman—who was clearly in distress—even if only with a brief hug. “Oh… I’m alright.” She sent a sad glare back behind her. “That man…” She then glanced at Rane. “Not meaning to disparage you of course, but why is it so hard for men to accept help? He could still have years yet, but he won’t allow even his own daughter to heal him with her magics. What’s the point of magic if you can’t use it, hmm? That wouldn’t do much, but it would do something. If he’d let us engage a master Healer? He could have at least another year of health before him. Mistress Vanga offered—stars bless that woman—and Mistress Anna almost bludgeoned Alan into accepting a healing, but that man is so stubborn.” Martha locked gazes with Tala, her eyes dancing with hidden mirth for but a moment. “Thank goodness that none of his children inherited that.”
+
+Tala glanced away, clearing her throat. “Indeed.”
+
+Martha seemed to hesitate then, before tentatively inquiring. “It’s been more than two decades since you graduated…”
+
+Tala gave a soft smile, turning back to face her. “Almost twenty-four years, yeah.”
+
+“Indeed. Twenty-four years… have you softened toward him? Is there a chance…?”
+
+Tala momentarily stiffened, but to her surprise, it felt more like a trained reaction than a natural or instinctive one. She relaxed, frowning. “I… I’ll talk with him.”
+
+Martha smiled. “Thank you, Mistress Tala. I know I’ve no rights to you, but I still would not wish him to depart this world, leaving you with unfinished business.”
+
+Tala opened her mouth to respond, but decided not to argue with the woman, closing it again and nodding once instead. “Indeed.”
+
+Lea gave Martha another quick hug, then pulled back just slightly. “Can I go see him?” She gestured with her head. “Can we all?”
+
+“Yes!” Martha nodded vigorously.
+
+She led the four through the house and out into the small back garden.
+
+Alan was sitting in a reclined chair, his head resting against the back in a manner that made it seem that he couldn’t easily lift it. A thick blanket was tucked around him, with his hands resting atop it.
+
+He looked thin, not neglected, but as if he simply wasn’t eating as much as he really should.
+
+When they entered the house, Alan’s voice reached them, soft, but still quite audible for all of the Sappherrouses. “Martha, love? Are they here yet?”
+
+“Yes, love.” Martha led the others, and as they came around to where he could see them, he defied expectation by lifting his head and giving a shallow nod.
+
+A rueful smile tugged at his lips as he spoke. “I apologize that I cannot rise, honored guests.”
+
+Tala and Rane each gave shallow bows in return, and Lea bowed deeply. “Greetings, Grandfather.”
+
+Alan’s head fell backward as his eyes widened slightly. “My… you know how to test a man’s heart, young lady.” A weak smile quickly broke across his face, somehow seeming more genuine than the previous one. “Thank you for the honor.”
+
+Lea sat next to him, taking up his hand. “It is only the truth.”
+
+The smile grew. “I wish that you’d known me when I could have greeted you properly, but I understand regardless, and I am grateful for this meeting.”
+
+Lea raised an eyebrow. “Do you truly wish that?”
+
+“Very much so.” He gave a weak nod.
+
+She nodded, smiling widely. “Wonderful. Then we shall get a Healer.”
+
+Alan’s eyes hardened, his smile fading momentarily, and he shook his head. “No. Clever words won’t change things. I won’t accept healing. My soul longs for the next world.” He looked up and met Martha’s gaze. “Even with what I leave behind.”
+
+The older woman swallowed, tears visibly building once again. “Selfish man.”
+
+He let out a soft chuckle. “Indeed. That does seem to be the most prominent of my many failings.”
+
+Tala reluctantly sat on the man’s other side, drawing his attention.
+
+“Thank you for sitting with an old man, however briefly.”
+
+“Of course.” She shifted, unsure if she’d been right to sit.
+
+Alan seemed to wait for a moment, before soldiering on, clear intent in his eyes. “I will likely never see you again, Mistress Tala. May I say my piece?”
+
+She hesitated for only a moment. Behind her, Rane was giving a subtle nod, but he didn’t do anything to push her toward the choice. Tala closed her eyes and drew in a deep breath before nodding. “Yes. I would hear what you have to say.”
+
+Alan smiled slightly again, settling just a bit. “Thank you.”
+
+She simply nodded once more.
+
+“I am so proud of you, Mistress Tala.” His smile grew broader, tears coming to his eyes as well. “You have turned out to be amazing beyond the wildest dreams of any father.”
+
+Tala closed her eyes momentarily but didn’t correct him.
+
+“Now, with so many of my children becoming Mages, our family is aiding humanity across the board, yet you still surpass all your siblings, maybe even combined.” He chuckled, slowly shaking his head. “Emily would have been as proud of you as I am.”
+
+Tala jerked at that. It had been… well, she couldn’t remember the last time that she’d heard Alan say her mother’s name, and given her essentially perfect memory, that was saying something.
+
+Martha sat on the footstool beside Alan’s feet, reaching forward and taking his hand. “I can attest to that, Mistress Tala. Emily… She was a gentle soul but strong. You show within you many of her best qualities.”
+
+Tala felt her own eyes beginning to water, and fought it back, asserting her authority over herself in order to keep them from surfacing.
+
+Alan cleared his throat. “I understand that you are effectively immortal, just as the great Mages who protect us are. Is that true?”
+
+She gave a slow nod.
+
+“That is fantastic.” He gave a contented smile. “I am so glad that you will continue to do good for those around you for untold years to come.”
+
+She frowned. “You could stay around, see more of that if you wished.”
+
+It was his turn to frown. “You too? I’d thought at least you would see the sense, here.” When she looked puzzled, he sighed. “I am a deeply flawed man, and I am ready to pass on. I’ve no desire to live long enough to bury another of my children.” He closed his eyes and swallowed visibly. “I am blessed beyond measure to have only had to bury two, not more. I have friends who have buried many times that number.”
+
+“But you could do more in life. Be involved in your grandchildren’s futures for example. Or… help humanity in some way?”
+
+“Bah.” He lifted the hand not in Martha’s hand in a weak negation. “Most of us mere mortals would surpass all expectations, by being even a footnote in the story of Humanity’s greats. Because of you? Because of you, I have achieved that. Even if I cannot be remembered as your father, I will still have influenced the course of our entire world, if indirectly. How could that not be enough for me?”
+
+Tala rocked backward at the words as if struck, anger rising up within her as this man, this man, tried to lay claim to her legacy, to who she was and who she would be. He was trying to say he was partially responsible for who she was. He was trying to say that he would be remembered because of her accomplishments, even if just as a footnote.
+
+How dare he?
+
+Her authority flexed, her aura growing and roiling with power.
+
+The very air around them warped, darkening the small garden.
+
+Then, another authority was there, pushing against hers, trying to soothe her.
+
+She almost snarled at it and forced through, but then another joined the first, and her soul resonated with them both. Rane had been joined by Terry, both protecting the less advanced in the area, not to mention the city magics and structures.
+
+Vaguely, she felt the City Stone holder’s attention fix on her before hesitancy became clear in that presence.
+
+-Tala, control yourself. You could kill thousands if you don’t rein this in.- Alat’s voice was calm but also full of authority of her own, adding her will to those keeping Tala in check, Enar joining a moment later.
+
+Less than the beat of her racing heart had passed, but power poured through her enhancement spellforms like a raging flood, both inscriptions and natural magics blazing like the sun beneath her through-spike illusion, straining that construct near to bursting.
+
+Before her, frozen before her accelerated perspective, Alan was giving a tired smile, clearly contented by what he’d said, calmly assured in the truth of his words.
+
+The truth of his words.
+
+And… weren’t they true?
+
+Alan would be remembered, he already was immortalized in the Archive. Even if no one ever read the entries on him, they would still be there, linked to her for all of time.
+
+Even if they failed, and humanity was obliterated, the Archive would continue, inaccessible, but still there.
+
+And he would always be linked to her.
+
+Tala felt as if she’d been slapped. Not only him…
+
+Her teachers would be linked to her through Archive records, and more to the point, she did feel influenced by them.
+
+That was good, because she had been influenced by them. Of course she had been.
+
+That’s when it hit.
+
+That’s when her misapprehension became clear.
+
+Oh… Rust…
+
+How could she have been so foolish? How could she have been so blind?
+
+She could not possibly divorce others’ influence from herself, from who she was, let alone who she would become.
+
+She was far more than the sum of her influences, and she certainly wasn’t less than that.
+
+She could never be free of others. She could never be ‘her own person’, not entirely.
+
+I’ve been obsessed with an impossible goal, never realizing I was pursuing the wind.
+
+-Hey, at least you never tried to name it.-
+
+Tala frowned, her rambling mindset broken. What?
+
+Alat sent the impression of a shaking head. -Doesn’t matter. I was trying to break you out of your internal wheel-spinning, and it worked.-
+
+Time seemed to begin flowing normally once more, and Alan closed his eyes, seeming momentarily content.
+
+Martha frowned, looking around, then up. “Did a cloud just go overhead? I thought it was darker for a second there…”
+
+Terry gave a slight squawk, then shook himself before narrowing his eyes toward Tala.
+
+The presence of the City Stone holder and the Prime Defender each slowly faded from Tala’s awareness, but she detected their attention remaining on the house, seemingly just in case.
+
+Rane stepped up beside Tala, placing his hand on her shoulder, and she placed her own over his gratefully, each giving a slight squeeze of assurance and connection.
+
+I was wrong.
+
+-Really? In what way?-
+
+Tala sent an internal glare at Alat. You knew.
+
+-Of course I did, but I couldn’t confront you with it, not directly. So? Are you going to spell it out for yourself?-
+
+Fine. I can never be my own person, not really. I will always be connected to those who came before, to those all around, to those who affect and assist me. But… Doesn’t that go against everything that I’ve been told? Doesn’t that make Reforging a lie?
+
+-Does it?- Alat sent a patient smile, then brought up the myriad memories of Tala speaking with others about Reforging, allowing her to see them in a new light, allowing her to finally understand the truth.
+
+* *  *
+
+Tala had been frustrated, putting her palms on her eyes and rubbing furiously. “What’s the purpose of—” She stopped her eye-rubbing, then dropped her hands, eyes wide. “Reforging has to create a balance. The process… it isn’t about strengthening some parts so they are supreme, it isn’t about ‘defeating’ parts that I don’t like or don’t prefer. It’s about achieving a balance between the different parts of myself, the different parts of my existence.”
+
+The Maternal Iron and the Ravenous, Jealous Devourer. Two sides of the same coin. She was both. She was the Iron Matriarch.
+
+-Not to mention: warrior, wife, friend, and provider of shelter.-
+
+I mean, yes? I don’t really see any of those four as in conflict.
+
+-Of course you don’t, because you’re used to holding those views in parallel. There’s also the balance of teacher, sister, mentor, mother?-
+
+Alat had been trying to emphasize her connection to others even then. It was so obvious now.
+
+Master Grediv had held up his hand, cutting off her internal musings. “I… I am willing to answer almost any question you ask, but please think carefully before inquiring about the Reforging of others. It is impossible to escape all influences, but actively choosing into one? Make sure that is truly what you wish to do.”
+
+He’d outright said it was impossible to escape all influences. He’d said it plain as day, and she’d simply passed over the words.
+
+* *  *
+
+At another time, she’d yet again been seeking advice on Reforging from Master Grediv.
+
+“Yes.” He had given a half smile. “Who and what you are, physically, is decidedly influenced by many, many outside factors. So while claiming it as your own is good—and even required—it is not truly Reforging in the most potent sense. In fact, it cements ties, restrictions, and influences, making Ascension essentially impossible.”
+
+At the time, she had thought he was saying that it was impossible to Reforge while leaving connections to others, that doing so would make Ascension impossible. But that’s what she’d wanted to hear, what she’d expected to hear. Instead, he had been saying that simply ‘laying claim’ wasn’t enough. That wasn’t Reforging.
+
+She had to actually remake herself, not as untouched by those around her, but as she was and wanted to be: Truly connected to both her roots and to where she was heading.
+
+She wasn’t supposed to be divorced from those around her. She was supposed to accept those ties and remake herself with them in mind, framing them as she desired.
+
+* *  *
+
+The next memory was from when Tala had picked up the work of art that was Mistress Holly’s schema. The woman had said, “Truly, thank you for this opportunity. Even though it is effectively a purely theoretical exercise, it is one that I doubt I will ever forget. More than that, I believe that what I’ve learned will help me push inscriptions forward yet again.”
+
+That more than anything else should have stood out to her at the time. Mistress Holly didn’t believe anything was purely theoretical. She lived for direct applications, but Tala had already told the woman that she was going to make her own version.
+
+The Inscriptionist hadn’t argued in the least. That should have been a clue as well.
+
+Mistress Holly had helped her with a ‘theoretical’ project anyway, and laid out a truly obvious sign-post of sorts, if Tala had ever cared to look back on it.
+
+Now, she had. Now, she understood.
+
+* *  *
+
+A final memory came to her from Alat, even if it was the first, chronologically.
+
+Tala had yet again been speaking with Master Grediv, and she had been telling him what she thought Reforging was.“Reforging is effectively Refining, but where I will be required to control every part of the process myself, through my own magics and through inscriptions that will be added to me for that purpose. There can be no outside assistance or interference. It is the remaking of myself, by myself, for myself.”
+
+Master Grediv had held up a finger. “Yes and no.”
+
+He’d been trying to guide her to this very revelation. Later he’d tried to walk her through it.
+
+“Your new physical body must be untainted by anyone else’s ownership or authority.” He waved a hand dismissively at his own words. “This is not precisely correct, but it will help to convey what you need to know for the moment."
+
+“Does that mean a familiar or spouse could help?”
+
+He smiled broadly. “They could, yes. But that isn’t what I was driving at.”
+
+“Alright. I’m listening.” And right there, she’d missed the almost throwaway response. Her bound companion or a spouse could help. Of course they could, but that hadn’t been what he was driving at.
+
+“The resources you use to Reforge yourself must be your own. Master Jevin is a nearly perfect example in this regard. He uses the earned, excess resources of his entire city to push himself forward every cycle, and yet he has barely moved toward being Reforged.” He held up a hand to forestall her obvious objections. “True, he has other issues limiting his Reforging speed, but the idea stands.”
+
+“Alright, but I still don’t quite understand. What resources? What could I need?”
+
+He shrugged at the question. “Precious metals in the thousands of pounds to be made into the inscriptions that you will need to empower throughout the process. Food that is yours on a fundamental level, rather than purchased from someone else. Things of that nature.”
+
+He had been trying to show her that it was authority that mattered. He hadn’t suggested that she mine the metal herself, grow the food herself. She’d taken the wrong lesson from his words.
+
+Now? Now she finally understood. She understood, and she had everything that she needed ready to hand.
+
+* *  *
+
+When Tala opened her eyes again, Alan was looking at her curiously. Their eyes met, and he gave a tired smile. “I don’t understand how or why, but it’s clear you just had an epiphany of sorts.”
+
+She frowned. “What?”
+
+He shook his head. “Go, whatever it is, it’s obviously important, and I won’t stand in the way of such things. You have the look you used to get when there was something that you needed to do.”
+
+“Alan, I can wait. You are—”
+
+He cut across her weakly. “An old man, ready to die. Goodbye, Mistress Tala.” He gave a sad smile. “It was my honor to know you. Please, don’t delay whatever this is on my account.”
+
+She almost argued further, but then she realized he was right. She had everything she needed in order to Reforge at long last, and that task was calling to her. Her very soul felt like it was trembling with anticipation.
+
+Tala turned, looking up at Rane, and he smiled down at her. “Go. I’ll stay with Lea. Do you need Terry?”
+
+Tala hesitated, almost saying that no, she didn’t. She had to do this on her own, but that wasn’t right. She’d even been planning on her own version of the merging magics to not include him at all. Now though? She smiled. “Yes.”
+
+Terry flickered to her shoulder without a moment’s delay, and the terror bird had a gleam in his eyes.
+
+“Ready, Terry?”
+
+He let out a short, decisive squawk.
+
+Lea was clearly confused, but she met her mother’s gaze and smiled. “Love you, mom. Thank you.”
+
+Tala smiled in return. “Love you, sweet. Listen to your father, alright?”
+
+“Always.” But when she glanced toward her father, Rane theatrically rolled his eyes, and Lea chuckled. “Fine, ‘often’, and I’ll try while you’re gone.”
+
+Tala nodded once more. “Good. Martha, thank you for your hospitality. Alan… thank you for your words.”
+
+The two smiled, giving slight bows of their heads.
+
+And Tala was off.
+
+Her aura and authority was expansive, and by aspect mirroring Terry’s magics, she was able to easily flicker back through the city to where Kit waited.
+
+-I’ve warned Lyn, they’re closing up Ironhold. It’ll be less than five minutes until they are ready, and there’s no reason for delay.-
+
+Thank you, Alat.
+
+-Absolutely.-
+
+Tala took a deep breath, then willed herself into Kit.
+
+It was time to Reforge.

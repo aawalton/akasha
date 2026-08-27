@@ -1,0 +1,201 @@
+---
+id: c0860a17-ad4d-5f51-91f8-5fa6e00d77ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 629 - Celebration: Day Three, End"
+slug: 0132-chapter-629-celebration-day-three-end
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 132
+ownLength: 2593
+unit: words
+ownProgress: 2593
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2719170/chapter-629-celebration-day-three-end"
+royalRoadId: "2719170"
+markedReadAt: "2026-06-29T19:41:39.553Z"
+---
+
+Tala and Rane led the group out into Alefast, Waning on the third and final day of their celebration of Lea's birthday.
+
+Lea had more than proven herself over the past days, at least in mundane interactions, and the girl was practically skipping as she moved among the other celebrants, chatting and enjoying her time with them.
+
+Tala and Rane kept their aura extended around her. It wouldn’t be enough to stop the girl if something went catastrophically wrong—not by itself—but they should be able to mitigate and delay things, hopefully keeping everyone alive through whatever came.
+
+But that poor outlook was only in the event of catastrophe.
+
+Terry rested on Lea's shoulder, an easy anchor and source for their aura, as well as a comfort and companion to their daughter.
+
+Rane’s family had met them at the exit to the sanctum, along with the other ‘local’ guests, and at the moment, his father was laughing at some story or other that Lea was telling, clear joy evident in his interactions with the girl.
+
+She, in turn, seemed more oriented to her paternal grandparents than ever, but thankfully not to the point of neglecting her other guests.
+
+Her Gredial aunts and uncles weren’t in town, and that was a mixed blessing.
+
+Rane didn’t dislike most of his siblings, but it definitely would have made things more socially awkward to have them about. They would have needed to be invited if they’d been in the city as well, so that was the good side of things.
+
+That wouldn’t work forever, as the younger ones would be coming back from the Academy soon enough, too, but Rane wasn’t against seeing them more regularly.
+
+On the negative, Lea seemed to be gaining a greater understanding of, and desire for, connection with Rane’s siblings. Her sadness when she’d asked if they were going to be in attendance and been told no, was heartbreaking to witness.
+
+Thus are the reactions of a four year old.
+
+-No, no those aren’t. A normal four year old might have thrown a tantrum, or pouted, despite the other guests. Lea felt the sadness, but wasn’t mastered by it.-
+
+Tala hesitated, considering. Finally, she nodded. That’s fair. She did take it well, even if it was obvious she’d have preferred a different result.
+
+-Exactly.-
+
+That train of thought had Tala truly considering her daughter yet again.
+
+She was clearly relishing her time with her grandparents, but she was also skillfully including those around her as well, drawing them into conversation and asking after various aspects of their lives with more grace than Tala had ever managed.
+
+Rust… I really do have an extrovert.
+
+-That we do…-
+
+Lea's language skills, always exemplary, had moved to a new level of late, her thoughts and intentions coming together smoothly and articulately, even when she was caught off guard with a question or idea.
+
+Beyond that, she moved like a dancer—or a predator—seeming always in balance, always ready to move in any direction. She was centered and in control of her own movements, always aware of her own body and all that was around her.
+
+It was only as Tala looked closer that she noticed the girl occasionally tapping those who walked nearby, nudging them to keep them from tripping, or helping to fix their balance before they even realized they were slightly off kilter. Adding to her obvious social graces, each such was disguised as a hand on the shoulder to grab attention, or a light touch with a smile, expressing familial affection, or some other small physical expression of the same.
+
+If not for her magic—and Tala’s threefold sight—she would appear, for all intents and purposes, like an incredibly confident, outgoing young woman.
+
+The girl's magic was obviously new to her… At least it would be so for anyone with even a half-way trained eye, even though she was just as obviously keeping it under control.
+
+All in all, their daughter was doing fantastic, and they were looking forward to many more wonderful years with her in the future.
+
+Rane must have been thinking along similar lines—or he noticed Tala's attention—because he finished up his previous conversation and put his arm around Tala as they walked, pulling her close and whispering. “She’s an amazing little girl, isn’t she?”
+
+“That she is.”
+
+Tala leaned her head against him, thinking about her husband in turn.
+
+Rane had truly risen to the occasion as Lea’s father. He spent more time with the girl than Tala did, and his orientation was always toward helping Lea understand more and interact with the world around them in a more beneficial way.
+
+It could be viewed as manipulative, trying to get the most out of her surroundings as possible, but the way Rane put it forward, it was a win-win.
+
+Lea shouldn’t idly break a branch off of a tree, because if she did, it wouldn’t be there to provide fruit or shade or beauty. Don’t be mean or unkind, be fair and a good playmate, or that person won’t want to play with her any more.
+
+Even for those she’d never see again, or who could never ‘give’ her anything in return, Rane had thoughts on that. Such people were to be treated well and given every advantage, because doing so made Lea a better person and better off.
+
+The added benefit in more fleeting interactions was that Lea could go above and beyond, well beyond her comfort zone, and since she’d never see them again? She wouldn’t have created an expectation of such behavior going forward.
+
+Tala wasn’t quite sure she agreed, though she didn’t exactly disagree. It was a funny, not-quite-selfish way of viewing the world.
+
+My behavior affects me more than anyone else. If I behave badly, I am harming myself.
+
+-I can see the echoes of that in how he acts. It’s odd to have morality and right action so rooted in ‘selfishness’.-
+
+I know, right?
+
+Still, Tala knew that at least part of that way of thinking was a core tenet behind Rane’s own Reforging process. He was remaking himself in order to be of more use, of more help, to be stronger for others. Why did he want to be of more use and all that? Well, because acting well made him better.
+
+It was a self-sustaining loop that Tala didn’t quite understand, even if she agreed with most of the components.
+
+He strove to be a better husband, not because he felt she deserved a better husband—though he occasionally stated that he did believe that too—but because it was better for him to be a good husband. He wanted ‘good husband’ to be something that defined him, so being so built toward his own goal.
+
+It was similar to being a father. In that way, even when he was doing things that actually had no interest for him, or even that he actively disliked, he was still working toward his goal of being a better father. Thus, even while doing what he didn’t want to do—so long as he was moving in a direction he desired—he was actually doing exactly what he wanted.
+
+On a broader scale, Rane wanted to be there for humanity. He wanted to help protect, defend, and uplift those weaker than him, and he’d reasoned that if he could get stronger, he’d have more people to help, both because he could help allow there to be more people, and because he’d become stronger than others; thus, he had added them to the number of those weaker than him.
+
+All told, it seemed to be an incredibly solid base from which to build his Reforging.
+
+They’d talked through various methods for the actual physical side of things, given a change of mindset and attitude weren’t nearly enough on their own.
+
+He wouldn’t be creating an entirely new body and moving himself into it. Instead, he would be remaking himself through a combination of healing artifacts, constructs, and his own boosted regeneration.
+
+That also didn’t make sense to Tala, but she knew better than to directly challenge him on his own ideas about Reforging.
+
+As to Tala, herself, she had spent the last years so thoroughly immersing herself in the various inscriptions, merging magics, and designs for her reality iron body—all mixed and meshed—that she’d occasionally woken up to find a fully formed body standing beside her, looking down on her sleeping self.
+
+That had made for a horrifying way to wake up, that’s for sure.
+
+Aside from that, she was finding that she genuinely loved being married and having a daughter.
+
+She knew it was an unrealistic standard, and when she had more standard children, she was expecting it to be more difficult in myriad ways. Even so, Lea was a genuine joy in her life, as was Rane.
+
+Terry seemed to sense something from her soul as she contemplated, because he opened one eye and regarded her judgmentally.
+
+She huffed a laugh, seeing the look through her threefold sight. Yeah, yeah. You are an amazing part of my life as well.
+
+He shimmied a bit, settling down on Lea’s shoulder all the more comfortably.
+
+Now, this large group wasn’t just wandering the streets of Alefast, Waning. No. They were heading to a particularly favored location.
+
+Lea’s favorite tea house.
+
+With such a large party they had arranged this outing ahead of time with the location.
+
+As such, they were quickly settled into various rooms as soon as they’d arrived, Lea having skillfully connected the groups that were to sit together, starting their conversations and getting them engaged.
+
+As a result, there were quite a few interactions in the vein of: ‘Oh, we’re here? Well… I’d love to keep talking. Could we get a table together? Oh! We’re slated to the same area? That’s wonderful!’
+
+Obviously each was rather varied, but they each boiled down to the same thing.
+
+She’s even better than I realized…
+
+-Well, to be fair, we picked the groups based on those we thought would get along well, and she simply leaned on those very reasons for which we got each group together. Enar and I had already done the groundwork. She simply had to act on our information.-
+
+In that case, thank you. I appreciate the effort you must have put in.
+
+-Oh, it was nothing. We’ve gotten quite used to helping others do what we need or should be doing while making them think it was their own idea.-
+
+…I’m going to pretend I didn’t hear that.
+
+-Exactly as planned.- Alat sent over a feeling of self-satisfaction.
+
+Tala sent her the impression of rolling eyes. Whatever helps you sleep at night.
+
+-Wow… that’s a low blow.- But she was chuckling internally. They both knew very well that Alat never slept, after all.
+
+All told, the outting—both at the teahouse and when they moved over to a private play venue for a production put on for Lea’s birthday, one of Rane and Tala’s favorites—went off splendidly, ending the celebration in top form. It was actually the same company that Tala had employed for Rane’s birthday so long before, but several of the actors and actresses had changed through the years.
+
+Things hadn’t gone perfectly over the last three days, but they had gone better than could have been hoped. As the guests departed—either back to their own homes in Ironhold or Alefast, or through the teleportation circles back to other cities—they all expressed their gratitude, congratulations, and wishes that it had been just a little bit longer.
+
+Lea, Rane, and Terry saw off all the guests with Tala—in contrast to Tala welcoming most of them as the point person, on her own.
+
+And that was that.
+
+It felt… anticlimactic, like the sky should have opened up, or there should have been a big fight, or… something, but time marched on, irrespective of the changes in the life of the Sappherrous family.
+
+With Lea’s abilities finally under her control, in the weeks following her birthday celebration, she was allowed to train and spar with others once more.
+
+Primary among those was Eskau Meallain.
+
+The elven woman had settled deeply into her routine, training the Talons, and occasionally acting as a sounding board for Tala’s musings on Reforging and the nature of existence… whichever Tala felt like discussing at the time.
+
+The Eskau took special interest in Lea’s new capabilities, and with Tala and Rane’s reluctant agreement, the woman took to training Lea in melee combat, spending hours practically every day going through forms and sparring in equal measure.
+
+The House of Blood was now in regular contact with the Cycling Cities of gated humanity, and through them, messages got to Eskau Meallain as well.
+
+She was allowed to respond, but obviously, every such message in both directions was thoroughly screened.
+
+Incredibly, the previously regular attacks by various arcanes had, in fact, begun to taper off with the official treaty between gated humanity and the House of Blood being affirmed and made known throughout the arcane cities.
+
+Given the Cycling Cities were not subservient to the House of Blood, that meant that they’d effectively declared to the Major Houses that they were open to productive and peaceful relationships.
+
+There had been an… unfortunate number of trade requests for gated individuals. The wealth offered had been staggering, even if not really tempting. Some of the Major Houses had been wiser, asking for those near to death for one reason or another, but even so, they’d been refused across the board.
+
+In truth, some of the offers had been good enough that they might have asked for volunteers among the aged—their families to be rewarded—save for the fact that doing so would legitimize the arcane possession of vestiges in general.
+
+After all, if there were some legitimate ways to acquire vestiges, it would be impossible for gated humanity to universally condemn the use of that power source.
+
+On other, external fronts, the hunt for the Black Legion was ongoing and as of yet fruitless.
+
+It wasn’t yet time to inform the Major Houses, but things were moving in that direction.
+
+There had been envoys sent to the Mountain Kings, however, and even as distracted and occupied as Tala and Rane were, they had eagerly awaited the return of those Archons.
+
+In the end, the dwarves asked for ten years in which to do their own research and investigations. Even so, the overall mission was seen as a victory, because the dwarves also agreed that if the Black Legion was spotted en masse before those ten years had passed, they would mobilize.
+
+Sadly, theirs was not a society of war, and they didn't like leaving their power base, but they would range a bit out at need, and provide supplies if the gated humans needed them.
+
+All told, it was a lackluster response, but one that was still far better than many had feared they’d get.
+
+Tala wasn’t hopeful that the Black Legion could be left unaddressed for another century, but if they could be, she was beginning to believe that she and Rane might, just might, be Reforged and ready to face them from a much stronger position.
+
+Lea wasn’t quite ready to become Bound yet, but they hoped she would be within another couple of years, with proper training.
+
+With those long term goals—and nothing really needed in the short term—the Sappherrous family simply buckled down and got to work.
+
+There was still much to do before the remnants of the murderous automata army could be properly dealt with.

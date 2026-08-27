@@ -1,0 +1,237 @@
+---
+id: 73867683-d380-58d0-b52c-6192b5e93c94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 The basics of magic"
+slug: 0003-chapter-3-the-basics-of-magic
+partOf: melody-of-mana
+position: 3
+ownLength: 3670
+unit: words
+ownProgress: 3670
+publishedAt: 2021-06-16
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/700193/chapter-3-the-basics-of-magic"
+royalRoadId: "700193"
+markedReadAt: "2026-06-29T22:26:20.314Z"
+---
+
+After returning home from the little townwide excursion to the village hall I was ready to pass out. It'd been a long and busy day for all of us. My father on the other hand had something he wanted first, and picked me up, setting me down on one of our chairs.
+
+"Mister Mystien has been kind enough to agree to start training you tomorrow. You're going to listen to everything he says, and do exactly what he tells you to, understand?" his voice was firm.
+
+"Yes papa." I looked up at him, meeting his tired eyes. It was because of me that he'd been running around all afternoon.
+
+"And you're not going to use magic at all unless he tells you it's okay to, got it?" he continued, setting out his ground rules.
+
+On this point I didn't want to give. I'd been using my one little trick to keep the house a comfy temperature for a good long while now, and I waffled, looking away.
+
+"Um... I've been using it to keep the house warm or cool for a little bit..." I really didn't want to give up my magical HVAC.
+
+He gave me a light bonk on the head for that, "You'll not be doing that until he gives his permission either, magic is dangerous Alana,"
+
+"Umph, okay, I won't, promise," I pouted about that, but there was no winning here, not tonight at least. When winter rolled around, we'd see who wanted a heater and who didn't.
+
+"I mean it sweetheart," he leaned down to look me in the eyes, "I've seen men killed by spellslingers who were more smart than they were wise." my dad hadn't talked to me much up till now, but he was painfully sincere here.
+
+"Okay..." I mumbled.
+
+"Good." he perked up, "Now, everyone to bed, it's late enough already."
+
+I scampered off to the corner of the house where we kids slept, my brothers made some complaining noises about it but joined after a fashion.
+
+The next morning I was awoken early, as was everyone else. We collectively had breakfast shoved down our throats by mom and the boys were told to make themselves busy till the afternoon.
+
+After they'd left she brought me over to the hearth, where the biggest of our few pots was warming. It was a massive clay monstrosity.
+
+"Soup?" I inquired, looking at the vessel used mostly for making a couple days worth of stew at a time. It wasn't hot yet, and likely wouldn't be for awhile, but it was nicely warming.
+
+"No, you're starting training today yes? And we're going to make sure you're nice and clean." she gave me a smile that was somehow more threatening than anything I'd ever seen. Her voice was sweet as she pulled out a rag and a bit of soap, something we seldom used.
+
+I may have significantly underestimated how irritated about the previous day's events she was, because I was thoroughly, roughly scrubbed clean. I struggled and complained in vain as she, rather more forcefully than was necessary, washed me head to toe.
+
+We did not bathe very often here in this world. I'd been able to wipe myself down a little bit here and there, but an actual, proper bath was not something I'd yet experienced. This mockery of that most relaxing of rituals did get me clean, even if I felt like I'd been scoured that way.
+
+I did make the mistake of using one of the many words my brothers were so fond of using when my parents weren't around, and found that my mouth became the soap holder for the rest of the "Bath."
+
+And so, after being cleansed, and shoved into the nicer of my two outfits, my mother took me over to the old magus' house. I was thoroughly exhausted by the time we arrived."Alright." Mystien said, as we stood in what looked to be the main room of his home, he had two others off to the side. I didn't know their purpose, but could assume at least one was a bedroom from the lack of sleeping arrangements here, "I know you've been messing around with magic, what can you do so far?" he inquired.
+
+"Umm, I can do the light thing, I can heat or cool a room or myself a little bit, and I can move small objects." I listed the things I could reliably manage.
+
+"Let's see 'um, one by one. The heating and cooling ones are separate for yourself and the room as well, so show each of those," he seemed contemplative as he watched me run through my tricks.
+
+"That's not a bad start, we'll work first on polishing those out. We'll work on the light today, since it's been the one to cause the most trouble." I blushed a bit in embarrassment at his reminder, and we began the process of ironing it out. Making small corrections to the flow of the magic and the way I was focusing it at his instruction, until I began to wear myself out.
+
+"That's enough, it looks like you're running out of mana." he declared after about an hour of work.
+
+"Mana?" I asked.
+
+"Mana is the energy of magic, it's all around us, you can see it no?"
+
+I nodded in confirmation.
+
+"To use magic you must use a small amount of the mana in your body, putting it out into the world and using it to shape the mana around you. If you were like me then we'd have to spend a good bit of time teaching you how, but you're no wizard, that's certain." he moved into a lecturing position, scholar's cradle and all.
+
+"Not like you?" I wasn't certain how to parse that bit.
+
+"Indeed, you're a bard... there are, four rough categories of magic use, three of which are spellcasters." he began,
+
+"Wizards like myself work with forces outside the body, we can also summon simple substances. I specialize in water type magic particularly, but that's not important for now. That's knowledge type magic, and is based on the user's understanding of the forces and things they're altering or creating." I nodded along,
+
+"Then there is belief magic, its practitioners are often called clerics or priests, though sometimes they go by other things, depending on what they in particular believe and do with their abilities. They work exclusively with living or sometimes dead things. The best healers, they can also make plants and the like grow if they work in that direction. Their magic is based on their belief that what they're doing is right, or proper." that sounded weird, but okay.
+
+"Finally there are bards like you, who use instinctual magic. You can work both with living things, and with forces. You can even do some summoning, though it'll be hard, you'll be able to summon more complex things. Bardic magic is much, much slower, and quite a fair bit weaker than the other two, but it is very versatile, and is based on instinct. It's normally focused through song or dance, something like that." it sounded like I'd be a "Jack of all, master of none" kinda mage, but that was cool with me.
+
+"You said four, that's three though?" I asked.
+
+"The last is physical magic, it sometimes develops in people who use their bodies a lot. It affects only the self, making you stronger, faster, and more resilient. I'm not sure how it works exactly, nobody is. Some kind of battle aura, but it's what your father uses. It's by far the most common."
+
+"Okay, I think I understand, can I ask a question?"
+
+"You just did, but feel free, I encourage as many questions as you have." I groaned internally at the idea that he might be like an elementary school teacher.
+
+"Why did everyone seem happy when you pointed out I would be able to learn to heal?"
+
+"Oh, that's a good one." he nodded.
+
+"Well, it's like this, spellcasters are quite rare. Of them, most are wizards, by a large majority. Of the types capable of healing, few would be in a small village like this, and even though your healing abilities won't be anything like having a priest type caster around, it could easily save lives. It's quite rare to be able to find a healer reliably outside of a fairly sizable city, so you'll be a boon to the town," he was smiling at that.
+
+"Really?" I was a bit incredulous at this idea, I looked at my hands frowning a bit.
+
+"Well, you won't be able to heal injuries instantly like a priest could, but before long we'll have you able to fix up a broken bone in an hour or so. Same with poison or disease, if someone breaks a leg around harvest it's real bad for their family, and reducing their time down will be a huge value to everyone."
+
+I pouted, "People are gonna bug me a lot, aren't they?"
+
+"Yeah," he chuckled, "Yeah they are, but it'll help out your family, and everyone else too, and you'll make good money off of it."
+
+He talked for a bit longer about the nuances. Turns out that only about one in a thousand could learn to cast magic, of those around four in five were wizards of some kind. Priests and bards were the only healers outside of some rather backwards medicine, and they were a pain to contact. Mostly because priests had to feel like they were doing the right thing, so they spent a lot of their time going here and there trying to help people. Bards on the other hand had a reputation for being flakes, troublemakers, and the like, and often lived a nomadic life, to keep ahead of whatever problems they may have caused.Around lunch my mother came and took me home. This would be the set schedule for the foreseeable future, breakfast early, followed by magic training till lunch, and chores in early afternoon then I could play around the house till dinner.
+
+I should note that due to my age "Chores" did not imply doing any actual useful work. Mostly I'd be shown how to do things around the house that I could reasonably achieve, sweeping and the like, or cleaning old pots. My mother could do these in a fraction of the time, but the whole point was to teach me how. Even the pot I was cleaning during "The Incident" didn't really need it, it was just an exercise to teach me about doing dishes.
+
+The house itself was circular. With a construction similar to wattle and daub, a frame of thick wooden logs with a mesh was made. The mesh was then covered in a mud and straw mixture, that was painted over with a whitewash and a thatch roof. The floors were hard pounded down dirt, which stayed cleaner than you'd think. Furniture was sparse, a table and chairs and a central hearth which served as a kitchen. On the walls were various tools and storage containers and a sleeping area, with several small mattresses that were just big bags stuffed with straw and husks. These were covered with a couple of warm blankets.
+
+About a month in and Mystien had some words for me after some particularly mind numbing training.
+
+"Alana," he began, after finishing a lecture on some of the more in depth bits of shaping mana for use.
+
+"Yes?"
+
+"I've decided that you've gotten to the point you can safely use the spells you've designed yourself," he declared.
+
+"Hooray!" finally, able to get back to messing around on my own.
+
+He frowned, "Just because you're allowed to, does not mean I'm encouraging you to start floating half the stuff in your house. Those you were using were fairly harmless, and this is a test to see whether you can be responsible. Don't fail it."
+
+I nodded with as firm a face as I could, which was not particularly firm at all. "Mm hmm."
+
+"There is something else too." he began after sighing at what appeared to be poor childish resolve, "I've called in a favor from an old friend. He'll be coming by in a few days to teach you some healing theory. I've not got much of that, but it'll mean you should spend your afternoons over too, we won't have him for long."
+
+I eagerly accepted, and more importantly my parents did too. Three days later, I was cleaned up and ready to meet this new teacher, I'd even managed to convince my mother to let me wash myself this time, avoiding another harrowing experience. She was feeling a bit ill that morning at any rate.
+
+I walked myself over to my teacher's home, to find two men who could not have been more different chatting right beside his door.
+
+My mentor, the calm old gentleman in his sedate blue robe, short white beard and silver hair shining in the morning sunlight. The much younger man beside him was, in a word, loud, his clothes were a mix of vibrant red and yellow, and covered in medium quality embroidery. Their quality was middling from what I could tell, but the statement was extreme. It was a big, bright sign screaming "Hey! Look at me!" his face was clean shaven and he wore a feathered hat that could only be described as jaunty.
+
+"So," the newcomer began as I approached, "where's this new apprentice of yours? Not late is he? I don't believe you'd pick up someone who wasn't worth their salt, but I also don't want to believe that there's anyone in this town worth training."
+
+"You'll meet her in just a second Jackson," the magus saw me approaching but didn't say anything, seemed he was enjoying watching his junior ramble.
+
+"Her? HER?! Don't tell me you drug me out here to talk to some girl you've picked up to give a few," and he made finger quotations, " 'private lessons,' have you?"
+
+"No, that sounds like something you would do." came his flat reply.
+
+"Fair point, is she cute at least?" the bard asked.
+
+"I think she is, though probably not in the way you're thinking."
+
+"And you haven't.." at this point he made a lewd thrusting motion with his hips, and I realized he was wearing an enormous codpiece, "Uh!" it was a bit disturbing to watch.
+
+"Decidedly not, nor do I plan to," Mystien chuckled.
+
+"Well then, do you mind if I... ya know,"
+
+"You'll need to wait for a while on that account I think," was his good humored response. I was getting a bit tired of this.
+
+"Why's that?" Jackson inquired.
+
+"Hi," I spoke up from just a bit back.
+
+"Hey kid," was the response I got. He barely even looked at me, "So? You got an answer for why?" he asked again.
+
+"Hi," I said again, prompting him to look at me fully. For just a moment it looked like he was about to tell me to scram, then his eyes focused.
+
+"Her?"
+
+"Yup."
+
+"Seriously?"
+
+"Yup."
+
+"What are you kid? Two?" he bent down to look at me incredulously.
+
+"Three and a half!" I spoke with all the anger of a misaged child. That got me a laugh.
+
+"Alright kiddo, I don't believe you can cast jack or squat. Show me one spell and I'll think about helping you out."
+
+So I showed him my whole lineup, one right after the other, as by the book as we'd practiced.
+
+"Well alright then." he said after seeing what I could do, "Yeah, I guess we can work with that."
+
+Mystien was wearing a shit eating grin as he watched the impressed bard agree.
+
+And so began a few days of training under Jackson. Who showed me first hand why bards were often thought of poorly.
+
+Jackson was rude, big headed, and had a propensity for lewdness which just went beyond the pale at times. That said, he also had an understanding of magic that meshed greatly with mine. We jumped in straight away, after a quick overview of what I needed to do for a basic healing spell, which mostly consisted of focusing on what you wanted the magic to do, visualizing the mana as a calming, repairing light. We jumped right in.
+
+The practice was simple enough. I'd cut my finger lightly with a sharp knife then cast while going through the visualization. I placed the light into one of the bubbles that constantly came off of me and wrapping it around the wound, letting it seep in. He also taught me the song he used to focus while doing this, but I found it not much to my liking. So I used one of my own, a calming theme from an old tv show, very violiny and good to hum.
+
+It took me a few times to get it to work, and when it did it wasn't all that fast. This got me approving nods from both men.
+
+"Not bad kid. You'll need to practice that one a lot to speed it up a bit, and while I don't recommend live practice, for bigger wounds you may want to envelop the whole body. That'll be hard where you're at right now, but it's something you should try to pick up,"
+
+We continued like this till lunch, which I ate with them. Jackson giving small comments here and there about pulling the mana in closer, and focusing it to be brighter and sharper. By the end of the day I could heal my cut finger in only a second or two.
+
+I was given a few bits of advice on how to deal with poisons just before my dad came to pick me up, and told to think over them, but not practice. We'd do that tomorrow.
+
+The next day I was greeted with a bundle of leaves which I was told to rub my hands in when I first came in.
+
+"Alright kiddo, you remember what I told you about poisons yesterday?"
+
+"Mmm, you have to focus on pulling out what doesn't belong, and add in a little healing on top of it to help with whatever damage the poison has done in the first place," my hands were beginning to itch terribly.
+
+"Right you are. Now you're going to do that one finger at a time to fix the poison ivy you just used to rub down your hands." he smiled as he said that, the jerk.
+
+That day proceeded much like the previous one, ending with some notes on diseases, and the methodology for their repair. In comparison to the training I recieved before, this was hard and fast cramming. Though I was told that each of these was groundwork on very minor injuries, anything more serious would be monumentally harder.
+
+I dreaded going back on the final day my temporary tutor would be around. He'd been demonstrating each technique on me, and I hated feeling sick, but went I did, I just complained the whole time.
+
+"Ready to give curing sickness a shot kiddo?" I was asked as I came in, I frowned.
+
+"Well I got a surprise for ya, look here," he brought out a cage with some field mice in it. They were green, literally green.
+
+"These here mice have a special disease in um, something some priest cooked up just for training. They'll stay green as long as they've got it in um, so it's easy to see when they're cured. Also won't jump to people and isn't even that bad for the mice. Wins all around, I brought these here from my own personal practice group." I looked on at his explanation a bit stunned.
+
+"What, you didn't think I'd make you sick or something did you?" he asked with a mischievous grin.
+
+"I-I kinda did actually." I replied honestly.
+
+"Tut tut tut, after all I've done for ya." he shook his head.
+
+I couldn't think of how to even respond to that, so I just mumbled some thanks.
+
+"Alright then, let's get cracking!" and so it began.
+
+Curing diseases was a bit odd as well. You have to focus on finding the bit that doesn't belong and then ripping it apart. Pulling it like poison doesn't work. You add a bit of healing to it too, because sickness can cause the body lots of damage.
+
+I was ready to collapse by the end of the day, this was by far the hardest of my three new techniques, but I still had a few questions.
+
+"What about summoning? If I wanted to make dirt or something Mr. Jackson?" I perked up a bit. This was one I really wanted to know about.
+
+"Oh, creation magic? Well you have to visualize the mana coming together into the form you want it in. The more familiar the concept of something is, the easier that will be. Stuff like water is the easiest, everyone knows what water is like, but you can also do things like food. Bread creation got me through some bad times, and it's always useful on the road." he gave me the very basics of an explanation on it.
+
+"But, and I mean this, you'll need to grow a lot before you can do much of that. You're still just a kid, and that's some mana intense magic, so don't rush it," he warned.
+
+We bid Jackson goodbye the next morning, and were not an hour later interrupted by an irate villager from the main village. It would seem someone had spotted Jackson attempting to, and succeeding in, seducing his girlfriend, and he'd come by to give him a good beating.
+
+The man left disappointed that he'd missed the interloping bard, cursing and venting as he tried to chase him down the road.
+
+"I've never been able to figure out how he does that," said Mystien, "he always manages to skip town just before the heat hits."

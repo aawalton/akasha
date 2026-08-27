@@ -1,0 +1,153 @@
+---
+id: 268570bc-ce55-551e-a3c9-7b4f0d4bfc36
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 57 - Miagete Goran Yoru no Hoshi wo"
+slug: 0100-chapter-57-miagete-goran-yoru-no-hoshi-wo
+partOf: metaworld-hopecore
+position: 100
+ownLength: 1769
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3499600/chapter-57-miagete-goran-yoru-no-hoshi-wo"
+royalRoadId: "3499600"
+---
+
+"Will you swear unqualified allegiance to the United States of America and faithfully defend the United States from any and all attack by foreign or domestic forces, and forswear any form of allegiance or obedience to the Japanese emperor?"
+
+United States War Relocation Authority Question 28, Form DSS 304A, 1943
+
+At eleven thirty PM, Christmas Eve, Frederick “Rick” Curon remained at his computer, studying the litanies of the lyrical. He was almost always in front of it. Listening to samples, smoking his cigars. Watching old movies and taking calls.
+
+He felt no need to attend parties because they were Sony parties. It was work. That, and Curon was infamous for artistic eccentricity.
+
+Sony’s Dual-Director was just as famous for his uncompromising character. It was a trait that had worked wonders for him in the music-publishing industry. His “taste” being impeccable, no matter how strange or avant-garde, did not translate into matters of the human heart. In his twenties, he had married, divorced both wife and fortune within the year, then rebuilt it with BMG. Having been bitten once, he honestly preferred the solitude of his spiritually, creatively and monetarily fulfilling work. His favourite poet was the fatalistic Keats. His favourite line was about the “Ermite” artist living alone.
+
+Once, Curon remarked to Davis that having one over Woodhouse was better than sex. Davis, Catholic and married with two children, promptly reported him to HR.
+
+At eleven thirty-five, he had received a phone call, one he had been expecting. Five minutes and a call later, Frederick Curon was rolling through Madison Ave in his personal town car, a converted 1966 Lincoln Continental, with an electric motor in the trunk and the suicide doors left intact. It was the model JFK died in, and the car of Curon’s childhood dreams. The impossibility of driving a Lincoln in downtown NYC was what personified Curon’s creative spirit.
+
+He was going to meet Euphemia Fontaine and a homeless man, apparently, after dropping almost three thousand of his own money on a parkview suite for the week, and that was after a steep corporate discount.
+
+If Trent heard this, he would call him a fool, but Curon knew he would do it again in a heartbeat if the girl asked.
+
+Euphemia Fontaine.
+
+How did they even grow close? The days they had spent together could be counted on one hand, and yet…
+
+He had planned where she would stay to meet Vaughan, and then he had prepared one of Sony’s local-artist divisions and sent it to her lobby, so that she would serenely hear the choir she wrote in Reedley.
+
+Was it weird? Was he being weird? He hadn’t done nearly as much for his wedding.
+
+Was it for her affection? Perhaps, but it was a different kind of affection.
+
+A man in his position was extremely wary when working with female artists. His heteronormal work husband, to put it mildly, ran a Canaanite canning factory that processed gifted teens like cattle. There was a catch-and-release schedule to the industry that went like this: Discovery, HYPE, Overexposure, Breakage, Rehabilitation arc, Disposal. The hopefuls started at fifteen and left at twenty-five.
+
+Barring very powerful families like Lucia Lancet’s, there were no survivors.
+
+What he felt for Euphemia was parental affection, the inexplicable desire to make someone happy without care for the cost of oneself. It was irrational, but seeing the girl do good was good enough.
+
+At the lobby rotunda, he handed the keys over to Gerald.
+
+Then saw his daughter, and the blood from every extremity of his body pulled up into his head and turned his cheeks the colour of liver.
+
+She was hurt. VERY hurt. She looked goddamn terrible, like the day he had seen her at the hospital in East Hollywood. Her face was glistening, she looked like she was running a fever, and her hair was a catastrophe. Worst of all, she was bandaged from cheek to neck, to her hands, and her stockings were filthy.
+
+She also looked completely nonchalant.
+
+His dad-rage subsided.
+
+“Hi, Rick,” she greeted him by skipping down the marble steps. She seemed fine. “Nice ride.”
+
+“You look like shit,” he said, his posture like an upset tea kettle.
+
+“You look like shit too.” Eppie’s smile was enough to dispel whatever suspicions he had previously held about her safety.
+
+Quieted, Curon observed himself briefly in the window reflection. He looked quite good, all things considered. Moncler thermo, Gucci Jacket, Armani Cargos, Air Force Ones in red. He was looking quite cash, actually. His ex-model assistant had said so.
+
+“Hug?” the girl offered as she penetrated his personal space “I could use one.”
+
+A part of Curon melted as he replied, but the “Yes” was lost in the sound of the midnight bell’s rolling toll, announcing the official start of Christmas day.
+
+“Merry Christmas, Miss Fontaine,” he said to the tiny body digging herself into his chest.
+
+“Merry Christmas… Rick,” the girls’ reply came with a missing beat. One he already knew the answer to.
+
+The scent of a teenage girl, according to one of Davis’ songs, was flowers. Eppie smelled like Central Park heating systems. And sweat. And cats.
+
+Oh dear… Curon regretted hugging her so tightly. They say that NYC changes a girl, and indeed, after only forty-eight hours in New York, his songbird had become an unwashed, homeless Jellicle Cat.
+
+Gerald had opened the second room adjacent to Eppie’s original one, linking 612 and 611 through a common door, then left without asking questions. Eppie’s Director had already done the management a favour by gracing their patrons with a memorable Christmas Eve performance, and the Manager had evidently felt that a good deed should be repaid by discretion.
+
+Henry Kiritani was already asleep in 611. Eppie told Curon the first thing the artist did was to ask for privacy, then went and meticulously cleansed himself, laying out his old clothes as if they were ceremonial layers of a twelve-fold kimono.
+
+She likewise wanted to take another shower, but when she mentioned it, her adopted father immediately said he would be in the lobby. She changed her mind after that. Indeed, they were very familiar now, she supposed, but not that familiar. Her [Persona] might crave the oxytocin hits, but her wisdom was deeper than Curon’s. In a way, she understood Sony’s Creative Director far better than he understood himself.
+
+Either way, her cat–haired-covered coat came off. The stained Stella McCartney stayed on. Central Park’s cats stayed out. And Kiritani’s cats stayed in.
+
+The artworks were laid out on the bed, on top of a spare sheet.Some of the cardboard looked mouldy.
+
+Gerald would have to charge extra for room cleaning.
+
+Her adopted father stood at the foot of the bed and studied the images. Kimi in tangerine, Tanaka in the classic loaf. Then the older pieces. The Tule Lake landscapes. The Hiroshima cloud.
+
+There was more in the waterproof nylon bags.The collection was nothing short of multi-generational.
+
+He said nothing for a while.
+
+“1954?” he leaned in to study the writing.
+
+“Some are from 1944. I think he picked up the habit in the camp,” Eppie said.
+
+“Jesus…” Curon was cupping his face like in The Scream, suburban dad edition, Human in Gucci. “This is some American History X shit.”
+
+Eppie could not disagree.
+
+“What’s a NO-NO-BOY?” Curon squinted at the writing.
+
+Eppie HATED the fact that she knew. She had near-perfect marks in Asian-American Studies.
+
+“Question 27 and Question 28,” she said, not sure if her knowledge remained exact for her present world. "The loyalty questionnaire. Every Japanese-American in the camps had to answer it. Two questions, both required a yes or no."
+
+Curon waited.
+
+“Will you… forswear any form of allegiance to the Japanese Emperor or any other foreign government, power, or organisation?”
+
+“Will you serve in the armed forces of the United States on combat duty, wherever ordered?”
+
+Her Director inhaled. “Jesus Christ, that’s where the 442nd came from? I thought they were just… heroic patriots. That’s what that Oscar winner, Go for Broke, inferred.”
+
+Eppie had not seen the movie, but she was not surprised that one would be made. The Japanese-American 442nd Regimental Combat Team, whose motto was “Go for Broke”, was the most decorated in WWII history, racking up 9000 Purple Hearts and 21 Medals of Honour. In 1944, to rescue 211 Texan Guards, they suffered 800 casualties breaking through the German lines in France. As an Oscar-bait blockbuster, there was no better source of virtue signalling.
+
+What the film kept to a minimum was that, while they fought, the 442nd’s wives, children and parents were incarcerated in Tule Lake.
+
+Curon made The Scream face again.
+
+The men who answered YES came back with broken bodies, citizenships and medals. The men who said no…
+
+“He’s a non-citizen?” Her adopted father suddenly realised the horror within the horror. He was born here, and he’s 87, and he’s a NON-CITIZEN? Is he fucking stateless? In the country where he was born?”
+
+It was like Antigone in the play Curon had watched, but worse. In the play, Eppie’s Neo Antigone and her brother had become Citizen-non-grata.
+
+“Hold up,” Curon was pacing now. “HOLD THE FUCK UP.”
+
+Her adopted father’s expression grew wild. “THIS WHOLE FUCKING TIME, HE HAS NO SOCIAL SECURITY? NO MEDICARE? NO HOUSING? HE’S ACTUALLY HOMELESS? STATELESS?”
+
+Eppie’s mouth was open as well. Thanks to Lana’s upper-middle-class upbringing, she had never imagined that someone could be missing the things even Euphemia possessed by default. Kiritani didn’t live on the streets by choice; he—
+
+Her eyes were watering up again.
+
+Curon took up, read, then placed the Tule Lake drawing down very carefully, the way a man puts things down when you've realised they're more fragile than they look. He looked at the inscription again. NO-NO BOY. NO CITIZEN. NO OATH.
+
+“So that’s why he’s a NO-NO BOY?” Curon’s eyes were red. “He’s nothing?”
+
+Her Director had to sit down. Curon sat with his elbows on his knees. He looked, for the first time since she'd known him, like a man who looked genuinely lost.
+
+Curon was a good man. A good producer. But good folk were often at their wits’ end, unlike herself.
+
+"Rick?" she asked if he was alright.
+
+Curon looked up. “We need the big guns on this. First thing in the morning," she said. "We get him to Vaughan, even if she’s at work. Can you help?”
+
+Her adopted father nodded, then looked through the doorway at the pile of meticulously laid-out rags on the floor.
+
+“Scratch that, first thing tomorrow morning, we get him to wardrobes.”

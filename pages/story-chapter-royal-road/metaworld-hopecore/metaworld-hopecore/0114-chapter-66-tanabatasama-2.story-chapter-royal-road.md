@@ -1,0 +1,195 @@
+---
+id: 1a5b4f96-9cac-5fec-91a2-7c74b763b728
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 66 — Tanabatasama (2) "
+slug: 0114-chapter-66-tanabatasama-2
+partOf: metaworld-hopecore
+position: 114
+ownLength: 1977
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3577843/chapter-66-tanabatasama-2"
+royalRoadId: "3577843"
+---
+
+The Prius smelled the same: Itziar's coffee, guitar resin, Zara’s flora body wash. Zara picked her up at six. The sky was still mostly dark, the 101 sparse, and by the time they hit the interchange onto the 99, the sun slowly diffused its light over February: arriving without ceremony, laying light across the flat tablelands in long copper planks.
+
+Eppie sipped her coffee. Zara sipped hers.
+
+Usually, a girl’s trip like this would be full of laughter, jokes, touching and sharing. Now was neither the time nor the occasion.
+
+They drove for a while without talking, which was one of the things Eppie valued most about Zara. Her friend had an insane emotional quotient, one that worked far better than her [Emotional Intelligence], which was ranked C. She had thought about levelling the skill up, but in the end, she preferred the detachment.
+
+“Traffic’s good,” Eppie said, eventually.
+
+“Ya. Three hours, maybe less.”
+
+“Mio's mother said noon,” Eppie said. “You ever… seen a kid being born?”
+
+Zara shook her head. Her family was firmly middle-class. She was an only child. Paco had no kids.
+
+“We’ll make it,” Zara assured her.
+
+Eppie felt her heart contract uncomfortably. That Mio was doing this. That Mio was doing this at all was insane to Eppie. She just couldn’t imagine it. If that had been Eppie on that bench, and if she had to carry a child to term, only to see William’s face come out of her—she would hurl the thing from her like a fat spider.
+
+They passed the valley—then more of the valley. Almond trees in the distance, already beginning to think about blossoms. Fresno was two weeks from its brief and overwhelming bloom.
+
+“So, understudy… for Valorie,” Zara said.
+
+“Yap.”
+
+“Lavinia?”
+
+“Yeah. We get grouped a lot. Pair exercises. Mirroring. That kind of thing.”
+
+Zara tapped the steering wheel. “What’s it like acting against Valorie?”
+
+Eppie gave the experience some thought. “Like trying to outplay Antonio, except less skilled. But Antonio is also six foot two, looks like Enrique Bandis, and has a fifty-two inch chest, thirty-four inch waist, and twenty-one inch arms, while playing bass and classical one-handed.”
+
+Zara almost drove the Prius onto the median strip. Enrique Bandis was, Eppie supposed, their version of Banderas.
+
+“What the hell does that mean?!” The Catholic girl demanded.
+
+“She’s got these…” Eppie made a mound with her hands. “They’re… very well shaped, and she doesn’t always wear a sports bra.”
+
+“Are you serious?”
+
+“Dead serious…”
+
+“No one complained?”
+
+“Why the hell would anyone complain? She usually keeps them hidden. The kittens only come out to play when we’re in theatre blacks.” Eppie said. “Cooper’s classes are hard enough…”
+
+“Right…” Zara placed both hands on the steering wheel, trying not to laugh. “You gotta give it to Val, eh?”
+
+“Somebody’s giving it to her,” Eppie thought of William harvesting Val’s growing [Causality] like a man meticulously mowing a golf green. “You know… Val knows.”
+
+“Yeah, you told me,” Zara sighed.
+
+“You think she really doesn’t care?” Eppie said. “I wonder what would happen if I told her William’s firstborn isn’t hers.”
+
+“Eppie…” Zara’s voice grew low. “We already agreed on this.”
+
+“I know, I know.” Eppie shook her head. “The kid’s innocent. He or she should be happy. The kid deserves to be…”
+
+They came over the grade and down into the bowl of the valley, and Fresno appeared the way it always did, humble, honest, just kind of… there in an unpretentious way. A very different vibe to Los Angeles.
+
+“You looking forward to meeting… the baby?” Zara asked.
+
+“Not really…” Eppie hated herself for being honest.
+
+“Have you thought about names?”
+
+“Why would I think about names?” Eppie said. It ain’t my baby…
+
+“Ah…” Zara kept her eyes on the road. “Maybe… just give it some thought?”
+
+The hospital, St Agnes Medical, was just off Herndon. It was originally a real Catholic hospital founded by the Sisters of the Holy Cross, and when Eppie Googled its ratings, it was reportedly the “best place to have a baby” in Fresno.
+
+At noon, the parking lot was almost full. Zara found a spot near the roof, between a truck and a truck with the lettering “NO WAR”.
+
+“We’re here,” Zara nudged her. “I know…” Eppie took a long, deep breath.
+
+“Why are you nervous?” her friend held her hand. “Are you… The Father?”
+
+The laughter that issued from Eppie’s mouth rose from her belly and through her nose, almost choking her. She hated it, but god damn it, did she laugh out loud.
+
+“I hate you right now…”
+
+“Come on!” Zara opened her door for her. “Put on your happy face, and let’s go!”
+
+The walk from the structure to the main entrance was short, about a minute. Eppie felt the blood pounding in her head as they slid past the automatic doors, the stained glass near the reception, and a volunteer who directed Zara toward the stairs.
+
+She couldn’t help but imagine that all of this might not have existed if Eppie, the old Eppie, had any knowledge about Plan-Bs or Rape Kits or… anything resembling agency. When the old Eppie helped Mio home, what had even gone through her mind? Was she that vacant? Did she not know? Or did she not care? All of this… misery could have been avoided if Eppie had even the slightest understanding of sexual health.
+
+And something else pissed her off as well. A kid, at a third-string town like this, still costs somewhere around $10,000 per patient, per child, assuming no complications. Mio, uninsured, no employment coverage. How much would it cost? Could her family afford it? Since they were at a nonprofit hospital, did Father Parson pull some strings or speak to the Director about financial relief?
+
+Doves Cry had killed it in the carol scene, and it had paid, but not enough to cover medical care without stress, because this was America. On the other hand, William drove a $50,000 Merc to school, while Valorie couldn’t be bothered to drive her $40,000 Lexus. The Alexander McQueen Val wore to Vaughan’s, together with her shoes, makeup, hair, and Sir Woodhouse’s time, could easily pay for William’s baby to be delivered.
+
+How… how could she put on a happy face, knowing this?
+
+Zara was asking for the impossible.
+
+Maternity was up two floors, through a set of doors with a buzzer. A Latina Nurse on the intercom asked who they were here to see.
+
+“Luciana Mio,” Zara said into the little speaker.
+
+“Ah, yes, Father Parson mentioned visitors. From LA, correct?”
+
+“Yes, that’s us.”
+
+“Come on in.”
+
+The threshold opened.
+
+The hallway beyond was that particular hospital quiet—not silence, never silence, just everything dialled down to the volume of soft-soled shoes on linoleum, mixed with monitors beeping arrhythmically behind half-closed doors and the muffled cries of babies.
+
+The last time she was in a hospital, half of her body had been shattered.
+
+Eppie moved like a girl swimming in molasses.
+
+“You okay?” Zara asked in a low voice as they passed a nurses' station where a woman in scrubs directed them to the right room.
+
+"Yeah." Eppie's voice came out smaller than she intended.
+
+A sign with a stork on it pointed them left. FAMILY BIRTHING SUITES. Eppie stared at the stork and admired the art. Any distraction was welcomed in dispelling the evil in her heart.
+
+“We don't have to go straight in,” Zara held her hand again. “We can sit. Get coffee. Whatever you need… Also, I want to point out weird you’re acting. We’re not the parents you know…”
+
+“Alright, alright,” Eppie worked herself up. “Let’s head in.”
+
+They didn’t need to find the room. They saw Father Parson sitting outside with Mio’s father.
+
+“You’re both here,” the priest smiled carefully, wearing his plain blacks but for the white collar. “Euphemia. Zara. Thank you both for coming. It means a lot to Luciana that she has friends from her old life.”
+
+Luciana’s father, a stocky man in his late forties, shook their hands as well, thanking Eppie profusely for everything she had done for them. What the man didn’t know, just as Eppie did not know Mr Mio’s first name, was the truth of where Luciana’s child had originated.
+
+“Let’s go in,” Father Parson offered. “Everyone’s waiting.”
+
+“Everyone?” Eppie asked, her suspicions spiking. Did that mean…
+
+Father Parson opened the door, letting in a sliver of golden light.
+
+The room smelled like milk and maternal affection. There was no other way to describe it, at least in Eppie’s mind. The sun coming through the window had that warm, buttery wash that was probably intentional, considering the tinting on the building exterior.
+
+Their friend was propped against a mountain of pillows, her gown exposing a breast, and—
+
+Eppie’s breath caught in the air, just as the dust motes were frozen in the honeyed light.
+
+There was… a baby. A babe was tucked against Mio’s chest, nursing with the unselfconscious focus only newborns manage. Mio’s hair was damp at the temples, dark against her light-caramel skin. Her cheeks were pale, but there was a rosiness to the whole thing that was straight out of the Italian Renaissance.
+
+Mio saw them, and her whole face opened up with a golden, blinding light attributed to saints and new mothers, blasting away the oily karma infesting Eppie’s heart.
+
+Mrs Mio sat in the chair beside her daughter, her eyes swollen from joy. The OB, a greying, experienced, and kind veteran, stood by the bed with a clipboard, mid-conversation about the latch position, trying to explain feeding intervals and poo.
+
+The baby… by the Pantheistic Powers, the baby.
+
+Eppie couldn’t see anything else. Either her [System] was steering her, or this child really was the cutest thing to have ever graced God’s wondrous earth. She had expected to see a miniature William, something fox-eyed and hungry, but not this.
+
+The child was delicate and vulnerable, red-faced and petite, with a head of dark hair against the scalp. The baby’s fists, tiny and impossibly tender, were curled as tight as walnuts. It was currently absorbed in the singularly most important thing in its life—milk.
+
+It was cuddle-sized and adorable. Simply, unquestionably, adorable.
+
+Something inside Eppie melted. Something inside Lana cracked open like an egg. “What… what’s…” Eppie gulped.“Her name?” Mio asked, her smile so guileless and kind that Eppie felt horrible simply by existing next to something so pure.
+
+“Yeah…”
+
+“We haven’t decided yet…” Mio said softly, then her eyes fell upon Eppie. “I was hoping you would give us a suggestion.”
+
+“ME?” Eppie felt her head go blank. “Me?”
+
+“And I would like you to be her Godmother,” Mio’s eyes landed on her child. “Father Parson talked to me about baptism. Next month, maybe, once she's strong enough. Will you accept her, Eppie?”
+
+“Oh…” Eppie felt her throat close up. She was having trouble breathing now. This was new. Across two lifetimes, this was new. She couldn’t say no because the moment was so beautiful. After all, she felt, without doubt, that she wanted to protect this child at all costs. She would give this child a future. She would give her everything she deserved. “… a name?”
+
+Zara squeezed her hand, giving her the support she needed to keep her brain functional.
+
+She squeezed back.
+
+Eppie looked down at the baby: small, furious, entirely innocent of the horrors built on top of her and understood, with a clarity that felt like a [System] warning, that Zara was right. Father Parson was right. Mio was right. The baby was Tabula Rasa. Innocent.
+
+“A name,” Eppie could only think of one word, one phrase, to truly capture this pale and precious wonder nursing with all her might.
+
+“Nozomi,” she said, her voice losing its clarity as her eyes grew blurry. “Nozomi Mio.”
+
+Hope.

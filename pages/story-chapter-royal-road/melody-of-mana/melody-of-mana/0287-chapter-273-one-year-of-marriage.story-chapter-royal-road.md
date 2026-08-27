@@ -1,0 +1,75 @@
+---
+id: 7573459c-c710-55f7-8a23-98541dc46b6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 273 One Year of Marriage"
+slug: 0287-chapter-273-one-year-of-marriage
+partOf: melody-of-mana
+position: 287
+ownLength: 1183
+unit: words
+ownProgress: 1183
+publishedAt: 2023-10-03
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1362870/chapter-273-one-year-of-marriage"
+royalRoadId: "1362870"
+markedReadAt: "2026-06-29T22:35:44.570Z"
+---
+
+I lay back in the slightly raised bed I'd finally been shown to, completely and utterly exhausted. Sweat was still drying and at some point I would need to clean myself, but that wasn't what was important right now.
+
+What was important was held against my chest, quietly feeding. Just looking at him was enough to make my heart flutter with joy and bring a smile to my face. He was there, my child, with a huge, adorable head, and the slightest points to his ears, almost imperceptible.
+
+Kala removed her hand from my stomach, placing it on her own.
+
+“Good as new, though you'll still want to rest, there's no real way to cure simple bodily stress, and you've had quite enough of it,” she said kindly. “When he's done I'd like to examine him if that's alright.”
+
+Just the thought of handing him over made my hackles rise briefly, but then I remembered who this was. Kala was still one of my oldest friends, and I knew she would treat him as if he were her own. “Of course, mind grabbing my husband?”
+
+She nodded. “Of course, so long as he's calmed down.”
+
+Ulanion, for all his merits, was inexperienced with pregnancy and births. I wasn't sure how he'd lived as long as he had and not managed to be there for a few, but somehow he had. Over the last month or so he'd become more and more stressed and protective, and tonight had panicked over the pain I was going through, insisting that something was wrong.
+
+Nothing had been wrong of course, it was just that these things were the way they were. Eventually his continued interruptions had made Kala ask him to step into the hall until we were done. That had gone over about as well as a lead balloon and shortly after he'd been hit with a sedation spell by my irritated midwife and physically carried out of the room. I was glad she'd done it, because I really didn't want to have to.
+
+A few moments later Ulanion appeared, fists clenched but otherwise outwardly in control. “How is he?” he asked as soon as he'd reached my side.
+
+“Fine, he's fine. Now come here and let him meet you.”
+
+“Hello little Rodrick, I'm your father,” he uttered, the most gentle smile blooming on his face as our baby grabbed onto his finger and held tight.
+
+It took time for him to be given his first checkup and put to sleep, and by the end of it I was quite thoroughly exhausted. Like most babies little Rodrick had decided to be born at an unreasonable hour and taken his time of it. His father, and the maids we had should be enough to deal with him for a little bit, particularly asleep.
+
+Moving much hadn't been possible so far, and though it pained me to leave them I did need to clean up. Walking to the washroom was... odd. In the last few hours I'd lost a ton of weight and no small amount of my waistline and all of that was not doing great things for my gait. It would go back to normal soon enough, but the sudden shift was throwing me a bit.
+
+The real surprise came when I left my shower though. Because my image in the mirror did not look at all how it should. Magic could, and did do, magnificent things, and one of them was this. My skin was not loose, or stretched. As a point of fact, I looked almost like I had the day I'd realized I was pregnant. Sure, I'd lost a bit of muscle mass, and I'd gained a few pounds, but nothing a bitty of diet and exercise couldn't undo.
+
+I might have stayed a bit longer had I not heard commotion through the open door to the living quarters. Instead I threw on a robe and headed out to see who was here. Everyone knew that I'd be out for a bit, and so there were only a few who might come calling. Of them, fewer still would be allowed into my rooms.
+
+Father was knelt down beside the crib, opposite sit son-in-law, and both of them were now wearing the same dopey grin. I had to hide my own laugh at was a perfect scene. There were no magical cameras yet, though not for lack of trying, but I'd still be committing this to memory.
+
+“Hi dad,” I said when he looked up, and rose to hug me.
+
+“I came as soon as I could. Had to put a few things in place before leaving, but nothing your brother can't handle while I'm here,” he said as we both headed for a nearby couch. “He said he'd come to see you later.”
+
+“He's done more than I could have asked for already, and I can't help but notice some other things. You've been having him take more and more things recently,” I observed.
+
+The first part was quite true, as John had managed to secure me a couple of the staff he'd had hired and trained for his first. He and Etia had another on the way and I was sure he'd want them back for that, but she was still early on, and the help for the next few months would be invaluable. People who I knew were trustworthy and were also well versed in the care of infants were few.
+
+“Of course, he's my heir. Since you've made clear your opinion on ruling.”
+
+“One which hasn't changed.”
+
+“And one I respect, but he needs to learn things before he has to. I didn't get that, and the lessons are still coming to me for it. It's not something one can do easily without training,” he finished before hugging me tight.
+
+Something drew my eyes and I noticed that Rodrick had woken up. He was still quiet, rather than crying or anything, just moving a bit. Enough to grab my attention, but not something that needed it for now.
+
+“He's so small,” I said quietly, watching him move his little lets a bit.
+
+“They all are,” father told me softly. “He's about normal, but they all are so little.”
+
+“I have no clue what I'm doing.” It was something that itched at my mind more than I'd like to admit.
+
+There was a deep chuckle. “Nobody ever does, but you'll do fine, and you have help.”
+
+He left not too long thereafter and I joined Ulanion down by the crib. I was determined to enjoy these moments as much as I could, for they wouldn't last forever. Children grew up, there was no getting around it. I could only hope that my father was right, and I would be okay, because nothing I'd done before had ever properly prepared me for this.
+
+Before long my child found his way back to the land of dreams, as newborns often did, and I soon joined him. It had been a long morning already, and I wanted my strength for what was to come.

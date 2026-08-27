@@ -1,0 +1,203 @@
+---
+id: 0dc861ba-89a6-5d7f-9edf-7c7dfe8f44ea
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 60 - Kaerō ka na"
+slug: 0105-chapter-60-kaero-ka-na
+partOf: metaworld-hopecore
+position: 105
+ownLength: 2294
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3517906/chapter-60-kaero-ka-na"
+royalRoadId: "3517906"
+---
+
+"Every day is a journey, and the journey itself is home."
+
+Matsuo Bashō Oku no Hosomichi, 1689
+
+Eric's town car pulled up outside the Culver City Sofitel a little past seven, finding his artist standing on the curb, dolled up in the most expensive clothing he had ever seen her wear.
+
+“You win the lottery?” He grinned as the window wound down, exposing the warm interior to the elements. “Where did poverty Eppie go, and what have you done with her?”
+
+“Hey there, stranger,” Eppie performed a playful pirouette for her lawyer. “Like what you see?”
+
+“I want to say you look older and wiser,” her Newfoundland gave her a brotherly grin. “But I can see you haven’t grown an inch…”
+
+“I see your humour hasn’t improved much either.” Eppie rolled her eyes as she slid into the passenger’s seat. “So. New ride? Big promotion?”
+
+“Corporate loan car. For your sensei.” Eric slapped the black leather steering wheel. “Fresh from Culver’s studio lot. Mercedes S-560, BlueTEC Hybrid LH. 700 miles per tank. You think I can afford this on my salary? Curon said Kiritani-san was an A-Lister?”
+
+“Yeah,” Eppie puffed out her cheeks. “He’s 87.”
+
+Eric winced. “No wonder. His medical age is probably older.”
+
+Eppie raised both brows.
+
+“Corporate sent a medical report as well. Your sensei’s got arthritis, hypertension, and a whole other list of words going down two pages. That’s why they sent this thing—”
+
+Eric gestured at the captain’s chairs in the middle row. “Heated seats, sixteen massage settings, shoulder-mounted heat vents, total sound isolation. We got active suspension as well. Rides like a cloud.”
+
+“Wow,” Eppie felt as depressed as she was impressed. She would not have thought of all this. She would have just… put her sensei in the cabin of Eric’s comfortable pickup. Tule Lake was a long drive away, though, and any kind of driving was harsh on a body degraded by five decades of homelessness. “I should thank the Director.”
+
+“They should thank you.” Her Newfoundland delivered a thumbs-up with his eyes. “Did you know rumours have made it as far as Tokyo? President Oribe has spoken to Mr Davis and Mr Curon. There are a lot of people keeping an eye on this.”
+
+“Whoa.” Eppie felt impressed yet again. “That’s crazy. The President of Japan!”
+
+She was pretty sure that Japan had Prime Ministers, though…
+
+Eric snorted, then laughed at her usually know-it-all face. “Takashi Oribe, President, Sony Music Entertainment, Japan…”
+
+Alright, alright—what’s so funny, ERIC? Did you know I am from an alternative universe? Oh, you didn’t? Not so funny, now, eh?
+
+“... But yes, I suspect things will get political once the March Exhibition starts. I hope Kiritani-sensei stays healthy throughout.”
+
+“Ergh—knock on wood…” Eppie’s rapped the expensive-looking walnut panels. To be honest, that a five-decade-long vagrant could be 87 and still creating art daily was a miracle in itself. Americans with Platinum healthcare dearly wished they had Kiritani’s stamina at 80.
+
+System, can I boost Kiritani-sensei’s [Vitality]?” The [System] was silent. Eppie sighed.
+
+“Hey…” Eric handed her some tissues. “Don’t ruin your makeup now.”
+
+Eppie didn't need it. She wasn’t wearing makeup. She watched the city slide by instead, and allowed the silence to communicate the repressive feeling crowding her heart against her ribs.
+
+LAX remained no less exhausting than any other time of the year; only Eric and Eppie had the privilege of Sony’s fleet parking, meaning they leisurely stood at the exit gate with their big, polished sign that said “KIRITANI-SENSEI” in both English and Japanese.
+
+“I assume he flew First Class?” Eppie leaned in against her Newfoundland. It was always nice to have Eric bodily about. Hanging with her lawyer was a different vibe from leaning on Curon.
+
+Her enquiry was answered when, from the customs exit, an airline hostess in the colours of Delta’s VIP services, tiny golden pin and all, wheeled an indignant Henry Kiritani toward them in a rented wheelchair.
+
+Eppie almost burst into laughter. Henry Kiritani no longer looked like the man she recalled from Central Park, nor the one she had last encountered feeding his cats. Somewhere between Kiritani getting his medicals, his documents and his citizenship, Diana Mirabelle must have gotten involved, because the sensei she now saw wore a charcoal haori over a thick merino kimono shirt paired with dark, loose trousers that were ironed and straight-cut, and large, soft-soled shoes. It was not ostentatious, but it sure as hell didn’t come from K-Mart. She was pretty sure that, even if they scoured Saks, there wouldn’t be an outfit of a similar style.
+
+No, this was custom work, from a boutique that only a Fashion Editor would know.
+
+Their eyes met, and the old artist, much to Eppie’s delight, actually blushed. His hair had finally been tamed, and what was left of it was now swept back and loosely styled. His beard, which was grey and white, hung from his chin in the Confucian style of the old scholar-bureaucrats, unstyled.
+
+He now looked like the man he would have become. A sensei of the arts.
+
+They greeted the attendant, and she handed over a tote. Eppie did not even have to guess what was inside because she could already see the bulge of the pen packets, the cardboard cardstock, and other, less important belongings.
+
+Eric took the suitcase, an expensive-looking carry-on with a French-sounding brand name.
+
+Once Kiritani was less self-conscious, he regarded her warmly, as she did as well.
+
+“You really came,” he said. Not a question, just a gentle affirmation.
+
+“Of course we came,” Eppie replied. “Yakusoku shimashita kara.” She had promised.
+
+She hugged him. Gently, softly, delicately, like she was embracing a large heron. It took Kiritani a few seconds to reciprocate, and when he finally did, he had a message for her.
+
+“Watashi no tenshi, Eppie-san.”
+
+My angel.
+
+Eppie felt the heat climb her neck before she could stop it.
+
+Her Newfoundland looked on as the cat and the heron continued to embrace. If he had a tail, it would have thumped the floor like a rhythmic bongo drum.
+
+“Sō—” Kiritani stepped back, his balance braced by Eppie. “Nokotta mono o mi ni ikimashō…”
+
+Let’s see what’s left.
+
+The drive north started with Kiritani falling asleep in the gently vibrating captain’s chair with the heat tuned to perfection. The thing with the obscenely priced Mercedes was that it really was dead silent in the cabin, so much so that the old artist grew instantly drowsy, then was gently snoring within twenty minutes.
+
+“I’ve mapped the toilet breaks, morning tea, luncheon, more breaks, dinner, and motel on the GPS already,” Eric spoke softly and in low tones. “I was going to ask you later, but I guess now’s a good time. Give me an update on William.”
+
+“Yeah, I figured you might want one,” Eppie had already processed a summary for her Newfoundland. “What has Rick told you?”
+
+“Just the broad strokes,” Eric said. “You, your revenge. Your plan to make the guy kill himself…”
+
+“Whoa…” Eppie raised both hands. “Where the hell did you hear that?”
+
+“Your ‘Dad’?” Eric gave her a whimpering look. “So… he’s not joking?”
+
+“I can’t make William kill himself, Jesus,” Eppie groaned. “That’s not how these things work. I mean, come on. He’s a… felon. Right? What’s wrong with fessing up and doing his time? He’s mentally sound enough to ‘De Sade’ Mio, Simone, Val and me, but he can’t even spend ten years in prison? At thirty, he can still live a life better than 99% of us.”
+
+Eric kept his hands on the wheel as she made her case.
+
+“Look,” her lawyer remained adamant. “I've seen what it costs people just to be near him. I'm not asking you to stop. I know better than that by now…”
+
+Eric paused for thought. “... But is the Eppie who oversees all of this going to be the same Eppie once it's done?”
+
+“I don’t know what that means, Eric,” Eppie felt the happiness of seeing Kiritani drain into a hole somewhere in her chest. Again, she had her [Usurper] to thank for this abject misery.
+
+“That’s not an answer.”
+
+“Well, it's the only one I got,” she answered churlishly. “I’ll tell you what, if he gives in and does his time, I’ll drop the whole thing.”
+
+Eric sighed. As did Eppie. The door was too heavy and too large for either of them to swing open without waking something unpleasant and irreversible, so it was best to let sleeping Newfoundlands lie.
+
+Instead, she told Eric about Simone, about Denise and the girls, about the club. She told him about what happened to Valorie, the flower pot, and Vaughan. She told him about how she found Kiritani in the park, and what Curon and then Vaughan had done for them both.
+
+“Hold up,” Eric made sure the cruise control was steady before he asked. “Valorie did what?”
+
+“She kissed me.”
+
+“On the cheeks?”
+
+She tapped her lips.
+
+Eric’s expression told her more than she needed to know. “Why?”
+
+“I would like to know that too,” Eppie confessed.
+
+“Maybe she likes you?” Eric suggested. “You know how kids bully the kids they like?”
+
+“Eric, be serious,” Eppie gave her Newfoundland a chiding hiss. “Val just got groped by Grein. You think her next move is to kiss the no.1 antagonist of her life?”
+
+“Eh…” Eric shrugged. “Maybe that’s the only way she knows how to say thanks.”
+
+“That’s sick,” Eppie made a face, but conceded that Eric might just be right.
+
+Was William also to thank for this?
+
+They stopped to eat at 1 PM.
+
+Kiritani woke up around twelve, refreshed and groggy and hankering for a dark coffee. Ten minutes later, Eric slid into a nice enough diner off the interstate, with classic 60s decor, and they ate, drawing every eye from the locals and travellers alike.
+
+At first, Eppie seriously considered whether the attention was racial. After all, she was generically white, Eric was a Newfoundland, and Kiritani was a Sumi-e Sensei.
+
+Then she slapped her forehead.
+
+Kiritani–sensei dressed as if he were from an avant-garde Kurosawa movie. She wore her Loro Piana blazer and turtle-neck, Theory trousers and her Common Projects. Eric wore three-piece office casuals with a winter coat. What they must look like, stepping out of that mid $150,000 corporate people mover, must have stirred the imagination.
+
+Looks like we’re tipping well… Eppie smiled at the waitress, who looked star-struck.
+
+“We’ll be there after lunch?” Kiritani asked in Japanese.
+
+Eppie laughed. “Sensei,” she told him. “We’re three hours into a nine-hour drive. We won’t be there until tomorrow morning.”
+
+Kiritani considered this. He picked up the menu, adjusted his shoulders, read what he could, and said, with the dry composure of a man who had waited fifty years and could clearly wait nine more hours: “Then I shall have the mushroom soup.”
+
+The rest of the day proceeded without argument.
+
+The threesome talked, and Eppie translated. Eric was quick to pick up basic Japanese, and he and Kiritani became fast friends.
+
+They reached the Motor Inn after dark. Eric wanted to make sure their sensei was well-rested before he could rest properly. The particular Inn had a family room with two bedrooms that Eric booked in advance. Eppie would take a room, Henry would take one, and Eric would take the sofa bed.
+
+After dinner, the two of them watched Kiritani sketch out the Tule Lake of his memory.
+
+They watched in reposed silence, as a girl and a Newfoundland, transfixed.
+
+The foreground was the yard—packed earth, no grass, rendered in short cross-hatched strokes that gave the ground a texture of exhaustion. Children occupied it. Not kids enjoying childhood, but bodies inhabiting an enclosure like livestock. The scene was from the artist's point of view, showing a younger child, three or four, sitting alone and slightly off-centre, leaning against the wire. The way Kiritani processed the hunched impression was heart-breaking.
+
+The fence ran the full width of the middle ground. He drew it straight and taut. Not sagging, not rusted, not the soft brown wire of today. The links were tight and regular, the barbed crown at the top rendered with four precise strokes per post. The master’s strokes were unhurried, accurate. He had drawn this a hundred-hundred times over.
+
+There was a gate. The type that lifted up and down like a reprimanding finger.
+
+Behind it, in the middle distance, the guard tower rose on its insectile legs. He drew the figure within as a silhouette, a rifle suggested rather than detailed. This was the hardest part for Eric, because the guard was so lifelike. Within a few strokes, Kiritani captured the posture of a man doing his job without malice. It was a man who saw nothing wrong with, and did not care about, the children below.
+
+And at the back of everything, the butte. Low, flat-topped, volcanic. Kiritani rendered it in a dozen strokes, heavy-handed compared to the delicacy of the foreground. It sat on the horizon the way it always had: enormous, indifferent, but also a reminder that this was not the land of the colonisers. The indigenous owners had already been murdered.
+
+The whole image was maybe six inches across. Kiritani had drawn it in under ten minutes. Neither Eppie nor Eric said anything when he set down the bundle of biros.
+
+“Tomorrow, Eppie-san,” Kiritani said. It was a wonder that he still had a full mouth of pale-yellow teeth. “I will see it.”
+
+“Hai. Tomorrow,” Eppie promised. “Oyasuminasai, Kiritani-sensei.”
+
+“Oyasumi, Eppie-san.”
+
+Eppie held Kiritani’s gift in one hand and knew she would not be sleeping. As a wise man once said, “It belongs to a museum.”
+
+Henry Kiritanib. 1920, United States
+
+*

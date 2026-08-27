@@ -1,0 +1,267 @@
+---
+id: 12a8451e-39c2-56d6-89d6-028b028e73d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 654 - Eskau of War"
+slug: 0159-chapter-654-eskau-of-war
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 159
+ownLength: 3314
+unit: words
+ownProgress: 3314
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2904889/chapter-654-eskau-of-war"
+royalRoadId: "2904889"
+markedReadAt: "2026-06-29T19:40:09.457Z"
+---
+
+Tala’s perception swept through all those around her, realizing that she’d removed all her backup during the walk over to the hold of the House of Blood. She could bring them back with an ease that these people likely didn’t realize, but even so, she was momentarily alone.
+
+Rane, Lea, Terry, and even Eskau Meallain were watching right at that moment—Alat having set up their viewing slabs as soon as Tala entered the hold of the House of Blood—but she wasn’t about to call them out at such a moment.
+
+Still, even with her ‘fight or flight’ instincts triggered by Pillar Sanguis’s pronouncement, Tala took the moment to realize a few things.
+
+First, the Pillar had waited until everyone still in the room was seated in comfortable, slightly reclining chairs. No one was at the ready to fight her, nor was anyone drawing close in a vain attempt to contain or restrain her.
+
+Second, he said that they needed to discuss the matter. The Houses were sticklers for protocol, and he hadn’t worded it like a trial or similar formal hearing.
+
+Third, they’d waited until she was introduced to the ‘high society’ of the city, ensuring that she was closely connected with them in everyone’s minds. To kill her—or really to do anything that could be noticed by others as unusual—had the real potential of harming the House of Blood in one way or another.
+
+Finally, Pillar Sanguis had waited until Eskau Pallaun was gone. Specifically, she could see the Eskau elsewhere in the hold, arranging for their refreshments. He wasn’t covertly hiding or anything of the like. He could likely return fast enough if Tala threatened Pillar Sanguis, but he was not in a position to threaten her.
+
+That had to be intentional.
+
+All this flashed through her mind—with Alat’s assistance—and helped to calm her emotions and magic before she took any outward action. Even still, she had to forcibly relax her grip on her authority as it had begun to bubble up, pushing at the edges of the ancient hold that the House of Blood had on this space.
+
+She’d found that it would budge, but it wouldn’t be a fast process if she wanted to truly subvert the House’s authority within this hold, and that was even with the authority deferring to her given her position as an Eskau of the same House.
+
+Old and powerful, indeed.
+
+Pillar Sanguis did not react negatively to her questioning him. Instead, he waited a moment before he gave an acknowledging nod and restated himself. “The pall of Pillar Be-thric’s death still hangs over our House, and not just because Eskau Meallain has made a nuisance of herself by preventing any from taking his place.”
+
+Within Ironhold, Eskau Meallain huffed a laugh and grinned a self-satisfied smile. The reaction almost causing Tala to smile in turn.
+
+The Pillar continued, unaware of the reaction his comment had elicited. “Closure is paramount, and once that is achieved, we must discuss your role within the House of Blood going forward. There is little place in a Major House for an Eskau without a Pillar. You are a bared blade, seemingly with no hand directing you.”
+
+Tala arched an eyebrow at that, causing the man to smile and lift a hand placatingly.
+
+“I am not seeking to ‘leash’ you, nor take away your freedom of movement. I doubt anyone of worth would be willing to hold the other end of the lead, or take responsibility for your actions. My wife would also tan my hide if I were to try anything more forceful than that, but she has a soft spot for all the young women of the House of Blood, and you are that.” He waved his hand again, this time dismissively. “But I am getting off topic.”
+
+Tala gave a slow nod from her chair. “That topic being the death of the Pillar who tried to mentally replace me with a slave identity?”
+
+The man gave a sad smile. “Yes.”
+
+“Then, what do you wish to know? I have told most to Eskau Meallain, but I imagine she was prevented from passing on all but the smallest tidbits through the messages exchanged?”
+
+Within Ironhold, Eskau Meallain nodded. “She has that right.”
+
+Within the Sanctum, Rane grinned. “I should think so.”
+
+Tala was getting distracted, so she tuned out her otherwise constant perception of her expanded spaces, focusing entirely on what was around her in the House of Blood’s hold.
+
+“Indeed.” Pillar Sanguis gave a wry smile at Tala’s words. A moment later, Eskau Pallaun returned, and once Pillar Sanguis had acknowledged the man, the questioning began. “Were you the direct cause of Pillar Be-thric’s death?”
+
+Tala saw no reason to lie at this juncture, so she didn’t. “Yes.”
+
+If Pillar Sanguis was surprised by her answer, he didn’t show it. Even so, others in the room looked shocked, some even muttering to their neighbors as the Pillar continued. “Was this on purpose, or accidental?”
+
+Tala smiled without mirth. “With purpose.”
+
+The man nodded. “Was it planned beforehand or something done in the moment?” She hesitated then, causing Pillar Sanguis to raise an eyebrow. “Are you, then, protecting co-conspirators?”
+
+Tala shook her head. “Not at all, Pillar. I am simply trying to answer your inquiry truthfully and appropriately.” After another moment of thought, she nodded. “The specific act was done in a moment of opportunity. That said, it would be dishonest to say that I wasn’t trying to put together a plan for some sort of escape. In that, leaving a mind magic user at my back—one who had shown he was willing to pursue me even into the land of the Cycling Cities—would have been foolishness.”
+
+“So, you had planned to kill him if you could, but how it happened was unplanned?” He tried to clarify.
+
+A brief consideration left her nodding. “That sounds accurate, yes.”
+
+“Understood.” His eyes flicked toward Eskau Pallaun, and the obsidian man stepped forward, clearly taking up the mantle of questioner.
+
+“You seem to have your memories back. Is that the case, or have you rebuilt ‘Tala’ since your departure?”
+
+Tala blinked, not having expected that question. “Oh, they are back.”
+
+“Were they back when he was slain?”
+
+“Yes.”
+
+“When did you get them back?”
+
+“The day before I claimed the position of Eskau.”
+
+That got a storm of mutters, and Eskau and Pillar exchanged surprised looks before Eskau continued. “So early? Truly?”
+
+“Yes.” She felt no need to elaborate further.
+
+Eskau Pallaun grunted. “Understood.” A moment later, he seemed to remember something, then chuckled. “So, when I played with you about your name…?”
+
+She gave a tight-lipped smile. “I understood immediately that you knew I had been subverted, my identity erased, and my self violated.”
+
+He winced at that. “That is… fair. Understood.”
+
+Tala nodded once, seeing no reason to say more.
+
+The muttering slowly died down, and the silence lengthened until Pillar Sanguis cleared his throat. “I think that answers the questions we still had around Pillar Be-thric’s death. We’ll be curious to learn some specifics about your survival, but now is hardly the time. Before we talk about your position in the House of Blood going forward, I do have one other question.”
+
+Tala shifted in her seat, getting a bit more comfortable. “I’ll answer if I can.”
+
+“Why did you kill Adjunct Thorn?”
+
+Tala frowned in confusion. “Are you asking why I metaphysically killed ‘Thorn’ because his name is actually Thron, and I destroyed his ‘Thorn’ identity by killing the Pillar he served beneath?”
+
+It was Pillar Sanguis’s turn to look confused. “What?” He glanced toward Eskau Pallaun, but then quickly back toward Tala. “Does that mean he is alive?”
+
+Tala shrugged. “To the best of my knowledge, yes.”
+
+The Pillar shifted backward, clearly entirely taken aback by this news.
+
+Eskau Pallaun huffed a laugh. “And here I thought it unimportant to correct his name posthumously.”
+
+His Pillar sighed. “Indeed. So, Thron survived?”
+
+She shrugged again. “He was alive when Iast I saw him.”
+
+“Do you know why he would not have returned to us?” Then the Pillar held up his hand and shook his head. “My apologies. It is obvious that he would not have returned because that would have exposed your survival. What I meant was, how did you convince him not to return?”
+
+Tala bit her lip, then. “I… paid him for his silence and to allow him to start a new life.”
+
+“Oh? You were able to pay him enough to go to another city and remain hidden? That must have been a tidy sum indeed.”
+
+“My understanding was that he was going back to the other continent, where Adjunct Gallof found and rescued him in his younger years. I believe he intended to carve a place for himself there.”
+
+Pillar Sanguis’s eyes widened, and Eskau Pallaun laughed. “Well, we know why the name of that Dwarven Lord is a mystery.”
+
+Tala cocked her head to the side. “What is this?”
+
+Eskau Pallaun grinned. “A year or so after you… departed, we began to hear rumors of a new power rising on the other continent, an unnamed Dwarf who was gathering not only his own people to him, but any who would join his cause—though, most who were purported to have joined him were dwarves.”
+
+Pillar Sanguis shook his head. “She could not possibly have paid him enough to allow such a rise.”
+
+The elder Eskau shook his head. “Not in coinage. But what of that which we have learned since, about an aspect of his power?”
+
+The Pillar’s face paled, then flushed as his eyes snapped back to Tala. “You gave him a concept sword?”
+
+Wow… they put that together rather quickly.
+
+-I mean… it makes sense when you think about it. By the way, Eskau Meallain is having a minor fit at the moment.-
+
+Sure, but I didn’t really consider them realizing it so soon. And the elf can deal with it.
+
+-True on both counts.-
+
+“I will not discuss my payment to him for services rendered.”
+
+Eskau Pallaun gave a slight shake of his head, a mirthful smile across his features.
+
+Pillar Sanguis narrowed his eyes, a vein pulsing strongly enough for a mundane to have seen on his left temple. Finally, he seemed to calm himself enough to say, “Very well. I can… respect confidentiality.” He took in and then let out a long, calming breath. “So, we can rightly assume that he is alive, that he knew of your survival, and he left the area to prevent us from learning of either of your survival?”
+
+“That sounds like a reasonable assumption, yes.”
+
+“Very well, then.” He narrowed his eyes again. “Can you make concept swords?”
+
+“No.” Tala hesitated. “Maybe? Not to my knowledge? I suppose given we don’t know the method it’s possible that anyone could make them.”
+
+He gave her a flat look. “Then, do you know how to make concept swords?”
+
+“No.”
+
+“Do you know where to find more?”
+
+“Not specifically, but I imagine that there may be some within voidholds or other remnants of antiquity.”
+
+He examined her for a long moment. “Very well. We can move on for the moment.”
+
+“Thank you.”
+
+The Pillar’s gaze swept over the mostly silent administrative observers. “Does anyone have any other questions for Eskau Tala on either the matter of Pillar Be-thric’s death or the fate of Adjunct Thron?”
+
+There were a few exchanged mutters between the various adjuncts, but in the end, no one spoke up except in the negative.
+
+“Very well, then we can move on.” He met Tala’s gaze. “For the death of your Pillar, you were already sentenced and that sentence was carried out in the immediate aftermath. That sentence didn’t truly stick. For that, we have already balanced the books with the City Lord for the failure of his collar, despite how much we prefer these results. All together, I foresee some small penance in recompense for the strength that you took from us, but it will not be anything truly onerous, nor anything I believe you will object to.”
+
+She nodded in acknowledgement, deciding it was best to just accept for the moment. She could protest later if they tried to impose anything she found extreme.
+
+“Then, from the perspective of the House of Blood, the matter is settled once and for all.”
+
+As if they’d been waiting for a momentary break in the proceedings, servants flooded into the room, delivering food and drink to those seated. Eskau Pallaun took the opportunity to take his own seat beside his Pillar.
+
+Once everyone had their refreshments, and the servants had departed once again, Pillar Sanguis smiled, restarting the meeting. “The final item on the itinerary—at least among those we’d actually planned on beforehand—is your position within the House, going forward.”
+
+Finally, one of the administrators stood, he was clearly a cat-kin of some kind, but she couldn’t tell what sub-species with ease. “Pillar Sanguis, Eskau.” He bowed to each of the three of them before continuing. “Based on historical precedence, and the current state of affairs, there are six options before us.”
+
+Tala’s eyebrows rose. She hadn’t thought there would be so many.
+
+“Some will be able to be instantly dismissed, but I thought it prudent to mention them regardless.”
+
+Pillar Sanguis nodded, waving a hand for the feline to continue.
+
+“First, and likely easiest to dismiss, would be to have Eskau Tala marry Eskau Pallaun, or another unmarried Eskau, thus becoming a co-Eskau with them for their Pillar.”
+
+Both Eskau Pallaun and Tala were already shaking their heads, and the arcane nodded in acknowledgement.
+
+“As I said, I did not see that as a true possibility—though, even her current husband would not technically be a barrier, if we chose this route, so it is a possibility. Second, Eskau Tala could challenge any existing Eskau of her own advancement to take their position.”
+
+Pillar Sanguis shook his head immediately. “No. We will not weaken ourselves to solve this.”
+
+“As you say, my Pillar. She could also challenge any less advanced Eskau through a proxy, but that has the same downfall, so we will move on.”
+
+The Pillar nodded in acceptance.
+
+“The House of Blood could raise up another Pillar to be hers, most likely with her input and approval. While that approval is not required—and rarely sought even among the already rare cases of setting a new Pillar over an existing Eskau—I believe that the circumstances warrant it, if we choose this path.”
+
+That was an interesting idea, but would she want to be so tied to another? She doubted they’d allow Rane to become a Pillar of the House, after all.
+
+“Noted.” The Pillar nodded and waited for the man to continue.
+
+“Interestingly enough, based on the manner of Eskau Tala’s inclusion, she is classified both as an Eskau and a Protian weapon. As such, if she were bonded to another, they could be an Eskau, with her their weapon, and then that Eskau’s Pillar would be selected as such is normally done.”
+
+That got a resounding silence before Tala chuckled. “So, my husband could become Eskau of the House of Blood, with me as his weapon?” She frowned in thought. “Oh! Or Terry! My terror bird.”
+
+“That…” The feline head tilted to the side. “That is actually a possibility. You yourself are the precedent for having a gated human as an Eskau, after all.” The cat then shivered. “The terror bird would not be possible. If I understand correctly, he is bonded to you, not the other way around, and that would negate even the smallest portion of the possibility.”
+
+Tala nodded at that. “I suppose I can see that.”
+
+Eskau Pallaun chuckled. “Either of those options would be solving complication with complication. And can you imagine the oddities that would come from it? Were Eskau Rane to accept a challenge, he would be bringing another combatant into the clash with him every time, one that out tiered him. No one in the other Houses would allow that to stand, even our allies would fight against it, no matter if it does hold up, legally speaking.”
+
+Pillar Sanguis sighed. “Indeed.”
+
+The administrator nodded. “Very well. Moving on, then. She could ‘retire’ and become an Eskau advisor, unable to participate in the jockeying of Houses, but holding the position nominally.”
+
+Tala shook her head at that. “No. I need to be active. I need to be able to be challenged and to prove my worth, otherwise the utility that my holding this position grants to gated humanity that we’ve discussed would be greatly lessened.”
+
+Eskau Pallaun nodded. “I agree with Eskau Tala’s assessment. She needs to be active.” He glanced toward his Pillar before adding. “Besides, the penance that we have for her would be… unseemly if she were in retirement.”
+
+Pillar Sanguis nodded and sighed. “Agreed. What else is there?”
+
+The cat-kin visibly swallowed. “Well, my Pillar, that… those were the five options we’d been able to find. We could shift her to the position of Pillar, as Eskau Meallain hinted in some of her missives, but as discussed, that would remove her from the ‘directly challengeble’ members of our house, thus mitigating much of the benefits we are seeking. That is assuming everything else about it was a good idea.”
+
+The Pillar grimaced, but before he could speak, Tala cleared her throat. “What about Eskau of War? It has somewhat of a ‘Pillar flavor’ while remaining an Eskau in truth.”
+
+Every eye turned toward her.
+
+“In times of true war in the past, in order to maintain continuity, an Eskau could be appointed as preeminent over the forces of the House. They were below no Pillar, so that there was no ‘soft target’ for our enemies to take advantage of.”
+
+“I am aware of what an Eskau of War is, Eskau Tala.” Pillar Sanguis steepled his fingers, clearly considering. “This is in regards to the Black Legion?”
+
+Tala nodded. “Yes, Pillar.”
+
+He glanced toward the still standing administrator. That man shrugged. “When researching, we were not aware of this war as a factor. If memory serves, she is correct.”
+
+The Pillar gave the man a flat stare. “I am aware that she is correct. I know the structure of my own House.”
+
+The round cat ears laid back atop his head as the man hunched slightly. “Yes, Pillar. My apologies.”
+
+“How is such a one selected? That does not come to mind.”
+
+“A vote by the Pillars, or their representatives, can appoint an existing Eskau to that position. Once appointed, however, it cannot be rescinded until the war is fully executed. Otherwise, it is a lifetime posting. Such an Eskau is considered Eskau to the entire House and not a specific Pillar. As such, she is not under the direct authority of any. It is a position rivaling the Head of House in power, authority, and prestige.”
+
+“Are there ever multiple Eskau of War? I seem to recall…” The Pillar was frowning in thought.
+
+“In the same House? Only if they are executing simultaneous, non-overlapping wars. I believe it has only occurred once, during the War of Houses.”
+
+That got a grunt in return, but Pillar Sanguis was nodding. “I think this might be an acceptable position for her to assume.”
+
+Tala cocked an eyebrow. “You would give me such power within the House?”
+
+He grinned at her, clearly breaking out of his contemplative mood. “Girl, even when you were an unwilling member of our House, you strove for our House’s good, and achieved it across the board. Now? When you willingly return to us with much to gain and little to nothing to lose? I almost fear for the other Houses, were you to gain such a posting.”
+
+She considered for a long moment. “Alright. What is to be done?”

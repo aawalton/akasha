@@ -1,0 +1,275 @@
+---
+id: 51b1524c-b819-5a49-aaab-a0d09ebe4093
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 706 - Assumptions, Tested"
+slug: 0214-chapter-706-assumptions-tested
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 214
+ownLength: 3345
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3398775/chapter-706-assumptions-tested"
+royalRoadId: "3398775"
+---
+
+Lea stretched slightly as she watched her mother vanish, trying to distract herself from a mix of fear, excitement, and trepidation.
+
+For Lea, stretching muscles didn’t consist of extreme motions, at least not most of the time, not any more.
+
+A ripple moved through her as each muscle bunched and released in a wave, stretching each portion of the muscle in extreme extension while maintaining relative stillness due to precise contraction of the portions around the part being stretched.
+
+It took less than a second to go from toes to head, and the feeling was quite nice. It also served as a good muscular check of her own capacities at the moment. As such, she moved on and checked her skeletal alignment, precisely twinging a few muscles in her back to pull a vertebrae back into place, eliciting a soft crack-pop.
+
+She had come to find it both amusing and gratifying that her body had been constructed so carefully to mimic the humanoid form both inside and out. And now it is the body of a human. The creators would be so proud.
+
+Well, that wasn’t necessarily true. They might be horrified, but Lea would never know.
+
+Her internal check found a small misalignment in her wrist that did require her to lift her left hand and rotate it in and out, resulting in a satisfying click-pop!
+
+She hesitated. It had been nearly ten seconds since her mother left, and she was just standing here, staring after her.
+
+Lea took a deep breath, put a smile on her face—being careful to include the muscles and skin around her eyes—and turned around to face her new traveling companions. “I thank the three of you once more for your assistance with my upcoming task.”
+
+The three gave her knowing looks, clearly assuming that she was putting on a brave face.
+
+Honestly? Lea really appreciated that. Oh, she was irritated that they thought her a child—even if she was young enough to be one—but the fact that they thought of her how they would any other person her age was gratifying.
+
+Still, rather than letting this continue, she took charge of the situation.
+
+“As the point of this circuit will be to expose as many warriors as possible to fighting an automaton and against magical negation in as efficient a way as possible—”
+
+Pillar Tili lifted one finger, interjecting, “And in as safe a manner to increase survivability against the legion.”
+
+Lea sighed and nodded. “Good point, yes. As that is the point, I suggest that we take the first day here.” She smiled at their contemplative looks. “I believe that I should first fight against the three of you. In that way, as warriors of great skill, you can tell me what is most informative and useful to your own mindset and training. Then, when I spar with less auspicious combatants, I can be the most useful to them in the short time I am sure we will have.”
+
+Eskau Pallaun huffed even as he smiled. “Drop the flattery, young one. We know our own worth.”
+
+Eskau Kanabo gave a slow shrug. “I appreciate being recognized.”
+
+There was a moment where the other three glanced toward the large bear-kin before Eskau Pallaun sighed. “Very well. Flattery aside, that sounds like a wise course of action. I have sparred with you a couple of times, but I do not mind a refresher with this in mind. We were not attempting to discern the most efficient means of instruction at that time, after all.”
+
+Eskau Kanabo gave an agreeable nod, and Pillar Tili beamed. “Excellent idea, Lea. Shall we avail ourselves of one of the House of Blood sparring rings, or did you have another venue in mind?”
+
+Lea smiled, feeling a bit more confident. With only the barest flicker of her eyes in the direction of her departed mother, she gestured toward the open hold behind them. “The House of Blood will do just fine.”
+
+* * *
+
+For Tala, the near to an hour of flight time both seemed to drag by and be over before she really realized it, and she could see the automata in the distance.
+
+The Black Legion had spread out over close to a hundred yards as they seemed to be searching for and vaguely following whatever had drawn them to the area.
+
+Due to her connection with the village, Tala saw the multi-legged monstrosity ‘speeding’ away, moving at a pace that was barely more than a fast walk for a person.
+
+Magics flickered as each foot was lifted, removing evidence of their passage, but the Black Legion were still seemingly able to track something.
+
+Honestly, it was most likely the magic, but they’d have been able to track massive footprints faster, so it wasn’t as if the village had a choice.
+
+There were only thirty one automata, including five sergeants and a lieutenant. From the literature, there wouldn’t be a captain unless there were enough lesser legionnaires for five lieutenants, and a commander would be over five captains, and so on.
+
+Tala sighed. Only thirty one…
+
+But, she cut off the thoughts. In Platoiri, they’d been spread out and going for a specific objective. Here, while they were dispersed for their sweep, when she showed up, she’d likely be their sole focus.
+
+Rust, from what she could see, they were already orienting in her direction, likely because of the abrasion she’d left in her wake.
+
+As such, she took her flier high, willing herself out just a bit in front of their current path, and letting herself drop.
+
+She pulled the flier back into her sanctum as she plummeted, her armor rolling over her before she’d fallen ten feet.
+
+From near to two hundred feet up, she sent five pairs of siege-orbs toward the center of their loose formation, hoping for a similarly impressive blast to the one she’d gotten against the commander.
+
+The lieutenant was in the back-center, and it lifted its shield to catch the incoming protectiles, moving inhumanly fast.
+
+The regular automata were not so lucky.
+
+Eight legionnaires had siege orbs slam into the top of their shoulders, just where their neck met the torso. Tala didn’t even have to release the magics in the projectiles as the Black Legion anti-magical effect did that for her.
+
+Eight heads were blown off and eight bodies tossed to the sides, skipping across the ground to knock into other automata.
+
+-That was actually rather impressive aiming. Well done.-
+
+Thank you.
+
+As for the lieutenant, Tala had sent two orbs toward him, and they both detonated nearly a foot above his upheld shield.
+
+The concussion was immense. Its legs and body were too sturdy to crumple directly, not when so thoroughly braced, but its footing was in relatively soft soil. So, the automaton was driven into the ground like a stubborn nail beneath the hammer of a Sovereign, buried up to its waist at a single stroke.
+
+Tala came down, landing on the lead legionnaire—a sergeant by the markings—and her weight and momentum drove downward with a vengeance.
+
+The sergeants weren’t as well made as the lieutenants, and this unit hadn’t been as well prepared and braced. As such the automata crumpled beneath the hit.
+
+Alat was not otherwise occupied this time around, so she took over, reaching out and managing to catch three of the soul-spirit pairs and break them apart before they fled the ruined bodies.
+
+Tala willfully seized the sergeant’s herself even as she stood from her brief crouch that she’d fallen into upon landing.
+
+Her eyes locked with the lieutenant’s even through her faceplace, and she smirked despite knowing the automaton wouldn’t see. Tala generated her voice externally. “Flee these bodies, or be forever expunged. They are already lost to you.”
+
+To her surprise, there was actually a moment of hesitation before she saw the reality threads between them thrum oddly.
+
+No more words were exchanged for the moment, and the automata charged as one.
+
+Tala welcomed the charge, barely shifting her feet to gain a bit better position from which to fight.
+
+They were inhumanly fast, strong, and skilled. Each inbuilt with the knowledge and reflexes of weapon-masters before they had centuries if not millennia of experience to refine technique with their greater capacities.
+
+It didn’t matter.
+
+Tala wasn’t as skilled as they were. It was even possible that no matter how long she lived she never would reach even the level of the most basic Black Legionnaire in terms of simple skill, but she didn’t need to.
+
+Flow moved faster than they could match, first as a glaive to slap aside an incoming strike on one side—sweeping around to behead a legionnaire who had tried to take advantage of a perceived opening—then as a sword to bisect the automaton whose sword she had previously deflected.
+
+Alat pulsed their authority and aura outward, driving away their reality fields and seizing the soul-cores, working to free them in quick succession.
+
+Outside of Platoiri, her authority was lessened. In this place she had never been, it was lessened further. Finally, Alat was not allocated the same level of authority as Tala, aside from that seeming silly to both of them. They were one.
+
+Regardless, Alat’s very nature as a non-physical, alternate interface of Tala meant that she had less agency, less power, and therefore less authority.
+
+Even so, she was more than capable of locking down the two destroyed automata and excising the magics to set free the souls that had been trapped.
+
+The broken bodies fell away even as the previously spread out Black Legionnaires closed in, each at top speed.
+
+Honestly, Tala was a bit surprised at their full-out charge. She had expected them to take a moment to form up and combine their anti-magic nature.
+
+To be fair, most were charging straight for the lieutenant while only four had come to her.
+
+So, with thirty-one to start, eight destroyed immediately—nine with the sergeant—two destroyed since, and two more coming for her directly, that meant there would be seventeen gathered around to support the lieutenant.
+
+Ahh… these are sacrificial to buy them time.
+
+In truth, she did need to know more about their capabilities when fighting as a unit. -Tala… don’t let hubris lead to destruction.-
+
+…Alat, it’s just a lieutenant.
+
+-Oh, I know. I wasn’t referring to this situation. It was simply general advice.- Alat sent the impression of a beaming smile.
+
+…Fine.
+
+Then, the last two distractions arrived, and Tala engaged with the legion once more.
+
+* * *
+
+Lea exhaled slowly, a practice sword in her hand.
+
+She felt the precaution was unnecessary, but she also had to admit that her sword was rather amazing at doing damage, so it made sense to be cautious.
+
+Still, she was used to sparring within the sanctum or Irondale where any injury could be mitigated, allowing for live-weapon fighting.
+
+But she was allowing herself to be distracted.
+
+Pillar Tili was her first opponent in this sparring chamber with the two Eskau watching from the side.
+
+This would be a bit less practical, given her mother’s bequeathed absolute authority with the sanctum and Ironhold were generally what had allowed Lea to manifest the abilities of a Black Legionnaire, but the Eskau of War had left her with a belt of reality iron and the authority to wield it.
+
+Such had been a reasonable compromise given Lea hadn’t been allowed to take the sanctum or another soulbound, expanded space.
+
+Lea thought that it would have been fine, but she also understood that not only was she not an expert, she would have absolutely nothing on the line regardless of the decision. As such, she hadn’t fought too strenuously.
+
+The reality iron was nice, and a comfortable weight under her unnecessary clothing. She wore loose fitting garments in nod to the traditions of Mages up north, even though her flesh—and the inscriptions within—couldn’t be distorted by catching or constricting cloth.
+
+But she was getting distracted yet again.
+
+“Are you ready, young Lea?” Pillar Tili smiled affably, tilting her head to the side.
+
+Lea checked her aura, backed by the iron, reveling in the feel. It was akin to a human wearing an armored gauntlet, and she intended to use it to great effect. “Ready, Revered Pillar Tili.”
+
+The bird-kin didn’t even move, but power lashed out from her, it was a blunted blast of wind that seemed to be both heavier and harder than simple air.
+
+Iron wind? That thought instantly came to mind, and it fit so well that Lea was entirely sure that the other woman would agree.
+
+If she hadn’t had the ‘gauntlet’ around her aura, Lea would have been knocked aside, unable to resist this simple, opening salvo. As it was, Lea leaned on her parents’ training, reshaping her aura and presenting the incoming strike with an angled plain.
+
+Her soul resonated with the iron at her waist, something other than magic feeding and facilitating her actions.
+
+The magic hit the unyielding defense and rather than it becoming a contest of power, the attack was deflected harmlessly.
+
+Lea moved.
+
+Her powerful body crouched and launched forward with enough strength that she would have cracked paving stones. The House of Blood sparring ring was made of sterner stuff, however.
+
+She crossed the distance, forming her aura into a reinforced wedge and splitting apart the three attempts to slow her before she was in melee range.
+
+Lea lashed out, aiming for a leg to avoid anything too grievous, but she underestimated the Pillar. Of course this woman would be ready for such an attack.
+
+Pillar Tili flipped over Lea’s strike on a rising sweep of the too-heavy air. She didn’t avoid Lea’s aura though as Lea continued to advance, the Pillar seemingly planning on landing on her back.
+
+Lea grinned, asserting his will and the granted authority she had through the reality iron. No… the reality iron was allowing her to act, the authority facilitating it, but it was something within her that was the true origin of what she did, something core to her very being.
+
+Pillar Tili’s magical boost cut off even as she was continuing to rise, her momentum not enough to carry her through her intended leap.
+
+Lea struck upward even as the bird-kin’s eyes widened in surprise.
+
+Six workings attempted to burst from the Pillar, but she was in Lea’s domain.
+
+The iron at Lea’s waist… well, it didn’t heat, but it seemed like it was put under stress. Lea’s soul felt like she was drawing too much power for her inscriptions, but her flowrate of magic hadn’t changed.
+
+Still, she opposed any magical working within her aura, outside of her own body, and it almost worked.
+
+Five of the six were countered—undone before they could accomplish anything—but finally, Pillar Tili turned her head, opened her mouth, and a burst of wind shot out, throwing the bird-kin to the side and out of the way of Lea’s strike.
+
+The Pillar landed adroitly, eyes narrowing. “It seems I was arrogant. This training truly is necessary if we are to have any hope.”
+
+Lea turned her guard to face the woman’s new position, causing a smile in response.
+
+“Very well. Let us continue.”
+
+* * *
+
+Tala grinned, feeling a moment of true freedom in the pure conflict.
+
+There was nothing to protect here, nothing to consider. The town that was in danger, prompting her to come, was far behind her and getting further away, and none of the automata would be trying to go around her.
+
+This was simple.The Black Legionnaires were the enemy, and she was to destroy them.
+
+For old time's sake, she verbalized her next working. Though she only did so once despite using it twice concurrently. “Crush.”
+
+She had always had a weighty soul and magical aspect, generally able to target things that were equal in advancement to herself, where others struggled to do so. In this, however, that hardly factored.
+
+She was Reforged, and their weight was barely equivalent to Bound.
+
+The two closest, charging automata slammed into the ground, sinking into the relatively soft earth much like their lieutenant had. In their case, however, when their feet stopped sinking, their torsos were bent over, their bodies pressed into the ground as well.
+
+She layered a second casting on to each before striding forward, leaving Alat to tear out their soul-cores and obliterate the spirits of the things.
+
+Alat would also pull the bodies into the sanctum as soon as they were fully free of the Black Legion inhabitation.
+
+The researchers were still in heated conversation about her existence workings, but they would pause to confirm theories with new automata bodies.
+
+She was all but a Sovereign of War as she strode between the utterly overcome legionnaires, and the remainder noticed.
+
+Still, they kept their focus, linking together their fields, and their power rose up, Tala able to see hints of it with her threefold perception despite its oddity and wrongness.
+
+There was some irony to agents of reality wielding that power as one would magic, but that was a long harped on issue that didn’t bear further consideration at the moment.
+
+Still, the effectively anti-magical domain started by rippling outward until it came in contact with her own, contracted aura, barely ten feet in front of her.
+
+That superficial placement was well inside her star- and stoneward chain net, but there would be time for that at the end.
+
+When their field clashed with her aura, Tala’s obviously proved utterly dominant, but that’s where the expected sequence of events ended.
+
+Tala had expected the combined field to wash out around her and hers, leaving her aura and authority as an island of magic amidst a sea of enforced reality.
+
+Instead, the field began strengthening without increasing in size. Curious, Tala walked forward, causing the field to contract as well as strengthen more quickly even as she advanced, maintaining marginal contact with her own aura as if constantly checking itself against her strength.
+
+She realized then that, of course the Legion had to be used to fighting more advanced beings, otherwise the Archons and powerful arcanes would have wiped out the standard footsoldiers with little issue by dint of magical weight alone. She’d been told about this effect several times, but seeing it in person was an entirely different experience.
+
+The strikes on the arcane cities really hadn’t given the Black Legion opportunity to demonstrate this, partially because their intentions had been different. They hadn’t wanted to successfully oppose the defenders as that would have driven those defenders back closer together, likely closer to the central column that was their true goal.
+
+Now?
+
+Now, they sought to destroy her in turn, and their goal was through her.
+
+Thirteen standard legionnaires, four sergeants, and one lieutenant combined their metaphysical weight to tip the balance of the area around them toward reality, even as they worked to free the lieutenant from the ground.
+
+Tala continued her slow march forward, their working slowly retreating before her advance.
+
+The dividing line between their field and her aura came to equilibrium barely five feet from the lead automaton that was already bracing behind a tower shield of black steel.
+
+Tala almost paused, still ten feet from that dividing line where her own aura began being pushed in and back toward her, unable to overcome the weight of so many, but instead, she decided to learn.
+
+She drew her own sway back toward herself, condensing it as she advanced until hers pushed forward once more.
+
+Theirs responded in kind, until Tala stopped her contraction at roughly five feet from herself, matching her striking range with Flow in sword form.
+
+To keep her tightened and reinforced aura at bay, the foremost legionnaire had barely six inches of shelter, and if the inhuman thing could feel nervousness, it certainly seemed to by its expression and shifting stance.
+
+A grin pulled at Tala’s lips beneath her faceplate, and she lunged forward, ready to stretch herself against these opponents.

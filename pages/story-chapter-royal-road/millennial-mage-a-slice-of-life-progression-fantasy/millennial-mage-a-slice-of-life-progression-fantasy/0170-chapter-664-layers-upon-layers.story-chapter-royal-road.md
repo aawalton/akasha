@@ -1,0 +1,237 @@
+---
+id: 2bd6c3b7-260e-5be7-a785-91d40c0442c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 664 - Layers Upon Layers"
+slug: 0170-chapter-664-layers-upon-layers
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 170
+ownLength: 3002
+unit: words
+ownProgress: 3002
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2987426/chapter-664-layers-upon-layers"
+royalRoadId: "2987426"
+markedReadAt: "2026-06-29T19:40:30.820Z"
+---
+
+Tala honestly found herself in awe at the spectacle she was overseeing.
+
+She had been concerned that watching two… diminutive fighters might be comical in some way, but their sheer power and evident expertise removed that possibility entirely.
+
+Honestly, she should have known better having seen Thron fight, but her most recent exposure to ‘small fighters’ were the fox-kin, and not only did they essentially not fight, they conducted themselves in a manner that was specifically tailored to be disarming and—for lack of a better word—cute.
+
+The Lord and Lady, on the other hand, fought back and forth with reckless abandon, utilizing hammer and axe, but the martial aspects of the clash were the least interesting part despite them each clearly having centuries of experience.
+
+In truth, each of the two was far more skilled than Tala was on a purely martial level. That, added with their clearly enhanced physiques and senses, made the duel more of a dance than the slug-fest mundane fights often devolved into.
+
+Their magics were subtle and expertly used, as was the way of arcanes. Where Lady Capricia used bursts of heat or light to distract or propel her limbs more quickly than even her impressive muscles could move them, Lord Onta seemed to reinforce his body with earth or stone or something similar, and utilized bits of water magic between his armor and his flesh to keep both cool and undisturbed by the flashes of heat from his opponent. Tala had yet to see him use his magic offensively, nor the Lady use hers for direct defense, but that seemed to reflect their styles across the board.
+
+His heavier armor and shield made it easy for him to be stalwart, and her lighter armor and two handed weapon lent itself to constant motion, constant attack.
+
+Even on an authoritative level, their proclivities were on display.
+
+Lady Capricia’s will, aura, and authority lanced out, trying to claim the space around the battle—overtop Tala’s underlying authority, of course—trying to grab even the smallest hold on Lord Onta so she could gain an edge. In contrast, Lord Onta held his will, aura, and authority close, and simply weathered her every assault, deflecting or evading every attempt to overtake him.
+
+Tala looked up to meet Lea’s gaze, even while she—and Alat—kept their perception locked on the fight. When she had Lea’s attention, she flicked her head toward the clash, and sent a message through Alat. “In this fight, you would be Lady Capricia. You are power and motion, but in your case, you wouldn’t ever have to stop, and his play for victory through attrition would end with him exhausted and you just as fresh as ever.”
+
+Lea seemed to take a moment to contemplate that before slowly nodding.
+
+With that confirmation, Tala grinned, and added only one last thing before returning her full attention to the fight. “So, how could he defeat you? Think on that, and we can talk some other time.”
+
+Her daughter gave her another nod, sharper this time, and then the two Sappherrous women fully focused back on the clashing dwarves.
+
+It didn’t take long for Tala to truly see the nature of the conflict. More than magic or martial, this was a conflict of the gathered authority of the two Houses. They each needed to be good enough to not hamper their side, but other than that? It was the weight of the Houses that would decide the victor, here.
+
+Even so, it wasn’t just a question of something like a simple two-sided scale. There was a clash of ideology here as well, how should that weight be used? Because, honestly, from what Tala could see, the comparative authority was all but equal, seeming even to fluctuate moment to moment.
+
+Everything here is about authority. How could we have missed that when we were here last?
+
+Alat sighed, choosing to answer the clearly rhetorical question. -We didn’t have the proper frame of reference before.-
+
+They can’t even see it, the authority, but they’ve developed systems to nurture it, then wield its might toward their own ends.
+
+-It’s good they can’t see it as well as you can, otherwise they’d have seen through your disguise with relative ease.-
+
+Yeah… Though, it might have just been that I wasn’t powerful enough then to be around people who could see through it?
+
+-Except the Revered City Lord?-
+
+He seems… not blind, but like he’s so pressed against his goal that he’s not able to see what he should.
+
+-Like a man pressed against a door that won’t open, who doesn’t notice the assassin stalking up behind in broad daylight?-
+
+Sure, I guess.
+
+-Could be, yeah. We’re around other powerhouses now, though.-
+
+Tala felt herself grin, confidently. Then I’m glad that there is no disguise now. This is the real me.
+
+There was a collective, mixed groaning-gasp and cheer as Lady Capricia got her hammer around Lord Onta’s defenses for the first time, landing a solid blow on his side.
+
+His armor absorbed the blow with ease, but it was still a telling hit all the same.
+
+She’d managed it by somehow assaulting his authority on one side, causing it to brace for that assault. She’d then physically attacked from the other side—something that she hadn’t done before.
+
+-Wait… is that what Eskau Meallain does?-
+
+…Maybe? It certainly is similar, if cruder.
+
+-Worth looking into.- But that would have to be later, as the fight was continuing to increase in intensity.
+
+The reason the Lady had seemingly been trying to get her aura on the Lord before hitting him became obvious as she pulled back her hammer, the weapon obviously seeming… worn from its time within the man’s aura.
+
+The woman laughed, taunting her opponent. “So, Lord Onta, are you going to stand there impotently all day? Or will you admit defeat before I wear you down to nothing.”
+
+Lord Onta shook his head. “Lady Capricia, you never learn. It is not about who makes the most attacks, nor even about who lands the most. This is about who endures.”
+
+At the same time as his words, his aura flexed outward as if his authority were trying to grab a greater hold on the situation.
+
+When she opened her mouth to respond—her own aura rising to oppose his—he made his first true attack of the match, lunging forward.
+
+Most of his expanded aura fell away like smoke, leaving only a long, lance-like spike aimed straight for his opponent. As he moved, it slammed into and through her own loosely held aura, piercing toward her heart.
+
+Tala almost interfered, but she hesitated for two reasons. First, even if he managed to establish some authority over her heart—which she doubted he could actually do—he wouldn’t be able to stop it and kill her, not quickly. Second, and perhaps more importantly, Lady Capricia dodged.
+
+The result was Lord Onta’s axe-spike and aura both striking deeply into her arm, driving through the magics in the linked ring armor to split them apart, and even forcing its way through a haze of extreme heat that tried to melt the weapon before it could do true damage.
+
+That heat magic was countered by a dual response of earth and water, reinforcing the axe internally while intercepting and cooling the air to blunt the effect before it could even reach the weapon.
+
+Something about the attack had Tala frowning. That swing with his axe couldn’t have hit her in the chest… he planned for her to dodge?
+
+-It seems so, look closer.-
+
+Tala did, and instantly noticed what Alat had. The spike had gone straight into a nexus point on the woman’s inscriptions, breaking the connections and effectively removing all magical spellforms from the entire arm, even while also clearly damaging the limb on a physical level.
+
+To her credit, Lady Capricia didn’t stop despite the obvious rictus of pain that warped her features.
+
+Her hammer was already whipping around, propelled by her entire body—minus the injured arm—and an extended, magical explosion that continuously propelled it forward until impact.
+
+The jagged face of her weapon met his shield in a direct blow rather than the deflected hits she’d been able to land on that defense before. She’d anticipated his attack as much—if not more than—he’d planned for her dodge.
+
+It was a trade of blows, in which both had gambled on coming out ahead.
+
+The sound of metal on metal was like that of a falling building, and the subsequent explosion as her magic detonated in the hammer while it was still inside the indent—tearing the shield apart—flung shrapnel in every direction.
+
+Tala had kept a close eye for such things, and as soon as it was clear that the debris wouldn’t be hitting the combatants—as that would have a tangible effect on the battle—she willed it to stop and fall to the ground.
+
+The lack of magic inherent in the fragments meant that she hadn’t just taken a possible weapon from one of the dwarves either.
+
+Lord Onta reeled back, knocked off balance, and Lady Capricia pounced, raining down blow after blow, even with one arm effectively out of commission entirely.
+
+He made a valiant effort, but she didn’t let him regain his footing, and even though he landed several more devastating cuts and punctures, it just wasn’t enough, as her hammer slowly took apart his armor with glancing blow after glancing blow.
+
+The man’s style of fighting clearly relied heavily on shield use, and while he wasn’t bad with the axe—still wielded one handed due to the damage the shield’s destruction had done to that arm—he wasn’t nearly as good with that tool as he was with a shield to complement his movements and style.
+
+When the end came, it came suddenly, with a sideways swing of the hammer catching the Lord’s breastplate and hitting it with enough force that the buckles holding it in place snapped, letting the large piece of metal be thrown aside, the backplate falling free a moment later.
+
+The rest of the armor was jerked askew and disheveled. With the keystone pieces gone, it fell apart.
+
+How did that happen? Shouldn’t it have been better… oh… Oh, fascinating.
+
+-I know, right?-
+
+Lady Capricia had been purposely stressing each connection point with impacts and wild temperature changes, helped by Lord Onta’s rapid cooling whenever she managed to affect his armor with incredible heat.
+
+Thus, this catastrophic failure had only come at the end of a truly impressive campaign of slow attrition.
+
+The Lady dove forward, clearly intending a crippling blow, and Tala was ready to stop her before the man died, but Lord Onta held up a hand in surrender, causing cascading waves of reactions from the crowds, some elated, some horrified.
+
+Tala didn’t have to interfere as Lady Capricia stopped her attack, bowing in respect to her beaten opponent. “Well fought, Lord Onta.”
+
+He pulled his helmet free and tossed it down with disgust. “I wish I agreed with you, but regardless, you fought well, Lady. Congratulations. Your House will endure.”
+
+She shook her head, smiling. “No, you old fool. Our House will be stronger than ever as our progeny unify us and help us move forward.”
+
+When it didn’t seem that the dwarves had anything more to say to one another, Tala held up her hand, and quietly descended through the arena. “The winner is Lady Capricia of the House of the Little Leader. All stand and recognize the victor!”
+
+The whole assemblage stood almost as one and roared their approval and acknowledgement. Even those who had clearly rooted for Lord Onta did so, showing their solidarity and acceptance of the results.
+
+Tala smiled at the two Heads of House, no longer throwing her voice to all in attendance. “I believe you two have a wedding to officiate, is that correct?”
+
+They both nodded to her in acknowledgement. “We do, Eskau. Thank you.”
+
+“It was my honor.”
+
+Tala felt the granted authority bleed away from her as she moved back across the sand, pulling her iron spikes stoneward and out of the arena. It was a strange feeling to have that much power bleed away from her, and she had yet another, startling revelation.
+
+These duties, overseeing duels, even ‘guarding’ the Revered City Lord, are meant to allow Eskau to be truly submerged in authority, exposing them to it in ways that most will never experience. This is a rusting training tool?
+
+-Huh… I think you might be right. I hadn’t considered that. Sneaky of the Houses to engineer it that way.-
+
+Or benevolent of the Revered City Lord… especially since it gains him much as well.
+
+-True enough.-
+
+She returned to the box where Lea and Rane were waiting, Terry was splayed out on a large pillow, a bit of jerky hanging limply from his partially open beak.
+
+Tala frowned in mirthful confusion. “Is he… actually asleep?”
+
+The other two glanced his way, and Rane shrugged. “He’s been committing to his act more and more of late. At this point, I feel like it’s best to just assume that he is, whether or not it’s actually true.”
+
+Lea nodded. “Yeah, it’s clearly what he wants us to do.”
+
+Tala sighed. “Fine… You two spoil him.”
+
+Rane chuckled. “Says the woman who began feeding him when he was still actively searching for a way to kill you… her.”
+
+Tala grinned. “Still one of the best decisions I ever made.”
+
+Terry twitched slightly, and Tala felt his spirit glow with warmth and affection before he mastered himself once more. Tala’s smile grew, and she turned away from him, taking the seat that she’d occupied before.
+
+From there, the Sappherrous family watched the joining of the two ancient Houses. Seemingly, there would be a period of fifty years, during which the current heads of the Houses would retain control and advisory positions before passing the joint command to the new couple. That delay would also allow the two to settle in as a couple without the added stresses of rule to stress their relationship right out of the gate.
+
+The ceremony was nearly nothing like that of the cycling cities. Both participants were fully clad, though it was in battle gear reminiscent of their parent’s paths, she in minimal garb to allow for aggressive, quick fighting, he in heavier armor.
+
+She did have a concession to the festive nature of the occasion with red roses woven through her hair, their color matching the glow of her own ruby-dust inscriptions. Both sources of red stood out starkly against her coal-gray skin and black, intricately braided hair.
+
+The Lord and Lady each imparted a blessing upon the couple, and contrary to Tala’s expectation, the words seemed to carry an odd sort of weight to them, Reality itself seeming to ripple around the two under the pressure of authority brought to bear.
+
+Wait… Blessings are real? Are you rusting kidding me?
+
+-Tala, we knew this. Isn’t this what boons are?-
+
+…I did not consider that, actually. I guess I’d just been thinking that Sovereigns and god-beasts suddenly got that power when they reached the necessary tier. Those two are just Honored, though.
+
+-In magical power, yes, but just like you are technically Hallowed at an authority level—hidden by your magical advancement being lower—I suspect that these two would each be much higher, if their magical ability matched their authority.-
+
+Huh… So, Eskau Meallain is the opposite, magically incredibly advanced, but authoritatively lacking to the point that she’s unable to progress further.
+
+-Yes. In either case, I would hazard a guess that these Houses were founded by those at or near the Hallowed advancement, and those forebearers have passed on, or passed down, the leadership, just as these two are planning on doing.-
+
+Tala was slowly nodding in understanding. That would pass on—and even add to—the authority of the leader of the House, without conveying the magical advancement necessary to fully display the rank.
+
+-It’s actually a bit ingeniously evil.-
+
+Oh? After a moment’s consideration, her eyes widened. …Oh. Wow, yeah. Until it was realized, the head of the House would be able to absolutely slaughter those who were supposedly of the same advancement level, making the House look all the better, increasing their authority that much more.
+
+-And now that such is recognized—even if not fully understood—it effectively makes them untouchable because no one of the same rank is foolish enough to fight them, and those who they could match are one or more tiers more advanced, making it shameful for those foes to attack.-
+
+Making them safe from everyone but others so empowered.
+
+-Which might actually be the source of the previous tension between the two Houses. They were effectively the only opponents who could be a threat.-
+
+No longer.
+
+-No longer indeed.-
+
+This, of course, wouldn’t allow the Houses that function in this way to act with impunity. There were greater powers who would only allow so much leeway, even if putting a stop to it would require attacking down, but it was a buffer and a gift, which allowed far greater freedom of action. Layers upon layers.
+
+-Indeed.-
+
+When the wedding was over, and the after-festivities had wound down, the Sappherrous family headed for home, Terry still ‘sleeping’ but now in Lea’s arms.
+
+Rane was in a good mood as he reminded them of what was upcoming for them. “So, you two have a void-hold to deal with? And I apparently have a duel of my own.”
+
+Tala nodded. “So it seems.”
+
+Lea frowned. “I didn’t know that a hold had been found for us?”
+
+“Void-hold. There is a difference.” Still, Tala shrugged. “Regardless, those in charge of monitoring such things think one should be surfacing within the week, and they are rarely wrong.”
+
+“And it’s our turn?”
+
+“That’s right.”
+
+Lea firmed her shoulders and nodded once. “I’ll be ready.”
+
+Rane put his arm around her shoulders. “So will I. It seems like we’ll all have a busy week.”

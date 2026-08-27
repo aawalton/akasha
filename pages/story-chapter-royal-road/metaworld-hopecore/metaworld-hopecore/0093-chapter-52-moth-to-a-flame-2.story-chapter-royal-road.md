@@ -1,0 +1,203 @@
+---
+id: e63b4b28-bace-558b-ba73-491569ec3cf8
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 52 - Moth to a Flame (2)"
+slug: 0093-chapter-52-moth-to-a-flame-2
+partOf: metaworld-hopecore
+position: 93
+ownLength: 2964
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3469780/chapter-52-moth-to-a-flame-2"
+royalRoadId: "3469780"
+---
+
+Eppie did not need to walk far.Vaughan was holding court in the far corner, speaking to one attendee at a time, giving each attendee ample time to lay out their pitch or grievance.
+
+Her mentor dismissed whoever she was talking with a smile and a personable touch on the shoulder. The woman, a finance type, looked satisfied as she turned, saw Eppie, gave her an acknowledging nod, then moved back into the main social circle.
+
+“Is the party to your taste?” Vaughan had a smile that told Eppie more than she needed to know. “You seem to be doing well until you ran into Mister Morris Grein. He must be quite taken with you. To my knowledge, you are certainly not his type.”
+
+“He gave me his card,” Eppie retrieved the cream and gold thing like a lizard tail.
+
+“They always do,” Vaughan snorted derisively. “It’s in their nature, dear. Producers, that is.”
+
+“Just to clarify,” Eppie’s voice grew a little quieter. “My gift.”
+
+“Your gift.” Vaughan’s lips became a thin red line.
+
+“It’s not Valorie Sanders, is it?”
+
+“Do you want her to be?” Her mentor’s coolness was all she needed.
+
+From across the room, like a cat having seen the fishermen reeling in the catch, Diane Mirabelle made a beeline across three conversations, flute in hand, to join them, her eyes flashing with unmistakable schadenfreude.
+
+“Has it happened? Did I miss it?” the Vogue editor slid around Eppie, whispering, “Oh, so exquisite. I shall give myself a raise.”
+
+Gazes in the room converged, having followed Mirabelle to the private gathering. In the discreet corner of the room, under Turner’s Fishermen at Sea, the three of them stood together, a Chief Curator in her sixties, a Chief Editor in her forties, and a pixie dream girl in her teens: Balenciaga, Chanel, Givenchy, a triumvirate of French Fashion houses. The elderly ladies were teasing their young protégée, and the look on the face of their stunned child companion told the onlookers all they needed to know.
+
+These people were not acquaintances, like they were.They were members of a generational legacy.
+
+Valorie Sanders felt like a girl being borne away on strange tides.
+
+Her father, his tone less than pleased, had called her directly, and so she had no choice but to pack her bags, cancel Christmas with her boyfriend, then book it for the Four Seasons, NYC, while Woodhouse made the arrangements.
+
+A day ago, he had given her the good news.Last time, she had failed to cosy up to the high society of the arts world.For a young lady with her ambitions, failing the first step had completely derailed Sr Woodhouse’s promise to her father, and so she had been put in cold storage while things blew over.
+
+Now, things had blown over.Out of the blue, Sir Woodhouse received a missive stating that he and the young lady from last time had been invited to the Winter Gala. Lady Vaughan had apparently felt that the expulsion was too harsh, and seeing that Valorie and Eppie were schoolmates, she had reconsidered.
+
+And so, Woodhouse had thrown his weight, opened up bookings, passed her through the pipeline, and dressed her up in the only thing he could book in her size, a somewhat overbearing Alexi McQueen. The current line-up took the theme of Gothic Rose, fresh off his boundary-pushing runway shows.
+
+Presently, it was pushing more than Valorie’s considerable assets toward the Gothic Romantic.
+
+For a while, she had been perfectly managing her orbit of young men. Woodhouse had introduced her as a Senator’s daughter, not an aspiring starlet with a handful of roles under her belt, and so the lads had kept their distance, even if their eyes weren’t shy.
+
+Then, across the gallery, Valorie Sanders saw Tinkerbell in Givenchy.
+
+She saw Euphemia Fontaine standing with Juliana Vaughan and Diane Mirabelle, laughing, joking, being teased. The three of them together in the amber light of the gallery, Eppie in her black chiffon, Vaughan in her column of dark wool, Diane with the architectural certainty of classic Chanel, looked completely natural.
+
+For a brief spell, she reached out to one of the young men, only to realise that this wasn’t William.There was no William here.
+
+She felt irrevocably lost.
+
+From across the room, Eppie’s eyes turned toward her.Once.Twice.Thrice.They were talking about her.Eppie was talking about her, and smirking, and joking, and suddenly looking upset, while the other two women fell about themselves, one with quiet control and the other with classy mirth.
+
+Her ears burned like fire. A blush of blood rose from the centre of her body to flush her limbs, making her appear drunk. Something akin to a violin string was being tuned in her head, and all she could hear was the sound of horsehair on wax, making a cacophony that drowned out all sound.
+
+Euphemia Fontaine looked her way again.This time, she looked worried.
+
+What was that look? Sympathy? Why would she need HER sympathy of all things? This… No, she was NOT nobody anymore. Eppie had proven herself beyond all doubt, and this was the thing.The thing.The thing that William’s sweet Val could not stomach.She felt dizzy.She wanted to run to the balcony and purge herself of the booze and the canapé.
+
+But she couldn’t.She had promised Sir Woodhouse. As the man said, even if she had to kiss Eppie on the mouth, she would make things right with Juliana Vaughan. This was her final chance.
+
+All she had to do was hold on.
+
+“Hello there, young lady,” a deep, baritone voice penetrated her chest and brought her tumbling consciousness to heel. “I saw you from across the room, and I simply could not help myself. May we speak for a moment?”
+
+Valorie nodded. The man’s undivided attention was a rock in the world of her roaring surf.
+
+“You may have heard of me,” the man’s voice came from somewhere above her, even though she stood half a head taller in heels. “Even though I am but a humble producer from the Greins Group.”
+
+The Greins Group? The thrashing sea grew suddenly silent. The company responsible for one in six Oscars, in any given year? The producer of Shakespeare’s Lover? Of Stone Mountain? Her favourite film?
+
+All thought of Eppie Fontaine quietened at once. The violin halted its cacophony. She still felt drunk, but not enough to hurl.
+
+“Hello,” Valorie spoke sincerely for the first time since entering the room, her sparkling eyes addressing the man with a kind smile. “I am Valorie Sanders.”
+
+“Ooo…” Mirabelle placed her face close enough for Eppie to kiss. “There it is. Hook, line and sinker. Good thing our Eppie was totally disgusted. Good job, Eppie.”
+
+Vaughan shook her head with disappointment. “I am not sure what I expected. LAPA specialised in Shakespearean Pedagogy and Presentism, or so I thought. All that theatre, all that Titus, has she learned nothing? Frederick is right. Your school needs a deep cleanse.”
+
+Eppie stared at the two women, her mentors, her powerbrokers, her Aaron the Moor in Couture.
+
+WHAT THE HELL IS WRONG WITH YOU PEOPLE? Was the roaring thought in her head.
+
+“Oh no,” Mirabelle moved back a bit. “I think we upset Eppie.”
+
+“Are you upset, Eppie?” Vaughan turned her attention so completely away from Valorie that Eppie felt second-hand whiplash. “I don’t mean that as disapproval.”
+
+“Why is Val even here?” Eppie demanded. She felt oppressed, and she lacked the [Script Analysis] to explain the knotted feeling in her chest. “So she IS the gift?”
+
+Vaughan studied her for a moment, then led the trio a little further away, so that they were nestled near the resting nook with the bookshelves.
+
+“I think you know the answer,” Vaughan spoke with the idiosyncratic register of a world-renowned curator. “But I shall clarify, if only for Mirabelle.”
+
+“First, the objective purpose,” Vaughan took her hand and clasped it between her bony fingers. “A week after your In the Pines, a not very happy Frederick Curon called me with an update. He told me, as some men like to do when they feel that they’ve reached the limit of suffering alone, that his daughter had been mercilessly bullied at her school. His pet Newfoundland had been working with a reporter from the LA Times, and they had dug up some truly heinous things which her school had swept under the rug. The culmination of those sins, some little, some not so little, was his formerly flightless songbird leaping from the roof.”
+
+“Director Curon is not, of course, an actual father in any capacity, but he had an excess of energy. Whether the girl was his property, or his adopted child, or just a psychic manifestation of his mid-life crisis—I cannot say, though your Daddy dearest is the right age. What I provided was merely the space.”
+
+Eppie felt her fingers clench. So I am the culprit? The whole thing felt surreal.
+
+“I am not unfamiliar with bullies,” Vaughan spoke with a sincerity that made her heart skip a beat. “When you have an estate like mine, defending the dream becomes a bitter and frequent affair. In the years I have administered the Met, with what some critics call an iron fist, I have developed a methodology to deal with these… bullies. It is my sincere belief that the best way for a bully to learn is to allow society, reality, and certainty to illuminate the stupidity of their own choices, to make them feel, in the moment of their reflexive catastrophe, the smallness that they so often chose for their victims. That in the end, they are alone, helpless, and small. That is who they truly are. No more. No less. No euphemisms.”
+
+Eppie’s mouth opened and closed like that of a landed fish. Vaughan’s words felt so good. So REAL. So satisfying.
+
+And yet.And yet.
+
+“I did not set a trap for Miss Sanders, Euphemia,” Vaughan squeezed her frozen hand. “I merely put two people in a room, both with more desire than sense. “Valorie Sanders wants to be a star. Not an artist. A star, the kind that outshines others. She wants, specifically, to surpass you.”
+
+Is that a sin? Eppie asked herself.
+
+“Appetite aside, Mr Grein is not without merit. Did you know that since his rise to the head of the Grein Group, he has campaigned successfully for three hundred nominations and sixty-nine Academy Awards?”
+
+Eppie looked at Vaughan in horror.The hair rose on the back of her neck.
+
+Are you making them destroy themselves?
+
+No such thing. Vaughan said nothing and everything. I am merely letting them be themselves.
+
+Diane, beside the two women, sighed and gave Eppie a hug about their stiff shoulders.
+
+“The party doesn’t matter, Eppie.” Mirabelle’s voice sounded like it blew in from the frigid winter just outside the French windows. The rarified air of Lady Bracknell gave way to a darker, more intimidating persona, someone who made and unmade careers on a seasonal basis. “Unlike what you’ll choose to do.”
+
+Eppie stalked her prey.It was stupid. So stupid, but she couldn’t help herself.
+
+The insane thing is, neither Eppie nor Lana could refute Vaughan’s goodwill. Vaughan had said it was about choices, and these were indeed two people making free choices of their own free will.
+
+Who was she to obstruct them? Was she a [Usurper]?
+
+Val wants to be a star. She doesn’t need William to be a star. She’s got a whole ass [Mature Parasite], a god damn [Corruptor of Dreams] ready to raise her to absolute marketability, then pluck her Icarus wings and watch her plummet to earth, all the while filming the process in 4K Cinemascope.
+
+With her short dress, it was easy for Eppie to walk out of the room, then follow George’s secret route to appear on the second level, just over the talking trio of Val, Grein and vacant starlet-in-waiting.
+
+She wanted revenge. Holy hell, she wanted it. For Eppie, for Simone, for Mio, but god damn it, she had not expected it to come so hard and fast and in such a fucked up way.
+
+Finding a pillar and a replica of Thomas Cole's Course of Empire, she tuned her [Perfect Pitch] toward the conversation below. They had just finished talking about her father, how much Grein admired his work for supporting Hollywood, and they were now onto the main topic of conversation.
+
+“What kind of films?”  Valorie really had swallowed the bait.
+
+Grein’s hand was already on her arm, softly caressing her deep-red hair.
+
+The pitch was about a new Franchise. Something called APEXUS, derived from an 80s nostalgia line of very collectable toys. The consumers who had grown up were now adults with discretionary cash, so Data Analytics had advised the studio to start cashing in before the core audience grew too old. They were in pre-production and needed a star—a female lead.
+
+“I’ve interviewed three hundred girls, maybe more. We’ve shortlisted three after callbacks, but something’s missing.”
+
+Valorie nodded.
+
+Watching Grein slather her foe in grease, Eppie almost fainted from frustration at the sheer denseness of Senator Sanders’ daughter. Do you not see him talking at your cleavage!?
+
+Grein did that smile of his, the disarming one. “Until tonight, I was beginning to wonder if she existed.”
+
+Eppie did a read on Val’s face, and her heart sank. The stupid girl’s expression wasn’t one of suspicion or questions, or equivalent exchange. She should be asking, how many times do I have to sleep with you? How often? What’s the ratio per Oscar? Before or after delivery of goods? It was instead the expression of a young starlet looking at a fucking sunrise.
+
+“I need someone who can act,” Grein said. “A top theatre student. But she has to be young, but not too young. Eighteen is good. It’s an important distinction. She needs something natural and authentic. Real. She needs another quality as well.”“What kind of quality?” Val’s question was rhetorical.
+
+“Commitment,” Grein’s voice was like gravel. “As Senator Sanders’ daughter, you should know this. Hollywood isn’t for the faint of heart, Valorie. A girl as pretty as you, with your potential, needs to understand that the business doesn’t just operate on money. It’s give and take. We all consent to it. We are both its slave and master. That’s my advice to you, my favour to your father.”
+
+To Eppie’s surprise. Or perhaps, to her horror, Grein was wholly reasonable.
+
+“I think you should cool your head before you make any decisions,” he pointed at the balcony. “I’ll be cooling my head as well.”Then Grein squeezed Valorie’s arm, above the elbow, beside her... “No stress, eh? You got until, well, the good Dr Vaughan kicks me out, I guess.”
+
+The pair left.Without male attention, Valorie once again looked lost.Eppie ducked behind the pillar before the girl could look up, only to see her mentor step through the marble arc.
+
+“Do you see what I mean?” Vaughan leaned over the ledge.
+
+Her teacher’s voice was neither triumphant nor cruel. It was a teaching voice.
+
+“For an artist, life calls for more choices than most.”
+
+Eppie took a moment to digest her mentor’s aphorism.
+
+“Valorie Sanders has a charmed life. She is incredibly beautiful. She is talented too. She was born rich, and then her father became a sitting Senator. As a person, as an artist, the choices she had were limitless.”
+
+And yet.And yet.“And yet,” Vaughan said. “She chose to punish Luciana Mio for working harder, for being born poorer. I don’t know if she chose the method of Miss Mio’s execution, but she made the first choice all on her own.”
+
+Eppie stared at her mentor’s hands. Vaughan’s skin looked and felt like paper.
+
+“Then she chose to punish you for helping Mio. For daring to show compassion to someone she disliked. I dare say William was involved, though we cannot deny that Miss Sanders could have stopped it at any time. Not choosing is also a choice. She is a Senior. They’ve spent two months on Hamlet. There is nothing either good or bad, but thinking makes it so. She has learned nothing from Hamlet.”
+
+Eppie heard Simone’s voice, quiet as a whisper, snake its way through her chest. Valorie stared at William for a long time. Then she wanted Ramen.
+
+“Now, she may come to her senses,” Vaughan said. “Or she will choose to go with that man. Mr Grein is not a good person, Eppie. Nonetheless, he is a good businessman. He is a good campaigner. Unlike this William creature, Mr Grein is a real Producer.”
+
+Eppie watched Valorie move. Midway to the balcony, she was accosted by Sir Woodhouse. The man listened to her speak; his expression changed three times, from surprise to horror to angst. He pleaded with her. He spoke to her with his teeth clenched. He gesticulated. Eppie felt sorry for her father’s rival. He was watching his child being snatched by a bigger, meaner hawk.
+
+Valorie did not move from the trajectory of her path.
+
+“What Valorie does tonight is her choice,” Vaughan's voice was sad, wise and stern. “I don’t agree with it, but for my purpose, for your purpose. I shall respect it. As a Sander, her life is no less charmed without Grein. It’s her choice, Eppie. As your choice is yours.”
+
+Eppie also leaned over the edge, her eyes glued to her foe for all the wrong reasons.
+
+“Mirabelle called it a test. She thinks everything is a test. That I am some kind of old crone setting gingerbread for little girls sauntering through the dark woods.” Her mentor placed her hands on Eppie’s bare shoulders, as if to bestow upon her a mantle piece. “There’s no gift, Euphemia Fontaine.”
+
+“This—ma dauphine—is veritas.”

@@ -1,0 +1,99 @@
+---
+id: a3ab0880-decb-587b-97f9-72e754a5cc7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 299 Homeward"
+slug: 0314-chapter-299-homeward
+partOf: melody-of-mana
+position: 314
+ownLength: 1454
+unit: words
+ownProgress: 1454
+publishedAt: 2024-01-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1487924/chapter-299-homeward"
+royalRoadId: "1487924"
+markedReadAt: "2026-06-29T22:36:39.439Z"
+---
+
+“I cannot believe you left me here with no way to contact you and no way to get out!” I yelled at Justin as soon as he reappeared.
+
+“I was gone for five minutes, why are all these alarms going off?” he replied with equal frustration.
+
+“The kids arrived, followed closely by 'something' your system didn't tell me what, and then everything started ringing and turning red.” I gave him a second to process that. “Now I need to get up there and see that everything's all right, and quickly please! My children are up there.”
+
+Of all the things I could have said that seemed to strike a chord. Justin nodded and reached out, wrapping me in whatever spell he used to teleport and moved us both up into the building proper. I recognized the entry I'd been in not so long ago, and the enormous monster taking up nearly half of it. I had us hidden seconds before we found the kids, lying down and looking broken.
+
+“They look well at least, is that all of them?” Justin asked from within our hidden bubble.
+
+I wanted to object, and to punch him for saying they looked fine. Amara was currently being treated by both Rodrick and the priest girl, and the rest looked ready to pass out. The former was still coughing blood, but slowly seemed to be coming to.
+
+“It is, but Amara...”
+
+“I've seen many worse injuries treated by healers who looked nowhere near as competent as those two appear. I'm sure she'll be fine, and if her situation starts to degrade there are things we can do.” I turned to glare only to find him looking at me with a tolerant smile. “Look at her, she's a warrior. This is the path she has chosen, and she will be hurt during it. If she cannot take the pain then she'll need to know early, and need to find a new path. Perhaps I seem cruel, but it's best if she goes through this and survives now, not suffers later.”
+
+I sighed, he wasn't completely wrong, and while I didn't like it I knew this old man had perspective I might never get. “Alright, maybe you're right, but could we please set up the gate so we can get them home? I don't even know how you want to play this one.”
+
+“Will you trust me to handle it?” he questioned, and at my apologetic nod continued. “Good, please stay here with them while I take care of things Alana.”
+
+That was just what I did, drawing closer. If it looked like they couldn't handle Amara's injuries I could step in. While I'd never been the best healer in the world, I was still trained in the basics, and I still had plenty of mana to throw at the problem. As I calmed and took time to examine her though I realized that wouldn't be needed. She was injured, but not too badly.
+
+Illa
+
+Around the time that my cousin started to look well again there was a sound. Soft shoes on stone was something I was well enough equated with, but this time was joined by a tapping of metal. I stood, as did several of the others to face whoever was coming.
+
+An elven man entered through a side hall, followed by a golem of unusual make. It looked almost like a dog or wolf, but it moved so well, so naturally. Golems, even simple ones, were notoriously difficult to make, but this model looked like it was sleek and quick.
+
+“Goodness, what a mess,” the pale haired elf said, looking around. “Is there a reason you six are here? Or did you just seek shelter from this thing?”
+
+Rodrick was busy, so I decided to take the lead. “My mother came through here some years back, and supposedly found a way home for us. You see sir, we're a bit stuck here, our way home destroyed in a disaster in the capital.”
+
+“I was recently informed of the tragedy, yes. Your mother you say? Blonde hair, pointed ears, I heard Alana had ended up with that boy, but it's a shame she never introduced us. I'm a research colleague of sorts, you may call me J.”
+
+“Um... dad's kind of old,” I informed him.
+
+“Not to me. Now, you said you were stuck?” The way he said that told me to drop it, that I didn't get to know too much here, and so long as he could get me home I didn't really need his secrets.
+
+“Yes sir,” I said as politely as I could.
+
+“Good, if you don't mind getting your friends together and following me,” he led.
+
+As we began to move through the facility he spoke. Telling us in no uncertain terms that while he didn't begrudge us our trespass he also didn't particularly like visitors, so we were to keep our mouths shut about him being here. That was the condition for his aid, one all of us readily agreed to.
+
+“Ah, we were hoping to send a bit of aid when we got back,” Omos told him.
+
+“It won't be needed, though the thought is appreciated.” This too was said with finality. “In fact, once you're through I will be closing this gate for awhile, to prevent you from being tempted.”
+
+While I would have loved to tell people that we surged through the ruins, overcoming traps and dangers to finally reach the gate I'd had more than enough excitement to last me for several years. Now I just wanted to go home, to see my parents and my friends, and to rest.
+
+“Your golem is magnificent,” I said to him as we turned down one of the halls. “However did you get it to move so smoothly?”
+
+That got me an actual smile. “Golems are tricky things, and to make one work properly even more tricky. In my youth I had a phase where I got quite into them, making a number. Is it an interest of yours?”
+
+“Well, it's not really something I can study, as there are almost no working ones anywhere. They are neat though, a magical automaton, capable of action without supervision.”
+
+“I don't recommend no supervision. Golems are unbelievably difficult to get right, and when they go wrong they can go very wrong. You always need safeguards on safeguards for them my dear, just in case,” he told me, lightly speaking of something few could really lecture on.
+
+“Mother has one, and she said that it came with a big red button to turn it off, with signs and stuff.” Now he actually laughed.
+
+“Yes, the big friendly red button is a good extra, just in case. There are other methods to go to as well.” We turned into what looked like a pristine workroom and there it was, a portal. With a wave of his hand the mage turned it on, probably some unseen switch somewhere and he was just showing off.
+
+“This is it then?” Omos asked.
+
+“Yes,” the elf told him. “The other side is in Alana's workshop, off you go.”
+
+“Wait,” Rodrick uttered. “We get a way to see mom's lab!” That said he ran forward and through the glowing opening like an idiot. Seconds later he reappeared on our side once again, looking at our stunned faced. “Just kidding, needed to make sure it was safe, it is by the way.” Then he lept through once more.
+
+When the others recovered they followed him in. At least he'd saved us the drawn out questioning of how to make sure this was what the unknown man said it was. I took one last look at the dog before heading that way myself.
+
+“If you want to learn about golems I can send you some notes,” the elf offered.
+
+“Actually I'm more interested in flight, any suggestions?”
+
+“Yes, a lot of people try to push themselves up, but that's a slow way to go about it. You'll find it much easier if you can instead consider negating the force pulling you down, then build from there.”
+
+I stopped, looking at him. The pull of gravity was everywhere, and I'd never really put too much thought into it. Things fell, that was just what they did, but what if I could make it so I didn't fall, the implications. I might need to rethink my whole methodology, start over again.
+
+“That's... a thought.”
+
+J chuckled. “Now, off you go lass, and good luck. Remember that most shouldn't fly, there'd be all kinds of trouble, but letting a few who are responsible is okay.”
+
+With one final thanks I stepped through after my friends.

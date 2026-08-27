@@ -1,0 +1,419 @@
+---
+id: bb04bccc-7fae-5d25-a284-99edf2464cee
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 267 - Entrance"
+slug: 0024-chapter-267-entrance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 24
+ownLength: 3805
+unit: words
+ownProgress: 3805
+publishedAt: 2023-05-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1198663/chapter-267-entrance"
+royalRoadId: "1198663"
+markedReadAt: "2026-06-29T19:36:04.141Z"
+---
+
+Tala continued her loping run, feeling quite thoroughly worn out. It hadn’t been that long since she slept, but it seemed like the increased power flowing through her had worn at her body more than she’d really realized, and then excising it from herself had left her with only the downsides.
+
+-All messages delivered and a few replies and exchanges enacted, per what we discussed.-
+
+Great. Will we have help?
+
+-Master Grediv will meet us at the nearest gate, when we arrive at Alefast.-
+
+Oh, that’s fantastic. I’m so glad he was in town. I was not looking forward to trying to convince a random Archon that we meant no harm…
+
+She was almost back.
+
+She was almost home.
+
+The level of magic in the air had been steadily rising for the last few hours, and the zeme was really starting to show some turbulence.
+
+It was odd seeing this region again in a new light.
+
+Not only was she coming from nearly the exact opposite direction, but she was also far more powerful and capable with her magesight.
+
+Oh! Terry. She had been in such a fog since the forest that she hadn’t really considered the terror bird.
+
+She opened Kit, and before she could call out, Terry flickered into being beside her.
+
+His screech of annoyance would have deafened a mundane human, even if only temporarily.
+
+Tala stumbled to the side, flinching.
+
+“Gah! Terry, that hurt!”
+
+He screeched again, fluffing his feathers in visible irritation.
+
+“I’m sorry! The forest was more taxing than I expected, and I’ve just been trying to get this trip done with.”
+
+He lowered his head and stalked forward, covering the distance that she’d stumbled away. It was only then that Tala noticed his size. Even hunched low, he still easily matched her height.
+
+She stepped back a bit more, the large terror following her. “I apologize! I didn’t mean to leave you in there, unknowing how I fared.”
+
+Terry slowed, squinting at her.
+
+“I should have called you out as soon as I was free of the woods.”
+
+He chirped in aggressive affirmation.
+
+“Will you forgive me?”
+
+Straightening, he let out a long series of random trills that to Tala sounded like nothing so much as her mother ranting about one of the littlest siblings. It was an oddly nostalgic feeling, for all it was more than a decade old.
+
+Because I’m so near to home? That was likely. “I know you were worried about me. I said I was sorry.”
+
+Terry cut off his trilling and glared.
+
+“I know that doesn’t make it better, and I know this is the second time that you’d have preferred to be out sooner on this trip. Will you forgive me?”
+
+His demeanor shifted, and he shook himself before chirping once in affirmation.
+
+“Thank you.”
+
+Terry didn’t reply further, instead shrinking down until his head barely came up to her waist.
+
+“You want to run with me the rest of the way?”
+
+The bird’s look conveyed exactly how stupid he felt that question was.
+
+“Fine. Let’s go.” She quickly inspected his neck, and was able to just see the collar hiding beneath his feathers, and only then because it was her magic that was mirrored into it.
+
+As they ran, Tala very carefully placed a white-armored finger on the collar and refilled it with her power. That would have been… less than great.
+
+Thus, Tala arrived at the southeastern gate into Alefast, Waning, sometime in the midmorning, Terry at her side.
+
+The wall stood tall to either side of the gate, and Tala felt nervous energy building within her as she approached.
+
+This was it.
+
+She was here.
+
+She was on the threshold of a real, human city.
+
+If fate was the rusting bit of slag it seemed to be of late, something was about to happen to keep her from entering.
+
+There were no guards visible from outside the city, so she approached cautiously.
+
+But nothing unexpected jumped out and stopped her.
+
+Instead, Master Grediv stepped out of the open archway and smiled. “Mistress Tala. I can see your travels have left their mark, and your avian friend has grown.” There was a sparkle of mischief in the Paragon’s eyes. “Shall we…”
+
+Tala felt his penetrating scan of her entire self, the iron on her skin definitively gaining some heat at the power behind the inspection.
+
+She saw his face fall into a perfectly blank mask.
+
+She watched as the glint left his eyes.
+
+“Why do you have a concept threaded through your entire body? Speak now, Archon.”
+
+“I am infected with a dasgannach. That is one of most pressing issues that I need assistance to address.”
+
+That seemed to take Master Grediv completely off guard. First, that was likely because she answered quickly, readily, and completely. Second, he could likely tell the truth of her words, if Tala was right in her guess, and that surely was shocking.
+
+“It is contained at the moment, but I would greatly prefer your assistance as soon as possible.”
+
+“I see.” He was frowning. “Do you have any specific ideas on what assistance you require?”
+
+A test? Or just gathering more information. “I think a teleport would be prudent.”
+
+He huffed a laugh. “You want me to teleport you to some other city, while filled with a clearly hostile concept?”
+
+“No, I assumed that wouldn’t be possible. I would like you to teleport me to the tower in this very city. That should strip the dasgannach from me.”
+
+Master Grediv frowned again but began nodding. “I can see that working, depending on the flavor of creature. For most, we could simply entice it out and heal whatever issues that caused. What is its material?”
+
+“Iron.”
+
+Once again, the ancient man seemed caught off guard. “Well, that explains the issue, then.” A long, increasingly uncomfortable silence stretched between them as Tala stood outside the gates.
+
+I knew it. This was too easy. Fate is going to sucker-punch me again right when I—
+
+“Very well. Follow closely without making contact. We need to get this sorted, immediately.”
+
+Oh.
+
+Alat barked a laugh within Tala’s head. -Well, that worked better than we’d hoped.-
+
+For now. He could still wipe us off the face of Zeme.
+
+-True, but he’s more likely to help us. That’s why we asked him to meet us, right? Because we were pretty sure he’d take the time to find the truth, rather than ‘killing it to be sure.’-
+
+True enough.
+
+Master Grediv turned and strode into Alefast, Waning, and Tala hesitated for only a moment before following, Terry heeling perfectly at her side.
+
+The guards stood back, not interfering or questioning them as they passed.
+
+“So, Mistress Tala. Tell me what I need to know about the dasgannach. Given that you’re you, I imagine there are surrounding, pertinent details?”
+
+Tala felt power thread through the air in an incredibly intricate lattice locking out any chance of them being overheard, and she had a realization. How do such workings move with us? If they locked to a specific volume of air, the working would have to drag it along with us, but it’s not doing that.
+
+“Mistress?” Master Grediv had turned to regard her. “Lost in thought so quickly?” A mirthful smile tugged at his lips. “I’d thought you’d simply ask rather than bottling yourself up.”
+
+“I’ve been in a position where I had to be more careful with my questions, at least a bit.”
+
+“That’s a pity. I always appreciated your curiosity.”
+
+Taking that for the invitation that it was, she asked. “How does your working move with us?”
+
+He turned and they started walking once more. “Your magesight has certainly improved if you can see that.”
+
+She was to his side but still out of arm’s reach. “I think it’s more a matter of magical weight than an actual improvement to the script.”
+
+“That is actually what I meant. The sharpest blade cannot slice stone without weight behind it.” He hesitated. “Well, that’s not actually true, but it gets the idea across.”
+
+“So?”
+
+“Yes, yes. How familiar are you with the fabric of reality?”
+
+She hesitated. Well, in for a copper. “Do you mean the Doman-Imithe and its backing of Zeme?”
+
+Master Grediv barked a laugh. “Oh, you are going to be a joy for the next good while, aren’t you?” He didn’t wait for her to answer. “That touches on a truly mindboggling number of things. Though, few have enough anchoring in Zeme to safely study the Doman-Imithe.”
+
+Well, that’s a difference, but I’ll wait until my question is answered at the very least.
+
+“So, I assume you know of the bits of reality that make up Zeme?”
+
+“Yes.”
+
+“Good. The best analogy is sandstone. Each bit of reality is pressed against the others until they make a coherent whole. The analogy breaks down, because of the fluid nature of some parts of reality.”
+
+Tala frowned. “What? We don’t have land moving around randomly.”
+
+“Well, we actually do, but that’s rare and not what I’m talking about.”
+
+She cocked her head and didn’t interject.
+
+“Us. People, animals, material moving around. All of it is a part of reality but isn’t locked in place.”
+
+“That… I hadn’t considered it that way.” In the Doman-Imithe, all the nodules had been tied to each other with threads of reality, and so had she and Thron. We were just manifesting more fully within the Doman-Imithe, and the nodules I was searching were oriented towards Zeme.
+
+That caused a lot of things to click into place.
+
+-Oh, rust! We just needed to flip our orientation, and we’d have popped back into Zeme.-
+
+Yeah, that sounds nice, but what does it mean? How could we have actually accomplished that?
+
+-I have no idea.-
+
+Tala grinned internally. And where would we have appeared?
+
+-Not a clue.-
+
+Master Grediv continued speaking, drawing her thoughts back, “I anchor the spellworking to myself, the fragment of reality that is ‘me,’ with distance parameters oriented on that anchor. Most spellforms actually work in this way, but Mages, by and large, don’t have the understanding to comprehend them in that way. They believe and enact their workings based on the manifestation of reality, rather than reality itself. It’s a weakness and an inefficiency that is usually corrected when an Archon Fuses, or thereabout. We always have this discussion before the Archon Refines. To do otherwise would be to kill the Mage.”
+
+Her eyes widened. “Because Refining is purifying the substance of reality, which is you.”
+
+Tala could hear the smile in his voice as he responded, “Precisely true, at the deepest levels. That is the foundation, though much else is done on top of that footing as well.”
+
+I feel like this has some insane implications and applications. “How far around myself is included in the fragment?”
+
+“That is a…”—he frowned—“that is an incredibly insightful question.”
+
+Tala let the silence hang as they walked through the streets. Wait… Why is he giving us this information now?
+
+-Well, doesn’t it remind you of your interactions with him in the past?-
+
+It really does.
+
+-So, this could be a way of verifying you’re you in a really hard to beat way?-
+
+Oh… huh… that makes sense, I suppose.
+
+The moment of silence passed, and Master Gredive began to nod. “You’ve been to the Doman-Imithe, haven’t you.” It was not a question.
+
+“Yes.”
+
+“That is a rare experience, Mistress Tala. Were you given the tools to perceive the threads and knots?”
+
+“Is that what they are actually called? I gave them that name because they seemed so to me. Though, they seemed more like protuberances to me or nodules.”
+
+“The descriptions I’ve read could be interpreted that way I suppose. I assume that is a ‘yes’ then?”
+
+“I am able to see them, yes.”
+
+That caused Master Grediv to stop, and he turned to her. “Void or Reality?” He became very still, and his demeanor gained a deadly seriousness. “You will answer now and answer honestly.”
+
+Tala had pulled up short alongside him. She considered lying. Reality sounds so much safer than void magic. I really don’t want to be smote… But her void connection was going to be obvious, even if he couldn’t read the truth of her words. “Void.”
+
+Master Grediv relaxed. “Oh, bless me, child, you don’t know what razor’s edge you danced.”
+
+“What? What would be wrong with reality magic?”
+
+He laughed, turning to continue on his way. “Every Mage who has ever bound or gained reality magics has tried to wipe out their fellows eventually. It is almost as taboo as necromancy, though far, far harder to practice so we’ve found it easier to simply address it when it comes up, rather than teaching about it specifically.”
+
+“Ahh. And void?”
+
+“Very, very rare as it can’t exist naturally in Zeme, but there have been the occasional artifacts found with magics of the void. We’ve not seen any specific pattern with Archons who bound those. So, there doesn’t seem to be any inherent influence from such.”
+
+She felt herself sigh in relief and very, very specifically didn’t look at Kit. She also didn’t look at Flow for that matter. Huh, I have void on each hip.
+
+-And woven intrinsically through the garments you wear.-
+
+Ahh, yeah. That’s true.
+
+“As to your question, it’s up for debate. It’s generally agreed that the size of your fragment of reality is related to your aura. I’m going off texts, now, but as I understand it, reality manifests oddly in Doman-Imithe. Was that your experience?”
+
+Tala barked a laugh. “That is an understatement, but yes, that’s true.”
+
+He nodded. “It works similarly for your ‘piece of reality.’ Obviously, you and I aren’t dragging the earth and air along with us as we walk, but they are within our bits of reality.”
+
+“So, as we move, the specific manifestation shifts. The underpinnings are what change, not the surface?”
+
+“That is one way to look at it, yes. We ‘own’ the deeper layers, thus ruling the surface, but the surface itself doesn’t change without specific action on our part.”
+
+Alat. Does that mean…?
+
+-I think so. I don’t know exactly how we could target fragments of reality for gravitational amplification, but I think it would be possible.-
+
+Is that what Terry does?
+
+-Well, not with gravity, but I think so. He simply doesn’t include dirt and muck in his definitional understanding of his fragment, and so that doesn’t come with him.-
+
+It was like finding the last piece of a puzzle… well, a child’s puzzle where the overall picture could be hidden by a single missing piece… and a puzzle where no one told her the picture she was aiming at. This is a really awful metaphor, actually.
+
+-Yeah, I’ve never truly thought about it, but it makes no sense.-
+
+“I can see you’re considering some deep implications, but you still haven’t told me about your unwelcome passenger.”
+
+“Oh! Right.” And so she filled him in on the collar, the two dasgannach, how they’d been modified, and so on.
+
+It took the remainder of their trip to the teleportation tower.
+
+Before they entered the tower, Master Grediv stopped. “You should leave your dimensional storage with the receptionist, since it is still not soulbound to you so it can’t teleport with you. Can your… friend wait within it?” He looked meaningfully at Terry.
+
+Tala regarded Terry, and the terror bird looked back. Finally, he squawked in resignation and bobbed a nod.
+
+Tala shrugged. “Sure. I could just put my storage on the outside wall, here?”
+
+Master Grediv nodded. “That would be interesting to see. Those always manifest a bit differently. I assume you’ve merged it with a syphon fascia?”
+
+She gave him a mildly surprised look.
+
+He chuckled. “I’m old, child. If it exists within the human cities, I’m likely aware of it, at least tangentially.”
+
+She grunted. “That’s fair.”
+
+He hesitated then smiled. “Well, with all that you’ve likely brought with you, that isn’t as true as it was a few hours ago.”
+
+Tala laughed. “Once we’ve sorted this, I’ll see what I can do to correct that alteration.”
+
+“I look forward to it.”
+
+She pulled Kit from her belt. She took a moment to consider. “Do you want to go to the hills?”
+
+Terry squawked noncommittally.
+
+“Fine, just somewhere near where I usually find you, then.” She tossed Kit at the wall, and a door grew to perfectly integrate with the side of the tower, near the main entrance. As usual, the entrance seemed to fit perfectly, looking like it had always been there.
+
+“Fascinating. Thank you for allowing me to watch.” Master Grediv smiled.
+
+Before Tala could open the door, it was ripped open, and a nearly fully flayed beast-man lunged out. “FREE! I’M FREE OF THAT FEATHERED DEMON!!!!”
+
+The bullman then saw Terry and squealed in abject terror. The next instant a flick of energy extended from the city’s defenses and turned him to ash.
+
+Tala spun on Terry. “Terry? Why was he still alive? You were supposed to kill him quickly!”
+
+Terry looked down and idly scratched at the ground while decidedly not looking her way. He trilled mournfully, clearly trying to play on her sympathies.
+
+“Get in there. We’ll talk soon enough.” She pointed vehemently through the open door.
+
+The terror bird flickered away, appearing within before the door swung shut at Tala’s will.
+
+She turned back toward Master Grediv and found him and more than a dozen other Archons staring at her with various expressions of bewilderment.
+
+Tala’s eyes flicked around to the suddenly present Refined and Paragons.
+
+One woman spoke up. “Master Grediv, sir?”
+
+Master Grediv just shook his head. “I’m as much in the dark as you. Mistress Tala?”
+
+Tala scratched the back of her head nervously. Rusting Terry. You couldn’t have just killed him when I asked? “Well, that bullman tried to kill me, so I tricked him into my sanctum, and left him for Terry to kill. That bird was supposed to be quick about it, but it seems like he was not quick about it.”
+
+Master Grediv cleared his throat. “First, you had a…” He seemed to be searching for the right word. “Elder?”
+
+“Mature.”
+
+“Mature, right. You had a Mature arcane, fully drained, in your… sanctum? Isn’t that a special designation?”
+
+She opened her mouth, then closed it. “It is… I have a lot to tell you, Master Grediv. Can we deal with my unwelcome passenger first?”
+
+The other woman, clearly the leader of the Archons who had responded to the now eliminated threat, cleared her throat. “The arcane wasn’t your unwelcome passenger?”
+
+“Well… he was one, yes, quite unintentionally so. I didn’t know he was still in there.”
+
+“How likely is it that there are any others?”
+
+Tala frowned, then went over and opened Kit. No one waited on the other side but Terry, who was giving her a chastened look.
+
+She closed the door then opened it again and saw Rob sitting on a shelf beside her bed.“Oh… Well, he’s not really a passenger? But he’s not actually a…” Tala muttered to herself, struggling for words as she closed the door. “Never mind. No one else in there. Just the one in here.”
+
+She smiled with false cheer as she tapped her own chest.
+
+The woman frowned, then Tala felt herself be delved with a form of magesight once again. The Paragon’s eyes widened, but Master Grediv intervened.
+
+“We’re dealing with that now, Mistress Ges.”
+
+Mistress Ges’s eye twitched, but she gave Master Grediv a firm, shallow bow. “As you say, Master Grediv. I do hope you will explain what is going on at some point.”
+
+“I will, when I know myself.”
+
+“Very well.” She bowed once again, and then she and the other city defenders seemed to vanish.
+
+Tala turned to Master Grediv. “I am so excited to be able to do that.”
+
+He cocked one eyebrow. “You could now, if you had the right magics.”
+
+She frowned. She’d been a bit afraid of that. “Well, rust. Fine then.”
+
+“We’ll see what we can do, but after we deal with the creature. Yes?”
+
+“Yes, please.”
+
+Master Grediv hesitated, looking at Kit on the wall of the tower. Finally, he sighed. “Bring that inside. We’ll find a better place to set it up that’s closer to where we’ll work. It seems like you might have some rather more dangerous things in there than I was expecting.”
+
+Tala sheepishly did as he asked and hung Kit from her belt once more.
+
+Together, they entered the tower.
+
+The receptionist inside was obviously a mageling, and he looked incredibly nervous.
+
+Tala felt bad for the kid. He’d likely just had all sorts of alarms going off, then probably seen the city defenders appear just outside.
+
+“G… Greetings, Master, Mistress. How can we serve you, today?”
+
+“We need a self-cycling teleport. Foreign will purging, please.”
+
+That got the young man to focus. “Yes, sir!”
+
+As the mageling manipulated a slate in front of himself, Tala heard several people in the tower begin to move quickly.
+
+She was still keeping a good distance from Master Grediv, but she spoke quietly, now that his privacy working was down. “Is this common?”
+
+“Yes and no. This is usually the best way to cleanse people of foreign issues when they pass a certain stage. You’d be surprised how many plagues we’ve stopped in their tracks by judicious use of the teleporter. Mundanes also often have their own bodies turn against them, either attacking their own biology or growing in ways they shouldn’t. A teleport of this type resets their anatomy and can allow them to get back to their lives.”
+
+Tala hadn’t considered that, honestly. So, my idea wasn’t very revolutionary.
+
+-But it seems good. That’s what we need, right?-
+
+That’s true enough.
+
+Soon, they were escorted to a teleportation room off to one side.
+
+A Fused woman explained what was going to happen. “Do you see the receiving circle over there?”
+
+Tala looked and did see it. This room, unlike the one she’d arrived back from the Academy in, had both a launcher and a receiver. “I see it.”
+
+“Good. We will simply teleport you over there. You will be fully sent out into the ether and drawn back. Please place anything not soulbound to you there.” She pointed to a series of empty shelves and stands.
+
+Tala walked over, removing Kit and her bloodstar holster from her belt.
+
+The bloodstars would have been fine, but the material that surrounded them would be needlessly stripped away if she tried to bring them with her.
+
+After a moment’s hesitation, she realized that that was it.
+
+Her clothing were her elk-leathers and bound to her. Flow was the same.
+
+“Alright. I’m ready.”

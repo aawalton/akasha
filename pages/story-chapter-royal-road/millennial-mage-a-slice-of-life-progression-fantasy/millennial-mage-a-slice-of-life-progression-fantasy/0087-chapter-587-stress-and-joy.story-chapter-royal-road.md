@@ -1,0 +1,323 @@
+---
+id: 654ac98e-c7e3-5546-a56f-b6a248ba55af
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 587 - Stress and Joy"
+slug: 0087-chapter-587-stress-and-joy
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 87
+ownLength: 2911
+unit: words
+ownProgress: 2911
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2434028/chapter-587-stress-and-joy"
+royalRoadId: "2434028"
+markedReadAt: "2026-06-29T19:38:05.170Z"
+---
+
+Tala, Lea, and Lisa spent a bit more than an hour together, and despite Tala’s hesitation, Lisa was a consummate gentleman.
+
+He interacted with Lea very well, slowly adjusting to match, and then slowly drawing her away from her odd mix of precise, clear speech and naivete. Well, he tried to help her with the naivete; he didn’t do anything about her precise speech.
+
+Lea, for her part, was rather grumpy with the fox-kin as he often pressed at the edges of her assumptions.
+
+Ironically, this made Tala consider something that she hadn’t foreseen herself giving even a passing thought.
+
+If we can have an agreement in place to protect Lea…
+
+-Yeah, Lisa would be a fantastic teacher for her.-
+
+That is definitely something worth consideration and discussing with Rane.
+
+As they were wrapping up, Lisa brought up one of the issues that they really did need to discuss. “Mistress Tala, quite a few of my kin are ready to immigrate into Ironhold at your allowance. I had forestalled them in consideration for your recent loss, and your newly arrived joy added to that delay, but I think that if we wish to allow them in, it should be sooner rather than later.”
+
+Tala grunted. “I can see that, yeah. Will they be coming in by way of your receiving anchor? I believe you were constructing such, but I never heard if it was complete.”
+
+“Yes. When I send word, they will fling their homes into the void, following that beacon. As such, they won’t have to build here. As the secondary layers of Ironhold are all but vacant, it should not increase the burden on your authority while also not requiring you—or us—to gather more mass.”
+
+Her eyes narrowed. “So, I’ll be accepting unknown magics and constructs into my home?”
+
+Lea was looking back and forth between the two, clearly trying to follow the conversation, and just as clearly not wanting to be sent away. So she was keeping herself all but silent.
+
+Lisa shrugged. “As soon as it is here, it will become known to you. They will have powerful authority within their homes—just as I do—but you will have the ultimate… sovereignty over all that is here, just as with my own home.”
+
+Tala grunted at that. She did have both perception and control within Lisa’s twisting, labyrinthine home, but she did her best to respect his privacy, just as she did with all the citizens within Ironhold. She also had a hard time understanding many parts of his home, but she wasn’t about to tell him that.
+
+-I keep close tabs. No horrid magics or vile acts can crop up on my watch… does animal torture count?-
+
+What? Yes!
+
+-Oh… Terry’s going to be disappointed…-
+
+Tala sent an unamused sense toward Alat. …You did that on purpose.
+
+-Of course, I did. I haven’t teased you much of late, and I was getting pent up.-
+
+Fine… but do please discourage Terry from being too over the top. I know that certain predators mess with their prey, but he has more sapience now. He should be above his baser instincts.
+
+-I’ll try.- Alat’s tone made her thoughts clear on the likelihood of that attempt succeeding.
+
+Just do what you can. Tala refocused on Lisa. “I do think that the arrival of fully constructed dens is acceptable. Your kin are aware of the rules? As to placement of their homes, you’ve worked out the various connection points with Lyn?”
+
+“Yes on both accounts.”
+
+“Then they may come.”
+
+Lea finally couldn’t contain herself any more. “Hurrah! More furry friends!”
+
+Lisa sighed, glancing at the girl. “I will have to convey the nature of your daughter to them if you plan on having her be able to freely move about Ironhold.”
+
+And I’ll have to do the same for the average citizenry too… Though, we can probably just show an image of her with hair, and explain that she is an honored guest.
+
+-The Talons will need to know the full truth, especially if she’s going to train with them as you’ve been considering.-
+
+Tala nodded, mostly to herself, but she responded to Lisa as well. “Understood. I will trust you to handle that issue?”
+
+He grunted at that. “Very well.”
+
+“Once they are settled in, I would enjoy meeting your kin.”
+
+“Do you wish me to hold out for a certain number for you to meet at once, wait till the influx slows down, or do the introductions in waves at certain intervals?”
+
+“I… It depends on what you have in mind?” She was uncertain.
+
+“I want to meet each of them as soon as possible!” Lea proclaimed.
+
+Tala sighed. “Lea, sweet, please don’t interrupt.”
+
+“But… you weren’t talking.” Lea deflated a bit, seeming somewhat confused.
+
+Tala gave a small smile, patting Lea on the shoulder. “Yes, but you’re interrupting the conversation.”
+
+“Oh! Oh… Okay, mom.” Lea nodded in seeming understanding.
+
+Tala smiled at her daughter and turned back to Lisa. “I think if it will be a quick meeting, then I’m happy to do it for each individual, or each group, as you feel they are settled and ready for the meeting. If it will be a big to-do, I’d probably prefer to do it in larger groups. Please coordinate with Lyn about what you both think would be best, as well as when choosing the exact timing.”
+
+“Very well.” Lisa paused for a moment, clearly contemplating. Then he gave a lower bow. “Mistress Tala, young Lea, it has been a pleasant afternoon. Thank you for the invitation, the tea, and the time.”
+
+The two bowed slightly in return, Lea deeper than Tala. As they all straightened, Tala willed Lisa back to just outside his own front door.
+
+She could have placed him back in his home, but doing so would have strained the polite fiction of the privacy of that place.
+
+Lea let out a long breath and flopped down. “Oh, people are exhausting.”
+
+Tala hid a smile, sitting down in her own chair and grabbing her coffee. “Oh?”
+
+Lea nodded vigorously. “I have to constantly think of how to talk to them without misspeaking, and I have to be careful in how I act, and I have to be quiet when I have to and speak when I have to… It makes me want to sleep.”
+
+Tala let her smile show then. “I know what you mean. I too prefer time to myself.”
+
+“Not with dad?” Lea’s eyes widened in clear uncertainty.
+
+Tala chuckled. “Sometimes. I love your father, and I enjoy being with him most of the time, but occasionally, I just need time to myself.”
+
+“Not me.” Lea shook her head vehemently. “I always want to be with you and dad… and Uncle Terry.” She frowned. “Other people are fine every once in a while.”
+
+“Well, I’m glad you feel that way.”
+
+Lea shifted down in her seat. “It would have been better if he’d let me pet him.”
+
+“Lea… That isn’t appropriate.”
+
+“Why not?” She sat up a bit, clearly interested in the answer. “Uncle Terry lets me pet him.”
+
+Tala’s eye twitched, but she decided to try to keep things on topic. “Well, imagine if a random person came up and started stroking your arm.”
+
+“That’s… odd?”
+
+“What would you think? What would you do?”
+
+“I guess I’d be confused, and I’d ask them why they were doing that.”
+
+“And if they said ‘because you’re soft?’”
+
+“Well, that’s a lie… I’m quite firm.”
+
+“Fine, then. What if they said that they liked the feel of your arm?”
+
+“I don’t know…” Lea seemed to be genuinely contemplating the possibility.
+
+Tala grimaced slightly. “Well, most people wouldn’t like it. Most people don’t like to be touched randomly. The fact that he told you ‘no’ when you did ask should be sufficient.”
+
+“Fine…”
+
+-Huh… Mistress Jenna is asking to meet you and Lea.-
+
+Tala’s eye twitched, and Lea immediately oriented on her. “Mom?”
+
+“Someone wants to meet you.” She sighed, deciding there was no need to dissemble.
+
+Lea narrowed her gaze, clearly thinking through what she’d seen. “But… you don’t want that?”
+
+“No… I’m okay with it, but… she’s one to push buttons.”
+
+“Well, I’m not a prototype. I have no buttons, exposed or hidden.”
+
+Tala blinked a few times before laughing. “Oh, Lea, no. It means to make someone angry or test their patience by your actions.”
+
+“Oh… why?”
+
+“Why? Why what?”
+
+“Yes, why. Why does it mean that?”
+
+“Well…” Tala frowned. Why does it mean that?
+
+“-I can guess! Imagine if you were following someone around pushing the buttons on their clothing? That would get quite irritating, no?-”
+
+“Oh!” Lea nodded. “I can see that, yes.”
+
+Tala wasn’t quite sure that was the real reason, but it fit well enough, so she decided to leave it be.
+
+-Oh! She wants to bring Mistress Elnea as well.-
+
+Well, that sealed it. Tala really couldn’t respectfully say no to that pair. “Sure, I suppose. They are welcome to drop through for a short visit… please emphasize ‘short.’”
+
+-Will do.-
+
+Tala sighed. “I’m sorry, Lea. We’re going to have some more guests this afternoon. It shouldn’t be for too long, but it is important to give a good impression. These two women have the power to make life very hard for you if things don’t go well.”
+
+Lea gave Tala a flat look. “Tired.”
+
+“Yes, I know you’re tired.”
+
+“No want people.”
+
+Tala began rubbing at her temples. “Lea, please talk properly.”
+
+The girl flopped back, falling off the chair and splaying on the ground before clearly enunciating each word. “I want to sleep.”
+
+Tala rubbed her temples a bit more furiously. Alat…
+
+-They already acknowledged and will be here in less than five minutes… I can possibly reschedule…-
+
+Tala sighed. “Lea, sweetheart. I’ll read to you tonight before bed.”
+
+“You do that already.”
+
+“Yes, but I won’t ask you to alternate pages with me this time.”
+
+That perked her up, and she turned to Tala with evident surprise. “You will?”
+
+“Yes, if you behave as we’ve taught you and work to make a good impression.”
+
+Lea stood in a rush, retaking her seat before refilling her tea cup and straightening to sit primly before the table.
+
+Well… that was easy.
+
+Soon enough, Mistress Jenna and Mistress Elnea arrived at the designated location, and Tala opened a portal for them.
+
+The two came in and gave shallow bows. “Mistress Tala, thank you for having us.”
+
+“Thank you both for taking the time.” She gave a polite smile before turning and gesturing to Lea.
+
+The girl rose to her feet and executed a rather deep bow. “I am Lea Sappherrous, daughter of Rane and Tala Sappherrous. It is a pleasure to meet you both.”
+
+The two gave slight nods to her, clear mixes of wariness and curiosity in their expressions and postures.
+
+Mistress Jenna was the first to move forward, and she practically flounced as she came around the table toward the girl. “I’m Mistress Jenna, and oh! Aren’t you just so precious?”
+
+Tala blinked a few times. This is the woman who suggested disposing of Lea, right? She hasn’t been replaced?
+
+-Yup, though she did say it wasn’t a legitimate suggestion.-
+
+That’s easy to say after the idea is rejected…
+
+-True enough.-
+
+Lea hesitated. That hesitation cost her the ability to react, and she found herself in a hug. “Oh! Ummm… hello.”
+
+Mistress Jenna pulled back, holding onto Lea’s shoulders. “You do look like your parents. Your soul is obviously their daughter, but I hadn’t expected your physicality to be so obviously related.”
+
+Lea blinked a few times. “Oh! Yes. This just seemed right.”
+
+Mistress Elnea moved forward, giving a slight bow. “I am Mistress Elnea. Good to meet you as well.”
+
+Lea smiled her way, before bowing again.
+
+“You mentioned your form feeling right. Does that mean you can control the specific shape of your body?”
+
+“Some, yes.” Then Lea frowned. “Well… no? I don’t think I could easily change it now, but I did have a level of control when I first came to be, and I ended up with these features because of that.”
+
+“Fascinating.” The City Stone holder gave a slow nod.
+
+Tala was a bit on edge. Mistress Elnea was bound to the City Stone of Bandfast, and Mistress Jenna was the primary Defender of the city, making this a very influential duo. Huh… Master Grediv fills both roles. I wonder if that’s easier or harder?
+
+-Well, he seems to want us to take on a City Stone holder role, he hasn’t mentioned the Prime Defender role. Maybe it’s a given? Or he’d bring it up if we ever agreed?-
+
+I don’t really see how that’s connected to what I asked, but maybe?
+
+-Yeah, yeah. The two topics seemed connected to me.-
+
+Surprisingly, despite Tala’s concern about an undercurrent of danger or expectation, the two women were nothing but kind and considerate of Lea.
+
+They asked after her experiences thus far, seemingly seeking to genuinely learn about her.
+
+Neither showed any fear or concern toward the girl, and Lea’s initial forced politeness and proper behavior soon melted into a genuine gushing about all that she’d seen and experienced over the past days.
+
+Finally, Lea seemed to have wound down, her earlier tiredness rearing its head once more.
+
+The girl curled up beside Tala and closed her eyes, her answers slowly getting shorter until they were just vaguely discernable grunts.
+
+Then, she seemed to be asleep.
+
+That seemed to greatly interest the two visitors, and Mistress Elnea asked, “She sleeps?”
+
+Tala nodded. “She does. It is an inbuilt process that functions like biological sleep. She even seems to have dreams.”
+
+“Fascinating.”
+
+The conversation turned from there, moving away from Lea.
+
+Tala used the more congenial atmosphere to run some of her thoughts about Reforging past the two advanced Archons.
+
+They didn’t really have any new advice, though they both cautioned her against scope-creep in her Reforging. Specifically, Mistress Jenna warned that if she was continually expanding and rethinking how she wanted to end up, she’d never be able to get there.
+
+Mistress Elnea nodded at that. “Oftentimes, best is the enemy of good.”
+
+Tala frowned. “Even when eternity is before us?”
+
+Mistress Elnea leaned back, momentarily considering. “It would seem obvious that with immortality achieved, you can take your time. It is even possible that such is the case, given that we obviously don’t know how all things will end up, but in our experience, those who strive for too great a step, or those who stall for other reasons, rarely actually Reforge.”
+
+Mistress Jenna nodded in silent support.
+
+Tala frowned. “What of Master Jevin? He’s been Reforging for nearly as long as there has been gated humanity, and he has now succeeded.”
+
+Mistress Jenna smiled. “Master Jevin might seem like a refutation or an exception, but I think he is actually the opposite. He didn’t reach for anything but simple humanity, and he never stopped. Even still, it took him incredible spans of time to reach this step.”
+
+Tala grunted at that. The noise caused Lea to stir and shift against her mother.
+
+Mistress Elnea regarded the sleeping Lea. “Her existence does shift things for you. You haven’t said so explicitly, but I know it does.”
+
+Tala gave a slow nod. “Honestly? I had a niggling fear that children would forever be out of reach. Lea isn’t a fix, nor a patch, but she is both a proof that under the right circumstances children are possible for us, and a joy that complicates our lives in the short term.”
+
+That brought smiles to the other women’s faces, and Mistress Elnea sighed. “Such are children. Life without them is hard to fathom, though. Even faced with eternity myself, the idea of me being the ending, a hard stop to the advance of the generations?” She shook her head. “It isn’t worth contemplating. At this point, it’s not possible as I have had… many children.”
+
+“Oh? Did you lose count?” Tala gave a teasing smile.
+
+“Not at all, but it is impolite to flaunt one's blessings where another has struggled.”
+
+Tala hesitated at that. Oh… right.
+
+Mistress Jenna cleared her throat. “Regardless, what she is saying is quite true. Lea will be a source of stress and joy for as long as she graces your life.”
+
+Tala looked down at her sleeping daughter. “She is that already…”
+
+Their smiles grew.
+
+The four sat in silence for a long few moments before the two older women stood. “We’ve already taken more of your time than we expected. There is no need to get up. Thank you for allowing us to come by and meet her.”
+
+Tala gave a nod of acknowledgement to each of them. “Thank you for coming, and for your acceptance of my daughter.”
+
+They stood, bowing in return before leaving through the portal that Tala opened for them.
+
+As that portal closed, Tala was left alone, holding her sleeping daughter.
+
+Oh, how things have changed so much, so quickly. She recalled her sister falling asleep against her in a similar fashion when they were both quite young, and the memory only brought about a small flood of sadness.
+
+Tala shifted her arm to wrap more fully around Lea.
+
+You are missed, Illie. I’m sorry that you never got to meet this niece of yours.
+
+-She would have loved her.-
+
+Yes, she would have.

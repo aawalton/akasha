@@ -1,0 +1,213 @@
+---
+id: bc134449-7e6a-5e23-aaa1-70c55d8cd5a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 702 - A Real Test"
+slug: 0210-chapter-702-a-real-test
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 210
+ownLength: 2769
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3352882/chapter-702-a-real-test"
+royalRoadId: "3352882"
+---
+
+Tala wanted to immediately form the working around herself, but she knew that such would be foolish.
+
+Make no mistake, if she’d been in battle when she had this revelation and felt the need, she would absolutely have used it on herself with little hesitation.
+
+But that wasn’t the case.
+
+Instead, she willed an apple to rest in the air just above her hand and got to work.
+
+Iron and reality iron wove together in a braided branching cord, forming the all-too-familiar form of the cohesion magic, intrinsic in endingberry flesh.
+
+She made the required alteration and modifications to make the spellform accurate and spherical. She didn’t bother trying to hug the shape of the apple for this first test.
+
+She also wove the working both star- and stoneward, filling it in on those fronts to ensure it was a complete enclosure.
+
+Even so, it wasn’t solid.
+
+Where her first use of this ability—this concept—had been a simple empowering of a soulbound item infused with her own material, this was a true forging of the magics.
+
+It wouldn’t necessarily be ‘better’, but it should be both more controllable and more efficient.
+
+Bare seconds passed before it was done, the apple floating in the center of a wire cage before the Sappherrous family.
+
+Tala took a deep breath and shifted the creation.
+
+The entire spellform expanded fractionally, drawing outward while keeping the thin, newly created passages within each spell-line fully enclosed.
+
+The iron—all of it of both types—was hers and her. As such, her gate connected to it with unsurprising ease, her throughput increased as the working activated, allowing her to maintain her other expenditures without much alteration.
+
+The spellform—...was that even the right term for it anymore? Regardless, the working came to life, drinking in magic and two other fundamental pillars rose in mirror.
+
+To Tala’s deeper perceptions, the apple’s reality node seemed to grow greater solidity, reminding her a bit of the world fragment in the way a boulder could harken to the nearby mountain, similar in kind but not scope.
+
+The threads connecting it to the world around it didn’t get stronger, but they seemed to pull more strongly on their other end, not physically moving or attracting the reality nodes linked to it, but making its relationship to them somehow mean more? Honestly, it was difficult to track exactly what was shifting.
+
+At the same time, the nodes around it that weren’t already connected to it seemed to shrink away, like magnets of the same pole or prey moving back from an ambling predator.
+
+As such, the very relationships the apple already had were made more obvious, more important, both in their existence and in the absence of others.
+
+Tala suspected that a mundane human wouldn’t be able to digest the apple at all, even if they were able to somehow find a way to eat it as it was. Their body simply wouldn’t be able either to break it apart or connect with the nutrients inside. But that was mostly a hunch based on what she was feeling through her soul and other various perceptions.
+
+On the superficial side of things, the apple and the miniscule space around it became more and more distinct from the world surrounding them in a way that was hard to quantify. Even though the apple was right there, Tala felt as if she couldn’t possibly reach it… Well, that was a bit of an exaggeration.
+
+She felt as if it would be hard to reach. Even her will began to have a harder time holding it in place, floating within the sphere. There wasn’t a true distortion of light, but it still seemed like looking at the apple was to look through the only truly clear portion of a window, all else seeming dirty or lesser in comparison.
+
+Secondarily, it felt like the affected space became more real. As silly as the idea was to her, she suddenly felt like she’d only ever read about apples, and now she was seeing one for the first time.
+
+She was sure that one bite would sustain her for longer than a feast could, and doing so would reveal all the secrets she dearly wished to know, not because it contained the answers, but because it would become the fuel she desperately needed to discover them for herself.
+
+As a Reforged, she had no doubt that she could eat it, assuming that she could find a way to maintain the effect while removing the apple from the working. Even so, she felt like doing so would be a bad idea, likely to throw off the delicate balances within her admittedly non-standard biology. The compounds and chemicals within wouldn’t react as their purely mundane counterparts would. They would have more to them, and it would take vast experimentation to figure out how that would affect non-augmented substances interacting with them.
+
+Lea’s hand began to lift, but Rane briefly caught her wrist. “Don’t fall to the temptation, Lea. It’s not…” He chuckled then, sounding a bit strained. “I was going to say, ‘It’s not real’ but that’s the point, isn’t it?” He gave a slight smirk. “The feeling is a lie, like seeing a rock momentarily heated by magic. If you take it home, thinking it will keep your house warm, you’ll freeze. It only looks this way because of the working around it.”
+
+Lea gave a slow nod. “I know… I do, but I feel a craving for it, like it’s the answer to a question I didn’t know to ask…”
+
+Tala nodded. “But it’s a manufactured answer, a construct instead of a real limb.”
+
+Lea arched an eyebrow at her mother, and Tala grimaced before barking a laugh, Lea following suit.
+
+“You know what I mean, sweet.”
+
+“I do, but isn’t that the point? It is only false if we choose away from it.”
+
+“Maybe, but you can’t seize it anyway. To seize it would be to break the working. I could pull it free, but that would remove the effect. Even so, we need to test some things. Rane? Can you impart force to it?”
+
+Rane nodded, a section of his inscriptions beginning to glow subtly as he pointed his finger at the apple.
+
+A moment passed before his eyebrows lifted, and another section came to life.
+
+Only then did the apple move within the iron cage. Tala hadn’t been locking it in place. Rather, she’d been holding it up, so when Rane nudged it to the side, it went without resistance from her.
+
+Rane grunted. “It has about as much weight as I’d expect from a Fused. Maybe even a weak Refined.” He glanced Tala’s way. “Can you make the working stronger?”
+
+She nodded. “Absolutely. This is practically as weak as I can make it, while properly filling the working with power.”
+
+“Do we see any danger?”
+
+All three shook their heads before glancing to Terry.
+
+Terry, for his part, was giving the apple a narrow-eyed inspection. Finally, the avian squawked, giving a shrug of his wings.
+
+Tala smiled. “Alright. It’s time for me to try it then.”
+
+Rane cleared his throat. “You know, we have a lot of very experienced magical researchers available to us… Shouldn’t we avail ourselves of that expertise?”
+
+Tala hesitated a moment before grimacing and sighing. “You’re right…”
+
+“-I’ll notify the war council that your departures will be delayed by a couple of hours. This is important enough for that.-”
+
+Tala looked up and to the right unnecessarily. “Thank you, Alat.”
+
+Half an hour later, Tala had gathered the arcane researchers along with Brandon, Artia, Adrill, Lisa, and a few others, demonstrating once again with the apple as magical constructs, senses, and workings swept over what she’d done.
+
+She put up with their continued examinations for a full five minutes before she asked the pertinent question, “So, shall we see what it’s like from the inside? On a person?”
+
+Lisa gave her a flat look before sweeping his gaze across the assembled researchers and sighing. “I suppose this is among the wiser choices that you’ve made…”
+
+Rane very carefully seemed to be holding his expression neutral, but the fox-kin’s eyes flicked his way regardless, understanding seeming to dawn in his eyes.
+
+“Ahh, that makes more sense.”
+
+Tala glowered. “So?”
+
+There was some muttering, but generally, it was agreed that a Reforged testing this should be safe enough.
+
+As such, Tala looked within herself, finding her iron which was already lining her inscriptions, and she shifted the reality iron within her body, not altering her composition so much as nudging exact placement. For her, it was no more a change than a mundane shifting their posture.
+
+Sure, it would take conscious effort to maintain, at least for a bit, but it wasn’t that extreme of an alteration.
+
+Then, she pulled the strands apart to create the physical and metaphysical void.
+
+Within her, there were three differences of note, when compared to the apple.
+
+First, the precious metal inscriptions already existed within her, and rather than replacing them, she effectively was sheathing them with a second layer of perfectly aligned powers, which would work in concert.
+
+Second, the spellforms, and thus this… existenceform?—Working was good enough for now.—This working was not a sphere, instead having been modified to fit her form, even projecting the effect around itself just enough to reach the edges of her skin, encompassing all of her being, at least the physical body on the superficial.
+
+These spellforms did not work to enact their magics on the expanded space parts of her being, so the new workings wouldn’t either. SImilarly, her nets of iron chains were not included in either the standard spellforms nor this new working.
+
+While the normal spellforms did integrate into her mirror selves both star- and stoneward, Tala did not extend the experiment to those, not yet.
+
+Third and finally, these were hooked directly to her gate physically, adding another level to the amount of power she could direct through them.
+
+As she opened the physical and conceptual void channels all at once, power rippled through, and she felt… good?
+
+She remembered how looking at the apple had made her feel that it was somehow more real, and now that feeling returned, but it was somehow… all encompassing, but only of herself.
+
+This world seemed fake around her, even though they were within her own space, within her self in a sense, it felt like a dream.
+
+Make no mistake, it was a vivid dream, one that she would not forget, but it wasn’t real, not like she was.
+
+In this dream, this fiction, she had a husband and an automaton-human daughter. That’s a funny thing. A human soul animating and Fused to an automaton.
+
+There was a flash of understanding as she realized that—just like in a dream—now that she recognized the truth, it was under her sway.
+
+But… this was her sanctum. It was already under her sway, and had been before her realization.
+
+There was something to that, but it would have to be secondary.
+
+She felt the connections linking to her own reality node, and even to her very soul, and she realized that there was a strange dichotomy hidden there.
+
+She knew that the weight of her node was being spread out and straining to maintain all the connections. She was weightier than anyone else around her. Rust, she had been even before this test, and that was magnified now.
+
+What was I testing again…? She couldn’t quite remember, but she knew she was meant to be observing as much as possible, so she continued to do so.
+
+My node. Her node had only so much weight to use to maintain connections, and in that moment, she knew that if she severed some of the threads linking to her, focusing on just a few—whether they linked to people or concepts—those would swell in power giving her greater unity with what lay on the other end. She might even be able to shift the distribution without cutting, but that would be much harder. Even so, this very idea, too, tickled something in the back of her mind.
+
+As she was focused inward, she saw her own soul, the brokenness more visible than ever as magical power thrummed through it.
+
+The ragged edges of the fractious portal were creating little eddies as the magic flowed through, the imperfections hampering the passage of power even as it made the power lesser for it. The outside was also seemingly covered with ragged edges, raw and raging against the world that she lived within.
+
+Her new point of view allowed her to see something else as well, her magic was acting as a counterbalance.
+
+If she was a triangle balanced on a pyramid, magic was pushing down on one of the three corners, leveling out the pressure exerted by the other two.
+
+The pyramid was not centered, leading to a need for more magic than void or reality in order for her to remain balanced, but she didn’t really understand what that meant… or how it should be.
+
+She was having trouble focusing on… well… anything, but then he was there.
+
+Her husband?
+
+Was it all just a dream? Or maybe a vision? No, it all really happened.
+
+He was really her husband.
+
+She could feel the powerful connection to him, the massive thread that joined their nodes, the bond that linked their broken souls, codependent and now leaning on one another in a way that was almost impossible to alter even as it gave them both strength and support.
+
+She reached up and ran her hand down his cheek, and the man shuddered. His words seemed like they should make sense, but she couldn’t really process them even though she heard every one. “You feel… like I’ve never felt your hand before, like you’ve always been wearing a glove, or me a mask, and now we’re skin to skin for the first time.”
+
+A part of her thought she understood, but she had to disagree. Her vague recollections of the man had him feeling vibrant, fully of life and passion. Now? Now it was like he was a life-sized doll, unreal in an almost repulsive manner. A mimicry of the man she had loved.
+
+She had a fleeting thought. If this is how reality-tainted see us, it is no wonder they don’t find killing us an issue.
+
+Tala shook herself at the thought, it somehow anchoring her through its repulsiveness.
+
+She did see Rane as not quite real, but there was an odd separation from the sensation, preventing her from applying that impression to her husband. There was an insurmountable chasm keeping past and present from distorting one another.
+
+She still knew him to be her husband and her impression of him—her love for him—remained stalwart and cohesive, untouched by this new view.
+
+Suddenly, there was a fox-kin before her.
+
+She couldn’t quite recall his name, but he had an odd, flapped hat and a knife at his belt. He tilted his head and nodded once. He didn’t seem to speak, but she still heard words. “She is stable, but we should draw her forth. May I?”
+
+Tala frowned. What was this fox-kin talking about?
+
+Rane’s voice sounded from the side, drawing her gaze. “Yes, please. She can go back in if it’s determined to be wise after.”
+
+The fox-kin nodded, and suddenly he stood before her, demanding her attention, a reflection standing behind him, a giant of a fox, twenty feet at the shoulders and looming on all four paws.
+
+Unlike the fox-kin, this fox had fur that was utterly black save for a white splash over one eye. That eye was milk-white, unlike the fierce blue of the other.
+
+The reflection threw its head back and let out a piercing, resonant howl that no one else seemed to hear. Then, the fox-kin snapped his left hand, and Tala’s gate flickered shut.
+
+It was for only an instant, but it was sufficient that the magic stopped filling her void-channels, and those snapped shut, ending the working and dropping her back into her normal mindset.
+
+Tala swayed, her mind pulling back together and trying to make sense of all she’d seen.
+
+Before her stood Kettu, a jug of some sort of alcohol in his off hand. He took another moment to examine her, grunted, and gave her a nod before striding off and flopping down beneath a tree, taking a long, long swig.
+
+An instant later, Tala was swarmed by researchers and the questions began to fall like rain.

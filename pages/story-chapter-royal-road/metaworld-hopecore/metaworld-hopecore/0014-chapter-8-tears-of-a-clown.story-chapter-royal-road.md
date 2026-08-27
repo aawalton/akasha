@@ -1,0 +1,294 @@
+---
+id: a880a217-fdf6-5ef3-b5fb-8931fdada2c6
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 8 -Tears of a Clown"
+partOf: metaworld-hopecore
+position: 14
+ownLength: 1791
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364692/chapter-8--tears-of-a-clown"
+royalRoadId: "3364692"
+---
+
+"If you're going to do it, do it with all your heart."
+
+Akio MoritaFounder of Sony
+
+The midnight flight back was uneventful.
+
+There was no security theatre, no questions for Eric, and no fans to mob her at the exit. She was not a signed artist, and Sony had decided against promoting a fifteen-year-old’s face. Whatever Will Be was a viral song that people could finally buy and share, but it wasn’t the right meta to have a place in popular media discourse.
+
+Comparatively, Deer-re-mi was going to be a slow burn, as the song would be introduced to children’s programs, kindergartens, assemblies, daycares and nurseries via the gradual infiltration of products both for leisure and education. Its impact, assuming success, would be generational, but until a certain momentum had been reached, it was best to expect nothing.
+
+With her eyes covered, she once again asked the system for a profitability report.
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+12
+
+Athletics
+
+3730
+
+Agility
+
+20
+
+Acrobatics
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+33 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime
+
+Legalism
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+22 / 28
+
+Charisma
+
+14
+
+Persuasion
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+23
+
+TRAITS :: [Prophet of Profits]
+
+Inactive :: [Weak Willed] [Demure] [Fearful]
+
+“[System], how much does it cost to increase my wisdom by 1?”
+
+2780 Causality
+
+[YES] / [No]
+
+“That’s a no from me,” she sighed. “How about [Strength] to 20?”
+
+680 Causality
+
+[YES] / [No]
+
+“Not yet, how about [Charisma]?”
+
+567 Causality
+
+[YES] / [No]
+
+"Do it,” she said to herself. For what’s to come, she needed “exceptional” charisma, if indeed there were morals to be learned, truth to be exhumed, and guilt to be tripped.
+
+[Charisma] 20
+
+A representation of the Usurper’s metaphysical presence and influence on others.The Usurper possesses exceptional charisma compared to notable leaders and speakers. You tend to command a room when addressing your audience.
+
+This innate statistic can be improved through practice and Karmic Causality
+
+She watched her number go up. There was no sensation, no feeling, but she felt strangely confident enough to sell MLM to a room full of suspicious pensioners.
+
+What else would she need in a conservatory-style high school?
+
+“[System], I want to learn a skill. Give me talent for music.”
+
+Crickets.
+
+“[System], what is the cost of musical genius? Nothing crazy… no need for Michael Jackson. I’ll take Frank Sinaratra. Hell, I’ll take a Ringo Star.” Tumbleweed. Eppie groaned. I see how it is.
+
+“[System] use [Karmic Roulette]. 1000 Causality.”
+
+[YES] Selected. Spending 1000 Karmic Causality Points
+
+Processing…Processing…
+
+Processing…Processing…
+
+Processing…Processing…
+
+"Music is a higher revelation than all wisdom and philosophy."
+
+Ludwig van Beethoven
+
+Aphorism after aphorism flooded her head.
+
+Trait Acquired
+
+[Physicality] Causality Tier (C+)
+
+You have acquired a natural talent for body control, creating vivid actions through fine motor manipulation. This trait is modified by your [Agility] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+Muse Acquired
+
+Pygmalion By George Bernard Shaw
+
+Trait Acquired
+
+[Memorisation]
+
+Causality Tier (A+)
+
+You have always possessed an excellent memory, being able to recall vast amounts of data or minute details over time. This trait is modified by your [Intelligence] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+Trait Acquired
+
+[Script Analysis]
+
+Causality Tier (B+)
+
+You are known for having a highly analytical mind, reading between the lines, and putting yourself in the shoes of both real and fictional individuals. This trait is modified by your [Wisdom] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+What in the world… Eppie felt suddenly cheated and confused. “I thought Eppie sang songs? Give me another 500 to Dasein.”
+
+[SYSTEM MESSAGE]
+
+Your Dasein is
+
+32
+
+Acquire Dasein through Karmic Reciprocity
+
+The amount she gained was… fair. It would seem that the floating exchange rate had something to do with her tampering with her [Persona] overall.
+
+But the skills she had just gotten… was it foreshadowing?
+
+Could… could Eppie’s original stream at the conservatory not be music, but in fact… theatre? Was I a theatre kid? Had she wanted to be a Broadway actor? Surely, someone like Eppie lacked both the charisma and the monetary means to sustain such a thing—though stranger things had happened.
+
+And the plays… Why am I getting karmic rights to plays?
+
+Filled with sudden disquiet, Eppie gazed at her [Causality], then grit her teeth.
+
+“Increase [Strength] to 20.”
+
+[Strength] 20
+
+A representation of the Usurper’s strength, affecting lift, pull, push and physical force.
+
+The Usurper is endowed with exceptional strength when compared to the average adult of her present world.
+
+This innate statistic can be improved through training and Karmic Causality
+
+And there it was.
+
+She now possessed “exceptional” [Potential] when compared to the average Jane of her present world in almost every way. She was a Gattaca baby, distilled from the crucible of gene-doctors until only the toughest, most capable fetus survived.
+
+She still had a long way to go, of course. Unlike nebulous qualities such as intelligence or even wisdom, it was evident from her work with Dr Hughes that her physical statistics required extensive commitment and training. What the [System] gave was merely the promise that the ceiling of her efforts could be raised, and that her progress would have no bottlenecks.
+
+Nonetheless, it was a very exciting prospect.
+
+In the year 2030, she had arrived at Advanced Yoga too late to fully appreciate its curve-toning boons and split-mastering, gravity-defying handstands.
+
+But now… she had a body that could do all that, and more.
+
+[Causality: 983]
+
+Yeah… I’ll keep that for a rainy day. Eppie cautioned herself against greed. After all, by the metrics of her recent exchange, it would barely be 15 rainy days.
+
+At 9 AM, they marched into Sony’s headquarters in Los Angeles and collected everything Eric's aides had prepared.
+
+The deeds to her two Trusts. Her EM-130 certifying that Eppie was a financially emancipated individual. And her Californian ID Card, declaring that she was effectively a legal adult.
+
+In Eric’s spacious office, he also sat her down and presented her with two credit cards and a chequebook.
+
+He held up the first card, a blue-green Bank of America VISA.
+
+“This is for your education expenses. The amount is replenished by your Karmatron Charity Trust. The account recognises almost everything you will need for your time at LAPA, but use it wisely. The card will lock itself out if there are too many questionable transactions or a single, irregular-sized transaction. There’s about 13,000 dollars in there as of now, but use it sparingly. Unless you produce new work, the replenishment from your songs will rapidly diminish over time. This is normal.”
+
+“Fair,” Eppie took the card and studied her embossed name. It wasn’t her American Express Black, but it would do for now.
+
+Eric emptied out another manila envelope. Her next card was from Wells Fargo Mastercard in a deep shiraz.
+
+“This is for your Coogan Trust. You can’t access it without a small mountain of legal fees, so just leave it until you’re eighteen. You can use the card, together with your IDs, to update the address from our legal office to your school address.”
+
+“I’ll keep my mailing address at the firm if you don’t mind?”
+
+“There’s a cost for retainment of our services, but your contract has that covered. If you do leave Sony’s stable, though—”
+
+“I understand,” Eppie slipped the second card into her Hillier Hobo.
+
+“This last one,” Eric held up the chequebook. “This is for your Charity Trust itself. You can cut a check to any organisation or individual that meets the criteria in your Trust Deed. Do you remember what those are?”
+
+“Public Good, Dissemination of Artistic Expression, Direct Partnerships with Artists and Organisations, Art Commissions for public good.”
+
+“And your non-Inurement clauses?”
+
+Eppie pulled her lips. “No gifts. No self-dealing. And total compliance with audits.”
+
+“Together with the Director’s bonus, there's an upward of a hundred thousand dollars in here right now. At this trajectory, I expect close to two hundred thousand before the cash flow from your royalties dries to a trickle. Manage this well, and you’ll be golden for decades. Remember, you chose this.”
+
+“I did indeed.” Eppie slumped on the chair. She was a broken doll. Her money. Her seed money. Within a year, she could have turned that money into ten million, no risk, no questions asked. Now, all she could ask for is for the Fund’s caretakers to invest in ETFs.
+
+“Sit up, sit properly, and close your legs,” Eric chided her from across the heavy oaken table. “You’re a trust fund kid now. Not just any student. A scholarship student of the free-paying branch, representing the best the school has to offer.”
+
+She was perfectly comfortable lounging in pants, but she sat up straight and crossed her legs. Being chided was startling, though she did appreciate Eric’s fatherly concern. After two whole weeks, her lawyer must see himself as Marshall Cogburn to her Mattie Ross.
+
+“Whelp,” Eppie felt suddenly sentimental as her eyes met those of her lawyer. Eric was feeling it much more, evidently, because a family of frogs looked to have taken up residence in the man’s mouth. “Are you going to send me off?”
+
+“It’s the least I can do,” the man from Newfoundland took a long, deep breath. “It’s been a pleasure, Miss Fontaine.”
+
+Eppie allowed the emotion travelling up her spine and inflating her chest to fully manifest through the golden ratio of her face, giving the man a smile so devastatingly genuine that she was beginning to feel like a fraud.
+
+In truth, she’d probably be seeing Eric in a few weeks, a month at most. With her [System], there was no end of songs, ideas, and karmically copyrighted material excavated from the world she had put to ruin. Each time she became “inspired”, she would need a lawyer, and Eric was someone she genuinely trusted.
+
+After all, they had spent weeks together at this point, and he was perfectly helpful, perfectly discreet, and perfectly Canadian. And though she was painfully aware that she was in the body of a fifteen-year-old—
+
+The rest, Eppie decided, was better left unsaid, even to herself.
+
+“Can I buy you lunch?” She flashed her VISA. “Give it a test run?”
+
+“Please don’t make your first transaction flag-worthy,” Eric gave her the old stink-eye. “Try to centre your spending around LAPA. If you need a major purchase, such as a phone or computer, try to use the in-house service.”
+
+“Well, the very first thing I need,” she said, flattened out her pastel pink tracksuit, and twirled. “Is a cheap new wardrobe… is there a Kmart near school?”

@@ -1,0 +1,177 @@
+---
+id: c705b0f8-cd1d-502d-a5c9-8e6567e3f532
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 83 — Every Breath You Take "
+slug: 0141-chapter-83-every-breath-you-take
+partOf: metaworld-hopecore
+position: 141
+ownLength: 2646
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3746098/chapter-83-every-breath-you-take"
+royalRoadId: "3746098"
+---
+
+"It's a nasty little song, really rather evil. It's about jealousy and surveillance and ownership."
+
+StingOn “Every Breath You Take”
+
+Thursday. LAPA. Euphemia Fontaine slept for ten hours with no alarm, no [System], and no William Chen in her dreams, waking gracelessly and slowly, like a drunken sloth.
+
+It was a rare treat, and she had earned it, for it was a terrible thing that five servings of Mexican food could do to the gastric organs of a philosophical zombie.
+
+Zara, traumatised but hopeful, had gone home to rest, safe in the knowledge that Mama Josefina was about the place, doing inspections and fixing the wear and tear of arts students, a shepherd to lone lambs like Euphemia.
+
+After washing up, Eppie changed into her theatre-blacks, mixing expensive inners with the shabbier outerwear. On the little table by the kitchenette sat a note in Josefina's looping, half-Spanish hand: Gracias for the food, mija. Tastes like home. I left one for you to heat up in the pan.
+
+Eppie did exactly that, heating the quesadilla in the pan for breakfast, letting the aromatic spices, grease, and oils challenge the [System]’s gift of perfect physiology.
+
+Then she did the chores. Sink first. Then the tables. She swept the floors, something she had never done as Lana because her mum or dad had done it, then emptied the trash and the recycling.
+
+And then, at noon, she went out for more chores.
+
+Eppie unlocked the Stray Cat Society’s steel-plated basement door and walked into the indescribable odour of cat urine, fresh poop, kibble, and rice husk litter. She opened the windows to air the place out, then changed the water, scrubbed the bowls, checked the existing food for mould, then swapped it for fresh pellets.
+
+Then she groomed the cat condo’s renters.
+
+Mrs Catch'em headbutted her shin; Mrs Mesa performed her usual belly-up con before scratching her hand. Mr Chin climbed her like she was furniture and settled into the crook of her arm with the smug entitlement of a Chinese Emperor to a concubine. She kissed the top of his head. Mr Chin allowed it, then purred so loudly the sound transmitted through her bones and into her soul.
+
+Eppie counted the kitties. Six. Seven. Eight.
+
+Almost all of the kittens were gone now, happily adopted thanks to her fame and effort, and the generous contract the society had signed with the local veterinarian society.
+
+Of the regulars, they were one short.
+
+She sat with that for a second, doing a feline rollcall via [Memorisation]. In her head, a whole Excel spreadsheet of cats was laid out like a colony of colour, each with their annotations of whiskers, colouring and battle scars.
+
+Garfield had the longest absence. No one had checked his attendance at all.
+
+Feeling paranoid, Eppie went for a jog, hoping to meet the orange tom in the nooks and crannies of the campus. She told herself it was the weather. She told herself that cats wandered. She told herself there were other cat shelters. That someone could have simply taken one home because they were so cute.
+
+After all, compared to the extreme winters of Central Park, Cal State was a warm-weathered paradise…
+
+Eppie ate lunch at The Playhouse because she had run out of time after two circuits around the Cal State campus at full sprint.
+
+Luckily for Eppie, her excellence as the budgetary officer meant she was now resting on her laurels. 10 weeks into the production cycle, her officer duties had shrunk to rubber stamping invoices she had approved weeks ago. So she helped instead with the labour itself. She ran cables with the kids assigned to electrical duty; she let Min-jun talk her ear off about a lighting design they were testing. She let a nervous Freshman describe, in exhaustive and unnecessary detail, his excitement about working with the Sophomores to pick up some hands-on experience, and how much he admired Zara.
+
+Eppie was fairly certain the amorous Freshman was just here to see Zara
+
+She also chattered with James and Madison and the others on their characterisations, helped them with their body movements, and remarked upon the sublety of their facial expressions, all watched over by Cooper, and sometimes by Costello and Seyrova.
+
+Then she jogged over to Whitman's Theatre. Across the block, Senior production was a whole other animal.
+
+For the Seniors, LAPAGANZA was the full stop to the Halcyon days of high school and the opening paragraph to the harshness of reality. Eppie watched her Seniors live that reality, particularly the technical crew relegated to the honest, unglamorous back half of the production. Eppie felt for these kids as she worked alongside them, paint under their nails and staple guns kicking against their palms, because as Freshmen, they had all dreamt of becoming Valorie or Cranshaw.
+
+She studied their determined faces as she sat next to Ms McGregor beside row upon rows of costumes with a steam cleaner, each of which had to be ironed. Amidst the mindless rhythm of her chores, her thoughts drifted back to Webber’s film set, to that machine of coordinated chaos—becoming stricken by a bleak realisation—that the everyman was blissfully ignorant of the gruelling labour required to manufacture a single minute of euphoria.
+
+Her cynical [Intelligence] illuminated the sad reality of Marx's commodity fetishism, or was this yet another tragedy of the commons? Was this why slop had become so prominent in her old world? The blood and sweat of the craft had been relegated to mythology, leaving LLMs to make something “good enough” for a public trained to consume with blind reflex, like Pac-Man.
+
+Her [Script Analysis] vomited forth a joke her professors at Wharton had once told: In 1968, the famous sociologist Robert Merton coined the “Matthew Effect,” the phenomenon where already-eminent people get disproportionate credit for collaborative work, while lesser-known contributors were erased. The irony? Merton’s own theory was derivative of Harriet Zuckerman’s dissertation, and no one, not even her Wharton lecturer by self-admission, remembered Zuckerman until he dug into Merton’s citations.
+
+Eppie looked at the giant posters of LAPAGANZA’s headlining showcase resting on the side of the stage. There were four faces plainly visible. Valorie, Nathan, Joshua and Charles. They were the Great Men and women. Valorie, having only fifteen lines of speech in the entire play, was the singularly most prominent face dominating half of the campus posters, a rather disproportionate display, even considering the centrality of Lavinia’s role.
+
+If she were the principal Lavinia, Eppie realised, Vice Principal Thomas might very well sticker “Grammy Winner” over the name of every other player.
+
+She again thought of Merric Webber. Would anyone know who directed her MTV piece? Would anyone know Priya, Reggie, Bram, Deb and Sol—? She didn’t even know the names of the others who had held the bounce cards or rigged the electrics. The only solace she had afforded them was Curon’s tacos and burritos. Was that enough?
+
+“Not like that, dear.” Ms McGregor pulled her hand aside, “You’re going to deform the sleeve.”
+
+Her wardrobe mistress showed her the proper way to iron the officers’ uniforms. For Eppie, it was the second time she had ironed anything in two lifetimes. She wondered what her mother would say if she found Lana ironing the laundry.
+
+Disquieted, Eppie distracted herself by gawking at Val, who was by herself in a private corner. Valorie was working the far wall, running the Act II blocking alone against a strip of gaffer's tape on the floor, sweat darkening the collar of her crop top.
+
+Different to before, Val practised alone by choice.
+
+Eppie swapped the finished product for the next, then kept watching. It was easy to put a label on Val, and yet, there it was: The unglamorous, unwitnessed part of a person actually trying their darndest.
+
+Her fault lines grew jagged. Eppie didn’t like that. She liked her judgements clean, geometric, and final.
+
+“Saw you staring,” a voice said, a few inches from her face. “Got any advice?”
+
+Eppie smelled the Chanel before she saw the scent’s owner looming over her.
+
+“I was merely…” Eppie cleared her throat. “...impressed.”
+
+Her coy compliment earned the hint of a smile. It was almost criminal how attractive Senator Sanders’ daughter looked with the barest of makeup. Valorie sat, and they talked, the way they'd learned to talk lately—clipped, careful, without too much laughter and evocation in case someone else was spying for William.
+
+When Ms McGregor wandered off, Valorie’s tone changed.
+
+“I haven’t gone to Will’s place once,” she said quietly, her expression still submerged in Lavinia's psyche. “Not to his house, nor to the film room. Our friends think it's official now; we’re cooled off. William doesn’t seem to mind, at least in public.”
+
+The fact that Valorie was volunteering a sitrep was… strange, to say the least, though Eppie confessed guiltily that she did have this… effect upon her employees.
+
+“But of course, he’s very persistent, in other ways,” Valorie whispered. “Gifts, inadvertent touches… comments on my blog posts…”
+
+You have a blog?! Eppie marvelled at her own ignorance before forcing her scattered thoughts to focus. On the point of William, she was not surprised at all that the boy remained attached to Valorie. She wanted to tell Val that a leash doesn't go slack just because the dog was out of frame, but hadn’t the heart to say something so crude and cruel.
+
+I have become too full o' the milk of human kindness… she told herself without irony or remorse.
+
+She didn't know what the milk portended, but she let Val sit beside her and talk, letting the girl bleed her worries dry, so that she could focus on her art.
+
+Heh… Eppie scoffed at her anxious self. How Pavlovian.
+
+Midterm break ended without ceremony, or a weekend, if Eppie had to be honest. For the theatre students, every waking hour was work.
+
+Work on the sets.Work on the costumes.Work on the lights and the rigging.Work on the blocking, the marks, the transitions. Work on the red-string mechanism, twenty meters of thread that had to be re-spooled.Work on the score, the same eight bars of harmony until the non-diegetic drama lived rent-free in her head. Work on the mic packs, the gels, the fog machine that coughed mystery smoke before it decided to work. Work on the insurance forms, chase permissions slips from folk who should have signed a week ago.
+
+Work, work, work—and somewhere underneath, like permeating mycelium, Eppie worked on herself, watching the teachers teach, and the students learn, pondering where she fitted as a [System] mandated puzzle piece.
+
+Then on Monday, the department gathered itself into the Playhouse, Sophomores and Seniors both, an all-hands “Titus Andronicus” logistics meeting. Cooper, Tyker, and Susan Carr walked beside the stage with cardboard boxes under their arms, lifting with knees and not their backs, because they were professionals.
+
+“We’re FIFTY-THREE-DAYS out,” Cooper’s voice boomed across the room without apparent effort. “And the great machine that is LAPAGANZA demands tributes. The posters are out—most of you have seen them around the campus, and the bus stops, and now, we need bodies on the streets.”
+
+“Posters will only do so much.” Susan Carr’s voice joined the Theatre Chair’s. “Those who are interested will have pre-purchased the tickets; those who are not convinced will not give it a second glance. Ergo, handing out flyers is a time-honed tradition of small and local theatre, even one as infamous as ours.”
+
+The students laughed with good, self-deprecating humour.
+
+“Like your peers musicians, students who are looking to become a part of arthouse, local, community, and small-scale theatre will find that taking to the streets is an unfortunate reality of your chosen profession,” Susan’s voice lost its lustre. “Flyers are a fact of life.”
+
+“As such,” Cooper patted the boxes. “Before I start calling out names. No. You cannot all participate. This is not an excursion. Yet, it needs to be done. Are there volunteers?”
+
+Nobody volunteered, which was no surprise to Eppie. These were middle-class kids. Corner-work was cold, tedious, and intimidating. LAPA, for all its faults, was now bourgeois. It had a marketing budget. The 2000 seats in the Whitmans could be occupied by parents, if nothing else. What the school needed instead was bodies and wallets for almost everything else.
+
+The jazz ensembles. The classical music performances. The solo showcases. The Whitman galleries. The food trucks, the venues, the merchandise. A packed-to-the-hilt LAPAGANZA was the point.
+
+“I VOLUNTEER!” Someone called out, but wasn’t finished—“I VOLUNTEER EPPIE!”
+
+The crowd roared.
+
+Eppie did not find this surprising at all. She was relatively free. She was a Sophomore. She was famous across the campus and beyond. She had a face that no one could say no to if she turned on her baby blues and held out a flyer with a smile and a please.
+
+“AND VALORIE!” Another voice from the Senior section called out.
+
+Eppie tried to find the source. It was Cranshaw, the young man playing Chiron. He wasn’t one of Val’s forever allies, but was at least an admirer.
+
+“As a staff member,” Cooper said drily, looking at the two of them standing a few feet apart. “I cannot deny the efficiency of having the two of you promote the play and the event. That said, I leave it to you to decide if this is what you wish to do. We can always draw lots for actual conscripts.”
+
+The class laughed again.
+
+“We’ll do it.”
+
+Eppie raised a hand half a second too late to object, Valorie was apparently speaking for the both of them.
+
+“We’ll need our costumes,” she said, smiling at Eppie. “Is that alright?”
+
+“I’ll allow it,” Tyker looked to Ms McGregor, who nodded. “We have spares.”
+
+“Good, I need three more volunteers. Support staff who can give our girls a hand if they’re harassed or made uncomfortable.”
+
+This time, a dozen hands went up.
+
+“Malcolm, Joshua… Chelsea,” Cooper handpicked the numbers. “Now, before any of you are sent out, your work must be finished. I am not letting you waltz about outside of campus when you should be polishing your scenes.”
+
+The trio murmured their agreement.
+
+Eppie considered Cooper’s choice of spare bodies. As one of their leading black actors, Malcolm was a solid Aaron the Moor. He was also a jock with a deep and persuasive voice matching Cooper’s. Joshua was eighteen, and pretty much a full-sized adult with a five o’clock shadow that made him look older. As for Chelsea—Eppie was fairly certain Chelsea was picked because Cooper was looking out for her and wanted a friend close by.
+
+As Eppie did not protest, the matter was settled. Susan Carr told them to come to the office for orientation and parental permission slips. Existing flyers were handed out to the class to give to family and friends, and the meeting moved on to theatre semantics.
+
+Valorie gave her an encouraging look.
+
+If you just wanted to hang out… we could have just had brunch. Eppie groaned internally. How is it that Val was clingier than Zara? Behold my boy Armand! Gone like a wisp, never to be seen again, even when I visited his workspace.
+
+It took her about a minute to forgive Val and Cooper. Maybe her co-conspirator was feeling guilty for what might befall LAPA, or maybe he was hoping the play’s success would smooth over the shame of William’s crime, thereby making it easy to face Costello afterwards.
+
+Either way, she and Val had been picked for the same reason water was wet. Flyers that stayed in pockets put butts on the seats. Pretty girls handing out flyers were hard to refuse. Such was the power of their pretty privilege.
+
+Ah well. Eppie considered if giving flyers to a stranger gave [Causality]. At least there’s one place her puzzle piece fitted.

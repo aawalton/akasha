@@ -1,0 +1,205 @@
+---
+id: a5b66a5f-10d3-5938-bea5-2dc49b8f0ad8
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 15 - Cornflake Girl (2) "
+slug: 0029-chapter-15-cornflake-girl-2
+partOf: metaworld-hopecore
+position: 29
+ownLength: 2360
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368733/chapter-15-cornflake-girl-2"
+royalRoadId: "3368733"
+---
+
+12 AM.
+
+After topping up her [Dasein], Eppie Fontaine finally finished clicking her MySpace.
+
+Eppie F has 1340 Friends!
+
++ Karmic Causality+ Karmic Causality
+
+Eppie F’s Friends comments: Displaying 20 of 1230.
+
++ Karmic Causality+ Karmic Causality
+
+Eppie F’s Blog Posts: 1 (Starry Starry Night) (Watch it on YouTube here)
+
++ Karmic Causality+ Karmic Causality
+
+When she tried to click “display all”, her laptop spontaneously burst into fire, her browser hung itself, and the server died a dog’s death. None of this actually happened, of course, but it was what Eppie felt as the clock struck midnight.
+
+Read the messages? Reply to them?
+
+She wanted to, she really did—, but with the 2007 website and its 2007 UI, she preferred a slow death by rack and wheel.
+
++ Karmic Causality+ Karmic Causality
+
+While the culprit responsible for the storm hitting the world of Fine Arts attended her daily classes, shakers and movers shook and moved across the continental USA to no avail. Universal Music Group, the world’s leading publisher of composers, producers, DJs and artists, ran into a legal brick wall when trying to contact an uncontactable teen, only to be laughed at by their neighbour in Manhattan, Sony BMG.
+
+Other music groups likewise ran into the precarious task of locating and contacting an unknown, unaccompanied minor, especially one without a public contact trail, an unknown email, or a MySpace account she did not attend.
+
+Besides Davis, Frederick Curon looked smug as a proverbial Dragon, lazily circling his desk like a Komodo Lizard that had scented blood in the water as they spoke to curator after curator from NYC to Amsterdam.
+
+With a click, Davis hung up the phone, then massaged his brows.
+
+It wasn’t his job, but Juliana Vaughan wasn’t just anybody. She had taught the curators who had taught the Met’s presiding curators, and her influence with editors and publishers was enough to open the Met’s doors for whomever she deemed desirable for the Gala.
+
+If Sony’s artists wanted exposure, there were few places as tasteful, and as clout-chasing as the red carpet Costume Art hour. Last year, single-ticket donations topped $27,000, and fashion houses like Chanel and Gucci outright bought entire tables for $200,000 in donations.
+
+But all the money in the world couldn’t open the doors to the Met if Juliana Vaughan thought you were a tasteless pretender. There were always better celebrities with more sponsors and more money to give, meaning the limited spots were a true commodity.
+
+“Well?” Curon sat his heavy buttocks on Davis’ imported, handcrafted, artisan mahogany desk. “How much?”
+
+“I offered the song for free, by which I mean we pay Eppie internally,” Davis said.
+
+“Ergh—” Curon grimaced. “Seriously? I am trying to build up her worth here.”
+
+“But Juliana made us a counteroffer. The Met isn’t without an… astronomical endowment, 1.7 billion last I checked. She says that our songbird deserves every cent, and more, and that she would be very displeased if we er… plucked our golden goose.”
+
+“Did she say pluck?” Curon snickered. “I know Juliana. She’s absolutely not the trusting type, especially when it comes to the C-suite. What’s the damage then?”
+
+Davis rolled his eyes. “So, $50,000 for the Licensing Fee, from now until the next Met Gala in May, up through to June, 2008. $8000 for the Performance Royalties, since the song will be used for the immersion chamber Dr Vaughan has in mind. She also wishes to have your girl perform the song, once, for an Artist Honorarium fee of $2000.”
+
+Curon whistled. “That’s a tidy sum, and that’s just the Met.”
+
+“As a favour to our creator, Dr Vaughan is setting a price point for your little bird,” Davis scratched his chin. “The other museums must now follow Vaughan’s lead. Euphemia’s share is only 15%, but for a child… This is an enormous sum of money. Did you say Eppie is heavily invested in a fund?”
+
+“Vanguard,” Curon nodded. “VGT ETF specifically. It’s doing spectacularly.”
+
+“Did the lawyer put her up to this?”
+
+“Eric? No, the opposite, actually, he’s invested thanks to her, or so he says.”
+
+Davis frowned, feeling a headache coming on. “This makes no sense.”
+
+“Who cares? We’re not Fund Managers. We’re circus men. What truly matters is that we haven’t recorded the song yet.” His friend was, like himself, amazed but befuddled. Somehow, with it came to Eppie Fontaine, they had stumbled into success by largely letting life happen without interference. “What did I tell you, Trent? She’s our lucky star, eh?”
+
+“She’s three for three, certainly,” Davis could not help but agree with his friend’s bravado. “But we’ve had artists do far more than that, and they earn in the multi-millions.”
+
+“Sure, and Lucia Lancet is going to be invited to the Met, is she? Or will Lucia be attending via the condition that she attend to my little bird next May, hmm?”
+
+“We better sending gifts to the board.” Davis felt the acid in his belly churn. “Cuz our little Lucia isn’t one for charity…”
+
+Wednesday.
+
+When dawn broke, Eppie decided that she needed a media manager. With everything going on, she simply didn’t have the time to reply to the messages on both MySpace and YouTube, nor did she want to abandon those avenues of fame.
+
+The reason was simple.
+
+[Causality: 24524]
+
+She was in business.
+
+A part of her had known, ALWAYS known, that the masses were where her success lay. Nonetheless, mass appeal had to come organically and naturally, as per the [System]’s quirks. Now, at last, it was time to test certain hypotheses.
+
+Today, after her English Honours, Algebra, the Post-Civil War industrialisations of the East and West Coast, and finally her Arts Block, she had a lesson with a Senior to learn the guitar.
+
+At the Quest Board, she performed her usual routine of seeing if Valorie or Simone would make an appearance, but was once more disappointed. She was confident, though, that if these girls were genuinely connected to Eppie’s death, then there was no possible way for them to remain calm while Eppie gained fame and influence.
+
+Certainly, if her old self had failed to nip a particularly nasty peer in the bud, then she would be absolutely restless knowing that one day, her compatriot would try to undermine an acquisition or merger, potentially ruining her career. Likewise, it was well worth the litigation to ensure that a rival would never show up as the CFO of an antagonistic corporation.
+
+By now, almost all of the Sophomores and a good number of the Freshmen knew who she was. The Juniors also treated her with deference, though the Seniors had their own worries to contend with, and rarely spoke to her.
+
+Something that did make her feel a little ambivalent was that Armand had disappeared off the planet—though when she sweetly asked the Arts Seniors, they said that he’s been confined to the studio to complete his Showcase, working with the tenacity of a Romantic hermit.
+
+When she heard this, Eppie dismissed her sentimentality, because it was good that Armand was embracing his destiny. The boy’s success was as good as inferred by her increase in [Causality], and it was only a matter of how successful Armand would become, not if.
+
+After her morning academics, she seriously discussed the problem of her social-media accounts with the crew. Her friends offered themselves readily, until she explained the basics of engagement, retainment and metrics, at which point their eyes glazed over. At any rate, Eppie discerned that her friends had far too much work on their plates, and that helping her would be detrimental to their well-being.
+
+This meant that she would have to manage for now, then discuss the matter in greater detail with Sony.
+
+In Theatre, their gruelling analysis of Antigone’s characters began to take shape, with groups beginning to centre around their chosen Antigones, Ismenes and Creons, while others fell into the place of the Chorus or the Technical Crew.
+
+Lines were read, critiques were given by Cooper and Seyrova, tears were shed, and inch by inch, sweat drop by sticky sweat drop, the students honed their craft.
+
+When her arts block finished at 4:30, she ventured deeper into the old Music Building until she was at G-230, a padded studio for practice.
+
+Pushing over the door, she was greeted by a smiling, somewhat star-struck Senior who introduced herself as Zara Arriaga, guitarist and amateur singer-songwriter. Her instructor was a head taller than Eppie, and carried herself with a bohemian air that juxtaposed the middle-class sensibility of her singlet top, cardigan and branded jeans combo.
+
+“So it's true then?” Her instructor unboxed a parlour guitar on loan from the school. “You’re the singer in the video?”
+
+“I am,” Eppie hid nothing. “And I am ashamed to say that I’ve got a tune in my head, but I can’t manage an instrument to let it out.”
+
+“Well, let’s put that behind us as soon as we’re able,” Arriaga laughed. “You’re more easygoing than I imagined.”
+
+“Shall I be mean?” Eppie teased the girl. “I am a total noob, so don’t be upset when you want to rip the guitar from my hands.”
+
+“LAPA has no shortage of young stars, child actors, and Nepos,” Arriaga said. Evidently, the girl was quick to trust. “It can be hard to be noticed. And those who do make it before they graduate usually make sure that everyone knows it.”
+
+“Ah,” Eppie nodded sagely. “Valorie Sanders?”
+
+Arriaga smiled. “If you knew her, you would know better than to talk behind her back.”
+
+“It’s a soundproof room,” Eppie pointed out. “Tell you what. If you tell me a secret that only the Seniors know about Valorie, then I will sing Starry Starry Night here and now, live.”
+
+The girl was at first taken aback, then she grinned mischievously. “Done. Alright, hmm… I got it.”
+
+She strummed the strings, sending up a cloud of pleasant notes. “So last summer, there was the famous incident involving her losing to Luciana Mio”
+
+“I know of this,” Eppie confirmed.
+
+“So, rumour has it, with substantiating proof, that her boyfriend, William Chen, did stuff to Mio’s parents’ Peruvian-sushi bar. A bunch of our Seniors who frequent K-town said that they saw the front all smashed up, and Mio crying while she was picking up the glass.”
+
+“Like, were they just passing by or?”
+
+“They eat there weekly to support Mio,” Arriaga said sadly. “She was so sweet. Poor Mio. I wonder where she is now.”
+
+“What, and no one did anything about this? What about the cops?”
+
+“You think cops are going to do something about crimes committed via six degrees of separation? They didn’t even manage to find the thugs who smashed the shop! The local community was pretty nice, though. Mio was obviously well loved, because some of the Seniors who admired her went and got a donation going, and they fixed the shop, but…”
+
+“You said proof earlier,” Eppie followed up. “What proof?”
+
+“Oh, there’s this guy who follows Valorie and William around. He’s like their lackey. One of the girls overheard Will saying that he’ll bring some people to visit Mio’s shop. It’s also well known that Will’s got major connections in Chinatown. When they hang, they call him Da-lou, and Valorie, young miss.”
+
+Da-lou. Big Brother. Friendly banter, or Cantonese gangspeak? Once more, the plot thickens.
+
+Arriaga sighed. “Okay. I wasn’t expecting this to be this depressing.”
+
+“Yeah…” Eppie took note. “Let’s get back to guitars. But first…”
+
+Closing her eyes, Eppie conjured a fictive Mio, then sang the dirge of Vincent van Gogh.
+
+When she was done, Arriaga was a blubbering mess. “Wow… sorry. I need a minute. I’ll be in the bathroom.”
+
+Ten minutes later, Arriaga returned, and their lesson began.
+
+Her instructor made her comfortable, then nestled the guitar and adjusted her posture until she was completely at ease, so that the “chamber is now a part of your ribcage” and that she should “Feel the vibration in your diaphragm.”
+
+Some light theory followed, but most of the lesson was practical, teaching Eppie, at first, to use her fingers to get a feel for the strings and the rawness of the sound, and showing her how to rest by performing the Apoyando.
+
+Ten minutes in, the tips of her fingers were swollen, though Zara just nodded. “You’ll be acquiring a whole hand physiology over time. The nerves, when they harden, will be better than any pick.”
+
+With [Pain Suppression], Eppie pushed on.
+
+With patience, Zara guided her fingers, bringing her offhand to rest against the third fret of the fifth string. “Like blind typing, you need to get used to the position. Don’t press in the middle, and don’t mute the sound.”
+
+With her arms around Eppie’s shoulders, she adjusted her thumb so that it rested at the centre of the neck, like a C-clamp.
+
+“Now!”
+
+Eppie played the note. The note choked.
+
+“Push through,” Zara mimed the movement.
+
+The middle-C bloomed. They were in a room made for the act, and hers was a tried-and-true instrument. The vibration travelled through the wood, struck her ribs, invaded the air of her lungs, then manifested as a [Sublime] moment.
+
+Trait Acquired
+
+[Instrument: Guitar]
+
+Causality Tier (D)
+
+You have acquired a talent for the Guitar. This trait belongs to musicians who pursue the freedom of the road and the open sky. This trait is restricted by your [Agility] statistic.
+
+This trait impacts proficiency with the Cordophone family of instruments.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+“Oh my. Did you feel that?” Zara clapped. “Now, just do that for every note and technique, and you’re good to go! Haha…”
+
+For the next hour, they overstayed their welcome by moving through the foundational range, from E2 to E4. Her song, Zara explained, primarily lived in the C3 to B4 ranges. Mastery of the mid-range was essential in achieving the union of voice and instrument.
+
+At 6:30, the custodian of the old Music Building told them to leave, and they bid one another goodbye as mentor and student, but also friends of the arts.

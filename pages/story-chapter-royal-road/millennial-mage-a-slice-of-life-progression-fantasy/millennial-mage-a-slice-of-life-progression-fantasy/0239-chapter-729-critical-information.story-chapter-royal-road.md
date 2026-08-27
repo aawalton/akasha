@@ -1,0 +1,297 @@
+---
+id: c3273b59-7cad-5928-bded-6c7251ad08de
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 729 - Critical Information"
+slug: 0239-chapter-729-critical-information
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 239
+ownLength: 3084
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3710321/chapter-729-critical-information"
+royalRoadId: "3710321"
+---
+
+Tala swept Flow across before spinning the shaft down, the motions deflecting two concept blades that tried to tell her she was already hit, voiding their efforts without even needing her will due to Flow’s form and magics.
+
+She twisted under a more mundane seeming weapon, lashing out with a kick to drive that third commander back and down into the ground.
+
+That removed one opponent from the clash momentarily, but exposed her to the return strokes of the other commanders.
+
+Instead of being concerned, she popped open a portal, launching a siege orb into the one that was further back—the magics on the sphere broke as it exited her aura, the effect taking place along that plane and turning the orb into a powerful blast of freezing air, gaining her space from that one—before flickering and appearing behind the final commander and latching onto its head with her off hand.
+
+Her very being sang with the rightness of the action as it perfectly aligned with her authority, her mandate.
+
+Her will, aura, and power bore down, assaulting the palisade of defense within the being’s body.
+
+Alat did not come to Tala’s aid to speed up the process. If the alternate interface did so, then the Black Legionnaires that the alternate interface was dispatching across the battlefield—turning her army’s temporary kills permanent—would cease, and that would be a greater loss than the faster end of a commander was worth.
+
+Unfortunately, before Tala could finish, a streak reached her from the ground, the thrown mundane sword shattering across her chestplate.
+
+Despite it imparting more energy than even one of her siege orbs, it simply wasn’t enough to penetrate her defenses. It was a powerful enough hit—expertly landed between her and the commander she’d been working on—to break her grip, drive her back, and give the beleaguered commander a reprieve.
+
+Tala growled, flashing open another portal to send a tungsten sphere tearing downward to crater the interfering automaton into the ground once more.
+
+Stay down. But she knew it wouldn’t.
+
+Still, she frowned momentarily as she swept her perception to find the third, the one she’d blasted back with a siege orb…
+
+It was wreaking havoc among some of the arcanes.
+
+She cursed, flickering to interpose herself before its next strike could land, taking the hit on her armored forearm before landing a driving uppercut into the commander, throwing it back into the sky, back toward the other two.
+
+This fight was becoming frustrating.
+
+She was winning every exchange but unable to claim true victory, and around her, her forces were suffering from the ripple-effects of her battle.
+
+It was exactly as she’d feared, a picture in blood of why she’d stayed her hand earlier.
+
+Move the clash toward their forces. That was the obvious solution, and she’d tried to do so a few times with little success. If she did succeed, it would press her harder, but she wasn’t near her limits, not yet. That’s the plan then. I’ll make it happen.
+
+* * *
+
+Terry flickered through the outer defenses of Bandfast so quickly that a sound-echo of him would appear to move away from the city were there any observer able to truly discern such.
+
+These defenses were smaller and more compact than they had been when he first visited this city more than a decade before. As he understood it, these human enclaves shrunk and shrunk until they were moved. While this city wasn’t the next to be so translocated, it was nearly so.
+
+Bandfast was on the southeastern edge of the Cycling Cities’ territory, the most vulnerable of the lot, especially given the only city further in the cycle was Makinaven, and that was an exception in many regards.
+
+Even so, Terry felt the overwhelming ocean that was the defensive magics of the city brush him, touching the collar he kept for sentimentality and his own power and spirit which reflected the magic and soul of his bonded.
+
+The defenses recognized him as safe to enter and turned away, but before they’d even finished doing so, Terry was at the madwoman’s warehouse.
+
+Mistress Holly, for her part, was already waiting for him, seemingly having sensed his approach at enough distance that she’d had time to be ready.
+
+Terry might have chastised himself—of course this woman knew what was happening around her nest—but his instinct told him that this is where he needed to be, and his instinct had never led him toward his own destruction. Now? His bonded’s fate was so tied to his, he had no need to consider if his instinct would cover her as well.
+
+The power of the woman before him had never been truly fathomable to Terry, but he knew that it surpassed his little chick. He couldn’t tell by how much, though. Not that it mattered at the moment.
+
+Mistress Holly’s voice was clipped and quick, clearly trying to figure out why he was there. “Explain.”
+
+Terry gave her a flat look.
+
+She only took a moment to realize the issue, and she produced an Archive slate from thin air, holding it out to him.
+
+He extended his mind and will to the device, shaping words across its surface.
+
+Terry rarely needed such ability in his day to day life, so he wasn’t that practiced at it. Still, he had the weight and finesse of the little one intrinsically tied to his spirit, her soul lending him parts of her being.
+
+As such, a moment later, a small paragraph of text was laid out before the powerful woman.
+
+Mistress Holly’s eyes widened, and she turned back to Terry with a look of fury. “You are absolutely sure?”
+
+He bobbed his head once.
+
+“It’s an army of some sort of Black Legion and Leshkin automata abominations?”
+
+Terry flicked his eyes back to the slate, trying to convey ‘That is what I said, yes.’
+
+Mistress Holly frowned, her eyes going momentarily vacant. Less than ten seconds later she growled. “I can’t see that area.”
+
+He almost tried to gesture at the tablet again, suddenly feeling like he might have to convince her, but she waved him off before he could.
+
+“I can’t see it, Terry. I can see the entirety of gated human territory, but that spot is almost greyed out. It was done in such a way that it doesn’t stand out if I don’t know to look.” She gave a tight smile and pulled a slab of jerky from nowhere, tossing it to Terry. “Thank you. We would have been blindsided.”
+
+Her eyes flicked to the side and the long, low peal of alarm bells began to sound throughout the city.
+
+“Do you want to fight with us, or go for Mistress Tala? My understanding is that we lost contact, but your presence means that she’s still alive at least.”
+
+Terry didn’t have to think. His instinct told him where he was needed. He turned and thrust his beak toward the south.
+
+“Go with speed.”
+
+He did just that.
+
+* * *
+
+Pillar Ifa did her best to hold her position with dignity.
+
+It helped that she, herself, had volunteered to stay behind from the assault. Her magics and concepts being focused around wide areas of effect and slow build-up of power made her rather ill-suited for the assault that she could even now see, underway in the distance.
+
+Still, it was shameful to allow so many others to go forth and risk life and limb for the honor of their Houses and peoples while she stayed behind, safe.
+
+Pillar Ifa knew her worth, and her House—that of the Frost Lance—was now an integral part of this alliance despite the rocky beginning of their interactions with the Eskau of War and House of Blood.
+
+Her eyes flicked across the skeleton force that had remained behind with her to protect this temporary camp and ensure that the assault force wasn’t flanked by any Black Legionnaires coming from the Doman-Imithe outside of the domain before them.
+
+The oddest part of her task was the monitoring of a large slate that gave regular updates of ‘all clear’ from the various portions of the alliance territory.
+
+They had not committed all of their forces to this attack—not by a long shot—but they had brought a significant portion of their strength to bear here. As such, it was critical that they keep the strategic commanders in the loop on goings on elsewhere.
+
+It had been quiet over the last days, unusually so if Pillar Ifa was being honest.
+
+Still, she would do her duty and—
+
+The large stone slab changed color, going entirely red.
+
+She strode over, arriving just in time to see letters appear across the surface, replacing the red wash.
+
+There was a Black Legion army moving at speed—under some sort of obscuration—toward the gated city of Bandfast.
+
+Pillar Ifa didn’t hesitate for an instant. It didn’t matter that the city being threatened was human. She still didn’t like them very much, but they were allied, and they’d proven themselves to be honorably so.
+
+She would do no less than match that honor.
+
+Pillar Ifa threw a hand toward the sky and a shaped column of ice launched upward, streaking upward with a wailing scream generated by the specific fluting and corrugations that the woman had wrought into its shape.
+
+When it reached the apex of her reach—nearly a five hundred feet straight up—she jerked her arm downward, triggering a detonation that tore the construct into uncountable shards of prismatic ice.
+
+The display was truly breathtaking, creating an expanding, spherical rainbow that would be visible for miles in every direction.
+
+The detonation helped draw attention as well.
+
+Around the perimeter, other watchers and backline defenders sent up similarly noticeable signals, all conveying ‘Critical new information received.’
+
+All told, it wouldn’t signal a withdrawal, but it would lead to strategic command sending investigators.
+
+In that moment, the next surprise surfaced—in this case quite literally.
+
+Black Legion squads tore from the Doman-Imithe, driving the sentries that the alliance had stationed on that side of reality before them as they were all but locked in combat.
+
+In an instant, one thing was clear, the automata weren’t seeking to kill those they were engaged with. Instead, they seemed to have their sights set on the large slate, and Pillar Ifa herself.
+
+The woman straightened, throwing one arm back—her white robes whipcracking with the motion—before she drove it forward.
+
+The domain of ice she’d built up in this region rose from the ground while keeping connection to the permafrost she’d established, lending her power.
+
+She would have been useless in the assault, but here? Now? In this time of need?
+
+She would not fail.
+
+Here I stand.
+
+* * *
+
+Tala spun in a warding circle, driving her opponents back even as she turned to glance toward the spectacular rainbow blossoming in the distance.
+
+That’s a signal that something has changed.
+
+-Indeed.-
+
+Seven other similarly unmissable signals triggered moments later, one from each launch-off point around the escarpment.
+
+Something drastic had happened.
+
+Still, Tala couldn’t go investigate herself, not yet.
+
+Her momentary reprieve ended in a wave of automata rolling over her, seemingly trying to bury her in bodies since they had no hope in taking her down in individual combat.
+
+This was the cost she paid for engaging the commanders within the enemy lines.
+
+It was one she paid gladly as it kept the devastation away from her own people.
+
+The Black Legion horde was being pressed on all sides, and they were dying in droves, Alat’s efforts rendering between ten and twenty-five percent of those deaths permanent across the entire battlefield.
+
+The difference between those two extremes depended on two things. First, how many automata were dying in any given second as more dying meant it was harder for Alat to get as many, percentage wise. Second, if Rane was free enough to lend his greatly increased metaphysical weight behind Alat’s actions.
+
+He had no finesse and little capability in this area himself, but he could be the maul behind the precise chisel that was Alat’s setup and Tala’s authority.
+
+It helped that much of the weight he was bringing to bear was a direct result of his bond with Tala, making their efforts synergize both better and more easily than if any other had attempted to assist her.
+
+In truth, anyone else trying to help would likely have slowed the process down rather than enhancing it.
+
+But that was Alat’s battleground.
+
+Tala wasn’t operating in the realm of authority, not usually, but that didn’t mean she couldn’t.
+
+After all, she had a momentary reprieve from the commanders.
+
+With a vicious grin, she swept Flow across the lunging wave of automata, using the weapon as a channel for her authority and will.
+
+As she sliced the air before the recovering enemy, her very aura hammered into the weakest of the oncoming horde.
+
+By her will and authority, every automata of sergeant class or below had their soul-spirit pairing shattered, sending them to permanent nonfunctionality.
+
+The bodies dropped practically as one, no physical damage needed to accomplish the task.
+
+The lieutenants reeled at the hit to their real defenses, but they were well enough anchored that they weathered the assault. Those more advanced kept continuing their aggressive assault.
+
+And that’s the third time.
+
+She’d found that no tactic worked more than five times, and most were countered after the first or second attempt. The mere fact that she’d been able to sweep away a large swath of these automata three times now was a boost to her confidence.
+
+The Black Legion were struggling to find a counter. She had no doubt they would, but it was nice to have their fallibility so displayed on occasion.
+
+She blocked a punch with her off hand, deflected a concept blade with Flow, and took a hit across her back from another.
+
+Her armor locked up, and portions of the magics in her back started to fritz.
+
+No. MINE.
+
+Her magics stabilized, and the concept blade that had struck her from behind bounced off, leaving only a scratch on her white armor, even that vanishing a moment later.
+
+She grinned, flipping forward to free up her feet for an upward kick.
+
+In her exuberance, she didn’t modulate her strength, and the force of the hit ripped the head from the commander’s shoulders, popping it off the neck and ending the automaton.
+
+Tala cursed. She hadn’t been in a position to make the end permanent.
+
+Still, she had removed one of her opponents from the field, and the other two clearly understood how that shifted the balance of power.
+
+Something in that idea pulled at her thoughts, and she hesitated.
+
+Power… Her eyes widened. Alat! Are there any senior commanders on the field?
+
+Alat’s response was slightly strained, but it still came fast. -None reported by those within our influence.-
+
+That was not good.
+
+If there were no senior commanders here, that meant that they were somewhere else. Brilliant insight, Tala.
+
+She put the self-recrimination aside with a growl.
+
+The calculations had just changed. Time was the greatest commodity now, and the loss of it was not acceptable.
+
+This stronghold couldn’t be left in place, but they no longer had time for a measured approach. There were to many unknowns. Even so, a smile pulled at Tala’s lips.
+
+They also no longer had reason to hold back, trying to stay ready to engage with more powerful foes. These commanders were likely the cream of the crop of the enemy forces on the field.
+
+Let’s do this.
+
+Tala flickered, appearing behind a commander, her hands snapping up to grab either side of its head.
+
+The thing began thrashing, but she bore down.
+
+The other commander arrived—having retrieved the destroyed commander’s concept sword—and began striking her with abandon.
+
+The automaton she held twisted its grip on the weapon it held and drove its own blade at her stomach again and again.
+
+Tala let the blows land, her body and magics being thrown into a tumult from the forceful imposition of reality with every powerful strike.
+
+Still, she took the trade.
+
+Her soul thrummed as she brought magic, void-magic, and reality-iron to bear, worming around and blasting through the defenses within the commander.
+
+Captains and lieutenants fell upon her, raining down blows with two handed weapons that seemed more suited to cracking city gates than for melee combat.
+
+Tala manifested iron and white steel, driving deep pylons into the ground and melding them with her armor, locking her in place.
+
+Her grip would not be broken.
+
+Still, that locational permanence cost her, and she felt each powerful blow ripple through her flesh, pulping her insides and sending cracks through the harder parts of her make-up. Should she use the existence armor? No.
+
+She needed to be fast, not lose all urgency. She just didn’t have enough control when so locked away.
+
+Three. She jerked her head to the side, accepting the powerful downward blow to her left shoulder instead of taking it on her crown. That arm lost strength, but her gauntlet locked with the other, maintaining her grip despite the loss of functionality.
+
+Two. Tala was forced to twist her right arm and draw the still stabbing commander closer so she could duck under a sweeping strike from a hammer that was closer to the size of an anvil on the end of a wagon’s axle. The hit might have snapped her neck.
+
+Not necessarily lethal, the blow would have still been inconvenient.
+
+One. She dismissed her pylons, launching vertically upward and carrying her charge even as the concept blade finally found its way through the armor over her abdomen.
+
+She screamed within her helmet as the makeup of her body was churned further, her armor and bones the only things below her neck not in near-utter ruin.
+
+Even so, the vocalization was more from rage and determination than pain.
+
+The soul-spirit pair was laid bare before her, and she tore it apart, destroying the spirit and sending the soul on to the next world.
+
+The commander vanished into her sanctum—appearing where the researchers would easily find it—and she threw her arms wide, spinning in the air to reorient like a falcon on the wing.
+
+Her vision snapped to the final commander that had been harassing her, and she gave a bloody grin from within her helmet.
+
+Next.
+
+She flickered, on the hunt once more.
+
+Terry would be proud.

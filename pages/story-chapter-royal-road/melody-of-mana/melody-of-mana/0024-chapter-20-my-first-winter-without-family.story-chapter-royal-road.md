@@ -1,0 +1,101 @@
+---
+id: a918654d-8f74-559f-bd6e-fa1a9917619e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 My first winter without family"
+slug: 0024-chapter-20-my-first-winter-without-family
+partOf: melody-of-mana
+position: 24
+ownLength: 2008
+unit: words
+ownProgress: 2008
+publishedAt: 2021-07-06
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/711600/chapter-20-my-first-winter-without-family"
+royalRoadId: "711600"
+markedReadAt: "2026-06-29T22:27:04.840Z"
+---
+
+Working at Haven's House was wonderful. Mostly because it gave me an excuse to go out during the winter and see people other than those in the orphanage. Though I will admit the pay was quite nice, I was saving it all for when I actually needed to buy something.
+
+I ended up doing dishes for two weeks before I could order myself a new dress, then another two after that as it was made. All in all the outfit was lovely. The cloth was a deep purple. It fit more comfortably than anything I'd owned in this world, and I loved it. I ordered a second in dark blue once the first was delivered, resolved to have some nice clothes.
+
+I knew that back on Earth dye colors had been restricted in the past, but it didn't seem so here. Some colors certainly were more expensive, but anyone could buy and wear them. I had thought that a bit strange, but magic existing certainly did change a number of things. I would have loved some pure black outfits, but a good, solid black was the most expensive thing sold.
+
+Around the time that my clothes got to me snow had started to fall. My constant pestering of the messenger service I'd hired had to end then, as I knew that I wouldn't be getting anything back until spring. I was still worried about my family, and about the town. I knew that whoever was left after the fighting was done was going to have a brutal winter. Unfortunately I had no choice but to accept that there was nothing I could do.
+
+Each day of winter began early. After being woken up I'd begin by doing a bit of cleanup in our room and emptying my mana, to get my chore done nice and early. My roommates would always badger me to make a bit more so they could have a snack, and I obliged.
+
+After that we had breakfast and lessons. These were much the same as they had been. Though due to the season there was more emphasis on doing handiwork than preparation, since that was what was needed now. I was still rather enjoying these, as they were calming and quite practical in nature.
+
+After lunch I would often go to work. On my days off however I'd make some extra snacks for the boys who were training. I didn't have to do this. I was making some food for the girls at night though, so it seemed fair to me, well, close enough. After that I'd sit around and do some spinning, or make belts like Sara had shown me.
+
+Our post dinner girl's hangout time was about my favorite of the day. It took me over a week to get an edible form of cheese to summon. I had almost given up when I got something that was at least similar to a parmesan. Getting it all to work right was an absolute nightmare. There were multiple flavors and sub-flavors, texture, water content, and all manner of other factors that had to be right on the mark for the cheese to taste right. It was also brutally mana intense. I could summon loaf after loaf of bread, no problem, but one or two pounds of cheese and I was spent. I suspected this had to do with how much practice I had.
+
+I dreaded going to bed though. My sleep was plagued with nightmares of Orsken. Some nights I dreamt of the people I knew, slowly starving to death. Others I would see us killing the mayor and his guards, over and over again. I couldn't shake the feeling of monstrous guilt for what we had done to those men, and as I saw their deaths repeated in my mind I was horrified at my own actions. I had nobody I could talk to about this either. I didn't dare admit to anyone that we'd revolted against the king and killed his soldiers, it would be a death sentence for sure. On the worst nights all I could do was sit there and silently cry, begging for the day to come, so that I could have something, anything to occupy my mind.
+
+Many days I had work though. I'd alternate between summoning loaves of bread and tending the tables. Our visitors were mostly locals, with a few who were staying at the tavern over the winter mixed in. Shortly after beginning to work the floor I started to learn the regulars' names and orders. My cute appearance getting me a good amount of tips from all those who thought of me as nothing more than a very hard working child.
+
+I did not take advantage of the fact that I was considered an 'orphan', as that seemed just too sleazy to me. The couple of times I was asked about my parents I told people that my dad had been drafted and my mother was busy. Which was the truth as far as I knew.
+
+One day at work I was called into the back by Mr. Haven, the owner. That was a bit odd, while he sometimes did come to the front I'd never been called to his office before. I immediately began to go over everything that had happened in the past few days, looking for something I'd done wrong.
+
+"Ah Alana, come in. I've got a bit of a request for you." He opened his door and motioned me to a chair. I was really glad that he didn't seem mad in the slightest. I wasn't sure if I could deal with explaining why I'd gotten fired to the temple staff. In fact he seemed a bit nervous.
+
+"A request?" I looked around the room for anything that seemed out of place. The only thing of note was a wooden box on his desk, about medium sized.
+
+"Yes, yes, bit unexpected. A business owner in town needs some tools recharged for her. Normally she has a wizard friend who does this, but unforeseen circumstances have arisen where he's currently unavailable." He was quite vague about all of this.
+
+"And you want me to charge them up?"
+
+"If you can my dear, that would be lovely. You'll get paid for this of course. I'll see to it that you don't lose any of what you would have made because of it."
+
+"Um... okay, what do they do?"
+
+"They maintain a field around an area which keeps out the cold and keeps everyone nicely warm. You don't see such things often, but my friend's eatery caters almost exclusively to nobles. I think they find such things quaint. One can sit in the middle of a snowstorm and still feel toasty warm. Huge waste of mana if you ask me."
+
+He took several cubes out of the box, setting them down in front of me. I hadn't seen any magical items before. The cost was just too high for most people to afford so I looked them over.
+
+I felt myself quite irked by this use of mana. So many of the people were suffering right now because of a famine our inept leadership had caused, and they were concerned about being warm in a snowstorm? I was even more put off because they couldn't at least be bothered to charge the damn things up themselves.
+
+I had to wonder for a moment how this country hadn't had some version of the French Revolution yet.
+
+"So... do I just, shove mana into them? I've never done this before." I had a spell that did the same thing, but they were certainly convenient if they could act like a battery for that.
+
+"That is my understanding, yes."
+
+Experimentally I picked one up and pushed a bit of mana into it. A few of the runes near the bottom lit up as I did so. The light crept up towards the top as more was added. I could tell when it had finished. It also left the room significantly warmer.
+
+"Turn it off if you don't mind, just press the top there." As I did so the central rune on the item went dark, though the others remained lit.
+
+There were four in total, after I'd finished up the last I looked at Mr. Haven.
+
+"There are a lot of people suffering in villages right now. Why is nobody doing anything about it? If they can waste mana for this, they can certainly help people." Some heat had worked its way into my tone as I spoke. More than was strictly necessary.
+
+"Girl you gotta understand. So far as nobles and the really rich are concerned the only useful exports of those villages are food for city folk and disposable soldiers."
+
+"What?"
+
+He sat down, motioning that I should do the same. "Most of their food is grown on specialty farms. Most of the goods they use on a daily basis are made in cities, by expert craftsmen, not in villages."
+
+"So what? If the villagers die no big deal?"
+
+"Not so far as they're thinking, no. They need numbers for their wars. Even a mage can fall to enough men, but it takes a whole lot. So they want the men for soldiers. They also know that the grain and the like flows to a lot of the city dwellers, and those city folk have to be kept happy to an extent."
+
+"But that's insane! The taxes and everything have so many just starving to death!"
+
+"I know it is girl, but the villagers can't do nothing about it. Most of the city folk won't do a thing about it either, why go against a system that's working for you?"
+
+"Won't they eventually revolt?"
+
+"Perhaps, but what happens when they do? It's hard to bust a city without a pretty well trained army. Even if you did, you'd have to get up to the noble's district, and then fight all the minor nobles living there. That's a pretty daunting task for farmers, the amount of magic that could be thrown at them would cause impossible losses."
+
+I pondered that for a bit. A region would have only one ruling family. Only one man would own the city and the lands around it, but several families of nobility might live there. These were minor nobles, one or two generations out from being married into one of these more powerful families. Those with real skill would marry back into the leading groups, while those without would slowly drift into marrying merchants, craftsmen, and the like. I'd picked up that much from conversation. I didn't know just how many there were, though it wasn't many. Nor did I know the specifics of how all this worked. It seemed that all these people could do something about the suffering around them though. They just didn't, because it didn't affect their lives.
+
+Eventually Mr. Haven came over and patted my head. "No need to worry about it too much. It don't help nothing anyways." He then gave me a smile. "Now! Back off to work with ya, food ain't gonna serve itself." I laughed as I left. He was surprisingly good at improving people's moods.
+
+I was eight now as spring broke, bringing with it the birds and new sprigs of growth, and taking the snow away. It also meant new messages were being delivered! Several weeks in, the messenger service finally had something for me.
+
+I was bouncing as I ran back to my room at the temple. My mood dropped like a stone as soon as I had the envelope open though. My own had been placed inside, with a letter attached.
+
+We regret to inform you that this letter is undeliverable as the town in question has been destroyed. Inquiries at nearby towns and the city of Hazelwood do not indicate the presence of the intended recipients nor any known relatives.
+
+I sat there completely numb, unable to process what I was going to do.

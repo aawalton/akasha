@@ -1,0 +1,227 @@
+---
+id: 883ad24e-e743-5a5a-a828-f9ec41857e82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 – Rebel Camp – Pt 2"
+slug: 0045-chapter-45-rebel-camp-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 45
+ownLength: 1996
+unit: words
+publishedAt: 2025-01-12
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2006500/chapter-45-rebel-camp-pt-2"
+royalRoadId: "2006500"
+---
+
+The group made slow progress, the massive bear carcass slowing their pace.
+
+Weaving through the trees, Kindra looked around. The branches swayed in a soft breeze. The sound of chirping birds filled the air, and eyes stared from the bushes.
+
+Reaching for her crossbow, Kindra stared at the yellow and black, slitted eyes. Scaly eyelids flicked, and a red tongue flicked out.
+
+“What is that, Dain?” Kindra asked, pointing into the bushes. A squat, scaly snout popped out. The large lizard flicked out its tongue, and she moved closer to him.
+
+“Shoot it, Kindra,” Gleon said with a grin. “Use that bow.”
+
+Kindra pulled out the crossbow and loaded a bolt.
+
+“Wait,” Gleon called.
+
+The lizard sniffed, its nostrils flaring. It stepped forward, revealing its long, green body with large wings that doubled as front legs. It chirped at Kindra, sniffing the air.
+
+“Don’t shoot,” Gleon said softly. “Step away from it, Kindra.”
+
+Kindra took a step back. “It’s a wyvern?” she asked, studying the flowing green mana.
+
+“Yes, a young forest wyvern.” Gleon stepped forward.
+
+The young wyvern sniffed at him and turned back to Kindra. It stepped forward, chirping softly and looking up at her with vibrant yellow eyes.
+
+“What’s it doing?” Kindra asked, stepping next to Dain.
+
+“Maybe you’re meant to be a wyvern rider, like the dwarves of old.” Gleon studied it.
+
+That would be cool.  Images of flying around on a wyvern filled her mind. A smile spread across her face, and the wyvern chirped at her again.
+
+“I don’t know what that means,” Kindra said to it. She turned. “Are they smart?”
+
+“They can be. Some used to bond with dwarves.” Gleon stepped toward it, and it darted away, running behind Kindra with a chirp. It poked its head out and chittered at him.
+
+“What am I supposed to do? Do I bond with it somehow?” Kindra turned, looking at the wyvern. It looked up at her, sniffed again, and chittered, moving closer to her and opening its mouth, revealing large teeth and a mouth that could fit half of her inside it.
+
+Stepping closer to Sigrid, she swallowed. “Is this safe?”
+
+“Stand closer to the middle,” Sigrid said. “It may be after the meat.” She resumed moving.
+
+Walking backward, Kindra stepped toward Gleon. The wyvern followed, walking across the forest, bounding across the land like a strange living spring.  Why me, though? I’m an artificer, and I’ve killed two of them.
+
+Staying close to Sigrid, Kindra walked with one eye on the creature.
+
+It followed and chirped at her, poking its head up and looking into her eyes. She felt a rush of mana hit her, but no runes appeared.  What? Is it casting without runes?
+
+She studied the magic. It formed some intricate pattern that surged around her. “It’s using something on me.”
+
+“It’s probably searching for a bond,” Gleon said with a grin. “Bond with it.”
+
+“How?”
+
+“Accept the magic. Let it in.”
+
+Kindra opened herself to the magic. It flooded into her.
+
+[This juvenile forest wyvern wishes to bond with you… Error: Magical incompatibility.]
+
+The spell snuffed out. The wyvern chirped at her sadly.
+
+“Sorry. That would have been fun,” Kindra replied apologetically.  Darn. So much for being a wyvern rider.  She kicked at the dirt.
+
+Sigrid turned. “What happened?”
+
+“It said my magic wasn’t compatible.” Kindra shrugged at it. “Sorry.”
+
+The wyvern chirped at her, and Gleon tossed a piece of meat at it. It caught it in its mouth and followed, chewing the meat.
+
+“Shame. That would be quite the bond,” Gleon said, moving along the cliffs.
+
+I agree.  Kindra’s focus flickered.  What’s magic compatibility?
+
+[Your innate magic is compatible with certain potential skills, bonds, and classes. Your mana is not compatible with that bond.]
+
+Well, why not?
+
+[Because you lack a strong nature affinity. You can develop one.]
+
+Kindra paused.  Is there a way to track that?
+
+[Ticket submitted.]
+
+That would be helpful.  She looked back. The wyvern continued to follow.
+
+At least it isn’t giving up.  Kindra watched the wyvern bound forward, its focus shifting to the bear and Gleon. It chirped at him.
+
+“Greedy thing,” Gleon said with a chuckle, carving off and tossing another piece of meat.
+
+The meat arced into the air, and the wyvern lurched off the ground, catching it in its mouth and swallowing it without chewing. The wyvern landed with a large thud and dashed into the brush.
+
+Kindra turned her focus to watching the mana. The wyvern dashed through the forest toward another ball of mana.  I wonder what that is.
+
+Sigrid turned. “Did it give up? I’d hoped it would try again or try others?”
+
+“I think it’s hunting.” Kindra watched the blobs of magic merge. The large one turned and bound toward her. “It’s coming back.”
+
+The wyvern burst around a tree with a large rodent in its mouth. Looking like a large gliding squirrel, the carcass flopped up and down. The wyvern bound toward Kindra and showed it to her, its yellow eyes glistening.
+
+“Very impressive,” Kindra said, a smile spreading across her face.  Is that what I want for a second class? It does sound awesome.  She waved at the creature.
+
+The wyvern bobbed its head up and down, moving closer.  Is it going to give it to me?
+
+Pausing, the wyvern jerked its head up and stared into the distance. It looked back at Kindra and chittered.
+
+“I don’t know what that means.” Kindra shrugged, and its gaze remained locked onto something.
+
+She turned and looked. A ball of mana was moving toward her at a high speed. Kindra squinted, and a blurring fairy shot out of the trees, her wings fluttering in the air and her silver hair streaming behind her. A large, green ribbon was tied around her waist.
+
+A young dwarf burst out of the trees, her green dress flowing around her. “Aika, come back!” the girl shouted.
+
+“No! I’m not a doll!” Aika zoomed forward and landed on Kindra’s shoulder, looking at the wyvern. “What? Do we kill it?”
+
+“It’s looking for someone to bond with,” Kindra replied.
+
+Aika untied the ribbon. “It’s good that you’re back.” She leaned closer. “I’m supposed to be the most ferocious fairy around, not a doll.”
+
+“Go bind with a wyvern.” Kindra laughed and pointed at it. “That’ll make you ferocious.”
+
+It chirped.
+
+“How do I do that?”Aika asked with a grin and wide eyes.
+
+“Umm… For a fairy? I have no idea.” Kindra shrugged.
+
+Sigrid laughed. “I don’t think she can. Both need to be compatible. Fairies typically bind with fae or casters. Creatures like a wyvern only bind with promising Rangers or Druids.”
+
+“Why? Why bind?” Kindra asked.
+
+“For fairies? I’m uncertain. For wyverns or other creatures, it’s a symbiotic bond to aid each other with respective skills.”
+
+Kindra looked back at the wyvern. It darted past her toward the young girl, chirping softly. The girl’s eyes went wide, and a boy poked his head out. A burst of mana surged from the wyvern and hit him.
+
+He gasped, and the wyvern tore past Kindra, heading straight toward him. A surge of magic flooded from the wyvern and hit the boy, solidifying like a rod of magic that linked the two.
+
+Kindra’s gaze remained locked on the magic, the first magic she’d seen that didn’t involve runes. Surging with light, it grew and then vanished instantly.  Well, that was amazing.
+
+The wyvern skidded to a halt. The boy grinned and rushed forward, reaching out to pat the wyvern like a big, scaly dog.
+
+“Well, now. Not every day you see that. Congratulations, Roto,” Gleon called with a chuckle.
+
+“How come he gets a wyvern, and I don’t,” the girl called with a frown.
+
+“Wyvern?” Gran poked her head out of a nearby tree and stared. “Gods guide us all.”
+
+Roto patted the wyvern. It offered him the dead squirrel, and he shook his head. “You can eat it.”
+
+The wyvern did just that, swallowing down the squirrel.
+
+So, I do need to plan my next class. Maybe crafting is a better fit anyway.  Kindra nodded. Magical and mundane items seemed ideal. She looked at the sorrowful girl.
+
+Gran patted her head. “Be happy for your brother.”
+
+“But it’s not fair,” she protested. “I want a wyvern I can fly on.”
+
+“Work hard, and you may get one,” Gran replied. She paused and studied it. “We’re going to need a better place to hide it.”
+
+“We’ll expand the cave entrance,” Gleon said, gesturing toward it.
+
+Kindra studied the wall and saw mana. However, unlike the ambient mana, it flowed in convoluted patterns, runes fading in and out as it moved.
+
+“Aika, come back. We aren’t done playing dress up,” the girl said loudly.
+
+“Nope.” Aika shook her head. “I’m not your doll, Sara. Dress up the wyvern.” She gestured to it.
+
+Kindra looked back and saw Roto patting its head. It sat there with a happy, lazy expression.
+
+Gran shut the door and walked up to him. “Roto, we need to talk to the rangers. They’ll help you understand your new responsibilities.”
+
+Gleon turned and walked straight for the cliff. Kindra followed and studied the flowing mana.  Is that an illusion?  She followed Gleon, who stepped right through it.
+
+Walking up to it, she raised her hand and waved it through the magic.  Very cool.  Stepping forward, she walked inside and looked at the small cavern. It extended into the stone, and doors dotted it like a strange checkerboard.
+
+Aika fluttered out. “Welcome to the rebel hideout.” She grinned, and the sound of small feet reached Kindra’s ears. She spun and looked at the little dwarf with two black braids.
+
+“Aika,” Sara said, a sad look spreading across her face. “Don’t you want to play?”
+
+Aika didn’t stand up. “Sara, I can’t right now. I need to show the camp to Kindra.”
+
+Sara sniffled, wiping her small hand across her nose and looking at the ground. “You don’t have to dress up. “
+
+Aika winced and turned. “Save me, Kindra,” she whispered.
+
+“Sara, why not show us the camp?” Kindra asked, walking over to her and looking down at the young dwarf who came up to her chest.
+
+Sara looked up and nodded, water in her eyes. She looked at Aika and slumped. “Sorry, Aika. It’s just—I always dreamed—of having a fairy familiar.”
+
+“Maybe you still will,” Aika said, flying over and hovering in front of her. “Maybe you will.”
+
+Sara wiped her eyes and shook her head, her cheeks red. “No. The fae and fairies left us a long time ago.”
+
+“Why did they leave?” Kindra asked, stepping closer.
+
+Sara stepped back and looked at her. She swallowed. “Because of you,” she said and looked at Aika. “That’s what I was trying to tell you.”
+
+Aika sighed. “She’s a dwarf like you. Her hair and eyes are different, but she’s not one of them. I promise you that.”
+
+The warm necklace sat against Kindra’s chest. She looked down and saw the glowing mana. A spiral of mana surrounded her body, runes surging here and there.  I need to thank Sigrid.
+
+Sara turned and studied Kindra. “How’d your hair turn white?”
+
+“I’m not sure. I woke up and couldn’t remember.” Kindra smiled at her. “But I promise that I’m not here to hurt you.”
+
+Aika smiled at the young girl. “And we’ll find a way to contact the fae. It just may take a while.”
+
+Sara turned back. “And you’ll help me find a fairy?” She paused. “Or a wyvern like my brother?”
+
+“Yes, we’ll help you,” Aika said, smiling at her and landing on her shoulder. “Now, let’s show Kindra around the place.”
+
+“Their house is over there, right?” Sara asked, walking toward a tunnel into the mountain.
+
+“That’s right,” a voice called from the cliffside. Sara walked toward it, Aika still perched on her shoulder.
+
+Kindra followed them.  I hope this one lasts longer than my last.

@@ -1,0 +1,251 @@
+---
+id: 50e5ba87-06de-52bb-a252-4359851febab
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 79 - A Change Is Gonna Come"
+slug: 0133-chapter-79-a-change-is-gonna-come
+partOf: metaworld-hopecore
+position: 133
+ownLength: 3017
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3704678/chapter-79-a-change-is-gonna-come"
+royalRoadId: "3704678"
+---
+
+A child, more than all other giftsThat earth can offer to declining man,Brings hope with it, and forward-looking thoughts.
+
+William Wordsworth"Michael"
+
+The Kiritani pre-exhibit concluded with golf claps and appreciative murmurs, joined by tasteless questions to Trent Davis regarding commercial rights for the strangely hypnotic song Sony’s tea-cup-sized Grammy winner had written for a friend.
+
+Francis Sanders, having recovered from his public display of affection and regained a part of his Senatorial self, expressed a silent gratitude to Eppie, then more vocally to Kiritani Sensei and to Juliana Vaughan, who made this all possible.
+
+You can squeeze the feeling out of the politician, but you can’t peel away the performativity. Eppie sighed internally as, each to each, the cast slid on their mask once more. To be wholly genuine, it seemed, was asking the Senator to cash a cheque he didn’t yet possess. Nonetheless, Eppie had to give the man credit for trying. Accepting Valorie was just the first step.
+
+“I’ll come and find you at the Four Seasons,” Eppie told her red-haired Desdemona, currently trapped between the dual duties of her new bestie and her father. “Clean up, get comfortable. Have a think about our mutual friend of the Chen household… hopefully we can put this whole ordeal to bed. That way, we can all sleep easier come Monday.”
+
+Valorie nodded eagerly, like a little girl responding to a mother’s wisdom. Clearly unnerved by his daughter’s demureness, the Senator told her they would be waiting.
+
+Juliana Vaughan found her shortly after, standing at the threshold in her tiny black dress, watching the father and daughter.
+
+“It survived,” Vaughan sighed appreciatively.
+
+“Don’t you mean I survived?”
+
+“Not at all—she means your Conti dress survived.” Mirabelle arrived a second later and took her by her slim shoulders. “Not a rip in sight! Well done, Eppie.”
+
+Vaughan hid her smirk.
+
+Eppie laughed awkwardly, touching her stained bodice. Her ribs ached. Valorie could sure pack a punch…
+
+“Nothing a few hundred dollars of professional dry-cleaning can’t fix,” Mirabelle assured her. “A pro can re-stiffen the lining as well. Leave it with me. Not now, of course, unless you have a change of clothes. Do you?”
+
+Eppie shook her head. Her bugout bag had been delivered back to the hotel. Juliana pulled her closer.
+
+“So, ma Dauphine,” Juliana spoke in between directing her docents to escort the guests to the exits and studying Eppie’s expression. “If what’s past is prologue, then… What’s to come?”
+
+The Tempest… Eppie smiled despite herself. Vaughan really was the Mage of the Met, like Prospero.
+
+“I need to talk to Curon and Davis about a song,” she thought of House of the Rising Sun. “And I am going to see a Senator about his daughter’s abusive, manipulative, rapist ex-boyfriend.”
+
+Juliana nodded with solemnity, while Diana winced at the venom in Eppie’s voice.
+
+“Did you NOT just sing a song about reconciliation?” Mirabelle marvelled at the ease with which Eppie’s personas flip-flopped. “You had tears in your eyes, my dear.”
+
+Eppie dryly observed her two not-mentors. “... It’s called acting, my dears…”
+
+Vogue’s Editor-in-Chief trembled, then burst into carefree laughter, catching glances from the departing guests. As for the Dame of the Met, she merely looked at her with soft eyes, kissed Eppie’s forehead, and told her that she would be down in May to see her historical performance dismantle everything LAPA had built for the last two decades.
+
+She rejoined her Kiritani-Sensei, but the old artist told her that he was going back to the park to feed his cats, and that she should take care of her own affairs. As much as Eppie wanted to stay, they both knew that the finality of his goodbye wasn’t just a sentimental act.
+
+Unless Eppie wanted to take a sabbatical and guard Kiritani’s bedside, an unbidden and sudden goodbye was inevitable—and her sensei far preferred a parting founded in mono no aware—much like his final artwork. The phrase meant—as Kiritani would muse—the gentle acceptance of the pathos of things. Their parting, having been settled in the final room, was beautiful because it was final. To drag things out would make their companionship pedestrian.
+
+So she kissed Kiritani a final time, on the cheek. Her sensei shooed her away with a gentle grin like one of his cats, then left for Central Park without so much as a glance backwards.
+
+Eppie stood still once more, watching the white-haired artist saunter away, wearing his black haori like a funeral shroud.
+
+After a long and silent sigh, she joined her tribe—meaning Curon and Davis, who had stayed until Eppie was ready, patient as old hounds awaiting their charge to return home.
+
+As per the decorum of such social-political outings, the gathering scattered quickly and discreetly. The VP left with his Secret Service, Sanders with his daughter, the donors with their palatial SUVs, the satisfied press with their headlines, and Eppie with her handlers.
+
+Eppie fiddled with the hem of her dress as she sat in Sony’s private town car. The low ceiling, combined with the weird gait the seats forced on her body, made her self-conscious, especially as Trent Davis was sizing her up like a cut of meat for market.
+
+Of course, there was nothing untoward in her CEO’s curious eyes. What the man saw, Eppie guessed, was his own failure. The failure to recognise, seven months ago, that Euphemia was no less marketable than Lucia or Kellie, or any of the dozens of starlets under his stable of stars.
+
+Davis took the far seat, one ankle crossed over a knee, a man built entirely out of expensive suits and patience. Curon sat beside her in his three-piece fashion crime, marvelling at her hair like a fatherly chimp, humming a bit of Jude as he congratulated himself on having taught her so well.
+
+“So, what should we call Hey [Insert Name here]?” Davis was still fishing for Eppie to change her mind.
+
+“I was thinking, Hey You, actually,” Eppie said seriously. “A singer can replace the second word with the name of the person you’re hoping to change, accept, forgive, or reconcile.”
+
+“Too generic, doesn’t roll off the tongue.” Davis shook his head. “Simpler titles are fine. Perhaps… Better? Make it better? Better Days?”
+
+“Better,” Eppie decided. She liked the hopeful vibe of the singular word. “It’s a song that makes things better when things aren’t looking so hot.”
+
+“Very well.” Davis typed into his BlackBerry. “I’ll have Eric bring the contract when it’s ready.”
+
+“Oh?” Eppie cocked her head. “No objections?”
+
+Trent Davis gave her a tired look.
+
+“Ha!” her faux-father laughed. “You’ve trained him well, Eppie.”
+
+Trent did not think the comment was nearly as funny as Curon did. “You said you had another question?”
+
+“Ah—yes,” Eppie coughed. “As you know, inspiration often comes in pairs…”
+
+Both men leaned forward.
+
+Eppie blushed adorably. “But before that, I want to ask you something.” She crossed her legs and tucked her ankles. “I want to ask you about the Richards Estate.”
+
+Curon raised both brows this time; Davis furrowed his.
+
+“Information on the Richards costs extra.”
+
+“It’s nothing malicious, far from it, actually,” Eppie said. “First, my new Appalachian Blues is intended for Lucia Lancet.”
+
+Davis’ frowning brows turned to a smile. “Oh, really? You’re making good on that promise?”
+
+“I never really agreed…” Eppie looked at Curon, who nodded in her defence. “But… hey, the song came to me; who am I to refuse?”
+
+“Fine,” Davis slid back a panel, took out a pair of champagne flutes, and poured himself and Curon something.
+
+Eppie eyed the chilled bottle of Dom, licking her lower lip.
+
+“Want one?” Davis asked.
+
+“Can I?” Eppie blinked her big blue eyes.
+
+“She’s underage, Trent…” Frederick Curon apparently decided now was the time to be responsible.
+
+Eppie sighed. Five more dry years…
+
+Davis teased her by taking a long, sublime sip. “So, the Richards Estate. A lot of industry secrets there as well. If you’re willing to do a proper licence with Better…”
+
+Eppie yawned. “I wonder if Sir Woodhouse will respond more earnestly…” She made a duck face. “I have a feeling he will, if for no reason other than to spite you, Sir.”
+
+Davis sighed, making the tired sound of a man walking into a wall with his eyes wide open. Beside her, Curon made a smaller sound, a snort of depreciative laughter.
+
+“You’ve spoiled her rotten,” her CEO complained to her adopted father.
+
+“I know, it's terrible…” Curon agreed, then mimed shooing Eppie with a mist sprayer.
+
+Eppie meowed back and hissed.
+
+Davis sipped his Dom, questioned his life, then gave her the low-down on Sony’s love-and-hate relationship with the Richards Estate.
+
+“It’s to do with copyright.”
+
+“Copyright?” Eppie guessed a great deal of things, but copyright? “Did Sony steal one of his songs?”
+
+Curon passed her a pre-cracked bottle of sparkling water. “Nope. We bought companies that owned the Masters from other artists. Masters that were allegedly stolen from the Richards Estate.”
+
+Oh dear… Eppie’s [Prophet of Profits] informed her understanding of the situation with instinctual knowledge.
+
+“You know the case with William Dickson?”
+
+Eppie shook her head.
+
+Davis gave her an amazed look of—There’s something you don’t know?! Then continued. “How about Lead Zephyr?”
+
+I know Led Zeppelin… Eppie nodded.
+
+“Then you know the history, surely,” Davis shifted, his fingers walking up the length of the glass flute. “Dickson writes You Need Love in sixty-two. Seven years later, Zephyr puts out ‘Whole Lotta Love’ with the same rhythm sitting right there in the open, credited to Paige, Plante, Jonas, and Bonner. Sold in the millions. Took Dickson until ’85 to sue over it. They settled quietly in eighty-seven, and Dickson made sure EVERYONE knew not to mess with the old artists...” Davis turned his glass. “BMG bought Dickson’s catalogue. Then Sony bought BMG…”
+
+“Oh shit…” Eppie's curiosity was piqued. “The mantis catches the cicada, and the oriole waits behind…”
+
+Davis knew the proverb. “Correct. Turns out, Richards wrote the damned hook.” Davis shook his head, letting the revelation sink in. “We didn’t know Dickson took it without permission from someone who took it from Richards, at a time with no template, no precedent. The people who stole from Richards had no idea who he was…”
+
+Eppie winced. “Ouch…”
+
+“Look, early Blues was just brothers stealing from brothers. If a black man in New Orleans played a tune, soon, other black fellers would play it too. Music moved by ear. Everything was fine—until some white publisher took a lead sheet downtown, put a name on the deposit copy, called it original, and sold a multi-platinum…”
+
+Eppie shook her head. And they didn’t even pay with [Causality]. Tsk. Tsk.
+
+“We got shredded in court, thanks to Dickson’s own precedent.” Curon winced. “Richards engaged A.P. Tureaud, then Collins, Douglas & Elie. The guy who became the first black Federal Judge of Louisiana? That was his counsel. Turns out, the Estate had notebooks. Short hand. Dated sheets. Testimonials. Records of where he had played, who had paid, and who hadn’t. His fans even took the stand and said under oath that they had heard Bailey Ray Richards play that song in 1931.”
+
+“How much did they take?”
+
+“The exact number eludes me,” Davis continued drily. “But Discovery informed us that the Bailey Ray Richards Estate has been launching lawsuits since ’59. They won every single claim and landed Sony in deep, deep shit. The Estate now sets the gold standard for sampling, tributes and fair use payments. We offered multi-millions.” Davis sighed. “They refused to settle out of court.”
+
+“Miserable bastards…” Curon rolled his eyes. “But I get it. I’d be upset as well if no one playing the opening riffs to Whole Lotta Love recognised that the credit belonged to Bailey Richards, or knew the history behind it. If people started crediting someone else for one of your songs, it’d drive me nuts.”
+
+Yikes. Eppie was starting to see the whole picture. An artistic progenitor who hated everyone—his fellow blacks for borrowing his music without credit, and the whites for stealing it and calling it their own—was a good candidate for a [Usurper].
+
+“Oh, Bailey’s been dead for a decade,” Davis caught her thinking.
+
+Oh? Eppie’s [Script Analysis] collapsed. “Oh… Lucia’s grandfather is dead?”
+
+“Lucia is the grandchild of the Richards’ Estate; she’s the great-granddaughter of Bailey Richards,” Curon caught her confusion. “To stop them from suing us for the rest of our catalogues, Sony made Lucia into a household name.”
+
+“And you still live in fear?”
+
+“That we do,” Curon winced. “It’s a terrible feeling, wondering how much of the revenue your classic rock catalogue is making might just belong to someone else…”
+
+Davis scoffed. “Anyway, that’s all I know. Now, this song of yours. Should it thrill the ear…”
+
+“You’ll tell me more?”
+
+“Perhaps.” Davis crossed his arms. “Are you singing it here?”
+
+“Here is fine,” Eppie winked at them. “A tipsy young woman in a revealing dress, two powerful men of the industry swilling booze, that’s jazzy, right?”
+
+“Ergh…” Curon made a face and checked the label of her sparkling water.
+
+Eppie slid herself a few feet apart from Curon, packed her legs beneath her, and took a long, deep breath. The limo bounced over a pothole, as if to punctuate the theme of dilapidation, and then Eppie allowed her [Traits] to take hold. [Vocality], [Perfect Pitch], and [Songstress] moved her tiny body to an internal tune, then she lost herself to the blues.
+
+There is a house in New Orleans,they call the Rising Sun.It's been the ruin of many a poor girl,and me, O Lord, was one.
+
+She sang it a cappella, her voice deeper, more resonant, just her breath and the low hum of the car’s muffled interior. There was no guitar backing, even though it sounded like there was one.
+
+If I'd listened to what mama said, I'd be at home today.Being so young and foolish, poor girlI let a gambler lead me astray.
+
+Her version was far older than the classic that a Caucasian beat band would harmonise via an electric organ. Her voice rang hollow, a warning to someone younger, more hopeful, not to become a fallen woman like herself.
+
+She sang only two verses, but it was enough to drop the temperature in the car.
+
+When she finished with an elongated “… astray…,” neither CEO nor Director spoke a word for about half a block. Behind Eppie, the streets passed steadily in their urban metronome. Behind her employers, the city slid by in alternating light and dark, inexplicably different.
+
+“Euphemia,” Davis said finally, and his voice had lost all of its calm. “Are you—I don't even know how to ask this. Are you possessed? By a deceased Blues musician, perhaps?”
+
+“Trent, don’t be so banal.” Curon shook his head. “She’s possessed by a classical Vaudeville Blues singer…”
+
+“No, I'm serious.” Davis had turned fully toward her now. “Where does a—is there someone in your family? Are you — “ and he grasped for straws. "Are you descended from Appalachian stock? Fontaine, right? Did your family own a plantation?”
+
+Eppie felt her whole face crimp inward. “Please don't finish that thought,” Eppie kept an eye on her [Causality] gauge.
+
+“Then explain this—” Davis pointed at her accusingly with the glass. “How are you writing these songs? They’re more authentic than… anything I’ve heard in decades. This thing sounds like it could be the work of old Bailey himself!”
+
+“The songs come to me in dreams,” Eppie spoke without guilt, her [Persuasion] and [Act Natural] working overtime, because it was true. “The songs, I mean. I wake up, and it's already there, whole, like somebody put it there.” She shrugged, then tilted her head to look doubly more pitiful.
+
+“There, there,” Curon patted her hand. “Don’t be upset.”
+
+Davis looked like he was wondering if his hands could fit around her neck.
+
+“Maybe that’s how the clever ones make music,” her father came to her aid. "Paul McCarron wrote Yesterday while making bacon and eggs, and was convinced he stole it from somewhere. Keith Rennick came up with Satisfaction after waking up blacked out drunk.” He paused. “And neither of us has formal music training.”
+
+“Ah, yes,” Davis gave Curon a disbelieving squint. “Sorry, I forgot our own genius. You grew up in the Bronx, Fred, and by extension, rap, rock and progressive. I set my eyes on producing pop groups when I was in my twenties. She’s… sixteen, and grew up in housing projects. Lots of exposure to classical blues in the projects, I take it? Hmm? Eppie? Did you live in one of those movies where the janitor was a retired Blues legend?”
+
+Unfortunately for Davis, Eppie wasn’t so easily cornered.
+
+“Gents,” she cut in, her tone changing to that of Lana’s for a split-second. “Don’t look a gift horse in the mouth.”
+
+Curon looked at her strangely. Davis suddenly sobered up.
+
+Eppie looked out at the passing lights and then back at the two men.
+
+“So, you think this song is good enough to get me through the door of the Richards' house? Lucia says I owe her one—” Eppie smiled, a little more wickedly than she anticipated. “What if I have a chat with Mr Richards? Will my song tip the scales in Sony’s favour?”
+
+“Bailey Richards is dead,” Curon reminded her.
+
+“To whoever is in charge then,” Eppie shrugged. “My question is, can you set up a meeting, Trent?”
+
+Hearing his first name, Trent Davis regarded her with new eyes. Her CEO wasn’t upset by her use of it, because the word had emerged so naturally and with such ease.
+
+“As a contractor, you cannot negotiate on Sony’s behalf,” Davis said. “So please don’t even try.”
+
+Sony’s CEO played with the BlackBerry in his palm before looking up again. Their car was pulling into the Four Seasons lobby.
+
+“But since you promised Lucia…” Davis relented. “Don’t make me regret setting up a meeting.”
+
+And I’ll set up my slush fund. Eppie performed an internal fist pump. 400,000 [Causality] here I come!

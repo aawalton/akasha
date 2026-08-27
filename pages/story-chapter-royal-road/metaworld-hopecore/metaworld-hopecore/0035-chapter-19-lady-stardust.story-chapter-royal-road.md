@@ -1,0 +1,257 @@
+---
+id: 28b9137d-8cd5-53b4-8c28-27cb64671aaa
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 19 — Lady Stardust"
+slug: 0035-chapter-19-lady-stardust
+partOf: metaworld-hopecore
+position: 35
+ownLength: 2394
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368882/chapter-19-lady-stardust"
+royalRoadId: "3368882"
+---
+
+“That’s my last Duchess painted on the wall, / Looking as if she were alive.”
+
+Robert BrowningMy Last Duchess
+
+Knock— Knock—
+
+While Eppie practised her lines for the audition, Eric knocked on the shared door separating their rooms. With more curiosity than suspicion, she opened the door, wondering what Eric could possibly want at 8 PM.
+
+“This came back.” Eric swung a clear IKEA zip-lock in her face. “Or did you forget?”
+
+Eppie blinked, then realised that, indeed, she had forgotten about her phone.
+
+Her lawyer peeked in, checking if there was anything he should be wary of, then asked for her permission to enter. She invited him in, and her deadpan Newfoundland sat down near the window, where there was a table with two tiny stools.
+
+“So, the guy who you gave it to fix it promptly gave it a little snoop, as is tradition. He said it wasn’t broken, but stomped on with great diligence. Luckily, the chipset survived, as did the flash memory. The phone’s not THAT ancient, so he sourced some parts and managed to boot it up—” her lawyer paused. “Now, before we continue, as your lawyer, do you know what’s on this thing?”
+
+Eppie shook her head. “I have no memory of this thing existing. That’s why I was kind of keen to know what’s on it.”
+
+“Well, it's not a bloody song, you can tell Mueller that,” Eric sighed. “The gentleman who snooped asked me if I wanted to refer this to the authorities, but I thought it might be best to run it by you first.”
+
+“Whoa… hold up,” Eppie felt her heart seize. “Is it that serious?”
+
+“Well, it’s not pleasant.”
+
+Now her curiosity was burning even more. “Let’s hear it.”
+
+“Will you be able to keep your cool for tomorrow’s performance?”
+
+Jesus, just what is on this thing? “It's not a video of me, is it? I recorded my own suicide?”
+
+“No.” Eric puffed his cheeks in a sigh of relief. “It’s an audio recording. We don’t know who it is, but it's someone close to you, obviously.”
+
+“Just… give me the phone,” she reached for the phone, and Eric gave it. “Stop being so cryptic., I am plenty strong enough to listen to whatever.”
+
+When she turned it on, she saw the four-digit login.
+
+“Er… Eric?”
+
+“It’s 0000.” Her lawyer pulled the corner of his mouth sideways. “Thankfully, whoever tried to smash your phone was a luddite. He or she had no idea how any of this works.”
+
+The phone unlocked. The wallpaper was a picture of herself and Simone Goode.
+
+“Alright… how do I hear this recording?”
+
+Eric raised a brow. “Missed calls, Messages.”
+
+She scrolled to the missed calls section. There was an unknown caller with a long recorded message.
+
+She looked at Eric.
+
+The man nodded.
+
+She held her breath, then pressed play.
+
+“Eppie? Eppie—! It’s me. Listen. He knows! HE KNOWS—!” The voice was frightfully emotive, and the emotions that permeated her speakerphone were in no way diminished by the rudimentary electronic system.
+
+“He knows we have a recording… of what he did, what he did to me. O God. OH GOD. We lied to him. Eppie. We lied to his face! He’ll never let us go now. He won’t forgive us. He won’t stop at the cats this time. I can’t… I can’t. My mum and Dad have suffered enough. I can’t let them know about what happened. My Dad, it will break him. I… I am so sorry, Eppie. You shouldn’t have helped me. I am so sorry. I need to go now. I got—I got to go. I can’t tell you where, but I am so sorry that I am going to leave you to face this alone. I… I don’t know what else to do. I am sorry… I am sorry… I am so sorry, Eppie…”
+
+The message stopped.
+
+Eric studied her face.
+
+Eppie blankly studied her stand-in father figure.
+
+“So, do you—” “WHAT THE FUCK was that?!” She said, throwing her hands up. “This is fucked up.”
+
+“You don’t know who this is?” Eric’s face shared her disbelief. “Seriously? “
+
+“No goddamn clue!” Eppie growled, then suddenly caught her phone. “Hold up—”
+
+She navigated to her contact list.
+
+Simone Goode. Simone Goode. Simone Goode.
+
+Simone Goode.
+
+Simone Goode. Simone Goode. Simone Goode.
+
+Mio.
+
+Simone Goode.
+
+Mio.
+
+Mio.
+
+Simone Goode.
+
+Simone Goode.
+
+Mio.
+
+Simone Goode.
+
+Right. “I think it's Luciana Mio. ‘Mio’ because it rolls off the tongue.”
+
+“Who?” Eric looked around the room. “Is there a way to confirm this?”
+
+“Of course. I know someone who knows her voice,” Eppie bit her lips. “Besides, this unknown number looks like a payphone. Probably from a gas station of some kind.”
+
+Of all the idiosyncratic knowledge she had from the future, activists using SPAM calls from public phones was one she knew all too well. It wasn’t until Apple AI was good enough to filter those calls that she finally had respite.
+
+“Jesus Christ, I think you’re right,” Eric moved back an inch to look at her in a new light. “So, an actor, singer, and now a detective?”
+
+She curtsied.
+
+“Okay, get serious.” Eric breathed out. “So let's say this is the Mio you know. What now?”
+
+“Well, before we decide,” Eppie bit her lips until her heart began to settle. “Let’s bring in a witness…”
+
+Five minutes later, Armand Amar sat with eyes wide open, unable to speak.
+
+“That’s Mio, right?”
+
+The boy stared at them both as though they were a pair of Djinns asking him for his first wish.
+
+“Armand, focus.” Eppie reached out and touched the boy’s hand.
+
+An electric current shot through Armand’s body. “Yeah—YES. Jesus Christ. Tell me this is an act. It's for a play, right?”
+
+“You know.” Eppie patted his hand, then turned to Eric. “That had never occurred to me.”
+
+“I don’t think so.” Eric shook his head. “I am not a prosecutor, but I’ve done my due diligence as a student. I’ve… heard of this type of thing before.”
+
+“Fuck.” Eppie buried her head in her hands. “Just so we’re on the first page. I’ve got amnesia from the incident. I don’t even know what she looks like. Armand, when did Mio disappear?"
+
+“I don’t know exactly, but I’d say she dropped out around February."
+
+“Does she have any other contact—” Eppie slapped her forehead, then ran to unpack her laptop. After an agonising minute, Windows booted. “Armand, you got her MySpace?”
+
+“Oh!” Armand’s fingers danced across the keyboard.
+
+The three of them gathered to stare at the glittery, animated, cat-filled MySpace of a theatre student called Luciana Mio from LAPA, with over a thousand friends. Her last blog post was from January. It was about the party her family threw for her when she won the role of Petruchio. She had thanked God. Thanked her parents. Thanked Dr Cooper. Thanked LAPA. And all her friends.
+
+Clearly, Mio had been a good egg.
+
+Pushing Armand aside, Eppie clicked on Mio’s photos for clues to a stalker.
+
+Here was Mio holding a cat. Here was Mio holding another cat. Here was Mio feeding a cat.
+
+Clearly, these are stray cats—Here was Mio with her father. Here was Mio with both parents. Here was Mio with her theatre crew from LAPA. Here was Mio wearing a cat like a scarf.
+
+Here was Mio wearing a cat like a hat.
+
+The more Eppie studied Mio, the more her heart sank.
+
+Luciana Mio was a picture-perfect manic pixie dream girl, the kind that broke hearts by existing. As a Nikkei, she had the high, sculpted cheekbones of high fashion, the sun-kissed natural tan of her Andean bloodline, and the alluring, almond-shaped eyes and shoulder-length hair of her Japanese mother. Her natural lashes were so thick that not even a cute tabby could take one’s gaze from her vividly amber irises. Even though Mio hugged cats in all her photos, she could not hide her swan neck, her sharp collar bones, all of which were complemented by the figure of an Incan priestess.
+
+She looked at the two men by her side.
+
+Eric was thinking it.
+
+Armand was thinking it.
+
+She was thinking it.
+
+They were all thinking of the worst.
+
+“The record said… he won’t stop at the cats…” She spoke softly and deliberately. Those poor kitties…
+
+The men looked at her as though she had just opened a portal into the Lovecraftian universe, then both eagerly agreed.
+
+“So who the fuck is he?” She demanded the air-conditioned air.
+
+The men had no answers.
+
+But she might.
+
+Simone Goode. Valorie Sanders.
+
+There was nothing concrete, but she knew now why Eppie had jumped off that building. Something had transpired between her and Luciana Mio, and then Mio bailed because of the cats, and what “he” might do to her, and to her parents.
+
+Mio’s parents, according to Min-Jun, had been visited by thugs asking for protection money.
+
+Valorie has beef with Mio.
+
+She could see the strings, but she had no idea where they led. Sufficient to say, Mio was still alive somewhere, and Eppie Fontaine was not. VP Thomas might know something, but clearly, she did not feel concerned enough for the incident to prevent Eppie from returning to school. That, or it was all a ruse.
+
+“Let’s sleep on it,” she announced for the men, who were too afraid to keep talking. “What can we do anyway? Let’s keep this between us for now. Eric, can you make a copy of the audio?”
+
+“Sure,” Eric gave her an affirming nod.
+
+“Armand, this stays between us, understand?”
+
+“Perfectly.” The boy solemnly bowed. “As you wish.”
+
+“Good. And Goodnight.” Eppie kneaded her brows, then slid the phone back to her lawyer. “Eric, you keep the phone. If we, or someone, ever gets to the bottom of this. They’re going to need it as evidence.”
+
+Eppie did not sleep for the whole night and had to pad her stamina with [Causality] at 6 AM in the morning. From the moment she closed her eyes, all she could see was those pictures of Mio. Mio with the cats. The cats and Mio are invading her dreams at every turn.
+
+She washed up, had breakfast at the hotel, then Sony’s town car arrived to take them to the Studio.
+
+As professionals, they had already purged Mio from their systems, boxing the girl for when they got back to LA and could potentially do something, anything, to unravel the mystery.
+
+At the lot, they received their badges, then drove directly under the company’s Sony City studio, rushing head over heels until they arrived at the costumes department. Inside, they saw literal rows of industrial sewing machines next to enough clothes racks that Eppie felt as though she’d stepped into the gun rack scene from The Matrix.
+
+First, the assistant told them to try on the costumes they had picked.
+
+As promised, Armand had a three-piece tux, pinned against his body for on-the-spot adjustment. After the make-up artists remarked on his good looks, he was whisked away for a glow-up.
+
+As for Eppie, she took her black bag of clothing into the changing room, then stormed out without getting changed.
+
+“Excuse me, Trishie,” she presented herself as sternly as she could, her [Charisma] and [Persuasion] firing on all cylinders. “You do realise we’re going to the Met? Do you realise I am meeting Juliana Vaughan? Can I protest? Please tell me I can…”
+
+The clothing that had been provided to her was, in essence, Baby Spice. She can’t say it was ugly, but she could see the messaging, and she did not like it. Flared jeans, low-rise, boob-tube waist coat, neon belt, platform kicks. Was she a Pop Princess? Was she going to bring out a white anaconda and sing with it?
+
+“You don’t want to be a pop star?” Trishie was adamant but not rude or insulting. “This is a modified outfit worn by Lucia Lancet. The executives will understand and be appropriately appreciative.”
+
+“May I respectfully disagree?” She wasn’t there to impress Trent Davis. She was there to make connections with the Director of the Met.
+
+The costume artist was clearly used to dealing with divas. “You may. That said, you have twenty minutes to find your style. I will pair what’s needed for you.”
+
+“No need,” Eppie knew exactly what she needed. “Just point me in the right direction for this: halter neck, sleeveless, backless, floral print, mono or dual colour pattern, vintage, A-line, past the knee.”
+
+She closed her eyes for a moment to bring her thoughts to light. “Almond flowers. Find me Van Gogh’s Almond Flowers. Ivory on Cerulean.”
+
+Trishie jotted down the request on her Moleskine. She looked at Eppie. A moment of total and [Sublime] understanding passed between them.
+
+“Pastel ballroom heels, three inches? Peep toe?”
+
+Eppie parted her hair. “Flower child, Nordic boho. Extensions for volume. Pale highlights. Ribbon to match.”
+
+Trishie smacked her lips. “Yep. That works.”
+
+If the scene had been between two men, they would have clasped hands and pulled one another close for skinship, then scheduled a fishing trip. But as it was between two working women, they simply both went to work.
+
+At 4 PM, Antonio and Mueller arrived in their respective costumes. The former wore massive lifts to add to his height, and the latter was in his working garb as a part of the technical staff, carrying by his side the priceless guitar of Chad Lain.
+
+As a quartet, the men sat in front of the make-up trailers, making small talk about their experiences with Eppie, trying to discern the secret of their golden songbird.
+
+At 4:45, when their individual stories had been exhausted, and none was the wiser as to Eppie’s secret, she emerged with Trishie from the trailer with a silent “Tada!”
+
+“Whoa…” Eric stood, then looked embarrassed that he stood.
+
+“Bravo, Madam Trishie, Bravo…” Mueller clapped.
+
+Antonio whistled. Armand held his breath.
+
+“Shall we go?” Eppie admired herself by admiring their admiration.
+
+Mueller snorted. “Of course, but not now. We are hired performers, Miss Fontaine. Only when our job is done do we transform into guests!”
+
+On cue, Antonio unslung the armoured guitar case, then popped the buckle with a resounding clang. “Señorita Fontaine,” the musician bowed deeply. “Shall we revisit your lessons while we wait?”

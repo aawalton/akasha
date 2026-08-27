@@ -1,0 +1,143 @@
+---
+id: ce7d03e8-87c4-5963-9199-64d889ca4769
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 5 - Three Wooden Crosses"
+slug: 0008-chapter-5-three-wooden-crosses
+partOf: metaworld-hopecore
+position: 8
+ownLength: 1711
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364596/chapter-5-three-wooden-crosses"
+royalRoadId: "3364596"
+---
+
+"I keep turning over new leaves, and spoiling them..."
+
+Louisa May AlcottLittle Women
+
+Lying in the dark, listening to the oxygen meter, Lana Zacanissian decided that she had a decision to make.
+
+This was because, for all intents and purposes, she was no longer Lana Zacanissian.
+
+It was the classic Mind and Body dilemma, only in her case, her circumstances were a little too literal.
+
+At Wharton, U Penn, one of the most popular “clout-building” courses had been PHIL 2851. Naturally, Lana took it. In it, she had to debate Descartes' “I think, therefore I am,” against the merits of Physicalism. Her conclusion, after many days of assigned team debates, was that the prettiest girls in college received the fewest rebuttals from the arts nerds.
+
+Lana was not one of the “pretty ones”, at least not before she made her golden millions, and had to actually rationalise the existential quandary of Qualia—the Elmer’s glue holding together the physicality of Euphemia’s continued existence.
+
+Presently, her dilemma was this: Euphemia was a philosophical zombie. She was Eppie Fontaine down to the final atom of her mismanaged split ends—but there was no one home. The Eppie that leapt off the fourth story of the main building at LAPA had gone to a better place that night, and after a short vacancy, eminent domain was exercised by the [System].
+
+And now, she was faced with an inevitable quandary.
+
+In this world, there was no Lana Zacanissian, or at least, she hoped not.
+
+To the world at large, the world of new experiences, sensations and memories, she isn’t Lana.
+
+The memories she created henceforth were the memories of Euphemia Fontaine.
+
+The friends she makes will be Euphemia Fontaine's friends.
+
+The songs she sings, the art she transmigrates, will be by Euphemia Fontaine.
+
+The words of praise heaped upon her will be for Euphemia Fontaine.
+
+And as the years went by, assuming she survived and her [Causality] was as abundant as UAE oil, the ratio of Lana to Euphemia would change daily, until one day, she would be more Eppie than Lana.
+
+For two hours, she listened to the sounds of the hospital, the beeping of oxygen meters, the nurses chatting, the faint hum of the machines, the footfalls in the ward, which the cheap fibro ceiling could not block.
+
+In between her indecision, midnight came and went.
+
+“Let there be light,” Lana said to the darkness.
+
+She read the name tag on top of her [Potential] over and over again.
+
+Lana was Gaelic, meaning little stone. Knowing her parents, they probably just liked the sound of it. They were suburban folk, quiet and unassuming, never imagining that their daughter would pay off their mortgage before she was 25. The last name was more distinct. The Z, for example, made her last in every role call. It was a topographical name, meaning the “son of Zacaniss,” originating from Eastern Armenia. Her family was, however, as American as apple pie. Her mother was a therapist, and her father was a teacher at a private college; they had every trapping of American life, including credit card debt, 401Ks and Annual Passes to Disney California.
+
+Not that it mattered now.
+
+Memory was collective. Without conversation, exchange and recollection, the name of Lana Zacanissian shall melt into air, into thin air.
+
+We are such stuff as dreams are made on, and our little life is rounded with sleep.
+
+It was only now that she understood Mrs Watson’s reason for electing The Tempest for her AP Lit reading.
+
+If she has to move forward as Eppie, then Lana Zacanissian must be freed.
+
+“I am Eppie Fontaine.” The consciousness formerly known as Lana said to herself.
+
+“From this moment, let there only be [Euphemia Fontaine].”
+
+Dr Jane Hughes didn’t know whether she should be proud or sad because it was so rare for an injured patient to come into the studio to restore motor reflex, only to leave with greater function.
+
+As the principal PT for their young local celebrity, she wrote SOAP notes that read like an urban fantasy involving lesbian vampires.
+
+A week ago, Eppie arrived in a wheelchair and focused on warm-up exercises, ultrasound tissue massage, and low-intensity reps that toned knotted muscles.
+
+Now, her protege was perfectly flexible, falling short only when compared to perfectly healthy junior athletes. On the treadmill, Eppie was running at full-sprint intervals before she broke a sweat, reaching five minutes before she fought for breath.
+
+Her patient’s attitude was excellent as well.
+
+Simply put, it was a pleasure to work with Eppie.
+
+Though Euphemia seemed to know nothing about the world, Hughes could feel the intelligence radiating from her client, making her hang on to every word. This was especially strange when, wanting to open up about herself, Hughes let her anxieties about juggling multiple credit cards escape.
+
+Then, in the midst of a PNF session where she was pulling out the girls’ skinny calves, Eppie told her to engage a debt-management agency, consolidate her debt, and set aside a budget and a timeline.
+
+That and to toss every single “pre-approved” mail until she felt more in control.
+
+The whole time, Eppie mumbled something about “Karma” while giggling to herself.
+
+Hughes hadn’t thought too much about the whole thing until, out of curiosity, she asked her credit union if they had that service.
+
+They did. And a dozen emails later, her cards were consolidated into a single debt, sans confusion, sans tracking, sans late fees. Her Credit Score and future mortgage were saved, and her stress levels were halved.
+
+Was… was this street smarts? Dr Jane Hughes marvelled at the skinny teen effortlessly alternating between Bridge and Dead Bug.
+
+It wasn’t until she was halfway through her SOAP notation that she realised Eppie was far too young, and that she couldn’t even apply for credit cards.
+
+That same Friday, Director Harper informed them of the inevitable.
+
+Euphemia Fontaine had met the discharge criteria, and there was no further medical rationale for maintaining her allocated bed.
+
+Of course, the team would love nothing more than to have Eppie stay on for longer. There was always more they could do for a girl who had arrived underweight and malnourished, especially Hughes.
+
+But if Dr Harper did indeed follow his heart, then he wouldn’t be Dr Gillian C Harper, the man who gave up a directorship at Tenet to work in public healthcare. St Marten’s was always underfunded, understaffed, and under-provisioned. The bed that Eppie used as a temporary board and breakfast would be much more deserving for the next child to arrive at the Emergency.
+
+“We have to discharge her by Sunday,” he informed the team during their weekly Friday night conference. “Dr Richardson has informed me that we have two patients from Oncology that will need the room, pending Radiology representations.”
+
+“But Eppie still has two weeks until she can move into her school dormitory,” Nurse Bessey was the one with the most knowledge of Eppie’s affairs, including her burgeoning music career. “Maybe we can find her a motel?”
+
+“Legally—no, the hospital cannot.” Director Harper paced the room with both hands against his hip. “She’s in the process of receiving emancipation, so she has no caseworker assigned either. Privately, one of us could put her up for a while, but…”
+
+The Director scanned the table.
+
+To cross over from their public to private lives, especially to help a child, was a slippery slope. Besides, most of them lived at the hospital five days a week. To leave Eppie with a stranger, even a relative, for two weeks, was too much. Besides herself and Harper, the other doctors were either confirmed bachelors or lived in studio apartments around East Hollywood. As much as they cared for Eppie, the Ethics Review Board was no joke.
+
+Dr Mills raised his hand. “Gil? Actually, I think we can talk to Eppie about this. Mr Lee came to find me the other day and asked about the possibility of Eppie making a two-week trip to Sony’s headquarters in New York. Their chief creative, Director Curon, wanted to record Whatever Will Be with Eppie before optioning other performers.”
+
+“Would that work?” Hughes tried to imagine her little bird flying out to New York for a weekend. “Would Eppie be safe?”
+
+“It should, if it's Sony. A corp like that must constantly chaperone child stars from set to set. Is this Mr Lee the lawyer? Is he trustworthy?"
+
+Mills raised a hand. “He’s Canadian. Newfoundlandian."
+
+Hughes nodded to herself. A mid-thirties corporate lawyer from no-nonsense Newfoundland was about as trustworthy as anyone. That and Eric Lee’s career rode on the safe delivery and return of Euphemia.
+
+“Alright,” Harper gave her a nod. “Let’s finalise our minutes. Nurse Bessey?”
+
+“Unremarkable oxygen and vitals,” Bessey was mentally checking off a notary pad from the ward. “Pain level less than 2, no more primary symptoms. She’s eating and drinking us out of our home, bless her.”
+
+“Radiography doesn't have any updates,” Richardson shrugged.
+
+“Good mental clarity, 25 at least. She doesn’t remember much of the past, but her acumen is impeccable. She’s memorised her future address, her email, phone number, social security, medicare reference, student number—everything.” Dr Mills reported. “She even knows our hotline extensions. Day-to-day living should be a breeze.”
+
+“There’s no problem with her ADLs,” Hughes read from her SOAP report. “Her mobility is better than what I would have expected prior to her injury. We’re seeing good muscle tone development, especially in her core. I’d recommend pilates, but…”
+
+Pilates was expensive.
+
+“Alright,” her Director snapped the folder shut. “Thank you for all that. It’s been a pleasure, folks.”
+
+Hughes joined the staff in their round of polite applause. Her eyes were heating up again, but the professional side of her kept her emotions contained. Eppie was special, and her song will forever be a core memory, but in her position, there would be many more Eppies, most of whom would lack the talent, luck, and tenacity to turn their life around.
+
+The dossier was a chapter of Eppie’s life, one Hughes hoped the girl would leave behind. Unfortunately, for a Doctor at St Martens, Eppie’s story was merely a cherished paragraph in an ever-expanding web serial of children left behind by society.

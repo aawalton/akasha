@@ -1,0 +1,147 @@
+---
+id: fcccff4d-7afd-57b7-9666-3cefaf9469b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 – City Tensions - Pt 6"
+slug: 0039-chapter-39-city-tensions-pt-6
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 39
+ownLength: 1675
+unit: words
+publishedAt: 2025-01-02
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1988697/chapter-39-city-tensions-pt-6"
+royalRoadId: "1988697"
+---
+
+Kindra grabbed her empty bowl and walked it to the basin. She rinsed it and the spoon. The sound of silverware filled the stone room, and she turned back.
+
+“You ate so little,” Sigrid said with a sorrowful look. “Are you still hungry?”
+
+“I’m fine.” Kindra smiled at her. She walked to her room, opened the chest, and pulled out her three other dresses. Tossing them onto the bed, she rolled the bedding into a roll, grabbed it, and walked from the small room. “Hey, Aika, I think we’re moving.”
+
+“Good. You can join us.”
+
+Kindra returned to the kitchen and helped Sigrid pack, placing wooden silverware into the pots. Gathering plates and bowls, she stacked them together.
+
+Sigrid tied them together with a piece of cloth. “I am sorry about this. We’d hoped to let you have a safe place instead of the wilds.”
+
+“It’s alright.” Kindra shrugged.
+
+Sigrid smiled at her. “You’re a trooper.”
+
+“I’m old. Remember?”
+
+Sigrid shook her head. “You are so young. So very young,” she whispered, gathering the last of the items from the shelves and tying them into a bundle. She smiled at Kindra and walked into her room, opening a door built into the floor.
+
+“How do we stop them from finding out about those?” Kindra asked.
+
+“We don’t use them.” Sigrid’s eyes glowed, and the stone crashed down like water, filling the passageway and cementing it shut. She shut the door and invoked another spell, turning the door into a chest.
+
+That’s very cool… but how are we getting out? She stepped out of the room.
+
+Dain shouldered a large bag and walked forward. “Kindra, kill as many undead as you wish on the way out. It’ll help draw attention from the tunnels and any left here.”
+
+Kindra nodded. Absolutely. She grabbed her bundle and followed the two out of the door.
+
+Tension hung in the air. Smoke from fires billowed and gathered around chimneys, staying as if to watch what would happen. The streets were still, and four guards turned toward them.
+
+“We knew it,” one said, shaking his head and reaching for his sword. His dark eyes and hair were filled with rage.
+
+“Don’t,” Dain replied. “We’re leaving. Don’t make it bloody.”
+
+“You’ve made it bloody,” the dwarf hissed. “An entire village slaughtered. And for what? For what? Some girl that looks half-undead? Is that why you did it?”
+
+Kindra swallowed and shifted her pack, freeing up a hand. She willed a nine-millimeter pistol into it.
+
+“Leave her out of this,” Sigrid snapped back. Her hair glowed. “I will end all of you if necessary. Don’t make it necessary.”
+
+The guard scowled. “You are strong, but not strong enough.”
+
+“Final warning,” Dain replied, pain and anger flashing across his face. “We do not wish to kill our own.”
+
+How do I stop this? Realization hit her. The birds from days ago sprang to mind. Willing the runes into her mind, she poked her head past Sigrid and burned a hundred mana.
+
+Her mana surged, and the spell ripped from her throat in a furious burst of noise. The dwarves staggered, two of them dropping onto the ground. The other two dwarves turned, staring at Kindra. One launched himself forward, and stone ripped from the ground, wrapping her in a cocoon.
+
+“Come, Kindra,” Sigrid said, shaking her head at the pinned dwarves. She turned and jogged down the street.
+
+Kindra followed, running down the street and turning the corner. A pack of undead canines greeted them. They surged forward, and Kindra shifted the runes in her mind.
+
+Like a rapid game of scrabble, the spell snapped into place, and she flicked out her mana. The charging dogs dropped, skidding and tumbling along the stone, leaving smears of blood in their wake. Kindra reached out and pulled the mana into herself.
+
+“Thank you, dear,” Sigrid said, jogging toward the wall and ignoring the gate.
+
+Can they just jump the wall? I sure can’t. Her eyes flickered toward Sigrid.
+
+Sigrid grinned. Magic and runes surged around her, blanketing the area. Then they streamed forward, a ribbon of light flowing down the dim streets.
+
+Hitting the wall, the stone warped, creating an arch. Kindra ran toward it, and something gnawed at her stomach. The streets remained quiet. Too quiet. The air was still, and a magic-laden breeze hit, making every hair on her neck stand.
+
+“Run!” Dain bellowed.
+
+Kindra spun and saw the reason why. A massive, undead wyvern cruised through the air. Its flesh was largely gone, blue magic surging through the bones of the winged creature. Its head turned, and a strange presence came with it.
+
+“Kindra, come back to me,” an ancient female voice whispered in her mind.
+
+Kindra didn’t reply. Her eyes blazed, and she burned mana, letting it course out of her. A torrent of light flared. Runes shot through the air, and the magic hit the wyvern.
+
+The light inside snuffed out like an extinguished candle. The presence vanished, and the undead wyvern crashed toward the city, its wings folding. Kindra watched in quiet awe, reaching out for the mana and pulling it into herself.
+
+Dain scooped her off the ground and bolted, racing for the archway. “No time to dally, Kindra.”
+
+“Sorry.” Kindra blushed and looked back at the descending wyvern. It slammed into the town with a thunderous crash, bones breaking on stone.
+
+Swallowing, she turned and looked at the fields. Undead surged forward, racing toward them.
+
+“I haven't got the mana from the wyvern yet,” Kindra whispered.
+
+“It’ll be alright,” Dain said, setting her down.
+
+Kindra jogged behind him and looked at the swarming mob of undead. I don’t know about that.
+
+A roar echoed from the trees, and a dwarf shot out like a cannonball. With a glowing hammer and glowing axe, Gleon whirled into the undead. Bones cracked. Pieces of flesh flew, and the undead ripped into him, clawing into his skin.
+
+God. Kindra grimaced and felt the mana from the wyvern surge into her; a fiery torrent of energy licked through her body. She felt something. Like the wyvern, it reached for her mind, and she shoved against it, fighting a presence that snaked into her mind with debilitating power.
+
+“Come back to us, Kindra,” the ancient voice whispered.
+
+“We have to go,” Kindra hissed and tossed a ball of glowing mana in front of her. The glowing orb hung there, pulsing faster and faster, mirroring her thundering heart. Undead turned.
+
+“Kindra, darling, please. Stay there. I’ll be there as soon as I can.”
+
+A shiver ran down Kindra’s spine. No. Not that. I’m not going back to the dark. Images of the nothingness flashed by. They crashed through her, creating a storm of horror and emptiness. An eternity of nothing but glowing runes.
+
+Runes surged through her, and she rushed toward the undead. One reached out and grabbed her arm. It dropped, the magic snuffing out.
+
+Gleon roared, blood oozing from cuts and wounds that now lined his body. Mana surged around Sigrid, and his wounds began to close. Surging one last time, the glowing ball of magic exploded, crashing over the place like a tidal wave. The light in the undead faded away, drifting like smoke from the flame. The bodies dropped, and Kindra ran, bolting for the trees and pulling the mana with her.
+
+The thrum of bow strings filled the air, and large arms plucked Kindra from the ground. The world blurred.
+
+Pulling her to his chest, Dain ran into the trees at a high sprint. He raced through the smaller plants that grew taller and larger with every passing moment.
+
+Shutting her eyes to fight the nausea, Kindra felt the wind. It blew across her, fluttering her hair. A lurching feeling traveled through her, and she opened one eye to see giant trees blurring by.
+
+The smell and sound of civilization were replaced with that of dirt and plants. The ambient magic in the air grew, and Kindra studied the canopy. Mana flowed up the trees and into the branches. The leaves glowed with it. What level are they, and how much work is it to chop one of these monsters down?
+
+Passing one, she saw a thick vine wrapped around the trunk. Sap oozed from the tree, and mana fed into the vine. Is it feeding off the tree? Kindra saw large thorns on it. Can it do that to people, too? She shivered and watched a bird land nearby. It stuck its beak inside, drinking the sap.
+
+A tree flashed into view, blocking the sight. Running past it, the three jogged into the trees. Magic surged through the air, runes spinning past them. Kindra looked through the series, slowly piecing together the counter in her mind. The spell winked out, vanishing suddenly.
+
+Dain continued to run. Turning her head, Kindra looked out at the forest. The trees grew larger. Vines attacked some of them, and bugs attacked the vines. I suppose some circles are forever.
+
+A bird swooped down and impaled a bug, carrying it off somewhere. Looking back at Dain, Kindra raised a brow. How deep are we going?
+
+“Sorry. We need to go deep enough that they won’t pursue us, and this is safer,” Dain said simply.
+
+“Where’s Aika?” Kindra asked, looking over at Gleon.
+
+“With Gran,” Gleon replied. “We’ll meet up, but we must ensure they can’t follow us. That means we need to go where even the undead won’t go.”
+
+“And where is that?” Kindra asked.
+
+“A little deeper. There are things here that feed on the dead, and undead are meals to them.”
+
+“Aren’t there things that feed on us, too?” Kindra asked, looking out into the large trees. The ambient mana grew, and the plants seemed to be slowly drinking it in.
+
+Gleon laughed. “I’m the scariest thing that you’ll see—” A bison hit him, and he flew, soaring through the air and slamming into a tree. The buffalo-like creature snorted, its nostrils flaring.
+
+Kindra laughed, and it turned toward her. Oh, shit.

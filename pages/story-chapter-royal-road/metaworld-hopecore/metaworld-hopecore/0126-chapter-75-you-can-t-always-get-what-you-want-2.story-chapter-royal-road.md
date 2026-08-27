@@ -1,0 +1,259 @@
+---
+id: 04196a11-61ac-52e7-af50-5dddfcc93366
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 75 - You Can’t Always Get What You Want (2) "
+slug: 0126-chapter-75-you-can-t-always-get-what-you-want-2
+partOf: metaworld-hopecore
+position: 126
+ownLength: 3139
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3655487/chapter-75-you-cant-always-get-what-you-want-2"
+royalRoadId: "3655487"
+---
+
+Monday. Dr Kirby opened Monday morning with Act V warming the pull-down canvas.
+
+“The Tragedy of the Commons,” she tapped the words with a whiteboard marker. “What is it?”
+
+Atkinson, still dazed from the weekend, raised his hand. “Isn't that when everyone shares a field, everyone lets their cows graze on it, and nobody takes care of it because it's not technically theirs, so the grass just dies? Their cow dies? Everyone loses, but no one is explicitly responsible?”
+
+Someone laughed. Eppie hid her mirth by biting her tongue.
+
+“Do not laugh.” Kirby made a note in her book. “Mr Atkinson is correct. The Tragedy of the Commons isn’t like Elizabethan tragedy, or Aristotelian tragedy; it has its roots in sociology and economics. It’s about the depletion of a common resource. In Salem, that resource… is Humanity. It’s faith in the common good. Community. That’s what Abigail, Parris and the others are exhausting.”
+
+“To this end, Abigail, as the central antagonist, becomes pivotal to our understanding,” Kirby walked around the room like a shoebill, eyeing the students and their notes.
+
+“Abigail, pretty little thing she was, belonged to no one, and was raised by everyone. The church, the elders, the whole apparatus of correction that runs this town. Dozens of adults had a hand in shaping her. All were judgmental. Yet no one was responsible.”
+
+“Eppie,” Kirby stopped by her table. “Can you enlighten us?”
+
+Her [Script Analysis] didn’t even break a sweat. “By Act V, it should be obvious to us that the High Court, its authority, and the Faith that powers obedience, is the common resource at the heart of the ‘Tragedy of the Commons’.” She spoke without breaking cadence. “Abigail has depleted this resource to such an extent that everyone assumes someone braver will step up first—and thanks to this selfishness, no one does. The town burns, people hang. Proctor stepped up for nothing.”
+
+“Excellent,” Dr Kirby gave her a gold star from the desk, an act that drew more laughter from the room until she made them write their own for homework.
+
+As for Eppie, she could only marvel at the abstraction of the [System]’s ability to teach the unteachable.
+
+Indeed… if someone doesn’t step up—if there isn’t a Proctor willing to put his life on the line —how would society avoid tragedy? If Euphemia Fontaine isn’t willing to pull Valorie Sanders out of the fire with her bare hands, wouldn’t the whole performance just burn to the ground like Salem?
+
+How could she build an Ark for the American Dream if Eppie watched Valorie drown? How could she add to the common pool of hopes and dreams? In her self-loathing, even her shiny new hair seemed to lose its lustre.
+
+During her third-period break, Eppie escaped to the rooftop of the LAPA building and made a call. Here was where she had fallen, and because she never sued, the school never felt it necessary to install locks, barriers, or even CCTV, partly because maintenance needed constant access for the window and signage cleaning.
+
+Standing in the shade, she dialled Lafitte.
+
+“Little bird!” Lafitte sounded like she was on her bagel break. “Give me a second, let me get somewhere quiet… alright, how are you?”
+
+“Good,” Eppie felt guilty for leaving their reporter hanging until May. “How are things? I read all of your articles on Kiritani Sensei. They’re wonderful.”
+
+“I have you to thank for the lead. I’ve been eating from that plate for months.” Lafitte replied graciously. “The momentum is building, and the National Monument is definitely going ahead. I got the scope, including an interview with Juliana Vaughan, and it's all thanks to you.”
+
+“You’re the one who found us the Tanaka family,” Eppie felt herself blushing. “Any updates on the Exhibition?”
+
+There was a pause.
+
+“Oh, Dame Vaughan hasn’t told you? They’re planning to move it up. It's Kiritani Sensei; he’s… 88 now? I believe? It should be late February, if my sources are correct.”
+
+This time, it was Eppie who had to catch her breath. “Is Kiritani sensei…”
+
+“I am not privy to that kind of information,” Lafitte said solemnly. “But he is… old. He was homeless for five decades; he is a walking miracle.”
+
+“Yeah…” Eppie made her heart settle before she pushed forward with her request. “Can I ask a favour?”
+
+“Anything. Did you find another artist?”
+
+“NO, no… this is off the record, not for print—I need gossip on Senator Sanders. Anything on the home front? Family stuff?”
+
+“... You’re digging into the Sanders?” Lafitte’s voice grew uncomfortable. “Is this a part of your… retaliation?”
+
+“NO!” Eppie coughed out the answer. “I am partnered with Valorie as her understudy, and I am noticing a particular pattern…”
+
+She told Lafitte her hypothesis, not from what she actually knew of Valorie, but from her [Script Analysis], trusting in the karmically derived exposition of a girl, an absent father, and the influences it may have on a desirable body open to exploitation to [Usurpers].
+
+“That’s an interesting theory…” Lafitte took a minute to gather her thoughts. “Francis Sanders is intensely private. We normally assume this is because of tact, and the fact that Valorie… “
+
+Looks like a movie star.
+
+“... It’s for good reason. That daughter of his draws more ink than half his colleagues combined. She's practically a minor celebrity in Senate circles. Every gossip stringer in the state would kill for a drama angle on Sanders and his starlet daughter. He's kept the door bolted on it for years, and honestly, I respect it. I am so sorry, Eppie. Unless you have concrete proof, I don’t think this is appropriate.”
+
+“I am so sorry…” Eppie apologised. “Forget I asked.”
+
+“The best I can do is send you Senator Sanders’ schedule. It’s publicly accessible—I just have it readily available. You can make your own conclusions from there.”
+
+“Thank you so much.”
+
+They finished by exchanging professional pleasantries, then Eppie dialled for her not-mentor, Julianna Vaughan.
+
+The Dame of the Met picked up on the second ring, sounding like she had been expecting the call all along. “Ma Dauphine. A pleasant surprise. I do believe this is the first time you’ve called me. I take it Odette's little demonstration made an impression.”
+
+“It was extraordinary,” Eppie confessed. “I felt physically ill watching the threads… ooze out.”
+
+“Yes, it’s a lovely aesthetic, made better by stage magic.” Vaughan laughed. “You have Mirabelle to thank for it. She was on the case; I merely put in a request.”
+
+“Is there some way I can thank the Ninagawa company?”
+
+“No need,” Vaughan said, sounding as if she were shaking her head sagaciously. “We’ve arranged for the production photos to travel. The Tokyo National Museum has agreed to a small textile and design exhibit on the local theatre scene. Once your LAPAGANZA is over, the costume will travel overseas and have a second life.”
+
+“Wow…” Eppie was once again reminded just now how small her world was compared to Vaughan's. “The NATIONAL museum?”
+
+“Diana has friends in high places in Kyoto,” Vaughan laughed. “I do too, of course, but this is more of a young person thing…”
+
+Just casual young people things… Eppie nodded to herself.
+
+“Anyway, I figured you’d call if someone told you,” Vaughan continued. “Yes. Kiritani Sensei is not well. Nothing acute, nothing I'm hiding from you, only the ordinary math of a man whose homelessness is catching up. The exhibition is being completed ahead of schedule. Early March. I'd rather it now than late. I want Kiritani Sensei to feel…”
+
+Vaughan’s voice grew low. “Completed.”
+
+Eppie's chest went tight.
+
+“Join us on the 1st of March. We’ll have the private opening on Saturday evening. Officially, we open on the Ides of March. That can’t be moved so easily. There will be an event. Senators, politicians, the VP, possibly. It’ll be good to show your face. Besides, what would Kiritani Sensei think if his tenshi was missing?”
+
+“I'll be there,” Eppie said before Vaughan had even finished the sentence properly.
+
+After her proclamation, there was nothing to be said.
+
+The rest, Eppie felt, was between herself and the man she found in Central Park on a Snowy December Evening.
+
+She joined the crew for lunch, slotting herself easily into the group of chattering Sophomores fresh with the energy of Monday morning. Min-jun appeared utterly smitten by her hair, while Lucy and Chelsea swore that they would renounce their friendship unless she revealed her secret salon.
+
+Eppie confessed that she actually had no idea what happened. The Grammys, she said, and the mysteries of her stylists were beyond her ken as a dress-up doll. Midway, Zara arrived, parting the Sophomores with her aura alone, then sat beside Eppie until, somehow, Eppie ended up sitting on the lap of her five-ten friend, like an arrested cat.
+
+With her body captured by the Spaniard, they conducted an “Ask Me Anything” about the Grammys, giving their Sophomore peers a taste of what it was like to be pampered by professional MUAs, be photographed by actual paparazzi, and interviewed by Joan Sterling.
+
+“God, you smell so good.” Zara buried her face in the back of Eppie’s head. “What are you using?”
+
+No Brand 3-in-1 was what Eppie was using.
+
+“I didn’t even notice when they dyed your hair,” Zara said. “Why is it so glossy?”
+
+Eppie’s back grew clammy with cold sweat. Was my lie about to be exposed?!
+
+“Can I smell it?” Min-Jun’s lack of tact came to her rescue.
+
+“Sure,” Eppie moved from Zara’s lap. “Dig in—”
+
+Zara pulled her back, then hissed at Min-Jun like an angry Mrs Catch’em.
+
+The Sophomores laughed, and the question about her hair was forgotten.
+
+Sorry, Min-Jun… she looked adorably at the young man nursing his scratched cheeks. I’ll buy you a drink when you’re old enough.
+
+LAPA. Senior Arts Block.
+
+Eppie did not choose to exercise her new [Trait] in her Sophomore production. She saved it for the latter session, because she wanted to see if simply being on the roster counted as “her production.”
+
+The Senior black box, as usual, smelled of hairspray, teenage nerves, and Valorie. Her class was running the pre-mutilation plea, this time with everyone having practised their lines and done their due diligence.
+
+“Is your arm good now?” Valorie asked from up on high, quite literally, as she was being fitted for her Lavinia costume.
+
+“It’s good,” Eppie flexed her perfectly healed arm. “The costume looks amazing.”
+
+“We have Mrs Tyker to thank for that,” Val’s returning response was genuine.
+
+Eppie considered the outfit.
+
+The dress was very fine cotton, folded and pinned rather than cut, so it read less like a garment than something poured. Long sleeves, fitted to the wrist. A rope cincture at the waist released the rest into a floor-length column pooling at her feet. Eppie had expected the Roman dress to show skin, but it covered everything but Valorie’s neck. Yet—gravity formed the fabric around Valorie’s figure, deep folds breaking over her hips, her collarbones, her chest, like a monumental Corradini sculpture. On her head was a hammered diadem of wired gold, shaped like a wreath.
+
+She looks like a votive offering to the Gods. Eppie’s [Sublime] deduced. She looks like a work of art.
+
+The class moved to the wall. The actors took their place.
+
+Valorie moved to the centre.
+
+Eppie took a deep breath, prayed for her [Causality], and activated [All the World’s a Stage].  The atmosphere did not visibly change—but something did—and they all felt it.
+
+The mock stage fell away, and for a moment, Eppie felt she was both within and outside the production. She was simultaneously an actress, a playwright, an audience member, and a critic.
+
+Elizabeth Moore, their Tamora, stepped into the light. She was a tall girl, taller than Valorie, and broad-shouldered in an athletic way that made her Visigoth Queen more believable. She had been playing the Queen with her chin up, proud, well-spoken, but now she looked like a woman who had lost her children, and yet remained too stubborn to kneel. Unconsciously, her shoulders dropped down in a way that made her look dangerous, like an exhausted alpha wolf, a man-eater, a true-blooded blonde bitch of the northern wilds.
+
+Her voice dropped as she delivered her lines, urging her sons to do with Lavinia what they will. When she grinned, her canines seemed to extend.
+
+Lavinia knelt on the floor, her arms twisted by the boys so that her chest and belly faced Tamora; her diadem was askew, a symbol of Rome’s decline. Valorie was ruinously beautiful with her throat exposed, the colour in her cheeks caught between the red of shame and the white of horror.
+
+“O Tamora, thou bear'st a woman's face—” she spat from between her petal-lips. “... The milk thou suck'dst from her did turn to marble; even at thy teat thou hadst thy tyranny!”
+
+Moore leaned in, close enough to kiss. The queen didn’t so much as blink as she grabbed Valorie’s face. “What begg'st thou, then?” she teased the young woman endlessly, her eyes cruel, cold, and full of grief. “Fond woman, let me go?”
+
+“Tis present death I beg,” Valorie’s eyes were brimming with liquid. Her whole body trembled. “O… keep me from their worse than killing lust…”
+
+The boys cackled like jackals.
+
+Eppie felt a sudden urge to find a flower pot large enough to strike the whole lot of these Goths. “Ah—” Valorie moaned. Joshua Ramone had mock-twisted her arm. He had been playing Chiron like a frat boy; now he was an animal, its fangs bared, licking the scent of fear from his victim. Charles Cranshaw, beside him, had found something worse than menace. Chiron’s brother looked like a man waiting for his turn, his eyes offering no remorse, only anticipation.
+
+“So should I rob my sweet sons of their fee?” Elizabeth said, flat, almost administrative.
+
+She looked away, as if seeing her dead children, the ones sacrificed by Titus.
+
+The practice ended. Eppie cut the [Causality] feed.
+
+She did the mental math.
+
+That scene was just under five minutes.
+
+[-14239] was the general figure she had witnessed. [3000] [Causality] a minute?! Was she made out of [Causality]?!
+
+“GOOD!” Cooper was up and clapping before anyone could recover. “That’s the feeling! Well done! Everyone! Wow!”
+
+He praised Valorie, then left the girl to her own device while going around to the other actors. “Elizabeth! Do you feel what your body just did? Charles, that stillness—don't you dare lose that stillness! That was brilliant. Brilliant choice!”
+
+Susanna Tyker wrote in her notebook. She wrote a lot.
+
+Oh no… Eppie suddenly realised why the [Causality] cost was so damn high. [All the World’s a Stage] had brought all the other actors to Valorie's level, so their acting could mesh. What she had seen was… literally three other people spontaneously running [Physicality], [Act Natural], and [Vocality] at the A-tier, while suddenly and exquisitely comprehending their characters thanks to [Script Analysis].
+
+Could I even afford this? A full play was… 2 hours and… 15 minutes? Not counting the opening and closing. That’s… [405000] [Causality]?!
+
+She… she had [110514] left!  But then again… if all the actors were equally skilful… Would [Stage] still cost so much? No doubt Valorie needed only a smidgen, while the [System] was supercharging everyone else with supernatural skill sets. At my expense.
+
+Sorry guys… she felt sorry for Elizabeth, Charles and Joshua as they beamed at Cooper. Hope you learned something from today… because there likely won’t be a repeat until LAPAGANZA…
+
+“Sir, Ma’am,” Eppie slipped in between her instructors once class finished. “Can I talk to you for a moment? I’ve got something to show you.”
+
+“Oh?” Tyker’s interest was piqued. “Lead the way.”
+
+They moved to one of the empty theatre rooms. Eppie logged into her student account and played the video she had uploaded of Odette’s craft, along with production stills from the Ninagawa production. She showed them the stump and the mouthpiece, with dense red strings sweeping from the body, smearing the white kimono as it moved.
+
+“What do you think?” She turned to regard her two instructors.
+
+“This is… incredible,” Tyker looked as impressed as she was confused. What is this, even?
+
+“Imagineering,” Eppie gave them a mysterious smile. “Disney.”
+
+“REALLY?” Cooper, for all his community theatre experience, had never extended an olive branch to corporate theme park costume magic. “Eppie, you know that’s… movie magic? It’s studio, not community.”
+
+“And it's for free,” Eppie brought home the whole bird. Well, it's favours, just not ones we can yet repay.
+
+“Well…” Tyker looked as if she were already drafting the new scene in her head. “That’s a YES from me. That thing fits in the sleeves?”
+
+“It does. The batteries are wired to the back. Just six double AAs. Activation can be by wire or remote. There’s issues with retraction—though—would we need it more than once?”
+
+Tyker looked at Cooper.
+
+“Will Mio be wearing this?” Cooper asked in a low voice. “This horror?”
+
+Tyker’s expression told her everything. “They pluck out mine eyes.”
+
+“Yes,” Eppie affirmed their hypothesis. “That’s the point.”
+
+Indeed, after Lavinia is dragged away, Mio, poor Luciana Mio, would stumble back onto stage, into the light of revelation, of truth, of judgement.
+
+“Behold thy daughter!”
+
+Marcus Andronicus would say, the crowd would gasp, and William—how and what William Chen would do when the Mousetrap snapped shut—was his choice to make.
+
+Her instructors studied her. She saw her reflection in their eyes, this tiny blonde thing, sitting in front of the computer, speckles of ruby red string reflected in her baby-blue irises.
+
+“I am in bloodStepp'd in so far that, should I wade no more,Returning were as tedious as go o’er.”
+
+Tyker cited Macbeth's bitterness upon realising the momentum of his course. The two of them shared a wan smile.
+
+Cooper exhaled long and deep, then looked at the two of them with something between exhaustion and sorrow. "You two understand this is going to be the best thing LAPAGANZA has ever staged. If it weren't—" her teacher stopped himself.
+
+The lament was obvious. If it weren't also a trap set for a boy who would never pay for his inexcusable crimes, the play really would make LAPA history.
+
+Tyker parried with humour, her laughter a little bitter around the edges. “When it’s all done, I could use a long holiday.”
+
+“Do you think we’ll finish the performance?” Cooper grinned a little, for tragedy and comedy were invariably entwined. “Or would they shut it down?”
+
+“I think they’ll let it finish…” Eppie replied confidently even as her [Causality] pool trembled at the bloodbath to come. “I am… very confident that… the show will go on.”
+
+Her teachers heard it as comfort. Eppie, of course, meant it as a promise.

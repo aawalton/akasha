@@ -1,0 +1,171 @@
+---
+id: 74b8c52e-284b-50f6-9562-ac0310ee6a49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Stand By Me (2) "
+slug: 0067-chapter-36-stand-by-me-2
+partOf: metaworld-hopecore
+position: 67
+ownLength: 2486
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3385163/chapter-36-stand-by-me-2"
+royalRoadId: "3385163"
+---
+
+Eppie had spent the better part of ten weeks wondering where Mio had gone, and now that the girl was right there, she felt suddenly lost for words.
+
+Were they friends? Did friends abandon friends to the wolves? She had no answers, because Lana didn’t have friends in the Merrian-Webster sense. Lana had the company of associates and sycophants.
+
+The two of them sat on the long stone benches opposite the inner wall, under the orange tree and its citrus scent. They faced each other, but not symmetrically. Eppie wore her casual minimalism, and Mio wore Sunday clothes appropriate for church, which in their rural community meant an oversized floral blouse and a long brown woollen skirt.
+
+The oranges, Eppie noted, were a little overripe.
+
+Mio sat with both hands on her lap, staring at her fingers. The girl was prettier than in her pictures. She was a picture of heartache.
+
+“Sorry, Eppie. I didn’t know what else to do.” Her voice drifted between them like a breeze. “I didn’t know… that you fell, after I left. I should have come to the hospital. I should have…”
+
+Eppie said nothing. There was a time for talking, and a time for listening. She could be a very good listener if she wanted.
+
+“I thought that if I left, they would leave you alone. I… I was dumb. So dumb…”
+
+Mio started. Mio stopped. Mio started again.
+
+“Did… did you get the message I sent you?”
+
+“I don’t know,” Eppie leaned in so that Mio was forced to meet her eyes. “I don’t remember anything after I fell. The only memory I have is of waking up in the hospital.”
+
+Mio's complexion paled, yet Eppie wasn’t angry.
+
+The Eppie of the present could not possess true bitterness, because she has no memory of that changing room stall. Of Lim. Of her hands on Mio’s slippery body, mopping down her blood with a towel. She doesn’t recall the weight of Mio’s body on her shoulders. She hasn’t suffered the days, weeks, and months that followed when Simone turned traitor, and Mio became her only friend. Without that memory, how could Eppie be genuinely angry? All she felt for Mio was sympathy, and for the former Eppie, a little sadistic pleasure in seeing Mio squirm.
+
+“Yet, you look amazing.” Mio’s eyes darted back and forth between her face and the floor. The girl’s amber eyes were so very pretty, like jewels. “You’re so different. So confident.”
+
+“Dying does that to a gal,” Eppie didn’t cut corners when it came to spitting facts. “But none of that matters now.”
+
+“After I left…”
+
+“It doesn’t matter,” Eppie repeated. “I am not accusing you of anything, Mio. Instead, I want justice, in whatever form I can get it. I understand you were frightened, and you made a choice. Not a great choice for me, but it was the best you could do under the circumstances. How have you been?”
+
+Mio stared at her. The girl’s face, Eppie noted, was truly unique. It wasn’t perfect like Eppie’s [System] sculpt, but it possessed something that stirred her maternal instincts. When Mio’s lips trembled, she felt a sudden, inexplicable urge to embrace the girl, to hold her close and say that everything was going to be okay.
+
+“Are… are you really Eppie?” Mio’s eyes grew visibly timid as both hands wrung her skirt for dear life. “You don’t talk like her at all. You were so quiet. Shy. You never spoke up.”
+
+Eppie pointed at the side of her skull. “I had a swelling here, about the size of a walnut. It came and went, after which the girl who woke up was no longer the girl you knew, but I am still Euphemia Fontaine.”
+
+“So the song on YouTube…”
+
+“Yeah, that’s me.” Eppie nodded. “What doesn’t kill you makes music, I guess? So er… You know Lim?”
+
+“I do.”
+
+“Did you know that… he’s on our side?”
+
+Mio smiled. “You told me. I believe you now, though I didn’t believe you then.”Perhaps thinking of Lim, of the man who might have loved her, yet did not help her, her smile grew wan.
+
+“I’m glad you’re famous now. You made it,” Mio changed the subject, her expression heartbreakingly kind. “The old Eppie could not even dream of it.”
+
+“For what it’s worth,” Eppie said. “I needed the fame to live.”
+
+The wind blew, the sun shone. The sound of children playing ball and families laughing and speaking too loudly in Spanish blew over the wall.
+
+Mio shifted her body. She was no longer hunched. She sat with her hands on the edge, her body long and languishing, her legs at an angle against the mulch.
+
+Eppie admired the sight, this stretching out of a cloistered soul, until she began to see. The way Mio sat, the way the dress fell. The way the fabric folded. The geometry of the girl’s silhouette was no longer that of a girl.
+
+Her mouth grew suddenly dry. Her tongue felt instantly parched. Guilt, with a viscosity she had ever experienced, filled her soul with a depth that she could not fathom.
+
+“Oh God…” Eppie moaned. She was falling, her head was in free fall. “Oh God, Mio… Oh my God…”
+
+Her fingers clenched and unclenched, grasping at the threads of possibilties as if to change their course. She didn’t know what to do. What to say. Mio cocked her head. She did not look away from Eppie, but gave that same, wry smile.
+
+The legal case in Eppie's mind—the one she had been teasing herself with since the Maneki Café, the recording, the chain of custody, the DA's office, the civil restitution, all of it fell to hell.
+
+“How… how long…?” Eppie heard herself stammer. “Is it…?”
+
+“Twenty-eight weeks, give or take,” Mio’s voice was steady. It was the voice of someone who was already at peace.
+
+May, June, July, August, September, October, November. Eppie hated her [Arithmetic]. She hated how she instantly believed it. She hated all there was no more doubt. She hated it all.
+
+“Everyone knows?” Unauthorized duplication: this tale has been taken without consent. Report sightings.“Father Parson knows,” Mio said. “Father and mother thinks its some irresponsible boy at school who I won’t name. Everyone in church thinks the same. They’re very nice to me. They think the city is the devil’s domain. They know what happens to naive Nikkei girls who chase foolish dreams in LA. If they have an opinion, they don’t talk about it, at least not to our faces.”
+
+The wind turned cold. The gravid fruit of the navel tree hung above them, diffusing a sweet, sickly scent of citrus. Across the cloister, she saw Paco, Zara and Eric looking at the floor while father Parson spoke. Zara held the giant box of food like a talisman; she was crying.
+
+“I didn’t know until I ran, so… it's not why I left you,” Mio continued. “I found out later, too late. I was given a choice. I made it.”
+
+“Stop.” Eppie reached across them and took her friend’s warm, soft fingers in her frigid, trembling hands. “Don’t justify anything. You owe me nothing.”
+
+Mio looked at their entwined fingers, squeezed the flesh of Eppie's palms, then sighed long and softly, like her soul was escaping from her body. “You are here for the recording?”
+
+“I don’t know,” Eppie shook her head. She was genuine. She genuinely had no idea. No anymore.
+
+Tell the mother of a child to prosecute the father? Tell the victim of a sex crime to hold her baby in her arms and wield it as a weapon of retribution? Tell Mio that her thirst for justice necessitated sacrifice?
+
+Tell her NOT to pursue anything? That’s equally absurd.
+
+“I’ll give it to you,” Mio reached inside her woollen skirt. From a deep pocket, she produced… a cassette tape. “It’s fuzzy, but you can hear what he did to me, what he said to Lim. What he said about my family. That night, when he refused to let me leave the locker room. I felt it. I felt that nothing would ever be the same tomorrow. So I made this.”
+
+A cassette. Eppie swallowed. Certainly, it was better than a digital copy, but…
+
+She took the cassette.
+
+“That’s not the only reason I am here,” Eppie said. “I wanted to see you as well. Just… to see if you were alright. I don’t remember much, but I do know I needed to see that you’re alive, and that you’re doing… well… I don’t know.”
+
+They looked at the heavy oranges. Their gaze lingered for a long time. Then simultaneously, the girls leaned into one another, their arms finding their respective places around their waists and shoulders. Their cheeks brushed, their breath hot against each other’s hair.
+
+“You were brilliant.” Eppie changed subjects because she felt oppressed by the belly pressed gainst her own. “In the Choir. Your voice is so beautiful.”
+
+“It gives me peace,” Mio said. “It’s also payback to the community. I want to bring them joy where possible. I feel happier here, singing. It’s different from LAPA. I am glad for everything. I am grateful for their kindness, the food, the clothes they donated, and the nursery they’re helping my parents make. I am grateful…”
+
+Mio looks down at her abdomen. “I am grateful even for this.”
+
+A part of Eppie wanted to scream and shout, but the better part of her told Lana to shut the fuck up. Lana never had kids. Lana never wanted kids. What the hell did Lana know about this? Any of this? The only thing Lana had engendered was misery, lawsuits, and profit. How many families had Lana ruined? Not even the [System] knew.
+
+The child was tabula rasa, without sin, and at 28 weeks, it was far, far too late for the age-old debate that irrationally tore America apart every election year. Better that the sweet babe grew up beloved and cherished than… what’s the alternative? What would be the karmic burden?
+
+The wind blew again, and the tree rustled. The sound of children's laughter permeated the walls of the ancient cloister.
+
+“The parish has very good people,” Mio said, as if to convince her. “I don’t know if I will ever repay them for their kindness.”
+
+“I was a stranger, he says, and you took me in,” Eppie parroted the words of Father Parson.
+
+“Yes,” Mio smiled demurely. “He is a kind Priest. A great Father. A good man.”
+
+The duo grew silent again. The bell in the small tower above them rang once, a single, space-piercing note, an apostrophe toward God. The sound travelled across the cloister and dissolved into the orchard.
+
+Mio winced. The baby was shifting.
+
+“I have something for you,” Eppie said suddenly, her mind made up. “I want to give you a song to share with the community. Something to keep you in good… financial health.”
+
+Mio’s brows grew furrowed, confused by the sudden shift in tone.
+
+“Just…” Eppie didn’t want to ruin the atmosphere by explaining things, by mentioning Curon, Sony, her connections. The [System] had given her the song for a reason, and she wasn’t about to squander the moment. “Just trust me, like you trusted me before…”
+
+She took a step back. She closed her eyes. [Songstress], [Vocality], [Gospel] fired off all at once, she even activated [Perfect Pitch]
+
+Her pale-cherry lips parted, and the first note emerged into the cloister like a pebble dropped into a still pond.
+
+She began with the Chorus. No introduction. No deep breath as Prince had remarked in his timeless classic. Just the interval, from a minor third that opened the long-throated chorus from below, turning the key to open the lock of childhood memory. Syllable by Syllable, she takes it slow, building into the gradual crescendo, her voice cutting through the air, the space between them, laying out the song like a gift.
+
+How could you leave me standing...
+
+Prince’s childhood was the childhood of a stray, drifting from houses, neighbours, from friend’s families to his own mother's. The greatest words in song's world-famous verses wasn't the starkness of the imagery or the desperation in his voice. It’s the word “Maybe”. Maybe he is like his father, maybe he would become like his mother. It’s the uncertainty, the fear, the dreadful realisation that he would become the very people that abandoned him. The song has no bassline. It is the song of a man in free fall. Eppie finally knew why the [System] gave her the song. Why Mio needed it. Would their child be like Mio? Sweet and good and full of naive hope? Or would the child be like William? Cruel and sadistic and full of venom? Would the child be safe when it finally saw the world? Would the child be a danger to the Chen family? There were maybes, too many maybes, but what was immutable was that the child would be born.
+
+In its choral form, what emerged from Eppie’s lips is the melodic soul of the song, which at its heart was a lament. She held each note with expert ease, her [Traits] allowing her vowels to strike the cloister walls like prayers from Father Parson. Her feminine voice travelled in every direction, then arrived as an echo, resonating, haunting, hollow, as Prince intended.
+
+Father Parson stood. Uncle Paco stood. Zara placed the food box aside. Eric already had his phone out after the first verse.
+
+Mio watched her, her eyes brimming with bidden liquids, her chest heaving. The poor girl had left her friend in a world that was so cold, and now that friend had come back not for retribution, but to deliver reparation and kindness, compassion and forgiveness.
+
+Mio sat, one hand on her swollen belly, the other on her heart, watching Eppie watching herself, the way a woman might observe a statue of Mother Mary, in awe, and in wonder at the relic. So this was what Eppie's voice sounded like, what her song sounded like—
+
+When— doves— cry—
+
+Eppie felt her chest open for the final note. Cooper’s lessons fill her abdomen, and everything that had been pent up releases all at once. The note, the cry, echoes over the cloister, the arched rooftop, the body of the church, over the parking lot, over the wall, over the people who had stopped to listen.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+She took a long, deep, hungry breath of sun-warmed air. “The Song’s name is Doves Cry,” Eppie informed her friend, whose body was gravid, and whose hands were trembling. “This is your song.”
+
+Her friend wept, sobbing without sound, one hand on her belly, feeling the innocent life inside lay claim to the dirge.
+
+Above them, the last fruits of autumn swayed in the wind. They smelled sweetly of citrus.

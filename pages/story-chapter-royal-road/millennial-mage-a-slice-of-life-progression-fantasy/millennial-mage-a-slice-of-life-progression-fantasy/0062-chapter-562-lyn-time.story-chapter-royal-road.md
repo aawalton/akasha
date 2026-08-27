@@ -1,0 +1,295 @@
+---
+id: 746c5e6d-adcc-5cb8-95d1-f2b15c98c862
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 562 - Lyn Time"
+slug: 0062-chapter-562-lyn-time
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 62
+ownLength: 3165
+unit: words
+ownProgress: 3165
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2278524/chapter-562-lyn-time"
+royalRoadId: "2278524"
+markedReadAt: "2026-06-29T19:37:16.849Z"
+---
+
+Tala looked expectantly at Lyn. “So? What do you want to see?”
+
+Lyn hesitated for a moment before shrugging. “You often went on and on about the tea you got from here. I even had some, and it was quite good. It was sold in bricks, if memory serves. If it’s still of the same quality, I have a few merchants that I’m partnered with that I could direct toward the sellers, while Ironhold is here.”
+
+Tala chuckled. “Sure. I think that stall was on this level. This is the main market tier after all.”
+
+She led the way through a market that was both familiar in the sense that it was filled with bustle of buyers and sellers just as she expected, and foreign, in that nothing was where Tala remembered it to be.
+
+-Well, I mean… it has been more than ten years.-
+
+Yeah, yeah. Tala sighed.
+
+Even so, she finally spotted a familiar looking stall. Just like before, it was smaller than those around it, despite clearly doing brisk business.
+
+A very old man sat on a chair outside, talking with various passersby who stopped to chat, while inside a father and son were happily interacting with customers.
+
+The father and son were clearly the son and grandson—respectively—of the older man outside, and Tala smiled at the sight.
+
+Still working as a family.
+
+A young woman, about the son’s age came out with a baby boy balanced on her hip and a smile on her lips.
+
+Even as Tala, Rane, Lyn, and Terry approached, the young woman kissed her husband, holding out their son for the same from him. After he did as she requested, the wife and baby departed, seemingly heading about their day.
+
+And another generation is slowly brought into the business.
+
+The stall itself was simply made up of deep stacks of dried, pressed tea bricks. Each stack had a magical warmer and teapot situated in the front of it, so customers could sample what they were buying, if they so desired.
+
+Tala’s eyes locked on the espresso bricks that were off to one side, her nose only then catching that scent among so many others.
+
+Lyn walked ahead, a gleam in her eye as she entered the tea merchant’s space.
+
+Rane waited outside, Tala followed Lyn for a moment, and Terry vanished from her shoulder, going who-knew where.
+
+Well, Tala could watch him with her threefold sight now, so she decided to keep an eye on where he went, and ensure that he didn’t get up to any mischief… or at least, not too much mischief.
+
+Lyn and the father—the middle of the three running the stall, as Tala supposed that all three were fathers—began an amiable discussion, during which Lyn tried each type of tea using a small cup that they offered her.
+
+Tala briefly spoke with the youngest of the three and walked away with a large stack of the espresso bricks, joining Rane outside the stall to be with him until Lyn was done.
+
+In the end, Lyn tried to buy their whole stock, but they politely declined, saying that the loss in exposure by having to close for the day would hurt them more in the long term than selling out would help.
+
+That seemed to make Lyn very happy… for some reason, and she began to barter on a larger order to be acquired over the next few days.
+
+Tala sighed, giving a half-smile. “So much for leaving it to her merchant friend.”
+
+Rane chuckled. “She’s in her element, here. Let her have her fun.”
+
+“Oh, I wasn’t planning on stopping her.” She grinned back.
+
+She kept a good chunk of her focus on Terry as he flickered through the stalls, clearly looking for something, if his body language was any indication.
+
+Finally, his eyes widened in apparent glee, and he flickered under a particular stall, still too close to Tala to take on the illusion of an inconspicuous man.
+
+Tala sighed, giving Rane’s hand a squeeze and moving a bit away. “I have to go and prevent disaster…”
+
+“Oh?” Rane raised an eyebrow. “What’s happening?”
+
+“Terry found a jerky stall…”
+
+He cleared his throat. “I… yeah… Would you like me to come?”
+
+She shook her head. “Stay here with Lyn. We’ll be right back.”
+
+He smiled and leaned in to give her a kiss, which she returned. “See you soon.”
+
+After the kiss, Tala simply flickered over to near Terry, being careful to use her threefold sight to choose a less obtrusive place to arrive.
+
+She knew that her arrival would be seen, but it shouldn’t block or startle anyone.
+
+Sure enough, as she appeared she heard a couple of gasps, but no one screamed or had to jerk to keep from running into her.
+
+A couple of strides took her to the jerky merchant, and she took a moment to appreciate the massive bundles of dried, cured meats that had been skillfully tucked around the relatively small space.
+
+Each type of jerky seemed to have one parcel that was open, from which the merchant, a mild-aged woman, was pulling smaller amounts for various customers.
+
+Tala waited her turn, then asked after the various offerings.
+
+There were meats from quite a few different animals, but most of those currently on offer were pork based. The flavors that had been imbued into the meats were then even more numerous than the kinds of animals the base had come from.
+
+Five minutes later, Tala proved that not all vendors were as long-term thinking as the tea sellers when she bought out the woman’s entire stock.
+
+-Tala, that’s hardly fair. She doesn’t seem like someone who’s here all the time, unlike the tea sellers. I bet she only comes to sell her wares every so often. So her goal is to sell out as quickly as possible and go back to her other work.-
+
+Tala sighed and gave a slow nod. That’s true, I suppose. Everyone has different goals, so ‘long-term’ planning looks different for everyone.
+
+-Right you are. Now, if you could just do any form of that, we’d be getting somewhere.-
+
+…Did you… did you just… Tala was momentarily baffled.
+
+Regardless of her internal bafflement, she went through the motions of paying the woman, who immediately took the money, took down her sign, and took her leave.
+
+Tala kept trying to parse the depth of Alat’s ridiculousness even as she continued moving the large bundles of jerky into the portal she’d opened into her sanctum.
+
+She only re-gathered her thoughts once Terry flickered out from under the stall and glanced around, giving her a narrow-eyed glare when he confirmed that there was essentially no more jerky about.
+
+That made her laugh, drawing her back to the present. “Relax, Terry. The jerky is for you. In the sanctum, you know how to call it to you.”
+
+His eyes widened, and he looked to the open portal, flickering through it a moment later, a bit of jerky appearing in his mouth as he flopped down in the grass.
+
+“Have fun.” She shook her head, dropping the last bundle through before closing the portal and heading back toward Lyn and Rane. Contrary to Tala’s expectations, Terry had chosen to flicker out at the last moment, landing on her shoulder as he settled in and enjoyed his snack.
+
+Tala’s adjunct was finished with her bartering, and she seemed quite happy as she and Rane investigated some other nearby stalls.
+
+They saw Tala and Terry’s approach and waved them over.
+
+Rane held out some chocolate for Tala to try, and Lyn ushered Terry to come to her.
+
+The avian did so, seeming reticent, but when the woman presented him with what seemed to be chocolate covered bacon, he trilled with glee and flickered to her shoulder for his treat.
+
+Tala’s chocolate from Rane was actually a cordial of some kind. The liquors within were both sweet and incredibly alcoholic, both aspects of each complementing the dark smoothness of the casing. The magic that she could detect in the delicacy made it obvious how the extreme proof had been accomplished.
+
+She thought that even a single one of these desserts would get a mundane human drunk. To her? It was just a pleasant treat.
+
+The chocolate reminded her of that which she remembered buying at the end of her last time in Makinaven for Master Jevin. Is this the same stall?
+
+-I don’t think so, but it does have some of the same stuff.-
+
+Tala found herself glancing around, half-expecting to see the odd boy-archon pair whom she’d run into before, but that would have been far too much of a coincidence.
+
+-I do wonder if he’s been allowed to become a Mage in truth, yet.-
+
+I hope so. He was already very skilled when we saw him last. I wouldn’t be surprised if he was an Archon already.
+
+-Assuming he could get through the Bonding.-
+
+She gave a sad smile at the thought. Yeah.
+
+Rane put a hand on her shoulder, drawing her from her thoughts. “Is everything alright? You seemed to be looking for someone. Can I help?”
+
+She shook her head. “No, I’m fine. I was just reminded about the last time I saw something like this chocolate.” She gave him a genuine smile. “This was excellent, by the way. What was it?”
+
+“It was a dark chocolate cordial with two chambers. One was apple liquor, the other was caramel.”
+
+“That’s what that flavor was. Caramel apple.” She went up on her tip-toes to give him a kiss before expressing her gratitude through a more traditional means. “Thank you. It was delicious.”
+
+-I could have told you what flavor it was. Rust, you could have figured it out with a moment’s thought.-
+
+Hush you.
+
+Rane grinned down at her, his tongue licking across his own lips. “Yes, yes it was.”
+
+Lyn cleared her throat loudly from beside them. “Well? Shall we go?”
+
+Terry had his head tilted to the side. When they looked toward him and Lyn, he chirped expectantly.
+
+Tala smiled brightly at her friend, even as her husband flushed. “I want to buy some more of those. Which stall was it?”
+
+Lyn shook her head and led the way.
+
+The four wandered the market for another couple of hours, trying various things, generally just enjoying themselves, and buying far more than they really should have—except that they had the ‘eternal’ storage of Kit at their disposal.
+
+Funnily enough, as they were leaving, Tala saw a younger man and woman buying chocolates, and the two definitely reminded her of Master Reve and Mistress Criada.
+
+She only barely saw them with her threefold sight, despite the intervening stalls, so she couldn’t be one hundred percent certain without going to check, but it made her smile.
+
+She decided to assume that it was them and that they were happily continuing their lives side by side.
+
+By their auras, the man had been well on his way toward Fusing, and the woman looked to be about half-way through her Refining, and by the way they were interacting, they were at least close friends, with a bit of deference sprinkled in between them.
+
+Yup, I’m saying it was them.
+
+-You do you, Tala. Whatever makes you happy. We could, you know, just look them up.-
+
+That would be weird… We only met once more than ten years ago. Would we just show up at his family’s home to say hi?
+
+-Yes, that would be weird, not fantasizing about a growing relationship between the two Mages over there who might or might not be people you know passingly.-
+
+Tala flushed slightly at the implication. I was not.
+
+-Sure, sure. As I said, you do you.-
+
+She sent a grimace toward her alternate interface. You’re unpleasant sometimes.
+
+-Yes, yes we are. I’m glad to help remind you of that.-
+
+…I really do, do this to myself, don’t I…
+
+-Always and forever.-
+
+Tala huffed a laugh, causing Rane to give her a funny look and Lyn to sigh before bumping Tala. “Care to share?”
+
+Tala shrugged and after only a moment’s pause, decided to explain, causing both to chuckle several times.
+
+Lyn glanced toward Rane. “Is Enar like that?”
+
+Rane shook his head. “No. Enar’s great and not really the teasing or joking type, at least not with me. Though… we basically never talk to each other anymore.”
+
+That caused Tala’s eyebrows to rise. “Really? I thought he was a chatterbox.”
+
+“He was, but that only really lasted until he got set with his Archive connection. He’s been poring through records available to us around advancement ever since… Well, that’s not all, but it’s a good portion of what he’s doing these days. He handles the Archival stuff I want automated without issue, and I try to do anything he needs as soon as possible. It’s very much a close, parallel existence for us.”
+
+Tala sighed. “Where Alat and I are rather cyclical in our interactions.”
+
+“So it seems.” Rane grinned her way.
+
+Lyn shook her head. “Come on. I want to see more. Where to now?”
+
+Tala considered for a moment, then pointed up. “Let’s go to the top. It’s a great view.” She blinked for a moment, then chuckled. “In fact, I actually think we should be able to see Platoiri from up there.”
+
+Lyn’s eyes widened. “Really? I didn’t think it was that close.”
+
+“Oh, it’s not that close, but at the right time of day, you can see some parts of it, and a bit of the lights can be seen at night down near the southern mountains.”
+
+She smiled. “Well, then. That would be worth the climb.”
+
+Ten minutes later, Lyn began focusing on the climb more than the views out over the tier they were circumnavigating.
+
+Fifteen minutes after that, she was beginning to breathe heavily at the constant uphill climb.
+
+Twenty minutes after that, her gaze was locked down at her feet as she plodded onward.
+
+An hour after they had started, Lyn glared at Tala, speaking around deep, long breaths, “This is ridiculous. There isn’t an easier way up than circling this silly tree again and again?”
+
+Tala nodded. “Of course. We can hire any number of methods of transport up to the top. I think we could even get a ride on a gravity elevator if you wanted, but this is the more scenic route and means. Any method of travel would have us passing all this much more quickly.”
+
+Lyn narrowed her gaze at Tala. “I’m not used to this constant slope. Let’s find a better way.”
+
+“Sure.” Tala smiled at her friend. She’d considered riding Terry, but for him to be big enough to easily and comfortably carry the three of them, he would be too big to easily fit in the tunnel.
+
+Soon enough, they were zipping up the spiraling incline of one of the outer roads in the back of a passenger cart pulled by a large cat of some sort and driven by a kind young woman who seemed to enjoy pointing out the sights as they rushed past.
+
+By the time they got as far up as the spiral roads led, Lyn was recovered, and she was once again her more exuberant self.
+
+They all thanked their driver, and walked out of the tree, into the late afternoon light in the upper branches.
+
+Lyn gaped and both she and Rane looked around in awe at the various bridges and walkways of the upper reaches. Even Tala felt the need to just soak in the beauty, but she took a hand of each and led them on the same route she’d taken so long ago.
+
+It didn’t take long to scale the last bit and reach the final climb up the viewing platform, even if it wasn’t that short of a walk.
+
+They had to go a little out of the way as there were some workmen refitting some of the walkways, but that didn’t add too much time overall.
+
+Soon enough, the three humans and one terror bird were atop the very heights of Makinaven, looking out over the surrounding forest.
+
+It was just as stunning as Tala remembered, and she reveled in the joy and wonder on her husband and her friend’s faces.
+
+After a long moment, Lyn looked toward Tala. “You were right. This was worth it.”
+
+Tala grinned back. “I’m glad you think so.”
+
+Rane was staring south, and Tala could detect power flowing through his eyes. He spoke in a very soft whisper. “That’s where you were taken, that’s where you were held.”
+
+Tala took his hand, pulling his focus. “That’s where I returned from.”
+
+He smiled and gave her a quick kiss, trying to be mindful and courteous of Lyn.
+
+With him pulled out of his darker thoughts, the three friends simply enjoyed the expansive vista laid out around them.
+
+Tala looked where he had been staring and was able to see Platoiri with her enhanced vision with relative ease. She even thought she recognized some of the landmarks of the city.
+
+There was a brief thought of pulling out one of her siege orbs with the downward gravity negated and sending it toward that city in the distance, but that would be a foolish choice for a number of reasons.
+
+Even using one of the ones currently blurring in tight orbits of her ‘ready-donut’ for her gravity gun wouldn’t be advisable. Rust, even one of the tungsten balls there would be foolish.
+
+-We really need a better name than ‘ready-donut.’-
+
+I agree, but that’s not what I’m thinking on right now.
+
+-Fine, fine.-
+
+As to why she shouldn’t take a pot shot? First, it likely wouldn’t do anything. There were extensive defenses already in place that would likely negate such a paltry attack. Beyond that the City Lord would likely detect it and stop it, even if the passive defenses didn’t.
+
+Second, even if it got through the defenses, both active and passive, she’d most likely hit random citizens. She had no desire to kill random innocents who just happened to be in the wrong place.
+
+She was about to consider the other reason to hold her itch at petty vengeance when Terry broke her focus.
+
+He let out a declarative trill, stating his presence to all who could hear for miles in every direction.
+
+The sound caused the three humans to startle, then burst out laughing.
+
+A few flocks of birds had similar reactions, but those avians took to the air instead of falling into mirth.
+
+The terror bird gave the humans a smug look before returning to Tala’s shoulder to settle in.
+
+After their chuckles subsided, the three fell into silence, enjoying the company as much as the scenery.
+
+There were few views like it in the cycling cities, and Tala didn’t have anyone she’d rather see it with.
+
+This was a great way to close out the day.

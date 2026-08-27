@@ -1,0 +1,171 @@
+---
+id: 606c397e-ecb8-5de6-9445-36f9966faf1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - Not Ready to Make Nice (2) "
+slug: 0048-chapter-25-not-ready-to-make-nice-2
+partOf: metaworld-hopecore
+position: 48
+ownLength: 1984
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372854/chapter-25-not-ready-to-make-nice-2"
+royalRoadId: "3372854"
+---
+
+Eppie Fontaine, thief and accused, stood unfazed.
+
+She wasn’t at all worried that Coordinator Carr looked like she was about to cry.
+
+She wasn’t at all worried that Simone Goode had brought campus security from CSULA to serve swift justice.
+
+She wasn’t even worried about Valorie Sanders, who looked like a cat that had just found the cream canister unlocked.
+
+This was because she was an adult. A very experienced adult. One with real-world experience in matters of litigation and legalism that far, far exceeded the understanding of the situation that these children were engaged in.
+
+Why would she be afraid of goddamn kids who knew nothing of fine print?
+
+At 7:30 AM, she arrived at school, ready to start her day. Unlike the other students, she carried her Norton’s for English, Algebra for Math and her World History readings in her duffle, together with changes of clothes. As a student living on campus, she never accessed or used it ever since she cleared out her old one, and cleared two of her courses.
+
+It was kind of laughable that Valorie, against her boyfriend’s peace offering, had orchestrated this childish accusation, and had done it with every conceivable witness, from the Coordinator of Programs to CSULA Campus UPD, to her clique of Seniors and Juniors, and her friends, including her two roommates.
+
+First of all, the last time she had used the locker was in week 2. That’s 8 weeks away. The officers were free to dust for prints if they didn't believe her.
+
+Second of all, she never used the locker, and CCTV for 10 or more weeks was more than enough evidence to support her claim of innocence.
+
+Third of all, she had Eric, and she could afford Eric’s services for the short trial needed to prove her innocence.
+
+Fourthly, it was written in black and white that any items stowed in the lockers or brought upon the campus as “luxury goods” with an excessive value were forfeit, and that the campus or LAPA was in no way responsible for the students’ poor choices. On this single line alone, Eric could create a case that placed the onus of fault on Valorie.
+
+“I knew you were desperate, Eppie.” Valorie was doing one of those impressions where the rich clicked their tongue and asked the world aloud why the poor were so poor, and why they were morally inferior to their genteel betters. “You could have just asked me. If you are hungry, if you need cash for whatever reason that didn’t involve drugs or alcohol, I would have gladly helped a fellow LAPA student.”
+
+“Valorie, speak again, and I am returning to the office.” Carr was clearly a choreographer and dancer and not an actress, for she wore her disgust on her sleeve for all to see.
+
+“It’s not a crime to be compassionate,” Valorie looked to her, then to Simone, then to herself again with a punchable smugness. “But I’ll be quiet now. Please proceed, Coordinator Carr.”
+
+“Hold on.” Eppie suddenly felt that it was against the fibre of her moral being to allow Valorie her moment of triumphant revelry. “How are you so sure that there’s anything in there, Senior Valorie? I told everyone already that I don’t use the locker. I don’t even carry the key on my person.”
+
+“Ha!” The bodacious redhead snickered. “Feeling guilty? Are you afraid now?”
+
+“Why should I be afraid?” Eppie stood her ground, her tiny body erect and firm as she squared off against the tall redhead. “If there’s something in there, then someone has defrauded me or is trying to frame me. You and me, we lawyer up. Our counsels do discovery. Orphan versus Nepo. In a court of law, Senior, not even your father can help you, unless he’s no longer seeking re-election.”
+
+“You—” Valorie’s face turned almost the same hue as her hair. “What makes you think you can even afford an attorney—”
+
+“Oh, you didn’t know Director Vaughan paid me handsomely for the Met performance?” Eppie channelled her old self, her innocent face suddenly acquiring strange, uncharacteristic guile. “Of course you don’t. It's not like you knew her. Well, not that it matters. It’s not like anyone there cared who you were.”
+
+If the girl could ignite, she probably would have, but for the fact that they were in public, and made of flesh and water.
+
+“Ah, to think of the two of us, I was the first to perform at the Met. Now that’s odds for the playbooks, hmm?” Eppie enjoyed herself immensely.
+
+“Eppie, enough!” Susan Carr hissed at her. Her eyes were very round and staring. They were also screaming.
+
+“Coordinator Carr,” Eppie bowed her head. “I am merely asserting my innocence against this outrageous attack on talent, spurred by jealousy—”
+
+“Who the fuck is jealous of a nobody— “ Valorie’s eyes flashed. Her hands were up. She was ready to swing for the face.
+
+“You seeing this?” Eppie raised her voice, using the very technique that Cooper had taught to project herself across the basement hall and beyond. “WHICH ONE OF YOU HAS BEEN A VICTIM OF THIS KIND OF BEHAVIOUR?”
+
+The crowd was silent.
+
+They knew. At least some of them must know. But none wanted to answer a tiny blonde girl who stood alone, and who had no backing, even if they were friends with her on MySpace and had liked her songs.
+
+Valorie chuckled as her rage dissipated.
+
+“When that locker is opened,” the girl spoke with such vehemence that Eppie was sure she was channelling Persephone from the underworld. “You’re going straight to prison.”
+
+Eppie shrugged in mockery. The world of 2007, unlike that of 2032, really wasn’t that complicated. The Rule of Law still existed, and she was neither a migrant, a minority, nor poor. “Whatever is in there, I’ll be out by dinner. Wanna bet?”
+
+“Open the Goddamn locker, Susan!” Valorie snapped at the Program Director. “I want my bag back!”
+
+Susan really did look like she was about to leave, but as a faculty member whose work was extremely beholden to the support of the PTA, she obliged.
+
+The locker clicked open.
+
+Susan Carr stepped back.
+
+The students pressed in to see.
+
+Nothing.
+
+Not a goddamned thing.
+
+Their Director stared at the empty space.
+
+Valorie Sanders stared at the empty space.
+
+Simone Goode’s limbs gave out, then she collapsed on the floor.
+
+Eppie stared as well.
+
+What the fuck? She felt the pounding of ten thousand llamas crossing the mental grassland of her mind, trailing a cloud of question marks. What kind of idiotic, stupid ploy was this?
+
+“She…” Valorie’s mind was clearly trying to jump-start enough, but the discharge from earlier had wiped out most of her mental faculty. “I…”
+
+She turned slowly to stare at Simone.
+
+Eppie winced.
+
+Did Simone fuck up? Did Simone steal the shit she was meant to put into the locker?
+
+“My Birkin…!” Valorie choked out at last. “Where the fuck is it?”
+
+A fucking WHAT? Eppie felt her own intelligence discharge. This goddamn nepo baby had a Birkin? She brought a Birkin to school? Like… What kind of Birkin? Holy shit, I could do with one. In her old life, Birkins had been a passion. It was one of the very few areas of her life where she allowed herself to be ripped off, then wallowed in the pleasure of her rare and collectable bags that she never used.
+
+She took a deep breath.
+
+“Can I have an apology at least?”
+
+Valorie looked at her as though she had just asked her for a tongue-kiss.
+
+“You stole it.” Valorie’s pupils were dilating like a cat’s before an imminent attack. “YOU FUCKING STOLE IT!”
+
+“What did I steal?” Eppie asked, her tone haughty as the crowd began a slow murmur. “You accused me without evidence. With nothing. Is that how this works now? Is this some kind of hazing ritual? We don’t have sororities here in LAPA.”
+
+“You stole my Birkin!” Valorie shrieked, as if an anaphylactic choking on a peanut. “What did you do—”
+
+“If you’re going to lie.” Eppie made sure to roll her big blue eyes so that all could see her exasperation. “Then lie in a believable way. A Birkin Bag? Are you serious? We’re High School students, Val. This is a public school. A Birkin Bag? Can your father even afford one on a Senator’s salary?”
+
+For several seconds, Eppie wondered if Valorie was going to burst like a boil or a lanced pustule. If the girl could just momentarily lose her sanity, then she was well onto the path of getting justice for her body’s former owner.
+
+“Eppie, that’s enough.” Director Cass’ face was between panic and alarm. “Don’t go too far.”
+
+Watching the woman standing between them, seeing that only her body prevented Valorie from committing assault, Eppie relented. Coordinator Carr was a good lady. It would be a shame for her to lose her job.
+
+“I bought her that bag,” the voice that came from the back of the crowd belonged to none other than Valorie’s boyfriend, one William Chen. “I am not sure exactly what’s happening here, but let's not make a mountain out of a molehill. It’s just a handbag after all, it's just stuff.”
+
+The crowd parted while the [Usurper] himself entered, his height giving him a terrific advantage as he came before her and Susan. “Val, don’t be upset. I’ll get you another one. A better one, in fact.”
+
+Valorie’s eyes moved from Eppie to her boyfriend.
+
+There was, incredibly, unbelievably, a sudden softness that seemed to overwhelm the diamond hardness of Valorie’s characteristic glare—then droplets of tears, big, luminous, enormous tears began to roll from the redhead’s peerless face.
+
+William hugged his girlfriend, then turned to Eppie with a sympathetic look. “I am very sorry for what has just transpired, Miss Fontaine. Mrs Carr, I am terribly sorry to have wasted your time.”
+
+His face, with his fox-like, feminine eyes and angular jawline, pleaded with her. “Can you forgive Valorie for the misunderstanding? The bag meant a lot to her. It was my anniversary gift to her.”
+
+Someone from the crowd said, “Aww…”
+
+Then the tension dissolved.
+
+The atmosphere Eppie had engineered just… liquified and drained away.
+
+Some of the kids even picked up their bags and left for class.
+
+“Alright,” Eppie smiled at the [Usurper]. “I believe you, William. No hard feelings.”
+
+“That’s amazing, Eppie,” William smiled back. “I am glad there’s someone like you at LAPA.”
+
+Like two rattlesnakes squaring off, the two of them flirted with their fangs out, dancing with the rapier of their gazes and the poison hidden in their glands.
+
+Susan Carr’s whole body unwound. “Thanks, William.”
+
+“I’ll take Valorie to the studio for a lie down,” he told their teacher. “She’s not feeling well. Must be because of her low iron. You know how it is.”
+
+More than half of the students were dispersed by now, and Eppie pondered if she should also be on her way. She also looked at Simone. Now might be a good time to pick apart my old friend—
+
+“Come on, Simone,” William offered a hand to the girl sitting on the floor as well. “You don’t look too swell yourself. I’ll get us all some coffee, double shot. Let’s take it easy before you all get back to class.”
+
+Like a newborn fawn, Simone stumbled onto her long, dancer’s legs. As she rose, their eyes briefly met. Her former friend was terrified, absolutely terrified, so terrified that if Eppie were to cut her open, nothing but Monarch Butterflies would escape the incision.
+
+“Good luck,” Eppie said to her former friend, watching the girl turn pale all over again as William helped her up. “Better luck next time.”
+
+Alas. Eppie thought as she watched her foes stumble away to lick their wounds. There was no [Causality] for revenge.

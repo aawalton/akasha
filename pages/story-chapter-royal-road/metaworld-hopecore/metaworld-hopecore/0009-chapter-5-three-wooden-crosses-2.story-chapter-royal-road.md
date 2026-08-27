@@ -1,0 +1,243 @@
+---
+id: 16251fc1-a4ce-5a71-9812-04e5d3e03d9a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 5 - Three Wooden Crosses (2) "
+slug: 0009-chapter-5-three-wooden-crosses-2
+partOf: metaworld-hopecore
+position: 9
+ownLength: 3170
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364609/chapter-5-three-wooden-crosses-2"
+royalRoadId: "3364609"
+---
+
+Eppie Fontaine, formerly Lana Zacanissian, seriously wondered if the absurd amount of flowers she received on the day of her discharge would net her negative [Causality].
+
+They were gifts from the nurses, the doctors, Dr Jane Hughes, whom she now considered a good friend, and apparently, media folk who had received the news of her discharge from a LA Times reporter.
+
+Naturally, being homeless, penniless, and parentless, she had nowhere to stow them, and so took her pictures for St Marten’s social media, then left the flowers with the staff to take home.
+
+Before she met Eric downstairs, however, she made sure to visit each and every department and give her medical team big, bodacious hugs from the heart.
+
++ Karmic Causality
+
+“I’ll visit!” Eppie promised, and that was no lie. As far as she could tell, St Martens could really use the financial help, and if one day, she could move enough capital to set up a Medical Trust for Director Harper, buy a wing or two, expand next door, add some updated, state of the art machines, or hire nationally renowned surgeons to take up residency, her [Karmic Balance] would shoot through the roof.
+
+At the lobby entrance, she met Eric Lee, her chaperon and lawyer, who took off his Ray-Bans to stare at her with his mouth half-open.
+
+Since she had no clothes of her own, Director Curon had sent over whatever Eric could scrounge from the costuming department at Sony Studios LA, with the express condition that it be “age-appropriate” informal wear.
+
+As it was 2007 and the staffer was very responsible, she had ended up with… Salmon-pink velour Juicy Couture hoodie and pants, with a pair of white Adidas pumps.
+
+Her [Persona] didn’t show a sliver of skin, and yet… Eppie felt very self-conscious. In 2032, the fashion lines spoke loudly for those with and those without. Neo-Prep, Faux-Ivy League, pastel retro-callback with a dash of K-pop was the trend that Lana oversaw, with J Press skivvies going for over $400 a pop. The alternative was Target and K-Mart, which received the designs two seasons later from sweatshops in Cambodia.
+
+To herself, the Velour hoodie was a museum piece, and yet, in her present cultural zeitgeist, it was the shit.
+
+Everyone in the lobby was staring at the pink-panther wonder in their midst, because it was easier to focus on the face of an angel than a figure that hinted at anorexia.
+
+“Interesting choice. Why do I feel that we’ll be stopped and questioned at LAX…” Eric scratched his gelled hair, loosening a few rogue strands from the holding spray. “That’s all you had?”
+
+“My choices were hot pink, lime green, or white with mid-riff,” Eppie replied, pulling her hoodie over her face. She was glad for that at least, because old soul or otherwise, the outfit was cringe. “Pick your poison.”
+
+“Let’s go,” her chaperone directed her outside the double-glass doors, and Eppie smelled for the first time the unfiltered air of Los Angeles.
+
+Clean, wonderful air.
+
+“Whoa—” She had to stop and stare. “The hell, Eric, is that an EV? You’re driving an EV Pickup?”
+
+She was looking at a legendary relic.
+
+A Ford Electric Ranger EV in cobalt blue, a 90-horsepower beast that she had eyeballed because of the collectibility of a retro-Electric with only 400 vehicles remaining in all the world. When pushed to its limit, it could do a 0-50 in an eye-watering… 12 seconds.
+
+“Yeah, well, were you expecting a Merc?” her lawyer laughed nervously. “Is it that strange? I did tell you I am from the old country. I am more of a fixer-upper guy when I am not in a suit.”
+
+Before Eppie could correct Eric’s misunderstanding, he stashed her tiny sliver of a bug-out bag with its hospital-donated sanitary sets in the truck bed, then opened the door for her to enter. The interior was… explicitly 90s, with plastic trims, analogue dials, and large black knobs for air conditioning. There were no screens, no Apple CarPlay, and no trappings of late 2010s tech.
+
+“We’re not taking a taxi?” She slid the seat belt over her, inhaling the nostalgic smell of an early-00s automobile. “Too expensive?”
+
+“It's not the price.” Eric winced as the Ranger EV hummed into life. “Let’s just say the yellow cabs have a reputation. The company’s footing the bill for your present excursion, so we’ll drive. Sony has assigned long-term parking at LAX since we keep a local fleet; this is Hollywood, after all.”
+
+Eppie concurred. Her past self had enjoyed the wonder of Lyft and Uber for so long that she had completely forgotten the intergenerational trauma of taking a taxi to LAX.
+
+It took the pair under a minute to hit the ponderous traffic that was Western Avenue and its gauntlet of gaudy neon and light boxes. In the daylight, the harsh light of the Californian sun left little to the imagination, making the viewer question if they had really come to the same place the night before.
+
+For Eppie, the neon boulevard was nostalgia personified. The ever-present Thai massage parlours with the implied promise of happier endings, the salmon-and-grey WWII-era apartment blocks that had yet to see gentrification, and the ever-present security bars that made every shop front look like a prison canteen added to the seedy charm.
+
+The only absence belonged to the yellow-tinged smog hanging over Hollywood.
+
+“Is everyone driving EVs?” she asked quietly, because the roaring thrum of ten thousand gas vehicles stuck on the avenue simply did not exist.
+
+“Only in California and the major cities,” Eric said with his eyes on the road. “That hospital stay really did a number on you, huh? Lots of folk still own gas cars, of course, but it's more of a collectable, hobbyist thing. Sunday drives, nostalgia.”
+
+Well, there goes my plans of buying cheap Tesla Stock. “So er… how’s the petrodollar?”
+
+“Good?” Eric shot her a suspicious look. “You know about petrodollars?”
+
+“Am I not supposed to know?” Eppie tilted her head, noting the innate cuteness she radiated through the side mirrors.
+
+“No comment.” Eric changed lanes. “Petrol is still king. The rest of the world hasn’t caught on yet. Nor have we, to be honest. EV tech is still developing, so it's just motorbikes and cars for now. We’re hoping that by starting the trend here, we’ll be head and shoulders above the Japanese, the Koreans and the Chinese. Did you know China is producing the world’s cheapest solar panels? The problem is that their battery tech is generations behind…”
+
+Eric droned on. What the Canadian said possessed immense implications for the lithium, copper and nickel markets, meaning she could…
+
+Her head throbbed. No profiteering, Eppie reminded herself. She was here on a global tour of atonement.
+
+“[Potential]” she whispered to herself.
+
+[Causality: 113]
+
+“Exchange for [Dasein]”
+
+Exchanging [Causality]Remaining [Causality: 7]
+
+Her inventory of [Dasein] rose to 47. A week ago, buying a single point was only 10 [Causality]. She had since confirmed that the longer she lived, the more expensive her life became. It was a mechanism that made perfect sense, because how else would she be compelled to do as much good as humanely possible? This single mechanic was the Sword of Damocles held over her neck, erasing all possibility of complacency.
+
+Her core question was whether there was a limit to the exponential growth, or if secondary mechanisms existed to “discount the cost” or contribute directly to [Dasein].
+
+As always, the [System] wasn’t forthcoming.
+
+Past the freeway, the palm-lined dreamscape of Hollywood gave way to the open space of Crenshaw. Their car sped up. Density gave way to sprawl, becoming Target, Motor Inns, KFCs, McDonald's, sports bars and adverts for Disneyland.
+
+The Ranger EV then slowed, snaking it down Slauson with the rhythm of a city designed for maximum rage.
+
+“Oh, before we get sidetracked again,” Eric popped the glovebox. “Your passport, fresh Social Security Card, and most importantly, your Californian Entertainment Work Permit, and your New York Child Performer Permit. There’s also your Notarised Travel Consent. You keep the originals, I have a notarised copy of everything else.”
+
+Inside the spacious cubby was also a mid-sized lady’s handbag.
+
+“That’s from the Director.” Eric’s grin was infectious. “He told me to pick one up, so I asked my girlfriend what was appropriate to keep all your documentation in. I put in a requisition request with costumes, and they gave me that.”
+
+“Mmm… Marc Jacobs,” Eppie played with the mid-sized tote. “Pebbled Italian leather.” She checked the interior label. “Wow, a Hillier Hobo. That takes me back.”
+
+“You girls sure know everything when it comes to bags, haha…” Eric laughed nervously. “Expensive?”
+
+“So-so,” Eppie shrugged. “But far too expensive for me. I don’t know if I…”
+
+She waited for the [System] tax.
+
+Incredibly, it remained silent. Did that mean it had already accounted for the Karma?
+
+“... but I’ll accept the Director’s charity.”
+
+Very carefully, she slid her Sony phone into the accessories slot, then carefully stowed her documents into the appropriate compartments. She wondered if Eric knew that in the future, the cheapest Togo Birkin cost $26,000 US Dollars, and that he should tread carefully around a girl who knew her bags.
+
+She learned more about the details of their trip as the traffic jammed up around Randy’s Doughnuts.
+
+As her chaperone, Eric was not allowed to leave her alone except for short-term privacy needs. They would travel together, fly together, exit the airport together, cab together, dine within sight of each other, and even stay in the same hotel, with Eric sleeping in an adjacent room. At Sony headquarters, Eric would follow her through her appointments with Director Curon, then reverse the entire process until they arrived at her school and signed her off with the dorm mother at LAPA.
+
+When she asked Eric how he felt about all that, he said he had volunteered partly because he had all her documents and knew her best, and partly because a hefty bonus was in the works if everything went well. Besides, after all the work he’d done, if some hotshot intern misplaced a filing or was dumb enough to get them snagged at LAX, he would lose his mind, then his job.
+
+“Let’s listen to some music,” Eric seemed to realise something. “I was so nervous I forgot, aha… check this out.”
+
+From a shelf below the radio, tethered to the aux-input, her lawyer extracted an iPod touch.
+
+“How’s that? Top-of-the-line Apple iPod Classic. I bought the maxi model, 160 gigs of storage. Drag and drop MP3s. Can’t stand the phone-players. 16 gigs? Who has a music library that small? I’ve got half of Sony’s catalogue in there, work perks, you know? It's all categorised by meta-tags. Play what you want, I don’t have a particular preference.”
+
+Like a young chick stepping into a new world, Eppie’s tiny fingers thumbed the circular buttons, navigating the Los-tech known as the Scroll Wheel.
+
+Her first stop was the music that defined her early life.
+
+Glam Rock. To her disappointment, there was no T.Rex, no Reed, and, shockingly, no Bowie.
+
+“Are there any Glam guys who er… defined the genre?” she asked as she scrolled.
+
+“Sure, try Rex Eno, or Mott Slade,” Eric said smugly. “Absolute classics. Timeless. Unlike the pop rock we’re selling today, haha. Don’t let the big boss hear that. He stakes his legacy on boy and girl bands.”
+
+Eppie clicked and clicked again, arriving at a song called “20th Century Pilgrims”. She pressed play.
+
+The interior of the RangerEV cracked and crackled, then the sound came alive.
+
+The roar began with a distorted chord, like a man violently tearing apart a silken nightgown, then struck an electric crescendo before the mechanical stomp landed, shaking the car. Eno’s falsetto purred and moaned, making explicit love to the microphone, cruising the snare drum and riding the fuzzy baseline like a wild man.
+
+It was Glam. It was Rock. It was made for the stage.
+
+We sojourn! A Pilgrim, on the 20th-century tour! For a 20th-century girl!
+
+Soooojourrrrrn—
+
+The experience of listening to one of the greatest tracks of all time, for the first time in one’s life, was pure heroin.
+
+“What do you think?” Eric’s head bobbed to the outro. “Change your life?”
+
+“Yeah…” Eppie thought of the [System] and its promises. “Yeah, I think I get it.”
+
+Thus glued to Eric’s iPod Classic, Eppie listened to entire catalogues like a junkie until she finally came to her senses in the interior of LAX.
+
+Her next shock came when they marched through security with full bottles of water, little to no theatre, and only a single stop where they had to step into a little room to show all her documents and work permits.
+
+She wanted to ask Eric why everything was so chill and why no one had frisked her from head to toe with a sneer of contempt, but saved it for the long flight.
+
+To her absolute delight, they were upgraded to business class.
+
+Which made sense, since Sony held corporate accounts with American Airlines. Reflexively, she asked for champagne, which Eric shot down, opting instead for a Diet Coke and a bag of toffee nuts.
+
+With her pleasures denied, Eppie listened to some more of Eric’s Sony catalogue, progressively travelling through time when suddenly—
+
+Trait Acquired
+
+[The Sublime]Causality Tier (A)
+
+You have been completely immersed in the musicology of two worlds. As a result, you may sometimes enter a trance that delivers hypercritical appreciation of artwork with a high Karmic Resonance trait. This trait cannot be improved.
+
+“And what exactly is [Karmic Resonance]?” she whispered while Eric fought back the forty winks with copious amounts of caffeine.
+
+Karmic Resonance
+
+The causality a masterpiece induces unto the present, shaping, while being shaped by the zeitgeist of an era.
+
+“Right… Right…” Eppie nodded to herself. Accordingly, Karmic Copyright to Lennon’s Imagine must cost more [Causality] than the entirety of her present existence. Or maybe there’s a discount, considering that Lennon’s private life wasn’t exactly submarines, rainbows and walruses.
+
+With the future weighing on her mind, she took a catnap against the window—
+
+—then woke up drooling, with Eric poking her shoulder with a, “Hey, look over there.”
+
+She opened her eyes. And there it was.
+
+Holy. Fucking. Shit.
+
+The TWIN FUCKING TOWERS.
+
+They were on the southern approach to LaGuardia, and she was reliving that first time she flew into LGA as a little girl. As always, the Towers were monolithic, brutalist and beautiful, so close to the circular window pane that she could almost reach out and touch it.
+
+And as it was the late afternoon, the skyline of New York was awash with the colours of a sunburnt summer, transitioning from burnished gold, aluminium-brushed amber to cool hues of marine and mauve where the shadows fell.
+
+And the size. The sheer, unapologetic size of it. The Twin Towers were an icon. They were the sacred beasts guarding the mythoi that greed was good. Unlike the latter 432 Park Ave, the Towers loomed and yet inspired. For an old soul like herself, they awoke something akin to patriotism in her gut, a heat that travelled up her spine and triggered the pleasure chemicals in her brain until they purred.
+
+To think the Towers were still here. She felt numb from relief. O Brave New World.
+
+The vision of the Twin Towers lingered so prominently in Eppie’s mind that she had fallen into a [Sublime] trance, appreciating its every detail so vividly that she didn’t notice the Hudson, the approach into Bowry Bay, or the rough landing. She didn’t think at all of the outdated, dreary ceilings of LaGuardia, the flickering 70s ceiling lights, the cramped passages and the outrage at the baggage claim by impatient travellers.
+
+It was only when they were out and about and in the back of a cigarette-scented yellow cab that she snapped out of the reality of what she had seen.
+
+“Er… Eric?”
+
+“Yes, Eppie?”
+
+“Did er… did anything happen to the Towers back in the er… early 2000s?”
+
+“Oh yeah,” Eric made a face. “Close call.”
+
+“Could you be any less Newfoundlandian?”
+
+Eric obliged. “So er… President Gore’s CIA intercepted the Wahhabi Extremists. All but one of them were charged and jailed. Massive diplomatic fallout throughout the Middle East, though. The oil business, you remember we talked about the Petrodollar? That almost got overturned when they found out the organiser was a prominent Saudi with close ties to the House of Saud. Bad business all around. We were THIS close to Desert Storm II.”
+
+“Inshallah, let that time be behind us,” their cab driver joined in the conversation as naturally as a serving of apple shisha at a Lebanese diner. “Everywhere I drove, people looked at me like I was going to ram them into Tiffany’s on Fifth Avenue—HEY, GET THE FUCK OUT OF THE ROAD—”
+
+Their driver crushed the brakes. Then, before Eppie could react, he slammed the accelerator, almost slapping Eppie’s face into the faded photo of Akhmed’s family on the bulletproof partition.
+
+“Where was I?” the driver continued in his thickly accented English. “Oh yeah, dark times. Very unpleasant. You know, I didn’t fly for four years. I didn’t know what to do with myself at the airport with everyone staring. What if they take me into one of those little dark rooms? I hear they stick a hand up your ass, no gloves. Just right there, then they say, ‘Yalla, how many fingers am I holding up?’ hahaha…”
+
+The pair endured the unsolicited advice of their cabbie, ranging from anal probes to Gore not doing enough for the economy, to the dangers of China as a rival power, to his favourite Chinese Halal noodles. When they finally stopped at Sony Square, he turned around and finally addressed her occupation.
+
+“Good luck in there, Ya Amoura,” he winked at her, then gave a nod to Eric, as if to approve of his guardianship. “Habibti, take care of her, alright? No funny business. God is watching, fahem?”
+
+Eric said he would, and their satisfied driver performed the rare and exquisite act of helping him with his one suitcase and her small bugout bag.
+
+They watched the cab drive away.
+
+“Always a pleasure,” Eric remarked. “You know, my hometown isn’t like this.”
+
+“Yeah, but you don’t have that in Canada, do you?” she pointed a thumb at the gargantuan granite giant in the same hue of pink as her hoodie. More than a corporate building, Sony Tower’s recessed architecture gave off the air of a WWII air shelter. Even in this world, its scooped pediment was the ugliest thing on the NY skyline.
+
+“Yeah-yeah, Yalla, ya Amoura—” Walking away, her Newfoundland called for his little one. “Come. We’ll grab dinner later, then we’ll have you registered at Warwick. But first, we’re off to report to the Director. ”
+
+We’re off to see the Director! Eppie’s head hummed in reply. The wonderful Director of Sony.

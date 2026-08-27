@@ -1,0 +1,137 @@
+---
+id: c2719b0d-495f-58cd-bde3-25ffa3e9ec6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140 Return to the Depths"
+slug: 0153-chapter-140-return-to-the-depths
+partOf: melody-of-mana
+position: 153
+ownLength: 2434
+unit: words
+ownProgress: 2434
+publishedAt: 2022-05-28
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/915762/chapter-140-return-to-the-depths"
+royalRoadId: "915762"
+markedReadAt: "2026-06-29T22:31:07.861Z"
+---
+
+The air screamed in my ears as our plummet continued for what seemed like hours. In reality it could only have been a handful of seconds, but the fear of the darkness below made my heart pound like a hammer.
+
+I didn't see it so much as feel it when the ground rose up to meet us, hitting first the same bubble that had shielded me when I'd jumped to Alli, and then my own shield in quick succession. The sensation was jarring, but more like falling onto a trampoline than concrete as we slowed, the lack of a bounce was odd, instead we just settled onto the uneven ground.
+
+From somewhere nearby I could feel a powerful wind entering, my guess was that as the fire made the hot air go up that from below rushed into replace it. Above me I could see the blaze continue, a few pieces of smoldering web and the like falling much like I had. Of note was one bit that I heard more than saw, a large mass that crunched as it landed nearby.
+
+Soon that was followed by my other teammate. Troy descended in a controlled fall, a light in his hand to let him see where he was going as gravity did most of the work. He landed near the other item, his cast down opponent. As I looked at him I could tell he was struggling, his breath was hard and sweat shone on his forehead.
+
+"Alli?" he asked, before coughing roughly.
+
+"Alive, but bad, and we need to move."
+
+"What? Why?"
+
+"That smoke is going up for now, but that will change as it cools when the fire runs out of fuel, assuming it doesn't continue on down here. I do not want to suffocate, or burn to death." I was a bit sharper with him than I should be, but as he'd been the one to start the inferno I wasn't too worried.
+
+"Alright, I can feel wind coming from somewhere, so let's look around..." He turned his light to the ground and I almost retched.
+
+The 'ground' as it was was a massive pile of corpses, rats, unidentifiable remains, a few that even looked human. All of the bodies were covered in web and desiccated, what would have been the fate of our comrade had we not gotten to her. The bones crunched as Troy looked about for the source of the air, eventually shoving aside several dead things to reveal a pipe, perhaps four feet wide.
+
+There wasn't time to waste and we headed in. Taking only a moment to cut out the spider's fangs. I sung as Troy led the way, trying to keep the venom leaving Alli's system. It was hard going, but I suspected that stuff was far nastier than I wanted to know.
+
+We had few options on where to turn as we went, this was obviously drainage into... somewhere, and clearly ancient, but that didn't help us much. After about twenty minutes I felt we were far enough from the mess behind us to be safe, and asked for a break at the nearest room.
+
+We found one shortly, a small rounded junction of sorts that was devoid of anything hostile. Here we stopped to regroup and get our friend back on her feet. While I hovered over her, singing quietly Troy set up some lights around us, and even some basic barriers around the openings, it wouldn't do to be surprised again.
+
+I had to get almost all of the venom out before my patient stirred, groaning pitifully.
+
+As the last few drops left and my spell ended I spoke. "Alli, can you hear me? Are you okay?"
+
+"It hurts, it hurts." She wept from her spot on the floor. "I wanna go home." Her voice was weak, far too weak for comfort.
+
+I started up my healing spell, and was shocked at what I felt. Even though I'd done what I could to get it out, the venom had still ravaged her body. The muscles particularly felt like they had been almost... cooked or something, broken and shredded. Her heart seemed unaffected, which was a small mercy, but the rest was in pretty bad shape.
+
+I cast until I couldn't anymore, falling to the ground beside the now passed out Alli. Sleep took me too, the mana loss having been too much for me. I suffered nightmares of large monsters and dying friends before I awoke, jarred by the image of a beast closing it's jaws around my neck.
+
+I found Troy there when I awoke, looking slightly worse for the wear. When he saw me rise he smiled.
+
+"Good, can you keep watch for a bit while I rest? An hour or two would really help." At my nod he found a corner to curl up in and drifted off in seconds.
+
+It was lonely for that time, the tunnels mostly dark, save for the few lamps we'd brought. I considered continuing to work on Alli, but she was alive and I didn't want to exhaust myself while on watch. A quick check of my anklet showed that my suspicion was right. It seemed to have read me falling at something as an attack and tried to shield it, draining it almost completely from the two falls. I wasn't sure exactly how long my own vigil lasted, but when I noticed that the little tools given to us by Professor Endel had changed in color I woke my companions.
+
+"Hate to say it, but we need to move."
+
+Alli groaned as she tried to rise, slowly making her way to her feet with a grimace.
+
+Troy looked over at her, "How bad?"
+
+"Feels like someone's shoving needles into me, but I can walk." I saw her set her jaw as she stood to her full height
+
+"We'll work on that as we go," I returned, and she gave me a small smile.
+
+With no obvious paths up, we moved forward instead. There had been a brief conversation about going back and trying to get up that tube, but it seemed neither of the wizards thought they could levitate themselves up with their current knowledge, much less our whole group.
+
+Soon enough we came to a pipe, small, but we could get through, it was also our only path unless we wanted to backtrack. Since this seemed out best option we made our way into it, pushing for foot after foot, hating the whole process.
+
+When we popped out I felt my own eyes widen. I knew this place, this huge room with its columns and thousand-year-old stonework. The water that hung down below. The same cistern I'd found myself in years ago I now found myself in again. As an added bonus I could sense the beast that lived here, flowing around in that water.
+
+"Oh shit, I know this place," I said.
+
+"Really?" Troy looked a bit relieved, but that ended as the water in the room began to churn.
+
+It seemed likely that the monster down here had lacked in food for long enough that it had ended it's patient waiting, and as it rose I wanted to panic. The cephalopod didn't quite match anything I'd seen back on my world, it's body too long for an octopus, and too rounded for any kind of squid, not to mention that it seemed to be the size of a cottage and living in a tiny amount of liquid. It rose from what must have been a slightly deeper part of the old cistern and turned it's eyes towards us. They would have looked dead if not for the predatory intelligence in them.
+
+The two wizards took point as it gripped columns, pulling itself towards us at speed. As tentacles grasped this way and that bolts of fire and ice shot at it, one slamming after another. For my part I sent illusions circling it, running this way and that, which it tried to smack with a few errant swipes.
+
+The battle such as it was, didn't take too long. Troy was cautious, making quick and exact spears of ice to damage it's limbs. Alli on the other hand seemed to have some anger she needed to work out, and absolutely pounded the monster with a torrent of flame. Both approaches worked for this fight, and before long it was little more than calamari, even smelled kind of good. Alli tore out its beak as proof of death.
+
+"So," Alli turned to me as she breathed out, "You said you know this place. Is there a way out?"
+
+"Yeah... two potentially, though one might be collapsed and the other is a path up one of these pipes. It's really steep, let's see if we can clear the collapse first."
+
+Within a few minutes we'd made it back to the region that had Charles trapped for years. Cracks now littered the walls, making me quite nervous. The stairs had all but fallen as well. A quick look around showed that not too much had changed on the center level.
+
+A look down revealed one of my old opponents, still stuck there without stairs to allow it up it drug itself around in a small circle on the ground.
+
+"Shit, is that a golem?" Troy asked, leaning over the balcony to look at it with me.
+
+"Yes, and there are two, we need to get up a level, can you manage that?"
+
+"Yeah, let's go." Between the two wizards we shortly stood before the exit.
+
+It was a collapsed mess, but behind those rocks was our way out. Golem number two had managed to remove itself and now stood roughly where it had before, right where the collapse started. To my great irritation it seemed none the worse for wear.
+
+"Let's take it down," Alli voice, grimacing slightly as she spoke.
+
+"No, this one turned my leg into mincemeat, it's mine." They both looked a bit taken aback, but no matter.
+
+I'd grown, oh I'd grown since last I met this iron asshole. I sang, and like before he didn't move, at a motion my team joined in, a simple song, one to the morning sun. I felt the power build, higher and higher until I chose my target exactly.
+
+It would have been unsafe to let too many things loose in this messed up tomb, but lightning didn't cause all that much damage to rock, and the thunderous strike that I sent forth rocketed into the contraption. It glowed as I led the strike along it's surface, melting the runes that kept it powered and moving one by one until it fell forward, several of it's joints now slag.
+
+I fell forward too, having put a bit too much into that. From my place on the ground I laughed and laughed. Years ago these automatons had been an issue for a team of four, but now I could take one mostly on my own. It helped that it didn't move or fight back, but I'd take my win and smile.
+
+My wizardy friends carefully cleared away the rubble, using magic to levitate the rocks out one by one. It was nice to watch, and I had a few minutes to recover from my magic usage before we continued on our way.
+
+It was kind of hard to pick our way back up, as I'd only been this way once and then in a bit of a state. We did manage though, even finding the body that Charles had taken the club from so many years ago. I looked back on his words of respect that day, and how he'd treated the dead.
+
+"I'm sorry my friend took your club, please take this instead." With a light movement I pulled out my knife and laid it down beside the corpse. It seemed right, and losing that wouldn't be any real burden to me.
+
+When we reached the surface again I could tell from the look in the sky that it was late. If I had to guess we had only barely enough time to make it back to the school before we set off a search party. That in mind we all headed at speed towards the academy. If we lost grades for being late after that mess we were all going to be pissed.
+
+We huffed as we made it back to the gate just in time.
+
+Professor Endel
+
+My 'assistant' Moran may have thought me a fool going out before the time was up, but as we stared at the carcass she ate her words.
+
+"Those are..." The spider before us was not well known, but this particular mutant's venom was a nasty piece of work.
+
+"Not something students should be messing with. Come quickly, we need to find them."
+
+Nothing like that should have been on the seventh level. There wouldn't have been enough ambient magic there, but the shaft... it went deeper, and some might have come upwards. It must have been something that was recently broken through as well, as these tunnels were checked every few years for big monsters, and that was a new addition.
+
+Seven levels down should be easy for a student to handle, but now we were much further. The path showed that all three of my charges had made it lower. I'd known something was wrong when they were so late coming back. It had been decades since we'd lost a student on this exercise, and I wouldn't be starting now.
+
+Alana had a knack for finding trouble, and this was certainly something that had her scent on it. She also had a knack for making it out, which was good, because if his daughter died under my watch, or came back injured General Verren might well gut me.
+
+Both Moran and myself were using magic to speed our way along the path and each shock took us less time to process. The dead cave giant cuttlefish was no joke, but the last... The remains of one iron golem were still hot, it having been partially melted by my erstwhile bard.
+
+We marked the other golem for retrieval before continuing. We sped along after them, and I didn't breathe any easier until we reached the surface. Only truly happy when the guards at the academy gates had told me that all of my students returned whole. One had made her way to the infirmary, but they were alive, and even back on time. I'd only missed seeing them by an hour or two.

@@ -1,0 +1,217 @@
+---
+id: d4ceabc2-12f2-59a7-ae52-7a67ff227cbb
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 6 - New York, New York (2) "
+slug: 0011-chapter-6-new-york-new-york-2
+partOf: metaworld-hopecore
+position: 11
+ownLength: 2102
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364632/chapter-6-new-york-new-york-2"
+royalRoadId: "3364632"
+---
+
+Monday.
+
+Sony Tower, 8 AM.
+
+Sony BMG in this world was clearly doing better than in her last, because Eppie clearly recalled that the main recording operations were on the cheaper real estate of West 54th Street.
+
+In the Tower of her present world, she and Eric scanned into the main atrium, then headed to one of the many Studios situated between levels 1 and 5. In the lobby, she meandered between walls of Platinum albums, trying to match the songs to the artists she had been listening to all night.
+
+When finally an intern arrived with coffee and bagels and the order to fetch them, they followed the boyish runner through the foyer, up the elevator, through a recess of corridors, then finally, to Recording Studio B, the “Mueller Suites”, home of the Meister of Mastering, Johan Mueller.
+
+In the suite, Eppie met her very first alter-world popstar. Kellie Noah.
+
+She recognised her because Kellie was currently trending in the top 40, and because her character outfit was apparently her daily fit. That and because Kellie had an entourage sitting beside her, taking up two rows of deep couches in velvet.
+
+The persona Kellie “acted” was a light-skinned, African-American diva, one who was presently sipping a Venti Greentea Frappuccino from a straw, so as not to damage the wet gloss of her frosted lip. She wore a baby-tee that was a size too small, and low-riders that showed off the strings of a thong. Her highlights were aggressively blonde and very eye-catching.
+
+Eppie swallowed.
+
+In her past life, the pop stars had loathed what she had done to their art.
+
+She had seen them as nothing more than metrics.
+
+Products to be pampered when popular, or discarded when their popularity wanes.
+
+Their eyes met.
+
+She looked toward Eric.Eric fared no better than herself.
+
+Kellie gave her one of those head-to-toe gazes, followed by a curt, disinterested nod.
+
+Eppie nodded back, a bit more enthusiastically than she had anticipated. According to her song list, Kellie had some genuine bangers, like “Us is Mine” and “You Ever Never,” both pop ballads with R&B roots, featuring synth-stacked power vocals in the chorus.
+
+Not wanting to stray, Eppie stood on the periphery with her guardian lawyer while her senior talked in a lingo that she only half-understood.
+
+Some thirty minutes later, the same intern reappeared. “Miss Fontaine, Mister Mueller will—”
+
+“OH, You Fontaine?” The runner was cut off by a man who looked like he could bench Eric if he wished. “You're in luck, Miss. Miss Kellie here has an offer for you.”
+
+Eric, brave Eric, stood between herself and this mountain of a man.
+
+“Brandon, you’re scaring her,” a voice that was silk and smoke came between them. “What did I say about looming?”
+
+“Sorry, Miss.” The giant backpedalled with a grin, still looking at Eric.
+
+“Damn right you’re sorry.” Kellie turned a pair of contact-corrected blue eyes toward her. “Miss Fontaine, I want to ask you for a favour. I need to speak to Mr Mueller, but he’s booked out for the week. Could you give me your appointed slot? I can compensate you however you wish.”
+
+“Ah… hi.” Eppie was already prepared to be bullied, possibly bodied, and the nicety caught her by surprise. Despite how she looked, Kellie’s real personality seemed much more demure than her bodaciously pushed-up charisma. “Um…”
+
+Should I ask for money? Does it count if it's a donation to me?
+
+Her head throbbed.
+
+She winced.
+
+The [System], like a certain moustachioed face, was always watching.
+
+“I don’t think I have the authority to make that choice…” Eppie apologised, bowing her head as one might to the sushi master Kuromon-san.
+
+“Please.” Kellie pouted. Maybe it was the make-up, but the popstar had enormous eyes that reminded Eppie of her Ragdoll, Jewels. “I can’t sleep, eat, or rest without knowing that I’ve done all I can. We just need to record a few more overdubs; it’ll take a few hours at most.”
+
+I’ve only got three hours, lady. Eppie stopped herself from blurting. “I know… I want to help too. I love your music, by the way. Us is Mine is a masterpiece—”
+
+“If you consent, I can speak to Mr Mueller on your behalf,” Brandon appeared again, looming without trying. “Just say the word, and Miss Kellie will gift you a personally signed album.”
+
+“Objection!” Eric protested in the only way he knew how, loudly and legally. “My client isn’t old enough to give consent.”
+
+The room stared at her gel-haired Newfoundland.
+
+Eric, rather proud of himself, adjusted his tie smugly.
+
+“Now, now, Mister—”
+
+Brendan’s bodily persuasion was halted by a pair of vacuum-sealed doors opening with a sucking sound of suddenly moving air.
+
+“Mister Mueller!” Kellie’s voice rang out, requiring no autotune to draw every eye toward her fluttering lashes. “I need a little more of your time. Just a little more.”
+
+The old soul looking back at the group in the lobby looked calm, sleep-deprived, and in need of a kosher reuben bagel. He wore round-rimmed spectacles in gold and walked with a slouch typical of his profession. Incredibly, Mr Mueller was only in his late thirties.
+
+“Miss Price,” Mueller addressed the diva with a measured annoyance. “You are one of my most hopeful artists, but alas, my contract is with Mr Davis, not yourself. The mixing board takes time to tune, the mic is adjusted, and even the lighting is hued for purpose. You cannot simply walk into my house, Miss Price, and demand work.”
+
+“Sir…” Big Brandon was as polite as he was large, like an imposing Chow-chow. Eppie wondered if she should get a big Brandon of her own when things started to function at a higher stratosphere.
+
+“You do this to Miss Fontaine, Miss Price,” Mueller dismissed the big man with a slight frown. “Then tomorrow, Lucia will do the same to you. The next day, Mr ‘Triple Platinum’ Lewis will throw his weight. The schedule is set, Miss Price. Speak to PR, speak to your fans, delay your album if you want perfection. Stagger the single releases.”
+
+Neither Kellie nor her entourage could respond.
+
+Mueller’s gaze then landed on herself. “Interesting choice of costume. I’d figured you for a bible belt type. Where’s your suit?"
+
+“Here!” Eric sidestepped Big Brandon with relief. “Can we go in?”
+
+“You may.” Mueller held the door, then gave the crestfallen star a sympathetic look. “I know you want to beat Lucia, Miss Price, but don’t expect a slot unless I call.”
+
+As they passed the portal, the mortified starlet performed a half-curtsy. “Miss Fontaine, I am sorry about that.”
+
+“No harm done,” Eppie replied to the graciousness with one of her own. The starlet looked so pitiful that even Eppie’s heart softened. “Good—”
+
+The portal shut.
+
+The air inside was cold and very dry.
+
+The very first thing Eppie saw was the booth, looking like the cockpit of a cosmic sound garden. In the middle sat the fabled Solid State Logic mixer, so huge and complex that it looked like the controls of a modern ocean liner. Buttons, so many buttons, some glowing, some matte, and some that winked back at her ignorance. Beside and below were chrome knobs joined by levered faders and flat-screen monitors, interspaced between speakers and subwoofers almost as large as herself.
+
+Above, she saw the sign. The famous “on air” lightbox.
+
+All of it felt surreal, which was weird given her circumstances and experience, but that was how she genuinely felt.
+
+“Young lady, you step in over there,” Mueller directed her to the room beyond the console. “Mr Lee, you sit here.”
+
+The room, Eppie noted, was quiet.
+
+It wasn’t the absence of sound, but the deadening of sound, like someone had swallowed all ambience. The walls were padded in velvet, and the carpet was so voluminous it felt like walking on a golf green.
+
+A younger man with a baseball cap and horn-rimmed glasses opened the door for her.
+
+There was a third person as well, a woman with a noteboard sitting in a quiet corner, half-faded into the decor.
+
+Even with help, the heavy oaken door was too much for her [Strength] of 12. When the door shut, however, all other thought was banished from her mind. The world was suddenly without a sliver of sound but for her own breath. Whoever cleaned the place had left a strong scent of citrus to overpower the hard odour of oiled floors, static electricity, and the metallic tang of the silver microphone on its heavy-duty stand, joined by a set of heavy-duty headphones.
+
+“Eppie, can you hear me?” Mueller’s voice was the voice of God.
+
+“Yes,” she mimed her confirmation through the thick pane.
+
+“Good. Let me acquaint you with the staff before we set our parameters. My name is Johan Mueller. I am your Track Engineer. I run the show here. Over there is Joshua Smith, our Assistant Engineer, also my gofer. The madam sitting yonder fighting her nicotine addiction is Yaleena Cass, Vocal Coach to the stars, including Miss Price.”
+
+“Hello.”
+
+“We’re here to help you record a Master, but let me be clear. You are not one of our artists. Your time is an investment paid for by Frederick Curon. The director seems to like you a lot. We admire what you did for St Marten’s, and so volunteered our skills. Nonetheless, our relationship is strictly professional. Fred wants your original sound, and I aim to give it to him. Are we on the same page?”
+
+“I understand.” Eppie bowed her head. She liked a good, no-nonsense pep talk. This was business. She was all business.
+
+“Good, let’s hear your range.”
+
+“Ah…ah—AH—” Eppie modulated her voice from low to high. It was a very nice voice, as she expected.
+
+“HO… Hold up,” Mueller’s voice interrupted her after her voice rose and fell a few more times. “Eppie, don’t you attend an arts high school?”
+
+“Yeah?”
+
+“You’ve never been taught the fundamentals?”
+
+“Er…” The present Eppie actually had no idea. “I am a Sophomore. The new term starts… in two weeks?”
+
+“What about your Fresh—never mind. Yeleena? If you could?”
+
+Like a whirlwind, the stick-thin vocal coach joined her in the room. “Relax, Eppie, I won’t bite, not yet.”
+
+Before she could greet her impromptu coach, a pair of cold, hard hands arrested her torso, one on her back, and the other just below her breasts, where her ribs met.
+
+“Sing,” the woman commanded. “Ah—AH—” Eppie liked the sound she made. She was sure that her [Trait] was working.
+
+“Stop, say Ng…”
+
+“Ng–—”
+
+“Now hold the n-sound, like this, N———ng————”
+
+“N———ng————”
+
+“Less throat, more diaphragm, keep going. Push my hand, expand your stomach toward it, hold… hold… exhale… exhale… keep the pressure gradual.”
+
+Her Coach’s offhand slid between her lumbar. “Square shoulders, relax, not too stiff, legs apart, lift your chest, arc your back…”
+
+“N———ng———ng———ng———”
+
+“Good, now stop.”
+
+Her vocal coach watched her repeat the exercise.
+
+It was strangely fatiguing, but Eppie felt her voice rise like a balloon, filling the air around them, reverberating through the room until she was swimming in the warmth of her own sound.
+
+“Well done, now try the scales.”
+
+The scales? Eppie blushed. As a [Songstress] with no other training, she knew of only one way to sing the scales.
+
+“D-Oh…” She began with the opening of a song that was a household tune, her voice the bright eyes of a doe at springtime. Quickly, she struck the second syllable, praising the sun with arms outstretched, welcoming its warmth. The next was about herself, the golden ratio of her face doing the heavy lifting in place of experience.
+
+The lyrics came easily enough because the song was a heaven-sent cultural touchstone, and Eppie remembered only the most common portion. Yet, even without the gut-churning context of a world at war, the Sound of Music it communicated was without equal.
+
+With a richness she previously could not command, she lifted into Fa, then Sol, then La and Ti and the triumphant return to Doh, finally, she connected all notes via a bridge that was an unrivalled, wonderful demonstration of—
+
+Muse Acquired
+
+Do-Re-MiRichard Rodgers and Oscar Hammerstein IIPerformed by Julie Andrews
+
+[SYSTEM MESSAGE]
+
+You lack Causality
+
+Penalties have been applied due to Karmic ReciprocityPenalties are amplified by the Prophet of Profits
+
+[SYSTEM MESSAGE]
+
+Penalties have been applied
+
+[SYSTEM MESSAGE]
+
+Your Dasein is
+
+8
+
+Acquire Dasein through Karmic Reciprocity
+
+While the members of her entourage stared as though she were the 8th wonder of the world, Eppie Fontaine rolled over like the Santa Monica tide.

@@ -1,0 +1,179 @@
+---
+id: 8d2eba92-ae59-5fc8-a8ed-46e003f0c5a7
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 7 - Workin’ for a Livin’ (2) "
+slug: 0013-chapter-7-workin-for-a-livin-2
+partOf: metaworld-hopecore
+position: 13
+ownLength: 2334
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364657/chapter-7-workin-for-a-livin-2"
+royalRoadId: "3364657"
+---
+
+Three days later, she was back in the leaden silence of the room within a room.
+
+Inches from her pampered lips sat a vintage Telefunken ELAM 251 from Mueller’s private collection, wrapped in a spider-web shock mount. To prevent her from kissing the ionised grill, a circular mesh sat between her and the phallic cylinder, ready to catch any stray plosives. Below the mount, a pair of fresh MDR-7506s awaited her eager ears.
+
+Prior to her second session, Yaleena Cass had taken her to a private studio downtown where she tutored girls for three-figure sums per hour, tuning Eppie’s voice until she was satisfied.
+
+“You have incredible natural potential,” the Voice Coach had informed her. “You have somehow completed every request without me asking twice. I do not understand how this is possible, and I am not going to question it.”
+
+“That said,” Yaleena had also taken her aside, honey-lemon tea in hand, and confided something that Eppie already knew. “There are many, many talented singers in Sony, and more outside of it. From the stars I’ve coached, you won’t even make the top fifty, but remember, you are young. Most have tapped their potential, but you… I don’t know. Maybe that’s what Director Curon was hearing.”
+
+Eppie could only be impressed. She had only known Yaleena for a few days, and the woman was already realising her talent could be “levelled up”.
+
+With Yaleena’s help, Eppie had also spent the last few days drawing up sheet scores as a gift for her deck pilot. They were crude, imprecise, at the level of a high-school enthusiast recalling tunes from memory, but they were legitimate. Her lack of knowledge limited her transcription, but Mueller said he would create something just as authentic, just as moving.
+
+For now, however, none of that mattered.
+
+All she could do was show Mueller the way.
+
+The headphones were heavy, more so with the thick, braided cord. She watched her tiny hands lift the cups out of her field of view, sliding them over her hair and onto her ears, making an already silent room even quieter.
+
+Click-click—click—
+
+The metal adjusters sounded like thunder.
+
+“Check sound.” Mueller’s voice really did sound like an airline pilot’s mid-journey spiel. “Scale, please.”
+
+This time, she did it perfectly. Yaleena’s classes were free, but they were not cheap.
+
+“There’s no track, so it's all you,” the voice of God hovered in her head. “Watch my fingers, follow the metronome, dropping on four—and we’re rolling!”
+
+Eppie watched the countdown. She could hear the sound of her own heartbeat.
+
+Tock. Tock. Tock. Tock.
+
+The material world faded.
+
+She was in a womb. A watery, warm womb of sound.
+
+She was in St Marten’s again, and she was being pushed from the boat. She was falling from a building. The water was cold, and she couldn’t feel her limbs. Everything she had built was gone, and she fell into a wormhole, going down, down, down into the depthless dark.
+
+The first verse of innocence.
+
+The second verse of Forlorn Hope.
+
+The third verse of fatalistic optimism.
+
+The chorus. “Whatever will be, will be.”
+
+“Incredible, well done!” Mueller was on his feet. “Amazing take!”
+
+Eppie beamed. This was her very first time, and figuring out how the [Potential] of the [System] bisected the real world meant everything to her new life, career, and, as it were, continued existence.
+
+“Now, just keep doing that for the next hour. I’ll take the best one, or I can stitch what’s best in post.”
+
+Whatever Will Be took two sessions, and Deer-re-mi took four. The song was just… too peculiar, and neither Lana nor Eppie was particularly… joyous.
+
+What her latter song demonstrated was the limit of Eppie’s [Songstress] in expressing a timeless classic by one of the greatest female vocalists of the 20th century. Her potential was providential, but experience was experience, skill was skill, and mastery was needed to channel both.
+
+In the final session, her deck captain had to whisper, “Think of the Otoro… The Otoro is melting in your mouth!” To create a take that had enough mirth and joy to krump together a Master worthy of being passed on.
+
+“Ah, well,” Mueller shrugged after playing it back a dozen times to the crew, including Director Curon. “The good news is that Deer-re-mi isn’t a song composed with the purpose of belonging to a particular singer. We’ll score it differently as well, with strings, percussion, and woodwinds… Anyway, well done, future generations may literally be in your debt.”
+
+Eppie wholeheartedly agreed. She couldn’t believe she was giving it away either.
+
+The contract that Sony ultimately drafted for Deer-re-mi was for the absorption of production and distribution. 15% of all gross music revenue would be contributed to the “Fontaine Foundation Trust”, which would absorb the costs of its accounting and audit reviews. Until she was old enough, the power of attorney would default to Green Hasson Jank, a firm that Sony trusted enough to audit the corporation’s various philanthropic endeavours. Sony remained the capitalist monolith, raking in at least 75% of total revenue, with a contractual obligation to spend 18% of that revenue on select charities under Sony’s corporate umbrella. Her personal cut of all this, effectively speaking, was whatever her Coogan account accrued.
+
+It was a fair deal, not great, but amazing for a nobody.
+
+For Eppie, a former M&A specialist, the tax-minimalisation structure didn’t matter, as her singular goal was [Causality]. Logically, if the system merely wished to do “good”, it should allow her to game the stock market, after which she could probably end Cholera in Africa.
+
+Alas, her cardinal sin was both particular and quirky; her penance was creative potential, but did not allow for creative accounting.
+
+Her final weekend at Sony’s was spent with Frederick Curon, feat Trent Davis.
+
+Eric was there for legal reasons. Curon was the host, and Davis was his guest. Johan Mueller and Yaleena Cass were not invited, despite her growing sentiment for the pair, which affirmed the obvious—that corporate hierarchy was immutable.
+
+C-Suites were C-Suites.
+
+Employees were employees.
+
+And products… were products.
+
+A C-suite, a Partner and a product walk into a sushi bar… The joke wrote itself.
+
+At Kuromon-san’s secret sushi bar, they spoke about the products she had created, the company’s expectations, and her presumed future as a product. Evidently, Curon had wanted to show her off to Trent Davis, the big man of modern pop, but the CEO of Sony was merely amused, not impressed.
+
+After a bottle of warm sake, the CEO decided to make things clear for his friend, by making things clear for Eppie.
+
+“Don’t be disappointed, Miss Fontaine. Even if we took you on, you’d be in cold storage,” Davis was ruthless in his analysis. “You have a very special mind, but it isn’t the kind of mind for the meta-market of today. You also have… no other marketable skills. You can’t play instruments, you can’t dance, which means you can’t cross-pollinate the genres I manage. We’d have to invest an enormous amount of time and money in you, all without guarantees, for you to maybe succeed.”
+
+As he spoke, the man received an egg roll and ate it in a single bite. After a thorough series of meticulous mastication, he expressed his next thoughts.
+
+“I adore your face. It's nicer than most, even by our standards. With your voice and your face, I can send you to the House of Mouse. They have a different ecosystem, and there’s no escape if you succeed. Do you understand what that means?”
+
+“I do.” Eppie nodded.
+
+“Somehow, I believe you,” The director studied her seriousness. “There’s something I was hoping Frederick would say to you, Miss Fontaine, but it seems you’ve managed to wrap him around your fingers.”
+
+“I object to that.” His Creative Director raised his chopsticks.
+
+“I know you do. But it must be said,” Davis turned to her with a seriousness he did not previously project. “Miss Fontaine, you managed to leap from obscurity to this sushi bar, but none of this is normal. In the normal course of events, even if you were the star of LAPA, get accepted into Guilliams, graduate top of your class, slay at the open mic in NY’s underground, get signed by our agent, and make it, finally, in your twenties, to Studio B, you still wouldn’t be here with us.”
+
+Curon groaned.
+
+“Take Lucia Lancet, for example, she’s one of our biggest investments at the moment. She’s a known child prodigy, graduated from Guilliams’ School of Performing Arts Magna Cum Laude with a GPA of 4.1, and centre-staged their Graduation Show at Madison Square Garden. She plays four instruments, specialises in contemporary R&B, and most importantly, is the granddaughter of Blues Legend, Bailey Ray Richards. Her father, Henry Lancet, owns 27% of Softel, among other things.”
+
+Curon leaned in with an air of conspiracy. “And yet, no sushi for her.”
+
+“Worse still.” Davis leaned toward her. “Lucia’s talent… is not as great as Miss Price, who is known to you as Kellie Noah. Her voice is nice, but not biblical, and yet she is at the forefront of the Girl Power trend. Do you know why?”
+
+Eppie knew the answer already, but it was nice to hear it from the horse’s mouth; it was akin to Phil Knight finally admitting that Vietnam made the best Air Jordans. “Sure. Cross-brand marketing, merchandise, media pollination, vertical integration. The customer doesn’t know what they want. You tell them what they want.”
+
+“YES!” The Sony CEO lost his cool for a second. “We created the whole Girl Power trend together with the House of Mouse. We have Lucia, they have Rikki Lynne, and everyone else can only follow the trend. But to make that money, we poured entire departmental budgets into music, free TV, social media, cable programs, dolls, and even children’s books. Now it's time for us to rein in the nets, and the fish are abundant—”
+
+Davis suddenly cut himself short. Coughing gently, he took another sip of sake to lubricate his throat, then looked at her in a new light. “Would you like a job in marketing instead? I am joking—My apologies for making light of your dreams. I must say that I don’t feel like I am talking to a child. I can most definitely see why Frederick liked you so much, but… It’s show-biz, not show-charity.”
+
+“Not at all.” Eppie deftly retrieved the tiny sake bottle. “I appreciate the honesty, sir.”
+
+She refilled his cup both expertly and elegantly, as a Geisha might.
+
+Trent Davis glanced at the cup, gave her a look of consternation, but did not take it.
+
+Despite Trent not liking her, she liked Trent. The man was absolutely right in that Lucia Lancet was a low-risk investment with near-guaranteed returns, a product that came with sought-after specifications by default. Comparatively, other than the fact that she added two gold nuggets to Sony’s platinum treasury, what had she done to deserve this?
+
+She also felt sorry for Kellie “Noah” Price. Davis’ unspoken implication was that Sony BMG’s best songs would go to Lucia, who would sell out Madison Square, while Kellie would tour the lesser venues. When the girls made collabs with the mega-star rappers, one would get the triple-platinum, but not the other. Their competition was merely a mechanism to whip up sales. The outcome, David was trying to infer, was predetermined. The game, as industry insiders should know, was rigged from the start.
+
+“I guess that’s that,” Curon sighed. “Sorry, Eppie. I thought I’d get a hold of you while you’re here. There’s going to be a lot of drama at your school, you know. The way you’ve set up those Trusts and donations... A full ride only covers your general education, boarding and three meals. You’ll need tutors, personal instruments, and day-to-day sundries of living in West Hollywood. You got trends to chase, friends to impress. If my memory of LAPA is correct, your meals during vacation are not covered.”
+
+“I could busk…” she shrugged. “I can’t be sued for singing my own song in the street, can I? It's in my contract.”
+
+Davis roared with laughter once more. “I really do like this one, Frederick. It's such a shame that we’re businessmen first.”
+
+“Speak for yourself,” Curon pushed his friend aside. “I am sure Universal Music would take her. Yet here we are.”
+
+Eppie retreated from the bromance and instead petitioned Kuromon-san for one more Otoro before she had to hit the road. She could surely use the omega-3.
+
+One thing Davis said did strike her as true.
+
+She really didn’t act her age, nor did she know how.
+
+She had inherited only Eppie’s hormonal body, and nothing else.
+
+What did regular 15-year-old girls do in settings like this?
+
+Act shitless? They certainly wouldn’t be charming C-Suites and be flown across the country. The real Eppie would never have made it from LA to NY to eat secret sushi with the big boys of music.
+
++ Karmic Causality
+
+The pop-up at the edge of her vision was a welcome distraction from the grimness of where she was headed next. She would soon be a Sophomore and a revenant, two roles that would challenge even Time’s Woman of the Year.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+Bing–BING—!
+
+The sound of the Blackberries’ “Spirit” chiming in unison was enough to dispel the boyish mirth and bring both men back to the business of business.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+“Well, look at that,” Frederick Curon showed her the text message from Marketing. “Your song has just gone live. Congratulations, Miss Fontaine.”
+
+They shook hands.
+
+They all shook hands, even Eric got a turn, looking at his bosses’ boss’ boss like Adam reaching to God on the roof of the Sistine Chapel.
+
+“You see that, miss know-it-all?” her Lawyer from Newfoundland had a message for her, too. “Even our C-suite uses Blackberries!”

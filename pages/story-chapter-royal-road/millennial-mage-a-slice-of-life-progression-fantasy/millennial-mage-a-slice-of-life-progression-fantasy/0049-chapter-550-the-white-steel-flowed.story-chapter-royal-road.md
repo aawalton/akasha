@@ -1,0 +1,175 @@
+---
+id: cebb7816-c022-5018-ba58-e39ae921c372
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 550 - The White Steel Flowed"
+slug: 0049-chapter-550-the-white-steel-flowed
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 49
+ownLength: 2634
+unit: words
+ownProgress: 2634
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2200821/chapter-550-the-white-steel-flowed"
+royalRoadId: "2200821"
+markedReadAt: "2026-06-29T19:36:52.096Z"
+---
+
+Tala, as it turned out, was absolutely horrible at power retention without iron artificially altering the process. It made sense—and she’d honestly expected it—because she’d spent her entire time with magic trying to make sure power flowed out of her as easily and quickly as possible.
+
+Rust, the use of Void Channels as a Way explicitly pulled magic through her faster, to draw more out through her gate, in order to compound the effect and use it all more rapidly.
+
+As such, she spent very, very little time in the magic deficit room during her training with the Talons that first day.
+
+Consequently, every Talon got to see her obeying Eskau Meallain’s dictates and following the program to an extreme.
+
+She didn’t have any time to connect with anyone in the room like the others did while they trained, but she did end up sprinting beside many of them on her myriad laps.
+
+At the start of each sprint, they were all winded and struggling, essentially no power within them to augment their movements. That’s when the real test of self-discipline came into play.
+
+But after about a hundred yards of agonizing sprinting, Tala was able to pull in enough power from the environment to let her self-enhancements kick back in and restore her energy and strength.
+
+In truth, what she was drawing in wasn’t the same power as the Talons, as she couldn’t use ambient power. Instead, Alat was filling the area directly around Tala with her own power in the correct density, so that she would draw it in just as the Talons had to.
+
+The Talons, for their part, were generally faster in refilling, and slower in emptying, their every interaction with power having been bent toward those goals from their first moment with magic.
+
+As such, they were generally ready to start speaking at least a few seconds before she was, when they ran together.
+
+Those behind were also better able to catch up, if they started soon enough after her. Those who left the deficit room at the same time, or even a bit ahead, tended to not push quite so hard, or fall back a little, so that they clustered around her as well.
+
+Eskau Meallain didn’t seem inclined to punish such either, which reinforced the practice.
+
+The collective result of this was that Tala did almost every one of her laps with a cluster of between three and ten Talons.
+
+At first, she was reticent to really engage with them, but many were so exuberant that she didn’t feel like she could reasonably deny them.
+
+Jontan was barely seventeen, and still growing into his happy, outgoing demeanor. He hadn’t been allowed to fight Eskau Meallain or the beasts that came after, but he was still proud of his fellows’ showing, building his identity in the future of the Talons and his place within that group. His little sister was also gateless, but she’d stayed with their parents for the time being. Even so, he was excited to build up a life and a home to which she could come to be with him, if she ever so chose.
+
+He’d had a reasonable life before, but now genuinely saw Irondale and the Talons as his purpose and place on Zeme.
+
+Joleen was a stunning young woman who had as many hangers on as Tala—even if it was for entirely different reasons—and the young, twenty-something woman was excited to really be able to use her physicality to help others.
+
+She proudly explained to Tala that she’d always been on the weaker and more frail side—partially due to her gateless nature—and the very truth of having such strength now was worth any price or commitment. The fact that she liked so many of the Talons as individuals, and saw the work of creating a home for gateless as respectable work, were simply upsides.
+
+The reactions of many of the men around as Joleen had explained that she liked many individual Talons had almost made Tala burst out in laughter.
+
+Just approach her, gents. None of you are ugly, and so long as you aren’t rude or pushy, there is nothing bad that can happen.
+
+In other contexts, some young women could be incredibly hurtful in rejecting such inquiries—sometimes on purpose, but usually without meaning to, due to their own issues—but the Talons had been very thoroughly screened to keep out manipulative or cruelly inclined people—among other things—and so at least any hurt given shouldn’t be intentional.
+
+…Yeah, if I were a guy, I’d still be hesitant.
+
+-If all you have to spend is a couple of sentences to learn a person isn’t interested or isn’t worth your time, that is quite a cheap price to pay.-
+
+True, I suppose, but we’re in a position of abstraction. Just because something is objectively easy or reasonable, doesn’t mean that it actually seems that way in the moment.
+
+Mackrus had been a blacksmith, getting on in years. His family died while out in a farming circle, when an arcane attacked. That had left him feeling lost and in search of a new purpose.
+
+Tala had inquired if he held any anger against Eskau Meallain, and he’d simply shrugged. “I got the opportunity to stab her a few times, and I’ll get to do it more. She’s even going to make me better able to do it. I think that’s worth tolerating.”
+
+It wasn’t a great answer, but it made sense.
+
+It helped that the attacker in question had been a yellow-skinned hue-man with no official House affiliation and that he’d been killed during his attack. Mackrus didn’t seem to project his dislikes or losses onto arcanes as a whole.
+
+It also likely helped that it had been more than a dozen years since they’d died. He’d continued in his trade for the intervening time, not really enjoying it but not having the motivation to move on. Only when he heard about Irondale did he finally ‘pull himself together and get to it.’
+
+Janice loved kids, and saw the Talons as a chance to make a safe haven for a whole ton of children who were facing difficulties that she had in her own youth.
+
+Her husband and three youngest children had come with her; he was in the Talons as well, and the kids were loving the schooling that the parents’ stipend as Talons was able to pay for.
+
+Tala did not express her surprise to learn that the Talons were being paid—if indirectly—for their work. In one sense, it was reasonable to do so, but given that she was providing food, housing, power, training, and immortality, it seemed odd that she was paying them more, besides.
+
+Regardless, after a moment’s thought, she realized that the Talons had to have some means of engaging with the economy of the others within Ironhold. Otherwise, they’d be effectively forging two segregated societies within Kit, and that wasn’t likely to end well.
+
+When Tala began deeply considering where the funding came from, Alat gave the needed info, -The few who have been reborn without joining the Talons are paying a hefty fee for continued access to power. It isn’t ‘bank breaking,’ but it is substantial.- Alat chuckled. -They are effectively ‘buying’ themselves out of Talon service, and as such together, those few provide more than enough for the moderate stipends given to each Talon. Lyn’s looking into modifying it so it’s a direct equivalent, but we don’t want it to go to zero if everyone joins the Talons. She’s also considering the other extreme as well.-
+
+That made sense, given that most of what was given to the Talons was effectively free for Tala. It was only the ‘spending money’ on top of everything else that had to come from somewhere—assuming she didn’t want to simply provide it herself, indefinitely, as she had at the beginning—and those who were now immortal due to her power and largesse were the most reasonable source from which to pay those who chose to serve for at least a portion of that immortality.
+
+Regardless, none of that had to do with the individual Talons.
+
+She spoke to the old and young, men and women, the driven and the accepting. Each had been given a path forward in the Talons, and each was excited or grateful in one way or another.
+
+It was eye opening to see them all as individuals.
+
+She’d been present for each of their rebirths, and she’d tried to speak to them at least a bit around that event, but it hadn’t been a true connection. They hadn’t been in a state to forge meaningful connections. Most—at the time—were nervous about the upcoming changes, and she was almost always looking toward what else she had to do that day.
+
+But at this time? As they were sprinting beside one another? They had the camaraderie of shared exertion to bridge many of the socialization gaps. The fact that essentially all of them were doing better than her helped level things as well, both in making her seem more human and therefore approachable, and in letting them know that she didn’t see herself as above them.
+
+The rest of the morning passed in this manner, and when Eskau Meallain called for a halt, indicating that lunch was ready, Tala was as exuberant as the rest.
+
+She had improved, getting her ‘rest’ time in the deficit room from a mere thirty seconds up to an astounding forty-five seconds… which was still very little, but a fifty-percent improvement in one day was not nothing.
+
+Though Tala sat with the Talons in their mess-hall, she didn’t eat their food. Instead, she summoned her own from her sanctum.
+
+Thus, while they were eating beer-battered chicken, roasted broccoli, and a creamy garlic soup, Tala had quiche lorraine—the bacon cooked to perfection—with a garden salad.
+
+While her different food was noticed—and since the Talons had some of her magical perception, the magical difference was noticed too—most seemed genuinely unsure who’d gotten the better meal.
+
+Truth be told, Tala might have preferred the chicken that day, but usually, the quiche would be her preference.
+
+Different is different.
+
+As the Talons essentially had her magics, they could eat her specially prepared food—and in truth Lyn and Ron were working out the logistics of food production for just that purpose—but there just wasn’t enough for everyone to have such magically infused sustenance, so it wasn’t offered.
+
+None of the Talons seemed to mind.
+
+Eskau Meallain, on the other hand, seemed to think that the officers should get the special food, as soon as the officers were chosen. She’d apparently been shocked that such wasn’t already in place as an incentive already.
+
+Regardless, only Captain Ron had an official rank so far, it seemed.
+
+-Terry should be the general.-
+
+I mean… maybe? I feel like he’d more likely be the strike-team leader.
+
+-Oh… I like that.-
+
+There was also the issue that Mistress Petra was going to need to help train up the Talon cooks to properly prepare the food, but that was also in the works, at least according to what Ron had said when Tala inquired.
+
+After lunch wrapped up, Eskau Meallain sent the Talons off to train with the white steel again, tasking Captain Ron with leading the exercise cycle.
+
+That left Tala and the elf to discuss Tala’s advancement, though Eskau Meallain stated that they’d be joining in the practice with white steel soon, regardless, even if that meant that they simply sat nearby and moved through the motions while talking quietly.
+
+As soon as that idea crossed Eskau Meallain’s mind, she changed the plan, and it was decided that that was what they would do from the outset.
+
+Thus, Tala and the elf sat some two hundred yards away from the Talons as the white steel moved in relative unison, and Tala explained gated-human advancement.
+
+Her own block of white steel moved perfectly at her command, her long years of working with it paying off in gold.
+
+Rust, in her full battle-armor the material had to shift at her every thought to allow her any hope of movement at all.
+
+As such, these exercises were child’s play to her… which was likely why Talax was so good at them, now that she considered it.
+
+Regardless, Eskau Meallain absorbed the requirements for each step of gated advancement, as Tala understood them. The elf asked pointed questions, and delved deeper, forcing Tala to reconsider many of her ways of thinking.
+
+One stark example was her question as to why Bonding was a simple soulbonding to one’s own body, while Fusing required a sort of intermeshing soul, body, magic, and spirit in a manner that manifested a bit differently for everyone? When that was at least marginally explained, Eskau Meallain wanted to know if other soulbonds could be strengthened or enhanced in such a way?
+
+Tala… had no idea. Honestly, she’d never even considered it. Could she Fuse herself more tightly with Rane?
+
+Probably not, given they were physically distinct. Kit, though? Her elk leathers? Potentially even Flow and the dasgannach? Those bonds might be ‘Fusible’... in some insane manner and to unknown results.
+
+Tala asked Alat to inquire with Master Grediv, Master Jevin, and Mistress Holly.
+
+Mistress Holly responded almost immediately with what seemed to be a memory of the Inscriptionist’s own laughter?
+
+Master Grediv had responded that he didn’t think such would be a good idea without tons of research.
+
+Master Jevin had likewise gotten back to her with surprising rapidity. His response, however, was oddly divergent from Master Grediv’s. True, he had begun his message with ‘Don’t,’ but he had continued from there, explaining that such was actually a key part of—and parallel with—Reforging. So, Tala should not do such before she was sure how it fit into her process, as even when fully understood, the process must be done with incredible intention and forethought, given that the Archon in question was effectively remaking their very being while integrating the previously only soulbound item or entity.
+
+When Tala conveyed that answer, Eskau Meallain took on a self-satisfied air, which—quite honestly—Tala understood and agreed with.
+
+Tala, herself, had been faced with that obvious parallel for more than a decade and had never considered if there was more than just soul-Bound attachments possible to outside beings or things.
+
+As they moved on from there, the elf quickly and fully understood and approved of the Refining process, conveying that gateless achieved a similar result, but in slow increments at almost every step of advancement. Though, it was less extreme for beings at every step.
+
+The end results were likely roughly equivalent to Refined at the equivalent level of advancement, even if it lacked ‘true immortality’ which was purported for Refined.
+
+She was not surprised in the least that the Talons showed some similar effects when forcibly undergoing rebirth, effectively advancing through many steps all at once.
+
+The description of the requirements to advance to Paragon were odd to Eskau Meallain, but mainly because she was baffled why humans wouldn’t have a life-goal before that point. Without something driving them toward eternity, why would any of them have ever wanted to become immortal?
+
+She’d simply shaken her head and maligned the fickleness of the gated.
+
+Finally, they’d arrived at Reforging, and while it had been addressed obliquely, earlier in the conversation because of the elf’s questions, it was time to truly delve into it as a whole before Tala would be able to convey how she was considering and attempting to go about it.
+
+As such, the conversation was about to get a lot more detailed, technical, and esoteric.
+
+All the while, the white steel flowed around them, following their will at the behest of Captain Ron’s commands.

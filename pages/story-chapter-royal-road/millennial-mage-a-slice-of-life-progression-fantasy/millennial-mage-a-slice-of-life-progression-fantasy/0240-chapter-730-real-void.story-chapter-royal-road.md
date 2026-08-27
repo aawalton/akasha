@@ -1,0 +1,293 @@
+---
+id: 847fe55c-27cb-5556-9cf6-c8992235289a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 730 - Real Void"
+slug: 0240-chapter-730-real-void
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 240
+ownLength: 2952
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3719131/chapter-730-real-void"
+royalRoadId: "3719131"
+---
+
+Tala stood, more resembling an armored statue than a living, breathing woman.
+
+Her magics were furiously fighting to reform her reality-churned organs. The final commander in her sector slumped on the ground, held up only by its head, a misshapen orb, locked in her off hand.
+
+Her forces surged forward around her, calls of acknowledgement and exaltation barely reaching her as she had to devote significant effort to maintaining her magics for the first time in years.
+
+The field pressed down on her and her forces, taking a large chunk of her mentality and will power to stave off.
+
+Slivers of something had been driven through the joints of her armor by the hordes of now-destroyed automata that lay broken around her. And whatever they were, the things were making everything more difficult.
+
+Tala had been in a fugue state, uncomfortably close to succumbing as she strove to permanently kill this last commander, and the lessers had decidedly taken advantage.
+
+Her forces had finally broken through to her isolated position then, swarming around and dealing with the Black Legion’s all-but-overwhelming numbers.
+
+On other fronts, her daughter fought in close with the Talons under the command of a Reforged that Tala had never met more than in passing. Rane was the strong arm for an arcane Pillar of the House of Iron. Eskau Pallaun held that position for Pillar Sanguis, the man having come from Platoiri to lend his strategic mind to the clash. Eskau Meallain was spearheading yet another of the eight fronts, likely ignoring whichever authority the war council had put over her—precisely as they’d have expected and planned for.
+
+Tala… she was theoretically in primary command over the whole war effort—which included this battlefield on all fronts—but she was glad to let the older, more experienced combatants control the larger flow of battle, leaving her free to do as she felt she needed to without having to consider the overall picture.
+
+Now, her momentary task was complete, and she was forced to face the ruin of her form.
+
+Blood didn’t drip from the seams of her protection, but that was because her iron will would hardly allow any such an escape. Even so, an uncomfortable amount painted and filled the inside of the armor but remedies for that were in process.
+
+Just five minutes. I just need five minutes, and I’ll have it sorted.
+
+She knew that that was far too long.
+
+With an act of will that she could hardly spare, she shifted her grieves, her armor providing the movement that her body rebelled against, allowing her to advance in the middle ranks even as she continued to reknit her form, working out the stubbornly persistent slivers.
+
+Step.
+
+They wouldn’t be moved to her dimensional spaces out of her body; they had moved with her when she’d flickered earlier; and now, there seemed to be enough of them that she couldn’t flicker at all.
+
+That wouldn’t do.
+
+Step.
+
+As she progressed she couldn’t help but notice that the aftermath of the front lines painted an inaccurate picture.
+
+Any member of their alliance that fell—injured or slain—was immediately removed through one means or other, that mostly being Alat’s active work to pull them into Irondale or the sanctum where healers awaited. Regardless of where the allied fighters ended up, the action resulted in a carpet of automata being left behind: War machines splattered with the blood of those who’d slain them.
+
+Too many.
+
+Step.
+
+There were far too many automata here. In this one clash, there had been nearly double the total number of Black Legion that should have existed in total.
+
+Their threat in ages past hadn’t been overwhelming numbers at any single time. It had been the unending return of combatants, each trained and honed by their previous attempts—their own and that of their fellows. The experiences conglomerated, collated, and used to raise up the Legion as a  whole.
+
+In defiance of that expectation, these weren’t merely legion; they were as the sand on the shore.
+
+Step.
+
+And none of their greatest were here. A force this size should have had eight senior commanders and at least one supreme commander, but it hadn’t.
+
+That meant those top level combatants were likely elsewhere, and that more than anything else fed Tala’s will to move forward, rebuilding her sloshing self within her armor from the ground up.
+
+Behind her, a trail of slivers slowly dissolved into nothing as they were expelled and left to lay on the ground. She’d passed every form of perception over them and even tried to drop some through portals into her sanctum to no avail.
+
+Step.
+
+The gathered data were with the researchers now in the hopes that they could work out what was happening.
+
+Step.
+
+Her body was her own, and she was regaining mastery over it.
+
+Step.
+
+No other would keep her so crippled.
+
+Step.
+
+She would rise and strike down those who sought to harm humanity.
+
+Her leg muscles twitched, finally adding power to her movements from a biological source.
+
+Three more steps and she was running forward once again, her body still in tatters, but no longer hovering on the brink.
+
+They were nearly to the center, and she would be there to help end this front.
+
+Then, I just have to figure out what other horrors we have to face, what this was meant to distract us from.
+
+* * *
+
+Tala stood, looking down at the hollowed out center of the plateau.
+
+“Well, rust.”
+
+Nearly a half-mile across had been dug out, going down to more than three hundred feet below the plains around the escarpment.
+
+-Hey, at least now we know where they got all those rocks.-
+
+I suppose so… Yay, one mystery solved…She did not feel any true enthusiasm.
+
+Apparently, only a thin layer of stone had been maintained over the whole space to hide it, and that had crumbled away as soon as the first of the alliance neared the center.
+
+The advancing forces had passed innumerable bolt-holes and small tunnels out of which the Black Legion had boiled forth. The alliance had collapsed those as they advanced to prevent flanking maneuvers.
+
+Now, Tala stood looking down at a tangle of passages opening into this vast… oddity.
+
+The otherwise open air of the nearly five hundred foot deep, excavated column was shot through and riddled with mixes of unknown materials, none of which seemed to quite belong.
+
+In truth, what she was seeing reminded her of the slivers she was nearly done driving from her being.
+
+At the very base and at the center of the hole was a nothingness that announced quite plainly it was void, but not true void.
+
+It was real void.
+
+The very concept caused Tala’s eye to twitch, but it was somehow intrinsically obvious to her even if she didn’t know how she knew.
+
+There were still automata in the warren but the ring around the top of the plateau was secure.
+
+There had been losses, but they’d seized the high ground.
+
+It would take a campaign of days if not longer to fully clear the space, but Tala felt like she didn’t have that kind of time.
+
+She opened a large portal into her sanctum on the side of the room where her researchers were already watching the battle through replicated perspectives and senses. “That’s the source of this odd cancerous fragment?”
+
+Chairs scraped and arcane and Archon alike came to the open doorway. Fox-kin joined the others and the mutters started.
+
+A dwarf spoke up first. “They have brought material from the Doman-Imithe and locked it here, using it as the working material.”
+
+And that was all Tala needed in order to at least partially understand. “They pulled the Doman-Imithe through and stitched reality together.”
+
+A gnome grunted. “That hardly makes sense in the ‘backside of reality’ analogy… but it does seem to fit what we’re seeing.”
+
+She sighed. “What do I need to do to stop it from propagating? Ideally, to revert it? Shove it all back into the Doman-Imithe?”
+
+More than a dozen voices chorused in near perfect unison. “No!”
+
+There was a moment of humored silence before Tala sighed. “Understood. What do I need to do?”
+
+What followed was nearly ten minutes of highly technical explanation of exactly what needed to happen.
+
+In the end, Tala was tapping on her left vambrace with her right hand. Her people were still fighting automata in the tunnels, and they needed to deal with whatever else was happening.
+
+“So… what do I need to do?”
+
+There was a moment of silence, then an elf shrugged. “Fill the reality void? Or close it. Right now, that is the source of the magical drain and reformation of Zeme in this area. Everything else can be likened to inscriptions, guiding and directing that.”
+
+“Great. How? How do I accomplish either or both of those things?”
+
+“Suffient magic all at once—anything less than sufficient will just make it larger and stronger. If you were able to gain mastery of it with your aura, you might simply be able to will it shut, given there is no mind behind the working any longer, at least not directly. As a Reforged, you should have the metaphysical weight to simply close it.”
+
+Tala glared, feeling unreasonably weary. “Next time? Lead with that.”
+
+She closed the portal and flickered forward—bringing the few remaining slivers along with her. They pulled on her actions, making them frustratingly more troublesome, but they no longer truly hampered her.
+
+As she drew closer to the heart of this oddity, she felt a drain on her gate as the void-form before her tried to devour every bit of magic she was allowing through. At the same time, the reality void seemed to darken slightly as it pulled in more power.
+
+She clamped down on her magic, rechecking her layers of iron and reinforcing her aura’s mandate to contain what little worked its way through.
+
+The extra draw ceased, and the reality void returned to normal.
+
+Normal. She huffed a laugh. Right.
+
+-Well, normal is a comparative term. I think it fits well enough.-
+
+Fine. Normal it is then.
+
+As to what it was? The easiest way for Tala to wrap her mind around it was to compare it to the growing domain around them, but somehow it was more concentrated and in miniature.
+
+This was like a self-propigating poison that was slowly leeching outward as it created more of itself, infecting the surrounding area.
+
+Or, it was like an ant colony, where bits would go out and bring back food—in this case magic—to feed the whole and make more bits.
+
+No analogy was perfect, but she thought she at least understood some of the mechanisms involved.
+
+She extended her aura over the massless mass, and got a better sense of it.
+
+It was old.
+
+She didn’t know how she knew, but that fact was still undeniable.
+
+The Black Legion hadn’t made this—at least not recently—they’d found it or rediscovered it and altered it to their purposes.
+
+As she examined the reality threads and nodes she expected it to be void of them… as it was a reality void.
+
+Instead, it seemed that the void had twisted the reality bits to be something other.
+
+Every node native to the near region connected back to this point, creating a truly horrific tangle.
+
+At the same time, the normal reality threads and nodes from herself and those with her seemed to repel and be repelled by those connected here.
+
+A polarization of reality away from magic… or at least magic as we understand it. She got the odd feeling of a triangle. In her mind, one point vanished, sending the two connecting sides pivoting away before they met once more on the other side, creating a mirrored version of the previous shape.
+
+The very idea made her eye twitch again and her mind recoil.
+
+She had no reason to believe there was any truth to the notion, nor what it would mean if it were true. And quite frankly, it was hardly the time to delve into such things.
+
+As her aura surrounded the space, an odd dissonance came over her. On one side, it seemed that she had to extend far, far further out and around than the size of the anomaly would otherwise indicate. On the other, it felt like she was enveloping nothing at all.
+
+She actually swayed on her feet at the tumult within her. Still, she managed to fully surround it, preparing herself to surge inward and lay claim, to shut or fill the issue.
+
+-Wait!-
+
+Tala did stagger then, her mental impetus shattered at Alat’s interjection. What!
+
+-The researchers are asking for you to direct your focus to this region, here.-
+
+Tala felt the alternate interface highlight something nearby, and she moved her focus to that area, sending the raw information back for processing. Can I proceed now?
+
+-One moment.-
+
+Tala groaned, flopping down to the ground, exhaustion catching up and smacking her across the back of the head for the folly of the long chase.
+
+Her helmet vanished and a cheesy little caravan appeared in her hand. She grimaced and spat a mass of ick off to the side before summoning some water to clean her mouth, letting her finally take a bite of the heavenly goodness.
+
+This one was made with steak strips, and it was positively divine.
+
+‘One moment’ was enough time for her to finish the first and go for a second.
+
+She frowned. Alat?
+
+-Yeah? They’re almost done. Things might be easier than we feared.- Alat sounded positive, so Tala decided to take the potential as a good thing.
+
+That’s good… Even so, there was something that she needed to figure out. Hey, since we have time. What happened to my cheesy little caravans?
+
+-What are you talking about? There are hundreds in your little hidey-hole.-
+
+Tala glowered. I’m not in the mood, Alat. How many have you been giving out?
+
+-I didn’t keep count. Do you need me to cycle back through our memories and find out? I can also tell you how many you have eaten.- Alat somehow sounded both a bit huffy and smug as she made the offer.
+
+Tala grimaced at that. She didn’t know if her self-image could stand up to actually counting how many she’d eaten… No… Increase our order for the next pickup.
+
+Alat snorted before agreeing. -We’re going to have to guard that group when the cities cycle over.-
+
+Yeah, stars help us if they don’t make it.
+
+-Stars preserve those who prevent it.-
+
+Indeed. Tala took a bite of a grilled chicken variant, letting out a groan of enjoyment. Food shouldn’t be this good.
+
+-I mean… you could eat something else?-
+
+I mean that it doesn’t have any right to be this good, and there is no way I’m not eating more.
+
+-Fine, fine. Oh!- After a moment of silence, Alat chuckled. -They have a solution for you. Use your ending blade to sever that connection there.-
+
+A portion of the odd material coming off the reality void was highlighted to Tala’s perspective. Alright.
+
+Tala layered the powers, concepts, and structures around her blade even as she stood back to her feet, a flick of will tucking her food away for later.
+
+Before the working could settle into her being and start affecting her thinking, she struck, slashing through the indicated part of the massive construct, shattering the odd material and causing it to disperse into nothingness.
+
+She immediately dismissed Flow and all the workings that had surrounded it.
+
+Reality stuttered.
+
+With the rapidity of a popping bubble, the reality field that had been expanding outward was torn away, fragments collapsing inward with the power of a galeforce wind.
+
+Yet the actual air was utterly still.
+
+Like the dropping of a rock into a perfectly clear, still pond, ripples radiated out across reality even as magic flooded back in.
+
+Tala felt the magic that they’d passed by on the way in—that which was more chaotic—rush inward as well, away from the collapsing zeme of ambient power coming to level out the region.
+
+A moment later, the chaos was lost among order, the kinks and hitches smoothed out and forced into alignment with the laws of magic that Tala was used to just as she understood them to be.
+
+There was a fractional pause as if all combatants across the entire area had taken a collective breath. Then, magic exploded into being.
+
+Combatants who had been held back now washed away lesser automata with abandon, and they were suddenly achieving crushing victory.
+
+There would be pockets of resistance, and it would take time to hunt down the remnants but—
+
+Terry’s presence suddenly slapped her upside the head as the soulbound was fully unveiled once more.
+
+He wasn’t close, but he was closing in at speed, and that very fact drew her attention far more quickly than it otherwise would have been directed toward him.
+
+Alat seemed to have the same draw, and she was startled enough that she didn’t shield her half of the conversation with Terry from Tala. -Huh? Check the Archive? Wha—? Oh, no…-
+
+Terry had stopped as soon as he sensed Tala, and he was now moving away again, back the way he’d come. Alat? What’s going on?
+
+-Bandfast is threatened. An army is mere hours away. We are needed.-
+
+Tala wasn’t proud that one of her first thoughts was for certain tasty food-logs, but she moved past it and nodded firmly. Get our orders from the war council, gather those who can come with us. We leave in fifteen.
+
+-It will be done.-

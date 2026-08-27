@@ -1,0 +1,231 @@
+---
+id: ebe622c8-0fc5-51a7-9535-acb5867973d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 704 - Partings"
+slug: 0212-chapter-704-partings
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 212
+ownLength: 2793
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3381669/chapter-704-partings"
+royalRoadId: "3381669"
+---
+
+Tala lifted her perspective, the fact that she was stoneward—within her sanctum—utterly irrelevant.
+
+She had an enemy in mind, those like the last she’d severed.
+
+The Black Legion.
+
+They were unconnected to anything she knew of, even the similarities with her daughter and her body’s origin were not enough to truly track.
+
+But they had taken the central column of the city.
+
+Tala had, of course, tried to trace the reality threads that used to link every citizen of Platoiri to their column, but she’d been unable to follow them. All that had remained had been odd fractured wisps of what used to be.
+
+Everyone with enough knowledge to understand had agreed that such meant something, but no one had seen the like before. So, it hadn’t gone anywhere.
+
+She felt like that might be different now. She might just be able to see more.
+
+It only took a moment to find those whisps, still faint and fading, but there.
+
+Tala registered the mix of gasps and curses within her sanctum as she moved to the superficial.
+
+She followed the faint remnants to the distorted and crimped space where the column should have been, seeing the connections pass through the stitched together portions of reality and through that void, into the Doman-Imithe.
+
+There were arcanes around her, but none too near besides a few city guards, keeping a perimeter.
+
+The guards recognized her and didn’t even move to engage, letting her do as she needed.
+
+She was aware enough to know that following into the Doman-Imithe was a fool’s errand, but the longer she looked, the more interesting the severed space appeared in and of itself.
+
+The anchor to the resort hold was more than twenty feet away, and so it didn’t factor into her examination.
+
+Her sword—Flow in Ending Blade form—looked mundane, more like a prop than anything else.
+
+To her magical senses, it was almost inert, only lighting up with power when she combined all her perspectives into the threefold sight.
+
+The weapon existed in a triad of forms, one copy stoneward and another starward, each held by one of her mirrors. She had created the overlapping forms, but hadn’t considered how they’d mesh, and she hadn’t remembered manifesting mirrors of Flow for the mirrors of herself.
+
+Fascinating…
+
+Rane, Lea, Terry, and the non-arcane researchers appeared on the superficial. She vaguely saw that a large slate had been left for the arcane ones to bear witness to whatever she would do, given they were bound to stay within the sanctum for the time being.
+
+The appearance of the fox-kin caused some noise, but the city guards did their job and kept the few interested parties back.
+
+Tala’s focus continued to play over the wrongness that the Black Legion had left behind. If she couldn’t end one of them, maybe…
+
+“No. This will not stand.”
+
+With a casual triune swing, she perfectly aligned her strike down the poorly patched rent.
+
+The reality threads were in a jumbled knot, frayed, tangled, and pulling toward one another, trying to prevent a gap, a nothingness, from existing.
+
+Her authority radiated from the surrounding layers of existence and held the mass firm with cohesion. With that held firm, she Ended the blemish with a stroke.
+
+Dimensionality popped back into correct form, revealing a thirty foot wide, fifty foot tall cylinder of absence where the space had been taken from.
+
+It wasn’t void. It certainly wasn’t the Void.
+
+Existence itself had been torn open and left wanting.
+
+Air didn’t rush in, there was nothing to rush into.
+
+Light didn’t pass through as there was no path, leaving a true-black nothingness.
+
+The edges were fraying, but not at a dangerous pace. Even so, Lisa stepped forward and spoke. “No further.”
+
+It was two simple words, but Tala felt them resonate through existence itself and the fraying edges stopped pulling at their surroundings.
+
+The fox-kin looked at her and raised an eyebrow, expectantly.
+
+Tala nodded, pulling from her bound dimensionality, freeing a section of the exact right size and pulling it into place.
+
+Normally, doing something like this would have required fighting Zeme itself, and it would have caused all sorts of spatial distortions and knock-on effects.
+
+Now? There was nothing there to resist, and the dimensionality practically clicked into place.
+
+The space was hers. It was her, but that wasn’t an issue either.
+
+A sideways flick of the Ending Blade severed that connection, even as the radiating cohesion immediately acted as a balm to sooth her, body and soul, mitigating the loss.
+
+The dimensionality had risen from stoneward, surfacing and filling in the gap with flicker, the immediate change from pitch black to normal sight almost as blinding as a bright light would have been.
+
+Even so, there was suddenly dimensionality there, existence where there had been none.
+
+The cohesion radiating from Flow seeped into the edges, the whipping, thrashing, frayed reality threads finding new points of connection in the newly patched space.
+
+A moment later, it was done.
+
+Only air existed in the patch, but the space existed once more, rather than being an odd distortion that the average mind tried to pretend didn’t exist.
+
+When she looked closer, she thought she might be able to see the edges, but they were fading, blending, and melding with the surroundings with each passing second.
+
+Soon, this would be indistinguishable from any other part of Zeme…
+
+Her eyes widened, and the Ending Blade let her mind snap back to normal, its purpose momentarily fulfilled.
+
+She ended the flow of magic to her weapon, dismissing Flow the next moment, and all fell back to normal.
+
+Tala dropped to the paving stones of the massive plaza, landing lightly with a slight bend of her knees.
+
+She hadn’t realized that she had been floating some ten feet off the ground.
+
+Looking back, she could tell that the center of her perspective lined up with that, but it hadn’t felt unusual at the time.
+
+Lisa walked up beside her and whispered so softly she barely heard him even with all her enhancements. “We will discuss what you just did in a moment, but we should all pray that none of the witnesses understand enough of authority and magic to have noticed that it was the former which held you aloft. If you don’t wish to announce yourself as one of the few Hallowed on the continent, I recommend you keep such displays to yourself.”
+
+“Is the step from Hallowed to Sovereign so easy that basically none stay as Hallowed? Really?” Her response was a bit louder, but only barely, causing his ears to twitch.
+
+He shrugged, his voice at a normal volume now. “If you have a glider, it takes little to fly from a mountaintop.”
+
+“That… makes little sense, Lisa.”
+
+“Good, then I didn’t disrupt your ascent.”
+
+She cast the fox-kin a dubious look, but then everyone was crowding around. “Come. Back to the sanctum.”
+
+She caught the eyes of one of the guards that glanced her way and gave a respectful nod before willing everyone back to join the arcane researchers.
+
+There was a fantastic burst of noise upon their arrival, and to her surprise, Tala found that the questions were directed toward those who had been on the superficial to observe rather than toward her.
+
+Huh, that’s nice.
+
+-You know what isn’t nice, Tala? Do you know what really, really isn’t fun?-
+
+Tala frowned. What?
+
+-Trying to sort through whatever filter of reverse madness was pulled over your thoughts and perception.-
+
+Reverse madness? That’s an odd way to describe it?
+
+-Is it, though? Madness is seeing things that aren’t there, right?-
+
+A bit oversimplified, but sure.
+
+-This was seeing things that are there, and seeing them without the veneer of lies we tell ourselves. As an example, we know that most people aren’t immortal, but we pretend otherwise to not fall into depression and madness, to not disconnect. This forced us to see that fragility, that ephemerality.-
+
+I… huh. That’s actually a really good point. She didn’t really like some of the implications of that, but she supposed that was the point that Alat was trying to make.
+
+She might have continued her internal dialogue, but a part of one of the researchers’ questions caught her focus. “So, good Lisa, you say this is a parallel to how Zeme was restored after the shattering?”
+
+Tala turned and found Lisa looking directly at her. The fox kin smiled. “It is an echo of the powers used, yes. She was able to perfectly fit the dimensionality required, a skilled craftsman plugging a hole. When Zeme was fixed—assuming the oral traditions are correct—there were too many people involved and the chunks were too intermixed to make clean connections. Everything was broken and fraying, so the workers were generally unwilling to risk further damage by cutting or breaking down the pieces they had for better fits. Instead, they folded portions back, tucking them away to allow for clean connections.”
+
+Tala grunted. “Thus creating the Doman-Imithe, where those bits of the previously broken pieces stick through and connect the best they can.”
+
+“Precisely. The world created because Zeme is so broken. The world of unwanted and unneeded edges. The broken world.”
+
+One of the arcanes—a monkey-kin with bone-white fur—stroked the beard portion of his mane of hair. “And they sealed Zeme to contain the magic, trying to maintain what little they could still draw to the world.”
+
+Another—this one a red feathered bird-kin of some kind—added. “Yes, yes. So, all that is in the Doman-Imithe is reality and the space between, the void. Everything held separate by Zeme, everything hungry for connection, and only magic can bridge the gap.”
+
+Lisa nodded, taking control of the conversation once more. “Yes. All that to say, Eskau Tala has done what they couldn’t, because she was working on a smaller scale and with different tools. She also had the benefit of existence having time to settle, heal, and stabalize. Still, the work is much the same.” He looked her right in the eyes. “You could walk the divides of ancient world-pieces and sever them free before paring them down and slotting them back in place. Each fix would reduce and weaken the Doman-Imithe and strengthen Zeme. Such should not be possible with magic alone, but I suppose that is the entire point of this test.”
+
+Tala frowned. “But… that wouldn’t actually be repairing the world, would it? It wouldn’t result in anything like the world fragment, restoring the world to how it was?”
+
+An arcane spoke up, his yellow hand waving dismissively in the air. “Clearly not. It would be fixing this world and allowing the worst aspects of the breaking to be handled permanently. A remaking would require an entire unmaking, and that would leave those attempting it in the same place as the originals.”
+
+Lisa sighed but nodded. “Tomplin is correct, at least mostly. Assuming they used the methods you just demonstrated—or other similar such—the pieces would not be frayed and further fraying, so there would be more time. On the negative side, however, the pieces that were used for Zeme have all been altered and changed through the millennia. Even if they dimensionally fit together once more, the other aspects of them would no longer mesh well if at all. Moreover, Zeme does not use all of the pieces, and many are long-lost in the void and elsewhere. If the remaking was constrained to returning the world to how it had been, it would leave great swaths—and uncountable small sections—simply missing, to never be filled.”
+
+The arcane—apparently named Tomplin—shook his head, clearly not concerned about arguing with Lisa. “Just seal those up.”
+
+The fox-kin huffed a laugh. “Then you are not remaking the old world anyway, and it would be better to simply fix and solidify Zeme as it would be both simpler and end with a better result.”
+
+That, of course, started an argument with others joining both sides, and even a group proposing other, seemingly inane solutions.
+
+Tala… did not have time to allow this to run its natural course. She cleared her throat. “I propose you continue this after our time is done.”
+
+That got some chastened looks, though Lisa and the other fox-kin were visibly unrepentant, clearly having enjoyed the back and forth.
+
+“Now, I believe that one of the points of these experiments was for the ‘inside’ perspective.” She went on to give as much detail as she could from her own point of view while the working was active.
+
+That spawned more questions and discussion, though they seemed to attempt to keep the latter to a minimum as their time to interact with her directly was running short.
+
+Finally, even the extended time was at an end, and Tala bid goodbye to the researchers, sending them back to their little enclave where they immediately fell back to arguing and discussing the various aspects, both of the experiments and other related points of note.
+
+Tala was left with her family, and she took the time to speak with and hug each of them.
+
+Well, she hugged Lea, hugged and kissed Rane, and snuggled Terry. “Be safe, all of you.”
+
+Rane and Terry bid their goodbyes to Lea as well before they vanished, willing themselves to the superficial, and Tala turned fully to Lea. The girl gave her mother a wry grin. “Shall we go meet my handlers?”
+
+Tala huffed a laugh. “Let’s.”
+
+Lea and her mother took another few minutes to ensure that Lea would have all that she needed for her work over the next weeks. While her daughter was the main one running around, Tala found her own thoughts drifting back to Mistress Odera, the woman who had been her handler.
+
+I still miss you. A sad smile came over Tala’s features, but Lea was a bit too involved and frantic to notice. In order to keep from spiraling, Tala shook off the momentary melancholy and dove in to helping her daughter.
+
+As much as it had made the girl grumpy, Tala and Rane had decided that trying to send another split off, expanded space with Lea would be unwise until they’d thoroughly tested the division of the two largest.
+
+The fact that Lea wasn’t soulbound with Tala—as she shouldn’t and never would be—made the prospect of one of Tala’s dimensional pockets even less tenable.
+
+They were able to acquire a smaller expanded storage for her, and Lea had gotten it in the form of an artificed glove.
+
+The girl already wore it on her left hand, and when activated, she could reach through the palm of that hand with the other to pull out what she was seeking. She could also let others reach through, as the activation really only opened the space either to have items put in or for a specific item to be retrieved. It could also expel an item, but not fast enough to be used as an attack. It wouldn’t even be a fast enough way to draw her sword in a combat situation, unless she manually extracted it.
+
+It was a far more expensive and intricate space than most given the various layers of magics involved, but that was hardly a concern for the family, and it had quite a few uses that had intrigued Tala, Rane, and the Constructionists that they’d pulled in to do the actual impressing of the spellforms.
+
+Regardless, Lea flitted around the sanctum grabbing a few, last minute items.
+
+The glove didn’t have a massive space, and the entrance was limiting, but Tala still thought it should be plenty for the girl.
+
+Tala started to smile as Lea grabbed yet more food.
+
+She sighed when her daughter took a number of mundane back-up weapons.
+
+Finally, she had to hold in a laugh when Lea went to the library and started to grab her favorite books.
+
+Tala intervened after the tenth, willing herself into being beside Lea. “My sweet, if you have time to read that many books, something has gone terribly awry.”
+
+Lea hesitated before putting a final book in. “You’re right… I suppose I’m just nervous.”
+
+Tala wrapped the larger woman in an embrace. “I can understand that. You’re going out on your own for the first time. That can be scary.”
+
+Lea looked down at her mother. “Are you sure I’m ready?”
+
+Tala smiled. “I think you are more ready than we have any right to expect for your first sojourn. Be respectful to your escorts and listen closely to Eskau Pallaun. He means well, and he has more life experience than your father and I combined.”
+
+“I will.”
+
+She pulled back in, giving a large squeeze before she sighed. “Come on. They’re waiting.”

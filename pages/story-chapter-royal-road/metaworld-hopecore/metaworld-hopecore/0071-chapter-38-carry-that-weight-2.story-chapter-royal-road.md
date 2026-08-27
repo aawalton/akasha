@@ -1,0 +1,165 @@
+---
+id: efb5c81e-d51a-51a6-9199-dd1b96f14f76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - Carry that Weight (2) "
+slug: 0071-chapter-38-carry-that-weight-2
+partOf: metaworld-hopecore
+position: 71
+ownLength: 1698
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3393115/chapter-38-carry-that-weight-2"
+royalRoadId: "3393115"
+---
+
+Tuesday. 5.57 AM.
+
+Eppie awoke to her phone blaring.
+
+On the screen, the text read: It's number one. Kellie is number one. Lucia is number two.
+
+She put on the snooze. Around the world’s imagined corners, all was right with the universe.
+
+“ACT V!” Dr Kirby shouted over Eppie, as if a student credited with writing a Hot 100 Number 1 did not exist. This was classic Kirby, a quality that Eppie and her class greatly appreciated.
+
+“The fifth Act was homework reading.” Kirby scanned the room. “The Banquet. What has happened? James?”
+
+“It's the climax,” James replied in his deep, trombone voice. “The ‘mad’ Titus puts on a show; he invites everyone to dinner, including the queen and her kids. He sets the table, and he is also the cook.”
+
+“Is his role a disguise?” Kirby asked, her eyes twinkling.
+
+“Not really, he really did cook,” James continued. “So er… He’s killed Chiron and Demetrius, and he’s ground their bones into meal, and their flesh into mince, and he’s made a pie. He serves the pie to Tamora, their mother.”
+
+The kids gagged. Kirby smiled. “More?”
+
+“He then kills Lavinia.”
+
+“Indeed, he does, but the devil is in the details. It is… the order of deaths that makes the play great. This sequence—it pertains to a legal procedure.” Kirby turned her eyes to another student. “Atkinson. Was it proper for Titus to murder his own daughter? In what sequence does it happen?”
+
+“Before the banquet.”
+
+“For what reason? What was his motivation?”
+
+“Sorry, Miss, I am not sure,” the boy apologised for not being a know-it-all like Eppie, Kirby’s pet feline.
+
+“Eppie?”
+
+Two dozen pairs of eyes coalesced on the girl of the hour.
+
+Eppie felt the hair on her neck stand on end, not unlike Mr Chin’s whenever a stranger walked in. “Er… Titus kills his daughter with his own hands by citing a Roman precedent, the tale of Virginus, who killed his daughter to save her from violation. Maybe that’s where the word ‘virgin’ comes from?”
+
+“Miss Fontaine,” Kirby’s voice lashed like a steel whip. “Please refrain from spreading populist misinformation in my class.”
+
+“Sorry…”
+
+“You’re not off the hook yet. Continue.”
+
+Is this bullying? This feels like bullying… Eppie’s [Script Analysis] scoured her frontal lobe, then delivered the answer her teacher sought. “In Titus’ mind, he is mercy killing his daughter so that she does not have to live with the shame, the shame of living in a society that shames her for being a victim of sexual assault.” For not even Mio could escape that shame.
+
+“And is it right that Titus offers this mercy?”
+
+“No,” Eppie said firmly. “It’s bullshit. It is wrong. VERY WRONG. In the context of Shakespeare’s time, the ecclesiastical zeitgeist would not allow it. The bard knows it's wrong, his audience knows it's wrong. He writes it anyway because…”
+
+She paused. She was too worked up, much too worked up. Mio’s thing was melding with her mind, messing with her head.
+
+“Because?”
+
+“Because Titus is a man so bound up with vengeance, wrath, cynicism and cyclical hate, that he’s stuck in his own spiral of vengeance. Via his scheming foes, he has been reduced to a mere tool of reciprocal revenge. To a Christian audience, he’s a horror show.”
+
+“Very good.” Kirby clapped just once. Ten points to Ravenclaw! “Tool of vengeance. All of you. Write that down.”
+
+Eppie sat back in her chair.She topped up her stamina.
+
+She had to stop thinking about Mio, about what the Goddess Nike once copyrighted, to Just Do it.
+
+The class scratched their pens against paper. The age of iPads and laptops had yet to arrive.
+
+“But of course, there is more,” Dr Kirby returned to the whiteboard with a tricolour of markers. “Let’s look at the events as an automaton of revenge.”
+
+She made the first mark. “The banquet is a TRAP. It is Catastrophe.”
+
+“Before the banquet, before the killing of Lavinia, Titus had given her daughter the satisfaction of revenge. Our once-noble hero had captured Chiron and Demetrius, the Queen's sons and Lavinia’s rapists. He has killed them nice and slow, like sacrificial cows, slitting their throats while Lavinia holds a basin to collect their blood. This is deliberate. Why? Madison?”
+
+“She wanted revenge?”
+
+Kirby shook her head. “Anyone else?”
+
+The class remained mum.
+
+“Eppie…”
+
+All eyes converged once more on Eppie.
+
+Yep. This is bullying. “Er… I don’t know?”
+
+“I’ll give you a Chupa Chup,” Kirby pointed at her desk.
+
+The class laughed. The tension melted.
+
+Eppie gave in. She did indeed want a Chupa Chups. A choco-banana one. “It’s because the theme of silence continues. Poor Lavinia has a silenced body, a vessel for the men’s hate, their blood, their… er… seed? Now, she is a silent vessel holding the blood of her father’s foes, filled with her father’s hatred. She’s here because of his actions, after all.”
+
+Why, oh why, in the name of all that is godly, did I say SEED? Eppie’s face grew suddenly scarlet. Damn it, Mio! You and your… bump! Eppie buried her face in her palms and dared not look up at her instructor.
+
+Someone snickered. Half the class was holding in their guts. Knowing the theatre kids, Eppie would not be living down her seed comment until after the Christmas break.
+
+Her strange choice of diction was enough to garner Kirby’s sympathy, who, out of compassion, gave her two Chupa Chups. Neither were choco-banana.
+
+“You laugh now.” Kirby’s stern gaze silenced their growing mirth. “But Eppie is correct. Women as vessels, women as silent, women as victims. It wasn’t so long ago that things were just so. No. Don’t snicker, Madison. Someone with your qualities would already be knee-deep in children, assuming you survived childbirth at fourteen.”
+
+The grins faded.
+
+“But that is a tragedy for another time. The boys are baked into a pie and served to their mother. Before the festival of blood opens, Titus asks a legal question.”
+
+“Is it proper for Virginius to kill his daughter, to save her from dishonour? The emperor agrees. Saturninus says that this is a legal precedent.”
+
+Kirby’s voice lowered an octave.
+
+“Here is the order. The question is asked. Lavinia is brought forth, stumps and all. Titus kills Lavinia in front of the horrified Emperor. Gut her on the table, like an Aztec offering. The Emperor demands why? Titus states, why, it is because she was defiled, dishonoured, by Chiron and Demetrius. The emperor is bewildered. Was killing Lavinia solely to prove that the Queen’s sons were guilty? Where are the boys? He asks.”
+
+“WHERE are Chiron and Demetrius?!” Kirby’s voice rose to the ceiling.
+
+“IN THE PIE!” The boys in the back row howled.
+
+“YES!” Kirby answered like a preacher, bringing a supernatural energy to the finale of the play.
+
+"Why, there they are, both baked in this pie, Whereof their mother daintily hath fed,Eating the flesh that she herself hath bred"
+
+“The boons of reciprocal hatred, the behemoth that feasts upon its own flesh!” Kirby’s eyes were flashing, or at least Eppie felt like they were. “Appetite devours itself. Rome’s civility, Rome’s ritual, Rome’s laws have made Titus thus, and now, Titus has made the highest ritual of Rome, the Emperor’s banquet, into a site of cannibalistic degradation. This is the catastrophe of blind vengeance.”
+
+“The queen ate the pie. She ate quite a bit. Now, the play effectively ends within twenty lines. Titus kills Tamora. Saturninus kills Titus. Lucius kills Saturnius. Marcus stands in a field of former kin. The pacing is masterful. The audience is left distraught and horrified. The stage is covered in bodies, and blood flows like the River Tiber.”
+
+The class remained silent. Nobody was thinking about Eppie and her “seed” now.
+
+“Is this karmic justice?” Kirby reached for the computer controls. “No. THIS IS HOMEWORK.”
+
+The kids stumbled from the room, utterly traumatised by Dr Kirby.
+
+Worse than anyone, worse than even Titus, Eppie walked in a daze down the corridor, her head filled with a terrible synaesthesia caused by the confluence of [Composer] and [Script Analysis].
+
+In the Pies, in the PiesWith a box of French FriesShe would swallow—
+
+ARRRRRRRRRRGH— Eppie screamed internally. ALEXA! TURN OFF [TRAITS]!
+
+Then she ran face-first into Valorie. She was an inch from taking the redhead out with her bobbing forehead.
+
+After an ecstasy of fumbling, the two girls stepped back, one with frazzled morning hair and the other a picture of manicured perfection with one lock out of place, one tall and slim, the other short and petite.
+
+This close to the Gala, Valorie had double arts blocks. Unlike Eppie, who wore her cheap casuals, the infamous senior was already in her rehearsal clothes. With her French-made leotard, Parisian ballet flats and Burberry overcoat, she looked like a teen fantasy torn from a daytime television drama about conservatory heartthrobs.
+
+Like Eppie, something must have weighed on Valorie’s mind, for she hadn’t looked up at all until they had almost collided.
+
+The two stared at one another for a full four seconds, the lionness and her defiant kitten. Eppie’s [System] enhanced ear could hear the subtle change in Val’s breathing, her [Physicality] noting the controlled inhalation of someone drawing on every theatre practice known to woman and man to control herself.
+
+“Congrats.” Valorie’s tone had the tension of steel cables on the Golden Gate Bridge. “On your number one.”
+
+Valerie was also Antigone, but their production was a full-blown hammer-and-tongs, music-and-lights musical variation at the Whitman’s Theatre.
+
+“Thanks, Val,” Eppie swallowed her own snark. They were in public, and people were watching. For her plan to work, she needed to lie low. It was only because Valorie was in the dark on William’s crime that she wasn’t subjecting her to the same theatrical torture. “I got lucky.”
+
+“Sure.” Valorie’s eyes were pretty enough to kill. “Now get out of my way.” Eppie “got” out of the queen bee’s way.
+
+How involved was Valorie in her fall from the rooftop?
+
+In the Pies, in the PiesWith a box of French FriesShe would swallow—
+
+Eppie groaned internally. Val's comeuppance was an answer only Simone Goode could deliver.

@@ -1,0 +1,305 @@
+---
+id: eb1165d0-c177-5a6b-8af0-e0aa24c122f3
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 68 - Dress You Up"
+slug: 0116-chapter-68-dress-you-up
+partOf: metaworld-hopecore
+position: 116
+ownLength: 3734
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3598537/chapter-68-dress-you-up"
+royalRoadId: "3598537"
+---
+
+"Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation."
+
+Oscar Wilde
+
+Culver City Sofitel’s lobby was corporate and bland, smelling of orchids and Aesop's vanilla essence.
+
+Stepping into the lobby, Eppie bestowed upon Zara the joy of checking them into their suites. After all, Zara was the adult in the room, and it wouldn't do for a 15-year-old kid to be the face of their party. While Zara did her thing, Eppie sat in the lobby, knee-over-knee, thinking about Kel and Kellie and whether her paranoia was unfounded.
+
+“Two keycards,” Zara returned after ten minutes. “We got a connecting suite. Eleventh floor. Oh, and the concierge says these are for you.”
+
+Eppie took the manila package. “That’s probably the magazine…”
+
+“The magazine?” Zara’s eyes glinted. “The one you’re in?!”
+
+Eppie gave her a mysterious smile. The envelope was addressed to her, with Maddy's unmistakable Comic-Sans-enthusiasm, the corner already a little crumpled from the courier's carelessness.
+
+“Should we open it now?” Zara eyed the package hungrily.
+
+Eppie kept the package out of reach. “If you want to read it, come to my room.”
+
+Upstairs, the suite was tasteful, expensive, and neutral to a fault. Zara burst into the room with their shared key.
+
+Eppie handed over the package. Zara zipped open the red pull-string. A pair of magazines fell out. It was a copy of February’s Seventeen, cover-dated in advance of the newsstands.
+
+“Oh, my God!” Zara cradled the cover against her throat. “EPPIE! You’re on it!”
+
+Zara was, of course, dead wrong.
+
+Eppie wasn't the headliner; that was Lucia with her unmistakable, flawless smile. Eppie was a thumbnail to the bottom right, with the tagline “No.1 at Fifteen”. Zara squealed and flipped through the pages, trying to find her photoshoot.
+
+Eppie picked up a copy as well, just to see for herself what the fuss was about.
+
+The article was four pages and three spreads, written in appropriately jazzy prose. The first photo was of Eppie wearing Sony’s leotard in chiaroscuro, with a sepia filter and shallow focus, every strand of hair somehow razor-sharp despite the f/1.2 blur around her, her baby blues framed by flaxen hair. The second: the Almond Blossoms leotard, gold LAPA lettering catching the softbox as if it were lit from within. The third: candid, mid-laugh, caught between takes, just to make it seem like she was a real maniac-pixie-dreamgirl and not some performative persona.
+
+Zara exhaled wistfully. “Can I keep this?”
+
+“Sure.” Eppie read the article.
+
+"She writes the songs you cry to at 2 a.m. and somehow still finished AP Physics. Meet Euphemia Fontaine: orphan, prodigy, accidental Sony royalty—and, according to three separate sources, a career maker, just ask critically acclaimed artist Armand Armar. Yes. We're obsessed. You will be too."
+
+Eppie cringed so hard that goosebumps ran up and down her legs.Zara’s eyes, scanning line after line while lounging on her queen-sized bed, were on fire.
+
+Someone knocked on their door at 10:30. Their driver was right on schedule, a young guy in a vest who lit up like a light bulb as soon as he saw… Zara.
+
+“Ms Fontaine, Ms Arriaga—car's downstairs whenever you're ready.”
+
+Zara, nervous as all hell, was ready the moment she stepped into the hotel. Eppie was still wrestling with her shoes, because she was too lazy to undo the laces and elastic laces were still trash in the mid 2000s.
+
+Their beetle-black limo idled under the portico, AC already running cold as per LA tradition. Eppie slid in first, Zara after her, and the privacy glass went up before the driver had even pulled out of the lot.
+
+"You nervous?" Zara asked, watching Culver City slide past the tinted window with its soundstages and palm trees and studio backlots.
+
+“About the planning sesh? Or the Grammys.”
+
+“Both?”
+
+“They said that Mirabelle is sending over someone for our costumes, so we’ll be fine in that regard. The Grammy? You’ll be fine.”
+
+I’ll be standing between Kel’s fist and catastrophe. Zara reached over without comment and squeezed her hand once. Zara did that a lot.
+
+“You’re not going to be fine?”
+
+“I’ll be fine,” Eppie lied. I’ll be fine when Kellie shows up with her face intact.
+
+The car turned onto a studio access road, gate already lifting, a young PA waving them through like they were VIPs—which, according to Curon, they absolutely were.
+
+The fitting room for the studio’s newcomers was set up in a converted soundstage with partition walls, a luxury for no-names like Eppie and Zara, yet woefully insufficient for a MUA team from Vogue’s in-house wardrobe department. Nonetheless, considering that Curon was Sony Music and this was all a favour from Sony Pictures Studios, it was the best Eppie’s father could do without stepping on toes.
+
+Ergo, both the MUA team and the starlets ignored the film work outside and the exposed pipework overhead, choosing to focus instead on making the best of their backstage boutique. Mirabelle wasn’t there, of course. It was absurd to think that, even as one of her self-proclaimed “mentors”, the Chief Editor would take time out from Vogue’s Grammy sesh to come and see her. Mirabelle’s taste, however, was fully present.
+
+“There’s our songbird,” Marta looked up from a rolling case of brushes as they entered, guided by their driver. “Ah, and our other songbird. My word… There is amazing potential to be tapped! Tsk, tsk, Eppie, you have some growing to do!”
+
+Her aide introduced himself as Benson. He appeared from behind a rolling rail, dressed in all black, with sleeves rolled, a tape measure looped like a stethoscope, and hair slicked back. “Mademoiselle.”
+
+Ah, the guy who sent me my replacement clothes at Vaughan’s… Eppie recalled from [Memorisation]. Benson had excellent, if expensive, taste.
+
+“Hi Ben! Marta!” Eppie did the thing where she happily hopped about, then held their hands for a shake. It was cringe, but it was expected. An actress must always be connected to the fitter and the MUA on a spiritual level to achieve the harmony of skill and vision.
+
+“Ms Fontaine.” Benson bowed, then pointed to an elevated stool for measurements. “If you may step up?”
+
+Eppie did her thing first, just to show Zara that it was perfectly fine to have a somewhat androgynous young man breathe an inch next to one’s neck while the tape measure expertly looped and slipped from chest to waist, to hip, from shoulder to thigh.
+
+Zara hovered near the racks, running a thumb along a row of fabric swatches with the cautious curiosity of someone afraid to see a price tag. Luckily, no such thing existed in Marta’s inventory. If someone had to ask, they couldn’t afford it.
+
+“The Miu Miu is Eppie’s,” Marta caught her admiring. “Yours is still in the bags. We haven’t measured you yet, so we’ll choose once that happens.”
+
+Benson circled Eppie like a car inspector, mumbling measurements into a recorder clipped to his vest. Marta did the same for Zara, walking round and round and nodding to herself until the Spanish girl blushed furiously.
+
+“Alright.” Marta clapped. “Five-ten, lean, size 6. Benson, suggestions?”
+
+“Pertegaz B in Shiraz, ma’am.” Benson led Eppie from the platform by hand, then offered the same to Zara. “Ms Arriaga.”
+
+“Good choice,” the MUA clapped.
+
+Zara stepped up, timid as a fawn. Eppie looked up at her giantess, covering her eyes so the stage lights from above didn’t blind her.
+
+Benson stifled a smile while Marta laughed out loud.
+
+“Eppie, come here,” Marta pulled her to the left of the room while Zara was bodily scanned by a tailor for the first time in her life.
+
+Marta pulled Eppie’s dress free from the clear garment bag with the ceremony of a high fashion assistant pulling out a Westwood wedding dress.
+
+The dress came out in a single pull. As promised, it was not Givenchy this time, but Miu Miu. Eppie’s breath caught in her throat.
+
+The burnt-orange silk! The subtle bodice! The knee-length cut!
+
+PARIS WHEN IT SIZZLES?! Her memories jumbled all at once. There was a Hepburn in her present world. Eppie had read about the actress, famous for her privacy. Still, the lady’s filmography had crossed over to Jane Fonda’s territory, becoming iconic for bridging pulp and fashion, rather than couture and Golden Era glam.
+
+“It’s a bold choice of colour.” Marta pursed her lips, teasing Eppie by placing the dress over her petite body. “I dare say no one, but Mirabelle, would dream of putting you in sundrenched citrus.”
+
+Eppie agreed. The dress was perfect. It was eye-catching yet subtle. It was old school Givenchy, updated for a new world.
+
+“This is an atelier production?”
+
+“Naturally,” Marta’s smirk told her everything. “I should inform you that Vittoria Conti offered herself for this occasion. Not for you, of course, but for you.”
+
+“For Mirabelle.” Eppie understood the contradiction.
+
+Marta continued. “Vittoria was originally from the House of Givenchy. Now she’s trying to recreate some of that old magic. Who better than Mirabelle’s mentee to show off her artistic direction? She saw the photo of you and Lady Mirabelle from the Christmas gala—the one running in the March Vogue—and got it into her head that you gave off the right vibe. Even if you’re five-one.”
+
+“Oh…” Eppie wiggled her toes. March Vogue? “I am not the usual model for this dress?”
+
+“Adriana Levitte is five-eleven.”
+
+“Ah…” Eppie nodded. Valorie sized. Ironically and interestingly, Val was too scandalous for high fashion. As for herself… Ergh… Eppie stopped herself from overthinking. Whatever came naturally, or as the system saw fit, would be her canvas.
+
+“Anyway,” Marta slipped her out of her theatre blacks and slipped the dress over her head, then proceeded to work the bodice. “Vittoria gets to dress Lady Vaughan’s protegee, Mirabelle gets credited, Vogue has multiple talking points of interest, and everyone downstream gets paid. Oh, and you get to loan a one-of-a-kind Vittoria Conti atelier.”
+
+Marta moved to the side table, returning with the rest of her fit balanced on her forearm: a pair of ivory Chanel heels, a small white clutch with a diamond clasp, and tiny encrusted diamond earrings catching the clip-lights.
+
+Eppie did her best as Marta’s sentient dolly.
+
+“Hmm…” Marta stalked her body, tugging at fabric here and there, making Eppie arch her back without slouching. “I'm thinking bangs. Bangs and a clean pile. French manicure. Clean, finished, couture.”
+
+Zara stepped back into view. Her face was the hue of a beetroot. “So you're basically a walking advertising campaign?”
+
+Looking at Eppie in orange, her friend sighed dreamily.
+
+“Apparently.” Eppie grinned, then turned, slowly, moved by Marta like a dish on a lazy susan, her silks catching the light. “Whoa. This is an amazing dress.”
+
+“Indeed. Now get out of it,” Marta sent her off to Benson, who stood guard at the partition while she undressed. He was on guard to receive the Miu Miu, not the elfin shortie behind the bifold. With twenty-four hours to go, the girl could be fixed, the dress could not.
+
+When Eppie returned, all she could do was bite her lower lip in envy.
+
+Her friend was in a flamenco gown of garnet and velvety burgundy, a fitted gown with a thigh-high slit and a single bare shoulder, the floral fabric catching light differently depending on how it moved. Zara’s upper body was held by a stiff wishbone bodice, then, from her hips, the rest of the dress was loose and alive, built to swing whenever she stepped, exposing at least one of her legs.
+
+Zara’s bodyline was closer to a dancer’s or a long jump athlete’s, so the silhouette was just… burning Eppie with envy.
+
+“Mirabelle's note on this one,” Marta said, easing Zara into the role, “was that you should play into the ethnicity, but appeal to the broad public. Look wild, but expensive.”
+
+Zara turned toward the mirror and went quiet for a second. Eppie understood the shock. Seeing oneself dressed as someone from across the room, on the red carpet. Even for herself, it was a hell of an existential disjunction.
+
+Heh… she smiled with approval. True to form, dressmaking was an art, and the human body was the canvas. She had felt that Fashion Editors and design houses were "art" when she was a venture capitalist, but she could see it now.
+
+“Paco's going to lose his mind,” Zara said finally, half a laugh built into the insecurity.
+
+“Paco would burst into song,” Eppie pointed out, “if you ever show up at his bar in that.”
+
+Marta finished pinning the hem and stepped back, satisfied. She brought out the accessories. Benson suggested bold makeup to match the dress. Gold loop earrings in the Latino fashion language, no purses, but four-inch heels in red, compared to Eppie’s kitten peep-toes.
+
+“Mock-ups look good,” Marta nodded. “Benson?”
+
+Benson made a shape with his hands, the signal for padding.
+
+“Really?” Marta peeped over Zara’s shoulder. “They look fine to me.”
+
+Benson’s pupils moved horizontally.
+
+“Ah…” Marta understood, as did Eppie, unfortunately.
+
+After the fitting, the girls were shuffled back to the lot—but not to their hotels.
+
+Instead, they were moved to a smaller conference room three blocks over, into a room with a folding table, a water bottle, a whiteboard, a lady and a Dad.
+
+The lady was an unknown. The man was their Director, Eppie’s father, Frederick Curon.
+
+Her father was dressed in suburban casuals, meaning Patagonia, The North Face, and Arc'teryx, in that order from inner to outer.
+
+Eppie did her thing. They hugged. Zara shook Curon’s hand.
+
+“Alright, we don’t have too long,” her adopted father coughed. “This is Ingrid Voigt. She is the word of God. By God, I mean Sony's media coaching Director. She’s doing this as a favour for me. If you forget her advice and say something stupid, that's a wrap for your career.”
+
+“Hohes Lob, Direktor,” Ingrid said dryly. The senior from Public Relations, likely one of Maddy’s departmental heads, was austere and German: in her looks, her dress code, and her accent. “Sit. We have ninety minutes. Zero to waste.”
+
+What followed was a course Eppie could have taught herself, but for shareholder meetings rather than the Hollywood press.
+
+“Don't say 'honestly'—it implies the rest of what you say isn't.”“Don't thank the Academy, this isn't the Oscars, don’t thank the studio. Thank the people who matter and stop talking. Name drop, or don’t talk.”“If a reporter asks about Kel and Kellie, you smile and redirect. Not your business. Not your opinion.”
+
+Ingrid ran her through three mock interviews back-to-back.
+
+“You’re a natural.” Ingrid looked pleasantly surprised that Eppie understood every word. “Most people your age can't stop performing long enough to actually answer a question. Your answers are excellent, but I will say this… Have you considered not answering?”
+
+Eppie learned something new. During interviews, less was more. The dynamic was the opposite of bloating IPOs with buzzwords.
+
+“Last round,” Ingrid gave their Director a heads up before she turned to Eppie seriously. “Euphemia, there are rumours that you and Zara may be romantically involved, given how close you two have gotten this year. Care to comment?”
+
+Eppie gave an attractive, innocent titter. “I think my partner here would tell you herself that song-writing and performances are best done by soul mates,” she said unhurriedly and in good humour, smirking at Ingrid. “Listen to the songs, don’t let your imagination hold you back.”
+
+Curon golf clapped. Ingrid blinked. “Okay. That is an annoyingly good answer. Zara?”
+
+Zara had spontaneously morphed into a Rosa de Barbastro.
+
+“Her family’s strictly Catholic,” Eppie cut in.
+
+Curon snorted, slapping his knees. Ingrid looked from Zara to Eppie, then nodded. “Alright. We can work with that.”
+
+“Euphemia, with Kellie Noah's relationship having gone public, do you have any insight into—”
+
+“I'm not really the right person to ask, unless your question is about homework deadlines,” Eppie frowned cutely, turning the question on its head with her Disney Princess eyes. "Which, between us, is stressing me the hell out."
+
+Curon burst into laughter again, then tried to disguise the outburst as a cough.
+
+“I see I am wasting my time here with our fraulein,” Ingrid said. She swivelled bodily to Zara. “Zara, some say you're the real songwriting talent behind Eppie's success, kept deliberately out of the spotlight. Comment?”
+
+“Huh? That's not okay, who's saying that, because that's not—" Zara's hands came up, caught herself mid-sentence, started over. "We co-write. It's not a secret. Eppie writes the songs—”
+
+“Breathe,” Ingrid gave the girl space, not unkindly. “That answer was so bad… It's good.”
+
+“EPPIE!” Ingrid’s compassion was interrupted by the entry of a familiar voice, thirty minutes late for the media session.
+
+Kel G came in first, because Kel always came first. The young rapper wore a navy suit, lapels pressed razor-clean, every inch the “Modern Musician” Sony wanted him to represent, a stark contrast to the older “gangsta” rappers, who had limited suburban appeal. To the broader consumers, Kel’s tattooed visage was built on hot rods and pimped groupies, not civil-rights discourse and gang warfare.
+
+Kellie trailed a step behind, fully in character: bodice cinched, boobs pushed up under something glittering and barely a bodice, hair dyed in vivid orange streaks, heels that put her eye-level with Zara, albeit an inch shorter than Kel.
+
+“Hope we're not too late,” Kellie said to the room, even as her eyes went straight to Eppie first, warm, and then, briefly, to Zara, assessing. Her boyfriend gave Eppie the nod, called Curon a “Sir”, and then leered for a second at Zara before looking bored.
+
+Ingrid reset the room without missing a beat, sliding a stack of printed sheets across the table to Curon, who passed it down. “Now that everyone’s here,” she said, her tone reflective of her annoyance. “Let's go over tomorrow's messaging as a group. No one likes to repeat themselves.”
+
+The sheet was short, bullet-pointed, unmistakably Sony in its phrasing.
+
+GRAMMY WEEKEND — TALKING POINTS (Internal / Artist Use Only)
+
+Zara looked up from the sheet in shock. She hadn't quite expected to see her own name printed that prominently.
+
+Kellie, perched on the edge of the table now, nodded along enthusiastically, genuinely pleased, exuding the kind of warmth that wasn’t performative for the cameras.
+
+Kel said nothing. He'd taken the chair furthest from everyone else, one ankle crossed over his knee, scrolling something on his phone with the studied disinterest of a man who'd decided in advance that none of this concerned him.
+
+“Kelvin Grant,” Ingrid’s voice rang out like an air siren. Kelvin Grant’s body responded before he did, then his expression grew dark and dangerous.
+
+“Read it, or you’re out,” Ingrid said. Eppie recognised the voice. This was someone who had a stake in the company. This was someone who was someone’s someone. If Sony had to choose between Kel and this seemingly innocuous PR lady, the jury was still out…
+
+Kel’s jaws did that tightening thing that he did, then his whole body seemed to relax.
+
+“Sure thing, Miss,” he replied like a high school rascal, reminding Eppie that, yes, Kel really was just a few years out of school.
+
+Either way, the violence simmering under his taut skin didn’t get past Eppie, and she realised, after watching Kel pretend to read, that it was up to her to do something about it.
+
+The session broke a little after three, Ingrid gathering her laptop with the brisk efficiency of someone who had four more clients before dinner.
+
+Eppie’s sweet papa lingered just long enough to share a mild display of public affection, squeezing her shoulder once, while saying “You did good, kid,” in a way that made Eppie nostalgic for Harrison Ford.
+
+Kel’s eyes shot shanks at her, “See ya tomorrow…” then walked off… toward Eppie’s town car. This faux pas made for a very awkward ride back to the Sofitel. After some uncomfortable glares, Eppie and the girls sat at the back, while Kel sat with the driver, not talking to anyone.
+
+In the car, Eppie made her move. With Kel sullen and filed away in front of the car, Eppie leaned into Kellie, fired up her [Charisma], [Persuasion], and [Vocality], and, like Iago to Othello, made her move on Desdemona.
+
+Kellie was glowing but exhausted, hugging herself in the back of the car, the way people do when they moved to and fro at events bigger than themselves.
+
+“Kellie…” Eppie whispered in her bedroom voice, her breath close and her humming low. “Sleepover. Tonight. Me, you, Zara. All girls.”
+
+Kellie's whole face lit up like someone had plugged her in. “Oh my god, yes! I haven't had a sleepover since, like, junior school. My schedule doesn't do sleepovers—”
+
+“Kellie’s not going anywhere,” Kel growled from the front. “She’s—”
+
+“Kel,” Eppie performed her Plutocrat persona, the one that made Kel’s butthole clench like a kicked cat’s. “We’re talking here. Do you mind? How did you even hear us?”
+
+She pressed a button. The privacy screen went up.
+
+Both of the girls gasped at Eppie’s poise, the way Kel actually shut the hell up before the screen closed, unable to talk back.
+
+She immediately called her adopted father on speakerphone, with the ID displaying Dad.
+
+“Yes?” Curon answered.
+
+The whole car burst into riotous laughter, much to their Director’s consternation. “We’re doing a sleepover,” Eppie said to her Creative Director. “Can we move up into a bedroom suite? It's just us girls.”
+
+Curon replied mirthfully, “Leave it with me.”
+
+Watching Kellie turn all giddy, Eppie knew she had made the right choice.
+
+Why, thank you, [System]. It was good to receive heavenly affirmation as well.
+
+Eppie watched Kellie laugh. Really laugh, a little bit gap-toothed, unmanaged, and felt an idea click into place with the particular weight of one that wasn't going away. A girl who could sing with a “biblical voice” like that, hidden inside all that shitty packaging, could really do with a rebranding.
+
+“Kellie,” she said slowly, “have you ever thought about doing a musical?”
+
+“Like—Broadway?” Kellie was hanging off Zara already. The girl did not understand personal space the way Zara did.
+
+“Like a Sister Act.” Eppie grinned, knowing that the project would be for a future in which she had [Causality] to spare after William met his just deserts.
+
+Sister Act… Part II.

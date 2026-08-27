@@ -1,0 +1,237 @@
+---
+id: c7523a13-d745-5bf1-9a66-2b84f1c6eb82
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 105 - Practice"
+slug: 0015-chapter-105-practice
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 15
+ownLength: 3136
+unit: words
+ownProgress: 3136
+publishedAt: 2022-04-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/884747/chapter-105-practice"
+royalRoadId: "884747"
+markedReadAt: "2026-06-29T19:35:46.570Z"
+---
+
+Tala sat on the wagon top as it trundled towards the trees. The caravan was underway, and Tala had a task before her.
+
+Per Mistress Odera’s instructions, she was preparing to activate her active gravity manipulation for the first time. I really should have done this a week ago… But there had just been too much else to do. I still haven’t even started experimenting with spell-forms in my lungs, either… No. This took priority.
+
+She placed her palms on her elbows, left arm going above right. She carefully positioned her fingers per Holly’s instructions, getting into the very awkward and specific position required for the initial activation. I know we didn’t want this to activate on accident, but this is a bit ridiculous.
+
+Even so, she followed the instructions given, closed her eyes, and entered the required mental state.
+
+Control.
+
+Power whipped through her, filling the gold inscriptions in her left breast and radiating outward into the others linked to them. A few of the forms made subtle additions to her magesight as well, utilizing the base scripts to give her needed information.
+
+The miniscule copper links placed to kick off this first activation burned away, leaving her with another active draw on her power.
+
+It was a massive drain.
+
+Tala’s eyes opened, widening in surprise as she felt her reserves begin to steadily, if slowly, empty. With quick, practiced technique, she forged one of her standard void-channels and connected it to her body and the inscriptions there.
+
+The added flow was just enough to satisfy the much greater demand for power. Great… Any time she didn’t have an active void-channel, she would be losing power. I need to understand this spell-working better. That should increase the efficiency and reduce the draw.
+
+She thought she could hold the single void-channel for most of a day. Even so, it wasn’t enough to refill what she’d lost. So, she quickly forged a second void-channel and dispersed it a few seconds later when her reserves were refilled.
+
+That done, she opened her eyes, and had to blink back tears.
+
+The entire world seemed to have a uniform, additional color layered overtop both her normal vision and that of her magesight. Not quite a color, more an added depth.
+
+She felt her mind hitch at the additional facet of information.
+
+Thankfully, given that the new portion of her sight was directly linked to her magesight, it functioned the same. Now that she had taken in the gravity of everything around her, it faded from her sight. Only differences will be highlighted.
+
+She glanced down at her hands and was greeted by such a difference. The ‘light’ of gravity was deeper, coming from her body, the effect seeming to highlight the weight of difference. Tala huffed a chuckle at that. Well, that’s exactly what it is, so that’s probably why I perceive it that way.
+
+Once she’d acclimated to that, her extra perception with regard to her own body faded as well. Only changes will manifest.
+
+She’d picked up a small stone for practice and set it near her feet during the initial activation. As such, she picked it up to hold, focusing on it to bring back the ‘other light’ that indicated gravity’s effect.
+
+She brought her left, middle finger down to press against her left thumb, her other fingers curling naturally into the position she’d had Holly lock the ability behind. I can’t make changes, unless I have this hand position, for now. It seemed a wise precaution.
+
+Increase. She applied her will and felt a marked uptick in the power drain. She immediately created another void-channel. The ‘light’ increased minutely, but the increase in weight was much, much too little for her hand to register. All that, for this?
+
+She thought for a long moment. What am I doing, exactly?
+
+She was dumping power into an effect, without considering how it would be accomplished. She remembered her inefficiency with charging the cargo-slots, before she’d fully utilized a mental model. She recalled how horrible her skin’s defenses were before she understood the bio-chemistry behind inter- and intra-cellular bonds.
+
+Yeah, that’s what’s happening, here. I haven’t bothered to really understand how this is doing what it’s supposed to do.
+
+She thought for a moment.
+
+It’s exactly like my crush. As soon as the thought entered her mind, solidifying into a mental construct, the new, added drain on her power greatly diminished. The stone got noticeably heavier, if still just minutely.
+
+That’s right. Take that 10% extra weight and crack! She shook her head, a smile tugging at her lips. Hey, it’s a start.
+
+She bent her will towards increasing it, and over the next hour was able to raise the stone’s weight by nearly 50%, then slowly return it to normal. It was a colossally glacial process, but Tala thought she could make it faster, in time.
+
+Practice it is, then.
+
+* * *
+
+Tala watched the false twilight landscape around their small caravan.
+
+It had taken her nearly two hours to fully adjust to the dappled green light. Even still, she kept thinking that she saw movement out of the corners of her vision, but it was just the obscuring leaves and branches, high above, swaying in a wind she couldn’t see. Or, moving on their own…
+
+Now that they were past the forest’s edge, the massive trees were actually spaced fairly far apart, with few exceptions.
+
+Those exceptions seemed to be growing just too close together to get a wagon through, thus diverting them from their intended course. Whenever they came to such blockages, at least one of the trees was invariably one of the migratory variety. Tala’s magesight told her that the magics within were much more complex than the average specimen of tree. Even so, they lacked the level of complexity of an arcanous creature.
+
+As things would have it, it was always easier to divert to the left, or east, around the barrier. When they tried to go right, or west, the terrain became more difficult, often with great tangles of roots slowing them down or just making the path impossible.
+
+The tree trunks were colossal, as befitted their height. If Tala was estimating correctly, the larger trees, past the leading edge of the forest, were close to nine hundred feet tall, and approaching two hundred feet across. In general, the trees grew around that far apart, making it a very dense forest, relatively speaking, while still having a lot of clear ground for them to traverse.
+
+Thus, any given diversion took them only around four hundred feet out of their way, but it was still quite inconvenient, as the arrangement of the trees made it difficult to tell where paths through were, until they drew close.
+
+The whole scale of this place twists the mind. She assumed that the trees got as much of their needs from the magic, which they were drawing up from the earth, as from sunlight, and that made the closer crowding less of an issue.
+
+The fact that any light reached them at all was a testament to the sparseness of the canopy. Those limbs are huge, though! It was mainly the leaves that were sparse, barely forming a single layer between them and the clouds, all told. She even caught some glimpses of those clouds, occasionally.
+
+It was cold enough under the trees that the ground was frost covered, but it didn’t seem like much snow got through to the forest floor, at least not here.
+
+The guards had attached an interesting device to the front of the cargo-wagon’s shaft, between the two oxen. It extended out in front of the animals on a hinge. To Tala, it looked mostly like a weight, resting on a set of wheels that moved up and down to stay in heavy contact with the ground. It seemed incredibly complicated, since it could move and swivel, while not hindering the turns or movements of the oxen and wagon in the least.
+
+To prevent the oxen from falling into a pit-trap?
+
+That was probably a good idea. The oxen were pretty key to the whole venture.
+
+Huh… what would happen if the oxen were slain? It was probably worth asking. If it were up to her, now that she thought about it, there would be scripts embedded in the wagon that could do the work of the oxen, in the case of an emergency, but they would also be too expensive for regular use.
+
+That in mind, she took a moment away from her practice, and watching their surroundings, to examine the wagon more closely with her magesight.
+
+There wasn’t active magic to stand out to her, but she thought she detected the intrinsic power of metal embedded, swirling through various parts of the vehicle.
+
+I wonder who can activate it, and how? She was probably better off not knowing.
+
+I can be trusted not to activate it. Tala decided to redirect her mind to other topics. Sometimes she felt like she was herding a toddler, while trying to direct her own mind.
+
+Rude. She would get over it.
+
+She felt a tickling from the edges of her magesight and looked up.
+
+Something was moving through the canopy nearly directly overhead. As she opened her mouth to call out a warning, one of the guards on the chuckwagon beat her to it.
+
+“Above!” He directed their attention to the one that Tala had seen, though she noticed some of the other guards pointedly looking elsewhere. To ensure it’s not a distraction?
+
+The Cert clearly seemed to notice their attention, vaulting off the massive branch it had been charging across.
+
+Tala immediately brought her middle finger back to her left thumb, focusing on the falling animal and dumping five void-channels’ worth of power through her mental construct, through the spell-form, and towards increasing the beast’s weight.
+
+In the roughly six seconds before it impacted, beside the cargo-wagon, Tala was able to increase its weight by only about 10%, if she was understanding the new aspect of her sight properly. That barely increased the speed of impact, only increasing the energy of such by a bit.
+
+The beast stumbled in its landing. The oddity of gravity’s effect changing seemed to have caught it by surprise.
+
+Tala continued to bend her will towards increasing it, even as guards jammed lances into it with passing charges from horseback.
+
+This Cert didn’t have any elemental abilities, that she could see, and all the power in it seemed focused on its normal functions. A bit like me, I guess…
+
+As such, the lances were mainly mundane, and didn’t have the huge impact that those using the creature’s own power would have achieved.
+
+Tala glanced to Mistress Odera, but the woman shook her head. “No. Master Rane has it handled.”
+
+As if on cue, Rane swept by at incredible speed. Force struck the beast’s chest and blew through it, while the creature’s increased weight helped with anchoring the thing to allow for a through-and-through, upward cut.
+
+Blood fountained into the air, and a chorus of deep, guttural notes rained from the canopy, above.
+
+Tala swept her gaze across their green ceiling, seeing hints of creatures looking out from behind the power-filled branches, where they were very difficult for her magesight to pick out. How many are there?
+
+Mistress Odera’s voice was clear as she spoke. “They are ambushers more than fighters. They know we’ve seen them. Expect them to retreat but be wary just in case.”
+
+The next minutes were incredibly stressful, as the wagons slowly left the pack behind. The beasts, for their part, didn’t seem to be following, at least not those that Tala was able to pick out. Those watched the wagons depart until tree-trunks blocked direct line of sight.
+
+Mistress Odera finally breathed out a sigh of relief and nodded. “Return to regular observance.”
+
+The guards responded to her command, seeming to relax.
+
+Back to practice, then.
+
+The rest of the day passed with little of note.
+
+They were attacked quite a few more times, but it was always by singular creatures.
+
+Some ten lesser Leshkin, total, five more Certs, a white stag that emitted blinding pulses of light, three medium-sized reptiles that reminded Tala a bit of Terry, and two night-pumas fell before Rane and the guardsmen.
+
+Mistress Odera only had to shield them once, when a Cert dropped from directly overhead. The woman angled her defense, shaped as a flat plane, so that the beast rolled off to fall the rest of the way to the ground. There, it was quickly dispatched, just like the others.
+
+All told, Tala was an ancillary resource who barely helped, though she did get a lot of practice with her gravity manipulation.
+
+By the time they made camp that evening, Tala understood how it worked well enough to be able to alter gravitational effects by close to ten percent per second, with sufficient power devoted to the task. Thankfully, her increased understanding also meant that the void-channel to her body was no longer required, while she wasn’t actively making modifications to the gravity around her. That’s good, at least. I don’t want to think what would happen if I ran out of power in the night…
+
+The rate of change that she’d reached was still nowhere near fast enough to replace her Crush, but it was nearly six times her earlier pace.
+
+Every step draws me closer to where I want to be. She knew that her future progress would be slower, but it wouldn’t stop any time soon.
+
+Their camp that night was in a slightly larger-than-average gap between several trees. She’d asked Mistress Odera if there was any danger of being fully surrounded and blocked in during the night, and the woman had simply said that it rarely happened. So, not never…
+
+Still the older woman didn’t seem concerned, so Tala had returned to her practice.
+
+As Tala walked across the wagon-top, thinking about her progress gave her an idea, and she decided to reduce her weight by ten percent, just to see what it would be like. The magic affected her easily. As it originated within her, her iron salve didn’t block it.
+
+She tripped immediately…on the smooth wagon top. Seriously?
+
+Her every movement felt wrong. Even so, she gritted her teeth and went through her exercises with the altered gravity, forcing herself to adjust. Alright, then. I need to practice under as many different levels of gravity as possible.
+
+She didn’t really know how, exactly, it would be useful, but she didn’t like that she was so incompetent with such a minor variation.
+
+But should I practice large variations first, or subtle ones? She had no idea. I should ask someone…
+
+It was too bad that everyone was busy with their evening duties. Rane walked in a wide circle around the wagons, checking for any hidden lairs or traps.
+
+Mistress Odera and the guards seemed to be thoroughly checking the ground between and immediately around their campsite in much greater detail than Rane could hope to achieve with his wide sweep.
+
+I should go ask if I can help. She sighed, dropping off the side of the wagon.
+
+She slammed into the ground, fracturing the already frozen soil. She ground her teeth, feeling how much ending-berry power had been required to absorb the blow. Ok. I’m calling it. I can always put it back on, now that my active manipulation is up and running.
+
+As Terry appeared on her shoulder, Tala brought middle finger and thumb together, and she began dumping power into reducing gravity’s effect on her. It took every void-channel she had and nearly a minute to reach a normal weight, or close enough to be irrelevant.
+
+She was able to watch her hand and compare that to her sleeve as a way of matching the gravity ‘light’ from each, nearly perfectly.
+
+Yeah… I should have released that ages ago… She hadn’t really considered how easily she could place the effect back on, if she wanted. I’m a bit foolish, sometimes…
+
+She approached Mistress Odera, a literal spring in her step. Thankfully, she got used to her lightness before stopping beside the other woman. “Is there anything I can do to assist?”
+
+“I don’t think at the moment, Mistress, but thank you for checking in.” Mistress Odera glanced to Terry. “Now, you, good avian, would you be willing to do a sweep of the surroundings? You can move faster than all but a horseman and will draw less attention than one of the mounted guards.”
+
+Terry cocked his head, then glanced towards Tala.
+
+Tala smiled at her friend. “If you want, might be nice to stretch your legs?” He’d been a bit lazier that day, not really leaving Tala’s side very often.
+
+He bobbed and vanished.
+
+In less than an hour, the camp was as secure as they could easily make it, and dinner was being served.
+
+Tala and Rane sparred once again, to the delight of the others in the caravan.
+
+Tala was having a bit more trouble, today, given her normal weight.
+
+She was a bit faster on sideways and upward movements than before, but she couldn’t anchor against Rane’s blows as easily, and the result was that she was flung about much more often.
+
+It was a stark lesson in humility, and plainly showed just how complacent she’d already become in accepting certain hits. I should probably practice with even less than normal gravity…but not today. In truth, she should wait until she could match Rane before pushing further, but she doubted she would have the patience. We’ll see.
+
+After a particularly brutal bout, Tala was taking a break to drink deeply from her water incorporator when she felt something bump her shoulder.
+
+Tala turned to see Terry, the size of a small horse, looking at her.
+
+A silence had fallen over those watching. They seemed to be curious more than anything else, as they’d all seen the bird in his smaller form, and the guards knew he could get bigger. Many had even seen him at this size, over the last few days.
+
+“What’s up, Terry?”
+
+The bird bobbed to her, then tapped Flow with his nose and flicked his head towards where she and Rane had been sparring.
+
+“You want me to fight some more?”
+
+He bobbed, then shuffled that way.
+
+Her eyes widened. “You want me to spar with you?”
+
+He bobbed again, seeming much more excited.
+
+Tala swallowed, though her mouth had been empty. “Well, I suppose it could be good practice…” What under the stars am I agreeing to?
+
+Terry did a happy little shuffle, then appeared in the cleared area, crouched and ready.
+
+“Well, alright then. Let’s see what we can do.”

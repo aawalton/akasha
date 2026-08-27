@@ -1,0 +1,127 @@
+---
+id: 9d6ed866-87ba-5fe2-9198-f5f1d66f2de3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 — Our House"
+slug: 0064-chapter-35-our-house
+partOf: metaworld-hopecore
+position: 64
+ownLength: 2059
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3381653/chapter-35-our-house"
+royalRoadId: "3381653"
+---
+
+"And the song, from beginning to end, found again in the heart of a friend."
+
+LongfellowThe Arrow and the Song
+
+The next week, LAPA managed two full academic days before the Thanksgiving fever struck and students started going AWOL. Halle’s family, according to her iPhotos, were full-blown Norman Rockwell turkey-basting purists, meaning she had to leave campus early to help with the preparations. Ava was already gone. The Bernsteins, despite their Jewish roots, took Thanksgiving very seriously.
+
+Of the two roommates, Halle had extended an invite a little too late, and Ava not at all. Eppie did not begrudge either of them—for Thanksgiving was stressful enough without an orphaned celebrity being dragged into the November madness.
+
+She was then pleasantly surprised when Zara arrived in her own car—a 2003 first-generation Prius.
+
+“No guitars?” Eppie looked in the trunk as she flat-packed her two days’ change of clothes. She was going to see Father Parson on Thursday, and would have Friday free if things turned out well. Zara was staying the whole weekend but said that, if needed, she was happy to come back to LA. The latter was not particularly necessary, for Eric or Lafitte could do the honours if needed.
+
+“We have more guitars than we can tune in Fresno,” Zara assured her, her intelligent, amber eyes sparkling. “Get in! Ooo, this is exciting! It's the first time I am taking a girl home to my aunties.”
+
+“Meeting your relatives so soon?” Eppie slipped into the seat, which had been slid back for her comfort. “You’re making me nervous. What if they don’t like city slickers?”
+
+The girls laughed, and the car quietly pulled out of Cal State…… into the endless traffic of the crawling 10 on Thanksgiving Wednesday.
+
+“Oof. Let’s put on some music.” Zara strategically pulled out some CDs. “These are er… from my Uncle.”
+
+“I understand,” Eppie giggled. “Let's Rock and Roll!”
+
+What played was not the Rock and Roll of Rex Eno or Mott Slade, but something wholly exotic to Eppie’s ears. It was flamenco, but not the tourist-trap music one heard in bars. It was more mellow, drier, like Shiraz.
+
+“He calls it Soleares, meaning solitude,” Zara said. “It takes a little getting used to.”
+
+The experience of new music was music to her ears. While traffic stalled, Eppie allowed her [Sublime] and [Composer] to take the wheel. Her body attuned itself via the [The Clockwork Pulse], and her [Perfect Pitch] visualised the masterful fingerwork. The music was good. It wasn’t mainstream, but it was authentic. It took all but five minutes for her to be sucked into the whirlpool of solitude it portrayed. The technical complexity Zara's uncle displayed was a story in itself. Poor Mio. Eppie sighed inwardly, her mood melding with the music. How lonely must she feel?
+
+The 5 North opened up past downtown, and the traffic gradually grew laminar. Zara relaxed in the driving seat, and Eppie leaned her head against the headrest. Behind the girls, the city dropped. Ahead, the horizon began to climb, and the traffic started snaking once again. At the top of the Grapevine, the whole San Joaquin Valley appeared, a giant vista stretching from horizon to horizon, like something out of a road-house movie.
+
+The girls wounded down the windows and allowed the cutting wind to whip their hair.
+
+Here wasn't the grandeur of the Canyons or Death Valley. It was the tableland, flat and agricultural and stretching across the landscape in strips and squares. The sun started to sink as they descended. In front of their eyes, the whole valley became suffused in amber gold.
+
+Though they weren’t a pair of femme fatale fugitives, the mood was right. Zara’s smile grew as the golden horizon sunk into place. She pointed out the orange groves belonging to a distant cousin. She told Eppie that in March, a traveller could smell the citrus a mile away. She told her that there used to be a Taco truck there, once owned by a distant aunt. She told Eppie where to find the best carnitas after sundown. They saw rabbits and coyotes and pointed at cows and laughed at sheep, and flipped off a yokel that catcalled them.
+
+This moment is precious and must be protected. Eppie told herself. This ordinary, wonderous happiness.
+
++ Karmic Causality
+
+Whoa—Eppie gave such a start that Zara had to check the rearview mirror in a panic. No one ever told me I could generate my own [Causality].
+
+The light was failing now. The sun sat on the horizon like a giant golden disk diffusing tea. Her phone buzzed. Eric’s text hovered over the screen.
+
+I’ve settled near the town centre.
+
+Thanks. I’ll let you know how things go once I settle.
+
+Zara pulled off the 99. The scent of the air changed again, now stinking of woodsmoke. The streets grew narrow, and the buildings shrank back in time. If Eppie were in a strange car driven by a strange man, she would be looking for a way out right now. Their car soon stopped in an alley, drifting silently until it rested in the private parking lot of a hotel bar restaurant.
+
+Outside, Eppie stretched with her theatre exercises while Zara shook herself off like a dusty pup. They skipped the side entrance and went straight for the kitchen. Inside, Eppie’s vision is greeted by pots, pans, cooks and kitchen hands that hollered at Zara as she passed. The air was thick with garlic, wine, and herbs. Multiple conversations were happening simultaneously in Spanish, competing with the radio, also in Spanish.
+
+Zara walked with the confidence of a girl returning home, while Eppie followed like a guilty cat following her human, hoping for some kibbles. They cleared the kitchen and entered the hotel's dining area. She saw a musician playing on a Spanish guitar, and the moment he saw her, he laid down his instrument as a loving husband might lay down a tipsy wife, then strode toward them with arms wide open.
+
+“Uncle Paco!” Zara ran to the man like a puppy.
+
+Paco enveloped his niece with everything he possessed, lifting her easily. The man had a face that only a mother could love, but carried an aura of indescribable cool. He wore a coarse flannel shirt, faded jeans, a heavy leather belt, and comfortable-looking boots with real mileage. He kissed Zara on the cheeks, then looked up toward Eppie with an affable grin that could frighten children a street away.
+
+He said something in Spanish, but Eppie’s Spanish was mediocre, and the ambient conversation in Spanish didn’t help.
+
+Other people were now converging on them. While she stood there with her bag in hand, Zara greeted folk after folk, calling out their names as they shared their well-wishes and affection. Eppie felt strangely alone and mildly overcome with jealousy. She was used to being the centre of attention, but never like this. Never this… affectionate, genuine, and unconditional. People were happy to see her because she was about to make money, make them money, or spend money. People were never simply happy to see her.
+
+When the public affection bled into the second minute, Eppie was no longer jealous. She was a city girl, an uptown girl. Her social circle was not conducive to… community.
+
+“Bienvenida,” Paco said again.
+
+“Ah.” Eppie bowed. “Thank you for having me, Mr Arriaga.”
+
+“Not Mister.” The man wagged a finger. His moving moustache was impressive indeed. “Uncle Paco. You are Eppie Fontaine, yes?”
+
+“Thanks, Uncle Paco.” Eppie wasn’t one for shyness. “And yes, I am Eppie Fontaine.”
+
+“Good song, Umbrella. Although I am looking forward to your collaboration with Zara.” The man had a smile like a hungry wolf. “She has been playing it for me, but I have never heard it in its entirety, as it is meant to be.”
+
+“Uncle Paco!” Zara cut in. “Don’t embarrass Eppie.”
+
+“Ha!” Paco’s teeth were stained from years of nicotine, but his vibe was nonetheless warm and inviting.
+
+“Welcome to Hotel Basque, Euphemia, and don’t mind the old man, he’s always like this.” The woman who came upon them now introduced herself as Zara’s aunt, Carmen Vidal Arriaga. “He has a taste for melocotón, especially musically gifted ones.”
+
+Aunt and niece embraced. Then Carmen shared a full-bodied hug with Eppie as well.
+
+“You are hungry.” Eppie noted that Carmen made a statement of fact rather than a question. Beside her, Zara winced. “Go! Put your things upstairs. Then come down right away. Aunt Pilar has made food for you.”
+
+With their bags, the girls ascended ornate stairs that looked like they had a century or more of history. The floors creaked, the wood groaned, then they found themselves in a room at the end of a hall. It was a hotel room, clean, spartan, with a southern flair. There were two beds, one double and a single, and a divider. A benevolent statue of Mother Mary looked down from a high shelf. Out side and below the window, Eppie could see Zara’s Prius.
+
+“I’ll take the small bed,” she took control of the space immediately. “Because I am… small.”
+
+Zara did not fight her. “The ensuite is by your right. Aunty Carmen had the place renovated a few years back, since we’re one of the few reputable establishments with an internet footprint.” They stowed their luggage, then quietly slipped downstairs via the steep stairs to a discreet corner cleared by Aunt Carmen.
+
+The stylistic historical Hotel Basque was entirely unpretentious. A long time ago, it was a three-storey Basque boarding house with long tables. Most of those tables had been repurposed for flooring and walls, and the room is now a series of round, elbow-worn tables with eclectic stools. The atmosphere was cinematic, the noise warm and the sound of Paco’s playing creating a perfect mood for the weary local or traveller. There’s a tea candle on their table, which made the mood of their corner weirdly romantic. Eppie could not read a single thing on the blackboard menu. Paco’s handwriting, at least his English one, was a local institution unto itself.
+
+The food arrived on small dishes and plates, carried by a lady of largess named Pilar, the older sister of Carmen and the chef.
+
+She brought pintxos, tiny things with meat, fish, olives, capers, and dips. She brought bread, freshly baked sourdough, and rich butter. She brought tortilla española, then bacalao, then patatas done this way and that. She brought membrillo and Manchego. She brought the local produce, cooked and uncooked. She brought small glasses of sweet things that Zara swilled without identifying.
+
+With each dish, Eppie could physically feel her body putting on weight. Yet, service after service, Carmen did not ask if she was full. Each time Eppie thanked her profusely, Carmen said “Sí, sí,” and then another plate arrived.
+
+An hour, possibly two hours later, Eppie felt like she was either a little tipsy from the sweet drinks or moving into a food coma, or both. Her body felt round and toasty and warm. It was a strange feeling, a very, very different feeling from a fourteen-course dining at Le Bernardin.
+
+If they were in private, Eppie would have unzipped her jeans and lay down in a lazy chair to sleep things off.
+
+But they were not. The bar was packed with patrons, mostly workers from the local community, but also families, as it was almost Thanksgiving. As the singular güera and a teenage one at that, the patrons have been throwing glances her way all night, but seeing as she was with Zara, they had accepted her presence without further questioning.
+
+Then it happened.
+
+From the music corner, Uncle Paco finished with a flourish, then looked up from his guitar. With undeniable style, he tipped his hat toward Zara.
+
+Before Eppie could figure out what was happening, Zara knocked back her cup of what was hopefully clear soda and took Eppie by the hand.
+
+Someone cheered. People moved closer so that they were two to three deep beside the stage.
+
+“Er…” Eppie saw what was happening, but made a final, futile attempt at escape. “We don’t have guitars.” “Look over there,” Zara’s smile was mischievous. “I spy three, six if you count the electric.” Eppie gulped. Her first live, here? Wasn't the challenge rating... a little too high?

@@ -1,0 +1,131 @@
+---
+id: 50033b1e-a5fc-5ec2-b928-58fc5b675658
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146 A Day in the Office"
+slug: 0160-chapter-146-a-day-in-the-office
+partOf: melody-of-mana
+position: 160
+ownLength: 2290
+unit: words
+ownProgress: 2290
+publishedAt: 2022-06-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/931317/chapter-146-a-day-in-the-office"
+royalRoadId: "931317"
+markedReadAt: "2026-06-29T22:31:22.591Z"
+---
+
+Jobs were... well, they were jobs.  There was no getting around the fact that what I was doing wasn't particularly fun.  It was informative, but not particularly fun.  At the moment the biggest push on my abilities was the studying of the current information.
+
+From what the researchers could tell Ristolian had recovered information on how to make the gates from elsewhere, some ruins on the Elven continent.  Part of the team was working on figuring out exactly which ones and where, but they were running into issues.  The reports of the location was from diaries that were hundreds of years old.  Add that to the fact that there were few maps of that continent, and what there were weren't really up to date or of a known accuracy and you find big problems.
+
+They were quite unsure of anything more than the general area, one which accounted for several cities.  The efforts to parse that down to something bit by bit were slow, but they were making some progress by guessing things based on his day to day experiences.
+
+The maps were also a massive issue.  There was nothing like gps here so mapping was... primitive, it depended on people who were not really that good at measuring distances between large areas and lines that were not always straight.  This meant that two maps of a given area might agree for instance that one city was west of another, but they might not know how far that would be as a crow flies, or at what angle.  There were implications that larger organizations or countries might have truly accurate ones, but those were considered close to a state secret.
+
+My other duty, of examining tools and making sure they work was... quite frankly a bit easy.  Sure I was supposed to go over a lot of the information that the researchers had, or that our historical benefactor had left, but most of it was just basic.  With the 'Help' menu I could find their flaws in almost record time, and while the ancient magus had no doubt known a lot, most of what they found educational wise was from the 'Guide'.
+
+Literally, much of it was transcribed directly from the guide, Ristolian had added a few notes here and there, and his explanations were much better, but the biggest chunk of the information was straight out of the 'Guide', he even used a lot of the same exercises.  This man had done what I might otherwise have, and made a basic textbook that went into a lot of the nuances of making the system work.  He did leave out the explanation on the 'Help' menu though, as well as not saying where he got the information.  I suspect that this was to hide some of the knowledge that he didn't want disseminated.
+
+It seemed that my predecessor had desired to open a school at some point.  For this he'd written down a lot of information on basic magic and education, as well as philosophy and governance.  Most of the latter bared a strong resemblance to Earth ideals, as well as what Emperor Durin was trying to put forward.  Some of it looked like it needed ironing out, and he hadn't actually ever opened his school, but it looked like he'd laid the groundwork well.  I suspected that Lord Durin's home was supposed to be Ristolian's academy.
+
+I inquired, but nobody knew what had happened to the ancient mage.  There was also the possibility that they weren't telling me, or Emperor Durin hadn't told them.  In the end he was probably dead now, as it had been hundreds of years.
+
+It was a few months in and I was sitting at my desk designing a tool to measure heat to a fraction of a degree.  My pen scratched out line after line as I consulted various reference books and our design specifications.  This job wasn't anything complex, but was needed for some experiment in the labs.  Why the researchers in charge of it didn't have one already I didn't know, but as a trainee I was making one for them.
+
+"What are you doing here?"  A small hand reached over my shoulder to point at one section in the code.
+
+"It's a readout, the base design in in our standard book 1, pg. 335."
+
+My partner in training gave me a look, her frizzy brown hair bobbing around her waist as she turned to look at a page I already had open.
+
+"It's surreal to me that you can work like that?"
+
+"What?"
+
+"You seem to rush through these like it's nothing, and it always works."
+
+"Selene, I'm almost literally copying it verbatim from the books."
+
+Selene pouted at me, crinkling up her nose.  "Yeah, but yours always work.  I can never get mine to work when I need a different layout or readout or whatever."
+
+To be true I was using the 'Help' function to iron out a lot of bugs.  I understood most of what I needed for them, but if I ran into something that I didn't, or couldn't figure out on my own after an hour or two I just ran it through the menu to be done with it.
+
+I shrugged.  "I'm pretty sure this is all just busy work anyway."
+
+"What?"
+
+"Well, do you honestly think they don't have something that can give a readout like this?  Perhaps they want one a little different for convenience, but they don't actually need it."
+
+"Then why have us make all this crap!?"  She pointed at several of the bits and bobs all over our office room.
+
+"Well, isn't that obvious?  You're going on the same expedition as I am.  What will we do if we end up out in the middle of nowhere and need some random tool?  We'll have to be able to make it.  Same reason they have us working on our Atali, or the other crap we get roped into."  I pointed to the little pamphlets on Elven flora and fauna that were sitting nearby.
+
+We'd been tested on some basic survival stuff, but nothing too intense.  I wasn't sure but I thought that was partially because we were not in charge of that, and partially because from what I understood the Elven continent was just too different.  It sounded tropical as opposed to our native land's almost far northern climate.
+
+Selene looked at me with a frown.  She was an interesting girl, a couple years my senior and no slouch when it came to magic.  The little wizard girl had gotten top marks, and much like me had few suitors, though for different reasons.  While I rebuffed most of them, she didn't seem to get many.
+
+She wasn't ugly, as such.  Most of the people in this world were quite fit and while there were some that didn't have great bone structure, that was rather odd.  She just didn't really seem to care how she looked.  Her hair was always left a mess, badly in need of a comb and cut, and she always had ink stains all over her hands and dresses.  It was like she didn't really care, I had to respect that.
+
+"It would be nice if they could just get us going already, I hate just waiting," Selene complained.
+
+"Seconded, but I'd rather it be done right than rushed and waste a year or two roaming around in the jungle."  It was also not going to be a small venture.  My last count was somewhere around twenty people on three ships.
+
+We worked through the afternoon until the time came to head home.  There were no windows of course, and we only knew the time based on a number of clocks here and there, several of which I'd had a hand in building.
+
+Our manager Olnir was there the next morning.  He was a stereotypical middle manager type, middle aged and with a stick firmly up his rectum.  While I still dealt with Mystien every now and then this guy handled a lot of the day-to-day operations along with training.  I could say without a doubt that he didn't like me at all, luckily I was too competent for him to have any real complaints.
+
+"Good morning ladies," he sounded like the last word was some kind of poison, "Please join me, we've got some things to go over."
+
+The two of us just shrugged as we looked at each other and followed the man down the hall.  It wasn't often that we were given anything other than paperwork to go over, and frankly anything would be a nice break.  It had only been a couple of months and I was already hating doing this job, had I not been promised a big payout in the end I'd walk right now.
+
+We went deeper into the facility than we had ever gone before.  Passing labs here and there and finally coming to one that was absolutely massive.  The size was probably because of the two gates at either end.
+
+These looked almost like those that were used to get to and from Emperor Durin's home, with a few exceptions.  They were smaller and of a slightly different color.  They were also brand new as opposed to the ancient structures that I knew worked.
+
+"Wow," Selene said.
+
+"We're running a test today.  Please stay out of the way of the full researchers."
+
+I could see a number of folks in robes going here and there, checking instruments and measurements.  To the side Mystien stood, watching over all of it with critical eyes.
+
+"Ready," he made a motion to a man at what appeared to be a control panel, at which point several levers were pulled and I could almost feel the mana in the room.
+
+"No issues so far sir, the mana is flowing just as it should," the man replied after a second or two.
+
+"Good, connect."  At his word another lever was pulled and it all went awry.
+
+For the barest of seconds there was a pushing and pulling around the portals, their insides flicking a crimson shade.  A heartbeat later they spat distortions into the air, space around each filling with motes of light and discharges of energy.  As the item crashed the mana violently ripped through the stone gateways, the rock they were composed of cracking like a gunshot as pieces shot outwards.
+
+As I saw the shards fly I tried to put up a barrier, only to find it pointless.  One was already established around the items, keeping all the shrapnel contained in a small place.  Several smoking chunks of rock bounced off of the protections and lay there, looking like meteorites within their little protective bubbles.
+
+The leader of this brigade came to join us.  He looked slightly displeased, but not terribly surprised.  "Enjoy the show?"
+
+"I'm sure you'll get it next time sir," Olnir said.
+
+"I doubt it.  What about you two?"  He similarly seemed unimpressed by the brown-nosing.
+
+"It was... impressive, even if it didn't make a working gate."
+
+"What were you trying to do?"  I looked at the rubble as the wizards came to float the bits away for examination on nearby tables.
+
+"Good question, our goal in this test was to try and have the insides of the gateways be defined as the same location.  It's one of several methods we've tried, none of which have worked."
+
+"How?" Selene cocked her head.
+
+"Another good question.  We know that the gates use a module, which is somehow adding another few runes to the sequences.  We're unsure if we've managed that properly, though we think we have.  If that is the case then we need to figure out what those runes are doing, because whatever it is is not known to us."
+
+"What have you tried?" I asked, curious as to what they were doing.
+
+"This test was trying to define the inside of the gates as the same place.  We also made an attempt at having it defined as something entering one instantly exiting the other.  That test worked much like this.  We even tried to have them pull the insides of each other to their own inside.  That was one of our more successful tests, in that rather than exploding they both shot across the room at high speed and collided."
+
+I blinked, they hadn't even considered bending space.  It wasn't that these men weren't smart, because they certainly were, they also knew their craft.  It was that nobody had made that logical leap.  There was no paradigm shift into thinking of space as something that could bend and warp.
+
+"Well what's next sir?" Olnir asked.
+
+"Nothing, takes too long to code these and there's something missing.  We'll work on the connection magic to make sure we have something working, but until the expedition is over we'll hold off on another attempt."
+
+"But if you could..." Selene perked up.
+
+"We have other projects, wasting funds and time when we have other ways forward is useless.  Which is why I'm hoping you lot succeed.  Once we get a lead on what they're supposed to do we can probably make real progress.  Until then I want you working on understanding the modules.  The information on that cannot leave this room though.  You'll also be doing exercises with some of your compatriots twice a week now that you're ready enough."
+
+After my teacher had turned and left our manager looked at us.  "I think it's too soon, but if he says so... There are a few things we'll need to go over."  It took me half a beat to realize what he'd said as he was speaking Atali as he did so.

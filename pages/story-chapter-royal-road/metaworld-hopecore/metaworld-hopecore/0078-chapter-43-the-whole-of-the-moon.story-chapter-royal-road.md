@@ -1,0 +1,223 @@
+---
+id: e96e4379-446d-5616-8107-c857494f51ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - The Whole of the Moon"
+slug: 0078-chapter-43-the-whole-of-the-moon
+partOf: metaworld-hopecore
+position: 78
+ownLength: 3126
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3412600/chapter-43-the-whole-of-the-moon"
+royalRoadId: "3412600"
+---
+
+“What is done in love is done well.”
+
+Vincent van Gogh, letter to Theo, 1882
+
+LAPA. The Playhouse. The curtain call ended.
+
+Paco wasn’t sure when to clap, because theatre was a new experience for him, and he didn’t want to commit what Carmen called a “fox-ass”, AKA a metedura de pata.
+
+In his mind, Eppie would remain on stage and receive flowers, or bouquets would be delivered to the stage. In reality, the kids waved to the audience for about four or five breaths, then were ushered away by the groundkeepers while a swarm of technical staff began moving equipment onto and off the stage.
+
+He saw Eric, who had seen him, and the two shared a split-second nod before Eric leapt down the aisle toward a gringo that looked like someone’s unmarried suburban uncle. They soon joined a woman, older than Carmen but rich-looking, with the kind of presence that did not exist in towns like Fresno, not even in Town Hall meetings. Una señora de verdad.
+
+Mateo rose beside him. "We should—"
+
+"No," Paco stopped his family.
+
+Carmen pointed at the room where Eppie and the others had retreated with a face full of questions.
+
+Paco shook his head gently. “We are familia, they’re business. In the theatre, Eppie’s career comes first.”
+
+The family understood. They were at a school for talented girls and boys. The people in suits down below were the school's business. It was not right to stand in the way of the children’s careers. Besides, a lot was going on. Two other girls with unusual bearings hadn’t moved from their seats on opposite sides of the black box theatre. They were staring at one another, like a stand-off at high noon.
+
+The city sure is a complicated place. Paco felt the urge for a cigarette. No wonder Zara came back to Fresno to recharge.
+
+"After the Pines," he said to the family. "After Zara. We'll find her after and celebrate. We can talk over dinner at El Cid."
+
+The family murmured their agreement. Paco was the oldest and rarely disobeyed. His cari leaned her head briefly against his shoulder, a small, sweet thing, because she was his anchor. Mateo shrugged. He was impressed by the girl’s acting, but he had not heard her sing. His gratefulness was not like Paco’s.
+
+“Let’s go find Itziar at the gallery,” Mateo suggested. “Zara’s probably all nerves and no fret, ha!”“Si,” Paco glanced at the curtains one more time. There was no chance that Eppie would emerge from them soon, especially seeing as the trio from earlier, now joined by a young woman, was making a beeline for the side entrance.
+
+He found himself feeling a little sad because, here in her world, Eppie did not need his protection at all.
+
+Frederick caught up with Juliana Vaughan in three steps, trailed by his Newfoundland from Sony LA. Unlike himself, Vaughan had already walked halfway down with the confidence of someone who knew exactly where things were in a black box.
+
+"Juliana."
+
+The regal lady of the Met turned. She pulled back her Hermès headscarf, transforming it into an aesthetic, silken shawl. Her expression was neither intimate nor distant, but the lukewarm friendliness of a professional who had lived on a pedestal for a considerable length of time.“Frederick.”
+
+“You’re going backstage?” he asked. “Might madam have a pass?”
+
+“Do you?”
+
+“I do, in fact,” Curon flashed an ID he had gotten from Burton. “Shall we?”
+
+He offered his arm, partly because the aisle was narrow and partly because he wanted it on record that he had been the one to escort Madam Vaughan. "Eric—!"
+
+Lee materialised from behind him, now accompanied by a young woman with long curly hair. She didn’t look like a fellow member of the industry, so Curon paid her only a curt compliment. He gave Eric his ID. “Can you speak to the doormen?”
+
+Unfortunately for Curon, there was no need to show off, for the stage door opened by itself before they even reached it.
+
+An African American thespian, lean-muscled, square-jawed, with a stubble that was tastefully buzzed, met their eyes and closed the distance. He was holding two armfuls of posters and other papers, with bric-a-brac weighing down the many pockets of his charcoal coat.
+
+Curon racked his brain to figure out who this might be.His face was distinct, but there was no way from the man’s bookish looks that he was a rapper, even a former one.
+
+Juliana Vaughan unhooked her arm, leaving him unbalanced. “Dr Cooper.” The Curator bowed her head slightly. It was different from how she greeted him. The register wasn’t the same. It wasn’t a business greeting, but a greeting between artists of a certain calibre. It was genuine, non-transactional. Curon felt a tinge of jealousy, but banished it with a thought. He was wooing Juliana for his daughter, who cared who she knew in a past life?
+
+Vaughan helped the man pick up something from the floor. “Here, you dropped this.”
+
+Dr Cooper moved everything to the corner, then wiped down his hands.
+
+“Dr Vaughan,” he said, his eyes darting to Eric and Curon. “This is a rare pleasure.”
+
+“We haven’t met since…” Juliana paused with a smile. “1998, I believe, at the ICCC. Othello, wasn’t it? You were excellent.”
+
+“Thank you.” Cooper looked like a kid who’d just been awarded a principal’s medal. “These are?”
+
+She introduced them. Cooper thanked Curon profusely for his work with Eppie, which made Curon feel better.
+
+“So, all of this,” Vaughan indicated at the stage. “Your work?”
+
+“It’s Susan’s, I mean, Susanna’s work, actually,” Cooper said in that creme caramel voice of his. “Susanna Tyker, from West End. I was involved, of course, here and there, to make sure the kids get the right parts.”
+
+“The press conference as Chorus was elegant. Whose idea was it?"
+
+"The students workshopped it with Costello—Dr Craig Costello." A corner of his mouth lifted. "They were inspired."
+
+Vaughan laughed. Curon noted the cadence of the laughter was different when it wasn't aimed at him.
+
+Feeling like a third wheel, he nudged Eric in the ribs.
+
+Eric coughed. “Dr Cooper, may we go and see Eppie?”
+
+"Of course." Cooper glanced at them, all smiles, the man’s erupting joy contained by masterful acting. He pushed the stage door open and held it. "She's in the green room. Second left. Enjoy."
+
+The green room at the Playhouse wasn’t actually green. It wasn’t even teal. It was painted in the institutional beige of the late 1980s when it first went up, and it never saw a lick of fresh paint. Presently, it was covered by old posters and notices.
+
+It was a shabby room, not that the condition mattered, for the room now contained twelve young theatre actors in varying states of costumed disintegration, stuffing themselves with Cooper’s gift of mozzarella sticks, cinnamon doughnuts, and three litres of Welch’s Grape Juice. Min-Jun had snuck in a bottle of soju, which Cooper confiscated with a warning. Umbrella played loudly on someone’s JBL, and the kids were wild with the joy of having performed their first play without incident.
+
+Eppie stood in the corner with Chloe, who was having a bit of a cry because she had gotten too worked up, and now that the tension was gone, she couldn’t hold back the dam. They looked a strange pair, primly uniformed and dishevelled, like a before-and-after poster of a Say no to Drugs PSA.
+
+She counted her additional [Causality]. The amount was modest. She had brought joy, but changed no lives with her performance.
+
+Min-jun was doing his best to chat up Sage, while Sage had her eyes on the boy playing Haemon. James Jules, still dressed as Creon, was all smiles, all directed at Eppie, while Eppie was too afraid to return it because that shit would be weird. Cameron stood against a wall, thinking about life and how fucking awesome he was as a stage manager. A gaggle of classmates not particularly close to Eppie stood in a group, gobbling cheese sticks while shooting glances her way, giggling now and then. Lucy lounged on the couch, cradling Chelsea, who looked like she’d just been through some shit, and now had to sit down and digest it all.
+
+Knock—knock— The kids instantly became good, mature children.
+
+"Come in,” Eppie said to the door.
+
+It was Dr Cooper, but he wasn’t alone. Into the small room filed a threesome of strangers whom none but Eppie recognised. Curon was the most frightening, for he looked like someone’s unhappy uncle in Gucci, then Eric and Emily, whose face she knew well, and finally—
+
+Eppie’s mouth hung half-open.
+
+The woman in the camel-knit.The woman with the shawl. The shawl, with its unquestionable Hermès orange and its Le Sacre des Saisons pattern. Hand-printed, limited purchase, with a lead time of two years…
+
+Both the scarf and the woman made her heart reach out from her throat and slap her across the face.
+
+"Dame Juliana."
+
+Eppie crossed the room before she had decided to. Vaughan opened her arms with the precision of a woman who did not show affection very often, and now did her best to mean it.
+
+They hugged, and the shawl brushed Eppie’s cheek. Gods, it's so smooth… Eppie’s first reaction was to admire the shawl with all her being, but Juliana’s skinny body, its bony ridges, the thinness of her arms, distracted her even from that.
+
+“There’s my girl,” Vaughan said, smiling, her thin lips curled. “You know, this is the second time that I’ve seen you stop people breathing.”
+
+Eppie held on a moment longer than was professional, just to feel the lightness of Juliana’s body. There was weight in Vaughan’s words, but it wasn’t in the strength of her arms.
+
+When she stepped back, Curon was watching them with the expression of someone who wanted to deliver a joke to lighten the mood.
+
+“Don't,” Eppie said.
+
+“I was only going to say—”
+
+"Da—de—"
+
+“WHOA—WHOA—” Curon threw his hands up. “Alright! Alright!”
+
+Vaughan's eyes flittered between them with the expression of an aunt who had walked into a kitchen where the father had burned breakfast and was trying to blame his daughter for not watching the stove.
+
+“Thank you, Frederick, for the escort,” Vaughan said crisply, her full stop the size of a boulder.
+
+Her Director bowed with the grace of a man who understood when he was beaten. “I’ll leave you alone then? Eric, come. Bring the wife. I’ll get us some coffee. Some damned kid stole my flask.”
+
+“Er… she’s my… Yessir.”
+
+Eppie, they all gave a big hug, especially Emily, who was already starstruck. It was still amazing to Eppie that Juliana was the elephant in the room, and yet, not a single one of her peers recognised the lady for who she might be.
+
+Sensing the gravity of the development, Eppie bid her friends adieu, promising to be back if she had the chance. The green room was no place to have a conversation with Juliana, who looked like she needed one. There was a far more suitable setting, somewhere where both of them could do some real good, and she could farm some more [Causality] to deal with William.
+
+“I have another performance at the Whitman theatre later,” she told Juliana. “With a friend, Zara Arriaga. Do you mind if we talk over there? The gallery should be a quiet place to have a coffee and a chat.”
+
+“Of course,” Vaughan took a step back, opening the path for the door. “But I wouldn’t want to impede your performance.”
+
+“Oh, it's not for several hours,” Eppie denied the infringement of her time with every fibre of her being. “Do you remember Armand? He has an exhibition. I haven’t seen it yet either. Shall we?”
+
+“We shall,” Vaughan gave her a look that seemed all-knowing. “Dr Cooper, until next time. Lead the way, Miss Fontaine.”
+
+Juliana Vaughan wasn’t the only reason Frederick Curon was happy to leave Eppie to her future. As the sole Director from Sony BMG on-site, it was his duty and responsibility to ensure that the company’s merchandise did not create undue publicity in the middle of a public university campus. At the same time, the Press wandered about, looking to fill Page 3.
+
+Outside the Playhouse, the afternoon was gold and cold, with the ambient sound of the Gala reaching the visitors from all sides. There was classical music at the Amphitheatre, bands playing in public and the lingering sound of dance recitals escaping from the Old Music Building.There was also the thrum of the food truck vendors, the laughter of the visitors, and the general hum of the general public going about the place.
+
+Thankfully, he wasn’t too late.
+
+Lucia Lancet had not come with her usual entourage. She brought only one man, Bennet, an old guard of the Richards estate, a grizzled veteran the family patriarch had picked up while on tour in the 80s.
+
+Kellie Noah was here on his invitation, so it was Curon’s fault for the presence of Big Brandon, whom he trusted to get her out of a tight spot should she be spotted by rabid fans.
+
+The girls' personas were Davis’ work, which made him, in a way, their music-producer step-father. He wasn’t a fan of Davis’ rivalry plotline, but there was no denying that the public ate it up like strawberry shortcake.
+
+The two parties had been wise enough to congregate near the side entrance, under an enormous bare oak that tore up the concrete bracket underneath. Thankfully, after years of media training, they knew enough to stand at a distance from one another, making their antagonism not entirely self-evident.
+
+Surely, Curon cringed for his songbirds. These girls didn’t buy into their own hype. The headlines. The rumour mills.
+
+The fan-fights. It was all manufactured by the PR department.In life, the girls had barely talked a dozen times. Their Twitter, MySpace, Facebook, and forum feuds were written by the same team in the same room to generate engagement and purchases.
+
+So this animosity must be over one thing, and one thing only.
+
+Kellie’s “selfish” gatekeeping of Eppie.
+
+Which… was also his fault.
+
+Kellie had her cap off, not that it mattered. All of her MTV personas wore wigs in varying styles and designs, in keeping with her branding. Without makeup, it was near-impossible to look at her interesting face and realise that this was the thick-lipped, glitter-glossed babe-bombastic that sang Umbrella in the rain wearing nothing but a micro-dress.
+
+Lucia Lancet was in far greater danger of being recognised, and she knew it. It was only when Curon came close enough to see her face that she removed her hat out of politeness. With a performative flair, Lucia’s hair fell about her shoulders, and Curon’s breath held for a brief second. There was a reason why Lucia was Davis’ favourite, the chosen one of the Richards Estate, and not even Curon was immune.
+
+Lucia was cut from a different cloth. She was technically African American, given that her grandfather was Bailey Ray Richards. BR was the single most prolific Jazz musician this side of US music history, a man who had both the talent and the business acumen to ensure that his legacy could not be pillaged by the pop stars who came after his riffs, drumlines, and stirring choruses.
+
+Lucia’s mother was a performer with a generational collection of Vaudeville Blues under her belt. Her father, Henry Lancet, was a world-renowned hotelier. What had been engendered under those auspicious circumstances was a girl whose genetics had been leveraged by several continents into something the eyes can’t quite discern. Her cheekbones were high and clean, the kind loved by the light. Her eyes were fair, almond-shaped, but unlike Kellie’s swatch of colour contacts, they were a rare green with flecks of yellow. Her lips were her mother's, rich, full, sultry. Her limbs were long, her figure was no worse than Kellie’s, though there was no impetus for Lucia to flaunt it.
+
+The problem with Lucia, Curon felt, was that looks, fame and fortune had come so readily that she was fully convinced that she was an imposter. Davis had set up a brilliant plan to shore up her insecurity—and then Eppie had happened.
+
+Lucia stood with her arms folded, jacket zipped, looking at Curon.
+
+“Hello.” Curon did his best suburban step-dad, trying to placate two fighting step-daughters amicably. It was times like these that he truly appreciated his one true child, Eppie. “I think I know why you’re both here.”
+
+Kellie raised a hand.
+
+“Yes, I know why YOU’re here. Okay, fine. I know why Lucia is here. You’re here because you’re here. But this isn’t it.” Curon gave them his most disapproving look. “I can get both of you time with Eppie, if you play nice. If you don’t, I’ll have both of you grounded.”
+
+“Can you now?” Lucia’s lips curled churlishly.
+
+“Is that how you speak to the man writing your next hit? Are you allergic to Grammys?” Curon’s voice grew low. “Bennett, stand the fuck down. This isn’t something you need to be concerned with. I don’t give a shit about the Richards, and you know it. Go cry to HR if you’ve got a complaint.”
+
+Compared to her feisty PR persona, Kellie was much more demure.
+
+“ERIC!” Curon called for his Newfoundland.
+
+The lawyer hopped out from behind a food truck with his wife, or girlfriend, it didn’t matter. Eric’s was an expression of consternation. His wife’s was one of awe. Her mouth was fully open, and she was wide-eyed with wonder and anticipation.
+
+“You make sure Kellie gets back to Culver,” Curon made the snap decision on the spot, because cancelling all their plans was far better than having the god damn paparazzi snap photos of the girls tearing hair. If that happened, he would never get near the end of it from Davis. “Do this for me, and you’ll get your holiday bonus doubled.”
+
+“YES, SIR! Eric ducked past Big Brandon. “Miss Noah, this way please. Brandon, my er… brother. Did you drive here?”
+
+Big Brandon looked at his ward, the popstar nodded, and they followed Eric and his wife while she gushed about Umbrella.
+
+“Now.” Curon stood as the disappointed step-dad with both hands on his hips. “Now that you’ve ruined my plans, let's walk and talk about why, instead of shooting your million-dollar Pepsi commercial, you’re here risking your lower back watching a fifteen-year-old kid play Antigone.”
+
+Bennet placed both hands on his lower spine, as if suddenly understanding the source of his trauma.
+
+“I know, right?” Curon did his own groaning. “If the Whitman isn't better, I am going home.”

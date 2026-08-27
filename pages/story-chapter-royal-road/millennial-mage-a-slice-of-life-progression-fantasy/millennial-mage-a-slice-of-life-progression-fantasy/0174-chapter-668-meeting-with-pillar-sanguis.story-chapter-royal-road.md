@@ -1,0 +1,289 @@
+---
+id: 0fafec87-9abc-5f25-b8d5-fe6bd63d5105
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 668 - Meeting with Pillar Sanguis"
+slug: 0174-chapter-668-meeting-with-pillar-sanguis
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 174
+ownLength: 3018
+unit: words
+ownProgress: 3018
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3018234/chapter-668-meeting-with-pillar-sanguis"
+royalRoadId: "3018234"
+markedReadAt: "2026-06-29T19:40:38.496Z"
+---
+
+Tala woke slowly, lazily stretching and arching as she pulled her mind from the all too oft neglected land of sleep.
+
+While she no longer needed sleep—at least not nearly as much of it since her Refining, and even less now that she’d Reforged—she still enjoyed how refreshed it made her feel, as well as the other benefits.
+
+Beside her, Rane slept hard.
+
+She doubted she could wake him without a concerted effort, though she was momentarily tempted.
+
+No, he needs his rest. He had a frustrating day yesterday.
+
+-Though, I think it will be to his benefit.-
+
+Indeed. Honestly, I think that this is the worst part about my advancing ahead of him.
+
+-Exactly, yeah. He basically has no need to be on the front line, and anything that we can’t take, he can’t either.-
+
+Tala smiled over at her sleeping husband, running her hand across him, the touch causing him to shift and reposition unconsciously. Her smile became wry.
+
+-Tala… let him sleep.-
+
+I will… Still, she considered him as he lay there beneath her hand.
+
+This man was a creature of the crucible, the chiseled stone, he had most often found his greatest improvement under stress and while enacting violence.
+
+Yet, he was caring and nurturing to their daughter, and supportive of her. He was a pillar of their family, even if he didn’t bear that arcane title. He longed to be a place of calm, the eye of a storm, but that neglected the fact that he was that storm. That which sheltered with him was safe and calm, but anything that tried to approach unbidden? Beware.
+
+She loved him so.
+
+She longed to keep him safe, and because she was in charge of her own destiny, because she’d seized so much power, she could. She was her own director, both authority and execution, but… She couldn’t render him down to such a dependent state. Boxing him away from danger would make him but a statue along their Path of Remembrance.
+
+He needed danger to thrive, to grow, and so she needed to allow him to encounter it. She could be there to support him, but she couldn’t coddle her husband. That would end with worse than his death. He would wither away until the man she loved was gone forever.
+
+Unfortunately, that same sentiment applied to Lea, even if to a lesser extent. As the girl’s parents, Tala and Rane should protect her to some extent, at least for a time.
+
+I still have to allow others their own autonomy, otherwise I am the dictator.
+
+-Sorry to interrupt your carnal musings, but—-
+
+Excuse me, I was considering how much I love him, and Lea.
+
+-...Yeah… Sure…  I heard you. I know your thoughts. You were thinking about his anatomy.-
+
+Tala rolled her eyes. Autonomy, Alat. Purposeful misunderstanding isn’t helpful.
+
+-Fine. Anywho. The House of Blood delegation has departed Croi, bound for Howlton, and Master Xeel and Mistress Jenna—along with others—are already on their way as well, scheduled to arrive before any of the arcane delegations.-
+
+So, it’s really happening. Gated and Major Houses gathering for a united purpose.
+
+-Indeed.-
+
+I’m surprised that Master Xeel and Mistress Jenna were able to be spared.
+
+Alat sent the impression of a wide grin. -They were the closest and most available Protectors, with Master Jevin unwilling to head south. Apparently, Mistress Holly is still on ‘border defense’ duty, so these two were free. It was decided that a show of strength would help keep things on track.-
+
+Tala was nodding, thinking more on the idea. Not to mention that we promised that Gated Humanity would help safeguard the citizenry of Howlton.
+
+-True enough.-
+
+Tala stood, glancing toward the tub to one side before deciding on a more ‘wakeful’ morning ablution. With a flex of her will, she was moved, already diving into the circular river surrounding the center of the sanctum.
+
+It was frigid, but she gloried in the feeling of the cool, crisp water rushing across her bare skin.
+
+After a full submersion, Tala spun under water, quickly getting clean before willing herself back to her room.
+
+Once there, she glanced back toward where Rane slept, sighed, and grew her clothes across her body, enjoying the feeling of the snug fit, the sensation almost like she was giving herself a hug.
+
+With one last smile toward her husband, she willed herself away, stepping out onto the superficial right outside the House of Blood’s Platoiri hold. She dismissed the bit of iron she’d used as an anchor for the sanctum while she was within even as she greeted the guards, striding through the open entrance without having to wait.
+
+It was early morning, but still, some citizens were around to have noticed her sudden appearance seemingly from nowhere, and her subsequent entrance into the hold.
+
+It did seem like those who were out and about were unusually frantic and chatty, if her brief glimpse was anything to go by.
+
+Tala didn’t mind being seen or even talked about. Not anymore. She knew that the House of Blood had been seeding the rumor mill about her return—and with information about the Black Legion—to give them greater bargaining power, and lessen the blow to the average person when the truth came out.
+
+-When it did indeed. The official announcement was late yesterday. Did you not remember?-
+
+Ahh, I didn’t really connect the dates. Is that why there was a bit more buzz out there than usual?
+
+-Could be, yeah.-
+
+Tala was greeted by a senior servant within the Hold of the House of Blood, as fit her station. “Eskau, welcome back. We were expecting you last night.”
+
+Tala smiled. “Other things came up.”
+
+“Oh? Do we need to be aware of any of your activities? Should we expect demands of recompense, or to receive formal apologies?”
+
+Tala glanced at the man as he bowed, catching a twinkle of humor in his eyes with her perception. She huffed a laugh. “Things aren’t that crazy around me, are they?”
+
+“Of course not, Eskau. I just wish for us to be prepared, on the chance that you had an… eventful evening.”
+
+“Understood. No. I did not fight. My husband had his duel, which the House should have been well aware of?”
+
+“We were, and we have been informed of the results. You are to be congratulated for your choice in a husband. Few Eskau are able to find partners worthy of their skill in battle. We are all gratified to know that—even if he cannot be expected to match a Revered—he is a warrior in truth.”
+
+Tala didn’t really know how to take that. “Thank you, I suppose?”
+
+“You are most welcome.” The man straightened. “Pillar Sanguis has requested your presence at your earliest convenience. Shall I lead you there, now, or is there another demand on your time or need that I can assist with before we go?”
+
+Tala gave a half smile, deciding to play with the servant in return for his earlier humor. “Not letting me out of your sight until I attend the Revered Pillar?”
+
+“No, Eskau.” And he left it at that.
+
+Her smile grew. “I appreciate the honesty.” She frowned in feigned thought for a moment. “You know, I have not taken advantage of the House masseuse since my return…”
+
+The man paled slightly, an odd thing for the red hue-man, his skin going from a near-cherry red to the dark pink of a rose across his cheeks. “If you request it… I… I believe that I can arrange for a quick session before we go.”
+
+“Hmm?” Tala glanced his way. “Oh, no. If you could arrange for a long session, I would be grateful.”
+
+She waited as the man visibly fought with himself, until, finally, he nodded. “As the Eskau wishes.”
+
+Tala huffed a laugh. “After my meeting with Pillar Sanguis, of course.”
+
+The man almost visibly sagged in relief. “Very good, Eskau.” He then looked at her askance. “I am not sure I can take such humor in the future, Eskau.”
+
+Tala shrugged. “I did not mean to stress you. I was simply curious what orders Pillar Sanguis had left in regards to me.”
+
+“You could have asked.” The servant’s tone was carefully not reproachful.
+
+She nodded solemly. “And you would have told me exactly what he wanted you to say.”
+
+The man tilted his head to the side in thought before nodding. “As the Eskau says… Shall we?”
+
+“After you.”
+
+The man led Tala through the hold, and Tala allowed her perception to play over the details. The place—and everything about it—was stunningly beautiful, showing just how the House had prospered in her absence.
+
+She’d seen this before, every time she’d come through here over the last week or so, but it still struck her each time.
+
+When she’d left, this hold had been a war-zone, charred, destroyed, and in ruins. Now, it was built back better and more impressively than ever.
+
+The House of Blood had been a power for uncounted years, and it was on the rise, now. Who knew what heights it would attain. Other Major Houses were looking to them for guidance around the Black Legion threat, and the non-House powers were beginning to take note as well. Those didn’t jockey for power, instead having it by their very nature. The Packs, the Pride, the Guilds, and the independent craftsmen. There were more besides, but that wasn’t the point of Tala’s musings.
+
+The House of Blood wasn’t the only beneficiary of the changes around the imminent return of the Black Legion.
+
+Tala had been keeping up with those in the Cycling Cities, and a startling number of arcane powers—Houses and others—had been reaching out to gated humanity. It was even more than had been doing so before, even after only barely more than a week's time.
+
+That was long enough for messages to be delivered, and interest to be expressed in no uncertain terms.
+
+The House of Blood would profit from all of this, but in truth? Gated Humanity had more to gain.
+
+Still, she was glad that she wasn’t the one in charge of making deals or securing humanity’s interests.
+
+She just needed to be a powerful stick waiting in the wings, ready to thwack anyone who thought to pilfer humanity without giving anything in return.
+
+The servant turned and bowed, holding open the door to Pillar Sanguis’s study. “I will arrange for your appointment, Eskau. The Pillar should not need too much of your time.”
+
+“Thank you. Good day to you.”
+
+“And to you, Eskau.”
+
+Tala strode in, and the man closed the door behind her, his task complete.
+
+Pillar Sanguis stood upon her entry, rising from his place behind a large, crowded but well organized desk. “Eskau Tala. Thank you for coming to see me.”
+
+Tala gave an appropriate bow. “Pillar Sanguis, I hope that you were not waiting upon my arrival.”
+
+He waved that off. “No, no. Not at all. I did receive word that the void-hold was closed. Did it give you any trouble?”
+
+“No, Pillar. It was an odd ether-hold, but nothing we couldn’t handle.”
+
+“Ahh, so you did end up taking your daughter.” He motioned to a set of comfortable seating off to one side, moving to take one seat himself.
+
+Tala joined him. “Yes. It was an interesting experience for Lea. We basically never have void-holds in the Cycling Cities, so it wasn’t something she could have come across before.”
+
+He nodded slowly. “Yes, yes. The lower magical density.” He quirked a smile. “Partially maintained as such to keep us from coming your way, eh?”
+
+Tala chuckled. “In part. I have always found it fascinating that, despite the higher density here, you have far fewer magical and arcanous beasts to deal with.”
+
+He shrugged. “We are not abominations to reality itself.” He sighed. “We just used such against their will for our gain.”
+
+She raised an eyebrow, waiting.
+
+Pillar Sanguis waved her away. “I have made no secret of my distaste for such things. That does not mean I am willing to send all vestiges on their way, and cut the lifespan of all gateless in half, if not more. The use of vestiges is unideal, but it is the lesser evil. The loss in sapient life years would be staggering without them.”
+
+Tala continued to wait.
+
+He sighed then waved dismissively. “I have no need to justify myself to you, but if your death could guarantee the long life of a hundred others, would you die?”
+
+“It depends on the circumstances, but maybe?”
+
+He chuckled. “Fair enough. I do not wish to argue morality with you this morning, however.”
+
+She nodded. “What did you need of me?”
+
+“You are needed in Croi.”
+
+“The decision?”
+
+He nodded. “Yes, that and there have been several official requests for your presence there as well, from other delegations.”
+
+“Oh?”
+
+“There are many who want a closer relationship with the House of Blood, and you are a large part of that. I think that many also wish to have a touch-point with gated humanity, and you are an easy, understandable person with which to make such first contact.”
+
+Tala grunted. “I see.”
+
+The man’s face shifted into a mischievous grin. “There is also a dwarven delegation from the other continent, which was previously not granted audience when they came in years past, but given our new information from you…?” He chuckled. “It might be good if you were there for that meeting as well.”
+
+Tala hmmed. “When should we depart?”
+
+He shrugged. “Sooner is better, but I would suggest that you attempt to arrive within the week.”
+
+She chuckled. “Understood.”
+
+He leaned back. “Assuming you are confirmed, you will strengthen bonds with the Gated, yes? That and forge the coalition of Houses and others into a more coherent block.”
+
+“Across all cities, yes. I don’t think I will need to go elsewhere, at least not after I get back from Croi, but I will do my best to draw at least token representation of all our allied Houses and other entities here, making this the center of our power for the coming war.”
+
+He was nodding. “Wise to have it away from the seat of power of any one House, and this is the primary seat of none. It makes the war effort obviously distinct from the House of Blood, while still ensuring that we gain from the process.”
+
+She smiled in turn. “The House of Blood and Gated Humanity can both come out of this better than ever. We have a lot of ways to improve how society functions here.”
+
+“Oh? Do you have a proposed replacement for vestiges then?” He leaned forward, hands coming together as he rested his elbows on his knees. “I’d wondered. It’s no secret that relations between gated and gateless will remain strained as long as we require leashed gates.”
+
+“I have some ideas, but I want my position to be solidified before I say more.”
+
+He leaned back with a sigh. “Understood. I can’t say you aren’t wise for your hesitation. If your ideas were to be tenable, you’d find yourself opposed and under threat from all sides.”
+
+She scoffed. “Exactly. There would be those who wanted any such idea suppressed, because it would represent a change. Others would want to take it for themselves, and others would simply want a piece of the potential profit in one way or another.”
+
+“Exactly, but once you are Eskau of War…” He sighed, waving a hand in dismissal. “Apologies, if you become Eskau of War.”
+
+Tala chuckled but didn’t otherwise respond.
+
+“If you do, not only will you be in a position few would dare contest—even outside our House and our allies—but anything of this nature could be put forward as a part of that war effort.”
+
+“Exactly. It is amazing what people will endure for the greater good.”
+
+“And after a short time, it will become the new normal.”
+
+She nodded. “That is my hope, yes.”
+
+“Well, I do hope that your ideas work out.”
+
+“Thank you.” She considered. “Can we travel to Croi through the Doman-Imithe?”
+
+Pillar Sanguis gave a slow shake of his head. “No, gated should never go into the Doman-Imithe, to do so is to invite death.” A small smile pulled at his lips. “That is, in fact, exactly why we dumped you in there last time.”
+
+She huffed a laugh. “I was going to mention it if you didn’t.”
+
+“I assumed as much.”
+
+“So… Can I try? As you said, it’s not like it’s the first time I’ve been there.”
+
+The man rubbed one temple. “…Please don’t.”
+
+She contemplated. It wasn’t like she had to travel in that manner. Still, she was curious. “At least show me how it’s done?”
+
+He gave her a searching look before giving another nod. “…Fine. I will arrange for a Path Finder to show you how they open the way, so long as you do not take that path to Croi.”
+
+“Understood. I really am curious about the ‘safe’ way to get to the Doman-Imithe and travel through it.”
+
+“I can understand the curiosity, but as stated, there is no safe means for gates or gated. The moving of vestiges—and items with vestiges in them—is the primary reason for inter-city trade across the face of Zeme, itself. Almost everything else can move through the Doman-Imithe with enough efficiency that no other means would be necessary.”
+
+Tala grunted. “Good to know.”
+
+“So, when would you like to meet with the Path Finder, and when should we expect you to depart?”
+
+“This afternoon for both?”
+
+“So soon?”
+
+“No need to delay.”
+
+He nodded, standing. “Very well, then. I will make the needed arrangements.”
+
+“Do I need to bring anyone aside those I already have with me?”
+
+“That will not be necessary, but the offer is appreciated. Thank you for your time, Eskau.”
+
+They exchanged bows. “Thank you for your assistance, Pillar.”
+
+With nothing more needed, Tala departed, leaving the man to what seemed to be a sizable amount of work.

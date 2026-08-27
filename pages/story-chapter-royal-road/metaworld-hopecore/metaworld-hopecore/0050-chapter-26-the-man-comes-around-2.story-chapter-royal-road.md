@@ -1,0 +1,343 @@
+---
+id: 94a0c069-d6e4-5ed9-a7df-d8db7a105778
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - The Man Comes Around (2) "
+slug: 0050-chapter-26-the-man-comes-around-2
+partOf: metaworld-hopecore
+position: 50
+ownLength: 2482
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3373932/chapter-26-the-man-comes-around-2"
+royalRoadId: "3373932"
+---
+
+In silence, Eppie sat on her bed, contemplating life.
+
+There were still too many unknowns and not nearly enough answers.
+
+Was she really this helpless? Was Valorie really involved in her past life?Did Eppie not deserve justice because she was poor, alone and powerless?
+
+That didn’t seem fair.
+
+No. This isn’t fair.
+
+“[System]” she called out to herself. “Show me the money.”
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+20
+
+Athletics
+
+24929
+
+Agility
+
+20
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+33 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+20 / 28
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS: [Prophet of Profits] [Noblesse Oblige]
+
+Inactive: [Weak Willed] [Demure] [Fearful]
+
+Suffice it to say, the gift of two dozen [Cats] gave A LOT of instant [Causality], followed by slow-trickling currency with the occasional bump.
+
+Should she raise her [Strength] and [Agility]? Even for Valorie, there was no legal basis to get at Eppie, since Eppie was an emancipated minor who paid no taxes, had no assets, and had no family to influence. What this did mean was that Valorie could resort to crude methods like social alienation and physical assault, with Exhibit A being the locker thief scandal.
+
+Should she shore up her physical abilities? The problem with raising that was the [Causality] cost.
+
+Concrete figures that bordered on superhuman physicality required far more raw currency than something like [Comeliness], which was more subjective. This was because there were “generational” athletes, but almost never “generational” beauties. Likewise, [Intelligence] may seem objective, but in her old world, no one celebrated discovery. The Artemis II mission, the Moon Lander II, and the beginning of the new International Moon Base were merely side stories to the consolidation of capital and the self-glorifying of politicians and businessfolk like herself.
+
+[Strength] on the other hand. If she could lift a grown man with one hand, that would be a feat beyond common sense. That would move into the mythological realm of Herculean strength. It would also be an interesting test of the [System] and its limitations, for it certainly made light of biological realities. When playing music, for example, her hands and body simply knew what to do. Some would call this talent, but for Eppie, she suspected she had simply channelled the [Causality] of some other talented predecessor, and that the [System] was running her body through an AI subroutine.
+
+Besides, even if she could run forever, how far and how long could she run? With a [System] such as hers, why should she resort to physically fighting her foes?
+
+That just seemed wrong.
+
+No… Eppie Fontaine had a better idea.
+
+As a day trader, then a financier, then private equity, CFO, and finally THE CFO, there was something the old Lana knew very well. Shady shit was for amateurs. This was why, when deals reached a certain mass, they had to be done in the open, with a brazenness that left competitors flabbergasted and regulators bewildered.
+
+With enough fame, there was no need to fear the shadowy machinations of mentally unstable folk like Valorie.
+
+With enough exposure, there was no need to pay for seedy people like William Chen, nor his father.
+
+With enough worth, her contractors would naturally ensure that their Golden Goose was free from parasites, competitors and predators.
+
+Didn’t Eric mention something about a Guardian Angel?
+
+Whether one existed in reality didn’t matter because she would make that reality right now, with her own hands.
+
+“[System] use [Roulette]. Spend everything but 15000.”
+
+Her [Causality] rapidly diminished.
+
+Aphorisms popped up one after another, until enough karma was spent to finally trigger the next chapter of her redemption.
+
+Trait Acquired
+
+[Vocal Agility]
+
+Causality Tier (B)
+
+Your voice has acquired the properties of a melodic instrument capable of performing incredible focal feats with precision, flexibility and acuity. Mechanically, your vocal cords possess the rare talent of Laryngeal Flexibility, allowing you to access pitch, volume and vocal texture at changing intervals.
+
+This trait is modified by your [Vocality].This trait is modified by [Songstress].
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Trait Acquired
+
+[Perfect Pitch]
+
+Causality Tier (S)
+
+You have acquired absolute pitch. You may now identify, create, and re-create musical notes without the use of reference notes through your internalisation of the frequency spectrum. Audiation now appears to you as synaesthesia, allowing instant recognition of a pitch that is automatic and involuntary.
+
+This trait improves your [Songstress], [Vocality], and [Vocal Agility] traits.Active utilisation of this trait requires [Causality].
+
+This trait cannot be improved.
+
+Muse Acquired
+
+Dream a Little Dream of MeComposed by Fabian Andre and Wilbur Schwandt.Written by Gus Kahn
+
+Knowledge of the song slid into her head, giving her a migraine like nothing she had yet experienced. Even with her [Perfect Pitch] on passive, she could hear the iconic song in her head, a staple from the Great American Songbook, the connecting tissue between the Jazz Age of the Roaring Twenties and the contemporary music to come, a slow energy ballad, perfect for a girl with a dream-like melancholy.
+
+Eppie sighed.
+
+The System had provided the skills she required, but the rest was still up to her.
+
+To engage her Guardian Angel, she needed to pay upfront, and she knew the exact cost.
+
+[Causality: 15000]
+
+There was no time to waste.
+
+Leaping off the bed, she bolted down from the dorm to the Main Building’s basement and found Coordinator Carr. Before her teacher could question whether she was here for the matter of Miss Sanders, Eppie put the friendly Director’s mind at ease by stating truthfully that she had an incredible idea for a song, and that she needed a music room to record it.
+
+Susan Carr was relieved beyond words and quickly resolved to find her a free room for the next few hours.
+
+Skipping lunch, Eppie thus found herself in the Old Music building, in a room not too different from the modest practice studio she and Zara used.
+
+With her phone on a tripod, Eppie stood in the centre of the muted room, ready to make history.
+
+She cleared her throat.
+
+She wasn’t the greatest R&B fan, but like many women of that era, she loved Riri to death.
+
+To do her idol justice, Eppie shook her limbs out, channelled her most ardent impression of the Caribbean Queen, then opened her throat to song.
+
+Her textured voice enveloped the room. As with “Deer-ri-me,” she began with the shining sun, using her vocal agility to elongate the plosive vowels as her voice rang out, enveloping the room, ending her S’s with a rich, mesh-like quality that was perfect a cappella. On “forever”, she shifted to a deeper, richer chest tone that made her mirror vibrate and the room hum in vocal sympathy.
+
+Muse Acquired
+
+UmbrellaComposed by Christopher "Tricky" Stewart, Kuk HarrellWritten by The-Dream Performed by Rihanna, Shawn "Jay-Z" Carter
+
+As she sang, an indescribable thrill shot through Eppie’s soul, losing her in the [Sublime]. The refrain struck with its repetitive “eh–eh–eh–,” and her body moved as though possessed by the memory of another world.
+
+Then she stopped.
+
+[Causality: 0]
+
+Her [Pitch Perfect] went to sleep.
+
+Her throat hurt, as did her chest. Shooting pains were running up her gut and diaphragm. Her back was drenched with cold sweat.
+
+[SYSTEM MESSAGE]
+
+You lack Causality
+
+Penalties have been applied due to Karmic ReciprocityPenalties are amplified by Prophet of Profits.
+
+[SYSTEM MESSAGE]
+
+Penalties have been applied.
+
+[SYSTEM MESSAGE]
+
+Your Dasein is
+
+12
+
+Acquire Dasein through Karmic Reciprocity
+
+Her dreams of glory halted at once. The [System] was telling her something.
+
+This was not a song for Eppie Fontaine. She knew the song was meant for someone who needed such an umbrella FAR more than she did. This was a song for someone else who was exploited and bullied by their own version of Valorie Sanders. A song that would change the trajectory of their life.
+
+This was a song for Kelly Noah, AKA Kelly Price.
+
+Eppie replayed the song through Garage Band, mindful of the irony that the “Vintage Funk Kit 03" loop was the basis of the song’s timeless beat.
+
+After a quick drink of water, Eppie was ready to conjure her Guardian Angel.
+
+On her gifted corporate iPhone, she pulled up the number for Frederick Curon. Mueller had said that she could call whenever she had an idea—but she had never put the song engineer’s boast to the test.
+
+Taking a deep breath, she pressed the green dial button.
+
+It rang once. It rang twice.
+
+It went to voicemail. “Yo, this is Curon’s private number, you better be someone I am expecting, or else…”
+
+Eppie began to doubt the validity of her accrued good karma, then her phone lit up with an incoming call.
+
+Fumbling from panicked ecstasy, she nearly dropped her phone before her [Agility] caught up, and she thumbed it open with a slide.
+
+“Hello! Euphemia here!” she declared into the speakerphone. “Is this Director Curon?”
+
+“Eppie?” Curon’s voice came across strong and clear. “Fontaine? It really is you. Well, this is unexpected. I am in a meeting. Can this wait?”
+
+She could wait, but why should she wait when she was the one doing Curon a favour? Why would he believe her if she wasn't arrogant beyond belief?
+
+“I can, but I don’t think you should,” she spoke succinctly and accurately, with an otherworldly confidence derived quite literally from another world. “Would you like a Billboard No.1 Hit?”
+
+After the song ran its course, and Eppie delivered the final “eh” with a husky register and just a touch of vocal fry, Curon grew contemplative. The director had been a bit peeved. Then he was awed.
+
+Then, completely silent.
+
+Eppie waited. Unlike the classics, she knew for certain that this particular song, this refrain, the lyrics and the metaphor therein, was perfect. It had cost her 20 days of life on earth and 15000 [Causality] after all.
+
+“... why Kelly Price?” Curon asked finally. “You sang it very well. Better than I could have imagined. I can only imagine what it would sound like if you were in a recording studio…”
+
+The Director sounded like he was inhaling a cigar. “When did your singing become so good? It’s a league above when you came in for Whatever Will Be. Incomparable, even. You’re as good as some of our best young talents.”
+
+“Thanks,” Eppie replied guiltily. Her new talent was bought with [Causality] from saving cats, after all, not with hard work or artistically induced joy.
+
+“And yet, you don’t desire the limelight?” Curon’s voice seemed affected. “Why? Saint Fontaine, why Kelly Price?”
+
+“Davis Trent told me once, Sir,” Eppie answered from her perfect memory, that “Lucia’s talent… is not as great as Miss Price’s. And yet, she will not be receiving the best songs from your studio. It’s showbiz, not show-charity. He said. Do you remember that?”
+
+“Davis said that?” Curon muttered. “That does sound like him.”
+
+“Well,” Eppie said seriously. “I think that’s bullshit.”
+
+“Can’t say I disagree,” Curon could be heard nodding over the phone. “So, you’re here to prove him wrong?”
+
+“I am here to make a point,” Eppie finally brought forward the reason for her call. “I need your help, Frederick. And I need Davis to be on board.”
+
+“Oh?” Curon sensed the change in her tone. “Okay. For this song? Anything. What do you need? How much?”
+
+“I don’t need money. I need backing,” Eppie replied. “Did Eric tell you about what’s happening at school?”
+
+“I don’t read his emails…” Her Director confessed. “Actually, I basically don’t read emails. People just tell me what I need to know when I ask them. So, what’s up? Trouble in paradise?”
+
+It's a bloody good thing I called… Eppie rolled her eyes. “Yes, and it does involve you, Frederick.”
+
+“Me?” the Director snorted. “Really, now?”
+
+“YES, really,” Eppie pouted, using her [Vocality] to draw a pouty picture in her Director’s head. “Remember the Met? Remember Universal Guy? Remember the girl next to him…”
+
+She explained the ordeal with Valorie again, this time with a bit more flair and desperation.
+
+“Jesus Christ, was that who she was?” Curon loved every minute of it. “Christ on a cracker, what a bitch.”
+
+“For the sake of my peace and sanity.” Eppie drank from her bottle to wet her whistle. “I want the company to sign me as an artist and a songwriter. Full production credits. Moneywise, I don’t care, give me the usual cut, and straight to my Trust. I need the school to know who I am. I want Eric on retainer, and an affiliated firm to defend me if some shit goes down between the Sanders and Chen families and me.”
+
+“That’s your condition?” Curon asked. “That and the song must go to Miss Price?”
+
+“Yes, and I want this all on contract, in black ink. If you do this for me, I’ll have two more songs for you by the end of the year, with Sony as my first-offer preferential vendor. You can come to our Fall Gala if you’re in the area and hear them live.”
+
+“Songs like Umbrella?” Curon’s voice quivered.
+
+“No…” Eppie confessed. “But I can guarantee they’re good songs. Songs with legs.”
+
+“You 'guarantee'?" Curon asked.
+
+“Have I disappointed yet?” Eppie answered back churlishly. “If Sony isn’t interested, maybe Sir Woodhouse…”
+
+“Hey! We don’t use that kind of language in this house!” Curon shouted. “Alright… give me a minute to think. No one else has seen this video?”
+
+“It's private, for now,” Eppie said. “I can send you the music sheets…”
+
+“Don’t bother. I’ll work out something,” Curon informed her with supernatural confidence. “Your song will be my personal project with Miss Price. If we can do it in two weeks, we can make it to the February Grammys. I think… I think we should find a rapper as well. Someone heavy. Someone BIG, to give Miss Price the best possible chance. Yeah… I don’t know if you believe me, Eppie, but I can hear it in my head.”
+
+And it will win. Eppie did not disagree with Curon’s optimism.
+
+In her old world, the song was a financial and artistic juggernaut, accruing three nominations and one win, cementing Riri as the immortal queen of R&B.
+
+“I believe you,” Eppie replied. “Well, good luck. Send Eric over with the contract tomorrow during my break.”
+
+“Wait, where are you going?” Curon sounded incredulous. “We’re making history here!”
+
+“Class!” Eppie’s laughter stunned the Director into silence. “I’ve still got the theatre block!”
+
+“Christ.” Curon suddenly recalled her age and profession. “Yeah, Eric will be over when legal drafts the contract. As for your request… I think its time we paid a visit to your Principal.”

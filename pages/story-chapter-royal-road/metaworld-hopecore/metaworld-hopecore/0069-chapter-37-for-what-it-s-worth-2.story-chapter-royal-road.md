@@ -1,0 +1,207 @@
+---
+id: 6acef803-c515-5bb7-9dee-0dc111544234
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - For What It's Worth (2) "
+slug: 0069-chapter-37-for-what-it-s-worth-2
+partOf: metaworld-hopecore
+position: 69
+ownLength: 2538
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3388585/chapter-37-for-what-its-worth-2"
+royalRoadId: "3388585"
+---
+
+Reedley.The Chapel.
+
+Saturday morning began with hope.
+
+At 8 AM sharp, Father Parson unlocked the church for the choristers of the Reedley Parish, flanked by the two girls who had arrived a few minutes earlier by virtue of Uncle Paco. With the Tule fog swirling like churned butter around them, the choristers marched into the church and the pews, ready to receive the blessing that Mio’s angelic friend had brought to them from the high heavens.
+
+Yesterday, almost all of them had heard the girl sing. Still, no one knew exactly what they were in for, or how famous they might become by Christmas, but they were Father Parson’s choristers, and when he called, they showed.
+
+“Hi everyone!” The girl was chirpy and pretty and sweet, unlike any choral mistress they had ever known. “I'm going to do my very best to teach everyone a song!”
+
+They also would not know that she knew nothing about choir training and was operating entirely by the will of God, which was thematically appropriate for the occasion.
+
+Trait Acquired
+
+[Gospel]Causality Tier (B+)
+
+Gospel is the voice of the silenced, the soul-cry of the unheard. It is the soul of songs that predates instrumentation. Gospel is rooted in the slavery-era spiritual, speaking for the invisible churches and the hollerers on the bitter fields. You have acquired advanced knowledge of Gospel A Cappella. You possess an instinctual talent for creating a Gospel Ensemble, drawing on historical sermonic traditions to build rhythm, repetition, pitch escalation, and dynamic arc through your congregation of the faithful. This skill cannot be improved beyond B+ without training, knowledge, cooperation, practice and complementary [Traits] This trait can no longer be improved through Karmic Causality.
+
+Eppie had printed the music sheets she had long prepared, but was told that 75 per cent of her congregation could not read music. She had spent both time and effort to improve her skill, only to realise her rural congregation sang through vibes, practice, and memorisation.
+
+Which was BRILLIANT for Eppie, because she knew jack shit as well. That and she preferred that Mio’s learning with the choristers remained as organic as possible.
+
+Channelling her inner Dr Cooper, her lesson began with a demonstration, her own melodic line, alone and unaccompanied. She stood at the nave and sang the song of the crying dove in slow tempo so that they could hear every detail, every note.
+
+She then heard each of the women sing, each to each, taking notes with her [Perfect Pitch]. Instinctively, she arranged them through synesthesia, through visualised sound.
+
+She then re-arranged them, like the older women with the natural talent for finding the root of a chord with their souls, and told them: This is your line. Hold it low. Hold it long. Don’t let it resolve. She found the higher voices, younger, and led them herself. Follow. Don’t anticipate. She said. Her [Persuasion] somehow adding to her ethos. Hum… hum… until the moment of suspension. She found a middle-aged farmhand with a brilliant low-G, which to her [Perfect Pitch] was something like a streak of earth among the brilliant emerald, and told him to come in when the word drops. Then hold it until the ladies over there stop.
+
+It made no sense to Eppie. It made no sense to Mio. And it made no sense to Zara, to Father Parson, or Uncle Paco.
+
+Then, after four hour of beating about with her [Clockwork Pulse], it somehow came together, and somehow, it all worked.
+
+Mio’s voice caught the air like fire catching dry tinder, a harmony of talent and technique that had been recollected after being left to collect dust for seven months in the attic.
+
+The choristers clapped. A few of the older ladies wiped joy from their eyes with hand-sewn hankies.
+
+“I don’t understand,” Paco said to his niece beside him. “This is like herding cats. Meowing cats.”
+
+“Well…” Zara blushed as she gazed at Eppie’s perspiration-covered, reddened face. “Eppie is kinda the Cat Queen of CSULA.”
+
+“Senior Parson said she is an angel.” Paco threw his hands in the air. “But I don’t know. This is more like witchcraft. Dios mío. Let’s break for lunch before the Father notices.”
+
+Madison Avenue. Midtown East, New York.
+
+Sony’s Belmont Building quaked.
+
+“Well, this is awkward. So er… did you hear the Gospel song Eric sent over? The one with the killer Chorus?”
+
+Trent Davis watched his friend, Frederick Curon, lean on the opposite side of his table, twiddling his thumbs.
+
+“I did…” David said coldly.
+
+“Good,” Curon gave him a thumbs-up. “Its ours! How lucky! So long as the following conditions are met. The Parish of Reedley is credited as the originator and composer, and Luciana Mio is credited as Lead Artist. Royalty structure as follows: The Reedly Church, Sony, Luciano Mio, Eppie.”
+
+Davis glared at his musical maniac.Curon glared back with a maniacal grin.
+
+“And if Lucia was to perform it, what is her cut, may I ask?” Davis asked slowly.
+
+“We’ll give her half a per cent, and that’s a bargain!” Curon said seriously. “She should be paying us royalties for using the song.”
+
+“I can give Eppie’s cut to Lucia, have her break the song into the mainstream,” Davis retorted bitterly, his anger rising. “We can make up a story. A child of immense talent, with abusive but beautiful parents. A child fearful of their own potential, it will make an aesthetic, if expensive, music video. Would she mind? You said she doesn’t care about money.”
+
+“She doesn’t,” Curon’s mouth was no longer smiling. “You do that.”
+
+“You think I won’t do that?”
+
+“If you did, you wouldn’t be Trent Davis,” His Creative Director scoffed. “Is CEO Davis still residing in that head of yours,Trent?”
+
+“Care for a wager?” Davis fired back. It was a matter of pride. His Director was taking his mollycoddling too far. Their god damned legal department was on god damned fire thanks to the Bailey Ray Richards Estate. The dethroning of Lucia was a matter of time. Umbrella would hit No.1 Tuesday, throwing Lucia’s Out of My Head from its two-week throne, two weeks ahead of schedule. With his own experience as a yardstick, unless something of a greater quality arrived to replace it, Umbrella would reign unchallenged until Christmas.
+
+Did Doves Cry have a chance? David didn’t know, but he knew his Gospel and, with certainty, that the Richards Estate would accept the olive branch.
+
+Then Fredrick had told him Eppie’s demands.
+
+The bloody Royalty structure made no sense! Nothing Fontaine ever demanded made sense in any sense, but they had always accommodated her, because she delivered. Somehow, like clockwork, the girl had delivered, and delivered and delivered. That made the least sense of all.
+
+Deer-ri-me, of all things, was apparently taking the European Childcare sector by storm. Give it a year or two, and it may become as ubiquitous as Wheels on the Bus. Disney, of all the corporations buying from Sony, has expressed a desire to purchase exclusive rights to the song for their daytime toddler programming for the US.
+
+Exclusive rights! For the House of Mouse!
+
+If Trent turned down the deal, his head would be on the Board's desk by Tuesday. Did Curon know of this?Was this why his director was being a pain in the ass?
+
+“You know,” Curon did not answer him, but instead gave him a sneaky smile. “Maybe it's best to pretend the song isn’t up for grabs. Lucia Lancet is going to lose, but what if we can made her feel better about losing?”
+
+“Feel better?” Davis furrowed his brows. “The hell does that mean?”
+
+“Well,” Curon blinked innocently, which looked disgustingly disturbing on his unkempt, bohemian face with its scraggy beard. “Rikki Lynne does South Gospel, doesn’t she? She’s our last American Idol winner, the nation’s darling.”
+
+“Your point?” David demanded, then it dawned upon him that Curon was truly a genius.
+
+A mad genius. And a bastard. A total, unapologetic bastard.
+
+“Yeah boi… now you’re getting it.” Curon’s expression was once more manic ingenuity mixed with derring-do. “We take that power chorus, add a percussive line, electrics, synth, then Kellie’s biblical voice comes in as the bridge, cue the grand piano, add reverb, add recursive, Electronica!”
+
+“DEN-den-den-DEN! Den-de-de-den-DEN—” His Director played the tune in his head by mouthing it through his lips, his knuckles rapping on the table. The tune worked. Davis could hear it. It won’t beat Umbrella in this day and age, but it will come close. “What do you think, partner?”
+
+Looking at his friend chasing the tune like a dog chasing a ball, Davis experienced the psychological disorder they called split personality. The artist part of Davis, the dreamer from long ago, wanted to leap across the desk and kiss the man’s hairy, filthy mouth. The executive Davis, the iron hand of modern Pop, wanted to sock the bastard so hard that Curon would spend the next ten minutes finding his teeth.
+
+But the real Trent Davis did neither. Instead, the real Trent David opened his drawer and took his blood pressure medication because one could never be too careful around Curon.
+
+“So you’re saying,” Davis said calmly after slugging the tablets with a mouthful of sparkling water. “Lucia will get off our backs after she sees Kellie concurrently shitting on her rival by releasing a South Gospel adjacent.”
+
+“YES.” Curon clapped. “DEN-den-den-DEN!”
+
+“Does that make sense?” Davis demanded.
+
+“Do I make music?” Curon retorted. “Here are your choices. We make a FUCK LOAD of money and shit on Universal. Or Lucia can rent the song from Eppie. No original credit! She’s playing cover. We can minimise the royalty. Hell, tell you what, I’ll forgo it.”
+
+“What a choice,” Davis rolled his eyes. “We make record profits, or we shit on Lucia, the Richards Estate, and your Golden Goose.”
+
+“You can’t say I didn’t give you a choice,” Curon said. “Is risking Eppie working with Universal something you would like to add to the multiple choice?”
+
+Davis’ brain buzzed. He needed stronger meds.
+
+“Fred?”
+
+“Yes, Trent?”
+
+“Get the fuck out of my office.”
+
+Sunday. Reedley.The Chapel.
+
+"Curon called me at seven this morning,” Eric’s voice came through the speaker phone. “He's sending a crew. Local audio engineer out of West Hollywood who does public performances, they’ll know how to record Gospel spaces without killing the voice. They'll come on Wednesday. Your contract is drafted: the master belongs to Sony; rights to the Parish; Mio is credited as lead artist; royalties are structured as you specified: church first, then Mio; Sony takes distribution only. You get a smidgen here and there."
+
+The man paused. "Also, just passing on a message… CEO Davis wasn't pleased."
+
+“Has the man ever been pleased?” Eppie laughed.
+
+“Curon said he fought for you tooth-and-nail, on account that he’s your father.”
+
+Eppie pinched her brows. “Right. And?”
+
+“He said that Kellie is REALLY going to give you her thanks as soon as she can.”
+
+“Alright.” Eppie leaned against the church’s exterior. The mass was in progress. Soon, they would perform their new song.
+
+“Is Lafitte alright with how things went?” “She’s completely understanding,” Eric gave her the good news. “She said she’ll be on standby while you work your plan. She’ll track down Simone’s mother for you.”
+
+“She’s a true professional.”
+
+“That she is,” Eric concurred. “Oh, I’ve made copies of the cassette. Lafitte has a copy.”
+
+“You keep the original,” Eppie said. “I’ll use the copies.” “Gotcha,” her lawyer said. “I’ll send yours to your room, discretely.”
+
+“Thanks,” Eppie made a kissing sound for the speaker. “Pass that onto Emily.”
+
+She hung up, turned, and entered the chapel. Everyone was here. Zara, Uncle Paco, Aunt Carmen, Aunt Pilar, and the locals at the bar. The church was bursting at the seams.
+
+As a devout Atheist turned Agnostic, Eppie sat through the service, the sermon, and the jovial moments that made Father Parson so endearing, her head playing the Choral ensemble in her frontal lobe over and over, linked by the synaesthesia of [Perfect Pitch] and [Gospel].
+
+At 930 AM, Father Parson stepped from the pulpit, and the girls and ladies of the Reedley Choir stood from the pew.
+
+Overhead, the new winter light filtered through the old stained glass on the southern window, turning the section with the cross amber. Dust motes turned to gold, and the murmuring sound of voices and clothes shuffling rose to the rafters.
+
+Since Friday, the choir has had forty-eight hours with the song.
+
+They begin.
+
+How could you leave me standing—
+
+Mio's voice soared above the chord structure, taking on a quality that was suddenly enthralling. Here was talent, true talent, not the karmic talent of Eppie Fontaine, but the talent of a natural whose future was robbed by a [Usurper].
+
++ Karmic Causality+ Karmic CausalityAdditional Causality from [Noblesse Oblige] received
+
+Eppie’s assurance of success arrived without delay. Her system registered compounding impacts as each voice of the choir joined the next. Mio led, her voice rising through the harmony with the freshness of a cold winter squall, making their chests vibrate.
+
+When doves——— cry
+
+The chorus filled the rafters. Bodies swayed. The church heaved. Hands conjoined. The women’s voices harmonised. It wasn’t perfect. It wasn’t professional, but it was from the heart.
+
+Sitting in the back pew with Zara beside her, Eppie allowed herself a moment of respite, losing herself in the [Sublime].
+
+So this is what it sounds like… when there’s hope.
+
+As it took five hours to return to the municipality of LAPA, the Prius was loaded, fuelled and ready by 2 PM.
+
+At the entrance of the hotel Basque, Uncle Paco stood in his rolled shirt sleeves, jeans and chaps, as cool as James Dean, if Dean had a face that could hack trees. Carmen was inside, preparing a preposterous amount of food.
+
+The valley was clear on either side. It was a beautiful Sunday. The fields were not as verdant as in late autumn, but here in God-blessed Fresno, they were always one shade of green or another.
+
+“Do you think Mio is going to be alright?” Eppie asked the man resting by the door, waiting for his niece to pack the food with his wife.
+
+“Any man comes to Reedley looking for that girl: chino, gringo, no importa, the orange trees will eat well, as they have eaten well before,” Paco said, in a quiet way that had no emotion, like the man was counting cows in a field. In this moment, if Paco had a giant Machette, he would be a movie icon.
+
+Wow, that’s a little racist. Eppie swallowed her next words. “You’re a good man, Uncle Paco, but er… let’s not shoot first and ask questions later. Did you know there’s like five Chinese restaurants just on the drive through Fresno central… God forbid a Nikkei girl wants some chowmein, eh?”
+
+Zara exited the kitchen, signalling that she was ready to leave by waving bags that looked like dumbbells.
+
+“Well, I guess this is it.” Eppie opened her arms for a big hug.
+
+Paco crushed her into pulp. Followed by Carmen and Pilar.
+
+Then the girls piled into the Prius, ready to return to reality.

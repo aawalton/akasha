@@ -1,0 +1,311 @@
+---
+id: 0794b265-f71c-5073-be15-027d865647ab
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 63 - In the Pines"
+slug: 0110-chapter-63-in-the-pines
+partOf: metaworld-hopecore
+position: 110
+ownLength: 3523
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3546357/chapter-63-in-the-pines"
+royalRoadId: "3546357"
+---
+
+I hate and I love. Why I do this, perhaps you ask?I know not, but I feel it happening, and I am destroyed.
+
+Epigraph: Catullus 85
+
+Saturday. Morning.
+
+Eppie sat in Zara’s Prius, drinking Itziar’s coffee, eating a tangerine from Fresno, and cracking off-colour jokes with her Spanish friend as they sat in traffic.
+
+“You know, I’ve been playing the transition in my sleep,” Zara had kept talking. “I still can’t believe Antonio Vargas will be playing with us. That’s insane, Eppie.”
+
+“Is he as good as Paco?” Eppie asked.
+
+“Is he…” Zara coughed. “Don’t let uncle Paco hear this, but in technical terms—and in commercial terms—yeah. He’s better.”
+
+The 405 gave way to the streets, then Culver City's sound stages, bungalows, and palm trees. Eppie had been here before. The guard at the gate recognised her, and they were let in with big smiles and hat-tips.
+
+"Here?" Zara said after Eppie gave her an impromptu tour.
+
+"Yep. Stage 15. The Julian Johnson."
+
+They parked and walked.
+
+Mueller was already inside when they entered the rear suites via the side doors. As a German maestro audio technician, he considered punctuality more important than his artists' lives. He wore his signature spectacles, this time in gold, and he was adjusting the SSL board when they came through the door.
+
+There were two assistants with him. A Dwayne and a Pete. The young men were very much surprised by Eppie’s stature, and after a polite hello, they invited Zara to tour the setup. Clearly, the five-seven, leggy, bright-eyed Señorita with her midriff out mid-winter was the FMC—and not the five-one blonde in the mono-colour cardigan.
+
+Mueller snickered. “Should I tell them you’re the front man?”
+
+“Naw…” Eppie took a seat on the leather couch. “We’ll need to explain everything to Zara anyway. At least this way, she’ll be less nervous.”
+
+The next to arrive was the coolest cat in all of Culver City, a man who Eppie loved because he was only marginally taller than her.
+
+“Ladies and gentlemen,” he greeted the room, then herself. “Miss Fontaine. Your bassist has arrived.”
+
+“Tony!” Eppie rose from the seat like a vampire, impressing them all with her body control.
+
+They hugged.
+
+Antonio laid down the infamous guitar case. “Eric Gowler sends his regards. He said he would very much like it if the song could be made with Chad’s guitar.”
+
+“Oh…” Eppie felt a swell of emotions at the thought of that fabled unplugged concert. “I would be honoured.”
+
+“You should be,” Antonio hefted another case for the gofers. “I’ll be on the bass. You’ll be on the Martin D-35…”
+
+While Eppie tuned the legendary guitar with trembling fingers, Antonio and Zara jammed in the recording room, working out the kinks and feeling out one another’s habits.
+
+In the mood lighting, Antonio looked cool as all hell, thanks to his snake leather catching the studio light.
+
+Zara had gone in first, unpacking her guitar with the economy of someone used to cramped rooms. She sat on the stool they had set for her, plucked two open strings, listened, and tuned neither. Antonio came in behind her carrying nothing. His bass was already on its stand. He picked it up the way a rally driver picks up his keys.
+
+From Eppie’s POV, the real musicians were worlds apart from her. They had not borrowed [Traits] from the “powers that be.” She was an impostor, while Zara and Antonio were true acolytes who drank from the fount of creative passion.
+
+The pair did not speak with words. She watched as Antonio played a low and slow bassline. It rang out, smooth and unrushed. Mueller had left the audio channels open so that they could still talk if they wanted.
+
+Zara’s head tilted, not toward the player, but toward the notes. Her body seemed to be counting something, then her thumb dragged slow across the strings.
+
+Antonio answered it with a question of his own, lower, further back in the key.
+
+Eppie's fingers tightened on the Martin's neck. She wanted to join them, but she didn’t know where to start. The [System] wasn’t that kind. Her [Persona] was… an exquisite tool, much like this Martin D-35.
+
+The guitarists in the studio began to jam in earnest. No sheets. No plans. Just pure, unadulterated vibes.
+
+Zara played a run so clean it sounded rehearsed. Antonio locked underneath it without announcement. No count-in, no nod. His fingers danced, and the floor appeared under Zara's feet as she swung that red dress, her heels tapping across the ballroom floor.
+
+The two were in sync. Their sync improved. Ten minutes in, they achieved a union that took Eppie three months.
+
+Her [Sublime] threatened to trigger, but Eppie fought the feeling because she was here to learn, not to enjoy. How could she find that same trust, that same confidence? Or was she asking too much? The cost of such talent must be astronomical.
+
+Tuning the D-35, she acutely felt the vertigo associated with the activation of [El duende].
+
+She thought about Chad Lain. About the fact that this guitar had been in the room when Human Animals was written, that it had been played by hands that would have loved a session this natural, this organic. Chad Lain wrote Human Animals as an act of refusal against depression, alienation, and material glut. He was anti-establishment, and yet the music kept piling fame and money on Lain until he had only one way to protest against the fans who had co-opted his personal pain into a commercial phenomenon.
+
+The D-35 felt warm against Eppie's thigh. She had chosen a short skirt because she had played with William in one, and she wanted to channel that same feeling.
+
+[- 3730 Causality]
+
+JESUS CHRIST. Eppie stood up so fast she almost dropped the guitar.
+
+“Nervous?” Mueller said, not looking up from the SSL deck.
+
+Eppie didn’t know what to say. What she did know was that she would very much like to find out what William was doing to reduce her reserves by almost one eighth.
+
+“Yes, I am nervous,” she told the truth by lying. Just in case, she texted Lim and Simone.
+
+The texts came back clean. She relaxed.
+
+Just what the hell had happened?
+
+Antonio listened to the final four bars while nodding.
+
+When the young lady finished, he was quiet for a moment, cataloguing rather than receiving. His hand had not moved from the body of his vintage Fender Precision.
+
+“Soleares,” he said to the girl with the pretty eyes. “I can hear the style. Who taught you?”
+
+“My uncle,” the girl said. She was sweating, but she was happy. “Francisco Arriaga. He goes by Paco. He runs a hotel in Fresno—Hotel Basque.”
+
+Antonio searched his memory and found the likeness of an older musician, one with a face that only a mother could love.
+
+"Paco Arriaga?" he said. “I know this name.”
+
+“You do?” the girl blinked.
+
+“Of him, not in person. A few years ago, I was on a session at the Capitol in Hollywood. My partner was a young guitarist from Bilbao, and he played a soleares run that was very heartfelt and unique. I asked him where he learned it.” He paused. “He said from a Basque man in Fresno, a true artiste. He showed me a picture.”
+
+The girl looked upon him with admiration.
+
+Antonio decided to repay that admiration. “The soleares your uncle plays is from Lebrija originally, the Cádiz lineage. The old masters brought it north through the migration routes, probably two generations back. The Basque Country absorbed many Andalusian workers during the industrial years. The music came with them.”
+
+He smiled at her. “Yes. Soleares has history, Mija.”
+
+Zara’s lips trembled. Antonio laughed to diffuse the tension. He decided to give the girl another musicology lesson—the kind that Eppie would never understand, because the white girl played like a finely tuned automaton, even as she sang like a siren.
+
+He ran his thumb down the cedar guitar's strings without pressing, just feeling the resistance. "The soleares is the oldest palo. Before everything else was codified. It existed before siguiriyas, before bulerías. At its core, it's not… codices. It was men trying to find expression." He pressed a chord. "Where I come from, we did something different with that seriousness."
+
+“Catalonia,” the girl said.
+
+“Barcelona.” He played something, a single bar, rhythmically nothing like what Zara had played. The thumb hit the bass, and simultaneously his fingers rasgueadoed the treble, resulting in a percussive, bright rhythm with a Caribbean undertow. "Rumba catalana. Its origins came from the ocean. It belonged to the Roma communities in Gràcia. You want to try?”
+
+“Yes!”
+
+His student played Antonio’s tune. The guitarist listened with his head slightly tilted, tracking something beneath the notes.
+
+He adjusted his thumb position.
+
+And then he came in, running underneath her notes, his rumba rhythm as a counterpoint to the soleares' gravity. The effect was strange and immediately interesting: her descending weight against his horizontal momentum, the two musical grammars of Spanish history parsing each other without resolving.
+
+Zara's eyes lit up.
+
+She didn't stop. Neither did he.
+
+They let it run until it found its own stopping place, with Zara settling into a long final chord, Antonio hitting the bass once, then leaving the music to fade.
+
+“Beautiful,” Mueller's voice came over the intercom. “But practice is over. I am sending in the amateur. Eppie, you ready?”
+
+Their singer dropped her phone on the coffee tray, then cradled the D-35 with reverence. “Alright. Let’s do this.”
+
+The red light came on. The session room grew dim.
+
+Zara’s tune led them deep into the pines at sunset.Antonio’s bass set the tone for the heaviness of the rain.Eppie provided the shivers, then opened her throat with [Causality] on full burn. [Songstress], [Vocality], [Charisma], [Perfect Pitch], [El duende] fired all at once.
+
+My girl, my girl, don't lie to me.
+
+The booth was sensitive enough that she could hear Zara breathing between chord changes. Antonio's bass sat so low in the mix that she felt it as a pressure behind her sternum. Without [Perfect Pitch], she would not even notice his participation. Yet, if Antonio was missing, the entire texture of the song, its earth-toned colours, would be completely off-balance.
+
+I'm going where the cold wind blows
+
+Zara shifted, and something changed. Her strumming hand dropped slightly, the angle changed, and the tone darkened. Antonio heard it and answered. Her [Sublime] fired back in full force.
+
+In the pines, in the pinesWhere the sun don't ever shine
+
+Eppie saw herself standing among the pines. She was shivering and afraid. Her hands were covered in blood, as was the slip of a rag she wore that made up the only clothes she owned.
+
+The taste of iron was in her mouth. The hotness of the violence was still warming her hands, even though the sour breath of her assailant had dissipated some miles away.
+
+The rain fell, and the final chord rang out.
+
+I would shiver the whole night through
+
+Nobody breathed.
+
+Then Mueller’s voice boomed like the voice of God, echoing through the woods. “Again.”
+
+Saturday. Afternoon.
+
+The Sanders Estate did not employ a permanent housekeeper because Senator Sanders was rarely home, and even if he was, he preferred the rare moment of privacy over the chatter of staff. Ergo, Valorie Sanders hated the Gothicness of her family's home and the fact that it was still filled with pictures of her late mother in her prime.
+
+Reasonably, any father who gave enough of a shit about their children’s mental health would have removed the portraits. Unfortunately for Valorie, her mother had never returned from the oncology ward, and Senator wasn’t home often enough to make an issue of it, so Valorie had taken up residence in the detached guest house.
+
+When she started attending LAPA, Marcus Teel, on orders from her father, began to visit. After her Freshman year, she chose to either stay on campus or with William, just to get away from the slimy bastard.
+
+Therefore, when the doorbell rang—something that had never happened in the last three years—Valorie dazedly walked downstairs, oblivious in a loose shirt and shorts, her makeup almost done, opened the door, and found her boyfriend of three years with a giant bouquet of roses.
+
+Two weeks ago, she would have squealed with delight. She would have hugged him, and then, maybe, right there beside the door, she would kiss him.
+
+She did neither. Valorie could see the desperation in William’s face, and she felt both validated and liberated, for the truth had been taking a toll on her beauty sleep. That, and she had a show to attend with Francis Sanders. It was a musical. Perhaps, Valorie felt, that was enough.
+
+On his last campaign stop, when they had dinner, he had asked about her Senior Project. She told him about Titus Andronicus, and Francis had been worried, very worried, about the role she chose. Instead, she told him that Mrs Tyker was presiding, and that the sensitive subject would be covered both tastefully and artfully, in award-winning ways.
+
+Her father sighed, but then he said, “Fine. I trusted your judgment.”He agreed to watching Spring Awakening with her, to see how Tony Award winners dealt with the same themes.That night, Valorie had slept like a baby.
+
+The next morning, she had given Simone the MacBook, and in outdoing Euphemia, she had felt such a rush.
+
+Comparatively, William, with flowers at the doorway, looking penitent, wasn’t that interesting to Valorie. She knew what he was doing, he knew what he was doing, but all she felt at this moment was the unhappiness of being burdened.
+
+It was selfish—but she wasn’t ready to face Mio. She still couldn’t imagine herself confronting Luciana and saying, “I am sorry. I didn’t mean it. I didn’t know he was a monster,” because it sounded silly as hell.
+
+“Val—” William pushed through the threshold, the flowers making headway toward her.
+
+“Stop right there,” she said coldly, blocking his entrance with her body.
+
+William halted. He usually wouldn’t, but there was something in her voice that gave her boyfriend pause, a tone that only a Senator’s daughter could wield. An imperious presence that told the young man that she could not be pushed around like his other girls.
+
+She reached for the door. He reached for her. William’s hand was around her waist before she knew, and the first thing she felt—before the anger, before the revulsion—was its warmth. His hands were always warm. She had noticed it the first time he held her, at sixteen, after the performance of her life, and she had felt safe and happy and giddy. Three Years. It was a lifetime for a high school romance. Marriages among the teachers had lasted less than their dating history. Her body buzzed. She could feel its yearning. She wanted to lean into William, a motion that was near habitual.
+
+“I did it for you—”
+
+His words were warm water welling up in her chest. The disgust threatened to subside.
+
+“Liar,” she snapped, the sound of her own voice shocking to her unwitting body.
+
+“Val, look at me.”
+
+His eyes were long and fine, elfin almost, his lashes thick enough to look like mascara.
+
+“Everything I did,” William’s voice was hoarse. “I did while thinking of you. She was going to take everything away, all your hard work. Your father would be so disappointed.”
+
+Valorie suddenly felt sick. The manipulative bastard.
+
+“You’re such an ass,” the word came out harsher than she intended.
+
+“If an excess of love is fault, then—”
+
+She glared at him.
+
+She felt the loathing pass through her, clean and cold and clinical, and underneath it, like a water table, her desire for warmth. The two seemed inseparable, and this oxymoronic sensation frightened her. Eppie was right. Something was terribly wrong here.
+
+“I know what you did to Mio,” she allowed the accusation to land like a punch.
+
+William stared at her, as if digesting his new information. Then he smiled disgustingly, his handsome face caught between guile and manic desperation.
+
+"For you, I would do it again.”
+
+BUNG—she slammed the door. The solid oak door that weighed a ton. William withdrew his hand the split-second before his fingers were caught. The oaken panel sliced the roses in half, scattering them all over the floor like a gory carpet. Valorie stood in the corridor, her body shaking, panting, because she couldn’t believe that she had just done it.
+
+She had to grip the railing for support.
+
+That was the singularly most shameless, insane shit—
+
+Ding— DING—Her phone buzzed.Valorie was about to hurl the hated thing from her when she realised that it wasn’t William texting behind the door.
+
+She thumbed the screen open.
+
+Saturday, 12:47 PM
+
+Dearest Valorie
+
+I'm writing on your father's behalf regarding this weekend. Given the developments regarding the Tule Lake designation as a new Memorial Monument at the behest of the President's office, the Senator will be meeting with senior staff and JACL community representatives from Saturday through Sunday. He has asked me to let you know that he will need to cancel all his prior arrangements, including yours.
+
+This includes dinner on Saturday, the Saturday evening programme, and breakfast Sunday morning.
+
+He asks that you understand. He will be in the Tule Lake Internment Camp. The matter is a solemn one, and the Senator feels it best to keep the weekend focused. He will be in touch when his schedule allows.My apologies for the short notice.I know how much you were looking forward to dining with Senator Sanders.If you wish, I am more than free to take you to Spring Awakens myself.P.S: The Senator says don’t anger anyone Japanese, 🤓.
+
+— M. Teel
+
+Valorie suddenly felt as though low on blood sugar. Had she eaten, she would have hurled like a kicked cat. She knelt on the floor, her knees smearing the petals into the plush carpet, feeling suddenly disembodied.
+
+The iciness of her torso and the hotness of her face made her dizzy.The January cold penetrated through her shirt, through the silk beneath it, into her skin.
+
+The door quietly closed behind her. It wasn’t as though she had locked it. Not to mention, William knew the PIN code.
+
+The young man didn't speak. Her boyfriend stood there like a whipped dog, holding a fucked up bouquet of roses, waiting for her to say something. He was tall, taller than her father, and he was right there, and her father was gone somewhere she did not care about.
+
+A part of her searched for the disgust, and was shocked by its absence.
+
+“Val,” William’s voice was deep and hypnotic. “I did it for you.”
+
+It stirred something in her, calling up warmth where the cold now permeated. Her fingers were tingling, as were her teeth.
+
+He leaned in.
+
+She leaned in.
+
+His hands moved around her shirt—then under her shirt, as if he had known the exact moment, as if he had been waiting for the exact angle of her surrender. Like a princess who had found her knight, she pressed her face into the warmth of his shoulder while his sword-hand cupped her heart like a grail.
+
+Click—
+
+The door closed. The roses were forgotten on the floor. Valorie’s nostrils filled with William’s cologne, and then—
+
+“Val—ARRRRRRRUGH—!”
+
+She bit him. She bit him hard enough to make her jaws ache.
+
+William tried to push her away. He twisted her arm. He slammed her against the wall, hard enough to fissure the plaster, for such was the vengeance she exacted upon his traitorous flesh.
+
+She hated him so much.
+
+She held on.
+
+And in her forgiveness, between her pearly teeth, William screamed like a man covered in lime and sulphur.
+
+When finally the sun set, there were roses everywhere. Petals and blood, scattered stems and a pair of soiled shirts lay on the floor. There was blood on the bannister, blood on the door. Blood was on her cut lips and drying against her teeth. Her intimates were in the Steinway, ruined like herself.
+
+William was in the bathroom, disinfecting himself. After six hours of cardio, the man was in dire need of antibiotics.
+
+Valorie lay splayed on the floor of the study, the room closest to the front door, her newly acquired fever pounding her head with soft hammers that came on like a drumline.
+
+She thought, Could Mio ever forgive someone like me?
+
+She thought, Am I the worst person to have ever lived?
+
+She thought, Was that the worst thing I have ever done?
+
+Then she stopped thinking. Valorie Sanders, sticky and sick with the taste of iron in her mouth, started to sing.
+
+In the pines, in the pinesWhere the sun don't ever shineI would shiver the whole night through
+
+Ha! She could sing it as well as Eppie!Valorie laughed, then she coiled her body until she was foetal, panting from the pain. She would channel this, Valorie told herself. She would channel this rare and exquisite feeling into Lavinia.

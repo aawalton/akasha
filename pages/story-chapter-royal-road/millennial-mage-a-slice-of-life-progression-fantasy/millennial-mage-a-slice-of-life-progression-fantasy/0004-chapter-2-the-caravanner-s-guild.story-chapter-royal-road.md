@@ -1,0 +1,257 @@
+---
+id: e2d89a5c-98f2-57bb-a44f-9d9acc5a7e38
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 2 - The Caravanner’s Guild"
+slug: 0004-chapter-2-the-caravanner-s-guild
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 4
+ownLength: 3774
+unit: words
+ownProgress: 3774
+publishedAt: 2021-10-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774056/chapter-2-the-caravanners-guild"
+royalRoadId: "774056"
+markedReadAt: "2026-06-29T19:35:25.433Z"
+---
+
+Tala took a deep breath as her feet carried her through the front door of the Caravanners’ main office.
+
+The doors were simple, if wide, and they stood open, allowing for easy foot-traffic in and out, of which there was a steady flow. The arch which held the doors was easily wide enough for four people—five of Tala’s size—to come through shoulder to shoulder, with a bit of room to spare.
+
+The room she entered was a wide receiving hall, with clerks working in alcoves around the outside, as well as some more senior workers moving through the shifting groups of their prospective clients.
+
+Here, almost every business was represented.
+
+Restaurants negotiated food shipments either for more specialized crops not grown within this city or beginning to establish contracts for when the city’s farming phase ended; artisans similarly negotiated for materials and to ship their goods to other cities; and countless others sought or negotiated similar services.
+
+The Caravanners also carried mail from city to city, along with other goods, and they did a brisk trade in that respect.
+
+In truth, this guild was one of the pillars of human civilization. They were unique in the quantity and regularity of their ventures through the arcanous wilds. Only the Builders dealt with beasts more often than the Caravanners, and they didn’t do trips through the wilds so much as they fielded vast, long-term expeditions out into them, building the continuous wave of cities. Well, there was the Harvesters’ Guild, but their goal was slaying beasts and taking from them, so it was hardly a fair comparison.
+
+She returned her mind to her present time and place. There is power within these walls. She felt a growing sense of excitement at the prospect of working for such an important group.
+
+She had barely taken five steps through the door before she was noticed by a clerk with copper and silver spell-lines covering her face, clearly focused around her eyes. “You! Mage. Can I help you?”
+
+Tala smiled and strode over to the young woman, where she waited behind a high counter. The clerk was not wearing Mage’s robes, opting instead for a simple, if elegant, single-piece dress. It allowed her freedom of movement, without being a distraction for those she worked with. She had long, dark-blonde hair, pulled into a loose braid. Tala almost frowned at that. I’m seeing a lot of inscribed with hair. Is there something different about the inscribers in this city? Now was hardly the time for that line of thinking, however. Tala smiled. “Yes, I am looking for work.” If Tala had to guess, the clerk was only a few years older than she, herself.
+
+The woman nodded. “I’d hoped so. May I?” She tapped the scribing around her eyes.
+
+Be decisive. Tala nodded once.
+
+The clerk blinked, seemingly with specific intent, and her spell-lines pulsed with power.
+
+As before, Tala’s keystone let her know that she was in close proximity to, or the target of, magic, but the feeling wasn’t unpleasant. A simple inspection.
+
+As before? She had the stuttering impression of blood and darkness but couldn’t pull a coherent memory together. Must have been a bad dream. She dismissed the fractured recollection without further thought.
+
+To Tala’s unenhanced eyes, the effect on the clerk’s face looked very similar to a heat haze, though with a little more light to it. Even that indication was a vast improvement on what Tala had seen before her time at the academy. My body is acclimating to magic detection.
+
+Her instructors had said that, in time, she wouldn’t need to continue getting inscriptions for the magesight at all. Her body would learn how to see the signs for itself, and her mind would interpret the input in ways that mimicked the spell-line-granted vision.
+
+It was, in truth, another thing those teachers didn’t truly understand, but they likened it to a skilled merchant learning to know weights and measures without the need of a scale over time. He could simply pick up a sack and know the weight of its contents. No magic involved.
+
+Tala had always been skeptical, but it seemed she might have been wrong, again. The tell-tale signs were there. It would be nice to forgo that expense… Magesight was so often used that the inscriptions around a Mage’s eyes were almost always the most often refreshed.
+
+She was letting her mind wander, again. She focused back on the clerk, just as the woman nodded and blinked again, deactivating her magesight.
+
+“Yes, you will do nicely, Mage. Indications suggest an intact keystone.” She smiled widely. “You must have had quite the run of bad luck to so completely deplete the rest of your inscriptions; I can’t detect even a single ripple of non-natural magic from anything except your keystone.”
+
+Tala laughed, nervously. “Yeah, well. I’m alive, and here, so…” She smiled, trying to put forward confidence. So much for being able to decide whether or not to be considered a Mage… She hadn’t considered a magesight inspection this early in the process. More the fool, me.
+
+The clerk waved a hand. “I don’t need the details. You are an Immaterial Guide, yes?”
+
+“Yes…” Tala cleared her throat. “I apologize, but I didn’t catch your name.”
+
+“Oh! How silly of me. You may call me Lyn Clerkson.”
+
+“Mistress Lyn, a pleasure to meet you. I’m Tala.”
+
+“Tala…?”
+
+“No family name.”
+
+“Mistress Tala, then.” Lyn smiled.
+
+Tala extended her hand.
+
+Lyn shook it happily. As she did so, her sleeve pulled up, and Tala was able to get a better look at the extensive spell-lines twining about Lyn’s forearm, wrist, and hand. So, a full Mage? Or she was just more heavily inscribed than the non-Mages Tala was used to.
+
+“Are all the clerks here Mages?”
+
+“Oh, no. I’m one of the Senior Exchequers, here. Specifically, I’m in charge of the recruiting and handling of new recruits.” She made a motion with her arms that mimed excitement. “Yay! Right? I’m glad I was here when you wandered in.”
+
+Tala blinked at Lyn several times, trying to figure out what to make of the girl. “Yeah. I suppose I’m glad, too.”
+
+“So, have you ever empowered bigger boxes?”
+
+She blinked several times, trying to make sense of the question. “What?”
+
+“Apologies. That’s how I always think of them. I mean have you ever empowered spatial enlargement scripts? Not many Mages have, outside the Caravanners’ Guild, but I figure it’s good to ask.”
+
+“Oh! You mean expanding the available space within a given container?”
+
+Lyn brightened. “Yes! Do you have experience?”
+
+“Some, but not on any large scale.” The idea had fascinated Tala enough that she’d pestered a teacher into giving her extra lessons and materials on the subject. Even so, she’d only empowered the spell-lines involved a few times.
+
+Lyn’s smile grew, genuine excitement evident in the expression. “Oh, that’s just wonderful! Teaching new Mages how to twist their mind ‘just so’ can be a… time-consuming process.”
+
+Tala nodded in acknowledgment. “Yeah, it took me nearly a month before I was able to get past the mental blocks.”
+
+Lyn laughed, and her tone took on that of someone quoting an oft-heard refrain. “If you don’t believe it’s possible, it isn’t.”
+
+Tala smiled in return. I just might like working with you, Lyn.
+
+“But only a month? That is quite quick!” She paused, then cleared her throat. “You don’t have to answer this, but I have a pet theory I’d like to test.”
+
+Tala tilted her head, curious herself. “Oh?”
+
+“Did you have any background in physics or geometry before your first attempt?”
+
+She laughed. “No! And having spatial distortion theory in my head definitely made those harder to tackle.”
+
+A small, knowingly contented smile tugged at Lyn’s lips. “I’d thought so! It always seems that the more ignorant Mages are able to master more obscure aspects faster.” She paled, her smile faltering. “I am so sorry! I didn’t mean—”
+
+Tala held up a hand, grinning. “No harm meant; no harm done. I was ignorant.”
+
+Lyn cleared her throat. “Even so. I apologize.” She took a deep breath and let it out quickly. “Now, then. We really should get to business. Are you looking for work on your way to a particular city, work within this city, or were you hoping for a longer-term contract?”
+
+Tala’s grin slipped back to a casual smile. Her research had not been in vain. Once I’ve enough to fund my own inscriptions, I can just do piecework to get between cities. That would leave her free to do as she pleased… Once my debts are paid off… Her smile weakened, just slightly.
+
+“Longer term is better paid, and we do offer signing bonuses for certain contracts, and an Immaterial Guide with spatial distortion experience is definitely in that wagon!” After a brief pause, she added, “At least for certain contract lengths.”
+
+“What is the shortest contract with a signing bonus?”
+
+“Hmmm… Let me see.” She pulled out a stone slate and began manipulating the text on the surface, seemingly flipping through magically stored pages. “It looks like, for your quadrant, we can offer a contract of one year or ten trips, whichever is completed sooner. You are obligated to take a minimum of one trip every other month, including within a week of first signing.”
+
+“And the rate?”
+
+“Four ounces per trip, and the signing bonus is four ounces.”
+
+Tala deflated. One ounce of silver would buy a good meal, but not much more than that. That was lower than an average worker’s day wage, and she doubted the trips only took a day. How do people survive on so little? “How often could I take trips? Is there a minimum waiting time?”
+
+Lyn blinked, seemingly confused at Tala’s dour tone. “No… but even the shortest trips take nearly a week, and most Mages like to have time to spend their earnings in whichever city they arrive in. That, on top of getting re-inscribed and allowing any change to the scribings to set… I’ve known very few to make a trip every month.” She wobbled her head slightly, seeming to hedge. “Well, excepting those who do ‘out and back’ work. Those tend to do two trip blocks, then take longer breaks in between.”
+
+“Time to spend…” She was frowning.
+
+Lyn opened her mouth in an understanding ‘Oh!’ “Apologies, again, Mistress Tala. Four ounces gold.”
+
+Tala found herself frozen in surprise. Four ounces… gold. An ounce of gold was a hundred times as valuable as one of silver. Yeah, a month to relax after each trip would be quite nice. That, and her debt to the academy, on top of her parents’ debt… Now, also mine… was 487 ounces gold, twenty ounces silver. One hundred twenty-two trips. Ten years. She’d been expecting the debt to follow her for her entire life unless she found alternate means of paying it off. I can make ten years work. Though, she wasn’t accounting for expenses.
+
+Lyn quirked a questioning smile. “You haven’t done much contract work, have you? You don’t seem to have a good idea of your value.”
+
+“Clearly not.” No one had been willing to give her solid data.
+
+“Well, that is our fault. If we advertised better, maybe we’d have gotten you in here sooner!” Her smile firmed up. “And I can assure you, with as well-traveled as you’ll be after even a short contract, we wouldn’t dream of underpaying you. We’d never hold onto Mages if we tried that.” She gave a little chuckle.
+
+Tala nodded distractedly, not really hearing Lyn’s continued dialogue. “Maybe… Is there a slightly longer contract available? Could I negotiate better rates for two years or twenty trips? A higher signing bonus? Oh! And after the contracted trips, what is the piece job rate, going one way?”
+
+“All great questions. If you aren’t on a contract, and we have a caravan in need of a Mage of your type, your rate would be three-and-a-half ounces gold, though that can vary slightly from trip to trip. For a three-year, twenty-trip contract, the best I can offer is a trip rate of four-and-a-half ounces, with a one-trip-value signing bonus.”
+
+Ninety-four-and-a-half ounces gold… Tala was speechless. Even with her inscriptions, that should cover over a sixth of her debt, with some to spare. She thought she had a good guess of how much her spell-lines would cost. She hesitated.
+
+Lyn’s smile grew. “It won’t increase the signing bonus beyond four-and-a-half ounces, but if you sign a five-year or thirty-trip contract, I can give you five ounces per trip. You won’t be as free to choose your destinations, as those rates are a bit too much except on more lucrative runs.”
+
+“What about frequency?”
+
+“There are many of those leaving every week, but they tend to be a bit longer, closer to two weeks on average.” She hesitated. “I should be clear, even at the lower rates, the trips will range from one to four weeks. You could always choose the shorter trips, but that is frowned upon—as you can imagine. We try to give as much freedom as possible, but we don’t like to see that abused.”
+
+Tala nodded. Five years. She hesitated. No, thirty trips. Each around two weeks… She could fulfill her contract in less than half the prescribed time. Just about thirty percent of my debt gone in a year and a half, in one contract? That’s a great start, Tala. She grinned. “I’m interested in a thirty-trip contract, but let’s talk terms. What all is provided on the trips? Do I need to bring my own supplies, shelter, gear? What expenses should I expect to bear, and what ancillary support will the guild be providing?”
+
+Lyn’s smile turned slightly predatory. “Let’s see what we can work out.”
+
+*         *          *
+
+Nearly two hours later, Lyn and Tala sat across from each other in comfortable chairs, sequestered in a back room of the Caravanner’s headquarters.
+
+Empty mugs of tea stood on the table between them, alongside a contract.
+
+“Here.” Lyn turned the scripted stone tablet around, passing it back to Tala. “I think this represents everything we’ve agreed to.”
+
+The text was not written on the stone, though it seemed to be. The words were manifest there from the contract archive, and once Tala willingly put a drop of her blood to the slate, with the intent to confirm the agreement, it would be logged as officially binding. Lyn had already placed her own blood in one corner, using a small, sharp protrusion on the tablet, in place for that purpose.
+
+Tala scanned the document quickly. It outlined a statement of her own qualifications; those that were verified within the system, such as her certification as a Mage, were highlighted, while those based on her word were set apart. The wording, and the magic in the contract, would annul any obligation from the Caravanner’s Guild if she had been false. Indeed, there were steep penalties if that were to be the case. Thankfully, she’d avoided any falsehoods.
+
+Beyond her own merit, the agreed-to payments were outlined, along with other restrictions and benefits.
+
+She was required to have a certain level of preparedness before accepting an assignment, as well as to modify her preparations to meet any specific requirements for the given trip. She would additionally be granted food for the duration of any voyage. She had forgone the standard offerings of an attached servant, to manage the day-to-day responsibilities, and a private wagon for her personal residence while outside city walls.
+
+Her magics, once she was reinscribed, were mostly bent towards survival, so safety shouldn’t be a concern. As to the convenience of it, she could bear a little discomfort to pay off her debt more quickly.
+
+That in mind, she’d negotiated for greater pay in exchange for less convenience and a bit more danger.
+
+Thus, the agreed to per-trip payment, as well as her advance, had been raised to five-and-a-half ounces gold, and she would not be limited to the high-value or longer missions. Apparently, most Mages expected a luxuriously appointed carriage and highly skilled servant, and Tala had gotten Lyn to admit that those items easily cost the guild upwards of one-and-a-half ounces gold per trip. Thus, Tala was offering them a bargain.
+
+Everything on the contract was, indeed, as they’d agreed, and it was written with plain, easy-to-understand language, as Common Law demanded.
+
+Tala pricked her finger on the sharp nub, and it retracted immediately after.
+
+With an effort of will, she allowed her gate to open, and magic flickered through her body, infusing her blood just as she touched the cool stone. The drop of blood that had been building on her finger vanished into the stone, and the tablet turned a pleasant, emerald green, denoting full confirmation.
+
+Without an inscription to direct and release its power, the magic still flowing through her left Tala with a nervous energy. She wanted to get up and run. Her keystone didn’t help, as it wasn’t meant to use up excess power.
+
+Lyn had been watching the contract, and when she noted the change to green, she smiled. “Your consent, as well as your words, have been accepted.” She looked up at Tala. “Welcome!” Her smile spread with genuine enthusiasm. “I’m so glad that you came to us.” She tilted her head, seeming to consider for a moment. “Do you have an inscriber in the city, yet?”
+
+Tala thought about Phoen’s friend, but she didn’t really know them well, so she shook her head. “No.”
+
+Lyn’s smile seemed to settle into one of satisfaction. “I figured not. Now, no self-respecting inscriber would dare get handsy with a Mage of our guild, but I know of one who’s better than average.”
+
+Tala… hadn’t thought of the issue of finding an inscriber herself. She nodded gratefully. “Thank you. Are they your inscriber?”
+
+“She is, yes.” Lyn nodded. “Though it’s one of her apprentices that does the work on me, directly. She’ll have closed up for the evening, but I know where she likes to grab dinner. We can join her if you’d like, and if you two get on, you can have your spell-lines inscribed tomorrow.”
+
+Tala’s eyes flicked to Lyn’s hair. Though it was held up in a utilitarian style, it was clearly quite long. Even so, Tala thought she saw hints of spell-lines among the roots, confirming her suspicion that something was different about this city’s inscribers. A smile tugged at her lips. “That sounds like a great plan.” She hesitated, her smile faltering, but after a moment’s indecision, she decided to push forward. “When would I get my advance?”
+
+Lyn’s smile shifted, again, becoming a knowing smirk. “We can grab it for you on the way out. I’m off anyways.”
+
+“Oh! I held you up?”
+
+Lyn waved away the concern. “Not really. I always have to finish up my work, regardless of the time. Today? Getting this contract worked out was the priority.” She stood, smoothing out her simple dress.
+
+For the most part, Mages’ robes had quick-release ties so that the Mage could shed the garment with speed. Most Mages expressed their power from many locations, so cloth coverings added difficulty and expense when the spells breached the cloth to escape.
+
+There was also the danger, in more restrictive clothing, that a garment could pull the skin in an unexpected manner, altering a Mage’s spell-lines in unexpected or dangerous ways. The net result was that most Mages wore as little as they could manage while casting and covered themselves with Mage’s robes in between such workings.
+
+Tala… well, she ascribed to a different philosophy of casting. She ensured that the manifestations of all outward expressions of power originated from her hands. It was a weakness if she were ever truly hampered, but she’d seen that as an acceptable tradeoff.
+
+Lyn’s own choice of a simple dress spoke volumes about her life, as well as her work as a Mage. She did not expect, or have need, for quick, complicated castings, nor did she seem to have any concern about having to remain mobile. In short, she led a safe life.
+
+“Tala?”
+
+“Hmm?”
+
+Lyn was standing, half turned away, seeming to be waiting. “Are you coming?”
+
+“Oh!” Tala stood in a rush. She’d allowed her mind to wander, again. “Yes. Let’s go.”
+
+Tala followed as Lyn led her through the now mostly empty main hall of the guild. They came to a small counter, tucked into a back corner, where an unlined clerk asked Tala for a drop of blood.
+
+The clerk confirmed her contract and that money was owed. He frowned when he saw the amount, and Lyn was forced to take him aside for a quick, quiet conversation. Apparently, no one had received a signing bonus as high as Tala’s during his time working this station.
+
+Finally, he was satisfied, and he presented Tala with a small pouch of coins. She counted it, at his prompting, and when she had verified the amount, he marked her as having been paid. That complete, he hesitated. “I know it isn’t my place, but may I offer a word of advice?”
+
+Tala had already begun to turn away but hesitated at his question. “Umm… sure? I’m happy to learn, where I can.” As she responded, she’d turned back towards the middle-aged man.
+
+“Always count your pay. No one should ever try to short you, but mistakes happen, and after you confirm receipt, even the best-intentioned pay clerks can’t give you more.”
+
+She contemplated that for a long moment, then nodded. “I see.”
+
+He quirked a smile. “If anyone gives you grief for counting, it is reasonable for you to remind them that you are giving your word that you received the full amount. The only honorable thing for you to do is check before so swearing.”
+
+She smiled in turn. “Clever. I’ll remember that. Thank you.”
+
+He gave a small bow. “Welcome to the guild, Mistress Tala.”
+
+She gave a nod in return. “Thank you.” She hesitated. “I’m sorry, I didn’t catch your name.”
+
+He blinked at her a few times, then looked down at his tunic.
+
+Tala followed his gaze, then flushed. A small wooden placard was affixed on the left side of his tunic’s chest, his name clearly written out in white lettering.
+
+He cleared his throat. “You can call me Gram.”
+
+“Gram… A pleasure to meet you.”
+
+He quirked another smile. “And you, Mistress Tala.”
+
+Lyn let out a small laugh, leading Tala away, across the hall, and out the doors.

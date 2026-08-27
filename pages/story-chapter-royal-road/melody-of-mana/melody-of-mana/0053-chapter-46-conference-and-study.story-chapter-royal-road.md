@@ -1,0 +1,117 @@
+---
+id: 182c4549-4619-5850-9fb0-da3adc75b677
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 Conference and Study"
+slug: 0053-chapter-46-conference-and-study
+partOf: melody-of-mana
+position: 53
+ownLength: 2062
+unit: words
+ownProgress: 2062
+publishedAt: 2021-09-21
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/754496/chapter-46-conference-and-study"
+royalRoadId: "754496"
+markedReadAt: "2026-06-29T22:28:01.656Z"
+---
+
+I was fuming as we left the temple, hands clenched so tightly that my nails bit into the soft skin of my palms. None of us talked as we went, the bishop having sent us out. For a brief moment I thought Dras might argue with him as I got up to leave, but he seemed to take my lead and follow. Charles was hard to read, he looked irritated, but also as if he had a lot of questions.
+
+"So, what are you going to do about that guy?" Charles asked once we'd made it about half a block away.
+
+"Nothing."
+
+"Nothing? We can't do nothing, we could..." Dras seemed a bit unhappy with my decision.
+
+"Lose, we could lose. He wants an excuse to do something and he has a lot more power than we do. Half of that was probably him poking us to see if we'd strike at him. If we do, we lose." That was the worst part of it, there really was nothing to do. I could have come up with some way to cause him issues, but if I did, he'd have all the reason he needed to come after me.
+
+"So that whole thing about you getting a Mar..." I heard Dras' hand come down hard on Charles' shoulder as he spoke. I turned around to glare angrily at him as I saw the younger boy pull him in.
+
+"Charles, I know you spent literally years underground, so I'm going to give you some solid advice. Shut up." I was thankful for Dras' correction. I had no desire at all to get into that conversation.
+
+The rest of our walk back to The Sky was quite silent. The boys looked like they didn't quite know how to restart the conversation in a direction that wouldn't cause an argument. I was busy keeping my jaw clenched so that I didn't start hurling obscenities, or some other ridiculous emotional outburst.
+
+When we arrived we found Lucien, and Charles' teacher sitting at a table waiting for us. I was more than a bit surprised at that development as they waved us over.
+
+"I'm glad to see you three made it back safely. Alana, Dras, I don't know if you've met Meg."
+
+Lucien motioned for us to take some of the extra seats around the table then spun up his own version of a quieting spell. I suspected it was based on mine, but he worked in some kind of illusion that made everything around us look like frosted glass. That was a neat little add-on, I would have to think about stealing it for some purposes.
+
+"So, how would you say things went?" he asked.
+
+"Well the fight wasn't too bad..." I began, before Meg cut me off.
+
+"You three took her by surprise then got yer arses handed to ya. Only the fact that ya outnumbered her so badly helped at all." Meg finally spoke, the first time I'd heard her say anything.
+
+Meg was as old as Lucien or Mystien if I was any judge. Her graying hair was tied back in a rather tight bun and she looked like someone's very angry aunt. Sharp features and hard eyes. She was also quite solidly built, and for a change wore some kind of loose pants rather than a skirt. The last part was of great note as almost no women wore anything but a dress or skirt unless it was part of some specialized work clothing, even that was really rare.
+
+"We didn't do too badly..." I tried.
+
+"Arses handed to ya. You lad, you went down too fast. No worries though, we'll be solvin' that issue soon enough." Charles paled as she fixed him with a rather hard look. I did not envy whatever she had planned for him.
+
+"Meg here kept an eye on things as you might have guessed. I'm assuming you met Theodore? How is he, still a bit of an ass?" Lucien seemed downright amused by the whole situation.
+
+"That might be the understatement of the century. You know him?" I asked.
+
+"We've met. My own personal history is long and we'll not be covering it today. I'm assuming that since you're here he let you go, or did you just come back to get your things?"
+
+"Did you know what he was up to?" I now fixed my erstwhile employer with a cold gaze.
+
+"I suspected he was watching. The Shield are known for wanting to keep all orphans under their purview. That said as a caster and someone who's shown she's quite capable of taking care of herself, I thought you'd be fine."
+
+"You could have told me."
+
+"Sure, but letting you see for yourself is better for learning. You also got the experience of fighting a priest, which isn't something that's easy to come by, at least not under normal circumstances."
+
+"That could have gone wrong in a lot of ways." Dras seemed peeved that they'd let us blunder into that mess too.
+
+"Which is why I kept an eye on ya as ya did it inn'it?" Meg growled out from her spot. "Make sure ya didn't get hurt, or cook yerselves a priestess. Nearly had ta stop you though lad. The ice spell was a nice one though, liked that."
+
+"Er... thanks?"
+
+"Yer welcome. Anyway, comon' Charles, let's go have a word about where all ya screwed up." With that she grabbed and pulled the young man after her and out of the dome. It was impressive, being that he was quite a bit larger than the older lady.
+
+Lucien looked over towards Dras, "I'd like a private word." He took the hint and bid his farewells, promising to return tomorrow for more studying.
+
+"You could have at least told me the bishop was going to be that much of a jerk." I looked over to him once we were alone.
+
+"No, if he'd thought I'd coached you on how to deal with him he might have used that as evidence against you." It was sour, but I hadn't thought of that.
+
+"I see."
+
+"They're going to make a few more passes at bringing you into their fold. I doubt it will be anything as hostile, but they will want you somewhere you're kept an eye on, The Shield is rather like that. You may not like it, but it may be important for you to compromise with them on that at some point."
+
+"Compromise!? After they stalked and threatened me? You've lost your mind if you think I want anything to do with them!" I was still pissed about how much they'd dug into what I considered private business, and no way was I going back to their orphanage.
+
+"Listen to me." Lucien let his voice get hard, he was seldom serious, but when he was he meant it. "They've got the law on their side, and enough power to do pretty much what they want. You are lucky that they understand that trying to force the issue too hard would just make you a real thorn in their side, but they will want to check in on you. When they do you don't need to be friendly, but let them at least say their bit and see that you're okay."
+
+"Fine." I hated it, but he was right.
+
+"And try to stay out of trouble. If they do come down too hard there won't be too much I'll be able to do."
+
+"I'll try." With that I went off to my room. I simply couldn't deal with people any more today.
+
+The rest of my summer went on as had the previous seasons. Dras was getting better and better with mixing his elements, and his power was really getting to be something. I suggested trying to work air into his fire spells, but was not much of a help there as I hadn't really done too much with that particular element.
+
+It was one day as I was working on my human shaped illusion that I saw him succeed. There was a noise like a loud *Thump* and a large ball of fire consumed a small pile of trash that had been left back there. It was only through quick application of water magic that Dras kept us from starting an uncontrolled blaze. He decided to put that trick away for now, too dangerous.
+
+My illusion person was actually coming along smoothly. She'd still fail any close inspections, but if I had to bet, at night, or from more than ten feet away, it should fool most people. Even the movements were pretty good. It could walk, run, and climb without issue. I also began to work in my spell that moved things, though that was not really working so well, it could at present pick up something the size of a pencil, poorly.
+
+The rapid increase in my illusion capability was mostly due to Lucien. That was his specialty, so to speak, so he had lots of advice. He couldn't do much for Dras though, their magic just worked on areas that were too different. His only advice for my friend was to work on fine control. He ended up instructing Dras on a few exercises that focused on making ice in very small sculptures.
+
+The days wore on though, and as they did I could see the stress Dras was under. He was determined not to fail this time, and was working himself to the bone to make his desire reality. He practiced magic until his mana was all but depleted, then pushed himself to study hard until he had it down perfectly. It was a bit worrying.
+
+Soon though Summer faded to Autumn and his time to ready himself began to wane. I asked for, and received a week off before the exam to help him prep as hard as I could. He even rented a room at The Sky for that time so that we could keep going long into the night.
+
+"I'm surprised your mom allowed you to stay here for a whole week to study with her least favorite person."
+
+"Oh, she pitched a right fit. Made all kinds of threats, screamed for almost an hour. When dad got home he calmed her down though. Told her that it was best for me to make it this time. He's also seen some of what I can do now, and knows that I've learned a lot studying with you. Mom refuses to listen when I tell her, but he's a bit more reasonable."
+
+"I don't think I've ever met your dad."
+
+Dras took a moment to think. "No, don't suppose you have, have you? He's good, but his work keeps him busy all the time, so I don't get to see him much."
+
+We went hard. Going over everything in our little study book, which was now quite well worn from our constant use. Last time I had been sure he'd ace the written exam, and I couldn't say my opinion had changed. This time I knew he was just as ready for that, as well as prepped for a far better score on the practical. His variety of spells had exploded, and while some of them were a bit rough around the edges they all functioned.
+
+I was still a bit worried, there was no way I couldn't be after the disaster that had been his previous exam. For all that he'd worked we really hadn't had time to hammer out all the edges on his new magic. To that end he spent a lot of the last week working on control. While we chatted he'd work on pieces no more than a foot or two tall, made of fire, or flowing water, or ice. They looked okay, and that he was forming them on the fly was an important step too.
+
+Our friends gave us plenty of space, with Lucien allowing us to study at night in one of the corners. He even showed his support by giving us free food, something I normally only got while working. I got a chuckle and a nod when I looked at him as he sat it down that first night. If he was showing his support to us I figured Dras was on track to do us all proud.

@@ -1,0 +1,191 @@
+---
+id: fe219f3f-4661-59e9-af9f-e7ff89f5fd8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 554 - A Planned Meeting"
+slug: 0053-chapter-554-a-planned-meeting
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 53
+ownLength: 2924
+unit: words
+ownProgress: 2924
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2224490/chapter-554-a-planned-meeting"
+royalRoadId: "2224490"
+markedReadAt: "2026-06-29T19:36:59.794Z"
+---
+
+Tala and Rane pulled together their extended interests without moving too quickly, taking a bit more than three months to prepare for their trip to Makinaven and then Bandfast.
+
+Rane did two more cell runs, these as an ‘understudy’ Paragon to a more experienced hand at Rane’s specific request. The man seemed to learn best studying under others who knew what he wanted to learn, and Tala was excited that he had the opportunity to grow in this area as well.
+
+She’d never seen two Paragons assigned to a cell maintenance action, but she supposed that the lack made sense as there’d been no other new Paragon in Alefast, Waning, while Tala had been a Defender.
+
+Tala briefly considered doing the same, but she realized that such wouldn’t really benefit her too much. She learned best by striving on her own, failing, and trying again—usually with some begrudgingly sought advice. Thus, if she tried to be an ‘understudy’, it would effectively be her pawning off the need to interact with the Defender team on a ‘senior’ Paragon, and that wouldn’t be a useful trend for her to extend.
+
+Still, she wouldn’t need to do another cell run for at least a year. She could have herself more in order by then, more willing to connect with and foster others… She was sure that she could.
+
+Truthfully, most of the delay before their departure could have been laid at the feet of those within Ironhold. There was simply a lot that needed to be done: restocking, re-gathering, and reconsidering the resources and amenities within the hold after their extended trip ‘out’ of the region of the cycling cities.
+
+Frankly, the experience had been eye-opening for everyone.
+
+Some things that they’d stocked in abundance had been almost useless or unneeded, and some things they’d expected to last for years had been used up in short order.
+
+No one had starved, but there had been the need for a bit of undesirable rationing of some resources, and they all wanted to prevent that from happening again.
+
+Thankfully, the citizens of Ironhold were handling the logistics mostly on their own, under Lyn’s direction and oversight, even if she didn’t control it outright. Some were taking it upon themselves to become repositories for certain things, turning such into a side—or even main—source of income.
+
+This left Lyn and the other administrators mostly free to handle the things that only they could do.
+
+As an example, Lyn was coordinating and reallocating space usage within the limited hold—though not nearly as limited as before—along with interviewing and screening new potential citizens, as news of their trip and its success continued to spread through the gateless communities of the cycling cities.
+
+They would actually be picking up a large number of people from Makinaven and Bandfast, as Tala went through each city. Approved applicants in the cities closer to each of those were seemingly taking caravans to the meeting cities for ease and to facilitate a quicker move-in time table.
+
+As an additional consideration for the timing—and truthfully the central one—Tala’s brother, Osip, was graduating from the Academy at the end of the fall section of lessons, and he’d found a master in Makinaven. Thus, Tala and her siblings would have their ‘larger’ reunion in that tree city as a change of pace this time around. Even those still at the Academy would be coming along with Osip to allow as many as possible to be together.
+
+There were some unfortunate divisions beginning to form in the family between those who had chosen the mundane paths and those who were pursuing magic in various ways.
+
+Anna would be manning the family business along with Tala’s sibling’s parents while Latna and the others came. That master-mageling relationship was seemingly going splendidly, and Anna was fast becoming closely connected with the family as a whole. Even the mundane members seemed to enjoy her company.
+
+As such, Anna had taken it upon herself to keep Tala updated on those who communicated with Tala least. It was a kindness, but Tala honestly felt less and less connected with her family, even as she continued to see them quite often.
+
+Those who’d gone to the Academy had more in common with her, and that helped some, but overall, Tala was becoming more and more embroiled in her own tasks and goals.
+
+Thankfully, the delay of departure gave her time for just those tasks and goals. So, as soon as she was able, Tala did the logical thing, given what she’d learned about her potential Reforging.
+
+She paid for a merging chamber to be installed in her sanctum—ensuring it was completed as soon as possible—not for use of course. That would be relying on others’ magics and assistance. No, she got it so that she could easily examine every aspect of it and the magics involved at her leisure.
+
+If she was going to implement the principles during her Reforging, she had a long way to go and a monumental amount to learn.
+
+In her more honest moments, she admitted to herself that this one aspect of her Reforging would take decades—if not more than a century—to learn to a sufficient degree.
+
+It was daunting, but she’d rather do it right—even if it took multiple centuries—than rush in and regret it for the rest of her extended life. The merging of herself with some of her soulbonds was going to be an incredibly tricky and delicate process, and it deserved proper study and consideration.
+
+Rane, for his part, was actually steadily advancing upward, as indicated by his aura. Steadily, in this case, meant that he’d moved a whole percent toward being Reforged in less than a year of dedicated effort.
+
+Truthfully, that genuinely was amazing progress, and she often went out of her way to express her pride in his advancement, and how excited she was for him.
+
+He, in turn, was a ready ear for her to bounce her ideas off as well as giving his own thoughts and ideas in turn. The result was that he provided an especially valuable counterbalance to Eskau Meallain’s somewhat naive nonchalance.
+
+The elf simply had a great deal of difficulty thinking in the short term… ‘short term’ from a human perspective at least. Everything ‘soon’ to her was within the next hundred years or so.
+
+On the positive side, that did explain why the Eskau didn’t seem in any particular rush to meet with Walden, Lupe, or Lisa.
+
+Even so, Tala did arrange for a meeting between Lisa and Eskau Meallain to happen a couple of days before they departed for Makinaven.
+
+She had a lingering sense that she’d need to have some long discussions with Lisa about four-dimensional construction as pertaining to not only Kit, but her own Reforging. As such, she would want Eskau Meallain involved, and so the sooner they could at least be introduced to one another, the better.
+
+When Tala approached the fox-kin to schedule the introduction, Lisa had requested the meeting be within his home, and Tala had immediately refused.
+
+She had originally thought that she and the other Eskau would do just that—visit the fox-kin in his home—but Lisa’s unsolicited attempt at confirmation of such brought to mind how much he’d been willing to pay for memories of arcanes being slain.
+
+Yeah, we’re not taking Eskau Meallain into his domain, even if it's just a subdomain of my own.
+
+-It’s hard to see in there, showing just how much his own authority holds sway within.-
+
+Exactly. It’s like trying to watch a camouflaged animal move across the terrain.
+
+As for Eskau Meallain, she had taken the time to regrow her arm once the Talons were well set on the path of training that she’d laid out for them.
+
+The fact that Tala had provided her with a clearly dwarven space in which to heal and recover had earned a flat look of incredulity but nothing more. The elf had been grateful for the time and resources given, which had allowed her to recover the arm, and no more was said about it.
+
+While Eskau Meallain was indisposed, Terry came back into the mix. He didn’t interfere with the white steel or retention training—in fact, he joined in the white steel training himself, much to many people’s befuddlement—but he did impose his own methods around those blocks of training.
+
+As such, Captain Ron quickly requested the implementation of rest days for his people, and both Terry and Eskau Meallain had agreed, once she was back and fully apprised of the situation.
+
+Because of that, the Talons pushed harder than ever before, knowing that they had rest and free time coming in far larger blocks at regular intervals.
+
+Thus, the weeks passed until the day of the meeting arrived—just days before they were to depart for Makinaven—and Lisa, Tala, Rane, Terry, and Eskau Meallain were all to meet for tea in a park down the street from Lisa’s door.
+
+The two guests of honor were obviously each aware—at least vaguely—of the other, but it was still interesting to watch their reactions as Lisa paused at the edge of the park, just within sight, gaze locked with that of the elf.
+
+Tala was paying incredibly close attention. That is likely the only reason she saw Lisa’s reality node briefly crack, seemingly revealing something inexplicable tucked within, physicality both stone- and starward of the fox-kin briefly blooming with tangles of fur, flesh, claw, and fang.
+
+Even so, his voice was level as he grunted and addressed Eskau Meallain. “So, it is you.”
+
+Tala, in that instant, felt a straining against her authority, but it wasn’t an opposition so much as sudden solidity. It almost seemed as if she could expel Lisa from Kit more easily than at any time previous. It was… odd to say the least, but the cracks sealed almost as quickly as they’d appeared, leaving the arcane as she’d always known him.
+
+Throughout, Lisa’s stance was seemingly that of one who wanted to turn and run but held himself back.
+
+Oddly, Eskau Meallain looked momentarily surprised at the fox-kin before her eyes narrowed in confusion. Only after seemingly having assessed Lisa intently did her expression set into one of barely controlled aggression.
+
+Her stance became that of a predator, reining in their desire to charge forth, almost like a dog facing down a wild pack. She was clearly willing—and even eager—to charge forth, but she also had a decisive edge of wariness.
+
+Maybe due to her currently restricted advancement?
+
+-Maybe…-
+
+It was an odd experience for Tala, seeing Eskau Meallain of all people in a position of hesitation.
+
+Lisa, on the other hand, was always seemingly ready to execute a strategic retreat, so that wasn’t anything worth considering further.
+
+Finally, after what felt like more than a minute, Lisa straightened his coat and strode forward.
+
+He bowed toward Tala, Rane, and Terry, then gave a nod to Eskau Meallain. “Eskau, it is a pleasure to see you so… advanced.”
+
+She gave a nod in return. “Pretender, I can’t say it is a pleasure at all.”
+
+Tala’s soulsight briefly went a bit haywire as Lisa’s reality node and very soul shivered through innumerable starkly different emotions. This time, however, no cracks appeared.
+
+Lisa shook his head and smiled. “Ahh, it is ever a joy to speak to elves. High and mighty, lords of all they survey, no matter who else may want a say.”
+
+Eskau Meallain rolled her eyes. “Who would have imagined any fox might give a lecture on proper ownership or the rights of others, let alone you.”
+
+That caused Rane’s eyebrow to rise, and he was unable to hold back the question that had clearly been building within him since Lisa arrived moments earlier. “So, I think it’s safe to assume that you two know each other?”
+
+Lisa grimaced in displeasure, and Eskau Meallain scoffed. “Know? No, but we have met before.” She then turned back to the fox. “I want that sword back.”
+
+He shook his head. “Even if I still had it, it would be mine by right. You offered it to me as a preferred alternative, and I accepted.”
+
+The elf growled. “I said that I’d sooner let you just have the sword.”
+
+“Exactly.” Lisa nodded, he then turned to Tala. “Mistress Tala, what purpose did you have for our meeting? I don’t see this being productive.”
+
+Tala held up a finger. “Hang on. How? How could you two possibly know each other?”
+
+Eskau Meallain grunted. “As I already said, we don’t. He used to have an entrance to his… warren near Croi. The House of Blood had a need, and we sought help from one of his kind. I had the misfortune of finding him.”
+
+Lisa cut across her. “I was the only one with the skill to do as they needed—as is generally the case. She asked for my help. I asked for ten years of service in exchange. She refused and offered her sword instead.”
+
+Eskau Meallain was practically growling “I did not—”
+
+Tala cut across the other Eskau. “Did he give the help?”
+
+“No.” The sanctuary shivered slightly, and the elf growled again, this time in frustration rather than anger.
+
+Lisa rolled his eyes. “Yes, I did. Existence itself will not allow her to lie about our deal. We are both held to it, no matter our feelings on the matter.” Then, he grinned. “She asked me to fix the sword, and I am happy to say that it was fixed.”
+
+Rane chuckled. “A Faen deal indeed.” When Eskau Meallain glared at the man, Rane held up his hands and shrugged. “It is rather funny, from the outside. You have to see that.”
+
+“True as that may be, it is not amusing from this side of things.”
+
+Tala found herself chuckling too, despite herself. “I’m sure, but the situation still sounds pretty cut and dry to me.”
+
+Eskau Meallain’s growl intensified. “It was a dimensional-severing sword, one of the prime treasures of the early House of Blood. It is a concept blade utterly bathed in the concepts of our… of the…” She trailed off, seemingly catching herself before she simply shook her head, clearly changing what she had been going to say. “The House of Blood would have had a much faster and more secure rise to power with that sword, and many who fell would not have done so. The entire fate of the region would be different if not for his twisting of words. The tenets of the House would have been able to take greater hold, and it is possible that humanity would have been treated far better.”
+
+Lisa gave an acknowledging nod. “That may have been the case, but no one can know the other players working in the background, nor what else might have come into play. That aside, would you like to tell them how it was broken? Hmmm? What was able to threaten such a powerful tool?”
+
+The elf shrugged, seemingly unconcerned. “If I recall correctly, I was clearing out an infestation within our world-fragment, severing dimensional connections of unknown origin.”
+
+The fox-kin gestured toward the elf, as if the woman’s words had answered everything.
+
+In truth, Tala actually thought it might, but she wasn’t really interested in continuing the back and forth. She suspected it would only inflame the already tense atmosphere. Besides—if she understood correctly—Eskau Meallain hadn’t been killing any fox-kin. Severing dimensional connections would only have sent their homes to drift in the void to reattach elsewhere on Zeme.
+
+Tala rubbed at her temples. “Lisa, regardless of how you feel, she will be here for the foreseeable future, as will he.” She addressed the last toward Eskau Meallain. “Is that going to be an issue? Do I need to keep the two of you separate? I had hoped to get help from you both, and each of you has a lot of wisdom to bring to bear on the other’s insights. I will get the most from you if we all work together.”
+
+Lisa shook his head, a mischievous glint in his eye. “I have no issue with her presence, not if she’ll be in this state.”
+
+Eskau Meallain wrinkled her nose. “I will not cause issues so long as he stays away from me. I’ve nothing specifically against his kind, if they don’t negatively affect me or mine. Unfortunately, I cannot promise that I will be able to collaborate with him.”
+
+“Alright, then. That’s at least a first step.” Tala smiled, somewhat forcing the expression. “Let’s have some tea, coffee, and food.”
+
+Lisa gave her a bow. “I am afraid that I must take my leave, but thank you for the invitation and reintroduction. My home is open to you, whenever you wish to chat.”
+
+Tala almost stopped him, but… what was the point? Somehow, the fox-kin and the elf had a history, and it hadn’t been a good one. Lisa was removing himself from the situation and not sniping at Eskau Meallain in the process.
+
+Tala decided to take that as a win, even if she would have preferred he stay so that they could begin to rebuild bridges between the two ancient arcanes.
+
+Lisa straightened, then bowed to Rane and Terry in turn before departing. The man and bird having watched the whole exchange with rapt interest.
+
+Terry let out a little chirp of amusement, and Rane shook his head, a wry smile across his lips.
+
+Well, that could have gone better.

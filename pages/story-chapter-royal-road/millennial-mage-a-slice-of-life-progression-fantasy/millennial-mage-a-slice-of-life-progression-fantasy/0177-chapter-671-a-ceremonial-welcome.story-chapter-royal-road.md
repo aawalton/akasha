@@ -1,0 +1,179 @@
+---
+id: 195fee3c-63db-5a89-9ff1-9a7be597ecb5
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 671 - A Ceremonial Welcome"
+slug: 0177-chapter-671-a-ceremonial-welcome
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 177
+ownLength: 2513
+unit: words
+ownProgress: 2513
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3049814/chapter-671-a-ceremonial-welcome"
+royalRoadId: "3049814"
+markedReadAt: "2026-06-29T19:40:44.287Z"
+---
+
+Tala almost paused as they reached the top of the stairs out of the final quick-way node on their journey. Each subsequent tunnel had reacted in all but exactly the same manner as the first, the only difference being exactly how much detritus was able to be cleared up by her churning the earth, as it were.
+
+As they’d neared the center of the city, the quick-ways had steadily become older and older, so there was less reality left to be damaged and less existence to be churned, but it still had an effect all the same.
+
+-You know, if you passed back and forth a few hundred times through each one, you might render them quick-ways without the need of any magic to maintain them at all.-
+
+Tala mentally rolled her eyes. While causing such a draw of power that I’d drain the whole region.
+
+-Details. Sounds like a fun time.-
+
+She sent Alat a flat look. I thought you didn’t like the strain? It’s making me tired, and you’re the one doing most of the work.
+
+-As I said, details.- Alat sent back a feeling of purposely avoiding unpleasant things.
+
+Tala sighed, and decidedly ignored the alternate interface after that.
+
+As to what had her nearly hesitate at the top of the stairs? Most visually apparent was the fact that there was a path, flanked by House of Blood guards leading from that top to the House of Blood’s hold in Croi.
+
+They were spaced far enough apart that others could easily pass between, but the symbolism was clear. As such, most arcanes moved outside of the path as soon as was convenient, and if they needed to cross, they did so with alacrity.
+
+The House Guards ignored them, gazes locked steadily straight ahead.
+
+Beyond the clearly honoring welcome, Tala was struck by the House of Blood ‘hold,’ now clearly visible for the first time.
+
+-The world fragment.-
+
+Tala could only mutely nod as they progressed, the flanking guards falling in behind as each staggered individual was passed.
+
+The dimensionality involved had been treated like a standard hold, pushed stoneward of superficial, but that’s where the similarities ended.
+
+Something in the nature of expanded spaces lent a feeling of ephemerality to them when compared to the superficial, as if existence itself knew that they—one and all—were temporary things.
+
+Interestingly enough, Tala’s expanded space had lost almost all of that when compared to the superficial of Zeme, likely due to the deep anchoring to her soul and self, as well as her incredible magical and existential weight.
+
+In this case, however, the ‘hold’ had a solidity so complete, so true that she was left feeling as if she’d lived in a tent her whole life, only now seeing a stone wall for the first time. What she’d thought ‘opaque’ was now revealed to be a horribly translucent thing, what she thought sturdy was now shown to be a mess of stitched cloth held up by rickety poles.
+
+True, the cloth had been artfully cut and spliced with intention, and the poles were masterfully crafted—rickety though they still were—but they could not compare to even the meagerest home within a Cycling City.
+
+The ‘hold’—the world-fragment—was beyond compare, and it was growing.
+
+There wasn’t anything like an active expansion in the vein of flowing water. Instead, it was how a forest grew.
+
+The whole was solidifying itself almost moment by moment, and at the edges, little bits were snaking out, slowly preparing the way for the real takeover.
+
+She would be genuinely surprised if, in the time since she’d last been there, it had grown by more than an inch in diameter, but its progress was inexorable. To be fair, though, she hadn’t been able to perceive it in its totality before, so it could have grown more than she guessed.
+
+She had a moment’s confusion how she hadn’t seen this boulder of existence every time she’d dipped stoneward, but then she saw the lacing of magic, reality threads, and concepts that entirely encapsulated the world-fragment, hiding it from anything further away from the anchor than a couple of hundred yards.
+
+As she continued to consider it, she realized something else. It was very difficult to look at Zeme and compare it to the world-fragment and come away with the determination that Zeme was superficial. In fact, the only reason she held to that view at all was because she had that as her default mindset.
+
+That did cause her to stutterstep, drawing a frown from Rane as he checked on her with a glance. She thanked him with a pat to his shoulder before returning her attention forward. It hadn’t been enough that any beside her husband was likely to have noticed, but it had happened.
+
+We are—all of us, all the time—starward of true superficial?
+
+-That’s…- Alat actually paused, seeming to need the extra moment to process. -That is what it seems. Is that why almost no one comes back if they leave the planet? Only those capable of traversing the dimensions of magic even could?-
+
+We don’t know what is woven around Zeme as a whole, but this could be a part of it, yeah…
+
+The great gates to the hold were thrown wide, and a full eight Pillars and seven Eskau—seemingly of other Pillars, not present—stood flanking the entrance.
+
+In the center stood Head Corinis, flanked by his Eskau on one side and Pillar Cruas on the other side.
+
+Terry flickered to Lea’s shoulder even as she and Rane slowed slightly to flank Tala in a mirror of the Head of the House of Blood.
+
+Ahead of the Sappherrous party, the guards and adjunct peeled off to either side, joining those standing in expectation.
+
+-You know, if they were going to try to capture or kill you, this would be just about the best way and time to do it.-
+
+Hush you.
+
+-Just saying…-
+
+Thankfully, Alat’s doom-like prediction did not come to pass, and when Tala came to a stop and bowed to Head Corinis, he and all the others returned the courtesy as appropriate for each.
+
+Behind Tala, Lea and Rane did the same, causing them to all rise back up to standing nearly as one.
+
+Head Corinis spoke, a smile evident on his face. “Welcome back, Eskau Tala. Be welcomed as a long absent daughter of our House and as one considered for higher position.”
+
+Tala smiled in return. “I thank you for the welcome, Revered Corinis. I look forward to connecting with some of those I had the honor of meeting upon my last visit.” Her eyes panned over those assembled. “I am seeing a few notable absences. I pray that does not mean they have fallen.”
+
+“No, no, not at all. We have not lost an Eskau since…” He hitched for a moment before giving a little shrug. “Well, since you, in fact. Those not here are simply attending to their duties or private matters, keeping the concerns of the House moving forward. Work never sleeps, after all.” He gave a little chuckle, and Tala caught a few subtle tells from those around, confirming what she’d picked up from rumor. The Head of House wasn’t useless by any means, but he did not do a large amount of work, day to day. “Regardless, welcome.”
+
+Pillar Cruas stepped forward, then. “But on the topic of those not present, may my Eskau be brought forth? It has been long since she and I have conversed in person.”
+
+Tala hesitated at that. Outside of Platoiri—when welcomed to that city—she’d had full confidence in keeping Eskau Meallain contained under her own authority and power. After all, the Eskau had given her true consent to be under Tala’s authority, and that wasn’t something that could be easily thrown off. But, if anything could allow the elf to do so, it would be a command from her own Pillar, or moreso, the Head of her House, which she clearly treasured so dearly.
+
+Obviously noticing Tala’s hesitance, Head Corinis clapped twice. “Well, be quick about it. We should not delay the festivities over-much.”
+
+Tala felt the tug at her own authority. It wasn’t a compulsion to obey, but she decidedly felt the portion of herself that was an Eskau of the House of Blood bend before the request. Since she was entirely that—among other things—she felt her entire self quiver and want to obey. It would both be easy and directly in line with who she was.
+
+Yet again, though, it was not a compulsion nor any form of mind-magic, and so she resisted the feeling, genuine desire, easily. “My apologies, Revered Head Corinis, but I was commanded by a Sovereign to keep Eskau Meallain contained and under my authority for the time being, and in the current circumstances, I could not do that if I were to let her free of my hold.”
+
+There was a moment of almost absolute silence from the members of the House of Blood within hearing range that lasted long enough that Tala could see the hairs on the back of Rane’s neck beginning to stand on end in concern and anticipation.
+
+Finally, Head Corinis broke the silence. “Are you refusing my request?”
+
+She tensed at the question, giving another bow—not deep, but enough to quickly denote respect—to buy herself a moment before she spoke, “Yes, Revered. I must. To do otherwise would be to court disaster for more than just myself.”
+
+Contrary to her concern, the man didn’t get upset. Instead, he barked a laugh, grinning broadly. “That is the spine that Pillar Sanguis promised. Good. Good.” He nodded once. “I do wish to see Eskau Meallain, however. Do you have a solution to offer, Eskau Tala?”
+
+Tala gave a half-smile, feeling some tension melt off. A test?
+
+-Possibly? I’m sure that they want to ensure that an Eskau of War won’t just be a pawn for the Head of House. Though this could have been arranged between the two of you beforehand as a farce for the onlookers.-
+
+Maybe, but I suspect that some of those watching are capable of sensing at least a bit of authority. Those should have seen that I did not bend to his.
+
+-True, if so.-
+
+“I can open a portal to her, allowing her to see and be seen. It is as easy to communicate through as an open doorway, but she won’t be able to step through.”
+
+“That is acceptable.”
+
+Tala immediately opened such a portal to where Eskau Meallain stood, waiting, having been watching the whole proceedings at Tala’s request.
+
+The woman immediately bowed, almost slamming her head into the barrier that Tala had maintained over the opening, thankfully only barely grazing it instead. “Head of the House of Blood. I am humbled to be in your presence once more.” Her eyes then turned to Pillar Cruas, and the woman bowed again, this time with a mix of emotions churning under her stoic facade. “Pillar Cruas, I am gratified to be near you once more. I sincerely apologize that my actions have deprived you of my service for so long and can only beg your forgiveness.”
+
+The man stepped forward, conflict even more evident on his own features. “Eskau Meallain, it pains me to see you so restricted, but I can do nothing but thank the stars that you are on your path to truly come back to us. I will endure until that path leads you back to my side.”
+
+They both bowed again, clear emotion on their features.
+
+Tala watched in utter fascination as their very souls trembled, the reality threads—more like cables—that bound them shivering and flexing.
+
+They were not husband and wife, but they had a history of centuries side by side, and that was clear to all with perception to see. What they had for one another was not the love of a couple, but it seemed to be something just as deep, even if not involving a direct tying of souls.
+
+I thought she was all but ambivalent to her Pillar.
+
+-She’d said and implied as much at times, but clearly either she lied, or she is in denial.-
+
+Unmanifested attraction?
+
+-I don’t think so? It’s more like deep, unshakable respect…-
+
+And she violated that with her actions. Tala suddenly understood. It was akin to colleagues standing before one another after a large mistake had occurred. They were uncertain where they stood with one another after all that had happened. That was the oddity she was seeing, not base feelings of any kind.
+
+She tried to compare it to what she’d seen between Pillar Sanguis and Eskau Pallaun. Those two held mutual respect for one another, and had a long working history, but they lacked the same depth of meaningful connection that these two shared. Fascinating.
+
+The long estranged Pillar and Eskau had a very short conversation before Pillar Cruas stepped back and bowed first to Head Corinis then to Tala. “Thank you both for allowing that. We can proceed at your leisure.”
+
+Head Corinis nodded in turn, then gestured expansively. “Come! There is a feast awaiting us within.”
+
+He then strode forward without pause, his own Eskau and Pillar Cruas falling in step without difficulty, the other Pillars and Eskau in attendance following suit.
+
+After those, Tala, Lea, and Rane stepped forward, crossing into the hold ahead of the remainder of the House members who had been in attendance to greet her—even if only ceremonially.
+
+As she crossed the threshold, she felt something entirely novel.
+
+Rather than finding the authority of the House of Blood at the base layer as she expected, there was nothing, no authority underpinning existence here, ready to fight off attempts at usurpers staking a claim.
+
+No… that wasn’t quite correct. The authority that was there came from Existence itself. It was as inviolable as… well, she couldn’t say ‘gravity’ as that would be rather hypocritical.
+
+It’s like the sun. I may set up an umbrella here, or even build a structure, but no one would ever claim that the sun is not above me.
+
+-Indeed…-
+
+This was the potency of a world-fragment. This was what Anatalis had helped his mate incorporate as an anchor for their pack and power. It boggled Tala’s mind, even having seen hints of it before.
+
+More than that however, she felt a long ignored question rising to her mind, potentially for the first time in her life.
+
+If this was the power, potency, and resilience of just a fragment of the world that once had been… what under the stars could have happened to shatter the whole?
+
+She doubted that she’d ever find the full answer, but just the hint that something of that power existed and had cracked her world in the distant past?
+
+She shuddered, a tendril of fear settling in beside her soul. Some powers were beyond even the Sovereigns and god-beasts, and despite just internally asking the question for the first time, most of her prayed to the heavens that she would never find the answer.

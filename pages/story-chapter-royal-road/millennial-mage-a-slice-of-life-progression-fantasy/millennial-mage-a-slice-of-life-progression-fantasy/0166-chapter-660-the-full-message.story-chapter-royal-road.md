@@ -1,0 +1,215 @@
+---
+id: dfffa3e9-7fed-5cb7-84d1-c404a8944ff2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 660 - The Full Message"
+slug: 0166-chapter-660-the-full-message
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 166
+ownLength: 2893
+unit: words
+ownProgress: 2893
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2957449/chapter-660-the-full-message"
+royalRoadId: "2957449"
+markedReadAt: "2026-06-29T19:40:22.688Z"
+---
+
+Tala stood with her hands pressed to the core of the hold that was previously owned by the House of the Frost Lance. Well, they do still technically own it, but not for long.
+
+The House was actively evacuating, but her job wasn’t quite done.
+
+If she simply ripped the vestige out—even if she just sent it on to the next life—the hold could become unrecoverably unstable. The dimensionality could be lost, along with everything else within the space, and that would be unfortunate.
+
+As a Reforged, her authority could easily stretch over far more volume of dimensionality than she was currently in command of within Ironhold, her sanctum, and the other expanded spaces. Moreover, with Kit fully melded into her very being, her capacity was yet larger still.
+
+This hold would be a good first step toward taking advantage of that heightened capacity.
+
+As she focused—tuning out the world around her while leaving her and Lea’s safety to Terry and Alat—she was able to see innumerable reality threads binding the vestige—and the central column—to the entirety of the hold.
+
+There were also paths of magic, linking to the various powered amenities as well as the air itself, which was being kept at a comfortable ‘Mature’ power density.
+
+Even feeling that such had been assisted by the five vestiges, formerly part of the War Regalia, it was an impressive level for such a newly established hold. Though, she supposed that if the House hadn’t been able to make it so dense, they would have hardly been worthy of the designation of a Major House.
+
+There was the fact that the vestiges had been gate-broken up to a Mature—or Fused— level of throughput, but even with that, it was telling that the House had maintained ambient power at that stage, despite obvious, free usage of magic conveniences and frivolities.
+
+It actually spoke very highly of the magical control of the people who had been living within, as otherwise it would have taken many, many more vestiges to maintain that density over such a large and well-populated hold.
+
+But she was allowing herself to get distracted. She silently thanked the House of the Frost Lance for the power density—as it would make bringing it up to her own levels far faster—and moved on.
+
+In the past, she’d have had to physically let Kit consume the hold’s anchor, or something similar. This time, she wasn’t going to leave the space until it was unequivocally hers.
+
+She didn’t think the departing House would do anything drastic, but they just might attempt to cut the space free and drop it into the void rather than allow her to seize it.
+
+If she were inside at the time, she’d be fine. If she wasn’t? She’d likely never recover it.
+
+So, what to do?
+
+She hadn’t actually ever consumed dimensionality, herself. She’d always just left that to Kit.
+
+Well, Kit and I are one now. We are the same. I am her, just as she is me.
+
+Kit hadn’t been a true sapient, even if she had been the next best thing. The devourling had simply acted on instinct, and that remembrance brought a smile to Tala’s face.
+
+I can do that.
+
+She took in all the reality threads—ensuring that she could see them all—relaxed, and uttered a singular word, “Mine.”
+
+There was a tremble through Reality, and the hold shivered, sending ice tinkling down all through the space.
+
+The vestige was suddenly simply floating there, unconnected to anything while still being within its cage wrought of power that was flowing through its gate.
+
+Tala felt a growing sense of something akin to panicked isolation from the little vestige, and reached out, helping the soul move on.
+
+As it did so, the outflow of power ceased, the cage collapsed, and the other magical systems began to sputter.
+
+Tala pulled out several pre-prepared constructs—ones of a kind already used all over Ironhold to allow the powering of devices directly by ambient magic—and forged connections to the underlying magical network of the hold.
+
+It was a funny difference, that. Arcane holds tended to have more isolated networks of power conduits for their magical infrastructure despite their ambient power generally being higher than it was in the cycling cities. It made sense, though. Doing things this way, the devices and conveniences could never threaten or reduce the ambient power, upon which arcane advancement relied.
+
+Gated humanity had ambient power to spare—even if it was unequivocally at lower levels—and the use of it was a benefit rather than a detraction. Even in cities where there was a sort of grid, it was wide open, stoneward, made purposely porous to draw in magic from the local City Stone.
+
+But again, she was getting distracted.
+
+Her authority and power flowed outward in a wave, rippling through the reality threads almost instantly.
+
+In that instant, the hold was hers in truth, and Alat went to work secreting treasures, books, and things of note that hadn’t yet been snatched up by the departing hue-folk.
+
+At the same time, Tala came up against the diminishing authority of the House and found it a monumental weight.
+
+To her surprise, she was left with the impression that if it weren’t already withdrawing due to those departing, she would have struggled to shift it on her own.
+
+With Terry, Rane, and the weight of Ironhold behind me, I could have done it, but without that? It was an eye opening revelation.
+
+She still could have claimed the hold, slotting herself in place of the vestige. Her plan would even have worked for keeping the ambient power from the arcanes and systems within, but she wouldn’t have been able to exert any authority over the members of that House within this space.
+
+As it was, the retreating figures were effectively shielded from Alat’s pilfering, much to the alternate interface's consternation. There were even some items that had enough connection to the House that Alat was unable to affect them before a departing arcane could remove them in their hasty retreat.
+
+Another reason for the holds? Even within a city fully under the thumb of a City Lord, the Houses maintain safety within their holds. It’s a hedge against overstep by that power.
+
+The more that Tala saw the mechanisms underlying existence within the southern cities, the more she came to understand why arcane society was the way it was.
+
+She still disagreed with much of it, but she was starting to actually understand.
+
+Tala frowned as she pulled back from the now useless column of stone. She almost destroyed it on principle, but decided to leave it for the moment, a monument to what this space once was.
+
+On a whim, she specifically marked the feeling of the soul which had been the vestige here, highlighting it within her memories. In that way, Rane could impress the sense of it onto the column. That soul had maintained this place for years—without choice, sure, but it was a fact nevertheless—and that shouldn’t be forgotten.
+
+And… she was done.
+
+Huh… I suppose I thought that would be harder. She had kept the opening to the District of Doors intact. It was still a separate space from Ironhold, so she wasn’t using up her one connection point to that hold at the moment.
+
+As she reopened herself to her outward perceptions, she found herself frowning.
+
+What happened to Lea? Is she crying? Tala felt a bubble of concerned anger. It would have been more concern than anger if she couldn’t easily see that Lea was physically fine. Moreover, she likely would have been instantly cross with Alat, were that not the case.
+
+Alat sighed. -Terry had to save her from a particularly skilled guardsman who joined near the end. She seems to think that was a failure.-
+
+Is the guardsman…?
+
+-Alive? Yes. Terry restrained himself and honored your offered peace.-
+
+Tala relaxed just a bit. She’d have understood the terror bird’s actions if he’d killed the man, but it would have complicated things. Did that man try to break the peace?
+
+-It’s uncertain. His strike might have killed Lea, if it had landed, or he might have pulled it at the last moment. He certainly showed enough skill that such was possible.-
+
+How did Terry interfere?
+
+-He took the man’s hand. Bit it clean off, sword and all.-
+
+That… huh. That must have been something.
+
+-Surprised him, that’s for sure. Terry didn’t even bother to get bigger.-
+
+Tala chuckled, thinking of a barnyard chicken sized creature suddenly appearing as its beak sheared through flesh and bone.
+
+Her levity faded a bit as she took in just how her daughter appeared.
+
+With a sigh, she willed herself across the hold, appearing beside Lea. She explicitly left the projection orb behind, setting it to sweep its perspective over the destruction around the hold core.
+
+The girl looked up with surprise, but she wasn’t actually startled by Tala’s arrival. “All done, then? Time to go?”
+
+Tala sat beside her on the ice-bench, ignoring the seeping cold as easily as Lea did. “Depends.”
+
+Lea grunted. “What’s that mean?”
+
+“Well, my daughter seems out of sorts. What do you need, Lea?”
+
+The girl grimaced. “I’m… weak. I need to be stronger.”
+
+Tala barely kept herself from chuckling. “Oh?”
+
+“I assume you know what happened.”
+
+“Do you mean the part where you fought against numerous, experienced House Guards with Mature level power and likely Mature level personal advancement and held your own against them despite them likely having many, many times your experience? Or do you mean that you lost, and Terry interfered on your behalf against the best of those guards?”
+
+Lea curled in on herself, clearly grumpy, but she still muttered, “The second one…”
+
+Tala gave a soft smile then. “Then yes, I know what happened.”
+
+They sat in silence there for a long moment. Finally, Lea huffed. “What am I doing here, Mom?”
+
+“What do you mean? With me? In the southern cities? In this hold?”
+
+Lea threw up her arms. “All of it! In the north, I’m strong, I’m able to hold my own against nearly everyone. Even the Talons have a hard time keeping up with me, at least when they are working to conserve their power. I can help, I have a purpose. But here? I’m barely seen as a child. Those guards you say I defeated? I could see them holding back. They should be more experienced than me, they shouldn’t be making the mistakes they made. Sure, they were angry at you and me for being in here, and they wanted to punish me for that, but didn’t you say that they wouldn’t want to fight down advancement tiers? If that’s the case, wouldn’t they have been hampered by my advancement.” She huffed. “They must have been ashamed to be attacking someone weaker than them, even if they didn’t consciously realize it.”
+
+Tala hid a smile. “So, you don’t feel like you actually beat any of them?”
+
+Lea shrugged. “Some probably  didn’t care, and those fought their best. I beat those few… I guess, but the ones with actual skill? Even the one at the end was holding back. He must have been.”
+
+Tala almost argued with Lea. Her daughter was good, genuinely so, and so she doubted that the guards were really holding back, at least not meaningfully. But, instead, she realized that it really wasn’t the time. Lea just needed her mom. So, Tala put her arm around her daughter’s bigger shoulders, angling up to account for the height difference. “I’m here, Lea.”
+
+Lea leaned against her, Tala easily able to take the weight. “I know…”
+
+They sat there for long minutes as the hold finished emptying.
+
+Once the last arcane had stepped free, Tala squeezed Lea’s shoulder. “Come on. We need to finish this. Then, we can go for a treat.” She smiled. “I know a great bakery that isn’t too far away.”
+
+Lea perked up at that. “Really?”
+
+Tala nodded knowingly. “We can go as soon as we’re done here.”
+
+After a moment’s hesitation, Lea frowned. “Can dad come?”
+
+“Of course.” In fact, Tala had already reached out to him, and he was finishing up his current tasks to be ready to join them, but she didn’t feel that Lea needed all those details.
+
+Lea beamed, the expression only slightly tainted by her lingering melancholy. “I’d like that.”
+
+Tala willed them to the entrance, Terry moving himself to Lea’s shoulder under his own impetus. At the same time, Tala reached out and moved the projection orb from where she’d left it near the central column. She hadn’t been about to bring that along to chat with her daughter, after all.
+
+Now, though, it was time to finish the show.
+
+The entrance was wide open, Tala having taken the door upon her arrival, and there was quite the audience.
+
+Arcanes of all stripes and kinds were watching the illusory display above the entrance, but as it had been showing a deactivated hold core for the last little while, their attention was wandering.
+
+There was obviously some focus on the members of the House of the Frost Lance who had exited the hold, but most were a bit too wary of such lofty people to approach them when they were clearly in an offended and off-kilter state.
+
+When the illusion changed, suddenly showing Tala once more, as well as many of them, it didn’t take them but a moment to realize where she was, and hundreds of eyes turned toward her, Lea, and Terry.
+
+Tala stood straight, the emblems on her tunic practically glowing as she ensured they were visible. “This hold stands abandoned. Does the House of the Frost Lance desire to reenter?”
+
+The administrator who had given the final concession to her bowed low. “No, Eskau Tala. We do not.”
+
+She nodded. “Then, as a service to the city, I will discharge this abandoned hold before it can become an issue.” Such was the law of the arcane cities. Abandoned holds could easily become dangerous for myriad reasons, and so the Eskau and Pillars of the Major Houses were universally charged to verify they were, in fact, abandoned, and then deal with them if that was confirmed. As a humorous addition, Tala—and the House of Blood, actually—would be owed compensation from the City Lord once she performed this service. “Let it be witnessed, let it be done.”
+
+Then, she stepped forward, Lea and Terry in tow. When they were all back on the superficial, Tala gave a satisfied smile, and the hold closed behind her as if it were but a figment of the imagination. The projection orb moved forward at the last moment, exiting the hold before deactivating and being sent to the sanctum.
+
+The quick vanishing of the hold, more than almost anything else, sent ripples of astonishment through the watchers. Some were confused, but most understood how enduring a hold could be. They knew that closing one down was usually the work of powerful magic and hard-earned knowledge. For Tala to do so with a seemingly casual thought conveyed much about her power and knowledge.
+
+In truth, Tala actually hadn’t the slightest idea how to properly close down a hold. The complicated dimensional mechanics of unfolding the expanded space back into the superficial to prevent a void-hold from being spawned—along with a laundry list of other complications that could throw an unplanned element into the process—meant that she would be honestly entirely lost if she were forced to do it ‘properly.’
+
+This was effectively the difference between dispersing a meal throughout a house so that no one could easily find evidence that it was ever there… and eating it.
+
+Of course, the analogy broke down quite easily, but she still thought it apt.
+
+Regardless, the show wasn’t quite over. She turned to regard those of the Frost Lance. “I bid you farewell as you depart Platoiri, but if your illustrious House ever wishes to return—or to work with the House of Blood elsewhere—we would welcome you with open arms.”
+
+The white hue-folk bowed as one before moving away, following the administrator as he moved toward the traveling entrances to the Doman-Imithe.
+
+Then, as Tala was about to dismiss the crowd, she was given a gift by the stars, themselves. Her perception snagged on an Eskau from the House of the Fated Clash.
+
+She made an exclamatory noise to return attention to herself, and gave a shallow bow toward the woman. “Elder Eskau of the House of the Fated Clash. It must be fate indeed for you to be here, today. I have intended to extend your House an offer, and this time is as good as any. Would you come alongside the House of Blood and aid our efforts in the coming clash?” She hesitated a theatrical moment before adding. “I, of course, know that you cannot speak for your House, but I ask you to take my offer to them.” A slow, meaningful smile spreading across her features. “Please do so, and ensure it is conveyed in its entirety."
+
+The other woman visibly swallowed, clearly unconsciously, but then she seemed to master herself, giving a bow toward Tala. “I will do so with honor, Eskau of the House of Blood.”
+
+“That is all I can ask.”

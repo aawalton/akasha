@@ -1,0 +1,271 @@
+---
+id: a0091af0-75f8-522c-9cb6-8ca39792ad98
+page-type-slug: story-chapter-royal-road
+title: " CHAPTER 90 — The Killing Moon (4) "
+slug: 0157-chapter-90-the-killing-moon-4
+partOf: metaworld-hopecore
+position: 157
+ownLength: 3127
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807457/chapter-90-the-killing-moon-4"
+royalRoadId: "3807457"
+---
+
+LAPA.The Whitman’s exterior.
+
+The crowd outside was already thinned by the time William made it across the quad—food trucks pulling their shutters down early, LAPAGANZA's last stragglers hunting for cars in a sky that had gone the colour of static.
+
+It was drizzling as well, not that William noticed. He was indifferent now to every sensation. Above him, the school's giant light-box sign kept doing what it always did, buzzing, cycling slowly through its palette, red into gold into a blue that looked almost violet through the rain haze—diffusing its glow across the wet asphalt like an indifferent God.
+
+He didn't remember deciding to come here. His legs simply knew the way, the way a body remembers a route it has walked in the dark before. Up through the old Main building, past a hallway trophy case he'd stopped seeing years ago, into the stairwell—narrow, concrete, smelling like piss, chalk dust and old rain.
+
+The door at the top was open, just like before.
+
+From the modest puddle seeping through the lip into the stairwell, it had been opened only a few minutes ago.
+
+Evidently, someone had beaten him to the punch.
+
+William walked out onto the roof. There was still no fencing around the signage platform. The school had promised that someone, someday, was going to put in guardrails—then, like LAPA itself, nothing was ever fixed.
+
+“Sup.” In a blind panic, William’s eyes scanned a near-270 around him, until he found her—the familiar silhouette of it, the petite frame with its aesthetic silhouette, outlined by the glow from the glowing signage, where the light-box's wiring fed up into a battered old radio antenna nobody had used in a decade.
+
+The slow-cycling colour, updated by his father’s contractors, was disorienting when seen directly, splicing light and dark in such a way that the girl seemed to fade in and out of sight.
+
+What made William shiver wasn’t how the girl had gotten here before he did, or how she had orchestrated everything under his nose, but his inability to reconcile the tale of two Eppies—the first, who had folded in half in front of him, kneeling on this exact stretch of gravel and told him she'd kill herself—and this witch.
+
+William felt the weight in his jacket. It was soaked now. The silk is sticking to the metal.
+
+The girl emerged from the dark, her balayage hair darkened by rain and clinging to her chin. Theatre blacks fitted close, unbothered by the wet. She looked so delicate. She was small and beautiful in a way that made him hunger for violence.
+
+“You know, Will, I figured it out a while ago,” she said, her tone conversational, like they were picking up an interrupted chatter from lunch.
+
+“What?” William noted, with some alarm, that his own voice sounded like crunching gravel. “What did you figure out?”
+
+“Simone didn't push me, did she?” The girl smiled—her mouth small, almost fond, and very pink. It was insane just how slender her neck looked. “You pushed Simone. Or tripped her. And she pushed me over. Then you pretended to grab her. Isn't that right? You must have laughed your ass off."
+
+Something violent moved through him, top to bottom, so total that William felt energised.
+
+“Clever girl.” He heard himself confessing. After all, it would all end after tonight. There was no point in hiding anything anymore. At least, in this moment, let them be true to each other.
+
+“Thanks. My [Intelligence] is 35. My [Script Analysis] is Rank A, Minus.” The girl replied with such nonsense that William swallowed whatever insult he had prepared. “That does make me feel better about Simone. Did you know she couldn’t make it tonight? The reason’s almost too ridiculous.”
+
+William heard a voice laugh. It was his. “I can guess why. The tickets were $49 per head. $119 for the good seats. $169 for the circle.”
+
+They chuckled like old friends sharing an in-joke. Then they stood there a while, both of them, getting soaked.
+
+"I gave you so many chances," she said eventually, and her voice had changed, not…softer, exactly, but slower, the way a judge slows down for the part of a sentence delivered to the TV crew. The righteousness of it grated on William’s nerves. “Now. This is your last one. The world already knows about you, William. Your father’s finding out right now, not on your terms, but mine. Still, my offer stands. Do your time—if you're penitent—”
+
+William’s vision, like burnt tape, faded in and out. Then something broke, like a VCR swallowing its own gears.
+
+For a terrifying moment, he asked himself if he could kneel on this wet gravel and beg, like Euphemia had done, for mercy and expect to be heard. He never received the answer, for in the next moment, Lee-Kwon's face came up behind his eyes, masked with unbridled disappointment, an expression worse than any form of violence.
+
+William Chen snarled. A low, animal sound, the sound of something cornered rather than something choosing.
+
+He reached into his jacket.
+
+The M1911 came out heavier than the YouTube video had made it look. It was his father’s story made material: a gun his grandfather had fired, but his father had not. He had lifted it from the locked study drawer weeks ago with a key cut by a lackey who didn't ask questions.
+
+William had never fired a gun in his life, but he was confident in its power.
+
+He raised it at the silhouette standing against the antenna housing, backlit gold-red-violet, and—
+
+A flower trough took him full in the chest with a weight and velocity that might as well be a truck.
+
+It didn't so much hit him as detonate. Its ancient terracotta burst into a hundred wet, ugly pieces, soil and rainwater exploding outward in a spray that stank of rotten water. The gun fired once, hitting nothing. William went down hard onto gravel that bit through his palms, the gun spinning somewhere out of his hands and into the dark.
+
+He couldn't breathe. He had never been struck so hard in his life. The rain fell on his face.
+
+He was drowning, or felt like he was.
+
+“Christ, that was some cliché.” The voice didn't even sound angry. She sounded tired, in the specific way of someone confirming a payment she'd already priced in. “Do you think I'm stupid? Val told me your father's guards carry. That your house probably has guns in it. Look around you, William Chen. This is America. A loser with a gun, running amok in a school, where I come from, it's not even a headline."
+
+The girl sighed. “If Euphemia had accessed a gun, I probably wouldn’t even be here.”
+
+William raised his head. He was sure that his collarbone was broken. Still, something behind his eyes went red. It was all he could see. He tore himself off the ground and up, off whatever leash had been holding him for eighteen years, and ran straight at the girl. All he could see was her slender white neck, so thin that a single hand could wrap around it, fingertip to thumb. His other hand moved unconsciously, striking her abdomen, the result of years of training at the Five Root Association, drilled into him by Brother Wang.
+
+The girl raised her hands in defence, the actions of an amateur.He pushed, committing the weight of his upper torso—but the girl who had fallen with a simple prod side-stepped him, moving faster than his eyes could track, allowing his own momentum to carry him past her.
+
+William’s dress shoes skidded in the gravel, his centre of balance gone, slipping by her frame like they'd choreographed a sequence out of an old martial arts movie.
+
+For a second, he grew weightless. Then his shins broke against the concrete bank, and he felt the roof’s edge clip his feet, and—
+
+A hand closed around his shirt sleeve.
+
+He swung, somehow, about two meters out like a fulcrum, then slammed into the wall below the glowing logo.
+
+She held him by the sleeve with one hand—his whole falling weight, doing something no girl her size should have been able to do—her other hand locked onto the steel beam that kept the "A" in place.
+
+It was an impossible thing. Those stick-thin arms, holding the weight of a man, with effort to spare.
+
+The bones in William’s chest burned. His arm felt senseless, dislocated. He could not exert strength. He could not pull himself up, not if she didn’t allow it.
+
+He looked up, and he saw her eyes against the light. Pale and blue, enormous, like a Disney princess brought to life.
+
+“What is a man?” the girl asked quietly, “if the chief good and market of his time be but to sleep and feed?”
+
+“What—” William’s voice came apart on the word. “What are you then?”
+
+“I told you already. I am a jiangshi.”
+
+“So you’re really not Euphemia.” He was wheezing already. “Y-you’re not Euphemia Fontaine.”
+
+“No,” the girl said. “I'm not.”
+
+William heard himself laughing again. It came up out of him broken and much too high, half sob, because some final door in his understanding of the world had just swung open.
+
+“Will you relent?” the girl asked.
+
+He answered her with his teeth.
+
+With a final pull that burned his lungs, he bit down into the hand holding him, hard, past skin, past the point his own jaw should have stopped him, and tore a chunk of her free with the last violence left in his ruined body.
+
+The girl wearing Euphemia’s skin screamed.
+
+Her grip broke.
+
+He was weightless once more—and as he fell, he thought of Lee-Kwon, and the end of his father’s disappointments.
+
+—then the concrete came up to meet him, and his final thought was of the police finding the flesh of his murderer in his mouth.
+
+Then he heard a sound, a familiar sound from the recording, the sound of wet flesh impacting something hard and immovable.
+
+Searing pain gave way to numbness. Then numbness gave way to nothingness.
+
+Overhead, the sky began to pour—not the polite mist Angelenos called rain most winters, but a real downpour, the kind a city of dust and gold never planned in May.
+
+Washing away the blood left on rooftops. Washing away the dust and the footfalls. Washing away the sins of its hopeful, foolish people.
+
+Eppie sat back against the antenna housing and waited for judgment.
+
+A chunk of flesh was missing from her hand, ringed by teeth marks, missing not only muscle, but a string of sinew, setting her [Pain Suppression] ablaze.
+
+Quest Complete
+
+[The Usurper of Hope]
+
+The Usurper has perished.  You have not reformed the Karmic Usurper. You have not progressed the Usurper on the path of Karmic Penance.You have failed the Quest.You will now receive Karmic Rebound.
+
+Ah well. It was nice. Eppie looked to the heavens. To have lived again. Thanks for the memories, folks. Her one regret was that she couldn’t say goodbye in person. Maybe if she called them quick enough, she could—
+
+[Karmic Balance]... in calculation……in calculation……in calculation……in calculation…You have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a Usurper…Penalties have been appliedRewards have been applied
+
+She held her breath.
+
+Whelp, this is—
+
+Ah... I guess this is the—
+
+FOR FUCK’S SAKE—CAN YOU NOT USE A UNIFIED NOTIFICATION!?
+
+Eppie went down onto the wet gravel before she'd consciously decided her legs weren't going to hold her anymore.
+
+Then… nothing.NOTHING?!
+
+She still had—
+
+HALLELUJAH, SWEET BABY JESUS!
+
+OH SHIT. She checked her blood-covered watch. There were fifteen minutes to the end of the play. Her [All the World's a Stage] was still burning down the house.
+
+She had time. She could still afford more [Dasein]. Her savings strategy had worked!
+
+Below her, muffled through wind and rain, she could hear it, the screams, the chaos, the people looking up at the roof, wondering where the body had fallen from.
+
+Alright… I guess I don’t have time.
+
+Ironically, it was thanks to William that there were no CCTVs inside the stairwell, nor was the camera that pointed at the fire stairs powered.
+
+She raised her hand and winced at the gory wound. In that final moment, did William feel remorse? Was he thinking of what he had done to Eppie? To Mio? Of the fate he had bestowed upon a child he had brought into the world?
+
+She watched her wound heal in real-time, the pain in her arm quickening as though her flesh was on fire.
+
+A minute later, her skin returned to its natural state, becoming as tender as a babe’s.
+
+What's next? Eppie asked herself.
+
+She already knew what came next, and she had William to thank for the opportunity to do more good and fill her [Dasein].
+
+Frederick Curon exited the Whitmans with complete and utter satisfaction, only to emerge into complete, utter chaos.
+
+Rain sheeted sideways under the porte-cochère lights, and into it poured two thousand souls who had already spent a night hearing the worst truth a theatre had ever told them, only to walk straight into red-and-blue strobing off every wet surface in sight. Three squad cars were angled hard across the drive, an ambulance backed to the base of the old Main building, its rear doors already open, campus security trying and failing to hold a perimeter against a crowd that had nowhere dry left to stand.
+
+Someone's PA system was still looping a canned “please proceed calmly to the parking structures” that nobody was proceeding calmly to anything for.
+
+A teacher he didn't recognise was doing a headcount with both hands shaking. Phones were up everywhere, screens smeared with rain, everyone filming for MySpace.
+
+Near the Main building's base, floodlights had gone up around a chalk outline on the ground that a tarp was already covering, LAPA security forming a loose, useless wall between it and the crowd that kept surging toward it anyway. Someone was screaming a name Curon didn't catch. A paramedic was loading a body onto a gurney, but there was no hurrying, and that calm and ease told the whole story faster than any personal confirmation.
+
+Curon’s blood ran cold. His phone was in his hand, already dialling. If that outline was who he thought it was—if that body has a Sony-issued phone—
+
+His phone rang once. Another phone answered, about a meter away. “Hey, Dad.” Euphemia, soaked to the bone in her theatre black, slid into focus beside him like a spectre.
+
+“Jesus fucking Christ…” Curon almost dropped his phone. Then, without permission, he pulled the girl into the cover with both arms and pressed her into his chest as if to absorb the tiny blonde into his own pudgy flesh. “Thank God… Thank you, Jesus. Sorry, I swore…”
+
+“I didn’t figure you were religious,” Eppie said beside his ear, her voice muffled beyond recognition.
+
+“Shut up,” he growled at her ear, savouring the relief in his chest. “Don’t ruin this.”
+
+He held her for a long while, thinking that perhaps his Armani might dry her out. As it turns out, the absorbency of the Italian fabric was dogshit. His little girl was trembling against his body, but not from the cold.
+
+He covered her with his jacket.
+
+“Is that…”
+
+“Yes,” the voice spoke to his heart, into his chest.
+
+He looked down at the girl with the hair plastered over her face.
+
+“Did you…” He left the rest unsaid.
+
+Eppie shook her head against his shoulder.
+
+Curon hugged his little girl close to his chest again, ignoring the glances from the LAPA parents and the students. He wanted to say something, something that would comfort Eppie, or make her feel warmer—but he was a man of music, not oration. Maybe I could beatbox? No… he sucked at that. Maybe… he could do a rendition of Better? He could—
+
+Vaughan reached them a moment later with Mirabelle half a step behind; neither woman had dressed for weather like this, and neither seemed to notice the rain at all. Eppie left his arm and hugged the woman instead, filling Curon with strange and unbidden jealousy.
+
+They asked her the same question, and Eppie nodded, then shook her head.
+
+Then someone else joined the throng under the awning. A mixed girl, he knew her. It was the first time Curon had seen Luciana Mio in person.
+
+He watched Eppie leave Vaughan and Mirabelle to become, instead, the comforter.
+
+Eppie hugged Mio as the girl sobbed into Eppie’s neck.
+
+Then came the Arriaga family, Paco among them.
+
+The two men shook hands.
+
+“Is that…”
+
+“That’s our man.”
+
+Paco smiled with satisfaction, then said a prayer, or maybe a curse in Spanish. He spat on the floor and watched the spit dissolve in the rain while Zara joined the huddle.
+
+The final pair to find them was Eric.
+
+“Holy shit…” Eric caught Curon’s eyes, saw Eppie, then his own eyes grew to the size of hen’s eggs. “Christ, DID SHE—”
+
+“She’s wet and cold, that’s ALL,” Curon hissed, catching Eric before he could speak the horror on his mind.  Emily reached out and controlled her Newfoundland’s excitement.
+
+“Eppie, are you…” Eric calmed almost instantly. “Are you alright?”
+
+“She’s fine,” Curon pulled the lawyer aside, then, under his breath, he told him that “she didn’t do it.”
+
+As a group, they stood under the covers while the rain ran its course. Behind them, the paramedics finished what they'd come to do and wheeled a covered stretcher, unhurried now, toward the open doors of the ambulance.
+
+Curon watched it get loaded like cargo.
+
+He heard his daughter whisper, under her breath, to the Nikkei girl in her arms, “Mio… I want to talk to you about something very important.”
+
+Another sheet of rain bucketed down on the school.
+
+The paramedics slipped inside the ambulance and turned on the lights.
+
+Frederic Curon was suddenly imagining, without meaning to, another July, another ambulance backed up to another set of doors, and a girl he hadn't yet learned the name of,  loaded into the same van by the same people.
+
+He reached over and ran his hand through Eppie’s bedraggled hair, slipping a lock of hair behind her ear.
+
+His girl looked up, her baby blue eyes questioning but warm.
+
+Thank the Powers that Be—Curon sent a prayer skyward to the great bards of future and past—Thank God—that his daughter and muse had survived.

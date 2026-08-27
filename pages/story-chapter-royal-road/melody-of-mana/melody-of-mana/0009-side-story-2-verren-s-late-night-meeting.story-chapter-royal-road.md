@@ -1,0 +1,71 @@
+---
+id: 5c5c805b-6198-5d96-adea-17aa95838221
+page-type-slug: story-chapter-royal-road
+title: "Side Story 2 Verren's late night meeting"
+slug: 0009-side-story-2-verren-s-late-night-meeting
+partOf: melody-of-mana
+position: 9
+ownLength: 896
+unit: words
+ownProgress: 896
+publishedAt: 2021-06-22
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703970/side-story-2-verrens-late-night-meeting"
+royalRoadId: "703970"
+markedReadAt: "2026-06-29T22:26:33.363Z"
+---
+
+It was rough, but we were making it. I looked over my family with pride, knowing that as long as we could keep going, we'd make it through. Everything was going to be okay.
+
+The knocking at the door surprised me. There weren't many who'd come by this late at night, and none without cause. Upon opening it I saw who might be my oldest friend, aside from Barro, his face was impassive. With a few quick words we departed from my home.
+
+"You going to tell me what this is about Mystien? It must be major for all the cloak and dagger," I asked as we walked.
+
+"You'll see when we get there, talking about it now would be improper," he did like his mysteries, wizards, what can you do with them.
+
+"Alright then, can you at least tell me where we're going?" we hadn't left our little hamlet, if I had to guess, I'd say we were heading to his place.
+
+"My home of course," he laughed.
+
+The old bugger pulled out a bit in front of me as we got there, opening his front door and leading me in. I felt a bit of a push as I crossed the threshold, some sort of defensive spell, at my cocked eye he laughed.
+
+"Can't be too careful these days my friend," he said as I shook the charm off, it wasn't there to repel me.
+
+Inside was a single figure, his back was to us staring into Mystien's fireplace. Upon hearing us enter he turned and I recognized him at once, the man I knew as Commander Durin. The man cut a regal figure, his bearing that of the true nobility, with sharp straight features that made almost anyone look up to him.
+
+I saw much of the man who'd once been my superior officer, but several things about him had changed. He was older, his once pure black hair was now speckled with gray, a few wrinkles had grown too. He also had put on armor that I'd never seen before, pure black, metal plates overlapped to give him strong, if flexible protection, on his breast a symbol of a raven. All topped by an ebony mantle upon his shoulders.
+
+"Verren my old friend," his voice was rough, as it'd always been, but you could hear the smile in it.
+
+"Commander, what are you doing here?" this man in this place was more than a bit unusual.
+
+"I've come to make the two of you an offer. I'm hoping you'll take me up on it," he replied with a grin, "you see I'm recruiting the best men I know of, and you two are certainly on that list,"
+
+"Trying to bring us back into the army?" I was sure he knew how I felt about them after I'd left. We'd had a few words just after my retirement, and the taste of ash the kingdom's armed forces had left in my mouth still lingered.
+
+"Yes and no," he responded, "the current war with Ermath is not the one I'm interested in," he shrugged, "nor do I work for the kingdom anymore,"
+
+"If not this war then what?" I knew the Commander had always been planning. His orders often seemed a bit unusual, but almost never failed.
+
+"This kingdom has failed Verren, the empire is not much better," he sighed, "you could make arguments about where, perhaps it's the rigidity of the nobility. In any just land men like you two would be offered positions of power for your years of dedicated service. Perhaps it's corruption, for we certainly have that as well," his speech was almost sad.
+
+"If we gathered up our old unit perhaps we could have some effect on this war, but then what? In another decade another will happen, and the same problems bringing disaster now, might bring it then. No my friend, I propose we tear the system down, right to the ground so we can rebuild it, better, more just than it was before," Durin explained.
+
+"You're suggesting a rebellion?" I was stunned.
+
+"I suppose you could call it that," he nodded.
+
+"I... have a family, I can't leave them, not now, not with all that's going on," asking me to join up for this was madness.
+
+"Mystien said something similar," Durin clapped me on the shoulder, "I understand my old friend, but you may not have the option to stay with them forever. If you decide to join me, you, and whatever men you trust can come any time. There's a waystation about a day's walk north of Hazelwood, you know the one?" he looked at me.
+
+"Yeah, only one out that way," I confirmed
+
+"Go there if you do want to join me, or must, ask for a room downstairs and you'll get what you need," he then thought for a moment, "your family too. If you think they will have no choice, tell them where to go. I'll treat them as if they were my own,"
+
+With that he bid us both well, shaking our hands firmly as he did so.
+
+"I hope we never need that information," I said to Mystien after he left.
+
+"Whenever have you known him to give you direction without a point?" he asked me.
+
+I almost glared at the old wizard before returning home, having much to think over.

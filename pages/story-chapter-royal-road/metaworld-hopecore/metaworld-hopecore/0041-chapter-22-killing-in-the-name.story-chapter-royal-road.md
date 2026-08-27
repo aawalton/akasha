@@ -1,0 +1,171 @@
+---
+id: 1399870f-cfe0-5489-80ad-8b357b07adae
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 22 - Killing in the Name"
+slug: 0041-chapter-22-killing-in-the-name
+partOf: metaworld-hopecore
+position: 41
+ownLength: 2349
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369023/chapter-22-killing-in-the-name"
+royalRoadId: "3369023"
+---
+
+“Corruption is like a ball of snow, once it's set a rolling it must increase.”
+
+Charles Caleb Colton
+
+Warner Bros. Studio.
+
+Burbank.
+
+Jack Ferroni sat in the editing room, encased by sensory deprivation, joined by his editing crew. They numbered four, all in all, three on two couches, and one in a Herman Miller Aeron, fingers dancing over shortcut keys and a roller ball mouse.
+
+He sat in the middle, directly behind Norbert, Warner’s Editor, a Warlock of the dark room who stitched Ferroni’s work from twenty hours of footage into a 28-minute syndicated episode. Most of the room was occupied by the Avid workstation, together with a plethora of screens, chiefly for Norbert and Ferroni’s benefit.
+
+To his left sat his Assistant Editor, the man responsible for pulling the segments in Ferroni’s head into view. Further to the left, nibbling on sushi, was their Post Production Supervisor, a man who firmly believed that, somehow, chewing loudly in the same room ensured that schedules were met for the mixing and colourist teams.
+
+For the Friday night episode, the majority of the scenes had already been digitally transferred and stacked, meaning Jack Ferroni’s principal work tonight was to repay a favour.
+
+“Norb, pull up the master for Scene 14. I want to see the geography first,” he told his AE, who summoned the 24mm wide-angle dolly of the girl’s entrance into view. His Editor clicked and clicked, then a dozen frames of the girl slid into view.
+
+They played it back once, twice, three times, until Jack got a feel for the exact moment where the seamless transition should occur.
+
+“Splice in Conrad’s close-up, roll B. Good.”
+
+Ferroni considered the effect. A second too long, and the scene felt creepy. Half a second too short, and the shock of seeing the girl lost its gravitas.
+
+“Hold for now. Give me roll B on Fontaine, the 50mm, then 100mm. All three take.”
+
+On screen, Eppie Fontaine turned her head when she couldn’t help but feel the fiery glare of desire from Edna’s husband. Almost unconsciously, she turns. A split-second of hesitation passed through her eyes, something between fear and uncertainty, then she bloomed into an all-encompassing smile, the only defence of a teenage girl against an intrusive adult.
+
+Once. Twice. Three times.
+
+24mm. 50mm.100mm.
+
+“Fuck me.” Ferroni kneaded his eyes. “This is batshit insane. How is it possible that all three takes are nearly identical?”
+
+“Didn’t you say this girl’s a nepo-insert?” his Editor laughed. “You wrote the stupid ordering line just for her, right? Besides, shouldn’t the takes be subtly different?”
+
+“Yes, but for an amateur?” Ferroni picked through the soft drinks for a can of V. “She’s 15. Never been on TV. Never acted in a guild production. Never been on stage, as far as I know. She’s apparently a singer. Juliana Vaughan just wanted me to create a one-liner for her specifically so that Miss Fontaine can get her Guild accreditations.”
+
+The other three stared at him.
+
+“Okay. Now that IS insane,” his Editor rolled the footage back and forth. “You’re right, her positioning is consistent as hell.”
+
+“Hold up.” His AE zoomed in, and zoomed in again. “Check this out. Every shot is in focus. In every shot. On a moving Dolly?! What the fuck? How is this type of positioning possible?”
+
+“She’s got great eyes.” Their Post Manager pointed at the giant eye on screen. “The colourist is going to love those. You don’t see that very often.”
+
+Ferroni and the others considered their colleague’s remark. Their subject had a small, petite face and thus possessed the illusion of overly large eyes. More importantly, however, she had particularly heavy central blue heterochromia. On screen, the warm-colour gel made her irises sky blue, while a ring of dark navy made her eyes look even more striking.
+
+“How so?” Ferroni had seen more blue eyes than he could count. In this business, blonde hair and blue eyes were Hollywood stock photography.
+
+“They’re baby eyes,”  the Post Manager explained. “That kind of texture and colour’s what we call baby blue—keyword baby. Most kids lose them by the age of three. Her eyes never developed the darkening melanin that comes with elevated light sensitivity, increased disease risk, and so on, but hey, they look brilliant on film. Judy O’Hara had those, as did Vanessa Wood.”
+
+The three of them made O sounds with their mouths. “I hope she can afford an optometrist.”
+
+“Isn’t she a nepo?” the AE snorted. “The favour came from Vogue, right? Why can’t she afford eyecare?”
+
+“That’s what makes this crazy.” Ferroni shook his head. “She’s not nepo. I spoke with her sponsor from Sony. She’s apparently an orphan. No connections. No money. She wrote some songs out of the blue for Sony BMG, made it big in front of the Execs at the Met, and now she’s here, making perfectly focused shots, without a single NG. Three passes, every second of the footage is potentially usable.”
+
+His Editor, AE and PPM all watched the footage of her entering, ordering, and smiling.
+
+“Wait!” the PPM slapped his thighs. “The Guild offers excellent health insurance! Is that the favour? Is this why Vaughan called you?”
+
+They stared at their Post Production Manager until the man wilted.
+
+“She has a nice voice,” the AE said after a few seconds. “I prefer the second take.”
+
+“I concur,” Ferroni nodded. “Norb, skip the 50mm, transition to 100mm, hold for three seconds, then cross-cut to Bergerson. Hold, then, Edna. Cut back to ultra-wide Eppie, let her leave. Cut to Bergerson, 50mm. Cut to Edna, 85mm. Play with the pacing for a bit. I want to see which sequence communicates Edna’s true turmoil.”
+
+“You got it, boss.”
+
+“And get me her SAG details once she registers,” Ferroni made up his mind. “In this business, I’d rather be the one making history, instead of clapping at some chum standing on stage, thinking to myself that could’ve been me.”
+
+His peers laughed. His Editor silently continued his work.
+
+Feeling suddenly hungry, Ferroni looked at his Project Manager’s sushi box and shuddered. “Jesus, someone get Dylan on the line, get some god damn pepperoni pizza in here. Papa Pappino’s, tell the boss Ferroni's got an all-nighter, and don’t hold back on the chilli.”
+
+Week 11.
+
+For the students of LAPA, the 5-day mid-term break isn’t a break. It’s merely additional time for students to prepare for their auditions. In the near future, before the December Fall Gala, they would have the true “Hell Week”, but now was hell for any student who had yet to settle on a role, and would have to compete with friends and colleagues for the honour.
+
+The Playhouse, though unofficially closed, becomes a haunt for stressed theatre students.
+
+From Monday onwards, she and the crew convene in the Playhouse to rehearse lines, develop deeper characterisations, feed one another scenes, and watch others play them. In these exercises, her performances were true standouts, oozing [Charisma] whenever she took to the play extempore, subverting Creon's authority.
+
+Yet curiously, it was Min-jun who became the centre of their group, for he was the master of the light, and it was under his authority that the Sophomores could take a stand on the stage to settle their nerves for the tryouts to come.
+
+After lunch, the acting continued, just as after dinner, her work with Zara continued. When they eventually delivered the song, it would be weighed on their audition. The time-honed tradition of their school, such as it was, was purely meritocratic.
+
+Opening acts were by second-string Seniors or particularly outstanding Juniors. The middle acts were by Juniors and Sophomores. And the final acts were the heavy hitters of LAPA, usually involving Ballet, Contemporary Jazz, a Showcase Play, then a finale by Musical Theatre.
+
+With In the Pines, Eppie was sure that they would be tent-poling the contemporary music performance part of the Fall Gala—although Zara wasn’t nearly so confident. To boost their confidence, Eppie entertained the idea of recording a take and sending it to Curon, giving her partner in crime a means to once again anger the Universal Music CEO, and boost Zara’s morale by cutting her a handsome cheque.
+
+On Thursday night, before their Playhouse practice finished, her phone buzzed.
+
+“HOLY SHIT YOU GUYS!” Eppie’s voice echoed across the hall. “MRS CATCH’EM HAS GIVEN BIRTH!”
+
+None but the crew knew who Mrs Catch’em was, but they all immediately gathered at the base of the stage to stare at her phone. On it was a message from Lim, stating that if she wants to see the kittens, now’s the time.
+
+As a single body, Eppie, Min-jun, Lucy and Chelsea rushed out of the theatre toward the college dorms, where one of the Cat Society guardians was already waiting for them in the cold.
+
+“Come in!” the girl urged. “They’re SO CUTE!”
+
+The group quietly crashed into the basement, where the Stray Cat Society had its kennels and cages and far too many salvaged theatre curtains cut into squares. The air smelled strongly of ammonia, though that was more so a product of the radiator’s heat evaporating the cat’s urine than any evidence of hygiene malpractice.
+
+Lim was on the floor, without a care for his clothes. Mrs Catch’em lay in his arms, licking a paw, while around her, four calico kittens suckled on her breasts.
+
+“Oh my god,” Chelsea’s hands trembled. “They’re so adorable.”
+
+Lim reaches out and scratches Mrs Catch ’em’s ear. “I think it's safe to say that this is her last batch. I don’t trust her to deliver another litter. This one’s already exhausted her.”
+
+What he meant was that Mrs Catch’em was going to get the fix once she recovered. “We’ll usually keep them with the parents for three months, but I don’t think Mrs Catch’em is willing to stay that long. Any of you guys got room for a cat? They’ll come house-trained and fully vaccinated.”
+
+The students shook their heads.
+
+“Ah, well,” Lim used his fingers to pry the kittens apart so that the littlest one could also suckle. “I’ll make some flyers.”
+
+For the first time, Eppie genuinely felt the desire to pull out her chequebook and start blasting cash at the Stray Cat Alliance of CSULA. Alas, she needed time for her Funds to cook.
+
+“We’ll help you distribute them!” She volunteered.
+
+The others concurred.
+
+“Well, there’s nothing to do now,” Lim thanked them by waving Mrs Catch’em’s paws. “My only hope is that we find them homes before the December break. When there aren’t enough people at the dorms… they turn off the heat to the basement levels.”
+
+Friday. Bel Air. The Sanders Estate.
+
+One of Valorie Sanders’ favourite TV shows on cable was a dark satirical comedy by the name of Plasfecto, about the hijinks and pitfalls of Hollywood glam and its impact on the residents of Beverly Hills.
+
+Her admiration for the show didn’t just stem from its cutting wit and dark rendition of what may one day befall all Hollywood actresses, but from her love of Dr Morrow, the quack maverick who could sweet-talk anyone into getting their face carved up by his talented partner, the Faustian Dr Childs.
+
+On this particular Friday, having finally arrived home from a week-long recital of her Senior Project on Titus Andronicus, where she reigned uncontested for the role of Lavinia, she settled down to relax her mind and body.
+
+Lavinia, the victim of both sexual assault and mutilation, was no easy feat to capture. Even with “off-screen” innuendo conveyed through light, symbolism, and magic, the theatricality of the act—its brutality, its visceral impact on the audience—was an enormous challenge for a seventeen-year-old.
+
+For weeks now, Cooper has folded her in half and half again, trying to get her head into the space of a defiant victim whose blood burned for justice and revenge. Her acting, however, just like before, was not to Cooper’s satisfaction, and that’s where the pair had stalled.
+
+Comparatively, William’s cinematic project was going swimmingly. With his father’s aid and the aid of his father’s lackeys, he was putting up a supreme effort in creating a social realism short film about a migrant child’s inability to connect with their first-gen parents.
+
+It was an ethnic story, with an ethnic flavour, and knowing LAPA’s judges and the University Panel’s tastes, it was bound to do well. Unbeknownst to LAPA, Lee-Kwon Chen had hired an award-winning Hong Kong director to tutor William in almost every aspect of authentic “HK” filmmaking, ensuring that the judges could not help but be marvelled by the gritty “authenticity” of William’s story.
+
+At any rate, Valorie was one Ben and Jerry deep and caught in the grips of Edna’s desire to restore the face she lost to plastic surgery when her frontal lobe must have disconnected from her nervous system and caused a minor seizure.
+
+This was because, even on her TV, she saw Euphemia Fontaine, a girl that William had promised would be no bother, and would not appear to contest any role that Valorie may desire.
+
+Her flawless face lasted only ten to fifteen seconds, but it was enough to destroy Edna’s desire for restoration and send her into a new purgatory, a fate shared by Valorie.
+
+For almost another minute, Valorie sat in her bedroom, which was larger than the living rooms of the average American consumer, considering whether to indulge in another tiny tub of creamy indulgence.
+
+Then she threw the ice cream at the TV with enough force to crack the screen.
+
+This was amazing to her, because she hadn’t even realised a 50ml tub of Ben and Jerry's could do that. Perhaps she would throw a tub at Simone tomorrow and see if her throwing arm really was this powerful.
+
+Simone Goode.
+
+Valorie had almost forgotten that her friend was the friend of Eppie Fontaine.
+
+In her mind, there began the concept of a plan, though for now, smothered by the incredible, indescribable unhappiness filling her heart, all Valorie could do was pick up her phone and call her boyfriend.

@@ -1,0 +1,131 @@
+---
+id: 4d9ec3ad-fb73-58a5-945a-cb540853791b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123 Mystien's Workshop"
+slug: 0136-chapter-123-mystien-s-workshop
+partOf: melody-of-mana
+position: 136
+ownLength: 2023
+unit: words
+ownProgress: 2023
+publishedAt: 2022-04-21
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/891046/chapter-123-mystiens-workshop"
+royalRoadId: "891046"
+markedReadAt: "2026-06-29T22:30:32.583Z"
+---
+
+It wasn't until mid fall that Mystien got his workshop properly set up to his liking. I knew when he did because I received a letter telling me that I was to report as soon as possible. That bristled, I liked him, a lot, and I respected him, also a lot, but he wasn't my current teacher and not family. Well, I had to admit that he was basically family, if only like an old uncle. I might even admit that we were closer than I was with my actual uncle if pressed.
+
+So show up I did, I arrived by carriage to a rather nondescript building in the nobles section of the city. I thought it might be a storage facility or something based on the outside, but when our carriage came in that thought was instantly dispelled.
+
+The doors to the inner workshop were obviously enchanted, and made of some variant of steel. The outer door was similar, but looked normal from the outside, a potent security measure. There were runes all over the floor, most of which I couldn't decipher, and all of which I suspected were hidden behind fake sequences. There were even a few guards present, all with auras.
+
+As soon as I entered I was surrounded by a soft light, it clung to me like a film. I spent a few seconds observing it before one of the guards came over to the carriage and gestured me out.
+
+"Please come this way miss. We have a few security checks."
+
+I followed silently as I was led to a panel on the side where I had to put my hand. When I did so a fair bit of information came up. It was a full health scan that displayed my sex, age, height, weight, and the fact that there was a Lover's Mark on my outer right thigh. I turned nearly crimson as I pulled my hand away.
+
+"Sorry for the invasion, it is necessary." The guard said, checking the details against a list. "Alright, could you please perform the following spells for me. A liquid based flamethrower, summoning one unit of sugar, and turning yourself invisible. Ah, for the flamethrower, if it's possible to constrain it, could you do so to this?" He produced a small metal bucket, which he put well away from himself.
+
+It seemed that Mystien was being particularly paranoid here and after I performed all of those feats the door was finally opened for me. I entered a small room that of course had another door that only opened after the previous closed. I noticed that it too had a number of runes all over the ground, and I suspected that this facility alone was consuming an enormous quantity of mana. Eventually though I made it through both of Mystien's security doors and into the workshop proper.
+
+"Goodness Mystien, how much mana are you spending keeping this abomination of a workshop running?" I asked to the old man, who was sitting at a workstation engaged in craft on something.
+
+"Surprisingly little Alana. The main wards are being run through a powered orb, most of what is out there and in here are just used to support what it is doing, or act as foci for it's work."
+
+"Um... okay, but isn't it still doing some rather heavy magic?" It made sense to run them through a main node, for some uses, but that didn't really answer exactly what was so efficient.
+
+"I used your variable for pi in it. The increased efficiency has done wonders." He didn't stop his work on the item before him as he spoke, even though it looked rather fragile, a spinning group of interwoven rings around some kind of central core.
+
+"What? What increased efficiency?"
+
+He turned and looked at me full on. "Have you not noticed that you don't need to fill your lamp with mana nearly as often as you should?"
+
+"I... I thought my maids were doing it periodically..."
+
+He buried his face in his hands before starting to rub his temples again. "Alana, I would wager they were not."
+
+"Oh..." There wasn't much to say to that. It was nice to know that I may have made the most efficient light-bulb to ever light-bulb though.
+
+"It is you lack of noticing that sort of detail that caused me to make this place. Even Lord Durin raised his eyebrows when I budgeted out what I wanted. I did promise him something that he could hardly resist though."
+
+"Is that what your working on now?"
+
+"No, no, this is just something personal. I'm making him a crown that will let him communicate over distance with several of his nearby commanders, out of sky-metal."
+
+"Good grief Mystien! You go on and on about me keeping my secrets then you go and promise something like that, what are you thinking!?"
+
+"I'm thinking that I'm an archmage over four times your age young lady. Nobody in their right mind is going to try and assassinate me, and if they do, I will kill them. It will also explain the origin of certain things you've been leaking out quite cleanly; something I do not wish to have to go through again. So do tell me before you go and repeat those actions." His glare was harsh, extraordinarily so.
+
+I tried to grumble a bit, but when he got irritated it was almost painfully overwhelming. "Okay... So why did you call me here? Did you need help testing the sequences or something?"
+
+"No, I've already taken care of that. I need your help with the sky-metal. I can make it, but it's painfully mana intense and very tiring. I've got a bit more to do before this is ready. Is there anything else you think I should add to the crown as well? You seem to have interesting ideas on that sort of thing."
+
+"Hmm." I thought for a moment before I answered. "Something to stop rust, or patina, or whatever it would be on sky-metal."
+
+"That's... not a bad suggestion. I believe that Lord Durin intends this to be the crown for some of his descendants as well. It will certainly be expensive enough."
+
+We worked together, his setup almost exactly the same as the one I'd used when making my little cube of precious metal. It was fairly quiet as we had work right there in front of us and were both concentrating rather hard. I did note that my progress on making more aluminum was leagues above his, much to his visible irritation. Soon enough we had about a pound and a half of the silvery stuff and he motioned me to stop.
+
+"You're alarmingly good at that. Do tell me that you haven't been making more without telling me.""I haven't, honestly this time. I don't want more of this stuff floating around with any possible attachment to me. My teachers searched my room when I made the first little bit, and it was just a small sample."
+
+"You got off easy. Thank you for your assistance. Oh, there was one more thing that I wanted to ask about."
+
+"What's that?"
+
+"Lucien mentioned something about drinks? He's helping with the preparation for Lord Durin's wedding and they're having an absolute time trying to get enough of your alcohol fluid for what he's calling 'cocktails' which he's insisting will be a hit."
+
+"Oh they definitely will be, though you'll need to tell people to be careful. I don't see an issue with making him a few gallons when I get there, or just before, we'll work something out."
+
+"Are they toxic?"
+
+"They're very strong, and don't taste it. If he's bringing in people for things like that isn't Lord Durin worried about poison?"
+
+"Not as such. There will be a large number of casters, including bards there. Anything which might harm him would have to either be very fast, which would be detected by the testers, or would be easily cured."
+
+That was a bit of change from earth, but I supposed it did make sense. Magic had a number of effects like that which just fundamentally changed the math on stuff like poison.
+
+"Fair enough, and I know they're restricting access."
+
+He chuckled. "You've no idea Alana, but I think one day you will. I wonder what you'll make of it."
+
+"Of what?" I asked, actually curious.
+
+"State secret," he said in response, which made him chuckle even more.
+
+I stuck my tongue out, but there was really no reason to press. I suspected that when I did graduate I would be pressured to work with him here in his workshop. I didn't mind that idea too much, seeing as I liked Mystien, and I was sure some of the work he would be doing would be fun. It had been too long since we'd been able to talk freely without anything pressing to do and I missed that in a bit of a nostalgic way. So he made up some tea and I made us up some sugar and we just enjoyed chatting for a bit.
+
+"I'm surprised that nobody is trying to force you into a marriage." I commented when the subject of my own came up. It was something I tried to avoid as much as possible.
+
+"Oh there have been a few offers, but I'm a crotchety old curmudgeon. I think I may invite Veska to join me here though. You remember her?"
+
+"The bard from Hazelwood?" That was a bit surprising and I knew my voice showed it.
+
+"Just the one. She and I go back a long way, and I'll admit freely enough that I enjoy her company."
+
+"I'm sure you do." I couldn't hide my smile behind my teacup as much as I tried. I remembered her salacious red outfit.
+
+He fixed me with a bit of an irritated look. "I'm a bit surprised you remember her at all Alana, you were but a small child when you met."
+
+"Yes, but she made an impression, and I remember how you looked when you came back from your 'meeting' with her. A look I now fully understand." I did giggle openly at this one.
+
+"I'm guessing you never told your father about that one?"
+
+"No, and don't worry, I won't. Good on you, she seems like a wild one."
+
+"Enough about my love life. Who are your current suitors?"
+
+"Oof, can we talk about anything else?"
+
+"Certainly there are some? Are all of them not to your liking?"
+
+"It's... complicated."
+
+He raised an eyebrow, but decided that he would drop the subject there. Shortly thereafter I headed out. I'd nearly forgotten how thick the security on this place was, until I stepped out of the workshop proper and had to go through it all again.
+
+When I finally got back to my dorm the next day I sat down to work on my current project. It was a simple winter dress. My work with sewing magic had progressed well and while I was still far behind Marcus in the art it was now acceptable. He was on another level, able to meld cloth seamlessly and stretch it like it was pizza dough, but I didn't need that, I just needed enough to get my mother to leave me be.
+
+I'd elected to go with rather dark blues for this, in a princess line cut, and if it looked as good on me as it did on the dress form now, I'd be quite happy. It didn't seem like something I'd take up often, but it was a good skill to have. Once I'd finished this I would be devoting more time to other practical things, like finishing the next level of my core, something I was fast approaching even if I was being a bit lazy on it.
+
+As I got the magic going again I reflected on all the things that I'd need to do soon. Winter would be here before I knew it, and it was sure to bring with it many flurries, both of snow, and of new experiences.

@@ -1,0 +1,273 @@
+---
+id: eca0e52e-7bc1-5d1a-af80-663df9bc9d93
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 604 - Oblivion?"
+slug: 0106-chapter-604-oblivion
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 106
+ownLength: 3088
+unit: words
+ownProgress: 3088
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2552096/chapter-604-oblivion"
+royalRoadId: "2552096"
+markedReadAt: "2026-06-29T19:38:41.513Z"
+---
+
+Tala stood beside her husband, facing a pitch-black automaton.
+
+Behind her, Master Clevnis was retreating back toward his wife and Lea, who both seemed unwilling to leave the field of conflict. Still, the fear and uncertainty on Lea’s face was obvious, even at a distance.
+
+Rage burned in Tala’s chest at that realization.
+
+The automaton stared at Tala in her fully armored glory in clear confusion.
+
+Tala suppressed her throughspike, coating it in Reality Iron to allow her true appearance to be shown for the first time in what felt like ages.
+
+Reality itself warped around her, manifestations of her power shimmered as etheric tracings and symbols that moved and flowed around her in ever changing patterns.
+
+They were, one and all, blood red to match her fury.
+
+They cast no light, and somehow didn’t disrupt the view of her armored form, that of a white steel humanoid with no discernable features. There were, however, traces of Reality Iron visible, meshed through the white steel, and any who could see through the manifestations of power and the white armor would have found her entire body coated in a second skin of Reality Iron as an underlayer to her armor.
+
+Flow was in her hand in the form of a void-glaive, and a Reality-iron-reinforced, white steel tower shield was held casually in her other hand.
+
+Yet, all of that was simply an afterthought to the true power of her magics, ready and waiting.
+
+This wasn’t going to be a battle. If the goal was destroying the automaton, it would already be gone.
+
+Rane would have cut it in half in their first exchange.
+
+No. They wanted it intact so they could get answers.
+
+The automaton’s voice suddenly filled the momentary silence. “Reality, tainted by Magic and Void. Impossible.” The voice wasn’t metallic or mechanical as Rob’s often was. Instead it was soft, smooth, almost comforting. “Surrender her to me. I must…” The creature’s inhuman eyes widened. “She is of you. You are the aberration." Its eyes flicked to Rane before returning to Tala. “Both are, but you are primary.”
+
+Tala tilted her head to the side, feeling no urgency. “She is mine, yes. She is of me. We would say she is my daughter. Why are you here? Are you alone?”
+
+“The Legion is never alone, no other is here.”
+
+Hive mind?
+
+-Maybe. Some of the old records hint at that. The Archive can’t be the only time beings have figured out how to utilize the dimensions of magic for information storage and exchange.-
+
+Tala grimaced behind her faceplate before projecting her voice once more, using the pause to slowly reinforce and draw her aura and authority closer to the suddenly hesitant automaton. “Why are you suddenly willing to talk?”
+
+“I cannot win, and I cannot get her without your agreement. Words might reach my goal, so I will use words.”
+
+She grunted at that. It made a certain sort of sense. “Why are you here?”
+
+“To recover one of my own. The one belongs with the many, not alone to be attacked on sight.”
+
+“Like you attack humans on sight?”
+
+“Iron reflects magic by its nature, not out of malice, and the world is better for that nature. Each gate that is destroyed is an infectious boil lanced, contamination stripped from the world.”
+
+Tala grunted. “Are the Black Legion free of their prison?”
+
+“The Black Legion were never imprisoned.” The automaton actually shook his head once in negation.
+
+Well, that’s not true. It can’t be, but its vestige has nothing to do with its words, so soulsight can’t see to ensure it actually is a lie.
+
+-Well, what if they were banished instead? Or otherwise kept away. It might be a technically correct type of thing?-
+
+True…
+
+Lea decided, at that moment, that she wanted to participate in the conversation from afar. “I am not in danger. Will you leave me be, knowing that?”
+
+The dark automaton shook its head. “No. Reality beckons.”
+
+-Lea is reaching out to me. She says that her body is sending up signals that this being is to be trusted, and she should go with him. She felt like we should know.-
+
+So, somehow it’s baked into the automaton construction to follow the Black Legion?
+
+-Seems so. Might explain why it looks so confused that she isn’t coming with it.-
+
+“She won’t go with you, but that is irrelevant, because you won’t be going. You will answer my questions, then the enslaved soul you have imprisoned as a power source will be freed.”
+
+“Shame.” It moved with lightning quickness, its weapon turning into a javelin that it hurled straight at Tala faster than an inscribed ballista bolt.
+
+It was an obvious distraction, but it still might have worked against Tala if she’d been Refined. Rust, it might have even worked against her as a Paragon if she hadn’t felt and recognized the nature of the weapon as soon as it left the automaton’s hand and entered her aura.
+
+White steel mixed and melded with Reality Iron in utter harmony and balance… because the steel is in complete subservience to the iron.
+
+-Fascinating. It looks like it’s going to change into a net, to give it time to flee.-
+
+Yeah, that seems to have been the plan.
+
+It was trivial for her to claim the iron from within the weapon, her own Reality Iron resonating with its material kin. Her efforts were aided by the fact that the automaton had clearly been trying to give the weapon to her.
+
+Mine. And it was. Her mental utterance was barely more than a bored statement, the result a simple righting of the world.
+
+The weapon blew apart with a thunderous boom, the iron instantly being drawn stoneward, leaving a cloud of white steel dust that Tala’s will and authority claimed and drew down and to the side, forming a set of ingots that she willed into her sanctum.
+
+The automaton had turned to run but hesitated at the loud sound, freezing in obvious horror at what she’d done. “Now, as I was saying. We have some questions and things to discuss.”
+
+“No. I will depart.”
+
+“No. You will not.” She floated up off of the ground, her raging magics pulsing with her will. She hadn’t decided how she’d bring the thing to heel, but it had no hope of escape.
+
+“Abomination. My existence for yours.” It set its feet before power flickered and roiled through it.
+
+It took a precious instant for Tala to understand what it was doing, but even if she’d known in advance, she didn’t think she could have stopped it entirely. There were only passing references to this happening in the past, as it did seem to be something they loathed doing, even on the edge of death, and no wonder. Reality would not like the results.
+
+The being was somehow turning its vestige in on itself, creating a reaction that would tear a hole into the next world.
+
+It was a baffling choice for a supposedly Reality aligned being, but Tala didn’t think it would be open to a philosophical argument at the moment.
+
+In truth, it was a surprisingly human choice, one of self-sacrifice in the hope of taking down a perceived threat that was outside of the normal capacities of the sacrificed.
+
+Rane was already shooting backward, magics reaching for Lea, Master Clevnis, and Mistress Cerna as he strove with all he had to get them to safety, if there even was an achievable, minimum safe distance from this.
+
+Even so, Tala felt him through her soul as he put his complete faith in her and his free power and will at her disposal.
+
+She felt a surge of love and pride at his trust and support, but things were going to be ugly regardless.
+
+Yeah, rust that. Tala contracted her authority inward on the self-obliterating automaton.
+
+She couldn’t stop it, but she could limit the damage… She hoped.
+
+As she worked, analyzing what was happening in tiny fractions of a heartbeat, she determined the true nature of the attack.
+
+It was somehow propagating outward along reality threads, starting a cascade of disconnection, somehow centered on—and maintained by—the automaton.
+
+It was both creating reality threads and destroying them, sending out connections seemingly just to infect the surrounding area, reaching further and further with every instant.
+
+The cascade might just take out Alefast, depending on how long the automaton could maintain cohesion, and how far these odd effects could reach.
+
+The body was already starting to break apart. The very bonds that kept it together were fizzling and falling into nonexistence.
+
+It was worse than a standard explosion or corrosive effect because it was guided, controlled, and driven by a conscious mind, somehow guiding its every step of progression.
+
+No.
+
+Tala moved, propelled more by her will and authority than by mere magic or muscle.
+
+Just as in the cave, deep beside Arconaven, she forged reality iron, void magic, and raw power into Flow, basing her working on the duality of endingberries, and empowering it with Void Channels.
+
+Her Ending Blade came into being in the physical shape of a sword, Flow resonating with weight well beyond the merely magical.
+
+With a single sweeping cut that circumnavigated that automaton as much metaphysically as physically, she severed its every connection to the world around it. Her will then hammered home an existence shield such as those she’d figured out so long before, preventing any new connection from forming.
+
+There was a moment of trembling shock as existence itself seemed to shudder. Then, the automaton core and the vestige within vanished with a visceral pop, leaving the partially discorporated body to collapse limply to the ground.
+
+Tala only had a moment. In that moment, she dropped the existence shield, snatched the fallen form, and threw it far, far back and away just as the barely coherent near-region came undone.
+
+The frayed and dissolving reality threads vanished almost as one, and suddenly there was no Reality there any more.
+
+In that instant, the Doman-Imithe was clearly visible—even if not at all accessible—as the backside of Reality came undone as well, leaving a patch of true and utter nothing.
+
+Nothing save Tala.
+
+Well… rust. That could have gone better.
+
+Then, as nature abhors a vacuum—and Existence moreso—Reality, Void, and Magic all came crashing back in to hammer against Tala, where she stood at the epicenter of the abomination.
+
+Tala screamed.
+
+Her scream, however, was not one of pain.
+
+Instead, it was one of sheer determination and exertion as she latched onto her remaining iron spikes—quite a few having been destroyed by the automaton’s self-obliteration—and projected her power outward through them and her aura in general.
+
+Rane’s presence, power, and will lay alongside her own, tacitly reinforcing her every act as he trusted her completely to handle this issue.
+
+Terry, though he was still on his way from Alefast, Waning—flickering ever closer—added his own weight and will to her working through their soulbond.
+
+Kit, though she was moving toward her, was still too far away to directly affect this action.
+
+What she needed was thankfully a combination of things she’d used before.
+
+First and foremost, she built an existence shield around herself, overtop her armor and other defenses.
+
+Second, she built a second existence shield around the perimeter of the obliterated bit of the world.
+
+It wouldn’t stop magic or matter from coming back in, but it should prevent any further contamination from spreading along reality threads, in case she hadn’t been successful in her attempt to cut that off at the source.
+
+Then, she rode out the shockwave.
+
+Air and small particulates struck and battered her, but it was less effective than mundane crossbow fire, and her armor could weather that essentially forever.
+
+The zeme in the area drew magic toward her in a rush, slamming into her from all sides.
+
+If she’d been mundane—or even only Bound—her gate would have collapsed, forced from this world into the next, even as her body was crushed beneath the hammer blow.
+
+But she was Paragon.
+
+The inrushing power lacked her density and her weight.
+
+She would not be moved by something so insignificant.
+
+The power washed over her with no more effect than a winter breeze across bare skin. It might have been called unpleasant by many, but to Tala? It was refreshing.
+
+The third portion of the backlash was from Reality, and that was entirely stifled by her existence shields. Still, she let it wear itself out, echoing back and forth in the isolated space around her.
+
+Soon enough, however, it was over, and she was able to put the building, soul-deep disassociation aside by dropping the shields.
+
+Still, she shuddered. Her bonds to Rane and Terry had allowed her to weather the sensation, but it was in no way pleasant.
+
+-Sensation makes it sound so… minor.- Alat shuddered within Tala’s head… somehow. -It’s like a deep, unshakable knowledge that you are alone, without help, and you always will be.-
+
+Indeed. Even having Rane and Terry’s presence there was but a pair of candles in the vastness of a dead universe.
+
+-Yeah…- Alat shuddered again.
+
+Still, Tala was alive, and the incident was over.
+
+…The valley was gone, as was everything within about a hundred yards of Tala in every direction, leaving a near half-sphere of empty air around where she stood, suspended near the center.
+
+Below her, the unstable side-walls of the new crater began to fall in, collapsing under their own weight.
+
+Her threefold sight showed her that Lea, Rane, Mistress Cerna, and Master Clevnis were all safe and had been joined by Terry and Mistress Vanga, the latter of whom was in the process of healing Master Clevnis’s injuries.
+
+Tala moved herself that direction, using the iron spikes around her as anchors to accomplish the feat before pulling them all back to her.
+
+She landed, immediately going to her daughter. “Lea? Are you alright?”
+
+Lea nodded distractedly, her eyes still fixed on the blast zone. “He did it. I can’t believe he did it.”
+
+Tala frowned. “What do you mean?”
+
+“He warned me that if I wouldn’t come with him, or if he couldn’t get away at all, he would have to cut out the problem at the roots.”
+
+“Wait…” Rane frowned as well, joining them. “When? How?”
+
+“He… he spoke into my head. He was trying to convince me to come, that my place was with ‘my kind’ and that I shouldn’t resist my inner self, my base desires.”
+
+Tala and Rane shared a look before Tala continued the conversation. “Are you alright?”
+
+Lea turned to look at her mother. “Yeah…” She shook her head. “Yes. Yes, I’m alright. He was delusional. He… he said he would come back and give me a final chance to come with him, but when he couldn’t leave, he said that the offer was rescinded. ‘Legion or oblivion, those are your choices, and oblivion is all that remains.’”
+
+Rane grunted. “So, his actions were to… what? Destroy himself and Lea? They’re supposed to be Reality tainted. How could such a creature harm Reality like that?” He motioned toward the massive hole. “It defies reason.”
+
+Tala looked with her threefold sight, seeing that new reality threads were already forming and strengthening between the various things in the hole. “It’s not.”
+
+He glanced her way. “What? It’s not what?”
+
+“It’s not harmed. Reality. It wasn’t harmed like a gate harms Reality. It is more like Reality was given a new edge, and it’s now easily moving to fill in the gap. This was a surgical cut, meant to pare away something harmful. Me. I believe that I was the primary target, but in the same way, I suspect that this effect might have taken a good chunk of the city. Sure, the method clearly wasn’t ideal, especially when they can remove gated in other, more efficient ways, but as a last resort? I can see the logic.”
+
+That caused everyone to fall into silence once more.
+
+Master Grediv arrived a minute later. With the threat to the city seemingly gone, it was no longer foolish to leave the city undefended. He arrived and got the few details he’d been unable to glean at a distance filled in.
+
+Then, they all turned to regard the rather haggard body of the black automaton where it lay a dozen feet to one side.
+
+The older Paragon hmmed to himself before nodding. “From my knowledge, it’s a ‘scout’ class automaton of the Legion, the weakest of their number in raw fighting ability. Still, we haven’t had such a solidly confirmed encounter in millennia. It’s possible that it was away from the main group of Black Legion when they were contained, and it has simply managed to evade destruction for all this time, or…”
+
+Rane groaned, rubbing at his temples. “Or, it’s possible that the Black Legion is starting to break free."
+
+Master Grediv gave a serious nod. “That may be. Yes.”
+
+Tala shook her head and sighed. “We need to be sure. We have the facilities to repair the body and make it ready for study. Maybe we can learn something from it, and until then, we’ll keep the body in the sanctum to be safe.”
+
+There was a moment of collective silence as everyone else looked first toward Lea, then back to Tala before Master Grediv cleared his throat. “No, I don’t think that you will.”
+
+A round of laughter rippled through the group, relieving some of the tension. Lea herself shook her head. “I’m not ready for a brother, mom.”
+
+Master Grediv grinned. “But yes, I think repairing the body and studying it will be the right call. It seems that we might be fighting the Legion in the near future, and we need all the information we can gather. It’s been far, far too long since humanity got a good look at these constructs.” He frowned for a moment. “We need to speak with Eskau Meallain as well. I think that the Major Houses will need to be informed.” He gave Tala a meaningful look. “Regardless, we have a lot of work to do and an unknown amount of time in which to get it done.”
+
+That brought everyone down from the momentary humor.
+
+Tala glanced to her daughter, then to her husband. Well… Rust.
+
+Homebound, Book 13 of Millennial Mage Ends after the Bonus chapter accompanying this one.
+
+FREE, HERE:Chapter: 604 Bonus - Verity, Weltraum, and Lisahttps://www.patreon.com/posts/132505870

@@ -1,0 +1,233 @@
+---
+id: 9cc1e9c6-617f-529f-bc46-15196ac90f0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 739 - Short Breather"
+slug: 0250-chapter-739-short-breather
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 250
+ownLength: 2934
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3824968/chapter-739-short-breather"
+royalRoadId: "3824968"
+---
+
+Tala was in a healing tent, authority helping to maintain their casualties’ conditions until healers could get to them.
+
+At the same time, Alat worked through Tala on one man in particular while Tala was talking with her family.
+
+Rane grunted, falling into step. “It’s obvious that the Black Legion has co-opted the Leshkin spawning trees, or at least some of them.”
+
+Lea nodded. “Even I understood that. So? We destroy them?”
+
+Tala grimaced. “If we can. The Forest Spirit rather famously doesn’t let Archons harm those.”
+
+“Well, he has to be as upset with the Black Legion as we are then, right?” Lea’s tone was so full of hope it almost hurt.
+
+Rane shook his head slowly. “I don’t think so. If that was the case, he would have wiped them out already.”
+
+Lea was undaunted in her optimism. “What if they have some way of keeping him at bay?”
+
+Her father sighed. “Then he couldn’t help us regardless.”
+
+Tala nodded. “I bet that’ll be the decision. We attack, trying not to garner his attention, and assuming he won’t be on our side for one reason or another.”
+
+“Will… Will that work?” Lea was less excited now.
+
+Tala let out a long breath. “We can hope.”
+
+As it turned out? Tala was both correct and not.
+
+The war council did, indeed, call for an assault on the closest known Leshkin tree, but closest to what?
+
+With the majority of the alliance forces at the escarpment and Bandfast, there was one close to the middle, between the two, that was chosen. From its placement near the dividing line in the forest, it seemed positioned as a bulwark against the Pack, and that suited their purposes as well.
+
+If they could draw the wolves into the conflict, they’d have a far greater chance at victory. Anatalis had promised to help them eliminate the Leshkin once and for all, if humanity truly threw them back one cycle. Maybe this could count in some manner?
+
+Unfortunately, while Tala and her family were all near top form—despite weariness and the need for a few hours’ rest—the rest of the alliance forces were… well, battered was likely the best descriptor.
+
+Those at the escarpment who were up on their feet were still combing through the labyrinth of tunnels around having the reality splinters that were embedded in their bodies removed in a slow, rather unpleasant process.
+
+But they did have a process for that removal now, and it had only been a matter of hours.
+
+That was something that Tala had a hard time wrapping her mind around. It felt like weeks since the initial assault on the plateau, but it was still the same day.
+
+-A busy day though.-
+
+That brought a huff of a laugh and a smile. Indeed. Our longest day… at least it feels that way.
+
+As for Bandfast? Most of those who had been there since the start were non-combat oriented, and the combat Mages they did have were almost entirely unbound.
+
+The few Defenders that had been able to reach the city after word got out—or who had been there already for one reason or another—had thrown themselves into danger and the most intense parts of the fighting for hours.
+
+It wasn’t a good place for anyone to be in, and the results showed it.
+
+Nearly three thousand Mages had perished, and of those, eight had been Refined. When Tala had thought about it, she’d been confused why so many below the advancement of Fused had been fighting at all, given the Black Legion’s historical ability to turn the gates of slain enemies into vestiges, but apparently, this city has been specifically warded against vestige creation, making it safe for less advanced gated to fight to defend their homes… At least they'd been safe from that fate.
+
+It had also allowed for many of the Mage’s deaths and meant that many gated mundanes could suffer the same fate.
+
+In contrast to the three thousand Mages, only around a thousand mundane defenders had fallen, but there had been far fewer to begin with and every one of them was a martial elite, with years—often decades—of experience fighting magical or arcanous threats of one kind or another.
+
+It was a crushing loss of life that was honestly hard for Tala to wrap her mind around. That was close to five percent of all Mages usually in a city, if she had the statistics right.
+
+Moreover, it was hard for her to fathom missing that many deaths. Sure, she’d seen some people dying, but she hadn’t naturally extrapolated that across the whole city.
+
+Tala hadn’t even seen the commanders that had been among the Black Legion forces, as they’d been engaged by Mistress Jenna and others at other parts of Bandfast while Tala dealt with the senior commander herself.
+
+The tenor of communications was that it was a wonderful victory, and Tala supposed that against any foe save the Legion, it would have been.
+
+They slew dozens of automata for every person they lost. But the Legion was relentless, endless in a way that even the Leshkin couldn’t match.
+
+-It’s not that they are ‘more endless.’ Reports I can find from the last Leshkin war have more enemy armies, each larger than these automaton forces have been, but the Leshkin are weaker on an individual level by quite a large margin. In those clashes, we generally come out with losses around one percent of those we inflict upon the Leshkin, and they never get to the walls, at least they haven’t for quite a few cycles.-
+
+Tala grunted, using her will, authority, and aura to slowly extract a reality splinter from a young Mage Protector.
+
+The man was barely thirty years old, and he had thrown himself into the fray to protect the city he called home.
+
+His magic had been well-enough suited to the role, being something of a wood manipulator, creating hardened armor for himself and able to somehow alter plants at a deep level so that even after the ‘magic’ was taken away, they would still grow, grasp, and hamper.
+
+Still, once the defense had been pushed back to the wall, he’d been reduced to being a mere shield for those fighting at his side.
+
+As such, he was shot through with splinters to the point of being comatose.
+
+He’d been found because his stuttering gate had been noticed, where he’d been buried under a pile of automata bodies, all pierced and tangled with too-sharp vines.
+
+They’d all been basic soldiers, but it was an impressive feat all the same.
+
+The Fused man was teetering on the edge, hence why Tala had been called in.
+
+Mistress Holly was nearby growling and muttering to herself.
+
+Apparently, the Black Legion had found a way of blocking her means of farsight, and she was striving to work around their obscuration.
+
+“After all, they can’t possibly be moving on every city in range of the southern forest…” The woman’s mutterings were not comforting.
+
+They’d gotten word that the forest cities were being hard-pressed—all save Makinaven, which stood undaunted and unmolested—and even just those represented a ridiculous increase in the number of automata that would need to be dealt with.
+
+None of the reported armies were as large as the one that had assaulted Bandfast, but they were more than enough to force a split of humanity’s best combatants.
+
+Thirty-one Reforged remained absent from the records of the dead, but Tala couldn’t get a straight answer as to exactly what they were doing, or where they were. Even so, that really came down to just about two per city. If the Black Legion were the only threat, the only thing that could need Reforged opposition, then perhaps they could have all gathered to drive them back, but it wasn’t, not even factoring what they were doing…
+
+With just under a thousand Refined, and in the neighborhood of fifteen hundred Paragons, they were similarly spread thin across the fourteen cities. It was still funny that there were more Paragons than Refined, but she’d already dug into that oddity, and so she pushed the thought aside.
+
+Tala did smile at that last number, however. Fourteen. We’ve finally grown enough to require and be able to support fourteen cycling cities.
+
+It was a feat to be proud of. But Tala was letting her mind wander, and she needed to consider the war.
+
+The forest cities, and Makinavin being avoided. That’s what I was thinking about.
+
+Master Jevin was hardly the only reason that Makinavin was being avoided. The bulk of combat oriented and capable Refined were there for the Waning, dealing with cells and monster swells in the area, while combatting the Black Legion when they were found and the Leshkin as always.
+
+Though, the Leshkin sightings have been lessening of late. I guess we know why now.
+
+-Indeed.-
+
+Tala let Alat move her hand unnecessarily, even if it did help hone her will around the action. She placed her palm against the man’s closed right eye and slowly pulled back, drawing her fingers together and pulling a long spike of crystalized reality free.
+
+As she considered things, going past the numbers and thinking on the individuals who had been lost, she hated this. So many dead. So many crippled, even if only temporarily.
+
+In one sense, she wanted to seize control of the war effort and demand an assault take place at once. At the same time, she knew that they needed more strength than they had at the moment, and every moment that they delayed meant dozens of fewer reality splinters in their best combatants.
+
+It also meant that their healers would be more experienced… and more worn down.
+
+Everything’s a trade-off.
+
+-And we have traded off leadership in order to fight on the front lines against the most powerful automata.-
+
+Yeah…
+
+That brought her mind back to her most recent such fight. Her will and authority moved to the man’s chest, beginning the delicate work of removing the splinters from directly around his gate.
+
+Alat continued to be the main driver of the procedure, having garnered and inculcated the research and experience fed into the Archive by all the various healers currently working on this one problem.
+
+Tala provided the muscle and framework—so to speak—Alat the expertise and finesse, hence Tala’s wandering mind.
+
+Her most recent fight had been both a rousing success and a terrible failure. Trade-offs once again.
+
+Leaning on Terry and Rane as tethers—along with the grounding effect of her authority and the purpose behind her clash—had kept her more focused and ensured that she did achieve her desired results, but she’d taken longer than ideal, all urgency fading with the advent of her existence shield and ending blade.
+
+Moreover, she was likely only alive because of that very shield, but the result had been to spread infectious reality crystal through the substrate of the superficial even as she fought.
+
+If they did the same thing to her again—but then had the wisdom to kite her around the battlefield—she might do more damage to her own cause than the Black Legion ever could.
+
+…Tala frowned. That thought hit her very oddly.
+
+Why weren’t they filling the world with these reality splinters?
+
+She drew forth one such from the man before her and watched as it faded away, unable to sustain itself.
+
+They can’t exist separate from… what? A living host? A source of magic?
+
+The first seemed to be contradicted by the devastation she’d left in her wake, and the second by the fact that there was plenty of magic in the air here, if that was all that was required.
+
+Could there be different types of reality splinters?
+
+That made sense, but it also opened the door to a whole host of headaches.
+
+If they couldn’t count on consistency of behavior between one splinter and the next, they might never be able to find quick ways of removing—or consistent means of protection against—these pernicious things.
+
+The spheres of… crystalized reality iron?
+
+Molten reality steel?
+
+She really had no idea, but whatever they were, she already had researchers begging to take closer looks.
+
+In fact, many of the team she’d left at the escarpment to look into the real void there were apparently petitioning to be picked up and given a chance to inspect the orbs.
+
+Aside from that irritant, Eskau Meallain was fuming at not being allowed to fight in this most recent clash, and while Tala understood the sentiment, she’d had absolutely no time to set up a way of releasing her without allowing the elf outside of her authority, unlike at the escarpment, where Tala’s aura and authority had been blanketing everything.
+
+If that happened, a Sovereign was all but assured to simply smite the woman, and no one wanted that… Well, at least Tala and Eskau Meallain didn’t want that.
+
+Still, as Alat pulled the last splinter from the man before her—and Tala gestured for one of the assistants to come and take over—they released the elf from the sanctum.
+
+After a brief glare, she joined the Sappherrous family as they walked over toward Mistress Holly.
+
+The woman was clearly working in the Archive, but she was also gesturing grandly back and forth. When she caught sight of their approach, she stopped and turned to face them.
+
+In that moment, Tala frowned, eyes narrowing as she glanced toward the woman’s ribs.
+
+Her mind was filled with a memory of one of the first times she’d seen the woman with her magesight. Tala had seen magics to access various parts of the Archive, and while Mistress Holly had acted oddly about it, Tala had all but forgotten the tidbit.
+
+Alat gasped within Tala’s head as she reviewed the same memory. -That’s not how the Archive works!-
+
+No, no it is not. Tala’s eyes narrowed, and Mistress Holly gave her an arch look. “Did you need something?” Her eyes flicked to Eskau Meallain. “Elf, you are lucky with the company you keep.”
+
+Eskau Meallain’s eyes narrowed. “While that is true enough, I dislike your…” Her eyes widened, and she clearly changed what she was going to say. “You’re The Inscriptionist.”
+
+Mistress Holly quirked a smile. “Indeed. Do you want to improve your power? It would only take one of you to show just how much I could revolutionize your magic.”
+
+The elf waved her off. “No one of substance would ever agree to that.”
+
+The Inscriptionist grimaced. “How well I know that.”
+
+Eskau Meallain chuckled. “How are we to trust the concepts behind inscriptions if we don’t create them ourselves?”
+
+Mistress Holly sighed. “That is the crux of it. Your society refuses to teach inscriptions on a universal level, forcing every one of you to start from scratch—unless they have a master—and you all land on different dialects, mostly creating your own unique variants unnecessarily.”
+
+The elf shrugged. “Your way would weaken me.”
+
+“Even if that were true, it would empower your society as a whole.”
+
+“Which is the way of humans, not my kind. The strong protect and shelter the weak, we do not give up our power and demand that the now slightly-less-weak care for themselves.”
+
+The woman waved off the objection. “How well I know it. Even those in the Wandering Wilds are so steeped in that way of thinking that I cannot change them.”
+
+Tala cleared her throat, still focused on her own realization. “That aside, why do you have inscriptions to connect to the Archive?”
+
+“Because I find it more convenient than getting an item.” Even as she said it, Mistress Holly glanced away, showing that she was hiding something in an almost comical manner, but also that she’d not be likely to say more. The very fact that she’d answered so quickly implied that she’d expected the question, or at least that she’d had to answer it before.
+
+Even so, Tala decided not to press. “Regardless, what’s going on? What are you able to see?”
+
+That brought a stormcloud back to the woman’s face. “Effectively nothing. They’ve somehow begun seeding our southern expanses with far-sight blocking… reality or some such nonsense. We’ve sent scouts, and Master Xeel was recalled to scan the wilds around our cities. With those resources, we’ve discovered that there are several strike forces heading for Marliweather and Surehaven. We’ve warned the cities, and expect that their usual defenses and defenders will be able to handle the smaller attacks with ease, now that they won’t be taken unawares.”
+
+Tala growled at that. “So, this is a Leshkin War, but without the prep-time, more powerful units, and more of our civilians in close proximity.”
+
+“Indeed, but we have to worry about the Doman-Imithe. We have watch-points, and they won’t be able to come out within any of our cities, but it is still a danger.” The woman’s grimace shifted toward a smile. “Even so, we get to strike back this time.”
+
+Tala’s scowl transformed into a grin almost instantly. “So, the gated are pushing for the assault?”
+
+Mistress Holly nodded, a gleam in her eyes. “We are. Expect the war council’s next orders to come down soon. If my sources are correct, we’ll attack tomorrow.”
+
+Tala let out a long, contented breath. “Good, good.” Her eyes then tracked to Eskau Meallain. “In that case, I think I need to try to speak to a Sovereign about an elf.”
+
+Eskau Meallain only frowned for an instant before her eyes opened wide in shock. Then, her expression settled into one of murderous glee. “Oh. Oh, yes please.”

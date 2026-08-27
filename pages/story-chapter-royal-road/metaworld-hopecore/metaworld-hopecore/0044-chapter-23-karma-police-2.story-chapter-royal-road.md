@@ -1,0 +1,95 @@
+---
+id: 6aa8a36e-c4bd-59e5-84f2-7300f8723fe9
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 23 - Karma Police (2) "
+slug: 0044-chapter-23-karma-police-2
+partOf: metaworld-hopecore
+position: 44
+ownLength: 1531
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369835/chapter-23-karma-police-2"
+royalRoadId: "3369835"
+---
+
+While the students got a chance to grieve and boast, the Theatre Faculty checked over their tapes and discussed their candidates.
+
+Unlike the Junior and Senior auditions, Sophomores were done in a matter of a day.
+
+Deep in the belly of the Old Music building, Costello and Cooper were joined by their colleague, the Production Manager of the Playhouse, Susanna Tyker. Like themselves, Tyker was an old LAPA instructor and a veteran production manager for several of LA’s finest theatre companies.
+
+Susanna Tyker was forty-one, or thereabouts, with the kind of face that had been strikingly beautiful in her prime, before the habits of tobacco and alcohol took their toll. Now, her face was merely interesting. Unlike Costello’s perchance for Italian jackets and Cooper’s love of turtle necks, Tyker dressed practically: dark trousers, a blazer with the sleeves pushed up, boots that should have seen a polisher a year ago, and carried a battered leather folio that she set on the table beside her. In recent years, she had successfully managed many “postmodern” re-treads of the classics to critical acclaim, a process she hoped to also repeat for her students at LAPA.
+
+“So that’s Eppie Fontaine,” Tyker straightened her spine when Eppie’s recording came on. “Your replacement for Luciana Mio.”
+
+“Don’t say that,” Cooper grunted. “Mio’s still out there somewhere. You know, I tried to contact her family. We all did. Besides, Eppie is Eppie. No one is an understudy for anyone else.”
+
+The gloominess of the conversation dimmed even their interest in the school’s rising star.
+
+“Right,” Tyker changed the subject. “This resume, is it real?”
+
+“As far as I can tell, yes,” Cooper’s face returned to one with fewer lines and creases marring his stoic looks. “Three songs for Sony BMG. One acting credit. We can easily check the site to verify her SAG and AFTRA membership, so none of this is… hyperbolic.”
+
+“Why isn’t she doing music?” Tyker asked. “One would think this is her forte. Is she not interested in Musical Theatre?”“Is her acting poor?” Costello interjected. “I don’t believe her side hustle is objectively relevant to our discussion.”
+
+“It is if she’s shipped off to become a pop star mid-production,” Tyker said drily. “It has happened before.”
+
+“But that hasn’t affected our decisions here before,” Costello retorted. “Shall we agree upon a new policy then?”
+
+Cooper watched his colleague watch Eppie’s recording for a few seconds.
+
+“No,” Tyker shook her head. “She’s the best we have.”
+
+“I thought as much,” Costello concurred. “I’d rather Madison as well, but she’s still head-acting. If her facial expressions are in the A-range, her body movements are B at best. Eppie, however, acts with her body.”
+
+“It’s a difficult role,” Cooper agreed. “Antigone’s tragedy isn’t about snot and tears. It's not even about breaking. It's about… how much you can bear.”
+
+“Where was she last year?” Tyker asked. “I never saw her anywhere.”
+
+“She had a fall,” Costello explained. “I am not privy to the details, but it appears she fell from the roof of our main building. They said it was a suicide, but the school denied it. From the looks of her vivacity, I guess the rumours were false.”
+
+“That was her?” Tyker’s brows rose. “She seems perfectly hale. Kids can really survive anything, I guess.”
+
+“VP Thomas offered her a full-ride Scholarship for her to return,” Cooper explained what he knew. “I do not believe anyone, including Arthur, was consulted on this. I am glad, however, that things worked out. She seems to have adjusted far better than last year, and her skills have blossomed into something truly prodigious."
+
+“You think she will be another Sandra Holmes? Or Eva Ainsworth?" Tyker named two of LAPA’s recent graduates. One for a Tony, and the other for an Academy nomination for best supporting actor. “Maybe a Grammy is in order. I’ve heard Vincent, actually. I very much look forward to visiting the Met after our Fall Gala concludes.”
+
+Cooper and his colleague shrugged. They had seen plenty of talented students, but only 1 per cent of the 1 per cent can break the meniscus of mediocrity to join the authentically talented. Often, it wasn’t skill-based. It was connections, personality, persistence, and connections again. There was also the question of sacrifice. What was a young starlet willing to sacrifice? Their family? Their homes? Their morality? Themselves?
+
+“Indeed. So that’s a tick from me,” Cooper made his mark. Costello followed. Tyker bit her lip for a moment more, then ticked her box as well.
+
+“Very well,” Cooper moved on to the next candidate. “Lucy Tanterman—Ismene”.
+
+While Eppie’s teachers paced back and forth, in another room, her enemies also paced back and forth with a divided opinion.
+
+William Chen, star of the Cinematic department, was mildly annoyed by the fact that he had to spend his precious editing time entertaining an irrationally upset girlfriend.
+
+“Look,” he sighed. “Let’s just agree to disagree on this, okay? You saw how the girl reacted. She’s completely harmless. She was completely welded to the spot! It was kind of funny, actually. I wonder if she remembers why she fell. Did you notice she had no reaction toward Simone?”
+
+Or if her body remembers. William kept his private thoughts to himself. In his mind, he had no recollection of her actually seeing him, or even realising it was him. In Eppie’s memory, there should only be Simone Goode.
+
+Besides the pacing pair was the rest of their crew, lounging in the private suite which his father had arranged for them to practice and work on their craft. Such a feat was usually impossible even for a high-ranking member of CSULA’s administration, but Omnia had refurbished the university’s library and literally built the courtyard’s new apartments. For his son, a little lease of a few rooms for a matter of two years wasn’t an ask VP Thomas could refuse to entertain.
+
+“You said you would break her leg,” his girlfriend repeated the words again, like a priest at prayer, counting beads. William sighed—Valorie’s obsession was most definitely affecting her performance at the auditions.
+
+Thankfully, there was no real competition. The Nepos who meant business this year were in Dance and Theatre, and there was another one in Production and two in Cinema. Even taking the Free-to-play kids into account, Valorie was the clear frontrunner when it came to Musical Theatre, even if her usual vivaciousness was diminished by distractions. Her singing was so outstanding that, if Korean pop packages existed in the West, she would already be a trending trainee.
+
+Unfortunately, Senator Sanders did not want his daughter’s career to impact his reputation. Ergo, Valorie must debut as a serious, well-marketed star with enough chops to avoid the hyper-sexualisation so ubiquitous to American Pop. From what Valorie had told him, Universal was still dithering between marketing her as boho or diva, or maybe rebellious alt-rock.
+
+Ironically, William realised one night, the route that Valorie had really wanted to take was the very path that Euphemia had already taken—evergreen ballads. Both Vincent and Whatever Will Be had that timeless, enduring feeling of classics born out of time. Likewise, neither of the songs focused on the mass-produced sound and visual image of traditional “bombshells” like Kellie Noah or Lucia Lancet. Most of Eppie’s listeners had no idea who she was or what she really looked like. The songs sold on iTunes were merely artworks attached to singles. Ergo, it was for this reason that Valorie hated Eppie—somehow, in Val’s delusional mind, Eppie had taken what should have belonged to her.
+
+“I said I’ll arrange it,” William defended himself. “It’ll happen sooner or later, but not if my brothers have to tangle with the fuzz. Why do I have to remind you of this? My father isn’t a sitting senator of California.”
+
+Valorie, sweet Valorie, flashed him with eyes so full of venom and vitriol that William’s heart rate spiked. There was no doubt that his girlfriend was beautiful. Valorie’s mother, bless her risen soul, really did pass on the best of her genes. The only part of Valorie that was the spitting image of her father was his ruthlessness and his unsettlingly green eyes.
+
+And speaking of eyes. Watching Eppie’s eyes constrict to a pinpoint had been absolutely delightful.And it was very pleasing to William in recognising that, if Eppie understood the concept of make-up, she would possess a face that was in no way inferior to Valorie. In terms of appeal and figure, however, there was no competition.
+
+His hands landed on his lover's slim shoulders and began to massage them vigorously. “Relax… relax…”
+
+“I am so sick of…” his girlfriend’s monotropism continued. William turned her out.
+
+That said, Wang really wasn’t taking this very seriously.
+
+But now that he had caressed the songbird, William chose not to blame his childhood friend. He personally had no desire to see a pretty prize damaged, and so he chose to acknowledge that no one from the Five Root Association wanted to put themselves in a precarious position for someone like Valorie Sanders.
+
+That and if Chen Senior found out, the sky would sunder, and his ancestors would turn in their graves.

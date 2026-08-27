@@ -1,0 +1,69 @@
+---
+id: 2050bf15-d063-535f-900b-7a35a359bcbd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 282 Storm and Sea"
+slug: 0297-chapter-282-storm-and-sea
+partOf: melody-of-mana
+position: 297
+ownLength: 1627
+unit: words
+ownProgress: 1627
+publishedAt: 2023-11-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1400892/chapter-282-storm-and-sea"
+royalRoadId: "1400892"
+markedReadAt: "2026-06-29T22:36:04.863Z"
+---
+
+The storms continued, through the night and well into the morning. By the time everyone began breakfast it was clear that the demonstrations for the day, which had been planned for one of the outdoor areas, would have to be moved inside. That was a bit of a shame, as the winding brick paths and large grassy centerpieces were really relaxing, but it was what it was.
+
+Like the magical academies back home, this one too had an arena, something I'd not properly instituted in my own setup yet, but clearly I would need to. These were used for testing, magical combat practice, and exhibitions against any captured monsters for both the staff and interested parties to observe. This one was also covered, which made it perfect for the various individuals showing off their tattoo magic to display their skills.
+
+I walked after the groups of students, watching along with them as they went between the stations. Mostly I kept near the royal children and my own, keen to keep an eye there, but I got around to each and every one of the presenters by the end of it.
+
+Sadly there were very few actual forms of this magic still in use. There were a series of men displaying markings that allowed them to harden their skin into steel, or strike with incredible force. These were the bulk of the users, simple physical expansions, and I had to admit that even I was tempted by some of these. Having that bit of extra omph would be nice in some situations, but at this point in my life I could at least mimic most of what they could do.
+
+Other than the power enhancements there were some of note though. There was a man showing a tattoo form that allowed him to heal himself of injuries. He explained that this was really, really inefficient, but something he'd gotten in his youth while hunting magical beasts. Mages were very common here, but that didn't mean that they were always available in the type you needed when you needed them.
+
+My personal favorite presenter though was a woman covered in silvery lines in a tank. Her particular markings allowed her to go without breathing at the cost of mana. I gathered that she was a bard, and had taken these as a means to allow her to do swimming dances, which she spent much of the time doing. I was not the only one interested either, as many of the male half of the students were enamored with the lithe woman in, what was to them, a rather revealing bathing suit. It sort of reminded me of a one-piece from Earth, but when everyone wore dresses that almost always reached the knees, that was seemed almost scandalous.
+
+The elves had a penchant for that. In my youth the dance costumes for a lot of their traditional work had caused a bit of a ruckus, still did amongst the more prudish parts of society. These young men who'd come to see their continent were probably more accustomed to it than others, having at least some exposure to the elven language and society. Though I wondered how others would feel briefly before remembering that it didn't really matter.
+
+Of note there was nothing like the Lover's Marks so common back in the human lands. I didn't know if they had the right methods for such magic or if it was just uncommon here. Elves were well known for their poor birthrates, and I frankly imagined that lowering them further was probably not desirable to most people. Then again there were plenty of reasons for not wanting a child at the moment, so who knew.
+
+For myself though, I managed to learn that a lot of the formulas depended on either magical beast or plant parts, and were extremely old. There was little research on developing new ones, though every now and then it seemed that the old formulas would be improved a bit. The bases for them were all similar though, and while not all of the ingredients were available in the human lands it seemed probable that with a bit of reference material we could replicate some of these. I'd be seeing if we could trade for that, and possibly a bit of help when I got home.
+
+The storms seemed to continue through the day, but didn't worsen at least. The rain was falling in sheet after sheet, turning the ground into a muddy mess, but nothing worse than a simple thunderstorm. Hopefully these would all end soon, as it was getting old.
+
+We all headed for the dinner hall, hoping to dry off and soon make it to bed. Hiding in the rain was sadly an order of magnitude more difficult than my normal day, so I held back from the students, letting them get inside and away before I would make my trip. As I stood under an overhang whittling a bit of time away I saw several red lights fly up from the east, flares blaring brightly in the sky even through the downpour.
+
+A Certain Councilor
+
+The doors opened of their own accord and I marched forward, heels clicking against the shining tile surface of the meeting room. It was uncommon that I ended up called to the military's headquarters, and it always meant bad things. Not from our neighbors, no, Atal may not control all of the former empire, but we still outclassed our fellows to the point that nobody sought war with us, no, often the enemy came from the depths.
+
+The windows across the room I entered looked out upon the city and the port. Right now there was little but dark clouds and rain to see though. There however were enchantments that could aid with visibility if needed, currently unactivated. The problem was still outside of sight even for those, and there was no need to waste mana for no reason.
+
+Rain like this was clearly unnatural to those who'd seen it so many times before. The season was too early for such storms, and there was a tang of mana to it. It wasn't some kind of focused ability, or a controlled one, just the product of a lot of power being used, most of it geared towards water. That alone though didn't constitute any sort of emergency, as such things could happen either naturally, or from creatures that didn't care about us.
+
+“Greetings, status?” I inquired as I sat down, rather shortly perhaps, but I'd been deep in consideration of some important matters before the message arrived, and woe to whatever fool had done the calling if this was a waste.
+
+“Glad you could finally join us,” one of my juniors said snarkily.
+
+I turned and glared at her, seeing the woman shrink back quickly. She was a councilor as well, but there was a ranking in fact if not in law, and she was far, far below me on it. It was a simple fact of the matter that almost everyone got crotchety and set in their ways after a millennium or so, a reason that we seldom met, such meetings, if not properly managed, often turned to bloodshed.
+
+Other than her was one other councilor, the three of us were the only members of the council currently in Atal, and that boded poorly for whatever the emergency was. Our third was a man, and the youngest of us, but well liked for his more controlled attitude. At least I wouldn't have to worry about him trying to provoke something. Several higher ministers were also here, those who were not quite as powerful as us yet, or who would never reach that level.
+
+“Please, we didn't come here to argue,” he said. “As for the situation, we've lost three of our larger warships. Something followed a merchant back to port from the deeper waters, and seems keen to enter our bay.”
+
+“Identification?” I asked, and all heads turned towards the man in charge of the local fleet.
+
+“None as of yet sir, visibility being what it is we can't get a good look at it, but I can tell you it's unreasonably big, and advancing. We deployed a few of the old weapons, but that seemed to do little more than stymie it,” he told me, looking worried.
+
+“Flares!” someone declared with urgency, but no panic, their training taking over.
+
+Before I'd even turned fully one of the assistants had flipped on the enchantments on the window, letting us have a full view of the city. Red dots shone as they climbed higher and higher over the skyline, originating from the port, the port that was quickly emptying.
+
+The sea was pulling back, back, back, sand and shells exposed as a veritable mountain of water retreated. Ships fell to the exposed bottom, or were held in place to piers by their moorings, hanging exposed in air. There was a beat of silence as a claw the size of a city block was revealed by the fleeing water, followed by a chitinous leg.
+
+Alarm after alarm was stuck and the city's wards sprang to life in my vision as the creature revealed itself. From here it looked like a normal crab, distance robbing it of the size it had. Normally such things stayed well in the ocean, but a quick glance showed why it had followed what must have been little more than a morsel to shore, back to where more like it could be found. Below the beast was an egg-sack, full to bursting.
+
+“Well,” I said as the previously leaving water returned in force, a tidal wave carrying a monster straight at our docks. “Time to work.”

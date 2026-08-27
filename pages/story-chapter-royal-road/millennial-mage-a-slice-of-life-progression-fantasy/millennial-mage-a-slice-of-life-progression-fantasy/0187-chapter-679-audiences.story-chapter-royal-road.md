@@ -1,0 +1,177 @@
+---
+id: a97b98ce-cfd2-516c-8608-d4eb91356224
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 679 - Audiences"
+slug: 0187-chapter-679-audiences
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 187
+ownLength: 2615
+unit: words
+ownProgress: 2615
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3122620/chapter-679-audiences"
+royalRoadId: "3122620"
+markedReadAt: "2026-06-29T19:41:03.545Z"
+---
+
+Tala found an oddity as she came into the official reception hall of the House of Blood here in Croi.
+
+First of all, it was entirely dressed in red stone. The otherwise oppressive, bloody color was broken up skillfully with gold and black gems and stone, seemingly mostly a mix of onyx, obsidian, and dark opal.
+
+The House of Blood certainly knew how to make a statement.
+
+Second—and a close second at that—was the fact that two thrones sat at the head of the room, on a dais.
+
+No… that wasn’t right. It wasn’t ‘a’ dais. The raised platform was split in two, with a short step down between the two thrones, showing that they were separate powers but on equal footing.
+
+One was white, reminding her of the dining room she’d just left, with carved depictions of crops, nature, and crafting.
+
+The other was black, seeming to blend with the room far more easily, its carvings harder to see in its dark expanse. Tala could easily discern them of course, and they were images and patterns of weapons, battle, and war.
+
+The white throne seemed to have centuries—if not milennia—of wear while the black throne seemed almost brand new, save the sense of age about it. Rarely used.
+
+-If ever.-
+
+I think there have been one or two Eskau of War throughout the history of the House.
+
+-True enough.-
+
+Head Corinis had requested a moment to ‘freshen up and change into something more appropriate,’ sending her on ahead.
+
+He’d also suggested that she wear her armor, leaving the helmet off and possibly even setting it to the side as a visual.
+
+She now understood what he’d meant, as well as why he’d made the suggestions.
+
+It was obvious where she was supposed to sit, and how she would look there, in her armor.
+
+House Guards stood at attention spaced down the sides of the room, recessed in alcoves clearly added for their stations.
+
+Their armor was as she’d seen before, if a bit more ornate due to the nature of this space.
+
+Just as for her reception, they were offset from one another, none looking straight across at one of their fellows.
+
+The guards held decorum, not turning as she entered, but each bowed low as she passed, striding toward the black throne.
+
+Her armor grew around her, pulled to the superficial and manifested around her. She did it in time with her steps so she grew as she progressed, adding just about an inch due to all the layers of integrated and ablative defense.
+
+The protective gear would be unnecessary of course, except as a statement.
+
+She turned and sat on the black throne. It was five steps up from the main floor, giving her a commanding view of the larger reception hall. It honestly reminded her a bit of where she’d been welcomed back to Platoiri, even if it wasn’t as massive as that one had been.
+
+Regardless, it had a similar feel, a similar authoritative air.
+
+Less than five minutes later, Head Corinis strode in, his Eskau flanking him. The man wore black robes that had clearly been expertly crafted, and Tala finally saw the full effect the man had been going for. She was to be the white Eskau of War, atop the black throne, he the black Head of House in the white throne.
+
+They were opposites but united, separate but equal.
+
+It was an odd thought, but in regard to leaders? It fit.
+
+Head Corinis entered the room from a hidden side door, pausing to chuckle when he saw her. “I’m glad you took my suggestion on the armor. It does fit the… sense of this place so well.”
+
+She gave a small smile. She thought she knew the answer, but since he was here, and they had the time, she decided to ask, “Did you have this crafted?”
+
+He huffed. “Hardly. If it displeases you, we can have a new one made, but this dual chamber has long been used to project that we were a House at peace. We were founded and steeped in battle for long years, but we were at rest.” His smile returned, looking almost feral. “No longer.”
+
+She nodded, understanding. With a thought, she created a helmet for herself, resting on the armrest of her throne.
+
+It fit the place well.
+
+In one sense, this was all insanity. She was a gated human—the traditional enemies and strategic resources of these people—additionally, she was once a slave in all but name—all but forced into a sort of puppet authority.
+
+Now? She’d seemingly been handed the keys to the kingdom.
+
+The truth was less… grand.
+
+She had full authority with regard to executing the war that was yet to begin. If she tried to throw her weight around, as it were, her authority would quickly be eroded into uselessness. She had not been handed command of the House. Rather, she’d been given the opportunity to prove she could elevate the House with her actions, given both trust and a chance to succeed.
+
+They were gambling on her, but it wasn’t blindly, or without cause. There were many, many reasons—most of which she realized that she was unlikely to ever know—but they weren’t betting everything, not by a copper or a gold.
+
+But all of that wasn’t the purpose of her presence here. As such, it was less than five minutes after Head Corinis had taken his seat that the great doors at the far end of the hall opened once more.
+
+As expected, the first group to enter was a pair of dwarves. The leader was more elaborately dressed, likely the ambassador, and the one trailing more martial, though he bore no weapon that Tala could see.
+
+Still, no adult arcane was ever truly unarmed. And speaking of the magical side of things, both had fully suppressed their own power, hiding it deep within in a manner that would make it difficult to draw forth quickly.
+
+The fact that it also obscured their advancement was likely not seen as important.
+
+The ambassador’s eyes flicked between Tala and Head Corinis in clear confusion, but she still advanced, bowing at three points as she strode forward before she reached the area before the dais.
+
+To one side, the final House Guard stepped forward. “The Head of the House of Blood and the Eskau of War of the House of Blood greet the emissary of the fledgling dwarven kingdom of Thron.”
+
+Tala and Head Corinis gave appropriate, seated bows as the ambassador and her guard gave final deference. As she straightened, the dwarf wasted no time. “My apologies, Revered ones, but ours is not a dwarven kingdom.”
+
+Tala arched an eyebrow, and Head Corinis leaned forward just a bit. She let him take point as she honestly had no agenda here at the moment. “Oh? My understanding is that the majority of your population was dwarven.”
+
+The ambassador gave a nod of assent. “That is so, but neither our foundations nor our laws make distinction between the races. All are welcome so long as they come to contribute.”
+
+He nodded in turn. “That is a laudable sentiment. Quite in line with our own beliefs. Your King does his origins credit.”
+
+She smiled and demurred once more. “Thank you. He has sent me to your House as a courtesy. He has a favorable view of you and yours, and he wishes you to know that we are accepting citizens and seeking allies.” She straightened, clearly proud of the kingdom she represented, even if it was new. “In our explorations of the deep, Thron the Ablative has found and mastered a concept blade, claiming it as his own beyond question.” Her posture shifted to be a bit more hesitant, then. “He specifically wished for me to convey that while he is grateful to the House of Blood as his previous home, he is hesitant about working too closely with you because of how you treated one he once knew. The death of the human Eskau Tali—whom he served—after certain incidents, of which I was not informed, has made him leery of approaching before now.” She hesitated. “Well… ‘now’ being when we first came to seek an audience three years hence. This was to be our last attempt to gain an audience, and we assumed that we would be turned away yet again. We have no new message.”
+
+Head Corinis seemed rather tickled, humor dancing in his eyes as he glanced toward Tala. “Former Adjunct Thron found a concept blade in the deeps. That is quite the claim. Don’t you agree, Eskau?”
+
+Tala sighed, knowing what the man was doing. Still, she still had no desire to tell them that she was the source of the blade. “That sounds plausible enough. Such blades are known to surface from time to time in the most unusual of places.”
+
+His look turned momentarily flat, making it clear that he was in the group that suspected she’d paid Thron off with a concept blade, even if they couldn’t prove it, and she’d never admit it. Still, he wasn’t one to dally overly on dramatics. “Very well. We too have fond memories of… King Thron. We were saddened by his departure, and we would welcome renewed ties of friendship and cooperation.”
+
+The ambassador smiled. “That is gratifying to hear. I do ask if you have any message to convey back about the matter of hesitance?”
+
+Head Corinis huffed. “Is he seeking an explanation? Apology? For me to discipline those involved?”
+
+The ambassador gave a diplomatic shrug. “I fear I do not know what my King seeks, simply that I was to ask how you respond to his point of difficulty.”
+
+“I suppose that is reasonable.” Head Corinis smiled yet again, turning back to Tala. “Eskau Tala, can you give the human perspective on this issue?”
+
+The dwarven ambassador blinked a few times, clearly trying to process the words. Tala understood, she could easily have been mistaken as an elf or one of several other arcane races with only a passing examination, and while her return had been widely spread within the House of Blood and their allies, she doubted that it was widely known outside of those channels… and likely the city of Platoiri. Regardless, the ambassador’s eyes widened. “Eskau Tala? Is that… is that truly you?”
+
+She nodded, flicking a bit of an annoyed glance at Head Corinis for the theatrics. “Yes. I was the Eskau whom… King Thron served as adjunct. I knew him in that position as Thorn, just as he knew me as Tali.”
+
+This seemed to catch the ambassador completely off guard. “I… I apologize for being so misinformed, Revered Ones… I fear that with your positive reception and this new information, I must return to my King and ask his direction. I request your leave to depart at once to carry word back to him.”
+
+Head Corinis nodded. “But of course. Please convey our respect and well-wishes. We look forward to positive relations with you and yours. We will send along a missive containing some critical information for King Thron as well.”
+
+A few more formalities were exchanged before the two dwarves departed, clearly barely keeping themselves from running.
+
+The next few visitors were from among the others that Head Corinis had told her of. She was introduced to them as the Eskau of War, making a clear statement about the new state of the House of Blood.
+
+Beyond that—and a vague increase of her understanding in some of the various connections both existent and in process of being created between the House of Blood and other entities—they weren’t really of note.
+
+She would be sending out the call for various recruits in the near future with an aim both to bolster the forces of the House itself and to increase their allies. Beyond that, her position was not a diplomatic one.
+
+She was the sword of the House, just as Be-thric had wanted her to be his sword. Aside from being the weapon of people she could work with, the position was also more functional than that. The founders hadn’t wanted a stupid weapon, destroying whatever it was pointed at.
+
+They’d wanted whoever held the post to be able to act with the wisdom and insight gained in earning the position.
+
+In this war, the House had gotten her, and she’d make sure that it was never the same as a result. But that wasn’t something to be done from this black throne at this time. This was something to endure.
+
+Tomorrow, she would start her study of the world-fragment, and once that was done, she could return to Platoiri and begin the real work.
+
+Even so, this wasn’t worthless time—nor was it simply ‘informative’—each time she was presented, there was a minute change to her now-intrinsic authority. If the House could erode her position over time, this was the opposite. Head Corinis was specifically building her authority both inside and outside of the House.
+
+So, endure she would.
+
+Regardless, finally, another of those she’d specifically noted came up in the roster.
+
+An arcane clad in simple robes—but bearing a cast-iron shield on his back—strode in. His features were calm, and his dark grey skin practically matched the color of his shield, if a bit lighter.
+
+He was of the grey hue-folk, standing easily six feet tall. His eyes were a soft gold, making his otherwise stoic expression seem like it was hiding a well of mirth.
+
+The beginning of the audience went as all the previous ones had until Tala was introduced and the man began to bow in her direction specifically.
+
+At that moment, he seemed to actually focus on her for the first time, and he froze, eyes widening and mouth going slack. “You… You are her? Here?”
+
+Tala frowned. “I’m uncertain what you mean…?”
+
+He bowed again. “Forgive me. I am Jern, Third Eskau of the House of Iron. You are Eskau Tala? The human who recently returned to Platoiri?”
+
+“I am… why do you ask?” Tala frowned, examining the man more closely but not seeing a vestige or anything else that indicated a protian weapon. But he’s an Eskau?
+
+The man visibly swallowed, obviously taken off guard. “I was told of your… aspect, but I had not believed that any could be so suffused with iron, yet so obviously magical in nature. I owe my brothers penance for my disbelief.”
+
+Tala glanced toward Head Coirinis but found the man seemingly equally confused. She returned her gaze to the now kneeling arcane… kneeling toward her. Tala felt entirely out of sorts, so her next words were very carefully chosen. “Please explain what we can do for you, and what you seek.”
+
+“I…” The man swallowed again. “I suppose I come to place the House of Iron at the disposal of the Iron One. We have been seeking true understanding of and union with iron since our founding. It is our core aim.” He looked up, an odd fervor in his eyes. “We need a teacher, a guide.” He swallowed again. “One to nurture our connection and draw us into the truth of power within the metal. When you were seen in Platoiri, it was hoped that you might be that. I see now as well, and I too feel the connection. It must be you. It must be fated, as no other has been found in millennia of searching.”
+
+After the man’s words, Tala only had a single thought in the growing silence. There is no way they could know I am the Iron Matriarch.
+
+Alat’s response was entirely unhelpful. -Clearly, they can.-

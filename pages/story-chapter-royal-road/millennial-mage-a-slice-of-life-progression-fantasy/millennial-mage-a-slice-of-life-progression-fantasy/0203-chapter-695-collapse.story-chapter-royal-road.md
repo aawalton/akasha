@@ -1,0 +1,233 @@
+---
+id: 381a88d0-6c41-55a3-8ceb-63e87c0a6eeb
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 695 - Collapse"
+slug: 0203-chapter-695-collapse
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 203
+ownLength: 2707
+unit: words
+ownProgress: 2707
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3284676/chapter-695-collapse"
+royalRoadId: "3284676"
+markedReadAt: "2026-06-29T19:41:33.931Z"
+---
+
+Lea danced back and forth, Talons flashing to the superficial and back to the sanctum at an irregular cadence around her.
+
+She had two tasks as she held the central point of a growing skirmish.
+
+First, she was doing her utmost to keep the five sergeants that surrounded her focused on her while the various House Guards engaged and slowly whittled down the standard legionnaires.
+
+She wasn’t the only person in the city fighting sergeants by any means. Her dadde was giving her regular updates of  skirmishes as defenders engaged the Black Legion all over the city. Still, she was playing a vital role here near the center, where there were no Pillars or Eskau besides her mom, and Tala was rather indisposed at the moment.
+
+Second, Lea was the anchor point for the sanctum amidst the enemy mob. Through her, the Talons were able to act, striking decisive or delaying blows.
+
+She only had ten Talons with her in the sanctum, so they were not able to be fully engaged as they were around her father on the edge of the city—not if they hoped to be useful for an extended battle—but they had grown skilled in ‘Terry Tactics’. They kept close watch on the superficial and quickly willed themselves into place to strike, retreating back to the sanctum before they could be countered or hampered.
+
+As all the Talons with her were of the higher ranks, they were all fully clad in white steel—the production of that material was at an all-time high—thus, the effect was to make it seem almost like Lea herself was flickering all around in the small clash.
+
+The automata were most likely perceptive enough to not be fooled, but the guards that fought alongside her? They were only catching the barest glimpses and that likely wasn’t enough to realize she was getting help.
+
+As such, Lea felt something growing within her; a part of her soul that she rarely interacted with felt bolstered.
+
+She couldn’t quite place it, but she felt like those she was fighting alongside believed in her. More than that, they were counting on her in this frantic melee in which they were largely outclassed in skill, and their numbers advantage was hard to bring to bear.
+
+They saw her engaging the sergeants—those who were even more skilled, even stronger—keeping them at least distracted even as white-armored flickers tipped the balance back in their favor within about thirty feet of the girl.
+
+Whatever the feeling was hinting at, it allowed her to have an easier time holding the anchor. That thirty feet had started as twenty-five, and she felt it slowly growing, even as she became more mentally strained, the increasing ease outpacing the growing strain even if just marginally.
+
+-Very well done, Lea! You are a big help. Things are a bit tight right now, but you’re doing wonderfully.-
+
+Thanks, momma.
+
+-Keep it up and… Oh. Oh, wow. I’m needed. Can’t talk. Keep up the good work!- Then, Alat was gone from Lea’s mind, the comforting presence entirely retracted.
+
+Dadde briefly reached out again, but he was helping dad, and so couldn’t do more than send her a sense of pride and comfort. He would contact her again with a general update within the next few minutes, and she could content herself with that.
+
+The momentary shock almost cost Lea, but as a massive mace—composed of most of one sergeant’s mass—came crashing down, she pulled herself back to the present moment.
+
+Lea flowed to the side, striking the black weapon to deflect it the rest of the way and cut away a good chunk of material.
+
+One of the Talons pulled the chunk into the sanctum, thus robbing that Black Legionnaire of resources.
+
+Tala had vanished from the sky barely a minute earlier, fighting the Black Legion Commander, and it seemed like something was happening.
+
+Good luck, Momma… Come back soon, Mom. I’ll hold here as long as I can.
+
+* * *
+
+Tala’s perception was distorted.
+
+She stood at the center of a collapsing hold, locking it together with grit and raw will.
+
+Alat was suffusing the space with their authority and aura, ready to claim all the dimensionality, but she couldn’t act yet.
+
+Tala knew, deep down in her soul, that when she claimed the hold, it would churn in on itself. Nothing that remained would be salvageable save as raw materials, and it was not going to be pleasant.
+
+Her alternate interface had already created a ‘new’ expanded space and was pulling the oldest trees into it, holding them in as close to stasis as she could manage with everything else going on. It took a bit of time, but she had a bit to spare, if only just. After all, the arcanes were almost out of the hold she was propping up.
+
+They’d tried pulling them into an expanded space, but their panic made them resist any direct action, and when she’d tried anyway, the hold had started to shatter around the arcane.
+
+She’d taken the mental space to ask one of the calmer ones to let her evacuate them, and even after he had agreed, the strained state of the hold—and likely her growing, but still tenuous, authority—made the attempt fail.
+
+She couldn’t even directly eject them to the superficial. Part of it was likely the defenses woven throughout the hold, but honestly, she didn’t have the time or attention to find the true reason.
+
+All this resulted in the worst sort of waiting game.
+
+-Or, you could allow the ten remaining to die so you can save more?-
+
+You mean I could kill them to move on with my work elsewhere?
+
+-That’s a bleak way of looking at it. The commander killed them. They’d already be dead if not for you, along with half the city.-
+
+Maybe, but they’d actually die from what I’m doing. Less than a minute and they’ll be free. Their lives are worth that much.
+
+-I hope you’re right.-
+
+The commander’s sword came out from between two reality nodes to Tala’s right, thrusting for her side.
+
+She spun, slapping the blade away with Flow’s void-form.
+
+The concept blade tore sideways at the hit, opening a void-edged rip to the Doman-Imithe. Apparently, the Revered City Lord’s defense against the Doman-Imithe didn’t extend to holds that were actively collapsing into the backside of reality, or if they did, they weren’t sufficient to lock the commander away from that tool.
+
+Let’s just hope nothing else joins him…
+
+Through the rip, the commander strode, a gleam of triumph sparking in its eyes along with the occasional bit of unconstrained power.
+
+Still, it didn’t gloat, nor did it slow.
+
+Its sword came around again as it executed a series of perfect cuts.
+
+Tala countered each, staying momentarily on the defensive, which allowed her to maintain against the automaton’s greater skill.
+
+The exchange lasted less than ten seconds before it vanished, effortlessly slipping back into the Doman-Imithe.
+
+That’s going to get annoying.
+
+-Like you dropping stoneward or rising starward?-
+
+…Maybe.
+
+-Or flickering around the battlefield?-
+
+Yes, yes, we have advantages too.
+
+-Except right now…-
+
+Except right now.
+
+They couldn’t flicker, as the momentary ‘break’ in their connection to the hold would most likely allow it to collapse. Similarly, if they went either star- or stoneward, they wouldn’t be able to maintain the support that was straining their Hallowed command of authority.
+
+Direct command of the physical.
+
+-Indeed.- It was likely the only reason this had even been possible.
+
+Tala felt something trying to slip closer, and she flexed her… something. She remembered seeing Master Grediv’s reality node, and how it had extended to an area around himself.
+
+She had the same, and she would not let a Commander of the Black Legion worm its way closer.
+
+The attack was pushed back, exiting a dozen yards from her this time.
+
+Still, the commander either expected that or adapted quickly as what came from the growing cracks was a heavy black dart pulling a thin, strong chain.
+
+It shot across the space between the crack and Tala’s face, forcing her to jerk back and to the side.
+
+As the dart scraped past, it cut a line into the metal of her helmet, the reality within lashing out to momentarily suppress her mental enhancements.
+
+Thankfully, Alat was more distributed than she used to be, so the alternate interface was able to continue her work, but they were both momentarily lessened.
+
+Tala reacted purely on instinct, and Flow slashed up, but that was the wrong choice.
+
+The void-blade hit the chain hard enough to deflect it, but the dart jerked to a halt just before Tala’s block, so the hit actually pulled the bladed weapon back, where it arced to cut another line on her armor, dispersing some of the magic that had barely begun to gather back into her mental enhancements once again.
+
+Alat didn’t have the capacity to keep the hold together anymore, and with an internal scream, the expanded space began to be consumed, pulled into their expanded space and fully under their authority.
+
+It was like the grinding wheel of a great mill, devouring the dimensionality from the back toward the entrance and anchor to the superficial.
+
+Alat did it as slowly as possible, but it would still be done in mere seconds.
+
+Tala bellowed in rage and frustration, sprinting and willing herself toward the exit even as the commander’s weapon vanished.
+
+She vaguely sensed the automaton slip through the cracks and back to the superficial beside the hold exit, using the final instability to return from the Doman-Imithe in the last moment, landing on the superficial right outside.
+
+Tala impacted with the final arcanes, breaking their bodies but throwing them clear to ragdoll into the street as the hold slammed shut behind them.
+
+There were already healers on the scene. Thus, they were attended to almost immediately, but Tala had other concerns.
+
+First, even though she’d fully claimed the expanded space, thus keeping it from catastrophically breaching the superficiality of Platoiri, she hadn’t been able to purge the reality taint within it.
+
+It burned as it churned against her will and aura, taking precious moments to fully master as she wove reality iron through to both soak up the taint and calm the maelstrom.
+
+When she gasped in a breath and focused, she was met with the second, more pressing issue.
+
+Her void-blade was crossed with the concept sword of the commander in an exchange of blows that had been purely instinctive and unconscious for her in the moment of agony.
+
+The thing seemed to notice as its all-too-human face grinned. “Fascinating. We did not expect you to be capable of such.” It glanced toward another hold entrance before turning back toward her, a wicked glint in its eyes. “The question is, can you do it again?”
+
+It turned to lunge that way, but things were not the same.
+
+Tala’s will snapped out, raw and strained as it was. Her authority within Platoiri at the moment—when focused on fighting the Black Legion—was monstrous.
+
+“Stay.” If it left, that would change the fight. That could not be allowed. This was entirely in line with her mandate.
+
+The commander seemed to almost bounce off of a barrier, falling to its back before rolling and popping back to its feet once more.
+
+Surprisingly, it didn’t turn to face her, instead, its blade slashed through the space it had bounced off of before it lunged forward once more. “Stay.”
+
+It bounced off again as Tala’s authority tightened. When it returned to its feet, it finally turned to regard her once more. “We have underestimated you once more.” It tilted its head to the side. “Hallowed, but gated. Or… seemingly Reforged but perfectly veiled? No… We have never seen such. Things like you are the core of our mandate. You are to be opposed.” It grinned. “By the Legion, I advance.”
+
+Tala felt a wave of authority that reminded her of the Revered City Lord’s blade, but this one was less focused.
+
+It seemed to come from the automata scattered throughout the city and beyond, and it took only a fraction of a second to gather before the commander lunged backward through the space it had bounced off of twice before.
+
+“Stay!” Tala tried to restrain it again, but her singular will—bolstered by many but still fundamentally hers alone—slammed against a unified, homogenous force of will wielded by one. It wasn’t a match for her, not really, but it was sufficient to keep the commander free.
+
+Tala felt Terry, Alat, Enar, and Rane briefly turn their focus and will to her aid, using their soulbonds as a medium, and she came down upon the commander with a five-fold weight of power.
+
+The Black Legionnaire slowed as if suddenly tied down with massive chains, but it continued forward, continuing to draw away from her and toward the next hold.
+
+Tala staggered forward, fighting through the tumult within her self—as the expanded spaces were her—to flicker after the commander.
+
+Each of her support had to return to their own battles, Alat specifically guiding the distribution of their forces around the battlefield while Tala handled the direct engagement.
+
+Still, she’d latched her authority on the thing once more, and even alone, she kept a claw in it.
+
+The commander spun as she flickered into being beside it, his blade cutting for her throat.
+
+Flow blocked the hit, but it surprised her with its next move. A short jab from its off-hand carried a diluted wave of reality negation that briefly cut off her perception this time rather than her magics. At the same time, it caused her unified armor, which was by nature a singular continuous piece, to lock.
+
+Tala’s instincts screamed that it was going to capitalize on the moment of weakness to do her greater harm. So, she flickered away, blindly except for her perfect memory and awareness of herself.
+
+As such, she landed somewhere safe that had been empty an instant earlier, well out of range of the commander’s follow-up.
+
+Tala felt a twist in reality that signaled the automaton’s version of a flicker. Without her perception, she realized that she could feel it in her very soul. The bit of reality within her both recognizing that reality had acted and feeling vaguely uncomfortable at the… fudging of its laws, even if only for a moment.
+
+Her perception returned an instant later, and she cursed.
+
+The commander was already right beside the next hold.
+
+Thankfully, its active defenses were engaged, and the doors were sealed shut, but Tala didn’t put much faith in those holding.
+
+Even as she watched, the commander’s armor seemed to begin sucking in the light around it, the magic in the air seeming to almost flee from the black steel as it built power toward a working.
+
+Yeah, that’s not happening.
+
+All across the city the Pillars and Eskau were driving the Black Legion back. Outside the city, Rane, Terry, and the Talons were reaping a permanent harvest, and at the city’s center, Lea—with the help of Ron and the elite Talons—was rallying the guards, acting as a beacon of stability for their forces.
+
+Tala shook her head, still trying to clear it even as she flickered forward, sending off a siege orb pair for the first time against the Legion.
+
+The commander struck behind itself, almost lazily sweeping its blade through the orbs.
+
+Rather than encountering tungsten that it could deflect, the reality of the blade shattered Tala’s workings, causing an explosive detonation of the compressed air that had made up the projectiles.
+
+Tala’s near-to-all-encompassing perspective rewarded her by showing a truly startled expression on the commander’s face as he was blasted forward with incredible force.
+
+Unfortunately, he was blasted directly into the sealed doors. The force of the explosion, combined with the freezing effect, the weight of the automaton, and the magic-nullifying concepts around the thing meant that it went straight through, vanishing into the hold.
+
+“Rust my biscuits!” Tala yelled in frustration even as she flickered after the Black Legion Commander into yet another hold.
+
+Existence thrummed in her chest, and Flow responded in her grip.
+
+This ends now.

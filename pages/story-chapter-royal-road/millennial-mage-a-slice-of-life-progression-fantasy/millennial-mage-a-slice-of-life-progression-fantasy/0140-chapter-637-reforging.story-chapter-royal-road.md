@@ -1,0 +1,245 @@
+---
+id: d5bb80f1-1f6c-53a2-9152-580208838716
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 637 - Reforging?"
+slug: 0140-chapter-637-reforging
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 140
+ownLength: 2948
+unit: words
+ownProgress: 2948
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2774428/chapter-637-reforging"
+royalRoadId: "2774428"
+markedReadAt: "2026-06-29T19:39:33.296Z"
+---
+
+Tala had been preparing for years now… more than a decade actually, when she thought about it, and she was ready.
+
+She and Terry moved to her merging chamber, the one that she’d had built to study the magics for her own attempt.
+
+She grinned. Now, she could just use the spellforms as they were. I’m glad I asked for the most powerful, complete version for study.
+
+-Indeed.-
+
+Tala sat down in the center and began the process of building her reality iron body.
+
+At the same time, Flow came free of her belt, its sheath coming off and being banished to elsewhere in the sanctum for the moment. The weapon then moved over to one of the subsidiary circles, one for the things that were to merge with her.
+
+Her elk leathers came off and moved in their entirety to another such location, leaving her naked in the center of the overlapping spellforms.
+
+Her Archive ring went into another circle. It was a tool that she used almost constantly, but also rarely actually thought about.
+
+Terry took up a location in a parallel spell circle, one that would incorporate him into the process without trying to break him down to merge him fully with her.
+
+There were additional magics in place both to highlight her soulbond to her husband and prevent any sort of merging effects from reaching through that link and affecting him directly. His participation would be voluntary with regard to will and power, and he’d only have influence on the process in so far as she chose to take him and his desires into account.
+
+I choose how the ties to me affect me, not shedding them, embracing them as I see fit.
+
+The final obvious circle was where she was actively building the new iron body. Those merging circles weren’t unique from one another, as their purpose was mostly to facilitate the work that she would be doing. She would provide the nuance.
+
+Regardless, the true final circle was one that circled the room, oriented outward in all directions, essentially declaring Tala and the other portions of the merging magics—’outside’ the circle. What did that mean? Well, it meant that ‘all of that’ was considered within the circle from a magical perspective.
+
+If she’d been performing this process while on the superficial of Zeme, this setup would have been incredibly foolish. As it was, it simply designated Kit in the most efficient way that the experts in the field could come up with. After all, without a ‘true’ physical form, Kit was difficult to target. This bypassed that difficulty.
+
+Those inclusive magics had layers upon layer of filters to prevent anything but the basis of the area targeted from being affected. What that meant in plainer terms was that Kit would be targeted without all the items, critters, creatures, and beings she contained being indicated or included in what was to come.
+
+At that moment, Tala felt Ironhold bump up against the sanctum. It wasn’t a physical bump, nor vibrations through the ground. Instead, it was the establishment of a direct connection, growing between them for the first time in ages.
+
+The couple of experimental spaces that had been separated off—few though they were—were likewise brought back into physical unity as well, making Kit ‘whole’ for the first time in just as long.
+
+There was an infinitesimal lessening of strain on the devourling, and that caused a ripple of contentment through the entirety of the expanded space. More than that, though, Tala felt an overwhelming sense of excitement and eagerness for what was to come. Kit understood what was going to happen on some level, and she gloried in the coming merging and advancement.
+
+Tala sat, cross-legged on the cool ground, surrounded by inlaid inscription of surpassing quality. As she did so, she was entirely naked save for two things.
+
+First, the through-spike. The magic-bound item that had allowed her to live a more normal life for so long. She pulled it from the back of her neck, holding it in her right palm for a long moment before she gave a small bow of her head in respect and acknowledgement of the magics, sending the construct toward her reality iron body, where it was absorbed, incorporated, and subsumed.
+
+Second, her white steel left hand. Her reality node was still damaged in such a way that her hand would not be returning by mundane or traditional magical means, but that was of no consequence, now.
+
+She practically detonated the hand, turning it to long strings of metal that moved to weave throughout the still-building iron body, that white steel’s connection to her—to her physicality—adding extra weight and gravitas to what was to come.
+
+Her bloodstars were pulled in, the connection to her soul that each one enjoyed was like a tendril of self, fully under her command and as much her as her own flesh had been. They were her blood after all.
+
+Each held a weak—but still fully formed—Archon Star within, giving an additional, strengthened connection to the blood which housed them, but also always waiting to grab onto more.
+
+It took quite a few hours, but in the end, the body was complete, Mistress Holly’s inscriptions meticulously woven throughout and around both stone- and starward of the body, coiled, looped, and ready for the final steps of the process.
+
+Terry was hunkered down and ready in his unique circle, and Tala was ready to begin.
+
+But…
+
+Something felt wrong.
+
+I’m in the center, those things I will be merging with to Reforge surround me and… Then, she realized it.
+
+She barked a laugh and put her palm to her forehead.
+
+“Oh, that would have been embarrassing."
+
+Terry tilted his head in question.
+
+She indicated her unclad form. “This body isn’t me. This body isn’t the center of what I am doing. My soul within this body is the core component I truly need, but it isn’t what everything will be gathering around.”
+
+She stood, moving her reality iron body to sit in the center and taking its place in one of the outer circles.
+
+Her bloodstars stayed swarming around that central, keystone spellform in which the basis of her new body now sat.
+
+Tala took a deep breath, rechecking everything.
+
+Even though she knew all the details to perfection, there was still so much experimental about this. She almost laughed at the thought. Every Reforging was ‘experimental’ in a way, as it was bespoke, by and large.
+
+She shook her head and refocused on her final inventory.
+
+All of her dasgannach bound iron was there—whether normal iron or reality—merged with the body across the dimensions of magic. The white steel that wasn’t woven through the new form had been returned to the sanctum’s stores, ready for her need if and when it was required.
+
+And that was it.
+
+With a smile and a silent wish for good results, she closed her Paragon eyes for the last time, sending power out and activating the magics all around her.
+
+In that moment, Tala Sappherrous, Wife of Rane, Bound to Terry, Mother of Lea, Paragon, daughter of Alan and Emily, forsworn Karweil, Pillarless Eskau of the House of Blood, Iron Matriarch, and scion of humanity ceased to be.
+
+* * *
+
+Tala’s perception opened before her, and she took in the visage of a simple knife, Flow as she’d first encountered the blade.
+
+It hovered before her disembodied view, and she knew the weapon like never before.
+
+It wasn’t a knife, not really, nor was it a sword or glaive. It wasn’t a medium for cutting magics, nor a vessel for the void.
+
+No, it was the embodiment of her approach to violence in close.
+
+A thousand, thousand memories flashed through her awareness, duels, skirmishes, full on battles, and training with masters.
+
+Flow had been there through thick and thin since they’d first bonded.
+
+The tool had been her first bond, even before she’d become Bound to her own body. It was easily arguable that Flow was more her than her born body had been.
+
+Tala leaned on that, feeling the resonance with the weapon.
+
+On a non-physical level, she felt that resonance with the new magics interwoven into the reality iron body, those that matched, complemented and intermeshed with Flow.
+
+The bound item was already prepped to accept changes of form, making this next part incredibly easy.
+
+“Join with me. Flow together and merge into the one we were always meant to be.”
+
+There was only a momentary shiver of hesitation before Flow almost melted. It was an action that seemed creative rather than destructive, though she couldn’t point to exactly how or why.
+
+Regardless, the magics and material that had been Flow flowed into place within the reality iron body, seamlessly joining with the material and magics already there.
+
+Within Flow, the latent, final magics of the dasgannach also rose up as they moved to merge with her. Its instinctual desire to make all things belong to it resonated with who Tala was and would be.
+
+Moreover, their shared desire—through the connection to Tala’s soul—pulled on her nature, spurring her on to greater conquests, prompting her to reach ever higher as it slotted in perfectly with her preexisting drives and desires.
+
+Theirs wasn’t a merging of disparate beings, forced to become one. It was a unity of two walking along the same path, a partnership that would never end because it never needed to.
+
+There was no need to invite unity here.
+
+They’d already been one, and Tala simply removed the mental and spiritual barriers she had previously built before truly understanding.
+
+They were one.
+
+The temporary perspective shuddered and went momentarily black once more.
+
+* * *
+
+Tala’s view now showed an elk, one that was reminiscent of Walden, while lacking his advancement or gravitas.
+
+Most of the clearly magical creature was ephemeral. In fact, all of it was save a portion of his hide, one starting at the spine on his left side and covering the back quadrant on that side.
+
+The beast regarded her for a long moment, then bowed its head in acquiescence, the final vestiges of the immortal elk relinquishing its authority over what had been its very skin to one it acknowledged as superior.
+
+Tala had a momentary flash of panic. She hadn’t realized that any other authority had so lingered on her bound items, and it sent a ripple of uncertainty through her.
+
+Alan’s words returned to her, along with her own revelations from what he’d said, and she quashed that quickly. Remember? I am not free of the influence of others, not now or ever.
+
+Tala slowly nodded, even without a head or neck, her view bobbing slightly.
+
+As the elk faded, leaving only the leather and the magics therein, they pulsed in time with their pairings in her new body.
+
+The elk leathers were so much more than clothing for her. They were the basis of her armor, they had kept her modesty, but more than anything, they were her.
+
+When she had been damaged, so had they, when she bled, her blood had to flow past them, through them.
+
+They’d taken on many forms, altering to match her various roles seamlessly. They were her skin in a real sense. She was never without them, and they were ever present protection and help.
+
+Memories flooded her. Wounds taken and healed, blows deflected by her armor—the elk leathers in different form—and so many interactions that were enhanced by the elk leathers and the alterations they’d worked on together.
+
+The elk leathers grew throughout the reality iron body, its very nature—now entirely Tala’s—settling comfortably into a body that had long been sheltered by it, to her.
+
+This second space faded, and Tala moved on.
+
+* * *
+
+The simple Archive connection ring was before her, or this half of it was. It was as much a part of Tala and Alat as her magic, her gate, her very soul.
+
+Alat’s every thought was facilitated and augmented through the ring, and Tala utilized the connection entirely subconsciously, the physical presence of the ring never relevant.
+
+With a huff and a simple exhale, the physicality of the ring vanished, and the magic melded with her like never before, body and soul.
+
+* * *
+
+Tala felt a choice before her then. She had three more pieces to interact with before the final push, and she was able to select. More accurately, this was the first time that the next item to address wasn’t immediately obvious.
+
+The three remaining were Terry, the body she was born with, and Kit.
+
+She felt a draw to Terry, and indicated him, causing the avian to appear before her in the not-quite-real space.
+
+The terror bird regarded the location her perspective came from, and he chuffed, clearly entertained.
+
+Then, a feeling of support and utter confidence washed out from him, and his own magical weight, will, and authority overlaid her. As she accepted that, she felt Rane’s alongside Terry.
+
+Her husband wasn’t there physically, but he was very much present in magic and spirit, quietly adding his capacities to her own. She hadn’t even noticed his gentle assistance, but with Terry’s now added to his? It came in stark relief.
+
+Terry was powerful, now more than ever before, but his power was mostly a reflection of her own.
+
+A room could be brightened significantly by a strategic placement of a mirror to one side of the light, but adding in a second light had a different quality to the increase in illumination. Each could be argued as the most useful, but Tala now had both, and she was grateful beyond measure for the support.
+
+Terry would not be merging with her. To do that would be a violation of the highest order. It wouldn’t be true to who either of them were, nor to their mutual understanding and bond.
+
+Even trying would likely have fractured that bond, if not Tala’s very soul.
+
+Thus, there was only one final piece before she moved on from Terry.
+
+The terror bird’s dimensional magics practically hummed in resonance with their counterparts now fully intermeshed with the rest of Tala’s power.
+
+No more would she be required to aspect mirror Terry’s magics. Instead, her very self would have her own form of them. He could now lean on hers as his continued to enhance this instantiated aspect of her magical self.
+
+Within her soul, Terry’s spirit drew closer, pressing up and even seeming to curl protectively around her gate, ever watchful, ever vigilant, bound to her in mutual acceptance and support.
+
+* * *
+
+Knowing that her born-into body would be the most difficult preparatory step—emotionally if in no other way—Tala moved toward Kit.
+
+The devourling appeared before her in the form of a simple leather sack, just as she’d been when Tala first purchased her and how Tala often thought of her.
+
+At the same time, that sack was subtly vibrating, the sound of contented purring filling Tala’s auditory perception.
+
+Kit resonated most strongly with the part of Tala that was unified with the dasgannach, as that was all of her now, Tala felt a connection with and affection for the devourling like never before.
+
+“I am the Ravenous, Jealous Devourer. Shall we devour as one? Shall we finally complete the journey that we started on so long ago?”
+
+Kit had been like her hands, a manifestation of her aura and authority that was more real than any purely ethereal bubble. In real terms, Kit was the true reach of her authority and everything outside—even when within her aura—was but a pale imitation of her true capacities.
+
+Within Kit, Tala was sovereign, not because of Kit—the devourling didn’t have the magical weight or power to hold such true sway over anything, let alone over so much—it wasn’t because of ‘Tala’ either. She lacked the magics, understanding, and nature to do most of what she could accomplish within the expanded space.
+
+No, that ability—that authority and power—was a manifestation of them together. It was only when they were acting in singular purpose that their mastery of the space reached its true potential.
+
+Kit wasn’t truly sapient, not really. She never had been, but she was more than sentient. She had been a pre-consciousness, growing and seeking power and mastery in order to one day acquire a consciousness for herself.
+
+Now? Now she had acquired one and that consciousness was Tala.
+
+They weren’t actually separate, any more than her feelings of hunger—and the biological systems that created it—were separate from her.
+
+They were symbiotic parts of a singular whole, and they had been for a very long time.
+
+There was nothing physical for Tala to absorb, but Kit’s magics were already harmonizing with the inscriptions and natural magics in the new form, melding seamlessly and—
+
+A great boom echoed through the non-real space that Tala’s perception occupied, followed closely by a second, then a third.
+
+A moment later, a crack came into being, clearly showing the Doman-Imithe beyond, somehow being imposed upon Tala’s Reforging.
+
+A great eye looked through the cracks, and the nature of the creature resonated with Kit at an ancestral level. In the same vein, it resonated with the incorporated nature and magics that had come from the dasgannach, though that was more about similarity than descendancy.
+
+A pressure of power beyond anything Tala had ever felt bore down upon her, and her very soul trembled.
+
+In that moment, she received an impartment that manifested as words within her head that shook her to her core. “Who dares to attempt a merging with my daughter?”

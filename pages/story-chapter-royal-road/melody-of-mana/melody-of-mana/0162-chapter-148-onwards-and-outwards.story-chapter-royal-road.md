@@ -1,0 +1,131 @@
+---
+id: 4cf978d9-9425-5810-8f72-b89bf590893f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148 Onwards and Outwards"
+slug: 0162-chapter-148-onwards-and-outwards
+partOf: melody-of-mana
+position: 162
+ownLength: 2650
+unit: words
+ownProgress: 2650
+publishedAt: 2022-06-25
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/935024/chapter-148-onwards-and-outwards"
+royalRoadId: "935024"
+markedReadAt: "2026-06-29T22:31:26.762Z"
+---
+
+I stirred as the sun made its way upwards, shining bright light through my nearby curtains. Slipping out of bed I looked to the bright day outside and stretched, feeling the bones in my spine pop one by one. It was a truly glorious feeling and today was a good day for it.
+
+Today was the first day of spring. As always I still wasn't sure about my exact birthday, but I was decidedly now twenty, at least for this world. Could I then consider this day my birthday? Well, not really, but I was celebrating anyway, for other reasons.
+
+I walked over to the clothes I'd lain out the night before and began to dress, finally putting on a particular necklace I'd made recently. The small silver pendant hung perfectly and went well with the otherwise rather practical outfit.
+
+Now properly ready I turned to see the rest of my room. There were a few bags that the family servants would be carrying down to the carriage when I called, but otherwise it was fairly stark. All of my things had been packed and were either coming with me, or being stored for the duration of my trip. I preferred it that way, since I didn't really care much for most of my belongings and those few that I did would be coming with me, except for one.
+
+As I came downstairs I was met by my parents. Dad looked proud while mom just seemed worried. My mother and I had never seen eye to eye on too many things, and this was one that we wouldn't this time either. She fretted about my desire to go and see things that I'd never seen, and to be places I'd never been, and while I understood, I would never see things her way.
+
+"You don't have to go if you don't want to," she said as I came down the stairs to meet her in the dining room.
+
+"I do want to go mother."
+
+She sighed, looking at my dad, but I knew she'd get no help there as he gave her a sort of apologetic smile.
+
+"Just... be careful, and come back to us."
+
+"That's the plan mom, it's not like I'm going alone. Oh, dad make sure to keep your pendant close, I don't think it'll be important, but you know, just in case."
+
+He nodded, "I know Alana,"
+
+"Oh, and mom..." As she looked up at me I pulled out a small package. "Keep this for me while I'm gone. I'd hate to lose it over in the Atali lands."
+
+With trembling hands she opened the little cloth bundle to reveal my spindle. It was the one she'd given me all those years before, that I'd always kept as a memento of home. I didn't spin much anymore, but even then it was still well-worn.
+
+As she took it out her eyes teared up and she reached over to hug me. "I will, I will," she whispered as she wrapped me up in her arms.
+
+I had already said my goodbyes to my small friend group, though I couldn't tell them exactly when or to where I was leaving. The staff at Lucien's had been supportive, if a bit of a pain. Charles had given me sort of a sad smile, but wished me well. I think he rather fancied me, but nothing had ever really come of it. Pinea had suggested a party, an idea which I'd had to decline.
+
+I'd told Kala over tea with her and her current squeeze, a nice girl with pitch black hair. She'd been going through partners quite hurriedly as of late and I think she was still trying to figure everything out. As a parting gift I left her a big jar of sugar, since I knew she liked it and the temple wouldn't really approve of her spending her own money on it.
+
+As I finished up my breakfast and rose my father waved me off, wrapping my mother in one arm so that she couldn't follow me all the way out. "We'll leave it to you then sweetheart, take care."
+
+"Alright, love you, bye." Dad wasn't much for long goodbyes, having seen plenty himself. I wasn't much for them either.
+
+The ride to our meeting place wasn't much different than my normal commute to work, save for the pair of massive luggage crates I was sharing the vehicle with. I looked almost wistfully out the window as the streets of Lithere passed me by. I'd left the city a few times in recent years, but there was no arguing that this place had been my home for what seemed like most of my life. I started counting up years on one hand but quickly abandoned that, it didn't really matter, since it was home now.
+
+Soon enough we pulled in, rather than the lab we were meeting at a separate locale, well, several separate locales. My group was forming up at a local inn, warded for our meeting today. Our researchers and assistants pulled up one by one. It had been decided that the best way to make sure that anyone watching didn't realize what was up until it was too late was for us to all travel in our own groups, all under different names, at least until we made it to our ships.
+
+My group consisted of various individuals from all across our labs. Olnir was of course the marginal leader of the group, much to our collective dismay. Selene joined with me as well, both of us worked well together and we'd been through enough training with one another that we could work quite effectively as a team. For physical protection we were joined by one of the current knights, Glen, a short and stocky fellow who I'd met some years ago during one of our training exercises. He wasn't fast as such, but I remembered him hitting like a freight train and being durable as granite, so that was good. The unknown part of our team were a pair I hadn't met, but who could only be brother and sister, their dirty blond hair matched perfectly and they looked like gender-swapped versions of one another.
+
+As I hopped down to join the group our last member pulled in. Dras had grown up well from the reedy youth I'd met so long ago. Now his dark brown hair fell a bit over his eyes and he even had the beginnings of a closely cropped beard. I was fairly sure that Mystien had him join our group as a favor to me, and I wasn't about to question it, he'd become quite competent and I knew I could trust him.
+
+"Now that we're all here," Olnir began, "We'll be going over our route. Our group is heading through the northern gate and turning to exit through the city of High Rock. From there we'll head slightly north before turning west. Our eventual destination is here." He pointed to a section of the map. "At the port city of Silverstone. Any questions?"
+
+"How much does everyone know about our mission?" I asked, looking to the three members of the team I didn't often work with.
+
+"Everyone knows what they need to, and not more." His message was clear, at least some of our members didn't know all the details about the gates, and there might well be some things I wasn't informed of.
+
+"Our schedule?" Dras asked from the side.
+
+"We'll make High Rock tonight. We'll take an inn when we get there and continue from that point. Our route should take us no more than fifteen days to make it to the port. The crossing can take anywhere between two-and-a-half and three months, depending on conditions."
+
+With no more questions we all piled into a pair of carriages more suited to long term travel and set off. As I saw the gate to the city through the small window passing over us I could feel my heart pound in my chest. This was it, this was my chance to go on a grand adventure. Today was the day that it all started and we could find our way to something finally major and world-changing. I wasn't sure I was really ready, but there was no point in second guessing anything at this point.
+
+The day's travel was rather uneventful. This close to the city and the former central duchies the roads were good and everything was still in a sharp order. In the past it would have been because of the king wanting to display how the area near his home was so much better, but now I suspected that the areas around all major cities were getting some benefits.
+
+Dras, Selene and I shared a carriage and we had a few moments of light chatting throughout the day. Dras in particular had barely ever left Lithere in his life and had no idea how to deal with the countryside at all. He kept his face nearly pinned to the side by the window as we passed through fields and small groupings of trees.
+
+"You know, I went out for a few of the school projects, but I never got the chance to just take it all in. The fields are so big, and there are so many more trees." He just couldn't seem to get over how much land we were covering.
+
+"Dras, we're not even really out of the urban area proper. This is all cultivated, and rather densely, once we get out into the real countryside there will be open land for miles."
+
+"I know, it's just... It's one thing to know about it and another to actually see it."
+
+"Wait till we get to the ocean, that'll be the real treat." With that I leaned back and tried to take a brief nap.
+
+When we arrived at High Rock the sun was just starting to sink into the horizon. The sky taking on it's deep red hues as the light began to slowly fade. This of course was a strong cue for us to very quickly find an inn for the night, because I doubted anyone wanted to sleep in these carriages when there were so many beds about.
+
+It didn't take long for us to find somewhere with rooms open. The inn, called The Mermaid's Rock, was middling in how fancy it was. It wasn't cheap by any means, but was not super-expensive either. The building seemed to be going through some expansions, particularly recently, but it had all we needed. The room we girls shared even had a tub.
+
+I quickly learned that the pair I didn't know were named Robert and Leah, and they were indeed twins. From what I could gather they specialized in healing magic and flora/fauna respectively. There were no priests on this trip as they wouldn't be able to join us without forfeiting any claim to neutrality, so these two were, much like myself, bards.
+
+"So you're here to help us manage with any plants or animals?" I asked Leah as we settled in.
+
+"Well, I'm mostly here to see if there's anything useful that needs to be made note of. There aren't many trips going over to the elven lands you know? This is a really big chance for me to get deep in there and learn about things I might never get to see otherwise."
+
+"Oh."
+
+"Yeah, so I'm supposed to help you lot with whatever it is you're doing while I look into new potential sources of wealth. Don't worry too much, I've studied all the documents, and even had a book of plant samples that one of my grandfathers bought some years ago. There are some insanely cool flowers that grow over there. Did you know that there's this one that you can use in medicine to..." She kept on for awhile as I slowly lost concentration and drifted off to sleep.
+
+There is only so much that one can look out onto the countryside and feel wonder. Turns out it's about three days, with a few punctuations for each new big thing like seeing mountains in the distance, or large forests. That was how long it took for Dras to stop being wowed by the landscape and start to get bored.
+
+It had been fourteen days at this point and we were all thoroughly tired of sitting in carriages as they rolled down the road. Our horses had been changed out a number of times, as had our drivers, and this was pretty normal from my understanding. The animals got tired and the men just didn't know the roads nearly well enough. The new drivers were all military, so there wasn't much a reason to worry about them, and the roads were fairly clear.
+
+There was still sporadic bandit activity but even during the kingdom's years it had been present only when things were really bad. With the new government being much more effective and far, far better at patrolling we hadn't run into any issues. Most wouldn't attack carriages anyway, and even if they had, with the pure quantity of magical might housed in our little rolling boxes we could have turned them into a thick paste.
+
+In an unusual change our vehicles rolled to a stop and I tiredly blinked at the door. There were no sounds of a city nearby so I was a bit on edge until I heard the knock.
+
+"I thought you might enjoy seeing this, so I asked the drivers to stop." Olnir's voice filtered through the wood and after putting up a basic shield I opened the door.
+
+The late afternoon sun shone down upon us as we left our carriage, looking around. The man in question normally annoyed me to no end but today he had a bright smile on his face.
+
+"What's going on?" I looked at him and where we were.
+
+"This is the best place for a view, it's stunning," was his answer. If I had to judge by looks I wasn't the only one a bit irritated by it.
+
+The man himself didn't answer but rather turned to walk up a nearby hill. Selene gave me a quirked eye to which I could only shrug.
+
+"If nothing else it's a good chance to stretch our legs. Let's go see what it's all about."
+
+"What's that smell?" Dras asked from behind me.
+
+I sniffed the wind briefly and thought I knew what we were in for. "Oh, I think we'll see in a moment."
+
+As we crested the hill the salt air blew over us, the scent of seawater and sand harsh but refreshing. From this little hill we could see the town of Silverstone, and I instantly understood it's name.
+
+Two huge cliffs jutted out from the sides around the harbor, creating a natural and perfect place for ships to dock. They lived up to the name, for as the sun hit them they sparkled silver in the light, some mineral in them must have shone and it dazzled as we looked down on the fair-sized city. To me that was striking, but the other in our group.
+
+"It's so big," Dras said.
+
+"I've never seen that much water in my life," Selene agreed.
+
+The rolling ocean spread out behind the town, sending gentle waves in to splash against it's many docks. The blue-green water went on and on, seemingly endless as it stretched on into the horizon. We all took a long while to enjoy the scenery and compliment Olnir on his choice of attraction. This was followed by a brief, and slightly foolish picnic where we watched the sun set over the horizon, it was a chance just too good for us to pass up, and we were a bit ahead of schedule anyway.

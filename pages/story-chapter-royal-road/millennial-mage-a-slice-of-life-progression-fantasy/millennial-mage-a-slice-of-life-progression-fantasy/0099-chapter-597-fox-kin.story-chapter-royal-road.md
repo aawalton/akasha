@@ -1,0 +1,253 @@
+---
+id: eb6dbed0-0cd3-5e5c-9b90-9828b547b51c
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 597 - Fox-kin"
+slug: 0099-chapter-597-fox-kin
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 99
+ownLength: 3096
+unit: words
+ownProgress: 3096
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2509079/chapter-597-fox-kin"
+royalRoadId: "2509079"
+markedReadAt: "2026-06-29T19:38:28.198Z"
+---
+
+Tala willed herself and Lisa to what was fast becoming the fox-kin neighborhood, at least on the timescale of immortals. After all, there were already five doors, each entirely distinct.
+
+Lisa’s twisted, intricately carved, redstone doorway was surrounded by a patch of grass some ten feet to a side, with rose bushes just starting to grow next to each vertical, framing the archway.
+
+To the right was an utterly plain, black frame made out of what seemed to be obsidian. No, not plain…
+
+Upon closer inspection, it was clear that the obsidian had been fractured or knapped into precisely right angles for every corner. There was a subtle beauty in the simplicity that entirely bypassed ‘plainness’, and that was accentuated by the nature of the obsidian, which was translucent toward the corners, where the light shone through just slightly.
+
+The square around the black frame—which Tala now realized was effectively the yard of sorts—seemed to be of a flat, white stone. It wasn’t marbled in texture, and it also didn’t look to be soft like a soapstone.
+
+Rane would probably know what it is.
+
+On the other side of Lisa’s door was a frame of rounded blue marble, set in a yard of green sand. Beyond that one was a hexagonal opening, seemingly framed by steel rods or tubing—Tala’s threefold sight let her know it was solid—and the yard was simple grass with some wildflowers just beginning to grow.
+
+On the far side of the row, past Lisa’s door and the obsidian doorway, lay the final one. This one was more intricate, reminiscent of Lisa’s, in that it was carved and twisting. It seemed to trick the eye—and even her perception—into looking like it couldn’t possibly be as she saw it.
+
+There weren’t distinct images carved into it, rather the wood of the construction had been shaped by a carving blade, or at least been made to look like it had. The result was mesmerizing.
+
+All in all, the area was actually laid out more like a beautified district of doors from one of the various arcane cities, than a neighborhood in any other sense.
+
+That thought gave Tala pause. “Lisa. Do any of your kind reside in the arcane cities, among the local districts of doors?”
+
+He snorted at that. “We started those… you know… originally, not specifically in every city. We helped the arcanes work out hold construction and anchoring. So yes, some of us still reside in such districts, though usually in secret as we are no longer as highly regarded.”
+
+She raised an eyebrow. “Oh? I thought you were always a bit distrusted. Is that a new development?”
+
+He shook his head. “Yes. In the beginning, we were appreciated for our wisdom, knowledge, and precision. As we imparted our knowledge, and as our wisdom conflicted with what they wanted to do, we were first pushed to the sidelines, then outright thrown away. As to our precision? Few people like being told how they are wrong precisely and articulately. At least, they don’t once they think themselves knowledgeable. It’s easier to ignore us.”
+
+“And when your precision also leads you toward interpretations of agreements in your favor…”
+
+He huffed. “Interpretations that we were upfront and clear with by the exact language used.”
+
+“And the taking of swords when only offered offhandedly?”
+
+He gave her a flat look. “Do you really think that is all there is to the story? Do you really think that the premiere Eskau of the House of Blood had a slip of the tongue, and I then magically snatched the sword from her, running back into my den, cackling in mad glee at her foolishness? All the while, she wailed at the sky and shook her fist at my retreating back?”
+
+Tala blinked a few times before tentatively answering, “...No?”
+
+Lisa let out a long sigh. “But you did until I said something… See, this is the issue. Whenever we try to be more vague, to trust in your powers of interpretation, we are disappointed.”
+
+She arched an eyebrow. “And by ‘your powers’ you mean humanity’s?”
+
+He gave her a level look. “Yes, them too.”
+
+She scowled.
+
+“Regardless, after I latched onto her slip, Eskau Meallain didn’t agree. Instead, she stormed off with the weapon, determined to find someone else to fix it. In the end, no one else would make the attempt given the value of the weapon. So, finally, she came back and agreed that if I could fix it, she would give me a weapon of equal value as payment. If I broke the weapon further, I would have to replace it with something worth as much as it had been worth before my attempt.”
+
+Tala grunted at that. It made a sort of sense.
+
+“So, I fixed it, and she demanded the sword back.” He shrugged. “I rightly refused until payment was provided, but as it turned out,” he grinned mischievously, “the weapon was all but unrivaled in value, thus there was no other weapon that could be given to me as proper payment.”
+
+She sighed. “And Eskau Meallain didn’t like that, as makes sense.”
+
+Lisa shrugged again. “It is not my fault that the payment agreed to could only be rendered in one manner.”
+
+“So, that’s a bit more complex than you said at first, but it shakes out to about the same thing.”
+
+“Exactly. And it is a less useful story for conveying the importance of words.”
+
+“And it makes Eskau Meallain look worse.”
+
+“That’s a matter of personal interpretation. Some would say she comes out worse in the first telling, others in the lengthier one. I suppose that each has its merits."
+
+Tala shook her head. “Well, thank you for the full story.”
+
+Lisa cleared his throat. “To be clear, you still don’t have the ‘full’ story, nor do I think you could, not without having actually been there for all parts, but you have a fuller picture of what really happened.”
+
+She closed her eyes, took a deep breath, and calmed herself. It’s just how they are, Tala. Don’t get upset. He’s a fox-kin. This is what they do. Finally, she opened her eyes and nodded. “Regardless. Thank you.”
+
+“You are most welcome.”
+
+There was a momentary silence.
+
+He gave her a searching, expectant look. “Are you ready to meet them, then?”
+
+She nodded once, decisively. “Yes, I think that would be wise.”
+
+Lisa held his hands as if to clap, but then paused. “I suppose I should note one thing.”
+
+“Yes?”
+
+“Even with my recommendation, coming here was still seen as a risk. Thus, those who did come are those who are older, or more… eccentric. Those more willing to take risks in the hope of gain if it pans out.”
+
+“I see.”
+
+He held her gaze a moment longer then turned back. “I just wanted you to know that.”
+
+Without further delay, he clapped his hands, flicks of magic causing the action to send out ripples through reality that homed in on three of the five doors standing nearby, the wooden, the obsidian, and the hexagonal.
+
+A moment later, the hexagonal frame held a door, where previously it was empty. The metal was still resonating with Lisa’s clap, and it created a bit of a buzz within the door that quickly faded. Once it had, the door swung open, up, on hinges that seemed to be on the upper right of the six sides. A gray fox-kin strode out, square glasses somewhat hiding his eyes.
+
+He looked around a bit distractedly. “Who rang?”
+
+Lisa shook his head but smiled. “I did, Sionnach. Remember? You agreed to meet with Mistress Tala, today. The owner and ultimate authority within this hold?”
+
+Sionnach seemed to finally notice Tala, and he reached up to shift his glasses as he looked her way. “Oh, hello there.”
+
+“Hello.” Tala gave a polite wave, feeling a bit uncertain as to how to proceed. The fox-kin, for his part paused for a moment, as if waiting for a different response, but finally shook his head as if disappointed.
+
+“Ah, well. Thank you for allowing us to move our homes here. It is rather frustrating to have to rebuild every century or so.” He shook his head. “So much research to do, and so little time. I don’t wish to waste what time I have.”
+
+Tala tilted her head to the side. “Oh? What are you researching? Maybe I can help?”
+
+Lisa closed his eyes with an obvious ‘oh-please-no’ expression, even as the other fox-kin huffed. “Unlikely, but I don’t mind sharing. At the moment, I am researching names.”
+
+“Names?” She frowned. “What do you mean?”
+
+“Exactly that! Names, what do they mean? We sapient species have thousands of names, many of them have meaning, but in what language? Hmm? Our language was unified by a Sovereign, who seemed to think that leaving us with our own names was fine, but they didn’t consider what a tangle that would make.”
+
+“Oh? I’m listening.” Another frame was suddenly filled with a door, but Tala was focused on Sionnach.
+
+“Take my name for instance. Sionnach. It means ‘fox’, but in what language? We don’t know. We only have one language, so how can we have names like mine at all. I wasn’t even named before the unification of language. My name persisted through that.”
+
+Lisa sighed.
+
+That seemed to draw the gray fox's attention. “And Lisa! That means fox too, but again, in what language! We are left with a smattering of words of long obliterated languages because they happen to be names, but can’t any word be a name? Isn’t a word just a name for an object? Where is the distinction?”
+
+Lisa sighed again. “Sionnach, it’s when an entity has a personal moniker to distinguish it from others of its kind. That is a name.”
+
+“Yes, yes. That is one theory.” The fox-kin pulled out a thick sheaf of notes from… somewhere, and began flipping through the pages. “But even if that is the delineation, it doesn’t answer anything of true note.”
+
+Finally, the door in the obsidian frame opened, drawing their collective attention, and a white fox with a blue knit cap—of all things—walked out.
+
+He was a bit hunched and carrying a massive bottle that reeked of alcohol. Though… he didn’t appear to be drunk.
+
+On his belt, there was a thick-bladed knife, which—as Tala thought about it—was the first weapon she’d ever seen a fox-kin wear.
+
+Lisa shook his head. “To change the topic, this is Kettu.”
+
+Kettu lifted his bottle in salute, then took a long pull.
+
+Tala blinked a few times. “Hello, Kettu. Welcome to Ironhold.”
+
+He nodded in acknowledgement, then eyed Sionnach. Sionnach, for his part, was practically bouncing on his toes. “See! Kettu also means fox, but in another unknown language. How do I even know that? How could anyone know that? What sort of madness allows this? Beside that, why are we all simply named ‘fox’?”
+
+Kettu narrowed his eyes and rested his empty hand on the hilt of his knife before shaking his head and taking another swig.
+
+Tala opened her mouth to respond, but the wooden doorway was suddenly filled with leaves that parted for a female fox-kin to stride out.
+
+She was a reddish fox with white highlights, and she wore a green dress that flowed and swayed around her. “I am Roka, Mistress Tala. Thank you for welcoming me and my kin to your hold.”
+
+She gave a polite bow, prompting Tala to do the same. “Welcome, Roka. Please let me or mine know if there is anything that can be done to accommodate you all, and we will see what can be feasibly accomplished.”
+
+The fox bowed again. “It shall be as you say.”
+
+Sionnach muttered to himself, but Tala heard nonetheless. “Roka means fox, too. What sort of lazy ingrate named all of us ‘fox?’”
+
+There was a ripple in reality, and all the fox-kin froze.
+
+Lisa was the first to move again, turning toward Sionnach, but Roka spoke first. “Sionnach, please don’t pluck at the strands of reality. As with most peoples, fox-kin parents name their kits. So, we were named by our parents, and as you well know, fox-kin find it entertaining to give literal names, hence why so many of us are effectively named ‘fox.’”
+
+The gray fox grumbled under his breath again, “But in what languages? How do we know that’s what the names mean?”
+
+Lisa cleared his throat. “Regardless, I was asked to present you all to Mistress Tala, and I have done so. Mistress Tala, would you care to say a few words before we let these fine kin get back to what they were doing?”
+
+As if in response, Sionnach switched his disjointed stack of notes for a book, Kettu took another swig, and Roka’s leaf-door rippled in an otherwise inevident wind.
+
+Tala nodded once. “I won’t take too much of your time, then. You will see many people of various kinds around Ironhold. You are allowed to interact and trade with them as you and they see fit. You are not allowed to take advantage of my good graces, however. You are all here at my benevolence, and if any becomes a greater detriment to the others here than a benefit? I will… make sure the detriment is removed.”
+
+The three fox-kin nodded, seemingly not surprised by her words.
+
+“As a point of note, one of the more unusual people you will see on occasion is my daughter. She has the physical form of an automaton while not actually being one.”
+
+That got widened eyes and otherwise obvious looks of surprise.
+
+“Lisa is one of her teachers, and as such, I am sure he will be happy to answer any questions you may have on the subject.”
+
+Lisa crinkled his nose but nodded. He knew that his position as ‘head’ fox-kin in the hold came with some responsibilities, after all. “I will be available in my den to discuss at your leisure.” Sionnach’s eyes brightened, but Lisa cut him off instantly. “To discuss Lea Sappherrous, not whatever topic you so desire. Those other things will only potentially be discussed on a case by case basis.”
+
+Sionnach wilted slightly, but they all nodded nonetheless.
+
+Tala smiled. “Now, is there anything else that you need of me right now?”
+
+The four fox-kin glanced at each other before Roka and Lisa shook their heads.
+
+“Then, I will bid you all goodbye for now.” Without waiting for their responses, she willed herself away.
+
+Even so, she watched as Kettu took another swig before spinning on his heel and striding back into his den, the door vanishing as soon as it closed.
+
+Sionnach had raised a hand as if to ask a final question, but as she was already gone, he let it fall with a sigh, adjusting his glasses before he went back into his own den.
+
+Roka and Lisa stayed nearby, silently looking at where Tala had left from for long minutes before retiring to their own dens as well.
+
+* * *
+
+Lea was practically bouncing around the dais upon which Tala and Rane sat, despite there being a throne-like chair ready for her as well.
+
+Before them all was a view out of the front of the flier which bore the anchor to their hold, while they navigated the long, straight cloven pass that Tala had first traversed so long ago.
+
+When the far opening unfurled before them at the flier’s greater height, Lea gasped, stepping forward to look closer at the projection which displayed Alefast, Waning. “It’s so small!”
+
+They hadn’t really thought to show her Bandfast as they left, but the girl was no fool. She’d been able to wander around the city a bit with them, and Alefast, Waning, was noticeably smaller.
+
+Tala’s threefold sight extended outside the flier, and thus, she was able to feel the powerful levels of magic in the area. Alefast’s waning was well underway, and it showed in the zeme of the region, now that they were through the pass.
+
+“And look! Someone is fighting.”
+
+Lea was right, and when Tala refocused the shared perspective, they all got to see a Defender team surrounding and taking down a group of what looked like electric sheep.
+
+“Pretty…” Lea pressed her face against the slate on which they were shown. “They’re so fluffy. I wonder if I will dream of them?”
+
+“Maybe, sweetheart.” Rane smiled. “Oh, look! That Defender is running with his blade out. It looks like they’re trying to shear the sheep rather than kill them outright.”
+
+Lea gasped again. “Why would they do that? Are they not dangerous?” She gasped again, a thought obviously entering her mind as she spun to face her parents. “Can I have one?”
+
+Tala sighed. “They are dangerous Lea, but Defenders will often try to shear them first, as their blood spoils some of the magical properties in the wool. They cannot be left alive this close to a city, however, and they would definitely not be good pets. Even if they weren’t a danger to you, which they would be, they would easily damage the non-reinforced parts of the sanctum.”
+
+“I want a pet.”
+
+Rane frowned. “I thought you were playing with that cat quite often.”
+
+She gave him a flat look. “Cats aren’t pets, Dad. I want a real pet.”
+
+He held up his hands, smiling slightly. “Fine, fine. You don’t have any pets.”
+
+Lea slumped slightly. “And you’ll never let me have a pet either.”
+
+“If you say so, I’m willing for that to be true.” Rane agreed, earning a faux glare from his daughter.
+
+“Daaad.” She said it in a descending way, meant to convey her lack of amusement at his response, even while she fought back a smile. “That’s not what I meant.”
+
+“Then say what you mean. Don’t forget your lessons with Lisa.”
+
+Tala nodded. “You do seem to remember them well when he’s around. We just need to make sure you do so when he’s not here too.”
+
+“Alright… I’ll try.”
+
+As the flier drew closer, Rane’s eyes unfocused for a moment. “Oh! Master Grediv was informed of our imminent arrival, and he’s invited the three of us to a Fight View Restaurant for lunch.”
+
+Lea whooped. “Hurrah! Can we go?”
+
+Tala chuckled and nodded. “I think we can, yes.”
+
+Rane straightened himself. “This should be interesting, one way or another.”
+
+She leaned over and kissed his cheek. “Right you are, my love. Right you are.”

@@ -1,0 +1,177 @@
+---
+id: 40f534f4-6a60-5573-8e37-9d760f5be41e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - For What It's Worth"
+slug: 0068-chapter-37-for-what-it-s-worth
+partOf: metaworld-hopecore
+position: 68
+ownLength: 2280
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3388478/chapter-37-for-what-its-worth"
+royalRoadId: "3388478"
+---
+
+"No man is an island, entire of itself; every man is a piece of the continent, a part of the main."
+
+John DonneMeditations
+
+Reedley. The Cloister.
+
+Eppie sat with her friend and waited for Mio to process everything: the song, the implication, the message.
+
+Once her friend had dried her eyes, she held up the cassette.
+
+“Mio, I have a plan,” Eppie said to the girl swallow her tears on the stone bench. “I will get justice for us both, and it need not involve you personally if that’s what you choose. Will you listen?”
+
+Her friend nodded.
+
+“Good,” Eppie sat beside the girl again. “In the Spring Gala, the most prominent role will be for the Classically Classic, Titus Andronicus. I’ve got a good thing going with Cooper and Costello, and there’s a good chance that Principal Burton is on our side. Therefore, here’s what I propose…”
+
+She told her friend about Antigone, about Titus Andronicus, about the reflexive tragedy that is Hamlet. Her [Script Analysis] was on overdrive.
+
+Mio nodded, then nodded again, and her eyes grew wide.
+
+“So,” Eppie rested her illustrative hands. “What do you think?”
+
+“It’s…” Mio’s eyes held only awe and disbelief. “It’s incredible. Are you… Are you really Euphemia? Eppie could never have come up with something so… Machiavellian.”
+
+“I am every inch Euphemia,” Eppie was a bit tired of saying the same thing over and over. “And I am also the Ghost of Hamlet’s Father, or Iago, take your pick.”
+
+“Your plan, it's incredible,” Mio smiled at the cobblestone floor, then at the heavens. “The layer upon layers. It’s like you’re not from this world.”
+
+“I fell from heaven,” Eppie horse-laughed to offset the awkwardness. “Well, from the fourth storey of LAPA’s main building, if you wanted to be pedantic about it.”
+
+Mio stared, then she laughed for a long while, while Eppie felt more and more self-conscious wearing her [Persona]’s skin.
+
+“Whoever you are, Euphemia Fontaine.” Luciana wiped the tears from her eyes. “Thank you.”
+
+The girls returned from the orange orchard holding hands. Not just touching, but truly joined in some inexplicable way the others could not comprehend. Father Parson saw them through the nave, rallied the others, then gave them his blessings.
+
+“Come, it's Thanksgiving,” he said to them. “Eat first. Talk later. You can meet Mr and Mrs Mio as well.”
+
+The Parish hall behind the church was newer, but it was still a rural community building. The Thanksgiving luncheon was a day-long and communal: families from anywhere in the area and beyond were welcome, and they brought their own contributions. Everything was shared, everything abundant.
+
+The sheer volume of people naturally meant the festivities spilt out of the hall and into the courtyard. Tables magically appeared as if by sorcery, dragged from the interior of the old hall by men who could heft entire dinner tables with one arm. These they laid on the sun-hardened ground, below the orange groves that grew here and there around the church, forming a long line. Tableclothes were laid, made from bedsheets hemmed in blue and turquoise, made by hand by the local ladies, bringing colour and life.
+
+The food was already there, and they were still arriving by vanloads. There was a cast-iron pot the size of Eppie’s torso, carried by two men who grunted with every step. Looking inside, Eppie salivated at the posole, its broth a deep orange from dried chillies, and the pork falling apart as the men moved. On another table, someone had brought a butcher’s worth of roasted chicken thighs, burnt at the right places, oily and inviting. Tamales were stacked thigh-high, spewing steam into the chilling air.
+
+Entire fields of Tupperware held towers of rice, fried rice, paella, beans, pinto and edamame.
+
+Mio’s people, the Nikkei families, had set up at the far end with the confidence of people who knew their food was a notch above the standard Spanish fare. They had Onigiri wrapped in brushed nori, blocks of perfect tamagoyaki cut into serving sizes. Pickled daikon was stacked as high as forearms, and row upon rows of sushi glimmered like living fish on hand-carved sushi boats made by someone’s handy uncle.
+
+The kids were wildlings. They zoomed at waist height, in sections and from station to another. Each national dish an adventure waiting to unfold.
+
+The soundscape of the world outside the cloister came in layers. The sweet percussion of spoons on plates, ladles on pots. The conversations in Spanish and in Japanese, the sound of kids speaking English with a Californian accent. The collective consciousness of the community bathed Eppie in a supernatural warmth.
+
+Eppie watched all of this and said very little.
+
+She knew now that Mio being here was the right choice.
+
+Mio sat across from her with a plate she was working through slowly, describing LAPA in the past tense, the way people describe places they aren't sure they'll return to. She invokes the names of her beloved instructors carefully, as if the details might dissolve if handled too roughly. Dr Cooper, she said. He was always her guardian angel. Costello, her friend and confidante. She named a lunch spot. She named a corridor where she had sat with friends in October. She spoke without regret, like everything had been a Midsummer Night’s Dream.
+
+The afternoon light moved through the orange trees and turned the ground gold.
+
+Eppie ate voraciously; she ate roasted chicken, mounds of tamales, small hills of sweet potatoes, chilli, beans, and cornbread in cast-iron pans, which was the right thing to do.
+
+Mio ate slowly, smiling now and then, praising Eppie’s music, dreaming a little.
+
+Eppie groaned when she could eat no more, then ate two more bowls of flan brought by Uncle Paco.
+
+Eric stood outside with the men, drinking beer and laughing, fitting in perfectly in his jeans and flannel, talking about trucks and home improvement, making new friends.
+
+Zara was recognised by many of the church folk; she was, after all, a minor local celebrity, but she had not brought her guitar.
+
+An hour later, Eppie found her Newfoundland in a food coma, barely able to move, sitting semi-comatose under the church arches, looking at the valley around them.
+
+“Did you find your peace?” he asked.
+
+“I did,” Eppie sat beside him. Without asking, she rested her head on his shoulder. “Thanks, Eric.”
+
+“We still going after the Chens?”
+
+“Yes, and no. We’re going after them in our own way. In a way that leaves William nowhere to hide, where the law cannot delay.”
+
+“I see.” Eric yawned. “Tell me about it later. What’s the plan now?”
+
+“Did you get the song I just sang?”
+
+Eric pulled out his phone and turned it toward her. The waveform on the recording app was visible—two minutes and forty seconds, clean, minimal background noise. The cloister had performed its architectural purpose. "Wind picked up a little at the end," he said. "But the voice is clear throughout. Still, not the greatest recording.”
+
+“Send it to the Director,” she said. “Tell him that I discovered it here, in Reedley. The local community had a thing. I completed it. It’ll be an evergreen.”
+
+The song was no. 1 for four weeks in the age of Michael Jackson. Eppie scoffed internally. There was no way Curon could resist.
+
+“I believe it.” Eric looked at her. “Just composition credits again?”
+
+“Yeah, just comp-credits. Tell Daddy that he can give whatever portion he deems fit to the Church and to Mio, who is our principal singer. My portion doesn’t matter.”
+
+“Okay... wait—” Eric looked like he had just sobered up. “What did you call the Director?”
+
+“Oh, you didn’t know?” Eppie blinked her eyes, fluttering her thick lashes with total innocence. “I was recently adopted…”
+
+Eric’s face twitched. Eppie grinned as a felicitious feline.
+
+“Tell Daddy that Mio can’t travel. Maybe tell him the whole sobbing story. Rick is the right man with the right kind of connections. The choir version won’t hit the charts, but give it some percussion, some electric guitars, and a singer with a power vocal, and it’ll do no worse than Umbrella. But the original must be the Choral, with Mio at its heart. She has the score, the song, the verse. I absolve myself of everything. I am a busy woman, after all. I have a high school tragedy to direct.”
+
+“I don’t think Director Curon likes to jump through so many hoops,” Eric said with great earnestness while regarding her with horrified eyes. “I heard that he nearly had a break with CEO Davis over Umbrella.”
+
+“That’s not really our problem, though, is it?” Eppie snickered cattily, her angelic charity gone all at once. “They want my paw print on the dotted line; they need to pony up the kibbles lest Universal Music comes through with more earnestness.”
+
+From across the hall, standing among his smiling parishioners, Father Parson studied the pair at the door. As a Parish priest, he has a particular way of reading people.
+
+Paco, their local publican and maestro, stood beside him with a beer, drinking slowly. Also studying the couple.
+
+“She gave us a song?” Parson asked. He understood implicitly that something grand had occurred, but as a man of the cloth and a poor soldier of Christ, he struggled to comprehend the gravity of the gift. “For the Parish? And not just Mio?”
+
+Paco sagely pointed at the blonde girl across from them, curled up like a little bird, her body devastated by Carmen’s flan.
+
+“It is a great gift, this song,” Paco explained to him. “It is a very good song. There will be a lot of money. Perhaps not immediately, but over the years, it will be more than the Parish needs. Here, in Reedley, maybe you can restore the church, expand it, feed strangers for years to come.”
+
+Father Parson considered this. He did not understand the value of popular music as Paco did, but he did understand, in his own way.
+
+“Do you know of the sinner with the Alabaster jar, Paco?” he asked.
+
+“Enlighten me, Father,” Paco kept studying the girl.
+
+“At the house of a Pharisee, Christ was met by a sinful woman, who stood behind Jesus at his feet, crying. She washed his feet with tears and ambrosia, then dried them with her hair. ‘Lo,’ the Pharisees mocked the King of Kings, ‘if Christ be a prophet, he would know that this woman is a sinner.’”
+
+The hard man listened, his expression entranced by the girl, who was somehow managing her third flan.
+
+“‘Simon, hear me,’ Christ said unto the Pharisees. ‘Do you see this woman? When I came into your house, you gave me no water for my feet, but she washed my feet with her tears and dried them with her hair. You gave me no kiss of greeting, but she has been kissing my feet since I came in. You did not put oil on my head, but she poured perfume on my feet. I tell you that her many sins are forgiven, for she showed great love.”
+
+Both men now laid eyes on the girl and her Newfoundland. The girl looked sick. She should not have eaten the third flan.
+
+“‘Because you believed, you are saved from your sins. Go in peace,’ said the King of Kings." Father Parson concluded the allegory with a measured, appreciative voice. “I do not know why this story came to me. But I believe so it is with your Melocotón.”
+
+Around them, the sound of the children, the families, the food, the laughter, once more filled the void Parsons’ voice had left. Paco shook his head, then extended his beer.
+
+Father Parson extended his own. The two men knocked bottles. The beer foamed.
+
+“Our Zara is a blessed girl,” Paco said to the priest. The musician looked toward Mio’s round body, but cast no judgment. There was only compassion, pity, and a trickle of joy. “And so is your Luciana.”
+
+“Yes,” Father Parson sighed happily. “The stranger might be an angel.”
+
+There was nothing else to be said, not for the recording, or how it would be done, or the contractual complications involved.
+
+There would be a time for that. For the present, the tamales were enough, and the flan too much. The once skittish Luciana now stood in the courtyard among the people, eating a taco from Carmen instead of hiding behind the cloister door.
+
+That was good enough for Father Parson. That was the whole of it.
+
+Still bloated, Eppie bid Eric farewell to find Lafitte and to give her the good and bad news.
+
+Their investigation was over insofar as Mio was concerned, because it was the wish of Mio, Father Parson, and her unknowing family that their quiet life not be disturbed.
+
+What would continue was the matter of Eppie’s fall, meaning their next point of enquiry was Simone Goode and her involvement.
+
+Eppie had put forward a plan, a great plan, but it would involve more conspirators and sympathisers, without which the plan could not be enacted. This would be a matter of her own devising, however, and she would contact them when the fruits of her drama-driven conspiracy ripened.
+
+For now, she would remain in Reedley until Sunday, instructing Mio on her new song and teaching the Choir.
+
+She would help Mio find her place, find her belonging, and build a community that will defend her child to the last good man.
+
+That was enough for Euphemia Fontaine. That was, in her eyes, the whole of it.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+And of course, the [Causality] certainly helped.

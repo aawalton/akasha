@@ -1,0 +1,203 @@
+---
+id: d93d513b-ec7a-5467-a334-dabc1ae7d80d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 684 - The Discussion Ends"
+slug: 0192-chapter-684-the-discussion-ends
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 192
+ownLength: 3021
+unit: words
+ownProgress: 3021
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3165124/chapter-684-the-discussion-ends"
+royalRoadId: "3165124"
+markedReadAt: "2026-06-29T19:41:12.952Z"
+---
+
+Tala was rather excited for the story, and as such, she pulled out a tray of magicless pastries and willed it to rest on the air between the five chairs. Tales were better with treats, after all.
+
+As she took one from the tray and leaned back, Tala hesitated.
+
+All four arcanes were looking at her with mixes of confusion and awe, causing Tala to frown.
+
+Alat cleared her throat within Tala’s head. -Did… you know you could do that? Before you did it, I mean?-
+
+Do what…? Tala trailed off as she realized that the tray was sitting there as solidly as if it were on a table, no magic in evidence at all. It remained in place simply by dint of her authority.
+
+She could see that authority, her near absolute command of the House of Blood, slotted into the fact that this world-fragment had been under House of Blood control for millennia. More than that, this was the seat for that House, steeping it even further in that authority. Additionally, everyone within was devoted to the same House, and therefore her. In this place, that portion of her authority meant more than anywhere else.
+
+She had simply acted without thought, just as she would have within Ironhold or her sanctum.
+
+Jord broke the silence, leaning forward to wave his hand under the tray before taking a pastry. The gnome seemingly wanted to break up the tension, as he injected a bit of levity into his question, “You haven’t already consumed the world-fragment… have you?” He took a bite almost casually, even as she shook her head. As he tasted the treat, however, he hesitated, taking another bite. “That is good.” He let out a small moan of enjoyment, taking yet another bite and speaking around the food in his mouth. “This is amazing. My compliments to the baker.”
+
+The other three were staring at him, aghast, and he finally noticed.
+
+“What?”
+
+Erde, sighed, rubbing his ears in what seemed to be a habitual manner, the large round parts rolling over and flicking up rhythmically as the mouse-kin groaned for an entirely different reason than his fellow.
+
+Pamant chuckled, leaning forward to take one of the pastries and giving her own compliments after the first bite.
+
+Ma-a regarded the tray for a long time before looking at Tala. “You… are not Hallowed. But you are…? Have you veiled yourself so perfectly?”
+
+The other three froze once more, eyes widening.
+
+Tala, herself, felt her eyes widen in surprise. “Why do you say that, Ma-a? And no, I have not veiled my power. I am as you see, Reforged not Ascending.”
+
+“I see.” The man frowned. “Then, something to do with your gated nature?” He took a sip of tea, his brows clearly creased in thought. Then, he looked up, blinking. “Oh! My apologies. Your question. I asked because, to command the physical without magic is the hallmark of the Hallowed, at least within the area of their power.”
+
+Tala frowned at that. “I have been able to command the physical within my expanded spaces for years, well before my last two advancements.”
+
+Ma-a waved that away. “There is a reason that Jord asked—even if jokingly—if you had already consumed the world-fragment. To physically command your own body—or your own soulbound space—is simply a function of it being yours. This space isn’t yours, yet it bows to your will. That is the hallmark of which I spoke.”
+
+“Could it be my rank as Eskau of War?” Tala was genuinely curious what he would say.
+
+Ma-a waggled his head back and forth slowly before he shook it in negation. “That is undoubtedly a part of it, or something that allows it, but it is not the source of the ability.” He seemed to consider, but when Erde lifted his head in question, Ma-a nodded. “If you have a good example, go ahead.”
+
+Erde nodded. “Thank you, Senior.” He then looked back to Tala. “Imagine that you are in your own home. You are allowed to move anything you like, but that does not mean you can. You must be strong enough. It also must be something that is able to be moved at all, and so on.”
+
+Tala gave a slow nod of understanding. “Different layers of ‘able.’”
+
+“Precisely.” The mouse-kin smiled happily. “Even Head Corinis… I do not believe that he would have the advancement to do that.” He gestured at the tray, hesitated, then leaned forward and took a pastry. “These really do look delicious.”
+
+Tala sighed. “Well… I had not known that.”
+
+-It seems like a deeper level of authority indeed. Imagine having the authority to command a mountain to jump into the ocean and have it move.-
+
+That would be incredible, but I can’t imagine that working.
+
+-It would be true sovereignty, would it not? True Dominion?-
+
+Tala mulled that over, finding that she agreed.
+
+Ma-a chuckled at Erde’s comment, reaching forward for a pastry. “Indeed…” He frowned even as he leaned back, looking at his fellows. “I think it best… Tala, if you command us not to speak of this.”
+
+The other three hesitated before each nodding in turn.
+
+Tala did so, feeling the authority tighten around them once again, enforcing her command.
+
+If they betrayed and abandoned the House of Blood, the command would not hold them—not that such a thing would be easy to do—but aside from that? They would be bound to obey.
+
+Once it was done, the four settled back into their tea and pastries.
+
+Tala felt a bit… uncomfortable about having given them such overriding commands, but if anything the four seemed to be grateful, as her command meant that it was no longer their problem. They didn’t have to decide if they should speak of it, or what they were required to do with the information.
+
+It simply wasn’t their problem anymore.
+
+She gave a slow shake of her head before taking another pastry.
+
+They ate in companionable silence for a long minute before Ma-a gave a slow nod. “I was going to tell of the formation of the world-fragment.”
+
+Tala nodded, giving an understanding smile. Things hadn’t gone as she expected, so she could only imagine how these arcanes felt.
+
+Ma-a seemed to gather his thoughts before he began. “While I have been here as long as the House of Blood has claimed this world-fragment, I cannot claim to have been here at its inception.” He gave a huffing chuckle. “Though, I suppose that distinction may be academic, given I cannot imagine any save a Sovereign or god-beast being so.”
+
+Tala tilted her head to the side in obvious question, causing the man to smile and nod.
+
+“Right, right. So, for a world-fragment to form, a coherent bit of existence must return to the place and state that it was in before the fragmentation… or possibly should be if the fragmentation hadn’t happened, depending on the theory you ascribe to.” His tone changed to one of more rapid, excited expansion rather than solemn telling. “The very fact that any world-fragment could ever be formed or found means that the Fragmenting didn’t change our orbit around our sun, nor otherwise throw off where we ‘should be’ in the wider cosmos. It also did not so damage nearby space as to make the replacement of the fragment within it meaningless. We can also intuit that no larger constant was disrupted, and the mass of our planet has been mostly maintained in one form or another as gravity is correct for reinstantiation. More than that—”
+
+Jord cleared his throat, drawing Ma-a up short. “Senior, it seems that you are becoming lost in the ancillary.”
+
+Ma-a cleared his throat in turn, his skin lightening slightly toward gray in a clear flush of embarrassment. “Ahh, yes. Of course. My apologies.”
+
+Tala smiled. “It’s understandable. This is your life’s work, and you’ve been steeped in it for longer than most cities have existed.”
+
+He chuckled at that. “Indeed. Did you know that Croi only blossomed into what it is today after the House of Blood established this as their central branch?”
+
+“I believe I have heard something similar.” She gave a soft smile.
+
+“Good.” He nodded once, emphatically. “Regardless, to get back to the topic… Once a seed of existence—however big or small—is back in its proper place, Existence does its utmost to maintain and expand it. Too much heat? That heat is used to bring in more space. Too much magic? The same. Too little magic or too little heat? Either the fragment will shrink, the surrounding superficial will be drained, or in the worst cases, creatures will come into being to try to force things back into balance.”
+
+“Balance being the state of Existence within the world-fragment matching pre-Fragmentation.” Tala inquired.
+
+“Exactly… By one theory.” He smiled. “That said, we do not know if the expanded dimensionality is ‘new’ as it grows off the seed and is simply being recreated to match the old, or if the previous portions are drawn back from the void.” He laughed. “We know so very little about our own world.”
+
+Tala frowned. “What do you mean?”
+
+“Well, we have no records of anyone circumnavigating the globe, so we do not know if Zeme was recreated as a full sphere, or if it was simply remade as a portion of one with the pieces we had available at the time. Similarly, we have never reached the core of the planet despite our best theories telling us what should be there, and so it is very possible that our planet is honeycombed with missing pieces, or even entirely hollow. With Mansa the Gold purported to be in that area, it really could be in any state, despite our best attempts to learn more. The readings we can take with magic tell us what should be there, but given the broken nature of everything?” He shrugged, holding up his hands helplessly. “We don’t know if we are simply picking up those echos rather than the actuality.”
+
+She grunted, remembering similar things being stated in the Academy. The planet should be a solid ball—or nearly so—but with magic it was possible that it was only a few miles deep, or even only a half-sphere, with ambient power maintaining everything and making up the difference wherever needed. She gave a wry smile. “Ahh, yes. ‘A wizard did it’ physics.”
+
+Ma-a frowned. “What?”
+
+She shook her head. “Just something one of my instructors said. He explained that the study of the natural world could be maddening at times because an observed phenomenon could be natural with a natural, mundane explanation, or…?”
+
+He grunted. “Or ‘a wizard did it.’ I assume ‘wizard’ is a Mage of sorts?”
+
+“One from our earlier eras, yes. Specifically, they are theorized users of magic from before the Fragmentation.”
+
+“That… that does make sense, yes.” He sighed. “And we run into the same thing in many aspects. Regardless, the world-fragment was established here, and as it grew, the effect on the local superficial was detectable. When we found it, it was of substantial size. I was a young researcher at the time, and after the warriors had verified it was safe, I was called in to verify it was stable and usable.” He chuckled. “Imagine my surprise when I began to discover what it really was. We’d thought it simply a natural hold, but we were mistaken. We’d never heard of anything like it. At first, we thought it meant that the world was healing, that we had only to endure and all would be set to right.” He gave a sad smile. “While that still may be the case, the timescale will be in eons rather than millennia, and I doubt I will see the restoration.”
+
+Tala grunted. “That was… honestly a more mundane explanation than I expected.”
+
+Ma-a shrugged. “I can only tell you what I know. I do imagine that the dredging up of the seed from the void was a rather miraculous event, either one of chance or power.”
+
+She gave a reluctant nod. “It seems so, yeah. Still, it comes across as very slow gardening.”
+
+The four all gave wide grins, exchanging pleased looks.
+
+Erde shifted, sitting up straighter. “That is, in fact, how we view ourselves, we keepers of the fragment. We are the gardeners, the tenders of its growth.”
+
+Pamant nodded enthusiastically. “Even the most enduring gardens come and go in but a few centuries, but this?” She gestured around herself. “This will endure forever.”
+
+Tala had to admit, she hadn’t thought of it in those terms despite her turn of phrase.
+
+Ma-a pulled her attention back. “So, let me emphasize. This world-fragment is only a world-fragment because of where and how it is. If you fundamentally change it, or succeed in moving it, it will cease to be so.”
+
+She sighed, giving a slow nod. “I feared as much. I really want to find a solution to the gate-issue. None of those up north want to harm existence. We have massive constructs to mitigate our effect on reality, and contain and allow what damage we inevitably do to heal. Our entire society is built upon such measures.”
+
+“So I had heard.” Ma-a shrugged. “I wish I could give you another answer.”
+
+Erde spoke up. “Gates… while they are a violation of the natural order—that cannot be denied—they are not truly more so than all of Zeme.”
+
+Jord sighed, and Pamant actually groaned. Tala frowned. “What is this?”
+
+Ma-a gestured toward the mouse-kin as if saying ‘He’ll tell you.’
+
+Indeed, after flapping his hands at his compatriots, Erde spoke further. “It just makes sense! Magical and arcanous beasts plague us as well, even if not as much as those to the north. Zeme shifts and quakes at times, and those times generally correspond to times of increased growth here, in the world-fragment. Zeme will have to be broken apart to be put to right, and as it is now? It isn’t right. If it were, there would be no world-fragment; there would just be a world.”
+
+Pamant waved him off. “So you’ve been saying for years. Whether it’s true or not is inconsequential. No one will be breaking Zeme apart to remake it, nor would the Sovereigns allow such were it to be attempted. Just the Sovereigns on this continent would make such impossible, and then there are the god-beasts, and those on the other continent. There could be other hubs of power as well, and they would need to be shattered or overcome as well.”
+
+Tala bit her lip in thought. “You know, I have not heard too much about the other continent. Is it really so different than here?”
+
+The four exchanged somewhat uncomfortable glances before Ma-a sighed. “It is no secret, even if the City Lords try to keep it little known.”
+
+Tala arched an eyebrow, leaning in. “Oh?”
+
+“The understanding is that the Head of Houses on the other continent are Hallowed of their Houses, and by extension the current primary city their House resides in. Generally speaking, in that primary city, they reign over lesser branches of other Houses. Regardless, those who rule the cities are Hallowed as those here aspire to be. I do not know the difference aside from the direct association with a House. I don’t believe it is a question of time, as Croi has been under the current City Lord for longer than several Hallowed run Houses on the other continent have existed.”
+
+Jord swallowed and raised a little hand. “The cities are closer together, and there was more fighting in the past. New houses and new Hallowed around the edges—only occasionally in the heartlands—always seem to rise through fierce contests with their neighbors, only seeming to enter the fullness of their power after major victories.”
+
+Pamant sighed, shaking her head. “Yes, the cities are more spread out here, but how could having fewer to oppose your power make you weaker?”
+
+Tala almost interjected, but she held back, realizing that she’d burdened these four with too many secrets as it was.
+
+-They aren’t recognized by other powers, not explicitly, and those on the other continent are, and they recognize one another through conflict and strife.-
+
+And that can’t happen in the same way here as these cities are too far removed both from the other continent and one another.
+
+-Indeed. Though, there is potential for the Houses to create Hallowed under the current system.-
+
+True, but I don’t think the other conditions are right. Houses are too dispersed a thing, unless they were to base their authority in a similar manner to Anatalis?
+
+-Very true, and if what he said was any indication, that would be no easy task.-
+
+Jord finished off that topic with a final point, “Regardless, with so many Hallowed, is it any wonder that more achieve Sovereignty?”
+
+And that was a fairly reasonable point.
+
+The remainder of Tala’s time with the fragment keepers was pleasant, but lacking in revelations. Still, she stayed with them for a couple of hours, chatting and building rapport for the days to come. After all, she had no idea when she would need such experts in the future.
+
+Still, soon enough it was time to depart, and the five exchanged formal goodbyes before each departed back to their prescribed duties, feeling both lighter, and more confident in their chosen paths.
+
+Tala, for one, was quite excited for what was to come.
+
+Alat was a bit morose that they wouldn’t be eating the world-fragment, but that was to be expected.
+
+-Now, we just need to figure out how to break the world to remake it.-
+
+Tala huffed a laugh as she moved back toward her sanctum. I think that will be beyond our adventure, Alat. If I understood things correctly, practically all of Zeme would need to be dissolved, torn apart and fed into the world-fragments for reshaping.
+
+-Exactly. Sounds fun.-
+
+Tala sighed, choosing not to engage her alternate interface further. She simply had too much to do to cater to such delusions of grandeur.

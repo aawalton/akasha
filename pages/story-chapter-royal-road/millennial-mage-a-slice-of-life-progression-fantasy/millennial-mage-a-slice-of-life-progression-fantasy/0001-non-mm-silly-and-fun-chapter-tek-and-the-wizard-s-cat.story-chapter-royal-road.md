@@ -1,0 +1,337 @@
+---
+id: e69ff2e2-70c4-56f3-a364-3aa006b4b2b8
+page-type-slug: story-chapter-royal-road
+title: "Non-MM, Silly and Fun Chapter - Tek and the Wizard's Cat"
+slug: 0001-non-mm-silly-and-fun-chapter-tek-and-the-wizard-s-cat
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 1
+ownLength: 2175
+unit: words
+ownProgress: 2175
+publishedAt: 2023-04-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1154476/non-mm-silly-and-fun-chapter-tek-and-the-wizards"
+royalRoadId: "1154476"
+markedReadAt: "2026-06-29T19:35:19.653Z"
+---
+
+Tek glared at his candles, steadily pulsing orange, blue, green, yellow, and back again.
+
+That meant only one thing within his home. Someone was at the entrance.
+
+Leaving his book on the side table, Tek pulled open his inner door.
+
+With one step, he crossed the planar lines, reentering the material world and coming into his shadowed foyer. A single step more, this time through shadows, took him to the alcove sixty feet above and just inside his front door.
+
+The darkness here was complete. It almost made him content enough to return home. No, the blasted spell will keep my candles pulsing for hours if I don’t answer.
+
+Without further time to dally, Tek flung open the door, revealing a sunlit day and an urchin pressing his hand against the metal plate beside Tek’s door.
+
+Tek glared. The human child was nearly as tall as he was. Are they getting bigger? “What.”
+
+The boy stepped back in alarm. “I…“ he hesitated.
+
+Tek rolled his eyes. “What do you want?”
+
+“I have a message, sir.”
+
+Tek looked over the boy, again. No, not an urchin… a messenger? Then, not a boy. Tek sighed.
+
+The oldest human would always be a boy to him.
+
+Tek grimaced. Except a wizard.
+
+The messenger winced, stepping back, a letter held out in shaking fingers.
+
+Tek snatched it from the trembling fingers, turning to close his door. Then, he paused. “Are messengers still paid a pittance?”
+
+The messenger, who had likewise turned to go, paused. “Yes, sir. But it keeps food on the table, and a roof overhead.”
+
+Tek grunted. “So does slavery, but I don’t recommend it.” He flipped a coin to the boy—man.
+
+Gold caught sunlight as it spun through the air, and Tek shrunk back.
+
+Catching the coin with ease, the messenger gasped. “Sir, I cannot… I mean… how could I… What did I?...Sir?”
+
+The coin was a full Royal… from a different kingdom.
+
+A money changer could make the change, or the gold could be sold by weight, but those were both inconveniences, which was precisely why Tek had given the man enough to feast with for days. “Don’t squander it.”
+
+The door closed with a thunk.
+
+Though it took only a moment, when the messenger threw open the door to protest, Tek was gone.
+
+Only an empty room remained, smaller than a closet and draped in black cloth. The messenger searched for another exit for longer than he should have. FInally, he sighed, pocketing the coin and closing the door on his way out.
+
+Tek, 60 feet below, sighed as well. If the man had neglected to close the door, he might have been trapped until nightfall.
+
+Not that he wished to go out, but it was the principle of the thing.
+
+A door opened, a step across planes, and the comforting clunk of a home secure.
+
+Peace.
+
+With a sudden motion, the letter in his hand gnawed at him.
+
+Tek cursed, shaking his hand and flinging the fanged paper across the room. It landed on his chair, where it began to tear at the upholstery.
+
+Cursing again, Tek stepped through shadow to cross the room in an instant, and ripped the letter free, opening it to deactivate the inherent spell.
+
+Tek,
+
+I trust that this note will not have caused too much damage before you deigned to read it. I needed to ensure you could not ignore this one.
+
+Tek glanced at the pile of letters on the entry table and grunted.
+
+Tek cursed a third time, throwing the letter down. I am not an animal tamer.
+
+The rustle of paper alerted Tek moments before the letter latched onto his ankle.
+
+Stifling yet another exclamation, he bent down and snatched up the letter. So, I have to finish reading? I wonder how he wove that…
+
+My cat will not listen to me anymore. He simply refuses to hunt the rodents infesting my library.
+
+If you won’t help, I will have to get another of the blasted things and restart training from scratch.
+
+I am desperate.
+
+Come soon, or my next note will be less…docile.
+
+Sincerely,
+
+Andronous, Wizard, Scholar, Ancient
+
+Tek rolled his eyes, gathering up the twelve letters Andronous had sent and burning them to ash with a flick.
+
+Andronous was known for sending spells in pieces, each innocuous until combined.
+
+To his credit, he had eliminated several rivals that way, as well as forcing help from Tek more times than Tek would admit.
+
+The tear in his chair irked him, but it sealed with barely a flick of the wrist.
+
+The bite to his ankle would heal in a matter of hours. Unless he gave the letter venom… I really should have examined it before destroying the thing.
+
+A third sigh escaped his lips.
+
+I suppose I have to go.
+
+With a quick motion, Tek threw on one cloak, then another.
+
+Door, planes, shadow to shadow, door, street, people.
+
+Tek growled, low in his throat; why were there always people?
+
+He had chosen a quiet street for his permanent door, but time had seemingly increased its popularity.
+
+A quick check showed no one looking directly at him, and a pull inward, combined with a twist, morphed him into the shape of a cat with a jeweled collar hidden within its long fur.
+
+Even as a cat, Tek found the streets uninteresting, the people more so.
+
+Tek stepped from shadow to shadow, never pausing long enough for his presence to be marked, never allowing his passing to cause a stir, and never leaving a trace.
+
+* * *
+
+The stone lair of Andronous was impressive, from a material perspective. The very façade dripped with expense.
+
+Tek ignored it.
+
+Such trappings were simply a human attempt to leave a legacy upon the world once they passed, whether material or cognitive. Sad, really.
+
+Tek stepped into a comfortable shadow, deep within the confines of the building.
+
+It was a storage closet, by the smell.
+
+Then, he stepped deeper, emerging into the low light of a fire, burning brightly at the far end of an overstuffed library.
+
+Three smells assaulted Tek in that instant: fire, barely contained; books, new and ancient, all well cared for; and the unwashed cacophony of rodent kind.
+
+There had to be hundreds of the things.
+
+Tek knew that spells kept them from the bookshelves, but for reasons Andronous had never been able to explain, magic couldn’t keep them out of the room entirely.
+
+”What madness is this?”
+
+A violently orange cat, perched on one of the taller shelves, locked eyes on him. “Oh praise the great utters, you’ve come!”
+
+Andronous was nowhere to be seen, of course. Tek tried not to sigh as he replied, “What are you doing up there, Meleti?”
+
+“There are too many, Tek. I… I just can’t.”
+
+Indeed, too many eyes to quickly count were turning towards Tek, peeking out of corners, and around bits of torn rug.
+
+“The man creature said he sent for you days ago. Why did you not come sooner?”
+
+Ignoring the question, Tek stepped through shadow to the top of the bookcase that stood next to Meleti’s. “Have you been up here since the first letter?”
+
+“What? You think me mad? This is simply the best place to see them all.” The cat motioned to a hole in the ceiling. “I can get in and out through there. The vermin are confined to this room, or so it seems.”
+
+“Where did they come from?”
+
+Meleti looked incredulous.
+
+“Right. You don’t care. So, why hasn’t he gotten rid of them?”
+
+“Apparently, it’s my job. Can you believe that?”
+
+“Yes. You agreed to this.”
+
+“Did I?”
+
+“Yes. You get all the food you want, beds in every part of the ‘palace,’ and no other cats within the walls. In return, you must deal with vermin.”
+
+“Well, that does sound like something I would agree to…” The cat smiled mischievously before continuing, “But you’re here, now. You can deal with them.”
+
+“No.”
+
+“No? No! After everything I’ve done for you?”
+
+“You have that backwards, Meleti. You are indebted to me. You’ve never helped me in any way.”
+
+“Humph.” He leaned over the edge of the shelf, looking down at the hoards. “It would be so… messy.”
+
+“You’re a cat. Deal with it.”
+
+“So are you.”
+
+“Would you rather I be a dog?”
+
+Meleti hissed. “You wouldn’t dare.”
+
+This was getting nowhere. “Meleti, please? Andronous is becoming annoying, and he is threatening to get another cat.”
+
+Meleti gasped. “Well, I never. Wizards break their word so easily these days. I thought we had an arrangement.”
+
+“You do. An arrangement you are ignoring.”
+
+“My honor is impeccable.”
+
+“Your timing is not.”
+
+“Our agreement does not specify the manner in which I deal with the vermin, nor the time table in which I do so.”
+
+“Never trust a cat’s watch.”
+
+“Excuse me?”
+
+“I said, ‘Never trust a cat’s watch.’”
+
+“You take that back!”
+
+“No.”
+
+Another hiss. “How dare you doubt my honor!”
+
+“Will you attack me?”
+
+“Yes!”
+
+“When?”
+
+“Now!”
+
+Tek let out another, long winded sigh. “Well, then I guess I have a few days to prepare.”
+
+Meleti’s eye twitched, and he lunged across the gap between shelves.
+
+Tek stepped through shadow to the shelf Meleti had just left and sighed again. “Meleti, we can do this until Andronous gets a new cat, or you can do what you agreed to do.”
+
+Meleti landed with, well, cat-like grace, whipping around to face Tek again. “You insult me, then expect me to work?”
+
+“Yes.”
+
+“Humph.” He settled down on the shelf, once again studying the vermin below. “They are quite a large clan.”
+
+“Are you scared?”
+
+Meleti’s eyes narrowed. “Are you tall?”
+
+Tek grunted. “If I wish to be, yes. The question stands: Can you honor the bargain or will you accept another cat?”
+
+“Those are the options?”
+
+“Yes.”
+
+“I could give you quite a few dead mice if you change your mind.”
+
+“I have no interest in such, and if I killed these mice, what would I need with others, provided by you?”
+
+“I could tell you secrets about the man.”
+
+“I either know them, don’t want to know them, or don’t care enough to know them.”
+
+“I could introduce you to other animals?”
+
+“I make my own introductions.”
+
+“I could—“
+
+“Meleti. The answer is no.”
+
+The cat shifted in irritation. “Fine.”
+
+Without another word, he lunged forward and dropped. Three vermin died as he landed, and then the blood bath began.
+
+Tek had no interest in watching. His altered biology made him instinctively desire to pounce as well, to taste rodent flesh. It was an impulse he had never indulged.
+
+Besides, his ankle and paw were beginning to burn and itch.
+
+With a step, he was in a formal sitting room, atop Andronous’s head.
+
+The wizard yelped, lunging from his chair and causing Tek to drop lightly to the floor.
+
+“Thrice cursed cat! I—“
+
+Tek stood, unfolding into a small humanoid shape once more.
+
+“Tek? You came!”
+
+Tek held out his hand. “Anti-venom.”
+
+Andronous handed him a small bottle.
+
+“Oral or topical”
+
+“Oral.”
+
+Tek downed the contents and tossed the vial into the fire. “Don’t ever do that again, wizard.”
+
+“Did you get Mutton to do his job?”
+
+Tek twitched at the name. That’s not his name. You know that. “Yes. I suggest sending the cleaning staff in a couple of hours. He will be busy until then.”
+
+“Excellent.”
+
+The itching faded from Tek’s ankle. “What did your letter inject me with?”
+
+“An altered form of urushiol… that’s poison oak oil.”
+
+Tek’s eye twitched. “So the itching—“
+
+“Would have been the worst of it… This time.” The wizard regarded Tek, narrowing his eyes. “Honestly, Tek, you shouldn’t ignore me.”
+
+Tek ignored the ridiculous threat, holding out his hand. “Payment.”
+
+“I gave you the anti-venom.”
+
+“Which was something that I didn’t need, for a venom that you inflicted upon me. Now, pay me, or I will fill this place so full of rats even a host of cats won’t be able to cleanse them all.”
+
+The wizard grimaced in distaste. “I don’t have anything for you.”
+
+Tek smiled. “Excellent.” He pulled a piece of paper from one of his many pouches, handing it to the wizard. “This will do.”
+
+The wizard looked over the paper, color draining from his face. “This is too much. It will take me days to create this.”
+
+“That is my price. If you find it too steep, call someone else next time. I will expect delivery within the week.”
+
+With that, Tek stepped from the room.
+
+He found the nearest closed door and pulled a key from a hidden pocket in his tunic.
+
+With a quick motion, he unlocked something deeper than the door and opened the side entrance to his own home.
+
+A key retrieved, a step between planes, and a firmly closed door left him home once again, and separated from the insufferable wizard.
+
+Happily alone… in the pulsing light of his candles.
+
+Orange, blue, green, yellow.
+
+Someone was at the door.

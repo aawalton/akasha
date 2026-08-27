@@ -1,0 +1,81 @@
+---
+id: a421e6a1-7e64-546f-b9cf-96dd451ba779
+page-type-slug: story-chapter-royal-road
+title: "Chapter 279 Museums"
+slug: 0294-chapter-279-museums
+partOf: melody-of-mana
+position: 294
+ownLength: 1315
+unit: words
+ownProgress: 1315
+publishedAt: 2023-10-28
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1388023/chapter-279-museums"
+royalRoadId: "1388023"
+markedReadAt: "2026-06-29T22:35:58.845Z"
+---
+
+I walked off to the side of my charges, watching at the oohs and aahs. The morning had begun with museums, then continued with much of the same. The elves took my foreign students through several different ones, all devoted to various parts of their culture.
+
+Personally I found that the first of them was by far my favorite. This museum had a zoo mixed in with it, displaying various animals, both magical and non, that were found throughout the Atali lands. There were cats of all sizes, various deer and their equivalents, along with a large rodent that I swore looked like a capybara but had the ability to spit acid.
+
+Beyond those were displays of some of the more dangerous, and often extinct, animals of the region. Stuffed bears covered in spikes, a large cat that could supposedly shoot lightning and make magnets, and a very familiar mock-up of a pitch dark wolf. These were of course all fake, but had info on what they were like, how to fight them if you encountered one, habitat and diet, all the useful info. I was already thinking of how useful such a display would be for the populous at large, and taking notes.
+
+After the lesson on biology we went through one of the historical museums, displaying the greatness of Atal's past, and the elven past in general. It was much smaller than I would have thought, though the exhibits were the equals of any other.
+
+The thing that struck me most was how fast the rise happened. Justin hadn't been born into a medieval world like I had, but a far, far more primitive one. From there he'd sped them through several eras of historical development, not quite to where they were now, but quite close. Heck, some of the things built during his reign were still in use, nothing had come into being that could yet compare to the personal work of someone trained on Earth.
+
+This meant that the elves missed... a lot, they'd skipped whole technical sections that would seem normal. It even looked like they'd gone straight from stones to steel in under a century. There were therefore huge gaps they were still filling in for industries that they'd never developed. It was like a society that had skyscrapers and planes without mastering the steam engine or some equivalent.
+
+“This is it right? The last place for today?” I heard my son whispering to his sister as they entered the old palace.
+
+“Dinner after this, but yeah. Would've been nice to have more time for each of these, you know?” she replied, stretching her shoulders.
+
+The palace was much as I'd remembered it, huge imposing stones filled with relics and copies of relics. I stayed near enough to my own children to hear their opinions while still keeping an eye on the rest of the students. There was a trick to being unnoticed while invisible, and that was to stay out of the path of people. More than once I'd been found snooping simply by virtue of someone bumping into me. That couldn't happen today, as it would ruin half of my purpose here.
+
+We finally arrived at the giant flaming letters and once again I shook my head, it was anything but subtle. The tour guide gave the standard explanation that nobody knew what they were, seeming almost verbatim of the one I'd received all those years ago. Perhaps it even was, maybe they kept the same script year after year. There were questions, but few answers, though one comment drew my ear.
+
+“Hey, isn't that the script mom uses in her notes?” Rodrick asked Illa.
+
+My head snapped over, eyes bulging a bit. I'd given both of my children a good education on programming and magic before they set foot in their school, but never on actual English, it was too dangerous, too much an identifier of reincarnators.
+
+“What!? When did mom let you see her personal notes? That's so unfair, she only ever let me see things she prepared,” my daughter said with a pout.
+
+“Um... well once or twice I might've...”
+
+“You broke into her office? Without me? You little turd I can't believe you.” Illa punched him and I frankly wanted to beat them both; this was not the place for that conversation. “So what's it say?”
+
+“I dunno, never learned to read it,” he said with a shrug. “Can you?”
+
+“Obviously not, but here, I'll write it down and we can ask later.” She sketched down the letters as I wanted to puke. There would be a reckoning about my son breaking into my personal effects, and improved security, again.
+
+I let the tour group pull ahead so I could have a moment to collect my thoughts. Mostly I sat there beating my fists against my head, hoping that nobody had heard that particular exchange. Stupid, the boy was stupid, he should have known that sharing any information about a mysterious mystery language was a terrible idea. He would have to be corrected asap.
+
+“Now that was one of the more interesting conversations I've heard in awhile, wasn't it?”
+
+My eyes led the way to the sound, turning to see an elf leaning against the wall near me. He looked young, almost boyish. Starting at the ground and going up I could see the clothes, all well made and tailored to fit. His suit was loose, almost like a robe, and dark gray. On top there was a vest over his shirt, and a long jacket. He looked like the prototypical conman, all the way to eyes that sparkled, speaking how he'd seen every trick, several times, and was oft unimpressed.
+
+Above that was short, wild, white hair, and long ears. “I can see you you know, mind dropping the illusion?”
+
+“Who are you?” I asked, after doing as he had requested, the students were well gone by now.
+
+“A friend of a friend I suspect. Mind joining me for a chat?” He didn't wait for a response before turning down one of the side halls, one that was roped off, and strolling forwards.
+
+“Alright, how did you see me?” I inquired.
+
+“Oh, there are ways. I've got to admit you're one of the better ones I've seen over the years, but you still give off heat, you still block sound, even if you don't release it. There are other things, but I think I'll leave those out for now. Let's just say you're not the first invisible girl I've encountered shall we? I also might have known roughly where you would be.” There was a smile in his voice, sheer amusement.
+
+We turned a few times before coming to a set of doors.
+
+“Where are we goi...” I tried to ask.
+
+“Madam, I'm afraid this is a restricted area! You can't just be here.” One of the workers had spotted me and rushed down the hall, only after a second did I notice that my companion had angled himself so he wouldn't be immediately seen.
+
+As soon as the woman approached she could see my escort, and things began to register. “Um, sir, this is not a public area of the palace,” her tone instantly settled a bit.
+
+“Councilor actually, and I'm quite explicitly allowed here.” He waved his hand over a section of wall near a door and it lit up with various symbols before popping open with a click. “See? Now if you'll excuse us.”
+
+I watched as her skin paled and eyes grew to dinner plates. “Um, yes, sir, uh, I mean Councilor, please...” she sputtered.
+
+The Councilors were the rulers of Atal, all old, all powerful. I didn't know the specifics, but based on her reaction I didn't need to.
+
+After a quick wave to the interruption I was pulled into the room, the door shut behind us.

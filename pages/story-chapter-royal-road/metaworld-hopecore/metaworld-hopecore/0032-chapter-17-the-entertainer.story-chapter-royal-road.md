@@ -1,0 +1,249 @@
+---
+id: 1c6c4eb7-42aa-55b5-92ba-70521746bf57
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 17 - The Entertainer"
+slug: 0032-chapter-17-the-entertainer
+partOf: metaworld-hopecore
+position: 32
+ownLength: 3349
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368847/chapter-17-the-entertainer"
+royalRoadId: "3368847"
+---
+
+"Truth is within ourselves."
+
+Robert Browning
+
+In the end, Halle could not join her on Saturday.
+
+With tears in her eyes, Halle informed Eppie that her parents would not allow their daughter to disappear into Culver City while chaperoned by a man they had never seen or known.
+
+This made little sense to Eppie, for if Hilcock's little jewel was indeed selected for anything in the future, she would be entirely among strangers, most of whom would not possess the purity and Protestant work ethic of her lawyer from Newfoundland. And this was in addition to the fact that studio access required everything from ID to registration, and there were cameras everywhere.
+
+Feeling mischievous, Eppie hugged her lawyer by the neck while wickedly watching Halle’s Southern Baptist eyes grow wide.
+
+Alas, each to their own. Her next stop was Sony’s West Coast film capital—Sony Studios.
+
+In her past life, the last time she was here, she was a part of an evaluation committee, sizing up Sony’s capacity to keep borrowing to keep its movie business afloat. The world had become a hot mess by then, meaning the circus business was a matter of national security.
+
+The entrance to the Sony fortress began at the Madison Ave gate, famous for busloads of tourists taking pictures without ever entering. At the threshold, they were stopped and questioned by a pair of heavyset guards in navy uniforms, their buttons loosely fastened to offset the Californian heat.
+
+Identification was wholly analogue, involving clipboards, checks with the security board, and the ticking off of names on the Daily Drive-on list. The guard handed them both visitor’s passes with their names pre-printed. After that, the red and white bars lifted like reprimanding fingers.
+
+A hundred meters in, LA ceased to exist. The ever-present sound of sirens, honking, and the busy bustle of shuffling people disappeared. To their right, she saw an enormous Art Deco building in white, embossed with the SONY PICTURES STUDIO logo in cobalt blue. The vibe of the place was surreal, like she had stepped into a set that was simultaneously set in the 1930s, 60s, and 90s, with its updated architecture giving off an otherworldly feel.
+
+Deeper into their drive, cars grew scant, replaced by an eye-watering amount of electric golf carts. People who looked like PAs, writers, grips, camera crew, and custodial staff whizzed or strolled past, not caring at all for the passing truck.
+
+They next passed the sound stages, giant buildings that look more like aircraft hangars than film studios. The only one she recognised was Stage 15, which, in her world, was where they had performed one of her favourite musicals, Singin' in the Rain. Above the soundstage, ducking in and out of view like a boxer, was the iconic water tower, a relic dismantled in the memory of her future.
+
+They parked at an underground garage and exited into a concrete lot where the collected heat hit like wet wool. Around them, Culver City was equal parts greenery and industrial urban, overpowering its visitors with a jarring scent of freshly clipped trees while standing beside towering metal barns.
+
+As a pair of tourists, they walked through Main St, with Eric explaining a few points of interest to enlighten his country bumpkin adoptee. Eppie noted with delight the irony of multiple signs of “Quiet on Set” against the ear-splitting sound of workmen hammering set pieces into place. They walk past a dozen crews, each with costumed men and women. Try as she might, Eppie could not recognise a single face, for she had watched zero movies or TV shows since her arrival in this new world.
+
+It took them ten minutes to finally reach the recording building.
+
+In her old world, this would be the famous Streisand Scoring Stage; in this world, Eric introduced the place as the Julian Johnson Theatre, aptly named because the main stage was where the instrumentals were recorded for Sony’s top-grossing catalogues, all involving the building’s titular conductor.
+
+When a staffer found them by the side and took them through the back, it was clear they would not be using the main soundstage. Instead, unlike the building in her old world, there were offshoot buildings for Sony’s recording artists.
+
+In the recording room, she was pleasantly surprised to see the familiar face of Johan Mueller.
+
+“Eppie!” The man rubbed his hands together to signal his eagerness for work. “Welcome back, little bird.”
+
+“Oh my god, you flew all the way here?” she said, breaking away from Eric to give the man her best hug. “That’s incredible.”
+
+“Hey, I wasn’t going to let someone else spoil the opportunity,” Mueller snorted. “You know your song will be playing in the Met this fall, right? Around the world as well, wherever the paintings will be, once the Met runs its course.”
+
+“I am sorry, what?” Eppie paused. She looked at Eric, who grinned back like a shot fox, “Really?”
+
+“No one told you? Do you even check your email?”
+
+As a former lifetime user of Apple’s walled garden, she had not, in fact, braved the UI of 2007 Windows inboxes. Five minutes into the SPAM, she was no better than Coordinator Carr with Excel.
+
+“Oh dear,” the veteran tech gave her a fatherly pat on the shoulder. “No matter. It all depends on how we go these two days, at worst, next week. Did you bring the Lead sheet?”
+
+“I did my best, but it's obviously amateurish,” she reached into her handbag and pulled out a four-page sheet of her best guess for the recalled melody of Starry Starry Night. All she had was the line, the lyrics, and the basic chord symbols, with no indication of how it should sound or how the basslines should combine with the chord and vocal harmony.
+
+“Yeah, thought as much,” her tech looked over her sheet with its neatly printed symbols. Perfect handwriting, however, had nothing to do with musicality. “That’s why I asked to borrow the big gun from Studio 5.”
+
+In every recording studio, there was an ubiquitous black leather couch. In their spacious studio, there was presently herself, Eric, Mueller, Mueller’s assistant tech, and apparently one other.
+
+Why do they all love aura farming on the couch… Eppie turned to greet the figure in black leather, bowing her head slightly.
+
+The man stood, all 5’5” of him.
+
+Black shirt. Black boots. Black snakeleather pants. Black beard. Very dandy.
+
+Eppie had no idea who this man was.
+
+“Oh, that’s just Antonio,” Mueller said. “He’s a heartbreaker, hmm? He’s not the big gun, though, he’s carrying the big gun.”
+
+Eppie looked around, her eyes searching for another mystery guitarist until her eyes landed on the guitar in Antonio’s hands.
+
+“Chad Lain’s Gilmour Martin D-35,” Mueller spoke as though weighed down by the weight of the world. “Since we’re about lost geniuses, I thought it would be appropriate.”
+
+While Eppie had no idea who their guitarist might be, she did know of Chad Lain. Chad was the progenitor of alternative grunge. He was a humble boy from Washington suburbia with a big dream and a bigger heart. As the Berlin Wall fell and American music dominated the world, Lain’s final Album “Human Animals” reached 30 million sold. When Lain joined the 27 Club two years later via a Glock, he would live on as the poster child of protest against a generation that was over-medicated, alienated, and intoxicated on material excess.
+
+Which promptly made him the most overmarketed dead artist of the mid 2000s, because of opportunists like Lana Zacanissian.
+
+Did rare historical instruments make the music better?
+
+The obvious answer was that the most famous instruments were already mastercrafted. The better answer was that their legacy spoke to the musicians' souls, allowing them to channel emotions that were otherwise untappable.
+
+“Very nice,” Eppie did indeed feel affected. She had listened to Lain’s songs, and indeed, she could feel through her [Sublime] state of mind, the manifestation of Lain’s lonely struggle with mental illness, apathy, and the burden of fame. “It’s nice to meet you, Antonio.”
+
+The two shook hands, and Mueller explained that Antonio was the handpicked guitarist for the greats, having worked on multiple Oscar-winning productions in the last five years.
+
+“You hum, he plays, and you tell him how else you want it,” Mueller explained with a twinkle in his eye. “That’s Antonio’s speciality.”
+
+With a suck of cold air, they entered the recording booth. She slipped on the SONY MDRs, and the world outside fell silent.
+
+Mueller adjusted the lighting, leaving only herself and Antonio. Against the thousands of illuminated buttons, she could just make out Mueller’s face in the dark.
+
+“Let’s warm up,” her Tech Chief instructed with a tone of joviality. “Sing your Deer song, show Antonio what you’ve got.”
+
+As commanded, Eppie let loose her developing prowess in [Songstress], [Charisma], and [Vocality].
+
+When she finished, Antonio applauded with a euphonic strum.
+
+“You’ve become better. Much better,” her Tech’s voice floated through the headphones. “That’s incredible. What the hell are they feeding you at LAPA? Ambrosia?”
+
+“Mostly pepperoni pizza and Caesar salad,” Eppie confessed to her sinful gastronomy.
+
+“Ha—I think we’re good to go then. First pass, vocals only. Antonio will follow up on the next pass. We’ll play back, review, and make modifications. Remember, we can perfect each part, and I can comp if needed. Ready? Starting the count—”
+
+Eppie counted the metronome perfectly as her internal [Clockwork Pulse] performed its magic. Four counts later, her tiny body opened its throat and filled the room with impasto shades of sunburst and ultramarine.
+
+The recording took two days.
+
+Day 1 was spent finding an accord with Antonio’s incredible talent for translating her vibes into an actual song, and by the evening, they had already created a “good enough take”.
+
+On Day 2, after warm-up, they performed a dozen sets until, just before lunch, Eppie suddenly felt the urge to lean into the Neumann U87 and pour out her heart in the final lines, ending with a slightly raspy voice that sounded part desperate yearning, part irrepressible grief.
+
+“CLEAN! That was clean. Well done, Antonio, great work keeping up with the change. Eppie. That’s it. That’s the feeling Madam Vaughan would want her visitors to hear. Alright, let's give your voice box a rest. Lemon and honey, then let’s break for lunch.”
+
+“What’s after lunch?” Eppie patted her belly. “Are we getting tacos again?”
+
+Last night, Antonio had taken the crew to the best god damn Taco place she had ever visited. Never in her life had she had such a good Quesabirria.
+
+“Why, more recording, my dear?” Mueller’s nostrils narrowed, showing that the man was absolutely serious. “I’ll need you to do the same, not exactly the same, but same. We’ll be layering and stacking, and truly making this song a masterpiece to be remembered. And yes, I am aware of your curfew."
+
+“Okay, then let me ask for a favour.” Eppie raised a hand. “I need a media manager. I have no time to manage my YouTube, MySpace, everything.”
+
+“You have no time for MySpace?” Mueller gave her a quizzical look. “Isn’t that what you kids spend time on?”
+
+“Hello? I am a LAPA student,” Eppie posed with both hands on her hips. “I got three subjects, and endless hours of theatre, and I got this—besides, with my equipment—I can’t handle it.”
+
+“You’re a technological novice?” Mueller snorted, his hand hovering over the buttons of a half-million-dollar deck system. “So there IS something our Eppie doesn’t know.”
+
+“No…” Eppie made a face. “It's the UI. I just… I can’t do it.”
+
+She showed them her Sony Xperia, her two thousand odd notices, and the MySpace app with the unanswered buddy requests and messages.
+
+Her deck tech leaned in, took the phone and swiped through her stats.
+
+“Jesus Christ, you have 70,000 profile views, two thousand friends, and another three thousand requests? There are over two thousand comments! Who are these top 8 people?”
+
+“My friends from school…”
+
+Mueller inhaled in the frigid air of the recording studio. “I am no expert in this, but yes, you need to get this managed… Whoa.”
+
+“Yes?”
+
+“Did you know you have Kellie Noah as your friend?”
+
+“I do?” Eppie recalled the apologetic pop princess with the power vocal from their stint in NYC.
+
+“Bloody hell,” Mueller winced. “Alright. Eric, draft her a contract for a media manager. Ask the boss if he’s willing to cover the cost. I don’t think there’s more than a few hours of work involved here. Just help her streamline her profiles, reply to the power users—meaning their media managers—and get the word out.”
+
+“Will do,” Eric’s quick agreement came as a relief.
+
+“That said, your fans do expect genuine engagement. Seventy-thirty is a good ratio. Your media manager will thank people for you most of the time, but you’re on the hook for engagement during releases. Do you want to make money?”
+
+“Sorry?” Eppie asked. “Off MySpace? How?”
+
+“Adverts,” Mueller noted the reason for MySpace’s decline and Facebook’s rise, after which Facebook promptly folded on their no-advert policy. “One of our Artists is selling some kind of flavoured water, what’s it called? Ah, yes, Vitamin Water. Do you want in on the action? You got the numbers.”
+
+“I’d rather not…” Eppie fearfully double-checked to see if the [System] was suddenly in a rage. “Yeah… I don’t need it.”
+
+“You do not need money?” Antonio, who’d been listening this whole time, butted in with a face of disbelief. “Are you a Young Miss, Miss Eppie?”
+
+“Ah.” Mueller leaned back in his chair, his face suddenly full of pride, as though he was the one who had chosen to live as a monk. “Go on, Eric… enlighten our friend as to the virtues of Miss Eppie Fontaine.”
+
+Even in the car, Eppie kept humming her own song.
+
+Compared to the grainy, solo melody of her carpark singing, this was something else. Or rather, it was far closer to Don’s original than she could have possibly hoped for and more.
+
+Compared to the original’s soulful range, her chesty “girl voice” added more pity, more bleakness, and a natural vulnerability that stemmed from the marrow of her bones. She wasn’t just mourning an artistic friend or mentor—she was also mourning herself.
+
+She was also giddy because she finally had a new phone.
+
+After explaining that she simply could not use Sony’s internal mail app, nor could she stand to use the Windows Mail UI, Mueller pulled some strings.
+
+After lunch, a brand new iPhone 3Gs sat on Mueller’s table, waiting for a new owner.
+
+“Corporate phone, if you want to use it,” her Tech explained. “It’s trackable through our corporate account with Apple. You will also have a corporate email tied to us. However, you can add your own if you know how. The iTunes account there has access to our entire catalogue, plus the usual fare.”
+
+“That’s amazing,” Eppie hugged the phone to her chest. “Thank you so much!”
+
+“You don’t mind being tracked by the company?” Eric raised a brow. “They can check your email, you know. Can they access her photos, Johan?”
+
+“Absolutely,” Mueller nodded. “These are sponsorship phones. We give these to our performers as part of the digital record promotions. Is that going to be a problem?”
+
+“She’s a teenage girl,” Eric’s eyes darted between them. “What if…”
+
+“I am NOT going to do that, Eric,” she held her phone like a short, balding midget from Middle-earth. A corporate phone! A phone with unlimited calls and data plans! Privacy be damned. “The precious is mine!”
+
+The men laughed.
+
+“Just be careful," Eric turned the phone box over and over in his hand, his Blackberry burning a hole in his pocket. “Some tech from Sony is probably going to know where you live, and where you go for fun. That’s… is that acceptable?”
+
+Knowing her future business with the cast of potential villains from LAPA, Eppie actually preferred a trackable phone that a global conglomerate kept an eye on. On the matter of phones, however…
+
+“Actually, Mr Mueller, I have another request,” she expertly turned on the phone and began the setup process, surprising her lawyer, tech, and guitarist. “I have an old phone, very old. Sony Ericsson. It isn’t powering on, but I really need something I recorded on the 15 mb hard drive. Contact lists… a song, I think. Do you think it can be retrieved?”
+
+“Not if the data is overwritten," Mueller remarked. “New song, you say?”
+
+“Well, an old idea.” Eppie fluttered her eyes innocently. “Can you help?”
+
+“You do realise Sony Pictures isn’t Sony Electronics,” Mueller snorted at her attempt to extort him with cuteness. Even so, both Eric and Antonio looked smitten. “Else they’ll be giving out the new Xperias.”
+
+“Pleeeeeease? There may be a new song… a wonderful new song… on that ”
+
+Mueller’s lips failed to fight their curling. “Alright, I know a guy. Eric, can you play the middle man? Guy lives all the way in Santa Monica. Not a great place for Eppie to frequent. It’s a repair shop; he works forensics for the FBI. Don’t ask me how I know him. Leave the phone with him. Knowing his workload, you’re looking at four to six weeks. Is that acceptable?”
+
+“YES!” Eppie clapped as the setup of her new phone concluded with the Welcome screen.
+
+“Good, he’s not cheap either, but you should be able to write it off as an essential expense,” Mueller said. “Now, before you lose focus—get back in there and sing!”
+
+She sang with all her heart, and the rest was history, culminating in her new phone. She still had her old phone, but this one had all her familiar apps, as well as the direct corporate extensions of Eric Lee, Johan Mueller, and Frederick Curon.
+
+“Next time,” Mueller said seriously. “Use the secure mail, and send your ideas straight to the Director.”
+
+“And he’s going to listen?” Eppie was surprised they had so much faith in her. “You’re promising some pretty exclusive access. I am just a kid, remember?”
+
+“Are you really? No, never mind. What does that matter?” Mueller looked at her like a man marvelling at a particularly unusual catch. After all, the man had flown from NYC to LA just to tune her track. “Just know that usually, he isn’t a patient man, though for you, your contribution has made him very patient indeed.”
+
+Eppie was home a quarter of an hour before the cutoff, though Josefina was far more accommodating when she had a man from Newfoundland to flirt with for five minutes while she snuck upstairs.
+
+A few minutes later, she came down with the broken phone, and Eric bid them farewell.
+
+Her two roommates were still wide awake, having returned home from their families in the early afternoon, and badgered her until all four sat in the kitchen, listening to her new song around the dinner table.
+
+“I should have gone.” Halle was paralysed with regret. “Even if I had to disobey my mum, I should have gone.”
+
+Ava merely immersed herself in the music, moving her dancer’s body now and then to mime the brush strokes. She did not lament missing the famous soundstage. Her Jewish parents would not have allowed it, and that was that.
+
+After the third or fourth replay, the women listened with their hands on their laps, eyes closed, soaking in the ekphrastic liminality of her mortal melody.
+
+“Aeee… that Antonio… qué bárbaro. He plays like he is trying to steal your soul, like he is whispering in your ear. Tienen química, Eppie. He makes you sound older, but he also makes you sound like a ghost… Did you say he was handsome?”
+
+“Exceedingly handsome,” Eppie chose not to mention Antonio’s height. “He was in all black, black snakeskin pants, black shirt, black hair, black goatee.”
+
+Josefina made the sign of the cross.
+
+The girls fell about laughing, breaking the melancholic tension.
+
+“Alright, girls. To bed. Next week will be very busy indeed.”

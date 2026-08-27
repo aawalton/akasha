@@ -1,0 +1,171 @@
+---
+id: 7c3a0615-77ed-5b1a-821a-6453d1707915
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 Into the DEPTHS"
+slug: 0038-chapter-33-into-the-depths
+partOf: melody-of-mana
+position: 38
+ownLength: 2755
+unit: words
+ownProgress: 2755
+publishedAt: 2021-07-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/725451/chapter-33-into-the-depths"
+royalRoadId: "725451"
+markedReadAt: "2026-06-29T22:27:31.902Z"
+---
+
+My heart was pounding as Dras pulled me along the tunnels. I didn't know these well, and I had a feeling he didn't know where we were either. We had no choice though but to flee, after the last attack I could hear people jumping down into our escape route.
+
+The rich boy and his guards were following us. I was glad they had some kind of lights, so that I didn't need to waste any mana. It wasn't that they were friendly or anything, but we were all running from the same death. There were maybe ten left, mostly big muscled men, a quick look confirmed that all of them had some kind of aura, and not pathetic weak ones. That honestly scared me a bit; whoever these guys were, they were not playing around. Each was dressed in heavy steel armor, perfectly matching the others of the group.
+
+Eventually though we had to stop our flight. We ended up in a basement of some kind, all panting from the effort. There was clear delineation between Dras and I and the others.
+
+One of the men, the one who'd been carrying the noble kid moved forward. "Who are you two? How did you get involved in this?" He hadn't drawn his sword, but his hand was decidedly on it.
+
+"Two prospective students to the Academy, and we weren't involved more than running when the fighting started." Dras was a good guy, but I would be taking point on this. If he screwed up and got mouthy we might be killed.
+
+"How do I know you're not enemies?" He didn't seem to consider us as such at the moment, and that was good. His interrogation was merely to make sure of things he already suspected.
+
+"If we were your enemy we wouldn't have led you to a safe location. One more of those lightning attacks would have killed you lot."
+
+"How did you know it was lightning?"
+
+"The sound, the color, the smell, it is obvious what it was."
+
+"Wait, smell?" One of the other men stepped forward, quirking an eyebrow.
+
+"Yes, lightning has a smell. It smells clean, like after a rainstorm."
+
+Their leader seemed to think on that for awhile before nodding. "Very well, I currently believe you are not enemies, do you know the way out?"
+
+I looked at Dras, who shook his head. "I don't know this section at all, never been here."
+
+"What about you men; you got to have a way out?"
+
+Their leader, whose name I still didn't know, shook his head. "You two, stay where you are. The rest of you men, spread out, see what you can find."
+
+Within a few minutes they'd found that the only other way out of our little hidey hole was what looked like some kind of old pipe. Drainage or something, that was in one corner of the room. It was far too small for the warrior types to fit through, but they convinced (ordered) Dras to put his head inside. He found that it was decidedly descending.
+
+The noble kid didn't say a word to us. That seemed to be a thing here. For whatever reason a lot of nobles wouldn't speak to commoners except through their guards unless they had to. I was unsure on exactly the rules there, and had hardly any experience with nobles, so I made a note to ask Lucien. That was assuming we made it through this.
+
+A proposition that seemed less likely as we heard the noise of many men coming down the hallway that had brought us in. They weren't being quiet about it. That led to a few hasty decisions, like most of the guards taking up positions near the doorway, and blocking it with anything they could find.
+
+"So Dras, pipe or lightning wielding maniacs?" The answer seemed obvious to me as I whispered it over.
+
+"Pipe, obviously."
+
+We made our move. The soldiers were all a bit preoccupied with their impending doom and how best to make their final stand as Dras flitted in. I got spotted as I jumped in after, but it was far too late for them to do anything about it as I hurried into the angled exit.
+
+And angled steeply it was, soon as I got in I found myself being pulled down. Like a water slide, minus the water. I half-crawled, half-slid down the metal tube. It was rough, each slide found little friction and ripped at both skin and clothes. The sound of whatever lightning weapon was being discharged sped me along with haste, as did what sounded like someone following. After two discharges of thunderous death there were no others.
+
+I gritted my teeth as we went. From both ahead and behind I heard the occasional grunt or hiss of displeasure, but was thankful that nobody was stupid enough to speak in the echo chamber. I wasn't sure how long it took for us to make it through, once we did however we came out into a massive cistern of some kind.
+
+The room was massive, I couldn't count the columns that were supporting it as I pulled myself from the pipe and onto a ledge near Dras. He'd started up a small flame to light our way and with that I could see dozens, each leading up to arches dozens of feet above us. There was a bit of water in the pool a couple of feet below us, but it seemed not much, less than two feet if I had to guess.
+
+I motioned to my compatriot that we were followed, and we took up defensive positions. Sure enough, our fancy new friend had shuffled in after us. He looked a bit shocked when he saw the young wizard sizing him up for a firebolt to the face. The boy was maybe fourteen or fifteen, and the sword at his waist spoke to his vocation. Much like his guards, he too had an aura, and a relatively powerful one.
+
+We all stood fairly still for a few moments before Dras finally broke it. "You gonna stab us in the back?"
+
+"I had not planned to, seeing as you're probably my best chance for getting out of here."
+
+"Your guards?"
+
+"Shoved me in the pipe after the first use of whatever that weapon is. I regret to say that they're likely dead." It was easy to tell that he was quite broken up by that, and was struggling to maintain his composure.
+
+"Sorry for your loss. We have more important matters at hand though. Do you know if you were followed?" I leaned forward as I talked. If we were still in danger of going up against those assassins I wanted to know quickly.
+
+He nodded to me. "I do not think so. It sounded as if there was a collapse behind me. I propose we work together to get out of this mess."
+
+"Alright then. I'm guessing you're a physical magic user?" Dras asked. I thought it was a fairly obvious thing.
+
+"Of course, ah, but where are my manners you may call me cr... Lief."
+
+"Dras."
+
+"I'm Alana."
+
+"Well then, do either of you know where we are?" Lief's question met to shaking heads. "Then I suppose we must find our own way out." He set off without further consultations. I wanted him as a vanguard anyway, but the fact that he was happy to lead us wherever we were going seemed promising, if a bit rash.
+
+After exchanging a shrug with Dras I followed. Our fearless leader produced a small stone from a pouch that lit up brightly, easily illuminating the room. Which gave a good scale as we moved along the ledge. This room was easily 250ft wide, and nearly double that in length. We'd entered about halfway down one of the longer sides.
+
+"This place is huge. Who even built it?" I couldn't help my curiosity as we trouped our way along.
+
+Lief looked over briefly at one of the columns. "The kingdom of course, or one of its predecessors. The stonework is around a thousand or so years old. There are a few pieces like it in the Academy and some of the areas in the noble's section of the city. Though parts were likely added later, like that pipe."
+
+"Okay, so, do you have any idea of where we're going?"
+
+"First, away from that pipe. Then I suggest we go upwards."
+
+"Right, but we need to be careful. These tunnels are quite dangerous, there are even a few monsters."
+
+He turned and gave me a rather charming smile for a teenager covered in filth. "Do not worry yourself. I will not allow you to come to harm." It was obvious he didn't know that I was a caster.
+
+When we reached a doorway he led us into it, scanning the area. It was a maintenance tunnel of some kind and seemed to go neither up nor down, but rather led us along this level.
+
+These tunnels, unlike most that I was familiar with, were both clean and matching. They seemed to be laid out such that someone could move along them to maintain a number of systems involving the cistern we'd found. Unfortunately, all of the exit shafts up were sealed.
+
+After some hours we came to a room off of a large pipe that was traveling with the water transport system. It was small, and the pipeline it had was largely empty. At Dras' suggestion we made to rest there. I summoned us up food and drink, much to the surprise of our erstwhile third.
+
+"You're a bard?"
+
+I smirked at him as I passed over a cheese sandwich. It wasn't much, but it was food and filling.
+
+When we had all enjoyed a nice nap we kept at it. After a time we'd worked our way past most of the likely candidates for openings back up. We were near the end of one of the canal maintenance lines.
+
+"I don't think there are any other areas down here, assuming the cistern hasn't seen a few of the people out to kill all of us. I suggest we see where one of these pipes go. If it's nothing, that's fine, but people run pipes to places."
+
+Lief perked up, "Oh, that's quite the idea there." With that he hopped into the large tube, and offered me his hand to help me down.
+
+The lack of any monsters was putting me on edge. Either there was something killing them, or this place was sealed so tight none could get in or out. I doubted the second, as there seemed to be at least one way in.
+
+"There's nothing living down here, isn't that odd?"
+
+"There was, it was in the cistern, and big." Dras laughed at the face I made.
+
+"Why didn't you say anything!?"
+
+"You didn't need to know. Besides I got the feeling that as long as we didn't go in, it wouldn't hurt us."
+
+I pouted, even more so when our newest addition added his compliment to Dras' behavior and quick thinking.
+
+Our new path led us into another area much like we'd just left. A notable exception though was a hole we found in one of the walls. It was small and hard to fit through, but we managed, ending up in a much more fancy looking area. There were sculptures and engraving everywhere. It seemed to be a tomb complex of some kind.
+
+A short amount of exploration led us to the main hall, large and circular. It went up and down at least one level each, not unlike a library. The hall was huge and open, with branches that led away all surrounding the platforms you could see up and down from. Stairs linked the levels, allowing us upwards. We happily climbed them, ending up on the top landing.
+
+At the top level there was clearly visible an arch, the stairs behind it leading upwards. It was impossible to tell how far, but they did go decidedly up. Standing to one side of the arch was a large iron statue of a man at attention. The other side seemed creepily empty.
+
+"If I had to guess, I'd say that is our way out." Dras smiled as he pointed over towards the arch.
+
+A slight shaking alerted me well before anything else. Slowly making its way around the circle towards us was the other statue. Its pace was far too fast for anything that big, and its posture aggressive. Each step moving it faster and faster.
+
+The rich boy drew his sword and prepared to face the monstrosity.
+
+"What are you doing!?" I didn't bother to hold back my scream as the thing barreled towards us. We were protected by the fact that it didn't start out fast, and the room was so large.
+
+"We'll defeat this terror here and now!"
+
+"You can't fight that! It's ten feet tall and made of iron, you idiot!"
+
+That did not stop Lief from giving it a go. It wasn't far from watching a gnat try to fight a housecat. He dodged and weaved with ease around the lumbering giant as I pointed Dras to one of the tombs nearby. Its entrance was human sized and far too small for the thing to even get its shoulders in. I considered the stairs briefly, but they looked too sturdy, it would almost assuredly catch us before we could make it to safety.
+
+The heroic idiot of a warrior was doing his best, but his sword couldn't really harm the giant. He'd land a strike only for it to screech a bit off the surface of the golem, leaving at most a tiny line. He was fast enough to keep ahead, but it would only need one good blow. It got a glancing one on Lief's off shoulder, making a sickening 'thud'. The sound like someone being struck with a tree.
+
+Lief gasped, and quickly backed off, one arm limp. We called out to him as we ran toward the doorway, hoping it would keep the titan back. The three of us flew into a room perhaps twenty feet long, and ten wide, a few coffins here and there, but little else.
+
+The golem did stop at the door. It shoved its arm in, and then pulled its head down to look about, seeing us. It could not fit past the portal though, and it couldn't, or wouldn't damage the structure. Something I was deeply grateful for. The look of it peering in at us alone was enough to send chills down my spine. That thing could pulp a man in an instant, it would turn me into little more than a cute red stain on the ground.
+
+Lief had managed to retain his sword. He did however find himself on the ground gasping in pain as the adrenaline wore off. I had Dras watch the door as I worked on his arm. It was certainly broken, and the flesh was pulp. Had it been more than a glancing blow he would almost certainly be dead.
+
+"I owe you a debt of gratitude, my lady." Lief sounded like something from a storybook. He even gave a sweeping bow as he got up. It took all of my self-control not to laugh.
+
+"Yeah, well then try not to get yourself killed."
+
+"I will endeavor most assuredly not to. My honor would not allow me to leave such a debt unpaid."
+
+If this guy couldn't have caused me so much trouble if/when we got out, I would have been rolling my eyes upside down. He made a few comments at Dras before I told him to quit. There really was nothing an untrained fire wizard could have done to that nightmare.
+
+Another quick meal and we all fell asleep, not sure if we could find a way safely around the golem. We did agree that after we'd rested up we'd take another hard look if possible.
+
+When we did wake there was another lad, perhaps Lief's age sitting near us. He had a small 'lantern' made of a box of barely glowing fungi. His skin was deathly pale and eyes huge. He too was a physical magic user, though the majority of his aura seemed focused around his eyes, as if to strengthen them in the bleak darkness.
+
+"So, mind telling me how you three got down here? Cause I'd really like to leave."

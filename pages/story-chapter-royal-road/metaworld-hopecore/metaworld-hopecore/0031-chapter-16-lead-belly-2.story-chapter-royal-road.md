@@ -1,0 +1,201 @@
+---
+id: fc1fafa2-6456-58c1-ad5d-9f197959aca7
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 16 - Lead Belly (2) "
+slug: 0031-chapter-16-lead-belly-2
+partOf: metaworld-hopecore
+position: 31
+ownLength: 2610
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368811/chapter-16-lead-belly-2"
+royalRoadId: "3368811"
+---
+
+“This makes no sense,” Zara Arriaga, instructor extraordinaire, regarded her student with a deep suspicion that bordered on paranoia. “Your fingers haven’t even developed calluses, and yet, you’re holding your notes.”
+
+In front of her, Euphemia continued the gentle strumming, playing her way up the scale, then down, not with perfect precision, but at least with the expertise of someone three months deep into their lessons—and it's only their second day.
+
+An amateur may have simply felt they had misjudged the girl’s talent, but not Zara. She was herself a rising talent, albeit one taught by uncles who were local celebrities in their modest Spanish community. When teaching, her laid-back relatives had been demons, drilling every aspect of their craft into Zara.
+
+The Eppie before her now had all the tell-tale signs of someone completely at ease with the instrument. The fingers of her left hand were arched and yet relaxed; her thumb was exactly placed where the length of her skinny fingers could wrap the fret. Her fingertips were landing precisely on the metal fret-wire, where the tone was clearest.
+
+Likewise, the dominant hand was exactly like Zara’s uncle’s, resting just enough to hover, and yet delivering enough strength to give the note a vibrato edge before the sound decayed.
+
+“Alright…” After listening to Eppie’s mechanical performance of the scales, she acknowledged that, indeed, anyone who could write a song like Starry Starry Night should not lack musicality.
+
+With relief, she watched Eppie falter as she slid the scales and tried a few simple tunes, noting that each time, her students’ hands returned with perfect precision to the neutral rest.
+
+“Alright,” Zara wondered how long it would take for the two of them to play together. “Let’s move on to the Double Strike.”
+
+Friday. 6:15 AM.
+
+Eppie Fontaine lay her belly flat on the yoga mat, her back arched toward the sun in praise. She breathed into her lower ribs, feeling her diaphragmatic muscles swell with vigour. Beside her, smothered with sweat, Halle lay on her back, staring at the ceiling, counting the popcorn ridges.
+
+“Did you get a contract yet?” her junior asked inquisitively. “I heard that you’re almost at half a million views now.”
+
+“Sony made me a good offer.” She did not feel the need to lie. “I took it.”
+
+“Awesome,” the girl grew energetic at once. “To buy, or for you to sing?”
+
+“A bit of both,” she replied. “I had a good lawyer.”
+
+An unspoken silence passed between them.
+
+“I am going to do a recording this Saturday,” she said at last, watching Halle’s eyes turn from anticipation to giddy happiness. “Would somebody like to accompany me? With permission from their parents, of course.”
+
+“Oh, I’d LOVE TO,” Halle rolled over so that they touched shoulder to shoulder.
+
+Eppie almost leapt away from the cold, icky sensation of air-conditioned skin on skin, though she endured. After all, youthful skinship, especially that of naive friendship, was a wonderful, ephemeral thing.
+
+With Halle’s unspoken longing settled, the rest of her routine unfolded: a breakfast of high-protein and oats, a double-check of the contents of her enormous duffle bag, and the walk to the Quest Board, now with the addition of her guitar case.
+
+The school felt as lively as ever, only more chaotic now that tryouts were soon due. The atmosphere was one of busy ambition, with musicians walking in haste, dancers practising in the hall, and the Gen-Ed students cramming the underground entrance where the old lockers sat.
+
+She was just pondering the contents of her Friday sessions, Algebra and World History, when she spotted the familiar figure of their Operational Coordinator waving in her direction.
+
+As a certified shorty, it was not easy for Eppie to spot anything trying to get her attention, and so it took her and the director several seconds of pantomiming to finally arrive at mutual understanding.
+
+“Coordinator Carr, you wanted to see me?” She projected her voice in the way of Cooper’s lessons just so that she could be heard over the din. In public, she still called Susan Carr by her title. In private, they were already old chums.
+
+“I do indeed,” The Coordinator spoke with a hand against her hip, looking relaxed and happy.
+
+These days, with her Excel work behind her, Susan Carr had plenty of time to take care of her real job: the management of Showcases, the negotiation of spaces with CSULA, and student relations. She was simply a happier person, which made Eppie happy as well.
+
+“So, two things. Well, one small and one large thing, but yeah,” Susan offered to carry her stuff, but Eppie found it effortless enough. “The first is easy. You haven’t cleared out your old locker, and we need it back. The second is—”
+
+“I have an old locker?!” Eppie stopped among the students, who walked around them. “I did not know this?”
+
+“Oh?” Susan snorted. “You knocked your head… er… sorry. Shall we go see it? Maybe we can clear it out now.”
+
+Her Coordinator was quick to maintain her air of helpful authority after the faux pas. Together, they made it down the rows until they arrived at an old and beat-up locker.
+
+“I take it you do not have the key?” Susan asked.
+
+“Nope,” Eppie affirmed her suspicion.
+
+“Good thing I asked the janitorial staff for this then,” she pulled out from her handbag an enormous chain of keys, upon which was a key tool that looked like a nibbled rod. After a good amount of shimming, her locker opened.
+
+“Huh, your lock looks damaged.” Susan tried the key several times when it became stuck. “I guess Albert will have to replace this. I’ll grab a bin for you—be right back.”
+
+While her OpCor ventured to find the custodial staff, Eppie’s eyes zeroed in on the contents inside her old locker. First and foremost, this was an ancient locker, the type one might see in the movies from the 70s, only they were now in the mid 2000s. It was one of the floor-to-head height models, and the interior of her locker was a mess.
+
+No, not a mess. Eppie saw the truth at once. It was made into a mess.
+
+Someone, maybe herself, had destroyed everything.
+
+There were notices, timetables, and play posters on the door; only these were torn down without removing the rubber tacks used to glue them. There was a cracked phone on the pile of stuff in the middle, its backshell covered in rhinestones. A pair of old sports shoes and a pair of ballet ponte was also present. On the smudged mirror inside the door, she saw ripped photos with everything but the corners gone. Heavy humanities textbooks lay on the floor, together with Algebra I and a French textbook.
+
+Very quickly, she sorted the pile despite the chaos. Books on the top shelf. This book was originally published on Royal Road. Check it out there for the real experience.Items of interest. Evidence, such as the unpowered phone, and what looked like a journal.
+
+Coordinator Carr returned with a janitor. Eppie greeted the man, then dropped everything that could be discerned as trash, while keeping her books and misc item in a borrowed bin bag so that she could more meticulously go over the evidence of Eppie’s former life.
+
+Then she left for class.
+
+In the Friday Arts Block, the lesson shifted to character collisions.
+
+First, they stood in a circle to warm up, starting from neutral, their feet shoulder-width apart, bounding and bouncing like Greek dancers delivering a heifer in a garland to the sacrificial altar.
+
+Seyrova walked behind them, pushing down those who leapt too high, or pacing those struggling to stay in sync.
+
+The secondary exercise was mirroring. In pairs, they tried to mime each other’s movements, an exercise that brought much laughter as the children exercised their imagination and attempted to out-play one another.
+
+Each by each, the students took the place of Esmene and Antigone, Creon and Antigone, and took turns standing their ground or yielding it, depending on how they wanted to play the timeless characters.
+
+Eppie got to play each of her favourite characters, that of Creon, Antigone and Ismene. She had a boy called Thomas shout Creon’s lines to her face before standing up to him with her unique defiance. She got to play the insecure, mousy Ismene, which received applause from the others because she did look the part far more than when she was Antigone.
+
+Then, when it was her turn to play Creon, she faced Madison as Antigone.
+
+With genuine emotion that spoke loudly of oppression, Madison bore herself up against Eppie, whose small frame fought back against the blustering curses issuing from Antigone’s lips.
+
+“Who knows but this seems blameless in the world below?” Maddy demanded justice; her eyes blazed with vengeance.
+
+“A foe is never a friend-not even in death,” Eppie fired back, growing in size as her [Charisma] and [Intimidation] loomed. It was easy, too easy, in fact, because this was her natural state of being.
+
+Her opponent, no longer so tall, tried to appeal to Godly love, but was cut short when Eppie scoffed, standing only a foot apart but looking at Madison as though she had already been fired, and would never work in Silicon Valley again in her lifetime.
+
+“Pass, then, to the world of the dead,” her voice grew low and threatening. Her face was a mask of indifference. “...While I live, no woman shall rule me.”
+
+“STOP. Reset.” Costello paused the scene. “That was great. WRONG—but great.”
+
+Her drama teacher looked at the girls strangely.
+
+Madison’s eyes immediately fixated on the floor. Eppie raised a brow.
+
+“Let’s start with you, Maddy,” Costello cleared his throat. “I enjoyed your performance. I really did. However—why are you afraid? Why is Antigone afraid? She made her choice. She is absolutely defiant. She is the walking dead. What else is there to be afraid of? You act like you did something wrong? I spy some pity in thy eyes, and you’ve done a great job making me feel pity—but there’s no doubt that your Antigone is guilty. Understand?”
+
+“Yessir,” Madison bowed her head. “I’ll try harder.”
+
+“And you,” Costello cocked his head. “Great job.”
+
+Eppie beamed.
+
+“IF you were a MAFIA BOSS,” the man laughed. “What the hell was that? Are you Don Leoni? Why are you Creon’s evil twin?”
+
+“Er…” Eppie looked out at the heavens. I wasn’t evil. Was I?
+
+“Creon is NOT a bad guy. He’s the law of the land, the mortal law. He thinks differently from his niece, but he isn’t malicious. He doesn't take delight in her suffering. He’s TORN between his family and doing what the law demands. Why do I feel you’ll summon your thugs at any moment and take Maddy to the aquarium?”
+
+The class burst into laughter.
+
+“We WILL be doing a postmodern take,” Costello laughed as well. “But the characters do not change. Characters are in the room, Eppie. We move around the furniture—but the dimensions of the room, at least for now, are sacred. Understand?”
+
+“Yessir.”
+
+“Good. Let's wind down.” Costello convened the class once more into a circle. “Slow synchronisation, let’s take it from the top.”
+
+Friday was Zara’s day off, and so Eppie had dinner with her pals, practised her lines with the others in the quad, then ventured home early to examine her loot from the locker.
+
+In the dorm, she had a light evening conversation with Josefina and the others about the upcoming auditions, then laid everything out on her cramped desk.
+
+Her primary object of interest was the phone.
+
+It was an ancient device.  A Sony Ericsson K320i. The sort that phone companies gave out for free because, at its maximum spec, it delivered a massive 15mb of storage to the iPhone 3GS’s 256. It took audio and video at… 240P.
+
+That such a device was in Eppie’s possession was of immense interest to her because by studying Eppie’s contact list, she could reasonably figure out the people involved in Eppie’s life.
+
+Presently, it was effectively destroyed.
+
+She pressed the power button. Nothing. Certainly, this was not a Nokia.
+
+Thankfully, she had micro-USB cables. Unfortunately, the phone was dead.
+
+She breathed out, then moved to the journal.
+
+First, she had to navigate the damned rhinestones. So many of the things were glued to the cover that it was impossible to use the damn thing without dislodging them. Once they were out of the way, she opened the first page.
+
+“Wishlist”, she read out loud.
+
+A real guitar. Not one with buzzing frets. I want a hollow body that feels real, where the wood doesn’t smell like mould. I want one that holds the tune.
+
+Tonkotsu Ramen. I want to eat real ramen noodles one day, like the ones they sell in Japan, or down in Japantown. The packet of Ramen makes me drink so much water. Unlimited top-up. I want a phone with a plan that doesn’t run out. I don’t want to hear the words low balance while I am talking to Simone.
+
+New boots. I want a pair with thick soles for winter, so I am not freezing to death every time we go outside. I don’t want to worry about wet socks.
+
+A winter coat with double buttons. Suppose it's not too much. I want a double-button coat. Valorie looked so good in her coat. I don’t even want a new one. Just one I can afford from the thrift store down on North Ave.
+
+“Jesus Christ,” Eppie had to stop flipping. As Lana, she had never known want. After Lana made her first big trade, she never looked at grocery prices again, and after she paid off her parents’ mortgage, neither did they.
+
+She flipped through the rest of the journal, which entailed some accounting, Eppie’s homework, and her adventures with Simone. Visiting Simone’s home. Some secret girl crush on the hot teachers. Later, in October, there was a boy she fancied, but the Senior already had multiple girlfriends. She got all the way to Jan, when several entries were made about Luciana Mio beating Valorie Sanders, and how excited she was to see Mio perform in the Junior Showcase.
+
+Eppie’s breath grew heavy. She could feel something coming.
+
+Near the middle, her fingers paused their browsing. She had already felt the missing thickness, but now her eyes confirmed it. There were a dozen missing pages, with parts of the paper still stuck to the cheap glue binding.
+
+One by one, she placed the torn photos against the page until, finally, the edge of one particular photo, with about 80% of the content missing, matched the jagged teeth on the binding.
+
+Interesting. She closely examined the missing section.
+
+5 sheets. Meaning 10 Pages. Knowing Eppie, it was about 6 pages of content, and 4 pages of scrap and other ephemera.
+
+Closing her eyes, she tried to channel her inner Sherlock.
+
+Firstly, someone had forced the locker’s lock and gained access to it. Secondly, someone had torn down the pictures of Eppie, presumably with friends. Thirdly, someone ripped out a chunk from Eppie’s diary. Fourth, whoever was responsible didn’t have time to destroy the evidence. Rather, it felt like they were caught halfway through their rummage.
+
+A torn journal. A smashed phone. A broken-in locker.
+
+The plot thickens.
+
+Eppie yawned, stretching her limber body like a cat as she swung back on her chair. It was late, and her [Stamina] was low. She would have to sleep it off and save the intrigue for another day.
+
+Tomorrow was going to be a big day.

@@ -1,0 +1,243 @@
+---
+id: e6aa4a78-d11f-584d-95d7-1af927706072
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 634 - A Daughter Binds"
+slug: 0137-chapter-634-a-daughter-binds
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 137
+ownLength: 2891
+unit: words
+ownProgress: 2891
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2754361/chapter-634-a-daughter-binds"
+royalRoadId: "2754361"
+markedReadAt: "2026-06-29T19:39:27.511Z"
+---
+
+Tala kept mastery over herself—but just barely—as she stood in an all too familiar room, the one in which she’d taken her first step of true advancement, where Terry had come to her aid even against Archons who could have burned them both to ash, where she and Rane had become Bound—not to each other, but in the same space.
+
+Now? Now her daughter stood under the scrutiny of an auspicious group. Archons that Tala and Rane knew only by name as well as those they knew far better.
+
+Master Grediv, Mistress Holly, and Mistress Elnea were in prominence, but this day Mistress Jenna sat just beside Mistress Elnea, in clear pride of place.
+
+While Tala understood the woman’s reasoning, her suggestion of just ending Lea had left a lasting negative feeling toward Mistress Jenna within Tala. Mistress Jenna had acknowledged that, and unapologetically maintained that she’d acted in the most effective way to ensure that Tala wasn’t being influenced by external magics or concepts.
+
+And now? The woman had used her right as Prime Defender to ensure she was near the core of the test for Lea’s raising.
+
+Tala took a leveling breath, ensuring she was ready for what was to come. Don’t forget, they asked you uncomfortable questions at your own raising, insinuated you weren’t good enough.
+
+-Hey, I was going to say that.- Alat’s tone was playful, but there was an undercurrent of maternal compassion.
+
+Well, I’m capable of useful self-talk too.
+
+-I suppose? You just don’t do that often.-
+
+Of course not. I outsourced that to you. Tala grinned internally, grateful for the momentary distraction.
+
+-Yeah, yeah.- Alat sent back the feeling of a chuckle.
+
+Beside Tala, Rane shifted, reaching over and taking her hand.
+
+They were standing at the side of the room, not part of the decision makers, nor those who would be allowed to question the Mage.
+
+Mistress Elnea cleared her throat, drawing all eyes.
+
+The small woman straightened her back and lifted her chin, ever so slightly. “Mistress Lea, you stand before members of the local council of Archons, and those Archons who wished to participate in, or observe, these proceedings.” Her voice was clear and powerful.
+
+Lea gave a slight bow. She seemed unsure what she should say, so she held her tongue.
+
+Tala grinned, remembering her own ceremony so many years earlier.
+
+The Archon quirked a smile. “I am Mistress Elnea, Onyx Archon and current leader of the Archons, here in Bandfast.” The woman’s mage-robes were a deep black, with polished, black buttons as fasteners for their quick-releases. Likely onyx. It would be on brand.
+
+Lea glanced toward Tala, but only briefly. Still, she seemed grateful for her mother’s comforting smile. “Greetings, Onyx Archon Elnea. It is my honor to be here, today.”
+
+Mistress Elnea’s smile widened a fraction. “It is. Never have we entertained the elevation of one so young.”
+
+Lea nodded, obviously knowing the truth of the statement and just as obviously knowing that nothing more needed to be said about it.
+
+Mistress Elnea’s smile grew marginally further. “To business then.” Her voice shifted to one holding deep authority as she followed the script of the traditional ceremony. “Who here stands for this Mage’s elevation?”
+
+Mistress Holly stood first, followed by Master Grediv.
+
+Mistress Elnea nodded. “Who stands against?”
+
+The two Archons in favor sat and every other Archon at the three tables stood, save Mistress Elnea.
+
+Lea’s eyes widened, clearly surprised by the overwhelmingly negative response. Tala hid her smile, and to her credit, Lea didn’t need any prompting to hold her tongue.
+
+Mistress Elnea, for her part, saw Lea’s reaction and glanced to Tala, before a smile crinkled the skin beside the older woman’s eyes.
+
+The Archons returned to their seats.
+
+Mistress Elnea’s voice resounded through the room. “As there is no consensus, we must see the evidence for your elevation.” She pointed to the end of the left-hand table. “Please present your star to Mistress Sonfia.”
+
+Tala remembered the middle-aged looking woman who had been a dissenting voice in her own Binding ceremony. This time, the woman smiled, taking the small white steel marble that Lea gave her.
+
+There was some commentary about the unique material as the orb was passed from hand to hand, followed by a few questions and another vote.
+
+This time, it was split, half for and half against.
+
+At that point, Mistress Elnea turned to one of those still seemingly opposed. Mistress Jenna acknowledged the granted right to speak, then locked eyes with Lea and smiled. “Why do you want to be a Mage?”
+
+Lea gave a small smile in return. “Well, as I am a Mage, I assume you meant why do I wish to advance?” The girl shrugged. “It would be odd for you to ask why I want to be something that I already am, after all.”
+
+Tala was able to see Mistress Jenna’s eyes sparkle with mirth, but she affected a hardening of her face. “Very well. Why do you wish to grow in power and advance?”
+
+Lea gave a small bow. “Anyone of quality wishes to become better at whatever they do. I strive to be a person of quality, and part of that is growing and advancing as a Mage.”
+
+“And the extra power?”
+
+She shrugged. “More power will allow me to perfect my magics and their use. More power will allow me to fight stronger beasts and protect those around me more effectively. More power will keep me safer and allow me to accomplish my goals.”
+
+Another Archon questioned her then, a diminutive woman, obviously advanced in years, and just as obviously stuck near the end of Fused. “And what goals could an automaton like you have that we would want accomplished?”
+
+Rane’s face became a mask, but Tala could feel the irritation building within him, even as it built within herself. Calm, this is a normal part of the process. They are poking and prodding.
+
+Terry shifted on Tala’s shoulder, eyes narrowing, but he otherwise didn’t react. It wasn’t time for that.
+
+Lea raised an eyebrow at the question, but answered readily enough. “I wish to protect my friends and family, my people and my place in the world. My physical form has nothing to do with it. If, however, you are asking a theoretical question, I am happy to attempt to answer that as well.”
+
+“I’m sure.” The woman responded with a forced smile.
+
+Lea grinned, clearly rising to the bait a bit. “If I may ask, what goals could a female like you have that the rest of humanity would want accomplished?”
+
+The woman bristled, shifting in obvious irritation. “I am an Archon of humanity, girl, and implying that I am lesser for being female is frankly unacceptable.”
+
+Lea nodded once, her smile growing. “Then I am glad that you understand how your own question was insulting.”
+
+Rane grinned widely, and Tala made a mental note to compliment Lea on her measured response… then her daughter kept talking.
+
+“I hope that this will be a growing experience for you, and allow you to formulate better questions in the future.” After another, far briefer hesitation, she added one final thing. “Assuming you are allowed to attend such an event again in the future.”
+
+There was a collective widening of eyes and intake of breath as several Archons seemed ready to take the uppity Mage to task.
+
+Then Mistress Holly burst out laughing, and many of the older—or more senior—Archons present joined in.
+
+Mistress Jenna even failed to hide a small smile.
+
+The Archon who had been ‘reprimanded’ by Lea closed her eyes, pressing her lips together, seemingly trying to master herself.
+
+She’s not going to blow up at Lea, is she?
+
+-Nope. She’s trying not to laugh.-
+
+Tala looked closer and saw that Alat was correct.
+
+-Of course I’m right.-
+
+Still, it was worth checking.
+
+Mistress Holly gave a theatrical sigh. “Mistress Jenna. Is this really necessary? We are all quite busy, and I doubt there has been a Mage in our history who has been under greater scrutiny than Mistress Lea. She has never given a single indication of power-mad tendencies. She has been open about the difficulties of her nature, and how she is working to overcome them. Every member of this counsel is aware of basically every detail of the girl’s life. Is there any serious objection?”
+
+There were mutters of agreement around the room before Mistress Jenna gave a slow nod. “You raise a reasonable point, Mistress Holly. I have but one question then. Based on the completeness and honesty of the answer, I will render my own verdict. I trust that will be acceptable to the good Mistress?”
+
+Mistress Holly waved vaguely. “You do hold veto rights here.”
+
+Mistress Jenna rolled her eyes, but then huffed a laugh and shook her head. “Regardless.” She turned her gaze on Lea. “If you are faced with one of your physical kind, an automaton, and it is not actively threatening you or anyone else, what would you do?”
+
+Lea frowned, looking down and seeming to truly consider.
+
+The thinking went on for nearly a minute, leading to many of the people around the room—both sitting and standing—to begin exchanging glances.
+
+Finally, Lea nodded to herself, looking up and locking eyes with Mistress Jenna. “I know that our laws require that I destroy the automaton or alert those who can do so, immediately.” She smiled. “I would do the second, and then do my utmost to learn what I could from the being. There is something about automata that drives them toward Reality’s view of Magic and humanity. My soul may be unique in its resistance to that influence, yet even I detect changes in the reality of my being, trying to nudge me against humanity.”
+
+There was a ripple of mutters at that, but Lea continued.
+
+“If we can figure out why—or even better how—this is coming about, we might be able to shelter an automaton from this influence, or better yet strip it away, and we would be left with a potential ally at best, and at the very least something that is no longer an enemy.” She looked around, obviously detecting the skepticism that most held. She met her mother’s eyes and smiled, Tala returning the expression. In that moment, Terry flickered, changing shoulders from mother to daughter. It wasn’t what they’d planned, but they hadn’t been exactly sure how this would go. “Imagine if we could finally figure out what drives un-bonded magical creatures to attack us?”
+
+She reached up and stroked Terry’s head, the avian nuzzling into her hand.
+
+“Imagine if we only had to fear creatures of power as much as mundanes fear mundane beasts? Animals are dangerous, but most aren’t actively seeking our destruction, after all.” She frowned, seemingly gathering her thoughts. “So, that is my answer. I would not try to destroy the automaton if it wasn’t doing harm in the moment, but I would alert those of power nearby, and I would seek to learn from it. The world is broken, the Black Legion isn’t wrong there. I can’t help but feel like we could learn something.” A smile tugged at her lips. “A wise woman can learn even from a fool, but a fool cannot learn even from a wise woman. I seek to be a wise woman, and therefore, even though I see the Black Legion as foolish, how can I but seek to learn?”
+
+There was a long stretch of silence during which was Lea’s turn to begin to shift, clearly nervous that her answer wouldn’t be seen as acceptable.
+
+Finally, Mistress Jenna nodded, a true smile growing across her features. “Very well. I appreciate the completeness and honesty of your answer, just as I requested. I also see wisdom in your answer, even if I believe that I would act differently.”
+
+She looked around, meeting many eyes.
+
+“Are there any genuine objections?”
+
+There were no objections, but there were a few other Archons who had questions for Lea, but there was nothing that the girl couldn’t handle with aplomb, and so soon enough, the spellform was being revealed across the floor as she prepared to Bind.
+
+It had been discussed beforehand, but Lea would not be told to swallow the star, nor restrained, due to myriad factors including the fact that her gate was in her head, not her core, so swallowing wouldn’t actually have the same effect. That wasn’t the only reason, but it was a key one in shelving that portion of the usual process.
+
+Terry retreated. His soulbond to Tala would have made him a destabilizing presence for the actual Binding.
+
+Unfortunately, the strong emotional connection of parent to child made Tala and Rane unable to assist in the process as well, leaving Mistress Holly, Master Grediv, and Mistress Jenna as the three who stepped forward to assist in anchoring the girl through the coming storm.
+
+Unsurprisingly, the actual integration of the Archon Star into herself, Bonding her very soul to her body went off incredibly simply.
+
+Once Lea was situated in the spellform, she pressed the small orb of white steel to her chest and pulled the metal into her body, making it one with her, the Archon Star flashing and unleashing its power, its magics, and enacting the bond.
+
+Tala saw the tumult in her daughter’s soul as she went through the merging visions, guiding the specifics of the bond with added power and stability from the three Archons, each at least Paragon in power.
+
+The fact that Master Grediv was casually holding a City Stone in a pouch at his waist didn’t factor in, even if it did draw Tala’s focus every so often.
+
+In less than ten minutes, Lea opened her eyes, revealing white, silver, and golden flakes integrated into the blood red of her iris in truth, the metallic not just present because of her inscriptions.
+
+Her aura pulsed a deep, true red before sliding slightly toward orange where it stabilized.
+
+A moment later, she stood, as did all the other Archons.
+
+“Greetings, Mistress Lea, Archon of White Steel and Bound of Humanity. First of your title.”
+
+“Let what was witnessed here stand testament to the wisdom of our ways. Her star fought well, seeking to oust or bend her eternal soul. That fight left obvious signs, just as many of you bear more discreet marks.” She gave a half bow to Tala. “Welcome, Mistress Lea, to the rank of Archon.”
+
+A single, all-pervasive cheer echoed from every Archon present, more like a shout of triumph than a crowd’s adulation. Lea scanned those around her.
+
+“Archons of Humanity: Today, Bandfast welcomes a new Archon, first of her title: Mistress Lea, Archon of White Steel.” Elnea clenched the upper hand into a fist, and a final burst of magic washed over the room and to the other destinations. Tala received, into her own mind, a picture of Lea in all her glory.
+
+Lea’s eyes widened, likely having received the same mental image.
+
+Elnea grinned, lowering her arm, her magic worked, her job done. “Welcome, Mistress Lea, one of us in truth.”
+
+After it was done, the standard ‘history lesson’ was given and then a celebratory feast was held.
+
+Lea was the only Mage to be raised to Archon that day, but that was to be expected, given her… peculiarities. Lea worked the room like the social butterfly that she was, while her parents mainly stayed in one corner, eating food and reminiscing about their own advancements.
+
+Terry relived his part, snatching food where he could, making it a game by attempting to go unnoticed by any save Tala.
+
+Still, Lea took a quiet moment to come over to her parents, and Tala and Rane outpoured their congratulations and pride at their daughter’s advancement.
+
+Lea took it all in stride until Tala asked a particular question, “What can we get for you as a gift to celebrate your success?”
+
+Lea gave her mother a long, searching look. “Honestly?”
+
+Tala nodded. “Yes. This is a big accomplishment.”
+
+Lea shrugged. “Then honestly… I don’t need anything.”
+
+When Tala opened her mouth to object, Lea held up a hand, smiling. “But, I will let you know if that changes.”
+
+Tala hesitated, finally giving a slow nod. “If you’re sure.”
+
+Lea nodded in turn. “I am.” She looked around. “Now, I’m supposed to mingle more, I believe. I hope that you two enjoy yourselves too.”
+
+Tala hugged her, and Rane wrapped his arms around them both. “I love you, Lea.”
+
+Tala added her own affection. “Love you, sweet.”
+
+Lea squeezed them in turn. “Love you, Mom, Dad.”
+
+They separated, and Lea dove back into the throng, leaving her parents leaning on one another, overflowing with pride as well as trepidation for what was to come.
+
+Lea wouldn’t forget her mother’s offer, either. Tala had seen the gleam in the girl’s eye when she’d made it.
+
+I hope that I don’t rue that…
+
+-I think that you will, but I also think that you’ll be better in the end.-
+
+…You know something.
+
+-Of course. I know many things.-
+
+Tala huffed a laugh. Well, I suppose I’ll just find out the hard way.
+
+-The hard way?-
+
+By patiently waiting.
+
+-Ahh, yeah… that really is the hard way.-
+
+Indeed.

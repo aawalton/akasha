@@ -1,0 +1,181 @@
+---
+id: 47e2a19b-c959-5c73-8e1a-3157fb9135d7
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 24 - The Actor"
+slug: 0045-chapter-24-the-actor
+partOf: metaworld-hopecore
+position: 45
+ownLength: 2266
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372597/chapter-24-the-actor"
+royalRoadId: "3372597"
+---
+
+“No act of kindness, no matter how small, is ever wasted.
+
+Aesop
+
+The Cold Reading on the 24th took place in the Playhouse, with Min-Jun on the lights.
+
+Unlike day one, the shortlisted students were ushered into the theatre and then handed their copies of the finalised script—the aforementioned “Syrian War Antigone”.
+
+The setting of the scene was presented by the props and background that the theatre students had been making for the last two months—a press conference where Creon, the Defence Secretary, is interrupted by a righteous Antigone riding high on the populist backing for Polyneices’ whistle-blowing about war crimes.
+
+Thankfully, only two props had made it into the Cold Read: a chair where Antigone sat before her confrontation, and a lectern for the Creon actor.
+
+The entire script given to the students consisted of two A4 stapled sheets. They had 15 minutes to memorise or improvise the lines, as the dialogue was now entirely in modern English.
+
+Without the need of her own urging, her [Emotional Intelligence], [Script Analysis] and [Memorisation] snuck in as a total package, allowing her to dig deep into the postmodern sister desperate to force her adopted “Uncle’s” hand.
+
+“#8 and #12,” the voice of the instructor known as Mrs Tyker boomed across the theatre. “Will you please grace the stage first? Have you memorised your lines, or understood them enough to perform?”
+
+Eppie checked her phone. 15 minutes exactly. Was this a test?
+
+“Yes, Ma’am,” she bowed, then stepped onto the stage with her partner, a boy called Daniel Fan who had been her acting partner once or twice already. The boy gave her a “good luck,” then took his place behind the lectern.
+
+After a moment, they both went neutral.
+
+At Min-jun’s behest, a set of lights converged on Creon, then Fan began to speak, his booming voice echoing across the intimate theatre. “You DARE to accuse me? Antigone? Have you lost your mind? We are at War! Your brother is no ‘hero’. He was a soldier, and instead of obeying his orders, he compromised our military assets. He compromised the lives of his fellow soldiers to make a political statement! If he were here today, I would shoot him myself! And you march up here, with these demagogues, demanding that we extract him? Bring him home?”
+
+In Eppie’s mind, she already knew what character she must play. Unlike the traditional Antigone, she had to be a little naive, a little more desperate, and a whole lot more righteous. In the modern era of the 24-hour news cycle and the sound bite, she would be heard not just in this room, but across America and the globe.
+
+“Assets? Is that what my brother was to you? Is that what your nephew is to you? Sir?” her voice, sharp and churlish, snapped across the room like a belt. “You held my brother as a baby, Secretary Creon. You held me. You urged him to enter the military. You gave him his first Purple Heart. He wore the beret for you. You nominated him for his Captaincy. Now he’s an asset?”
+
+In the modern world, public opinion ruled, and that was the crux of Eppie’s new character—someone who firmly believed that she could do no wrong because, from start to finish, a good subset of the American public staunchly backed her cause.
+
+The two exchanged barbs, while invisible cameras filmed their interaction. Creon attempted to use the law, the protocol, and the military's secrecy. Antigone didn’t care about all that. She just wanted her brother home.
+
+“Damn your draconian laws!” she shrieked, her face red, her eyes swollen with tears. “Is that all you care about, Uncle Creon? Was that why our father died saving you? For the law? Polyneices did what he had to because it was your order. It was the LAW. Now four Syrian families are dead, and he’s down there all alone, surrounded by terrorists, and you tell me now that the same LAW has branded him a traitor?”
+
+Her whole body was shaking. She was leaning forward. The voice from her chest reverberated across the theatre without a mic. Fan, the actor for Creon, was forgetting his lines and unable to retort.
+
+“Another word,” Creon’s voice was a raspy mess. “And you’ll be facing federal charges.”
+
+The warning fell on deaf ears for Antigone. Instead of anger, her whole body radiated disappointment via [Physicality]. It was a weary, profound sense of loss that the uncle she had known since childhood was gone, and in its place was a politician.
+
+“Does a man’s security clearance override the dignity of the dead? The crimes committed against humanity?” Eppie fully utilised her [Vocality] to shout-whisper, creating both anguish and exhaustion. “Your laws say it's treason. Doesn’t your law also protect whistleblowers? By what law do you bury my living brother in Syria? Is this how the DOD repays its service members? What are the other soldiers who are still there fighting to think of their illegal orders?”
+
+The lights dimmed. The scene was over.
+
+Eppie panted, as did her partner. One was overwhelmed, and the other was from utilising every skill she had on the roster.
+
+“Well done,” Cooper’s voice rang out. “Exit stage right, we’ll post the results on the 26th, or issue Final Callbacks if we’re undecided.”
+
+While Eppie went about her own business, the teaching staff conducted the rest of the auditions, then sat with their lunch and tea to discuss the students’ performances.
+
+“Eppie.” “Yep.”
+
+“I concur.”
+
+Cooper sighed. “It was a bad idea to use random draws again. We should have made Eppie go last.”
+
+“Yes,” Tyker nursed her tea. “Our little girl isn’t so little on stage. She has a certain… gravitas? She doesn’t talk like a teenager. She sounds like someone who is used to confronting people with both power and wealth. But she’s only fifteen. You said she was a State Ward. Where would she even get this kind of experience?”
+
+“Her physical acting is superb as well,” Costello said as he drank his tea. “She moved like a modern teenager, but she was also Antigone. It’s a little rough and unpolished, and the student acting breaks out now and then, but it's already beyond Sophomore standards.”
+
+“She’s too dominant,” Cooper said after a moment. “Maybe with the Chorus Ensemble there, she can be toned down. Whoever plays Creon is going to suffer. Next year, I believe, we’ll need to do more ensemble work with the Seniors.”
+
+“Agreed,” Tyker tapped her board. “For now, we give her this, and she carries the show. Is that wise? Can the other students follow?”
+
+“Madison was a mess,” Cooper sighed. “After watching Eppie, that is. She’s our understudy, but I wouldn’t even count on that.”
+
+“There are no second chances,” Costello shook his head. “She can’t handle the pressure, she can’t handle the show. It doesn’t matter if her level works better with the rest of the students.”
+
+“Alright then,” Tyker circled Eppie’s name. “Let’s find our Creon and Ismene.”
+
+LAPA.
+
+The basement bunker.
+
+In the evening, after the post-audition dates, the main building was largely abandoned, with students spending their time in the Old Music building, Whitman Hall, and The Playhouse.
+
+However, the lack of use did not mean that the entrance was locked, as many of LAPA’s students stowed their textbooks in their lockers and may need to retrieve them as they studied on campus and prepared for their rehearsals.
+
+Eppie’s new locker, now located in the newly constructed underground, was also locked and secured—until now.
+
+From between the interspersed lights and the pattern of light and shadow, emerged the trembling figure of Simone Goode, now up to no good. Like a woman pushing against an invisible wall, she stalked her way to the newer section, her eyes scanning for the tell-tale sign of CCTV cameras.
+
+At the edge of the new corridor, she saw the electronic eye and froze.
+
+The lockers of the Pay-to-Play students were precious. They may contain, as many had guessed, branded goods, makeup, and other luxury consumables in the hundreds to the thousands.
+
+The keeping of these items was at the Pay-to-Play students’ peril, and the school was in no way liable, but the school at least put in new CCTV systems, as opposed to the single camera at the entrance and exit of the old hall.
+
+At the threshold of light and shadow, Simone Goode made her choice: or rather, submitted to her lack of choice.
+
+Once upon a time, she and Eppie were fruits from the same tree. They had been roommates in the old dorm and had found in each other vulnerabilities and fears that only their mutual company could soothe. Then, unbeknownst to Simone, Eppie had committed a cardinal sin, and Simone, who knew nothing, paid the price for her friend’s choices.
+
+And thus, Simone had lost the means to make choices.
+
+Eppie’s enemies had not found Eppie first, but they did find an entertaining prey in Simone.
+
+It had been easy for Valorie to hold Simone hostage. Her father was a Senator, and Simone’s father was absent. William’s father was a multi-millionaire developer, and Simone’s mother was working two waitressing jobs to keep food on the table and keep Simone in LAPA.
+
+The school had already provided Simone with a fee-waived dorm room, but the cost of dance gear, even at the low end, would cost a week of her mother’s groceries. Under Valorie’s patronage, there was no end of hand-me-downs from well-connected Seniors who each had more discarded clothes than LAPA’s entire lending closet.
+
+It was under these auspices that Simone had crossed the Rubicon. Her mother no longer had to take food from her sister’s plates to pay for leotards and dance shoes, and Simone had a guaranteed job as a backup dancer with one of the entertainment companies affiliated with William’s father.
+
+Simone’s dream, her only dream, was to work in the entertainment industry in any capacity. She would pay back her mother’s love, provide for her family, and, if she never made it big, take her family out of Broad-Manchester after paying off the family mortgage. To have her family sleep the whole night without worry about a stray bullet flying through the wall or window—that was the purpose of her contemporary jazz.
+
+The electronic eye was watching—but Simone had to be sure that all was as Valorie had foretold, that the CCTV’s hard drives would be mysteriously malfunctioning.
+
+Gingerly, like a gazelle listening for the sound of predators, Simone stalked her way to the locker with Eppie’s number. In the palm of her hand, she had the Master Key. Many months ago, she had done something similar. Many months ago, the prize she had obtained from the locker was enough for her to be admitted into Valorie’s inner circle.
+
+Click—
+
+The electronic locks came undone.
+
+With deliberate haste, Simone opened the locker, hoping to find another prize—
+
+Nothing.
+
+The locker was empty.
+
+No books, no shoes, no towels or a change of clothes.
+
+A jolt of electricity ran through Simone’s spine. She felt sick. She wanted to vomit inside Eppie’s locker.
+
+But she couldn’t do that.
+
+From her backpack, she retrieved a handbag about the length of her forearm, then gently placed the item worth more than a month of her family’s rent, food and utilities into the empty locker.
+
+The locker door closed once again.
+
+And Simone Goode, up to no good, slunk away between the light and shadow, moving as though through thick tar and sticky sludge.
+
+A few seconds later, a looming shadow detached itself from the darkness at the end of the corridor. Here was the very helping hand whose job was to disable the security system.
+
+Fat Lim Wang casually sauntered over to the locker of Eppie Fontaine and coaxed the door open with a second copy of the Master Key, having already given the first to Simone.
+
+Peeking inside, he whistled.
+
+A Birkin 35. In 2007, secondhand, it would fetch at least $5,000 to the discerning buyer in K-Town, maybe more, if the model Valorie chose to sacrifice was more exotic than usual. With a budget like that, he was well-provisioned to take care of the kittens all winter.
+
+Truly. San-jei was a generous woman.
+
+As for Simone Goode…
+
+Like all of them who had enabled William’s sins.
+
+She’ll get what she deserves.
+
+Mid-afternoon jog, with her [Stamina] half-drained, Eppie received a call from Eric.
+
+“Master Lee,” she huffed into the speakerphone. “What is thy pleasure?”
+
+“I’ve just spoken to Charlene Lafitte,” her lawyer replied with endearing warmth. “I’ve verified her identity and number. She will call you. If you wish to speak to her.”
+
+“Thanks, Eric,” Eppie caught her breath. “Is she calling now?”
+
+“She’ll call you after your Guitar practice,” Eppie’s lawyer answered. “How did your auditions go?”
+
+“Swimmingly,” Eppie told the truth. “I should have it in the bag, I think.”
+
+“Good job,” her man from Newfoundland congratulated her. “Text me the good news next week.”
+
+“Will do!”
+
+Eppie hung up, found the new number, walked to a sunny park bench, then punched it through. With Autumn arriving, she had added skivvies and sport jackets over her usual all-black outfit. She was also considering spending some of her hard-earned money on thermo-tech innerwear, although her [Persona] did not seem to be prone to illness. If it did, she highly suspected it was a mere matter of [Stamina] and [Causality] to remove her [Status Trait], like in the hospital.
+
+Either way, she was ready to face the music.

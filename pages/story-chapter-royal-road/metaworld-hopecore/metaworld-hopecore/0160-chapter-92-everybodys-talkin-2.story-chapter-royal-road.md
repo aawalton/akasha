@@ -1,0 +1,299 @@
+---
+id: 80ee48a6-f866-5dde-a776-a850b0f6b097
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 92 - Everybody's Talkin’ (2)"
+slug: 0160-chapter-92-everybodys-talkin-2
+partOf: metaworld-hopecore
+position: 160
+ownLength: 3183
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3830067/chapter-92-everybodys-talkin-2"
+royalRoadId: "3830067"
+---
+
+Los Angeles.Barham.
+
+The office suite was on the fourth floor, two doors down from a dental practice, and had been a mortgage consultancy until eight weeks ago. There was still a rectangle of unfaded paint where their sign had been. Robert "Jack" Ferroni had taken it on a six-month lease because that was what he could afford. A Director with four Emmy nominations received large paychecks—but LA was an expensive town, more so if one wanted to make movies.
+
+Presently, there was one desk. The three office chairs weren’t even the same design, though they were good chairs: Herman Miller, Knoll Pollock, Humanscale, leftovers from his various projects over the last two decades.
+
+The Aeron was occupied, and in it sat Norbert, Warner’s editing wizard, who had driven over from Burbank on his lunch and had not yet taken his jacket off.
+
+On the desk, alone, squared to the edges, was the script.
+
+"How much..." Norbert said. It wasn’t a question.
+
+“You don't want to know.”
+
+“I skipped sushi for this, Jack.”
+
+Ferroni told him. Norbert's eyebrows moved about a quarter of an inch.
+
+“That's cheap.”
+
+“Very cheap,” Ferroni agreed. “Insultingly cheap. Warner didn't bid. Nobody from Sony bid. There were ten of us in that room, and two of them were there to see what it went for. I was the only one who was prepared to keep going.”
+
+“Because everybody knows,” Norbert picked up the script and started scanning. At the very specific parts that everybody ‘knows’, he winced. Then he looked conflicted. Then he looked up at the ceiling to see if God was watching.
+
+“Should I remind you,” he said, “What happened the first time?”
+
+“Shoot it straight,” Ferroni had only heard the story second-hand. Norbert had been there, in the disaster zone.
+
+“Well, it’s still written here in black and white. Look at this shit. She asks The Pro to be her lover, and we're sitting here thinking, for fuck's sake, man, you better say no. This goddamn script has him cry and say thank you. And it doesn’t even fade to black. This ain’t the nineties; SAG will have your ass.” Norbert said it flatly; his friend was certainly shooting it straight.
+
+Ferroni was beginning to doubt his own choice.
+
+“Anyway, if you want to know what happened, the actress we found, Nancy Brennan, was twelve. The Pro was her first feature film.” Norbert pinched his brows. "Her mother read the script. Her father read the script. They asked for a rewrite. Denied. They came in with a lawyer and asked for a rewrite—not a big one, just get this shit outta here. They wanted the scene changed. The tone changed. They’re not putting their kid through that."
+
+“But Vasseur was an artiste,” Jack smirked.
+
+“He said it was the soul of the film.” Norbert let that sit. “He said it to her parents. Can you imagine? While his partner at the time was…sixteen?”
+
+Ferroni growled. “I told you I got it cheap already.”
+
+"Is Rémy still in? Rémy Aubert?" Norbert asked the important questions.
+
+Ferroni nodded. “He loved everything else. To Rémy, it's still the one that got away.”
+
+“That tracks. Aubert tried to save the film. Went to Vasseur privately first, twice. Denied. Then in front of producers. Said he wouldn't play it, said no version of him would play it. He said he'd rather play The Pro like a retard than do what the script said,” Norbert said. “Vasseur gave him a spiel about true artistry isn’t for the masses. So Aubert told him he’d break his face if he pulled that excuse again. There was this whole thing. In the end, he left his own back end and walked. Once Rémy was gone, the insurance was gone. Now it's been ten years…”
+
+“... It's a good script,” Ferroni said. “It’s a brilliant script. Otherwise.”
+
+“Yeah, well…” Norbert returned the printout. “We've still got to take a knife to some of it. And that's the risk—it's a very good script partly because of the unforgivable obscenity. You know how the industry can be.”
+
+“I did spend four years making a series about hacking up young women’s bodies…” Ferroni laughed.
+
+“So you're going to cut the… problems out?”
+
+“Not me, we need someone far better, a Pro,” Ferroni said. “I gotta call in favours. Best in the business. Fresh off the WGA strikes. She was taking a break.”
+
+Norbert pursed his lips. “Joan?”
+
+“Bebe.”
+
+“Nice. Are you going to age her up? The girl?”
+
+“She needs to look young, but not that young. She's a kid, but not a child. It’s a different thing. The Pro doesn't want anything from her, and he can't want anything from her. I’ll talk to Aubert.” Ferroni tapped the cover twice. "The girl reaches, but what reaches back is platonic and protective. And it still works, Norb; that's the thing, it works better. Found family. Lonely souls. Nothing sexual. The connection is umbilical.”
+
+He felt shivers just thinking about it.
+
+“Two people who have nothing,” he said. "She's got nobody. That's the movie. The ultraviolence is incidental.”
+
+Norbert didn’t refuse him, which was better than Ferroni had hoped.
+
+“You're financing this yourself?”
+
+"Yeah."
+
+"With your own money?"
+
+“With the house. Yeah. All three houses, actually.”
+
+“Jack.” Norbert rubbed his eyes. "Say it's good. Say it's great. Nobody's going to see it. There's no star, there's no studio, and the first thing every trade prints is Vasseur's abandoned picture, and then there's the Hollywood Press. You know they’re only going to run lines about Vasseur’s version. Rémy… he’s French. Nobody here cares who he is, even if they know his face. It’s been a decade… even if he still wants to do it…”
+
+“He does. As for the Press, call it free publicity…” Ferroni leaned into the backrest. He turned the script around again, toward himself, and squared it to the desk edge.
+
+“Who's going to play the girl?” Norbert asked the most crucial question.
+
+Ferroni gave him a confident grin. He remembered the blonde. Fifteen. Three takes, all in focus, dolly moving. No wasted footage. An old soul in a young body. If she can act…
+
+“I’ll find someone…” He picked up the script. “For now, let’s get this to our surgeon.”
+
+Nevada.Somewhere over Sin City, Valorie Sanders tried and failed not to think about Eppie. It wasn’t even that she missed Euphemia; it was that there had been so much of her in her life of late that she kept leaning for a shoulder and surprising herself when there was nothing there.
+
+“Want a sparkling water?” Sir Woodhouse asked, without looking up from the folio of sheet music balanced on his knee. Her producer was impeccably dressed, as always, as if protesting against Frederick Curon's anti-fashion. “Not feeling well?”
+
+Valorie shook her head.
+
+“Just the usual, then?”
+
+“The usual?”
+
+“Missing Dad?”
+
+Valorie decided nodding was less weird than shaking her head.
+
+“Want to call him? We’re in First Class…”
+
+Valorie refused that as well.
+
+Sir Woodhouse studied her for a bit longer, then smirked. “You’re thinking of Curon’s girl.”
+
+Valorie’s cheeks told her producer everything he needed to know.
+
+“I’d steer a little distance away for now, even as I keep her close,” her producer cautioned. “When Fred called to boast, I couldn’t believe my ears. That girl put together a conspiracy that would make us old foxes blush for shame, and she’s just fifteen.”
+
+“Sixteen.”
+
+“Does it matter?” Woodhouse feigned mopping his forehead. “Best not make enemies with someone like that. Or get too friendly. You’d be bought and sold while counting the change she’s given you as a reward.”
+
+“Eppie isn’t… like that.” That said. Valorie pondered Woodhouse’s insight. While Eppie seemed allergic to money, she wasn’t immune to… comforts. Especially free luncheons at expensive and exclusive restaurants.
+
+“Well, if you want to prove me wrong.” Woodhouse’s eyes glinted with a sudden, cheeky wickedness. “How about asking her for a song? We'll be passing you through all of our producers, and you'll have the pick of what they've managed to put on paper. If your friend has a number one, just give me a price.”
+
+Val felt her whole face go hot. “I couldn't possibly ask Eppie for a song, Sir. She's not—that's not what we—”
+
+“I'll pay for it myself if I have to,” Woodhouse said encouragingly. “Especially if it pisses off Curon.”
+
+Valorie’s excuse perished before she could deliver it.Would Eppie write something for me if I asked?It was a stressor of their fragile friendship she wasn't willing to test.
+
+“Suit yourself.” Woodhouse turned a page. “Not everyone at Universal is going to see you as I do. Some will see you as an asset. Someone will see you as currency to advance their own career. Some may simply want to get close to you for the basest of reasons. It helps a lot if you know someone who has a predilection for selfless giving. Especially if that someone has extraordinary writing talent.”
+
+Rather than answering, Valorie looked back out the window instead. The city had passed by now, replaced by the brown nothing of the desert sliding by underneath them.
+
+“You have real potential, Val,” Woodhouse said, more quietly, after a while. “You’ve proven yourself with the musicals, with Titus—my god, what a show—and in Better—unofficial as it was….” There was a pause, and when Woodhouse spoke again, there was embarrassment. “Promise me you won’t take to the likes of Grein again. I mean to do right by you this time. I’ll stake my name and reputation on it. I owe Francis that much, and I owe it to your talent.”
+
+Val looked at her producer for a few seconds too long. Her knighted chaperone didn’t avert his gaze.
+
+“We have time,” he smiled. “You’re young. Music and film can be concurrent, but I personally think you should audition for Broadway in between your Guilliams’ tuition. A real stage, eight shows a week, no lip-sync to hide behind. Body and voice, individual and ensemble. There’s nothing like it, if you want the real deal.”
+
+Valorie nodded.That had been her plan as well.She understood now that the privilege she possessed was nothing short of astounding. Sir Woodhouse at Universal. Her father—moving onto the national stage. An in-house appointment at Guilliams, with access to all their instructors.
+
+The last starlet to enjoy this many privileges at once was Lucia Lancet, and she had already achieved several No.1s for Sony.
+
+When could she pay back Sir Woodhouse’s generosity?
+
+… And would she see Eppie again, on Broadway?
+
+Reno.
+
+Backstage at a club that smelled permanently of spilt beer and hairspray, Zara Arriaga tuned her guitar by ear and half-listened to Antonio and the bassists trading stories about the lonesome, gruesome road ahead.
+
+Paco was with them; he’d joined them for the first few legs, and to no one’s surprise, the old roadies recognised him from some buried memory they refused to share.
+
+One of the foremen, a Latino with forearms like cables and wrists as thick as her arm, pulled out a faded Hotel Basque lanyard still clipped to his belt loop for reasons nobody wanted to explain and hugged Paco like a brother.
+
+After a jam sesh, Zara’s favourite thing to do was to listen, watch, and learn from the older folks who had seen it all go down for decades.
+
+“You're smiling,” Antonio said, dropping into the folding chair beside her before stretching himself out like an old guitar case falling open.
+
+“Uncle Paco makes everyone smile.”
+
+“That’s not what he used to do, hahaha… sorry. I mean, of course. They’re all glad to see him still alive and well.”When Zara didn’t answer, he nudged her knee with a cold beer, making her yelp. “You've got the look. Missing home? Or missing people? Or… missing your cat?”
+
+“I don’t have a cat…” Zara looked over at Antonio, then felt the heat in her cheeks bloom.
+
+There was no denying it. She was thinking about Eppie. A part of her wanted to kidnap Eppie, like the stray she was, and just take her home to cuddle her daily. Unfortunately, Eppie was far too wild to be domesticated. If the LAPA Titus proved anything, it showed that beneath the visage of Félicette wasn’t a stray cat from Paris, but a stalking jaguar who could tear anyone she set her eyes on to shreds.
+
+But… if Eppie wasn’t a cute cat—why was she so huggable?
+
+“We’ll be swinging through LA and NYC, between now and December,” Antonio said, changing the subject but still implying that Eppie wasn’t out of reach. "After that, who knows. That said, you’re really going to skip your graduation? Walk the stage, throw the cap?”
+
+Zara thought about it. It was weird how much she thought about the moment before she met Eppie, before she co-wrote the songs, performed them, and made the music video, before she knew what LAPA really was about.
+
+She shook her head. “It doesn’t matter.”
+
+Antonio didn't push. He rarely did. “They can mail your parents the certificate.”
+
+Zara finished tuning and thought about their next performance, about the songs she had to cover, and about the girl in the dorm, moving out to live alone.
+
+When would they meet again?Under what circumstances, and in what city?
+
+LAPA.The dorms.
+
+The last thing Eppie did before packing the iMac was something she rarely did: read her emails.
+
+From: [email protected] To: [email protected], [email protected],Cc: [email protected], Date: Tuesday, 27 May 2008, 9:14 AMSubject: WEEKLY WRAP ☀️ + one bit of bad news (sorry!!) 😔
+
+Morning superstar!! ☕️
+
+Okay. Ripping the band-aid off first. Obviously, KIMBALL IS CANCELLED. 😭😭
+
+Their reasoning (paraphrasing): they booked a fifteen-year-old singing sensation with a cute guitar friend + a Senator’s Daughter. And what they've currently got is a national news story with a dead teenager attached to it. And the assault allegations do NOT make for good comedy.
+
+🙅‍♀️➡️🗓️ They've asked to re-book "when there's a record to talk about."
+
+PRESS 📰 47 requests since Monday. I have declined 47 requests since Monday 🚫 Standing policy per Director Curon: no comment, no exceptions. 😉
+
+TEACHERS 🎁All wrapped, all labelled, all delivered. Dr Kirby has the heavy one. She’ll have that vase forever. The Hospital gifts are in Eric’s boot.NYC 🗽Director Curon says he’ll pick you up. How sweet!📱
+
+Re: The play. Director Curon told me. You did a good thing. So good. I am proud of you! 💗
+
+Maddy.
+
+Madeleine Filmore, Media Manager, Artist Services, Sony BMG T: (310) 244-XXXX | [email protected]
+
+Eppie threw the lot in the original box and made it fit with her [Strength]. Almost everything she owned had also been boxed poorly. Thankfully, someone more professional than she was would show up later and re-materialise everything in NYC.
+
+She kept only her bugout bag, which was her preferred way to fly. In her old life, Emily would have arranged for… everything else. In this life, she had Maddy, her own salaried fairy godmother, and she intended to be a far nicer boss.
+
+She looked at her apartment a final time, this small, modest apartment with a room that had no window, which may have skirted local codes about fire hazards, and gave it a wave goodbye.
+
+Josefina would be heartbroken when she returned.As would Halle, but Eppie preferred leaving unannounced to hugs, tears, and the sound of Josefina’s Spanish at telenovela volumes.
+
+Eric was waiting for her below, in the same truck she had arrived in nine months ago.
+
+She watched the dorms fade in the sideview mirror and asked herself what she should be feeling. LAPA looked smaller now that she was done with the place.
+
+Eric pulled out past the gates and onto Fairfax, then cut west, the Hollywood Hills sliding by gold-brown in the morning haze, and neither of them said anything for a while.
+
+Casually, her Newfoundland mentioned that he might be moving to New York.
+
+“You don’t have to…” Eppie regarded her lawyer, her very first Newfoundland upon transmigrating into this world. “Don’t you have a life here?”
+
+“You think I am moving because of you?” Eric scoffed, reached out, and ruffled her fringe. “You’re dreaming, kiddo.”
+
+“Why are you moving then?”
+
+“Oh, you know,” Eric looked smug, “A new title, Vice President, Business and Legal Affairs, Sony BMG…”That’s… that’s just middle management…
+
+“... Base salary of about 200k…”
+
+That’s just… after federal income, social security, state tax, NYC resident tax… about 125k? Minus 40k for a two-bedroom rental.
+
+“I got target bonuses, 25%... 401k, 6% match…”
+
+That’s pending performance…
+
+“And I got PPO with family coverage, dental, vision, life at twice the salary…”
+
+This one… okay, this one’s legit.
+
+“And then, I guess I’ll be stuck with you…”
+
+“You got a mortgage?”
+
+“Yeah, just the two-bedder in LA. I’ll rent it out.”
+
+Eppie winced. It was now almost June. Come September…But then again, between herself and Curon, there was no way Eric would lose his job. Emily, who was in sales, enjoyed no such protection.
+
+Eric burst out laughing. “What are you, my financial advisor?”
+
+The fact that you’re still using a BlackBerry… Eppie had no hope that Eric could help himself.
+
+“Pull your VGT ETFs in September,” she said matter-of-factly. “Buy again later. You’ll know when.”
+
+“Eh?” Eric looked at her strangely. “You’re serious?”
+
+“If you don’t want to lose your LA apartment and still have a roof in NYC, then yes,” she said without mirth. How many people would lose their jobs? How many artists? The GFC was a bloodbath. Relief for the arts? That’s assuming there’s even an Obama Presidency. If Gore bailed out the banks, which he probably would… Eppie winced. Probably, the relief isn't coming.
+
+It was time, she felt, to inadvertently nudge Juliana Vaughan. The [System] wouldn’t allow personal profits, but the purpose of making a fund to support artists via a proxy for the aftermath of the GFC… should be fine. Right?
+
+“Wow. You are serious…” Eric kept his hands on the wheel. “I’ll talk to Emily about it.”
+
+“Does Emily want to move?”
+
+“Neutral, but if you’re on board…” Eric smiled. They merged onto La Cienega, unhurried, so they could keep talking for longer.
+
+“It’s not a surprise. After the Grammys, Director Fielding's been emailing me for months, asking if I want to move to New York and work the corporate side of things up there instead of babysitting one very famous teenager full-time while doing legal legwork.”
+
+“That’s a rare favour,” Eppie said.
+
+"Don't sound so surprised. I work hard.”
+
+She reached out and patted his knee like she was stroking the neck of a dog. It was kind of insane how far they’d both come since leaving the hospital.
+
+And as for the hospital…
+
+“You got the gifts?”
+
+“In the boot. Signed albums and all.”
+
+“Good job.”
+
+“Thank Maddy when you see her at headquarters.”
+
+The 105 opened up, and Eppie watched the Los Angeles highway slide into the urban landscape.
+
+“Next stop, St Marten’s,” Eric said. “Then after that… New York.”

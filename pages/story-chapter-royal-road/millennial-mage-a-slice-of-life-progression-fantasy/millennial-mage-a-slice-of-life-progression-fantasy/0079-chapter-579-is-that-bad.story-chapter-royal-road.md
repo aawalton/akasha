@@ -1,0 +1,291 @@
+---
+id: 6370fb13-baea-5f73-a03f-d8fba98c0e77
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 579 - Is That… Bad?"
+slug: 0079-chapter-579-is-that-bad
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 79
+ownLength: 2704
+unit: words
+ownProgress: 2704
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2378808/chapter-579-is-that-bad"
+royalRoadId: "2378808"
+markedReadAt: "2026-06-29T19:37:49.479Z"
+---
+
+Their walk through the sanctum was filled with wonder and excited observations. Tala and Rane simply enjoyed the girl’s reactions, as Lea had literally never seen anything before—outside of the research cave.
+
+Lea was also narrating practically every sight she saw. “That is a tree! It is so green and lush, and it moves in the wind. That is beautiful. I am so glad that I have seen a tree.”
+
+And it was like that for everything.
+
+Tala was sure that it could get old eventually, but in the moment, it was hard not to grin at the girl’s exuberance. Hopefully her speech patterns and content would grow rapidly, thus never letting it actually get to a point of being irritating.
+
+Regardless of method of communication, it was an amazing thing, watching Lea’s cognitive knowledge be put to the test. She had a great deal of understanding of what things were and meant, but that wasn’t the same as experiential knowledge.
+
+Tala felt a twinge at the thought. Her recent experiences had really hammered home that distinction within her as well. Though Lea's knowledge was wonder and beauty, Tala’s had been surrounding danger and death.
+
+Illie… I wish you were here. Her heart ached; the newly blossoming, uncertain joy surrounding Lea’s unexpected existence was in no way a crutch or patch for the ache of Illie and Gretel’s loss, but it somehow fit nicely alongside that grief.
+
+New life alongside the passing of others. Life and death, two sides of the same coin, utterly and intrinsically linked. After all, what was grief but a sense of the loss of remembered or—missed—joy?
+
+She still felt that grief, but it was no longer in a place of self isolation, and that somehow made all the difference in the world.
+
+Previously, she and Rane had tried to work on that balance through entertainment, exercise, inquiry, and even physical enjoyment of various kinds, but nothing had lasted. Nothing had truly dulled the feeling of loss.
+
+In time, they’d have worn away at the rough edges of her despondency, and they still would, and it would still take time. But this? This seemed like a soothing ointment on a burn. It didn’t heal it, but it helped.
+
+Lea was not a fix for Tala, that would be ridiculous. But the outward focus that Lea’s arrival had forced upon Tala was a help.
+
+I’m not sure that distinction matters?
+
+-Oh, it certainly does. If Lea is the fix, then how she acts—what she does—has control over your mood, thoughts, and outlook. If she is simply the current focus of your outward looking, forward thinking, optimistic mindset? Then no matter what happens with her, you are improving.-
+
+Tala grunted internally. And that way I’m not burdening my daughter with propping up my mood.
+
+-As no mother should, but many do anyways.-
+
+Spoken like an experienced mother. Tala deadpanned.
+
+-That’s… fair. I suppose I shouldn’t speak like an Archon when I’m still in my first day at the Academy.-
+
+Yeah, being a mother for eight hours does not make us an expert. She chuckled. Rust, I’ve only known I was a mother for about fifteen minutes.
+
+Her chuckle drew Lea’s attention. “Mother? Why do you laugh?”
+
+Tala waved it off. “I just realized that it’s been well less than an hour since I’ve known about you.”
+
+“It has, yes.” Lea nodded seriously, then smiled. “I am new.”
+
+Tala laughed again. “Yes, you are.”
+
+“I am also happy.” Lea then turned and squatted down to regard a rock, her focus already on the next new thing.
+
+Tala frowned for a moment, uncertain why this rock, in particular, had gained the girl’s attention, but then Lea spoke again.
+
+“This rock is beautiful. It isn’t like the rocks around them, though they are also very nice.” A white steel finger tapped the special rock. “This one has lines of so many different colors, all stacked on top of one another.”
+
+Rane knelt beside her. “Yes, that is a very nice rock. We can stay here a while and look at it, but we do need to get to breakfast sooner rather than later.”
+
+Lea perked up at that, practically lunging to her feet. “Food! I have never eaten before. What do tastes taste like?”
+
+She took off at a brisk walk, Rane and Tala easily keeping up.
+
+She only made it about ten feet before she was distracted again, but that was fine. They had a goal, but they also had time.
+
+Tala was still largely at a loss, but she continued to pull on past experiences with children and forged ahead.
+
+It ended up taking about an hour to walk the half-mile from the hidden entrance of the research cave to the structures at the sanctum's heart.
+
+Mistress Petra had long since finished setting everything out and moved on to other tasks, so the three were alone in the dining area.
+
+After regarding—and gushing about—the buildings from outside, Lea froze in the doorway, eyes locked on the spread of food.
+
+Tala and Rane waited hesitantly before the girl blasted forward.
+
+In that moment, the automaton nature of her physical form was undeniable, as she moved faster than any mundane human could hope to in order to cross a room.
+
+Tala actually had to willfully keep the ground together and effectively force the girl to a stop else she’d have blown through the table entirely.
+
+Huh… do… do we keep the ground together under our feet on instinct when we move quickly?
+
+-Yes. Absolutely we do, both in the sanctum and on the superficial, even beyond our surface-area-expansion scripts. I think most physically powerful Archons do, even if it is largely based on their unconscious will, based on how the ground has always behaved for them in the past.-
+
+Interesting…
+
+While letting her obliterate breakfast might have been a good lesson for Lea, it would also have been a bit more destructive than strictly necessary.
+
+Still, Lea should take a lesson from this…
+
+There. Tala’s flexing of will allowed Lea to effectively bounce off the breakfast spread, falling back to land hard on her bottom.
+
+“Oh! I did not expect that.” She chuckled, pausing only a moment before getting to her feet in marginally less of a rush.
+
+Rane sighed. “Think about what you are doing, Lea. If your mother hadn’t interfered, you’d have done a lot of damage in here, not to mention destroying breakfast before you even ate any of it.”
+
+Lea’s eyes widened. “Oh! That would have been terrible. I do not want to miss breaking my fast.” She grinned at her own pun. “I’ve been fasting for years, more than all my life by a lot!”
+
+Tala found herself grinning. “That’s true and a funny way to put it.”
+
+Lea nodded. “Of course. I am hilarious.”
+
+Rane barked out a laugh, before walking forward. “Come on. Let’s eat.”
+
+As they moved through the beginnings of breakfast, they had the expected shenanigans where Lea wanted to just use her hands to shovel food into her mouth, but she was open to listening and learned quickly. First, she moved food to her own, personal plate, rather than eating it from the serving dishes. Second, and most importantly, she used the tools and utensils both to serve and to eat.
+
+And eat she did.
+
+She reveled in each bite, the peculiarities of her nature making every bite as flavorful as the last, with no biological dulling or ‘getting used to it’ upon repeated consumption.
+
+Throughout, they talked. They only briefly had to address talking with Lea’s mouth full, but since the girl could generate her voice without her mouth that was seemingly a nonissue, at least from Tala’s perspective.
+
+Still, Rane felt like it was better to not talk at all while actively eating, whether or not the mouth was required.
+
+Tala didn’t precisely agree, but she also didn’t feel like it was a bad notion. It certainly wasn’t worth arguing about.
+
+We’ll have to talk later.
+
+-Really? You think you’ll talk about table etiquette when you talk later? Don’t you think there will be other, more pressing things?-
+
+Sure. Why wouldn’t we talk about it?
+
+-...Okay. We’ll see.-
+
+Of course they would talk about it later. It was important.
+
+On a purely investigative note, Tala was fascinated as she watched the magics within Lea’s body work, beginning the break-down of food in the girl’s mouth, and the processing of the material as it went down her throat and into her stomach.
+
+There was nothing in the system beyond that as everything was taken and turned into energy either for immediate usage or to be stored for use later.
+
+It was fascinating to watch in real time as the throughput of Lea’s gate slackened, her body’s need for power from that source lessening, even if only minorly.
+
+There were other offshoots from her stomach, but they seemed to be ancillary systems rather than a continuation of the digestive tract.
+
+Maybe means for pulling out needed compounds for repairs?
+
+That would make sense. She hadn’t ever delved that deeply into automata physiology, and that lack was rearing its head.
+
+Alright, I need to brush up on that. I believe I still have a few books I haven’t read thoroughly.
+
+-I can give you the knowledge if you want?-
+
+…No. I think I want to actually process the information, not just have it dumped into my head.
+
+-True, that will likely be better in the long run. We tend to make better use of information that we intake more naturally.-
+
+As it turned out, Lea had a penchant for berries of all kinds. Tala wasn’t sure if that was due to how the taste struck her soul or if it was the body’s inbuilt reaction to those compounds, but regardless, Lea devoured any berries that she could acquire.
+
+That led to a need for two more lessons.
+
+First, the berries imbued with Tala’s magic would likely be harmful to the spellforms and workings in Lea’s body, so Rane and Tala had to deny her those treats.
+
+That didn’t result in a toddler fit or anything like that, but it did lead to a rather interesting back and forth.
+
+Lea was genuinely confused. “Why not?”
+
+Rane sighed. “Because we think it could hurt you.”
+
+“Are you sure?”
+
+“Well… no, but it isn’t worth the risk.”
+
+“Why not? I want the berries. It will be fine.”
+
+“You don’t know that. It’s our job to protect you.”
+
+“Why?”
+
+“Because we’re your parents, and we love you. We know more than you, and while we can be wrong, we are supposed to do our best to keep you safe. You’ve had more than enough berries, and there are still plenty of other foods that you can have.”
+
+Lea began tapping her feet quickly, as she sat, a frown creasing her face. “I want berries.”
+
+Tala stepped in, an idea coming to her. “Lea. Did you know you liked berries a few minutes ago?”
+
+“No. I know I do now.” Lea was slowly starting to reach for the berries filled near to bursting with Tala’s magics.
+
+Tala tapped the back of the girl’s hand in a very light reprimand, causing her to retract the limb. “I’m trying to talk to you, Lea. Can you focus on me?”
+
+Lea’s frown deepened. “I listen.”
+
+“You only just discovered berries. What if there is something you like even more, hidden here on the table?”
+
+She hesitated, eyes sweeping over the table widening as they went.
+
+“Also, did you know that you ate all the berries your father could have had?”
+
+Lea’s eyes snapped back to Tala before moving to Rane. Rane nodded and smiled. “I don’t mind, but you did.”
+
+Lea tilted her head to the side. “Is that… bad?”
+
+“Well,” Tala tried to gather her thoughts. How was she going to explain this? “What if I had a berry that you could eat, and just wouldn’t let you have it?”
+
+The girl’s face shifted into a picture of shock. “I want it!”
+
+Tala shook her head. “No, I don’t have one, but what if I did?”
+
+“I would want it.”
+
+She huffed a light laugh. “Yes, I know. Would you like me very much if I never let you have it?”
+
+“I… yes?” Lea was clearly struggling.
+
+So, Tala tried a different angle. “Would you like me keeping it from you?”
+
+“No.”
+
+“Why?”
+
+“Berries taste good, and I want them.”
+
+“Okay. So, do you think your father likes them?”
+
+Rane opened his mouth, likely to once again say he didn’t mind, but Tala gave him a look, and he closed it once more.
+
+Lea considered. “I think he should.”
+
+“Yes, he does. And you have kept him from eating any.”
+
+“He should be faster.”
+
+Tala chuckled. “He could have been, that’s true. But he chose to let you enjoy them instead. He let you have the good berries instead of taking any for himself.” She smiled over at Rane. “In fact, he gave you the first one, do you remember?”
+
+Lea’s eyes widened. “I do!”
+
+“So, you see? He chose letting you enjoy something over taking it for himself.”
+
+“Why?”
+
+“Because he is kind.” Tala’s smile softened, and her eyes lingered on Rane’s. The big man smiled in return, scratching the side of his jaw.
+
+Lea seemed to be considering, her feet slowing their frantic tapping as she did so. “I… I can try other things.”
+
+Tala did not see that as the main point… but she decided to take the win. Parenting wasn’t about forcing a specific point, it was about making progress where it could be found. “That sounds wonderful.”
+
+-Again, we’re thinking about things like we have this mastered.-
+
+Well, I was always told that mother knows best. Now? That’s me.
+
+Alat chuckled. -That’s us.-
+
+Same thing. Tala found herself smiling, a memory surfacing of when Illie was younger, and she’d wanted a treat Tala had earned… a memory of when Illie had still been alive.
+
+Tala’s mirth turned to sadness on a copper.
+
+Why didn’t I just let her have the cookie, Alat?
+
+-Because it was yours? I don’t think that it really mattered in the grand scheme of things.-
+
+But I can never give her a treat again, now.
+
+-And you can never deny her one either?-
+
+That pulled at Tala’s heart hard, and she took in a few long, semi-controlled breaths.
+
+Lea noticed, turning to Tala with a frown. “Why are you doing that?”
+
+Tala forced a pained smile. “I’m sad, Lea. You are an unexpected gift, but that doesn’t change that I’m… I’m really sad right now.”
+
+“Oh… Why are you sad?”
+
+“My sister… she died.”
+
+“Oh… why?”
+
+Tala felt tears well up in her eyes. It was so pointless? Why did Illie die? Why does anyone die? There’s not utility in death, no purpose, no—
+
+She cut herself off as Rane wrapped her in a hug. She hadn’t even noticed the man get up from his chair and come around the table.
+
+Rane spoke to their daughter as he held Tala. “Death doesn’t always have a purpose or reason. It is something that just happens. It is a natural part of life. Without it, there would only be stagnation.”
+
+Lea frowned. “That’s bad?”
+
+“It can be. Take the berries you enjoyed for example. You ‘killed’ them, to eat them. They were alive in a very real sense. Now they aren’t. It isn’t the same as a person dying, but both are an ending of sorts.”
+
+“Oh…” She looked back at the table before frowning. “I still want berries.”
+
+Rane let out a light laugh. “I know you do, Lea. We can’t explain everything to you all at once. Rest assured that there are answers, and we will do our best to explain them to you as we are able, and you are able to understand more. Until then, can you trust us?”
+
+Lea scrunched up her face in concentration for a long moment, then gave a serious nod. “Yes.”
+
+“Thank you. Come, now. I want you to try some more of this food.” A twinkle entered his eye. “I’d like to introduce you to pastries.”

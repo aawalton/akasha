@@ -1,0 +1,213 @@
+---
+id: 5923d8a3-bf4c-5f19-b749-f2a49bd302c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 667 - Failure in Victory"
+slug: 0173-chapter-667-failure-in-victory
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 173
+ownLength: 2932
+unit: words
+ownProgress: 2932
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3011458/chapter-667-failure-in-victory"
+royalRoadId: "3011458"
+markedReadAt: "2026-06-29T19:40:36.507Z"
+---
+
+Tala strode across the uneven sand of the arena, her surface area expansion scripts and incredible weight leveling smooth grit along a wavy path as she walked forward, compacting it enough that even Lea didn’t leave impressions with her quick, powerful steps.
+
+The fight was over, and such was the culture of the arcane lands that everyone was departing. There was no thought that Tod would be a sore loser, at least not publicly so close after his defeat.
+
+Similarly, none in his pack would be so foolish or brazen as to either attempt to take recompense or issue a new challenge at this time.
+
+The duel had happened, and it was now done.
+
+Healers were already checking over the two combatants.
+
+It was funny; to Tala’s understanding, the arcanes didn’t actually have many healers, but she supposed that the arenas made sense as a primary employer of those that there were. After all, if the best and brightest clashed violently here, they’d either quickly weed out any who were willing to participate or leave them lessened due to injury or mental stress. Only healers would mitigate those risks.
+
+As it was, the injuries were seen to with rapidity.
+
+Rane’s countenance was stony as his ribs were reset. Even so, the look no longer bore the shadow of rage. Tala could still see the boon manifested within his soul, once more under his tight control even as it tried to burn away at his will, resolve, and restraint.
+
+It would fade over the next minutes. It could depart faster if he let it burn itself out, but that wasn’t who Rane was. He’d rather endure longer under his own auspices than shorten the trial through loss of control.
+
+Tala placed a hand on his shoulder, muttering her love and encouragement, even as Lea did something similar from the other side.
+
+They both wanted to embrace him as their husband or father, but that would be inappropriate in the setting and circumstances.
+
+Rane gave a clearly forced—but just as clearly grateful—smile before his mask of control returned.
+
+Tod was joined by several other wolf-kin who were looking toward Rane with curiosity.
+
+The man noticed, and a series of silent bows were exchanged. Finally, Tod seemed to have re-gathered himself—with his leg reattached due to arcane ministrations—and the powerful wolf-kin moved their way, his fellows in tow.
+
+Rane took one step forward and waited, Tala and Lea respectfully waiting where he’d left them.
+
+Tod bowed lower than required between those of equivalent rank, pausing a few strides away. “Rane Sappherrous. You have shown your ferocity and strength. Your pack is Honored by your protection and presence.” The wolf-kin’s eyes flicked toward Tala before returning. “I do not know what is happening within the House of Blood, despite the rumors, but if their… oddities have allowed them to find warriors such as you?” He chuffed a laugh. “Perhaps we should investigate further.”
+
+Rane returned the bow, not matching the added depth. “Tod of the Segler’s Hunting Pack, you fought well and with honor. Without my… battle lust I don’t know that I would have overcome you in a pure contest of arms.”
+
+Tod shook his head, chuffing another laugh. “And if I had no weapons I would have lost quickly.”
+
+Rane frowned, but waited for the wolf-kin to continue.
+
+After a moment of expectant silence, he did so, seeming a bit baffled to be doing so. “You truly are young, even for one so powerful. Those who attain our advancement generally do not need this reminder, but I well remember the kindnesses my elders showed me, even after I had surpassed them.” He gave a pacifying grin. “Just as a pack is but the combination of its members, each of us is but the combination of our parts, our components, our strengths and our faults. When one member of the pack is more savage, his place is at the front, directed by those more cunning, but still fighting for the good of all. Your battle lust, as you call it, should not direct you—as I see it does not—but it should be allowed to vent its power for your benefit.” The wolf-kin gave a lupine smile. “As I said, I forget how young you humans can be, despite your power. Do not fear what you have, who you are. Wield it for the good of the pack.”
+
+Rane seemed to truly consider the man’s words before he finally nodded. “I will keep your words in mind.” He then bowed, a bit deeper than required this time. “Thank you for your words and display of Honor.”
+
+The wolf-kin bowed once more, then turned and strode off, his pack-mates falling into step beside and behind him.
+
+Rane watched them go for a long minute as the arena continued to empty around them.
+
+The official was long since gone, having left almost as soon as she’d called the duel. Tala didn’t blame the woman. She must be quite busy with all the various goings on even under normal circumstances.
+
+Rane’s injuries had been seen to by the healers rather quickly, mainly because he’d already been healing himself just with his passive nature as one with a Refined body, heavily enhanced. The healers had then departed without a word, their magics meaning that they didn’t need to check with him to ensure he was fully recovered.
+
+Even so, they had taken the time to advise that he get a good meal that night and bias his eating upward for the next few days.
+
+It is interesting that they seemed to be guides rather than creators.
+
+-Indeed. Though, we shouldn’t extrapolate out to all arcane healers from the few we’ve seen.-
+
+That’s fair.
+
+Rane finally turned back to his girls, a smile pulling at his lips despite tiredness in his eyes.
+
+Lea immediately grinned. “Come on, dad! Let’s go celebrate.”
+
+He shook his head. “No, let’s go eat.”
+
+Lea and Tala exchanged an implicative glance, which Rane obviously noticed. “What‘s this, then?”
+
+He looked between them until Lea finally sighed. “Mom said that you’d see this as a failure, not the victory it clearly was.” She gestured after the departed wolf-kin. “He clearly saw you as the victor, he even didn’t care about your… battle lust.”
+
+Rane frowned and muttered under his breath. “Well, he’s a beast-kin, of course he doesn’t see the issue.”
+
+Lea jokingly covered her mouth. “I’m shocked, father, shocked.”
+
+Rane gave his daughter a flat look, and Tala covered her own mouth to—unsuccessfully—hide a humored smile.
+
+He looked to his wife and saw her thoughts on the situation clearly. “Well… fine then.” He closed his eyes and sighed. “Let’s go get food. We can talk more there.”
+
+Tala nodded. “Sanctum or…?”
+
+“Sanctum please.”
+
+Lea feigned disappointment, but Tala didn’t wait, willing them all into their dining room in the sanctum.
+
+At the same time, she left a bit of iron just stoneward of superficial where they’d been—distinct from her stone- and starward selves—and that began moving at her will, shifting the anchorpoint of her expanded space inch by inch back toward the District of Doors.
+
+It was an imperfect solution, slow, easily noticed by those who could see such things, and it couldn’t pass into other holds, but it was less ‘flashy’ than a flier, and it was better than leaving their anchor in the middle of the arena… or leaving the arena on foot before going to eat.
+
+She wanted to be with her family, not wandering around in the hopes of finding a good anchor spot.
+
+They might go take a walk after, but that was something different. That would be purely for the enjoyment of it.
+
+Dinner was ready for them, as every meal always was.
+
+Kedva and her assistants kept several days worth of food prepared at any given time, the nature of the expanded space keeping it perfectly fresh and ready. They simply refilled that stockpile as necessary, making the whole process more efficient and less timelocked as a task for the group.
+
+Ironhold had been a bit isolated of late, given the nature of Platoiri, but with her city badge, Lyn had been able to take several merchant groups out for distinct, discrete trades.
+
+The Talons were still an unknown to the entirety of Platoiri. Even so, there was always a squad of five ‘on deck’ in case Tala had need of them. Beyond that, the group trained and took time off within the hold.
+
+Tala’s plan was to announce them after she received the post of Eskau of War… assuming that worked as they hoped. She really wasn’t sure what they’d do if she was denied that position.
+
+There were other options, but once it was put forward as an idea, it had become clear that it was the best one for their purposes.
+
+Things wouldn’t fall apart without that, but it would become more difficult.
+
+She shook her head. It was time to be with her husband and daughter, not rehashing the current circumstances for the thousandth time.
+
+Rane and Lea were obviously familiar with the food situation in the sanctum, and they called what they wanted to their place even as they were sitting down.
+
+Tala did the same, choosing a magic imbued chicken-pot-pie. It arrived steaming and smelling delicious. The crust was perfectly brown and every ingredient within was cooked to perfection. The sauce flowing around and cradling the other ingredients had been skillfully reduced until it was just thinner than a creamy custard, meaning that every bite would be wonderfully filled with the stuff.
+
+Rane had chosen a garlic soup that seemed thin, but was actually amazingly hearty. As an accompaniment, he’d willed up a small round loaf of sourdough bread, already stuffed with melting butter.
+
+Lea had gone for fried chicken, specifically thighs that had been hammered flat, rolled in breadcrumbs and pan-fried in minimal oil. She had it over top diced cabbage with a side of pasta salad.
+
+Tala almost asked if the girl was going to eat any vegetables with her food—cabbage and peas in the ‘salad’ aside—but then she reminded herself that such wasn’t a concern for Lea. Even Tala and Rane barely had to concern themselves with ‘proper’ nutrition, though Rane seemed to prefer to continue eating as he always had.
+
+Tala did clear her throat to get her husband’s attention, reminding him that he was supposed to be eating more, healer’s orders.
+
+He sighed and nodded before willing a bowl of twice strained yogurt.
+
+When she raised an eyebrow at him, he chuckled and a moment later chocolate shavings appeared to sprinkle down over the top until it was practically covered.
+
+Tala nodded once, then dug back in, allowing the eating portion of the meal to pass in relative silence.
+
+When they’d all finished, willing their plates away to the designated return location, Tala pulled their usual drinks to their table, and they settled in. “So, Rane. What are you thinking? You’ve had time to process, right?”
+
+He grunted, taking a slow sip of his mint tea. “I have…”
+
+Lea licked at the whipped cream mountain on top of her hot chocolate, wisely not interjecting.
+
+Rane leaned back. “My control was broken. I’ve taken injuries recently and kept my… boon in check, but this time? I was too close to the wire, too pushed, too stressed. When his blade got through, I… I wasn’t able to keep the reaction back.” He looked toward Lea, then away. “I apologize for the bad example.”
+
+Lea huffed, giving a faux glare. “Dad, when you tap into your boon, you are directed, focused, and powerful. You may see it as losing control, but you didn’t kill him, you didn’t even go overboard. You did what needed doing, then you leashed the power once more.” She dropped the fake expression and smiled. “I hope that I can wield my boon that well one day, holding it in check until and unless it is truly needed, then only using it as much as is required.”
+
+Rane opened his mouth to respond, but paused, clearly having thought about the whole thing for a while. Finally, he closed his mouth and grunted.
+
+Tala gave a soft smile. The man wasn’t sulking, not really. “I know this isn’t in line with how you’ve always thought about things, but it is a part of you, and Tod had a point.”
+
+He chuckled. “Tod the wolf-kin.”
+
+“Yes, Tod the wolf-kin.” Tala sighed. “You are you, and you can’t be the best you until you utilize all parts of yourself…” Her eyes narrowed, and then she glanced toward Lea. “Lea? Can you please give us a moment? In fact, we might just want to see you at breakfast.”
+
+Lea looked like she wanted to protest, but she thought better of it, nodding once with a sigh. “I’ve a couple of books I’ve been meaning to read anyway. Love you, Mom, Dad.”
+
+They responded in kind, and Lea vanished under her own will.
+
+Tala turned on Rane. “You are trying to remove the boon as part of Reforging?”
+
+Rane let out a long, deep breath. “First off, that would be foolish. Reforging is mostly a thing of the body, and the boon is an aspect of my soul. Moreover, I have already accepted it as part of my soul as a part of advancing to Paragon.”
+
+Tala cocked one eyebrow and waited.
+
+Rane shrunk down a bit, looking away.
+
+She waited.
+
+Finally, he grimaced. “I am trying to figure out how I can modify my body to better contain and direct it.”
+
+Tala pointed at him. “There. I knew it.”
+
+He groaned. “What do you want of me, Tala?” He turned burning eyes on her. “This has been a plague on me for my whole life. If I can change to better control it, better contain it? Of course I will!”
+
+He threw up his hands, standing and walking to the massive windows, looking out on the sanctum.
+
+Tala rose calmly and followed, waiting for him to continue. As she did that, she slipped to stand in front of him, looking outward as well, his arms moving to wrap around from behind.
+
+He seemed to take comfort in the contact, relaxing a bit before letting out a long sigh. “I’m not trying to remove it, Tala. I’m not trying to make myself ‘not me.’ But I am trying to be someone that I want to be.”
+
+Tala pushed back a bit, shifting to get just a bit more comfortable. “And you don’t want to be who you are now?”
+
+He tightened his hold for a moment. “I love who I am, that doesn’t mean I love every aspect of who I am. Is it so wrong to want to change? To grow? To improve and become better?”
+
+Tala shifted again, looking up and back, meeting his gaze as he looked down at her. “And you without that boon is ‘better?’” She shook her head. “You know, if you didn’t have that boon, I’d have lost you.”
+
+Some of the frustration within his eyes seemed to fracture at that. “I… I know.” He wrinkled his nose, squeezing her harder. She didn’t mind, keeping her eyes locked on his until he spoke again. “I… I don’t know. I know who I am, but… what does that mean?”
+
+Tala reached up with one hand and coaxed his face downward for a kiss. When they separated, she smiled up at him. “You know who you are, you are Paragon.” She shrugged, it was that simple. The very fact that he was a Paragon meant that he knew who he was. “The question you have to answer is what does that make you? What does that require of you, and do you want to meet that requirement? A sword can still be a sword if it is dull, but it is a better sword if it is sharp. Similarly with a wagon and three wheels. It is better if the wagon has four, but it can still be a wagon with only three.”
+
+Rane hmmmed, giving a slow nod. “I am trying, my love. It sounds so simple when you say it, but when I’m on my own? When I’m beating my head against the wall, trying to figure this out, trying to catch up to my wife?” He stopped there, then grimaced. “Sorry, this isn’t on you.”
+
+Tala pulled him down for another kiss, turning around to face him as they broke off. “Silly man, you don’t need to ‘catch up to me.’ I’m right here. I’m yours, and you are mine.” Existence shivered at the pronouncement. “Your advancement doesn’t factor and neither does mine. I wanted you before you were Refined, and you had better not forget that.”
+
+Rane looked down at her, eyes burning for a different reason now, evoking a smile from Tala’s lips.
+
+“Do you want to talk more or…?”
+
+Rane gave a small smile. “I choose ‘or.’”
+
+Tala knew that he still had concerns, still had things that he’d need to work through if he was going to Reforge. She even knew that he might never reach that step of advancement.
+
+Regardless, she would be there for him every step of the way, helping however she could, just as he’d always been there for her.
+
+Stars send he always would.
+
+She still had so, so much to do, but for tonight, this night, she could put her other concerns aside, and simply be here, with him.
+
+Tomorrow would come soon enough.

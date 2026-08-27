@@ -1,0 +1,152 @@
+---
+id: 8dab6417-3454-5c9f-ba0d-aee5ad85e3b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58 – Golems – Pt6"
+slug: 0058-chapter-58-golems-pt6
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 58
+ownLength: 1542
+unit: words
+publishedAt: 2025-02-13
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2065495/chapter-58-golems-pt6"
+royalRoadId: "2065495"
+---
+
+The crystal thrummed, glowing an ominous blue. The runes sparkled, and Kindra swallowed, looking around the stone room.  Do I tell them? That crystal likely needs a soul… Death?
+
+[It does. It’s necromantic in nature. ~Death]
+
+Does that bother you?
+
+[Don’t get me started. I eventually collect, but it’s irksome. ~Death]
+
+Another realization slammed into her, and Kindra stared at the runes, dread churning through her body. The runes were uncannily familiar. They had always been present when she was stuck in nowhere.  Death, was I trapped in something?
+
+[Yes, but that is for you to uncover. ~Death]
+
+Kindra swallowed and looked at the crystal.  We can’t do that. That’s too far.  She looked at the three and shivered.  I can’t do that to someone else.
+
+“Let’s plug it in,” Gleon said cheerily, picking the crystal up and placing it in the golem. It sat there, doing nothing. He scowled at it. “Sigrid?”
+
+“I don’t recognize some of the runes. We may be missing something. Or I may have an error in the runes.” Sigrid held out her hand.
+
+Gleon reached into the golem and pulled out the crystal. He scowled at it and studied the runes. “Looks accurate to me.”
+
+Sigrid took it and studied. Kindra looked at the table.  Do I tell them? Will they turn to it in desperation?  She grimaced.
+
+“Kindra?” Dain asked. “Are you okay?”
+
+“It needs a soul,” Kindra whispered, looking up at him. “You’d have to kill something and capture it in it.” She grimaced. “Please don’t do that.”
+
+“How do you know that?” Gleon asked, his brow raising and his body tensing. His hand slipped off the stone table.
+
+“I just know,” Kindra said, shivering. “Please don’t do it.”
+
+“We won’t, sweetie. Don’t worry,” Sigrid said with a nod. She frowned. “Is there another way?”
+
+Kindra shrugged and looked at the book.
+
+“It’s not in there,” Dain said. He let out a long breath. “So, what do we do?”
+
+“Are we sure we should rule it out?” Gleon asked. “We could find some critter.”
+
+Sigrid frowned. “Gleon, we can’t be like them.”
+
+“We have no choice, Sigrid. You know that. Our people suffer. Our world suffers. We must do this.” Gleon frowned. “If I die, put me in one.” His eyes blazed. “We discussed this once. Did you forget?”
+
+Dain turned. “Kindra, could you give us a few minutes.”
+
+Kindra stood, her body shaking as the dread of the nothingness hit. “I know this world is on the brink, but please don’t do this.” She shivered and walked to the door.  They’re going to do it. I know they will.  She walked out the door and looked up and down the dark lane. Everything seemed a little darker like a torch in her mind had snuffed out.
+
+“Kindra?” Aika whispered, landing on her shoulder.
+
+“Someone did that to me,” Kindra whispered. “I know it. I could feel it as soon as she completed them.”
+
+“Is that how you got here?”
+
+“I’m sure of it.” Kindra swallowed and leaned against the stone house. “And it’s wrong.”
+
+“Kindra. I remember the choices on the ship. We didn’t have a choice but to get going,” Aika whispered. “Do they have a choice?”
+
+Kindra frowned.  What would I do if I were them—what should I do?  She turned. “Aika, what are the odds they will succeed if they do?” She paused and sighed. “Zero, right?”
+
+Aika shrugged. “Sorry. I can’t process things like that now.”
+
+Kindra dove into her mind, searching for answers. “So, they’re desperate and have to act. They will do this. It is the only option they see, but it will fail. It already did.” She turned toward Aika. “So, we need to scrap this plan and make a new one. One that works.”
+
+Aika nodded and fluttered toward the opening. “Does that mean we’re going to level?”
+
+“Yes.” Kindra popped out the guns and reloaded the magazines. “Let’s go.” She turned and jogged after Aika, heading for the exit.
+
+Jogging up to the entrance, Kindra waved at Kode and peered outside, spotting nothing beyond the trees and forest.  Being a guard sounds very boring.  She jogged out of the illusion and followed the cliffs, heading toward the stream with Aika flying by her shoulder.
+
+Footsteps followed her, and she turned to see Kode. “Escort duty?”
+
+“Yes, and watch is boring. We have others on it.”  Kode looked over. “What are you doing?”
+
+“Searching for some supplies. I need to make some things.” Kindra jogged under a tree.  Like an autocannon, though, that means making a tank. So, maybe I settle for an absurd amount of ammo for now.
+
+The leaves swirled in the wind, and the sound of birds filled the air. Kindra jogged and studied the cliff, triggering Scavenger’s Sight and searching for metals apart from silicon.
+
+Text flashed in her vision, and she glanced between the text and the cliff. Most of it was shale with a smattering of other. She walked down the cliffs, kicking at the ground and hoping to spot anything. Looking over, she focused on the distant mana and saw several other notifications.
+
+[Level 89 Magical Wood - This wood can be used to craft various items. The mana has granted it increased strength and durability.]
+
+Oh cool.  She scanned the trees, seeing various levels, some climbing into the hundreds.  Could I use wood instead of metal? Probably not.  She frowned, studied the trees, and veered away, heading for one of the lower-level trees. “Over here, Kode.”
+
+She jumped across some large roots and looked up at the canopy. Text floated in front of the leaves.  Well, I can turn them into things. Shame the system doesn’t tell me what.
+
+[You know way too many things for that.]
+
+Kindra chuckled and jumped down from the root, walking over to the smaller tree. She reached out and touched it. “Any good at chopping wood, Kode?” She pulled out an axe.
+
+Kode walked up and pulled one out. “It is a young one.” He moved to the side and swung, sinking his axe into the side.
+
+Kindra swung. Her axe blurred and sunk into the tree.  Alright. Finally, enough strength for something.  Pulling it back, she began chopping, slowly driving her axe into the tree. Sap began oozing out of it.  What can I use that for?
+
+[Level 21 Magical Sap - This may be used for lots of things, including the base elements. You could also try to eat it.]
+
+She sniffed the sap.  Smells like dandelion. Strange.  She chopped into it again, ignoring the sap and slowly hacking deeper and deeper into the tree. Fragments blew out around her. Sap oozed from the tree, and her arms grew heavy.
+
+After ten minutes, Kindra was panting. She wiped the sweat from her forehead, and a loud crack sounded from the tree. It teetered, its branches and leaves fluttering in the breeze.
+
+Kindra bolted, and Kode shoved. It came crashing down. Leaves swirled, branches snapped, and it hit the ground with a loud thud. Watching the tree, Kindra smiled and reached out, pulling on the mana and ripping it into herself with a smile.  So, I can harvest trees, too. Interesting.
+
+She walked forward and looked at the tree. Reaching down, she ran her fingers along it.
+
+“What are you going to do with it? Firewood?” Kode asked, wiping sweat from his brow and looking around the forest.
+
+“Something like that.” Kindra reached down and used Transmutation. The entire tree lit on fire. Smoke and steam billowed, and Kode leapt away. The soil charred. The birds above went quiet, and Kindra stepped away from it.
+
+“What?” Kode stared at her. “Why? Why just light it on fire?”
+
+“Give it a minute. I’m cooking.” Kindra smiled.
+
+“You are not cooking. You’re just burning a tree.”
+
+“It’s an expression.” She laughed and watched the fire snuff out. The magic surged through the tree. A dazzling ribbon of runes streamed through it.
+
+“Charcoal isn’t made by lighting things on fire. Didn’t Dain teach you that?”
+
+Kindra ignored him and stepped closer. She watched the mana pull it all into a pile.  There it is. Several pounds of the stuff.  She smiled and reached out, putting it all into her storage.  I’m going to need to upgrade that.
+
+Turning, she paused to pull up her progress.
+
+[Your mana has increased: 4621 → 4636. 
+          ‎ You currently have 2682 usable mana.]
+
+Level fifteen. So, the next level would cost me three hundred mana. I can afford it. And I do need to be quicker.  She considered it a moment longer and willed her mana to flow into her body.
+
+[Your mana has decreased: 4636 → 4336.] 
+          ‎ [Your level has increased: 15→ 16.] 
+          ‎ [Your intellect has increased: 28 → 30.] 
+          ‎ [Your dexterity has increased: 12 → 14.] 
+          ‎ [Your speed has increased: 12 → 14.]
+
+[Your machinist cache has been expanded by 25%: 2000 lbs → 2250 lbs.]
+
+Stretching, she turned and headed for the cliffs, swapping her axe for her pistol.
+
+“Ash? You made ash?” Kode sighed and shook his head.
+
+Kindra chuckled and headed toward the stream. “Oh, Kode. You guys don’t understand, but you will. Make no mistake, you will.”

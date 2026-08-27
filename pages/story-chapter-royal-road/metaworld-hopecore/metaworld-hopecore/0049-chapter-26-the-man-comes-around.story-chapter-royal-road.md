@@ -1,0 +1,187 @@
+---
+id: 2dc59245-cd4d-5b72-ba18-9948c71cdbf6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - The Man Comes Around"
+slug: 0049-chapter-26-the-man-comes-around
+partOf: metaworld-hopecore
+position: 49
+ownLength: 2343
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3373914/chapter-26-the-man-comes-around"
+royalRoadId: "3373914"
+---
+
+“The sad truth is that most evil is done by people who never make up their minds to be good or evil.”
+
+Hannah Arendt
+
+LAPA. The Old Music Building. The Basement.
+
+After its cash injection in the early 2000s, the Omnia Group refurbished many of the rooms in the Old Music Building for use as dance studios, music studios, theatre studios, and art rooms.
+
+The Dance Studios were built to develop students’ physicality, featuring sprung floors covered with Marley, floor-to-ceiling mirrors, and internal music systems.
+
+The theatre rooms, also called black box rooms, were entirely matte black and without mirrors, stacked with assorted rehearsal cubes, lighting, and props.
+
+Music spaces were like black boxes, but covered with acoustic foam and wooden diffusers. These were soundproof boxes where students could play to their hearts’ content—or sob in isolation without the outside world hearing.
+
+In the Old Music Building, there was another type of room, one that would not have existed if the school solely existed on public spending. This was the Cinematics Major section of the school, a transitional space between the three rooms above, where a modest soundstage adjoined an editing suite with Avid hardware and server racks, also serving as storage for camera systems, and finally, as a soundproof theatre for about twenty viewers.
+
+It was in this theatre that William Chen’s crew usually hung out, joined now and then by the girls from Valorie’s clique.
+
+Into the room the group now entered, led by their leader, who had his jacket on his battered girlfriend, trailed by a few wealthy peers and camp followers, and finally, Simone Goode.
+
+When they entered, there was already an Asian giant in the room. A college student who looked older than his years, possessing the physicality of an antagonist who could fight Jean Claude in Bloodsport.
+
+Near the front, a few couches had been set up together with a coffee table with tea and snacks. Where one might expect to find alcohol and cigarettes, however, there were none, for the room’s occupants were students and performers, and the room’s owner knew very well how important it was not to disadvantage oneself.
+
+Valorie, in her prim and preppy get-up, fell into the double-couch, then turned her ruined makeup toward William. God, she can be so pretty. William felt an immense sense of fulfilment. Of all the Valories, this vulnerable, tear-stained girl was exactly his type. It was his ultimate weakness, it was why, when Luciana Mio…
+
+He shook his head to clear his thoughts. That could come later.
+
+“Val,” he said, sitting behind her and holding her hand. “Can you tell me what happened?”
+
+Valorie tried to speak, but the rage, the shame, the memory of it, made her eyes immediately wet and her throat insensible to speech.
+
+“Wang, do you know what happened?”
+
+“Chen-ge,” Wang answered from the dark, his tone impassive and unmoved. “San-jei asked me for a favour. She told the hei-mei to plant her bag, the one you bought from Hong Kong, into Eppie’s locker. I retrieved the master key for the hei-mei, and she presumably did as San-jei told her. Afterwards, she returned the key to me, and I returned it to our friend, Mr Jones, together with the proper recompense for the bother. That’s the extent of my knowledge.”
+
+“Thank you, Wang,” William nodded. Things had happened just about as much as he expected. It was Valorie’s fault—a self-own. He had told Valorie maybe a dozen times to leave the girl alone. The past was the past, and as Seniors, they had reputations and careers to consider beyond the tiny pond that is high school.
+
+“Simone.” His voice rang out.
+
+From the shadows, observed by others, the Jazz dancer stepped into the pool of soft light.
+
+She was trembling. Beneath the skin-hugging leotard, he could see her muscles tensing.
+
+The girl possessed a nubile figure, though that wasn’t unusual for a place like LAPA. It wasn’t the type that he fancied, but there was undeniable athleticism there, and immense flexibility. He didn’t like Simone, however, though it had nothing to do with her ethnicity. Chen simply disliked poverty. Like the workers in his father’s firm, there was a kind of off-putting desperation in Simone’s face, in the way she moved, the way she talked. The poor were timid and hungry, and oxymoronically prideful and ashamed. They had a low breaking point, he disliked that.
+
+“Go on, explain yourself.”
+
+“I… I did as Miss Sanders told,” Simone’s voice came as a barely audible whisper. “I did as told.”
+
+“I know. We’ve established that it's Valorie’s fault,” William turned to his girlfriend, whose eyes suddenly ignited with animal rage.
+
+“No… NO!” Simone quivered, her long legs buckling. “I didn’t mean it like that. I…”
+
+“So, you got played,” William continued to the girl. “Did you get played?”
+
+“I can check the CCTV,” Wang offered from the dark. “The only segment that is missing is that of Miss Goode planting the bag.”
+
+“Thank you, Wang.” William felt at ease that he still had some competence left in his inner circle. “Now, the bag.”
+
+He pinched his brows.
+
+“It’s a Birkin. Yes, I know you don’t know what that is, Simone. Suffice to say, it's expensive. It's worth more than your whole god damn family’s grocery bills for… six months?”
+
+“Four,” said Wang.
+
+“Oh, it was the black Birkin, was it?”
+
+“Yes,” Valorie spoke at last. “The one you gave me last Christmas.”
+
+“Well, that’s not so bad,” William shrugged mockingly. “If it had been the croc-skin, phew! Hahaha…”
+
+He laughed by himself. Then he stopped laughing.
+
+“Did you steal the bag, Simone?”
+
+“No!” The girl was on her knees now. What else could she do?
+
+“I know where your siblings sleep,” William said after spending a minute enjoying the sight of the sobbing girl on the floor. “I know who lives in your hood. Bad people. If you lie to me…”
+
+He looked around for a prop. The room was meticulously clean, and there was nothing to make his point. Feeling deflated, he walked up to the girl and stood over her, then slowly placed the sole of his Oxfords over her ankle.
+
+“Wang is very good at breaking bones,” he said after a few seconds. "Aren't you, Wang?” Underfoot, the girl dared not move.
+
+“I have that reputation,” Wang replied on cue. Such curtness was why William loved his right-hand man. Wang really understood him.
+
+“But we are fellow students here at LAPA,” William said, removing his foot. “My father put so much of his own money into this place. Partly for Senator Sanders, and partly because he saw immense potential in the arts and its sponsorship.”
+
+The potential of money laundering. William mused privately. The movie industry did the work of a thousand laundromats.
+
+“But a Birkin is a Birkin,” He said. “A ten-thousand-dollar Birkin.”
+
+“Five thousand,” Wang announced helpfully.
+
+William gave his right-hand man a strange look. “You’re killing me here. You like this one?”
+
+The cat-lover shook his head. Wang always had the strangest taste. Maybe the black girl looked like a cat to him? A stray from his stupid society?
+
+“Anyway,” William looked down. “Simone, look at me.”
+
+The girl looked up. Her eyes were large and brown, her nose wet with snot, and her expression indescribable.
+
+“Take Friday and Saturday night off practice. Go to the club. I don’t care what you do or how you choose to make your tips. Do it slowly on your hands or feet, or with your ass or whatever, but don’t make trouble, and don’t take too long. It’ll be Halloween Night soon, they’ll need the extra hand. Return the sum of the bag you lost to Valorie, and all is forgiven.”
+
+The girl's face was a mask of despair.
+
+“Do this, and our promise remains intact,” William felt incredibly kind as he spoke. “Pay your dues, and you can still have the future you desire. We’re all friends here, after all. You’re my junior-sister, after all, hahaha…”
+
+William observed his peers in the dark room.
+
+The expressions on the faces of the other students were a pleasure to see. Fear, longing, arousal, horror, and eyes that simply looked at the floor.
+
+It was a foreshadowing of his future as the heir to the Omnia group, a future that he would grasp with both hands.
+
+“Now, Wang,” William summoned his childhood friend, moving his right hand around his girlfriend’s waist. As much as he wanted to leave things as they are, Valorie was a rabid bitch with lockjaw. “Do something about our golden finch, please, while Val and I finalise the Halloween Party.”
+
+After her two morning classes, Eppie escaped the attention created by her uncharacteristic confrontation with Valorie Sanders by running like the wind back to her dorm, locking her room, and calling Eric.
+
+“Eric Lee speaking, this is Legal,” came the reflexive answer on the phone, then recognition. “Eppie?”
+
+“Yeah, it's me,” she replied while hugging her phone, still huffing from the sprint. “Eric, it happened. Valorie Sanders tried to pull some shit on me by pinning some kind of amateurish prank. I metaphorically slapped her face, then she got whisked away by William Chen!”
+
+“Alright, calm down,” Eric’s voice was indeed calm and measured. “Are you in danger?”
+
+“Not really,” Eppie said. “At least, I hope not. I mean, this is LAPA. Not the Bronx.”“Thank God for that at least. Okay, give me ten.”
+
+Ten minutes later, Eppie succinctly relayed the entirety of what had happened.
+
+Eric took another ten minutes to shift from his present work to digesting her thoughts. He asked her about William’s behaviour, Valorie’s reaction, and the circumstantial evidence she had discerned.
+
+Point by point, Eppie explained why the whole thing was futile even if it had succeeded. What was particular was the fact that there wasn’t even a Birkin in the locker to begin with, despite everyone acting like there absolutely should have been one. How is it possible that someone trying to frame her was so incompetent? Did Simone steal the evidence? Did someone watch her put a priceless bag into a locker and steal the bag from Eppie’s locker? Was there never a bag in the first place, and this was just someone trolling Valorie? Was William using this to teach his girlfriend a lesson about minding her own business? Did Coordinator Carr get involved?
+
+“You’re right, that doesn’t make any sense,” her lawyer affirmed her confusion. “But you know, have you considered that you might have a guardian angel?”
+
+“A what?” Of all the things she had experienced in life, the idea that someone would stick their neck out for her for no particular reason seemed especially absurd.
+
+“A Guardian Angel,” Eric repeated. “You’ve helped people, right? You sang songs that brought folks joy. One good turn deserves another. Maybe a cat did it?”
+
+“That sounds… kind of crazy,” Eppie confessed. In her life, people were motivated by money, power, and control. These were earnest motives that were believable and honest. To hope that someone, out of a completely subjective reason, would stand between herself and William Chen out of the goodness of their own hearts remained stranger than fiction.
+
+“Did you forget about Director Harper? Dr Hughes?”
+
+“I guess,” Eppie had no refutations for Eric’s proof. “Are you one of my Guardian Angels, Eric?”
+
+“Sure, though I am billing Director Curon our hours,” her lawyer said flatly.
+
+“Are you really?”
+
+Eric made a sound that sounded like “Heh—”
+
+Eppie did not feel very guilty, for she did give Eric a guaranteed nest egg larger than any reasonable person could spend. And when 2010 rolled around, and this world discovered Bitcoins…
+
+“Alright,” her lawyer replied after a few more questions. “Can I suggest something that is NOT going to make your life better? I think it's time to bring Mrs Lafitte deeper into this ordeal. You and I, we’re not investigators. As far as I can see, unless you hold something over those two, they are never going to leave you alone. Even if this William Chen is all smiles, I doubt he can just ignore Senator Sanders’s psychotic daughter. At the same time, I have no idea what will happen if you take this to the authorities. Remember, you need to pay to retain legal counsel, but Senator Sanders has the Office of Senate Legal Counsel, especially if you accuse him of misusing influence. Then there’s the problem of the Staff Counsels on his roster. These are volunteers from California’s largest law partnerships—which means this country’s best firms, who will collectively grind you and whoever you manage to retain to bankruptcy. I am sorry, Eppie, I simply don’t see how you’re going to fight that.”
+
+Her Newfoundland took a deep breath.
+
+“As your not-counsel, I think the best way forward is to have something on the people tormenting you. Document everything, keep a trail where possible. Through Mrs Lafitte, I think it’s possible to inform Senator Sanders… discretely, so that his daughter can back the fuck off before things escalate.”
+
+“What, no justice for the poor?” Eppie’s voice grew soft, not just because it was true, but because she was now one of the poor. In her past life, one phone call with the implied threat of withdrawing donations to his Party would make a US Senator pay her a personal apology, much less an inconsequential Californian legislator.
+
+“The adult world isn’t so…” Eric struggled to find the word. “Picture book.”
+
+“Alright. Thanks, Eric. Can you ask Mrs Lafitte to contact me?”
+
+“I’ll arrange it.”
+
+“I’ll try to survive until then.”
+
+Eric groaned. “Take care. And if things get rough… Call me. Emily will put you up until we can figure something out.”
+
+“Thanks,” Eppie felt her chest glow with warmth. It was good… to know that there were good people. It was a sentiment she had not entertained past the middle-class generosity of her own parents. “Hopefully, we’ll speak again for entirely different reasons.”
+
+“Stay safe.” Eric hung up.

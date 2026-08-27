@@ -1,0 +1,209 @@
+---
+id: 56231d0f-a230-53f7-9208-239919e46e59
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 675 - Plans and Authority"
+slug: 0182-chapter-675-plans-and-authority
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 182
+ownLength: 2840
+unit: words
+ownProgress: 2840
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3083489/chapter-675-plans-and-authority"
+royalRoadId: "3083489"
+markedReadAt: "2026-06-29T19:40:53.969Z"
+---
+
+Tala… had been right. As soon as she confirmed that it was her personal hold that was the source of the Talon’s power, their magical density, there were demands to access it.
+
+This, as it turned out, was exactly in line with what Tala had expected, so she had her answer ready. “Unfortunately, my hold and the power within is a strategic war resource, and as such it must be husbanded. I am happy to give you all a tour in the next few days, but the power within will not be available without petition and appropriate recompense.”
+
+That, of course, got pushback, even if the objections didn’t have any teeth, given no one could argue against her authority in this case.
+
+The turtle-kin Pillar was evidently rather smug about the whole situation, but he kept his thoughts to himself nonetheless.
+
+Even with her authority unquestionable in this situation, Tala listened to the objections and arguments, then shut them all down with simple logic. “The power within is not limitless, no matter its density, and therefore, it must be used properly. In this, I have final say.”
+
+Head Corinis clapped once, drawing all eyes to him. “Even were she not Eskau of War, these resources are hers, brought to our House of her own volition. I would love to see what she has done with those resources so far, and I look forward to seeing how they will be wielded for the benefit of our House and cause going forward. We’ve handed over steering to this helmsman, and only a fool would start to whip her bloody moments after we leave port.”
+
+That quieted the gathered Pillars and Eskau.
+
+Tala gave a small nod to Head Corinis, and he returned it with equal deference.
+
+“Now,” Tala smiled around at those assembled, “we have work to do.”
+
+When some mouths opened to speak again, she cut across them.
+
+“I will show you my hold, but only after we come to an understanding of how I will execute my role. Understood?”
+
+She met every eye, getting a nod from every representative present.
+
+“Good. Now, as I was saying, we will need to be strengthening alliances with the other Houses and powers that be, improving communication networks, and ensuring we are secure in the good graces of the various City Lords. I will not be traveling far and wide to get this done. I will travel to engage the enemy wherever they show up, but until then, I will be based out of Platoiri, as that is the best place from which to coordinate with the gated northerners. We will be shifting our processes, part of that will be the gated we will be… acquiring. The training program will be aggressive. I hope to have the first Hold Wardens ready to replace hold columns and their vestige cores within two years.”
+
+The turtle Pillar lifted one clawed finger, speaking once Tala acknowledged him. “Eskau, I believe that you said that program would be dependent on several factors that you haven’t dug into as of yet.”
+
+“It does. We will be devoting resources to removing the mystery from those areas. I have four artifact experts ready and able to interface with both House of Blood members and the professionals willing to be hired onto the effort.” Tala’s mind continued going down the lists fed to her by Alat which Lyn and others had helped prepare for this eventuality. “We will require binding agreements for all involved, and they will be offered limited access to the increased density while they are working with us as both incentive and insurance.”
+
+Murmurs of understanding rippled through the gathered arcanes.
+
+The turtle sighed. “I don’t wish to continue to poke at your idea, Eskau Tala, but doesn’t it take more than half a decade to train a gated Mage?”
+
+“It does, yes, but we aren’t. That isn’t the plan. We are going to teach them a specific set of magic, not instruct them in general magical theory and let them pick. It’s restrictive, but infinitely less so than existence as a vestige would be.”
+
+He tilted his head to the side before nodding in thoughtful understanding. “I see…”
+
+Tala snapped her fingers, remembering something important. “Right! With the shift in authority, I can now allow Eskau Meallain free of my hold, if still only in my presence.”
+
+An instant later, the elf stood beside Tala. Without hesitation, Eskau Meallain turned and knelt with one knee down, bowing her head in deference. “This Eskau greets the Eskau of War. May the blood of our enemies flow freely.”
+
+Tala smiled, having expected the reaction, but still appreciating the authoritative feeling confirming the woman’s view. “Rise, Eskau. You will remain under restriction for the time being. No command from your Pillar nor even the Head of House will be suffered to countermand that order. This is a matter of utmost importance for the war with the Black Legion. We cannot risk the anger and retribution of those watching, and you are too valuable to the House to permit the potential of your execution."
+
+Eskau Meallain nodded, standing to her feet. “I understand and will obey.”
+
+And there was simple truth to that. The elf was nothing if not utterly devoted to the House of Blood. Even her dive into near insanity had come about due to that very devotion.
+
+There was also the fact that Tala felt no growing hostility from a Sovereign level source. This was an acceptable solution for the time being.
+
+Tala turned back to the circle of representatives. If her authority as Eskau of War had been unquestioned before, it was absolute now. Eskau Meallain was known as one of the most capable in the entire House. Moreover, she was known for her utter loyalty. Her instant recognition of and deference toward Tala helped those gathered take the last step in shifting their mindset toward the human Eskau.
+
+Bless you, Lyn. Your advice was perfect.
+
+-I’ll pass on your thanks.-
+
+Please do. Tala would have had no hope of actually fulfilling this position if she were left on her own. She wouldn’t have even dared suggest it if she hadn’t had Lyn in her corner. This was expected, actually. Even normal Eskau usually had adjuncts to handle the minutiae, but it likely hadn’t been expected that Tala would have so many plans already prepared and ready for initialization on the day of her raising.
+
+“Now, where were we?” Tala tilted her head as if in thought, but in reality, she had her lovely checklist firmly in mind. “That’s right. White steel production.” She grinned. “The material my Talons are equipped with. There is a certain minor house we need to track down, as they built the manufactory I’ve been using. It has, as of yet, eluded our abilities to reverse engineer it. We’ll continue to try on that front, but if we can commission more from the source? That would be preferred. We will also need to begin gathering the needed resources for production. I would like every Pillar and Eskau fully outfitted as soon as we can make it happen, and having both the gear and training as bargaining pieces to cement our leadership in the coming clash will be key. We do have enough that I can give each of you some to begin practicing with, but we’ll handle that in the coming days.”
+
+The Eskau and Pillars were all nodding along now, clearly having moved from surprise and mild resistance into excitement. It was clear that Tala wasn’t just throwing out ideas, she had solid plans to push forward the war effort.
+
+They were all likely congratulating themselves on their decision to raise her by this point. Tala could sense growing loyalty to the House of Blood within each, along with increased fervor for the fight to come, the direct alignment with her new authority allowing those aspects of their souls to resonate vividly to her perception.
+
+It was going to be a busy time ahead, but in the end? They just might be able to deal with the Black Legion once and for all.
+
+The discussion continued through much of the day, moving to a private dining room for meals, and a less formal meeting room in between. In the end, the House had forged a plan for the next few years that they all assumed would have to be adjusted quite often to account for various results and changing circumstances.
+
+There was an interesting feel to the discussions since Tala did not actually need to talk with them about any of this. She would have been well within her rights to simply command that this or that be done.
+
+In discussing it with Rane, Master Grediv, and a few others—and with Lyn to a lesser degree due to the woman’s advancement—it was decided that the very discussion would be a means through which she could both build and solidify her authority.
+
+This was the ‘first impression’ these representatives would have of her in the position, and if she could show that she not only had good reasons behind what she commanded but that she was also willing to listen to counsel? That is the report they would bring back, and that was the baseline from which the whole House would come to see her.
+
+And it worked beautifully.
+
+She could actively feel the authority from her new title strengthening within her. It wasn’t a massive multiplier, or even a full percentage increase—even if something as conceptual as authority could be quantified to the point of giving such numerical comparisons meaning—but it was changing.
+
+Maturing. It feels like the authority is maturing, at least a little bit.
+
+-Yup, from a new-born Eskau of War to a baby one. Well done.-
+
+In only a matter of hours? Yeah, I’ll accept that progress.
+
+-...Fair enough.-
+
+When they were finally wrapping up for the day—given there was no reason to continue on into the night—Head Corinis drew attention and raised a single issue. “We do have a couple of delegations wishing to negotiate with our House. I believe that the Eskau of War and I should hold audience with them tomorrow. Is that acceptable, Eskau Tala?”
+
+Tala thought for a moment, then nodded. “I think that could work. I do not wish to remain in Croi for long, a week or so at most. I want to study the world-fragment before I depart though, so I will need some time for that as well as access to any research and expertise on the subject we have at our disposal.”
+
+“Is this personal curiosity or to do with the war?” The question sounded casual, but it was clearly a bit of a test.
+
+Tala smiled. “Honestly? A bit of both. I am definitely personally curious, but if I can learn from the state of existence in here? That could make the transporting of gated resources almost infinitely more tenable, and given our new allies? That is a potential we cannot ignore.”
+
+Head Corinis smiled. “Very well. We will arrange for the audiences and the research time.”
+
+“Thank you, Head Corinis.”
+
+“Of course, Eskau. I look forward to seeing you on the morrow.”
+
+The Pillars and Eskau departed, followed by the Head, each bowing to her as they passed in appropriate deference.
+
+Once they had gone, Tala took a deep breath, then willed herself into her sanctum.
+
+She arrived at the dais, where a large set of stone slates showed views of the world-fragment where she had been standing. Rane was waiting for her, a massive mug of coffee in hand. “Welcome home, Eskau of War.”
+
+His big grin conveyed all the pride he felt for her, all the love he held in his heart on easy display as well.
+
+Tala flicked her hand to the side, banishing the coffee mug to the armrest of her throne before jumping up to embrace him, his arms wrapping around her in turn, the large man already laughing as he swung her around, giving her a quick kiss before just smiling as he held her.
+
+“Oh, Rane. That was… That was insane.”
+
+He frowned. “You were worried?”
+
+“Hmm? Oh, no, not really. I mean the ridiculously extensive notes from Lyn! I saw other’s hands in them as well, but there were eight hours of topics, plans, and policies. It was madness.”
+
+Rane chuckled again. “Well, if I remember right, once you’re a bit more established in the position, you can have others fill in for you in such meetings.”
+
+“True… I’ll probably work toward that sooner rather than later.”
+
+He grinned. “That sounds like you.”
+
+She gave him a mock glare. “What’s that supposed to mean?”
+
+He gave her a quick kiss. “That you dislike meetings and bureaucracy.”
+
+She held the look for a long moment before grunting. “I suppose that’s accurate.”
+
+“Of course it is.” His grin growing. “You are a woman of action.”
+
+“I’ll show you action.” Her eyes narrowed again.
+
+He hesitated for a moment, then frowned while fighting a smile. “Was… was that supposed to be a threat?”
+
+She paused as well, then colored. “It was…”
+
+He chuckled, the frown melting away. “Don’t threaten me with a good time, love.”
+
+“Yeah, yeah.” She slid back down to the ground before reaching out and willing the coffee back into her hand. “So? What have you been up to?”
+
+“Well, first, I slept. The feast was… it was a lot.” He gave a tired smile, some weariness that was deep within him rising to the surface.
+
+Tala felt herself tire in sympathy as well as her own social reserve getting a chance to truly scream at her, the void, a horrified maw. She took a long pull of coffee, groaned, and placed her forehead against his chest. “I just want to crawl into bed for a week, and not see anyone else until that’s done.”
+
+Rane cleared his throat. “What did I say about threatening me with—”
+
+Tala pulled back and smacked his chest, interrupting him. “Enough of that, Rane Sappherrous.”
+
+He played along, giving a fake wince and looking chastened. She hadn’t hit him hard at all. The power behind the smack hadn’t been enough to bruise a mundane, and he was far tougher than that. He cleared his throat, schooling his features. “Yes, ma’am… Eskau of War… ma’am.”
+
+She gave him another narrow-eyed look. “That’s right.”
+
+Then she broke, laughing, causing him to do the same. When they wound down, his arms around her once more, he gave the top of her head a kiss. “What do you need, my love?”
+
+She sighed, shifting trying to position herself so she could drink more coffee without leaving his embrace. Then, she paused. Could I…?
+
+She flexed her will, filling her mouth with coffee. She barely was able to swallow before she began to cackle.
+
+Rane pulled back, looking down at her with a raised eyebrow. “Are you… alright?”
+
+She nodded, pulling her laughter back under control. “Yes, yes. I just figured out something amazing.”
+
+“Oh? Care to share?”
+
+She shrugged and told him.
+
+He just regarded her for a long moment. “That sounds like exactly the type of thing you would do. You can now just fill your mouth with coffee at any time, can’t you? Even on the superficial?”
+
+Her eyes widened, her mouth opening slightly in astonishment.
+
+Rane sighed. “You hadn’t thought of that just yet, had you...” It wasn’t a question. “Huh.”
+
+“No, I had not.” She beamed up at him. “Thank you, husband. My coffee shall be more available than ever.”
+
+He shook his head, giving a sigh of feigned disappointment. “Alas, what have I done?”
+
+She pulled him down while stretching up, giving his cheek a kiss. “You have been a good husband.”
+
+“Well, I’ll take it then.” He smiled, waiting a moment before posing his question one more time. “So? What can we do for you this evening?”
+
+She gave a slow nod. “I should meet with Lyn and others to sort through the events of the day. We’re going to have a lot of visitors and things to do over the next few days.”
+
+“But…?” He prompted.
+
+“But… I think I need to go to bed,” she looked up to him and added, “to sleep for a long, long time.”
+
+He nodded. “If that’s what you need, let’s get that done. Should I communicate with the House of Blood? Delay any appointments ‘til later in the day, tomorrow?”
+
+She considered, then shook her head. “No, I think going to sleep now will get me enough rest by tomorrow morning to let me deal with people again.”
+
+“Very well.” A book appeared in his hand. “I’ll be to bed in a couple of hours. Please let me know if there’s anything I can do for you.”
+
+“Thank you, Rane. I will.” She gave him a goodnight kiss, and willed herself to bed. She was asleep moments after her head hit the pillow.

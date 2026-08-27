@@ -1,0 +1,201 @@
+---
+id: 16f1c5c3-5272-5c10-be24-9218332a13ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 658 - Rebuking the House of the Frost Lance"
+slug: 0164-chapter-658-rebuking-the-house-of-the-frost-lance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 164
+ownLength: 2659
+unit: words
+ownProgress: 2659
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2941839/chapter-658-rebuking-the-house-of-the-frost-lance"
+royalRoadId: "2941839"
+markedReadAt: "2026-06-29T19:40:18.841Z"
+---
+
+Tala stood before the sealed door of the hold of the House of the Frost Lance. She wasn’t visibly armored, though her armor was available in an instant if required.
+
+It shouldn’t be, and she was willing to take on quite a bit of risk to keep it from being necessary. This was because, more than physical safety, at the moment, she needed to be seen as more reasonable than a fully ensconced engine of war. That was why she wore her usual outfit of white and grey leather, with the addition of the crest of the House of Blood and the stylized keystone to represent Gated Humanity.
+
+Around her, the District of Doors was busy but not crowded. As such, her presence had been noted, and there was already space clearing around her and her group, muttered whispers and interested glances present throughout.
+
+The door before them was actually beautiful. It was entirely white, with a stylized lance embossed in the surface along with the symbol for the House that resided within.
+
+Funnily enough, Tala could see the hold hanging below the entrance, tucked alongside the void, rather than being within it. That made sense as keeping a hold stable and protected in the void took a level of power or authority that most lacked.
+
+-That’s a rather self-congratulatory line of thinking.-
+
+But true.
+
+-But true, I will grant you that.-
+
+Tala could actually have simply dropped herself stoneward and into the hold, bypassing most of the defenses arranged against her, but that wouldn’t give the display that she wanted.
+
+She glanced to Lea, standing beside her, Terry on the girl’s shoulder. “Are you ready?”
+
+Lea gave a slow nod. “I didn’t expect there to be an audience…”
+
+Tala smiled. “Much of what the Major Houses do is simply a display for the rest of society. It is both a great failing and a clever way to help keep those in power in check.”
+
+Lea grunted, her eyes flicking about with an obvious bit of nerves.
+
+Her daughter was not powerful enough to be of use in the task ahead, not martially. They both knew this, and they’d discussed it at length. Lea knew she was there as a display of power from Tala. The very fact that Tala could bring her ‘Child’ daughter along on this little foray was a statement of supreme confidence and assurance. It would also make everything she accomplished that much more impactful.
+
+They were both a bit disgruntled by the idea, but Tala had made it more palatable for both of them with two facts. First, it gave Lea something to do, and an official position alongside Tala, in addition to making her message all the more poignant. Second, there would undoubtedly be house guards whom Lea could test herself against—under Terry’s supervision of course—giving her real combat experience that she still sorely lacked.
+
+But that was for inside the hold, and Tala still needed to gain that access.
+
+As a start, Tala had been pushing her aura and authority against the door since they first walked up. When the house guards had seen her, they had retreated within, sealing the door behind them.
+
+The door was, unfortunately, one of the places of greatest authority for the House of the Frost Lance, as made sense. This was the sole point of ingress to their homes and place of power in Platoiri. It was a place which they had jealously guarded since their arrival.
+
+Since their recent arrival, and that was the chink.
+
+They had authority, but while it was powerful, it was shallow.
+
+Lea took a deep breath and nodded, clearly having resolved herself for what was to come. “I’m ready.”
+
+Without waiting a moment longer, Tala manifested iron spikes in a group vaguely shaped like the door and drove them forward. The display was entirely theatrics as she had no intention of destroying the door.
+
+Instead, as the iron spikes would have hit, she split their physicality in two, bending one piece starward and the other stoneward, leaving only the heads on the superficial, now pressed against the front of the hold door.
+
+In that way, she effectively entirely encapsulated the door in the dimension of magic.
+
+There were gasps from the crowd at the display, followed by whispered questions and answers between those who had been watching and those who hadn’t. That led to mutters and questions about whether it was just an illusion, as there hadn’t actually been a sound of impact as would have been expected.
+
+Almost immediately, many assumed that she had failed to do any damage to the portal entrance, and there were even a few scattered chuckles at her presumed folly. After all, individuals didn’t attack holds. That was insanity.
+
+They would soon learn better.
+
+Tala strode forward, Lea just behind and to her left.
+
+As they walked, the Eskau of the House of Blood raised her voice so that all nearby could easily hear. “With the forbearance of the Revered City Lord of Platoiri, I, Tala Sappherrous, Eskau of the House of Blood, will inspect the core of this hold to ensure that it poses no danger in the coming conflict. The House of the Frost Lance has refused to allow this inspection as well as refusing to work with the House of Blood for the betterment of all. The House of Blood finds this unacceptable. As such, this is my response.”
+
+She’d timed her speech perfectly, and as she got within a couple of strides of the doors, she simply pulled them stoneward, ripping them from their hinges and taking them straight into her sanctum.
+
+The iron bracing that she’d put in place held the material together, preserving the trophy for later use.
+
+The scream of tortured metal and the sparking of failing magics caused the watching arcanes to pull back even further.
+
+A barrier of power tried to spring into being across the portal, but her authority had already penetrated the opening in the fraction of a second after the door was removed.
+
+“No.” It was a whispered word, likely unnecessary, but Tala was still getting used to wielding her authority like this. Regardless, the flex broke the forming magics, and there was a set of small detonations as the spellforms that were trying to enact the negated defense overloaded and failed catastrophically.
+
+Oh, wow. They didn’t put any failsafes on them?
+
+-It seems not. They were to hold the door sealed until the hold ran dry. They didn’t predict that the shields would be prevented from forming.-
+
+Huh… more the fool them.
+
+Tala walked through the door before dropping a small orb to the ground behind her. Its magics activated, causing it to lift into the air and begin projecting her movements and actions into the air just above the hold’s entrance.
+
+This would normally be quite limited, distance wise, but since the entire hold was—definitionally—all adjacent to the entrance, it would work just fine.
+
+The reception area for this hold was a large, stunningly beautiful winter-wonderland. Magic both kept the snow and ice intact and kept the temperature from affecting any guests.
+
+Tala felt that secondary set of magics turn off, and she was practically slapped with an unbelievable cold.
+
+Terry flexed their combined authority to protect Lea from what would have actually had a chance of harming the girl, despite her power and non-biological nature.
+
+Quite a powerful chill, indeed. The means of a Major House were not to be underestimated. It was a good reminder for Tala to be careful.
+
+A moment later, a Pillar of the House stepped out, a spear of ice already formed beside her, somehow looking pale beside the purity of her white skin.
+
+To Tala’s surprise, the woman was almost naked. Tala hadn’t thought her arrival and subsequent breach of this hold was unexpected, but the fact that this woman was without Regalia put that into question. Maybe she doesn’t have any? Not all Pillars in other Houses do…
+
+In that frozen moment, Tala easily saw that the inscriptions across her body were seemingly of some sort of white gold, rather than some of silver and some of more traditional yellow gold. Moreover, the blue aura of her power seemed to be in sync both with the cold around her—clearly magnifying her power—and the hold as a whole.
+
+No wonder they felt comfortable defying the House of Blood. Eskau Pallaun is known to only get involved if members of the House are in physical danger, and the threat they pose is almost purely political or monetary.
+
+Well, that was why she was here. She was the rebuke this House deserved.
+
+Tala remembered her discussion with Lea—as well as that with advisors to the House of Blood to smooth out and approve of her plan—and smiled to herself.
+
+As Eskau of War—to truly make their decision easy—I must be better than anyone could expect. As such, she needed to meet a Pillar with ranged magics, just like she’d meet any Eskau in melee. To do otherwise would imply a lack on her part, no matter how much power she displayed.
+
+With that in mind, Tala didn’t allow the enemy Pillar to actually attack her, that would be foolish. The woman’s magics were manifest for all to see—especially given the projection maintained on ambient power within the hold—so Tala made a long-familiar gesture with her right hand, one that she’d gotten out of the habit of using of late.
+
+Her right hand came up as she extended her arm, palm out. Her first two fingers extended towards the sky, the second two bending down. All four fingers and thumb were tucked close together.
+
+She almost grinned as her hand simply felt right, in the now rarely used configuration.
+
+It was the perfect demonstration that she was the one acting, even though it wasn’t technically needed for the most basic activation of the magics. Still, she had kept in the hand formation as something that would allow her to use more power, more quickly.
+
+In that vein, her gate surged, pouring that influx of power through the inscriptions and the natural magics accompanying them. “Crush.”
+
+Her power and magical authority were more than sufficient to apply the effect, and the hue-folk woman’s eyes bulged as she clearly felt the magic settle on her.
+
+Tala had upgraded her Crush magics after so long, making the amount of amplification imparted something she could choose, with greater amplifications requiring commensurately more power of course.
+
+To make the demonstration clear, Tala had increased the woman’s personal gravity by a factor of one hundred.
+
+There wasn’t even time for a startled gasp before the Pillar was flattened, her body unable to throw its parts outward, despite it effectively popping like a sat-upon waterskin.
+
+Once the popping and squishing finished—as the target was not in a form that Tala had designated any longer—the magics of ‘Crush’ faded.
+
+As the Pillar’s soul fled, there was no longer anyone controlling the lance of ice that had been floating beside her. That being the case, the magics came apart, the ice exploding and scouring the whole area clean with a powerful detonation of ice shards and cold, tearing winds.
+
+Huh… effective and clean. Tala nodded once, satisfied. She glanced toward Lea and saw the girl’s conflicted expression, but after meeting her mother’s gaze, Lea gave a tight lipped smile.
+
+They were on the same page. This was a grim necessity.
+
+The point of this was a demonstration of power and resolution. As such, Tala strode forward, Lea in tow.
+
+The next ‘threat’ came in the form of Frost Lance house guards, and Tala simply ‘Restrain’ed them, leaving them impotently floating, all but immobile.
+
+She’d further improved that particular magic over the years, and now it could compensate for attempted movement. As such, unless they had magics to directly oppose or overcome the effect, they wouldn’t be moving their center of mass while she was in range.
+
+Doing it this way made it an active drain on power, but it was marginal, all things considered.
+
+At that thought, she drove an iron spike into the floor near the group. There, now I’ll always be in range.
+
+-Effective. Nice.-
+
+Thank you.
+
+They turned down a long hallway and, there, encountered their first Pillar and Eskau pair.
+
+The Eskau attempted to attack Lea from behind, slipping out of the icy wall with some sort of locational transference magic.
+
+It was a cowardly act, given Lea was so much less advanced than him. More than anything, it displayed the House’s desperation.
+
+Even so, Tala didn’t give the Honored a second thought. A flicker of dimensional magic barely brushed her awareness as she faced off against a Pillar in full Battle Regalia for the first time.
+
+They only have two Pillars here… one now. That meant that the woman who had fought Rane would be the last true combatant here, once this Pillar was dealt with.
+
+As to the regalia? It was formed into a set of full plate armor, leaving the man’s hands free as he glared through the eye slits at Tala.
+
+Each piece of armor looked to be meticulously crafted constructs of crystal, ice, or something similar. The spell lines within were both forged into reality itself—just as natural magics were for a Mage, or functional spellforms were for an artifact style construct—and obvious as gold within the otherwise clear material.
+
+Well, the material was clear in the center. Each piece was surrounded by a thin layer of iron, clearly meant to concentrate the magic and funnel the purified power to the Pillar who wore it.
+
+As such, each of the five vestiges were powering powerful defenses as well as granting all the excess to the arcane for use.
+
+As the Eskau fell to the floor behind Tala in six pieces—already dead—and his minor authority faded from her awareness, she held out her hand and flexed her will to pull the protian weapon to her hand.
+
+This one was currently shaped like an icicle—clearly having been meant to plunge into the Eskau’s target—and once she was holding it, the cold instantly seeped into her painfully.
+
+The contact also brought with it a clearer sense of the vestige within.
+
+It was screaming.
+
+While that wasn’t literally true as it didn’t have any true means of communication, it was clearly in a state of hyper distress. The one bonded to its housing had died, breaking that link, and the shock of that had reverberated through the entirety of the weapon, and would most likely lead to its destruction unless drastic measures were taken immediately.
+
+Tala did the opposite, and remembering her dismissal of various founts, she pushed the vestige free of its cage, snapping the pathetic bonds of magic and slightly stronger reality threads that tried to resist her.
+
+Be free. She gestured grandly to be easily seen by the Pillar and by those watching the projection.
+
+A moment later, the protian weapon—something that most arcanes saw as a tool beyond value, and a symbol of power, prestige, and honor—splintered and disintegrated.
+
+The Pillar’s reaction to the destruction of that weapon was even greater than his obvious distress at the death of his Eskau. “NO! You fool!”
+
+He took a step forward, hand reaching fruitlessly forward, still more than two dozen yards away.
+
+“What have you done? Abomination! Have you no shame at all?”
+
+Tala shook her head, her braid swaying as it lay down her back. “I have a task to complete, and very little time in which to do it. Will you step aside, or be removed?”
+
+The man growled, hatred clearly blossoming in his eyes as magics began to gather around him. “I do not recognize your authority, here.”
+
+Tala felt the equivalent of a papercut against her hold on the world around her. She snorted a laugh, shaking her head again. “Removal it is, then.”

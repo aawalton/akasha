@@ -1,0 +1,91 @@
+---
+id: e3e4acb6-d623-5f8d-be42-798ce423c36b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 250 Orders"
+slug: 0264-chapter-250-orders
+partOf: melody-of-mana
+position: 264
+ownLength: 1595
+unit: words
+ownProgress: 1595
+publishedAt: 2023-07-05
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1267286/chapter-250-orders"
+royalRoadId: "1267286"
+markedReadAt: "2026-06-29T22:34:56.466Z"
+---
+
+“So you said yes, obviously,” Kala opined.
+
+“Yeah, but we're not having the ceremony for awhile, things being like they are I'd be afraid to have any kind of party. In fact we might not have a party.” I was waffling a bit on that.
+
+“That's simply not acceptable Alana, you must have some ceremony, if not for yourself then for others. Also lets people know that you really did it.” At my eyebrow raised in challenge she continued. “There are situations where people come out and say that the wedding wasn't done officially, or properly or whatever. You need at least a few people as witnesses, even if you do literally nothing else.”
+
+“I'll consider it, will you officiate for us?” I asked.
+
+“I'd love to,” she replied. “I do understand weird feelings about it, being that I'm in an odd situation myself.”
+
+“Care to share?”
+
+“Only if you keep it in confidence.” At my vigorous nod she continued. “My own fiance wants a far larger event than I do. He has a big family, and I don't really talk to mine too much here recently.”
+
+I blinked a few times. “Hold on, you're engaged? To a man no less? I thought you were more...”
+
+“I want children, and I have a finite amount of time to make that happen. For both of us it's more like... a business arrangement. He wants at least one heir, I want several, which he doesn't mind. His family is old, magical but not old nobility, and well off. He also doesn't care if I have a... paramour, so long as it's not another man, so we came to terms.” She stirred her tea as she talked.
+
+“That's really weird to me Kala,” I said.
+
+“Well Alana, that would be because you've always hated social obligations. Though I'll say you seem to have ended up with more than a few of them.” Her tone told me I'd stepped on some toes there, so I decided to quickly move on.
+
+“On another note I won't be in town much for the foreseeable future. Things going like they are,” I said.
+
+“That bad?”
+
+“Chances are in the next few months we'll be in a civil war. It's already tense, according to dad. He moved quick so we have most of the infrastructure under our faction's control, but... with the Emperor and Queen gone now there's a lot of arguing about succession. I've also been told to keep my opinions to myself in no uncertain terms.” I felt the corners of my lips drop a bit at that, nobody had liked my idea of a constitutional republic.
+
+“They're giving you orders?” She was shocked, as I'd been a bit of a pain about sticking my nose in places in the past.
+
+“I was there when Durin died, and when Sophia died, and when their son died, and in the middle of all of it. There are several generals putting forth the idea that I might have been responsible, under father's orders.”
+
+She sucked in her breath, “Oh, that's why...”
+
+“There are a couple of guards in the hallway, yeah. Not all bad though, I got some concessions, a pet project or two I've wanted to put forward for awhile. You know, we could use a priest, or a priestess. If your fiance passes inspection maybe he can come too.” We spent a moment smiling at each other.
+
+“Depends on what it is I suppose...”
+
+My offer wasn't all sunshine and roses. I'd been reactive too many times. I'd gotten better over the years, but this was just one more step. I had my location now, and it was time to recruit, because I wanted people loyal to me staffing it. Not father, not Mystien, not some ruler far off or my family, ME. We needed a priest regardless and Kala was on the short-list, it helped that she was a priestess of Lovers, so she could do weddings, and Lover's Marks, and all that good stuff. I suspected at some point someone would need those services.
+
+My students were the first to agree to join me in my endeavor. After them Dras was pulled along, with his crew. Charles had agreed to join me, with little effort, though I had to find a place for his wife as he refused to spend long away from her, real lovebird apparently. I'd even pulled my old uncle Barro out of retirement so we could have some level of blacksmithing if we needed it on hand.
+
+Selene was already on site, and dug in like a tick. Upon hearing my proposals she'd agreed without the slightest argument. It helped that I did this after Ulanion gave her a particular sack and she cried into out collective arms for over an hour. The fact that I would be improving the warding significantly helped a lot too.
+
+When I asked Lucien if he wanted to work for me he went and found his probably son, who I decidedly didn't want, to hear it. The two of them asked me to repeat my offer and then laughed themselves to tears. I was taking that as a no.
+
+Some of my maids had managed to get in as they'd already been vetted, my former butler did not. They joined a number of staff suggested by others of the faction, small in numbers and all limited in influence. I'd made it clear that I would be the one setting down rules for my project to all involved, nobody else.
+
+Etia was the most divisive person to join us, at least in my opinion. I had rather complex feelings about my former teacher and brother's wife. She was likable, but his, and all things aside, weird. I might have pushed back had he not informed me with a smile of his ultimate reasoning. She was with child, and he wanted her in the safest place he could imagine, which was wherever I was warding with all my might. Someone, who no longer had a job, had told him some of the functions of my house here in the city just after the attack.
+
+I stood in one of the boxes overlooking the small arena, back and in the shadows as the public display was underway. The prisoners, those I had captured, and those others had were all in one of the massive complexes built ages ago for sporting events, and those rare punishments like these. Each was bound to a pole, their hands above their heads. There were less than three hundred by the looks of it.
+
+The four highest priests for the region, along with my father, stood on a platform. The stands were packed to the brim. The wealthy, the poor, those in between, tickets to this had been handed out in the streets, and the people ate it up.
+
+“You have violated the laws of nature,” the high priest of The Vine declared.
+
+“You have wandered far, and well outside of where you should with your actions,” said a man in sandals and worn robes, who nobody here really knew well.
+
+“You have violated the love a caretaker should have for children, and perverted it beyond reckoning,” the high priestess of The Lovers announced, the members of her order, along with those of the others looked with rage upon the captives.
+
+“You have broken every covenant of war though senseless slaughter, slavery, and murder,” Bishop Theodore finally announced.
+
+I'd been told that it was very rare for the various Orders to hand down such a public judgment, but it showed that the ruling authority supported them without question in it. It also served as an example to others what could happen if you engaged in too many violations against their precepts.
+
+“But you have surrendered, and for that, your lives will be spared,” father said.
+
+Not all of them I knew, the first to declare that they'd not tell their captors anything had been handed over to The Shield, in front of the other captives; the rest had sung like canaries afterwards. I hadn't been told what their punishment would be either, only that as a ranking member of society I was to be here.
+
+“You shall live, as those of your children we found shall as well, they are innocent. Your worst crime was the taking and killing of children, so you shall have no more. Your names extinct, your lines ended. Afterwards you shall be exiled to a far off place to live out your days while your young are raised to aid others.” There was a collective gasp as the punishment for them was handed down.
+
+There had to be a silencing enchantment somewhere down there, because several off the prisoners were clearly screaming. It didn't matter though as before each woman a priestess came, pressing her hand to the lower part of her belly and letting forth a light, and before each man a priest did the same, only lower.
+
+I had to hold on to Ulanion as I watched in horror an act that was just inches short of genocide, and only because it wasn't their race, religion, etc, but their actions that served as justification. I wasn't the only one so shaken either if I had to judge by some of the faces in the crowd.
+
+“That's... what the fuck,” I stammered out, reminding myself that for all the forward thinking people that might be around, the justice of this world was still medieval, and that angry priests were monstrously dangerous.

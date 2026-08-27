@@ -1,0 +1,227 @@
+---
+id: bc0ecea7-ca6a-5947-b2e7-7e7451c1cf91
+page-type-slug: story-chapter-royal-road
+title: " CHAPTER 90 — The Killing Moon"
+slug: 0154-chapter-90-the-killing-moon
+partOf: metaworld-hopecore
+position: 154
+ownLength: 1657
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807449/chapter-90-the-killing-moon"
+royalRoadId: "3807449"
+---
+
+Thy firmness makes my circle just, / And makes me end where I begun.
+
+John DonneA Valediction: Forbidding Mourning
+
+LAPA.
+
+Sunday.
+
+Euphemia Fontaine, sixteen, woke before her alarm, preceding the electronic rollcall by one second. Her borrowed body, in its [System] managed [Clockwork Pulse] state, had driven her hand to the snooze before the alarm could sing half a syllable.
+
+“Show me my [Potential].”
+
+Her vision blurred, then refocused.
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+21
+
+Athletics
+
+444421
+
+Agility
+
+21
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+21
+
+Endurance
+
+Pain Suppression
+
+38 / 38
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+35 / 35
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+25
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] [El Duende] [All the World’s A Stage]  Inactive:
+
+“Four… fours…” Eppie’s lips pulled to one side. “Sǐ—sǐ—sǐ—sǐ.” Death on death.
+
+In her old life, she hadn’t been superstitious, because she did not believe in religion, the supernatural, or [System]s. But now? It was hard to argue there wasn’t karma when her status screens gamified the [Causality] of her present reality.
+
+PA—! Eppie slapped her cheeks with both palms.
+
+After today, her debt to Euphemia Fontaine would be paid.
+
+Sitting in bed, she allowed herself another thirty seconds of inaction before her old rituals took over.
+
+In her tiny ensuite, she watched herself brush Euphemia’s teeth. Her teeth were immaculately symmetrical, though Eppie knew for certain that her pearly perfection belonged to [Comeliness] and not visits to dentists the original Eppie couldn’t afford.
+
+Continuing, she applied cleansers, working around her jaw and the soft skin under her eyes. Did she need it? Probably not. But the habit helped her think. After the cleanser came the toner and the serum. Tapped, not rubbed, then gently massaged.
+
+The old Lana would call it vanity.The present Eppie asked if she was channelling Patrick Bateman.
+
+No. She refuted that distinction. I am an American Revenant. Her procedure was a liturgy of cleansing so that her tiny body could prepare itself for something larger than life.
+
+Comparatively, her hair took thirty seconds. She messed herself up, allowed her tangles to fall by chance, then shook her head until she came up looking like she spent $200 at the salon.
+
+Finally, she wore her theatre clothes in funeral black, only the good stuff: a compression top, spandex, and her black Common Projects. If, for any reason, Valorie needed a replacement, Eppie could get in and out of her costume within a scene change. And if, for any reason, she needed to duck in and out of Titus, she would blend in with any of LAPA’s hundreds of students.
+
+After all, for today, she was, as Cooper had framed it: Our Playwright, the Shadow Producer of Titus Andronicus.
+
+And that was the role for which she was dressed.
+
+At the door, she looked at herself again, this philosophical zombie that was Euphemia Fontaine.
+
+She breathed out once, hard, through her nose.
+
+The dorm was empty. Ava's and Halle's beds were already stripped. Ava would never again return to these rooms. Halle, presumably, would return in due course. Josefina would not be back until the holidays were over.
+
+Eppie locked the door behind her.The walk to the Whitman was short, and the day ahead was unfathomably long.
+
+The Whitman’s interior was already ablaze with sound and voices when she arrived for the pre-show check-ins. She went straight to the backstage dressing room and greeted her co-stars, who were now in the midst of their pre-show meditations. Elizabeth Moore was pinning her Tamora wig with the concentration of a clinician; Nathan was running scales in his chest voice with his eyes shut; Charles and Joshua fed one another lines, while Klein circled with a clipboard and checklists, wearing a mask of nerves and anguish.
+
+“Euphemia.” “Eppie.” “Kitty cat.” “Fontaine…” Eppie absorbed the familiar faces and familiar touches, fighting the familial feelings creeping into her chest.
+
+Ms McGregor called her in to help with wardrobes, and Eppie fell into place among the costumers. She helped with the ironing, the pinning, the belts and the togas. She helped the MUAs from the technical division. She checked and double-checked the coiled threads on the wrist props.
+
+“Eppie—”
+
+Eppie turned to find Lavinia in her first costume.
+
+Valorie's virginal Roman dress was resplendent: ivory, floor-length, cut with a hard, tailored severity through the shoulders—the General's daughter's whites hugged her ripening figure while hiding a part of it with a sash of deep, deliberate scarlet—foreshadowing what would be done to the pale flesh it hid.
+
+Her hair was pinned high and Roman and immaculate.
+
+“Are you ready?” Valorie’s inquiry was for herself, but Eppie answered anyway with an affirmative, “Born ready.”
+
+Then neither of them said anything. Then Val held out her hand, and Eppie took it, and they just spent the next minute holding on, knowing that, in a small and fundamental way, the Eppie and Valorie of tomorrow would not be the same women as the pair entwining their fingers today.
+
+“Break a leg,” Eppie gave her blessings.
+
+“I shall look forward to being carried,” Val raised her white neck, tilted her head, and gave her a peck on the forehead.
+
+Eppie left before the others, who were already watching, could comment that she was cheating on Zara. She milled away the next five hours, filling in for the unending labours of a school-based theatre company, moving from department to department, bringing lunch and running coffee as LAPA’s most famous Understudy, until their instructors informed them that the end was nigh.
+
+Cooper, Costello, Tyker, and Seyrova came through the wardrobe doors together an hour before call time. Immediately, the backroom’s noise dropped on its own, for their nerves were frayed and the tension remained high.
+
+Though Dr Cooper was their Theatre Chair, it was Costello who spoke first.
+
+He thanked the students for their four years at LAPA, spoke briefly about his personal feelings of pride and joy, then delivered a line that was far too on the nose for Eppie’s present condition.
+
+"Our revels now are ended… We are such stuff as dreams are made on, and our little life is rounded with a sleep."
+
+The excerpt from William Shakespeare's The Tempest speaks of the great Mage and his final lines. In actual history, The Tempest was Shakespeare's final play, and he, taking to the stage as Prospero, was bidding goodbye to his audience of many decades.
+
+“Our revels have ended,” Costello said, to the boys who'd gone red-eyed and the girls already biting back tears. “But I hope that, unlike Prospero, you will never lose your magic.”
+
+Mrs Seyrova was next, looking at them all with the flat, kind directness she never softened for anyone. “Don't cry too much, you'll ruin your stage makeup,” she said in her heavily accented English. “Miss me not. May you have many more instructors in your life.”
+
+Susanna Tyker was, predictably, brutal and professional. She looked at her crew, gave them her single sardonic smile, and said, “If any of you choose to dedicate your life to the stage, then I will see you eventually. Be it Broadway or West End. Either will do.”
+
+The students’ sentimentality broke for mirth, which salvaged the makeup situation somewhat.
+
+Then Dr David Cooper stepped forward.
+
+He ran a hand over his buzzed, meticulously shaved head, and gave them all the same fatherly smile they'd known since day one of Acting 101, back when they'd all been sweating through the simplest theatre exercises like a bunch of dodos learning to fly.
+
+“When I first met you all four years ago,” he said, his voice tuned to maximum, hypnotic sentimentality, “you looked like giant babies.”
+
+Laughter. Eppie laughed as well, but they all knew it was a coping mechanism. Costello was a teacher, and Seyrova was a drill instructor. Cooper… was more like a father.
+
+“Back then, I welcomed you as artists. Now, I shall fare you well as an artist.” Cooper took a deep breath. “Valorie. Elizabeth. Charles. Joshua. Nathan. Jamal. Tobias. Derek. Malcolm. Owen. Ravi. Desmond. Felix. Noah. Anders. Theo. Klein…” He rattled off their names, even those in technical theatre that would have to watch the recording, by memory.
+
+Then Cooper stopped on Eppie.
+
+Eppie had no makeup on, so she could cry as much as she wanted.
+
+“And of course, Euphemia…” he said, to the Sophomore standing in the middle of all these Seniors, “same time next year?" The room laughed a little more just to break up the tears.
+
+“Thank you all for giving me your time and your talent,” Cooper said. “Whatever you choose in life, remember this—you did not become artists in LAPA. You arrived as one. What LAPA did, if we did anything at all, was make sure you graduated as one.”
+
+Someone started clapping, Eppie followed, then the whole room went, collapsing into hugs and damp eyes and noise.
+
+Eppie stepped back from the huddle, too guilty to share the moment. Valorie met her eyes from across the room, and the two exchanged their convictions.
+
+Somewhere underneath Eppie’s sternum, quiet as a held chord resolving, the floodgates of [Causality] opened.
+
+[All the World's a Stage] was active.
+
+The room didn't change. Nobody around her would ever know the exact second it happened. But she felt it move outward from her anyway, thread by thread, settling into the bodies of every person who'd just been hugging her half to death. Confidence and certainty flowed into Val's spine, into Nathan's breath, into Klein's shaking hands. Tears ceased to fall. Fingers stopped trembling. Feet no longer nervously tapped the floor. Lines that could have been forgotten were now branded into the students’ frontal lobes.
+
+The curtain hadn't gone up yet.
+
+But Titus Andronicus had already begun its prologue.

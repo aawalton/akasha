@@ -1,0 +1,305 @@
+---
+id: 1d919113-efb1-5375-b975-d908ad327734
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 676 - Waking, Sparring, Balance"
+slug: 0183-chapter-676-waking-sparring-balance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 183
+ownLength: 3517
+unit: words
+ownProgress: 3517
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3090804/chapter-676-waking-sparring-balance"
+royalRoadId: "3090804"
+markedReadAt: "2026-06-29T19:40:55.907Z"
+---
+
+Tala’s eyes snapped open, her mind fully awake at the barest hint of light on the horizon, radiating through the windows into their room.
+
+Rane was asleep beside her, curled around her and holding her close even in unconsciousness.
+
+With a minor flex of her will, she was standing beside the bed, a pillow moved into her place. Even so, Rane clearly noticed something as he contracted inward, squeezing the pillow close and rolling over, carrying the bedding with him.
+
+Tala felt the smile on her face as she regarded her husband for a long moment. Then, she sighed and willed herself away.
+
+Did we ever get a schedule, Alat?
+
+-Oh, good morning, Tala. Yes, it’s lovely to encounter you this day. No, I did not sleep, let alone well, but that’s alright. Did you sleep well?-
+
+Tala raised an eyebrow at the alternate interface, willing her food to appear on the table before her. Are you feeling a bit grumpy?
+
+-Not in the least, but we so rarely exchange pleasantries.-
+
+…Do you want us to?
+
+-No, of course not. That would be a waste of time.-
+
+As opposed to this conversation… Tala looked around her empty dining room, her eyes lingering on the cold kitchen for a moment. How many mornings had she come for breakfast only to find Mistress Petra finishing up, bustling about, happy and ready to chat for a bit.
+
+Sure, that meant that breakfast wasn’t quite ready, and Tala had to wait. This new way was unquestionably more efficient, but… she missed the Fused.
+
+Alat obviously knew Tala’s thoughts and interjected. -They’re doing well.-
+
+I know. I’ve read the messages, and we respond together. They’re getting time with their grandchildren and youngest kids… Tala felt a sad smile pull at her lips.
+
+-Yeah, I miss them too. This is more efficient, but it isn’t better…-
+
+But I don’t think requiring Kedva to be here would be the solution.
+
+-Oh, of course not. Right now, she’s making food for her own family. She treasures her time with them, and I imagine she’d choose to not work for us if we put that requirement on her. She’s not really fully a Talon, but she has that training and those few duties to work around as well. It is only her ability to fit in cooking in massive batches with her assistants that allows her to do it at all.-
+
+I know… Tala’s eyes lingered on the dark kitchen before she sighed and turned the other way. We could get an arcane cook.
+
+-Oh, yeah, that would be trivial, but do you actually want that?-
+
+…Not really? I mean, I’m not against it on the face of things, but I’m not looking to increase the number of people around just to have more people around. We’re going to have enough people around soon enough, regardless.
+
+-True enough.-
+
+The meal she chose was a fine-ground wheat, cooked with milk and seasonings until it was thick before sugar and cream were added. As usual, basically every ingredient was suffused with magics mirroring her own.
+
+In one sense, it was an incredibly simple meal, but Tala enjoyed it. She’d eaten the mundane version numerous times growing up, and she’d even made it for her siblings quite often when she was in charge of breakfast. -They’re doing well too. Fewer messages over time, but that’s to be expected. Their lives are filling up, and we aren’t really in them.-
+
+Yeah… She actually felt bad that she was more saddened by Mistress Petra’s absence than by the fact that she hadn’t seen her siblings in a while.
+
+Her eyes drifted to the image, prominent upon her dining room wall. It had been given to her and Rane as a wedding present from her family. Within it was set the aura of each family member, and they had kept it current, adding each new member whether through birth or marriage.
+
+In this way, she had a piece of her family with her, and she always would, but she was not with them… Honestly, Tala didn’t know if she longed for the people or the memory more. Like with Mistress Petra, she didn’t actually wish the woman could be pulled away from her life just to be with Tala in her sanctum once more, but she still missed her. She missed them.
+
+And now, some of the people were only in the image, and the Path of Remembrance. Her eyes rested on Illie then her father before drifting to others, taking some comfort in the sight and feel of them, if nothing else.
+
+Alat was patient as Tala contemplated, only interjecting once more when Tala turned her attention from the image and back to the view through the dining room windows.
+
+-But to answer your original question, about our schedule today, we have audiences for the various diplomatic groups starting just after lunch. Head Corinis has requested you join him for lunch to discuss various matters before you both attend to those meetings, and we have nothing else on the docket until then.-
+
+Tala nodded, enjoying the sweet, simple fare. “I think I have an idea, then.”
+
+-Oh? That’s a fun plan. Yeah, I can send messages to see about availability. Eskau Reidh should be up for a spar, and if Eskau De-arg is around, morning tea sounds like just the thing.-
+
+Thank you, Alat.
+
+-You are most welcome.-
+
+Tala pulled a mug of coffee to her hand as she watched the sun rise over her sanctum, opting for the warmth and comfort in her hands over the efficiency of willing the liquid directly into her mouth.
+
+Sometimes efficiency was not the most important factor.
+
+Sometimes inefficiency was paramount.
+
+* * *
+
+Tala stood in full armor, Flow manifested as a sword in her right hand, a white steel shield on her left arm, with a grid of reality iron woven through, just like she did with her armor.
+
+Before her stood Eskau Reidh, left arm glistening with a coating of liquid blood. The vestige somehow within the liquid—tied to magics that tapped into aspects of the blood—was the most obvious thing that stood out.
+
+Closer inspection however revealed just how much the blood was being treated as the primary portion of the union. Her curiosity got the better of her. “What is that blood from?”
+
+Eskau Reidh chuckled. “You know, among those in the upper reaches, that question is considered a bit of a gateway, a proof that you are truly paying attention to what is around you. What made you ask?”
+
+“It has inherent magic. Not natural magic, the spellforms aren’t in reality around it. The blood itself seems to have spellforms within it by its very nature. It’s clearly a harvest of some kind.”
+
+He nodded. “Well observed.” He hesitated. “Are you asking for yourself, personally, or as the Eskau of War?”
+
+Tala considered. “Does it directly affect your combat abilities?”
+
+The dragonling sighed. “Yes…”
+
+“Then, I suppose I must ask as the Eskau of War.”
+
+He gave a small smile and nodded again. “It is dragon blood.”
+
+She blinked a few times. “What now?”
+
+He gave a sharp-toothed grin. “Dragon blood. As part of my maturation, I traveled to the hoard-lands, deep within the Doman-Imithe. I distinguished myself among those who survived in that cycle, and I was granted a boon.”
+
+Tala lifted up her hands, forestalling him. “Wait, wait. There is so much in that which I don’t understand.”
+
+He shrugged. “That does not affect my ability to fight.”
+
+She huffed a laugh before sighing in turn. “Very well. Continue.”
+
+He shrugged. “So, as a boon, I asked for a jug of blood. I was initially refused, but when I showed that I had brought the jug along?”
+
+He chuckled, and Tala frowned, considering. “You’d planned on it from the beginning.”
+
+“Exactly. I came in, knowing I would earn a boon and planning on asking for exactly that. The sheer arrogance and greed amused the Great One, and so, she consented.” He shook his head. “Nearly killed me to get it back. Turns out her refusal had at least partially been an attempt at kindness, protecting me from the folly of youth.”
+
+Tala nodded slowly. “Something that magical? In the Doman-Imithe? It must have drawn every sort of thing the Doman-Imithe had to throw at you.”
+
+“Indeed. She twisted the rules to drop me off a mere hundred yards from the exit.” He shook his head slowly. “It took me a year to finally make it out.”
+
+She arched an eyebrow. “A year? Come now, Eskau Reidh. How could you sleep? What would you eat?”
+
+He shrugged. “I’ve no need to convince you. I’ve lived a long time, and no clutchling since has returned with such a prize. I’ve no need to lie to you nor any care whether you believe me or not.”
+
+She grunted. “Fine.” Tala bounced on her toes a few times. After some thought, she realized that she had no further questions that were likely to be answered. “Then, are you ready?”
+
+“Unless the esteemed Eskau of War has any further questions?” There was a twinkle in his eyes.
+
+“No. That is sufficient, thank you.”
+
+He nodded, raising his left hand and turning to stand in alignment with that arm, his body protected behind the protian weapon. “Close range combat only?”
+
+She nodded. “That should do well as the only limiter.”
+
+“Understood, Eskau.” He gave a head bow of genuine respect, then met her gaze again. “At your signal.”
+
+She smiled and spoke without delay. “Begin.”
+
+Tala lunged forward with a straight thrust, shield held perfectly positioned to cover the majority of her body, despite the fact that her armor rendered that redundant.
+
+Eskau Reidh pushed slightly with one foot, sliding across the ground far further and faster than he should have been able to, easily moving out of the way of her thrust.
+
+Tala turned the blade mid-motion, swiping sideways.
+
+He ducked below the strike, spinning and punching her shield with his unarmed hand.
+
+The blow itself wasn’t that powerful, but it carried with it magic that rippled across the outside of her body, not trying to subvert her authority over herself, while changing something in the air around her and the ground below her all the same.
+
+It was over and done so quickly that her power and authority didn’t really react in time. It wasn’t a question of power, simply one of precision. On an aura and authoritative level she’d been guarding against a slash to her head, and he’d stabbed her cloak instead.
+
+It wouldn’t have worked in the least if he’d targeted any part of her directly.
+
+He hadn’t, and the effect was immediate.
+
+The very air around her seemed to suddenly cling to her, having a consistency closer to water than air. If she’d needed to breathe, it might have been more than an inconvenience. She was more than strong enough to prevent the thickened air from being any more than just that.
+
+More annoying was the change to the ground, where her feet had a moment in which they couldn’t find purchase, her movements like one on perfectly smooth ice. It did only last a moment before she flared power into her surface area expansion scripts, gaining traction through quantity rather than quality of contact.
+
+Even so, the two mild annoyances added up to enough of a hindrance that he got around her guard, lashing out with his left hand, the blood forming something like a churning set of teeth that bit deeply into her armor, chewing out long strips even with his momentary contact.
+
+Tala flexed her will outward through the reality iron, resetting the concepts of friction around her less than a second after he’d upset them, but he’d still gotten a solid hit.
+
+She laughed, then flickered, appearing behind the dragonling, cutting down at his leg.
+
+Despite the widening of his eyes, which she was able to perceive despite him facing the other direction, Eskau Reidh was a warrior of incredible skill. He somehow sensed the target of her strike, pushing off the ground with that foot to jerk it out of the way before kicking back to perfectly hit the flat of her blade so it couldn’t cut at his other leg.
+
+Tala rolled with the hit, spinning Flow around to strike down at the man’s back.
+
+He twisted, bringing his left arm up, blood flowing up and outward as if poured on a table, spreading out to a wide defensive plane.
+
+Flow impacted and was rebuffed despite its cutting magics. Tala did not use void as that would be a bit… more damaging than was appropriate for a simple spar.
+
+Even so, she wasn’t done.
+
+She took the rebound in stride, twisting with the redirected force and punching forward with her own left hand, the shield shifting shape to have a punch-spike in line with her fist, Flow’s same magics manifesting around that weapon.
+
+It struck home hard.
+
+Magic flared around the point of impact, Eskau Reidh’s inscriptions acting to increase the toughness of his already massively resilient scales, allowing him to take the hit. Even so, Tala had put a lot of power into the blow, the impact throwing him away and flipping him around wildly.
+
+Flicks of magic changed something within the air around him, and he almost instantly righted himself, letting him land lightly a dozen feet away on his feet.
+
+Even so, he hadn’t been unscathed. He winced, glancing down at his side where she’d hit him. “Solid blow, Eskau.”
+
+Tala nodded, turning her helmet toward her own side where the gouges were filling in. “You as well.”
+
+He grinned, shaking himself and raising his left fist once more, this time sinking deeper into a fighting stance. “Again?”
+
+She grinned in return, even though she knew he couldn’t see it. “Again.”
+
+* * *
+
+As it turned out, Eskau De-arg was in the world fragment. He had been a bit annoyed to be disturbed, but apparently, once the apologies and abasement had been sorted, and the servant had explained the situation, the tiny Eskau had thanked the servant for informing him, and gladly agreed to have tea with Tala.
+
+She was to ‘pick him up’ from his quarters, and they’d go from there into the sanctum.
+
+It was thus that Eskau De-arg would be the first arcane—excluding Eskau Meallain as she was a prisoner and hardly counted—who would be welcomed into Tala’s sanctum since she’d escaped so many years ago.
+
+-Umm… Are you forgetting the fox-kin? You have many, many in here.-
+
+Oh… Huh… I mean, very few have come from Ironhold to here… and I guess I don’t really think of them as arcanes?
+
+-I… I think they’d be flattered?-
+
+Yeah… Let’s just keep this between us.
+
+-Sure.-
+
+Tala decided to try to allow him in with a bit of flourish. Hopefully it would go over well.
+
+She showed up at his quarters at the appointed time and knocked politely.
+
+A servant opened the door and bowed deeply upon seeing her. “Eskau, you grace us with your presence.”
+
+Tala gave a nod in reply. “Thank you for the welcome.”
+
+“Please come in, Eskau De-arg is ready for you within.”
+
+The door swung wider, allowing Tala to stride into the room, seeing only a single door directly ahead. Even so, the main room into which she entered was simple, yet spectacular.
+
+This seeming contradiction between those was rectified by it being a thing of degrees. To any mundane sight, the room would seem positively austere, actually matching the main council chamber in its smooth walls and sparse furnishings.
+
+This main room had a small dining table to one side with three chairs, all of tight-grained wood without even metal fastenings. A small buffet anchored the dining area, with dishes and other needed items tucked away behind simple, flat panel doors.
+
+On the other side, differently angled wooden chairs gathered around a low table, clearly a space for relaxing and entertaining. Again there were three chairs.
+
+A pair of bookcases flanked the seating area, each shelf only half filled with simple appearing tomes, held in place with ceramic and metal bookends.
+
+Again, though, this was all how it appeared to mundane sight.
+
+To Tala’s perception—all encompassing and enhanced as it was—things were very different, at least in kind.
+
+The walls weren’t made to seem smooth, they were perfectly smooth to the point that she doubted dust would be able to cling to the surface. Even so, they were still somehow worked to not be reflective, which was something that she didn’t understand in the least. Regardless, she pitied any insect that tried to climb the surface. Most glass was rougher.
+
+The chairs didn’t have metal fastenings because they didn’t need them. Every joint was a masterfully crafted interconnection of the various pieces of wood, designed to flex and maintain both strength and cohesion with the expansion and contraction of the material. That level of craftsmanship held for every wooden piece in the place.
+
+Tala had seen things of this nature before, but generally, it was done with different colors of wood, or otherwise treated in ways to make the intricacy stand out and highlight the craftsmanship. In this case, that skill was required all the more to hide its usual hallmarks.
+
+The floors were perfectly textured to allow both easy footing and easy cleaning, the grooves designed and laid out so that a bucket of water dumped in the center of the room would wash across most of the floor, seemingly to be diverted around the position of each leg of furniture.
+
+I guess they don’t rearrange often?
+
+As she looked closer in that long moment, she realized that the amount of wood on either side of the room was exactly equivalent. As she considered further—the idea of balance coming to the forefront—the number of boards used was equally divided between the sides of the room, the number of cuts seemed to be equivalent, and so many other things seemed to be in perfect balance.
+
+Similarly, the books and bookends balanced the plates, utensils, and linens in the buffet.
+
+If this room were balanced on a razor’s edge down the centerline, it wouldn’t tip either way, and as she noticed more and more symmetries like that, she suspected that what lay beyond the single door ahead of her likely contained similarly balanced aspects.
+
+-He’s pushing for mastery. He’s trying to utterly suffuse himself within balance.-
+
+So it seems, yeah.
+
+The servant crossed the room—walking straight down the middle—and opened the other door, which swung in counterpoint to the entrance, again seeming to create balance.
+
+Eskau De-arg had been sitting within, but his large round ears were already oriented toward the door, clearly both expecting and likely having heard her arrival.
+
+Even so, he rose only after the servant spoke his name in hushed tones. They exchanged appropriate bows. The diminutive Eskau then picked up his long staff—the c-shaped end exactly as Tala had remembered—and walked her way.
+
+The servant closed the door behind the Eskau, leaving them in privacy.
+
+“Eskau Tala. I am told that congratulations are in order.” He bowed deeply.
+
+Tala bowed in return, if to a lesser degree. “Eskau De-arg. They are.”
+
+They both straightened, a silence falling between them for a long moment before he spoke again. “Congratulations.”
+
+“Thank you. I hear you are nearing advancement?”
+
+The bear-kin sighed at that. “I wish that it were so. I seek inner peace, but the birds flap so loudly.”
+
+Tala arched an eyebrow, only now remembering how the little arcane liked his obscure, often seemingly nonsensical phrases. “You could… disable your hearing.”
+
+He shook his head. “A thing destroyed is hardly in balance.”
+
+“Fair, I suppose.” She considered. “Is it possible that in seeking inner peace you are missing an inner piece of yourself?”
+
+He gave her a flat look. “Advancement is not about word-play, Eskau Tala.”
+
+She shrugged, smiling. “That’s not been my experience.”
+
+His eye twitched. “I suppose that we are all different. Truths that elude one can be clear to another. Your gated nature would make that truth more so for you than others.”
+
+Tala grinned back. “Well, given your difficulty, perhaps that different perspective is what you need?”
+
+He sighed. “This is going to be a long morning, isn’t it?”
+
+“I have to balance out the excellent tea and treats I will be offering you somehow. That doesn’t even mention the secrets and revelations I will be sharing. After all, I wouldn’t want to hamper your advancement.” Her grin widened.
+
+He closed his eyes and rubbed at his temples, his massive ears shifting with the motion as well. “To think, I actually thought I missed you.”
+
+She chuckled. “Come. We’ve tea waiting for us.” She gestured and opened a portal into her sanctum, allowing some of the power to flow outward. “After you.”
+
+His eyes widened, his mouth falling slightly agape. “What is that?”
+
+“Secrets and revelations, Eskau De-arg. Secrets and revelations."

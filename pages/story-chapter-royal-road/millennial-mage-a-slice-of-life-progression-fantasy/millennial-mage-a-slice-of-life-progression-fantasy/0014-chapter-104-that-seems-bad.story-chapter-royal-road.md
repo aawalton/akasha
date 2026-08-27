@@ -1,0 +1,301 @@
+---
+id: dd235413-87a2-5ee0-999e-9ac1e09eb511
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 104 - That Seems Bad"
+slug: 0014-chapter-104-that-seems-bad
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 14
+ownLength: 3891
+unit: words
+ownProgress: 3891
+publishedAt: 2022-04-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/882923/chapter-104-that-seems-bad"
+royalRoadId: "882923"
+markedReadAt: "2026-06-29T19:35:44.580Z"
+---
+
+The second day of the venture to Makinaven was much like the first, excepting crystal entities and arcanes and Archons dropping through.
+
+The guardsmen drove off more than a dozen arcanous creatures, varying from the quite common thunderbulls to a few massive reptiles. One of those seemed to have been stalking one of the thunderbull families and took exception to the guards having driven them off.
+
+Rane took care of a half-dozen more minor threats to their progress.
+
+Tala never left the wagon top.
+
+Instead of begrudging her restriction, after all she could see that Mistress Odera was correct in every instance, Tala kept a ready watch on their surroundings, usually being among the first to notice any potential threat. All the while, she continued her study of Holly’s texts. She wanted her knowledge surrounding her inscribings to be as deep and thorough as possible.
+
+They made camp late that afternoon, just more than two hundred yards from the close edge of the reaching canopy, far overhead. The hard part of the journey would start the next day, it seemed.
+
+The forest was an interesting presence beside the camp; the trees, starting at almost a hard line, were taller than anything she had ever seen, short of a mountain. Their branches spread out wide, interlacing with those around them. Their shape seemed much more like maple trees than pine.
+
+Even the somewhat shorter specimens, at the near edge, were tall enough that Tala thought they might be able to strike the wagons, should they fall their way.
+
+Let’s hope that doesn’t happen… She could probably catch such with a Restrain, but she’d never attempted to affect something that large, before, and Restrain was a more complex working than Crush.
+
+Yeah, I could Crush a tree no problem, but that wouldn’t help us if it were falling our way. She put it out of her mind, though, as it was quite unlikely in any event.
+
+Rane and Tala sparred before dinner, to the great enjoyment of the passengers and off-duty guardsmen. Their display caused more to brave the cold for longer periods, many opting to eat their dinner while continuing to watch.
+
+Eventually, however, night had truly fallen, and Tala had eaten a quadruple portion of dinner. Pasties never get old.
+
+Tala was given the first part of the night-watch as Mage protector, and Rane and Mistress Odera bid her goodnight. Mistress Odera gave her several bits of advice and requested that she be roused if anything of note seemed to be happening.
+
+Tala agreed with a smile.
+
+That first part of the night passed with similar non-issue. Terry slew a night puma, a great cat that used shadow magic to stalk its prey.
+
+He detected it, somehow, and slew it outside of the area between the wagons, near the edge of where she could see in the poor light.
+
+He also ate it before Tala could notify the guards to log the encounter. When she checked with those on duty with her, none had seen the beast, to corroborate the kill. Ah, well. At least he got a meal out of it.
+
+She still found it marginally intimidating when Terry swallowed things much larger than his standard form. The night puma had been more than eight feet in length, nose to rump, and Tala would have guessed it weighed more than she did, even accounting for her gravity enhancement.
+
+Still, it was handled. No issue at all.
+
+She hesitated at that. Is there no issue, because nothing has happened, or do I think there’s been no issue, because the arcane returned, and removed memory of such?
+
+She shivered at the thought, causing Terry to shift on her shoulder, though he didn’t open his eyes.
+
+Well, I suppose if it had returned, it would have manipulated me, causing me to not even consider its interference. Great, so she only had to worry about the arcane’s involvement when she didn’t consider that it could have been involved.
+
+She felt her left eye twitching. “Tala… you are making yourself crazy. You cannot possibly allow that to be how you think of this…”
+
+She shook her head. All I can do is keep on, and resist anything that I can.
+
+It was small comfort, but it did seem to help.
+
+When Rane took over the watch around midnight, Tala gratefully slipped into sleep atop her reinforced cot, happy to end an unremarkable day and happy that it had been just that.
+
+* * *
+
+The next morning, after her daily routine, a sparring session with Rane, and breakfast, Tala noticed Mistress Odera walking her way.
+
+“Mistress?”
+
+“Good morning, Mistress Tala. Walk with me, will you?”
+
+“Sure.”
+
+Tala fell into step beside the much older woman, moving towards the forest. “What do you know of this forest?”
+
+She thought back to the information she’d read up on in preparation for this trip. Summarize, she doesn’t need a recitation of all of that. “It’s full of magic, though not specifically in the air. The trees have more power than those in other low-magic regions, and there are more arcanous creatures than on the open plains. I haven’t looked closely at the trees’ power-flow, though.” Her magesight had noted it at a great distance, and she hadn’t focused on it since.
+
+“Go on.”
+
+“It’ll be colder? Not much direct sunlight reaches the ground. There aren’t established roads through the trees, obviously, so the travel time is much less certain.”
+
+“All true.”
+
+“Almost no undergrowth? The trees deeper in grow massive and block even more of the sun, leaving the forest floor mostly bare of vegetation.” She looked up at the trees which literally scraped the sky, uplifting branches creating trailing crevices in the lowest clouds as they moved past.
+
+Mistress Odera nodded. “So, you know the basics.”
+
+“They are as big as I was warned.” Tala grunted. “Even yesterday, I thought I was just mis-seeing, somehow.”
+
+“They truly are spectacular. The Mezzannis used to make their homes in these trees.”
+
+“Mezzannis?”
+
+“An arcane species. Never enslaved humanity, per se. They were one of the few to completely collapse when we gained our freedom.”
+
+Tala frowned. “That’s terrible. We wiped out an entire race, which wasn’t doing us any harm?”
+
+Mistress Odera quirked a small smile. “They didn’t enslave us, Mistress, because you don’t put your beef cows to work in the fields.”
+
+Tala hesitated, narrowing her eyes at the older woman. “Wait…”
+
+“The Mezzannis subsisted on ambient magic and human flesh.”
+
+Tala shuddered. “I feel like you purposely led me astray, there.”
+
+“Of course I did. I was curious how you would react to the elimination of a supposedly peaceful people.” She nodded, her smile growing. “I am glad of your response.”
+
+“So… All gone?”
+
+“Gone? No, but the decrease in magic, both natural, ages ago, and then that induced by our cities, caused the majority to wither away into lesser versions of themselves, all those that didn’t die outright.”
+
+“So…most are not dead?”
+
+“Some melded with the great trees, losing most of their sentience, and all of their sapience, in order to live on. It is because of them that these giants can move on occasion, though rarely while observed. That is one added difficulty in traversing this part of the human wilds.”
+
+“…the trees move. Like an ending-tree? They’ll try to hit us? Or, do you mean…?”
+
+Mistress Odera gave a small smile. “The trees can migrate. They move through the ground without truly disturbing it, and often reposition to hamper travel through the region using either trunk or roots as barriers. Though, they aren’t clever or inter-connected enough to block the route entirely. When humans aren’t around, those that can move tend to drift away from each other, making it less obstructive over time.”
+
+And now the references to varying routes and lengths of travel make a lot more sense. She hesitated. Wait… “You said that some of them melded with the trees, but not all?”
+
+“No, not even most. Most that still remain are no longer conscious beings. They are arcanous humanoids. We call them Leshkin.”
+
+Leshkin? This is their original home? I knew that some were found here, but this is where they come from? She found herself giving an involuntary shiver. The Leshkin waged a mindless war on humanity every millennia, or so. Now that I think about it, wasn’t the last one almost that long ago? She thought through her memories of the various informational texts she tried to devour in the last week, adding them to stories from her youth. Maybe a hundred or a hundred and fifty years out if the pattern holds. “That isn’t great, is it.”
+
+Mistress Odera shook her head. “Pernicious creatures. From what we’ve learned, each has a heart of sorts, hidden well beyond human reach: a seed from which they will re-grow if killed. As such, they lack even animalistic instincts for survival. Any that catch wind of us will attack and will continue to do so until they are obliterated. They will not retreat and cannot be driven off.”
+
+The two women stopped walking, a bit past half-way between the wagons and the forest edge.
+
+“Their hatred of humanity is deeper than even the arcanous animals’ aggressive instincts.” Mistress Odera’s eyes flicked to Terry. “Your companion will have some trouble with them, as their form is nothing more than animated, magically altered vegetation. You will have trouble because that plant matter has a caustic sap flowing through it, under high pressure.”
+
+Tala had read of that. “Wouldn’t that be an issue for anyone?”
+
+“Of course, but most people are used to being wary, of being in danger. You are accustomed to being invulnerable.”
+
+Tala found herself nodding. “Noted. Acid will definitely stress my inscriptions more than a sharp cut or blunt hit, but I should be able to endure, so long as I’m not submerged, or the like.”
+
+Mistress Odera gave her a long-suffering look. “Funny you mention submersion.”
+
+Tala did not like the woman’s tone. “Oh?”
+
+“There are, on occasion, pit-traps filled with their sap, usually in hollows. A misstep will break through the thin layer of turf and drop the unlucky into wells of acid.”
+
+“That’s just lovely.”
+
+“Quite.”
+
+Tala sighed. “I have been thinking about releasing my increased weight. It’s very useful in some few circumstances, but not many. In all others, it’s actually pretty irritating to deal with. Do you think that wise?”
+
+Mistress Odera hesitated. “Possibly. There are creatures that will snatch a person up, and carry them up nearby trees, and they are more numerous than the pit-traps. Your weight would be an advantage against such foes.”
+
+“Certs, right?” Human-like in form, but much bigger and with much shorter legs, proportionally. As a result, they were just taller than humans, on average, and they could easily run on all fours, while remaining mostly upright. Their heads were more like elk or rams, with horns or antlers, depending on the subspecies. Their feet were as dexterous as their hands, and they moved through trees more easily than a horse ran across open plains. Tala glanced up at the canopy before them. Yeah… that could be…bad.
+
+“That’s correct. They can survive a fall from the canopy and are known for attempting to drop directly onto wagons, or oxen.”
+
+“Great, so keep my eyes above us, too.” As expected, I suppose…
+
+“The guards are very good at watching for branches moving irregularly, but if you can, keep your magesight perceptive in that direction. Yours is always active, correct?”
+
+“It is.”
+
+“Good. That should help, as well.”
+
+Tala nodded. As she thought about their talks, a question came to mind. “So… Leshkin are about human in size. What should I watch for, specifically? Are there any common signs of their presence or approach?” She’d studied many creatures from this region, but she knew that her knowledge wasn’t complete.
+
+“Lesser Leshkin are closer to child sized. Though, if two combine, they will match a grown man in height and bulk. As to your question, they move about in human form, most of the time. Otherwise, watch for fast-growing plants, filled with unusual power.”
+
+“Hold on a moment, combine?”
+
+“Oh, yes. Two of the lessers can meld into a warrior. Those even use wooden approximations of human weaponry, blessedly mundane, but made of some wood that leaves them more effective than any human metal.”
+
+Tala nodded. Ingrit’s list had Leshkin weaponry as one of the most lucrative harvests on this route. Tala had read about the warriors, but she’d missed the part where they were just combined lesser Leshkin. Too much variation and nuance to fully read up on, in advance… “Can two warriors join? Wait,” She shook her head. If the pattern holds, “that’s a Leshkin knight, right?”
+
+“Correct. They have something akin to plate armor, but again from mundane, if sturdy, wood. Some knights will have magically enhanced weaponry or armor.”
+
+“And two knights…” Tala thought back. “A juggernaut?”
+
+“Precisely. Twice the height of a man, everything they use is strongly magically empowered. If we attract that much attention, we are in a lot of trouble.”
+
+Two to a warrior, two of those to a knight, and two of those to a juggernaut. “That’s just eight. Eight are so much trouble?”
+
+“Only if they have time and forethought to join. It isn’t instantaneous and the process seems to require connection to a great tree for magical energy. It usually only happens if there isn’t an easy chance for them to attack, so they take time to prepare before joining the battle.”
+
+Ok. So, that’s why the information I found discussed how to counter groups of the lessers. Groups won’t be combined as much as possible.
+
+“The lessers are much faster, so they usually try to soften up a target first, or act as distractions, when units fight together.”
+
+Historical enemy of mankind, indeed. “So…why do we have cities in here?”
+
+Mistress Odera snorted, humorlessly. “Because the cycle of cities through this region is all that beats them back, even if just briefly. The centuries, between when the last forest city fades and we establish the next, see the Leshkin swarming deeply into the plains. They are more an annoyance than anything, but they make every route, every city, less safe.”
+
+And the last forest city will wane in a little over a century and a half… That lined up with her understanding of historical conflicts with the Leshkin. “Alright. So, what else will we be facing in there?”
+
+They spent a few more minutes discussing what to expect.
+
+Belatedly, as they were finishing up, Tala asked. “Shouldn’t Rane have been here for this?”
+
+“We already talked. He fills a much more standard role as a protector and has read up on the proper actions and strategies for someone like him on this route. You are a bit out of the ordinary.”
+
+She grunted. “I suppose I can see that.”
+
+Mistress Odera met her eyes with a searching look. “So, I noticed that you didn’t do any practice with your new gravity manipulation, yesterday.”
+
+“I thought it better to focus on the caravan and improving the efficiency of the inscriptions I already have active.”
+
+Mistress Odera gave her a long look, then shook her head. “Oh, child. You really are trying, aren’t you.”
+
+Tala frowned in irritation. “What’s that supposed to mean?”
+
+Mistress Odera waved her off. “Unimportant, now. I want you to begin practicing as soon as we get underway. Keep your eyes out, but work on using that inscription. Until you have it under control, you are working with an incomplete powerset, right?”
+
+“True enough.”
+
+“I’m heading back to take up my post on the cargo-wagon. Why don’t you take a more detailed look at the trees with your magesight, then join me?” After a moment’s pause, she added. “Don’t get closer. Don’t start an engagement with anything, if you see it.”
+
+Tala nodded. “As you say, Mistress.”
+
+Mistress Odera moved back towards the caravan, and Tala, for her part, turned to regard the giant trees before her. She focused, allowing her magesight to really dig into what she saw.
+
+Her eyes immediately widened in shock.
+
+Each tree seemed to have sent its roots further down than she could easily discern, as well as so far out that she stood well inside the radius of their reach, even though the canopy ended another hundred yards in front of her.
+
+That wasn’t what had evoked the reaction, however.
+
+Power. The forest was drawing in power from all around it, almost like a human city. Most of what she could see flowing into the forest came from deep in the ground. The trees, after using some of the power, seemed to release the rest from the tips of their branches, to fill the air.
+
+Even so, the magic didn’t stay there long, and the results weren’t even half as concentrated as the magic around Alefast. The power in the air seemed to be steadily flowing deeper into the forest. Towards Makinaven.
+
+How dense would the power be, if the city wasn’t here to lessen it? She shivered at the thought. So, anything in there will be more power-dense than the arcanous beasts of the plain. That was a lovely thought.
+
+She briefly wondered why the Archons hadn’t just burned the whole thing down, but as she considered, she doubted that the arcanes would allow such, and the action might even bring some of those uninterested in humanity down upon them. We’re in a strange stalemate. We have to defend ourselves, but we can’t do anything that’s too effective, or we could be starting an active war that we couldn’t win.
+
+She grimaced. The more I learn, the more I wish I’d been content with ignorance… She snorted at that. She knew, very well, that even if she could go back, she wouldn’t. Blissful ignorance is a false paradise.
+
+She sighed, moving to turn back towards the wagons when Terry perked up, his eyes locked on the trees.
+
+Tala followed his gaze and saw what looked like a pile of flowers, slowly growing up from the forest floor, near one of the closest trunks.
+
+Her magesight showed a complexity of power that she couldn’t comprehend at this distance, and she almost moved to investigate. Is that what Mistress Odera meant?
+
+Thankfully, her better reason prevailed, and she stayed put. It’s not because Mistress Odera told me to stay back. I’m choosing the wiser path on my own.
+
+Once the flowers had reached a height roughly equal to Tala’s chest, they condensed, forming the shape of a small person, eyes of vacant darkness regarding her from its place, near one of the closest trees. Though Tala’s normal sight saw only unending night in those black holes, her magesight saw blazing beacons of power. Is that what I looked like to others?
+
+The depictions she’d seen in informational tomes did not convey the wrongness of the creature. I really can see detail at a crazy distance… She’d not encountered many instances where she focused so closely at something so far, but that was hardly the most pressing thing, at the moment.
+
+The thing tilted its head to the side in clear confusion. Don’t anthropomorphize, Tala.
+
+The small form continued to look her direction for a long, silent minute. Finally, it slowly began walking forward. Its movements were fast, but jerky. The result was faster than a quick walk but looked more akin to a puppet’s movements than that of a man. A puppet controlled by a drunken child…
+
+“Terry, go get Mistress Odera’s attention.” Tala began walking backwards, unwilling to put her back to the advancing creature.
+
+Terry vanished. The flickers of dimensional power behind her indicated that he was doing as she’d asked. At least, I hope so.
+
+She moved with careful but quick steps. No reason to trip while escaping that horror… As such, the flower-being was gaining on her, steadily, leaving dragging, irregular footprints in the snow. Even so, it didn’t, yet, seem hostile. More than anything it seemed…curious?
+
+It can’t see me properly. Do I look like one of its own…? Why doesn’t it see the caravan?
+
+Tala was about fifty yards from the caravan when the Leshkin reached the edge of the overhanging canopy. When it did, it froze in place, head jerking back and forth, seemingly seeing the caravan for the first time.
+
+It threw its mouth wide, thorn-like teeth growing larger, stretching towards the center of a wholly inhuman, circular maw. A screech, high and wild, issued from the churning depths. Blessedly, there were no answering cries from behind it, within the forest.
+
+The flowers of its exterior shifted into a pattern reminiscent of scales, and much larger thorns sprouted from its fingertips and toes.
+
+Without warning, it rocketed forward with a sudden burst of speed, leaving a trail of flower petals in its wake.
+
+The being seemed to have forgotten Tala, and was aiming to pass her by, seeking the caravan.
+
+Yeah, no. Tala drew Flow, connecting void-channels to it as she pulled it free.
+
+The weapon blossomed into a sword, and the Leshkin seemed to take notice, but didn’t alter its path.
+
+It whipped past her in a rush, Tala striking out and cutting through it with seeming ease.
+
+Behind her, the Leshkin sprayed a bubbling yellow fluid from the cut Tala had made in its side.
+
+Some of that acid splattered Tala’s back, immediately eating through her elk-leathers, and began burning at her skin. Why aren’t the ending-berries stopping it? The part that missed her sizzled through the light layer of white snow.
+
+Allowing a moment’s distraction, she looked within. Tala saw that something about the creature’s blood was pushing against her magical defense, moving the ending-berry power back more effectively than that of her inscriptions.
+
+Tala growled, spinning around to face the creature. She bent her will towards her ending-berry reserves and forced that magic back into the areas still under assault by the acid.
+
+The power began diminishing but not too quickly. That removed the strain on her inscriptions and most of the strangely burning itch. Well, Xeel did imply that I’d have trouble with some of the forest creatures… And hadn’t Ingrit mentioned something along those lines, too? She definitely mentioned the Leshkin, but I don’t think she discussed their effect on ending-berry power. But ending-berries had fallen out of favor during a Leshkin war. I think I might be starting to understand why.
+
+Tala fully faced the Leshkin as it tumbled to a stop, immediately picking itself back up and facing her in turn. It hesitated, seeming to examine her, before glancing over its shoulder, the head turning far more than a human neck could.
+
+It shrieked again, spinning and launching itself towards the caravan.
+
+Tala cursed. That…that seems bad.
+
+The guards had seen the beast, now, and Mistress Odera was clearly looking their way from atop the cargo-wagon.
+
+A single quarrel thwacked into the creature’s chest, and Tala saw the scripts on the shaft’s length ignite, inverting the Leshkin’s power for use against the beast.
+
+The Leshkin lost all cohesion, the blooms exploding outward to be carried back into the forest by a wind that Tala couldn’t feel or detect.

@@ -1,0 +1,181 @@
+---
+id: e1af2e4b-3568-57b8-9d9f-87b393a958b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 – Supply Run – Pt 4"
+slug: 0032-chapter-32-supply-run-pt-4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 32
+ownLength: 2167
+unit: words
+publishedAt: 2024-12-21
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1968553/chapter-32-supply-run-pt-4"
+royalRoadId: "1968553"
+---
+
+Jogging to the crack in the cavern's wall, Kindra followed Gleon inside. The mana hung thick in the air. She waved her arm through it and tried to will it into herself.
+
+The mana swirled around her but didn’t surge inward. Darn.
+
+Moving down the passage, Kindra looked down at the stream. It burbled along the rocks, and the passage got smaller. I am not swimming through some underground stream without a scuba suit. She ducked through a small tunnel, barely avoiding a plunge.
+
+Gleon embraced it, wading through the water without a care in the world. Walking out the other side, he shook himself off, sending droplets raining everywhere.
+
+“Nice skill,” Aika said, a smirk on her face.
+
+“Get down here, you little devil,” Gleon yelled, splashing water at her. Aika shot upward, and Kindra emerged, cold water dripping off her.
+
+She scrambled out and tried to mimic Gleon, failing to shake the water off. It dripped around her, and she followed down another passage. This is not like the video games. She wiped water and followed a ledge above the stream.
+
+Gleon did the same, avoiding the stream below, moving along ledges and outcroppings. Stepping lightly through a puddle of muddy water, Kindra peered into the cave. I thought there’d be more monsters and more loot. This dungeon’s a real downer. She followed him, and the tunnel narrowed, leaving two tunnels: one with the stream and another small tunnel with a breeze blowing through it.
+
+I’m not swimming. She let out a breath and followed him into the breezy tunnel. Walking into it, Kindra hunched over and was forced lower and lower. Eventually, she crawled, bumping along the stones with increased gratitude for the stamina boost.
+
+Aika zipped ahead, and Kindra followed the dwarf in front of her. He wriggled through a tight spot and burst into a small tunnel. Kindra wriggled through and looked at the tunnel. Stone pillars and pick marks lined the walls.
+
+“An old mine then,” Gleon said, sniffing the air and holding up his finger.
+
+“The breeze is that way.” Kindra pointed down the tunnel.
+
+“Yes, but there’s something.” Gleon sniffed again.
+
+Kindra did the same, smelling stone and water. I don’t smell anything—can you improve that? She looked over, and he walked down the tunnel. She followed. The air grew stale. The mana clung to the walls, and she ran into what was once an old cart. Now, it was lost to time. The wood was gone, a pile of dirt next to corroded axles and wheels. I could use that for bullets. Walking up to it, she tapped it and flooded mana into it, turning it into a lump of rusty mess. Stashing it, she continued down the passage, following Gleon.
+
+The tunnel narrowed and tapered off entirely. Kindra used Scavenger’s Sight and peered at the wall. Any iron? A soft green glow shone from the wall. She walked over to the iron ore they’d been following. “There’s iron ore.”
+
+Gleon nodded. “Aye, and nothing else. Come on, now.” He turned and walked away, leaving the room.
+
+Kindra spun and followed, walking back to where they’d entered. A strange smell lingered in the air. The hair on her back stood, and she felt something stir. The mana itself shifted, pulling and knitting together like some strange loom. Strands of it wove together, and Gleon gasped.
+
+A dwarf made of pure mana stood there. His eyes glowed, and he opened his mouth. A stream of magic poured out. Icy air flooded the hallway, and Kindra’s instincts took over. She grabbed her mana, formed the runes for a shield, and flooded the spell.
+
+The shimmering barrier snapped into place, and the magic crashed into it, coating it with ice and frost. The glowing, ghostly dwarf dashed forward, conjuring a blade of mana. He slammed it into the shield, and her magic shattered, turning into ribbons of light. Ice and frost swirled through the air, sending a shiver down Kindra’s spine. Pulling out her crossbow, she stepped back, and Gleon charged, slamming his axe into the figure. Streams of magic leaked out, carried on a blast of icy air.
+
+The phantasm slammed its blade into Gleon’s axe and kicked out with a foot, catching him in the stomach and sending him lurching backward.
+
+Kindra fired, sending the loaded bolt zipping through the apparition. It didn’t seem to care a bit. No mana leaked out, and it charged Gleon with frost billowing around it.
+
+How do I hurt it? Kindra scowled and reloaded.
+
+The apparition slammed into Gleon, its blade slicing deep into him. Blood poured from his side, and Aika’s spear blurred, slashing into it repeatedly. The tiniest bit of mana leaked out.
+
+Stowing the crossbow, Kindra dashed forward, pulling out the spear and stabbing it in the back. Mana wafted around her. The apparition turned, and icy magic licked around it.
+
+Lurching away, she felt the cold. It pushed into her, ripping away the heat and her strength. No. No. Shivering, she slammed counter runes into place, and the apparition charged.
+
+Impaling itself on her spear, it brought the blade down, and she dove, rolling to the side as the icy blade nicked her side.
+
+Icy agony rippled through her. Kindra gasped, and an axe slammed into the phantasm, hacking away a massive piece of mana. Howling, the apparition spun toward the enraged Gleon. He slammed his axe into it again.
+
+Looking down, Kindra felt blood oozing from her side. How do you fight that thing? She forced herself to her feet, and Aika zipped back in, hacking and slashing at the apparition.
+
+Gleon spat a mouthful of blood and slammed his axe into it, carving off a massive piece. Raising her spear, Kindra brought it down, severing an arm. The arm disintegrated, unraveling as it fell.
+
+Like ribbons of light, Kindra saw a stream of runes. They danced along the skin as they faded. The creature hissed, spun, and an axe took off its head.
+
+Mana burst through the room like a small explosion. It flooded through her, the walls, and everything. Kindra blinked away the dazzling display and looked down at her bloody side. Shit. She searched for a bandage while the adrenaline faded, leaving pain. Cold, aching pain that spread through her bones.
+
+Gleon groaned and slumped against the wall. Kindra did the same, dropping to the ground. Her heart thundered in her chest. The smell of blood lingered in the air, and she felt warm blood pouring down her side. This was a bad idea. She looked at the stone ceiling and clenched her teeth.
+
+“Take this to her,” Gleon muttered.
+
+Aika zipped up with a small vial in her hands. She held it out, pushing it against Kindra’s lips.
+
+Reaching up, Kindra forced herself to drink it, swallowing back the strange fluid. Tasting like a dose of spicy unknown fruit, the liquid flowed into her and surged, sending warm pulses of energy through her body. The flowing blood stopped. Her flesh mended itself together, and text appeared.
+
+[Healing Exhaustion: 11%. - All magical healing applied to you will be reduced by 11%.]
+
+That’s a thing? She stared at the text.
+
+[Yes. Healing capacity scales based on stamina.]
+
+Huh. Well, add that to the tutorial too.
+
+[This information has been added.]
+
+Kindra willed it away and looked at her side. Blood covered it, but the pain had faded. She poked the new skin with her finger. I should get some more stamina.
+
+“Gotta teach her to make those potions,” Gleon muttered and stood. He groaned. “Rotten magic spawn. They’re the worst.”
+
+“Where’s the loot?” Kindra frowned and didn’t see anything left behind. She willed her mana up.
+
+[Mana: 3550.]
+
+I didn’t get mana? Boo! Terrible game!
+
+[You don’t get mana from such creations until you leave the place.]
+
+What other rules should I know about?
+
+[Items can form, but they are rare. You can find magically imbued items in such places. Magic may also test you to see growth.]
+
+Kindra cleared the message away, and a muscular hand reached down. She reached out and took it.
+
+Gleon pulled her up and frowned. “Be careful of those. They’re very dangerous.”
+
+“Sorry.” Kindra wiped the blood from her hands and looked at her dress. Reaching down, she used a slight amount of mana and Transmutation to mend it before jogging up to Gleon. We need a better way to fight those.
+
+Maybe enchanted gear works better. I need to get some of that. She followed Gleon. The tunnel slowly wound upward and opened into a large cavern filled with pillars. The sound of feet on stone filled the air, and Kindra’s heart sank. Canine-sized rats turned, their beady white eyes focusing on the group. Their mouths opened, revealing massive teeth.
+
+You have got to be kidding me. Kindra stepped away from the pack of mutated, enlarged rats. I need a machine gun. One of them squealed and dashed forward, its massive body moving with surprising speed. The rest of the rats followed. Dozens of them poured out of tunnels, a small waterfall of ragged fur, fangs, teeth, and tails.
+
+Kindra hefted her spear, taking another step back. Gleon bellowed and sprinted forward. Aika joined him, buzzing by with a look of glee.
+
+“You’re as bad as he is!” Kindra took another step back.
+
+“They’re on the ground and helpless!” Aika stabbed one, ripping her spear into it. “Make a wall if you need to.”
+
+Willing her spear away, Kindra pulled out the crossbow and loaded it. At least this will work. Ratcheting back a bolt, she looked out and saw the carnage. Gleon was blurring through the horde like a weed whacker. Blood and guts sprayed around the stone room, decorating it in gore.
+
+The smell of blood filled the room, and the rats swarmed, engulfing Gleon in a small sea of fur and gore. The sea frothed and turned bloody, bits of meat, fur, and bones spraying from it.
+
+This is disgusting. Kindra lowered the crossbow, not knowing where to aim. She watched rats bite and claw at the dwarf. Gleon did not care; he spun and cleaved, hacking the rats to pieces.
+
+Aika zipped around, stabbing wildly. “You do this every time!” she chided him.
+
+Gleon laughed. “Only way to feel alive.” He punted a rat into the stone wall. Bones cracked, and the rat dropped.
+
+Absurd stamina. Kindra stepped back, and a rat turned toward her. She fired, sinking the bolt into it. Loading another, she watched the carnage. The two painted the cavern in blood, the smell hanging thick in the air. This would look even worse if I could see the color in here.
+
+As the last rat slammed into the wall, Kindra stepped forward, her focus shifting between the rats. A few twitched. Connections formed to several, and her mouth watered. That’s going to get old. She looked at the blood-covered dwarf. Would he care if I took it?
+
+Gleon grinned and shook, spraying blood across the room.
+
+“Disgusting,” Aika said, flying high above.
+
+“How much of that blood is yours?” Kindra asked.
+
+He shrugged and wiped the gore from his face. “Dunno, but it shouldn’t matter.”
+
+“How do you not get sick?” Kindra asked, stepping forward.
+
+“Stamina. Stamina and strength are my two stats. I have a little in the others, of course. Gotta keep some balance.” Gleon grinned and picked up a rat. He tossed it to her. “Eat it. Heal. Take the mana.”
+
+“Don’t you want it?” Kindra asked, looking down at the rat.
+
+“Yes, but I need you alive.” Gleon grinned and looked at Aika. “She’s the ticket to our freedom, and I’m taking it. That means you need to level.”
+
+“I already told you,” Aika said, rolling her eyes. “I don’t know how to contact the fae.”
+
+“Yet. You don’t know yet.” Gleon chuckled and walked around the messy chamber.
+
+“Key to their future?” Kindra probed.
+
+“Yes. The fae had the strongest mages. He wants them back here.” Aika flew down.
+
+Kindra reached out and pulled. The mana poured into her like a river. She gasped and leaned against the wall, watching Gleon search for anything interesting.
+
+[Your mana has increased: 3550 → 3761.]
+
+Taking a deep breath, Kindra turned to Gleon. “How strong are you?”
+
+“Ah. That question, finally.” Gleon smiled. “Some consider it rude, but we’re family. I’m over two hundred now, two hundred and forty-one to be exact.”
+
+“How do you get hurt at all?” Kindra asked with wide eyes.
+
+“It takes a lot of stamina to stop everything, everything. But the birds and rats? Nah.” Gleon stopped in front of a mine shaft. “Ready?”
+
+“One second.” Kindra walked up to a rat and burned mana, creating several leather pouches, bags, and quivers. She picked one up.
+
+[Common leather bag.]
+
+I need to figure out the magic version. She smiled and stashed them, jogging over to Gleon and following him into another mine shaft.

@@ -1,0 +1,59 @@
+---
+id: f0e7560c-7db5-572f-9533-5527bf6f3c3b
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 1"
+slug: 0316-epilogue-1
+partOf: melody-of-mana
+position: 316
+ownLength: 956
+unit: words
+ownProgress: 956
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1496404/epilogue-1"
+royalRoadId: "1496404"
+markedReadAt: "2026-06-29T22:36:43.558Z"
+---
+
+I stood well back, watching, waiting for all of our people to come into position. It was strange, no longer running most of the activities, but at times I needed to step back, let others take up the work and prove that they could do it. This joint operation was going to be something to see too.
+
+“We don't have time to stop, if the King's men, or the Worldsingers find us...” one of the men before me said, his voice enhanced by my magic and brought to my side.
+
+“Shut up you idiot. I know, I know, but the horses have to rest or they'll die, and we're not getting anywhere without them.” The one who issued the reply went to turn, but there was a change in the air and he faltered, falling to his knees where he barely caught himself.
+
+A dozen men let out curses and tried to rise, only to fall. The first speaker was on his knees, heaving, trying to get up, and failing as the plan fell into action.
+
+“Hate to be the bearer of bad news boys,” Rodrick said as he stepped out of a patch of darkness, fading into sight as his illusions fell. “But you're already way too late.”
+
+One of the men managed to raise his hand and point at my son, letting loose a blast of flame and surprising the now adult Rodrick. Of course I was here, and so with a note sung loud I quashed his spell like brushing aside a gnat.
+
+“Secure your prisoners first son, then gloat,” I had one of my illusions say as it appeared beside him. It remained best to keep out of sight in any operation, something we'd be talking about later.
+
+The offender was now unable to move, gasping for air as the pressure pushed harder and harder upon him, unable to do much more than sputter and wheeze. He couldn't even raise his eyes to see Illa floating down from above, glowing like an angel as she descended, dress and hair floating and fluttering.
+
+“The next one to attack gets crushed into paste,” she declared with finality, her shields pulsing with power.
+
+While they were talking over a dozen men and women, some mine, some my nephew's, poured from the woods around us. Spells were taking shape and one by one the thieves were being bound, magical restraints affixed before they were pulled from Illa's high gravity spell. Once all were in custody I joined the rest.
+
+“Good work,” I said, finally stepping out into view myself. “Though not great. There was no need for either of you to reveal yourselves,” I chided my kids.
+
+“It sends a message,” Rodrick objected.
+
+“Yes it does, it says 'Look, kill me!' in bright letters. If you want to be seen, use an illusion.” They both frowned. I was well enough known, and my penchant for remaining unseen was almost a calling card. “But you did well tracking them son, and Illa, that use of gravity was exceptional.”
+
+The three of us, along with some of the other officers here, moved to one of the carts. There was a woosh as the cover was pulled away, revealing a gate buried in the many boxes here. They'd placed them only enough to cover it from cursory inspection, and as they were removed it became clearer and clearer what they'd gotten hold of.
+
+“I can't believe they actually managed to steal one. Just getting past the wards was impressive,” Illa said.
+
+“I can't believe they did it during Omos' coronation,” her brother replied. “You should have seen him, hate to be those poor bastards.”
+
+“We'll get our answers on how and why soon,” I told them. “But yes, I imagine they'll regret their decision. Though they may not regret it terribly long.”
+
+My kids moved off to their own jobs now that we had the gate back, and I couldn't have been prouder of them.
+
+Illa had grown so much, and was now the premiere expert on gravity magic in the kingdom. She'd mastered it to fly originally, but taken it so much further. I suspected that if she really applied it she might even be able to bend space to speed herself up like I could, but so far as I knew she didn't. We were supposed to have tea tomorrow, perhaps I could ask her then, those weekly meetings were always a joy.
+
+Her brother was of course working with me. Rodrick would never be in any administrative role if he could help it, even if he would excel, but as a field agent he was magnificent. His memory meant that he could gather mountains of information and process it with ease, connecting dots so few even saw. Though it pained me that he'd failed miserably when it came to trying to learn to make gates properly.
+
+I'd have to deal with whatever we learned from the criminals. Even of Omos wouldn't directly order me on most things, we agreed on this one. Personally I suspected it was an attempt by one of the surrounding kingdoms to secure portal technology, one that would fail, but we still needed to know who was trying.
+
+His father was also being a pain. John had followed our own father in stepping down as soon as it was clear his son could rule, joining dad in semi-retirement. This was something I couldn't approve of enough, as it really did make for a more reliable transfer of power, a more stable base. Perhaps one day there'd be a succession issue, but so long as one or two old kings were there to pull everyone back together it shouldn't become a civil war.

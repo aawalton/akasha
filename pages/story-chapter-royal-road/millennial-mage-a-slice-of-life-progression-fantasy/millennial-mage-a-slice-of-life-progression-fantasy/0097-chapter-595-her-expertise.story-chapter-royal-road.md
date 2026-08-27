@@ -1,0 +1,229 @@
+---
+id: 1046e88c-ea26-54c0-ae8c-509c616875ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 595 - Her Expertise"
+slug: 0097-chapter-595-her-expertise
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 97
+ownLength: 2751
+unit: words
+ownProgress: 2751
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2496396/chapter-595-her-expertise"
+royalRoadId: "2496396"
+markedReadAt: "2026-06-29T19:38:24.231Z"
+---
+
+Tala and Eskau Meallain had both somewhat purposely overextended in their first exchange, each seemingly leaning on the ignorance and lack of familiarity the other had with their current capabilities and style.
+
+While Tala, in theory, had fought against Eskau Meallain hundreds of times while the elf woman was fully solidified in her style and capacities, when the two had sparred in the House of Blood, Eskau Meallain had explicitly not used her concept and more esoteric fighting style at that time.
+
+It had made perfect sense, given the purpose of those clashes. The point of that training had been to build up Tala’s instincts and help her rely on them more and more. So using magics that specifically made those instincts wrong, and punished her for trusting them, would have been rather counter productive.
+
+That method had also left Eskau Meallain in a position where she—in theory—could beat Tala in a fight with relative ease, given her own building familiarity with Tala’s capabilities and tendencies, gained through those sparring sessions.
+
+That would have been true ten years earlier, but Tala had changed a lot since she’d left the arcane cities.
+
+Tala had gone into this fight, knowing that she didn’t have the elf-woman’s measure, knowing that she was essentially fighting an unknown enemy, even if one weakened below her usual advancement.
+
+Eskau Meallain had seemingly suspected the same, but Tala had proved that the elf had underestimated the disparity that time had brought about, the growth that Tala had gone through in the last decade.
+
+The first exchange had proven that, and only the fact that this was ostensibly a ‘friendly’ spar had allowed Eskau Meallain to recover.
+
+It was now time for the second round.
+
+This time, Eskau Meallain started the engagement. She flowed sideways, not bodily closing on Tala even while her weapon licked out, a finger-thin spear tapering to a vicious point as it covered the distance between them, with speed brought about both by the white steels alteration and Eskau Meallain’s own strength.
+
+Tala countered with a thin sword, close to Flow’s length, but not quite the same profile, as she had filled in the blade this time.
+
+Her deflections rolled along with her body, seeming to meet each incoming spear-thrust and guide it to the side with quiet gentleness. There was hardly any sound of metal on metal, so light was each redirecting contact.
+
+The result was an odd dissonance.
+
+From the outside, it almost looked like Tala and Eskau Meallain were engaged in some form of choreographed two-person martial form.
+
+Only those with long familiarity with combat could see that Eskau Meallain’s strikes were each aimed with ‘lethal’ intent, and only Tala’s actions kept them from landing home.
+
+Had the spearhaft been wooden, Tala could have cut it to ribbons, or shaved off bits of it with each deflection, but the nature of the white steel in both their weapons made that incredibly difficult.
+
+If Tala moved to a harsher style, hacking more than gliding, she could have begun to do damage to Eskau Meallain’s weapon, but that damage would have been trivial to fix, and that style of combat was easier to predict and counter.
+
+The elf changed weapons as she varied the range of their engagement, moving backward and using a whip for curling, harder to predict strikes, then surging inward, shortening her weapon down to a short-spear, then a longsword, then even shorter as she drew near.
+
+Tala only rarely altered her own weapon, purposely staying on the defensive, but as she did that, she kept the initiative in the fight.
+
+In a mundane sense, it shouldn’t have been possible. After all, the one attacking chose when the clashes happened, and that, by the very nature of it, set the tempo.
+
+But at the speed of their clashes, with multiple attacks coming in per second, Tala was able to alter exactly when she blocked or how she moved, forcing, in turn, an alteration in the cadence of Eskau Meallain’s attacks.
+
+It was true that the older woman could pull her strikes early in order to maintain control over the rhythm of the clash, but that would weaken her position even further, allowing Tala to practically rule the battle.
+
+If you control how your opponent attacks, you have already won.
+
+Eskau Meallain's relatively stoic face slowly blossomed into a smile.
+
+She is probably assuming that I believe her magic only works defensively. So, my staying on the defensive is a tactic to avoid that.
+
+-That’s quite the assumption on your part, Tala. Be careful.-
+
+I’ll be as smart as I can. I can’t take care in such a clash.
+
+-Fine, fine. Be smart in your clashes.-
+
+I’ll try.
+
+In truth, Eskau Meallain had refrained from using her concept through this early part of the second round, but Tala wasn’t deceived. The elf was testing her, slowly building up a picture of Tala’s current abilities—at least when downgraded to this level of power.
+
+That was one flaw in this test, however. Where Tala was physically downgraded to be on an equal footing, advancement wise, with Eskau Meallain, her mind was not so impaired. It really couldn’t be.
+
+Therefore, Tala simply wasn’t acting on instinct. To her perception, both herself and her opponent were moving in slow motion.
+
+Because of that, when Eskau Meallain’s concept came into play with a truly beautiful, light touch, Tala’s effectiveness didn’t change.
+
+Oh, she certainly felt like her block would fail, and she needed to alter the path of her sword. Even at these speeds, if she hadn’t known what Eskau Meallain’s concept was, she’d have fallen for the tactic, trusting her instincts over what she could perceive.
+
+But she did know, and so even the feather-light, truly masterful working failed to affect her.
+
+Fighting at my own level of advancement, this tactic wouldn’t work. We’d be following instinct and this would end us.
+
+-Oh, yeah, it definitely would.-
+
+Work on a counter?
+
+-I am trying…-
+
+Tala also realized that at her full power, the elf was a step beyond her, making this fight a foregone conclusion in the elder woman’s favor, had they each been fighting at their best.
+
+-Well, assuming you restricted yourself to a sparring sword and martial and perceptual magics.-
+
+Yeah, that’s fair. My armor would mitigate a lot of her advantage, but her armor is far from useless if she had that.
+
+-Yeah, and Flow would render her armor back to mostly useless.-
+
+True enough.
+
+The incredibly more experienced Eskau was only thrown for a moment by Tala’s seeming resistance to her concept. Her strategy up to that point seemed to have been to slowly increase the pressure on her one-time-pupil to feel out and learn Tala’s capability, while lulling her younger opponent into a false sense of safety, only to seize upon that and land a decisive blow.
+
+That had failed, and as such the elf was done testing.
+
+She came in like an avalanche, her weapon’s form fracturing into one with multiple blades.
+
+Any blade that Tala blocked moved backward, away from the block, as if hinged, while the others continued forward, seeking flesh and forcing Tala to dodge, where before she’d been able to more or less counter any incoming attack.
+
+The white steel responded to Eskau Meallain practically as flexibly as an independent body, allowing the blades and points to thrust and swing in ways utterly independent of how the elf moved.
+
+Most of those attacks lacked much power, given they were generated simply by the flexing and shifting of the material, but Tala had no doubt that if she let even one through, Eskau Meallain would be able to alter her movements to bring true power behind that portion of her strike.
+
+In those almost frantic moments, Tala finally saw the true potential and power of Eskau Meallain’s abilities, as well as how much the woman had truly been limited by the finite quantity of the white steel.
+
+Protian weapons, by their very nature, could change in mass and volume within set ranges, allowing for far greater flexibility and far more attack vectors than she could currently manage with the material she’d been allowed for this clash.
+
+Even so, the fact that Eskau Meallain could shift the perception of where she was, and how, exactly, she was moving, meant that from Tala’s perspective—even as sluggish as the battle was when compared to her mental capacities—truly any one of the barbs or blades could be a full powered attack.
+
+This all resulted in Tala falling into a fighting retreat, blocking what she could and avoiding the rest. The minimal mass and volume of the white steel meant that the greater the distance between the two, the fewer attacks—real or fake—the elf could set up.
+
+And yet, I can’t hurt her at a distance either.
+
+-Well, yeah, with your crazy restrictions on yourself.-
+
+Well… it seemed like a good idea at the time.
+
+-Most things that you choose do, Tala.-
+
+…Fair. Still, despite the marginally desperate straits she found herself in, a smile was growing across her lips as well.
+
+She hadn’t gone into this clash expecting an easy victory, or even victory at all. She had truly set it up to be a test and a challenge.
+
+It was that. Hmmm… maybe?
+
+-Oh… that’s an interesting idea. It’s not quite in line with the rules, though, and white steel is expensive, even for us.-
+
+Yeah… that’s fair. Tala discarded the thought of using dissolution to remove her opponent’s weapon, or at least part of it. It’s not worth dissolving some white steel, just to win a silly sparring match.
+
+-Tala! I’m surprised at you.-
+
+Tala hitched, almost taking a barbed tip to her shoulder at Alat’s tone. What? Where? What’s going on?
+
+-Oh, I was surprised at your maturity. I didn’t expect you to have such an adult perspective on things.-
+
+…Rust you, Alat. I almost took a hit because of your antics.
+
+-Yeah, well, distractions happen.-
+
+Tala swept her weapon in a series of great, sweeping arcs as she jumped a bit farther back than she’d been able to previously, gaining a moment’s more space.
+
+For each of those arcs, she’d unconsciously extended her weapon out along the line of the centripetal force, extending her warding strikes to ensure that Eskau Meallain couldn’t just go around them with some trick or other.
+
+It was good that she did, as the elf had attempted to extend and bend her own weapon around the strikes, trying to use Tala’s own hits to add another burst of power at a new fulcrum in her morphic weapon.
+
+As such, even as Tala executed a fighting retreat, she felt the zip-tear of a cutting edge come hair’s widths from her at various points.
+
+Eskau Meallain could have extended her weapon further. At that point, given the forces involved, even the white steel would have been in danger of breaking, and if she’d thinned out the striking end, it wouldn’t have had enough mass to impart cutting force to Tala’s enhanced and magically defended flesh, no matter the sharpness of the edge.
+
+That was a funny thing about edges and cutting.
+
+So often at the Academy students had talked about how a sufficiently sharp edge could cut anything. Tala now knew that was folly.
+
+After all, singular molecules were hitting her skin constantly in the form of air, and they didn’t penetrate or cut her for their ‘fineness’. They didn’t even do the same to mundanes.
+
+A piece of paper was not in danger of perforation when held before the wind.
+
+No, it was point-pressure that allowed for a cut through flexible materials, as all it took was breaking the bonds, and the material would move out of the way of the cutting edge. For something like stone, though?
+
+Well, Rane’s work had long shown her that ‘cutting’ stone generally meant breaking it out of the way. A truly thin blade—not the cutting edge but the full blade—could cut anything, provided it was backed with sufficient force, but that was a whole different thing.
+
+All that to say that a cutting edge was only one part of the equation, and both Tala and Eskau Meallain knew that. It was because of that knowledge that they weren’t each hitting each other with spider-silk-fine threads and expecting them to cut their opponent to bits.
+
+-And you say I distract you?-
+
+…Fine.
+
+Even with space gained, Tala wasn’t in the clear.
+
+Eskau Meallain switched to a dart and chain style weapon, which kept Tala from easily closing once again, as she moved around at the outer edge of that range.
+
+Unfortunately, Tala did not have much experience with such weapons, neither fighting against them, nor using them for combat herself.
+
+Eskau Meallain seemed to feel that she was hitting her stride, as she took a moment to address the onlookers without slowing her barrage of attacks. “As you have seen, Eskau Tala is a superb combatant. In her areas of expertise—when at the same tier of advancement—she can drive me back, and even best me, but her issue lies just there. She only excels in those areas.”
+
+There were murmurs from the surrounding Talons. Rane rolled his eyes, and Lea was watching on with wide-eyed fascination, seemingly torn between wanting to look away and fearing what might happen if she did.
+
+“Don’t mistake me, Eskau Tala has limited herself far, far more than any of you can understand at this moment, and her other abilities—which she set aside for this—cover her lack of experience in most if not all forms of martial combat. I am grateful that she has, however, as none of you will have her particular gifts and advantages available to you. You must take my path, and master all forms of martial combat. Your white steel will make you into powerhouses this world has rarely, if ever, seen. Only true masters of combat and magic will be able to face any one of you, and that will be their undoing, as you are not alone. You are but one Talon of the mighty Ironhold.”
+
+The Talons let out a guttural exhalation of agreement, a single, powerful sound from each throat, like something a martial artist would make along with a strike.
+
+Tala smiled, continuing to defend, having seen where the elf was going with this.
+
+-Well, she did put in the request almost a month ago…-
+
+Yeah, yeah. We’ve been busy.
+
+-Undoubtedly.-
+
+Tala spoke, even as she continued to defend. “Eskau Meallain is correct. You all have the potential to be almost unstoppable on the battlefield.” She continued to ward off incoming strikes, even when they changed to whip-cracks, and then over to meteor-hammer attempts at bludgeoning.
+
+Throughout, Tala’s weapon was unerring in its defense of her, even while her instincts continued to go haywire, forcing her to rely entirely on perception and conscious decision making.
+
+I’m going to need to spar with Rane for hours to fix my trust in my instincts.
+
+-Sparring, eh?-
+
+Tala sent Alat a flat look. You know what I meant.
+
+-Of course, I always do.-
+
+Tala sighed, even as she did exactly what Eskau Meallain had known she would have to do. She charged back in.
+
+She didn’t do it as might have been expected, with a sword, or glaive, or even a knife swinging or stabbing forth. Instead, she did just as Eskau Meallain had implied, whether knowingly or not.
+
+She leaned on her expertise.
+
+It was true that in melee combat, Tala really only had three weapons that she was proficient in—aside from her own body—but her actual expertise with white steel didn’t lie in its use as a weapon.
+
+As she charged in, her weapon vanished from her hand, flowing back down her arm and across her body, even dipping stoneward slightly before returning to her layer in new places to block each unavoidable strike. She closed on the elven Eskau with purposeful, quick strides.
+
+Her opponent could have likely wrapped up a part of her, but that tactic didn’t tend to work well on something drawing nearer as Tala was. Even with the morphic nature of the weapon allowing for a removal of the slack in a whip or other rope-weapon, the greatest strength of such a tactic was in pulling at the opponent, forcing a part of them back toward the wielder.
+
+In this case, Tala was already coming in.
+
+Close combat time.

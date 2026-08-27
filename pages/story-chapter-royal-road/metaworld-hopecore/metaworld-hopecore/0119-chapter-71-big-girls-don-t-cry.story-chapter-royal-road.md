@@ -1,0 +1,269 @@
+---
+id: db3e0ce8-c20b-554b-abdf-cceb5d851811
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 71 - Big Girls Don't Cry"
+slug: 0119-chapter-71-big-girls-don-t-cry
+partOf: metaworld-hopecore
+position: 119
+ownLength: 3538
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3611839/chapter-71-big-girls-dont-cry"
+royalRoadId: "3611839"
+---
+
+"Pride goeth before destruction, and a haughty spirit before a fall."
+
+Proverbs 16:18
+
+Eppie stumbled, not into her adopted father’s arms, but into the space in between Curon and Kel.
+
+She was a picture of pity as she gestured dramatically, flapping one healthy arm and one limp one like an uncoordinated shark at a 2015 Super Bowl Halftime.
+
+“Everybody, calm down. It’s not what it looks like,” she delivered her improv through [Act Natural], cringing at the white lie even as the words passed her lips.
+
+“What is this supposed to look like?” Curon asked. Her father’s face had gone to the pines to look for a place where a body could be discreetly stowed.
+
+It's exactly what it looks like…  “Look… DAD. It's complicated.” Eppie figured the title would calm Curon down, and so delivered it with [Vocality] and [Charisma] on full blast. Thankfully, she wasn’t wrong. “And before we talk, can you step away from the young man making $18 an hour with no health insurance?”
+
+Curon looked at the security guard with a hand protectively against his holster. The guard’s eyes were bloodshot.
+
+Sony’s Director retracted his hostility, his face full of suspicion. “So what is this supposed to be? What happened to your arm? We all heard Kellie screaming.”
+
+Why the hell are you so perceptive while drunk? Eppie turned to Kel, who was staring at her like she was the eighth wonder, and made the gesture for Shut up, I’ll take care of this.
+
+Whatever creature her old-world-adjacent Chris Brown had been, the worst was averted. Kellie was safe, and Kelvin Grant was a [Budding Parasite], unlike Morris Grein. Her [Quest], Eppie guessed, was to nip the flower in the bud. As for her own injury—well, was it not Buddha who fed the kite with a piece of his own flesh to spare the sparrow? After all, she had ample evidence that the [System] operated on a similarly masochistic wavelength.
+
+To further prevent the loss of [Causality] via Curon, Eppie walked toward Kellie, who was still shaking like a Ninja blender, and picked up a lost shoe. She then picked up her other shoe. With tone deaf theatricality, she slipped into them, then walked up to her adopted father in her soaked orange Miu Miu and her streaked mascara. Her left elbow and lumbar struck her [Pain Suppression] like a metronome. Her performative placidity held on for dear life as she held Curon’s hand.
+
+“Trust me on this, Dad,” Eppie shaped the whisper with [Vocality] so that it floated between them, intimate as a daughterly kiss. “I know what I am doing.”
+
+Curon’s bristling hair settled. Eppie knew her gamble had paid off. “Are you alright?” His eyes fell to her limp arm.
+
+“I am, and I need to speak to Kel for a moment,” she continued to whisper, her voice as calm and serene as a morning by the bay. “Before Director Davis gets here, before this gets any bigger. Is that alright?”
+
+Eppie knew she didn’t need Curon’s permission. She had asked her because the rhetorical question gave Curon a sense of control, which was needed for her father’s self-control. “Can you get Director Davis here? Tell him you got this? Tell him that someone needs to take Kel home and have a long chat about contracts and common sense.”
+
+She watched her father’s gaze move from her eyes to Kel, to Kellie, then back to herself. He sighed. Curon deflated.
+
+“Fine, but I am watching that prick.” Her father motioned for the security guard to block the door. His other hand was already on the phone, speed dialling Trent Davis.
+
+“Kellie, go to Director Curon,” her presence commanded the room with an ease that seemed supernatural for someone so diminutive. The other security guard ducked out, then returned with a blanket for Kellie. Obediently, still looking like she was processing the near-miss, the singer went to stand beside her music producer.
+
+Eppie returned to her assailant.For the moment, they were technically alone.
+
+Eppie allowed herself to hate Kel for a few more seconds before she allowed the feeling to lapse. In this world, she wasn't such a fool as not to perceive her own hand in this tragedy. To save herself, she had written Umbrella by paying [Causality]. She had given the song to Kellie Noah. She had no idea whether the song would carry the same karmic stigma it had in her old world, but it did. Either that, or her Iago-meddling had placed Kel into a self-fulfilling prophecy. Was this narrowly averted tragedy Kel’s [Usurper] karma, or was it her [Causality]? Had she created Kel’s [Usurper]? Or was it something that would have been, regardless of her intervention?
+
+By that same measure, was this the [System]’s limits? Or was this yet another lesson from her panoptic [System]?
+
+She didn’t have answers for any of that.All she had was ad-lib.
+
+“Kelvin.” She returned her torn shoulder flap to its rightful place. Her other boob pad had slipped inside her dress and disappeared. “Eyes up here.”
+
+Kel was finally lucid. The emotional high that came with taking a swing had drained away, and what was left was ego and consequence. His suit was ruined as well, and he looked like a kid who finally realised that the universe could take things very personally.
+
+She pulled up a seat. “Sit.”
+
+Kel flinched at the sound of the moving furniture. The rapper did not sit, but he didn’t sock her either, which was an improvement. It was actually quite striking how Kel, when alone, was completely different from Kel when watched by a C-suite executive.
+
+She looked up at his face. Her ribs hurt.
+
+“All right, here's what's going to happen,” she spoke through the pain, her voice low enough that the conversation remained relatively private. “You're going to go and apologise to Kelly. Not the kind you give to cameras; I want a real apology. Say that you're wrong, that you lost your temper. Say that you will leave her, and if she chooses to keep you, that's her choice.”
+
+Kel’s lips grew grim. His unfocused eyes looked as if a man were fighting an inner demon. She hoped Kel was working out the longitudinal risks and rewards, but then again, someone capable of actuarial calculations would not have taken a swing at a Grammy winner on her Grammy night.
+
+“Your other option is to end your career right here, right now. If you wish, I can tell Daddy every last detail. In fact, I’ll tell anyone and everyone who will listen. Did you know I’ve got a dozen interviews lined up with a dozen industry magazines? Think on it. Pick a door before Director Davis arrives.”
+
+“What if I pick door no.3?” Kel’s Id replied in place of his Ego and Super Ego.
+
+Eppie offered him a cheek, the one above her shapely shoulders.
+
+“Go on, take a swing. I won't dodge.” She said pleasantly. “If I don't go down, I'm going to pick up that chair and beat you in public. Then, either before, after, or mid-beating, those men there will Tase your ass until you piss your pants.”
+
+You have diminished a Karmic Parasite.
+
+Your act of [Noblesse Oblige] has reaped the [Karmic Parasite]
+
+OH-HO?! Eppie blinked. So this DOES work?! She felt simultaneously thrilled and disturbed by the fact that Kel’s reaction was proof William had not shown an ounce of doubt or remorse. It also made a sick kind of sense. After all, William was the fabled [Usurper], while Kel was merely a [Parasite]. One consumed the [Potential] of his victims, while the other merely debased and despoiled.
+
+Kel’s fists clenched.She clinched him before he could regress. With a rabbity hop, Eppie reached over with her good arm and brought his head down by the hook of her right arm. The young man tried to straighten up, but her [Strength] of [20] had other ideas. For a moment, they looked like classmates.
+
+“Do we have an understanding, friend?” she breathed sweetly into his ear. Kel stank.She stank.They stanked as a pair.  Pressed cheek to cheek, the stink of rotten vase water in Eppie’s hair was overwhelming for both of them.
+
+The engine of Kel’s anger switched gears.His shoulders dropped first. Then his hand, which had landed at the back of her tiny neck, lost its hold. The green-eyed feral Eppie had clocked when she'd burst through the door had receded below the surface to bide its time.
+
+“Whatever you say, fam,” Kel answered.
+
+Eppie waited for the sweet blue icon of her [System]. Crickets.
+
+She looked at Kel again, disappointed. Here I am… debasing myself for your salvation, and you’re not even a little bit sincere?
+
+Unfortunately, Eppie had run out of time. There was a commotion at the door. Director Davis had arrived.
+
+She slid from the sticky fur of her sedated tiger, then turned her back to her assailant, trusting her instinct, knowing that she could repair any damage that wasn’t instantly fatal.
+
+Pivoting on a kitten heel, she spun with flair, faced Curon and the guards, then struck the same post as Tony Stark’s Jericho missile pitch, only cuter, wetter, and then—
+
+Thwack—
+
+The second padding fell out from between her legs.
+
+In the silken silence imparted by her awed audience, Eppie sincerely hoped that Kel had chosen to punch her.
+
+But he didn’t. Either driven by fear, remorse, or a loose flap of boob gel, her [Usurper] had chosen this precise moment as the stepping stone to a better self.
+
+Davis arrived with a head the size of Universal's logo, his face looking like he'd been rained on by the Umbrella stagecraft. He was followed by a BMG executive and Sony's Chief Legal Officer, and such was the Renaissance tableau they now witnessed:
+
+Frederick Curon stood moodily by the doorway while Eppie nursed what looked like a broken wing; Kellie hugged herself with a fire blanket, shivering and shaking; Kel G fumed, drenched in stale water; two security guards studied the fire escape plan with immense interest... in a storage room that looked suspiciously like the aftermath of a sports bar brawl.
+
+Thankfully, though the theatre was on fire, no one had blocked the fire escape.
+
+Naturally, this was the moment that Kel’s penitence broke through his pride. Moving of his own accord, the rapper stepped up, his face full of apology.
+
+“Kelvin, shut up,” Davis's voice arrived sharp and immediate, his eyes already cutting past the doorway to the corridor beyond it, where any number of photographers with long lenses and good instincts could be waiting to ruin their careers. “Stay here, I’ll get a cordon opened.”
+
+He turned to the lawyer-looking fellow. “Drew, can you take care of this?”
+
+Andrew was already on his Blackberry.
+
+“What happened?” Davis turned not to his director, not to Kel or Kellie, but to the one young lady in the room he suspected of knowing the truth, the whole truth, and nothing but the truth.
+
+“The inventory was badly stacked.” The girl looked at Kel, who looked skittish but relieved. “Furniture everywhere, a vase that should never have been left where it was, wet floor from the deluge upstairs. Genuinely dangerous. It fell on me. Kel caught it. Kellie got rattled.”
+
+Curon tried to protest, but the girl shook her head firmly at his Director, her baby blues flashing like strobes.
+
+“Is that why your arm is like this?” Davis asked, his crisis management protocols on full alert.
+
+“It was a heavy vase,” Eppie said. “Just look at that thing.”
+
+Davis did not make an effort to argue. Of course, this was what happened. It made perfect sense.
+
+“Was that what happened, Kel?” he turned to the culprit. If his guess was correct, he was going to have a long and difficult talk with the young rapper. Sony had already invested significant resources in the young man. To undermine the company at a critical time like this was fucking unprofessional.
+
+“Yeah,” the rapper answered, looking at the shattered terracotta, looking at the girl. “The vase fell.”
+
+Is that… fear? Davis raised a brow. Just what kind of hell is Curon’s bird raising this time?
+
+“Kellie? Is this true?”
+
+Kellie's face did something complicated as well. She also looked at Eppie, then at Kel, then at Davis before opening her mouth, only to decide that she had nothing to add.
+
+Davis felt his frontal lobes swell.
+
+“Very well then,” the head of Sony BMG signalled his Chief Legal Officer again. “Drew, could you speak to the two young men here as well? NDAs for a start. Make sure they’re compensated for valour beyond their line of duty.”
+
+“Of course,” the greying lawyer smiled at the security guards. “This way, please, gents.”
+
+Finally, he looked at his friend and partner. “Fred, you’re alright?”
+
+“No.” Curon’s jaws tightened. “But we’re business first, am I right?”
+
+“You are correct.” Davis felt the final stone in his chest drop. “Though it seems that your daughter understands it better than you do…”
+
+Eppie watched Davis manage damage control in real time, taking the opportunity to learn from a master.
+
+Their dramatis personae left in stages.
+
+Curon left with Kellie wrapped in a lush bathrobe, so she looked as if she were recovering from her rainshower performance. Her father paused at the door, still staring at her limp arm, then left after Eppie shooed him like Lim shooing an aggressive stray.
+
+The other executive left with a deflated Kelvin Grant, looking like a school principal taking the football jock down to the office for a stern chat about his GPA.
+
+The security guys followed the lawyer.
+
+Finally, it was her turn to leave. Davis caught her good arm before she could follow him out.
+
+“Are you alright?” his eyes fell to her face, then to her side. “How’s the arm? You look like hell.”
+
+In all honesty, Eppie was fine. Her [Pain Suppression] was holding up, and she could reasonably heal by pumping [Causality]. Her problem was that she had missed the narrow window of plausibility in the chaos of combat, and healing it now would just raise more questions than answers.
+
+“It’s okay…” Eppie winced, and it wasn’t an act.
+
+“Can you lift it?”
+
+“Yeah,” she said honestly. “Look, I’ll be right as rain in a week, I promise.”
+
+Davis studied her for a second, perhaps to see if she was acting. In her CEO’s eyes, she saw herself for a moment. She saw the man mull over the state of their young starlet with the same consideration he gave to a contract clause he didn't draft. The conditions were too good, and that made him all the more suspicious.
+
+“You’ve done all of this, Euphemia.” Davis’ hand landed on her bare shoulder after about ten seconds. The good shoulder. Her CEO had finally made a decision. “All I can say is that I owe you one. Sony BMG also owes you.”
+
+Well, at least Davis meant it… Eppie felt the warmth from her CEO’s hand traverse into her chest. Davis wasn’t going to insist that she visit a hospital, but at least he was more sincere than Kel. “Thanks, Sir.”
+
+Her good hand tugged on her soiled hem. Davis cleared his throat. “Right. Stay here. I’ll find you a towel.”
+
+He returned a moment later with the same giant bathroom robe someone had retrieved for Kellie. He wrapped her gingerly, like an uncle who didn’t quite know what to do with a niece who had fallen into the lake, then escorted her by walking slightly ahead and out of step.
+
+Snug in the towel, Eppie decided against replenishing her [Health]; for the record, she would leave her injury for show-and-tell, lest her reforming rapper decide to recant.
+
+In the limo, Zara fashioned a sling using a smaller towel.
+
+It was really quite amazing how empathic Zara could be, because the moment Eppie arrived at the back lot, out of sight of the photographers, she burst into tears as if she were the injured one.
+
+Zara then went to work making the sling.
+
+The limo was quiet in the particular way rides home were quiet after a disaster. There was too much legroom, too much soft amber lighting, and booze neither of them could drink. She wore her Miu Miu still. It wasn’t disintegrated; assuming Vittoria didn’t mind the torn seam, the flapping fabric, and the waterlogged silk, she could still return it.
+
+She leaned on Zara with her good side, wincing with every jolt from LA’s roadworks.
+
+“You should really go to a hospital,” Zara said worriedly.
+
+“Hospitals take names and insurance.” Eppie shook her head. “My SAG Insurance is paid by Sony BMG. The paper trail goes all the way up.”
+
+“That’s just wrong.” Her friend was genuinely upset on her behalf. “Where’s Director Curon?”
+
+“I sent him away with Kellie,” Eppie replied with a sigh. How could she explain any of this to Zara? It was only as Euphemia Fontaine that she realised how absurd corporate rationality sounded to normies. “Trust me, she needs the Director’s dad energy more than I do, especially now.”
+
+“But—”
+
+“Zara.” Eppie gripped the Spaniard’s hand with her good hand. “Please trust me on this.”
+
+The girl was biting back tears again. Argh—so emotional! Eppie felt her own throat close up in sympathy.
+
+“Look,” she fought the feeling clogging her chest like the flu. “Anyone can tell that I got jolted something serious. If I go to a hospital, there’s going to be blunt-force trauma on the record. I am not sure if you noticed, but I am also fifteen…”
+
+Her [Wisdom] and [Legalism], accumulated over decades in the post-#metoo and Weinstein entertainment industry, understood perfectly that the ER staff would lodge a report with the police, not because of trending algorithms, but because she was a girl.
+
+The fact that she showed up wearing a soaking-wet atelier dress, missing both bra pads, looking like she’d been in a fistfight, would not help her optics. That was the thought which had gone through Davis’ head, and that was why Davis had not offered squat. It was also why, when Eppie mutually agreed without complaint, Davis’ relief was cathartic.
+
+Zara remained unconvinced; she wanted to call Paco, and Eppie felt worse for it.
+
+“Okay, okay,” Eppie finally relented. The pain really was grating on her patience. “I know someone who knows someone.”
+
+She called Lim.
+
+At this point, it wasn’t unreasonable for the star member of the Stray Cat Society to call the Chief Officer of the same society. Such was the cover the duo had engineered, and it was genuinely impressive, even to Eppie.
+
+“Lim, I need a favour,” she spoke into the speakerphone.
+
+“A favour on Grammy night?” Lim’s voice drifted for a moment. “You feel a hankering for authentic Cantonese seafood? I saw you on TV. You were very pretty.”
+
+“Ha!” Eppie laughed, then rolled her eyes when the movement jolted her elbow. “I had a bit of an incident at the Grammys. Bummed up my left elbow. Can’t go to a hospital for reasons. Is—”
+
+“My Dad?” Lim’s ability to understand a delicate situation was impressive in itself. Was it because of the work they did for the Chens? “Of course, I’ll call him right away. Where are you now?”
+
+She checked her Google Maps.
+
+“I am about a minute from Chinatown, actually,” she said. “We’re in a limo.”
+
+“Can the driver take you to my Dad’s clinic? It’s closed right now, but he lives upstairs.”
+
+“Closed is good.” Eppie eyed the driver. “What’s the address?”
+
+Zara shifted immediately to the privacy window and lowered the shade.
+
+Lim gave it, and Zara repeated it to the driver, who tossed it into his phone rather than the car’s computer. If anything, Eppie realised, the entertainment industry really did run on unspoken professionalism.
+
+“I’ll join you in thirty,” Lim was already speaking in rapid Cantonese, probably to a landline. “See you at the clinic. Let me know what happened.”
+
+While they made the final traverse, Zara returned to her side.
+
+“Was it worth it?” she said after a moment. “You said you helped Kel, even though he did this to you. Is he going to be a better person now?”
+
+Eppie snorted, actually snorted. “Hell no. Leopard, spots, et cetera.” She looked down at her swollen arm. And no notifications. “But that’s not his choice to make.”
+
+“How?” Zara asked, her mascara melting.
+
+“Well…” Eppie had no answers yet, but she had a good feeling nonetheless. In her original world, the horror had been put on public display. Yet, corporate had chosen to protect its investments while throwing its ethics charter in the bin. Robyn Rihanna Fenty’s debasement, far from drawing attention to the hapless nature of girls surviving domestic violence, had cemented the reality that anyone rich enough, famous enough, and persistent enough could get away with fame and cred, fortifying the foundations of collective delusions like the Manosphere.
+
+Davis owed her now. Which means, by extension, I own Kelvin Grant.
+
+Ergh… word choice. Eppie felt her head pound again.She needed an aspirin, and she needed it an hour ago.

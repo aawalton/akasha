@@ -1,0 +1,251 @@
+---
+id: d0d4f947-c69e-5799-a490-3ac4685b5947
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 700 - A Royal Gambit"
+slug: 0208-chapter-700-a-royal-gambit
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 208
+ownLength: 2809
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3332532/chapter-700-a-royal-gambit"
+royalRoadId: "3332532"
+---
+
+Tala willed herself to the main square of the new hold and felt her eyes go wide.
+
+She had perceived everything done within—rust, she could go back through her perfect memory and count everything from the paving stones to the napkins in the storage closet if she wanted—but it was something else to see with her eyes.
+
+This plaza was paved with intricate patterns of white and black stones, arranged around symbols made with more color involved—though it was all still natural stone rather than paint, stain, or glaze—each symbol was that of a House which had helped foot the bill for this effort.
+
+The Houses of Blood and Iron were the largest due to their outsized contribution to Platoiri’s gambit-hold. She knew those symbols would be smaller in the other cities even if not by much
+
+Still, the large square proudly displayed an array of more than three dozen House symbols and Guild crests.
+
+The mundanes who came through here likely wouldn’t know what they meant, not at first, but with increasing trade between the Cycling Cities and arcane lands, that would likely be changing soon.
+
+At the center was a large fountain, arranged around a tree that was at least three hundred years old.
+
+It had been moved here—its roots carefully woven into the soil—by one of the hold-crafter guilds, along with a slew of other mature landscaping.
+
+Apparently, these guilds had entire holds dedicated to the cultivation of such trees and plants to allow the holds that they created to have the benefit of such from day one of their completion.
+
+This tree was an oak variety, and while the lowest branches were nearly fifteen feet up, they spread wide. The leaves at the tips brushed the walls of the surrounding structures, providing cool, green shade to this main plaza.
+
+Normally, it would be foolish to have fountains incorporated into the base of a tree or to have paving of any kind over the root radius, but there were intricate irrigation systems and other features in place to ensure that the tree would have a long, healthy life, regardless of what was near the trunk.
+
+The mild magics woven into the area—encouraging growth and resillience—didn’t hurt either.
+
+Speaking of the structures, and the magic therein, the buildings that ringed this courtyard were three teleportation arrival complexes—each containing five receiving arrays their rooms and hallways only emptying into this area—and a single reception building, hosting information desks, and other amenities for arriving guests before they gained access to the remainder of the resort.
+
+This is…
+
+-Excessive? Opulent? Ridiculously impressive for such a short turn around?-
+
+Beautiful…
+
+-Yeah, it’s that too.- Alat sent a narrow eyed gaze toward Tala. -We are not remodeling the sanctum.-
+
+Tala let out a snort of laughter. No, of course not. Still, it is lovely.
+
+The fountain ensured the air was cool and slightly humid, much like the areas near her own circular river. Even without the familiarity, it was in a good way, like standing near a waterfall on a hot day.
+
+This particular resort had been set up to be on the warmer side with a series of pools and other attractions to provide relief from the very intentional atmosphere.
+
+Tala had only stood there for a bare couple of breaths before she noted the next wave of people teleporting in—still staff, but apparently they already had reservations bought and paid for stretching out months and fully booked for weeks after official opening. Guests would begin arriving in a day or so.
+
+I did not know there was so much wealth in the hands of the mundane citizens of the Cycling Cities.
+
+-I mean… yes? But no. The teleportation is less than a gold per person for a round trip, and that’s the Archon’s share of the expense. For the full gold per person, you could stay here—all food, lodging, and entertainment paid for—for a month. It’s just a silver a day for the ‘basic’ package if paid for separately, with more features and comforts available for more.-
+
+Tala understood, but it still seemed like a lot…
+
+-I understand a lot of the reservations are for newly-weds. Then there are families bringing their children… It is a lot, but across all the resorts, we only need a bit more than one percent as staff and guests… Well, we need that many if we include those in the lower reaches being paid to provide power with a lesser version of this up here. Don’t forget that the Wandering Wilds settlements are sending people as well, or they will be. This is the first time that the gated of those communities have been specifically invited, or even been welcome at all, to go into special areas. Their societies are built around gated being kept out of the holds for safety sake. I imagine we’ll get an influx from those villages and settlements as well, though I’m sure most will be in the ‘basic’ category.-
+
+Maybe you’re right. It just seems crazy that this is a reasonable thing to do at the start of a war.
+
+-Crazy indeed, but it should work, and we didn’t have to condemn a bunch of people to years as a vestige.-
+
+Tala nodded, then smiled. Come on. Let’s see the rest.
+
+She walked toward the reception room, where a somewhat confused woman looked from Tala to an Archive slate, clearly trying to figure out what was going on.
+
+Still, the receptionist was cordial as she stood up and gave a shallow bow. “My apologies, but I don’t see you in the staff registry, and we aren’t open to guests yet. May I ask who you are and how you got in here?”
+
+Tala grinned at the young, lovely woman. “I am Tala Sappherrous.”
+
+The woman paled, clearly knowing the name. She bowed deeply. “Mistress Tala, Revered Eskau of War. My humble apologies.”
+
+Tala motioned for the woman to straighten, and after she had, Tala smiled more warmly. “You are just doing your job… I apologize, I didn’t catch your name.”
+
+“Andie, Mistress.”
+
+“Well done, Andie. I know it’s your first day, but you were polite and firm. It seems like they chose a good person for this position.”
+
+“Thank you.” The woman hesitated. “Is… is there something I can do for you? I thought I read that Mages couldn’t even come in here now that the last Constructionist has departed, but you’re here and fully inscribed… Is something wrong?”
+
+Tala shook her head. “No, no. Everything’s fine. I’m just doing a final pass-through before moving on to the next city.”
+
+“As you say, Mistress.” She swallowed. “Then… unless I can help at all…?”
+
+“I’ll leave you to it.”
+
+“Thank you, and good day.”
+
+“Good day to you as well, Andie.”
+
+Tala smiled as she walked through the well appointed—moisture tolerant—building, two walls missing to allow for easy passage through, past Andie’s desk.
+
+Several other staff saw her, but despite the confused looks, no one reacted much to her.
+
+I suppose that’s why they aren’t the point people?
+
+-Seemingly so.-
+
+Outside the arrival plaza complex, large pools of water were spaced among stone-lined paths. There were several slick connections between pools of various heights where water flowed shallow and fast. The whole thing was arranged in a chain of slanted gravity that was quite like the circular river in her own sanctum. If she’d heard correctly, it was actually the same guild that handled both features in the two holds.
+
+Overhead, the arched dome of an azure blue sky somehow seemed open despite how close overhead the ‘top’ of reality was within the hold.
+
+Her perception picked up the stone and spellforms behind the illusion of the sky, and she smiled at the quality of the work.
+
+There were small animals—choosen for their temperament, appearance, and playfulness—already moving through the various attractions, almost seeming eager for their first playmates to arrive.
+
+Several ‘fight-view’ venues were spread out as well, with food being available almost anywhere if the guest could just flag down a member of staff.
+
+There were libraries and cozy spots to curl up with books, sparring rings, and even a few artisan workshops.
+
+Most importantly, the resort only covered about a third of the available space. They knew that they wouldn’t get things perfect, and so they were leaving room for innovation, and for others to be able to come in and offer other features or amenities that might be beneficial.
+
+Most of the trees around reminded her of those supposedly prevalent on the south of the continent, and sand was in abundance to soften many of the surfaces.
+
+It was warm, but not unpleasantly so for mundane folk, and she knew that a day-night cycle was in place, allowing for the temperature to fluctuate. After all, humanity was not built to be in static temperature environments, and forcing such would likely have had long-term deleterious effects on the staff, even if the guests might have been fine for the duration of their stays.
+
+She turned and strode down the path, heading toward the guest suites, curious how they looked up close.
+
+She was not disappointed.
+
+There were some smaller rooms that still had reasonably big beds, large soaking tubs, and plenty of space to relax, but most were mini-complexes, clearly designed for extended families or groups of friends to stay together for longer periods of time, created to give a good mix of potential privacy and connection within each suite.
+
+Every part oozed quality, and it was clear that every crafter involved had either done their best to produce lasting pieces or pulled from their best stock.
+
+Gold opens many doors.
+
+-Indeed. The expense was a bit… over the top, but given much can be reused when shifted to the next hold, it shouldn’t be too bad. I think the estimate was that each resort would operate at a deficit of a couple thousand gold a year.-
+
+Tala blanched. That much?
+
+Alat chuckled. -I know we’d never really looked into it, but the expense for maintenance and repairs of the central columns—including staff to monitor them and do the work—ran in that range. I suppose that also includes the ‘villages’ of gated humans and expeditions for ‘volunteers’ from the Wandering Wilds when there weren’t sufficient gates available, but many of those were shared expenses, so it’s hardly fair to include them.-
+
+And we’re also taking away some of the need for those industries.
+
+-Precisely. A win all around… though, this isn’t really scalable. Even ten will be pushing it…-
+
+That’s… fair, yeah. And they only seem comparable if we ignore the cost of creation, and just look at operating expenses…
+
+She came outside once more to simply absorb the beauty of the design a final time.
+
+She was about to will herself away when she noticed that a man had taken up a position behind one of the drink counters since she had been outside the first time.
+
+Curious, she wandered over his way. He saw her walking up, and after a brief moment of confusion, he shrugged. “Good day, Mistress. What can I get you?” He looked down, a growing smile on his face. “It looks like I’m fully stocked. I’m paid to make drinks for anyone who asks, thus, all you must do is ask.” He gave a shallow bow over the counter, a personable smile on his lips. “What’s your poison?”
+
+Tala smiled. He was dressed in a simple, clean uniform and clearly had experience in the service industry. She also hadn’t had a mixed drink in quite a while. “What’s available? Is it purely alcohol mixes? Juice? Milk? Ice-cream? Fresh fruit?”
+
+The man chuckled. “Excellent question, Mistress. I have all of that and more.”
+
+Tala’s smile turned to a grin. “Can I get a cold grasshopper?”
+
+The man’s brow barely creased in a frown. “Describe it to me?”
+
+“It’s basically an alcoholic, mint chocolate milkshake with chunks of brownie.”
+
+“Ah! I can do that, yes. Though… I don’t think I have any baked goods. Is that alright?”
+
+“That’ll be fine.”
+
+“Alright, then.” He began pulling from the various storage places around himself, easily finding the tools he needed as he manually mixed the ice cream with the various ingredients.
+
+The concoction got thinner and thinner as he added more to it, the man’s hands and tools moving faster and faster to keep it contained until he had to scoop it into a cup, where he added the last few things, leaving a thick beverage that would actually flow enough to drink, perfect for the environment.
+
+Tala gave a small nod. “Thank you.”
+
+She took a sip, and her eyes widened in surprise. “This is excellent.”
+
+“Thank you, Mistress. Is there anything else I can do to assist?”
+
+She took another sip and sighed happily. “May I ask why you’re out here already? My understanding was that guests wouldn’t be arriving for another couple of days.”
+
+He shrugged. “I want to familiarize myself with my work area, maybe shift the organization of it around a bit.” He gave a small smile. “I was paid a nice bonus to come work here—not really sure why there was a rush, but I saw no reason to argue—so I intend to give a performance worth the cost.”
+
+“I appreciate the dedication. What was your name?”
+
+“Mitch, Mistress.” He smiled. “I didn’t catch yours.”
+
+“Tala Sappherrous. Take care, Mitch.”
+
+His eyes were just beginning to widen as she willed herself out of the hold.
+
+She also left the tall glass behind, only bringing the drink and placing it into a mug pulled from her sanctum on the way out.
+
+They only had so many glasses, and it would have been rusting rude of her to steal one before they were even open for business.
+
+Tala stood on the surface of Zeme—her drink in a mug now—and breathed out a sigh.
+
+She shook herself, feeling as if she’d just stepped out of another world rather than just from a hold to the superficial.
+
+This war has already been full of surprises.
+
+-Indeed.-
+
+Tala took another pull from her drink and took barely a few steps toward the House of Blood’s hold before Alat reached out again, her tone entirely serious this time.
+
+-Emergency message. We’ve detected high levels of energy fluctuations within the southern border of the southern woods, and Black Legionnaires have been spotted coming from there, moving toward a Wandering Wild’s village.-
+
+Howlton?
+
+-No, a place called Freedom? Regardless, they’ve used their emergency contact method and are asking for assistance.-
+
+Forces involved?
+
+-Only one captain identified so far.-
+
+Tala bit her lip. When am I needed in the next city?
+
+-Sooner is better, but within twelve hours? You were planning on a last couple of hours with the family, too.-
+
+Who can get there in reasonable time? Tala knew that she couldn’t respond to every attack, and she did have things she was needed for…
+
+-The House of the Rising Breeze has already put one of their fliers at our disposal along with a pilot, and a House of the Stalwart Shield strikeforce is ready.-
+
+Composition?
+
+-Eskau and Pillar pair with six guards.-
+
+Tala grimaced. How many can fit on the Rising Breeze flier?
+
+-Twenty beyond the pilot.-
+
+Assign the Stalwart Shield, but fill out the capacity on the flier. We don’t want to overreact, but we cannot just let an attack go unanswered. One of our allies calls for aid.
+
+-And we will answer, consider it done.-
+
+Tala sighed. Thank you, Alat. Keep me up to date. Suggest finding better staging areas up in the plains. I believe we pre-negotiated for some within various villages?
+
+-We did. I’ll contact the necessary folks to activate those and get them manned. By the energy we’re detecting, there might be an army breaching within the southern woods, but if this is just a scouting party, we should have plenty of time to change our response.-
+
+Tala frowned. She couldn’t understand why the Black Legion would surface there, but she supposed they’d find out soon enough.
+
+-Master Jevin is moving to investigate as well. I’ll let you know when he tells me more.-
+
+Excellent. Let me know what the war council decides. If they think it’s best for me to go, I’ll go.
+
+-Understood, but we know that these power sources are our priority right now.-
+
+It really is nice to be able to entrust high-level strategy to the council… At least when not pressed for time.
+
+-True enough. Enjoy the short goodbye, and remember to get some sleep on the flight. I need it too.-
+
+You can’t just remind me when we leave?
+
+-Oh, I’ll do it then, too, but we both know we need more than one poke.-
+
+Tala chuckled. Fair enough. I’ll do what I can.

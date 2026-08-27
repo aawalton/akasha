@@ -1,0 +1,189 @@
+---
+id: 11c65df1-3fc9-5869-9c8f-9f7f3e0c9892
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 674 - Could Have Gone Better"
+slug: 0181-chapter-674-could-have-gone-better
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 181
+ownLength: 2879
+unit: words
+ownProgress: 2879
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3074045/chapter-674-could-have-gone-better"
+royalRoadId: "3074045"
+markedReadAt: "2026-06-29T19:40:51.985Z"
+---
+
+Tala felt a bit bemused at the turn of events. A House of Blood guard was quickly running the ten feet from the door to the back of the Talons waiting at rest behind her, sword already free of his scabbard and drawing back to swing.
+
+In the hall beyond, a general alarm was being spun up.
+
+The prime sergeant in charge of the three squads of Talons snapped out a command that made no sense to Tala, but she supposed that was the point.
+
+Interestingly, Tala felt the smallest brush of authority and existence at the utterance, as if something of incredible power had been drawn by the incomprehensible words, and it was mildly displeased by them. Though, it apparently wasn’t enough so as to bring about action of any kind.
+
+Regardless, the middle Talon in the back turned and stepped toward the oncoming guard, his white steel shield morphing into a pole-catch, a long pole with a collar at the end instead of a blade or spike.
+
+The Talon moved with such speed and fluidity that he’d thrust out and caught the charging guard around the neck—white steel flowing to make it a full circle—before the man realized what was happening.
+
+The Talon stepped back and to the side, twisting and dragging the guard to the ground while bleeding off his momentum so he wouldn’t snap his own neck. The white armored Talon then held his stance, keeping the guard pinned on his side, well out of reach. The white steel shaft of the pole-catch shrugged off the man’s sword strikes with ease.
+
+Even so, more house guards were coming in the door now, the alarm spreading.
+
+Head Corinis sighed, standing and using magic to project his voice. Interestingly, by the threads of reality and authority she could see—along with the magic—his voice seemingly would be heard by every House of Blood member within the hold. “Stand down. This is a false alarm. Everything is under control. Thank you for your vigilance. Return to your regular duties.”
+
+He then nodded once to himself and sat back down.
+
+The previously charging house guards slid to a stop, the other Talons having not even turned around. The single one who was still keeping their fellow pinned, didn’t move, that Talon’s magic at a low burn—just barely at a higher loss than the other Talons—to easily counter the strength of the Elder guard.
+
+The prime sergeant snapped out another command, and the white-steel pole-catch flowed back into the form of a shield, the Talon turning and returning to position, seeming uncaring of the ‘enemies’ behind, magic clamping down once more to minimal levels.
+
+The other house guards helped their companion up, bowed as one to the room at large, and retreated, keeping wary eyes on the Talons as they did so.
+
+When the door was pulled closed again, Head Corinis sighed once more. “You could have handled that better, Eskau Tala.”
+
+Tala shook her head. “I believe that is only true in the sense that everything can be done better in retrospect. No one was harmed, and you got an easy demonstration of their capabilities.”
+
+The Head steepled his fingers, raising one eyebrow.
+
+The blue Pillar leaned forward in interest. “I don’t detect any gates, yet their weapons are morphic. Have you found a way to get such results without a soul-bond with special treatment of materials?”
+
+Tala gave a nod. “It is a function of the white steel you see. The material is expensive to produce and takes a good amount of time as well. Beyond that, the use of it is a question of meticulous training. My Talons, including those you see here, have had more than a decade of dedicated training, partially under Eskau Meallain’s tutelage.”
+
+That caused a ripple of mutters through the Eskau and Pillars. Eskau Reidh still ostensibly had the floor, so it made sense that it was he who broke the short silence. “Well… This is indeed a substantial show of force. Do I understand your words correctly? These are not all of your… Talons?”
+
+“That is correct. I have fifty Talons of a similar level to these, with another two hundred with training ranging from five years to a few months.”
+
+If the earlier revelations had caused shock, this was another level entirely. Eyes widened, people gasped, and Pillar Cruas snorted, muttering under his breath even though all present could hear him regardless. “No wonder Eskau Meallain isn’t in a hurry to return home. She has a miniature army to train. I bet she’s having the time of her life, lifting up sparring partners by the dozen.”
+
+Chuckles rippled through those who knew the elven Eskau, breaking some of the tension.
+
+Head Corinis’s eyes were narrowed. “Two hundred and fifty warriors. I notice you make no mention of their advancement.”
+
+Tala shrugged, gesturing to those behind her. “All will have this level of power, even if not this level of skill in wielding it.”
+
+Confusion followed those words. How could a non-gateless have power without the skill to wield it. It made no sense. The only way that was possible was…
+
+One by one, they understood, several outright choking on the very idea.
+
+Head Corinis fixed her with an intense gaze. “These soldiers are not magically bound to you; their power does not mirror yours in feel. That means that you have easy access to unaspected power at Revered densities.” It wasn’t a question. “This is the only explanation.”
+
+Tala sighed. She’d known this would come out sooner rather than later, the revealing of the Talons bringing it to the forefront. “Yes.”
+
+Silence was absolute.
+
+After a moment, the turtle-kin Pillar began to chuckle, his laugh growing until everyone turned to regard him. The man got himself under control before wiping a tear from one eye.
+
+Head Corinis arched an eyebrow. “Care to share what is so funny, Pillar?”
+
+“But of course.” He smiled. “She has brought together exactly the resources needed to entice Houses away from vestiges.” He turned to glance at Tala. “I assume that there are no vestiges involved, yes?”
+
+“That is correct.” She answered easily.
+
+“You see? She has held this in reserve, likely to prevent three things.” The turtle raised three claw-tipped fingers. “First, she wanted her appointment to be based upon herself, not upon this novelty, no matter what it is. Therefore, it will be difficult to reproduce, likely taking many iterations to perfect if it is possible to reproduce at all.”
+
+It was Tala’s turn to lift her eyebrows in surprise.
+
+“She was not willing for her position to be tenuous until replication was figured out. Second, she did not want this idea to be stolen, which means that it would likely be easier to abuse the trick, maybe even applying it to existing structures, possibly even increasing the desire and need for vestiges or something similar. With such available, the chances of peace with the northern gated would become shaky at best, untenable at worst.”
+
+He wasn’t wrong, but… Alat cackled. -We didn’t think this far through it. He’s giving us far too much credit.-
+
+“Third, I would bet that the current version has herself at the core. There is a chance, however small, that we would have tried to capture her and extort the use without her being in principal control. This might have even been the reason she waited until she had advanced this far before returning to us. Given her previous interactions with our House, I cannot blame that concern, misplaced as it may be.” He regarded Tala critically. “Did I get close to the mark, young Eskau?”
+
+Tala huffed a laugh. “Precisely right, good Pillar.”
+
+The turtle-kin gave a self-satisfied nod and leaned back, a contented smile across his features.
+
+Eskau Reidh was still standing, and he huffed a laugh. “My final objection is satisfied. I vote in favor on behalf of my Pillar and our segment of the House of Blood.”
+
+Tala gave the dragonling a grateful nod even as the Eskau returned to his seat. Tala directed her question to the Head of House. “Head Corinis, are my Talons still required?”
+
+The man shook his head. “No. They may go.”
+
+She nodded, and the Talons were gone, once more with no evidence of their passage.
+
+“Now, we have a unanimous vote from each branch of the House. The only vote that remains uncast is mine.” He smiled knowingly. “Before I finalize this decision, I ask the requisite question. We have agreed that a war is coming. We have agreed that the House of Blood raising up an Eskau of War is warranted, even wise. We have even easily conceded that Eskau Tala is a worthy candidate for the position.” He let that hang in the air for a long moment before nodding once to himself. “What we have not discussed and determined is if she is the best candidate among our options, and that is something that must be rectified before I announce my decision.”
+
+This time, one of the Eskau snorted, a cat-kin of some kind, maybe a mix. “She defeated Eskau Pallaun, or at least sparred him to a draw. She has Eskau Meallain contained. The Titan of the Plains herself is on a Sovereign cursed leash for all intents and purposes, and that’s just her… by herself. She’s connected to the gated, and I know each of you has either fought one of their elites or knows of such clashes. Finally, she is not only a true Eskau of this House, but despite having grounds for disdain and dislike toward us, she has returned, and sought deeper connection with us. With all due respect, Head Corinis, how could anyone be a better pick?”
+
+The gathered Pillars and Eskau were nodding along, clearly having already come to this exact conclusion. -Well, I suppose that makes it rather clear why the vote was so sweepingly in our favor.-
+
+No kidding.
+
+The Eskau had one more thing to add. “Were I to be put forward as a candidate, I would decline, and I believe that all my brother and sister Eskau would do the same. Some of us might be able to hold our own against her in one on one combat, but the Eskau of War is meant to be more than just a warrior. If we as a House are to take a lead position and win this war? She isn’t the best choice, she’s the only choice.”
+
+Silence fell once more, and the Eskau turned to Tala and gave a deferential nod of his head, smiling. Tala returned it, a small smile tugging at her lips as well.
+
+Head Corinis nodded once and clapped his hands together, drawing the focus back to him. “Well said, Eskau. Thank you. I trust there is nothing more to add?” He looked at those gathered, giving them a moment to speak. No one did. “Then, let us bring this to a conclusion. I also vote to approve Eskau Tala as Eskau of War.”
+
+Tala felt existence trembling.
+
+The Head of House continued, “May your wisdom guide the House of Blood to victory. May your blade cut down all who oppose you. You are Eskau of War until the enemy is defeated or until your blood runs cold. Be recognized.”
+
+The authority of an ancient House flared into being around Tala, pouring into and suffusing her. It wasn’t quite the same as she’d felt within the heads of the hereditary houses, but it was similar in scope and type. This was a granted authority that was being tied to her very life, her very self.
+
+Once this was done, it might be weakened, or even limited, but it could never be taken from her.
+
+It spun through her, and Tala got the fascinating sense that she could reject it. She could keep this at arms length and prevent it from joining with her.
+
+She didn’t.
+
+Drawing an unnecessary breath, she opened herself to the suffusion of authority and felt it join with what she’d already held as an Eskau of the House of Blood, strengthening and deepening that well within her very being.
+
+Beyond just the general feeling and sense of authority, she felt powerful reality threads forming and tying tightly to her, joining her node to that of every warrior of the House, no matter where they may be at the moment.
+
+She also felt a powerful cord of dissonant connection join her to a nebulous… something. The Black Legion. This authority is tied to fighting the Black Legion, so of course it would create ties between me and them. Too bad I can’t use this to find them.
+
+-Indeed.-
+
+She couldn’t see who lay at the end of each of the threads reaching toward allies, but their nature—along with her newly altered authority—let her know that almost every one was ‘combat effective.’ A few seemed to be unable to fight for one reason or other, but she couldn’t tell what that reason was, nor where they were. Effectively, she had a pie-chart in her mind, showing that of the House of Blood fighters, ninety-eight percent were ready for war.
+
+In addition, she could tell that all Black Legion members upon whom she’d declared war were still alive. That just made sense given that the war had theoretically just started, at least from her new-found authority’s perspective.
+
+-Oh, that’s interesting. I’ll have to investigate this further. Do what you need to do. I’m going to dive in.-
+
+Without further delay, Alat did just that, fading to the back of Tala’s awareness.
+
+Tala, for her part, bowed first toward the Head of House, then toward each of the gathered Eskau and Pillars. When she finished the ceremonial abasement, she straightened, already knowing the words she was supposed to say. “From service to leadership, I rise to uplift the House with service still. My life will be the bulwark against this foe. The House of Blood will triumph.”
+
+Those gathered echoed back. “The House of Blood will triumph.”
+
+“Let’s begin with a full briefing on the Talons and how we can incorporate the resources I have in order to uplift and train our House forces.”
+
+This was going to be a long day.
+
+Every single attendee requested and had brought to them some form of magical note-taking, and the group set to digging through her resources, ideas, and potential plans.
+
+The idea of Hold Wardens was initially incredibly exciting to the House of Blood leadership, that was until Tala revealed that the device that had been used to most easily allow the de-aspecting of power came from fox-kin.
+
+That started a whole argument that only ended when it was pointed out that such was only the most efficient method, not the only one.
+
+With that potential on the line, they began seriously discussing the purchase of gated villages from one or more Houses that provided vestiges.
+
+It was a bit of a distasteful thing for them, but the benefits were immense. In theory, they could offer gated the path to become a hold warden, and if they failed, they’d simply become a vestige as before. There was no real ‘losing’ from the perspective of the House, except that the House of Blood had historically had nothing to do with mass vestige creation for obvious moral reasons.
+
+The prospective Pillar still engaged in a form of it when forging weapons for their Eskau candidates, but that was obviously a separate thing. Everyone present agreed. Tala didn’t feel like arguing the point at the moment.
+
+In the end, this wasn’t something that Tala could order as it wasn’t strictly under the auspices of war, but her new position meant that the idea was taken far more seriously. The result was that House of Blood officials would go to several gated villages and buy willing gated to be brought into the House in the hopes of raising up hold wardens.
+
+Their gates would serve the House of Blood either way, whether as Hold Wardens or vestiges, hence why all involved insisted on only the willing being taken in.
+
+Tala added the addendum that the acquisitions should aim for either unattached individuals or whole family units, which was quickly agreed to.
+
+Well, I’ve successfully convinced the House of Blood to get into the vestige business… yay, me.
+
+-No, you convinced them to move toward being self-sufficient for their own hold power. In time, vestiges shouldn’t be necessary.-
+
+I hope you’re right… That was the path that she and the others of the northern cities had laid out as the most likely to succeed in turning the ship of arcane society and culture. Still, it made her feel a bit… rusting tainted.
+
+-You have to get in the mud in order to drag out those drowning in it.-
+
+Fair… Oh! How goes the investigation of the new reality threads?
+
+-Nothing so far, but I’m still seeing what I can figure out.-
+
+Well, don’t let me stop you.
+
+-Yeah, yeah. I’ll go. Have fun!-
+
+With that decided, the subject turned to her ‘high density’ hold, and if the predatory gleam in every eye regarding her was any indication, this was going to be a much harder conversation.

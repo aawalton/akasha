@@ -1,0 +1,293 @@
+---
+id: 26181591-4bbe-5cef-a28a-f55e88138939
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 Reborn"
+slug: 0002-chapter-2-reborn
+partOf: melody-of-mana
+position: 2
+ownLength: 4935
+unit: words
+ownProgress: 4935
+publishedAt: 2021-06-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/699299/chapter-2-reborn"
+royalRoadId: "699299"
+markedReadAt: "2026-06-29T22:26:17.987Z"
+---
+
+The pushing turned out to be contractions, bringing me into a new world. Being born is an altogether unpleasant experience for everyone involved. It takes hours, is massively uncomfortable and painful, confusing too. I thoroughly understand why babies cry at their birth.
+
+Finally I was pushed and pulled out though, and I could breathe again. I screamed for help, not having any clue where I was or what was going on at the time. Someone even smacked my bottom, how terrible.
+
+Soon enough I was cleaned a bit and passed around. Huge hands took me and strange faces looked down, speaking in some language I'd never heard anything like. They were all women, at least as far as I could tell.
+
+I couldn't see much as I tried to look around, mostly vague shapes, this made me worry I might have damaged my eyes. But all my senses were wonky. Sight and hearing were the most obvious. Sounds were all really weird on top of the fact that I could only see shades and outlines, it was heavily disorienting. Smells were all weird too, though most of what I could smell was the results of my birth.
+
+After a spell I was passed over to what I assumed had to be my mother. She held me gently, rocking me for a bit before bringing me to her breast. Being fed so had to be about the most awkward thing that has ever happened to me. The way she spoke and hummed to me though had a near infinite kindness buried in it, and it relaxed me immediately.
+
+I tried to move and speak a bit, but this new body was highly uncooperative. My muscles barely responded, unable even to properly support my own weight. My mouth just wouldn't make sounds right either. I couldn't get a single word out at all, it was a real pain.
+
+Soon enough we were joined by some men. I assumed they were men at least. Their voices were much deeper and they seemed to have bigger and rougher hands. They were also far less competent about holding me. A scream from me alerted the women and after a few sharp sounding words I was carefully passed back to my mom.
+
+It's a bit weird thinking about her as that at first, as I had a mom before. After a few days though it is clear as day. Whoever this woman is, she is my mother, and she does care for me. After that I had no issue accepting her or any of the rest as a family as true as any I'd ever known.
+
+With a few months my senses improved by leaps and bounds. I could finally see some of the things around me. Our house was a small one room thing, not unlike an old hut from a history book on the middle ages. It wasn't nice, but it was a bit warm. You could tell people lived and were happy here.
+
+My family looked European. There were my parents and two brothers. Dad had black hair with a bit of gray and looked like he was made from taut wires. Mom had pale blonde hair and was rather lithe, but graceful. My two brothers were blondes, and appeared to be close to ten years old.
+
+One might think that a baby would be bored all the time, but it is not so at all. I was having to retrain my body from the ground up. It was a bit exhausting, but every step brought me that much closer to being myself again. Or at least sort of like myself again.
+
+As I progressed I learned that my name is Alana, which is very pretty. I still wasn't up to speaking yet though. My mouth was getting better but it still felt a bit weird, but I was picking up some of the language. I was now able understand at least a few words, and mostly get what people wanted me to since things like 'Come here.' and 'No Alana.' are very simple.
+
+Mornings in this world start early. Mom tended the fire from some ashes kept under a clay pot while my brothers and dad fetched eggs and water. Breakfast for them was eggs, bread, and veggies. Everyone quickly ate and began their daily work, leaving only me and mom at home.
+
+My brothers sometimes brought back things like greens and mushrooms around lunch. By the other kids that are coming with them I assumed they were playing and gathering those. That looked extremely fun so I hoped I could join them soon.
+
+Mom stayed at the house. After it was just us she did a quick cleaning, and put dinner on, mostly soups and the like. Then some of her friends would come by and they would do handiwork while gossiping about something or other. My guess was that they came here because I was so small. They all seemed really good at spinning and sewing and stuff. I suppose they'd been practicing all their lives.
+
+Dad would come home around dark for dinner, which was decidedly the largest meal of the day here. While there was absolutely more food there was seldom any meat. What meat there was was in soups or stews. That felt odd to me, since a meal isn't much without some meat right?
+
+After dinner the boys would repair tools and do some handiwork. Mom went over to the corner and worked on a loom as tall as she was, it didn't look like an overly complex machine, but it sure was big. Their whole lifestyle seemed rigid and repetitive, but everyone seemed happy, so who am I to judge?
+
+From what I could tell my brothers were an absolute handful. It was not uncommon for them to be drug home by someone only to have my mother beat them with a large wooden spoon. I never saw dad get angry though, mom was certainly the disciplinarian in this house. I will give them this though, the boys did seem to rein it in around me. They at least had the good sense to be careful around a baby.
+
+After a couple more months mom started taking me to other houses, and I finally got a good look at what was outside. We had a small chicken coop, with a rooster and his tiny flock. He was a proud, colorful little man, who crowed every morning to greet the sun. We appeared to be in a hamlet of about ten houses, surrounded on all sides by fields. They were primarily some form of wheat, with some fruit and veggies mixed in. In one direction I could see a huge wall of green, which must be a forest.
+
+Upon seeing other houses I could say for sure that we were in the middle of the pack. Some of the houses were nicer, some worse, but my family seemed well off enough for this little hamlet. I didn't see all of them, but mom was now the visitor, dragging me along to play with other people's children.
+
+I could still see the patterns of light from the cave. I managed to tune them out or bring them forward at will, so I mostly just ignored them. I really wondered if everyone here saw these things, unfortunately I couldn't ask. They did however highlight one house in our hamlet, it was decidedly surrounded in little triangles.
+
+The old man who seemed to live there alone was too. He looked like he was being surrounded by the contents of a trig textbook, floating semitransparent in the air all around him. The people of the village seemed to respect him, and he was decidedly the best off person here.
+
+My days continued much like this until I was about nine months old. Then it got colder and the seasons led to new work for everyone. I think I was born in the winter, since it was now fast approaching.
+
+One day I found myself sitting on our rug, playing with my toys. If I didn't want to play people would come and rattle things in front of me and get all worried until I did. So it was easier to just go along with it. I had a little rattle they gave me. What I wanted was one of mom's spindles, I'd seen her using it a lot and it looked fun to do. She wouldn't hand it over though, so I just sat there rattling thinking about how I might get a chance to look over it closer.
+
+As I was going over this in my mind I saw one of the bubbles start to form around it. Not sure what was going on I kept at it, and saw the spindle begin to move towards me, floating down off the table and over. It was deathly hard, each moment I could feel myself getting more tired, my focus waning. Finally the spindle landed right in my little hand and I cheered and burbled in delight.
+
+I can do magic!
+
+It may not be much, but this was magic! Magic! That's the big one, with that I might be able to do some things here. I'll have to work and practice for sure.
+
+I cheered and held up the spindle, the sign of my first success. At least until mom saw me. She rushed over, taking it from my small hand.
+
+“No Alana, that's not a toy, be a good girl and play with one of your toys.” She pushed a doll I was completely uninterested in at me as I reached for the spindle again.
+
+I cried about it being taken away and grabbed at my prize but she refused to relent. Eventually I fell asleep, exhausted from my efforts and my bawling to get the spindle, my spindle back.
+
+Upon waking I made a few decisions. I could not allow my family to know what I can do. Who knew how this world responds to magic. Practice was a must though, and I would be doing that whenever I got the chance.
+
+Secretly I worked on my first little spell, grabbing the spindle every time mom turned her back. The progress was slow, painfully slow. She on the other hand was unamused by my antics, even popping my bottom a few times. I persisted though, soon I would claim it as my trophy, to celebrate my acquisition of magic.
+
+I also managed to figure out how to make both the room and myself a bit warmer or cooler. That new trick was really hard, but as winter approached I found it immensely helpful. Around the same time I learned that I didn't need the rattle. Making noise or even moving worked just as well.
+
+My parents seemed to be concerned that I'd not started speaking yet. That was understandable I guess, since I was about that age. I could do a few words in English, not that anyone thought it was anything other than baby talk. Mom would hold me looking intently as she spoke.
+
+"Can you say 'mama' Alana?" She would ask in the sweetest tone she could manage.
+
+"Won't you say 'mama' for me?" I was practicing a bit when nobody was around, but I was stubborn, waiting for just the right moment.
+
+One evening at dinner I decided to show them what I'd been working on all day. Looking across the table I spoke clearly to my mother. “Mama!” She was thrilled, everyone smiled, dad even gave a toast. I followed it up as he was drinking for maximum effect. “Spindle!” I yelled almost accusingly. Dad spat his drink out and across the table, my brothers almost fell out of their chairs. My mother looked more than a bit peeved. After dinner though the spindle was added to my toys, success!
+
+As winter fell upon us I managed to keep the house nice and toasty warm. My family of course didn't really know why it was so warm, but they mentioned a couple of times that we weren't having to use as much wood this year.
+
+We spent the whole time cooped up together. There were few chores that required anyone to leave, and when they did, they hurried back to the warmth. During those outings I got a few quick looks at the outside. Snow had descended in force, leaving everything covered in a thick blanket of white. I was amazingly glad I could stay inside through this mess.
+
+We spent our winter fixing up tools and prepping for the spring to come. Handiwork seemed to be the order of the season and everyone, self excluded, dove into it with fervor. Mom was weaving like a madwoman as dad and the boys carved and fixed up everything they would need for spring.
+
+Our home was lit with lamps for the most part, which was unexpected when I first saw it. There seem to be several kinds of oil, some of which truly stink. As the months dragged on this kind, along with some kind of burning rushes ended up making our house smell horridly.
+
+The normal foods also changed, with cheese and yogurt now making up a sizable portion of our diet. There was less food all around by a huge quantity too, but without farm work that wasn't an issue. My family always drank some kind of ale, never water. I of course was given some kind of funny tasting milk instead. It didn't have a bad flavor, just a very different one.
+
+As spring approached and the boys went back to their gathering. The influx of some fresh greens was quite welcome.
+
+I also saw that the bubbles I'd noticed on myself back in the cave came back, floating away harmlessly whenever I tried to do magic. Once or twice I even started to see them when I wasn't. It would seem I was forming some kind of aura.
+
+My second year proceeded much as the first, save that I proved myself to my family to be an incorrigible chatterbox, asking them all kinds of questions.
+
+"Mom, what's that?"
+
+"That's the field, where our food is grown."
+
+"What are they growing?"
+
+"Mostly wheat, also some cabbage, some beans, and over there are some grapes."
+
+"Mom, who's that?"
+
+"That's your uncle Barro, he's your dad's brother."
+
+"Mom, who's that?"
+
+"Hm? Oh that's Mystien, he's a wizard."
+
+"What's a wizard?"
+
+"He can do magic."
+
+"What do you mean magic?"
+
+"He can make things happen when he wants them to, like he can make fire if he wants fire."
+
+"Can I learn magic?"
+
+"Maybe when you're older, most people can't though."
+
+"Oh, okay."
+
+I guess that it was all a real pain for my family, but how else was I going to learn all these new words? And I really wanted to learn them. The more I can learn about the world, the safer I'll be.
+
+Around the same time I got to go on my first trip to the village. It was around half an hour from our little hamlet. We're still considered part of it, so it's no big deal, but we were one of five hamlets that spread out around the village proper like the spokes of a wheel. There's around four hundred people in the village, with the same amount living in the hamlets. It's nice, but not too busy overall, reminding me of some old roleplaying games.
+
+Mom was going for a market day, and I finally got to tag along. These were a regular occurrence, and served as the chance to stock up and share gossip. We needed salt and ale, the latter of which would be delivered to us, but we came mostly to gossip. Our family had much of what we would need, and couldn't really afford much of what we would want.
+
+The gossip was good, right outside of the town hall we met with mom's friends. A nearby empire was having a succession crisis. Some wealthy merchant girl had been found out as the mistress of a duke, to the great trepidation of both families. The local big city was also having some issues with grain output, everyone there blamed their mayor.
+
+The town hall itself was lovely. A huge building big enough to hold the town population easily. Mom said it was used for some festivals and dances, things like that.
+
+Near the end of the day I even got a few candies. They were made of honey and tasted just like it, along with some other fruity flavors on the side. Honey was apparently quite pricey as nobody kept bees. When I asked why I was told that it wasn't possible.
+
+Beekeeping became one of the things I wanted to invent, right up there with plumbing. We currently used a chamber pot; it was disgusting to an unbelievable level.
+
+That winter was interesting. I learned that most of the dairy, including the weird milk from the previous year, was from some goats one of the villagers kept. I was also given a very small amount of the beer this year. Or ale rather, and not a particularly pleasant one. Nobody drank water. I didn't know why, so of course I just asked.
+
+"Dad, why doesn't anyone drink water?" I inquired one evening.
+
+"Because Alana, water will make you sick. You must never drink it." He gave an immediate and stern response.
+
+"It does?" I was thoroughly confused by this.
+
+"Mmmhmm, at least the water around here does. Make sure to drink ale or milk okay?"
+
+"Okay" I responded, it was weird, but maybe the water around here was dirty or something? Why didn't they just boil it?
+
+Then it occurred to me that I was being dense. They probably didn't know to boil it. Best to stick to milk or ale, it'd make my parents happy at least.
+
+Things proceeded much the same until I was three. I'd secretly practice magic, I learned to make a little light. I also learned a few new skills, figuring out how to spin some wool into low grade yarn. My mobility went up too, and I could now properly walk and run around. This let me spend a lot more time outside.
+
+All things continued like this until “The Incident”- a day that will forever stick with me vividly.
+
+I was playing with a little magical light ball, trying to adjust its color to periwinkle. It wasn't big, just a small ball I was shifting around in my palm as I worked out the method to change its coloration.
+
+Truthfully I was supposed to be washing a large old pot my mom had given me. I had all the tools, some ash from our hearth, a little brush. It was an easy thing to teach me about cleaning. Most of my chores were just a bit of light education like that. Not that I was given many chores, perhaps two or three little tasks like this a day.
+
+Because of my intense focus on that which I wasn't supposed to be doing I didn't hear the annoying, rude adolescents sneaking up on me. One or both of my brothers thought it would be funny to toss a grasshopper onto their adorable little sister's shoulder to scare her. Because they could be real jerks when not monitored by more mature people.
+
+They didn't notice the small ball of light fly off to places unknown as I got surprised and spun. Struggling while trying to get the bug off of me.
+
+Everyone saw when the insect jumped onto my face and scared me. The spell turned into a blood red flare as I lost control, everything turning deep crimson as it detonated over a nearby field. The noise of it going off was a piercing keening over the whole hamlet, like a scream to accompany the second sunset.
+
+There was dead silence for only a moment before movement exploded. I could hear others running for cover as my oldest brother Rod scooped me up and ran for the house. He might have been a stupid git most of the time, but his dedication to protecting me was truly touching.
+
+“Rod!” I called out to him.
+
+“Be quiet,” was the only response I got back.
+
+“What was that!?” John asked. My other brother seemed just as surprised as everyone else.
+
+“I dunno, bad.” Rod was a bit short with us, but he didn't have time to talk as he ran.
+
+Mom met us as the door and ushered us inside. Slamming it, she began to ask the same questions. When I tried to speak up I was told to be quiet. Being a little kid really sucked sometimes, nobody ever listened when you had something to say.
+
+Perhaps a minute after the questioning dad flashed through the door. I had once compared him to a panther, and how right that was. He was moving so fast, I'd never seen anyone move like that before.
+
+"Is anyone hurt?" he asked. His voice had changed, he sounded like a commander from some war movie.
+
+"No, what's happening?" mom replied worriedly.
+
+Dad moved to a certain spot and jumped up, grabbing onto the rafters, an impressive feat, being that they were easily ten feet up. Grabbing onto one and holding himself like it was nothing he tossed down a sack that had been up there, along with grabbing what appeared to be a spear.
+
+"We don't know, we're too close to civilization for monsters to attack. There's nothing in this area that should have done that." He'd emptied the sack to take out a chain shirt and helmet and was getting dressed quickly. "Stay here and be quiet."
+
+I tried to speak up again only to have my mother put her hand over my mouth.
+
+I made one final attempt after my father had left, to tell my mom that it was probably me ended with not only her hand over, and staying on my mouth, but a number of hard thwacks to my backside with her trusty wooden spoon. A first I might add, as I generally behaved well.
+
+"No talking, understand?" was her whispered threat. The spoon was still in hand.
+
+My parents on Earth hadn't believed in corporal punishment, so this was an extreme first. I tearfully nodded, if they wanted to chase after shadows, I wouldn't try to stop them any further.
+
+It took a couple hours for dad to return. When he did he was still wearing his war gear, looking like something out of a movie. Mom looked at him with worry as he led us out taking us to meet with all the other families near the road to town.
+
+"The old man's still out there checking, we're going to the village." Dad announced to everyone, before turning to lead us on.
+
+All the adult men of the hamlet were here and well armed. Most just had some farming implement, but a few like dad had proper weapons. Only one other was in armor, and while dad led us, he took the rear. Everyone's eyes scanned the area around as we went, nearly in a panic.
+
+Once we got inside the palisade of the village everyone calmed down. Quickly we made our way to the town hall and got inside. As soon as the men left the talking began. It was sunset and everyone was now on complete edge.
+
+I was sat down and given a very firm talking to. Mom was livid that I had kept trying to talk when told to be quiet, particularly in such a dangerous situation. She particularly emphasized that I was being far too disobedient. Then threatened to spank me again if I said another word. Her exact words were, “Be quiet until an adult tells you otherwise.” I had every intention of obeying.
+
+As night crept in more and more people showed up. From what I could gather all the spokes were being called in in a panic. Their conversations just sounded like “Doom doom” from where I sat silent. I could only imagine how livid these people were going to be when they found out that it was me.
+
+The theories were completely out there. One said that it was the kickoff signal for a war with the empire, whoever they were. Another postulated that bandit tribe had moved in and tried something, only to be shot down by a neighbor who pointed out that there'd been no large bandit groups in this region for well over a century. My personal favorite was the old man who swore he'd seen something just like it, when a wizard tried to make a teleportation gate and it malfunctioned, turning him into a fine red mist.
+
+The one thing that everyone agreed on was that whatever it was Mystien would figure it out. He was apparently the only wizard in the region. From what I could gather those who could focus magic were quite rare. When he entered the room all eyes went immediately to him, the focus sharp.
+
+"I've determined that what we saw was most likely a spell failure of some kind. While the effect was dramatic, the damage and trace left in the area was almost nonexistent. Therefore it was probably a fairly weak effect that failed." he announced to the crowd.
+
+"Are we in any danger?" asked one person.
+
+"Does that mean they have wizards ready to attack us?" another interrupted.
+
+"Do you know where this came from?" a worried mother jumped in.
+
+"Were they trying to burn our fields? Poison us?" one farmer interjected.
+
+A man I would later learn was the mayor moved to the front. The wizard thumped his staff on the floor loudly and silence descended once again.
+
+"Now, I want everyone who saw the blast directly to come forward and tell us exactly what they saw. Maybe then we'll figure this out."
+
+Several men came forward, my brothers did too. They were at the back of the line. Each man described the fieldwork or whatnot he was involved in when they saw the flash. A couple said they saw something moving away. One claimed he saw a giant bird just before.
+
+When it got to my brothers the mayor looked down at them. "Alright boys, what were you doing when this all happened?"
+
+"We were... um, playing with our little sister." Rob offered up.
+
+"Yeah, just going to see her, she was washing some dishes or something..." John agreed.
+
+They both then agreed that they hadn't seen the source of the light. The mayor looked a bit more sternly at them, "Where's your sister?" he asked. No girls had been brought forward for the little questioning.
+
+Mom helpfully brought me up and set me down beside them.
+
+I looked at the wizard, his aura still messing with the magic in the air around him.
+
+The wizard looked down at me, even I could see one or two little bubbles drifting off of my skin.
+
+He knew.
+
+I knew he knew.
+
+He knew I knew he knew.
+
+Busted.
+
+"What were you doing when all this happened? Your brothers seem to think you were doing chores. Is that so?" Mystien asked. His expression was clear, he'd take no nonsense from me.
+
+"I-I was playing, and a-a grasshopper jumped up on my face." I didn't have to try to look afraid, I was.
+
+"Oh? What were you playing?" he responded. The mayor looked a bit confused, several townspeople seemed to be questioning why that mattered.
+
+"I was.. um, I was playing with a light," I offered helpfully, tugging on the hem of the tunic I was wearing and looking down.
+
+"Show me." His tone left no opening for wriggling out of this.
+
+"I don't see why this matters." The mayor piped up.
+
+"Show me," Mystien said again.
+
+I hummed a short song, and my little light appeared in my hand, pretty and blue. The wizard looked like he was trying to maintain as firm a face as he could. The mayor rubbed his eyebrow ridges like he was getting a headache. The crowd took about five seconds to get angry, and another five to quiet down as the old man beat his staff on the floor.
+
+"Why didn't you tell anyone earlier girl?" the mayor looked truly miffed.
+
+"I-I tried to; people kept telling me to be quiet." That one actually got a chuckle from the old man.
+
+"It's just a newly blooming bard playing with, and losing control of her powers. Everyone can go home." He was still trying to suppress his mirth.
+
+"Oi, we lost half a day of work, and all this time for this nonsense, comon!" One irritated man shouted. I flinched at that.
+
+"Aye you did, but we found something well worth it," offered out Mystien.
+
+"And what the hell would that be?!"
+
+"You might not know this, but bards can learn basic healing magics, and once I get her trained a bit, and I will, this village will have a basic level of magical healing." That shut everyone up. There were several murmurs of how that would be great, and while a few were still a bit miffed, they started filing home. The mayor on the other hand... well, the mayor looked like it was Christmas and I was the biggest present under the tree.
+
+Looking at him, the old wizard, and my parents, I could quickly feel my life getting harder.

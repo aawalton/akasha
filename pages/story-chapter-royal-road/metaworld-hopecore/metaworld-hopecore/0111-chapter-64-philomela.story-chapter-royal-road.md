@@ -1,0 +1,387 @@
+---
+id: ff98fb9e-affd-51cb-85c5-008affa8cc1d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 64 - Philomela"
+slug: 0111-chapter-64-philomela
+partOf: metaworld-hopecore
+position: 111
+ownLength: 4050
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3564525/chapter-64-philomela"
+royalRoadId: "3564525"
+---
+
+"Thou map of woe, that thus dost talk in signs!"
+
+Titus AndronicusAct III, Scene II
+
+Saturday ended with three more hours of recording in the afternoon. Mueller assured them that with every performance, he was squeezing more and more out of Eppie and Zara.
+
+Eppie informed Mueller that, if he squeezed her any more, she would splinter into dust, like a banished Undead spirit.
+
+And she was serious. Eight sessions of [Songstress], [Vocality], [Charisma], [Perfect Pitch], [El duende] spent almost [12,000 Causality].
+
+Between Mueller and William, she had about [145,936] left.
+
+Considering her [32 Dasein] top-up was now four digits per additional token, she really needed another windfall if she wanted to pursue justice over forgiving William.
+
+Mueller rolled his eyes and said, "Okay."
+
+Thankfully, nobody else objected.
+
+Eppie then collapsed, not from fatigue, but from the stress of watching her [Causality] slip.
+
+“Is Oto-san going to release When Doves Cry soon?” she probed the audio maestro.
+
+“We haven’t found the singer for the version Curon has in mind,” Mueller informed her with a sigh, not even batting an eye at her slipped-in daddy dearest. “Have patience. It’s better to have no song than a terrible song.”
+
+Spoken like a man with more than a month to live… Eppie rolled her eyes as well.
+
+“Don’t do that. You look like you’re having a seizure…” Mueller shook himself out, then patted the SSL deck like a man praising an old dog. “I’ll comp the best parts of each take, but that was something.”
+
+“Top-20?” Antonio stood by the side of the deck.
+
+“Top-40,” Mueller looked at Eppie. Then at Zara. “I’ll be honest here. We’ll make more money once it’s licensed for TV and cinema. Umbrella, this is not.”
+
+Her recording maestro levelled a hyper-critical gaze at her face.
+
+“What?” Eppie checked her face, then checked her cardigan “Did I spill something?”
+
+“You know the Director is having one of those arthouse MTVs made for the song, right? Full Ken Burns, PBS American documentary style, made with stock footage from the Appalachian epoch. They’re hiring a cinema verite specialist, I believe.”
+
+“Alright…” Eppie looked at Zara, then at Mueller. “Is that… good? Is that industry standard?”
+
+“No…” Mueller gave her one of those looks, then sighed. “You turned down Director Davis. Didn’t you?”
+
+“Ah…” Eppie now knew why her father had to pay out of pocket and go the history route.
+
+“Well, it's not a bad thing.” Mueller pointed at her. “You’re fifteen. You don’t look fifteen.”
+
+He pointed at Zara. “You’re seventeen. You have mature optics. But does Zara really want to… star in a video about In the Pines? Being Latino, that’s just asking for trouble.”
+
+Eppie winced. Indeed, she wouldn’t want Zara playing the titular heroine either.
+
+“We could probably do something with Dream a Little,” Mueller explained. “What do you suppose you’d like for Dream?”
+
+Eppie looked at Zara. “Starring us?”
+
+“Who else?” The German snickered. “You’re both gorgeous.”
+
+Zara hid her face out of shame. Eppie, shameless, concurred that they were, indeed, gorgeous.
+
+Then she gave the matter some thought. Her [Script Analysis] fired, and she had the perfect idea. “How about a home video? Super 8. VHS. Me and Zara, childhood friends. Growing up. Separating. One of us is big city. Another one has a family. We still think of each other. A lifetime spent apart, but thinking back to childhood. Girl-friends of the Halcyon days?”
+
+The room grew silent.
+
+“Let me grab a—” Mueller scrambled for something. He returned with a recorder. “Say that again.”
+
+She repeated herself. Beside her, Zara was already red as a Spanish Chorizo.
+
+Mueller weighed the tape in his hand. Antonio whistled.
+
+“I think it’ll work,” the maestro closed his eyes for a moment and tried to imagine the result. “It will work.”
+
+Well, it's nothing to write home about. Eppie didn’t quite get the fuss either. But then again, in 2008, MTV was still kicking the same can down the road. Barring breakthroughs like Single Ladies, rock videos featured bands playing against moody lighting, while RnB entrenched itself in codified “car, cats and cool”, as Kellie Noah’s signature Umbrella video. Narrative music videos remained irregular. Well-shot, stylistic ones remained scarcer.
+
+“What now?” she asked.
+
+“Steak Dinner?” Mueller cracked a mischievous grin. “Director Curon’s buying.”
+
+Sunday. The laborious process of Dream a Little was next.
+
+They did twelve takes. The seventh was the best. Mueller was satisfied, but not in the same way as Pines. Dwayne said it was lovely. Pete said it was very lovely. Certainly, the girls were lovely.
+
+It was a simple, lovely recording, sweet enough to cause tooth decay in the unwary listener. Mueller told her to keep the MTV sequence in mind, for once Curon got a hold of the song, he would arrange for the film department to assign them a director and a crew. The shoot should take no more than a day or two, assuming locations were scouted, and the girls were available.
+
+They had dinner together again—Eppie’s father had deep pockets. This time, instead of steak, they had wood-fired pizza.
+
+After dinner, Antonio escorted the girls to their Prius because he was a true gentleman.
+
+Standing a little way from them, he lit a cigarette.
+
+Damn it, he looks so cool… Eppie fully appreciated why Antonio was the man when it came to Sony’s resident guitarists.
+
+Antonio offered her the distinctly red packet after he caught her staring. “Marlboro?”
+
+Eppie stared. The musician laughed out loud.
+
+They made some small talk, the Spaniard took a drag, then turned to Zara. “Mija, when you record a demo, you can send it to me.” He let the smoke out slowly. “Call it a professional interest.”
+
+“You think Zara will do well?” Eppie shared her friend’s excitement at Antonio’s recognition.
+
+“I think she has some choices to make.” Antonio exhaled slowly. “I think there are three ways our chica can play it. Pure flamenco, to give legs to Paco’s soleares. That’s the traditional ethnic route, cult following. Or she can try her hand at pop songs—because she looks the part. That’s the sellout. Or, she can do as you do now: collaborations—there is very good work for a skilful guitarist. In our world, there’s art, and then there’s business. Find a compromise that works for you, Mija.”
+
+Zara bowed her head in respect. The man’s tutelage was worth its weight in gold. Satisfied, Antonio flashed his yellowing teeth, bid the girls a safe journey, then disappeared into the dark—a man of pure mystique. Eppie mentally noted that Antonio did not actually disappear but appeared to because the parking garage was dimly lit and Antonio was wearing all black.
+
+On the drive home, Zara sighed as they rolled through the 405.
+
+“What’s wrong?” Eppie asked.
+
+Zara looked at her briefly. Her partner looked… melancholic.
+
+“I can’t believe it's all over,” she moped. “We started doing this in September and now… It's finished.”
+
+“If you put it like that,” Eppie also felt the nostalgia coming on. Her friend was right. This really was all kinds of surreal. Unlike Vincent or Whatever Will Be, she had written, polished, practised, performed, and re-iterated both songs to death for almost four months.
+
+“Eppie, aren’t you scared?” Zara exhaled. “Our music isn’t ours anymore… it's out there now…”
+
+“Well, mid-February for Pines, and I am guessing Dream will need a filming date in late February,” she assured her friend. “You’ve got more work, I am afraid. Weren’t you working on El Diablo? Your own  piece?”
+
+Zara’s expression shifted. Unlike Eppie, real songwriting took time. It took experience to digest.
+
+“I don't know what that song is yet,” she said.
+
+“You will.” She patted Zara’s thigh. You could always write about William… that’s a whole ass El Diablo right there on our campus. Her [Songstress] trembled; there was something there, just out of sight, out of hearing, but Eppie’s skills weren’t acute enough to translate inspiration into song.
+
+Zara sighed again.
+
+Now what… her friend looked at Eppie.
+
+Eppie said, “Please keep your eyes on the road.”
+
+"I hate this," Zara said, after a moment, her eyes on the road.
+
+“You hate what, exactly?” she asked.
+
+“How much I’ll miss our practice.”
+
+“I am literally two buildings over,” Eppie assured her musician friend.
+
+“But it won’t be practice…” Zara moped. “Not just us.”
+
+“Oh yeah…” said Eppie. “I guess… That is sad…” But she had an idea. In fact, it was a brilliant idea. “You wanna keep hanging out?”
+
+“YES?” Zara’s eyes moved between her and the road.
+
+“Well.” Eppie made a scooping motion with her hand. “How do you feel about flipping cat shit?”
+
+Their car pulled into LAPA.
+
+“Umm…” the Basque girl relented, then timidly asked. “How much cat shit is there?”
+
+More than you can imagine. Eppie patted her friend reassuringly. Mr Chin alone will blow your mind.
+
+The girls parted at the dorm, in a departure presided by Josefina.
+
+At the apartment, Eppie ducked into her room after a short tell-all to her roommates about her two days, then drafted her Titus homework. How does your chosen variant carry the play's social commentary into the present; what is lost, what is gained? For fear of triggering Ran, she did not write "Feudal Japan". She wrote about inheritance and the slow transfer of violence across Vatican Patricians, keeping it abstract enough to pass and specific enough to keep herself invested. [Script Analysis] hummed, approving of the idea, then she was done.
+
+Tomorrow was the 14th. Tuesday was the Cold Read.As for Zara… Eppie had only one clue from her [Songstress].
+
+If music be the food of love, play on.
+
+Monday. The courtyard was filled to the brim with practising theatre students from Sophomores to Seniors. Eppie caught sight of William Chen, then realised there was karmic justice after all.
+
+Her [Usurper] looked like a pair of Lims mugged him in a dark alley. His right arm was bandaged from the neck down, and his hand was in a sling. He had a visible bruise running up the right side of his neck, and he walked with a weird gait.
+
+Presently, he was limping among peers, charismatic and laughing, joking about his injuries.
+
+Their eyes met, and he gave her a dazzling smile. She smiled back as well, confused as to why the man was so god damn happy all of a sudden.
+
+Then she saw the answer.
+
+Valorie walked behind William, both literally and metaphorically in his shadow.
+
+The actresses’ paleness was vampiric beneath the burning auburn hair, the kind of pallor that makes a redhead look lit from inside rather than drained. Val had also chosen loose linen over her usual fitted lines, a large jacket swallowing her envy-inducing frame, its sleeves resting at the wrists, as if she loathed being touched by the fabric. A faint yellow-violet bruise sat across her knuckles. A slight cut on her lips looked recently healed. The overall effect read as Victorian porcelain, arresting, and more beautiful for its fragility.
+
+Why aren’t you better?! Eppie felt her insides despair. So that’s what negative [Causality] was for? For Val, returning to the fold?
+
+Whatever the case, retrieving Val must have cost a lot of [Causality]. Eppie didn’t know whether to laugh or cry. If it were herself, she doubted she could take the abuse and smile about it. She’d probably just run William over with whatever car Daddy bought and call it an accident driven by the female fatale driver.
+
+They passed without stopping. Valorie glanced her way, and Eppie returned the gaze.
+
+Senator Sanders’ daughter looked too exhausted to be antagonistic.
+
+Yeah… I would be too. Eppie groaned internally, both for herself and for a potential friend turned into an opponent. If a god damned [Usurper] pounded my [Causality] for two god damn days…
+
+That night, at the Stray Cat Society, she asked Lim if William had done a number on Valorie, or vice versa. Her gentle giant said William wasn’t home for two days, confirming Eppie’s worst suspicions that, yes indeed. Val was back in the fold.
+
+They both sighed. Then Eppie signed Zara into the roster.
+
+Tuesday.
+
+The Cold Read began after Cooper’s Titus lesson in the arts block. For his final advice, he told them that improv was king.
+
+“Shakespeare wrote these to be learned by amateurs and professionals,” he said. "The Globe had no Laban, no Suzuki, no methodology. You had your voice, your costume, and your instinct… So good luck.”
+
+At three PM, Eppie arrived at the Playhouse, the place she had played Antigone.
+
+Without its “Gala” set-up, the blackbox stage sat low and minimalist. At eye-level, folding tables had been shoved together, behind which Cooper, Costello, and Tyker had parked themselves with scripts fanned out like a tribunal. Nobody else sat in the audience sections. The aspirants clustered in loose constellations across the risers and the aisle, duos running lines under their breath, a trio doing vocal warm-ups, and one Sophomore visibly praying over a single page.
+
+The stage itself was already lit: a stark wash, no colour, no gel, just enough to make whoever stood there feel seen.
+
+In a situation like this, nobody wanted to be first. Naturally, nobody wanted to be last either.
+
+A folding table by the door held a shoebox of numbered tickets. One by one, names were called, and the student crossed to the box, drew blind, and got their slice of the script.
+
+Nobody was performing, and yet, the students were already in character.
+
+“Euphemia Fontaine,” Cooper read out her name, calling for Eppie to collect her scene.
+
+Her instructor had arranged the action to take place in the centre of the tiny theatre. The rest of the class formed a loose semicircle on the ladder steps.
+
+Eppie received her role and script: hers was the scene in which Lavinia’s uncle brought her to Titus.
+
+She looked up from the paper. Cameron Atkinson drew the Titus card. Some senior she didn't know, drew Marcus.
+
+Lavinia had no lines.She was to be the body in the room—but she was, without a doubt, the single most important actor in the scene.
+
+Eppie stood with the single page of paper, her [Script Analysis] churning.
+
+Their group formed up. Atkinson, large and earnest, introduced himself. The senior, a square-jawed African American aspirant, introduced himself as Jamal.Together, they shared two pages of dialogue.
+
+The plot thread involved Marcus, brother to Titus, bringing in Lavinia, freshly mutilated—tongue cut out, hands removed—tipping Titus's grief into psychotic madness.
+
+Act III, Scene I. Enter MARCUS and LAVINIA
+
+MARCUS ANDRONICUS
+
+Titus, prepare thy aged eyes to weep;Or, if not so, thy noble heart to break:I bring consuming sorrow to thine age.
+
+TITUS ANDRONICUS
+
+Will it consume me? Let me see it, then.
+
+MARCUS ANDRONICUS
+
+This was thy daughter.
+
+TITUS ANDRONICUS
+
+Why, Marcus, so she is.
+
+The “this was thy daughter” was her point of entry. The big reveal. The moment where the audience gasped, looked away, took out their iPhones and called the Education Board.
+
+For a normal actress, the role was beyond comprehension. For Eppie, she had Mio. Perhaps her [Persona] could still recall the bruised body she picked up in the locker room, the weight of Mio’s pain as she carried her home.
+
+Eppie closed her eyes and allowed the [Sublime] to take her.
+
+The weight had to drop first, shoulders forward, spine curved like something had been removed from the centre of her being, not just her hands. When Lavinia looked up to her father, the tiny movement must come at an immense cost. Her knees should have been slightly bent, balance kept low and uncertain, as though the floor could no longer be trusted. The Suzuki they were doing had taught her that it was possible.
+
+She shouldn’t rely on her face. After all, she couldn’t talk. Her mouth was filled with blood. Her eyes would do the talking. For this, she had an advantage, because her eyes were enormous. She would look at their faces, their hands. She would open her mouth, then something would fall out—blood clots. A bit of tongue, perhaps.
+
+There would be exhaustion as well. She knew exhaustion—but not the kind that came from trauma. Her imaginative sympathy for Mio would have to fill in the blank spaces.
+
+Their group was 4th in line.
+
+Group one played the opening. Group two played the killing of Tamora’s sons. Group three played the closing of Act IV.
+
+The students watched and clapped, their hearts not on the stage, but on their own scripts.
+
+"When you're ready," Cooper said.
+
+They began.
+
+Jamal spoke first: the long, terrible cataloguing of Lavinia's wounds.
+
+Titus, prepare thy aged eyes to weep;
+
+They arranged it so that Jamal stood in front of Eppie while speaking to Atkinson. When the line was delivered, he would step aside, revealing Eppie. The Senior was quite good in Eppie’s opinion. His facial expression was spot on, and he hit the horror through his voice, breaking the moment she came into view.
+
+Will it consume me? Let me see it, then.
+
+Eppie shuffled forward, her feet turned inward, as though they were bleeding and in pain. She stared at the floor, in shame, her mouth firmly closed to hold back the blood that glued her lips.
+
+Atkinson read from the page, his body language far too melodramatic.
+
+Speak, Lavinia, what accursed hand.Hath made thee handless in thy father's sight?
+
+She slowly raised the hands that were not hands. Her hands were sticks. Where blood and bone once existed, there were now cauterised stumps, the bleeding staunched so she could live to shame her father.
+
+Her enormous eyes did the talking. So inhuman she was, so pitiful, so damaged.
+
+"Stop," Cooper said. “Good.”
+
+There was no criticism, no directorial commentary. Around the young actors, the room came back to life.
+
+Atkinson was holding his script. He sighed a little.Someone in the semicircle made a small sound and tried to cover it with a cough.
+
+As they descended, Tyker’s eyes were full of undisguised approval, while Cooper remained completely professional. That was the difference, she guessed, between a Producer looking to make the best stage possible and the school’s official Theatre Chair.
+
+Then, Dr Cooper announced a list that rolled across the Playhouse like thunder. “Group 5. Valorie Sanders. Joshua Ramone. Charles Cranshaw. Elizabeth Moore.”
+
+Val took to the stage with perfect confidence.
+
+Eppie’s group retreated to the margins. Atkinson tried to apologise, but Eppie told him he did his best. The Senior concurred, wished them good luck, and left to join his usual friends.
+
+Valorie had drawn a less technical scene, but one with far more emotional nuance. She had drawn the scene of Lavinia's plea—Act II, Scene III, the forest, before she’s dragged away. Lavinia was still in possession of her hands, her tongue, every instrument she would later lose. Valorie would play Lavinia as she had existed.
+
+Joshua read CHIRON. Charles read DEMETRIUS. And Elizabeth read TAMORA.
+
+The actors took their places in the light.
+
+Valorie wore her theatre tights, the type that inspired late-2020s workout brands like Lululemon, leaving only her midriff exposed. The grey-black garb hung on her frame like a second skin, creating the effect of an exquisite Grecian statue.
+
+I should have worn my Sony clothes…Eppie realised too late. Because her Kmart theatre was fairly unflattering, not that Eppie had much to show off. Valorie, on the other hand, was making people sit funny. Her audiences were teenagers, after all, and they were of the right age.
+
+O Tamora, thou bear'st a woman's face—
+
+Chiron and Demetrius held Valorie down, twisting her arm so that she was facing the audience while speaking to Tamora’s feet. The effect was mildly comical, yet terrifyingly symbolic of her desperation.
+
+I will not hear her speak; away with her!
+
+Tamora knew exactly what would happen next, and chose, woman to woman, to look away anyway.
+
+Valorie struggled, pulling against the boys in a tug-of-war. She escaped—just a brief second, and touched Tamora’s leg.
+
+Sweet lords, entreat her hear me but a word.
+
+Valorie’s voice bounced from the floor, filling the theatre. The actress playing Tamora was excellent. She gave Valorie a look of such disgust and pity that even Eppie felt it—that conflicting emotion of vengeance and womanhood.
+
+Unfortunately, vengeance won. Valorie’s pleading fell on deaf ears.
+
+Below the stage, Eppie found herself bashing her fists, growing more and more angry, more irrational, and more upset with every passing moment.
+
+Valorie didn’t just perform Lavinia's plea—every inch of her figure transmuted the despair, the horror, the anticipation of something irreversible. Her tears arrived unforced, her beauty made vulnerable by the rawness of her emotions, every tremor in her voice begging Tamora woman-to-woman, daughter-to-mother. The pity in her eyes wasn’t acted; it was recognition, as if she already knew exactly what it cost to ask for mercy from a parent who had decided not to give it. Lavinia’s righteous grief surfaced only at the end, restrained, dignified, devastating. It wasn’t rage at her captors but despair at being unheard by a mother who could have stopped this and chose not to.
+
+Eppie felt a flaming desire to run up to the stage and drag Valorie back into the light. HOW DARE SHE?HOW DARE someone who understood the moment so well, so vividly, ignore what happened to her classmate? Someone who was destroyed by intent and word?
+
+The scene ended. The students stood. There were murmurs, actual murmurs, the soft currency of proud theatre kids recognising a good cold read.
+
+Val was freed from her captivity. Elizabeth helped her re-compose her messed-up attire and hair.Joshua and Charles watched, their faces red, probably hoping the scene could continue.
+
+Valorie beamed at her audience with her peerless smile. She was Composed. Appropriate.She was once more the Senator’s Daughter.
+
+Costello applauded. Cooper nodded. Tyker gave two claps, then returned to her note-taking.
+
+Valorie’s eyes moved across the room and found Eppie's.The actress’s face remained proud, and her smile remained even, even though Eppie stole her joy.
+
+Eppie looked away, her eyes scanning the surroundings.Valorie was lucky there was no planter pot nearby.
+
+Evening. Eppie bought a large pepperoni pizza from Danny Boys to battle her depression.
+
+She was halfway through the pie when her iPhone informed her that someone on her contact list had sent her a message.
+
+The text was from Uncle Paco, but it wasn’t about Zara.
+
+Will you and Zara attend? Father Parson would welcome you both.
+
+With PrayersPaco
+
+Eppie read it twice. February 1st. Seventeen days.
+
+She held the phone in one hand, and her slice in the other, and felt violent feelings radiate across her body, beginning from her head, travelling down her torso into her feet.
+
+She wrote back that she and Zara would absolutely be there to support Mio.
+
+Jesus Christ. Her head felt dizzy with the immensity of it all. She wanted to cry into the pepperoni pizza. In seventeen days, Mio would be an unwitting mother.A wholly innocent child would be born, and William's crime would be made concrete for all of eternity. How would she raise the child? What can Mio do? What can she do to make it right? To take a wrong and make it right? If what she would do to William were to succeed, what would it mean for William’s kid? Was that why the [System] wanted his penance?
+
+Her phone buzzed again.This one was from Maddie.
+
+Eppie 😇😇😇
+
+Grammy Awards Feb 10 — 50th Annual. Kellie has confirmed you're listed as a stage guest. ✊Free up Feb 9 minimum. More details to come.
+
+—MF  🎥
+
+The Grammys. The Staples Centre. Kellie Noah in whatever Valentino she'd chosen, winning Umbrella while watched by forty million people. Herself, somewhere behind Kellie, wearing something she’d have to query Mirabelle about.
+
+Seventeen days, then Mio. Twenty-six days, then the Grammys.
+
+The pizza grease wept. Eppie felt sick from the whiplash. For once in her life, she replied immediately that she would be there.
+
+A REPLY?  😭 The text from Maddie read. WHO ARE YOU AND WHAT DID YOU DO TO EPPIE? 😡😡😡
+
+Eppie snorted despite herself, sending Diet Coke into her sinus.
+
+How could she frown when her Media Manager was Maddie Filmore?!

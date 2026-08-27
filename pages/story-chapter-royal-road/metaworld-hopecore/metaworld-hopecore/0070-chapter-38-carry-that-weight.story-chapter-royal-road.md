@@ -1,0 +1,163 @@
+---
+id: 5a3b0bc8-5959-5c93-a2b4-128db8347f6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - Carry that Weight"
+slug: 0070-chapter-38-carry-that-weight
+partOf: metaworld-hopecore
+position: 70
+ownLength: 2185
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3393089/chapter-38-carry-that-weight"
+royalRoadId: "3393089"
+---
+
+“The heart asks pleasure first, And then, excuse from pain—”
+
+Emily Dickinson
+
+The dorms received Eppie back into the fold with the indifference of prefab architecture anywhere, but not so her dorm mother. Josefina gave her a big warm hug, helped her with her bags, accosted Zara with her heaving bosoms, and then carried every bag of Basque-themed cured goods all at once.
+
+After the kerfuffle, Zara drove home, while Eppie slipped into bed with the weight of Mio’s burden buried in her gut. She dreamt of orange trees in the Tule fog, she dreamed of tamales, and she dreamt of bonny babies taking the breast.
+
+Monday morning, she was up at six, dragging her roommates out of their beds for jogs and yoga. With her newfound fame, they were now pliable to her manipulation, meaning she needed less effort to whip the girls into shape.
+
+8 AM began with English Honours, reviewing Titus Andronicus Act IV after the long break.
+
+The cosy room was warmer than the outside now, making the cramped setting bearable for the students in their dancers’ tights and layered clothing. Half the class was running on fumes or still dazed from digesting Thanksgiving leftovers, creating unnecessary work for Kirby.
+
+In a flashback to the prior week, Kirby reminded them that Lavinia had taken Ovid's Metamorphoses in her arms and placed it at Titus's feet. The book was opened at the Philomela section. The scene, the page, and the play all communicated what was done to her.
+
+Dr Kirby told them she had marked their reports. She picked the best as a conversation starter. Naturally, it belonged to Eppie.
+
+“Intertextuality,” Dr Kirby said, “is like a chain of custody, framed around the human experience. In our case, the case of dark passions inherent to our species. Through this chain of storytelling, Philomela wove her testimony into cloth. Lavinia wrote hers in sand. Shakespeare’s epoch was called the English Renaissance, because they had access to the Roman classics. He had access to Ovid; hence, he put Ovid between Lavinia's stumps.”
+
+The English Professor articulated herself by shrinking her hands inside her long jacket and picking up a Norton’s Anthology. The scene was comical, but no one laughed.
+
+The lesson continued, but the analysis did not. A number of students were struggling with the notion of intertextuality, and Dr Kirby was dead set on beating the knowledge into their heads.
+
+Class ended without Eppie taking more than a single page of notes.
+
+With just under three weeks to go until the Fall Gala, the trend of zombified art-kids too tired to learn was very likely to continue.
+
+Algebra and history came and went, then lunch, where she met up with Lucy and the rest to discuss their Thanksgiving weekend.
+
+Eppie’s Arts block now spent more time at the Playhouse than the blackbox rooms. Costello and Cooper worked like ragged draft horses across the Senior, Junior and Sophomore productions, bolting now and then between the Whitman Theatre and the Sophomores’ residence and putting their cardio to the test.
+
+The first week back, practice had fallen by the wayside, meaning Costello’s criticism grew correspondingly harsher.
+
+“Eppie,” Costello stopped her mid-scene. “What happened? Why has your register changed? You’re not convincing Creon, remember? You are God’s Law. You’re the one in the right. You’re telling Creon how the world works. He is the one trying to convince you.”
+
+“Sorry,” Eppie tried again. Her second run was better, but not by much. Mio’s rotund body haunted her still.
+
+The others did not fare better. Tears were shed, and the practice continued.
+
+In the late afternoon session, things did not improve.
+
+“Eppie,” Cooper halted her. “Return to neutral. Check your voice box.”
+
+Her acting instructor mulled over her performance. “Too… fatalistic,” he said. “Too much death. Antigone is the Bride of Death, but that doesn’t mean she wants to die. Nobody wants to die, least of all like that. The tragedy, if you recall, is about incongruency. It’s about the impossibility of both living and staying true to her belief. She wants to live but cannot find the light—that’s the girl the discerning audience wants to see.”
+
+Eppie tried the scene again. The need to actually talk to Cooper was preventing her from doing what her instructor desired. After another failure from herself and the others, Cooper shook his head. “Take a break. I’ll see you all tomorrow.” The man ran off before Eppie could subtly pull him aside.
+
+After dinner, she joined her peers in the Stray Cat Society and cleaned the place with the volunteers. Once they left, she sat in the dark, chilling with the cats until Lim arrived.
+
+“Fresno went well?” Lim asked as he microwaved up some chicken noodles. “Mr Lee told me you would tell me yourself. You want one?”
+
+“Sure.” Eppie figured she might as well, because the conversation was about to get heavy.
+
+After a few minutes, they sat with Nissin noodles in fur-covered fold-out chairs, slurping MSG ramen topped with strands of cat hair.
+
+In the tiny chair, Lim’s bulk appeared larger than usual. He was already tense. Fat Lim Wang was a smart man, and he knew that Eppie didn’t sit in the dark to wait because she liked the vibes.
+
+Mr Chin took his place on Eppie’s shoulder, sniffing the noodles as she slurped. Knowing now that this marmalade cat was the beginning of Mio and Lim’s story, the cat weighed on her mind far more than it knew.
+
+“So, we met Mio,” she said, her voice neutral.
+
+Lim kept eating. Slowly, deliberately, measuredly.
+
+“She’s with her family, in a loving community that looks after her like their own. She’s become a sort of communal daughter of the Parish. She’s safe, she’s healthy, she’s beloved.”
+
+“I figured she’d make it anywhere,” Lim splurped with gladness. “She’s like a cat, in a way.”
+
+“She’s singing in the choir,” Eppie smiled disarmingly, preparing herself mentally. “I left them a choral song. Sony BMG is going to pay the Parish and Mio a good amount of money for it. It’ll keep them going for some time.”
+
+“You do too much,” Lim gulped down his salty soup. “Nothing for yourself, again? It frightens me sometimes how little you care for your own welfare. It’s otherworldly.”
+
+The radiator made a plink-plink-plink sound. Mr Chin's tail slapped Eppie’s face.
+
+“So um… there’s something else. It's about Mio…” Eppie stirred her noodles. “I am just gonna come out and say it.”
+
+From the way Lim braced himself, the way his shoulders tensed, and his biceps bulged, and his eyes fixated on the noodles, the man was ready.
+
+“She's pregnant," Eppie said, feeling the words escape from her like eels from an overstuffed pot. “Twenty-eight weeks. She didn't know until after she left. It wasn’t why she left me to deal with William alone, but er… yeah. I forgave her. I told her not to worry about anything. Water under the bridge.”
+
+Snap—!
+
+Lim looked at the broken chopsticks in his hands, as if Mr Chin had broken them in a mischievous mishap.
+
+“I… er…” his eyes grew unfocused. “What…”
+
+“She’s due late January, maybe early February.”
+
+Lim’s expression was that of a man suddenly lost in the Tule fog.
+
+Plink-plink-plink, went the radiator, its uncaring metronome possessing a cadence of its own. Half-a-dozen cats were arranged around or beside it, dozing without a care in the world.
+
+“Is it… his?”
+
+“Unless we discount the evidence of our own eyes and the biological math, yes.”
+
+The giant’s breath slowed. Lim was meditating, inhaling slowly, the way a man does when the alternative is to destroy everything in a ten-meter radius.
+
+“Meow?” Mr Chin, perhaps sensing the man’s hurt, walked across the table to purr at Lim, rubbing its tail against his quivering chin.
+
+Lim stared at his hands as a man enthralled.
+
+“I shouldn’t have wiped the footage,” Lim said suddenly. “I mean, wiped yours, I should have kept the one with William and Mio.”
+
+Eppie said nothing.
+
+“I deleted it because… because a part…” The big man’s eyes were bulging from their sockets. They were bloodshot. “I was selfish. I… thought I was protecting the Chen name, but I also did it, because a part of me couldn’t accept it. I didn’t want it to be true. I… I thought if I destroyed the evidence… maybe… maybe it would go away. Maybe, after a while, we could carry on as if nothing happened… I wish I could go back in time and do it again. If only there was another me, who knew better...”
+
+Mr Chin mewed and mewed again, but his mews were not enough. With imploring eyes of amber, Mr Chin implored Eppie to act. Eppie left her seat, placing herself beside the trembling Lim. She reached out with both hands to cup the big man's face, unsure of her next move.Like twin pythons, Lim’s arms wrapped around her torso; he buried his face in her small body, as if to enter her diaphragm. The warmth of his breathing, the searing anguish, and the animal sounds coming from his throat rocked her belly like a struck tuning fork.
+
+Eppie's hands felt limp and useless.To be the vessel of grief for another was a new sensation, one she did not enjoy. She had imagined that the sobbing would stop, but Lim held her onto her waist and used her coat like a rag, expelling his hurt, his pain, and his rage onto the sole piece of compassion he had received since May.
+
+“I am going to kill him,” Lim’s muffled moan came from her chest, as if she were the one who spoke. “I should have done it then. I will beat him to death with my own hands.”
+
+NO! Eppie felt vivifying adrenaline electrify her spine. Not Lim. Not like this. William was hers to torment and torture. She was the one who fell from the roof. He was her [Usurper], her quarry.
+
+She had to stop Lim.But how? Stroke his hair like a cat’s? Kiss his forehead?Sing Big Boys Don't Cry? The physicality of this giant clinging to her tiny body was now firing off alarm bells.Should she fling Mr Chin at Lim? Suddenly, a flight of fancy came to her.
+
+“That’s not what Mio would want, Lim.” She pushed his head just far enough for him to hear. “Two Wangs don’t make a right.”
+
+Eppie closed her eyes.She wanted to slap herself. It was too awkward, but Lim's emotions made her uncomfortable. Deep inside, Lana's old habits remained etched in her bones. Lana did not cry. Lana did not break. Lana broke whatever came her way instead. She didn’t know how to reply with sympathy; she didn’t know how to make things better for Lim. But she did know how to distract from the pain. Lana was a masterclass of distractions.
+
+The giant pulled himself away. The giant looked up at her in disbelief. “Did you just…”
+
++ Karmic Causality+ Karmic Causality
+
+OH THANK FUCK. Eppie’s face remained emotionless. “Did I?”
+
+“Diu lei lo mo!” Lim swore at her with all his heart, then, suddenly catching himself, the man laughed. He laughed long and loud until he was out of breath and half-choked by his self-induced tragicomedy.
+
+When he finally finished, he shrank back to his normal size.
+
+“Will she keep the child?” Lim was now sane again, but no less bitter.
+
+“Yeah.” Eppie nodded. “I wager the community has already put together the nursery.”
+
+Lim shook his head. Eppie knew what he was thinking. A child conceived through crime? Do such good people exist?
+
+“Over there, only Father Parson knows the whole truth. The important thing is that Mio has made peace with it.” Eppie couldn’t understand either, but she understood the peace in Mio’s eyes. “Let’s all agree that the kid is innocent. Maybe he or she will have a more fruitful, better life than William ever will. The song I gave them? Easy college fund.”
+
+“I am feeling a little jealous now.” Lim ruffled his own hair, swallowing what was left of his emotions in a way that can’t be healthy. "What do you need from me?"
+
+Eppie sat. At least now she knew that Lim wasn’t going to run off and murder a man, because she could see the cogs turning behind his eyes once more. Lim was a smart guy. An accountant. He had a bright future, and he needed his family freed. Killing William wasn’t going to fix any of that, not for him, nor for his siblings-in-craft. Instead, it would put them all into deeper filial debt.
+
+Taking a deep breath, she told him what she needed.
+
+“Will it work?” Lim asked, his surprise matched only by the horror of what she had conveyed.
+
+“Oh yeah, it’ll work,” Eppie replied in a voice that sent shivers down her own spine. She was hearing her old self and only now realising that her tonal inflexion wasn’t “Miranda Priestly”, but unadulterated sadism. “When we’re done, his mind will be nothing but crawling scorpions, dear Lim.”

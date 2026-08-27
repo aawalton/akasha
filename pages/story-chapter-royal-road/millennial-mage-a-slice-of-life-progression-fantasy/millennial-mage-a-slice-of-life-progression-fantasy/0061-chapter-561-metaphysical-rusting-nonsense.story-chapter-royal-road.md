@@ -1,0 +1,261 @@
+---
+id: 07692d25-b3d3-5027-9ab1-1623606b10ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 561 - Metaphysical Rusting Nonsense"
+slug: 0061-chapter-561-metaphysical-rusting-nonsense
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 61
+ownLength: 3041
+unit: words
+ownProgress: 3041
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2273381/chapter-561-metaphysical-rusting-nonsense"
+royalRoadId: "2273381"
+markedReadAt: "2026-06-29T19:37:15.068Z"
+---
+
+Tala glanced toward Terry before returning her focus to those in front of her, after seeing that the terror bird was quite content, splayed out in the sun on his cushion, a bit of jerky hanging lazily from his mouth.
+
+Even so, in that brief glance, Tala caught the glint of focus in the eye looking their way. I thought he was paying attention. I’m glad that he didn’t miss the show.
+
+Alat snorted in her mind. -No one with any form of perception could have missed that show, Tala. I imagine that Master Jevin had to either heavily shield the rest of the city from it, or he must have communicated with officials to keep a panic from spreading.-
+
+That’s… fair, yeah. She couldn’t imagine feeling something like that back when she was just a child, and obviously, this city had quite a few children, all of whom were worthy of keeping safe from such traumas.
+
+Rane was still enjoying his tea and pastries, a small smile held in place across his lips. Even so, Tala could see the tightness in his eyes. He had not been expecting Master Jevin’s display, and it had shaken her husband a bit, but not so much as to truly rattle him.
+
+As such, he was keeping himself under control, and she could practically see him processing all that had been revealed in the display.
+
+In a way, Master Jevin’s Reforging was very much like what Rane hoped to achieve for himself, and her husband was not letting the insights laid before him go to waste.
+
+Tala wouldn’t honestly be surprised if Rane spent the remainder of their time in that room in a sort of semi-meditation to process everything. Share the memory with him and Enar, please.
+
+-Already done.-
+
+Thank you.
+
+-But of course.- Alat finished the rather routine mental dance before fading into the background of Tala’s mind once more.
+
+Eskau Meallain was sitting rigidly, her teacup not even filled yet. As the focal point of the Reforged’s display, she was obviously the most affected.
+
+Master Jevin, for his part, was calmly pouring himself another cup from one of the pots centered on the table before them.
+
+When he finished, he glanced toward Tala. “Mistress? You wished to discuss Reforging, correct?”
+
+Tala cleared her throat before giving a polite smile. “Yes, that’s right.”
+
+He nodded once before gesturing toward her with one hand. “Well, then. Shall we begin?”
+
+The next hours rehashed essentially all of what she’d discussed with Eskau Meallain, thus allowing Master Jevin to fill in a bit more depth on what would be required to achieve portions of what she was hoping and planning.
+
+When the topic came up, Rane had a few questions on ‘simple’ human Reforging, mainly, he seemed to want reassurance that it was alright for him to not be radically altering his own form.
+
+The Reforged smiled then. “If that is what you wish, it is what is required. I will warn you, some will tell you that you will be weaker for taking that path.”
+
+Rane frowned, starting to nod, but Master Jevin continued.
+
+“They are wrong.” He met Rane’s gaze, making sure the younger man heard him. “You must remember that Reforging is about physically becoming a true reflection of your mind, spirit, and soul. You lay a foundation for the final stages, and it has to be your foundation. If you follow someone else’s plans, you will never build in a way that suits you. Even if you succeed in Reforging, you’ll never advance again.”
+
+A contemplative look swept across Rane’s face, and he gave a full, slow nod.
+
+Eskau Meallain looked back and forth between the two men before huffing. “This is some metaphysical rusting nonsense if I’ve ever heard it. Power is power. Gain more power, concentrate it, and you will advance. That’s what matters.”
+
+Master Jevin cocked an eyebrow. “First, your people’s entire method of advancement is conceptual, so calling this portion of our road ‘metaphysical nonsense’ is a bit silly. Second, and likely most importantly, you have been stuck at Hallowed for centuries.”
+
+When her eyes widened, he gave a knowing smile.
+
+“I read all the transcripts of your trials, Eskau. You have been unable to take the final steps because you lacked an understanding of ‘metaphysical rusting nonsense’ just like this.” He shrugged. “So, kindly keep your self-crippling blather to yourself.”
+
+Her face flashed deep, angry red, then drained of all color as she clearly fought to keep herself in check. Finally, after a long moment, she seemed to settle into actually considering his words.
+
+Master Jevin moved on even while the elf was still gathering herself, and gave a single decisive nod before turning back to Tala. “Now, where were we, Mistress?”
+
+Nothing ground-breaking came up in the discussion, but Tala was able to confirm a lot of the things she’d been considering. Her road would not be easy, but it did seem possible.
+
+The only hitch came when she described how she had the merging room and was studying it so that she could enact the magics herself. That came right after she mentioned that she’d be working with Mistress Holly to create a new inscription set that she could learn from in order to make her own schema for her various spellforms and magics.
+
+Master Jevin paused, regarding her for a long, long moment. “I see.” He took a sip of his tea, then sighed. “I will be interested to see how you progress.”
+
+Tala was sure that he wasn’t saying something that a part of him wanted to, but she trusted him enough not to press the issue. “I’ll keep you in the loop then.” She hesitated, then decided to just point out the obvious. “I noticed that you are still linked with the tree.”
+
+He nodded, a knowing smile growing on his lips. “I am.”
+
+“How? It’s clearly not you, but it is? How are you Reforged into two separate entities?”
+
+“Well, first of all, the tree never had a true consciousness, so it had very little effect on the results of my Reforging in that sense. It has powerful instincts and magics, but as for a will? That’s essentially non-existent.”
+
+She grunted, frowning. “I think I understand. So the bond didn’t influence how your human body had to be, but it did dictate how the tree would be.”
+
+“Yes, exactly. After millennia of being Fused, one to another, I couldn’t have severed from the tree any more than I could have remade this body with six arms. It wouldn’t have been me.”
+
+Tala frowned, trying to understand. “So… it’s like a spouse?”
+
+That made the man laugh. “No, not at all. The tree lacks a soul so there is no such soulbond between us. Even to say ‘us’ or ‘we’ is not really accurate. I am this tree. When Makinaven is abandoned in the coming decades, I will not be leaving a partner behind. I will be leaving a piece of myself behind like never before. It will not be a simple bit of equipment remaining here. That alone will result in a shift in the war. Most of the power I have available here will be devoted to keeping the tree intact and inviolate, but I will have some with which to sow some chaos.”
+
+That made Eskau Meallain smile, briefly drawing her out of her contemplations. “An agent behind enemy lines, eh? That’s a wise use of strength.”
+
+-We should run our idea by him. You know, of drawing all the Leshkin generals in?-
+
+Yeah, but not now. We’ve still got more than a century.
+
+-Fine, fine.-
+
+He gave the elf a tightlipped smile at the compliment, then turned back to Tala. “My Reforging resulted in this dual, parallel form, because it is how I genuinely see myself. I am human.” He gestured to himself. “And I am this tree which shelters my people and holds back the Leshkin.”
+
+He gestured around them, and Tala gave a slow nod. “I think I understand…”
+
+He arched an eyebrow. “Really?”
+
+She hesitated for only a moment before sighing. “No… I feel like I have a bit more of an idea than I did before, but it still seems odd to me.”
+
+He chuckled. “That’s actually to be expected. It’s my Reforging. It doesn’t have to make sense to you. The underlying principles stand for any Reforging Archons, and logic and existence still must be followed.”
+
+She frowned. “Logic? How so?”
+
+“You can’t be a twelve legged biped.” He hesitated. “At least not generally speaking. You couldn’t be a fully human cat, nor a gateless Reforged. You cannot contradict yourself. Does that make sense?”
+
+Tala found herself nodding, her frown quickly fading. “Oh, I suppose so. It comes down to actually understanding who I believe I am—who I want to be—defining that clearly, and then ensuring that my Reforging hits that mark?”
+
+“Exactly.” He smiled, clearly glad that she was following his point. “That is an excellent way of describing the overarching principles.”
+
+Rane pulled out an Archive Slate and began taking notes, clearly making various lists as he occasionally looked up and to the right in order to consider and organize his thoughts.
+
+Eskau Meallain leaned forward, then, causing Master Jevin to hesitate. “Yes?”
+
+“So, it truly is entirely dependent on the person? What if I believed myself to be—or desired to be—a dog?”
+
+He gave a little smile. “Well, then you would have to find a way to remake yourself into a dog, otherwise your attempt to Reforge would fail… assuming you were gated, of course.”
+
+“Of course.” She hmmed to herself. “So, the setting—and inculcating—of realistic goals for and expectations of oneself would be critical for anyone you thought might one day Reforge.”
+
+“Precisely.”
+
+The elf leaned back, frowning. “Wouldn’t you then run into the issue of stifling the creativity or potential of some? If the emphasis is realism and possibility, then couldn’t you be teaching people they can’t do exactly what they would need to? Aren’t Reforged in your society so rare as to be the extreme exception? Even your Paragons are like finding a diamond in a dung heap…” She hesitated then grimaced. “No offense intended.”
+
+Master Jevin grunted, but otherwise didn’t react.
+
+After a short pause, Eskau Meallain continued. “It should be ‘impossible’ for anyone to Reforge by the odds.”
+
+Master Jevin sighed, giving a pained concession. “That is the exact issue… or at least, it’s one of them. We aim for a balance, but there are no solutions, only trade-offs. We’ve determined that having a few less Paragons—a few less Archons attempting to Reforge—is worth it in order to have even one more actually succeed in the process.”
+
+“So, you’ve greatly increased the odds of success while reducing the number who even try?”
+
+“Exactly right.” He frowned a bit. “Though, I’m not sure I’d word it quite that way.”
+
+Eskau Meallain waved off his half-hearted objection before continuing. “And it comes out net-positive?”
+
+He shrugged. “From everything we can tell. Yes.”
+
+She grunted, leaning back. After a moment’s consideration, she launched into a series of questions, that Tala had a lot of trouble following, about societal planning and cultural alteration.
+
+Master Jevin seemed initially startled, but he still leaned in, seeming fully engaged with the discussion as a whole.
+
+Tala and Rane shared a look, and even Terry lifted his head in curiosity as the two fired questions, answers, theories, and ruminations back and forth on the rather esoteric topic.
+
+As surprised no-one, Eskau Meallain was far more on the side of heavy-handed tactics to herd the culture and society in question where it should go.
+
+Master Jevin was much more in the camp of shepherding, incentivizing, and nudging things in the way that they should go. His core argument was that the best outcomes came out of free will and individual drive.
+
+The elf was less than impressed by most of his arguments. In her mind, the only thing that mattered was the results.
+
+He did not like her framing of it that way, as he obviously cared about the results as well.
+
+Still, the discussion was almost eerily civil. Both brought up their points and supporting evidence and anecdotes, with the other listening attentively before they switched roles, allowing for comment or refutation at the previous listener’s discretion.
+
+After about an hour during which Tala didn’t really find anything that she felt worth adding, Rane cleared his throat. “As fascinating as this is, I believe that Tala and I should take our leave.” He glanced Terry’s way. “You’re welcome to stay or go, of course.”
+
+Terry trilled then flickered to Tala’s shoulder.
+
+Master Jevin stood, seeming quite reluctant for the conversation to end.
+
+Tala sighed. “I can leave her with you, if you keep her properly contained and limited.”
+
+Eskau Meallain waved her hand dismissively. “I’m already inside the man. I don’t see what I could do.”
+
+Master Jevin colored, making a rather consternated face, and he cleared his throat. “That would be workable. Thank you, Mistress Tala, Master Rane, master Terry.”
+
+They exchanged bows.
+
+“Oh, before I forget. Given that you gave us so much warning of your coming, we were able to work with your adjunct to specifically gather a large number of new citizens for you from the other forest cities: Retindel, Freehold, Namfast, and Manaven. We have them here with those from our own city, and I imagine that they will come your way as soon as Ironhold opens its gates.”
+
+Tala hesitated. “How many?”
+
+She really should be more informed on what to expect, and— “Just over a thousand souls.”
+
+Tala blinked a few times. “Master Jevin… what the rust?”
+
+Rane choked back a laugh, but otherwise held himself back from responding. Tala gave him a mock glare—scrunching her face while fighting back a smile of her own—before turning back to the Reforged.
+
+Master Jevin chuckled. “What ever do you mean? We’re just trying to help you.”
+
+Eskau Meallain grinned in turn. “Eskau Tala, are you not following the growth of your own hold? For shame.”
+
+Tala grimaced in truth this time, giving a heavy sigh. “Fine, fine.”
+
+She glanced Rane’s way, and he took the cue. “And on that note, we shall be off.”
+
+They said their goodbyes, and the couple began to make their way out of the Constructionist Guild offices.
+
+-I just received a message on where we are allowed to open up the Ironhold gates. Do you want to pick between the options or should I?-
+
+Are there a lot of different options?
+
+-No? Only a few.-
+
+Tala hesitated for just a moment before deciding. Coordinate with Enar to pick the best place. Having a second perspective should help, but I don’t really want to think about it.
+
+-Alright.- Alat was silent until the ding of the bell sounded as the couple exited the compound. -And we’ve decided. Go upward.-
+
+Tala nudged Rane, informing him what was going on.
+
+He smiled and nodded. “Yeah, Enar told me. Shall we go get that part over with? I think so long as we stay within the tree, we won’t be limited by its placement.”
+
+She almost hitched. She hadn’t even considered that.
+
+-We did.-
+
+Thank you.
+
+-Of course.-
+
+They had been granted a large wall, near a wide thoroughfare in a middle tier of Makinaven. Specifically, it would be near one of the upper, primary markets for the citizens of this city.
+
+It took them less than an hour to meander their way to the spot, during which Alat coordinated with Lyn and the others inside Ironhold so that they’d be ready for the opening of the gates.
+
+Tala’s adjunct was the first out when Tala opened the portal between Irondale’s city center and the outskirts of one of Makinaven’s markets.
+
+Lyn strode forth, taking in a deep breath and stretching. “Ahh, smell that tree-filled air. It’s like being in a carpenter's shop and a garden in one.” She scratched Terry’s head, eliciting a contented squawk. “Good to see you, Terry.”
+
+Tala grinned and gave her friend a big hug, but once she had her in the embrace, she gave a little extra squeeze. “A thousand more citizens, Lyn? Really?”
+
+The woman squirmed slightly, but when she couldn’t easily pull free, she chuckled. “Well, we have the infrastructure for it. We also have a few leaving, but overall, we are growing quite a bit. The applications for citizenship are at an all-time high, and there were at least that many who merited a spot.”
+
+Tala let her go, pulling back with a sigh.
+
+Rane and Lyn exchanged a quick hug too before the woman turned back to Tala. “Do you want me to pare it down?”
+
+Tala sighed again. “No, no. If you think they will be net gains for Ironhold, then I suppose it’s good to have them. Plus, they’re already here. It would be rather cruel to turn them away after they came here at our say-so to meet us.”
+
+Lyn nodded decisively. “That is considerate of you, and yes, they will be a boon, without question.” A twinkle entered her eyes, then. “And if they aren’t, we’ll kick them back out.”
+
+Rane and Tala chuckled at that. She glanced at him, and he shrugged. “It’s a bit harsh, but it makes sense. We do want to help, but we aren’t going to carry around dead weight.”
+
+She nodded, a smile growing. “Harsh, but true.”
+
+Lyn cleared her throat. “I think you lovebirds have had enough time alone. Now, it’s Lyn time.”
+
+They both turned to regard her, one eyebrow lifting on each face.
+
+Terry trilled, clearly excited for ‘Lyn time.’
+
+Lyn regarded the couple in turn. “What?”
+
+Tala huffed a laugh. “Lyn time? Really?”
+
+“Yes. It’s time for you two to spend the rest of the day showing me this city.”
+
+“Don’t you have paperwork to do?” There were already wagons flowing out of Ironhold, and some people making their way inside as well.
+
+Lyn shook her head. “Nope. I’ve delegated. I want to see a tree city.”
+
+That brought another laugh, and the four turned to go do just that. “Very well.”

@@ -1,0 +1,269 @@
+---
+id: dd08b56e-224a-5685-98ca-740e018fc65f
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 665 - Fairy Garden?"
+slug: 0171-chapter-665-fairy-garden
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 171
+ownLength: 2977
+unit: words
+ownProgress: 2977
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2994400/chapter-665-fairy-garden"
+royalRoadId: "2994400"
+markedReadAt: "2026-06-29T19:40:32.612Z"
+---
+
+Tala and Lea stood outside the ether hold that had popped up less than a day after the wedding duel.
+
+Its entrance had the appearance of a garden gate. Interestingly enough, it had come to be anchored on the superficial in a hedge on the edge of one of Platoiri’s parks.
+
+Such entrances usually didn’t so closely fit their place of establishment, so this was most likely a coincidence, but it was still of note.
+
+A few city guards stood nearby, keeping a loose perimeter, but they mainly just had to warn people that an ether hold was being dealt with.
+
+Such things were common enough that the danger was known and actively avoided by the average citizen.
+
+As such, Tala and her daughter wouldn’t have to deal with any of the minutia. In this, Lea would be taking the lead, so that Tala could guide and act as backup to her daughter. In truth, Tala hoped that it would be a bonding experience for them.
+
+Once she’d gotten a good look, herself, she turned to Lea with a smile. “What do you see?”
+
+Lea glanced her way, then returned her gaze to the doorway. “There is a lot of power there… but not?” She looked to Tala again, as if waiting for approval or confirmation, but Tala held back saying anything until her daughter turned back and continued. “It’s odd, like seeing a two dimensional projection of a three dimensional object… but magically?”
+
+Tala finally nodded. “Well seen. Honestly, that’s more than I expected you to be able to perceive and intuit. You are essentially correct. Just like a regular hold, the totality of an ether hold is both hanging away from the superficial, and all right there, before us. It is a bit more… exposed? Evident? It’s easier to discern in an ether hold. Are you ready to go in?”
+
+“What’s inside?”
+
+“No way to know until we enter. Some scholars even theorized that the inside isn’t firmly formed until someone enters.”
+
+Lea nodded slowly, then drew her sword with great care, holding it away from Tala and anything else, the immensely sharp edge monitored closely at all times.
+
+Tala willed for the door to open before them, and it swung away from them, revealing a rectangular view of a fantastical landscape.
+
+There were flowers that seemed to have colors that Tala couldn’t quite see, but they somehow pulled at her eyes and mind, making her feel as if she just had to look a little bit harder and then she’d see what she was missing.
+
+Lea frowned. “Something about that place is dangerous.”
+
+Tala chuckled. “Absolutely. Ether holds are incredibly dangerous. We need to be wary of anything and everything in there.”
+
+“Understood.”
+
+She had already extended her aura and authority into the ether hold, but it felt… odd to her. She almost kept Lea back, but the density within was barely at Bound—or Child based on the arcane system—levels of power. They could walk straight into a wall of magical fire at this magical density, and they’d both be fine. Lea wouldn’t be able to stay in such a fire for more than a few minutes, but that was more than enough time for Tala to pull her into the sanctum if worse came to worst.
+
+With that confidence, the two women entered the ether hold, Tala closing the door behind them.
+
+They were in a veritable paradise, fully surrounded by overgrown plants of all kinds, that still managed to seem cultivated.
+
+Tala took a deep breath and smiled at the subtle, yet intoxicating scent in the air.
+
+Little humanoid creatures were flitting about, seemingly tending the various vegetation, their quad wings buzzing.
+
+Ahh, so they are tending this place on a micro scale? That’s why it both seems cultivated and not ‘curated?’
+
+-Could be. If they chose where everything was to be planted, and helped it grow, but never really trimmed it back? Yeah, I could see this being the result.-
+
+Lea was in the lead on this mission, even if Tala would be the one closing the hold down once they found the core. As such, the girl walked toward one of the little creatures, their magic almost perfectly blending with the ambient zeme.
+
+Lea began talking, checking her assessments with her mother. “They aren’t even trying to keep any excess power, let alone compress to a higher level. I don’t know that they are truly sapient.”
+
+Even so, merely sentient creatures could still react to intruders, and many of the little flying humanoids were beginning to look their way.
+
+“They don’t have any hostile magics about them, meaning that even if they attack, they will only have their minor physicality with which to attack us.”
+
+Tala nodded, confirming that her daughter hadn’t missed anything of note. Then, as if to confirm Lea’s words, one of the little things—pixie was as good a name as any—came over and punched Lea in the shoulder… doing absolutely nothing.
+
+Lea huffed a laugh, shook her head, and kept walking, even as more and more of them came around them, pushing, or pulling, or hitting, and even trying to bite. All their actions were quite literally to no effect.
+
+Not wanting to take over already, Tala gently asked. “Do you want us to drive them off?”
+
+Lea shook her head. “No, my body is telling me that there is a low-level suggestion on this place, encouraging anything within to protect what is beautiful or visually appealing, and remove what doesn’t belong. They are likely just following that prompting.”
+
+Tala smiled and waited, happy when Lea continued.
+
+“I’d imagine that means that we are also feeling less like harming the things—”
+
+“‘Pixies’ works for a name.”
+
+Lea nodded. “Very well, pixies. We are feeling less like harming the pixies because of the same influence. I think we could throw it off with ease, but I see no harm in this. They should leave us be when we pass beyond their area of duty.”
+
+Tala shrugged. “Very well. You’re in the lead.”
+
+She was aware of the light tug on her mind, and Alat was analyzing it the best that she could. It was an interesting effect, seeming to stem from reality rather than magic, effectively acting in a similar way to people’s base desire to not harm cute or lovely things.
+
+But she had more pressing items on her mind. Reality within the ether hold felt… odd. The magic showed it a bit, feeling both too dense for the density it was showing, and like it was precariously balanced… somehow.
+
+They continued forward, and sure enough, even though new pixies joined the odd throng, the earliest to arrive slowly fell behind, leaving the two women be as the two left ‘their’ part of the gardens.
+
+And the garden actually seemed rather large, or at least it was laid out to require quite a bit of walking to reach the center, given it was constructed like a hedge maze.
+
+They could have just cut their way through, but neither felt the need, especially given the truly stunning nature of their surroundings.
+
+Lea sighed, smiling. “We could have lunch here first, right? It’s a bit of a shame that incorporating this within Ironhold will most likely remove some of the more esoteric magics. I think it would be nice to soak it in a bit more before it goes away forever.” She looked around. “I don’t know how it’s possible, but I don’t recognize a single one of these plants.”
+
+Tala nodded. “Me neither. We can investigate more once we’ve finished, but I don’t mind taking it slow.”
+
+-You just want to analyze the oddities within reality.-
+
+I do, but I also don’t want to just take over. Tala smiled. Are you noticing anything that I’m not?
+
+Alat sent a negative. They were both feeling what seemed to be two ‘superficials’ within the ether hold, existing at the same level, which shouldn’t have been possible at all.
+
+They didn’t seem to be on different layers of the stone-starward axis… not really. More than anything, it seemed like networks of reality nodes and threads had collided and become all tangled upon each other, many of the nodes pressing into one another and, at least temporarily, becoming one.
+
+It was as if they were smooshed together, with parts of each manifesting around Tala and Lea. When Tala explained what she was feeling to Lea, the girl nodded. “Is that why it feels like there is more to everything I’m seeing here than I can perceive?”
+
+“That could be, yeah.”
+
+As they were both fascinated by the oddities of the ether hold, they found a somewhat larger area within the maze-like growths and took up seats, pulling out food and enjoying an early lunch together as they continued to investigate around themselves with their various senses. They also took the time to chat.
+
+They really got to ‘just chat’ so rarely. Most of their discussions were toward an end goal in one form or another.
+
+This was… nice.
+
+The only negative was the continued futile violence on the part of the pixies. If she were being honest, Tala would have said she was suffering from the ‘sunk cost fallacy’ in that they’d allowed the pixies to continue for so long, it seemed like failing to change now.
+
+The little things had left their food alone, otherwise Tala had no doubt that she and her daughter would have already slaughtered the lot of them.
+
+In that manner, they passed nearly two hours within the ether hold, before Tala finally found the edges of the tangle of reality threads which made up this space.
+
+Funnily enough, the pixies were actually the key. The two groups of threads and nodes were most evidently compressed within each pixie, while something about their sentient nature kept the nodes from fully meshing.
+
+“Lea?”
+
+“Hmm?”
+
+“I think I can pull the duality of this place apart.”
+
+Lea focused on her more fully than she had in a while. “What will that do?”
+
+Tala hesitated a moment. “Honestly? The most likely outcome is for us to end up standing on a line between two distinct spaces, now joined into one hold.”
+
+“What’s the worst case scenerio?”
+
+She grinned at her daughter, proud that she’d thought to check that. “Worst case, we’re left with two ether holds, while we’d be floating in the void between them.”
+
+Lea’s eyebrows climbed, but Tala continued before she could protest.
+
+“We’d step into the sanctum and then out to the superficial. No harm done.”
+
+“That’s really the worst case?”
+
+“For us? Yes. The holds could shred, and all this expanded dimensionality could be lost, but we’d basically be in the same situation.”
+
+“Fair enough.” Lea nodded once. “Do it.”
+
+Tala raised an eyebrow, smiling implicatively.
+
+Lea sighed. “Please do it, then.”
+
+“Of course, my daughter. I’d be happy to.” Tala rested her hand on Lea’s shoulder just to be safe—having to shoo a pixie out of the way first—before she latched onto the reality nodes with her aura and authority and pulled.
+
+It was odd. In holds, the networks of such things were so much more flexible and less stable. After all, there wasn’t a wider world to be integrated into, to add robustness to the form.
+
+As such, Tala was able to pull the two tangled messes apart with relative ease.
+
+It helped that the threads didn’t actually ‘tangle’ with one another, instead mostly passing through each other as the nodes were moved apart.
+
+Her massive advancement advantage didn’t hurt either.
+
+Before their eyes, everything changed.
+
+A moment later, their perception of their surroundings resolidified, and Lea squealed in surprise.
+
+One of the little creatures was fruitlessly trying to pull out a tooth, and now that the oddities were removed, Tala could see ropes of teeth hanging around the small, feminine body, the only adornment keeping her decent.
+
+There was a feral light in her eyes as she fought to get at the tooth.
+
+Lea slapped it away, sending her careening into a nearby, skeletal tree.
+
+All around them, all the pixies were suddenly similarly clad and bent, hungry eyes locked on Tala and Lea’s teeth. In the distance, Tala perceived larger, male creatures rising up, clad only in bones, their features similar to the tooth-fairies, but much larger, nearing the stature of dwarves.
+
+They can’t be the same species… right?
+
+-Is that really your concern right now?-
+
+It was not, but it was still puzzling. Regardless, the landscape had changed entirely, with the beauty of the garden seeming to have shifted entirely to their left, while a butcher’s boneyard had grown up to their right, the obvious source of the bone-obsessed monsters.
+
+She couldn’t easily see any humanoid bones of any kind, leading her to assume that this had, indeed, been some sort of dumping space for animal bones. The previous owners hadn’t disposed of it properly, leading to its transformation into an ether hold… at which point the creatures found it and moved in.
+
+Lea squealed again, her sword suddenly in her hand and lashing out.
+
+The little ones were incredibly nimble, and many dodged the quick swings, but not all. Each that was cut poured out an ivory-white powder instead of blood, the severed parts of each body quickly shriveling away to nothing.
+
+As soon as the first ones died, the bigger, bone-clad things in the distance howled in evident rage and lament, springing up faster, and seizing heavy clubs from where they’d been waiting on the ground.
+
+“Lea?” Tala was still not panicked, but things had decidedly gone from just fine to unideal, and Lea needed to choose their next steps.
+
+Lea growled, eyes sweeping what was quickly becoming a battlefield before locking onto the low column in the distance. “Just one core?”
+
+“Yes, the magics were compatible, and they actually joined in the void, dragging their holds together into what we saw.”
+
+“That tangled result was so much better than this.”
+
+“Yeah, well, you have to actually see the problem if you wish to have any hope to fix it.”
+
+Lea gave Tala an incredulous look. “You’re trying to make this a lesson? Now?”
+
+“Always. You’re my daughter.”
+
+The girl shook her head. “To the core!”
+
+Tala grinned before launching after Lea, both of them taking great, leaping bounds, dispersing the growing clouds of tooth-fairies as they blew straight through them. This would have actually been a bit terrifying when I was first in Platoiri.
+
+-Sure, but you’d have just dealt with it without separating the two. Honestly, you likely wouldn’t have noticed them at all.-
+
+And we’d have gotten less dimensionality for that failing.
+
+-Yup, but it would have been easier. I’m not sure how this would rank for other Eskau, again because I don’t think they’d have separated it. This was probably seen as an easy one, and I wouldn’t doubt that they considered giving it to a less advanced Eskau instead.- Alat sent the impression of a shrug.
+
+Fair enough… Tala landed beside Lea, next to the ether hold core.
+
+Lea looked to her mother, then to the core, then back. Finally, she looked at the swarm of incoming fliers and horde of bone-wielders. Her eyes finally returned to Tala. “Well?”
+
+“Hmm? Oh, you’re ready for me to end this?”
+
+“Yes!”
+
+Tala grinned, reaching out and placing her hand on the core column, suffusing it with her authority, and rolling that out, across the entirety of the hold.
+
+It was very different from how she’d dealt with her previous ether hold, but then, she was very different from how she’d been back then.
+
+The creatures jerked to a stop, horror clear on their features as Tala ejected all the bones into the void. No need for those.
+
+In the instant of their departure, the creatures seemed to decide that the bones were more important than the hold, and they somehow followed.
+
+If Tala had to guess, she’d say that they snatched the bones from the fringes and carried them into the Doman-Imithe, avoiding the oblivion of the true void.
+
+As a result, the hold was suddenly, entirely silent and devoid of life aside from mother and daughter.
+
+Lea looked around, sword raised. After a long moment, she lowered it. “They’re… gone?”
+
+“Indeed. It’s mine now.”
+
+“Is that why they were all naked for a moment before they vanished?”
+
+Tala sighed, closing her eyes and shaking her head. “They seemed to be very attached to the bones, so I banished those. It would have been a lot more difficult to move the creatures, whatever they really were. They chose to follow the bones and were helped along by an authoritative shove. More power to them.”
+
+Lea grunted. “That’s… fair. Interesting.” She smiled a bit tiredly. “Thank you, Mom. I definitely couldn’t have done this without you.”
+
+Tala shrugged. “You aren’t meant to. I was Fused when I entered an ether hold for the first time. You are only Bound, and still, you did great.”
+
+Lea gave her an odd look. “Didn’t you only ever enter one before?”
+
+Tala waved that off. “That’s unimportant.” She looked around unnecessarily. “The job is done, shall we go?”
+
+Lea nodded. “Yes. Dad has his duel this afternoon, and I’d hate to miss it.” She frowned. “Funny how that slipped my mind earlier.”
+
+Tala nodded. “I would have reminded you if we were cutting it too close. Take this as a lesson that even seemingly harmless mind-effects can have unforeseen consequences.”
+
+“Yes, Mom.” Lea chuckled, turning toward the exit. “Shall we?”
+
+“After you, daughter dear.”
+
+“Let’s go watch Dad kick that rude puppy!”
+
+Tala shook her head. “Don’t word it like that.”
+
+“Yeah, I didn’t think about how it would sound until it was out of my mouth.”
+
+“Fair enough. Onward!”

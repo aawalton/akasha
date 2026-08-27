@@ -1,0 +1,107 @@
+---
+id: eefa7f30-7442-5274-869e-1bf24ce59ca7
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 81 — That's Entertainment! (2) "
+slug: 0138-chapter-81-that-s-entertainment-2
+partOf: metaworld-hopecore
+position: 138
+ownLength: 1816
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3727182/chapter-81-thats-entertainment-2"
+royalRoadId: "3727182"
+---
+
+Eppie watched with confusion as her director held her hand in his hands, his eyes brimming a little with overflowing emotion, and said, “Don’t worry about a thing.”
+
+“Thank you,” she answered reflexively, and the man walked them back with his shoulders drooped, making footfalls like he was walking through drizzling rain despite the sunny day.
+
+Back at the base camp, the MUA and costumes trailer were ready to receive them. Webber spoke to the staff in question, and the two women nodded solemnly, confusing Eppie even more.
+
+Before wardrobe, there was the paperwork. Sony’s music video was a SAG shoot, and SAG did not care how many Grammys you had.
+
+Eppie was already a member, courtesy of the plastic-surgeon spot Vaughan had conjured out of thin air last year, the one where a fifteen-year-old's flawless jawline sold a Beverly Hills allegory to daytime television. For her, there was only proving: she produced the certification, signed the day-player contract herself, got reminded of her rights as a minor, and was done.
+
+Zara, eighteen and her own woman, signed one form and was released to the MUA trailer.
+
+Costuming was by a lady called Deb, sixty-odd, with a tape measure worn round her neck like a stole. She got the girls to stand on the elevated platforms, measured them from neck to toe, then returned a bit later with the 90s on racks.
+
+For Eppie: A sundress that belonged to an old sister. Denim shorts frayed by real wear and tear, then preserved for film. Canvas sneakers, Converse 70s, scuffed by an effects artist. For Zara: A band tee, classic punk owned by Sony, the print cracked just so.A flannel two sizes too big, once an uncle's, elbows worn through and darned back up for the camera.Jeans, distressed, then re-distressed by Wardrobe.Brown Dr Martins, laced crooked.And Eppie’s J-45 on a cracked leather strap, the one thing on her the crew hadn't touched, because it really was authentic.
+
+From what Eppie could see, it was the summer of 92, a year after the end of the Cold War. A good summer that began the most prosperous decade of American history, until an unfortunate September in 2001 that never ended for the American people.
+
+The girls looked at one another, feeling like they were childhood friends already, having grown up on the same lot over a decade.
+
+Then came the makeup, which not only aged them down but was made to look as unobtrusive as possible, creating the illusion of a long and shared childhood.
+
+Super-8 film was super forgiving, Deb explained; as such, the less one did, the more real it became.
+
+Eppie watched herself being assembled in the mirror, sun-kissed, gap-summered, unremarkable, so that she looked absolutely remarkable in the way that happy children once did in an America without the worries of cost-of-living, energy crisis, and forever wars.
+
+Euphemia Fontaine had never experienced this—but Lana had. Lana’s suburban childhood was pretty much the American Dream manifested in full. Profoundly touched by the thought, Eppie lamented her parents, Lana’s parents, still alive, grieving over their lost daughter, and bit back the emotions rising to her throat.
+
+Webber watched her from the doorway, nodded appreciatively to himself, then left to command the crew, leaving Eppie more confused than ever.
+
+Zara laughed at her reflection and said she looked like her cousin's 90’s photos. Eppie envied her friend, who looked like the coolest girl on the block, the one who said they’d make it big in Hollywood, then was never heard from again until they reappeared on the cover of a magazine.
+
+Then, it was time to hit the set.
+
+The Lana of old had bought and sold many a studio, but she had never seen the sausage being made—nor realised that the final product really was a sausage.
+
+It was coverage and footage, the same forty seconds shot wide, then medium, then close, then on the hands, so that a man in an editing room could cut between them and build something that felt continuous. That was why, William, working alone, had to spend upwards of six weeks trawling through the cinematic inventory, searching for the perfect cut, creating a single vision from ten thousand and more mosaic pieces.
+
+The first half-day on the set was concept and framework, costuming and lighting tests. The real shoot happened tomorrow, from sunrise to sundown.
+
+Webber gathered the two of them at video village before the first setup and told them what they were actually making, now that they really were the characters he had in mind.
+
+“Today’s a test,” he duly informed them. “Today I need one thing from you two, and it's not acting. It's friendship. Real teenage-girl friendship—the kind you had at eleven, twelve, thirteen, where you loved your best friend but lacked a word for it and didn't need one.”
+
+Zara’s face caught fire on the L-word.
+
+Webber gave his approval by trying and failing to hide his smile. “I’ll take you through the sets. For sunrise and dusk exteriors, we get forty minutes per scene, tops. For the interior shots, we’ll have a more relaxed schedule. You each have your own bedroom. Eppie, you’ll have the pastel room with the Barbies, the magazines, the dress racks. Zara, you’ll have the basement room with the wannabe musician aesthetic, lots of posters, messy clothes on the bed and the door, that sort of thing. Exterior shots will be in the cul-de-sac and the park. The sycamore tree, of course, and the swing. You’ll take turns on the swings.”
+
+The director made a frame with his fingers. “Lying out on a lawn, playing music under the stars. The pastel and the diesel, a pair of hands finding each other. A head on a shoulder. A look held a half-second past friendship.”
+
+“Oh my,” Eppie sniggered. Zara became a Roma tomato, or at least, her face did.
+
+“Don’t take it too seriously.” Webber watched the devout Catholic with a grin. “It’s all acting. We don’t implicate anything. Two girls, a held look, and we let the audience decide between puberty, friendship, coming of age, or budding romance. Half of them will see the best friend they grew apart from. Half will see infatuation. Both of them are right, and the disagreement will let them send aesthetic little clips through social media. Ambiguity travels around the world. Certainty dies after the first viewing.”
+
+WHOA… Eppie clapped. Merric is GOOD.
+
+“Provided, of course,” Webber grinned. “It’s beautifully shot.”
+
+Now that he’s told them the middle frame, he continued with the rest of the plan—parts that did not involve the pair. “Pending tomorrow’s shoot, we may have a budget left for a casting call for two younger actresses, eight to ten, to play your younger selves. We’ll have two more actresses in their forties to play your characters, grown, but that’s easy.”
+
+Webber was clearly in his element.
+
+“Here’s the whole frame: The video opens on the older one, alone, going through a box in an attic. She finds an old tape. VHS, degraded, the real thing. She puts it in a machine that no longer exists in 2008.” He looked at them, gentler now. "And she sees this. This afternoon. You two, sixteen, on Garland Drive, under the stars, laughing at nothing, Golden. She watches her childhood play back at her from a dying tape, and she can't get it back, and that's the song. That's Dream a Little Dream. The whole thing is a woman missing a girl she used to be, and the memory of a girl she once loved. The WHAT IFs of life.” He drained his cold coffee, grimaced, and gave it to a PA.
+
+“If you have any qualms or protests, now’s the official window to make them.”
+
+“Nope, I am good,” Eppie exhaled. She loved it.
+
+Zara, the true novice, wasn’t one for opinions.
+
+“Alright,” Webber clapped. “Come, let’s go walk through the sets. I’ll introduce you to the rest of the crew.”
+
+They set off from the base camp like hikers meeting their sherpas: a parade of first names and firm handshakes.
+
+Priya was the first AD—headset, clipboard, and the specific unflappable exhaustion of a woman who had already privately scheduled the day's three disasters. She was the lady with the Call Sheet, and she already foreshadowed Maddy from the future, having to deal with a superstar who only answered emails when the planets aligned.
+
+Bram Halloran was their DP and operator. Twenty years behind the lens, hand steady like a gimbal, sucking on a toothpick where a cigarette used to be, cradling a Beaulieu 4008 ZM II like a scared child. He looked at Eppie a half-second too long, his eyes already thinking of lighting and angles, then returned to the light meter.
+
+Reggie was their gaffer—thirty years IATSE, lord of the lights. His electricians moved around him like courtiers. With a sharp eye, he shook Zara's hand, then Eppie's, and something in his face lit when he clocked Eppie’s [Love the Light]. When he smiled, more nicotine than ivory showed. Zara, long used to Paco’s passive smoking, was completely at ease, while Eppie’s clean upbringing as Lana made her skin crawl.
+
+On set, they met Sol, the production designer who had envisioned two childhoods from scratch: Eppie's pastel room, Zara's basement. He walked them through both like a proud, sleep-deprived parent, daring Eppie to leap onto the bed, or Zara to rock out a little with the very real props.
+
+Deb, they already knew; she took a picture of the girls with their director for the continuity stills.
+
+Then came the smaller constellations of a production: the makeup folk, a loader guarding the Super-8 cartridges like eggs; two electrics coiling cable; a script supervisor with an eye for trouble, and a scattering of PAs in beanies whose faces blurred into homogeneity like late 2020s AI-generations.
+
+And then, there was a credentialed set teacher called Mrs Okafor, who apparently was here for Eppie, watching the clock so that she wasn’t overworked.
+
+The set was a series of small sets, which had to be set up individually as components of a whole. Block it! The Director walked through the action while everyone watched. Light it! Reggie had the lights, and the grips had to make sure the shadows behaved. Mark it! The Second AC knelt and laid crosses of paper tape where the performers' feet would stop and where Bram would hold his focus. Rehearse it! That was their job as actors—and then Priya's voice — "Lock it up… roll playback… roll camera…" And the loader, doubling as 2nd AC, called "Speed.” And Webber's "Action,” at the end, “Cut. Check the gate, back to one."
+
+Filmmaking, Eppie acknowledged with profound appreciation, was fifty art forms, packaged into one.
+
+And to think… she shrivelled a little inside. I sold off their jobs to feed the LLMs…

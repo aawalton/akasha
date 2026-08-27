@@ -1,0 +1,143 @@
+---
+id: 23410798-27f1-50af-b2f5-20b0ab7e3430
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Black Cat"
+slug: 0052-chapter-28-black-cat
+partOf: metaworld-hopecore
+position: 52
+ownLength: 2118
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374303/chapter-28-black-cat"
+royalRoadId: "3374303"
+---
+
+"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently."
+
+Friedrich Nietzsche
+
+A day after her submission of the Umbrella to corporate, Euphemia Fontaine received a summons to the Principal’s office. For Principal Arthur Burton, this would be his very first meeting with the girl of legend after her resurrection.
+
+Out of both sentiment and symbolism, Burton had declined to move his office into the new glass-and-steel East Wing of the Old Music Building, opposite Whitman Hall. Instead, his office was nestled in the Main Building in all its legacy glory.
+
+Strategically, Burton’s workspace was on the second floor. Below him lay the performing art spaces, the infamous basement corridor, and the Quest Board, through the floors of which he could hear the sound-bleed from vocal warm-ups, rehearsals, commotions and conflicts. Above him were the speciality studios, including the black-box rooms for the Seniors, and dance studios with the muffling sprung floors and mirrors.
+
+Unlike VP Thomas’ workspace, designed from the ground up to house all of LAPA’s awards from the state and the industry insiders, Burton’s office was a living relic from the 70s. The lights were yellowing fluorescent rods, and filing cabinets lay unlocked, protected only by the irregular filing rules that Burton and a few others understood. His assistant, Mrs Elmers, had been working at LAPA longer than Burton himself.
+
+Past the threshold, Principal Burton had made his office his home and abode. Two divorces, three children, not a single one could make it into LAPA because Burton refused to use his position for self-gain. The walls had old, yellowing posters, old bills from his own performing days at the community theatre, signed photos from students who had made it and had returned to LAPA to thank him in person. His desk was enormous, a massive mahogany wonder from an old friend who ran a nationally renowned law firm in NYC. His only personal pleasure was a meticulously cleaned, professional espresso machine at the far end of the office, donated by a student-turned-Oscar-nominated screenwriter sick of his instant brews.
+
+There were no awards in his office.
+
+VP Thomas had requisitioned them all.
+
+Presently, Arthur Burton stood at his La Marzocco Linea, making coffee for his yet-to-arrive guests.
+
+“Not the best beans,” he said to the Canadian at his desk. “But they are locally roasted. From Silver Lake. I’ve been ordering from them for the last six years. Italian migrant family. They know coffee.”
+
+His action was unhurried and precise. It was a ritual, much like Japanese tea-making. Dose, distribute, tamp, the pressure he applied was immaculate; a relic of his theatre days. He steamed the milk at an angle, just enough to produce the richest foam.
+
+He made three cups of Flat White, arriving precisely as the door opened and the girl entered.
+
+The girl had had a haircut, Burton noted. An expensive one that had since been wasted.
+
+The Eppie Fontaine who had entered LAPA as a Freshman was not the girl who now stood before him beside her lawyer.
+
+In his mental taxonomy of students dating back to the 80s, Eppie did not stand out as particularly memorable. He first knew of her through her application. The girl was a protected category, an orphan, a low-socio-economic, State Ward, but talented enough to scrape by and receive an opportunity, a different kind of “triple threat” to people like Valorie Sanders. He knew nothing more of her other than the occasional “Good morning, Sir,” because she was the kind who apologised to her betters for taking up space in the crowded basement locker hall. He had placed her with a student he found very promising, Simone Goode, a girl who would not bully Eppie—but that had been a mistake.
+
+Eppie “fell”. The timing, the circumstances, and the fact that it happened on school grounds made him culpable.
+
+Then, like Frankenstein’s Monster, she came back.
+
+The girl smiling at him now was not Euphemia. When Director Harper had sewn Eppie back together, he had crossed some wires in her brain, and a strange creature was then born from that surgery room.
+
+“Miss Fontaine, please sit.” he moved to pull out her chair, but the Canadian had done so before Burton even moved.
+
+He carefully studied the pair, but found nothing untoward. The lawyer was professional, if a tad too fatherly. Eppie received the chair as a matter of fact, not from a romantic partner, but from a caring older brother.
+
+“Principal Burton made the coffee himself,” the lawyer told his client. “It's very good.”
+
+The girl sat, her spine ramrod straight, despite a healed ankle and a repaired spine. Their eyes met, and Burton was surprised to find that here was a fifteen-year-old who assumed that they were equals, even if she did acknowledge his position with a bow.
+
+He asked her how she was feeling. She said she was feeling well, thank you, and that she was glad to get back into the programme. Her eyes scanned the room; she was a watchful child, she was reading him.
+
+They smiled some more, then it was time for business.
+
+“We are very thankful for your time, Principal Burton. As you know, Euphemia has made great strides for a student of her age, and we wanted to be transparent with you regarding a few concurrent developments before they become public.”
+
+Burton’s heart rate spiked for a second before he calmly nodded. “Of course, may I ask what your concerns are?”
+
+“Eppie has written a song for us.” Lawyer Lee looked at his ward with adoration. “Director Curon has confirmed that it will be a nationwide mega hit.”
+
+Burton’s heart scrunched and unscrunched. He had never met Curon, but he knew of Curon. If Curon said a song was a hit, then it was exactly that. The only question was to what degree and how profitable it would be.
+
+“Eppie was also involved in our project with the Met, as you know, regarding Vincent. She has also recorded two evergreens: "Whatever Will Be" and "Do-Re-Mi". It is Director Curon’s opinion that, though Eppie has no desire to be a performing artist in the traditional sense, she is given the correct amount of credit in the form of recognition. Sony will proceed with this in two weeks, concurrent with the release of the new Single by Miss Kellie Noah.”
+
+Burton’s grey eyes moved to remeasure his already high opinion of his student. The girl sat demurely, play-acting the part of someone who was aware enough to care, but klutz enough to be fooled. She was not yet a very good actor.
+
+The lawyer continued to pile on the carrots. “Miss Fontaine will be releasing two more songs through LAPA. In the Pines, and Dream a Little, in the Fall Gala, together with Miss Zara Arriaga, one of your Seniors.”
+
+Burton drank his coffee. Both Eppie and Zara were normal students. Eppie was a special case, but Zara was definitely not a Nepo admission.
+
+“As such, Sony Music has decided to run publicity pieces in our affiliated magazines, both teen and industry, for the next quarter. We’re thinking co-branded material, if the school is interested. The angle would be LAPA, as the institution that gave her the stage. We’ll do a narrative, the kind that tends to photograph well and do well. Given Euphemia’s history here, her past will likely be mentioned. We wanted to give you the opportunity to coordinate with us, because…”
+
+And here comes the stick.
+
+“... well, I don’t know what else to say,” the lawyer finished. “We don’t know what happened, neither does Euphemia.”
+
+Burton set his cup down. "I'm glad to hear Euphemia's work is being recognised," he said, putting enough warmth in his voice that his audience members gave him affirming nods. "I'll be honest, though, life-changing publicity was not the kind of conversation I expected to be having when Eppie came back to us."
+
+"No," Eric agreed. "I imagine not."
+
+Eppie shifted her posture a little. The girl was curious, Burton read. Curious?! Shouldn’t Eppie be afraid? Nervous? Terrified?
+
+“On the matter of her past,” Burton chose confession over lies, because VP Thomas already plugged that hole with Eppie’s re-admission. “I have only hearsay. I do understand that there are irregularities, however. On the day when Miss Fontaine had her accident, the CCTV system was conveniently down.”
+
+“Much like how it was down when the locker incident happened,” the lawyer nodded. “We understand.”
+
+“We’re keeping a close eye on that,” Burton said, his eyes searching the girl for answers.
+
+“On that note, it’s come to our attention that Euphemia has been experiencing a sustained pattern of targeted behaviour from at least one other student. We're not at the stage of formal action, but I have instructed Miss Fontaine to retain documentation,” the lawyer said with a wicked pleasantness. “I don’t see any reason why, on this matter, our interests would not align, even without Sony’s intervention to protect our… investment.”
+
+The girl gave her lawyer a kick under the table.
+
+The man remained motionless. It was a game.
+
+Burton sighed.
+
+A famous Performing Arts Principal’s job was not easy. A lesser man would have broken a decade ago. For his dreams of a LAPA endowment for the disadvantaged but talented, he needed to cede to necessary evils. It was difficult to fight the Sanders, because their first call would be to their legal teams. Their second call would be to the PTA head or the board. The Chens were worse. The new building exists because of the Chen family's generosity, in part empowered by the Sanders. If they were to campaign on Burton turning against the donors like a dog that bites the hand that feeds…
+
+“I will instruct VP Thomas, and my own staff to also begin a paper trail,” he said to the pair, because that’s all he could do. “Chair Cooper and Dr Costello will be made aware as well, of this requirement. Your visit, Mr Lee, will also be formally noted, and your concern recorded. We will make a non-targeted announcement regarding incidents of bullying. This will be our record of concern.”
+
+What he offered the girl now was not leverage, but as much bureaucratic fairness as a poor Principal of principles can afford. If, after all this, Miss Sanders remained stupid enough to overstep, he could answer to the PTA, Senator Sanders, and CEO Chen. If, with every warning in place, Valorie still remains unaccountable and takes action, then all that remains is visible, unbiased, documented truth.
+
+As a mortal man, his only weapon was procedure.
+
+The procedure was slow, but it would get there, eventually.
+
+“Sir,” the girl spoke for the first time since he and the lawyer traded wits. “I am thankful for your aid and concern.”
+
+Her eyes, which were unusually large and childlike when seated in her petite face, were like twin blue lanterns.
+
+“May I ask, Sir?” the girl continued. “About a friend of mine? A very close friend. Luciana Mio.”
+
+Burton regretted having a second coffee. “You may not. As it pertains to the privacy of another student.”
+
+“Oh…” the girl looked disappointed. “I just want to find her and talk to her, about the cats.”
+
+“This is unfortunate,” Burton drew upon his inner self to deliver the message. “Mio is still enrolled, but she is no longer here. We’ve tried every form of contact, but I've had no satisfactory explanation for where she went.”
+
+He looked at Eric, the lawyer.
+
+“Perhaps, if a third party were to engage in some discreet, private detective work. My office would be willing to provide accounts of publicly permissible information, and information in the interest of Miss Mio’s career and wellbeing.”
+
+The girl smiled, instantly reading between the lines. Burton could see that she knew how to proceed. Between them, the Principal and the student now shared a common secret. Mio was the key. Find Mio, and the secret that was buried that night on the rooftop will see the light.
+
+“Thank you, Sir,” she bowed.
+
+“Sony’s publicity team will contact you shortly, Principal Burton,” the lawyer bowed as well, having delivered both carrot and stick.
+
+The coffee had gone cold, but they had drunk enough.
+
+The pair stood, the threesome shook hands, then Burton was finally alone.
+
+From his windowed office, he looked out onto the Quadrangle, where all of his children played their ensemble roles upon the grand stage of life. Most would be the Chorus, some would be the supports, a rare few the lead…and then there were those who hankered for the role of villainy.

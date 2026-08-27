@@ -1,0 +1,165 @@
+---
+id: eaf6aedb-f947-5dfd-b2a8-97cf67841ef5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 An angry mother"
+slug: 0046-chapter-39-an-angry-mother
+partOf: melody-of-mana
+position: 46
+ownLength: 1989
+unit: words
+ownProgress: 1989
+publishedAt: 2021-08-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/740809/chapter-39-an-angry-mother"
+royalRoadId: "740809"
+markedReadAt: "2026-06-29T22:27:47.316Z"
+---
+
+She looked pissed, absolutely, positively furious. I waved one of the other girls near the kitchen to go for Lucien, there was no telling what exactly she was here and so mad about. I could only watch from across the room as Dras' mother grabbed him by the arm.
+
+"I told you not to come here, we're going home!"
+
+"Mom..."
+
+"Don't 'mom' me. I told you, in no uncertain terms that you were forbidden from coming back here or seeing that girl again. I won't have you getting involved with criminals and whores!"
+
+The Sky went silent as she yelled, Dras was a regular by this point and well known for his work and study. A number of the people were now glaring at this woman who'd interrupted their food or drinks. Several of the prostitutes who'd come in for an afternoon breakfast looked particularly peeved at being compared to criminals.
+
+As she tried to drag her son from the booth I saw the burst of flames. If I had to guess it wasn't strong enough to actually hurt her, but she did fall over and back from Dras, who was now standing and looking monumentally angry.
+
+"Do not insult my friends. There is so much you just don't understand. You're so hard headed about all of this, why won't you just listen?"
+
+I approached just a bit to see if he'd actually managed to hurt her. Like her or not, she was still my friend's mom, and I'd still be willing to clear up any burns his little show had caused. I realized my mistake as she turned to me, rage on her face.
+
+"This is your fault! You drug my son into this place, pulling him into whatever mess you're involved in, you should be ashamed of yourself!"
+
+I looked down at her where she sat on the floor. "Let's get a few things straight lady. Your son was coming here well before he met me. He's the one who approached me to make friends. Finally, as far as I know, he hasn't done anything illegal. You're crazy, and controlling, and it's going to lose you more than you understand."
+
+"Oh? And you expect me to believe the little story about your adventure in the Undercity? Just finding something like that? And that Charles boy too, no doubt in on whatever scheme you came up with!"
+
+"I don't care what you believe honestly, but we did get lost during an attack, we did find some neat things, and we did help Charles escape the undercity in the process. Your opinion on that doesn't matter." I managed to keep my voice low and calm for that, though I was monumentally pissed that she was going around blaming me for all that nonsense.
+
+She stood up and began advancing towards me, right as a hand came down on her shoulder.
+
+"You are bothering my patrons and staff. It is time to leave." I'd never seen Lucien angry before, but something about him now felt a bit dangerous. The happy-go-lucky look he normally kept was replaced with dark eyes and a low, barely audible voice.
+
+Dras' mother seemed to catch on as to how badly she'd messed up and with one last look at her son allowed herself to be quietly led to the door. After she left the talking quietly resumed. It took a few minutes for Lucien to come back over and look at the two of us, he still looked rather irritated.
+
+"Care to explain what all that was about?"
+
+"My mom told me not to come round here, or hang out with Alana. Guess she found out I was..."
+
+"I like you kid. You're decent enough and you don't make a mess, but I can't have that kind of thing happening. Handle whatever business is going on with your family, because I do not want to have to intervene in a mess like that again."
+
+The older bard turned his eyes to me, looking down quite severely. "You surely have somewhere to be, do you not?"
+
+I nodded quickly and made my escape. Lucien had been rather good to me and while I didn't think he was mad at me specifically, it was best to stay out of his way.
+
+After my shift I returned over to where Dras was still sitting. He'd gotten a bit of food and another drink while I'd finished up and looked up as I came to sit down. It took him a few moments to look me straight on, even then he seemed a bit put off by the whole incident.
+
+"Sorry about that."
+
+"You didn't do anything to me, so there's no need to apologize."
+
+"I don't know what to do about it. My mom did tell me she didn't want me hanging around here or you anymore..."
+
+"I can't tell you what to do, but I can make a suggestion if you want."
+
+"Go for it."
+
+"Try to make up with your family."
+
+"After all that? After I've done so much for them, and she treats me like that? I was honestly thinking of trying to rent a room..."
+
+"You'll regret that if you do. Give your mom a little time to cool off maybe, but try to patch things together."
+
+"What would you know about... uh, sorry."
+
+"My family is gone to who knows where, if they're even still alive. So, for me, at least try to make up with them, try to do something. Will you at least do that much? Please?"
+
+"I... in the morning, I'll get a room here for..."
+
+I had to cut him off there, "No, go across the street or something. Lucien's a good guy, but if he rents you one now it'll look bad, like he's trying to keep you from your family. He might do it anyway, but if you're going to rent a room for tonight, it shouldn't be here."
+
+Dras looked a bit hurt by that. "I thought we could hang out a bit."
+
+"I like you Dras, but me being here might already irritate somebody, Lucien isn't blood to me, nor is he that close to my family. I could probably play it off, as could he, but it would already be a bit of an ask. Adding you to that could cause real problems, make him look like he's gathering up kids from their families."
+
+"I guess... well, I'll see to it tomorrow."
+
+The two of us talked and went over some of the study materials from the book a bit more. To me it wasn't too much. I'd done all of this either in school back home or under Mystien, but for Dras a lot of it was new. As night fell he rushed off across the street to get a room, and I headed over to talk to my boss.
+
+"Um, Lucien, about earlier...""I know it wasn't your fault kid, but if your boyfriend doesn't take care of his family I'll have to ban him from The Sky. I don't want to, but I will."
+
+"His mom is the problem, not him.""True, but she's going to come after him wherever he is. I can't much blame her for that. Because not even I believe that pile of garbage you told everyone as to where you lot got all that money."
+
+"I really wish you wouldn't pry into that."
+
+"I'd be one heck of a hypocrite to do so. I didn't get all the money to build The Sky by being the most upstanding of men, and I doubt Mystien told you how much of a little group of ner-do-wells we were back in our day. That said, do not get involved in anything you can't handle."
+
+"We didn't do anything wrong, will you at least believe that much?"He gave me a rather deep look, taking a few seconds to rub his chin. "Aye, I'll believe that much."
+
+"Thank you."
+
+"Now, off with you, before you give me another headache."
+
+The next morning right before breakfast a new problem arrived. The man strode through the doors in his priest robes, eyes scanning The Sky before they finally landed on me. Both of us recognized each other immediately, and he strode over.
+
+"Hello Alana. It's been a long time hasn't it."
+
+"Hello Rosk, it has indeed."
+
+"We need to talk."
+
+It only took a second to arrange for us to have a word in the back room. As the two of us settled down the priest looked at me with a deep frown.
+
+"I'm quite surprised you're here. You've caused more of a stir than I think you know."
+
+"Oh?"
+
+"Yes, I ended up in Istlan after leaving Hazelwood land, did you know that?"
+
+"Nope..."
+
+"I gather that I arrived a few months after you left. To find that you had run away from the orphanage there. The Father was quite concerned for you, did you know that?"
+
+"I... left a note."
+
+He frowned at my words. "Highly irresponsible. You could have been kidnapped or killed."
+
+"And I suppose you know where my family is? You arrived just after I left to tell me then?"
+
+He sighed, "No, I can tell you that they're alive, and very worried about you. After several weeks of searching though your brother took your mom and uncle off somewhere. He refused to tell even me where he was headed to."
+
+"Great."
+
+"Not great, you are a child, currently working in a tavern with no supervision from a guardian. It's completely unacceptable."
+
+"Lucien is a friend. It is likely that my family, or other close friends will contact him in time. More than that he's trustworthy, this is the best place for me to be."
+
+"The best place for you to be, young lady, is at the temple, The Shield will happily look after you.""Not going to happen."
+
+"Is that so? You are not the first problematic child who has needed to be shown that they should respect both their elders and the law."
+
+"If you try to press this, it will be a fight, and not one I'll hold back on."
+
+Both of us were tensed, ready to unleash magic on each other in what would be a giant waste of time.
+
+"What are you even doing here Rosk? Shouldn't you be back at the temple, helping people rather than harassing girls who are perfectly fine?"
+
+"We received a report about a girl being forced to work in a tavern and potentially to commit crimes. An orphan at that, I was sent to investigate. It is quite surprising that I found said girl was you."
+
+"Oh, talking to Dras' mom then? She's a bitch, and one who thinks I'm manipulating her son.""Language.""Fuck you, you're not my father, my mother, or any relation. You're just someone who thinks he knows best. And if my language bothers you that much, you can just screw right off. I am not going back to your temple."
+
+"I cannot leave you to the devices of someone who might not even have your best interests in mind.""Lucien has done more for me than you ever have. He's taught me plenty, and done what he can to keep me out of trouble."
+
+"And I...""Sat by while those men caused my home to starve almost to death. Everything got worse and worse until it all just fell apart. Now it's all gone and you don't even know where my family went."
+
+"What happened there was horrible, and the destruction was... I hated to see it."
+
+"It's not your fault, it's Hazelwood's. He, and his men, and his daughter and her men particularly can all go jump off a cliff."
+
+"Alana, I do not expect you to understand why we can't get involved with wars and the like. Why even if it pains us we must remain neutral."
+
+"Then remain neutral here, and get out."
+
+Surprisingly he obeyed.

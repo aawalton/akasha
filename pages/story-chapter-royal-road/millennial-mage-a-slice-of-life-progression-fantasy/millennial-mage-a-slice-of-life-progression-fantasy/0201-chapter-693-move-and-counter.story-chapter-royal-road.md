@@ -1,0 +1,239 @@
+---
+id: 3e7c3422-cbe0-5974-a409-c3533a3aaded
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 693 - Move and Counter"
+slug: 0201-chapter-693-move-and-counter
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 201
+ownLength: 3048
+unit: words
+ownProgress: 3048
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3267436/chapter-693-move-and-counter"
+royalRoadId: "3267436"
+markedReadAt: "2026-06-29T19:41:30.153Z"
+---
+
+Tala felt the resonance in Existence, and she was easily able to hear Lea’s—admittedly theatrical—words. Her own soul practically vibrated with the truth in them along with Lea’s, even though none of the other souls nearby—lacking void and reality as they were—seemed to.
+
+It seemed that the truth spoken was something of a contentious issue between the foundations of existence, and Tala… She really didn’t know how to take that, but it was hardly the time for such contemplations.
+
+The city center was beginning to have more sergeants join the footsoldiers. They weren’t coming from the Doman-Imithe. Instead, they almost seemed to be stepping through distortions in reality, anchored on either end by footsoldiers.
+
+That certainly explained why the legionnaire regulars were being sent into such precarious positions at least. This was helping get higher powered automata closer to the central column. That had been determined to be the target of greatest potential damage.
+
+If the column were destroyed, it would greatly weaken the ability of the arcanes to fight the Black Legion.
+
+They might have feared them taking some of the souls for their own use, except, not only had they not sensed a production facility being created—and it was universally agreed that anything of a scale worth mentioning would be felt upon creation—but the column was a united whole. Tala might have been able to cut some free with void or existence magics, but reality would be more likely to send the souls on than allow them to be separated. And, without the Doman-Imithe available to them, moving the entirety would be impossible.
+
+Several of the Pillars in their planning sessions had expressed a desire for the Black Legion to try taking the column through the Doman-Imithe, as doing so would be a death sentence for all their forces therein. After all, the columns were designed to fill their surroundings with power, and that much power appearing in the Doman-Imithe would call unspeakable powers and horrors down upon them.
+
+There was no disagreement there. The column could not be taken through the Doman-Imithe, and no other known ability of the Legion could so much as budge such a powerfully constructed and reinforced monolith.
+
+Thus, their most likely target was damaging or destroying the heart of the city.
+
+Outside the city, Rane and Terry were engaged with a growing number of Black Legionnaires led by two captains. Sergeants were stepping from the Doman-Imithe to join that fight—where they were coming from was incredibly obvious now that she was watching for it—along with more footsoldiers.
+
+Still, she didn’t fear for her husband or her bound companion. Not even factoring the Talons fighting around them, the two could handle themselves, and both were continuing to demonstrate their ability to permanently end the Legionnaires, even if the newly arrived captains were maintaining a safe distance from that threat for the moment, even while they were still engaging at medium range with polearms and other such weaponry.
+
+I wonder if I could banish the souls at a distance…
+
+She grinned, looking down at one of the groups, lacking any officers. It was a very worthy test.
+
+They were within her aura and authority as it stretched out to—and was empowered by—every fighter on their side within the city. She was even feeling bolstering support from the static defenses that had been subtly altered with the upcoming clash against the Black Legion in mind.
+
+That in mind, it was child’s play to compress her authority around one of the footsoldier automata. It stiffened, clearly realizing something had gone wrong. That jerking saved the blue hue-man that he’d been fighting from a nasty blow, but that was but a happy side effect.
+
+Tala felt out the magics around the soul and her grin widened.
+
+She had long avoided her ‘existence shield’ because of how it cut her off from everything around her, but this was the perfect application.
+
+The mental construct and power came together with ease within her aura and authority, and some hundred yards from her, an ensorceled soul was suddenly entirely isolated from the magics that had contained it—and the spirit that had drawn from it—for thousands of years.
+
+That wouldn’t give it freedom of course. Even though it was separated, it was still surrounded. It was now like a besieged fortress, with Tala’s working as the bastion keeping the enemy at bay.
+
+But this bastion was not static. It did not depend on its placement for power and security.
+
+“Pass on.” Though Tala opened her mouth and spoke, the words seemed to come from existence itself.
+
+If Rane’s working had been a flash of light in the dark, and Terry’s had been an explosion of power, Tala’s was a lighthouse suddenly flaring to life, declaring ‘Here there is danger. Here you shall be broken.’
+
+The soul passed on with barely a ripple, absolutely no damage done to reality at the traversal.
+
+A deep sense of rightness settled within Tala’s very soul.
+
+Existence, as at odds within itself as it oft was, wholly approved.
+
+Magic approved of the soul—the source of magic—moving on to the next world. Reality approved as the gate was no longer there, scraping and abrading against it. Void approved because a connection between Zeme and the next world had been retracted, making the space between all the more substantial in its lack of substance.
+
+Existence was unified in approval of her action, and Tala gloried in the feeling. She barely noticed Alat pulling the automaton into their sanctum amidst the euphoria.
+
+Her perception latched onto the dozen closest lesser Legionnaires, straining to free their soul-cores all at once.
+
+Zeme practically screamed in exaltation at the simultaneous emancipation of so many twisted gates at once, and Tala felt almost drunk as the sheer rightness bolstered her, body, spirit, and soul, though obviously without the hampering such a state usually brought with it.
+
+She could not describe it. It was holding her husband and daughter. It was watching a real sunset after a day of good work. It was a full meal of delicious food. It was… It was what she was meant for.
+
+The heady feeling called her to indulge again, and she reached out once more, finding a sergeant to test herself against—she avoided the one that Lea was fighting—ready to sweep the city clean after this final confirmation.
+
+The Black Legion, of course, had somehow noticed her actions, and they answered.
+
+Tala barely felt it as a Legionnaire beyond even the captains stepped onto Zeme at the outskirts of the city. Then, without any anchors on either end, reality warped, and the commander stood before her, sword already swinging for her neck.
+
+She’d not even had time to oppose the working of reality, as unexpected as it had been, but she reacted regardless.
+
+Tala’s focus was, understandably, immediately on the soul within the commander’s head, the magics around it far more set and settled, the reality of the gate’s imprisonment and enslavement practically engraved upon existence itself.
+
+Suffice it to say, she could neither establish an existence shield around it, cutting it off, nor allow the soul to pass on, at least not without closer contact.
+
+Thankfully, despite Tala’s first instinct having been to target the soul-core, that was hardly the only thing she did.
+
+Two portals snapped open then closed in quick succession, each only in existence for the blink of an eye, each shooting a tungsten sphere up at an angle, aiming for the commander’s torso in such a way that even a miss wouldn’t cause devastation within Platoiri.
+
+The automaton’s armored body rippled as it reshaped to take the hits and deflect the spheres away.
+
+Still, the hits rocked the thing, its metal ringing like a struck column, the violet eyes seeming to fuzz as its whole body vibrated.
+
+The sword strike still came for Tala’s neck, not slowed despite the attempted interruption.
+
+Tala’s armor flowed into existence between them, and reality-iron reinforced white steel met a sword of those materials in alloy.
+
+It was… instructive seeing such an interaction.
+
+First, the nullification of the blade locked the armor into shape as it contacted, preventing the more fluid shock absorption techniques that Tala had so perfected.
+
+Second, the edge was not supernaturally sharp, given it was constrained by reality despite being empowered by it. Even so, the edge was reminiscent of Lea’s sword—what had been Sole’s—in that it was sharper than any mundane blade should have been. Still, that was not sufficient to do more than mar the outer layer of the white steel.
+
+Third, the truth behind the blade shone through at the moment of contact. Despite being morphic—and seemingly being a part of the Black Legion Commander’s body and armor—this was unquestionably a concept blade.
+
+The concept it embodied was simple, and as such, it was unbelievably powerful in that simplicity.
+
+Reality rippled across Tala, reasserting itself and causing her to drop from the sky like a rock.
+
+Tala had been ready for something like that—even if the effect had been both more powerful and quicker acting than she’d anticipated—and so she barely fell a dozen feet before her will, power, and authority renewed her workings, halting her drop and allowing her to roar up at the commander from below, sending a condensed beam of dissolution breath at the automaton.
+
+At the moment of impact, the legionnaire exploded in fire, the outer layers of its body and armor tearing free, dissolving and combusting at a furious rate.
+
+An instant later, the commander brought its sword across—through the stream of dissolution—and all magics were obliterated from within the onrushing air.
+
+Tala snapped the portal to her artificial lung closed before the nullification could interact with the opening or pass back through it.
+
+The abraded commander was on her an instant later, its armor already rippling to smooth out the damage. Still, that couldn’t hide the lessening of mass that it had to work with, nor could it restore the damage to the glowing eyes, which now seemed to spark on occasion with unconstrained motes of power.
+
+Their fight devolved into an exchange of blades, though other powers did come into play.
+
+Specifically, Flow’s void-blade forms utterly countered the concept blade's attempts to remove her magics, and allowed her to leave rents in the commander that were slow to heal, and left it with marginally reduced mass each time.
+
+In contrast, when Tala took hits, they disrupted her power momentarily, but were otherwise superficial.
+
+Still, Tala did not rejoice at her momentary dominance.
+
+In the short term, she would never be more powerful than she was right at this moment, even if she wasn’t using all of her tools quite yet.
+
+She was within a city that specifically supported her in this fight, surrounded by allied fighters similarly bolstering her authority. Every single arcane within range was on her side in this clash, that very fervor adding even more.
+
+She was fresh, well rested, and mentally sharp.
+
+She was Reforged.
+
+All this, combined, and she was barely superior to one of the Black Legion Commanders with her usual fighting style and abilities.
+
+The information they had on the Legion stated there were two ranks above commander: senior commander and prime commander.
+
+True, there were only supposed to be four of the former and a single of the latter, but even so…
+
+Five automata that might be able to match—or even beat—me at my best… Rust.
+
+-It’s good that we aren’t in this alone, eh?-
+
+Tala could only growl her agreement as she took a blow to the armor on her left wrist in order to take off the commander’s left arm.
+
+It was an absolutely wonderful exchange except for one thing.
+
+This time the concept blade didn’t attack her magic as it had up to that point. Instead, it reimposed a different reality. She’d lost that arm numerous times, not to mention that she’d died.
+
+All of that had been corrected but through magic, which meant that in reality’s books, she didn’t have a left arm to use—whether because it was gone or because she was dead hardly mattered—and that was a weakness.
+
+Well, it would have been if Tala hadn’t already Reforged, recreating her reality, and healing a very similar disruption to the one the commander tried to impose.
+
+Even so, it did clash with her hold on her hand, and the limb—from upper arm to fingers—locked into place, becoming more iron statue than fleshly appendage for a brief, but critical, moment.
+
+Thus, Tala was introduced firsthand to one of the more insidious tools of the Legion that she’d learned of. Those who would oppose them were also those most likely to have taken injury that was healed via magic. In fact, only Tala’s relatively recent Reforging put her into the group least affected by this sort of attack.
+
+She had no doubt that in a few years, she’d once again have been healed enough times that she’d receive more than a superficial impediment… assuming she was facing one more powerful than this one.
+
+The concept blades of the Black Legion could undo healing magic—whether temporarily or permanently depending on the relative powers involved—and thus they had a means to do true damage to those who might otherwise be impervious to non-magical attacks.
+
+So, as the commander’s arm fell free, Tala’s own went rigid and unresponsive, allowing the followup strike to come for her chest.
+
+Years—rust, near to three decades—of experience came to Tala’s aid. She’d had more than enough demonstration of various tactics to survive in such a circumstance.
+
+She could pull Flow in a tight, defensive strike, deflecting or outright countering the attack.
+
+She could simply manifest Flow in the way to slow or stop the incoming blade.
+
+She could impose voidmagic upon her armor to give it the momentary ability to counter the concept weapon.
+
+But she had a simpler option still.
+
+Her aura and authority were everywhere, here.
+
+Tala flickered, appearing behind the commander, Flow in the form of a void-knife, already striking at the thing’s back and a nexus of bodily control.
+
+The few of her assistants and hired researchers that were within Ironhold had been busily tearing into the Black Legionnaires that Rane had tossed within, and they’d only recently confirmed that commonality in the last few minutes.
+
+Similarly, those within the sanctum had taken the short window of time to examine those Alat had pulled in after Tala snuffed their soul-cores. They’d prioritized quickly verifying the findings of the others.
+
+A strike to what would be between a human’s shoulderblades should be at least a momentarily disabling blow. There was evidence of backup systems and break-over controls, so she wouldn’t expect the fight to be over, but it would be a decisive blow.
+
+The commander clearly sensed her new position in some manner, and reality twisted once more, moving the automaton down and away, where it landed near one of the streets at the edge of the District of Doors… barely a hundred feet from the closest hold entrance.
+
+She sensed the working more clearly this time, and while she was still unable to oppose it directly. She was starting to figure out how she might in the future.
+
+In the moment, though, Tala felt an odd resonance between the soul within the commander’s head and the hold… the soul within.
+
+That hadn’t happened with the central column that was closer to where she’d been fighting the thing than the commander was to the hold now.
+
+She didn’t know what was different—and for all she knew the resonance had been triggered on the commander’s side—but it didn’t matter.
+
+The automaton’s gaze snapped to the hold entrance, and it launched toward it, cutting down the House guards that got in its path in the street and absolutely obliterating the outer, passive defenses that would have otherwise slowed an attacker.
+
+The greater, active defenses snapped into place an instant later, but it was already inside.
+
+Tala blinked, frowning. Did he just.... run away? ...No…
+
+That didn’t make any sense at all. The commander had come after her for snuffing legionnaires. The choice to leave her out here to do so again made no sense.
+
+She sent her perception stoneward to where the hold was hanging, and was able to see a bit, even through the increased obscuration of the active wardings.
+
+The commander was cutting a swath straight through every impediment it had encountered so far, directly toward the core—and soul within.
+
+Tala had taken out cores before, and then she’d absorbed the dimensionality. It wasn’t that big a deal, honestly.
+
+True, others had to very specifically help the dimensionality disperse, or bad things could happen, but that took time…
+
+It took time in the event of a gentle extraction or passing of the soul-core.
+
+She had no illusions that the commander would be gentle.
+
+Alat! What would the fallout be of catastrophic collapse?
+
+-That’s a hundred acre hold, filled with old-growth trees. A violent realignment with the superficial would cascade, at the very least knocking many, if not most, of the nearby holds free by destroying their anchors. At worst, they would explosively return their own dimensionality to the superficial. Worst case from there? Zeme would crack apart and everything within a hundred miles would simply cease to exist.-
+
+How likely is that?
+
+-Not at all. I would say vanishingly so.-
+
+Tala did not growl at her alternate interface. Then, what is the most likely outcome?
+
+-Dimensional realignment cascade. It would destroy more than half the city through spatial shear forces. Everyone above Honored would likely survive, but no Children or even the Mature would be able to ride that out.-
+
+Tala did growl then. She couldn’t let that happen, which meant that this was an effective distraction technique on the commander’s part.
+
+It was informative that it trusted she’d guess at its goal, but it was somewhat possible that it found the destruction of the city a reasonable price to pay for a few more legionnaires being snuffed.
+
+Regardless, that didn’t make her choice any less locked in.
+
+With a final growl, she gilded herself and flickered after the commander. She needed to get into the hold and stop him.
+
+The sooner the better.

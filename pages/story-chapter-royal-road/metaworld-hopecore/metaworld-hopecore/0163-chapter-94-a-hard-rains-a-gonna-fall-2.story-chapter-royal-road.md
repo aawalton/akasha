@@ -1,0 +1,203 @@
+---
+id: d889df63-0a1c-5db0-8475-d0a88d893c63
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 94 — A Hard Rain's A-Gonna Fall (2)"
+slug: 0163-chapter-94-a-hard-rains-a-gonna-fall-2
+partOf: metaworld-hopecore
+position: 163
+ownLength: 2172
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3852345/chapter-94-a-hard-rains-a-gonna-fall-2"
+royalRoadId: "3852345"
+---
+
+2 AM.
+
+After about an hour of failing to sleep in her plump, plush bed, Eppie gave up.
+
+She needed a way to inform Vaughan that didn’t sound like prophetic rambling.She needed the Dame of the Met to put up ten million on nothing but a sixteen-year-old’s say-so, and that wasn’t going to happen just by taking Vaughan by the hand, confronting her with Eppie’s big blue eyes, and saying, “There’s going to be a crash, could you game the market for all our sakes?”
+
+If her own fund managers had no advice to give, why would she listen to a child?
+
+Yet… Juliana Vaughan wasn’t too different from her old self. She was a genius in her own right.
+
+Sixty-seven years old. Multiple doctorates. Three decades of boards. The widow of a knighted man who had sent her husband’s relatives away with their teeth in their hands. Eppie was certain that Vaughan would see the writing on the wall. All she needed was to put Vaughan somewhere she could see it herself.
+
+This was because, like herself, Vaughan did not act on other people’s certainty. Vaughan gave money to people and institutions she had already decided about; she made moves the moment she had personally understood the board—that was why she had chosen Eppie and offered her the kingdom.
+
+What Eppie needed was a gala. A room with the financiers, the donors, the bankers. She would be wearing a slip dress, looking fifty IQ points lower than she should be. And she would ask these men dumb but uncomfortable questions in front of Juliana Vaughan.
+
+Then Juliana Vaughan would do the rest herself and correctly believe what needed to be done to make up for the Met’s shortfall.
+
+Eppie had four months, but she only needed one night. For now, she needed songs to keep herself alive until her intervention saved NYC’s artists from abdicating their dreams to economic necessity.
+
+Eppie walked across the room and retrieved her J-45. Her computers and such were still in their boxes, but George had placed the guitar in her room as God intended.
+
+She held it like a sacred branch, feeling the warmth of the wood with the lamp off.
+
+Down in the well of the soundhole, upside down and backwards the way they always were, were blessings from Father Parson, Luciana Mio, Paco and the Reedly congregation, together with a message she assumed was from the [System].
+
+Exodus 31:3: And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship, to devise cunning works.
+
+Bezaleel was not a prophet, not a king—but the Ark Maker. An ark for artists to sail the unforgiving sea of end-stage capitalism.
+
+Eppie played about eight bars of nothing in particular. She played percussion on the leather, sifting through her [Memorisation] the same way a girl goes through a jewellery box for the right earrings.
+
+Something viral, she thought. Not heavy. Nothing with a heavy history. Something with a hook you can’t put down. Something joyous, something for everyone.
+
+Her hands stopped on the strings.
+
+…to devise cunning works.
+
+“Whoa…” Eppie murmured. The song came to her, though she didn’t claim it.
+
+Now all she needed… was a suitable artist.
+
+New York. The Belmonte Building.
+
+Euphemia Fontaine—Artist and Artist Service—was horribly late on her first day of work, though her tardiness was infinitely preferable for the CEO who had promised her the unpaid internship.
+
+The first thing Euphemia had done in the morning was have breakfast with Vaughan, remark upon the credit market once—just once—then retreat to her room to call Prewitt. Her fund manager was understandably resistant when ordered by a child, but as Eppie anticipated, her bidding would be done.
+
+Two hours later, she arrived at the Sony building in another of Mirabelle’s gifts: a two-piece knit cardigan in midnight blue, with white-label pocket lips that low-key infringed upon the classic Chanel pantsuit. The saving grace for the designer was that the bottom piece was a skort—allowing the wearer to appear taller than they really were.
+
+Clearly, Mirabelle knew her audience, for she had factually dressed Eppie as a nepobaby doing work experience. After all, as the rumours told it, her platonic fathers were CEO Davis and Director Curon.
+
+Her lanyard was waiting at the desk at twelve, in an envelope, with her name spelt in bold.
+
+FONTAINE — ARTIST SERVICES — ALL FLOORS.
+
+Her photograph was the official Sony one from their last shoot.
+
+She clipped it fashionably to her waist.
+
+Curon was in his office suite, drinking instant coffee, barefoot, with a magazine across his lap. He looked up and said, “Sup,” and then they sort of just… hung out for about two hours, talking about music, artists both present and past, and enjoying themselves to the fullest.
+
+In the third hour, perhaps embarrassed by her presence, he worked.
+
+Eppie watched Curon work and realised what made classical musicians great. Her father didn’t just make music. He decided what was good music, and that was that.
+
+On the NS-10s, he would play somebody’s rough mix all the way through without moving. Then he would take a pencil to the printed lyric sheet and strike out an entire verse, mumbling “that’s shit” and “too slow” and growling like a dog at the waveform. Then he would play it again from the top, until something clean emerged, which seemed to tickle the metronome of the mind and set her [The Clockwork Pulse] to dance.
+
+This… precise incision, Eppie realised, was why Sony took home more Records of the Year than Universal and Warner, and why Sony fought the inherited battles with the Richards Estate on Curon’s behalf. All so that her father could focus on doing an hour of work that he loved, every few days.
+
+But that’s not a methodology, she thought, following Curon’s meandering past a wall of gold discs. That’s just talent… It was [Traits], in real life, and it wasn’t something she could just learn.
+
+They had afternoon tea at four PM, then Curon decided to take her for a stroll downstairs before the technicians started clocking off.
+
+He showed her the Belmonte building, the way a host would introduce the cameraman to “Rate My Crib”.
+
+Studio C, where the desk was older than she was, and the assistant would not let anyone put a cup down anywhere. The vocal booth on nineteen with the good ceiling. The bad booth on twenty-two that everybody uses anyway, despite a standing superstition nobody would explain to her. A writer’s room with three people in it, not speaking, one of them asleep, leaping to attention the moment his bleary eyes spotted a C-suite coming through the lift.
+
+How peculiar, Eppie thought, that the labour in this building had defined, and would continue to define, the musical taste of generations to come.
+
+It would be a shame if her father’s fortunes took a hit, but he was in the C-suite, and the company had endured… it had endured by taking more from the artists… and when the credit crunch was over, and profits soared… they never gave it back.
+
+With her final act at work concluded, Eppie had one more epilogue to end her labours.
+
+“Fontaine-san.” The man with the hachimaki bowed.
+
+“Kuromon-san. Ohisashiburi desu.” Eppie bowed back.
+
+“O… Ohio?” A third voice joined the first two, timid as a kuruma-ebi lifted live from the tank. Kuromon-san ignored the faux pas.
+
+The Sony Club took up twenty-seven and twenty-eight, and the sushi counter was the secret room without windows, a place as exclusive as it was mythical. And it was into this room that Eppie had brought her Media Manager, a mere employee, to sit at the single-piece cypress counter and eat sushi.
+
+Maddy looked around. She pushed up her glasses. She gulped.
+
+“Is… is there a menu?”
+
+“No menu.” Eppie reached over and squeezed her media manager’s hand. “No price…”
+
+Maddy’s eyes grew large.
+
+“Dad’s paying,” Eppie assured her. “Kuromon-san, omakase de onegaishimasu.”
+
+“Kashikomarimashita!” The chef dipped his chin, then reached for the fish.
+
+Kuromon’s curated, spontaneous menu arrived one by one. Fluke with sudachi, then gizzard shad, then horse mackerel with ginger and scallion. Lean tuna, then medium fatty, then ōtoro that dissolved before it reached the back of her tongue. A tiger prawn warm from the flash-sear. Abalone. Sea urchin in a collar of nori.
+
+Guiltily, Maddy took pictures with her BlackBerry. Eppie’s eyes twitched at the sight of the abominable device.
+
+At the sea urchin, Maddy had to take a break.
+
+“Maddy,” Eppie said, lying casually, “Can I give you some… advice I heard from Dame Vaughan?”
+
+Maddy nodded eagerly. She set down her cup. Something in Eppie’s register had changed, and she had caught it, because she was good at her job.
+
+“This is going to be very strange, but hear me out.” Eppie turned to her media manager with as much seriousness as her childish face could muster. “I know you’re looking for apartments; Eric said you were asking about co-op boards. Don’t do it. No mortgages for eighteen months.”
+
+Maddy looked at her like she was talking in tongues.
+
+“And whatever’s in your 401(k), take the financials out of it. Banks, insurers, anything that lends. All of it, this month. Call your provider, ask for the fund breakdown, and if you want to be safe about the rest of it, ask for Treasury bills. If he questions you. Abuse him, politely, then repeat yourself firmly.”
+
+Maddy’s eyes were fifty per cent “Wha?” and fifty per cent “Huh?”
+
+“Maddy, you looked after me for nine months,” Eppie said. “Consider this payback for services rendered.”
+
+Maddy looked at her a moment longer.
+
+Then she got out the BlackBerry again and started, carefully, to write it down.
+
+When she was done, her Media Manager looked up with a face full of courage.
+
+“Eppie, could I ask you a favour?” Maddy loaded a YouTube profile on her BlackBerry.
+
+“Shoot.”
+
+“So… I’ve been following all the artists performing Better, as well as covers of your other songs. There’s this kid from Canada who is seriously talented, and he’s a massive fan…”
+
+Eppie waited.
+
+“He’s fourteen? I think. Ontario somewhere. Single mum, from the look of his profile. His mum does the recordings. Eppie, I’ve seen a lot of people cover your songs. The girls get a lot of views doing In the Pines and cheeky, dressed-up Dream a Little. Even so, I think this kid’s special…”
+
+Maddy passed over the phone.
+
+Eppie watched a kid on a stool with an acoustic guitar too big for him. The room behind him had a radiator in it and a school photograph on the wall.
+
+He was singing Better.
+
+The boy was belting it straight. Not only that, he included the little lift into the third line that Eppie had put there on advice from [The Clockwork Pulse], and this fourteen-year-old had found it on his own off a radio mix.
+
+Fourteen. Ontario. Cute face. Angelic voice. Kinda like herself.
+
+Eppie didn’t even need to watch the rest of the video.
+
+“It’s good. Right?” said Maddy. “Right? And I know there’s legal complications, but I’ve had this on my phone for nine days, and I keep—”
+
+“What’s his name?”
+
+“Martin. Reiber.” Maddy spelt it.
+
+“Income?”
+
+“Low socio-economic?”
+
+“Divorced?” Eppie guessed.
+
+Maddy nodded.
+
+Eppie considered the matching facts. Even if Martin wasn’t an alter-world Justin, she knew all too well what awaited a young boy with too much talent, a single mother, and economic desperation.
+
+“We’re too late, I am sure.” She shook her head. “There is somebody in a coffee shop in Atlanta already speaking to them.” Eppie raised both hands behind her head, so that she grew horns with her pinkies. “Probably from Universal. Even if we send it up now, our A&R takes a quarter, at the minimum.”
+
+Maddy stopped breathing, realising that Eppie was entirely serious.
+
+Eppie patted Maddy’s knee. What her manager did not understand was that, in Lana’s world, Justin had been patient zero for platform discoverability. He was the guinea pig for the “Stan Economy.” A kid who dreamed big had been rebranded into living proof that the music-making machine could manufacture reach without meaning, distribution without substance.
+
+And yet, that same machine had taken Despacito to sixteen weeks at No.1 and brought the wonders of Latin Pop into the US mainstream.
+
+Could she put a stopper in that?She wasn't going to write Baby.She had no idea if Trent would treat Martin better than Universal—but she wasn't optimistic.
+
+Maddy’s eyes grew warm. Eppie held her manager’s hand and offered her more sushi.
+
+Wordlessly, sharing the sombre silence, Kuromon-san returned to work.
+
+I should still do something… Eppie felt Maddy’s disappointment through her fingers. Then… like a piece of prize mackerel, Valorie’s face slid into view.
+
+Woodhouse owed her, and so did Valorie…
+
+Eppie felt her ears perk up. Her tail twirled in anticipation.
+
+Maybe… not all was lost.

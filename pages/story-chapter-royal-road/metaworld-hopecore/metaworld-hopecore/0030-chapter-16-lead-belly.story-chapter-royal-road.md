@@ -1,0 +1,185 @@
+---
+id: 4252f9ac-bc9e-5c8d-88fd-8bf0f8b48676
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 16 - Lead Belly"
+slug: 0030-chapter-16-lead-belly
+partOf: metaworld-hopecore
+position: 30
+ownLength: 2116
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368781/chapter-16-lead-belly"
+royalRoadId: "3368781"
+---
+
+“Where words fail, music speaks”
+
+Hans Christian Anderson
+
+Thursday. Audition Day T-minus 51 days.
+
+Eppie woke at 5 AM. She washed, dressed, dragged one of her roommates to Yoga, then ate breakfast with Josefina.
+
+Her morning classes were blocks, meaning she had an hour free to practice her lines and fiddle with the loaned guitar. She was eager to practice because she had spent 10,000 odd [Causality] when she got home, dropping somewhere between 6,000 and 7,000 on [Guitar] and the rest on [Roulette].
+
+The result spoke for itself.
+
+Trait Acquired
+
+[Vocality] Causality Tier (B+)
+
+You have acquired a rare talent for projection and articulation, understanding the voice as a physical, psychological human instrument. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Trait Acquired
+
+[Instrument: Guitar] Causality Tier (B)
+
+You have acquired a striking talent for the Guitar. This trait belongs to musicians who pursue the freedom of the road and the open sky. This trait is restricted by your [Agility] statistic.
+
+This trait impacts proficiency with the Cordophone family of instruments.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Trait Acquired
+
+[The Clockwork Pulse]Causality Tier (B)
+
+You can hold a precise groove. You feel the metronome in the marrow of your bones. You have the talent to modify, challenge and subvert the rhythm without breaking the law of the tempo. Beyond the B-tier, this trait can only be improved through Karmic Causality.
+
+Muse Acquired
+
+In the PinesWritten and performed by Unknown
+
+Knowledge of a kind had once more wormed its way into her burning brain. She had only known a single version of the song by Nirvana, and had assumed that Kurt had written the song. What she had never known was that the song belonged to no one, that its melody and lyrics were legacies of an unknown blues singer whose work had survived the 19th century, moving from the rural Appalachian South into the mainstream consciousness. Over the years, from “In the Pines” to “Where Did You Sleep Last Night,” every notable music era has had an artist who took to the song with their soul.
+
+Considering the Karmic nature of her gifts, the [System] clearly knew something about the near future that she did not.
+
+“In the Pines…” was not a song on the same plane of fatalistic melancholy as Starry Starry Night. Its opening lyrics were indisputedly haunting.
+
+My girl, my girl, don't lie to me.Tell me where did you sleep last night
+
+Then came the horror.
+
+Just a mile and a half from hereHis head was found in a driving wheelBut his body never was found
+
+What would have been a father asking a child where she stayed last night suddenly became an interrogation by an officer of the law. It spoke of sexual violence, a sordid affair, a young girl who was forced to do what was necessary to defend herself. The Pines… was not a place of warmth. It was a place of Dark Sanctuary, an ephemeral plane of liminality, the resting place of a shivering, terrified victim.
+
+She did not know why this song was gifted to her as of yet, but…
+
+The [System] responded to context; this was what she had now confirmed. Only now… Eppie shivered.
+
+She deeply and sincerely hoped the lyrics were not about her.
+
+Theatre continued with David Cooper’s voice classes, with the Chair’s contoured, athletic form demonstratively anchoring the students to the floor. Eppie’s instructor spoke without a microphone, his voice carrying a natural reverb that would be perfect for songs like "Into the Pines."
+
+True to his resume, Dr Cooper was as meticulous as a coroner in his dissection of his students’ aural projections. Each to each, he corrected their breath, their breathing, the way their jaws restricted or tightened their projection, the placement of their face toward or away from the audience, the feeling of intent in their voice.
+
+For Lucy’s Ismene, Cooper forced the air from her lungs until only a weeping, terrified choke remained. “Feel the hollow of your chest. Feel the breathlessness. Ismene does not want to confront her sister. She doesn’t even want to be seen. She wants to disappear, be invisible, so Creon doesn’t notice her.”
+
+Before the Antigone volunteers got to show their stuff, however, Cooper brought in Seyrova to help the rest of the students establish the Chorus Ensemble. These were the citizens, the city, the ambient noise standing between the “King and the Girl”.
+
+“Bare witness now to history!” Cooper’s voice boomed. “You are the eyes of heaven on earth, the bespoken of God and Man.”
+
+Together, the instructors took a good thirty minutes to align the members, fixing their alignment, their stiff knees, their unnatural gait, and their desire to suddenly break out and lead the group.
+
+They practised the whispered shout, a low murmur intensified by the acting body, roaring from the core of the chest, loud and yet hushed, audible and yet intimate.
+
+When all was said and done, an intimidating crowd of former friends was fully ready for the Antigones.
+
+“Who shall be our first sacrifice?” Cooper announced to the girls.
+
+Naturally, Madison stepped forward, her ponytail swishing confidently.
+
+Damn. Eppie had to admit. Compared to her petite self, Madison looked every inch a star that was ready for Baywatch. The latter was made more evident by their crop tops, thanks to which Madison looked like a primetime rom-com girl to her Mickey Mouse Club backup dancer.
+
+Standing on the X, Madison took a deep, resonant breath.
+
+The chorus begins their terrible work.
+
+When he honours the laws of the land, and that justice which he hath sworn by the gods to uphold, proudly stands his city: no city hath he who, for his rashness, dwells with sin. Never may he share my hearth, never think my thoughts, who doth these things!
+
+Thomas, one of the boys with a deep, piercing voice, steps into an imaginary scene. He is horrified by what he sees. With a face charged with torn emotions, he demands, “What means this?”
+
+The King was summoned, and all bore witness to the walk of shame of Antigone. Madison walks among them. She is defiant and beautiful, her face streaked with invisible tears. Her shoulders droop from the grief of losing her brother as she walks before the enraged King, whose face is filled with disbelief.
+
+“Thou-thou whose face is bent to earth-dost thou avow, or disavow, this deed?”
+
+With a sweeping gesture that addresses the chorus, Madison turns on the King, her body coming alive as red rage smothers her eyes. “I AVOW IT! I make no denial—!”
+
+“STOP.” Cooper claps. The Chorus returns to neutral. “I’ve seen enough. Next.”
+
+Her instructor remained emotionless, and it took Madison several seconds to pull herself out of the character. When the girl passed, she gave Eppie a meaningful, challenging glare.
+
+“What the hell did I ever do to her?” she whispered to Chelsea, who was next in line for Ismene’s debate with their various Antigones.
+
+The girl sighed. “Really, Eppie?”
+
+“Fontaine! You’re up.” Cooper’s voice commanded her body to move with a mind of its own.
+
+Eppie moved to the “X”. Her body shifted to neutral, as did her mind.
+
+I am Antigone. She told herself. I am the double death. The OG girl punk.
+
+The chorus began. Now that she was the subject of the whispered shouts, she felt as though caught in the midst of a storm. She was suddenly oppressed by sound from every angle.
+
+So this is acting, Eppie forced her leaden foot to move. I am not just a girl. I am the city’s lightning rod. I am the righteous sinner.
+
+Her nostrils flared in defiance. Her heels shifted, crushing the gravel beneath her bare feet. Her spine is a vertical line of pure defiance. She would fight fate. She would fight her king. Even as the Sentry pushed her forward, she did not stumble. She does not look down. Her eyes are firmly fixed on the boy playing Creon.
+
+Her [Charisma], her [Intimidation], her [Vocality] seemed to all kick in at once, for she felt the heat running up her spine to radiate a silent, defiant dignity.
+
+“Thou-thou whose face is bent to earth-dost thou avow, or disavow, this deed?” The boy playing Creon, sweating from both brows, did his best.
+
+“I avow it,” her voice sliced through the chorus like a gladius. “I make no Denial.”
+
+The plosive D left her lips, and Creon forgot his lines.
+
+“STOP. Reset.” Cooper halted the scene. “Good. Next.”
+
+Eppie returned to the Chorus, once more a faceless member of the crowd. From somewhere below the shuffling bodies, she bumped fists with her friends, all the while avoiding looking at Madison.
+
+A few other girls and a boy tried their luck. After her performance, however, nothing remarkable seemed to present itself.
+
+“Alright, gather around.” Cooper clapped twice, and the tension fell from the room. As one, the group gathered in a circle to perform their wind-down exercises. “I will now give an honest verdict. This will be harsh, but it will be constructive. Take it and improve, or submit to the Chorus.”
+
+Like a drill sergeant, their Theatre Chair spoke to each student, offering praise and critique alike, leaving the Antigones for last.
+
+“Maddy,” the instructor stopped by her self-assigned rival. “You have presence, we know this. But there are no cameras here.”
+
+Her instructor indicated to an invisible audience. “Do you see a camera rig? Do you think the audience will see a close-up? Your performance isn’t bad in itself; it was certainly convincing, and I felt genuine empathy. However, is Antigone pretty? Is her anguished beauty why she is remembered through history?”
+
+Madison retreated, her face pink and embarrassed, making her more alluring than ever before. Looking at Min-jun, Eppie could see the boy readying himself to go and comfort her.
+
+“Don’t try to impress me,” Cooper addressed the crowd harshly. “There is no Mr Cooper on that battlefield.”
+
+Eppie was the last to be addressed, meaning the whole time, she stood on knives.
+
+“You did well, Fontaine. You did not shout, but we all heard you. You had weight. Your Antigone was already dead.”
+
+Her instructor paused. “Which… is a surprise to all of us. You were a… quiet one last year. You were not even a good theatre tech… Nonetheless, this change makes me glad, Miss Fontaine. Keep it up.”
+
+Cooper clapped, as did the rest of the class, save for Madison’s crew.
+
+Eppie felt her soul buzz, and then her face turned completely scarlet. It wasn’t because of the praise from a very handsome, competent, and deeply voiced Idris. It was the sheer cringe that she, an old soul from the future, would feel so alive after being patted on the head like a dog.
+
+What was she, fifteen? Well, yeah… Her internal self replied smugly. Enjoy it while you can.
+
+Outside, long shadows of Mexican Palms stretch like yawning cats across the hot pavement. Eppie and the gang once more convene at the quad, putting their trays together to share the loot of the university cafeteria.
+
+She was mid-conversation about the follow-up scenes in the play when, in a play reminiscent of classic 90s teen drama, Madison and her crew brushed past Eppie’s.
+
+Unlike their table filled with pizza, burgers, fries and assorted food from home, her crew of clean-cut, clean-shaven boys and girls in prep-wear and branded yoga bottoms held onto their Stanley Cups, salads, and handbags.
+
+“Chair Cooper might still think theatre is about artistry,” Madison used Cooper’s technique to reach across the space of about a dozen meters between them. “But modern theatre is just training for the real deal. In Hollywood, looks trump theory. You either got it, or you don’t.”
+
+The event was so cliched, so surreal, that Eppie was momentarily stunned. Madison's statement was so churlish and puerile that Eppie had no comeback. It was as if, in the middle of a meeting to acquire Fox’s iconic IPs, one of the junior Execs jumped up and shouted, “Is this good for the public?”
+
+Satisfied, Madison left with a flick of her hair and a spring in her step, a la Clueless.
+
+“Er…” Eppie felt her eyes grow hot. She had missed her opportunity to stuff the girl down a porta-potty.
+
+Her friends comforted her with hugs and kisses until Min-jun tried to sneak one in there, and Eppie pushed him so hard that he slipped off the stainless-steel seat rail.
+
+Cursing her dull wit, she bid them farewell and reentered the building for her guitar lesson.

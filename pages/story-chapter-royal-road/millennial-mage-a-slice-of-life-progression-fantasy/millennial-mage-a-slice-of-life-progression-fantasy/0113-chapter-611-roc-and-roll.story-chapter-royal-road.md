@@ -1,0 +1,231 @@
+---
+id: 8a5bd9d1-7c82-5dc0-a199-3a1429384322
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 611 - Roc and Roll"
+slug: 0113-chapter-611-roc-and-roll
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 113
+ownLength: 2676
+unit: words
+ownProgress: 2676
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2594671/chapter-611-roc-and-roll"
+royalRoadId: "2594671"
+markedReadAt: "2026-06-29T19:38:54.802Z"
+---
+
+Tala faced the downed roc and found the creature ready for her.
+
+Its aura was a perfect sphere, utterly under the avian’s authority, and suffused with roiling waves of lightning.
+
+Her threefold sight was able to see a very important distinction between this creature’s smaller size and the form that Terry often took.
+
+Where Terry seemed to somehow sequester his mass and body away, so that he was the size he appeared, the roc did not.
+
+Honestly, the oddity she was seeing reminded her of portions of the Doman-Imithe.
+
+The roc was the same size that it had been, but the world’s interface with it was now shrunk down, making it seem smaller. It was effectively making an exposed, dimensional pocket out of its body and the surrounding space.
+
+As to what that meant, practically speaking? First of all, the entire power of the creature could be brought to bear in a much more concentrated manner. Second, anything that did penetrate the defense would have a greatly dispersed and relatively diminished physical profile upon contact. Here, that would mean that even if she was able to stab Flow through the defense—which she doubted would be very easy, if it was possible at all—then the blade would enter the expanded space, and likely wouldn’t even reach the roc’s body, making the strike effectively useless.
+
+She’d already tried her gravity-shots against this new, more compressed form, and they hadn’t been effective.
+
+She could, in theory, cut the roc out of existence, but doing so would be… problematic. It was a magical creature, bound to a source of power, and quite a weighty one. Severing that would harm Reality, and likely spawn an even greater adversary, most likely with a more aggressive bent.
+
+All that said, she still had a rather perfect tool in her arsenal, but she had one thing to try first.
+
+Many magical creatures either had or gained at least a bit of sapience, beyond their mere sentience which drove them to attack gated humanity. “Leave. You and your flock attacked what is mine, and your flock paid the price. Depart before I extract the same from you as well.”
+
+The local area thrummed with her pronouncement of ‘mine’ and the roc clearly noticed, as its eyes visibly widened at her assertion.
+
+Still, it wasn’t enough to scare or motivate it to go away, if such was even possible.
+
+The roc screeched, the sound putting its previous calls to shame.
+
+Tala was able to hold back the palpable wave of air pressure in her direction, thankfully sheltering the caravan behind her, but in every other direction, the rage of the Paragon level beast was felt.
+
+The ground beneath its mid-air perch flowed like water, leveling out under the powerful vibrations. The trees nearby fractured into splinters even as they were blown outward, pulped and mulched before they even hit the ground.
+
+Tala grimaced within her armor, weathering the greatly reduced attack as it made it through her own aura and authority.
+
+“Very well.” She nodded once. “My turn.”
+
+Then, the lower portion of her helmet opened along with her jaw, a portal springing into being at the back of her throat; inscriptions and natural magics all through her tongue, teeth, cheeks, and lips sprang to life as her magic flowed through them.
+
+Deep below the sanctum, hanging in the nothingness, bounded by the void and suffused with power, her artificial lung exhaled.
+
+Her dissolution breath struck out in a finger-thick line, held more tightly confined than she’d ever managed before, and she didn’t give it any designation on range. The confinement and restrictive magics would hold the dissolution power within until they ran out of power… or until the power was disrupted.
+
+The finger of compressed air punched into the lightning bubble, easily transitioning through the dimensional shift.
+
+On the inside, Tala estimated it would be roughly her own height in diameter, even if it didn’t appear to change size when viewed from her side.
+
+The roc, of course, was not interested in allowing foreign magics into its domain, so it began to destroy the incoming beam with contemptuous ease.
+
+Only when the first layer was peeled back, did it realize its mistake.
+
+The leading edge of the dissolution wind was suddenly exposed and unrestrained, causing an instant ignition of the air.
+
+That’s when the roc made its second mistake. It stopped unraveling the outer magics.
+
+That front edge of the attack kept the continually oncoming magics contained, and as they were continuing forward, they pushed the exposed end of the breath forward in an all consuming wave of exothermic breakdown and recombination.
+
+Tala managed to get the entire contents of her lung out more quickly than ever before with some of the modified inscriptions in her mouth, drawing forth the air rather than simply allowing the pressure differential to push it out. Additionally, her will acted on the inside to push the air out even faster and more completely.
+
+Thus, by the time the roc was jerking backward, attempting to escape the attack, Tala had fully unloaded the payload of hostile magics into its aura and domain.
+
+As it dodged, carrying the bubble of compressed dimensionality with it, it brought along the entirety of Tala’s attack.
+
+She didn’t hesitate to begin filling her artificial lung once more, moving the portal to her back and letting the whole region thrum with the sound of in-rushing air.
+
+For any lesser creature, the attack would have meant death, and a quick and thorough one at that. For the roc, with its incredible power? It was a powerful distraction at best.
+
+Still, Tala could work with that.
+
+At her level of power, will, and authority, her magic was her aura, each carrying the other as surely as her flesh and blood were intertwined.
+
+As such, she had a foothold within the roc’s domain, right up against its flesh as the outer feathers on its chest and right wing turned to dust.
+
+She aspect mirrored Terry’s dimensional abilities and flickered forward.
+
+She appeared beside the neck of the no longer majestic bird, seeing its true size easily once more.
+
+She didn’t give it even a moment to react. Reality Iron tipped tendrils of white steel lashed out, anchoring her armor deeply in the flesh of the beast, every beat of the great heart bringing blood past her to be stripped of iron.
+
+In a lesser beast, this would be sufficient to quickly weaken and kill it, but given the sheer size of the avian, it would take far too long to win in this way, and that was even if she could claim that volume of iron safely.
+
+She couldn’t.
+
+No, the claiming of the iron simply provided a localized weakening of the flesh as Flow lashed out, severing a path forward with a void-edge. At the same time, a second, slow release of her dissolution breath eroded the center of the path even as she pressed forward.
+
+All the while, the remnants of her first exhalation finished splashing against the roc, holding most of its attention.
+
+That wouldn’t last, and so Tala cut deeper and deeper, trying not to consider how much like raw meat everything looked, despite the blood flowing over everything, mixing with the dust of dissolute flesh and feathers to make a truly rank paste.
+
+Tala thanked the stars that she didn’t have to smell any of it. She’d perfected the seals around her helmet long ago.
+
+It was quite obvious the moment that the roc noticed her. It honestly should have noticed her immediately, but she was but a fly to it, and her magics had been permeating the entire area, making pinpointing her similar to picking out a single fly among a shower of dirt.
+
+Regardless, it knew she was there, and it was rusting furious about it.
+
+Lightning flowed across its feathers before arcing to slam into her and the exposed flesh around her.
+
+For her, the electricity just flowed across her armor and around her less conductive flesh, not even really heating up the material as it passed.
+
+For the roc’s flesh, it cauterized and solidified it, making it more resistant—somehow—both to her dissolution breath and even to void-form Flow.
+
+Tala grudgingly admitted, I suppose that that does make sense. It’s become a hard material now, so it doesn’t necessarily part even when separated.
+
+This was one incident where she could cut deeper given the fact that her blade had effectively no thickness, but couldn’t actually force things to move apart, and every sparking arc of lightning seemed to re-fuse the melted flesh that she was attempting to hack through, making techniques like v-cuts and the like all but useless.
+
+Once again, she’d hit a metaphorical wall, but the bird was faring no better. It was throwing everything it had at her, focused entirely on her presence, some five feet into its fifty-foot radius neck.
+
+In that moment of frustration, Alat offered a tentative suggestion. -Well… It can’t really bend dimensionality to avoid your shots now?-
+
+Tala blinked a few times. Right!
+
+With a savage grin, she began to unload into the target-rich environment before her, absolutely obliterating everything she surveyed.
+
+She sent several shots toward the creature’s heart, but it had enough control that it was able to warp dimensionality within its flesh to keep the critical organs mostly out of the direct lines of fire.
+
+Even so, her shots chewed through enhanced flesh like a deranged woodsman’s axe through softwood.
+
+The backwash of pressure from each shot rippled through her comparatively tiny body, pulping her insides and forcing her entire throughput to be diverted to integrity and healing magics, but she didn’t need any throughput to continue sending out shot after shot.
+
+After her initial chaotic spray, she began walking her shots outward from a center line, alternating up and down as she expanded the arcs out, aiming each sphere to pass through the very edge of the growing gap already carved.
+
+She had been regularly adding to the projectiles in her void-donut, each orbiting at insane speeds, ready to be sent forth, and even still she was beginning to run low.
+
+She’d been bordering on excessive in their usage, but it seemed like it had been needed.
+
+She was almost down to the experimental ammunition, and she really didn’t want to use any of those.
+
+Through it all, she counted herself both lucky and wise that she’d entered the neck from below, and so most shots would continue their journey out, away from Zeme.
+
+Alat was monitoring every sphere, each immediately began to slow down as it passed through the target, and she would cut the magics as soon as it approached a standstill, but while it was still going fast enough to not return. In that way, it both shouldn’t come back down to Zeme—risking who knew what devastation and death—nor would it continue on to wreak havoc on some unknown something in the far distant future.
+
+As a spark that lit the roc’s pyre, Tala let out another slow, more contained dissolution breath into the expanding gap that she was creating, widening it toward the body and head, and keeping any magical healing from being able to undo her work in the short term.
+
+And… there! She hacked downward, then up with Flow, cutting through the final bits of flesh that kept the bird’s great head attached to its body.
+
+-Huh… Rane might have been a better opponent for this one.-
+
+Yeah… live and learn, I suppose.
+
+She felt the magic within the avian stutter and fall still, the mind behind the power suddenly unable to exert its will any longer.
+
+There was a whoomp as the dimensional alterations around the roc came apart, and the full size of the creature and its spherical domain slammed outward.
+
+Thankfully, they were actually high up in the sky at that point, the roc having done its utmost to escape the unknown magics and attacks wreaking havoc on it from below.
+
+Still, the concussion of so much matter coming into being and pushing away the surrounding air was to a thunderclap what a finger snap was to the splintering of an ancient tree.
+
+Tala feared that Bandfast, even as far away as it was, might experience broken windows and other damage from the backwash.
+
+Thankfully, Alat let her know that Mistress Jenna’s attention was focused their way, and the woman would personally blunt the power of anything too dangerous.
+
+A moment later, Tala and the carcass began to fall.
+
+Oh… right.
+
+-Well… do you want to try to take it into Ironhold? I think there’s a relatively empty cavern beneath the old dwarven hold that could hold the volume of flesh here.-
+
+You mean near where Eskau Meallain sleeps?
+
+-That does not factor in to my suggestion at all.-
+
+Right… Tala frowned. They had bare moments before the body slammed into the ground and either created a big issue or was rendered useless.
+
+Most likely it would be both.
+
+Alright. She formed Kit as a pouch for the first time in what felt like years before tossing it at the head first.
+
+It hit and latched on, opening and rolling over the surface, drawing on Tala’s elk leathers to expand its physical backing as it stretched wide to pull the head in.
+
+It was odd to see, as what Tala’s normal vision perceived was a flat, growing disc of leather moving away from her. Her threefold sight showed the head simply moving into the cavern within Kit.
+
+That took precious moments, but then Tala was able to reclaim the pouch.
+
+With the beast dead, Tala’s aura reigned supreme around her, and so she easily flickered to one fluttering wingtip, where she again deployed Kit.
+
+The devourling rolled over the avian body, pulling deeply on Tala’s power to allow the intake of such a prize.
+
+Tala also felt much of the ‘free’ magic within the beast as it was claimed and spent toward the effort as well.
+
+Kit was enough under Tala’s control and connected to her, that she wouldn’t ruin any harvests, but the power that would have otherwise bled away was instead seized and repurposed.
+
+-Tala!-
+
+Tala snapped out a Restrain on herself, stealing all the kinetic energy within herself and her armor, as well as removing most of her gravity ties with Zeme.
+
+She pulled up, coming to a dead stop only about twenty feet off the ground, Kit slapping down, having just finished her meal.
+
+Oh… I could have just done that to the body too.
+
+-...Yeah, we really should have thought of that.-
+
+Well, no harm done.
+
+-True enough!-
+
+Kit—in the form of a rather large circle—didn’t vanish, however. She would only cease to manifest if Tala willed it, after all.
+
+She had been consuming, and now she was against something else that she could consume. Kit began to spread out even further, trying to get at the edges of the ground itself to begin to draw it in.
+
+Nope! Tala dismissed Kit’s physical manifestation and shuddered. Well, that would have been… odd.
+
+-Indeed.- Alat sent a contemplative frown toward Tala. -You know, there was a bit there where it felt like Kit’s physical form was unnecessary.-
+
+Tala nodded to herself. You noticed that too? I thought it was just me…
+
+-Nope. I think your aura, your authority, was sufficient to have Kit eat it… or if not, it nearly was.-
+
+Tala frowned, floating there above the devastated landscape. She felt like that was an important revelation, but she also felt like she didn’t have time to investigate it at the moment.
+
+The caravan was a few miles away, and she needed to get back to it. The magic she could sense indicated that all threats were not dealt with, not yet.
+
+Remind me, and we’ll return to this later.
+
+-Sure thing.-
+
+With a final, decisive nod, Tala let herself drop to the ground before bounding off in the direction that she felt Terry and Rane.

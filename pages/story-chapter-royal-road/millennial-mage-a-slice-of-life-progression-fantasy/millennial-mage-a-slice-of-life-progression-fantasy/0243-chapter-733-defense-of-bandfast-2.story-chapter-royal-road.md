@@ -1,0 +1,217 @@
+---
+id: 1e1e1958-6360-5076-9bf5-819464b418f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 733 - Defense of Bandfast (2)"
+slug: 0243-chapter-733-defense-of-bandfast-2
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 243
+ownLength: 2809
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3750211/chapter-733-defense-of-bandfast-2"
+royalRoadId: "3750211"
+---
+
+Tala was barely less than an hour from the clash, and she couldn’t go any faster.
+
+Well, she could, but it would result in more harm than she would mitigate by an earlier arrival.
+
+They’d already watched Mistress Jenna fend off more than a half-dozen attempts to pull her from the temporary ramparts, back toward the city. Each refusal, each renewed surge of defiance sent ripples through Tala’s authority, likely because the other Reforged was actively monitoring Tala’s progress, fighting to hold the line until she could arrive with the reinforcements.
+
+Regardless, Mistress Jenna stood her ground, facing off the slowly advancing Legion.
+
+The juggernauts continued forward, with the singularly weighty automaton striding forth in the gap made by Mistress Jenna’s attack, lessers filling in behind it like a child sheltering behind his mother’s skirts.
+
+The more standard defensive measures continued apace with depressingly little lasting effect, but they were successfully slowing the advance in a way that reminded Tala uncomfortably of the recent allied assault on the escarpment.
+
+There, as at Bandfast, it was already obvious that things would close to a melee sooner rather than later, and most of their combat focused Archons had been moved to the aforementioned assault.
+
+Not all—thank the stars—but enough that Bandfast was in a rather precarious position, hence Tala’s rush with reinforcements.
+
+Finally, the giant automata reached the walls, and knelt, acting as siege platforms from which the others—including some other juggernauts—to fight the defenders gathered on the walls more directly.
+
+To make things worse, as the front-line bent down and other automata climbed into place, breaches from the Doman-Imithe tore into being on the far side of the city, disgorging a second force of Black Legion soldiers.
+
+Bandfast was officially surrounded, and things weren’t looking great for the gated city.
+
+Come on! Hold on ‘til we arrive.
+
+The next half hour was painful to watch.
+
+Waves of automata crashed upon the cliffs of humanity’s defenses, eroding them ever more with every swell.
+
+The Archons who met the Black Legion in direct conflict were noticeably wearied by the clashes, but never to the point that Tala would have noticed it without the context of her own reality splinters.
+
+With that information, it was incredibly obvious that the Black Legion was taking a long-term approach, even pulling back slightly when they might have surged ahead, trusting in the build-up of reality to drain and weigh down those they were attacking.
+
+Worse, even with Tala’s warning, it was obviously working. The slivers—the splinters—were just too difficult to remove quickly, at least with the techniques that they had developed so far.
+
+Even the healers within Ironhold were still struggling, and they’d had hours longer and dozens of more patients with which to practice and figure things out.
+
+True, they had passed on their findings to the healers in the field—both in Bandfast and back at the escarpment—but that wasn’t the same as first-hand experience. Even with the healers that Tala had left behind adding to the growing body of research and experience, the process wasn’t going to be revolutionized in an afternoon, no matter how much they wished it could be.
+
+We’ll all have plenty of first hand experience with the horrors before the end.
+
+There was apparently some debate within the war council about where Master Xeel would be used to best effect in this critical time, but it had ultimately been decided that his expertise and power best fit with the needs of the final clean-up at the escarpment.
+
+It was a testament to all the hard work that had been done on all sides that Master Xeel actually took their instructions to heart and moved to meet that need.
+
+While Tala would have liked having Master Xeel there to help defend Bandfast, she understood the reasoning. He was a very magical being in the direction he’d taken his Reforging, and it was to the point that most of his power would be all but useless against a large concentration of Black Legion, even if only led by a commander.
+
+He really would make more of a difference hunting down stragglers in that warren of a plateau.
+
+“-Huh…-” Alat projected for all the Sappherrouses to hear, drawing everyone’s attention, even if not their eyes. “-These reality splinters only showed up recently, right?-”
+
+Tala grunted. “That’s right, at least as far as we can tell. If they had the ability to use them before, the arcanes didn’t know about it, so it had to have been developed separately from them, and if they were used earlier, it was with a lot of subtlety.”
+
+“-Right right, but that’s not my point. Assume for a moment that it was developed recently.-”
+
+She felt like the alternate interface was driving toward a pun of some kind, but decided not to fight it. “Sure…”
+
+“-Then it came about after they somehow came into alignment with the Leshkin… you know, the plant people? Can that really be a coincidence? Splinters?-”
+
+Tala sent a flat look to Alat. “Funny, Alat.”
+
+Rane was actually chuckling, and he only laughed harder when Tala sent him an unamused look as well.
+
+“I think about them as splinters, but that’s not really what they are.”
+
+Lea held up a hand, forestalling her moms. “Hold on now. There is some power behind concepts like that, and it’s possible you called them that because that’s what they are. Standard Black Legion automata don’t have as strong a connection to their material makeup as Leshkin do. That’s partly because the Leshkin are more able to shift that material, gaining and losing as appropriate. Because of that, they likely have a ‘tighter’ grip on that material. It’s one reason why Leshkin weaponry remains a viable magical item even after the Leshkin who created it as part of their manifestation is killed. Black Legion weaponry is created separately, and their bodies all but revert to stock materials, even if they can be inhabited again with relative ease afterward.”
+
+Tala grunted at that even as Alat exclaimed in triumph.
+
+Rane gave his wife an apologetic look. “I’m sorry, Tala. I think I have to agree with Alat and Lea. It seems very likely that the Black Legion picked up some tricks from the Leshkin, and the splinters seem very on-theme.”
+
+Tala sighed. “Fine. They learned it from the Leshkin. Does that help?”
+
+Surprisingly, Lea was the one who answered. “It actually might. The healers should be looking for a natural effect rather than an impressed one.”
+
+Tala blinked a few times in realization. Alat, for her part, was equally flummoxed. “-I…did not think of that implication. I’ll let them know. Good work, Lea.-”
+
+Lea preened slightly under the praise, but Tala hardly paid attention past adding her own praise to Alat’s.
+
+There was something to that which she couldn’t quite grasp… But before she could, her attention snapped back to the battle displayed before them.
+
+The outer fortifications were finally, entirely breached. The Mages, Archons, and elite mundane fighters were executing a fighting retreat through the farming district, back toward the walls.
+
+It was there that a few connected oddities occurred.
+
+The primary one, unfortunately, was a man who had clearly not heeded the call for evacuation, coming out of a ditch and swinging his hoe at an automaton.
+
+The strike landed, which was surprising in its own right, but even more shocking was the fact that the Black Legion simply ignored the man, continuing on despite him wailing on various automata until his farm implement broke.
+
+Still, the Black Legion ignored him entirely, except to go around him as he stood there, panting in utter impotence.
+
+It took less than a minute for someone to either look up the man’s citizenship records or just get close enough to verify, but Tala was already certain.
+
+He was gateless.
+
+It was… odd. The Black Legion attacked arcanes, and they were gateless too.
+
+She frowned. But they are full of magic almost universally. Gateless humans aren’t…
+
+In truth, it was little more than a curiosity in the current circumstances, and Tala was sure she joined most of those observing in being grateful the belligerent farmer hadn’t been killed for his actions.
+
+They did all have the collective realization that they’d need to suppress news of his actions, however. At the very least, they’d need to spin them. Most people didn’t know nor care if they were gateless or not, excepting cases where it made having children difficult.
+
+As such, all that most would hear would be that a man had stayed with his farm and even attacked these ‘invaders’ without any harm coming to him.
+
+Next time, more people would stay, and the chances of them all being gateless was next to zero.
+
+More to worry about… But those were concerns for later.
+
+The legion flowed ever onward, primarily constricting inward from two sides even as their backlines flowed outward to form a complete ring of encirclement.
+
+They were oddly respectful of the various crops and trees while not actually going out of their way to avoid any damage.
+
+The results would be salvageable one way or another, assuming the city as a whole stood, and just like when Tala had advanced on the escarpment, it made for a strange dichotomy, where those that were bringing about so much death, destruction, and hardship for sapient beings seemed to have such an outwardly positive and sheltering view of most of the rest of the world.
+
+It’s odd how much worldviews can seem disjointed to outsiders. She snorted at that. Not that I have any reason to say they’ve any backing for theirs at all.
+
+As the Black Legion advanced, the defenders were hard pressed, but as most of their magics faded when closing in on their targets, they really weren’t harming the crops either.
+
+Automata were being decommissioned by the cart-load, but more kept pouring from the surrounding tree-line and out of the Doman-Imithe.
+
+Humans were taking injuries—both those seen and unseen—and that was slowing them down, weakening the defense.
+
+Tala had only seen a few outright die, but she knew that most of those trying for an orderly retreat were already filled with splinters.
+
+Healers were moving in lock-step with the other defenders, obviously actively working on those around them.
+
+Reports had put this attacking force at nearly a hundred thousand, but that was without the Doman-Imithe sourced reinforcements, and from Tala what could see, that tide was just as seemingly unending as that from the treeline.
+
+Tala and her reinforcements were less than a half hour away, but the human forces were already collapsing back through the gates rather than holding the line.
+
+Tala hoped that those would hold, but she also knew just how much magic was threaded through their construction, and she was unsure how the reality fields would affect them.
+
+Frustratingly, as she was viewing what amounted to a reproduction of light, she couldn’t see the underpinning magic or layers of reality except in how they affected what she saw.
+
+She would have to wait until they arrived on the scene to get a true picture of all parts of what was going on.
+
+Then, just as they were only ten minutes out, and the last of the outer gates closed, even the light registered the change.
+
+A ripple passed across the entirety of Bandfast as the last of the living defenders was safely recovered.
+
+Only then did it seem that the city itself decided to fight back.
+
+Whoever was in charge of the city’s overarching defenses had clearly not been idle while the others were fighting, even if their efforts hadn’t been on ready display.
+
+That changed in a big way.
+
+The ground that the Mages and mundane elites had retreated across simply vanished in places as the reality field of the Black Legion pushed forward, revealing it to have been a magical construct of some kind.
+
+The angle of their view was awful, but they were still able to see that it wasn’t a simple pit that had been created. Enar was able to find a different perspective to switch their view too, and they were suddenly effectively standing on the leading edge of a tower in the outer wall, looking downward.
+
+The city walls had always extended deep into the earth, expanding backward to truly anchor the wall and ensure that they didn’t shift or settle over the centuries of their use.
+
+Now, the loose earth—and even packed clay—had been pulled away, exposing those walls down another hundred feet below what had been ground level. That wall then had a jagged field of rocks before it that extended nearly fifty feet out before the opposing cliff led directly back up to the farm land above.
+
+At the top, however, it wasn’t just an unbroken span. Instead, stone bridges arched over the expanse, thin and sparse but there.
+
+Many of the… less intelligent automata all but sprinted out onto the bridges, swarming forward while the larger and more advanced variants held back from the obvious trap.
+
+All around the city, these bridges were swarmed, thousands of lessers taking to them in a rush.
+
+When the lead elements were only ten feet from the base of the wall, a sudden wind tore in a circle around the entirety of Bandfast.
+
+Many automata were instantly pulled free of their precarious, rocky perch, sent tumbling, but many more successfully gripped into the rock, finding momentary safety.
+
+As the proto-tornado began its attack on the Black Legion, Tala felt a thrum deep within herself.
+
+There had been some resonance with her authority and her mission to fight the automata throughout the defense, but ironically, humanity didn’t see her as pivotal to this task in the same way as the arcanes did. Even so, the sheer mass of power pouring into the accomplishment of her goal could not be denied.
+
+With an unconscious smile, she followed the thread back and practically bequeathed her metaphysical weight unto the source.
+
+The magically-stirred, mundane wind practically sparked with renewed fury, and Tala felt it even more clearly than before.
+
+She intrinsically knew that what she’d granted would be enough to stymie this wave for a moment, but most of the Legion that fell would survive the drop and begin a climb upward.
+
+She could add more power—likely destroying a few more that might otherwise have fallen—or…
+
+Rane and Terry both snapped their heads around toward Tala at the same instant, likely feeling the same resonance from her soul.
+
+Without moving, she reached out and tapped the ongoing effect, upsetting the balance of powers within. There was simply no other way to describe it.
+
+It rocked to one side, ribbons of void suddenly cutting through everything before the gale. This undermined many of the bridges, causing them to fall to the wind, but it separated more of the Black Legion into pieces, turning their inconvenient tumble into a slurry of automata parts, never to be reattached.
+
+The balance of the magics—of existence—tried to right itself, but it sloshed too far the other way, the magical nature at the core of the automata quaking before an imposition of reality entirely separate from them in origin. Their defenses snapped into place, much as they did when Tala, Rane, or Terry attempted to banish them permanently, and that weakened their connection to their bodies, no matter how real that was.
+
+The few legionnaires that had managed to avoid the void were suddenly tumbling uncontrollably, their previously tightly controlled motions suddenly out of wack, causing them to slam into walls, detritus, and eventually the spikes below.
+
+Through all this, the wind continued, grinding the entirety of its payload across the bedrock knurlings at the bottom of the trench.
+
+Tala fell backward into her throne, gasping.
+
+She panted heavily, momentarily unable to get her heart or breathing under control as she’d extended herself in a way she’d never attempted before.
+
+She couldn’t even tell why she suddenly felt so drained.
+
+Regardless, she’d helped the city in what way she could at a distance, and they were only a few minutes away from offering more direct assistance.
+
+Rane was at her side, checking her over even as they both watched the automata’s next steps.
+
+Juggernauts were handed harpoon-like weapons, and they launched them across the gap with enough force to punch more than halfway through the city walls, even while trailing the heavy black chains behind them.
+
+With those in place, the remaining Legionnaires began to flow across the thirty-two, evenly spaced chains toward the walls.
+
+The defenses were in the final phase as this wall was not some throw-away defense. If this wall fell, the automata would be in the city streets, and while that wouldn’t mean an immediate loss, it would represent a significant blow to their efforts.

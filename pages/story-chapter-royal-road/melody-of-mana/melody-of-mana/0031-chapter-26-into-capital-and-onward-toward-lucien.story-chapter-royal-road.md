@@ -1,0 +1,137 @@
+---
+id: 520844fc-6ae2-53c8-894d-0ecd8431ff11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 Into capital and onward toward Lucien"
+slug: 0031-chapter-26-into-capital-and-onward-toward-lucien
+partOf: melody-of-mana
+position: 31
+ownLength: 2237
+unit: words
+ownProgress: 2237
+publishedAt: 2021-07-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/717811/chapter-26-into-capital-and-onward-toward-lucien"
+royalRoadId: "717811"
+markedReadAt: "2026-06-29T22:27:18.668Z"
+---
+
+In the vicinity of the capital the world looked completely different. It was almost at peace, the fields which had been poorly sown and harvested for years everywhere else looked manicured here. They grew a lot more of what one might call 'luxury' crops, and far less grain. It was hard to tell exactly what they were growing but the presence of things like beanpoles and vineyards was much higher than I was used to. All of the roads we traveled along were both paved and well maintained. The patrols between areas also increased significantly. This was a place where appearances mattered, that much was clear.
+
+By evening we reached the capital's lands. The city could be seen in the distance, but it was still hours away. We of course stopped at a waystation. There was no camping out here like one might elsewhere, it would be unseemly.
+
+As the sun set I looked onto the city in the distance. It was dense, with three and four story buildings common, perhaps even a few six and seven mixed in. The walls were white and quite tall, the area around them completely devoid of anything other than a field of grass. Presumably to act as defence in case of attack. There was a small amount of smoke coming up from various places, but it was hard to see, particularly as the light faded.
+
+Near the center of the capital was a huge building set upon a hill. I could make out few of the details, but based on its size and location I presumed it must be the royal palace. It was quite a bit taller than everything surrounding it and seemed to have its own private wall.
+
+Off to one side there was another large collection of buildings. These too stood well over their companions, reaching out into the sky. They were not nearly as organized from what I could tell, but were instead a variety of shapes and heights. I knew not what was here, but the design was certainly wild.
+
+The waystation we were staying at as well was quite a change. Even the rooms for low priority guests like ourselves were much more nicely furnished. It was still a simple bed, desk, and chair, but they all properly matched, and had far better cushioning than those out in the countryside.
+
+I ended up getting a room for myself that was a bit on the small side. There was no point in wasting money on getting something lavish, being that I had no clue how long my funds would need to last me. I'd already splurged on the bath, keeping at it would do no good at all.
+
+The next morning I opted to walk as we approached the city. The weather was clear, if nippy, and the road leading up to the main gate looked like something straight out of a fantasy game. There were small fences on either side, looking out onto an expanse of verdant grass. We managed to miss the morning rush so there were few coming and going as our caravan approached, plodding along the smooth stone of the causeway.
+
+I was, of course, taken aside and interrogated again as I came to the gate, but I was sort of expecting that. They didn't even vary their questions that much, and just waved me through.
+
+I met Sorn at the other side of the gatehouse, and gave him a small shrug.
+
+"Well, I guess I'll see you later. Best of luck starting your shoe making business."
+
+"I'll be on the west side of the city. There's a district there for artisans, come looking around where the other clothing shops are for Sorn's Shoes. I'll have something up by spring."
+
+"Will do, I'm off to find my uncle then." I turned to leave.
+
+"Oi lad, I never did get your name." He'd called me lad from the moment we met, I personally thought it was hilarious.
+
+"It's Alana." I was going to get one last laugh out of him.
+
+"Isn't that a girl's name though?"
+
+"It is."
+
+"... lad... are you a lass?"
+
+Cackling I turned and walked down the street, a few people looked as he yelled after me.
+
+"Oh, come on now!"
+
+This was, in retrospect not the best thought out of plans. I knew the name of the man I was after, Lucien. I'd been regaled with enough stories of his and Mystien's adventures that I'd not easily forget it. I knew he owned a tavern too.
+
+The problem came when I got to the entertainment district. There had to be at least a hundred taverns dotting the street up and down it. I was used to a dozen or so tops in a city. Now I had to go try and figure out which one was his, a daunting task. I remembered that the name had something to do with the sky, but I was at a complete loss.
+
+My first contender was a place called The Skyhook. It was a fairly ritzy establishment, near to where one might find nobles. It was a no-go, the man at the door didn't know a Lucien, and looked at me like I was some kind of street trash. I worked my way down the main thoroughfare, there had to be fifteen different places that had names with birds, or flying, or something like that in their name. The doorman at each was either unhelpful, or just downright rude.
+
+I eventually found a guard to ask, it was getting late.
+
+"Don't suppose you know of a tavern run by a man named Lucien? I think the name had to do with flying or the sky or something."
+
+"No kid I don't. Where all have you checked?"
+
+"All up and down the main thoroughfare, why?"
+
+"You haven't checked the entertainment district?"
+
+"Um?"
+
+"First time in the capital huh?"
+
+I nodded, and he proceeded to give me directions to the actual region of the city that housed entertainment. Unlike most cities in the country this one didn't just have it near to the noble's section. The city was just too large for that. There were a number of establishments on the main road yes, but you needed to go down a side street to find the actual district.
+
+I nearly wept when I got there. It was enormous, there were way too many places for me to check tonight.
+
+I picked a side of the street and just started walking, trying any candidate that seemed to be likely. I went to The Silver Star, The Flying Fool, The Silent Soar, The Naughty Nimbus and about half a dozen other places. Near the end of the road I was ready to collapse.
+
+I stumbled into the last of the candidates of the day. The slog was hard and I was ready to rent a room until tomorrow. It was a seedy place, nestled between a bunch of brothels. There was no doorman here, the waitresses also seemed to be busy. So I found myself a stool near the bar, looking around. Half the customers had to be from said brothels, the number of women and their clothes gave that away clear as day.
+
+On one table sung a fat, balding, old bard. He was in the middle of some number about a man wandering the streets in search of his lost love. It was pretty good, and the lute he played to focus his song was singing along as well. If nothing else, he had some serious chops when it came to music.
+
+When the song finished he let out the spell he'd been working on. A rather complex darkness spell spread across the ceiling, pinpoints of light sparkled, peeking out from it here and there. The crowd loved it, giving a great cheer as they downed their drinks. Having finished his number he came back over to the bar and began slinging drinks. Eventually he got to me.
+
+"Welcome to The Starlit Sky. How is it I can help you today then?"
+
+"I need a room, and I don't suppose you know a Lucien?"
+
+His demeanor hardened a bit, and he looked me over.
+
+"I don't know what you've been told, but Lucien's not your daddy boy." He seemed oddly confident about that one.
+
+"I'm aware," I deadpanned. "He's a friend of my teacher supposedly."
+
+"Who's your teacher?"
+
+"A wizard named Mystien." His eyes told me I'd found my target.
+
+He began laughing. "How's the old codger doing then?"
+
+"I was hoping you'd know. He disappeared a couple of years ago. Haven't heard or seen hide nor hair since."
+
+He poured two mugs of ale and motioned me over to a small alcove. "Sounds like you've got a story. Why don't you go ahead and tell me."
+
+It took well over an hour to relate the entirety of my adventure. He jumped in only a few times to ask for details as I wove the tale. I told him how his friend and my father had vanished like smoke on the wind. I delved into the confinement of our town and its eventual fall. Eventually I got to the point where I made my way here, hanging around in the back of a cart with a cobbler.
+
+"Hate to say it, but I've no clue where he is." The senior bard announced as I finished. "I wouldn't be worried though, he'll turn up eventually. So, what'll you do now?"
+
+"Well... I was thinking about finding a new place to work. Somewhere the old man might eventually come..."
+
+"Are you telling me you traveled halfway across the country to ask me for a job?"
+
+"Pretty much, yeah. It's the best chance I can think of for finding my family. If you didn't know anything that is."
+
+Lucien blinked at me a few times. "If Mystien and Jackson trained you, I've no doubt you're not too bad at magic. I can see your aura, so I know you've practiced a good bit. You suck at planning though."
+
+I puffed a bit at that one, glaring at him just a bit. "It seemed the best option."
+
+"Not sure I'm the one who should be lecturing on making bad life choices..." he mumbled under his breath.
+
+"Anyway," he continued at full volume. "I'll hire you for the winter. If you're any good, I'll keep you around. If not, I'll at least help you find somewhere else to go."
+
+We hashed out the details of my employment then and there, I'd be working mostly mornings and afternoons. Two on one off, as I had back in Istlan. The pay was quite a bit lower, but I was getting room and board added on, so I was fine with that. I was also allowed to pick up some evening shifts if I wanted to earn a little extra cash. Pay for doing magic was separate of course, and was about the same as I'd had in Istlan. There were more casters here in the capital, but there was also far, far more demand.
+
+The room I was given as board was frankly spartan. There was a small stove in one corner, but other than that and the simple bed, nothing. I was told it was one of the cheapest rooms in the tavern, which was itself on the far lower end. The Sky didn't have many rooms to rent, depending mostly on magic and alcohol sales anyway.
+
+My first day of work began the next morning. I was going to be cleaning up mostly. The place was nothing at all like Haven's. It was seedy looking at night, tucked away in a corner between bordellos, but during the day it looked just like any restaurant you might expect. The tables were a bit worn, there was a constant war on incoming dirt, and half the staff was a bit cranky.
+
+There were a handful of barmaids, and cooks. When I was first introduced to them they looked sour, some kid butting into their work was most unwelcome. Lucien explained that I was a bard, and would be mostly cleaning and helping out while doing magic stuff. It didn't really help matters, but he and I were casters. Having one bard working at your tavern was a good sign, two was excellent. It didn't really make many things go much smoother on the normal business side, but it was a point of pride for a lot of places, keeping a caster on staff could be quite expensive.
+
+I wasn't too tired at the end of the day, but after an early dinner I retreated to my room. Settling down to go over the past few weeks, one thing seemed obvious. I needed to up my magic game. How though? I knew that I'd about hit the limit on attack magic. Perhaps I should learn something defensive, or to improve my stealth. I'd need to consider carefully where to go with this. If I worked on it at night I could maybe get a few new spells up to a workable level before spring, that would be my goal.
+
+As I looked out the little window in my room a snowflake drifted past, the first soldier of the oncoming horde. While winter waged its yearly war on the world I would prepare for mine... whatever that next fight would be.

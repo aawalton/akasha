@@ -1,0 +1,239 @@
+---
+id: c05a285b-2e3f-575a-afb6-f6ec3d291620
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 666 - Fighting the Beast"
+slug: 0172-chapter-666-fighting-the-beast
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 172
+ownLength: 3026
+unit: words
+ownProgress: 3026
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3004408/chapter-666-fighting-the-beast"
+royalRoadId: "3004408"
+markedReadAt: "2026-06-29T19:40:34.541Z"
+---
+
+Tala couldn’t help but feel a bit of nerves as the clearly experienced, Honored wolf-kin stood on the sand before her husband.
+
+In truth, it wasn’t due to fear that Rane wouldn’t do well. It was more a general concern for someone she loved going into a dangerous situation.
+
+She didn’t like it, but she also wasn’t about to do something to interfere. She didn’t control him any more than he controlled her, and manipulating things to ‘get him out of this’ would show a lack of trust in her husband which she neither felt nor wanted to convey.
+
+Adding to her discomfiture, Rane was not a small man, but the wolf-kin still would have been at least a head taller if he stretched to his full height. He didn’t, instead affecting a forward hunch that made his musculature obvious even under his thick, glistening fur. That left their eyes at nearly the same level above the ground, while having radically different postures.
+
+Even so, the arcane was just as obviously not built to be a brawler. The muscles—large as they were—were lean, and the beast of a person was predatory in the extreme.
+
+Aside from his natural fur, his modesty was protected by a black leather and darkened steel set of armor that was obviously perfectly tailored to him and his movements.
+
+Such a thing could be an incredible boon in battle, especially if the range of movement could be crafted to exactly match that of the wearer. That would protect joints from being overextended either from enemy action, or the wearer’s own exuberance.
+
+As to weapons, the wolf-kin wore a pair of war-sickles, effectively bladed, hooked spikes mounted at a right angle to their handles. As with most arcane weapons, there was a bit of magic inherent in the material, clearly having been imbued during the crafting process.
+
+She couldn’t tell what concept or magics the man used, but the sense that she got through the concealment of his aura was something like water and darkness? It wasn’t clear, and she wasn’t willing to breach decorum to get a better look.
+
+Make no mistake, she would have had no issue, and everyone here would have had to grin and bear it—her advancement and rank did have advantages after all—but Rane had asked her not to interfere, and that request meant something to her.
+
+As for the man himself, Rane wore his customary garb—though one of his nicer sets—his only visible armor being the heavy, white-steel bracers, the larger one on his left arm. Force’s handle extended up from his hip, the blade—as usual—tucked within his personal, small expanded space. He had considered wearing his bone armor, but discarded the idea. As a gated, he had a natural tier advantage, and something in the man wouldn’t let him add to that for something as simple as a duel.
+
+Tala did wish his sense of honor, his desire to act properly, would let him take some advantage when appropriate.
+
+The arena was smaller than that in which Tala had overseen the duel between dwarven House heads, and even still, it was far from full.
+
+This was a ‘small’ matter, with most people who had come likely in attendance purely because of the advancement of the two combatants.
+
+A Platoiri official stood in judgment over the proceedings, and at the appointed time, she raised a hand, causing quiet to descend. “This is a personal matter between the combatants. I will simply ensure there is no interference from, nor danger to, the onlookers.”
+
+She then gestured, and the wolf-kin straightened slightly, projecting, but clearly speaking directly to Rane. “I am Tod, third Guide of the Segler Hunting Pack. Your presumption to walk beside an Eskau of a Major House for all to see offends the decency of all forced to witness the action. Her nature, and your relationship, are your own matter. It need not be thrust in the faces of good, honest citizens.”
+
+Right, some beast-kin are organized into packs or prides, or the like instead of houses. They don’t aspire to have Eskau or Pillars, but they still get the benefits of official association and collective bargaining. She didn’t feel the man’s silly notions were worth paying attention to, so she didn’t bother to actually consider them.
+
+-And they still use vestiges for hold-cores and the like.-
+
+That they do. Now let me focus. My husband will be fighting soon.
+
+-You’re the one who—-
+
+Hush!
+
+Alat sent a huffing laugh and fell silent.
+
+Rane huffed, a small smile pulling at his lips. “Tod of the Segler Pack. I am Rane Sappherrous, acknowledged of the Lunar Hunt, Paragon of Gated Humanity, protector and bond-mate of Tala who is an Eskau of the House of Blood and Reforged Ambassador of Gated Humanity. How I conduct myself, is no concern of yours.”
+
+Tod seemed a bit taken aback by the titles, but he pushed through, his eyes narrowing. “Shall I turn a blind eye if you began stripping in the streets? Your reasoning is flawed at its core.”
+
+“I was not giving reasoning, Honored. I have no desire nor need to convince you of anything. Were I to step out of line, those more advanced than you would resolve the matter.” Rane let his aura roll out, the power within it restrained, but he was clearly letting the feel of it be clear, at least to his opponent.
+
+Tod growled. “It matters not if you have met the Alpha. We are not under his authority, and even if we were, it is unseemly to require those greater than ourselves to bend to our needs. This will only be solved through combat. If you truly have been to the Lunar Hunt, then you should already understand that. Only a clash of blade and fang can show the right of things.”
+
+Rane gave a nod of agreement. “To surrender or incapacitation.”
+
+“Let it be so.”
+
+They both turned back to the official, waiting for the signal to begin.
+
+“Start.” The woman’s voice wasn’t loud, but it was magically carried to every corner of the small arena and stands.
+
+As the word was still fading, Rane shifted, looking almost as if he was falling forward, simply tilting. If he continued, he’d face-plant into the sand.
+
+The movement seemed to confuse Tod for a moment, and in that moment, Rane shot forward, magics propelling him without need of his legs.
+
+Tod drew his sickles and lunged forward and to the side before immediately rebounding, making his trajectory much like a ‘V’, coming at Rane from the right, where his hand was still empty.
+
+Rane’s head had tracked the wolf-kin’s movement, but he didn’t otherwise react until the last moment.
+
+His right hand moved to grab Force’s handle, even as he spun, the bracer on his left forearm flowing to form an oval shield, oriented lengthwise down his arm and extending beyond his fist. That end had a half-circle seemingly removed, leaving two points, framing a depression in the edge.
+
+It was that indented edge that came to bear.
+
+Tod struck out with his sickles, and Rane met the leading one—the man’s right one—catching it and throwing to the side with the shield.
+
+They both spun from the impact, feet off of the sand, but Rane added magical power to his movement, coming around far faster than nature intended.
+
+In the same spinning motion, he drew Force and lashed out, aiming for a leg to wound rather than bisect.
+
+Ahh, Rane. You are so softhearted sometimes.
+
+Despite Rane’s well-executed maneuver, Tod had a counter.
+
+The wolf-kin’s body rippled, and suddenly, instead of being about to take a hit on the back of his leg, the arcane had reoriented to be facing the incoming strike, sickles already moving to strike and counter in one.
+
+Rane actually let out a barking laugh, which barely preceded the ring of steel on steel.
+
+What followed was a fascinating exchange that would have been entirely confusing to purely mundane senses.
+
+Rane’s magics acted to reposition him, moving out of the way of attacks and into position for strikes of his own.
+
+Tod, on the other hand, seemed to ripple and shift body-positioning without his physical location or movement otherwise being altered.
+
+If Tala didn’t know better, she’d say they each had one half of a single power. This, of course, was entirely untrue. Rane’s magics mostly functioned on a basis of kinetic energy, where Tod’s felt like they had a basis in water and darkness. Though, Tala still couldn’t determine exactly how.
+
+As Tala was expecting, Tod was the better, more experienced fighter on a purely martial level, but Rane’s magics were both more extensive and more powerful, able to use far more energy than Tod’s could, given the ongoing source within Rane.
+
+On a physical level, Rane was both stronger and quicker—mostly due to his enhancement scripts—but the difference was far less than Tala would have expected.
+
+The wolf-kin had clearly honed himself to be a truly formidable warrior.
+
+Interestingly, as the two fought, a couple of things began to tickle at Tala’s heightened perception.
+
+First, like all gated—including herself—Rane’s magics weren’t perfectly efficient. It wasn’t a lot, but every time his scripts used power—which was constantly—a small fraction of it was lost to the surroundings, the process causing it to lose any tie to Rane and fade into the ambient zeme, fractionally increasing the density.
+
+Second, with incredibly well honed control, Tod was seemingly drawing in these dregs—as well as other ambient magic—to keep himself from running out of power too quickly. He even seemed to bias his larger movements to pass through where Rane passed previously, almost seeming to sweep up the fragments of magic in the air. The result was that the local zeme was becoming a zone of negative pressure, drawing in surrounding power, even if not at enough of a rate to cause issues in the nearby districts.
+
+Oh, he’s good.
+
+-Funny that in watching this battle, you aren’t saying such about your own husband.-
+
+Don’t be ridiculous, Alat. I was expecting Rane to dominate the duel, the fact that Tod is holding his own, and even pressuring my husband, is no flaw on Rane’s part. It is a mark in Tod’s favor.
+
+Alat teasingly grumbled but left it at that.
+
+The two, while unequal in so many ways, were close to balanced in their clashes. Part of that was Rane’s decision not to use any projected force if he could help it, and part of it was likely the growing, begrudging respect and even seeming enjoyment on both men’s faces.
+
+The duel had already gone on for nearly five minutes—which while not that long for empowered combatants, would have been an eternity in a mundane battle—and neither man seemed to be slowing.
+
+Then, finally, Tod’s experience won through.
+
+He was able to set up Rane with a long series of strikes, slowly baiting the younger man out little by little until he’d maneuvered him near to one of the walls. Timing his actions perfectly, Tod crafted just a sliver of an opening in Rane’s otherwise perfect physical and magical defense.
+
+Tod even took into account the magical motion that Rane used unconsciously, executing a pincer attack, while also pressuring him toward the sand and against the nearest wall, effectively hemming him in on four sides.
+
+The hit Rane took—a gash down the outside of his left-upper arm—was nothing serious save for two things.
+
+First, it was the first blood of the fight, and there was heavy symbolic weight to that.
+
+Second? Rane had actually been hurt and unexpectedly so.
+
+Tala felt the ting, THRUM, as existence trembled, Rane’s soul flexing to bring his berserker boon to bear.
+
+The fight was over less than five seconds later, even if it took a little longer to truly be done.
+
+Tala was able to follow every moment, but she was sure that even the Platoiri official would have struggled to do so.
+
+The result was Rane pinning the wolf-kin to the sand with an empty right hand on the man’s throat, his aura, will, and authority pressing firmly all around the arcane to prevent him from shifting in any way to get free.
+
+High overhead, Force spun lazily through the air, clearly deflected up there during the blindingly fast exchange.
+
+An instant later, one of Tod’s sickles embedded itself in the wall surrounding the arena.
+
+The other had been driven up to the haft into Rane’s right arm, having passed between the two forearm bones.
+
+Tod had lost his grip on the weapon, leaving the grip pressed against Rane’s arm, and the blade sticking out like a wicked, natural weapon of some kind.
+
+The blood that had come with the blade as it pierced through slowly flowed back down the blade to pool on the top of Rane’s forearm as he held Tod with implacable strength.
+
+The wolf-kin’s eyes were at once wide and incredibly focused, the torrents of magic that lashed off of Rane being slurped up by the unmoving arcane as quickly as they lost aspecting and joined the ambient mana, becoming available.
+
+They stayed there for a long moment, until Force landed point first into the sand beside them.
+
+Rane seemed to be fighting himself as much as Tod. In that, unfortunately, his lesser experience and still growing familiarity with this culture showed itself again. He thought the fight was over.
+
+Tod didn’t.
+
+Tala knew that Rane had all but won, but he still needed to clinch that victory.
+
+With a burst of power far beyond what he’d shown before, Tod struck for Rane’s lower, floating ribs, with a forceful, open-handed strike. At the same time, his other hand came up to grab Rane’s forearm and the sickle handle to keep the big man where he was.
+
+In this, Tod was the fool.
+
+Rane’s magic tried to move him, but Rane, himself, stopped it. Tala felt her husband’s resolve harden, and watched the minor flexing of will prevent the inscription’s activation, despite the inbuilt conditions being met.
+
+Rane took the hit, actually lifting from the ground with the power of the blow.
+
+The human went with the movement, adding power, and twisting mid-air, and dragging Tod with him. In that, the wolf-kin’s grip helped Rane.
+
+In another blurring motion, Rane made a full turn, pirouetting horizontally above the ground before bringing Tod slamming back into the sand once more, the enemy’s head and the back of his neck leading the way.
+
+Rane didn’t stop this time.
+
+He stood, dragging Tod along with him.
+
+To Tala’s perception—as well as obvious to her because she was quite familiar with how her husband moved—Rane was sporting a handful of broken ribs. To everyone else, it likely looked like the blow had done nothing at all.
+
+Well, almost everyone else.
+
+Lea had pulled back. “His side is deformed… Is he going to be okay?”
+
+Tala smiled, happy that her daughter had noticed. “Absolutely.”
+
+Rane raised Tod up above his head in an incredible display of strength, even as it opened him to powerful kicks from the wolf-kin, most of which he deflected with his other—still bleeding—arm.
+
+One kick in particular, he actually caught, accepting strikes from the other leg to keep a hold.
+
+Tala saw the savage grin on Rane’s face a moment before he capitalized on his dual grip.
+
+Rane reared back, letting Tod drop some before he planted a massively magic enhanced kick to the wolf-kin’s hip, keeping firm hold on the throat and ankle.
+
+Her husband’s bare foot exploded out the other side in a shower of blood, bone, and other bits.
+
+There was a collective intake of breath from all the spectators, and as Rane tossed Tod to the side, he let out a yell of adrenaline and berserker fueled catharsis.
+
+He kept the leg, holding it like a fleshy club.
+
+Tod hit the ground, twisting his body in the air after he bounced, coming around to land on his one leg. He held his balance for a long moment before collapsing down to one knee. His hands followed a moment later, stabilizing him upon the sand.
+
+Rane shook his head vigorously as if to clear it before meeting Tod’s gaze across the torn up, bloody sand. He raised a finger to point at the wolf-kin in a decidedly threatening manner—aided by his opponent’s leg still dangling in his other hand—then barked out a single word—a command—the utterance almost a scream once more, despite the depth of the tone. “Yield!”
+
+Tala’s smile had taken on a sad tinge despite her pride in her husband. Lea noticed when she glanced at her mother. “Mom? What’s wrong?”
+
+“He won, but he’ll see this as a loss.”
+
+“Why? …Oh… The boon.”
+
+Tala nodded. “Yes, the boon, and he’ll believe he lost control of himself. I don’t believe that he did—his opponent is alive after all—but your father holds himself to a higher standard.”
+
+Lea gave a slow nod in turn, not needing to say anything more.
+
+Tod threw his head back and howled in what was clear frustration and his own pent up rage and pain. When he finished, he nodded once with gritted teeth, looked toward the official, and spoke loudly and clearly. “I yield.”
+
+The official clapped once, and immediately, arcanes with clear healing concepts and magics sprinted onto the sand, almost entirely oriented on Tod.
+
+Rane slumped, taking deep breaths before he tossed the leg to a gesturing arcane healer. Once that was done, he held out his hand and pulled Force back to him.
+
+As the sword whipped across the arena, Tod’s eyes widened in shock. In that moment, the arcane finally seemed to understand that Rane had been holding back. The wolf-kin likely hadn’t pulled out all his capabilities, but he’d most likely dug much deeper than Rane had.
+
+Tod gave a slow nod, seemingly fully accepting that he’d likely never had a chance.
+
+Tala stood. “Come on, Lea. Dad will need us now.”
+
+Lea joined her mother, and the two of them jumped down, landing easily on the sand.

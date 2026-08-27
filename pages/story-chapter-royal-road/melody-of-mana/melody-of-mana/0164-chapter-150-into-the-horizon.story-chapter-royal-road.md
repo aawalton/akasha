@@ -1,0 +1,115 @@
+---
+id: 6a09ed82-6c87-5adb-bd34-59348710a2d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 150 Into the Horizon"
+slug: 0164-chapter-150-into-the-horizon
+partOf: melody-of-mana
+position: 164
+ownLength: 2039
+unit: words
+ownProgress: 2039
+publishedAt: 2022-07-01
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/939657/chapter-150-into-the-horizon"
+royalRoadId: "939657"
+markedReadAt: "2026-06-29T22:31:30.884Z"
+---
+
+Our boats were bound, all at the same pier. As it stood we had the briefest of meetings with the captain of the boat our crew would be on, just enough to tell him that we'd arrived in town and would be ready to depart once we were joined by the other teams. The group that had arrived before us had delivered a similar message and so the sailors were enjoying their time off at the port.
+
+All of the crew were men, at least as far as I could tell. While amongst the mages there was a far more equitable feeling in the common folk gender norms much more like the past of my previous world still abounded. Almost every sailor was a man, and while in port, they were doing what sailors did.
+
+There were some things though, like the fact that a fair percentage of the crew were of elven extraction, a clear benefit if one sailed back and forth between our continents. This led to some interesting interactions, because while I'd been getting oogled by most of the sailors this lot did not. They seemed rather respectful, and soon their companions noticed. I could see the flickers here and there of suppressed auras, if small ones, and understood that these elves knew I was a caster. From what I was seeing I was guessing that most of these were minor talents, though perhaps there was a possibility that some of them could use magic properly.
+
+I'd been told in my classes that every elf had magic on some level. In the majority of them this meant what was classified by humans as a 'minor talent' allowing them access to a simple and small ability. My first maid had been such, able to create water from nothing, so were many of the other maids. It could even be a small physical enhancement, not the sort of blatantly superhuman stuff my dad or brother could do, but enough to push someone just to the edge of what would be believable on Earth.
+
+The ship that I would be traveling on was known as The Crystal. It was on the larger side of those in this port, because it would have to be for the length of trip we were making, having a total of three massive masts. Unlike the age of exploration ships from back home it didn't have the little cannon holes in the side, so it looked a bit strange to my eye. It took me several minutes of staring at it to figure out exactly what about it was off, but otherwise it looked rather like a carrack, with square rigged sails.
+
+The captain was an old man named Tom who looked almost carved from the same wood as his vessel. He barked harsh, rather expletive filled orders to his crew as he came down from on board, apparently someone informed him of Robert's arrival.
+
+"Ah, sorry miss, the language is a bit harsh and I'd've liked to have a talk with you lot first. You'll have to abide it though, the men are too dense to listen to any else." He seemed embarrassed when he realized that my companion was not alone, but joined by myself.
+
+"I can't speak for anyone else captain, but honestly I don't give a fuck what kind of language you use. So long as all of us make it safely to our destination."
+
+Both men in this conversation blinked at me for a moment before the old sailor burst into laughter. "Well ain't that somethin'? A fair refresher from the 'delicate flowers' we normally see when moving noblewomen."
+
+"There are no nobles anymore captain, not after the regime change," Robert said. It was a major faux pas to compare people to the nobility of the past, if only because of how much the new government wanted to change things.
+
+"Aye, forgive me lad, old habits are hard to break, particularly when one doesn't spend much time ashore. I know things have changed, and so far as I can tell for the better."
+
+"Have things changed much in your business captain?" I was curious at his words.
+
+"Oh a bit. All the ports run a bit smoother, and the coasts are being scoured... well some places not as well, but overall more regularly. I'll say the import dues are a score better for us as well. Day to day though... not too much of change, there're still folk in charge, and still shipments to run." He scratched his chin as he thought. "Enough of that though, I understand some of you lot are wizards?"
+
+"We're all magic users, though of different types."
+
+"Oh that's good then. Is there a priest or a weather wizard among you?"
+
+"No priests and on the subject of weather control..." Robert looked at me, and at my nod, "I believe my companion here can do some?"
+
+"Limited, and only for a bit, but I can control it some." I tried to undersell my abilities, for it was better to be underestimated than overestimated.
+
+"Excellent, best thing to have on board, a weather wizard. Shame on the priest though, having someone who can heal can be a lifesaver and none of the elven lads have that talent."
+
+"Captain, most bards can heal." Robert seemed a bit flustered.
+
+"That so? Can't say I know much about magic."
+
+His statement there wasn't too odd, as many of the more common folk didn't understand too much about casters. Sure, they knew that priests were a thing, as well as wizards, and probably knew that some men could punch a hole in cement, but the distinctions were outside of what they needed to know. They also seldom knew exactly what each kind of caster could do unless they often dealt with mages. While many of his crew had some level of magic it just wasn't of the level that it would matter much to him. The elves aboard probably knew what was what, but if he didn't know, and didn't care...
+
+"Regardless captain, we're not planning on leaving until all of our groups arrive. So at the least you'll have today."
+
+"Ah, the men'll be glad for that lad, give them some time ashore to... rest."
+
+"And give the local brothels business surely. If we get word on our time to head out we'll send it forward to you." I decided to cut in, mostly because I was already tired of him trying to downplay the facts of the world to someone (Me) already well versed in them.
+
+"Thank you then miss, I'll see you then."
+
+That said and we saw ourselves off. Not that we had a ton to do today other than find a proper inn, something I hoped the rest of our party had taken to without us. The stroll back up was slightly more difficult because of the angle of the road, but it was still pleasant and we took all the time we needed.
+
+Olnir had returned and as it turned out the first group had secured us rooms with them. It made things significantly easier during the three days we spent stuck waiting for the last group to arrive and make their arrangements. On the last morning I woke up extra early to enjoy a bath, probably the last proper wash I'd get for the next couple months.
+
+The other girls saw me and we took turns, chatting as we utilized facilities I personally would sorely miss.
+
+"So, what's it going to be like on the boat? Do we have a room or something?" Leah queried.
+
+"No idea, I imagine we'll have something private from the boys, but I'm unsure on what all that will be. I've never been on a boat like this, so it could be a room smaller than one of those carriages."
+
+"Surely it'll be larger than that. We'll at least have beds Alana, and a desk or something." Selene seemed to be very confused about the size of our vessel.
+
+"I doubt that we'll have anything like a proper bed. Space on a ship is a premium thing, and ours isn't quite that large."
+
+"Well we'll have to have something." Leah looked irritated at the very idea of not having proper quarters.
+
+"I suppose we'll see. No use worrying at this point." With Selene's final comment we finished what little packing we had to do and trouped out.
+
+The trip from our inn to the docks was a rather uneventful one.  The dew was still on the grass and the sun struggling up from it's place behind the horizon as we boarded the ship one by one, welcomed by the captain.  The crew was for the most part busy readying the boat to take off, but a few gave our little group a quick nod.
+
+"Boy!  C'mere and show the ladies to their quarters."  The old seaman shouted off to the far end of the ship.
+
+An elven lad, who if a human would be no more than eight came bounding from out of a doorway which I assumed to lead to the lower decks.  Upon seeing us he blanched slightly and gave the captain a sharp "Yes sir!"
+
+"Um... your quarters are this way, as for your luggage..."  Selene gave a light wave and our three personal trunks floated up a few inches.  She'd managed this the whole way down and it didn't seem to bother her at all.  "Oh, that'll do perfectly.  This way please."
+
+From what I could see, the ship had several levels.  There were two above the main deck on the back, one in front, and at least one below.  Based on the heights I would guess three down, with another area for the bilge.  The lack of cannons probably opened up far more cargo space, and I knew for a fact that we were taking some along with us for this trip.  I didn't know, or care what that was though, since it had little to do with me.
+
+The cabin boy led us to a door on the stern, that opened into a level on that with the deck.  Inside was a bit dark, and quite cramped, as was the room he led us to.  Our quarters were hardly bigger than a closet, with two bunks on each side, stacked two tall.  The small wooden boards were only joined in furnishing by a lamp hanging from the ceiling and a tiny writing desk at the back of the room.  With us all inside it was quite cramped.
+
+"This can't possibly be right."  Selene looked stunned at the size.
+
+"Um... begging your pardon miss, but this is the biggest private room save for the captain's.  The mate normally has this room and the gentlemen with your group are taking that of the bosun."
+
+"Well, where are they sleeping?"  She looked at the boy with a quirked brow.
+
+"Down below with the rest of the crew."
+
+"It'll be fine," I interjected, this would have to do.  "Is there anywhere else we can be where we won't be in the way?"
+
+"There's room on the deck miss, but the captain may be cross if you disturb the men while their working."
+
+"Well do that once our things are secured then."
+
+He left us to tie down our trunks and we soon joined the rest of the people on board up on deck.  I personally wanted to see everything as we made our way out.  In that desire I found a quiet spot well away from anyone messing with rigging or any of the other many jobs that went into running a boat and settled in.
+
+It wasn't a fast operation, without motors leaving port wasn't an immediate thing.  Once we got going though we pulled away and out into the harbor, making our way towards the bright ocean.  Along the docks a few women waved to the sailors as we left, some men passing yelled as well, wishing us luck on our journey with a smile and a raised hat.
+
+So into the great blue sea we moved, moment by moment the land shrunk behind as we made our way out towards the horizon.

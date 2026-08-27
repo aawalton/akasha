@@ -1,0 +1,253 @@
+---
+id: 595cf7b0-a84b-5495-819f-5377b4036b39
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 599 - Gredial Encounters"
+slug: 0101-chapter-599-gredial-encounters
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 101
+ownLength: 2722
+unit: words
+ownProgress: 2722
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2519934/chapter-599-gredial-encounters"
+royalRoadId: "2519934"
+markedReadAt: "2026-06-29T19:38:31.879Z"
+---
+
+Tala held Lea’s hand as they walked through the streets of Alefast, Waning, with Rane, toward the Gredial Estate. The people they passed gave nods or greetings to those who were obviously Mages, as well as the seemingly young woman with them.
+
+Terry rested on Lea’s shoulder once again, not because he specifically preferred her shoulder to Tala’s, but because he felt his presence there helped the girl.
+
+Tala didn’t object, mainly because he was overtly and obviously correct.
+
+Terry’s presence likely kept the greetings to the brief, polite nature that they were.
+
+The Sappherrous family was accompanied by Master Grediv in order to, in his words, ‘make his position clear on the matter of Lea.’
+
+The greetings were obviously directed his way as well, and many—if not most—of the citizens recognized him as a prominent figure in the city, even if they didn’t know him to be the City Stone holder. Not that they’d know what that is, even if they did know he held it.
+
+-Ahh, to be on the inside of so many closely kept secrets.-
+
+Indeed.
+
+Master Grediv was addressing Lea as they walked. “Your Aunt Chloe is in town as well. Your grandmother and father didn’t specifically say who else was about, but they did say that some of their other children would be.”
+
+Lea nodded, clearly a bit nervous, but whenever she glanced toward Master Grediv, she seemed to calm a bit.
+
+Tala smiled to herself. He probably wanted her to feel as comfortable as possible, and he’s already broken the ice with her, so to speak.
+
+-That is a kind interpretation of it.-
+
+Oh? Do you have another?
+
+-I do.-
+
+…Care to share?
+
+-No. If I’m right in my guess, it will be better as a surprise. That’s lost for me, but you can still get the ‘better’ experience.-
+
+Tala sighed internally. Fine.
+
+The household had been made aware of their approach. Thus it wasn’t a surprise when the gates swung open to reveal Rane’s parents, Mistress Chloe, and… Master Furgal awaiting them.
+
+That last person was a surprise. It wasn’t specifically unpleasant, as the man was more annoying than a true problem, but it wasn’t exactly desirable.
+
+-Hah, at least partially right.-
+
+What are you expecting, Alat.
+
+-You’ll see… or you won’t. I am capable of being wrong.-
+
+… Fine.
+
+The new arrivals stepped across the threshold, privacy and obscuration magics falling into place to keep this meeting—and the introductions that were incoming—out of the public eye.
+
+The waiting group bowed deeply toward Master Grediv, then almost as deeply toward each Rane and Tala. Finally, they all gave hesitant, shallow bows toward Lea.
+
+Master Neul stepped forward. “Greetings, Master Grediv, Mistress Tala, Rane.” He then turned to regard Lea once again. “And am I correct in assuming that you are Lea? Their daughter and my new granddaughter?”
+
+Tala, Rane, and Master Grediv had all given shallow, appropriate bows in return, and now Lea did the same, though hers were deeper, as was proper. “I am, Master Neul.”
+
+“There is no need for that, not from our granddaughter. Please, call me grandpa.”
+
+Mistress Filha nodded. “Yes, deary, please call me grandma. We were not expecting grandchildren from you two who could address us so directly for a while, but such a surprise is entirely welcome.”
+
+Mistress Chloe cleared her throat, opening her arms wide. “I’m your Auntie Chloe.”
+
+Lea glanced toward her father, and then stepped in for a big hug.
+
+“Are you old enough for coffee and baked sweets? I imagine we’re going to be getting quite the story from your parents, and time is always better spent with coffee and baked goods.”
+
+Tala chuckled, interjecting even as her daughter moved back a step. “That sounds wonderful. Lea is welcome to whatever she wishes. Will your husband be joining us?”
+
+“No, Dafnis had an issue with his mageling. That poor boy read a controversial book that was a bit more persuasively written than he’d expected, and what he pulled from it broke his fundamental understanding.”
+
+All the Mages winced in empathetic pain.
+
+“Still, it should be fixable. They were lucky in that his fundamental grasp of things is actually a widely held position, unlike with some people,” she gave Tala a meaningful glance, “and so there is a wide selection of materials available to help him shore up the broken understanding and reestablish himself as he had been.” She shrugged. “Or, he might reshape it based on his new beliefs. Either way, he needs his master with him through this time.”
+
+Rane nodded. “We completely understand and hope for the best. Please let us know if there is anything that we can do to assist.”
+
+“I’ll convey your well wishes and offer, Master Rane. Thank you for such a kind, formal offer.” She smiled mischievously.
+
+He rolled his eyes. “Thank you, Mistress Chloe, and you are most welcome.”
+
+The two only waited a moment before both shook their heads and chuckled.
+
+There was a momentary pause as everyone turned to regard Master Furgal who was standing to one side. Their collective, focused attention seemed to jostle him free of his reverie, and he gave a weak smile and shallow bow. “Greetings, Lea Sappherrous. I suppose that I am your Uncle Furgal. You may call me that or Master Furgal as you desire.”
+
+Lea gave another bow in return. “Thank you… Uncle Furgal.”
+
+Terry let out a soft, derisive chirp, and Lea shushed him.
+
+Master Furgal gave a small smile at the child’s choice, and Tala, for her part, really looked at him for the first time since their arrival.
+
+He looked different.
+
+That made sense as it had been years since they’d seen him last.
+
+He seemed a bit more put together, a bit more confident in himself, rather than confident in a position that he believed that he held. Does that even make sense?
+
+-Of course it does. After all, we came up with it.-
+
+Not helpful…
+
+His magic was in harmony with his body, and seemed almost to be pressing close into him.
+
+He’s almost ready for Binding.
+
+-Oh! Is that what that looks like? Fascinating. We’ve seen some of these signs occasionally, but never really noted it as such.-
+
+I think so, yeah.
+
+His clothes were nice, but also well-worn, as if he’d done his best to care for them throughout his adventures, rather than replacing them.
+
+The group only stood in silence for less than two breaths before a servant called from the main building. “Masters, Mistresses, honored family, the sunroom is prepared with afternoon tea and coffee.”
+
+Master Grediv gave a bow toward the servant. “Thank you. We shall be in presently.”
+
+As the servant turned to go, the group moved almost as one to follow after. Lea’s eyes flicked to some of the statues that they passed, and from them to her father, but she seemed a bit too on edge to ask about them.
+
+The house was just as Tala remembered it, which made sense, given the owners hadn’t changed, and they seemed to be people of habit and constancy.
+
+Small words were exchanged as they moved through the house, but nothing of import was said.
+
+As they came to the broad double doors that stood open, allowing smooth passage into a large, glassed-in patio of sorts, Lea gasped in delight.
+
+Several fountains and strategically positioned plants made the space feel like a private little world. There were even birds in the cultivated trees, trilling and singing.
+
+Terry cracked one eye and regarded the potential prey, but Tala leaned forward to make sure he couldn’t miss her, and shook her head slowly.
+
+He didn’t need to open his eyes to see, having a bloodstar cloud of his own, nor did Tala need to move to let him see her, but she wanted to leave no room for excuses.
+
+Terry eyed her for a moment before huffing and settling down more fully.
+
+There was a lovely spread of tea, coffee, and baked goods, augmented with various prepared fruits, laid out to one side, the magics around the table keeping the birds and other things away, while helping to maintain palatable temperatures and textures on the various delights.
+
+Lea’s eyes flicked this way and that, seemingly tracking many different birds at once, all while she kept stealing looks of longing toward the table.
+
+Mistress Chloe chuckled, taking the girl’s other hand and drawing her away from Tala. “Come on. I’ll teach you how to enhance a proper cup of coffee.”
+
+Tala shook her head, smiling brightly, even as she let go of Lea’s hand and motioned encouragingly to the girl when she glanced back. “Go. Have fun.”
+
+The remaining adults hesitated in the entrance for just a moment before they, too, went and served themselves, only then sitting down.
+
+As they all got comfortable, Master Neul broke the silence. “So? The girl is lovely, and I can see the family resemblance, but there’s no two ways about it. You two haven’t been married for fourteen years, and that is the youngest that her appearance would indicate.”
+
+Mistress Filha gave a little huff and smiled. “Youngest, yes. So? What happened? Did a time beast hit her with its magic? Is this to be one of only a few meetings we get with my granddaughter because she is aging at a massively accelerated pace?”
+
+Master Neul nodded. “Yes. I would like to know if we shouldn’t be wasting our time with you two. My granddaughter is being poisoned against proper coffee, and if I only have a few years to counter that—or even less?—I will count this conversation over.”
+
+Both Tala and Rane were obviously taken aback by the remarks. Tala, for one, was incredibly touched at both the immediate acceptance of Lea, and the obvious implications of fierce desires to spend time with her while they could.
+
+Master Furgal cleared his throat. “Mother, Father, I don’t believe that is the case. Even were it so, within Master Grediv’s city, he could surely remove any potential danger going forward.”
+
+Tala almost rolled her eyes, but then she saw both of Rane’s parents visibly relax at the reminder of that notion.
+
+Master Neul even let out a long breath. “Right you are, Furgal. Thank you.”
+
+Master Furgal smiled. “Of course, Father.”
+
+Master Grediv huffed a sound that was just short of derisive. “No, there is no stable, detrimental time magic involved. There is no time magic involved at all. If there were, then no, I couldn’t do anything about it, and more than just Lea would be doomed.”
+
+That caused the three unknowing Mages to frown, and Tala decided to cut to the heart of things. “She had an unconventional conception. Her soul manifested not in close union with a forming embryo, but inside a fully formed construct only a few weeks ago.”
+
+Master Grediv cut across any objections before they could even start to form. “She is their daughter through and through, and therefore both your family and mine. Her body is more like that of a magical construct than a human's, but she—her mind and soul—are as human as it is possible to be.”
+
+That had them all sitting back in almost humorously similar physical responses to the unexpected news.
+
+Still, they all seemed willing enough to accept it, likely because Master Grediv had been the one to put it forward so clearly and indisputably.
+
+Finally, Master Neul nodded. “What does that mean for her, going forward?”
+
+Master Grediv shrugged. “She is a child in the body of a young woman. She is learning and growing and becoming. When she is ready, she will learn the skills needed to survive in the world, and I imagine that when that training is done, she will forge a life for herself apart from her parents, just as more standard children do.”
+
+Mistress Filha frowned. “How long will she live? Can she have children? Is she gated? Will she learn magic?”
+
+Master Furgal looked up at that, clearly interested in the answer.
+
+Master Grediv looked to Tala and Rane. Rane was frowning, uncertain, and Tala was contemplating. Still, Tala answered as she could. “We don’t know how long she will live. Her body has no natural lifespan, so in theory she could live forever, with proper self care. As to children? We don’t know. I don’t believe it is possible as things stand, but we haven’t actually dug into that.”
+
+Mistress Filha huffed a laugh. “You’ll want that information sooner rather than later. Grandchildren are the crown of the aged, after all, and you are going to eventually be very aged indeed.”
+
+“That’s fair.” Tala chuckled in return, finding the subject not as painful as it might once have been. “As to magic? She does have a gate…”
+
+Tala looked back toward Master Grediv, uncertain what to say. He seemed to take that as a cue to share what he knew. “The girl can learn magic, and she most likely will. When she’s ready, I’d be happy to take her on myself, if that is her desire, but only time will tell.”
+
+Master Furgal stiffened slightly, then took a long pull from his cup. “Please excuse me for a moment. I just remembered something.”
+
+He hurried out of the room.
+
+Rane and the others continued to talk, seemingly barely noting his departure, but Tala followed Master Furgal with her threefold perspective.
+
+The man went back through the house to near the front entrance, before turning aside through a guard room and into a private, fully solid stone room with no windows and only one door. A holding cell?
+
+-Maybe? For if they need to detain someone until the city guards come?-
+
+Could be.
+
+Regardless, he spoke to the guards for a moment before going inside and closing himself in. As he did so, powerful privacy magics came into place, clearly meant to keep anyone detained from disturbing the rest of the estate.
+
+They were well constructed and leaned heavily on the mundane isolation already inherent to the room.
+
+In fact, if Tala were simply Refined, she likely couldn’t have seen through it.
+
+As it was, she was only just able to pierce it.
+
+The man paced back and forth a couple of times before screaming toward the ceiling.
+
+He picked up the single chair and turned, slamming and shattering it against the nearby wall. “Oh, come on!”
+
+He then similarly broke the table, sending wooden shards flying and bouncing throughout the room.
+
+“She’s not even of age! Are you RUSTING kidding me?”
+
+He stomped and fumed for another moment or two.
+
+“...not even a Gredial…”
+
+Finally, he gathered himself back together, visibly calming himself. When he seemed level once more, he let himself back out, bowed to the guard, handed over a gold coin, and talked with them another moment more before heading back toward where the rest of the family waited.
+
+Well… I suppose that’s progress?
+
+-Of a sort?- Alat sent the impression of a nervous swallow. -He did remove himself from the situation before dealing with his emotions, so… yeah? I’d call that progress.-
+
+In that vein, when he returned, Master Furgal was both polite and engaging, showing nothing but kindness and care for the Sappherrous’ family, despite his obvious—to one who had spied on him—feelings on the matter.
+
+We’re still not allowing him to be alone with Lea.
+
+-Oh, yeah, no. That’s not happening.-
+
+As they were agreed, they turned their full attention back to the conversation at hand, while on the other side of the room, Aunt Chloe was covertly stuffing Lea and Terry full of various treats.
+
+That brought a smile to Tala’s face.
+
+Mistress Chloe was advanced enough to have heard everything said, regardless of her positioning in the room, and she hadn’t changed her attitude toward Lea one bit.
+
+It seemed that her daughter just might get quite a bit of family to grow up with, and hopefully it would be on both sides.
+
+Master Neul leaned over to Rane and asked in a conspiratorial whisper, “So, are you ready to conquer the world for her? To break down every barrier to ensure that she succeeds no matter what?”
+
+Rane smiled, looking back to his father. “Yes, unequivocally.”
+
+“Good man.” He patted Rane’s shoulder. “Good man.”

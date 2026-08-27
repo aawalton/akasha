@@ -1,0 +1,173 @@
+---
+id: f86175ed-a913-52ca-8073-90c2cfed65a5
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 47 - Red Envelope "
+slug: 0083-chapter-47-red-envelope
+partOf: metaworld-hopecore
+position: 83
+ownLength: 2313
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437776/chapter-47-red-envelope"
+royalRoadId: "3437776"
+---
+
+"Life is a gorgeous robe, crawling with lice."
+
+Eileen Chang
+
+4 AM.
+
+San Marino.
+
+William lay on his back, listening to the whisper of Valorie breathing, thinking of how Euphemia Fontaine had murdered sleep.
+
+His girlfriend slept far better than he did, despite being haunted by the spectre of Lucia Lancet’s visitation. He had told Valorie that she had performed her Antigone well, with all her heart, and the standing ovation she received was far more authentic than the showmanship of Fontaine’s manufactured hype. He told her that critics and staff both were saying that their Senior production was the best version of Antigone in a decade, perhaps two. LA Art Blogs, obsessed with the school’s rising starlets, was already spreading the gospel of Valorie Sanders. He told her that preliminary reviews from industry critics said her swan song was tonally exact, authentic, and unflinching.
+
+In truth, most of these were commissioned by VP Thomas, but Valorie did not need to know that. Her joy and passion in the witching hours were enough to dispel Fontaine’s ruinous spectre. Val would wake up a few hours later, read the blogs and posts, and feel on top of the world until she remembered that Francis Sanders had not come to witness her theatrical ascension into immortality. Instead, he had sent a staffer called Marcus Teel.
+
+Marcus was her father’s camp follower, and the man was a weasel and an eel crossbred in a jar of grease. Male pattern baldness aside, he had a way of interacting with Valorie that made even William’s skin crawl. The way the man’s eyes salivated, the way he kept talking about how he looked after her when she was a kid, the glances at her chest, the inadvertent touches… William had half a mind to have Lim beat him senseless in a dark alleyway, but Senator Sanders trusted the man. Marcus was loyalty, and he was a lawyer.
+
+Either way, any mention of her doting father made Val far less fun.
+
+In moments like these, William felt genuine compassion for Val, though for now, William had no more compassion to spare. Unlike his usual cool self, his temples felt as though on fire.
+
+Ever since last night, for every waking second, the events of the Gala had played through his memory like unedited b-roll. Frame by frame, he had tried to make sense of it in the editing room of his head, stitching together a narrative.
+
+Lucia Lancet featured prominently—she was as beautiful and rare as the tabloids said, but she hardly mattered to the narrative. What mattered was Eppie.
+
+Eppie. Mio. The recording.
+
+Ironically, he still had no idea what the recording was about. He only knew of it from Simone, who had brought him proof that Eppie knew of a recording. By the time he had started applying pressure on Mio again, the girl was gone, and Eppie had been the sole individual left in this world in possession of the damning knowledge. Unfortunately, Simone had burned her bridges too far, too quickly, and there was nothing else they could squeeze from Euphemia, and then…
+
+Then she jumped. He recalled seeing her hit the tarmac like a fermata.
+
+The memory of her desperation had been amusing, as was her altercation with Simone.
+
+But it wasn’t so funny now. The dead didn’t stay dead, and now she was using an unknown recording against him. After Valorie grew too tired, William had found out the hard way that if he closed his eyes and ignored her for long enough, he would suddenly wake to see Euphemia’s face.
+
+Not the snot-strewn face on the rooftop. Not the teary one begging Simone to leave her alone.
+
+But those blazing, seething orbs of pale blue. Eyes that had looked at him like a barn owl sizing up a particularly fat rat. He quietly left the bed.
+
+Valorie’s sleeping silouette was a work of Grecian art.
+
+He wanted to bury his face in the sheets she used as a body pillow and inhale her scent, but could no longer summon the mood.
+
+So he walked to the window instead, to observe his naked villainy, and to look at the city below the hill.
+
+At 4 AM, LA was already alive with traffic. His home was a city without sleep like him. William studied his face in the mirror. It wasn’t the face of a villain. He had a handsome face that was very different from his father’s. His long, fox-like eyes were inherited from his mother.Albeit he couldn’t remember her face. Lee-Kwon did not keep her photos around out of guilt.
+
+He and Val were orphans of a feather. His mother had perished of curable cancer because she didn’t wish to trouble Mr Chen, and Val’s had died of incurable cancer despite unlimited access to a who’s who of oncology specialists. Under their working fathers, they were a pair of living legacies who had found each other at a party organised by their patriarchs. Was that why their bodies were so compatible? Were they licking each other’s wounds out of spite or desperation?
+
+He went downstairs for a glass of water and an aspirin.
+
+The manor was spotlessly clean, enormous, and empty. Jiang had a team clean the place every few days, always unseen. Valorie never went home because there was nothing there but the occasional Marcus. Here, there were signs of Lee-Kwon Chen everywhere, not in the sense of photos or portraits, but in the Chinese redwood furniture, the coin-patterned carpet, the burgundy drapes installed for good luck and fortune. Lee-Kwon Chen was a workaholic, and when he did choose to relax, it was never with William, but at discrete properties where his mistresses slept.
+
+William washed down the cold, hard pill-like truth.
+
+His father must never know of Mio, meaning his father must never know of Euphemia. His father would not understand, because Lee-Ming Chen was an inherited idea; his father was a performative paragon who wore a pontiff’s robe. If his father found out, the extent of hypocrisy Lee-Kwon exercised would make their grandfather leap from the grave like a Jiang-shi. There would be family meetings, castigations, grounding, shame sessions, and public humiliations in front of the Five Root Families—
+
+Then, with tears, Uncle Wang, Bu, Bian, Li and Meng would hold back his father’s enraged body as Lee-Kwon screamed, “Hung gaa caan—! Where do you want father to put his face?!” and threatened to chop off his dead man’s head.
+
+Then, it would all be water under the bridge, because he had his mother’s face, and because the mythology, the Chen name, the weight of everything his grandfather had built, could only be carried by William.
+
+William was tired of the theatrics. That’s why he was going to study film instead of going to Yale or Harvard. He preferred to be behind the camera rather than be the protagonist of Lee-Kwon’s Confucian movie, “Generations”.
+
+He made his way back up with a glass and an aspirin for Valorie. She had to be hurting as well.
+
+God, she was a beautiful mess.
+
+Mio was a head shorter than Val. And Eppie was half a head shorter than Mio. Of the three women in his life, not one came close to channelling Val’s fire.
+
+“Will?” Valorie turned in her sleep, finding the emptiness beside her displeasing. She had one arm across her chest, and her hair fanned beautifully on the pillow. Here in this bed all his world lay, the prettiest girl in LAPA, the best singer-actress, receiver of a hundred cringe-worthy love letters, the actress daughter of Senator Francis Sanders.
+
+He dropped off the cup, kissed her on the mouth, then rejoined the sunrise imprinted on the floor-to-ceiling window.
+
+He had to protect this. Protect Val from the world.
+
+From Euphemia Fontaine.
+
+Her pale, slender thighs. Her white, slender neck.
+
+His hands were large enough to wrap around both.
+
+LAPA. Monday. The day after a LAPA Gala, there were no lessons because the entire school and the CSULA overflowed from the day before, meaning entire rosters of clean-up crews had to be present in almost every other hall, auditorium, and classroom. Massive bins were brought in, and students and staff joined in with the tired efficiency of parents cleaning up after children after a long summer vacation.
+
+For Eppie’s crew, this meant collecting and disposing of stage props and moving reusable sets to storage. Costumes were returned after an inspection, and their names checked off by a hawk-eyed Ms McGregor. An additional lesson was held for the technical theatre staff, who now learned how to dismantle, coil, and stow the lighting rigs.
+
+About half of everything went back to the road rental company. LAPA was wealthier now than in the past, but they were still leagues from Guilliam's foundation money. That and Principal Burton did not believe in keeping inventory. He considered it an excess and the money better spent on instructors, rooms, and opportunity scholarships.
+
+And so, the students were put to hard labour. It didn’t matter if their name was Eppie Fontaine of Sony fame, or Valorie Sanders, the flaming-haired star Antigone, or kids whose parents were producers, stars or classical music legends.
+
+On the Monday after a Gala. All were a part of the great ensemble of disassembly.
+
+Faculty Lounge. 730 AM.
+
+The renovated Old Music Building had a faculty lounge overlooking the old, as if to make a statement and to choose sides.
+
+Principal Burton never took his coffee in the new lounge. It was too bright, there was too much glass, and the coffee wasn’t as good as his own espresso machine. His staff was less discerning. After all, breakfast did not owe allegiance to Burton or Thomas.
+
+For Cooper and Costello, the morning coffee after a Gala was an old ritual.
+
+“Did you see the crashout?” Costello sipped from his handmade ceramic, a gift from a student. He preferred mug cups over regular cups.
+
+“Did you? Wasn’t it a performance?” Cooper sipped from his oversized Stanley, also a gift from his students.
+
+“That wasn’t a performance,” Costello smirked. “I think her knees actually gave out.”
+
+“Stage nerves, from Eppie?” Cooper shook his head. “Never.”
+
+“She got back up, though.” Costello continued. “That usually doesn’t happen. Either she’s got an iron will, or something’s eating our actress.” He paused. “Any ideas, old friend?”
+
+They drank their coffee.They had ten more minutes, then it was back to work.
+
+“I wasn’t expecting Lucia Lancet,” Cooper changed the subject. “My daughter adores her. I told her to come watch, but she said she was bored attending every year. She has since lost her mind. I am going to rub it in her face for a month.”
+
+Costello laughed.
+
+The men knocked mugs.
+
+“Good show,” Costello said.
+
+“Good show,” Cooper agreed, glad that they were both convincing actors.
+
+LAPA
+
+Operations Office.
+
+830 AM.
+
+Susan Carr stared at the email she had just finished typing. Her work was endless, yet she had stopped for twenty minutes to carefully compose this email, because she had heard a song last night from a young girl she had re-inducted into LAPA.
+
+She bit and fought, her pain untoldNot far, not far, from hereHe left her bruised, her body coldHer head… was all we found
+
+Was this what had happened to Eppie?
+
+Carr felt haunted by the thought. Did someone push her after all?
+
+She hadn’t looked into anything because that wasn’t her job, but Susan was not a dumb woman. She wasn’t even a natural blonde. She knew very well that two CCTV segments from a certain night in May were missing. The CCTV from when Eppie fell was missing. The CCTV from Simone’s accusation was missing. She knew Omnia Construction had built the entire LAPA CCTV system, and that their contractors had greater access to the server rooms than she did.
+
+The directive from Principal Burton had been clear. Assist the reporter if you can. Do what is best for the “School”. The public sector of the school.
+
+She hadn’t wanted any part of the politics until she had watched from the back last night, a girl howl into the crowd, and unlike most people there, she knew exactly who Eppie had targeted.
+
+It was the heir of the Omnia Group, the son of the man who had paid for the doors and locks, electronic systems, security apparatuses, and the server racks, whose donations were still funding maintenance and the HKVISION software. A boy who was missing a Birkin Bag.
+
+In a trembling moment of strength, Susan Carr clicked the “send” button.
+
+Then she slumped in her seat, overwhelmed by sudden fatigue.
+
+LAPA. The Playhouse. 9:15 AM.
+
+Eppie worked through the frames, the particle boards, and the props with a Protestant ethic, impressing Dr Cooper with the strength she exerted from her petite body. Even James Jules, their classroom Creon, remarked that Eppie was like a tiny G.I.Jane.
+
+What they didn’t know was that Eppie was feeding her body with [Causality] that had been trickling in since last night. With the amount she received, she could only deduce that people had woken up in the morning and chosen to interrogate their consciences, or something like it.
+
+In her dorm, Lucia Lancet’s flowers still sat in the lobby for all to see. She had chosen to share her joy and farm [Causality] simultaneously. The irony, the GREAT IRONY, was what she had found buried deep in the stems.
+
+“From my heart to yours, you are my Umbrella.”
+
+There was a lip print. It was kind of bloody obvious who it was from.
+
+The notifications kept coming. Eppie thought about Paco’s speech. She thought about Zara’s bruised feet. She thought about Vaughan’s invitation. She thought about Simone. Oh yeah… her brain vomited up another open thread. What did her hopeful mentor say about Armand again?

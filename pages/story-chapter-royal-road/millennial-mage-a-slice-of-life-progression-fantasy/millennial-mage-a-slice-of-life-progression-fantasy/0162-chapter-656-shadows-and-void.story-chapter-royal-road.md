@@ -1,0 +1,187 @@
+---
+id: 7df93b6a-1745-586b-9b01-4f1bfcd3cc61
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 656 - Shadows and Void"
+slug: 0162-chapter-656-shadows-and-void
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 162
+ownLength: 2594
+unit: words
+ownProgress: 2594
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2926193/chapter-656-shadows-and-void"
+royalRoadId: "2926193"
+markedReadAt: "2026-06-29T19:40:15.116Z"
+---
+
+Tala sealed her helmet entirely as it seemed that her dissolution breath wouldn’t be of use in this fight. Well, it wouldn’t be useful, unless she wanted to win by dint of forcing him to leave the ring, and that wouldn’t be… satisfying.
+
+It also wouldn’t prove what she needed to show for this to be a success.
+
+As such, she lunged forward, Flow elongating into the form of a glaive, her proportions entirely larger than anything Tala had ever needed before. As such, she struck with the blade from nearly twenty feet away.
+
+Eskau Pallaun jerked his arm to the side, and even though it seemed like he was either holding nothing, or simple ephemeral shadows, Flow was deflected effortlessly.
+
+With easy confidence, the Eskau simply strode forward, arms once again hanging lazily at his sides.
+
+His every step resonated with power, the whole area seeming to darken to mundane sight. It even made things a bit harder to follow for Tala, despite all her forms of perception and Alat’s assistance.
+
+His shadows sheathed his arms once again as he continued, unhurriedly.
+
+Feeling the smallest bit of uncertainty, Tala pulled Flow’s form back, thinking to make a knife to try fighting close in.
+
+The next instant he was right before her, somehow covering the distance between them in the same blink of time that it took to reshape Flow.
+
+What followed was seemingly a one-sided beatdown, where Tala couldn’t hope to block the senior Eskau’s attacks. What made no sense was the fact that the man never seemed to hurry in his strikes—or in any of his movements, really.
+
+Instead, he moved, and Tala felt a certainty behind the action. Like the growing of shadows at the setting of the sun, he was coming, and she simply had to deal with that fact.
+
+As such, Tala and Eskau Pallaun clashed in a mainly melee manner for the moment, and in the realm of pure skill, he had her as out classed as a veteran guardsman in full kit sparring against a child wielding a stick.
+
+His every movement was perfect, stable, precise.
+
+She was by no means a novice, but whether blocking or striking, she continually found herself just slightly overextended or off balance.
+
+Thankfully, martial skill was not the only factor in their clash, not by a copper or a gold.
+
+Tala’s armor didn’t seem to be any sort of physical barrier to his strikes as each attack of his protian weapon was effectively that of a shadow, able to cut anywhere that it could reach. That should have been an insurmountable advantage, not factoring in anything else about the man.
+
+Even so, she felt a building smile.
+
+Tala’s armor didn’t actually need to be a physical barrier. It was part of her, and thus even where there were occasional seams to allow quicker and more natural movement, those were closer to creases in skin than chinks in her armor. It was her own body, and thus his shadows couldn’t bypass it to ‘her flesh’ beneath.
+
+He clearly didn’t understand that it was all her.
+
+As such, his every attack clashed against her armor, causing clear confusion in the man, even if it didn’t slow him down.
+
+Tala could simply stand and take every hit he gave, and while he could likely knock her around, nothing he’d shown so far would do more than tink or thunk against her armored exterior.
+
+Nonetheless, his attacks were clearly anything but mundane, and Tala began to sense powerful magics building within them as his steady assault continued. As to his weapon’s form—if it was ever in a true ‘form’ rather than just an indistinguishable shadow—it shifted from one to the next as quickly as thought.
+
+Tala clashed against it with armored body and bladed extensions. Flow intercepted what she could, and her armor flowed to repair the little nicks that appeared across its surface. Even the small bits that were shaved off pulling back to meld with the rest before they could reach the ground.
+
+Still, she wasn’t content to just take the attacks. She did her best to strike back at every opportunity.
+
+One moment, she was balanced on one leg, crouched low and lancing out with Flow in a dozen consecutive strikes, changing the weapon’s form from sword to glaive and back as needed in a seemingly vain attempt to cut at Eskau Pallaun’s legs. The man avoided each, always shifting just enough to avoid taking a cut or thrust.
+
+The next moment, she was bracing against an unbelievably powerful, simple strike from her opponent.
+
+As an attempt to throw the other Eskau off, she reached out to lock down the world around her with authority through the medium of her iron chain net. The attempt utterly failed.
+
+As she’d noticed before, the authority within this ancient hold was entirely and irrevocably that of the House of Blood. While she could tap into that authority as a recognized Eskau of the House, she couldn’t wield it against Eskau Pallaun, who held the same—if not a more elevated version of the—position.
+
+She might have been able to undermine the authority and attack him in that manner, but to do so would have permanent consequences for the House of Blood, and would actually undercut her own power in the hold in the long run.
+
+As such, she let it be, focusing on the physical and magical clash, and the steady, inevitable nature of the man’s attacks.
+
+Make no mistake, Eskau Pallaun wasn’t slow. In fact, they were both moving at speeds that a mundane would have struggled to track as more than brief blurs. Instead, his movements were… direct?
+
+That was likely the right word.
+
+His fighting style was simple, utilitarian, uncaring for tricks, flourishes, or feints.
+
+Tala should have been able to outmatch him physically due to her enhancements, but while she was stronger than him, he was strong enough to take advantage of her imperfections. While she was faster than him, he was fast enough to endlessly press the attack.
+
+She needed to change the field, but she didn’t want to pull out other tools, not yet—ideally not ever—as it would be a sort of admission that she needed them. She already realized that manifesting armor while he was without such could be seen as a bit of a cheat, but because it was her, she didn’t care if others saw it that way.
+
+She would be true to herself, and anyone who thought differently could rust.
+
+She did consider using siege orbs, but decided that they would be unbalanced in the current fight.
+
+Even with her mostly-self-imposed restrictions, she momentarily wished that she could call on Terry to help counter the other Eskau, but that would likewise be a violation of the spirit of the clash.
+
+Then—as her thoughts danced around Terry’s participation—she almost smacked herself, blaming her thoughtlessness on the fact that she’d yet to truly be pushed since her advancement.
+
+The next moment, she flickered away from an incoming strike, appearing behind Eskau Pallaun and stabbing through his low back with a wide-bladed knife.
+
+The form that she punctured puffed away like dark smoke, but when Eskau Pallaun reappeared on the far side of the area, his head was tilted to the side in consideration. “Spatial magic?”
+
+Tala shrugged in her armor before projecting her voice outside it. “In a sense.”
+
+He grinned. “Wonderful. Come again.”
+
+And he strode forward once again.
+
+This time, Tala moved forward to meet him.
+
+He thrust, and she decided to take the hit, slashing at his incoming arms rather than the weapon.
+
+A strangely bright darkness wreathed the man’s protian weapon in the last moments. The idea made no sense, but that was the only way Tala could describe it. Uncertain about whatever magic he was now using, she twisted, taking the hit on her shoulder instead of chest. At the same time, given her premonition of true danger, she pulsed void-magic through Flow’s blade.
+
+The two attacks landed at the same time.
+
+Eskau Pallaun’s weapon drove through her reinforced, white steel armor, tearing through her shoulder and severing many of the critical parts therein.
+
+Flow sheared through both arms before the man vanished once more.
+
+When he reappeared he looked down and his eyes widened at the sight of blood flowing from a deep cut in each of his forearms, not quite deep enough to expose bone, but clearly deep and significant.
+
+His shed blood matched that which briefly splattered from Tala’s own wound, but she sealed that soon enough, pulling the blood back where it belonged.
+
+For the other Eskau’s part, Pallaun’s injuries were swathed in shadows, and a moment later, the cuts were gone, small grey scars in evidence. “It has been long years since any has blooded me, Eskau Tala.”
+
+Tala felt a growing disappointment at the thought that she’d ‘won’. They both knew that she healed better than he did, and so an exchange of wounds would always favor her in the long run.
+
+His grin returned in earnest. “So, let’s see what you are really capable of.”
+
+Her disappointment fled, and a fighting fervor gripped her, causing a smile to blossom within her helmet.
+
+Rather than answer with words, she flickered behind him, void-Flow already moving toward his neck.
+
+His laughter echoed through the pit as he vanished, only seeming to come back together as he drove a short sword into her side, angling up for her heart.
+
+She flickered away even as he cut through her armor, but before his blade reached her skin, appearing with the point of void-Flow already driving into the side of his neck.
+
+Back and forth they went, every move executed at the speed of thought as magic poured through them and out into the world. Eskau Pallaun really could be anywhere within the fighting pit, and he seemed to know exactly when she began to count on him attacking again, withdrawing to throw off her timing.
+
+She similarly flickered around, her movement both less practiced and less strategic due to her lack of experience, but they were nevertheless enough to keep him from completely controlling the clash.
+
+Even so, the two were near-enough to being evenly matched that she would eventually come out ahead due to attrition alone… assuming he didn’t have any other tricks or hidden cards.
+
+Assuming that an ancient warrior of Eskau Pallaun’s caliber was out of secrets was never wise.
+
+Regardless, he seemed content to continue their fight as it was. As such, the back and forth stretched on, even passing the ten minute mark. By that point, they were both visibly panting, Tala having created air holes so she didn’t have to deal with suppressing that need. The elder Eskau was clearly drawing in the ambient magic of the hold like a drain pulled water, and Tala was just as clearly dumping power through herself to empower her magics and enhance every part of herself further and further.
+
+When Tala was about to move in for another clash, Eskau Pallaun vanished and appeared across the arena, hands up to forestall her.
+
+A moment later, she registered words to the same effect coming from above. “Hold!” It was Pillar Sanguis who had spoken, and when Tala hesitated, he continued. “Eskau, this has been sufficient. We do not wish to deplete the reserves of the hold too greatly.”
+
+He gave his Eskau a meaningful glance.
+
+Tala almost simply allowed power to flood out past the watching Eskau Meallain, providing the power that Eskau Pallaun would need so that they could continue, but wisdom stayed her hand.
+
+That was a secret that she would keep for a while longer.
+
+Eskau Pallaun bowed first to his Pillar then toward Tala. “Excellently fought, Eskau. Within a non-lethal spar, I do not believe I could defeat you.” He laughed. “Honestly, if you had been this strong back then, only a fool would have tried to capture you. To do so would have been certain death.” He paused, failing to hide a sad smile. “Though, I suppose that was true, even then.”
+
+Tala gave a subdued smile in return, at both the compliments and concession they contained.
+
+He bowed. “You have truly surpassed all possible expectations in your advancements, and the House of Blood is uplifted by your mere presence within our ranks.”
+
+Rane could clearly be seen beaming with pride at his wife’s performance. There was also a sparkle in his eyes that she knew meant he was well aware of all that she hadn’t shown.
+
+Lea was obviously barely containing her elation as she kept her full focus on everything that had been happening down in the pit, trying to absorb it all.
+
+Terry met Tala’s gaze, and a sense of accomplishment passed between them, with Tala feeling a bit of envy from the avian as he clearly wished that he could have fought Eskau Pallaun himself. Tala might just have to arrange that for her companion. She imagined that the Eskau would enjoy the clash as well, but it might have to wait until her secret power source was revealed, so that she could bear the cost of magic usage for the man, otherwise, she doubted the clash would be approved.
+
+Regardless, Terry looked quite excited by the display he’d just witnessed, to the point that Tala expected Walden would be getting a visit from the terror bird in the coming days as Terry sought a safe outlet for his hunting instincts. I might just have to find you something to hunt, my friend. There will be many fights coming up.
+
+He sensed her intentions as she pressed them through their connection, and he visibly calmed, trusting that she would let him cut loose sometime soon.
+
+Tala dismissed her armor, even as the void-magics around the fighting pit faded. She dropped a couple of inches to the churned sand of the arena and gave a half smile. “Don’t think I didn’t hear your caveat, Eskau Pallaun. Are you saying if you wanted to kill me, you could?”
+
+He smiled mischievously in reply. “May the stars send, we never need find out.”
+
+That made her chuckle. “Indeed, Eskau Pallaun. May it never be.”
+
+The two easily jumped up and out of the pit, where they were quickly joined by those that had watched the display.
+
+Eskau Pallaun bowed to the group. “I am satisfied with Eskau Tala’s combative abilities, and formally request the resources that would allow me to combat her again, as well as those that will be required for me simply to train against her.”
+
+Pillar Sanguis almost rolled his eyes at his Eskau, fighting a small smile at the other man’s clear excitement. “As you say, Eskau. What say you about her elevation to the position of Eskau of War?”
+
+The obsidian man turned to regard Tala for a long moment, a pride and expectation clear in the gaze. Finally, he nodded once. “The warriors of Blood could have no better champion in our fight against the automata, and if she is open to advice, critique, and guidance, I suspect that they could have no better leader in the coming conflict.”
+
+In the short space that followed his pronouncement, each of the administrators spoke up in similar support, and Eskau Meallain was the last to echo the sentiment.
+
+Finally, the yellow hue-man Pillar nodded in reply. “Then I will send for the official will of the other Pillars. We should be able to hear back within the month.”

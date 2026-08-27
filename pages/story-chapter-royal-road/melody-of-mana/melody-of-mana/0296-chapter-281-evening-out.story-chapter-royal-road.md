@@ -1,0 +1,73 @@
+---
+id: 83bd24a1-4321-550f-83b0-c30087326c32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 281 Evening Out"
+slug: 0296-chapter-281-evening-out
+partOf: melody-of-mana
+position: 296
+ownLength: 1271
+unit: words
+ownProgress: 1271
+publishedAt: 2023-11-04
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1396291/chapter-281-evening-out"
+royalRoadId: "1396291"
+markedReadAt: "2026-06-29T22:36:02.808Z"
+---
+
+The restaurant was wonderful, and it was clear that the elves were really trying their hardest to show off. Everything from the tablecloths to the floor was perfectly in place, and the smells coming from the kitchen, a mix of sweet and meaty scents that drifted subtly around the building, but not into the dining area.
+
+I skirted along the edge quietly as my students began to take their seats, watching them all like a hawk. To my relief it seemed that all of them had been drilled on manners, and were not skimping. Each was polite to the staff here, and chatted lightly among themselves and the official guides the school had assigned.
+
+There were no menus on the place settings, this particular establishment not using such things. No, the students were offered a few choices of specials, and would then get whatever else the chef made. A good mix in my opinion, forcing them to try new things while also making sure they would get at least one that they would like.
+
+As soon as I was satisfied I slipped back into the kitchen with the staff. When I passed the door I promised myself not to worry too hard, if they caused some form of chaos I'd be right here. I almost thought that it should be limited what they could mess up or how badly, but then I looked back at my own life rather briefly and shelved that terrible notion.
+
+The kitchen itself was clean, and highly active. It was also quiet when one thought of what things were like in my old world. Even in this world, among the humans things were often a bit hectic in cooking areas, but this one ran like a well-oiled machine. Each of the people cooking had assigned jobs, jobs they knew well and could do without any outside input. Above them all was a fancier dressed elven woman, clearly the head chef, who was quickly putting plates together and checking over everything.
+
+It was surprising that for all their boasting that in this kitchen there were almost no magical items at all. I spotted a couple here and there, what appeared to be a freezer, something that I got the feeling was helping damp down the sounds of cooking, but little else. All the stoves were powered by wood, much as they would be back home, and of the elves here only the head chef had a real aura, the rest giving the feeling that they merely had talents, as almost every elf did.
+
+As for the food, seafood was on the menu tonight. There were fish and shellfish, all prepared with few if any spices and no herbs that I could see, an odd choice, but one that made sense if this was supposed to be historical elven food. To the side there were some form of tuber and sliced fruits, all grilled to seeming perfection. It was simple fare, but you could tell the cooks took great pride in their work.
+
+“Good evening,” I said as I let the illusions that hid me melt away.
+
+The head chef's head turned towards me with a brief look of surprise. “Ah, you must be the chaperone Headmaster Indir told us of. Welcome to my kitchen, I'm Corina.”
+
+“Alana, a pleasure,”
+
+“And you, don't suppose you know what you'd like?” she asked, not even looking up from her plating.
+
+“The fish if you don't mind, it looks lovely.” The dish in question was straightforward enough, grilled filets of some local variety nearly two inches thick and a brilliant golden color, served with a citrus that looked rather like a lemon.
+
+“Good choice, make sure to squeeze the fruit over it before eating for the full experience,” she advised.
+
+“I was told these were all old recipes, do you get calls for that often?” I asked as I waited for my plates to be ready.
+
+“More than you'd think, the classics are classic for a reason, and while some of the ingredients are hard to get we get a lot of clients that tend towards the older. I've even had a few councilors come in, hoping to get the food of their youth,” she bragged.
+
+“Oh really?”
+
+“Sadly the plants have just changed. Some of the flavors, particularly the astringent ones, are just gone now. The fruits and vegetables taste better, but breeding has made it so that they're just not the same. The cultivated ones even effect their wild brothers and sisters sadly, seeds spreading and all that.” She personally showed me to one of the sides, where a small table had been set up.
+
+The food was good, wildly different from what I was used to, but good. The starchiest food was a local fruit that sort of resembled a sweetened bread when roasted, leaving a bit of a hole, but other than that it was simple, well made food.
+
+I kept out of the way as much as possible, finally giving Corina my compliments before going back to join my students. They kept up much as they had, without a care in the world as they enjoyed a good meal after a long day. It was nice watching them enjoy themselves, my children, and those of my brother not knowing the starvation or strife we had as youths, something I wouldn't wish upon any child.
+
+As we left we were met with a cadre of carriages, all bearing the insignia of the local academy. Above us the clear evening sky had grown cloudy, with a few drops falling from the billowing clouds out in the dark. That wasn't unusual, as with the humidity around here evening storms were sort of expected, but the sound of far off and distant bells was, as were the looks the drivers were giving in their direction, that of the harbor if I wasn't mistaken.
+
+By the time we returned to the school the rain was in full force, pounding down on the buildings. While the children went off to bed I went to my evening meeting with Indir. Most of what we had to talk about was rather mundane, there hadn't been any large issues through the day that he needed to know of, and I was keeping my earlier meeting to myself. He too was quite happy with the proceedings, all the things he needed to get done being organized to his liking.
+
+“Oh, one more thing, the bells?” I asked.
+
+“Those are for the harbor, not something we'll need to worry about this far in, just an indication for the vessels there to take shelter,” he answered.
+
+“Is there a storm or something?” I inquired, not quite satisfied.
+
+“I'm honestly unsure, storms this time of year are not uncommon, and one being spotted would be a bit of a damper on things. It could also be some monster has been sighted in the area and ships will need to stay moored while the military sorts it out.”
+
+“I once fought a Hurricane Whale you know, one of those would be a true disaster if it came near,” I observed, already well versed in the danger of some of the mega-fauna that lived in our oceans.
+
+“Oh those don't come near shore, the shoals are too shallow for them, and the mana not nearly dense enough. Do you get them over in your lands?” he inquired, seemingly truly curious.
+
+“No, thankfully not,” I answered with a laugh.
+
+“The worst it could be is likely one of the species of magical shark or cephalopod, nasty business, but not a real threat.”

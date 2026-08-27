@@ -1,0 +1,127 @@
+---
+id: 59656131-86d2-52f1-b034-7de3cd7a2878
+page-type-slug: story-chapter-royal-road
+title: "Chapter 269 Return to Silversprings"
+slug: 0283-chapter-269-return-to-silversprings
+partOf: melody-of-mana
+position: 283
+ownLength: 1714
+unit: words
+ownProgress: 1714
+publishedAt: 2023-09-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1348484/chapter-269-return-to-silversprings"
+royalRoadId: "1348484"
+markedReadAt: "2026-06-29T22:35:36.309Z"
+---
+
+Justin and I meandered along the road to Silversprings, we were going to stop by the actual town for only one reason, and that was so that he could get some extra readings. He'd brought along a fair quantity of equipment and was wanting to stop at various places along our route just to check on the area's space.
+
+Technically I didn't need to be here, but I'd come for a few reasons. The first was that we didn't want him getting into any trouble, and somehow I was supposed to aid in that endeavor. I was also deeply curious about what all he would be doing, and if I could learn anything from the goings on. It was also of note that I would be useful in closing up any issues he might accidentally stumble upon or open in the local space. Truthfully though the most important reason was that I wanted to get out a bit, and Silversprings was kind of nice.
+
+My escort was currently playing with a small item that looked suspiciously like a tablet, hmming and hahing about what all was going on.
+
+“You know, things seem oddly normal here. I can detect that there are some subtle changes due to the presence or the portal and 'something' over that way.” He pointed towards the giant hole I'd made. “But it is overall far more in line with what I'd expect.”
+
+“I'm glad that I did a passable job cleaning things up then,” I remarked dryly.
+
+“More than, the town itself looks almost normal.”
+
+He currently looked like little more than a normal human researcher bent over the small device. It was a small spell of my own designed to keep us slightly lower in profile than we'd otherwise be, and for not alerting everyone to the presence of an elf in their midst was more than a good enough use of magic for me.
+
+“I'm sure the new mayor will be thrilled that there aren't any underlying issues,” I added.
+
+I wasn't sure what had happened to Mallowsweet, but given that I'd pretty thoroughly burned my bridges with him it didn't really matter. The new guy was polite, if a bit distant, and appeared to be mostly trying to stay out of our way. That really was the best thing I could have asked for, since someone underfoot for this particular operation wouldn't help at all. He'd even managed to get the new mine closed for us, something I was quite thankful for.
+
+As a point of fact, most people seemed to be trying to stay out of our way. On the whole the citizens of Silversprings were taking one look and quickly ducking away as fast as they could, with only a few exceptions. There and there there were a few people giving the stink eye, or looking on curiously as we passed.
+
+“Something bothering you?” Justin asked as we left.
+
+“People were more friendly last time I was here,” I said.
+
+“Hmm, in my experience people tend to lose a lot of that when you cause them problems. Since you did seem to blow something up the last time you wandered through town they may well be worried that you'll do so again,” he commented. “Though if we're being honest here, I'm probably not the best person in the world to take advice on working with others from, a bit out of practice you see.”
+
+I got a good chuckle at that one. “Really, you hardly seem it.”
+
+“Well, rusty I might be, but I've been the source of this kind of problem before. Some things stick with you fairly well, and that is one of them. Now, let's get along to this disturbance of yours.”
+
+We chatted a bit, mostly on lighter subjects, as we rode out to the new mine. I was of two minds about going back, and the fact that it was so very far from the city gave me plenty of time to consider all that had happened here.
+
+As we rode up I began to note the changes since my last time here. The spot had been developed into a proper mine, with a ramp into the crater and small dams blocking off the water sources that had fed in. Overall it looked like time had repaired the worst of the damage to the local bodies of water I'd caused, rain filling back up the lakes and ponds that had drained into the ground. At the bottom the hole into the depths of the earth still sat, now a source of wealth for the locals.
+
+My companion whistled. “I know craters and that is some crater there Alana. The size of the explosion must have been...” He tapped his fingers as he mentally did the math. “Not bad at all. You're lucky you survived.”
+
+“I'm aware,” I said dryly, I had been there after all.
+
+He began his work, this time with far, far more interest than he had at other points on the journey, measuring and observing things. At one point he even floated himself into the middle of the crater and took some numbers from the space there.
+
+After a time I came up with a though myself, and so decided to ask. “So, we're on a planet yeah?” I asked.
+
+“Yes, though the local solar system isn't much like that back home from what I've seen,” Justin answered.
+
+“Right, but it's moving? Like around the sun.”
+
+“Mmmhmm.”
+
+“Which is itself also ostensibly moving.”
+
+“I would guess, though I've never measured it.”
+
+“So, why does space seem to stay in the same place?” I asked.
+
+The elf put down his tools and looked at me for a time. “That, is an interesting question. Let me follow it up with one of my own, where is the center of the universe?”
+
+“Um... I don't know,” I answered.
+
+“As far as magic seems to be concerned, the center of the universe is wherever that reading is being taken. It makes sense enough if you ask me, as anywhere can be the center, but that's how it is. The reason things like this, and your portals and everything else to do with space don't just fly off at some insane speed is that as far as magic knows, their perspective, and yours, is the truest one. The planet is stationary, with everything else moving around it. One of the odder quirks about the world, but a useful one huh?”
+
+“So if we sent something into space?” I began.
+
+“Been done, though never too far from the world. Things seem to be the same up there too, regarding their own location as the true one.”
+
+I had an odd feeling that I should write this down somewhere, for future generations to not have to work it out again, but I was unsure who to tell. It was a great insight into the world at large. I also didn't know how we would ever use it, except in situations just like this one.
+
+“Huh,” I observed, tapping my chin.
+
+After several more hours of work, the fallen king looked over at me. “I think I understand some of what happened here, but I do have a concern. It will need to be looked into before we're fully done.”
+
+“What's that?” I asked.
+
+“This area is full of silver, and silver based magical beasts if I'm not mistaken.” At my nod of agreement he continued. “As you certainly know, silver is rather magically reactive. I don't think it had an effect, but we need to be sure.”
+
+“Makes sense.”
+
+“Good, then would you like to join me for taking some readings underground? It's been far too long since I had a nice delve into something like this, and I'll admit that I'm a bit excited at the idea.” He smiled as he spoke, like he was offering me some adventure.
+
+“Fuck no.”
+
+“Sorry? There's no need to worry about the monsters Alana, I'm more than capable.”
+
+“Nope, I am absolutely not going down there,” I said, cutting him off.
+
+“Why?” the ancient mage questioned.
+
+“Allow me to share one of my own insights about magic.” At this I had his attention, eyes sparkling as he believed I was going to give him some deep insight, which I was. “Every time I end up underground, every single time, everything goes to shit. If I go down in that mine, something, somewhere, will collapse, and someone will almost certainly suffer or die. It is a rule and promise of this world, that for me, underneath the soil is a bad place, always has been, and always will be.”
+
+Justin looked at me for a solid ten seconds in silence, then he began to laugh. “You know, if you have a phobia of tunnels...”
+
+“Nope, nothing like that, just a real understanding of how the world works,” I said, standing my ground.
+
+“Fine, fine, I'll go on my own then,” he declared, slowly descending into the hole.
+
+Twenty minutes passed and there was a deep rumble in the ground, followed by a burst of dust coming from the mine entrance. Nearby one of the small barriers holding back the water began to break, and I took time out of my busy waiting to fix it, keeping the whole place from flooding.
+
+Eventually Justin returned, looking a bit winded, which was something for how powerful he was.
+
+“Alana, did you know there was another chamber down below the mine?” he asked.
+
+“No, but I should have suspected it.”
+
+“Indeed, full of those snake creatures, hundreds of them.”
+
+“Mmmhmm.”
+
+“There was a small collapse, don't worry I fixed it, and dealt with the creatures. I don't think there will be any further issues.” I pointed to the damaged dam, and watched him consider the implications. “Had that failed it would have been highly inconvenient,” he observed.
+
+“Sure would have. Learn anything of note?” I replied.
+
+“Won't know until I run the numbers.” With that statement he turned to leave, and I just followed, shaking my head. Perhaps one day he would understand the deep truth that I had laid upon him, then again, maybe not, perhaps there were just some things that worked for bards that didn't for wizards.

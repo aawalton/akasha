@@ -1,0 +1,52 @@
+---
+id: e040732e-e825-593a-92d0-59461d268e66
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 2"
+slug: 0317-epilogue-2
+partOf: melody-of-mana
+position: 317
+ownLength: 672
+unit: words
+ownProgress: 313
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1496406/epilogue-2"
+royalRoadId: "1496406"
+---
+
+My black dress fluttered in the icy wind, and I couldn't bring myself to cry again. Too many times in the last couple days it had happened, too many times had I felt tears fall. As the tomb was closed I just couldn't, it was too much.
+
+Ulanion had fallen, not to some enemy, or some monster, but to the one thing that wouldn't be denied to those with human blood, age. He'd outlived so many that I almost couldn't believe it, he'd seemed immortal, but he wasn't.
+
+Before I could fall too deeply into thought once again a hand touched my shoulder. With a small, sad smile Rodrick helped me, his sister joining him in leading me back to the school, the fortress, my home.
+
+Even looking at them brought up dark thoughts, would I bury them too? My attempts to wage war on my own age had been more successful year by year. Time was still coming for me, but at a snail's pace. These days my little Illa looked like my mother, not the other way around. Her hair was graying, her brother also sporting a salt and pepper look himself.
+
+It seemed that all of the people I knew were dying, each year causing me to lose more and more of my friends. I even found it harder to make new ones as I aged, the pain of loss hardening me bit by bit.
+
+There were a few ceremonies over the day, a few moments where people wanted to talk, or see how I was, or something else that I had a hard time caring about. Most of them were dissuaded when it became clear that I wanted them gone. When the last had left I almost went to bed, but even that seemed hollow.
+
+So instead I went to my lab, here I could visit the one man I socialized with that I doubted I would outlive. Over the years I'd tried to do so more, even if he was almost as prickly as I felt now.
+
+Justin joined me soon after I stepped through the gateway, gave me one look, and sighed.
+
+“I'll get something stronger than tea then,” he said as we went to his sitting room.
+
+“How'd you know?” I asked.
+
+“Other than the solid black dress? You look horrible Alana.” The ancient king handed me a glass of some liquor, the amber fluid giving off a powerful if smokey smell.
+
+“How do you, how do you deal with it?” I inquired, begging him for an answer that I didn't have.
+
+“Alana, I live alone in the middle of nowhere, barely talking to anyone else. If there's anyone less qualified to tell you how to handle grief, I'd like to meet him.” There was another sigh, and in his eyes I could see it, see the pain of millennia. “I think it's worse for us though, and maybe better too. My memories don't fade. I see lost loved ones in my mind as clearly as if I were looking at them now, remember every conversation like watching a movie, every good word, every angry one, every fight and hug and tear.”
+
+“I want to just lay down and die,” I admitted. “Let it all go.”
+
+“I've been there too you know, but I don't think they'd want us to.”
+
+“They're gone, so we can't well ask.”
+
+“Not here, but gone? Come on, you and I both know that dying doesn't have to be the end. I don't believe in suicide, think it's wrong, but it's hard to fear death when you've already been through it. Perhaps we'll meet them again on the other side, perhaps not, but I don't think those I've lost would want me to die, and I don't think those you have would either.” He was right, and I sort of hated that.
+
+“So what do I do?”
+
+“Start with finishing your drink. Then why don't you tell me about those you've lost.” That seemed as good a suggestion as any.

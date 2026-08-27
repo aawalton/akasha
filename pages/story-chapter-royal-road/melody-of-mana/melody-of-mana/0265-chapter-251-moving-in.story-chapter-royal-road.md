@@ -1,0 +1,75 @@
+---
+id: c9663b0e-4d65-59a7-892f-e4746100283b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 251 Moving In"
+slug: 0265-chapter-251-moving-in
+partOf: melody-of-mana
+position: 265
+ownLength: 1269
+unit: words
+ownProgress: 1269
+publishedAt: 2023-07-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1270655/chapter-251-moving-in"
+royalRoadId: "1270655"
+markedReadAt: "2026-06-29T22:34:58.507Z"
+---
+
+I stepped through the portal, the last one I'd need to for awhile, and looked upon my new facility. Durin's former fortress was already remote, and neigh impenetrable, the perfect place for someone trying to avoid attention for now. I considered the gate hub here to be a big plus as well, since it would let me keep an eye on them.
+
+My first stop was my new suite. I hadn't taken the former owner's rooms, as that seemed... improper. Kala was getting those instead, after the wealth of overdone furniture was moved out and redistributed into more useful ventures. She still had plenty of nice pieces, but not the gold encrusted and silk covered things a monarch needed for impressions.
+
+The suite wasn't empty of course, with my personal attendants buzzing about as Ulanion put things in the general rooms. I'd probably spend a bit of time getting it all perfectly to my liking, but the maids knew how I kept my previous home, so were sort of setting it up similarly.
+
+“Fancy to find you here,” I said to my lover as I crept up behind him. “Though we are living under the same roof now, scandalous.”
+
+“In a massive facility, in different rooms,” he pointed out with a chuckle.
+
+“Oh? And yet here you are, in my chambers,” I teased, he knew well he was more than welcome.
+
+“Deliveries love, how are things going right now?”
+
+“Just got in, wanted to change out of my traveling clothes before going to check on everyone. Sadly I have lots to do before dinner.” A truth, and one that I couldn't avoid.
+
+I grabbed some more comfortable clothing and moved behind a screen one of my staff had quickly erected upon hearing me declare my intention. I might tease Ulanion with them around a bit, but they knew the difference between that and more serious intent on my part.
+
+“How are the soldiers settling in?” I asked, as I pulled off the heavier clothes and began putting them to the side.
+
+“Good, you brought along a lot of scouts though didn't you?” He asked.
+
+“Yes, I want to know everything about the area, and we're already well defended, the more warning we have about anyone trying to approach the better.” I said. “If we're prepared there's not much that would be able to pry us out right now, and when I'm done, there will be even less. You and Charles both already know your business, so I'll leave you to it. If you need anything let me know and I'll do what I can.”
+
+“Are we looking for something particular?”
+
+“Go over the older scouting reports first I think, then figure out if anything was missed. Like I said, I trust you two to know what to look for when looking for problems. I don't expect any for awhile yet, but best to prepare.” I turned to the maid who was now helping me into the fresh outfit, “Little tighter... perfect.”
+
+I didn't need the staff, I could dress myself, set up my own dressing screen, or not, it wasn't like I cared much with Ulanion. There was something though, and that was that now that they were getting trained to my liking they were making things legitimately easier for me rather than harder. Sure, I'd be rearranging things before too long, but it was all in the right general area, and I didn't have to worry about it being set up. Help with clasps, and getting a bath ready, and all that, so it would just be there when I needed it was... convenient.
+
+“How do I look?” I asked as I came out.
+
+“Excellent of course,” he said without missing a beat.
+
+“Good answer.” I gave him a quick kiss and before pushing off and heading out with a smile and wave.
+
+The wing we were dedicating to labs was my next stop. This was probably one of the biggest and it was a flurry of activity already. Luckily everyone was here so calling them together was only the work of a few minutes. Selene was joining with Dras' team for now, as she'd been on the back-burner for awhile.
+
+“Alright everyone, points of business. Has everyone had the chance to meet yet? I know some of you haven't worked together much...” I began, and while we had a brief session of people giving names, we soon got past that and into the meat and bones.
+
+“I know it will be difficult, but we're changing our goals for now. With the Empire in the state it's in we don't need many more gates, so instead we'll be moving more towards research and development. Dras and his team will be doing most of the setup for design and testing, while mine works on developing spells and rechecking for spatial anomalies in the region. We are now able to check where we couldn't before, and I don't want anything nasty in our backyard. Any questions?”
+
+“Yes, what exactly are we developing? New gate models?” One of Dras' students inquired.
+
+“Not presently, but rather detection systems for active gates, or any other spatial oddity, and if we can manage some way to stop them, or redirect them with the current tools available, that too,” I answered.
+
+“... That'll be a fun challenge. I'm not sure there are runes for that built into the system, even detection.” I liked this guy's attitude and smiled.
+
+“You'll be provided with a working detector. It's still a prototype, but I'm hoping you can refine and rework it into something much more useful. I'd like to, but there will be more draws on my time for now, and more eyes may be the solution.” Several people blinked, that I had such a thing wasn't yet known to many.
+
+“Suppose we'll be working on perfecting portal spells?” Leah piped in.
+
+“Quite so, and if you have any ideas for future trainees that might help with the vomiting issue look into those. I'd also like you cleaning up around the portal room, make sure there's not some massive warping that we haven't noticed yet if you can.”
+
+After everyone was set to their new tasks I retired to my own lab. Most of my previous one was transported over here, but the security would be the first thing I needed to redo. Perhaps I was paranoid, but I wanted to know if someone other than me came in here. I wanted to know and I wanted to make sure that it was taken care of. To that end I had a number of ideas.
+
+Soon as I got done with the basics on my lab and personal quarters I'd be upgrading the building in full. It was a bit of a daunting prospect, but I wasn't holding back on it. Internal communications, detection of any external ones from radios that were under the control of the now opposed factions. The portal room would be a huge point of concern as well. All of that was on my docket, as well as anything that popped up and a few political concerns.
+
+I groaned as I considered those. There were two people who needed talking to that I wouldn't trust anyone else with, and it was going to be a nightmare, they hated each other, and I needed to make sure that contact with them wouldn't be broken. I was also unsure if I could even contact the one, but all that could wait until father had finished delivering a certain package to a one of our outlying locations.

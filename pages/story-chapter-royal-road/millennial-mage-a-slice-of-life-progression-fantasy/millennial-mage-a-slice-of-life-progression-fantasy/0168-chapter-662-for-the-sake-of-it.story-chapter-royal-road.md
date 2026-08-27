@@ -1,0 +1,231 @@
+---
+id: 8e745aa6-d727-50be-9900-e8efc4005ea8
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 662 - For the Sake of It"
+slug: 0168-chapter-662-for-the-sake-of-it
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 168
+ownLength: 2795
+unit: words
+ownProgress: 2795
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2970909/chapter-662-for-the-sake-of-it"
+royalRoadId: "2970909"
+markedReadAt: "2026-06-29T19:40:26.966Z"
+---
+
+Tala saw the blue-rimmed eyes of the hue-man grow at Zamanther’s pronouncement of ‘Eskau,’ but they narrowed again as she suggested they take their ‘issues’ outside.
+
+Was he really that unobservant? What sort of idiot is this?
+
+-He thinks Lea is hue-folk. He clearly doesn’t have very well-honed magical senses either.-
+
+Tala grunted, a few options running through her mind. First, she could correct the error, informing the group that Lea was not, in fact, a white hue-folk woman. Doing that would be a little ridiculous, honestly. In all but the best case, it would still most likely start a fight but for a different reason.
+
+-Yeah… ‘start a fight.’- Alat snickered.
+
+Given the blue group was all at the very bottom of Mature, advancement wise, Tala understood Alat’s amusement.
+
+That brought to mind her second option. As Eskau of the House of Blood, she could rightly discipline these boys for their disrespect. Many options were open to her, both legally and socially, but that really wasn’t who she wanted to be. It would be utterly ridiculous to waste time and effort to ‘teach them a lesson.’
+
+On the other extreme, they could simply leave. Even if the blue boys attacked, it would do almost literally nothing, and she doubted they’d be so foolish, especially after Tala’s rank as an Eskau was so obviously pointed out. Not to mention the crests on my tunic… the blind fools.
+
+Tala almost took this route, walking the ‘high road’ and ignoring the idiots.
+
+Only two things held her back. First was the fact that, like it or not, she did have a position to maintain, and utterly ignoring these youths would be seen as weakness in the arcane culture. Second, and more important to her, they’d been rude to Tala’s daughter.
+
+Mindful of Zamanther’s presence—as well as his not-so-veiled threat—she didn’t plan on doing anything inside the store.
+
+She gave a malevolent smile to the boys, responding barely a second after Zamanther had spoken, continuing on the heels of her own suggestion that they go outside. “Of course, good baker. I would never be so crass as to act within your shop.”
+
+With a dual flexing of her will, she tore the boys into her sanctum before dumping them on the street outside, purposely dropping them in a jumbled heap.
+
+At the same time, she moved herself, her husband, and her daughter through a similar blip down and out. In their case, however, she set them down quite gently and stably, standing just as they had been.
+
+Lea let out a marginally irked breath, and Tala held back a smile. By her grasping hands and flexing arms, the girl was clearly irritated because Tala had left the pastries in the sanctum, having removed quite a few of the packages from both Rane’s and Lea’s arms.
+
+Tala squatted down beside the blue pile even as they tried to right themselves. “What you said was quite rude. Please apologize to the young lady.”
+
+She’d laid the previous speaker on the bottom of the pile, orienting him so he was looking out at them.
+
+He grunted, clearly fruitlessly trying to extricate himself. Finally, he glared and said, “I’m sorry… that she was born so ugly.”
+
+Lea rocked back at the words, clearly slightly confused.
+
+Tala growled. The words were ridiculous, obviously the childish attempt of a bully to gain back some control. They were meaningless to Tala, almost making her laugh at the boy’s foolishness, but Lea was still quite young, and they seemed to have actually hurt her feelings.
+
+Tala briefly considered simply stomping on the young man’s head, popping it like a grape. She dismissed the thought before imagining kicking the head free with a simple movement. Calm down, Tala. Be rational.
+
+-Rational? He’s being a jerk to Lea. Stomp his head!-
+
+Tala blinked a few times at her alternate interface' vehemence before she grimaced. “Little boy? I’m uninterested in you, your family, your friends, or your friends’ families at the moment. You were rude, and I wish you to correct that before we go on our way and never see one another again. Am I understood?”
+
+Some of the boys had gotten themselves free and were backing away, clearly quite horrified by the turn of events. The one on the bottom, though, he simply had no self-preservation instincts… or something. “Yeah, I appreciate the option to never see your ugly faces again, especially the pasty white one. Run along now, before my father finds out about this.”
+
+“And who, by all that shines, is your father?” Her tone was level, but there was quite evidently an edge to it.
+
+A quivering voice came from nearby. “I am, oh Revered Eskau.” A blue man was already kneeling, head pressed to the cobbles on the edge of the little courtyard, Tala having seen him arrive, but not seen it as worthy of notice. “Please forgive my son and his friends whatever offense they have offered you.”
+
+Tala straightened, but before she could respond, the boy shifted his head until he saw the man. “Father! This whitey and her slaves are bothering me.”
+
+The man looked up in horror, eyes so wide that Tala genuinely thought they might pop out of their sockets. “Hush, boy. Are you deaf as well as blind?”
+
+Clear confusion crossed the boy’s face. “What are you talking about? Slap them around, and let’s get out of here. I’ve no stomach for baked goods anymore.”
+
+Tala looked down incredulously at the boy, before looking back to his father with one eyebrow raised.
+
+The man put his head back to the road. “He has a condition, Revered one. He is blind to auras and things of magic. His friends should have known better.”
+
+Many of the boys who were backing away looked chastened, but some seemed just as belligerent as the clear ring-leader.
+
+The father was Honored, likely leading to the group’s confidence, and they seemed to not truly have an understanding of power differentials between advancement tiers in the upper echelon.
+
+Tala shook her head. “How have they been so poorly brought up, Honored? Who failed so massively in their education?”
+
+The man shrank down further. “It was I, Revered one. In my climb, I often fought up advancement tiers, but that was in my youth, before reaching the heights you see now. I would never presume to cross advancements now.”
+
+“Father! Don’t say such things. You could—”
+
+“BE SILENT!” The man bellowed at his son, causing the boy to blanch, seemingly finally being affected by the situation, even as the last of his friends scrambled off of him, allowing him to rise. “You will not speak further, unless I tell you to. Am I understood?”
+
+The clear confusion on his face was almost comical as he simply nodded.
+
+“Good.” The man clearly calmed himself. “What needs to be done for this error to be forgotten, or at the least forgiven?”
+
+Tala rubbed at her temples. “He needs to apologize to the offended party, and then his education needs to be remedied.”
+
+The father nodded against the ground once more. “It will be done.”
+
+“But father—”
+
+“SILENCE!” The man jerked up to shout, and afterward, he was visibly trembling. “Apologize for whatever you have done, and keep your thoughts to yourself when in the presence of your betters.”
+
+The boy muttered an ‘I’m sorry’ for ‘being disrespectful.’
+
+Lea glanced toward Tala, clearly uncertain what to do. Tala sighed. “Barely acceptable.” She looked back to the kneeling man. “I cannot fathom how he has survived this long, but I recommend you remedy this quickly.”
+
+“Yes, Eskau. I am in your debt for his life.”
+
+Without waiting for things to become… odder, Tala turned and walked away, Rane and Lea in tow.
+
+Rane had a truly baffled expression on his face, as he seemed to be trying to understand something about the situation, and Lea looked incredibly conflicted.
+
+Tala willfully blocked off the sounds coming from behind them as the father rose and went to his son, clearly irate. “No need to listen to that.”
+
+Rane was shaking his head. “You didn’t mention anything like this. I don’t really think I saw anything like it in your memories… Maybe the edges of it?”
+
+Tala shrugged. “As much as they failed me my first time here, the House of Blood is actually founded on principles of egalitarianism, on viewing us all as equal. ‘Blood flows within everyone’ and all that.”
+
+Rane grunted. “Great ideals that haven’t been fully realized yet.”
+
+“Indeed.”
+
+“Still, that was… comical? Like someone writing a villain just for the sake of it.”
+
+“A bit, but honestly?” She glanced Rane’s way before continuing. “His father likely never encountered anyone of true strength except maybe with great irregularity. It’s hard to remember given the circles we’re moving in, but those more advanced than Honored are a vanishingly small percentage.”
+
+“Just like those Refined and above back north.” Rane nodded. “The fact that we get to see so many of them makes it hard to remember how scarce beings of that advancement are the world over.”
+
+“Yeah. So that little… fellow was likely content in his bigotry for decades. Even most Eskau would hesitate to face off against an Honored over a minor slight like the words of a mere Mature. Still, I am a bit surprised that no one has slapped him down before.”
+
+Rane grunted. “He might be well known in the area? Or at least his father is? That would give some safety.”
+
+“That… that actually makes good sense, yeah.” Tala sighed, shaking her head as they walked toward a nearby park. Then, she noticed that Lea was being oddly quiet. “Lea, sweet? Are you alright?”
+
+She met Tala’s eyes, before slowly shaking her head.
+
+Rane clearly noticed too, and he moved over to walk on her other side. “What’s wrong?”
+
+Lea looked up at him. “That boy…”
+
+Rane nodded. “Yes?”
+
+“He… his apology was horrible.”
+
+Rane blinked a few times in surprise, and Tala burst out laughing. “That’s what has you concerned?”
+
+Lea nodded seriously. “You taught me that an apology has to be more than a statement of regret that something happened. It must be specific and take responsibility for what you did. His ‘I’m sorry’ was none of that.”
+
+Tala shrugged, then pretended to start to turn around. “We can go back and get a real apology.”
+
+Lea grabbed her mother’s arm. “No, Mom! That’d be awful.” She shook her head vigorously. “That was already embarrassing.”
+
+Tala chuckled, continuing in the direction they were already going. “Not hurtful?”
+
+Lea grimaced. “Being called ‘ugly’ hurt but not really, not from him. Beyond that? It was mostly odd.”
+
+“Oh?”
+
+“Yeah. They disliked me for something that wasn’t true. I didn’t really care, but it was also obvious that they’d likely have disliked me more if they’d known the truth. I’m… I’m worse than a white hue-folk woman.”
+
+Tala put her hand on her daughter’s shoulder. “No, Lea, you—”
+
+Lea shook her head. “I’m not sad about it, and I only meant from their perspective. It’s odd. I’m not biological in the usual senses, even if my body has many functions that are all but indistinguishable from the biological variety. I’m something new, and that is one reason why we are here. I drew the Black Legion closer, and if they come soon, it will be because of me.”
+
+They fell into silence at that, before Rane interjected. “You are you, Lea. If others have a problem with that, that is their problem, not yours. Your body was created for unknown reasons, but the fact that you are in it is good. You aren’t forcing others to do anything. You aren’t forcing who you are into their faces. You are simply living your life.”
+
+“Of course you feel that way. You’re my dad.”
+
+“And don’t you forget it.” He hip-bumped her side in love.
+
+Tala smiled as the two kept talking, letting her own thoughts churn a bit. As an Eskau of the House of Blood, she probably should have done something more, at least to the father, but as Tala? Mother of Lea? She was fine with the actions she’d taken. Part of her wished she’d torn all the magic from those boys, and forced them to refill if they wanted to return to their current advancement, but that would have felt petty.
+
+Eskau Meallain would have done it.
+
+-But you aren’t her.-
+
+No… No I am not, and the House of Blood does not own me.
+
+She was of them—by choice now rather than simply as a matter of coercion—but she was still herself, not simply an extension of the House. In this land of odd honor and competing authorities, she realized that she was a rarity.
+
+Stars willing, she’d be able to keep her family from falling to the machinations of this place. Hopefully, they’d be able to return with the mission complete, and their minds untwisted by this culture and society.
+
+Lea laughed at something Rane said, drawing Tala’s focus back to her family.
+
+Stars send it so. And if they didn’t? Well, she might just have to repaint their destiny with an ocean of blood.
+
+Even as a smile pulled at Tala’s lips, she allowed her mind to close out her current line of thinking.
+
+She wasn’t here for a family trip, nor was she here to see the sights, or even to catch up with old acquaintances.
+
+The Sappherrous family was in the southern cities—and Platoiri in particular—to fully right and establish her relationship and position within the House of Blood. From there, she was to finally help gated humanity move to a more equal footing with the arcanes and the Major Houses.
+
+Toward that end, she had several distinct things that she needed to do over the next few weeks.
+
+First, she had to ensure that her message had been delivered to the House of the Fated Clash. Moreover, she had to ensure that their answer was satisfactory, or she would make it to be so.
+
+Second, she had a duel to adjudicate, the date was supposedly set, but it had already been moved once. It should be within a week’s time. Apparently, it was one directly tied to a marriage between two old houses. She was still yet to receive a full explanation of the details.
+
+Third, once the duel was done, she and Lea had a void-hold to investigate… Well, there was no specific void-hold known of and assigned to them yet, and the one they’d be asked to close might connect to the superficial in the region and need to be addressed sooner than that, but it should be around then, if the timing stayed standard.
+
+Fourth, she needed to go to Croi to receive the official decision of the House on her new position. The official invitation hadn’t come yet, but she was expecting it within a month. She’d also use that trip to investigate the quick-ways and world-fragment there.
+
+-Are we going to eat it?-
+
+No, of course not. Tala purposely did not focus on the possibility.
+
+-...You don’t seem as certain in your inner thoughts as you are in those you project.-
+
+…We’ll see.
+
+-That’s my girl.- Alat sent a beaming excitement at the idea of the world fragment.
+
+Tala grumbled, internally rolling her eyes, but otherwise, chose not to engage the alternate interface further.
+
+Once Tala was elevated to the position of Eskau of War—assuming that she was—she would be returning to Platoiri, and from here, she would begin exerting changes toward the aim of better combatting the Black Legion. They would also be for the benefit of the House of Blood and all of gated humanity, but the reason given would be for the war.
+
+She smiled. That didn’t seem like so much when all laid out like that. She glanced toward her family as they neared the park. Throughout, she needed to be mindful of Lea and Rane… and Terry to a lesser extent.
+
+Her husband and daughter were in a strange land, and doing their best to both navigate the alien culture and continue to pursue their own advancement. Each was so achingly close to their next step, and she would be rusted to slag if this slowed them down.
+
+She both wanted and needed to be there for them through this process, despite her other duties and responsibilities.
+
+Ideally, we’ll be home within a year.
+
+-...That’s the sort of thing people say right before never returning home again, Tala.-
+
+Well… quiet, you. Things are looking up, and besides, we’re getting on Reality’s good side.
+
+Alat sent the impression of a blank stare. -...Reality has a good side?-
+
+…Rust.

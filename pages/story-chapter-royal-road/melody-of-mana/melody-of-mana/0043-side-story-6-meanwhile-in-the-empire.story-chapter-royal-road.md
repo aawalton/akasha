@@ -1,0 +1,85 @@
+---
+id: 1b7fd1e8-5360-5ac0-a49c-b29d84a676fe
+page-type-slug: story-chapter-royal-road
+title: "Side story 6 Meanwhile in the Empire"
+slug: 0043-side-story-6-meanwhile-in-the-empire
+partOf: melody-of-mana
+position: 43
+ownLength: 1588
+unit: words
+ownProgress: 1588
+publishedAt: 2021-08-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/732695/side-story-6-meanwhile-in-the-empire"
+royalRoadId: "732695"
+markedReadAt: "2026-06-29T22:27:41.432Z"
+---
+
+Suzanne shivered as the late fall rain fell on her and the others. Everything about her hurt, her feet where her sandals were wearing through, her hands as they pushed on the bar in front of her, her wrists and throat where the chains hung, binding her in place.
+
+This whole thing was odd, their whole construction operation had been evacuated in too much of a rush. The masters had come in and hurried them all along, lashing them to pull carts full of goods. They were supposed to be building a new fort for some merchant, at least that's what they had been doing.
+
+Suzanne worried about where they were being taken. The building crew hadn't been too bad, she was mostly assigned to cooking and cleaning, which was easy enough work, and the overseers hadn't been cruel. Thankfully none of them were handsey with her either, they had their own women for that. If they were being taken to a city and sold... who knows where she would end up. The thought of being sold to one of the perverts she knew dwelt there made her tremble in fear.
+
+For now she could at least count her blessings that the thrown together cart she and the other girls were tied to wasn't that heavy. She could even see up ahead some, which was a real blessing. Since they were likely to be the slowest the makeshift wagon drawn by the girls had been put out front to pace the rest of the convoy. The roads of the empire were safe from monsters, so there was that too.
+
+“Faster, don't slow down!” The sound of a whip cracking nearby caused her to yelp, then quickly speed her pace whimpering in fear, a few strands of black hair falling in front of her face.
+
+Suzanne had been sold into slavery at eight, so her parents could pay off some debt. Now fourteen she'd only been whipped three times, and those not badly. Even then it was a horrid pain, the rough brown tunic she'd been given to wear wouldn't do much to protect against it either. If they were snapping them then soon they'd find someone who wasn't working hard enough as an example, and she was going to make sure that wouldn't be her.
+
+They began to pass through a large gully. It shifted and turned here and there. As they came round a corner there was something surprising to the overseers. A huge block of ice had appeared in the roadway, blocking it completely, the outriders were supposed to find and report anything like that, so as to avoid exactly this. They were already too close to it, and she heard the yells from behind as something blocked their way back up the road.
+
+A trap, as it was sprung she heard rustling from the sides, even saw a few flashes of movement. Bandits, that was the only explanation, was this good or bad for her. Well, that would depend on the bandits. Some were known to free slaves to join them. Others... well, they wouldn't kill her, nobody would throw away perfectly good merchandise without a reason.
+
+“Throw down your weapons and surrender and your lives will be spared.” A shout echoed across the caravan.
+
+For her part she tried to stay still and look unimportant. Resigned to the fact that there was nothing she could do except potentially get herself hurt or killed neither of which sounded like something she'd want.
+
+A few of the guards tried to take up positions, they were quickly filled with arrows from the unseen bandits. Suzanne wanted to drop to her knees and cover her head, but chained as she was that was impossible. Instead she huddled in towards the crossbar, trying to make herself as small as possible as arrows whistled around, thunking into the wood behind her. She hated it, hated being powerless and at the mercy of those around her, unable to do anything to even keep herself safe. It burned in her, the fear and desire to do something.
+
+There was nothing she could do though. She could hear screaming as the men fought, a few stray arrows lodging here and there hitting those that weren't their targets. Soon though the guards stopped returning fire. They were not warriors prepared for a major fight against an armed force, but men hired to keep an eye on slaves and goods. Asking this was too much for them. They called out in surrender to their assailants.
+
+The deafeated overseers were ordered to vacate the caravan, marching forward to where they would be captured. Suzanne heard men moving through after they left, presumably the bandits deciding on what they wanted. A man near her slid down the side of the gully, coming to a stop right beside where she stood.
+
+She couldn't help but look at him, he was young, just out of boyhood, with short golden hair cropped close. She stared, whoever this was, he was no bandit. He, along with all of the men coming down to the caravan had on fitted jet black armor, dyed metal plates attached to mail. There were two short swords hanging by his sides as he smiled over both the caravan and herself. His eyes were deep blue and set in a pale face, she met them briefly. Remembering herself she looked down as fast as she could. Whoever this was he was of a much higher station than her, and irritating him would be very bad.
+
+“Are you injured?” He asked, his voice was a bit rough, but didn't hold any anger.
+
+“No master.”
+
+“Don't call me that.”
+
+“Master?”
+
+“Yeah, that.”
+
+“I... then what shall I call you? 'Sir' or 'my lord'?”
+
+“Nah, just call me John.”
+
+“I understand, may I ask a question?” The other girls nearby were clenching their fists so hard in fear that their knuckles had gone white.
+
+“Go ahead.”
+
+“If you know... what will you have me doing after I'm taken by your band? I-I would rather know so I can be prepared.”
+
+“Have you... nothing in particular. We can find you some work if you need it, or you can go home, that's up to you. Soon as we get the keys off those guards we'll get all your chains off, just hold tight.”
+
+“Please don't tease me so.” This was a game some people liked to play with their slaves, promise them freedom only to laugh as it was snatched away.
+
+A hand reached out and gently pulled her chin up.
+
+“Look at me.” As soon as her eyes rose to meet his he continued. “Lord Durin has declared that all slaves are to be freed. You may believe it or not, but it is so. The Lord of Shadows is going to lead this world into a new era, just you wait and see.”
+
+She believed him, it still pained her to do so, but she did. The way the young man spoke was as if he were telling her about a hero. As he left she silently prayed that he wasn't toying with her.
+
+Three days had passed since Suzanne had been rescued. True to his word John had gotten the keys and even personally released the collar and shackles that had been fixed on her.
+
+The camp of this army was sizable, and she understood why the overseers had fled after she saw it. Such a group moving into an area would cause upheaval. They were indeed freeing every slave they found. Many of the men, soon as their chains fell away begged to join the host, which was all too happy to have them.
+
+Suzanne herself had asked for work. She wasn't going to return to a family that had sold her, and really had nowhere else. They'd been kind enough to give her a place cooking for the army. This many men required a staggering quantity of food, and preparing it all was a herculean task, attended by a horde of freed women, those who had nowhere else to go.
+
+The work was good. She spent her days happily making huge dishes of food. None of the men here were the slightest bit rude to her at all, they even gave her proper clothes. She'd wept when she was handed a second hand dress. It was then that she realized it really wasn't a trick, or a dream, that her nightmare was truly over.
+
+She did manage to keep an eye on her personal hero too. John was apparently sent out with different units, still in training for whatever job they had snagged him for. She once caught a look at him sparring on a slow day, he and another man blurring as they fought at a speed she couldn't even follow. Watching it had made her heart flutter, and been enough of a distraction from her work that she'd been told off when she got back.
+
+After all of that, and all she'd been through Suzanne made her decision. She wanted to be as close to this young man as she could. She harbored no delusions about him taking her as a wife, but perhaps a mistress, or even a maid. One of the other girls working in the kitchen told her she shouldn't when she spoke her desire. That she was just latching onto the first person to help her and it was massively unhealthy. She ignored the older girl who was obviously jealous.

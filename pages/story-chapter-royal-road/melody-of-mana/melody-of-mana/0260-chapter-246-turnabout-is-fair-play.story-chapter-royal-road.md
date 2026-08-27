@@ -1,0 +1,95 @@
+---
+id: 33aecd3b-de44-5ca8-a2d4-6694c793dce3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 246 Turnabout is Fair Play"
+slug: 0260-chapter-246-turnabout-is-fair-play
+partOf: melody-of-mana
+position: 260
+ownLength: 1659
+unit: words
+ownProgress: 1659
+publishedAt: 2023-06-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1248793/chapter-246-turnabout-is-fair-play"
+royalRoadId: "1248793"
+markedReadAt: "2026-06-29T22:34:48.150Z"
+---
+
+The thing about crying was, eventually you had to stop. It wasn't like you wanted to, or were really done, but at a certain time, you just ran out. I wasn't sure when exactly this happened, or how long it took, but after a time I was spent fully. The day had been long, hard, and brutal both physically and mentally, and the sleep that took me brought some peace.
+
+A gentle voice, and a hand upon my shoulder woke me from my place on the floor.
+
+"Alana, Alana are you okay?" I opened my eyes to see Dras there, along with Charles, the young man the two of us had saved from the underground all those years ago, and Lucien, one of my former teachers. Behind them were some of my staff, obviously a bit roughed up, and a few others I didn't know.
+
+"No, but I will be. What's happened and why are you lot here?" I asked.
+
+"Looking for you, young Dras here said that you never made it to your lab where you'd be safe." Lucien answered.
+
+"I managed to drag the old man up after trying to get the lower city under control. Headed towards the fighting at the palace," Charles explained.
+
+"And I met them there, where you were supposed to be. There's... a lot of reports, some very conflicting," Dras finished.
+
+"Durin is dead, Lief cut his head off, I killed Lief, the queen tried to kill me for delivering the news, and mom stabbed the bitch, any questions?" I groggily explained.
+
+"The prince?" Charles asked.
+
+"His mom went out with a big wave type spell, killed him and a lot of others. Which is a shame, he might have been a good person to keep this from going completely sideways, both of them would if she'd not lost her mind. She was a priest, not a bard by the way, which nobody seemed to know about." There where a lot o lowered eyes and worried looks. I understood that, this was a real mess we were in.
+
+"So... who's the next in line?" One of their soldiers asked.
+
+"No idea, but it doesn't matter one bit. Most likely outcome is a civil war between all the major players, factions are likely to form in the next couple of weeks. Regardless, it's going to be bad," I told him. "At any rate, how'd you get into my house?"
+
+"I've seen enough of your work to find holes and know where to push. Nice setup by the way, took some time to break it," Dras answered.
+
+I looked at my workers, who were not particularly impressing me tonight.
+
+"We did try to get to you miss, but whatever you did to the room." He indicated the wrecked walls and decor. "Seemed to have been registered as an attack, your designs isolated you from the rest of the complex."
+
+There were a lot of safety measures in place in the event of a registered problem, and isolation was one of them. Everything had been made fail-safe of course, I could have gotten out with ease, but them getting in wasn't in the cards. It was there to stop fires, explosions, and similar things from spreading too quickly in the event that one happened.
+
+"Anything else to report?" I asked. His explanation made sense, but I would be examining my emergency procedures and some people's continued employment after this fiasco.
+
+"Um... there's an alarm going off in your workshop. I left a note for you, but I don't think you'd gotten to it yet..." One of the maids answered.
+
+That got me up instantly. There were few, precious few, things that set off alarms down there, and if one was going, it needed to be addressed quickly. I didn't hesitate as I quickly left the room, several people following as I took down any remaining protections in my way. These were my wards, I'd made them, I knew them, and they knew me. Even if every alarm in the house had been set off, not much would stop me from walking where I pleased.
+
+"Alana, what's going on?"  Dras asked as he followed me out into the hall.
+
+"I don't know yet, but I have suspicions," I replied.  "Is the fighting still ongoing?"
+
+"A bit, most of the enemies have retreated for the moment, but some are still popping up here and there."
+
+"Good."  I didn't bother to control the anger in my voice, these people had invaded my home city, and if they were fool enough to leave me a door open to their base, I would be destroying them.
+
+I proceeded down, down all the stairs and into my workshop.  Most of the people with us stayed behind, but I didn't object to Dras, Lucien, or Charles coming here, after all, after this fiasco I'd be moving my shop anyway.  Dras whistled at the outer room, well understanding my setup.  Lucien too looked impressed, I understood he knew the basics of making magical items, but it wasn't something I'd ever seen him actually do.  Charles on the other hand followed something only he saw on the floor, footprints or a wear pattern or something else, and raised an eyebrow at a seemingly normal bookshelf.  He never ceased to surprise me, and I really needed to find a good counter to him, and those like him.
+
+With a quick movement I opened my inner shop as well, the source of the alarm had been muffled, but now it was clear.
+
+Dras' eyes bulged, but the other two didn't know exactly what they were looking at.  My equipment in here was the real stuff, it was something akin to what we had in our lab, some of it better in my opinion.  I'd designed a fair amount of the workshops for the government's facilities, making tools to their specifications, these on the other hand were to mine, and mine were far more exacting.  It wasn't even inaccurate to say that I'd had magical tools describe the dimensions of rare metals in math to make sure each was perfect.
+
+"Fucking shit woman," he whispered.
+
+"Kindly put your eyes back in your head and we'll get on with it," I said as I walked over to the screaming box.
+
+My portal detector was going absolutely wild, which I should have expected.  Those that the prince and his toadies had been using were messy on the best of days, and I was quite sure that he hadn't bothered to clean up after himself when he made it.  That wasn't surprising, he didn't understand them, not really, just used them.  This thing was made to pick up messes, and it had found a new, and quite large one.
+
+I pulled out a few maps and began looking where it was pointing, comparing angles for our enemy's direction in three dimensions.
+
+"I can't be sure, but my guess is that they set up a portal in the city, somewhere in the underground probably."  That made sense there were a lot of hidey holes down there that were painfully hard to get to if you didn't know where they were, and large ones at that.
+
+"Sorry, a what now!?"  Lucien said, he wasn't government, and we'd not gone fully public yet.
+
+"Huh, guess you're in on that now aren't you?"  I said.  "Want to come help us kill the bastards who caused all this?"
+
+"One, yes, they attacked my home, and two, you seriously figured out how to teleport?"
+
+I smiled for the first time in a bit.  "Charles, could you bring my mother's body down here, I'm locking her in my shop until we can get around to burial.  Then we're going to need as many soldiers as we can gather.  I think dad and Mystien took the best with them, but we need a few more yet, particularly someone with excavation experience.  We're going to find what little pus filled boil these men came from and lance it."
+
+While the boys went and gathered up who they could I set up a makeshift morgue.  I couldn't freeze time, but I could make things cold with ease, and make items that would do it similarly easily.
+
+In only a couple of hours we'd managed to assemble a force.  One of dad's subordinates had chipped in, along with several of the teachers from the academy.  They'd be doing the digging while I pointed.  It had taken a few minutes to figure out where exactly they were, but I'd guessed right, definitely the undercity, between the richer and poorer districts.  There was almost certainly some tunnels they were using to go up and down, but those could be found later.
+
+"That way, forty-five degree angle, approximately three hundred yards," I stated to the wizards who were in charge of boring.
+
+I was impressed at their speed, these guys certainly knew their business.  The city street disappeared in an instant, and a tunnel quickly formed.  Rock flowed and moved and soon we made it into the lower layers, busting through someone's basement, then a bit more rock, some tunnels which were more tightly packed than I'd expect.
+
+Soon enough we broke through to the cavern they were using for their base, and the first wave of knights burst through.  The invaders hadn't been expecting this clearly as they didn't even have enough time to panic.  Our fastest knights led the way, cutting and slicing with rapidity till they got to the gate, then piling through before anyone could stop them.  Their job, first and foremost was to take both sides.  It was not to be broken this time, this time we were taking the fight to their base.  We might not be the ones who secured the assets that would be needed in the near future, but we were certainly going to be the ones to end this threat once and for all.

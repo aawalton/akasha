@@ -1,0 +1,325 @@
+---
+id: d97c8486-bc6b-5bca-885b-12399cca6ff0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 558 - Their Remaining Time"
+slug: 0058-chapter-558-their-remaining-time
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 58
+ownLength: 3010
+unit: words
+ownProgress: 3010
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2256561/chapter-558-their-remaining-time"
+royalRoadId: "2256561"
+markedReadAt: "2026-06-29T19:37:09.263Z"
+---
+
+Tala and Rane regarded the large elk-Sovereign curiously. Terry crouched as if torn between attacking the prey animal before him and fleeing from the powerful creature. He was obviously more than just those instincts, and so he stayed put, ready to follow Tala’s lead in how she wanted to handle this situation.
+
+-Wait… wouldn’t this be a god-beast?-
+
+I suppose? Is that really pertinent right now?
+
+-I suppose not…-
+
+The Forest Spirit seemed somehow different from Anatalis. He seemed more connected with the world around them than the wolf had.
+
+Tala frowned. No… that’s not right…
+
+It was more like the Forest Spirit was controlling all parts of the forest, where Anatalis moved through the forest, only affecting what he needed to in order to proceed.
+
+The elk altered his surroundings to blend with him and so that he could simply be, the wolf blended with his surroundings in order to move through in pursuit of his quarry.
+
+The result was similar, but the methods were very different.
+
+The cervid tilted his head to look at Tala’s middle before his will rippled through the surroundings, clearly conveying an idea.
+
+Offspring.
+
+Rane’s eyes widened as he processed the conveyance, and he looked to her in confusion.
+
+Tala immediately stiffened, thinking the elk had somehow felt a baby within her. A baby that shouldn’t be possible, but maybe… Did we…?
+
+Her perspective dove within herself, searching and seeking for any evidence of— -Tala…-
+
+Alat interrupted her frantic searching, causing her surging thoughts to stall. She didn’t want to stall, she wanted to keep looking. She practically growled at her alternate interface as she responded, What?
+
+-Tala, I’m pretty sure that he means Walden. He senses his offspring…-
+
+Tala felt a clawing void within her chest at the realization that Alat was right, and her frantic searching turned to a feeling of helplessness. Oh…
+
+She took a moment to master herself, especially since she’d found herself in a rather… tenuous situation. Rane was at her side, seemingly having realized what she had. Even so, his hand on her shoulder was a great source of comfort.
+
+Once she’d pulled herself together, she met the large elk’s human eyes. “Forest Spirit. Your offspring is not free to come forth.”
+
+Known. The feeling that was conveyed was one of a boulder, unchanging before the storm.
+
+So he was aware. “Then, what do you wish to accomplish by indicating him?”
+
+Known. This time, what Tala understood was something very like the feeling of an ant leading its fellows to a place rich in available food.
+
+“You want me to know that you now know where he is?”
+
+Always. Time passed, ages came and went, and yet nothing really changed.
+
+That is what Walden had implied, but Tala had assumed that it was simply a misunderstanding in some way. What parent would leave their child so confined?
+
+Apparently this type…
+
+Rane grunted. “Well, I guess we knew that. Good to confirm though… right?”
+
+Tala grunted as well. “Yeah…” She then turned back to the Forest Spirit. “Alright. I understand. You know where Walden is, and you always have. I assume that that is not why you have come?”
+
+Rane gave her an incredulous look, and she could practically hear his skepticism at the path she was taking, but he didn’t interfere. He trusted her completely. Still, she could practically hear his words in her head, asking if she could maybe give the Sovereign level being a bit more respect.
+
+She gave him a knowing smile, but she was decided on her course, at least for the moment. “I’ll ask more directly, then. Was it you who stopped my experimentation with the Leshkin?”
+
+The great forest of antlers shifted to the side as the Forest Spirit tilted his head in consideration.
+
+Finally, he seemed to come to a conclusion.
+
+No. Did he make the rain fall? Did he make the sun shine? Did he make the magic flow through Tala’s gate?
+
+She laughed, feeling a bit of tension release, even as a bit of irritation built upon what was already there.
+
+-Well, Anatalis did say that the Forest Spirit was frustrating.-
+
+Yes, well, I didn’t think that he meant that the very act of trying to communicate with him was the frustrating thing…
+
+-Yeah, I didn’t either.-
+
+Tala took a moment to consider the interactions. Speaking with the massive elk was like hearing the world itself responding to her… No, that wasn’t right. It was as if the forest rose up—despite the Leshkin overlay—to respond.
+
+That is not how the original interference had felt. That had felt like her own power responded to a higher authority, acting under a different will.
+
+“Did I somehow push against a rule of existence? Did I violate it somehow?”
+
+Rane looked at her with a frown of confusion, but he didn’t interfere. He seemed to feel no need to truly participate in the conversation, content to let her continue to take point.
+
+The Forest Spirit shook himself, the canopy far overhead rippling in an unseen wind to allow a cascade of flowing lights to ripple through their surroundings.
+
+Precisely.
+
+“And you heard and came to see for yourself who had caused the reaction.”
+
+There was no need for the elk to respond.
+
+“So… Do we have an issue? What is needed between us?”
+
+Understanding.
+
+That word carried with it a truly overwhelming flow of information, and Tala was suddenly, briefly someone else.
+
+* * *
+
+Rhi Mrenin, Lord of the Mezzannis, stood at the heart of his great tree, prepared to defy Existence itself.
+
+His power was approaching Sovereignty, but he’d chosen long ago that he would never seize power for his own sake. He would turn it into prosperity, longevity, and power for his people.
+
+Those broken humans showed the power of such deviance, gaining seemingly infinite power by virtue of broken souls. Even though Rhi knew that it had come at great cost, he saw the potential that it represented.
+
+He was looking to the future, and his people were on the cusp of decline. Even so, their affinity with nature should have let them continue to grow forever, but Zeme was neither kind nor fair.
+
+The soul… he would not touch that. He did not desire to risk condemning his people to a horrid fate after they finally died. He wished simply to preserve and expand their potential in the moment.
+
+His concept thrummed in harmony to that desire. Corrosion seemingly the antithesis of growth and prosperity.
+
+He knew better.
+
+He could break things down in the right way to build them back better, to make them more able to meld and combine into something greater.
+
+Corrosion was one of the most useful concepts in creation.
+
+As such, it was time.
+
+He reached out, seizing his people’s love and loyalty to himself, along with their belief and understanding that they were one people with one ruler.
+
+It took almost all his power to hold such a disparate, intangible thing, but he managed it before taking the step that would make an individual into a Sovereign, dragging every Mezzani with him.
+
+POWER.
+
+It was almost overwhelming.
+
+He should have used this burst of power to secure his own eternal existence, cementing his hold on that which would fuel him for eternity, but he’d chosen another path.
+
+His concept flooded outward through the connection, amplified and refined by the shared ascension. It washed through every individual of his race, obliterating everything superfluous even as he drew his people unto himself.
+
+Their spirits were instantly unified by his actions, their souls free to move about as never before. More to the point, just as he’d theorized, they didn’t die. From the matriarch on her deathbed, to the new spud, not yet free of the soil, they were all now equal in the great unified whole that was his race.
+
+As each spirit-soul individual came to him, it rebounded after strengthening its connection to him before landing among the plants they loved so much and forming a new form to inhabit. Each new form showed the preferences and desires of the one who’d created it, who would inhabit it.
+
+He knew that the slaying of such a body wouldn’t kill his citizen.
+
+When the last one rebounded from him and forged a new body from the verdant plenty of their home, he knew for certain. He had done it. His people were safe, forever.
+
+Moreover, they’d each maintained who they were.
+
+It was a nearly perfect outcome.
+
+But his choice had a cost. The power raging through him from his bound concepts and masterfully forged dominion was too much for even a Hallowed such as he. It was obliterating him. The only reason he was still him was because the very act of being corroded empowered him through the application of his concept.
+
+Unfortunately, he had passed the point of no return. Even if he slew every Mezzanni and consumed their life and energy, it wouldn’t be enough to save him.
+
+So be it. He’d made his choice and would gladly accept this fate.
+
+Even as he strained against the agony within his very soul, he felt peace. His passing would secure the future of his people forever more.
+
+Except… he didn’t pass.
+
+The pain simply continued to slowly build within his being.
+
+After a day, his body shattered, but he didn’t die. His soul and spirit were as interlocked and held within Zeme as the least of his people.
+
+On one side, that meant that he’d achieved the very immortality that he’d thought would be denied him as the price for his act.
+
+On the other, that meant that no price had been paid.
+
+Existence itself required a price to be paid, and that price—for the moment—was his agony.
+
+It took three hundred years before the building agony shattered his mind entirely. The ripples of that destruction shredded the consciousnesses of his people, killing the individuality their Lord had striven to maintain.
+
+If there was one blessing in that it was that he was no longer capable of mourning the loss, the failure.
+
+Five hundred years later, his soul shattered into four shards, so steeped in power that they could have each been the core of a Sovereign.
+
+Even so, it did not end.
+
+It would never end.
+
+Another would have use of—
+
+* * *
+
+Tala dropped to her knees, panting. Spots swam in her vision, and her head pounded.
+
+It made no sense.
+
+How could that have created the Leshkin? What did that have to do with her experiments?
+
+Rane knelt beside her, offering her his support.
+
+She leaned against him as she gathered her thoughts, at least a portion of the answer coming to her. “He didn’t want them to ever have a true body again. That was what his entire power was bent toward… That’s the outcome he paid for.”
+
+She looked up at the Forest Spirit and saw in the all-too-human eyes that she was correct.
+
+“So, since the price was paid, Existence was altered to make it so.” She frowned. The spirit of the Lord of the Mezzannis was the core of their collective existence, his soul—which had been the anchor—was shattered and lost to time. “Anatalis could disperse the spirit without violating Existence. You could too. Their suffering could be at an end.”
+
+The Forest Spirit let out a billowing huff. Forbidden.
+
+She met his gaze, levelly. “By you?”
+
+Nature.
+
+In that response, she understood what he meant, and she found that she disagreed. “No. Nature doesn’t care if one race, one species, one thing dies out. Nature simply is. A tree falls and dies, no matter if it has fellows or not. A rabbit is prey to the fox, even if the rabbit is without kin. Why should the Mezzanis… the Leshkin be elsewise?”
+
+The great elk let out a trumpeting huff, a fire seeming to kindle behind his eyes. Me.
+
+The response was so much more than a single word. The Forest Spirit straightened, seeming suddenly to utterly dominate the entire space beneath the canopy in every direction. Rather than an elk, he seemed to be a falling tree, an avalanche, a hurricane, and a flood all at once. He was the destructive forces of nature condensed and brought to a single point.
+
+Tala found herself flinching back despite her best efforts to stand firm.
+
+Terry flickered behind Tala, sheltering from the onrushing storm while being ready to help if needed.
+
+Rane slid backward, his authority scrabbling to find purchase and support her at the same time.
+
+Tala, herself—as the focus of the god-beast’s wrath—would have been obliterated or flung from the very world, except that the Forest Spirit did not wish it so.
+
+The moment passed, and as Tala pulled herself back together, the elk was already turning away.
+
+Feeling a bit of defiance, Tala shouted after the Forest Spirit. “Who are you to defy the world? Who are you to defy Nature itself? That which dies should pass on, and the Mezzannis are no more.”
+
+He paused, one hoof raised. Without turning around, he sent a tendril of power toward her.
+
+Tala felt the overwhelming authority of the power coming her way but was unable to move in time. A part of her felt like even if she’d had a thousand years to run, she couldn’t have avoided its approach.
+
+Alat!
+
+-I can’t do anything either. The Archive is locked from me. I think everything is locked down by that incoming power.-
+
+The extension struck her, utterly engulfing her in god-beast power, but she was not erased as she’d somewhat feared.
+
+Instead, she was bathed in the naked feeling of the Forest Spirit’s authority.
+
+She could sense every part of it, every facet of what had allowed him to achieve his position as god-beast of this forest.
+
+He was not subject to nature. It was his very ability to defy the tenets of nature that gave him power. Balance in nature was never permanent, even if it seemed so in the short term.
+
+Even if that ‘short term’ was on the scale of millenia.
+
+The Forest Spirit imposed true balance. He was the focal point of a forest, unending, held as forests had been in eras long forgotten.
+
+A people, undone by the folly of their king, maintained.
+
+The Forest Spirit was not to be mistaken as a guardian or a keeper. He was a god-beast for a reason, and she would do well to remember that.
+
+Anatalis was a god-beast of the natural order, and the Forest Spirit existed as an antithesis of that. Certainly, he was not the only possible antithesis, but he certainly was one.
+
+As Tala lay on the ground, suffused with waves of authority far beyond her ability to oppose or control, she suddenly saw the southern forest in an entirely new light.
+
+It wasn’t a place of life and growth.
+
+Almost all the trees were exactly the same size. New ones never grew, except around humanity’s cities. The canopy was all but a uniform height.
+
+This wasn’t a true, living, breathing wood. This was an edifice to stagnation, and a testament to the folly of traveling through eternity without changing, without being willing to bend to the march of time.
+
+She saw the flaws in the elk’s authority and somehow understood that such was one source of its power.
+
+It made no sense, and she didn’t understand how such could be the case, or what that meant, but for the first time, she felt like she’d been able to truly see behind the veil that separated god-beasts, Sovereigns, and—in theory—Transcendents from everyone and everything else.
+
+Tala felt like she came back to herself, laying on the ground, with Rane sitting beside her, close at hand without interfering with whatever she was going through.
+
+Force was laid across his legs, and his eyes constantly scanned their surroundings.
+
+Alat had likely informed him that she was fine, and so he was simply standing vigil.
+
+Terry was sitting on her sternum, watching in the other direction, awaiting her movement. When she sat up, he flickered to her shoulder. From there, he headbutted her cheek and let out a trilling squawk.
+
+Rane cleared his throat. “So… that was… something.”
+
+Tala huffed a laugh, then coughed and called a drink of water to her to cleanse her dry throat.
+
+-Oh! Mistress Ingrit saw my messages…. Oh…-
+
+What? What’s happening?
+
+-She’s mildly panicked that you’ve encountered another god-beast…-
+
+Well, I suppose that’s kind of her. Is she reviewing our memories?
+
+-Yes, she apparently pulled up my summary and was… displeased with how I started it.-
+
+Oh?
+
+-If this is the last entry, the Forest Spirit got me.-
+
+…That’s a little dark.
+
+-Well, I was a bit stressed.-
+
+So it seems.
+
+-...I’ve apologized. I won’t do it again.-
+
+Thank you.
+
+When that was sorted, she smiled at her husband. “Yeah, I suppose it was. That sort of puts a crimp in my plans…”
+
+“Oh?” Rane cocked an eyebrow at her, a small smile dancing across his lips. “How so?”
+
+“Well, I can’t practice fusing spirit and body, now.” She sighed in frustration.
+
+His eyebrow lifted. “Is that the only thing that you can learn from the experiments?”
+
+Tala contemplated for a moment, a slow smile spreading across her lips.
+
+She looked to Terry, who started dancing from foot to foot on her shoulder. Finally, he let out a triumphant trill.
+
+She chuckled. “No, I suppose it isn’t.”
+
+Rane helped Tala to her feet and gave her a kiss. “So, shall we go hunting then? I think the Leshkin might be a bit harder to find now, but that just makes the pursuit more interesting.”
+
+Tala chuckled again. “Well, nothing worth doing is easy.” After a moment’s hesitation, she amended, “But let’s try to avoid that happening again.”
+
+Rane nodded his affirmation, and Terry squawked in agreement.
+
+With that settled, the three set out to use their remaining time in the southern forest wisely.

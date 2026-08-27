@@ -1,0 +1,135 @@
+---
+id: 83586888-c515-58ed-b84a-8b3f1bb07f3b
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 13 - Starry Starry Night (2) "
+slug: 0025-chapter-13-starry-starry-night-2
+partOf: metaworld-hopecore
+position: 25
+ownLength: 1577
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368654/chapter-13-starry-starry-night-2"
+royalRoadId: "3368654"
+---
+
+Armand lived in Burbank, meaning he effectively drove past CSULA on the interchange from the I-10 East. Past 9 PM, the rush was back to being laminar, shrouding Armand and Eppie in the perpetual glow of headlights and brake lights.
+
+In the back of Armand’s uncle’s van sat her new painting, still wet, meaning it would sit in the painter’s airing rack until the paint cured.
+
+The ride took almost forty minutes, and Eppie made the best of her captive audience to discern the rumours she had heard about Luciana Mio. Armand, a natural storyteller, confirmed the general gist of the conflict between Luci and Valorie, but also confessed to being an outsider, since the art Seniors were largely confined to their studios.
+
+Hugging her legs, with her bare foot on the leather of the car seat and her wet shoes in the trunk, she also took an interest in her saviour, the painter who had leapt down a flight of stairs to pull a girl out of the surf.
+
+Armand Amar, with his clean-shaven square jawline, was of Persian descent. He was a straight-A student and lacrosse teamster until he joined LAPA’s art stream to pursue his dreams. His family lived in Burbank, and they were reasonably well-to-do, at least compared to their migrant peers. His father, almost typically, was a Civil Engineer for Caltrans. Mr Amar’s dream was for Armand to be an architect. His mother, Armand said with far more gusto, was an Art teacher. She was the source of his love of art, and this brought on his father’s ire.
+
+Theirs was an arranged marriage from the old country, and though his parents had been good friends, the artistic pursuit of their son—the first to be born in America and thus the inheritor of their hopes and dreams, was a ticking bomb.
+
+At 9:55 PM, they pulled into the lot at Stratford-upon-Avon to be accosted by Josefina.
+
+Josefina had a wooden spoon.
+
+“Ave María Purísima! I knew it. I hear a squeak like a dying possum and I see you stepping out of a suspicious van! What is this then? Who is this young gentleman?”
+
+“Josefina,” Eppie stepped out. “This is Arm—”
+
+“AEEE—!” Josefina’s shriek rang out across the front rotunda. “Virgen de la Altagracia, ayúdame! Eppie, look at your feet! Your skirt—it’s soaked! You look like you crawled out of a swamp!"
+
+“The ocean, actually, I—”
+
+“I can see your bra! Dios! Are you a Siren? Who is responsible for this? This young man? He is not wearing shoes. NEITHER ARE YOU! What have you done? She is a child!”
+
+She advanced on Armand with the spoon.
+
+“I fell into the ocean, and Armand pulled me out! He’s a Senior from the Arts department, he offered to drive me home! I can’t catch a bus dressed like this! Can you imagine?”
+
+Josefina stopped.
+
+“Is it true? Mr Pintor? You did not bully our Eppie?”
+
+Armand nodded, his eyes still on the paddle.
+
+“Hmm,” Josefina grunted, her voice losing its jagged edge. “Fine. Thank you, Mister Pintor. You understand, I hope. These girls, very young, very… young. They have their heads in the clouds—en las nubes—all day with their Antigone and their acting. They forget that the world is not a stage. The world is not kind."
+
+Armand nodded, slowly this time.
+
+“She drink?” Josefina interrogated Armand.
+
+Armand shook his head.
+
+“You drink?” Josefina interrogated her.
+
+Eppie made a defiant face.
+
+“Okay. You smoke?” She raised her paddle at Armand.
+
+“Mama Josefina!” Eppie put her bare foot down. “Please!”
+
+“Hmmph—” her dorm mother huffed. “Alright, come inside. Not you. You.”
+
+“Mama,” Eppie raised her hand. “I still need a minute. I need to do something for Armand, and then I’ll be right up.”
+
+"Ay, Dios mío..." Josefina muttered as she palmed her face. “This is only the first week. Alright, birdie, I keep the door unlocked. Five minutes. Nothing more. I am warning you, Mr Armand. I know your face now.”
+
+Before Eppie could clarify, her dorm mother was gone.
+
+“Let’s make this quick,” she motioned for the oval just over the retaining wall east of her apartment. The walkway was made of fine concrete and soft grass, and the sunken nature of the athletic field meant they had plenty of privacy.
+
+Still barefooted, the two slinked into the dark like foxes in the night.
+
+Armand Amar felt that he was in love.
+
+Bathed in the pale light of the low-frequency lamps ubiquitous to CSULA, the girl was a living Marid he had recovered from the sea, tottering about the grass like a spectre.
+
+As a classically raised Persian boy, there weren't exactly a great number of opportunities to engage with the opposite sex, and tonight was a night of many firsts for Armand.
+
+The first time he pulled a girl from the sea. The first time he painted a masterpiece.The first time he drove a girl home, alone. The first time he stood with a girl in the dark, in the park, and she wasn’t even wearing shoes.
+
+To say that Euphemia Fontaine was beautiful was an insult to his artistic aesthetics. The girl was objectively beautiful, and after tonight, he could not imagine anything more beautiful would ever appear again in his life.
+
+He had been interested in her at first, because it was the artist’s duty to be the scribe of his heart. And as a Gen Y, he knew how to do his homework through social media. Once they were on a first name basis, he had trawled Myspace, subreddits and forums, and it wasn’t long before he found compelling evidence that Eppie was the girl in the St Marten’s video, and that she may very well be the forgotten Freshman who had dropped out for medical reasons.
+
+And when he did confirm it with the girl, his feelings grew even more uncontrollable.
+
+“Alright, sit,” the girl commanded.
+
+Armand sat.
+
+It was a perfect moment. Him and her, on the wet lawn, alone in a field of mown grass, the faint sound of the highway haunting the air, the yellow light of CSULA illuminating her perfect face.
+
+She handed him her phone. “Could you record this? I am going to need it.”
+
+He nodded, manipulated her thankfully undamaged Sony and became a human tripod.
+
+Eppie shook herself out, her body becoming suddenly, indescribably neutral, as if it was open to any and all possibilities.
+
+And then, she began to sing.
+
+She began with the hymn of the sea, her cello-like voice creating a cascade of flowing notes that haunted the nighttime air with their melancholy. Her first line, that of Gogh’s “Starry Starry Night,” filled his ears with synaesthetic colour, first blue, then gray, then the contour of shadows playing upon the hills behind them.
+
+By the second verse of the eulogy, Armand wasn’t just hearing about Van Gogh. He was seeing the painter through Eppie’s dauntless, unbroken voice, swirling through the bars like his own brushstrokes.
+
+Her voice trembled, quiet and sad and paralysed by a depressing palette of dark, Tyrian haze. There was texture to her sound, her song, she was singing, somehow, in impasto.
+
+By the fifth verse, Eppie was no longer there.
+
+Armand saw the window from which Gogh saw the world. He sat beside the artist as the melody played, powered only by the soulful vocals of a petite nightingale in the dark, gently calling to the artist’s soul.
+
+He saw them, the frameless heads on the walls, masterpieces that could not be sold, works of wonder that no one recognised because they were so beyond his time. He saw Vincent’s eyes, staring into his very soul, the same blue eyes as Eppie, ultramarine near the edge, and baby blue near the pupil.
+
+His idol had started late. After failing as an art dealer and a preacher, he turned to the canvas with singular intensity, producing over 2,100 works in a single decade while remaining financially tied to his family. When the master of impasto died, he had only sold one painting. He saw a body, indistinct, in ragged clothes, a rag-doll in the linen snow, bleeding out in a wheat field. In the final verse, it seemed that Eppie’s voice had become a choir of one, echoing the solitude of all artists who were forgotten, abused and maligned.
+
+Like a dream, the final, high-tessitura note faded into a whisper, and then there was only the applause of the traffic in the distance.
+
+He was crying. He understood now.He understood his mentor, his idol, his suffering master as he never imagined possible.
+
+The girl… was once more just a girl. A very pretty girl, but just a bare-footed girl standing on the wet grass, her eyes gently brimming with emotion.
+
+Armand’s head was on fire. He wanted, more than anything, to break into his campus studio and paint his masterpiece, his Final Project.
+
+“Eppie,” Armand said between choked syllables. “I… I think I need to keep that painting for a while longer…”
+
+“The painting… doesn’t matter,” the girl leaned in, and gave him a gentle peck on the forehead as she plucked her phone from his hands. “I think you are destined for great things, Armand. You will be an artist, an immense artist. You can take that to the bank.”
+
+After that, the girl left, and Armand was alone in the field. No. Armand told himself. Not alone.
+
+He was now with Vincent.

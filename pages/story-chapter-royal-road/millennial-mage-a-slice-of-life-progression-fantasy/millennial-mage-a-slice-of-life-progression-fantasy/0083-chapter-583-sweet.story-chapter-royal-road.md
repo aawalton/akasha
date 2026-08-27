@@ -1,0 +1,287 @@
+---
+id: 943a5dab-9c7f-59a4-b02b-b9648fcb76a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 583 - Sweet"
+slug: 0083-chapter-583-sweet
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 83
+ownLength: 2910
+unit: words
+ownProgress: 2910
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2408259/chapter-583-sweet"
+royalRoadId: "2408259"
+markedReadAt: "2026-06-29T19:37:57.356Z"
+---
+
+Tala sat with Rane and Lea, Terry asleep on his back, sprawled in Lea’s lap.
+
+Tala had conveyed Mistress Jenna’s idea about hair for Lea while skipping over the woman’s antics in other regards.
+
+After listening intently, Rane was remaining quiet, while keeping a watchful eye on their daughter.
+
+Lea was absently stroking Terry, seemingly lost in thought as she inspected the bird and his feathers.
+
+“Lea?” Tala prodded gently.
+
+Lea moved her hands down to Terry’s legs and the tough hide there, her fingers going to his talons that were lazily curled into loose fists.
+
+Tala was about to speak again when the girl looked up, an unnoticed smile tugging at the edges of her lips.
+
+“Hair is pretty. I would like to be pretty. I can have hair.”
+
+Rane shifted over a bit, putting an arm around the girl and speaking gently. “Lea, you don’t need hair to be pretty.”
+
+Lea leaned her head on Rane’s shoulder, having to sit up extra straight to make that happen. “Mother has hair.”
+
+Tala chuckled. “Just because I have something doesn’t mean you need to. Are you sure?”
+
+“Yes.”
+
+And that seemed to be enough.
+
+They talked about it a bit more, but it wasn’t like Tala and Rane wanted to dissuade her from having hair. They just wanted to make sure that she was actually choosing.
+
+Yup, I must have my newborn’s opinion on her own hairstyle… headstyle?
+
+-Funny, but you know that this is obviously different than that makes it sound.-
+
+Of course, but I was just thinking… This experience will not give me common ground with my sisters nor sister-in-laws.
+
+Alat burst out laughing within Tala’s head. -I can see it now. ‘Oh, you think Tamera potty trained fast? Lea has never had an accident.’ They’re going to love that.-
+
+‘Oh, your toddler has sixty words? That’s so bright! I know my Lea struggled to get more than a few hundred for the first couple of hours.’ Yeah… maybe we shouldn’t compare…
+
+-One more, one more! ‘He’s walking so well! Lea definitely struggled initially when moving from walk to a sprint.’-
+
+Tala hesitated at that. Oh… hmmm. She found herself tearing up a bit as memories of some of Illie’s first steps came back to her alongside a realization. Lea didn’t have true first steps, not really. Nor will she have…
+
+She swallowed, forcing the negative thoughts away and focusing on the good.
+
+Rane was able to see her face, and he was giving her a concerned look.
+
+She smiled his way, making a calming gesture. He understood that they’d talk about it later if needed.
+
+It was after lunchtime, but they’d neglected to partake of that meal. Still, the food was ready and available. Additionally, there would be plenty for Lea as well because Tala had requested more food from Mistress Petra.
+
+The woman had come through, just as always, and the mini-feast was ready and waiting. The perfect distraction for Tala, and new experience for Lea.
+
+“Come on. Let’s eat a late lunch.”
+
+Lea perked up at that, and Terry even opened an interested eye.
+
+Rane smiled. “That sounds like a wonderful idea.”
+
+They spent the rest of the day together, just the four of them. After food, the adults tried teaching Lea various games with mixed results. Terry just watched, uninterested in playing for the moment.
+
+Lea was very good at games that just required good observation and basic forward thinking, such as tic-tac-toe and three-dimensional connect four. She was even able to approach some basic strategy games with a modicum of skill. On the other hand, those games that required not only solid strategy, but an understanding of what others might do? Lea struggled in those.
+
+That was fine, she still needed to build a depth of experience, and they all had fun regardless.
+
+Well… they had fun after a few incidents of out of control frustration.
+
+Lea, obviously, wanted to win in the games. Because of that, after losing a few times, she pouted off to the side, momentarily refusing to play again.
+
+Tala sat down beside her daughter. “Lea.”
+
+“What.” The tonality was almost an accusation rather than a question.
+
+“Why are you upset?” Tala kept her tone carefully neutral.
+
+“I lost. Again. I always lose.”
+
+“Really? I thought you won the last game of connect four?”
+
+“...I did.”
+
+“So, do you always lose?”
+
+“No… but I feel like I always do.”
+
+“I hear that, and you are okay to feel that way, but you have to remember that just because you feel that way, it doesn’t make it true.”
+
+Lea frowned, lifting her head to look at Tala in confusion. “That doesn’t make sense.”
+
+“How so?” Tala gave a small smile.
+
+“If it isn’t true, why is it okay to feel this way?”
+
+Tala was impressed by her continuing developing language, but that wasn’t the point of the moment. “Well, sometimes our feelings aren’t rational. Sometimes they don’t make sense. But we are still feeling them, and trying to pretend like we aren’t doesn’t work.”
+
+Lea’s frown deepened before she put her face down once again. “I don’t understand.”
+
+Rane, who was across the table from them, smiled. “The feeling is real and true. It is true to how you feel, but that doesn’t change reality. We need to be aware of both and act accordingly.”
+
+“I don’t understand.” This time, the repeated words sounded more like a plea, and Lea rocked a little in place.
+
+He nodded as if what she’d said was the most logical thing in the world. “Well, you feel that you never win any games. That feeling is true. It is how you are feeling. Your mother and I need to understand that, and try to shift how we’re playing with that in mind. We probably won’t let you win, but we clearly need to help you see the games differently, if that is what you are taking from it.”
+
+Lea lifting her head to tilt it to one side, her frown shifting more toward a look of consideration.
+
+“In reality, you’ve been winning some and losing some. If you were actually losing every single game, we would need to approach the situation differently, as that could indicate other things.”
+
+She was uncoiling, fully engaged now. “What other things?”
+
+“Well, it might tell us that you didn’t understand the game or games fully, and we should take more time to teach you, or teach you in a different way. It might tell us that a game is too advanced for you right now, or many other things, depending. But those aren’t the case.”
+
+Lea gave a slow nod. “I think I understand.” The girl took a deep breath, nodded once, then grinned. “Let’s try it again.”
+
+Ten minutes later, she was curled up on her chair once more, grumping.
+
+The game pieces were scattered where they’d fallen after Lea slapped the board in frustration.
+
+Tala’s eye was twitching, and she ramped up to shout at Lea but managed to control herself. As she did, she had a flashback to her siblings screaming at her when they didn’t like what she’d done, and the occasional time that she’d pushed the woman who’d raised her into true anger.
+
+Huh… I was yelled at occasionally… Is that why I feel like yelling now? Is that why it seems like a reasonable reaction?
+
+-Maybe?-
+
+Still, she also remembered being talked to calmly. She remembered being drawn down from emotional highs, and she tried to lean on those experiences. Some of them were quite recent with Master Nadro and Rane. Mistress Odera too, but that thought just threatened to make her sad.
+
+While she was figuring herself out, Tala noticed Rane come around the table and sit next to Lea. “Lea. You are very upset right now, and you aren’t acting well. I want you to stay in that chair until you’re feeling calmer, alright?”
+
+Lea grunted.
+
+“Alright, then. Remember, you stay there until you feel calmer. If it’s ten seconds or two hours, take the time that you need to get back in control of yourself.”
+
+She nodded slightly in acknowledgement.
+
+“We love you, sweet. This doesn’t change that.” When Tala gave Rane a searching look, he shrugged. “A family of berserkers has to have some good ways to teach young ones how to handle powerful emotions.”
+
+Tala’s eyes widened. “Does that mean that she…?”
+
+“She might.” Rane shrugged again. “We can scan her soul for the boon, but that can also wait until later. The techniques still work.”
+
+Lea was peeking up over one of her crossed arms. “Berserker?”
+
+Rane smiled. “We can talk about it when you’re ready. Today’s already been a lot.” He hesitated, then glanced toward Tala. “Will Lea need to sleep?”
+
+Tala opened her mouth to reply, but then hesitated.
+
+Alat came into the conversation at that moment. “-She has something equivalent to a standby state in which her body will do repairs, realignments, and updates. It will also enter into a state of rapid back-and-forth with the controlpoint. So, yes, I think that it is critical that she sleeps, or at least does the equivalent. It’s possible that she won’t need to do so as much later, but with all the new things that she’s doing and experiencing right now? I think nightly sleep will be ideal for at least a few months.-”
+
+Rane nodded. “Good, good. So, Lea. After we have dinner, we will put you to bed to sleep.”
+
+Lea looked rather concerned. Rather than guessing about what might be the cause of the expression, Tala decided to just ask. “Lea? Is everything alright?”
+
+“Will… Will I need to go back into the tank?”
+
+Tala straightened a bit in surprise. “Oh! No, Lea, sweet. You won’t have to.”
+
+“-We will keep it, because if you ever get really hurt, it can aid in your healing, but I agree with Tala. You shouldn’t need to sleep in there.-”
+
+Lea seemed quite relieved. “Oh, good. Thank you, mother.” She then frowned. “Thank you, mothers?”
+
+Tala chuckled. “Either is fine.”
+
+Rane nodded before interjecting. “Where do you want to sleep? We can go through the house and let you pick your room?” He paused, giving a little smile. “At least once you are calm.”
+
+Lea seemed excited by the idea, so after she assured them that she was calm once more, they went to look at the couple of guest rooms within the sanctum.
+
+She seemed incredibly interested in the rooms—as she was with most things—asking all sorts of questions, but neither seemed to really ‘grab’ her.
+
+As they came out of the guest wing, heading toward dinner, she saw the door into Tala and Rane’s room and made a happy noise before bolting for it.
+
+Before they thought to do anything to stop her, she was inside, looking around in excitement. “Oh! I like this one.”
+
+Tala smiled. “Lea, sweet, this is our room.”
+
+Lea nodded. “That makes sense. Good. I’ll stay here too.”
+
+Rane shook his head. “No, Lea. This is our room, not yours. You need to pick your own room.”
+
+Tala glanced his way inquiringly.
+
+He shrugged, speaking softly, even though he realized that everyone present could hear him either way. “She does need her own space. I don’t think it’s appropriate for her to be in here, long term.”
+
+Lea perked up at that, and Tala closed her eyes in preparation of what she guessed was coming. “Oh! I can stay here tonight, then? How about until we make a room like this one for me?”
+
+Rane opened his mouth, but hesitated, glanced to Tala. She huffed a little laugh, shook her head, and lifted her hands in a gesture of mild surrender. “We probably should build her her own room. It won’t take that long, and a few nights in here with us would likely do her good. It wouldn’t hurt us either.”
+
+Lea clapped her hands with glee, but still turned to her father inquiringly. There had already been a few cases when one of her parents had been open to something and the other had said no. It was always that ‘no’ that ended it.
+
+Still, it hadn’t always been a no, and in this case, Rane nodded, opening his arms to beckon Lea in for a hug.
+
+The girl laughed in delight before slamming into her father with enough force to have likely killed a mundane man. “Thank you, father!”
+
+Rane didn’t even rock back, having magically negated the potential danger of the impact even as he wrapped his arms around his daughter. “You are most welcome. Come on, now. It’s dinner time.”
+
+* * *
+
+Tala jerked awake, a scream echoing in the room.
+
+Rane was already out of the bed, having magically launched himself free as he awoke.
+
+Lea was on a mattress that they’d pulled from one of the guest rooms, and she was flailing under the covers they’d gotten for her.
+
+Rane only took a moment to orient on her, and then he willed himself to the bed and the girl into his arms. He began rocking her, and making soothing, shshing noises.
+
+Terry peeked around the end of Tala and Rane’s bed where he had seemingly flickered as Lea cried out.
+
+Her arms and legs were jerking, and she was clearly not quite awake yet. Her eyes were clenched shut, and she was continuing to scream.
+
+Thankfully, with the sound negation workings on their room, there was no danger of disturbing Master Simon and Mistress Petra, nor was there any concern of them barging in.
+
+Rane grimaced against the incredibly loud sounds, but continued to try to comfort and calm the girl.
+
+Tala could see that her husband wasn’t quite awake, but he was trying. With an effort of will, she blocked sound from traveling farther than a half-foot from the girl’s mouth, instantly allowing their room to fall into a blessed silence.
+
+Rane jerked at the sudden loss of noise, but he quickly realized what had happened. He smiled her way, working his jaw to pop his ears, even as he shook his head. “Thank you. That was… loud.”
+
+Tala smiled briefly, then gave a frown. “Is she okay?”
+
+He shrugged. “I have no idea. I don’t know what’s going on.”
+
+Alat made an audible sound of a clearing throat. “-I fear that this is our fault. With all the information we gave her, her mind hasn’t had a chance to catalog it, and I’m sure that her consciousness is going through quite the rust-blasted landscape at the moment. Enar and I occasionally experience things slightly in this vein when we directly absorb too much at once. I’d thought we avoided that threshold, but…-”
+
+Rane grunted. “Alright. More traditional learning for a bit. Should I try to wake her?”
+
+Tala considered, then nodded. “At least to let her know she isn’t alone.”
+
+He nodded before lightly patting the side of Lea’s face. In Lea’s jerking about, she accidentally elbowed Rane between the legs, and the man stiffened, grunting as his face showed clear pain, but he held in any other reaction, just shifting to try to keep it from happening again.
+
+Finally, after trying several methods, he finally roused their daughter.
+
+Lea blinked up at him with clearly unfocused eyes. “Lea, sweet, I’m here. You aren’t alone.”
+
+As her eyes focused on him, her arms flashed out.
+
+Tala momentarily thought it was an attack, but instead, Lea wrapped Rane in a tight embrace, pulling herself close against him. It was a long few minutes before she was calm enough to do more than huddle against him and shake.
+
+Finally, as she slowly pulled back and made eye contact with Rane once more, he smiled down at her. “Do you want to talk about it?”
+
+“What was it?” Her voice was filled with uncertainty, tinged with fear.
+
+“It was a bad dream, a nightmare. They aren’t real.”
+
+She shuddered again. “Why is it?”
+
+He frowned for a moment before understanding. “Oh. Well… we believe that dreams happen when our mind is processing through what happened in the day. It’s our consciousness trying to make sense of new things we’ve come across. In your case, everything was new, and so you had a lot more to deal with all at once. I’m so sorry, sweet. We didn’t know that something like this would happen, or we would have tried to do something about it.”
+
+Yeah, we’re not telling our daughter that some nightmares are actually views into the Doman-Imithe. Well decided Rane.
+
+-He does have his moments.-
+
+Lea looked up at her father hopefully. “Can you?”
+
+“Hmm?” Rane was still looking a bit out of it. “Can I… what?”
+
+“Can you stop the nightmare?”
+
+“I don’t know, but talking about it can help sometimes. So can knowing that we’re here for you.”
+
+She huddled back in. “I don’t want to talk.”
+
+“That’s okay. You don’t have to.”
+
+She snuggled in closer. “Thank you.”
+
+Rane stroked her head and smiled down at her. “Of course, Lea. We’re here for you, and we love you, so.”
+
+“Love you too, father.”
+
+Tala smiled at her husband and gave him a questioning look.
+
+He met her gaze and motioned for her to lie back down, mouthing, ‘We’ll be fine.’
+
+She nodded, her smile growing before she lay back down and drifted off to sleep once more.

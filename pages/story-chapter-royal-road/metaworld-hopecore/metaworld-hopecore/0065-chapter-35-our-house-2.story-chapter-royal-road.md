@@ -1,0 +1,179 @@
+---
+id: 2a0bdead-a896-56cf-bbf4-94372cc246ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 — Our House (2) "
+slug: 0065-chapter-35-our-house-2
+partOf: metaworld-hopecore
+position: 65
+ownLength: 2276
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3381769/chapter-35-our-house-2"
+royalRoadId: "3381769"
+---
+
+Eppie’s throat felt dry. She now knew why Zara had skulled her drink before setting foot on stage. Zara was given Uncle Paco’s Flamenco Guitar, while Eppie was given a classic, an old thing with history and character.
+
+“We’re doing this?” she whispered to Zara. “Holy cows, we’re doing this? Now?”
+
+“It’s a thing,” Zara assured her with a grin no less nervous than her own. “Think of it as training for the Gala. There’ll be ten times the volume of people there, and far more judgemental.”
+
+As bars ought to do, the room grew louder the longer the music refused to play. Eppie tried her best to tune out the faces in the crowd. With her keen senses, she could hear then all: the father telling a story, the mother holding her daughter, the old men joking, the day labourer sipping his drink, the young men with big smiles.
+
+Zara tuned Paco’s guitar by ear. Eppie, in a mid panic, tuned her guitar by burning [Causality] on [Perfect Pitch], turning sound into colour and texture. This was her first live in front of an actual audience. She cannot afford to embarrass Zara and insult the musical credibility of the Arriaga household.
+
+“We start with Dream a Little,” Zara whispered, then started the silent countdown. Eppie’s [The Clockwork Pulse] kicked into gear as her other traits fire up their cylinders. Her fingers rested on the fret, taking on a life of their own.
+
+Zara opened the song as they had practised, her fingers picking through the unhurried introduction, the sweet-jazz chord progression warm and sleepy. Eppie joined after two bars, adding to the resonance.
+
+The room quietened, then her vocals rang out, clear as clarion on a cold morning day.
+
+Stars shining bright above youNight breezes seem to whisper, "I love you"Birds singin' in the sycamore tree
+
+Dream a little dream of me
+
+With [Vocality] and [Songstress] and her theatre training, not to mention concurrently running [Perfect Pitch], her voice struck the low ceiling and diffused itself like the delicious aroma of bacalao con tomate. She sang from the chest so that her original voice, which had a child-like pitch, grew deeper, more mellow, taking on the quality of summer sunsets.
+
+Stars fading, but I linger on, dearStill craving your kissI'm longing to linger 'til dawn, dearJust saying this
+
+The crowd pressed closer. People forgot to drink. The gravy-thick vocals issuing from the tiny female torso seemed impossible at first, but soon, even the visual spectacle was forgotten. Table by table, conversation ceased as eager ears joined the song circle.
+
+Her fingers strummed and plucked, their technique controlled by a higher power, moving from fret to fret like liquid.
+
+At the second verse, Eppie's sensibilities were lost to the [Sublime]. There was no room, no audience. She was living the music in technicolour.
+
+Zara’s strings followed with a life of their own, missing nothing, drawing out the richness of her voice. Her partner’s body moved with her own. Eppie could not see, but she could feel the connection between them, chord on chord, like fingers entwined, limbs entangled.
+
+By the time the bridge arrived, some people were already humming along.
+
+Sweet dreams, 'til sunbeams find youSweet dreams that leave all worries far behind youBut in your dreams, whatever they beDream a little dream of me
+
+The song ended, but the music continued. Eppie observed Uncle Paco. The old tocaor had his back against the wooden wall, a drink in hand and deep in thought. He caught her eyes as her gaze grazed him, upon which he tipped his hat a little.
+
+Eppie smiled. Her [Physicality] swayed with the music, borne on unseen tides. Zara’s fingers continued the lullaby, free-styling while Eppie caught her breath.
+
+They did not stop. The pair had a plan. A plan for the Gala, which would now be shown to the unknowing world for the first time. Jarringly, Zara’s fingers plucked the string in quick succession, the keys dropped, the notes fell, and the register suddenly changed. The shift in the room was immediately felt. People looked toward the girls in confusion, pondering the unexpected tonal shift.
+
+The next song bubbled up in Eppie’s chest.Not just the lyrics, but the feeling itself. Luciana Mio. Poor Mio. Out here in Fresno, instead of the stage where she belonged. She opened her mouth, and what emerged wasn’t what was planned for the Gala or shown to the Music Chair. It was something more RAW, organic, earthy—something from the heart.
+
+My girl, my girl, don't lie to me
+
+The room was still, but now there was only the sound of Zara’s guitar and her vocals cutting through the tepid air.
+
+Tell me where did you sleep last night.
+
+Before her audience could realise, the murder scene comes and goes. Some people gasp, and some people frown. Two young girls, singing a murder ballad, were not what they had expected. The song was grief without resolution, a lament of the sins of America’s past. It was soleares, solitude, and Eppie could see it creep into Uncle Paco and make the man sombre. Unlike her august, theory-stuffed audience at LAPA, these were simple men and women with Basque blood. They had been here working the land for generations. They knew the dark places that people won’t go. Some of them had been there, a mere generation ago.
+
+In the pines, in the pines, where the sun don't ever shine —
+
+Zara's guitarwork was relentless. Live, she played even better than in practice. Hotel Basque was her home field. Here is where the real Zara shone. Eppie’s voice clung to Zara’s notes, creating harmony, creating resonance.
+
+The last note faded out. The audience grew completely quiet.
+
+Was that it? Their faces ask. Where is the encore?
+
+Uncle Paco pushed off the wall, approached them with a dire purpose, then picked up a bass guitar from the floor and slung it across his shoulder in one smooth move.
+
+“De nuevo,” he declared in his exotic accent. “From the four-count.”
+
+Zara began the song again, Eppie listened, waiting for Paco to join. It took only two bars, then Paco entered the downbeat like a low-pressure storm from the hidden hills, a low, walking bassline that elevated Zara’s notes, bringing emotion, weight, and chronic depression to an already sad song.
+
+The ceiling felt suddenly lower. The candles burnt blue.
+
+Eppie felt the bass coming through the floor, through her legs, through her chest. Her belly felt funny. She wanted, more than anything, to sing.
+
+If the crowd had been abandoned in the woods before, they were now abandoned in the deep Apalachian South, a thunderstorm brewing on the horizon, rustling the pine needles.
+
+Eppie allowed herself to drift into the music. She allowed herself to enter Mio, battered and bruised and bleeding. But Mio wasn’t alone. Mio had Eppie to help her.Euphemia Fontaine, on the other hand…
+
+In the pines, in the pines, where the sun don't ever shine—
+
+Some of the audience, perhaps feeling the emotion in her voice, wiped moisture from their eyes. Her groan grows to a descending crescendo. The notes begin to linger.
+
+I would shiver the whole night through.
+
+Zara held the chord and freestyled four more bars. The bass note sung, hollow and long... then died.
+
+Eppie allowed her body to return to neutral, as they taught in Theatre.
+
+We need bass. Eppie acknowledged for their second playthrough. That’s what was missing.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+The room held its silence, not out of politeness, but because they knew this was a one-time thing. The girls would be gone thereafter, and this legendary moment would be passed on by word of mouth. It’s 2007. No one had their phones out here in Fresno. This moment would live on only in their heads.
+
+A child clapped. Then the spell broke. Clapping, clapping and more clapping, then the whistles, long and sustained. Someone made the sign of the Nazarene, and Eppie hoped it was a good thing.
+
+Zara was grinning so hard it looked like she might pull a facial muscle. Carmen and Pilar stood at the kitchen door, looking stunned, one holding a ladle, the other a spatula.
+
+Paco rested the bass against the amp. Zara’s Uncle looked at her for a long moment as the crowd died down and went about their business and their dinners.
+
+The old man picked up his tequila from the table, slugged it, then brought a different bottle with him. He ushered them to the backroom, out of sight of the patrons. He poured them both a drink. Something lite, something sweet.
+
+“Alright, Eppie.” Paco rested both hands on his knees. He was not a large man, but he loomed. Paco’s wrists were as thick as his forearm, Eppie noted, and almost all sinew. Paco was a man used to hard labour. Uncle Paco did not fuck around. “Alright…”
+
+The sound of the hotel fades.
+
+“Señorita,” Paco spoke with the tone of someone committing himself to some great cause. “Sweet melocotón, who hurt you? Tell Uncle Paco, and I will break this man open like a stubborn gourd.”
+
+Eppie almost spat out her Alma del Jaguar Añejo.
+
+Perhaps it was because she had had a sip of alcohol.Or that her brain blood had pooled in her belly to digest the food. Or that the music had put her in a mood.
+
+But Eppie found herself telling Paco almost everything. Mio. Father Parson. LAPA. William. Valorie. Simone.The Hospital. Eric. Curon. Her life since.
+
+She simply purged herself of everything that was pent up, then sat in her own sick, wondering why she had done that.
+
+Zara became a sobbing mess, and Carmen, who joined them halfway, hugged her niece tightly against her chest. Despite her anguish, Carmen spared a hand for Eppie, resting it upon Eppie’s finger, so that Eppie wasn’t bearing her emotions alone.
+
+“I am very sorry this happened to you.” Uncle Paco, despite his musical resonance, was still a lucid and reasonable man. He looked at his niece, then at Eppie’s face. “This girl, Mio, is here?”
+
+“In Reedley,” Eppie replied. “Father Parson is looking after her?”
+
+Eppie nodded. “I will take you to him tomorrow. I know Father Parson. He knows me.”
+
+Eppie wanted to protest. She wanted to say that Eric would take her, but she could see in Uncle Paco's face that this was a man who needed to act, or else he would live with regret for years to come.
+
+“This Mio girl,” Carmen allowed Zara to slip from her arms. Her expression was soft, but her eyes were hard. “Is she eating?”
+
+It was a strange question for which Eppie had no answers, but Eppie knew why Carmen had asked it. Human sustenance was important. If the body can eat, the body can heal.
+
+“I will give you some food to take for tomorrow,” Carmen said, then paused as if choking on a stone. “This boy, William, is still at school? In Zara’s school?”
+
+“He is.” Eppie nodded again.
+
+“No consequence?”
+
+“Not yet.” Eppie sipped her tiny beverage. It burned her throat a little, but she welcomed it.
+
+The family looked sombre as they considered her retelling of Eric’s words. “You should have told me…” Zara spoke from the arms of her aunt. “I could have helped.”
+
+“You’ve been helping all along,” Eppie told her with a wry smile. “We wrote the songs, didn’t we? We did the arrangement. What better revenge against people like William and Valorie than to exceed them? We’ll be true musicians, they’ll be… husks.”
+
+Zara looked at her as if to study her face, then reached over and took her hand like her aunt. It was easy to see where Zara had gotten her character from. “Thank you, Eppie.”
+
+Besides them, Paco watched all of this. He sighed, then leaned forward in his chair.
+
+“You have created something amazing with Zara, Eppie. It will make history, I am sure of it,” he said to her. “Zara has always wanted to be a musician in the mainstream. There is a lot that the Arriaga family owes you. As the head of this family, allow me to say something, a pledge.” The man’s expression was wholly serious.
+
+“If there is anything this family can do,” Paco's voice came from the chest as he held out a hand toward her. “Anything at all. You tell Uncle Paco. Tienes mi palabra.”
+
+In the bedroom, the girls took turns washing up and changing themselves for bed. They were both exhausted now, physically and emotionally. The temperate air outside has dropped considerably, fogging up the windowpanes.
+
+In bed, Eppie decided to check up on a few things, things like…
+
+[Causality: 122893]
+
+It was a very reassuring number. But it also meant something terrible was coming. “Eppie?” Zara’s voice pierced the veil as she texted Eric the changed plans. “Could you come here for a moment? Could we talk?”
+
+“Sure.” Eppie pulled back the curtain, then joined her friend on the double bed. Unlike herself, the shock of Mio’s story was too traumatic. Zara was older, but Eppie was wiser by far.
+
+“Could we sleep together?” Zara’s voice was hushed and fragile. “It’s cold.”
+
+“Of course we can.” Eppie slipped into the blankets. It was warm, too warm, but she would have to endure.
+
+“Thanks,” said the voice in the dark too terrified to dream alone.
+
++ Karmic Causality
+
+They did not talk. They merely lay side by side, her friend’s hand just under the blanket, holding her own, warm and snug and safe, not shivering the whole night through.

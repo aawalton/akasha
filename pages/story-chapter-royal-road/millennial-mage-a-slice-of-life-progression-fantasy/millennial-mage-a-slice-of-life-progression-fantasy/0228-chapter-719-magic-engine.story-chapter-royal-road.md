@@ -1,0 +1,243 @@
+---
+id: d10353e7-e724-5a0c-b61f-45a0f6f519a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 719 - Magic-Engine"
+slug: 0228-chapter-719-magic-engine
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 228
+ownLength: 2575
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3583740/chapter-719-magic-engine"
+royalRoadId: "3583740"
+---
+
+Tala willed Eskau Meallain back into the sanctum, causing the elf to glare at the sky before she headed toward a sparring ring that the Talons in the sanctum were using to maintain and continue improving their skills.
+
+At that point, Tala stopped watching the other Eskau. Instead, she moved her focus back to the dwarf who was leading her deeper into the labyrinthine chronicle.
+
+They didn’t chat as they moved from the diplomatic halls and into those that were slightly less well appointed. The smaller being didn’t even look back her way.
+
+I wonder how they determine what parts of their history go into what parts of the mountain.
+
+-I bet it’s decided by the rulers in some regard.-
+
+I mean… obviously? Who else would choose?
+
+-...Good point. Regardless, I would bet that the most minor records are shunted deeper faster, both to deeper portions of the mountain, and to deeper layers of each image. It’s possible that everything is recorded, but trying to find anything? …Wait. Oh, I feel the fool.-
+
+What?
+
+-You see that?- Alat highlighted certain magics interwoven with all the rest that suffused the whole mountain. -That’s an organizational tag. More accurately, it’s a sort of pseudo-archive, in that it is utilizing similar concepts but more locally attached. If I’m reading these magics right, the whole of the database should be searchable by those with the right magics or devices with such working added into them.-
+
+Well, that does make it a bit less of an overwhelming overabundance.
+
+Tala was careful to keep her perspectives reigned in, honoring the freedom given by the Mountain Kings by not exercising it upon their people and other potential secrets.
+
+It took near-to an hour to reach a door like any other—the seventeenth one of fifty in a long hallway between two junctions—and not even the largest of the set.
+
+The dwarf bowed and gestured. “I will not enter, but I will remain here to escort you out when you have finished.”
+
+She gave a nod in return. “Thank you.”
+
+With her senses so constrained—and so oriented on authority—she noticed the dwarf’s own authority rise just a tick as her gratitude. Well, rust. Maybe the foxes have the right of it after all?
+
+-Yeah… I’m not telling Lisa.-
+
+Me neither. I mean, gold to pastries he already knows, but still.
+
+Tala set that aside and opened the door. The wrought iron handle felt good in her hand, but it was also so thoroughly claimed that she felt not the smallest desire to subsume it.
+
+The mechanism moved smoothly, and the door swung inward on silent hinges, revealing a simple room, a twenty foot cube hewn into the solid stone, though magics had obviously been used to remove any cracks or flaws in the rock, leaving the door as the only breach in the black-speckled, gray surroundings.
+
+In the center, a thick column stood, wrought of unknown, dark gray material. It reached fifteen feet into the air and was easily seven feet from side to side, across its square cross-section. There were channels carved into the sides that were simple enough to seem to be just ornamental. They certainly had no magical function that Tala could determine despite the subtle, purple light that seemed to rest just beneath the surface in each.
+
+The primary feature evident on first inspection, however, was the magic that thrummed from the stone.
+
+It seeped directly into the rock below the column, entering the power system of the mountain city so cleanly and smoothly that it was no wonder that Tala hadn’t sensed it before she’d seen it.
+
+In the center of each side, up near the top, was a set of three gems clustered together, twinkling despite no obvious source of light.
+
+-What’s inside?-
+
+Dead god-beasts? Failed experiments? Tala sent a fake gasp. Dead, void-touched versions of me from other timelines and realities?
+
+Alat sent the impression of an unamused expression.-Don’t joke about such things.- Still, she seemingly couldn’t resist. -Might be the blood of an otherworldly entity… that we’re all living inside! Or, or! A purple cat, skeletal and stretched due to the power and void aspects flowing through them.-
+
+Tala rolled her eyes. Who’s joking now?
+
+Alat huffed, putting on a fake pouting aspect. -It’s happened before.-
+
+What now?
+
+-What now?- Alat’s response was almost disgustingly innocent in tonality, as the alternate interface clearly tried to bait Tala.
+
+Tala narrowed her eyes at the alternate interface. Do you really want to be doing this? Now?
+
+-No. I can practically hear screams of rage, begging for us to get on with it.-
+
+Tala frowned. I thought you ended the live feed for Mistress Holly.
+
+-Oh, I did. She won’t be using that exploit again.-
+
+Good. Tala pulled herself from the inanity as it had served its purpose. She was centered and ready for whatever this held.
+
+She allowed her perception to pierce the outer casing, and her left eye began to twitch.
+
+After a long moment of looking, she grimaced. She didn’t understand what she was seeing, and she couldn’t tell if that was because she was seeing too much or too little.
+
+Within the column and anchored to it, there seemed to be a massive expanded space which, rather than dangling into the void as was right and proper, seemed to be hanging into the next world.
+
+What?
+
+Reality within the column—fully hidden by the casing—was all a jumble, reality threads and nodes were seemingly interwoven and tangled around the outside, with not a single one extending inward.
+
+As if… It looks like what happens when someone dies. The connections with them are broken, and those of surrounding nodes are often strengthened, effectively inheriting some of the strength of the severed connections. Did… did they kill dimensionality? Is that even possible?
+
+Alat tsked in thought. -Well, if you think about it, Kit was more or less dimensional. If we anchored her irrevocably before killing her, we might have gotten something like this.-
+
+Tala instantly rebelled against such. The concept was to do with killing a part of herself, and she did not like it. But… That’s not how devourers work. When they are killed, they return to the void, and from there, they try to reconnect to the superficial.
+
+-No. That’s what happens when they are destroyed. For sapients, that’s generally the same thing, but what if one was genuinely forced to pass to the next world in true death?-
+
+Tala continued the thought. Only to remain anchored to the superficial as well. That’s… How is that not a gate?
+
+-First of all, we have been in here for less than ten minutes. This is a possibility, but don’t treat it as fact.-
+
+Right, right. Tala forcibly calmed herself. The very idea of yet another being like herself being enslaved and entrapped for magical gain was muddling her thinking. Thank you.
+
+-Of course. Now, to answer your question. This could be like the resorts we made, but rather than filling it with gated, it’s a single, massive pass-through.-
+
+So, if this is that or something like it, why would it be different than a gate? Why wouldn’t Reality… care… Tala groaned. Devourers aren’t sapient as a general rule. They don’t have a soul.
+
+-True, but I don’t actually think that matters.-
+
+Oh?
+
+-This would be an anchor, not a part of the being. Again, this is just a theory, but if it were true, the whole creature is dead. There is simply a magical ‘tap’ connected to them. It’s not bound by distance or anything of that nature. There is no breaking of the natural order. It is simply allowing power to flow out of the next world and into this one. It’s just a bridge, not a breach.-
+
+Tala sat down, leaning her back against the wall and looking up at the massive column. We’re getting hung up on one possibility.
+
+-True, but it is more reasonable than thinking they somehow killed the concept of dimensionality within a dimensionally bound area.- Alat raised a judging eyebrow, clearly conveying what she thought of that idea.
+
+Hey, it was as reasonable a first thought as any. Tala defended herself while agreeing that it wasn’t the best of ideas. Still, we have known arcanes with odder concepts.
+
+Alat considered for only a moment before conceding. -True.-
+
+Tala gave a happy grin as she realized something. Your first guess is actually a bit terrible too, now that I consider it.
+
+-Oh? Why is that?-
+
+Devourers don’t have souls. Even if they were somehow to be killed, they wouldn’t go to the next world.
+
+Alat was silent for a long moment before she responded. -So, moving on?-
+
+Moving on. What other possibilities are there?
+
+-Well, I think we should dig deeper and see what we can see.-
+
+Let’s.
+
+The next two hours were spent probing the column with every magic they had at their disposal. They even opened a large portal to let researchers take a look while keeping them in the sanctum.
+
+Tala even tried opening a portal inside the column, but that was blocked. She couldn’t tell if she was prevented by the Mountain Kings’ authority or something about the nature of magic-engine, but either way, the result was the same.
+
+Nothing seemed to interact with the outside world save for the constant flow of magic, making Tala confused, because she could have sworn she’d heard legends about these originally being intended to transform the world in some way.
+
+After one hour they did finally have a good guess as to why it was called an engine at least.
+
+While the column seemed to be utterly stationary—and was on a physical level—something about it slowly undulated, those decorative channels subtly opening and closing as the column extended upward and came back down.
+
+Except it didn’t.
+
+She was watching it very closely, and it never moved. Yet from moment to moment it would change size, like existence itself was breathing, and this was its lungs.
+
+But again, it wasn’t moving.
+
+It might be more accurate to say that the parts of surrounding dimensionality that it was connected to changed subtly over time, which made it seem to change size without actually doing so, but even that description didn’t convey the truth of things properly.
+
+Honestly, it was unlike anything that Tala had ever seen.
+
+Moreover, she’d slowly had the growing sense of a deep, thrumming roar in the background of her thoughts.
+
+She, Alat, and the researchers analyzed her body and found that no sound was coming in through her ears. Moreover, she was the only one who heard it. Even Alat couldn’t ‘hear’ it directly, though the alternate interface was able to experience it through Tala’s memory of the thing.
+
+In total, they simply performed every test and scan they could in the time that they had, planning on combing through the data at a later time.
+
+Finally, the dwarf in the hallway knocked on the door. “Mistress Tala? I apologize, but the time you were granted has more than elapsed. Should we return to the throneroom to petition for more?”
+
+“No, thank you.” She called back. “Two more minutes, and I will be ready to depart.”
+
+There was a moment of silence before the dwarf let out a heavy sigh. “Very well. I will escort you out, then.”
+
+Tala nodded even though he couldn’t see it.
+
+Then, she manifested Flow. All the ‘tests’ were done, but she could still test a couple of things on a more practical level.
+
+The researchers gasped through the open portal she was maintaining. “They said that I couldn’t hurt it, and that I could test anything I wanted. Let’s honor them by believing them.”
+
+Lisa rubbed his hands together in clear expectation. “Yes. Embrace the science.”
+
+One of the arcanes gave him a withering look. “It is not scientific to simply hack at what you are studying.”
+
+Lisa shrugged. “We have different methodologies.”
+
+“Clearly.”
+
+“You worry too much.” He brushed his garment free of non-existent dust. “This won’t even ruffle my tunic.”
+
+Tala was past paying attention to them, focusing instead on the task before her. She started by pushing Flow—in knife form—against the column.
+
+It didn’t cut or change anything about the thing at all. In this case, she was able to determine that no outside authority interfered. The column was simply that durable.
+
+She tried to slip the blade into the channels when they were open, but Flow’s tip stopped as surely as if the seemingly open channels were solid stone.
+
+She then shifted the weapon to manifest void-magics.
+
+The column reacted immediately… with a brief pulse of brighter purple light.
+
+That was all.
+
+After that, the void-blade tests gave the same results as those with the standard knife form.
+
+She took a breath. Her expanded time was almost up. “Here goes nothing.”
+
+She manifested magics of dissolution and cohesion, she wove them with void and reality, combining the three powers to make an ending blade.
+
+Lisa’s eyes shown with an… odd light in her threefold sight, and that made her hesitate for just a moment.
+
+Before that moment fully passed, a voice sounded in the room. “Mistress Tala, the Mountain Kings would appreciate it if you did not continue this test."
+
+The ending blade was suppressed. Tala felt like she might have been able to push through, but instead, she let the powers pull apart, returning Flow to its base state.
+
+Lisa grimaced then sighed, clearly disappointed but just as evidently not surprised.
+
+Tala noted his reaction for a later discussion—if she remembered—and addressed the voice. “Roarthac, I hear and will defer to you in this. Thank you for your forbearance with my experiments."
+
+“Of course. Should your data yield interesting results, feel free to petition for another look in the future.”
+
+She arched an eyebrow. “Assuming we survive?”
+
+“Assuming you survive. May you win through, if your cause be worthy.”
+
+Tala gave a shallow bow to the non-present Sovereign, and then she felt the authority withdraw slightly.
+
+She thanked the researchers for their time, and asked to be kept in the loop with what they learned, if anything, from analyzing all the data that had been collected.
+
+They agreed, and she closed the portal.
+
+And that was that.
+
+She exited through the non-descript door and followed her guide back up through the mountain to the same dock at which she’d arrived.
+
+After thanking the dwarf, Tala willed her flier to the superficial and sent her body to the sanctum, keeping her main focus and perspective centered around the construct.
+
+Without further delay, she flew from the mountain civilization, no richer with new allies, but thankfully in no worse position than when she’d arrived.
+
+The war council had created quite the itinerary for her over the next few days. She would be flying to many of the larger moving settlements in the Wandering Wilds to spread the call to arms.
+
+They estimated that it would take her five or six days to make all the stops, and at that point, she would meet up with Rane and together, they could come straight back to join in the assault on the Black Legion escarpment.
+
+Hopefully, by then, many fighters would have joined the encirclement from the arcane and Cycling Cities, as well as from the various powers in the Wandering Wilds.
+
+Soon. I will get to assault their stronghold soon.

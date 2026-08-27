@@ -1,0 +1,243 @@
+---
+id: 2c888805-60e5-5fb5-8aeb-4ea7b3ecf99c
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 708 - Recognition and Progress"
+slug: 0217-chapter-708-recognition-and-progress
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 217
+ownLength: 3195
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3452795/chapter-708-recognition-and-progress"
+royalRoadId: "3452795"
+---
+
+Tala straightened and sighed even as she willed the inert lieutenant automaton into the sanctum. Notify the war council and pass on all that we learned.
+
+Alat sent a slightly distracted response as she moved all the other automata in as well. They were getting quite the stock. -Doing so now.-
+
+Oh, can you reach out to the town? Do they need further assistance? Tala turned and glanced toward the still retreating, mobile village.
+
+There was a pause before Alat responded again. -They thank you for your intervention, and they are returning to their planned route. No further assistance needed.-
+
+Well, that’s good. Tala smiled, her good deed done, allowing her to—
+
+Alat interrupted her self-congratulations. -They have actually asked if there was anything that they could do for you.-
+
+Tala blinked a few times, feeling genuinely surprised. Oh? That was kind of them.
+
+-Indeed. I thanked them, but said we had what we needed and would be departing shortly.- It entertained Tala how both she and Alat had taken on the affectation of talking about herself as a ‘we’ even though ‘they’ were two sides of the same person. It had been going on for a long time, but sometimes it stood out. Language could be a funny thing.
+
+Good, thank you. Now, I have another resort to anchor. Tala huffed a laugh to herself even as she willed her physical body back into the sanctum, her flier coming to the superficial and setting out on a new course for Montranous.
+
+The rest of the trip was surprisingly uneventful, but to be fair, it only took a few hours.
+
+Montranous was situated in a large mountain valley with a pass on either side, making it almost impossible to perceive from the plains on one side or the coast region on the other. Still, it represented an important waypoint on trade between the coastal and inland arcane cities.
+
+While it did have a large surface infrastructure—nearly half as large as Platoiri when looked at in terms of square miles covered—most of the city lay beneath, both directly below the surface city and delving into the mountains that surrounded it on three sides.
+
+There were mines down there as well, of course, around large, ancient forms of magic that drew in the desired resources, slowing filling in abandoned tunnels with raw ore once more, enabling an eternal cycle reminiscent—if more static—than that which the Cycling Cities relied on for their own voracious precious metal appetite.
+
+Tala decided to go up and over rather than navigating the wide but winding pass. As such, she had to go thousands of feet up even as she guided the flier forward, her aura, authority, and abilities shrouding her flight and protecting reality as she progressed.
+
+She did spare a moment’s thought to how humorous it was. They were fighting agents of reality that were angry at the damage that gated were—and magic in general was—doing to reality, and here she was, expending energy and focus to minimize exactly that.
+
+We could be on the same side, if only they’d work with us instead of trying to obliterate us.
+
+-Well, that is sort of what the lieutenant was saying.-
+
+No, no it is not. He wanted to obliterate us, then have me clean up the last bits of their mess prior to my death as well. I’m talking about actually working together.
+
+-Like the spiders in most people’s houses. You want the bugs gone, they want to eat the bugs. If you could actually communicate, so that they didn’t bother you and you could leave them be, everyone would be happy.-
+
+…Are we the spider or the people in this analogy?
+
+-The spider of course.-
+
+Great…
+
+-But you see my point.-
+
+Tala sighed. Yes, Alat. Yes, I do.
+
+The mountains of the coastal range were surprisingly high, their peaks snow-covered year round, most of their upper slopes entirely untouched by the humanoids of the continent.
+
+Even so, they were anything but devoid of life.
+
+Tala was surprised to sense more arcanous creatures than magical, but she supposed that, over the years, such creatures could have migrated from the wilds around the Cycling Cities to the more isolated mountains.
+
+It was funny that she could so easily distinguish between the two types these days.
+
+Arcanous creatures were like arcanes—hence the origin of the pejorative—in that they drew in magic from the environment around themselves and used it for their own purposes. Apparently, there hadn’t been records of any such creatures before the first fount, and as such, their origins were almost universally attributed to founts and thus gated. Regardless of their origins, they took in ambient magic, trapping it away from reality and only using it sporadically and usually in very clearly defined manners.
+
+Magical beasts, however, were linked to some place or thing which held power—whether ambient or otherwise—and drew on that directly, effectively pulling sequestered power back into the world, into reality, in exchange for guarding, preserving, and enhancing that which they were bound to.
+
+Apparently, it almost universally led to a deepening of the well upon which they drew, thus creating a net decrease in ‘free’ magic to an extent greater than even arcanous creatures attained, which was why Mages and Archons often thought of magical creatures as reality’s chosen. It didn’t hurt that such creatures usually did not like gated in the least, given they represented an unbalancing of the bonded source of power that they’d most likely worked to improve for uncounted years, to perfect and empower.
+
+Whatever their origin, the mountains were filled with monsters both arcanous and magical, clashing for dominance and territory of one kind or another.
+
+Their efforts through the eons had left the rock and stone utterly saturated with sequestered power to the point that Tala wondered if even she’d be able to easily quarry the stone.
+
+She had no doubt that she could, but she doubted it would be easy.
+
+And the Great White North is said to be even more saturated… no wonder even the greatest Archons have little to no interest in venturing there…
+
+-Indeed.-
+
+Their flier passed high above numerous minor clashes. One was a bit more aggressive, and it sent shards of the impregnated rock thousands of feet up toward them.
+
+-Do a barrel roll!-
+
+Tala did so, the light flier barely executing the maneuver quickly enough to move out of the way.
+
+-That… that wasn’t a barrel roll. That was a lateral spin.-
+
+…Do you see proper aerial combat terminology anywhere in my mind?
+
+-...No. That’s fair.- Alat sighed in exaggerated disappointment.
+
+Tala frowned. Wait. How do you know it?
+
+Alat’s voice came back quite animated, as the alternate interface had clearly hoped that Tala would ask. -Lea overheard a few beast-kin who were telling stories, and asked me to explain the terminology. As such, I had to look it up.-
+
+Oh?
+
+-Yeah, it was a frog-kin, rabbit-kin, hawk-kin, and fox-kin. Apparently, one of the City Lords had wanted to inspire her people to reach toward the stars, but all that resulted from the attempted shift was that the House infighting incorporated aerial combat for a generation or two until everyone involved decided it was too costly and unpredictable to be worth the investment.-
+
+Tala grunted. She supposed that all sorts of things had been tried over the millennia, and she was unlikely to ever learn about all of it. Rust, with all that she had to do, and all that she was invested in here, she might not even ever learn more details about the other continent. After all, there were Archons and arcanes far older than her who had never made the trip.
+
+Regardless, she had arrived, and her arrival hadn’t gone unnoticed.
+
+Tala felt a momentary…poke? That was the closest she could consider. It was a poke at her authority, as someone was checking to see if aura and authority were genuine and whose they were.
+
+Tala’s flier was over the outskirts of the city, so she willed herself to the superficial, stowing the flier.
+
+To be polite, she locked herself in place and waited.
+
+A minute later, a dwarven man stood before Tala. Humorously, he hovered a bit higher than she stood, seemingly in order that their eyes might be on the same level.
+
+He wore what she thought of ceremonial robes, woven through with precious metals—in intricate decorative patterns, but not spellforms from what she could see—and gemstone accents.
+
+His gray-streaked beard was down to his waist and braided with incredibly intricacy, also shot through with metals and jewels.
+
+His coal black hair was plaited back in a manner that would keep the mane from interfering with his sight if he needed to move quickly.
+
+The stark difference between uniform hair and streaked beard had Tala glance at the dwarf’s roots, and not only was she able to—the man not seeming to have locked down perception around himself—but there was no difference. His beard was simply graying where his hair was not.
+
+After a moment’s examination, he sketched an appropriate bow. “Monstranous Thrannin, Iron Hammer and City Lord of Monstranous, at your service, Eskau of War.”
+
+Tala gave a bow of her head in turn before matching his ceremonial greeting. “Mistress Tala Sappherrous, Eskau of the House of Blood and of the War with the Black Legion, at yours.”
+
+She wasn’t honestly sure if the dwarf had changed his name to match the city, or if the city had been named after him. Both were common among City Lords on this continent, if they maintained any name at all. Most simply preferred to think of themselves and be addressed as City Lord.
+
+This was obviously not the first she’d heard of the man, having even interacted with him a few times over the past years, but she’d never asked after the particulars. She saw no reason to be changing that either.
+
+Still, there was one thing she’d been curious about, and given this was an in person—effectively private—meeting, she decided to ask. “If I may, Iron Hammer? It is my understanding that most City Lords forsake all previous names or titles.”
+
+He grinned back at her, the expression seeming more practiced than one of genuine mirth. “Ahh, but that is simply a reference to my friend here.” He patted his hip where a wicked looking warhammer hung, seemingly made entirely of an iron alloy. “I am bound to her, and she to me. It is only honorable to include her in the introduction.”
+
+Tala chuckled. She could see the numerous, thick reality threads between the dwarf and his weapon, to the point that their reality nodes were practically fused. So, she supposed it made some sense. “Understood. Am I right to assume you came out of the House of Iron?”
+
+His gaze hardened a bit, the political smile falling away. “You speak of leaving behind old ties, then seek to tie me down?” He shook his head. “Still, allowances can be made for the young and the powerful, and you are both, are you not?” He chuckled to himself. “Yes, in my youth I was an Eskau of the House of Iron. When my Pillar died to claim this valley from a reality drake, I decided to honor his memory and founded a town here.” He shrugged. “Strange are the paths we take to power.”
+
+She nodded in hearty agreement. “That they are. May I have your leave to walk the streets of this city? I would hate to be impolite.”
+
+He quirked a smile. “You are so careful to ask permission without implying a bending of authority. Interesting. I had heard you’ve shown that tendency.” He nodded approvingly. “It is good that you are not letting the power you wield as Eskau of War bleed into others. Such imbalances might be problematic after the Legion is no more.”
+
+Tala opened her mouth to respond, but he waved her off.
+
+“Nothing more need be said on the matter. Yes, you may enter and assist in this time of need. We welcome your aide with open hands and gratitude.”
+
+There was a relaxing in the air—the authority around them—and Tala gave a final nod of thanks before allowing herself to drop.
+
+It was time to anchor the second resort hold, and maybe, just maybe, she could repair the scar left by the column’s removal.
+
+But that would depend on how her task went, and if the researchers in her sanctum had anything to say on the matter.
+
+With the thought of them, she flicked her perception over the expanded space and hesitated.
+
+There were three doorways near the compound that she had built for the arcanes.
+
+When did the fox-kin move their homes? She could have checked her memories for the answer, but asking Alat was more efficient.
+
+-I was wondering when you’d notice. They did so before you and Rane parted ways.-
+
+…I was wondering why they didn’t complain about the separation from their bases of operation.
+
+-Indeed.-
+
+Tala sighed. In the end, it hardly mattered. She had work to do, and if they were lucky, that work just might make the reality of their situation that little bit better.
+
+* * *
+
+Lea couldn’t help but grin as both Pillar Tili and Eskau Kanabo sat off to the side.
+
+They weren’t quite winded, but they were worn out.
+
+Part of that was the fact that Lea was getting better at using this odd ability. Who knew that what I needed was to be out of the sanctum and using my own abilities.
+
+Clearly her parents had known, else they likely wouldn’t have agreed. They had said something about needing to ‘stretch her wings’ or other such bits of parental nonsense.
+
+She smiled in fond recollection for a moment. She did miss them.
+
+Regardless, she had found that she could extend her disruption onto the bodies of the Revered combatants even with their far greater metaphysical weight. She wasn’t able to strip them of power, but she was able to make the natural enhancement that came from holding magic within a physical body less effective.
+
+She doubted that she’d have been able to affect them to the same level if they’d had enhancement inscriptions or otherwise explicitly enhancing magics. They had also gotten better at resisting over time, but it was still clearly a struggle.
+
+Time and practice, like most things.
+
+In either case, she’d already worn Pillar Tili out twice, with a bout against Eskau Kanabo in between. She, herself, still had energy to burn, but her physiology meant that she would continue to be able to move and work as long as she didn’t tax her mind to the point that she needed sleep. While this was mentally taxing, it wasn’t any more so than studying a difficult, if interesting, subject.
+
+After a moment’s thought she internally amended that even with minimal mental load, she still benefitted from sleep every night, but she was aware that a portion of that was the fact that most humans needed such, and sleeping had always felt human to her.
+
+But such contemplations could be picked back up later. It was time for Eskau Pallaun, and Lea had to admit that she felt a bit nervous. Eskau Pallaun was someone that her mom respected and treated as at least an equal.
+
+He was widely regarded as one of, if not the, most effective combatants in the House of Blood, a House widely recognized for their nurturing and promotion of those most competent in each given area.
+
+The midnight black hue-man regarded her from across the sparring ring, his face impassive, his stance solid. “Are you ready?”
+
+She almost made a comment about him watching her in previous clashes to see her weaknesses, but they’d fought before in brief matches, so that wouldn’t make sense. Those had been brief and mainly focused on showing what sort of things he took for granted rather than true fights, but it still counted. Even so, this felt different. “Yes. You?”
+
+He gave a simple nod in response, and the fight began.
+
+Immediately, the light coming from around the rink attenuated.
+
+He hadn’t done that before, and it caught her off guard.
+
+It wasn’t really that everything became dim—though it did—it was that the light that got to her was oddly spread out, as if it were being slowed down. Something in the back of her mind said that couldn’t be it, though, because the colors were still correct.
+
+Regardless, her body was amazing in many regards, one of them being her always-active magic sight.
+
+By the light of what she could see, Eskau Pallaun stood perfectly still even while his magic moved toward her left. She held her features impassive, and didn’t let him know that she could perceive him, even going so far as to carefully look around as if she couldn’t.
+
+When he charged forward, she waited ‘til the last second to spin left and counter him… only to have him slam into her from behind, taking her to the ground.
+
+He tried to bring his protian weapon to bear, but she had enough control and wit to negate that. Unfortunately, it didn’t splash to the ground or lock up his arm. Still, he grunted when he couldn’t form it into a weapon.
+
+A small smile pulled at her lips. My victory, if a small one.
+
+After a moment’s pause he punched her.
+
+Lea was so startled that she froze up. He’d punched her. This was meant to be a weapons’ spar… or was it?
+
+He hit her again, and she did not like that.
+
+Her mind and body refocused, and bucked and twisted, many of her joints moving in entirely non-biological ways. The result was closer to flowing water than any normal technique, and the Eskau was entirely unable to counter it.
+
+Still, he was on his feet and blocking when her training sword came in, cracking against his forearm.
+
+They went back and forth like that for a couple more exchanges before he pulled back, exiting her aura and forming a spear from his weapon. When he re-closed with her, the weapon locked into that shape, but she couldn’t disrupt it.
+
+In an exchange of weapons, she was utterly outclassed, and soon she was forced to surrender.
+
+The light returned to normal, and she could suddenly hear the other two clapping and cheering at the display.
+
+Lea gave a hesitant bow, which Eskau Pallaun returned. “If I may ask, what rank of legionnaire do you believe you are mimicking?”
+
+She gave a rueful smile. “I’d love to say ‘commander’, but I think it is more accurate to say sergeant, maybe lieutenant.”
+
+He gave a thoughtful nod before bowing again. “Understood, and thank you, Lea. While the results of this field are similar to what you effected in the sanctum, the manner is entirely different. I will need several more bouts before I am confident in facing an officer of the Legion.”
+
+Lea nodded. “I too have much to learn it seems.”
+
+The man grinned. “I am happy to teach even as I learn.”

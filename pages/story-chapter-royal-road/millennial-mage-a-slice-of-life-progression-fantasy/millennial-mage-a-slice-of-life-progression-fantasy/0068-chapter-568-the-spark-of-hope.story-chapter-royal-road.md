@@ -1,0 +1,241 @@
+---
+id: 03f10b90-0b7d-5c62-8fb7-b31b96e44f9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 568 - The Spark of Hope"
+slug: 0068-chapter-568-the-spark-of-hope
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 68
+ownLength: 2925
+unit: words
+ownProgress: 2925
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2311381/chapter-568-the-spark-of-hope"
+royalRoadId: "2311381"
+markedReadAt: "2026-06-29T19:37:28.255Z"
+---
+
+Tala only went as far as to leave the cafe in which she’d met Master Saliocas before willing herself into her sanctum. From there, she was able to ‘see’ where Master Jevin was, partially because he was highlighting himself with his aura, and partially because Tala knew exactly where to look.
+
+There was also… something odd about the area, as if something else was there, but she couldn’t perceive it properly.
+
+It wasn’t a void, or a true absence, she just got the sense that something was there, just out of sight.
+
+Regardless, she shook herself and then willed her body to the superficial, appearing beside Master Jevin and Eskau Meallain.
+
+The elf had a spread of food before her, almost all of which were—“Cookies? Really?”
+
+Tala almost laughed, but Eskau Meallain shrugged. “I can’t say I’ve gone to many bakeries through the years, and Master Jevin offered to have a selection brought.” She picked one up and took a bite. “I must say, even without any intrinsic magic, they are rather delicious.”
+
+The woman’s words were sincere, but Tala still detected an odd sort of tension within the other Eskau. “What’s going on? Master Jevin didn’t poison the cookies as a prank or anything, did he?”
+
+The man’s eyes widened. “I would never desecrate any dessert in such a fashion. To do so would be the height of heresy.”
+
+Tala grunted. “Fine, fine. So? What’s going on?”
+
+Eskau Meallain grimaced. “I’ve… I’ve been seeing eyes watching me, from the corner of my vision. They’re never there when I turn and look.”
+
+Master Jevin sighed. “I thought she was simply getting jumpy, but just before I reached out to you, I saw them too. Like two points of utter nothingness, watching me with disapproval.”
+
+Tala allowed her mind to briefly pore over all that she could perceive. Nothing stood out as being unusual. “So… that’s why you reached out?”
+
+Master Jevin shrugged. “I do have much to do, but yes, that was the main impetus that pushed the issue.”
+
+Eskau Meallian glanced Tala’s way, clearly wishing to shift the subject. “Did you really forget about me?”
+
+Tala shrugged. “Not technically. I knew that you were in good hands, and I had faith that he’d let me know when I needed to get you. Therefore, I honestly didn’t give you much thought.”
+
+Master Jevin chuckled. “That means, yes, she forgot about you.”
+
+Tala grimaced and gave the Reforged a mock-glare. “You aren’t helping.”
+
+“Oh?” He seemed genuinely surprised. “And here I thought watching over your arcane prisoner for two days was incredibly helpful and generous of me.” He cocked one eyebrow at her.
+
+She sighed. “No… you’re right. It definitely was of help. Thank you for taking your time and attention to keep her.”
+
+“Of course.” He smiled and gave a slight bow. “Her moral compass is quite literally non-existent, but—”
+
+Eskau Meallain cleared her throat. “Excuse me, we discussed this. What is best for my House—and what my Pillar commands—is what is right. They are my moral compass.”
+
+Master Jevin shook his head, clearly falling back into something that they’d gone back and forth on many times already. “That is not your moral compass, Lain. You can’t offload moral responsibility for your actions onto others.”
+
+She scoffed. “Aren’t you the one who said you’d have tortured me if not for your civilization? Isn’t that you offloading moral judgment?”
+
+He shook his head once more. “We’re going in circles, yet again. My morality is firm, and I would find such judgment upon you quite moral, but I am also willing to restrain myself to the strictures of society. My compass exists and is my own, and I am willing to defer to others on occasion.”
+
+Eskau Meallain waived that off.
+
+Tala, however, was stuck on one thing. “Wait, wait.”
+
+They both looked her way, questioningly.
+
+“Lain?” It was her turn to cock an eyebrow. “Really?”
+
+Master Jevin colored slightly then grimaced. “A necessary shortening during a lengthy discussion. The use of titles becomes tiresome when talking for long periods.”
+
+Eskau Meallain sighed. “And I believe that titles are a part of who a person is. I suspect that he began using a shortening of my name—not even my true name—to annoy me. I’ve been ignoring him.”
+
+Tala’s eyebrow didn’t lower. “I see.”
+
+He cleared his throat. “Now, I do not wish to subject myself to whatever presence is monitoring her any further. Please take her away.”
+
+The elf had a small smile on her face. “Careful, Devouring Tree, or you might start growing flowers.”
+
+The man sighed and shook his head. “Flowers are the bait of the vegetative world. I have no need for such.”
+
+“True, true.” Eskau Meallain nodded sagely. “After all, you never know what you might draw in and entice.”
+
+With that, she turned and strode from the room.
+
+Tala watched the elf go, then shook her head. “I feel like I missed basically all of the context for that.” After another moment, she sighed. “And I am not inclined to ask.”
+
+Master Jevin scowled even more, before grimacing. “She’s dangerous, Mistress Tala. Her attitude and worldview are pernicious and infectious. I know you are using her to forward real gains in various areas, but please be careful about listening to her too much.”
+
+Tala nodded. “Oh, I am aware, Master Jevin. She still will sing the praises of my kidnapper and enslaver with even the smallest prompting.” After a moment’s hesitation, she added. “I will say one thing in her defence, however. She isn’t without a compass. It is exactly as she says. Her House and her Pillar are the final arbiter of right and wrong to her. Nothing else matters, and nothing else ever will. Her great turmoil in these last years seems to have been due to the fact that those each were in conflict with themselves, and that ambiguity and disjointment was distressing to her on a foundational level. My survival…” She sighed. “My survival has given her a way of bridging that seeming contradiction, and it worries me just a bit.”
+
+He nodded. “I can see where you are coming from, and I am glad that you will be careful. She is a powerful creature, and not to be underestimated.”
+
+“I most certainly will not forget that.” Tala chuckled.
+
+She gave Master Jevin an appropriate bow, thanked him once again, and then willed herself and Eskau Meallain back to Tala and Rane’s sanctum.
+
+The elf stutter-stepped as she arrived in the raised plaza, turning to glare at Tala who was already sitting on the ‘control’ throne.
+
+“You could have warned me. I was in the middle of a step.”
+
+Tala shrugged. “You didn’t have to go strutting off as if you had somewhere to be. It was a bit silly of you.”
+
+Eskau Meallian hesitated for a moment, then sighed. “Very well. You are likely correct. I was simply ready to be out of that man’s presence, and he wouldn’t allow me to leave his sight before your arrival. Since you were there?” She shrugged. “I took the opportunity to depart.”
+
+“Well, please don’t do that again. Remember what happens if you leave my oversight without having repaid your debt to Reality?”
+
+The elf stiffened, then grimaced. “I don’t need you reminding me that I am being watched… But very well.”
+
+Tala smiled and gave a singular nod. ”Good.”
+
+Eskau Meallain frowned. “I forgot to grab my cookies.” She frowned, then looked hopefully at Tala. “Could you? Would you? From your throne?”
+
+That brought a huffing laugh to Tala’s lips. “Very well.”
+
+She looked to the superficial and saw Master Jevin eyeing the cookies on the plate. With a mischievous grin, she pulled all of them into her sanctum.
+
+Master Jevin paused, having just extended a hand to take one. He then sighed. “It is probably better for me anyways.”
+
+Tala chuckled, then sent the cookie he’d been about to grab back to the plate.
+
+That drew a full smile to the Reforged’s lips. “Thank you, but if I get fat, it’s your fault.”
+
+She withdrew her perception even as he took a bite.
+
+Eskau Meallain was already biting into her own cookie, pulled from the pile brought before her.
+
+To Tala’s amusement, the elf had chosen the same type as Master Jevin, obviously without realizing it. But that wasn’t really important. “Alright, then. Shall we get you back to the Talons? I think they’ve had enough of a break.”
+
+Eskau Meallain gave a thoughtful nod. “Absolutely. That bird of yours… he has great fighting instincts, but he seems to rely on something that he can’t teach. Fighting against him is good training for your Talons' instincts and honing their reactions, but it only works well as a sharpening of skills that they already have. It isn’t good for actually teaching them.”
+
+Tala’s smile grew. “So, you’ve found a good pattern then? You teach the principles, and he applies pressure and helps them refine the practice thereof?”
+
+“I suppose you could say that, yes.” The elf smiled in return, picking up another cookie to enjoy.
+
+“That’s good, because Terry really wanted to just eat you.”
+
+Her smile vanished, and she swallowed the mouthful of treat. “That’s not very humorous, Eskau Tala.”
+
+Tala grinned and gave a shrug. “I wasn’t intending to be funny. He always wants to eat everything and everyone, but he’s able to allow other desires—as well as self-preservation—to override that hunger.”
+
+“He’s always hungry.” Eskau Meallain gave Tala a flat look.
+
+“Essentially, yes. That’s his secret… Well, that’s one of his secrets. I’ve never known him to turn down a meal without strong motivation to do so, and that includes eating the people around him.”
+
+Of course, Tala didn’t say that her desire for him to not harm people was one such ‘strong motivation,’ but Tala suspected that a healthy respect for Terry would be a net positive to instill in the elven woman. “I… see.”
+
+“So, let’s go.”
+
+With a quick flicker to the superficial as a mid-step, Tala brought them both to Ironhold, arriving in the Talon training yard off to one side.
+
+The Talons, for their part, were in the middle of a white-steel training session.
+
+Tala had, of course, already known that, but she hadn’t informed Eskau Meallain, as she felt that the elven woman needed a stark demonstration that the Talons were dedicated to their own improvement, even without her cracking the whip.
+
+Breaking arms is a bit much as a punishment.
+
+-Yes and no. I expect her to do ‘injury training’ with them eventually, to do otherwise would be setting them up to die the first time they took a solid wound.-
+
+I know… it just seems… over the top? Still, she could see the benefit of behavior alteration to avoid a negative, and to the Talons, a broken bone was less painful and quicker to heal than a slap to the face would be to a mundane.
+
+-Though, we wouldn’t let her slap them in the face. That’s just demeaning.-
+
+Fair… Less painful and quicker to heal than a smack to the back of the hand?
+
+-Yeah, that’s a better comparison. The reduction in pain is a nice side-benefit.-
+
+Tala smiled, glancing over to see Eskau Meallain’s contemplative face. Indeed. Our bodies use pain to communicate the severity of injuries, so now that it isn’t that severe for us or the Talons…
+
+-The pain is likewise lessened.-
+
+Eskau Meallain cleared her throat, gaining the attention of all the Talons, whether they’d noticed her arrival or not. “I’m glad to see you hard at work. Let’s keep at it.”
+
+With that, they all turned their attention fully back to the exercise, with Eskau Meallain moving to join them.
+
+Tala grinned and waved, speaking under her breath. “Have fun.”
+
+Then, she flickered back to her sanctum.
+
+There was a lot to consider and piece together, and she would want to drop back through to ask Master Jevin a bit more personal of a question before they left Makinaven.
+
+She also wanted Rane there for that discussion.
+
+I still need to thank him, in person, for his help with our Refining.
+
+-We have been rather grateful through messages in the Archive.-
+
+Even so, a specific thank you shouldn’t hurt.
+
+-Agreed, I suppose. I’ll schedule a meeting with him for the question? We can thank him, then.-
+
+Agreed.
+
+* * *
+
+Tala, Rane, and Master Jevin sat together the day after Eskau Meallain had returned to training the Talons.
+
+She’d already expressed her gratitude for his help with her Refining, and he’d accepted the thanks with grace.
+
+Now, they were on to other subjects.
+
+Tala was leaning forward, one hand flat on the table, the other intertwined with Rane’s. “So? Am I right? The reason we can’t conceive is that the baby would be too out of balance?”
+
+Master Jevin sighed out a long breath, having closed his eyes. When he opened them again, he gave a small, comforting smile. “That is definitely a part of it. I know you’ve been told many different variations on what the issue is, and in truth, many very advanced people can have similar issues, depending on their methods and direction of advancement. In your case, yes. I think the issue could be simplified to one of balance. Right now, you aren’t in perfect balance, but you’re holding yourself together and in fine shape with raw power. A little one that tries to model itself off of you? It wouldn’t have the power to do the same, and artificially propping it up only works if it can be balanced enough to come into being.” He grimaced slightly. “That’s… that’s such an oversimplification that I’m afraid it might be deceiving.”
+
+Tala shook her head. “No, I think it lines up with what others have told us. I can see how it connects. So, by Reforging into balance, I should be able to address that. Right?”
+
+Master Jevin hesitated before speaking slowly. “You should mitigate that issue. Yes.”
+
+“Mitigate?” It was Tala’s turn to frown.
+
+Rane cleared his throat. “Me. He’s talking about me. The baby will cue off of both of us. Even if we are both in balance, will a combination of us be balanced? Certainly all possible combinations won’t be, but will any?”
+
+Master Jevin tilted his head toward Rane. “That is precisely what I meant. Thank you, Master Rane.” He then reoriented on Tala. “Even though you will be the one carrying the child for the first months of its life, you aren’t the sole factor in any portion of its existence.”
+
+Tala felt her eyes widen. “Is that why the children of Archons don’t always achieve advancement?”
+
+Master Jevin held up his hand, palm toward the floor, and waggled it a bit. “Once again, that’s a bit of an oversimplification, but yes. I am comfortable saying that such is a large factor. It is a correctable factor, and that is precisely what we strive to do, but a person’s balance is very core to who they are, to who they see themselves to be. If I were to forcibly correct anyone, I might unlock their potential to advance while utterly, fundamentally altering who they are. That might only be monstrous, equivalent to mental manipulation of the deepest sort, and it might simply kill them, as their soul, spirit, and body no longer connect properly, even when balanced.” He held up one finger to forestall her. “Don’t forget that the soul is not fully within our realm. Even if it were, necromancy—the alteration or manipulation of the soul—is not something I either can or will do. Advancement in this life is not worth one’s soul.”
+
+Tala grunted at that. “I can understand, I suppose. It’s similar to spoiling a child for life simply to make now easier.”
+
+Rane huffed a laugh at that. “Except with eternal consequences, rather than just life-long.”
+
+Master Jevin gave a tight-lipped smile. “Indeed.”
+
+Tala paused for a long moment, regarding her husband. She then turned to look at Master Jevin. “How can we ensure greater compatibility between us? Better balance for our children?”
+
+The man clicked his tongue. “If we knew that, there would be far, far greater numbers of advanced humans. We know that those who marry by fully free choice and are committed to one another have more ‘balance’ than others. Again, this is a gross oversimplification that I’m only even slightly comfortable with because you seem to have an understanding of some of the truth behind it.”
+
+Tala waved him onward, and Rane nodded.
+
+“Very well. Beyond that? Generally speaking, the healthier a child is, the better balanced they are. The more thoughtful, the more precocious, the kinder. Each of these things seems to influence results in one way or another. You know some of this already. Whatever traits you look for in those whom you think can achieve Bound advancement? Those are what I’m talking about. That is the base level ‘balance’ required before anything else.”
+
+Rane sighed. “I see. But nothing actionable for our Reforgings?”
+
+“I’m afraid not. We don’t get to pick what parts of ourselves our children take after, not without destroying who they could and should have been. Be true to who you are, be true to each other, and find your own balance, and I suspect that children will be possible for you both.”
+
+That, if nothing else, helped keep the spark of hope that Tala had been sheltering alive.

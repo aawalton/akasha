@@ -1,0 +1,293 @@
+---
+id: 8f2b41b3-a4fc-5e96-9083-8472bd16d030
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 593 - Clarity of Thought"
+slug: 0094-chapter-593-clarity-of-thought
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 94
+ownLength: 3041
+unit: words
+ownProgress: 3041
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2478259/chapter-593-clarity-of-thought"
+royalRoadId: "2478259"
+markedReadAt: "2026-06-29T19:38:18.404Z"
+---
+
+Tala and her family sat with the other Mages, Lea and Fannas mostly engaged in quiet conversation, though the silver man seemed to be pulling a deck of cards from his pocket.
+
+That’s right, they talked about some games when they met before. There wasn’t time, then, but Fannas promised to teach Lea some card games.
+
+The group was just fully settling in around the table when Atrexia came back, bringing a round of various drinks.
+
+They were accepted gratefully, and a moment of silence swept through the group as each of them took a sip.
+
+Tala set her coffee to the side and finally answered Master Cran’s question. “This is Lea Sappherrous, our daughter.”
+
+Lea stood and bowed. “It is good to meet you, Master Cran.”
+
+He narrowed his eyes at her briefly in consideration, then gave her a nod of greeting. “And you, Lea. Please, drop the ‘master’ business; there is no need for that formality, not here.”
+
+Lea’s eyes flicked to Tala, and Tala sighed. “It’s fine, Lea.”
+
+Lea nodded, then bowed toward Master Cran once more. “Thank you for the honor, Cran.”
+
+He frowned. “Honor? What do you mean? I just dislike the formality of epithets.”
+
+Lea tilted her head. “Oh? Yet your actions emphasize not only that you are due the title of ‘Master’—that cannot be in question, as you are obviously a Mage—but that you are special beyond even most of that revered group, because you would honor even a non-Mage like me by requesting that I set aside your rightfully earned honorific.”
+
+Tala held back a smile. Maybe we should slow down the lessons with Lisa.
+
+-Are you kidding? Look at him! This is amazing.-
+
+Tala took in Master Cran’s slightly open mouth, his right eye twitching every so often.
+
+Mistress Atrexia leaned in and kissed her husband’s cheek. “She has your measure, dear.”
+
+The man grimaced. “No… I want to remove the formality… I want things to be more casual.”
+
+Lea nodded, clearly sincere as she continued. “Is that not what I said?” She glanced around, seeing that she needed to explain. “You are like a host who meets his guests at the door, finding them dressed in finery. ‘No,’ you say, ‘such is not required in my home. Here are some more casual clothes in which to enjoy my company.’ never realizing that everything about the interaction simply emphasizes how far above them you are.”
+
+Master Cran’s frown deepened.
+
+She held up a hand. “Please don’t mistake me. I am not saying your honor is unearned or undeserved. I acknowledge your higher station and will, of course, refrain from using the title of ‘Master’ despite my teachers and parents instructing me to do so when addressing one such as you. Your position is more elevated, your preferences more important than theirs in this instance.”
+
+Mistress Atrexia caught a laugh, only half succeeding in keeping silent.
+
+When Master Cran heard that, he turned to regard his wife.
+
+“As I said, she has your measure.”
+
+He was clearly flustered as he gestured, obviously at a loss. “Hey! I didn’t mean it that way.”
+
+Rane leaned back. “Well, I’m convinced. No matter what I prefer, I’ll set aside my desires and only call you ‘Cran’. Here— and in this—you are supreme.”
+
+Master Cran glowered at Rane. “This is my store, and it is how you refer to me. Of course, I have final say.”
+
+Rane nodded sagely. “That’s what I said.”
+
+“Yes, but you said it like it was a bad thing.” The man grumped.
+
+Rane gave a deferential bow. “If you wish to direct my other words too, I will of course comply.”
+
+Master Cran’s eye twitched again, and he turned to Master Renix and Master Trent. “Are you just going to sit there?”
+
+Master Trent held a stoic face as he gave a slight bow of his head. “I will, of course, speak as you wish me to where you have precedence, Cran.”
+
+Master Renix nodded, doing a worse job of hiding his smile. “Yes. You are, of course, perfectly in the right, Cran.”
+
+Lea nodded once, turning to regard Tala. “Mother? Fannas wishes to teach me a game that would work better on a smaller table. Is that alright?”
+
+Tala smiled and nodded. “Of course, Lea.”
+
+“Thank you!” She then turned and bowed to everyone, then a second time, deeper, to Master Cran. “It was a pleasure to meet you all.”
+
+Without further delay, she turned and walked over to a two person table with Fannas, already engrossed in his explanation.
+
+Master Trent tilted his head. “You know, we were ribbing you, but I think that she might have been entirely serious.”
+
+Tala chuckled. “Oh, she was serious, and she meant it genuinely as well. There was no intention of malice or negative implication.”
+
+Master Cran groaned. “Now I’m going to have that interpretation stuck in my head. I wish she had been trying to take my stuffing out…”
+
+Mistress Atrexia gave him another kiss on the cheek. “I’ve been telling you for years that it's an odd way to begin your first conversation with everyone you meet.”
+
+He grimaced briefly again, then sighed. “So you have, dear, so you have.”
+
+She then turned to Tala, one eyebrow raised. “She seems on the older side, practically full grown, but I heard that you and Rane have only recently married. In that case, she can't be biologically yours, right? How did this arrangement come to be? That is, if you don’t mind my asking.”
+
+Rane gave Tala a curious look, seemingly just as interested in how she’d answer as Mistress Atrexia was. Tala smiled. “You could say that she just fell into our lives. She was a surprise to be sure but a welcome one. As to how she’s our daughter?” Tala glanced toward Rane, both of their smiles growing. “We just knew from the moment that we came across her that she was special—and our daughter—and she always would be.”
+
+Finally, Mistress Atrexia nodded. “Very well. I appreciate your willingness to say even that much. Thank you.”
+
+Tala nodded.
+
+“Oh!” She smiled. “I heard that you’ve advanced. Did you end up beating Master Trent to Archon?”
+
+Master Trent sucked his drink down the wrong pipe and began spluttering, causing the woman to frown.
+
+“What is it?”
+
+Master Trent pulled a napkin to him and began cleaning up the mess, gesturing to Tala.
+
+Tala shrugged. “Well, yes, both Rane and I did. That should be public record though, right?”
+
+Mistress Atrexia sighed. “Probably. I never really had occasion to look.” She shrugged, then continued. “Ahh, well, I lost that bet then.” She smiled, tossing a copper to Master Renix. “As agreed, when we heard it straight from her own lips.”
+
+Master Renix chuckled. “Have you examined her?”
+
+“Of course not, that would be rude.” Still, her eyes narrowed. “But your asking means I’d have seen something…” She raised an eyebrow toward Tala. “Do you wish to share?”
+
+“Paragon.” Tala smiled, a bit unsure of how to answer without bragging or false modesty, so she just said it.
+
+Mistress Atrexia blinked at her a few times, clearly not comprehending. “I apologize, but I’m not sure I understood you.”
+
+“Paragon. We have reached the advancement of Paragon.”
+
+The other woman leaned back, her skin going pale in shock. “...the rust?”
+
+There was another moment of silence as everyone enjoyed their drinks before Lea let out a delighted, musical giggle from the side table, followed by Fannas groaning. “How did you draw that already? That’s supposed to be a rare set.”
+
+“Talent!” Lea proclaimed, slightly shifting her hand of cards which was already spread out on the table.
+
+Fannas’s voice was flat. “It’s a game of chance.”
+
+She nodded sagely. “You may believe that, perchance, because you have no talent for it.”
+
+Tala closed her eyes, barely suppressing a bark of laughter, even while Mistress Atrexia finally seemed to get a hold of herself, Master Cran patting her leg under the table.
+
+Rane shook his head, smiling widely. He then cleared his throat and tried to take control of the conversation. “Master Trent, how are the routes of late? I heard that caravans are having an easier time of it. Is that in line with your experience as well?”
+
+Master Trent nodded, and the back and forth picked up from there, turning to all sorts of matters both of import and fancy.
+
+All the while, Tala kept a watchful perspective upon her daughter as she enjoyed simple games with a friend.
+
+* * *
+
+Tala stood in the center of one of the training fields of the Talons.
+
+They were off in their magic-retention and running training for the moment, so she was mostly alone when compared to usual in this place.
+
+At her side stood Rane, with Lea situated just in front of them both.
+
+Lisa waited a few feet to one side, a not-well-concealed smile on his vulpine lips.
+
+Kit was roughly halfway between Bandfast and Alefast, Waning, anchored to a flier that was almost lazily moving between the two cities. Lunch had just been eaten, and it was time for Eskau Meallain to meet Lea.
+
+Tala had put it off quite long enough but no longer.
+
+The Eskau was just finishing the start of the Talons’ current training block, and when she was done, Tala would will her over.
+
+Rane glanced to his wife. “Are you ready?”
+
+“Yes.”
+
+He smiled. “We’re here, too.”
+
+Lea looked back at her mother. “Is she really that scary?”
+
+Tala shook her head, hesitated, then shrugged. “She can be, but in here? She won’t be able to do anything we don’t wish for her to do.”
+
+Lea nodded, seemingly not giving it much thought. “Of course not. I’m in your arms.”
+
+Tala felt a bit of tension bleed away as a smile pulled at her lips. Lea had told them that she felt Tala and Rane’s authority and power within Kit almost like a constant hug. “I’m glad you know that.”
+
+The other Eskau still wasn’t quite ready, so Tala turned to Lisa.
+
+“How are your kin settling in?”
+
+The fox-kin gave a slight bow. “Exceedingly well. Four dens have arrived without issue, and the skulks have taken to the rules quite well, seeing the citizenry of Ironhold as off-limits for all but the most explicitly created contracts.”
+
+Tala narrowed her gaze. “Lisa. They aren’t to make deals at all.”
+
+She, of course, knew exactly what he meant, Alat having kept a very close eye on everything to do with the arriving fox-kin, but she still wanted him to be more clear in what he said.
+
+She didn’t want him to establish vagaries, slowly changing the agreements over the years. Lisa sighed. “We are keeping our agreement with you, Mistress Tala. You also agreed that we could conduct business and form friendships and partnerships. All of that requires making deals and contracts, both implicitly and explicitly. We simply are refraining from making binding verbal contracts in casual conversation. Only when the other party is explicitly intending to deal with us do we make such deals, and even then, we do not solidify nor confirm them until it is understood that such is being done.”
+
+Lea turned to regard Lisa. “That is how most people work. You might find more friends, more places of safety, if you always followed those rules.”
+
+Lisa patted her shoulder. “Then we wouldn’t have a need to be here, small one.”
+
+“Oh… I wouldn’t like that.” She gave a decisive nod. “You should keep doing what you’ve been doing… out there.”
+
+He grinned at her. “Exactly. Moreover, those who need our instruction the most would then be the least likely to get it.”
+
+Tala sighed. “Still seems an odd thing to do.”
+
+“We have our mandate.”
+
+“From who, again?”
+
+“From within ourselves, of course. The most important mandates come from within, from our own natures.”
+
+The oft-rehashed back-and-forth, rolled by with little thought from either party, as they were all simply waiting for—
+
+-She’s done.-
+
+Thank you, Alat.
+
+-My pleasure.-
+
+“Ready?” Everyone confirmed. “Alright, here we go.”
+
+Tala focused on Eskau Meallain where she stood to one side, ready and waiting to be taken to her meeting with Tala. With a flexing of her will and authority, as well as the magics within Kit, Tala brought the elven woman to them, placing her in such a way that she was facing them from some dozen yards away. “About time, Eskau Tala. I don’t know why you’ve been avoiding me but—”
+
+The woman cut off, her eyes flicking to Lisa first, but even as she seemed to be changing what she was saying to address the fox-kin, her gaze moved to Lea, and she stiffened.
+
+Tala didn’t know how the Eskau saw the oddities of Lea’s physical form, but she clearly did, and almost instantly. “Automaton? Black Legion? Here? How?”
+
+A burning aura of power slammed outward from Eskau Meallain… immediately rebounding off of Rane and Tala’s utterly immovable authority within this place.
+
+“What are you doing? Don’t just stand there, that creature is—”
+
+Tala cut across her. “Stop!”
+
+“I will not stop. Those things are the enemy of all living sapients. I will not let it exist while I draw breath. You must end the existence of—”
+
+“My daughter.” Tala interjected again.
+
+The elf froze. “What.”
+
+“This is Lea Sappherrous, my daughter.”
+
+Rane raised his hand slightly to ensure he had Eskau Meallain’s momentary attention. “And mine, just to be clear.”
+
+“What?” The elf was clearly off kilter, actually seeming to physically waver as she awaited the answer to her question.
+
+Tala sighed. “Eskau Meallain, get your head out of your assumptions and listen. Lea?”
+
+Lea gave an appropriate bow. “Eskau Meallain, my mother has told me much of you and your prowess in battle. I know that I have a form like those you see as enemies, but I am human. If you will but look beyond mere appearances, you will see.”
+
+The elf flinched back at the girl’s words, her eyes flicking to Lisa. “What have you to do with this madness, fox? Did you shave their souls to summon an abomination?”
+
+Lisa grinned broadly. “I am but a teacher, an outsider brought in to assist, and I had no hand in the girl’s existence. This I state plainly and swear to with all my power.”
+
+Tala felt the flexing of existence at the uttered and reinforced truth. Eskau Meallain took another hesitant step backward, seemingly entirely without thought.
+
+Emotions were practically flying across her features as she seemed to have no idea how to feel, what to think, or what to say.
+
+Tala finally took pity on the woman. “Why don’t you do as Lea suggested? Can you look at her soul?”
+
+Eskau Meallain grimaced. “I have never been good at seeing such things.”
+
+Oh… well… that complicates things.
+
+-Just a bit. We knew she couldn’t easily detect lies or deception, but… really? She can’t even see souls at all?-
+
+No, that’s not what she said. She said she wasn’t good at it. Tala nodded. “Can you see anything?”
+
+“I can see the vestige that powers the… being.”
+
+Tala shook her head. “Not powers, no… Well, I suppose the soul does power the body as well, but she is in command. There is no artificial, Reality-tainted intelligence using the soul as a powersource. She is the soul. She is in command of her own body.”
+
+Eskau Meallain shook her head. “That isn’t possible. A mundane soul isn’t malleable enough to control such a body. Even a Mage’s soul would have to be so twisted and broken that the resulting being would be mad. Any more resilient or flexible of a soul would permeate the whole form, rather than just being held in the head as a powersource. What you are describing cannot be done.”
+
+Tala sighed, shaking her head again. “She came into being in this body, Eskau Meallain. This is her first and most natural form.”
+
+“And why did you have this body in the first place? How?”
+
+“Be-thric sent me into a hold that was creating automata, and I dealt with them. The body was left over and inert, so I kept it for examination and study.”
+
+The ancient woman opened her mouth to object, but hesitated, allowing Tala to continue.
+
+“We have had experts examine her, and it is somewhat how you say. Her soul is oddly shaped, twisted in shape, but not in structure. She was not forced into this form. As I said, she came into being as you see her now.”
+
+Lisa seemed to decide that his input might be useful. “As entertaining as it might be to see you attack their daughter and be slapped down, I find the current conversation… repetitive. I state unreservedly that Lea Sappherrous is the soul both powering and controlling the physical form before you, now. Though an automaton in physicality, she is human in soul and mind. This I unreservedly proclaim.”
+
+Again, Tala felt the rippling within existence. Eskau Meallain regarded the fox-kin for a long, long moment before giving a slow nod. “Then… it must be so.”
+
+Rane relaxed just a bit, but Tala was still wary.
+
+“So, this is why I have been left to my own devices for so long?” The woman raised an eyebrow.
+
+Tala nodded. “She is, yes. I wanted time with my daughter, and I wanted to make sure that we had enough information to placate you, before you knew.”
+
+Eskau Meallain grunted. “You did a poor job of it.”
+
+“Maybe so, but what’s done is done.”
+
+She grunted again. “So. Does that mean things will return to normal?”
+
+Her eyes continued to flick toward Lea before darting away, the elf clearly uncomfortable with one she felt should be an enemy being so close. Tala nodded. “Yes. Moreover, I find myself a bit… stifled. It has been far too long since I had a good spar, and I think you could do with an outlet for your confusion and frustration.”
+
+Eskau Meallain nodded once. “Very well. A good fight always clears the mind and provides a clarity of thought. Let’s do this.”

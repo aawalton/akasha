@@ -1,0 +1,177 @@
+---
+id: c6a0e76e-e3f6-5c4a-844e-ded2a81c333d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 85 - Knights of Cydonia"
+slug: 0145-chapter-85-knights-of-cydonia
+partOf: metaworld-hopecore
+position: 145
+ownLength: 2268
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3762072/chapter-85-knights-of-cydonia"
+royalRoadId: "3762072"
+---
+
+The old order changeth, yielding place to new,And God fulfils Himself in many ways,Lest one good custom should corrupt the world.
+
+Tennyson, Idylls of the KingThe Passing of Arthur
+
+The clinic smelled of ginseng and antiseptic, exhaust fumes from the I-10, Garfield and Valorie.
+
+“The choice isn’t mine,” Eppie said after slipping from her friend’s arms. “But I’ll let Mio know that you’re ready.”
+
+Valorie’s determined eyes grew confused. “Has she already…”
+
+“Probably,” Eppie confessed. “Luciana can be a little too forgiving.”
+
+Valorie sat on the edge of the exam table, her torso wrapped in bandages, and sighed. What should have been catharsis just turned into more guilt.
+
+Eppie scrambled her brain for something to say. Unfortunately, when it came to soothing the human soul, Lana’s [Intelligence] possessed an inverse talent versus when she needed to reduce an adversary to quivering jello. It was but one of the reasons why her closest confidants were her parents, her cats, and… Emily. Thankfully, Lim knocked on the door at the precise moment she tried to disarm the situation with a joke.
+
+He didn’t wait for an answer, and both of the girls suffered a brief heart attack when the door opened. The swing stopped, about two inches from the frame, and a giant hand held out a fabric bag of clothes.
+
+“From Bian’s shop,” he said from behind the cheap interior door. “I asked Mrs Bian, and she said she had clothes that would fit San-je.”
+
+“Thanks, Lim.” Eppie retrieved the contingency bag. “You’re a king.”
+
+“Don’t thank me yet... I think it's a cheongsam,” Lim whispered awkwardly.
+
+A vision of slitted thighs and curve-hugging fabrics flashed across Eppie’s frontal lobe. Cheongsam for a wounded woman? What a peculiar choice.
+
+Eppie emptied the linen bag on the gurney beside Valorie. There was a pair of plain cotton underwear, a bra, a silk underlayer, and…
+
+“Wow…”
+
+The dress was not at all what Eppie had expected. It was pale jade silk caught between emerald and cerulean, cut loose rather than fitted, built from two drifting layers instead of a single sheet. The under-layer carried a river-and-bamboo pattern winding toward the hem, dyed deep enough to read as structure rather than decoration. Over it, a diaphanous second layer, near-transparent, scattered with loose bamboo leaves, cut to hang clear of the body rather than trace it. No slit, no fitted waist—only silk built for dignity, drifting rather than clinging.
+
+This is the best damn cheongsam I’ve ever seen.
+
+“William hated it,” Valorie said.
+
+“He didn’t like you wearing this?” Eppie’s face made an unhappy grimace, then it hit her. “He wanted you to look like Suzie Wong, didn’t he?” Eppie groaned. For William, the dress was for him to enjoy, not for Valorie to wear.
+
+Valorie shivered, feeling both vulnerable and undressed. “I haven’t seen that film. What’s it about?”
+
+I haven’t either… Eppie concurred. What she did know was that the costume designer tightened and reshaped the traditional cheongsam to be far more form-fitting and revealing, injecting the fetishistic garb into the American psyche. The effect of the second-skin cheongsam was so distinct that it had shown up in her Women's Studies as a cultural turning point for Asian women becoming hypersexual dolls for the consumption of a Caucasian male audience.
+
+“About a prostitute…” Eppie lifted the dress. “Now this…”
+
+Valorie rested her hands between her thighs and took long, deep breaths.
+
+“Here, I’ll help you into this,” Eppie offered.
+
+The dress was easy to fit. The cut was generous, and the silk was cool and soft to the touch. It fitted loosely on Valorie’s frame. On Val, the pale jadeite caught light instead of clinging to skin, drifting where a fitted gown would have chased her waist. Her auburn hair burned brighter against the quiet teal. Nothing about her silhouette asked to be gawked at, no slit, no seam, and yet, her femininity was unmistakably present. In Mrs Bian’s dress, Val simply looked like herself, a dignified young lady, a diplomat’s daughter.
+
+Val looked at herself in a small mirror used for eye examinations and bit her lip. “I owe Mrs Bian an apology…”
+
+“I won’t argue with that.” Eppie helped her friend off the gurney. She collected the enormous pile of pink gauze, cat hair, and surgical instruments, and shouted for Lim, then opened the door. The dress was a good choice. It was long and loose enough to cover ninety per cent of Valorie’s injuries.
+
+Lim leaned against the wall in a cramped corridor full of unopened delivery boxes, forgotten decor, and unused furniture. Andrew Garfield lounged on Lim’s head, its paws dangling in front of his face. The cat had been cleaned up as well, and it was now looking fluffier than ever.
+
+“Whoa…” His eyes lit up when Valorie emerged from behind Eppie in the cheongsam. “I wasn’t expecting that.”
+
+“Were you expecting the William special?”
+
+“Kinda…” Lim grinned, then, looking at Eppie’s critical eye, wiped the smile off his face. “So er… it’s getting dark out. Dad asked if you guys want to stay for dinner.”
+
+“Oh no…” Valorie replied out of reflex. “I don’t want to impose.”
+
+“Wait—” Eppie felt inspiration germinate in her chest. She had an idea. A brilliant idea. “You know what, Lim? Dinner sounds like a very good idea.”
+
+“It does?” Lim looked at her, then at Val.
+
+“YES,” Eppie rubbed her hands together. “You said the kids are with us, right? You said the families are pussyfooting around, right?”
+
+Mr Garfield looked at Val, then at Eppie. The giant looked apprehensive.
+
+“Come on. Think! Think about the momentum of things!” Eppie sighed at Lim’s inability to put two and two together. He wasn’t going to be very useful at being her accountant if he sucked at scheming. “Now we have VAL! Do you see?”
+
+Valorie pointed a finger at herself. Andrew Garfield gave its two meows.
+
+The [System] concurred.
+
+Lim sat with the realisation for a second longer before the shape of her proposal assembled itself behind his eyes.
+
+Historically, William had used Chen-ye’s credibility to coerce the younger generation. With “San-je” moving across the aisle, however, the balance had undoubtedly shifted.
+
+Understanding dawned in the giant’s eyes. “I see! Shall I call the others?”
+
+“Do it,” Eppie spoke like a kidnapped Senator urging a padawan to take his first steps.
+
+“Okay. Okay. I’ll get Dad to speak to Uncle Bao.” Lim quickly left with his phone on speed dial.
+
+Eppie felt a satisfying rush. Success came to those who could thread the needle of opportunities. Eppie knew the business of business behind businesses, and she didn't believe for a second that Francis Sanders and Lee-Kwon Chen stood on equal footing. Drawing on her former trade, her abominable [Intelligence] pointed out that her work with Kiritani had indisputably pulled Francis into the orbit of Japanese-American political power. Unlike the Chinese, the Nikkei had real political legacies in Inouye and Akaka in the Senate, and Honda and Doris Matsui in the House. The comparative sponsorship optics were simply unmatched, meaning if anyone should be nervous, it was real estate men like Chen, whose hold over the Five Families ran through deeds Omnia owned, and Omnia ran on tax credits only a Senator's signature could release.
+
+To be a fly on the wall… Eppie shuddered with schadenfreude at the eventuality of William breaking the wonderful news of his and Valorie’s hostile separation to Senior Chen.
+
+“Val. This is an opportunity. It’s time to make good with everyone, Goodes included."
+
+“Simone?” Valorie looked startled.
+
+“Yes, Val. Simone, and everyone else, in one fell swoop,” Eppie took her friend’s hand and promised that her ploy was for good, and certainly not revenge for Andrew Garfield. “You said you wanted to apologise, right?”
+
+Valorie nodded.
+
+“Then tonight’s the night for your salvation,” Eppie admired Mrs Bian’s handmade cheongsam. “And through your own emancipation, you will free them all.”
+
+As its owners intended, the Lantern Club sat discreetly behind a pair of red lacquer doors with two worn brass knockers shaped like dancing carps, tucked down a side street in Monterey Park. In the first courtyard, the air was low-lit and hazy: mahjong tiles clicking behind a lacquered screen, cigarette smoke curling toward a coffered ceiling, the murmur of Cantonese threaded through laughter that never quite reached the windows.
+
+In the restaurant section, separated from the smoke haze by a Chinese garden water feature, the Lantern Club’s most endearing “hei mei mei” worked her shift among the rest of the young ladies dressed as Suzie Wong.
+
+Simone’s labour ran the same rounds every night: greet customers at the carp door, seat the men by seniority, keep the tea hot without being asked, clear the plates before anyone noticed, smile at jokes told in a foreign language, and look glam in a short dress. Her height, juxtaposed with her timidity, made her more popular, somehow. One of the things she learned to say in perfect Cantonese was that she was seventeen and a student. That almost always shut the drunks up. If they did not subsequently renew their interest in food or games, they would be speaking to the uncles.
+
+She was refilling the hot water at the kettle station when she saw them from across the dining section. The kettle overflowed before she noticed, nearly burning her fingers, but for the porcelain handle. Lim’s silhouette was unmistakable, as was the sight of every other young waiter doing the kung-fu bow to their lauded si-xiong. Behind Lim was someone else she was familiar with, a girl in loose jade silks with flaming hair who could only be her benefactor. Then, behind Lim and Val, came the least expected silhouette of all.
+
+Simone's stomach dropped through the tiled floor.
+
+Was she in trouble?Were they here for her?
+
+She could not think of a single reason why Eppie, Lim and Valorie would appear together amicably, at the same place.
+
+Did Eppie boast to Val of her tattling? Was Lim their enforcer now? She wanted to hide, then to flee, but the thought of losing her job made her heart sore. Thanks to the Lantern Club, her mother was ahead on rent, her sisters had new stationery and clothes, and they even had the plumbing repaired. If she could both work an industry job and the Lantern after graduation, they could move to a better suburb…
+
+Unfortunately for Simone, a six-foot-two black girl in heels did not camouflage well among her petite Cantonese peers.
+
+Eppie waved, and the trio came on like executioners.
+
+Simone stood, legs jittering like a fawn while forcing her face to smile.
+
+“Hi Simone!” Eppie was upon her in a second. “Long time no see! How was Disney?”
+
+“We’re in the banquet rooms.” Lim informed her with a smile of his own. “No.888. Can you take us over?”
+
+“Hi, Simone. You look… busy.” Valorie looked amazing as always. It was incredible to Simone just how different her Senior looked wearing the jade-green cheongsam, how elegant and prim it was. The difference with her own dress was so stark that the shame she had swallowed six months ago coated her throat with bitter bile. “You should join us later, I’ll ask uncle—”
+
+“WANG-ZHAI!” A voice boomed out in Cantonese-inflected delight—Uncle “Bao” Bu, already on his feet, arms spread wide at the sight of Val in her borrowed dress, fast approached from the checkout counter.
+
+He said something fast and warm that Simone only half-caught, something about having heard from Lim’s father. A second later, Uncle Lai materialised beside Bu from nowhere, laughing repeatedly while patting Lim on the shoulder, all the while trying to figure out the stranger in their midst.
+
+“This the girl?” Lai said finally. “New girlfriend?”
+
+Eppie laughed, then blew Simone’s mind by speaking Cantonese. It wasn’t perfect, but it was good enough that every uncle stared at her as though a new world wonder had appeared among them.
+
+Her demeanour was flawless: the polite greetings, the compliments, the pairing of “uncle” and the performative modesty that the Cantonese girls always did in front of their elders. Simone grew doubly amazed when she saw Valorie’s eyes open with shock. Only Lim, it seemed, already knew that Eppie was a polyglot.
+
+“I have good room for you,” Uncle “Bao” Bu motioned for Simone. “Mei-mei. You take care of the guests, okay? VIP.”
+
+Simone nodded, agreeing with every inch of her being.
+
+“Who else is coming?” Uncle Lai, who already concluded that Eppie was beyond precious and was now a part of the crew, was already showing her the menu while rapid-firing in Cantonese. “Lobster? You like lobsters? We have crab. Groper. Very nice groper in tank. Eels as well. Pipi in season right now…”
+
+Lim coughed. “Uncle, I am paying…”
+
+“Oh…” Lai scoffed at the giant. “I suppose we have small lobster…”
+
+“Actually, I’ll pay.” Valorie stepped in. From her eye-wateringly expensive clutch, she withdrew a metallic black card. Goosebumps ran up and down Simone’s legs. Ever since that Birkin…
+
+“San-je.” Lim raised a hand in protest.
+
+“Full banquet, Uncle Lai,” Valorie ignored the giant. “All of William’s favourites.”
+
+At the mention of William’s name, Simone felt her knees knock. Uncle Lai, however, gave Valorie the green light and hurried off into the kitchen.
+
+Something touched her waist. Reflexively, Simone froze, then looked down while smiling.
+
+Thankfully, it was Eppie, with her arm hooked around her waist.
+
+“Shall we go?” Eppie dragged her toward the room, skidding her heels across the tiled floor, seemingly lifting her from the floor without effort. “Aren’t you our waitress?”

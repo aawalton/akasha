@@ -1,0 +1,223 @@
+---
+id: 98bcb1c9-f14b-58e0-bbd1-e49b70fc1031
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 585 - Impossible"
+slug: 0085-chapter-585-impossible
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 85
+ownLength: 2887
+unit: words
+ownProgress: 2887
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2421048/chapter-585-impossible"
+royalRoadId: "2421048"
+markedReadAt: "2026-06-29T19:38:01.202Z"
+---
+
+Tala leaned back with a groan, pushing the book away without truly setting it aside. “This is impossible.”
+
+Rane looked her way with one eyebrow raised. “Oh?”
+
+She practically threw her hands up. “Mistress Holly did this in the only way that makes any sense! How am I supposed to make this my own without ruining it?”
+
+Lea shifted from where she was leaning against Tala, knocking the book from Tala’s grasp. “Lea!” Tala caught herself—and the book—taking a quick, calming breath. “Please be more careful, sweetheart.”
+
+“Sorry, mom.” The girl threw out the words while continuing to wiggle. In the last few days, she’d continued to grow and develop, lending credence to Rane and Tala’s choice to keep her with them for the first little while, at least until her new soul-medium was completed.
+
+Only another day for the first viable version.
+
+-That’s hurtfully accurate…-
+
+That delay, however, translated to lots of one-on-one time, and that was alright for everyone involved. That said, it was beginning to wear. Tala’s eye twitched as she went through an all-too-oft repeated little mantra. “‘Sorry’ is for expressing that we wish something hadn’t happened, Lea. Saying ‘sorry’ isn’t taking responsibility. You need to check on the person, then apologize directly and specifically.”
+
+Lea hesitated, then sat up, shifting around to face her mother. “Are you going to be okay?”
+
+“Yes, my sweet Lea. Thank you for asking.”
+
+“And the book?”
+
+“Yes, the book too.” Tala chuckled slightly.
+
+Lea smiled at that. “I apologize for knocking your book. I wasn’t paying attention to my surroundings, and I should have been. Will you please forgive me?”
+
+“Absolutely and unquestionably. I love you, Lea.”
+
+“I love you too, mom.”
+
+With that, the heavy girl flopped back against Tala, and she would have knocked the book again, but Tala had somewhat suspected that the girl might move in this way, and so she had guarded against it.
+
+In that moment, Tala had a choice to make as a mother. She could call Lea’s attention to the action, requiring another correction, or she could ignore it and hope the girl would get better in time.
+
+Or… Tala shifted her arm to go around Lea, giving her a squeeze. “Careful, sweet. You almost knocked it again. I love having you near me, even so.”
+
+Lea stiffened for a moment, but when Tala didn’t continue, she relaxed and snuggled in. “Thanks, mom.”
+
+“Thank you, mom. If you are going to express gratitude, it’s worth doing right.” Tala replied without much thought, her eyes returning to the book.
+
+Lea tilted her head back to be able to give Tala a flat stare.
+
+Tala flicked her eyes to look into the gaze that was so like her own expression at times. “What?”
+
+“Thank you, mom, for noticing all my little mistakes.”
+
+Tala rocked back slightly at the heavily implied reprimand couched in sarcasm. Instead of rising to it, however, she leaned forward and kissed Lea on the forehead. “Of course, sweetheart. We are doing our best to help you come into your own as the wonderful young woman we know you to be.”
+
+Lea’s eyes narrowed, seeming slightly miffed that Tala hadn’t engaged her in further verbal sparring, but then she shifted around to stretch up and kiss Tala on the cheek, as Tala had gone back to reading. “Love you.”
+
+“Love you, too.”
+
+Rane was regarding them throughout the interaction, seemingly not willing to interject with how it progressed. Finally, he shook his head, chuckling slightly to himself. “Love you, both.”
+
+The girls grunted in reply, all three of them looking back to their current activity.
+
+Rane and Tala were reading, Terry was off having fun with the sanctum's chickens, and Lea was weaving together various kinds of rope.
+
+The girl had been… less than enthused with the prospect of reading.
+
+She could do it at least reasonably well, but she felt that it was just so slow.
+
+Alat and Enar had refused to give her any more information dumps after the first night of nightmares, and the trickles that they were willing to provide were nothing compared to what Lea wanted to know and learn.
+
+Thus, they tried to provide her with books, but she was mostly uninterested, at least for the moment.
+
+Regardless, Tala’s mind was mostly on things other than her daughter’s education.
+
+She’d read through Mistress Holly’s notes twice already, Tala’s own prodigious reading speed making the task rather easy. As she’d just exclaimed, Mistress Holly had created a work of art, and Tala felt at a total loss as to how she would recreate the results without copying the means all but exactly.
+
+Still, she had only just begun her studies, and she wouldn’t stop anytime soon.
+
+She’d interspersed her studies of the inscriptions and natural magic schemas with an indepth look at the merging chamber that she’d had installed, while keeping Lea from activating it either on accident or on purpose. She also read through the documentation of the facility, seeking a means of achieving the merge without the aid of the Constructionist-wrought tool.
+
+That goal, at least, seemed like a more promising line of investigation. Merges had been happening for eons—rust, she’d done some ‘unaided’ mergings—and the Constructionist chamber was a newer invention, meant to make the process simpler, more reliable, and easier to direct as desired. Still, she needed those done at her Reforging to be incredibly and perfectly precise.
+
+Alat was combing through the Archive for any available information on merging, and Mistress Ingrit was compiling more privately held accounts for Tala to go through as she had the time.
+
+Well, the Librarian was doing that around her work as an intermediary for Tala in other regards.
+
+For instance, the number of requests to ‘meet’—that being the politer version of ‘study’—Lea had only increased as knowledge of her existence was circulated through the upper echelons of Archons.
+
+That circulation was sadly required to prevent unhappy accidents when Lea finally left Kit, but that didn’t make the other results anything but time-consuming.
+
+Thank you again, Alat.
+
+-I aim to please.-
+
+There were other minor inconveniences due to Lea’s presence. One of the largest was that they had come to Bandfast, in part, to visit some old friends.
+
+Now, with Lea unable to leave their home, they could only go out individually. Because of that, Rane had met with their old, Bound-level training group on his own.
+
+Tala begged off, citing their new daughter as the reason. The result of that was a plethora of congratulations, and a bit of surprise as they hadn’t ‘even known that Tala was pregnant.’
+
+Rane was still a bit uncertain of how to convey everything, so he’d simply said the equivalent of ‘Yeah, Lea was quite the surprise, but a welcome one.’
+
+They didn’t really spar at the meet-up, as Rane was now quite a few tiers above them, advancement wise. While he had progressed the farthest, he wasn’t the only one who had advanced, as the group had each continued to grow and learn, even if each at markedly different paces. Regardless, he said it was fun for him to catch up with them, even if only briefly.
+
+Mistress Jean was using her spell-projectile constructs to great effect, acting as a regional ‘fixer’ up at the new city site construction zones. She was only in Bandfast to visit family for a few weeks.
+
+She spoke at length about all the interesting fights she was able to avoid with a couple of pulls of her trigger. She’d said it with a smile, and after Rane had given the appropriate response to the humorous retellings, she’d turned a bit more serious and explained that there was something that drew her to the project of reclaiming the land for humanity, and helping to lay the foundations of a city that would support millions over the course of its existence.
+
+She was actually more than halfway Refined after one session, and she planned on doing her second session before taking a less active role in a caravan on the way back to the new city site. She hoped to use that trip to rest and recover before resuming her duties up north.
+
+Master Cazor was entirely Refined, and he was also a fully realized Arcane Hunter. Most notably, he was the seventh ranked sub-commander of the Mage Hunters in the city. Given that that meant he only had six sub-commanders, three commanders, and then Mistress Jenna above him in the hierarchy, it was rather impressive.
+
+Master Stan was seemingly content as a Fused, and he continued to use his particular brand of fire magics to great effect as a Mage Protector for the Caravan Guild. There was some awkward hesitation in the beginning because he had barely advanced at all over the years, but after he clarified his own position and contentment in it, that vanished.
+
+He ended up being one of the most prolific question askers as each of the group spoke on their current lives.
+
+That was one thing that Tala and Rane had suspected, but not really confirmed. The group basically never met up any more, as they’d each gone in their own directions in life.
+
+Mages were like that, grouping up while their paths aligned, and diverging as the individuals progressed differently.
+
+The final member of the group was Mistress Aproa, and she was still trying to find her stride, moving between missions as a Mage Protector and those involving the more heavy hitting task of hunting down creatures in the surrounding countryside.
+
+Still, she seemed to be happy with her life, surrounded as she was by various family members.
+
+No one had stepped forward to fill Mistress Odera’s shoes as the anchor of that family, so some had begun to drift away, but Mistress Aproa didn’t seem to mind too much. She seemed to value specific relationships with some of her family rather than valuing the family for being family.
+
+That did seem to be a more common mindset of late in those that Tala had seen. When Rane conveyed what Mistress Aproa had said, Tala realized that she actually felt that same way, though she thought of it somewhat differently.
+
+As his meetup with that group had been wrapping up, Rane had reached out to Tala and asked if he could invite Mistress Aproa to come and see the statue of Mistress Odera.
+
+Tala had instantly agreed, and so Mistress Aproa had come into the sanctum to walk the Path of Remembrance.
+
+In truth, the woman had only come to the first statue, that of Mistress Odera. The Archon had sat on the bench positioned to allow the regarding of that edifice. After a short time, Rane had offered to let her be alone, and the woman had gratefully taken him up on the offer.
+
+She’d stayed for three hours, talking toward the statue, contemplating in silence, and simply being there, honoring the deceased.
+
+When she was ready to go, Rane had gone, bid her goodbye, and opened a portal for her.
+
+It had been a rather long day for the usually self-content man, but he seemed to have enjoyed seeing how that group had been getting along. He’d even gone out of his way to thank Tala for allowing him to be the one who met up with them.
+
+Tala, for her part, was glad to have avoided the social event. She liked the group well enough, but she was finding her ‘social capacities’ drained rather extensively by Lea. She still enjoyed her time with the girl, and had no desire to be left fully alone—at least not yet—but she did find that she had little interest in seeing anyone else.
+
+Even so, Tala was the one who went to the Guard’s Guild, specifically to check in on guardsman Adam.
+
+She had long disliked their last interaction, and she felt like she was in a better place personally.
+
+As it turned out, ‘guardsman’ was no longer the case, as Adam had risen through the ranks until he was now the head of training for the Guard’s Guild in Bandfast.
+
+He was actually beginning to show some signs of age. Even so, when he and Tala exchanged a hug, she was happy to note that he was as strong and fit as ever. More to the point, Tala was gratified to find that there was no awkwardness in the man’s demeanor toward her.
+
+That, alone, made the visit worth it.
+
+“The gray suits you.” Tala grinned as she teased him.
+
+Adam ran a hand through his close-cropped hair, giving a slight smile. “I’ve earned every gray hair, young Mistress.” He gave her a mock severe stare. “Don’t you forget that only those who survive get to gain gray.”
+
+She gave a seemingly serious nod. “Yes, grandpa. I’ll be sure to remember that.”
+
+He snorted at that. “I actually do have a grandson on the way. Our eldest found love early, and they didn’t see a need to wait.” He shrugged. “I’m… I’m not exactly sure how I feel about having a grandson at my age, but the missus is happy.”
+
+“Oh! Well… congratulations, then.” She was a bit taken aback at the revelation, but kept her reaction to a minimum. “I’m glad that things are working out for you. I remember family being a rather important part of your life.”
+
+He grinned. “It is indeed, and thank you for the sentiment. I hear you’re married as well? To Master Rane, right? How is that going?”
+
+A smile tugged at her lips. “Very well, thank you.”
+
+“I’m glad to hear that. You two had quite the chemistry, even when you first met. From your interactions, I’m sure you’ll be great parents when the time is right.”
+
+“Well, we actually have a daughter who is… she’s a handful.”
+
+His eyes widened before his grin grew even further. “Oh? That’s wonderful! Congratulations. How old is she?”
+
+Tala huffed a laugh at that. “I don’t even know how to answer that. Her capacities are all over the place, and I feel like she’s years older every day. Then she does something that reminds me just how young she really is.”
+
+He grunted, giving her a searching look for a moment before seemingly deciding not to press. “Yeah, kids are amazing like that. One moment they are saying something that conveys wisdom beyond your years, and the next they’re chewing on the table leg.”
+
+Tala cocked an eyebrow at him. “Chewing… On the table leg?”
+
+“No? Is that only my kids?” He chuckled. “Fine, but you get my meaning.”
+
+She huffed a laugh. “Yeah, I think that I do.”
+
+After a brief pause, he cleared his throat. “Now, I know you’re some mystically powerful Archon now, but are you interested in a spar?”
+
+Tala regarded him for a long moment, feeling hesitant due to how it had ended last time. “I thought you liked your life?”
+
+He clutched his chest in mock offense. “Oh, you wound me.” Then he shook his head. “I’m not looking for a real match. I just want to see how your technique has progressed. I remember you being quite skilled, and I want to make sure you aren’t stagnating.” He ended that with a wink. “Consider it an old teacher’s curiosity.”
+
+She considered for a moment before finally, reluctantly agreeing. “Sure. I’ll try to match your speed.”
+
+He shook his head even as he led her toward a sparring ring. “You are too kind.”
+
+To Tala’s surprise, with no magic in play, when she was held at his speed, Adam did quite well against her.
+
+He could never oppose her strength, but he was able to match her, and even gain an edge through raw technique and experience.
+
+He had seemingly even learned how to counter the Way of Flowing Blood to the point of being reasonably effective when she acted as a mundane fighter.
+
+Even so, her threefold sight would have rendered most of that ‘advantage’ useless, but as she thought about it, that was somewhat the point. Most of her magics were meant to cover deficiencies, whether in her specifically, or in humanity in general.
+
+A lack of all encompassing perception was a large one. A primal part of me feels the need for a sphere of such perception.
+
+Her heart beat loudly at the thought, but she kept herself from cheating. Thankfully, even with her myriad handicaps—having become used to that perception rather than instinct or other cues—she was able to keep Adam in check until he was unable to continue.
+
+Once he recovered his breath and had a few long drinks, they sat and chatted for a bit before he had to return to his duties.
+
+It wasn’t that long of a visit, but Tala still enjoyed the time. Even so, it was wonderful to return home to Lea and Rane.
+
+That brought them to a rather important day. Lyn was going to visit, and Mistress Kannis and Fannas would be joining them all for dinner.
+
+They’d discussed it a lot, and they’d agreed that Mistress Kannis and Fannas would be the first people to meet Lea outside of those required to, given her unique nature and the possible pit-falls therein.
+
+Let’s hope this isn’t a massive mistake…

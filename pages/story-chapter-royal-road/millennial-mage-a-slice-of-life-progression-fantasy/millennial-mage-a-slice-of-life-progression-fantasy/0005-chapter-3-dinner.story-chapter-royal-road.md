@@ -1,0 +1,321 @@
+---
+id: e020edfb-92b3-5bb1-825c-6e6e667c2e7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 3 - Dinner"
+slug: 0005-chapter-3-dinner
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 5
+ownLength: 3974
+unit: words
+ownProgress: 3974
+publishedAt: 2021-10-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/774573/chapter-3-dinner"
+royalRoadId: "774573"
+markedReadAt: "2026-06-29T19:35:27.353Z"
+---
+
+The sun was setting as Tala and Lyn walked the city streets towards food and introductions.
+
+Tala had the comforting weight of money in a pouch at her belt, while still retaining the hesitancy of the recently destitute. This money would have to provide for her until her first trip, as well as outfit her for that venture, and she still had no idea exactly what that entailed.
+
+Thankfully, Lyn was leading them purposefully towards their goal, so Tala wasn’t delayed or sidetracked by her many musings. I really do need to focus on my surroundings more… In school, her introspections had kept her away from too much notice and allowed her to skirt the attention of many who might otherwise have called upon her or used conflict with her to elevate their own positions. Out in the real world? It was likely to get her killed.
+
+As if to highlight the very lack of awareness she was contemplating, Tala was suddenly led from the busy, if relatively quiet, main streets into a crowded courtyard, filled with people, tables, and portable kitchens.
+
+Mature trees stood, pleasingly distributed throughout the space. She noticed several braziers as well, though they were unlit since it was a warmer autumn evening. Ceramic plates, magically altered to release gathered sunlight in an even glow, provided a comfortable, if not bright, illumination.
+
+There were people at every table, but no table was truly full. While the seating was biased towards the center of the space, the food carts—for that was what the cart-bound kitchens were—encircled the lot, doing brisk business.
+
+Many passersby ducked into the area to buy food before continuing on their way, but some stayed, grabbing a seat as others vacated it, creating a slowly rotating, constant group of people.
+
+It reminded Tala of the academy’s dining hall—if the people had been excited to be there and the food had ever smelled this good.
+
+She inhaled deeply, instantly imprisoned by the rapture of succulent smells.
+
+She couldn’t distinguish the smell of any one dish, or even one stall, among the milieu, but the combination was a joy and a half.
+
+Lyn was staring at her again. “Are you okay? You look like a starving dog presented with a steak.”
+
+Tala grinned. “It has been far too long since I’ve had a meal that smelled this good.”
+
+Lyn quirked an eyebrow. “You still haven’t.”
+
+Tala’s grin broadened. “What do you recommend?”
+
+They made their way over to a particularly overburdened cart, lorded over by a large, but not truly rotund, woman. “Mistress Lyn! Good to see you!” The woman came around to the front of her cart to enfold the much-smaller Lyn. “And who is this waif you bring to my kitchen?”
+
+Her reply came out muffled. “This is Mistress Tala. She’s new to the city.” As Lyn was released, she turned towards Tala. “Mistress Tala, this is Gretel.”
+
+Tala began to bow. “It is a pleasure to meet you, Gret—” But she was cut off as Gretel scooped her up in an overpowering embrace.
+
+“Welcome, child.” She turned and picked up a meat pie, thrusting it at Tala.
+
+Tala took it, marveling at how thick and sturdy the crust felt. Not a drop of filling was evident on the outside as she took the proffered food. “Oh! Ah… What do I owe you for this?”
+
+Gretel laughed. “Girl, that one’s on me. If you aren’t compelled to buy more after you eat it, well, that’s my fault for making them too resistible.” She winked.
+
+Tala smiled and took a bite.
+
+There were no words for the culinary delight, which the pie encompassed. It was a light cream, vegetable, and poultry mixture, with exactly the right blend and ratio of spices.
+
+Gretel served several other customers while Tala devoured her own acquisition.
+
+When she was, once again, up in the queue, Tala sang her praises of the offering.
+
+“I like this one, Mistress Lyn. Will she be about for long?”
+
+“I hope she will be, at least every so often.”
+
+Tala nodded her assent. “I can promise I’ll be back. How much for another?”
+
+“Five copper.”
+
+Five ounces copper. So cheap? How? “How? These are amazing!”
+
+Gretel smiled in response. “My customers usually get five or six.” She gestured to the other carts in the area. “We try to make our portions small so that our patrons can enjoy a large variety.” She leaned in close as if sharing a secret. “But, tell you the truth, most who try mine just fill up right here.” She straightened and winked again.
+
+“Mistress Lyn, can I buy you a few?”
+
+“Oh! Sure? That really isn’t necessary, Mistress Tala.”
+
+She waved away the objection. “Nonsense. I’ll take ten.” She dug around in her money pouch before pulling out a one ounce silver coin. “Can you make change?”
+
+“Easily.” Gretel took the silver, verifying the weight, and returned four much smaller silver coins, a tenth of an ounce each, and ten one ounce coppers. “So, you can easily try some of the other stalls if you’d like. I can’t hog all the good customers, now can I?” She winked yet again.
+
+After tucking the coins away, Tala gave a slight bow. “Thank you.”
+
+Gretel handed over the ten small pies on a wooden platter. “Mistress Lyn knows what to do with that when you’re done. I look forward to seeing you again, girl!”
+
+Tala gave a wave as she followed Lyn towards one side of the courtyard. As they approached, Tala was able to guess where they were heading.
+
+One table was a bit emptier than the others. A striking woman sat on one short side of the long, rectangular table.
+
+Tala could not tell her age, or much else about her, because most of her features were obscured by the most all-encompassing, intricate set of spell-lines Tala had ever beheld. The woman, herself, was clothed as if she were expecting to cast, meaning with as little covered as possible. In all fairness, however, the intricacy of her inscriptions, and their pervasive nature, left the woman looking as if she wore a skintight outfit of woven silver, copper, and gold.
+
+It was beautiful.
+
+They approached, and Tala set their tray down in front of a couple of empty seats beside the woman. The inscriber lifted her gaze from her own platter of simple foods to regard Lyn and Tala, and Tala felt the telltale tingle of magic. Her eyes showed her minute ripples of power across the woman’s face, indicating that she’d activated her magesight.
+
+“Mistress Holly, this is Mistress Tala.” Lyn gestured to the seated woman. “Mistress Tala, Mistress Holly.”
+
+Tala bowed slightly. “A pleasure to meet you.”
+
+“You’re cast quite dry, aren’t you?”
+
+Tala hesitated, then quirked a smile. “I suppose I am.”
+
+Holly’s head tilted to an inquisitive angle. “No? Interesting. If casting didn’t strip you of your ancillary lines, what did?” She leaned closer, even as Tala sat. “You must tell me.”
+
+Tala cleared her throat. “I… um…” She swallowed and glanced to Lyn. “I was teleported here.”
+
+Lyn’s eyes widened, slightly, but she didn’t comment.
+
+“Teleported. That seems to be true. But why would you only have your keystone replaced…?” Holly’s eyes snapped back to Tala’s own. “You didn’t, did you?”
+
+“No?”
+
+“Be decisive. I can’t see the truth of your words if you have no confidence.”
+
+“No. I did not have my keystone replaced. It was maintained through transport.”
+
+Holly pushed herself backward, just a bit, nodding happily. “I knew it. I knew it. There is an… ethereal aspect to your keystone, as if another’s power was forced through it. Why it didn’t break your gate I’ve no idea, but I suppose by Hethron’s third law…” Her mutterings slowly faded below Tala’s ability to hear them, and she turned to Lyn.
+
+“Is she… always like this?”
+
+“Hmmm? Oh, yes. She’s quite brilliant, and so most of her conversations are with herself.” Lyn shrugged. “But she’s the best, and I quite like you.”
+
+Holly’s eyes narrowed. “Still not giving you a discount.”
+
+Lyn rolled her eyes. “Let’s eat. I’m starving.”
+
+Thus, as night truly fell upon the city, Tala sat with new acquaintances, surrounded by the sounds of revelry and the hum of conversation.
+
+This just might be possible. I might just be able to work free of this burden.
+
+*         *          *
+
+Tala licked her fingers clean of her last meat pie and leaned back, comfortably stuffed.
+
+Holly finished the last of her own food, savoring a fruit tart, which had been covered with fluffed cream.
+
+“Now. Give me some blood.”
+
+Tala’s lazy comfort flashed away in an instant. “What.”
+
+Holly held out her hand, palm down, revealing a circle of bare skin, surrounded by vaguely familiar silver scripts. “Your blood, Mage. I need it to access your scripting records.”
+
+Tala looked to Lyn, but the woman just shrugged. “It’s how she operates. My understanding is that it allows her to directly overlay the schema on her client within her vision, instead of having to do comparisons.”
+
+Tala found herself nodding. “That does sound easier.” She glanced at the hand, still extended her way. “If a bit… gross.”
+
+Holly rolled her eyes. “Well? Mistress Lyn did bring you here for this, right? Let’s see what we have to work with.”
+
+Reluctantly, Tala pricked her own finger, willing a spark of power into the blood just as she pressed a drop down upon the empty circle of Holly’s flesh.
+
+She had a moment of feeling oddly disjointed, but it passed as quickly as it had come. Her skin is much tougher to the touch than I’d have guessed.
+
+As the blood came into the circle, silver scripts all over Holly’s body flickered to life, their power then flowing into lines of copper or gold. “I see.” The older woman stood. “Come, now. Stand up. Let me get a good look.”
+
+Feeling incredibly self-conscious, and aware that they were in a highly public place, Tala stood.
+
+Holly began moving her about, looking at various parts of her like an alchemist deciding if an herb was worth processing. Holly made an appreciative sound as she inspected Tala’s hands but scoffed as she looked elsewhere.
+
+Finally, Holly poked her in the side of her left breast, just softly enough to avoid leaving a bruise. “Whoever designed these was a gifted idiot.” She snorted a laugh as Tala rubbed the side of her chest discreetly. “And he was likely in love with you.”
+
+Tala froze. “What?”
+
+Holly waved away the question but then seemed to answer it anyway. “Much of this is incredibly clever and well-structured; the majority of your surface inscription is interlinking hexagons of protection, each of three parts: first, a strengthening of the inter- and intra-cellular bonds, silver to sense for stress on those bonds with copper to be activated to counter the stress; second, inscription to reform bonds if they are broken despite the aforementioned work, again with silver and copper acting in concert; and finally, a mild enhancement of signal speed through your nervous system, when your heart rate rises, again silver to copper.” She shook her head. “Such a stupid trigger. That should be passively on, all the time, with gold so that it lasts longer. That way would actually take less material on average, and we could increase the effect… though you’d have to get used to it…”
+
+Tala blinked. “But the other two features?”
+
+“Hmmm? Oh, those are quite well executed, but you’ve no obvious defense against magic.”
+
+Tala glanced away. “I’ve found a different method for handling that.”
+
+“Care to share?”
+
+“Not at the moment.” She looked down. Something shifted subtly in the air around Holly, and Tala felt an odd, subtle pressure from the woman’s presence.
+
+“Fine, fine.” She looked back down at Tala, and the pressure faded. “The poor boy seems to have been afraid to take your feminine curves into account. It is almost like he built it around a man’s body, roughly your size, and slapped it onto your skin.” She shook her head, again, before poking the side of Tala’s breast once more. “So much unused surface area! And, in this case, unprotected.” She scowled. “He likely didn’t want to be seen as focusing on your chest.” She glanced down. “Or your hips, so he ignored them.” Another huff escaped her. “All it did was highlight his attention all the more.”
+
+Tala was quite flushed with embarrassment but decided to press on. “And the rest?”
+
+“Hmmm? Oh, no human is a flat plane, so he had to account for curves in the hexagonal connections, and he did quite well in modifying the scripts for rotational orientations.”
+
+Tala blinked, trying to follow. She only had the most basic understanding of inscription theory.
+
+“And… I’m losing you.” Holly sighed. “He did a good job.” She glanced at Tala’s head, clearly focusing on something only she could see. “Good use of standard mental enhancements, here, but again with the heartbeat trigger.” She sighed, once more. “His true genius came in the implementation of your hands!” She grasped Tala’s hands. “I don’t know why you only want your expressions to originate here, but I’m not here to judge.”
+
+Tala did not comment on the obvious contradiction.
+
+Holly looked at Tala’s right hand, obviously seeing inscriptions where there was only blank skin. “You focus on gravity manipulation for attack and submission but not area of effects!” She held the hand out towards Lyn for a moment before the latter’s raised eyebrow seemed to remind Holly that there was nothing there for anyone else to see. “Oh, right.” She looked to Tala. “Can you actually control this?”
+
+“Yes? What do you mean?”
+
+“The structure of these spell-lines is incredibly dependent on your ability to attenuate your focus. You must be a savant, incredibly lucky, or ridiculously stubborn.”
+
+“How would luck factor it?”
+
+“To not have killed yourself with these or been killed as you tried to use them.”
+
+Tala cleared her throat. “Well, it did take quite a while to get them to work as I wanted…”
+
+“So, stubborn, then. How many targets have you been able to indicate?”
+
+She hesitated, not wanting to admit the truth. Well, if I’m not willing to tell her the truth, I probably shouldn’t let her work on my inscriptions… “Three or four, at a practice range, but I have difficulty getting more than one while under pressure.”
+
+Holly nodded as if satisfied. “That makes sense. Especially with the odd methods of your mental enhancements. Imagine throwing a Mage’s thinking to the wind as soon as they need to be at their most disciplined.” She shook her head.
+
+Tala frowned. “Wait, faster thinking made it harder?”
+
+“Different thinking made it harder. Faster connection speed doesn’t speed up your mind so much as reduce the time between thoughts. That will change how you think as much as how fast.”
+
+Tala… actually understood that. “So, you can improve on this?”
+
+Holly snorted. “Can a fish swim?”
+
+I suppose that’s a yes…
+
+But Holly had already returned her attention to Tala’s hands. “Despite the… flaws, it’s genius how he got around the difficulties of…”
+
+Tala stopped listening. She knew how her magic worked and that it had been a pain to learn how to use the unusual style of spell-craft, but she had never regretted the choice. Her magic was precise and efficient. She was a scalpel next to the headsman’s axe of most gravity manipulators, and she sipped metals.
+
+Tala’s mind returned to Holly when the woman snapped her fingers in front of Tala’s nose. “You aren’t listening at all, are you?”
+
+Tala cleared her throat. “Well, I do know what my scriptings do.” She sat back down at the table, as Holly didn’t seem to need to inspect her directly anymore.
+
+Holly sighed. “We have a lot to discuss, and there is much we can improve. Your designer only thought of your inscriptions as multilayered, without truly embracing the potential of three-dimensional workings. I see other layers for muscle and bone spell-lines, and that shows a depth of thinking.” Holly smiled briefly at her own pun. “But they could, and should, be intertwined, unified.”
+
+“I’ve… I’ve never actually been able to test out those other layers.” She glanced to Lyn, who was staring at her with shocked fascination. Deeper inscriptions weren’t rare, per se, but they were unpopular because they could be very painful, and if they weren’t done perfectly, they led to magic poisoning at a much faster pace than even the most frivolous Material Creator would experience. “I hadn’t decided to commit to using them, yet.”
+
+Holly waved the objection aside. “Don’t be foolish, of course you’d never get these as they are. You’d be dead in a week.”
+
+Tala hesitated. They aren’t that crude… Are they?
+
+“No, no. I’ll get this worked up for you in just a day or so.” There was a strange light in Holly’s eyes.
+
+Tala leaned back, suddenly wary. “Ummm… What will this cost me?”
+
+“Hmm?” Holly was already moving her fingers through the air as if manipulating something Tala couldn’t see. “Oh, my alterations to your pattern won’t be cheap, but they will be worth it. The spell-lines themselves should only cost four or five ounces gold, but with the modifications, I wouldn’t be surprised if you only need refreshing for your passive scripts every year or so, but I’ll know more after I finish the changes.” She glanced to Tala’s hands. “Though, of course, your own use of the active abilities will force more regular inscription of the lines around the functions for your hands.”
+
+Tala blanched. Five ounces gold. Just for the inscriptions? How much would this crazy person charge for the schematic? “I only have five-and-a-half ounces of gold for inscriptions and to outfit myself for my first job.” She glanced at the empty wooden platter. “Well, five-and-a-half ounces, less fifty ounces copper.”
+
+Holly paused, glancing to Lyn. “What rate will she get?”
+
+Lyn cleared her throat. “That is confidential.”
+
+Holly waved a frustrated hand. “Fine, fine.” She turned back to Tala. “I’ll get you the basics for your first two jobs if you swear to come straight back here and not let another inscriber muck up my work. I’ll take a day to finalize the schema, and then three days to do the actual inking…” She began muttering to herself again, but Tala had, once again, hit a mental block.
+
+Three days of inscription work? She supposed if it were really only required every year or so, that would total less than she had been expecting. It was the same with the cost of the work, itself, but it was front-loaded, and she did not have enough money as it was. She cleared her throat, drawing Holly’s attention back. “I will need at least half an ounce of gold for another necessity.”
+
+Holly’s eyes narrowed. “More secrets, eh?” She drummed her fingers on the table as she finally sat down once more. “Or, perhaps, the same secret.” She looked into Tala’s eyes, but Tala glanced away. “Fine. Five ounces gold, with a promise of prompt return, and”—she glanced to Lyn, then back to Tala—“eight ounces gold upon your return. Fair? I’ll finalize your inscriptions, then.”
+
+After two trips, Tala should have an additional eleven ounces gold, before any expenses, so she should be able to afford it, but… She looked to Lyn.
+
+The other woman sighed and shrugged. “She’s the best, honestly. Most of our Mages won’t let anyone else work on them if they can help it.” After a moment’s hesitation, she added, “Well, in truth, most are satisfied with her apprentices.”
+
+Holly scoffed. “Of course they are. Most just want to throw fireballs or some other simple nonsense.” She gestured to Tala. “This creature wishes to do true magic.” She grinned. “You will play a golden harp beside their hide drums!”
+
+A harp is easily drowned by the sound of drums… Tala opened her mouth to reply, but Holly cut her off.
+
+“A long bow beside a wooden club, then, if instruments aren’t well known to you.”
+
+Tala tried to object again, as the instruments in question were so basic the assumed lack of knowledge on her part could only be insulting, but Holly overrode her, again.
+
+“But as I was saying, you will need at least three days to adjust to even the first stage of enhanced signal speed, both in your own head and in your nervous system as a whole.” She scratched an itch behind her left ear. “I bet you’ll have at least three cardiac arrests before your brain and heart work out a new rhythm. Expect lots of hiccups, too.”
+
+Tala’s face hardened. “Excuse me.”
+
+“What did you expect? I’d leave your involuntary mental functions alone? That would be dangerous! Imagine enhancing only a portion of your mind. You’d be lucky not to fry within your own skull.”
+
+“That is not what I—”
+
+“And moving! I can’t wait to see you try to walk.”—She patted Tala’s arm. — “You’re young, though, that part should acclimate in a matter of minutes.”
+
+“Hold on a mo—”
+
+“Yes, this will be a work of art, my next masterpiece will reside on the canvas of your power. Lesser Mages will not be able to comprehend your majesty when I’m done.” She stood, in a rush, turning and striding away.
+
+“Wait a minute!”
+
+Holly ignored her but called over her shoulder. “Mistress Lyn, you’re her handler, right? Book her two jobs, leaving in a week, and returning as soon thereafter as possible. Make them safe, or I’ll never get my money. Bring her by the shop tomorrow evening.”
+
+Lyn called a vague sound of affirmation.
+
+Tala spun on the woman. “What do you mean, okay? I didn’t agree to anything!”
+
+Lyn shrugged. “You won’t get a better deal, and honestly, I’d be surprised if any other inscriber would take you now that Holly is interested.”
+
+Tala glowered. “You’ve tricked me.”
+
+“Into the best inscriptions this side of heaven? Yes, yes, I did.” The clerk looked almost smug.
+
+“She’s going to kill me! You heard her.”
+
+“She won’t leave you dead. It’s not hard to restart a heart if it actually goes that far.”
+
+Tala growled. “I don’t like being backed into things.”
+
+“This is for your own good.”
+
+“You didn’t understand any more of what she said than I did.”
+
+“I didn’t need to. She has never failed to improve the magic of the Mages she works on. And I figured that she would be fascinated by your… unusualness.”
+
+Tala’s eyes narrowed. “You said she was better than average.” A dawning sense of understanding was growing within her. “You knew that she’d be like this.”
+
+Lyn quirked a smile. “And you knew that a fresh graduate shouldn’t really be getting a Mage’s rates.” She winked. “I’ve got to ensure we get your true worth from you, or I’ll look bad.”
+
+Tala’s mouth dropped open. “You… knew?”
+
+“Suspected. You know, one of the reasons a mageling is paid less is that their inscriptions, and their use of them, aren’t fully worked out yet.” She shrugged. “Mistress Holly will take care of that.” Lyn smiled, again, patting Tala on the shoulder. “I’ve just helped you become who you wanted me to believe you were.”
+
+Tala groaned and put her head into her hands. “I suppose I deserved that.”
+
+Lyn’s voice had just a hint of sympathy in it. “It won’t be so bad, Mistress Tala. Come on. Let me buy dessert. You can stay at my place tonight.”
+
+Tala looked up hopefully. “Are you sure?”
+
+“Absolutely. You’ve a busy week ahead.”
+
+Reluctantly, Tala followed the other woman to a nearby food cart to select a consolation.

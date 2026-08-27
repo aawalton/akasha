@@ -1,0 +1,265 @@
+---
+id: 352bdad8-0890-5246-b414-b0dad0ef321a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 70 — Crazy"
+slug: 0118-chapter-70-crazy
+partOf: metaworld-hopecore
+position: 118
+ownLength: 3454
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3605093/chapter-70-crazy"
+royalRoadId: "3605093"
+---
+
+"There is a thin line between love and hate, and I happen to know that line. That line is called violence."
+
+James Baldwin
+
+The ceremony had entered its winding golden coda by the time Eppie stumbled back to join Zara, whose makeup was melting in an aesthetic manner. Kellie and Kel did not return with her; they had peeled off twenty minutes earlier, escorted by a production assistant with a headset and a clipboard, to do whatever needed to be done to conclude the night with a headliner finisher.
+
+Eppie immediately missed the space Kellie and Kel occupied; the empty seat felt strange, like a bad omen she couldn’t shake. Her father caught her before the feeling grew excessive. He slid a seat over and pulled her to his side with the kind of grip that suggested he'd forgotten, momentarily, that she was not actually his child. He plonked Sony’s Grammy in her lap. After all, Curon had produced the song, and he could lay claim to three of them. He held her possessively with one hand, a second Grammy cupped his other hand, looking like a greedy dragon with an arrested princess.
+
+Eppie knew how they looked, an industry executive, with his arms wrapped that tightly around a teenage girl half his size, her face mashed sideways into his lapel, listening to Curon mumbling about how proud he felt.
+
+In their private world, he was a dad, and she was his little girl who had just won the championship in the cinematic classic A Little League of Their Own.
+
+“My girl, my girl,” Curon hummed, his voice thick in a way that had nothing to do with the open bar. “Best Pop Solo Performance, Best Pop Vocal Album, and Record of the Year—do you understand what you've done? Do you have any idea what that means? You’re fifteen. What’s in store for me when you're sixteen?”
+
+“That’s… a choice of words…” Eppie answered, grinning wickedly despite herself. Curon was tipsy on something, and it showed. Her father had an arm hooked around her, radiating happiness like Mr Chin after a warm meal.
+
+“Hey, I'm allowed to be proud,” Curon slurred, grinning from ear to ear. “Proud of you.”
+
+When she leaned in to smell if her adopted father was really drunk, he pressed his lips violently against the top of her bangs, then came away awed by the taste of hairspray. Eppie didn’t have the heart to push Curon away, because the moment was warm and the world felt right.
+
+Trent Davis, watching from one seat over, said nothing, but his stone-cold sober expression suggested he was filing it away as material for later teasing.
+
+Zara, on Eppie's other side, arrested her other arm, sharing in the delight for entirely different reasons.
+
+Across the aisle, the Universal section was also joyous. Vanessa Vines went up twice in the space of fifteen minutes. Song of the Year first, then a second category. Vines was thankful but reserved. There was no tearful speech, no shaking hands clutched to her chest. Vines had thanked her mother, said maybe four sentences more, then walked off.
+
+Valorie sat next to Woodhouse, demure and patient. Their eyes met again. She said something to Woodhouse, then Sir Woodhouse took out his phone and took a picture of Zara, Eppie and Curon.
+
+I hope that’s for teasing… she nudged her father. Curon raised an award with one hand and made Eppie raise the other.
+
+The lights dimmed again, properly this time. A low ripple of anticipation moved through the crowd.
+
+"And now, to close out the fiftieth annual Grammy Awards... please welcome to the stage, Kellie Noah, performing Umbrella."
+
+The stage swallowed itself in black, and for one suspended second, they were lost in the depthless space of a fingerless dark.
+
+Then the light found her—Kellie Noah, Grammy winner, superstar.
+
+Moisture filled the arena at the same time as the Garage Band beats, then a sheet of rain fell from the ceiling.
+
+It came down as a wall of falling silver that Kellie walked straight into without flinching, hair plastered dark against her skull by the time PayZee delivered his rhymes. Eppie felt it in her chest before she heard the words, that low-to-high cello soaring that only Kellie could manage. That was her “biblical voice”, a vocal talent greater than Lucia Lancet’s, rivalling a younger Katrisha, amplified through forty thousand-watt speakers.
+
+Whoever designed the stage was going to receive a hefty bonus, for the stage turned golden from the magic of laser streams blasted into the falling water. Whole sections were threaded into frozen beads of gold, crossing from ice-blue to warm-wash, a whole season compressed into forty feet of stagecraft. Dancers, bodacious and barely clothed, slapped into the flood on the downbeat, sending blasts of water into the audience closest to the stage. Celebrities screamed with thrilling joy, stood up and danced. Cameras swung to and fro in every direction, telling the people watching at home that this was the epitome of cool, the materialised American Dream.
+
+This was art. The art of the masses.
+
+Kellie's voice cut through all of it, raw and uncompressed—wetter, wilder, winding upward exactly where the bridge demanded. By the second chorus, she was on her knees in ankle-deep water, drenched hair whipping in a slow arc with every head-snap, mascara running in black streaks she didn't bother to wipe.
+
+You were my UmbrellaYou were my Umbrella.
+
+The final chorus brought the whole dance company surging back through the deluge, the falling water roared in timed sheets with every bass thump, lit gold-blue-gold like some pantheistic myth of Pangean floods playing out in real time.
+
+Kellie stood alone at the centre of it, soaked to the bone, chest heaving, arms thrown wide, bigger than the stage, bigger than her small world.
+
+She pointed at the crowd, at the Sony section.
+
+Applause erupted like a microburst. Davis stood and clapped like Orson Welles in Citizen Kane. Everyone else did it with far less performativity.
+
+As her tiny palms released [Strength] [20] thunderclaps, Eppie realised that her face was wet too.
+
+Damn. She thought to herself. That’s some good stage magic to fling the water straight to my face.
+
+As soon as the song ended, Eppie was on her kitten heels, traversing the aisle with Curon’s pass to see Kellie. Zara had wanted to join her, but was far too emotionally intelligent to be their third wheel.
+
+“I’ll take care of this one,” Curon told her. “Go congratulate your singer.”
+
+Eppie ran. A production assistant waved her past the rope before she even flashed the lanyard. She had no idea where she was going, so she used her not-crying face on every usher she came across, waving the pass while shouting, “Kellie! Sony! Where?!” to extract directions from the charmed staff.
+
+The corridors backstage were a lot less glamorous than Eppie expected. They were pragmatic, unadorned, and not meant to be seen by the public. Thanks to the deluge on stage, the place also smelled like mould and antiseptic, with a stink of fresh chlorine. She tripped twice over old cinder blocks and exposed cabling that had come loose thanks to the humidity. The stronger the stink, though, the closer she came to her goal.
+
+Eppie was fairly sure she was still a block away from the main stage when her [Perfect Pitch] picked up Kellie and Kel’s distinct voices.
+
+They were arguing.
+
+FUCK. Eppie swore. Her [Perfect Pitch] fired up its [Causality] engine. The angry voices had the synesthesia of warm maroon, growing hotter as the volume increased.
+
+Frantically, she sprinted in heels here and there, checking every room and cranny, bursting into service wardrobes and knocking on security doors.
+
+The voices grew louder, angrier. The synaesthesia of sound was bordering on scarlet.
+
+FUCK FUCK FUCK. She had let her guard down.
+
+She found the alcove almost entirely by accident. It had a door opening into a larger corridor leading to the main stage. Opposite the stage entrance was another corridor; inside it was yet another door, ajar, showing a narrow seam of light.
+
+It was one of the storage rooms for props used in the half-dozen performances.
+
+The technical crew was gone. Security was elsewhere. But the voices were still there.
+
+“—four red carpets, Kellie. Four. 'Carrying the clutch.' On national TV, what? Am I a bitch?” Kel's voice was climbing, carrying the cadence of a man who had been building his grief for months. “I look like a foo. And you ain't said nothin'. Just stood there laughin'. Like it's cute—”
+
+“They're playing, is all, Kel, don’t take it to heart.” Kellie, soft, smaller than her stage voice by a factor of ten, sounded like a meek librarian being berated by a basketball coach.
+
+“Playing? Playing?” Kel laughed, but it wasn't a laugh—more like a jackal’s yapping. “Nah, see, that's the thing, Kellie. Everybody keep telling me it's playing. I lost the New Artist award to some country singer—just playing. PayZEE collaboration, I wasn't invited to that—they jus playing. Some nigga commenting under your shit in Christmas, talking 'bout how I'm 'just decoration'—playing. You laugh it off every damn time, like I'm supposed to just take it. I'm done playing.”
+
+Eppie froze an inch from the door. Do I go in?Do I let this play out? She was certain that if she walked through that door right now, Kel’s violence would erupt like a supervolcano.
+
+From the gap, she could see that Kellie was folding in upon herself, that she actually believed Kel’s anguish was justified. The euphoria from the Grammy wins was gone. Despite her hair and her push-up bra, this demure child was the real Kellie Noah. Her real name was Kelly Price. The voice of an angel who had the luck, or misfortune, of running into Trent Davis.
+
+“And that little blonde nepo bitch—” Kel's voice cracked into something uglier, lower, a C-word Eppie wouldn't repeat even in her own head, “—following you around as she made you. She didn't make shit.”
+
+Something shifted in Kellie's stillness.
+
+“Shut up,” Kellie’s retort was a physical slap. Shut up. She heard the words snap Kel’s ego like a drop kick. “Don't talk about Eppie like that. You’re just jealous—”
+
+OH NO. Behind the door, [Strength], [Agility], [Acrobatics], [Athletics] fired off at the same time, near-tearing her muscles as Eppie shouldered through the gap.
+
+Her hand went to her feet, and her Chanels went flying like a pair of tomahawks.
+
+The sound that followed was too quick even for Eppie.The crack of it reached her brain before she cursed herself for hesitating—a flat, wet sound, shoe against skin, followed by the snap of knuckles hitting air.
+
+Then the proverbial bass dropped.Eppie burst in like a one-girl riot squad, sending the hollow-core pane flying off its hinges to crash against the wall. Her body crossed the threshold in a second, before the rest of her thoughts caught up.
+
+Kellie was falling backwards in slow motion because a $520 US women’s 5.5 Chanel kitten-heel slingback in ivory just struck her calf.
+
+Overhead, Kel’s fist grazed her bangs by a few millimetres.
+
+The other $520 shoe flew past Kel’s nose, missing his face by an inch.
+
+Eppie caught the singer before she could barrel into the waist-high cupboard.
+
+Kel stood over them. He appeared confused as to where the shoe, and now this barefoot gremlin-in-orange, had come from; his hand was still half-raised, unbalanced from the missed swing. He did not look ashamed, merely surprised and enraged; his eyes were misted over, blank with vitriol and joyful catharsis.
+
+“I got you.” Eppie swung her singer behind her, placing herself between Kel and Kellie.
+
+Kel took a step forward, the simmering violence bursting through the paper-thin crust of his ego.
+
+“Douchebag—” Eppie’s [Vocality] filled the room like a thunderclap. “Don’t you fucking dare.”
+
+Evidently, neither Eppie nor Lana had been in a passion-fuelled street brawl before, because her use of the voice clearly made Kel twice as mad and half as lucid.
+
+“Eppie! No!” Kellie pulled on her dress, an act that Vittoria Conti absolutely did not give allowances for while hand-sewing the delicate silk folds with their horse-hair inserts. Like every girlfriend in every street fight ever recorded, Kellie added to the chaos with her good intentions. The fabric held, but Eppie couldn’t dodge—not that she intended to.
+
+“YOU BITCH!” Kel was a mass of rioting rage. Whatever had been eating him was now the beast that mocked the flesh it feasted upon. The green-eyed monster was unleashed, and it was going for her jugular.
+
+Eppie blocked the punch with her lower forearm instead of her jaw. She was defenceless, but her [Physicality] seemed to know what to do. Either that, or her Suzuki Exercises held more secrets than her instructors had taught.
+
+Her [Strength] and [Vitality] absorbed the blow. Unfortunately, physics had a way of catching up to the unwary. Kel’s blow travelled up her arm and into her chest, sending a wave of searing hot pain through her torso. The rapper might not have been a fighter, but he was a nationally renowned street dancer. He had serious strength, one that her tiny frame could not contain while barefoot on dusty concrete.
+
+What jarred Eppie, however, wasn’t being thrown aside.
+
+Quest Triggered
+
+[The Thief of Joy]
+
+You have discovered a Karmic Parasite, a lesser Usurper. These are individuals whose very existence misaligns the causality of those around them. A Karmic Parasite matures by transforming the artistic potential of joy, dreams and wonder into misery, denigration and abasement.
+
+This Karmic Usurper is a budding Parasite.
+
+The Usurper may reap the Karmic Parasite for [Causality] through [Noblesse Oblige].
+
+The pop-up flickered and vanished.
+
+Kel's eyes went animal-wide. He raised his fist for another strike, his lips cruel with satisfaction.
+
+Eppie dropped body-first onto a side table, nearly knocking over a Grecian vase full of flowers. It took her a moment to realise that she had found a prime source of [Noblesse Oblige]. Her signature Defence-Against-the-Usurper apparatus. They were in the backroom, and someone had stowed all the bouquets in a Grecian vase with about $400 worth of blooms slowly dying in stagnant water, roughly the dimensions of a fire hydrant.
+
+Eppie’s [Strength] roared. With a single heft, in an act that had Kel backpedal and Kellie scream, she picked up the whole damn thing and held it like an oblong, flowery kettlebell. The water sloshed; the thing was incredibly heavy.
+
+Her dress wept. Somewhere, an Italian designer woke up in a dark room, covered in cold sweat.
+
+“Back up.” Eppie remained standing between Kellie and Kel. “Or else.”
+
+The absurdity of the situation seemed to… pierce Kel’s temporary insanity.
+
+The rapper laughed—a genuinely disbelieving bark, the yipping of a dog-man who had not yet updated his sense of reality. “You gonna throw a plant pot at me? That thing weighs more than you do.”
+
+“Calm the fuck down. Or you’re going to eat this pot,” Eppie said, conversationally, as if discussing the weather.
+
+Her stamina dropped. Her stamina was restored. She lifted the pot an inch higher.
+
+“What the fuck—” Kel fell into a fighting stance.
+
+“You abused Kellie, tonight’s Grammy winner.” She said loudly, water sloshing as she breathed. “That’s going to cost you. But it doesn’t have to cost you everything. You can salvage your career still.”
+
+The coldness of her logic seemed to give the man pause.
+
+“I am Curon’s adopted daughter,” Eppie lied as she breathed, pouring water on the grease fire. “I am Julianna Vaughan’s student. I will have you removed from Sony so fast you won’t even be able to beg security for your… gold chains…”
+
+Shit… was that racist… Eppie groaned internally.
+
+“You crazy…”
+
+“Oh yeah, bro…man.” Eppie hefted the vase, securing her grip. “I am loco… so unless you’re writing a Kel G eulogy for your next top 100, I want you to apologise. Apologise right now, and repent.”
+
+Kel’s face grew grim.Finally, reality caught up. The rapper suddenly recalled that he had a career. Holy shit, Eppie couldn’t believe it. Was this going to be her first [Usurper] fixer-upper?
+
+“Kelvin Grant,” her [Vocality] tolled Kel’s real name like a church bell. “Apologise—”
+
+Before her thought even finished, Kel lunged.
+
+Kellie screamed.
+
+With a Herculean heave, Eppie delivered her [Noblesse Oblige].
+
+As before, her sincerity displaced space with the tearing sound of silk. The flower vase crossed the distance between them with the unbothered velocity of a ripe jackfruit, and Kel, to his credit, understood the danger before his brain registered the absurdity of it. He got both arms up and actually caught it.
+
+In retrospect, Eppie explained to her father later, this was the worst possible outcome for Kel. She reasoned that one simply did not halt the inertia of a hundred pounds of wet ceramic, flowers, and water moving at a velocity no barefooted, 5'1" girl could impart. And if one did stop the vase. One did not stop the sloshing water. Or the dying flowers. Or the slippage that followed.
+
+Kel fell backwards like he'd been hit by a bag of liquid cement. His legs buckled, the vase detonating against the floor in a starburst of shattered clay, stems, and rotten water.
+
+Quest Progressed [The Thief of Joy]
+
+You have diminished a Karmic Parasite, a lesser Usurper. You have prevented misery, denigration and abasement.
+
+Your act of [Noblesse Oblige] has prevented the Parasite from acquiring his first victim.
+
+You have gained [Causality]
+
+You have reaped the [Karmic Parasite] directly or indirectly without the application of [Noblesse Oblige]
+
+[Karmic Balance] will take place.
+
+The Usurper may reap the Karmic Parasite for [Causality] only through [Noblesse Oblige].
+
+WHY THE FUCK DID YOU CATCH IT?! Eppie cursed her stubborn foe. Can’t you dodge like a normal person?
+
+On the other hand, the post-balance penalty wasn’t that bad. Was it because last time, she had Valorie and Marie as collateral? The greatest penalty, it seemed, was reserved for trespasses involving victims.
+
+Running on pure adrenaline and whatever alchemical means the boy used to maintain his pain tolerance, Kel came back up, wet and swinging, disoriented and deranged. He looked genuinely bewildered, looking less like a man who'd been in a brawl with a little girl and more like a man who had lost a fight with an Armstrong Garden Centre.
+
+To her chagrin, Kel hadn’t stopped “playing”. The rapper grabbed a chair, a heavy, hotel-grade banquet chair, the kind built to survive decades of weddings—and threw it at her with both hands and his whole back behind it.
+
+Kellie screamed and screamed. MY EARS! Eppie hurriedly shut down her [Perfect Pitch].
+
+Her [Strength] and [Agility] caught it one-handed, even as she fell back from the momentum.
+
+Kel’s eyes narrowed.
+
+Not wanting to lose more [Causality], Eppie gently placed the chair beside her.
+
+The rapper stared at the chair. Stared at Eppie. His mouth opened and closed like a fish's. He looked around suspiciously, suddenly realising that, maybe, he WAS in a dream.
+
+Eppie wasn’t giving the man any more chances. Kellie was screaming for both of them, so she picked up the coffee table, the one that was strong enough to hold a hundred pounds of rotting water and flowers, pulled it from the floor with one hand, then launched it like a discus across the room.
+
+Kel leapt and dodged, tripping over the eruption of miscellaneous items that came with a room used to store props, furniture and lighting.
+
+And this was the scene that Curon and two security guards burst into:
+
+Kellie screaming, pressed into a corner, cheeks pale, frozen solid; Eppie standing amid the ruins, makeup streaked, dress soaked, barefoot, breathing hard but upright; Kel scrambling backwards to the back of the room, half-drenched, looking like a wild man.
+
+Her father’s face went to Eppie, then to Kel, then to Kellie, then back to Eppie.
+
+A flap of her dress fell out. Eppie almost burst into flames. It was… her padding.
+
+Curon turned to the security guard. “Sir?” the guard gulped.
+
+“Give me your gun,” Curon said suddenly to the petrified young man with a hand on his holster. Her father’s face was beyond fury now; his expression was homicidal. He was staring at Kel with absolute intent to deliver the street justice of a man who had grown up in the Bronx in the seventies, a man who knew his colours and was far too imaginative for his own good. “Give it to me now.”
+
+Eppie’s heart made a shattering noise as dewdrop tears fell from her eyes.
+
+That's 9000 fucking [Causality] Dad… She wanted to say. And he's concert security… they only have Tasers…

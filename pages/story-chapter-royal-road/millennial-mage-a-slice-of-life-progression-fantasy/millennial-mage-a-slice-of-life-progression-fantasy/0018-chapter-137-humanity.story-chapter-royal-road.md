@@ -1,0 +1,335 @@
+---
+id: 7a3bfe92-a6ca-58f6-8f2f-01944e2e86b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 137 - Humanity"
+slug: 0018-chapter-137-humanity
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 18
+ownLength: 3014
+unit: words
+ownProgress: 3014
+publishedAt: 2022-06-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/936507/chapter-137-humanity"
+royalRoadId: "936507"
+markedReadAt: "2026-06-29T19:35:52.216Z"
+---
+
+Tala let her mind expand, her focus broaden, and her body react on instinct. She forcibly pushed all thoughts of the tree’s god-king from her mind. Not helpful…
+
+Flow’s hilt was at once perfectly smooth and easy to grip securely. It was cool, helping keep her hand from sweating, while not sucking the heat from her hand. In short, it was perfect for her, contouring to her palm and fingers beyond the ability of any craftsman to replicate.
+
+As she’d used the weapon more and more, Tala had noticed that as her grip shifted, gaining better form for sword work, the hilt had seamlessly shifted, maintaining perfect shape for how she was holding it, in that moment.
+
+The grain of the wood beneath her feet was tight and smooth, polished to an almost mirror finish, yet somehow still allowing for firm purchase.
+
+Her stance was relaxed, her muscles loose and ready to react at a moment’s notice.
+
+Rane lunged, driving Force towards her heart in a powerful thrust.
+
+A flick of Flow knocked the point aside without conscious thought on Tala’s part. She slid down the length of his blade, sending out ripples of power as the magic of the two swords conflicted.
+
+She leapt forward with a quick step, maintaining the bind of their blades, the contact letting her know where his weapon was without having to see it, directly.
+
+Even as she closed and lashed out with a back-fist, leaving Flow in her off hand, Rane spun around the strike, bringing his sword in an almost impossibly tight twist, cutting towards her back.
+
+The next moments were a blur of attack and counter, rolling one upon another.
+
+Force and Flow clashed in a staccato series of magical concussions that resonated in Tala’s very bones.
+
+It was a pleasant thrum that pulled a smile from her lips.
+
+As the exchange continued, it became clear that Rane was more tentative than he had been in their previous fights. This allowed Tala to stand on an almost even footing with the big man.
+
+Tala moved Flow through its three shapes with almost no effort, each blow seeming to reverberate through Force and into Rane’s hands and arms.
+
+Force was soul-bound to Rane, now, but Flow had a greater magical weight to it. Its bond to Tala was more deeply ingrained in the weapon than Force’s was with Rane. Each merging Flow had gone through had bound it tighter with her. Those features both gave Flow’s strikes extra oomph.
+
+She didn’t resort to any tricks, not for this first bout, instead relying on her skill, such as it was, along with her enhancements.
+
+Rane wielded his massive blade with the dexterity of a calligrapher using their favorite brush and fine ink.
+
+Even so, despite his skill and competence, Tala was becoming able to see more and more openings. Though, she was unable to take full advantage of any. However, she was able to alter her engagement in order to press him more closely around those openings.
+
+As was usual for them, Rane’s base skill slowly tipped the balance of the exchange, forcing her to extend herself ever more, until at long last, she couldn’t recover quickly enough to stop his riposte.
+
+She did have an instant to react, however, and she used it to great effect.
+
+Force caught her ribs, lifting her free of the ground and tossing her into the nearest wall.
+
+She groaned as she slid to the floor.
+
+Rane grinned over at her. “You had me there for a minute.”
+
+She sighed. “You just had a moment of doubt in your abilities.”
+
+He cocked his head. “So, why not capitalize on that? You have a deep bag of tricks. You didn’t use any.”
+
+She kicked back up to her feet. “Crushing your confidence wouldn’t do anything good in the long run. I need my sparring partner in top form if I am to improve.”
+
+He gave her a long, contemplative look. Finally, he nodded. “Alright, then.” Rane frowned. “Wait…where’s Flow?”
+
+Tala grinned, pulling Flow from the floor at Rane’s back. As Rane’s inscriptions activated, throwing him into a forward flip to avoid the sword coming at his back, Tala stepped forward, reaching for his head.
+
+As his head whipped towards her, she pulled her hand back, so that she was moving away from him, while he caught up with her palm.
+
+Rane’s scripts threw him forward regardless, slamming his forehead into her retreating palm.
+
+The impact reversed the direction of his movement, even though she moved with him, to soften the blow.
+
+Once she had contact, she was able to twist around, taking him to the ground and pressing Flow, now in the shape of a knife, against his throat.
+
+He groaned. “Ow.”
+
+“You ok?”
+
+“Yeah…Thank you for the soft landing.”
+
+She grinned down at him. “Happy to assist.” She stepped back, offering him a hand up.
+
+He took it, standing and stretching. “Again?”
+
+She considered. Still feeling the tingles of existential dread, she nodded. “Again.”
+
+* * *
+
+Tala had fully calmed and cleared her head after a few more bouts. After she thanked him for the training, Rane bid her goodnight and headed back to his inn.
+
+Alone, she was able to dive back into her fusing with a renewed gusto.
+
+She was going to be facing a god the next day, and she wanted as much strength as she could muster.
+
+Yes, I need as many snowflakes as possible before I visit the forge. Who knows? I might just cool it off. She did not let her focus fracture.
+
+When she absolutely had to take a break, her magesight aching from straining inward, she switched to practice with the iron spheres.
+
+Since she couldn’t easily turn off her magesight, only suppress it, Tala decided that forcefully turning it outward would help. Blessedly, it did seem to.
+
+As she worked on her mental construct for marking her target, the paintbrush she imagined shrunk, as did the amount of magic she left on the target, allowing her to progress to the next balls up through the difficulties.
+
+She marked and released the targets dozens of times per break.
+
+As soon as she felt able, she would move back inside herself and crochet another step towards fusing. At most, she could do two stitches between periods of respite.
+
+It was exhausting, deeply taxing work.
+
+Ironically, the crocheting became a mental break as much as anything. Maybe, this is why some people stitch as a hobby.
+
+Finally, hours after midnight, she found herself in need of a break from her internal magesight, but mentally not up for painting targets with her power. She’d been struggling to form the image of a paintbrush delicate enough to pierce the mesh of this second to last ball for the past few breaks.
+
+Why can’t it just be marked? I have a near perfect mental picture of the rusting target. She pictured the infuriating wooden ball in all its inglorious roundness.
+
+The wooden ball within the iron-mesh ball took on a slight glow to her magesight.
+
+Tala blinked, glancing down at her left hand where her middle finger and thumb were pressed together.
+
+But…I didn’t reach out to mark it…
+
+It was true, there was no ‘mark’ of her magic on the small ball, the ball was simply targeted, no mark required.
+
+I didn’t grab it. I couldn’t have, the mesh is too fine.
+
+She picked up the iron ball with her right hand, the mesh so fine it could have served as bug-netting.
+
+And now, it’s just targeted.
+
+She thought through the process. I indicate my target by pointing, grabbing it with magic, or marking it with a mental paintbrush.
+
+Then what?
+
+Then, I have to have an understanding of what I’m targeting. I connect that understanding to what I’ve indicated, and the target is locked on.
+
+Why?
+
+Why…what?
+
+Why did she have to mark the target, or grab it, or indicate it, to target it?
+
+If I don’t, how will the target lock?
+
+She cocked her head to the side. No. I have an understanding of what I’m targeting. Why would I need anything else?
+
+The click of a mentality change rushed through her mind, shifting her understanding yet again.
+
+Blessedly, her mental ruts were not nearly as set as they had been surrounding other recent revelations, so she was only left with a mildly splitting headache.
+
+“Ow…” She glared around at the empty training room, Terry sleeping in his corner. “Fine… I’ll sleep.”
+
+As she moved over to where she wanted to open Kit for the night, she hesitated.
+
+A small smile tugged at her lips. Might as well test.
+
+She pulled out the last ball, a complete, hollow sphere of iron. She swirled the ball, feeling the wood move around inside.
+
+A wooden sphere, the same as all the others.
+
+“Mine.”
+
+She felt her lock take hold, even though she couldn’t see it, even with her magesight, and no evidence of the power leaked out.
+
+She laughed, spinning in a circle. “I did it. I did it! I DID IT!” She laughed again.
+
+Terry lifted his head for a moment, gave a half-hearted congratulatory trill and laid back down.
+
+Tala continued to laugh. A wide grin painted her face until a thought intruded into her mind like a shard of ice.
+
+Her smile fell away, and her eyes widened, color draining from her face.
+
+“Oh…oh rust me to slag. My iron salve would be useless against someone who could do this.”
+
+* * *
+
+Tala…did not sleep well that night. Not even during the last part of the night she actually tried to sleep through.
+
+When Mistress Odera arrived for breakfast Tala was wide awake and waiting.
+
+The older woman commented several times that Tala was unusually quiet, but the observations never inspired a change, and they parted ways having barely said a few dozen sentences between them.
+
+Tala spent the remainder of her time, before her appointment with Master Jevin, fusing as much as she could.
+
+Three hours after noon arrived, and Tala walked into the Constructionist’s Guild entry, coming face to face with Grent.
+
+“Mistress Tala!” He smiled, holding his arms wide.
+
+Tala just stared at him for a long moment. He was one of the farthest things from her mind, at the moment, and so she had no ready reaction to his sudden presence.
+
+His smile faltered slightly.
+
+She pulled herself together. She did not want another awkward interaction with this man. She took a deep breath, put on a polite smile, and bowed her head. “Master Grent, good day to you.”
+
+His smile faded, and he gave a slight, professional bow. “Good day. To what do we owe the pleasure?”
+
+“I have an appointment with Master Jevin.” Right… the god-creature that’s probably watching me right now.
+
+Master Jevin’s voice filled the entry room, a comfortable volume for them both. “Yes. Welcome, Mistress Tala. Please head on back.”
+
+Her eye twitched, but she was mostly grateful to have an easy excuse to leave Grent behind. Oh, thank the rusting slag. “I have to go. Bye!” She waved to Grent as she moved past. Terry watched Grent as she passed but settled back down after he was out of sight.
+
+Tala quick-walked down the hallways, refusing to let herself think on what she was walking into. I’m already in the tree, and if he wished me harm, I couldn’t escape before he enacted it upon me.
+
+Neither those thoughts, nor “not thinking about it” really helped.
+
+Thankfully, she only needed occasional correction by Master Jevin’s disembodied voice. Directing me to the slaughter…
+
+A short minute later, she came into his office, and her mind forcibly returned to all the reasons she’d been nervous.
+
+He controls the whole rusting tree. Despite the nerves, however, she found it incredibly difficult to really integrate that understanding. Where I stand, he could snuff my life with a thought. That should evoke terror. Maybe, I’ve just gone numb?
+
+Master Jevin was sitting in one of his reading chairs, waiting for her. “How about you have a seat, Mistress. We’ve a lot to talk about.”
+
+Tala stopped. “Couldn’t you just move me to the chair?” Really? Poking the bear?
+
+A smile almost seemed to tug at his lips. “I could. So could Master Bob, but he’d have a harder time of it.”
+
+She grimaced. “That’s…fair.”
+
+After a long pause, Master Jevin sighed. “So…?” He gestured to the chair opposite him.
+
+Tala noticed that a small tea service had been set out, including a selection of scones. She begrudgingly moved forward and sat.
+
+“Let us address the Leshkin in the room, shall we?”
+
+Odd turn of phrase, but alright. She grunted her assent, snatching a scone to eat as she poured herself some tea.
+
+Master Jevin gave a half smile. “You have stumbled upon some rather…difficult information.”
+
+She grunted again.
+
+“Do you have any idea how many people, within Makinaven, know even the small part that you’ve deduced?”
+
+Swallowing, Tala shook her head. “Not many?”
+
+“You are the only one.”
+
+She frowned. “I find that hard to believe.”
+
+He held up two fingers. “First, your magesight is incredibly powerful and detail oriented. I doubt you have a true grasp on how rare a gift that is. There are maybe a small handful of Archons, living, who could perceive more than you.” He grinned. “There are many who understand more from what they see than you do, but that’s a separate issue.” He dropped one of his fingers. “Second, now that you know, what do you want to do?”
+
+“Get as far from here as possible.” The response came out before she could consider how it might be received.
+
+His smile never wavered. “Precisely.” He dropped the second finger.
+
+Oh. Yeah, that checks out. If basically anyone who figures it out leaves the city, there wouldn’t be any here, besides me.
+
+He nodded, taking a sip from his own cup before continuing. “I see you understand.”
+
+She made a vague noise of assent.
+
+“So. That part addressed, let’s get to the meat of the issue.”
+
+“You are the god of this city.”
+
+He snorted. “Not inaccurate, but not what I’d pick as a descriptor.”
+
+“Oh?”
+
+“I don’t desire, seek, nor tolerate any sort of worship or veneration.”
+
+“But the power level?”
+
+“Near so, yeah.”
+
+“What’s that mean?”
+
+“It means that I wouldn’t want to test myself against the Forest Spirit, or any of the others, not even here.”
+
+That’s probably quite wise.
+
+“But effectively, yes: My authority, here, is without dispute.”
+
+“How? Why?”
+
+His smile turned a bit sad. “Well, there used to be a trend, millennia back, to form your Archon star out of a medium taken from a powerful thing of magic. I chose a simple wooden sphere.”
+
+No.
+
+“Wood, taken from this very tree.” His sad smile became lopsided. “It worked, beautifully. Little did I realize at the time that these great trees never really relinquish their hold on any part of their being. Even bits that fall, or are cut off, are effectively still a part of the whole.”
+
+“So, you soul-bound the tree.”
+
+“So, I soul-bound the tree, before I was ever an Archon.”
+
+Tala sat back, slowly eating her scone and drinking her tea.
+
+“I was irrevocably changed. The tree was immensely powerful, beyond the ability of any human to control or rule over, but it had no will of its own. So, the power was mine. The only possible result was that I was reshaped.” The sadness came back in full force. “The tree had…knowledge isn’t the right word, but it’s close enough. The tree knew of beings that could bear up under its power.”
+
+“Leshkin.” And the turn of phrase makes sense…
+
+He shrugged. “Mezzannis, but close enough.”
+
+“So… you aren’t even human?”
+
+Master Jevin’s eyes hardened, a deep rage seeming to rise within him. “What makes a man?”
+
+Tala frowned, taking a delaying sip of her drink. Wisdom dictates I do not answer that.
+
+When she didn’t respond, he continued. “Is it his body? How much do you need to cut away before he is no longer ‘he’?”
+
+She had no response.
+
+“Is it his mind? How many memories or neurochemicals, how much dura-matter needs to be altered before the person is fundamentally changed? Before a person’s base nature is gone?”
+
+Tala swallowed, setting her tea aside, but unable to formulate an answer.
+
+“No, Mistress. What makes a man, what makes a human is the soul, and no accident of magic will take that from me.” The room thrummed with power.
+
+She felt a light dizziness that passed as she asserted her own will, locking herself away from his unconscious flexing of Magic. Even so, her eyes flicked to his chest, her magesight immediately confirming what she knew would be there: his gate. Human, at least at the level of his soul.
+
+“From that day, I have worked towards Reforging myself.” He tsked. “Refining actually made the problem worse. Refining makes your body more purely what it is.” His barely subdued rage at that was palpable.
+
+I don’t really understand that, but now doesn’t seem the time to ask. “That must have been…difficult.”
+
+He snorted derisively. “Difficult? Extremely. Our inscriptions are based on being placed in human flesh.” With a gesture, he indicated the most wooden-seeming portions of his face. “Even mild deviations can ruin everything.”
+
+Tala’s eyes widened. “How, then?”
+
+“I am bound to the tree. I did not age. I had time in abundance.”
+
+“But your inscriptions now…”
+
+“Are human? Yes. That was the first aspect I reforged. Magically speaking, as a medium, my flesh is considered human.” There was obvious pride in that.
+
+“So, then, you’re close?”
+
+“Closer than I’ve ever been.” After a short pause, he amended. “At least since my youth.”
+
+There was a deep weariness behind those words, that Tala couldn’t begin to fathom. She found herself frowning as she leaned back, letting the silence of his remembrance build and fill the space between them.

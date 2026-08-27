@@ -1,0 +1,117 @@
+---
+id: aefa2656-5904-556c-b30e-54c132068d54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 270 Plans"
+slug: 0284-chapter-270-plans
+partOf: melody-of-mana
+position: 284
+ownLength: 1498
+unit: words
+ownProgress: 1498
+publishedAt: 2023-09-23
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1351789/chapter-270-plans"
+royalRoadId: "1351789"
+markedReadAt: "2026-06-29T22:35:38.370Z"
+---
+
+I sighed and sat down, leaning up against Ulanion where he sat on the couch. Immediately I found myself wrapped in his arms, as he properly understood that I wanted cuddles. After a time of letting me bury my face in his freshly showered chest he began to speak.
+
+“Things that bad?” he asked, rubbing my back a bit.
+
+“Not bad, but not good.”
+
+“Are we in a solutions or listening sort of situation here?” he asked, making me smile a bit.
+
+“Well, there's no good solution. Ozen was our biggest opponent, and with him gone we're retaking most of the territory, at least according to my father's letters.”
+
+“Most.”
+
+“Most, some of it is turtling up and fighting, and some is devolving into more small time warlords, as if we didn't have enough of those already.”
+
+“My understanding was that there were several suits for peace?” he replied.
+
+“Sure, but it seems like every time something changes the lands just split, again. That and for all I love him dad's not Durin. We now have almost a dozen different nations and city-states all vying to gain land, or keep what they have. It's like the war will never end.”
+
+He stayed silent for some time, contemplating. “Alana, did you know that in all of elven history there has only been one period where we were at actual peace?”
+
+“Let me guess,” I began.
+
+“You hardly have to. Even then though, we were expansionist. Once all of our own warring nations were brought together we came to the human lands and began expanding again. So there was never really true peace, and as far as I know humans are the same way. Kingdoms rise and fall, and split and join, but the fighting never really stops.”
+
+“We had peace,” I complained.
+
+“Did you?”
+
+I had to sit and think on that one, and I quickly began to understand what he meant. While where I lived might have been peaceful, the empire certainly wasn't. There were almost constant struggles to suppress the former leaders, or to take new lands.
+
+“I guess not,” I pouted.
+
+“Why does it bother you?” he inquired.
+
+“Guess it doesn't.”
+
+“Alana, if you don't care to tell me, that's fine, but I would prefer it if you didn't just lie like that.” There was a slight edge to his voice, but the hand rubbing my back never stopped, so he couldn't be too angry.
+
+Playing with one of his buttons I considered my answer. It wasn't like I didn't know what I wanted, but it was just weird to say it.
+
+“Neither of us are getting younger,” I complained. “And I told you we'd marry after the war was done.”
+
+He laughed at that, and I was overtaken by a strong urge to punch him. Sadly I had neither the muscle mass nor training to make that a viable thing to do against a normal guy, much less the superhuman sitting next to me. Instead I just glared, letting him dig deeper and deeper.
+
+“Well love,” he said when he'd finally stopped, seeing how much it annoyed me. “I suppose that once, and just this once, there's no need for me to hold you to your word.”
+
+For a moment I stopped, and just looked at him. “Kala insists we have a ceremony,” I declared.
+
+“While her opinion might not be that important to me, mine is, and I find myself in agreement. There are important reasons for it,” he said.
+
+“Someone will interrupt and attack, like every big party I've ever been to,” I argued, frowning.
+
+“Now that's just not true at all. I've met your friends and I understand that you've gone to and hosted a number of absolutely massive 'ragers' in your time.” The logic was really getting on my nerves here. “If it helps I can ask everyone to come armed and armored to the teeth.”
+
+We went back and forth for a little longer, discussing arrangements and how many people needed to come. While I wanted a good wedding if I was going to do one, I didn't want a lot of people. In the end we agreed to shortened list, a few of his friends and coworkers, some of mine, and nobody that neither of us particularly cared about. His family was gone and mine small after all the deaths, so it wasn't like there was too long a guest list anyway.
+
+“Fine, I'll start on things tomorrow, for tonight I'm tired,” I finally declared, leaning into him and settling down. There were at least a few things I could look forward to, like cake.
+
+Ulanion
+
+I moved through Alana's lab, on a mission. Currently she was out and about, putting together details and deciding on exactly what she wanted. The first real issue was the venue, one we were still struggling with. Holding it in the fortress would be a repeat of Durin's wedding, and so was just out. There were a few other locations in mind throughout the empire, but each had issues, so she was having a bit o a fit.
+
+The portal shimmered briefly as I stepped through, my coming today was, as all travel through this gate, per-arranged. After a bit of time in the blank room I was teleported to Justin's office, the man himself sitting at a desk.
+
+“Well, this is a bit of a surprise,” he declared as blinked owlishly at me. “Something come up?”
+
+“I've been asked to personally deliver an invitation to you,” I said, holding out the small envelope.
+
+He took his time reading the missive, painstakingly written by my fiance in what I was told was her best calligraphy from her previous life. She'd frowned a lot trying to get it right, but eventually come up with something she could accept. It was the only invitation in that particular language, and both of us felt her penmanship was far, far better in either the common human tongue or Atal.
+
+“Oh, congratulations. Sadly if it isn't held on this continent I'm afraid I won't be able to attend, and holding it here would cause its own host of issues,” he said, setting the paper to the side.
+
+“We both thought that would be the case, but it seemed proper to extend the invitation anyway. There's... actually something else as well.” I hesitated to ask, but there really wasn't anything for it. “Traditions, I know Alana likes some of them, but I don't know if I'm missing any.”
+
+“There were a number of them, most rather silly in my estimation, but only a few were really vital. A cake, white dresses, and a ring are the big ones,” he listed off things that were a little odd to me, well, some of them.
+
+“She's already declared that there will be cake, and is currently fighting every cook she knows to get the one she wants.”
+
+“And I imagine she'll take care of her clothing too,” he observed.
+
+“What about a ring though?” I asked, a little nervous myself.
+
+“Oh, yes, that's a bit of a big one. Actually, I can help with that, consider it a gift, since I won't be able to attend.” He rose and moved off to a door, and I of course followed.
+
+We passed through a small hall and into what was clearly a workshop. The tools were largely different from those in common use, but a few of them were familiar. Moving to one of the desks he produced a small bag and opened a drawer.
+
+“Now, diamond is the traditional center stone, but in my time there'd been some move away from it. Smaller versions of the same, or rubies, emeralds, and sapphires are good for additional decoration, with the whole thing set in either silver, or gold, preferably the latter.” As he spoke he picked and inserted a mixture of gems, each at least as thick as my thumb into the pouch.
+
+“Those must cost a fortune,” I observed.
+
+“Hmm? Not really no, these are synthetic, a bit gauche, but they'll look great and I've got tons of them laying around. They are integral in some of my golem designs, one of the reasons I don't overly mind handing some of those over.”
+
+“Syn...”
+
+“It means I made them myself,” he explained, passing over the bag. “But I'm no jeweler, you'll need to handle that part yourself.”
+
+“Thank you, this is very generous,” I said with a slight bow.
+
+“Your girl has given me a few good laughs with her antics, and those are worth far more to me than a few shiny rocks. Now, I'm sure you're busy, and I know I am, so I'll leave you to it.”
+
+As I passed back through the portal I began making a list of people to talk to, if a ring was the right thing for me to give her, then I'd be seeing she got the best one in the country.

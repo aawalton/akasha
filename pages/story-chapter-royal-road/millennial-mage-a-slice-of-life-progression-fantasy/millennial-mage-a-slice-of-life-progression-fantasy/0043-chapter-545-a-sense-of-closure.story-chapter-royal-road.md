@@ -1,0 +1,223 @@
+---
+id: 2d94a93a-a13d-5fa3-bd6f-4c13f8628bcb
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 545 - A Sense of Closure"
+slug: 0043-chapter-545-a-sense-of-closure
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 43
+ownLength: 2969
+unit: words
+ownProgress: 2969
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2156530/chapter-545-a-sense-of-closure"
+royalRoadId: "2156530"
+markedReadAt: "2026-06-29T19:36:40.614Z"
+---
+
+Tala took a deep breath, closing her eyes and gilding her resolve.
+
+Rane stood next to her, arm across her back, hand on her waist, holding her close tucked into his side.
+
+Terry sat on her shoulder between the two, snuggled into both of them.
+
+Rane spoke first. “Are you ready?”
+
+She nodded, fidgeting with her dress. It was unusual for her to wear one, but it had seemed appropriate.
+
+Well, truthfully, her tunic was essentially the same one that she always wore. She had simply replaced her slacks with a skirt that hung down to around her ankles.
+
+It was a large skirt in the sense that it had a lot of fabric that hung in overlapping folds running vertically down its length. It neither hugged her tightly, nor would it get in the way of essentially any movement she cared to make.
+
+…But she was distracting herself. Tala looked up at Rane and gave a sad smile. “I’m ready.”
+
+Together, they opened a portal to where their unit was waiting outside of their sanctum.
+
+Master Clevnis was the first person she saw, but he stepped aside to let his wife and Mistress Vanga enter first. Surprisingly, another woman was there as well, one that Tala and Rane had only met a handful of times, partially due to the fact that she was still only Fused.
+
+Well, it wasn’t surprising really that she was here. Tala had seen her waiting with Tala’s old unit before ever opening the portal, but she hadn’t quite expected her this morning.
+
+Right… distracting myself again.
+
+The woman was, of course, Master Limmestare’s wife, and her aura was indeed, barely a hair’s breadth from Refined. She just needed one, maybe two more sessions—and the solidity of her aura meant that it had been quite a while since she’d had one—but that wasn’t the focus of the day.
+
+Tala stepped forward, out of Rane’s embrace, and opened her arms to the woman. “Mistress Rabetha, thank you for coming. It is good to have you.”
+
+Mistress Rabetha was only a bit taller than Tala—not accounting for her hair, which was piled in a stylized manner on top of her head—but more slenderly built. Her round face and blue eyes held a deep sadness, even as she smiled and returned the greeting and offered hug. “Thank you for having us, Mistress Tala. I think that it’s a wonderful thing you’re doing here.”
+
+The rest of them exchanged greetings with both Tala and Rane before the couple led them over to where only a few days earlier Master Grediv had had tea with them.
+
+The table was bigger now, having been replaced for the larger number of people, and there was a commensurately larger amount of food—not even accounting for the fact that this was breakfast rather than tea.
+
+The group chatted about small things as they ate, the final topic being one of familial relations. Apparently Master Clevnis and Mistress Cerna’s great-great-great-granddaughter had graduated from the Academy almost a year back, and they’d only just gotten the ‘family’ announcement.
+
+The couple had thought it funny rather than sad as they had only been vaguely aware that the girl had been born. Apparently, Mistress Cerna was heavily involved with the local branch of their descendants—mainly by dint of each subsequent generation specifically and intentionally building relationships with her—but otherwise, they didn’t really have much contact with their descendants.
+
+Master Clevnis joked that they’d considered having ‘another crop’ of kiddos, but Mistress Cerna just smiled and shook her head. “I’ve had… enough children for the time being. The having and raising is a joy. It’s the burying that I can’t…”
+
+Her voice had faded then, as she realized that she’d inadvertently brought them to the very topic they were here for. She gave an apologetic look toward Tala, but Tala just gave a small smile in return. “Breakfast is done, Mistress Cerna. It’s more than fine. Master Girt is not with us, but I think he would have enjoyed this meal in his honor.”
+
+There was a round of nods at that sentiment.
+
+“Please grab any last drink or bit of food if you wish—it will be here when we return as well—and let us take a walk through the garden.”
+
+They all stood, doing just as she’d suggested.
+
+The group moved toward the Path of Remembrance, a somber atmosphere slowly growing over them.
+
+In truth, they’d all experienced enough death—had enough friends and family pass—that this wasn’t a new experience for them. Tala and Rane were the closest to an exception to that rule, but they were getting all too used to the feelings of loss as well.
+
+Even so, Master Girt had been a bit different. The rest of the unit had known him for centuries in various capacities. They’d all known his wife as well before her passing, and so it was a more poignant loss than even many of their children had—or would have—been, when looked at from a certain point of view.
+
+That knowledge of deep loss settled upon them as they walked through the statues that Rane had already been able to place. Tala and Rane gave a few words about each, and the others responded with quiet moments of reverie before they all moved on.
+
+Finally, they came to the statue of Master Girt and Mistress Stonia.
+
+Master Clevnis actually took a step back, tears welling in his eyes after Tala felt his magical senses brush across the stone.
+
+Mistress Vanga covered her mouth, sinking to sit beside the path.
+
+Mistress Rabetha turned and embraced her husband, burying her head against his chest, and Mistress Cerna stood stock still in shock.
+
+Master Clevnis was the first to speak. “It’s like he’s standing right there, whole again now that she is at his side.” He took hesitant steps over to Rane before clapping the broader man on the shoulder and then drawing him into a hug. “I can’t express… to be able to be with them one more time, even if just in feel… It is worth more than anything.”
+
+Mistress Vanga was the next to come and give Rane an embrace. “Truly, you have honored their memory as few can. I’m aware of the technique of duplicating auras, but those that I’ve encountered have never felt… this real? This alive?” She shook her head. “Regardless, it is masterfully done.”
+
+Rane gave a sad smile in return as each other member of their group came to offer their thanks. “I believe that it is Kit—and the sanctum as a whole—that allows the aura to have more… completeness. It is inefficient to the extreme for what it does, but that hardly matters here. That is a part of it. Moreover, I think another of the keys is that it runs off of pure power, rather than being magic-bound to someone.”
+
+A round of slow nods came back to him, and Mistress Cerna expressed what many of them must have been thinking. “That does track. To be able to leave efficiency aside, and then not introduce the tinting of another’s power…” She nodded again. “I can see how that would drastically improve the clarity and accuracy of the results.”
+
+They fell into silence, then, drawing around the statue of the pair, each seemingly succumbing to their own thoughts, feelings, and memories.
+
+Expressions flickered across the faces of those so gathered. Finally, Master Limmestare broke the silence. “I met him first when I was just Fused. He was newly Refined, and he was assigned to me because I was… I was struggling.”
+
+He put an arm around Mistress Rabetha, drawing her close.
+
+“He listened to me whine and complain about the process, the pain, and the recovery. He asked questions, and shared his own experience. He never once made me feel ashamed for my hesitation, nor for my fear.”
+
+There was a pause before Master Limmestare barked a laugh.
+
+“In our last meeting, though, I finally asked him how he’d done it. The man sat silently for near to five minutes before he finally nodded and simply said, ‘My beloved was Refined, and I couldn’t imagine living without her, nor forcing her to be without me.’ He then shook his head and smiled. ‘It was pretty easy after that.’” Master Limmestare had pitched his voice to more closely match Master Girt’s, but it was still a bit off. Regardless, the idea came across. The Refined grimaced, then laughed. “The rusting man knew that I was pursuing a Refined.” He squeezed Mistress Rabetha, causing Tala to frown, but she didn’t interrupt. “And his reason was a punch to the gut.” After a visible swallow, he shook his head. “I underwent the next session the next day and didn’t delay again until the process was complete.”
+
+In the momentary pause—which was heavy with expectation, Tala cleared her throat. “Alright, I’ll bite. How does that make sense? Mistress Rabetha isn’t Refined… right?”
+
+Master Limmestare kissed his wife’s cheek and chuckled, the woman rolling her eyes as she finished the story. “As it turned out, the woman he was interested in had used that as an excuse. She simply wasn’t interested in him, but she was trying to be ‘kind’ in the rejection.”
+
+Rane winced beside Tala. “Ouch.”
+
+Master Limmestare chuckled. “Yes and no. I’m still grateful to her, even now that she’s passed.” He kissed his wife’s cheek again. “If I hadn’t Refined, I’d never have lived long enough to meet my sweetheart here.” He glanced down and shrugged. “I became an Archon late and Fused even later. I’d have missed her by more than a century without Refining.”
+
+Mistress Rabetha kissed her husband’s cheek in turn. “And I have been grateful to Master Girt, and to that woman, every decade since my Lim found me.”
+
+That started a new round of storytelling, these far more personal and intimate than those shared in the aftermath of Eskau Meallain’s capture.
+
+With centuries of relationship, there were more tales than could likely ever be told, but that didn’t hamper them.
+
+Finally, as the time for lunch came and went, they wound the storytelling down. Terry began the process of ‘final’ goodbyes by flickering to Master Girt’s shoulder and headbutting the statue’s face, gently nuzzling in before letting out a mournful, farewell trill.
+
+After that, each member of the group came forward to touch the statues, saying quiet goodbyes before they all moved back out of the Path of Remembrance and to a refreshed layout of food.
+
+Lunch passed a bit more somberly than breakfast had, but there was still an almost overpowering sense of camaraderie.
+
+When everyone had eaten their fill, Tala stood up. “The last task that we have before us is to go through his dimensional storage.”
+
+No one was surprised by this revelation—Tala had made sure they were all aware that Kit had snagged it—but there was still some trepidation as this was not generally something that ever could be done.
+
+Soulbound storages were lost when the person died. That’s just how it was.
+
+Except in this case, there was a chance for something more.
+
+The whole group stood and moved over to where Tala indicated. Then, with a flexing of will—leaning heavily on the portion of her soul merged with and embodying Kit—she formed a doorway into a place that very much resembled the park in which they already stood, if much smaller.
+
+The whole thing was a cube that was barely a hundred yards per side, with an illusory sky and similarly illusory views. The illusion wasn’t anything when compared to what Kit could produce, but it was clear that Master Girt and Mistress Stonia had gone to some expense to have such a feature for this space.
+
+The only vegetation was clearly decorative.
+
+Tala let them in at ground level, which was about halfway ‘up’ within the space. Before them stood a single-story house clearly built for the use of a single couple.
+
+Mistress Rabetha’s eyes widened when she saw it. “That’s their house.”
+
+Master Limmestare sighed. “It is indeed. I’d heard it was gone after her passing, but I didn’t realize he took the whole thing into his dimensional storage.”
+
+Tala frowned. “What do you mean?”
+
+It was Mistress Vanga who replied. “This was the last house they lived in together.”
+
+Master Clevnis gave a sad smile. “No wonder he rarely came in here…”
+
+They all felt a bit like they were trespassing as they walked through the yard and toward the small home.
+
+No one had much to say until Tala glanced backward, startling at the illusion behind her, only breached by the doorway back out into Kit.
+
+Her threefold sight hadn’t parsed it well, given the fact that it was flat, and she was very used to parsing such things only as part of a three-dimensional whole.
+
+Her jerking motion caused everyone to turn around, triggering a series of appreciative noises.
+
+The wall that they’d come through showed a scene that was a bit discordant with the other views offered by the dimensional storage.
+
+In that one direction, Tala saw the sea. Specifically, it was a view from the top of a seaside cliff.
+
+As if their attention had triggered more magics, they could all suddenly hear the sound of swelling and crashing waves along with the cawing of gulls, and a pleasant, salty breeze began to move across them.
+
+Alat? Why didn’t we notice that before?
+
+-The magics are set to only provide those illusory bits when someone is paying attention to that wall… I also had to feed it some extra magic from Kit as it had nearly run out of its own supply and was stuck in a sort of stasis to maintain the integrity of the magics.-
+
+Thank you, Alat.
+
+Mistress Cerna smiled. “I think this must be a view from his childhood. He’d probably have preferred one out on the ocean itself, but that would have broken the illusion of the rest of the space.”
+
+Master Limmestare chuckled. “I do believe that he had a boat in here before Stonia’s passing. So, I’d bet you’re right about that.”
+
+They enjoyed the memory provided by their friend for a long moment before turning and entering the home itself.
+
+It was just that, a home.
+
+Most every single thing within was a personal effect in one way or another.
+
+Some triggered memories for the older members of their group, and Tala and Rane simply enjoyed the stories that the others had. The fact that they had actually been in this home before, when it was on the superficial, made those more abundant.
+
+Eventually, Tala led them to the door which allowed access downward, into the vaults beneath.
+
+In the under-storage of the space, there was some gold, but honestly not that much. There was a smattering of items clearly kept as remembrances, and lastly, there were two cozy libraries, each with a simple name carved above each door, ‘Girt’ and ‘Stonia’ respectively.
+
+That drew gasps and renewed interest.
+
+Inside were hundreds of books, each written in the same hand for the given library.
+
+Journals, they were two lifetimes of journals.
+
+Mistress Rabetha got an odd look on her face as she strode into Stonia’s, heading straight for one of the oldest ones. A moment later, she barked a laugh. “I knew it!”
+
+Everyone oriented on her.
+
+“Her name wasn’t Stonia. That was just his pet name for her.”
+
+Master Limmestare shook his head. “And she just adopted it through the centuries?”
+
+“So it seems.” She hesitated, then. “I… I don’t think I’ll say what it was. You can look if you like, but he called her Stonia, and she went by it willingly.”
+
+The find was rather overwhelming to the group.
+
+Tala, herself, had known it was here, and it was one reason she’d not done anything with the storage. What could she do? Master Girt clearly hadn’t thought anyone would ever get ahold of this. It should have been lost forever.
+
+Still, she couldn’t deny the absolute treasure-trove that this was from a historical perspective.
+
+True, there were many alive who had memories spanning even longer than the period these journals covered, but each was a firsthand account, written in those times.
+
+Tala cleared her throat. “I was considering giving this to the Library, so that their legacy could inform our own knowledge of the past. I’m sure at least some things have been lost to time and crowded memories.”
+
+There was barely any hesitation before she got a round of agreements. Master Clevnis actually had a further idea. “I think that the whole hold could be turned over to the Librarians. Together with these journals? It’s a snapshot of centuries long past.”
+
+Tala liked the idea, and everyone else seemed to as well.
+
+They spent the rest of the day there, looking through the curios and peeking into the journals.
+
+There were several times where those with longer histories with the couple let out exclamations of surprise or revelation at what they found, and that, of course, kept the storytelling and remembrances flowing.
+
+When the day was drawing to a close, they went as a group to the Alefast Library. With great reverence, the Librarians accepted the dimensional storage, binding it to a doorway that they could maintain and use to study what was contained within.
+
+As the group left the Library, there was a sense of closure around each and every one of them.
+
+Rane pulled out mugs for each of them, already filled with a celebratory drink.
+
+Together, they toasted their departed friends, draining the mugs dry. Then, with few, heartfelt words, they exchanged farewells and returned to their own abodes, hearts lightened by the honor they’d been able to show their fallen friend.

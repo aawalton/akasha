@@ -1,0 +1,173 @@
+---
+id: 00c0213d-91c5-5f56-8cf5-8a657f7900f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 – Ruins"
+slug: 0046-chapter-46-ruins
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 46
+ownLength: 1866
+unit: words
+publishedAt: 2025-01-14
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2010393/chapter-46-ruins"
+royalRoadId: "2010393"
+---
+
+Kindra walked through the illusion. Runes sparkled around her, ribbons of twinkling lights in the curtain of magic.  That’s amazing.  She paused and memorized for a moment.
+
+“Kindra?” Aika called.
+
+“Sorry. Isn’t this amazing?”
+
+“Gran helped make it,” Sara said. “It’s an illusion enchantment.” She pointed at the ceiling.
+
+Kindra looked up. A glowing gem was embedded in a plate of metal. Mana flowed out from the gem, moving through an intricate pattern of runes that were made with some other metal.
+
+Amazing.  Kindra’s eyes widened.  Like a circuit for magic... I need to figure that out.  Excitement flickered through her, and she memorized the pattern.
+
+“Kindra?” Sara called.
+
+Kindra forced her eyes away. “Sorry.” She darted down the cave, following the smooth halls and passing several doors.
+
+Pausing in front of one, Sara gestured. “This one is yours.” She turned and looked at Aika. “Are you sure we can’t play some more?”
+
+“Not right now,” Aika said, flying closer to Kindra.
+
+Kindra walked up, opened the door, and looked inside the small home. Small benches lined the wall. Shelves lined one wall, and a stone table sat in the middle of a small room.  That’s it? They have magic that can literally speed up construction, and we’re squatting in a rocky hole?  She swallowed.
+
+A hand reached out and patted her on the back. “We’ll adjust,” Sigrid said, nudging her inside.
+
+From the inside, it was not better. It was akin to living in a cement room. She looked at the two doors built into the wall.  Please tell me there are beds in there.
+
+“We’ll cozy it up.” Sigrid smiled at her and pulled the bag off her shoulder. She opened it, revealing various items from the home.
+
+Kindra walked up and took a small group of plates, moving to the shelf. “We need to get plumbing.”
+
+“I agree,” Aika said with a nod. “This one needs some work.”
+
+“No. We need a golem,” Gleon said, poking his head in. “What do you say, Kindra? Aika? Up for a little exploring?”
+
+Kindra slid the plates onto the shelf and walked to the doors, poking her head inside.
+
+The sight of a bed with a blanket made her smile.  Thank god . Taking her bag, she walked to the small bedroom and placed it inside, setting it next to the bed and running her fingers across the blanket.  It is soft. Do they make a cotton equivalent?
+
+A little fairy fluttered into the room. Aika smiled. “Ready? We need to keep Gleon alive. He’s useless without me.”
+
+“I heard that!” Gleon called.
+
+Kindra emptied most of her cache, dumping the golem parts in the corner. Checking the rest of her supplies, she walked out of the room and waved to Sigrid.
+
+“Be safe,” Sigrid called out. “I’m going to help expand things here.”
+
+“Thanks.” Kindra smiled at her and walked out the door. She looked at Gleon. “Alright, let’s find that golem. The answer to all our problems.”
+
+“That’s the spirit.” He turned and marched down the tunnel.
+
+Following Gleon, she moved down a tunnel and veered down another, passing through a wooden door. A breeze hit her. “There’s another opening?”
+
+“We linked it with the worm tunnels, and they are making a mushroom farm,” Gleon said, striding down the hallway and entering a large, round one.
+
+Kindra studied the walls.  Worm tunnel.  She ran her fingers along it and triggered Scavenger’s Sight, searching for anything useful.  Silicon. Lots and lots of silicon.  She paused and looked at Gleon. “We’re stopping?”
+
+“Aye. We need the rest of the gang so that we can take a golem without destroying it.”
+
+Kindra nodded and looked down the tunnel. The smooth stone slowly arched away. “How big do those worms get?”
+
+“Very, but they move to the sands as they get bigger,” Gleon said. “I’ll take you some time.”
+
+“What do they eat there?” Kindra asked.
+
+“There is a lot of life there. It burrows during the day and comes out at night.” Gleon looked behind her and smiled. “You’ve seen some of the creatures that live there. They’ll stay underground if the resources are right.”
+
+Oh.
+
+Gleon waved. Kindra spun and looked at the two approaching dwarves. The female’s brown hair was in a tight bun, her leather armor clean and rosy spots on her darker cheeks. The man’s brown hair was short, and so was his beard; a thick patch of stubble was all that remained. Each was wearing enough weapons to be a small armory. Hammers, axes, and swords lined their belt and back.
+
+“You out to be ashamed of yourself, Tob,” Gleon drawled. “You look like a fool.”
+
+“Takes one to know one!” Tob grinned, revealing a smile with one missing tooth. “You’ll be sorry when your beard gets caught in something again.” He laughed, the loud, deep sound bouncing down the hall. Then he looked at Kindra and Aika, his vision focusing on Aika. “And you must be Aika. Pleased to finally meet you. Sorry, you’ve been stuck with the wild one.”
+
+Gleon scoffed and punched him in the arm. “She’d be dead if she went with you. Tilly has to keep you alive.” He smirked.
+
+Tob scoffed and clapped him on the back, the loud sound ringing through the tunnel. “And yet, I’ll bleed less than you, sure as shit.”
+
+Gleon chuckled and turned. “Kindra, this is my old friend Tob. Tilly’s his wife. Don’t know how she stands him.”
+
+Tilly stepped forward and looked at Kindra. A frown wormed across her face before vanishing.
+
+The awkward moment hung in the air, and Kindra swallowed.
+
+“Nice to meet you both. Tell me, how is it that you two met?” Tilly asked.
+
+“I’m not sure,” Kindra replied, looking at Aika.
+
+Aika shrugged, extending her arms in confusion. “I don’t really know. I saw some text that didn’t make sense. It asked if I wished to be something more and if I wanted to be with Kindra. I agreed. Then, there was a flash of pain, and I was next to her. It was very strange.” She looked at herself. “The system said it was investigating what happened.”
+
+Kindra winced. “I hope it wasn’t too much pain.”
+
+“It was worth it. Look at me.” Aika grinned and gestured at herself. Her metallic skirt and shirt stood there like some strange liquid metal, not even moving as she moved.
+
+“Where did you get those clothes?” Tilly asked, moving forward and studying them.
+
+“Made them,” Aika said, grinning. “They are my armor.” She fluttered into the tunnel. “Come on. I’m going to get more kills than Gleon.”
+
+“Fat chance of that,” Gleon said. He turned toward Tob. “Try to keep up.”
+
+“Don’t bleed all over me,” Tob replied, chuckling and walking down the tunnel.
+
+Kindra followed, watching the group. Tilly shot her a look of concern before moving down the tunnel.
+
+They do not like me.  Kindra sighed and followed, walking down the tunnel silently. While her mind stewed, a soft breeze rippled by. The smell in the air shifted, and Kindra smelt something wrong, really wrong. She sniffed again.  What is that?  Her stomach churned.
+
+Turning a corner, she warily peered into the gloom. The tunnel swung and joined a large room. A strong scent came with it.
+
+Kindra wrinkled her nose as the smell of rot and decay hit. The two men turned serious and stopped making rude gestures at each other. Each pulled out a weapon and crept forward.
+
+Kindra followed, searching the mana for anything. Spotting a strange blob of glowing mana, she pointed.  “Aika, it’s over there.”
+
+Aika zipped in front of Gleon and gestured, pointing into a small cave. The two men moved quickly and peered inside.
+
+Looking inside, Gleon gagged and grimaced. “Do it. First kill to you, Tob.”
+
+“Forget that. You do it.” Tob punched him. “I got last.”
+
+Gleon gagged, and Kindra peered past him. Some strange, massive dirty thing greeted her. Bones, bodies, and plants were engulfed in some glowing slime. It oozed forward, small tendrils reaching out.
+
+Tilly looked at it and sighed. “Rotten creeper.” Magic surged around her. Runes flew into the air, and the stone under it opened, forming a large hole. The slime dropped, splashing on the stone ground. The stone rippled and sealed itself off, leaving a glistening trail of slime and nothing more.
+
+“You’re just burying it?” Kindra asked.
+
+“Yes. They are annoying to fight. You have to slice it into tiny pieces. Not small. Tiny,” Tilly replied, sighing and shaking her head.
+
+Kindra chuckled and nodded. She sniffed. The smell lingered, and the sense of wrongness permeated the air, gnawing through her senses.  It’s just the slime. Stop that.
+
+She turned and followed the group down the tunnels. The smell of rot lingered, and the group traveled through the tunnels of the worms.
+
+[You have entered a concentrated mana zone. Please be aware that entities may manifest from the mana.]
+
+Following a fork, they spiraled downward and hit the polished stone tunnels that had been part of the dwarven city.
+
+Stepping onto the stone, Kindra shivered. The sense of wrongness thrummed around her, dragging its fingers across the stone and making the hair on her neck stand on end. It whispered on a soft breeze coming from the tunnels, and she turned toward it.  It’s not the slime. What is it?
+
+She stared into the tunnel, and the group turned, walking away from it. Kindra followed them and studied the different doorways. The sense of wrongness slowly faded, leaving a quiet. Like the layer of dust on the stone floor, the quiet hung heavy in the air.
+
+Filing through a small crack, Kindra followed through a narrow tunnel. It squeezed down on them, and she wriggled through a long passage. “Couldn’t have made it wider?” she asked.
+
+“Waste of mana,” Gleon said with a chuckle.
+
+“How do you know where we’re even going?”
+
+“We know.”
+
+Kindra wriggled through and emerged into a room. A layer of dust, dirt, and gravel lined the floor. The air was stale, and the lingering sense of wrongness returned, along with the sound of feet moving softly.
+
+The dwarves turned and looked down the hall. Cottages, shops, and other buildings lined the cavern walls like they’d been built into the caves. The sound of scuffing feet grew louder.
+
+Kindra turned and looked down the hallway. Glowing dots surged in the distance. They shuffled forward, kicking up dust. Gleon gestured and moved against the wall.
+
+Kindra followed, leaning against the hard stone. She studied the forms.  What are they?  The mana thrummed inside of them, and runes sparkled into view, whispering at something that she didn’t understand.
+
+She leaned forward, and the runes surged. The creatures thundered forward, dust billowing with every mechanical step.
+
+Kindra gasped and looked at the hodge-podge of golems. A deep sense of wrongness came with them. Looking more like horrific amalgamations of flesh and metal, the things clanked forward. One turned toward her, revealing the face of some dwarf that had replaced its lower jaw with metal.
+
+Feeling a desire to throw up, Kindra gagged, and the creatures thundered forward.

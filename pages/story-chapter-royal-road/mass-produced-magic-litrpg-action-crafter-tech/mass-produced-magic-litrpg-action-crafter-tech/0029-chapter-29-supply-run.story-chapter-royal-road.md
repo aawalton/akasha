@@ -1,0 +1,337 @@
+---
+id: 08bd5635-6283-5fae-b2f5-6ca53c87026f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 – Supply Run"
+slug: 0029-chapter-29-supply-run
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 29
+ownLength: 3123
+unit: words
+publishedAt: 2024-12-15
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1958368/chapter-29-supply-run"
+royalRoadId: "1958368"
+---
+
+Kindra grinned, and Aika flew, fluttering up and stopping in front of her. Aika’s silvery wings flashed as she churned the air. Metal body armor lined every part of her, and a grin spread across her face.
+
+Grabbing the little fairy, Kindra pulled her into a soft hug. “Aika. Finally.”
+
+“I’ve missed you. Also, he’s crazy. Don’t let anyone tell you otherwise.” Aika pointed at Gleon.
+
+Kindra looked over and saw Gleon standing in the doorway. He scowled at Aika.
+
+Kindra turned. “Is there a tunnel in your room?”
+
+“Yes.” Sigrid nodded and stepped into the room. “How is the progress coming?”
+
+“It’s linked with the mines, and they’re mining.” Gleon smiled.
+
+Kindra turned. “Refugees?”
+
+“Yes. There is a camp underground.” Aika leaned closer. “It looks miserable.”
+
+Gleon looked over and frowned. “What did I tell you about that gibberish, Aika?”
+
+Aika stuck her tongue out at him and turned back. “They made a tunnel, and I demanded a visit.”
+
+Dain pulled down another plate and added it to the table. “Gleon, are you sure this time?”
+
+“Aye. I found one.” He paused. “But we had to kill it,” he mumbled.
+
+Aika giggled, her little fairy laugh tinkling out. Flying up, she perched on Kindra’s shoulder.
+
+Kindra took a seat at the table.
+
+“And the city?” Dain asked, bringing the plate of food to the table. “What state?”
+
+“It’s wrecked,” Aika replied. “Completely buried and broken.”
+
+Gleon sighed. “Ignore her. She doesn’t realize.” He leaned forward. “We’ll need to excavate. If we’re lucky, the libraries, refineries, spellforges, and workshops will remain.”
+
+“What’s a spellforge?” Kindra interrupted.
+
+Dain sat next to her. “A forge that specializes in imbuing more magic into an item. That lets you power the enchantment to new heights or add more than one.”
+
+Kindra nodded and looked across the table.
+
+Sigrid took a seat and looked at Gleon. “Are you planning to excavate it?” she asked. Her brow raised, and a smile spread across her face.
+
+Gleon turned and smiled. “Come now, daughter dear. You love that sort of thing.” He paused a moment. “We’ll make it the new base.”
+
+“Is it defensible?” Dain asked, studying the older dwarf. “And how much of that blood is yours?”
+
+Gleon grinned, dried blood decorating his outfit. “It will be. It will be.”
+
+Sigrid set plates on the table, pausing to look at Aika. “Umm.”
+
+“I have one.” Aika flew down, landed on the table, and pulled out a little plate. She loaded it up and took a seat on the table.
+
+Kindra took a small portion and started eating. The food tasted like ash, and she forced herself to swallow while the two grilled Gleon for the location and proof that it was their long-lost city.
+
+Quickly forcing down her meal, Kindra turned to Aika. “Was there metal? I need more metal.”
+
+“Some, yes.” Aika nodded. “But it seemed like rubble to me. Well, except for the one crummy robot.”
+
+“What about the village we came from?”
+
+Aika shrugged.
+
+Kindra turned. “What happened to that village that was killed?”
+
+“They’ll be undead now. The necromancer will have had them gather things and return,” Sigrid said. “What supplies does she need?”
+
+“Metal and trees,” Aika said.
+
+Gleon turned and whispered something that she didn’t understand. The three began speaking rapidly, and Kindra struggled to keep up. Are they debating my knowledge? Maybe they’ll finally believe me that I came from a place without magic. Kindra gave up and looked down. Aika was eating; her metallic suit of nanites was shifting like some living skin. That’s wild. “I like your suit.”
+
+“Thanks. I got a nice upgrade.” Aika smiled. “Are we leveling again?”
+
+“Probably tomorrow morning after I use the mana. I think I need to make guns and ammo.” Kindra watched her eat. “How was it?”
+
+“Chaotic. Gleon has some healing skill. He says injuries are good for you. They help you get one.”
+
+Kindra paused. “Makes sense, but sounds terrible.”
+
+“Yep.” Aika looked up. “I asked about the ship. He hasn’t heard of anything like that. And he doesn’t know another human on this world, but it’s large. Most of it is wild now.”
+
+“Damn.” Kindra frowned, drumming her fingers on the table. “I wanted to salvage some things.”
+
+“Me too.” Aika swallowed another bite and looked up. “Do you think anyone else survived?”
+
+Kindra blanched. Sorrow flooded through her. “Do you remember how many ships we lost before that voice?” she whispered.
+
+“I downloaded after we lost six of the eight,” Aika whispered.
+
+They’re dead. So many dead. Water gathered in Kindra’s eyes. “I think they’re all dead.”
+
+“Maybe they’re somewhere else?” Aika said with a hopeful smile.
+
+“Yeah. Maybe. I don’t know what that voice did.” Kindra looked over at the whispering trio. Grief danced through her body. What does Earth think? Does anyone even know what happened? She swallowed, and a tiny hand patted her arm. She looked down.
+
+“We’ll figure it out.”
+
+“Do you think we’ll see Earth again?”
+
+Aika smiled. She looked up with her golden eyes blazing. “We have magic now. I know we will.”
+
+That’s true. We can remake things. Kindra smiled and looked at the trio. “What’s the secret?”
+
+“Nothing. Just trying to understand things.” Sigrid smiled and handed her a book. “Take a look. This will help.”
+
+Kindra flipped it open, revealing pages with runes on them. Alright. Time to learn basic runes. She turned the pages and looked at the strange symbols. I just need to learn how to read dwarvish, as ludicrous as that sounds. Scanning the symbols, she tried to piece together the meaning.
+
+Sighing, she flipped through the pages and looked at the runes, searching for one she recognized. “Is there a language translation spell?”
+
+Sigrid chuckled and shook her head before going back to her conversation.
+
+That just means they don’t know it. Death knows it. Hey, Death!
+
+[No. ~Death]
+
+Mean. Kindra sighed and shut it. She stood. “Want to show me their secret camp? I need to get supplies.”
+
+Aika nodded, finished her meal, and landed on Kindra’s shoulder. “We can go hunting too.”
+
+“Exactly.” Kindra grinned.
+
+“Wait for Gleon,” Sigrid said, turning her focus back to the food.
+
+Kindra gestured to the book.
+
+“We’ll study that in the morning and evening,” Dain said. “Don’t be gone too long.”
+
+“Okay.” Kindra took her plate to the bucket of water and rinsed it off, setting it on a drying rack. Moving back to the table, she cleared away Gleon’s and followed him into the bedroom. A small panel in the floor had been slid open. Dropping down, he landed with a soft thump.
+
+Kindra followed, dropping down and following him through a narrow passage. So, the rebels have tunnels under the city. That makes sense. Did they have them in the one that got annihilated?
+
+Moving down the tunnels, she wound here and there. “Why didn’t you take me this way the first time, Gleon?”
+
+“So you could access the city.” He turned into a larger tunnel. “Without going through it, you’d have to go unseen.” He sighed. “I’ll admit that I hoped to recruit you and keep you in the city. I’m not sure that’ll work out. Sigrid mentioned the problem with your hair and eyes.”
+
+“Yes,” Kindra admitted. “I’m not sure why the magic failed to hide that.”
+
+“It’s not that strong, and those changes were caused by strong magic.” He paused and studied her. “Any idea what that was?”
+
+Kindra shook her head. He turned back and walked down the tunnel. She followed him. Their walk turned into a quick-moving jog. The tunnels blurred around them, and they emerged in a larger cavern. Doors were built into the stone. This is where they are living?
+
+A door swung open, and a dwarven woman poked her head out. She stared at Kindra, her gaze shifting to Aika moments later. Her eyes lit with hopefulness, and she turned.
+
+Speaking a thousand words a minute, she asked Gleon something.
+
+“Aye. It’s a fortuitous sign.” Gleon waved and jogged by.
+
+Kindra followed him, loping down the tunnel. I need to get better at this language. She moved quickly, jogging down the smooth tunnel and up to a ladder. Gleon didn’t use it. He leapt right out of the tunnel.
+
+Well. That’s sort of awesome. Kindra grabbed a rung and scrambled after him, pulling herself out of the passage and emerging in the forest. Birds and bugs chirped around her. The trees towered, and Gleon grinned.
+
+He turned and looked at them. “Let’s go visit that cave of yours.”
+
+Kindra nodded and jogged after him. “Gleon, why not live in the wilds?”
+
+“We will once we get strong enough, but there is a problem. Family.” Gleon jogged around a tree. “We can’t just abandon everyone.”
+
+“That’s fair.” Kindra jogged alongside. Trees blurred around her. The smell of dirt and plants filled the air. Chirping bugs and birds filled the air, and the ambient magic grew.
+
+Veering around the trees, she heard the sound of water. And there is the spring. She jogged toward it, and Gleon slowed, pointing toward the water.
+
+Kindra’s attention flickered to a large bison-like creature. It lowered its mouth to the water and used its tongue to pull the water in, taking a long drink. She examined the creature, and Gleon charged, shooting across the grounds with a reckless look in his eyes.
+
+“See what I mean. He’s crazy.” Aika sighed.
+
+Kindra pulled out a nine-millimeter and ran after him.
+
+The bison jerked up, gave one look at the dwarf, and bolted, racing off into the trees.
+
+“Come back here, you coward!” Gleon bellowed and leapt, clearing most of the stream and landing with a massive splash. Disregarding his failure, he charged after it.
+
+Kindra looked at the stream. I can’t jump that far. She raced forward and launched off a rock, landing midstream and splashing water everywhere.
+
+Fording the cold water, she forced herself through the mud and up the bank. Aika giggled and flew by. Kindra followed her, racing through the trees after their escort.
+
+Gleon charged across roots, rocks, and dirt. He spewed it behind him, and broke into a tiny clearing. Young trees were fighting to gain the spot. The bison bellowed, and massive talons sunk into it. Gray scaled wings flared, shooting out waves of dust.
+
+Kindra froze, her heart thundering in her chest. The massive reptile turned, its yellow eyes locking onto her before turning toward Gleon. He didn’t stop, lifting his axe and charging toward it.
+
+“He makes me be the rational one,” Aika said, stopping and shaking her head.
+
+The wyvern’s tail lashed out, slamming into Gleon. His axe slammed into the tail. Blood sprayed, and Gleon flew, tumbling backward and slamming into a tree.
+
+Kindra swapped guns, pulling out the M4. And here goes another bullet. The wyvern bared its teeth and bit into the bison. It bellowed and thrashed, trying to get the massive creature off its back. The wyvern did not care in the slightest, sinking its talons deeper. Blood poured down the bison’s sides.
+
+Taking aim, Kindra lined up the shot. The wyvern sunk its jaws into the bison’s back and tore. Bones snapped. The bison went limp, and Kindra felt it. She saw the magic inside the bison. The wyvern reached for it, and Kindra did the same, grabbing and pulling.
+
+Like an invisible brawl, a dominating presence slammed into her. Kindra pulled harder and aimed, looking down the barrel of the rifle. The wyvern hissed, and Kindra pulled the trigger.
+
+The gun cracked, and the bullet flew, bouncing off the wyvern’s skull. Blood oozed from the wound, and it glared at Kindra, pure rage filling its bloody, yellow eyes. Tugging on the mana, Kindra aimed, and Gleon leapt.
+
+He arced high in the air, and the wyvern whipped its head toward him. It opened its mouth, and an axe slammed into its skull. The scales on its face split open, and it screeched, unleashing a horrific scream.
+
+Gleon slammed his axe into it again. “Quiet, yeh beastie.” He ripped his axe free and hacked into the neck, sending another spray of blood into the forest. The wyvern spun. Its tail slammed into him.
+
+The mana from the bison instantly came loose, and Kindra pulled it in, letting it rip into her body like a river of power.
+
+The wyvern half-staggered and half-leapt toward her, its massive wings spreading wide.
+
+Kindra pulled the trigger. The gun barked, and the bullet hit its head. The wyvern screamed in pain, and an angry dwarf landed on its neck. Swinging like a deranged logger, Gleon hacked away scales, meat, and blood. His axe glowed. His body surged, and the wyvern smashed into the ground with a large crack.
+
+Gleon rolled across the ground before pushing himself upright. Blood covered half his body, and he turned, a giddy smile on his face.
+
+Kindra felt the connection form. Mana oozed from the blood, and she licked her lips.
+
+Gleon stepped toward her, his brow raising. He turned to Aika. “You promise it, Aika? She can help us?”
+
+“We’re not your enemy, Gleon. I told you that.” Aika sighed. “Why bring it up?”
+
+“I have to be certain.” He walked to Kindra and patted her shoulder. “I can see it in your eyes. That hunger. That connection.”
+
+Aika turned and gasped.
+
+Kindra swallowed. “What?”
+
+“Your eyes are glowing.”
+
+Gleon stopped, his hand resting on his axe. “Promise me that you won’t become one of them.”
+
+“One of them?”
+
+“A necromancer.” He grimaced. “Even if it’s the best-ranked class. Promise me that you won’t take it.”
+
+“Is the class that bad?” Kindra asked.
+
+Gleon shrugged. “I don’t know. I just know that anyone who picks it ends up with them or dead.”
+
+Okay. Don’t pick that. She paused. “Have you ever heard of the Blood Mage class?”
+
+He frowned and shook his head. “No… Just be careful, Kindra. If you push to darker paths, the system will not stop you.” He sighed and looked at the wyvern.
+
+“She’s not turning evil,” Aika said sternly. “I told you.”
+
+“And I’m trusting you both.” Gleon gestured. “Get them both, lassie. You need it, and we could use your skills.” Walking forward, he picked up the casing. “I need a magic one of these.”
+
+“Yes!” Aika said, nodding repeatedly.
+
+Kindra reached out and connected to the wyvern. She pulled the mana into herself. A torrent of magic flooded through the air and pounded into her. She gasped, and some leaked out, flowing toward Gleon.
+
+Gleon reached down and grabbed the wyvern. “Should make some nice armor.” He paused and looked at the bison. “Can you carry it?”
+
+Kindra looked at it and blinked. Walking over, she grabbed a leg and pulled. Like tugging on a massive log, it did not budge. I’d need to level a dozen times.
+
+Gleon chuckled. “Never mind then. Let’s get this back and go from there.”
+
+Kindra followed him, wading across the creek and attempting to help pull the wyvern back toward their village.
+
+After a dozen paces, she gave up and blushed. “Sorry.”
+
+“It’s alright. You’ll level soon enough. A little break can help you decide.” Gleon dragged it around a tree.
+
+I do need to level more… How much mana was that?
+
+[Your mana has increased: 2357 → 3583.]
+
+She let out a low whistle. No wonder they said I was weak. “Should I level or save my mana for the morning?”
+
+“Save it,” Gleon replied. “I’ll find some metal and things so you can make more of those.”
+
+“They’ll need to be enchanted.”
+
+He smiled and nodded. “Yes, but even that can wait. Rangers should be able to boost the shot.” He gestured to his axe. “And someday, you’ll make me a better one.”
+
+Kindra leaned closer and saw little runes that were baked into it.
+
+[Level 20 Piercing Axe - Grants the wielder +20 strength and negates 20 stamina on an attack.]
+
+“How long will it last?” Kindra asked, looking up from it.
+
+“It’ll fade in a few decades.” Gleon dragged the wyvern around the trees. “I’m hoping to make a suit of armor from this one.”
+
+“I want armor made from a wyvern,” Aika said, a small grin on her face.
+
+Gleon snorted. “It’ll lock you on the ground.”
+
+“Nah. I’m strong.”
+
+“Liar. You’re weaker than a baby lycat.”
+
+“Am not.”
+
+“Are so.”
+
+Kindra chuckled and followed him back to the camp.
+
+Pausing next to a tree, Gleon knocked on it, and the trunk swung open to reveal an older dwarven woman with graying hair. She looked at the trio, blinked repeatedly, and shook her head.
+
+“I don’t even want to know where you found these two or that,” she said, looking at Gleon with a sigh.
+
+Gleon smiled at her. “We need to get it inside.”
+
+“Well, start chopping then.” She smiled and gestured at it.
+
+Gleon groaned. “I was hoping the town could—”
+
+“Not on your life,” the woman said, scolding him and moving forward, her tan dress swirling around her legs and her ponytail of silvery hair bouncing. “You’re always off gallivanting, ruining armor, and searching for some secret answer. Well, the answer is right there. Work.” Turning, she looked at Kindra and recognition spread across her face.
+
+Pulling Kindra into a hug, she smiled. “And I finally meet my great-granddaughter.”
+
+Kindra looked at the older dwarf and smiled. “You're Gleon’s mother?”
+
+“Your great-grandmother, yes. Just call me Gran.” She smiled at Aika. “And you’re fae-touched, a true blessing.” She patted Kindra on the back.
+
+“Thank you. Can you explain fae-touched?” Kindra asked, trying to clarify the words.
+
+“They were a race of powerful magic users who aligned with the fairy race.” Gran pointed at Aika. “And they still bond with them, regardless of their classes. They’re the fae-touched.”
+
+“Fae?” Kindra probed. What race is that?
+
+Pulling out a stick, Gran sketched something that looked like an elf. She drew three others that ended with a human. “Fae.” She pointed to the one on the end. “Elf, half-elf, human.”
+
+“Oh.”
+
+Gran nodded. “They have an ancient affinity for mana. They once were our enemies, ensnaring maidens and tricking all our kind. Then that changed. We made a truce that lasted a long time. Then the necromancers arrived shortly thereafter.”
+
+Kindra nodded. “Thank you.”
+
+“You’re welcome, sweetie.” Gran released her and pulled out a knife. She walked over to the wyvern and started butchering.
+
+May as well. Kindra walked over and pulled out a knife. “Gran, can you teach me anything about runes and spells?”
+
+“Ah. Yet another dwarf who wants to be a wizard.” Gran sighed loudly into the air.

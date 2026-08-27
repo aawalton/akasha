@@ -1,0 +1,253 @@
+---
+id: 8e9a76a2-563f-5c2f-8e15-4a2ef6abe6aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - I Know Things Now"
+slug: 0057-chapter-31-i-know-things-now
+partOf: metaworld-hopecore
+position: 57
+ownLength: 3194
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376491/chapter-31-i-know-things-now"
+royalRoadId: "3376491"
+---
+
+“All warfare is based on deception."
+
+Sun Tzu
+
+The very first thing Eppie did after her morning routine with Ava and Halle was to return her costume. There was one or two cat-holes on the bodice, though Ms McGregor didn’t seem to mind, and merely told her to leave it in the used pile for processing.
+
+She then swung by the Quest Board, noted the absence of Seniors, and attended her first morning class with Dr Kirby.
+
+Inside the cramped room, the students of English Honours were half-asleep and fatigue-drunk from their Halloween activities, slumping over tables and chairs.
+
+At the projector whiteboard, Dr Kirby was her usual spry self, all passion and brimstone whenever the topic of literature crossed her path.
+
+They had started on Titus Andronicus, and the week’s focus was on Hamartia, Honour, and the hooks established in Act I.
+
+The plot goes that the late emperor's two sons, Saturninus and Bassianus, are publicly competing for the throne when Titus Andronicus returns from a decade of war against the Goths—meaning Germanic barbarians. Like Caesar, Titus brings home prisoners and loot; he brings them the famed Tamora, Queen of the Goths, her three kids, and a Moorish lover.
+
+To excite the students, Dr Kirby did her best to engage them by explaining that Tamora was, in Eppie’s 2020 vernacular, a Goth Baddie in the literal sense. She is so strikingly beautiful that the Emperor’s sons are smitten almost instantly.
+
+The kids cringed, but Eppie very much enjoyed the anachronism. Titus’ first act is to immolate Alarbus, Tamora’s firstborn, as an offering to his own son killed in the battle. Tamora begs on her knees, and Titus refuses. “Pietas”, he says. This is the way.
+
+The first domino teeters. Titus chose Saturninus as the next Emperor because of tradition. As reciprocation, Saturninus chooses Lavinia as his wife and Empress. Titus agrees, Lavinia does not. This is because Lavinia was promised the second son, Bassianus. The second domino teetered.
+
+Bassianus and Mutius, Titus’ own son, then tried to abduct Lavinia to satisfy the notion of their honour. Titus murdered his own son, Mutius, for dishonour. The third domino now stood.
+
+Not wanting the noise, Saturninus pivoted to his heart’s true desire, the Goth Baddie Tamora. Tamora, now Empress, publicly made peace with Titus… but plotted revenge in secret. The fourth domino, larger than all the rest, was ready to tip.
+
+“SEVENTEEN times—” Kirby told them as a revelation. “Seventeen times, one character or another explicitly justified their actions by involving the idea of Roman Law, Roman Honour, Roman Virtue. It’s a sickness.”
+
+The woman pointed to the character map.
+
+“He gives away his daughter to a man she does not love. He kills his own son for dishonour. This isn’t noted as madness, insanity, or psychopathy. It’s noted as?”
+
+“Piety,” Maddie answered from the back.
+
+“Yes, Piety,” Kirby popped the word onto the projector with a Sharpie. “Pietas. Duty to the family, the Gods, the nation. In that very specific order. He justifies everything, consciously or unconsciously, via dogma. This is a dangerous way of thinking, and it disrupts civil and natural order. It’s a lesson our nations continue to struggle with, on an existential level.”
+
+Everyone’s pens moved, but not Eppie's. Her mind had long since drifted out of Titus Andronicus onto Fat Lim Wang’s tale of self-incrimination.
+
+Filial Piety. That was why Lim had done everything for William, to pay the Chen family back for what they had done to ensure that the Five Families had their lives in America. The Chens had kept them in thrall with unwanted charity; only William was too dumb and too psychopathic to understand that the families acted out of piety, not fear.
+
+“Lavinia is given away like property,” Kirby continued. “The man she respects the most of all gives her away. The man who would own her, Bassianus, argues for her. Her brother then makes a decision for her. Lavinia speaks many lines, great lines—but her silence is deafening.”
+
+"Miss Fontaine?"
+
+Eppie looked up. Dr Kirby was asking her a question. She had noted that Eppie’s eyes were staring into the middle distance. Either Eppie had fallen asleep, or she was daydreaming.
+
+“Why is Pietas a pitfall?”
+
+Eppie considered this for a moment. Thankfully, she didn’t need Dr Kirby to know the answer.
+
+"It’s orthodoxy. Orthodoxy is unthinking," she replied. "These men act because they are internally justified. So external justification feels unnecessary." She met her teacher’s eyes. "They just act. They succeed, or fail, but they do not question. Those who challenge them must be the ones asking why. Not themselves. That’s the danger of Pietas."
+
+Just like how William never thought deeply about what he had done to Mio. Just as it took the tragedy of a cherished friend to awaken Lim.
+
+And for herself: a drowning.
+
+Kirby looked surprised, then relieved. “Well done, Eppie.” She said. Then, to the room, she told them to, "Write that down."
+
+For homeroom, Eppie caught up on the homework she had neglected due to all her extracurricular activities while socialising as best as she could, shocking her friends with her aptitude at Algebra.
+
+In the Algebra class that followed, she did her work, then daydreamed about the events to come.
+
+On Saturday, she had a meeting with Eric regarding the professional promo shoots at a place near Culver City. She also had to meet with Charlene Lafitte to explore new angles on the developing story of Mio and enlist her help in finding the missing Senior.
+
+Before next Sunday, Umbrella was very likely going to hit the charts like a meteor, meaning there was absolutely a future instance where she, the songwriter, would appear with Noah on a stage involving a red carpet.
+
+The Fall Gala was six weeks away, but final arrangements were due on Friday, the 16th of November, and they would have to perform a working run-through in front of the Music Chair, Dr Lucas Ford.
+
+This meant that, even ignoring potential problems with William and Valorie, she had a lot of work to cover in a very short period of time.
+
+In Arts Block, sanity returned.
+
+Costello waited until they were all in their socks on the wooden floor, then informed them that yesterday was but a “Midsummer Night’s Dream.”
+
+“Now,” he commanded the class. “Walk.”
+
+In the black box, they began from scratch, catching that feeling they had before Halloween took their souls.
+
+Compared to the others, Eppie’s soul hadn’t yet returned.
+
+While her [Physicality] and [Act Natural] performed on autopilot, a part of her was still in that basement, dosed with the scent of cat urine, carrying the weight of Mr Chin’s origin.
+
+Sole. Heel. Sole. Heel. Step. Step. Step.
+
+Costello stopped in front of her. Her teacher was not displeased. He merely looked at her feet, looked at her eyes, then asked: “How are you?”
+
+“I am good,” she said.
+
+“Where are you?” he asked.
+
+“Here?” Eppie met his gaze.
+
+“Talk to me if you need it,” her teacher said. “Principal Burton already passed on his wishes.”
+
+“Thank you, Sir.”
+
+“Good, now focus.”
+
+Eppie breathed in the air-conditioned air. She felt the grain of the floor through her feet, then she allowed the weight to drop, returning her body to neutral. As a baby, she was learning to walk all over again.
+
+At rehearsal, Cooper ran the confrontation scene three times: once according to the script, once ad-lib, and once hybridised. Having done her duty as a cat, she now returned to the role of Postmodern Antigone with gusto, stripping back from the habits of classical tragedy to be more modern, more herself.
+
+That, or things were simply easier to process when one was involved in a knee-deep, real-life tragedy.
+
+Other than Eppie’s praise, the others were coming along very nicely as well.
+
+James Jules, “Jimmy” now, was taking to Creon with a more natural air. His Creon was becoming more lordly, less angry, less frustrated, and more indignant. He became a man of orthodoxy, a man who did not doubt his Pietas.
+
+Chloe shone as well. Away from Valorie and William, she really did begin to shine, almost like a discovery of sorts. Her Ismene expressed emotions of love and longing that ventured a little beyond sisterly love, but it was all the same on stage, where the facial expressions supplemented bodily language. The way she held her hand, the way she made eyes at Antigone that were full of worry, pain and pity, she was doing well.
+
+Without the Playhouse, Minjun and the technical crew had no overt role other than aiding Costello.
+
+Tyker joined them halfway in, having just finished her work at the Whitman’s Theatre with the Seniors. She advised the players on the microdynamics of their acting, while reminding them of lighting cues, music, and the spatial aspects of the actual stage.
+
+“Well done, all,” Costello clapped at the end. “We’re getting there. I am very much looking forward to your Fall Galas.”
+
+Cameron Atkinson passed out an updated Prompt Book. Sage Copeland drew small stars and explained lighting changes with highlights and underlines.
+
+At 7 PM, Eppie walked out of the black box into the corridor and stood for a moment in the fluorescent light.
+
+[Causality: 12134]
+
+Her [Dasein] was refilled to 32. Yet knowing the [System], Eppie had no doubt that her feeling of security wouldn’t last.
+
+Saturday. 8:45 AM.
+
+After finishing her chores, Eppie met her Newfoundland downstairs and slipped into the worn leather of his electric pickup. She wore her boho dress again, knowing that someone at the studio would make her change into something else. Other than minimal skincare, she also applied nothing, leaving her face plain and unadorned.
+
+She slung her bag into the cabin with a “Yo!” and settled in. Eric wore his weekend flannel. These were not Sony's people; they were contractors and he had no one to impress.
+
+“We're hewing down a tree or what?” Eppie asked, eyeing the rolled-up sleeves and the denim.
+
+“Eh?” It took Eric a few seconds to realise she was having a go at his outfit. “I’ll have you know this cost me an arm and a leg. Emily picked it out. She likes the look.”
+
+He passed her a coffee.She thanked him. The truck smelled clean as always.
+
+He asked her about school, her grades, her acting, and she humoured her role-playing Canadian father figure.
+
+“So er… I got some news,” she said once they hit the highway. “It’s a lot. And it's heavy. And it takes us to the next stage of… whatever this is.”
+
+"All right, shoot,” Eric turned on the cruise control.
+
+She told him. She told him about the Stray Cat Society, about Fat Lim Wang, about what Lim confessed,
+
+Eric pulled over on the shoulder to gather his thoughts.
+
+“Jesus fucking Christ!” he dropped an Americanism, then a Canadianism. “I am so sorry.”
+
+They shared a brief silence.
+
+“Lim is trustworthy,” she said with enormous earnestness. “He intercepted the Birkin bag. Valorie Sanders gave the bag to my old roommate, Simone Goode, to plant in my locker. Lim used it to troll them and drive a wedge between them. He sold it and used the money for the shelter's running costs. He left Simone to explain a missing thirty-thousand-dollar Birkin to William Chen to teach her a lesson about betrayal."
+
+"Reckless," Eric shook his head. "Bit of a villain, but it's effective, I’ll give them that. Bloody hell, Eppie, you got some characters at that school of yours."
+
+"As far as I know, Simone is now working in the Chen family’s nightclub to pay off the cost."
+
+“Karma,” Eric’s jaw moved slightly in distaste. “Are you sure Lim is a good character?”
+
+He’s good. She said, but he couldn’t tell the man that she had [System]-matic proof that Lim contributed to the narrative arc of existential good and justice on a karmic, cosmic level.
+
+Eric sat with his head against the steering wheel. He recovered a few seconds later, and they were once more on their way.
+
+"He believes it wasn't an accident," Eppie informed her Newfoundland. “My suicide, I mean. The key is Mio and Simone. We need to find the one and get the other to talk.”
+
+He was driving on the freeway now, downtown LA sliding past on both sides, the morning sun at a low angle that made everything look either golden or overexposed. It was a beautiful day, even if the world cared not for the [Usurpers] living within it.
+
+"That diary you had, the one that was ripped," he said finally. "What was in it?"
+
+"I am starting to suspect that I wrote something about a recording," Eppie had spent all week thinking about how to connect the dots. "Imagine, if you will, Mio planting something—a recorder or a phone recording, in one of the lockers, or somewhere discreet, thinking William will beat her. Instead, he did far worse. She would have retrieved it, I guess. Maybe I saw. Maybe I found out later.”
+
+Eric breathed out slowly through his nose.
+
+"It's good insurance," Eppie continued with the pragmatism of a corporate trader. "If it happened to me—"
+
+“—don’t say that.” Eric snapped. “Please, not that.”
+
+The car was quiet for a moment except for the soft resistance of the electric motor against the wind. No engine sound. Just the road being eaten by the windshield.
+
+"And Mio," Eric sighed. "Where is she now?"
+
+"We suspect Fresno. Central Valley. Lim says she talked about it before. She has family there, maybe."
+
+“Well?" Eppie asked.
+
+"I'm thinking." Eric took the Culver City exit without indicating. "Okay, this is way beyond what I thought was some fucked up bullying. This is a criminal matter, a civil matter, and a matter of public interest if Valorie is involved, since she’s riding William by using her father’s influence. You’re absolutely right in that we need Lafitte on this. We just don’t have the resources, connections and know-how to deal with something of this calibre.”
+
+Eric paused. “I don’t trust this Lim. You trust him, fine. I don’t. He is still criminally culpable. Erasing CCTV evidence is pretty serious. There’s a Penal Code specifically for that offence. We take this to court at the highest level, and he might get off—but first, he has to implicate himself. Is he willing to do that?”
+
+“I don’t know,” Eppie confessed. “It would ruin his career and degree, but free his family, I guess. I was thinking we can get social justice instead—expose William, for example, expose Valorie Sanders’ role in all of this. They’re very much beholden to the court of public opinion, and I doubt they have the balls to risk discovery if we have all the evidence. In a formal prosecution, they have the upper hand. Motions to dismiss, motions to suppress evidence, demurrers, continuances, Mio may be married with kids before anything can be resolved. Senator Sanders would probably be retired.”
+
+Eric looked at her strangely for a second. “Since when are you so damn knowledgeable about this stuff?”
+
+“Google?” She shrugged prettily. In truth, Lana being sued for one corporate decision or another was merely a Monday.
+
+Eric kept his eyes on the road.
+
+“You’re right,” the lawyer groaned. “The law favours the rich. A few years ago, one of Universal’s performers, Sandy Moore, sued the company for not sufficiently protecting her from the industry. She was drugged and assaulted at an after-party by a well-known producer. Klaus Steinberg.”
+
+Eppie had no idea who these people were, but she guessed where this was going.
+
+“Two years it took, after the tenth time Moore was deposed, cross-examined, and scrutinised, she broke mentally. They settled out of court, and Moore disappeared from the media entirely. If Mio is the child of migrants, and they’re as poor as you say, there’s no chance she can endure all that, recording or no recording. And I am going to say something you won’t like—Mio's recording has chain-of-custody problems. It won’t hold up if their lawyer is experienced and connected enough. And you can bet your ass Senator Sanders has the best.”
+
+“So much for justice,” Eppie hugged her knees.
+
+“Well, as you said, there’s always the court of public opinion.”
+
+“Yeah, but I want something more concrete…” Eppie mopped. I want William Chen’s mind to crawl with scorpions. I want his psyche flayed with such shame and horror that legal justice would be mercy.
+
+That: she should be able to do. The [System] would make it so. Or else, what would be the point?
+
+"You know, if Mio has been in Fresno since late July, and the assault was early May—" Her Newfoundland gulped, then stopped himself. "It's not relevant. But when we find her, we go prepared for whatever we find."
+
+Eppie held that thought for a moment. Then she nodded.Maybe Mio just wanted to move on with her life. Maybe Mio was no longer interested in justice.
+
+The truck turned into a plain white warehouse that was invisible from the outside. The logo, barely visible, read “LIGHTBOX STUDIOS” from the street, then rapidly replicated itself as they ventured into the compound. Eric parked outside what looked like an old sound stage converted into a studio. The place was filled with stands and light boxes, dollies and unboxed equipment.
+
+The lobby, once they got out and entered, was a functional space attached to the giant warehouse.
+
+There was a woman there, light makeup, delightfully plump and bubbly, who waved at them with her whole body. She wore a headset, and she carried a clipboard.
+
+"You're eleven minutes late," she said with such familiarity that Eppie felt whiplash. "I told the stylist you'd be here at nine. I lied and said nine-fifteen. You are still eleven minutes late. Don’t worry about it, though, we’re the leads here.”
+
+"Traffic," Eric lied. It wasn’t as though he could tell the woman that they were plotting against a Senator and a dynastic construction tycoon.
+
+"Everyone in LA has traffic," the lady laughed. Her eyes went straight to Eppie. "You look amazing, Eppie."
+
+"Good morning to you too,” Eppie smiled, her mind still full of question marks. Who the hell was this woman?
+
+"Hair and makeup are waiting. We also need your approval for styling." She turned and was already moving. "We have Set A until noon. White cyc, soft box, solo Eppie with guitar and without. Set B from noon to two. Editorial for Seventeen, which means a rack of clothes you will need to approve. Set C at two. This is for LAPA. I bought a set of everything your school sold as merchandise."
+
+"Excuse me," Eppie apologised. "Can I ask a question?”
+
+"Yes?" The woman pushed open an interior door without breaking stride. "I am all ears."
+
+Eppie fell into step beside Eric. "Excuse me. Who are you?"
+
+The woman stopped at the door. Eric winced. Her eyes grew suddenly wet as she looked at Eppie with a mask of betrayal, horror and disappointment.
+
+“I…” she choked back the tears. “I am Madeleine Filmore, your Media Manager…”

@@ -1,0 +1,231 @@
+---
+id: a978b7bd-1715-56a7-9d0f-32ee01cfe7ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 633 - Just Rewards"
+slug: 0136-chapter-633-just-rewards
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 136
+ownLength: 2659
+unit: words
+ownProgress: 2659
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2748337/chapter-633-just-rewards"
+royalRoadId: "2748337"
+markedReadAt: "2026-06-29T19:41:47.272Z"
+---
+
+Tala had to restrain Lea marginally as she had the girl wrapped in her arms. Tala’s own aura and authority smoothing and soothing without actually controlling or interfering with Lea’s attempts to regain control, her willpower and self-restraint having to contain and corral not only her body, but now her magics as well, ensuring that it was a harder task than she’d expected.
+
+It had been years since Lea had lost control to the berserk state, but to be fair, it had been years since she’d been seriously hurt.
+
+At the moment? Lea was trying to use her magics to break Tala’s grip and get free as the next perceived, potential threat, likely because Tala was actively restraining her.
+
+Tala simply took the hits. She could have interrupted the magics, drawing her daughter free, but that would invalidate this test. It helped that Lea wasn’t acting with full force, clearly working through the process, the added complexity.
+
+Even her mild restraint of Lea could be seen as a breach of the spirit of things, but since she was unlikely to have attacked a wall—thus failing her test—Tala felt it was fine.
+
+She wanted to hold and comfort her daughter, so she did.
+
+There was no one else around to be attacked, so that hadn’t been something they were testing.
+
+They probably should have, but changing the parameters of a test mid-way was a good way to have their daughter simply stop caring about what they allowed or didn’t.
+
+Additionally, one of the points of the test was to be a visceral demonstration of the change her ‘boon’ had undergone. Rane had let Tala know that this might be more difficult for the girl with her magics added in, and this had been a safe means both of testing if her soul-addition matched his—as some within the Gredial family varied—and to let her experience it herself.
+
+Terry arrived moments after Tala. Though, Tala suspected that the timing was due to him wanting it that way, rather than a question of speed or desire to be there.
+
+Rane came to rest beside them a breath later, his own soul resonating with the distress his daughter was under.
+
+Tala saw him embrace the mixed boon and curse, allowing the power of a Sovereign to roll through him, enhancing him toward addressing the attack upon him.
+
+Then, with a flexing of will and authority that rivaled Master Grediv’s work with the City Stone in complexity, Rane stretched forth and tapped Lea on the forehead. “Safe.”
+
+Their souls pulsed once in perfect sync to Tala’s sight, and then both leveled out, returning to their more individual, standard rhythms and functions.
+
+He hadn’t actually controlled Lea in any sense, nor did he force her out of the berserk state. Instead, he simply made that one simple idea utterly, unshakably apparent to her, and it only worked because it was true.
+
+Rane sagged backward, taking a step away and deflating slightly, taking in long, steady breaths.
+
+Lea’s eyes shot wide, and she gasped, pulling in air in ragged, uncontrolled breaths. “Mom?”
+
+Tala squeezed her daughter. “I’m here.”
+
+Lea shuddered. “That was… that was intense.”
+
+Tala smiled. “The midnight fox can be a cunning foe. Did you note the time of day?”
+
+Lea groaned. “It’s almost midnight, isn’t it.”
+
+Tala answered, even though it wasn’t really a question. “It is.”
+
+The girl nodded slowly. “And such concepts can have powerful influence on arcanous and magical creatures.”
+
+“They can.” Tala smiled. “But such is also often overstated. It was undoubtedly a harder fight than it might have been in the open at high noon, but not overly so.”
+
+Lea sighed, nodding slowly. “I’ll keep that in mind… Berserk, too… That was harder to rein in than before… Thank you for letting me experience a true reaction in such a contained setting.” She smiled. “I’ll be better able to channel it going forward.” She took a deep breath and grimaced. “How bad is my leg?”
+
+They both looked.
+
+There were ragged rents in the white steel, the edges making the wounds look to have been made by a combination of melting and tearing. The more delicate magical portions deeper within were also perforated and sheared through at many places.
+
+“Well… It’s not great, but I’ve seen worse.”
+
+Lea huffed a laugh. “I can sense the pain, even though my body automatically cut the direct feed of sensation when it would otherwise have become overwhelming. Right now, it’s like reading about the damage rather than experiencing it.”
+
+Rane huffed a laugh. “I’ll count you lucky in that, then.”
+
+Lea sighed, shifting a bit to get more comfortable and just as clearly pulling herself back together, mentally. “I suppose. Let me fix the exterior and inscriptions. That should help the internals heal.” She frowned. “How was it able to pierce my steel so easily?”
+
+Rane gave a sad smile. “Lightning has the power to cut quite effectively. Many metal workers use a more precise form of that magic to make quick, rough cuts.”
+
+She grimaced, her expression taking on a bit of a different kind of hurt. “So, I was set up? You chose an opponent who was able to do this?”
+
+Rane shook his head placatingly, but it was Tala who responded, chuckling. “Not at all. High pressure water can also be used, so can extreme heat or flame. Wind can be made powerful and ‘sharp’ enough to cut most non-reinforced metals. And that’s just some of the basic magics. These creatures exist because they are capable of combat at levels that most humans would find nightmarish. Those too damagable to take a hit would quickly cease to be, and those too weak to breach such defenses at need would be equally rusted.”
+
+Lea grunted, seeming to take them at their word. “No defense is perfect.”
+
+Rane nodded, finishing the phrase. “No attack unstoppable.”
+
+The four fell into silence, Terry simply nuzzling against Lea in quiet comfort.
+
+The reprieve didn’t last long, however.
+
+First, Terry flickered away, appearing next to the midnight fox’s body and beginning to tear away at it with a vengeance.
+
+Something about the act must have been enjoyable for the avian, because Tala was relatively certain that he could have grown large enough to swallow it whole if he’d wanted to.
+
+Second, Lea perked up, looking back and forth between her parents. “So…? Did I pass?”
+
+Tala and Rane exchanged a look before they nodded in tandem, Rane speaking first. “Yes. When we get back to the exodus, we will give you the sword. We have a sheath for it, which is a pinch-blade design.”
+
+Lea nodded. “So that the edge doesn’t actually contact the sheath. Understood. If I’m not careful in drawing it, I’ll destroy the sheath.”
+
+Rane smiled and nodded. “Exactly.”
+
+“And.” Tala added, drawing both of their attention.
+
+He quirked an eyebrow, but after a moment’s quick consideration, he gave a slow nod.
+
+Tala smiled. “We think that it is time you learn about Archon Stars.”
+
+The girl listened intently as Tala and Rane explained the spellform and its significance, demonstrating it and conveying how important choosing a proper material was to the process.
+
+Lea then made the obvious connection and asked if Tala’s bloodstars were that same spellform.
+
+Tala and Rane shared a look before they both simply laughed, shaking their heads in surrender.
+
+Needless to say, Lea was quite familiar with Tala’s bloodstars, after years of close proximity, and while her own would be slightly different, it gave her a basis of understanding that was an incredibly solid launching off point.
+
+That, combined with her literal years of freeform magical practice in the form of enacting alterations to her body’s basic systems, meant that she was more than ready to learn and move forward.
+
+When she stood so that they could head back, she gave out a startled cry and almost fell, her leg not working as she expected, the absence of pain having caused her to forget the injury, even if just for a moment.
+
+She’d reformed the white steel, even manipulating the inscriptions back into place through precise control over the same, but that hadn’t returned the leg to full functionality.
+
+Her magics were working on it, but it was a much harder task than simply repairing biological systems, and she wasn’t in a facility designed to augment, enhance, and repair automata within. It also didn’t help that her now fully complete body was more complex—thus harder to both damage and repair—than it had been when Io had used it to fight Tala so long ago.
+
+In truth, she likely needed at least a full day in her tank, much to the girl’s irritation, but that should sort her quite nicely.
+
+Regardless, it meant that she needed a different method of returning home… at least she seemed to think so.
+
+Her mother and father grinned at her, and she deflated. “I have to get back on my own… don’t I…”
+
+Even though it wasn’t really a question, Tala still answered it. “Not alone. We’ll be with you, but under your own power?”
+
+Rane nodded, answering his wife’s question. “Absolutely.”
+
+Terry trilled his agreement before wolfing down what little remained of the dead vulpine.
+
+-That’s a terrible pun. It was a fox.-
+
+Regardless, the idea came across, and I found it humorous.
+
+-...Fine.-
+
+It was a bit entertaining to watch the girl effectively hop one legged back to the traveling group, but that was mainly because it didn't change her method of travel very much. She still built up momentum for great bounding leaps. She simply always stepped down with her right leg.
+
+It seemed awkward for Lea at first, but she quickly adjusted, learning the simple lesson that Tala and Rane had hoped that she would. Mainly, magic made up for all sorts of injuries in the field, and thinking like a mundane would leave her stranded or dead.
+
+They arrived back at the encampment just a few hours before dawn, the sky already entering that odd period of seeming greater darkness just before the first light became evident.
+
+The four went straight into the sanctum, willing themselves to their places before the meal, ready and waiting for them, kept at the perfect temperature and consistency by the wonders of Kit.
+
+There was near-silence as they all devoured their own portions.
+
+Lea had taken to moving her leg by controlling the white steel, much as Tala did with her left hand. It wasn’t precise, nor easy, but it did allow her to hobble instead of hop.
+
+To the girl’s credit, she didn’t bring up the sword as they all made their ways to their beds.
+
+The next morning, however, she squealed in absolute, utter glee when she found it in its sheath, resting in the center of the breakfast table, clearly in a place of prominence.
+
+The exodus had already begun to move outside—the encampment having been broken down well before the sun fully rose above the eastern mountains—but that was fine. The Sappherrous family wasn’t actually needed in the process.
+
+The Talons were helping, and even they weren’t needed, so it was more than fine for the three to have slept in after their late night.
+
+As Lea examined the weapon, pulling it slightly out of the sheath to look at the blade before carefully reinserting it, Tala cleared her throat. “What are the limitations of this weapon?”
+
+The girl responded instantly. “It is a purely physical blade. It will impart no magical damage or secondary effects.”
+
+“And that isn’t a true detraction for you because…?”
+
+“Because my magic manipulates physical force and so a nearly infinitely thin, indestructible blade is perfect for me.”
+
+Tala quirked a smile. “Quite.”
+
+Rane cleared his throat. “Young lady?”
+
+Lea turned to her father, gripping her sword close as she regarded him, a mixture of trepidation and hope in her eyes. “Yeah, Dad?’
+
+“Before you take that out of this sanctum, I want you to spend a day just drawing it and sheathing it. Each motion should be purposeful and precise. Make it so you don’t have to think about performing those actions.”
+
+Lea hesitated, then nodded before hesitantly adding, “And I need to spend at least a day in the tank as well.” She frowned, tilting her head in consideration. “What about half a day of drawing and sheathing, then my day in the tank, then the other half a day after?”
+
+Rane gave a small smile before nodding. “That sounds reasonable.”
+
+Lea hopped to her feet. “Thank you, Dad!”
+
+She hugged him before turning toward the door. “Hold on there, Lea.”
+
+“Yeah, Dad?” Once again, the girl almost clutched the sword protectively against her chest.
+
+“Don’t you want to eat first?”
+
+Lea hesitated again, practically bouncing from foot to foot. “Right.” She nodded. “Alright. That’s probably a good idea. Thank you, Dad.”
+
+He nodded, giving her a kiss on the cheek as she returned to the table. “That’s my girl.”
+
+Tala reached out. “Here.”
+
+Her elk leathers grew into a belt, snagging the sheath and pulling it to Lea’s hip where it hung out of the way. The girl regarded the new accessory for a moment, then nodded. “Thank you, Mom.”
+
+Tala smiled. “Of course.”
+
+After breakfast, Lea was a girl of her word, practicing for near to twelve hours before retiring to the tank in the small closet attached to her bedroom, climbing into the tank without complaint.
+
+Alat in particular had always found the odd magics of the tank to be fascinating, as the liquid seemed to act as a medium and conduit for the magics in the rest of the construct to flow out and act on the automaton within.
+
+It didn’t seem to care about anything that wasn’t a part of the automaton body, even leaving the inscriptions alone, since Lea had designated them as a part of her.
+
+That, in turn, proved that the body in the tank was a part of the magical circuit, somehow meshing with the magics and spellforms inherent within.
+
+Lea had complained that the tank reset her body’s views on allies and enemies in the past, but she’d been working with Alat and Enar to address that, and this would be a test of the fruits of those efforts.
+
+Twenty eight hours later, Lea exited the purple liquid, her body in peak shape. She closed her eyes and drew in a deep breath before throwing her arms up and dancing in a circle. “It didn’t reset! I’ve made my preferences the default.”
+
+She immediately willed herself to Tala’s side, exclaiming again in pride. Tala, who had been watching her daughter’s healing closely, didn’t interrupt and simply joined in the girl’s joy.
+
+Lea then went to her father to celebrate with him before returning to the requested drawing and sheathing practice.
+
+By the time the exodus was halfway to Bandfast, Lea was out on the front lines once again.
+
+This time, those in charge of the squads were more willing to use her, and she saw fight after fight.
+
+She showed maturity once again by only using the new sword when appropriate, sticking with white steel shaped weaponry when needed to better mesh with the Talon Claw she was fighting alongside.
+
+In her off time, the girl sorted through the over abundance of materials that Tala and Rane had on hand in the sanctum, searching for the perfect material for her Archon Star’s medium.
+
+In the end, no one was surprised when she picked white steel, specifically a marble of the material that was the size of the last joint of her pinky.
+
+Her control over the material—and magic in general—meant that by the time they reached Bandfast, Lea was no longer in the vanguard. Instead, she was in the sanctum, meditating and pouring power into her Archon Star.
+
+Assuming everything went to plan, she would be Binding within the week.

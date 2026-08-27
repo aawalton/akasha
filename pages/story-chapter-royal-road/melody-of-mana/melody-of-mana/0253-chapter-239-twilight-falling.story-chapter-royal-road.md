@@ -1,0 +1,113 @@
+---
+id: ae3ed8eb-0ec0-5516-89fb-a9e481d1a86e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 239 Twilight Falling"
+slug: 0253-chapter-239-twilight-falling
+partOf: melody-of-mana
+position: 253
+ownLength: 1756
+unit: words
+ownProgress: 1756
+publishedAt: 2023-05-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1223066/chapter-239-twilight-falling"
+royalRoadId: "1223066"
+markedReadAt: "2026-06-29T22:34:33.558Z"
+---
+
+Days off were a resource that I seldom got anymore. Not because of my actual job, no, they had plenty of time for me to go and do as I please regularly, but because I had my own projects. Many of these weren't all that vital to me, just things that needed doing.
+
+My house, even with its many included amenities, was still lacking a lot of basic things. Most of these old manors were just that, old. Beyond their warding they had decades to centuries of magical items inside them. Well at least they had had them. Fleeing nobility, soldiers taking over, and all the staff losing their jobs all of the sudden had stripped my home down to what couldn't be hauled off.
+
+So there was only one thing for me to do to get those amenities back, make them. Sure, I could have bought them, but then I'd be inheriting someone else's work. My work was almost universally better than commercially available stuff, and it worked exactly the way I wanted it to.
+
+I'd also taken up trying to push my core to its final level. That was an on and off project that had been going for years. This wasn't at all odd, as few people managed it, and the ones who did were considered superior. Many, though not all, teachers at my former academy had managed it, along with people like Mystien. Others though had jobs which took so much of their time that they rarely managed to push it all the way.
+
+My trick for quickly going through it, using the functions like IF, AND, and the like really, really sped things up in that regard, as did the fact that I spent really quite a lot of time on several long trips working on it. If I had to guess, I was less than a year from finally completing the damn thing. I didn't know if I should be happy or sad over that.
+
+Today however I had other personal matters to attend to.
+
+"What do you think of this cloth?" Mother asked as we looked around a rather familiar tailor's shop.
+
+"That we really should let the professionals handle it. I do rather like the idea of a darker shade though, maybe with pale yellow or white highlights?" I looked over at the proprietor a bard named Marcus.
+
+"I believe I have something like that. Oh wait, is this for viewing the eclipse?" He asked.
+
+"Yes..."
+
+"If you don't mind an extra day or two of waiting my newest apprentice is doing some magic with embroidery, really lovely work," he offered.
+
+"Can I see some?" I asked.
+
+"Test pieces are over here."
+
+The pieces we were shown were small, and worked into a bit of high quality black velvet. The patterns were complex but fairly normal, skillfully done, yes, but not anything too unusual. The special bit was the thread. Each one was done in a slightly different color, and they shone with waves of gentle light, before fading back into the dark cloth underneath.
+
+"Magical materials?" I asked, looking over the work.
+
+"Indeed, a species of goat that only lives in the very far north. Quite expensive to import, normally nigh impossible, but with the empire being so much more stable and large I can now get small amounts. I'm told that the animals use it to blend into their surroundings, but when charged with just a bit of mana they will glow faintly like this. Though in the interest of honesty I must inform you ladies that the effect only lasts for a year or less. Not something I'd suggest for many, but if you want something truly special..."
+
+There were a number of materials like this. They found most of their use in enchantment, and the making of special garments. For whatever reason a number of magical beasts ended up with special properties in their bodies. Glowing was by far and away the most common, but magical swords were often put in sheaths and had handles of things like bone or leather from a magical beast. There was supposedly even a species of mollusk at the coast whose shells when included made concrete much tougher.
+
+Regardless of where they came from though, all eventually failed, severely limiting their uses. Having to put a new handle on a sword or something was really common. Enchanting the material would make it last a bit longer, but all I knew of failed. I suspected that there was also something like this in the swords and the like the elves made that were so good, but that was considered a trade secret. The juicer rumor though was about the Lovers' Marks, though that too was very, very secret.
+
+"I like it, can you make it into something appropriate for a ball with Emperor Durin?" I asked.
+
+"Naturally, any other requests?"
+
+"I'd like to be able to move freely in it. I know that's not really the style right now, but can you avoid anything too restrictive or heavy?" I asked.
+
+"I've just the thing, though understand that it might be a bit chilly." He gave me a look.
+
+"Not a problem. I solved being cold with a spell when I was still a small child." That got me a laugh.
+
+"What about shoes?" Mother asked, she'd gotten far too deep into fashion in the last few years for my liking; perhaps it was the lack when we'd been poorer.
+
+"Mother I have plenty of shoes. Including both black and deep blue formal boots from my personal cobbler," I answered.
+
+"There are better shoemakers..." she began before my look silenced her. She knew well I liked my personal contacts.
+
+The rest of the day was spent at my house. After going getting a small patch for color matching I was readying all of my things for the big night.
+
+"So, when are you and Ulanion marrying?" Mother asked while we were looking through jewelry I hardly ever wore.
+
+"I don't know," I responded.
+
+"Hopefully soon. You know I've gotten both offers and rumors about you." I gave her a scathing look. "Oh don't worry dear, the offers I all told that if they couldn't approach you themselves that they could take a walk. The rumors on the other hand... Both of my children going after elves, it's considered very forward thinking. Most love the idea, though one or two people did need to be removed from my list of acquaintances with vigor."
+
+"Well, if they want an elven spouse basically all they have to do is be magically powerful and show up on their continent," I tiredly responded. "We'll get to it when we do, if we do."
+
+"Well, I surely hope you do. Your brother has yet to promote me to grandmother you know. Though I doubt that's for lack of trying, if the way he and Etia look at each other is any indication."
+
+"I'd rather not speculate on my brother's sex life, thank you."
+
+It wasn't too long until the day came. For once nobody cared what I did that morning, since the event itself was set to run all night and into the morning. I enjoyed myself for that reason, taking a very long nap mid-afternoon before piddling around in my workshop for awhile. A couple of hours before sunset I had to head upstairs and begin getting ready.
+
+I took my time to prepare, making sure I was as clean and presentable as I'd ever been, and even breaking out cosmetics. I hated them, but sometimes it paid to look your absolute best. As I looked at myself in the mirror I had to admit, I did look my best, perhaps the best I ever had. My hair was up in braids and clothes perfectly suited to a T. Maybe I could do this slightly more often.
+
+Ulanion came to pick me up, and it was clear someone had gotten to him. He matched me perfectly, long, militaristic clothes in the same fabric and embroidery as my own, a small sword bound into it's sheath at his side. He looked like something out of a painting or play, the perfectly chiseled hero. He gave me a bright smile as I entered the entry, eyes flowing around to drink me in as I did much the same.
+
+"It seems a star has come down from the heavens to join me tonight," he said, normally he left the poetry to letters, but I still blushed.
+
+"Just tonight? I had hoped to join you for longer than that," I replied.
+
+"Well then, we'll have to make it happen won't we?" He offered me his arm as we walked to the carriage.
+
+"Though I'd like to survive this one first," I whispered, he knew how I hated formal events.
+
+"Ah indeed. On that note would you care to join me for breakfast tomorrow morning?"
+
+"Of course, where are we going?" I asked.
+
+"I got us a place at a restaurant in advance, hope you don't mind. I'd like to spend my morning talking to you about things."
+
+"I don't mind in the slightest, which one?" I asked.
+
+He laughed a bit, deciding not to share that little tidbit, but instead put a finger over his lips.
+
+Down in a basement, behind a false wall in a workshop known only to one person a certain box whirred. It had been left on in the haste to make ready for the evening's events, and now the parts of it, which hadn't done much changing in months sprang to life.
+
+A needle, which had always until now pointed to the same gate spun wildly or a few moments before pointing in a new direction. Every few moments it shook, like a fearful animal, twisting this way and that the slightest bit before returning to its new heading.
+
+Lights all along the box began to glow, and a loud, keening alarm went off. Trying to warn someone who was no longer nearby. It sang, sang the fearful cry that something had happened.
+
+Above a maid heard the alarm and looked about. There were a few timed alarms in the house, installed by her mistress, but she couldn't find the source immediately. When she realized it was coming from the basement, a place she knew well she was forbidden to go she shrugged and made a note for her employer, even if the woman was likely to realize it before she got the notice.

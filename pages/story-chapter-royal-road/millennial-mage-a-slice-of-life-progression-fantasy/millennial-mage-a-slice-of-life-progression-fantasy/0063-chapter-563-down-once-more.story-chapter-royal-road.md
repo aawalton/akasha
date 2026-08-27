@@ -1,0 +1,281 @@
+---
+id: 635107c3-454e-5173-acd8-c2d09585a7c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 563 - Down Once More"
+slug: 0063-chapter-563-down-once-more
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 63
+ownLength: 2905
+unit: words
+ownProgress: 2905
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2283237/chapter-563-down-once-more"
+royalRoadId: "2283237"
+markedReadAt: "2026-06-29T19:37:18.758Z"
+---
+
+Tala, Rane, Lyn, and Terry didn’t wait for the sun to fully set before they descended the tree once more, though it was a near thing.
+
+Tala was the last to come down, and she lingered, taking in both the place where she’d taken such a leap of understanding toward Fusing, and letting her eyes track back toward Platoiri.
+
+She would return there one day, and it would be on her terms this time.
+
+Still, she didn’t delay too long, following her husband, companion, and friend down once more.
+
+As they were making their way across the walkways and bridges—around the work-in-progress once again—Tala thought she saw someone she recognized.
+
+She narrowed her eyes, easily seeing the man’s features despite the growing darkness. “Ciaran?”
+
+The man turned, a frown on his face, pivoting easily on his peg leg to face them. “Did I hear my name?”
+
+He squinted to try to make her out in the dim light before gesturing, sending a small bit of power out through his stump, into the peg, and down into the tree.
+
+All around them, leaves began to give off a soft glow, not powered by the man directly, but glowing because of his sent command.
+
+A moment later, as the glow grew to full illumination, his eyes widened, as did those of his crew-mates.
+
+They all gave deep bows.
+
+“Mistresses, Master. Good evening.”
+
+“Good evening, Ciaran, gentlemen.”
+
+That got a round of ‘good evenings’ in return. Ciaran, for his part, seemed a bit out of his element. “Is there something that I can do to help you, Mistress? Have I offered offense in some way?”
+
+She frowned. “No, not at all.” She gave a nervous little chuckle, noticing Lyn and Rane regarding her with interested patience. Terry was flickering through the branches, enjoying the evening air. “I imagine you don’t remember me, but we spoke about magical items, merging, and such a bit more than eleven years ago.”
+
+He tilted his head to the side, clearly not really remembering. Even so, he shrugged and smiled. “Ahh, I suppose we did. How are you, Mistress? Did you realize you had more questions?”
+
+She laughed a bit at that. “No, no. I just recognized you in the crew, and thought I would say hello. I apologize, I didn’t intend to interrupt your work. I imagine you all are finishing up for the night, hoping to get home to your families soon?”
+
+There was a round of subtle nods at that. Ciaran, though, shrugged. “That may be so, but we will assist if we can.”
+
+She waved that off. “No, no. Thank you, though. I wish you all a good end to your day, and I am glad to see that you are well, Ciaran.”
+
+“Thank you for the kindness, Mistress. Good night.”
+
+“Good night.”
+
+The others bowed again, echoing the well-wishes back to her, and the groups parted ways. The workmen turned back to their tasks, clearly buttoning up for the night, and the three Archons continued to wind their way through the canopy, making for an entrance back to one of the spiral descents.
+
+As they proceeded, Tala found herself lost in thought.
+
+-What’s wrong, Tala? Are you surprised that you aren’t instantly recognizable by every person you passingly interacted with?-
+
+Tala laughed internally. She knew that her alternate interface was just joking. Oh, yes. I am so devastated. Here I thought I was famous and everyone would instantly recognize me, but no. I am but a lowly nobody.
+
+-Well, that’s sad. Here I thought I was the one with no body here. Regardless, I suppose that we’ll have to come to terms with the fact that you aren’t the most important person in the world.-
+
+Of course, of course. Though, to be fair we already knew that, that would be Terry.
+
+-You know… I know you’re joking, but you might actually be right.-
+
+…I was joking, but I can see it.
+
+-Regardless, that is an interesting thought.- After a moment’s hesitation, Alat clarified. -Not that Terry’s the most important person in the world. I’m talking about your musings about the workers with wooden prosthetics.-
+
+Right? Are all the workers with wooden parts magic-bound to Master Jevin? How would that even work?
+
+-I mean… I think yes? At least as much as anyone is bound to their construct-tools?-
+
+Hmmm… Yeah, it’s not a soulbond by a long stretch, but still seems…
+
+-Yeah, there’s no denying that it’s a bit odd, but not actually obscene or anything like that.-
+
+Oh, yeah, definitely not anything like that.
+
+Rane and Lyn were chatting as they walked, both seemingly having noticed that Tala was contemplating something. They were both quite used to such from her and had easily fallen into distracting themselves until she was available once more.
+
+They’re both so kind. She frowned again as she let her mind delve ever deeper on the topic that Ciaran had brought to mind.
+
+What was the difference between a magic-bond and a soulbond? It seemed obvious on the surface, soulbonds were a binding of something to her soul, magic-bonds just bound it to her magic.
+
+But her magic came through—and was ‘flavored’ by—her soul. So, it was a bit like saying she had trained something to only respond to the taste of her lips, but she never kissed it.
+
+-That was an… intimate analogy?-
+
+Hush, you. I’m trying to understand. Analogies do that for me. I don’t quibble about which ones present themselves to me. It was like raising a plant dependent on her watering it, rather than planting it near the water source.
+
+-That’s… better? It even has a bit of the two-way nature of the soulbond.-
+
+That’s it! Tala grinned. A soulbond is two-way, even if it isn’t a two-way soulbond.
+
+-...What? I mean, I see exactly what you’re thinking, but… what? Walk me through that.-
+
+Imagine if I grab onto a handle. I’m holding on, the handle isn’t holding on to me, but both the item and my hand are exerting force on each other, affecting one another.
+
+-Sure, that makes some sense, and I can see that. So, that is a ‘one-way’ soulbond', a soulbond with anything that lacks a soul, itself.-
+
+Exactly. Now, instead, if I grab onto someone else’s hand, we are now both holding each other, as well as having our hands exert force and affect one another.
+
+-I see what you’re getting at, yeah. That would be a ‘two-way’ soulbond. The analogy actually goes even farther. People don’t really think that you’re doing something odd if you hold something with a handle. It doesn’t imply a ‘relationship’ or anything like that, unlike if you hold a person’s hand.-
+
+Exactly!
+
+-So, how does this relate to magic-bonds? Which is what we were supposedly trying to consider… right?-
+
+Tala hitched for a moment, though she didn’t let it affect her walking pace. I… Well, huh. I got side-tracked.
+
+-Alright. We’re already using hands to analogize so… magic-binding is a glove? Or making a handle so customized to you that it’s uncomfortable or even impossible for anyone else to grip?-
+
+Yeah, I could see that…
+
+-So, it’s settled, Master Jevin has covered himself with handles for other people to grab onto.-
+
+And… you’ve made it awkward… Tala couldn’t help but huff a little laugh, causing Lyn and Rane to glance her way. She waved them off with a smile, and they returned to their own conversation.
+
+-Well, there is a clear division for him. His tree-self is practically merged with the City Stone, and utilizes the power from essentially everyone in the city. Moreover, the magics in the tree respond to anyone who is keyed to the tree through prosthetics…-
+
+Oh! Is that it? The wood acts as a filter, or interface? He’s an island, and he’s not becoming one island with all those around him. He’s just building bridges?
+
+-I think we might be switching analogies too much… but sure? How does any of this matter?-
+
+Well, if we think about it, Flow isn’t fused with us, but the weapon is bound to us. So, our reality nodes—our spirits—are distinct, but it is still connected to my soul.
+
+-Exactly. There are different layers and types of connection. So?-
+
+So… the tree isn’t a part of Master Jevin… but it is?
+
+Alat sent a deep sense of negation along with an inaudible groan. -...No…-
+
+No… what? Tala had the beginnings of an idea, but Alat was clearly seeing further in their line of thinking than she was at the moment.
+
+-No, Tala. You aren’t adding Flow into your Reforging.-
+
+Tala hesitated again. That made sense, actually. But… Flow is a part of me! I’ve had the weapon since my first job as a Mage. Rust, buying the knife is one of the things that let me actually feel like a true Mage. It was my first soulbond too. By Bound standards, it’s more my body than my body is.
+
+-Sure, you could argue that, but you didn’t Fuse with it. Stars be praised that you didn’t. Thus, your body is now, and always shall be, more your body than Flow is.-
+
+Fine, but Flow is a part of who I am. I just wouldn’t be the same without the weapon.
+
+-By that token, your bloodstar clouds qualify too.-
+
+There was a long moment of silence.
+
+Then, Alat groaned in her head. -No… No, Tala. No. Please?-
+
+But you have a point.
+
+-Of course I have a point! My point is that you’re being ridiculous.-
+
+Didn’t Master Jevin say that it would be dangerous for anyone to try to change my desires and goals for Reforging?
+
+-First of all, that is what you are doing. You’re changing the goal, and I don’t think that’s wise. Second, I am you! If it was unwise for you to try to change your own desires and goals, then adding in Flow—let alone the bloodstars—would be more of a violation than my saying it’s a bad idea.-
+
+…That’s fair… Tala grimaced and sighed, causing Rane and Lyn to hesitate yet again and look her way. She waved them off with a smile and light chuckle once more, even as they all climbed into a small, open carriage to take them back down the tree.
+
+Once they were situated, Lyn looked around. “Wait… Why are they leading the beast away? How will we—”
+
+She let out a little squeal and clutched at Tala’s arm as the driver released the hand-brake and the vehicle began to roll down the slope.
+
+Lyn let out a little whine that was clearly involuntary, her voice quavering as she practically whined out, “I do not like this!”
+
+The utterance had been barely a whisper, but Tala still heard it with ease. As such, she freed her arm before wrapping it around her friend. “I’ve got you. Your body is tough enough that you would be fine even with a full-speed crash, but I’ll ensure that even that isn’t necessary. Besides, there won’t be any crash at all.”
+
+Lyn nodded a bit shakily but didn’t say anything more.
+
+They zipped down the outside edge of the spiraling ramp.
+
+Both Tala and Rane were quite enjoying themselves. Terry even went so far as to flicker up to the front—beside the driver—to sit and enjoy the wind all the more.
+
+Tala had known that some of these transports did this, but they weren’t that common, and so she hadn’t really considered that they’d be able to ride one even if they wanted to. The odds of it happening by chance, though?
+
+She would have said it’d be impossible.
+
+She’d clearly have been wrong.
+
+Regardless, it was quite the ride.
+
+To her surprise, while they got going quite fast, they weren’t shooting down the slope. As soon as she noticed that—and turned her attention to figuring out why—she noticed that a large chunk of wood along the bottom of the wagon seemed to be resonating with the tree in some way that seemed to be keeping the descent in check as well as guiding the cart around the even curve of the ramp.
+
+I… did not even consider what method he might have been using in order to steer…
+
+-Yeah, it would have been odd if he just left it to chance and was guided by bouncing off the walls.-
+
+I won’t mention that possibility to Lyn.
+
+-Wise choice.-
+
+Eventually, they approached their destination tier, and the wagon began to slow, seemingly on its own. The driver’s hand, at the very least, didn’t go anywhere near the handbrake.
+
+As the vehicle rolled to a stop, having turned to glide out onto the tier floor at the edge of the market, Lyn practically threw herself out.
+
+Tala and Rane followed a bit more sedately after thanking the driver for the descent.
+
+Terry stayed behind a moment, staring up at the man.
+
+The worker hesitated, looking down at the little terror bird, seemingly unsure of what the avian wanted. “Yes?”
+
+Terry locked eyes with him, then bobbed his head once in acknowledgement. He then trilled and flickered away, leaving the man a bit baffled.
+
+Tala chuckled, scratching Terry’s head as they walked back toward the entrance to Ironhold, and toward where they were to drop Lyn off.
+
+The older woman had steadied herself on her feet by the time that the open gates of Ironhold were visible.
+
+Tala was surprised—and by his reaction Rane was as well—that, despite the evening hour, there was still a relatively steady stream of folks coming out, and a slightly slower-moving line of people wanting entrance.
+
+A cursory glance told Tala that a good chunk—maybe even the majority—were gateless, meaning that at least some of the new citizenry had found them already.
+
+Lyn hesitated, looking at the streams of people before them. She let out a long breath, straightened herself up, and nodded once before turning to Tala and Rane. “Thank you for showing me the city, at least some of it. I had a lot of fun.”
+
+They exchanged hugs, and Tala responded verbally as she gave her friend a squeeze. “It was fun. Thank you for asking for it. I’ve missed time with you, even given our weekly morning meet-ups.”
+
+Lyn moved and hugged Rane. “Well, we can all get together more often if you wish. I think I’ve made my stance on that idea clear.”
+
+They all chuckled.
+
+“Well, once more into the hold. My work awaits!” She had a sparkle in the eye that only Lyn could have when considering paperwork and administrative tasks.
+
+-I mean, I’m sure there are quite a few people who—-
+
+Hush, you. I’m being hyperbolic.
+
+-...Fine.-
+
+Lyn walked off toward the open gates, aiming to pass between the two directions of traffic. She waved over her shoulder, and they waved back, even though she couldn’t see them.
+
+“Let’s watch and make sure she gets in alright.”
+
+Tala raised her eyebrow at her husband’s suggestion but then shrugged. “Alright. I don’t mind.”
+
+The woman got a few glares as she passed those in the line to enter, but no one made a fuss. Likely, other Irondalians had bypassed the line to get home previously, so it wasn’t an unprecedented happening.
+
+Moreover, all those waiting to enter were aware that their citizenship in the hold wasn’t finalized as of yet, and making a fuss was an excellent way to get oneself and one’s family disinvited. It was a purely voluntary process, after all, and they had absolutely no recourse if they were denied.
+
+Thus, Tala and Rane only had to wait about a minute before Lyn passed into Ironhold, and Tala had her fully in her internal perception via Kit.
+
+“She’s safely inside.”
+
+Rane nodded once. “Yup. Good, good. Shall we go home for the night? Or do you have something else I can accompany you in accomplishing?”
+
+“Not tonight. I know that tomorrow’s going to be crazy with all my family in Makinaven. Is there anything we can do for you?”
+
+He gave her a long look. “Really?”
+
+She nudged him. “Well, now I have to know. Why the skepticism?”
+
+He shrugged. “I figured you’d go to train, or sleep, or something. I was going to go after we went our own ways for the night.”
+
+“So? Where is it? What do you want to do?”
+
+“There’s a rather extensive sculpture garden a couple of tiers up. I wanted to go take a look at some of the great works of the past. Not all of those there are originals, but many are, and many more are magically made copies of famous or especially impressive works.”
+
+She leaned against him for a moment. “That sounds wonderful.”
+
+“Really?” He sounded genuinely excited for her to come with him.
+
+“Yeah. I just have one request.” She teased, pulling away from him for a moment.
+
+His smile was unrestrained as he looked down at her. “Certainly. What is it?”
+
+“I want to grab dessert on the way.”
+
+He laughed, then leaned over and kissed her.
+
+She leaned into him, and after they pulled apart, she cleared her throat. “As wonderful as that was, it doesn’t count.”
+
+He laughed again. “Come on, my love. Let’s get you dessert.”
+
+As they began walking, he frowned, not stopping their progress to ask, “Wait… did we even eat dinner?”
+
+She grinned in return. “No, but since when has that mattered?”

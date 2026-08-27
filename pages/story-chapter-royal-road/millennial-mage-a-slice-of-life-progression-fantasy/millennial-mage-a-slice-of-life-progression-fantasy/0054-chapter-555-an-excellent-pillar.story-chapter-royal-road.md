@@ -1,0 +1,177 @@
+---
+id: e0aae6d7-d1e6-50e0-b218-6be4bddc9708
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 555 - An Excellent Pillar"
+slug: 0054-chapter-555-an-excellent-pillar
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 54
+ownLength: 2761
+unit: words
+ownProgress: 2761
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2229765/chapter-555-an-excellent-pillar"
+royalRoadId: "2229765"
+markedReadAt: "2026-06-29T19:37:01.797Z"
+---
+
+Tala turned on Eskau Meallain after the fox-kin was out of sight, rather displeased with the elf. “What are the chances that we run into the one fox-kin you’ve had bad dealings with?”
+
+The elf sighed. “There is a mis-assumption in your statement, there. I’ve interacted with essentially every fox-kin who has lived near any city I’ve been based out of for the last few thousand years. They are notorious for being… sneaky, and quick talks with various Eskau is a solid means of helping to keep them in line. As to him in particular? The chances are rather high, actually, even if I haven’t heard news of him in centuries. He is widely known in the House Lands as a trickster, though he’s used other names in the past. His aura is unmistakable. Even so, many—myself included—still used to go to him to try to get assistance at great need. His mastery is unparallelled in some fields, and he has ever been more willing to meet with outsiders than most of his kin. Even though he was known to always get the better end of the deals made with him, he was tolerated for uncounted years because he never out-and-out lied that we could find record of… In the end, though, he fled after he crossed one City Lord too many.”
+
+Tala gave her a long look. “And do you know why he’d dislike arcanes, generally?”
+
+Eskau Meallain shrugged. “His actions—and the authorities' inability to punish him directly—allowed for some very far reaching anti-fox-kin rules to be imposed throughout most of the southern cities. In a sense, his people were exiled at best, hunted for their treasures or harvests at worst.”
+
+That caused Tala’s eyebrows to rise. “And he’s the reason?”
+
+The elf hesitated, then sighed. “That would be going too far. He is definitely one of the reasons, however, maybe even a core one. The fox-kin are notorious for taking from those who are unable to hold wealth or power. They come in and whisper sweet truths even as they scheme to take everything from you.” Her eyes narrowed. “Why is he here?”
+
+Tala shrugged, not really surprised by the other Eskau’s assessment. “I gave him a home, and it is useful to tap into his expertise on occasion.”
+
+The older woman frowned. “Well… if it were up to me, I’d get him out by any means necessary.”
+
+“Well, it isn’t up to you.” Tala’s gaze narrowed. “You knew we were meeting a fox-kin today. Why didn’t you tell me any of this earlier?”
+
+Eskau Meallan shrugged in turn. “I planned on doing so after I met the fox-kin in question. Some few can be useful, especially those who aren’t old enough to have picked up bad habits from their elders. I didn’t wish to speak ill of the creature before I had met him face to face. Unfortunately, this fox-kin is one of the more… problematic ones.”
+
+Tala sighed. Of course, he is…
+
+Eskau Meallain was giving Tala a searching look.
+
+“What?”
+
+“You never do anything as simple as this… It isn’t like you to just invite a being into your hold… What haven’t you told me?”
+
+Tala shrugged, giving a simple smile. “Well, we’ve extended an invitation to any of his kind to make a home within Ironhold, if they so wish. There are things that will be required of them if they accept, but the invitation has been given.”
+
+The elf’s eye twitched. “What.”
+
+“You heard me. Fox-kin are excellent at expanding the dimensionality they have to work with, and their methods don’t seem to disrupt or stretch my authority, unlike absorbing other holds or cells. They are capable of asserting their own authority within Kit as well, so everyone wins. I have much to learn from them, and I can give them a safe haven.” She shrugged. “They are sapient creatures, and if I can provide them with safety and a better life, why wouldn’t I?”
+
+After a long moment, Eskau Meallain shook her head. “You know the saying ‘don’t bite the hand that feeds you?’”
+
+Tala frowned at the obviously leading question, but in the end, she decided to bite. “Of course I have.”
+
+“They don’t stop with the hand.”
+
+Tala snorted. “I’m sure you have solid reasons for what you believe, Eskau Meallain, but Lisa has always spoken true to me. He’s kept his word and been helpful on numerous occasions.”
+
+“Of course he has. As I said, he’s never been caught lying. And as to being helpful? He’s setting the hook.”
+
+She’d had enough of this. Without any warning, Tala utterly denied the elf power. She didn’t just prevent her from drawing any more in, she made the idea of power being within the woman forbidden within Kit.
+
+The elf gasped, her entire body stiffening as the magic left her as utterly as it had under the hammer stroke of Reality.
+
+Tala then lifted the woman with a pure act of will, locking her in place, arms and legs spread out to the sides.
+
+The elf’s clothes were undisturbed, as Tala simply controlled her flesh directly. Tala felt the flicker of a concept try to push her away, but without any weight of power behind it, such meant nothing.
+
+“You forget yourself, Eskau. In the House of Blood, we may have the same rank. In advancement, you might be superior to me out there, but in here?” Tala squeezed just a little, causing Eskau Meallain to shudder and gasp. “In here, my will is law. Unless he is a Sovereign in disguise, he is no direct threat. Even so, I am well aware that I do not fully grasp his nature, and I am aware that he has secrets. I am no fool.”
+
+A hand fell on her shoulder, and Tala jerked, finding Rane beside her, a look of concern on his face. “Tala? Let her down. She’s gotten the message.”
+
+Tala looked up to see that Eskau Meallain had mastered herself enough to paint over her features with the expression she always wore in combat, but even so, there was an edge of uncertainty about the elf. Tala growled, and released the thread of her will that had locked the woman down.
+
+The other Eskau dropped to the ground, falling to her knees, barely catching herself on her palm.
+
+Terry flickered over to her from where he’d been observing all the goings on. As the elf lifted her head to meet his gaze, Terry screeched into her face, the sound so deep and resonant it sounded more like the war-horn of a dwarven Sovereign than the cry of a bird. Even so, it carried the unmistakable notes of a predator claiming its own.
+
+Tala moved herself to stand beside Eskau Meallain, towering over her even as she extended a hand.
+
+The woman took the proffered hand uncertainly, even as Tala spoke again. “And never forget, I am not alone. I will hear your advice and respond to anything solid that you bring to me, but I will not react with fear and rashness to rumors and hearsay conveyed by one with a strong bias already in place.”
+
+As the elf stood, she gave a slow nod, already pulling power in once again. “As you say, Eskau Tala.” She regarded the human before her for a long moment before releasing their clasped hands. “You may have been mis-assessed. It’s no wonder Be-thric fell to your hand.”
+
+Terry flickered to Tala’s shoulder, even as Tala sighed, closing her eyes to try to gain patience before she opened them again and asked, “What do you mean by that? How are you planning on twisting this, Eskau?”
+
+The elf gave a wry smile, strained though it clearly was. “You would have made an excellent Pillar, at least in temperament. Obviously, it would never have happened, but you have the fire to have been an excellent one.”
+
+Tala’s face fell into an expression bordering on a glare. “Rust you, Eskau. I’m nothing like Be-thric.”
+
+Eskau Meallain flinched, grimaced, and then nodded. “I meant no such comparison. Though, funnily enough, I would have said that Be-thric was a Pillar who was more suited to being an Eskau, if fate had allowed. I simply meant that you have grown in the other direction, an Eskau who is now more suited to being a Pillar. Funnily enough, that makes you much like Pallaun, if he cared for much beyond time in his own hold.”
+
+Tala grimaced. “Fine. I will… take your words for the compliment that you seemingly intended them to be.”
+
+“As makes sense.” The elf then glanced toward Tala’s shoulder where Terry was perched, still regarding her with predatory intensity.
+
+Rane cleared his throat. “So, it won’t be quite as intended, but we still do have tea, coffee, and food.”
+
+Tala felt herself relax at her husband’s words, and she nodded, gesturing toward the waiting food and drink. “Yes, let’s not let it go to waste.”
+
+-You know, we can keep all the food and drink here exactly as it is for years, right?-
+
+Of course I remember that, Alat. Rane knows too, he’s simply employing a method for changing the subject.
+
+-Oh, I’m aware, I just wanted to poke at you while you were grumpy, Pillar.-
+
+…Don’t even joke. In order to truly become a Pillar, she’d have to craft a protian weapon, and bond it with a worthy wielder, making them her Eskau. There was no way in anything that she’d do that.
+
+That, though, caused her to frown. “Eskau Meallain… Why did you have two protian weapons when you caught up to us? How did you have two? I didn’t think such was possible, and isn’t even trying forbidden?”
+
+They all grabbed their drinks and foods of choice as the elf took on a sheepish look. “Well… I’ve been a bit… discontent with the House of Blood’s actions, since little Be’s death. I have been interfering with the process to raise up a new Pillar in his place. The most recent time, I slew the new Eskau-to-be during his bonding ceremony.”
+
+When Tala frowned, the other Eskau waved her off.
+
+“You didn’t have one, as you were the weapon.” She shrugged. “Regardless, I killed the candidate, and the process had already started, so…” She shrugged again. “I stepped in and took it.”
+
+Tala’s eyes widened. “The Pillars allowed that?”
+
+Eskau Meallain barked a laugh. “No, not in the slightest, but they weren’t quick enough to stop me. Their ire was well founded. There is a reason it’s taboo. Even so, they didn’t kill me for the affront. They simply banished me for a decade… and I headed north.”
+
+And that’s what changed. That’s why she came knocking on our door now, after so long.
+
+-I suppose that makes sense. We knew that something had to have changed.-
+
+Tala sighed, refocusing on the elf. “And that put a strain on you… how does that work?”
+
+“A traditional Eskau shares a bond with their protian weapon that bears many similarities with your Fusing.” The elf gave Tala a meaningful look. “And to so bond with two weapons… doing so puts constant strain on everything from the mind down to the very soul. Every emotion was more extreme, every desire harder to resist… every justification felt more rational.” She shook her head. “It is a convenient excuse, but I don’t wish you to take it as such. I did nothing which I had not seriously considered previously. It didn’t change me, it simply removed my inhibitions and filters. I don’t know if I’d have leveled out eventually, if I would have learned to cope with it if given enough time, but I doubt it.”
+
+A sad smile pulled at the other woman’s lips.
+
+“In that way, I owe you a great debt. You helped me come back to myself, and such was one reason I agreed to serve you as recompense, even if that service ended up aiding others.”
+
+Rane cleared his throat. “So, the House of Blood is still missing a Pillar?”
+
+Eskau Meallain nodded, taking a sip from her tea with obvious relish.
+
+He leaned back, clearly considering the idea. “What does that mean?”
+
+“On the face of it? Nothing really. We try to have two more Pillars than the number of cities we have strong presences in. It is just down to one extra, now. My disrupting of their elevations though?” She grimaced. “That has lost us nearly a dozen capable warriors.”
+
+Tala found herself curious. “Then why did you do it?”
+
+A fierce light kindled in the elf’s eyes. “They refused to honor the legacy of the founders of the House. They refused to ensconce into law the final parts needed to truly elevate the House to being a true picture of what they had wanted.”
+
+Rane frowned. “What do you mean?”
+
+The elf sighed. “The founders wanted all to be equal as a base, advancement only coming in after the fact, but we still treat humans as lessers, even when we have special dispensations for other races when they are of the same advancement.”
+
+His frown grew. “So, you were fighting for the rights of humans?”
+
+She shrugged. “Within the House of Blood, yes. Many of those measures had been moving forward at a good clip while Eskau Tali was with us, but with her passing?” She glanced toward Tala and gave a half-smile once again. “Or, I suppose with her supposed passing, there was no motivation, nor any ‘exceptional’ human to hold up as reason for the change. In order to continue, the House of Blood would have expended political capital for ‘nothing.’ At least, that’s how the Pillars saw it.”
+
+Rane seemed to understand. “And you disagreed.”
+
+“Yes.” It was a simple answer, but it left Tala conflicted.
+
+In theory, it was possible to say that Eskau Meallain had done all that she had for ‘good reason’ even though to do so would be quite a stretch. Truthfully, it seemed more like the elf was using the founders’ supposed ideology as a convenient excuse, while her actions demonstrated that she didn’t really hold those convictions herself.
+
+Rane clearly had similar thoughts, based on his next question. “Do you believe that? That humans should be treated the same?”
+
+Eskau Meallain shrugged. “I see no downside. It also wouldn’t take much effort to enact such a change, and I have sworn to uphold the founding principles of the House of Blood. To do otherwise would be a betrayal of all I have striven for over the centuries.”
+
+He shook his head. “But do you believe it?”
+
+She raised an eyebrow. “That all have equal value, from the womb to the grave? From the magic-less to the greatest Sovereign?” She huffed a laugh. “No, absolutely not. Even on a personal level, when I clash with an Eskau from another House and slay them, I have proven that I have greater value to my House than they had to theirs. I have more value to society, because my protian weapon can enforce my House’s will. I can maintain order where others would fail. It is a nice sentiment, and I will strive to have it codified into the laws and traditions of my House, but to act that way on a personal level would be lunacy.”
+
+Tala… did not know how to respond to that. The elf seemed to be saying that she didn’t believe in what she strove to enact, but wasn’t that the point? Isn’t that exactly what Eskau Meallain had been saying from the beginning?
+
+An Eskau wasn’t supposed to be the decision maker. She wasn’t supposed to guide House or societal policy. She wasn’t meant to enact her own desires, her own philosophy, her own beliefs. She was to be the unthinking arbiter of the House of Blood, following the strictures and dictates of the Founders of the House, and within that framework, the Pillars as well.
+
+Tala did not like that.
+
+In fact, she hated the very idea, at least on a personal level. She could not see herself in that role by choice. She didn’t ever want to act that way. She wanted to make her own choices and see them come to realization, even if they ended up being imperfect. She’d want the same even if her actions led to her death.
+
+She wanted the choice to be hers, regardless of the outcome.
+
+She grunted. Maybe my temperament really would have been a better fit for Pillar.

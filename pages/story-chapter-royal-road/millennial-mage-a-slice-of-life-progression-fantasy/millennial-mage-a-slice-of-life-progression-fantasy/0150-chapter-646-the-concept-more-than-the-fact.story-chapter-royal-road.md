@@ -1,0 +1,219 @@
+---
+id: f3ebb9d4-9ae2-556c-825f-ae753fc835eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 646 - The Concept More than the Fact"
+slug: 0150-chapter-646-the-concept-more-than-the-fact
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 150
+ownLength: 2836
+unit: words
+ownProgress: 2836
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2835501/chapter-646-the-concept-more-than-the-fact"
+royalRoadId: "2835501"
+markedReadAt: "2026-06-29T19:39:52.351Z"
+---
+
+Tala could still taste the coffee well after she’d swallowed it, as she waited for Mistress Holly to impart what she was willing to say.
+
+Even so, she still took another big drink to help fill the silence.
+
+Mistress Holly was seemingly gathering her thoughts, but that assumption was proved incorrect as several of the woman’s inscriptions flickered in sequence, followed by the Inscriptionist finally speaking. “My apologies, a small squad of arcanes tried to breach the cordon, and I had to deal with them.”
+
+Tala’s eyes widened. “Arcanes attacking Bandfast?”
+
+She was halfway out of her seat before Mistress Holly waved her down. “No, no. Sit, sit. They were trying to come in by boat, far to the west.”
+
+Tala blinked a few times, trying to order her thoughts enough to understand. “What?”
+
+Mistress Holly grinned. “My gate is as connected to this body as to everything else of mine.” She then gave a wink. “Since inscriptions are mine—along with the derived spellforms used in objects—I can provide power to otherwise unpowered constructs.” She hesitated, then seemed to decide something with a shrug. “Most powered ones as well, so long as they aren’t naturally generated artifacts.”
+
+Tala’s mouth hung open in shock. “What?”
+
+“You’ve already discovered that authority isn’t really a question of distance…” Mistress Holly’s voice faded near the end at Tala’s confused look. “You haven’t noticed that yet? Really?”
+
+Tala shook her head. “No? What I’ve seen has shown me the exact opposite. The closer I am, the more power I can exert over something, so the stronger my authority is.”
+
+Mistress Holly grimaced, rubbing at her temples. “Oh, child. That is seized authority. I’m talking about authority that is yours.”
+
+“What?”
+
+The older woman gave her a flat look. “Maybe we should have this talk again in a decade or so. I have clearly overestimated how far you’ve progressed.”
+
+Tala returned the woman’s look with an icy one of her own. “No one likes being condescended to.”
+
+“Is it condescending to address a child as a child?”
+
+“Depending on how it’s done? Yes.”
+
+That caused Mistress Holly to hesitate. Finally, she shrugged. “Point, but my point remains. You have acquired a truly impressive level of authority, even if the scope is still limited. Moreover, I sensed the fox’s pronouncement and those who answered. Given that, your ignorance is… concerning.”
+
+“Yeah, what was that?” Tala decided to ignore the last for the moment.
+
+The Inscriptionist sighed. “Please do be more specific with your question. I did set aside a good chunk of time and attention for this conversation, but neither is infinite—not in the near term—and inane questions help no one.”
+
+Tala’s look shifted back toward unamused, but she decided not to argue. “Fine. I understand that Lisa was able to call attention to me, somehow, and several highly advanced beings looked in on me and… did what?”
+
+Mistress Holly nodded. “That is a reasonable question. It is especially so given that you can do it too now, as a confirmed Hallowed. Congratulations, by the way. Most of our gated peers will never really understand what that means, let alone come anywhere close to achieving it. Even your little prisoner, Eskau Meallain, is only an unconfirmed Hallowed… which is honestly impressive, given she achieved it by dint of power alone.” She tilted her head in thought. “You know what? I never really considered it before, but she actually achieved Hallowed advancement in a very gated way. She’s still Hallowed not Ascendung—for hopefully obvious reasons—but she is at the end of her road without a radical shift in her own understanding, spirit, and soul.” She stopped, blinked a few times before frowning in apparent confusion. “What was I… Ah! Yes. Your confirmation.”
+
+“Yes… that.”
+
+She quirked a half smile. “Yes. So, it is effectively authority recognizing authority. What is a land owner if there are no other land owners? Do you just own everything? If no one cares or operates differently, does your claim of ownership matter? What if other land owners believe they own the same land you do?”
+
+“So… it’s the other Hallowed or greater beings saying, ‘Yup, that’s yours’?”
+
+Mistress Holly chuckled. “Effectively? Yes. They sensed your authority and confirmed that it wasn’t in conflict with any other established beings. From that foundation, you can now push against others and jockey for position, but you can never have your base seed of authority questioned.”
+
+“Meaning, even if I lost my ‘land’ my ability to own land of some kind cannot be denied.”
+
+“Effectively, yes. The precedent is set. You are a full citizen of Zeme now.” She chuckled. “Congratulations, your immortal soul now matters to existence here.” Her eyes narrowed slightly, and she nodded slowly. “Actually, I think that is more true for you than most. Your… oddities mean that the confirmation was mostly a formality. Did you actually feel any contestation?”
+
+Tala shook her head. “No, none.”
+
+“That settles it. It might then be most accurate to say that you were already confirmed, and they simply acknowledged you.”
+
+She grunted. “Fine. So, Sovereignty?"
+
+“Sovereignty is when your authority over something of consequence is unquestionable.” She hesitated, then held up a hand and waggled it back and forth. “More, it’s when your authority is questioned by someone or something of consequence and you maintain your hold.”
+
+Tala frowned. “Don’t I already have that within my expanded space? Do I just need to have someone actually challenge it to achieve Sovereignty?”
+
+Mistress Holly’s eyes unfocused as she seemingly looked over some information. “Technically? But no. Don’t seek that. You don’t have the strength to hold up to such a challenge, even if you could theoretically start such. More to the point, as you are now, your gated soul would be a weakness. The challenger would either shatter your soul or cause your gate to seal in order to weaken you. No matter what they chose, you would lose that part of you. Meaning, in the best case, you’d be only a Sovereign, even if you succeeded… which you wouldn’t.”
+
+Tala’s frown deepened. “I feel like you said a lot in there that I didn’t understand.”
+
+“I did, and you won’t for a long time… or at least not for a while. I’ll put it another way: If a man is alone on a planet and declares himself King, will anyone contest his claim?”
+
+“Well… no? Assuming no other sapients.”
+
+“That is what I meant by alone, yes. Good. So, does his kingship matter? Does it actually do anything for him, except to possibly tickle his fancy?”
+
+Tala grunted a half-hearted laugh. “I suppose not.”
+
+“Exactly. Authority only matters when it can be recognized and exercised." Mistress Holly gave a mirthless smile. “Though, in our case, the world itself is something for us to exercise our authority upon rather than subjects, but you get the idea.”
+
+“I think so, yeah.” Tala sighed. “But you said we’d talk about Ascending and Transcendent. I got us off track.”
+
+“Indeed.” Mistress Holly took another sip. “To become Ascending, is to be moving from where you are toward being Transcendent.”
+
+Tala’s frown returned. “So… It’s just a transitional state? Why make it its own advancement tier, then?”
+
+“First off, we don’t make the advancement tiers. They are, and we have had to discover them. But even if that were not the case, this would still be a stage of its own because it’s more than that. To Transcend—or become Transcendent—is for your Existence here to be beyond question. It is to exist, and eternally so. In a sense, it is the final fulfillment of the promise made to Refined, to be truly immortal, unkillable, undiminishable, uncontainable. To transcend the need of anything else to keep you going. In that, though, it comes with no ‘extra’ magical power, not really. The power you do have will be effectively an extension of your body, acting as easily as you can think. Transcending can simply mean that you cannot be ended, you cannot be stopped. The power you have is unending, and unendingly yours. Again, that does not make it infinite within a finite period of time.” Mistress Holly paused a moment before adding. “But do remember that this is talking about advancing from Ascending, not Reforged. Moreover, you must not fall into the gateless trap of thinking quantity trumps quality and continuance.”
+
+“So, it is infinite continuance?”
+
+Mistress Holly shrugged. “Theoretically, it is to Transcend time, the physical, and the spiritual while still existing within all three.”
+
+“Theoretically?”
+
+“Yes, child. All of this is theoretical. No gated has ever achieved it, at least none whom we are aware of. Though, since the other prominent theory is that Transcending is bodily stepping into the next world, it is possible that those who have done it simply are not around to be found any longer. If that were the case, I would find that disappointing.”
+
+“That’s… terrifying?” Tala frowned. “Wait… in the past you said that re-Fusing was another way to think about Transcending.”
+
+“And in a sense, I believe it is to be fully unified, body, spirit, and soul, an utterly unassailable monolith on Zeme, or anywhere else you find yourself.”
+
+Mistress Holly shrugged. “If the second theory is the case, and the gated simply come full circle and join even the unbound in going to the next world—if in a slightly different manner—then our two-fold path opens far, far more opportunities to you and me.”
+
+“Oh?”
+
+“Think about it, Mistress Tala. If you achieve Sovereignty over something here, and then Transcend, stepping beyond, could you not simply allow yourself to come back if you so desired? Even if just to visit? To achieve your goals before once more finding your final rest?”
+
+Tala frowned. “I suppose? I know it can happen over great distances, and we, ourselves, are piercing between worlds, so why wouldn’t it be possible?”
+
+“But, that is only if the less likely, less ideal answer is correct, but that is Transcending, and we’re not to that point yet. Ascending is to render your body ancillary to your existence.”
+
+She raised one eyebrow. “It already is?”
+
+Mistress Holly clearly suppressed a smile. “Do tell.”
+
+“If my physical body were destroyed, I could simply craft another for myself. Rust, Master Xeel does that on a regular basis.” She held up a hand. “Yes, yes, I am aware he changes his body to light, then back, but isn’t that effectively the same thing? His soul regularly has no physical housing, and he then reconstructs it for himself.”
+
+“First of all, being able to do a thing in certain circumstances, or when you initiate it, does not mean it is possible for you at all times. A mundane can hold their breath and swim around without breathing under water. Does that mean that they are a creature that can swim without needing to breathe?”
+
+“No…”
+
+“No, of course not. Master Xeel is closer than most, as represented by his advancement, by his aura, but it is something that only works when he sets it up. Similarly, if I were to destroy you right now, physically, your soul would pass on. Were your soul to be within your expanded space, you could likely build a new body for yourself before that happened, but that’s only most likely, not a certainty.”
+
+“I think you underestimate my longevity.”
+
+Mistress Holly narrowed her gaze at Tala. “Very well, that may be true, but do you understand what I am getting at?”
+
+“Yes, I suppose. And what about you?”
+
+Mistress Holly quirked a smile. “My body has been erased uncounted times, Mistress Tala, and that doesn’t count the number of times I’ve been ‘killed’. My soul is all that matters, and I have rebuilt my body each time.”
+
+“So, your soul would need to be destroyed, or sent on, for you to be killed?”
+
+“First of all, I am not going to tell you how to kill me, but that is a reasonable assessment, even if it would not be like doing the same to a mundane. Ascension is as much a qualitative change for the soul as Reforging is for the body. It is preparation for eternity, true eternity. It is an inexpressible increase in mastery over your gate.”
+
+“And so Transcending makes that impossible?”
+
+“Theoretically.”
+
+“That sounds… That sounds like a lot.” Tala slumped slightly, remembering all that mere immortality meant for those she knew. “Eternity sounds… It sounds like it could be awful.”
+
+“Indeed. You’ve met at least one Sovereign who simply wants eternity to end… I hope for his sake that it actually does, and he could be ended. But on a more personal level?” Her gaze took on a far-off look. “One of the times that my body was destroyed, a frustratingly clever opponent rained devastation on my home, destroying my physical form and killing my family.” Her eyes refocused on Tala. “All power has a cost.”
+
+“I am sorry for your loss.” After a moment, curiosity got the better of Tala, and she asked, “What became of that opponent?”
+
+“They are no longer an issue.” Mistress Holly did not elaborate further, so Tala did not ask.
+
+The two women sat in silence for a long moment.
+
+Finally, Mistress Holly seemed to shake herself. Her inscriptions had flickered every so often throughout the prolonged silence. So Tala knew that she was still doing something, but she’d wanted to allow the older woman time. “Now, we’ve talked about the gateless path, and the gated, but what of the unified path? Hmm?”
+
+Tala shrugged. “I assumed that it would simply be walking forward along both at once.”
+
+“That is a fair guess. The two will pull on one another. Moreover, your acknowledged role as an Eskau of the House of Blood grants true authority.” She met Tala’s gaze with a serious expression. “This is what I was talking about. Your authority in that regard is irrespective of distance. If you were to pass judgement on a member of the House of Blood—and no Eskau or Pillar countermanded you—they would be slain, no matter where you were. That is authority. It is still granted—it is not inherent to you—but the structures in play make it the next best thing. Don’t forget that on this journey.”
+
+After a long moment of consideration, Tala nodded. “As you say. Thank you.” She hesitated a long moment before asking. “Eskau Meallain has that too. So… doesn’t that mean she has authority? Does my acknowledgment of her as such count as confirming her Hallowed advancement?”
+
+That seemed to catch Mistress Holly off guard. “I…” She frowned. “Hmmm… I don’t believe so. This is mainly due to two things. First, not all Eskau are Hallowed, not by a long shot. So, acknowledging an Eskau is not acknowledging a Hallowed.”
+
+Tala nodded slowly. “That’s… fair.”
+
+“Second, knowing her as we do through interactions and provided information, she genuinely doesn’t see her authority as an Eskau as hers. She is an instrument of her Pillar, of her house.”
+
+“Ahh… Yeah. That makes sense. She is always and forever of the House of Blood. The only thing she’s done in recent memory that was for herself was to come after me, and she sees that as a failure, a poor choice. I can see how she’s not in danger of confirming her authority, let alone acquiring more.”
+
+“Indeed.”
+
+Tala drained her mug, and almost moved to stand up before deciding to ask a rather important question. “So… I don’t think you’ve said, how do I move toward advancement?”
+
+Mistress Holly gave a small smile. “I think I’ve told you as much as you need for the moment.”
+
+Tala gave her a flat look, her single word not a question. “Really.”
+
+The Inscriptionist shrugged, not answering the non-question.
+
+Tala sighed. “Fine. I suppose I should be used to that sort of thing by now.” She stood, hesitating once more. “Thank you for what you were able and willing to say.”
+
+Mistress Holly nodded, smiling in acknowledgement. “We’ll speak again, I am sure. Keep authority in mind, Mistress Tala. Consider it from all sides, from all sources, and remember that gateless power often rests in the concept more than the fact.”
+
+When it was clear there was no more to be said, Tala gave an appropriate bow, turned and departed.
+
+On a whim, she willed herself into her sanctum, then caused her anchor—her stoneward and starward bodies—to continue moving in tandem, taking her anchor-point back to rest near Ironhold’s anchor.
+
+It wasn’t nearly as fast as her flying construct, but it was movement of her previously anchored space.
+
+That is a quite useful possibility.
+
+-Indeed.-
+
+What did you think about what she said?
+
+-It’s… It’s a lot to think about.-
+
+Indeed.
+
+-But, hey, at least the trip to the arcane lands won’t be boring.-
+
+That was never a concern.
+
+-Well… fine. I suppose you’re right.-
+
+Tomorrow?
+
+-Tomorrow.-
+
+And nothing more needed to be said.

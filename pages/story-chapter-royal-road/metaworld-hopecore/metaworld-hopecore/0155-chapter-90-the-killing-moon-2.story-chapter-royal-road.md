@@ -1,0 +1,267 @@
+---
+id: a0b10a03-b39d-516a-a346-086212717566
+page-type-slug: story-chapter-royal-road
+title: " CHAPTER 90 — The Killing Moon (2) "
+slug: 0155-chapter-90-the-killing-moon-2
+partOf: metaworld-hopecore
+position: 155
+ownLength: 3767
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807450/chapter-90-the-killing-moon-2"
+royalRoadId: "3807450"
+---
+
+LAPA. The Whitman’s Theatre. Frederick Curon gingerly took his seat.
+
+Then he allowed a moan of relief to escape his spine. His disks were so thankful for the softness that Curon began to feel sorry for the Chens who had purportedly furnished the place.
+
+Unlike the school’s other august guests, Curon sat in the front row, to the right, so that he could glance into the stage behind the curtain and maybe catch a glimpse of Eppie.
+
+As before, he had his pick of the seats, and to Principal Burton's surprise, he had chosen one of the worst ones. What the principal did not know, of course, was that he wasn't here to see the play; he was here to see his daughter’s revenge.
+
+The seats were rapidly filling up now. Curon straightened his program for the third time, his eyes drifting to the gap where a four-fold row of layered curtains showed a gap where the players could watch the audience watch the play. Sadly, there was no blonde head. No small, purposeful shape cutting between the racks, peeking at dad.
+
+Curon grunted, then scanned the middle and back rows.
+
+He found his first familiar faces in seconds.
+
+Juliana Vaughan wore what very rich people thought the common people wore. The limited-edition Hermès scarf was around her neck, underneath which she wore an outfit that made her look like a movie star in disguise. Besides the Dame of the Met, Diana Mirabelle poorly disguised herself by drawing every gaze within about ten meters. Whatever her intentions had been, Diana was the definition of statuesque, and the atmosphere she exuded did not allow her presence to be ignored.
+
+Curon was also certain that he saw Francis Sanders on the second floor, near the middle, so he could see everything without obstruction, and take amateur videos like a doting father at a children’s concert.
+
+He found the Arriaga family deeper into the cheaper seats, near the back left. He saw that rough-rider uncle of theirs, and Zara, of course, and relatives whose names he never memorised.
+
+He was still trying to find Eric Lee, who said he was coming to surprise Eppie, when the house lights went out.
+
+The murmur of two thousand parents, industry plants and LAPA lifers folded down into that specific, expectant silence a room makes when anticipating a spectacle.
+
+The music arrived before the visuals, the speakers announcing a chest-vibrating military march that was simultaneously the sound of tank treads and the synchronised footfalls of fascist jackboots.
+
+Then the lights came up, and Curon forgot, for a very guilty ten seconds, about his daughter.
+
+The set didn't look like a stage.
+
+Columns—either projection-mapped or shadowed plaster facades—rose into a darkness that never quite resolved into a ceiling, their bases carved with fasces, repeated in a frieze that fortified the illusion of scale.
+
+From the stage ceiling, where Curon could see the rigging, banners the colour of dried blood unfurled toward the audience, their triangular tongue stamped with a golden eagle that was Rome's and Berlin’s combined.
+
+The actors for Act I, Scene 1, entered with their ensemble, a troop of hard-edged silhouettes. It was Mussolini's Rome as much as Caesar's, totalitarianism wearing a toga—and it was, Curon thought, exactly the kind of image that got you written up in the Times as “a bracing, unsentimental Titus”. In fact, he recognised one of their columnists sitting a few rows down, gazing up with sparkling eyes.
+
+The drums arrived first. Then Titus.
+
+The lead lad, Nathan Drake, came through the smoke at the head of his surviving sons not like a victorious General, but a walking wounded—bearing his dead on a litter, barely noting the banners overhead. Rome's aquila was stitched dark across every shoulder in mourning. Behind them, as a chain gang, came the captives: a queen who didn't walk like a prisoner, her three sons, and a dark, watchful figure a half-step behind them all, saying nothing. This was Aaron, whom Curon mused was the true villain, the William Chen of the play.
+
+"Hail, Rome, victorious in thy mourning weeds," Titus said to the audience. Curon sat up, as did a few more of the audience. There was something about the boy, how naturally he acted, how his voice permeated the stage without overt assistance from the sound system, that lent him the true gravitas of Titus.
+
+In lockstep, the Tituses arrived at their family's tomb. Their eldest stepped forward into the silence that followed and asked, plainly, for what Roman piety demanded of honour: "Give us the proudest prisoner of the Goths, that we may hew his limbs, and on a pile ad manes fratrum sacrifice his flesh, before this earthy prison of their bones."
+
+In horror, Tamora, whose face was on the program and the posters outside, showed her acting range. Elizabeth Moore, nineteen years old and radiating something twice her age, dropped to her knees in the artificial smoke and wept the way a real mother would, ugly and immediate.
+
+“Stay, Roman brethren!” She managed not only tears but snot and drool. The whole house was suddenly on her side, for so pitiful was she, and so humble. "Sufficeth not that we are brought to Rome, to beautify thy triumphs and return, captive to thee and to thy Roman yoke, but must my sons be slaughter'd in the streets…”
+
+Her voice cracked exactly once, on sons.
+
+“Sweet mercy is nobility's true badge. Thrice-noble Titus, spare my first-born son.”
+
+There it was.The catalytic moment. If a little sympathy had been given, if stubborn tradition could have been overridden, there would have been no tragedy.
+
+Titus didn't look at her when he answered. He wasn't interested in this queen, beautiful as she was, pitiful as she was.
+
+"...Pardon me," he said. He was speaking to his ancestors, to the giant prop of a bronze wolf and not to her. “These are their brethren, whom your Goths beheld alive and dead, and for their brethren slain religiously they ask a sacrifice.”
+
+Curon watched as they took her eldest—a broad-shouldered mute who never spoke behind the altar's black pillar—out of the light.
+
+The audience braced for something they didn't want to see in a school auditorium.
+
+To their surprise, a spool of thread, red as the banners overhead, spilt from beneath the boy's sleeve and pooled at the altar's foot, thin and delicate, visible and yet out of sight, kinetic in a way that was more disturbing than if the students had merely used viscous paint.
+
+Tamora's scream, when it came, made them forget about the blood.
+
+Curon had told himself that he should be looking out for his daughter; only now he found himself watching the stage instead, and the stage no longer allowed him to look away.
+
+The rest of the young actors, Curon was shocked to find, were no less professional. Saturninus arrived petulant and dangerous, a boy-king already looking for someone to blame. Bassianus’ easy, aristocratic confidence made him lovable. And Aaron, the villain, was a silhouette of contempt before his true evil had even arrived.
+
+The rest of it moved fast, the way it does when a company trusts its own momentum.
+
+Titus refused the crown, and the crowd cheered a war hero for his humility. Saturninus took the throne and, in the same breath, tried to take Valorie. "Lavinia, will I make my empress, Rome's royal mistress, mistress of my heart." And Bassianus, who'd loved her first, who had the audience’s love, simply walked onto the dais and took her hand instead. "Suum cuique is our Roman justice," he said, calm as anything, and stole her from his brother’s own coronation.
+
+The gesture was romantic. Titus's sons closed ranks around Bassianus in support. Father turned against son, and before long, in the name of honour, another of Titus's boys had died; Saturninus took Tamora for wife in spite, and the play’s tragic path was set.
+
+Curon watched Elizabeth Moore's face attempt something extraordinary—grief and triumph occupying the same nineteen-year-old features, and recognised, with immense relief, that there was a limit to the students’ talents. They were good, but not that much better than Eppie’s Antigone when it called for truly complex emotion.
+
+“I'll find a day to massacre them all,” Tamora said, quiet enough that anyone with lesser vocal talent would have missed half the house.
+
+A hunt was announced.  The scenes shifted through lighting and props and costume changes, the same scale-trick lighting throwing branching shadows forty feet up a cyclorama that had been a palace ten minutes earlier.
+
+Then Bassianus and Lavinia stumbled into the clearing, arm in arm, entirely too happy for the world they were standing in, and made the single mistake the whole second act had been built around. They caught Tamora with Aaron.
+
+Bassianus said something cutting about a Cimmerian's hue and a queen's honour—Shakespearean speak for the N-word and S-word, spoken with such an easy charm that the audience didn’t even realise they were slurs—
+
+Then Chiron and Demetrius arrived and found justice for their mother between Bassianus’ ribs.
+
+Frederick Curon didn't see the blade so much as he saw the threads—a sudden, violent unspooling of red where Bassianus had been standing an instant before. The boy who'd played him, folding down into the pit at the centre of the stage, dropped like a curling spider on the verge of expiration.
+
+The house didn't make a sound. Curon realised he'd come half out of his seat. It was coming. The scene.
+
+He glanced back toward the middle seats, hunting the dark for a shape that wasn't there, wondering if Eppie’s boy was here, watching with eyes wide open.
+
+Then he gazed behind the curtain again. This time, he saw her. A petite body in theatre black, a head of golden hair, and a small white face peeking out into the audience from where they could not see her, searching for the same boy.
+
+He saw her body wiggle in anticipation—alas, his kitten had found her mark.
+
+Lady Diana Mirabelle wasn’t an actual “Lady” per se, though her friends in the industry had kept the gag running since she took her role as Editor-in-Chief. Presently, she was feeling very good and very proud, not just for Susanna Tyker’s choice to fully embrace the Ninagawa aesthetic, but for the sublime costuming.
+
+She felt a little like she was also a part of the play, making her somewhat of a Fairy Godmother of the production. After all, without her intervention, there would be endless copyright paperwork associated with the red threads, which would be the very image on every industry magazine and article surrounding Lavinia.
+
+Knowing what was coming, her insides felt like a spool of wound-up red thread. Her original personality was the type to shout out the spoiler of a film in a crowded room, not for attention, but because she couldn’t stand the anticipation.
+
+Thankfully, her teacher had tamed this impulse a long time ago.
+
+Mirabelle sat with her spine unbothered by the seat back. Vaughan was beside her in the dark maroon she wore to everything that mattered. Vaughan hadn't moved in some time. This meant her teacher was truly appreciative of what she was saying. Ah, such a shame.Imagine the publicity had the school not done what it had done to Eppie.
+
+Onstage, in the pit's raw torchlight, Valorie Sanders knelt in front of a queen who was torn between a woman’s compassion and her vengeance.
+
+Mirabelle loved the white gown—ivory silk faille with enough body to hold the actress beneath it. The red sash was gone.
+
+Evidently, someone in the wardrobe department, Tyker, or whoever actually held the needle, understood dishevelment as a language: the dress that had been crisp now dragged across the stage floor, its pleats softening with every footfall. Mirabelle had curated enough editorials to know precisely how difficult it was to make unplanned look deliberate. It made her want, as Eppie's flower pot once had, to shoot a Romanesque special on the 'Fall of Empire'.
+
+"O Tamora, thou bear'st a woman's face—"
+
+"I will not hear her speak; away with her!" The bitch queen didn't even turn her head to say it. That, Mirabelle thought, was the whole horror of the blocking. She wondered if Luciana Mio had also begged William with the same tone of voice. Had William ignored Mio’s plea in the same way? Was the boy watching this, right now? UGH—THE TENSION!
+
+Valorie turned from the queen to her sons instead. She wasn't begging; now she was teaching.
+
+"When did the tiger's young ones teach the dam? O, do not learn her wrath; she taught it thee…"
+
+The actor playing Chiron flinched at that—actually flinched. It was good acting, but it was nothing compared to Francis Sanders’ daughter.
+
+Valorie wasn't performing from a decorous professional distance. The girl was channelling trauma, somehow making the scene both beautiful and disturbing. Mirabelle, whose entire career was built on carving out ideal female bodies, suddenly thought of every corseted, weeping heroine she'd ever put on a cover, and felt sorry for her human mannikins.
+
+Valorie turned back to Tamora and knelt fully, both hands out, almost kissing her feet.
+
+"O Tamora, be call'd a gentle queen, and with thine own hands kill me in this place! For 'tis not life that I have begg'd so long; poor I was slain when Bassianus died."
+
+The queen was unmoved, or at least, her voice was. Her body told a different story.
+
+“What begg'st thou then? Fond woman, let me go.”
+
+“'Tis present death I beg,” Lavinia said, then Valorie's body folded smaller, as though making herself less might make the request easier to grant, “—O, keep me from their worse than killing lust, and tumble me into some loathsome pit, where never man's eye may behold my body. Do this, and be a charitable murderer.”
+
+Mirabelle heard, distantly, someone in the audience inhale sharply. The lines had touched a nerve.
+
+Tamora's answer banished all hope.
+
+"So should I rob my sweet sons of their fee. No, let them satisfy their lust on thee."
+
+“No grace? No womanhood?” Valorie's voice climbed, cracking, despairing. “Ah, beastly creature, the blot and enemy to our general name—confusion fall—EGH—”
+
+PA—! The audience gasped. The boy playing Chiron struck Valorie in the gut, below the solar plexus, so that she keeled over in pain, her voice silenced.
+
+"Nay, then I'll stop your mouth," Chiron said, and it wasn't loud. He didn't shout. He gloated instead. Valorie staggered to her knees. Demetrius took her by the hair. Chiron by the arm. Valorie fought it the way a real body fights, not a staged one, her naked feet dragging furrows through the imaginary grass, the ruined hem twisting up around her knees, one hand clawing a last half-second of grip on the stone lip of the pit before it lost purchase entirely—and Tamora, already turning her back on the whole business, delivered the line that Mirabelle suspected would be quoted in whatever review ran on the weekend.
+
+"Away with her, and use her as you will. The worse to her, the better lov'd of me."
+
+Then the stage grew dark, and the audience, their mouths open, was left staring into the abyss of their own souls.
+
+Mirabelle heard her own heart pounding. It’s here. One seat across, her teacher’s hand found hers. Vaughan hadn't so much as shifted her weight as become the weight itself. It was a surreal feeling because they were not just audiences for this play. They were audiences to Eppie’s play within a play, the one that no one else knew about—a mise-en-abyme—the abyss of theatricality itself.
+
+The blackout held a beat longer than a blackout should. Long enough for the house to start rustling, adjusting, someone's program sliding off a lap—
+
+Then the house speakers clicked on, and it was entirely the wrong sound.
+
+There was no transition cue, no swell, no shape. Instead, it was a thin, close, room-sized hiss cracked over the enormously expensive professional speakers.
+
+Someone whimpered, but it wasn’t Lavinia. The voice wasn’t Valorie Sanders’ sultry, smoky drawl. It was a girl’s. Someone young. Someone small. Not trained, not projected, not shaped by a vocal coach.
+
+As a woman who ran an industry where these things often happened behind closed doors, Mirabelle's whole body understood before her mind gave consent. Her fingers found the armrest and gripped it; she gripped her teacher’s hand so hard she heard the bones crack.
+
+Somewhere in the dark, a chair creaked as someone else's spine went rigid the same way hers had. The voice on the recording said lines that existed in no bardic manuscripts, because no playwright writes for an audience that isn't supposed to be listening—and then it got worse.
+
+So. MUCH. WORSE.
+
+Almost two thousand people sat, a captive audience, listening, in the dark, to something that had actually happened to someone.
+
+Beside her, Vaughan finally spoke.
+
+“She did it.” Her teacher’s face was radiant. “Oh Mirabelle… she did it.”
+
+Luciana Mio was already grieving when Act 1, Scene 1 opened.
+
+She was grieving for a dreamer who had been dashed to pieces in a locker room.
+
+She was grieving for a student who had attended every LAPAGANZA since 2001, from when the school was still public and had to borrow the university's theatre.
+
+She was grieving for a girl with a paper crown balanced crooked on her head, her mother clapping too hard in the third row at her off-brand Snow White.
+
+That was the dream. For the longest time, Luciana Mio had believed that she was blessed.
+
+Originally, it was her obaachan who had taught her that. She said Luciana was arigatai—blessed.
+
+And it had been true.
+
+Luciana had felt blessed the first time Dr Cooper did that slow-clapping he loved to do, and said to her that she was special. She had felt blessed the day the callback sheet went up, and her own name sat where Valorie Sanders's name did not, and for a golden week she had let herself believe that—yes, she was indeed blessed.
+
+Then, in a locker room that smelled of chlorine and cheap detergent, a boy who the school said was the nicest person on campus had locked the door behind him, and smiled at her the way a fox smiles at hens in a lock hen house.
+
+Life wasn’t so blessed after that. Following the betrayal of her blonde benefactor, Mio had entertained the possibility of blessed oblivion until, in the confessional, Father Parson told her that she was still blessed, that the blessing of the benevolent had never left her.
+
+She had accepted it only tentatively, and only once her belly grew too swollen to deny. Still, Father Parson was proven right: a blessing had come to their church, haloed in gold; an angel had held her hand, dispelled her regrets, given her hope—
+
+—and now, that same angel was delivering vengeance.
+
+The house speakers hissed, then Mio heard her own voice worming into the ears of two thousand strangers. She sat very still in the dark beside Uncle Arriaga, whose hand had found hers before she'd even had to ask for it, and she allowed it to happen, because she had chosen this, because Valorie had asked and she had said yes, because somebody in this whole ruined story had finally offered to bleed instead of just watching her accept it, and it was then, only then, that her private grief could finally exhale.
+
+The speakers were subtle, but not gentle.
+
+THWACK—
+
+A fist found something that wasn't padded for the blow.
+
+THWACK—THWACK—Once. Twice. Then her own voice, younger, breathless, making small animal sounds.
+
+Then the retching—hers, her body revolting against what was to come.
+
+Then her pleading, thin and plain, without Lavinia's borrowed poetry, but pleading all the same.
+
+And then her assailant.
+
+The voice of William Chen came through the speakers low and gentle, in a register he must have thought sounded like comfort.
+
+Shh. Shh, now. You're going to be fine.
+
+A pause. For relish. For appreciation.
+
+You know I could ruin your whole family with one phone call. Your restaurant won’t survive the week. What will they do then? Go back to Lima?
+
+More whimpering. The sound of slacking resistance.
+
+Shh. Shh. Count this as a blessing. That's all this is. A blessing.
+
+Somewhere behind that word, blessing, her grandmother's word, stolen, made Luciana hollow.
+
+The recording went on. It didn't spare her, and it didn't spare the listeners in the dark. It ran perhaps two minutes, probably less. There was more of it, of course, but someone had spliced it into a digestible reel. The greatest hits.
+
+“What the fuck was that?” The dark had stopped being empty. She heard gasps three rows back, sharp and involuntary. She heard a woman somewhere fighting her rebellious dinner. Chairs were creaking, fabric shifting, someone was standing—then another—the particular rustle of an audience in distress.
+
+Paco's hand tightened around hers hard enough to hurt. Zara took her other hand. They were keeping her grounded. Keeping her from floating away.
+
+She thought, absurdly, of Luke: one of Father Parson's readings, the only one she'd ever asked him to explain twice. If these were silent, the very stones would cry out.
+
+Finally, Mio thought, and the word arrived in her like a held breath let go all at once. Finally, someone heard me cry out.
+
+The recording clicked off.
+
+For one full second, the Whitman sat in dreadful, silken silence.
+
+Then the stage was lit once more, revealing two thousand faces caught blinking and raw and unrehearsed in the same instant.
+
+Mio didn't have to search. Her body simply knew where to look, the way a compass knows north, and she turned and found him in the best seats in the house, in the middle of the sunken rows.
+
+William Chen was the only person standing in his section. The rest of them, seasoned LAPA attendees, likely thought the whole thing was avant-garde: a trick of theatricality to go with Shakespeare’s famous slasher.
+
+She recognised dozens of faces sitting around him, and they were all staring at him in horror.
+
+William looked left, he looked right, he looked, Mio thought, like a man standing simultaneously in sulphur and in lime—still breathing, still upright, still dressed for a production on LAPA Sunday, and yet, unmistakably, already standing in hell.
+
+Something in her chest unclenched. She fondly understood what Dr Kirby meant by cathartic.Then, Luciana Mio wondered, a little bemusedly, if this meant she was going to hell.

@@ -1,0 +1,95 @@
+---
+id: a8fc70b1-acd6-5a42-b565-354e58973f91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 234 Near Miss"
+slug: 0248-chapter-234-near-miss
+partOf: melody-of-mana
+position: 248
+ownLength: 1967
+unit: words
+ownProgress: 1967
+publishedAt: 2023-05-06
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1204097/chapter-234-near-miss"
+royalRoadId: "1204097"
+markedReadAt: "2026-06-29T22:34:23.775Z"
+---
+
+I spent the rest of the day more than a bit dejected. We were of course given all the supplies we needed, more than enough to plug up the hole in the lake. It felt like ash in my mouth as we headed out of the town, some of the members thanking us, others giving suspicious looks, particularly those closest to the mayor.
+
+This was my fault. My actions had caused the damage that was keeping reinforcements away, and similarly causing these monsters to go wild. Rather than head back to the waystation we made our way out towards the mines. My first job would be to collapse them, it was really the least I could do; I felt terrible about not even considering that there might be a mass of monsters coming from there, but I hadn't.
+
+Over the next several days I repeated the process. I would wake up, we checked the mines for new exits, refroze the cap on the lake-bed, then cut away as much of the cancerous spatial distortion as possible. Bit by bit it shrank, the gaping maw of disaster slowly closing. It also got easier, that was the thing about repeating the same spell over and over again, it got easier.
+
+As for the silver snakes, there were more attacks here and there, but they were few and far between. The creatures didn't like being above ground, and they hadn't all spilled out of their caves, so there were just the few that managed to wriggle out of the imperfect defenses and those who'd already gotten out but not not come to the city. Also of note was that they found the horses Ulanion and I had lost before we did, and it turned out they could rip pieces of flesh off, the result would serve to inspire nightmares for weeks.
+
+Six days after the initial disaster we saw the line approaching before we left in the morning. In a wave the soldiers spread across the plain, only two deep as their chargers carried them forward. They all had lances raised, and were in the standard formation for those expecting trouble on open ground.
+
+The waystation staff looked as if they were about to cry. Klaus quickly organized them to get the flags up in the proper code to display that we were both secure and friendly. I'd not thought about that, but he was quite right, it wouldn't do to have them think we were invaders or something.
+
+I felt even more vindicated as the group drew in, in the center of the group, the tip of their spear as it were, were six blazing auras. Five were clearly some kind of physical magic users, arranged to rip their way through any and all who might stand in their way, while the final one looked to be a wizard, hanging just behind to provide over-watch and ranged support. In the center of the formation was a short figure whose armor, aura, and carriage I would recognize anywhere, helmet or not.
+
+"Glen? Is that you?" I asked as they approached. It had been awhile since I'd seen him, but he was sure enough still the same short man of iron he'd always been.
+
+I'd known him for years, at least in passing.  We'd met as part of a school project so many years ago, and run into each other every now and then since, even going together to the elven lands.  He was an unmovable rock in a fight, and seemingly able to survive attacks that would cripple lesser men without a scratch.
+
+The line had slowed, seeming to understand from our stances that we weren't their enemy. The man I'd addressed took a few moments to respond, clearly looking over me.
+
+"Woman, why is it that every time there's some disaster you seem to be involved?" he said.
+
+I scoffed, certainly it wasn't every time... then I heard the laughing from beside me.
+
+"I've been wondering why she seems to attract trouble as well," Ulanion said, the traitor.
+
+"I do not... well... not every time," my halting attempt at rebuff got me chuckles from both.
+
+"So, I'm guessing something's gone horribly wrong based on my orders, and it's probably going to hurt to fix it. Mind filling me in where you can?"
+
+"How much are your men read in?" I asked, hopefully.
+
+"They've gotten approval, though keep specifics out of it."
+
+"Right... magical disaster due to my personal work is interfering with the gate network as far as I can tell. We've been cleaning up where we can but it's slow going. The interaction also released a number of minor beasts onto the countryside who've been assaulting the city, after draining the nearby lakes. Danger is probably minimal, but we'll need to keep an eye out. If you and yours are willing we might be able to clean up the last remnants," that was about as non-specific of an explanation as they could get.
+
+"Right, the snakes? We ran into a couple this morning. What's the damage from those?" It seemed they had a reason for their war footing in their approach.
+
+"A few casualties in the city, but otherwise minor." I thought for a moment before adding to that. "Some evidence that we may have found a new section of mine that could help the town overall though."
+
+I personally felt terrible that those people had died, but I knew how that would be viewed. All in all the work had to be done, and the result was not expected by anyone. The mayor had a bit of a right to be angry, there wouldn't be any real blame assigned to the deaths of his people.
+
+"The city is well then? We'll need to check on them," he asked.
+
+"The mayor is... understandably a bit unhappy with the governance right now. He wasn't read in, and feels betrayed, but I don't think he'll rebel or anything if that's what you're asking; I think he mostly blames me."
+
+"There first then, afterwards we'll see what we can do about the monster problem."
+
+As one we made our way to Silversprings, there was a town meeting called and I got a chance to see everyone there.  I could say that at best our reception was mixed.  There were a few people who were clearly containing their hostility, and others who weren't bothering, roughly half if I had to guess felt that we'd burned them, though were wise enough not to say anything about it.  Glen gave a small speech, he'd not been much for words in any of our last meetings, but seemed capable of at least that much now.  I wondered if he'd gone through a lot of training to now lead this group of soldiers.
+
+When we arrived at the site of the detonation the soldiers looked shocked.  Their mage really understood though, it was easy to tell because I could have shoved my whole fist in his mouth as it gaped, his hand nervously running through his short hair.
+
+"That's... something," Glen said as he looked at the distortion.
+
+"How... how big was the explosion," the mage asked.
+
+"Big enough, and we need to fix," I answered.  I wasn't exactly sure how to quantify the blast, but it was surely significant.
+
+"Agreed, what do you need us to do?"
+
+We all set up around the crater, unlike the waystation employees, these men knew some songs I did.  As one we all began one of the empire's standard marching numbers, a few of the soldiers had instruments of their own, to keep time for such things and convey orders.  There were a hundred in all, nearly twice what I could normally utilize for a gestalt, but having extras on hand wouldn't hurt.
+
+I began the spell, much as I had before, but gestalt was something else.  On my own, the magic flowed, but the more I added, the stronger it worked.  With a small group it was like leading a troupe, but with a large one, it was like being a conductor before an orchestra.  It served much the same, but it was quite a rush to feel that much power responding all at once.
+
+My magic worked on instinct, wrapping around the knot in reality and beginning to chew away at it.  I could feel it, smoothing and pulling here and there, setting thing back to how they should be.  I could also feel the mess I'd made, and all around it, like looking at it with all of my senses enhanced, it was nearly physical.
+
+As I unmade the distortion it began to release things.  The first of which was the air and water tied up in it, along with a few stones.  They didn't speed out, but rather fell to the crater below.  There wasn't much, just bits and pieces, and it didn't come fast, this wasn't like the explosion.  Then there was something else.
+
+The world almost seemed to groan as I felt... attention.  This wasn't anger, or irritation, nor pleasure, not hatred, nor any other emotion that made any sense.  No, it was just the feeling of being... noticed, in passing.  It was like someone seeing a speck of dust on their glasses while reading a book, only foreign, strange, indescribable.  This magic was making big waves in local space and something, somewhere, saw them.
+
+Some of the soldiers faltered in their song, the better trained ones kept singing as reflex, and I heard Glen's voice in a corner of my mind yelling at them not to stop.  Could they feel what I did?  I doubted it, I was at the center of this.  There were two options, and only two, I could either keep the spell going, keep trying to untangle the distortion and hope that without it we'd be hidden, or I could drop it like a flaming poker, hoping the magic faded before we attracted any more attention, for I felt that we'd not survive it if whatever that was looked on us fully.
+
+It wasn't here, wasn't in this world, but this world was moving, and moving things attracted eyes.  We needed to stop moving, and look as if we never had, there was only one option.  I swept up all of the unused soldiers into my spell, grabbing all of their songs.  It was too much, I knew it was too much, but this distortion needed to go and now.  The magic, which I'd been moving like a conductor, fought, it was frantic, the sweet music of it replaced by noise.  It didn't matter, it wasn't important, I needed it to obey, and so I pointed the discordant spell where it needed to go and held on for the ride.
+
+I pushed and slammed the spell into place, ramming it down even as the backlash from such an action sent waves of pain through my body.  My heart was pounding like a hummingbird's wings as it took hold, lashing deep and causing a brief blast of air and dust as the little hovering bit of twisted space returned to its normal curved self.
+
+The pressure of observation left, and I fell to my knees, spewing my stomach's contents all over the ground.
+
+In a place where time was meaningless unless someone really cared to ask it how it was doing and space was more like a polite suggestion, a being who was both unfathomably ancient and yet could not have been said to be properly born yet almost noticed something.  It could have flicked at the little passing thing that was on one of its many baubles, if it bothered to look, but one of the other ones was doing things that were so very much more interesting.

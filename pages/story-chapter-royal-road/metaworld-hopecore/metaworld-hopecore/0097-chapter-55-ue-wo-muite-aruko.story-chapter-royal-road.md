@@ -1,0 +1,469 @@
+---
+id: 0d06d010-1157-52dc-b765-9c8ac4e6b2c9
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 55 - Ue wo Muite Arukō "
+slug: 0097-chapter-55-ue-wo-muite-aruko
+partOf: metaworld-hopecore
+position: 97
+ownLength: 4085
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3487263/chapter-55-ue-wo-muite-aruko"
+royalRoadId: "3487263"
+---
+
+"At ninety, I shall have cut my way deeply into the mystery of life itself. At one hundred, I shall be a divine man, and at one hundred and ten, every dot and every line will be as living."
+
+Katsushika Hokusai
+
+Eppie awoke in a room that was inherited, not bought.
+
+It was a room wrought of taste, class and heritage—Edwardian—not as an aesthetic, but as imbued architecture. The ceiling was high and corniced, the plasterwork botanical. The walls were silk-emerald wallpaper that would make a contemporary interior designer scream in horror.
+
+The four-poster was mahogany, the posts barley-twisted. The mattress was deep. The pillows were soft. The sheets were bespotted with dried blood, reminding her that last night was not a dream.
+
+From the bedroom window, she could see the back garden with the Dying Slave statue among the low hedges. A small fireplace on the east wall, marble-wreathed, was electrified so as to be usable in the 21st century.
+
+There was a note beside her bed, besides two painkillers and a glass of water.
+
+Ring the bell.
+
+She saw the bell pull, a brass-plated thing of art.
+
+She tugged it.
+
+Then Eppie checked her [Potential].
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+18
+
+Athletics
+
+178902
+
+Agility
+
+20
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+31 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+20 / 30
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS :: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] [El duende]
+
+Inactive ::
+
+“Ooo…” Eppie clapped for herself.
+
+The timidity of the original Eppie was gone! She had successfully escaped William’s influence! Goodbye, trauma!
+
+Then she felt a little sad.
+
+Because another piece of her original [Persona] had been eroded, meaning whatever Euphemia Fontaine was had diminished by that much.
+
+When she finally did away with William, would that be the end of Euphemia Fontaine in her entirety? Would she finally occupy her Philosophical Zombie?
+
+It was an interesting, if unnerving thought.
+
+“Increase [Strength] to 20,” Eppie commanded the [System], then winced.
+
+[170004 Causality]
+
+It wasn’t charging her the Exceptional potential rates. It was charging her rates for the Blessed Privilege. It meant that, if she sufficiently pissed off the [System] enough, there would come a point where adding a single point of lost [Potential] would cost an astronomical amount of karmic capital.
+
+Ting-a-ling—
+
+The door chimed. “May I come in?” George’s voice penetrated the solid oak. “Are you decent, Miss Fontaine?”
+
+Eppie wrapped herself in the plush robe on the side chair. “Come in!”
+
+George laid out breakfast on the desk by the window.
+
+Vaughan’s sumptuous generosity included a rack of toast, unsalted butter in a dish, two soft-boiled eggs in cups, a pot of tea, a pot of coffee, and a small glass of orange juice.
+
+“It’s a cold day out there, Miss. Feels like 27°F. Wind from the northeast. The wind tunnels will make it worse if you are going back to the Four Seasons. May I offer the town car?”
+
+“I think I’ll go for a walk,” Eppie said, smiling, wondering at what point she might acquire a George in her life. “I don’t think I’ll be back for some time, George. I think I might miss you more than Madam Vaughan.”
+
+The African-American man laughed, his mirth both chesty and deep. “I will miss you, too, Miss Fontaine. I had originally imagined that you would be spending time here as your second residence during school breaks. The Madam had spoken to the Principal of Guilliams. The conversation, I understand, had been fruitful.”
+
+Eppie felt her heart constrict. The missed opportunity was one thing, but a prestigious school really wasn’t the place to build a base. Her only tie to LAPA was Euphemia’s trauma. Once William was cooked to medium rare…
+
+“Lady Mirabelle had some clothes delivered for you in the early hours,” George said. “She said thank you for inspiring her.”
+
+To be a better person. To be a BETTER PERSON, right? Eppie hoped she was right, because the Grein encounter last night was hardly inspiring.
+
+“What time is it now?” She slipped from the bed. Her wounds were healing, but her body still felt sore from throwing the pot. It was a heavy-ass pot.
+
+“10 AM, Miss.”
+
+“Whoa.” Eppie shook herself to complete wakefulness. This was the most she had slept since… since she was in the hospital.
+
+She brushed and washed her face. When she came out of the ensuite, George was gone, and her clothes were perfectly laid out on the bed. There was a note.
+
+I had my assistant pick out what he felt was best for you based on your Sony shoot. I left my number at the bottom. Call me if you are dissatisfied. I won’t demote anyone. They have three strikes. Benson is only on his first.
+
+Don’t worry about the Givenchy. Juliana said she will speak to the design house personally.
+
+XOXO
+
+M.
+
+The clothes.
+
+Eppie was afraid to touch them, but she also desired them.
+
+She had the [System], but that didn’t mean she was protected from skin irritation, loose fits, and the peeve that her thighs, calves, and shins were a little longer proportionally, meaning size 0 almost always looked like ankle pants, keeping her confined to skirts. Summer had been fine, but winter had been… breezy. Not that she caught colds.
+
+After washing her hands, she picked up the first item of clothing.
+
+A shirt with thin ultramarine stripes, cut for a slim fit—completely normal looking. The fabric felt like silk.
+
+It was so… normal and reasonable that Eppie couldn’t help but turn the thing inside-out, in case some secret was—She read the label. Charvet.
+
+That’s a $270 shirt…
+
+Her trembling hands picked up the next item. A cream-yellow merino crewneck sweater, completely unmarked—Howell. $350
+
+The winter skirt, short and structured, was… Stella McCartney. $600.
+
+There were stockings without brand markings… and a pair of…
+
+She turned the shoes over. They were used—but only once, and indoors—Common Project. $500.
+
+Standing in her robes and bandages, she pondered very seriously if she should eBay the lot and put the money to use elsewhere. That said, the [System] did not seem to care for items given through goodwill, but if she were to make a profit… and the [Prophet of Profits] triggered, inciting a bidding war—that was a different story.
+
+Eppie disrobed, then changed into her new clothes.
+
+The shirt and top were loose-fitting. The skirt was snug and warm. The shoes needed time to conform.
+
+The final item on the bed was the one she dreaded.
+
+No NYC fashionista was complete without a coat, and when it came to ladies’ coats, there was no greater sin than a shit one.
+
+She picked up the coat. It was heavy. Very heavy.
+
+The interior label told her everything. Maxmara in camel. $5000, base.
+
+Was Mirabelle intending for her to lose the Maxmara in Valorie’s locker, then make a public ruckus? The girls at LAPA were not like girls from normal high schools. The fee-paying students could spot a Maxmara from a kilometre away just by its silhouette.
+
+She decided to leave the coat be. She wrote a note thanking her host. Took a picture as a record of how she left the room and items, then emailed Maddy to tell her that she was done with Dr Vaughan, and would be spending the next two weeks in New York at Sony’s expense.
+
+Eppie then went downstairs in her K-Mart coat. She would wear it like a talisman—no one mugs a kid in a K-Mart coat.
+
+The house was empty. She found a note for her telling her to leave through the front door, and the mechanism would automatically lock itself. If she left late, the cleaners would drop by to clean up after the party and take care of everything.
+
+She replied with XOXO for George and asked the man to have someone deliver her luggage to the Four Seasons.
+
+Then she walked to Central Park.
+
+Fifth Avenue on the morning of December 24th was its own festival. Trees stripped of natural decorations were perfect for man-made ones, becoming wreathed with string lights and festive garlands of Christmas cheer. Tourists moved in droves toward the Rockefeller Centre, forcing Eppie to engage her [Agility] to bypass them.
+
+She bought cat food, both cans and kibbles, before she reached the 72nd Street entrance.
+
+In the park, Eppie inhaled the clean air that had remained elusive even in her 2032 NYC. It was nothing short of incredible how much of a difference electric cars made as a city-wide mandate. The sky was crystal clear, the winter sun cold and unyielding, and Central Park stretched in every direction she could see.
+
+She passed the Conservatory Water, bowed her head at Hans Christian Andersen on his bench, happy that the Little Mermaid was still a thing, and was surprised to see Alice in Wonderland in bronze nearby.
+
+Come to think of it… Disney still had the full catalogue. She pulled out her phone and double-checked. Indeed, old world or new, the House of Mouse appeared to have a stranglehold on inter-dimensional IP. She didn’t have an actual destination. Since she couldn’t tire, she planned to walk to the extreme edge of the park, then back again, something she had dreamed about since she was a child.
+
+Near 82nd, she saw the Met and thought of Juliana Vaughan, her “Friend for Good.” Her mentor had inflexible commitments all the way until Boxing Day. Eppie admired Cleopatra's Needle and then moved on.
+
+At 90th, she passed the Reservoir, a large body of water that supplied water to the Pool, the Loch, and the Harlem Meer. Here, she picked up her pace, for beside the black iron balustrades, the track was sublime.
+
+She tripped about 400 meters in, nearly toppling a family relaxing by the railings, and realised, sadly, that the track’s renovation had happened in the 2020s.
+
+The coldest and most boring part of the park was North Meadow, especially when it was not used for public events. At the 102nd, she was nearing the older parts of the park, where the trees grew taller and less manicured, and the crowd thinned.
+
+At the traverse, she stopped.
+
+Her chest ached. Like a stone caught in one’s lung, she remembered that, in her old world. Something had happened here, some great, blatant injustice. She grabbed her iPhone and punched in the words, hoping against hope that this world had been better. In her world, in 2032, no one remembered those boys' names or cared. One President with two terms had condemned the persecution of these boys, and another had risen to power, insisting that they were guilty because they were coloured folk.
+
+She read the headlines. Her heart sank.Matias Reyes’ confession had been an act of individual conscience, for God. Gore had no power over the human heart, even if he balanced the discourse. Mayor Bayer, the first Black Mayor of New York, had his career eviscerated for allowing five Black and Latino teenagers to be falsely charged and imprisoned. The settlement in 2003, some 41 million dollars, was not met with stonewalling, but swift payment and a swifter desire to forget the past, to sweep it under the rug. A promise of reform was made, but no evidence of reform could be seen in 2007. For the marginalised, the American Dream remained aloof and conditional.
+
+At 105th, the Vanderbilt Gate, she stopped to find her quarry.
+
+The cats.
+
+With the flower beds bare and the bones of the garden showing, and the Italian fountain emptied and the wisteria pergola stripped, there was nothing to hide the cats.
+
+She found them near the Conservatory Garden.
+
+They were there, just like in her old life, when she was in her twenties, working 60 hours a week in NYC, and had no friends but the strays of Central Park. She knew where to find them because it was winter. The cats naturally sought out the warm side of maintenance buildings, the gratings, and well-traversed areas where tourists and locals were happy to buy them food—even if it was pepperoni pizza from Papa Peppinos.
+
+She crouched.“Pssst— Pssst— Here kitty, kitty—”
+
+She was very patient. Within five minutes, three of them appeared: a tabby and two greys, watching her warily, making her wonder if the synthetic K-Mart coat was scaring them. This was because, knowing cats, if she wore the $5000 Maxmara Camel Coat, the chances of the kitties velcroing to her with all four paws were one hundred per cent.
+
+In NYC, even the strays were fashion snobs.
+
+The tabby was the ringleader. It walked forward to circle her, checking whether she was a cat-cuddler or a cat-napper, then meowed.
+
+The grey ones drifted closer.
+
+She lowered a handful of kibbles a meter away and watched them eat.
+
+It was winter, and it was cold; the cats, as she suspected, were both starving and cold.
+
+She was just about to pop a can when the tabby looked at her with the most human expression she had ever seen. “Meow?”
+
+“Meow?” Eppie asked. “Meow, meow,” the cat replied.
+
+“[System] learn [Cat],” she commanded her [Persona].
+
+Nothing.
+
+Her [System] did not deal with Kitty Karma.
+
+“Meow…” The tabby looked at the food critically.
+
+“What’s your name?” she asked the tabby. In the Cat Bible, known as the Old Possum’s Book of Practical Cats, the poet TS Eliot, who had another name in this world, had written that cats have three names: the everyday name, the fancy name, and the secret ineffable name only they know.
+
+“Val?” she asked the orange tabby. It ignored her. “Firestar?” She tried the fancy name for cats among cats. It ignored her. “Ineffable effable effanineffable?” She used TS Eliot’s method to summon the cat’s TRUE SOUL.
+
+“Mummy, what’s that lady doing?” someone asked behind her.
+
+It was a kid.
+
+“Don’t point at the transients!” the lady in the Burberry coat hissed at her blonde-furred goblin in Patagonia. “What if she tries to talk to you?”
+
+Eppie sighed deeply and long. Was it the hair? Without a stylist, her hair was absolutely wilding. Her fringe was Byronic. Or was it the bandages? Maybe I should have taken the Maxmara.
+
+The tabby had finished eating.
+
+It was now moving away, but not to get away. It was… leading her, with its tail up, swaying, its butthole pointing right at her eyes, silently beckoning.
+
+Eppie pondered the philosophy of the kitty starfish.
+
+Unlike dog buttholes, which were akin to Sarlacc pits, cat buttholes were cute and clean.
+
+In Eliot’s Book of Practical Cats, containing his poems that inspired the musical Cats, which inspired the movie Cats, which cast Taylor Swift as Bombalurina and Idris Elba as Macavity—the Jellicle cats were conspicuously sans buttholes, unlike her orange tabby.
+
+Then, in 2028, an anon burned thousands of tokens to add them back in.
+
+The film saw a second Renaissance.
+
+“... right,” Eppie looked to the heavens, wondering why her [Script Analysis] had activated upon a cat’s butthole. Perhaps the [System] wasn’t infallible after all.
+
+She followed the tabby because she had nothing else to do. Her goal for the next week was to visit museums, hit up libraries, watch some movies, listen to music, and simply immerse herself in the art of this world to see what “good” she could do to earn some life. She was also thinking of surprising her “father” at the Sony building. She certainly wasn’t thinking of mooching sushi. Absolutely not.
+
+The tabby took her to an old man sitting on a bench.
+
+Unlike her, who wore K-Mart, he was a homeless man. He was not a transient, as Mayor Holt sometimes called them, for they were not going away. They merely survived in the world's most expensive cities.
+
+Had the tabby not stopped, she would have walked right past him. In the cold December light, against the drab bench, he was almost invisible, as if he were part of the landscape. The clothes the man wore were primarily for survival, consisting of a massive military surplus greatcoat, US ARMY issue from the Cold War. The buttons were artistically mismatched deliberately, hiding the layers beneath: a puffer, a sweater and a flannel shirt. He wore thick trousers, torn here and there, tucked into thick, double-layered socks, into oversized leather steelcaps.
+
+The man’s head was almost entirely buried in the coil of scarf that wound around his throat and chin. He wore fingerless gloves. He wore a Russian ushanka that covered his eyes.
+
+“Meow!” the tabby purred.
+
+Two more cats, a calico and a snowshoe, emerged from behind the old man.
+
+“Meow!” the tabby commanded its servant.
+
+Eppie quickly supplicated and brought out more cat food.
+
+The cats came.
+
+By god, they came, a dozen of them, cats of all colours and sizes, emerging from where the old man rested, as though the man was some kind of feline mothership.
+
+Without acknowledging her, the old man took out something, a piece of… a cereal box? He had a fist full of ballpoint pens. Using his knee as a stand, he began to furiously sketch.
+
+Eppie returned to her task of feeding the cats, ensuring that everyone had enough to eat. She wasn’t rich, but she had a Sony card while in NYC, and surely Curon wasn’t going to question a few hundred bucks in cat food spent at Duane Reade.
+
+“Excuse me,” she took up the space next to the homeless man, and allowed the cats to clamber over her K-Mart coat. Very soon, she was covered in cats and living in bliss.
+
+The cats lost interest after about 20 minutes, leaving Eppie to clean up the mess. Full and warm, they went their separate ways, returning to the feline dimensions from whence they came.
+
+She still had cat food left and was pondering whether her homeless friend would take it when the man finished his sketch.
+
+He extended the cereal box to her. It was folded inside-out, and on it was a drawing of a cat at rest. “Motte iki na,” a gravelly voice resounded beside her. Take.
+
+Eppie saw the man’s face for the first time.
+
+He was old, very old, a man who could no longer age without perishing. He had the darkest eyes she had ever seen, and sharp, bushy brows that had never been kept. He was skinny, too skinny to be in good health, and he spoke perfect Japanese with an archaic accent.
+
+She thanked him for the gift. “Arigatou gozaimasu.”
+
+Oh, that’s nice. She thanked the man again, this time for the Karma.
+
+“You speak Japanese?” The man asked, again in that outdated accent. It was very strange that the man did not speak English while being homeless in NYC, but she chose not to judge. The city had all kinds of people.
+
+“I can't speak like a native, but I have spent some time working with Japanese clients,” Eppie replied, then almost slapped herself. Clients? What kind of client would a fifteen-year-old LAPA student have?
+
+The man gave her a quizzical look, but chose not to judge. In NYC, one met all kinds of people. “You speak very well.”
+
+There it was again, that accent. She couldn’t quite place it, but it sure as hell wasn’t Tokyo-coded. It sounded archaic, regional, Western Honshu. He sounded like an actor in a Kurosawa movie. Speaking to the man felt like she was speaking Californian to someone from the Edwardian Era.
+
+“My Japanese is still raw,” Eppie confessed, unsure if she used the right raw.
+
+The man pulled out another piece of cardboard and began to draw.
+
+Was the conversation over? Eppie looked around. That’s it?!
+
+“Are these your cats?” She asked, not wanting the conversation to end.
+
+As if in answer, the orange tabby reappeared and settled against the old man’s leg.
+
+“Sumimasen,” Eppie said. “My name is Eppie, what’s your name?”
+
+“Henry,” the man replied.
+
+“This one is Kimi.” “Kimi,” Eppie repeated. A grey cat sauntered back into view for the roll call. “Meow?”
+
+“Nobu,” Henry kept drawing, his hands moving faster now, “older brother.”
+
+A calico came back. “Sachi.”
+
+“Haru.” “Kuro.”
+
+“Tanaka.”
+
+Eppie snorted. Tanaka was such… such a normal name. “Ichiro.”
+
+“Saito.” “Goto.”
+
+Eppie felt a strange chill in her spine. The names were getting more and more… human.
+
+She stroked the cats one by one.
+
+Behind her, Henry’s scritching stopped. “Take”
+
+He had finished another drawing. “You can leave the cat food. I will feed them tomorrow. Not good to eat too much.”
+
+He held the drawing out. This time, it was a calico.
+
+Eppie took it.
+
+"Merry Christmas," he said, in English, with a heavy accent.
+
+“Merī Kurisumasu,” she replied, in Japanese-English.
+
+Seeing the system notice, Eppie confirmed with certainty that the Karmic transactions were tied to the artwork the old man kept giving her. As previously verified, a [System] built on Karma did not gift away currency for free. It was nudging her, but why?
+
+Her eyes scanned the three or four nylon bags beside where Henry sat. They were full of artworks. She still had about $500 in larger notes in cash.
+
+“Henry,” she licked her lips. “Could I buy those?”
+
+The homeless man—the artist, Eppie reminded herself, looked at her with suspicion. “Why?”
+
+Because the [System] told me to…
+
+“Fate?” Eppie fluttered her very pretty eyes at the man, hoping her gaijin [Comeliness] worked across generational and racial barriers. She opened her wallet. Her K-Mart wallet.
+
+“Not for sale.” Henry’s mood soured, and Eppie knew in that moment that she was no longer welcome. He pulled out a piece of cardboard, and he began to draw. His hands shook. Whether it was from the cold or the anger, she didn’t know.
+
+“Could I…”
+
+“No charity.”
+
+“I am so sorry,” she bowed from the waist. “I… I’ll be back!”
+
+For some reason, she knew just what to do. She had read about this once, in a book by a lady called Banana Yoshimoto. The way to the isolate heart, Yoshimoto had taught her readers, lies in Katsudon.
+
+Katsudon was a mother in the kitchen, calling you for dinner.Katsudon was human warmth. And for an underweight homeless Japanese person, it was a bag of warm cats in winter.
+
+Eppie ran like the wind, driven by guilt and a newly acquired [Causality]. North of Central, there were no Japanese joints. She sprinted like a snow sprite, her legs pumping and her body heat clambering, until she found a place on 3rd, ordered two bowls, extra large, extra rice, extra katsu, then sprinted back, all within thirty minutes.
+
+When she finally stood before Henry again, there was literal steam pouring from her K-Mart coat, and the katsudon was still warm.
+
+“O-hirugohan, issho ni dou desu ka?” Eppie asked in a register that cracked the grimness of Henry’s face. She even pulled a strand of wild hair from her sweaty face and tucked it behind her ear. Could we eat lunch together?
+
+There was the obvious sincerity of her running for thirty minutes to get katsudon. Then there was the fact that she had asked in the exact register of a high school girl speaking to her Tokyo crush.
+
+No red-blooded Nippon man, even an old, grouchy artist with the pride of a samurai, could resist that.
+
+She popped the bowl for him and passed over the chopsticks. And so, a schoolgirl and an artist sat at Central Park and ate katsudon together, joined by a dozen cats.
+
+The soy sauce was savoury and sweet. The rice was still warm, and the katsu juicy and fatty. The bench was cold enough to penetrate her skirt, and the two ate steadily in the way of hungry people hankering for food.
+
+Across from them, the city burned with the effervescence of industry.
+
+Here, it was just the cold, the cats, and the katsudon.
+
+“My name is Henry Kiritani,” Henry said suddenly. The katsudon had drawn too much blood from his head and made him drowsy. “Thank you, Eppie-san.”
+
+He slipped her two more pieces from the bag, folding the pieces into her LAPA tote.
+
+Then they continued to eat their katsudon.
+
+藤揺れる 鳩二羽舞い降りて 猫が見てる
+
+Wisteria sways—Two pigeons land on the rim. The cat watches on.
+
+AnonymousEating Katsudon in Central ParkWinter, 2007

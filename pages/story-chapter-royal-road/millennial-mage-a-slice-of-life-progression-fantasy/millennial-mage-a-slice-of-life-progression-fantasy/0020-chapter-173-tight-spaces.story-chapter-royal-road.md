@@ -1,0 +1,309 @@
+---
+id: 34dd1dbf-9fb5-5fdf-9ecf-339f4352faa0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 173 - Tight Spaces"
+slug: 0020-chapter-173-tight-spaces
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 20
+ownLength: 3374
+unit: words
+ownProgress: 3374
+publishedAt: 2022-09-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/998700/chapter-173-tight-spaces"
+royalRoadId: "998700"
+markedReadAt: "2026-06-29T19:35:56.085Z"
+---
+
+Tala walked out of the Constructionist Guildhall and into the late morning, winter air. She took a deep breath and let it out, a smile blossoming across her face.
+
+“Well, I might as well go to the Culinary Guild.” She glanced to Terry. “Thoughts?”
+
+He cracked an eye, then opened his mouth.
+
+Tala grinned and tossed him some jerky. “Fair enough. You just want this done with, so you can join in the training.”
+
+He let out a happy, quiet trill around the jerked meat.
+
+That settled, she went to the only Culinary Guild office she was aware of, the one that she’d picked up the most recent batch of jerky from.
+
+Her arrival caused a mild panic.
+
+As Tala walked in, the assistant stood up from behind his desk to greet her, but his words froze in his open mouth as his teeth clicked together in surprise.
+
+First, he seemed to take in that she was a Mage. Then, his eyes flicked to Terry, but didn’t stay long. A small, sleeping bird wasn’t that much of a threat. At that point, his gaze clearly dropped to her left hand.
+
+While Tala had been doing a fairly good job of keeping the newly painted hand, and the glowing spell-forms, out of sight for the most part, at the moment, the painted appendage was just hanging by her side, clearly glowing with seemingly active magic.
+
+Well, I didn’t think of that as that big of an issue.
+
+The assistant’s eyes widened to an almost comical degree, and he opened his mouth to scream.
+
+Tala raised both her hands in what she thought of as a placating motion, but he didn’t seem to take it that way.
+
+He tried to scream in abject terror, if his expression gave any indication, but no noise seemed to come out.
+
+Rather than realizing that his heightened emotions were affecting him, he likely assumed that the raising of her hands had silenced him, somehow.
+
+Thus, he fainted, collapsing to the floor in a crumpled heap, out of sight behind his desk.
+
+“Well, that could have gone better.” She moved her left hand behind her back, pulled her iron, Order of the Harvest token into her right, and then, she raised her voice. “Hello? Can I get some help out here, please?”
+
+She considered going over to help the man but realized that that could easily compound misunderstandings.
+
+Another young man came out and took in her arrival. “Mistress? Is everything alright?”
+
+He looked around more carefully but couldn’t see behind the desk. “Derrn is supposed to be at the desk. My apologies for the wait. What can I do for you?”
+
+She tossed the token to him. “I’d like to speak with the branch manager, if at all possible.”
+
+He caught the iron coin, and his eyes widened. He looked back and forth between her and the coin before swallowing and nodding. “Certainly, Mistress. I will be right back.”
+
+Tala waited for a while, growing a bit more concerned as time went by and Derrn didn’t wake up.
+
+When the other man returned with a woman who was, presumably, the head of the local branch, Tala decided that she needed to do something about the unconscious fellow.
+
+Before either of them could speak, Tala pointed at the desk. “I think there is someone back there, but I didn’t want to startle them.”
+
+The other young man walked over to investigate and exclaimed in alarm, rushing around the desk and lifting his friend. “I’ll get him to the back room to lie down. If he needs it, I’ll get a healer.”
+
+The guild-head nodded. “Thank you.” She watched the two leave, clearly concerned, but schooled herself before turning to Tala and bowing. “Mistress Tala. I apologize for the irregularity. I was told to expect you at some point.”
+
+“I quite understand, and I hope that he is alright.”
+
+The woman bowed her head in acknowledgement but didn’t say anything further.
+
+“Are you aware of why I might be here?”
+
+“Well, you could be here to kill us all, but I think that unlikely.” She frowned, glancing Tala over, head to toe, and seemingly noticing that she had her left hand behind her back, even if just slightly. Even so, the woman didn’t make an issue of it. “I believe it is more likely that you tested out your theory and wish to report the results.”
+
+“I did. Do you wish to talk more privately?”
+
+The woman waved that off. “Here is fine. I’m Valry, if it matters. These things seem much above my level, so I doubt it will.”
+
+Tala immediately felt sympathy for the woman. She’s been thrust into this mess because I happened to choose this Culinary Guild location. “I’ll be brief. There is no injunction against research into the consumption of harvests. If you were to go inquire with the Archive, you would be welcomed, and dealt with fairly.”
+
+“I’m not walking into a Mage stronghold on your word, Mistress.”
+
+This city is a Mage stronghold, you idiot. But she didn’t say that. “Then, would you consent to my sending an Archivist here to talk with you?”
+
+The woman looked incredibly uncomfortable, but after a moment, she stood up straighter, swallowed visibly, and nodded. “Yes. I will meet with an Archivist.”
+
+“Do you want me here for the meeting?”
+
+Valry laughed ruefully. “Oh, I think one Mage at a time in my facility is quite enough. Thank you for the offer, though.”
+
+Tala scratched the side of her face. “Well, when Derrn wakes up, he might be under the impression that I used magic on him. I didn’t, but I think I gave him a good scare.”
+
+Valry stiffened. “Oh? How so?”
+
+“Well, with this.” She hesitated, then added, “This is not active with outwardly directed magics.” She pulled her left hand out from behind her back.
+
+Valry’s eyes widened a bit, but she contained herself. “I see. Thank you for forewarning me. I can see why that might have startled him.”
+
+“I do apologize for that.”
+
+“I’ll pass that along.” She swallowed again. “Now, is there anything else, Mistress?”
+
+“No. I’ll leave you to your day. I’ll go talk with the Archivist shortly, and I believe that she’ll come by when she’s able.”
+
+“Thank you.”
+
+Without another word, Tala turned and left.
+
+Well, that could have gone better, but it definitely could have gone worse, too.
+
+She needed to drop through the library, now, but she was closer to the blacksmith. Probably hasn’t been long enough. I’ll come by later to pick up my order.
+
+So, off to the library she went.
+
+She passed through the Archon compound with ease, entering the library to find Ingrit waiting for her, as was standard and expected. You can get used to anything, I suppose.
+
+“What have you done to your hand, Mistress?” It was not an unexpected first question, all things considered.
+
+Tala lifted up her left hand. “I found a more effective, passive training method?”
+
+Ingrit gave a half smile. “I’ll be interested to see how well it works. Now, as I assume you intend to use it on more than your hand, may I offer a bit of advice?”
+
+“Please.”
+
+“I suggest that you be ready to placate others whenever you enter any of the more defensive facilities, as the automated scripts won’t like you very much. Most will have secondary triggers, which will alert a high-level Archon to scan you, and they will easily detect your gate, but automatic defensive measures won’t necessarily be able to do that.”
+
+Tala scratched the back of her head. “Noted.” She’d have to balance that, and other inconveniences, against the benefits that she could already feel from the paint.
+
+“So, shall we get a booth?” Ingrit smiled as she drew Tala’s attention back to herself.
+
+Tala shrugged and followed the woman into the library proper. They were soon seated in a booth, behind a privacy screen, and Terry was munching on a large section of jerky.
+
+Ingrit again broke the silence. “What can I do for you?”
+
+“I want to grant you full access to the Culinary Guild’s records, temporarily.”
+
+“Why?” Then, she hesitated, her eyes closing in an expression of almost exhausted realization. “Mundane human consumption of harvests. Of course.”
+
+“Do you need anything from me?”
+
+“Just a request to look through those records. If you have access, I will be granted such for the term of our discussion.”
+
+“Then, please, review the Culinary Guild’s records.”
+
+Ingrit’s eyes immediately began flicking back and forth as she clearly read something that Tala couldn’t see. Tala, in turn, pulled out one of her books and began to pass the time productively.
+
+Finally, after what was at least an hour, the Archivist sat back, glowering. “Well, that is quite illuminating. We’ve certainly tied ourselves in knots to please the false king.”
+
+Tala frowned. “What?”
+
+Ingrit waved her off. “It’s an old saying.” She blew out a long breath. “This is a tangle. Your inquiry gave me full access to all records available to you, associated with the Culinary Guild, and there is a lot in here… I can’t take it to anyone, or do anything about it though…” Her eyebrows rose. She was clearly still going through records at an incredible rate, even as she talked, and one had caught her attention. “They tried to kill you?”
+
+Terry lifted his head to look at Tala with sudden interest.
+
+Tala just shrugged. “One of their members panicked and stabbed me. It didn’t even break the skin.”
+
+Terry squawked an irritated exclamation and settled back down.
+
+Ingrit grunted. “So the report states. Apparently, it is incredibly uncommon for a Mage to ask such pointed questions, and they’ve not killed a Mage in living memory…That will make that side of things easier.” She let out a long sigh and shook her head once. “How many things like this do we have hiding throughout humanity? How often are we tearing off our own toes out of fear of stubbing one of them?”
+
+Clearly, with the pursuit of knowledge being so key to who she was, Ingrit hated the complete segregation and isolation of knowledge, no matter how necessary.
+
+She turned, locking gazes with Tala with a ferocity that had the younger woman leaning back involuntarily. “Can I meet with the branch heads, here? We need to clear this up. The sooner the better.”
+
+“That-” Tala swallowed, settling herself after the intensity of the woman’s attention. “That was the plan, actually. Valry is expecting your visit. I can give you directions, if you like.”
+
+Ingrit’s eyes flicked to the side once. “No need. I know which guild office she leads.” She leaned back, clucking her tongue and talking almost to herself. “There isn’t anything truly groundbreaking in their pursuits, but there is a lot of ancillary information that could help so many other guilds and research units. We could probably even arrange for the sale of such information by the Culinary guild, to increase their capital.”
+
+“I think that such a meeting will be perfect. I honestly had no idea what to do about any of this, and it sounds like you do. Please, do as you see fit.”
+
+Ingrit arched a single perfect eyebrow at Tala. “You handed a rope enthusiast a rat’s nest that is a mile wide, and which has been being tangled and added to for centuries.”
+
+Tala gave a guilty smile. “But hey! Think of all the rope you’ll have in the end?”
+
+Ingrit let out a genuine laugh at that. “True enough. Now, was there anything else?”
+
+“No, Mistress Ingrit, thank you.”
+
+The Archivist stood, deactivating the privacy scripts. “I will keep you apprised of the progress with the Culinary Guild.” After she was clear of the booth, she bowed deeply to Tala. “Thank you, Mistress Tala, for trusting me with this information. I shudder to think of the number of small groups that exist, hoarding bits of knowledge that could benefit so many. I am sure their reasons vary, but whether they do it out of fear, greed, or ignorance, we are all worse for it. Thank you.” She bowed again.
+
+Tala was taken aback by the gesture, as well as the outpouring of words. “I…you’re welcome, Mistress Ingrit.”
+
+The woman smiled at Tala, turned, and left.
+
+Tala scratched Terry’s head. “Well. I guess we’re done here.”
+
+* * *
+
+Tala dropped through the blacksmith and picked up her items, storing the three triangular contraptions first.
+
+The other item looked like nothing so much as a steel, three-fingered claw, perfectly sized for her spheres.
+
+Out of the back of the claw were two small steel bars, that clearly manipulated a simple mechanism.
+
+“Pull the one with the slot.” The blacksmith seemed quite proud of his work.
+
+Tala did so, and she was able to lift the claw, while it kept a tight grip on the tungsten ball.
+
+“Now, the other.”
+
+Tala grabbed the other, this one had a simple hole in it, and the claw opened, allowing the sphere to fall free.
+
+She let out a happy laugh. “Oh, thank you, master Aniv.”
+
+Master Aniv waved her off. “None of that, Mistress. I just made it to your specifications.”
+
+He hesitated. “Can I see what you’re going to use it for?”
+
+Tala paused. “Maybe? I don’t know of anywhere I can safely test it, now that I think about it.”
+
+He sighed. “Very well. If you do find a place, let me know what you use it for, and how it works, will you?”
+
+“Of course!”
+
+Tala paid the man, and he added a simple rope to the secondary tab, so that she could pull that to allow the claw to open.
+
+“Take care, master Aniv.”
+
+“And you, Mistress Tala. Be sure to come back if you need anything else.”
+
+“Oh, I will, don’t you worry.”
+
+* * *
+
+Tala stood within Kit, an old knife around a hundred feet from her, as she stood just inside the entrance into Kit, the door closed behind her. She had set up the knife so that the handle could be the target of her working.
+
+On the ground before her, a gravity neutral tungsten ball sat in the claw, and in the slot in the primary tab rested one of her dimensional anchor darts, locked in place by a clever little catch.
+
+As she concentrated, dumping power into the pull of the sphere towards the knife handle, the claw began to slide across the ground, pulled away from her by the ball.
+
+As the dart reached ten feet from her, or more specifically from the dimensional anchor at her belt, it stopped moving away, as the dimensional anchor began to work.
+
+Another minute passed, and the ball and claw slowly lifted into the air, seeming to float as they tried to fall towards the knife handle at the far end of the long hallway.
+
+The slowly building whistle of wind currents began to permeate the space as the air tried to fill in the expanding space and leave the contracting space in equal measure. In these tight confines, that stirred up quite the gale.
+
+Unfortunately, with Kit’s limited space, the best she had been able to manage was a one-hundred-foot-long hallway that was three feet wide and six feet high. The remainder of Kit’s space was taken up by all her physical possessions, though how Kit made them fit, Tala had no idea.
+
+As the increase continued to ramp up the acceleration, the air also started to heat up considerably, shortly before the tungsten ball and front of the claws began to glow bright red from wind whipping across them.
+
+Good enough. Tala grabbed the thin rope that she’d tied to her belt and which led to the other tab on the claw, and pulled.
+
+The claw moved back, opening and dropping to the ground with a ringing, bouncing series of impacts. In those impacts, Tala thought she heard the subtle sound of bending metal, but she was otherwise distracted.
+
+The instant it was freed, the sphere plummeted across the intervening space, crossing the ninety feet to the target faster than Tala could track.
+
+The sphere must have slammed through its target and continued on to the back wall, because it struck with an impact that seemed to shatter the very air within Kit.
+
+Tala was thrown backwards, blasted out of the door at the end of the hallway and into darkness.
+
+* * *
+
+-Ding-
+
+-Unbelievable. How often must you lose consciousness?-
+
+Tala groaned, sitting up.
+
+-Loss of consciousness detected due to full-body exposure to a pressure wave and the following impact with the magically reinforced gate of a dimensional portal. Discrete regenerative systems activated to their fullest capacity to restore consciousness and mobility.-
+
+“I thought you were unavailable.”
+
+-Well, apparently you losing consciousness overrides anything else and brings me back to perform my most basic function. Please stop interrupting. I’m just getting to the good part.-
+
+“Really?”
+
+-Stop talking out loud to yourself, it makes you look crazy. Reinitiating mental delve per last recognized command. All other functions will be offline for the duration.-
+
+Tala sighed, blinking to clear her vision and looking around.
+
+A cloud of dust surrounded her, seeming to be billowing out of the wall nearby, even as it was settling down.
+
+In addition to her slight disorientation due to losing and regaining consciousness, she felt the aftereffects of a lot of her bones being rebuilt. Several of her organs seem to have been ruptured as well, though they were back in order when she checked on them. Well, that’s a successful test, and a successful proof that I shouldn’t do such tests in enclosed environments. She really did need to make Kit bigger.
+
+She staggered to her feet and over to the archway, which was all that was left of the doorway into Kit.
+
+She placed her hand on the doorframe and dumped power in. Kit was near empty, likely due to internal damage.
+
+Well, I now know what it takes to break through Kit’s door. It seemed like she’d been thrown against the door with just barely more force than was required to break through it, as she’d woken up in the middle of the alley, and the wall that had been across from Kit’s opening was undamaged.
+
+As she considered, though, that wasn’t a good measure of how much it would take to break in. A blow from the inside, pressure from the inside, was far more destructive than the same force from the outside.
+
+“I’m sorry, Kit. I didn’t mean to cause any damage, let alone this much.”
+
+Kit did not respond, but it did continue to greedily drink in the power that she provided.
+
+Tala noticed that all the dusty air had been pushed out through the arch, leaving the air within Kit clean and clear. “Good to know.”
+
+As she recharged the storage device, a few small items clattered seemingly out of nowhere, through the archway.
+
+Tala quickly identified the items as the remains of the sphere, knife, and claw.
+
+The sphere was little more than twisted splinters of tungsten, still glowing with heat.
+
+The knife was handle-less, the blade kinked and distorted, likely from bouncing around inside of Kit after it was struck.
+
+The claw was bent and twisted, but not shattered. Oh, right. It was picking up the same speed, and then dropped to the ground. It effectively skipped across the floor within Kit, while already hot. That’s what bent it.
+
+Tala was left feeling incredibly grateful that she hadn’t tested the idea anywhere in the city. The cost to repair the damages would have been exorbitant.
+
+Even now, she was standing in an alley, and getting strange looks as the dust settled enough for people to see her from the streets to either side.
+
+With nothing else that she could do, she pulled Kit free of the wall, hanging it back on her belt as a pouch, and left out the less trafficked side of the little space between buildings.
+
+Note to self: This works and is incredibly effective. However, it is not for use in tight spaces.

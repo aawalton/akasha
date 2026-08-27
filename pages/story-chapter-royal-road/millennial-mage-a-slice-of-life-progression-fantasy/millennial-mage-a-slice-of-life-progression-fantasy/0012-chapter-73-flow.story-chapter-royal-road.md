@@ -1,0 +1,267 @@
+---
+id: df5a573a-8c9d-57ac-873d-f5fe02352548
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 73 - Flow"
+slug: 0012-chapter-73-flow
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 12
+ownLength: 3845
+unit: words
+ownProgress: 3845
+publishedAt: 2022-02-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/842169/chapter-73-flow"
+royalRoadId: "842169"
+markedReadAt: "2026-06-29T19:35:40.732Z"
+---
+
+Tala sat in the nicely appointed waiting room.
+
+The furniture was comfortable, but not so much so that she wished to stay here for a long time. It appeared robustly made, and didn’t creak or budge even when Tala, herself, shifted. It was mostly a dark wood in construction, though she couldn’t tell if that was the wood itself, or a stain. Heavy canvas, a darker blue in color, covered the cushioned portions, and she had little trouble imagining the pieces lasting for years, or even decades, with moderately heavy use.
+
+She ignored the somewhat bland art of the walls, choosing instead to begin the next topic of review from Holly’s books, a mug of coffee in her hand. If this is available every day, I might need to come by more often… Though, she doubted they would be happy with her dropping in, just to get coffee… I wonder if they have wine available, later in the day?
+
+As she thought about it, the freely available beverage did not make her hopeful for reasonable prices for their services. Ah, well. We’ll have to see.
+
+The coffee was well brewed, as far as she could tell, and filled a little happy void in her chest. She smiled as she drank. This is nice.
+
+There was nothing for Terry.
+
+He was only somewhat mollified by a few chunks of beef jerky, which Tala tossed out randomly. I wonder if he minds? Maybe, I should just give him the pieces… She shrugged to herself. “Terry, do you mind me tossing the jerky?”
+
+He gave her a clearly confused look.
+
+“I mean, do you want me to just hand it to you, instead?”
+
+He seemed to consider, then shook himself, his eyes moving back to her empty hand.
+
+She grinned. “Fair enough.” She pulled out another chunk and tossed it in a random direction. Well, there we have it.
+
+As she waited, she continued to read, and absently charged her magic items. I could forget later; might as well keep them topped off whenever I think of it.
+
+After close to a quarter hour, a short, stocky Mage walked in. “You’re the one Mistress Lyn sent?”
+
+Tala stood, her keystone tingling, indicating magic was directed her way. “I am.” Her magesight showed the man to be an Immaterial Guide, just like her.
+
+Unlike her, he had inscribings that very closely mirrored those she’d seen on Master Himmal and his assistants. Focused on analyzing and working with magical items.
+
+His aura was a deep yellow, just far enough from orange to no longer truly be that color. It was contained, somehow, and seemed to almost be held up for display. How does that make sense?
+
+His magesight was already active, even though the inscribings she could see indicated that it wasn’t always on, like hers was.
+
+“I assume that you are Master Boma?”
+
+He grunted. “I am. Why did the Caravan guild think you need to see me? You clearly aren’t an Archon, and any mortal work can be handled by…” He trailed off as Tala drew and held up her knife. “Girl, what, by the stars, have you done?”
+
+Tala just smiled. “I read that I can merge items of power into soul-bound artifacts to increase their base power. Is that true?”
+
+He gave her a long look, then took the offered knife, examining it critically as he spoke. “Of course, it’s true. That’s the primary way to alter and shape such. Otherwise, you have to use an item in very specific ways for…well it depends, but it’s always a long time. That can cause the power to shift and grow to more suit you.” He shrugged absently, clearly talking from a depth of experience as he examined the weapon. “Some are more fluid than others.” His gaze flicked to her eyes. “Child, this knife is starving, even while bound to you. You don’t have the strength of spirit to support this bond properly.” He gave her a hard look. “I assume you were told not to bond anything else? How did you even bond this so weakly?” He gave her a long look. “You’re not bound to…”
+
+Tala simply waited as he rambled on. After all, the man wasn’t leaving room for her to answer any of his myriad questions.
+
+“Ahh, so you came to the spell-form without proper guidance and didn’t know what to do with it?” He looked back at the knife. “This has to be the weakest Archon star I’ve ever heard of. How is it stable?” He shook his head. “Doesn’t matter, it clearly is. So, you want to increase the power of this item then?” He finally stopped there, awaiting a reply.
+
+“Yes. I’m building the power of the bond daily, and I have a host of harvests that I think will be compatible with the knife.”
+
+Boma grunted. “Well, we’ll see about that.” He sighed. “Come on, then.”
+
+“Umm… I’m sorry, but how much will this cost?”
+
+He gave her a long look, then sighed. “It completely depends on what we’re working with, but the absolute cheapest it would be is one ounce, gold. If you have some insanely complex things to work with, it might be a hundred. I won’t know ‘til we’re in the room.”
+
+Tala frowned.
+
+Master Boma sighed, again, shaking his head. “I won’t do anything that will cost you even a copper, before we discuss and agree to a price. Alright?”
+
+She smiled just slightly. “Thank you. That sounds quite acceptable.”
+
+He gestured back towards the room’s exit. “Let’s go.”
+
+Terry flickered up to her shoulder, and the Archon paused.
+
+“That is an interesting creature. Secondarily bound to you via that collar, yeah?”
+
+Tala nodded. She’d recharged the collar along with her other items every time she topped them off.
+
+“You’re not fooling anyone, birdy.”
+
+Terry cocked his head.
+
+“Well, fine. I’m sure you fool most people, but not those who know what to look at.” He moved his gaze to her. “Your defenses must be insane, child. I’ve never seen a terror bird that old, and they universally grow in power over time…Still, he seems to like you. Don’t loose him on the city, please?”
+
+She smiled a bit guiltily. “It’s a training collar, so he has to stay close to me.”
+
+“Small mercies. I don’t want to have to hunt the two of you down at the end of a trail of blood. That sounds very irritating.” He looked back to Terry. “As for you. I’d have just killed you, had we met in the Wild. You mind your Mage. Understand?”
+
+Terry crouched just slightly, eyes narrowing.
+
+Master Boma squared up with them, relaxed but clearly ready. “This won’t be a test, creature. If you make me, I’ll break you like an egg. The city is no place for a wild animal. Know your limits and mind your betters.”
+
+Terry hissed, but settled down, turning away from the Archon and tucking his head under a tiny wing.
+
+Tala, for her part, felt like Boma wasn’t just posturing, even though she couldn’t discern any explicitly offensive spell-forms from his inscribing. If nothing else, he probably has a host of items to use…somewhere.
+
+Master Boma shook his head but didn’t comment further. He strode from the room, carrying Tala’s knife. She followed without complaint or comment.
+
+They went back through the entry atrium and down a side hall into a large room, closed off by heavy, iron-clad doors. Inside, the stone walls and ceiling were coated with overlapping iron plates, which seemed to be lacquered. To keep them from rusting, or from getting iron dust on anything? Probably both.
+
+Boma closed the heavy doors behind them, dropping a bar across to prevent unwanted entry.
+
+The center of the floor was blank, flat stone, but Tala’s magesight showed her that under the top six inches or so was an incredibly complex interlacing matrix of currently inactive spell-forms. How can I see them so clearly, even while they’re inactive?
+
+It was far more complex than what she could easily understand, even with her magesight providing some insights. Below those appeared to be more iron panels, if she understood the odd reflection effect that she saw correctly. They seemed to be designed to be removed from a room below. What is that for? She decided not to walk on the floor over the dormant magic, just in case.
+
+“Now, girl, I assume that you have the harvests in that dimensional storage?”
+
+Tala nodded.
+
+“Put them over there.” He pointed to the center of the room.
+
+So much for not walking on that portion of the floor… She sighed and did as he asked, taking the pouch off of her belt, opening it, and pulling out the feathers and talons.
+
+Boma followed her and began examining each piece as she pulled them out. When she finally finished, he grunted. “Well, you weren’t wrong, these should be compatible, but they aren’t going to expand the versatility of the knife. They’ll just make its magic more potent, more efficient, more effective.”
+
+“Meaning?”
+
+He gave her a flat look, then sighed. “Meaning, if done correctly, it will be able to cut through harder material, even some magics, and stand up to more abuse. It looks like this weapon can shift shape, that will likely happen more quickly, and with less effort on your part. We can likely use the feathers to help strengthen the blade’s connection with you, as well, so the poor artifact will stop starving from a weak, unsupported soul.” After a moment, he shook his head. “That might be too much to ask. Even so, the melding will allow you to feed it more easily as your soul grows in strength.”
+
+“Fair enough.”
+
+“Do you wish to incorporate all of this, together?”
+
+Tala shrugged. “If you think that’s best? I’m not exactly an expert.”
+
+He gave her a long look, before just shaking his head, again. “This knife is bound to you. Assume that’s forever, as the alternatives are worse than death. Trust me on that. I think it reasonable to put this investment in.”
+
+“Then, I’ll bow to your experience.”
+
+He snorted. “It’ll be two gold for the working, and that’s the guild-to-guild rate. If I treated you as an individual, it would be five.” He gave her a hard look. “You did come because of a guild representative, correct?”
+
+He’s giving me the choice? Maybe, he has to tell someone, somewhere that this is a guild job, or that he reasonably assumed so? She didn’t care, really. “Yes, sir.”
+
+He nodded, a slight smile tugging at his lips. “Good.” He began arranging the feathers in a circle, overlapping them to make a continuous stair-step, the quill angled slightly inward. “Drive the knife into the stone here.” He drew a line on the stone with his finger.
+
+How did he do that? As she did what he asked, the blade easily pushing into the hard stone, she analyzed what she’d seen. He altered the reflectivity of the material, changing its color. It was a clever use of Immaterial Guiding, but it seemed a bit frivolous.
+
+The feathers and knife in place, he placed the talons in a smaller circle, hooked blades pointed outward, within the circle of feathers. That done, Boma stood. “Your bird will need to wait by the door.”
+
+Terry flickered over without need for additional prompting.
+
+Boma quirked a smile, looking at Terry. “Thank you for not wasting everyone’s time by pretending ignorance.” He turned to Tala. “You will stay in the center, here.” He stripped off his Mage’s robes, tossing them on the floor back near Terry and leaving himself in only short pants, which ended near his mid-thigh.
+
+He took a deep breath, seeming to center himself. Then, to Tala’s magesight he exploded outward, a flood of magical tendrils lancing out from countless places on his now exposed flesh, entering the floor to interact with the intricate mesh Tala had previously detected, below the surface. Magic danced through a thousand intricate patterns on his skin, as he seemed to control each individualized thread as it, in turn, manipulated those below the stone floor.
+
+Portions of that hidden inscribing activated, harmonizing with Master Boma’s spell-forms, and the stone shifted, portions sinking downward to form a detailed spell-form seemingly engraved into the floor. This shifting wasn’t the moving of joints, but the stone, itself, moving as if carved, shaped, sanded, and polished into form.
+
+Further activations on Master Boma’s part caused liquid copper to flow through the channels and depressions, clearly guided by the forms below the surface.
+
+I wonder if that’s a more complex version of how the teleportation rooms function, hidden spell-forms below the stone. “Won’t I be caught in the working, if I stay here?”
+
+He looked over at her, clear bemusement across his face, even as he continued his work. “Girl, you are soul-bound to the knife. You could be on the other side of the city, and this would catch you. It’d just take more power and more metal, so you’ll stay there.” After a moment he added an additional command. “Sit cross-legged around the knife, and place both hands upon the hilt.”
+
+She complied. “Wouldn’t the iron keep the working from leaving this room, if I was elsewhere?”
+
+“If you weren’t soul-bound, yeah. Magic doesn’t need a pathway through physical reality to flow across a soul-bond.” He paused again, seemingly moving through a more difficult manipulation of his magics, before he gave her a level look. “I’ll forgive your ignorance, because these are all Archon level concepts, but please, make a proper star and elevate yourself soon, yeah? Your lack of understanding is painful, and I’m forbidden from correcting your deficit as you are, now.”
+
+Tala stopped asking questions. I am so, incredibly glad that I didn’t attempt this on my own. Seeing Boma’s work, the very idea seemed laughable. The more I learn, the more I realize how much I don’t know.
+
+The spell-form was now complete and filled, Tala sitting in an open circle in the middle. The lines of the spell-form ranged in size from thread-thin to as large as her little finger. It was all copper. If she had to guess, she’d have said it was at least four or five pounds of the metal, and that was just what she could see on the surface. I’d have thought gold would be preferred… She hesitated. No, that much power would be a waste, and likely much, MUCH, too expensive to be practical. And with copper, when not all the metal is used up, they can still deactivate the spell, and reuse that material, next time.
+
+She knew that this spell-form likely had depth, meaning there were layers below what she could see. Thinking back, she remembered seeing holes in the stone, likely the pathways towards those lower portions. Plus, this is using the material from the spell-form below the stone, and using up Master Boma’s inscribings, too… Two ounces, gold, was sounding like a better and better deal as she contemplated all that was involved, here. Might be barely more than cost…
+
+She looked up, noticing a secondary circle, closer to the door, fully inscribed, prepared, and intermeshed with the main circle surrounding her. Master Boma sat down in that circle, tendrils of power still connecting him with the workings.
+
+Tala looked around herself, trying to take in all she could.
+
+“Mistress Tala.”
+
+Tala looked to the older Mage.
+
+“When this activates, the magic will flow through you, the knife, and your materials. You will be given choices on how the integration will occur. I strongly recommend that you choose the one you came here for. Don’t be tempted by the other things presented. As much as you’ve been a bit annoying, your ignorance is understandable, and I’d hate to end the morning by killing an inhuman abomination.”
+
+She frowned. “What? I don’t understand…”
+
+He sighed. “I know, child. Please just remember what I said.”
+
+She nodded, hesitantly, and he reached out, placing his hands on perfectly sized imprints to either side of him. The threads of power seemed to collect, moving across his skin until they all seemed to originate from his hands, flowing into the stone. His gate opened wide, the power flowing outward became a torrent, and Tala’s magesight was instantly overwhelmed by a wave of refined power.
+
+Her vision went white as a torrent of magic slammed into the knife and, through it, into her.
+
+* * *
+
+She was outside herself, without form, looking into a white void.
+
+It wasn’t bright; it wasn’t dim; it simply was, and it was white.
+
+An instant, or perhaps a decade, passed without anything violating the purity of the void.
+
+Then, there, before her bodyless gaze, stood…herself, but different.
+
+Tala stood, wings stretching from her back; her hands and feet ended in razor sharp talons, and her eyes were solid black: inhuman and predatory. As she watched, the wings and talons retracted, fading into her flesh as if they’d never been, but the gaze remained the same: hungry, barely intelligent.
+
+Tala moved back from that visage of herself and saw another standing nearby.
+
+The second form was her as well, but covered with short, black feathers. Her legs were more like Terry’s, with reversed knees, and her torso was hunched forward, arms reaching to tear at her victims. Her talons were wicked looking, clearly designed to shred that which she attacked, and her eyes…
+
+How do these eyes look even more feral?
+
+She was not behind those eyes. Well…of course she wasn’t, because she was looking from the outside, but there was no humanity in that face. What she beheld was a beast of basic hunger and predatory need.
+
+She shuddered, or she would have if she’d had a body.
+
+The third version was a human-seeming Tala, but with her arms replaced by wings of sharpened metal. She somehow knew both that this version of her could fly, and that the wings were a permanent feature. No retracting these for normalcy…
+
+The next Tala on option looked mostly normal, a knife in hand: her knife. As she watched, power flowed into the knife and the arm holding it changed into a huge, winglike blade, incorporating the knife, and making it an extension of her physical form.
+
+The body incorporation looked like a medley of silver and black metal, interwoven into a symphony of death and sharp edges.
+
+That looks interesting. It looks almost like one of the wings from the third option.
+
+Next to that was a similar manifestation, but this time, the sword changed into a monstrosity, completely separate from her own physical body. The blade was nearly a dozen feet long, the hilt growing to be more than large enough for two hands to grip it with ease. Despite the tremendous size, the mirage of her seemed to wield it with effortless ease.
+
+Hah, it’s light as a feather. She considered for a moment. It looks like it would cut more like an ax than a razor. That could be a pain. Also, I can’t imagine fighting in close quarters with that, or near anything, no matter how light it was.
+
+She moved on.
+
+Finally, after dozens more, the last figment she saw was of her as she was, holding the knife.
+
+In the figment, power gushed into the weapon, and it instantly flowed into the shape of a familiar sword, as it had looked to her before. Though, there were now hints of a feather-like texture to the hilt, as well as the field of heat within the wire outline of the blade.
+
+Somehow, she knew that the lack of increase to size and reach had been translated into power within the blade itself. She felt an overwhelming, instinctual cry from this final version, a hunger and unified purpose. This weapon existed to be wielded by her to hunt, to kill, to protect her from harm.
+
+Yes. The weapon, the extension of her will, resonated with her very soul.
+
+She looked at her options, for she knew that’s what they were, and understood what Master Boma had meant. The first options somehow integrated the two physical forms and her basic nature lost. She was not strong enough to fully unify with this weapon and stay as she was. Does that mean I could get wings later? If I was stronger?
+
+Maybe.
+
+It might be worth asking…once she was an Archon and people would answer her questions.
+
+Do I want wings? She shook her…soul? I don’t have a head to shake…But now is not the time for such considerations either about my headless state or whether or not I want wings.
+
+She approached the last manifestation and indicated acceptance.
+
+Power shattered through her and the knife; her very-self felt as if it was being scraped raw.
+
+* * *
+
+Her vision splintered back into normal sight, and she found herself sitting cross-legged on the smooth floor of the room, knife resting in her palms.
+
+All traces of the arcane harvests and spell-forms were gone, and Master Boma was standing over her.
+
+“Good, still human.” He turned and walked towards the door. “I’ll work up the exchange tablet. Take your time.”
+
+Tala looked down at her hands and the weapon resting atop them. She felt more connected to the tool than ever before. It felt like her heart beat within the knife, though the tool didn’t pulse. It was as if the knife was her long lost love, but also someone who had been her companion for decades.
+
+Yet again, she was struck with how it felt more a part of her than her own arms. Strange…Yet, obviously as it should be…somehow.
+
+There was a hint of feather-like texturing in the pattern of the blade and handle, making the metal, at least, look like a form of patterned, folded steel.
+
+She extended her blade to the side and poured power into the blade, watching it flow outward, taking on the shape of the sword more quickly and easily than ever before.
+
+She still couldn’t maintain it for more than a handful of seconds, and even that would be a strain, but it was a marked improvement, regardless.
+
+She brought the extended blade in to look at it, lifting her hand to grip the blade, before she hesitated, realizing that that would be foolish. Don’t burn your hand, Tala, or stress your inscribings. Even so, as she’d brought her hand close, she’d noticed something.
+
+In a direct line with the blade’s edge, she felt her power being pushed back, driven back into her defensive scripts and away from the flesh, itself. As the edge came closer, the scripts themselves seemed to be straining, as the magic in them was put under stress. This will cut so much easier than before, even through magically defended materials. She found herself grinning. The power just flows away before it.
+
+Flow. That seemed fitting. “I will call you: Flow.”

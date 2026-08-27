@@ -1,0 +1,253 @@
+---
+id: cd5305a5-0400-5159-80f5-1417b4b9fc08
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 613 - At the Source"
+slug: 0115-chapter-613-at-the-source
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 115
+ownLength: 3334
+unit: words
+ownProgress: 3334
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2607141/chapter-613-at-the-source"
+royalRoadId: "2607141"
+markedReadAt: "2026-06-29T19:38:58.961Z"
+---
+
+Tala, her immediate family, and the caravan left Marliweather in good spirits after their two day respite.
+
+On the magical side, she’d been informed that, yes, particularly potent magical beasts seemed to somehow bolster Reality when they attacked—or it was bolstered by something else—thus allowing them to freely attack without endangering Reality. Or it was the fact that a gated was being attacked, but given a similar effect didn’t happen when arcanes and humans fought, that seemed unlikely. In either case, it had been pursued, but it wasn’t replicable by any Archon. Even so, Tala had been given the information available in the Archive, in case she was able to suss something out.
+
+On the business side, Ironhold had done brisk business selling, buying, and trading goods of various kinds, making tidy profits and preparing to make even more on the next legs. This was, of course, spread throughout the more mercantile-inclined citizens, but the Sappherrous family—due to Lyn’s work—also benefited from the transport of needed and desired goods, and would continue to do so.
+
+Honestly, Tala was a bit surprised when she was told about their profits, but apparently, Rane had been networking behind the scenes to get good deals and established connections all along their route.
+
+Sometimes, that man is quite surprising.
+
+-Indeed.-
+
+On the personal side of things, the time with Tala’s family had been pleasant enough, and only Latna had asked—blessedly in private—if Tala was going to introduce Lea to ‘their’ father.
+
+Tala had answered flatly that she would not, not anytime soon.
+
+Latna and Master Leighis were on the edge of officially courting, their interest in one another long withstanding the modicum of separation that the two had wisely chosen into. Still, he didn’t have any ‘official’ standing with the family, despite everyone having known him for more than a decade and a half by that point. Tala, of course, was the exception due to her time of distance and lack of communication while at the Academy.
+
+Still, he’d been invited to the dinner, and he was as kind and welcoming of Lea as everyone else, just as he had been during their previous encounters.
+
+It really was true what others had told her previously. The easiest way into a parent’s heart was to be kind and good to their children, and in that vein, Tala was much more inclined to approve of Master Leighis than she had been previously.
+
+-I doubt that is universally true.-
+
+Maybe, but it does seem to be generally true.
+
+-Fair.-
+
+Lea had met up with some of her relatives the following day, while the caravan delayed in Marliweather, and Tala—reluctantly—had let her daughter attend the gathering of ‘younger’ relations alone.
+
+She’d sent Terry of course, but that just wasn’t the same as being there herself.
+
+-I’m going to tell Terry you thought that.-
+
+…You know what? Fine. I bet he’ll agree. I trust him, but leaving my child to someone else isn’t the same.
+
+-...Fine. You’re probably right.-
+
+She’d said hello to Mistress Anna, and given Anna’s parents the days off to spend with their daughter while the caravan was in Marliweather.
+
+Aside from the familial visits, Tala had put the time to good use, refining her use of the ‘magic sinkhole’.
+
+It took a much deeper look than she’d really taken before—with the context and experience she’d gained over the first two legs of the trip—to see that the stoneward distance of the City Stones wasn’t actually chosen due to the size of the area they covered, at least not exclusively.
+
+It also helped that she had other City Stone setups to compare it with, even if most had only been seen in a passing manner.
+
+For City Stones, there was a city’s worth of filtering, processing, and de-aspecting spellforms and magics of various kinds. Without a Mage exclusively dedicated to the task—of which there were apparently only a couple in the entire history of gated Mages—that put the process outside the reach of any individual.
+
+In the end, she was reminded just how much more was involved in the process than most would be able to accomplish.
+
+Tala was, of course, the exception for two critical reasons.
+
+First was the item that Lisa had traded to her so long ago, which she’d incorporated deeply into Kit’s very nature. The magics were powerful in their simplicity, accomplishing what took a good three-quarters of the City Stone magics to do. The removing of personal aspects from power was a vital task that naturally occurred as Reality and the aspected power abraded one another.
+
+Make no mistake, unaspected power still abraded Reality, but more as a heavy, smooth weight could still stress a cloth, where aspected power was more like a rough—or even sharp—item of similar weight.
+
+Regardless, that was but one reason that Tala was capable of what only City Stone holders backed by vast arrays of spellforms could do. Vestiges obviously accomplished the same task in a much smaller package by perfectly tuning the de-aspecting to a single gate. Cities didn’t have that luxury.
+
+Second—and perhaps more importantly—she could actually put the power to use, or at least store the majority of it.
+
+Cities, as it turned out, used magical lights and other amenities in large part because they needed to bleed power, even after that power was de-aspected. The City Stones, by their very nature, were storage vessels of magic, but they couldn’t take in all the power coming their way at once. Instead, a good portion of it had to be used up, or the Stone would be overwhelmed… though, she didn’t really understand the reasoning.
+
+Part of that was the fact that they weren’t willing to explain the creation process of a City Stone to her. She and Alat had suspicions, but they weren’t confirmed.
+
+-They are obviously ‘magic’ dasgannach, somehow modified and bound. That’s why so many people are obsessed with more mundane varieties of the creatures.-
+
+Like the information dasgannach in the Wandering Wilds?
+
+-Yes, but that one was unbound and ‘natural,’ where I believe the core of the Archive and each of the City Stones are anything but native.-
+
+Yeah… That would make a certain amount of sense. I’m not sure how that aligns with them being a type of curse, or how they are created, but we are a perfect example of how such a creature can open up a wide suite of possibilities otherwise completely out of reach.
+
+-Exactly.-
+
+It would be nice if our nature didn’t limit our intake.
+
+-Well, it only limits us in so far as we wish to keep our current nature.-
+
+Yeah… that’s what I was saying.
+
+Regardless, Tala’s ability to draw in ambient power, purify it, and utilize it on her own—within Kit—was the only reason this caravan worked at all.
+
+Even still, it was an uphill battle against creatures that would have ended her caravan career very quickly, back when she’d started.
+
+In just the first day outside of Marliweather, Terry slew more than a dozen Fused level threats and Rane drove back a pack of Refined beasts. Additionally, the Talons were almost constantly engaged with lower level beasts either trying to harass the caravan or strike when Terry or Rane weren’t nearby.
+
+Tala, herself, was on overwatch most of the time, keeping her threefold perspective at the forefront of her focus, ready to engage any truly overwhelming threats.
+
+Blessedly, no Paragon level beasts had even been spotted besides the roc.
+
+Things were even better at night when the caravan stopped and they became, effectively, a tiny ‘city’.
+
+-The word is town.-
+
+I know, but I mean it in the sense of being like the cities…
+
+-Fair. All magic caught and brought down to a single, immovable point. I can see it.-
+
+Exactly.
+
+As such, they weren’t quite the same ‘beacon’ to surrounding magical creatures while still, and that let the caravan sleep more peacefully than it would have otherwise.
+
+The food was fantastic on the trip, but that was no surprise. The Culinary Guild had sent more than two hundred gateless to work within Irondale to provide the food for the trip, and they were cooking practically non-stop.
+
+A few had already put in applications for permanent citizenship within Ironhold, and Lyn was dealing with the assessment of that possibility.
+
+The Talons were thriving in their active role. There had been a few who had balked at actual combat, but since they weren’t alone, their Claw members had been there to support them, and every one of the Talons had eventually risen to the occasion.
+
+Many had even earned great allotments of white steel due to the higher-stakes ‘training’ pushing them to new heights.
+
+Still, despite the dangers and somewhat frequent clashes, none had died, and the injuries were minimal enough that none had been taken out of commission for more than a single rotation.
+
+The single Talon who had been forced to wait out that full time had lost his entire right leg to an odd snake-like creature that had seemed the size of a worm until it sprang up from the ground, already chomping down, high up on the limb.
+
+Alat and Tala had increased their vigilance on anything showing even a hint of dimensional power after that. The ‘worm’ had shown itself to be a remnant of a long-dealt-with dimensional fount that had been in the area some three hundred years earlier. Apparently, it had not been the one to spawn dimensional spiders, but it was still similar.
+
+There was actually somewhat of a debate on dimensional Mages as a whole. They were incredibly powerful and versatile, useful almost all through society, but their founts spawned horrors. The Archons tried to police potentials to eliminate such founts as quickly as possible, but some beasts inevitably got such powers, and they tended to be more hereditary than ideal…
+
+Regardless, the worm snake thing was a remnant worthy of destruction. It was actually quite impressive that such a creature had survived this whole time and reminded her of Terry in its ability to endure. Still, she hadn’t tried to make the Talons spare it, and the Claw had been effective in dispatching it shortly after it showed itself.
+
+They then presented the body to Terry, the avian accepting it with grace and avarice in equal measure.
+
+With her parents on constant guard duty, Lea brought all her resources to bear on those same parents once the caravan left Marliweather—making both Tala and Rane believe that some of the other family members had said something to the girl—and finally, they relented and allowed her to join the Talons as an additional, sixth member to various Claws on some of their rotations.
+
+It was stressful for both Tala and Alat—and they suspected, for Rane and Enar as well—but it was an important step for the girl.
+
+-I still think that we should have waited for her to have inscriptions…-
+
+Yes, but if we put that before her, she’d have bent her requests, demands, and pleas toward getting inscribed sooner.
+
+-...True. I still think she’ll be ready within another couple of years, which is insanely soon.-
+
+Yeah… Still, Tala wondered if they were holding the girl back. She was so young, but obviously, she already outstripped humans even dozens of years her senior in many ways.
+
+Regardless, as Tala focused on Lea, Alat took over watching out for the caravan as a whole.
+
+Just watching her fight alongside the Talons showed that she was capable, even if they acted to keep her safe, and their magics meant that she was almost always the least capable among them. The girl did still engage several beasts in quick exchanges, and never took any damage. They weren’t sure if Lea’s berserker tendencies would be an issue, but Tala wasn’t forced to make that determination.
+
+We need more controlled encounters.
+
+-Yes, we need to make sure our daughter gets hurt on our terms so we can watch what happens.-
+
+…You have a way of making anything sound terrible.
+
+-It’s a gift.-
+
+That’s not what I’d call it, but sure.
+
+As much as Tala and Rane were engaged in the caravan trip, it was also restful in a way that was hard to describe.
+
+They had demands on them, but for the most part, those were simple enough to fulfill, and even enjoyable in their simplicity.
+
+So much of their lives of late felt esoteric or convoluted in one way or another. Even Lea’s birth and her raising was stressful in all the myriad ways they feared it going wrong and harming their daughter.
+
+Protecting a caravan and providing for its dimensional magics? That was simple, easy, mundane in a way they hadn’t really realized that they’d been missing. It pulled their focuses away from themselves and pointed them outward, reminding them of what it really meant to be an Archon of gated humanity, and all the responsibilities and potential inherent in that.
+
+As such, it was no wonder that they reached Arconaven and headed on toward New Makinaven with ease and growing competence.
+
+True, Tala’s analysis of Reality in their wake showed an odd—hard to quantify—thinness or weakness to the reality threads that they passed through, making them all certain that this wouldn’t be an oft repeated process, but it was still a wonderful way to pass the time.
+
+It wasn’t until they were approaching the new city site that anything of note came to pass, and when it did, it was a stark change indeed.
+
+They were deep in the northern forest, at least a few miles from the plains, and that meant that they’d had to fall into a more dispersed configuration.
+
+There was a greater concentration of power in the air, and that had been making everything stand out to Tala’s threefold perception. The grass, trees, bushes, small animals, insects, and even the dirt all had a bit of magic in it, and given the fact that magical beasts gained their power—generally speaking—from the environment, separating them from that environment wasn’t easy.
+
+That wasn’t actually an issue in this case, but it did explain why Tala was so focused on the minutiaee in the near area around each of the five widely spaced caravan columns.
+
+Terry’s spike of alarm through their connection was the first indication that something was coming, and the fact that he was to the east, on the same side as Lea drew Tala’s focus like a dasgannach to iron filings.
+
+It wasn’t wolves—Tala suspected that Anatalis would be keeping even loosely affiliated wolves from attacking caravans in the near-term—but it was something similar.
+
+They were pack-hunters, that was clear. They were stockier than wolves, with a ridge of stiff hair running down their backs to an almost horse-like tail.
+
+Their echoing barks were almost like laughter as ten surrounded Terry and another eight drew around the Claw just a quarter mile away at the caravan’s eastern edge. That was, of course, the Claw that Lea was currently patrolling with.
+
+Tala took less than a breath to assess the situation.
+
+The creatures—hyenas, if she recalled descriptions of similar creatures correctly—weren’t standard.
+
+They gave off a paragon level of power, but it was both unified and somehow mottled.
+
+They were a hive creature, somehow, but rather than it being a ‘top-down’ hive, where they were a single entity divided among many bodies as many hive-mind creatures were, they were more closely similar to the leshkin, where the individuals combined to be something more powerful. In the hyenas' case, they seemed to combine their magics, rather than their bodies, in a ‘bottom-up’ hive existence.
+
+If she was perceiving things correctly, each hyena would only be a Fused level threat, but they were so interconnected and supportive that the pack as a whole was registering as Paragon equivalent to her senses.
+
+These are oddly reminiscent of the Shambling Ivy…
+
+-Indeed… though that was a ‘top-down’ hivemind, and even so, two isn't a pattern.-
+
+…Fair.
+
+The realization of their structure of power immediately made Tala wary, because the eighteen she immediately found were not sufficient to account for an end result of Paragon-level magic.
+
+Terry was already flickering among those stalking him, but their magic seemed to feel shadow-aligned in nature, as well as something else that Tala couldn’t quite pin down in the eyeblink of time she’d had.
+
+The result was that Terry didn’t seem to harm the beasts in any noticeable way. Oh, he cut through them easily enough, showering the forest with black blood, but that blood vanished into the shadows and the hyenas healed more quickly than Tala, herself, would have.
+
+In fact, if Tala had been forced to guess, she’d have said that they weren’t actually being harmed at all, and it was only the incredibly violent intent and will wielded by Terry which was causing the wounds to manifest even briefly.
+
+Terry’s magical weight, will, and authority was bending existence to impose the presence of wounds on his foes when none should have existed, and it was at least causing some pain, if the growing hesitancy in their actions were any indication.
+
+Still, Tala felt like the actual effect was similar to cutting at a shadow. It wasn’t a question of the sharpness of the blade, there simply wasn’t actually anything to cut.
+
+And yet, if the bite that one of the Talons had already sustained was any indication, they could harm Tala’s people well enough.
+
+Tala was about to come to the aid of her soulbound, daughter, and Talons, but she couldn’t bring herself to. Something deep within her screamed that it would be a mistake. She also almost pulled Lea away, but she had promised to let the girl face beasts alongside the Talons.
+
+She would still keep a close eye on her, though.
+
+Less than a minute later, she was proven right as twenty more shadow-hyenas melted into being on the far side of the caravan, two already lunging at Rane, eight more closing on the primary Talons to that side. The remaining ten were spreading out to engage the other two Claws.
+
+Basic pack tactics. More than finally seeing the trap she’d somehow sensed, she also felt echoes of something more, and it was almost instantly obvious to her what was going on, even if she didn’t understand how or why.
+
+These creatures were somehow coming from or through the Doman-Imithe.
+
+With that in mind, their bodies on the superficial might actually be shadows of the true creatures there. If that was the case, then very few magics indeed would be able to harm them on this side.
+
+It had been decades, maybe longer, since such a Doman-Imithe-connected creature had been recorded around the Cycling Cities, but apparently, Tala’s overlarge caravan—and maybe other things that Tala didn’t know about—were enough to bring them forth.
+
+Tell them to hold the line. Terry should use void, and everyone else should focus on defense. I’m going to cut them off at the source.
+
+-Hurrah! The Doman-Imithe is never more than we can handle.-
+
+Your confidence is inspiring…
+
+Alat sighed. -Fine, I know we’re a lot more powerful, and there’s no reason to assume a Fallen, or whatever that was, is waiting on the far side. Still, shouldn’t we use our existence shield or at least armor up?-
+
+Last time, even an existence shield didn’t help, and it slowed us by stressing our mentality and connections. We need to keep connected to our authority and aura, and I want mobility over defense.
+
+-If you’re sure…-
+
+I am. Regardless of Alat’s reservations, Tala didn’t hesitate, coating her hands in void magic and reaching for the metaphysical gaps between reality nodes and threads.
+
+It had never been easier to tear open a doorway to the backside of reality, and without taking the time to let fear or bad memories cause hesitation, she jumped through, into the predator’s den.
+
+Truthfully, she’d rarely done that quite so literally.

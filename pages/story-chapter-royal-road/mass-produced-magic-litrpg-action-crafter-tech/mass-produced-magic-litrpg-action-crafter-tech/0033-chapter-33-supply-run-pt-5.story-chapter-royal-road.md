@@ -1,0 +1,209 @@
+---
+id: 898922cc-d6b2-5545-8780-79ad7235cd38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 – Supply Run – Pt 5"
+slug: 0033-chapter-33-supply-run-pt-5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 33
+ownLength: 2360
+unit: words
+publishedAt: 2024-12-22
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1969787/chapter-33-supply-run-pt-5"
+royalRoadId: "1969787"
+---
+
+The trio walked along the tunnel. Pockmarks lined the walls, and Kindra grew bored. They walked and walked, eventually stumbling on a single item at the end of the tunnel.
+
+Kindra kicked at the extremely rusty pick axe. Reaching down, she burned a little mana to turn it into a brick and stashed it. I’ll have to toss it into the bloomery later. She spun and followed the group, jogging out of the tunnel.
+
+“Was hoping for a vein,” Gleon muttered.
+
+“It seems anticlimactic.” Kindra sighed and studied the boring stone, walking back toward the smell of blood and bone. The rats were lying there. Veering down another mining path, they repeated the process over and over, waves of boredom slowly eating at Kindra.
+
+Leaving the last tunnel, Kindra sighed. “Sorry.”
+
+“It’s alright. Maybe in the future.” Gleon turned, and the ground quivered like an autumn leaf.
+
+Kindra froze. She stared at her feet. Do not let some slug burst through the ground.
+
+Gleon leapt forward, landing with a massive thud. Moving further down, he drummed his feet against the ground, and it shook. The walls trembled, the ground exploded, and a massive grub swallowed Gleon, engulfing him entirely.
+
+I hate those things. Kindra frowned, conjured her spear, and charged. The grub flailed, slamming into the ground. Gleon did the same, making the grub jiggle furiously.
+
+Aika zipped up and stabbed into the grub, cutting lines into it. Trying to do the same, Kindra slashed her spear through it. Stone chips rattled. The grub slammed into the ground, bashing Gleon with stone and its body.
+
+Its skin poked outward. Kindra stabbed and stepped back, looking at the strange protrusion of skin. It poked out further and further. She dodged away, the grub slamming itself into the wall.
+
+Gleon burst out of it in an explosion of goo. He laughed and chopped, acid dripping from his body and burning holes in his armor.
+
+This guy is nuts. Kindra stared, and he hacked it open, spraying guts and yellow fluid everywhere. Grabbing the body, he pulled it away and shook himself, sending the fluid flying around him.
+
+Ew. Kindra wrinkled her nose and sniffed. The tang of acid filled the room.
+
+Gleon grinned. “That’s where our stuff is.” He happily turned and peered into the hole.
+
+Aika zipped down it. “It levels out.”
+
+He leapt, jumping into it without a second thought. Kindra walked forward and looked down into the gloom. I’m not jumping into that.
+
+Aika fluttered up and giggled. “Told you.”
+
+A grappling hook shot upward, catching the ledge. “Come on down,” Gleon shouted, his voice bouncing around the tunnel.
+
+Kindra grabbed onto the rope and lowered herself down, landing lightly at the bottom and peering into the gloom. Gleon stood there with a massive grin. He beckoned her over.
+
+Darting down the tunnel, Kindra raced into a large chamber and froze. Metal and gems lined the walls, floor, and ceiling. Mana glowed throughout all of it. Dozens of large, larval eggs sat in a corner of the room.
+
+“Break ‘em. I’m gonna mine for a bit.” Gleon grinned and pulled out his hammer along with a long spike.
+
+Kindra held up her spear and walked to the eggs. She swung, and the spear bounced off the rubbery shell. Rotten things!
+
+Dismissing the spear, she pulled out the crossbow, loaded a bolt, and pulled the trigger. The bolt blew through the egg in a spray of fluid. The fluid oozed out of the egg, and the larva writhed before slumping over.
+
+Pulling the mana into herself, Kindra loaded another bolt and repeated the process, slowly working through the eggs, killing them dispassionately.
+
+Jerking mana into herself, she walked forward and looked at the metal in the cavern. I need some of this. Harvesting the last one, she spun and looked over at Gleon. He was smashing gems from the wall. Kindra smiled and triggered her skill. She studied the glowing colors and walked up to the wall. Placing her hand on the wall, she created a pickaxe.
+
+[Basic Pickaxe – This pickaxe lacks magical properties.]
+
+Kindra frowned. That spell isn’t as good as I thought. She used Enhance Item.
+
+[Basic Pickaxe augmented to grant +20 strength for 6 hours.]
+
+Slamming it into the wall, she broke out gems and metals, stashing them into her storage.
+
+Gleon whistled. “Kindra, toss me some of those bags.”
+
+“Okay, but I need them to organize things.” Kindra turned and pulled them out, tossing them over to him. I should have made an outfit, too… I’ll do that next time. She turned back to the wall, ripping the iron free and stashing it. “Gleon, why do they do this?” she asked, smashing the pick into the wall.
+
+“They consume things and spit them back up if they can’t use it,” Gleon called. “Come here and stash some things for me.”
+
+Kindra stashed the last of the iron and spun. She looked at the massive pile of metal he’d strewn on the floor. He gestured at it. “Can you stash it?”
+
+She gathered and stashed metals. He picked out any gems, filling all the bags with glowing gems.
+
+Her stash filled, and she turned. “I’m out of space.”
+
+“We’ll come back, eh, Aika?” Gleon said with a grin, strapping bags to himself.
+
+Kindra chuckled, paused, and burned more mana to rip iron and carbon from the wall. She willed it into a pair of swords for Aika and added two for herself.
+
+Turning, she handed the little swords to Aika and walked to the rope. “Are we leaving?”
+
+“We’ll check things up there and come back.” Gleon grabbed the rope and hauled himself out of the pit.
+
+Kindra waited. As he cleared the top, she grabbed on the rope and was jerked upward. Gleon pulled her out and set her to the side. Wrapping up his rope, he turned and headed for the exit.
+
+Kindra followed him, jogging down the tunnel and entering the large junction. A small group of pigs jerked their heads up, rats dangling from their mouths. One bit down with a loud crunch, snapping through bones.
+
+How did they even get here? Kindra reached for her crossbow, and Gleon charged with his axe held high.
+
+Every time? Kindra pulled out the crossbow. She loaded, and the pigs bolted, fleeing the dwarf that was hacking away at the closest. Blood sprayed. The pig dropped, and Gleon bolted after them.
+
+Chasing the group up the tunnels, Kindra shook her head. Well, I guess they were on the weaker side. She looped around the sloping tunnels and burst onto the surface. Ruins surrounded her, and mana lay thick in the air. The surrounding area was as dark as the cave. Must be night time.
+
+The hogs raced into the trees, and a strange presence filled the air. Like the feel of an impending thunderstorm, energy crackled across her skin. Her hair stood on end, and four large golem-like creatures stepped forward, their metal feet slamming onto the ground.
+
+Oh. Hell no. Kindra turned and ran, chasing after Gleon and the hogs. Bounding across stone rubble and large roots, she zipped into the forest with the golems on her heels.
+
+“Gleon!” Aika shouted. “Golems.”
+
+Gleon grimaced. “We can’t fight four of them.” He continued running, periodically looking behind him.
+
+The sound of their thundering footsteps grew louder. It beat like Kindra’s surging heart. I am running out of time.
+
+Gleon spun and launched himself at them. “Go!” he bellowed.
+
+Kindra raced forward, leaping onto a root and looking back. A robot smacked Gleon like a ragdoll, sending him crashing into a wall.
+
+Pain grabbed Kindra by the throat. No. I’m not losing more people. She reached into her dimension and pulled out her M4. She burned mana, letting it cascade into the gun. Her vision dimmed. Her heart roared, and text appeared.
+
+[Basic M4 carbine rifle has been enhanced with armor-piercing rounds for 1 hour. Each shot will negate up to 100 stamina when fired. This effect lasts ten seconds after being fired.]
+
+Blinking her vision back, she rested the gun against a root and exhaled. The golems surged after Gleon. One raised a fist. With her heart thundering in her ears, Kindra pulled the trigger. A booming crack ripped through the air, and the bullet blew through the golem’s head, sending steel fragments flying everywhere.
+
+Pivoting, Kindra aimed, and all the remaining golems turned. They thundered toward her, and she pulled the trigger. The bullet blew out of the gun, blasting through the lead golem’s head and dropping it to the ground.
+
+The others stormed forward, their feet spewing dirt behind them. Kindra pulled the trigger. The bullet cracked across the gap, ripping into the golem’s chest with the sound of screeching metal.
+
+Aiming at the final one, a furious dwarf slammed his hammer into it, smashing the head open. The golem dropped like a rusty piece of metal.
+
+Exhaling, Kindra felt the roar of her heartbeat. Her vision was blurry, and dizziness spread through her body like a wave. She exhaled, leaning against the tree. Did we win?
+
+“Kindra?” Aika asked, a look of concern on her face.
+
+Kindra blinked and looked at her friend. “Blood,” she whispered, and Aika flew off, shouting at Gleon.
+
+The dwarf nodded and jogged toward the tunnel. Kindra exhaled. I should get the shells. Reaching for one, she tipped over, landing on her side. Okay. Too much. She sat there, hoping it would pass.
+
+The sound of a snuffling hog pulled her attention. Looking over, she saw a bold member of the group walking toward her. She sighed. “Just leave me alone. Okay?”
+
+The hog ignored her, walking forward. A little fairy shot forward. Her spear flickered and stabbed right into the hog’s eyeball. It went nuts, kicking, squealing, and biting wildly.
+
+Aika zipped around it, stabbing its belly and sides. Blood oozed from the wounds, and it bound toward Kindra. Is this how I die? Kindra jerked the gun up. The hog opened its tooth-filled mouth, and a hammer smashed into it. Blood sprayed. Bone cracked, and the pig dropped.
+
+Gleon strode forward, dragging a hog behind him. Tossing it to Kindra, he nodded. “Do it.”
+
+Kindra sunk her teeth into it and drank, pulling both blood and mana into her system. A surge of energy came with it. It coursed through her, and the headache dimmed slightly. Death, did you do this?
+
+She swallowed another mouthful and let the energy build. Gleon reached down and gently pulled her up before picking up the casings and studying them. “I need one of those.”
+
+Kindra wobbled, willed her gun away, and rubbed her brow. Helped a little. She let out a long breath. The energy from the blood faded, leaving a deep exhaustion that lingered through her. Will stamina help with this?
+
+[Yes.]
+
+Good to know. She stumbled forward.
+
+“Easy now, Kindra,” Gleon called. “Give it a minute.”
+
+Aika said, flying over with a look of concern. “Are we taking them with us?” She gestured to the glowing golems.
+
+“Yes. I don’t know how much is from the dungeon and how much is them, but we need to study them.” Gleon walked back and piled the golems together. Tying a rope around them, he started dragging, heading in the direction of the camp.
+
+Kindra followed alongside, trying to blink back the growing headache. That’s enough dungeon for one day. I need a bed. She walked through the quiet forest in an exhausted haze.
+
+Pausing at the cliff, she wobbled, and Gleon lowered the golems, digging his feet into the ground. Aika grabbed the other end, flying to a nearby tree.
+
+“Doing alright?” Gleon asked.
+
+Kindra shook her head, looking out at the night sky. Stars twinkled above. “I’m exhausted and have a headache.”
+
+“What skill was that?” Gleon asked. “And why are you so out of it?”
+
+“It uses my blood,” Kindra whispered. “And makes the item stronger.”
+
+Realization spread across his face, and he tied a harness around her. “Be careful with that skill.” He braced himself and gestured with his chin. “I’m going to lower you down then.”
+
+“Thanks.” Kindra moved to the ledge and began walking down as he lowered. Text flashed in front of her face, and she dismissed it, focusing on the descent.
+
+Landing at the bottom, she untied it and looked up. Gleon was scaling down the rope hand after hand, moving fast.
+
+She moved out of the way, and he landed with a heavy thud, whistling into the air.
+
+Kindra removed the rope, and the rope dropped, snaking down the cliff. Aika flew downward, her wings flashing in the starlight.
+
+She looks good today. Kindra yawned and followed Gleon, moving through the quiet woods and back to the refugee camp.
+
+The two walked up to Gran’s home, and she swung open the door. “There you are—Kindra?”
+
+“Bit out of it. She lost some blood,” Gleon said, patting Kindra on the back.
+
+Gran’s gaze flickered to Kindra’s side, and a scowl spread across her face. Magic surged around her. Runes flickered in the air.
+
+Kindra tried to memorize them, struggling through the mental haze. “I’m fine. Just worn out.”
+
+“I gave her a potion, but she’s recovering.” Gleon shrugged and tugged on the golems. “And I have some things.”
+
+“Let’s get you inside.” Gran took Kindra by the arm and pulled her inside, escorting her to a small room. She pulled out a nightgown and placed it on the bed. “Do you need anything else?”
+
+Kindra shook her head. “No, thanks.”
+
+“Have a good night.” Gran patted her on the back and looked over. Aika zipped in and landed on the bed. “Both of you.”
+
+Aika waved. “Thanks.” She walked over to the pillow.
+
+Kindra pulled the dress off, briefly scrubbing dried blood off her. Grabbing the nightgown, she placed it on and burrowed under the blankets.
+
+Gran walked in and placed another blanket on the pillow, covering Aika’s little body. “Sleep well.”
+
+Kindra blinked at her groggily. “Thanks.” She smiled and let the exhaustion take her, falling to sleep in moments.

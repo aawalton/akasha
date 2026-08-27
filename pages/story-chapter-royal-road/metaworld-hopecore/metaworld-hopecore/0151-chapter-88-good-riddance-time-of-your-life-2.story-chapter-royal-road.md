@@ -1,0 +1,145 @@
+---
+id: 55afce9b-b551-5562-912c-d40dd859467c
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 88 - Good Riddance (Time of Your Life) (2) "
+slug: 0151-chapter-88-good-riddance-time-of-your-life-2
+partOf: metaworld-hopecore
+position: 151
+ownLength: 2133
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3791027/chapter-88-good-riddance-time-of-your-life-2"
+royalRoadId: "3791027"
+---
+
+Saturday. Eppie readied her mind and body by performing an hour of Yoga.
+
+She then walked down to the Stray Cat Society’s basement to fortify her soul.
+
+She then wept bitter, happy tears.
+
+Her “CSULA Cat Drive” had been so popular that every kitten, and some regulars, were all happily adopted by loving families whose homes had been inspected, whose records passed muster, and whose children found rapport with their respective kitties.
+
+The only cats who had chosen to remain on campus were Mr Chin, Mrs Catch’em, and the new cats who had wandered into the territorial vacancies left by the old regulars.
+
+Valorie had chosen to adopt Garfield.
+
+To leap from homelessness to a mansion was the dream of many a man, and now, an orange tubby with a chubby tummy had managed it. In place of William, it was now Andrew Garfield who mangled the redhead in the dead of night, sending the girl scampering for bandages from the medicine box.
+
+With the water changed, kibble filled and litter replaced, she doom-scrolled for a while with Mr Chin on her lap, purring like an Aston Martin V12.
+
+In her Mail App, Filmore replied that both Valorie and Zara would follow her lead. As such, Johnny Kimball Live! was tentatively booked for Tuesday, May 27, after Memorial Day.
+
+On her Message App, Valorie’s group chat assumed, without their consent, that they would be meeting for a luncheon, this time at a place that sold rainbow pancakes.
+
+Zara was in Fresno, spending the weekend with Luciana and the baby, leaving the remaining trio of their coven to gather at the cafe for chit-chat. Fifteen minutes in, Eppie was already wishing they had something better to talk about than William—but, invariably, that was where the conversation landed.
+
+The news from Val’s Seniors was that William was giving out presents.Very generous gifts from camera equipment to gift cards, thanking his crew for their contribution to his final project.
+
+The news from Simone told her that William was giving out presents to the uncles in a desperate attempt to make amends. According to their hei-mei-mei, the boy had spared no expense with expensive cognac, ginseng supplements, and bribes aimed at the aunties, ranging from facial serum to washing machines.
+
+“Should we be worried?” Simone said nervously.
+
+“No. I mean. It’s a good move, but it won’t make a difference,” Eppie told them the truth. The best way to shore up shallow relationships was to give shallow gifts because, in reality, the everyman’s moral capacity struggled to surpass the volume of a 4kg Miele tumbler.
+
+Besides… Eppie knew better than anyone that in Chinese culture, “money” was a matter of comfort, while “face” was a matter of life and death.
+
+Right now, some aunty in Chinatown might say, “Ai-ya, why you not be more like the Chen boy? Tall and handsome, studies well, and he's making movies…”
+
+After D-Day, the aunties be like “You be like that Chen Pok-gai, and I will CHOP OFF YOUR DEAD MAN HEAD.”
+
+Good luck, Willy… Eppie raised a glass to bemoan Willikin’s reputation.
+
+Valorie paid with her family-issued Amex Black, and Eppie chose not to be beholden to material gifts from their material girl.
+
+When Monday rolled back around, Eppie walked from the quad to the Old Music Building, from the Main Building to Whitman’s Complex, her eyes scanning the grounds for William Chen. From now to D-Day, there were thirteen days, and yet, William was still labouring to premiere his film, keeping mum about his willingness to come clean.
+
+Shouldn’t her [Usurper] be starving? Eppie bit her lips as she wandered between the dorm and the Stray Cat Society basement.
+
+Or had William simply accepted, like that asshole Hamlet, that the rest is silence?
+
+Hell Week began, and with it, the individual showcases.
+
+Zara Arriaga came back from Fresno still hearing Paco's voice correcting the same four bars he'd made her repeat for two days straight, the same golpe he swore she was rushing no matter how many times she counted it out loud. She was ready, or as ready as she'd ever be, to close the final chapter of her life at LAPA.
+
+This would be the last showcase two-thirds of them would ever perform, if the rumoured statistics were true.
+
+Zara hadn't taken a slot at LAPAGANZA itself. It felt wrong, somehow, sitting a signed artist down in a seat some Sophomore had been dreaming about since September. She didn’t need LAPA’s stage. Thanks to Eppie, there'd be other stages for her for the rest of her life.
+
+Even now, she sometimes woke up dreaming of her friend's baby blue eyes, waking to the timeless chords of In the Pines, wondering if Eppie was the girl in the woods, waiting to be found. Just how could she pay Eppie back?
+
+Could she even? At the thought that she would never do for Eppie what Eppie had given freely and without debt, her heart grew sore.
+
+This, and other reasons like it, was why her showcase piece would be soleares instead, one that was folded quietly into the ordinary calendar of individual Showcases like everyone else's. Hers would continue the diaspora of her mother’s Andalusian tradition; it would be a song built for exactly this moment. The end of her adolescence.
+
+Zara Arriaga took a deep breath, then emerged from the dark toward the pool of light at the centre of the stage. She saw forty seats, every one claimed, behind which the door was propped for the overflow. She'd underdressed on purpose—a navy band tee sliding off one shoulder, boots laced high, minimum makeup, no statement clothes. Let the last thing LAPA remembered be the guitar, not the girl from the video.
+
+She scanned the crowd once, fast, her amber orbs glimmering, and found Euphemia wedged sideways against the far wall, having apparently fought her way in through sheer will and a talent for making herself small. Something in Zara's chest loosened.
+
+Her mouth shifted from a nervous smile to effortless joy without conscious intervention. Someone nudged Eppie with an elbow. Eppie nudged them back hard enough to shift the seats.
+
+Zara bowed to the folding table—Dr Ford and two of her instructors, pens capped, waiting—then took her seat in the spotlight, adjusting the guitar against her body like a familiar limb, and began.
+
+The thumb came first, walking the bass strings slowly, testing how quiet she could make the room go. Then the rasgueado, four fingers unfurling in fan strokes, each one landing exactly where Paco had drilled it. She simultaneously performed a staccato golpe against the soundboard—her technique clean, correct, untouchable.
+
+The picado runs came next, index and middle blurring across the high strings, faster than the room's held breath, her shoulders dropping into the galloping flow, her golpes landing harder, the compás quickening under her like a pulse she wasn't fully in control of anymore.
+
+Then came the climax, and though her fingers remained confident, her heart did not. The feeling—the true feeling of soleares—was absent. El Duende was something Uncle Paco had never once needed to chase. It was a part of him, his past, his youth. It was the regret that scarred him for life, which he allowed to bleed into his music—it was why Paco was without children.
+
+Sighing internally, Zara drove the cierre to the edge, five fingers detonating across the strings at once, then cut it dead with a flat hand, silence slamming down harder than the chord had.
+
+Applause, thunderous and blistering, cracked open around her, a beautiful celebration of her lie of a performance.
+
+She looked at Eppie, clapping with all her heart. Paco once told her, five tequilas deep, that happiness had a cost. Zara knew now that the cost of her happiness was her soleares, for how could Zara channel the music of solitude, loss and loneliness when every day was a blessing?
+
+Nine months ago, she was tutoring Sophomores in guitar work. Nine months later, she had a tour taking shape with Antonio that would stretch from coast to coast. She had a viral music video. She had a contract with one of the world’s largest music producers, and she had two charting songs before she had even graduated.
+
+Watching her friend across the room light up with unadulterated joy, Zara thanked the Redeemer for blessing her with genuine, uncomplicated joy.
+
+As though in a trance, she walked down from the stage, past her Proctors and into Eppie, and allowed the room to misread whatever the hell it wanted.
+
+Dr Ford waited with patience for them to part, then, smiling from ear to ear with a hand extended, shook her hand. "Extraordinary technique, Miss Arriaga. Genuinely extraordinary."
+
+He then looked at Eppie, shook his head as he’d done at the arrangement of In the Pines, and told them both with absolute sincerity that, “You both have an incredible future ahead of you. LAPA wishes you all the best, girls…”
+
+Then Ford smirked sheepishly and asked if they could both sign his staff yearbook.
+
+Eppie’s signature was grand and elaborate. Zara’s, in comparison, was meek and subtle, but perfectly blended into Eppie’s sprawling loops and curls.
+
+Tuesday morning. After a long night of celebrations with Zara’s family at El Cid, sans Sangria, Eppie was informed by Maddy, via text, that Dream a Little struck its ceiling in the iTunes top 20 and was now falling rapidly in the rankings. The song, a ballad of girlhood, clearly wasn’t destined for the top 10—that pole position belonged to another of Universal’s pop sensations—after Doves Cry did its multi-week number. Nonetheless, their music video had achieved something no chart position could measure.
+
+Dream a Little’s organic popularity wasn’t something marketing could cook up with money. Be it nostalgia, the unusual aesthetic, the song itself, or the uncommonly pretty girls triggering unwary viewers’ neurons, people were forwarding it to their friends, their aunts and their old school buddies. It was nostalgia for the late 80s and early 90s, made for folk who still vividly remembered the Halcyon days.
+
+The view counter’s growth remained exponential, as were the comments. The result had been so unexpectedly blessed that Merric Webber had been summoned by Sony Pictures for a long table discussion of his future career.
+
+As for Eppie, she was sweated out in her theatre black, vainly browsing her own video at the back of the Whitman’s.
+
+Drim_cat: omg wait why are they both so pretty im actually not okay right now i keep pausing it just to stare i dont even remember what the song sounds like anymore help
+
+xxdramaqueenxx: i would legit die for both of them the blonde one AND the guitar girl like where do i sign up to be their friend im obsessed fr
+
+NatEllake: The interval work in the harmony during the bridge is genuinely impressive. Most duets this age default to unison or simple thirds, but they're voicing something closer to a real arrangement. Whoever wrote the vocal parts understands music theory far better than the average teenage cover artist.
+
+sk8terboy94: @NatEllake is that really YOU?! I Love your work man! this made me think about my best friend from like 3rd grade we dont even talk no more idk why this hit so hard
+
+Lunaluna: reminds me alot of me and my old best friend growin up down the street from each other, we lost touch after she moved. this kinda made me tear up not gonna lie
+
+filmnerd_LA: The direction on this is actually insane. Webber is gonna be a huge deal one day, mark my words.
+
+She read about thirty of them before questions kind of converged into the very thing Webber intended—ambiguity.
+
+“Is it just me, or are they—”“Okay, but the basement scene…”“I refuse to believe these two are 'just friends.’”
+
+The only problem now was that the folks at LAPA looked at Zara with undue expectation. It wasn’t unkind, which put Eppie at ease, but it did make Chelsea’s LAPA recording of her sitting on Zara’s lap go viral.
+
+“It was Webber’s concept… It was just acting…” The same answers floated above the girls at every greeting. The Freshmen were the most enthusiastic, while the Seniors cared not.
+
+Whatever the case, Zara’s final showcase had become a LAPA legend. Students who had zero interest in Spanish guitar were suddenly sprouting phrases like rasgueado, learning phrases in Basque, and watching flamenco in their spare time.
+
+Eppie was thankful she had arranged her schedule so that she had no showcase of her own. Her Sophomore credits were technical, and she had already received her acting credits via her understudy rehearsals.
+
+Feeling fulfilled, Eppie summoned her [Potential] to ease her mind.
+
+Close. So close.
+
+Twelve days to D-Day. She was very, very close.

@@ -1,0 +1,527 @@
+---
+id: 205c79f9-ea55-5db5-acb3-d8579348cd1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 202 - Blood"
+slug: 0022-chapter-202-blood
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 22
+ownLength: 5954
+unit: words
+ownProgress: 5954
+publishedAt: 2022-11-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1050766/chapter-202-blood"
+royalRoadId: "1050766"
+markedReadAt: "2026-06-29T19:36:00.269Z"
+---
+
+Tali woke up early, before the false sun had brightened to announce the coming of a new day.
+
+With a thought and a flick of her magic, her nightwear retracted into a band around her neck, beneath her saorsa-collar.
+
+With a simple aspect-mirror, she pulled the magical effects of her clothing that allowed it to be self-cleaning onto herself. She did a few little hops, and circular movements of her appendages, before bending forwards and shaking out her hair.
+
+She pulled her comb from her side table and ran it through her hair, only needing one stroke per section of hair to detangle it and get the last vestiges of unwanted things from among the strands. She then braided it starting near her left temple, going across the back of her head, and ending at the base of her neck on the right side, so that the braid would hang over her right shoulder.
+
+This was a familiar routine, so there wasn’t very much dust or grime to rid herself of. Still, she felt cleaned and refreshed after the short ablutions.
+
+Tali flicked out her magic once more into the band around her neck, not the collar, and it grew into her standard outfit: a set of blood-red leathers, molded to her form, but by no means tight or restrictive. They were more modest than those that some other Eskau wore.
+
+You’re not one, yet, Tali. Don’t get ahead of yourself.
+
+For some reason, she paused, as if awaiting a response, but one never came.
+
+Of course not, fool. You’re not speaking. She shook her head. It was one of the unfortunate artifacts of her accident that still lingered, even so many months later.
+
+Her cleansing and dressing done, she took a moment to look over her surroundings.
+
+She was in a plain room, just as she liked it.
+
+Quick motions left her bed neatly made, and ready for her to return that night.
+
+The bed was firm with a simple blanket atop the straw mattress.
+
+The House’s holding didn’t ever get truly cold, so more wasn’t really needed. Not that I would need more blankets, even if it did.
+
+She pulled her dimensional pouch, her bloodstar rack, and protian weapon from her bedside table and put them on her belt. The weapon and pouch hung to counterbalance each other and her bloodstars went across her low back.
+
+Getting ahead of yourself again, Tali. It’s not a protian weapon, and Master’s choice ensured it never would be.
+
+Even so, she hung the morphic weapon from her belt.
+
+It could change shape as all protian weapons could, but true representatives of those glorious creations could take the form of any melee weapon, as well as near infinite variations there-in, hers could only assume the shape of three.
+
+Protian weapons were also all vestiges, each containing and powered by a human soul to ensure that the Eskau that wielded them were never without magic to bring about the will of their Masters.
+
+But, instead of crafting me into such a weapon, and finding a warrior to wield me, Master broke tradition, and chose me as both weapon and wielder.
+
+He had lifted her from one sacred duty to another, one beyond even the dreams of her kind.
+
+And then she’d been injured.
+
+Courage, Tali.
+
+A simple blow to the head had scrambled her mind, fractured her memories, and set her training back significantly, when the Master’s trial was so close. The healing hadn’t even been complicated, but the warrens of the mind were labyrinthine, and the healers, and even Master himself, had not been able to restore her fully.
+
+She shook herself, leaving her windowless room behind.
+
+She had no need to lock the door.
+
+Even if she kept anything in the room itself, no one would violate another’s space within the House’s hold. Even her Master’s greatest opponents within the House wouldn’t break that taboo.
+
+Even if I am a human. Even if my very existence violates tradition and my every footfall in this place pushes up against propriety.
+
+She turned her thoughts back to her training as she took the short walk through the water gardens to get to her training platform.
+
+There, among the life and beauty of the garden and surrounded by water, was a stone circle that was twenty feet across.
+
+Tali had to cross a bridge to reach the stone, one of several that connected around the circumference.
+
+Several trees grew up from the water between the bridges to offer some shade to the space, regardless of how the false sun was used to bathe the hold with light.
+
+She was just grateful that her magics allowed her to see well-enough to navigate in the dark of simulated night.
+
+In the cool of the early morning, as the sky began to brighten, Tali moved through her stretches, then strengthening exercises, and then onto her morphic weapon techniques.
+
+She both hated and loved going through the forms.
+
+She loved them, because she should have been forbidden from learning them. They were a treasured set of sacred techniques designed specifically for use with morphic weapons. The Way of Flowing Blood was restricted to the Pillars of the House, their Eskau, and those who were to be tested for one of those positions.
+
+Even being able to see them would have been an honor, and she had been granted the honor of learning them, herself.
+
+She hated the forms for two reasons. First, she did not have a true protian weapon, thus the techniques had needed to be modified for her to use them with her own morphic weapon. What she had learned was a broken, cobbled-together imitation of the true beauty laying forever outside her reach.
+
+Second, ever since her accident, the movements had felt unfamiliar, like she was trying to control someone else’s body. Only now, nearly six months after the blow to her head, was she finally back to a state of feeling in control as she moved through the liquid stances, blocks, and strikes.
+
+The Way of Flowing Blood was a thing of near-sovereign mastery, requiring movements that no unenhanced being could possibly hope to use effectively, just as it utilized the morphic weapon in a way that no mundane weapon could ever stand in for. Though, in her case the weapon was more limited than ideal.
+
+Still, she did have one advantage that no other Eskau had ever held.
+
+As her body settled into the rhythm of the techniques, her bloodstars rose from her belt, moving in complement with her physical form.
+
+I may not have a protian weapon, but I am not lesser.
+
+Aside from the single drop which she used to give herself the equivalent of eyes in the back of her head, the remainder of her thirteen bloodstars were embedded in groups of three within three round discs of an unknown material, as well as a single within a sphere and two within a rod of tungsten.
+
+Master had provided the housings when he’d come that fateful day. He’d provided so much then and even more since.
+
+She let her mind wander as she used the combat techniques as a form of meditation.
+
+She had been ready to become a fount, bound within her soul-bound weapon in more ways than one. She would have become the power source within a protian weapon, a thing of legend, which would have defended the Master and added to the glory of the House for millennia. She could not have conceived of a greater honor.
+
+Her imagination had been lacking.
+
+He had not only offered to raise her to Bound, and then to Fused, but he had asked if she wished to be trained up to be his Eskau, his enforcer, the hand that brought about his will both within and outside of the house.
+
+She had wept with joy.
+
+No human had ever even been given the chance to become such.
+
+It had been more than that, though. A Pillar of the House was only raised to that position, if their chosen Eskau was proven worthy. The potential Pillar's greatest test was whom they put forward, both in the quality of the protian weapon, and the skill of the Eskau who wielded it. He had chosen her for both.
+
+She would not let him down.
+
+She had dedicated her every waking moment to rising to equal his faith in her.
+
+But then, the accident.
+
+She winced internally, but held perfect form, not pausing in her fluid movements. Her discs, the rod, and ball, all moved around her in perfect harmony with her body, protecting the largest holes in her defenses, which would otherwise be exposed by each technique.
+
+As she reached the end of the final form, her body singing with the pleasure of the kinesthetics of the movements, she heard light clapping.
+
+In horror, she felt the color drain from her face.
+
+She could see him, now, obvious in her perspective through her bloodstar, floating near the base of her skull.
+
+She spun, dropping into a kneeling bow. “Master. My apologies for keeping you waiting.”
+
+“Your apology is acceptable.” His voice was wonderful, a joy to her ears. It reminded her, somehow, of the sound that the blood of their enemies would make as it flowed across a dry riverbed.
+
+“You are kind, Master.”
+
+“And you are wise to recognize that. Lift your head.”
+
+Tali did so.
+
+“It is time for breakfast, and there is something we must discuss.”
+
+Her heart hammered within her chest, one thought dominating her mind. How will he let me serve him, today?
+
+The Master clapped his hands twice, and servants came forward, bearing heaping trays of food.
+
+Tali could easily see the power radiating from each dish, even if not each servant.
+
+Only one of the servants was human, and he was gateless, beneath notice. Still, he bore her pitcher of ending-berry juice, so she allowed him to approach and set it beside her.
+
+The other servants were a mix of Low races, called such for how difficult it was for them to draw in and maintain magical power. Even such as they were, they were still above the gateless human.
+
+She once would have taken time to identify each one, reveling in their uniqueness, but she was a long way from her upbringing. After all, she had been born with a gate, a gift from the sovereigns themselves. That had been her ticket away from her humble beginnings.
+
+It was her gate and the Master’s benevolence that had brought her here.
+
+She hid a contemptuous smile, keeping her face appropriately neutral.
+
+These creatures were beneath her, in truth.
+
+Where they would struggle to draw in power, she created it.
+
+Where they would lose their magical density almost as soon as they left a region with high amounts of power, Tali could contain and increase her magical weight even in zones of absolutely no magic.
+
+Simply put, she was better than them.
+
+And the Master was higher still. As her eyes flicked to him, checking to ensure she didn’t displease him with a gesture or glance, she marveled at the wells of power he so casually carried with him.
+
+He was easily capable of hiding any from prying eyes, but she could still see three vestiges, displayed for any with the eyes to see.
+
+A glove, on his left hand; an undershirt, beneath his tunic; and the light boots on his feet all radiated power.
+
+Tali’s one regret about her elevation to potential Eskau was with the knowledge now, when her service was complete, she would never be able to become a source of power, within a vestige. My service will one day come to an end.
+
+She hated the very idea, even while she gloried in the opportunity she had to serve, now.
+
+When the food was laid out around her, the servants departed without a sound.
+
+Tali took a moment to take in the spread. The meats came from creatures of magic known for their physicality. The fruits and grains from plants that held magics complementary to her own.
+
+Everything laid out before her would make her better, more than she could be without the added might.
+
+Such were the continued blessings bestowed upon her by her Master.
+
+Without a word from her Master, Tali began to eat.
+
+He nodded approvingly; he had no patience for dallying. Besides, the food would lose power by the minute, if she delayed.
+
+“Good, good. You are still recovering well. I am gratified to see that you have finally settled into the Way of Flowing Blood.”
+
+Truthfully, it had finally felt natural for nearly a week now, but it was of little consequence. So, she felt no need to correct him.
+
+Even so, it was a reminder of how far she’d fallen before her recovery. She did her best not to wince and nodded her thanks.
+
+“I am grateful for this, as a date for the next clash of candidates has been set.”
+
+Tali froze at that, swallowing and then taking a quick drink of ending-juice to clear her mouth. “Master?”
+
+“Tomorrow.” His true black skin bunching up as he sneered. “They thought to unbalance us with last minute notice, but you will perform as I need you to.”
+
+“Yes, Master.” She went back to eating, all while keeping her attention fixed on him so as to not miss a word.
+
+“The other potential pillars will be arriving today with their Eskau candidates. I think it best if you are not within the hold when they arrive. They should not try anything…unworthy of themselves, but I’d rather not risk it. You will return this evening for the feast, and tomorrow, you will fight the five others. As you know, the dominant Eskau will earn their master a place as a Pillar of our House.”
+
+She knew that all too well. The candidates were allowed to use any method to gain mastery. Diplomacy, both beforehand and in the ring, were encouraged as a true Eskau needed such skills to be effective.
+
+In the past, such clashes had been solved by games of strategy, clashes of wit, or other games of skill, though that was rare, because it was a rare warrior who would trust their fate to anything but the blade.
+
+In truth, the losers didn’t have to die. In fact, those who were beaten, or who surrendered, were often added to the followers of the victor. In that case, the master of the candidate was usually offered a position under the new House pillar. But that was not always the case, and the losers were always at the mercy of the victor, no matter how such a victor came to be so named.
+
+Tali had no delusions of surrender and peaceful service being an option for her, or her Master.
+
+Not only was it her Master’s wish that she claim utter victory at any cost, but her existence would not be tolerated if she failed. It would barely be tolerated even if she succeeded, but she could secure her Master a lauded position as a Pillar at the very least, regardless of how her own status was perceived.
+
+Tomorrow would be final victory or painful death.
+
+Finally. I can finally live up to my purpose.
+
+“Now,” his voice pulled her back to the present moment, “how is your head, today?”
+
+Tali did shrink in on herself at that question, even if just a bit. “I am well. I’ve not had any pain, nor has the monitoring script activated.” It was a great shame to her that Master had been forced to add scripts to monitor her consciousness after the accident. Even worse, they had been fundamentally integrated with her mental enhancements. They could never be removed.
+
+She would carry those marks of her failure, forever.
+
+Power did flow through the script, but it was in a dormant state. Master had explained that any lapse of consciousness, save falling asleep, would trigger it, and given her shaky health, that would likely mean that her service was at an end.
+
+She would do anything to prevent that script from activating.
+
+“Good. Any odd memories, or lapses in your understanding?”
+
+“No, Master. Does that mean you can remove your working?” There, nestled within her mind was a powerful spell-form, enacted by her Master rather than being an additional inscription set within her own flesh.
+
+It contained a massive amount of knowledge that she should have, but which was made suspect by the accident. Whenever she encountered a situation where her knowledge was lacking, that working would provide the information she needed to not embarrass her Master or the House.
+
+She hated it.
+
+Like so many things of late, it was a constant reminder of her failure, and she strove, daily, to fill in the gaps, which should never have been there.
+
+Master shook his head. “No. It will remain. I built it to come apart when you have no more gaps to fill. Then, and only then, will I consider you fully recovered.”
+
+“Yes, Master.” She quietly resolved to increase her studies, to end the need as soon as possible.
+
+“Finish up. We must reinscribe you, and then you will spend the day in the city.”
+
+She nodded and began to eat once more instead of replying verbally.
+
+In order to honor Master’s time, Tali stopped breathing and simply ate as fast as she could stuff the food down. Her inscriptions would handle it from there, and they were about to be refreshed, so that wasn’t an issue.
+
+In less than five minutes, she polished off the last of the feast. She returned her breathing to normal at that point. While she didn’t require breath, it did use her inscriptions to go without, so she kept up the habit when reasonable.
+
+Without need of instruction, Tali stood, commanding her clothing to retract back into the band around her neck, below the saorsa-collar.
+
+Her pouch, bloodstar storage, and morphic weapon fell to the stone.
+
+She lifted her arms and held them straight out before she spread her feet so that they were shoulder width apart.
+
+With a flex of will and power, she deactivated the inherent protection within her garments. The magically created defense was such that it would protect her, regardless of how much, or how little, of her body the clothing covered.
+
+The final requirement for her to fulfill was to manage her magic. First, she pulled all of her power out of her scripts and stoppered her gate. Then, she had to take all the magic that she had just consumed and hold it in suspension.
+
+Master used to do the reinscribing before she ate, but that changed as she recovered, and now it was a test and training in one.
+
+“Be Reinscribed.” With a casual motion, her Master flicked his hand forward and gold wire streamed seemingly out of nowhere, though Tali knew it came from Master’s dimensional storage.
+
+Silver and copper joined the gold, but in far smaller quantities.
+
+As the wires approached her, they branched out, each branch getting smaller and smaller, until each was the size needed. In some cases, that was so thin that she couldn’t see the filament even with her enhanced vision.
+
+Then, the pain came.
+
+All across her body, the metal breached her skin. It was only by Master’s magic that it could do so. Even without active power running through her, her body was enhanced to the point that it took a lot to cause her harm.
+
+But now, she was being pierced in uncountable places all at once; no part of her spared.
+
+It was only through monumental discipline and self-control that she kept all parts of herself from moving, any muscle from tensing.
+
+Master was simply following the inscriptions that were already in place, so there was no chance of error, assuming she didn’t move.
+
+So, she didn’t.
+
+If she’d been asked, she’d have assured the asker that her Master’s magic didn’t need her to stay perfectly still, but he’d asked her to try the first time he’d inscribed her, and so she’d made it her mission to be as perfect in following the request as possible.
+
+In less than a minute, it was done.
+
+Her skin was covered with a sheen of sweat and blood, but as she released her power, her body healed nearly instantly. Blessedly, none of the damage was too extensive, so it only took a couple of days’ worth of energy and nutrition from her reserves. I’ll make that back up with lunch.
+
+A quick aspect-mirror and a few hops caused the blood and sweat to fall free, leaving her clean once more.
+
+“Come.” Master turned and walked away, not glancing back to ensure she obeyed. She couldn’t help a small smile from blossoming across her face at his confidence in her obedience.
+
+As she scooped up her items and returned them to her belt, she briefly noticed the blood-splattered, dirty remains of her feast. I hope they clean this up before I get back.
+
+Without another thought, she followed after, her clothing regrowing as she walked.
+
+She knew their destination. To go out into the city, she would need a key-ring. It was a familiar requirement and process, but she still stayed a step behind her Master, flanking him on his left.
+
+He didn’t correct her, so she knew that she’d chosen correctly, and her smile grew.
+
+Of course, they went to the armory.
+
+As the heavily inscribed doors opened, power flooded outward in a wave.
+
+The two of them stepped inside quickly, closing the door behind them to keep the power as contained as reasonable.
+
+With the odd woosh-click of a sealing airlock, Tali and her Master were sealed within.
+
+She glanced around. While she couldn’t come here whenever she wished, she’d come often enough that it no longer made her knees weak to behold the wealth of the House.
+
+Nearly every item within this sacred vault was a vestige, powered by an honored soul who would serve the House of Blood for eternity.
+
+Tali winced internally, losing some of her smile with the thought that she would never be among them. Her service would, one day, end. Master made his choice, and I will honor it. There is no turning back now.
+
+They walked past a rack of non-morphic weapons, though they were anything but mundane. Each held immense power, and each was a deterrent to their foes, to be wielded by trusted guards in the case of an armed conflict.
+
+Pieces and suits of armor filled one wall on carefully organized racks, most were single items powered by a single soul, but one suit stood separate, each piece was powered individually. Regalia of War.
+
+A House was measured based on how many elite warriors it could bring to battle at need. The House of Blood could field twenty, though only one came from this branch, from this hold.
+
+And Master will become the second, tomorrow. She would make it so.
+
+In a side room, items of a non-violent nature were housed, including the key-rings for the hold.
+
+“Taigh, we need one copper key-ring.”
+
+The column in the corner of this side room flared to life. Within it was a fount of tremendous power, nurtured for millennia, slowly having its flowrate expanded until it could be the heart and literal soul of this hold.
+
+The column contained the inscribed, pseudo-intelligent interface, which governed the magics of the hold.
+
+“Greetings, Be-thric, potential Pillar. Authority recognized. Whom do you wish to bind the key-ring to? It would be useless for you, unless you then gave up your gold.”
+
+“The ring is for this one.” Master pointed to Tali.
+
+“Understood.”
+
+A side case opened, and a copper ring floated out.
+
+Tali extended her hand as she knew was needed, and the ring slipped onto it, tightening to match her finger’s size. The result was that the ring was wider than it had begun, but now it would not come off without the removal of the digit.
+
+Magic flared and inscriptions appeared, impressed into the inside of the copper, against her skin.
+
+“Request complete.”
+
+Master turned to Tali. “Begone. Do as you please until third bell after noon, then return to attend me for the feast.”
+
+She bowed low. “As my Master commands.”
+
+They exited the armory together, then went their separate ways.
+
+Tali strode with purpose through the hold.
+
+Low race servants scampered out of her way, Mid races bowed at her passage, and Tali, herself bowed to and stepped aside for the High race members of the House.
+
+Each has a place, and in our place, we thrive.
+
+One way or another, after tomorrow, she would bow to no one save the Pillars ever again.
+
+She came to the massive front gate of the hold and held up her key-ring.
+
+The magic defending and sealing the entrance recognized the authority of the device, and opened for her, allowing her to exit through a small, person-sized door set into one side of the gate.
+
+She quickly dove into the magic of her clothing, and guided it to form the crest of the House of Blood on her upper, left chest. She surrounded it with a copper braid to denote her status as a candidate. With that done, and a deep breath, Tali stepped out of the hold, and into the District of Doors.
+
+The street wasn’t crowded, but it was far from empty. A large part of that was how tightly compacted the population was in this, wealthiest of districts within the city of Platoiri.
+
+Here, the Houses had their holds, and the wealth of each House was displayed by how large they were able to afford to have their door.
+
+The door for the House of Blood’s hold was the largest within three blocks, the other doors around them leading to the holds of minor houses, merchants, or even master craftsmen that either were allied with the House of Blood, or who were hoping to be.
+
+The power was palpable in the air, even though each hold would have been made as efficient as possible. The net result of so much magic being used in close proximity made this the most magic-dense part of the city. Hence its prestige.
+
+Tali grinned to herself at the circular nature of the thing. More doors meant more power, which made the district more desirable, so more people wanted to have their holds there.
+
+We are a funny lot.
+
+She turned and walked towards the market district and food. No need to wait until lunch.
+
+As she walked, she moved the power within her, gathered through her breakfast. She guided it to overlay the matching scripts within her, reinforcing and augmenting their enhancement of her physicality.
+
+The ending-berry power was especially intoxicating as it rendered her nearly invincible, though it was notoriously less than reliable in defending the integrity of a brain.
+
+Ancient humans had used ending-berry power to foment several rebellions, and so she’d been reluctant to use the power due to the association, but Master had insisted that it was too useful a tool to ignore. She had, of course, acquiesced.
+
+The people moving around her were of uncounted races. There were beast folk of all kinds and hue folk of all shades, as well as others that didn’t fit as nicely into broad categories. The races she could see ranged from Low to High, though they all appeared similar to her magic-sight in the dense power of the District of Doors.
+
+She even saw a few humans, though they stuck to the sides of the road, staying out of everyone else’s way. None had gates.
+
+She was the only gated human she’d ever seen in person, outside the shaping ground.
+
+Gated humans were the most honored of servants to the houses, but that honor brought with it very tightly regulated responsibility. She was unique.
+
+Unfortunately, that meant that a lot of others noticed her, and stared at her, wherever she went.
+
+Her obvious house crest kept most trouble away, but most creatures didn’t have the perception to see her as anything other than simply human.
+
+It was a short walk to the near-edge of the market district. The proximity of all the amenities was another benefit to the District of Doors.
+
+In the center of the market district stood the city’s core.
+
+More than a thousand founts, bound together and cultivated to empower the city and all the services that it provided.
+
+Beautiful.
+
+Tali couldn’t help but stare in awe at the monument to magical advancement.
+
+Unfortunately, today it was marred by a group of gateless humans, wearing rags, scrubbing the street clean.
+
+It was meaningless, demeaning labor, reserved for those who had tried to upset the status-quo. That close to the city’s founts, magic could clean the streets without any loss to anyone.
+
+Tali looked away in shame. How could any of her people, however distantly related, not see the place of honor that humans held in society?
+
+Nothing in modern life would function without the gift of service gated-humans offered.
+
+Fools.
+
+It seemed like some others shared her views, even if not her reaction to them.
+
+There were some hecklers, and a few people got rough with the humans, but since they never fought back the aggressors usually moved on quickly. There were laws, after all. One couldn’t go around beating the defenseless.
+
+And the law considers anyone of a lower race to be defenseless before those of the upper.
+
+Still, all violence wasn’t prohibited. That would just be unreasonable. Over the top abuse was curbed, and since the humans weren’t fighting back, anything more than a few bruises or broken bones would have been dealt with harshly.
+
+Order must be maintained.
+
+Shaking her head, Tali approached a rather busy food stall, working her way through the crowd to place her order, passing over a few coins before accepting a massive platter of meat.
+
+Those around her gawked at what she was carrying away, but no one stopped her. At least not until a large, teal skinned man stepped in her way. Unfortunate color, that.
+
+Still, he hadn’t picked his birth, and the hue folk came in all shades.
+
+Regardless, it seemed like she was going to have the opportunity to demonstrate the power of her house once again. It was quite common for something like this to happen whenever she went into the city. Her rank in the House of Blood, along with her obvious humanity, made her look like an easy target to bring shame to her House. It was occasionally inconvenient but hardly new or difficult to deal with.
+
+I do wish they’d waited until after I ate to challenge me.
+
+“Getting food for the other rabble, girl?” His voice was smooth, like ocean waves on a shallow beach.
+
+What? She glanced down. She was indeed carrying enough food for a large group, but it was all for her. She also noticed that her burden was blocking the sigil on her chest. That changed the situation. “No, I-”
+
+“Are you correcting me, filth?” He went to push her, but she fluidly stepped to the side, letting her foot linger just long enough to trip him as he passed her.
+
+He fell with a cry of alarm, groaning after he hit the ground.
+
+She looked down to see if he was all right, inspecting him closely. After all, she didn’t want to be in violation of the law, and if she’d accidentally caused him to die from a simple fall to the paving stones? That would be quite the embarrassment on her Master’s House.
+
+She shook her head. “No, I was just trying-”
+
+Her focus was fully on the downed man, she was comfortable with her surroundings, thinking he was a lone actor. As such, she didn’t react when his friend stepped from the crowd behind her, even as he brought a heavy wooden chair down towards her head.
+
+However, Tali was not a fool, nor was she some waif of the street.
+
+She was an Eskau candidate.
+
+She contemplated drawing her weapon and cutting the attacker in half, but this was a misunderstanding, and she might get blood all over her food.
+
+She was hungry.
+
+So, I shouldn’t kill them.
+
+She could have stepped aside, but that might actually let the attacker hit his friend with the chair. As humorous as that would be, it might actually end up with the one on the ground being killed. If that happened, there would be guards involved. Worse, they might need to contact her Master, and there was no chance she was going to let him be disturbed with his peers arriving at the hold.
+
+No, this was an opportunity to show her strength, the strength of her house, and her own wisdom in handling such a situation.
+
+I could just let it hit me. That would do basically nothing to me, and it would send the message loud and clear.
+
+She almost did just that, but then sighed internally. That was foolish, and if he had some sort of magic to empower his strike, it might backfire. Taking the risk was careless, and careless people died.
+
+Fine. I’ll block. Doing that should give them pause, then I can correct the misunderstanding and get on with my day.
+
+That decided, she almost lazily brought her left arm up to block.
+
+She could stop heavily inscribed maces with that block. The chair stood no chance.
+
+But, the chair wasn’t metal.
+
+It wasn’t even inscribed.
+
+It shattered on her arm, allowing the back supports, still being driven downward, to slam into the back of her head with almost no loss of power.
+
+The teal man behind her was obviously heavily magically enhanced for strength as well as other things, but even that wouldn’t have been enough to defeat the protective net of magic, originating from her clothing, defending her head.
+
+Unfortunately, as the wood turned to pulp against her defenses, power flared within the hue folk’s arm, and the energy of the strike shifted.
+
+Tali’s eyes widened in recognition of the spell-form even as it activated, while she watched through her bloodstar’s mirrored perception.
+
+The old-growth hardwood held together more than well enough to impart a great deal of energy, which the man’s power carried past her defense to strike her a thumping blow.
+
+Anywhere else, she might have been bruised. A strike to her head, however?
+
+Ru-
+
+* * *
+
+Tali hadn’t even slumped in the instant after she’d been struck. Her vision had barely flickered black.
+
+That was close. I thought that had gotten through, somehow.
+
+A pulse of power exploded from the base of Tali’s skull.
+
+-DING-
+
+A sound, almost like a bell, hummed through her thoughts, and she found the note calming, or it would have been if she hadn’t had a strong guess what it meant.
+
+Then, her own voice came to her, as if she were thinking, though she didn’t ever truly consider that the voice might be her own thoughts.
+
+-Consciousness lost for 0.004 seconds due to blunt force…WHAT THE RUST!?!?!-
+
+Tali twitched from the internal scream.
+
+-Major deviations in consciousness detected. Active conflict detected. Battlefield patch initiated.-
+
+What? No. No!
+
+* * *
+
+Tala shook herself clearing her head after whatever had struck her.
+
+Wha-?
+
+-No time. In a hostile situation. Get somewhere safe, then we’ll talk.-
+
+Tala took an eternity packed into a single heartbeat to perceive the world around her, assess her situation and decide a course of action.
+
+In the end, she spoke one word. “Rust.”

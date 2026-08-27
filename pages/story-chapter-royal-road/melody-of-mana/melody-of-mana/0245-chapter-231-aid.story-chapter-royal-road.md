@@ -1,0 +1,109 @@
+---
+id: c169704d-ae7d-5272-acc6-53b243c0a6c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 231 Aid"
+slug: 0245-chapter-231-aid
+partOf: melody-of-mana
+position: 245
+ownLength: 1674
+unit: words
+ownProgress: 1674
+publishedAt: 2023-04-26
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1193074/chapter-231-aid"
+royalRoadId: "1193074"
+markedReadAt: "2026-06-29T22:34:17.742Z"
+---
+
+The waystation girl had left us to go and gather the other workers here.  There were only six in total, all of which were aware of the gate, for now though we needed to look at all the assets we had.
+
+"You handled that poorly," Ulanion said.
+
+"Excuse me?"  I gave him a bit of a glare, but at his gaze I faltered a bit.
+
+"You made an enemy of that woman when you didn't need to, and now we need her help.  You handled it poorly."
+
+I hated to admit he might be right, but... "She was snippy, and I didn't have time..."
+
+"There was plenty of time Alana, more than enough to remain calm and polite, and let her screw herself if she got in the way."  The judgment in his eyes was harsh, and I found myself unable to meet them.
+
+"Crap," I said.  "Any advice?  This is my first time really in charge of something this big..."
+
+"When the others arrive apologize, then act properly.  If she continues being unruly she will look like the one who's out of line," he said.
+
+I had to sigh.  "Okay, sorry for screwing that up."
+
+He leaned over and gave me a kiss on the cheek.  "We all make mistakes, do better, and keep in mind what the people who've let their power go to their head have done to you.  Now, they're coming, get ready."  His senses weren't as amazing as some people I knew, but they were still way better than mine.
+
+I had enough time to compose myself before the staff here filed in, all looking towards us.  One of them looking openly hostile while the others concerned.  I couldn't see an aura on any of them, and my guess was that this place was so far out that there really weren't any mages stationed here at the moment, instead relying on devices and the like.
+
+Taking in a deep breath I began.  "Good afternoon, firstly, let me apologize for my shortness in the last little bit, as things have gone quite wrong in ways no one was properly ready for."  I nodded, as politely as I could to the woman I'd chewed out.  "For the moment please call me Jenna, though that isn't actually my name.  You have not been informed, but my companion and I were sent here to investigate a potential weapon from our enemies.  I cannot tell you what, and I cannot tell you why here, but it is a fact that we are now unable to use the gate system here, and there is a large disturbance a few miles outside the town which I cannot fix alone."
+
+There were three men, and three women, who all read over the authorization papers I passed forward in silence.  These were the ones from Durin that told everyone I could basically do what I wanted, and as each looked at them they were stunned.  Things had gone massively awry, and now we needed to come up with something.
+
+"How bad is it?"  One of the men queried.
+
+"Honestly?  I'm not sure, but bad.  I don't think there is immediate danger to us, but I cannot confirm that.  My main concerns at the moment are reestablishing contact with our superiors, and keeping the knowledge of these events contained.  Originally I was planning to secure aid from our forces, but that is no longer on the table, and I'm not sure how long the townsfolk will be willing to stay inside their walls."
+
+"How do we know that you're not some traitor, sent here to take this place and us over," the erstwhile individual asked.
+
+"Because if I was sent to take this place over, at this point I would just kill all of you, and being that I'm a fully trained battlemage, and my friend here is quite potent as well, we are more than capable of such," I answered.
+
+"Pfft, nonsense," she replied.
+
+There was a slight blur and Ulanion moved, appearing beside her in a flash.  "It is not.  We mean you no harm, but we are fully capable of it should we choose so."  His voice was calm and controlled, and the hand he rested on the woman's shoulder light, but the message was clear.
+
+One of the men spoke now, his green eyes flashing over the papers I'd handed them.  He pulled out a small tool that looked like a magnifying class and which was clearly magical in nature and moved it over them, that was something I wasn't familiar with.  "Clara, you're out of order.  This is a very unusual situation, but it's pretty clear this Jenna woman and her guard aren't our enemies.  These papers are genuine, at least as far as I can tell anyway, and I've seen plenty of missives over the years."
+
+One of the other women raised her hand carefully before speaking.  "Um, even if we do believe you, there's not much we can do here is there?  None of us are casters, and it seems like you might need someone like that to help with... whatever went wrong."
+
+I'd been thinking about that, and I could have hugged her for bringing it up.
+
+"I'm a bard, and while alone I might not be able to do much I've seen this sort of magic before.  I purpose the group of us go to the scene of the disaster and attempt to repair what happened there using gestalt type magic.  If we're successful, even if it's only a partial success, I'm hoping the gate can be rendered functional again," I explained.  "It will involve you seeing some things you'll not be able to share with anyone, but since you're not mages, and not specialists in the field, I think the security risk is minimal.  Though you may be reassigned or something afterward."
+
+"I still don't trust them, and I'm not going," Clara declared.
+
+"That's fine, someone would need to stay here to keep an eye on things anyway.  While we are away though, I'd advise you to think about the fact that there are only two of us, and our stated goal, and all attempts at action so far, have been to return through this portal back to where we came from.  That place is Emperor Durin's, and is swarming with his people, if we weren't here with permission, or enemies of some kind, that would be suicide."  I turned to the others, who nodded with me, though one seemed a bit hesitant.  That was about the nicest way I could tell her to shut up that I could come up with, and it did make sense.
+
+"When do we leave?"  The green eyed man asked; he seemed to be the leader of this particular group.
+
+"Right now if you've got some extra horses, ours are... missing."
+
+"Sounds good.  Clara, you're on the desk till we get back, but lock everything up, Ed, Connor, kindly go and saddle up horses for us. Jewel, Gail, could you two please grab some basic supplies, a day's worth just in case please, and some of the swords as well," the people began to move out quickly, all heading to their tasks.
+
+Once they'd all gone to their various tasks he turned back to me.  "I've got a few more questions, if you don't mind," he said as he handed back my paperwork.
+
+"I may not be able to answer them, but I'll try," I said.
+
+"Where exactly are we going, and what are we dealing with?"  He asked.
+
+"I could show you on a map, but it's a location a few miles outside the far gate of the city, near one of the lakes... There's a crater, and a magical field there that I believe to be the source of our problem.  As for danger, we won't be going into the phenomenon, so it should be minimal.  By the way, I didn't catch your name."
+
+"Klaus, a pleasure.  Anything else?"
+
+There was something I could share.  "Hmm, I think the lake there is draining, into the mines is my guess, or some kind of sinkhole.  I doubt it's that dangerous, but we should be aware of shifting ground."
+
+He nodded, and we headed out.
+
+The ride to the scene of the disaster was longer than I'd want it to be, but that was the way of things.  It let me get a better look at the landscape as we approached, and the ongoing mess that was the local water supply being decimated.  As we got closer and closer to the scene of the explosion I saw streams going backwards and ponds draining, some already empty.  That was quite a lot of fluid movement, and who knew what it would do to the locals.
+
+It was easy to tell when our help first saw the site, as all of them began to mutter.
+
+"Woah,"
+
+"What in the world..."
+
+"But... how?"
+
+So far as I could tell, the damage to the local space hadn't grown any, and that was a small mercy.  The lake however was not as we left it.  It looked like a draining tub, a small whirlpool at the bottom sucking in everything it could.  It also looked like it might not continue for too much longer, as I couldn't see anything else feeding into this area, all the former streams now dry.
+
+"That is certainly something there.  What do you need us to do?"
+
+"Okay, what songs do you all know?"  I asked.
+
+The list they gave me might as well have been in Greek.  I knew none of them, I'd heard of none of them, and I had a pretty good repertoire at this point, all bards did.
+
+"Okay, okay, screw it, I'll teach you one that's pretty easy.  I'm going to need you all to sing along with me, or hum or whatever if you forget the words, that's fine, just keep going.  Ready?"
+
+I got a chorus of nods and affirmations.
+
+"Oh, the summer time has come..."

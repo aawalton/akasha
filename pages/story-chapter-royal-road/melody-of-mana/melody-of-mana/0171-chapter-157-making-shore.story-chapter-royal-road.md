@@ -1,0 +1,135 @@
+---
+id: 12f21c39-c942-572a-9edb-d730e90cd998
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157 Making Shore"
+slug: 0171-chapter-157-making-shore
+partOf: melody-of-mana
+position: 171
+ownLength: 2095
+unit: words
+ownProgress: 2095
+publishedAt: 2022-07-26
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/956899/chapter-157-making-shore"
+royalRoadId: "956899"
+markedReadAt: "2026-06-29T22:31:45.584Z"
+---
+
+As the sun broke through the clouds we began the laborious process of scouting the island. It would be foolish to just land, no matter how much we wanted to, and so the first thing we needed to do was get a rough idea of what we were dealing with.
+
+Our island, which wasn't on any of Captain Tom's charts, to nobody's surprise, wasn't actually one island. There were three separate pieces of land sticking out of the shallows, but based on what we were seeing there might be land bridges between them during particularly low tides. The smallest was less than a quarter mile across and seemed to be almost completely rock cliff faces with vegetation on top. It would have been possible to land smaller boats at one little beach, but we were pretty hesitant to risk that.
+
+The second island, and the one in the middle range of size was also fairly rocky. About twice as big as its neighbor it sat in the water, there were less imposing cliffs, but the beaches such as they were were still covered in large and spiky looking boulders, which nobody cared to chance. We did catch a bit of movement in the greenery but nobody could accurately identify what exactly it was.
+
+The third island was by far the biggest. Roughly circular and perhaps three miles in radius it was a not insignificant little piece of land. Much like it's companions most of its shores were rocky or cliff-like. However there was a small opening which led into a little lagoon. We couldn't pull the ship into it, but after a few checks it was found that one of the smaller boats used for such coastal landings should have no issues crossing.
+
+"Alright lads." Captain Tom looked out at the gathered crewmen. "We've got a lot of work that must be done ashore first, then we'll see about everyone getting a chance to stretch their legs a bit."
+
+There were a number of cheers at that, since we all wanted a bit of space.
+
+"Now," the mate started as he took over. "We first need to replace our lost masts, so the carpenter and a few lads will go first and look for some suitable trees. We also need a few men to look and see if we can get some replacement for our food stores, anything that might be edible."
+
+"Aye, I think we could all use something other than salt pork lads!" One of the crew cheered.
+
+"Volunteers for the first group?"
+
+While the crew knew that eventually we passengers would want off we all knew that we'd be going later. I couldn't begrudge them that, well, I could, but it wouldn't help. For now I was struggling with a bit of fishing tackle to see if I could catch any of the many tasty looking morsels swimming down below. If fishing with a line and rod didn't pan out I'd just electrocute the little buggers and float the lot out of the ocean. I too was tired of salt pork.
+
+I gave an hour or so for the sailors to get to their business before I dropped off a few of the fish I'd gotten to the cook and went to see the first mate, since he seemed to be in charge of who was going ashore and when.
+
+"Excuse me, could you kindly tell me when my chance to visit the island will be?" I asked the man. I didn't really know him that well as even with our tight confines we seldom spoke.
+
+"I think Olnir was handling that miss, but either this afternoon or tomorrow morning."
+
+It wasn't far to go and see Olnir, being that the ship wasn't all that big. It was surprising to me though that when I got to the room he and the boys were sharing I found that there was already a slightly heated discussion going on.
+
+"I think that we'll need to go one at a time over the next few days, just in case," Olnir said. It was clear that he was trying to keep most of us nearby, and failing.
+
+"We don't know how long we'll be here, and there is no way I'm missing my chance to go ashore for the first time in over a month." Selene seemed adamant, a few others from our group nodded their agreement.
+
+"I understand, but we've already lost too many of our expedition, and I must insist."
+
+"Are we still planning to continue with it?" Dras questioned.
+
+"That remains to be seen. I doubt it, but it's possible one of the other ships got separated and is headed to our meeting point. Even if they didn't we might continue depending on the situation when we get there."
+
+"Well that aside, I am going ashore with my sister tonight," Robert said.
+
+"That is not your decision," our leader countered.
+
+"I think that you'll find that it is," the aforementioned sister responded. "Because if you try to stop us, we'll provide not a bit more food. We'll also tell the sailors why, and I'm sure they'll be thrilled."
+
+Now that was a threat. We all knew that the food situation right now basically sucked, and if any of our bardic staff decided to tell everyone to suck it up, they'd all be sucking it up. It was also likely that anyone responsible for pissing any of us off that badly would be thrown off the ship physically by the already stressed sailors. A caster he may be, but Olnir alone couldn't stand against everyone on his own.
+
+"Very well, we'll split into two groups then. I'll go with the two of you just in case along with..." Olnir grit his teeth, but he knew when to back off.
+
+"Personally I think I'll wait until morning," I said.
+
+"Me too," "Yeah," "Same, I don't like the dark," These answers came from Dras, Selene, and Glen respectively.
+
+"Fine then... Let us prepare and get word from the first mate on when we're leaving." With that our manager left.
+
+It was less than an hour before the group got together and took the short paddle to shore. As they did I felt Selene sidle up beside me on the railing.
+
+"I noticed you didn't want to go with them tonight," she observed.
+
+"I don't like Olnir."
+
+"Okay, any particular reason?" My work friend looked a bit confused at that answer.
+
+"I don't know, he just grates on me like sandpaper. It's not even that he's always wrong, it's just that he's..."
+
+"Stubborn? A bit of an ass?"
+
+"Yeah. Like when he told them that he would be making the decision. I mean, sure, he's supposed to be in charge, but at this point he should know that we need some time off this boat. Or the whole thing on asking about our spells, it's just rude."
+
+"I suppose so. We still have to finish this expedition though, assuming we continue with it." Selene was far more tolerant than I was, particularly in times like these.
+
+"I plan on finishing. After that though I'm not working with him again."
+
+That got me a light laugh. It was pleasant as we bobbed there off the shoreline, keeping an eye on the forest and trying to get a few more fish for dinner.
+
+Soon everyone returned from the island. The captain had insisted upon this as we didn't have enough of it explored and if there was some issue it would be better if we were at the boat. There were also beds on the boat, so he didn't encounter too much in the way of opposition. We casters liked our comfort.
+
+Our dinner was pretty good. The pickings near the beach had been coconuts only, a tropical delight that I wasn't expecting, but was happy to experience. The cook had gone out of his way to make fried fish, a luxury even on the mainland with how much oil it used. He'd toasted and reduced to crumbs some of my bread and some shredded coconut, then with the cream from Robert and oil from Leah had managed to slightly bread and fry the fillets. It was the best meal we'd had in a good long time and there was enough form the fishing that everyone in our group got some.
+
+That night as I took up my normal spot to watch the stars for a bit I was greeted by the unexpected. Joining the lovely night sky was a slight glow from places in the forest. Here and there along the shoreline there were trees faintly glowing in an array of colors. It wasn't much, and during the day I doubt anyone would be able to see it, but as the shroud of night fell upon it the forest lit with the subtle lights, painting a brilliant scene with the sky and sea around it.
+
+This was one of the few times in this world that it actually felt like a fantasy to me. The light-show as the plants shone between star and wave with the crescent moon hanging high above was magnificent, something that would inspire artists and painters to create masterworks should they ever see it.
+
+"Can't say I've seen one like that before," the captain said as he stood nearby.
+
+"It's beautiful."
+
+"Aye, that it is."
+
+I was up and ready the next morning to have my chance on shore, and there was nothing and nobody who would stop me. Seeing me nearly bouncing the sailors who were joining us laughed as they lowered the little dinghy down from the side.
+
+It was a rough, if short, ride to the shore and Glen was kind enough to help me out when we got there.
+
+"Alright everyone, we know our jobs, and if we're all good and ready, let's go."
+
+A few groups of sailors started to move off in different directions. The carpenter and a few of his men went over to the trees they'd felled yesterday. They were fairly large specimens and would make for good masts once they were fully debarked and shaped up a bit. The group that had my eye though was headed towards the forest.
+
+"Where are you lot off to?" I asked as I momentarily struggled to move on the shifting sands.
+
+"There's a little creek bed here the lads yesterday saw. Figured we'd see if there was any game on the island. If there is, it'll probably have trails near water, so..." one of the men explained.
+
+"Mind if I tag along?" I asked.
+
+"That sounds fun actually, been awhile since I was hunting." Glen nodded as he came over.
+
+"If you lot want you're welcome. I'm sure with you we could take down anything we find with ease." The sailor smiled at us, and he wasn't wrong, they had a pair of small crossbows, but magic could kill pretty easily too.
+
+There were some ups and downs. First of all it was beautiful. The forest all around us was a tropical paradise, with a few small birds here and there among the trees, which grew big and bright green. The path was also magnificently clear. The creek bed we were traveling on was dry as a bone and cut a wide path into the jungle.
+
+Sadly I'd been on a boat so long that I was struggling to adjust to the now stable ground. As my feet failed me and sent me sprawling the second time in as many minutes a few of the sailors in our party chuckled lightly. I certainly wasn't the only one not used to dry land if I had to judge by their funny gaits, but I was the worst.
+
+Glen helped me up and we continued on our little trip.
+
+A solid twenty minutes in and one of the leading lads of this trip called a halt.
+
+"Something moving there." He pointed to a small section of forest and as a group we slowly made our way forward.
+
+The trees were thick and after only a few steps we were at the edge of dense jungle. The ferns and vines would make going through this a pain and we all kept an eye for whatever the man leading us had found.
+
+It was around this time that I saw a pair of eyes peaking out from a deep shaded bush. Bright yellow bulbs of huge size that blinked as I locked on them. A second later there was a horrid scream.

@@ -1,0 +1,311 @@
+---
+id: d8176c85-6820-55a6-8c01-a9161f4ba228
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 72 - Are You Heavier?"
+slug: 0011-chapter-72-are-you-heavier
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 11
+ownLength: 3905
+unit: words
+ownProgress: 3905
+publishedAt: 2022-02-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/841417/chapter-72-are-you-heavier"
+royalRoadId: "841417"
+markedReadAt: "2026-06-29T19:35:38.794Z"
+---
+
+Tala passed a bit of time with Master Himmal, but eventually bid him goodbye, promising to come by to test out the custom cargo-slots near the end of the week.
+
+She had been surprised that he hadn’t commented on Terry, but she supposed arcane pets weren’t too uncommon. She fell back into her routine as she walked to the training ground that Adam had indicated. She was almost done with the first set of topics she’d noted for review. Good thing, too. Holly’s got to have something to work on, or she’s likely to be cross.
+
+When Tala arrived, she was startled by what she found.
+
+It was a sprawling compound, with the training yard open to the street so that passersby, or the curious, could watch the training. Good for recruitment, I guess?
+
+The training yard was at least a hundred yards long, and half that wide. There were sections of grass, dirt, and paved stone of various sizes interspersed throughout. Across the entirety, hundreds of men and women were stretching, sparring, practicing techniques, or otherwise working their muscles.
+
+To her surprise, her magesight picked up the ebbs and flows of power throughout the yard, and not just from the healers, ready to help if those sparring were injured. Power moved through these people in a manner that she could only equate to that of the arcanous creatures she’d seen. Not the elemental magics, obviously.
+
+Even so, she could see that, to a variety of extents, these guards would be stronger, faster, and more durable than the average citizen. How are they doing that without inscriptions? The power was clearly coming from their own un-inscribed gates, but she couldn’t see anything directing it.
+
+Something to investigate, I suppose. She’d seen hints of it in Adam, before, but it was being fully brought out as those before her worked to push themselves.
+
+Around the training yard were quite a few buildings. Some appeared to be additional training halls, either to allow for more private or more sheltered training. It was a cool morning, but not painfully so for the average person. Probably why most of them are outside.
+
+Other buildings seemed to be instructional classrooms or administrative offices from what little she could see. Overall, it looked more like a school, which emphasized physicality, than a barracks and muster yard. I suppose that’s what I get for assuming. She felt a smile tug at her lips.
+
+The sparring drew her attention, and she noted that those who were using weapons were using wooden or padded varieties, though they didn’t seem to be pulling their strikes, whether armed or barehanded. In fact, as she watched, one of the combatants broke a training sword over another’s shoulder, the strike drawing blood and breaking bone, if the deformation of the shoulder that she could see, even at this distance, was any indication.
+
+Before the man’s first scream had died down, a healing Mage was beside him, the healer lighting up to Tala’s magesight as he quickly repaired the injury. Clever, so they can train at full power, get used to injuries and not lose much training time. She thought for a moment. I wonder if they ever let the injuries stand? Might be useful to practice fighting while impaired. That was a question for another time.
+
+Quite a few citizens were standing along the road, either individually or in groups, watching the goings on. Many more slowed down as they passed, mixtures of admiration, envy, and contempt across their faces. There is someone who will look down on any endeavor, I suppose.
+
+Without slowing, Tala walked forward, crossing the almost invisible line between street and training yard. Immediately, one of the nearby Guardsmen stood and came her way.
+
+“Mistress? How can we serve?”
+
+“I am searching for Guardsman Adam. He’d asked me to come by today.”
+
+The Guardsman bowed. “Would you be willing to wait here? I can go inquire on your behalf.”
+
+Tala simply nodded, and the guardsman jogged off, ostensibly to do just that. Many of the others in the yard were glancing her way, but no one seemed to pay her much more attention than their initial glance.
+
+As she continued to look around, she could see parts of many of the techniques that Adam had taught her, demonstrated in the movements of those across the yard. It was fascinating to observe how a simple striking pattern was altered for use with a spear, mace, or sword, and how each of those differed from the others. There is such depth to the practice.
+
+A few minutes later, the guardsman returned, gesturing towards one of the central buildings. “Guardsman Adam is expecting you, and he awaits you there. Would you like a guide?”
+
+Tala shook her head. “No, thank you. I can find my way just fine.”
+
+He bowed. “Good day, Mistress.”
+
+“Good day, Guardsman.”
+
+He returned to his practice, and she strolled through the training yard, weaving in wide arcs to avoid interfering with anyone.
+
+As she walked, she took in the beautifully clear sky above and basked in the morning light. Many are likely still rising, and here I am, at my second task of the day.
+
+There were, of course, the sounds of exertion and cries both of attack and of pain filling the air around her. As she walked, she saw no fewer than twelve healing Mages spaced around various parts of the yard, and she might not have spotted them all.  A healer for every twenty people or so? Seems excessive but must work for them.
+
+She came to the building in question, and looked up at the simple, sturdy architecture. There was a beauty in its utility, and she found herself smiling at that.
+
+“Mistress Tala!”
+
+Her gaze dropped, and her smile changed just slightly to one of greeting. “Guardsman Adam. Seems I found the right place.”
+
+The Guardsman was wearing loose-fitting clothes, clearly meant for exercise, and he had a light sheen of sweat to him.
+
+Spent the morning training? She stepped forward, into the building.
+
+“Mistress Tala. This way, please.” He led her deeper into the building and down a series of interconnecting hallways. As they walked, he used a cloth to wipe much of the sweat from his head and arms. “Thank you for coming.”
+
+“Thank you for being willing to train me.”
+
+He grinned. “This is a rare opportunity. Master Rane is already here.” He added the last as an afterthought.
+
+They came to one of the instructional rooms and entered together. Some thirty men and women, all in their twenties, sat facing the front of the room. They were all dressed similarly to Adam, and they each seemed to have a notebook and a means of taking notes, and each was doing just that.
+
+A much older man, at least in his fifties, sat at the front of the room, also facing the last remaining occupant.
+
+Rane was just finishing his sentence as they walked in. “-the force is therefore redirected, or avoided, without actually being guided.”
+
+In the silence that followed, Rane waved to Tala, smiling, and she waved back.
+
+The older man stood. “Thank you, Master Rane. Can anyone tell me a key take-away from his last point?”
+
+A woman near the front spoke up. “He doesn’t have to concern himself with dodging, because his opponent’s attack causes him to be moved out of harm’s way.”
+
+The older man frowned. “Yes and no. He will not need to focus on taking the action, that is correct. However, if any attack met by that defense, no matter how small, causes him to alter direction to mitigate the damage, that means that Master Rane is constantly subject to forces outside his direct control. He would have to be even more aware of the incoming attacks than if he simply moved out of the way beforehand or braced to take the blow.”
+
+The woman frowned in turn. “Then, why is it better?”
+
+A man in the back of the room spoke loudly in response, “Because unexpected movement is better than unexpected injuries.”
+
+A few people smiled at that, and Rane nodded, responding, “Precisely. I could close my eyes and simply stand still and be fairly safe. I’d be utterly ineffective, but safe from mundane attack.”
+
+The main instructor smiled. “So, you will each write up a basic overview of a fighting style for Master Rane, and in coming classes, we will compare it to what he has actually been using.”
+
+Rane smiled. “I hope to learn something. I make no claim at perfection.”
+
+The instructor had noticed Tala and Adam entering, and he turned to them now. “This is Mistress Tala, and you all know instructor Adam.”
+
+Those present returned a chorus of greetings.
+
+“The central project of the next two weeks will be creating, then perfecting, a fighting style for Mistress Tala, here. That portion of your assignment for today will be to construct a series of tests to determine the scope and limit of her abilities, so that we can build a style that maximizes her effectiveness. Mistress Tala.”
+
+“Yes?”
+
+“Would you give us a basic outline of your combat capabilities?”
+
+Adam whispered. “Including physical and defense, please.”
+
+Well, I guess I have good timing, at least. Tala cleared her throat, suddenly feeling nervous as she walked out in front of the gathering. “Hi.” She waved.
+
+A smattering of ‘Hi,’ ‘Hello,’ and ‘Greetings’ came back to her.
+
+“So, as an Immaterial Guide, my abilities differ slightly from Master Rane’s.” She nodded to the other Mage. The listeners were already writing. “As I am able to alter non-tangible properties of the world around us, my defenses mainly involve the increased strength of humanity’s natural traits.”
+
+The same man in the back of the room called out. “What does that mean?” Several students grinned at this comment too or chuckled.
+
+Tala cleared her throat, again. “Well, just as a stick-pin would not easily enter your skin, my magic makes that resistance more potent. It takes a much greater force to split my skin-cells apart, or to harm them directly. Similarly, all my underlying structure, both bone and soft tissue, is strengthened and reinforced. If those bonds are broken, my natural healing processes are accelerated to repair the damage nearly instantaneously.”
+
+“Does that apply to your muscles?” It was a different questioner.
+
+“It does.”
+
+“So, does that mean you can work-out and see immediate results?” Yet another.
+
+“Not immediate, but much faster, yes.” She smiled. “Also, my power does not create matter. I must eat to provide material for that healing, and thus, I can’t heal from unlimited damage, as I would quickly burn through my body’s supplies.”
+
+“Why not alter your body to store more?” A fourth speaker.
+
+“Great question. That is another of my inscriptions. My adipose tissue, and other similar portions of my body, are now inscribed to store more, more efficiently. I can effectively have much larger reserves, without seeming to have such.” Though, the appetite that brings on might cause issues with my coin pouch…
+
+Two questions came in at nearly the same time: “Does that mean you eat way more?” and “How are you not too buff to move?” She stopped trying to identify the individuals asking the questions.
+
+She smiled. “I do have to eat a lot more, though that will slow down in time, at least until I pull from those increased reserves and have to refill them. As to my muscle mass, my inscriber is quite clever, and my muscles, when they do repair, do not change size, simply becoming denser and more powerful.”
+
+“How much stronger than normal are you?”
+
+“I’ve not tested, specifically, but in the range of four to five times what I was without the inscriptions.”
+
+There was a chorus of mutters through the room at that. “Are you heavier?”
+
+Tala laughed. “I suppose I am, and will continue to become, heavier until the reworking, strengthening, and reserve filling is complete.” She cleared her throat, glanced towards the door where Adam and Rane waited. She smiled, feeling much more confident now that she was so far into it. “Offensive wise, I have gravity alteration spell-workings, and a knife, which can become a sword for short periods of time.”
+
+There was silence at that.
+
+The instructor waited a moment, then asked. “What sort of gravity alterations?”
+
+Tala nodded. “I can either restrain or crush. My restraining magic lifts the target from the ground and alters the effects of gravity on them to keep them aloft.”
+
+“What?” Another listener.
+
+“They will float there on their own.” She smiled, simplifying. “Crush will increase the force of gravity upon the target four-fold. If the target is not killed or fundamentally altered, usually leading to death, it is increased four-fold, again. This continues until the target is dead or fundamentally altered.”
+
+Absolute silence filled the room for a long moment. Finally, a woman near the front swallowed visibly and asked. “So… why do you need to fight hand to hand? Why not simply use magic to crush your enemies, see them driven before you, and to…be done with it?”
+
+The instructor looked incredibly relieved that someone else had asked that question and smiled. “Excellent question, Cona.”
+
+Tala nodded. “First, I can have only a few targets before I must be re-inscribed. Thus, I cannot use that to deal with large numbers of enemies, and if I am near the beginning of a venture, I must be sparing. Second, there are some beings who can operate under such conditions, at least for a while, and it burns through a lot of power to take them out in this manner. That also reduces the number of targets I can affect.”
+
+The girl was nodding, seeming to understand. “So, you need to be able to fight lots of weak creatures, or incredibly strong beasts, but those in the middle you can simply crush?”
+
+“Well, I would prefer to crush the most powerful as well, but that is generally correct.”
+
+The group seemed to better understand.
+
+She had an additional thought. “Oh! I also have a repeating hammer.”
+
+“A what?” Some of the listeners seemed to know what that was, but not all.
+
+“A repeating hammer is a magical hammer which redirects force from the striking face, back away from the tool. It effectively can break through anything that a hammer could damage at all, in a single blow.”
+
+The instructor nodded. “That is sufficient, I believe. More can be revealed by the testing they will devise.” He looked to Adam, then back to her. “You will be available for testing, tomorrow?”
+
+She shrugged, smiling. “Sure. How long will you need me for?”
+
+He thought for a moment. “If you arrive when you did, today…” He seemed to be contemplating deeply. “Let’s say four hours on the outside. We’ll spend the time before you get here, weeding out all the duplicates and refining the plan. So, that should be enough time.”
+
+She grunted. “That should work.”
+
+The instructor relaxed visibly. “Then, after that, I think we will need a day without you, to compile the first ideas. We can begin testing them the day after?” He hesitated. “I can assure you, Mistress Tala, I will be overseeing the entire process, along with several other experts, and we will have a truly spectacular result.”
+
+She smiled. “That sounds wonderful. Thank you.”
+
+Tala waved to the group as she departed. Rane walked out with her.
+
+“Hey.”
+
+She glanced his way. “Hi.”
+
+“Are you still mad?”
+
+She frowned. Mad? Oh! Right… She sighed. “No, Master Rane. It isn’t worth the effort.”
+
+He grunted at that. “Well…I’m glad.”
+
+She shrugged.
+
+“So…what are you up to today?”
+
+“I’ve got a lot going on, today.”
+
+“We could grab lunch? You’re looking a little pale…” He shook his head. “Sorry, that’s not really relevant.”
+
+I guess he noticed my missing iron salve. That was fine, she wasn’t trying to hide the fact. She shook her head, in response. “I really don’t have time.”
+
+He seemed to deflate a bit.
+
+With effort, she kept from either sighing or rolling her eyes. “I’ll have more time tomorrow, but just a bit.”
+
+He perked up. “Lunch, then?”
+
+She quirked a smile. “After whatever crazy assessments they come up with? I’ll probably need it.”
+
+“It’s a plan, then.” He smiled.
+
+“Sounds good.” She glanced ahead, to the archway back out onto the training grounds. “I really do have to go, but thank you for asking.”
+
+He smiled and waved her off. “See you, tomorrow.”
+
+* * *
+
+Ok, Tala. Avoiding it won’t help. Let’s get this over with.
+
+Tala held herself stiffly upright, as she walked into the Caravanner’s Guildhall, marching straight through to one of the main desks near the back of the atrium.
+
+“Good morning, Mistress. How can I assist you, today?” The young man, sitting behind the desk, smiled warmly at her.
+
+“I’m Mistress Tala. I was informed I needed to meet with a senior guild official?” Come on, come on. This is not what I want to do… No. She needed to be here. This had to be dealt with.
+
+“Mistress Tala…” He looked through a large appointment book on the desk in front of him. He turned the page, beginning to frown. “Mistress Tala… I’m sorry, I’m not seeing you in the collated calendar. Who is your appointment scheduled with and when did you schedule your appointment for?”
+
+Tala hesitated, then felt herself coloring. “Oh… I didn’t know I needed to schedule it. I was simply told one was needed.” Whenever I was ordered to attend a disciplinary meeting, I had to go right away, and I was seen right away… This, apparently, was different. I have to schedule my own session to be reprimanded. She almost snorted a laugh. I guess, I should have expected that.
+
+The young man checked a few more pages, then looked up, apologetically. “It doesn’t seem to be here, and no Senior Official is available, today. Who were you supposed to meet with, again? Perhaps, I can get you in tomorrow.”
+
+Tala opened her mouth to answer, then closed it. I have no idea.
+
+The young man seemed to understand. “I see. That’s more than fine.” He nodded, consolingly. “I’d recommend reaching out to your Guild handler, or point of contact, and ask them to schedule the required meeting.”
+
+Tala nodded, feeling incredibly embarrassed. “I’ll… I’ll do that. Thank you.”
+
+“Happy to assist, Mistress. I wish I could have done more. You have a good day.”
+
+* * *
+
+Ten minutes later, Tala had shaken off her embarrassment and was again walking the streets of Bandfast, this time heading towards the Constructionists Guild. As she was walking, she realized that the pace of her reading was much faster than expected. She could now read much faster than even on the recent caravan trip.
+
+I guess the enhancements made my movements easier, freeing up more of my mind to focus on reading? It was as good a reason as any other she could think of.
+
+The books were a masterwork in-and-of-themselves, at least the one she was currently referencing was. It contained detailed schematics of each organ or organ system as they were discussed, coupled with cleverly rendered schema, illustrating their three-dimensional nature, along with how they would accomplish what they did. It was, unsurprisingly, incredibly detailed on the how. If Tala didn’t understand what, and how, the magic was supposed to work, it wouldn’t function. In the worst case, it could malfunction and destroy the parts of her body inscribed.
+
+I didn’t really expect to delve back into anatomy and physiology so deeply, so soon…
+
+She’d always preferred physics, hence the nature of her offensive spell-forms, but the work Holly would be doing now was incredibly dependent on Tala’s second favorite subject, just as she’d suspected it would.
+
+I’m just glad that I already had specific interest and knowledge in the muscular-skeletal system, along with the vascular, or I’d have to have done a bunch of research before even yesterday’s inscribings…
+
+She sighed. It was fascinating, and Holly had gone out of her way to make the writing engaging, but it was still a dense subject matter.
+
+How did she even have time for this?
+
+Tala supposed that the general overviews would be common to anyone getting any given organ inscribed, so those would just have to be copied over.
+
+And it’s not like I’m the first person to have my organs enhanced. This is probably just an amalgamation of those techniques, slightly modified for my particular make-up.
+
+She hesitated, even stopping in the middle of a stride. Wait… how did she know the exact dimensions of all my organs to make properly shaped spell-forms… She placed a hand on the back of her neck.
+
+How much is this script analyzing and recording?
+
+She thought back. Holly said that it would monitor everything about me… She groaned. Well, I did understand what it would do…I suppose I just didn’t assume it would be literal…
+
+She sighed, continuing on her way and returning most of her attention to the current portion of this book.
+
+Tala finished the first subject in her list-to-review by the time she reached the Constructionist Guild’s local office. Closing the book with a satisfying thunk, she tucked it into Kit and looked up at the beautifully designed façade. Rust me, they really didn’t spare on the expense of this place.
+
+While highly detailed, the elements were tastefully interwoven to give an overall inviting, if humbling, atmosphere. Tala smiled as she walked to the large front doors.
+
+There weren’t a lot of other patrons at the moment, but that made some sense. This guild didn’t have as much to do as the Caravanners. Though…are the Wainwrights a subsidiary? That made sense, and most guilds worked in that way. Guilds of guilds…ah, society. How wonderful your complications.
+
+She found herself grinning.
+
+As she stepped across the threshold, she felt a tingle in her keystone, indicating magic had been directed her way, and a wave of power pulsed out from behind her. There was no specific spell-form to it, but it had the overpowering sense of an infrared aura. Did the door just scan me and announce my classification?
+
+An attendant appeared, entering from the side. “Mistress, how can we serve you today?” His eyes glanced to Terry, and there was definite curiosity, but he didn’t comment beyond his initial question.
+
+Tala pulled out the sheet that Lyn had written up for her. “Hello, yes. I was sent here by Mistress Lyn of the Caravanner’s Guild. She said I should ask for Master Boma?”
+
+The attendant paused, power rippling over his face as he looked at her. “I apologize Mistress, but Master Boma usually does not attend to the needs of those below Archon…” He was clearly torn. “Mistress Lyn sent you, you say?”
+
+Tala nodded.
+
+“Very well, let me check with him, and see if that name changes anything for him.”
+
+“Thank you.”
+
+“You may find it more comfortable to wait in there.” He pointed off to one side. “There is a waiting area through that archway, and you’ll find refreshments available, while you wait.”
+
+With a smile and slight bow, the man turned and went back the way he had come.
+
+“Well, Terry, let’s see what refreshments they have for us.”

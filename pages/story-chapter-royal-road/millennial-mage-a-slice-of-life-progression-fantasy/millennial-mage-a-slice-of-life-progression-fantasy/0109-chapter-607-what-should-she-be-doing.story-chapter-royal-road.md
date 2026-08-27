@@ -1,0 +1,243 @@
+---
+id: 69fe86e4-b5ae-5bd6-9836-aa1cd289f567
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 607 - What Should She Be Doing?"
+slug: 0109-chapter-607-what-should-she-be-doing
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 109
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2570737/chapter-607-what-should-she-be-doing"
+royalRoadId: "2570737"
+markedReadAt: "2026-06-29T19:38:47.305Z"
+---
+
+Tala sat with her family around a fire that was burning merrily within an iron firepit.
+
+It was an enchanting scene, and not simply because the iron subtly called to her, wondering why she hadn’t claimed it yet. After all, it was already within her domain. It was hers in almost every way. Why shouldn’t she claim it?
+
+Tala ignored that, instead enjoying the view of the dancing fire. Light crackling and popping of oxidizing wood joined the subtle burble of the nearby circular river. Overhead and all around, the gentle swish of leaves and gentle groan of swaying trunks in the soft breeze were a beautiful counterpoint to the more active sounds from water and fire.
+
+The stone chairs were comfortable, perfectly shaped by Rane—with a bit of assistance from Lea—to be comfortable even to mundanes. As such, their reinforced bodies had no trouble with the hard material in the least.
+
+Terry was crouched near the fire, seemingly enjoying the heat despite the already warm day, only occasionally flickering to shift his orientation and allow different parts of him to be closer to the fire.
+
+Lea was playing with her long, woven white-steel dress, swirling the material back and forth as she watched the patterns of other threads interspersed throughout shift and change. The drink in her hand was only remembered occasionally, but her will and authority within Kit kept it in a perfectly cool, ready to drink state.
+
+Rane had his eyes closed, though his gaze was obviously flicking back and forth behind the lids, showing that he was most likely reviewing information via his Archive connection. His own drink rested on the armrest of his chair, also momentarily forgotten.
+
+Lyn had joined the Sappherrous family, but with three Archive slates floating around her as she almost frantically moved between them, manipulating information, responding to messages, and otherwise continuing her work, it was obvious that she, at least, was far more focused on serious matters.
+
+Tala, for her part, was more than a bit at a loss.
+
+What should she be doing?
+
+Obviously, she should be moving toward her Reforging, but that was a long term goal, and taking just one more step on that thousand mile journey seems like a waste of effort in this new paradigm.
+
+The Black Legion was back.
+
+-Well… no. One of their units has been found to be in the world once more. They could be back in force, or there could be only that single one which is now eliminated.-
+
+That’s… fair. And that uncertainty was somehow worse than having an army bearing down on them.
+
+-Yeah… no. I call rust and slag on that construct. It only seems that way because you don’t have an army of murderous, Reality touched automata moving this way to kill all those you are sworn to protect.-
+
+…Fine. Still, she didn’t know what she should be doing.
+
+Alat sighed. -One moment.-
+
+Rane shifted in his seat, one eye cracking open to gaze at Tala. “Love? What’s going on?”
+
+Tala groaned. “I’m just not certain what we should be doing.”
+
+Lea sat up, her dress falling free of her fingers as she focused in on her parents’ conversation. Still, she didn’t interject, likely not wanting to be sent off, or have their conversation move internal.
+
+“I feel like we should be doing something, rather than just waiting.”
+
+Rane gave a little smile. “Because we weren’t sent to the Wandering Plains, or asked to search the cells near the Cycling Cities?”
+
+“Yes! I’d almost prefer an order to go to the arcane lands and do… something.”
+
+Lea was clearly picking up on Tala’s frustration to the point that she did decide to interject. “Mom? Are you okay? You don’t sound okay.”
+
+Tala took a deep breath in and let it out slowly. “Yes, Lea. I’m going to be okay.”
+
+Rane nodded. “Your mom just doesn’t like ‘sitting about.’ She wants to be out there, doing.”
+
+Lyn huffed a laugh. “She does have a bit too much of that, yeah. I can only imagine how difficult the last year has been for her, and now to have so much going on that she isn’t involved in?”
+
+Lea clearly latched onto a part of that. “The last year? So… since… me?”
+
+Lyn’s eyes widened slightly, but Tala was quicker to interject. “Yes and no, Lea. Yes, you have caused us to be a bit less active out there than we might otherwise have been, but you have been a joy and adventure all your own.”
+
+That seemed to placate the girl, at least for the moment. As such, she seemed to fall back on what they’d taught her. “What can we do to help you?”
+
+Tala felt a smile pull at her lips upon hearing the oft repeated words. It was a boon to have her daughter say them in such a situation, as she and Rane had gotten quite used to offering that question to Lea when the girl was in distress or experiencing difficulty. “Thank you for asking, Lea… I’m not sure. I think I need to get away for a bit.”
+
+Lyn glanced around at the others around the fire. “Do you mean away as in out on your own? Away from Kit? Away from Alefast?”
+
+Tala grunted. “I think away from Alefast, Waning, and away from the slog of Reforging. I need something else to focus on.”
+
+Lyn nodded, manipulating her slates. “Do you want to protect a caravan to the new Makinaven? The official founding is coming up, and it's starting to accept regular citizens, not just those needed for the establishment of the infrastructure. There is a lot of need for transport. Hundreds of caravans are moving in that direction, all with heavy defenses and lots of Protectors.”
+
+Rane laughed, leaning forward. “That could be fun! To get back to our roots a bit.”
+
+Tala, however, was frowning. “How would that even work? I can’t just stick all of them in here: the load of that many gates in this space would reduce our safe movement speed to a crawl.”
+
+Lyn shook her head. “We’d schedule it so that you could take a huge load of materials and escort a larger than usual caravan of passengers. Ideally, it would be a lot larger. We wouldn’t need cargo wagons at all. I think with a little forewarning, we could probably get four or five regular caravan loads worth of people to move with you. Maybe even more.” She hesitated a moment before clearing her throat. “In some ways, it will be little different than this, in here, for you. They can’t go faster than a regular caravan, and I know your time is valuable. There’s quite a few reasons why a lot of high-level Archons don’t do this.”
+
+Tala glanced toward Rane, and the big man shrugged. “We’ve always wanted to see a ‘new’ city. If we can arrange it soon, we might even be able to be there for the ignition of the magical underlayment.”
+
+The couple turned their gazes on Lyn, and Tala asked, “Is that possible?”
+
+Lyn checked over some of the information she had at her disposal, finally giving a slow nod. “It will be tight, but I think so. It would be starting from this city, sweeping through Bandfast, then Marliweather before going up through Arconaven and new Alefast. Then, the final leg would take us through the northern forest to new Makinaven. There would be a lot of churn, but the caravan would grow until new Alefast where we’d leave a good chunk of the people and materials before that final segment of the trip.”
+
+Tala frowned. “Would we have a long wait in each city?”
+
+“No, not at all. We’d want to leave here in three or four days, and that should be sufficient to gather a group of those looking to move from here to any of the stops. I imagine Master Grediv would actually be quite grateful for such a large outflow of citizens under such protection. Every subsequent city would have more time to gather the people and goods for transport. You’d have to pause for roughly a day so you could empower the passenger wagons, have their interiors built out, and then get the passengers loaded, but that would be the only holdup.”
+
+Tala and Rane shared a look before turning to Lea, who was practically bouncing in her seat. “Can we? I’d love to see more of the world, and you two have talked a lot about traveling with caravans.”
+
+That clinched it for Tala, and she smiled. “I think it could be a lot of fun.”
+
+Rane nodded. “Yeah. Can you make the arrangements, Lyn?”
+
+She gave a small bow of her head. “I’ll make it happen.”
+
+Lea stood and pumped one fist. “Yeah! Caravan trip!”
+
+* * *
+
+“...Mom?”
+
+“Yes, Lea?” Tala closed her eyes steadying herself for what she knew, just knew, was coming.
+
+“I’m bored…”
+
+She sighed, preemptively locking the air around them down to keep their conversation private from the drivers and guards. “I know, Lea. You’ve made that abundantly clear. I thought you were reading.”
+
+“I am… I was…”
+
+“So?”
+
+“I want to see things! I don’t want to read.”
+
+Tala sighed again. “This is only the third day, Lea. We’ve got around thirty before we’re to our final destination.”
+
+“Exactly! Three days, and we’ve not been attacked once.”
+
+“Lea. I told you that we’ve already had to kill a few magical beasts.”
+
+“But I didn’t get to see you kill them!”
+
+“Because they were weak and died easily. I didn’t even bother alerting the guards. Your father has removed several issues, and Uncle Terry is actively thinning the local magical beast population preemptively.” Tala frowned. “Though, I think that’s mainly because he’s feeling peckish.”
+
+Lea grumped a bit.
+
+“Look at the mountains, Lea. Isn’t it a stunning view?”
+
+“Of course, the landscape is beautiful, but it changes so slowly.”
+
+“This is what caravan travel is.”
+
+“And you and Dad used to do this all the time?”
+
+“Yes, sweet. We did it for… about a year?” She frowned, muttering to herself. “Really? That was all?”
+
+-Yes, despite it feeling like half a dozen books worth of adventure, you really didn’t have much time as a Mage Protector before your abduction.-
+
+Tala shook her head and huffed a laugh. “Yes, we did this for around a year when we were just starting out.”
+
+“A year…”
+
+“Yes.”
+
+“On purpose?”
+
+That question caused her to frown. “Well, we didn’t do it for only a year on purpose… Is that what you’re asking?”
+
+“No, no. I mean, you chose to do this on purpose?”
+
+“Yes, Lea.” Tala sighed, rubbing her forehead. “It was a job, and a well paying one.”
+
+“Why would you need a job? You have plenty of money, right?”
+
+That brought forth a laugh. “Yes, Lea. We have plenty of money, now. Then? I was in quite a bit of debt, and I needed to make my way in the world.”
+
+“Couldn’t Dad have just taken care of you? His family has a lot of money, right?”
+
+Tala’s gaze flicked to where Rane rode on a wagon near the back of the long, double wide column of wagons. “Your father and I weren’t together then. It wouldn’t have been appropriate for me to expect him to pay all my expenses.” She chuckled. “I had a hard time letting him pay for anything for a long time, but part of that was because we were just coworkers and friends for the longest time.”
+
+Lea was slowly shaking her head. “You’ve said things like that before, but Dad always says he knew he wanted to marry you, nearly from the moment he first met you.”
+
+“Well… your father was a bit more decisive than I was.” Tala shifted in her seat.
+
+“You didn’t want to marry him, too?”
+
+“No, sweet, not at first. I liked him well enough, but I didn’t see him in that way.”
+
+“What do you mean, ‘that way?’”
+
+“Well?” Tala frowned, suddenly confused how they’d gotten onto this topic. “I don’t really know. I wasn’t really looking to get married, or even move in that direction, so I wasn’t looking for someone to get married to. So I didn’t see him like that.”
+
+“I don’t know that I understand.” The girl was frowning, small creases appearing on her alabaster-white brows.
+
+Tala looked around, a waterskin beside the driver grabbing her attention, and a potential example coming to mind. “Take a cup for example.”
+
+“Okay?” The girl willed a mug into her hand from within Kit. “Why am I taking a cup?”
+
+Tala shook her head, sending the mug back. “No, no. Imagine a cup. One can be sitting nearby, but if you aren’t thirsty, if you don’t need or want a drink, you don’t really think about looking for cups, so it’s possible to not see them.”
+
+“Oh… I think I understand.”
+
+“Good.” Tala let out a relieved sigh this time. “I’m glad.” Feeling suddenly parched, she pulled a mug of coffee from her sanctum and took a deep pull.
+
+Lea nodded. “So, you finally got thirsty enough that you picked dad up and took a drink?”
+
+Tala spat out her coffee, filling the air with black coffee. It only sprayed out for a moment before she seized the liquid and pushed it all back into the sanctum. From there, an act of will purified it, leaving only coffee which she returned to her mug on the superficial. That accomplished in less than an eye blink, Tala turned a glare on Lea, not dissuaded by the girl’s innocent seeming expression. “You did that on purpose.”
+
+“Whatever do you mean, Mother?” She actually fluttered her eyelashes at Tala.
+
+“Don’t ‘Mother’ me, child. You’re acting far too suspiciously. Who was it? Who put this idea in your mind? …Alat.” The last was as much an accusation as a question.
+
+Lea nodded easily, her face morphing into a far more natural, happy expression. “Yes. Mother Alat helped guide my questions. She said it would be quite diverting, and she was right! I’m not thinking about how bored I am at all… well, I wasn’t.”
+
+Tala sent a glare toward Alat. I hate you sometimes.
+
+-Self loathing isn’t very healthy.-
+
+I agree. Maybe I should remove the source.
+
+-That wouldn’t be very healthy either.-
+
+Yeah, yeah… Even so, she found a smile tugging at her lips as Lea beamed her way. It was hard to stay mad at the girl, especially when no actual harm had been done. “Fine. So, is your curiosity sated?”
+
+“For the moment. I think you and Dad had a funny relationship. It isn’t like the fairy tales at all.”
+
+“Well, I didn’t really need him to sweep in to my rescue, even if he has helped me quite a bit, time and time again.”
+
+“And you help him too?”
+
+Tala opened her mouth to say ‘yes’ but hesitated. True, she was the primary source of their increasing wealth. Their home was within her soulbound space, but did she really, specifically help him? She frowned. “I try to… but he usually doesn’t seem to need it.”
+
+“Oh… do you need his help?”
+
+“No? I mean, it’s helpful, but I think I could do without…”
+
+“But he helps you anyway?”
+
+“Yes… yes, he does.”
+
+Lea waited for a long moment before shrugging and pulling out a book once more.
+
+They fell back into silence for a long moment before Lea shifted and looked back to Tala.
+
+“Mom?”
+
+Tala shook herself, having returned her focus to the surrounding countryside. “Yeah, Lea?”
+
+“I’m bored.”
+
+Tala felt her eye twitch.

@@ -1,0 +1,125 @@
+---
+id: e026d755-083a-56ab-9477-c22d1a131989
+page-type-slug: story-chapter-royal-road
+title: "Chapter 162 Obvious Hints"
+slug: 0176-chapter-162-obvious-hints
+partOf: melody-of-mana
+position: 176
+ownLength: 2023
+unit: words
+ownProgress: 2023
+publishedAt: 2022-08-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/973175/chapter-162-obvious-hints"
+royalRoadId: "973175"
+markedReadAt: "2026-06-29T22:31:56.098Z"
+---
+
+Touring large, old castles is always much the same. You get to see all the pretty rooms nobody uses anymore, with their fancy furniture and lovely art. As we drifted room to room I wasn't seeing much that I was interested in, that is until we came to the large banquet hall.
+
+"Here we have the banquet hall, where his majesty held dinners for heads of state," The guide explained to the oohing and aahing crowd while I stood frozen.
+
+"These tables are all remade from the originals, as sadly the wood simply could not survive the years. Have no fear though, they were painstakingly reproduced to be exactly like the originals," she continued as I felt my eyes growing wider and wider.
+
+"And of course some of you have noticed the art. That is the original piece, made to our beloved king's exacting standards. We're not sure of what it means, but theories abound. Those of you with access to cores may or may not have realized." I had certainly realized. "It uses symbols found in one of the less understood sections of the core. Try as we might we've never been able to translate them."
+
+There was a mural depicting the lands nearby, along with some of those on my own continent. It was massive, taking up most of a wall. Around the circular painting were words, glowing and ten feet in height.
+
+Upon Elazia, and situated to the North of my birthplace of Elayatol lies my workshop. To those who shall come after me and can read these words, seek answers there. -Justin
+
+"Justin?" I whispered, that must have been his name.
+
+Several of the elves nearby froze and looked at me with intense eyes, like I'd just committed some horrid faux pas. I immediately shut my mouth and tried to sink back into the crowd, but as our tour wound down I was still getting the stink eye now and then from those who'd heard my questioning words.
+
+It was obvious that the elves didn't bandy about the name of their king, dead or not, and I suspected that I'd just stumbled upon it. Had I thought before opening my big mouth, or perhaps asked earlier I might have avoided this little issue, but there was nothing for it now.
+
+The rest of the palace was lovely, but nothing was pulling me out of what I'd seen. The fancy hanging gardens and complex architecture was not ten foot high glowing letters telling me where I should 'seek answers'. As the tour ended I immediately went over to the library. There were terms that needed looking up, and the literal repository of knowledge was within a quick walking distance.
+
+Getting in was no big deal. I had to sit through another short lecture on the rules, and was right in that fire was banned, but the place was open to all, which seemed a bit unusual.
+
+"Something wrong dear?" the kindly librarian asked. He was an older looking elf, with a mostly bald head and deep wrinkles.
+
+"Ah, back where I'm from most libraries are rather restrictive on who they allow in," I explained.
+
+"Oh I see, I see. That is the standard for most human countries is it then? Well I can understand, but you see when our king first came to power building public libraries was one of the things he pushed. We still have records of the founding of several and his dictates about them. It was made clear that much knowledge should be spread to the people, to educate and the like."
+
+"How wonderful," I commented. "Um, I have a few things that I'd like to look up, could you tell me about the organizational system?" if this librarian was anything like the ones from Earth, he might just be able to direct me to exact answers, or at the least the books most likely to have them.
+
+"What sort of questions?" I was gifted with a rather kind smile as prepared to help me.
+
+"Well, the first is a bit odd, but something I'm confused about. All I ever hear someone call the king is simply that. Did he have a name? Is there some reason that nobody ever says it?" I needed to know so that I didn't piss anyone else off.
+
+"Ah, yes, that is a bit of a touchy subject isn't it. There were several recorded. There is of course the name he used on official documents when signing, but that is more of a title than a name, and translated from the older versions of our language simply means something like 'the first king' so it's considered not quite proper to refer to him by that. There are also several families who claim that he was this or that of their scions, but all of those are unconfirmed. As one can imagine, agreeing to any of these would basically mean you side with them above the others. Then finally there is the name that his friends called him by, which at the time was considered a privilege of only those he called friends, hardly appropriate for us to use."
+
+"So using any of those is..." I started.
+
+"Exceptionally rude, yes. From the look on your face shall I surmise that you did by accident do such a thing?"
+
+I nodded, thinking that here at least, honesty might be the best policy. "Yes, saw something written down somewhere and got a lot of looks when I read it."
+
+"Curiosity is no wrong child. I'll write down the most common for you so that you may know in the future not to use them." He took a piece of paper from a desk and did just that. It even had the names divided into sections.
+
+The first, proper title was kind of long, but if you squinted it looked like 'the first king' in Atali. Below that was the name his friends had called him, which of course was 'Justin' finally was a whole plethora of names from various families, that I could never really hope to remember.
+
+"Thank you so much," I said as I put the list away.
+
+"Of course, any other questions?"
+
+"A few on geography, but I'm afraid the references I'm going off of are likely very outdated." That might be the understatement of the century, we'd have to see.
+
+They were in fact very outdated. Elazia was the easiest to find as it was still in use in some circles and was simply the name of the continent I was on. There was one for the human continent as well, Hediza, but because these were in Atali or its variants wasn't used back in The Empire or anywhere else I knew of.
+
+Elayatol was a far, far harder. I was sent well back into the town records, copies of documents thousands of years old, but finally I found a reference in one of the books on record. Elayatol had been a town situated in the West in a low and rather odd valley. I of course recognized the geography at a passing glance.
+
+While the town wasn't called that in the diaries of Ristolian, the map he'd included led to the same place. It seemed he'd followed the same directions that I was after and headed to the same area. I don't imagine it was that hard if he, like myself, and decidedly the elven king was another transmigrator. That would be mostly because some guy named freaking Justin had left it in TEN FOOT GLOWING LETTERS hanging on a wall, subtlety had really not been his strongest suit.
+
+There was of note another town there now. It wasn't known as the birthplace of the elven king, which I guessed was by design, but it stood on the same general location. Its name was Eratol. I was at least glad for that much information.  There were also some tax records that indicated that the town was at least decently sized, but I got the feeling that it was too rural for most of the government to care too much.
+
+After making some notes and thoroughly satisfied that we were on the right track I headed back to our temporary base, on the way buying another snack from the same vendor as before.
+
+I arrived back before most of the rest of the team, and on my way in ran into Olnir and our lovely host escorting an elven man down from the upper floors.  This gentleman was older and more muscular than those I'd seen before.  With a light sprinkling of salt in otherwise pitch black hair, he had some of the facial features that I'd come to expect of elves his body shape was nowhere near the lithe and long forms that tended to pervade.  Rather he was broad shouldered and had a certain worked look to him, not like a bodybuilder, but like a man who was used to hard physical labor.  His ears also had the smallest points that I'd seen on any elf yet, barely even coming to the triangular shape.
+
+"Ah Alana you're back, I just speaking to Mr. Ulanion here about acting as our guide," Olnir said as I approached.
+
+"Pleasure to meet you." He offered me a hand with calloused fingers and we shook.  As we did so I took a few moments to check out his aura.
+
+There was a light green vine-like aura growing around him, mostly focused on his arms, which were rather larger than I might expect.
+
+"You as well, I'm one of the bards on our team," I offered.
+
+"Well, assuming you'll have me I'll mostly be acting as a guide, but I do have some skill with a bow."
+
+"Well, if you don't mind stopping by tomorrow morning?"  Olnir asked and the elven man gave a smile before turning to leave.
+
+As he did I noticed two things.  One was Selene making her way in, and two...
+
+I liked to joke that I was a walking bakery, which in some ways was quite true, but I had nothing on Ulanion.  My eyes nearly popped from my head as he walked away and as he passed I noticed Selene follow them, soon her face too joined mine in slight shock.
+
+"He seems nice," I managed as he made his way out the door.
+
+"Uh-huh," Selene agreed with a profound nod.
+
+"I agree, he does seem the best qualified."  Olnir had totally missed, or just ignored, our exchange, and so sent a smile to our friend the emissary's face.  My guess was that she wholeheartedly agreed.  "Did you find anything useful?"  Our esteemed leader continued.
+
+"Yes actually I did."
+
+"Please do tell."
+
+I looked at the woman whose place we were currently using.  She wasn't a part of our mission and at my apologetic smile understood.  Leaving us with a small nod.
+
+I took the time to set up a set of basic privacy wards before I let my team members in on my info.
+
+"I heavily suspect I found what led our... guide to the location we're headed, and a message from the former king that there's something there," I said, letting them in on the secret I'd discovered.
+
+"Details?"  Olnir asked with a quirked brow.
+
+"A puzzle in the palace.  Without knowing a few tricks about the core you wouldn't be able to work it out, but it basically just says to go where we're going anyway."
+
+"Tricks?"  Selene looked interested.
+
+"Yeah, but unless you've got several years to learn about codes and the like to decipher things you already know, don't bother."  That was true enough, learning English was famously a bit of a pain.
+
+"Hmm, it doesn't change things, but good to know that we're on the right track.  Thank you, anything else?"
+
+"Not as such, there's a nearby town to our location by the name of Eratol, middle sized, nothing too special in the records."
+
+"Right then," said Olnir.  "If all goes according to plan we should be able to hire our friend there and head out in two or three days."

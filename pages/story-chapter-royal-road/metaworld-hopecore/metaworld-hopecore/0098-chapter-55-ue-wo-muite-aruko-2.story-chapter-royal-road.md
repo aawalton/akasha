@@ -1,0 +1,115 @@
+---
+id: 7ebe8856-61e4-5d0b-99f7-b4dfd1c08779
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 55 - Ue wo Muite Arukō (2) "
+slug: 0098-chapter-55-ue-wo-muite-aruko-2
+partOf: metaworld-hopecore
+position: 98
+ownLength: 1436
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3487309/chapter-55-ue-wo-muite-aruko-2"
+royalRoadId: "3487309"
+---
+
+She spent the afternoon wandering around Central Park, returning to Henry now and then. When she came back at sundown, however, the artist was gone.
+
+Eppie made plans to keep digging into her mysterious artist tomorrow, then walked the forty-eight blocks to the Four Seasons, soaking in the city’s atmosphere. After the first five blocks, Fifth Avenue melded into a rhythm of shopfronts, neighbourhoods and milling bodies. Places both familiar and unfamiliar faded in and out of view, teasing the memory of another life.
+
+At the Four Seasons, the staff welcomed her back and informed her very respectfully that Dr Vaughan’s man had come by and dropped off her luggage. She thanked them, then ordered room service for dinner. She ordered a double cheeseburger and fries. Walking for nine hours made a girl hungry.
+
+After that, she very carefully changed out of her only good clothes, showered, lay on the silken sheets, indecently dressed in the softest bathrobe, and then examined her loot for the day.
+
+The first drawing was the one Henry had gifted her for feeding the cats.
+
+Kimi. It was a ballpoint drawing on cardboard, with bold black outlines; the orange tabby was caught mid-chew. There was this specific warm tangerine she'd watched him mix from two ballpoint pens. There were parts of the cereal box underneath, the imprint visible through Kimi's belly if she held it up to the reading lamp.
+
+“H. Kiritani, 2007. FOR A GIRL WHO FED CATS.” Eppie marvelled at Henry’s professionalism.
+
+She carefully squared it away and took out the second drawing. She recognised the rounder body, sitting with both front paws tucked under its body in the classic loaf formation, eyes like sharp tacks. The Cat had the dignity of a Samurai, and Henry-san had captured it perfectly. Below the drawing, in small, meticulous letters: Tanaka.
+
+“How cute,” Eppie said softly, reading the signature, “H. Kiritani, 2007, TANAKA PREFERS BLONDES.”
+
+“Aww…” She set Tanaka beside Kimi on the duvet. The aesthetic of the drawings on cardboard was genuinely impressive. She wondered for a second if Vaughan might like them.
+
+The third item.
+
+“What the hell…” Eppie leaned in.
+
+This one she hadn't expected. Tucked behind the second cat drawing, folded twice. It was old. A very old piece of work. Henry had simply pulled them out of his bag. He didn’t even look.
+
+It was a landscape, horizontal, on a truly ancient slab of cardboard. It showed a grid of low buildings against flat scrubland, a watchtower in the upper right, and a fence line that ran from one edge to the other in a brutalist way. The sky above was blank, pressed down, heavy. In the foreground, small figures stood in a queue, their backs to the viewer, shapeless in winter clothes.
+
+No cats.No colour at all. Black ink only.
+
+“H. Kiritani, 1954. TULE LAKE CONCENTRATION CAMP. NO-NO BOY BORN IN SACRAMENTO, CALIFORNIA. 1920.”
+
+She sat up. The robe slipped off her shoulders. What the fuck?
+
+Her hands were shaking. Her [Sublime] was shaking. What was it that the [System] said? You may sometimes enter a trance that delivers hypercritical appreciation of artwork with a high [Karmic Resonance] trait.
+
+“HOLY SHIT,” Eppie stared at the cardboard. “Don’t tell me…”
+
+She took out her iPhone. She typed Tule Lake.
+
+She typed Tule Lake Concentration Camp. Did you mean Tule Lake Internment Camp? Google asked. She clicked yes.
+
+And there it was.Unauthorized usage: this narrative is on Amazon without the author's consent. Report any sightings.American history. The worst kind. The internment of 120,000 Japanese-Americans, American Citizens, incarcerated by nationalism and paranoia.
+
+The perspective of the drawing wasn’t from outside the camp. It was from… the inside?The kids… the kids in the drawings were the worst part.
+
+Eppie gulped.
+
+The fourth item.
+
+This one was actually newer. But it was damaged. The paper must have come from an old print factory roll, because it was thick and textured.
+
+Her eyes knew what she saw before her body registered it. The shape was too iconic not to recognise. The geometry was too permanently etched into the 20th century psyche.
+
+“H. Kiritani, 1975. NO-NO BOY. NO CITIZEN. NO OATH.”
+
+Eppie sat very still on the 2000 thread-count duvet in her unmentionables and a robe, rolling in the [Sublime]. She had known it was coming. The [Trait] had said as much. The [Karmic Resonance] was like The Great Wave off Kanagawa, washing over her, flooding her synapses with shared feelings, emotions, and the synaesthesia of unimaginable trauma.
+
+Henry Kiritani was born in Sacramento, USA, in 1920.He, an artist of the floating world, was pushed into a concentration camp in 1942. He felt his family and his home of Hiroshima being erased from existence in 1945.He had refused an oath of loyalty to the nation that murdered everyone he loved in 1946.Then he became homeless, and in 1954 and 1975, he imprinted history onto found canvases.Finally, in 2007, he gave it away to a gaijin girl for company and katsudon.
+
+“Christ Almighty,” Eppie said to her reflection in the mirror. Her eyes were hot. The [Sublime] had left no quarter. Far more than Euphemia ever could—Eppie understood the [Karmic Resonance].
+
+Henry Kiritani was currently sleeping in Central Park. A man who witnessed the Hiroshima bombing, who survived Tule Lake, who gave her two pictures of cats, was now sleeping somewhere out there in the December dark.
+
+On Christmas Eve.
+
+It was now 10 PM. The iPhone told her it was 20°F out.
+
+After ten seconds of indecision, Eppie got dressed.
+
+When she arrived, the lobby of the Four Seasons on the evening of December 24th was doing the work of being very beautiful, very busy. The hotel had organised six carol singers—a professional a cappella ensemble, six young men and women, positioned near the grand staircase in matching holly green and burgundy.
+
+Around them, a loose congregation of guests had gathered to hear the music. Older couples with their nightcap glasses, a family with a child lifted by a father's arms, three businessmen who had stopped mid-conversation to listen, well-dressed women in heels, holding cocktails.
+
+The singing was very good, which made Eppie feel worse.
+
+What was she to do? How would she find Henry? What could be done when she found him?If she had her Amex Black, these would not even be considerations, but her funds were limited, and as a fifteen-year-old student, so were her offerings. Could Juliana—Fuck, I don’t even have her number. Not to mention she’s not home.
+
+Eppie came through the lift in her K-Mart coat, her scarf wound twice, her gloves already on. Her eyes drifted from the carol singers to the front door when both eyeballs stopped dead in their tracks.
+
+Valorie Sanders was standing alone, looking like an advertisement for the Four Seasons, watching the carol from beside a column, drawing attention from her observers. She was fully dressed. She was waiting for someone, probably Sir Woodhouse.
+
+Eppie stopped mid-stride toward her fated foe when their eyes met. She wanted to greet the girl, but her head was filled with visions of Henry in the cold, warmed by nothing but cats. Besides, it was dangerous to get too close to Valorie, especially within kissing distance.
+
+Her cognitive paralysis had brought her to a standstill when, unbidden, the carolers began a new song.
+
+How could you leave me standing?
+
+It was a four-part harmony, sung perfectly with escalating resonance, filling the lobby with their heartfelt plea for charity on Christmas.
+
+Alone in a world that’s so cold.
+
+The choral performance wasn’t Prince’s heart-rending conversation with his parents; it was Eppie’s church arrangement, the one she had arranged for the Reedley Choir on nothing but hopes, familia, and vibes. One of the carolers, a young man, had a faultless treble that reached the very height of the grand lobby. Rather than angsty, what he delivered was liturgical supplication, an antiphon on human compassion. His fellows then joined his voice in a choral that held the cry of the dove aloft like a sustained organ chord.
+
+Her feet were moving again.
+
+She gave Val a nod. The girl nodded back after a two-second delay—
+
+Then the frigidity of NYC at night hit Eppie’s face like a frozen fish, but it was okay. Euphemia Fontaine knew what to do now. She would find Henry. She would bring him back to the Four Seasons, then she would have the man who bought her song pay for his room.
+
+It was two hours to Christmas on Christmas Eve. A perfectly reasonable time to call Daddy and ask for a Christmas present.

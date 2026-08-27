@@ -1,0 +1,257 @@
+---
+id: 7c887b17-5bad-59a5-a610-66ab59b371b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 635 - Pass in Peace"
+slug: 0138-chapter-635-pass-in-peace
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 138
+ownLength: 3066
+unit: words
+ownProgress: 3066
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2760061/chapter-635-pass-in-peace"
+royalRoadId: "2760061"
+markedReadAt: "2026-06-29T19:39:29.310Z"
+---
+
+Tala took a deep breath, standing in her full armor at the edge of a known magical monster haunt.
+
+These monsters weren’t really close to a human city, though apparently in cycles past there had been a necropolis near here, before the traditions and culture around the dead had been shifted in millennia past. Regardless, these creatures weren’t a current threat to a city.
+
+This nest didn’t lie along any standard caravan route, so this wasn’t to protect travelers. Though, that was partly the case because the routes went around this known nest.
+
+No. Tala’s daughter had asked to see just what Tala was capable of, and Tala hadn’t wanted to disappoint the girl. She hadn’t even let the knowledge that Eskau Meallain had put her up to it sour the mood.
+
+Tala had tried to see if this would count as the gift to Lea for her Binding, but the girl had demurred once more. In over a year, the girl hadn’t been willing to accept anything as qualifying for that, and Tala was beginning to get suspicious. There seemed to be a plan, and this wasn’t it.
+
+Still, she did want her daughter to be able to see her fight…
+
+As such, Enar and Alat had scoured records of monster sightings, and magical readings, until they’d pinpointed a likely location for a group of Refined equivalent beasts.
+
+They’d found this one with relative ease, and now Tala stood facing a cave in which waited near to one hundred bone reavers.
+
+In most senses, it was crazy that she was pursuing these creatures ‘just because’, and it reminded her a bit of the upland tiger fiasco way back when. Thankfully, not only had Terry killed at least one iteration of that creature—demonstrating how far they’d come directly—but Tala, herself, was far more powerful than she had been, then.
+
+But she wasn’t facing an upland tiger.
+
+Bone reavers were not, as the name might imply, any sort of undead nor reanimated creatures. Instead, they were creatures that consumed massive quantities of bone before processing, enhancing, and incorporating the material across their entire bodies, making them some of the most heavily—naturally—armored magical creatures known to gated humanity.
+
+They each stood near to five feet at the shoulder, and their bodies were far more akin to upright badgers than that of a human or humanoid.
+
+They had long, retractable bone claws—as stood to reason—for flensing flesh from the bone, as well as teeth, meant for gnawing and grinding, attached to massively powerful jaws.
+
+Tala had been curious why such creatures were so well armored, what benefit it gave them, and Alat had informed her that they not only were a favored quarry for rocs of various size and advancement, but that, seemingly, creatures of the deep—those natural and less influenced by Reality’s hatred of gated humanity—often came up through the passages and caves in the ground to eat of them as well.
+
+It all seemed a bit suspect to Tala, but apparently there were pockets of such advanced creatures scattered about that gated humanity generally left alone. This was partially to keep those more apex predators from being a greater problem than they already were, but it was also seemingly due to a general lack of resources and high level combatants for such non-critical threats.
+
+Tala’s hunting of them now wasn’t an issue either, due to their nature as ‘true’ magical creatures, meaning that they would simply be recreated by the interactions between the local zeme and other factors. She had been told in no uncertain terms to not destroy their connection to the region, as that could cause unknown threats to appear.
+
+-So, have you self-justified enough?-
+
+…Yeah… Tala glanced over her shoulder, garnering a wave from Lea where she stood next to her father. Rane smiled and nodded encouragingly. He clearly had no concerns about Tala’s safety.
+
+Terry was grumpily sitting on Lea’s shoulder. Though Tala wasn’t one hundred percent certain whether his mood was due to her telling him that he couldn’t fight, or to the fact that these particular enemies were notoriously not good to eat.
+
+-Both?-
+
+Both.
+
+-Both is good.-
+
+Or are both bad?
+
+-Maybe, but… We’re delaying again.-
+
+Tala sighed. Right.
+
+Part of her wanted to just shoot a dissolution breath down the cave and be done with it, but Lea had requested an actual display of fighting prowess. As such, Tala needed to balance her approach, not relying on her various options for overwhelming force.
+
+Welp, here goes nothing.
+
+She strode forward, lugging her burden along with her.
+
+As she crossed into the entrance of the large cavern system—the depth and breadth of which faded into the distance, beyond the ability of even her threefold sight to see—the nearest bone reavers oriented on her from deep within.
+
+They didn’t have line of sight on her, but they clearly sensed the violation of their territory.
+
+At this point, Tala could have flared her aura, and the most likely result would have been the creatures hunkering down or fleeing.
+
+Instead, she kept her displayed advancement suppressed and upended the massive pile of bones from an expanded bag that they’d acquired for this lovely outing.
+
+The load were the no-longer-magical bones of various arcanous creatures. These would normally have been left behind at the time of harvest, but when the Sappherrous family had put out a call for them, it had taken less than a week to get what amounted to nearly a ton of the material.
+
+The sound of rattling, clattering, cracking, and bouncing bones reverberated through the cave, reverberating down, down, down into the depths. As such, there was a collective pause among the reavers that Tala could perceive.
+
+When the racket from her unloaded bag had finally trailed off, Tala gave the bag a final shake before tossing the incredibly expensive construct back toward her waiting family, uncaring that it landed in the summer grasses.
+
+-That’s larger than Kit was, even after our first expansion of her.-
+
+Yup. And yet it’s of very little use to us.
+
+-True enough.-
+
+As the last of the echoes faded, Tala began to hear the odd, clicking rattle of the reaver’s form of communication.
+
+Their lower jaws quivered and vibrated, causing their teeth to scrape off and knocked into one another in reverberating patterns that carried rather far, while being fairly distinctive, despite the overlapping echoes.
+
+There were a lot of them coming.
+
+“Time to prepare the field.” Tala actually felt a smile tugging at her lips despite her desire to be elsewhere, studying, striving for her Reforging.
+
+How long had it been since she entered combat just for the fun of it?
+
+True, she had ulterior motives here, it wasn’t strictly just for the fun of it, but the motives weren’t about keeping anyone or anything safe. It was just her, and her enemies, those who would soon die.
+
+Iron spikes lifted to the superficial all around her before driving outward to embed in the cave’s walls, floor, and even ceiling, creating a near-unassailable bastion of her will, aura, and authority.
+
+As she did this, she felt the expansion of her ‘self’, of her reality node as she claimed this cave as more than just hers, it was—even if just temporarily—a part of her.
+
+To do that, she leaned heavily on the ideas of the collective-yet-singular self that she’d observed in New Makinaven and Old Alefast. Now just Makinaven, I suppose. The old one is officially Makinaven, Waning now… and the ruins of Alefast, now. No city left, new or old, not really.
+
+-True.-
+
+The reavers were picking up their pace, but they were still a few minutes out. As such, Tala flexed her will and moved the bones about here and there to hopefully break up the incoming tide.
+
+She then decided to amplify the gravity of some of them toward their neighbors, building that magic for use with a redirection once the swarm arrived.
+
+She would also use her pre-prepared projectiles, but a few more weapons were often useful.
+
+Alat sent her the impression of a flat stare. -You have literally hundreds prepared and orbiting at speed in your void-donut. I genuinely think that, at the moment, you are in a place that no more would be useful.-
+
+Yeah… well… I’m doing it anyway.
+
+Alat sighed. -Very well. You do you.-
+
+Standing there in her full armor, she pulled Flow to her hand, feeding it a trickle of power and increasing it to the form of a glaive, she was ready.
+
+Yet… This would still not be a good demonstration of what she was truly capable of.
+
+With a sigh, she sent Flow to hover off to one side, in front of one of the larger bone-piles.
+
+She then pulled her now rarely used defensive discs and shields through a portal into their sanctum, positioning them throughout the to-be battlefield.
+
+A quick check ensured her connection to the bloodstars embedded in each of the tools, ready for her to manipulate if she needed more power and control than her aura and authority would give, especially in the middle of a conflict.
+
+In that moment, the front-runners of the reavers came around the bend some two hundred feet from her. They saw her, and instead of slowing, they let out chittering howls, their claws extending and beginning to send up sparks as they dug into the stone and launched themselves forward with renewed ferocity.
+
+I didn’t know that bone could cause sparks like that?
+
+-Magically hardened? That’d be my guess.-
+
+Regardless, as more and more of the reavers came into sight, Tala decided that if she was going to show off, she may as well do it properly.
+
+Three portals to kit opened and closed in quick succession, one after another, each aimed to send their payload at the bend in the passage from a different trajectory.
+
+Three pairs of siege orbs slammed into ranks of reavers, killing those they hit outright before they detonated, sending waves of bone fragments and freezing air washing out.
+
+That killed a swath of the creatures even with their heavy defenses, but not as many as Tala had hoped. More slipped, slid, and tumbled due to the suddenly unsure footing within the cave.
+
+That created a break in the charge, separating off the first group for easy picking.
+
+Many of the oncoming reavers were ignoring her entirely, their eyes only focused on the piles of bones spread around.
+
+It was those that she targeted the gravity-amplified bones at, causing what might have otherwise been tasty treats to become deadly projectiles.
+
+Well… that was what she’d hoped.
+
+Unfortunately, even the relatively strong, arcanous bones seemed to be no match for the incredibly enhanced bone armor of the reavers, causing those bones projectiles to splinter and vanish in great puffs of bone dust upon impact.
+
+Well… that was less useful than I’d hoped.
+
+-Indeed.-
+
+But she didn’t allow herself any further distraction.
+
+All across the cave, her tools rose up and slammed into various opponents.
+
+Then, with her authority and aura established without question, she flickered, drawing on her connection to Terry to enact her own brand of dimensional magic.
+
+When one of her shields or discs fouled a reaver’s footing, or knocked them off balance, she was there, flickering into being for just long enough to lash out, cracking through bone armor and setting each opponent up for deadly blows upon her return.
+
+At the same time, Flow moved under her guidance, the weapon—sometimes a sword, others a glaive or knife as the situation dictated—was a blur of devastation, its magical edge cutting with Paragon level power and authority, the void-form not required to deal with these threats.
+
+Tala, herself, wasn’t required to wield the weapon, though she was the one controlling its quick thrusts and sweeping slashes.
+
+Claws occasionally scraped across her armor as she flickered about, but she didn’t remain in place long enough to truly be challenged, and when she returned to deliver another staggering blow or finish off those primed and ready for such, she was rarely anticipated.
+
+Her tools were each independently controlled, as Tala strained to monitor and guide them all at once, and not just as mirrors of one another. She leaned heavily on what Mistress Kaeti had taught her, and the exercises that the woman had given Tala in order to increase her competency in such methods of fighting. As such, each one of them was being controlled with her full skill, the surrounding situation and dispensation of opponents always taken into account.
+
+Tala, herself, was never in any one location more than a breath, and as the reavers kept coming, she began to intersperse her flickers with carefully controlled pulses of her dissolution breath or precisely fired gravity shots.
+
+She strove to be far more… delicate than she usually would have been, well aware of her daughter’s eyes on her, and wanting to be a good example of control even while under duress.
+
+Lea and Rane were cheering from their positions, well outside the entrance and away from any incentive for the reavers to come out to them. One on one, Lea would likely have been more than a match for these creatures—they were barely worthy of their relative advancement ranking after all—but in a swarm? She would likely have been overwhelmed.
+
+They all knew that this wasn’t really a trial for Tala. It was genuinely just meant to be a display of her various capabilities for Lea.
+
+And Lea loved it. “Go, Mom! You can do it! Show them what you can do!”
+
+Tala grinned beneath her helmet but still not letting her daughter distract her.
+
+Another wave of siege orbs lashed out, killing many of a more coherent group, and spoiling the footing of the rest.
+
+Then, she was there, flicking in among them a moment later, even as she guided Flow to take advantage of the distraction to mow down a different section of opponents on the far side of the cave.
+
+The only time things went slightly off the rails was when a sort of alpha surfaced, absorbing its fallen brethren and the bonepiles in equal measure, its magics on full display as it charged, a roar of challenge vibrating through the cave system.
+
+Tala allowed it to snap its jaws down on her leg, the teeth grinding on the thick armor plating there.
+
+She was surprised when the greaves began to deform inward under the impressive strength, and her punches were actually having difficulty cracking the armor plating of the beast in turn.
+
+Without missing a beat, Tala focused and let out a highly contained pulse of dissolution breath, hitting it in the eyes and drilling deeply into the skull, the contained nature of the orbital cavity making it easier to concentrate the magic to drive deeper, faster, and more precisely.
+
+A moment later, a punch through the same weak point let her hand access the brain—such as it was—and the creature died quickly after that.
+
+While the fight, itself, wasn’t anything truly strenuous, Tala found something within herself awaken at the effort, the puzzle, the challenge.
+
+Reforging had become an almost monotonous project, one that, in her times of greatest frustration, felt like it was forever out of her grasp.
+
+This, though? This she could make obvious progress on.
+
+And so she continued, leaving none who came within her aura to survive.
+
+When things were winding down, the partial view that she kept on her family let her know something odd had occurred.
+
+Rane’s gaze had unfocused for a moment, and then he’d paled, leaning over to talk with Lea so quietly that Tala couldn’t hear it over the tumult around them.
+
+The girl’s joy had bled away, replaced by an odd seeming, quiet certainty.
+
+Alat? What happened?
+
+-Finish up. I’ll let them tell you.-
+
+Tala grunted and did so. If it had been urgent, Alat would have told her. Still, she leaned a bit more heavily on ‘quick’ kills than she had before, and the reavers seemed to finally understand that this wasn’t a feast, ready for the taking.
+
+It was a killing ground.
+
+Those that had still been pouring in lessened, and finally, the influx ceased, leaving a bare handful to be slain in the last moments of the slaughter.
+
+A minute after the last died, Tala was satisfied that none had escaped her notice and that no more were coming.
+
+With the demonstration over, she turned and strode to her family, calling all of her tools back to herself and returning them to their various sheaths and spots, awaiting her need.
+
+Rane smiled, but there was still a tinge of something in his eyes. “Wonderfullly done, my love.”
+
+Lea hopped forward and gave Tala a hug. “Thank you, Mom. That was really fun to see.”
+
+Tala dismissed her armor to hug her daughter, then her husband. “I’m glad you liked it.” She then met Rane’s gaze. “What happened?”
+
+He winced slightly, then sighed. “Alan took a turn for the worse. He’s… he’s dying. The Healers give him less than a month to live without significant intervention, which he has refused.”
+
+Tala closed her eyes and took a deep breath, letting it out slowly. “Very well. I hope that he passes in peace.”
+
+“No.” Lea’s voice was firm without being disrespectful.
+
+Tala turned to her daughter. “Lea. You can’t force someone to be healed if they don’t want it.”
+
+Lea shook her head. “No, that’s not what I’m saying.”
+
+Tala frowned. “What then?”
+
+“You won’t just ‘hope he dies peacefully.’ You’ll see him again.” Her eyes were hard. “It’s been a year, but you offered me a gift for Binding. I want to meet my grandfather before he dies.”
+
+Tala stood with open mouth for a long moment. She wasn’t surprised, not really. She’d known that Lea hoped to use such a situation to this exact effect, but she still had hoped that Alan would die quickly, making this a non-issue.
+
+She turned to regard Rane, and the big man shrugged. “Ironhold is already packed up. We can be to Marliweather inside the day.”
+
+His tone indicated that it was still up to her, however. Tala closed her eyes and grimaced. Finally, she gave a slow nod. “Very well… So be it. Let’s go to Marliweather and introduce you to Alan.”

@@ -1,0 +1,229 @@
+---
+id: 677ef88f-cf99-56a4-bc4b-b96b1d621af2
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 11 - Life on Mars (2) "
+slug: 0021-chapter-11-life-on-mars-2
+partOf: metaworld-hopecore
+position: 21
+ownLength: 3019
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3366451/chapter-11-life-on-mars-2"
+royalRoadId: "3366451"
+---
+
+After dinner and a light bit of homework, she completed a circuit around the campus.
+
+Her roommates did not join her on the final run because they were completely exhausted by the first day. Halle was knacked because she was overwhelmed by the workload, and Ava because her routine was torn to shreds by the Dance Chair.
+
+As the Junior had put it succinctly, good is enough is good enough—but it sure as hell ain’t Guilliam's audition material.
+
+This was a new bit of information that Eppie had learned about her friend. Ava’s original goal had always been Guilliams, but she wasn’t good enough for their junior division. She did, however, make it to LAPA, and if she could graduate with honours, then she had a chance for the real Guilliams—their college conservatory located in Manhattan.
+
+Curfew at LAPA was very generous, with campus students allowed to return as late as 10 PM. Eppie returned to her room at 9, showered, then sat down to perform a ritual she had not engaged in almost two decades.
+
+Homework was… surprisingly effortless.
+
+Her first task was to finish Antigone, which she had done a few decades prior. Her second task was to isolate three instances of Hamartia, which she did in about thirty seconds. She had a journal entry due in the morning. She did this in 10 minutes.
+
+The same went with World History and Algebra, At 10, Mama Josefina came knocking to check that the girls were at home and safe, then went about her patrol of the rest of the building.
+
+Eppie then lay in bed, plotting the information she had gathered thus far.
+
+The gazelle girl. The redhead. A boyfriend from… China?
+
+They were certainly a multi-cultural array of villains. The gazelle girl was clearly terrified of both herself and the redhead. The redhead was clearly surprised to see her alive and well, and held enough grievance to pop a vein when she smiled. As for how the boyfriend might feature into the story, Eppie had no idea, but the cliche was right there.
+
+And how should she approach all of this?
+
+Years of experience in corporate conspiracy had informed her that she should feign innocence and do nothing until more information revealed itself. Her knowledge of the school, her role within it, and the role of the people within it, remained far too incomplete. Until she had a better idea of what to expect, it was safer to be reactionary than take action.
+
+Besides, with the [System] on her side, she could probably outrun cars…
+
+“[System],” she said to the darkness. “Raise [Physicality].”
+
+Trait Acquired
+
+[Physicality] Causality Tier (B+)
+
+You have acquired a rare talent for body control, creating vivid actions through fine motor manipulation. This trait is modified by your [Agility] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+[Causality: 1921]
+
+She woke up tired the next day.
+
+This was no surprise, because she woke up twice thinking about that shifty silhouette by the Union building.
+
+After expending her daily allotment of [Causality], she topped up her [Stamina] and packed her duffle for the second day of school.
+
+Her block lessons for the day were Algebra II, English Honours, and World History. The first concluded with quadratic functions, the second with Stichomythia, and the third with the Enlightenment.
+
+Then, she ventured into the administrator’s office to tutor her student in the dark magic of Excel.
+
+“Your request for competency has been granted,” Coordinator Carr informed her with a face full of scepticism. “Friday is the earliest you can take it. 730 AM, Salazar Hall. Admin wants you back in your course if you fail. First Physics. You get one shot for both. Japanese is in the afternoon. Same thing. Salazar Hall, Language Lab. Pass, and you get to skip languages until May, where you’re re-tested for college credit.”
+
+“Fair,” Eppie thanked her director, then waited for the “but”.
+
+“What?” Carr blinked. “Anything else you’d like to know?”
+
+“VP Thomas was fine with this?”
+
+“She is.” “And the Principal?”
+
+Her Operational Director pursed her lips. “I didn’t ask.”
+
+Eppie pursued no future questions. Inter-staff politics wasn’t her area. Her only goal was to free up her hours for Chemistry and Languages. Both English and World History were essential to her survival, both of which she needed to get a grip on what she could possibly use to harvest [Causality] and to avoid burning her [Dasein] by accident, because in 2007, Google hadn’t yet ascended into the realm of Big Data. As for Algebra II, it was easy enough to take, and it gave her time to think and plan her moves; otherwise, she would have had a random hour or a 40-minute break between her blocks. Call it pedantic, but she really hated irregular schedules.
+
+Coordinator Carr's Excel lesson continued.
+
+Though there were no more windfalls of [Causality].
+
+By noon, the sun was a scorching ball of fire that made her long for the beaches of Santa Monica, her mansion, and her private pool. The weather had gotten so humid that even the more reserved students were switching to crop tops, skorts and camisoles, with the guys choosing to practice their lines in the amphitheatre in wife beaters. The consequence of so much hormone on open display was Eppie cringing at the fluttering gazes her peers shot her way, causing her to rapidly retreat from the quad into the safe confines of the theatre.
+
+After a heavy meal, she wandered around the quad and the amphitheatre, hoping to run into trouble.
+
+But alas, even the villains had heavy study loads.
+
+At 12:50, she arrived early at the studio classroom and received an approving nod from the presiding instructor, a locally renowned musician-turned-actor, Patsy Seyrova.
+
+Compared to the bookish authority of Costello, Seyrova was aggressively Eastern European and Draconian in her no-nonsense. Her movement instructor was classically trained in every way, seemingly in everything. A violinist by trade, she was also an accomplished ballet instructor hailing from a school with a Russian name Eppie could not spell on Google. Seyrova was pale-skinned, thin-lipped, with a profusion of darkly hued curls knotted into a controlled bun. She wore liners that made her look like a stern schoolmistress from the old country.
+
+With her peers shuffled into a perfect circle, Eppie watched nervously as the instructor approached on tiptoes, her posture regal and perfect, gliding across the Marley floor in her all-blacks.
+
+The students fell into deadened silence.
+
+“Welcome to day two. Most of you know me. Some of you do not. No matter.” The instructor's Russian accent, Eppie felt, added immensely to her authority. “We begin with plasticity. Follow my lead.”
+
+Her instructor landed first with the ball of her feet, then the skin of her sole.
+
+"Now, find your vertebrae. Unfix your spine. You are a segmented being, each column, each muscle, under your direct control. Slowly… slowly… release your head. Feel the weight…”
+
+Eppie allowed her head to droop. Her skull felt like a laden jackfruit hanging from the branch of her body.
+
+“We will now move. Do not listen for my cue. Do not look for it in your peers. Find the impulse. Give control to the minute muscles of your body. We are Flaneurs of a city, we wander without purpose. Immerse yourself in the walk.”
+
+They began to walk, not as one, but as a group. With her upgrades [Physicality], she was transcending her inexperience to finally feel the minute changes in her body, the way her sinews relaxed and grew taut, the way her feet contacted the floor.
+
+The heat of the surrounding bodies, moving in a mimed city.
+
+She dodged without effort, moved with grace, she—
+
+“Euphemia,” her instructor’s voice cut in like a sushi knife. “Don’t lead. You are a pretty girl, yes? Wrong. There are no pretty girls here. You are a pedestrian, not the main character of a Young Adult Fiction pretending to be one of the common people.”
+
+“Er…”
+
+“Shush… no words. Only malleability. Protest with your body,” Seyrova snapped, but her face didn’t wear her heart on her sleeve, as Costello had done. “Your body is now rigid. You have fallen out of Neutral. Calm. Try again.”
+
+Eppie tried, as did the others, and failed. What she did gain, however, was a tiny thread of truth, tied to the Plutonian cave and its abstract veritas.
+
+The group broke for water, then returned to find a new instructor.
+
+This time, the Sophomores were utterly silent.
+
+The man who entered, stowed his shoes, then beamed at them was none other than the Department Chair of Theatre, the voice of the Godfather himself.
+
+In Eppie’s notes, there were two whole A4 pages on Dr Craig Cooper. Cooper was a man of many accolades, but more important than anything, he was an institution. On the proficiency scale, it was difficult to find anyone other than living Hollywood legends to rival Cooper’s contribution to African American arts. According to her pamphlet, the man began his career in the gritty black box theatres of the 1980s, organising local youth, even gang members, to take up performance and Shakespeare. His “street theatre” was performed in almost every African American “ghetto” the media had labelled as too dangerous or lost, bringing dignity back to a stereotype that populist politicians used as their whipping boy. Later in life, he moved into early African American cinema, becoming a consultant to some of today's biggest African American directors.
+
+And in between all of this, the man lived as a humble instructor, first at community colleges, then at local theatres, then elevated to LAPA by Principal Burton. He was the “Poor Godfather” of African American theatre, whose royalties had all gone to scholarships and sponsorship of his mentees.
+
+And he looked like an Idris Elba raised by the grittiness of Compton.
+
+“Good afternoon, class,” Cooper stalked around the starry-eyed students in a manner that sharply contrasted the structured poise of the Russian movement teacher. “I’ll be moonlighting for two terms with you Sophomores, covering a module I composed myself: Power, Presence, and the Politics of the Human Voice.”
+
+“Throughout the next six months, as we work toward Winter Break, the lessons will be led by Dr Craig Costello, me, and Mrs Patsy Seyrova. In this endeavour, she will be your body, Dr Costello will be your heart, and I shall be your voice.”
+
+Eppie believed it. The man could be James Earl Jones if only his scale were a bit lower.
+
+“As the generation most exposed to screens, I know it's difficult to tear you away from the natural advantages of aesthetics.”
+
+He paused by the tall blonde girl, making a silent point for those who understood. From the smug flutter on the blonde’s face, however, neither she nor most of the others took the man’s true message to heart.
+
+“However, as you have learned last year, the truth of theatricality is a rejection of illusions; it is the search for human truths.”
+
+Cooper’s presence loomed. Or rather, his voice loomed.
+
+Eppie felt her heartstrings stir. She could listen to the man read a phone book and fall into a sweet slumber.
+
+“Theatre is not the cinematic arts. There is no close-up. There is no post. There is no second take. Theatre is the body. It is the heart. It is… the voice.”
+
+Cooper clapped his hands, dispelling the tension. “Today, we will begin with your advanced vocal training for theatre. There will be a thematic focus on tragedy, beginning with Antigone and then moving into Titus Andronicus. Fall auditions are in October. Spring Auditions will be held in January, immediately following Winter Break. There will be explicit expectations of both physicality and vocality. Roles will be announced prior, but it should be obvious what roles there shall be if you pay attention.”
+
+A girl raised a hand. “Will this year’s final project be multi-disciplinary?”
+
+“We are still in discussion with the other Chairs, but at least the theatre department will involve guest performers from Music. Conversely, if you do not audition, Technical students will be on loan to Dance for additional credit. Fine Arts will also be involved in props, materials, and promotion, together with Cinematic Arts. So yes, I do imagine it's multi-disciplinarian."
+
+A hopeful clamour broke out among the students, particularly those whose talent lay in more than one area.
+
+Watching her peers, Eppie pondered whether the [System] could manifest additional abilities and [Traits] in the other disciplines. After all, she had both [Songstress] and acting credit [Traits]. This either meant that the [System] responded to her environment or that an unseen hand guided her actions.
+
+The rest of the lesson was equally esoteric. The students lay on the floor, while Cooper spoke about the voice.
+
+“We taught you last year that your voice does not come from your chest. It comes from somewhere lower, your abdominal muscles. Jackson. What is the Diaphragm?"
+
+“An Engine!” The African-American boy replied, his voice deep and resonant.
+
+“Correct,” her teacher walked closer until he stood over her. “Euphemia, talk to me.”
+
+“Er… hello?” Eppie did the face.
+
+“I am very glad to see you again, Eppie,” her instructor smiled back. “I see that you’ve been working on your core.”
+
+“Lord knows I have.” Eppie laughed nervously, her face growing warm. “Em…”
+
+Her teacher leaned in, picked up the thick copy of Antigone, and placed it on her belly. “When you talk, LIFT the volume. Antigone’s voice pierces the stone of the cave. How else will anyone hear her lament? UPLIFT Antigone."
+
+“Like… literally?” Eppie tried to modulate her voice. Her copy of Antigone rose and fell.
+
+The Chair gestured to his aide. Seyrova hid her mirth, then brought over the copy of Norton’s Anthology.
+
+“Your abdomen is strong for a mere Antigone,” Cooper’s joke made the class laugh in unison. “Let me rephrase, try to UPLIFT literature through the Ages.”
+
+This time, Eppie felt it.Norton’s was a heavy-ass book. To lift it with normalised speech required the engagement of both muscle and organ. The voice came not from the throat. It came from the floor, rising through her pelvis, her gut, into her vocal folds. It was what Yaleena Cass had taught her, but far more basic, concrete, physical.
+
+“Good.” Cooper moved on, attending to each student as if they were his only child.
+
+The lesson lasted forty, perhaps fifty minutes, but it felt like twenty or less, leaving her panting for more.
+
+Abruptly, her vision blurred.
+
+Trait Acquired
+
+[Vocality] Causality Tier (C+)
+
+You have acquired a nominal talent for projection and articulation, understanding the voice as a physical, psychological human instrument. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+Her admiration for Cooper swelled like the noontide. To be able to squeeze [Traits] from a [System] as stingy as hers was an amazing feat for an instructor. If she had to roulette for the skill, lord knows how many units of karmic capital she had to burn.
+
+For now, all she could do was silently thank her instructor. In the future, she would repay the man tenfold.
+
+Their final hour was returned to their homeroom instructor, Dr Costello. As the heart of the trio of instructors, he continued to break down the speeches of Antigone and Ismene, this time having the boys perform lines from King Creon.
+
+Discussions were held about Creon’s rule as the head of state and the head of a civil system. And a journal review of his characterisation was set as homework.
+
+Back in the hallway, Eppie was once more drowned by the ritual of students stripping off their sweat-soaked all-blacks for the more colourful casual wear they wore to go home. The overpowering profundity of hormones and excessive body spray was nauseating, and she survived only by making her way outside as soon as possible.
+
+This time, she had a quest for herself.Unlike regular schools that seldom held stock of books, CSULA possessed far more resources than any elite private preparatory school could begin to imagine. Once she trudged home to shower and change, she emerged again in unmarked tees, a breezy skort and K-mart Nikes, carrying an enormous tote.
+
+Then she simply went to the College Counselling Office half a kilometre from the LAPA hub, where she charmed her way into multiple copies of multi-year AP Physics Prep Packs using her pretty privilege.
+
+After that, she went to the school library and borrowed a multi-year series of AP Japanese listening, writing, and speaking exam recordings on CD-ROM from the reserve collection.
+
+Her final stop was the Co-OP bookshop, where a very eager college part-timer tried to chat her up by giving her as much advice as humanely possible on the nature of quality second-hand annotations.
+
+Unnerved by the boy’s hopeful eyes, she quickly left with books in tow for the Student Union’s dining hall.
+
+At this time of the day, LAPA’s students were just readying to return home from their volunteer practice. Among the university’s own students, her peers manifested as a strange phenomenon, like Hogwarts students sitting at a popular Muggle bar. Over yonder were the dance students, long-limbed and athletic, attention-drawing in their leotards, tracksuits and hyperbolic body language, dominating their side of the arena. At the musician’s corner, students noisily talked, hummed, or engaged in percussive contests using their utensils.
+
+In her corner, where she had gravitated to the Theatre kids, kids were doing their homework, marking scripts, or practising lines.
+
+And among all of this, CSULA’s students ate, read their phones, or studied, completely oblivious that they were among an invasive species from another universe.
+
+From an industrial-grade Panda Express, Eppie ordered food for three, then returned to her table.
+
+She ate with eyes open and ears alert, hoping for some extraordinary encounter with her former tormentors, only to eat in complete peace, save for a few “Theatre” friends who stopped to say hi and joke about her suicide-chilli Laksa.
+
+The latter was her favourite. After all, her [Pain Suppression] was B+.

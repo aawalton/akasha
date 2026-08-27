@@ -1,0 +1,91 @@
+---
+id: 31097141-5f4a-58dd-b958-3a470c392ca3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143 'Help'"
+slug: 0156-chapter-143-help
+partOf: melody-of-mana
+position: 156
+ownLength: 2060
+unit: words
+ownProgress: 2060
+publishedAt: 2022-06-07
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/922501/chapter-143-help"
+royalRoadId: "922501"
+markedReadAt: "2026-06-29T22:31:14.289Z"
+---
+
+The 'Help' menu flashed up before me as I brought it up.  I was more than a bit pissed that this was how he had decided to do it, but whatever.  I casually wrote out a small code in it, a simpler version of my lamp code, that only used a small rune as an off/on switch.  The whole thing took maybe a minute to do.
+
+When I hit go I was bombarded with the amount of messages the thing gave.  First and foremost was the initial one, saying that it *should* work in the real world.  Followed by a number of notes and comments on other ideas and improvements.
+
+The first was one of the problems that led to issues with larger sequences in this world, namely that they had to be manually tried out.  There was a long history of people writing sequences that pushed the limits of what could be done, only for there to be some critical error somewhere in the coding.  Since each and every one had to be basically hand written this could cause immense delays in trying to figure out what, and where, and how to fix it.  The initial function of 'Help' was to test it out, to see if there were any such critical errors.
+
+Just below this was the copy/paste button for putting my now checked code into something.  A function that had I been paying attention to my physical body would have caused a small twitch on one of my eyes.  It truly would be a great help in making new items going forward.
+
+Below this was a mass of information.  First came the list of basic functions and definitions of exactly what they did, this had a drop down menu attached so it could be hidden easily.  There were even implications that it could form more drop downs for various sections.  Below that there was a list of similar and suggested functions, along with their definitions, more like a 'Hey!  I see you're using a touch switch, have you considered a verbal switch?  Or a thermal one?  Or a physical on/off clicker?  Try one of these!'
+
+After the functions were listed, with their annoying suggestions, came the properties we were using.  It recognized that I was making light, and so included was a few important notes on it.  It had various wavelengths and what they could be used for, definitions on how that was all decided, and finally a color picker for visible light.  The last bit looked like it had been stolen straight from some Earth drawing program, and would let you choose an image before it output the wavelength.
+
+The worst part was the little blue coloration to some of the words in all of it.  With an internal scream of rage I mentally poked one, only to see the relevant section of the 'Guide' pop up before me.  That bastard had gone through all of this effort, and he hadn't even put in basic bits so that people reading the 'Guide' could navigate it, it was just fucking irresponsible!
+
+I was also confused a bit.  How had nobody ever found this, even by accident.  Well, obviously someone had, but had found the whole mess so incomprehensible that they'd never shared that.  Worse, someone might have understood and gone to great lengths to translate the English, and then really start learning.  It would still be really, almost impossibly hard, but with a few codes to use as a Rosetta Stone, then it might just be possible.
+
+Since nobody had told me it meant one of two things.  In thousands of years, nobody had written a sequence in the 'Help' menu, unlikely but possible, or, they had, and had kept it either secret, or considered it unimportant.  The final option was honestly pretty likely too.  If someone didn't realize what they'd wandered into then they might well just ignore it, or only tell a few people as a novelty.  Many secrets had been lost that way.
+
+I closed everything down and sat up in my bed, where I rubbed my temples.  I had quite a bit to think on.  Had someone else found this?  Had they understood the English?  Why wasn't it well known?
+
+The answer to the first question was that yes, some probably had found it.  That much was easy to guess.
+
+Had they understood the English?  Well, I did, and I was guessing that at least one or two others had been born from my world into this one, so they may have.  So again, there had probably been a few at least who understood parts of it.
+
+Finally I had to consider why it wasn't well known.  It was possible that there was some cabal somewhere that read English almost as good as a native speaker and was working hard at being monstrously powerful  It was far more likely that if anyone knew what it did, or how to read parts of it they kept it to themselves, and perhaps their children.
+
+Magic users were a bit secretive about their advancements.  These things could change large swathes of society and any little shred of power was one to be hoarded in the mind of the average wizard.  There was nothing like Wikipedia, or even the idea that knowledge should be free.  I knew from my education here that this place itself only bestowed what we needed, and my guess was that the professors were learning and hoarding secrets of their own.
+
+If there was someone else out there using these menus like I was then I wouldn't be surprised.  I also couldn't blame them for hoarding it, as I wouldn't be sharing my own knowledge, at least for now.  Perhaps one day I'd be able to teach others, but that day was not today.  I could just use it and add it to my list of 'don't tell anyone, not even those close to me' with my portal spell.
+
+With a sigh I laid back on my bed.  If nothing else this was going to make my grades in Magical Item Creation go straight to the top of my class.  Thinking on that I finally fell asleep for the night.
+
+As my year continued I realized that being a fourth year here was a bit different.  Mostly in that as it wore on more and more of my classmates came of age.  Since birthdays weren't really celebrated here we knew based on season.  I was in the first batch of us to turn eighteen of course, alone with only one or two others.
+
+It came with a number of extra responsibilities and freedoms as far as the law was concerned, but so far as my day to day life, not much changed.  My family had a small, brief celebration of my coming to age, but it wasn't seen as that big of a deal.
+
+The onset of puberty was a much bigger deal for girls, but my family had missed that.  I hadn't talked with anyone about that kind of thing so nobody had known, but normally that was given some celebration.  Traditions like that still weirded me out sometimes, but what could I say?  It was normal for everyone else around me, so there was nothing to do about it.
+
+I didn't even have to worry about finding a job, something that most in the end of their third year, and certainly in their fourth were concerned about.  Those of us that would have to work, or who wanted to take an apprenticeship somewhere to learn more about our chosen subjects were scrambling.  On the other hand I was pretty much told where I'd be working when the time came, not that I really wanted to work anywhere else.  Mystien's labs would certainly be one of the most interesting places in the city, and while it may not be as light-hearted or fun as working in a tavern, I knew that I'd get a peek behind the curtain.  Seeing the secrets was all the inducement I really needed.
+
+I mused on this as I stepped through one of my portals.  It didn't really go anywhere, just the other side of my room.  The sensation was not quite the same as those that the Emperor was using, but these were set up on the fly instead of items, some discrepancy was to be expected.
+
+I had to take a moment when I stepped out.  I still had enough mana to keep on at it for awhile, but I had real worries about what would happen to me if I were to run out of mana mid-trip and had therefore set up my own safety rules while practicing.  The first among these was that I should have what I estimated to be three times as much mana as I needed for any trip I took personally.
+
+While the mana drain these things put out was a monster, practice with any spell made it that much easier.  I knew this from personal experience as time and time again I'd had to develop my own magics, and this was no different.  Now what I needed was to work on this spell until it was almost innate, shaving down the drain bit by bit until it was more manageable.
+
+A knock on my door pulled me from my thoughts.  "Come in," I said, looking up to see who it was.
+
+"Good evening dear."  My mother opened the door slowly and joined me, finding a seat.  "Alana, I know that you hate it when I get involved, but..."
+
+"But?"
+
+"Well, every time you come home all you do is sit in here and work on your core or magic.  You need to go out, make friends, attend balls, perhaps look into potential..."  She didn't need to finish, as we were both aware.
+
+"Mother, I spend my time at home relaxing.  You know as well as I that my schedule at school doesn't allow me much of that."  It did happen that I found practicing magic to be one of my favorite hobbies, and almost never got tired of it.
+
+"I know dear, but, there are several events you could go to.  Or at least pretend you want to go to.  Most of the girls around here are at least looking into their future prospects, and you seem to be... well, ignoring them.  I worry that one day you'll find yourself an old maid."
+
+"Is this really a conversation we need to have right now?"
+
+"If not now then when?  As it turns out though, now is a good time.  I just got a list of parties that are being held and we have invitations to several.  I was hoping that you might choose a few to attend with your father and I."
+
+"Mother my history with formal events is... rather mixed."
+
+"I know, but you need to go to at least a few.  If it helps your brother is being pulled along too."  That gave me an idea.
+
+"Shouldn't you be having this conversation with him too?  He's a good bit older than I and still has nobody."  If bothered by your parents, deflect onto a sibling, this was a hard rule in every universe.
+
+"His issue is different.  He's had a few... dalliances, but nothing that stays.  Men are different too dear, as you well know.  If he gets married when he's forty there will still be no problem.  The Emperor himself is a good example."
+
+I pouted at the unfairness of it all.  "Fine, I'll go to a few, but no promises on finding anyone."
+
+"That's all I ask dear."  With that my mother left, leaving in her wake a list.
+
+I knew a few children some of the families listed.  Boys and girls that were in my classes, or at least attended the academy.  Mother had gone through the hassle of even listing out who had children at my school and their names, along with the names of several other figures from each of those on her list and brief descriptions.  I couldn't help but notice that she'd focused on single men.  It annoyed me, but if she'd gone through all the trouble to compile or have this made for me the least I could do was be bored at a few balls for her.

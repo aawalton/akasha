@@ -1,0 +1,293 @@
+---
+id: 94d5b7b0-629f-5c71-aa1a-a965a44f98dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 590 - A Dozen Baker's Dozen"
+slug: 0091-chapter-590-a-dozen-baker-s-dozen
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 91
+ownLength: 2890
+unit: words
+ownProgress: 2890
+publishedAt: 2025-07-23
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2459212/chapter-590-a-dozen-bakers-dozen"
+royalRoadId: "2459212"
+markedReadAt: "2026-06-29T19:38:12.785Z"
+---
+
+Tala stood beside the portal out of Kit, patiently waiting, even as she held her uncertainty deep within herself, not letting it show.
+
+On the inside, the portal opened into a hallway within their guest area, making it unremarkable should anyone look inside.
+
+On the outside, it was resting against a wall on a side-street, in the general area they wanted to go toward. Kit was large, allowing for near-immediate access to much of the city, but not all.
+
+Tala could have willed herself and her family out to the superficial in an instant, and usually she would have, except that her entire immediate human family—not her family of origin—was here, ready to pass through.
+
+Rane was already through the portal, standing, looking back with an encouraging smile. “Take all the time you need, little Lea.”
+
+Lea stood at the threshold, looking out. A mix of fear and excitement were plain on her features even as she hesitated. “It’s going to be alright?”
+
+He nodded, and Tala smiled from beside the girl. “Yes, Lea. Your new soul-medium is stable and fully able to support you. You don’t need to stay within the sanctum any longer.”
+
+“But… out there… It’s not home.”
+
+Tala shrugged. “You’re right, in a way. This has been like a womb to you, a place where you were safe and could grow and develop. While you weren’t in here for anywhere close to ten months, you have still grown and learned. You are ready to take your first steps on Zeme.”
+
+Lea gave a slow, careful nod. “One small step for Lea, one large step for the Sappherrous.”
+
+Rane gave her a funny, confused look. “What?”
+
+“Well, I’m the only natural born Sappherrous.”
+
+He raised an eyebrow at her.
+
+“You know what I meant.” She narrowed her eyes at him. “You and mom adopted the name. I was born to it.”
+
+“Sure, I suppose. What’s your point?” He seemed genuinely curious.
+
+“Well, Zeme has never felt the tread of a natural Sappherrous.”
+
+Tala held in her laughter, feeling the uncertainty within her be pushed aside as she did so.
+
+“If you and mom are capable of so much, what more can I do?”
+
+Rane huffed a little laugh. “Eventually, sweet. Eventually.”
+
+“Sure, but imagine it.”
+
+“I am. Now, come on. Pastries await.”
+
+She gave a little bounce in place, excitement seemingly blossoming within her before she looked down, again, at the threshold. Her bravado and playing fell away as she looked to first her dad, then her mom. “Will I really be okay?”
+
+Tala smiled. “Yes.”
+
+Without waiting another moment, Lea stepped forward, her foot making hardly a sound on the stone paved, Bandfast street. She stared down at the first foot before bringing the next to rest beside it.
+
+“Are you alright?”
+
+Lea nodded.
+
+“What’s wrong?”
+
+“It… it just felt like any other step.”
+
+Rane pulled her into a hug. “Many important things can seem that way in the moment, even when we realize they are important. Don’t put too much emphasis on how you feel right now. This is a memory we’ll always have, and whether it feels special now or not, it is.”
+
+She looked up, smiling. “It definitely is different out here.”
+
+Tala stepped through and the portal closed.
+
+“In there, it was like you and mom were always hugging me, even when you weren’t. Now? I can feel you nearby, but it’s like you’re a bit removed.”
+
+Rane squeezed her again. “Even while I’m actually hugging you?”
+
+Lea squirmed, laughing. “Yes!” She giggled. “Let me go, Dad. I want to walk.”
+
+He laughed too, then let her go. “Of course, little miss. I live to serve.”
+
+“Daaad.” She drew out the word, making her non-amusement clear even as she fought a smile. “Come on. I was promised pastries.”
+
+“Well, then, my promise is my command.”
+
+“Daaad!” She huffed, her poorly-suppressed smile continuing to break through, even as Rane caught her up and tossed her into the air. “Eeee!”
+
+He caught her, setting her down gently before putting an arm around Tala and drawing both his girls onward. “To pastries!”
+
+* * *
+
+Ten minutes later, Tala felt like she was on the edge of a knife as she sat in her reality-iron-reinforced chair in a little bakery that she remembered from her time in Bandfast. She’d remembered it fondly enough to come back after all this time, passing quite a few others that either didn’t quite spring to mind or that she remembered as being not quite as good as this one.
+
+Rane and Lea sat with her, a beautiful platter laden with a veritable mountain of various pastries, sitting on the table between them.
+
+The source of Tala’s tension wasn’t the amazing smelling food, nor the quaint atmosphere. Instead, it was the various glances that they garnered, Lea most of all.
+
+-That’s not necessarily true. Many people going by are staring at you or Rane for various reasons. Rust, with how young you two look, and how old she looks, you three could be siblings, or friends out for an… admittedly insane breakfast. I think most of the looks you’re getting are because of the food, honestly. Who buys a dozen baker’s dozens of pastries?-
+
+We do. And, really? The two teens in the back talking about how beautiful the ‘porcelain white’ girl is? Wondering if she’d want to come back after their shift ended?
+
+-Yeah, well, I said most weren’t looking at her specifically. Our daughter is stunning. People are going to be interested in her.-
+
+Most, eh? What about—
+
+-Fine, fine. I get your point. You do have to admit, though, Lea is stunning, and I don’t just mean her complexion.-
+
+Tala had to agree. Her daughter was beautiful.
+
+She lacked basically every flaw in her features that Tala had disliked in herself, switching in a few hints of Rane that just made her more endearing from Tala’s point of view. Add to that the fact that it was their features after Refining?
+
+Yeah, the girl was likely one of the most beautiful women in the city. Her albino appearance simply added an element of the exotic on top of the already almost unnatural beauty.
+
+-Yet, the couple of small flaws make her human.-
+
+Her smile was just slightly lopsided, as Rane’s so often was. Her bone-structure—or her equivalent—was symmetrical but not perfectly so. She truly did look human.
+
+-Because she is.-
+
+Exactly. The soul is what matters, not the physical.
+
+-Exactly.-
+
+Rane and Lea were laughing as they tried various pastries, taking bites and then demanding that the other sample that particular one as well.
+
+Tala had a moment of disconnect on how she could be so concerned about what was going on around them, while her husband didn’t seem to care.
+
+Alat cleared her throat within Tala’s head. -He set Enar to watch and record everything. That man also has magics actively rotating, ready to shred and obliterate the city block at a moment’s notice. You’re watchful? He’s prepared, and actively continues to prepare.-
+
+Only then did Tala turn her focus inward, toward her family, noticing for the first time how her husband had been using her magical control and aura to hide his own magics from outside scrutiny.
+
+If she was a hollow sphere of all-but indestructible glass around their family, he was a thousand coiled springs, ready to reinforce her defences and to lash outward in equal measure.
+
+She felt a blossoming of warmth within her chest. He was caring for the protection of their family even while engaging with their daughter, while she was sitting to the side. He made her want to reach further, be better than she had been.
+
+He glanced her way, smiling warmly. “Come on, love. This one is practically transcendent in its construction.”
+
+Tala shook her head, laughing under her breath as she accepted the pastry.
+
+This was not something that she should miss.
+
+“Oh! Oh… that is… that is amazing.” She heard herself practically purr. It shouldn’t be possible for it to taste better than I remember, but it does.
+
+-Huh, seems the same from my perspective.-
+
+That’s what I mean. It tastes better than I even remember it, now. She frowned, each taste being better than she remembered the last, but as soon as both were mere memories, they were the same. It wasn’t magic, just that the pastries were somehow better when experienced than when remembered.
+
+It was… odd. -And frustrating, I can only experience them via memory…-
+
+I’m sorry, Alat.
+
+-It’s okay.-
+
+Lea giggled—drawing Tala out of her internal dialogue with Alat—as the girl took another pastry and enjoyed it while Rane helped instruct her in restaurant etiquette.
+
+They all knew that this was a learning outing, but that didn’t mean it couldn’t be fun and memorable as well.
+
+As it turned out, Tala really enjoyed even the simple experience of a meal with her family.
+
+* * *
+
+They were on their way back to where Kit was anchored, so they could return home for some time together before going out to Brand’s restaurant in the evening. The three chatted away as a guard patrol walked past, Tala recognized a man in their ranks.
+
+He, in turn, recognized her as well, their eyes meeting and widening in shared recognition practically simultaneously.
+
+Ashin held up his hand, and said something quickly to the three men with him.
+
+All four turned and bowed toward Tala, Rane, and Lea from ten feet away.
+
+Their leader, a man seemingly in his mid-thirties, stepped forward. “Mistress, Master, miss. Is there anything the Guard can do for you today?”
+
+Tala was a bit confused as they passed patrols often enough, and she didn’t believe that she’d ever had a response quite like this. “No, guardsman. Thank you. I simply recognized your fellow, there. Ashin helped guide me in this city some years back, and I haven’t seen him since.”
+
+The man bowed again. “Do you wish for his services?”
+
+Ashin stepped forward, a mix of emotions dancing across his face.
+
+“No, no. Thank you, though.” She gave a respectful bow of her head. “It is good to see you, Ashin. I am glad that you are well.”
+
+He smiled, bowing deeply in return. “Thank you for your regard, Mistress Tala. It is good to see you as well. I haven’t seen Mistress Lyn in years. Are you in touch?”
+
+“I am, yes. She is doing well.”
+
+“That is wonderful to hear. If it isn’t too presumptuous, could you give her my regards when you see her next?”
+
+“I will.”
+
+He bowed a third time, including Rane this time. “Thank you. We won’t take more of your time. I am gratified to see you both are well.”
+
+When Tala nodded in return, the squad leader bowed a final time, and the four guards moved on.
+
+Rane and Lea inquired, and Tala explained how she’d met the young man more than ten years earlier. Lea was then curious about the guards in general, and that sparked a whole line of questions as to why they were needed. What did they do? Why would anyone want to be a guard? Why would anyone want to break down any wall?
+
+The questions went on and on.
+
+As Tala and Rane responded to the best of their abilities, she couldn’t help but consider something.
+
+Ashin had aged.
+
+Everyone had, of course, but for some reason, the fact that Ashin and she had been of an age, and now, he looked like he was at least five years her senior? It struck her differently than any other instance had.
+
+Still, it wasn’t so much that she let it distract her from her husband and daughter.
+
+She would have thousands of people come and go through her life, and this was no different than that.
+
+Even so, something about the young man who had guided her on her very first visit to this city hit her differently, and she had needed to check just a bit deeper.
+
+A momentary glance was all that it had taken. By his soulshape and reality threads, he was married, possibly with children of his own.
+
+Good for you, Ashin. I hope that you have a good life.
+
+With that final thought, she pushed the event aside and fully focused on her own family.
+
+* * *
+
+Tala, Lea, and Rane walked up to the very popular restaurant before them.
+
+Terry perched on Lea’s shoulder, likely adding a little to the attention directed her way from the constantly moving crowd.
+
+Brand had expanded further, his restaurant now covering most of a block, and Tala found herself incredibly glad to see them succeeding so well.
+
+Magical construction methods meant that the expansion had likely not been that expensive or time consuming—at least not when compared to mundane methods—but it would not have been cheap all the same.
+
+Rane grunted, seeing how much larger the place was than the last time they’d been there. “They’re doing well for themselves.”
+
+“Indeed.”
+
+Lea was doing her best to look in every direction at once, walking between Rane and Tala.
+
+Thankfully, even though the area was crowded, it wasn’t quite so packed that walking through was difficult. It was a constant stream of people, more than a true blockade of any kind.
+
+There were quite a few obviously magical people of various sorts, though all were also obviously human. The concentration and overt evidence of them was notable, however, as in Bandfast most hid their natures in most circumstances.
+
+This restaurant was seemingly not such a place, requiring that secrecy. Moreover, it seemed that Mages and Archons felt a bit freer around this establishment.
+
+Inscriptions were obvious on many of the patrons, and quite a few were striding about in their ‘casting’ attire, only the most necessary of coverings in place.
+
+Lea’s eyes were obviously drawn to all the new sights, but after one particularly minimally clad woman walked by, Lea glared at Tala. “I thought you said I had to be covered, mom. I needed to be modest to go out in public.”
+
+“You do.”
+
+“She’s not.”
+
+Tala saw the woman twitch, clearly advanced enough to have enhanced senses, letting her hear the conversation. Tala didn’t mind either way. “That’s fine for her, and she isn’t doing it to show off her body. She has likely chosen the style to allow for easier use of magic. Modesty and convenience must be balanced. More importantly, she’s capable of making that choice. You might be able to as well in time, but for now? You need to listen and learn. Some choices aren’t easy to go back on, and while that might not fall into such a camp, we are going to approach things like it with care and time.”
+
+Lea grumped slightly, but finally sighed. “Fine.”
+
+“Do you need your clothes adjusted? Are they pulling or pinching? They don’t seem to be inhibiting your movements, are they?”
+
+“No…”
+
+“Okay. Well, let me know if you need or want a change.”
+
+“Yes, mom.” Lea’s tone held a note of defeat, while she also seemed grateful for the offer, all the same.
+
+Rane had wisely let the women discuss the situation, but now that it was settled, he drew them onward.
+
+Tala detected magical sensors monitoring the customers both as they came and went, likely as a form of security and to help prevent people from leaving without paying.
+
+As such, when they were scanned, Tala allowed it, only mildly surprised when they were scanned again. She hadn’t seen anyone else scanned more than once.
+
+A moment later, one of the hostesses straightened, seemingly having received a message.
+
+She looked back and forth over the crowd before spotting their group and hurrying over. “Mistress Tala? Master Rane? Master Terry?”
+
+Rane nodded, responding with a smile. “Yes? Can we help you?”
+
+“No, no. How can we serve you, today? The owner has flagged you and any with you as an honored guest. You are to be served promptly and with high priority, and we can get you a private room if you like.”
+
+Rane looked to Tala and Lea.
+
+Lea looked both excited and disappointed.
+
+Tala wasn’t quite sure how both emotions could be so obvious at once, but she found herself laughing. “Lea? Do you want to sit on the main floor? Or would you prefer a private room?”
+
+The girl hesitated. “Private is like home… we do that all the time.”
+
+The hostess glanced at Rane and Tala, seeming to notice that they were there for Lea, so she oriented fully on the girl. “We can definitely get you a table in the main area. Do you want to be in the middle of things? In the thick of it? Or we can find a table that is off to one side with a bit more shelter and privacy?”
+
+Lea’s eyes were almost constantly flicking around, taking in everything around them. She didn’t quite seem overwhelmed, but she definitely was acting similarly to that.
+
+Even so, the professional young woman seemed to see beyond that surface layer. “It might be easier to people-watch from a side table as well?”
+
+That drew Lea’s attention instantly. “Yes, then. That choice, please.”
+
+Rane grinned—seemingly unconsciously—at Lea’s politeness.
+
+“Right this way, then.”

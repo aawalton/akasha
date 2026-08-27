@@ -1,0 +1,243 @@
+---
+id: 7c925918-1434-55f9-8c6f-8e5ca905c7c2
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 69 - Smile"
+slug: 0117-chapter-69-smile
+partOf: metaworld-hopecore
+position: 117
+ownLength: 3446
+unit: words
+publishedAt: 2026-06-28
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3601998/chapter-69-smile"
+royalRoadId: "3601998"
+---
+
+"The camera makes everyone a tourist in other people's reality, and eventually in one's own."
+
+Susan SontagOn Photography
+
+Kellie left in the morning, despite Eppie’s begging efforts.
+
+Rationally, however, Eppie wasn’t too worried, because their new bestie was going straight to hair and make-up, then costumes, then the red carpet. Unless Kel had the balls for a beatdown while chauffeured by Sony’s staff, Kellie was golden.
+
+Last night, the girls had talked—or rather, the girls had listened while Eppie talked.
+
+She had relayed a vision of something in the distant future. A vision of hope, in the form of a musical involving an inner-city Catholic school and orphanage. The protagonist was a music director who was certainly not Curon, who had been ousted from power and had lost his job. In his banishment, an old mate with a heart of gold sets him something to do—and he lands in the teaching role of Chorist Instructor in an inner-city Catholic school.
+
+The school, as Eppie had illustrated through her [Larceny] and [Persuasion], paired with the [Charisma] of her storytelling, would be under threat from a Corpo whose only defining characteristics are her income and her baddie body. She wants to buy the land from the city, demolish the school, and build apartments.
+
+The school is hapless; the Sisters of the convent, who run it, are helpless, not only because of their lack of funds but also because they’re unable to control the immensely talented yet “troubled” inner-city children of multicultural, multilingual persuasion.
+
+Naturally, she told them, Act I begins in medias res: Not-Curon enters the fray, using his musicology, corporate know-how, old connections, and the human touch to solve each student's religious, familial, and institutional issues while becoming a “Father” to the orphaned kids.
+
+“He ditches his Armani's for the priest’s collar,” Eppie said. “He’s on a mission from the [Sys—I mean God.”
+
+He enrols the kids in an NYC choir competition with national accreditation, rallies his own cynical, profit-driven old music friends, including his rival executive from Universal Music, and they are all moved to tears by the kids’ genuine performances, choosing the path of hope, charity, and compassion. In the end, even the baddie Corpo comes around.
+
+Final scene. Church. All the kids in attendance. Choral closing. The converted baddie holds Not-Curon’s hand. Amazing Grace is performed in the style of Hip-hop spirituals by not-Kellie.
+
+Eppie knew she was on to something when the girls gushed that they absolutely had to have a place in her production and that it would make an amazing feel-good Christmas movie. Her [Gospel] trembled like no tomorrow, and Kellie was on the verge of hitting the writing desk and starting to write a song.
+
+What was curious was that the idea wasn’t triggering her [Karmic Muse]. If indeed she could manage the musical through the talented people she had met in her present world, then it very well may be the very first [Causality] positive profit without a net loss on initial investments.
+
+Come morning, the girls had formed a sisterhood, and Eppie promised she would call upon their expertise to make her musical a reality.
+
+What followed was a lazy breakfast. A light luncheon at Culver. Hair and makeup. Final fittings.
+
+And then the limo arrived, and both Eppie and Zara knew that there was no more turning back.
+
+Their limo joined the motorcade after peeling from the 110, funnelled into a long line of similar town cars housing people far more famous and established. Guided by security, the line moved at a dead pace toward the lit-up block where the Staples Centre began.
+
+From the back seat, Eppie saw the glow of the building, the cranes holding up the massive Klieg lights, each the size of a small sedan, then the building itself, with its squat shape and silver lining hidden behind row upon row of barricades.
+
+“Eppie… I am so nervous…” Zara’s legs moved so nervously as they rubbed together that Eppie had to place a hand on Zara’s knee. With her bare shoulder, thigh-high slit, Zara looked a treat, even if she was white-knuckled and looked like someone was torturing her with a branding iron pressed against her cream-caramel flesh.
+
+“Stop fidgeting, you'll wrinkle it,” Eppie said with good humour. “Just follow my lead.”
+
+Their windows flashed.
+
+The press corps started long before their car landed at the spot where they got out. They could already see the red carpet, and around it, and everywhere else, was a wall of blinking lenses tethered to full-body cameras. Familiar logos like E!, Access Hollywood, MTV, and CBS dotted the place like wild mushrooms after a monsoonal rain. A rope line of talent wranglers with clipboards and earpieces stood at intervals, calling names off manifests, becoming a human filtration barrier.
+
+The carpet itself ran maybe two hundred feet, blood-red under the lights, flanked by sponsor logos repeating themselves into the middle distance.
+
+It was here that Eppie realised something she had not paid attention to as Lana.
+
+There were three lanes! One lane was for arrivals who were friends and family, and no bodies who just wanted to get on with it. One lane for the somebodies. And the final lane was for the people who were worth the digital data.
+
+How did I never notice?! Eppie felt truly shaken by the undisguised inequality of it all.
+
+The atmosphere was also simultaneously sickening and awe-inducing. As someone who had quite literally sold almost everything here at some point in her former career, she knew exactly how manufactured the red carpet encounters are. Yet, underneath the facade, there was a genuine sense of electricity and elation, the kind that comes from the Press, the fans, and the celebrities, all gathered in one place, their joy somehow creating a psychic current of invisible energy that made every participant a little tipsy.
+
+The staff was split between ushers and security, two species, two uniforms. Security wore two piece black. The ushers wore the event’s branded polos and sponsor logos, carrying headsets, walkie-talkies, and seating charts on laminated lanyards.
+
+It took thirty minutes, but their limo finally arrived.
+
+A white-gloved staffer opened the door, nodded at them, and stepped aside with a hand rigidly paused in the air.
+
+Eppie stepped out first and was met by a wave of light that near-blinded her. Her [Act Natural], [Hitting the Mark], [Love the Light], and [Comeliness] fired every possible cylinder, making her [Persona] throb. She took the PA’s white-gloved hand, moved through the shimmering sea of strobes, then was struck by a wall of noise.
+
+Eppie! Euphemia!Miss Fontaine!
+
+They KNOW my name?! They knew her name! Eppie felt as though she had been transposed into another world for about three seconds before her [Intelligence] told her that someone had given out marching orders. Curon? Mirabelle? Or Vaughan?
+
+All three were possible, but with this many people calling the name of a no-body, it had to be Dame Vaughan passing down the word of God through the influence ladder.
+
+She smiled at the photographers. Her burnt-orange silk caught the first bank of strobes instantly, the way Vittoria Conti had envisioned and then some, because Eppie seemed to suck in the light of the flashes and project it back toward the sensors with supernatural colour correction, lighting, and hue. Their photographers would not know yet, but every shot was in focus, every shot had caught her in the best light.
+
+Zara came out after her, though only a few called out her partner’s name. Eppie held her friend’s hand, and they half-turned to let out Zara’s scene-stealing dress.
+
+The guitarist managed a half-turn, chin tipped just enough, the structured bodice doing exactly what Marta had promised it would do under duress. The girl looked natural, but her hand was trembling so violently that she might as well have been a lawn mower.
+
+They walked up the red carpet, smothered by light, light and more light, feeling the heat of the strobes lick every inch of their skin.
+
+Halfway down the carpet, a wrangler with a clipboard peeled them off into the slow lane. As Eppie suspected, someone had given marching orders to the staff.
+
+On the logo panel, the official photographers were ravenous wolves for their virgin flesh.
+
+A chorus of voices overlapped until they blurred into one demand.
+
+“Eppie! Eppie, over here!”“Zara, turn this way, lead with the leg!” “Ladies—together, together, can we get you together?!” Eppie was quick to learn the trick of it. Pick one voice, give it your eyes for exactly two seconds, pick the next. Zara hadn't, and kept flinching toward whichever shout was loudest, which only made the rest of them shout louder.
+
+For two whole minutes, they posed this way and that, Eppie relying on [Act Natural] while Zara floundered attractively.
+
+They moved on. The author's narrative has been misappropriated; report any instances of this story on Amazon.Then—a moment born of a fevered dream came to life.
+
+A woman with silver hair, a microphone, and an unforgettable rasping voice accosted them.
+
+Here, she was Joan Sterling, red carpet circus master, the kind of interviewer who'd outlasted three decades of careers by being meaner and funnier than everyone she interviewed.
+
+“Euphemia Fontaine and Zara Arriaga! Girls, you look STUNNING. My god, you are young, my love. Tell me—what’s it like? Your first Grammy?”
+
+“Mesmerising, and of course, a great reference for next year, and the year after that,” Eppie replied with a face full of smiles, her baby blues matching Joan’s.
+
+“OH…” Joan moved her shoulders theatrically. “Such confidence!”
+
+“Call it prophecy,” Eppie held out a hand. “Shall we be friends? I mean, after all, we’ll be speaking on the regular from now on…”
+
+Joan barked out a real laugh, then took her hand. The crew behind her cackled along, and within seconds, it was a whole exchange. Joan’s replies were quick and easy, Eppie volleying back every follow-up with an unbothered charm that genuinely surprised Joan.
+
+Zara stood half a step behind, smiling gamely and saying almost nothing at all.
+
+After Joan, the girls moved on.
+
+Eppie caught a flash of Lucia Lancet two stations down, fielding her own bank of flashbulbs with the practised ease of someone who'd done this since childhood, and further along, Kellie, glittering and orange-streaked, stood with Kel a pace behind her, acting like the best boyfriend in the world.
+
+NO BRUISES! WE MADE IT, BABY!
+
+Eppie punched the air. Someone took a picture. She made a face. Someone took a picture. Zara laughed. Someone took a picture.
+
+The girls fled.
+
+Past the photo wall, she met her Sony family. Katrisha, regal in head-to-toe gold, calling her "songbird" the way she had at the Annual. Nathaniel Ellake, mid-interview, broke off from the interviewer just long enough to hug her. Candice Leah, trailed by a publicist running visible damage control, blew her a kiss from a safe distance while looking tipsy. At the door, she met Eric Gowler, unmistakable in all black, giving her a small salute from across the carpet. There was no time to talk; he was here with his bandmates, and they had music to promote.
+
+By the time they passed the threshold, Eppie's face felt like it had been botoxed from holding a single expression at variable intensities for the better part of thirty minutes, and the cold air of the arena's interior felt like heaven.
+
+Inside, the Staples Centre had been transformed into a shrine to music. The arena was a giant record disc, the tiered seating wrapped in velvety, golden light. In the pits, the stage was built to accommodate an entire orchestra. An usher with a laminated seating chart guided them down toward the front sections, past rows of faces Eppie recognised only from magazine covers, until they reached the Sony block.
+
+Trent Davis and her father were already seated when they arrived. Curon was on his feet the moment he saw them, looking genuinely emotional, like his actual child had finally made it to the big leagues. Eppie was also on the verge of sentimentality until she saw what Curon wore.
+
+Up close, her father’s outfit revealed itself as a crime scene of extremely expensive decisions made independently of one another: a Hugo Boss blazer cut for a man twenty pounds leaner, an Armani shirt, $800 minimum, fighting the blazer for dominance, and shoes with a discreet but unmistakable lift in the heel that added what she guessed was a confident inch and a half. The overall effect was less “polished mogul” and more a man who got dressed by three separate stylists, none of whom were European.
+
+“There they are. Look at you both.” He kissed Eppie's forehead, quick, paternal, the gesture more for himself than for her.
+
+“Rick…” Eppie tugged lightly at his lapel. “Did you get dressed in a parking garage?”
+
+“It’s all new,” Curon patted her shoulders, admiring her far more than he should. “Gods. I love Mirabelle’s work. She NEVER disappoints.”
+
+Davis, two seats down, didn't look up from his program. “He does this every year. Thinks mixing labels reads as eclectic. I think it reads as fashion homicide.”
+
+The girls laughed awkwardly, Zara in particular.
+
+“Sit, sit,” Curon said, ignoring his boss with great dignity, "before those people from Universal start complaining about our manners.”
+
+UNIVERSAL? Eppie’s eyes shot toward the direction of Curon’s gesture. And as sure as rain in January—there she was.
+
+She saw the dress first, then the body. Valorie in sheer emerald was a form of visual violence. The hue was incredible when set against Val’s burned-copper hair, especially with her skin a pale, bloodless cream that no amount of foundation could fake. The halter cut showed a long line of throat and collarbone, which was frankly surprising, because Eppie would have expected boob. From her new-money perspective, Valorie looked like an old-money femme fatale from the classics. Val looked, Eppie grudgingly conceded, more deserving of rooms like this than herself or Zara.
+
+Their eyes met. Last time they were this dressed up, she was covered in abrasions after a pot-toss, and Valorie was vomiting into a potting sink.
+
+Val looked away first. Sir Woodhouse waved at her. Curon gave the man the finger.
+
+The rest of Sony’s artists drifted in one by one and two by two. Kellie's seat, beside Kel's, sat one row ahead, close enough for the two of them to talk without going through Kel.
+
+“You see that girl?” Curon directed her eyes to Valorie.
+
+Yeah—Val can really carry that dress.
+
+“Not your rival,” Curon snorted. “The girl behind her. Two rows down.”
+
+“The one with the raccoon mascara?”
+
+“That’s the one.”
+
+Curon's chin tipped half an inch toward the Universal section, his voice dropping into the register he used for business. “That's our competition. Vanessa Vines. If it weren’t for you, we would have lost every category to her, except maybe RnB related ones.”
+
+Eppie saw a lady with smoke-dark eyeliner, a wrecked woman who looked like there was a beehive on her head. She wore a dress that hung off her like she'd forgotten she was dressed. There was an unlit cigarette between two fingers. She wasn't posing for anyone. She looked like pain.
+
+Before they could speak further, the house lights dimmed.
+
+The 50th Annual Grammy Awards unfolded like a string of unspooling Christmas lights, one spectacle after another. The cadence, Eppie supposed as she held Zara’s excited hand, was like a grand ode in the iambic metre.
+
+Loud. Then hushed.
+
+The host, a wiry, fast-talking comedian from a sitcom Eppie had never actually watched, worked the stage like a circus master. As tradition, he took swings at A-listers, bringing cringe and laughter in equal measure.
+
+Lucia Lancet opened the night with her single off the new record. It was rewritten for full orchestra. After a wind machine, two costume reveals in four minutes, the crowd gave her a standing ovation. After the performance, Lucia rejoined the Sony seats in a third outfit.
+
+Best New Artist went to a duo Eppie didn't recognise, who cried in a way that read as genuine rather than rehearsed. Universal won. Curon scoffed.
+
+Best Pop Vocal Album was called next, and Umbrella had no competition, not even from Lucia Lancet. Before she left her seat, Kellie's hand found Eppie's under the armrest and squeezed hard enough to hurt. She thanked everyone but Kel, which was expected by everyone except, apparently, her boyfriend.
+
+The comedian returned to the stage. He had taken note of Kellie’s remissness.
+
+“I want to thank Kel G for being here,” he said to the Sony section. “Where’s our favourite lad? There he is, everyone! Applause!”
+
+The crowd applauded, and Eppie did as well.
+
+“You know, other than being one of the most talented rappers around, Kel has another function,” the comedian’s ad-lib had the crowd in performative stitches.
+
+“He’s the most talented handbag in Grammy history. Our Boyfriend of the Year has hung himself on Kellie's elbow through every red carpet since the song dropped!”
+
+A ripple of laughter tore through the room.The camera cut to Kel, who managed something that was technically a smile.Eppie watched the muscles move under the young man’s skin. Kellie gave a polite laugh for the cameras. Curon horse-laughed loud enough for both of them. Davis shook his head.
+
+Best Pop Solo Performance followed two categories later—another win for Kellie, who came back down the aisle flushed and a little wild-eyed, her mascara holding on for dear life.
+
+Finally, they were down to the Record of the Year.
+
+Lucia Lancet had gone down again, this time with Nathaniel Ellake. They took the podium together, their body language easy and their lines over-rehearsed, reading the nominees off the teleprompter.
+
+From Eppie’s POV, the nominees were projected on the big screen. Eppie's own name, small under Kellie's, under the producers', under PayZEE's. She felt Zara's knee press against hers, steadying rather than asking to be steadied this time. Kellie's hot little hand found hers, their fingers interlaced.
+
+Lucia tore the envelope. There was a half-second of silence before the winner’s name was read out.
+
+“And the Grammy goes to... UMBRELLA—Kellie Noah!”
+
+Eppie felt every tendon in her body relax. There it was. History.
+
+The Sony block detonated. Davis was on his feet so fast his program hit the floor; Curon grabbed Eppie's shoulders and shook her once, hard, grinning like a maniac. Kellie stood frozen a second too long, hand flat against her chest, before hugging Kel, then PayZEE, who had joined them just for this category. He hugged Kellie over Kel, raising another round of laughter.
+
+Then Kellie turned and found Eppie behind her, and spoke the words the girl had rehearsed for half a year.
+
+“Come on, Eppie,” Kellie mouthed, fingers stretched across the gap. “This is for us.”
+
+Curon's hand found the small of Eppie's back and gently pushed her forward. “Go.”
+
+Kel remained seated. Eppie did not notice Kel because she was already moving. She was moving into the blinding light, soaking up the applause, descending into a stage where dreams were made material.
+
+The walk to the stage took fourteen seconds and felt like forty minutes.
+
+On stage, Eppie caught only the fragments—Curon on his feet near the aisle, both fists in the air like a man at a prize fight; Davis beside him, applauding with approval. She felt intoxicated, caught in the wake of something far beyond her.
+
+She wanted to acknowledge the crowd, but the emotional high in her head was making her tizzy. Kellie took the mic first, voice soaring through the first sentence before she found her footing—thanking PayZEE, the producers, Sony, and her mother. Then she turned, found Eppie's eyes, and said to an audience of several million people watching both live and at home, and in the future on YouTube highlights:
+
+“This song doesn't exist without my friend Euphemia Fontaine.”
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+The award landed in Eppie's hands.
+
+Wow… this is HEAVY. Eppie recalled thinking. The trophy was cold against her palm. There was a wall of noise, undifferentiated, rolling forward in waves against her sternum. No microphone came her way. No one expected words from her. She felt the weight of Kellie's arm slung tight around her shoulders, the heady perfume making her dizzy. Somewhere in the dark beyond the lights, thousands of strangers were on their feet, clapping for some orphan from West Hollywood.
+
+She held the thing overhead. She bowed.  She returned the weight to Kellie.
+
+For now, for this [Persona] who would have bled out on the pavement, a shared moment was more than enough.

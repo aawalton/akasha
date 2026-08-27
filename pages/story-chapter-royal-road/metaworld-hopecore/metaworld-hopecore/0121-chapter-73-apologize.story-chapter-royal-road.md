@@ -1,0 +1,303 @@
+---
+id: 447787ac-46b1-5bc8-aa54-63b080490b27
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 73 - Apologize"
+slug: 0121-chapter-73-apologize
+partOf: metaworld-hopecore
+position: 121
+ownLength: 3475
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3630972/chapter-73-apologize"
+royalRoadId: "3630972"
+---
+
+"But while he was still a long way off, his father saw him and was filled with compassion for him."
+
+Luke 15:20
+
+Zara dropped off Eppie at the dorm steps just after 6:30 AM, while the campus was still quiet, and the sprinklers were ticking over the quad.
+
+Josefina met her at the apartment door as it opened.
+
+As expected, her House Mother took one look at the sling and lost it. “¡Ay, mija!” She nearly threw the tray. “What happened to your arm? Sit, sit—don't argue with me. I bring you food. My poor baby!”
+
+“Thanks, Mama Josefina…” Eppie felt safe and warm already, and her butt hadn’t even warmed the dining seats.
+
+Ava turned first, hair in a towel. Her toothbrush stopped moving.
+
+“Oh my God—” the girl gasped. “Eppie! Are you alright?!”
+
+The commotion of their dialogue woke Halle. She came out of her room and let out a little scream. “Eppie? Eppie! What happened to your arm—?!"
+
+Eppie explained again. She lied naturally, using [Act Natural] to back up her deceit. She said she went into the wrong room, some props fell, and her arm got pinned.
+
+Ava wasn't buying it. Eppie could see the suspicion sitting behind her eyes. Unlike their naive freshman, Ava was old enough to know show business. When she leaned in, Eppie could feel the Jewish girl’s gaze inspecting her face and neck for bruises.
+
+“You didn’t go to the after-party?”
+
+“Does it look like I went to an afterparty?” Eppie sighed dramatically. “I was getting a cast.”
+
+Ava touched the cast.
+
+“Resin,” Eppie said carefully, keeping her smile as sunny and guileless as a cloudless sky. “Hella high tech.”
+
+"You're still going to class?" Halle asked, incredulous. It was a good guess, because Eppie was in her theatre blacks. Not the good stuff, which tended to hug the skin. She was wearing her loose K-Mart slacks.
+
+"Titus waits for no one," Eppie said, and ate her breakfast one-handed while Josefina fussed over her luggage.
+
+The girls sat down and ate, curious about the Grammy and the celebrity gossip, but far more worried about her arm.
+
+It was great, in a way, how nonplussed everyone was about eating with a Grammy winner.
+
+LAPA.
+
+In the hall, her peers took on the original meaning of nonplussed, staring without shame, holding their gazes with equal parts judgment and admiration as she traversed the space between the Main Building and the Old Music Building, arriving at the converted basement where the lockers were located.
+
+There were the expectant looks, the ones that said: “Whoa, I just saw her on TV!” Then there were the other expectant looks, the ones that said: “Lucky girl… if only I had that luck.” Then there were the good ones with pity and sympathy, that said: “Who did she piss off to get beaten up like that?”
+
+The imagination of a teen student body, Eppie guessed, was wilder than her old-lady brain could process.
+
+Then she saw William. The [Usurper] who wore a sling in January looked at the [Usurper] wearing a sling in February, both noting that they were mirrors of one another.
+
+William’s fox-like eyes said: “I wish I were there to add to the action.”
+
+Valorie, to her surprise, stopped suddenly enough to bump into William. There was a flash of authenticity—unguarded and girlish—then shock, which was immediately passed onto William. She could see the suspicion in Valorie’s face, wondering if William was responsible for her injury. William looked back at her and smiled.
+
+Then, in front of Eppie, he kissed her on the lips.
+
+Sonnovabish! Was that really necessary?! Eppie’s lips went sideways. Besides, it's not like I haven’t kissed Valorie…
+
+“What happened, songbird?” William stopped her by leaning down to speak to her at eye-level. “Did you make more enemies? Did a stage light fall on you?”
+
+“Funny you should say that,” Eppie retorted. “Someone stacked the props wrong, and I saved a girl from being crushed. I do that a lot, did you know? Saving good girls from… bad people.”
+
+William chuckled at her loaded rebuttal. “That’s cute, but do be careful. A pretty little thing like you can’t be load-bearing.”
+
+O Willie, why can’t you be like Kel? Eppie sighed inwardly. Mr Grant had folded like a paper tiger.
+
+Conversely, Eppie didn’t have the heart to deliver the earth-shattering comeback simmering on her lips. To do so would expose Mio and Nozumi.
+
+Instead, she congratulated Valorie for looking stunning last night. Valorie thanked her in return and said that she and Zara were adorable as well. The girls gossiped professionally for a few exchanges, ignoring William, then went on their merry way.
+
+“Eppie,” Valorie called on her before they were out of earshot. “I’ll see you at practice.”
+
++ Karmic Causality
+
+Oh? What was that for? Eppie gave Val a thumbs up, registered the tightness of William’s lips, then headed to her first class.
+
+Five minutes to the bell, her phone rang. The call was from “Dad”.
+
+“Eppie,” Curon's voice was rough and without sleep. “Arm still attached?”
+
+“Not anymore. I went to see Lim’s Dad. Got it amputated.”
+
+“Good, good…” A pause, papers shuffling somewhere behind him. “Guy a real doctor?”
+
+“Yeah, he seemed pretty skilled,” Eppie huffed at Curon’s refusal to play. “How are things on your end?”
+
+“It’s all under control. Kellie’s fine now.” Curon sighed. Eppie wondered how many cigars he had pounded down since arriving at home. “Eppie. You scared the hell out of me last night.”
+
+Eppie protested. You scared the [Causality] out of me last night.
+
+“I know,” Eppie said instead, her tone empathic. “But seriously, I am fine. I got a resin cast, too. It’s pretty convenient. Thanks… Dad.”
+
+“So… did you get the apology?”
+
+“The apology?” Eppie asked.
+
+“From our lyrical Wonder Boy.”
+
+“Huh?” Eppie cocked her head, then realised something. “One second.”
+
+She checked her missed calls. She usually had a bunch and habitually left them unattended.
+
+16 Missed calls from Unknown. 2 from Kellie Noah. 1 from Maddy Filmore. All after midnight.
+
+“I think I missed it…” Eppie explained to her father the curious case of the missed calls.
+
+Curon snorted, half-laughing. “Kel must be losing his mind as we speak. Davis told me that all of his projects are on hold. I would prefer that he be sold to EMI, but he’s Davis’ project.”
+
+Her father paused. “Do you want him removed?”
+
+There was a… coldness to the question that made Eppie’s [Causality] balance tremble. She wasn’t sure what 'removed' inferred, but there was no doubt that the disappearance of Kelvin Grant [Karmic Parasite] from God’s good earth would cost more than the…
+
+She double-checked her figure:
+
+[Causality: 365936]
+
+Ah… such bliss… Eppie wept without tears. There was nothing quite like the calming sedation of excessive capital. Maybe she could encourage some “growth” before May.
+
+“I would like to keep Kel onboard, actually,” Eppie confessed. “I have plans for Kel.”
+
+Curon sounded like he was choking on something. “You do?”
+
+“Yeah,” Eppie answered seriously.
+
+Curon’s silence sounded contemplative. Please don’t disappear him, Dad.
+
+The clock ticked over to 8 AM.
+
+She made a kissy sound, told her adopted father she had to go, then hung up.
+
+As a rule, good girl Euphemia was never tardy.
+
+Dr Kirby opened in the middle of Act IV.
+
+“Reverend Hale has seen what the Church can do. He has internalised that the pettiness of the people has replaced the law's best intentions. He has become a lost lamb, not because he has lost faith in God, but because he’s lost faith in the institution's mechanics. So what does he do?”
+
+“He begs Proctor to confess,” James Jules answered from the back. “He asks Proctor to lie in order for Proctor to live.”
+
+“Indeed.” Kirby nodded, then read the lines herself. “Quail not before God's judgment in this, for it may well be God damns a liar less than he that throws his life away for pride. Eppie, how does Elizabeth respond?”
+
+“I think that may be the devil's argument,” Eppie replied in the [Vocality] of a table read.
+
+“Atkinson?”
+
+“Umm…” Atkinson was still sleepy. “Yes?”
+
+“What is the purpose of this exchange?” Dr Kirby clarified herself. “Why is it significant?”
+
+The class remained mum.
+
+“The relevance lies in the relativity. The relativity of humanism.” Kirby wrote on the whiteboard as she spoke. “Lying remains a sin. That said, lying is the lesser evil relative to pride—a cardinal sin. Hale is exploring something unorthodox—a moral hierarchy. He’s telling us that self-preservation outranks integrity, provided it's framed as humility rather than cowardice.”
+
+She tapped the word “PRIDE”.
+
+“Elizabeth’s retort isn’t disapproval. She allows her husband full autonomy. Instead, it’s a clarification. Proctor must make his own choice, on his terms, against his conscience. Hale is both a minister and the ‘devil who can cite scripture.’ She’s talking to Hale, but actually answering her husband.”
+
+Choosing the lesser evil… Eppie pondered the thought. Was keeping Kel on board the lesser of two evils? Is that what her [System] wanted? What about what was coming to William? Was her overt clarification a form of deceit? Did her outrageous demands disarm his sense of crisis? Had she made William believe that he still had room to worm out when she'd already built the cage and thrown away the key?
+
+Kirby moved on to Danforth's entrance. Eppie was glad for it, because she lacked the [Stamina] to indulge in [Script Analysis]’s ontological debates.
+
+Arts Block.
+
+If Eppie’s Sophomore theatre thought that a broken arm was a barrier to accounting, then they were dead wrong. While practice continued, Eppie had the budget spreadsheet open on the laptop, braced against her knee, typing one-handed so fast that Cooper had to tell her to slow down.
+
+Eppie’s present plan to balance the budget was to smooch from the Seniors.
+
+After some Googling on Eppie’s part, Tyker’s connections were revealed to be the Western Costume Company, a local LA-based production warehouse specialising in TV and film. In 06’, Tyker had been an acting consultant on Lee Jones’ film The Miracle. The story was set in Fascist Italy, retrospectively exploring 1944’s Sant'Anna di Stazzema massacre through the eyes of four African-American soldiers. Though Lavinia’s costumes had to be locally sourced, the male roles within the personae dramatis could utilise stylised renditions of The Miracle’s “Goth” and “Roman” uniforms.
+
+The Sophomores needed only 7 costumes among them, with James Jules needing a version with the Titus adornments. If Eppie made the offer, it was reasonable for Tyker to share the haul while using the Sophomore budget to improve the Senior costumes.
+
+“You’re micromanaging a tech rehearsal that's three weeks out?” Min-jun groaned. “I don’t even have the equipment or the lighting until week five.”
+
+Eppie tapped her screen. Crew assignments, rehearsal blocks, fabric orders, set building, lighting, music, SFX. She kept all of it colour-coded, and colour-coded people noticed when their Gantt Charts failed to overlap.
+
+“Find me eleven hundred dollars,” she whispered into Min-jun’s ear, turning the boy into liquid. “And I’ll let you micromanage whatever you want…”
+
+Min-jun stumbled away while Eppie scheduled the crew and bumped the paint call. The sling didn't slow any of it down. If anything, her lack of practice gave her far too much time.
+
+During her Senior block, Cooper told her to take it easy and watch. When Costello and Tyker asked her about her Grammy night, Eppie put her instructors at ease with the same lie she had told everyone else, then settled down to see the Seniors try the half-dozen uniforms Tyker had brought.
+
+In their Sunday LAPAGANZA showcase, their actors were mostly guys. The exceptions were Valorie and Elizabeth, as well as a few understudies for the male characters who didn’t mind cross-dressing. The wealth of the girls, Eppie was given to understand, took advantage of Valorie’s absence to join the Musical Theatre production on the Saturday of LAPAGANZA.
+
+She watched for an hour because Val was easy on the eyes, and the older teen actors were putting on a stellar showcase. When she was left completely alone in the second hour, Eppie decided to check her email. Maddie had sent the numbers for Pines and Dream, though money mattered little to a body that lived solely on [Causality], hopes and fast food.
+
+Unexpectedly, her VIP box had a blue dot from Julianna.
+
+From: Juliana Vaughan <[email protected]>To: Euphemia Fontaine <[email protected]>Sent: Monday, February 11, 2008, 11:52 AMSubject: Do you know anyone who can help with our Lavinia costuming?
+
+Ma dauphine,
+
+It makes me happier than you know that you have decided to take a role behind the curtain, rather than in front of it. I understand that this is your first production and that you are the Production Assistant. This is good news.
+
+I have an acquaintance who owes me a favour considerably larger than the one I am about to ask of her. Go and see her this weekend.
+
+Her name is Odette Kessler. I have attached her contact card.
+
+Odette does not do favours for sentiment, so do not thank her with sentiment. Bring her the problem plainly. Lavinia, the tongue, the hands, what you need the audience to feel rather than see. Give her two weeks for the design. If you wish to go ahead, ask her for a lead time.
+
+I will want to hear everything afterwards. Wear something you don't mind ruining; I'm told their workshops are not kind to good silk.
+
+— V
+
+Eppie’s curiosity piqued.She Googled the name, but without the inundation of social media and that horrid network known as LinkedIn, it was almost impossible to find an SFX artist called Odette Kessler.
+
+Eww—to think it was actually good for something… Eppie bemoaned the inconvenience of a world without a soulless panopticon peering into inflated employee resumes. However, as a 2032 internet detective, Eppie wasn’t defeated so easily. Loading up Google Maps and a business directory website, she canvassed the address. 1401 Flower Street, Glendale.
+
+Walt Disney Imagineering. The results read. California Headquarters.
+
+“Whoa…” she whistled to herself. Talk about connections…
+
+Wondering what strange causal branches Vaughan’s boon might portend, Eppie returned to the play.
+
+Valorie was running Lavinia’s plea scene again, and it was becoming obvious why the Seniors weren’t keen to practice with her, heedless of Val’s love of crop tops. Valorie Sanders had a special something—and it wasn’t just her face card or her figure. Eppie figured that it was the tragic air Val’s Lavinia exuded without effort. When Val begged, her co-actors were caught between action and reaction—and their own talents felt stifled as a result.
+
+Across three runs, Eppie watched Valorie’s throat bob with withheld anguish. The tears in her eyes never fell, but they were there, that self-pity that seemed disturbingly genuine.
+
+Why was Val so naturally pitiful? She was Senator Sander’s daughter, right? She was at the Grammy! She had a whole fifteen seconds on the red carpet while Sir Woodhouse was being interviewed. What would be pitiable about a person like that?
+
+The rehearsal ended. Like flipping a switch, Valorie lifted herself from the floor and was once again bright, burning and beautiful.
+
+Which is the real Valorie? Eppie’s heart grew suspicious of her [Script Analysis]. She realised that she had never seen Valorie act from the vantage of an audience member. Was Val Lavinia, who despaired at her father's callous love? Or was she William Chen’s girlfriend, the Queen Bee of LAPA?
+
+The next day, in typical LAPA fashion, Eppie’s fame blew away like the Santa Ana wind—fierce for the night, gone by the morning.
+
+Tuesday and Wednesday passed in the unremarkable manner of a long-winded narrative which had been summarised, compressed, and shrunken because the events felt too pedestrian. As per routine, Eppie met Lim at night, bantered with her roommates in the morning, attended classes, updated Excel tables, and practised vocals with the Seniors.
+
+By Thursday morning, Valentine's Day had arrived without Eppie’s notice.
+
+Her first bouquet was from Josefina, or more precisely, from LAPA. “From your LAPA family,” the note read. “From your beloved Operations Coordinator, Susan Carr.”
+
+In the hall, flowers were exchanged like Dutch currency during the 1637 inflation. Single-stem roses, double-headed duets, small bouquets, giant ones, filled the hall with their perverse scent, dousing the teenage students with their pheromones.
+
+To Eppie, the free market of love was pure chaos. Freshmen traded carnations like commodity futures to the objects of their admiration. Courageous Sophomores displayed their harvest like collectors, showcasing loot hauls at a convention. The Juniors were either crushed on by their younger peers or held crushes on their Seniors. The Seniors were appreciative, but most were far too stressed about their graduation projects to actually consider anything other than a forgetful fling.
+
+By the second period, the lockers had become a Romantic reliquary with plastic sleeves and petals peeking out from locker grates while their cargo of flowers died ignoble deaths. The whole corridor smelled like a greenhouse mid-collapse: lily, rose, baby's breath, and beneath it all, the dizzying desperation of young people pursuing the purest of American Dreams—that of the High School Sweetheart.
+
+Eppie received a few stems, a dozen, at most, from people she didn’t know, or cared about romantically… like Min-jun… like James Jules.
+
+The rest of her day was routine.
+
+Senior Theatre wrapped up after two more hours of Valorie acting in circles around the guys, after which Eppie headed out to a solo dinner.
+
+She wanted to jog around the campus to see if the stray cats were returning and to spot any new arrivals or old tenants, but told herself that it had only been three days and nobody’s elbow healed that fast. The missed calls from “Kel” had stopped coming, so clearly, the boy was still having a debate with the angel and devil hanging on either side of his shoulder. Nonetheless, it felt wrong to be eating dinner alone. Should she call Zara? Or would Lim have brought cup noodles? The noodles sounded like a good idea.
+
+With her calculations still swirling in her head, she aimlessly passed through the Old Music Building, making for the basement of the Stray Cat Society.
+
+She inattentively turned the corner, then became nearly blinded by a sudden flash of high beams.
+
+Eppie’s heart rate shot to 200. Her body instantly assumed a defensive pose. Every muscle tensed, ready to be run over by a van like Mr Biscuit, driven by a cackling Chen licking his chops.
+
+But there was no William.
+
+There was, however, a van and a familiar face she hadn’t seen since early January.
+
+“Eric?!” Eppie lowered her arms. “What are you doing here?”
+
+Eric was carrying a giant bouquet of red roses. It looked large, heavy, and very expensive. The car behind him wasn’t his usual pickup, but the Sony town car—the Mercedes they had used to chauffeur Kiritani Sensei.
+
+“Surprise!” Her Newfoundland announced with a grin that split from ear to ear. “Are you ready?”
+
+AM I READY? Cold sweat drenched her back at once. Her body was still pumped full of stimulants from her earlier adrenaline surge. READY FOR WHAT?
+
+Eric came closer, his affability so authentic that Eppie found it offensive. To her amazement, her Newfoundland was wearing a suit. Not the kind for work, but the kind a body would wear to a friend’s wedding. In all honesty, Eric was a nice-looking feller. His profession notwithstanding, he wore the likeness of a masculine woodsman, the type that would build a cabin and fish for dinner. “Get in. Tonight’s the night.”
+
+GET IN?! Eppie gulped. “Eric, does Emily know you’re doing this?”
+
+Eric gave her a strange look. “Why wouldn’t she?”
+
+“Emily… consented to this?” She pointed at the flowers. “Shouldn’t you be spending the night with her?”
+
+The Newfoundland cock his head. “Sure. She’ll join us later.”
+
+It was at this point that Eppie was seriously beginning to wonder if William had slipped something into her water bottle.
+
+“Anyway.” Eric guided her toward the car. “You coming? Everyone’s waiting.”
+
+“Everyone?” Eppie paced behind Eric in case he ripped off his mask and revealed himself to be a paid actor.
+
+“Yes, everyone,” he placed the giant bouquet in her good arm. “I am glad that I am the first person to say it tonight. Happy birthday, Euphemia.”
+
+Eppie stopped walking entirely.Her birthday was in July.
+
+In a daze, she slid into the back of the car while Eric talked about all the people waiting for her. In the interiority of her brain, Eppie wracked and wracked her [Wisdom] to try and fathom why the hell this was happening—until her [Memorisation] coughed up the answer.
+
+Euphemia Fontaine was born on Valentine's Day in 1992 in California, USA.
+
+Valentine's Day.
+
+The 14th of February.
+
+Oh…

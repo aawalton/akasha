@@ -1,0 +1,103 @@
+---
+id: 3c31cdee-93b4-5637-81d3-50765d0caf4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62 – Observed – Interlude"
+slug: 0062-chapter-62-observed-interlude
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 62
+ownLength: 1453
+unit: words
+publishedAt: 2025-02-22
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2083610/chapter-62-observed-interlude"
+royalRoadId: "2083610"
+---
+
+Diana’s vision was a hazy blue as she peered through the eyes of an undead bird. Smoky air passed around her, felt and unfelt, smelled and unsmelled. A bird nearby circled, and she reached out with her mind, pulling more minions toward her targets.  There you are, darling. And you’ve gotten stronger.  She watched Kindra race back into the forest toward the unwanted dwarves .
+
+They’ll have their use.  Diana smiled and willed her bird back toward them.
+
+“Diana?” a voice whispered. The low tones vibrated through the room, carrying immense power.
+
+A shiver ran across her spine, and her focus returned to a large room. A chandelier of enchanted lights sparkled overhead, and a polished stone floor reflected the light. Sitting at the head of the room was a man whose skin was practically glowing to those who couldn’t see mana. To Diana, it was like looking into the sun. His entire being surged with it. His blue eyes blazed.
+
+“I ask your apologies, my lord,” Diana said carefully. “Business, of course.” She folded her hands in her lap, letting them rest against the black dress.
+
+Other necromancers turned. With white hair and blue eyes, they looked like a strange family, even with other species present. The most common were elves, half-elves, and humans, each sitting in a cushioned wooden chair.
+
+“Will you have the supplies we need?” Klaus asked, his ancient voice booming through the domed room. “The realm of the dragons must fall and soon. There are other realms that require focus.”
+
+“Of course, my lord.” Diana bowed her head. “We are ready.”
+
+Klaus nodded once in her direction before his focus shifted. He looked at a man with short, white hair and a nice suit. “What of the fae realm?”
+
+“Their wards are strong, my liege,” the man replied. “But we are breaking through.”
+
+“Your focus will shift.” Klaus gestured. “Your focus will be on the draconic realm. It must fall and soon.” He paused momentarily, scanning the room.
+
+Diana straightened, holding her head high.  What game is he playing today? He would not have summoned us for this.  She waited for another comment.
+
+A door opened, and servants entered. Wearing crisp, white attire, a mass of servants entered and spread through the room, one in front of every necromancer.
+
+Diana looked at the servant before her. The elf looked at her with a deep rage. She smiled at him, revealing her fangs. He glowered back, his rage a contradiction to the pure white pants and shirt. His core glowed.  He must be at least level four hundred. Quite the find.  She smiled at him.
+
+“Now, it is a time of celebration,” Klaus said, standing from his padded chair and walking up to the servant in front of him. “Would you care to tell them why?” he asked the elf beside him.
+
+“Nature, smite you,” an elf hissed, her voice rippling through the room before runes ignited around her. She screamed and hit the ground, falling to her knees.
+
+“Your god doesn’t exist,” Klaus replied. He smiled. “Today is a great day. A day of celebration. For we have discovered a new realm. A realm that will help us grow further.”
+
+A soft ripple of noise spread through the group. Diana looked at him and let her surprise show.  He did not tell me?  She frowned.  Why would he not tell me?
+
+“Many of you have heard rumors. Rumors of a craft made of metal and other things. A craft capable of traveling the realms without magic.”
+
+A silence fell on the room. Diana looked at him.  We solved it, then? We know where it is.  She smiled at him and nodded.
+
+“Pardon the theatrics, my trusted. I know how hard you’ve worked to uncover the secrets, and I trust that you will uncover the mystery of that craft.” Klaus smiled and raised his hands. A spinning globe of Earth appeared overhead. It rotated, revealing the oceans and land. “You will never guess why it took us so long.” He paused and looked at the first row.
+
+Diana swallowed.  Is this a test?  She looked straight ahead, refusing to show any further weakness.
+
+“Relax, I meant it.” Klaus chuckled and then went serious. “It seems that there are realms without magic. As this one did not have it, we weren’t even aware it existed. Nothing more than a magicless husk of a world.” He nodded toward a necromancer.
+
+The man bowed back. “Forgive me, my liege. But why would we want such a world?”
+
+“The fae council found it, and it has magic now.” Klaus smiled. “But I will ensure they do not establish yet another foothold. To that end, I offer a gift and make a request.” He paused, and a deathly quiet spread across the room. His eyes lingered on every necromancer.
+
+Diana nodded back to him as his eyes swept over her.
+
+“We break their worlds now,” Klaus said, his eyes flashing with magic. “I expect the draconic realm to fall within a month. The elemental lords must fall, and we must march forward before they spread further.” He stepped next to the woman beside him and pulled back his lips, revealing long teeth. “Drink. Get stronger. And push your realms. We have new ones to conquer.” He sank his teeth into the woman’s neck, drinking deeply.
+
+She stood there, her rage faltering and the light in her eyes slowly going out. As the woman dropped to the ground in a bloody heap, Klaus licked his lips. “Enjoy the gift. Make your plans. For we have worlds to conquer.” He spun and walked to the door in the back of the room, leaving them behind.
+
+Diana sank her teeth into the man next to her, pulling in mouthfuls of vibrant, rich, metallic blood. It flowed down her throat, and she felt her body pulling the mana into her without a single thought. It simply did it.  Ah. Perfection. Bliss.  She swallowed, and the man dropped to the ground, blood oozing onto the floor.
+
+The metallic scent filled the room, and the others began to file out of the room. Diana followed them.  A new realm. Interesting.  Realization hit her, and she masked her expression.  No magic. Nothing on it will be strong enough to be worthwhile.  She sighed.  I suppose that means I will need to focus on my realms.
+
+She walked out of the room and pulled out a handkerchief, dabbing the blood from her face.
+
+“Diana,” a voice called. It rumbled with power, and she spun toward a necromancer.
+
+He walked up with a soft smile, his eyes dragging across her body. “How are you adjusting?”
+
+“Very well, Craig. Thank you for your aid in that regard.”
+
+“Of course.” Craig smiled and leaned closer. “What of the complication?”
+
+Diana smiled. “I have eyes on the little rebellion now.”
+
+“Do you wish aid? I need yours. The elemental lords are causing problems.”
+
+“No, no. They will fall. They always do.” Diana leaned against him. “Let me issue a few commands, yes?”
+
+“Of course. I could use your aid with the elementals.” Craig wrapped his arms around her.
+
+Diana slipped back into the mind of her undead. Like tugging on a thousand leashes, she pulled, gathering guards from all the nearby cities and willing them toward a single one.  “Do not kill Kindra. You will know her when you see her.”
+
+Focusing on the undead in the city, she issued further commands.  “Kill the rebels and any dwarves that may have even thought of disobeying. End them. Do not harm, Kindra. We have much to discuss.”  She felt her minions move. Fearful dwarves fled to their homes. She ignored them. They’d pay for this insurrection, but that could wait. Her focus was on the gathering army that would need to invade their poorly hidden base.
+
+Shifting her focus to birds, Diana studied the ground and the footprints. A smile spread across her face.  Found you .   She chuckled and willed her army forward, sending some toward Kindra. “ Go. Ensure the rebels can’t escape.”
+
+Snapping out of it, she pulled on her mana, willing runes into existence. They flickered around her like stars, and she felt a tether form to a distant mind.
+
+“My queen?”  a dwarven voice called.
+
+“If you and any of your kin wish to live, you will follow my undead and see to it that the rebels do not escape. I have no doubt that they will try to tunnel out. Do not let them! And do not kill my daughter. You’ll know her when you see her.”  She broke the connection like a cut string.  Time to prepare for my arrival.

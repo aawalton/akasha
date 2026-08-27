@@ -1,0 +1,339 @@
+---
+id: 95196f79-6c62-5e66-9ad5-1d50e1aba9e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - Strange Fruit"
+slug: 0056-chapter-30-strange-fruit
+partOf: metaworld-hopecore
+position: 56
+ownLength: 3375
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374655/chapter-30-strange-fruit"
+royalRoadId: "3374655"
+---
+
+"I must have justice, or I will destroy myself."
+
+Dostoevsky The Brothers Karamazov
+
+Fat Lim Wang met Luciana Mio the previous March during semester break.
+
+He was a Senior, a fourth-year accountant preparing for his fifth-year ACA accreditation, a path he had meticulously planned since fifteen.
+
+She was a bright-eyed Junior Musical Theatre Major with the world ahead of her, a presence not unknown on the campus, the star child of Dr Cooper’s theatre program.
+
+Lim had met Mio through Mr Chin.
+
+He found her sitting outside the Stray Cat Society’s basement door with a cardboard box, shivering in her dancer’s tights in the 49°F cold. He was speechless for a moment when she looked up, amber eyes blazing like jewels, her voice melodic as she asked for help. It took him all three seconds to remind himself that this was a LAPA Junior of seventeen, then he welcomed her into the basement.
+
+In the basement, Lim ascertained that Mr Chin had been struck by what appeared to be a bike or car, and that he needed urgent care. The girl refused to leave, so Lim lent her his jacket, and the two of them took Mr Chin to Alhambra Animal Hospital.
+
+In the lobby, he asked her what had happened, and she told him how she had found the cat.
+
+Mr Chin wasn’t called “Chin” for no good reason. It was a stray cat, but a very well-fed stray.
+
+Her answer was halting, hesitant.
+
+He pushed for it, stating that he was paying Mr Chin’s medical costs and deserved to know why he was incurring a minimum of $250 on her behalf.
+
+She told him, her eyes brimming, that some asshole kicked Mr Chin while she was feeding him.
+
+Fat Lim Wang had sat very still, very silently, then asked Mio who it was. In his mind, the Five Root Association had already made the man’s life a living hell where death was preferable.
+
+Mio had then looked at Lim with the same pitiful eyes as Eppie, and said the magic words to Lim’s internal Golem script.
+
+“William Chen.”
+
+Lim deflated like a cheap balloon.
+
+“It’s okay,” Mio said while wiping tears from her sad eyes. “I’ll find another place to feed Mr Chin. I just hope he’s okay.”
+
+They sat in silence for another thirty minutes, then, out of awkwardness and necessity, began to talk about their lives as a distraction from William Chen. Lim found, unhappily in hindsight, that he very much liked the girl. She was pretty, of course, but unlike Valorie Sanders, she was witty and funny, and she loved cats more than her life. She showed him her photos of her with the strays on campus.
+
+He recognised about 80% of them.
+
+When Mr Chin came out, bandaged and drugged up and asleep and costing $650, they were already old friends.
+
+They hung out whenever the work of the Stray Cat Society had them meet at night. His work with the Chen family, his degree, and his teaching position at the Five Root Association did not permit them to meet at regular hours, but their friendship remained steadfast.
+
+Lim had even enjoyed the delusion that, when Mio was old enough, he would risk asking if she was looking for a partner. Pragmatically, his first priority was his family, then his degree, for they were the key to his independence.
+
+The latter was central to his modus operandi because William Chen’s demands were almost always borderline criminal, and in California, a CPA cannot hold both a licence and a criminal record. Were William not so outrageously stupid in his low cunning, Lim would have wondered if that had been the young master’s plan; but the man’s pettiness, his sucking up to San-Jei, and his lack of control when it came to women and alcohol, all suggested otherwise.
+
+Then, on a moonless evening in early May, Lim walked into the women’s locker room with his martial siblings and saw the aftermath of William’s crime.
+
+“Ah-Wang. Take care of this,” William was washing his hands in the sink, his face bruised but satisfied, his lip cut but curling. “Edson, take some pictures. I want to leave her with a reminder.”
+
+Edson had vomited in his mouth, there and then.
+
+There was blood on the wooden benches bolted to the floor, blood and other bodily fluids. There were floor-to-ceiling mirrors running the entire length of the change room, from which William could witness his crime a hundredfold as he did the deed.
+
+“Okay, Chen-ge,” Lim had replied as he briefly pondered murdering the man there and then. But how would he answer the family after that? Would the others stop him? This wasn’t sparring. It took a great deal of effort to actually beat a man to death. Without understanding his martial-siblings’ loyalties, he couldn’t be sure.
+
+Mio… poor Mio… he couldn’t look for fear of killing William.
+
+“Luis, Jimmu, take Chen-ge somewhere safe. Give him an alibi. Kitty, can you check on the girl? Edson… stop. Just stop.”
+
+Edson had handed his phone to William like a man handling a viper. “You keep it,” William’s bloody smile was both demented and demonic. “I trust you, brother.”
+
+“She’s still breathing.” Lim recalled that Kitty’s eyes were swollen with impotent rage. “She’s badly concussed.”
+
+“I will… check the rest of the change room.” Lim had told them. His whole body was vibrating. He had to walk away before someone died by his hand. “Let’s leave nothing to chance.”
+
+“I am glad you’re all here,” their young master’s gratitude snapped like a stock whip. Lim vividly recalled William’s face flushing with excitement as he gazed upon the girl’s ragdoll body. “Remember, we’re all in this together.”
+
+Eppie felt a shot of hot lead run down the length of her spine, then up again, burning her brain with a sudden fever.
+
+“You know what?” she demanded, taking a step forward even as she eyed the exit.
+
+To her surprise and confusion, Lim stepped aside.
+
+“Don’t go,” the giant Asian said, placing both hands before him, like a perp surrendering to arrest. “We can help each other.”
+
+Mr Chin made a friendly meow.
+
+But it wasn’t because of Mr Chin that her doubt began to fade.
+
+She was just about to scream “BULLSHIT! YOU ASSHOLE—” and run for the door, and then—
+
++ Karmic Causality+ Karmic Causality
+
++ Karmic Causality
+
+ARE YOU SHITTING ME? She screamed internally. NOW?
+
+“How do I know I can trust you?” Eppie demanded, shifting her weight, her body relaxing. Despite the karmic assurance, she also had her explosive speed. At worst, she can scream very, very loudly.
+
+“I took the Birkin Bag,” Lim sent another bolt of electricity running up her spine. “San-jei—Valorie gave it to Simone…”
+
+The man’s voice was soft and earnest. Either he was exactly that, or he was a Cooper-tier actor.
+
+“... I helped her plant it, then removed it to teach them a lesson, and to save you from unnecessary grief. Imagine if you got caught. You might have a good reputation, but you’re a Ward of the State. No family, no money, who will help you?”
+
+A shit load of people will help me. Eppie retorted in silence. “And why would you do that?”
+
+“Because I don’t think you’re Euphemia Fontaine.”
+
++ Karmic Causality
+
+Her breath caught in her throat.
+
+Her secret was safe. There was no one who would believe Lim, but she knew it to be true, and her body could not help but revolt. From her trembling fingers to her closing throat, for a moment, she felt as if she was crashing out.
+
+Then her world snapped back to reality, and she stared at Lim with the full force of her accusatory blue eyes.
+
+“Why do you say that?” She demanded.
+
+The look on Lim’s face was sad and absurd, like a man who’d just been told that the Earth was flat and that the moon landing was shot in Paramount’s Studio 5.
+
+“If you were her, you would be in a puddle of tears by now,” Lim shook his head. “If you were Euphemia, you would know that you were there.”
+
+“There for what?”
+
+The giant exhaled long and hard, his eyes infinitely soft and compassionate. He lowered his hands, then gripped a chair beside him. “You were there in the locker room, Eppie. I found you there in the change room, the day William assaulted Mio.”
+
++ Karmic Causality
+
+If the previous bolts had been magma and electricity, the one that struck her now was a force of petrification, transforming her into a marble statue that adorned Medusa’s cave.
+
+Would you like to know? He asked.
+
+Eppie found herself suddenly underwater. Everything the young man said sounded like echoes of a chamber five fathoms deep in the depthless dark.
+
+Tell me. She said. Tell me everything.
+
+Fat Lim Wang told her about Mio.
+
+About how they met.
+
+About Mr Chin in a cardboard box, near-kicked to death by William fucking Chen.
+
+He told her about the Five Families, their relationship to the Chen’s.
+
+“She sat there, right there,” he pointed at where she sat, a cat herself. He looked at the kennels. “We would clean these together. The cats were far more fond of her than they were of me. She liked it here. There was no competition here. No pressure. She said.”
+
+Eppie hugged Mr Chin, who purred.
+
+The kittens hung onto the fur on her legs, meowing.
+
+“Then came the January Auditions. Mio won. Valorie lost. Rather than choosing another role, she became Mio’s understudy. I don’t think anyone knew the true meaning behind that choice, but it all became apparent in the first week of May.”
+
+The giant’s hands gripped his knees. “You remember nothing?”
+
+“Nothing,” Eppie confessed. She waited. The [System] had given her enough confidence not to rush the man. If the bloody [System] was wrong now of all times, she deserved her second death.
+
+“I don’t know how to explain this…” Lim’s face grew scarlet. “It’s not nice.”
+
+“I don’t need nice,” Eppie said. “I need the truth.”
+
+“The truth isn’t for children.”
+
+“I am not a goddamned kid!” She snapped. “Stop fucking with me!”
+
+Their eyes met in challenge.
+
+“The Old Music Building. After Sunday Rehearsal. Mio always stays back for the Stray Cat Society. William’s family renovated the whole thing. He has access to the server rooms—meaning I do, too. That night, he called me while I was at the restaurant. Come to the girls' change rooms at B2, he said. I need a clean-up. I got my crew together, and we went, expecting to find that he had a lover’s spat or made some trouble that required a CCTV scrub. Valorie could be like that. If she smashed every mirror in that room, I would believe it.”
+
+The man seemed to catch his breath for a moment.
+
+“We walked in. And there she was.”
+
+Mio, the young man said, his eyes growing puffed as his pupils dilated. Mio, bruised and broken, her clothes in disarray, splayed on the bench like a dying white bird with broken wings, blood staining her white thighs, blood on the floor and the wood.
+
+Eppie bolted to the bathroom.
+
+Like a sick cat, she hurled her guts out, pizza, KFC and soft drink and all. This wasn’t Lana’s reaction; Lana was stronger than that. Her body must remember. The sight, the sound, it was ingrained into the chemistry of Eppie’s brain.
+
+When she returned, Lim offered her a cat-scented towel.
+
+Eppie took it.
+
+Mr Chin leapt onto her thigh again.
+
+“I told the boys to escort William away, but he wouldn’t leave. He was savouring her pain, I guess, admiring his work. Kitty pulled Mio into a shower to wipe her down and to get her away from William. I checked the stalls, one by one, one after another, and then in the last stall…”
+
+The basement was silent but for the cats’ purring.
+
+“It wasn’t empty,” Eppie said.
+
+“No.”
+
+“There was someone in there.”
+
+“Yes, hiding in the cubicle,” Lim’s eyes were watching her face. “She had been there this whole time, holding down her sick, curled up on the bench. She had heard everything. And that someone was…”
+
+Eppie swallowed.
+
+“Euphemia,” she said at last.
+
+Murder, though it has no tongue, will speak.
+
+Truth was why Euphemia had died.
+
+Now, the question was how.
+
+“So what did you do?” Eppie said. “I died in August.”
+
+Lim’s gazed moved from her knees to her navel, to her shoulders, then her face. “Are you a Jiangshi?”
+
+“I am Frankenstein’s Creature,” Eppie replied. “Continue.”
+
+“I pretended to look into the cubicle. I whispered to her to be very quiet. Then I shouted back that we’re all clear. Satisfied, William kicked open the shower, where Kitty was scrubbing the evidence from Mio. She was conscious now. Her eyes were staring at William in incomprehensible horror. William liked that.”
+
+Eppie said nothing.
+
+“He told her what would happen if she told anyone. He told her about her parents, who worked in K-Town. He told her about her restaurant. He told her that what he could do to them was a hundred times worse than what she had experienced. He told her…”
+
+Lim swallowed, then swallowed again, like a man swallowing pebbles. “You understand.”
+
+“I understand,” Eppie replied. She had also made threats like that, but never in person. Legal handled that. Libel and NDAs and generous settlements.
+
+“Finally, he left. Thank God,” Lim placed a palm over his forehead, like he had a fever. “He told us to follow him.” “You… left Mio there?” Eppie blurted out in disbelief. “YOU FUCKING LEFT MIO IN THE SHOWER? NAKED?”
+
+“No, not alone,” he said, looking at her intently. “You were there.”
+
+What the hell did you expect me to do? Eppie screamed, but did not voice her horror.
+
+“When I checked the CCTV later, to erase it, of course, I saw you helping Mio from the room. She was dressed and walking with help. You were holding her up. Your small body… was holding her upright. You’re stronger than you think. Like now.”
+
+“You didn’t keep a copy of the…”
+
+“It… hadn’t occurred to me then,” Lim shook his head. “I knew I wanted to, but I didn’t realise I could. My head was a mess. Not killing William was the only thing on my mind. It was only when Mio disappeared that I made a decision. I erased the footage of them entering. I removed the footage of you leaving to keep you safe. There were no redundancies; it was cheap, imported software.”
+
++ Karmic Causality
+
++ Karmic Causality
+
+Eppie studied Lim.
+
+The giant looked exhausted, even though all he did was sit and talk.
+
+“Alright,” Eppie stroked Mr Chin. “I believe you.”
+
+“You do?” The giant looked both thrilled and shocked. “Now I am confused.”
+
+“I… have my ways,” Eppie’s eyes softened. “Thanks, Lim. For sparing my life, I guess.”
+
+Lim nodded. “Thank you for believing me.”
+
+“Now er…” Eppie pointed to the rack where she stored her duffel. “I got something you might want to hear… because it’s confusing the shit out of me.”
+
+With permission, she pulled out her phone, sat down with Lim, and played the recording from Mio.
+
+“He knows we have a recording… of what he did, what he did to me. O God. OH GOD. We lied to him. Eppie. We lied to his face! He’ll never let us go now. He won’t forgive us. He won’t stop at the cats this time….”
+
+Lim’s face grew blank, then it turned a deep, deep scarlet, like the hue of raw pork liver.
+
+“So the cat, I assume, is either Mr Chin or…”
+
+“Not Mr Chin…” Lim buried his face in his hands. “I should have just killed him. A few of the cats had gone missing after May. One or two, every few weeks. I thought they left…”
+
+“Well, it's spilt milk now,” Eppie patted the man’s head, as did Mr Chin. “What the hell is this recording?”
+
+“I am ashamed to say that I don’t actually know,” Lim shook his head, looking like a large dog in denial. “I am not privy to a lot of the actual happenings in LAPA. My crew mostly deal with things that William can’t handle himself.”
+
+“True,” Eppie stowed her phone. “It’s not like he called on you to go and brutalise Mio or kick her cats. He managed that all by his God-damned, bottled-spider self.”
+
+“But this is important,” Lim’s face grew hopeful. “And it's tied to what happened to you.”
+
+“I am starting to get that vibe,” she hugged Mr Chin to her chest. The cat meowed.
+
+“You don’t know why you jumped…”
+
+“Nothing,” Eppie shook her head. “But I guess we have leads now.”
+
+“We?” The giant scratched his head. “Yeah, WE, you oaf.”
+
++ Karmic Causality
+
+Eppie did her best to smile, but her makeup was smudged, and she had no idea how she looked. “Our leads, Simone Goode, and Luciana Mio. You said you knew where Mio had gone?”Lim nodded, stroking Mrs Catch’em with the flow of a martial artist, but the precision of an accountant. “I hoped to God that she had run away before William got to her, and now I know she did exactly that.”
+
+“Any idea where?”
+
+Lim pulled out his phone, punched in a name, and showed her.
+
+“Fresno?” She was ashamed to say that she had never travelled to Fresno in her life. “What’s in Fresno?”
+
+“I don’t know,” Lim replied, shrugging his shoulders as Mrs Catch’em purred. “She mentioned it a dozen times in her conversations. I assume she has family there. It’s a Latino-heavy community. There are Peruvian families there, I think. Her mother's people. Peruvian, Japanese. Nikkei.”
+
+“I see,” Eppie did her best to digest the details. “And Simone?”
+
+“I’ll squeeze the information from her.” Lim’s face grew grim. “She’s guilty, for sure.”
+
+“Maybe, but let me have a dig first,” Eppie shook her head. “Don’t want her running to William and telling on you. It’s normal, though, if she snitches on me. That’s assuming she even has the gonads to mention anything to William.”
+
+“Alright,” Lim concurred. “That makes sense.”
+
+“And we’ll need help,” she added some [Vocality] and [Persuasion] to her voice to make sure her co-conspirator took the news kindly. “Eric Lee, my lawyer, and Charlene Lafitte of the LA TIMES have both heard the recording I just played for you. They can be immensely helpful to us. Are you willing to make this big?”
+
+“If it means taking down William,” Lim replied with equal seriousness. “I mean, truly take him down…”
+
+“That’s going to be a bit challenging for us students, but there’s more than one way to skin a cat,” Eppie snickered wickedly, soliciting a meow from Mr Chin. “It’s the age of mass information. Mr Chen and Mr Sanders will have to carefully consider their career choices if William lets slip his dirty deeds.”
+
+Their eyes met. DING—! DINGS—!
+
+Her phone chimed. It was 10 PM. Curfew.
+
+“FUCK,” Eppie swore. “Josefina is going to kill me.”
+
+“I’ll walk you back,” Lim offered. “Don’t,” Eppie shook her head. “We’ll meet like this, in the Cat Society. Or where the strays hang out that only we know. It's safer. Text me like you always do. Talk about cats, keep me hooked.”
+
+“Right, right…” Lim looked at her strangely. “Why are you so good at this?”
+
+“Well,” Eppie tilted her head and made her ears move. “I am Frankenstein’s Monster, risen from the dead, remember?”
+
+“Are you serious?”
+
+“Dead serious.”
+
+Lim laughed. His eyes were swollen.
+
+It was time to go, or Josefina might just skin her.
+
+Outside the Old Dorms, the pair looked at the renovated building with Chen’s name written all over the design. From here, they could see the Main Building. The LAPA signage. And above that signage, a teenage girl had leapt off the edge.
+
+"There was no accident,” he said to her. “I am sure of it.”
+
++ Karmic Causality
+
+“Yeah,” Eppie replied as her [Causality] increased by yet another increment. “It sure as hell wasn’t.”

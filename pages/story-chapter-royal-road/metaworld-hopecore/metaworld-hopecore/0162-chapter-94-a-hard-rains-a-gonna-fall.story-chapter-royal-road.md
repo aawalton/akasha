@@ -1,0 +1,237 @@
+---
+id: 6938bc22-254a-5639-97dd-0f4de583a344
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 94 — A Hard Rain's A-Gonna Fall"
+slug: 0162-chapter-94-a-hard-rains-a-gonna-fall
+partOf: metaworld-hopecore
+position: 162
+ownLength: 3174
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3852344/chapter-94-a-hard-rains-a-gonna-fall"
+royalRoadId: "3852344"
+---
+
+"And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine."
+
+Genesis 41:36 Joseph, reading Pharaoh's dream
+
+After a tearful promise to return to “Bring-your-Artist-to-Work-Day”, Eppie ate dinner at the house on East Seventy-Third at seven, joining the Dame of the Met, who had taken time off work to dine with her dauphine.
+
+They ate in the small room rather than in the dining room, which Eppie understood as a gesture of intimacy. The main dining room seated twenty-two under a ceiling painted to resemble world-famous chapel domes, replete with cherubs and angels. The small room had a round table, four chairs, and a sideboard, all heirlooms, looking out into a private garden the city could not see.
+
+George presented a simple meal of monkfish and vegetables, with a fillet large enough to be filling and a light sauce to keep the meal healthy. Aside from George, Eppie was introduced to Mrs Nora Byrne, the full-time private chef and housekeeper. She was also informed that a cleaning pair came on Tuesdays and Fridays, who worked in silence and preferred to keep to themselves, as well as Dr Anneke Rietveld, who came quarterly to measure the humidity in the gallery and to curate its collection. Twice a year, she might meet a man who drove in from Queens to turn over the engines of the six priceless classics in the garage.
+
+Behind Vaughan’s shoulder hung a Constable, a museum-standard replica made by a lady painter in Hoboken. They talked about the flight, which had been unremarkable, and about the heat, the food, the shallow glass of wine Eppie had been given, and then they spoke about her final days at LAPA.
+
+The Dame of the Met put down her fork.
+
+“Tell me about the play.”
+
+Eppie told her about the play.
+
+There was no need to revisit the plan; Vaughan had sat in the third row on the eighteenth of May with her hands in her lap and her face entirely still while a girl bleeding red threads pointed into the house. Instead, Eppie informed her host of the way the company had been run, of Tyker in the sound bay, shepherding the recording, of how nobody in the auditorium had moved. She told her about Cooper’s hand on her shoulder afterwards, the text she had sent William, and the drizzling rain as she sprinted into the open night.
+
+And then the roof. She told Vaughan almost all of it, sans any mentions of the [System].
+
+Vaughan listened the whole way through, enjoying the clarified narrative delivered by Eppie’s [Script Analysis].
+
+“William was a truly wicked man then,” Vaughan folded her hands. “You know what makes a person truly wicked? It isn’t wickedness. It’s confidence, however misguided. Truly wicked people think they are the reasonable ones, that they are the only adults in a room of children—and that everything would be perfectly fine if the world had conformed itself to their twisted, convoluted will.”
+
+Eppie considered this. Having visited more billionaire yachts than she could count, Eppie found that Vaughan’s insight struck a little too close to home.
+
+“And if the world refuses, they tell the world that they are being persecuted,” Vaughan laughed politely, evidently thinking of someone she knew. “Resistance registers to the wicked as an injustice. You cannot argue a man out of that, because every refutation is further evidence. Only your submission is validation.”
+
+Eppie sipped her glass of chardonnay, the crisp bite of green apple and citrus cutting clean across her tongue.
+
+“It’s true.” Vaughan smiled.
+
+“There was a man,” the Dame said, “on a board I sat on for eleven years. Owner of a retail concern—the kind of company with a shop in every town, rather than a town attached to it. In ninety-six they took out life insurance on the shop staff. Yes—the people who stack the shelves at four in the morning. Eleven thousand policies, and the company was the beneficiary. It was entirely lawful. It was tax-advantaged. Nineteen staff died that year, and nineteen families were never told there had been a policy.” A pause. Vaughan drank her wine. “The story broke, the world was outraged, but it was all legal, all above board. The C-suite got its paycheck. On Thursday of that same week, the owner wrote us a check for the Roman Wing.”
+
+“Whitewashing his reputation?” Or sanewashing…
+
+“Not really. Mockery is what the little people tell each other to comfort their littleness.” Vaughan looked at her. “It makes him a hypocrite, a monster. But here’s what he actually thought—he told me himself. He explained it very well. He was not lying. The Roman Wing’s new collection would be his legacy. The insurance policies were just good business; his true self—his authentic self—was a misunderstood philanthropist and lover of the classical arts.”
+
+Eppie nodded. Vaughan was simply validating something she already knew. One of her partners had sold Smart Glasses, then pushed an update that captured images unprompted for AI training. What the glasses captured wasn’t just faces, but people’s private moments, including their children. Had a whistleblower not immolated his career, the world would not have known until the datacentres were fully fed.
+
+As for herself… Certainly, not once had Lana felt that she was desecrating the dreams of the artists whose work had been fed into the LLMs.
+
+Following Eppie’s eyes, Vaughan lifted her glass. “I am not exempt from anything I have just told you. I am simply better informed about myself than they are, so… Here's to life’s small virtues.”
+
+Eppie raised her glass as well. “To life’s small virtues.”
+
+After dinner, the two women retreated to the reading room, where the topic of schooling once more reared its head.
+
+Eppie made her case.
+
+“I am not getting incarcerated for two years; I need to make art, or make people make art…”
+
+Vaughan seemed amused by her spiel. “You’ve certainly been doing that. Still, you will want the paper, Euphemia. Not for you. For every board and every bank and every producer who is going to look for a reason to not take you seriously. It’s not about having that diploma. It’s about lacking it and making things inconvenient for everyone. Give them one fewer.”
+
+Vaughan turned the coffee in her hand. “There is an examination: the California High School Proficiency Examination. You sit it in three and a half hours, and the state issues a certificate that stands as a diploma. It’s what the studios use for their child actors so they can work adult hours.”
+
+Eppie’s [Memorisation] spun up its disks.
+
+“And you qualify twice over—you’re sixteen, and you’ve done your tenth year. You’d have to go back for the sitting; they run it a handful of times a year. A day. In and out. Get Curon to pay for First Class. He should have enough points.”
+
+“That’s it?”
+
+“That’s it.”
+
+Eppie relented. If it were just one day…
+
+One day’s [Dasein] and [Causality] were worth the hassle… of removing future hassles.
+
+By ten, like a good girl, Eppie sat on her new bed.
+
+She had been given a library office and a bedroom, as well as access to the second-floor west-wing bathroom, forming a Fontaine fiefdom within the Vaughan Estate.
+
+She sat at the end of the bed she had slept in at Christmas, wrapped in a fluffy robe, and allowed herself to soak in the solitude.
+
+Unfortunately, a manor such as Vaughan’s was not quiet. The building was alive, for there was the sound of the grandfather clock’s metronome, the boiler doing its work somewhere below, old pipes shuddering while George did his end-of-day labours. With her [Perfect Pitch], she could listen to the rhythm of the house settling on its bones, even as the thick stone kept the sounds of the city at bay.
+
+“[System] show me my [Potential].”
+
+The room filled with light that nobody else could see.
+
+Her [Intelligence] and [Arithmetics] did the math, running a live balance sheet until she arrived at the rate of her current expenditure.
+
+Thus far, she was ahead of the curve. One day of [Dasein] costs around [4,925] [Causality]. The increase was roughly [25] per additional day of buffer, assuming she maintained [35] [Dasein] days.
+
+Her current “income” yielded a profit of several hundred to several thousand [Causality], but diminishing returns were inevitable over time. Occasionally, she could expect spikes of [Causality] when a song reached a new market, or affected someone—but these were outliers, rather than daily occurrences.
+
+Now that Euphemia’s regret had been absolved, Eppie felt far more comfortable piloting her [Persona], which also meant she felt more acutely that her existence was a subscription service… much like the subscription tiers she had implemented for streaming.
+
+She shuddered at the thought.
+
+[512,323]. And I’m not even using [Traits]. She scrubbed at her hair with a towel, savagely, for something to do with her hands. How often would she need to use [All the World’s a Stage]? Or [El Duende] and [Perfect Pitch]? What about [The Giving Tree]? Surely she needed to “repurchase” her gifted skills, right?
+
+What she had would last her about [104] [Dasein] days, if the curve did not go steeper. Roughly. Out to September, and not much past it.
+
+And it would grow steeper unless she put herself, or someone in her stead, in the limelight. A song that had been everywhere in February would be furniture by June, a ringtone by Christmas, and then musical history. In the Pines would become a legendary song, but it wouldn’t have the same impact as its inception. Doves Cry was an evergreen, yet it was already relegated to yesterday’s news, to be trotted out only in films and commercials, and then as nostalgia. That’s not to say her art was ineffective—it was the malaise of media as consumption, rather than culture.
+
+So, she needed something new. She consulted her crystal ball, aka [Roulette].
+
+“[50,000] to [Roulette].”
+
+Her head spun. Eppie wondered if she would ever get used to the sensation of vertigo and inversion.
+
+Aphoristic wisdom came and went, one after another. Then, her crystal ball threw up the next chapter of her life.
+
+[The Empty Space]
+
+Causality Tier (D)
+
+“I can take any empty space and call it a bare stage.”
+
+The Usurper perceives the volume of a performance space as working material: sightlines, mass, distance, the geometry of attention. This [Trait] governs blocking, staging, and the placement of bodies in relation to an audience, applicable to both indoor and outdoor performance spaces.
+
+Beyond (A) tier, this trait can only be improved through Karmic Causality
+
+[The Facial Landscape]
+
+Causality Tier (D)
+
+“The face is a country.”
+
+The Usurper reads the face as terrain: the muscle under the skin, the half-second a feeling survives before it is corrected. This [Trait] governs the face under magnification. When actively expending [Causality], the Usurper can hold a polyphony of feelings in one expression, allowing an audience to find their own.
+
+Beyond (A) tier, this trait can only be improved through Karmic Causality
+
+And then nothing.
+
+Eppie sat very still and waited for the third notification. The [Muse].
+
+The light faded. The room was a room again.
+
+No song.
+
+“... fuck.”
+
+One passive skill for the stage, probably helping with the direction of her future actors. One obviously active skill for cinematography, as an actress, not a director, but very, very useful when paired with [All the World’s a Stage].
+
+She lay back on Juliana Vaughan’s guest linen with her hair dripping and put both hands over her face.
+
+Fifty thousand. Ten days of existence, spent—and what the wheel had handed her was two Tier D acting skills. One for a stage she did not have. One for a role she did not yet possess.
+
+Her internal algorithms calculated that bringing both to A-tier would cost about [130,000] [Causality]. Without explicit need and a fresh supply, she wasn’t about to pay for either.
+
+She needed something to shore up her [Causality], a bigger buffer. The [System] didn’t care for stockpiling, and it didn’t need her to save a soul with every song. Sometimes, a little joy in the world was the point.
+
+“Fine,” she informed the Powers that Be. “Thanks for the foreshadowing.”
+
+The [System] was obviously asking her to pay for the song with [Causality].
+
+That or go out there into the streets and start inspiring people.
+
+Shakespeare in the Park? That’s… Eppie pursed her lips. That’s actually a pretty decent idea…
+
+She dressed herself in borrowed silks that just happened to be her size, then slipped under the covers.
+
+With her [Causality] accounts settled, she now had another set of books and ledgers to worry about.
+
+Presently, in all of New York, maybe the country, fewer than a hundred people were certain that the crash was coming, and only one person knew the specific week it would hit—herself.
+
+According to [Memorisation], in forty-two days the SEC would issue an emergency order that would, to anyone reading the ledger, appear to be a technicality. In a hundred and four days Lehman Brothers would file the largest bankruptcy in the history of the United States, and the commercial paper market would simply stop, the way a heart stops, and a very great many people who had believed themselves prudent would wake up on a Tuesday morning to discover that their money market fund had been holding an investment bank’s IOUs. On the same Tuesday, the Federal Reserve would put eighty-five billion into a single insurance company to prevent the house of cards from toppling.
+
+And then, for about eighteen months, everything in America would be for sale, and almost nobody would be able to buy it. And when the buying started again, it would be the same few hands. The impact of this upon the arts world… every auction house, and every museum living off an endowment… every artist-in-residence…
+
+Eppie studied the fresco on the ceiling, hand-painted by someone who Vaughan had paid very well. Was this where it had all begun? The fire sale of human creativity?
+
+Tomorrow, first thing in the morning, she would call Green Hasson Jank.
+
+Her “Karmatronic Trust” Foundation’s account partner was a New York-based manager named Prewitt, a man Sony had hired on her behalf to make sure the philanthropy was clean. Prewitt reported to Davis.
+
+That was fine. What she was going to tell him was the most boring thing a person could say.
+
+Sell the equities. All of them. Hold it in Treasury bills—ninety-day, roll them. No money market bullshit. T-bills only.
+
+She turned the sentence over and found nothing worth protesting.
+
+She was a trustee of a charitable trust. Her duty was to preserve the corpus and invest it prudently, judged on the portfolio as a whole. No court in the country would look at a fiduciary sitting on a ninety-day government paper in the summer of 2008 and call it reckless. It was, in fact, the single most defensible instruction available in the English language. Prewitt would sigh. Prewitt would think that his client had gone defensive early, against his advice, and then, because it was her trust, he’d do it.
+
+Prewitt would not realise just how much her phrasing, T-bills only, would matter. She would sound like a cautious fool until the sixteenth of September, and by then nobody would think about it at all, because the world was on fire, and every trust under Green Hasson Jank would be down twenty to forty per cent… except hers.
+
+Eppie allowed herself about four seconds of satisfaction.
+
+Then she would have to spend the money, as soon as possible, on salvaging what was left of NYC’s art scene, lest the [System]’s accounting grow prudent.
+
+The irony was not lost on her. Her [Prophet of Profits] almost supernaturally ensured that any venture she put her considerable [Intelligence] into gained fiscal traction. Yet, realised gains without artistic endeavour were anathema to her [Persona] body.
+
+The true tragedy was that the largest asymmetry in modern financial history was going to come and go, and she was going to watch it holding goddamned Treasury bills…
+
+Unless—
+
+Eppie pulled off the blanket. She was all sweaty at the thought of money, all that money. All those zeros…
+
+I need to tell Vaughan, she told the ceiling. Art cannot save itself.
+
+Her not-teacher had liquid capital. She was sure of it. Different from the untouchable billions in the Met—an endowment that was going to lose close to a third of itself inside a year. Hiring frozen. Exhibitions cancelled. Curators let go—and behind every curator, the framers and the installers and the conservators and the woman in Hoboken who painted Constables, all of them let go, quietly, in the order of least seniority.
+
+She had to find a way to inspire her benefactor without explaining the source of her certainty.
+
+And the instrument wouldn’t be a short. That was far too crude and brutal, and the SEC would be on them like a hawk, looking for signs of insider trading. Instead, all Vaughan had to do was buy the insurance. Puts on the index—not on a company, not on a name, not on some sweating institution you were personally rooting to die, but on the whole weather system.
+
+Nothing to borrow. Nothing to be called on. Nothing that a regulator, panicking in September, could stop with legislation.
+
+And the worst case was that you had paid for insurance you turned out not to need.
+
+Her [Accounting and Finance] cross-checked her findings with [Business Acumen]. The key was to sell into panic. A put is worth most when people are most frightened; October would be the worst of it. Worse than anything else she would live to see… except maybe for Covid.
+
+Ten million in June. Fifty by October—perhaps a hundred and thirty, if Vaughan held her nerve.
+
+Her eyes grew moist at the thought that none of it could be hers. God damn [Prophet of Profits]! God damn [Karmic Rebound]!
+
+But Vaughan was different. Her not-teacher was an institution! And though she had refused Vaughan’s institutional buy-in, she could still make a Marquis of Carabas out of the Dame of the Met.
+
+Vaughan could not print that money. Vaughan could, however, buy an option. And when the tax man marvelled at the capital gains she had made, more than any investor in recent history except for the men running the shorts—
+
+They would find that almost all of it had reached the working people, the artists, the musicians, the painters, the actors, and the failing theatres… and they owed Vaughan a pretty chunk of change in rebates.
+
+Eppie sat up very straight.
+
+How much [Causality] was that worth? Surely, enough to run a successful small-time theatre, to survive where the [System] was next taking her.
+
+Ten thousand artists, for three years, eating, creating, not having to give up their passions.
+
+Was that enough penance?

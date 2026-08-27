@@ -1,0 +1,171 @@
+---
+id: 9f1e39c5-7b94-5639-842e-a7e35ed6be92
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 539 - Quiet Remembrance"
+slug: 0037-chapter-539-quiet-remembrance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 37
+ownLength: 3024
+unit: words
+ownProgress: 3024
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2125672/chapter-539-quiet-remembrance"
+royalRoadId: "2125672"
+markedReadAt: "2026-06-29T19:36:29.050Z"
+---
+
+Tala and Rane sat with Master Grediv in one of the more cultivated parts of their sanctum. Though that was incredibly relative, as by being a crafted and grown expanded space, the entire thing was cultivated in practically every sense of the word.
+
+Still, this portion looked cultivated, with low clover growing over much of the clear space to give a nice, springing surface to walk upon among the trees and flowering bushes.
+
+Terry had flickered through the area before Master Grediv’s arrival to give both Tala and Rane anniversary trills, to offer seemingly instructive and chiding chirps—to which they listened with rapt attention—and to eat what had remained of the food that they’d set aside from their spread just for him… as well as the dishes made specifically for him.
+
+He had then looked briefly down the path before flickering away, giving them their anniversary mostly to themselves.
+
+This garden area was near the Path of Remembrance that Rane had worked to cultivate, a path that wandered by various statues of those they wished to remember. That area had several benches along the way, but was more closed off than most of the rest of the sanctum, keeping those outside from seeing in and giving a feeling of focus and quietude.
+
+They, of course, were not meeting in that portion of the garden. Instead, as an accompaniment to the Path of Remembrance, Tala and Alat had arranged for a more curated portion to be worked into the area to one side of the Path. It was to be a place for being with others, and was to stand in complementary contrast to the solemnity of the Path.
+
+So, in their newer garden, a late-afternoon tea had been laid out for the three Paragons. Most of the repast was set up on tables to the side, while they were at a smaller one, perfectly sized to allow for their tea and food to have ample room, while not separating the people overmuch.
+
+So far, they had exchanged initial greetings, selected their individual teas, and gathered a selection of foods to eat in accompaniment.
+
+Master Grediv’s first cup of tea was nearly half-way drunk when he broke the comfortable silence. “You two have quite thoroughly surpassed my expectations, and yet you still manage to bring more work with you than any other Mage I can remember.”
+
+That brought smiles to Tala and Rane’s lips, but neither one interrupted as both knew Master Grediv well enough to know he wasn’t finished.
+
+“I’ll say it again. Congratulations both on your anniversary and on reaching the advancement of Paragon younger than most Archons become Bound. I’d love to discuss your eternal visions of yourselves at another point, when we have more time, but please know that I am quite pleased and proud of you both.” He took a sip from his tea, relaxing a bit more and leaving a momentary silence.
+
+Both Rane and Tala fought back smiles, nodding their heads and saying almost as one, “Thank you.”
+
+“You are quite welcome. We expect great things from you two, not because we are unreasonable or demanding, but because you have shown yourselves to be up to the task.” He frowned. “And now we have this Eskau problem.” He sighed, tension clearly leaking back into him. “We are close to a resolution, and it is one that the House of Blood seems satisfied with—as strange as that is to say—but we—”
+
+Tala held up a hand. “I do not wish to be dragged into the minutiae of Eskau Meallain’s sentencing.”
+
+He gave her an arch look. Though… there seemed to be something dancing behind his eyes. “Are you sure? I believe that you will regret that attitude in the future.”
+
+She nodded once, determined in her choice. “I trust all of you to not let them take advantage in this situation. In the future, I am happy to assist, but right now?” She took a long deep breath. “Right now, I just don’t want to deal with the House of Blood. In this situation in particular, I don’t trust myself to be objective. We need a reasonable, level response, and I need to fully get my head and emotions around my change in status. I’ve gone from dead to alive for a great many people, and that will have a lot of impact on me.”
+
+Master Grediv frowned. “While that was maturely said, that delay can’t last, and you know it.” He drew in a slow breath and let out a long sigh. “Still, it has only been a month. I wish it were otherwise, but it was impossible to keep the knowledge of your survival from them.”
+
+“I know.” Tala grimaced slightly, and Rane reached out to take her hand and give it a comforting squeeze before she continued. “I appreciate that there wasn’t a big todo about that.”
+
+Master Grediv chuckled. “If anything, it was a win for us. There is now official record that you are an Eskau of the House of Blood, in residence here.” His smile grew. “I would have loved to be a fly on the wall in some of the other Major Houses when Alefast, Waning’s exact location and holdings was made known to them, along with the fact that it is to be considered to be opposed to, but in negotiations with the House of Blood.”
+
+That did make Tala smile. If anything, her time with the House of Blood had deepened her dislike of the other Major Houses. The result was a bit odd for a gated human. She liked arcanes, on average, about the same as any other gated did, meaning basically not at all. However, unlike most, she had both friends who were arcanes and deep, specific dislike for some—unlike the vague uncertainty, fear, and distaste most of gated humanity had if they were aware of arcanes at all—leaving her torn.
+
+Over the last decade, she had essentially done her best to not think about the House of Blood and her time there, and it was only recently, as she trod the last few steps on her path to Paragon, that she’d truly begun to come to terms with the fundamental effect that her time to the south had had on who she was. She was an Eskau of the House of Blood, for better or worse.
+
+She could let that drag her down, or she could wield that part of herself to her advantage. This last month had been an exercise in truly coming to terms with the fact that such was no longer just a vague notion for ‘sometime in the future.’ It was time now.
+
+Master Grediv took another long sip from his tea and let out another sigh, a contented one this time. “But I will not press. We are expecting more probing attacks from Major Houses, but we should be able to respond in a more heavy-handed manner. There will be slight escalation, then things should settle down when we show that we aren’t an asset to be removed, but a stronghold to be avoided. Regardless, you are going to be thrust into the forefront of things soon enough. Taking your time now doesn’t hurt anyone, and if it lets you be in a better place going forward? I suppose that is worth the inconvenience.” He gave a half-smile, that same mischievous twinkle in his eyes. “I still advise that you at least make yourself aware of the proceedings.”
+
+Tala hesitated then, but in the end, she’d made her decision, and she would stick to it. “Thank you for the advice. I will wait until there is a definitive verdict on her fate.”
+
+“As you wish. I’ll not press further.” He looked around and smiled fully, then. “It really is wonderful how well your authority is coming along. Even though we are well within the domain of Alefast’s City Stone—well within my authority—there is not a trace of it evident here.”
+
+She frowned at that. “Would you expect there to be? I would assume that soulbound storages would be free of outside authority as a rule.”
+
+He shook his head. “Yes and no. Just like you, walking around my city, are in my authority while my authority is unable to penetrate your soul—I’m not a necromancer and do not strive to ever be—a soulbound storage within my city should be steeped in my authority while staying free of it. Like a boat on a still pond. A well built boat shouldn’t have any water inside, but only a fool would say that the boat was entirely free of water.”
+
+“Ahh, so even in keeping out the water, there is evidence of its effect on the boat?”
+
+“Exactly.”
+
+She nodded a couple of times, then frowned. “Wait… then is my boat sunk? But somehow still not water-logged?”
+
+Master Grediv chuckled a bit, then strangely, gestured toward Rane. “Care to take a crack at an analogy?”
+
+Rane was a bit startled, having seemingly been letting his mind wander. “Hmm? Oh, sure.” He paused for a moment, Enar likely making sure he was fully aware of what was being discussed. “Right. So, in your case, you have crafted a fully enclosed, incredibly stable wooden shell. While inside, you really can’t easily tell if you are on still water or on dry land. There is still the fact that you are in water—in the authority and generally under the sway of the City Stone—but from inside? From in here? It’s essentially impossible to tell. I do believe that that is what he is trying to convey.”
+
+She grunted at that, glancing toward Master Grediv. The older man shrugged. “A bit different than I would have explained it, but it conveys the idea. Your power and authority here is tight, and powerfully held. I can see and feel the strength of both you and Rane here, and there is harmony between the threads of power underlying this whole space. It is as the best City Stones are.”
+
+Rane gave his former mentor a level look. “We aren’t taking on such a role. We’ve already discussed it.” He smiled toward Tala. “We don’t want to be so locked down for such a long time.”
+
+Master Grediv sighed. “Are you certain? We have two new cities coming online in the near future. They will have burgeoning City Stones, and they will need stewards. One or both might be moved your way if you so desired.”
+
+Rane nodded. “We are certain.”
+
+Tala smiled, knowing the truth. Rane was open to the idea, though not exactly excited about the prospect. She was hesitant and decidedly uninterested. So, when they’d discussed it, they had decided together that they didn’t want the job. She found herself grateful that he’d represented them in the way that he had. They were certain. It wasn’t that he was open, and she was not, so they wouldn’t be pursuing it. They were a united unit, unified in the choices that they’d made together, no matter who’d held the ‘chosen’ opinion first, and who had spoken for the other side.
+
+Master Grediv looked back and forth between them. “Very well. I can see that I won’t change your minds right now. But we are here for your anniversary and for Rane to show the two of us something?”
+
+Rane nodded. “Finish your tea, and we’ll take a walk. I just finished it yesterday, and I want your opinion before I invite the rest of our old Defender Unit.”
+
+“Very well.”
+
+Ten minutes later, they were walking through the Garden of Remembrance.
+
+The statue of Mistress Odera was front and center, but it hadn’t been alone for a long time.
+
+Tala did take a moment to absorb the feeling of the aura and power of her deceased mentor, smiling as she took in the small stones that were artfully arranged around the base of the life-like statue.
+
+She glanced toward Rane, allowing her love for him to radiate more strongly from the depths of her soul.
+
+He glanced her way and smiled, not needing her to say anything.
+
+They both knew how much trouble he’d gone to in order to get aura impressions of Mistress Odera’s descendants, at least those who had been alive at the time of her death.
+
+He had a standing ‘bounty’ with the family to be informed of any new additions as well, and that had borne fruit a couple of times in a few member batches.
+
+Off to one side—in a prominent but private alcove—was the likeness of a majestic terror bird. Her stance was one of defiance, looking toward the stars above, as if daring them to oppose her.
+
+The details on the feathers were spectacular, showing exactly how much time and energy Rane had put into the crafting of a memorial for Terry’s mate.
+
+Even so, there was one part that was now smooth.
+
+On the bird’s back, just behind her neck, there was a rough circle—that couldn’t be seen from the ground—from which the feathers had been worn away.
+
+The aura coming off of that statue was fierce and primal, though not very powerful in the scope of things. Still, it was like feeling the other side of Terry’s frayed spirit, at least as it had been before Tala had soulbound him.
+
+But Tala didn’t linger on that statue, they weren’t there for that rememberance.
+
+The three made their way through the winding paths, most of the clearly delineated locations for statues still empty.
+
+Near the center, they came to a large area in which Rane was still working to carve pieces for their wedding—specifically for recreations of the most prominent guests, along with the two of them, themselves—each giving off the aura that they’d had at the time.
+
+It was just one year ago, yet we’ve come so far already. It was a bit odd to stand within her own Refined-level aura, discerning the subtle—and not so subtle—differences between that day and this.
+
+It was true that she could perfectly remember how her aura had been on any given day, but that was rather different from experiencing it from an outside perspective. -Like how a mirror and a painting of yourself reveal slightly different things.-
+
+Something like that, yeah.
+
+But while Master Grediv hadn’t seen this particular work in progress—and they took a bit of time to admire how it was coming along and for the older Paragon to express his appreciation for the craftsmanship—this remembrance wasn’t why they’d come either.
+
+Tala marveled a bit at the layout of the place, how there were so many winding, branching paths—along with a general feeling of segregation—yet there was never a sense of being lost. Even without her threefold sight and her awareness of all that was within Kit… and her perfect memory constantly helping her create a mental map of where she had been, she suspected that she’d be able to navigate the space with ease.
+
+-Yeah… we aren’t the best to assess such things… not any more. Though, I would agree with you in principle.-
+
+Yeah…
+
+There was a path off to one side that Rane led them down, and there, they came to a singular statue of a man and woman embracing.
+
+The stone chosen was interesting in and of itself, having been harvested where two veins of sculptable stone intersected, rendering the two figures different shades, while their shared base was a mix.
+
+The figures themselves weren’t kissing, but their faces were close, eyes locked on one another with a gaze of comfortable, familiar intimacy.
+
+There was no hesitancy in their stances, no uncertainty in their expressions, only fervent certainty.
+
+When Master Grediv saw the statues, he froze in place, stopping with one foot partially raised, his eyes widening in surprise.
+
+Tala understood. Even though she’d never known the woman in life, she’d felt echoes of her, both briefly at the moment of Master Girt’s death, and throughout Tala’s own time knowing Master Girt.
+
+The aura coming from the two-yet-one statue was like a harmonious duet, the peaks and troughs of sensation complementing and sustaining each other in unexpected, pleasant ways.
+
+As Tala forced herself to feel each aura individually, before once again letting the impressions wash over her as a pair, she noticed that the two seemed to almost smooth over the other’s rough edges, to almost highlight the best qualities in their spouse’s aura while mitigating the flaws.
+
+They were in perfect sync, Rane having somehow gotten their auras exactly right.
+
+Master Grediv swallowed, obvious emotion welling up within him. “I only met her a handful of times… I wouldn’t have been able to give you enough information for an impression, but it feels like her… It feels like them.” He gave a sad smile. “He loved her so, so incredibly much, and he was never the same after her passing.” He let out a single barking laugh. “No, no that’s not right. He was exactly the same after her passing, but without his other half, he didn’t function the same. If nothing else, this proves it. His aura still fits with hers flawlessly.”
+
+Rane put his arm around Tala, and she tucked in close against his side as they simply stood together for a long moment.
+
+Master Grediv’s expression settled into a grateful smile. “I think they would have appreciated being united here, like this.” He looked to Rane. “You have truly outdone yourself, Rane. Wherever did you get such a perfect impression for her likeness and aura?”
+
+Rane gave a small smile. “Mistress Ingrit, the Librarian. She was able to track down a record of both for us.”
+
+Master Grediv gave a slow nod, the logic of the answer clearly apparent. “Of course… I hadn’t considered them as such a resource, but it fits their tasks and capacities nicely.”
+
+They all turned back, falling into silent regard of the frozen couple. The two locked as if caught forever in a quick, intimate glance.
+
+The three stood there for a long, peaceful moment, each lost in quiet remembrance of their friend, now home with his love.

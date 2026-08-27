@@ -1,0 +1,147 @@
+---
+id: 462dad6d-df5d-5d6e-9a50-f8d54361fc80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125 Kala's Opinions and an Arrangement"
+slug: 0138-chapter-125-kala-s-opinions-and-an-arrangement
+partOf: melody-of-mana
+position: 138
+ownLength: 1748
+unit: words
+ownProgress: 1748
+publishedAt: 2022-04-28
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/895881/chapter-125-kalas-opinions-and-an-arrangement"
+royalRoadId: "895881"
+markedReadAt: "2026-06-29T22:30:36.891Z"
+---
+
+Kala just looked at me. I had explained the situation and she seemed about as pleased with it as I was.
+
+"So you're not just going to tell them to screw off huh?" She asked.
+
+"I probably could. I could also just leave, but I'm torn. Other than their stupid demand for me to have an escort I do want to go to this wedding. I met the former princess and she's something else, and I want to learn more abut Lord Durin."
+
+"Okay... why?""He's different from most leaders I've seen and I can't really understand it completely. He's a conqueror and by all rights could abuse us, but chooses not to. He seems nice, and kind, and weirdly egalitarian. I can't figure out why he's like that and perhaps getting to know him more will tell me what I want to know there.""Do you think he had bad intent?" She asked hesitantly.
+
+"I don't think so. I just can't see his reasoning. Well, at least I hope he doesn't, he doesn't act like he does at least. Bah, I don't know, but my dad and Mystien both think he's a good guy and I trust them."
+
+"Well, I'm not thrilled about the idea of you going to a wedding with someone else, but I too am curious about those two. I met Sophia at the temple once or twice."
+
+I perked up, looking over at Kala. "What was your thoughts?"
+
+"She's weird for a bard, very weird."
+
+"I didn't get that, she seemed nice."
+
+"She's quite nice. I just can't put my finger on it." She shrugged. "Anyway, we knew that people were going to be like this. The head priestess has been badgering me more and more recently too. Telling me how I need to find a husband while I'm young and can have as many children as I feel like."
+
+"Okay, I thought my mom was bad. At least she's only trying to make me learn 'womanly arts' rather than asking me about kids."
+
+"Alana, you need to learn those anyway, it's sad that you couldn't even make a dress. Just from a practical standpoint."
+
+I plopped down on the bed beside her, crinkling my nose. "How bad is it for you?"
+
+"Not too bad." Kala said, leaning back. "I wouldn't be having any children right now anyway, not until I was out of school, but I'm getting lectures and looks basically every time I go back to the temple."
+
+"Want to come live with me? You could just quit and I'm pretty sure that I could swing buying my own mansion if I really wanted to."
+
+She snorted laughter. "That's not really possible Alana. Priests don't leave the orders, not fully."
+
+That made me sit up. "What!? Not ever?"
+
+She shook her head. "Do you not pay attention in history?"
+
+This was not a subject I really wanted in on. "Um... not really, I have issues with... I don't know, it's my worst subject."
+
+At my little admission she turned and flicked me on the nose. "When priests go bad, when our morals drift into something terrible we tend to become very dangerous. It doesn't happen often, even with those who do go solo, but there have been a few times... when a priest decided that the good and moral thing was for them to exterminate a city, or a country, or everyone. One Death Priest can cause massive destruction Alana. It normally doesn't go on for long, but it does mean that the orders have groups that are tasked with just making sure that nobody goes rogue. Didn't you know why they take every child that shows priestly magic at such a young age?"
+
+"Okay... that's dark."
+
+"No lie there. Battlemages may think they're hot shit, but when it comes to killing, we priests are the best; it's not even a contest. Then again a bard willing to blow themselves up by focusing several hundred people in one performance can do some absolutely astounding things too."
+
+"Well, I suppose you can't leave and join me in my giant imaginary mansion of awesomeness then. I've had more than enough squads of soldiers sent after me thank you very much."
+
+That got me another snort. "Well, about your wedding plans..."
+
+"Not my wedding plans. I think my wedding is still a good ways off."
+
+"About the wedding plans coming up soon then. I think you should go."
+
+"With who? And if you say Dietrich I swear I will punch you." She knew I still had a sour taste in my mouth from my interactions with him. He'd sent me a few more invitations to things last year, much to my irritation, but seemed to have given up since the invasion.
+
+"I don't know. You can ask your dad, or go around him and ask Lucien or Mystien what they think. I'm sure the former knows somebody. I'd say see if you could find someone to irritate your dad if you could."
+
+"I could ask Jackson, but sadly he's married now. If I showed up with him dad might never try something like this again. I know I don't want dad to have any say in it, this is a pattern that he needs not to repeat."
+
+We at least agreed that irritating my father would always be a good choice. I got the feeling that neither of us were truly pleased with the whole affair, but Kala was being strangely reasonable. I couldn't ask for more, but it still grated that I had to have this conversation in the first place.
+
+I pretty much ticked everyone in the academy off the list at the beginning. Most of the boys my age were okay enough, but I didn't want too much about this all being spread around. There was also the big divides in our group and going with one seemed like it would launch me into that political mess.
+
+In the end I went to go see Mystien. He owed me for bringing me in on his work anyway and I was fairly sure I could push some names of people I didn't know out of him. As I arrived at his home, a rather less massive edifice than my own I saw a familiar face coming out.
+
+"Charles?" I looked at the young man in his dark uniform, he'd obviously had some other meeting going on with the old wizard.
+
+"Oh hey Alana, how are things?""Hmm, not great. Who cares about that though, why are you here?"
+
+"I work for Mystien. Didn't you know that?"
+
+"I mean, I knew you were in the army or something..."
+
+He shook his head. "Anyway, it's good to see you."
+
+I looked over at him. He was a fairly good guy, and while he might not like it, I could ask... "Hey, Charles..."
+
+"Mmm?"
+
+"So, I'm dating Kala, you know?"
+
+"I know."
+
+"And um... I'm having to go to this wedding, but they want me to have an escort." His raised eyebrow prompted me to continue. "And... um, I was wondering... would you?"
+
+He seemed to consider for a few moments. "I can if that's what you want. Is it?"
+
+"I think so? Er, yes."
+
+He gave me a small smile and just shook his head. "Alright, I'll come meet with you soon and we can go over the details. When is a good time?"
+
+I gave him the next day I had off, planning to meet around noon. He also asked me about clothes and if there would be any major issues he'd need to sort, but I thought it would all be fine.
+
+After a few minutes Mystien made his appearance from the front door.  "Alana, you know that I'm a very busy man right?  Can you come in so we can go over whatever it was you needed?"
+
+"Actually I think I've gotten it all sorted now.  Thanks anyway!"
+
+He looked flabbergasted for only a moment before irritation crept up his features.  "Are you telling me you went through all the trouble of setting up a meeting with me, interrupting my work, and now you don't even need anything?"
+
+"Yup!"
+
+"Get on out of here!  The both of you can just go then!"
+
+Sticking my tongue out at him at this point was, in retrospect, probably a poor decision.  I will say that Charles did do the chivalrous thing and try to keep the worst of the cold water the old wizard started hurling at us off of me, but by the time we'd found shelter in the carriage we were both pretty thoroughly soaked.
+
+"Crotchety old bastard," I said through chattering teeth.
+
+"Good grief, he didn't have to go with cold, that was just mean," Charles agreed.
+
+Soon enough though we ended up laughing.  I had warming and drying spells on the list already, so it wasn't too much of an inconvenience.
+
+Mystien
+
+Sometimes, but not always, my plans went off without any issues.  As I closed my door I threw back my head and laughed.  The girl was too smart for her own good, and needed a bit of a push sometimes.  It was also rare for me to get a good chance to be a bit childish without disastrous consequences, and I was in no way giving up this one.
+
+I turned and opened the door into the only real meeting I had today.  Veska was sitting by my window, looking superb in her little red... outfit was a rather generous word.
+
+"Your angry old man act is something to watch."  She chuckled as I sat down beside her.
+
+"Kids these days!"  I shook my fist as I tried to make my voice sound even older than it was.
+
+"I was a bit irked when that young man came to deliver those files to you in the middle of our date.  Did you plan this?  Did he know?"
+
+"Eh, neither of them did my dear.  He's clearly smitten with the girl, and her father will approve of this.  Also, I got to have fun, so we all win."
+
+She snorted.  "You boys all win, not her."
+
+"Oh?  I think she'll win out in the end too.  I may be wrong, but we'll see."
+
+"And what about me?  Do I get to win?"  Veska pouted as she leaned over to me, looking up.
+
+"Well, let us see if you can indeed."  I laughed, closing the windows with an errant flick of my hand.

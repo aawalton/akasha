@@ -1,0 +1,145 @@
+---
+id: c5ea31de-fc7e-580e-9dcd-7f0e35f06172
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - Bridge Over Troubled Water"
+slug: 0062-chapter-34-bridge-over-troubled-water
+partOf: metaworld-hopecore
+position: 62
+ownLength: 1803
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3380168/chapter-34-bridge-over-troubled-water"
+royalRoadId: "3380168"
+---
+
+"She hath done what she could."
+
+Mark 14:8
+
+The conspiracy of cat lovers, sans one Newfoundland, nursed their tea and digested their thoughts.
+
+Suffice it to say, the proof was in the pudding.
+
+“Mio is key,” Eppie said at last. “We find Mio, and we unravel everything.”
+
+“Meow,” said Mr Yun Yun.
+
+“I concur,” their Chinese giant spoke for Mr Kuma Kuma.
+
+“Mr Lee,” their LA Times reporter turned to the Newfoundland. “Can you expand on our legal recourse for justice? I can publish; I am shielded by California’s Shield Law. The LA Times eats litigation for breakfast from people far more dangerous, powerful, and volatile than Senator Sanders. We also know the truth—Mio was violated, Eppie fell, discovery will be far more damaging than simply swallowing the story.”
+
+Eric, catless, slapped his knees. “I am not a criminal lawyer or a prosecutor, but I can run some educated guesses based on anecdotes from my colleagues. So er… let’s say there is no recording. Everything Lim told us about William is double hearsay, inadmissible in court, and we’ll get torn to shreds. Lim also has a genuine relationship with Chen, and the betrayal, along with his history, does not lend him credibility as a witness for the prosecution. The Jury can believe him, but they can also note that he is out for his own interests once they find out that he knew Mio.”
+
+He looked toward her. “Then there’s Eppie. She remembers nothing…”
+
+“Sorry…” Eppie moped.
+
+“And there’s Mio, who filed nothing, collected no evidence, such as a rape kit. She’s nowhere to be found. Now, assuming she has this recording, that might be construed as entrapment. Either way, William’s lawyers may argue unclear consent.”
+
+Eric sipped his tea. “Conversely, a clear recording makes this absolutely prosecutable. The problem, however, as I said, is the chain of custody. Is the recording still original? Has it been tampered with? California is also a two-party consent state, though it won’t apply to sexual assault. If everything works out, and Mio is willing to put herself through the wringer, then yes, I think we can make a case. I know several reliable Advocates. The DA files charges against Chen. The Advocate will file for civil restitution, and Mio will receive her justice and her compensation.”
+
+“I’d like that.” Eppie hugged yet another visiting tabby.
+
+Eric shook his head. “The process is hard on the victims and their families. If Senator Sanders gets dragged into this, it may take years.”
+
+“Can we leave Valorie out of it?” Eppie asked.
+
+“Will William leave Valorie out of it? Should we? After all, she is the root of all evil. If I were to report this at all, I would report the truth in its entirety.” Lafitte continued to jot down the notes Eric provided. “Either way, I’ll clear this new information with our Legal as well.”
+
+“So… how do we scour Fresno?” Eppie felt her mood grow dour. “Drive around?”
+
+“I’ll head over now,” Lafitte surprised them with her go-getter attitude. “The Nikkei community isn’t exactly massive. I know the Basque community there, and I have my Stringer connections. I’ll start with the churches. Nikkei are Catholic, usually, and Catholic denominations in the area tend to know one another. If she and her parents fled, there’s bound to be traces with the local Parish. Maybe a Priest, maybe a community elder. You people stay put.”
+
+“If William needs someone found,” Lim said quietly. “He’d probably ask me first.”
+
+“True.” Lafitte looked him up and down. “However, on paper, you’re William’s right-hand man, remember? You helped her, but she doesn’t know that.”
+
+Eppie raised a hand. “Do you think I would have told her that Lim is a good guy?”
+
+“I reckon you would have.” Eric clapped. “Well considered, Eppie.”
+
+“But will you risk it? Lim? Risk them running again?” Lafitte refuted their offer of helpfulness. “Eppie, you stay at LAPA. Do your LAPA things. Mr Wang, you stay in your lane and keep William off us. I’ll do my best to find her, inform her of what’s happening, gain her consent, and bring you the news.”
+
+“We’ll wait for your call,” Eric said, finishing his tea.
+
+Lafitte stood, having already packed her notes and her recorder. “Very well, then. Miss Fontaine. Mr Lim. Mr Lee. I am very glad we got to talk today. I bid you good health until we meet again.”
+
+They watched the reporter go.
+
+Eppie hugged her cat and inhaled deeply, filling every inch of her considerable lung capacity with cat scent.
+
+“I’ll head off from the back,” Lim offered. “I took public transport here. Much harder to trace and follow. The timetables for trains and busses are so awful they couldn't be replicated even if I tried.”
+
+“We’ll leave after another half an hour,” Eric affirmed their compatriot’s offer of discretion. “Good luck, Lim.” “Take care, Mr Lee. Eppie.”
+
+Before the man left, Eppie left her cat and gave Lim a hug. “Thanks, Lim. I know it’s hard, doing all of this for us.”
+
+“I am doing this for me.” Lim hugged her back with one massively powerful arm. “Stay safe, Eppie.”
+
+They watched him go.
+
+Eppie hugged Mr Kuma Kuma and inhaled like a junkie.
+
+“You’re going to ruin the few clothes you have…” Eric pointed at the cat hair.
+
+“Shhh…” she cautioned Eric to be silent. “Please, Eric, I need this.”
+
+***
+
+Eppie woke up, bleary-eyed for all but a minute before she topped up her [Stamina]. She was a rich girl now, and a mere dozen [Causality] was no longer a concern, at least until her next bankruptcy.
+
+[Causality: 112332]
+
+“[System], [Roulette] 12332 [Causality].”
+
+The wheels of fate spun like a carousel. Wisdom and aphorisms, laments and epitaphs filled her vision.
+
+[Roulette] was evidently pricier now, Eppie recognised after half a minute when the topsy-turvy ended. It would seem that the more changes she imposed upon the world, herself, and the people around her, the more effort the [System] had to exert to bring about the impossible.
+
+Muse Acquired
+
+When Doves Cry Written and Composed by Prince Rogers NelsonPerformed by Prince
+
+Trait Acquired [Gospel]Causality Tier (D)
+
+Gospel is the voice of the silenced, the soul-cry of the unheard. It is the soul of songs that predates instrumentation. Gospel is rooted in the slavery-era spiritual, speaking for the invisible churches and the hollerers on the bitter fields. You have acquired rudimentary knowledge of this profound vocal art form. You possess foundational knowledge in Communal Singing and its techniques. This trait can be improved through training, performance, and Karmic Causality.
+
+Eppie closed her eyes as divine knowledge spread through her neurons.
+
+She knew now with certainty that Mio had to be under the protection of the Nikkei Catholics somewhere in or around Freshno. The [System] was context-driven, providing her with a minimal set of tools that necessitated certain behavioural outcomes to reap its rewards.
+
+What was more interesting than the skill was its song selection.
+
+She had attended Prince’s last concert tour, and she knew the song very, very well. When Doves Cry was an evergreen that stayed four weeks in the charts in 1984, an auspicious year for classical pop anthems, it broke trends and hearts for its unique sound, a song that possessed no baseline. Famously, Prince played every instrument used in the song: guitar, synths, piano, drums and vocals.
+
+For the curious case of Mio, however, it was the title that made her think.
+
+Everyone knows what a dove represents, but a crying dove? For Prince, it was the toxic love of his parents, a mother who was “never satisfied”, but for Mio?
+
+As with the [System]’s other gifts, the lyrics were not exact verisimilitudes, but the words were foretelling at the very least.
+
+“Guess I better write the song…” Eppie told her face in the bathroom mirror. From the echoing sounds of Princes’ laments in her head, it was a song she would have to gift. She would take it to Fresno.
+
+Outside her room, the morning began with Josefina’s breakfast, praises from Ava and Halle, and revision for the week to come.
+
+It was also Veterans’ Day.
+
+In her present world, thanks to the stars that had aligned, there were no active, officious wars in Iraq and Afghanistan. Drone strikes continued against insurgents, and regional power players continued to feed the Military Industrial Complex with petrol dollars, but no body bags came home. In the insulated world of LAPA, the conversation remained solely focused on Vietnam, Korea, and the Second World War.
+
+Consequently, the holiday was far more “Lest we forget”, far less propagandarised.
+
+The school’s tradition was to run a modified Monday. The morning assembly involved a minute of silence, followed by music from the Classical Department, and a choral from the same. Classrooms also broadcasted scenes from Arlington, while students with veterans in their families gave speeches. Then, It was all over.
+
+In contrast to Veteran’s Day ending, Umbrella was just beginning. Apple Garage Band’s free beat was playing across every speaker phone in everyone’s pocket, or so it seemed. Students hummed it, modified it, played it on every instrument from piano to viola. There was every chance that next week, the song would hit No 1. Thanks to the rage of a certain someone, everyone seems to know that Eppie, famous for Vincent, had a hand in its creation.
+
+As she passed the hall, she could see the change in her peers’ faces: the disbelief, the jealousy, the yearning. The staff’s reaction was different. There was a sense of radiant pride in their praise, the pride that comes from knowing that here, in the environment they had fostered, someone had created truly popular music.
+
+Eppie was no stranger to the glares and gazes. She was polite, happy, and humble; she had more important things to worry about than the approval of her peers in the macrocosm of a school. She had another song to pen, and a Mio to find.
+
+In the basement corridor, she ran into Simone on the way to the Playhouse. The girl avoided her eyes and kept her face to the floor. Eppie glared at her the whole way, trying to figure out exactly what had motivated the demure gazelle to “Long Live the King” her Mufasa.
+
+Directly behind Simone, she incidentally met eyes with Valorie, whose face looked puffed and heavily made up with foundation. Awkwardly, Eppie looked away, mimicking Simone while her antagonist glared with the heat of a thousand suns as everywhere, the tinnitus of Umbrella played.
+
+Nonetheless, it was evident that her plan had worked. She was now famous enough to prevent Valorie from making a move, whether on her own or through a known proxy.
+
+Their beef, whatever that might be, was now self-incriminating knowledge.

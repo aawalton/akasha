@@ -1,0 +1,79 @@
+---
+id: ab66fe7b-b171-581f-aebd-398a29736dbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 291 City"
+slug: 0306-chapter-291-city
+partOf: melody-of-mana
+position: 306
+ownLength: 1283
+unit: words
+ownProgress: 1283
+publishedAt: 2023-12-09
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1437239/chapter-291-city"
+royalRoadId: "1437239"
+markedReadAt: "2026-06-29T22:36:23.674Z"
+---
+
+Rodrick Penumbra
+
+Moving next to Veska I reached for her hand, giving it a light squeeze.
+
+“First live one we've seen in days,” I commented as I looked down at the dead crab. It was true, but the thing was bigger than I'd expected.
+
+“Yeah, the numbers are definitely thinning out the further inland we get,” she responded.
+
+“And someone's killing them.”
+
+“Good to see some of the elves are carrying their weight,” she griped, a bit frustrated that these people who'd acted so superior were not helpful to us at all.
+
+“No, I think it's one person, maybe a team,” I answered.
+
+“There's too many though? We've found dozens of them dead.”
+
+“And all dead in the same couple of ways, and all freshly dead, and all in our path.” I was giving the whole area a hard look. “I'm betting Lena has realized it too, maybe even some of the others.”
+
+“They didn't look that similar to me?” she asked, then thought about it. “Alright, maybe if you squinted there were some similarities.”
+
+“No dead soldiers, no cuts or breaks, and many of them looked to have died while eating. Something is taking them out hard and fast, lots of lightning damage, odd injuries, a few burnings or freezings, and some that just looked to have fallen over dead.”
+
+“Maybe one of their bigwigs? But why? Why not just tell us.” she asked, suddenly concerned.
+
+“A hundred possibilities sweet, or maybe I'm just being paranoid. It could also be that they've got teams going around hitting these things. You'd think that would make them look different though, different teams would use at least slightly different styles.”
+
+We were at least seeing less of the crabs as we worked our way inland overall. Looked like they did indeed prefer the seaside area, and every step took us further from both that and the desolation caused by their mother. Slowly the signs of damage had dissipated, the spared hills getting lower and lower as we passed them one by one. Now it looked as if the tidal wave hadn't even hit.
+
+There were almost no new elves though on the road. I had to ask myself where they were? Were they all in hiding? Had that many died? No, that didn't make sense, we'd seen enough survivors that we should have met with more by now, maybe they were getting to safety faster since there were less monsters and debris in the way around here.
+
+Regardless, we'd soon be finding out. Because of our route we'd been on quiet roads since the beginning, but if the locals were to be believed we'd soon be approaching both a main thoroughfare and a small city. The elves seemed to like cities, then again everyone did, but there were very few of the small villages that would have dotted the countryside of human lands in comparison. Perhaps it was what seemed to be a slightly higher concentration of magical beasts in these lands that caused it, with those living outside of settlements being only the bare minimum for farming or the like.
+
+The road was found first, and while still quite empty it was far larger than any we'd seen before. There had to be at least four different lanes for carts to pass by in each direction, with inlets and outlets for them to join or leave on. While as a feat of engineering it was pretty neat, I couldn't imagine that they even had need for such a large road. I'd seen the elven populace, and the size being as it was it just made no sense. Unless of course they were moving something massive up and down here there'd be no purpose to it.
+
+It looked like either the wave hadn't hit this road at all, or someone had already cleared it of carts, because there were no abandoned vehicles anywhere. There were signs though, indicating the distance to the city. Iriatol was, once the distances were translated through, only about a three hour march from our joining to the road. As a group we decided to skip lunch, while we were all hungry stopping would keep us from potential safety for longer and we were all very ready to be with other people.
+
+As we crested a small rise the city came into view. It was smaller by an order of magnitude than Atal itself, and far shorter, but there were easily three and four level buildings visible. There was also a wall, a massive construction of white stone that had clearly been placed long ago. All along the wall were sentries with pikes, and the ground around was cleared within bow-shot of an unenhanced man.
+
+We spotted them only moments before they too spotted us, and soon the elves of Iriatol were moving. The large gate that faced the road rolled upwards and a line of carts and cavalry left it, speeding along to meet us. The horsemen made it first of course, their forward group consisting of twenty. From here I could see auras, five of them were either casters or physical magic users, though weaker than our group.
+
+“Who's in charge?” the elder man at their head asked.
+
+“I am, and it is quite a relief to see a friendly face,” Omos told him, stepping forward with his head raised high. The elf gave him a bit of an odd look, since he was clearly young, but shortly nodded.
+
+“The same son, the same. We've not seen any other groups your size, and even the smaller ones are few right now. You have injured?”
+
+“A few, but stable thanks to our healers,” Omos told him.
+
+“Plural?” he asked as his eyebrow raised. “You've multiple magic users?”
+
+By way of answering Omos let his aura loose a bit, followed by his sister, my sister and I, and finally Veska and Lena. None of us really tried to impress, but seeing how our casters outnumbered the ones he had with him brought a smile to the leader's face.
+
+“All young, you're from the academy?” he asked as the carts finally began to roll in closer.
+
+“Yes, visiting students from abroad. I regret to inform you that it was destroyed. We didn't have time to assess the full damage, but it was significant,” Omos told him.
+
+“We'll have some questions if that's alright, for now though let's get you lot back to the city. No need to sit out here and risk any more of those abominations coming.”
+
+Soon enough all of us were loaded into the back of the carts, aided by a few nurses sent with this force to help us and being hauled back to the city. The guards didn't lower their attention at the world around us for even a second as we moved, wheels clattering along the pavement.
+
+As we passed through the small gatehouse I got my first look at the inside of the city, and it answered at least one of my questions. I knew exactly where all the elves in the area were, right here. The place was visibly packed to the maximum. Small shelters had been set up on the edges of the road where people were trying to rest in what was little better than a tent. Enough space had been left for the carts and soldiers to pass, but no more. There were lines outside of what looked to be a tavern that serviced visitors, and judging by what people were carrying was now functioning as the public restroom for the area.
+
+Well, at the very least we would have somewhere safe to sleep, and magic users often got preferential treatment.

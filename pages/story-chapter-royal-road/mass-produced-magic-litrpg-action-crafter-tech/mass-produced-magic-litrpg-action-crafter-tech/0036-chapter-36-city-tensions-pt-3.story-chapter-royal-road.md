@@ -1,0 +1,215 @@
+---
+id: 1704ee3a-6325-5971-9cd0-78403eb6f492
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 – City Tensions – Pt 3"
+slug: 0036-chapter-36-city-tensions-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 36
+ownLength: 2142
+unit: words
+publishedAt: 2024-12-28
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1979809/chapter-36-city-tensions-pt-3"
+royalRoadId: "1979809"
+---
+
+Kindra studied the runes that decorated a piston. The symbols danced across her vision, a language just out of reach. Why can’t I see it? There has to be some pattern. Some design, right? She frowned and ran her finger along them. There’s more than what Sigrid said. Some connecting principles. Some harmony. It buzzed just out of reach, like a forgotten song.
+
+Pieces of armor were everywhere, a small monument to what once had been. Pistons and gears lay strewn across the desk. Idly blowing the hair from her face, Kindra studied the runes on one of the pistons. So, these are the same, and I think they are just to boost the strength of the metal. She flipped the pages in the book to confirm it.
+
+Yes, that’s right. Picking up a gear, she studied the runes. What does this do? It’s not durability. She flipped through the book and failed to find the runes. Huffing, she looked at Sigrid.
+
+Sigrid shrugged, took it, and placed it to the side. Kindra grabbed the next, and a fist banged on the door.
+
+“Open,” someone shouted.
+
+Sigrid scowled, stood, and walked over. “What?” she shouted. “We’re working.”
+
+“Inspection!” some voice called.
+
+Kindra frowned. Well, this is incriminating… Oh! She dumped metal from her cache and pulled the supplies inside, rapidly stashing the golem and running into the storage room. She dumped metal everywhere and grabbed the golems, vanishing them into her cache.
+
+Sigrid cracked the door open. “This is not necessary, gentlemen.”
+
+“I’m afraid it is.” The guard’s foot caught the door with a soft thump.
+
+Kindra stashed the three golems and grabbed a sword along with the handle. She walked out and waved at the guards.
+
+Sigrid stepped aside, and the two walked in. They started ransacking the place, searching for hidden passages, hidden contraband, and anything else.
+
+One looked at the metal on the floor and frowned. “Where’d this come from?”
+
+“Worm tunnels. You know it was reported,” Sigrid replied, tapping her foot in annoyance. She sighed and walked over to Kindra. “Let’s resume your studies.” She nudged Kindra to the desk with the book.
+
+Kindra sat and looked at it, pretending to trace a rune on the sword. Sigrid sat next to her, gently correcting and gesturing. Kindra became fascinated as the lesson became a rune sequence to coat something in fire.
+
+The guards ransacked the place, pausing to watch for a moment.
+
+“And we do this?” Kindra asked. “Adding them to weapons?”
+
+“Only if the guards request it,” Sigrid said with a nod.
+
+“But how? How do you add it to the weapon?”
+
+“There are two spells. One is the enchantment. One seals it. If you add the runes, you can fortify it. If you add crystals or the right metals, you can refill the mana, though it will wear down with time.”
+
+A guard snorted.
+
+Kindra blushed and turned back. They were both standing there.
+
+“Find anything?” Sigrid asked, glaring at both of them.
+
+“Any information you give regarding known criminals will be rewarded. Remember that,” the guard said, turning and walking out the door. The other followed.
+
+Sigrid kicked the door shut and walked over. “Thank you,” she said softly.
+
+Kindra nodded and walked to the door. She leaned against it and listened. Will they come back? She listened to footsteps. They walked away and went quiet. She walked back to the table.
+
+“Let’s keep working on this for a minute,” Sigrid said.
+
+“What material can you etch them with? And doesn’t that weaken the blade?” Kindra asked.
+
+Sigrid smiled. “That depends. Magical material is often more durable, and you can change that with your skills.”
+
+“How do I get one?”
+
+“Practice,” Sigrid said.
+
+Kindra traced the rune, and the door swung open, revealing the two guards.
+
+Sigrid sighed. “Gentlemen, sit and be quiet if you don’t believe us, but stop interrupting.”
+
+Kindra leaned forward and pointed at a rune. “What’s this one do?”
+
+“It’s the core rune, binding the spell to the item. Now, you have to be careful because it can shatter if the metal can’t support the spell.” Sigrid leaned forward and traced another rune.
+
+Kindra watched, and the guards stood there. “This wraps it around the blade?” she asked, tracing her finger along several runes.
+
+“Yes.” Sigrid gestured to another. “This stops it from damaging the blade.”
+
+“It’s a poor choice for an enchantment,” the guard added, stepping inside. “You’re better off learning the options for the guard armor.”
+
+Kindra turned and studied his armor, focusing her vision on it. “It’s enchanted?” she asked as the faint glow of magic appeared. Small, familiar runes flowed along it. Those are really hard to see. She tried to memorize them.
+
+“Yes. The armor is a durability and strength boost. The weapons come with a penetration enchantment.” He patted the hilt. “It’s good to keep that in mind.”
+
+Sigrid spun. “Boris, I’ve known you since you were a little stone. Don’t start threatening my daughter.” She glared at him.
+
+“Guards, you’d best get out here,” Dain called.
+
+The guards turned and walked out. Kindra walked to the door and poked her head out. A large wyvern flew in the distance, and Dain pointed at it.
+
+“It’ll ignore us,” the guard said, walking back to the workshop.
+
+Sigrid patted Kindra on the shoulder. “Now would be a good time to check on the gardens. You remember how to get there?”
+
+Kindra nodded. “Yes. I’ll go check.” She turned and walked past the guards, heading toward the tunnels and leaving the guards behind. Well. That’s going to get annoying.
+
+Moving down the stone lanes, she waved at a few dwarves. They did not wave back. Several turned and walked away. Others glared, giving her looks of icy fury.
+
+Wow. They do not like me. She picked up her pace and moved quickly down the roads, turning and entering the tunnels. Descending them, she looped into the gardens and sniffed. The mushrooms were growing everywhere. A rat poked its head up, and she pulled out her crossbow. If they wanted levels, I bet I’d have to fight for a spot here.
+
+Loading a bolt, she aimed and fired. The bolt zipped across the room, and the rat bolted, racing for a hole in the wall. Little devil. She scowled and walked across the room, reloading as she walked.
+
+May as well capitalize. Stopping, she turned and fired, the bolt zipping across the room and staking a distant rat. She walked over to it, pulled the mana into herself, and heard the sound of footsteps. Someone whispered.
+
+Spinning, Kindra looked and saw two young dwarves. The two boys had short, black hair and beards that were just filling in. With brown eyes, they studied her, adjusting the leather armor that covered most of their muscled bodies. Anger flickered into their eyes. One reached for an axe. The other reached for his sword.
+
+Kindra held up her hands. “Guys? You can hunt if you want.” She smiled nervously.
+
+“What are you?” one of the boys asked, a frown stretching across his young face.
+
+The other stepped forward, his mouth contorting into a snarl. “You’re one of them.”
+
+“One of who?” Kindra asked, swallowing and moving away from the wall.
+
+“A loyalist,” the boy spat. “Look at you. Trying to be one.” He glared. “And trying to get stronger.” His eyes flickered to the rat.
+
+“Look, I’m not a loyalist, and you can kill them. It’s fine, really.” Kindra held up her hands.
+
+“Then why do you look like them,” the boy replied, stepping forward.
+
+“I don’t know why my hair is white. Give me dye, and I’ll dye it.”
+
+The boy scowled and turned to the boy next to him. “Is she lying?”
+
+“I’m not sure.” The other boy frowned. “This is our spot. We’re going to be like Gleon, the legendary.” He took his hand off his axe.
+
+“Works for me.” Kindra nodded. “I need to go mining.”
+
+“How’d you get white hair? Dwarves don’t have white hair.”
+
+Kindra shrugged. “I just do.”
+
+“And your eyes are off.”
+
+Kindra sighed. “I know. If you know how to fix them, let me know.” She paused and gestured at a rat.
+
+The boy turned and launched his axe. It whirred through the air and slammed into the creature.
+
+The other frowned and looked at Kindra. “We’ll be watching you.”
+
+“I’m not your enemy,” Kindra said softly, walking toward the exit. “Someday, I’ll prove that.” She looked at the dead rat. “Good luck on your hunts.”
+
+Moving swiftly, she headed to the exit and left the two behind. I need to ask about hair dyes. Winding up the tunnel, she turned and headed to the mines, walking quickly down the streets and avoiding the eyes of any dwarves.
+
+All of them had larger frames, and she was a little taller in comparison. They wore simple pants, shirts, and dresses. The hair colors were earthy; reds, browns, and blacks dominated it. A few dwarves with green streaks walked by. Okay. So, it’s nothing wild. Similar to Earth… seriously, where is the gray and white?
+
+Failing to find any, she turned and jolted. Her heart thundered, and the undead bear-like creature lurched forward. Its fur was almost gone. Bones showed everywhere, and its feet thumped down the street.
+
+Dashing away, she willed the runes into her mind. A paw slammed into her, smacking her into a wall with a thud. Oww. Groaning, she stood and looked at her arm. Small cuts ran across it. Blood trickled, the metallic scent filling the air. Turning back, she looked at the bear. It was lying there, the magic extinguished. Guess that was enough to kill the thing.
+
+She glanced out at the quiet city. But I can't be seen with it.
+
+She dashed past it, racing into the mines and leaving the bear behind. Moving quickly inside, she stopped at the opening, grabbed a mine cart, and pushed it down the stone tunnels, searching for a good place to mine.
+
+The sounds of the city slowly faded. The tunnel moved this way and that.
+
+Emerging in a small cavern, she triggered Scavenger’s Sight and studied the stone, searching and locking onto a vein of iron ore.
+
+[Iron ore, primarily made of iron oxide.]
+
+Is the system getting snarkier? She walked over and pulled out her pickaxe. Burning a bit of mana, she enhanced it.
+
+[Basic pickaxe has been enhanced. The wielder gains +15 strength. Lasts 1 hour.]
+
+Smiling, she slammed the pick into the wall, breaking away the ore. Using her vision and boosted strength, she attacked it in a fury. Stone chips flew, scattering through the air. Pieces dropped to the ground, and another dwarf walked in.
+
+He nodded to her and walked to the vein, attacking the wall in a fury. Kindra did the same, slowly building a pile of stone around her feet.
+
+Sweat trickled down her skin. Her breathing increased, and she finally stopped. Reaching down, she scooped up the ore, tossing it into the cart.
+
+The dwarf turned. “So, you’re the new girl?” He raised a brow. “Dain’s kid?”
+
+“Yes. I’m Kindra.”
+
+“Strange name.” The dwarf quirked his head. “Where’d you come from?”
+
+“I don’t remember,” Kindra lied, sighing out into the air. “I don’t remember a lot of things.” She scooped up the ore. “Sorry, sir.”
+
+“They’re good people.” The dwarf stepped closer. “The necromancers are not,” he said sternly.
+
+Kindra sighed and pushed a strand of hair into her face. I’m going to find some dye. “I know, and I don’t know why it turned white.” She paused and looked at him. “Do you know something I could use to color it?”
+
+The dwarf looked at her with a bit of surprise. “You’d do that?”
+
+“Yes. Know anything?”
+
+“You could try some berries?” He shrugged. “Sorry, miss.”
+
+Kindra sighed.
+
+“How’d it happen?”
+
+“I don’t know,” Kindra whispered. “I don’t know how any of it happened.” She turned and walked to the cart, the thought nagging at her. Was it because Death brought me back—no. She shook her head. I wasn’t in the flight suit or ship. Then there are the dreams.
+
+She wheeled her cart forward, the thoughts lingering and a sense of dread spreading through her. The necromancers brought us here. That’s obvious. She frowned and shoved the cart out of the entrance. Sunlight beamed down. Pieces of the decayed bear were strewn across the road, and dwarves walked down the distant roads.
+
+Moving quickly, she wheeled the cart down the road and turned toward the forges. Pulling the cart forward, she walked down the road and waved to Dain.
+
+He smiled. “Mining?”
+
+Kindra nodded. “Yes.” She glanced at the workshop.
+
+Dain leaned closer. “They’re still in there.”
+
+Nodding, Kindra began smashing the ore. Time to make more bullets.

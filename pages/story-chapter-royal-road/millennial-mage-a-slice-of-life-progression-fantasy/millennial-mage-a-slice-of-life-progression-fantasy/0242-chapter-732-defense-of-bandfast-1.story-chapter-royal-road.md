@@ -1,0 +1,317 @@
+---
+id: 7ecc3d9c-f7f0-525a-90a1-a612462f4c89
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 732 - Defense of Bandfast (1)"
+slug: 0242-chapter-732-defense-of-bandfast-1
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 242
+ownLength: 3286
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3741151/chapter-732-defense-of-bandfast-1"
+royalRoadId: "3741151"
+---
+
+The citizenry of Bandfast were both shocked and resigned as the incoming attack was conveyed throughout every district.
+
+It wasn’t anywhere close to the time for a waning in this city, but Bandfast was now on the border of the Wilderness following Alefast’s waning, nonetheless. As such, while many had moved inward to a newer cycling city, not all had. Most of those who had stayed had known that dangerous days were near enough. If not for themselves, then for their descendants, and who would willingly risk less than they were choosing into for their family?
+
+Those who remained were hearty folk to say the least.
+
+True, what marched on their city wasn’t arcanous or magical beasts, but it was near enough in how it would affect the mundane people.
+
+The growing caves had been opened as bunkers to shelter the non-combatants, and most of the mundane fighters and guards were stationed in the tunnels as a final line of defense.
+
+A few select elites had been allowed to remain above at their vehement request, but even they would be heavily magically equipped to give them the best chances of survival.
+
+Mistress Jenna sighed. The posting of the standard guards in the tunnels was more a token show of respect than one of true utility.
+
+If Bandfast fell to the point that they were threatened, all was already lost.
+
+She knew enough of the Legion to know that the innocents wouldn’t be treated any differently than the combatants.
+
+They might leave the gateless… But she doubted it. The automata seemed to consider even those who benefit from magic to be enemies, and it was hard to argue that even gateless didn’t gain great benefit from being in a magically fueled society.
+
+She tucked a lock of red hair behind her ear even as her other hand squeezed Mikael’s in solidarity.
+
+Her husband would soon go and take direct command of the usually automated defenses, his more abstract, highlevel thinking perfect for that task.
+
+She, on the other hand, would be on the front lines. That was where she burned brightest.
+
+Word had come in of a new threat the Black Legion posed. Even their lessers bore some manner of infection, or fragmentary weaponry that would resist healing and mitigate magic of all kinds.
+
+It was, in fact, the only reason she still stood on the walls instead of sallying forth to wipe a large portion from the oncoming ranks while they were still in the wilds. She grimaced against the irritation of being so held back.
+
+Mikael noticed her mood and gave her cheek a kiss, whispering soothing words and well wishes.
+
+She turned and ran her hand down to his bearded chin before returning the kiss with one of her own. “Keep Josea safe. I’ll see you both after.”
+
+With that, the man was gone, utilizing his connection to the City Stone to move within its domain. His position as prime-adjunct affording him some connection and authority in that regard, despite not being the holder of the City Stone.
+
+She smiled at that. The arcanes were so close to understanding what they had at hand with their City Lords, but the fact that no magic came from the majority of their followers had kept a key portion of the solution from their notice.
+
+It was just unfortunate that gated were all but unable to gather authority in the same way arcanes could, otherwise virtually every City Stone holder would be pushing the limits of power.
+
+In that moment, one of the key exceptions appeared beside Jenna on the wall.
+
+Jenna’s inscriptions bloomed in that woman’s unrestrained presence, reminding her of younger days, before she’d consigned herself to city life.
+
+The spellforms were suddenly more robust, more precise, more efficient all in one. They filled Jenna with a sense of life and a spark of energy that was hard to describe.
+
+The Reforged bowed her head. “Mistress Holly. It is good to have you on the walls.”
+
+The Inscriptionist waved the notion away. “Mistress Ingrit almost succeeded in keeping me otherwise engaged. The girl is providing fascinating data, which is likely as not to help us finally find peace.”
+
+That earned an arched auburn brow. Jenna instantly knew who Mistress Holly meant by ‘the girl’. “Truly?”
+
+“Yes, her senses are… not necessarily unique, but they are combined and enhanced in a way I have not encountered before. The result is a truly novel view of existence.”
+
+Jenna grunted. “So, shall I expect you to vanish in the height of battle because something new has occurred to you?”
+
+Mistress Holly gave her a flat look. “Do I need to tweak your mental enhancements child? I’ve never wavered in my defense of my husband’s people, and I won’t stop now.”
+
+Jenna sighed. “I meant no slight.”
+
+“Of course you didn’t. The young rarely understand the import of their words.”
+
+She didn’t correct the older woman. Jenna was centuries past considering herself young, but in comparison to Mistress Holly? The label was accurate enough.
+
+“Now,” Mistress Holly straightened herself primly. “I will not engage the automata directly for hopefully obvious reasons.”
+
+Jenna grunted again. “Understandable… Then, am I to understand that you need a proxy?”
+
+Mistress Holly’s smile was almost inhuman. “No, child. I will need many.”
+
+All across the city, inscriptions subtly shifted, minor imperfections that had snuck in over time since their last refactoring were corrected, inefficiencies in application or due to uneven use were smoothed over, and precious metals seemed to almost appear from nowhere to refresh even the oldest spelllines.
+
+Such was the subtlety of the working that none below the level of Paragon noticed any hints of the changes wrought upon them, save, perhaps, for an unexpected bolstering of their own confidence and assurance in the face of what was to come.
+
+Jenna sighed, fully facing her friend. “All it would take was letting the common citizen know all that you’ve done. Rust, Mistress Holly, even only telling the Mages would give you the weight that—”
+
+The scholarly woman held up a hand. “That path has been investigated and found suboptimal. I’ll not throw away potential in a quick grab at power.” She added in barely a whisper. “Lives saved now do not outweigh those that I could have saved for the rest of my existence with proper patience.”
+
+Her words seemed almost a warding, to convince herself of her choices. Jenna almost argued, the back-and-forth long practiced. In that moment, however, her focus was drawn to the edge of the distant woods that surrounded Bandfast, to the humanoid figure that had stepped forth, to the thousands that had already joined it in the time it took for her to shift her gaze.
+
+The assault on Bandfast was about to begin.
+
+* * *
+
+Tala got the communication, and her smile slid from her features.
+
+A moment later, Enar clearly communicated with Rane, as her husband’s joviality faded away.
+
+Lea noticed the change in demeanor, and given the context, she immediately understood. “It’s started?”
+
+Rane nodded, but Tala’s the one who spoke. “It has, and they clearly know their distraction is at an end. They aren’t delaying at all.”
+
+Rane gestured toward one of the large slates, his will shifting it to display a view of Bandfast. The scene showed before them was a perspective originating from a central spire in the city with incredible detail.
+
+It was looking out over the layered walls and districts, over the remaining farms, orchards, and vineyards that were in their final years. They could see the defensive perimeter, towers of might and magic flaring as the Mages within sent fruitless spells at the oncoming automata.
+
+Tala’s eyes widened, and she leaned forward. “Leshkin Juggernaught?”
+
+That’s what it looked like, but they were of black steel rather than plant matter.
+
+Terry had conveyed that such were a part of this force, but the reality hadn’t really sunk in.
+
+Rane was shaking his head in awe. “That’s… that’s not great.”
+
+Lea let out a disbelieving snorting huff. “That’s a bit of an understatement, yeah?”
+
+The initial volleys had tested the Black Legion’s defense and found that it was already interlinked and spread across the entire advancing force.
+
+Fireballs had dispersed into so much hot air. Lances of ice had melted, and magically conjured stone turned to dust then a pleasant breeze as each basic form of attack proved useless.
+
+Lances of lightning sparked forth, dispersing into fractious trees of smaller and smaller tendrils, not even reaching a single target. Rust, they barely disturbed the wild grasses.
+
+That and so much more was useless, but it wasn’t all the towers had.
+
+Great boulders were torn from the ground and hurtled into the oncoming ranks, knocking them over like nine-pins but doing little lasting damage.
+
+It did break up the unified front, though, forcing the advance into a staggered line rather than a clean, orderly one.
+
+Still, they walked forward rather than running as Tala might have expected.
+
+“Evacuate the towers.” Rane’s voice was soft as he spoke the command… no, not a command. They had no authority or direct connection. It was a wish.
+
+Lea was nodding in agreement. “Come on. They aren’t doing any good.”
+
+Tala knew the truth, though. Those Mages wouldn’t evacuate, not until the last minute if even then.
+
+Something shifted, and the magics within flared with power beyond what they’d shown before.
+
+Since their perspective was only one of light, not magic, they couldn’t see exactly what was happening, but they could tell that something had changed within the magics of the defensive structures.
+
+Small monoliths of granite rose from the ground, pulled from the very bedrock with heretofore unseen magics. These new projectiles were buildings when compared to the dollhouses of the previously ‘large’ boulders.
+
+Those got some response.
+
+The juggernauts lunged and lumbered forth, their glaives and greatswords flashing, coated with odd solidity, and the siege stones shattered even as they fell among the ranks.
+
+Not even the juggernauts risked taking hits from those on their shields.
+
+The result of the more active defense was a peppering of shards through the lessers, and many actually did fall under the spray, but that final volley was all the towers had time for.
+
+The Legion was in range of the outer towers.
+
+Across a quarter of the circumference of Bandfast, the towers switched to gale force winds, the air pulling downward from above and blasting forward just off the ground with enough force that a caravan wagon would have been sent tumbling.
+
+Indeed, some legionnaires were sent whipping backward, but most dropped low, continuing their advance as if climbing a cliff.
+
+Even as she watched, Tala poured on the speed, leaving the smallest of abrasion in their wake—the most that she could risk.
+
+It would still be nearly an hour before they could pick up Terry, and close to an hour more before they’d reach Bandfast.
+
+Two hours.
+
+The city would be without the reinforcements that she was bringing for two hours.
+
+She almost sped up further, but restrained herself.
+
+The advance of the legion had been slowed with the outpouring of power. The wind—even when rendered mundane—was significant, and it was changing the weather of the region.
+
+The colder air from higher in the atmosphere was forcibly lowered and that was leeching heat from everything before the gales.
+
+It could be corrected and balance restored after this clash was finished, but there would most likely be ripples felt for weeks throughout the region.
+
+Rane suddenly leaned forward, squinting at the provided perspective. “Is that… Mistress Jean?”
+
+Tala refocused, looking at the true-light display that allowed her enhanced eyes to pick out greater detail than others might have. “I think so?”
+
+A figure had appeared, coming from a bunker of some kind between two towers to stand just behind the wall of wind. Whoever it was, raised one arm as if pointing a finger, though the hand held a device.
+
+So, it’s Mistress Jean or someone using something similar.
+
+There was a flicker of power and the world went dark.
+
+An expanding cone of light tore away from the tip of the device. No… Not a cone. It only expanded upward by about ten feet before funneling forward. Is that because of the wind pushing downward?
+
+It didn’t really matter, because Tala finally identified what was happening, even if she didn’t know the exact mechanism.
+
+“Heat.” Lea’s one word matched with Tala’s growing understanding.
+
+Rane grunted. “She dumped a monumental amount of heat straight into the wind.”
+
+The pulse had barely been two seconds long, but that had still imparted as much energy as a blast furnace across a huge swathe.
+
+Better, it was clearly mundane heat that had been drawn in and held in containment by magic. Thus, none of it was dispersed by the reality field that the Black Legion so liked to use.
+
+The result was fantastic.
+
+A large plurality of the lesser automata were slagged, nearly all the way back to the closest treeline. Only those outside of the firing arc or that had happened to be in the lee of a juggernaut survived.
+
+Tala didn’t yet know how the officers meshed with the Leshkin-like forms, but if she had to guess, the smaller legionnaires that still moved were at least sergeants, likely lieutenants at a minimum.
+
+The advance stalled as the Black Legion clearly had not expected such an effective defensive counter.
+
+The prairie grasses were ablaze on the edges of the area of effect, and the ground within has simply scorched clean. Even the soil seemed to have been baked down to dust and clay.
+
+It was staggeringly impressive, especially for an Archon who was yet to fully Refine.
+
+Rane was chuckling. “Last I heard, she was trying to create a compressed heat cartridge, rivaling a star in output, if even briefly.”
+
+Tala grunted. “I’m not sure she managed it, but I’m happy to concede she’s done something impressive.”
+
+Lea grinned. “So, she should get the name for the attempt. ‘Starshot’?”
+
+Rane shrugged. “I think the wind helped a lot with proper dispersal of the attack.”
+
+“Starwind?”
+
+Tala gave a small smile. “She can hardly count on such favorable conditions every time. The wind isn’t connected to the working.”
+
+Lea sighed. “It should still have a fun name, and Jean’s Starwind sounds awesome.”
+
+“Sounds like an outlaw.” Rane teased, the stress of the situation bleeding away with the momentary reprieve and levity.
+
+Tala waved them off, drawing her husband and daughter back to the matter at hand. “It looks like they’re retreating. Is that right?”
+
+Did she dare hope?
+
+No. She couldn’t let up. Tala maintained her slightly reckless speed.
+
+Through the Archive, they learned that it had, indeed, been Mistress Jean, and unfortunately, she’d only had one of those rounds made.
+
+Apparently, it had been the work of years to create such a powerful construct, and while she had other types at her disposal, none were expected to be quite as effective.
+
+As the Black Legion pulled back, the magical winds visibly abated.
+
+There was a flurry of activity around each tower, and between each and the city itself as Mages were changed out and fixes were executed in the momentary reprieve.
+
+One Archon clearly decided that this was close enough to the Leshkin war to deserve some of the cards usually reserved for that.
+
+As such, a series of wall-segments began to manifest from whatever storage they’d been secreted in, filling in the gap between two towers.
+
+It was only a two-hundred yard stretch—and that seemed to exhaust that Archon’s supply—but it inspired others, and soon there were fortifications connecting each of the towers, offering at least temporary enhanced defense.
+
+Archons flew high on various magics, clearly spying down on the automata, and by their movements, it was obvious that this wasn’t a true retreat.
+
+Indeed, less than a quarter-hour after the last legionnaire had vanished into the forest, they appeared again.
+
+This time, the front line was entirely juggernauts—or whatever the equivalent was for the legion—each with a towershield that looked impressive even at the tremendous distance that they were seeing them from.
+
+The mobile rampart of metal advanced, the smaller units behind the larger, and the process began again.
+
+Still, the whole retreat and refactoring of the force had burned nearly an hour, and Terry was soon to join the others of the Sappherrous family.
+
+Massive boulders smashed into the oncoming metal.
+
+Wind tore at the front with renewed fervor, slowing the ponderous measured pace of the juggernauts even further.
+
+But it didn’t stop them.
+
+They drew closer and closer, shrugging off every attempt to keep them at bay.
+
+Finally, a woman made herself known on the wall at the center of the arc of this push.
+
+Her fiery hair was held in a tight braid against the breeze, and her inscriptions were already blazing when Tala noticed her
+
+Lea grinned. “Hard to tell from this angle, but that’s Mistress Jenna, I presume?”
+
+Rane nodded. “Looks like her.”
+
+Behind the woman—in great arcs that looked almost like growing wings of blue—ice started appearing nearly all the way back at the true city walls as heat was drawn forth and funneled into the woman.
+
+It took less than ten seconds, but still so far away, Tala felt like it took hours.
+
+In that moment, Terry flickered into being within the sanctum, eyes already locked on the view of the battle that they were racing toward.
+
+Mistress Jenna almost gently thrust her hand forward, and a finger-thick column of light flashed out.
+
+When it encountered the reality field, only then did the containing magics break apart.
+
+The resulting blast did not match Mistress Jean’s attack in scope, but it proved far more focused.
+
+Even with the magics stripped away, it could only spread out so much with barely a dozen yards of space.
+
+The heat impacted the front line, obliterating three juggernauts and causing one more to each side to slump inward as the side toward the blast melted too much to support their great weight.
+
+The heat was far less in total as well, so the hit only radiated back another dozen yards before dispersing too much to cause true damage.
+
+Still, it was a solid blow, eradicating another chunk of automata.
+
+It also did one more thing.
+
+Standing nearly dead center of the otherwise slagged beings was an automaton that seemed entirely unaffected.
+
+It radiated a solidity that Tala could somehow perceive even through the imperfectly conveyed view.
+
+A simple-seeming sword was held in a lazy grip as it regarded the Archon atop the makeshift wall.
+
+There was a moment of stillness before that blade swung an unhurried arc.
+
+The line of grass along the previous path of the Reforged’s attack suddenly charred like a fuse burning back toward Bandfast’s outer defenses. The magic that had protected it from the mundane heat somehow removed retroactively.
+
+All across the front, magics flared, sparked, and sputtered as it failed to oppose the working of reality.
+
+Then, Mistress Jenna screamed.
+
+Tala’s enhanced view only barely picked up the heat-blisters that blossomed across the woman’s entire body, destroying her inscriptions and dropping her into a disfigured mess.
+
+Healers responded almost instantly, ensuring that the Reforged likely would be recovered in minutes, but it highlighted something that made Tala’s blood run cold.
+
+That was a true concept blade, entirely living up to the legends she’d heard.
+
+Moreover, it was being wielded by something far above a mere commander.
+
+That was either a senior commander, something new, or else the leader of the Black Legion had finally taken to the field.

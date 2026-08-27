@@ -1,0 +1,279 @@
+---
+id: af806f2f-5713-5a83-b867-896e7c30b870
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 95 - I Heard It Through the Grapevine (2)"
+slug: 0165-chapter-95-i-heard-it-through-the-grapevine-2
+partOf: metaworld-hopecore
+position: 165
+ownLength: 3267
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3861283/chapter-95-i-heard-it-through-the-grapevine-2"
+royalRoadId: "3861283"
+---
+
+Monday.
+
+Lehman told the world it had lost $2.8 billion in a quarter. Eppie asked Vaughan about Shakespeare in the Park.
+
+She then jogged to work to learn the business of not doing what Sony was doing to its artists.
+
+Davis came down to see what she was doing, while not-so-subtly hinting that they could sure use some new songs for these young, up-and-coming artists. If the trainees didn’t tickle her fancy, Lucia, Kellie and Kel were also working on new singles for the fall.
+
+He escorted her to a level she could not visit alone, the Mueller Suites, and gave her permission to linger as she pleased. Johan Mueller, Sony’s premier track engineer, did not look up when she came in.
+
+“Sit,” he directed her to the couch. She could watch, but she could not comment. She could learn, but she could not interfere. When it came to his art, Mr Mueller was very, very serious.
+
+She sat for forty minutes and watched him take a vocal comp apart for a new songstress, Sony was deciding whether to put in a band or launch as a solo act.
+
+The vocality, Eppie deduced, was nowhere near [Sublime]. It was tonally forgettable, a hallmark of bubblegum pop. If the girl did sell, it would not be through her voice.
+
+“Not to your liking?” Mueller asked between takes. “You got something?”
+
+“I am still finding the ingredients,” Eppie confessed. Or the [Causality].
+
+“Yaleena misses you.” Mueller snorted at the deflection. “Her studio’s booked out, but I still think you should show her how much you’ve improved. Maybe you’ll find your inspiration after a good coffee.”
+
+Eppie recalled her very first vocal coach and smiled for the first time since her meeting with Curon. That… she decided, was a very good idea.
+
+On Thursday, Lehman removed its president and chief financial officer, a headline that prompted Juliana Vaughan to read and reread the paper.
+
+Such details, however, could not be known to Lucia Lancet, in the sound booth, holding the last note as it pivoted near the vowels before rising to a conclusive crescendo.
+
+She looked up toward her track engineer. Through the glass, Mr Mueller had his chin down and two fingers on the desk. He raised a hand and made the gesture for one.
+
+Again, it meant. One more take.
+
+“Which part?” she asked.
+
+“All of it,” Mueller’s command came through the headphones like the voice of God.
+
+Something inside Lucia threatened to shrivel. They’d been at it for two hours already.
+
+But she did not complain. She drank from her bottle instead, and reset her posture, her voice, and her attitude. She was a professional. She had been a professional since she was six.
+
+Lucia knew, theoretically, that her technique was correct. But Mueller wanted a full breath at the close of verse two, and a dip as she leaned into the chorus. He wanted breathlessness where the sheets said otherwise, and a tremble where she had written the music to soar.
+
+Nonetheless, she knew that Mr Mueller knew better. Mueller had worked on both Umbrella and Doves Cry. The problem was that her shoulders still felt heavy. The bruise her grandmother left was gone, but the hurt remained.
+
+Still, this was her song. It had come to her, out of the blue. But, perhaps because it was her song and not something that was handed to her, she didn’t know what it should be, or could be—and that’s why they were burning away Mr Mueller’s billable hours.
+
+Behind Mueller, along the back wall, was the couch.
+
+Every studio had one, and Lucia always hated the people on it. They usually wore suits. They kept their coats on. They looked at their phones during the takes, then applauded. And then they made decisions about how much marketing to put into a song, what she should wear, and who she should collaborate with.
+
+But she just had to be stubborn, she just… had to write her own.
+
+Presently, Bennet sat on one end, hands folded, at rest. On the other end, with her knees up and her doll-face half-cocked in deep thought, was Euphemia Fontaine.
+
+She had been there since Monday. She was taking notes in a notebook.
+
+Lucia did not mind, nor did Bennet, because Mueller didn’t mind.
+
+“Someone—someone… someone…” Lucia delivered her latest take as instructed.
+
+“Twenty minutes,” Mueller gave her one thumbs up. The gesture wasn’t for her latest take. It was for her to take a break.
+
+Lucia came out and sat beside Bennet. Eppie moved her feet to make room without being asked.
+
+Sitting next to the girl made Lucia feel ugly. She was nineteen now, had been at Guilliams at fourteen, had four records, several nominations, but no Grammys. The girl beside her was sixteen and had given away a song at fifteen that won Record of the Year. She had no parents. No money. No house. No trust fund. Yet, she could sit in the studio booth and chit-chat with Mr Mueller like they were old chums.
+
+“Thirty-one was good,” Eppie said.
+
+“Thirty-one?” Thirty-one was a terrible take. It had hurt.
+
+“Yeah. I liked… the feeling.”
+
+Lucia wasn’t sure if the feeling was a compliment or a mockery. What she did feel, acutely, was a sensation in her chest akin to her grandmother’s remarks about her practice sessions when she was young. Delphine’s criticisms had been relentless, even if they were categorically true.
+
+“Can I ask you something?” Eppie said, slipping her feet back into the ballet flats. “The recording Rick sent over. End of May. Was it…to anyone’s taste?”
+
+Lucia almost flinched. “The family’s considering it,” she said. The song’s opening verse had been played so often in her head that she could sing it by heart.
+
+Eppie did not answer straight away. “Okay,” she said, then smiled mysteriously.
+
+The patience, Lucia felt, was worse than accusation.
+
+Did Eppie know that her grandmother was livid? Lucia hated that, even as the premier artist at the Richards House, no one told her anything. Her mother never made a peep regarding Grandmother’s wishes, and her father had his businesses to run in Europe. Bennet wouldn’t say anything that would reflect poorly on Delphine, and her agent and manager were both on Delphine’s payroll. Even Mr Davis spoke in tongues when it came to her grandmother.
+
+What did Delphine mean by Eppie being a thief? Where did a child get songs like that? Who really wrote them? Who was she living with? She had heard Delphine’s rage repeated, yet she hadn’t defended her tiny colleague at all. Lucia didn’t dare.
+
+After all, were they not competitors?
+
+“Lucia.”
+
+She looked up.
+
+“Relax your shoulders...” Eppie touched two fingers to Lucia’s arms, one each side, in exactly the two places her grandmother had arrested, accessible because, serendipitously, they had both chosen to wear halterneck tops. “Don’t hold your voice in. Someone can’t fix that. No one gets to tell you what your own song is supposed to be. You’ll find it if you stop caring about… other people—”
+
+Lucia slapped Eppie’s fingers away before she realised what she had done.
+
+“Sorry…” Eppie returned her hand to her lap.
+
+“... I am so sorry,” Lucia controlled the thing bubbling in her belly. Her fingers were shaking from the impact. “Do… Do you want a coffee? My treat.”
+
+Was it envy?Or was it guilt?
+
+Lucia wished she could be honest with herself.
+
+Friday.
+
+The Dow was up 165 points, oil fell to $134, and Lehman’s shares were up. Eppie remarked on the market’s robustness, spoke about Martin to Juliana Vaughan, then jogged to work.
+
+On that same morning, with no knowledge or care about the impending crisis, Kelvin Grant, now one of Trent Davis’s premier products in the R&B production line, smoked alone in the corridor between the freight elevator and the loading doors.
+
+He told people he came down for the air. There was no air, but there was a bay door that opened onto Fifty-fifth and a smell of wet cardboard and mould. He wasn’t even an eager smoker, though the small transgression did give him a thrill.
+
+With a Newport lit, he sat on a stack of pallets with his phone in his hand and worked through pictures of his mother on a cruise he had paid for, happy that she was happy, even if he wasn’t.
+
+He hummed a song in between breaths. Doves Cry. The falsetto that had made the song so heartbreakingly catchy. He took it up into the head voice on the bridge because the corridor was empty and because his mood was lifting.
+
+The voice work felt good. Not good like ten thousand girls screaming his name. Good like putting your face in cold water. Everything came unclenched—the jaw, the back of the neck, the clump in his chest—and the sound went up out of him like a prayer, the way it used to in choir, back at the Shiloh, where his mother had sat assured by God that her son was blessed.
+
+Then he saw someone who wasn’t a worker, because she looked expensive, and he threw away the cigarette and cut the chorus like someone yanking out a cable.
+
+Then his wits recovered, and he saw that it was just… Euphemia Fontaine, standing there in a floral dress and white sandals, looking like a colour-me-in from a Disney-branded picture book.
+
+She walked up to say hi, and Kel felt nothing short of ridiculous.
+
+“Miss Fountaine…”
+
+The girl sauntered past him, put out the cigarette with her shoe, then tsked at him.
+
+His whole face went; he wanted to excuse himself, say sorry. Or he would have, only something in him turned over and shut it down, snap, like a hand on a light switch. He was a Harlem boy, and boys in Harlem were men, and men didn’t apologise for anything.
+
+“Yo,” he said, his voice low. “Sup.”
+
+“Did I catch someone being naughty?”
+
+“Me? Naughty?” Kel summoned the casual swagger that made him so endearing to his usual audience. “Nah—I am wicked.”
+
+Eppie laughed, a sound that coincided with the loading doors sliding upward. From the bay, Dez and Marlon and two other boys from his crew emerged, laughing and fooling, saying “See? I knew he be here.”
+
+Kel felt his body move with a will of its own. His shoulders came back. His chin came up. The phone with his mother’s cruise diary went into his pocket. The way he was sitting on the pallets stopped being sitting and became something with one leg out. In two seconds, Kelvin Grant had transformed into Kel G.
+
+“Yo, son,” Dez announced. “That was you just now?”
+
+“What?”
+
+“Down here. Doin’ the girl voice.”
+
+“Man, get the fuck outta here.”
+
+“Sounded like church.” Marlon snickered.
+
+“Sounded like Sunday morning—” Dez agreed, and took it up himself, thin and wobbling, nothing like it. “Eeeee—”
+
+“Chill,” Kel laughed, too loud. “Jus’ playin’ for shorty.”
+
+It was a good laugh. It landed. Dez went, aight, aight, and let it go, and Marlon snorted. Then their eyes were on Eppie.
+
+“Shorty a little too… young,” Marlon found his next bit. “She tasty though, my man…”
+
+Kel felt his back suddenly grow cold with sweat. “Hey now…”
+
+The boys closed in around Eppie the way the saints used to close in on a visitor at Shiloh — except nobody here was going to ask her name.
+
+“You look kinda familiar.” Dez clearly entertained the thought of putting his arm around Eppie, but some animal instinct, some… low cunning the man possessed, had whispered “no” in his ear. “Where you from, sweetheart? You rock with Kel?”
+
+“My Daddy’s Frederick Curon,” Eppie said with a drawl, in the most valley girl possible tone of voice, watching Kel’s eyes even as he cringed. “My other Daddy is CEO Trent Davis.”
+
+Kel wished there was a crack in the concrete slab so that he could crawl into it and disappear.
+
+“I am a BIG FAN of Mr Kelvin Grant…” Eppie’s voice was his mother’s, announcing his government name across a pew. “Big fan…”
+
+The boys backed away, fake laughing like embarrassed hyenas. They may not have known who Euphemia Fontaine was; they may not have realised this white girl wrote Doves Cry, but they knew Kel’s boss, and they most definitely knew Andrew Whitfield, the Chief Legal Officer.
+
+To prove her point. She hugged him. Maybe to say, I forgive you.
+
+The boys whistled encouragingly.
+
+But the supernatural strength of the hug told Kel what Eppie really said was “You owe me, son,” and the scent of her lingering shampoo was just code for “see you around…”
+
+Friday Week. Central Park.6:40 PM.
+
+If Eppie had learned anything in two weeks, it was that a factory selling joy was a miserable place to work. The mediocre artists worried about their futures; the top artists about rankings and awards; the producers about their stables; the executives about the quarter. In a booth upstairs, a girl who was the envy of the world was burning up on her thirty-second take. In a corridor by the loading doors, a boy with the voice of an angel was convincing himself he was nobody’s bitch. And above them all sat a Director who could not be photographed with his own daughter, and a CEO going grey over the photograph.
+
+What they all needed, Eppie felt, was some Shakespeare.
+
+Unfortunately, she was the only one with time to be in line by the AMs to catch the 8 PM show. All it cost was time, though sadly, that was the one thing nobody in the building had.
+
+The email came in at 6:41, while she was sitting on wet grass with her knees up, scheming.
+
+Scheming about Martin from Ontario, a song for Val, a Lucia who needed a prod in the right direction, and a [Parasite] backsliding into his old habits. The email made her no less miserable.
+
+From: Madeleine Filmore [email protected]To: E. Fontaine [email protected]Cc: Eric Lee [email protected]; Frederick Curon [email protected]; R. Salcedo (Corbin Risk)Sent: Friday, 20 June 2008, 6:41 PMSubject: weekly!! + a few bits (read to the bottom pls 🙏)
+
+Evening you 🌙
+
+Weekly first, then bits.
+
+1. Car commercial wants Dream a Little for a sync. Mr Davis greenlit the offer. Money to your account soon. 👌2. Nine outlets came to me for comment in eleven days. I did NOT flinch 💅 (See why below)3. EPPIE, you’re in the tabloids (congrats?)📈
+
+There’s a picture of you in PEOPLE Magazine, taken in your own lobby, with Director Curon. I think you know which one. There’s an article as well. Don’t read it, please… the gist is that you’re getting songs from a Sugar Daddy. 😦
+
+4. Okay, 🕵️‍♀️ fun detective segment…
+
+What’s weird is that I’ve tracked about 200 posts since the 4th across five boards, four blogs, and three comment sections, all saying the same two things: you don’t write your songs, that you made An Arrangement with Rick.Here’s the bit that made me sit up 👀The phrase “his little protégée” shows up in EXACTLY that wording thirty-one times. Not protégé. Not “his protégée.” That whole construction, thirty-one times, eleven usernames, four platforms, first one 4 June 9:12 am then NINE of them inside forty minutes on the 16th.
+
+Nobody talks like that!! 😳 I suspect it’s a group of users across multiple accounts.I also clocked “a child can’t write In the Pines.” Word for word. Both.
+
+5. Okay. There are three pictures now. Doing them in order. 📸
+
+1. The lobby. That’s the PEOPLE one, you’ve heard it from Director Curon.2. The airport 🛬 2 June, Terminal Four, the one where he’s got you off the ground. Used 40+ times now, always cropped so it looks like something.Nothing showing his Birkenstocks with tube socks. (Which clearly exonerates him)3. Is new to me and I don’t love it. You and Valorie Sanders at the Boathouse. Sir Justin Woodhouse at the table. 😬 Two people have now asked me why a Sony artist is taking coffee with Universal’s chairman 🙃
+
+6. your MySpace 🫠
+
+Comment approval since last Thursday. Queue has taken 1,140. I’ve released 31.Rest is mostly the song thing + the Rick thing. 41 are sexual and about your age. 19 people are describing hurting you 😖 for stealing songs; six named the Belmonte.You’re not seeing any of them; don’t ask. Eric has copies, Salcedo has copies, and so do the police, filed Monday — YES without asking you. Please don’t be furious with me all weekend ✌️
+
+7. Salcedo = security consultant. Sony Artist Services has a contract with their firm to track down crazy stuff like this and who is responsible. The police already have Monday’s file — Salcedo’s job is putting names to the eleven. 🎉
+
+8. Director Curon—this is the email you told me to give to Eppie, just letting you know. I am sure Eppie prefers your fashion to that dandy😳
+
+9. Everyone’s worried!! Writing it down where you can see it, because I don’t think you’re as worried… as we’re worried, which is a good thing! 🩷
+
+Call me. ANY hour. Phone’s on the pillow.
+
+M. ✨
+
+Madeleine Filmore · Media Manager
+
+Eppie packed away her phone.
+
+Curtain was eight, and at eight it was still daylight.
+
+For the next three hours, Eppie watched a man decide that a performance was the only weapon available to him. She watched him coach the players, fussily. She watched him sit sideways in the dark at the edge of a stage-within-a-stage and wait, and she watched the King get up.
+
+Give me some light. Away.
+
+Ophelia went into the water at about ten. Hamlet made a joke in a grave.
+
+When it finished, the audience stood up all at once, a great ragged roar of it going straight up into the sky. Eppie stood up with them and clapped until her hands hurt, her woes successfully forgotten for one evening.
+
+Eighteen hundred people. None of whom had paid a cent, sharing the moment, talking, laughing and exploring a play written four hundred years ago.
+
+At 11 PM, Eppie returned to earth. She could fight the charge on legal grounds and with lawyers. That was what Lana would do. She would find the people responsible and make them pay every cent they owed. She wouldn’t rest until bankruptcy was all they knew. That was her old MO.
+
+But vengeance wasn’t a rebuttal.It was just a mechanism, parallel to a confession.
+
+What she needed, specifically, was an artistic rebuttal.
+
+Something so absurd, so ridiculous, that all anyone could think about when the name Euphemia Fontaine came up in the media was that time she released that song, and everyone, EVERYONE, had laughed until they were in tears.
+
+She knew the song already, though she hadn’t paid for it yet.
+
+Buoyed by hope, she came out of the park at Eighty-fourth at half past eleven, hoodie up, and walked down Fifth. The museum was dark. The new cat shelter beside it was not.
+
+She keyed in the code at Vaughan’s.
+
+She walked through the forecourt, to the enormous interior door, popped it open with another code, then walked almost face-first into George standing at the arch with his hands at his sides.
+
+“Miss Fontaine.”
+
+Eppie stopped on the step.
+
+“Mr Kiritani has died, peacefully,” George announced, his voice tolling across the long hall.
+
+The Hamlet living in Eppie’s memory drew his last, regretless breath, then was silent.
+
+“Lady Vaughan would like to see you now.”

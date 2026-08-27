@@ -1,0 +1,231 @@
+---
+id: 390cec07-2940-5af5-ac32-734f54e5f8a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 596 - Insights Gained"
+slug: 0098-chapter-596-insights-gained
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 98
+ownLength: 2631
+unit: words
+ownProgress: 2631
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2501751/chapter-596-insights-gained"
+royalRoadId: "2501751"
+markedReadAt: "2026-06-29T19:38:26.213Z"
+---
+
+Tala charged forward, coming into hand-to-hand range under a withering barrage of strikes, before both she and Eskau Meallain fell back on knife work.
+
+In Eskau Meallain’s case, she covered her off-hand forearm with a sort of close-in, oblong buckler to aid her in their clash.
+
+Tala made a full, fingered gauntlet for her own left hand, allowing her to block and even attempt to ensnare the elf’s knife.
+
+The back and forth was a blur, but in the end, Eskau Meallain’s literal centuries of combat experience won through.
+
+Tala planted her knife deep into the woman’s shoulder, even as Eskau Meallain plunged her own weapon into Tala’s heart, coming in from an angle to avoid the sternum and threading between the ribs with expertise that spoke of uncounted lethal encounters.
+
+Tala spasmed.
+
+The feeling of a blade through her chest wasn’t particularly pleasant, but as the elf immediately withdrew the strike, stepping back and holding her hands to the side to show she was no longer a threat, it was a minor inconvenience overall.
+
+Tala’s magic—along with her will and abilities within Kit—immediately righted the injury.
+
+Eskau Meallain was bowing, not commenting on Tala’s oddly clear blood having already vanished from her weapon. “Well fought indeed, Eskau Tala. I am proud to have had you as a pupil, and I state unreservedly that there are few Eskau in all the Major Houses who would be your match, even limited as you made yourself here.”
+
+Tala bowed in turn, taking a deep breath before willing some blood from her lungs. “Thank you for the match, Eskau Meallain.” She then turned to the Talons. “I hope that this has been instructional to all of you as a look at what is possible. As we were limiting ourselves to a power-level below what you all currently hold, it should have been easy for you to watch what we were doing. Take the insights you gleaned, talk amongst yourselves to learn from one another, and train hard.”
+
+Captain Ron stepped forward, despite the few murmurs. “As Mistress Tala says, we will train hard. It is high time to add sparring back into our routine. You are in better magical and physical condition than you have ever been, and your white steel is more useful to you than ever before. More than that, Mistress Tala has arranged for Mage Hunters to train you all on occasion in the coming weeks, so that you can learn to counter magic of all sorts. We are not Mages. We do not alter reality to our will. We are Talons.”
+
+They all straightened, responding as one. “We are the weapon. We alter ourselves.”
+
+He nodded decisively. “Dismissed.”
+
+As the bulk of the Talons moved back toward their training, Talax and Lea were still talking animatedly. Tala almost started listening in, but held herself back.
+
+Alat was likely hearing and keeping record of everything, but Tala didn’t want to be the type of mom who eavesdropped on her daughter's conversations.
+
+-Hey, what are you saying about me?-
+
+That you’re the type of person to be nosier and less caring of privacy than most?
+
+-Well… fair. I do monitor everyone and everything that happens within Kit, passively. It would be difficult not to. Most just flows right on by though.-
+
+Right. Tala sent a flat look toward Alat, and the alternate interface ignored it.
+
+Eskau Meallain approached Tala, placing the white steel that she’d used for their match around her forearm, mimicking one of the vambraces of the Talons. “Are you going to be keeping that?”
+
+The elf indicated the short, thick weapon that Tala still held in an off-hand manner, having absorbed the gauntlet into it already. Tala glanced down at the weapon, then shrugged. “Probably not, no. I have sufficient metal for my needs already.”
+
+Eskau Meallain nodded. “Then, may I have it? I have not been granted my own as you have not given permission for such.”
+
+Tala arched an eyebrow. “Oh, really? I know that I’ve seen you practicing with it.”
+
+“And I am required to return it to the quartermaster at the end of each day.”
+
+She grunted at that. “So, you would like some of your own.”
+
+“Yes.”
+
+“To keep?”
+
+“For now.”
+
+“For what reason?”
+
+“To train with, in my own time, limited though it may be.”
+
+Tala grunted again. If the situation were reversed, she’d want the same. “Very well.”
+
+From beside them, Captain Ron cleared his throat. He’d approached as they were talking, but waited so as to not interrupt. Neither Tala nor Eskau Meallain had felt the need to break off their conversation, and now, it seemed, he felt the need to add something. “That will leave you with less volume than each Talon has.”
+
+Tala raised an eyebrow. “Oh?”
+
+He nodded. “I believe we easily have the volume to match her to the average Talon. We have been preparing for the next ‘granting’ of white steel, and the plan was to do an unequal distribution, based both on effort and results demonstrated. That way, those who are putting in the least effort, and are doing poorly, will get the least. In that way, we’ll begin to differentiate between ranks based on the volume of white steel each Talon possesses.”
+
+“Where would Eskau Meallain fall in that metric?”
+
+The elf huffed and smiled, clearly confident, but she didn’t comment.
+
+Captain Ron gave a half smile of his own. “She would land at the top of both, but that only makes sense, given that she is intended as an instructor, not an actual member of the Talons.”
+
+Eskau Meallain nodded definitively. “You do not want them building camaraderie with me. I am, at best, an allied combatant, training them as penance for crimes committed. At worst? I’m a barely imprisoned, hostile, high-ranking enemy, giving advice and instruction under duress.”
+
+He sighed. “As she said. Regardless, I think that she should be allowed the same volume as the average Talon, hopefully inspiring her to increase the competence of all, thus increasing the volume given to all, and therefore herself.”
+
+Tala considered a moment. “Why not equal to the least Talon?”
+
+He shrugged. “That might inspire one or more of the Talons to ‘fall on their own sword’ so to speak, either to spite an ‘enemy’ or just to get back at an instructor for some perceived slight or other.”
+
+Tala raised an eyebrow. “Some of them would do that?”
+
+He shook his head. “I’d love to say no, but human nature is what it is, and the temptation would be there. If Eskau Meallain gets the ‘average,’ then it would remove even the temptation for such nonsense.”
+
+She grunted. “Alright, then. I’ll defer to your wisdom in this.”
+
+He bowed. “Thank you, Mistress Tala.”
+
+She turned back to Eskau Meallain. “Please go with the good captain to get the balance of white steel.” She then handed over the weapon she’d used. “And, yes, you can take this too.”
+
+The older woman accepted with a contented smile. “Give me another century, and these Talons will be able to individually take down almost any Eskau in the Major Houses.”
+
+Captain Ron sighed. “As I’ve said, Eskau Meallain, our goal is to train them with unit tactics. I want any group of five—any Claw—to be able to take down any arcane, and the Talons as a whole to be able to be the best fighting force they can be, person for person.”
+
+“Well, I want the founders of the House of Blood to stride forth from the grave, revived in truth, but we can’t always get what we want.”
+
+The man narrowed his eyes at the elf, but Tala decided to interject before their back and forth could continue. “Eskau Meallain, you will work with Captain Ron to train unit tactics, for better survivability and quicker mission success.”
+
+Captain Ron was just beginning to smile smugly, when Tala turned to him.
+
+“Captain Ron, Eskau Meallain isn’t being purposely difficult.” Tala glanced toward the other Eskau before turning back and rubbing at her temples. “At least not mostly. There are Eskau in the arcane cities that could tear through Reforged, not without effort, and likely not to a definitive victory on their own, but you get the idea.”
+
+She paused for a moment there, ensuring that she had his full attention.
+
+“Beyond that, the City Lords are hard to quantify, and they aren’t necessarily even the strongest arcanes there are.”
+
+Eskau Meallian snorted. “I’ve clashed with City Lords. They aren’t that powerful. Don’t hold them up as all but Sovereigns.”
+
+Tala raised an eyebrow and waited.
+
+“What? I survived just fine.”
+
+Captain Ron seemed to relax, seemingly thinking that if Eskau Meallain could be seen as the pinnacle—or at least near to it—of arcane battle prowess, then his goal was still quite reasonable.
+
+Tala sighed, immediately seeing the disconnect between what had been said and what the captain had understood. Therefore, she addressed Eskau Meallain once again, “And did you achieve your goal, or did you have to disengage?”
+
+The other woman frowned, clearly confused at what she saw as a repeated question. “What? No, I left. I’m not fool enough to get into a protracted fight with a City Lord, no matter how right I was, nor how angry I was at the time.”
+
+Captain Ron’s expression stiffened, and then he deflated, finally seeming to understand what Tala was getting at. “I see. Then, I wish our Claws to be able to remove any target we point them at, or defend against any incursion.”
+
+Eskau Meallain grimaced, then sighed. “Fine. That is less honorable than single combat, but I suppose we aren’t trying to train leaders. These are meant to be regular, if powerful, troops.”
+
+Tala nodded. “Exactly.”
+
+They exchanged a few more words, then the two departed, leaving Tala to turn back toward her family.
+
+Rane had seemingly made the same choice that she had with regard to not intruding on their daughter, talking with Lisa rather than drawing closer to where Talax and Lisa were still chatting away.
+
+Just before Captain Ron got too far away, he turned back. “Talon Talax! We’re still in training. Are you headed back to school for the day, or coming with us?”
+
+Talax’s eyes widened. “Coming!”
+
+He turned and said a hasty goodbye to Lea before sprinting off, after his captain.
+
+With them gone, it left just Lisa, Rane, Tala, and Lea behind.
+
+Lea came practically hopping over to Rane before she planted herself. “Can I have a date?”
+
+Rane blinked a few times, then looked after Talax before narrowing his gaze and looking back to Lea. “What do you mean?”
+
+“A date. I want to go on a date with you.”
+
+“Oh!” Rane let out a relieved breath. “I want to, Lea, but I’ve a lot else that needs to be worked out. We’ll be arriving in Alefast either late today or early tomorrow, and I need to get a few things done before then.”
+
+“Oh…” She looked down, clearly a bit disappointed.
+
+Lisa cleared his throat. “I actually need Eskau Tala to come with me to meet some of my kin, if she is available.”
+
+Tala nodded. “I can do that. Rane? Are you able to watch Lea?”
+
+Lea’s head came up with evident hope.
+
+Tala continued, however. “Lea, we aren’t near a city, so you two can’t go ‘out’ anywhere, and you haven’t been introduced to Ironhold at large, so that isn’t an option, not just yet.”
+
+Lea deflated again. “Yes, Mom.”
+
+Rane pulled her into a hug. “I’ll take you on a date when we get to Alefast, Waning. It probably won’t be the day we arrive, but I’ll try to do it soon, alright?”
+
+She nodded, still clearly a bit dejected. “Alright.”
+
+“Besides, you get to meet your grandparents in the city, as well as your honored ancestor when we get there. Won’t that be fun?”
+
+“I guess…”
+
+Tala gave a half smile. “Plus, you’re going to be able to play with Talax in the next few days.”
+
+Lea perked up at that. “Oh! Okay. That sounds like a good plan.”
+
+Rane quirked a smile. “So then. If I’m going to be watching over you, do you want to come watch me work?”
+
+The girl narrowed her eyes. “What are you going to be doing?”
+
+“Well, to start with, Enar needs me to look over a few things in the Archive—”
+
+“Nope! That’s not fun work to watch. Let’s sculpt.” She nodded once, as if it were decided.
+
+“Lea, honey, I’d love to, but…” He glanced to Tala.
+
+Tala shrugged. “Can you take the time to sculpt, at least until I’m done? If not, we can rearrange things, but if you can? I can take Lea after and let you do what you need to.”
+
+Terry could probably watch Lea, but neither Tala nor Rane were ready for that… not quite yet. Terry also didn’t seem like he was interested either, though he always perked up when anything that could even hint at Lea learning to fight was mentioned.
+
+Rane hesitated for a moment, clearly thinking through various aspects of what he needed to do. “Alright, yeah. I think that could work.”
+
+Lea lifted her arms in triumph. “Hurrah!”
+
+With quick goodbyes, Rane and Lea willed themselves back to the sanctum, and to their ‘rock yard’ as Lea had taken to calling it.
+
+Rane knew very well that Lea would want to try her hand at carving as well, so they were near some easier to sculpt, less expensive blocks that he could direct her to.
+
+Honestly, she was quite talented for how short a time she’d been working at it. The issue was that she had a tendency to see one mistake as ‘ruining’ the stone she was working on, no matter how big the stone or small the mistake, and thus, she wanted to move to a new one to try again.
+
+Rane, of course, did not allow that, nor did he allow her to simply ‘fix’ the mistake with borrowed authority within Kit. As he’d explained it, he’d learned many of his techniques and tricks while trying to recover from mistakes that he’d made, and he’d be rusted to slag before he let anyone take such opportunities from his daughter.
+
+While they set to it, Tala turned to Lisa. “So, your kin?”
+
+“Ahh, yes. There are three who have arrived and are well enough situated that meeting you would not be unduly dangerous.”
+
+She frowned, uncertain. “Dangerous? Why would meeting me be dangerous?”
+
+“Well, first of all, we can be a rather isolationist and grumpy folk. If we are in the middle of some project or other—and are forced to set it aside—we can be rather rude or unthinking in our interactions. That could be rather dangerous to them.”
+
+Tala quirked an eyebrow. “That doesn’t sound like something that a people who are devoted to precise language would suffer from.”
+
+“Oh, they would be very precise in what they said, you can be sure of that, but precision isn’t the point. But, I wasn’t done. In the course of connecting one of our dens to an anchor point, if the process is interrupted or disrupted, all of the dimensionality of the den can be forcefully realigned with the anchorpoint, causing quite a catastrophic… issue with the surrounding reality. That would be dangerous for everyone else.”
+
+Tala huffed a laugh, believing that she understood. “Ahh, so three of your kin have their homes properly anchored and have yet to dive into any new project that they’d be unhappy to put on pause?”
+
+“Precisely.”
+
+“Well, then? Let’s go meet them. I’d hate for them to become preoccupied before I got the chance.”
+
+“Indeed.”

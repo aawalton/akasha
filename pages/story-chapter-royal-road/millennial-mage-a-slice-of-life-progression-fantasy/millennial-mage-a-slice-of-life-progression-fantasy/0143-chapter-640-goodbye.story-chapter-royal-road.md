@@ -1,0 +1,257 @@
+---
+id: a01df3b7-8036-5f8f-aa2d-ad9ab13ea095
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 640 - Goodbye"
+slug: 0143-chapter-640-goodbye
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 143
+ownLength: 2954
+unit: words
+ownProgress: 2954
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2794435/chapter-640-goodbye"
+royalRoadId: "2794435"
+markedReadAt: "2026-06-29T19:39:38.906Z"
+---
+
+Tala kept her aura highly suppressed, as she stood at the back of the small area in which the memorial for Alan Karweil was being held.
+
+He was her father, in blood and influence in her life, even if not in relationship nor chosen association.
+
+He had been my father. He’s not any more.
+
+-Indeed.-
+
+His grandchildren, his children with their spouses, and his wife were all gathered, creating quite the group. Additionally, his few business acquaintances and partners who remained were in attendance as well. Since he’d handed over the business over a decade earlier, there weren’t many such left, but apparently a few had kept in touch, and they made their relation known by their presence here.
+
+It was a relatively short event, mostly because his end had been anything but sudden, and most had made their peace with it already. The words that had needed to be said had been said directly to Alan, himself, and so there was no need or desire to state them again, here.
+
+In the end, there was a short official statement of his passing, and a list of those he’d left behind. In that there was a minor scandal, as Tala, Rane, and Lea were mentioned.
+
+Everyone looked back to where they stood, surprised that Tala had been included, and seemingly expecting her to say something.
+
+She didn’t, simply acknowledging the attention and statement, and the event moved on.
+
+After the ceremony, there was a small get-together which amounted to a less festive family gathering, Martha included this time, with some others thrown in. Lea flitted through the various groups, making her presence known and comforting those who needed it.
+
+Blessedly, none of the non-family tried to cosy up to Tala or Rane to try to gain advantage through this happenstance, and the few family members that engaged with the elder Sappherrous family members did so out of kindness and genuine affection.
+
+Alan had only died a few hours earlier, those at the ceremony having all been called in in the last hours as he’d declined. The Sappherrous family had stayed with Martha between the events, and the woman was now with her blood children and their families.
+
+Rane had apparently let it be known that any of the Mages who teleported in either to see Alan in his final hours or to attend the ceremony after his passing could have their reinscription costs covered.
+
+Tala… honestly? She was grateful for the kindness of the offer. She did care about her siblings and their families, and the financial burden of teleporting was mostly in the reinscribing, at least for Mages.
+
+Honestly, she wasn’t sure that everyone would have been able to show up without the offer, so she was even more grateful to her husband for his thoughtfulness in a time where she had been unavailable to extend the offer herself.
+
+All told, Tala was glad when it ended, and even happier to be able to return to the sanctum with Rane and Lea where Terry was still resting. As they left the ceremony, walking out the main exit, Tala led her husband and daughter to a park barely a block away, the three walking in relative silence.
+
+In order to go to the sanctum, she now had to leave a physical anchor—hence why she’d had them go to the nearby park—but that was easy enough, given it could be as simple as a bit of iron hanging stoneward of Zeme, or as complex as her bracketing forms and their reality-iron chain nets.
+
+That would be her default, of course.
+
+In a sense, it announced where she was quite… noticeably for anyone who cared to look, but it paid to be obvious most of the time, especially when she could be incredibly subtle. After all, if it became widely known that whenever she was in her sanctum, her superficial connection point could be found by a simple look stone- or starward for her very obvious anchors? Then if she ever needed to hide, she could do so.
+
+But that was all ancillary to her current circumstances.
+
+With a nice spot selected, Tala, Rane, and Lea all entered the sanctum of their own will… or at least they tried to.
+
+Tala did, but when she remained alone, she returned her focus to the superficial and found that Rane and Lea were still on the superficial, looking quite confused.
+
+Tala willed herself back, and then arched an eyebrow at Rane.
+
+He shrugged. “I’m doing what I’ve always done before, reaching out toward Kit with my will and…” He shrugged again. “Nothing.”
+
+Tala groaned. “Right… Kit is… she and I are one. In a real sense, she no longer exists. Instead, do as you did before, but reach out to me, to my authority here.”
+
+-I’ll inform Lyn and the others of this change. It hasn’t been an issue yet, but it would have been.-
+
+Understood… This might allow us to grant some authority to Talons as well, without it being a dangerous precedent.
+
+-Ahh! Yes, as it is directly through us rather than with Kit as an intermediary. I’ll look into it.-
+
+Thank you.
+
+Both Rane and Lea were frowning in concentration, and the mirrored expressions brought a smile to Tala’s face. They looked so alike at times.
+
+There was an almost simultaneous feeling—or more accurately a sense—that each of them wanted to be able to enter the sanctum.
+
+With a thought, Tala ‘said’ yes, mentally adding that they should be able to come and go and even move about at their leisure.
+
+The two vanished from the superficial with nary a sound or signal, and Tala flickered after them, happy that they’d ironed out that wrinkle so easily.
+
+Advancing is never without its little oddities.
+
+-Indeed.-
+
+Finally, the human members of the Sappherrous family were all able to enter the sanctum, coming in to find the spread of food prepared for them, beside the Path of Remembrance.
+
+She still wasn’t sure if she wanted a statue of Alan on the Path—rust, she’d barely had even a moment to contemplate the idea—but it was the appropriate place for them to have their own wake in miniature.
+
+Kedva and her assistants had really outdone themselves with the spread, going for beauty and quality over quantity this time around—though most of their meals had both in gold—and including things like edible sculptures and other aesthetically pleasing displays.
+
+Even the various beverages were color coordinated with the surrounding snacks.
+
+The three sat nearby, willing food to themselves… once again, Tala got the sense of the two requesting authority to move the food, and she did as she’d done before, granting that authority to the two in perpetuity.
+
+Is this what Kit had to deal with? It was a bit odd to feel her husband and daughter moving food to themselves. It was similar to someone grabbing her wrist and moving her arm out of the way gently.
+
+Obviously, it wasn’t as personal as a wrist… maybe taking a cracker off of her palm and setting it on her other hand? That was closer.
+
+It’s… it’s odd.
+
+-Hey, at least you aren’t feeling everything that happens in here. You are only sensing the direct uses of your granted authority.-
+
+As makes sense, I suppose.
+
+The three of them were quiet as they enjoyed the repast and each other’s company.
+
+After nearly a quarter hour, Terry flickered into being beside them, his request for authority being granted as soon as Tala felt it.
+
+He appeared on Lea’s left just in time to snatch a bit of jerky that she’d been lifting to her mouth.
+
+Lea startled at the sudden appearance, then huffed a laugh before wrapping her arms around Terry’s neck and pulling him down toward her, taking obvious comfort in the embrace.
+
+He dutifully shrunk before flickering to rest on her lap. In response, she began to scratch behind his head. “Ohh, your feathers feel firmer. Is that part of your advancement?”
+
+Terry trilled happily, the noise sounding somehow more resonant than Tala was used to. He didn’t look different, but his aura was just as blue as Tala’s, as made sense.
+
+His arrival, and Lea’s inquiry seemed to have broken the comfortable silence the Sappherrouses had been resigned to, and Rane turned to his wife. “So? I can see your aura.” He grinned. “I felt your advancement. Anything that you care to share?”
+
+She smiled in return. “I felt your support the entire time. Thank you for that.”
+
+He nodded, shifting happily, and seeing no reason to say more.
+
+Lea glanced between them before smiling herself, and leaning back, clearly happy to see her parents' kind interactions.
+
+Tala took another bite of what seemed to be a pear tart and continued. “It went off perfectly.” She gestured to herself. “I am me, more so than ever before.”
+
+Lea got up, prompting Terry to squawk in feigned irritation before he flickered to take the chair’s seat for himself. Tala felt him snatch jerky on the way, his flickers so fast and smooth that she would have missed it, had he not been acting within her space.
+
+Lea did a circuit of her mother, obviously looking her up and down, even as Tala remained sitting, shaking her head at her daughter’s antics.
+
+When she finished a full circumnavigation, she went back to her seat and looked down at Terry.
+
+He cracked one eye before closing it and shimmying, making it clear that he was quite comfortable.
+
+Lea huffed a laugh, shrugged, and sat anyway.
+
+Terry squawked in indignation, flickering to Lea’s lap even as she settled.
+
+The delay between when he had to be elsewhere and when the lap was available was spent by the terror bird in selectively ravaging the nearby table.
+
+He wasn’t so rude as to take all of any one thing, but there was decidedly less meat of any kind when he settled down, letting out a faux irritated chuff.
+
+Lea patted the avian’s head before beginning to scritch at the base of his skull, causing him to let out a genuine, heavy sigh of contentment.
+
+Rane chuckled at the display, and Tala found herself smiling at the interaction.
+
+As she considered it, she was so incredibly glad to have the sanctum as such a contained place that she and her family could be here, utterly safe and at ease.
+
+Since she needed to go over her Reforging regardless, she decided to start there. She explained the appearance of Kit’s mom, and how, now there was no mistake, this space was within her in essentially every sense save having to do with her soul. That opened the idea to a lot of awkwardness if she thought about it too much, but as she’d kept the space distinct from her soul, she was still able to prevent soulbinding everyone in here.
+
+The container was now melded with her soul, but all that was within it was not.
+
+Rane frowned at that knowledge, and Tala was momentarily worried that he was going to have an issue with the changes. Instead, he asked a very important question. “Does that mean you can increase the volume without diluting your authority overmuch?”
+
+She started nodding instantly. They both knew that her advancement would allow her to increase the size, but… that wasn’t what he’d been asking. She hesitated a moment before her eyes widened. “You mean because it is a part of my soul and power, rather than just bonded to it.”
+
+He smiled and nodded once. “Exactly.”
+
+After a moment’s consideration, she nodded. “I believe so? I’ll need to ask, and like many of the things I brought to reality in myself I’ll have to test it, but I do think I can.”
+
+He grinned. “Wonderful! We were pushing against the limit before, and I know we have a backlog of questions for Walden with Mages lined up to provide expanded containers to grow his forest and this space.”
+
+Tala felt the light of excitement enter her eyes. “Oh, yes. Even if we don’t fill the space, expanding the volume that we can fill will be amazing.”
+
+Lea clapped her hands together, clearly excited about some new idea. “Can we get a lake?”
+
+Both Tala and Rane turned to her with nearly identical frowns.
+
+Lea hesitated, then shrugged. “Irondale has a lake, and everyone’s always talking about how much fun swimming in it is.”
+
+Tala arched an eyebrow, hiding a smile. “‘Everyone?’ Really?”
+
+Lea sighed. “Really, Mom? You know what I mean.”
+
+“Do I? You should know better than to hyperbolize.”
+
+Lea grunted, but nodded grudgingly.
+
+“So? Who is always talking about it?”
+
+“The Talons mostly.” She shrugged, glancing away.
+
+Rane narrowed his eyes. “Any Talon in particular?”
+
+Lea cleared her throat. “Maybe, but that’s not important. So… can we get a lake?”
+
+Tala glanced toward Rane, who was clearly fighting a smile, causing her own eyes to crinkle in amusement before she responded to their daughter. “We’ll talk about it.”
+
+He nodded, in acceptance, and they moved on.
+
+Tala took them through the broad strokes of her merging. She kept it sparse on the details, very aware that she could mess up Rane’s own Reforging if she wasn’t careful, and not wanting to expose Lea to similar dangers for the advancements to come.
+
+It still took near to an hour, by which point, Lea was quite tired, all the events of the day pushing her mind and soul toward needing a rest and reshuffle—needing to sleep.
+
+Tala and Rane gave Lea goodnight hugs before their daughter willed herself to her own room, heading toward bed. The two then sat back down, enjoying the faux—but still beautiful—night sky above them.
+
+Each of them reached out a hand almost in unison, meeting in the middle and clasping as they reveled in the view and contact.
+
+Long minutes passed before Rane glanced toward Tala. “The sky looks even more detailed and lovely than before. I can no longer see any hint that it’s an illusion.”
+
+Tala glanced his way. “Really?”
+
+He nodded.
+
+“Huh. I can, even without relying on my connection to it. I suppose it’s down to advancement then?” As soon as she said it, she realized that her words could be taken as a jab.
+
+Instead of being offended, however, Rane chuckled. “Probably, yeah. Who knew that lovely views would be a benefit of being behind you.”
+
+Tala gave him an incredulous look.
+
+Rane grinned, then gave a theatrical wink, causing them both to chuckle before returning their eyes to the sky.
+
+A few more minutes of silence were once more broken by Rane. “I really am proud of you, you know. You are amazing, and this accomplishment is such a fantastic demonstration of that.”
+
+She squeezed his hand without taking her eyes off the sky. “Thank you.”
+
+He cleared his throat. “I mean, not that you need my approval, nor my acknowledgement. You are amazing whether I say anything or not.”
+
+She turned and looked his way, incredulity beginning to build within her until she truly took in his playful expression. She huffed a laugh and shook her head. “I love you.”
+
+“That still amazes me.”
+
+“Hmm?”
+
+“That you love me.”
+
+“Well, it was touch and go there for a bit.”
+
+He laughed at that. “I love you.”
+
+“I know.”
+
+The stars slowly spun overhead, bringing different constellations, nebulae, and other interstellar phenomena into view. “Do you choose how this looks?”
+
+“Not really. For the most part it’s just a clearer view of what is actually above us.”
+
+He grunted at that. “I know you say that, but I’ve never seen half of these features up there.”
+
+She shrugged. “It might be a bit embellished, but if it is, it isn’t conscious.” She felt tears build up and one slid down her cheek. “You know, he took me to a specially curated park, before he got really bad. I could only have been three or four, but I still remember it.”
+
+Rane turned to regard her, giving her his full attention and not interrupting.
+
+“It was a place ringed by magic to remove light pollution for those within, and it was the first time I really looked up and saw the sky.” She swallowed, shaking her head and giving a half-hearted laugh. “It was easy to get such a view at the Academy, so I had the wonder of the view dulled over time, but this?” She gestured upward. “This is how it looks in my memory of that night. Not exactly, obviously, but the sense of it.”
+
+“The wonder of a child, experiencing something with her dad.”
+
+Tala swallowed, more tears flowing freely. “Yeah.” She took several heavy breaths, mastering herself. “He was such a broken man, but there were times…” She swallowed again. “There were times that he was an incredible father.”
+
+Rane squeezed her hand again, letting the silence speak for him.
+
+As they looked up, her Reforging was completely set aside. There would be time for that—likely centuries—and she needed to properly process this. Tala calmed herself once more, closed her eyes and spoke the words she’d wished she’d said before the end.
+
+They didn’t change how she felt, nor did they erase the hurt and anger, she doubted anything would ever fully remove that, but they did need to be expressed. She wasn’t speaking for him, that time had passed. This, she said for herself.
+
+“Thank you for the good times.” She didn’t fight it any more, allowing the tears to truly stream free. “You were right; you influenced me more than I wanted to admit.” She swallowed, strengthening herself before the final utterance. “Goodbye, Dad.”

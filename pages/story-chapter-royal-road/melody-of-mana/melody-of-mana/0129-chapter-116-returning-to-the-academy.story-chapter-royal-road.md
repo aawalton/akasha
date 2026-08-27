@@ -1,0 +1,95 @@
+---
+id: 9b431b94-85a2-5650-81cf-8cbe3e7d680c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116 Returning to the Academy"
+slug: 0129-chapter-116-returning-to-the-academy
+partOf: melody-of-mana
+position: 129
+ownLength: 1846
+unit: words
+ownProgress: 1846
+publishedAt: 2022-04-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/883589/chapter-116-returning-to-the-academy"
+royalRoadId: "883589"
+markedReadAt: "2026-06-29T22:36:50.188Z"
+---
+
+Following all of my admissions to my family things were a bit... strained. Mom was still concerned about a number of things, but seemed to at least be contenting herself for the moment with badgering me about my poor handicraft skills. I didn't really care to learn much more about those, but she was insistent and so we ended up having a bit of time every evening where I was cajoled into practicing with her while we talked.
+
+She had a point that they were considered the proper thing for most young women to know. I didn't like them, but I did have to admit at least that much. According to her research lace making was also considered something important to have a base level of skill at for high status women. Lace was expensive as it could be and being able to make small bits of it yourself would save your family lots of money. In the end we alternated between different things during our after dinner time.
+
+Kala visited a few times and marveled at my new place, giving me a few jibes about it. She also got the suspicious looks from my mother and knew what had happened.
+
+"At least they don't seem to care at your temple." I said one evening after her third or so visit.
+
+"Oh, they do, in some ways, but are also bound by our own beliefs. As long as I am pursuing some form of love they will not interfere unless things get dangerous."
+
+"Like what?""Obsession, abuse, that kind of thing."
+
+"Huh. Any news from other parts of the city?"
+
+"Well, most of those who took refuge in the temple district are returning home. There are a few that are still afraid, or were nobles before everything happened and are trying to figure out what to do now, but it looks like Lord Durin's people are trying to make inroads with them."
+
+"Dad hasn't told me much about what happened to the nobility now that the kingdom has been replaced."
+
+"Well I've not gotten too much information on that front, but I can tell you that a good few died. Some turned during the city's invasion, understanding that we would lose. Some surrendered after, or were captured. It seems that they're being treated differently based on that kind of thing."
+
+I looked over at a big pile of packed things that had been left here just the other day. Between the invasion, checking over, and general confusion my stuff from school hadn't gotten to me until just now, and I was nearly ready to go back. There was also a note from my now former maid Dora, explaining whose they were and how it was all put together. I'd left a note with dad asking him to check in on her as well. If she'd been captured I wanted her treated well for all her good work.
+
+"I wonder how many of our classmates will be returning," I idly mused.
+
+"I suppose we'll just have to wait and find out. On a more fun subject, are you excited about tomorrow?"
+
+"Of course, who doesn't love new clothes?"
+
+A lot of the details of the new academy roster and the like were being kept really quiet, as a surprise or something, but we did know that there would be new uniforms. That was all fine with me as my last one was getting both a bit short and a bit tight in a few spots, and it would have to be adjusted or replaced in short order. I still had it, as the cloth was lovely and it would be a real shame to waste, but I hadn't decided on a purpose for it just yet.
+
+Marcus was the same as always, a bit grumpy, a bit crass, and the best tailor available. He had us come in with a few others for our fittings and made all the needed changes to get the uniforms just right.
+
+A copy of the new design was on display of course, and it was lovely. The primary color was a deep black, with wine colored accents and silver buttons. Most of the former design elements had remained, though the skirt was a bit longer. If I had to be honest I did think this one was better, if just a bit.
+
+My brother had come along with us today and stood to the side as we were measured. Some of the other girls who had at first sent me light glares had straightened right up as he loosed himself, filling the area around him with an angry silver flame. He did otherwise pretend not to notice them. Seemed he had learned some tricks from dad over the years.
+
+As Marcus finished up I watched him work on a piece carefully. In that moment I had an idea.
+
+"Marcus."
+
+"Yes?" He sounded like he knew I was about to be a thorn in his side.
+
+"If I wanted to learn a bit of the kind of magic you use, how would I?"
+
+"Thinking of becoming a tailor?" He sounded unamused, most people didn't want competition in their industry.
+
+"No, but if I could learn just a bit to make my sewing better my mother might stop berating me about it." That comment got me a deep chuckle.
+
+"So you want me to teach you to sew using magic, because you can't be bothered to learn without it?"
+
+"Because I'm better at magic than I am at sewing, and I'm told that I'm completely unacceptable at the latter."
+
+"Afraid that I will have to decline giving you lessons. Though I will tell you that learning to do it by hand will help you understand what you need the magic to do."
+
+I groaned a bit, but he'd at least given me a hint. It had been some time since I'd really begun work on anything truly new and this might be a good project. As I left the shop I made note to see what I could do with some scraps of cloth later on. Not that my mom would be able to do much complaining to me once school started again.
+
+The day to move back to the academy came. I hadn't even unpacked my things so there wasn't too much for me to do. My new maid, a slip of a girl who's name I hadn't even had time to learn accompanied us on our way. Normally I'd have taken the time to speak with her, but my parents were so busy fussing that there really was no time.
+
+"Make sure you write, and keep us informed, and come to visit on your days off." Mom was having a fit. You'd think she had a child go off to a school before by the way she was going, but no, it seemed it was just one of those things that everyone did.
+
+Dad spent his time telling me to be careful, and to not cause any more problems. There were a bunch of new security measures, but he was still wary of having me out of sight. I was also informed that there would be a few students who came from rather trusted families who'd be keeping an eye on things, as I should do as well.
+
+I met with Kala at the gates and left my parents. We were told that there would be an assembly on our first day so we headed to the given location, which was the arena where the entrance exams and a few classes were sometimes held. Oddly it seemed more busy than usual, and there were more faces that I didn't recognize than I did. The school hadn't been that big, so that was really odd.
+
+When we came into the arena and found our seats the answer as to why was immediately obvious. It was packed, there were at least half again as many students here today as there had been in the past, and a number of those we knew were quietly chatting about it. The teachers from where they stood also seemed a bit irritated. I was happy to see that a number of faces I knew were in that booth, though Rooke was absent.
+
+Once we'd found our seats a man with long black hair and midnight blue robes walked into the center of the arena. There was a buzz of conversation until with a motion of his hand a wave of water covered all of the sands, leaving him standing in a shallow, but placid pool.
+
+There were gasps, all of the wizards set up straighter, everyone else just sort of gawked. That amount of water in that short of a spell was pretty much unheard of, as was his fine tuning and control. In an instant he'd properly demonstrated that he was strong enough to put us in our place, and once we'd settled he spoke.
+
+"Greetings everyone, I am your new dean, you may call me Sectanius. We have a few announcements." He paused for effect, looking around at all of us. "As you may have noticed, we have quite a few more students than last year. This is due to several reasons. Firstly, those who have proven themselves in other schools in the empire are now being moved here to study, since this is the site of the most advanced magical academy. Secondly, for our incoming students, the exam is now open to all, with scholarships being given to those who perform but cannot afford tuition. It is my sincere hope that we will have no issues integrating everyone together. I am sure that you will all work with me."
+
+"I think we'll do best if we try to keep our heads down," Kala whispered.
+
+"Yeah, good luck on that." I returned.
+
+"There is also a few small changes in the class scheduling, as I'm sure you'll soon see. I think the majority of you will find it to your liking that Etiquette has been removed from our curriculum." That statement was greeted by a wave of cheers, which he waved off with a smile. "And replaced with Civics. A new class designed to teach everyone their rights, place, and duties to our noble empire."While most people sighed I felt my eyebrows rise quickly. That sounded like an entire class of propaganda. It might be important to change some minds, but from the sound of it we'd be getting a full helping of whatever Lord Durin was selling. I could at least hope that I was wrong.
+
+"Ah, and one final announcement. Since there is no longer a Kingdom of Bergond we shall have to give our noble institution a new title. Thus I am proud to have you all as the first class to the new Academy of Shadows!" There was a good bit of cheering at that, and I joined in lightly. I had a feeling that I'd get to see exactly what Lord Durin was like even if I'd yet to meet him.

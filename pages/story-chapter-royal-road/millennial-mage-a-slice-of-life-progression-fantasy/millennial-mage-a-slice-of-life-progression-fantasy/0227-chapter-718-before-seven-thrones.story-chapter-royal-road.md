@@ -1,0 +1,209 @@
+---
+id: d7ec004e-9241-56ca-82f9-2688ec62fc2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 718 - Before Seven Thrones"
+slug: 0227-chapter-718-before-seven-thrones
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 227
+ownLength: 3113
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3574034/chapter-718-before-seven-thrones"
+royalRoadId: "3574034"
+---
+
+Tala gave a shallow bow toward the seven-fold throne, drawing some hard looks from the various guards despite her genuflection being precisely correct given their relative power and positions.
+
+Eskau Meallain bowed deeper—as was appropriate—but she still didn’t bow as deeply as the guards seemed to expect or wish.
+
+Still, the dwarves in their thrones didn’t change their expression.
+
+The man on the central seat cleared his throat—his immaculate black-streaked gray beard shifting as he spoke. “Welcome, Mistress Tala, Eskau of the House of Blood, Eskau of War with the Black Legion. Greetings Eskau Meallain, Eskau of the House of Blood, armored obliterance of your foes.”
+
+Eskau Meallain gave a self-satisfied smile under her helmet, but did not comment.
+
+“You come on the heels of quite the oddity to the northwest. Can we assume that this is why you are here?”
+
+Tala straightened. “Thank you for granting me such an expedient audience. As you’ve no doubt sensed, there is a tumor growing near at hand, and I come to ask for your support in cutting it free.”
+
+The dwarf on the orange throne, twin in appearance to the one on the green, spoke dismissively, his voice a bit deeper and more resonant. “What you call a tumor could be seen as a healing and solidifying of our world, young one. Why should we oppose the Legion if they do not attack us?”
+
+While she’d expected something like this—most negotiations contained a bit of such push-back—she was still a bit flummoxed. Still, she turned slightly to face the new speaker. “They seek to remove all magic from the world, to enslave all gates and then destroy them when their work is done. They move to slay all who use magic at all, and you would be among that number.”
+
+The dwarf slowly shook his head. “You operate under a misapprehension, Mistress Tala. They do not engage with users of all magic. There is not much magic not originating from a gate or fount, but there is some, and they do not have issue with such. The singular time they forgot that in their desperation, they were put in their place, and they’ve no cause to try again.” He straightened in his seat. “Our source of Magic is not anathema to Reality. Our souls are of no use to what you label a scourge. Our power is unassailable. Even were they to take all of Zeme and suddenly decide to turn upon us, they would fail. It would be a short war. We will endure. Our safety is millennial, Mage.”
+
+She took the use of her most basic title as the slight that it was clearly intended to be. He was not-so-subtly telling her that she did not understand their position at all. And it seems that I don’t. Have the Black Legion been so discerning?
+
+-We have no way of knowing. This is the only settlement known to us that doesn’t use any gate-sourced power.-
+
+Tala tilted her head to the side. “Would it not be a lonely world without all of your customers and trading partners? We will grant your words as true—though we’ve seen no such distinction—but what of it? Will you roll over and go back to sleep because you believe your neighbors’ burning homes won’t set your stone roof ablaze?”
+
+One of the white-clad warriors near the periphery straightened in obvious indignation, hand moving toward his sheathed weapon.
+
+Eskau Meallain grinned once more under her helmet, her left arm crossing her body, a sword hilt forming from her protian weapon, ready and waiting for her right to grab it.
+
+It was a needless precursor, but it conveyed an important message. Moreover, Eskau Meallain was a very known quantity. While Tala didn’t know these pseudo-Hallowed warriors, she would trust the elf against them if things came to blows.
+
+That just leaves three seemingly Sovereign level beings and four true Hallowed for me.
+
+-To be fair, they are single sovereignty.-
+
+I’m not sure that’s better.
+
+-True, it just might mean that the depth and breadth of that power is that much greater.-
+
+Indeed.
+
+Thankfully, before anything could escalate, the central dwarf raised his hand in clear command. The offended warrior released his weapon without delay, shifting back to his position. The orange-throned huffed and leaned back, letting his brother take over the conversation once more.
+
+Eskau Meallain let her left arm drop and protian weapon return to bracer-form at the same time.
+
+“Now, I can rightly understand your perspective, and you are to be lauded for putting aside your differences with those who have so abused your kin in order to oppose what you believe to be anathema to the greater world.” He held up his hand once more as she opened her mouth to respond. “I also appreciate the work you are doing to turn their culture from one of resource acquisition by means of force to one by means of mutual benefit. The former is one reason we have so little to do with the western cities, a few Houses excepted. That said, I must say that I agree with the Black Legion’s objections, if not their methods.”
+
+Tala’s eye twitched, but she was here in search of powerful allies, not to start another fight. “I would welcome a means of power that did not damage the world, King under the Mountain.”
+
+The dwarf gave a knowing smile. “You may call me Roarthac,”—clearly surprised murmurs rippled through the room—“acknowledged one.”
+
+Eskau Meallain tilted her head to the side just slightly, glancing Tala’s way with the corner of her eye in evident confusion.
+
+Tala gave a nod of understanding. “Thank you, Roarthac. I feel no need for a moniker in return.”
+
+He gave a nod in response. “Now, let us speak plainly.”
+
+You haven’t been? But she held her tongue.
+
+“Your very presence on this continent is a… danger to the balance of things. Truthfully, had you not shown restraint and wisdom in maintaining levels of power as they are, you might have been slain as soon as you arrived.”
+
+Being circumspect, but I think they appreciate that I haven’t acknowledged any City Lord.
+
+-That’s my read, yes. I can understand why. If you open that door, you’d be creating a power that might oppose them in time.-
+
+Indeed, and even if I’d already done it once, they would want to attempt to keep me from doing it again. The City Lords are in no danger of traveling and acknowledging one another, after all.
+
+-True.-
+
+The dwarf wasn’t done. “Even still, it was discussed.”
+
+Several of the other seated dwarves showed small tells of displeasure, though if it was about the dwarf volunteering the information, the fact that any had wanted to kill her, or that they hadn’t agreed to do so, she couldn’t tell.
+
+“You represent a greater threat to us than the Black Legion, but we have not smote you from existence. So, I ask you, why should we spend our power and potentially waste the lives of our subordinates on your war?”
+
+“For the care of those you trade with? For love of your fellow sapients? For stability of the world?”
+
+Roarthac shook his head. “The Black Legion would trade with us, and likely more profitably.” He once again held up his hand, forestalling her. “We have not done so, not yet, but the option is there. So, your first point is invalid. Moreover, you should be glad that profits are not a motivation behind our overarching decisions. We do have solid relations with many of those we trade with, but that is not sufficient to risk those we are bound to protect. For love of fellow sapients?” He chuckled ruefully. “Were that such was enough. If it were, there would be no wars at all. But you forget that not only are the Black Legion sapient, but if their work was completed, the world would be safer and more stable for uncounted generations into the future. I’ll grant that many sapients will die no matter how this turns out, but in the long run? Our world will likely be better off if they achieve victory. Which,” his smile grew slightly consoling, “neatly addresses your last point, I think.”
+
+Tala growled. “If that is how you feel, why are you not trading with them? Why aren’t you helping them in every way you can?”
+
+Several of the dwarves once more gave off irritated tells of one kind or another. Roarthac nodded. “Some have argued to do just that. Three things have stayed our hand. First, our duty is to our people first and foremost. While we would be benefited in many ways if the automata won your little war, that benefit is not so great that it is worth the lives of our folk. Second, we have trade agreements already in place. We honor our word and will not break those agreements even if we might gain more from doing so. Finally?”
+
+Tala felt a ripple in the authority of the room, and she knew down to her core that only she and the seven seated dwarves could hear the next words.
+
+“To be Sovereign is to better understand the balance of things. Were we to act, dozens would join the clash simply because of our involvement. At the end of that fight, we would all lose, and our world might not withstand it.
+
+“Unless we are attacked directly—or another Sovereign acts against our interests directly—our participation would be worse for you than our absence no matter which side we chose to join.”
+
+Tala gave a slow nod. “That is the core reason, isn’t it.” It wasn’t really a question. “To send your people without your support would be a violation of your role. To offer your support would trigger an escalation that would drag in otherwise uninvolved parties.”
+
+Roarthac nodded. “In a word? Yes.”
+
+She sighed. “I… understand.”
+
+“I must say, though.” The dwarf took on a fatherly aspect. “Acknowledging your fellow Eskau was a stroke of brilliance. It made your position less unique, and therefore we would gain substantially less by killing or containing you. In fact, doing so would likely trigger this other to garner support against us. Moreover, you chose one who is reclusive by nature, making eliminating him far from an easy task in any event, and reducing the threat he poses unless we do something as foolish as eliminating you.”
+
+Tala arched an eyebrow, hiding her confusion. She also hid her reaction a moment later when it clicked into place.
+
+Alat sent the impression of smacking herself in the face. -We acknowledged Eskau De-arg.-
+
+Tala sighed inwardly. We acknowledged his mastery and expertise in balance and the importance of a perfect, perfectly balanced moment, which are both in alignment with his growing authority.
+
+-Indeed.-
+
+Tala sighed, outwardly this time. “It is sad that such assurances and contingencies are necessary. I had hoped to find allies here.”
+
+Roarthac sighed in return. “Were this a personal decision”—he gestured to the male and female dwarves sitting with him—“for any of us, we would support you, but from the perspective of what’s best for our people? Of Sovereignty? We cannot.”
+
+He hesitated a moment, and a female dwarf sitting on the indigo throne spoke up, the final of the three who sat above the others, “If you do end up requiring a Sovereign”—she gave Tala a look that said such should be expected—“Anatalis is positioned to be able to aid you without unbalancing the status quo, at least he is if you can provide sufficient cause.”
+
+Tala… did not like all that was embedded in that. So, another Sovereign or god-beast being involved wouldn’t be enough to move the powers of the continent. There would need to be more? Or it would if there were proper and obvious cause?
+
+“He is among the most ancient of us, and with his mate? If he moves, few will doubt that he has cause, and none should oppose him… depending on what his involvement entailed.”
+
+Tala gave a bow of acknowledgement toward the violet throne. “Thank you for your advice.” As she straightened, she returned her gaze to Roarthac. “I have one final request, given it seems we cannot expect military aid.”
+
+The central dwarf nodded. “You are correct in that. Ask.”
+
+“May I examine a magic-engine?”
+
+Utter silence washed through the room. The guards had been subtly shifting, not creating any noise that a mundane ear could hear, but Tala had been able to pick up the small movements. All that ceased.
+
+It wasn’t that what she said had shocked them. After all, the Mountain Kings’ authority was still locking their conversation to the Kings and Tala. Even Eskau Meallain was not privy to the most recent back-and-forths.
+
+No, the silence was due to the omni-present authority clamping down in an almost unconscious spasm of surprise.
+
+Tala felt like a blanket had been thrown over her, weighing her down. She likely could have thrown it off, but she didn’t know how large the covering was, nor what it was truly affixed to.
+
+The moment passed, and all dwarves looked toward the central throne. Even the guards seemed to have had their attention forcibly dragged there.
+
+Roarthac’s expression seemed carved from stone, but it didn’t look angry or even dower. Instead, it looked to be filled with import. “The boon’s requirements have been met. We will honor our agreement and grant this request, Tala of Two Lands. You bring with you division and cohesion.” He gave a laughter tinged with mania. “If you had a natural existence soul, I’d either kill you where you stood or try to marry you. You have grasped such a nature, but it isn’t who you are at the core.”
+
+Tala stiffened, keeping her physical reaction to just that with a supreme effort of will. Lea.
+
+-Indeed.- Alat’s tone conveyed that she was devoting much of her cognition to delving into everything relating to this development.
+
+Tala took the opportunity to probe. “Why?”
+
+“I was sure you’d have heard. Existence made manifest and sapient will be required to shift Zeme’s projected trajectory, and the foundation for the needed tools were forged into the endingtree by a Sovereign of the past. Many others have nudged pieces toward their needed places and contributed in one form or another.”
+
+Tala hesitated a moment, but when he didn’t continue, she decided to turn from the dangerous subject. “And what of the magic-engine? How is that connected?”
+
+He waved that off. “That is for us, not outsiders. We will grant your inspection. You will be observed and no harm will be possible.” He grinned. “So feel free to examine as aggressively as you’d like. We will let you know if that changes.”
+
+Tala… had much to think on. Still, she bowed—a bit deeper than was strictly required—and expressed her gratitude. “Thank you.”
+
+She felt a minute increase in the weight of the authority surrounding her. The seated dwarves clearly noticed as well. “Interesting that one so young can affect so much. We will watch your growth with great interest.”
+
+“But you won’t help.” She responded bitterly.
+
+“You already have your answer to that.”
+
+Tala considered for a moment, deciding to try one more time. “What is something that is impossible that, if it happened, would cause you to come to our aid?”
+
+Roarthac chuckled. “That is a wise question. There are three things. First, if the Black Legion were to assault us once more due to no fault of or interference from you or those aligned with you.”
+
+She grimaced but nodded. Yeah, we can’t gamble on them making that mistake twice.
+
+-Indeed.-
+
+“Second, if you and those in the western cities completely gave up on your use of gate-derived power and shut all of them for good.” He chuckled. “But in that case, the Black Legion would consider their job done and depart in one manner or other regardless.”
+
+“And the final way?”
+
+“If you were to prove that helping you would be less costly than staying out of the fight.”
+
+She sighed and nodded. “And for that, I would have to prove that our victory was significantly beneficial to you and that helping us both would be needed and wouldn’t cost more than the gained benefit.”
+
+He nodded. “Just so.”
+
+She gave another bow, exactly as was required by their relative ranks. “Thank you for answering my question.”
+
+“Of course. There is little more sacred than a genuine question.” He clapped his hands, and a side door swung open admitting a young looking dwarf. Roarthac momentarily allowed himself to be heard by others. “Take Mistress Tala and Eskau Meallain to the south-central chamber.”
+
+The dwarf’s eyes widened, but he bowed nonetheless, offering no argument or verbal counterpoint. “As you command.”
+
+The seven enthroned dwarves stood as one, causing every guard to stiffen in surprise. Roarthac explained, his voice still hidden by the working of authority. “You have given us a permanent boon whether you realize it or not, and we would balance the scales.” He gave a wry smile. “As we cannot predict if there will be opportunity for such in the future, we will do so now.”
+
+Tala began to frown, when the seven gave very slight bows in her direction, the female dwarf speaking on their behalf yet again. “We see your mastery of your self and your expanded spaces, of your iron and your magic. We declare no contest in those realms of authority.”
+
+The human Eskau staggered as authority fell upon her like a mantle. It might have driven her to her knees, but she did not wish to fall. As such, she did not fall.
+
+Instead, she recovered almost immediately, feeling a bolstering of the nebulous power within her.
+
+It did not advance her toward Ascended, but she felt like she might be a bit more Hallowed now. If only there were an easy way to tell…
+
+“I accept your acknowledgement with gratitude and contentment at the truth of it.” The power settled more fully upon her shoulders, seeping into her very being. “While we may not part as allies, I state we do not part in opposition or with unresolved debts.”
+
+The seven sat and intoned in chorus. “No opposition, no debts.”
+
+There was a relaxing of the restrictions of authority around her, but she kept her threefold sight contained. Their earlier reprimand had been fair and true. She had no right to look in on all the secrets of this fastness.
+
+Without another word, she and Eskau Meallain gave appropriate nods and departed, following the young dwarf toward a magic-engine.

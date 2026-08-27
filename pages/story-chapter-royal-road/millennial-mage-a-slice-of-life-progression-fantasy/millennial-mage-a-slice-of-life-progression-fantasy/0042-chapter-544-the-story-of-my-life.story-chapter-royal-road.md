@@ -1,0 +1,255 @@
+---
+id: 9afc038f-5454-50e2-8c0f-94d277b3cdc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 544 - The Story of My Life"
+slug: 0042-chapter-544-the-story-of-my-life
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 42
+ownLength: 3004
+unit: words
+ownProgress: 3004
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2151952/chapter-544-the-story-of-my-life"
+royalRoadId: "2151952"
+markedReadAt: "2026-06-29T19:36:38.695Z"
+---
+
+Tala was mentally and magically exhausted, having just closed the cell with the seal cleaned and reset for another uncounted span of internment.
+
+Still, she couldn’t just relax as the leader of the Defender unit who had been tasked with helping her—and whom she hadn’t used, nor even informed as to what she was doing—stood behind her.
+
+Tala turned, meeting the woman’s stare. “Can I help you?”
+
+“What. The. Rust.” There was genuine confusion, along with no small amount of budding anger, in the woman’s tone.
+
+Tala lowered her chin a bit, along with her voice. She was in no mood to deal with this sort of thing at the moment. “Excuse me?”
+
+“You heard me. What the rust? Did you just crack open that cell without us? Do you have any idea how risky that was? We need to be here to keep the prisoner back. This isn’t some sort of sightseeing venture for you to go around looking wherever you want.” There was a mixture of frustration, concern, and contempt in the tone, by that point, and Tala was honestly surprised that the woman stopped her mini-tirade to let her respond.
+
+Terry let out a dismissive trill, but Tala ignored the advice to just kill the woman. Terry probably wasn’t actually serious. Instead, she shook her head. “No. I didn’t ‘crack it open.’”
+
+The woman immediately opened her mouth to argue, finger raising to point at the obsidian, which clearly still radiated magic after having been used so extensively.
+
+Tala, however, was done with this conversation. She just wanted it to end. She had a splitting headache, and Alat was mentally drained to the point of only grunting irritatedly at the Refined’s attitude. The Paragon lifted her hand, forestalling the other Archon. “No. You will listen. As I said, I didn’t crack it open. I opened it wide, held the prisoner back, and fixed the seal. The job is done.”
+
+A blank, uncomprehending stare and a once again slack jaw were the only immediate responses. Finally, the woman closed her mouth and huffed, clearly incredibly off balance, but quickly regaining her sense of the situation. “Very well then. I have three things to say.”
+
+Tala cocked an eyebrow but didn’t otherwise respond, willing to allow the woman to say her piece.
+
+“First, thank you for doing the job well. I’m sure it speaks very highly of you and your capabilities that you are able to handle such a thing all on your own. It also explains a bit of your stand-offish nature, earlier. We were not only unnecessary to the task as assigned, we likely slowed you down. Additionally, you are the Paragon on this mission, and thus you have ultimate say on how this cell was to be dealt with. In that vein, you exercised that authority. I don’t happen to agree, but I don’t have to.”
+
+Tala grunted, but nodded in acknowledgement of at least some parts of the rambling ‘first’ point. “You’re welcome. I’m glad that we are agreed on so many points.”
+
+“Second.” The woman’s eyes hardened. “You arrogant bit of slag.”
+
+Tala blinked in surprise, rocking back just a bit at the force and emotion in the words.
+
+“You couldn’t even be bothered to talk to us? To have us ready in case something went wrong? To let us know that something might go wrong? We were already here. Would that have been so difficult? Do you realize that if the prisoner escapes we’re to blame too? The Council won’t care that you went off on your own initiative. That doesn’t even factor in the fact that the prisoner would have escaped, and that’s bad for everyone. We were tasked with this cell, and you were meant to be our aid. You were the final arbiter of the means, but we were still the ones tasked with the job. Instead of honoring that and following even a modicum of protocol, you risked our reputation, along with the horrifying chance of that prisoner escaping? And you couldn’t even have been bothered to let us know? Or give us any sort of indication or warning?” The unit leader shook her head at Tala. “I have no words…”
+
+Tala waited a long moment, fighting back dozens of biting retorts. None of them would be useful, and she didn’t really want to get into a shouting match—or even a longer discussion—with this woman. When nothing more was forthcoming, Tala grimaced and prompted, “What was the third thing?”
+
+“What?” The woman was clearly fuming, and the question just as clearly caught her off guard.
+
+Tala sighed. “You said you had three things to say. You only made two points.”
+
+“Oh…” The woman grimaced, her cheeks reddening a bit. “I… I assumed that I’d think of something else, and I didn’t want you to interrupt.”
+
+Tala chuckled. “But you didn’t think of something else.”
+
+“But I didn’t.”
+
+The humor of the non-sequitur broke some of the tension, but not much. On Tala’s part, she actually remembered being in an almost identical situation, but from the other side. Not that she was about to share that with this woman…
+
+Tala grimaced, sighed, and nodded. “You’re right. I should have been better… been more communicative.” Dozens of excuses flashed through her mind yet again, but she put them aside. “I could make excuses, or give my reasons, but that doesn’t change the fact that you’re right. You have my apology.”
+
+The other woman grunted. “Well, that’s a pleasant surprise. Thank you for that, at least… I’m still not gilding this in my report. If I’m honest, you’ll likely be reprimanded then promoted.”
+
+Tala laughed again. “That is just about the story of my life.”
+
+The Refined regarded her for a long moment before grunting again, this one sounding more exhausted than the first. “You know, somehow that doesn’t surprise me.”
+
+* * *
+
+The return trip was… unpleasant without being actually hostile.
+
+The other members of the Defender unit were similarly shocked and irritated with Tala’s means of closing the cell, but thankfully, none of them were as enraged or vocal about their feelings as their leader had been.
+
+Even though it was night by that point, no one mentioned delaying their return to Alefast.
+
+They quickly put out the remnants of the fire and otherwise made the evidence of their presence fade away. They were all eager to get back home, it seemed.
+
+Still, Tala deeply wished to just leave them to it and return to Alefast on her own. She almost even offered to take them, but something told her that the offer wouldn’t be well received, let alone accepted.
+
+Instead, she did as she’d been bid and stuck with them until they reached the city gates and were let inside.
+
+She exchanged terse goodbyes with them just inside the gate, and moved herself into Kit, where she promptly flopped down on the grass near where Rane was tinkering with something.
+
+She groaned, and he glanced her way, a smile tugging at the edge of his lips. “That bad, eh?”
+
+“Yes and no…”
+
+Something in her tone must have been telling, because he hesitated for only a moment before quickly tightening the part he was working on and willing himself over to sit by her side. “Do you want to talk about it?”
+
+She laid her forearm over her eyes and sighed. “No… Yes? I don’t know.”
+
+He chuckled. “Those are the options, yes.”
+
+She lifted her arm to give him a fake glare beneath the starry sky.
+
+The look had no effect on him—even though she knew he had no trouble seeing it—and he just shrugged. “I’m here either way.”
+
+With that, they fell into silence.
+
+That silence only lasted about two minutes before Tala groaned in frustration yet again and began speaking.
+
+She told him about the whole experience. She didn’t gild any part of it, laying the truth of things bare before her husband.
+
+During the retelling, Terry flickered into being, curled up beside her neck and shoulder, and she absently scratched at his head and neck, exactly how he liked it, while continuing the tale.
+
+When she was done, Rane simply continued to sit with her in silence, and while she was initially irritated, after a lengthy pause, she realized that she actually really appreciated the lack of pressure to continue or do anything else.
+
+He had simply listened to her attentively, and he was now simply being with her.
+
+Part of her positive reception of his silence was likely due to her threefold sight, which assured her that he wasn’t distracted by other things, or lost in thought, or anything of the sort.
+
+She wasn’t sure if he would ever have broken the silence, as before he did, there came the willful, mental equivalent of a knock on their door.
+
+Master Grediv had entered the range of Kit’s reach, and somehow extended his authority outward until he brushed against their sanctum, allowing the action which drew their attention.
+
+Rane raised an eyebrow at Tala, and she sighed.
+
+A moment later, she’d willed them both into chairs, a small table before them and a third chair set opposite.
+
+Terry flickered to her shoulder, still maintaining the act of sleep, though the very act of his flicker—and the precision of his landing—meant he was well aware of what was going on around him.
+
+With things set and ready, Tala opened a portal for the Paragon, the human leader of this city.
+
+She could have just pulled him in—and he likely would even have let her—but she felt like it would be more polite to open a way and allow him to step through under his own power.
+
+Once inside, and after the portal closed behind him, Master Grediv gave a shallow bow. “Mistress Tala, Rane, Terry, it is good to see you all."
+
+They returned the greetings, Terry even giving a low trill of acknowledgement though he didn’t open his eyes.
+
+That drew a smile from the older man, but it quickly faded. “I suppose you’re likely aware of why I am here?”
+
+Tala sighed. “The cell?”
+
+He nodded. “The cell.”
+
+She grimaced, then motioned to the chair across from her. “Alright. Let’s get this done.”
+
+Master Grediv sat down, shifting slightly to get comfortable. After a moment, right as he was opening his mouth to speak, Tala cut across him.
+
+“Can I get you anything to drink?”
+
+He hitched, clearly thrown off what he was going to say. “Oh… um… no, thank you.”
+
+Tala nodded. “Alright. Let me know if that changes.”
+
+“I will.” He closed his mouth and frowned, clearly recollecting himself. When he opened his mouth once again, Tala interjected once more.
+
+“What about something to eat?”
+
+Master Grediv twitched, clearly being thrown off by the interruption again. He grimaced. “No, thank you.”
+
+“As you wish, and you’ll let me know if that changes?”
+
+“Yes, of course I will.” He gave her a narrow-eyed look. When she didn’t say anything else for a long moment, he went to speak, and Tala held up a finger, forcing him to pause.
+
+“Oh! Is your chair to your liking?”
+
+He gave her a flat look. “You are obviously doing that on purpose.”
+
+Tala sighed, and Rane grinned but didn’t comment.
+
+“Are you actually ready? I can come back tomorrow if you need the night to yourself. It is rather late.”
+
+She grimaced and shook her head. “No… I’ll listen. I’d rather not postpone this…”
+
+Master Grediv cocked an eyebrow, but when she stayed silent, he nodded once. “Very well. We’ll start with the good.”
+
+She nodded. “Very well.”
+
+“Based on the unit’s report as well as your own reports—both the information given during and after the closure of the cell—you completed the task exquisitely and in a manner without fault from a technical standpoint. You even revealed a competency that we only occasionally see, mainly the ability to choose among more than one point as to where to connect the breach to within the cell.”
+
+Tala smiled. “Thank you.”
+
+At that moment, it clicked that Master Grediv was essentially taking the same approach, and using similar language, to the Defender unit leader.
+
+Oh… Well, that doesn’t bode well.
+
+-Did you really expect something different?-
+
+…No…
+
+“Now, that said, you did not do well from an overall perspective, a relational one, or as a leader.”
+
+Tala winced but didn’t argue.
+
+“While it is true that you had final say on how the cell was to be dealt with—contingent on advice from myself and others—that does not give you carte blanche to simply cut out the unit that was assigned to you. It was their task, that you were simply meant to oversee.”
+
+Well, at least he’d been kinder about it than the woman had… Tala sighed. “You’re right, of course.”
+
+Master Grediv leaned back. “Oh? Tell me why.”
+
+That pulled her up short. She took a moment to consider, then shrugged slightly. “Because it was insensitive of their feelings, as well as being reckless to not at least have them informed that something was happening.”
+
+The man huffed a laugh. “While that is true, no. That isn’t the true ‘why’ behind what you did being wrong.”
+
+“Oh?”
+
+Rane was smiling, but didn’t volunteer a comment. Master Grediv wasn’t content to leave his former apprentice on the sidelines, however. “Rane, would you care to guess at the reason?”
+
+Rane shrugged, clearly happy to participate once invited. “Tala, love, how much would you say that you grew in power and understanding through what you faced within the cells, while working as a Defender?”
+
+Her eyes widened. “Oh… well, that explains why two Paragons don’t just zip around, closing every cell.”
+
+Rane smiled. “Exactly. So?”
+
+She sighed. “The cells are a real-life training tool to not only test and strain the Refined, but also to show them the need to grow stronger, to help keep their drive to advance alive. Without such stark reminders, it would be all too easy for Refined to grow stagnant in their immortality.” She let out a single huffing chuckle. “Even with the cells, few ever advance.”
+
+Master Grediv nodded. “Indeed. Though, in truth, those capable of closing a cell on their own are fewer in number than we’d like. Additionally, a bad match-up in power sets could lead to the death of such a Paragon and the freedom of a particularly nasty threat. If the only goal were maintaining the cells, however, we would send scouts, then assign Paragons—or even Reforged—as necessary to handle the threats inside.”
+
+Tala sighed. “But that’s not the only goal.”
+
+“Indeed not. Cells, and indeed the entire waning process, is a carefully monitored training tool for our Refined. Even those who never advance further are tempered through the experiences they gain. It is invaluable experience for each and every one of them.”
+
+“And I mucked that up.”
+
+“Indeed. Thankfully, you aren’t a well known Paragon, and your recent roots in the Defenders will help excuse your actions and mitigate any fallout that might have otherwise come from this.” He sighed. “I assigned you with that unit precisely because I had hoped that they would learn from you. I’ve had reports of you connecting with those you work with before, and I thought that such a connection would help draw out the best in them. They’ve been struggling a bit, and you are an exemplar of this generation of Archons.”
+
+Tala hung her head just a bit. “I know, but I…” She swallowed. “I didn’t really want to connect with them.”
+
+Master Grediv arched his eyebrow once again, leaning back and waiting for her to continue.
+
+“I… I don’t want to get to know anyone else, just for them to die, and Defenders die.”
+
+The man grunted, and Rane reached out and took her hand. Master Grediv leaned forward and rubbed his hands over his face. “I see. I apologize; I did not consider that Master Girt’s death was still affecting you so strongly.”
+
+Tala bristled, almost snapping back at him, but she let the words die in her own mind.
+
+He sighed again. “This is my fault, really. I was here, with you, when we all saw the statue of remembrance. I saw how affected you were.” He grimaced slightly. “Have you shown the rest of your old unit yet?”
+
+She shook her head. “There wasn’t a good time before the mission to maintain the cell.”
+
+He nodded. “Thus showing that I sent you out before you’d finalized that.” A sigh escaped his lips. “I know better and should have thought better before doing as I did, but that is little comfort.” After a long moment, he gave a decisive nod. “Please take the next few days, grieve with your old unit. Lay your friend to rest fully in your own mind. Handle any lingering tasks you might have in that regard, and then I will have Rane do his first cell as Paragon in command.”
+
+Tala hesitated. “Is… is that it? I won’t be reprimanded further?”
+
+“Do you want to be?”
+
+She shook her head. “No? Maybe? I just sort of expected it.”
+
+He smiled kindly. “You already know that what you did wasn’t right. This isn’t a case where I have to convince you of that. You aren’t a child. I don’t believe that you will act in that way again. Am I right?”
+
+She nodded decisively. “Yes, Master Grediv. You are correct.”
+
+The older man smiled. “Then, I don’t see a need to discuss it further.” He pushed himself up, sliding his chair back and away from the table as he did so. “And with that, I will take my leave. Good night to you both.”
+
+“Good night, Master Grediv.” They responded almost as one.
+
+Tala opened a portal for him to depart, and shortly, they were alone once more.
+
+Rane squeezed Tala’s hand. “Are you alright?”
+
+She nodded even as she sighed. “I almost wish that he’d shouted instead…”

@@ -1,0 +1,175 @@
+---
+id: d3209a60-cb9b-5e2d-ad04-eca29c422b9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 Birth, death, and gathering shadows"
+slug: 0008-chapter-7-birth-death-and-gathering-shadows
+partOf: melody-of-mana
+position: 8
+ownLength: 3447
+unit: words
+ownProgress: 3447
+publishedAt: 2021-06-22
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/703693/chapter-7-birth-death-and-gathering-shadows"
+royalRoadId: "703693"
+markedReadAt: "2026-06-29T22:26:31.173Z"
+---
+
+It took a few minutes for the shock of it to sink in, once it did all the children, self included, were hurried off to bed. Some of the older boys were pulled away by their fathers though, Rod amongst them. I had some idea of what war meant, but there were a number of questions.
+
+First of all, the age range of the men called up was huge. Most of the adult men in the village fell in that range, even if there was an exception for those with lots of young children. Secondly, the timing, it was late summer, harvest would come by soon, without those men... I almost shuddered at the implication. Finally, this was a royal decree, there was no getting around it, if you were in the called group, you would show up, or you would be charged with a crime that might well end in your death, that was not normal.
+
+I could guess why the older boys were at the men's meeting. If so many were leaving, someone would have to work the otherwise empty fields, at least through the harvest. Not to do so would be a disaster of impossible proportions. The idea of all that food wasted almost made me sick.
+
+"John," I whispered over from where we were laying on our little mattresses.
+
+"Yeah," he leaned over, looking at me.
+
+"This is really bad isn't it?" I asked.
+
+"Worse than I think either of us know little sister," he said, he looked worried, "but it'll be okay," I wished I could believe that.
+
+"I'm scared," there was no point trying to hide it now.
+
+"Pull your mattress over here then, I won't let anything happen to you," when I did so he wrapped an arm over me protectively. My brothers could be real flakes sometimes, but I knew they were both on the way to becoming great men.
+
+I looked over to where my mother was beside the door. She looked as if she could pop any day, the stress was apparent on her face as she waited for my father to come home, it was the last thing I saw before I fell asleep.
+
+The next morning everything happened in a bit of a rush, as soon as breakfast was eaten my father looked across the table to me, there were bags under both his and Rod's eyes. I had no clue when they'd come in last night, but it must have been late, for I'd heard neither of them come home.
+
+"Alana, you're going to learn some new things from Mystien in the next few weeks. You need to make sure you master them, as quickly as possible, no excuses," I nodded at dad's firm words, "You'll also be doing much of the work around the house come fall, so learn as much of that as you can," that was an odd one, but not a big deal.
+
+"John, you and your mother will be helping Rod take over a couple of fields. It'll be harder work than you're used to, and you'll still be having training in the evenings. Some of the older boys will be joining us too." mom nodded along, seems she'd talked with him earlier, perhaps last night.
+
+"The other boys?" that made John blink a bit.
+
+"Yes, there are some who are still underage, but not by much, everyone of age is of course leaving, but others will likely have to go soon too. We talked last night, giving them a bit of training now may save their lives later," dad sounded like a military commander right now. I knew he was some kind of former soldier, so that made sense.
+
+"A few of the men just above age may join as well. Just in case... they decide to call up more." He seemed bothered by that idea but was hiding it.
+
+I hurried off to my magic lesson right after breakfast, quite nervous as to what would happen.
+
+"Alright," began Mystien, he already had several books pulled out and opened, "You know that there are things that bards can do that others cannot already," I nodded to him, "We will be focusing on two abilities, also I'll be trying to teach you some attack magic," my eyes widened.
+
+"How serious is this? How bad is this whole thing?" I asked.
+
+He gave me an appraising look, "You are smarter and wiser than any child has any right to be Alana, it's disturbing sometimes," before sighing, "I've never seen it this bad. Taking men just before harvest is a move of desperation, it means they don't expect many of them to come back, because if they do, there'll be no food. Even if they don't, many will starve," I just stared for a few moments, processing.
+
+"Two abilities, then attack magic. First, Jackson explained to you that bards can summon complex things, like bread, we're going to work on that, as we may well need it," he took me over and had me start reading the books he'd set out. They described the process and visualization, as well how hard it was.
+
+The standard for bread was to visualize its structure, the holes and the feel of it, this was exhausting. I managed to make a roll not much bigger than my small hand using this before I had to stop and let my mana regenerate. The taste of that first roll could barely be described as bread.
+
+My second attempt I tried something a bit different. Visualizing the process as I understood it, the kneading to bring the gluten together, the yeast which made bubbles of carbon dioxide when it rose, the heat of the oven, bringing all the parts together. This worked much better, I got a roll that was twice as large, and quite a bit more tasty, it even had a slight sweet note. That aside, my mana was still tapped out from that, leaving me drained.
+
+Learning new spells was draining to an insane degree. Mystien had explained when we first started that at my age, it was best to master a few abilities that had strong use, then to move on slowly. Apparently many were the spellcasters who tried to learn lots of things fast, and ended up never developing an ounce of power. I could tell from all my own practice that he was right, repeated practice of a few things made them much stronger, whereas new things were painfully weak.
+
+We continued all morning. I'd practice until I was drained, then he'd read me descriptions from other bards on how they did this same spell, running me through the processes and visualization. The size of my little roll only increased slightly, but it did increase. By the time we finished I felt hollowed out, using so much mana was exhausting in it's own way. The rolls became our lunch, I even had a couple to take home for dinner.
+
+It was about a week after that that my mother went into labor. It happened in the middle of the night, several women from our town came over to help. The men were kicked out of the house with little ceremony as they worked, prepping everything, including one bringing a weird looking chair. Once it was in place it became obvious what it was, and that it was normal in this world for women to give birth from a seated position, rather than a laying one. That was a bit surprising, but I'd heard of some places doing that, so it wasn't alarming or anything.
+
+The whole process took until the sun was beginning to rise. I spent most of it fetching things and watching closely, so that I could learn what to do. That was considered important.
+
+It was a girl, and to everyone's heartcrushing despair, stillborn, there was nothing that could be done, nothing anyone could do. Both of my parents wept, mom was inconsolable. After a time dad and the boys went to bury her. It was a simple grave in the hamlet's communal graveyard. The marker read 'Beera' the name they'd chosen if the child should be a girl. Mom just held me for the rest of the day, refusing to let go.
+
+After that my little sister was never mentioned again in our house, it became an unspoken rule. I would every now and then see my mother's face change, the memory flashing by, but she never said a word about it. For the next several weeks my father too would sometimes just hold her. I learned by actually visiting the grave that there had been many such deaths, but by some unwritten agreement, babies that died at birth were not talked about by anyone. The culture shock of that left me reeling.
+
+So it became almost a footnote, the uncounted lost children of a world, those who never knew life.
+
+My whole family was slowly overburdened for the next couple of weeks, with so many of our men leaving the women had to take up their work. Everyone in town was working flat out. Most of said work was hard, heavy labor, and while they'd done some in the past, the increase was just too much.
+
+Within three weeks though, I was reliably producing enough food to give my mom a break on some cooking. That was when Mystien introduced the second new lesson.
+
+"Jackson didn't tell you, and I hesitate to at your age. I wouldn't if you were any other child," he began, "Do you know why bards are so often found in taverns?" he asked.
+
+"Because the average bard is a bit of a drunken womanizing flake?" I asked. That got me a hearty laugh.
+
+"No," he continued, "one of the quirks of bardic magic is that if a participating crowd is present, the effects can be improved for a given spell. It's a minor effect, and each new person helping gives just a bit less of a boost then the previous, but it can be a good boost, particularly with enough people," he explained.
+
+"That sounds powerful," I said, blinking at what certainly had to be some kind of hack.
+
+"It does, but it's not as much as you'd think," he explained, "The difficulty of controlling it increases far faster than the power boost. Try to draw on too many at once and you'll lose control completely. Even absolute master bards can only control around fifty additions at once. Twenty is in fact what most can do when fully trained. If we can get you up to five for now I'll be happy," he pulled out some books on this technique as well, showing me.
+
+Over the next few days, the method of using others was explained thoroughly between my castings of the bread spell. It alternated with stories of bards who'd overreached and the horrible things that had happened to them.
+
+The most telling of these was some foolish man who, in a bid of desperation to end a war, tried to focus an entire stadium of people. His spell had worked, protecting his city, but the backlash was so great that he blew up, taking a fair chunk of the stadium with him. I shuddered to think the kind of magic that could have been worked with some of the concerts on Earth.
+
+Of note is that the additional participants didn't have to know anything about what you were trying to do, they didn't have to have any mana either. What was needed was for them to willingly join in your performance, lending their voice, or whatever performance you were using, to your own.
+
+After several days, Mystien and I started singing together as I cast, we used a simple children's tune. Using this technique was weird. Having others join you created a sort of reverb. The best way I could describe it was like being aware of an additional speaker being added to my magic. I had to manage this additional boost as I cast. The whole thing was a bit distracting, like adjusting the levels of it mid song without stopping, but the power boost was real, almost half again as much juice.
+
+The additional bread was, at this point, more than we needed. As such it was given to some of the families in town who were having a hard time of it.
+
+It took a few weeks before we started adding more singers to our lessons. Mystien elected to use children whose fathers had left. This had many benefits, it acted as free babysitting, the children got fed while with us, and those that came went home with some bread for lunch and dinner. It was so popular we had to start a rotation of the kids who needed it, as I couldn't manage many at once.
+
+Being taught attack magic didn't begin until the harvest started, which was notably earlier than in previous years. The theory was introduced a few days before while my mana was recharging.
+
+"Bardic magic is poor for almost all attacks, even those it has are not particularly strong," he returned to his lecture mode, "What we'll be focusing on is a type of directed sonic attack, it can cause minor damage, but will mostly be painful and disorienting. It's something to use as a last resort, so you can escape," then I was given a rundown of what was basically a sonic scream. It even required a quick, harsh movement for it, a scream being the standard form for most bards.
+
+I had to practice this one after all our helpers had gone home, and more often than not, alone. It was directed, but even those not in the line of attack still got a bit of a taste. I had to use it on Mystien every few days to show him how I was progressing. By the time harvest was finishing up, he declared it good enough that I could practice on my own. I supposed I'd reached a level where he no longer wanted to expose himself without reason.
+
+My family was ground down by the work of the harvest, I barely saw them except at dinner, which was a quiet restful affair. We'd all worked hard, since after my magic training I'd had to do most of the cooking and cleaning for the household. Without magic it would have been impossible, with it, it was barely possible, stretching my body and mana to their absolute limits. Once harvest was in though, we knew it would all be better. Winter was a much more restful time.
+
+I was there when the tax man came, this world's version of the IRS was significantly simpler, but no less hated. I didn't understand at first why he'd come with so many guards, or why they were all armed to the teeth. When he announced that Lord Hazelwood would be requiring the same amount from our little hamlet as in years past, I understood. Number of guards notwithstanding, he almost had a riot. The crowd roared in rage hurling insults at the men.
+
+"You greedy bastards we lost a third of our harvest!" one man shouted.
+
+"You take our men and now this, screw off!" came a woman.
+
+"Lord Hazelwood wants this much, tell him to bring his fat ass down here and get it himself!" Sorren yelled.
+
+"If my husband were here he'd rip off your arm and beat you to death with it!" another shrill voice added.
+
+The crowd was about to burst, but farmers against soldiers was a losing move. Dad hadn't said anything and was moving to the side, he'd already sent my two livid brothers back to where I was, well away from the main crowd.
+
+"ENOUGH!" The roar was almost loud enough for me to feel it, and the twenty foot high wall of water that sprang between the two sides left no doubt as to who was responsible. I'd never seen magic like that, I'd never seen the old wizard actually be serious, and the sight of it shook me.
+
+Mystien strode forward, it would appear he'd scared the soldiers too, as they visibly shrank from his approach. He pulled a bag from his robe and threw it to the official.
+
+"That's my share, and an additional fifth of what the rest of the town owes, you may count it if you like," he spoke loud enough for everyone to hear him. He paid his taxes in coin, that or grain were the most common means of payment.
+
+"We can take care of the rest," dad spoke to the crowd, trying to calm them, "and if anyone needs help afterwards, they'll have it," his words carried some weight, and with the two of them together the crowd backed down. It was tense as everyone paid, mostly in goods, but nobody tried to attack the official or his guards.
+
+When it was all said and done, I sighed in relief.
+
+"Well at least nobody got hurt," I said.
+
+"They will in other places though," Rod pointed out.
+
+The town could have thrown a parade for my teacher, who, to my surprise came back to my house with the family.
+
+"If they keep this up there'll be a full scale rebellion," he said to my father as we all set down to talk.
+
+"I shudder to think of what the riots in any major town will look like if they try it there," dad returned, "Blood in the streets for sure," he nodded.
+
+"That was a lot of money, are you sure it's okay?" I asked Mystien.
+
+"Most of it came from the mayor, or the army in town," he informed me.
+
+"What? Why?" That was a bit confusing.
+
+"Mayor came to see me the other day, begged on his knees for you to be available this year to do the same as you did last year. The three of us discussed it, as the old man didn't want you to lose practice on what you'd learned," dad answered me."The money was the main part of my demands. It'll take some of the pressure off locally," Mystien explained.
+
+"I got a few other, things," dad said, he paused as he thought.
+
+"You'll have to keep up with some of the work you've been doing making bread, something he doesn't know about, so don't tell him. A few local boys will be stopping by the village every few days to pick it up. They'll get some equipment, along with some perks in the town for us,"
+
+I nodded as each was explained to me, it was nothing too much, but enough to take a lot of the pressure down to manageable levels.
+
+So my winter was spent much as it had been the year before, with a few exceptions. My uncle Barro had acquired a few new pieces of furniture, to make his house just a bit nicer. Every other day runners came to take baskets of bread back to the hamlet, nobody outside of it knew I could make bread, so it was no big issue. The number of soldiers I was healing a day was also capped, this had been part of my father's demands, which the mayor had no choice but to accept.
+
+Spring brought with it another season of painful drudgery for everyone. The labor shortage was still an undeniable problem, and try as everyone might, there just wasn't any way to plant all the fields. This was compounded by the fact that several other of the little outposts of our village had lost a few more men to the tax official's guards, in a pointless loss of life.
+
+It was a couple of weeks after the planting finished, during one of the lulls in the cycle of labor that was farming that something odd happened. Late that night, after dinner, but before we'd gone to bed, a knocking came at the door.
+
+"Verren, it's me," Mystien's voice came through.
+
+Dad cautiously opened the door, "What is it? You wouldn't come for anything that could wait." he asked.
+
+"We need to have a discussion. We've a visitor, it'll take a while," my teacher told him.
+
+Dad nodded, and after the wizard had stepped away came over to mom, "When I come back, I'll knock in three groups of five. Don't open the door for anyone else," with that he left.
+
+It was over an hour before he returned, knocking exactly as he had described.
+
+"What was that about dad?" Rod asked.
+
+"Not something you kids need to worry about," he didn't elaborate more than that.

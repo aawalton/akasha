@@ -1,0 +1,185 @@
+---
+id: 6c3c38dc-0d4e-5db6-921c-7ebefcbbf875
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 10 - Changes (2) "
+slug: 0019-chapter-10-changes-2
+partOf: metaworld-hopecore
+position: 19
+ownLength: 2223
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364727/chapter-10-changes-2"
+royalRoadId: "3364727"
+---
+
+Susan Carr, Operations Director of LAPA, was mid-meditation when the electronic bell on her office door buzzed.
+
+For all the claustrophobia, hers was a privileged place with a single window, a meaningful contrast against the rest of the school’s windowless interior offices, for the windowed rooms were reserved for the students.
+
+In the future, when their investors got around to it, a major renovation and reconstruction would take place, but for now, the ball was in CSULA’s court, and the campus authority was resistant to polluting their prestigious classrooms with the sound of heavy construction for two years.
+
+Nonetheless, things were already better than the late 90s, when the school could barely afford to rent the necessary permits and rooms from the college. Thankfully, CSULA’s very significant endowment resulted in new apartments, condos, accommodations, food courts, as well as borderline corporate sponsorship that skirted the charter like a skilled skier, freeing up the old buildings for LAPA.
+
+At the academic year’s opening, Carr’s job was the balancing of interests and balances. She was the slave of no less than five departments: Theatre, Cinematic Arts, Dance, Music, and Visual Arts, each with its own spreadsheet for budgets, personnel, equipment, and sponsorships.
+
+I am a Contemporary Dance instructor, for Christ’s sake. I once starred in Dante’s Inferno. She fought to keep her eyes open as the numbers just kept coming on, row after row. Am I in hell? What did I do to deserve this?
+
+When her meditation of self-extinction was disrupted, she was more glad than upset, for anything that took her mind off the conflagration of credit and debt was enough to keep her sanity intact.
+
+Then the door opened, revealing the euphoric face of Euphenia “Eppie” Fontaine.
+
+Her stomach dropped.
+
+Eppie. Eppie. Eppie.
+
+Lord knows what happened to Eppie for her to jump off the old school building’s hillside facade, but Susan wanted no part of it.
+
+The shame on Principal Burton’s face when they had to tell him, together with the cold rage that VP Thomas radiated, was enough to make Susan wish she’d stayed and aged out of musical theatre.
+
+There was nothing the school could do, VP Thomas had informed them. Principal Burton had demanded that at least something be done. The two had come to blows and—
+
+When elephants fight, the grass gets trampled.
+
+What could Susan do? She was just the Messenger.
+
+And that was how Eppie Fontaine was resurrected at LAPA.
+
+“Eppie, shouldn’t you be in class?” Susan pushed herself away from the accursed LCD screen, burning a hole through her frontal lobe. “Skipping school, first day of class?”
+
+“Ma’am,” the girl’s smile bloomed like a sunflower. “I’d like to change a few courses, if you don’t mind. I learned quite a few things while at Sony, and I would like to have them applied.”
+
+You were away at the hospital for a month, and it's been three weeks since I visited. Susan fought down the desire to pierce through the girl’s bullshit. “I see. How can I help you?”
+
+“I want to swap French for… AP Japanese, and Chemistry for AP Physics.”
+
+Susan cocked her head. “You realise these are college-campus courses? You are a Sophomore. Does it make sense that you should apply for these, and mid-term as well?”
+
+“Ma’am,” the girl looked utterly unfazed, which was certainly not how Susan recalled Euphemia in her Freshman year, because the girl was completely unmemorable. “I know my ability implicitly, and no. I am not doing the courses. I want the challenge exams.”
+
+“Right…” Susan remained professional and polite. “Did you say challenge exams?”
+
+“I did.”
+
+Susan’s lips twitched. “Why are you dropping French? You spoke French. Not very well, mind you, but I recalled you spoke it.”
+
+“I did?”
+
+"Tu m'avais dit que le français était ta matière forte." Susan was very proud of her French.
+
+“I er…” the girl smacked her lips churlishly. “Maa, watashi no tokui kamoku wa Nihongo desu kara.”
+
+The two stared, or glared, at one another until Susan felt an indescribable discomfort running up her spine.
+
+“Eppie, what happened to you?” she allowed the sigh to escape. “How is this happening? Why do you know Japanese? We only started teaching Japanese last year.”
+
+To Susan’s chagrin, Eppie made a puppy dog face, then touched a hand to her head. “I don’t know. I guess when they put Humpty Dumpty back together again, I was rebuilt differently.”
+
+Susan’s whole body groaned. She didn’t want to deal with this.
+
+She really, really, really didn’t want to be questioned about a tragedy she could do nothing about. When Luciana Mio had dropped out, she had nearly lost her mind. She didn’t want to grill the rich kids who looked at her like she was some sympathy-worthy government employee. She just wanted to organise concerts, produce and direct plays, speak to sponsors, and have luncheons with her peers in the business. She wanted the big hugs, the kisses, and the thank-yous to “OpCor Carr”.
+
+“There are rules,” Susan relented. “You need a strong foundation in Algebra and Trig before you can do AP Physics in college. You also need approval from the course coordinator before we can even submit a course change request, which involves written, spoken, and listening components.”
+
+All of which took TIME. TIME SHE DIDN’T HAVE. Susan stopped herself from lashing out to express her impotent frustration. The stress was so much that she could feel the wrinkles forming in real time on her flawlessly kept complexion.
+
+“I am aware.” The girl bowed her head at least. The girl really was a picture of pity, and if Susan did have a heart of stone, she wouldn’t have capitulated to VP Thomas’ request to be Eppie’s liaison. Just imagine if Eppie hadn’t taken up the offer. If she had to watch the girl wilt and waste away in that hospital, she would have gone home, hugged her dogs, then eaten two tubs of ice cream. “Please trust me?”
+
+And so, the Director of Operations returned the girl’s expectant smile with one of her own.
+
+“Alright. I’ll need some details to draft the request.” She walked them around her cluttered desk and made Eppie stand behind her while she clumsily navigated the software.
+
+After penning a neutrally worded email to LAPA’s Academic Counsellor, CC: Dr Brimmer, VP Thomas and Principal Burton, and her French and Chemistry teachers, she pushed back from the chair.
+
+“I’d still attend those classes for now, but you should get your approval, even if it's at your own peril. VP Thomas, as you know, can be very accommodating when it comes to… you.” She wanted to give the girl a stern warning with her eyes, but paused when those same eyes rested upon the girl standing a few inches away.
+
+Eppie looked… different.
+
+She was obviously different because she was confident, carefree and a little scary compared to the Eppie of yesteryear, but she really was different.
+
+Susan was a dancer. A very good one. Not the apex of her generation, but still nationally accredited. She knew the arts, she knew physiology, and she knew potential like the back of her hand.
+
+And this girl beside her had “it”.
+
+Resisting the desire to remark upon the supernatural transformation, the Director of Operations found herself looking at her student in a new light. It had only been a week, which was merely a blink in a four-year course of constant training, but Eppie looked fully assembled out of the box.
+
+Where was the pitiful girl singing in front of the mirror at St Marten’s? Had this Eppie eaten her previous self and undergone metamorphosis?
+
+“Mrs Carr?” The girl’s voice penetrated the wool-like thoughts cluttering up Susan’s thoughts. “Are those your expense tables?”
+
+“What?” Susan looked away, suddenly self-conscious. “Yes, why?”
+
+The expression on Eppie’s face was one of disgust. Her lips were two thin lines of bespoken judgement. “Could I… could I show you something? I won’t change anything, I promise.”
+
+“Show me?” Carr looked from the girl’s pained face to her screen, then to the girl again. “What do you mean?”
+
+“Like, just trust me.” The girl moved her petite frame between herself and the screen, took command of her mouse, then right-clicked and duplicated the expense sheet. “I want to spare your soul, if you’ll let me.”
+
+Struck with admiration of the girl’s flexibility, Susan could only watch as a sudden and unexpected lesson in Excel(™) took place.
+
+“Okay, you’re sorting the entries by hand, typing in your expenses one by one, that’s insane,” the girl expertly worked around the document, resizing, formatting, opening new tabs, and copy-pasting the exported debit and credit blocks. “Here’s what you need to do—”
+
+Before Susan’s head could mentally catch up to her student, she began to rapidly talk in tongues.
+
+“So, you need to make a new column. Let’s call this category. Now, you type in the entry category by hand. You should only have a dozen or so, from what I can see. Go to the left here, and let's organise the dates. Sort table. Custom Date formatting. Sort by Quarter. You can filter this anyway you like, by the way. I’ll do the first week as an example…”
+
+Buttons were pressed. Columns appeared from thin air.
+
+“Equipment. Sundry. Theatre Inventory. Print Expense. Administration. Accounting…” The girl continued without missing a beat. “I won’t bother with subcategories yet, as this isn’t that complicated. Now, you click on this here. It creates a PivotTable, see? Click on options… date, sort by date, addSum. I’ll add some slicers for you. Let’s do data grouping now… select, hierarchical view. Alrighty…”
+
+The girl stepped back, looked at the ceiling as if receiving a confirmation from God, then turned to her with those big blue windows to the soul. “And that’s it! DONE! Your entire term budget, done—once you categorised everything else in the raw data columns.”
+
+“What? WHAT? It’s done?”
+
+“Once you manually enter the categories for the entries on table one, yes.”
+
+“Can… Can I trust this?” Susan trembled. What had just happened?
+
+“It’s hard numbers,” the girl said. “I would trust Excel’s own addition far more than your hand-typing out a thousand entries."
+
+“And… that’s it? The total costs…”
+
+“And total expenses. Total taxable expenses. Total claimable. Total income. Wages. Directorial Fees. Everything.”
+
+“This… this makes no sense…” Susan felt her eyes water. All her suffering. All her pain. A half-decade of purgatory, was it all for nothing?
+
+“I am sorry.” The girl opened her arms. “It must have been hard.” Susan accepted the gesture. It was hard.
+
+As a bonded pair, the Director and student hugged, then quickly separated because the office AC isn’t the best, and October in LA was a kind of hell for her make-up.
+
+“Eppie,” Susan felt great shame as they once more returned to their respective positions. “Can I ask you a favour?”
+
+“You have no idea what I just did…” Eppie nodded sagely. “Instead of French and Chemistry, I can come and help you with your Excel.”
+
+“Yes,” Susan could feel her throat choking up. The girl was a liberating angel, sent from heaven to take her by the hand and pull her from the tabulated hell of Excel(™). “Yes, please… Do… Do you also know the forbidden craft of the Print Area?”
+
+LAPA.
+
+The Hall.
+
+After almost two hours, Eppie exited her Director of Operations' room.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+[Causality: 3983]
+
+Eppie wasn’t sure how to feel about that, but [Causality] was [Causality].
+
+Why so much capital? Was the advert true? Excellent Excel saved lives?
+
+There was no definite answer, but Eppie suspected that it was the same reason she was in negative karma space in the first place.
+
+Excel was a unique circle of hell in the world of 2007. Instructors at an old school like LAPA, unless they took special training that the state could not afford, would not be proficient in MS Office 2007, even if her alter world released it a year prior.
+
+For 95% of all administrators, Excel was, as Susan said, a dark art. They were analogue users, whose minds were not attuned to digital formulae. The computer was nothing more than an advanced typewriter, Windows XP an arcane piece of technology. Susan, god bless her soul, had been trying to make her tables look good, rather than functional. She was all about that bold thickness, the pastel colours of the columns, the clear gridding, the print per page. Half of her table was filled with printouts missing totals and subtotals, or pages stapled together haphazardly.
+
+And there were no databases, either online or local.
+
+The kids had iPhones and iPods, yet the admin lived in technological purgatory.
+
+Only the government had actual functional electronic databases for court records and civil engineering. Schools were afforded no such support and wouldn't be until the early 2010s.
+
+Had she just… brought a ray of hope into the depths of hell, as Dante Alighieri had? Parting the clouds to reveal a path to Paradiso? Or had she simply prevented a future fall, an equipment failure, an embezzlement?
+
+Eppie had no idea, but she had only thirty minutes for lunch, which meant a footlong, with double meat toppings.
+
+Then, it was finally time for the theatre.

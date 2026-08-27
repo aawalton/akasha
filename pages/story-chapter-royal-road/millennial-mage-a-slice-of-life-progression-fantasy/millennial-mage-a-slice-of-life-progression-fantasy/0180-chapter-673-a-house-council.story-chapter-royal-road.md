@@ -1,0 +1,221 @@
+---
+id: 921da47c-b064-5a5f-8ae9-804bb12362f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 673 - A House Council"
+slug: 0180-chapter-673-a-house-council
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 180
+ownLength: 2773
+unit: words
+ownProgress: 2773
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3067624/chapter-673-a-house-council"
+royalRoadId: "3067624"
+markedReadAt: "2026-06-29T19:40:50.060Z"
+---
+
+Tala stood in a surprisingly austere council room within the House of Blood’s complex.
+
+The festivities had only ended a few hours earlier, this meeting only delayed enough for the attendees to have gotten cleaned up and changed if they so wished.
+
+There were nineteen Pillars and Eskau in attendance, once again without there being overlap except in the case of Head Corinis. Some had not been at the feast, but their expressions showed disappointment rather than irritation at the conversations around them, recounting the festivities.
+
+So, they likely couldn’t attend rather than having chosen not to. That’s a good sign.
+
+Each sat in a mini-throne-like chair, slightly elevated above the center and arranged in a circle.
+
+There were a total of twenty-one chairs, but three stood empty. Head Corinis’s Eskau was standing behind and to his left, so he didn’t take up a seat.
+
+As before, Tala noted just how varied each Pillar and Eskau was. There were a couple of repeats—including an elven Pillar to be a repeat of Eskau Meallain’s race and if she lumped all hue-folk together, there were even more—but even so, there weren’t many, once again highlighting just how accepting the House of Blood was of differences. They only cared about competency and loyalty, all else mattered little.
+
+-Gated Humanity is actually rather homogenous, now that I consider it.-
+
+Well… yeah? There are only some fifteen million of us. After millennia of such small numbers, it’s a miracle there is any genetic variation left.
+
+-Well, we do have the older Archons occasionally having children, reintroducing more recessive traits.-
+
+I… huh, you’re right. That would help a bit. That explains why we don’t all look basically the same at least.
+
+The room was round, with Head Corinis’s chair situated directly opposite the only visible door into the space. That door was solidly closed, with two squads of House Guards outside.
+
+Rane, Lea, Terry, and the interested folks in Irondale—her friends and helpers, not the random populace—were all watching from within Tala’s expanded space. Captain Ron had even tripled the number of Talons ‘on deck’ to be ready in the worst case scenario, and they were watching as well.
+
+-Fifteen Revered level warriors at your beck and call. You could obliterate near-to half the House of Blood’s leadership right here and now.-
+
+Even if that were true—and I’m not sure it is—that would doom us. Gated humanity would never be trusted again.
+
+-True enough… assuming they could tie it back to you.-
+
+Alat… Tala was unamused.
+
+-Fine, fine.-
+
+Head Corinis was idly enjoying a glass of wine while watching over his Pillars and Eskau as they discussed random topics of no real consequence.
+
+Pillar Cruas had bowed politely to Tala when he entered, but he hadn’t engaged with her directly.
+
+That made sense. This was meant to be a vote about her, and anyone interacting with her too much here and now could be seen as attempting to sway the vote beforehand. There would be time for that later.
+
+The only other that Tala recognized—excluding those who had been at the feast and welcome, of course—was Eskau Reidh.
+
+She’d sparred with him last time she was here, and the burnt-orange dragonling had been watching her like the predator he was, only passingly engaging with those on either side of him in the pre-meeting socialization.
+
+As he watched her, his inscribed scales rippled with blue light, clearly having a fractional amount of power flowing through them, ready to be ramped up at need.
+
+He used friction alteration right?
+
+-Exactly. He’d be a great opponent for Lea… if he held back like he did with you when you were here last.-
+
+Lea? I suppose. I want to fight the man again.
+
+-Well, if this vote goes your way, you can absolutely request just that as part of training for the war.-
+
+…Or I could just ask. There’s no need to lean on my authority unnecessarily.
+
+-Really? Come on, Tala. You’ve seen it. Authority is like a muscle. You have to flex it to help it grow, and the more people who bend to it, the more it grows too.-
+
+Tala grimaced internally. After all, the alternate interface had a point even if she didn’t like it. Still, she kept her face stoic, staring straight ahead, eyes directed just to Head Corinis’s right so she wasn’t staring anyone down.
+
+There was still no sign of Eskau De-arg, and she didn’t actually know who his Pillar was. There was a turtle-kin Pillar who was likely his, but she’d not met the man before so it was still just a guess. She almost swept her perception through the complex to find the little Eskau, but she felt like that would almost certainly breach at least some people’s privacy, and it just wasn’t worth it.
+
+Once again, she could inquire after the smaller bear-kin variant after this meeting. She didn’t need to know where he was at this exact moment.
+
+Finally, Head Corinis’s Eskau leaned forward and put a hand on his Pillar’s arm, causing Head Corinis to shift and glance back. Finally, the man sighed and nodded. “It is time.”
+
+The simple sentence drew all eyes, and conversations ground to a halt.
+
+The man nodded once and smiled. “I have with me three of the votes ahead of time. I would tell you that I must keep them in confidence, but…” He shrugged, smiling helplessly as those in attendance chuckled. “So, we know three votes. As this appointment can only be conferred with unanimity, after an initial check, I think it prudent to find out if any is unwilling to even consider the idea, and who is against it, but open to further discussion.”
+
+He looked around and nodded again. “So, all in favor of elevating Eskau Tala to the rank of Eskau of War, in order to guide and spear-head our coming conflict with the Black Legion, make yourself known.”
+
+Sixteen voices snapped out as one. “Aye!”
+
+Tala was momentarily confused, not at the support, she understood that this had to have a good chance for the council to have been called at all. She was confused by the overlapping votes until she realized that she could easily tell who had spoken, her perception and senses capable of identifying them instantly and easily.
+
+Why have a long procedure when everyone here has the capacity to tally overlapping votes?
+
+-Huh… I never considered that means of saving times. Different cultures, I suppose.-
+
+Regardless, with sixteen present votes in favor, three in absentia, and the Head who had yet to make his feelings known—but yet again, if he’d been against it, this meeting would have never happened—that meant that only one had not voted in favor instantly.
+
+“Who is entirely against the idea?”
+
+All eyes turned to look at Eskau Reidh, who remained silent, staring at Tala.
+
+“Who is open to discussion?”
+
+“Aye,” the dragonling spoke in isolation.
+
+“So then, Eskau Reidh. You have the floor. What concerns do you have which can be addressed?”
+
+The dragonling stood, his scales and inscriptions shifting and rippling with the movement, his blood-form protian weapon making his left arm look like he’d dipped it into a vat of the stuff just moments earlier, ensuring it was still wet and glistening. His voice was as crisp, clean, and precise as Tala remembered it. “I have three objections, one personal, one general, and one upon principle.” He grinned with wickedly sharp teeth. “I will go in reverse order.”
+
+Tala shifted her stance so she faced the Eskau and waited.
+
+“The objection on principle is simply that I don’t think any vote such as this should go through without discussion.”
+
+There were some groans, a few chuckles, and a dwarf actually put his head in his hands and sighed… loudly.
+
+“As such, I voted no. After this? That objection will be removed.” His grin widened.
+
+Tala huffed a laugh but simply nodded in response.
+
+“Second, the general objection. Why do we wish to fight the Black Legion at all? And if we are not at war, we would not need an Eskau for that war.”
+
+That got more heated responses. Tala, for one, opened her mouth to respond, but she caught Pillar Cruas motioning to her, and then shaking his head, reminding her that this was not her time to speak.
+
+The overlapping responses totaled to a sum of incredulity at the question even being raised.
+
+Eskau Reidh didn’t seem to mind, and once the clamor had subsided a bit, he shrugged. “I think it needs to be asked. From the reports, the gated humans have drawn them forth, and if history is any indication, they will attack them first.”
+
+The elven Pillar spoke, then. “Yes, trapping gated souls, building new units, and swelling their numbers. In the best case, they won’t turn on us until all of gated humanity is wiped out.” The man hesitated, glancing toward Tala and giving a small, seated bow. “I do not mean that I consider this the best case, Eskau Tala, simply that in the situation he described, hoping that your fellows to the north will be the target of the Black Legion, and we will be left alone, in that circumstance, this would be the best case.”
+
+Tala nodded, giving a small smile of understanding.
+
+The elf took that as indication to continue. “In that case, even with failures and losses, the Black Legion would descend upon us with millions more added to their number.” He laughed. “Or, I suppose, if the gated humans won? They will have been forged in a war unlike we’ve seen in centuries, and with those honed magics, they would already have an engine of war to direct down upon us instead.” He shook his head. “We should not be blind to the power that grows in the north, but to hope that the two powers would perfectly obliterate one another is folly. Either the Legion will slowly grind them down, adding unit after unit to their cause, or gated humanity will utterly crush the Legion, showing just how powerful they have grown in the last millennia.”
+
+Others spoke up, adding points both for and against the merits of fighting the Black Legion, but Tala saw it for what it was. This is a thought exercise?
+
+-I think so, yeah. They are testing the idea and allowing it to breathe. Only then can it be embraced or expunged.-
+
+In the end, no one—not even Eskau Reidh—was surprised that the consensus was that the House of Blood could not stand on the sidelines if the Black Legion was coming.
+
+The dragonling nodded sagely into the renewed silence. “Good, good. That leaves only my final objection.”
+
+Tala shifted once more, having reoriented a bit to keep tabs on the back-and-forth.
+
+“Eskau Tala was under a different name when we last met, and she hid her true identity from all who encountered her. She killed a Pillar of our House, and for all we know, she’s maneuvering herself into a position to take further vengeance. Why should she be trusted in this position of authority?”
+
+Tala narrowed her gaze, realizing that the man had kept his aura utterly concealed, and now she was curious… Wait…
+
+Alat gasped, sending a feeling of shock as she finally realized the same thing.
+
+Eskau Reidh wasn’t hiding his aura. To the contrary, while it was held mostly beneath his skin and scales, bits of it were allowed to rise to the surface, perfectly matching and moving with his inscriptions.
+
+He was Revered, and with a precision to his aura control that Tala had rarely seen.
+
+As to his objection? All in attendance looked toward Tala, and she looked to Head Corinis. “May I respond to his question?”
+
+The Head nodded, gesturing for her to do so. “By all means.”
+
+She gave a small bow before turning back to Eskau Reidh. “You are right that when I was last in this city, I was known as Tali. You all know this, you all know why. Even without the somewhat common practice of Pillars or others of authority changing the names of those who serve them as a means of establishing and amplifying authority, the fact that I was known by a different name is hardly relevant.”
+
+Eskau Reigh huffed. “Oh? Explain.”
+
+She grinned in return, meeting his gaze. “I have made my position utterly clear. I have made no secret of how I felt about Be-thric. I killed the man, and if anything, his death was too quick for what he deserved. I have also returned when I had no need to and come before you all. I have given you warning and the potential to prepare for what is to come. I am willing to lead those preparation efforts. With the power I have at my hands, I could have returned as an avenging plague. I would not have been able to kill everyone, but I could have done more damage than you can imagine.” She looked around then, meeting each gaze. “I didn’t. Instead, in good faith, I have offered to work with you all, and that has led us here.”
+
+“You are powerful, that is not in question, but really, Eskau Tala? You want us to believe you could have been more than a minor inconvenience? Are you spouting empty air, or do you have some reason for your certainty?” The sides of his drakine mouth curved up, revealing the game.
+
+That clever rust bucket. He wants to see our hidden aces.
+
+-Should we let him?-
+
+She looked around and saw similar interest in the others in the circle. Yeah… I think we’d better. Hedging now won’t serve us.
+
+-I’ve notified the Talons that this will be a non-hostile encounter.-
+
+They’ll still be ready.
+
+-Of course.-
+
+Tala sighed, shaking her head. “Fine. Head Corinis. Do I have your leave?”
+
+The man huffed. “Leave for what? You are being vague, Eskau.”
+
+She grinned. “To show my hand, at least some of it.”
+
+He didn’t seem amused by her answer, but he didn’t press. “Is there danger?”
+
+“Not if they aren’t threatened.”
+
+He raised an eyebrow. “‘They?’ You had my interest, but now you have my attention. Proceed.”
+
+Tala shrugged and snapped her fingers.
+
+The snap, of course, was unnecessary, but even so, she felt like it added to the theatrics.
+
+There was no flash, no pop, no indication anything had changed at all save that now, behind Tala, stood fifteen Talons, in white steel full-plate, overthick shields on their left arms and magic radiating off of them.
+
+They weren’t perfect at holding in their power, but they were worlds better than they had been, and in the moment, it came across as them keeping their magics just barely active in a potentially hostile situation.
+
+The fifteen were in five rows of three, standing in relaxed positions despite the steel in their gazes as they swept the room, utterly silent.
+
+The eyes of every Pillar and Eskau widened in surprise, even those who had otherwise held their poise until this point, and a moment later, Eskau Reidh began to laugh, deep within his chest and reverberating through the now somewhat crowded room.
+
+Tala didn’t wait for the dragonling to contain himself. Instead, she gestured unnecessarily. “These, Head Corinis, are my Talons… More to the point they are some of my Talons. Gateless humans, trained for war, and ready to fight any who threaten their home.”
+
+The Pillars and Eskau had recovered quickly. They weren’t old and in power in a society that prized violence and combat because they couldn’t adapt to new situations.
+
+A black-eyed, blue hue-folk woman spoke in a hushed tone. “They all have the feeling of Revered… How… How is that possible? Gateless humans cannot reach such heights.”
+
+Tala shook her head. “I will not share that, not yet. After this vote?” She shrugged. “We can see.” She turned and bowed to the Talons. “Thank you for answering my call.”
+
+The fifteen saluted as one, the leader responding. “We are the Iron Matriarch’s to command.”
+
+Tala closed her eyes for a brief moment at the title before opening them again and smiling. “Thank you, sergeant.”
+
+It was at that moment that the doors behind the Talons opened, the House Guard having heard something of the commotion from inside.
+
+The poor guard saw a unit of unknown, powerful warriors suddenly in the council chamber and did the only thing that would be reasonable under those circumstances.
+
+He began screaming out the alarm, drawing his weapon and coming to the aid of his House.

@@ -1,0 +1,97 @@
+---
+id: cc72b0e6-0f3b-5892-afec-49e8efc04e40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 255 A Visit"
+slug: 0269-chapter-255-a-visit
+partOf: melody-of-mana
+position: 269
+ownLength: 1373
+unit: words
+ownProgress: 1373
+publishedAt: 2023-07-21
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1284093/chapter-255-a-visit"
+royalRoadId: "1284093"
+markedReadAt: "2026-06-29T22:35:06.509Z"
+---
+
+I was overseeing the reworking of our defenses around the portals when word came in that my brother had arrived. It was expected that he'd be making a show soon, though I hadn't been told exactly when that would be. There was so much to do in getting this place up to my own standards that it was taking all of my time. My own lab had finally been set to an acceptable level, though I was thinking of a few more additions.
+
+“Hey there little sister,” he said as I came to hug him. “Making some additions?”
+
+“I'm separating the portals,” I explained. “All are getting their own area with their own defensive wardings.”
+
+“Okay, why?”
+
+I wanted to roll my eyes, but he and his were among those supporting me, so I held back. “So that if someone attacks the portal room we don't lose everything all at once. The defenses on the other ends are not in my control and there is a distinctly non-zero chance of that happening. Point in fact, we still don't have access to the other ends of about ten of our portals.”
+
+“That number might increase soon too. I just got word that General Ozen just declared himself emperor, and is demanding everyone now bow to his rule. Father wants me to go to some of our locations and recheck our security there.”
+
+“I'll note it, and add the portals in his locations to our 'outgoing only' list. The other generals respond yet?” I asked.
+
+“No, but by my reckoning we'll have at least two more declare the same, Tyron may or may not, but frankly it won't matter, he has few forces anyway. I'm also here to tell you that father is making an announcement of his own soon.” He seemed tired rubbing his eyes as we walked to one of the meeting rooms.
+
+“Shouldn't we discuss that in private?” I asked.
+
+“No, no point, everyone who knows anything already knows, he's not going the full 'emperor' route though. For now he's just declaring that he and Mystien will be the administrators, until such a time as a new ruler can be found. We think that'll go down better, and it doesn't force anything for the moment. He is fully rejecting all other claimants though, and so we expect trouble quite literally any day.”
+
+“You and me both, how is my old mentor by the way?” I asked as I closed the room doors and set the privacy wards in place.
+
+“Old, and with the new baby-”
+
+“The what now!?” I turned to him, hoping to see some humor in his eyes.
+
+“Yeah, his... mistress or whatever gave birth a few days ago, healthy little girl.” I stared at him in shock. “So you didn't know he had one of those either?” As I continued to stare he began laughing.
+
+“Did dad know?” I asked.
+
+“Sort of, apparently she lived in Hazelwood when we were kids, been after the old codger for years. They kept the whole thing super quiet when she moved in with him. That and his propensity for keeping private life out of work was more than any of us expected.”
+
+“What's with old wizards and their paranoid secrets?” I asked a bit tired by it all.
+
+“Says the girl running the secret portal fortress hidden in the frozen wastes, and adding literally every single magical protection she can,” he said, chuckling at me.
+
+“Yeah, but I'd at least tell you guys if I was like, pregnant!” It was exasperating. “Also, he's ancient now, what, he's like seventy or so.”
+
+He shrugged, “Kid looks healthy and he's happy, not sure what else to say about it.”
+
+“Wonderful, did you just come to let me in on the news then? I'm happy and all, but rather busy and I doubt he'd want me to come anyway,” I huffed, sitting down on the couch.
+
+“Maybe, but I thought you'd want to know. Now if you don't mind, I'd rather like to go see my wife.”
+
+My brother didn't stay long, busy as he was, but it was nice to see family every now and then. I needed to make time for that at some point, some imaginary time when we weren't all busy out of our minds. Then again they could always come see me too, I did have portals to nearly everywhere.
+
+A few days later I was called out to check a ward issue. One of our expansions was running into a snag putting things in place. My afternoon was spent going over them with a fine toothed comb, because even though they were copied from the same exact wards we were using in all of the other portal rooms they were experiencing some kind of interference.
+
+After several hours I managed to localize it to a section of the room, previously rather empty courtyard, that was sending out some odd responses to our spells. The odd part was that there wasn't anything here, nothing, just a section of blank stone.
+
+“Grab Dras and Ulanion, we may have part of the old warding scheme buried here and we'll need to take it out. Shields up everyone, there shouldn't be much mana left in it, but let's not risk it.”
+
+Removing old warding was easy, if you knew where they were coming from, and connected to, and had the right equipment. Sadly a lot of warding wasn't done centrally, as there were limits in the size of a core, but rather more locally. Even the dorms back at my old school had been on their own wards. Those were covered by some of the full school ones, but for the local bits it was all within the dorm itself.
+
+“More of them?” Dras asked incredulously as he joined me.
+
+“Yeah, this is what, third time this week?” I replied. We had found several such issues over the renovations, though almost always quite minor, things like temperature control wards that were ancient with just enough mana to keep messing with things around them.
+
+“This procedure is a pain,” he said, irritated that we always had to have extra staff on hand for when we broke them.
+
+“Maybe, but I know you understand why. Do you remember the elevators in the Elven compound? Those things had fail-safes on their fail-safes,”
+
+He sighed an Ulanion added his two cents. “It's a good design policy, but we do need to get on with it.” He was here just in case anything had been growing and feeding off the ambient magic.
+
+Dras began his work, his hands moving as he pulled in magic and formed a small testing drill, the ward shouldn't be deep. I watched him, he'd some so far from when we'd first met, so far from the boy who could wield only fire and that not with any major skill. It was good to watch your friends grow, see them become more.
+
+It took only moments for a section of the flagstones to collapse, falling in upon itself in a painfully loud clatter. We all looked at each other and Dras began to make a small force bridge out to the hole. There was a ringing there, but one that sounded faltering, pained, and a slight flickering light emanating from the opening.
+
+As we peeked over the edge Ulanion asked, “What exactly happened to the man who built this place?”
+
+“Ristolian, and we all assumed he died, but seeing as nobody else was here at the time we couldn't confirm it from anything,” I answered.
+
+“I assume we're going in?” Dras asked.
+
+“You assume correctly, do you mind?”
+
+We three entered the hole, and as we did lights flicked on all around us. Old bits of magic sprung to life as power, a lot of power, was redirected from somewhere, charging the various structures one by one in a way that shouldn't have been possible without some source like what Justin was using.
+
+“That's...”
+
+“Yeah, hate to say it, but let's not touch anything just yet,” I said, looking out into the small room we now found ourselves in, the many tools now whizzing to life in jolts, only to fail again moments later.

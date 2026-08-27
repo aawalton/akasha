@@ -1,0 +1,101 @@
+---
+id: aa031052-ab65-5879-93db-8ece0d9e6246
+page-type-slug: story-chapter-royal-road
+title: "Chapter 266 Battle of the North"
+slug: 0280-chapter-266-battle-of-the-north
+partOf: melody-of-mana
+position: 280
+ownLength: 1614
+unit: words
+ownProgress: 1614
+publishedAt: 2023-09-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1336913/chapter-266-battle-of-the-north"
+royalRoadId: "1336913"
+markedReadAt: "2026-06-29T22:35:30.177Z"
+---
+
+I watched from above as the hall monitor began his work. It took time for the gas to spread, and it wasn't fatal, but it didn't need to be. He was just the first wave, the first wave of many to our attack. These soldiers really should have known better than to do as they did, I understood it, but they were good and truly screwed now.
+
+It didn't take long for the soldiers to realize that the golem was up to no good, the first few ranks being very distracted by his emissions was the big obvious sign. As soon as they did he started getting pounded by spell after spell, but that was okay, it was even intended. I wanted them looking at him, attacking his defenses, not at other things.
+
+Both Justin and Adia looked on as we were joined up on the ramparts by a number of the support staff, and I began to sing. We sung about the wind and the rain, and while I didn't want the former quite yet, the latter was decidedly something to introduce.
+
+Mystien had already left my side, he, Dras, and several of the other wizards were going to be busy adding layers to our defenses and bolstering the wards while we bards began to deal with the enemy. Our positions would eventually switch, but if you could cause problems for less mana then it made sense to do so.
+
+That was something which had always irked me a bit, that bards were considered useless. Alone a bard might not be able to do much, but nobody really thought about the amount of trouble that one bard and a proper band could really cause. We'd be changing that today.
+
+The rain began to fall on the opposing army. Not snow, or sleet, or even the freezing rain that sometimes fell at this high latitude, no, it was hot, warm, steaming. It landed just as the wizards aiding our enemy broke the outer shield and let the wind back in. It would hamstring the golem, but it would do so much worse things to them.
+
+The upside to laughing gas is that it's so safe and effective, the downside for this use is that it wears off very quickly. As soon as the fresh air was let into the equation Ozen's men began to recover, but that was when part two began to take effect.
+
+His soldiers had taken to wearing heavy coats and warm clothing, important with the ice and snow, but that was now soaked in warm water. I changed my song, now that they had opened the air, it was time to bring in a cold, cold wind.
+
+“Hot water and steam? Oh, haha,” Justin said, realizing what was going on.
+
+“Oh, that's mean,” Adia commented, right as the wind kicked up flecks of snow.
+
+She was right, it was. We were going to distract, then spike up their body temperatures, then drop them like a stone. This was a battle of attrition, not of strength, and I would take apart his army like ripping down a castle one brick at a time. The up and down would be worse by orders of magnitude then just making them cold, and it was not something most of these people had experience with.
+
+Ozen's mages were now struggling to both dry and warm his army, just another distraction. Doing this wasn't free for us, but it was cheap, fixing it was painful for him, and pulled the legs out from under his assault on our shields.
+
+There were only a few bards here to join me in the current section of the defense, but all had their place. Those that could add to the weather effects did, those that couldn't waited for their chance to get in more trouble for our opponent.
+
+Their chance came when Ozen's wizards got frustrated with the current plan and began lighting big fires to keep the cold and wet at bay. Those fires grew and grew in intensity, subtle songs adding fuel to the flames. It wasn't immediate, but in moments the fires powered by magic had the opposing army under a veritable heat wave.
+
+It took almost fifteen minutes for Ozen to get tired of our shenanigans and renew his assault on the fortress. That was the right move, if a costly one. Letting his men go from sweating to freezing and back again like a yo-yo was already wearing on the soldiers, or at least the non-magical ones, he had to stop us.
+
+“Time to switch,” I declared, leading the way down to where the wards were fed.
+
+Justin and Adia followed, content to watch for the time being. This wasn't their home, and they wouldn't act to defend it.
+
+“You're up,” I said to the wizards as I entered their section, placing a hand forward and beginning to feed the wards. They should still have plenty of power, but better safe than sorry.
+
+My part in the battle was done, and now I got to sit back and wait.
+
+“I've never seen anyone use bardic magic like that,” Adia said. “Most people just use it for food generation during sieges.”
+
+“Oh, we'll use it for that too if we need to, but there's so much more we can do. How hard was it for us to cause them problems? Not bad I assure you. How much did they have to do to try and fix those issues? Far more. Even if he brought a mass of men, I don't have to just kill them, I only have to make them stop.”
+
+“Could you have defeated them in open combat?” Adia questioned.
+
+“With Mystien already here, along with his support people? Absolutely.”
+
+They asked questions on the wards that I was using, along with a few of the intricacies of the battle tactics we chose to employ. I answered some of those. I suspected that Justin knew of the perfect sphere trick, but he might not, and if he didn't I certainly wasn't sharing it. Most of the rest of the wards were rather straightforward.
+
+“I don't suppose you'll share that golem design? We could perhaps come to an arrangement on it,” Adia questioned.
+
+“Since I'm not the original designer, I think that I shall not.” There was no need to tell her that I couldn't even if I wanted to, that I only managed to take control of the thing, not create my own.
+
+I waited, and waited. I wasn't on the front line, so there was nothing else for it. In time I began to worry about my friends and closest confidantes. Ulanion had gone to reinforce the gates, and Dras had joined Mystien in the magical assault. Even the students had their place, doing the damage they could.
+
+It was hours before everything was done, and though we'd won, it wasn't an absolute victory. Men had died, twenty-three of the weaker wizards and knights had fallen, including two of Dras' assistants. Eventually we received backup, but this attack had been happening at the same time as several others. Ozen it would seem, had been using the radios I'd provided to coordinate.
+
+General Ozen
+
+I groaned as they drug me into the fortress. The humor wasn't lost on me that I was being pulled into the very place I'd sought so hard to enter. At this point it was clear we'd lost, my army, five-thousand of my best men, was shattered, though perhaps a few units had fled before the final defeat.
+
+My own fall had come at the hands of a fiery young mage who I would have loved to have for myself. He'd wielded fire with aplomb, and if I was to fall, it seemed better to lose to an up-and-coming opponent.
+
+At least I'd fared better than the bulk of my war mages, who'd been slaughtered at the hands of the old archmage who'd once served under Durin. Jets of water and waves of power had broken their ranks, and had I known he would be present, well, I would have waited for the assault.
+
+Now though I was bound hand and foot in enchanted chains and floated through the gates to whatever fate awaited me. Any hope of a dignified demise lost as I saw the young blonde woman marching over to where I was being held.
+
+“Ah, and the demon shows herself. Well, if you're going to kill me, I'd prefer if you cut my head off like you did Durin rather than cook me,” I said, blood dripping down my lower lip.
+
+“I didn't kill Durin, and your fate is out of my hands. I don't suppose I can convince you to give an official surrender?”
+
+“Why? You've already beaten us.”
+
+“Because,” she sighed. “If you tell your men to stand down then I'll have less problems holding them until reinforcements arrive.”
+
+That was a bit odd. Many of my people were strong enough that holding them would hardly be an option unless they surrendered. They'd just be killed, and even if they did give up, maybe even they'd be executed, if they were men at least.
+
+“My soldiers, you'll spare them?” I questioned, raising an eyebrow.
+
+“If you order them to stand down and they swear before a priest that they shall behave I won't need to kill them, now will I?” she asked with a small smile. Anyone who betrayed such an oath would expect to die, and rightly so.
+
+“I suppose you have witnesses and paperwork?”
+
+“Naturally, paperwork makes the world go round.”
+
+It hurt to chuckle, but chuckle I did at that one.

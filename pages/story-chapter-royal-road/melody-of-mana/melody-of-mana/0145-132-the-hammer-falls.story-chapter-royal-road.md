@@ -1,0 +1,119 @@
+---
+id: 61eb83ec-c05e-5afd-a6c1-6ff8342df7fe
+page-type-slug: story-chapter-royal-road
+title: "132 The Hammer Falls"
+slug: 0145-132-the-hammer-falls
+partOf: melody-of-mana
+position: 145
+ownLength: 2089
+unit: words
+ownProgress: 2089
+publishedAt: 2022-05-04
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900528/132-the-hammer-falls"
+royalRoadId: "900528"
+markedReadAt: "2026-06-29T22:30:51.387Z"
+---
+
+Dras was in an absolutely brutal condition. He had a missing arm and eye, and his face was split in a heinous way. Through all of that he still had a smile on his face though. It was sad, and pained, but a smile nonetheless.
+
+"I'm sorry Dras, I know what you did... must have been hard."
+
+His eyes darkened a bit, the pain clear on his face. "Not like I had much of a choice, or either of us did from the sound of it. The way she was talking, it was like someone was forcing her hand. I've told the guards who came to investigate, but... Alana, there's no way to know if there's some of this still in the academy, if there are others trying to kill people there as well. I want you to promise me you'll be careful."
+
+I nearly laughed. "Dras, I have no plans on getting involved in any kind of fight like that if I get a choice in the matter. Just rest up and get healed, and let those who know what they're doing deal with the mess."
+
+"Fine, fine, one more thing... My mom really doesn't like you, and she's probably going to find some way to blame this on you, even if that's stupid. You mind avoiding her until I can get her to see some reason?"'You want me to avoid your mother for the rest of her life?"
+
+"Oh haha, no, but when you come by can you hide yourself until you're sure she's not around, at least for a bit. The priests will be pissed if you two start going at each other in the hall or something."
+
+"Fine, but only because it's you." I gave him a wry smile as I left.
+
+In the hall I asked to speak to whoever was in charge of his healing, and was quickly introduced to a slightly tired looking priestess.
+
+"Hello, I'm a friend of Dras." I said as I looked at the woman, I knew many of the priests around here, but she was unknown to me.
+
+"Hello dear, was there something he needed?"
+
+"Not as such no. I was just wondering how long it will take for him to be healed, and if there's any way I can help."
+
+"Ah I see. Well, the only real issues are the hand and the eye. The other things are mostly superficial, and can be done with relative ease. Losing a limb on the other hand is a lot of mass, and eyes... eyes are a nasty piece of work to fix, they're complex, and fragile, and just generally take a lot of time. At his current rate I'd say he'll be back to full functioning in about a month."
+
+I was quite glad that there was nothing like HIPAA in this world, back on Earth the doctor might well have told me nothing. "Is there anything I can do? I know a bit of healing myself and if it's an issue of mana..."
+
+The woman shook her head. "No, no dear, the lad has plenty of mana to pay for the treatment to go as fast as possible. Most of that time is the simple fact that fixing things like this just takes a bit of time. He'll need to eat to replenish his body so we can keep on building more onto the hand, and as I said, eyes are just messy."
+
+She patted me on the shoulder before sending me on my way. There was nothing for me to do here and tonight.
+
+I could summon matter out of thin air, somehow, and so could wizards to some extent, but I got the feeling that that little trick was beyond priests. Our training seemed to indicate that they couldn't just make things like that, they could manipulate to an insane extent sure, and even speed the growth of plants and the like to astounding levels, but the matter they used always seemed to come from somewhere. A bard powerful enough, and well skilled enough in healing might well just be able to conjure him a new hand. Sadly I was neither of those things, so I would just have to wait.
+
+After my greatly irritated carriage driver returned me to the school I found my way back to my room and collapsed. The whole night had been a bit much and I knew that there would be more to come.
+
+It didn't even wait until breakfast the next day to arrive. As I woke up my maid came in, holding a small letter for me. it was easy to notice my father's handwriting, something that I'd gotten more used to since he often sent me small letters like this at home.
+
+Alana,
+
+We are still investigating what happened to you friend. Surely you've heard by now, but it seems his former girlfriend tried and failed to kill him. I'm not sure what exactly happened, but the reports that I received when I got home were concerning and I'd like you to stay at the academy rather than go and see him. If you could, try to stay in public areas and remain close to others as well. Kala in particular may be a good choice, as while she won't interfere in politics she might well protect or heal you if something goes amiss. I want you to avoid being alone if at all possible, at least until we can find out more about things.
+
+With love, Dad
+
+Wow, he didn't even know he was twisting the knife. I finally get my family's blessing to spend as much time as I want with Kala now? I just leaned over into my pillow and screamed for a moment. At any rate it looked like he'd written this last night, before he knew that I'd already been to The Shield's temple, and there was a nearly one-hundred percent chance that someone would take offense at my going there too.
+
+I skulked down to breakfast shortly thereafter, in no mood to really talk to anyone. When I arrived I found Pinea off in a corner, looking rather stressed. I could have sought out someone else, but she needed a friend, and so did I, at least one or two more would certainly help. For a small mercy Kala wasn't here right now, I was still on the fence about how to deal with her at the moment.
+
+"Hi there, how are things?" I asked, moving over beside her.
+
+"Honestly? Not great." She looked like she'd been through a lot in the past few days.
+
+"Something happen?"
+
+"Yeah, a few things."
+
+"Still having problems with... well, lots of people?"
+
+"You have no clue. It used to be that I was always on top of things, front of the line, always had to be first and now... heck about a quarter of the people here won't even talk to me. Excluding you, most that will are not really people I was friends with before. For what too? I didn't even do anything, it's like they hate me because of who I am." She leaned back rubbing her temples. "I don't even know who that is anymore either. Used to be I was the daughter of one of the highest noble families, and now, now who am I?"
+
+"Well that last part is easy. You're Pinea, the sincerely devoted to causing scandal. Honestly you should be a bard with how you act sometimes." I pointed at her with my fork. "You're the girl who went and got a dancing outfit behind everyone's backs and threatened to wear it out into the street. The one whose made more dirty jokes than half of our dormitory combined."
+
+She blinked and sat up a bit straighter. "Alana, everyone thinks..."
+
+I cut her off. "Who cares what everyone thinks? Okay, I care a bit, but I need to work on that in a bad way. Particularly with those close to me, any advice?"
+
+"I know you're just trying to cheer me up," she said.
+
+"Is it working?"
+
+"Um... kind of. As for advice... mostly I think I was just being rebellious to you know, rebel. Now what is there to buck against?"
+
+"Society's expectations in general, people you don't like, the fact that Atali dancing isn't a common hobby." I was making a list, both for herself and me.
+
+"Oh, but it should be." She looked off into the distance, gripping her hand as if declaring a deep truth to the universe.
+
+"Agreed."
+
+We had to go to class now, but our dance class was later, so I agreed to meet up with her then. I knew I was kind of a bad friend, and I didn't even have that many friends, but it always seemed that I was running off when they needed me, and dragging them into a whole mess when I was around. Perhaps that would never change, but one could try at least.
+
+I tried to do as my father commanded and keep to the main hallways, never too far from anyone. I even tried to keep close to those students that I knew were connected more to the new government than the old. At one point I even walked between classes with dad's fanboy Tobias. He was nice, if a bit short and scrawny, and his penchant for light magic meant he could do some neat things. The down side was that he would really prattle a lot about all kinds of stuff too, which I didn't really know how to deal with all that well.
+
+While he talked I looked around the halls.  It had been a weird day today, for a number of reasons.  First there were certainly a few extra adults in the halls,  Here and there a  knight or an older mage walked around on some business or the other, I suspected that this was to keep an eye out for any trouble after what had happened.  The other big thing...
+
+"Okay, so there have been like, I don't know, seven or eight people missing from my classes today," Pinea said as we prepped for Atali Dance.  Tobias had split with me just before I got here.  "Have you heard the gossip?"
+
+"I haven't, I was hoping you might have.  You were always better at that sort of thing than me."  I had no shame in admitting it, she had been far more plugged into the school.
+
+"Right, so did you notice who was gone?"  She seemed a bit giddy as we waited.
+
+I counted in my head, thinking about who was missing.  "Former nobles, particularly those who'd been more loud or outspoken about how unhappy they were."
+
+"See!  You can pick it up.  That asshole got grabbed this morning I hear, someone came in and pulled him right out of the breakfast hall.  Oh I wish I could have seen his face."  She looked vindicated and had a rather nasty smile on her face as she pictured it, not that I could have blamed her.
+
+Her ex was a piece of work.  After their breakup he'd gone around being so rude about her even I had heard a few things.  He'd managed to keep it from being spread around why he was mad, but it was clear that he was.  There were even some nasty rumors about her behavior in private, which if I were honest, might really be true.  I wasn't personally bothered by them, but the general population was full of prudes.
+
+"You're not worried about yourself?"  I asked, her family really had been high up in the kingdom's hierarchy before they fell.
+
+She snorted.  "Hardly, that whole crowd reviles me and my only friends now are outside of it.  That and I've done my absolute best to keep my nose clean, after what dad sacrificed I have no plans on causing trouble."
+
+We were still warming up when Professor Etia arrived.  She led us through our paces one after another and then began a lecture on stomach movements.  They were hard to look at when we were all still in uniform, to her immense chagrin, but she tried.
+
+About halfway through the lesson there was a knock on the door.  When our teacher opened it there was a grim faced pair in the hall, sweeping their eyes over the assembled girls.  They settled on Pinea with finality.
+
+"Well, fuck," she said as she walked over to them, not making a bit of a scene.

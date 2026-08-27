@@ -1,0 +1,207 @@
+---
+id: 0102f347-98ed-5c64-9333-5defbeac3103
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 610 - Ready to Roc"
+slug: 0112-chapter-610-ready-to-roc
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 112
+ownLength: 2550
+unit: words
+ownProgress: 2550
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2589557/chapter-610-ready-to-roc"
+royalRoadId: "2589557"
+markedReadAt: "2026-06-29T19:38:52.930Z"
+---
+
+Tala looked up, and felt her eyes widen.
+
+The Mage was correct, a truly massive roc was descending on them, already seeming to block a good portion of the sky while still being nearly five hundred feet up. Though, that was a bit hard to determine, as it seemed to be a mix of cloud gray and white, with blue mottled throughout, all rippling slowly in a way that made it difficult for the mundane eye to notice it.
+
+It was distinctly Paragon level, and the lightning gathering across its body held enough power to utterly obliterate the caravan where it rolled.
+
+How did it get so close without us seeing it?
+
+-See those fading edges of power? It has magics of some kind, misdirecting observers and cloaking it. That combined with the surface level illusion? Yeah, we’re lucky we had any warning at all.-
+
+The echoes of the Mage’s call were still easily discernable across the wagons, only a few people even beginning to understand what had been said.
+
+-I’ll coordinate with the defenders down here.-
+
+They both then noticed the flock of lesser Rocs coming from behind the big bird’s back.
+
+-Rane and Terry will thin the lessers. The big one’s yours.-
+
+Tala was already standing before most people had even registered the Mage’s call. She didn’t bother talking to anyone or reaching out in any way. Alat had it handled, and Tala would focus on her task.
+
+An unconscious use of portions of her old Restrain magics freed her from Zeme’s embrace, even as she kicked off the wagon, shooting upward and accelerating faster and faster, her active magic providing the ever increasing acceleration.
+
+Her armor rolled out and over her, even as Reality Iron gathered around her.
+
+At the same time, hundreds of iron spikes embedded themselves in the ground around the caravan.
+
+As she continued to rise, she brought her will, her authority—and that of Rane and Terry beside her—to bear on two truths.
+
+First, she was the target for the lightning.
+
+Second, her iron was connected.
+
+Specifically not all her iron. She didn’t have any intention of blasting the power intake of every wagon’s spellform across the caravan. That would be a good way to kill all their passengers in one stroke.
+
+Instead, she linked the large cluster of Reality Iron around herself to that in the spikes deep in the ground.
+
+Less than a second after the call went out, the roc struck, its lightning coming down like a rain of destruction.
+
+But Tala’s will, her authority over the caravan, was unshakable.
+
+To the roc’s obvious surprise, as the lightning crossed into Tala’s passive aura, it all diverted straight toward her.
+
+The massive bird clearly didn’t initially seem overly concerned that its opponent wished to take the full force of the strike, especially since that opponent was being kind enough to concentrate the hit upon itself.
+
+Thus, her work went unopposed.
+
+Power slammed into the iron around Tala, instantly flowing through the connection she’d forged into the iron already in the ground, where it dispersed harmlessly, barely heating up the hundreds of tons of earth and stone surrounding her many spikes.
+
+The air around her took on a sharp, almost tangy aspect, but that was of no consequence.
+
+My turn.
+
+For the first time, Tala brought her void donut truly to bear, implementing her gravity cannon faster than a Refined could have tracked.
+
+Each shot required an incredibly precise sequence of actions. First, a portal had to be opened, connecting the void-donut portion of the sanctum within Kit with the superficial. That portal had to be perfectly positioned to catch the already immensely fast projectile on the inner end, and on the outside, it had to be positioned and oriented in such a way that it sent the shot in the proper direction.
+
+Second, the massively amplified gravity on the projectile had to be switched to target the roc, the exact instant that the portal opened.
+
+Finally, the portal had to be closed quickly enough that another could be opened to allow the next shot to be loosed, directing it appropriately.
+
+Stated like that, it sounded almost simple, but given the incredible variability Tala could implement with the portals, there were hundreds of factors to control on each end for each portal.
+
+Regardless, all of this combined to let Tala send off nearly a hundred shots into the roc’s easterly wing, originating from all across her domain, which contained the still-moving caravan.
+
+The tungsten balls tore great rents all the way through the wing, blasting holes through magically reinforced flesh hundreds of times larger than they were, even as they continued their path up and out of the planet’s atmosphere, never to return.
+
+The siege orbs similarly drove deep, but Tala also was able to trigger those within the massive wings, creating secondary concussions and waves of frost that locked up the already damaged flesh around their detonations.
+
+Tala didn’t use any of the more ‘refined’ or complex munitions, as she simply didn’t have the mental space to properly utilize them with Alat otherwise engaged. Moreover, this target frankly didn’t need finesse at the moment.
+
+The roc’s scream of rage at her opposition, pain from her attacks, and bafflement at its own assault being so useless, hit Tala like a physical blow, and would likely have killed the mundane oxen below if she hadn’t placed her will and authority against the somehow mundane sound, blunting it down to a merely uncomfortably loud noise.
+
+It immediately began listing to the east, its wing still functional, but damaged sufficiently to cause it difficulty.
+
+Now, roughly three seconds into the clash, Rane and Terry came onto the scene.
+
+Massive blades of cutting force arced upward on the western side of the caravan, carving through a great swath of the lesser rocs, even as he rose up to continue dealing with those who managed to avoid his larger strikes.
+
+Terry flickered through the easterly flock of rocs, staying near each flying bird only long enough to rend it apart—and maybe grab a nibble, or even to wolf down the whole carcass—before flickering on. He slew dozens per second with his up close and personal methods.
+
+Below, the Mages began getting their barriers in place, and given the… messiness of the Sappherrous aftermath, it would actually have great benefits.
+
+I’ll have to have Lyn extend our gratitude to the Caravan Guild for their insistence. Cleaning up all the splash back would have been… irritating.
+
+Tala also caught a glimpse of her daughter, down on the wagon that Rane had left behind. The girl’s mouth was still falling open, her eyes widening in awe and containing a growing spark of determination.
+
+She’d never really seen her parents and uncle at work, and she was clearly inspired by the sight.
+
+Tala hoped that wouldn’t have reason to change.
+
+The drivers and oxen were clearly hunching down in fear at what was occurring above them, the oxen picking up the pace in a vain attempt to get away from the overwhelming threat from above.
+
+The drivers, to their credit, were keeping the oxen going in the correct direction. If the caravan fragmented, they would have had a rusting awful time protecting it and drawing it all back together.
+
+But that was all the time that Tala had to focus back and downward, as she’d arrived at the roc, herself, slamming into the westerly shoulder and pushing it further toward the east. As she bounced slightly back from the impact, she attacked again, Flow leading the way in void-glaive form.
+
+The roc’s feathers shifted—seeming to fluff up just a bit to push her even further back—and Tala felt the powerful will and authority of the roc come into direct conflict with her.
+
+She was outside the bulk of her aura, remaining in a simple extension of it, leading up from the bubble which continued to shelter the caravan. She continued to fire gravity shots up at the roc, picking her targets a bit more carefully, and only using the tungsten balls, to continue reducing the utility of the easterly wing. Those still blew great cavitating holes in flesh, and even chipped bone when they got a direct hit, but they were but minor issues for the roc.
+
+As its will slammed into hers, the scope of Flow’s magic was reduced back to the blade itself. As it cut through the armor-like feathers, seeking flesh, Tala found herself irritated to realize that the blade wasn’t long enough to even reach the bird through its thick mat of feathers, despite her cutting through them cleanly with each strike.
+
+Tala took a moment’s thought to fire a few gravity shots from her armored form, aiming directly at the beast’s head.
+
+As she’d somewhat expected, the creature’s own will, authority, and aura reacted. In this case, it seemed to bend reality itself—Maybe dimensional magic?—to cause the projectiles to just barely miss each time.
+
+The creature let out a little derisive huff, even as it continued to drift sideways, and then its beak struck at her with a blinding speed that put even its lightning to shame.
+
+It was at an awkward angle, but it still hit true, cracking against Tala’s armor like the knife of an angry Sovereign.
+
+On reflex, she enforced her will and authority over her own body and refused to let it be turned to jelly by the force distributed across her entire being as her armor held firm, only deforming slightly.
+
+She barely had time to blink before she slammed into the ground, skipping across the landscape, her active gravity magics slowing her more rapidly than otherwise would have been possible, but still slower than ideal.
+
+In the distance, she heard wave after wave of lightning come down toward the caravan. This was followed by another screech of irritation from the roc as her aura and authority around the caravan, now more directly commanded by—and anchored to—Rane, diverted the attacks into her iron spikes each time.
+
+He similarly cushioned the less advanced against the sound of its rage, momentarily taking up her place seamlessly.
+
+She wanted to flicker back to the caravan where Rane was maintaining their authority, but for the moment, she couldn’t, and she didn’t understand why. At one level, she could feel the roc’s dimensional magics working against her, but that shouldn’t be enough on its own, at least she didn’t think so. Something was pulling at her awareness. It was almost like Reality was sturdier than usual, thus resisting her flickering though it.
+
+It took Tala nearly ten seconds to slow down enough that she could begin coming back, and another fifteen before she drew close enough to easily see what was happening once more.
+
+Terry and Rane had dealt with the lesser rocs, which had ranged from a majority of Fused level creatures up to five Refined.
+
+All fell easily to the two, more a distraction than a true threat.
+
+The primary beast was actively shrinking, proving Tala’s guess about dimensional magic was probably correct. It was still falling toward the east even as it shrunk, and Rane and Terry were actively engaging it.
+
+Terry was too fast and mobile for the creature to really do anything but take his attacks, even as he became bigger than Tala had ever seen to try and tear through the frustratingly thick, resilient feathers.
+
+Rane sent great cutting arcs into it, causing mostly superficial wounds, but they were actually creating wounds, and those were stacking up.
+
+Tala was picking up more speed, using all that she’d learned to minimize harm to Reality, and the danger of calling yet more beasts down upon them. To her surprise, it worked even better than expected, though whatever had increased the effectiveness seemed to be fading.
+
+Wait… I just traveled faster than this when hit, right? What the rust?
+
+-...Fascinating. In reviewing the memory, something about the rocs action… sheltered Reality from the abrasion? Is that even possible?-
+
+It’s obviously possible, is it replicable?
+
+-I don’t know. I’ll send the information to Mistress Ingrit, but we can’t be the first people to ever experience this.-
+
+And that was all the time they had before she returned to the fight. As she was about to impact, the roc’s beak shot for Rane in an attack very similar to the one that had thrown Tala so far.
+
+Rane simply vanished as the hit landed.
+
+Tala almost panicked, but her threefold perception saw that he’d moved stoneward around the attack, rather than having to dodge along a more traditional axis.
+
+The roc clearly didn’t have fourth dimensional perception—at least not that it was using in that moment—because it let out a confused squawk, tucking its wings in for the first time, even as it twisted and shrunk faster, clearly trying to avoid an attack that it was sure was coming.
+
+Frustratingly, it was somewhat correct.
+
+Even as Rane blipped back to the superficial, Tala slammed into the roc’s folding wing at an oblique angle rather than head on, hitting with enough force to pop one of the lower bones out of place with an oddly wet thwock.
+
+She’d been trying to hit in a way to cripple that westerly wing, but she’d take what she could get.
+
+Tell Rane to get back to the caravan. I can take it from here. Terry should go with him, in case something else tries to take advantage of the situation.
+
+-Will do. I’ll also convey the gratitude we feel, but you didn’t express.-
+
+…Thank you.
+
+-Of course.-
+
+The hit against the roc’s wing had slowed her enough that she was able to arc downward, following its trajectory as it slammed into the ground, passing through several trees as if they weren’t even there, to reach the dirt and stone below.
+
+The remnants of the vegetation it pulverized washed outward in a shower of splinters, leaves, and pulp of various kinds.
+
+Still, the beast wasn’t done, not by half.
+
+As Tala landed, trying to come down atop the roc, it dimensionally warped, pulling itself away.
+
+At the same time, another disquieting thwock resounded, the bone moving back into place.
+
+The bird was now barely bigger than Tala herself, seemingly perched on nothing, within a ball of lightning that also demarcated the edges of its hardened, reinforced, and ready aura.
+
+Its spirit and authority were clearly full of rage and loss, its entire flock was gone, and it now faced an opponent it clearly had never expected to deal with.
+
+Tala took a few gravity shots, but those not perfectly straight on were deflected to carve long furrows through the landscape behind the creature before—hopefully—stopping on the mountains in the distance.
+
+The far off rumble of landslides seemed to indicate that was the case.
+
+-Yeah… how about you stop doing that…-
+
+Fine…
+
+The shot that had been directly centered on the outside of the sphere had disintegrated to less than dust amid the storm of magical lightning, the hit utterly mitigated before it could harm the now much smaller creature.
+
+It hadn’t been without cost, given the obvious expenditure of power from the bird, but that cost hadn’t been enough to make it a viable method going forward.
+
+Okay, so… what now?

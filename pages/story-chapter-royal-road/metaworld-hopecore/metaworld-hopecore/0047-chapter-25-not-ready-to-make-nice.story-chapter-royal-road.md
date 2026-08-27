@@ -1,0 +1,161 @@
+---
+id: bfa5cacb-a89b-52e2-b89a-db4f989e8169
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - Not Ready to Make Nice"
+slug: 0047-chapter-25-not-ready-to-make-nice
+partOf: metaworld-hopecore
+position: 47
+ownLength: 2028
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372849/chapter-25-not-ready-to-make-nice"
+royalRoadId: "3372849"
+---
+
+“Those who can make you believe absurdities, can make you commit atrocities”
+
+Voltaire
+
+After the continuation of her morning Gen-Ed classes, Eppie arrived at her assigned slot in the Playhouse.
+
+Today was the Final Callback, and she was here to meet the crew who would be her shipmates until the December Gala. The people she met today would be her inner “circle”, the chosen “elite” that has emerged victorious from their gruelling conservatory training.
+
+Together with congratulations and well wishes, the very first thing Atkinsons gave her after a handshake and a hug was a printed copy of the first page of their new production bible, with their names officially stamped and inked into permanence:
+
+Production: Antigone (A Postmodern Adaptation) Director: Dr Craig Costello Technical Director: David CooperPerformance Date: Friday, December 14, 2007
+
+Cooper and Costello allowed the kids to have their moment, then motioned for Atkinson to direct his staff into place. With a nervous voice and a slightly wavering arm, their Stage Manager ordered the cast and crew to their positions for the first scene, Antigone’s confrontation with Creon.
+
+Eppie watched as the two retreated into the shadows, positioning themselves behind a long folding table mid-row, overseeing the theatre as though wardens of a panopticon prison.
+
+On stage, the Chorus sat to the left and right on folded chairs, leaving James “Creon” Jules on an invisible podium, addressing invisible cameras. Min-jun jostles the lighting, casting everything but the action in shadow. The lights around the Chorus are soft and ambient, half in shadow, while James is taking the stagelight full-blast.
+
+She stands on the stage right, ready to intrude upon the conference.
+
+Atkinson gives the signal, and the scene goes live.
+
+“Let me be clear,” Creon leans into the invisible mike, his body looming over the press corps. “There will be no extraction of Captain Polyneices. The decision has been made in accordance with the interests of the United States’ national security. The Law on this incident is clear and explicit. The Department of Defence will not be risking the lives of its men and women on…”
+
+The Chorus moves and shifts, miming photography as Min-jun inserts the “flashes”. Hands are raised for questions. Answers are dodged and rebuked. The word “Treason” repeats itself multiple times.
+
+On Atkinson’s cue, moving from neutral, Eppie felt her body shift into gear as she entered the stage, the lighting upon her body growing bright and hotter as she strode across the Chorus’ space into the centre stage.
+
+“Treason, uncle?” her girlish voice cuts across the masculine overture of the military briefing. “Is that what we call sending your protégé to commit war crimes, and when he realises what he has done, disavow and discard him as a moral casualty?”
+
+The Chorus turns. Imaginary lens blinks as Eppie is bathed in flashes.
+
+“Antigone? May I ask how you are here? This is federal property, and you are trespassing.”
+
+“Is that what matters, uncle?” Eppie’s whole body shook with barely suppressed indignation. “Secretary, you have a service member who has been deliberately left behind. A trial without due process. You—”
+
+“STOP,” came the voice of God that was Costello. “Creon, why are you drifting off? Antigone, you look great, but don’t block the audience’s line of sight to Creon. Lighting, pay attention. Why is Antigone more powerful than Creon? She isn’t. She’s the risk, not the power.”
+
+“Eppie, don’t look so composed and cold,” Cooper appended to Costello’s remarks. “Creon is still more uncle than Secretary at this stage. Antigone hasn’t been judged yet. She’s literally your age, unworldly except for the rage and truth in her heart.”
+
+The scene reset.
+
+Each member of the team returned to their places and ran the simulation. Once.
+
+Twice.
+
+Thrice upon a time… sanding out the tension and discovering new frustrations as their directors took notes and made overt remarks and took down secretive notes on each member of the cast.
+
+Over the weekend, Eppie sacrificed half her day to theatre, then the other half split between Zara’s guitar practices and the Stray Cat Alliance, cleaning out poo, putting down fresh rice husks, and playing with kittens with her friends.
+
+Lim came over a few times, sometimes with new cats, and other times with visitors who were potential adoptees. With Eppie’s [Charisma] and her [Persuasion], it was true to say that not a single cat went unadopted. As the self-proclaimed matron of the [Cat Distribution System], she would size up potential adoptees and methodically use her 42 Million USD a year CEO skills to sell them cats.
+
+“There is nothing more desirable in a guy than kindness,” she would say to a single young man looking for a feline companion, her eyes switched to full Puss-in-Boots mode. “Will you take care of Sir-Killa for me?”
+
+If a prospective couple came in, she would sigh and hold the hand of the young woman staring cautiously at her face and say, “You’re so lucky. There’s nothing that beats genuine kindness in a man,” then use her signature smile on the boyfriend, who would burst into cold sweat and hastily insist they adopt a cat.
+
+Noting this trend, Lim brought in every adoptee on the Alliance’s MySpace, and by the afternoon, all the kittens who were ready to be homed were gone.
+
+On Sunday night, to the applause of a party thrown by the Seniors, she was crowned the [Queen of the Cats].
+
++ Karmic Causality+ Karmic Causality
+
+Additional Causality from [Noblesse Oblige] received
+
++ Karmic Causality
+
+She wanted to visit Armand as well, but her Senior denied her visit, asking for patience as he finished his work. Supposedly, according to his friend, the Met visit had changed his outlook yet again, and he now had significant modifications to make for his Fall Gala Showcase.
+
+On Sunday evening, when she came home, Ava took her aside and gave her a strange, long look.
+
+“What’s up?” Eppie blinked innocently. “Is something the matter?”
+
+“Have you…” The Jewish girl tilted her head, as if seeing Eppie for the first time. “Somehow angered Valorie Sanders?”
+
+“Absolutely not,” Eppie confessed. “But yes.”
+
+She reminded Ava of that time at the Met, where she ran into Valorie for a few brief seconds while doing a singing gig to make ends meet.
+
+Ava, who was usually quite talkative, took a step back. “The Seniors are talking about you,” she said in an air of conspiracy. “The theatre Seniors, I mean, since dance and musical theatre cross-pollinate classes. I was completely weirded out when they started, but it sounds like they have a very particular impression of you.”
+
+“Oh?” Eppie moved so that the interaction felt less like an interrogation. “About what?”
+
+“That you’re trying to sabotage relationships between William and Valorie,” her roommate said. “I don’t believe a word of it, of course, but they seem to take great pleasure in the fact. At practice, that’s all the Seniors have been talking about, at least in my clique.”
+
+Musical Theatre, Eppie chewed her lip. That meant Valorie Sanders had decided to pull some shit after all. Was this a repeat of what had been done to Eppie before, though? Was an old dog up to its no good, not new tricks?
+
+“Am I going to be bullied?” Eppie asked, doing her best impression of panic at the disco. “What do I do if they bully me?”
+
+Ava looked like she wanted to say and do something, but after ten seconds of what looked like an internal civil war, she patted Eppie on the shoulder. “Just be careful, Eppie. If something happens, go see Coordinator Carr. She’s your friend, right? I am just glad you’re a Sophomore. At worst, Valorie is going to be gone by next year’s Spring Gala.”
+
+She nodded unconvincingly, then watched Ava swallow her words and walk away, more miserable than before they had talked.
+
+Christ. She pondered the [System]’s Message. [Usurpers] really do take the light of joy away from anything and everything.
+
+On Monday morning, Eppie became known as a thief.
+
+It was a shock to the system of everyone gathered in front of the Quest Board, but more so to the horror of Coordinator Carr, who had been summoned by the students to oversee the accusation.
+
+In her mind, she had already put the matter behind her almost three months ago.
+
+The matter of Euphemia Fontaine, who had reported to the faculty that she was being bullied, had been observed as being bullied, and then had taken a leap from the main building, was behind her.
+
+That, and she was once again being trotted out like a War Elephant. In LAPA, issues like bullying, both in the physical realm of the school and the metaphysical realm of cyberspace, were supposed to be handled by VP Thomas, then escalated to Arthur Burton. Why in god’s name was she, Susan Carr, liaison for the spaces the school used in CSULA and other venues, being tasked with a job to which she was unqualified?!
+
+But Carr dared not fight against VP Thomas.
+
+She had neither the guts, the connections, nor the support of the PTA association to stand toe to toe with Thomas. A voice inside her told her to simply disturb Principal Burton and get him to deal with it—but to override VP Thomas could very well mean losing her job—or at least, the lucrative connections she enjoyed to make her a successful Programs Director.
+
+Her morning had begun well enough, until a Junior, a girl called Simone Goode, a talented enough Dance Major, came to her with a message.
+
+“Eppie Fontaine stole something of mine, and it is currently kept in her locker. Please come to open the locker, and put everyone’s minds at ease, whether Miss Fontaine is guilty or otherwise.”
+
+When Susan had asked Simone what was stolen, the dancer had told her that it was a “Birkin Bag” that had been displaced. And that both she and others in Valorie’s circle had seen Eppie sneak something of the right shape, colour, and silhouette into her locker in the new wing.
+
+When Susan asked if they had requested CCTV footage to confirm, she was promptly told that the CCTV system was malfunctioning, or that the necessary time frame they required had not been saved and stored due to a networking failure in the system.
+
+At which point, Susan Carr understood what was going on.
+
+She regarded the African-American girl, the Jazz Contemporary Major, the girl who was on the school’s supplementary support waiver, and now enjoyed a plethora of things thanks to Valorie Sanders’s kindness. If she recalled, the girl had been Eppie’s roommate, once upon a time.
+
+“Simone,” Susan had lowered herself to the same height as this sixteen-year-old liar with the pained brown eyes, and asked her very slowly, and very meticulously, if she was serious that Eppie was a thief.
+
+“Are you certain?”
+
+“Yes.”
+
+“You saw her with your own two eyes?”
+
+“Yes.”
+
+“There is no doubt in your mind?”
+
+“Yes.”
+
+What Susan felt watching the confession… was pain. She shared the same pain that ran through the girl’s body every time she flinched like a startled bird, then muttered her affirmation while staring into the middle distance.
+
+“Alright,” Susan had left her office with a strange determination. Whatever happened next, she would defend Eppie. She would state that there must be a mistake and that, without concrete proof, such as CCTV footage, the return of the displaced item was sufficient. After all, dozens of people had access to the custodial office’s safe, where the master keys were stowed.
+
+And there was no way that Eppie could access that safe and key.
+
+Nor Simone, if she acted alone.
+
+But as for Valorie or William, the son of the man whose company built the new wing and installed the lockers…
+
+To think it was happening again. Every time LAPA had someone who outshone the Play-to-Win kids, something would happen. Once or twice was a coincidence, but for this to happen twice in one year, both instigated by Valorie Sanders, was too much.
+
+Whatever happened next, Susan Carr was ready to make peace with herself.

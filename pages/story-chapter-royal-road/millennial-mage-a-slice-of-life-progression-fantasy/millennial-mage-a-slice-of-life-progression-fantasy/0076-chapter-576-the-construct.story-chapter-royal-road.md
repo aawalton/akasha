@@ -1,0 +1,235 @@
+---
+id: 14be5b9f-a723-5d58-a774-d8c8c8bca685
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 576 - The Construct"
+slug: 0076-chapter-576-the-construct
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 76
+ownLength: 2959
+unit: words
+ownProgress: 2959
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2360473/chapter-576-the-construct"
+royalRoadId: "2360473"
+markedReadAt: "2026-06-29T19:37:43.665Z"
+---
+
+Tala, Nalac, Rane, and Terry spent the next days in a haze of togetherness and grief. With her brother temporarily remanded to her care, Tala did her best to just be with him.
+
+She didn’t try to distract him, or herself, allowing the sorrow to flow undampened, but never letting it take control or be the sole thing they had in mind.
+
+Nalac was even more reserved than usual. He often lifted his head to look at the door as if expecting someone to come through, but they never did.
+
+She never did.
+
+They talked of Illie some, but the memories still had so many rough edges… It was difficult to consider them.
+
+Rane alternated between being with them and working on a statue within the Path of Remembrance.
+
+Terry, similarly, was with the siblings or out in the countryside surrounding Arconaven. By reports that Alat conveyed to Tala, he was cutting a swath through even marginally dangerous creatures in the whole area. Additionally, he was apparently sweeping through the mines and killing off the lesser magical creatures every time they respawned.
+
+Tala would have gone with him, but she was put on what amounted to bed-rest, magically speaking. She bent that somewhat often, but still tried to limit her actions as it always left her sore and shaking when she did. Thankfully, the feeling began to fade after a few days.
+
+Through that time, Tala paid just enough attention to learn that the local city leaders had a plan, to place an artifact pylon of sorts at the confluence of zeme, to bind it there and prevent any other magical creature from coming from that well of power.
+
+It was an imperfect solution, as it would potentially negatively affect power flows in the whole region, but it was apparently the tactic often used when such nexuses of power were found, or came into being, too close to city sites.
+
+The lesser magical beasts that had participated in the attack had apparently been long known, at least vaguely, and ignored because they couldn’t penetrate the city’s defenses, even working together. They were a danger if miners wandered out of the reach of the great workings, but that was rare. It had only been the appearance of a more advanced, more powerful creature that had tipped the balance.
+
+To Tala’s surprise, Rane went to talk with the couple who ran the city when that news came in, but she couldn’t bring herself to ask further, not yet at least.
+
+After that, Rane was around far less, and when he did show up, he was exhausted. Tala took comfort in his presence when he was there, and didn’t press him for details on what he was up to when he wasn’t. She knew he would tell her when he was ready, when it was time.
+
+Lyn handled everything relating to Ironhold and the chaos the sudden changes in itinerary caused. Beyond that, she gave Tala space, offering her presence and assistance, but not forcing it, nor seeming to mind when it wasn’t called for.
+
+Mistress Petra and Master Simon handled the needed tasks within the sanctum, including providing meals and ensuring that the living spaces were maintained.
+
+Nalac stayed in a guest room when he slept, which alternated between being an over-much amount and too little, as he struggled to process his twin’s demise.
+
+Meallain was kept out of the sanctuary, relegated to simply continuing her penance with the Talons.
+
+Tala and Alat handled contacting their family.
+
+Everyone was, of course, devastated, but there was also very little surprise.
+
+In Tala’s years separated from them, apparently many friends, distant family, customers, and acquaintances had passed, somewhat inuring them all to the shock of such a loss. Moreover, they were all aware that Nalac and Illie had chosen a dangerous line of work, many of them having talked with the two about just that at the last gathering in Makinaven.
+
+Even so, they would all come to the ceremony. That was only possible because Tala and Rane offered to make it possible. Honestly, Tala was surprised that there was going to be one at all, but since she was informed that there would, she knew it was right to ensure her family could come.
+
+Their plans in Bandfast were extremely delayed, but no one gave them grief over it. Even Mistress Holly simply sent back sincere condolences and a note that the extra time would allow her to perfect her work further, so Tala shouldn’t rush.
+
+Tala didn’t track the days, but soon enough, it was time, and Rane, Terry, she, and Nalac traveled back out to the cavern where the mole-thing had been slain for the last time.
+
+Tala was honestly a bit surprised by the large rise now present at the location.
+
+-Well, we did excavate somewhere between four and forty million cubic feet of material.-
+
+That’s… a really big range?
+
+-If you want more accuracy, do the calculation yourself.-
+
+Tala almost prodded Alat, but decided it wasn’t worth it in the moment. The alternate interface knew that Tala cared for her.
+
+Nalac, for his part, goggled at the fifty-foot wide shaft leading straight into the ground, but when he looked to Tala, she merely shrugged. “It killed my sister.”
+
+Tears came to her eyes as she spoke, and Nalac teared up as well, hugging her close. Terry flickered to the boy’s—no, the young man’s—shoulder and nuzzled him. Rane wrapped his arms around both of them briefly, then guided them to walk out, over the pit.
+
+His magics enshrouded them, keeping them from dropping downward as of yet, and Nalac gaped, momentarily forgetting his tears as he looked straight down.
+
+The walls were compacted outward to such an extent that they had an almost mirror-like finish, and Tala regarded her husband in pride. He’d done fantastic work, helping her not bury them alive in her grief.
+
+Though, I suppose I could have just moved stoneward before navigating downward and bypassing the intervening space altogether… But she hadn’t thought of that at the time, and it wasn’t like she was going to be able to go back and change it.
+
+After a slightly prolonged moment, Rane allowed them to lower, speeding up at a steady pace while sheltering them from any turbulence with a flexing of his will within their aura.
+
+Side passages and natural rents occasionally opened into the shaft—Tala hadn’t even noticed them while carving downward—but they seemed to have been integrated in such a manner that they didn’t pose a danger to the integrity of the insanely deep hole.
+
+They were the last to arrive as they came down through the ceiling of the great cavern.
+
+Below them, the team mates, loved ones, and relations of those who died were gathered around a cloth draped mound.
+
+Tala kept herself from perceiving what was under it as Rane had requested before they headed in this direction.
+
+The place was illuminated by massive workings of power that simply rendered everything well lit. As such, the drifting group was easily noticed. They drew eyes as they descended, and Tala realized that most had come through the caverns, if the signs and indications she picked up were any indication.
+
+Regardless, there were a few hundred people, and as Tala, Rane, and Nalac’s feet touched down, they were ushered forward.
+
+Tala took a moment to open her portal into Kit, allowing her family to flow out, along with Illie’s parents who had been specifically invited and included out of respect for the young girl. Young woman.
+
+The outpouring of people caused even more of a stir, but Tala didn’t care.
+
+The city leaders greeted Tala and Rane personally, and Tala realized that she should make special note of the Paragon couple, but she couldn’t bring herself to care just then.
+
+They were kind and courteous, taking time with Nalac as well, thanking him for the part that he played in the defense, before greeting the family in passing and turning to address the crowd as a whole.
+
+There was a short speech before the cloth was pulled back, revealing a masterwork.
+
+By Rane’s smile, he had had a large hand in it, even if, judging by some of the work, he hadn’t been the only sculptor involved.
+
+It was a wonder nonetheless.
+
+An outer ring of guardsmen stood ready, immortalized in stone, their faces clear and individualized. Within were the depictions of the Mages and magelings, artfully positioned so that each could be easily seen from at least a few places outside the tiered structure of the sculpture.
+
+Tala easily noticed that Illie and Masters Balin and Ori were among the most detailed, looking as if they had been captured mid-motion, rather than having been carved in place.
+
+She leaned against her husband. “Thank you, Rane.”
+
+He put his arm around her once again. “Always.”
+
+There was a short pause while those who had gathered moved about, finding the depiction of the one they’d come to mourn. That, of course, triggered just that, and the cavern was filled with the sound of soft sobbings and the occasional overwrought exclamation.
+
+When the susurrations had died down, the leaders of the city gave another short speech, explaining that this statue was more than just that. It was an artifact, imbued both to prevent any other magical beast from rising up here again, and to provide a lasting protection for humanity.
+
+As they began a unified working, Tala’s attention was fully drawn to them.
+
+From her view, she saw the reality threads of the statue and that of the confluence of zeme be drawn together and melded. On a magical level, the two were magic bound, natural magics lighting up all around the carved effigy.
+
+The magical density in the cavern didn’t shift overmuch, but it did lessen, starting to drain away slowly now that its source was diverted.
+
+Those among the crowd with improved magical senses all had some sort of reaction when auras blossomed out from every depiction, perfectly matching those of the departed.
+
+Rane smiled in muted satisfaction even as Nalac—whose senses were still incredibly rough—simply commented, “It… it somehow even feels like her…”
+
+Then, the final part of the construct engaged. Far above, Tala felt a blossoming of power, and before she could become confused or investigate, more words followed. “Above us, a manifestation of this statue has been created in the center of the space atop the open shaft. Additionally, the hole itself is sealed over so that none can fall and get hurt. Finally, a ring of safety for humanity, and all those with us, has been generated in a circumference of one hundred yards around the manifestation. It will endure through the cycles, a testament to the men and women who died saving thousands.”
+
+And that was it.
+
+There were some Refined Defenders that moved through the crowds, conveying their sympathies and regrets. They were seemingly those who had come to help on the day of the disaster, those stationed in the city.
+
+They hadn’t been fast enough to save Illie.
+
+Still, when they came, Nalac greeted them all politely, one woman in particular received a warm hello. He thanked her for saving him and the guardsmen who had been with him. Those same guardsmen and women came by to offer Nalac and his family their sympathy and gratitude.
+
+In their words, if it weren’t for him, they’d have been among the fallen.
+
+It all passed in a blur to Tala, and soon enough, she and her family were among the last left, stepping into a portal and arriving within Kit for a reception of sorts, meticulously prepared by Mistress Petra and her assistants.
+
+The food was of little interest to Tala, but she ate anyway, knowing that she needed it.
+
+Despite the wonderful fare, everyone was understandably subdued.
+
+When they’d eaten their fill, they all walked the Path of Remembrance to where Rane had carved a statue of Illie and set it in a place of honor.
+
+This statue also felt like Illie, her aura shining forth due to Rane’s efforts.
+
+No one commented on the surrounding space, seemingly available—but not obviously prepped—for many more statues.
+
+There was a sense within the group that they knew statues of them would be found here in years to come.
+
+No one really felt like socializing, and shortly thereafter, everyone departed, taking the teleportation circles created by Tala and Kit back to where they’d come from.
+
+Throughout the time, Illie’s father and mother had seemed on the edge of approaching Tala on many occasions, but they held back. In the end, when they were the last ones left to leave, they both bowed toward her and Rane, a clear tumult of emotions in their eyes, looking like anger, confusion, and despondency all at the same time. Even so, they clearly were trying to master themselves as they spoke. “Mistress Tala, Master Rane, thank you for allowing us to…” Tears overcame them momentarily, and they leaned on each other to gather themselves. “Thank you for allowing us to be here.”
+
+Tala and Rane bowed in return, and that was that. The two teleported out, leaving Nalac, Tala, Rane, and Terry alone near the departure circles within Kit.
+
+There was a sense of emptiness that hung over them, like a large question mark, asking, ‘What now?’
+
+Nalac obviously felt it too. “I… Master Balin provided for my continued training in his last will and testament. It’s actually another Master whom we worked with on occasion, and his current mageling is on the edge of advancing, regardless. I’ll be in good hands, and my work won’t take me anywhere… dangerous.”
+
+Tala hesitated only a brief moment before embracing her brother. “I’m glad.” Then she scrunched up her face, fighting back tears. “No, I’m not glad, but I am gratified to know you have a path forward.”
+
+He nodded, leaning into her embrace even as his eyes welled up as well.
+
+Terry crooned, and Rane enfolded them yet again.
+
+After a long moment, he pulled back. “Once I’m affirmed as a Mage…” He looked away. “I don’t know that I’ll go further than that. I… I don’t want to fight any more. I don’t really want to use magic any more, but it’s all I’m trained for. It’s all I know.” He shrugged lamely. “I’ll make it work.”
+
+They embraced once again, Tala utterly unsure what to say.
+
+They stayed in the area for another day, making sure that Nalac was settled in with his new master before they departed, heading south back to Bandfast.
+
+The trip was… gray.
+
+Tala had trouble focusing as Illie’s passing was a weight upon her mind and heart.
+
+Rane was patient with her, never trying to distract her per se, but still drawing her out of her internal contemplations whenever he had the opportunity.
+
+By the time they reached Bandfast, Tala was able to smile and respond to Rane’s questions mostly normally, and Alat was even a bit back to her old self, after so long of near silence.
+
+-Well, that was an unpleasant diversion, but we’re back on the path now.-
+
+…I am not a fan of that framing, Alat.
+
+-Well, I’m not a fan of any of this.- The alternate interface grumped.
+
+Tala sensed that she wouldn’t get anywhere by pushing further. Fine…
+
+-We have a lot to check up on and do within the city, but none of those obligations are set for a few more days at least. We can settle in and just be for a day or so. Let the familiarity of the old place soothe us some.-
+
+Yeah… Yeah, that sounds nice. Thank you, Alat.
+
+-Sure.-
+
+And so they did. Tala, Rane, and Terry wandered the city, speaking of memories and times gone by, chuckling at little things.
+
+They passed the bank, and Tala was tempted to go in, but they didn’t have any business within. Still, she happily recalled paying off her debts and how she’d reveled in that accomplishment.
+
+It seemed so trivial now.
+
+How much of her life had revolved around what was now such a miniscule amount to her and Rane?
+
+There was probably some lesson in there, but she couldn’t contemplate sufficiently to parse it out.
+
+They passed by Lyn’s old house, and that set off some sadder reminiscences. It was no longer hers, of course, since she had taken up residence in Irondale. Kannis lived there now, and while they would still be welcome, it wasn’t Lyn’s house.
+
+Lyn had been giving Tala space to grieve, but Tala felt like that distance was no longer required. She missed her friend.
+
+Alat reached out, and moments later, Lyn flickered to the superficial. After a quick visual check on Tala, she oriented herself and chuckled. “Well, home sweet home, eh?”
+
+They were in the park across from the home, somewhat near where they’d fought the syphon. Rane chuckled as well, and Tala shrugged. “We just followed our feet.”
+
+Lyn regarded Tala for a long moment before opening her arms wide and huffing a laugh.
+
+Tala was a bit surprised. “Why did you laugh?”
+
+Lyn shook her head, tears coming to her eyes. “I only laugh just to keep from weeping. I am so sorry, Tala.”
+
+Tala only hesitated for an instant before stepping forward and accepting the embrace.
+
+“I know what it is to lose those you love. I’m here for you.”
+
+Tala tucked in tighter. “Thank you.”
+
+After a long moment, Lyn pulled back slightly. “Come on. Let’s go get some food.”
+
+That drew a laugh from Tala, followed by a faux glare, and the three humans and a terror bird turned to go do just that.

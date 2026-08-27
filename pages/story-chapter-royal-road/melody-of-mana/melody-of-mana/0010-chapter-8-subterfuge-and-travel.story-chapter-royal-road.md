@@ -1,0 +1,255 @@
+---
+id: 11d02e03-beb9-5d30-bdaf-53de9813b326
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 Subterfuge and travel"
+slug: 0010-chapter-8-subterfuge-and-travel
+partOf: melody-of-mana
+position: 10
+ownLength: 3658
+unit: words
+ownProgress: 3658
+publishedAt: 2021-06-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/704697/chapter-8-subterfuge-and-travel"
+royalRoadId: "704697"
+markedReadAt: "2026-06-29T22:26:35.471Z"
+---
+
+As I neared the summer of my fifth year on this world my lessons continued with Mystien, though they did change somewhat. We no longer focused entirely on control, but on more mundane things as well. He had a number of books and maps showing things like geography, grammar, manners, and the like, which he was teaching me from. This was not like a formal education on Earth, as it focused much more on how to interact with people based on their social standing, and knowing the important things about the bigger players.
+
+Every day after we began I would be given instructions at the beginning of the lesson. These would list off the status I was to treat Mystien as, as well as the status I was supposed to assume. From my side I would need to act somewhere between a pauper and a minor noble, boy or girl. I would then treat Mystien as somewhere between a pauper and a high ranked noble, though our ranks would only differ by one or two degrees.
+
+"Mystien," I asked one day after we'd finished, "why are you training me in all these different mannerisms?"
+
+He looked me over for a few moments, "You will probably not always stay here. You will need to know how to act around people of every status."
+
+I nodded, "Okay, that makes sense, but why are you having me learn to act as people of a different status, or a boy?" I had some theories, but I wanted him to confirm.
+
+He gave a sly smile, "You're too dang quick for a five year old. It's like talking to an adult, you know that right?"
+
+I just kept looking at him, "That's not an answer is it?"
+
+That got an actual laugh, "No, it wasn't. Well, in a couple of years you might have to hide. Casters being rare around here. If that happens, I want you to be able to blend in anywhere."
+
+"Oh," I said, it would seem he was giving me a basics course on... spycraft? Escape? What would I even call this?I spent a few moments considering this. I could already make food and drink anywhere, anytime, along with some quantity of gathering. With my magic backing me up, I might be able to disappear into any environment like a ghost. I had a few concerns though.
+
+"That makes sense. Are you going to teach me to hide my aura?" I inquired, making a few notes for later, "Oh, and can you tell me my role the day before?"
+
+"We'll get there," he promised, "anything else?"
+
+"Oh, I should probably learn about clothes, and begin carrying things that might be important, for practice," I nodded.
+
+Our lessons got much more in depth after that. I even started dressing up a bit and changing my hair, mostly because it was fun, and fun was short on the ground these days.
+
+My guess was that whatever had happened at their midnight meeting had spooked my teacher something ferocious, though I knew he'd never tell me. I did get my parents to give me a small belt knife. I was a little young by their thoughts, but when I told them I thought it would help with lessons, they agreed.
+
+I started picking up a few more things here and there as well. I made a real effort to be friends with Sara, which my family approved of as an alternative to some chores. We ended up doing things which mostly consisted of work anyway. Her family did a kind of weaving to make small straps that my mother didn't. They were used for all kinds of things, but mom was just bad at it, so she traded for them instead. I wouldn't say I was good but I could manage the simpler patterns.
+
+I also worked on some of the other handcrafts that girls of every level of society practiced, things like sewing and embroidery. It was a struggle to learn, but useful, and I could at least claim it was useful for my lessons. I didn't bother with learning the crafts most boys knew. My brothers were already doing a ton of that, and it would take too long to get passably good.
+
+I also noticed some changes in John. He was starting to develop the barest hints of an aura. It would flare up sometimes to something impressive, then fade to almost non-existent at others. It's shape was much like dad's, but steel gray instead of black. My dad seemed to notice he was changing too, and was giving him more training in combat than anyone else. When I asked Mystien about the aura I was told that some people took a while to come to their own, but eventually it would stabilize. Poor Rod still struggled.
+
+My oldest brother kept working the hive, and even added another with some of the petty cash he had. He claimed that he thought it was a good investment, but I suspected he just liked working with them. The day came when he informed me of one of the things I'd asked him to keep an eye on had happened.
+
+"Hey, you said we'd gather the honey up when four fifths of it was capped off right Alana?" he said to me one night.
+
+"Yup, that sounds about right." I responded.
+
+"I'm going to do that tomorrow then." I blinked at his words.
+
+"Done already?" I asked, then thought, but it was getting warmer, maybe that was about right.
+
+"Well, you should try to not cut the comb off completely, maybe the bees will rebuild faster." I shrugged as if I didn't know they would.
+
+He nodded to that and continued about his after dinner work.
+
+The next afternoon he and several other boys were at our house working on the combs. Each one of them seemed interested in putting up his own hive. The work was so little, and the payoff in valuable product so high, that they were chomping at the bit to get started. I decided to get my share from my hive from Rod partially in money this time, rather than keep the wax.
+
+Rod moaned and complained about me not needing actual coinage, but I had some ideas. If I was to be ready to flee at any time I would need some, and coins were the best way to carry value easily. He handed me two silver coins, each about an inch in diameter several days later, and I realized I had another problem.
+
+"Dad," I asked my father that night, "can you explain money to me?" I heard Rod laugh in the background.
+
+"It's a way to carry something valuable but small..." he began.
+
+"I understand that much, but what equals what?" I clarified.
+
+"Oh, sure, well, there's thirty copper in a silver, and twenty silver in a gold. Though you don't see gold much around here." he explained.
+
+"Those are weird numbers, why those?" I asked after hearing that. I was expecting orders of ten, like you saw in most games.
+
+"Well, it's two times three times five for copper to silver, and silver is only worth about one twentieth of gold by weight. The silver and gold coins weigh the same, copper are a bit off, but fairly close." I almost dropped my jaw at how good of sense that made.
+
+"Makes it easy to divide things up." he finished.
+
+"Okay." I was a bit speechless... I suppose life wasn't like a game.
+
+One day after our practice session Mystien asked me an unusual question.
+
+"I've got business in Hazelwood in about a month. How would you feel about tagging along?"
+
+"I'd love to!" I'd never left our sleepy little town since coming to this world, and going to the nearest major city seemed like an exciting adventure.
+
+He held up a hand, "There are conditions, first, your parents have to agree, second, we'll be putting on a bit of a charade." these seemed important.
+
+"A charade?" I asked.
+
+"Yes," he explained, "you will be playing the part of my new apprentice, a boy of merchant stock.".
+
+I laughed at that, "Okay, I'll get my parents to agree, but I'll need clothes to look like a boy.".
+
+"I'll get the clothes, anything else you think you'll need?"
+
+"A hat." I told him.
+
+With that we settled it.
+
+My father agreed with some argument, but ultimately he trusted Mystien enough to let me go. In the intervening time my brother harvested honey again. It was later in summer and this time he had several who came by to watch and ask lots of questions. Most were from other little hamlets or the main village, one was from Creekrun. I got one of my two silver in copper this time, so I could have some pocket money for my own town run.
+
+That morning Mystien came by with the clothes for me, which I changed into while listening to him and my father talk outside.
+
+"Why exactly are you having my daughter crossdress?" I heard dad asking.
+
+"I've already explained that to both you and her." the old wizard gave a rather curt response.
+
+"Well I know but..."
+
+"But nothing, you and I both know a boy will attract far less attention than a girl, particularly if the time should come when we're not around to protect her."  His voice was a bit harsher than normal, "Besides, there are already too many people who know about a young girl in our town who's a bard. I don't know how many yet, but if word spreads the Lord might send someone to sniff around for a new personal healer. Muddying the water can only help that.".
+
+"Then wouldn't it be better to just not have her go?" Dad seemed a bit prickly about being lectured.
+
+"No, she needs the experience. Hazelwood's not a huge town, but learning about how they work will be good." I agreed with Mystien, mostly because I wanted to go though.
+
+I came outside to join them once I'd finished. My new outfit was loose fitting, blue tunic and trousers, with a brown vest, along with a toboggan-esque hat. I took the time to do up my hair so it looked short under the cap. Once ready I came out and spun.
+
+"How do I look?" I asked.
+
+"Like a boy." dad said.
+
+"Yup, quite good." Mystien replied.
+
+"Well sir, I'm quite ready to leave when you are." I told my teacher, in my best 'merchant boy' accent.
+
+"That's just creepy." dad shuddered.
+
+"Alright then, let's be on our way." And with that the older man turned, leading me off.
+
+As we walked we began to discuss our planned route.
+
+"First we'll head east to Creekrun, we'll arrive there sometime in the afternoon, and spend the night in their tavern. From there we'll head to Khole's Hill, again spending a night. We'll arrive in Hazelwood early the next afternoon. Any questions?" Mystien rattled off the locations and general plan.
+
+"Shall I keep up the accent for the entire duration teacher?" it seemed like the first thing to ask about.
+
+"Yes." he nodded.
+
+"Very well then, are we expecting any trouble, and should we encounter any what is the plan?" since this was part of his training regime it seemed the best to ask.
+
+"Good questions," he responded, "we are not expecting any issues. This is a well traveled and peaceful route. If we should encounter anything, stay behind me. If I tell you to run, flee to the previous town and lie low in the tavern we stayed at." I nodded at his list, "If all else fails, use your attack magic, but that's a last resort, as would be fleeing into the wilderness."
+
+"Understood sir, is there anything else I should know about this trip?" didn't hurt to try.
+
+"I doubt the other towns are doing as well as ours. You are not to use magic without my express permission outside of emergencies. Also, stay close to me. Your father might just kill me if something happens to you." he listed off a few things.
+
+"Yes sir." I replied.
+
+We stopped for a quick lunch just before noon at the halfway point. It was a simple affair of bread (summoned), water (summoned), and a bit of dried fruit. While sitting I was asked a question.
+
+"How would you like to make this slightly more difficult?" my teacher grinned.
+
+"I don't mind sir, how so?" I was genuinely curious.
+
+"Suppressing your aura is a fairly simple trick, all you do is try to remove the outward sign. In my case, I take apart the shapes mine forms." he said, "Try it while we're going, it'll make you concentrate a bit on another action".
+
+So I went about popping my bubbles. I imagined using a pin to poke each one. It didn't seem all that hard.
+
+"Like this then?" I asked.
+
+"Not bad, I can still see it, it's just lesser. Now, see if you can keep that up for our whole trip." he had an evil expression on his face. I suspected this would be harder than I thought.
+
+It was much harder, even just as we were walking. Dividing my attention almost made me trip several times.
+
+As we approached Creekrun I could see a few of the fields. Almost half were laying empty of crops, or getting overgrown with weeds.
+
+The people we saw as we got into the village's walls were even worse. Orsken was holding up well enough. For us it was a bit tight, but this, several had obviously lost a bit of weight.
+
+"Things are not going well are they sir?" I asked, nearly slipping from my act.
+
+"No, no they are not." came the reply. From the tone I would guess it was worse than even he expected.
+
+We found the town's tavern easily enough. The burly old man working it told us that there were no meals served right now, though he did still have some ale. After having a couple glasses of the lightly alcoholic drink we headed up to a rented room. There were two beds and when we closed the door I breathed a sigh of relief.
+
+"Aura." Mystien reminded me, apparently I had to manage it even when in private.
+
+"There are no meals being served in the tavern, what does that mean?" I asked as I went back to popping bubbles.
+
+"It means that there's almost no food left in town. Or at least, no extra, Creekrun is a major fishing area, I'd wager most everyone here is eating almost only fish.".
+
+"Why aren't they having the young men and women work the fields?" it made no sense to me as a farmer's daughter.
+
+"Accent, and because they don't have many. Fishing is their main industry."
+
+"Ah, I see, that's, a bit distressing." I remarked.
+
+I summoned us a bit of dinner and we took a quick walk around town before returning to our room around sunset. At Mystien's direction an early night was declared, so we could be out of town with the dawn.
+
+Khole's Hill was quite honestly much the same as Creekrun. It was, as the name suggested, situated on a hill. The people here looked worse than those I'd seen before. Nobody was at the level of starving yet, but there was a distinct lack of men of all ages. A quick inquiry with the barman, who was quite old, indicated that the riots here over the taxes had been quite bad. He spoke to us quietly about it, as it was a bit sensitive.
+
+"Aye, they went on for two days, eventually the Lord sent out a detachment. It wasn't pretty." he sounded a bit broken by all of it.
+
+Our stay there was not particularly interesting. Though their tavern did have a bit of porridge to offer as food. A definite improvement, only in that I didn't have to use more mana.
+
+By the time we arrived at the gates to Hazelwood I downright hated this trip. The dress up game had lost all it's shine because it never ended, the food was bad, and the new clothes were both hot, and uncomfortable. As an aside, keeping my aura contained at all times was giving me a constant headache. I had no idea how dad did it.
+
+As we approached I realized something. Hazelwood was a city, not a town, nor a village, but a full on city. The walls were probably twenty foot high, stone, and judging by the men walking on them, fairly thick. I could see the crenellations from afar, but once we got near the machiciolations became obvious as well. Judging by the size I would guess around ten thousand lived here most of the time. There were perhaps less right now. It even had guards at the gates seeing who was coming in and out.
+
+"Names, occupation, and business in the city." one of said guards asked as we got close.
+
+"I'm Mystien, this is my apprentice Kale." I could have hit myself. I forgot to ask the fake name he wanted me to use. "I'm a wizard, and my business is seeing an old merchant acquaintance." he spoke as if he'd been through this a hundred times.
+
+The guard stood up a bit straighter when he heard the man he was talking to was a mage, and called over another guard to look us over.
+
+The new man was dressed in lighter armor, and it was easy to tell from his aura that he too was a caster, and not a powerful one.
+
+"I see no strange auras or anything of note. The boy's not that strong, his master on the other hand... may I ask your name sir?""Mystien." he was told.
+
+The second guard stiffened for a moment, then nodded, "That concludes our check, please have a good day sir." and let us through.
+
+After we were through, I looked over at my companion, "His reaction was a bit unusual, wasn't it sir?" I asked.
+
+"Not too much," he responded, "about ten years ago I was involved in a war. Made a good name for myself with the locals." He didn't elaborate.
+
+"Oh, you've never spoken of it before." I was a bit prying about this.
+
+"Because I don't like to, war is not enjoyable lad. I hope you never have to understand that firsthand." That was a clear dismissal to the conversation, so I went somewhere else.
+
+"I see a number of taverns near the gate sir, which shall we be staying in?" It was a harmless enough inquiry.
+
+"We won't be staying near the gate. There are several that are for the average traveler, but as spellcasters we'll need to head a bit further in. In this city there are only two taverns nice enough for us to reasonably stay in, The Golden Lion, and The Scarlet Harlot. We'll be staying in the Harlot.".
+
+"Could you explain why we need to stay in a very nice tavern sir? Also, is the harlot a brothel?"
+
+"Spellcasters exist in an unusual place in the social hierarchy. We are not commoners by law, and while many are nobles, many are not. That and the prices we can demand for our services means that if we stay somewhere cheap, it will reflect badly upon us, and raise suspicions." At the next part he laughed, "And no, the Harlot is not a brothel. One does not normally sleep in a bordello.".
+
+"Good to know sir." I deadpanned.
+
+"Also," he continued, "I know the owner, and would love to see her again.".
+
+As we walked through town I noticed the changes. The gate area was most definitely aimed at travelers, though just past it was a very poor area. Once you got past that things went up, first merchants, getting slowly higher class, then finally where we ended up. The last street we came to was distinctly high class, clean, paved, and with more guards. The people were also well dressed, a few in what might be called finery. I felt we stuck out, but the number of auras told me we'd be fine.
+
+I was a bit put off as we came up to The Scarlet Harlot. For one the building was red, naturally, secondly, it was a bit much. The doors were enormous, and opened for us by an attendant. The inside was bustling, the smell was amazing in here. Obviously there was no lack of food at this level. Mystien led us forward to one of the serving girls, of which there were three, picked for their looks if I had to guess.
+
+"Greetings sirs, and welcome to The Scarlet Harlot." The woman was wearing a rather low cut red dress, as per the theme, and winked at us as we came near.
+
+"Good day." Mystien returned.
+
+"A pleasure to meet you miss." I thought I would be ill.
+
+"My what a polite young man," she smiled at me, "how can we serve you today? Food and drink? A room perhaps? Or shall I make arrangements for something else?" She gave my teacher a very wide smile at that. I was fairly sure I heard him say this wasn't a brothel.
+
+"Two meals, whatever the special is, and a double room. As well please tell Veska I've come to visit." he rattled off, seemingly uninterested in her advances.
+
+"Who should I tell her her visitor is sir?" The woman asked as she led us over to a rather private table.
+
+"Mystien," he said, and she hurried off counting the coins he'd passed her.
+
+The meal was magnificent, roasted chicken with herbs and vegetables, finished off with a cobbler.
+
+No sooner had we finished then we were led down a side hall, ending in a gilded double door.

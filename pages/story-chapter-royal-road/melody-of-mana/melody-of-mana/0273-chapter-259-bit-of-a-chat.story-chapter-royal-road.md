@@ -1,0 +1,95 @@
+---
+id: 81c3a353-ab06-502f-949d-f7a9bba3ff1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 259 Bit of a Chat"
+slug: 0273-chapter-259-bit-of-a-chat
+partOf: melody-of-mana
+position: 273
+ownLength: 1308
+unit: words
+ownProgress: 1308
+publishedAt: 2023-08-16
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1311896/chapter-259-bit-of-a-chat"
+royalRoadId: "1311896"
+markedReadAt: "2026-06-29T22:35:15.270Z"
+---
+
+It was hard to say that I really wanted to go back to Linden, but at least this time it would a straightforward kind of thing. Justin wasn't blaming me for showing the dangers of the portals, which I was thankful for, and was even helping me in my mission to fix this nonsense up before something terrible happened. It seemed the least I could do was go and talk to the only other living transmigrator for him, or deliver a letter as it were.
+
+Before that though I had a meetings with my own people to deal with. The first was with those of us who'd activated the stone and gained the ability to make portals, be they my people, or Dras'. There was one large room for all of us set aside, and we were all there now.
+
+“Good afternoon everyone, I have good news, and bad news,” I started. “Let's begin with the good. I've got some new built-in safeties for the portal network which should solve some of the biggest dangers for us. We'll still need to be careful, but it should allow us to get back to expanding the network shortly.” My declaration there was met with a small cheer.
+
+“Excellent, so what are they?” One of Dras' people asked.
+
+“Here, this stone will allow us to upgrade our cores in such a way as to allow it.” I pulled out the new stone, showing it to everyone with a small smile. “Now for the bad news though. Everyone here will be restricted from leaving the facility until they've completed that.”
+
+There was an uproar.
+
+“Where did you get that!?”
+
+“Changing the core isn't something that anyone can do ma'am, can you!?”
+
+“We can't leave?”
+
+Eventually I whistled a tune and sent silenced the room for a moment.
+
+“I know you all have questions, and I understand your concerns, but this is not a negotiation. The one who provided this to me has their own reasons for doing so, and the ability to force the issue if needed. I would rather it not be needed. There are other questions that will be answered on a need-to-know basis, and I hate to say it, but most of you don't. Please understand that I'm doing this for all of our protections,” I finished, giving each of those gathered a harsh look.
+
+Everyone other than Dras, myself, Selene, and the twins were dismissed. We needed to have this conversation, and they needed to know the truth of the matter.
+
+Selene mostly kept to herself nowadays, but her glare at the stone in the middle of the desk was hard. “Where did you get it?” she asked.
+
+“The same place I got the last one,” I answered softly.
+
+“I found the last one, not you, in a desk.”
+
+“Where I planted it at the behest of the one who made it.” That got eyes from all of them on me, everyone knew how serious this was.
+
+“That elven mage we met, the one who knew you?” Dras asked.
+
+“That was Justin, the former elven king; the one who made the cores, and the one who's now demanding we do this. I'm going to be honest here, I went to him seeking help, and this is what I got in return. I also got a not so thinly veiled threat about what would happen if we refused.”
+
+The bomb quietly dropped, and everyone stood there in stunned silence. Many looked several shades of unhappy, and I was prepared to deal with that. I'd already put fail-safes in place, and anyone who tried to flee with what they currently had would be dealt with swiftly. This was just too important, even if I hated it.
+
+Leah blinked several times. “He'd have to be thousands of years old though?”
+
+“He is,” I agreed.
+
+“And not dead?”
+
+“Elves don't age like us. My understanding is that the full-blooded ones don't really age at all past a point,” I explained, this was rumored already, but there were so few of those still around that it was considered unconfirmed.
+
+“Can I talk to him? I mean, the light he could shed on any field of research...” the excitable researcher began.
+
+“I'll tell him you want to, but he doesn't like most people. Far as I can tell he tolerates me, but that's about as far as it goes,” I said, trying to placate her before she did anything extreme.
+
+“You know Alana, I'm really beginning to dislike you and your secrets,” Selene finally said a bit tiredly. “Even if I understand why you keep them.”
+
+“Will you continue to keep them?” I asked, trying to hope.
+
+“Yes, I owe you that much. For awhile I blamed you for those bastards and what they did to me, but they would have done that anyway for the portals. Could I blame you for that mission that got us those? Maybe, but we'd have gone anyway, and without you perhaps we wouldn't have made it back. Just don't expect me to help you with missions like that in the future.”
+
+I looked at Selene with pain in my heart. Ever since our kidnapping it couldn't be said we were friends. She knew about me, about my past life, one of only a handful. Now she was here, broken, her always frizzy hair was wilder, her eyes more sunken from the girl I'd first met. She was harder, less bubbly, and it made sense.
+
+“I won't, thank you for everything.”
+
+She left us, and Leah took the chance to make sure I would request that meeting for her. Her brother looked more sedate, concerned, a good reaction to that information. They too soon left, leaving only myself and Dras. My oldest friend was giving me long consideration before he spoke.
+
+“Secrets, plural, any you'd share with me?” he finally asked.
+
+“I have a few more Dras, but nothing that would change anything. I would still be me, and you would still be you. Please let it be.” I answered.
+
+“Okay,” he said easily. At my raised eyebrow he smiled and continued. “Alana I hope one day you'll tell me whatever they are, but if you don't you're still the same girl who found me and made sure I got trained properly, still the same girl who saved my life, well, how many times are we on now? Just tell me, is it something bad?”
+
+“Not really, just something that would cause me a lot of awkwardness and pain.”
+
+“Then keep it. I've got lots to do right now though, so if you don't mind.” He rose and headed towards the door.
+
+“Thank you Dras,” I muttered as he went, trying to keep all the ups and downs of this particular meeting contained.
+
+Over the next couple of days I was a bit tense. Letters had to be sent, travel arrangements made. The city of Linden needed to know that we needed a meeting, and agree, all of which took time. That whole time I worried that my people might rebel against me, but they didn't. They accepted my judgment that the new update was needed and everyone worked on it.
+
+Ulanion joined me as I made my way to the portal room, satisfied that I could be missed for a few days without issue. That was a good thing, as there were times when I would need to be gone for extended periods. The guards there waited with us as the connection was established and I stepped through. It wouldn't take too much time to go through the stopover at least, even though we'd need one due to the lack of a direct linkage.
+
+“Hello dear,” my father greeted me as I stepped through, Mystien by his side. “We need to have a bit of a chat.”

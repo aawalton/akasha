@@ -1,0 +1,187 @@
+---
+id: f1a2bff6-9ae4-582b-a6ed-d7db650a7b66
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 89 — The Kids Are Alright (2)"
+slug: 0153-chapter-89-the-kids-are-alright-2
+partOf: metaworld-hopecore
+position: 153
+ownLength: 2539
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3798308/chapter-89-the-kids-are-alright-2"
+royalRoadId: "3798308"
+---
+
+Friday.LAPAGANZA. Day One.Hell week had begun with the arrival of the trucks. Scaffolding. Food stalls. Banners. Shades. Barriers. Generators. Day by day, the students watched their school perform its miraculous transformation.
+
+To the Freshmen, the occasion seemed like sorcery. To the Seniors, the noise and the changed spaces were inconveniences to their art. What the students did not know was that, originally, “LAPA Extravaganza” had been born out of necessity. The school needed funds, and there was no better win-win than publicly showcasing LAPA’s talents while selling carnival-priced food and drinks, memorabilia, and souvenirs. Whenever LAPA produced an Academy nominee, Grammy winner, and Tony-adjacent set designer, folk from the surrounding suburbs and beyond would flock in to see what kind of school had produced such talented individuals.
+
+Then, of course, LAPA was forced into its present hybrid funding model. Six months after her induction, VP Thomas had deemed that the carnival atmosphere was no longer permissible for “Fame High,” the second-best performing arts high school in the country. LAPAGANZA was what emerged from the organic extravaganza of the past, a performing arts festival commercialised to the point of nausea.
+
+Euphemia Fontaine thus arrived on Friday morning in her theatre blacks, venturing from kettle corn to bacon-wrapped hot dogs to churro stands to dolewhip to yet more desserts masquerading as breakfast, caring nothing for the horrified gaze of others.
+
+By 10 AM, the parking lot had overflowed onto the adjacent lot. Trucks and sedans nosed into the grass, directed by two dozen kids in orange vests doing their best to fill up the oval.
+
+CSULA volunteers in matching t-shirts staffed the check-in tables, the info booth, and the water station; campus security stood at every entrance, saving their energy because they knew that the chaos had only just begun.
+
+The crowd came in waves—alumni in their good blazers, siblings dragging beach carts, industry types trying not to look like industry types—funnelling past a hand-painted banner that listed the day’s events.
+
+Above them all, giant vinyl posters hung from the colonnade—Titus, stern in a general's greatcoat, medals catching the light, Cooper's fascist-Rome mashup rendered two stories tall; Chiron, sneering; Tamora regal in gold—but the one that stopped foot traffic, the one people actually paused to photograph, was Lavinia.
+
+Valorie's face, twenty feet tall, photoshopped and serene, watched the whole quad arrive.
+
+Eppie's actual job, as far as anyone had bothered to assign her one, was to help—wherever help was short. She spent about three hours wrapping up preparations for the Seniors, then ran to the Sophomores for the next two. In between, she watched a local TV crew set up outside the administration building, watched Principal Burton and VP Thomas take turns in front of the camera saying warm, well-rehearsed things about art and universality and the transformative power of a LAPA education—the kind of sophistry that Lana loved, delivered with such excessive sincerity that the audience began to feel self-conscious.
+
+Here and there, she saw Susan Carr, whose entire Friday seemed to consist of crying into a walkie-talkie, a one-woman show trying to survive the three-day event and failing.
+
+In the late afternoon, she met up with Valorie, the two of them gathering gazes like a combine harvester, to visit their friend at the Old Music Building.
+
+By now, the string quartets, concertos and jazz combo were done.
+
+The space was cleared by 5 PM for the dancers selected for Friday, including their friend, Simone Goode, whose moral well-being might have faltered, but whose craft had remained uncontested.
+
+In the half-full black box, Eppie watched Simone’s performance while knowing little to nothing about how the performance was judged. They watched her free her body, adorned by the accursed shoes and wearing Valorie’s gifted outfit, cleanly land every syncopated beat, spilling past the limited choreography with pure talent.
+
+Valorie explained under her breath that Simone really was exceptional. Talent… was never Simone's problem. Poverty was—she'd had only her Dance Chair's limited time to work with, on top of shifts at the Lantern Club, instead of the ten hours a week a nationally accredited tutor might have given her. Simone’s ceiling had been set before she ever took her first step.
+
+Watching Simone bow from the waist with gratitude, she thought of Ava’s failed bid to enter Guilliams, and understood a little more intimately why patrons of the arts had historically been a thing, why Simone had been so desperate.
+
+Simone’s sisters hugged her as soon as she left the stage. Valorie said it was probably best if they left them for the time being.
+
+Outside the theatre, they didn’t make it three steps out of the black box before a TV crew flagged them down.
+
+The female reporter with a LAPA-branded lanyard knew them by name, and she had questions about the play, mostly: was Titus Andronicus really appropriate for a school stage, and how did it feel knowing that they would set the standard for future LAPA students?
+
+Eppie let Val take most of it—Val was a Sanders, after all, nothing in her voice betraying that in two days she'd be standing under stage blood pretending to have no tongue.
+
+Eppie added a line about ensemble and legacy that she'd more or less stolen from Costello, and the reporter looked satisfied enough to move on.
+
+“Let’s grab Simone now…” Valorie checked her watch. “Mrs Goode has her shift, so…”
+
+“Good idea,” Eppie regarded her friend with pride. “I could use another round of Taco—”
+
+“NO. Eppie. Please stop.” Valorie’s grimace lasted only a split-second before her smile returned. “My pick… I’ll drive. We’re going to Luminarias.”
+
+Eppie racked her [Memorisation], then arrived with the vague impression of a restaurant sprawling with Spanish hacienda, arched doorways, a waterfall, and sweeping San Gabriel Valley views. “You don’t need to book?”
+
+Then she remembered. Of course, Val didn’t need to book. Amex Black. You can’t go back.
+
+By the time Eppie made it back to her dorm room, it was well past ten, but not so late that Josefina would have words. The day had eaten her alive in small pieces—checking sound equipment twice because Klein didn't trust it the first time, re-pinning a hem on Elizabeth's Tamora gown, running Val's lines with her through the greenroom mirror until she was satisfied, the crowds, the four-course dinner, the effort it took to keep Renée from looking at the price… Eppie felt tired in a way that had nothing to do with [Causality].
+
+DING! DING!Her phone buzzed once, late. It was Zara.
+
+Eppie read it twice, sitting on the edge of her bed, still in unwashed socks, feeling her insides tighten around Luminarias’ smoked octopus in finger lime accent.
+
+She opened her messages and scrolled, out of habit, to William's name.
+
+Nothing. No calls, no texts, no remorse. Two days from a stage rigged to fall, and the man chose silence.
+
+Her thumb hovered over the keyboard. She didn't know what she'd even say—something needling, something that tested whether he still had teeth. Just what did the [System] want from her, in a moment like this?
+
+It wouldn’t allow instructive violence. And Eppie had no more mercy to spare.
+
+She put the phone face-down on the nightstand and turned off the light.
+
+Maybe… tomorrow, he would reply. Or tomorrow… or tomorrow?
+
+Saturday. LAPAGANZA. Day Two belonged to Musical Theatre—meaning the Whitman's stage would be given entirely to show tunes, ensembles, and a grand finale original musical.
+
+As a result, the Titus company had the day mostly to itself: resting voices, running lines under their breath, saving whatever was left for tomorrow.
+
+Eppie started the morning with her own people—the Sophomores’ Limited Showcase, performing their own cut-down scenes on Sunday at the Playhouse. To the disappointment of all, Eppie would neither be on stage nor in the audience, which dampened their morale somewhat, considering her rather critical involvement in the smooth running of the “Sophomore Company”.
+
+“I'll be there in spirit,” Eppie informed them. “And I want a full recap from James and Chelsea. Every detail. If anyone so much as forgets a line, you’ll be answering to me!”
+
+As if feeling the calm before the storm, her Sophomore class, these children Eppie had spent nine months getting close to, formed a huddle and gave her big, enveloping hugs. Cameron Atkinson suggested they all meet back at their usual cafeteria table on Monday, no matter what happened, and the whole group put their hands together like a sports team, while smelling like kettle corn and hairspray, nervous nausea, and… Eppie supposed, camaraderie.
+
+At noon, Valorie called and told her that it was “go time”.
+
+Eppie bid her Sophomore shipmates goodbye, then sailed herself down into the quadrangle, where the maelstrom of LAPAGANZA’s chaos was thickest.
+
+From the gate, with a modest entourage of just a driver and a daughter, Francis Sanders, the Senator whose petition and permits had catalysed LAPAGANZA five years ago, had arrived.
+
+The TV crew that had been circling the place finally found a story that was different to yesterday. Eppie watched from the sidelines as the reporter matched strides with the father-daughter duo, buttering the pair with compliments before moving on to the topic of their viral video. She watched Val falter half a step, then regain her composure when Francis answered without so much as a duck and dodge.
+
+“There comes a time when a man has to open his eyes and realise a cardinal truth.” Francis turned on his considerable charm, his green eyes twinkling like a movie star’s. “The job’s gonna be there, tomorrow, the day after that, next week—but every day I spend away from Valorie—that’s a day gone forever.”
+
+The blonde reporter’s lips trembled. “That’s an incredible sentiment, Senator…”
+
+Are you serious… Eppie watched half of the attendees of LAPAGANZA fold under the Senator’s old-boy Californian charisma.
+
+Beside her father, Valorie displayed what Eppie could only describe as “so happy I could die.” Her whole body radiated joy, manifesting as a kind of palpable glow. The cameraman didn’t miss a step, nor did Francis Sanders, who gave the TV audience at home a flash of pearly white teeth.
+
+Eppie joined them about a hundred meters down, making the reporter’s day. As if they had never met yesterday, the reporter reintroduced Eppie as the “youngest winner of the Grammy Awards” and “the second student at LAPA to win a Grammy before graduation.”
+
+Together, the trio walked into the Whitman’s Gallery with the TV crew, with Eppie serving as an impromptu tour guide, utilising her [Memorisation] to introduce the pair to every artistic work worth the candle from the Friday prior.
+
+Eppie watched her [Causality] trickle upwards by the dozen, and despaired. Just when the hell was Sony going to drop Better?
+
+Their final stop at the Whitman’s Gallery was the Cinematic Arts quadrant.
+
+As promised to William, Valorie lent herself to her former boyfriend’s publicity stunt, signalling that the Sanders and the Chens remained amicable, if nothing else.
+
+In front of the TV crew, they shook hands. William with Francis. Then a brief embrace between Valorie and her fated foe, and Eppie with her fated [Usurper].
+
+They smiled stiffly at each other, drawing upon all their hypocrisy to remain picture perfect for LAPA’s media team, the local TV crew, and photographers eager to pass on their shots to industry magazines.
+
+The Chens had clearly placed money where their mouth was, because the faux-annex in front of the small theatre where William played his final cut was near-smothered in flower wreaths laden with congratulations in Chinese.
+
+“Where’s Chen-ye?” Eppie asked in Cantonese.
+
+A concoction of emotions moved through William’s face. “None of your business.”
+
+They entered. Francis sat on one side of Valorie, Eppie on the other.
+
+William, who originally was going to sit beside them, did not. He chose to speak about his film instead to the TV crew, meticulously explaining the foundation of his work as drawn from the roots of the local migrant communities of early Chinatown.
+
+Eppie watched William’s final cut, “Ethnic Story,” with sincerity. It was accomplished—she'd give him that. Handheld, saturated colour, a voiceover that circled its own longing without ever landing on it, the whole thing was dressed head to toe in Chungking Express, with Wong Kar-wai's fingerprints on every frame. William had clearly studied HK cinema obsessively. But studying wasn't the same as seeing. He was a man who had the toolkit, but lost the soul—a journeyman's film wearing an auteur's jacket, a simulacrum of what should have been, much like Eppie’s rendition of Rising Sun.
+
+When the movie ended, Francis thanked William, congratulated him, and filed out of the theatre before the boy could get a word in edgewise. We're going to dinner together, Francis announced, then left with his giddy daughter and her famous friend without glancing back.
+
+The TV crew followed Sanders out into the open, leaving William to stand in the cinema annex of his own premiere with an interview that lacked a camera.
+
+Eppie fought down her feelings of sympathy.
+
+She checked her [Causality], checked her lack of [Quest] progression, then, as a final gesture of kindness, she made the universal sign for call me.
+
+William's face, before Eppie left, was like a trapped and trodden feral fox.
+
+This time, Eppie made it back to her dorm by nine. This time, Eppie was tired in a way that had everything to do with [Causality].
+
+She lay in bed after changing, watching the numbers go up, wondering if she should just run into the crowd and start singing Better a cappella.
+
+DING! DING!Her phone buzzed.
+
+DING! DING!
+
+Wait. That was a mistake. Trent says HR might want a word.
+
+— D.
+
+DING! DING!
+
+… you know what? I am just gonna stop doing this initial thing. Love. From. Dad.
+
+One more thing—
+
+Before the cringe faded from her shaking body, the phone vibrated again.
+
+My dear Dauphine — I make no promises as to the hour of my arrival, only that I shall arrive. Do not trouble yourself with schedules, cars, or seating; I have my own of each, and a specific taste in all three. I shall be there to witness your moment, that is all.
+
+— V
+
+Another message popped up.
+
+My very pretty blue-eyed puss—at long last, you have a dress you're actually allowed to ruin, and I look forward to it immensely. Also, I just heard your rendition of “Better”, and I have not stopped playing it since. Forwarding it to everyone I know—via my assistants, of course. I am going to tell Vittoria you wrote it as a way to mourn her lost dress.
+
+— M
+
+P.S: I’ll be coming with Juliana. I can’t wait!
+
+The trickle… turned into a stream. Then the stream… turned into a roaring flood of notifications.
+
+Eppie laid her head down with her eyes closed, let her mind’s eye open, and finally—finally—allowed herself to absorb the rare and wonderful knowledge that it would all be over soon. Her duty to Euphemia’s borrowed body would be done.
+
+The clock on her iPhone struck midnight. Time until D-Day: Zero hours.
+
+Number of texts from William Chen: Zero. Her Macbeth had not texted her yesterday, or today, nor tomorrow…

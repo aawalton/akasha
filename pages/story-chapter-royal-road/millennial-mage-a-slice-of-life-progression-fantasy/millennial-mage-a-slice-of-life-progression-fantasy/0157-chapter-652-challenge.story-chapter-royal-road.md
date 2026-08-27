@@ -1,0 +1,239 @@
+---
+id: 1b639706-c8f4-577d-a9f6-b842f7e20ae2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 652 - Challenge"
+slug: 0157-chapter-652-challenge
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 157
+ownLength: 3235
+unit: words
+ownProgress: 3235
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2890040/chapter-652-challenge"
+royalRoadId: "2890040"
+markedReadAt: "2026-06-29T19:40:05.577Z"
+---
+
+Tala honestly didn’t know what she expected from the arcanes of Platoiri at her pronouncement, and that was likely a good thing as any expectation would likely have been entirely wrong.
+
+There was a reasonable moment of silence as everyone simply processed what she’d said then… nothing.
+
+There were no protestations of doubt, nor proclamations of support for the fight, nor even pronouncements of terror.
+
+Nothing.
+
+As she let her perception sweep the room around her, she was struck with a realization. A large chunk of these arcanes might have actually been alive when the Black Legion was last an issue.
+
+Eskau Meallain was the first to break the silence. “I cannot personally attest to the incoming threat, but I can confirm an encounter with a Black Legion scout.” She glanced toward Tala before giving a tight-lipped smile. “Their magic is unmistakable when one has encountered it before in that it isn’t magic at all. Those here will either understand that already or not. I won’t be able to explain it to anyone’s satisfaction.”
+
+There were enough mutters of agreement and subtle nods of various heads that those who were clearly confused didn’t protest the point.
+
+The Revered City Lord leaned back, a mix of emotions that Tala couldn’t parse evident across his features. “So, gated humanity calls on that ancient treaty, then?”
+
+She nodded in affirmation. “Yes. We have secured a location for a summit between our peoples within the Wandering Wilds. We will provide the location to any Honored—or more advanced—who will swear upon their power that all at that location will be treated with peace and courtesy. The exact wording has been worked out, and we will provide that to any who request it. The summit will take place in six months time, which should be sufficient for the word to spread to all the southern cities, and for all who wish to come to reach the location.”
+
+“And what is to be the manner of response to the return of the Black Legion?”
+
+Tala gave a tight lipped smile. “That is for the summit to determine, but I assume that it will be a violent one.”
+
+That got some chuckles among the still clearly stunned onlookers. The Revered City Lord simply nodded. “As it should be. I will send a representative. Your adjunct will handle the oaths and dissemination of information, I assume?”
+
+Tala nodded. “She will. I will open my hold in the next few days and any who will answer the call—any who will honor their given word or that of their forebearers—can come to give their oath and get the needed information.”
+
+“Consider it done.”
+
+Huh… That went… well?
+
+-Well, they understand the issue of the Black Legion all too well. We have a couple of Archons who remember the last conflict personally, but not many. From a cursory look, at least a quarter of those here seem to have a solid connection to the information, if not first hand experience. In this, as in so much else, the longevity of even mildly powerful arcanes works in their favor.-
+
+Who knew my return would go so smoothl—?
+
+“Now, we must deal with the Eskau who should not be here.”
+
+Well, rust… She’d relaxed too soon.
+
+For that brief moment, Tala thought he was talking about her, but that made no sense. When she followed his heated gaze, she found he was staring straight at Eskau Meallain.
+
+Now that Tala considered it, many of the hostile looks that she’d seen directed her way from various arcanes could have easily been directed at least as much at the elf.
+
+For her part, Eskau Meallain seemed unfazed. “This is a neutral space attached to Platoiri. I have not violated either your banishment or that of my House. Moreover, as I am sure those with sight have already seen, I am suppressed and entirely hobbled by her.” She flicked her head toward Tala in obvious implication. “Even so, I will not cross the physical boundaries of the city of Platoiri without permission, nor will I cross the threshold of any facility owned, operated, or affiliated with the House of Blood.”
+
+The hue-man gave the elf a narrow-eyed examination before finally giving a firm nod. “Very well. I see no need to expand the terms of my banishment, and your profession matches it perfectly. If your house accepts this, I will as well.”
+
+Pillar Sanguis responded immediately. “We do.”
+
+“Very well, then let us not speak of it any further.” He straightened before sweeping his gaze through the hall. “This is a celebration of returns. Let us not taint it further. I know that many of you wished to engage in the jockeying of Houses. This is acceptable under the usual terms, and a ring has been provided.” He gestured to a depressed circle of sand, boarded with heavy magics that were clearly designed and meant to keep attacks—both magical and physical—contained, rather than people.
+
+The Revered City Lord clapped his hands, and the servants began moving once more.
+
+The groups that had formed before Tala’s arrival didn’t exactly fracture, but they did… fuzz as quite a few people didn’t exactly change their stances, but they did seem far more interested in exchanging knowledge across the previously rather defined lines. Who knew exactly what had caused this change. Honestly, it was likely a combination of things, unique to each House, maybe even each individual representative.
+
+One Eskau, however, came straight toward Tala and her family… and Eskau Meallain. It was one of the Eskau from a newer Major House in Platoiri, the House of the Frost Lance. That was the House that had flirted with breaching tradition in order to ‘snub’ Tala.
+
+And at my own party no less.
+
+-How dare they.-
+
+I know, right? Tala and Alat snickered internally.
+
+The white hue-folk woman was clearly an exemplar of the race, standing closer to six feet than five, her every movement—every line and curve—toned and flawless.
+
+Oddly solid ice encased her forearms, the magics within indicating that those were her protian weapon.
+
+She was clearly Honored, with her green aura on artistic display as she rippled its manifestation in ever changing patterns just away from her clothing. That very act showing such incredible skill that Tala found herself quite impressed.
+
+She stopped and gave a barely appropriate bow. “I, Sinaaq, Eskau of the Frost Lance, challenge Eskau Tala of Blood.”
+
+Tala glanced toward Rane and received a nod. They both knew what this meant. Being more advanced than Eskau Sinaaq, Tala couldn’t accept the challenge, not directly, not without it reflecting badly on the House of Blood.
+
+They had expected this avenue of attack, given her long disassociation with the House of Blood, the chances of her having a second of appropriate rank were next to none. It seemed that Eskau Sinaaq was willing to accept a loss to a more advanced fighter if it struck a blow at a rival House’s honor.
+
+But they had been forearmed. Rane had been announced not only as her husband—a position that would give him reasonable, if slightly shaky, grounds to take the challenge on—but as officially her protector.
+
+Eskau Sinaaq either hadn’t been paying close attention, acted before her orders could be changed, or didn’t care.
+
+Rane stepped forward, his voice clear and steady. “I, Rane Sappherrous, accept the challenge to my wife and my charge.”
+
+The alabaster woman gave Rane a flat look, obviously thinking for a moment before responding. “I will not fight a gated. Any who must rely on such a champion is clearly lacking.”
+
+Tala briefly saw another white hue-folk—likely her Pillar—wince at the folly words, even as Rane barked a laugh. “You walked over here and challenged a gated. Now you refuse to fight one? Is the House of the Frozen Spear so fractious that they cannot even understand their own actions?”
+
+Eskau Sinaaq blinked a few times, clearly taken aback by his pronouncement. Then, she seemed to fully process part of what he’d said, and anger radiated off of her. “Frost Lance.”
+
+Rane waved his hand dismissively. “As you say.”
+
+Still, Eskau Sinaaq was clearly having trouble with the rest of his words.
+
+Tala understood immediately. The prejudices of the arcanes ran so deep that the woman likely didn’t even consider Tala gated. She was Eskau. That trumped everything else, and the fact that Tala was gated was cast aside because it didn’t fit the mental picture of an Eskau that this woman held.
+
+Still, when stated as Rane had, her own folly was clear, and her cheeks had taken on an almost reflective qualty—which Tala took as a sort of blush of combined anger and embarassment—before the Eskau growled. “Very well, human.” She drew out the word as if it hurt her even to say it. “If you wish to be humiliated before the assembly of Houses, I will not prevent it.”
+
+As the woman strode toward the sparring ring, Rane affected a confused look. “You do know that I’m human, right? Not a hue-man? Or did you intend to say that? I would like to give you the benefit of the doubt, but you’ve already shown that you don’t always think before you speak.”
+
+Eskau Sinaaq hitched just slightly in her stride before continuing without looking back.
+
+Tala leaned toward Rane as they followed. “Do you have to needle her so?”
+
+Rane shrugged. “If this is a close fight, I’ll have to put up with dozens of fights. If I make it definitive?”
+
+Tala shook her head. “We’ve spoken on this, Rane. That’s not how they think. If you crush her, you will be inviting challenge, not preventing it.”
+
+“Agree to disagree.”
+
+She sighed. “Rane, you would be more likely to challenge a strong fighter than a weak one. They are no different.”
+
+“Except I am gated, Tala. To be defeated by me is shameful. That’s one of the foundational premises upon which our safety has rested for centuries.”
+
+“But you are here.” Still, she had to admit that a portion of what he said was correct. He wasn’t a part of their system like she was, so they would have a hard time compartmentalizing him like they did her. She grimaced, then finally nodded. “Very well. I trust you. Even if this doesn’t work as you think, I still trust you.”
+
+They exchanged a kiss, and he smiled. “Thank you.”
+
+Lea leaned in. “Good luck, Dad. I don’t care if she does look a bit like me. Thump her good.”
+
+Rane chuckled. “I will. Thank you both.”
+
+Eskau Sinaaq was already on the far side of the fifty foot ring of sand. “No need to say your goodbyes, gated. This is a spar. It would dishonor me if I couldn’t defeat you without killing you.”
+
+Rane grinned back at her. “Oh, I am aware, gateless. I’ll be sure to keep this short, so you cannot claim my gate as the reason for your loss.”
+
+Her skin again seemed to take on increased reflectivity as rage clearly boiled behind her eyes. Thankfully, she was in enough control of herself to not react more than that.
+
+Tala took up a position beside the ring along with the majority of the other attendees. The Revered City Lord’s throne was placed such that he could see without moving, despite a few of his guests standing between him and the ring.
+
+Rane stepped down onto the sand, drawing Force once more, the polished wood gleaming in the even lighting of the hold.
+
+“I am ready when you are, Eskau.”
+
+Eskau Sinaaq lifted both her hands, her icy vambraces seeming to turn into slush as it flowed down into her hands, forming two short spears.
+
+Tala was fascinated to see that the ‘two’ weapons were united on a reality level, meaning that they somehow had only a single reality node, a single vestige powering them.
+
+I was wondering how she had two.
+
+-Yeah. Though, remember that we have seen others with such ‘split’ protian weapons. Do you see that the vestige is hanging stoneward?-
+
+Yeah, it’s an interesting technique, the soul is actually magically bound to the magics within the weapon at a basic level rather than simply connected physically. Of course, in both cases, magical bonding takes place with the filtration magics at the very least.
+
+-And the best weapons are able to draw that bond out past the filtration to suffuse the whole.-
+
+Here, though, it is actually the starward traversal of the power which is somehow filtering it? I think I see hints of void and reality comprehension within the weapon.
+
+-A powerful Eskau indeed. She’d likely have wiped the floor with you when last you were here.-
+
+I don’t know about that, but it wouldn’t have been an easy fight.
+
+-...Tala, don’t belittle what your husband is about to do.-
+
+Right. Tala acknowledged. Alat was most likely right. When she’d last been here, she was Fused, and an Honored would have been well out of her league.
+
+As the fight had begun, there was no cause for further delay. Eskau Sinaaq launched herself forward, each step looking more like an ice skater on some city park pond in the depths of winter. The two short spears moved with clearly practiced precision as she shot toward Rane.
+
+Rane, for his part, leaned forward and shot ahead as well, his feet not even moving as his magic provided all the movement he needed, keeping him a few inches above the sand.
+
+Force lashed out, sending blades of energy—dulled by his specific will—rippling through the air toward his opponent.
+
+No… dull isn’t the right word. Normally, Rane’s blades were effectively two contained bunches of kinetic energy, oriented in opposing directions along a stark demarcation, carried through the air until they encountered resistance.
+
+The result of those were the shearing and tearing apart of whatever he hit, along that precise line. So, the result looked like a powerful blade had struck it. The magical projectile even looked like a blade, but there was no true ‘sharpness’ to it, except in how cleanly the demarcation between the two opposing orientations of kinetic energy was.
+
+As a result, ‘dulling’ the attack by simply muddying that demarcation would result in more vicious wounds rather than less… which, as she thought about it, was often the result with blades as well. But regardless, his ‘dulling’ for this fight was simply to turn the orientation of all the kinetic energy which was ready to be imparted to be along the line of his strike, making it a pointed but otherwise blunt impact.
+
+-Yeah, he’s dulled the tool.-
+
+…Fine.
+
+Regardless, Eskau Sinaaq was clearly not expecting ranged attacks, and she only barely responded in time, twisting and contorting to avoid each, even leaping over one that would have otherwise been impossible to avoid.
+
+Tala grinned as she saw what Rane was doing. With each projected blade, he was shifting his opponent’s trajectory and keeping her from building up momentum.
+
+Rane’s body barely shifted with each swing, his internal energy precise and clean as it sparked Force’s magics to life for each attack.
+
+Tala almost laughed at that, but held herself back in order to prevent others from realizing that Rane was dissembling his strategy.
+
+Force was soulbound to Rane. He could have activated the weapon with less than a thought, the magic coming straight from his gate into the weapon. By showing a mechanical activation—for lack of a better phrase—he was implying both a slowness and a weakness that wasn’t present in reality.
+
+Oh, that’s clever… but it might backfire?
+
+-Yeah, he’s showing ‘weakness’ while equally showing that it doesn’t matter. I’d have said that was the worst of both worlds, but it’s possible there is nothing he could do to escape challenges, and this will leave him with the most hidden cards, while also preventing him from being drowned by a horde of lesser opponents.-
+
+Yeah…
+
+Eskau Sinaaq only tried to physically block one of the projected blades, gaining a momentary crack in the spear that she used to take the blow. But that minor damage repaired itself quickly, her only real loss one of momentum.
+
+Then, Rane arrived, and the two clashed in a blur of strike, block, and counter.
+
+On one side, the white woman had the advantage with her two weapons. Assuming equal competency between the warriors, that would give her more attack vectors and more tools to use to turn things in her favor. Moreover, if anything, Eskau Sinaaq was more skilled than Rane in a purely martial sense, likely due to her centuries of life.
+
+-You don’t know how old she is.-
+
+I mean… sure, but arcanes don’t advance quickly. I would bet gold to copper that she’s at least two hundred.
+
+-Yeah… I wouldn’t take that bet, even if it’s all our money either way.-
+
+On Rane’s side, however, every touch of Force drove back what he contacted with unnatural force, throwing off the woman’s technique and giving him more time and space in which to work. Additionally, any time her weapons were in danger of actually connecting, minor pulses of power helped the man shift out of the way, even if he physically shouldn’t have been able to move to do so.
+
+The end result was a nearly minute long back and forth during which Eskau Sinaaq’s emotions moved from contempt—as she realized she was more skilled than Rane—through frustration at her inability to hit him, and on to disbelief as Rane ruthlessly capitalized on his well-trained advantages.
+
+Less than two minutes into the fight, Force landed with solid contact on Eskau Sinaaq’s upper thigh, sending a sickening crack through the hold, her femur clearly splintering under the single, solid blow.
+
+To her credit, the woman didn’t cry out, and she even smoothly shifted her weight to her opposite leg, trying to strike out and take advantage of Rane’s moment of victory.
+
+Tala’s husband was already withdrawing, however, not taking even an instant to gloat.
+
+“Hold!” The Revered City Lord stood. “The match is over due to a debilitating injury. Paragon Rane’s charge would have been able to withdraw without concern of pursuit. The winner is Eskau Tala of the House of Blood.”
+
+When Lea threw a confused glance toward Tala, Tala leaned closer and whispered. “He was in the fight as my protector. Since anyone he was protecting could have withdrawn at this point, his role is fulfilled.”
+
+“But… you wouldn’t have withdrawn. You could have won even more quickly.”
+
+Tala shrugged. “It is the terms of the duel, when a protector is the stand in. It doesn’t matter why a protector is the stand in. The rules are different for a second, and in other circumstances.”
+
+“So… what would she have had to do to win?”
+
+“Similarly incapacitate him. After all, if she could get around my protector, she could get at me, and he would have failed.”
+
+Lea hmmed. “I see.”
+
+Eskau Sinaaq straightened, her weapons flowing back into their vambrace forms. Her eyes were burning with anger and embarrassment, but she bowed nonetheless. “Well fought, Paragon Rane Sappherrous. The honor of your charge is upheld.” She then turned with surprising grace, given her one-legged state, and bowed toward Tala. “You have won the match, Eskau. Strength and honor.”
+
+Tala gave a small bow. “Strength and honor.”

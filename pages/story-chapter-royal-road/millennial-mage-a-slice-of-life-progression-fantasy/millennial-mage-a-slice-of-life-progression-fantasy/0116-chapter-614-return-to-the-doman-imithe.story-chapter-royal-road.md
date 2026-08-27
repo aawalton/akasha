@@ -1,0 +1,233 @@
+---
+id: 555bbc2d-572d-5ec0-aadf-a18008381f41
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 614 - Return to the Doman-Imithe"
+slug: 0116-chapter-614-return-to-the-doman-imithe
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 116
+ownLength: 2786
+unit: words
+ownProgress: 2786
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2612325/chapter-614-return-to-the-doman-imithe"
+royalRoadId: "2612325"
+markedReadAt: "2026-06-29T19:39:00.888Z"
+---
+
+Tala began coming down in a swamp, the ghosts of trees all around her, and her mind sharpened, enhancements flaring in order to give her time to process all that she was seeing.
+
+No… Those aren’t ‘ghosts’ of trees… Are they the reality nodes of the trees on the other side?
+
+-Could be, yeah.-
+
+As she focused on them, she saw that each was made up of dozens—if not hundreds—of smaller nodes, and as she briefly glanced at those, each was shown to be made up of yet smaller nodes, and so on down the line in a seemingly infinite regression.
+
+Tala pulled her focus back before she could be lost in that rapidly growing expanse. Why is it so different than the times previous?
+
+-You are more powerful than when last you came here, is it possible that your aura, will, and authority are imposing themselves on the Doman-Imithe? You haven’t actually been in here since you were merely Refined. You’ve come a long way since then. Still, you were torn in half then, so…-
+
+Exactly. Nimbleness and don’t poke the greater powers in here. If I leave them alone, and don’t take their stuff, they should leave me alone too.
+
+-That’s all good in theory…-
+
+Come on, Alat. Help me do this quickly.
+
+-Right. ‘Nimbleness over defense'… This won’t end badly at all.-
+
+Hush you, less snark, more analytics.
+
+-Well, in that case…- Alat sent the thought that if Tala was greatly influencing the local structure of the Doman-Imithe, wouldn’t it be quite the beacon to anything that might wish them harm?
+
+Tala paled, purposely pulling her aura back, only maintaining it around herself at skin level and extending back through the gate behind her to maintain her connection. The gate was already framed in her iron, a mix of reality iron and regular, held separate by her gilded will.
+
+That wouldn’t be closing.
+
+Her feet touched the surface of the water, but it was already changing, now that her aura was withdrawn. The ghosts of trees had fractured away from each other, becoming the various strands and nodes that Tala had seen in the past.
+
+She was coming down on a ball of stone, covered by about three inches of water. In the short space behind her—between her and the gate—there were still hints of the superficial forest being imposed, but otherwise, she was in the Doman-Imithe she recognized once more.
+
+Her threefold sight was almost immediately overwhelming both to her and to Alat in all that it showed, every layer that she could see seemingly entirely different than the ones around it.
+
+The sky was an incomprehensible kaleidoscope of madness, various terrains folding and rolling into one another. Yet, just behind that, physically closer than her vision said was possible, a crescent smile floated without any accompanying body or even head, visible for only a moment.
+
+It wasn’t a smiler either, as it somehow evoked a feeling of feline superiority. There wasn’t even a medium for the smile to be in, but somehow it was there, occupying everything in that single layer of existence within the Doman-Imithe.
+
+To the right, behind what seemed to be an elbow joint with no bones—she had no idea how it looked like that, but it absolutely did—a skeleton with a head composed of uncounted finger bones and hands made of reptile heads stared at her. As it did so, a beetle the size of an ant took bites of it that would make a dragon proud, the dimensionality of perception be rusted.
+
+When she tried to process all that was coming through her threefold sight, half the sky seemed to be somehow missing. The missing portion didn’t stay still, though. It was always the portion that her left eye was trying to focus on, regardless of her focus with the threefold sight. There was nothing wrong with the eye, and both eyes took in the same rolling ‘nothingness,’ but it acted like a reset even as her gaze swept around her, the manifestations within the Doman-Imithe changing at almost every layer as it passed.
+
+There were two eyes like burning stars on the far side of the stone ball, looking directly away from her, turning all they gazed upon into ash.
+
+Inside the ball were a thousand puppets, tearing each other apart to build new versions with the remnants. At the same time, the same ball was filled through and through with stone, with blood, with nothing.
+
+Somewhere, piles of mushroom caps were stacked like gold in a vault, a tiny toadstool seemingly nearly finished counting them with meticulous precision.
+
+A book sat atop a statue, slowly turning through the layers of a man spread out before it.
+
+Tala felt her mind fracturing.
+
+She needed to either impose her aura and authority or limit her sight, and she was torn as to which she should do.
+
+Then she saw the first of them, the smilers. It was peeking out from around a bush that was slowly pulling its leaves back in, growing in reverse. The creature and bush were far, far away, and there were no visible connections between there and where Tala stood, but it had found her.
+
+She knew that it had.
+
+Tala shuddered, briefly closing her eyes, and Alat was madly trying to limit their threefold sight.
+
+Like before, the smiler didn’t move, and like before, that was somehow worse.
+
+-Tala!-
+
+Alat’s internal shout jerked Tala out of her spiral of roving, utterly overwhelmed focus.
+
+The Doman-Imithe was a place to make madmen seem sane, and she’d almost allowed herself to get lost in it.
+
+She shook herself, returning her mind to the immediate surroundings, and utterly blocking off everything but her immediate focus.
+
+In the eyeblink that had passed since she arrived, the rock-ball she stood upon had changed. It was still rock, but a great gap had opened, allowing all the water to flow into the opening.
+
+It was her threefold sight—newly hampered and focused—that showed her what it was changed into.
+
+She stood on a great eyeball, encased in rock, and now actively looking around.
+
+The only other thing in the immediate area—assuming she didn’t impose her will to draw in the nodes of flora and terrain on the superficial—was an odd swarm of small bugs that were scattered about the rocky, now dry surface.
+
+On the superficial, the hyenas seemed to fall back on more instinctive behavior, and that solidified it for Tala… well, that and the obvious reality threads that were thicker than her legs connecting the creatures each to one of the swarm of gnats that were circumnavigating the eye, coming at her from all sides.
+
+Each gnat was Fused equivalent in level, but they acted in concert, a unity in purpose more like a symphony than a single creature.
+
+As she watched, she saw them try to approach the greater reality nodes that were her people on the superficial, and out there, the hyenas lunged in.
+
+It was mind-bending to try to see both sides of this conflict, and she was not about to let it continue.
+
+She tried to open a portal into Kit to release a dissolution breath, but it wouldn’t budge.
+
+Right! She couldn’t open extra dimensional spaces in the Doman-Imithe.
+
+Her gate was giving her power still, but it felt like it was having to come further. That was no issue, but it was an odd feeling all the same. Even so, she didn’t let it distract her.
+
+On the superficial, one of the beasts was lunging for Lea, and on this side, Tala stretched out her power, targeting the gnat that seemed to be the source of that shadow.
+
+She spun her power out more quickly than ever before, her need driving her to be ever faster, ever more precise. Slow is smooth, smooth is fast.
+
+Just as Lea’s sword passed through the shadowy neck in a useless attempt to decapitate it, Tala enacted Crush on the insect, specifically having included the shadow beast on the superficial.
+
+There was a startled yelp that cut through the chittering laugh-like barks of the other beasts, and that one vanished.
+
+Lea let out a cheer, holding up her sword and looking at it with new eyes. Tala saw the girl’s lips move, but the distance on the superficial was just too great for her to hear what she said, even for Tala’s enhanced perception.
+
+Funnily enough, the other hyenas backed up, seeming uncertain.
+
+On Tala’s side of things, the gnat had turned black as all its shadow was drawn in, then it had popped out of existence.
+
+The rest of the swarm were drawing closer, even as they continued to direct the shadows on the surface, the conjurations that were somehow more real than simple illusions, yet not embodied enough to be easily destroyed.
+
+If Tala had to guess, the little creatures seemed agitated and… fearful?
+
+She got the mental picture of some tiny rodent flinging itself at a bear that was eating its store of berries and nuts.
+
+Tala grinned as she leaned into the imagery and swatted the incoming bugs with Flow. Only her incredible dexterity and precision—granted by her Refinement and enhancements—allowed her to actually cut a bug from the air even as it tried to dodge.
+
+She flowed through the oncoming swarm, each death weakening the cluster as a whole, tearing instruments from their concert with brutal efficiency.
+
+Her entire focus came down on the task, and Alat devoted herself to maintaining their aura and authority both around the caravan and linking them to the gate that they held open by dint of willing it to be so.
+
+Well, the iron helped too.
+
+It was less than a minute before every gnat was dead, along with their hyena shadows. Interestingly, four died to others besides Tala.
+
+Rane and Terry each killed one, though she’d have to ask them how, and two were killed by concerted efforts from teams of Mage Protectors. It seemed that Rane had also moved several of the Talons back into Ironhold, so they’d likely been in danger of serious injury or death.
+
+Unfortunately, both Tala and Alat had been so focused that they hadn’t seen exactly how any of that had happened. That was alright though; they could simply ask.
+
+Unfortunately, their hyper focus had also caused them to miss something else.
+
+-Tala!-
+
+Tala immediately brought her focus outward, finding a smiler somehow perilously close.
+
+One stood directly beside her, not seeming to be reaching out, but its eyeless face was somehow mere inches from her face, the smile practically touching her left cheek.
+
+How did it get that close? Tala took three quick, almost stumbling steps away, keeping her focus both on the one that was now all too close and on her surroundings.
+
+Despite what she’d thought was good outward focus, there were now two more smilers nearly to the gate back to Zeme, only her direct perception seeming to hold them in place… now that she’d noticed them.
+
+Wait. Haven’t we seen them move before?
+
+-Not when you were in the Doman-Imithe.-
+
+That was… distinctly horrifying. She almost tried to cut one down with Flow, but something deep within her made her feel like that would be a mistake, even if she didn’t know exactly why it would be.
+
+-Get out, Tala. The task is done.-
+
+Tala turned and hurriedly returned to the portal out, not moving her focus in the least.
+
+As before, even as the pitch-black bodies didn’t seem to move, their unnatural smiles remained perfectly oriented toward her.
+
+She drew closer, and Alat removed the iron sheathing. The mental and willful strain of keeping the portal open increased, but that was alright with Tala.
+
+Something felt off, but neither she nor Alat wished to change their focus to figure out what it was.
+
+After a deep breath, Tala lunged through the portal, and it snapped closed behind her, the smilers unable to reach it in time. She stumbled slightly on the landing, feeling somehow off balance.
+
+Tala let out a long sigh, a shudder moving through her. She closed her eyes and just breathed.
+
+A moment later, Rane landed beside her on the wagontop. Her eyes snapped open when he gasped. “Tala! What happened to your arm? Did they get this far in?”
+
+Tala looked down and found what had felt so off before.
+
+Her left arm below the elbow was simply gone, the flesh rolled over and connected smoothly, as if the limb had never been longer.
+
+Tala’s eyes widened and her voice sounded breathy with confusion. “What?”
+
+-...the rust?-
+
+Rane was there, by her side, his will and authority sounding off their aura around her arm. “It’s… not damaged?”
+
+Tala swallowed as she stared at the stump. Her magics weren’t healing it. In fact, they wouldn’t heal it, despite her trying to use them to do so.
+
+There was no pain. There wasn’t even a feeling of loss save for her balance and weight distributions being off.
+
+She’d lost limbs before, and there had always been something that made the experience quite disconcerting.
+
+Now? The lack of that wrongness felt worse than the pain and disorientation ever had.
+
+It simply felt like she’d never had the rest of that arm, and so, of course, there was nothing to fix, nothing to heal. It wasn’t quite like what had happened with the Fallen, with her legs, there she’d had no doubt that they’d been taken, but it was similar enough to cause a shudder to run through her very being.
+
+Rane waved a hand in front of Tala, and only then did she realize he’d been talking to her as she stared with all her focus on her shorter arm. “Tala? Are you okay? Do I need to go for help? Tala!”
+
+NO! It is my damaged arm, my severed arm, my injured arm… my left arm? All the other descriptions had felt inaccurate, but ‘left arm’ seemed to fit well enough. “Oh, rust… something is really wrong.”
+
+Rane nodded, his expression serious. “So it seems. What happened?”
+
+“The shadow hyenas—”
+
+“That’s what they were. The name wouldn’t come to me, and Enar refused to help.” He grinned and let out a relieved breath. “Thank you.” He then blinked a few times before pulling into himself a bit. “Apologies. The name of the creatures is, of course, not important at the moment.”
+
+Tala clucked her tongue before continuing. “So, the beasts were just shadows in reality from the real threats in the Doman-Imithe.”
+
+Rane’s eyes widened. “Hunters from the broken world? But none of those have been logged in… centuries.”
+
+“Regardless, that’s where I dealt with them, in the Doman-Imithe.”
+
+He pointed to her arm. “And they did that?”
+
+She shook her head. “No. I think that was a smiler.”
+
+Rane frowned.
+
+“Let me just tell you the whole thing.”
+
+He nodded, and she explained everything that had happened from her aura seeming to solidify the Doman-Imithe into a reflection of Zeme through the place overwhelming her threefold sight, and all the way until her return.
+
+She had just finished when Lea landed heavily. “Mom, dad! I did it; I killed one of the creatures!” She held up her sword. “Our weapons were doing nothing, but I didn’t stop. I couldn’t stop. The Talons were counting on me. So, when things looked darkest, I stepped forward and attacked.” She glanced away from her sword to each of her parents' faces for just a moment. “I know you told me to retreat if there was too much danger, but I couldn’t do it. I just couldn’t leave the Claw; Jansen was so kind, and Kasey was just a sweetheart. I couldn’t have left them to cover my retreat.”
+
+Tala and Rane shared a look as their daughter continued to babble on, utterly oblivious to Tala’s new… oddity.
+
+“So, since I just couldn’t do it, I had only one option… I attacked!” Lea shook her head. “We’d already tried to cut it so many times, but this time, I just knew that it would be different. It had to be!” She grinned broadly. “And I was right!” She took up a triumphant fighting stance, clearly reenacting the moment. “I lunged forward, chopping into the back of its neck and—”
+
+She cut off, her eyes seemingly having finally noticed Tala’s arm. The girl frowned, clearly confused.
+
+“What?” Lea looked up to Tala’s face, concern clear across her perfectly white features. “Mom, was your arm always that short?”
+
+Rane did a poor job holding in a huffed laugh even while Tala sighed. “Come on, finish your story. Then, we have much to discuss.”

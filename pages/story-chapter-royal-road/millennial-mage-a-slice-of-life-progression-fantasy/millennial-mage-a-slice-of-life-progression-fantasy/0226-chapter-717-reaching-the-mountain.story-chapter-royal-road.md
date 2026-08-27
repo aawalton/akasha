@@ -1,0 +1,265 @@
+---
+id: 7b8ad3fe-3596-57f4-94cb-636ffd2a8888
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 717 - Reaching the Mountain"
+slug: 0226-chapter-717-reaching-the-mountain
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 226
+ownLength: 2934
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3560724/chapter-717-reaching-the-mountain"
+royalRoadId: "3560724"
+---
+
+Tala saw the mountain rising in the distance. No… mountains?
+
+An edifice of stone rose out of the surrounding plains, shooting up at least five thousand feet, maybe as much as ten, but it was hard to get a sense of scale. It was clearly a unified mountain, and yet, it was broad, the top ending in several jagged peaks, which lent itself to being called multiple. There were three that were more prominent than the others, in a rough line running northeast from the first.
+
+-I think it’s the peaks that matter, Tala. One peak, one mountain.-
+
+Yeah, yeah, I suppose so.
+
+Regardless of the nomenclature of the geography, it was spectacular, and the view was more than just natural mountains. For one thing, it had been hidden from view by powerful obscuration that felt more based in existence than in magic. Tala had just passed through, hence why the mountain or mountains had almost seemed to spring into existence before her.
+
+Lights twinkled across some of the cliff faces even in the light near midday, showing that there was construction within, and the scattered nature lent itself to only two interpretations. Either there were hundreds of concentrations of structures built into the mountain, or the whole mountain was shot through with civilization.
+
+Some constructions were exterior to the stone, great piers in the sky—a few with cities docked at their sides, showing just how large the scale must be—thrust out from several locations even just around the portions that Tala could easily see.
+
+She’d never gotten an accurate count of the number of villages, settlements, cities, and other mobile enclaves that were constantly shifting throughout the Wandering Wilds, but dozens were laid out before her even now.
+
+She’d been coming in high—from the perspective of the plains—soaring more than two thousand feet above the grasses in the less traveled air. As such, most of the docks for flying constructs and great gates for those that walked were below her, and yet she was not even halfway toward the peaks.
+
+Not that I need to be at the peaks.
+
+-Ready for directions?-
+
+Tala almost said no. This was a place that was utterly different from anywhere else she’d ever been. She longed to explore. To simply land and enter like anyone else might… but time was of the essence today. Yes, please.
+
+-And… there.-
+
+An illuminated line appeared in Tala’s mind—completely fictitious, with not even mana involved in its creation—and it showed her the path that she was to take.
+
+The Mountain Kings were not, precisely, expecting her, but they had been in communication with the alliance, and part of the communications had included detailed instructions for any diplomatic party that they chose to send. And if the Mountain Kings aren’t blind, they should be able to see that the Black Legion is now on their doorstep.
+
+-Yup, if they do nothing, the expanding field will get here in just… how many years again? No… that’s not right. How many decades? Centuries? Millenia?-
+
+…That’s not helpful.
+
+-It is if it helps you keep your mind in the right frame of reference. Don’t go in expecting them to be all in a panic, ready to help you at the drop of a hat.-
+
+…Fair.
+
+Tala flew along the prescribed path, picking up more and more of the mountain fastness as she drew closer.
+
+She expanded the scope of her threefold sight, easily piercing the physicality of the stone before her to see within.
+
+The entirety was honeycombed with chambers, tunnels, workshops, vast storehouses, gardens, illusionary vistas, and so much more. In short, the mountain was effectively a world in and of itself, the barest tendrils reaching out, allowing contact with the outside world.
+
+Not unexpected, but it still doesn’t bode well…
+
+From what she could see, the outward facing artistry was immaculate, masterful even, but that which was on the interior was beyond imagining. Truly, she and Alat tried to conceive of how the whole of the mountain could be, and it faded into meaninglessness even within their vastly expanded, cooperating intellects.
+
+As she drew ever closer, she could see in ever greater detail, and there was ever more detail to be seen.
+
+The place was designed for those with vision well beyond the mundane sight of mankind, while what such less enhanced visitors or residents might see was still factored in.
+
+Rust, if what she saw was correct, the artisans had taken into account distance and poor eyesight in the less magical elderly. They, too, would have wonders to look upon that were hidden when one drew close or had better eyesight.
+
+And that was true in every part of the mountain’s interior.
+
+Even the storage rooms had detail work that beggared belief, and it was all shot through with magic, maintaining it and interlaced throughout the entirety.
+
+That was another feature that awed her, here. The ambient magic was Reforged in power, though not in the air. The stone, wood, and metal of the mountain was suffused with the power, very little leaking into the air, and thus, effectively none moving beyond the mountain.
+
+Her threefold sight penetrated into meditation chambers where dwarves or those of other races sat comfortably, in contact with various materials implanted in the walls or floor, allowing a direct channel to the otherwise constrained power.
+
+As she watched, she saw the flow stop to some of these, indicating that the amount they could pull was regulated.
+
+-There! Do you see?-
+
+I do. She’d wondered what the mobile settlements had that could possibly be of use to the dwarves, and she now saw.
+
+It was power.
+
+Every commerce related place she could see had a plate that could be used to facilitate the transfer of power. There were storage items that could store some for a time, acting effectively as currency for the less magically gifted, and so much more.
+
+There were some trades ongoing near the outskirts that seemed to involve physical goods and currency as well, but those were in the minority… and only seemingly with outsiders.
+
+There was an oddity that outsider power didn’t seem to be used within the mountain, being spent upon the apparatuses and magics facing outward, but her view was so high level that she could be missing some of the detail.
+
+As she tried to look closer, she was suddenly aware that she was looking in on that which belonged to someone else.
+
+That awareness of authority barely preceded a simple, powerful injunction. ‘No.’
+
+It was not words, though the single word encapsulated it nicely.
+
+No. It was not hers.
+
+No. That was not for her to see.
+
+No. She was not allowed to keep looking.
+
+Tala’s threefold sight was suddenly blind to what lay within the mountain.
+
+There was no pain, no reeling, no thrusting out. She simply could not see within, her perception utterly and completely denied.
+
+Well, if they didn’t know we were coming, they do now.
+
+-Indeed. Hopefully that didn’t complicate things.-
+
+Indeed.
+
+The directions took them to a small landing zone, but one that was both opulent and appointed for honored guests.
+
+Tala willed herself to the superficial, tucking away her flier as she dropped to the ground.
+
+She almost brought out a Talon or two as honorguards, but instead, she pulled Eskau Meallain free.
+
+The elf dropped to the ground, landing in a fighting stance before quickly assessing the situation and straightening. “You couldn’t have warned me?”
+
+Tala quirked a smile. “Oh, I could have, but I chose not to.”
+
+Eskau Meallain huffed a laugh, giving a mocking, teasing bow. “As my jailer commands.”
+
+A moment later, her protian weapon appeared as a bracelet around her arm, causing her eyebrow to arch.
+
+“What’s this for?”
+
+Tala’s smile widened. “You are here to help me with a display of power, seriousness, and sincerity. It wouldn’t do for you to be unarmed.”
+
+The elf gave a slow nod. “What about my—”
+
+Her armor came into being around her at a flexing of Tala’s will, every piece perfectly in place, actually popping the elf upward to allow the armored boots to rest properly. That caused the woman to give the smallest of high-pitched grunts in surprise.
+
+“You did that on purpose.”
+
+Tala nodded. “I did.”
+
+“Getting more comfortable with your power, are we?”
+
+“Are you surprised?”
+
+“Not at all. You are a true daughter of the House of Blood. I expect no less. You might not be a blood heir, but in you, lives the spirit of the founders.”
+
+Tala sighed. “There was a time that would have irritated me.”
+
+“Of course, those of worth don’t usually like being tied down.”
+
+She gave the elf a flat look. “But I think I agree. There is much worth saving in the House of Blood. If we can pare away the dross—if we can remove the unacceptable enslavement of the gated—I will continue to wear my association with pride.”
+
+Eskau Meallain gave a nod of affirmation. “Let’s deal with this new wrinkle.”
+
+Tala huffed a laugh, turning and walking along the path, leading deeper into the mountain.
+
+She could have flown down the hallways, but she’d felt it was more appropriate to walk as the dwarves had clearly intended.
+
+Eskau Meallain’s eyes stayed fixed ahead, but Tala suspected that her focus was roving over the artistry around them.
+
+Magics actually kept their feet microscopically off of the floor below, preserving the engravings and inlays on that surface from wear and tear. It did so in a way that allowed for easy traction, and without taking much power. She could break through easily if she wished, but it was sufficient for simply walking across.
+
+Overhead, a seemingly black night sky—decorated with glowing stars—was actually revealed to be an all–encompassing conflict of dwarves and other humanoid species against various beasts and nightmares.
+
+And when Tala focused more closely on a singular dwarven figure? Their very being was carved with their life’s story from birth, through this very battle, and on to their death. It was all depicted in such a way as to leave the figure themselves clear and detailed to those without as precise a perception.
+
+Moreover, Tala suspected that there were more layers still, but with her perception reigned in and suppressed, that was all she could quickly see.
+
+“It is the history of their people.” Eskau Meallain’s voice drew her focus back down.
+
+“Oh?”
+
+“Indeed. Laid out in a way that nothing can be hidden to those willing to look closely enough.” The words had a bit of a bite to them.
+
+“You don’t approve?”
+
+“Oh, I heartily approve of the transparency, but they have recorded it in such detail that no mortal could ever review it all, let alone truly comprehend it. They hide the worst parts of their history in a sea of ‘openness’ rather than behind a curtain of lies, and it’s hard to argue with the results.”
+
+“Those who learn are already powerful in their own right, already invested in the status quo.”
+
+“Precisely.” Eskau Meallain shrugged. “But I cast no stones. No society is perfect, and while I prefer what the House of Blood strives for, these have done well by their people and those who have chosen to live alongside them.”
+
+“How does it work, anyway? Is the most recent stuff carved down in the depths somewhere?”
+
+The other Eskau grinned. “No, the murals are constantly flowing away from the throneroom and homes, and new events are added there, great and small. To live within the Mountain Fastness is to live under constant record.”
+
+Tala grimaced slightly, but finally sighed. “I suppose that it is a choice.”
+
+“Indeed. Any are free to leave, but few do. Most forget they are being so monitored after a time, and pass if off as unimportant when they are reminded.”
+
+They fell into silence, Eskau Meallain walking just behind Tala on her right, taking the position of Tala’s sword arm, indicating that this was to be a meeting of aggression rather than defense.
+
+The path led through many branching walkways, but they passed few citizens of this fastness. Those they did see bowed and waited for them to pass before hurrying on their way in Tala’s wake.
+
+It made sense, this was an isolated part of the mountain, and intentionally so. It was a place for diplomats and other honored guests to come through, and thus only the occasional worker or guard would have to pass this way.
+
+It wasn’t like they needed watchers in any regard as the Mountain Kings were fully aware of their entire realm.
+
+That was an oddity, actually.
+
+Their realm didn’t extend away from the superficial, and while that was entirely black to Tala—save what she could see around her physical self—the starward and stoneward dimensions were entirely unshielded and unclaimed.
+
+She suspected that she could have dipped her iron back into Zeme and seen through that, but the Kings would have noticed.
+
+The trick would likely only work once—if even that—and it would likely foster hostility rather than the friendship that she sought.
+
+Still, good to have that in my back pocket.
+
+-Indeed. Planning regicide?-
+
+Tala sent the alternate interface a flat look. No. But it might let us catch a glimpse of the soul-engine, if they won’t let us near it.
+
+-That’s… interesting. It would make sense for it to be in the throneroom, or nearby, but it would also make sense for it to be at the base of their domain, behind all the protections that they can muster.-
+
+Assuming they only have one.
+
+-True, there might be many, spread out, in which case they’d not have much need to have one near their throneroom.-
+
+Indeed.
+
+Eskau Meallain glanced toward Tala. “Do you have any specific need of me? Do you want me silent, or am I free to act as I see fit?”
+
+Tala glanced back in return. “I think I will trust you to act well—as you see fit—but if I command you otherwise, I expect you to obey.”
+
+The elf quirked a sardonic smile. “Yes, Eskau.” She looked Tala up and down. “We really should spar again. You’ve grown so much since last we fought.”
+
+Tala grunted. The elf wasn’t wrong, but it was hardly the time for such things. “Maybe. We’ll see what we can fit in. Are you up for assaulting the Black Legion escarpment?”
+
+“From what information you allowed to trickle my way, it should be quite the clash. I will be at your side if you’ll have me.”
+
+Tala gave a singular nod. “So be it.”
+
+The passages started to grow larger, other passages coming in at oblique angles behind them, reminding Tala once again of old maps and of rivers joining together on their path toward the sea.
+
+Finally, they came to a massive archway, open and without gates. Through that arch was a room of surpassing majesty.
+
+Even in this place of truly unfathomable levels of opulence, the throne room was a standout.
+
+It was seemingly crafted out of a single, large piece of flawless crystal, the carving and working maintaining that nature even while it still had the carvings like everywhere else in the mountain. Here, those carvings were clear, and somehow wrought so that they didn’t distort the light that passed through them… yet Tala could still see them if she looked.
+
+The many facetted crystals around the room created a maze of reflections and bending light that rendered the space like standing within a woven rainbow, and the colored lights originated from seven thrones.
+
+Each of the magnificent seats was hewn from the same crystal that surrounded them, making up the throneroom and everything else of permanence. In the case of the different coloration, it looked almost as if the hue had burst outward from each seat, saturating the surrounding facets and mingling with the others near at hand to make a perfect gradient across the unified dais. Three of the thrones—orange, green, and indigo—were lifted above its fellows.
+
+All seven seats were occupied by dwarves in comparatively simple clothing, and as Tala looked upon them, she saw their power and their authority.
+
+It was all one. Unified in purpose, source, and expression. Though… the three higher seats held dwarves that felt more…actualized?
+
+If Tala had to guess, she’d say that those were Sovereign, while the other four were Hallowed, acknowledged and both supporting and wielding the same power.
+
+Regardless of how it manifested, these dwarves were united in power and authority. They were the Mountain King while each being one of the Mountain Kings.
+
+Twenty one armored dwarves—three adorned in each color—stood in various alcoves around the room, and seven white-armored warriors stood, one beside each throne.
+
+Those were of a mix of races, and Tala knew them to fulfill much the same role that Eskau did to arcane Pillars.
+
+But these were the weapon arm of Sovereign existences, and their Hallowed power made that clear. Still, it matched Eskau Meallain in feel.
+
+Hollow as hers is as well. They are unacknowledged? The warriors don’t share in the authority directly, but those on the thrones do. A funny thought entered into the back of her mind, but she squashed it.
+
+-Yeah, trying to uplift their subordinates would not go over well, Tala. They could likely deny them advancement regardless.-
+
+True enough. Tala calmed her mind and gave an appropriate bow, the elf bowing lower beside her.
+
+They had arrived, and it was time for her to make her petition.
+
+Stars send, they agree to help.

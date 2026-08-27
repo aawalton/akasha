@@ -1,0 +1,245 @@
+---
+id: 5ca0fd76-3250-563c-a3d0-bc1374dd0c38
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 553 - Talking about Solid Concepts"
+slug: 0052-chapter-553-talking-about-solid-concepts
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 52
+ownLength: 2876
+unit: words
+ownProgress: 2876
+publishedAt: 2025-04-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2219090/chapter-553-talking-about-solid-concepts"
+royalRoadId: "2219090"
+markedReadAt: "2026-06-29T19:36:57.880Z"
+---
+
+Tala turned more fully to regard Eskau Meallain, Alat ensuring that the iron body that they’d created didn’t degrade or start to break apart due to lack of attention. “So, do you know how to make a spirit?”
+
+The elf regarded her in turn for a moment before snorting a laugh. “No, not in the slightest, but I don’t think you’re supposed to make a new one. I imagine you’re just meant to anchor yours to the new body after reworking it.”
+
+“But mine is woven through this one. Does that mean I have to destroy my own Fusing before I can Reforge?”
+
+Eskau Meallain gave her a funny look, then arched one eyebrow. “You’ve already worked with your own spirit directly, and you don’t know its nature?”
+
+It was Tala’s turn to frown. “What do you mean?”
+
+“My dear girl, it is what makes you, you. Your soul is tied to your sword. Why isn’t your sword you?”
+
+“You mean aside from my mind?”
+
+The other woman rolled her eyes. “Yes, Eskau. I’m talking about solid concepts, not memories that can be changed from one day to another.”
+
+Alat took a moment to comment, despite spending most of her focus elsewhere. -I think association with mind-mages has messed with her definitions of things.-
+
+Or maybe clarified them? I was still ‘me,’ body and soul, even after Be-thric stole my memories. She has a point.
+
+-...Huh… you’re right. That might actually be an insight many struggle with.-
+
+Exactly. So, what is it? I feel like we should know.
+
+-Agreed. We also just witnessed the death of a Refined first hand and with great scrutiny.-
+
+Tala grimaced but called up the memory of Master Girt’s passing, taking comfort in the feeling of joy coming from the man’s soul as he reunited with his wife. Remind me to give this memory to the Librarians for the—
+
+-Already done. You asked me to give all the memories around him and his death, and I made sure to highlight this one.-
+
+Right. Thank you. My apologies for stealing your focus.
+
+That dealt with, she turned her attention to those final moments. The soul had passed on and…
+
+Her eyes widened. The reality node.
+
+Master Girt’s reality node had vanished as he’d died, leaving his body a simple collection of parts.
+
+She checked around herself and saw her own node and how it both was distinct and somehow blended with that underlying her sanctum.
+
+The whole sanctum could be considered a collection of nodes—alongside the distinct collection that was Ironhold—within the node that was Kit, and it was to that greater node that Tala was so intrinsically tied.
+
+She and Kit weren’t one, but they were… interwoven.
+
+Then, she decided to do something that she’d never really considered in quite a long time. She dove inward with her perspective.
+
+Her threefold sight—leaning heavily on voidsight—examined her self as she hadn’t bothered to do since she’d Fused.
+
+There it was. At the core of her being—in the sense of being at the heart of all parts of it rather than simply being at the center—was the blanket that she’d woven of her body, spirit, and soul, magic being the thread that connected all parts and Fused them into a holistic unit…
+
+She frowned.
+
+That didn’t actually make sense. She wasn’t powering it, and even if she were, the ‘hammer blow’ of Reality would have destroyed her Fusing if magic was all that held her together.
+
+She looked closer.
+
+It wasn’t actually magic that held it all together. Magical power had been the catalyst, but what she’d actually done was weave her very soul—specifically, the reality node through which her gate drew power—through her entire body.
+
+As to what she’d woven it to? Well, the first and more obvious part was the soul itself, which acted as anchor and cabling in one. It was that base part that allowed the power through, rather than the whole thing.
+
+I wonder if I can… No, focus, Tala. Think on that later.
+
+Second was her body, but really, her body wasn’t a single thing…except when seen as a whole, when seen as the reality node renders it.
+
+-So, Fusing is the interconnection of the reality nodes of your body, your soul, and that which is your presence here on Zeme.-
+
+Yeah… I don’t really understand how it’s different than the soul… or my body, even though I saw that it is. Is that because I’ve Fused?
+
+-It’s what makes it you. Is your soul in your hand? No. Your soul acts through your hand, and the hand is tied to your soul, but your soul isn’t in the hand.-
+
+Your point?
+
+-If you slap someone, you did it.-
+
+But if I use power or authority to move a rock to hit someone I did that too.
+
+-So, are you trying to imply that your aura and authority shouldn’t be considered as a part of you?-
+
+Tala’s eyes widened again. “Aura is just an extension of the reality node, the spirit, the self.”
+
+So, so many implications clicked into place, and Eskau Meallain simply smiled.
+
+Tala had dozens of questions flash through her mind, each answered by this new understanding. Where were her natural magics?
+
+In reality, of course, but why would they move around with her? What medium were they actually in?
+
+Her spirit. Her aura. Her self here on Zeme.
+
+It was so obvious—Master Grediv had essentially told her as much years earlier—but she’d never actually considered the topic fully.
+
+A broad grin washed across her features.
+
+That’s how Master Xeel does it.
+
+-Oh… Oh! Yeah, that makes so much sense. He has no need for inscriptions—though I’m sure they’d still help—because he made his magics an intrinsic part of his spirit.-
+
+And we can do the same. We have been doing the same to an extent, but we’ve been doing so with slow steps, allowing it to form as it would, rather than controlling the results.
+
+She could work to impose her inscriptions on her natural magics more fully… but they’d want to incorporate her soulbonds too. She hesitated, almost slapping herself in the face. -Oh, yeah, that’s really obvious. This is how Master Jevin messed up when he Bound himself with an Archon Star made from the ancient tree. He ended up Fusing with the tree as much as with his own body—if not more so—and even when he corrected that by Fusing with his body as well, he was still as much the tree as his humanoid form.-
+
+Thus, the issue.
+
+-Thus, the issue.-
+
+Tala grunted, remembering a much more recently encountered example. Mistress Cae and her astral cat.
+
+-That’s right… Yeah, we’re not doing that with Terry…- Then, somehow, Alat’s eyes widened.
+
+How? I mean, I want to know what you realized, but HOW? You don’t have eyes to widen!
+
+Alat chuckled. -Well, you were able to hit me, so…-
+
+Fine, fine. So? What did you realize?
+
+-Well, isn’t this what every soulbond is trying to avoid? We Archons are striving to keep our reality nodes separate, or at the very least ensure that they merge as we desire.-
+
+Tala’s eyes widened in turn. That’s… wow. I never considered that that was related to reality nodes, but it makes sense.
+
+-For merging items, we combine reality nodes, for soulbonds, we usually want to keep ours separate, sometimes incorporating them with another of our soulbonds.-
+
+So, we need to analyze and understand those magics more closely. She could reach out to the Constructionists’ Guild, and that would help lead her down the path toward solving that one side of things.
+
+She would essentially need to enter into a merging state and use her increased authority and aura to force the exact outcome that she wished.
+
+…It would have to be, otherwise it wouldn’t actually be a proper Reforging… That just made the stakes higher.
+
+Beyond that, she’d have to directly incorporate the important magics from each of her bonds that she would be subsuming into her own magic, both inscriptions and natural magics.
+
+So, she’d need an expert to help her interweave the various powers, abilities, and spellforms from her soulbonds into her spirit, and she’d have to weave their physicality and reality nodes into her iron body, as well as a portion of the ‘merging’ process and magics.
+
+When her expression changed again after that realization, Eskau Meallain chuckled. “I think you’ve just realized what I was thinking from the beginning.”
+
+Tala started then, jerking slightly before orienting on the elf. She’d honestly forgot that the other woman was there. “And what is that?”
+
+“I have a feeling that, while it will be a very good thing to practice some of the pieces, this is going to be something that you only really get one true attempt at. You’ll essentially be shredding various parts of yourself, your soul, and your soulbonds and trying to combine them all into one. You can’t just do that in fits and starts… well, you can’t if your intention is to come out with a single, complete whole.”
+
+Tala frowned. That was true, but… “Yes, that is true… but I think I can do it in stages, at least portions of it. It’s not something that I can take in randomly sized little chunks, but I won’t have to make the leap all at once.”
+
+She had the niggling suspicion that she was overcomplicating things… somehow. Regardless, she couldn’t see where. If she cut out any part of what she was considering, then the Reforging wouldn’t be complete in her eyes.
+
+-And there it is. You’ve set this as your target, and since a large part of Reforging is ending up where you want to be…-
+
+I’ve made this more difficult than it otherwise might have been. One thing in particular was calling to her. One thing stood as a primary concern among her desires.
+
+Her focus shifted along those lines, calling up and locking onto a memory from long, long ago, when she’d seen a magically created incubation chamber as a child. Unfortunately, it was from well before her memory enhancement scripts, so she couldn’t even remember why she’d seen one.
+
+Regardless, the construct itself was a place where even incredibly young babies could grow as if in their mother’s womb. The whole purpose of those constructs was to help keep a soul in a body that wasn’t able to hold it on its own, for one reason or another. It reinforced the bonds between body and soul, helped entice the soul to stay, and strengthened the body. Those magics, if properly altered and integrated into her body should allow for the maturation of a child with an existence soul. That was in line with their very purpose.
+
+She couldn’t just get the inscriptions either, because they wouldn’t be able to overcome the innate natural dissonance between a mundane child—meaning without magic, no matter how well knit—and an existence soul, which the very Sovereigns believed any child by her and Rane would have.
+
+Further, it wasn’t like she could use the incubation scripts for years to set them properly before putting them to use. That just made no sense.
+
+It obviously wasn’t a perfect—let alone tailored—solution to Tala’s issue, but it might be a potential start of one, assuming she wished to go that route. There could be other means as well.
+
+Regardless, she felt a hope kindle in her heart, stoking the embers that glowed within.
+
+She still wasn’t sure when she’d want to have children, but she was certain now that she did want them… at some point.
+
+That bridge could be crossed later, if and when such a possibility opened before her once more.
+
+Eskau Meallain cleared her throat. “So, it seems like you’ll need to find some experts to assist you with various parts of your Reforging? That way you can know what you’re about.”
+
+Tala nodded slowly, a frown growing across her features. “Not assist though. They can’t assist, but consult? Yes. I definitely think that I need them to point me in the right directions. Even so, I need to do the work myself.”
+
+The elf opened her mouth, but then hesitated, her own frown growing to match Tala’s. “Are you sure?”
+
+Tala shrugged. “I believe so, yeah. My body has to be mine on as many levels as possible, as thoroughly as I can manage.”
+
+Eskau Meallain didn’t seem convinced, but she also didn’t seem willing to argue with Tala. The elf was wise enough to not argue around a topic of which she was still largely ignorant, even if her instincts seemed to be disagreeing with Tala’s words.
+
+Tala took the woman’s momentary silence to ask something that she really should have asked earlier. “So. On another matter, why haven’t you regrown your arm? I mean, you seem essentially fully functional without it, but it seems… odd. Do you lack the necessary resources or power?”
+
+The other woman looked down at her left shoulder and the empty sleeve below it. “The body of a Hallowed is much more than your healers can understand.”
+
+Tala rolled her eyes. “We are immortal after Refined. You all don’t achieve that until Sovereignty, meaning most—even of your best—aren’t immortal. Our healers can heal immortal bodies. Why should yours be any more difficult?”
+
+Eskau Meallain scoffed. “A lifespan of nearly a hundred-thousand years is close enough to immortal for any who need such time to either rise or die. There has almost never been a truly gifted unbroken to die of old age. Zeme simply isn’t old enough to have claimed any with the march of time—save those who advanced too slowly, but those wouldn’t be ‘truly gifted.’" She shrugged. “Immortal and functionally immortal are—definitionally—functionally the same.”
+
+Tala huffed a laugh. “I suppose, but my point stands. Our healers are used to working with Refined. They can heal a limb without introducing impurities…”
+
+She frowned. Wait… How was that possible? If the creation of a ‘pure’ limb was a function of a healing performed by magic, then any limb regrown with magic would be pure, but it wasn’t. Those regrown on mundanes were unrefined, and those on Refined were likewise a match for the patient.
+
+Healers didn’t purposely introduce impurity…
+
+Yet again, the obvious answer almost seemed to slap her in the face as soon as she considered the question.
+
+The impurities aren’t actually in our bodies, not really. They are a feature of the reality nodes of the various parts of our bodies. That’s why Refining works as it does. That’s why filling up with magic helps to purify the arcanes.
+
+-That… Yeah, that does make sense.- Alat was starting to sound strained. -Do we really need to keep the iron body together?-
+
+Hmm? Oh! Oh, no. I think we’re alright to let it break apart.
+
+Alat sent the feeling of a great, relieved exhale, and the ‘iron Tala’ puffed into iron dust before vanishing stoneward.
+
+Eskau Meallain’s gaze barely flicked to the side as the iron body vanished. Still, once it was gone, the elf waved a hand in front of Tala’s face, causing the latter to jump slightly. “My apologies. I was just realizing something. So, you aren’t concerned about impurities, then?”
+
+The elf shook her head. “No, not in the least. The reason that I will regrow my own arm, is because I must ensure that it is suffused with my concept.”
+
+Tala grunted. “Very well. I would forbid it, but I don’t think training Talons against a one-armed Eskau would have the same level of benefit.”
+
+The other woman huffed a laugh. “True enough.”
+
+Tala nodded once. “What do you need to get it done?”
+
+After a moment’s thought, Eskau Meallain answered. “A week in seclusion with power that I can draw upon, and freedom to use my protian weapon for that same span, without reprisal or censure afterward.”
+
+When Tala raised an eyebrow, the Eskau held up her hand to forestall her.
+
+“I won’t exceed my prescribed level. I just need the power to properly enact the work.”
+
+“And food?”
+
+“That would be ideal, yes. Thank you. And water and a place to sleep, if you don’t mind. A place to relieve myself and bathe would be a boon as well.” Eskau Meallain had a long-suffering look that told Tala exactly what the elf thought about having to specify such things.
+
+Tala shook her head and chuckled. “Fine, fine. I know just the place. I've got a couple of captured holds. The elven one is being used by the Talons—as you’ve seen—but I’ve another that might suit you for a week or so.”
+
+“Thank you.”
+
+“Would you like to go now?”
+
+“Sooner is better, yes. Thank you.”
+
+Tala frowned. Eskau Meallain had helped her think through a lot, and put a lot of pieces together, but mostly, the conversation had exposed Tala’s incredible lack of knowledge in some key areas.
+
+She was left with one overarching, critical fact.
+
+Aside from reaching out to the Constructionists, she needed an inscription expert to help her alter and then cement her magics, which would then be fully ensconced in the medium of her own spirit.
+
+She needed Mistress Holly.

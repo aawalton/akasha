@@ -1,0 +1,113 @@
+---
+id: 3aa25916-adaa-5239-ae74-16048ea65181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126 Gateway"
+slug: 0139-chapter-126-gateway
+partOf: melody-of-mana
+position: 139
+ownLength: 2031
+unit: words
+ownProgress: 2031
+publishedAt: 2022-04-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/897306/chapter-126-gateway"
+royalRoadId: "897306"
+markedReadAt: "2026-06-29T22:30:38.875Z"
+---
+
+The day for us to head to Lord Durin's home came sooner than I might have liked. Classes were held off for a week in what seemed to now be a recurring winter break and my first day was dedicated to the arduous task of getting ready and then traveling there. My mother had been in a flurry of work for weeks and I was fairly sure that she'd not calm until we arrived. All of my things, save my travel outfit, were already packed in the morning.
+
+We got into a small carriage and headed well out of the city. It was relaxing to just feel it roll along the roads as I leaned back, the slight shaking lulling me into a near sleep. We passed a few fields and several small hamlets on our way. Though I didn't see them, I suspected that well behind us were soldiers who were keeping an eye out for any trouble.
+
+Around noon we stopped at a waystation. I was glad that these were still around, as they served a valuable purpose for those who weren't super wealthy. These little places, strewn at intervals along most major roads, and some minor ones, served as safe places to rest to the weary traveler. Stopping was a bit odd, being that it was noon and this place was well from any major route, but that was fine.
+
+The first thing that struck me as odd was how empty it was, our group was the only one here. I looked around for a few moments as I disembarked and was a bit surprised at the strange quietness, as well as the fact that we seemed to be stopping for a longer time. Much of our luggage was being unloaded.
+
+As I stretched a bit father came up to me. “Come quickly, we're going first.”
+
+“Um? Going where?”
+
+“I'm afraid I'm not able to share that with you just yet, soon though. When you are of age, almost certainly.”
+
+I didn't really like the cloak and dagger nonsense, but I had no reason not to trust him. Our family and a handful of servants were being taken into the waystation first. Charles had come with us, but he was dealing with some other things involving the caravan.
+
+The stone of the waystation entry was clean and well maintained and the slight heel on my shoes clacked as we entered. It was a plain place, but there would certainly be a small eatery inside where one could get food and drink, before heading to the rooms for visitors.
+
+As the doors opened I was greeted by a frankly absurd sight. Lord Durin was there, leaning back in a chair and holding a small cup of some drink. In all his finery he sat here, in an establishment made mostly for peasants, drinking like it was the most normal thing in the world.
+
+“Hello my friend. I hope you'll forgive my joining you, but I needed a bit of a break from all the hustle and bustle. My dear Sophia is in a flurry of work and I feel rather unwelcome to be in her way.” The man said as we approached.
+
+Dad laughed. “Women can sometimes be like that with weddings my friend. It is an important day, and theirs.”
+
+The Lord of Shadows nodded sagely and rose, chatting a bit with father as we walked deeper into the facility. We arrived at a hallway and an attendant there pulled out a black strip of cloth.
+
+“My apologies miss, but at this point...” She said as she approached me.
+
+“There is no need,” Lord Durin declared to everyone's surprise.
+
+“No need?” I asked as the man turned to face me.
+
+“None at all. I have been informed by Mystien of some of your work my dear Alana. He has told me that you have done great service to me and mine, and that you are able to keep secrets when you must. This is a secret you must, one that I hope you will help me unravel in time.”
+
+I nodded gravely. When someone of his level tells you that you were to keep a secret, it was important to listen and listen well. I didn't want his direct attention, but that was a lost cause for now, and I was curious. Steeling my resolve we continued on. There were a number of rooms we passed through, the many security measures clear on them. We went down and down until we finally reached a well secured room.
+
+It was large, even for a cavern and at the end of it was an artifact that I could tell at a glance was astoundingly impressive. Runes covered the glittering blue opening to a passageway. There was a slight distortion around the stone circle that made the opening. It even felt magical, the way the world seemed to bend around it.
+
+The Lord of Shadows chuckled as he saw my jaw drop. “This is one of the things that aided me in my conquest. Do you know what it is?”
+
+“No sir, I don't, but I can almost feel the power.”
+
+“It is a gate, one of many. Even Mystien is lost as to how it works. He has tried several times to decipher its workings, but has yet to inform me of anything of note. I found it and it's network some years ago. The Alcubierre Gates, I can tell you that they were owned at one point by the magus Ristolian. Sadly he left no indication as to who, or what Alcubierre is or was. I personally think it was another magus from his time.” Lord Durin waxed on for a bit, loading me down with important information.
+
+That was a name I knew, though I'd only heard it once from our former dean. He was one of those I believed to have been another traveler from my world, and Alcubierre was obviously a reference to warp drives. I didn't know how those worked in detail, but I did know they warped space or something.
+
+“Amazing,” I whispered.
+
+“Truly something, instant travel across the world.” My father seemed to be watching me, and he agreed.
+
+“Nearly instant. We have been able to figure out that it does take 'some' time to move from place to place,” Lord Durin corrected. “At any rate, shall we?” With that he stepped through the portal.
+
+I followed just after mom and dad. The sensation was odd, like being pulled for a brief second as I moved through, to find myself in a huge stone room. There were dozens of similar portals strewn about, turned off, or with a metal grate before them to prevent entry. There were also a number of guards decked out in magical items and with auras that gave me some serious pause.
+
+“Welcome to my home, The Fortress of Ristolian,” our guide declared. “Verren I believe you know your way about. Please excuse me as I have other guests to go and greet.” He turned and one or two of his aides joined him as he headed for another of the gates passing through with little fanfare.
+
+This place was strange in a number of ways. Our assigned rooms were right near those of my uncle, who I hadn't seen in years. After he greeted us with gusto I went out onto one of the balconies. The whole facility was enormous, and built in a rather squarish layout. It seemed whoever had made it had used stone and a repeating, simple design. Well, except for the main hall, which was build like a palace and looked like it might have been picked straight out of a children's movie. It was massive and full of towers that didn't seem to serve much purpose.
+
+Our room had a balcony that looked out into the central courtyard and we were on the upper level of it. Giving us an impressive view. It was a lovely view, a field of white broken up by garden walls and small sections that were kept green by similar heating magic to that I was using to stand in freezing temperatures without issue.
+
+It was cold outside of the buildings, painfully so. Cold on the level of those old videos of people throwing up pots of hot water and watching it freeze in the air. Mother had tried to fuss about me wanting to go stand outside in this until I showed her my warming magic. Then she joined me.
+
+“I didn't know you could do this dear,” she said as we stood at the small railing.
+
+“Of course, I used to really like going out in the snow for walks. It was always so peaceful.”
+
+“I've missed too much of your life.” She seemed a bit sullen.
+
+“Mom, we both know that we're pretty different.”
+
+She sighed and moved to hug me, holding me close. “I know, when you were a little girl we didn't talk enough. You were always so different, so... a bit strange honestly. I want to be there for you, but I just don't know... how.” She petted my head as she held me, it was nice, and for the first time in a long time I just let her, enjoying it as we stood, her hands stroking my hair softly.
+
+“You could stop pressuring me a bit, that would be nice.”
+
+She laughed lightly, “A mother worries, I hope you won't begrudge me that too much. I hope one day you'll understand too. I will try though, I'll try.”
+
+We enjoyed the moment for a bit longer before she pulled back.
+
+“Something wrong?” I asked.
+
+“Well,” she sighed “Sadly I think we have some engagements this afternoon.”
+
+“If we must.”
+
+“Don't pout too much Alana. I'm sure that there will be some you'll enjoy.”
+
+We headed back in and checked ourselves over. There were a number of small social events on the buildup to the wedding. There were simply too many movers and shakers here for there not to be. While few of the women here were soldiers themselves, many were married to such, and had little to do in military meetings. For that reason more social things were organized for them, and their children to attend while everything else was going on.
+
+The first of which we attended was set up rather like a tea party. There were tables with sweets from all over the country and various drinks. The idea seemed to be to share what products were coming up in your current area, the new trends and foods that could be exported.
+
+Without my knowing mom had put together a table for the capital, it had ice cream and one of the more common teas that was popular in Lithere. She knew most of the women who were here with us and seemed to enjoy socializing with them. I recognized one or two of the daughters from school, though they weren't really in my friend group.
+
+There were almost no boys here at all. A few women had what were obviously their young sons, and one or two boys around my age showed up, but this seemed to be more gauged towards girls. I wondered briefly if there were other things going on at the moment and after a simple inquiry got a schedule from my mother. This was the only big thing for today, but she seemed to suspect that I'd want to go to the others soon.
+
+It was impressive, there were dozens of small events like this one focusing on different things. Some were on new magics that were coming into fashion in given areas, another on food and drink. It looked like mother had brought me along to the one she preferred, but I would decidedly be going to some others before the main event.
+
+It was hard to admit that I wasn't really involved in her social circle at all, but I only saw her once a week at best. It seemed that I may need to learn more, but for now, for now I was putting together a schedule for my vacation.

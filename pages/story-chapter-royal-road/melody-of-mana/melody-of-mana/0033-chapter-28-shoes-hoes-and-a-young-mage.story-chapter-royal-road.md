@@ -1,0 +1,161 @@
+---
+id: 5afabfbf-f9aa-501d-99bb-252ecf80a178
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 Shoes, hoes, and a young mage"
+slug: 0033-chapter-28-shoes-hoes-and-a-young-mage
+partOf: melody-of-mana
+position: 33
+ownLength: 2077
+unit: words
+ownProgress: 2077
+publishedAt: 2021-07-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/719765/chapter-28-shoes-hoes-and-a-young-mage"
+royalRoadId: "719765"
+markedReadAt: "2026-06-29T22:27:22.451Z"
+---
+
+I smiled as the spring melted the snows, day after day driving back the signs of winter. As a celebration for being nine, and the freedom of winter ending, I decided to buy myself a new pair of shoes. On one of my days off I slipped down to the artisans district.
+
+It took me a long time to find it, but Sorn's Shoes was here. It was tucked between two other stores, both of the clothing variety. The street here was not too close to the main street, but it was wide, and paved. I'd give the location a 8/10 overall, good, but not great.
+
+A small bell rang as I entered, tinkling lightly through the whole store. Sorn looked up from a bench in the back. Standing up from his workspace he came forward and greet his new customer.
+
+"Greetings lass, how can I help you today?"
+
+"I'd like to order a couple of pairs of shoes. One of light shoes for the city, and a pair of medium weight boots."
+
+"Alright then. Come on back and we'll measure you right up."
+
+He took me over to a small stool where he proceeded to measure out my feet. I had to put aside my current shoes, which were a disaster, for him to do so. Their soles were worn and thin from more walking than they'd ever actually been designed for.
+
+"Here's what I suggest as materials." I'd never seen him in his element before. Sorn was an absolute professional. He laid out small patches of colored leather fit for both indoor slippers and boots, as well as a few sample designs.
+
+I picked out sensible boots, in a warm brown leather, and blue slippers for my work at the bar.
+
+"It'll be ten silver. Soon as your parents pay I'll start on them. Both pairs will take around a week, but they'll be a fair bit better than you have now."
+
+I laughed a bit as I put the money on the counter. "About a week then?"
+
+He blinked for a second, scooping it up. "What name should I put these under? Also, careful flashing money like that kid; someone might try to rob you or something."
+
+"Alana, and you know well as I do Sorn, that anyone who tries to rob me will thoroughly regret it."
+
+He squinted at me for a moment. As he did I felt the corners of my mouth inching up.
+
+"It's you!"
+
+"Yup."
+
+"You're actually a girl?"
+
+"Yup."
+
+He was rubbing his temples as I enjoyed my hearty laugh. It took him several moments to recover fully before he started smiling again.
+
+"Come to be my apprentice then?""Not on your life."
+
+"Ha, I suppose you found your uncle, didn't ya?"
+
+Oof, forgot I'd never actually told him the truth on that one. "He's not really my uncle, but yes. I'm up at The Starlit Sky now. You should come by sometime."
+
+We said our goodbyes and I meandered back to the tavern. The day was still young and I had plenty of magic to practice.
+
+Spring brought with it a number of changes to The Sky. There was a sharp uptick in business of all kinds. Both drinking and the refilling of magical items.
+
+One of the main jobs that I ended up doing was working on refilling the magical items that all of the brothels in the area used. These were two small orbs. The first was used to check for any diseases, important in that line of work. The second checked the age of anyone who touched it.
+
+Prostitution was in fact legal in this kingdom. There were a few caveats. All of those working had to be checked weekly for any STDs, and they also had to be adults. There were periodic checks by the authorities, and the punishments for violating either of those ordinances were very heavy.
+
+Society viewed working girls quite a bit differently than my previous world. They weren't considered respectable, but neither were they hated. Jealousy played a part in the hatred of them in any world, as most people don't like to share. At the same time they tended to make good money, and there was less of a stress on sexual purity here. While prostitution was therefore viewed as a job that most men didn't really want their daughters going into, many still used the working girls' services at one point or another in their lives.
+
+A very large number of orphans ended up working in a brothel as well. It was a sad fact that in this society without a support structure you really could die. Since most orphans also ended up with The Shield and were well educated (compared to a peasant) many times the women ran the businesses as absolute professionals. Of course, in the current state of things with the previous years of war, there was now an absolute profusion of women trying to break into the trade now. So competition between the various businesses was stiff.
+
+This led to an interesting issue in The Sky. Since many of these women were customers when they were off the job, they tended to sit only with the others from their particular establishment. These groups held only a tenuous peace inside the tavern. They knew better than to irritate the proprietor, since he was instrumental in their businesses staying open. They also hated each other's guts, each time one got a customer the others were losing that same man.
+
+Fights were frequent, and quite a bit more violent than one might expect.
+
+In my experience men do not often actually want to fight. They posture, and yell, and push, eventually they'll punch each other for about ten seconds then go to wrestling on the ground. If the issue between them isn't deadly they often leave friends afterwards.
+
+Women on the other hand do not do that. When they decide to fight it goes from a handful of curses to hair ripping and nail scratching. There is no posturing, no buildup. It is an instant of rage followed by violence, and they aren't friends afterwards.
+
+It was the night after I'd picked up my new footwear that it happened. I was carrying soups over to one of our larger tables. They'd ordered a frankly obscene amount of food and I had a whole platter of the hot red stuff. I didn't hear what started it off, but something certainly did.
+
+"Fuck you bitch!" seemed to be the starting pistol for the two tables I was passing by to launch at each other.
+
+I didn't really care about the details, because when they did one of the stupid assholes knocked me over. This ended up tossing the entire platter full of scalding hot soup onto me, my dress, and importantly, my brand new shoes.
+
+They did not. They fucking did not. I could see red, on me, on my dress, on my fucking shoes. I let loose on the lot of fighting women. I had barely enough sense to not push as much mana as I could into the scream as I opened up on them.
+
+The room went silent as the disoriented women tried to pick themselves up off the floor. A few particularly foolish ones made to grab at their opponents. A second blast served to straighten them out.
+
+Nobody spoke or moved as the sprawled out whores (I'd lost any and all respect for them at this point) tried to recover. There were scant few people that wanted to deal with an irate spellcaster, and almost all of those could use magic themselves. I could feel the eyes on me, waiting to see where this would go. Once I guessed that at least most of them could hear again I decided to lay into them.
+
+"Congratulations, you're all a bunch of stupid fucking cunts! Pay your tab and get the hell out!" I wasn't enamored with obscenities, but there was a time for everything. It probably sounded hilarious coming from a girl my age, but the representatives for each table quickly did so.
+
+The room was dead silent as they left; except for one person. A boy of about twelve was sitting to one side of the room. Upon hearing me chew out the combatants he's begun laughing so hard he'd fallen out of his chair. I briefly considered tossing him a scream too, but he clearly had some kind of aura, so I decided against it.
+
+A hand came down on my shoulder. "Why don't you take the rest of the evening off to clean up and cool off?" Lucien had to have had ninja training somewhere at some point. It was absolutely obscene how he could move that quietly.
+
+The boy was still laughing as I left. I could see him trying to pick himself up back into his chair.
+
+I dreamed that night of seeing Rod and Sandra's bodies. They were laying in the middle of a field, holding each other. As I looked up from where they were I could see corpses all around. I recognized the mayor, several of the soldiers, many were villagers. There were others I didn't know.
+
+As I looked about I felt the first drop fall, landing on my cheek. Then drop by drop it began to rain blood. I wept as the crimson tide fell upon the clearing soaking into everything.
+
+I jolted awake, shaking and crying from the horror of it. For the rest of the night I found no sleep. I curled up in my blankets wishing for the morning to come.
+
+Lucien was there when I came downstairs.
+
+"So... about last night..." I began.
+
+"They were fighting, you threw them out. I would appreciate it if you didn't curse so much next time it happens." He didn't seem mad at all, perhaps even a bit amused.
+
+"You're not even going to tell me off?"
+
+"For what? There was no permanent damage to them or the tavern, and I won't have people fighting like that here. It's bad for business. Having troublemakers tossed out by a spellcaster on the other hand tells people I can both hire one, and keep you from turning them into paste."
+
+"I couldn't have turned them into paste even if I wanted to..."
+
+"They don't know that though. You forget that the average person knows about as much about magic as they do about... I don't know, blacksmithing. They know you can do stuff, but have no idea what."
+
+"Oh, yeah, I guess I have heard that."
+
+"But do tone down the cursing. Having a foul mouthed child is not as good for our image."
+
+"I'll try."
+
+"Good, now see what you can do about getting the tables set up before breakfast."
+
+That evening as I was getting off, the kid from last night showed up again. He walked up to me with a big smile. He had to be eleven or twelve, sandy blonde hair with a slight build. His robes were simple, and screamed "Hey look at me! I do magic!"
+
+"Hey, I'm Dras." He seemed calm and collected, with a slight air of mischief.
+
+"Hi..."
+
+"So, if you don't mind me asking. How did you do that scream thing last night? That was cool."
+
+"It's just a basic bard spell. You focus mana into your voice."
+
+"Oh! You're a bard then. I'm a wizard. Been learning as much as I can so I can prep for school."
+
+"I figured. The robes kind of say it for you."
+
+"Yeah, suppose they do. Would you be interested in trading spells some time? I could teach you one of mine for one of yours?"
+
+"We use different methods, that wouldn't work."
+
+"Oh... well. That kinda sucks, I'd love to be able to yell people into the ground. Wanna go hang out? There's plenty of cool stuff around."
+
+"Maybe another day, I've got stuff I need to do today. Like wash my stupid dress again."
+
+He nodded. "Another time then, bye!"
+
+I had no clue what to make of him. He didn't seem like a bad person, but my experience there was sort of lacking. As I went to leave I passed by Lucien at the bar.
+
+"What'd Dras want?"
+
+"Asked about the scream. You know him?"
+
+"Yeah, he's local. Decent kid; gets in a bit of trouble, but who doesn't? He does a lot of recharging for cash."
+
+"Huh."

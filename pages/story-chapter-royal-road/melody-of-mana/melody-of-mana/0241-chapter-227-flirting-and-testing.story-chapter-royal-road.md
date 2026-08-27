@@ -1,0 +1,111 @@
+---
+id: 5c4da7d6-c411-55bd-a272-94a9b00051a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 227 Flirting and Testing"
+slug: 0241-chapter-227-flirting-and-testing
+partOf: melody-of-mana
+position: 241
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2023-04-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1166785/chapter-227-flirting-and-testing"
+royalRoadId: "1166785"
+markedReadAt: "2026-06-29T22:34:09.227Z"
+---
+
+I was still a bit pink faced when Ulanion left the lake, strolling out like he was in a superhero movie.
+
+"So... how deep is it?"  I asked, covering my face.
+
+He laughed before answering,  "About twenty feet."
+
+I could stand here flirting all day, and perhaps other things... but time and place.  Neither were correct for this and so with an effort I schooled myself.
+
+With a small frown I looked up at the sky.  "Getting late in the afternoon already, and we'll need to set up some wards before we do anything major, might be better to come back in the morning so we can spend all day.  Then again...  perhaps I should have tried to get someone who could build us a structure, but that would have just brought in more people, and caused more problems."  I began to pull out my tools as I mumbled to myself.  "Got a couple of the 'safer' tests we can run, but you'll be swimming a bit for it.  Could you place this in shallow water?"  I asked as I handed him one of the gates.
+
+The gates for this mission were small, very small, and by design.  I neither wanted something too large to control or too cumbersome for me to easily carry.  Most of the space for them was the added places for power supply.  I began the most basic shield setup, it was the one I needed for this one particularly.  The gate went a dozen feet in front of me with the exits pointing at a right angle.  This should be safe, but procedure and all that.
+
+When Ulanion had returned from his mission I let him into my shield and pulled him over.
+
+"Alright, starting in 3, 2, 1" then I used a small movement spell to switch on my gate.
+
+"That's... underwhelming, why couldn't we do this back in the city?"  He asked.
+
+Out of both sides of the gate was a light trickle, pushing water out to the sides lighter than even a weak pump.
+
+"I don't remember all the math for water pressure, and wouldn't bore you with it if I did, but water is dangerous," I answered as I flipped off the device.
+
+"I mean, that tracks I suppose, did you learn anything?"
+
+"Yes, but I need you to go move the portal in the water down to the very bottom if you don't mind."
+
+When I repeated the test at a lower depth I could only frown.
+
+"Not good?"  Ulanion asked.
+
+"No, they don't stop water and the stream is larger, meaning the pressure matters."
+
+"How bad?"
+
+I made a face.  "Bad bad, what if I dropped one end in the ocean.  You can see the difference between even a low and high depth, we need to run a couple more while we're here."
+
+I repeated the test several times, recharging, and even using a small magical stopwatch to time the whole affair.  Notes were made in a small pad and I found some things that were at least slightly promising.
+
+For one, the gates cared about matter going through.  With larger ones and the sheer mass of mana we were shoving into them it didn't matter for personnel transport, but it would here.  There was a distinct increase in mana cost between being open to air, underwater, and deeper underwater, displayed in the time it took the gate battery to drain itself.
+
+Ulanion looked bored, and during the longer time testing the mana consumption rate had even taken to putting his pants back on while I waited, the spoilsport.  There wasn't all that much for him to do here, other than keep an eye out, and this place was deserted.  Once or twice he went to go look at something, but it was just small birds or local wildlife.
+
+We got back late, quite late, and I could tell that the mayor was stressed, as I entered the house.
+
+"Oh thank goodness, you're alright," he sighed.
+
+"I'm quite fine, I do have a guard with me.  Was there some worry that I might be hurt?"  I asked.
+
+"Well, nobody saw you for most of the day, and people started to get worried..."
+
+"That is normal, and will continue.  I will be spending much of my time over the next few days outside of the city, but I assure you Sean can keep me safe," I said mildly.
+
+"I could ask a few of the guards to accompany you," he offered.
+
+"Unfortunately that is not acceptable.  There are things I need to check on privately."  Not a good answer for him, but an honest one at least.
+
+"Ah yes, of course, my apologies," he said as he bowed.
+
+"Please don't be so formal.  It's rather distracting," I sighed.
+
+"I simply don't wish to disrespect you ma'am.  If our manners are improper..."
+
+"Not at all.  I actually come from a farming village not much different in size from this one.  The emperor cares not about birth, but about ability, remember that."
+
+He looked stunned, and a bit put off, as if he was unsure of how to treat me now.  I'd made sure that my cover story was near enough to my own life, and I was certainly no noble.  Even though I'd told him that many times I felt he was now starting to get it.  Of course if he started being rude or snippy I could still put him squarely in his place.
+
+"But your math and understanding of finances are...  The daughter of a mayor?"  He inquired.
+
+"I would prefer it if you didn't mention my family again, but no, simply schooled well.  My hometown, like many others fell during the war and I was given the opportunity to learn afterwards."  I could see him tense a bit, then relax once more.
+
+"This is all still quite strange to me," Mallowsweet admitted.
+
+"Indeed, it seems like whoever brought you in when the land was taken over was rather lax about informing you of policy.  One of my notes is that you are in need of assistance on that matter and a few others.  Still the town is otherwise doing pretty well."
+
+Over the next two days I brought out some basic measurement tools and continued with the water testing.  It wasn't much, but this was one of the easiest abuses I could think of, and the damage would be unbelievable.  In that time I managed to establish a rough baseline of mana consumption to water amount, but that was... very much an 'about this much' statement.  I could hand off the information for others to investigate in depth and in greater depths if at the conclusion that was decided to be something to look into.
+
+I kept meticulous notes, in English, as I didn't want to even imagine the repercussions if these fell into the wrong hands.  Sure there were a few people who would understand, but unless that ancient priest was teaching classes it wouldn't be many.  Justin had seemed content to not spread it and even the original portal maker had not spread the language far and wide, though he could have.
+
+The mayor was giving me increasingly weird looks when I came back to town.  His curiosity wasn't good, but there wasn't much I could do about it either, and sadly, the next morning I had a meeting.
+
+The pair of bards showed up right on time, though with the general prevalence of timekeeping in this world they were simply supposed to show up between breakfast and lunch.  Still, that was something, if they'd wanted to try and throw their weight around by making me wait I would have just had to deal with it.
+
+The first was an older woman, fifties, perhaps early sixties, and well dressed compared to the rest of the folks in town, with the obvious exception of the mayor.  She had a light smile on her face and didn't seem much bothered by anything.
+
+Behind her came a man who I could only compare in my head to Jackson.  His clothes were by a mile the flashiest I'd seen here, brightly colored and hanging on him loosely.  They were still of a village make, but on the far nicer scale.  Appearance-wise he was tall, well enough built and equipped with the good looks that said he spent a lot of time on himself.  I instantly disliked him.
+
+"My apologies my lady, as I haven't yet made your acquaintance.  Had I but known that such a beautiful woman was the one requesting a meeting I would have of course come far quicker.  Though taking one's time isn't a bad thing either..."  He had a slight smirk.
+
+I returned it with a gentle smile of my own.  "I'm here in an official capacity mister Sloan, so kindly drop the flirting."
+
+He didn't look like he knew what to say to that one, but his mother laughed.
+
+"Oh I like you my dear, dealt with a lot of skirt-chasers before?"  She asked.
+
+"Several, and one particularly brazen one comes to mind, though he was never much interested in me.  Shall we begin?"  I said, motioning to their seats.

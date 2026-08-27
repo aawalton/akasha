@@ -1,0 +1,257 @@
+---
+id: fb0b88c0-fb2e-5c9d-90b5-b64d09ef76d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 - Where Did You Sleep Last Night? "
+slug: 0080-chapter-44-where-did-you-sleep-last-night
+partOf: metaworld-hopecore
+position: 80
+ownLength: 3825
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3416769/chapter-44-where-did-you-sleep-last-night"
+royalRoadId: "3416769"
+---
+
+"The Blues are the true facts of life expressed in words and song, inspiration, feeling, and understanding."
+
+Willie Dixion
+
+At the threshold of the Whitman Theatre’s backstage, Zara and Eppie bid their familia goodbye, though not for long, since they had dinner booked at a flamenco joint after the show.
+
+Compared to the humble Playhouse, the Whitman Theatre’s backstage was a different hog. The green room here wasn’t green either, but it was professionally furnished to industry standards. Floor-to-ceiling mirrors covered one side, and the makeup stations had proper mirrors with working bulbs. There were wardrobe rails, rows of folding tables, couches and wheeled stools.
+
+Outside, the Whitman expected about 1200 guests for the night, though with reconfigurations, both upper and lower sections open, and including the corporate boxes, the theatre could house 2000 to 2200 for 2008’s LAPAGANZA. From what Susan Carr had told Eppie in confidence, about 1000 of those seats were filled tonight, and walk-ins easily occupied the rest.
+
+Eppie was dead-set on her roughed-up schoolgirl look because she had a devious plan, and she wasn’t about to deviate from it. Zara chose something not nearly so conspicuous, opting for a halter-neck top in satin purple and flared, bell-bottom jeans. As it was 2007, her midriff was home free, which was fine because Zara had the right body and skin tone to pull it off.
+
+She watched Zara style her hair this way and that, then gave up and decided on a messy bun. Alas, despite the privilege the music Majors received during regular conservatory work, they lacked dedicated MUAs like the theatre kids. With Eppie’s help, Zara applied upper and lower lash-lines perfectly, because there were things [Physicality] and [Agility] were good for other than parkour. Eppie also fixed her own makeup and cleaned up her outfit because Dream a Little called for a different vibe than In the Pines.
+
+The girls looked at themselves in the mirrors. The other girls were also looking at the pair, but Eppie knew no other Seniors than the ones making her life heaven or hell.
+
+“Alright,” Zara exhaled. They were early by thirty minutes, but there wasn’t really a place to practice.
+
+“... Say,” Eppie studied her friend. “You forgot your lips.”
+
+“Oh my God—” Zara rushed back to the makeup station before it was taken. She picked up the colour she wanted and popped the top.
+
+“STOP—” Eppie felt her skin crawl. “What are you doing?”
+
+“Lipstick?” “That’s a public lipstick.” Eppie walked over and sat her friend down. “With a capital P.”
+
+P for herpes… if one were to win the lottery.
+
+“Oh…” Zara looked at the lipstick. “Er…”
+
+“Stay here,” Eppie looked around the station and returned after a minute with what she needed. She knew how the look was achieved, but in her prior life, she had lacked both patience and dexterity. “Pucker up, buttercup, let me show you how it’s done.”
+
+She operated like a surgeon. Her friend had to look perfect.
+
+The lip primer went on with a concealer brush; her hand was so precise that she didn’t even need a tissue for smoothing. “It tickles.”
+
+“Don’t talk! I am working.”
+
+She picked up the liner. Eppie held Zara’s chin with her index and middle fingers and tilted her friend’s face by a few degrees. Under the G25 globe bulbs, Zara’s cat-eye makeup was doing wonders for her eyes, the black framing her amber orbs so vividly that an unwary lover could be lost entirely in their reflection.
+
+“Hold your breath.”
+
+Zara froze.
+
+The liner went on in clean arcs, corner to corner, fractionally outside the natural border. Eppie picked a colour she liked, warm burgundy, which her [Love the Light] told her was just perfect, and pressed the shaved, refreshed tip against Zara’s pliant petals. She applied it with a disposable applicator, the colour moving from the centre out, first the top, then the bottom. “Blot,” she commanded.
+
+Zara blotted.
+
+The impression came away clean. Eppie made another pass to build the colour.
+
+Zara didn't move. She sat with lips parted, chin tilted, and her breath shallow and sweet. Eppie gulped. The final liner softened the edge of the mouth, but emphasised Zara’s cupid’s bow.
+
+She studied her work. It was good work. She had a knack for this.
+
+"Done."
+
+"Don't touch them for three minutes."
+
+"Or?"
+
+"You'll smear it."
+
+A natural rebel, Zara pressed her lips together once and smiled. Eppie felt her heart skip a beat. Eppie looked away and cleaned up her tools with disposables. Was MUA a [Trait]? It could be a very useful skill.
+
+"You look like you're on the cover of Forever Girl,” Eppie said while patting herself on the back.
+
+"And you look like you’re in a punk alternative." Zara's gaze was full of admiration. "So we'll balance out."
+
+"Are you nervous?" Eppie asked. It was good that she had distracted herself with Zara’s lips, for the tension left by Juliana Vaughan’s bequest had finally bled from her veins.
+
+Zara considered her question seriously. "No," she said, her ears were red. “I was nervous before, but now I am nervous for a different reason.”
+
+“Don’t worry about Director Curon. We don’t need the other talent scouts. You need to look perfect, because after tonight…” Eppie’s hands landed on her friend’s shoulders. Her skin was slick, but the change room wasn’t even that warm. Zara was a terrible liar. “You’re going to be a Charting Artist.”
+
+The door to the dressing room opened. An ASM, Assistant Stage Manager, burst into the room with a clipboard in hand and a headset live and blaring. “Fontaine, Arriaga, five minutes, stage left. No dawdling. NO selfies.”
+
+Eppie picked up her guitar, and Zara hers. As a last-minute act of cruelty, Eppie hiked her skirt up an inch. An inch was the difference between innocent and obscene. The Music from the last act had struck its bridge.
+
+“Ready?” Eppie held out her hand."Lista desde el vientre,” Zara said something that sounded like one of Paco’s adages. The musician took her hand. “I was ready the day we met.”
+
+LAPA. The Whitman Theatre.
+
+William Chen arrived late because he had been giving a heartfelt speech about his film, Generational, which had been short-listed for a local cinema’s program aimed at young Directors.
+
+Thankfully, he had not arrived late for the singular act he wanted to see. He had promised to see others, of course, but those were out of obligation. He was a popular guy, and he had many, many admirers. They had all asked him to come and watch their recitals, dances, and whatnot, but William had time only for his film, his girl, and his golden songbird.
+
+He had actually invited Val as well. He told her that maybe the sight of her perfect self would unnerve Eppie so much that she might screw up. That would be hilarious indeed, though William wasn’t nearly nasty enough to wish such ill against his sweet Sophomore. Unironically, Valorie refused. William suspected it was because watching Eppie succeed would rattle Valorie’s own performance at the apex of the Gala. Hate bred hate, but game recognised game.
+
+When he sat, several of the girls had already noted the absence of his girlfriend, and after confirming her refusal, they happily sat beside him, one cradling his arm. William did not mind this, but he cautioned them nonetheless. He was an earnest boy; it was an act he had long perfected at his Father’s industry parties. Being necessarily honest about inconsequential things meant people automatically opened doors; the adults called him humble and mature. Even when they found out about his love of Night Clubs, they said that it was natural for such a nice boy to blow off steam.
+
+Earlier, he didn’t have time to watch Antigone, which was a shame. He didn’t even have Lim or anyone else to watch Eppie second-hand because they had work at the Five Roots Association. It was only from a fellow Senior that he learned Eppie’s show had gone down swimmingly and that Eppie had been a hoot in her schoolgirl uniform.
+
+The lights went down. Two girls walked out.
+
+William rejoiced. The Ancestors were blessing him with favoured fortune.
+
+He recognised Zara Arriaga peripherally. She was the Basque girl. Lim said the girls were close in his reports, but hadn’t otherwise dug into the Spaniards’ history.
+
+As for his songbird.
+
+William felt truly joyous. Eppie. Eppie. Eppie. His sweet fruit.
+
+Did she wear the uniform just for him? The girl was still in her Antigone costume. Perfection. The theatrical makeup. The ruined blouse, the short skirt that had been pressed that morning, only to go through a warzone. She was a vision of forbidden allure, so much so that he had to adjust the way he sat. He just loved the way the stage lights caught her baby-blue eyes, her dark-red mouth, and her straightened blonde hair, which gave Eppie a vibe similar to Valorie's. Was that a jab at Val? It was lucky then that his girlfriend wasn’t here.
+
+William asked for some water, and one of the girls passed him her bottle. He drank, not caring, because he wasn’t about to miss a single minute of his songbird’s performance.
+
+Sometimes, William amazed himself with what his magnanimity produced. By not pursuing the matter of the lost recording and by diverting Valorie’s toxic obsession, he had arrived at this serendipitous moment of sublimity to taste Eppie’s moment of ripeness.
+
+He wondered, as his eyes studied her still-developing figure, what kind of movie Eppie might be good in. A Road Trip film, the cinematographer in him proposed, was the right vibe for a girl like her. A victim of incest, because her face was sinful, escaping from a dark past, the murder of her abusive father. She would meet a young man with his own demons, and the two of them would travel in a car to nowhere, racking up karmic debt while fighting the desire to lick each other’s wounds like desperate animals.
+
+Cao! That was a good idea.No, it was a fucking brilliant idea. Would his father fund it? Of course, he would. Especially if his model son won that local film prize.
+
+He could make Fontaine a star. She would do very well as one, considering her burgeoning talent for music writing. If she was as close to Sony’s C-Suite as rumoured, maybe they could even share a genuine partnership, one built out of mutual respect… and affection.
+
+On stage, the MC for the night introduced the girls. She was a minor celebrity herself, an alumnus who now worked in local television, doing comedies, that sort of thing. There really wasn’t a need to introduce Eppie, but Zara needed one. To his amusement, the MC presented them on equal footing.
+
+There were two stools, one low and the other higher. Two microphones. The Whitman used industry standard lighting for this sort of thing, something simple, something isolating and warm. Eppie was famous, but this was Zara’s showcase.
+
+Eppie sat. She crossed her shapely white stalks. William settled into his seat, miming the way she sat, then slapped the thigh of the girl on his right.
+
+She chided him. William laughed, albeit quietly and politely. Life was good. “Please enjoy the new ballad from our No.1 songwriter,” the MC declared before retreating into the darkness. In the end, William snickered. VP Thomas couldn’t help herself.
+
+Zara led the melody, and from its opening note, William knew Eppie’s partner was skilled. The descending tune came down like fine china, carefully placed to form an arrangement. There was a warm, inviting vibrato, for the song was a lullaby, the fret slides were so natural that William did not notice them at all. On the theatre’s state-of-the-art sound systems, the very ones his father’s company had spared no expense to install, the acoustics floated as intimately as a lover’s breath.
+
+After two bars, Eppie came in.
+
+Her fingers worked the guitar beautifully, sitting just below Zara’s line, adding volume and making the harmonic bed breathy and teasing. The two guitars found each other with such ease and amiability that William could imagine the girls holding hands.
+
+Stars shining bright above youNight breezes seem to whisper, "I love you"Birds singin' in the sycamore tree
+
+Eppie opened her lips, and the room grew suddenly less spacious. The guitar work had somehow left auditory space, and now her voice was filling it. The first verse, to William’s ears, wasn’t a song, but a conversation. A conversation for him and him alone. The girls beside him had put down their phones; they were listening, too, but not listening like William.
+
+Dream a little dream of me
+
+She looked his way. Her eyes were baby blue, and her makeup made them all the more luminous. William couldn’t help but smile. Such a tease.
+
+Say "nighty-night" and kiss meJust hold me tight and tell me you'll miss meWhile I'm alone, and blue as can be
+
+Eppie’s voice seriously sounded like the audience was in a bedroom and not a theatre. Somehow, she could make a note linger in the air like a scent. A scent of something sweet and playful and mischievous, like those little flowers that bloomed secretly in spring with the three-layered petals.
+
+Dream a little dream of me
+
+The chorus seemed to reach into William and wrench something in his chest. Surely he would dream of Eppie tonight, even while cuddling Valorie’s burning body.
+
+Sweet dreams, 'til sunbeams find youSweet dreams—that leave all worries behind youBut in your dreams, whatever they be
+
+William was buzzing; his heart was overloading with cuteness. The girl could sing. She really could. He felt the immense respect that an artistic fellow felt when meeting someone of equal or greater talent. To think that this whole time, Eppie had been hiding this in her tiny body. This whole time, all it took was a little fall from a rooftop to shake it out of her.
+
+Dream a little dream of me
+
+The girl tilted her chin down on the second verse, her long lashes fluttered, creating such a small, private moment that the girls beside him forgot he existed. The guitar continued without skipping a beat; the first song was done, and now something called "Where Did You Sleep Last Night" would play, according to the programme.
+
+Why was Eppie smiling? She had to have seen him. Why else would she smile in his general direction, with a look that said, “I know what I am doing tonight, but do you?”
+
+There was no applause yet, because the song wasn’t finished.
+
+After a short bridge to build anticipation, Zara's hand shifted on the neck. She launched into what William assumed was a free solo, moving the audience from the bedroom to the outside, then to an entirely different country altogether.
+
+The tempo dropped, not gradually, but instantly. The lightness became heaviness, light turned into dark, and warmth into unease. The notes began to linger, as if moving through molasses. The music was hostile. It was Appalachian.It was older than the audience.It was American Gothic.
+
+The guitar work, the solo, the smooth yet jarring shift was so impressive that William had stopped looking at Eppie for a whole ten seconds before his attention returned.
+
+When he saw Eppie again, his chest constricted in a good way.
+
+Lewd Minx! She had smeared her face! The eye makeup was smudged now, as was the lipstick. Her shirt was open at the first two buttons—not that Eppie had anything to show—and a shirt-tail had escaped. She shook out her hair, destroying the last of what had been prim and innocent. Why, with her cut lip, she almost looked like—William stopped himself short of that association.
+
+The audience was impressed. Eppie was a theatre student; they reminded themselves. The performance was expected. It was fresh. She looked amazing. It was a dinner and a show.
+
+The intro lasted several bars; however, William didn’t notice because his heart and soul were trying to absorb the sight of the girl with the messed-up lips.
+
+Then, Eppie’s voice came on again, only it wasn’t the same sugary instrument. The girl was a wunderkind. Her voice was now mellow, low, hollow, accusatory. She was pulling from something and somewhere deep in her gut, her womb, and it wasn’t pretty.
+
+My girl, my girl, don't lie to meTell me where did you sleep last night?
+
+William shuddered. He felt inexplicably anxious, like the moment before the Tower of Terror dropped at Disney. By the second line, her register had dropped a full step. The lyrics were a threat, like a man demanding the darkness dark where his victim had gone. His sweetheart was dead. Her vowels were flat. Her consonants were spat from the teeth. There was seeping hatred and seething suspicion in her voice.
+
+In the pines, in the pines where the sun don't ever shineI would shiver the whole night through
+
+The answering verse was more oppressive than the first. Earlier, William couldn’t look away, but it was different now. He realised he was leaning forward. The girls beside him were no longer smiling. Bewildered, William tried to listen between the notes and read between the lines of the lyrics. Why was he feeling like this? Was this a performance? Eppie was a theatre kid. Was this some avant-garde bricolage musical theatre? He wanted to know. He wanted answers.
+
+Then, out of the Blues, she gave them.
+
+She bit and fought, her pain untoldNot far, not far, from hereHe left her bruised, her body coldHer head… was all we found
+
+The lack of subtlety was what got William the most of all. There were songs that were dog whistles, and then there was this: a six-foot vuvuzela stunning a shitting dog. The changing room. The bench. The screaming, the struggle, the kicks. His trained strikes had landed like hammers thrown against a wet potato sack. Thwack—Thwack—Thwack— until she doubled over and hurled her guts out. After that, she understood. They both did. Resistance was reduced to endurance. Screams to guttural groans.
+
+Mio had a recording. But Mio was gone. Gone from LAPA. She was gone from his life.That chapter of his life had closed! And yet, like an old Appalachian spectre, it had come back to haunt William.
+
+He left her bruised, her body cold.
+
+Who the fuck else knew? Lim? The boys? They won’t betray him, certainly not like this. If they wanted to knife him, they would first involve their families, then his father. They would not work through Euphemia. Then who the fuck was it? Mio? Did she come back? But Lim had been keeping an eye and ear out. There was nothing. The Mios never came back to that chicken shop in K-town. Valorie? Did Val find out? Was this Val’s revenge?Simone? Did that timid bitch—He looked up. FUCK— William swore under his breath. The girl on stage. Her eyes, her painfully baby-blue eyes, were like fucking spotlights. What did she know? What did he expect him to do? Did she know where the recording was? Did she have it?
+
+My girl, my girl, don't lie to meTell me where did you sleep last night
+
+FUCK— FUCK— FUCK— FUCK— FUCK—
+
+In the pines, in the pinesWhere the sun don't ever shine
+
+The fucking song was endless! Should he get up and leave? Would that be too strange? Would people look at William Chen leaving and remember it?
+
+I would shiver the whole night through
+
+There was a sliver of ice, shaped like a knife, migrating up his belly and moving into his sternum. It was shimmying up his throat; it was choking him. He couldn’t breathe, he felt lightheaded, like he was walking on air. His brain was on vibrate, his head filled with that sourceless, bumble-bee buzz of a nervous system kicking itself out of spite. The song was reaching its apex, and yet, Eppie’s greatest admirer was trapped in his seat, frozen to the spot, his limbs encased in ice, surrounded by the fingerless dark of the Appalachian woods.
+
+In a mere three minutes, his songbird had murdered sleep—the sweet, innocent sleep that was the balm of sweet, sane minds, and until he had his answers, William Chen would never sleep again.
+
+Eppie’s voice was different now. She had abandoned the plan submitted to Zara’s Music Chair. She was now entirely submerged in the [Sublime]. She was drowning in it.
+
+My girl, my girl, don't lie to meTell me where did you sleep last nightIn the pines, in the pinesWhere the sun don't ever shine
+
+She howled the last lines, the soul-cry emptying her chest cavity as she knelt over in pain. Her voice cracked, the vibrato lost its control, and her training was thrown out the window. Her [Persona] had become a wounded, mangled animal. She was channelling Mio, Mio in that locker room, on that bench.
+
+For how long had Mio endured? Eppie dared not listen to the recording. The thick tape stock inside the cassette had cowed her into submission since the first day she saw it. And yet, she had listened. Euphemia had listened with her hand over her mouth, too afraid to move, while William cannibalised Mio’s [Causality].
+
+I would shiver—— the whole night—— through————
+
+Her voice broke past the point of comfort, past the point of dignity, into something primal. She made her captive audience witness to a grief that wasn’t theirs and made them ashamed. She made them understand that true heroism lay in human pain.
+
+It’s about how much a girl’s body could bear.
+
+Then—she ran out of breath and collapsed.Zara’s resonant cords punched her fall without missing a beat, bringing the song to a close.
+
+Quest Advanced
+
+[The Usurper of Hope]
+
+You have begun your journey of reforming the Karmic Usurper, a being like yourself. You have temporarily disrupted the Usurper’s theft of Causality from others. Now, you must guide them to the path of Karmic Penance.
+
+Your actions have reaped the Usurper’s Causality.Warning! The Usurper must be made to repent to complete this quest.
+
+Failing this quest will result in immense loss of Karmic Causality
+
+The auditorium stayed quiet for a long time, then the people stood and clapped, whistled and hooted, demanding an encore. With her depleted [Stamina], Eppie’s tired eyes moved past the notification toward the middle seat, the best in the house.
+
+Like a man in the maw of a Mimic, William was being eaten alive by his seat from the inside out. From her crumpled posture, Eppie staggered to her feet.
+
+William? Made to repent?What a god-damned joke.
+
+What was it that Dr Cooper had taught her?
+
+The final four lines are not the end. They are the destination of her arrival.
+
+Euphemia Fontaine’s revenge has not arrived at the end. She was, at best, at the intermission.

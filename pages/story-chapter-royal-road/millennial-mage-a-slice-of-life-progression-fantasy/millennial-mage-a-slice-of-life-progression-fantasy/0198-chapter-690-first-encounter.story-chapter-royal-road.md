@@ -1,0 +1,231 @@
+---
+id: fbcdc6fd-3648-5169-9d46-7f8148696347
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 690 - First Encounter"
+slug: 0198-chapter-690-first-encounter
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 198
+ownLength: 3261
+unit: words
+ownProgress: 3261
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3238336/chapter-690-first-encounter"
+royalRoadId: "3238336"
+markedReadAt: "2026-06-29T19:41:24.390Z"
+---
+
+Tala ignored the rhythmic chiming of the ‘Black Legion’ alarm that she had helped select and put in place even as it began to sound; the automata before her had already told her the nature of the threat.
+
+It seemed that their preparations for war wouldn’t get the time she wanted in order for them to mature.
+
+There would be no new negotiations with potential allies.
+
+There was no more time at all.
+
+War had arrived.
+
+She didn’t hesitate, and she was pleased that her family did not either. Moreover, she was pleasantly surprised by how many of the arcanes around them acted nearly at the same time.
+
+Apparently, their information campaigns had been effective in preparing the general populace, at least a little bit. So, while they weren’t surprised or panicking, she was still concerned for their safety. The average arcane should not attack the Black Legionnaires, even if the symbols on these automata made Tala believe that they were all from among the lowest ranked of the Legion.
+
+Tala wanted to investigate, take her time and experiment, but with civilians on the line—even if they were civilians who had willingly charged into battle—she didn’t pull her strikes, sending a tungsten sphere tearing through the air at each of the legionnaire's heads with less space between each than a hummingbird’s wingbeats.
+
+She’d chosen the method of attack specifically because it should be mostly immune to interference from reality’s manipulation and the negation of magic. Unfortunately, more mundane defenses still had effect.
+
+As the balls came within about twenty feet, her workings on them vanished, but by that point they had far too much momentum to be hampered, and they were dead on target. Even so, the automata had come in ready for a fight, each armed with large shields already raised. Tala had aimed to miss those, but the inhuman perception and reaction of the things allowed them to move their heads and shields sufficiently… for the most part.
+
+One took the hit to their shield too directly, the slab of metal absorbing the entirety of the projectile. That automaton's arm broke under the impact, the shield slamming backward and caving in a portion of the head. Another legionnaire was at a more oblique angle and the force imparted by the sphere actually tore its arm off. A third didn’t move quite enough, and with the sphere coming from its side, the entire lower part of its face and jaw were obliterated, spraying the building behind it with shrapnel.
+
+As she’d aimed all the shots at an upward angle, none of the spheres caused damage to the city—whether they hit their target or not—streaking off into the sky.
+
+Alat had ensured that they would come back down well away from any known settlement or expedition.
+
+Sadly, none of the damage done was catastrophic nor fully removed any of the legionnaires from the fight, but it was enough that Tala considered using her somewhat limited ammunition to end this clash quickly. She quickly decided against that course of action because of two things. First, there were others closing in who should be able to deal with these few—and whom she didn’t want to hit with a stray projectile or shrapnel. Second, she could feel similar clashes across the city, many of her connections to local fighters who had sworn to the cause resonating as they engaged in the very clash in which they’d given their oath to participate.
+
+She had hundreds of spheres prepared—the stock built up to respectable levels over the years—but she couldn’t use too many on this first encounter.
+
+Let’s use this to learn.
+
+-Agreed.-
+
+She kept back her dissolution breath for similar reasons, not wanting to be the source of friendly fire no matter the type and desiring to see what they could learn.
+
+Terry flickered forward, stopping at the edge of the reality-dominated domain with an enraged shriek.
+
+Rane and Lea were close behind, moving quickly but not instantly across the distance. Tala was able to flicker directly to Terry’s side.
+
+As to the arcanes who had come to their aid? It seemed to be quite a few groups from various minor houses. Some threw magics of one kind or another, doing effectively nothing as reality kept the magic at bay.
+
+A surprisingly quick lion-kin actually reached the group of five automata before anyone else, his claws tearing massive furrows in the legionnaire that Tala’s attack had torn the arm from.
+
+More arcanes were closing in from all sides, weapons drawn, both manufactured and natural.
+
+Terry hesitated on the edge of the domain, clearly uncertain about fighting without his flickering, and likely with his concept suppressed in one way or another.
+
+Lea didn’t hesitate, a fire in her eyes and her sword drawn.
+
+As the girl took the first step across the line, Tala watched reality encounter the blade and reality did not interfere with the fundamentally altered weapon.
+
+That’s a relief.
+
+-Indeed.-
+
+If she’d had time, Tala would have let out a breath of relief as they hadn’t been sure that the blade would survive the encounter. At the moment, the quick mental back and forth was all she allowed as a diversion of her focus.
+
+Rane had pulled his aura and authority back to barely an inch from his skin, and as such, it was utterly unaffected when he crossed just behind his daughter, taking up a defensive position, clearly aiming to back Lea up and protect her at need while allowing her to take the lead.
+
+Tala decided to let them take care of the issue, instead truly spreading out her many-layered perspective.
+
+The iron within their armor called to her deeply, but she knew it was out of her reach for the moment for myriad reasons.
+
+Still, it was one of the primary sources of their magic-countering abilities. As such, she brought her own iron to bear, keeping it stoneward of the superficial, as her starward-self—the one most bent toward the void—added pressure from that side, collapsing the reality sphere inward by sheer dint of power and will, shrinking its radius by half.
+
+These five automata—while linked and skilled—were just basic soldiers. The mere fact they’d survived these first fifteen seconds or so was a bit horrifying when considered too long, but there was no question how this would end.
+
+The Black Legion clashed with the arcanes who’d arrived slightly earlier. The wounds created by the lion flowed back together, seemingly utterly ineffective as permanent damage, and that held true throughout.
+
+It was a massacre, only kept miniscule because it barely lasted three seconds. Still, in those three seconds, ten arcanes were either grievously wounded or slain outright.
+
+The lion-kin had made it through the opening onslaught with only a single, vertical slash across one eye, forcing him to hold it closed against the flow of blood. Even so, he was still fighting, his speed and ability beyond impressive given the restrictions on his use of power either externally or internally within the suppressive area.
+
+Tala might have been able to reduce the number of casualties if she’d rushed in, but it was just as likely that she’d have been forced to effectively fight to keep the arcanes back as much as to engage with the legionnaires.
+
+These arcanes had not been trained to fight without their magics. They had not practiced fighting within a suppression gradient. Moreover, they were just random citizens who happened to be near this group.
+
+A thousand such couldn’t have opposed this small squad for long, not on their own… Well, not unless they were all as capable as the most skilled among them, which was obviously unlikely.
+
+But they weren’t on their own.
+
+Lea entered the fray. She slashed upward deflecting one blow with her blade while she outright grabbed the wrist of another opponent, foiling that strike as well. At the same time, she kicked the knee of yet another automaton within reach, her combined action saving three arcanes in her first exchange, even as Rane pulsed his magic and aura outward, briefly overcoming the suppression to remove the remaining friendly fighters back to safety.
+
+Then, Lea was among the enemy, lashing out with blade and magically enhanced body, her powerful gate and constant throughput allowing her to keep at least her enhancement magics functioning normally.
+
+Her advancement exceeded theirs on the surface. Her gate was more stable, her throughput more robust, and her body and inscriptions had been ready and waiting for her recent advancement.
+
+Her only obvious disadvantage should have been her lack of experience with her advancement, but despite her initial strong showing, it was soon clear that she was woefully outclassed, at least by the squad as a whole.
+
+-We might think a bit too highly of our daughter if we are genuinely surprised by that. There are five of them, and they are likely thousands of years old, bathed in combat for much, if not all, of that time.-
+
+Yeah…
+
+The enemy gates were clearly those of the most standard, mundane gated, lacking even the most basic stability which would naturally have come from any magical training in life. Even so, each had seemingly been meticulously broken wider until they had a throughput that matched Lea’s, maybe even surpassing it fractionally in some cases.
+
+Their bodies lacked inscriptions in the usual sense, but there was something about the darkness of their armor that even escaped Tala’s vision, while evoking the feeling of patterns in the darkness of the metal.
+
+Regardless, their speed all but matched Lea, and their experience was already beyond question. Add to that the fact that Lea had only ever fought biological enemies, and these were not so restricted? It was a losing combination.
+
+Still, Lea was not one to give up easily, and she danced on the edge of being overwhelmed, undeterred in her assault.
+
+On the outside, Terry practically bobbed in jerking frustration, as he seemed constantly torn between diving in to help and staying back where he could keep himself safe and ready for an opportune moment.
+
+Lea’s every hit tore into automata arm or shields—the enemy continually moving to mitigate more central hits—but those healed quickly, flowing back together, and anything they met with their weapons was deflected or stopped outright.
+
+Still, she was strategic in her attacks, severing limbs where she could and keeping herself safe throughout.
+
+But the legionnaires clearly saw her—and Rane hovering protectively behind her—as true threats, even turning fully from the now encircling arcanes to engage her more readily.
+
+Terry glanced toward Tala as if confirming she was there before letting out a screech of frustration and rushing forward, his talons tearing furrows in the road as the avian—the size of a small horse—lunged the last dozen feet, talons forward.
+
+Tala felt nothing but trust and love for her family as they fought, allowing her the time and ability to dive into how the legionnaires were resisting the magic around them. After all, reality iron by itself was actually worse at negating magic than normal iron, and this effect was far greater than anything iron could provide on its own. Even the ambient magic of the city had been pushed back or dispersed from around the five as they fought in silent unison.
+
+There was an odd difference between what the Black Legion put out and what Tala had encountered in her one fight with a Reality-souled, the imprisoned Reiki. These automata did not wield reality itself. Instead, they twisted the magic coming through their gates back on itself, mimicking the effects in a backhanded way. This, of course, got the blessing of reality, thus making the effects work when they should not.
+
+It was like a mother seeing her children striving to clean something with dirty hands. She honored their efforts and chose to clean it for them. The results were similar, but only a fool would say it was the children who did the work.
+
+Tala… wasn’t sure if that would make any real difference in the end, but it seemed like it could be critical. Thus, she and Alat noted it, and made sure that everyone they had connection with had easy access to both the observation and the raw information that she used to draw the conclusion.
+
+But she couldn’t overly focus on one theory, and as such, she needed to learn all she could.
+
+As Tala had compressed the field inward, ambient mana had flowed back in, but it was still a powerful—if undirected—ability, and Tala needed to understand it better.
+
+The limbs that had been cut free each seemed to be trying to make its way back, giving the surrounding watchers something to focus on.
+
+Given the limbs—once separated—had far weaker negation effects, magic and weaponry of various types were far more effective, allowing the bloodied crowd of onlooking arcanes to gain a bit of catharsis after their resounding rout.
+
+Heavy stones, ice, fire, acid, and myriad other magics, concepts, and weapons fell upon each part of the automata that were cut free and tossed away. Terry and Lea noticed and did their best to take advantage, even as she was pressed more and more.
+
+Terry’s participation shifted things, but as Lea was all but surrounded, she was the most targeted.
+
+Tala did find it interesting that the Black Legion automata didn’t seem to recognize that Lea was one as well. The scout seemingly had almost immediately, when they’d encountered it so many years earlier.
+
+Maybe it had better perception or other methods given it was a scout?
+
+-That does stand to reason.-
+
+Regardless, Lea was getting amazing experience through this fight, and Tala’s pride in her daughter grew as the girl limited herself to fighting as a human could and focused on safety above all.
+
+There would be time for reckless clashes, but this was hardly it.
+
+Still, with the circle cleared of all save the six automata, Terry, and Rane, it was Lea and Terry who were their sole focus, and their experience turned the advantage of the initial surprise back in their favor.
+
+Terry was—thankfully—not using his and Tala’s weight and authority to force his flickering to work. That was a card that they didn’t want to play too early, and Tala had no doubt that these would be reporting back. He also didn’t take advantage of mirroring Flows magics onto his talons. After all, once he made contact, his natural weapons were more than sufficient for the moment. Regardless, since he was limiting himself so much, he was only a bit more effective than Lea despite his experience and power. Still, his involvement turned the five on one to the equivalent of a five on four as he fought with ferocity and skill.
+
+Less than two dozen seconds after Lea first engaged, Force licked out in Rane’s hand, turning aside one of the Black Legion’s weapons before it could cut his daughter.
+
+-Rane wants to know if the priority is still to delay so you can learn?-
+
+Yes, please.
+
+-Understood. Let us know when that changes.-
+
+Will do.
+
+Rane’s interference had changed the parameters of the fight even more than Terry’s had, showing that he was more than a shadow, and would have to be taken into account.
+
+Still, Rane only interfered at need. When he was attacked directly, he responded with exactly twice the fervor as what was sent his way. As an example, one of the legionnaires slashed for his arm, and he deflected before cutting two rents in that automaton’s arm mirroring where it had aimed its blow.
+
+The message was clear. The fight continued because he wished it to, and attacking him would shift his opinion.
+
+Tala was watching closely, and that is likely the only reason she saw one of the stronger reality threads—one shared by all five—twang in an odd rhythm.
+
+Such things weren’t really aligned with the physical, but Tala still felt like the other end was the nearest other squad. Whether that was a dozen blocks or six miles she didn’t really know.
+
+-Well, if it was only a dozen blocks we could see them… I see evidence of other fights just out of sight, but none are in easy range. Shall I expand?-
+
+Tala hesitated barely a heartbeat. No. I need to trust the city’s defenses and learn what I can. I’m not meant to be a front-line fighter against low level—
+
+Tala was cut off as she felt an upwelling of authority and power the likes of which she’d never sensed before.
+
+It wasn’t more concentrated than other workings that she’d experienced or witnessed, but the scope was incredible.
+
+The Black Legionnaires were seized entirely without magic and flung to the north and east. They’d been torn from Tala’s slowly tightening encirclement as easily as a breath disperses dandelion fuzz.
+
+Terry looked after his prey, letting out an annoyed screech.
+
+Tala saw hundreds—no thousands—of other automata similarly expelled from Platoiri from all over, each arcing up and out.
+
+Huh… the Revered City Lord was able to do more than I expected. I guess that means the city is safe.
+
+A moment later, a voice echoed through the streets, putting her assumption to lie. “All citizens retreat to hold or fortification. Notices will be temporarily visible in each primary square, noting those which are open to any who can make it to them. The forbidding will only hold back the Legion for an hour at most. Do not delay. All combat authorized officials come to the City Lord’s Estate per the plans put forward by the Eskau of War of the House of Blood. We must organize and coordinate our defense.”
+
+Tala would have brought out healers for the wounded, but Ironhold was anchored in the House of Blood’s hold at the moment, and while it was nearly in range, the ‘two deep’ nature of such an anchoring had pulled in the effective distance at which she could reach it. That was foolish.
+
+-I’ll fix it. Give me ten minutes for the logistics. We need to pack it up regardless.
+
+Done.
+
+Rane had already moved over and checked in with the arcanes, turning to her a moment later.
+
+All told, it had been less than five minutes since the Black Legion slammed down upon Platoiri, and the city was beginning to bubble over with controlled chaos.
+
+Columns lifted up in some of the nearby squares, already marked with the information promised by the city-wide announcement.
+
+Lea came to Tala, a contemplative smile across her features. “I felt and suppressed my body’s attempts to resonate with them.” Her smile grew. “I think I found the first thing to ‘Refine’ away.”
+
+Tala nodded. “Maybe so, but be careful. Some things which we see as disadvantages can be turned in our favor with the right perspective.”
+
+Lea opened her mouth to instantly argue back, but instead, she hesitated. A moment later, she nodded. “I’ll consider it. Thank you, Mom.”
+
+Tala gave a wide smile of approval.
+
+Rane came over, Terry on his shoulder. “The survivors can get to the nearest safe holds, working together. I assume we should go to the estate?”
+
+Tala shook her head. “Get to the House of Blood’s hold. I’ll go and come back as quickly as I can.”
+
+Rane opened his mouth to argue, but Tala held up her hand.
+
+“Coordinate with the Talons, love. This is far from over.”
+
+He only considered for a moment before nodding. “Understood. I’ll get that moving. Be safe.”
+
+“You too.”

@@ -1,0 +1,181 @@
+---
+id: 11e94498-45eb-5a93-a2e4-8ffbe23ded55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 The dam breaks"
+slug: 0019-chapter-16-the-dam-breaks
+partOf: melody-of-mana
+position: 19
+ownLength: 2204
+unit: words
+ownProgress: 2204
+publishedAt: 2021-06-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708406/chapter-16-the-dam-breaks"
+royalRoadId: "708406"
+markedReadAt: "2026-06-29T22:26:54.562Z"
+---
+
+It was Rod. He was dead, his head and body separated by about a foot on the ground. Someone had dropped him there. I couldn't think, I couldn't process what was happening. There was a crowd gathering around, it was abuzz.
+
+There were some soldiers. One was on the ground being talked to by the mayor. The others looked nervous. They formed a defensive line, their weapons at the ready.
+
+I saw John come up beside me, package in hand, mom was just behind him. "Hey Alana what's..." They both froze. Mom looked like she was in shock, her breathing hitched. John took only a second, he dropped the package as surprise took him. Then I saw his jaw clench, fists too.
+
+John's aura exploded. It was no longer wisps here and there but a raging fire. A silver blaze that surrounded him head to toe.
+
+The Mayor turned and saw me, coming forward. "Something's going on in town, I need you to heal these men..."
+
+I never heard the last bit as it was interrupted by a scream. A keening wail of pure anguish washed over us. The agony in it hollowed out everyone it touched as it pressed in like a wave.
+
+I saw Sandra push her way forward. Someone tried to grab her and failed. She roared again in pain and anger, drawing her knife to charge those who'd taken my brother's life.
+
+It was cut short by two thunks as the crossbowmen buried quarrels in her chest. I couldn't have healed those fast enough to save her.
+
+That noise as the metal tipped wood buried itself in the girl's body was the signal.
+
+I screamed, pushing mana into it as hard as I could. A flashbang in the face of the mayor and his little soldiers.
+
+John became a blur in the direction of the soldiers, moving like nothing I'd ever seen.
+
+The buzz of the crowd, cut short for only a second returned as a roar of fury. Together we charged forward, pulling belt knives or work tools. Some ran to battle with only their hands.
+
+The intruders never stood a chance as we fell upon them like a horde.
+
+I buried my knife in the mayor's thigh, aiming for his femoral artery. My mother and a half dozen other women and girls grabbed at him. Holding him down as small hands pushed steel into him again and again. No longer would we wait for this traitorous bully to get his due; the women of the town had had enough.
+
+The boys and old men ran at the soldiers. Ripping their halberds away as they pulled them down.
+
+"Under the armpit boy, where the armor is thin... AYE, THERE'S A GOOD LAD!" I heard our elder shouting his encouragement as he held onto a man's leg.
+
+One of the unarmored crossbowmen was being held by the neck by Sandra's mother as Sara gutted him like a pig. One long cut, sternum to crotch.
+
+John was absolutely savaging one of the halberd wielders. Two of the man's limbs lay nearby as the boy repeatedly smashed his face into the ground.
+
+It was quickly over. We stood covered in blood and shaking in rage and looked toward each other, not sure what came next.
+
+It was John who spoke.
+
+"Mom, take the women and children and get to Creekrun. We have friends there and you'll be safe while we deal with this. Men," He turned towards the older boys and elders. "we are cleansing our town tonight, and damn the consequences."
+
+"I am staying," I declared.
+
+"No." He turned, looking like he wanted no argument.
+
+"You'll need healers when it's all done, I'm staying."
+
+He looked at mom and she nodded at me.
+
+"Find somewhere to hide and stay hidden. If your brother doesn't get you by dawn, come to Creekrun." Mom seemed nervous about it, but knew healers would be needed.
+
+I looked at John, "Dad's cave, the one with the mushrooms." It was a good spot, well hidden and far from the action. We both knew it well, so I had no worries.
+
+"Fine," he conceded through gritted teeth.
+
+We broke as it had been decided. I did take a few moments to put on my other dress and grab a couple of things. I made sure I had my favorite belt, with its pockets sewn into it. I'd put in one gold, ten silver, eight copper, and some of my hairpins by this point. I hung a waterskin of ale from it, in case I got thirsty. I also grabbed my spindle and a bit of wool, so I'd have something to do while I waited.
+
+That sorted I ran to the woods, I knew the path by memory and reached the cave quickly. Once there I ducked in, finding a secluded corner where nobody could see me from the entrance.
+
+An hour or two in I heard movement by the entrance. I froze where I was as it just as quickly disappeared. I made a couple of rolls for a quick dinner and got down to spinning. I liked this idea because it was mindless work that required enough attention that I couldn't think about the day's events, or worry about what was happening now.
+
+I'm not sure how long after I started spinning that it happened, but a number of voices came. Several people entered the cave, trying to be quiet. I put my spinning away silently and shrank down as much as I could, listening intently.
+
+"Are you sure it's safe here?" Came a man's voice.
+
+"Absolutely, I found this place years ago while hunting with his excellency. It's practically invisible from the outside. You lot didn't even notice until we were upon the entrance." Another man retorted.
+
+"How deep does it go?" Unlike the other two this voice sounded calm, the accent almost academic.
+
+"Not too deep, I checked it out before and it's only the one room."
+
+"As long as we are safe until this blows over I do not care." That voice was female, and vaguely familiar.
+
+Five men and a girl entered the cave. Four of the men were dressed in armor of various kinds. Of these one seemed injured, he was limping. The last was in a robe. The girl, just on the cusp of adulthood was in a rather fancy traveling dress. All six had an aura, though of them, only the robed man's was stronger than mine. I nearly peed myself when I saw that, this was not a group I could fight.
+
+I kept down, trying not to draw their attention to me. I wasn't sure how they'd respond, but I didn't want to find out.
+
+"Hawkins, go outside and keep an eye out, if anything happens, let us know immediately." That sounded like one of the armored men. I assumed he was the leader.
+
+One of the other armored men left.
+
+"Sorrin, what are those bubbles?" I heard the girl ask. I saw her face, and was almost sure I knew who it was.
+
+Shit, I'd forgotten to tamp down my aura. As the wizard turned and raised his hand I leapt behind a rock.
+
+The force of the impact on my shelter made me scream a bit in panic. Once it stopped I heard blades being unsheathed. I made a gambit I hoped would work.
+
+"That's not a very nice way to treat someone who's saved your life!" I yelled.
+
+"What?" It sounded like the robed man asking. Good, keep talking. Talking is better than cutting, or spell throwing.
+
+"That's Lord Hazelwood's daughter right? A couple of years ago she got hurt in a training accident, they brought me in to fix her up."
+
+There was a moment of silence before the girl spoke. "There were two people who were there when I was healed, describe the other." She sounded a bit curious.
+
+"My father? A man with dark hair. Has an aura like black mist."
+
+"She is correct." The woman told them, to my great relief.
+
+"Come out slowly, do not try anything." This was the leaders voice.
+
+Very, very slowly I came out from behind the rock. I could see that the man, Hawkins, who'd been sent out was now in the entrance, a blade in his hand.
+
+"Can you prove that you are a bard?" The wizard, Sorrin, asked.
+
+"I can summon a breadroll?" I offered.
+
+He nodded. "Do so."
+
+It took only a few moments before I was holding a small roll, which I munched into.
+
+"What is a bard girl doing hiding in a cave?" their leader asked as I ate.
+
+"Hiding," I answered truthfully. "There's a big fight going on in the village."
+
+He nodded to that. "Alright, fair enough. Can you heal?"
+
+"I can." I had a feeling that he was going to ask me to patch up his friend.
+
+"Fix up Dallon then." I slowly went over and cast healing on the injured man's leg. An arrow had hit him in the shin. It was just inches from his knee.
+
+The wound was nasty. Arrows were like that, but not too terribly bad to heal.
+
+"Thank you." Their leader said, right before he punched me in the face.
+
+I woke up some time the next day, with a monster of a headache. Added to that my hands were tied and I'd been gagged. It would appear that someone had thrown me over their shoulder like a sack of potatoes and was carrying me along.
+
+A quick look around told me that we were in the forest somewhere, instead of on a road. The air smelled slightly of smoke as well, though all I could see was trees.
+
+"Mgh, mugh, mrr." I couldn't get anything reasonably sensible out from the stupid gag.
+
+"Ah you're awake, that's good." Came the voice of Dallon. He seemed to be carrying me. "Hey captain, the girl's up."
+
+Said captain made his way over to me and began talking. "Good, you're up. Here is the situation. A contingent of the Ermathi army attacked your village last night. So far as we can tell they burnt most of it, along with the forest. Now, most of my men wanted to leave you behind to die there. Heck, even I wanted to leave you behind. Sorrin though pointed out that someone who can summon food and heal us could prove vitally useful, so you'll be joining us for our trip. Once we get there, we'll let you go. Any questions?"
+
+"Mrr, murr, mrr, murgh, murr."
+
+He took the gag out.
+
+"Can you not just let me go now?" I asked.
+
+"I'm quite afraid not. You know our unit composition, size, and anyone who caught you would know our general direction," he answered. His tone was at least polite.
+
+"I don't suppose you'll believe it if I say I won't tell anyone?" I inquired hopefully.
+
+"I can think of about a half dozen ways to make you tell me anything I want to know." Okay, that's a scary response.
+
+After agreeing not to cause any trouble I was at least ungagged and allowed to walk. They kept my hands tied, with a lead going towards one of the men in the group at all times.
+
+We walked for a couple of days through the forest. One of the men, Hawkins, would come and go frequently, he seemed to be some kind of scout.
+
+Most of the men were annoyingly quiet. None of them wanted to talk to me, or tell me anything about where we were going. The young lady and Sorrin spoke a good bit, but I was told in no uncertain terms that if I tried to start a conversation with her then I would be gagged again.
+
+I didn't learn much about all this but I did pick up a few tidbits of information. We were heading west. The men's names were, Sorrin, Dallon, Hawkins, Crusher (I suspected a nickname, no mother would name her child 'Crusher'), and Captain Jones. The young lady's name was Lady Gwenna Hazelwood a-bunch-of-increasingly-ostentatious-titles, or something like that. Also, they were all jerks.
+
+Okay, they weren't that bad. I was royally pissed that I was being dragged along for whatever their mission was, but they weren't overly mean to me. I didn't even have to do much work. I provided some bread for every meal, a pittance compared to my past couple of years.
+
+About four days after we had begun our trek we came to a road. This had been expected apparently as nobody but me seemed in the slightest bit surprised.
+
+That night we stopped at a waystation. I'd never been to one before, but I was familiar with the concept. These laid between villages and cities on well traveled routes. My hands were untied before we got too close and the captain decided to have a conversation with me.
+
+"While at the waystation, you are to pretend to be my daughter." That grated, this man was nothing like my father. "You are not to speak to anyone first, and anything you say is to be only the most basic. Am I understood?"
+
+"Understood." I agreed.

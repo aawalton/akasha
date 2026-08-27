@@ -1,0 +1,217 @@
+---
+id: ed97204a-c14c-54e2-b276-be528b740387
+page-type-slug: story-chapter-royal-road
+title: " CHAPTER 90 — The Killing Moon (3) "
+slug: 0156-chapter-90-the-killing-moon-3
+partOf: metaworld-hopecore
+position: 156
+ownLength: 2638
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3807453/chapter-90-the-killing-moon-3"
+royalRoadId: "3807453"
+---
+
+The stage lights came up, and William realised he had no memory of when or why he'd left his seat.
+
+It was like a badly spliced jump-cut; in one frame, he’d been sitting in the best seats in the house, watching his erstwhile girlfriend titillate his soul with her kicking feet and tear-streaked face—then he was hearing his own voice blasting out of speakers—
+
+—then he woke up, and he was in another movie, another reel. He was upright, spine locked, hands at his sides like a felon called to stand in the witness stand.
+
+For a horrifying few seconds, William realised he was the only person standing. Faces known to him and unknown were already turning towards him, their eyes raw and unblinking, full of questions he dared not answer.
+
+Students, whose faces he had shared a hallway with for four years, were aghast. Parents, who had heard him speak year after year on the podium or at his Showcases, grew suspicious enough to point in his direction. A girl he'd bedded after some forgotten mixer was gagging, her stare isolating him so obviously that others began following it.
+
+Do they know? Had they recognised my voice?
+
+The knowledge of it, the horror, the realisation and then the paralysis, robbed the breath from his lungs. Something underneath his ribs wanted to scream, like the girl in the recording, but could make no noise. The practised denial he had rehearsed, the threats to sue, the righteous indignation and the slut-shaming, all caught in his throat.
+
+Leave. The thought came next, urgent, animal. Get up. Walk. Now, before—
+
+The thoughts died fast because William experienced a second leap-in-time, and this time, after the reels of consciousness reconnected, he was sitting down once more. The rational part of him had told him that leaving mid-performance, while every single audience member was looking for an answer, was basically self-incrimination.
+
+It would tell a story too condemning to escape from. Both his professional and preservational instincts told him that he had to stay. Be cool.
+
+Then plan his exit.
+
+I am William Chen.
+
+His family were near-billionaires. If he can’t even handle this, how could he inherit the Omnia Group? What would Lee-Kwon say?
+
+He rearranged his face into the flat, faintly bored expression of a gentleman deeply unbothered by whatever glitch had just embarrassed the sound crew. He was confused as well! Like everyone else!
+
+Onstage, the actors were clearly not in on the act—this… recording… was unauthorised!
+
+Chiron and Demetrius were standing half a minute too long in the wing’s shadows; the whole company was caught in the spectacle, like children who had suddenly stumbled onto a bleeding, naked body. Nobody on that stage seemed to know what play they were in anymore.
+
+Hope dawned in William’s heart. If the whole thing was unplanned, then I could—
+
+Then, impossibly, the Seniors snapped into their roles.
+
+Something switched on behind their eyes, as if they had fallen into a trance. Chiron, one of the offenders, offered no cue, no visible signal, and yet, in the same half-breath, as if someone pressed play on a long-form video, Titus Andronicus resumed.
+
+William had screamed at enough amateur actors to know what a company looks like when the players are rattled. This wasn't that. The cohesion of what followed was better than any dress rehearsal.
+
+Chiron and Demetrius stomped onto their marks, dragging a bound, robed shape between them, covered from head to toe in a torn linen wrap, stained with fresh and congealing splotches of carmine.
+
+"So, now go tell, an if thy tongue can speak." Demetrius kissed the shrouded Lavinia, his face a mask of sadism, seemingly unaffected by the prior audio. “Who 'twas that cut thy tongue and ravish'd thee.”
+
+“Write down thy mind.” Chiron scratched his chin, his face full of smug satisfaction, like a wolf who had just fed. “Bewray thy meaning so—an if thy stumps will let thee play the scribe.”
+
+They laughed. It was a rehearsed laugh, a written laugh, and it was somehow the mirror image of his own voice in the recording, because it was cruelty wearing the shape of mockery, because the players had heard the real thing. Are they miming me? William felt his jaw tighten. Surely… they had recognised his voice. They were classmates for four years.
+
+"Go home, call for sweet water, wash thy hands."
+
+"She hath no tongue to call, nor hands to wash," Demetrius chortled.
+
+In their neo-fascist singlets, suspenders and tuchhose, the boys looked like a pair of demons.
+
+They left her on the mark, then went, and William, watching, felt his internal reel disconnect once more. Valorie. Mio. Eppie. Simone. The faces of the girls he had held in one hand and toyed with like pliant clay haunted his thoughts like Banquo from that one scene in Macbeth, taught by Kirby in their first year.
+
+The story on stage meant nothing to him, for William felt like a man drowning in six inches of water, fighting his internal horror so he could plan and plot.
+
+Then, Whitfield's Marcus found Valorie wandering and stopped as though he'd walked into a wall.
+
+“Who is this —my niece, that flies away so fast?” Grief cracked straight through the actor's trained voice. “—Where is your husband?"
+
+From the covered Lavinia came a long, terrible silence, from which no answer could ever come. Marcus’ hand hovered, not quite touching her, as if touching her might finish what had already been done.
+
+“Come, let us go, and make thy father blind—for such a sight will blind a father's eye.”
+
+Marcus led Valorie off. The stage went dark. William’s hand went to the inner pocket of his jacket, where something rigid and oblong rested against the velvet fabric. He had slipped it through the staff entrance, manned by peers who had congratulated him, just so that… in the worst-case-scenario…
+
+The stage lit up.
+
+Enter Marcus, leading Lavinia.
+
+Valorie had lost her sandals. Her feet were covered in dirt, and something else. Something was trailing from beneath her robes. Blood? No. Red threads. Long… thin threads of scarlet, trailing from stage right to centre stage, mark after mark, block after block.
+
+Titus, trapped in his own grief, looked up from where he knelt.
+
+“Behold thy daughter,” Marcus said, and unwrapped Lavinia, allowing her to spill over the stage. “This is thy daughter, Titus!”
+
+William’s world, much like that of the audience around him, skipped a frame.
+
+The house gasped as a single creature.
+
+The red thread didn’t drip or splatter the way stage blood did in every student production William had ever seen: it unspooled, continuous, unbroken, a single impossible ribbon feeding out from the ruin of her mouth and running down over a chin that would not close around it properly, red against a white so consuming it looked less like a costume than like a burial shroud.
+
+From each sleeve, where wrists should have ended in hands, more of it fed loose and pooled at Valorie’s feet as she stumbled toward her father, leaving a snail trail of hematite against the sandstone-hued floor.
+
+From her mouth, her sensual mouth, Valorie bit into another spool of thread so that it trailed from her lips and down her chest, imposed against the whiteness of her once pure Roman gown.
+
+The more she walked, the more horrifying the scene became. Love this story? Find the genuine version on the author's preferred platform and support their work!The audience had forgotten all about the strange recording.
+
+Titus made a sound William had no name for. Not a line. Not blocking. Just a sound, the kind a body makes when it understands something before the mind has agreed to.
+
+“Who hath done this deed?” Titus's voice broke apart on the last word, a father begging an answer he already knew. “Speak, my child—who hath done this to you?”
+
+Lavinia—Valorie, William’s sweet, sweet Valorie, turned her ruined face away from her stage father.
+
+She looked into the crowd. She found his face.
+
+She lifted the stumps and pointed.
+
+Not toward the wings. Not toward some abstracted middle distance, a director could later claim was symbolic, unspecific, safely fictional.
+
+She pointed into the house.
+
+Into the middle row. At him.
+
+William's entire world came apart in the single second it took the audience to follow the line of her arm and find, at the end of it, the general location of where she had aimed. He felt it happen almost physically, some vast, silent detonation behind his sternum. They know. They know. THEY KNOW.
+
+He stopped calculating. He stood. And then he ran, over the other audience members, up the aisle, past knees he didn't apologise to, past a hand that might have reached for his sleeve, over men and women, students and parents, every nerve in his body screaming it at once.
+
+He ran like a wicker man lit by a supernatural fire, illuminated by a spotlight that existed nowhere but inside his own unravelling mind.
+
+Then, somewhere past the lobby, accosted by judgmental attendants, his phone buzzed.
+
+Backstage, in the narrow dark between the fly rail and the wing-space heater plinking away, Eppie watched her [Causality] burn.
+
+Her stockpiled supply was drained at every actor’s steadied nerve, every line that landed clean, every gesture that didn't shake. She was their Fairy Godmother; she was paying for every minute of the spectacle with her pixie dust like Prospero on his island, so that her invisible goblins could maintain the illusion.
+
+But it wasn’t all doom, gloom and [Causality] drainage.
+
+There was something she had genuinely forgotten to account for:
+
+The accumulation wasn’t nearly enough to repay her [2800] per min losses, or the [5000] spike after the recording, but it gave Eppie the confidence that her stockpiles would survive the night.
+
+From behind the curtains, standing at an angle, she peeped out onto the stage and beyond, finding Zara’s family, and thereby finding Mio, sitting on the rightmost edge, bundled in a cheap sweater with a hoodie over her head.
+
+She saw Curon, and Vaughan, and Mirabelle, and felt her insides grow warm and fuzzy. She watched Valorie perform a generational role, her bearing both magnificent and unbearable, red thread still spooling from a mouth that had to be exhausted by now. Her visage had held almost two thousand people hostage, and when she finally pointed her stump, thread and all, into the crowd at the man in the best middle row seat…
+
+Her iris unfocused as her vision’s depth of field suddenly changed.
+
+Major Quest Progression
+
+[The Usurper of Hope]
+
+You have permanently usurped the [Usurper]’s ability to derive Causality from others. Your actions have greatly reaped the Usurper’s Causality.You will receive immense Causality when the Quest is completed
+
+You have not reformed the Karmic Usurper. You have not progressed the Usurper on the path of Karmic Penance.Failing this quest will result in an immense loss of Karmic Causality
+
+Eppie swiped the notice from her sight, her finger moving by reflex. She looked past Curon’s row and saw William running for the doors at a dead sprint, chased by nothing but confused eyes that had already gone back to the stage, where the real action had enthralled their mind and body.
+
+You have not reformed the Karmic Usurper.
+
+She hadn’t expected a victory, and now, the [System] had confirmed her predictions. She wasn’t disappointed in the [System], nor was she disappointed in herself.
+
+Suum cuique.
+
+In the end, everyone had to live with the consequences of their own choices.
+
+Eppie chose to peer through the curtain just enough that the people who mattered knew she was alright, that she was safe, and her job was done.
+
+It took her about a second to catch her faux-father’s attention. She found his eyes already on her before she even waved. He didn't smile, but he looked relieved. Curon slowly gave her a two-thumbs-up in a way that made her almost laugh out loud.
+
+Shifting her angle, she found Juliana Vaughan sitting with unflappable composure beside Mirabelle. Her not-patron found her after finally taking her eyes away from Valorie’s performance and gave her an affirming nod. Besides Vaughan, Mirabelle made a heart with her fingers.
+
+There was her Newfoundland as well, and Emily was holding him back so he wouldn’t stand up and ruin the show for the row behind him. Eppie fired off a “thanks” when Eric finally saw her, then retreated.From her side of the stage, it wasn’t possible to communicate with Zara and Mio without becoming far too conspicuous.
+
+She sent them both a text instead.
+
+“Miss Fontaine.”
+
+Eppie looked up from her phone. David Cooper stood beside her, close enough to touch, and—very slowly, as if bracing for her to pull away—placed a hand on her shoulder. Her teacher's hand was warm, reassuring, and proud. “That was the best Mousetrap I have ever seen. Whatever happens after this—both myself and Susanna want to thank you for the opportunity.”
+
+She answered her instructor’s hand. Her Theatre Chair tipped his chin, then returned to the backstage to ensure the smooth running of the play’s final beats.
+
+On stage, the show continued.
+
+Valorie was hitting mark after mark as though nothing in the building had happened, as though William had not fled for the woods in public. Nathan's grief was building where the text told him to build it. Klein's headset crackled low and businesslike in her ear, cueing the next light change like this was any Sunday matinee. The Titus Company was mesmerising a house that had just heard the worst thing most of them would ever hear in a theatre, without missing a single beat, because she had spent a year and a fortune in [Causality] to ensure that each of her peers was at their personal best.
+
+Her phone buzzed once against her hip. Eppie looked down.
+
+Article published.Pleasure.
+
+— L
+
+The final piece of the Mousetrap had been sprung.
+
+Come morning, William Chen, Omnia Construction and LAPA itself would fall into the pit of public purgation.
+
+Tomorrow, whether or not anyone in this room chose to remember what they'd heard, nothing about tonight could ever quietly become a rumour. William Chen could not sue, for that would risk discovery. LAPA itself could not sue, for that would involve discovery. Truth would sit like stone plates on their chests, suffocating them with its weight. As for Mio, both Juliana and Francis had offered the city’s most expensive legal services at their expense. Perhaps, as a gesture to Valorie, Mio had chosen the latter.
+
+Centre stage, Valorie was drawing the names in the sand. Backstage, Eppie’s [Causality] kept draining like water out of a dam.
+
+Now, she had only one more thing to do. A debt she owed from the moment she had opened her eyes.
+
+She thought of the girl whose body she'd been borrowing since August. Blonde. Small. Fallen from a roof not far from this exact building, in a life Eppie had only ever known secondhand, through scars and a name and a duty she'd promised herself, very quietly, from the moment she had asked Dr Hughes how she had died, that she would pay in full.
+
+Justice for Euphemia.
+
+Using her host’s hands, Eppie unlocked her phone once more and opened the thread that had gone silent.
+
+She typed one word.
+
+Sent.
+
+On that fated roof, there would be no Curon, no Cooper, no Vaughan, no Zara, no Eric, no Mio, no mourning. Upon that fated roof, their entwined karma would unwind, like in Donne’s famous adage.
+
+"Thy firmness makes my circle just,And makes me end where I began."
+
+Only Euphemia. Only William. Face-to-face.
+
+Then her debt to Euphemia would be paid.
+
+Then—come what may—she would finally have to figure out how to be herself.

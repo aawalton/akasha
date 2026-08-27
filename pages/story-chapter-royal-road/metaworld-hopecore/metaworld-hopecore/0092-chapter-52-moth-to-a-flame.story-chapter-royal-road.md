@@ -1,0 +1,153 @@
+---
+id: 148d3215-4d34-5bde-9400-49e4a7f35b4f
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 52 - Moth to a Flame"
+slug: 0092-chapter-52-moth-to-a-flame
+partOf: metaworld-hopecore
+position: 92
+ownLength: 2320
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3469703/chapter-52-moth-to-a-flame"
+royalRoadId: "3469703"
+---
+
+"In Brueghel's Icarus, for instance: how everything turns awayQuite leisurely from the disaster; the ploughman mayHave heard the splash, the forsaken cry, But for him it was not an important failure; the sun shone"
+
+W.H. AudenMusée des Beaux Arts
+
+At 6 PM, “Eppie” Golightly entered the main lobby.
+
+George gave the door a silent push, and in the way that hand-tooled doors tended to operate, the structure opened at the merest suggestion.
+
+The main lobby was not large by the standards of the mega mansion that Eppie’s former friends had built. It wasn’t cavernous like the Met, nor theatrical, like some grand opera. It was a mere sixty by forty, fortified by a three-storey ceiling with a painted plasterwork that mimed the interior of the Versailles galleries, specifically the mirror room.
+
+Outside, the city was neon and fluorescent, discordant with traffic.Inside, the decor diffused a luxury that only dynastic wealth can provide.
+
+What made Vaughan’s Galleria special was that it was filled with art. It was the art.
+
+Art covered every space from waist to ceiling on the long walls, salon-hung in the old style, frame touching frame: Dutch golden-age portraits, a pair of Canalettos flanking the French doors, three small Constable studies hung at eye height with the casual confidence of mere things. A Turner sat above the mantel, the light in it still somehow alive after two hundred years. There was Turmbull, Sargent, Eakins, Church, and a few modern Masters mixed in. Eppie’s [The Sublime] trembled. She wanted the place emptied so she could stroll through the gallery and take in all the details.
+
+On the way in, George had told her something incredible.
+
+These paintings. This private collection. The craquelure in the Dutch portrait. The water damage at the edges of the Turner.
+
+All FAKE, immaculately fake.
+
+The lady of the house, George had said, had over the decades replaced her inherited private collection with commissioned replicas executed to museum standards. She was famous for it. The Vaughan fortune would purchase an artwork, she would commission a replica, then the real ones would be gifted as a public endowment. The fakes hung here, no worse than the real thing, because the guests inhaled the ambience with reverence. After all, the labour was real, the skill was real, and the originals in the Met were real.
+
+The absurdity of the pretence was so dry it had gone past funny and arrived somewhere close to philosophical artistry. This gallery was itself Vaughan’s art, her statement.
+
+The party had started an hour ago.
+
+George slipped her in from the side entrance so that she could walk along the rails unseen from the second floor, to study the floor and the people below.
+
+Vaughan had made it a test. But the test was moot because Neo Eppie had already whetted that part of her [Wisdom] to a razor’s edge. At a single glance, she saw the movements in the galleria as a watering hole with its many animals. The sycophants tracked which way the senior heads turned and adjusted their laughter to suit. The power brokers held their drinks lower and let the conversations come to them. The old money stood near the walls and spoke only to people they already knew. The only difference was that there were no herbivores here save for perhaps the staff. Even the poorest guests were higher up on the food chain.
+
+A minute in, she saw a familiar face she did not know. It was Holt. Conrad Holt, the Mayor of New York. Like an old rank lion, he stood near the fireplace, his back to the toasty flames, surrounded by a lady she presumed to be his wife, a younger woman who was his aide, and a gaggle of camp followers laughing at every joke.
+
+Watching the man hold court, she couldn’t help but think of another Mayor, one from her timeline. The young Mayor had been the final hurrah the city managed to throw up before the bots took over public discourse completely. He had arrived with a mandate and a specific, unapologetic love for the unseen systems, the pipes, the grids, the load-bearing ugliness that kept ten million people barely alive, also known as someone else’s problem.
+
+The city’s owners thanked him at galas. They invited him to dinner. They quoted him in op-eds about the importance of civic investment. Then, they buried his rezoning proposals in committee and leaked to the press that his transit expansion was running over budget because they had made sure it would, since the contracts had gone to the firms whose partners sat on the boards of the foundations that threw the galas.
+
+Eppie called this [Circlejerk Galanomics].She recalled reading the internal reports from META. AI bots were spamming. Why hasn't he fixed the trains? And there were bots replying to the bots: because he doesn't care. And the bots replied to the bots replied to the bots: someone should do something. Vote for the billionaires! Bloomberg was the shit!
+
+From the middle stairs, she descended, one hand on her hem.
+
+A few folk judged her uninspiring figure, admired what they could, then rejoined their own circles. Others, as Vaughan had promised, knew what they were seeing and gave her nods and smiles.
+
+Eppie’s response had been natural. She knew no one, and so she merely allowed herself to drift into and out of their conversations. She caught information like a fisherman with a trawl net, catching tidbits of deals both above board and under the table, filing the gossip into her brain vault.
+
+A lady in dusky ivory, with very expensive pearls, stopped to talk to her about JMW Turner. Eppie’s knowledge of Turner was at the Wikipedia first page tier, but her appreciation of the unsociable, eccentric painter was cryptic and pretentious enough that the old lady seemed satisfied.
+
+She was far more comfortable with the bankers. Fellows who dropped names like Morgan, Chase, Fargo, Bain, Blackstone and Goldman. These she navigated with a deftness that left real impressions. When she very subtly asked about the subprime situation, one fellow grew so full of optimism that he offered her, a fifteen-year-old girl in an LBD, a job as his intern.
+
+She was about a third of the way through the guest rotation when she saw another familiar face, whereupon her body stood still. It was Sir Woodhouse, Frederick Curon’s fated rival from Universal Music.
+
+He was near the far window, talking to a man and a woman with forced formality, gesturing to the girl with hand signals that signalled some great enterprise. Calming herself, Eppie scanned the room again, this time from the back, near the expanded backdrop of Landscape with the Fall of Icarus by Pieter Bruegel the Elder.
+
+She could not believe that, for the first half-hour, she had missed her entirely. The architecture, the paintings, the people were to blame, but now that she had seen her, it was impossible to ignore the girl.
+
+Valorie Sanders.
+
+The redhead stood beneath the second-floor walkway, opposite the parkside, where the two-storey French windows opened up onto the privacy balconies.
+
+Men surrounded her, young men, thank God, who looked like the sons of the people who attended her mentor’s gala for clout. They were trying to talk to her all at once. Eppie was pretty sure Val wasn’t listening.
+
+She wore red. The kind that immolated the wearer.
+
+Even with her old soul, Eppie suddenly felt conscious of just how different they looked, how they measured up, in the eyes of their beholders. Val was an adult. Eppie was an adolescent. Valorie in heels was tall, tall enough that the men around her stood straighter and sometimes on tiptoes. Her dress was floor-length, but there was a slit that ran up to her thighs. It was chiffon as well, layers with enough rose prints that the petals blended, so that it looked solid from a distance. The most ostentatious part of the whole thing was the bodice. The dress cut deep and hugged her belly in such a way that her most notable assets couldn’t help but tease the viewer’s civility. Like her dress, the designer had made deliberate choices.
+
+Eppie could not look away, and neither could her admirers.
+
+She loved Val’s hair. It was dyed redder than her natural colour, so that she almost demanded attention from onlookers. Sir Woodhouse had spent a lot of money tonight.
+
+Presently, Valorie was studying her flute of champagne while nodding.
+
+Someone told a joke. She nodded.Someone complimented her. She nodded.Someone touched her arm. She looked, then she smiled, then she made some distance. Just half a meter. Her shoulders were up. Just slightly. She was polite. She was pretty. She nodded. She was a Senator’s daughter, after all.
+
+She was doing pretty well, Eppie thought. It would be pretty sweet if William were here, though, watching the lads jostle for his precious flower.
+
+At the same time, Eppie could see that the girl was adrift. She was here for a purpose, only that purpose wasn’t so assuring. Val’s expression spoke of liminality, someone in between decisions, like Brutus pondering what he should do with Caesar.
+
+She was beautiful and anxious, which made her even more beautiful, and quietly lost, which made her even more desirable.
+
+Should I go and say hi? Eppie fought the sadism bubbling in her chest. Simone’s confession was still giving her heartburn, and she felt completely obligated to collect some interest from the young lady responsible for setting the mad dog on Mio, on Simone, and on herself. She was still psyching herself up, flute of liquid courage in hand, when a deep baritone voice beside her interrupted her thoughts.
+
+“Extraordinary creature, isn't she?”
+
+She looked to her right. It was one of the men who was in the Mayor’s inner circle. He was both fat and well-muscled, with the tailored suit doing the heavy lifting to make him seem slimmer and more sophisticated. He wore expensive cologne, and too much of it. The man’s face looked like a boxer’s, half-dog, half-man, one who had lost too many matches before he had the sense knocked into him.
+
+“Remarkable, really,” the man spoke to her with a familiarity that was both greasy and discomforting. “Really great tits.”
+
+Eppie was sure, FULL sure, that the man was talking about blue-footed boobies or the common European blue tit, until she wasn’t. The word was like a thunderclap. She could not believe that here, in this place, underneath all this art, all this glamour, someone just blurted out the first word on their mind when observing Valorie.
+
+WHO SAYS THAT? Her mind was a riot. WHO SAYS THAT TO A KID?
+
+The man then turned to her, his face peeling into a smile, looking from her flatness to Val, then back to herself, and spoke with a tone of apophatic, aphoristic wisdom.
+
+“Is it enough, though? At a certain tier, pretty takes you only so far,” the man leered with a professionalism that made Eppie doubt her eyes. “You see, honey, it's never about pretty. Pretty is pedestrian. You’re prettier, in my eyes at least. It's about who that girl knows. Who brokered her into the scene? Her Hollywood pedigree.”
+
+The man chuckled.He smiled at Eppie, the kind of smile that a professional had been using for a long time. It was not a bad smile, technically, but the goosebumps running up her legs were shrieking like bald eagles on the Fourth of July.
+
+“This is Marie,” he introduced his accessory.It was only then that Eppie grew aware that there was a woman on his other side. The man’s partner was a mid-twenty-something with meticulous makeup, looking like Rita Hayworth from The Lady from Shanghai. The deep platinum wave, the strapless ivory gown, the long evening glove, the vacant eyes, the tits… Eppie fought the ick.
+
+She couldn’t shake the word from her head.
+
+"Morris Grein," the man introduced himself. He extended his hand. There were two very large gold rings. One was a wedding ring.
+
+Eppie looked at it. She took it. His grip was warm and fractionally too rough, his thumb pressed into the back of her knuckles before the release, in case she slipped away.
+
+"Euphemia Fontaine," she said. Pleasantly.
+
+Then she stared at him with her mouth half-open.
+
+[- 2330 Causality]
+
+Quest Triggered
+
+[The Corruptor of Dreams]
+
+You have discovered a Karmic Parasite, a lesser Usurper. These are individuals whose very existence misaligns the causality of those around them. A Karmic Parasite matures by transforming the artistic potential of joy, dreams and wonder into misery, denigration and abasement.
+
+This Karmic Usurper is a mature Parasite.
+
+The Usurper may reap the Karmic Parasite for [Causality] through [Noblesse Oblige].
+
+She looked at the notification for exactly as long as it hung in her vision.
+
+She stared for so long that the Morris Grein actually blushed. “Goodness, so you’ve heard of me,” he scratched his head. “I mean, we can get a drink sometime, later. Who is your Guardian?”
+
+Eppie was still staring at the notification, trying to digest the new information and her loss of [Causality].
+
+Pleased, and realising just how strange his question was, Grein produced his card, a cream stock embossed thing of beauty, and pressed it into her dainty little hand.
+
+[- 1430 Causality]
+
+“You must be someone if you’re here at Juliana’s party. If you’re interested, call me,” his smile was nothing but earnest and collegial. “In case you don’t know, I work in the film medium. Blockbusters, to be exact. Now, if you will excuse me.”
+
+The man slithered away. The ivory woman drifted after him, still vacant. She gave Eppie a look of sympathy, smiled sickly, then followed after her man.
+
+[The Corruptor of Dreams]?! Holy Fuck! God damned Satan himself, walking among men!
+
+She had to get back to Vaughan.She had to warn her mentor.

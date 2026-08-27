@@ -1,0 +1,195 @@
+---
+id: d20f44fa-9804-50d9-b215-6891667b8680
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 600 - Socialization"
+slug: 0102-chapter-600-socialization
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 102
+ownLength: 2828
+unit: words
+ownProgress: 2828
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2527529/chapter-600-socialization"
+royalRoadId: "2527529"
+markedReadAt: "2026-06-29T19:38:33.987Z"
+---
+
+Tala hid her smile as Lea frantically ran around the clearing within the sanctum, checking things over for what must have been the dozenth time. “Lea, it’s fine. Miss Kedva and Talax are just coming for a visit. You don’t need to worry about everything being ‘perfect.’”
+
+Lea moved over to the table set at the side of the clearing and changed how some of the snacks were arranged, clearly fighting her desire to pop a few in her mouth as she did so. “I know, but you and Dad always talk about making good impressions, and trying to put my best foot forward and—”
+
+Tala smiled then, interrupting her daughter. “And they’re ready, Lea.”
+
+Lea’s eyes widened, and she let loose a little squeal. “Oh! I’m not ready yet.”
+
+“Lea… things are going to be fine.”
+
+She seemed to almost shake in place for a moment, seemingly torn between going a dozen different directions all at once. Finally, she took a deep breath and nodded.
+
+Tala smiled and willed Kedva and Talax into the clearing with them, from where they’d been waiting just outside their house in Irondale.
+
+Moving them from Ironhold to their sanctum, Tala only had to bring them to the superficial for the barest moment before they came back into Kit and the primary section of the dimensional space. The two guests immediately oriented on Tala and Lea, bowing appropriately. “Thank you for the invitation, Mistress Tala. My son and I are grateful to be here.”
+
+Lea and Tala bowed in return, with Lea being the one to respond. “Thank you for coming. We are excited to have you.”
+
+With that, the formality fell away a bit, and Lea let out a light giggle and practically skipped forward to grab Talax’s hand. “I have cards set up if you want to play a game, and there’s food, and even a sparring circle, but I’m not really trained in that yet. Mom and Dad say we can start in the next day or two but we haven’t gotten to it, not yet. There’s also many other things that we can see and do if you want.”
+
+Talax seemed a bit taken aback by the flood of words, but latched onto the last part of what she said. “I have always wanted to really see the sanctum. Can you show me around?”
+
+Lea seemed to hesitate, her eyes flicking around to all the things that she’d prepared that were right there, rather than in the other parts of the sanctum.
+
+Talax, for his part, didn’t seem to realize that Lea had set up a bunch of things here for his arrival, nor that he was bypassing those and choosing to just wander about, even if she would be his guide.
+
+Kedva came to their rescue. “That does sound wonderful. Then you can come back here for snacks and to play some games?”
+
+He beamed at his mother. “That sounds great!”
+
+Lea relaxed, smiling toward Kedva as well. “Thank you for the suggestion, Miss Kedva. We’ll do that.”
+
+Without further delay, Lea led Talax off, already chattering away about how the sanctum worked and why various plants or things were positioned where they had been.
+
+When the two were almost out of sight, Kedva turned to Tala. “You can see them anywhere in here, right?”
+
+“Absolutely. Lea’s nascent authority in here cannot affect or limit my own foundational dominion.”
+
+Kedva seemed to relax at that. “Good.” She stretched, seeming to genuinely be coming down from quite a bit of tension. “Sometimes I worry about that boy. Brandon feels I am too cautious and too nosy into what he’s doing. He might be right, but I just don’t want him to get too damaged. I mean, I know that we have magical healing, and he’s far tougher than a mundane adult out there is, but I still worry, you know?”
+
+Tala blinked a few times, trying to process the flood of words, not because there were too many to follow, but because she hadn’t been expecting them at all.
+
+Kedva finished her few stretches and indicated the table of food. “May I grab some of that? I don’t want to ruin Lea’s plans by taking when it wasn’t expected.”
+
+Tala shook her head. “No, no. It’s fine. Go right ahead.”
+
+“Thank you.” The woman moved forward and began looking over the food that Mistress Petra and her assistants had helped Lea lay out. “Mistress Petra wouldn’t let me help put this together as it was going to be for me and Talax. ‘It isn’t proper for a guest to make the food that will be served to them.’” Kedva chuckled. “I think I can see the point, but I do enjoy the process.”
+
+Tala finally got her thoughts in order to respond to the first batch of comments. “I can understand having some defensiveness for your eldest.” She huffed a laugh. “Rane and I still don’t like to leave Lea alone, even with Terry around and the fact that we can see her at all times in here, whether we’re around or not.”
+
+Kedva shrugged. “You didn’t have the build up, though. Lea isn’t even half a year old. It would be odd for most parents to leave such a child truly alone except to sleep. But I appreciate the empathy."
+
+Tala smiled. “What about with your other kids? Do you have similar feelings?”
+
+“Yes? But they’re also so different. Talax is the adventurer. If he had his way, he’d never come home. He even tries to sleep in the various forests and crannies around Ironhold.” Kedva shook her head. “I mean… I know it’s perfectly safe, but still… I feel like he should still be at home.”
+
+“And what about your others?” Tala prompted.
+
+“Well, little Kellisy is always finding animals to adopt, but at least she brings them home.” Kedva locked eyes with Tala. “Did you know you have lizards in here?” She gestured around. “Well, in Ironhold at least?”
+
+Tala shrugged. “We did our best to establish a self-sustaining ecosystem, so I’m not surprised. Now that I consider them, I can see quite a few of them, but no, I hadn’t explicitly noted that we had them before.”
+
+“Well, little Kellisy has found three that she insists are baby dragons, and she won’t let them out of her sight. She even takes them to lessons with her. Thankfully, the tutors and other kids don’t mind, and she has managed to train them… somehow.” She shook her head. “She’s like their mother, in how closely they seem to pay attention to her.” Then, Kedva hesitated and barked a laugh. “Or maybe I should say that she’s very unlike their mother, because of how well they listen to her.”
+
+Tala snorted a laugh at that as well. “I’m glad she’s finding fun things to do outside, regardless.”
+
+“Indeed. Little Bran just wants to build things, and that seems to be best done inside.” Kedva winced slightly. “Well, he also wants to tell us stories, but they're never very good stories.”
+
+“Oh? Have you told him that?”
+
+“Are you kidding? He’s not old enough for such a thing to be anything but an insult and a negative weight on his life. And he’s always comparing what he tells us with collections of stories he finds. Even so, I’m not good at ‘letting him down easy.’ No. It’s always ‘Thank you, Bran. Yours is the best story.’ And he sits there nodding from his little chair, like a king accepting his just tribute.” Kedva chuckled. “He is getting better, and we’re trying to help him learn, but it’s a lot sometimes.”
+
+Tala nodded in sympathy. “Lea’s intellect and capacities are a mixed bag. We’re never really sure if we should be telling her more and expecting more of her because she’s essentially fully grown, or tell and expect less because her personality and ‘self’ are still developing. We want her to have as normal a childhood as possible, even though truly ‘normal’ is well and truly rusted to slag.”
+
+Kedva grunted around a bite of snack, swallowing before responding further. “I hear that. So much of the advice we’ve gotten is just meaningless because of what makes our lives here in Ironhold special. Our kids are essentially not going to get permanently hurt. They are strong, healthy, and they basically never get sick.” She sighed then huffed a self-deprecating laugh. “Oh, woe is me, my life is so hard.”
+
+Tala chuckled in turn at the woman’s clearly teasing tone. “I hear you. I’m just glad that Ironhold seems to be thriving.”
+
+“It is that.” Kedva finished loading one of the little plates Lea had insisted were provided. “It is that.”
+
+-Where did she get the idea for this again?-
+
+You are already aware, Alat.
+
+-Come on, Tala. You know the rules and so do I. I ask questions to maintain the fiction of separation.-
+
+Tala sent the impression of rolling eyes, then decided not to fight with her alternate interface. Rane. Lea asked Rane what sort of things are provided at gatherings for Mages. She then asked him what children usually do when they get together, and only then did he, and I, realize that she was putting together a list of ideas for this playdate.
+
+-That’s cute.-
+
+Quite, yes.
+
+In the end, Lea and Talax toured the sanctum, ate, played, and talked for most of the afternoon, and during that time Tala really got to chat with Kedva more than she ever really had in such a casual setting.
+
+Kedva was assisting Mistress Petra many days, but she was also training with the Talons, to at least continue to grow her competency with white steel, as well as with maintaining her own magical density while in low magic zones.
+
+With Brandon and Adrill helping Master Simon, it was all but assured that when Master Simon and Mistress Petra left, Kedva and Brandon would be stepping into those roles. It was still a few years off, but it was coming.
+
+Regardless, all told, the four had a relaxing, sociable afternoon.
+
+* * *
+
+Tala swung her sparring sword with exaggerated slowness, Rane lifting his own blade to block with the same pacing.
+
+They paused, blades contacting, and Rane addressed their daughter. “Lea? Take a look at both of our stances, how our bodies are positioned to give power, grounding, and backing to our actions.”
+
+Lea circled her parents, taking note of all the details, her non-standard mind grabbing onto all the details. When she was finished, she nodded. “Got it.”
+
+Rane then did the same attack toward Tala that she had toward him, this time Tala doing the block that he had previously.
+
+“Got it.”
+
+Rane and Tala dismissed their weapons, and Tala executed a slow, straight punch, with Rane using the same block. They paused.
+
+“Got it.”
+
+Switching roles, they did it again.
+
+Slowly, they showed Lea the details of various strikes with all sorts of weapons, including being ‘unarmed.’ They went through how it looked when opponents had different weapons too.
+
+Finally, when Rane and Tala were satisfied that they’d covered enough of the basics, they began having Lea go through the motions, unarmed.
+
+This whole thing had come about when they’d tried to teach her a basic open handed form, and she’d constantly wanted them to demonstrate how it should look, and what was it actually doing, and why would anyone block that way, and so on.
+
+Thus, the alternate method had come about.
+
+Now? Lea moved through the forms with ease, only requiring minor corrections to her stances and movements. Mainly, she was still seeing the various steps as distinct points, with the transitions being incidental.
+
+That could work for basic competency, but to actually be able to take the knowledge and apply it effectively in a fight, every moment, every movement needed to be intentional.
+
+The first day, they did the demonstrations and started into the unarmed forms. The second day, they reviewed everything, finished the unarmed forms and added in knife work.
+
+An old adage came to Tala’s mind, and she shared it with her daughter. “In a knife-fight, everyone gets cut.”
+
+Lea frowned at that. “That seems silly. Couldn't I just block better? Or move more quickly? My skin is practically armor, so I shouldn’t be cut most of the time, right? Surely you could get in a knife fight and not get cut.”
+
+Rane chuckled, and after Tala indicated for him to continue, he explained. “It’s meant to be a way of thinking. Very often, a fighter will act out of fear of getting hurt. In a knife fight, that gives the brave—or crazy—person the advantage, because they don’t have that hesitancy. If you understand that you will get cut, and you instead put your efforts toward ensuring those cuts are where you can accept such a wound? You’ll win the majority of the time.”
+
+He smiled and nodded back to Tala and she continued, “Of course, you are right. This adage is in regards to mundane fighting. We are stronger and more durable than they are, but the means of thinking still stands. When you go into a fight—especially a close-quarters one—expect to be injured, and you need to work to keep those injuries where you won’t be disabled by them. Remember, we are just teaching you the basics. Your body will have different strengths and weaknesses, and soon enough, you’ll need to work through those. Thankfully, you shouldn’t be fighting for your life anytime soon. So, we can approach this a bit more methodically than we had to for ourselves.”
+
+Lea frowned, but still seemed to take their words to heart.
+
+They moved on from knives to short swords, and there, they began changing it up, having her practice on unequal footings with her opponent, sometimes with superior weaponry, sometimes with inferior.
+
+She was hesitant to actually strike her parents at first, but after they had her watch them clash a few times, she was able to release her fear of hurting them.
+
+-Yes, let your husband beat you up so your daughter doesn’t mind hitting you quite so much.-
+
+Wow… Really? …What a way to make it sound as terrible as possible… She sent a sense of deep disapproval in Alat’s direction.
+
+-I have a gift.-
+
+Soon enough, it was finally time for the next get together with Tala’s siblings, though those at the Academy wouldn’t be coming this time around. It was simply too costly—in pain, time, and materials—to get the students reinscribed this often.
+
+Lea’s introduction went off without a hitch, surprisingly. The various family were a bit confused, but most were ignorant enough of magic that they just assumed that some weird phenomenon had affected her around her birth. Rane and Tala did not dissuade them of that notion.
+
+Those family members who did know better were a bit more cautious, but in the end, Tala and Rane’s assurances, along with Lea herself, broke through any barriers they might have otherwise put between themselves—or their families—and the girl.
+
+Latna in particular was a bit fascinated by Lea, going out of her way to come over and give Tala a big hug and congratulate her on having a daughter. She then spent some time talking with Lea one-on-one and commented several times that when Tala mentioned a ‘surprise’ she shouldn’t have tried to guess what it was.
+
+And that was it. The meet-up was rather standard. Illie was mentioned fondly now and again, and Nalac was never really left alone as more people kept near him than usual, but by this point, the little reunions were rather standard.
+
+Lea loved playing with the younger ones, whether cards, tag, or other passtimes, and she was sad when it was time for them to leave.
+
+When the last of the family had departed, Lea turned to Tala, a gleam in her eye, as she clearly tried to find something to latch onto now that the family had departed. “Mom?”
+
+Tala pulled back slightly, skepticism overflowing as she responded. “Yes?”
+
+“Can we actually spar now?”
+
+Tala glanced Rane’s way, and he shrugged. “I think that would be fine. We need to be careful as we don’t know exactly how much her tank can heal her, but otherwise it should be quite safe.”
+
+Lea grimaced. “Right… the tank. Can’t you just heal me?”
+
+Tala gave a soft smile. “I can and will to some extent, but we will want the tank to verify that we’re doing it correctly. The last thing I would want is to accidently put you to ‘right’ only to find out that I’ve set your body out of balance somehow. I know it can be scary to go into something like that, but we’ll be with you.”
+
+Lea sighed. “Oh, alright…” She then brightened. “So, that’s a yes, then?”
+
+Tala grinned. “Yes. Come on. Let’s go.”

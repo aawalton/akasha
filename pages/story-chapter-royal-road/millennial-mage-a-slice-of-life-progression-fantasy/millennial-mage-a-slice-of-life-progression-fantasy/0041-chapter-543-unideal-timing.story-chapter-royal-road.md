@@ -1,0 +1,285 @@
+---
+id: 0c9ef3a6-9846-5789-a3b0-54d762ec8b49
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 543 - Unideal Timing"
+slug: 0041-chapter-543-unideal-timing
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 41
+ownLength: 3052
+unit: words
+ownProgress: 3052
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2147359/chapter-543-unideal-timing"
+royalRoadId: "2147359"
+markedReadAt: "2026-06-29T19:36:36.759Z"
+---
+
+Tala felt her mind straining as the battle continued. Her focus was split across the spheres, rod, shields, Flow, Terry, and a roving perspective attempting to keep a lookout for other copies of the prisoner.
+
+It was excellent practice, and she was enjoying herself overall.
+
+Even so, not everything was going as she’d have preferred. At least one copy of the prisoner had escaped Terry and Tala’s attempts to keep them all contained—partially because they had the higher priority of keeping them away from the breach in the cell—and so the two were expecting more copies to come rushing in from all directions at any time.
+
+They were already dealing with an ever increasing number of copies just from those they couldn’t obliterate near at hand.
+
+My unit would be very useful here… if not for the effect copying.
+
+-Or, you know, the other unit that’s just outside?-
+
+…I’ve got this.
+
+-You can’t avoid new connections, new relationships Tala. It isn’t good. To be fair, now is hardly a good time to draw them in, but it is worth considering if needed.-
+
+…I know, but I can keep any of them from getting hurt, at least this time. Without an ability to prevent the other unit from creating reality threads with the prisoner, they would be obliterated by her and Terry’s efforts against the woman. So, the best way to keep them from getting hurt, was to keep them away entirely.
+
+They might have been able to work something out if they only had their own magics to deal with, but she wasn’t willing to withdraw either herself or have Terry allow such.
+
+Honestly, Tala considered just letting them, as she could then send pulses of dissolution down that tunnel to obliterate them, making any escape attempt useless, especially now that she was maintaining the screen against the prisoner’s retaliation.
+
+Still, she felt that it would be unwise to allow that ‘last line of defense’ to become their only line of defense.
+
+That’s how prisoners escaped.
+
+Unfortunately, it seemed that the cadence of the combat had changed, and there were now dozens of the woman all working to either distract the two invaders or get to the tunnel out of the cell.
+
+Their physicality—while fragile—wasn’t weak; they seemed capable of smashing through any barrier that Tala brought before them.
+
+The Leshkin tower shields would have been obliterated ages ago except that Tala only used them to hamper, rather than truly block.
+
+Even one of her tungsten spheres was somehow dented from where one of the copies had punched it.
+
+It didn’t make sense to Tala, but for whatever reason, it didn’t seem that material could resist them.
+
+Oh… that’s dumb. Tala had been watching closely as one punched a tree instead of Terry—the bird having flickered away—and she’d recognized the effect. She should, after all, it was one her husband used all the time.
+
+The copies were taking the ‘equal and opposite’ force that was acting on their attack, and copying that back into their target, somehow able to target it more precisely.
+
+No wonder this woman was feared. She could essentially take lethal damage and throw it back in your face before walking away unharmed, regardless of the form of the attack.
+
+There had to be more as to why she was imprisoned, but Tala wasn’t in a place to figure out what might be ‘imprisoning’ worthy about the woman.
+
+Besides, Terry was having fun… mostly.
+
+The existence shield was hitting him oddly, and his movements were a bit more erratic, his attacks a bit less precise.
+
+As soon as she noticed that and truly considered it, she understood. I’m somehow cutting off what his concept needs in order to function.
+
+That was… really not good.
+
+She immediately devoted a larger portion of her mind to Terry, her other points of view and defense being slowly forced back lest they be overrun.
+
+She examined him very closely, watching for anything that any of her perceptions might—There!
+
+A little lash of a reality thread tried to strike outward from him. Tala flexed her will, opening the way for it to pass.
+
+A moment later, Terry’s movements smoothed out, and he trilled in triumph.
+
+Of course! That’s how Terry’s concept works. Now I can perfectly replicate it.
+
+-...If you wanted my attention, you could have just asked. Spouting utter nonsense isn’t required.-
+
+Fine. How much longer?
+
+-Twenty minutes at least. Things look to be getting hairy out there. Want to bring in the Defenders?-
+
+No. They’d be overwhelmed unless Terry and I pulled back, and even then, they might be overrun. I can’t just block off the entrance either, because with the workers they have on hand and the ridiculousness of their power, they’d clear essentially anything I could put in their way with time to spare. Inform Master Grediv of the state of things and get back to it. Let me know if you need anything that I can give, or if anything would speed your progress.
+
+-Done, and will do.- Alat fell back into silence, and Tala grit her teeth, diving back into the fray.
+
+She’d already emptied close to half of her siege orbs, which was… a bit rusting insane if she were being honest.
+
+Well, this should be a good time to update them, then… and to create my gravity gun? She frowned. Was it really the time to experiment?
+
+…Yes.
+
+-Oh, Tala…- Alat didn’t spare any more than that.
+
+Tala huffed a laugh, immediately forming a hollow, dangling beneath the sanctum relatively near her artificial lung.
+
+She made it donut shaped and kept any air or other particulates out.
+
+Then, she grabbed four of her backup tungsten spheres and willed them into the donut, immediately amplifying their gravity toward the center, even as she began moving them around in a circle.
+
+She soon hit the limit of how fast she could physically force them to move within Kit.
+
+It wasn’t very fast.
+
+She could move them instantly to anywhere within Kit, but forcing physical speed onto them was something else entirely.
+
+Thankfully, her gravity manipulation was amplifying much faster as a Paragon than it had even as a Refined.
+
+The orbs quickly outpaced the speed that she could make them move ‘manually,’ and soon enough they were positively whipping around the donut.
+
+She had to nudge them every so often when her ramp up of gravity was too fast or too slow for a smooth increase to the sphere’s speed. She also had to keep them from knocking into each other every so often.
+
+This is… actually rather difficult.
+
+She was technically splitting her mind at least twelve ways at the moment—that wasn’t counting Alat or any of the myriad things she was doing—and it was giving Tala a pounding headache.
+
+She was a bit irritated with herself. She’d had the idea for this gravity cannon for more than a month now, but she’d never prioritized it, always assuming that she’d get to it ‘tomorrow.’
+
+Isn’t that just the way of things.
+
+Still, with her increased ramping up…
+
+Then, as she realized something, she couldn’t help it; she started to laugh.
+
+The prisoner was in the Refined power range. Tala had spent so much time fighting beings and creatures equal or higher than her on the power and magical weight scale, but this prisoner was the opposite.
+
+The prisoner was a cloud of mosquitoes trying to drain a cow dry.
+
+Alat burst out laughing, her work slowing momentarily. -I’m sorry. I’m sorry, but what? Did you just call yourself a cow?-
+
+Tala glared, her own laughter cutting off. You’re kind of a jerk.
+
+-And apparently, you’re kind of a cow.-
+
+Get back to work.
+
+-Yes, me. I always do as I wish.-
+
+Jerk.
+
+Alat refocused, but her chuckles still resonated within Tala’s head.
+
+Tala, for her part, immediately added another split to her mind—despite the added pain—targeting one of the more problematic copies of the prisoner. That one seemed able to even occasionally dodge Terry—not that Terry had focused on her. She’d simply been able to shift away the two times he made slashing passes.
+
+Tala glanced at her hand, seeing where the ‘crush’ rings had once resided. For the first time in years, she missed them.
+
+Still, she had a perfect memory and knew the spellform intimately.
+
+With a grin, she pulled on Mistress Cerna’s training and created a bit of freeform magic, adding in a crush ring to her natural magics. It was not a rapid process, and she’d driven the one copy to the ground through gravity amplification by the time it was complete—the prisoner unable to move—but Tala had done it.
+
+It was like when she’d seen Rane draw a chalk line on a stone before cutting a new groove. It was in no way permanent, but it was there.
+
+Power blazed through it, burning it away in an instant. She didn’t target the already immobilized copy, instead choosing one who was just jumping over one of her other copies, both trying to avoid the tungsten rod to get to the breach in the cell.
+
+The upper copy blazed with Tala’s power before slamming downward, turning herself and the lower copy into paste in an instant.
+
+Something about the twin deaths was different enough that the other copies froze for an instant, all looking around, trying to find what new opponent had done the killing.
+
+They could seemingly feel that they had nowhere to return the effect to, no one to copy the destruction onto, and it ticked them off.
+
+Terry let out a rolling, squawking trill that was much, much deeper than usual—he clearly utilized much of his hidden mass to get the desired effect—making it closer to an unholy roar than anything more traditionally birdlike.
+
+The four tungsten balls were still speeding up, and she figured she’d be ready to use them before Alat was done with the cell, but until then, it was going to be an absolute slog.
+
+Great for training though.
+
+Alright. Let’s do this.
+
+And so they did.
+
+She was constantly spinning new crush spellforms while amplifying gravity on various copies. At the same time, Flow and her other tools were hampering and killing the clones all across the near part of the forest.
+
+Whenever a few clones were close together—and she’d managed to recharge her breath weapon, and she could get a line of attack on them—she sent a carefully calibrated pulse of dissolution breath to wipe them out.
+
+Terry was a dervish of taloned destruction.
+
+There was genuine concern within Tala as she engaged the prisoners, not because she felt like she was going to be overwhelmed—to the contrary, she and Terry were steadily pushing their perimeter further and further back—but because she couldn’t imagine any Defender unit being able to do this.
+
+Even her old unit would have been utterly reliant on her, and as a Refined? Yeah, that would not have been workable.
+
+We will need to give a full accounting of this, even more than the report Alat already sent. Whoever services this next time… Well, how about I just survive and do it myself?
+
+That was, of course, the most reasonable course of action. She’d still make a full report, but she was rather nicely positioned to counter this particular prisoner. So, she’d just do it again herself in a couple of millenia.
+
+I can’t imagine how many died to get this one contained…
+
+It was a sobering thought.
+
+Unfortunately, she didn’t have too much time to simply think, as more and more copies were streaming in from elsewhere in the cell, slowing their outward push.
+
+There was an army’s worth of them, it seemed. Well, no, it just seems that way because of how many I’m killing. They probably had kept their numbers down until the breach was discovered. They’re copying themselves into an army, sending them in a steady stream from all directions.
+
+At this pace—as the number of incoming copies continued to swell—even with all her tools, Tala was going to be overwhelmed in the next few minutes, ten if she was lucky.
+
+How’s it going?
+
+-I’m getting better, and so is Kit, but we still need at least twenty minutes.-
+
+That’s what you said last time I asked.
+
+-Well, I was wrong then. I know better now.-
+
+Tala growled, then frowned before a thoughtful look stole across her features. I have an idea.
+
+-Oh! That could work. Yeah. It’ll add a bit of time, but that shouldn’t be an issue.-
+
+Alat communicated with Terry, even as she closed the cell once more, locking some flaws into the seal for the moment. That would make them harder to fix, but Tala, Terry, and Alat would have a bit of time now.
+
+With the cell closed, Tala felt a strain on her connection with her iron, only Terry’s presence within allowed her to keep her connection with everything that she was still using to keep the copies back.
+
+A moment later, Alat opened the cell again, connecting the breach to a different location.
+
+The hallway was slanted downward this time, the top of the exit a bit below the bottom of Tala’s side, and it was a good thing too as water flooded through the opening, filling up the space to that level.
+
+Tala thought that she could have held the water back with pure authority, but it would have exhausted her in barely more than a minute—if her guess was right—and there was really no need.
+
+In a distant, formerly forested part of the cell, Terry and Tala’s equipment kept defending the ‘breach,’ with Tala continuing her magical support as well.
+
+Alat and Kit worked to execute the repair that they’d just made a bit more difficult than necessary.
+
+Still, Tala was quite proud of the deception.
+
+Nearly exactly ten minutes after they’d moved the breach, Tala had to pull Terry out, simply withdrawing him to Kit—which was only possible because of how closely the soul-merged voidling had drawn alongside the cell—and pulling out her iron spikes and equipment as well. Though, the equipment had to leave through small portals, necessitating their withdrawal a bit earlier than Terry’s, just to be safe.
+
+The last thing she wanted was to somehow allow one of the copies into her sanctum.
+
+An instant later, the copies overran the whole area in which the breach had been, their numbers truly staggering in those last moments.
+
+Each of Tala’s dissolution breaths had obliterated hundreds, but it hadn’t been enough.
+
+Her gravity accelerated tungsten had finally gotten to what she thought was sufficient speed, and she’d broken the gravity bindings one after another, snapping open portals in a direct line with where they would go.
+
+The results were… staggering.
+
+There was a staccato of sonic concussions as each tore outward along a different trajectory.
+
+The air itself seemed to tear open with fire, very akin to her dissolution breath, but somehow with a different quality to the heat.
+
+There was an afterimage-like effect of superheated air in perfectly straight lines from the now closed portals to the edge of the cell, sometimes more than a mile away. At the edge of the small reality, the now somewhat liquified tungsten made another series of concussive explosions, shredding everything near at hand.
+
+As to the copies that were between the portals and the edge of the cell?
+
+They were blown apart.
+
+More accurately—as Tala’s enhanced perception and threefold sight gave her incredible detail and minute insight—they each had a hole blown clean through them, the parts of their body that had been in the hole forced out and back, laden with so much heat and force, that the copies were blown apart, the bones and other hard bits becoming shrapnel that shredded those around them as the debris expanded in a vertical ring perpendicular to the tungsten’s flight—though it was biased backward making the zones of destruction more like cones than flat planes.
+
+This was as obliterating to the vegetation as it was to the other copies.
+
+Speaking of which, to call what remained of the near area a ‘forest’ was no longer accurate. To be generous, one could call it a wasteland clearing in the middle of a bedraggled forest.
+
+Regardless, as the shock of her final salvo faded, and the copies finally noticed the absence of the breach, Tala was able to see them raging, crying, and consoling each other as they tried to deal with the wounded or scrabbled at the ground where the breach had been.
+
+In this case, ‘deal with the wounded’ was simple, quick execution. Even those with only minor wounds were summarily killed.
+
+Efficient, I suppose? Dark, though.
+
+As curious as she was about what would happen next, she didn’t want to risk discovery, so Tala withdrew her bloodstar clouds after that point.
+
+Ideally, the prisoner would think that the cell was already resealed, and the myriad copies would believe that their unexpected chance was over.
+
+Thus, Tala no longer had any battles to fight. So, she kept a close watch around the underwater breach until, finally, Alat signalled that they were done.
+
+-See? Underwater is better.-
+
+…Well, you might have been right, but there is a good chance that if this was the first point of connection, it would have been noticed.
+
+-I guess we’ll never know.-
+
+I suppose not. Still, excellent work.
+
+-You too.-
+
+With a grin of triumph, and an effort of authority and will, Tala forced the water back and out of the tunnel, and Alat worked with Kit to twist, fold, tie, freeze, or otherwise manipulate reality to seal the cell once more.
+
+And that was that.
+
+Tala brought Terry back out to her shoulder, opening a small portal for him to flicker through, and he trilled contentedly before hunkering down and closing his eyes.
+
+She stood before the block of obsidian, which was the physical component of the cell’s anchor.
+
+She was exhausted, and as such, she didn’t actually return her threefold sight to her location for a few breaths. At the moment that she did, however, she saw the leader of the Defender unit standing at the entrance to the atrium, mouth agape and building fire in her eyes.
+
+Well… that’s unideal timing.

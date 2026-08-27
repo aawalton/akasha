@@ -1,0 +1,269 @@
+---
+id: 44d84f68-8605-5f14-b73d-7dc02ea0ffcb
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 556 - A Veritable Gold-Mine"
+slug: 0055-chapter-556-a-veritable-gold-mine
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 55
+ownLength: 3065
+unit: words
+ownProgress: 3065
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2237439/chapter-556-a-veritable-gold-mine"
+royalRoadId: "2237439"
+markedReadAt: "2026-06-29T19:37:03.623Z"
+---
+
+Tala strode out of Alefast, Waning, with Rane at her side and Terry on her shoulder.
+
+Ironhold was sealed up, Kit carrying innumerable reality nodes within herself as the trio moved along the superficial.
+
+Master Jevin was expecting them in Makinaven in five days. It was an excessive amount of travel time, as Tala and Rane could easily make the journey in less than twenty-four hours if they chose to, but Tala had wanted to take her time.
+
+Her contemplations on her Reforging had opened up so many avenues of thought, and one of those had sparked an idea that this trip would allow her to investigate further.
+
+Leshkin didn’t have bodies, not really.
+
+What humanity called Leshkin were simple conglomerations. They formed bodies from the plant matter that happened to be around them when they manifested on the superficial. Their spirits were even able to combine to become more powerful, and thus form more powerful bodies, yet again pulling from their environment for materials.
+
+Now, a part of that reality was due to the shredded, broken state of their spirits, and therefore it wasn’t something common to all those who lived on Zeme. Even so, Tala was starting to suspect that, just as gated gave a sort of odd, distorted look at Sovereignty from another angle, the Leshkin may just have insights to provide on Reforging.
+
+One thing supporting that line of thought was a fact that she’d learned long ago. The time of greatest advancement for Paragons—meaning the time in which the most progressed toward Reforging—was during or just after the Leshkin wars each cycle.
+
+It was also the time with the greatest chance of a Reforged dying, so it wasn’t just a universal positive.
+
+Even so, Tala had assumed that such was simply from those Paragons having faced true tests in the clashes. While that was undoubtedly a part of it, she was now almost certain that there was more to it.
+
+So, she was planning on taking some time to learn from the Leshkin whether they liked it or not.
+
+-Let’s be honest; there’s no chance of them liking it.-
+
+Yeah… that’s fair.
+
+There was some danger of awakening the Leshkin generals once more. If that happened, she, Rane, and Terry would deal with them. They’d even have the Talons to call on as well at need, but she thought that shouldn’t be an issue.
+
+The generals had only come when she’d been consuming the Leshkin she slew, using a combination of void-magics and the growing authority from resisting the dasgannach to begin to actually claim and subsume the Leshkin, spirit and soul.
+
+She wouldn’t do that this time… even if a small part of her was very interested in what she could take from such a subsumption.
+
+In truth, she hadn’t been willing to try anything like that since, and that long-practiced resistance helped her stave off the lingering desire.
+
+It was something that she suspected would become a part of Flow eventually—after all, the sword was long overdue for an upgrade since its foundation and existence had advanced with her to Paragon—but for the moment, that would be borrowing trouble.
+
+No, I’ll just wait until the war, and immediately call down the gathered wrath and strength of the Leshkin hordes…
+
+Her steps almost hitched, and Alat began to cackle within her head. -That’s so rust-bucket crazy… it might just work.-
+
+Yeah… We could gather our best combatants, establish a supremely defensible position, and begin claiming and subsuming Leshkin, spirit and soul.
+
+-That act should draw the generals out and allow the combined might of humanity to crush them before we can be spread thin over a vast theater of engagement.-
+
+…It honestly sounds too good to be true. There has to be a reason it hasn’t been done before.
+
+-Well, it’s at least worth bringing up to Master Grediv and those of his ilk.-
+
+Send them a query for us?
+
+-Already done.-
+
+Thank you.
+
+-But of course.-
+
+Rane cleared his throat. “I know we’re meant to be taking it slow, but are we meant to simply walk into the southern woods?”
+
+Terry hunkered down and trilled, seeming like a loaded spring.
+
+Tala chuckled. They had only walked a few dozen yards past the gates of the city, but even that was much farther than they were required to maintain such a mundane pace. “Fine, fine. I’m just excited for what is to come and contemplating details of it.”
+
+Rane chuckled, a twinkle in his eye. “Well, shall we stop contemplating and get to the actuality?”
+
+She nodded, opening a portal to pull out one of their fliers before closing it behind the construct.
+
+With an act of will from each of them, the three shifted into the sanctum. Tala then opened the small, anchoring portal within the flier, and they took off for the edge of the woods.
+
+As they moved, Tala analyzed the zeme on the superficial—and how it interacted with the flier’s reality node—more closely than ever before.
+
+The flier was cutting through the magic, utterly shrouded in iron. This was both a blessing and a curse, because it essentially forced the magic in the air back on itself, rather than letting it pass through. The shape of the flier mitigated that issue, just as it did so for any potential sonic boom when the flier was able to go that fast, unburdened by the anchoring portal.
+
+The result was that most of the ripples in the zeme from iron reflection were minimal, almost unbelievably so.
+
+Additionally, the power coming from the anchoring portal was not insignificant. It was entirely contained on the superficial by the iron, but it easily overfilled and overflowed that stone- and starward.
+
+There was iron in those directions as well, but as the iron was not a four-dimensional material, it couldn’t perfectly contain a four dimensional space, even if it did a very good job.
+
+The power that did leak through was contained and shaped by Tala’s own aura manipulation and authority.
+
+Once again, this wasn’t impermeable, so Tala and Alat’s efforts were directed toward the matter of controlling how the magic got out, rather than stopping it entirely.
+
+The weight behind the magic that escaped was incredible. Not only did Kit contain two Paragons, but the entirety of the expanded space was filled to the brim with power of that quality, and that didn’t even factor in the other powerful beings they carried along.
+
+Still, regardless of density—up to a point—a miniscule projectile could only disrupt the medium it traveled through so much.
+
+All this to say, the combined magical resonance was absolutely minor compared to what they should have been creating, given what they were moving, and their gates—being held stoneward—were only causing the smallest amount of abrasion.
+
+As before, that abrasion was the real speed-limiter. It was a bit frustrating, but the Sovereign had seemingly implied that they might be able to alter that hindrance with a proper Reforging.
+
+-Ahh, yes, our lack of gold can be solved by Mansa’s touch. It is so good to know that the conceptual solution to our problem exists. Now, we just have to find it.-
+
+Yeah, yeah…
+
+In truth, she still didn’t fully understand why a gate passing by other reality nodes weakened them, but it was obvious that it did, so she was content to study the phenomenon for the time being.
+
+Even taking it slow, only a couple hours were required to reach the edge of the forest to the southwest of Alefast, Waning. During that time, the three enjoyed a brunch within their sanctum, watching the world go by on the large projections that Alat provided.
+
+The food did not keep Tala from continuing her examination of the effect their passage created.
+
+Once they arrived, it took less than a minute for the three to exit the sanctum and for the flier to be stowed.
+
+Then, for what felt like the first time in ages—even though it had only been more than eleven years—Tala regarded the Leshkin woods.
+
+-Hey, be kind to yourself. That’s more than a third of your life… if you only consider parts you remember.-
+
+That’s a funny caveat, but I guess I understand it. Fair enough.
+
+The forest ahead of them was so different from the northern and eastern expanses controlled by the wolves.
+
+Each tree before them was massive, even those at the edge could easily be likened to colossal columns of living wood, their canopies a verdant roof despite the late autumn chill in the air.
+
+Behind them, the few trees that dotted the rolling plains were either well shot with fall colors, already bare of leaves, or—very occasionally—a conifer and thus the changing of the seasons didn’t affect their foliage.
+
+Even so, the space beneath the trees ahead was hardly uniform, rolling and varying as much as the open plains behind them.
+
+The three stood thus, examining the forest, with new eyes, rather than trepidation.
+
+Walking at a good clip, they’d easily reach Makinaven in time, even if Tala stopped along the way to examine Leshkin, so there was no rush.
+
+Terry seemed to have had enough dramatic contemplation, because the terror bird flickered forward, stopping at the edge of the trees before trilling a challenge, which echoed back from among the cavern-like expanse.
+
+I don’t remember it being echoey…
+
+-I think he used power to add reach to his cry.-
+
+And that made it echo?
+
+-Seems to have, yeah.-
+
+Huh.
+
+Without delaying further, Tala and Rane moved forward, passing into the shadow of the forest.
+
+The two humans didn’t hide their auras, though they did disguise them to appear Refined, rather than Paragon. Terry, on the other hand, held his aura close and tight as befit a predator of his ilk.
+
+Still, the power that the humans did project was sufficient that the few arcanous creatures seemed wary of them.
+
+Tala knew that if they began actively wielding their power, that hesitation would be overcome by the innate aggression of most arcanous creatures toward gated. Even so—as indicated by their hesitance—that innate drive wasn’t so powerful that the creatures would throw their lives away at any passing gated, regardless of their chances.
+
+That was good, because there were a lot of creatures. All seemed both observant enough to stay away, and stealthy enough to stay out of mundane senses.
+
+Huh, it would be rather easy to trigger another murder dell, here… The words of a passing Archon, spoken to Tala so long ago, came back to her, and she shook off the notion. There was no reason to unbalance the ecosystem of the whole region.
+
+Because of the standoffishness of the locals, their trip was fairly uneventful for the first hour or so.
+
+They’d discussed staying with the flier until they found some Leshkin, but they’d decided against it as they weren’t sure how easily the Leshkin would be able to detect the construct, nor how they’d react to it.
+
+It was just wiser to walk, especially since they had purposely made the time.
+
+As the three progressed, Tala was flooded with memories of her first trip to this tree-city.
+
+She, Rane, Terry, and Mistress Odera had worked together on that caravan. Calling up the memories of her former mentor put a solemn air to the remembrance.
+
+I think she’d be proud of the progress I’ve made.
+
+-Undoubtedly. You’ve grown incredibly, partially due to her influence. She was quite the Mage.-
+
+Indeed.
+
+In the first trip, the caravan had been forced to fight their way through arcanous beasts until the Leshkin had begun arriving in force.
+
+After that, the creatures hadn’t let up for the remainder of the trip. The whole thing had been a running-scrap that had brought Tala close to death on many occasions.
+
+Is that the first time I lost an arm?
+
+-No, you lost one against the crystal birds.-
+
+Right… Though, that was a soldier’s arm, not my own.
+
+Alat sent the impression of a shrug. -You still lost it.-
+
+To be fair, I think you could say that I took it, to save his life.
+
+-We’ll have to agree to disagree, it seems.-
+
+That made Tala chuckle, drawing Rane’s attention, from where he’d been lost in his own thoughts. “What has you in such a good mood?”
+
+That started them reminiscing about the trip and Mistress Odera. Terry joined in occasionally, contributing squawks or trills, but for the most part he simply flickered toward the arcanous creatures in the distance, becoming grumpy when they withdrew.
+
+Thus, they continued until, finally, Tala detected a lesser Leshkin behind a great trunk a few hundred yards ahead of them.
+
+Terry responded to her prompting, flickering over beside the creature, and Tala immediately used him as an anchor to come over in turn.
+
+The child-sized creature seemed to panic at her arrival so close—or maybe it was at whatever they seemed to sense in her—and its spirit tried to separate from the vegetative matter in which it had been ensconced, but Tala wouldn’t have that.
+
+She unleashed the full weight of her authority and aura, locking the spirit in the body, despite its struggles.
+
+It would be trivial to do the same in the other direction, claiming the body and forcing the spirit out, but that would be rather contrary to Tala’s current goals.
+
+The little creature began to shriek, and while Alat locked down the air around them, preventing the sound from spreading, they both felt that the cry had gotten through anyways.
+
+That was both irritating, and enlightening, as it forced them to examine the little lesser more closely. The answer was immediately apparent.
+
+The sound seemed to actually have been transmitted through reality threads—which felt oddly familiar in kind—that connected the lesser Leshkin not only to what were likely other Leshkin deeper in the woods, but to the myriad trees themselves.
+
+Well… That’s interesting… As she continued to hold the Leshkin by dint of will and authority, Tala felt her eyes widening.
+
+She hadn’t been wrong, the Leshkin were interconnected through reality threads, but the manner of connection had felt familiar for a reason.
+
+They are one? Their entire race shares a greater reality node?
+
+-Well, that would explain both ‘why’ and ‘how,’ even in death, they are drawn back to the spawning grounds… Well it explains ‘why’ they are able to, not ‘why’ they don’t just form a new body… It explains some of the ‘why.’-
+
+But it also means that rather than trapping a singular individual, we’ve effectively latched onto someone’s hand…
+
+There was a shudder through the whole surroundings, and Tala felt myriad Leshkin rushing their way, drawn by the call of one of their own.
+
+Well, if they keep coming like this, it seems that we’ll get to test our theories in battle, but first…
+
+-First, we have to form those theories solidly enough to be able to test them.-
+
+Exactly. Tala drew in a deep breath and called out to Rane and Terry. “We have incoming. We might have to fight free, but I need to test a few things first.”
+
+Rane landed beside her with a grunt of acknowledgement. He barely spared the trapped lesser Leshkin a passing glance as he turned to regard the forest to their left. “Let me know if there is anything that I can do.”
+
+Terry trilled, clearly quite excited for the upcoming clash. In the past, the Leshkin had been a horrid opponent for him due to their acidic blood… a feature that seemed to come along with their spirit, rather than being a true feature of the physical bodies they created and inhabited. Of course! That’s a concept, likely the concept at the core of their being as a race.
+
+Regardless, he was no longer quite the same bird. Since he last fought the beasts, Terry had been tempered in the magics of Tala’s Refinement and further solidified and strengthened by her advancement to Paragon as well as gaining many other tricks and defenses that would likely not even be needed.
+
+Before, he’d been a terror to them, even while having to be careful. Now? Now he was going to be a calamity upon their ranks.
+
+With her husband and soulbound companion watching her back, Tala turned her full attention to the lesser within her authoritative grip.
+
+There was almost a sense of smugness coming off the creature as it clearly sensed its kin bearing down on them.
+
+Tala didn’t care.
+
+She began to examine every part of it with her threefold sight, paying special attention to what voidsight was conveying.
+
+The lesser’s spirit—its reality node—was woven through the plants that made up the physical body. That very act had imposed the will and power of the Leshkin—minimal though that might be—upon the plants.
+
+It was an unequal relationship—it could quite reasonably be called parasitic—where the reality node of the Leshkin was actively subverting that of the vegetation, draining them of vitality and energy, even as it forced them to conform to the Leshkin’s will and needs.
+
+Just as she’d suspected, it was a sort of odd mockery of the harmony that Reforging was supposedly meant to involve.
+
+A grin grew across her features in an expression that must have been terrifying, if the sudden uncertainty blossoming within the Leshkin was anything to go by.
+
+-Huh, I never knew they had enough sapience to feel fear. It almost makes me feel bad for the tests we need to run.-
+
+Yeah…except I don’t feel bad. These things have been killing humans for centuries. Rust, they were doing it for centuries before they achieved this broken immortality.
+
+-True enough, but I would have preferred to experiment on trees.-
+
+If only. She glanced around, taking in the trees that were, in fact, seemingly integrated into the Leshkin race. I don’t trust that I’d be able to work with something so massive… not yet.
+
+As to what had her so excited?
+
+Like any truly brilliant mockery, the Leshkin clearly represented the fundamental parts of Reforging, twisted and misused. These are a twisting of Reforging, or our predecessors pulled the secrets of Reforging from the Leshkin, and that’s why there is so much similarity. It likely doesn’t matter which actually came first.
+
+Either way, she now held a veritable gold-mine within her authority.
+
+It was time to begin excavation.

@@ -1,0 +1,123 @@
+---
+id: 88bfb64d-8dd4-5c72-8121-d48c38cdf860
+page-type-slug: story-chapter-royal-road
+title: "Chapter 178 The Ancient"
+slug: 0192-chapter-178-the-ancient
+partOf: melody-of-mana
+position: 192
+ownLength: 1529
+unit: words
+ownProgress: 1529
+publishedAt: 2022-10-11
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1013764/chapter-178-the-ancient"
+royalRoadId: "1013764"
+markedReadAt: "2026-06-29T22:32:27.888Z"
+---
+
+I turned and saw him. Standing there like it was nothing was an elf with waist length white hair. It was hard to tell his age, because while his body looked young and hale there was a tired, ancient look to his eyes. Unlike the other elves I'd seen this one had extraordinarily long ears, the points reaching just past the back of his head. I noted his aura, which poured off only lightly in a stream of gentle green bubbles.
+
+"Nothing to say? Goodness, when meeting a king most people at least say hello," said the elven man.
+
+I turned to look at Ulanion, only to see his eyes getting bigger and bigger. I'd seen busts and the like, but never paid that much attention to them, but him, he'd spent his whole life looking at those. Based on his reaction there was certainly only one person that this elf could be.
+
+"Justin?" I asked, trying to work it all out.
+
+"Normally one introduces themselves first, but yes," he said, casually bringing a cup of tea to his lips and taking a sip.
+
+"You disappeared five thousand years ago," Ulanion muttered.
+
+"I had my reasons," the ancient king said, a sad look in his eyes.
+
+"To abandon us? To let our empire crumble as it did and waste away to a shadow of what you made it? And then what? Hide in a hole in the ground?" My companion was obviously incensed. "Are you even the real one, and not some golem or programmed spell?"
+
+"I'm the original. Come, let's go have a chat." He turned, as casually as anything, and began walking back over to the desk.
+
+As Justin, the ancient elven monarch, strolled small bridges of light appeared before him, letting us cross any and all barriers without trouble on our way back, any rocks or the like we just passed over on a slight slope.
+
+"So... you said to look here for answers?" I asked, trying to remember the exact wording on that mural and failing.
+
+"Indeed, I have a few, though I also have some questions. I don't get to meet many of us often, and there are details that I'd like to go over." He stopped at the desk, and began fixing the pages that I'd moved around as I looked through them. "Younglings, always making a mess. Care for a refill on your tea? I did hear you saying you liked it."
+
+"You were watching us?" I asked after nodding, it was some good tea.
+
+"From where?" Ulanion added, having not seen him.
+
+"I'm a millennia old archmage boy. I'm perfectly capable of being unseen if I want to be." He passed me my cup and turned again. "Let's go somewhere more comfortable though."
+
+As he led us to another side of the massive crater he asked questions. Where I'd come from, what the date had been, when I'd appeared in this world, and where, followed by general questions about the president, where he lived, other things that might indicate we were from the same reality. As we approached the wall he waved a bit and a door appeared.
+
+"I'm surprised you didn't just teleport us or something," I remarked.
+
+"While I don't think anything bad would happen, I am very cautious about that sort of thing near what appears to be an area effected by a massive, inter-dimensional spell."
+
+We were led into a small sitting room with a few homey looking couches arranged around a small clearly fake fireplace. They looked nothing like what I'd seen in the palace, and if I had to guess I would say he was running something close to a mix of cottagecore and professor's study down here.
+
+"I've answered your questions, now I'd like to know why you asked them." I sank into one of the poofy couches as he found an armchair. Ulanion had been fairly quiet the whole time and just looked around scowling.
+
+"Everyone so far that I've met from our world and time, and I am presuming it was the same for us both, came from the eastern seaboard. All were alone when they passed into this world, seemingly isolated. One reported being on an island that seemed barren except the rock and pool, and found themselves turned around and brought back if she tried to leave. I myself was rather isolated in a bit of forest, injured and alone. Whenever I tried to move away from the pool and vines I felt a terrible terror," he explained
+
+"Same for me, in a cave... the fruit?" I asked.
+
+"Nasty thing, haven't seen one from these vines yet, no idea why. I believe that they were meant to bring us here." The old elf shrugged.
+
+"Why?" I asked.
+
+"I don't know."
+
+"What do you know?" It was frustrating having gone through all of this to not have any of the answers to questions that had popped in and out some nights as I drifted to sleep.
+
+"I don't think the dragons are from this world. I think they're from ours. What I don't know is about the when, or the why that they came here. I also don't know why us, but I can tell you this, our magic is ever so slightly different than the magic from this world."
+
+"The bubbles?" I asked, noting that his aura was quite a bit like mine.
+
+"Yes, all of us have it."
+
+"Why then do you think they're from our world?"
+
+"Didn't you notice?" He looked a bit disappointed. "The eggs, they're boiling off mana, those are the same bubbles as we have."
+
+I thought back and sank into the sofa. That... was a lot to process. "So it transferred our souls here? Is there even math for separating out a soul? That would be..."
+
+"That magic out there is beyond anything I've seen Alana. I don't understand much of it and I've been trying to work it out for thousands of years. As for the soul, there was an idea that people were observers, seeing and therefore in a sense creating reality, making the possibilities become one. We certainly weren't the only things that could look at stuff, but does that not indicate that there's something like a soul? An observer must always observe after all, at least that's what I think. And what is magic but observing reality and making the conscious choice to change it?"
+
+I had a small existential crisis as I tried to process all the implications of that little theory. I didn't know if he was right, and I suspected he didn't either. That said, it did sound plausible, and he did certainly know more about magic than I did, even a slouch would pick up a lot of knowledge after so long, and if he was the creator of the core, he was no slouch.
+
+"Why did you abandon us?" Ulanion asked, seeing that I'd be taking some time to process.
+
+"It was for the best."
+
+"We needed you, most people think you're dead," he accused.
+
+"It's better that way." Justin seemed very, very tired as he looked at Ulanion, and very sad.
+
+"You lead us to a bright future, only to leave us and let us fall back again. You owe me some answer for that, for letting all those people suffer."
+
+"You weren't there child. We advanced, became strong, but as we conquered we did terrible things my boy, horrible, terrible things. It was so easy, we were so strong with what I'd introduced, so much stronger than anyone else. We became cruel, even me."
+
+"We civilized the continent, and then everything else as we spread, across the oceans and..."
+
+"And to where the humans lived. I missed it at first, separated as I was from my soldiers, but many raided. They took slaves, and raped women, and smashed the skulls of infants against the ground. They burned the small villages the human had and took anything of value. When I learned I tried to put a stop to it, and wasn't as successful as I would have liked."
+
+"We wouldn't..." the archer tried to butt in.
+
+"We were powerful boy, too powerful. Power corrupts, and that much power turns good folk into monsters, never forget that." Justin's eyes hardened as he looked at the younger man.
+
+"But you didn't..."
+
+"I did, things happened, and I now live here in exile so that I might never commit such atrocities again." His ancient eyes fell a bit.
+
+"And now you let atrocities occur above your head." Ulanion said bitterly, seemingly still sore that the man he'd been told was a hero all his life now claimed to be anything but.
+
+"What?" Justin asked.
+
+"The umbral wolf."
+
+"What? What umbral wolf?"
+
+"The one that was living in your facility, trying to wipe out the nearby village?" Ulanion said.
+
+"Was? Did you get all of them?" The ancient mage looked alarmed, having apparently been down here so long he'd missed the carnage up above.
+
+"All of them!?" I shouted.
+
+"Yes, they're wolves, they travel in packs." I felt terribly dense as that was pointed out to me.

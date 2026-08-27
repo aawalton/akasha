@@ -1,0 +1,89 @@
+---
+id: bdaa5c91-2986-5cc6-91b4-4cedb175df34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 289 Moving Forward"
+slug: 0304-chapter-289-moving-forward
+partOf: melody-of-mana
+position: 304
+ownLength: 1520
+unit: words
+ownProgress: 1520
+publishedAt: 2023-12-02
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1429406/chapter-289-moving-forward"
+royalRoadId: "1429406"
+markedReadAt: "2026-06-29T22:36:19.371Z"
+---
+
+Lena
+
+I swore under my breath as I tried to patch up some of the injured elves. My group was strong, but they acted as if they were immortal, diving in with no real plan, no idea what they were going to do. Worst were the elves desperate to prove their worth, always being places they weren't supposed to and doing things that would get them killed.
+
+My mana wasn't infinite, and I'd been running through it as fast as I could over the past few days. Never did I have a chance to fully recharge, never did they let me get a good time to rest. If we didn't change things up, and soon, there would be injuries, there was no way around it, injuries that I wouldn't be able to heal in a meaningful time. Surely the others were as tired as I was, they had to know that.
+
+At least the place we were now had more than just us. There were a few useful talents in this little compound, ramshackle as it was, and one exhausted mage.
+
+“Where in the world is your army?” I asked one of the soldiers laying nearby, his wounds weren't that serious compared to the man I was aiding right now.
+
+“Everyone's been rushing to the city. Reports are sparse, but it looks like most of the survivors went to hide there. Even with the extra people though there are a lot of these damn things. They're swarming every large group,” he replied.
+
+“So your what, splitting into smaller units?” I asked.
+
+“Yes,” the wizard who'd put the walls up interjected, limping her way over. “We were only about twenty when we got here. Some of the local authorities had armed themselves and gathered what survivors they could. Seeing the disaster it looks like all of their casters went to the city to get aid, and never returned.”
+
+“Then you guys came in from outside...” I led him.
+
+“And found nearly a hundred near helpless civilians under siege from those things. I barely got the walls up in time,” she replied. “Thank you by the way.”
+
+After we'd shown up and taken down the current wave of hostiles there was an eerie calm. The defenders had been under attack from multiple waves it seemed, each whittling down on their defenses. The soldiers had numbered twenty, according to the wizard who was now resting, but numbers didn't lie. There were only around seventy people left from the defenders, just over half of the original number.
+
+That night Omos called a meeting between our group and the leaders of the soldiers here. He was the nominal leader for us, and though a lot of what he decided seemed obvious he'd actually stepped forward to do it. There was something to that, making a decision in a pinch was needed, without someone to do so we'd probably all still be sitting back on that hill from the first day getting swarmed.
+
+He began by looking at the elven wizard who seemed to also be their commanding officer. “We need to discuss what we'll do,” he declared.
+
+“Since you lot all appear to be students, we'll wait here for backup,” the woman replied.
+
+“That doesn't seem viable. These monsters seem to be getting more dangerous and aggressive, not less, and with the number of people here I have to consider other options.” He sighed, tired.
+
+“We must protect the people here regardless. It is our duty as elves of power to secure the lands, surely you know this?” she responded.
+
+I was glad to see Omos clench his jaw, not giving an inch. One had to have their ideals after all. “My companions and I are not from Atal. While I'm sympathetic to your current plight, and more than willing to aid where I can, my duty is to them, not the people of Atal.”
+
+“We cannot abandon these people though, that wouldn't be right.” As I spoke it stuck to me, stuck into my magic. I knew that if I tried my spells would start to fail, start to wither and die as I betrayed my own self. That was the weakness of any priest, but also our strength.
+
+Both sets of eyes settled on me, blooming in understanding. The others in the room held back for now, watching to see what would happen. The commander looked triumphant, but Omos was the first to speak.
+
+“I don't suggest we abandon anyone, but rather evacuate them. We get the people we can to safety, and then my friends and I continue on. If I return home I will petition my father to send all the aid he can, and it will be easier for him to do so if we succeed. I know him, and he won't let people die like this if it can be helped.”
+
+“My orders,” the woman told us. “Are to move towards the city. I merely got delayed here.”
+
+“Your orders,” Omos replied. “Are going to get these people killed. You know that, I know that. Let's say you and your men do continue on, do they survive? Not even a night.”
+
+“Not if you lot stay,” she countered.
+
+“Even if we stay,” I objected. “These attacks are getting worse. The one you were under when we arrived was the worst we've seen since the big one attacked the city. Maybe the soldiers get them cleaned out soon, but not soon enough to save everyone. We can save this lot by going further inland, and if we return home I think aid will quickly be on its way. My Order would almost certainly want to help as well if they knew.”
+
+We were keeping secret for now that there might be another portal. If it panned out it would be world-shaking that nobody had disclosed it, and probably destroy trust in the kingdom, but it would allow us to help. Of course there was still the option that it didn't exist, and in that case we'd be giving hope where none existed.
+
+“We'll give them an option, go with you or stay,” the elven woman declared before leaving us. It was easy to tell she wasn't happy about our refusal.
+
+I held Omos back while everyone else went to find a bunk. “You will make sure that someone comes to aid these people right?” I asked him.
+
+“If father won't send someone I'll fight my way to the gate and come back myself.” He scratched his head. “Look, I can tell that you are a bit conflicted about this, and if you want to stay, or go with the soldiers I won't object. I'll admit that what I am doing is a bit self-serving, but getting to that gate could get them both material and physical aid, and I'm not letting anyone else take that mission from me, I can't trust them to.”
+
+“I'll come with you, so long as they do,” I told him.
+
+Alana
+
+Stupid kids, doing stupid heroic kid things. I'd nearly revealed myself during that battle to pull them out of the fire. This was getting out of hand, completely out of hand, and these little idiots all needed to get out of here.
+
+The moon was bright and I teleported myself past the wall, quickly popping outwards and down the road they were supposed to be headed for. So long as they didn't try to go anywhere else tonight they'd be fine, but I was going to clear the way ahead as best I could.
+
+The moon was unusually bright as I headed for the highest places I could find, looking outwards. I got atop hills and the highest trees and buildings around, using my lens trick to look for any lingering monsters. An hour in I found what I was looking for.
+
+A group of the things was swarming a house, and there were nearly as many of them as there had been at the little makeshift fort. Several were chewing on dead bodies while a few others were... molting? Oh hell no! Quickly I began to spin up a spell, gathering the potential until the air seemed to crackle.
+
+The spears of lightning I sent down arced between each one, seeming to hone. Experience had gotten me good and while it took me a few moments, when I was done there was little more than smoking shells left behind. These days I seldom found myself in fights, and while I wasn't quite as good as Dras was in a fight I was still one of the strongest mages in our kingdom. Give me another thirty years and I might even start calling myself an archmage.
+
+Unfortunately the people in the house all appeared to be dead, which saved me from having to try and help them, but was still depressing.
+
+As soon as my mana had recharged a bit I leapt up again. I could spend a couple hours out here doing this, and if I could get them all my kids would be safe from any more of their own good intentions.

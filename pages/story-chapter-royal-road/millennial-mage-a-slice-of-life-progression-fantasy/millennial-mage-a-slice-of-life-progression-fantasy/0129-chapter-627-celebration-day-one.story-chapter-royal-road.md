@@ -1,0 +1,199 @@
+---
+id: 64ec1c81-e71e-5d29-a7f6-cbfe93a69b86
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 627 - Celebration: Day One"
+slug: 0129-chapter-627-celebration-day-one
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 129
+ownLength: 3037
+unit: words
+ownProgress: 3037
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2708308/chapter-627-celebration-day-one"
+royalRoadId: "2708308"
+markedReadAt: "2026-06-29T19:39:25.584Z"
+---
+
+Tala’s whole family arrived slowly, coming into her sanctum as usual, despite Bandfast’s more-than-functional teleportation tower.
+
+She smiled at that, remembering her own arrival in Bandfast as a new graduate. As she considered that, she recalled how many of her siblings had arrived in her sanctum rather than the Bandfast teleportation tower.
+
+Did I take something from them? Lessening their experience by giving them such a familiar and familial landing?
+
+-Lessen? I think not. Change? Absolutely, but wasn’t that the point? You wanted your siblings to be better connected than you were. You wanted to use your power, prestige, and connections to give them a better start than you had.-
+
+Yeah… Was I right to do so?
+
+Alat huffed a laugh within Tala’s head. -You’re asking that now? When you only have Sella left?-
+
+Tala shrugged, watching the receiving spells move closer to activation. I just never really considered it before. Better to fix it for one than none?
+
+Alat grunted. -I suppose… Honestly? I don’t think it’s an issue. No two people’s experiences will ever be identical, and all we can do is our best.-
+
+Tala drew in a long breath and let it out slowly, smiling as the first people began to appear. Thank you, Alat. Even if you didn’t actually answer my question…
+
+-You are quite welcome. I’m glad you know that you’ve gotten the only answer I’ll give.-
+
+Her family arrived over the next hours, while she greeted them and sent them on to Rane and Lea, where they were acting as host and hostess, talking, playing games, and feeding those who arrived, as they did so.
+
+Interestingly, Lea was engaging mostly with the adults, here at the beginning of the event, and Rane was greeting the kids, tossing them up, or giving them treats, or telling them quiet stories while their parents were diverted toward less kid centered activities.
+
+Kedva and her assistants were practically whirlwinds in the kitchens, having been working for days to prepare for the three days of celebration.
+
+Mistress Petra had taken on an assistant role in her last few days while Kedva was heading up the food. Now, Kedva was truly on her own as head, given that Mistress Petra—and Master Simon—were going to the teleportation tower to greet Metti Zuccat as she returned from the Academy.
+
+They were the primary reason for the superficial change of location. Metti’s soon-to-be master was in Bandfast, and the Zuccats were retiring from life with the Sappherrouses back to their previous home in Bandfast, planning on living out the remainder of their days there, with most of their children and grandchildren.
+
+In one sense, the departure of the Zuccats was monumental. They’d been with Tala, Terry, Rane, and Kit for years. With them leaving, the tenor of the sanctum would change. The lack of their centuries of experience—and their steady hands guiding the ancillary things within the sanctum—would be felt, even though Brandon, Adrill, and Kedva had spent the last years working up to this exact handover.
+
+Because of that, in most other senses, there wouldn’t be much of a change at all, and Tala wasn’t really sure what to feel about that. Shouldn’t she care more about the departure of those she’d known for so long?
+
+She did care, obviously, but it was also just one more thing, just two more people moving on.
+
+Tala had a moment of emotion, remembering the weekly family meals with the Zuccats, how she’d watched Segis and Metti grow and then leave. Rust, she’d spent more time with the Zuccat’s youngest than with her own siblings.
+
+The parents had been stalwart in their support and impactful in their advice for years.
+
+Now they were going to be gone.
+
+Tala… didn’t know what to do with that. It wasn’t a shock. Rust, they’d been planning this for basically as long as they’d worked for Tala, but it was still… so final.
+
+They would never work in the sanctum or Ironhold again…
+
+Gone…
+
+Forever.
+
+She shook herself, smiling at the next arrivals as they materialized to draw her from her reverie, and allowed her mind to move onto the final thing regarding the Zuccats, mainly, their daughter Anna.
+
+Anna was planning on joining her parents in Bandfast—she’d already connected with a local clinic, and had a position reserved for her—once Latna ‘graduated’ from her apprenticeship in Marliweather. That should be soon, now that Tala considered it.
+
+Anna had remained in Marliweather this time to help mind the Karweil’s store. She was planning on coming to greet her sister in the coming days, after Tala’s siblings returned home.
+
+As to Latna in particular? If everything went as the family expected, Latna would be betrothed to Master Leighis as soon as she was a Mage in her own right, and they’d be wed after the traditional year of planning for their life together. During that year, Master Leighis would be retaking his position as ‘the’ Healer, partnered with the Karweil Alchemist Shop, staffing the attached clinic.
+
+As to Latna and Master Leighis, there was still a bit of… gossip wasn’t quite the right word, but it fit well enough, about the pair, given their initial master-apprentice relationship—mainly, it seemed that the twins, just younger than Latna, thought the whole thing was quite scandalous—but the long years of separation and purely social relationship after Anna took over Latna’s training, had removed most, if not all, of the lingering concerns.
+
+In that vein, Tala and Rane had invited Leighis to the celebration as well, both extending the olive branch, and putting their tacit consent behind his inclusion in the family. Nalac was quite excited to have Leighis at the celebration and had asked after the man as soon as he’d arrived, but Tala had had to tell her brother that the Healer would be coming later.
+
+On a personal level, both Tala and Rane were both still a bit… uncertain about the whole thing. Even so, Tala reflected on the fact that she, herself, was thirty-four. With Latna being thirty-two, she was well and truly an adult and capable of making her own choices. That added to the fact that Rane and Tala didn’t feel it was their right to tell anyone whom they should love, and whom they should spend their life with.
+
+As a matter of the soul, it would be hard to say that there was a more personal type of decision.
+
+That was what it boiled down to, so it made their stance easy.
+
+Tala and Rane didn’t differ greatly in their stance than the family at large, but their overt acceptance of Master Leighis had apparently smoothed out some of the remaining uncertainty, since there wasn’t the constant presence or power imbalance involved. As to how Tala had all these details?, Latna had been very, very grateful to both Tala and Rane for inviting him when accepting her own invitation, and she’d gone into great detail as to why she was so grateful.
+
+When Latna arrived, she gave Tala a large hug, thanking her in person. Latna then waited for Master Leighis who arrived shortly after. He gave Latna a quick, chaste kiss, before bowing deeply to Tala and thanking her profusely.
+
+When he stood back up, Tala gave him a more familial bow, going lower than would otherwise be appropriate given their disparate levels of advancement.
+
+“Congratulations on the start of your Refining, Master Leighis.”
+
+Latna burst into a bright smile off to one side as Master Leighis bowed once again. The two went to join the others together, Nalac quickly coming in to greet the healer warmly and draw him into a group conversation.
+
+The arrival of the rest of the family was largely uneventful.
+
+There were far more children these days, and Tala had honestly lost track. That wasn’t because she couldn’t remember, but it seemed… less important?
+
+Rust, she rarely thought of her siblings, even less frequently about their spouses—though Tala still enjoyed her interactions with Verla, Caln’s wife—and their children almost never came to mind.
+
+There had been some half-hearted inquiries on if she and Rane would take any of the nieces or nephews on as magelings, should they go to the Academy—debt wasn’t an issue as the family was making plenty to pay all the Mage aspirants’ tuition.
+
+Tala had shut that down, maybe a bit too firmly, and it hadn’t come up again. In truth, Tala was afraid she would ruin the little mageling, if she took one on, and Lea and her own Reforging was taking enough of her time, regardless.
+
+None of her siblings had Bound, and from what she could determine, it was somewhat unlikely that they would. She’d come across many of the notes of their masters, and they likely would only even be taught the Archon Star spellforms, explicitly, at the very end. That meant that they’d likely live longer, before ending their extended lives as founts, but it also meant that none would live truly extensive lives.
+
+Latna was the obvious exception to that otherwise universal truth about her siblings. Master Leighis’ belief that she could become an Archon had been joined by Mistress Vanga’s similar assessment—when the older Refined came to assess her former mageling’s apprentice and ensure that everything was proceeding well—and without the bias of attraction being involved, Tala was more inclined to believe Mistress Vanga’s assessment.
+
+Aside from the Karweils—present and former—and their spouses—present and future—and their children, the celebration was to include a lot of Irondalians.
+
+They would arrive later, and they would include the heads of the various groups within Ironhold. There were several growing merchant groups who had been invited, craftsmen of various sorts, some teachers and researchers, and even a few farmers and gardeners who were in charge of both cash crops and those for the enjoyment and partial sustenance of the other citizens.
+
+But again, they would be coming mainly to the large meal at the end of this first day, and possibly to the general get-together the day after. It was a chance for them to make connections with the Sappherrous family, the Karweil’s and the other influential people who would be in attendance.
+
+Lyn and Ron came early, joining Rane and Lea in greeting and entertaining the arrivals, even as Tala maintained the foremost position as scattered arrivals continued to roll in through the gate that they’d opened into the sanctum.
+
+It was a bit funny that the Irondalians had to exit Ironhold and walk a bit through Bandfast to where the sanctum’s entrance had been set up, but that’s just how things went.
+
+Lyn and Ron were finally, officially, betrothed, the former having stated her desire to revisit the idea of Refining—she’d apparently already connected with, and thrown considerable resources behind Mistress Sae’s long-running research into more ‘gentle’ gradual Refining—while the latter had joined Adrill and Artia in investigating exactly how long the reborn might live, and how that could be limited.
+
+They were also connected in their similarities of a gateless man marrying a gated woman. Lyn was, as stood to reason, quite interested in what Artia had gone through in birthing a gateless, and what could be done to mitigate the potential risks of harm. Moreover, it seemed that the four were starting to spend quite a bit of time together, the older couple seeming to take on a mentoring role to the younger.
+
+There were apparently long nights of discussion about the very idea of choosing a spouse, as well as choosing to have a family and all the joys and trials therein.
+
+Additionally, it seemed that Ron was more interested in living and dying with Lyn than marrying her and then continuing on after she passed. In the same vein, Lyn wasn’t really interested in marrying a man, then effectively being the ultimate reason for his demise. Artia was still struggling with this potential possibility herself, and it was the primary reason she was so vehemently pursuing magics of her own. The woman was actually inscribed and fast moving toward the competency of a Mage.
+
+In a way, it was sweet, but Tala was a bit conflicted about how both were seemingly changing their personal desires to bend toward the other’s circumstances. Though, in that vein, wasn’t that the core of any healthy relationship to one extent or another?
+
+This just seemed a bit more extreme than she thought reasonable.
+
+I was willing to marry Rane, and simply be single once he passed. I don’t know that I’d have tried to find a way to die with him. Their situations weren’t identical in the least, but the comparison was still there. She’d decided that such a sentiment didn’t mean she loved Rane less, but it still stirred odd feelings when she contemplated it. Even the idea of immortality without him… so many others were already drifting away, but to be without her partner?
+
+She didn’t want to even consider it.
+
+So, she didn’t.
+
+Lyn took on a secondary hostess role, especially until Tala greeted the last guest that was teleporting in. She pointed the way to various activities, helped organize sub-groups for those activities, or even just walked around the grounds.
+
+She ensured everyone knew where food and drink was available, as well as the myriad facilities.
+
+Alat and Tala had closed up or covered over anywhere they didn’t want the guests to go, so there really was an ‘unlimited’ range for them to wander about in.
+
+Walden’s forest was off limits. Given its nature as an actual forest with predator and prey alike, it wouldn’t be safe for any of the mundanes—or even many of the magically inclined—to wander about in there.
+
+Alat had created a bubble of hardened air around it, allowing the portal to the sub-hold to be seen without being entered.
+
+One of the older children—while still being less than five—tried to run into the ‘pretty door’ and bounced off. It was Mita’s eldest… or maybe Akli’s? Tala couldn’t remember—if she’d ever known—and didn’t let Alat remind her.
+
+His name was Timmy or some such, and Tala had to keep herself from laughing at the mini-tantrum he threw when he couldn’t get where he wanted to go. That lasted until one of the uncles came by and led him away.
+
+The last of the Karweils had arrived when the Zuccats arrived, Metti in tow. As such Tala was able to greet her now-former employees warmly, congratulating Metti on her graduation, and welcoming them to the celebration.
+
+Tala was still saddened that the Zuccats had decided that they were ready to retire and spend their last years with family. But, as they would never be Refining, it made a sort of sense.
+
+In truth, she wasn’t really surprised, and the timing allowed this celebration to also be a send off for them, partially at Lea’s insistence.
+
+The family was greeted warmly by Karweil and reborn alike, the Zuccats having long been features of the sanctum and Ironhold as a whole.
+
+Moving on, Ron was hardly the only reborn to attend, either. Most were Talons—many of whom Lea had sparred with before her long seclusion—but some few were not—essentially those who were the martially dis-inclined spouses of the Talons. Then, there were the few reborn children like Talax. When they joined the cousins, the games shifted, much to Lea’s obvious uncertainty, but when Talax challenged her directly, they broke into teams, with those two as the ‘heads’, picking people for the game.
+
+That… made Tala nervous. Letting Lea interact with others in a tame series of interactions was one thing. In a highly competitive one? That was something else.
+
+Talax’s involvement was another factor, as the boy seemed to bring out both the best and worst in Lea.
+
+The ra-ball game was both surprisingly vicious, in that it seemed that all the kids involved gave it their all—when magic wasn’t factored in—and surprisingly sporting, in that the reborn children—and Lea—were obviously pulling their use of magic so as to keep the mundane children interested.
+
+The fact that the reborn were sweating and breathing hard was evidence enough of that.
+
+Kedva joined Tala on the sidelines, watching their children compete, and they both enjoyed the camaraderie of competition, just as they hoped their children did.
+
+The younger woman whispered in a conspiratorial tone, fully aware that both of their children were likely able to hear anyway. “It's cute how they’re holding back around the other children.”
+
+Tala quirked a smile at the comment. “Though, they don’t hold back as much when it's just the two of them, head to head.”
+
+“Regardless, both of them are showing impressive control. They haven’t broken even a single stick yet.”
+
+“True, though I was more concerned about the leather ball popping under a too-strong strike. Though, you’re right, they are both showing impressive restraint.”
+
+Kedva’s smile turned full of pride. “I fully agree.”
+
+Lea’s frequent glances toward where Tala watched showed that the girl was, indeed, keeping her needed restraint and control solidly in mind.
+
+The adults mainly stood around and chatted, though some participated in other games, and as the majority of the guests arrived, it turned into a true celebratory event.
+
+Rather than having a single, large sit down, various groups of guests were flagged and set down for mini-meals for short periods, to encourage mixing and mingling.
+
+Each guest was involved in three or four such mini-meals over the course of the fun-filled afternoon and evening, ensuring they had plenty to eat and got some ‘forced’ interaction with a wide spread of the other guests.
+
+They also made sure that every guest had at least one such meal with Lea, Tala, and Rane.
+
+All told, Lea had an absolutely fantastic day greeting guests, playing games, chatting, and eating her favorite foods, and she was incredibly excited. She hadn’t had a single slip up that day, and if she did just as well the next?
+
+She’d be exiting the sanctum once again, at long last.
+
+Now, that is sure to feel like a birthday treat.
+
+-Yes, indeed. But let’s not get ahead of ourselves. I do wonder what tomorrow will bring.-
+
+Me too, Alat. Me too.

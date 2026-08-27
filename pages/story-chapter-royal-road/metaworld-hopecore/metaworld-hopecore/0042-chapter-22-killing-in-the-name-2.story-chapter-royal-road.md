@@ -1,0 +1,201 @@
+---
+id: 3eacf799-b7ec-50ee-b848-1dc6c4d93785
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 22 - Killing in the Name (2)"
+slug: 0042-chapter-22-killing-in-the-name-2
+partOf: metaworld-hopecore
+position: 42
+ownLength: 2525
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369035/chapter-22-killing-in-the-name-2"
+royalRoadId: "3369035"
+---
+
+William Chen was enjoying his Friday night at the club, plucking out girls and flirting with whomever he felt like, inviting them to his VIP section to watch them fawn at his feet, when suddenly, his Friday night ended with a single call.
+
+After politely listening to an escalating rant that seemed exponential, he passed the phone to an aide, arrived at a quiet side room, then pulled out another phone to call his dog.
+
+“Chen-ge?” His subordinate answered after only two rings. “Anything the matter?”
+
+“Wang,” William’s voice was dangerous and low. “You told me that you kept the blonde bitch out of Valorie’s way.”
+
+“They have not crossed paths,” the voice returned. “If you recall, I have sent you the dossier. She has enrolled in nothing that would remotely compete with San-jei. Their Showcases are not even in the same theatre.”
+
+“Then why the FUCK is the bitch on TV?” William shouted into the speakerphone. “Now this shit is on me, apparently.”
+
+“TV? Chen-ge?” The voice sounded genuinely confused. “Who watches TV these days?”
+
+“Your San-jei! You dumb fu—never mind,” William held his anger. “What do you have to say for yourself?”
+
+“I have been lax,” the voice replied stoically. “How can I make it up to San-jei?”
+
+“Oh, NOW you want to make it up to Valorie,” William growled. “I ought to leave your cats to fucking freeze to death in the god damn basement, you dumb piece of shit. You should have died on the god damn boat with the rest of your imbecilic clan.”
+
+This time, there was no comeback bark from his dog.
+
+William sat, throwing his body into the heavy couch. “What does my father know?”
+
+“Master Lee-Kwon does not know of Ms Fontaine.”
+
+“Blonde bitch is a finer name,” William huffed, still too annoyed from having to listen to Valorie to return his mind to its usual civility. On second thought, however, his rage softened. “Fine, fine… Ms Euphemia Fontaine. We’re not FoBs.”
+
+This was because the girl was now of interest to him.
+
+When he’d last seen her, she was a skinny, raggedy-doll kind of thing, hardly deserving of his attention. When Wang showed up with the pictures of her in class, jogging, eating, and in the theatre, William felt his whole frontal lobe light up with delight.
+
+The fruit was not yet ripe, but what a delectable fruit it was!
+
+Like Luciana Mio, the girl turned out to be just his type. Who could have imagined that, from the shattered cocoon of a common moth, a glass-winged butterfly could emerge.
+
+And if there was anything that delighted William, it was the plucking of fresh fruits and the tragedy of insects.
+
+“So, how the hell did she get on TV? Not even your San-jei has made it to cable,” William asked.
+
+“Unclear,” came another infuriating answer, though William was now in a better mood after thinking of the girl’s unspoiled sweetness. “I will find out.”
+
+“Please do, before things spiral out of control. I can only hold back Valorie so far before she goes off on a tangent of her own. Then we’re both in trouble.”
+
+Taking into consideration his father’s very stern warnings, William settled for the next best thing to keep Valorie silent. A part of him could not forget the thrill he had felt that night, but his fear of losing his father’s favour was greater, at least for now.
+
+“You know, with the Sophomores, their theatre craft isn’t so well-practised,” he said to the speaker phone. It was a wicked thing to do, but the girl could only blame herself. If she had simply stayed put and kept out of Valorie’s way, she could have graduated in three years and found a normal job somewhere and had a perfectly normal, happy life.
+
+“Chen-ge?”
+
+“I know it's cliched,” William chuckled. “But it isn’t insane to think that someone so ardently in pursuit of fame might… break a leg.”
+
+Los Angeles. Chinatown.
+
+Five Root JKD Association.
+
+Fat Lim Wang stowed the phone in his pocket.
+
+Slowly, the sounds of the real world returned to him.
+
+Fists on leather paddles, shins on kick bags, the grunting of men and women working routines. The sound of full-contact sparring in the adjacent rings.
+
+“Wang-ge, does Chen-ye have new orders?” One of the boys, Lu, approached without expression. “Who owes the boss money this time?”
+
+Wang was glad that, at least for now, the “Boss” was Lee-Kwon Chen and not William.
+
+“Not the boss,” Lim refocused his mind, then returned to his craft.
+
+Lu followed with a “Pokgai— So it's the young master again.”
+
+With a series of smacks and strikes faster than the eye could follow, Lim blew through his Muk Yan Jong routine, setting the dummy to vibrate.
+
+His friend watched with interest. “You’re angry. Is it a girl again?”
+
+WHACK—! The wood shuddered.
+
+The noise was enough to summon the other members of his team, his “crew’ of Five Root fighters who made up the core of the Association’s elites. On the surface, the Five Root JKD Association was one of the premier martial arts academies of Chinatown. They had classes from kindergarten to adults, offering an elaborate system of belts in wushu across the Los Angeles valley.
+
+Compared to Halls for the wealthy whites who came for exercise and mindfulness, however, the Chinatown branch was a little different.
+
+Unlike the other Muguans, here was home. It was not, as the Japanese could say, a “dojo”, but a kwoon of the Wang, Lu, Bian, Li and Meng families, housing the plaques of their ancestors. It was a family home, a place where they had laid down their roots—hence the Five Root Hall.
+
+In Chinatown, their families were also beholden to the Chens; it was William’s grandfather, Lee-Ming Chen, who had organised the defence of Chinatown against greedy land grubbers. He had established the Omnia Construction Group, aided Chinatown’s residents, and established commissions to facilitate Chinese ownership of land and property.
+
+True to his father’s legacy, Lee-Kwon Chen continued Omnia’s focus on anti-gentrification, tenant rights and rent control. Out of the public eye, Omnia also worked extensively with the local community to resist the work of hostile immigration departments during Republican administrations, because every election season, Sino-phobia was a bingo. Lee-Kwon Chen also sponsored the children of the families for college, paid for medical bills, and supported those whose families had fallen on hard times.
+
+Chen-ye, AKA Elder Brother Lee-Kwon Chen, was therefore the de facto saviour of Chinatown.
+
+But power, as it's often taught in history, was a corruptor.
+
+Lee-Ming Chen was the man who had stepped up when no one else could. His reward, as a result, was the love and support of the community as it rebuilt and expanded upon itself, becoming a Los Angeles mainstay.
+
+Lee-Kwon Chen was the boy who grew up watching his father’s work, but spent his adult life basking in the glory of wealth and prestige. His generosity was different to his old man’s magnanimity. Lee-Kwon’s generosity was both performative and purposeful, and those who took it had to repay it however they could.
+
+As for William Chen, there was that classical Chinese wisdom:
+
+“Wealth does not pass three generations.”
+
+Whatever the case, the five families and their hundreds of descendants owed a great deal to the Chen family and had yet to repay the Chens in a capacity that could absolve their debt.
+
+This was why, though William Chen was the youngest of the current generation, they called him “Senior Brother” as a sign of respect for his father, to whom their families still owed allegiance.
+
+Of Wang’s crew, there were five in all. One tribute from each family, all first sons and a daughter.
+
+Fat Lim Wang.
+
+Luis Bu.
+
+Jimmu Bian.
+
+Edson Li.
+
+Kitty Meng.
+
+Like their fathers before them, they were students of the Five Root JKD Association and the Chen family’s problem solvers. Thankfully, the knife and hatchet jobs of the early 90s were too bloody for Chairman Chen. Instead, he desired that the next generation gain college degrees to aid the Omnia corporation with their import, export, mortgage and white-collar operations.
+
+On paper, it was a magnificent gesture of generosity. In reality, Chairman Chen owned the shopfront of Wang’s restaurant, Bu’s nail salon, Bian’s tailor shop, Li’s grocery store, and Meng’s medical practice. Breaking with the Chens invariably meant that the whole clan had to uproot itself from Chinatown. And, with the exception of the five families' primary residences, the Chens also owned the homes of their relatives and extended family members.
+
+In the first stairwell of the Association, the five gathered.
+
+“Will wants us to do something to one of his LAPA Sophomores,” Lim reported without euphemism.
+
+“Cao—again?” Luis spat. “Does he really think we owe him? Or that he owns us?”
+
+“One more like that, Mio girl, and I am out, ”Edson growled. “Those god damn pictures are burning a hole in my house, man. Why the hell did I even ace the SAT if this bullshit is what I am getting up to?”
+
+“Shut up, both of you,” Kitty hissed at their colleagues. “Lim-ge, what do you think? How do you want to do this? If he wants her leg broken, maybe that’s the cleanest thing we can do. Unmarked van, quick in, quick out. Maybe a motorbike hit and run. Accidents happen after all. If need be, I’ll even stay and exchange insurance details with her.”
+
+“A-anything but having that a-asshole involve himself,” Jimmu stuttered. He was the youngest of them, closest in age to William, and had suffered the most bullshit. Once, William made Jimmu test a batch of bad weed just to see what would happen. In the aftermath, Chairman Chen had to apologise to the Bian family. Ironically, it was the acceptance of the apology that ended up driving a deep wedge between them, as the Chens had expected the Bians to simply swallow their shame. After that incident, Jimmu acquired an incurable stutter.
+
+“Actually.” Lim’s fists tightened. “We do nothing. Anytime he asks us to commit a crime on his behalf, we agree, then delay, while we wait for a better opportunity.”
+
+“Wouldn’t that piss him off more?” Luis asked. “Remember last time?”
+
+“Of course he’ll lose his mind.” Lim inclined his head. “He is someone who has no patience. But this time, he’s going to kick a tei-ban, an iron wall. The girl he’s after isn’t just anybody. She’s someone connected to the Mio girl, someone who is a prior victim of our young master. I’ve been tracking her since she mysteriously returned to LAPA, and here’s what I’ve found…”
+
+With a level of detail that his young master could not conceive, Lim laid out the strange achievements the girl has attained since her resurrection, from her original video singing Whatever Will Be, to her involvement with Sony’s legal department, to her visit to the Studio, to her rise to fame with Starry Starry Night, to her being flown out to the Met. Recently, the girl was even on TV. She was even a registered member of SAG and AFTRA. She had health insurance.
+
+“You want to use her to entrap William?” Kitty’s eyes grew large. “I can see it, but it’s too dangerous. What if Chen-ye finds out?”
+
+“The Chairman has high ambitions for politics. He wants to be like the whites, using their money to buy power—real power.” Lim shook his head. “Either he loves his son and defends him to his political detriment, or he drops William like the stillborn bastard he is. Besides, what is the Chairman going to do? Kick us out for his son’s transgressions? The Association won’t stand for it. Or if it does, that will be the end of what we owe the Chairman. Either way, Kwon will NEVER let this pass.”
+
+“W-what if h-he sends someone to k-kill you?” Jimmu raised a hand.
+
+Kitty rolled her eyes. “Jimmu, uncle Bian’s telling you about shit while drunk again, hasn’t he?”
+
+“Y-yeah.”
+
+“Dumbass. That’s not how any of this works in 2007,” Kitty snapped back. “There’s too much community policing in Chinatown these days. If anyone goes after us, our family will just flip on the Chens. All of our lives will be upended, but theirs far more than ours. Besides, if anything happened to brother Lim, the Chairman had better have his security ready. This is called collective bargaining. Did you pay any attention in school? Like, shit, Edson still has the god damn pedo photos. How fucked is that?”
+
+It wasn’t a funny joke, but the five of them laughed because it was better than just accepting the shitty situation.
+
+“Is the girl going to be okay?” Luis asked.
+
+“Normally, I’d say no,” Lim scratched his head as the girl’s face came into view. “But there’s something about her. She’s strong. Crazy strong.”
+
+And it wasn’t just her running something like a 5:30 mile either. The longer he was able to drag things out, the more exponentially influential the girl seemed to have become. When finally the time came to tell her the truth—what would she be able to do? Or perhaps, maybe she would arrive at the truth herself.
+
+“D-does she do M-M-MMA?” Jimmu asked. “Maybe she’s a m-m-Muay T-Thai fighter?”
+
+“No,” Lim shook his head. “She’s half the size of Kitty here.”
+
+“You calling me fat?” Kitty snorted, flexing her muscular thighs. “If she’s such a twig, how’s she going to defend herself against Chen’s thugs?”
+
+Jimmu raised a hand. “A-aren’t we the t-t-thugs?”
+
+“Shut up,” Kitty snapped. “I mean San-jei’s people. She’s got folks under her thumb, too. Desperate ones, like that black chick. She’s got fam for sure, and crew for hire.”
+
+“This is why, instead of making sure something happens to Eppie, we will ensure that nothing happens,” Lim made his final proposal. “Now isn’t that fun?”
+
+“Hahahah—” Edson suddenly burst into laughter. “Jesus Buddha, bro. Can you imagine the rage these two would get up to if they could do NOTHING to this Eppie? Oh my god. This is going to be glorious.”
+
+“Will and Val will slip up, absolutely,” Kitty concurred. “We’ll do as you say, Lim-ge.”
+
+“Thank you, everyone. I wish William and Valorie the best, but I don’t think either Senator Sanders or Chairman Chen is going to be able to protect their hellspawns from the consequences of their own actions…”
+
+And the consequence of fucking with my cats.And Mio... poor Mio...
+
+Then he thought of Eppie.
+
+She was like a cat in many ways. Skittish, soft and blue-eyed, happy in her ignorance, joyful in her innocence. She would make a good president for the CSULA Stray Cat Association.
+
+If he had another choice, he would not have wanted to use her as bait.
+
+But her and William’s fates were already entwined: and as the Five Root JKD philosophy taught its students, the way of water is that of going with the flow.
+
+Either way—be it when she’s done with William or William was done with her, the five families would be free of the Chens.

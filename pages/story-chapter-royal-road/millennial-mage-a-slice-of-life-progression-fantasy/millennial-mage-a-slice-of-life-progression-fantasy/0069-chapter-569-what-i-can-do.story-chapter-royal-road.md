@@ -1,0 +1,259 @@
+---
+id: 2f2a897a-7b7e-5572-8108-6a51c38376a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 569 - What I Can Do"
+slug: 0069-chapter-569-what-i-can-do
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 69
+ownLength: 2985
+unit: words
+ownProgress: 2985
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2316580/chapter-569-what-i-can-do"
+royalRoadId: "2316580"
+markedReadAt: "2026-06-29T19:37:30.218Z"
+---
+
+Tala and Rane sat with Master Jevin for an hour or so longer, talking of much lighter things. They ended their time for this visit—likely their last during this time in Makinaven—with Master Jevin extending an invitation for them to come to New Makinaven, which should be founding in the coming years as Alefast’s Waning was nearing its end, and Makinaven’s would be beginning shortly thereafter.
+
+Master Jevin would, of course, be staying in Makinaven as it waned, but when that finished, he would be taking the City Stone from this great tree to that northern city.
+
+They were welcome any time, even before the founding as there was always a need to thin the ranks of arcanous beasts in the lands surrounding cities around their creation.
+
+Rane and Tala thanked him for the invitation and promised to consider the offer.
+
+With that, they bid the ancient Reforged goodbye, choosing to walk back out into Makinaven proper.
+
+As they headed up toward the upper reaches of the tree—planning on a few stops before finding a pleasant way to end their last day in Makinaven—Tala noticed a little, out of the way healer and was hit with a memory.
+
+“One moment, Rane.”
+
+He glanced her way, then shrugged and smiled. “Alright.”
+
+He walked over to a little recessed bench on the side of the road and settled in to wait for however long she needed in order to accomplish what she had in mind.
+
+She hesitated, taking in his immediate, nonchalant reaction. “Just like that?”
+
+He chuckled. “Yeah, just like that. Do you want me to hem and haw? I could whine a little, but it would be painful for both of us.”
+
+She raised her hands in a warding gesture, smiling at his teasing. “No, no. Thank you.”
+
+His chuckle became a bit deeper as he leaned back and pulled out a book. “Take your time, my love.”
+
+Tala went to the door and stepped inside. It was just how she remembered it, and it didn’t take long to get a moment to speak with the same, but slightly older healer.
+
+She told the assistant that she didn’t need an actual appointment of any kind, as she just wanted to say hello to the Healer.
+
+When she had her moment, she simply stuck her head into the room, waved and said, “Hello, I imagine you don’t remember me, but I came through a bit more than ten years back. Regardless, I wanted to say thank you for your advice back then. Things have worked out pretty well for me, and I appreciate the time you took.”
+
+He blinked at her a few times, then smiled. “Well, I am glad that you are doing well. Is there anything that I can do for you, now?”
+
+She shook her head. “No, but thank you. I hope that you have a wonderful rest of your day.”
+
+“Oh… Well, thank you, Mistress. You as well.”
+
+With that, Tala strode out, not letting the social awkwardness of the encounter settle in. He had obviously not remembered her, but that was alright. If she’d wanted him to remember, she could have talked about her over-consumption of coffee, but that wasn’t the point.
+
+-Well, that visit was a bit uncharacteristic of you.-
+
+What can I say? I acted on a whim. He was kind to me last time I was in the area, and it seemed right to thank him for that.
+
+-Oh, I’m not disagreeing. I’m simply stating that it wasn’t really like you.-
+
+I’m often grateful, Alat.
+
+-Of course, of course. But your gratitude is most often not outwardly expressed.- The alternate interface chuckled. -It’s rarely even expressed within your own mind, even if you do feel it.-
+
+Tala internally rolled her eyes even as she let the Healer’s outer door swing shut behind her.
+
+Rane looked up, showing a hint of surprise even as he closed his book. “Done already?”
+
+She nodded and smiled. “Yeah. Thank you for waiting.”
+
+-Twice? In one day? What is Zeme coming to?-
+
+Hush, you.
+
+He smiled in return. “Of course. Ready to go?”
+
+“Yeah, I want to drop through the Culinary Guild and see if an old acquaintance is still working there.”
+
+“Sure. Those are good folk.” As they got walking once again, Rane frowned in thought. “I didn’t think you’d gotten close to anyone besides Brand in the Culinary Guild. Am I forgetting something?”
+
+She shrugged and chuckled. “I wouldn’t say close. I did say acquaintance. He was kind and professional when most of the rest of the guild was rather stand-off-ish.”
+
+That earned a grunt in return.
+
+When they swung through the Culinary Guild office that she needed, Tala was shocked to see Mages coming and going, chatting with clerks, cooks, and administrators.
+
+It seemed that the change in operating procedures had finally trickled throughout the organization, and the long-standing standoffishness with those wielding magic had faded seemingly entirely.
+
+-Long-standing standoffishness? Really?-
+
+Hey, you word it better if you know how.
+
+-...No time now. We need to ask about Sarenor.-
+
+Tala chuckled and shook her head.
+
+Their arrival was noted but didn’t cause much of an impact. Regardless, in less than a minute, Tala and Rane were approached by a clerk, the young man bowing as he drew near. “Master, Mistress, how can the Culinary Guild be of assistance today?”
+
+“I am looking to check on a Culinary Guild member whom I last saw in the city some years back.”
+
+By the young man’s suddenly rueful expression, he likely understood how varied ‘some years back’ could be for Mages. Even so, he kept a professional smile and attitude. “I will certainly do my utmost, Mistress. What was his name?”
+
+“I only got his first name, Sarenor. But he had a truly massive, rather well styled beard, which he kept in check with a dimensionally expanded mask?”
+
+The boy blinked a few times. “Oh! Well, I am afraid that he is not available, but if you are simply wishing for news of the man, I can convey some.”
+
+Tala smiled. “That easily? I was concerned that you’d have to dig through old records or ask around or something.”
+
+The clerk grinned. “Well, as you hinted, his beard is very distinct.”
+
+She huffed a laugh at that. “Well, then, yes. I would love news of him.”
+
+“He retired some five years ago, shortly after I took up this position.” He smiled fondly. “It’s one reason I remember so clearly, actually. He and his family moved to another city, though I don’t recall which. There was a large party for them, and he claimed that he, his children, and grandchildren would be opening up a restaurant.”
+
+Tala smiled at the good news. “That is wonderful to hear. Thank you.”
+
+“Would you like me to hunt up more information? I can likely find out which city he went to with relative ease.”
+
+She waved that off. “No, no. Thank you. I simply thought to check in, since I was in the city again.”
+
+The clerk bowed again. “Then, I am glad to be of service. Is there anything further that we can do to assist?”
+
+Tala glanced to Rane, and Rane shook his head. With that, she turned back. “No, thank you. I hope you have a wonderful day.”
+
+“You as well, Mistress, Master.” With that, he turned and dove back into the flowing crowds of people, getting back to work without a backward glance.
+
+Tala and Rane made their way out, before continuing their trek upward.
+
+After a few minutes of silence, Rane glanced her way. “What’s on your mind?”
+
+“Hmm?” She looked his way in turn. “Oh… It’s just that… he retired. I mean, he wasn’t young when I met him, but I wouldn’t have said he was old. Yet, in the time since I met him, he’s retired?”
+
+Rane shrugged. “He’s not done working, it seems. He just moved into a different business. Do you want us to find where he went? We can go back.”
+
+“No, no. It isn’t that. It’s just that…” She frowned. “Time is… slipping isn’t the right word. Rust, I can remember every moment between then and now, but it just feels like nothing. It seems like the barest of blips since I was here last, yet I keep encountering things that have changed so radically.”
+
+He put his arm over her shoulder and down to rest his hand on her hip, pulling her close and kissing the top of her head before responding. “And this is just the beginning. We’re going to see years, decades, centuries together. It will take time to get used to, but we’re going to watch generations of mundanes—and even less advanced Archons—come and go.” He frowned into her hair. “I don’t know how we will learn to cope, let alone thrive. Do what you need, and let me know if and how I can help. I’ll try to do the same.”
+
+She leaned against him, reveling in the feel of his embrace. “I will. Thank you.”
+
+They stood for a long moment before separating and continuing on their way.
+
+It was time to prepare to leave Makinaven and head to Bandfast. After all, Mistress Holly was waiting.
+
+-Yeah… she’s been messaging at least once a day since we left Alefast, Waning.-
+
+And you’ve been responding? Right? Tala had a moment of nervousness, thinking of the Inscriptionist’s messages piling up, unread and unacknowledged.
+
+-Of course. I’m not going to irritate that woman. Do you think I’m crazy? She mainly wanted information on what we’re looking for, spellform wise. She wants to have some things worked out before we get there.-
+
+Good. Thank you. I appreciate you handling that.
+
+-But of course.- After a moment’s pause, she teased. -And yet more gratitude. You must be exhausted by extending yourself so much.-
+
+…I would say gratitude retracted, but I really don’t want those messages to get ignored.
+
+-Oh, I wouldn’t do that to either of us… She’d know it was my fault.-
+
+Tala huffed an internal laugh. Yeah, she would at that.
+
+The remainder of the day passed pleasantly enough. Though, Tala was occasionally amused by seeing citizens of Ironhold rushing about, making last minute purchases or seeking to experience just a bit more of the city before it was too late.
+
+Her perfect memory and total insight into all happenings within her own dimensional space made it easy to identify all of her citizenry, even if their slightly different clothing styles and hurried actions weren’t clues enough.
+
+She hoped that no one made unwise decisions because of the upcoming departure. The citizenry really should have gotten used to moving about by this point. Though, with all the new citizens getting settled, she supposed it might make sense for some of them to be trying to acquire last minute items they hadn’t thought to get before.
+
+I’m so glad that Lyn is handling all the onboarding and logistics.
+
+-We really should pay her more…-
+
+She sets her own salary.
+
+-And balances the budget. We need to tell her to pay herself more.-
+
+Fine, fine. You’re probably right.
+
+Tala and Rane each did some final acquisitions as well, theirs being larger than all save those of the merchants, who were gathering goods for resale in Bandfast or Alefast, Waning.
+
+With that done, they had a quiet meal together in a restaurant high up in the trunk, sitting near a window looking out into the canopy so that they could revel in the cool reddish-green light of the sunset among the leaves.
+
+The next morning, Tala closed up the gate to Ironhold—with all citizens, new and old, inside—and they departed.
+
+Terry met them at the edge of the great tree’s clearing, and just before they stepped back in among the more standard trees of the southern forest, Master Jevin spoke one last time, his voice coming straight into their minds. “Thank you for the visit, Mistress Tala, Master Rane. You are welcome back at any time.”
+
+They both bowed toward the tree.
+
+“Thank you, master Terry, for your kindness to my citizens and for clearing out those nests of beasts.”
+
+Terry trilled a contented response.
+
+After a brief moment, Master Jevin made a parting request, “If you are willing to allow your prisoner an Archive slate, I would consider it a favor. We old souls have much more to discuss than can be done in merely a few days’ time, and the slower means of communication will allow me to maintain my duties more easily.” He huffed, the sound seeming almost like a breeze around them despite actually being in their thoughts. “That, and not having to maintain the block on her power. She is more capable than most arcanes I have faced.”
+
+Tala considered, then shrugged. “I see no harm in allowing her use of an Archive slate. I trust you know the difficulties?”
+
+“I do, yes. I will arrange for a special slate to be delivered to you in Bandfast. That should allow security to be maintained.”
+
+“Alright then. Thank you for your hospitality, and take care of yourself, Master Jevin.”
+
+“Absolutely, and you as well.”
+
+Without further delay, the three entered the woods, and the magical connection faded.
+
+They weren’t hunting Leshkin this time, and so they were able to move more quickly. More than that, they weren’t with a caravan, so they didn’t have to bend to the requirements of a wagon’s needs, even one as ‘all-terrain’ as an ox-drawn caravan rig, which was far, far more versatile than a normal wagon used within the cities.
+
+As such, they were only a few hours of quick travel from the research station at which they’d met Mistress Noelle so long ago.
+
+They had, of course, dialogued with the Archon many, many times over the years on a variety of topics. Regardless, it would be nice to see her again, and it was on their way, so not stopping through would be a bit rude.
+
+As such, they were streaking through the trees, dodging around the massive trunks. Terry wasn’t even going too far afield to hunt the arcanous creatures that they passed.
+
+Tala had just pushed off into another arching leap when she sensed the massively encompassing reality node that was the Leshkin race give a rather large tremble.
+
+Now that she thought about it, the reality node had been agitated since even before they left Makinaven. It was just becoming more prominent to her now.
+
+Less than an hour later, they drew close enough to feel that the flexing and roiling seemed to be coming to a peak just a few miles away. Tala landed beside Rane, who had sensed her confusion. “Tala?”
+
+She explained what she was sensing, Terry listening in as she spoke.
+
+It only took a moment for them to all agree to investigate.
+
+Thus, they closed in on the spot, soon hearing the sounds of battle, of all things.
+
+Coming around one of the massive trunks, Tala saw a caravan under heavy assault from a full twelve Leshkin juggernauts—and uncounted knights, soldiers, and lessers—the lot closing in from all around, the defenders falling back even with the support of their Mage Protectors.
+
+Ice flared, lancing out at some opponents and growing to try to pin down others.
+
+Fire roared outward in a different direction, and Tala even detected blades and barriers of air being utilized.
+
+She thought she detected a fourth type of magic, but it was a more slippery one, and it took precious seconds for her to determine that it was something to do with the shadows.
+
+Huh, interesting.
+
+There wasn’t even a question of them intervening, and so Tala wasn’t surprised when Rane jerked to a sudden halt between two of the largest attackers before blasting outward with kinetic energy, throwing those two into two more.
+
+Terry flickered behind many of the Leshkin, severing legs at the hip, or otherwise crippling those he passed.
+
+Tala drew herself to a hovering halt above the center of the caravan before stretching out with her and Rane’s combined aura.
+
+There was nothing nearly powerful enough to oppose her, so she didn’t bother to anchor her aura with iron spikes.
+
+Once that was established—taking less than a couple of heart beats—she opened a series of portals down near ground level. As each opened for the briefest moment, she released one orb to send a projectile tearing forth to obliterate long columns of enemies. After each passed, there were only gouts of Leshkin blood in the wake.
+
+The shock of their arrival seemed to send even the usually stoic Leshkin back on their heels, even as it rallied the spirits of the defenders, both magical and mundane.
+
+The crossbowmen atop the wagons moved from their frantic shots to a more regular cadence, and the guards on the ground were able to recover and settle more fully into warding formations, keeping the weaker Leshkin back as the Mages worked to destroy all comers.
+
+One of the Mages—seemingly the leader of the Mage Protectors and a fire Mage—waved toward Tala. “Mistress! Thank you for the assistance.”
+
+She altered her gravity to shift a bit closer to him before giving a slight bow. “We were passing through, and it seemed like we could be of help.”
+
+“Oh, absolutely. Thank you so much!” He grinned briefly. Then, the smile fell away as he pointed to a woman in darker clothes, a Mage who was sending out black blades of power. “That Mage arrived with Leshkin in hot pursuit. She asked for protection, and we’ve been under assault ever since.”
+
+Tala’s eyebrow rose. “Oh?”
+
+He nodded. “When these are addressed, can you please see her safely… somewhere else? I am concerned that she might bring more enemies down upon us if she were to remain.”
+
+Tala grunted at that. “I’ll see what I can do.”

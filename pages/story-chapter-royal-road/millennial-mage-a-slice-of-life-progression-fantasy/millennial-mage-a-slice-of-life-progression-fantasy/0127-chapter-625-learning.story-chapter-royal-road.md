@@ -1,0 +1,243 @@
+---
+id: b934e1bb-d197-5930-a9f3-5e45e07ff9fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 625 - Learning"
+slug: 0127-chapter-625-learning
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 127
+ownLength: 3056
+unit: words
+ownProgress: 3056
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2695900/chapter-625-learning"
+royalRoadId: "2695900"
+markedReadAt: "2026-06-29T19:39:21.985Z"
+---
+
+Tala willed herself, Rane, Lea, and Mistress Holly into their sanctum, specifically, a far-flung meadow, well away from anything precious or easily destroyed.
+
+They’d discussed this earlier, and Mistress Holly had insisted that the ignition happen in a controlled space. She then further stated that she would not be the one in control of the space.
+
+Thankfully, as no one resisted—and Mistress Holly’s workshop’s odd, artificial closeness with Kit was still in effect—they moved without issue.
+
+As they arrived, Lea sat, taking up a cross-legged position on the ground. Even though it was still hidden by the girl’s hair, the lowered frame of reference gave Tala a better vision of her new keystone, simply by the angle afforded her with her threefold sight.
+
+She could, of course, see it all with her perception within Kit, but she generally didn’t tap into that, leaving such to Alat.
+
+At that thought, Tala almost took a look at Holly through that perception, but Alat blocked her. Tala could have overcome the block with relative ease, but she didn’t. What?
+
+-Don’t. Mistress Holly knew when I tried, or else there’s something interfering. Even here, something goes sideways in my head for a second whenever I try to look. It doesn’t hurt me beyond that, but I think a flesh and blood us wouldn’t fare so well.-
+
+…Fine. She returned her focus to Lea.
+
+Unlike every other Mage Tala had ever heard of, Lea’s keystone was on the back of her head. In fact, it made up the majority of inscriptions across her entire head. Just like with a more normal Mage, there were layers of spellforms deeper and more surface level than the keystone, but they were by far the minority.
+
+This makes me extra glad that we had the hair-piece and core covering made. The inscriptions couldn’t have been added to the core itself.
+
+-Indeed. That would have made this whole process far trickier.-
+
+And that was all the time Tala had to just observe. The three Archons gathered around Lea in a triangle pattern, Mistress Holly in front of her, Tala behind her right shoulder, Rane behind her left.
+
+Mistress Holly then began leading Lea through the feeding of the first tendrils of her power into the edges of the keystone. That would ignite that central spellform, and from there, the rest of her inscriptions would empower.
+
+Tala hadn’t had to consider that step in years. Her own initial activation with Mistress Holly had been far more of a loosening of her own, tightly held grip on her gate. In this case, Lea was effectively threading a needle in the dark while wearing thick gloves.
+
+The only thing she had to go off of was Mistress Holly’s instructions.
+
+Needless to say, it took a bit.
+
+Tala, Rane, or even Mistress Holly could have done the work for Lea, but that would have hampered the girl’s growth and learning. She needed to start controlling her own power at a minute level, not relying on her body’s inbuilt mechanisms.
+
+Finally, the thread went through, and it was practically snatched by the hungry spellforms.
+
+Copper briefly flashed outward in a complex, interconnected ripple downward, providing the ignition sequence as it spiralled across the girl’s body, but that light was quickly replaced by hues of silver and gold.
+
+They’d opted for as many always active scripts as possible for the girl, both to stress her gate—allowing it to open wider more quickly—and to make the entire process faster to acclimatize to.
+
+-Yeah… that’s not true. This will take far, far longer to get used to, but when she does, it will be a seamless part of her.-
+
+Fine… faster in the long run, because she’d have to learn this eventually. So, the trade off was that it would take longer to gain control over initially, but nothing is a ‘perfect’ solution.
+
+-That’s true enough.-
+
+The series of lights, individually, would be hard for mundane eyes to see as it spiraled, twisted, and interwove all around Lea. Together, they were mesmerizing.
+
+A funny, unintended side effect—since most of the more surface inscriptions were gold—was that Lea’s hair and skin took on a slight golden tinge, the inscriptions being too fine to really be easily picked out by mundane eyes.
+
+Given the girl’s inexperience, the inscription’s thinness meant that she’d need to get reinscribed far more often, but Mistress Holly had been insistent that they needed as few iterations as possible, given the girl’s unique physiology.
+
+More inscriptions of the same schema would be infinitely preferable to further spaced inscriptions of slowly altering sets.
+
+So, this was what they’d landed on.
+
+Tala felt a lump growing in her throat, as her daughter had never looked more human.
+
+She felt conflicted about it, as she didn’t want Lea to hide her true self, but she could hardly condemn the idea, given how long that she’d lived her own life under a veil of illusion, rather than scare those around her with her constant aura of manifested power.
+
+Was this so different?
+
+-Well, it is in the other direction, sort of. I feel that the illusion is less ‘you’ than this is Lea. This is her now. She has power, and she will not be giving it up if she can help it. You disguise yourself with what you ‘should’ look like given who and what you are.-
+
+That’s true enough.
+
+A final, large ripple of power rolled out from the crown of Lea’s head, traveling through her new inscriptions in a wave.
+
+Lea gasped, her eyes snapping open, revealing a vibrant red-gold color, flecks of silver only occasionally in evidence.
+
+Rane sighed, glancing Tala’s way. She smiled, shaking her head in solidarity.
+
+Their daughter would garner far more interest from admirers now.
+
+Lea moved as if to stand up, but she was moving quite a bit slower, to her obvious irritation. That enforced, slower movement, seemed to make the act of getting up strangely difficult.
+
+The girl growled, and Tala barely willed Mistress Holly to be a yard to the right before Lea sprang upward, drilling straight through where the woman had been.
+
+Lea let out a scream of panic, instantly stopping dead, ten feet from where she had been, her every part locked in place.
+
+Lea’s voice came to them, clearly projected without use of her lips. “What do I do?”
+
+Mistress Holly was the one who responded, speaking calmly. “Remember your magics, girl. You are in control, here.”
+
+Lea instinctively reached out to her granted authority within Kit, but Tala and Rane both denied her. Rane was the one who spoke. “She meant your inscriptions, sweet. Don’t forget the purpose of this. Using Kit would be a crutch.”
+
+Lea made a frustrated whimpering sound.
+
+Tala watched closely as magic surged through the girl. There was a building of power in the ‘momentum storage’ areas of the inscriptions. Apparently, the magics had been activated to steal all the momentum from Lea, locking her entirely in place, and it was quickly gathering more and more.
+
+It took nearly a minute, but finally, Lea jerked into motion, dropping downward, but Tala was able to tell that she fell more slowly than she really should have. The scripts were still storing away about five percent of her momentum as a default, causing Lea to have an almost ethereal quality to her, as if she were just barely set apart from the rest of the world.
+
+She landed, and once she did, she began moving through a martial form that she’d been taught months earlier.
+
+She had known what to expect from her own inscriptions, but the reality of actually experiencing and being in control of the magics was entirely different.
+
+Still, she’d mastered her surprise and moved onto the first step that they’d agreed to beforehand.
+
+…the first of many, many steps.
+
+As she performed the rote exercise, her movements started off jerky and slowly smoothed out as Lea regulated the power she was putting into each motion.
+
+By the time she reached the end of the first set, she seemed to be moving normally, taking each motion with a slow, steady, measured pace.
+
+With that complete, she turned, seeming to move exactly as she had before the inscriptions, only her hair betraying the change. Its motion was just barely slower than expected. That would be far less discernable once it was bound up—as both Lea and Tala preferred—but in the moment, its loose nature made it almost seem like she was moving underwater.
+
+“There, I think I have it! Let’s go for pastries.” Lea grinned triumphantly. “I don’t know why you thought that this would be difficult.”
+
+Mistress Holly chuckled. “No.” She then turned to Tala and Rane, bowing to each. “My work here is done. I leave her in your capable hands.”
+
+The two bowed in turn, Lea following her parent’s lead a moment later, her movements jerky once more, much to her obvious irritation.
+
+Without further delay, Tala willed Mistress Holly back to the workshop. As soon as she had departed, Tala felt the shift as the odd artificial closeness between the two locations faded.
+
+Lea had a bit of a grumpy face. “But I’m in control! Why can’t I go out?”
+
+Instead of responding, Rane tossed a small rock at Lea. The girl flinched back in surprise, turning into a streak that shot backward.
+
+She couldn’t keep her balance at that speed, and so she fell backward, entering a tumbling skip that carried her over a hundred yards before she stopped dead once more.
+
+She was three feet off the ground, upside down, arms pinwheeling, and legs at odd angles. Still, her voice came to them with a grudging acceptance. “...Understood. I’ll get to work.”
+
+Tala nodded, turning to her husband. “Do you still want the first shift?”
+
+He nodded. “Absolutely. We’ll make this happen. When are we heading back to Alefast Waning?”
+
+“Tomorrow, I think? We’ve only been here a day or so, and I want Ironhold to be able to close down its affairs in good order.”
+
+Alat spoke up then. “-I’ll inform Lyn. She’ll make the arrangements.-”
+
+“Thank you, Alat.” Rane said while still looking at Tala.
+
+Thank you.
+
+“-I aim to please.-”
+
+Lea began drifting downward, her arms flailing a bit, her legs straightening before she stopped again, clearly having not wanted to land head first on the dirt. Tala tilted her head in consideration. “Are you going to help her?”
+
+Rane shook his head. “She’s not going to get hurt, and this is a good situation to think her way out of.”
+
+Tala grunted. “Fair. Well, I’m off.”
+
+He smiled. “Enjoy your self-building.”
+
+She smiled in return, kissed him, and nodded. “I’ll do my best.”
+
+With that, she willed herself to one of her favorite spots, ready to begin building her reality iron self once more.
+
+That night, Tala took a shift with Lea, the second such. She and Rane had decided that 8 hour blocks would be best, and they’d alternate, giving rotating schedules.
+
+They planned on taking a few shifts together as time went on to ensure that they got good time together while still caring for their daughter, but that wouldn’t be for a while.
+
+Lea still needed sleep, so much of the time Tala watched her that first time the girl was resting, but that rest was often interrupted by jerks and powerful eruptions of force.
+
+Around midnight, an exhausted, stressed Lea simply locked herself in place, taking the mental and emotional discomfort of being unable to move over further interruptions.
+
+That lasted for four hours—until Tala’s shift was almost done—before some dream or other caused Lea’s unconscious mind to break the lock.
+
+The girl’s collected momentum was dumped into getting away from whatever her mind had cooked up, and she would have shattered herself on the edge of reality within Kit—even though that was hundreds of yards from her place of rest—if Tala hadn’t intervened.
+
+She still let Lea smack into that edge, waking herself rather effectively, but she prevented it from doing any true damage.
+
+Tala hated allowing even that much, but she knew that if she coddled Lea in this, the girl would be slower to learn. She consoled herself again with the knowledge that she was keeping any real harm from occurring.
+
+Lea yelped as she bounced off the edge of reality, stopping dead halfway to the ground once more, hair locked in a tangled, spreading halo around her.
+
+She’d gotten a good chunk of sleep, but not nearly enough for what she usually needed. As a result, the girl was clearly frazzled, whimpering slightly.
+
+Tala responded immediately, appearing beside her, arms wrapped around her daughter, holding herself in place in relation to Lea with an act of will and authority through Kit, upside down. “There there, my love. You’re alright. Mom’s here.”
+
+Lea broke free and huddled in against Tala as they both drifted to the ground, hitting it hard enough to drive the wind from Lea, but not causing any harm.
+
+The two women lay there, huddled together, as the younger almost instantly fell back asleep.
+
+When Rane arrived an hour later, Tala extricated herself, no worse for the few sleep-punches Lea had delivered while unconscious. They’d each been sufficient to kill a mundane with the single hit, but Tala was made of sterner stuff. She was just glad that Lea’s magics had worked to prevent the foiled punches from breaking the girl’s own hands.
+
+That would have been an unpleasant way to awaken.
+
+“How was the night?” Rane wrapped Tala in a hug.
+
+Tala sighed. “A bit rough, but good overall, I think.”
+
+He presented her with a large mug of coffee, and she took it gratefully before telling him about what had happened, just as he’d passed on knowledge of his own shift when Tala had taken over.
+
+This wasn’t going to be a quick process, and they needed to carefully monitor Lea every step of the way.
+
+That morning, Ironhold closed its gates, and the Sappherrous family departed.
+
+Terry worked with Lea a bit while they traveled, but he wasn’t going to be in the ‘in charge of Lea’ rotation. This wasn’t due to a lack of trust in him, but rather due to the fact that he’d very clearly conveyed that he would simply prevent death. All else was an opportunity to learn.
+
+That was a bit too extreme for Tala and Rane. When Terry hadn’t been willing to bend, they’d decided to handle it themselves.
+
+Maybe Terry would enter the rotation once the most extreme edges had been knocked off Lea’s rough use of her magic. They just weren’t sure yet.
+
+The trip back to Alefast Waning was uneventful as always of late, and Ironhold reconnected with the waning city like an old friend.
+
+With nothing truly ‘special’ going on, the Sappherrous family fell into a pattern. The only real change was that their daughter was now sequestered away from almost everyone. It was an unfortunate necessity, given a single unintentional movement on her part could kill even a Fused with ease. If it were poorly placed, it might even threaten a Refined, assuming that they weren’t defensively focused.
+
+Lea’s chosen magics would make her a weapon of almost unimaginable power, and that had to be harnessed if the girl wished to proceed with even a somewhat normal life.
+
+As the days turned to weeks, Tala and Rane occasionally worked together to allow visitors, one of them monitoring Lea, the other constantly enforcing their will and authority to ensure the safety of the visitor.
+
+Alat and Enar worked alongside them, both when visitors came and on their shifts. In truth, the alternate interfaces might have been able to handle things with Lea entirely on their own, but neither Tala nor Rane were willing to step back from their daughter’s needs in such a manner.
+
+She needed help that they could give so they would be there for her.
+
+Lyn visited on occasion, sometimes with Ron, sometimes without.
+
+Some of the Talons came by, mainly those who had sparred with Lea in the past and wanted to maintain at least an acquaintance with her, but the most frequent guest was Talax.
+
+The boy came whenever he was allowed and stayed as long as the Sappherrouses—or his mother—would allow. He played games with Lea, the board and card varieties forcing her to work on her fine control far sooner than she might otherwise have even attempted it.
+
+To his credit, he never got upset when a game was disturbed, or even fully destroyed, by uncontrolled expressions of her new magic. He simply took it in stride, doing what he could to help. That said, he mercilessly teased her when he won, but Tala felt it was always in good fun.
+
+It certainly inspired Lea to try harder each time.
+
+Beyond games, he also brought books and read to her on occasion, he joined them for a meal, or the two just talked. He often chatted about his own growing up years, stronger than he ‘should have been’, and how it made him feel separate. He expressed how glad he was to have other kids slowly adding to the number of those reborn, and to have Lea in a similar situation to him. Though, he also expressed sympathy for her current plight.
+
+Regardless, Lea was always glad to see him. She clearly loved her parents, but she was just as clearly becoming sick of her confinement.
+
+A year passed in what felt like a single breath to Tala, and Lea continued to improve.
+
+She was reinscribed a half-dozen times by means of Tala and Rane’s authority within Kit, replacing the metal across the full schema. Such might have worked for the first inscribing, but it had been safer to do it through more standard means the initial time. That more standard way was also required to ensure Mistress Holly’s involvement, and they’d rightly seen that as pivotal.
+
+Regardless, the reinscribings were hardly an issue at all, and Lea would brook no discussion of allowing the magics to subside.
+
+Lea was dedicated to learning to make it work, and her parents would be there to help make sure that she had a chance to make it happen.

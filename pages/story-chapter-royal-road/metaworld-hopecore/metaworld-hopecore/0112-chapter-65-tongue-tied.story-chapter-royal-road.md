@@ -1,0 +1,415 @@
+---
+id: ce24d231-2839-5d41-ae88-b4f768b64b80
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 65 - TONGUE-TIED"
+slug: 0112-chapter-65-tongue-tied
+partOf: metaworld-hopecore
+position: 112
+ownLength: 3831
+unit: words
+publishedAt: 2026-06-21
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3569870/chapter-65-tongue-tied"
+royalRoadId: "3569870"
+---
+
+"I tell you, if these were silent, the very stones would cry out."
+
+Luke 19:40
+
+The audition notice was on the Arts Block board by the end of the day for the skilful few who passed the Cold Read.
+
+TITUS ANDRONICUS — SEMESTER 2 PRODUCTION Auditions: January 16–18, 4:00–6:00 PM All roles, including understudies. Prepare a scene from the text. If not, see Director Cooper or Costello for scene assignments.
+
+She was going for the role of understudy for Lavinia, but still, she had to audition.
+
+Her choice was: Act IV, Scene I. The scene where Lavinia, having lost all other instruments, finds the copy of Ovid's Metamorphoses and guides her observer’s hands to the right page. The story of Philomela. The woman whose tongue was cut out by her rapist, who wove her story into a tapestry because she had no other way to speak it.
+
+Lavinia, who uses myth as her last vocabulary. Lavinia, who turns a staff in her mouth and writes in the sand: Stuprum. Chiron. Demetrius.
+
+The scene required no dialogue. It required only that the audience, looking at her, understand that the silence was not silence.
+
+Valorie would be there not for the audition but for future practice sessions. She would make Valorie watch, over and over again, until she understood the same thing.
+
+Until Mio’s displaced future was engraved onto Valorie’s acting bones.
+
+Wednesday, January 16th.Week 2 of Semester 2. Dr Kirby had spent the week in the village of Salem—the hangings had come. She made James Jules read out Giles Corey's death aloud in his careful, baritone voice, “More weight,” and the class grew solemn at the fact that he was not fiction.
+
+She then set them an essay: Abigail Williams, victim or perpetrator?
+
+The kids were told they could swing either way.Someone sniggered.
+
+Cooper’s session was longer than usual. The Auditions were imminent, and he wanted those who were interested to know what made Titus so special.
+
+“Is Titus a mourner of his sons? Of his lost honour and glory?” He demanded of them. “Or is he a man on fire? A man who has forgotten the man who rode into Rome in triumph?”
+
+At afternoon tea, the break before the audition, Eppie and the crew gathered in their usual corner to rehearse. This time, she was not competing with any of them, so she helped the Sophomores with her [Script Analysis] instead, picking up motes of [Causality] here and there. Last time, she had taken the centre spot. This time, it was their time to shine.
+
+Then, it was time.
+
+The Seniors’ audition took place in the Old Music Building, which Omnia renovated only a few years ago. Unlike the Main Building’s theatre rooms, these were spacious, versatile, and rigged to support professional-grade equipment.
+
+The room smelled like teenagers, hairspray, and hot radiator oil. Folding chairs were lined across the walls. A table was set up with instant tea and coffee. Eppie walked in, full of confidence, and immediately felt small.
+
+Literally… small.
+
+Seniors were seventeen to eighteen, with one or two kids who were nineteen for one reason or another. She was sixteen in February, skinny for her age, and stunted from the malnourishment of her developing years.
+
+The combination was comical.
+
+She sat in the room, a fifth-grader among a faculty meeting of serious people with their futures on the line, knees together, hands on her lap, in an expensive cardigan that only Valorie and a few others would recognise.
+
+The Seniors knew who she was.She was Euphemia Fontaine, composer of Umbrella.
+
+She was also Valorie Sanders’ direct competition.
+
+Yet, the Seniors were not unkind. A part of the reason was self-evident. With her theatre tights, her cropped cardigan and her ponytail, she really was as cute as a button. Thanks to her gigantic blue eyes and small face, anyone thinking of saying a mean word to her had to immediately consider the optics of bullying a child in front of their peers.
+
+So she received a different kind of bullying.
+
+The kind that involved infantilising kindness. The kind reserved for small and cute cats.
+
+Valorie sat three rows ahead, flanked by her lackies, looking in her general direction with amusement. Then the joy bled from her eyes, and then Valorie dipped into the script, leaving the discomfort of conscience behind.
+
+Someone offered her a biscuit and a cup of tea with two spoons of sugar. Eppie took it. One of the Senior girls stroked Eppie’s unruly hair like she was a cat. Thusly pampered, Eppie awaited her turn.
+
+A boy near the door called out a number. The room’s attention returned, recalculated, resolving to business as usual. Eppie sat in the middle, feeling small and skittish, waiting for her turn.
+
+Eppie was No.18.
+
+The room held a table, two chairs, and a standing lamp in the corner that gave the space a late-afternoon quality. Cooper and Tyker sat behind the table, behind a stack of scripts. Tyker held her battered leather folio open, and Cooper had his arms crossed.
+
+Between them: a well-used copy of the Arden Titus. Cooper's. Margins annotated in three colours.
+
+A student stage manager, Joshua Klein, third year, reliable and known to her from the Antigone run, sat off to the side. He would be providing the scaffolding, the spare lines, the props.
+
+"When you're ready," Tyker said.
+
+Eppie walked to the middle of the room and placed her copy of Titus on the table.
+
+She had spent a dozen nights playing the scene out in her head, readying the mental script for her [Physicality]. Her interpretation was between classical and neo-classical, the idea that Lavinia’s body had been made into an object of someone else’s story—Tamora’s revenge.
+
+What she must do is “win” back that authorial autonomy. Lavinia would tell her story in her terms.
+
+“Soft, so busily she turns the leaves—” Joshua’s voice was deep and resonant. His intonation was superb for his age, bringing about the right mixture of bitterness and curiosity. “Help her: what would she find?”
+
+Eppie’s shoulders dropped. She moved her hands behind her back, walking off balance, like a part of her had been hewn away, and the natural gait that came to [Agility], [Act Natural], and [Script Analysis] joined [Physicality].
+
+Her feet thumped the sand, shuffling just right so that it looked as though the ground was soft and she was being dragged by her will. Costello's Suzuki walks had put something into her lower body with a rootedness that made the upper body's plea legible.
+
+She reached her book.It was her copy of the play, opened. The person who had opened it for her was Cooper.
+
+With her mouth half-open, her throat making a mewling, guttural growl, she moved the book with her forearms and her chin until it was facing her the right way. Her movements were urgent but awkward, flipping the pages with increasing desperation, her eyes darting from page to page, as if she was actually reading Ovid.
+
+“Ennnnngh—” she grunted, her mouth moving, her tiny tongue pressed against the roof of her petite mouth.
+
+She pretended to read.
+
+Her eyes scanned the invisible pages. Three, four seconds—she simply read the script, her eyes moving between the page and Cooper.
+
+Joshua: "Lavinia, wert thou thus surprised, sweet girl? Ravish'd and wrong'd, as Philomela was?"
+
+Yes. Her body said. The answer shot through her spine like electricity and changed her face from its despairing grimace to burning resentment, then to shame and guilt and self-loathing. She thought of Mio, she thought of Valorie, and she thought of hateful William, smiling, despite missing a chunk of his shoulder.
+
+She picked up a pen from the table. Not in her hand. With her mouth.
+
+In any other subject, the instructor would have put up both hands and been done with her, but not so here.
+
+With her lips, she held the pen. With her tongue, she flipped it upright, and then, with her arms and elbows holding the book flat, she leaned in.
+
+She wrote—slowly, deliberately, three words. She wrote them with her whole body.
+
+The stage manager stood in his corner, impressed, unable to see past her.
+
+Cooper watched the words being written.
+
+Tyker stopped writing and was watching her write.
+
+Eppie fell on her knees. Her Lavinia had collapsed. She had spent her final, soulful force bringing the truth to light.
+
+Trait Acquired
+
+[Physicality]
+
+Causality Tier (A)
+
+You have acquired an exemplary talent for body control, creating lifelike actions through fine motor manipulation. This trait is modified by your [Agility] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+“Thank you," said Cooper, after a moment. “That was excellent, Miss Fontaine.”
+
+Eppie stepped back. She let her hands come free. She bowed.
+
+Susanna Tyker clapped. “I guess we’ll be seeing you soon.”
+
+“Joshua, would you please round up the next group?” Susanna Tyker watched their aide leave, then turned to her partner with both brows raised. “Well then… that was something.”
+
+Cooper exhaled, then nodded.
+
+Tyker made a note and set her pen down. “How do you suppose she managed that?”
+
+“She was excellent as well, during the Cold Read.”
+
+“I saw.”
+
+“I know.”
+
+Tyker looked at Cooper. Cooper looked at his script.
+
+“To think she just picked up the pen…”
+
+“It was a clean pen…” Cooper coughed. “I figured she might… do something unorthodox.”
+
+“She has…” Susanna felt amused just saying this. “Very good mouth-writing. Arial 12. Bold.”
+
+David Cooper laughed, then shook his head. “When she wrote Rape. William. Chen. I almost picked up the book and threw it out the window.”
+
+“I almost had a heart attack.” Susanna also laughed out loud. “She’s our understudy then?”
+
+“Was there any doubt?” Cooper said.
+
+"She will have the role of a Senior."
+
+"Indeed, even as her role is something else entirely.” Cooper pursed his lips. “She is our playwright. The shadow producer behind LAPAGANZA 08.”
+
+Tyker looked at Cooper again. Cooper was looking at Eppie’s name on the roster sheet.
+
+She read the unspoken words on her colleague’s face.
+
+The rest was silence.
+
+The results went up on Thursday.
+
+TITUS ANDRONICUS
+
+Directing Team: Dr D. Cooper & Mrs S. Tyker Movement: C. Costello · Spacing: Mrs SeyrovaCold Reads: Jan 15 · Auditions: Jan 16–18 · Rehearsals Begin: Jan 23 Performances: May 15–17 · Whitman Theatre
+
+Role
+
+Actor
+
+Titus Andronicus
+
+Nathan Drake
+
+Lavinia
+
+Valorie Sanders
+
+Marcus Andronicus
+
+Jamal Whitfield
+
+Tamora, Queen of the Goths
+
+Elizabeth Moore
+
+Saturninus
+
+Tobias Hale
+
+Bassianus
+
+Derek Lindqvist
+
+Aaron the Moor
+
+Malcolm Reyes
+
+Chiron
+
+Joshua Ramone
+
+Demetrius
+
+Charles Cranshaw
+
+Lucius
+
+Owen Castellan
+
+Quintus
+
+Ravi Patel
+
+Martius
+
+Desmond Okafor
+
+Mutius
+
+Felix Granger
+
+Young Lucius
+
+Noah Kim
+
+Publius
+
+Anders Voss
+
+Aemilius
+
+Theo Marsh
+
+Role
+
+Name
+
+Producer
+
+Mrs. Susanna Tyker
+
+Lighting Assist
+
+TBD
+
+Stage Manager Assist
+
+TBD
+
+Costuming Assist
+
+TBD
+
+Valorie stood right there beside her. Eppie, naturally, took the role of her understudy.
+
+Both of their lips moved, but neither said congratulations. Eppie’s hand twitched. She had willed it to leave her torso and extend its fingers for a diplomatic handshake. Her [Persona] refused, or was insensible to Eppie’s scheming.
+
+In the end, watched by half of LAPA, the girls clashed with their smiles, generating enough tension to power a two-hour production.
+
+Goats and monkeys! Eppie felt her mere [Comeliness] of [21] shudder in the face of a… superior face. Whatever genetic lottery Valorie had won, it was insane to think that she was merely seventeen and that she still had a few years to fill out the full extent of her potential.
+
+The rest of Weeks 2 and 3 moved at a pace suitable for a performing arts school preparing for LAPAGANZA in four months.
+
+In Gen-Ed, Dr Kirby pushed through the curriculum, moving from individual to individual, tragedy to tragedy.
+
+“We finished with Corey, a man who was buried by the weight of an inflexible theocratic system, by neighbours hungry for his prime real estate. This week, we will observe what happens when a man seeks to make peace with his conscience by persisting in truth. Truly, the irony lies in the adage of our Bard:
+
+O monstrous world! Take note, take note, O worldTo be direct and honest is not safe
+
+And so it goes for Proctor.”
+
+Kirby didn’t open with the Samaritan of Salem; she opened with the stage direction, standing over the kids as she read that “Danforth is now sitting in judgement.”
+
+James Jules was Proctor—by now it had become an unspoken arrangement, his baritone doing something to Mill’s dialogue that obviously thrilled Kirby’s ear. The desperation character almost always went to Eppie, who'd been quiet all week and looked like someone who was elsewhere—thereby attracting Kirby’s desire to make her speak.
+
+James slid into the role with the ease of a practised artiste. Kirby told them that the end of Act II is when Proctor ventures closest to the truth about Abigail’s deception. Miss this moment, and it's all downhill for the innocent folk of Salem. “You will tell the court how you come to that shape, and whose hand it was that grew that lever onto your back—”
+
+In response, Eppie’s voice came in, cracked and small and desperate, yet audible to all thanks to [Vocality]. Mary Warren, small, diminutive, terrified, was half-sob and half-desperation, her mind tittering on the edge of sanity.
+
+“I cannot, they'll turn on me—” “I will bring your guts into your mouth, but that goodness will not die for me!”
+
+“I cannot! I cannot!” “Make your peace with it! Now Hell and Heaven grapple on our backs, and all our old pretence is ripped away - make your peace!”
+
+Eppie’s [Script Analysis] had her before she could even attempt to tone down her mimicry. With heartbreaking tenderness and a half-pant, half-howl that seemed to drag her listeners into the pines, she repeated Mary Warren’s words over and over.
+
+“I cannot! I cannot!” “I cannot! I cannot!” “I cannot! I cannot!”
+
+“And THE CURTAIN FALLS.” Dr Kirby cut in because Eppie’s acting was excessive, even by LAPA English standards. “Thank you, Miss Fontaine. That was… something.”
+
+The rest of the class sat without laughter, because there really wasn’t anything particularly funny about Eppie’s descending diminuendo.
+
+“Was that fun?” Kirby addressed them. “Was that righteous? John Proctor, the man we have spent two weeks deciding is the moral centre of this play, just spent forty lines bullying a seventeen-year-old girl into recanting testimony, because he wanted his wife to live. Because his wife told a lie to save him. Yes, Cameron?”
+
+“He’s trying to save someone good, though. Mary’s just scared.”
+
+“Anger our Abigail, and Mary will hang,” Kirby said. “That’s how it is, with clichés. Abigail has the power now. She is the one the village has chosen to believe in, so that they can scour the lands of their neighbours. If Abigail is ever proven false…”
+
+“Remember what Mills has told us in his own words: Salem had chosen Vengeance, despite the Bible’s charitable injunctions. Salem is what happens when individualism, the desire for personal good, personal gain, personal profit, finally brings forth the tumult of dissatisfaction and unrest boiling beneath the surface of a morally compromised system.”
+
+Dr Kirby droned on. Eppie didn’t say anything else after she’d read.
+
+Bullying Valorie into roaring was well within her rights.Bullying William was justice itself. Her English teacher was clearly an agent of the [System] because her damned [Script Analysis] kept nudging her in the right direction of charity and forgiveness. She was, however, sympathetic to Abigail, who had never been sheltered by the guardrails of society. The parallel to Eppie, the original Eppie, was just too similar to ignore. Ergo, she ignored [Script Analysis]’s urgings, because Mio was having her rape baby in a week, and Valorie was still acting her heart out.
+
+Despite it all, [Script Analysis] touched her face like a small cat, its paws warm and sharp and padded, meowing at the back of her thoughts.
+
+On the second session of her Week 3 Arts block, the roles for the Sophomores’ adjacent showcase of Titus settled into place.
+
+Madison Evans took the role of Lavinia, and James Jules took Titus. Chelsea picked up Tamora, and Lucy’s cold read of Lucius was good enough to garner a cross-dressing role. Min-Jun Yoon took lighting again, grumbling that he was apparently the only Sophomore the department trusted near a dimmer board, though nobody truly believed him.
+
+Having watched Cameron Atkinson nearly kill himself over a mere Fall production, no one volunteered for the role of Production Manager.
+
+Eppie said she had Senior Practice, which might affect their Sophomore production, but Susanna Tyker directed her to the Management table anyway.
+
+The role of Stage Manager remained in Cameron Atkinson's hands, whose cave was in the back room, where the file storage sat. Eppie, to their surprise, was given the role of Budget and Logistics, a role that Eppie suspected had landed after Susanna spoke to LAPA’s Operations Coordinator, Susan Carr.
+
+Sage Copeland remained Atkinson’s assistant, though Eppie now also had the role of “Assistant Stage Manager”. Harrison “The Raven” Duncan sat with Min-Jun, his Goth-locks draped over Min-Jun’s shoulders; they were both responsible for lighting. Kimberly retained her role as a Sophomore Sound Crew member. She would be joined by a Senior during the actual production.
+
+The table greeted her timidly, because Eppie wasn’t just a five-foot-one cutie; she was also Sony’s darling, LAPA’s resident songwriter, and Umbrella was still in the charts.
+
+“All of you,” Susanna Tyker spoke with authority and prophecy. “Listen to Eppie.”
+
+The management crew looked at the tiny blonde in her plain-looking cardigan, then at each other.
+
+“I won’t bite,” Eppie meowed sweetly.
+
+Then she bit them like a feral cat. Budget and Logistics? What little remained of Lana scoffed. Give me a year, and I will acquire LAPAGANZA. Give me three years in LAPA and I will M&A CSULA. Out came the chrome MacBook, fully loaded with software her Karmatronic Trust funded, as all education expenses were covered.
+
+She dropped a handful of flash drives on the table.
+
+“All the Excel sheets. Budget. Wages. Inventory. Rosters. Now.”
+
+In another situation, faced with another manager or even a staff member, the management crew might have resisted, or at least grown irritable. With Eppie’s [Charisma], [Persuasion], [Vocality], [Intimidation] channelling the CFO of a multi-billion dollar company, however, the kids set to work as if driven by some supernatural force.
+
+On her computer, she loaded up the documents one by one.
+
+Cameron Atkinson was sweating like a man who had just been tied to a chair with the bottom missing, à la Casino Royale.
+
+“So er…” the man swallowed rapidly in succession. “I want to be clear. The data sheets aren’t that disorganised. It’s… organised like a garage. A messy but… operative garage.”
+
+“Okay,” Eppie’s eyes scanned the Excel (™) sheet. She looked up, her baby-blue eyes blazing. In another world, security was already dragging an Ex-employee to the window to be defenestrated.
+
+Cameron’s lips trembled. “Umm… don’t kill me…”
+
+Omae wa mou shindeiru…
+
+Eppie’s eyes moved between the travesty of a budget and time sheet, to the Stage Manager, to the sheet. The fact that her Antigone actually had gone down without a hitch, she realised, was entirely because there were three scenes.
+
+She opened a blank sheet.
+
+“You don’t have to fix it now,” Atkinson said. His face was the face of weakness. A weak man who would have never made it in corporate, because his manager would have slammed the table and said: “THIS WAS DUE LAST YEAR!”
+
+“You guys continue,” she told them. “I’ll be here…”
+
+Then she ignored them—because ignoring her peers was better than ignoring this Greek Tragedy of a budget spreadsheet.
+
+She started with the receipts. Every wage estimate, every scribbled rental quote, into clean running categories. Nothing decorative for now, just every transaction in its own row, so that nothing could quietly fall through a gap the way it had in the folder. Some of it was stupid as someone typing “Light”, “Lights” and “Lighting”.
+
+Then she introduced the rest into formal keywords: Costumes & Wardrobe, Props & Set Dressing, Lighting, Sound Rental, Crew Wages, Rehearsal Logistics, and a Contingency line, because Cameron probably needed it.
+
+Then came the pivot tables with running totals beside a big red square labelled "budget", for categories, subtotals, and taxable versus deductibles. Crew Wages got the most care, since it was the column Atkinson's notes had butchered the worst. She rebuilt it so that everyone's hourly rate lived in exactly one place instead of three slightly different ones scattered across his folder. And rather than keeping separate hand counts for who was paid versus volunteering, how many costumes still needed alterations, or how the week's spending was tracking, she built one summary table that could be reshuffled on command. Her [Accounting and Finance] and [Business Acumen] purred with pleasure.
+
+Lacking late-2020s management apps, she built the timetable the same way: every cast and crew name down one side, every rehearsal slot across the top, shaded green where someone was free, amber for a soft conflict, red where it was load-bearing. She filled most of it from memory, [Memorisation] holding forty names against forty class periods steady enough that she only had to check the master schedule once. If anyone couldn’t make a time, it would be easy to budget for additional staff based on their colour-coded availability.
+
+At 6 PM, when the rest of the crew returned for dinner, they found Eppie sitting at the desk still, looking like she had just enjoyed a hot sauna.
+
+They gathered behind her to watch the sorcery on her screen.
+
+“Okay,” Atkinson said slowly, leaning over her shoulder, smelling like a shawarma. “What is this?”
+
+“That’s the budget.”
+
+Their Stage Manager typed a number and watched the whole summary table reorganise itself in real time. He physically flinched. “The numbers changed… by itself.”
+
+“It’s sentient now,” Eppie said.
+
+“Whoa…” Min-Jun mimed a mind-blowing motion. “Really?”
+
+“No.”
+
+“Aww…”
+
+“How did you—” Atkinson gestured at the colour-coded clarity of it all, like the numbers had wronged him for the first half of his life. “Is this really Excel?”
+
+“You were doing the right things,” Eppie said kindly. Then she couldn’t be kind, because the numbers… OH, the numbers… She felt violated by them. “Only you were wrong. Dead wrong. The numbers were calculated incorrectly. This is our actual budget.”
+
+They were over budget. By not a small margin…
+
+“Oh…” Atkinson sat with it for a moment, watching the categories all sit placidly green, with four columns in red. “Sorry… I guess?”
+
+SORRY? For a budget?! YOU GUESSED?
+
+Eppie’s aura fanned out like a haunted maid, calling upon the spirit of Bill Gates himself.
+
+All should cry, Beware! Beware!Her flashing eyes, her floating hair!Weave a table round her thrice,And close thy eyes with spreadsheet dreadFor she on Excel (™) hath fed,And drank the milk of Microslop.

@@ -1,0 +1,299 @@
+---
+id: a2520948-0511-5000-a797-89a0d63d30e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 420 - Let’s Get to It"
+slug: 0030-chapter-420-let-s-get-to-it
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 30
+ownLength: 3089
+unit: words
+ownProgress: 3089
+publishedAt: 2024-05-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1634425/chapter-420-lets-get-to-it"
+royalRoadId: "1634425"
+markedReadAt: "2026-06-29T19:36:15.475Z"
+---
+
+Here Begins Millennial Mage 11 - Flockbound
+
+Tala couldn’t help but smile as Rane walked into the massive underground training room, unescorted.
+
+Only Refined were allowed here—special exemptions aside—and he arrived solely based upon his own merits.
+
+He stood tall, his inscriptions newly refreshed, his eyes full of life. His aura was on full display, held at presentation distance, roughly an inch out from his skin. It was a lovely, chartreuse yellow.
+
+Tala was still giving him grief for instantly surpassing her on the path toward Paragon, if only just.
+
+Terry—on Tala’s shoulder—trilled in greeting and congratulations, getting a mirthful smile from the new Refined.
+
+The Defender unit leaders, spread throughout the space around Tala, turned to face the same way she was, smiles spreading across many faces.
+
+This was quite different from her own induction as a Defender.
+
+Here, Rane was well known, well liked, and his advancement and acceptance had been long awaited and was now openly celebrated.
+
+Tala had been unknown and unusual to the extreme.
+
+Speaking of which, Tala stayed back, letting him keep the spotlight. Well, that was her intention.
+
+Rane immediately met her gaze and waved, a nervous smile on his face. That sent some attention her way, but it didn’t linger.
+
+His nervousness wasn’t from meeting all these powerful Defenders. No, that was old hat for him. He was nervous because what he and Tala had was still new, and he was as unsure how to act with it as she was.
+
+They had been courting for nearly two months—at least in name—but they hadn’t really told anyone that they were courting or done anything differently because of it, not yet.
+
+They’d been waiting first for Rane to Refine, then for him to recover, and finally they’d wanted him to be inducted as a Defender.
+
+That day had finally arrived.
+
+Master Grediv announced Rane, but otherwise was far less involved with Rane’s induction than he had been with Tala, and the reason was rather obvious. As Rane’s master and ancestor, he was seen as obviously biased toward the young Archon.
+
+With Tala, he was seen as an unbiased third party.
+
+Thus, after that introduction, Master Grediv moved to stand beside Tala. “It’s almost anticlimactic in a twisted sort of way.”
+
+Tala cocked an eyebrow toward the Paragon. “Would you rather he had struggled more… openly?”
+
+Master Grediv shook his head. “No. It’s just hard to really process a person’s internal struggles. It’s easy to brush them aside as not having mattered, and yet, I know they did.” The older man’s voice dropped to a whisper so low even she could barely hear it when right next to him. “He broke, Mistress Tala. He failed. His foundation was tested and found wanting. I still don’t know what changed. He hasn’t decided to tell me, not yet.”
+
+Tala nodded. “I’ll let him be the one to do that, but I am not the core of his Refinement. I never should have factored in at all.”
+
+“Yet, you remain important to him.”
+
+“I hope that’s always true.” She stiffened then, realizing what she’d said.
+
+He glanced her way, a small smile on his features. “I hope so as well.”
+
+The induction went quite well overall, with Rane giving a good showing of his skills and abilities before requesting to join Master Clevnis and Mistress Cerna’s unit.
+
+There weren’t strong objections from others, and the unit leader couple heartily agreed to have him join them.
+
+That put them up to an eight man unit, but as cell-duty had moved to a rotation, it wasn’t of as much consequence as Tala’s joining had been.
+
+From there, the festivities wound down slowly, and once everyone left besides their unit, they relaxed a bit more. They grabbed more food and just spent time getting to know their new member.
+
+The various Refined had chatted with Rane before, but this was different. They approached talking with someone who was just around every so often differently than someone who would be working alongside them for the foreseeable future.
+
+Another change after most had departed was that Terry left Tala’s shoulder for more than just brief moments.
+
+As a consequence, the avian flickered around the group, enjoying the challenge of stealing food from the plates of the various Refined.
+
+In essence, the game was that he would flicker in and if they reacted before he snatched something, he’d simply move on. Otherwise, some of their tasty, tasty food would be his.
+
+At least, that’s what Tala assumed he was thinking. Terry did like other people’s food quite a bit.
+
+The group talked through quite a few things, one of the most important being that Rane would be the Defender who would fight any threat that came during their unit’s duty shifts, so long as he believed he could handle the magical beast or beasts.
+
+Just like they’d done with Tala, the unit wanted Rane to get his Refined combat legs under him and build confidence in a relatively controlled set of circumstances.
+
+They would obviously be near at hand for the fights in case interference was required or assistance needed. Even so, it was a tried and true method for helping new Defenders gain skill and understanding of their own abilities.
+
+It was shortly after that when the unit moved to discussing the training that they all did, both together and on their own, separate from the unit.
+
+When that was wrapping up, Master Clevnis seemed to come to a decision. “I want to test you myself.” He stood, pulling a set of practice swords out of his soulbound dimensional storage. “Master Rane, I trust that you are able to suppress your inscriptions. Yes?”
+
+Rane stood as well, grinning. “Absolutely, yes.”
+
+“Good, I want to see what your skill and ability level is without your magics directly involved. Enhancement magics are, of course, encouraged.”
+
+He caught the sword that had been tossed his way before walking a good distance from the rest of the unit—and the food tables—and assuming a ready stance.
+
+Tala always found it fascinating how different people would naturally prefer different opening guard positions.
+
+There was some skill involved in choosing one to counter your opponent’s, which could lead to two masters simply shifting between guard positions, continually countering and being countered in return. That didn’t happen here.
+
+Rane preferred what was sometimes called a high guard, which—given his size—put the sword quite high indeed.
+
+It was a stance far more suited for fighting magical creatures that were often bigger even than Rane, but it was also the stance that he was most comfortable in.
+
+Master Clevnis fell into a more central position, the point of his sword pointed straight at Rane’s heart from ten feet away.
+
+The unit-leader smiled. “Begin.”
+
+They both moved in an almost unified blur. The crack-crack-crack of their practice weapons striking and deflecting was so rapid that it seemed almost like listening to a giant drumming their fingers on a table.
+
+Tala was able to track the movements, of course, but she knew that no mundane human would have been able to.
+
+Still, it was fascinating to watch the two men, and how their movements varied.
+
+Rane seemed to almost move in fits and starts, pausing between exchanges, then lashing forward with greater speed than Master Clevnis had demonstrated thus far.
+
+The older man—on the other hand—seemed to keep the exact same pace throughout, simply flowing from one movement to the other without pause. This had the result of making even his blocks and counters seem as if he’d planned them in advance.
+
+More than anything, it looked like he was simply moving smoothly and consistently through a well-known sword form.
+
+The fact that Rane was there seemed all but incidental, even if Tala knew that it wasn’t true.
+
+Though their pace was one that would quickly exhaust even the most well conditioned mundanes, neither was going to wear out any time soon, and they continued their friendly clash unabated.
+
+Only after quite a few exchanges did something finally change.
+
+Rane started it first, charging forward and forcing Master Clevnis to respond with movement of his own, and soon their clashes were ranging back and forth through much of the massive space.
+
+Finally, Master Clevnis’ stoic face broke out in a smile. “Get ready.”
+
+Rane frowned but didn’t otherwise respond.
+
+Then, Master Clevnis changed his pace just a bit. He was just slightly faster than he had been, and Rane struggled in vain to keep the balance that he had—up to that point—maintained relatively easily.
+
+Rane fell more and more onto the back foot until finally, the practice sword slipped through an opening and cracked against the larger man’s leg.
+
+He winced, but still blocked the follow-up strike, back in command of the tempo.
+
+That didn’t last.
+
+Once again, Master Clevnis slowly advanced in initiative until he snuck another strike through.
+
+This time Rane hissed in irritation.
+
+Rane’s eyes blazed with intensity, but he kept mastery of himself, seeming to buckle down and speed up to match Master Clevnis’ new pace.
+
+“Good!” The older man laughed. “Very good. Now, get ready.”
+
+Rane was not ready.
+
+Once again, the pace of the clashing shifted and the younger, less experienced fighter received strike after strike. Though, none were strong enough to trigger his family boon, his berserking rage.
+
+I wonder if that’s purposeful on Master Clevnis’ part?
+
+-It is likely. He has to know about it. Master Grediv wouldn’t have kept it a secret from the unit leaders.-
+
+Over the course of nearly an hour, Master Clevnis slowly pressed Rane’s mundane swordsmanship to its limit. Though, to be fair, they were moving much faster and much more than any mundane swordsman could. They were also continuing for far longer than any unenhanced human would be capable of.
+
+Regardless, eventually Master Clevnis called a halt, and Rane gave the unit-leader a bow, conceding the match and thanking him for the lessons conveyed.
+
+With a friendly motion, he tossed the older man back his practice sword as he straightened from the bow.
+
+In the end, Tala was very glad that she hadn’t been a part of the fight.
+
+She was relatively good at mundane swordplay, but that was not where she thrived. Even so, Tala had paid close attention to the clashes, trying to pull technique and methodology from each exchange and see if she could improve herself.
+
+Also—since Tala never did just one thing—she was working at mimicking the aura control of the Den Mother. That wolf had confined her aura to each individual hair on her body, letting it move and stay perfectly aligned with them all, no matter what gust or movement caused them to shift.
+
+True, there was likely some trick to simply making an aura conform perfectly to one’s physical body, but Tala decided to take it as a challenge to do something similar without any trick.
+
+She had yet to succeed.
+
+At the same time, she continued her iron-void training, six iron dust shapes now invisibly moving around her head, filled with randomly morphing voids that occasionally interconnected and broke apart without ever allowing air to get in.
+
+The internal shapes now took the form of crazy mazes or knots more often than unbroken and undivided shapes, and the outer iron dust also was equally twisty in its implementation.
+
+Alat still occasionally staged assaults on Tala’s control, but she rarely succeeded in breaching any part of the creations. Instead, Tala had begun rolling with the attacks, incorporating the forced movements and turning them into controlled motions of her own choosing.
+
+But that practice had slowed now that the sparring match was concluded.
+
+As Rane and Master Clevnis came back over to the group, Tala moved over to shoulder-bump Rane. “Good job.”
+
+He smiled down at her. “I lost pretty definitively, but thank you.”
+
+She shrugged. “Win or lose, you made a good showing of yourself regardless.”
+
+His smile grew a bit, then, and they turned and walked back toward the others.
+
+Master Clevnis had moved ahead of them, giving them at least the illusion of privacy, even if everyone there was Refined and could likely hear every word without trying.
+
+Rane looked her way as they walked. “So… do you want to grab dinner?”
+
+While they often ate with one another, Tala knew what he meant. He was asking if she wanted to actually begin their courting, even if just with a singular meal. She smiled slightly, feeling a tremble of illogical nervousness in her gut. “Yeah. Let’s.”
+
+Rane’s next words were an incredibly hesitant suggestion, “You could wear your birthday clothes… if you wanted.”
+
+Master Girt had been taking a drink of some beverage, and he spat it out, across the rough surface of the training room floor, falling into a fit of coughing.
+
+Tala had instantly known what Rane had meant. She’d altered her elk leathers into the form of a rather special dress for the breakfast with Rane’s parents—on his birthday—and she hadn’t done so since.
+
+That would obviously not be common knowledge though.
+
+Master Limmestare just shook his head and muttered under his breath.
+
+Tala still heard him of course.
+
+“I can’t even say that to my wife safely.”
+
+She frowned. What’s going on?
+
+-Your birthday outfit, Tala. How were you born?-
+
+Her eyes narrowed in thought, then opened wide as she colored. Oh.
+
+Rane clearly didn’t realize what others had taken from what he said, and so he continued after the short pause. “You don’t have to, you just looked especially nice last time.”
+
+Mistress Vanga rubbed her forehead, closing her eyes tightly in referred embarrassment.
+
+Master Clevnis was suddenly standing in front of Rane, a finger held up to the bigger man’s lips. “Shhh… The first misspeak was entertaining, but now it’s just… painful.”
+
+Rane had jerked back slightly, but he frowned when he heard the older man’s words. “What do you…?” Then his eyes widened. “Oh! Oh…” He colored deeply. “I didn’t mean that—”
+
+“I already said, shh. You’ve said enough.”
+
+He pressed his lips together in a compressed line and nodded, eyes flicking to Tala.
+
+Tala cleared her throat. “I will happily wear that dress.”
+
+Master Girt was still coughing slightly, but it was more than likely simply an affectation just for show.
+
+Master Limmestare was holding back a smile, even as he shook his head.
+
+Mistresses Vanga and Cerna were unashamedly smiling with mirth.
+
+Tala refused to make eye contact with anyone as she grabbed Rane’s hand and dragged him toward the door. “And we’re going now.”
+
+There is no recovering from this. We have to leave the city.
+
+-Don’t you think that’s a little over dramatic?-
+
+I’m not proposing burning it down on the way out. I think I’m being quite reasonable.
+
+-That’s… true? Have a fun dinner and sleep on things. You can decide to flee into the wilderness tomorrow.-
+
+…fine.
+
+-If you go, though, you have to take Rane. It would only be proper.-
+
+Tala growled within her own head at her alternate interface even as Alat chuckled.
+
+* * *
+
+Tala moved through her daily practice with comfort and ease, excited to get to her latest experiments but not willing to rush things.
+
+Still, she couldn’t help some of her thoughts wandering in that direction.
+
+It had been nearly two months since the wolf had all but killed her, and while she had a host of legitimate means of explaining away the closeness of the fight, she had been left with a singular understanding, a specific drive.
+
+She wanted to be better.
+
+One thought that she’d had shortly after the clash had been to soulbind some precious metal incorporators, and then use the created material for her inscriptions.
+
+That had turned out to be a bad idea for many, many reasons.
+
+First of all, even in the best circumstances, it would only be a means of circumventing the wolves’ specific dueling requirements without gaining her much—if anything—in any other regard.
+
+Secondly, the ‘best circumstances’ wouldn’t exist as incorporated material was awful for inscriptions. It inherently required magic to maintain its existence. So, power flowing through it was lessened, and the resulting workings were inherently less stable.
+
+The reasons to avoid her theorized plan continued from there, but even either of those two were enough to disqualify it outright.
+
+As she rolled out of her final stretch, she called the first of the inscribed arrows to herself, studying it once again.
+
+She had—obviously—memorized the twists and turns of the three-dimensional construct long ago, but she found actually analyzing it with her eyes and threefold sight seemed to make it easier for her to pull new insights forth.
+
+Beside the arrow, she began to form iron spellforms in the air.
+
+Now, iron was an awful conductor of magic, being a near-perfect reflector of power. So, Tala didn’t use iron as wires like she would with any other material. Instead, she used it to make minuscule pipes.
+
+As a result the spell lines were actually made of her own magic, with iron counting as the medium in which they were set. And, as it turned out, that was quite similar to how the arrows had been made.
+
+The arrows largely employed spell lines made out of precious metals, with steel as the medium.
+
+While different, that was close enough to start out with, and Tala had been working to find the particular quirks of magic and iron workings. The greatest difficulty was factoring in the minute amounts of air that filled the pipes as well, through which the magic had to travel in order to be the spell lines for the working, but that turned out to function like working in a variable medium. So, there was precedent for her attempts, and foundations of knowledge from which she could pull.
+
+When she had finished her designated time for those practice attempts, she poked Terry, who had been sleeping nearby on a pillow she’d acquired for him.
+
+He’d been unusually clingy since the wolf incident as well. He barely went off on his own to hunt, and he seemed to have taken a far greater interest in Tala’s day to day activities.
+
+Not that she was really complaining. He never got in the way, and she enjoyed his company quite a bit.
+
+“Hey, are you ready to spar?”
+
+With a flicker, he was up on her shoulder, and letting out a trill of affirmation.
+
+“Well, alright, then.” She grinned. “Let’s get to it.”

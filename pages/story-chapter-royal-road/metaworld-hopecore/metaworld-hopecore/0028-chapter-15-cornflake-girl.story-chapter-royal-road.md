@@ -1,0 +1,161 @@
+---
+id: 6a2a9d74-57ec-5a7e-845e-93af0c3d4145
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 15 - Cornflake Girl"
+slug: 0028-chapter-15-cornflake-girl
+partOf: metaworld-hopecore
+position: 28
+ownLength: 2180
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368699/chapter-15-cornflake-girl"
+royalRoadId: "3368699"
+---
+
+“Sorrow concealed, like an oven stopp'd, Doth burn the heart to cinders where it is.”
+
+William ShakespeareTitus Andronicus
+
+In the end, with her friends glaring at her back, they attended the theatre without Eppie catching up on her MySpace.
+
+Back at 1 PM in the Marley floor studio, the atmosphere was thick with the nervous energy of students who realised that it was only week two, and they already had a seemingly insurmountable competitor.
+
+The gaze of her peers ranged from curiosity to excitement to obvious envy. The pretty blonde with a figure to match, whose name she forgot, stood so close during Circle that Dr Costello had to bark at her to back off and focus, or take a hike.
+
+Their opening exercise this time was a grid exercise in which students walked through invisible grids without invading one another’s personal space. At his clap, each student turned 90 degrees and continued until the invisible edge, where they would make another turn, matching the collective's pace.
+
+Unlike her first week, Eppie’s [Agility], combined with [Athleticism] and [Physicality], was more than enough to keep her from bumping into others, all the while pacing to the sound of an internal metronome.
+
+Once he was satisfied, Costello asked the students to return to neutral by stretching their warmed-up bodies, while he explained the department's decision regarding the Fall Showcase.
+
+“There will be THREE scenes, full costume, modernised prose,” Craig Costello explained as he ventured into view of the attentive students. “Listen well. I shall not be repeating myself until the scripts are out.”
+
+Her instructor had everyone’s attention, including herself. With her growing awareness of the craft and her developing [System] skills, it was only natural that she wanted to exercise them.
+
+“Scene One: PROLOGUE. Antigone and Ismene. For those of you who want to stand out, this is the one. Two characters, both girls—though we may entertain two brothers as well—pending on auditions. The Rule Breaker and the Rule Follower. The ensemble will represent their internal conflicts.”
+
+Eppie tried to imagine it. She could see it in her head as cinema, but not what it would look like on stage.
+
+“Scene Two: CONFRONTATION. Antigone. Creon. Sentry. Antigone is caught, and she is brought before the king. A full half of you will act. Some of you are the paparazzi, some of you are bystanders. Others are judgmental custodians or sympathetic observers. Antigone will back-talk to the King. Creon shall declare his decree.
+
+“Scene Three: THE ROAD TO PERDITION. Antigone and the Chorus Ensemble. A full half of the class will join as spectators to an Antigone that is caught between “Two Deaths”. We shall all manifest as public opinions upon her stubborn resistance. The core focus here is the Chorus. YOU will become the mouth of the Cave. You will swallow Antigone with your judgement.”
+
+Mid-stride, her teacher paused as if delivering a plot-worthy aside. “We fully expect half of you to assume the position of the tech crew. You will be the architects of the production, without which the show cannot go on. The best Tech will be assigned as the Stage Manager, guided by Mr Cooper. Two of you will be assigned to Sound Design. Two or more to Lighting. Three will assume the role of the Deck Crew, assisting the Property Master. For now, Wardrobe will be managed by your Seniors, and a group of Juniors who have volunteered for hair and make-up. If you are interested in either position, talk to Mrs Seyrova or me.”
+
+Her instructor’s effortless patrol continued. “You’re not Freshmen anymore, but let me remind everyone, nonetheless, of how this all works. There will be a divide in this room. Not everyone who wants to be in the theatre will be in the limelight. However, that does not make your role any less essential to the success of a production. In a Company, WE ARE ALL EQUAL. Woe unto the diva who thinks herself capable of performing alone!”
+
+For some reason, Costello stopped for a moment beside Eppie, while she was mid-splits and unable to move away.
+
+A few of the students laughed, and Costello continued.
+
+“As a Company, we are unibody. In true theatre, there is no cast that can exist without the crew—ironically, it is arguable to say that the cast is infinitely more replaceable. No matter how compelling, pretty, or gripping you may be, a mistimed non-diegetic tune, a missed moment of lighting, will make or break a production.”
+
+“And another thing,” Craig’s voice grew low and resonant. “The Fall Gala will be a test run for the Spring Showcase and LAPAGANZA. Only those who survive the Fall Showcase will be considered for our newest and largest conference. As you know, we will be doing Titus Andronicus. Mr Cooper is working on a postmodern series of vignettes, derived from the Fall production. If you desire a role, we will offer initial calls in January for all departments.”
+
+For the next few minutes, their instructor gave them time to digest the news.
+
+“I hope the implication is clear. If you can't handle the marrow of a tragedy in late October, you won’t be involved. LAPA has a reputation. No-shows from the Sophomores are better than a half-arsed showing. If you drop now, you will get another chance at the Spring showcase. Fail that, and there will be no LAPAGANZA. You may try again when you’re Juniors.”
+
+The class that followed had a changed mood.
+
+There were only a few students, such as Min-jun, who were dead set on joining Tech Crew from the very beginning. Almost everyone present had dreams of stepping into the limelight, either as the protagonist of a theatrical production or as a last-minute line for the audience.
+
+What Costello had imparted was a harsh truth. A Company had its roles, and everyone would fall into them, each according to their abilities, not their wants or needs.
+
+For the next hour, the theatre students practised in a five-point star formation. Min-Jun, already assuming his role as the “sound crew,” provided the metronome for the other students to follow, speeding and slowing their actions as Costello instructed.
+
+If anyone was a beat off, Costello would restart the routine, eventually passing the torch to his new favourite student so that he could toy with the actors “on stage” himself.
+
+Throughout the exercise, Eppie struck each beat with near-perfect precision, following the person in front and wary of the person behind, exercising her [Physicality] to its utmost.
+
+“Stop!” Min-jun’s voice filled the room. The actors are tired. They are exhausted from the news and the hour of gruelling body control. “Er… Maddy, you’re falling behind. Then you started leading Rachel behind you… Sorry.”
+
+The girl that Min-jun addressed was a leggy Sophomore with the proportions of a Sports Illustrated model and a face that made teenage boys blush for shame. The name of the young lady was Madison Evans, Eppie’s rival, or so Min-jun had stated.
+
+In ten years, Madison Evans could probably make a living hawking health products as a yoga guru on Instagram, but for now, her options were limited. For some reason, it wasn’t Min-jun that “Maddy” looked at, but Eppie.
+
+First to Eppie, then to Costello, then to the floor, biting her lips like a sultry child.
+
+Ergh… Eppie read the atmosphere at once. Maddie was the girl who was berated by Mrs Kirby in the morning for being shallow. Two setbacks in one day? She could feel the drama brewing in a teacup.
+
+“Sorry…” was all Madison could say.
+
+The weather was hot, and the humidity was unrelenting.
+
+In the windowless theatre box, every actor and actress understood Costello’s words.
+
+In two months' time, they needed to strut alone into a room, announce their roles, then read their lines live before a trio of judge, jury, and executioner.
+
+Dinner was a chaos of rehearsals, debates and discussions.
+
+“Which Antigone are you going for?” Lucy asked over their shared stack of pizzas. “Whatever you’re doing, I won’t be.”
+
+“Same, same,” Chelsea sighed. “How can I compete with my idol?”
+
+“I am your idol now?” Eppie cocked her head at her dark-haired companion with the straight bangs.
+
+“You would know, if you check your damn MySpace!” the girl growled. “Min-Jun! Give us the numbers!”
+
+“32,000 views!” Min-Jun called out like a bookie at a horse race. “Over a THOUSAND COMMENTS! Rating at 4.6! It’s good!”
+
+“You’re our local celebrity now,” Lucy mockingly performed a curtsy. “Your Majesty…”
+
+“Ha-ha,” Eppie had to admit that the theatre kids were an absolute hoot compared to the kids she knew at her private preparatory school a lifetime ago. They were just so full of optimism and life, and she loved how they wore their heart on their sleeve, at least for now. “You may rise, Dame Tanterman. I bestow upon thee—a slice of Pepperoni Pizza, extra anchovies!”
+
+The group fell about laughing once more.
+
+“So, which Antigone?”
+
+“The last, I think,” Eppie chose the one she felt was the most suited to her being. After all, was she not one who had died a double death already? She didn’t even need to act.
+
+“REALLY?” Lucy leapt from her seat. “Not the first? You get so many solo lines! And there’s a minimal chorus ensemble!”
+
+“You’re the one who asked,” Eppie shrugged. “The scene gels with me. That’s what matters, right? I don’t care about…”
+
+She paused because she was lying now. She did care about the limelight. She wanted Cooper, Costello and Seyrova’s approval. She wanted people to pat her back and tell her she was a good girl who did a great job. She wanted the [System] to give her [Causality].
+
+“That’s because you’ve got a career,” Min-jun stared dreamily at the video of her singing in the dark. “Say, who took the video? Guy’s hands keep trembling. It does add to the vibe, though.”
+
+“Yeah, I know girls who got contracts for their MySpace Songs, and they weren’t as popular as your song. You’ve got more views than people have in years. I wonder why?”
+
+Because I have the dark hand of corporate sponsorship, Eppie deeply suspected that Sony had a hand in the popularity of Starry Starry Night, though she would not know the true reason for her success until she returned home, and manual clicked each and every one of her two thousand odd approval requests.
+
+NYC. The Met.
+
+1000 Fifth Avenue.
+
+As the art authority of the nation, the Met housed the single largest collection of Vincent van Gogh’s work in the US, including Wheat Fields and Sunflowers, and for the duration of the next few months, Starry Starry Night. The museum’s Chief Curator, the national authority on the works of the impasto master, Juliana Vaughan, was not one who cared for viral songs on the “Internet”.
+
+She had spent her life teaching Van Gogh, and a decade in trying to relate to the visitors of the Metropolitan Museum of Art, the absolute loneliness felt by her idol on that inconceivable summer night, bleeding out in the arms of his tearful brother, staring at an ever-changing sky, believing himself to be a failure.
+
+Thanks to her curation over the years, Orchard with Cypress was valued at 77 million USD, and Starry Starry Night at 500 million USD.
+
+Not that anyone could even begin to purchase a painting of such renown.
+
+Such beauty belonged to the public. It was free for the people to see.
+
+Nonetheless, the price point was all people would talk about whenever they saw the paintings, each far smaller than in viewers' imaginations. What Vaughan struggled with more than anything was how to curate the collection so that the visits felt, acutely, the isolation, loneliness, desperation, and heartbreak of the painter.
+
+She had felt that such a thing was improbable.
+
+Until this morning.
+
+A friend of Vaughan’s, a fellow creator with a temperament no less acerbic than her own, sent over a suspicious link.
+
+After verifying the link with her cybersecurity team, she sat in her white marble office, sterile but for the enormous reproduction of Le Mont’s Studies in Mauve, and played the video on the website MySpace.
+
+Then she wept.
+
+Juliana Vaughan, 67 years old, PhD, the Mistress of the Met, the singular authority on the works of the Master himself, wept like a sixteen-year-old seeing her first Van Gogh.
+
+She didn’t understand why a child could sing such a song.
+
+She didn’t understand why the song’s lyrics struck truer than any essay any number of her PhD students had ever written.
+
+But she accepted it.
+
+She accepted it because she now knew how to make her visitors hear the words that Vincent tried to say through his paintings. Make them see a man who suffered for his clarity, and for whom his brushstrokes set him free.
+
+Her visitors would not listen then, but they will listen now.
+
+With a technological luddite’s meticulousness, she copied and pasted the link, then sent it flying through the information super highway of the World Wide Web.

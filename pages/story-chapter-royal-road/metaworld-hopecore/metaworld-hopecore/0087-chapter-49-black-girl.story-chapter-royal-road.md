@@ -1,0 +1,227 @@
+---
+id: 60c99cfe-6f49-5bc7-b172-b993662a9cac
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 49 - Black Girl"
+slug: 0087-chapter-49-black-girl
+partOf: metaworld-hopecore
+position: 87
+ownLength: 3163
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3448494/chapter-49-black-girl"
+royalRoadId: "3448494"
+---
+
+“They that walked in darkness sang songs in the olden days — Sorrow Songs — for they were weary at heart.”
+
+W.E.B. Du BoisThe Souls of Black Folk
+
+At 7 PM, she met Lim in the dark basement, cat in hand. Lim had opened and closed the door with just enough sound to announce his arrival. He slid down stairs soundlessly, then asked her a quintessential question. “Chicken or Beef?”
+
+“Chicken.”
+
+Lim made the noodles as they spoke. “William texted me earlier, saying he may need my help with the CCTV again. I panicked and came immediately. Then he told me to go home. He was supposed to be at the video lab until 9 PM. We were going out for drinks at the club, to celebrate his film.”
+
+The sealed cups were ready in 2 minutes.
+
+“Yeah,” Eppie sipped the hot soup apologetically. “That’s on me.”
+
+“Did you provoke him?” Lim said critically. “Taunt him with the recording?”
+
+“Nah, I had someone beat the snot out of him,” she said between mouthfuls.
+
+Lim laughed, then stopped laughing when he realised she wasn’t joking. “You’re serious?”
+
+“Yeah. You should have seen his face,” she described William’s wounds with great gusto, especially the perfumed bite mark.
+
+“San-jei can be—” Lim swallowed his words.
+
+“As insane as she is spicy?” Eppie suddenly arrived at an incredible thought, then felt guilty for hoping that Valorie would do an Amber Heard. No matter their bedroom antics, no cleaner deserved what was waiting for them in the sheets. As a redeemer, she really should not be having this much schadenfreude. “Like reaper grade sriracha?”
+
+“Ahah…” Lim had humoured her. “I am glad you’re safe. If you weren’t…” The man’s knuckles tightened. “What did he want from you?”
+
+“He wanted to know what I wanted,” Eppie answered. “I told him it's simple. Confess. Go to jail. Do his time. Repent. Come back out when he’s thirty. He’s still rich, handsome, and a Chen. Only he’s become a better person. Win-win.”
+
+“I am sure he agreed.” Lim looked at her, his face struggling to remain under control. “How did you get San-jei to beat him?”
+
+Eppie decided to have some fun with the giant to lighten the mood. “Would you believe it if I told you Val was jealous of the connection Willy and I shared?”
+
+Lim looked her skinny ass up and down. “Not with that…” Eppie felt a sudden urge to show Lim what [Strength] 20 felt like.
+
+Rolling her eyes, she told him about the sign-up sheet.
+
+Lim roared with laughter, taking a whole minute to shake himself out of the dangerous revelry. “You’re too cruel. Fon-mei-mei”
+
+“Am I?” Eppie drank from a cup-noodle box. “I am trying to convert them, you know. Sometimes, you have to be cruel to be kind.”
+
+“You’re playing with fire.”
+
+“What’s the worst that can happen? Will they defenestrate me?” She paused. “You ever defenestrate anyone, Lim? Did William ever give that kind of order?”
+
+“This isn’t the nineties But you know, during the riots,” Lim looked at her with a very serious expression, his voice suddenly low. “My Father…”
+
+“Your father?” Eppie grew morbidly interested.
+
+“Was a Physiotherapist… who specialised in sprains.”
+
+“Diu—!” Eppie swore. Lim cackled.
+
+The giant shook his head, exhaled, then reached over and held her tiny hand. Mr Chin joined them with a paw. “Meow!”
+
+“Be careful in NYC,” he said to her, his voice actually serious. “There’s a lot to do when you get back. I’ll be working with Mrs Lafitte on exposing the Chens’ relationship with Senator Sanders. It’s all happening in May.”
+
+Eppie stroked Mr Chin, then placed her hand on top of Lim’s. Bloody hell, brother Lim’s got big hands. She suspected that if Lim had truly been William’s lackey, and he had managed to snag her from behind, she might be pumping [Causality] into [Vitality] instead of [Stamina]. “You be careful too.”
+
+They finished their noodles in silence, smiling at one another and at the cats' curiosity as they came to add both affection and fur to their chicken noodles.
+
+Lim’s greatest worry was that William would somehow get to her via means not related to the Five Root Association. Eppie had reasoned that this would not be an issue because she wasn’t in LAPA or her dorms. She wasn’t even going to be here in LA.
+
+“I just realised something,” Eppie suddenly groaned. “William completely sidetracked me.”
+
+Lim’s face stood to attention. “What’s wrong?”
+
+“My bags…” She moped. “I still haven’t packed for my NYC trip…”
+
+Friday.
+
+Mid-morning, Eppie self-soothed by overthinking.
+
+She was going to NYC, and with Sony footing the bill and giving her a spending budget, she would have an amazing two-week sabbatical. Both Eric and Zara had invited her for Christmas and New Year's, but she had told them not to worry. Zara especially wanted her over at Fresno. Eppie informed her that she would prefer not to disturb Mio with her William-adjacent bullshit, especially when Mio was getting close to her due date. Besides, Eppie told her friend. Since she would be in NYC, there was a nonzero chance that Curon might fly Zara out to Sony Studios on Madison.
+
+On her return, Eppie promised she would have presents for everyone.
+
+In her old life, it was Emily who had taken care of all her nagging socials. In this time… Okay. She confessed. In this life, it was probably Maddy Filmore. BUT SHE WAS GOING TO BE NICE. Yes! She promised herself. Be a good person. Give Maddy lots of money and kisses. She would gift Maddy, so Maddy could gift others with her gifts.
+
+YES, Maddy would buy modest presents for EVERYONE using her spending account.
+
+She would dub this policy [Trickle-down Presenomics].
+
+She got ready.
+
+On the final day of school, there was no school. The gates opened at seven-thirty for a final briefing by Principal Burton to a cohort that was 30 per cent present, then the kids drifted off to retrieve their equipment, costumes and suitcases, ready for the holidays to start.
+
+Chelsea and Lucy gave her hugs and kisses and promised to return on the 7th. Min-jun said that he was literally stuck working at his uncle’s Korean BBQ joint in K-town, and she could come and eat whenever she wanted—but not too often—maybe once—and he could give her a discount. Chloe gave her a peck on the cheeks and told her that she looked forward to what manager Eppie would do for their production of Titus.
+
+Until lunch, she did not see William or Valorie.
+
+Her suitcase was packed. She was ready to go and see a 33-year-old mother of three.
+
+At the school gates, while waiting for her taxi, she paused.She was feeling nervous. This was a new sensation for Eppie, so much so that she suspected her [Persona] body might know something she did not. In her old life, she had trafficked with Saudi Princes, bartered with sitting Senators and flirted with awkward Tech-bro billionaires, and had felt less self-conscious than she felt now.
+
+Why was it so hard to go to Mae’s Diner on Broadway Manchester? Why had she put it off until this final, non-critical moment?
+
+She had to do this. For herself. For Eppie.
+
+According to Lafitte, Denise Goode worked the early to mid-afternoon shift. She should be working now and going home later, then heading back to work at the Century Grill. Snaking her way into Denise’s good graces, then boxing Simone in her home, was the plan she had concocted. It was a dirty plan, but no one was going to be defenestrated, and the harm was minimal.
+
+Against a traffic reflector, Eppie checked her fit. She was casual in her oversized sweats, but chic in her tightly-fitted easy jeans. Her Adidas were a bit of a mess now, thanks to the kittens, which suited her fine. She looked neat, poor and young. She also stole a CSULA hemp tote from Josefina to complete the look. She left her hair unbrushed, in a bun, so as to vibe the starving-artist aura.
+
+She was ready.
+
+Ready for cheap coffee and a kosher bagel.
+
+Mae’s diner was located on a vintage storefront on Broadway.
+
+As the sole surviving classical diner in four blocks, it was an institution.
+
+A visitor knew its authenticity from the sun-faded hand-lettered awnings, its ancient stools made by someone’s Irish ancestor, and a counter that had been absorbing the northerly sun for the last five decades. The window countertop sagged from the weight of the people and the number of coffees it had served, and twice when a car drove through the front.
+
+Inside, the coffee was cheap, sharp and plentiful, its olfactory presence joined by the murmur of patrons in constant conversation. There were a dozen booths, all ancient, running counterclockwise left of the kitchen. The menu was chalkboard, the prices had inflated somewhat, much to the shame of the owners, who added the words “Sorry!” next to the increase.
+
+Eppie took up the last stool at the counter.Christmas tinsel had been strung above the counter with the specific energy of someone who had run out of fucks when the double-sided tape failed. The place was half full, but the atmosphere made it seem like a full house. The clientele was primarily African-American, with a few old Italians who chose to stay or were too impoverished to move. There was a postal guy eating a plate of scrambled eggs to her right for lunch. Two women in hospital scrubs were taking turns trying to finish a pie. An asian kid did her homework in the corner. Another teen was already engaged in the great art form of the 2020s, doomscrolling, completely ignoring the trading card packs his friend had brought. Some oddfeller had dozed off mid-sandwich, and other patrons were generally trying to work their way through late lunch so as to return to work.
+
+Eppie watched her mark.
+
+Denise Goode was younger-looking than someone who was supposed to be a mother of three. No, she was seriously well-kept for someone who looked twenty-eight or nine.
+
+She was tall and slim, with a figure a little more curvaceous than Simone's. Her uniform was clean, not spotless, but well-ironed. Her shoes looked like they had worked twenty shifts since Monday. She moved with quiet efficiency—a coffee here, a refill there, taking orders and delivering them from kitchen to table.
+
+The customers seemed to know her. They called her by her firstname. She touched their shoulders, and she asked about their families, their children.
+
+“Hey there, what can I—” Denise’s metronome skipped a beat when she reached Eppie. “Oh my goodness, Euphemia Fontaine! Is that you?”
+
+Denise Goode had the high cheekbones of the Igbo with an exotic mix of colonialism. She had a wide mouth that was slightly downturned, a high-ridged nose, and large black eyes that were enhanced by tired-looking wingtips. She wore lashes, probably because they brought in larger tips, and lipstick in a hue that drew the viewer’s eyes to her smile. She was a good indication of what Simone might look like in five years.
+
+For someone who looks so tired—Eppie remarked with wordplay—one does not tire while looking at her face.
+
+“Hi, Ms Goodes,” she made herself meek. “It’s been a while.”
+
+“A while?” Denise pressed both hands flat on her apron and studied Eppie like an exotic bird. Eppie studied the woman well. Denise was unpretentious and friendly. She clearly seemed to know the walking corpse of her [Persona], and she did not possess a hostile bone in her entire body. “Honey, we haven't seen you around here in half a year! What can I get you? Are you here to eat? Or is this about Simone?”
+
+Eppie ordered eggs, toast and orange juice. Denise came and went, squeezing in conversation between customers. “A bit of both.”
+
+“I see. How’s school?”“Really good, actually,” Eppie replied. “Wonderful. I heard you’re a songwriter now?”
+
+Did Simone not tell you that I wrote Umbrella? Eppie smiled like an innocent flower. “Yeah, I’ve been keeping busy. Both music and theatre, ya know? I think that’s why we’ve drifted apart.”
+
+“Simone did tell me you’re no longer in the dorms. Excuse me.”
+
+Denise left to work.Denise returned.
+
+“It’s such a shame. The two of you were so close. You remember the girls—?”
+
+Denise left to work.Denise returned.
+
+“The girls, Renée and Cora. You were Cora’s favourite.”
+
+Denise served coffee. Took orders. Managed the till. Took the food to her customers. “—Did you know our Simone got a new job? She’s waitressing in Chinatown, a real fancy restaurant. It’s owned by someone from your school—one second.”
+
+Denise left. Denise cleaned a table and stacked the dishes. She made small talk. She made a round to the kitchen, served six full plates to four tables, then returned to her with a cup of hot chocolate.
+
+“Here, on the house. It’s a shame that even I don’t see Simone much these days. Kids… I guess she’s all grown up. Does Simone have a boyfriend?”
+
+That last question, Eppie guessed, was the true question behind all of Denise’s small talk. Denise left.For a brief lull, it seemed like there were a dozen Denises in the place all at once.
+
+Every dish served, every order satisfied, every flirting customer, every grouch, every kid who almost knocked the coffee from her hands, every time the cook tried to give her a greasy smile that made her laugh—Eppie’s world felt somehow shittier.
+
+Denise came back, finally, after five minutes.It was now 2:10. She was supposed to finish at 2.“No boyfriend I am aware of,” Eppie said when Denise finally hung up her apron. The cook retreated back into the back, looking like the only joy in his life was gone. “But she’s so pretty. One wonders…”
+
+“Please don’t joke about that.” Denise looked so tired that Eppie could not continue to tease her. The waitress ironed out her uniform with her hands. “I am done with the shift. We’re just two streets over, if you recall. Want to come see Simone with me? She should be home later, around six, she said. The girls have missed you.”
+
+“I would love to,” Eppie lied as she breathed.
+
+She picked up her tote. Inside were chocolates and candy she bought from the university stores. Gifts from the fans. She would say. They’re just props. Eppie convinced herself. There was no reason, no reason at all, to bring gifts otherwise.
+
+The two-block walk felt like two suburbs.Walking through Broadway was NOT the same as taking a taxi to Broadway Manchester.
+
+Eppie had been certain that it couldn’t possibly be as bad as it looked, but the architecture kept proving her wrong. In her head, in the taxi, she had thought the place to be just an impoverished suburb, but now that her feet were on the cracked pavement and the tremors of urban decay were travelling up her pant leg, she knew.
+
+She knew why Denise walked fast for someone who had been on her feet since the wee hours of the morning, walking with such purpose that Eppie, with her height disadvantage, had to actively pace behind, all the while watching the street.
+
+The commercial part of Broadway wasn’t so bad. A few homeless here and there, graffiti everywhere, art tags and something else Lana had only known through YouTube videos. There were murals. Not the kind that was organised by the city, but spray-painted prayers with strange symbols like stars in blue. She wasn’t sure what they were, but she was certain it had nothing to do with the local Jewish community.
+
+The liquor store.The beauty shop.The pawn shop.The porn shop.The convenience store. A video store with the door kicked in, its windows duct-taped.
+
+There was genuine art here and there by local artists as well. However, it seemed to her that the local community both loved and hated the magnificent messages about hope or God or unity. There were graffiti tags over the art, then the art merged with the tags, then someone tagged over the tags. It was all very confusing. There was a rawness here, the kind that Fox and Friends showed during prime time as proof for one argument or another.
+
+Past the shops, dog barked continuously from somewhere unseen. Two boys on bikes circled the intersection, doing wheelies, but thankfully keeping to themselves.
+
+"Hey, Dee."
+
+The shout came from a group of men outside a shuttered tyre shop. Denise didn't break stride. Eppie was too afraid to stop.
+
+“DEE—! Wassap? Who’s your friend?” “She looks yummy yum!” “Where’s Simone gone, girl?”
+
+"Still got the night shift!" Denise shouted at air. She didn’t look, while Eppie did her best NOT to look. Denise walked with the economy of a woman who had been doing this daily for a very, very long time.
+
+Eppie kept herself on the outside, so that Denise walked between her and the men, then she felt ashamed.
+
+The first block finally ended. Like hostile NPCs guarding their turf, the leering men watched them go.
+
+Denise lived at the second-to-last house on the second block. Overhead, utility poles threaded wires across the sky in every direction, giving the place the ambience of a giant spiderweb. Eppie felt her fingers tighten on the tote. She had never noticed, ever, that in Lana’s neighbourhood, there were no utility poles. Everything was underground or hidden in greenery. There were even flower gardens on the public sidewalks.
+
+The Goodes' house was a faded pastel, wood-framed, one-storey bungalow, the roof was slightly convex, sagging, and the only spot of happiness was the bright yellow someone had painted on the security bars. There were no toys on the front lawn, no basketball hoop or abandoned tricycles. The grass was tall, but there were no weedy flowers. In the middle was a lemon tree. There were no lemons.
+
+Their neighbours echoed the aesthetic. All of the homes were fenced. Not nicely, as one might imagine white pickets from a Norman Rockwell pin-up. Instead, there was an insidious order to the barriers, a visual metaphor about how the neighbourhood felt about its denizens. Chain-link fences enclosed the front, with signs, boards, and mailboxes hanging from them. Behind the fence, thick bars enclosed the windows, security gates enclosed the doors.
+
+Denise had her keys out before she reached the gate. Even in daylight, Denise checked the surroundings before opening the wire-loop. She looked back at Eppie with a look that was warm, exhausted and unguarded. “Come on in.”
+
+“CORA!” she called out. “Renée! Look who’s here!”
+
+The door opened. From inside the house, she heard a children's programme playing.
+
+“MUMMY!” Cora came barrelling out of the door.
+
+Renée stood by the steps, far more reserved, looking at Eppie with confusion and suspicion, then finally, horror.
+
+She knows. Eppie felt her chest constrict. Oh my god. Simone told her sister.

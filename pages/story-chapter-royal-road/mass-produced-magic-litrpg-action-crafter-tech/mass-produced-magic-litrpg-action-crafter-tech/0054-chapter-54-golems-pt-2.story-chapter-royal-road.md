@@ -1,0 +1,161 @@
+---
+id: 0a78e129-0e38-50f2-9806-8431e0edcc95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54 – Golems – Pt 2"
+slug: 0054-chapter-54-golems-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 54
+ownLength: 1760
+unit: words
+publishedAt: 2025-02-01
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2042730/chapter-54-golems-pt-2"
+royalRoadId: "2042730"
+---
+
+The golem was corroded and covered with grime. The pieces were worn and old.
+
+Reaching forward, Kindra ran her fingers across the metal, wiping off a layer of dust and ash.  Are you the secret to defeating that necromancer?  She watched Dain leave, his boots clunking on the stone floor. He vanished into a room.
+
+Kindra turned back to the golem.  Okay. The real trick is understanding every piece. How do I do that?  She frowned and triggered Scavenger’s Sight. The entire golem lit up.
+
+[Corroded Steal Golem.]
+
+She dismissed.  That is not helpful.
+
+Boots clunked across the floor. Dain returned with a set of tools. He walked up to the golem and started taking it apart, removing a large panel from its chest.
+
+Looks like the other one.  Kindra studied the gears, pistons, and runes inside. “Why build them this way?” she asked.
+
+Dain looked over. “I’m uncertain.” He sighed, his long beard bumping into the golem. “This knowledge was lost.”
+
+“But we’ll get it back,” Gleon said with a large grin. He looked over and reached for Aika.
+
+Aika stuck out her tongue and leapt away, flying up and peering inside the golem. “Seems inefficient… Where is the, umm, Kindra, what’s the word for motor?”
+
+“I have no idea,” Kindra replied, swapping back to English. “They don’t know much beyond simple things from the medieval time.” She frowned and looked back, swapping to dwarvish. “How do you power it?” She gestured to get the words across.
+
+“Magic,” Gleon said, chuckling and shaking his head. He pointed at the rune-covered metal and gems inside.
+
+Kindra studied them, focusing on the runes.  So, this is how they made basic sentience?  She frowned and looked at Sigrid.
+
+Sigrid set down a book of runes, and Kindra flipped it open, working through it at a glacial pace.
+
+The three dwarves began taking the golem apart, and another realization hit Kindra. She glanced back at the dwarves. “Do you expect me to figure this out?”
+
+Sigrid turned and smiled. “Of course not, sweetie. We want you to learn and grow, though. This will help.” She patted Kindra on the back and placed a gear in front of her.
+
+Kindra blushed.  They see me as a child. They really do.  She studied the gear and the runes on it. Many of the runes were familiar.  So, a strength boost and the sealing spell?  She mused on it and examined another piece that had the same runes.  Well. These did not make it move. Maybe they used a skill like mine for that.
+
+She looked over. Sigrid opened the head, revealing a faded gemstone inside. Kindra studied it.  Is that quartz?  She shot it a look of confusion.
+
+Sigrid gently placed the gem on the table. She sat next to Kindra and pointed at a tiny rune written on it.
+
+Kindra leaned closer and saw runes everywhere. A maze of them spread across the gem.   She blew a strand of hair from her face.  This is way beyond everything.
+
+Sigrid frowned and flipped open the book, trying to find the runes.
+
+Reaching over, Kindra picked up the gem and traced the runes with her fingernail.  I’ve only seen these…  A memory slammed into her. She was typing with Death, and runes were streaming around her.  He used them. But how do I break this down? How do I attack a problem when I don’t even know where to begin?
+
+~~~
+
+Kindra looked at an old memory. She was eight and in her father’s lab. He looked down at her, a cheery smile on his face. His eyes sparkled, and he spun away from his computer. “What’s wrong, little inventor?”
+
+“I broke Aika.” Kindra swallowed and held up a robotic doll. It stood there limply.
+
+“How?”
+
+“I tried to upgrade her, and I broke things.” Kindra wiped at her nose. “Can you help?”
+
+He paused and nodded. “Yes. Let’s get her fixed up. What went wrong?”
+
+“I don’t know how this one works.” She gestured at the robot.
+
+“And the manual?”
+
+“It’s hard to understand,” Kindra admitted.
+
+Her father chuckled. “They often are. So, how do we approach it?”
+
+Kindra sighed. “Dad, not this again.”
+
+“Yes, this again. How do we attack a problem we don’t understand?” He opened his mouth and closed it, miming eating.
+
+“One piece at a time.”
+
+He grinned. “Exactly. Break the problem down to the smallest pieces and attack each one.” He picked up the robot and gestured to his desk. A window popped up, revealing Aika’s code. He smiled and turned back. “Come on, let’s get her fixed up.”
+
+Kindra moved forward, her focus turning to the computer. A window of code stood there, and she studied the lines of code. “What do they mean?”
+
+“I bet you can figure it out. Walk through each one and try to determine what it’s doing.”
+
+Kindra did just that, walking through each line and spotting the patterns… Patterns and simple versions. The thought slammed into her, pulling her out of her memory and back to the crystal in front of her. The three dwarves were busy pointing and debating.
+
+Ignoring them, Kindra focused on the runes, searching for the patterns on the crystal and memorizing runes. Willing each one into her mind, she focused on them.
+
+I’ve seen those in other spells…  She paused and studied a sequence.  That one. I saw it when I was dead.  She made a mental note and moved to the others, memorizing the four chains of runes.  I’ll have to experiment with them.
+
+She stood up, walked to the golem, and peered inside. An engraved piece of metal sat there, and she shrugged, placing the crystal inside.
+
+Feeding a single mana into the crystal, she watched the runes light. The crystal spun, the golem lurched, and the magic faded, causing it to tip over. She grabbed it.  Answers one thing. That’s the motor.
+
+“Easy now,” Dain said, reaching over and propping it back up. He took the crystal.
+
+Kindra nodded apologetically. “Sorry. Got excited.” She turned back to the golem and sat on the stone floor. Reaching into her stash, she pulled out weapons and started making a miniature version of the golem, delicately creating the skeleton using Transmutation.
+
+Aika flew down and joined her, assembling it with a curious look.  “What’s the plan?”
+
+“We figure out how to get sentience in it. That’s obviously the motor even if I don’t know how it works.”  Kindra handed her a small gear.
+
+Aika slid it onto the robot.  “This is all about its movement.”
+
+Kindra peered inside and studied the metal rod that connected to the gem. The connected to a box. “Dain? Can you get that out for me?” she asked, pointing at it.
+
+Dain leaned over and nodded. He picked up a screwdriver and began unfastening the box.
+
+Gleon peered inside and looked over with a nod. “What is it, Dain?”
+
+“Gearbox,” Dain said, disconnecting the various rods connected to it. He pulled out the box and set it on the table. Kindra stood and studied it.
+
+Dain reached over and gently pried off the lid, opening it to reveal something akin to a transmission. Gears on connecting rods were set up to slide in and out, carrying the power through the creation.
+
+This is impressive.  Kindra studied the mechanisms and the runes. Some were to fortify it. Others were different, but were on rods that could move the gears.
+
+She memorized the box and looked at the three. “What makes it think?” She gestured to her head. “Something has to decide what to trigger.”
+
+Sigrid turned and sighed. “We think the answer is there.” She gestured to the crystal.
+
+Kindra nodded.  It’s possible one of those sequences does that. I can mess with them in a minute.  She turned her focus back to her tiny replica, using her magic to build out the last of the parts.
+
+Aika blurred by, happily assembling the pieces. Kindra studied the gears, pistons, and rods that made it all function.  Looks like a wrecked car transmission.  She smirked at her own work and shook her head.  I’ll make a drone next. Assuming this works at all. I may need a gem, too.
+
+A hand swung down and patted her back. She looked up.
+
+Dain smiled. “Impressive.”
+
+“You do know I’m not a kid, right? Remember?” she asked, looking up into his brown eyes.
+
+“Kindra, sweetie, to a dwarf you are. You can’t be more than thirteen cycles, and we can live for a thousand.” Sigrid smiled at her.
+
+Kindra paused. “How many cycles?”
+
+“Thirteen, give or take a couple,” Gleon said with a nod. He paused a moment and looked at the other dwarves, gesturing.
+
+“What?” Kindra frowned, trying to pick up the meaning. “What?”
+
+“Nothing.” Sigrid shook her head. “They were debating if magic could have altered that.”
+
+“It might have.” Kindra paused.  The gravity and dilations could have, too.  With no answer to her age, she focused on her replica golem. She touched it and triggered her skill.
+
+Magic thrummed around her. It surged into the miniature golem, lighting up the drive train. Runes surged and gathered there. A tether formed in Kindra’s mind, and her eyes went wide.  It’s like another limb? That’s strange.
+
+Like a foreign third arm, the golem’s senses sat there, a strange invader in her mind. She reached out and willed it toward the door. The little golem lurched up, spun, and walked to the door. Its little legs clanked on the stone, and Aika giggled, following it across the floor.
+
+Kindra smiled and willed it back. The golem spun and clomped its way toward her.  Well, it works, but that’s about the most inefficient system ever.  She reached down and picked it up, focusing on the runes inside.  Well. Two of those are the same. One’s similar, and the other is completely different.  She nodded and memorized.  I need paper and pencil.  She looked up at the dwarves to ask.
+
+They all stared at her. Gleon grinned. “Well now, one step closer.” He bound over, reached down, and picked up the golem, setting it onto the stone table.
+
+Kindra stood.  Is it even worth fighting? They have treated me like a daughter.  She looked at Sigrid. “Sigrid, do we have paper and pencil?” She gestured.
+
+Sigrid shook her head. “Not yet. People have been busy.”
+
+“I’m going to make some. My memory is good, but this is a risk.” Kindra spun and headed to the door with Aika following her.

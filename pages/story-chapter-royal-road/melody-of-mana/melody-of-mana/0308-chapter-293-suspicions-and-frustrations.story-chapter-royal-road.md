@@ -1,0 +1,101 @@
+---
+id: c276b702-c332-508d-9b02-eac986066290
+page-type-slug: story-chapter-royal-road
+title: "Chapter 293 Suspicions and Frustrations"
+slug: 0308-chapter-293-suspicions-and-frustrations
+partOf: melody-of-mana
+position: 308
+ownLength: 1310
+unit: words
+ownProgress: 1310
+publishedAt: 2023-12-16
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1444958/chapter-293-suspicions-and-frustrations"
+royalRoadId: "1444958"
+markedReadAt: "2026-06-29T22:36:27.614Z"
+---
+
+Lena
+
+We'd only been settled into our room for a few hours when someone came by. The maid's eyes flicked to the corners here and there, as if she was looking for something, a brief smile flashing across her face when she realized I was watching her. Odd, very odd.
+
+I was grateful for the hot bath, the light meal we'd been provided, and even the change of clothes someone had sent up. None of it was top quality, but none of it was bad, and after days in the same outfit all of us needed to do laundry. The stink was palpable after the wash. Perhaps we could even buy a set or two of clothing before we left, assuming leaving was so easy.
+
+“Not that I don't appreciate the dress, but isn't this kind of...” Illa said looking down at the cloth with a frown.
+
+“Awful? Yeah, one of the main exports here is cloth and bulk fiber. Hate to be the bearer of bad news but the ones available to the elves sort of suck. Or at least most of them do, I heard that some of the really premium ones are nice, but painfully expensive,” Veska answered.
+
+“Didn't know that,” I said as I too examined the slightly rough textile. The weave looked good from what I could tell, but it was still just a little scratchy.
+
+Amara didn't speak, instead pointing to her ear. The meaning was clear, privacy. The two wizards in the group shared a look before Illa took up the mantle, her hand flipping and a light glow surrounding the walls.
+
+“Not sure if it's perfect, but I'm guessing you want to talk about something other than itchy clothes,” she said to her cousin.
+
+“They're searching the premises,” the princess informed her.
+
+“For what?” asked Veska.
+
+“Or who?” I added, giant crabs stick out a bit.
+
+“Don't know, they're being quiet about it, trying to be subtle, and failing. I can hear them though, going room to room, spending a few seconds in each, then moving on. Something's spooked our hosts.”
+
+“Shit, that's not good,” I said. “Should we tell the boys? Not sure they'd notice. Need a reason to see them though.”
+
+“Note not speech, mind Amara? Also I got it, mind dropping the barrier?” Veska asked as she began to gather up our clothes into a nearby basket.
+
+The princess began writing in fluid calligraphy while Illa turned her hand, the glow fading.
+
+“These stink,” Veska said. “Think there's a washing room?”
+
+I picked up what she was saying instantly. “Yeah, let's grab the guy's stuff too, hate for them to stink and they'll probably try to foist it on one of the staff.” That was true too.
+
+With a conspiratorial smile we headed over to their room, where they too were chatting, though about nothing important.
+
+“What's up?” Omos asked.
+
+“We're going to go do some laundry, you need us to take yours?” Veska smiled while the prince's sister pushed the bit of paper into his hand. He read without speaking and nodded.
+
+“Uh, no, we're good, I have a spell for that,” Rodrick said without thinking.
+
+Every girl in the room turned at the sound of his proclamation, and I could hear the bells already, signaling the impending execution. With a glance I confirmed that Omos had changed, his other clothes looking fresh and folded neatly.
+
+I didn't much mind washing, goodness knows that I'd done enough of it through my childhood, but I didn't like it. Normally we had a servant each when we were at school, an old tradition that had been carried over, kept into the new kingdom. Those had been left behind in human lands though, so all of us had to keep our own messes clean for this trip.
+
+“Since when?” Veska asked him, eyes locking on.
+
+“What? Since like, always, I hate doing laundry,” the fool responded foolishly.
+
+“Are you telling me,” she let the venom creep into her voice. “That I've been walking around in progressively grosser underwear for the better part of the last week and you have a clothes washing spell?” she breathed in. “Or for this whole trip I've been manually cleaning my clothes when my boyfriend could have sung them sparkling new for me?”
+
+I could see him floundering, looking for the words to say, looking for his out.
+
+“I... sort of like the way you smell when you're all sweaty?” he stumbled.
+
+Wrong answer.
+
+The basket of dirty clothes was dropped almost on his foot and the furious redhead pointed one angry finger at it.
+
+“You. Wash. Now!”
+
+I put up a hand to giggle behind as his two female relatives descended upon him, eager to express their own displeasure at this secret he'd been hiding. As I did I saw Omos, now left to the sideline look over, seemingly wondering if I would get in on it too. There was no reason for me to though, not like I'd known the guy for very long.
+
+“I... didn't know until just a bit ago,” the prince said by way of explanation, he looked like he was worried I might take the chance to jump down his throat.
+
+“It's fine, wanna leave this to them?” Our message had been delivered, and it didn't look like there was an immediate threat, so I didn't really need to be here for Rodrick's punishment.
+
+“Yeah,” he said, rubbing the back of his head.
+
+We moved into the hallway, leaving the argument behind, and started walking towards one of the nearby windows. There was a small alcove there, where you could look out on the city. With nothing else to do it seemed not the worse place to go.
+
+“I'm not mad. Though if I hadn't had a wash and gotten something fresh to wear I might be a little irked,” I told Omos with a smile, trying to get him to relax.
+
+“That's... good, and the dress looks good on you too,” he hurriedly said.
+
+I blinked and felt my head tilt just slightly on its own as I looked at him. The small smile, the little blush creeping up his cheeks. Was he flirting? I'd seen Omos take command of people, decide when things were bad what to do. I'd seen him face down adults who'd normally try to order us around, but I'd never seen him like this. He looked nervous, a bit lost. Maybe he was afraid I still remembered how he'd peeped on us girls in his younger days, that was rude, but since he'd apparently stopped I wouldn't hold it against him too much.
+
+Honestly I'd not really considered it with all that had been going on, but he wasn't bad on the eyes. We were both separated from our home, alone, stressed, trying out hardest. So maybe that wasn't the worst thing, and I could use an outlet for some of that stress. At any rate, how often did one get any chance to bag a prince? It wasn't like they were exactly common.
+
+Deciding I leaned in, pressing my lips to his. Maybe nothing would come of it, maybe it would. If it did... well I had a certain tattoo which would handle it if things got a little further than I was thinking now. At that thought I pushed some mana into the mark on my lower belly, feeling the slightest jolt as the spell inscribed there pushed out and into me.
+
+For the briefest of moments I worried that I'd messed up, that I'd gone too far. I could see him pushing me away, angry. Then hands settled on my waist, pulling me closer, together against him. As I opened my mouth a bit to breathe a tongue that was not my own entered, seeking to taste me more deeply.
+
+Score!

@@ -1,0 +1,189 @@
+---
+id: 67ccf652-4133-5d14-bc2d-5bcb53daf653
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 714 - Moments and Times of Import"
+slug: 0223-chapter-714-moments-and-times-of-import
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 223
+ownLength: 2890
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3518790/chapter-714-moments-and-times-of-import"
+royalRoadId: "3518790"
+---
+
+Tala stood on a balcony, overlooking the plains and far-off, echo of a mountain range.
+
+Rain that didn’t exist swept over those far slopes which were not there, and she felt an odd tinge of sadness at the lack… at the loss.
+
+What is reality? Those mountains? That rain? They should be there, but we broke existence, and they are gone.
+
+She could also perceive Zeme, slightly starward of this world-fragment, moving at a marginally slower pace, the difference so minute that Tala couldn’t actually notice it on the scale of minutes.
+
+The thought of starward had her huffing out a laugh. In a way, this was star-like. With their understanding of light and distance, what she was observing of the stars on the superficial was like her observances of the mountains and rain. She was looking at whole galaxies that no longer existed, just like the mountains before her.
+
+At least we weren’t responsible for the ending of stars. She chuckled at the very idea before her thoughts returned to the world fragment, Zeme, and related items.
+
+For Tala, her own sanctum, Ironhold, and her other expanded spaces were more real than even Zeme, because they were her.
+
+She had stretched her capacities to create a full six, isolated artificial lungs, as well as moving her gravity column into its own disconnected space for safety sake. That one had hundreds of projectiles of all kinds whipping around at—quite frankly—ludicriously high speeds, ready for deployment at a moment’s notice, using no power to maintain, and isolated from even the smallest jerk that might otherwise throw off the precisely calibrated orbits.
+
+She remembered when she’d been told that a soulbound space was limited in how many divisions it had. It seemed the same wasn’t true once she and Kit were one, and she had taken the nature of the devourling into herself.
+
+Full devourer, now, at least in capacity. She considered her nature as the Iron Matriarch. Capable of consuming and nurturing at my discretion, or whim, or by accident if I’m not careful.
+
+She remembered the Consumer of All—Kit’s mother—and their mind bending interactions.
+
+My mother too, for quite some time. That thought both made her chuckle and pulled at her heart. As strange as it was, she didn’t really think about this often, but her musings on the world fragment in this time of active strife seemed to be opening her thoughts to more oddities in her existence than usual. I have a living mother, and she’d be thought of as an extra-dimensional horror in most people’s eyes.
+
+But Tala saw the maternal aspects of the creature’s existence, and she still felt the connections to the being.
+
+Maybe mother wants to come eat some Black Legionnaires? The thought brought a wry smile to her lips as she remembered the effect that would have on Reality. The cure might be slightly less destructive than the disease, but it would be a near thing, and that is assuming we were able to get all the automata—and their facilities—within reach for a single strike from mother. Tala’s smile twitched with humor at calling the being that. She’d never known her human, biological mother, but she now had a living one all the same. She’d even met this one.
+
+She snorted a suppressed laugh before shaking her head. If they could gather all of the automata and strategic targets in one known location, the war would be over already. They wouldn’t need rather destructive outside interference.
+
+She shifted back to a brief mental catalogue of her expanded self.
+
+She had some of the ancient trees that she’d rescued from the hundred acre hold during the Black Legion’s attack, awaiting placement.
+
+The immortal elk, Walden, had his forest attached to the sanctum, slowly expanding his domain through impartments of his knowledge and the payments he received for such. The questions—and answers to such—that were exchanged in such transactions were rarely of interest to Tala, but they expanded the knowledge of those asking and—rarely—that of humanity as a whole. So it was worthwhile to continue facilitating such.
+
+Lupe had her ball of self, glass claimed, compacted, and filling the totality of a large, spherical space attached to Ironhold. That portion of Tala was with Rane.
+
+-Along with your heart? You were going to say that it was with your husband, along with your heart, weren’t you?- Alat teased, trying to draw Tala out of herself and internal musings.
+
+Tala snorted in response, internally waiving the alternate interface away. I love Rane, but no, I wasn’t going to say anything so kitschy.
+
+-Sure you weren’t.-
+
+Tala gave a half-smile and shook her head. In truth, she was dimensionally stretched thin, but that was something she could dwell on later.
+
+It really was funny to consider who two facets of herself were both interested in acquisition and expansion, but in different ways.
+
+As a devourling, she had an appetite for many things—dimensionality chief among them from what she could tell—but she also had a point of satiation, a point where she couldn’t devour more without negative consequences to that part of her, and as a result the rest of her as well. It was a true appetite, and not just a compulsion to consume. It could be satisfied and used comfortably.
+
+As a dasgannach though? Her desire for iron and iron alloys was an ever present thing, even if it wasn’t really a temptation. After years of careful control, she could still feel the iron around her—especially that which was either unclaimed or easily claimable by her—but she no longer felt a need for it. Her lust for iron was just that, lust. If she gave in, it would not be satisfied, it would grow. There would never be enough, and as it grew, it would overshadow the other parts of who she was to their detriment.
+
+She did not—and could not—foreswear any use of or interaction with iron, nor would she cut off that portion of herself were she given the option. Rust, she had been given the option at Reforging, even if only implicitly, and she’d had no desire. That lust, properly controlled and honed, made her better, more her. But only while it could be guided.
+
+She knew of others who had lust for battle who faced a similar task. There were, of course, other lusts, but she wasn’t trying to catalogue all the world’s troubles.
+
+Shifting her perception she took the opportunity to see the reality of the world fragment.
+
+At one level, it was a single, overpoweringly weighty reality node, utterly unshakable and unmovable, but it didn’t take much effort to look deeper, to see the reality nodes that both moved around atop it, and which made up the space.
+
+There were also the myriad things that had been brought in—such as the building blocks and other parts of the compound—some of which she, herself, was standing upon.
+
+The compound hadn’t been here when this had been a part of the unbroken world.
+
+What the keepers of the fragment had conveyed implied that such alteration was impossible, yet here all the buildings sat.
+
+That is the beauty and the horror of magic. It shifts what would otherwise be real, making it other than it would or could have been. It is a nudging of cause and effect out of the coherent chain. It is the essence of freewill, and yet. She rubbed at her neck, where a collar had rested so long ago. Yet, it can be that which enslaves as much as it frees.
+
+Reality threads stretched out from every side of the world fragment, some connecting to Zeme, so near at hand, but most faded into the void, reaching—ever reaching—for that which should be beside this fragment, the next bit to add on, the next missing piece.
+
+Such was a constant drain on the ambient magic, if a minor one.
+
+It was a futile process. She’d once thought it might be the answer, but somewhere along the way, her mindset had begun to change.
+
+In truth, the world would never return in this manner. Too many of the broken pieces were now incorporated into Zeme, and unless that world were shattered anew, they would never rejoin this or any other fragment of what once had been.
+
+So… what was the end? Was the world to be broken forever?
+
+She regarded yet another part of herself, Flow, and its many forms.
+
+Her ending blade, her workings of coherence, could smooth out the scars, but would that be enough? Could the amalgamation of existence that was Zeme actually be cured of its constant afflictions, degradations, and maladies?
+
+Or would they defeat the Black Legion just for another ‘world ending’ threat to rise up and threaten what peace and security they’d managed to steal for themselves?
+
+Even if I could smooth every seam, and even if that would actually represent a healing of the world—whether immediate or as a first step—that would be the work of centuries if not eons.
+
+Still, it wasn’t like she was short on time. She was effectively immortal from everything she knew, and if she managed to broker a true peace on this continent?
+
+Maybe…
+
+At the moment, though, the overhanging threat of the Black Legion was too omnipresent in her mind.
+
+Not only were they a nebulous if immediate threat to gated humanity, they felt like they represented an all too real threat to her daughter.
+
+That alone was enough reason for her to oppose them.
+
+Yup. Humanity threatened? Sure, I’ll help. Wait, Lea’s in danger? Rust no you don't!
+
+Alat huffed a laugh. -Funny.- After a moment's pause she continued. - I mean, I agree, but it’s still funny. No one touches our family.-
+
+Nobody. There was a brief time of lingering silence within Tala’s mind as she let herself simply be.
+
+Eventually, Alat stirred within her. -Oh, it’s time.-
+
+Tala nodded. She had noticed as well. With a final look out across the ancient world—far beyond where she could reach—she turned and headed toward Eskau De-arg.
+
+She moved through the compound with deliberate ease. She had long since gotten used to glossing over most of what her perception showed her both for the privacy of others, and because seeing the totality of everyone’s insides at all times was… distracting.
+
+Even so, it was easy to forget that she could see essentially everything in a wide radius around herself because she generally ignored it, leaving the task of parsing all that information to Alat.
+
+-Yeah, thanks for that.-
+
+You are most welcome. Moreover, her authority here, at the core of House of Blood power, was unquestioned, even if it wasn’t absolute.
+
+Finally, her bond with Terry had long since made replicating her own form of his flickering trivial.
+
+As such, when she realized that she had taken a bit longer than she’d planned—and Eskau De-arg was ready and waiting for her in his residence—she simply willed herself forward, using a bit of power in a familiar form, and flickered into existence before the Eskau’s front door.
+
+She knocked on the doors, and saw a smile briefly pull at the small bear-kin’s face. “Come.”
+
+Feeling a bit mischievous, she reached out with her will and power once more, simply flickering through the door without opening it.
+
+Eskau De-arg arched an eyebrow, and she shrugged in response.
+
+“If I’d opened the door, it would have temporarily unbalanced the room.”
+
+He huffed a laugh. “Never fear, even unbalance can be borne when the result is more balanced than before. The more I learn and delve, the more I suspect that all that is required is a single, perfect moment in one's life—balanced in regard to the self, the world, and your purpose—and if the rest supports that?” He shrugged and smiled. “Then that could be quite the balanced life, and one unquestionably well lived.”
+
+Tala frowned, following his beaconing toward the table. “But wouldn’t that make the rest of one’s existence… rather sad? To know that your perfect moment was behind you after the fact?”
+
+Eskau De-arg hopped up into his chair, indicating a lovely spread of food. “Possibly. It could be the end of one’s life, or it could be something that dominated you for the rest of your existence, feeding you and driving you to improve the world around you in light of that moment of true balance, not for want of that moment but in honor or memory, or from inspiration gained there-in. It could also be said to be the point of balance, in which case, all actions are directly to maintain that balance point in time rather than how we generally consider balance as regarding physicality.”
+
+“Huh.” Tala briefly bit her lip in consideration before the two Eskau sat and dug in to the repast. “Do you really think that one moment can be enough to hang meaning on for a life? One moment sufficient to be the fulcrum or pivotal culmination?” Even as she asked, though, she was already nodding. She thought she was starting to understand what he meant, though she would wait for his answer.
+
+Eskau De-arg finished his current mouthful, nodding, before he responded. “Absolutely. Most histories do as well. Sure, we often study the lives of the greats of the past, but why do we care? For most? It’s a single action or important choice which is the pivotal ingredient. It could be said that there are some figures who are notable for long stretches of time for one reason or other. Those could be said to have their balance point in time be broader, more easily reconciled due to that import. Most of us, though? If history remembers us at all, it will be because of a single action or moment that balanced out the mundanity of all the rest.”
+
+Tala frowned in contemplation, continuing to enjoy the fare.
+
+After a moment, the other Eskau chuckled. “In considering it, for every historical figure of note whom we care about for long stretches of time, there are two whose most notable action could be argued to have been the siring of that person. Hard to say that’s truly just a ‘moment’, but I think it qualifies as their meaning balancing upon that one fact.”
+
+She gave a slow nod. “It’s a powerful idea. That one single, perfect moment could change the world, could balance or unbalance it from various points of view.”
+
+Eskau De-arg leaned back. “Imagine it, if everything across the entire world went exactly right for a single moment, in perfect balance, perfect harmony, with one’s desires.”
+
+Tala grunted. “That would almost require understanding of all past and future implications, right?”
+
+“Exactly. But that would be encompassed in the Sovereignty of that moment.”
+
+She quirked a smile. “And you think yourself capable of that?”
+
+He smiled in return. “Not quite, but… Observe.”
+
+He closed his eyes, and Tala focused her perception.
+
+Something shifted in the ambiance around them. It wasn’t really magic, nor was it reality. It might have been some form of void as Tala felt an instantaneous, odd separation from past and future, as if the moment of time had been locked in place. Whatever it was, it was decidedly flavored and mixed with Eskau De-arg’s authority.
+
+To her perception, every single strand of reality thread linking to Eskau De-arg thrummed, not equally, but in perfect, unified equilibrium.
+
+The bear-kin’s eyes snapped open, and Tala felt seen in that moment beyond anything she’d ever experienced before.
+
+She couldn’t explain it. It wasn’t a feeling of exposure, or violation, or anything like that. But she knew, then, that Eskau De-arg had a momentary grasp of exactly what she was dealing with in this moment in time, in this particular place, and what she needed because of that.
+
+The feeling faded, time flowed onward, and Eskau De-arg smiled. “You will get your moment, your fight.” His smile grew. “Sooner than you think.”
+
+Tala opened her mouth to respond, when Alat’s voice blasted into her mind. -Tala! Black Legion spotted in great numbers, gathering around an escarpment in the southeastern, Wandering Wilds. They aren’t within the reach of the Mountain Kings, but they’re close. The war council is calling on you. Now.-
+
+Eskau De-arg had a satisfied smile on his face, as if he knew exactly what was happening. “You have to cut the visit short, don’t you.” It wasn’t a question. “Well, it was a pleasure, if a short one.”
+
+Tala stood, her mind spinning. “I apologize, but you’re right. I have to go.”
+
+“Let me know if I am needed. I will do my best to be there when I am.”
+
+“Thank you. I’ll keep that in mind.” She hesitated before absently adding, “If that wasn’t just some sort of parlor trick or bit of illusory magic, that was incredibly intriguing. I don’t think I could feel out the truths of the world that clearly.” She laughed even as she pushed her chair back in, tucked under the table. “I bow to your expertise as and mastery on such esoteric notions and hope to catch up with you again soon. It is always a pleasure.”
+
+She left without a backward glance, barely registering an odd—yet subtle—confluence of authority and attention in the room she left behind.

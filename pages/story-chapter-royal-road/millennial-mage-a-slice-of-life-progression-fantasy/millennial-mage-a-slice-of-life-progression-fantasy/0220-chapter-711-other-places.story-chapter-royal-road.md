@@ -1,0 +1,185 @@
+---
+id: afad2ba9-46bd-557e-a1c2-b1989c27b8a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 711 - Other Places"
+slug: 0220-chapter-711-other-places
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 220
+ownLength: 2549
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3486889/chapter-711-other-places"
+royalRoadId: "3486889"
+---
+
+Rane didn’t take too long to arrive in the northern Wandering Wilds. He was still passing over the Pack’s woods, but that would only last another hour at the most, and so information blackouts were already in the process of being rolled out across the expanded space.
+
+It was a little frustrating that reaching his goal represented that bit of isolation.
+
+All of Ironhold had to be dark from the Archive, but the direct and obvious connection to Tala and Alat meant that Enar and Alat had worked out a very simple—but still complex to Rane’s mind—means of circumnavigating the issue.
+
+He left the particulars to the alternate interfaces, and just enjoyed continued communication with his wife. They could reach Lea as well, but that was a bit slower and trickier. Tala had left some bound material with their daughter, so they could both find her easily enough, and through that material, Alat was able to communicate with her. Again, the process was something that Rane left to others, as even were he to fully understand it, he wouldn’t be able to execute it himself.
+
+The workaround didn’t let any of the Ironhold citizenry access their private information and communications within the Archive—not even Rane—but it ensured that they weren’t truly cut off from the rest of the world or the alliance.
+
+Everyone had been notified ahead of time, so it wasn’t a surprise or an undue burden, but it was still going to be inconvenient for the next couple of weeks at the very least.
+
+To add to that inconvenience, no one was allowed to use many of the Ironhold internal means for information exchange. Such was just too potentially dangerous.
+
+From a purely theoretical perspective, Tala had claimed all of Ironhold in a manner that should keep it from the predations of the information dasgannach, but no one was quite sure if that would extend to new citizens or even new information surrounding those who had been in Ironhold the last time the all had run into that being.
+
+As such, it was simply decided to not risk things with any Archive connections, even those facilitated through Tala and Alat, which should avoid the problem entirely. The free flow of information—even in a contained, void-hung space—was simply too tempting a target for such a powerful and destructive threat.
+
+Thus, only the slower, single point of contact and exchange of information was allowed and facilitated.
+
+The squads of Refined and few Paragons already in this area didn’t even have that. Such was expected as they did not have the same means, and so a lot of what Rane would be doing was providing a link to all those assets as they continued to search for the Black Legion assets and remove any automata that could be found.
+
+The ideal would be to make this part of the world as dark to the Black Legion as it was to the alliance by dint of complete destruction and denial.
+
+Ironhold as a whole was also a rather potent strike force, on call to both counter any larger concentrations of legionnaires with the help of the Talons, and permanently end higher value targets with Rane’s growing capacities in that area.
+
+He was also to be a diplomat and more direct connection to the wandering cities and communities of the north.
+
+It was a sad fact, however, that those hearty folk really had very little interest in participating in the conflict.
+
+Their lives were focused on drawing a living from the harsh—if fertile—wilderness and working toward a better life for their descendants.
+
+Many understood and acknowledged the need for opposing the automata, but for the time being, it simply couldn’t be allowed to draw them away from their daily lives, struggles, and subsistance living.
+
+Even so, Tala and the Houses of Blood and Iron had worked diligently over the last years to give them emergency means of communication either in the case of direct attack or sighting of the Black Legion.
+
+It was one such signal that Enar picked up even while the flier was still a dozen miles from the border of the northern forest and surrounding plains.
+
+Rane altered their course by a few degrees, and shortly, the construct passed over the slow fade of trees to open grasslands, representing true arrival at the northern Wandering Wilds.
+
+The edge wasn’t their goal, however, and they arrived at the origin of the briefly pinging signal in just a few minutes.
+
+Still, that was enough time that disaster manifested in full.
+
+A small flying home was grounded, shattered, and splayed out as burning wreckage across more than a mile.
+
+Enar risked a more detailed sweep of magic, and  they found an escape capsule with a family of five huddled inside… with six automata closing in on it, clearly approaching from the direction of first impact.
+
+This is either suspicious timing, or things are a lot more interesting up here than we thought. That was the danger of such cut-off communication.
+
+The last they’d heard from this region was more than a day earlier, when Master Xeel had come through to connect with a couple of Paragons who were acting as points of contact among the searching Refined.
+
+They’d conveyed a total of three minor clashes with automata, each such conflict ending with the legionnaires destroyed.
+
+Well, it’s been less than a week since the opening attack. I suppose we can’t really make sweeping generalizations about their tactics and procedures. Not that such is ever really a good plan in conflicts.
+
+He also had seen firsthand that things seemed to be escalating to the south. They had no reason to expect differently in the north, not with the relatively easy means of travel the Black Legion had through the Doman-Imithe.
+
+As he regarded the six legionnaires, Rane considered calling on the Talons, but that was entirely unnecessary. The officer involved was just a sergeant after all.
+
+Still, he notified the response groups that they’d be bringing in a potentially wounded wilds family.
+
+He wasn’t as much of a showman as his wife, so he aimed the flier directly at where the Black Legionnaires were, keeping the construct barely fifteen feet off the ground.
+
+This also allowed Enar to snag any item from among the long trail of wreckage that seemed salvageable as they passed.
+
+The construct whipped overhead, above the automata, and the flier passed as close as it was going to.
+
+Rane and Enar acted.
+
+Enar reached out and grabbed the family, pulling them into Ironhold, overcoming their natural resistance and moving them directly into the midst of a team of healers and helpers that were ready for the injured people.
+
+Rane willed himself to the superficial. His original intention was to come into being in the center of the group, but their odd reality field prevented even surfacing within it, forcing him to appear behind them by some dozen feet.
+
+He had already drawn Force and launched forward before they even began to respond.
+
+Their field tried to restrict him, push against his magics, make him less, but he knew who he was, and he didn’t need outward manifestations of power.
+
+He was a carved pillar of mankind, the sculptor of motion, Rane Sappherrous, and he was destruction for these.
+
+Two lessers were dead, and the sergeant's head—dragging the body along with it—was gripped in Rane’s off hand as he crossed blades with the last three.
+
+Enar had set himself to dispersing the soul-cores of the first to be slain, but he was less capable in that regard than Tala and Alat. As such, one of the two escaped while Enar was working on the first.
+
+Rane bent his own will to handling the sergeant’s, preventing any chance of escape while he did so. He was thankfully skilled enough—and physically superior enough—when compared to the remaining three lessers that such a distraction wasn’t an issue.
+
+He hadn’t bothered with his bone armor—he had actually found less and use for that as his own body had continued to improve through the years—and it proved a fine choice as the strikes of the standard legionnaires didn’t more than leave bruises.
+
+Force beheaded them a moment later.
+
+The entire encounter had taken less than ten seconds. Enar had dispersed two lesser soul-cores, and Rane had done the same for the sergeant.
+
+All six bodies were brought into Ironhold for study and disassembly.
+
+As Rane returned to Ironhold—specifically to his newly built throne-room—he considered his armor.
+
+It was crafted from powerful material and bore useful magics of defense and protection, but he had come to the point of virtually never using it.
+
+That made him frown. Why wasn’t he using the tool? It bore consideration, but regardless, he realized that he’d neglected to include it in his resources for Reforging. If nothing else, it would be a solid source for improving the strength and durability of his own bones.
+
+With a thought, he moved the armor to his growing stockpile. Then, he turned his focus to the recovered people.
+
+The settlement’s family was in shock but otherwise fine. It was a human man, an elf woman and their three young children aged twelve, eight, and six.
+
+Honestly, they were surprisingly calm given that their home, their place of supposed safety, had been attacked, overcome, and destroyed in a matter of minutes.
+
+Even so, after they were checked out and healed, they thanked the good folks of Ironhold and asked to be allowed to go back.
+
+That had been a bit of a shock to those involved, but it hadn’t truly been unexpected. These were hearty folk, one and all.
+
+Rane didn’t want to keep them against their will, so he brought the flier back around and left the family to the side of the initial crash zone.
+
+Enar also gave them all the collected recoverable salvage that he had snagged, hopefully making their process of recovery faster. It was all in a neat gathering off to one side.
+
+Rane used a brief act of will to leave them with a barrel of clean water and enough non-perishable food to last them a month.
+
+The absence of either wouldn’t even be noticeable to the day-to-day operations of Ironhold, but it would hopefully help keep the family alive as they decided what to do from there.
+
+He didn’t like leaving them in the middle of the wilderness, but again, Rane wasn’t willing to compel them away from their home—even destroyed—or crops, which were in surrounding valleys, apparently coming near to the first harvest.
+
+I wish you all the best. There were more people spread across the northern Wandering Wilds than many would suspect. So, this family shouldn’t be entirely alone.
+
+Regardless, Rane had places to be, and more people to help.
+
+It was time to link up with the northern forces.
+
+* * *
+
+Lea held back a grimace as she kicked the orange-skinned hue-man back to land on a pile of his fellow warriors from the House of De’Agrumes consisting entirely of hue-men and women of various shades, mostly in the orange to green range of the rainbow, but almost all from the lighter hues.
+
+She didn’t know the significance of that, but in that moment, she didn’t feel much inclination to learn.
+
+“You aren’t learning.” She growled. She wasn’t improving either. She should have been able to defeat them all at once, the most advanced of this bunch just at the upper end of Mature. Instead, she’d had to approach it as a real fight and take them one at a time through proper maneuvering and footwork.
+
+Each such one-on-one encounter had been truly trival—it would have been simple without the ability to negate their magical enhancements—and it went a long way toward showing just how outclassed the average guard or soldier was in comparison to even the least of the Legion.
+
+In truth, with regard to her martial prowess, she was continuing to increase at a prodigious rate. The nature of her body was allowing her to increase her combat ability with incredible efficiency, especially with Eskau Pallaun and Kanabo for sparring partners. The foundation of years of combat against various guards and other Eskau helped as well, but those had had entirely other purposes.
+
+She did have her years of practice against her parents and the Talons, and because of that foundation, she was really able to accelerate her increases with dedicated assistance.
+
+So, the problem wasn’t her ability to fight with her sword.
+
+No, the issue was with her affects on reality. The reality iron that she had was sufficient, at least she didn’t feel like she was straining the capacity of such. Instead, she was uncovering more—previously unknown—capabilities hidden away within her body, and she found herself wanting when it came to controlling and properly utilizing them.
+
+Against a single, powerful magic user, she could exert suppressive force equal to a Black Legion lieutenant, but as soon as she was against more than one, that dropped off dramatically until against this group of ten, she’d barely been able to match that of a standard legionnaire.
+
+It wasn’t even that she was spreading out her suppression. For some reason, the more she faced—even when they weren’t working in concert—the less she could do.
+
+It was so frustrating, like being able to punch through a brick wall, then learning she had trouble breaking a single brick if there were a pile of similar bricks nearby.
+
+It made no sense at all.
+
+Observers weren’t even the issue, as she could display her true, greater ability when demonstrating to larger groups, but as soon as they were in active conflict against her?
+
+Weakness.
+
+She gave the now-standard spiel to the defeated hue-folk even as they helped one another up.
+
+They were relying too much on their magics, their enhancements, and the advantages they’d had in the past. The Black Legion could and would take that away at the first opportunity, and if they weren’t ready and able to fight with those handicaps, they’d die quickly. With those facts, these hue-folk either needed to adapt or stay out of the fight.
+
+After that group clash, she sparred with each in brief bouts, giving more specific feedback while showing them both how their magics could be universally denied or simply negated at inopportune moments.
+
+This was the fourth day within Platoiri, and this was the last group before Lea and her three guardians would be moving on. They’d be leaving before sunset, likely to stop briefly for food, rest, and sleep on the way, with an aim of arriving at the next city before dawn. It was good that none of their party of four needed that much rest.
+
+Other cities would have fewer groups, but that would mean more at a time.
+
+She needed to figure out this issue.
+
+Her form’s internal systems, which she rarely utilized, were begrudgingly fed power and fully activated. Even as she continued her same outward behavior, she sent the problem to a sub-mind that had been ready and waiting since her inception.
+
+She was and always would be human, but it was no longer possible to continue to ignore some of the portions of the body that she’d been given.

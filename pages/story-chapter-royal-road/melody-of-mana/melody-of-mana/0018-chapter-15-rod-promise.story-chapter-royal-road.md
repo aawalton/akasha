@@ -1,0 +1,82 @@
+---
+id: d374ebc8-26f7-57ea-b7c3-a5c0e80b6a91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 Rod- Promise"
+partOf: melody-of-mana
+position: 18
+ownLength: 1140
+unit: words
+ownProgress: 1140
+publishedAt: 2021-06-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/708402/chapter-15-rod--promise"
+royalRoadId: "708402"
+markedReadAt: "2026-06-29T22:26:52.552Z"
+---
+
+After bidding my little sister goodbye I walked out, heading to the barn that was our meeting place. I found Sandra there, laying atop the hay and climbed up beside her wrapping her tight in my arms.
+
+"Hello my love." I spoke softly to her as she pressed against me.
+
+"Mmm, good morning. Now, will you tell me why you needed to borrow dad's bow?" She gestured to the leather pouch laying a bit away from us.
+
+"I'm going after meat today. A rabbit, or if I can get it, a deer."
+
+"What!? You know what'll happen if you're caught!" She hissed at me angrily.
+
+"I do, that's why I sent John away, but I need something to keep my sister going. I need her to keep it together until harvest is over." I looked at the rafters, going over things in my head. "I found her yesterday completely broken down. She cried herself straight to sleep. If we can just keep her going a bit longer..."
+
+"I'd be more worried about winter." Sandra looked at me with worry in her eyes. "It's going to be brutal and everyone knows it.""I will not be here for winter, and I want to talk to you about that too." She froze in my arms, tensed as tight as she could.
+
+"I'm of age now Sandra. After harvest they'll make another call for men to go fight, you know that." I could feel her shaking, but this was a conversation that had to happen.
+
+"I'll be leaving before that happens. I've already discussed it with John. We're taking mom and Alana and, we've got a place I think we'll be safe."
+
+She looked betrayed. "You're leaving? Now? We need all the help we can get and you're taking your family and running?" She was clearly starting to get angry, so I put a finger to her lips
+
+"I... I want you to come with me, as, um..." I was so nervous I could hardly think straight, "As my wife. That's why I'm telling you now."
+
+She looked a bit shocked, "What about my mom and my sister? Can they come too?"
+
+I hesitated, "I was told to bring the family. Even if we marry I don't think they'd count. That's why I want to wait until harvest is in; I plan to hide everything we bring in for your mom and sister so they can make it through too. John wanted to leave today, but agreed to wait so we could help them."
+
+She leaned up against me, burying her head into my chest. "What do you think? It's the best I could come up with. We'll be able to be together, and your family will have the best chance I can give them." I rested one hand on her hip, letting my thumb stroke her gently there.
+
+It took her a few moments. She finally looked up and kissed me, our lips locked together as I pulled her soft body against mine. "Promise me you aren't going to do anything this stupid again."
+
+"I promise I'll come back from this little hunting trip and we'll be careful as careful can be. What about um... my other offer?"
+
+She gave me a smirk, "We'll talk about that after my future husband comes back from his little trip, now go."
+
+I gave her one last kiss before grabbing the bow and hopping down. I looked at her there, propped up on one arm. She was so beautiful, she'd thinned, we all had, but it would come right back.
+
+I quickly made my way to the forest. I knew just the spot, a high hill, covered in game trails. The foragers never came here, since there were almost no edibles on this little grassy spot. It was the perfect place.
+
+I spent hours there. I picked some plants so that I could have an excuse in case I was found. Normally a bow would have been suspect, but with how things were now, not going in armed to the teeth was madness. I was even wearing the mail and blade Uncle Barro had given me.
+
+It was getting late, too late for my comfort when I saw it. A rabbit, tucked into a little spot in the grass. It wasn't a deer, but it would certainly do. I only needed one shot to take it. The poor beast didn't quite die, but a yank on its neck solved that problem with ease.
+
+Something grabbed my attention and I turned, looking towards the village. A large group was moving at it. It looked like part of it was breaking off and coming more towards the woods. Behind them another large group was following. I could only just see the second patch of people. Whatever it was, it was bad, that much I could tell.
+
+I was still a bit lost in thought when I heard it.
+
+"Why hello there Rod, you're out far." I turned to see Mayor Malke. He had several soldiers with him; one of the patrols. Quick head count said three crossbowmen, three halberds, one asshole.
+
+They hadn't seen the rabbit yet, but they would. There was still blood on my hands and the ground. I wouldn't give them the chance. I drew and fired as one of the crossbowmen flinched, seeming to sense something was wrong. The arrow buried itself in his gut.
+
+I knew I'd have to kill all of these men, or at least most of them. We'd have to flee tonight I reckoned.
+
+The mayor froze up, he didn't know what had just happened. His eyes went wide in fear.
+
+The soldiers took a beat to process, but not very long. Within a second two crossbow quarrels were already sailing at me.
+
+I hadn't stood still. Ducking and charging as one went wide and the other scored my shoulder, a few rings popping with a *ping* as they flew away. The wound was minor, only a slight scratch.
+
+The men with halberds tried to form up and bring their weapons to bear. I drew my blade as I dodged past the points and into their group. Dad had always said that was the weakness of a polearm; hard to defend once your enemy is too close.
+
+I scored a light cut on one man's shoulder, narrowly missing his head. As he stumbled I turned on the other two. I stabbed, hoping to take down one of them so I had a bit of breathing room. As he parried the blow I heard the twang, then I felt the third crossbowman's quarrel bury itself in my thigh.
+
+I stumbled, the force of the leg wound throwing me off balance.
+
+I looked up to see the final halberd flashing in the sunlight.
+
+I'm so sorry for breaking my promise my love.

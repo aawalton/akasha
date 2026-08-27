@@ -1,0 +1,231 @@
+---
+id: dbe13434-f66d-565c-904f-2ef9dfa7393f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 — Under My Thumb"
+slug: 0061-chapter-33-under-my-thumb
+partOf: metaworld-hopecore
+position: 61
+ownLength: 2795
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3377927/chapter-33-under-my-thumb"
+royalRoadId: "3377927"
+---
+
+"I am not what I am."
+
+William ShakespeareIago
+
+While Eppie worked on endless emails and waited for the call from Maddie Filmore, there was trouble in paradise a few blocks over, in the cinematic arts section of the Old Music Building. On weekdays, it belonged to the LAPA cohort. On Saturdays, it belonged to whoever had a key and the connections to prevent others from doing the same.
+
+Presently, William was a good, dutiful student of the arts. He was neck deep in editing, trying to splice three days of shot footage into something like a twenty-three-minute short film, with a two-minute trailer.
+
+With his wealth, connections, and popularity at school, he had the Music Department and the Musical Theatre Department produce original scores. He had original costumes and credits for the prop department. He had a crew of almost forty people who worked on his short film over the last year. Its first iteration would be at the Fall Gala, and its Director’s Cut would be a full-fledged feature film for the Spring Gala.
+
+Presently, he was pumped and primed for editing, because the new song from Kellie Noah was just the thing. This Umbrella song fulfilled his character’s betrayal by family pressure just so damn well. Instead of being his sheltering umbrella, the family’s demands had left his protagonist dry, but alone in the cold, unable to live free. Rumour had it that the song was Noah’s “dis” against her status quo with Lucia Lancet, but they were both Sony artists, and the rumour mills were neither denying nor confirming the fact to drum up more interest.
+
+Other than the blaring music, the editing suite was quiet. It was just him, a few lackeys close by to run food and drink orders, and an empty space where Valorie could come back and hang out after practice. Usually, Simone had a spot as well, though the girl had practice in the morning and had to work at the nightclub from the late afternoon to midnight, so she had been absent for a while now. Uncle Meng said that it weirded the Karaoke customers out that they had a hei-mei working, but Simone was pretty enough, young enough, and timid enough to become a favourite. What she didn’t make up in drink sales, she made up for in tips.
+
+William had asked Uncle Meng to leave her the club’s cut. Sometimes, William was generous like that.
+
+The song looped again. William Chen listened to the lyrics with genuine appreciation. The production was some of the best he’d ever heard. Someone who spent a lot of money had also spent a lot of time on the tuning. The music video was said to be released soon, and he just couldn’t wait. Usually, Kellie Noah’s videos were a bit kitsch: they tended to involve gyrating, muscle cars, and short shorts. This time, there had to be a full-blown production.
+
+The door to the studio swung open with a suction sound.
+
+“Val, you’re back early,” he said, still looking at the monitor.
+
+There was no response.
+
+“I… I don’t feel so good,” came a trembling voice.
+
+FUCK. William swivelled his seat over. He read the register. He knew the tone. Over the course of their three years as boyfriend and girlfriend, he knew Val all too well. Her moods started weak and soft, and then—
+
+I sold my heartWe were made worlds apart.
+
+"She wrote it." Her voice was very quiet.
+
+“Who wrote what?”
+
+You’re on your magazines.Acting as my guiding star
+
+"This song." Valorie held up her phone like a brick. Her fingers were bone white. She raised it above her head. “Euphemia Fontaine. Her name’s on the online credits. There’s no one else by that stupid French last name. Composed and gifted by Euphemia Fontaine. It says. She wrote the song. She wrote the fucking song, William!”
+
+You were my umbrella…You were my umbrella…
+
+“She gave the song to Kellie Noah. I… I just…”
+
+“Val… put the phone down,” William stepped between his girlfriend and the server racks. “Put your hand down. Give it to me. We’ll sort this out.”
+
+“You told me you’ll make her go away,” she was crying now. “You told me you’ll break her legs.”
+
+“Just the one leg,” William corrected her on instinct. “Now, let’s talk about this. We’re in school. This place DOES have CCTV, even on Saturday.”
+
+“You told me…” Valorie erupted.
+
+God damn it! William lunged for the girl before she could destroy something by destroying her phone. He tackled her from the chest down, pushing her against the couch so hard the wind was knocked from her body. Something hard and sharp and heavy struck his head, then struck his head again.
+
+Something akin to broiled sriracha ran down his face. He swore again, took control of Valorie’s arms, then pinned her against the couch.
+
+She bit him.
+
+“ARRRRRRRRGH—!” He screamed as her teeth sank into his flesh, right down to the bone. “FUCK, VAL!”
+
+His throbbing head, his lead-filled arm, and his rage exploded all at once. With a deft, trained hand, he slapped her across the face, so hard that Valorie’s head snapped back.
+
+When she looked up again, her teeth were bloody, her lip was cut, and he saw in her hand an iPhone with his blood and hair on it.
+
+They were both breathing heavily. Her blouse was a blooming artwork of his blood, the middle buttons were gone, and her ample bosoms were nearly visible beneath the sheer, dishevelled fabric. Her face was flushed, her hair a mess, she was… alluring beyond measure.
+
+Instinctively, William leaned in, then kissed his girlfriend deep and hard on the mouth, his tongue injecting her with all the venom and frustration his body had accumulated.
+
+She moaned, her long legs already squirming beneath his weight. “There’s CCTV—”
+
+“Fuck the CCTV—” William’s hand grew busy, smearing blood over her neck and face. “Wang will take care of it.”
+
+Fat Lim Wang sighed.
+
+“Chen-ge… Did you really have to?” He had arrived at an aftermath he was glad to see, thanking the ancestors that it was the pair tearing into each other and not some other poor, unfortunate soul.
+
+He had brought a first aid kit, though William would need stitches and a visit to the hospital.
+
+The fact that William’s libido had powered through all that pain and blood was incredible, a feat for which Lim could only say that youth had its advantages.
+
+He had Chen’s driver send Val home and take a day or two off from school while the swelling on her face died down and her lips healed. William, on the other hand, looked like he’d been tortured by the Communists for the whereabouts of his family's gold.
+
+“We’ll have to replace the couch,” William said. “That is not coming out.”
+
+“No, it is not.” Lim fought the gastric juices churning in his belly. The smell of blood, of sex, of carnal secretions, it was far too similar to that terrible night in the locker room. “I’ll have Meng source a similar one from Uncle Fung.”
+
+“Good,” William leaned backwards, then winced when the leather kissed his flayed shoulders. “Lim, is there nothing we can do for Fontaine? Not even a little bit? To shut Val up?”
+
+“I think that ship sailed a while ago, Chen-ge,” Lim said with great earnestness. “May I offer a spot of advice?”
+
+“Go ahead,” William said absent-mindedly, waiting for the painkillers to kick in.
+
+“Considering that almost every unhappiness you’ve had with Fontaine since her fall from the building had been unilaterally triggered by San-jei, maybe it’s time to put the farce to bed?”
+
+“Really?” William studied him. “Is that realistic?”
+
+“Is going after Euphemia? The girl has no relatives. She basically has no property, and she obviously doesn’t need the school to have a career. We can’t really threaten someone like that. She isn’t Luciana Mio. Besides, she’s someone’s asset now. Sony isn’t some local dealer. We can’t touch that.” Lim remained calm and logical as he delivered the words. “Don’t you think San-jei’s obsession is irrational? What did Euphemia ever do to San-jei to push her off the building? Fontaine wasn’t even famous back then.”
+
+William pondered his words, then tilted his head. “I keep forgetting you weren’t there when it happened. Valorie still doesn’t know, you know?”
+
+“About Mio?”
+
+“Yeah, and you keep it that way. You know how she gets,” William sighed long and hard. “And no, it wasn’t Val who made her jump. Val would just beat the shit out of the bitch, I guess. Naw, guess who made her jump?”
+
+“You?” Lim’s eyes went wide. “She’s not the type to resist, I guess.” “AHAHA—” William roared. “As if, you idiot. No, no, no, it’s far funnier than that.”
+
+Lim’s heart sank. “You didn’t make one of our siblings…”
+
+“Don’t be a fool,” William said in Cantonese. “Ah-Wang, you want to know?”
+
+“I do,” Lim was genuinely eager. “It was…” William’s eyes grew mischievous. “It was the hei-mei! HA!” “Simone?” Lim’s voice lowered a whole octave. “Simone Goode?”
+
+“YES!” William slapped his back, then winced from the exertion. “Poetic, isn’t it? The betrayal, the theft, the revelation! The looks on their faces. It was like real-life Emilia and Desdemona!”
+
+Sunday. In South Bay, between a Chinese Grocery selling Korean and Japanese imports, a vegetable market, a tax accountant and a smoke shop, sat an enormous beckoning cat on a double-story rooftop with one paw raised.
+
+MANEKI CAFE, the place was called. Cat lounges & private rooms available.
+
+A long time ago, it was said to be a strip club. These days, it was no different. The clients were dressed, and the objects of their admiration wore nought but tiny slivers of cloth.
+
+Eppie arrived with Eric because Emily booked the place. After signing their rights away, a Japanese lady who marvelled at her fluency happily took her to the private tatami room near the back, composed of three walls with large shelved windows for the cats, and an entry with multiple ceiling and underfoot walkways for the cats to go to and fro.
+
+Eppie immediately made herself comfortable. Within minutes, she had a cat on her belly, one on her right knee, and one playing with her hair.
+
+Eric sat near the corner, on a western stool with a pot of green tea. The room was modest, and his head had almost hit the ceiling. On another table, he set down a legal pad, his computer, and a small recorder.
+
+A cat immediately sat on the legal pad. The Newfoundland growled.
+
+Eric and the cat glare at one another.
+
+“His name is Kuma Kuma,” Eppie read the tag. “My, what a chonker.”
+
+Lim arrived fifteen minutes later, staggered as planned. He ducked under the low ceiling and the shoji screen with a fluid ease, belying his size. Immediately, Kuma Kuma abandoned the Newfoundland for their new arrival.
+
+Eppie whistled at Lim’s catcalling abilities.
+
+“I’ve been here before,” Lim confessed. “They know me well. Here, here, Mister Yun Yun!” A large orange tabby joined Kuma-san, and soon, Lim was lying out beside Eppie, covered in cats, inhaling cats.
+
+Charlene arrived an hour later for their half-day session, with a stylish canvas tote over one shoulder and a pair of biker gloves in the other. The reporter looked to be in her mid-forties, was compact of body, and so facially so unremarkable that Eppie doubted she could find Lafitte again if they were to get lost in the afternoon rush. She looked at Eric in the corner with no cats, then at Eppie on the floor with Lim, and nodded at Eppie in affirmation.
+
+“Right,” Lafitte placed her bag in storage, retrieving only a laptop and a recorder. “Just to confirm, Miss Fontaine, Mr Lee, and Mr Wang, correct?”
+
+“Yes.” “That’s me.” “I am he.”
+
+“Good, good, and I am Charlene Lafitte,” the reporter said with a confident grin. “Here to interview Euphemia Fontaine about her writing credit for the biggest song to release since our last award cycle, naturally…”
+
+After the handshakes, they sat down on a tatami setup accessible by removing a small section of the floor, making the posture easier for Western customers.
+
+Eric, with his legalese, established the ground rules. Anything that was not recorded with consent is off the record. All involved are journalistic sources. Lim’s cooperation is conditional on his family, the Five Root Association, and himself not being exposed. Eppie was a minor, despite her financial emancipation, and would be represented by Eric.
+
+From the top, Lafitte listened to their new discoveries, taking notes as they each spoke in turn. Lim gave the most details:
+
+May 4th, midnight, continuing onto the morning of the 5th. The Old Music Building locker room. William Chen. The phone call from him. Mio’s condition. Finding Euphemia hiding in the changing room. Saving Euphemia. Cleaning up after William.
+
+Then, a lull in the flow of information.
+
+Followed by the latest bombshell, that Simone had pushed Eppie.
+
+“What, he just told you?”
+
+“They had a er… lover’s bout, adrenaline was running high, so I thought I’d give it a prod,” Lim said. “Then, he just said it.”
+
+Lim described the editing suite, the ruined couch, and the state of William’s injuries. He described how funny William thought it all was.
+
+“I wanted to test how far he was willing to go with Eppie,” Lim spoke while stroking Yun Yun. “I said she’s Sony’s asset now. The School isn’t willing to oppress her, and there’s going to be drama I can’t solve if we injure her. I then asked what Eppie had ever done to Valorie to make them so antagonistic.”
+
+Lim paused. “He said Val’s just jealous. She doesn’t know about Mio and the changeroom. And that it was Simone who pushed Eppie off that building. He said it was… Desdemona and someone called Emilia."
+
+Lafitte's pen stopped moving.Eppie’s cat leapt from her arms, scratching her forearms.
+
+“Jesus, are you alright?” Eric leaned over. “That looks deep.”
+
+“I am fine, I am fine…” Eppie dabbed her claw wound with a tissue. “He actually said Emilia and Desdemona, from Othello?”
+
+Lim nodded.
+
+“What does that mean?” Eric cocked his head. “Is Simone Othello? Is William Iago?”
+
+“I don’t think so.” Eppie fell into thought, her [Script Analysis] working overtime.
+
+“How about…” Lafitte raised her Parker pen. “Simone is Emilia. Emilia stole something from Desdemona that sealed her fate. A handkerchief..”
+
+“MY DIARY!” Eppie’s mind snapped the puzzle piece into place instantly. “YES! That’s it! Simone broke into my locker. Simone stole the diary! As for what’s in the diary. I must have to do with—”
+
++ Karmic Causality
+
+They all looked at the recorder. Mio’s Message.
+
+“Oh shit…” Eppie sucked in a cold breath of cat hair. “Does this mean I was dumb enough to write in my diary that… and like Desdemona, I just… ”
+
+She leaned over and pulled out her duffel. Inside, she had brought the contents of her old locker. From the bag, she pulled out the torn photos, the ripped diary.
+
+“HERE!” She showed them the missing pages. “Someone took these.”
+
+“Our Emilia, I guess,” Lafitte confirmed her suspicions. “And on those pages, there was proof, or hint, or inference, that Mio had a recording as insurance. They fled the city after that, I guess, but Euphemia here had nowhere to go, and no recording to give. All she had was the sin of knowing.”
+
++ Karmic Causality
+
+For several seconds in the tatami room, there was only the sound of meowing.
+
+“Mr Wang,” Lafitte raised her hand. “I want you to tell me his EXACT words.”
+
+Lim firmly held Yun Yun, then tried to mimic William’s tone. “Poetic, isn’t? The betrayal, the theft, the revelation! The looks on their faces. It was like real-life Emilia and Desdemona!”
+
+“Ah—” Lafitte clicked on the recording. “Perfect. Now we know.”
+
+“What, that William’s a sick sack of shit?” Eppie dabbed at the wound. It was clotting already. “We know this.”
+
+“He was quite please with himself, his demeanour, I mean,” Lim shook his head in wonder, his hand deep in the belly of Yun Yun. “I wonder if his father knows. We’re supposed to be hiding it all from Uncle Chen.”
+
+Lafitte played them the recording again, then again.
+
+Then, she said very evenly, “He said the looks on their faces.”
+
++ Karmic Causality
+
+"Yeah?” Eppie blinked.
+
+"Do you not see, Eppie? He was there." Lafitte said firmly, then coldly updated her minutes of the meeting. “He was close enough to see ‘your faces’. If Mr Wang is correct in his recollection, then William had just confessed to watching you die.”

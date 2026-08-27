@@ -1,0 +1,235 @@
+---
+id: 8a6aebfa-cb66-5167-9b32-a3ca9785f6b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 705 - The Reach of Authority"
+slug: 0213-chapter-705-the-reach-of-authority
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 213
+ownLength: 2954
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3390046/chapter-705-the-reach-of-authority"
+royalRoadId: "3390046"
+---
+
+Tala and Lea exited the sanctum near the entrance into the House of Blood hold in Platoiri, and just as she’d seen and expected, three arcanes were awaiting their arrival.
+
+Eskau Pallaun stood, shirtless as he usually was, his midnight-black skin almost seeming to drink in the light, his protian weapon difficult to see as it sheathed his left arm.
+
+Pillar Tili was on the shorter side, barely standing four and a half feet tall. She had a rounded head and face that caused her to seem almost cute. Even so, Tala saw a glint of danger in the woman’s eyes, undiminished as Pillar Tili practically flounced over to them when she saw that they had arrived. She bowed deeply. “Iron Matriarch, young Lea. It is our pleasure to be able to serve.”
+
+Eskau Kanabo came up beside his Pillar, towering over everyone else present at near to seven feet tall. He bore a metal studded club—likely mostly iron by the resonant desire Tala felt for it—that was more than five feet long from the spherical pommel to the reinforced end. The bear-kin bowed, slow, ponderous, and dignified.
+
+Eskau Pallaun joined the others, giving a slightly more shallow bow. “Eskau Tala, it is a pleasure. Miss Lea, are you ready for the trip?”
+
+Tala briefly bowed her head, and Lea bowed deeply from the waist in turn, signalling the other three to straighten once more. “I am, thank you.”
+
+Pillar Tili tilted her head to the side—almost at a ninety-degree angle—looking at the sword on Lea’s hip. Her words came forth more as a flow of consciousness rather than something she expected a response to. “That is an interesting weapon. I sense power from it but not magic. It isn’t a concept blade, unless you somehow locked it to the concept of sharpness. I suppose that could be possible if someone else had bonded it, and then you claimed it from them in such a way as to not break the innate concept, as I do not sense a sufficient depth to you to have created this concept yourself. But no, it clearly has more to it than mere sharpness, and without any sort of magical—”
+
+Eskau Kanabo momentarily placed his massive hand on Pillar Tili’s head, looking like a child palming a small ball. “My Pillar.”
+
+Pillar Tili’s mouth snapped shut, the flow of words cleanly cut off.
+
+Lea was smiling, clearly disarmed… which might have been the point? Tala wasn’t sure. The diminutive Pillar was known to be clever as well as powerful, so Tala wouldn’t put it past her.
+
+Regardless of the reason for the flood of words, Lea decided to address the implied question. “It is a special blade, and you are right that it is non-magical. My mother claimed it from the occupant of an eternal cell.”
+
+The Pillar bowed toward Tala again. “Well, if the Iron Matriarch claimed it and granted it to you, then it must be potent indeed.”
+
+Lea giggled, the Pillar’s voice was on the higher side, and her manner of speech leaned into her harmless visage.
+
+Tala decided that she needed to be on her way, but she wanted a final word. “I thank the three of you for watching over my daughter.”
+
+They bowed again, and that was that, at least officially. Tala had charged them with their task, and she could be on her way, but something tugged at her… something more than the iron club and metal weights in Pillar Tili’s belt.
+
+She flicked her gaze between the two from the House of Iron, making sure to meet each gaze with purpose. Something was nudging a deep, instinctual part of her, something pertaining to her authority, something that seemed to be an offshoot of her nature as dasgannach. Her tone took on a solemnity that she rarely used. “I grant you authority over your iron for the duration of your post, Revered of the House of Iron.”
+
+The metal changed in Tala’s perception, not on a material or even magical level, but to her authority and desire. The metal now seemed to register as explicitly not hers, rather than simply something she hadn’t claimed yet. Instead, it seemed to draw toward the two arcanes. New reality threads and chains of authority linked the two to the iron that they carried.
+
+Pillar Tili slowly sank to the ground, almost like a drifting leaf, falling to her knees before prostrating herself with her face to the stone, awe and mild uncertainty obvious across her features to Tala in her all encompassing perception.
+
+Eskau Kanabo actually seemed to stagger a step to the side away from where he held the heavy weapon, as if it had suddenly lightened in his grip, throwing off his balance.
+
+-Umm… What did that even do?-
+
+I have no idea.
+
+-Where did it come from? Why did you do it?-
+
+It felt… right? I don’t know how else to put it.
+
+-Huh… Well, I suppose we’ll have to have Lea tell us what, if anything, comes of it.-
+
+Definitely.
+
+Eskau Pallaun had lifted a dark eyebrow in interest, but otherwise not reacted, and Tala felt another prompting, another instinct to recognize proper authority. She opened her mouth to do just that, but froze, realizing what she’d been about to do. Instead, she changed the wording of what she’d been about to say. “Your blood flows through darkness which you seek to claim. I grant you the blood itself while you carry out these duties, Eskau of the House of Blood.”
+
+Again, her authority flexed, the world rippling and rearranging in some intangible way. Eskau Pallaun sucked in a breath, eyes widening just briefly before they narrowed. “You trust much in such, Hallowed of Iron and Blood.”
+
+Tala smiled. Her perception had informed her that no one was close enough to have heard her softly spoken words, but he was right. They would need to keep the secret for the moment. Therefore, she leaned on the same crutch she’d used with the keepers of the world fragment. “Possibly, but my daughter’s security is worth much. I charge the three of you with secrecy on this issue as Eskau of War, as this is a matter of utmost import to that effort.”
+
+A familiar ripple passed over the three, their commitment to their Houses almost singing to Tala’s ears—alongside with their personal commitment to the war and to her—making her command one that could not be easily ignored.
+
+Pillar Tili returned to her feet and the three briefly bowed their heads in understanding and acknowledgement. Eskau Kanabo’s basso rumble spoke for them. “The Eskau speaks, and we obey.”
+
+Eskau Pallaun had a contemplative air about him as he straightened, but the other two had almost fanatical light in their eyes.
+
+Tala smiled, content, before turning to face Lea.
+
+Her daughter was giving her a flat look. “Was that really needed, Mom?”
+
+The girl wouldn’t have been able to feel the authority or any of the other effects. So, it would have likely seemed like a bunch of pomp and circumstance without any point or substance. Tala’s smile grew. “For my sanity? Yes, yes it was.”
+
+Lea sighed. “Very well. Love you, Mom. Be safe. See you soon.”
+
+“Love you too, sweet.”
+
+They exchanged one last hug, and Tala willed herself away, flickering through the city toward the northwestern edge.
+
+On the way, she pulled out her modified flier before dropping into her sanctum and sending the flier forth. She created a portal within the construct—even though it wasn’t strictly required—to facilitate her aura and authority flowing outward more smoothly.
+
+She did have authority over the construct, but as it didn’t have much ability to affect the world around it on its own, it was difficult for her to project her full aura and authority through it.
+
+She could have just put some iron within, but as a portal into her sanctum was as much a part of her as the iron, it was effectively the same either way, and this resulted in a better throughput if such was needed.
+
+She shaped her aura as required to minimize her effect on reality as she passed, and implemented the other tricks and techniques that she’d built up over the years to allow for a quicker passage.
+
+At this pace, she should be able to reach the next city within a few hours.
+
+That, of course, was when Alat chimed in. -Urgent message from a Wandering Wild settlement. A Black Legion unit has come out of the forest and is closing on their position.-
+
+Who’s closest?
+
+-We are… Master Jevin just sent a notice that something is moving around the perimeter of Makinaven. He’s called for a general evacuation back to the tree city, and he is unavailable to come to the aid of the village.-
+
+How far of a diversion would it be from our route?
+
+-We can be there in an hour.-
+
+Will they last that long?
+
+-The report indicates that their stealth field seems to be hiding their exact location, at least the legionnaires aren’t heading directly for them.-
+
+Tala only hesitated a moment before sighing. We’ll answer. Let the war council know we’re delayed and why, and let the village know we’re coming. We’ll push a bit faster to cut down on the delay.
+
+-On it.-
+
+The flier diverted, putting on a bit more speed, bringing a grimace to her face as she detected the mild scraping of their passage across reality behind them, despite all she was doing to reduce such.
+
+Still, they weren’t experiencing a resonance, so that was a boon.
+
+* * *
+
+Rane found that he missed his wife’s dais.
+
+He sat in a park within Ironhold, lounging semi-comfortably on a bench as Enar fed the superficial information into his mind.
+
+The alternate interface was also closely monitoring the integrity of the hold and its link to Tala. Everything seemed to be solid.
+
+Terry was stretched out on the grass feigning sleep even as he basked in the warm blue above and cool green beneath.
+
+Their flier was barely half an hour outside of Platoiri, heading north and east—more east than north at the moment—and there was very little to occupy his thoughts other than missing his family.
+
+He had learned how to effectuate swift travel alongside Tala, and given their soulbond, he had access to most of her raw abilities, even if none of her inscriptions. Even so, he was far less effective than she was at facilitating non-damaging movement across Zeme.
+
+Part of that was his currently lower advancement, but just as much was that he simply didn’t have as great a connection to void and reality as she did.
+
+His authority over those aspects was second-hand, and thus not as effective.
+
+Still, he felt like he was even less effective than usual, and as odd as it sounded in his own mind, he felt like that diminishing was due to the lack of the dais and throne.
+
+Both dais and throne in the sanctum had magics in them but none that extended beyond the sanctum or had anything to do with flight or fast movement. As such, it shouldn’t have made a difference.
+
+But it seemed to.
+
+Enar grunted, conveying a bundle of ideas, and Rane nodded in slow understanding. True. Thrones and daisies have a long history and culture behind them, relating to power and authority… Is it that simple?
+
+With a shrug of uncertainty directed at himself, he decided to test it a bit. After all, he didn’t have much better to do during the flight, and it was at least a few hours before they reached Terry’s drop off point. “Terry, I’m going to change locations to try something.”
+
+Terry cracked an eye open, tilting his head to the side, and Rane knew what he was asking.
+
+“I’m going to be making a throne to see if it improves my utilization of authority.”
+
+The terror bird laid his head back down, closed his eyes, and sighed.
+
+“Fair enough. You’ll know where to find me if you change your—”
+
+Terry flickered to Rane’s shoulder, appearing with his eye right next to Rane’s, leaning very close.
+
+Rane kept himself from flinching back at the sudden proximity. “Or… you’ll come with me now.”
+
+Terry let out a decisive chirp before pulling back, settling down, and perching comfortably.
+
+Rane huffed and shook his head. Every time I feel like I’m finally understanding him… He frowned, narrowing his eyes and glancing at Terry. Is he… Is he doing that on purpose? He’s messing with me?
+
+It bore further consideration but later. He pushed aside the packet of information that Enar tried to give him, containing evidence both for and against the idea. Thank you, but later.
+
+He got back grudging acceptance.
+
+Rane chuckled to himself as he enacted his will, moving to an unused slope of the ‘mountain’ near Irondale.
+
+Tala and Alat apparently held actual conversations within her head on a regular basis, but that just wasn’t how Rane and Enar worked. He would go stir-crazy having to talk with yet another conversation partner.
+
+Oh, make no mistake, they’d tried it, and they had even fallen back into it on occasion, but they both preferred what amounted to mental alignment, where Enar simply pushed the totality of a thought-process or complete set, or reasoning, or some such into Rane’s head for his consideration.
+
+It wasn’t a mind alteration technique, not really, as Rane didn’t suddenly see the given point or idea as true or great. Instead, it was as if he’d listened to an expert convey the various pros and cons and was now simply considering what he’d already been told.
+
+Regardless of his interactions with his alternate interface, Rane worked quickly, brief acts of will carving a large chamber into the mountain before enclosing the outside with a large pane of glass, himself and Terry on the inside.
+
+Only then did he turn and regard the view he’d chosen.
+
+The large lake was directly outside and below the glass wall. Irondale was off to the left, on the shoreline and extending out of view in that direction. Across the water was a large forest, partly bolstered by the elvin hold that Master Grediv had given them so many years previously.
+
+To the right was the bulk of the lake, but he could still see past it to plains and another mountain.
+
+This was a truly massive hold, especially considering the level of connection and control that Tala had to, over, and within it.
+
+His wife was impressive.
+
+A small smile came unbidden to his lips, and he reveled in the warmth of his feelings for her and the knowledge of hers for him even as he continued to work.
+
+First, the walls smoothed and minor cracks and flaws were repaired and sealed until the substance of the room was solid and unbroken for more than fifty feet in every direction within the mountain.
+
+Next, a throne was simply formed at his will—using his borrowed, bound, and granted authority—from the stone that he’d already removed.
+
+After a moment’s consideration one of his blocks of carving stone appeared to one side. He would sculpt a more ornate, purposeful throne afterward to see if that made a difference. Something told him that it might.
+
+With that realization, Enar sent him a flood of connections, allowing them both to hypothesize that having others make the throne or room would have enhanced the authority as well, or at least changed the flavor.
+
+His creation of it by dint of will was a powerful manifestation and statement of control, and the authority inherent in such and act shouldn’t be discounted.
+
+There isn’t a right answer, is there… He groaned. It’s all nuance and perception and concepts. It’s the bedrock of arcane magic, of course it doesn’t have easily quantifiable roots.
+
+Enar took that moment to remind him that gated magic wasn’t much different with the impression of a pointed look.
+
+Rane disagreed. Oh, we have easily quantifiable foundations, we just can’t investigate them to deeply or it limits our growth.
+
+Enar tried to offer a counter, but Rane was unmoved.
+
+Of course that’s better. We are capable, but choose not to. They don’t even have the choice. But we’re getting distracted.
+
+He moved over and sat on the chair, instantly feeling…. that it wasn’t very comfortable.
+
+Rane sighed and shifted the structure of the seat until it was better formed.
+
+As to the point of the test? He thought that his expressions of aura and authority on the superficial were marginally more… effective? Efficient?
+
+He wasn’t sure, and it could purely be in his mind. Still, it bore further investigation and—
+
+Enar interrupted him, dropping a bundle of communications into his mind.
+
+Rane’s eyes widened, and Terry clearly noticed something as well, his eyes snapping open.
+
+Rane chose to speak out loud for Terry’s benefit. “Black Legion attacks, or at least confirmed movements. Makinaven has incoming, and at least one other group has been spotted coming out of the southern forest near a wandering village.”
+
+Terry perked up, tilting his head inquisitively.
+
+Rane sighed. “Unfortunately, it was more to the west than where we are, and we’re a few hours away. Tala is going to engage as the nearest asset, travel time wise.”
+
+Terry ruffled his feathers in clear irritation.
+
+“Yeah… I wish I was with her too.” He sighed, turning back to his task. At least the hold was showing no signs of strain or fraying connections with Tala. They should be good to go.
+
+He had promises to keep miles to go before he could sleep.
+
+North!

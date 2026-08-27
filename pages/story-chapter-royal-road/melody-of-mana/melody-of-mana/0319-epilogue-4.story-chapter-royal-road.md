@@ -1,0 +1,89 @@
+---
+id: 393e2d4f-3798-56c4-a8a7-8e5738ecd43f
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 4"
+slug: 0319-epilogue-4
+partOf: melody-of-mana
+position: 319
+ownLength: 1360
+unit: words
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1500518/epilogue-4"
+royalRoadId: "1500518"
+---
+
+I stumbled through the portal into Justin's domain once more, leaning heavily on my staff as my muscles rebelled. I had to hurry, but everything hurt so bad. As usual the man took his time to join me, but as soon as he saw me he rushed over, hands wrapping around to help me up. I felt frail, so frail.
+
+Magic or no hundreds of years had taken their toll. My bones were no longer strong, my skin was loose and wrinkled over muscles atrophied from age. And I was in pain, so much pain, I grit my teeth as I walked beside him, happy for someone to lean on this time.
+
+“Alana, what are you doing? What's wrong? You look like you're dying,” the ancient king said as he tried to pull me towards a chair, but I resisted, I couldn't sit down.
+
+“Not dying, dead, body just hasn't caught up with it yet. Heart gave out two hours ago my boy,” I laughed. “Only reason I can still move is that I'm keeping it all together with magic, and that won't last.”
+
+“WHY ARE YOU HERE!? YOU NEED A PRIEST YOU DAFT WOMAN!” he roared, far too loud for my taste.
+
+“Can't help, even you know there's a point at which it all starts to fall apart. Maybe they could keep me alive a bit longer, but it's all coming undone, and I'd rather go out standing up than as a vegetable laying in a bed. Now listen, because I don't have time.” I affixed him with the harshest glare I could manage, and he stilled.
+
+“What do you need?” he asked, eyes in pain. We'd known each other for so long, and I knew he'd already lost so many. It hurt to give him another, but my time was over.
+
+“The pool, I want you to take me to it. I'm going to drink, see what happens, see if I end up going back. Bet none of us have before, so let's do it. We'll use the walk to talk, because I need to tell you about some things too,” I struggled, leaning on him even more.
+
+I felt magic wrap around me, and I was somewhere else. It was clear now how he was doing this, the method of teleportation, but it didn't matter, not today.
+
+“This is as close as we should teleport, let's hurry if things are that bad.” I was glad that he wasn't going to argue.
+
+The giant cave was much as I remembered it, perhaps just a bit brighter, the plants just a bit fuller. The magic was thick, almost visible in the air, you could very nearly taste it. It was a shame, a true shame that I'd only been here a few times.
+
+“There's another like us, at least one other. Met him a bit ago in a city called Exion. Another point for your data there,” I said.
+
+“I see,” he said as he helped me hurry forwards.
+
+“I also want you to know that whatever happens, it's not your fault.” He looked at me with furrowed brows. “Oh, don't give me that. I know you were a naughty boy when you were younger and you went and hid here to pay for it, but you need to let it go. Forgive yourself, almost everyone else has. If those priests had half a brain they would too. That's not what I'm talking about though. This, whatever happens here is on me. I'm the one drinking that water to try and find out what happens.”
+
+As I spoke I felt the spell I'd woven around my heart lurch. At this late phase even my magic was starting to fail, as if it knew my time was up I'd already put too much into making that spell in the first place, and my mana was running on fumes. I pushed mana into it, trying to stabilize it but there wasn't enough left to make it fully right.
+
+“Alana?” Justin's voice reached me.
+
+“Can't...” I'd fallen almost to my knees, and try as I might I couldn't push myself back up. I heard my staff clatter to the floor nearby.
+
+“I've got you,” he said, and I felt a mix of magic and muscle wrap me up, scooping me off my feet and carrying me forwards towards the beautifully glowing pool.
+
+“Of all the money I ever had, I spent it in good company,” I sang, trying to get just a bit more mileage out of the magic keeping me alive.
+
+“And of all the harm I've ever done, alas it was to none but me,” Justin joined me, and I felt the gestalt hit like a freight train, bolstering and shoring up my weaknesses.
+
+“And all I've done for want of wit, to memory now I can't recall,” I saw him smile at that, for we both knew his memory.
+
+“So fill to me the parting glass, good night and joy be with you all.”
+
+I could feel him rushing, hear him singing, but at the edges my sight started to dim. The only things I could really see as we moved forward were the light from the pool and the tears streaking down my friend's face. The song was working though, and as we moved I could feel my heart thump to the beat, the beat of that old song of goodbye.
+
+“Of all the comrades that 'ere had, they're sorry for my going away
+
+And all the sweethearts that 'ere I had they'd wish me one more day to stay
+
+But since it falls unto my lot, that I should rise and you should not
+
+I'll gently rise and softly call, good night and joy be with you all”
+
+As we neared the end I was placed gently down on the vines, Justin rushing forwards and producing a small glass which he filled from the water. He had to help me raise it to my lips so I could drink. The water was cool, not the burning pain I expected, but refreshing, welcome. Had it been like that the last time I'd drank it?
+
+“So fill to me the parting glass, and drink good health whatever befalls”
+
+Then the fire hit me. Strangely it didn't hurt that badly. One by one the bubbles of my aura burst, releasing small explosions of fiery magic. I rose, strength pulsing, but I could see it wouldn't last, my aura was burning, and when it was gone I knew in my bones that it would be the end.
+
+“And gently rise and softly call”
+
+So I rushed forwards, my companion saying something behind me I couldn't make out as I dove into the pool, like I had all those years ago, still singing, still wishing him goodbye. Even as I floated towards the center though I could feel the effects, by body was coming apart, flaking away like dust.
+
+Once more I could see clearly though. I could see the pool, the elf weeping beside it on his knees. I could see others too, all those I'd lost over the years. My husband was here, the children I'd buried so long ago, and their children. Off to one side were my closest teachers, looking on with smiles, Mystien and his friend Lucien both shaking their heads. At my right, just out of reach was my family, my parents and... both of my brothers.
+
+It was Rod, the first of all these to fall who stepped forward.
+
+“Hey there little sister, you ready to go?” he asked, offering me his hand.
+
+I reached my own up, which was odd since it had fully turned to ash, but the idea was still there, a spectral hand. I knew in my heart that I wasn't going back to Earth, but instead to wherever it was we went.
+
+As the song came to it's close I touched my brothers hand. The moment it met mine my body sped up it's destruction, the slow burning speeding to consume me, but I had just enough time, just enough to finish.
+
+“Good night and joy be with you all.”

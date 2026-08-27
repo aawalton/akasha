@@ -1,0 +1,323 @@
+---
+id: 372614c5-989d-52a2-8a60-7b0be5528cad
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 72  - Bleeding Love"
+slug: 0120-chapter-72-bleeding-love
+partOf: metaworld-hopecore
+position: 120
+ownLength: 4024
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3617135/chapter-72-bleeding-love"
+royalRoadId: "3617135"
+---
+
+"Until you make the unconscious conscious, it will direct your life, and you will call it fate."
+
+Carl Jung
+
+Sony’s limo moved in long, unhurried loops around the Staples Centre’s outer ring road, the way an orca circled a seal before going for the kill.
+
+Kelvin Grant, nineteen, Grammy nominee, zero awards, sat across from the three wise men glaring at him in various states of calculated disappointment. Of the three, he felt genuine respect for Trent Davis, who had engineered Kel’s career. He felt fear toward the lawyer, Andrew Whitfield, who even now meticulously worked his BlackBerry. The last man was Carey Fielding, the producer who had discovered Kel at fifteen.
+
+Trent had been pleasant for the first three minutes of the ride. The pleasantness was what made Kel more terrified than anything.
+
+“You know what I like about you, Kel?” Davis asked him.
+
+Kel did not answer the loaded question.
+
+“I find that, despite everything, you have respect for the craft,” Davis continued. His CEO spoke with the typical cadence and accent of the well-to-do Manhattanite, though Kel could absolutely imagine his boss speaking with a Sicilian accent. They were, after all, in a dimly lit limo. There was a BlackBerry on Davis’ lap which he stroked. Outside, distantly, were the sounds of the city. You come to me, Kel's imagination said, on the night of my daughter's Grammy…
+
+“Kelvin,” Fielding called him out.
+
+Kel’s mind snapped back to reality.
+
+“You’re a talent, Kel,” Davis continued. “I appreciate that. In your place, some artists show up late, who sleep through sound checks, who don’t take care of their bodies, who indulge excessively. People who lose their passports before flying out to a concert.”
+
+Then the hammer dropped.
+
+“But punching our title artist on the night she wins the Grammy. That’s a first.”
+
+“I am very… very sorry, Sir,” Kel could only find the words he used for his old Principal. “I think you should know, sir, that I didn’t hit Kellie. I never struck her.”
+
+Davis exhaled. Kel’s heart sank. Was that NOT the right answer? Should he confess to a crime he didn’t commit?
+
+Sony’s CEO put his face in his hands, then stayed like that for a long, torturous second. The other two men shook their heads. Davis pulled down his hands slowly, then looked at the ceiling of the limo as if he was asking for advice from a higher, more benevolent power than he could ever be.
+
+Kel felt his insides shrivel. Should I act like a bitch? That’s the only thing these old bastards want.
+
+“Mr Grant.” Davis’ voice was the temperature of a windy, icy moor in winter. “I am not here to ask you for your version of the truth. Where you’re going, the truth doesn’t matter.”
+
+Kel said nothing. His suit was still damp with the truth.
+
+“Before I explain, I should apologise for thinking that you understood, because, clearly, you do not. I guess if you did, you wouldn’t have tried to break Euphemia Fontaine’s arm.”
+
+The green-eyed monster stirred. Fontaine, again?
+
+“Whatever Will Be, Deer-re-mi, Starry Starry Night, Doves Cry,” Davis rattled off a list of songs Kel had never heard or known. ‘Starry Starry Night’ was licensed to the Met for five months. It will soon be playing in 22 internationally renowned museums, each with its own Van Gogh Tour, over the next 6 years. Euphemia’s sponsor is Juliana Vaughan, the headmistress of the Met, though that’s beside the point.”
+
+Kel had no idea who or what this Juliana Vaughan was, but Davis clearly cared. He nodded. What else could he do?
+
+“Eppie gave us three Grammys tonight.” Davis did not begrudge his ignorance. “And in the next hour, Sony will release In the Pines and Dream a Little. The first is an Appalachian blues ballad exploring violence against young women of colour. Euphemia Fontaine has never written a dud, but that’s not the point either.”
+
+“Sir…” Kel now spoke with greater sincerity than when he was signed by Trent at sixteen. “If you give me a chance, I’ll make Sony more money than ever. More than Fontaine. Even if it kills me.”
+
+Carey Fielding, Kel’s producer, made the hand signal for Kel to shut the fuck up.
+
+“Money? You think this is about money?” Davis looked pained. “Drew, tell him.”
+
+“The Fontaine ‘Karmatronic Trust’,” Whitfield read from the Blackberry in a toneless voice, “has a float of around 8 million, 63% of which is Sony’s contributions. The rest is accrued investment growth. Her charitable disbursements to St. Martin's Children Hospital and the Reedley Community Church amount to half a million dollars. We’ve written off about $3.7 million from our gross earnings. She accounts for 0.4% of our 10% maximum taxable offset. Her personal pay packet for everything is a mere $147,000.”
+
+“The Trust is anonymous. Miss Fontaine has never taken to the press, or reported it.”
+
+His producer patted Kel on the knees to settle his nerves. “She started four months ago, Kel.”
+
+Kel went very still. His math was very good when it came to money. The colour of Kel's expression shifted through several registers as the rationale behind Davis’ upset finally arrived at home base.
+
+“So… assuming you understand—” Davis speed-dialled a number, then slid his personal phone across the seat. It was unlocked. Kellie's name was already up on the screen. “Then be the professional we need you to be. Tell Kellie it's over, that you need to work on yourself—. Tell her that you’re going to a Zen camp for her. Tell her that until you’re ready, you're not fit to be near her.”
+
+Kel looked at the phone. His pride growled. The phone rang. OnceTwice. Three times.
+
+“Failing that,” Sony’s Chief Legal Officer said without looking up, “we sell your contract to EMI." The old orca paused, selecting a word like a man picking the right scalpel. “At a bargain bin price.”
+
+Four times. Six times.
+
+The call connected on speakers.
+
+Kellie's voice came through, small and careful, a girl opening the door at midnight to see who was banging on the security gate. “... Sir?”
+
+Kel—to his credit—really was professional.
+
+He apologised sincerely. He said he was wrong. He said he was sorry it happened. He felt terrible. He wanted to make it up to Eppie. He told Kellie their relationship was over. He told her he was going to be better. He did not cry, but his voice was shaken.
+
+When he hung up, Kellie's relief was palpable through the speakerphone.
+
+Kel set the phone, now placid with a background picture of Davis’ kids, on the tiny table between them. Outside, the city moved against the tinted glass, liminal against the frozen pocket of time inside the palatial vehicle.
+
+“Well done,” Davis retrieved his phone. “You’ve saved your career. That said, we’re delaying your next album. All marketing will be put on hold.”
+
+Kel’s fist clenched. Fielding shook his head in warning.
+
+Davis exhaled through his nose. “It’s for your own safety. Mr Grant.”
+
+“My safety?” Kel’s voice rose. The green-eyed monster roared.
+
+“Kelvin,” his CEO’s eyes seemed to glow under the ambient light of the limousine’s interior. “You know who the fuck Fredrick Curon is?"
+
+Silence. Kel understood Curon’s immense influence, but he had never worked with Curon.
+
+“You young fellers only know Frederick as our Creative and A&R Director,” Davis said calmly, ignoring his anger completely. “You don’t know SHIT. Curon was there in the beginning, in a basement in the Bronx. The ‘popular music’ you peddle began from that basement. Jump Street, Public Menace, Common Enemy, KK Cool, Dr T. He built and sold Raw Jam Records… to Universal. All of your predecessors had sat in that humid basement, watching Curon mix their tape in his mismatched Adidas sweats, on loaned equipment.”
+
+Kel felt a chill in his back like a sliver of ice, a living needle of it, moving up the length of his spine, stabbing every nerve as it went. Finally, clarity dawned.
+
+“And this is the man whose adopted daughter you tried to put back into the hospital—”
+
+The limo looped around another corner. The lights of the city grew liminal.
+
+Kel stared at the floor. His knuckles were bruised. Lord, she was so strong.
+
+“Fred never called in any of those favours, not after thirty-two years.” Davis’ voice sounded like a whisper in a dream. “One wonders what might happen if he did. Or if someone took it upon their salvation to, as you boys might say—do him a solid.”
+
+“What…” Kel never knew breathing could be so difficult. “What can I do?”
+
+“Find someone who might help,” Davis leaned back. The CEO’s history lesson, it seemed, was done. He picked up his phone. The man was now scrolling through his Grammy congratulations.
+
+Kel said nothing. But the trembling in his jaw said everything.
+
+He wasn’t that stupid.
+
+He knew who could help, but why would she?
+
+In Chinatown, another limo from the Sony stable pulled into the park, filling the alley almost wall to wall.
+
+The Wang Yip Ming Clinic sat at the tail end of a narrow service alley off Hill Street, the kind of street Google Maps rendered as a grey hairline. The front was all glass and festive Chinese posters, together with pictures of the staff and their accreditations. The back was wedged between a shuttered seafood wholesaler and a herbalist's loading dock, both dark at this hour, both reeking faintly of rotting shellfish and diesel.
+
+A single security light hummed above a grated door, throwing a cone of sodium-orange onto cracked concrete, flanked by a stack of collapsed cardboard boxes soaking up the fish-juices.
+
+The driver didn't comment as he opened the door for the girls.
+
+Zara exited, more paranoid than Mr Biscuit before his demise. She scanned the alleyway for signs of paparazzi. Naturally, there was no one. Chinatown at this hour belonged to delivery trucks, stray cats, and starlets needing emergency treatments from a Chinese physio.
+
+Eppie followed her out, holding on to Zara’s arm because the concrete was still slick from an earlier hose-down, and the pain had now taken solid form.
+
+The door opened after the sound of jangling keys.
+
+Lim's father met them at the threshold before either of them could call out. Wang Sifu looked older than Eppie expected and yet was not old at all: his body was compact and hale, with the kind of stillness that spoke of martial experience. His beard was thin and wispy, more showmanship than habit, advertising his love of classical Hong Kong Wuxia cinema. He wore a man's changshan—a high-collared, single-breasted tunic the colour of jasmine tea over loose trousers.
+
+He looked at the girls. He looked at their dresses. His lips twitched.
+
+“Come in,” he mumbled.
+
+Inside, the smell hit first. Aniseed, ginseng, herbs, sweet-bitter and faintly smoky, fungi and dried citrus peels and something made from roots and barks of trees Eppie could not name. It was a clinic, but also a medicinal kitchen that had been simmering for two decades.
+
+The waiting room had four seats, each with a different design. The till was from the 1960s.
+
+Glass-front cabinets lined the back wall, floor to ceiling, each drawer the size of a shoebox, each labelled in brushwork, a catalogue for a pharmacy that predated pharmacies. Dried roots curled in jars like fossilised hands. Strings of desiccated, red-tinged material hung from a ceiling hook. A faded anatomical chart, the kind with the little glowing meridian lines running up and down a human silhouette, hung next to an OSHA poster about handwashing.
+
+They stumbled into a side room, Eppie wincing the whole while. A banged-up arm after an hour was NOT the same arm that sustained the injury.
+
+Past a curtain of jade beads, a single padded table dominated a back room, its surface punctuated with neat rows of pinholes worn pale from decades of use. A jar of slim silver acupuncture needles sat beside a UV steriliser box.
+
+“Sit… sit…” Wang Sifu popped the lights.
+
+Eppie sat in a red wood chair beside the padded table, worn smooth at the armrests, its worn plane offering as much comfort as concrete. Lim’s dad crouched to adjust the right armrest's height with a small brass thumbscrew before she'd even finished sitting down.
+
+“Place your arm there, slowly,” Wang Sifu spoke with a perfect, second-generation Californian accent, despite his halting English. “No tense muscle.”
+
+Eppie lowered her arm onto the wood, and the relief of not holding her own weight made her exhale audibly. Senior Wang did not react to the sound, her ruined Miu Miu, the smeared mascara, or the conspicuous absence of certain structural undergarments.
+
+“Excuse me,” he said, respectfully inspecting her bruised exterior.
+
+The Sifu’s fingers were warm, compassionate and kind. He found her elbow first, two fingers walking the bone like he was reading braille, then traced up along the tendon line to her shoulder and back down, pressing in specific places hard enough to make her hiss like Mr Chin being picked up by a stranger.
+
+“Goodness,” he said, not unkindly. “Radial head, here. Hmm, displaced, not fully out. Annular ligament stretched. Doesn't feel torn. Medial ligament strained as well—your elbow took blunt trauma. No fracture I can sense; bone clean.” Wang Sifu spoke in the tone a mechanic does when reading off a car’s diagnostic code. “Someone yanked your wrist and elbow? It takes… great violence to do this type of damage.”
+
+Yank? She realised her mistake at once. She must have done this when she threw that solid wood table one-handed. “I got punched…”
+
+“By a big bastard?” Wang Sifu’s grip shifted. His right hand cupped her elbow. A thumb found a precise notch beneath her bruising flesh. He rotated her wrist with a small, deliberate twist, supination into flexion, fast enough that she didn’t even notice the moment.
+
+There was a soft click, more felt than heard, and the architecture of pain in her arm rearranged itself. What had been an eight dropped to something closer to a three in the space of one breath. Suddenly, her agony was shockingly manageable, like someone had turned a dial.
+
+“The big bruise is from the blunt trauma,” he said. “But no problem. Sprained ligaments. Big problem. I will give you a cast and painkillers. A week, maybe ten days. No soaking. Basin and cloth, get someone to help you wash your hair. No reaching, no carrying. Need to bag it when you shower."
+
+“I can do that,” Eppie said. “Remove dress at home.” Wang Sifu advised while producing a thick packet of disinfecting wipes.
+
+For some reason, Zara’s eyes glowed in the dark like a civet’s.
+
+“I do cast now. Hold.”
+
+Eppie held her flapping shoulder fabric against her chest.
+
+Wang Sifu worked quickly, cleaning the whole shoulder, wiping down from her collarbone to her wrist, brisk and clinical, the smell of rubbing alcohol cutting cleanly through the herbal warmth of the room. He laid the gauze in even, practised wraps, avoiding uneven compression. It was a modest cast that started at her forearm and extended to her elbow, designed to constrain her movements. “Is this resin?” Eppie was surprised. UV-Resin was rare even in hospitals.
+
+“We are sport clinic,” Wang Sifu answered with a smirk. “High tech.”
+
+While curing her arm with a buzzing lamp, Lim’s father unexpectedly touched her chin. He lifted her face, checking for bruises.
+
+Eppie looked up, unsure of the man’s intent.
+
+“Who did this to you?” Senior Wang asked casually. “Was it William?”
+
+The flatness of the question, the matter-of-factness of it, floored Eppie so profoundly she almost slid from the chair.
+
+“No,” she replied a little too fast. “Someone else did this.”
+
+Wang Sifu examined her again, this time as Lim’s father. The bruise, the dress, the torn seam, the ruined make-up, the soaked fabric. He looked at Zara, at the cream-caramel leg she had peeking out of the designer dress.
+
+Senior Wang nodded slowly, sadly, his expression wooden. “In your line of work—men beat you often?”
+
+“What?” Eppie’s whole train of thought derailed. She saw in the reflection of his eyes an old man who clearly misunderstood everything.
+
+“No! No, it's not—” She floundered, her excuse collapsing under its own weight. “It's not like that. I had to fight this rapper. It was the Grammys! We were filming!”
+
+The more she spoke, Eppie realised, the more she sounded like she was lying.
+
+“Zara! Show him! Show him on YouTube!” FOR THE LOVE OF GOD, PROVE TO HIM WE’RE NOT CALL GIRLS!
+
+Then, Mr Wang smiled. It was a cheeky, mischievous smirk. “I know. My son cares a great deal about you. He talks about you constantly.”
+
+“Oh my God, my heart…” Eppie groaned. Who knew that Wang Sifu was also a stand-up comedian?
+
+“Just like the girl he loved. Luciana Mio.”
+
+The floor dropped out from under Eppie. Zara let out a little gasp.
+
+Eppie looked at Lim’s father. Was the man serious? Was he seriously serious?”
+
+Wang Sifu sat. He folded his hands in his lap, unhurried, the way he did everything.
+
+“Ah-Lim told me about you. About poor Miss Mio. About Chen-ye’s granddaughter. We know of Ah-Chen’s sins.” He allowed the shock to settle before continuing. The word he used was in Cantonese. Jeui-jip, meaning karmic iniquity. Weight. Burden.
+
+“You all know about it?” Eppie asked carefully.
+
+“Not all. Xiao-Meng, that’s Kitty, told her mother the same day. Sister Meng did not tell her husband, considering what Kitty had to do to hide Ah-Chen’s jip. Her father’s a hot-headed one. Very protective of his daughter.”
+
+“How much do you know?” Eppie felt no desire to elaborate, in case all of this was Mr Wang’s ruse.
+
+“We know enough.” Wang Sifu removed the UV lamp. The cast was done. He stood. “Good. I get Yan Hu Suo. Good for pain.”
+
+Corydalis concoction, Eppie translated for herself, still thinking of Wang’s words.
+
+When he came back, he was with Lim.
+
+“Euphemia! Are you alright?” The gentle giant was beside her at once. He greeted Zara, inspected the cast, the sling, her bare, bruised shoulder, and the state of her dress, and assumed the exact expression Curon had when walking through the door.
+
+“I am perfectly fine; I am not in pain. This has nothing to do with William. I just got back from the Grammys. I saved someone and got injured!” She blurted everything all at once just in case Lim had a Glock 19 stashed between the dried mushrooms and the frog pills.
+
+“Ah?” Lim’s pupils refocused. “... Could you repeat that?”
+
+She repeated herself in detail. Kel, the vase, the shoe-throw, Curon asking for a gun. Lim listened without interrupting, arms crossed, jaw tightening by degrees. Not finding any of it funny.
+
+"You are too reckless," he said when she finished. Not angry, exactly—but tired in the sense of an older brother who'd been saying the same thing since he saw her solo jogging in the dark, on a campus where William Chen prowled.
+
+“Maybe I need a bodyguard,” Eppie joked, deadpan, lifting her cast slightly for emphasis.
+
+“Would you take an accountant?” Lim said, looking at her once-gorgeous dress. “Since your inventory rapidly moves from asset to insurance payout.”
+
+Eppie laughed, as did Lim. It was a joke that only accountants could find funny. Zara laughed uncomfortably. Senior Wang did not laugh, but he did prepare the Yan Hu Suo. She drank the concoction in a single pull.
+
+Lim's face then settled back into something serious. “Shall I take you two home? Or are you riding the Limousine?”
+
+“We’ll take the limo,” Eppie said seriously. “If Zara and I disappeared, someone over at Sony is going to find an excuse to exercise his right to bear arms…”
+
+And that would be the merry end of my [Persona]’s adventures.
+
+They snuck through the empty lobby, Eppie in towels, Zara in her dress.
+
+The doorman saw nothing, nor did the concierge, because Culver City hired only professionals.
+
+In their room, towels were already placed, as were the garment bags for their atelier outfits. Someone had already laid out bathrobes and intimates, in case the girls had packed poorly.
+
+There were also French truffle chocolates in little Grammy bags.
+
+Must be Maddy’s work. Eppie recognised the signature personal touch.
+
+Then came the inevitable moment, and Eppie grew hyperconscious of it because Zara was, too.
+
+“Sorry…” Eppie apologised in advance.
+
+She stank, but she needed Zara’s help.
+
+But not before Zara needed her help.
+
+The structured bodice of Zara’s Pertegaz B in shiraz could not physically release its grip on her figure without external aid. And so, with her good arm, Eppie unzipped her partner while the living furnace of Zara’s burning body flushed her friend's complexion a vivid scarlet from her long neck to the small of her back.
+
+Still possessed of enough tact not to giggle, Eppie studied the scene outside the half-closed curtain while the sound of shuffling clothes happened behind her. When it was all done, Zara was half-made up in a loose T-shirt, looking like some boy’s wet-hot Spanish-American Midsummer Night’s Dream.
+
+Then it was her turn, and Eppie realised just how much worse it could be when her helper was facing her.
+
+“You can't even reach behind your own back,” Zara said softly, her lips parting just so.
+
+Why am I panting… Eppie felt a weird fire burning in her belly. It must be the Corydalis concoction, she decided. Good God, I better not fart… The [Causality] fallout if she did…
+
+Her hesitation passed. Eppie didn’t fight Zara’s desire to disrobe her.There was no point.
+
+She apologised again for the stink as her friend lifted the Miu Miu from the hem, revealing… everything.
+
+Oh my God… Eppie felt her eyes water. The shame… the shame…
+
+Eh? She met Zara’s helpful eyes. Her friend was staring. Zara mumbled something, then her eyes began to water.
+
+The fire in Eppie’s belly grew in strength.
+
+“Poor Eppie…” Zara helped lift the dress over her head. It was odious beyond measure. The ruined silk seriously stank of fetid stem slosh.
+
+When she was finally as topless as Brigitte Bardot taking a stroll in Saint-Tropez, Zara was almost in tears. Eppie’s scalp burned. Just how flat was her [Persona] to make Zara cry in sympathy? Then she looked down.
+
+Oh… There was a bruise that looked like an evil dragon, twenty inches long and six inches across, that covered the entire length of her ribs to her lower belly.
+
+“Does it hurt?” “Not… really?” Eppie was honest.
+
+Zara bagged her cast with a shower cap and rubber bands, but Eppie insisted that she would clean herself because she had never in her life been washed by anyone other than her mother. Zara relented after Eppie raised her voice, but grew happy again when Eppie invited her into the bathroom to help with her hair.
+
+With her friend humming pleasantly behind her, Eppie found her mind drifting while Zara brushed her down like a cat. Tomorrow was Monday. School. The Crucible, Act IV, if Dr Kirby kept pace. Theatre block in the afternoon—the budget spreadsheet still needed reconciling before Thursday. Then she had Senior practice, meaning she would be watching from the sidelines for a week while her arm healed. What would William do by then? How would Valorie act, considering that they had attended the Grammy together?
+
+She had not noticed at all that Zara had already dried her hair, and that she was being helped into her brassière until—
+
+She looked at Zara again, wondering just what was giving her friend such glowering, unbridled joy when—
+
+Her phone buzzed. It buzzed again.And again.
+
+Your act of [Noblesse Oblige] has reaped the [Karmic Parasite] + Karmic Causality+ Karmic Causality
+
+It was past midnight, and Eppie recalled that… indeed, Pines and Dream had both been unleashed into the world, riding on a tidal wave of popularity generated by half-a-million-dollars’ worth of digital, radio and iTunes promos, buoyed by 17.2 million viewers fresh off a Grammy win.

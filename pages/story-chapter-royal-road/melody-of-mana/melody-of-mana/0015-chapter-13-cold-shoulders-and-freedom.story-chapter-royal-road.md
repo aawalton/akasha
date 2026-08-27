@@ -1,0 +1,129 @@
+---
+id: e370badd-b104-5996-b9e1-bdb3d3db8578
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 Cold shoulders and freedom"
+slug: 0015-chapter-13-cold-shoulders-and-freedom
+partOf: melody-of-mana
+position: 15
+ownLength: 2415
+unit: words
+ownProgress: 2415
+publishedAt: 2021-06-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/706828/chapter-13-cold-shoulders-and-freedom"
+royalRoadId: "706828"
+markedReadAt: "2026-06-29T22:26:46.458Z"
+---
+
+The days marched on, and winter approached its inevitable end. I didn't know the exact day I was born. That's not how most villages measured time, much more important was the changing of seasons. As I approached the turning to spring that would mark me as a seven-year-old I stood at the back of the tavern. Something about the view from behind the bar made me smile. It would have made a perfect painting.
+
+Well, almost perfect, at this time everything was being moved around by the departing group. Tables were moved to one side as the chairs were formed into rough circles, and an enormous pot, loaned by the tavern owner Perry was being put over the fire to heat. I myself was doing a bit of preparation, putting away everything that was out for the daily distribution of bread.
+
+Around the time I finished a great number of women began to join me. Some carried large tubs in groups, others had washboards and cleaning utensils. Many carried large sacks or baskets of soiled clothing. Today was a laundry day, something that had been decided on early into our confinement.
+
+By getting together and doing our laundry collectively we had a much needed chance to socialize. The gossip, news, and good humor spread at this event brightened this otherwise quite dismal time for us, and so a couple times a week laundry day was held. Because the water was heated and disposed of in a communal fashion it was also massively more efficient to work all at the same time. Anyone could go to any such day they pleased, but friend groups tended to come together.
+
+Today was one of the days most of our hamlet had decided on, and I looked up as I saw mom coming in, bringing some of our things. I skipped over to help her and we set up in our normal place.
+
+Sara's family joined us, her mother looking up at mine.
+
+"We're going to slaughter one of the pigs tomorrow, would you and Alana like to help prep the meat?"
+
+"Of course." Mom heartily agreed. "What time?"
+
+"Bit after lunch, I'm going to go and see if I can get a trade on some herbs and salt."
+
+"I've got a bit, how much do you need?" I hoped mom could get a good trade here, I'd love pork for dinner.
+
+"It's about an older one, so we'd need a small sack of salt and about as many herbs as can be spared." That was a fair amount.
+
+"You're making sausages from the organs? Or are you doing soap this time?" Mom inquired, both options had their merits.
+
+"I'm thinking sausage this time. I'm all settled up on soap for the moment."
+
+"Would you trade half of those for the salt and herbs?" Mom was being pretty generous here. Both of the things we'd be trading away were 'premium goods' and while meat fell into that category as well, sausage was considered one of the cheapest of meats.
+
+"Done." Sara's mother agreed with a smile.
+
+Elna, one of the other women in our town leaned in to discuss buying the blood. She had a dog and it could be used in some puppy chow.
+
+Sara and I got close and started going over our favorite mixes for spicing sausage, since we'd almost certainly end up assigned that job. She liked one with rosemary and fennel, which I thought was a bit odd tasting. I put forth a strong argument in defense of sage, which I would use as much of as I was allowed.
+
+"Two spoonfuls of sage, tossed in with half a spoonful of rosemary and pepper, to add a back flavor. There is no mixture better."
+
+"Well, at least you got the rosemary right, but it should be one of each it and fennel, one half of pepper, one quarter of sage." We would never see eye to eye on this point. The discussion was fun though.
+
+There was an odd couple out to the generally happy attitude today. In one corner sat a man and woman, both washing a small mountain of clothes.
+
+The man was one of the soldiers passing through. It had been decided that one such would be allowed to sit in and use the communal water on each washing day. So that he could clean some of the clothing for those men moving past.
+
+None of Orin's men were permitted in the tavern at all, a rule that had only been violated one time. I had not been present for that incident, but it had nearly led to a riot. That had been narrowly avoided when his commanding officer, upon learning the problem, had publicly berated him in the street. Followed by assigning him all the unit's most unpleasant work for a solid month.
+
+The woman was Anta, Mayor Malke's wife. I didn't know her, and had no intention of getting to know her. As one who'd been aiding the soldiers Malke, and his wife by extension, were declared persona non grata by the rest of the rest of the town collectively. She knew this, and kept her distance. I suspected that as soon as the war was over they would be forced to move.
+
+When we'd first been confined here, a couple of the more hotheaded lads had gone about causing trouble. This had ended with little more than them getting flogged in the town square for their foolishness. That period had continued for only a week or two before one of the older grannies proposed an altogether more elegant solution.
+
+The soldier had stopped his working, and walked over to our group. As he approached the room went dead silent, every head turned to face him.
+
+"Ah, excuse me ladies. It seems I've run out of soap. I don't suppose you've any you might be willing to part with? I could pay or trade with you..."
+
+"..."
+
+"If that's okay..." He was getting far more hesitant now.
+
+"..." Nobody said a word. Nobody moved. Every eye, from the youngest girl to the oldest granny rested upon this man, and all were silent. There were no glares, only blank faces. Everywhere he looked he was greeted by silence and staring eyes.
+
+It took only a few minutes for the man to lose his nerve and return to the corner, visibly shaken. Once he sat back down we resumed our talks as if nothing had happened.
+
+This was why the soldiers had to do their own laundry. Nobody in the town would speak a word to anything less than formal business. Even with those things that we had to respond to there would be no discussion, no chatter, only cold movements and short concise sentences. Most of the time, soldiers staying in a village like this would find one or two women who'd be willing to do their washing and the like for them for a price. Here on the other hand, every time they asked nobody would respond (not that any would have right now).
+
+If of course that man went to a shop with an order to fill, the shop would do so, if they had any. But none of the few merchants that were still open would offer any assistance beyond the most basic. Nobody would give any answer as to who might have what, or who might be able to trade. Most of the soldiers understood by the time they left, and were thoroughly creeped out by it.
+
+The mayor on the other hand did not get silence, he got vitriol. Old men would spit on the ground as he passed. There were a number of jokes that girls would loudly whisper to each other about him wherever he went, making sure he knew they were laughing at him. A number of boys, in a fit of creativity, had come up with insulting songs to sing when they saw him. I liked using several of these while I was doing magic; it brought me a small joy. Everywhere he went he was followed by words like 'betrayer' and other insults.
+
+Anta was not treated quite as harshly, but was still made as welcome as a cesspit.
+
+There was almost no dissent from our treatment of the soldiers, or the mayor. Peer pressure was fucking terrifying.
+
+As we processed meat the next day I idly wondered how spring planting would be handled. Surely they would have to do something. I had no idea what would happen, but I'd heard Rosk had agreed to stick around from Sandra, so I knew it wouldn't be violent.
+
+It was as the snows thawed and spring broke that the announcement was made. We would be permitted to return to our homes. This was not overall surprising. Refusal to allow us to plant would have led to people knowing they were going to starve, and having a direction to point their anger. We were still mad, but this gave us just enough hope to continue.
+
+The soldiers were staying though, and would be conducting periodic checks and patrols to harshly stomp out any perceived insurrection. Behind closed doors this led to a lot of grumbling. We still shunned them, so they didn't know, but it led to much discussion on how they were wasting time. Everyone seemed to agree that they had spent more time and effort trying to punish us then it was worth, all they'd really done was cement our village against them.
+
+Of note they were also fortifying the village. The rumor mill said the war was not going well, and the Ermathi troops were moving closer by the day. That was concerning, but I was divided on my opinion of it.
+
+Regardless of what might come, we knew what would come if the fields were not worked. It was for that reason that we packed our things and set to return to our home. As a parting gift (even though we'd be only a short walk away) Barro gave both boys chain-mail shirts and eighteen inch blades. He reasoned that with the bandit incident in the forest, it'd be wise to have them.
+
+Mom opened the door to the house and groaned.
+
+"Should have come up and done a bit of cleaning before we packed everything up."
+
+We were carrying most of our stuff with us. Nobody had really thought about it and just jumped at the permission to leave, but our house was a disaster.
+
+I looked in, "Wow," summed it up fairly well. Dust caked every surface, wind had blown the contents of the chimney into the house, and spiders and the like had claimed the open territory.
+
+"Alana, fill up a bucket with water and grab... let's start with the hearth. After that we'll need to do the beds so we can sleep."
+
+"So what should we..." Rod began.
+
+"Go check the tools, fields, and hives. You two are more of a hindrance than a help when it comes to cleaning." Mom cut him off. That was kinda cold, but really true. Men didn't do a lot of household cleaning in this world, and those two were particularly inept.
+
+I made a small light, which I had float in the middle of the room. It made everything clearer, which didn't help the appearance at all.
+
+"I'll start up top, it'll be easier for me to clean the places we can't get to easily." I told mom, firing up the trusty old, 'move stuff' spell and grabbing a wet rag.
+
+The boys were bogged down with the disaster that was unkempt farmland. Had it been anything other than over a winter it might have been too much for them. That kept them away from the frenzy that gave new meaning to the words 'spring cleaning', repeated in every house in our hamlet.
+
+It took two days, at the end of which I was ready to collapse. I did revel at the fact that our house was once again clean though. When we'd got the last bit done mom and I laid together and took a nap. It was a wonderful sensation of warmth that rolled over me as I settled into sleep.
+
+The fields were planted a few weeks too late. It was a struggle for everyone and some of the seed was right at the back end of where it should be. I couldn't imagine that would be ideal for a harvest, but needs must.
+
+Part of our struggle was that we'd lost so much stock. With fewer oxen to pull the plows and equipment we struggled. We resorted to using hand tools on several fields, just so that we could get something into the ground before it was too late.
+
+The other part was that nobody had had enough food, and our stores were tapped. I don't know if they planned it, but Orin and his men had thoroughly screwed this town. Too many things had been left behind and too many animals had to be killed because of their stupid lockdown. We'd already been running on fumes as it was, with just enough to keep going.
+
+The losses might have seemed minor from the outside, but every chicken lost cost us many times it's weight in eggs. Every pig killed didn't get the chance to fatten on the roots and forage, turning waste into valuable food and fertilizer. Each cow gone lost us both a plow animal, and a source of dairy. The list went on and on, and it was compounded by the fact that they would no longer multiply, hitting both the present and the future.
+
+When this war was over, there would be a reckoning. I couldn't imagine that men coming back from the front lines would look at what had been done to their homes and do anything except rebel. They already had the training, weapons, and experience. They also had an inkling of what the nobility had been hoarding; while we went hungry fat rich men in their little castles feasted. Perhaps the fact that many nobles were spellcasters would hold the tide of rage, perhaps it wouldn't.
+
+With all that in mind it was good to be back home again. We were once more able to come and go as we pleased. Once more able to roam the forest for fresh foods. Sure, we were borderline starving, but we were free and that alone gave us new life.

@@ -1,0 +1,217 @@
+---
+id: 64d47982-712f-54ca-be78-039aaa4a79d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 42 - Well… That’s New"
+slug: 0008-chapter-42-well-that-s-new
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 8
+ownLength: 3616
+unit: words
+ownProgress: 3616
+publishedAt: 2021-12-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/810503/chapter-42-well-thats-new"
+royalRoadId: "810503"
+markedReadAt: "2026-06-29T19:35:33.004Z"
+---
+
+Over the next hour, Tala filled the fruit picker seven more times, each time moving back to the rock, or another convenient seat, to process her harvest.
+
+During that time, she lost another shirt and two pairs of pants.
+
+With one of each left, she was forced to continue her work without other covering.
+
+It wasn’t unpleasant in the cool weather, but it definitely left her feeling like every tree, rock, or bush held some hidden watcher.
+
+She filled both glass containers completely and ate a picker-basket full of the berries for lunch, supplemented by the travel food she’d purchased in Bandfast. No need to let this go to waste.
+
+She drank a lot of water, though it did little against her building headache. Is this from lack of coffee? It’s probably from too little coffee. She grumbled unpleasantly about the stinginess of inns.
+
+Her lunch now finished, she looked down at herself and noted that her fingers were stained a near maroon, and there were some drip stains on her chest as well. She could only imagine what her face looked like if enough had gathered to drip down off her chin. She had tried to be careful, knowing that every drop of juice held power, but there was only so much she could do. She let out a resigned sigh. Oh well. I suppose I’ll bathe when I get back to the city.
+
+Attempts at rationality aside, she was quite irritated at the waste of power that the juice represented, and she resolved to be even more careful going forward. Though, I don’t really know how I could be… Such a resolution, without a plan, was probably doomed to failure.
+
+She pulled out the keg she’d purchased and set about emptying the initial containers into it. They filled it quite nicely, just as she’d hoped. She set the keg’s lid in place and pulled out a wooden mallet.
+
+She’d purchased the mallet in Bandfast, along with several other random odds and ends, to help round out her options if unexpected things happened. As she’d hoped, it had turned out to be a wise choice.
+
+It was a bit more difficult than she’d expected to properly set the keg’s lid, but she got it done, mentally referencing the barrel seller’s advice and instructions. Glad I asked, or this would have gone a lot more poorly…
+
+With the full keg again stashed in her belt pouch, she had two empty jugs, ready to fill.
+
+Here we go. Once more, into the grove.
+
+Without clothing to protect, she was a bit less careful in this initial step, favoring speed over safety, and she was brushed, struck, and poked at least half a hundred times over the next hour. They never seemed to reach her skin, so she didn’t pay the brushes to much attention.
+
+Her speed paid off, though, as she filled the two jugs and ate her absolute fill of the endingberries.
+
+No wonder no one harvests these. I’d be dead a dozen times over. A hundred, more likely. From her experience, only her iron salve had kept her intact.
+
+She withdrew for the final time, settled down on a comfortably flat boulder, and finished processing the last harvest. Then, she stored the fruit picker in the convenient hole prepared within her belt pouch. Is hole the right term? Carrying case doesn’t really work. Mount? Slot? It didn’t really matter.
+
+She absently licked her fingers clean, relishing the tiny influx of power added to the storm within her with each drop. It had been a very productive outing. Not without its costs, however. She’d lost two shirts, three pairs of pants, and quite a bit of hair. She reached up and felt her patchy scalp with a sigh. She had not come through completely unscathed. Still, I’m alive, and there is no way I would have been without my peculiarities.
+
+She had kept her hair growth inscriptions from activating, knowing that she could easily exhaust them if she let them trigger for every disintegrated chunk of hair. The salve that I worked into my hair helped some, but not as much as I’d hoped.
+
+That said, she was ready to restore herself to a state that didn’t resemble someone newly recovered from a ravaging disease. Tala was about to let the magic loose when she had a realization. I’ve no idea if it will grow all my hair the proper length to recover from baldness, or if it will feather the growth so that the result is correct.
+
+She knew that the inscriptions would restore her hair, but like most acts of magic, she didn’t know exactly how.
+
+Well, there’s no time like the present to learn. So, she allowed power to flow through the activation scripts in her scalp and above her eyes.
+
+Her hair did grow only as much as needed, and she felt the tingling power of one of her eyebrows returning to form. The other was miraculously untouched. Good to know. It isn’t wasteful. Though, in truth, she had expected nothing less from Holly’s work.
+
+She regarded the two jugs alongside the keg, and decided that she wanted to contain and maintain the magic as much as possible.
+
+She’d already worked iron salve into the outside of the keg, so she was able to place that back in her pouch with a happy smile.
+
+The jugs were a different problem, given that they were glass and couldn’t really absorb the salve.
+
+In the end, she pulled out two medium cloth sacks, turning them inside out and coating the insides with her salve before inverting them once more and placing a jug within each. I’ll have to buy another keg if I mean to store these longer-term… She’d been cognizant enough to finish filling her iron flask, and that was comfortably stored alongside the keg, its iron the only containment that vessel needed.
+
+Now, the jugs were bound in iron salve, so the magic in the berries shouldn’t fade too quickly—if at all.
+
+She felt positively brimming with power from the berries that she’d eaten. Unlike before, when she’d had her palms uncovered along with her eyes as possible escapes for the power, now only her eyes were open, and her inscriptions were actively working to keep power from flowing through that weak point.
+
+Thankfully, those were gold inscriptions, like those of her passive enhancements, and should easily last until her return to Holly. The idea had been to prevent hostile magic from getting into her through her eyes, not escaping, however, and she could feel, and even see through her magesight, wisps of power slowly leaking from her open eyes.
+
+She blessed the stars that none of the flailing branches had ever caught her in the eye; she wasn’t sure her inscriptions would prevent the entry of magic that was physically thrust into her eyeball. That would have been a disaster.
+
+Her palms were not open now because she’d left the glue in place after treating the keg and fruit picker handle, earlier, and a healthy coating of iron salve had melded with the paste through the course of her work.
+
+The power had nowhere to go except what little could escape from her eyes, and she felt it settling in within her, strengthening her, and adding weight behind her enhancements.
+
+If she were being honest, she felt as if she could stand before a siege cannon and take the blast. Thankfully, such weapons of war hadn’t been seen by humanity in centuries, but they were still a subject of fascination for Tala. The idea that she could withstand one was intoxicating. And she found herself basking in the feeling of power, in the sunlight, in the ambient magic swirling around her, and in the cool breeze playing across her bare skin.
+
+Woah, girl. Focus. You are standing, naked, in the Wilds, acting like some crazed nature sprite. Tala opened her eyes and let her arms fall back to her sides. Better.
+
+The sun was past its zenith, and the afternoon was waning around her.
+
+With a sigh of contentment for a job well done, Tala pulled out a pair of almost pristine pants, by her usual standards, and the shirt with the single repaired stab hole over her left breast. It was a much nicer shirt than she’d been wearing, but the stitched hole was obvious. She was not a practiced stitcher. Seamstress? Tailor? Probably didn’t matter.
+
+She shrugged to herself. Either the seamstress will come through, or Brand’s tailor will make me some new clothing.
+
+As she turned to go, she felt a twinge, which somehow reminded her of her knife. Right, I should put that back on my belt, so it’s ready to hand. She stuck her hand into her dimensional storage to search for the knife and found it immediately in her hand. Huh, I guess I instinctively knew where it was.
+
+She felt a bit of tiredness wash over her, but it wasn’t anything worth considering deeply. She hadn’t truly stopped all morning, with even her short breaks filled with work. It made sense that she’d feel some weariness in a moment’s pause.
+
+She shrugged as she fastened the blade to hang opposite her belt pouch, balancing out her belt nicely.
+
+Tala turned her steps back towards the city gate but paused when she came to the same rise that had first let her see the grove below. I didn’t take even half a percent of the fruit that’s down there…
+
+It wouldn’t be hard to come back tomorrow. She could buy a few more kegs and spend a bit more time collecting. The power thundering within her was a potent argument for such a course of action.
+
+That’s a good default plan. I’ll keep my options open, though. That decided, she turned her back on the grove and headed back towards the city.
+
+As she walked, she followed her usual routine: reading, taking notes, sketching, and otherwise contemplating the myriad ideas and theories she’d come across.
+
+For one new addition, she added the occasional bit of entertainment; every so often, she would toss a small bit of jerky in a random direction and watch it vanish in a flicker of dimensional energy. In for a copper.
+
+As to her musings, she used her note-taking to help herself organize her thoughts and ideas surrounding difficult concepts.
+
+A central figure in her thoughts was her knife.
+
+The connection she felt with it was strong—much stronger than what she’d felt with her Archon Star—but it still felt like a thin thread of what it could and should be. If I want to strengthen the connection, do I give the knife power, or do I forge more stars and unify them with it?
+
+More to the point, though, what would that gain her? Why would she want that connection strengthened?
+
+The belt pouch had continued to siphon energy from the countryside as she’d gone about her tasks, showing no signs of slowing, but the knife hadn’t shown any signs of such. Is it storing up for lean times? Making up for time spent in the city? She had no basis for comparison. I can ask Artia’s husband tonight.
+
+She hesitated. And what is the knife doing? Another question she couldn’t answer. Another thing to investigate, I suppose.
+
+There was something else that required more immediate attention, however. No matter what she chose to do with another Archon Star, she knew that she needed to make more. Grediv had all but commanded her to make one vastly more powerful than she’d ever managed before.
+
+Towards that end, she began building an Archon Star in her finger, just as she had the second and third times, being sure to hold the mental construct to which she slowly added power. Even so, she still contemplated the knife, occasionally drawing it from its sheath for examination, inspecting its magics more closely.
+
+She was careful, her few experiences of exhausting herself magically lending her caution. She had no desire to lapse into sleep, alone in the Wilds.
+
+Even so, she pushed herself, treating her magic as a muscle and seeking the balance between a comfortable strain and overexertion as she moved the power from her gate, through herself, to concentrate within her finger. It was an incredibly difficult balance to maintain.
+
+As she walked, she began to sweat with her internal strain, but it was a good sweat, one that spoke of progress well earned.
+
+It took her two hours to walk back to the city gate, and by the sun in the sky, it was still another couple of hours before sunset. I can make it to the gate. She held her focus as she approached and was greeted by the guard on duty.
+
+“Hello! Can I get your name, please?” He seemed a bit hesitant, and he was staring at her mouth.
+
+What is his issue? “Mistress Tala.” She kept herself from panting but only barely. Surprisingly, Adam’s breathing pattern was incredibly useful for just that.
+
+“Mistress Tala… Mistress Tala.” The man was searching through a list, eyes still occasionally flicking up to glance at her. “Ah! There you are. Welcome back. There are no messages for you.” He still seemed a bit hesitant. After a moment, he seemed to come to a decision. “Did you notice any creatures or combat while outside the walls today?”
+
+Tala frowned. I just want to get through. “No.” She almost stopped there, but her innate curiosity got the better of her. “Why?”
+
+The guard shrugged, marking something down. “Others have reported empty battlefields, places torn up by various types of magic or painted with blood, too dark to be human.” He gave her a meaningful look. “In any case, we’ve not had any reported encounters with beasts, arcane or magical, east of the city today.”
+
+Oh! The berry juice stains. I wonder if it looks like I’ve been eating raw meat… monster meat? She cleared her throat. “Ahh… Thank you.”
+
+He gave her another searching look, then shrugged, dismissing her. “Thank you, as well.”
+
+I suppose it’s no crime to hunt creatures, and even if I was doing it, my reasons are my own. Or some such… With no further comment, Tala walked into the cool shade of the gatehouse. I can make it a block or two. She came out the other side, still focused on the Archon Star building in her left ring finger.
+
+Her magesight focus was entirely within herself, homed in on the spell-form steadily growing within her blood. She had set all other thoughts aside, trusting to the general safety of a city in broad daylight.
+
+As she took the final step of those first two blocks within the city, she glanced around. I can go another two.
+
+So, she made her way back to the inn; once each goal was reached, she set another just a bit further. She maintained her concentration and continued to funnel as much power as she could without overtaxing herself.
+
+In truth, it felt like carrying the heaviest weight her body could manage without injury as she continued to push for just one more block.
+
+Then, almost unexpectedly, she was in her room. That’s it. I’ve got to get it out.
+
+She fumbled at her belt, pulling the knife so that she could prick her finger.
+
+Don’t let the inscriptions activate. She diverted a small fraction of her thoughts to her finger’s spell-forms, pulling power away from those intended to keep her skin whole, just as she did every time she needed to confirm a contract or transaction. Done.
+
+She also needed to tame the power of the endingberries, racing through her system in quantities vastly outstripping those she’d worked with before. She had to draw it away from the site of the cut, or they would prevent her skin from being pierced. Also done.
+
+Tala lifted the knife and paused. I’m an idiot; I’m not thinking clearly. Her focus was split so many ways, and she knew it was close to breaking. I’ve got to move fast. With careful motions, she sat and pulled out an iron vial. I almost just let this drop onto the floor. What would that have even done?
+
+She held her finger over the open vial and carefully slit her skin, allowing the drop of blood to flow out. She maintained full control over the power until it left her body.
+
+As the drop appeared, three things happened in quick succession.
+
+First, her magesight became outward-focused again, and she saw the power within the Archon Star. Not bad, Tala. It was at least as potent as the one she’d placed into her knife the night before, and that had been the combination of multiple efforts. Not bad at all.
+
+Second, as the drop fell free of her finger, her inscriptions activated behind it to close the small cut flawlessly.
+
+Last, her once again free mind realized something. Oh… the knife.
+
+The Archon Star, forged within blood, seemed to sense its like nearby. As it fell, its path changed drastically and instantly.
+
+The drop ticked sideways, briefly stopping against the handle of her knife, which was still held firmly in her grip. Even with that instantaneous pause, there was no time to act, and in less than a blink, the minuscule drop of blood had rolled down the handle and into the pommel, precisely where the other star had gone the night before.
+
+Well, that choice is gone, then.
+
+The knife quivered in her hand, a ripple moving through it from tip to butt, and after the tremor passed, she was a bit surprised by the changes.
+
+The blade’s color had returned to a more natural steel gray, though there was depth to the color that reminded her of the difference between red paint and a ruby. The handle’s material now resembled nothing so much as a night sky, where every star was the deep, vital red of liquid blood.
+
+Give a knife a blood star, and you get what you gave? She felt something deep within her chest like the sadness of missing a friend or the joy of hugging a loved one, and at the same time, she felt a resonance within the weapon she still held. Instinctively, she knew that her bond to the knife had deepened, for better or worse. Thankfully, there was no increase in her exhaustion. Apparently, increasing a bond didn’t have the same tiring effects as creating one—well, aside from the strain of creating the star used for such.
+
+Grediv said that the Archon Star would allow me to exert control outside of myself. She could already push magic into something that she was holding, so she took the knife’s sheath from her belt, placed the knife in it, and placed both items on the nightstand beside her bed.
+
+How far can it work? She still felt the knife, but not as if it were in her hand. The feeling was more like how she could reliably point at the sun while standing in its light.
+
+She stepped back until a good ten feet of space was between her and the knife. Then, trusting her own instincts, she gathered up a bit of power and pushed it towards the knife.
+
+It was as easy as moving power towards or away from inscriptions within herself. Easier, in fact, if that was possible.
+
+The knife drank in the magic thirstily, and Tala cut off the flow. Can I draw power back?
+
+She tried, using the same sort of techniques, but got nothing. Hmmm… Can I move it?
+
+She tried to shift the power within the knife, but it was like trying to move a pen by thinking at it: utterly ineffective and headache-inducing.
+
+This is getting nowhere. I can’t move power out of it or within it; all I can do is give it power. I don’t really see a point to that… She sighed.
+
+But, Tala, you can give it power… at a distance! She snorted a laugh. That’s true, and unique, I suppose. She smiled. It’s something.
+
+The seamstress wasn’t likely to be by for another hour or so, then she had dinner with Artia, Brand, and Artia’s husband. What was his name? She hadn’t met the man, but Artia had spoken fondly of him, and he seemed like he might have some of the answers she sought. It was like Adam, but not… Adrill! That was it. She smiled in satisfaction at remembering.
+
+So, she had a bit of time before the seamstress and dinner with Artia, Adrill, and Brand. How to spend the time?
+
+Tala decided that she should go buy one more keg, at the very least, as well as the tools to tap the one she had, for when that time came. Maybe a larger iron jug or flask? There were too many things to spend money on. She’d have to consider it on the way. She was almost to the door when the light pressure on her back came to the forefront of her thinking.
+
+Right! The knife. She turned to go back and pick it up, reaching out in preparation, even while still across the room.
+
+In that instant, she felt a tugging, and the knife, sheath and all, zipped through the air to stop lightly in her hand, the handle perfectly situated in her grip for instantaneous use. A pulse of tiredness followed as if she had just sprinted across the room, lifted a heavy crate, and sprinted back, crate in hand.
+
+Tala stared down at the knife, now firmly in her grasp. “Well… that’s new.”

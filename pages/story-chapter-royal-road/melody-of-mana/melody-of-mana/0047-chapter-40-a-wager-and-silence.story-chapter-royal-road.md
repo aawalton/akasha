@@ -1,0 +1,127 @@
+---
+id: 262c5eb6-a682-58ff-86d7-2f10ca664487
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 A wager and silence"
+slug: 0047-chapter-40-a-wager-and-silence
+partOf: melody-of-mana
+position: 47
+ownLength: 2092
+unit: words
+ownProgress: 2092
+publishedAt: 2021-08-31
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/742813/chapter-40-a-wager-and-silence"
+royalRoadId: "742813"
+markedReadAt: "2026-06-29T22:27:49.238Z"
+---
+
+Something about the old priest just leaving surprised me to my very core. Perhaps it was shame on his part for what had happened to my home. Perhaps it was that he knew that I'd hold strong to my position. Perhaps he was just biding his time. I didn't know, nor did I really care. So long as he was gone, I was happy.
+
+I didn't tell Dras what his mother had done. She might have thought it best for her to act that way and try to protect him. Personally I just choose to believe that she was a bit of a controlling bitch, that idea worked best for me. I didn't really have to though, he and his family had a fairly explosive meeting.
+
+Dras ended up spending very little of his time at home after that, he also decided to avoid The Sky for awhile. Instead we ended up studying while walking around the city. It was quite a bit more free and the market was a good place to practice basic math, there were plenty of examples for problems to be had.
+
+So we spent our summer and autumn taking light walks along the main streets. As it got colder we ended up taking shorter walks, but there was a nice little place on the city's main street that sold a form of spiced fruit juice, it came hot in a little cup. It was not unlike hot cider, but the flavor had no cinnamon, and wasn't quite as sweet. There was a note to it something like licorice, but much more mild with a vanilla aftertaste.
+
+"How are we going to study over the winter?" Dras asked over his drink.
+
+"Just work at home when you can't come to The Sky, and make sure to practice your magic. Just try to come by once or twice a week to go over stuff with me."
+
+"Yeah... I suppose that'll work." He seemed a bit dejected.
+
+"What's wrong?"
+
+"The winter is always awful."
+
+"I like it, it's peaceful. It's a time where we can rest and prepare for the coming year."
+
+"Yeah, but it's cold."
+
+"Okay, fair enough. I'm not really fond of the cold, but I have spells for that, and I suspect you do too."
+
+Dras laughed and nodded. "Suppose I do. Too bad I can't make a spell that makes it quiet."
+
+"Why not?"
+
+"Why not what?"
+
+"Why can't you make a spell that makes it quiet? I mean, it doesn't really work for me since I use noise for my casting, but you don't. There's no reason why you couldn't make a spell that would make it quieter."
+
+"Hmm... how would I do that though?"
+
+"Why don't you try to figure it out over winter, and then we'll see what you came up with in the spring, and how it works. It'll be a fun challenge."
+
+"Not really a challenge if I'm the only one doing it." He was getting all mopey about this.
+
+"Fine, I'll work on a spell to keep sound out of an area too. We'll see whose works better at the end of the season." I already had a few ideas on how to go about this, but it would be neat to see what he came up with.
+
+"If I win, you have to make me another cake."
+
+"Fine fine, and if I win you have to buy me a new outfit."
+
+"Clothes are super expensive!"
+
+"So is sugar."
+
+He grumbled but finally accepted my terms. I had every plan on winning our little game now, clothes were a huge part of my budget, saving even a little would be a big deal. The simple amount of work involved in making even a plain outfit was staggering.
+
+As for my current wardrobe, I was having to take out and adjust the seams as it was. At my age I was already hitting the early of puberty. The increase in growth speed meant I was having to replace stuff far too fast for my liking. I looked forward to hitting my full height, so I could at the very least slow that financial disaster down. If I hadn't spent a large part of my formative years eating little more than bread I imagine that I might be growing even more than I was.
+
+My work on illusion was coming along much as Lucien had said, quite slowly. I could manage something simple and non-moving now, like a plain cup. It even looked mostly real. Light and shadow got more and more complex to deal with even with the simplest of shapes and textures. People were also shockingly good at spotting things that didn't quite fit right. Humans have a real knack for finding those bits that stick out as different.
+
+So I added a silencing spell to my list of things to work on. I hadn't picked up many new ones in the last bit, instead ironing out what I had to perfection. I liked having everything I knew work really well, but having more tricks was never bad.
+
+As I sat on my bed a few nights after we began our contest I began to focus on the spell I wanted. A dome around me, one that would stop vibrations around the hearing range of humans. I wanted to extend that out just a bit to make sure it covered all sounds, but not too much. Missing a shaking of the floor or wind or something might be a real issue. I'd make it about as big as a booth at The Sky for now, and work on the fine tuning of size later.
+
+I hummed as I began to extend my magic out. First I formed the dome that would act as the structure of the spell, folding it over the area I wanted like laying a cloth over a solid object. Once it was in place I pumped mana into it to filter out the noise. I started with high pitches and worked my way towards the low. It was weird trying to imagine something you couldn't hear, but not too bad. The room got quieter and quieter as I reached forward towards the lowest pitch I could hear, then just beyond.
+
+As the spell finished and I quit humming it into existence the room was creepily deathly quiet. It was a bit unnerving since I'd never thought about how much sound was roaming through the city at any given time. The simple absence of the noise of things on the street or downstairs was just weird.
+
+I was also on the verge of fainting from mana loss, so I had to quickly end the spell before it dropped me on my bed regardless of what I wanted. It was huge, and I got the feeling that my magic really didn't like perfect silence. That was weird, but it was magic. I also considered that it might be something mental with me, some tick that just made me not want to do it.
+
+As I lay there, waiting for my mana to return so I could practice more I laughed. I was going to win, hardcore. I could feel bad for the money I was going to pull out of Dras, but he was the one who wanted to make it an expensive wager, so he could eat the cost. Perhaps I'd make a small cake or something for him anyway. Boys could get pouty when they lost something like that, and I liked sweets too.
+
+I spent my time making up and solving a few basic math problems. It wasn't really my normal cup of tea, but it was a thing that would help me in the long run. As was practicing with words and letters, I didn't get much of a chance to read but being extremely well versed in all the subjects in our little study guide would be good for me too. Particularly if I was planning on attending the academy, something I was feeling more and more confident I would do.
+
+I wanted to learn more and more about magic. It was powerful, and I would need power for me to keep up with the world around me. I never ever wanted to be left with nothing and alone again. I wanted to find my family, to have a good life, and to not be crushed by the powers that be again.
+
+That winter was rather quiet. I loved winter for that. We had a handful of people every day, and easy work combined with the peace and quiet of snow and a crackling fire was always welcome. The Sky stayed warm and toasty throughout, with alcoves that were cheery and inviting. By the end of it I could officially call myself twelve, one step closer to being truly considered an adult, not something I really wanted, but it would help keep me out of a lot of the trouble I'd been in.
+
+As the first of the snows melted Dras came by to solve our competition. We'd even roped Lucien in as the judge, he was curious to see where the two of us went with it.
+
+"I'll go first, be prepared to be amazed." Dras was sure feeling sure of himself as he began to cast.
+
+Lucien nodded as the sounds around us faded into a low buzz, you could still hear things, but it was indistinct, and much, much quieter.
+
+"Not bad Dras. Let's see what Alana has brought for us."
+
+I smiled across the table at my friend as I sang a quick tune. As the final note sounded dead silence reigned over the table where we sat. No sound from outside could make it in, and practice had indeed lowered the mana cost to something just barely manageable.
+
+"She beat you lad." Lucien patted Dras on the shoulder, he was trying not to laugh as he shook his head.
+
+"How did you... what were you picturing?" Dras asked.
+
+"It's a dome around us that excludes all the sounds that we can hear. The mana cost is too high for it to be very useful, but it's a neat little spell."
+
+"That's a neat way of picturing it, limited, but useful. Why didn't you just exclude everything?"
+
+"Seemed like I should let breezes and the floor shaking through. That kind of thing can be really useful to feel.""What's feeling got to do with sound?" Dras asked.
+
+"They're the same thing?"
+
+"Explain please Alana." Lucien seemed a bit put off by my answer too.
+
+"So you ever been near something loud and felt it, like in the ground or on your skin?"
+
+I got sort of confused nods.
+
+"Well, sound is just vibration right? Just the air moving in a way our ears feel it."
+
+Lucien blinked. "That's an interesting way of thinking about that, that things shaking is sound. Not sure if it's right, but it seems to be working well for you."
+
+It was weird to me that they didn't think of it that way. Perhaps this world had weird views on how things worked. Or perhaps they didn't work that way here. I decided the first was far more likely, what I knew of physics and stuff had seemed to work pretty well if I knew and experienced it.
+
+Dras and I arranged to meet up in a few days for me to claim my prize. We'd had a fair bet after all and I really did need new clothes. The fact that I'd roped him into helping me pick them out and pay for them was a big bonus. I had no real girl friends and shopping on your own for clothing was a bit depressing.
+
+Lucien seemed to find our whole arrangement to be hilarious. He laughed the whole way back to the bar after we'd informed him of what I'd won. I saw him laugh and make a few comments to another one of the workers, of course the barrier kept me from knowing exactly what he said. Her apparent giggle and covering of her mouth led me to believe it was something terrible though.
+
+As I watched Dras sulk off into the night I sighed a bit. He was going to be sulky. Sure he'd lost a good bit of money, but not enough to break him, and it wasn't like spending time shopping was going to be that much of a chore was it? I was personally really looking forward to it.

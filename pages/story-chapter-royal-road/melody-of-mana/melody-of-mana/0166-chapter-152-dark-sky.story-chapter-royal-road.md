@@ -1,0 +1,121 @@
+---
+id: 6052ba2f-fb12-5caa-a72b-b1e691cca84d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152 Dark Sky"
+slug: 0166-chapter-152-dark-sky
+partOf: melody-of-mana
+position: 166
+ownLength: 1861
+unit: words
+ownProgress: 1861
+publishedAt: 2022-07-09
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/944933/chapter-152-dark-sky"
+royalRoadId: "944933"
+markedReadAt: "2026-06-29T22:31:35.160Z"
+---
+
+A week in and the food situation was already dire for most of my companions. Fresh food didn't keep in this world at all, even things you'd think would do well just didn't on a ship like this. Meats and many fresher plants couldn't keep past about a week and even flour, which I thought would be fine didn't. A question to my favorite cabin boy got me a graphic description of how bugs and the like would get into it, and later in the journey what we had would be what we had.
+
+Dras appeared at roughly the two-week mark to have a discussion with me after dinner one night.
+
+"Hey Alana..." He froze under my gaze and I fixed him with my eyes. I knew well what he wanted.
+
+"Yes."
+
+"Could you... maybe help out with the food? Just a bit of fresh bread would make this so much better." The other girls were with us at this point and they gave me a look, I'd never told them that I could make food on my own.
+
+I let my lips creep upwards into a smile that didn't reach my eyes. Before I went any further I had questions of my own. "Dras, do tell me who all you've told about my ability to make foods."
+
+"Well, nobody, I thought it'd be better to talk to you first..."
+
+"Good, and make sure you don't. You two either." I fixed my glare onto my roommates.
+
+Selene blinked a bit. "Okay... why? It's just for our dinner right? Is it mana intensive or anything? Not like we're using much."
+
+"Well yes and no. It's not hard at all, but if the sailors get wind, which they will if I start making much, they'll all want bread. I don't want that kind of demand, or the kind of ill will telling them no would make."
+
+"I get that," Leah said with a knowing look.
+
+"Wait, can all bards just *Poof* food out?" Selene looked curious now.
+
+"In theory. Back when we were littler brother and I learned to, but only ever made stuff for our family, and not bread. Food prices were insane and often supply was just... non-existent for some things." She cringed, "One of our aunties learned that he could make a rough cream and she pestered him nonstop for like, three years to supply her. Eventually he blew up in her face and swore he'd never make her another drop."
+
+I patted her shoulder in understanding. While I normally didn't mind I'd been stuck with hungry people before and had no desire to be the local bakery again. "So you two can make cream? I'd be willing to do some trade to improve the tea a bit if you want."
+
+"Oh no, he can do cream, I do oil, for cooking and lamps and stuff." She gave a nervous look at our little conclave. "You are not to let brother know I told you under any circumstances. Don't ask him about anything like it either, he'll be beyond mad."
+
+"Understandable." If it would cause problems with the group I could abstain, at least until I found the right way to acquire that which I wanted. If all else failed adding a new spell to my list wouldn't be the worst thing, since I couldn't practice teleporting on a boat full of researchers looking into teleporting.
+
+"Not understandable at all! If getting more food in our diet is possible I want to go for it as hard as I can!" We all took a moment to look at Selene with raised eyebrows at that utterance.
+
+"Er... Selene's excitement notwithstanding I really do want some better food. Perhaps a trade could be made or something?" Dras went back to why he'd come here in the first place as our bunk-mate tried and failed to strike a hopeful pose in the background.
+
+"I'll talk to my brother, privately, as for the rest of us?"
+
+"Sure I'll pitch in a bit so long as it's not much," I answered.
+
+"I'll keep quiet if I must," Selene answered.
+
+"Of course," Dras added.
+
+"Okay, then I'll toss in some oil. There's not much on the ship and most of that will be for lamps anyway."
+
+"Very well then," I began. "Let us now call the first meeting of the 'Bards for Better Food Coalition' to order." I was met with groans.
+
+"We're not calling it that, we're not calling it anything." Dras tried to stop me.
+
+"Do you not want to be part of the coalition then? It was your idea."
+
+"No, no it wasn't, I just wanted some bread."
+
+In the end there wasn't really much to it. We managed to get Robert on board, though only through his sister. It was enough, and hiding all of it from everyone else was a fun game too. Sure, people would be mad at us if and when they found out, but I couldn't really be bothered to care that much. We weren't hurting anyone, and it kept us both busy and out of the way.
+
+With our new arrangements we passed the time for a bit longer. Now four weeks in and still seeing nothing but blue in every direction I was starting to get used to it. The rocking of the boat hardly bothered me anymore, though before our return trip I would be having a hammock made, and while the food had now dissolved into the most bland and terrible fare being served publicly we had our arrangements.
+
+I also picked up some new songs and a dice game from the sailors, one which my roommates and I were playing as a knock came on our door. I was used to the periodic visits from the cabin boy, who joined us for a game when invited, probably because it was a good way to hide from work, but this wasn't him. The knock was harsher, and from much higher than I was used to.
+
+With a shrug Selene stood and moved to the door, opening it slowly. "Captain? Is there something wrong?"
+
+"Ah, probably not, but I'd like a word with miss Alana if I may." He didn't hide the serious note in his voice, and I quickly moved to the door.
+
+"Something amiss?"
+
+"I'd like a bit of help on deck if you could. We need a bit of wind."
+
+It didn't take me long to get ready and head up, and the mood was not one of levity. Olnir was here along with the captain and a few of his officers. I could already see the problem on the horizon.
+
+There were midnight black clouds billowing just within view, reaching up into the fair blue sky around them. It was unnatural the way they formed such a small area of the sky. All around that smokey bank the weather looked calm and normal, but within dark blue streaks lit the way here and there.
+
+"That," I pointed, "isn't normal is it."
+
+"No, looks like the doing of one of the larger beasts of the deep, and I'd rather be nowhere near it lass. Can you sing us up a wind so we can speed off ahead?" Captain Tom wasn't panicked, but it was clear this was something he didn't think we should be near, and I greatly agreed.
+
+The other ships in our convoy had pulled near, and flags were being waved frantically. We were all nearly close enough to hear one another as we looked back and forth, our ship taking the center position. I didn't know for sure, but weather magic was very uncommon, and I might well be the best at it in our little expedition.
+
+With only a few words I started up one of my more favorite shanties, one the crew had taught me. The men joined in and soon the gestalt got to doing it's work. With a point from the captain on which way it should blow our sails, normally lazily billowing snapped taut. With so many joining me it wasn't too harsh to do. This boat, which had been so leisurely making its way through the waves now cut like a knife, all the officers at attention and pushing the men to their limit.
+
+We sailed for hours, trying to outpace the storm. First we sailed straight away, since that was our heading anyway, but it was no use. As we moved the little black patch on the horizon grew and grew, almost as if it was coming straight for us. Looking more disquieted by the moment Captain Tom turned the ship at the same time as the others. If it was headed the same was we were then there was no reason that we couldn't get out of its way and let it pass us by.
+
+The storm seemed to move with us, as if it knew where we were, and where we were running to. If this were some monster then it may well have chosen us as it's prey. There was another option too though. Perhaps there was just no way for us to go that wouldn't be in its way, for as the storm grew I realized my mistake.
+
+This wasn't just a small patch of darkness in the sky, no, it was massive. It was only the scale that had made me think it small, but as it grew closer and closer the size multiplied. We'd started just after breakfast and by early afternoon nearly a quarter of the horizon was covered, the black clouds reaching up high and above any normal weather, by lunch easily half.
+
+"You can stop singing lass." The captain's voice was hoarse as he addressed me. "Need to talk to the men anyway."
+
+Soon the other vessels got close enough and ropes were sent across. Olnir and Captain Tom were shortly joined by what appeared to the the other expedition leaders and captains.
+
+"Well, no point in disputing it, only one thing makes a storm that big," one of the other captains said, "and if it's followed us this far we're not getting away."
+
+"What are we looking at?" one of the mages asked, a woman who I'd seen once or twice at Mystien's workshop.
+
+"Hurricane Whale, I've only heard stories of them." It was Captain Tom who answered this time. "Big, nasty beasts, only live in the deep ocean. They can make one monster of a storm, luckily they're pretty rare."
+
+"I've seen one," the captain from before answered, "and we've only two choices, we can run, and we'll fail to escape..."
+
+"Or?" Olnir asked.
+
+"Or we go and take the fight to it." The final captain looked grim as he answered. "They can be killed, and we've harpoons for any emergencies and more casters than I could hope for. It'll be a bad fight, but it's that or let it chase us."
+
+"How will we even find it?" One of the other mages asked.
+
+"Oh that's the easy part. It wants us anyway, we won't have to look hard." Captain Tom's face had hardened to wood, afraid, probably terrified, but ready.

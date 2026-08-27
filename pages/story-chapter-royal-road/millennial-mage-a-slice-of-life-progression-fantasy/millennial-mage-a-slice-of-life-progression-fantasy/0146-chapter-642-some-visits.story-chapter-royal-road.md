@@ -1,0 +1,223 @@
+---
+id: ad788552-c79e-52cb-87e3-a28303086f41
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 642 - Some Visits"
+slug: 0146-chapter-642-some-visits
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 146
+ownLength: 2701
+unit: words
+ownProgress: 2701
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2808605/chapter-642-some-visits"
+royalRoadId: "2808605"
+markedReadAt: "2026-06-29T19:39:44.643Z"
+---
+
+Tala decided to take her last day before departure for a tour through Ironhold. While she could see it all on a whim, it had been ages since she’d actually visited most of it in person, and given the upcoming venture, it seemed like it was time.
+
+Rane was out buttoning up various things. She really didn’t monitor everything he did, and he often had seemingly random tasks. Still, he seemed happy enough, and if anything, their finances seemed more stable since he began his side projects. All told, she was happy to let him do as he wished… not that she felt the need to control him?
+
+She grimaced. It was still so odd to be linked with another person so intimately. She felt at once that he should be utterly subject to her wishes and desires and that she should be subject to his. Taken to its ‘logical’ conclusion, that was only madness, but in truth, as they each tried to care for and about the other, it balanced out in a way that could never be enforced by a third party, and which trying to regulate or govern with rules would utterly destroy.
+
+Lea was off with her cousins and aunts and uncles—or at least a subset of them—having arranged a farewell picnic of sorts, even though they were being careful to not share where they were going. Still, it was widely known that they were leaving Marliweather, and that was good enough.
+
+Terry was… how did Alat put it?
+
+-I said he was sharpening his talons… and his Talons.-
+
+Yes, yes. I am capable of remembering.
+
+-But me reminding you was both more poignant and faster.-
+
+…Fine.
+
+Terry had taken an expedition of Talons out to sweep the surrounding lands, dealing with a few troublesome spots as a thank you for the local city officials and Archons for all their forbearance around Alan’s death and Tala’s advancement.
+
+All that to say, Tala was on her own for the first time since her most recent advancement—and even then she’d had Terry with her—and she was feeling a bit… excited?
+
+-Yeah, that’s a fair assessment.-
+
+Regardless, before she dove into Ironhold proper, she wanted to check on one portion of her sanctum first.
+
+To that end, she chose to use the ‘standard’ entrance, willing herself to a lovely little glade on one edge of her sanctum. In the center of that glade, a beautifully simple gateway stood, beckoning her through.
+
+The view afforded to her even before stepping through was that of a truly ancient forest.
+
+The trees were large, the undergrowth thick, and the feel was wild.
+
+No, that’s not enough… She frowned, then nodded to herself. Primal. The feel it gives is one of the ancient past, when the world was more primal.
+
+Tala smiled and took the needed step forward.
+
+The power within the forest was held at a Refined level, at least at a surface level. That was what the life within the space had access to, but the actual space was saturated as fully as all of her expanded space with Reforged level power.
+
+Beyond that, it was Tala’s level of power density at Reforged, which wasn’t as insane compared to others of this advancement as it had been when compared to her peers before, but that was simply due to just how much harder it was to advance, and how much ‘above the average’ every Reforged was.
+
+Regardless, the power that the forest did have access to was enough for it to have a metaphorical weight beyond any other woods she’d been in.
+
+Well, except for the Lunar Hunt.
+
+-Yes, Tala. This lacks the weight of power found within the manifest domain of two god-beasts.-
+
+I’m glad that we’re understanding one another and in agreement. She sent Alat the feeling of an innocent, beaming smile.
+
+Alat returned the impression of rolling eyes, but Tala could sense a smile regardless.
+
+It was a humid forest, with great streamers of moss and coats of lichen on the boulders and trees. The undergrowth was lush, and all around critters scampered and played.
+
+In the distance, Tala could sense the river that bisected the sub-hold, a small lake both fed by and draining into the magically sustained water feature.
+
+None of the critters were so bold as to come within easy sight of Tala—Terry had ensured that every prey animal in here still had need to fear predators—but she could perceive them regardless.
+
+She also perceived Walden striding through the woods, moving with a purposeful grace that was unhampered by anything within his domain, subservient to her though it was.
+
+The plants bent or grew out of his path, and where he stepped plants sprouted and grew, only to wilt and die as he moved on. Interestingly, the magic lingered a bit after his passing, and out of the death came new life yet again, the patch affected always coming back to a state just slightly better than it had been before he’d passed by.
+
+It took the immortal elk less than five minutes to come to the entrance where Tala patiently waited simply drinking in the feel of standing in this place.
+
+When he arrived, he bowed his head deeply. “Congratulations on your advancement, and be welcomed to my forest.”
+
+Tala gave a slight bow in return, feeling the slight tug at her authority. It was a testing of sorts but not a malicious one. If she were to acknowledge it as his forest, he wouldn’t gain sovereignty, but he would gain a hair more control within. “It is my pleasure to visit this portion of my realm.”
+
+There was no disappointment in the elk’s spirit as he straightened, and Tala thought she even detected the barest hint of a smile on the inhuman face. “What brings you here on this day?”
+
+“I simply wished to check on you and ensure that you are still content with our arrangement.”
+
+He let out a chuffing, billowing laugh. “The pursued herd does not complain about the roughness of the terrain. What is in nature is natural, and we move with the changes of the seasons.”
+
+“So… everything is still acceptable?”
+
+He bobbed his head slowly. “I am grateful for the use of your companion. His position as an apex hunter in these woods has allowed my fauna to flourish like they have not in an eon.”
+
+“Of course. I know that Terry enjoys the sport of it as well. A properly carried out hunt can be a joy for the hunter and a benefit to the environment.”
+
+“Unquestionably. And I am aware he restricts his appetites. That is appreciated as well.”
+
+Tala gave a nod of acknowledgement in turn. “So, is there anything that you desire?”
+
+Walden seemed to hesitate then, the slight movements that Tala hadn’t even consciously noticed suddenly ceased, the gently pulsing, ebb and flow of power around him even hitched for a long moment before resuming. “I… I long for the herd.”
+
+Tala tilted her head, frowning. “I cannot release you, not while the Forest Spirit remains.”
+
+Walden shook himself in a full body wave that caused his coat to ripple and shift, the action very similar to a dog shedding water. “No, no. I do not long for the outside, for another’s herd. My forest is where I belong, and I would not interact with my forebearer if I could help it.” He chuffed. “Even you, with the mantle of a powerful immortal elk about you, are more than I wish to endure.”
+
+Tala frowned, hearing something in that that pulled at her interest, but the elk continued in his deep, resonant tones.
+
+“I long for my own herd. I wish for a mate, for progeny to share my domain with. There is none within my forest to be a companion, an equal.”
+
+Tala blinked a few times. “Oh. I see.”
+
+He shook himself again. “I do not ask you to hunt the wilds for a sow for me. I simply ask you to keep mind and eyes open. If one comes before you—if Reality deems such an event prudent—please consider extending the offer.”
+
+She didn’t really know how to feel about that. She knew that animals had entirely different ideas around mating than humans did. The presence of a spirit rather than a soul utterly changed the dynamics around such intimacy. She also had no idea the level of intelligence most immortal elks possessed. “I’ll consider it.”
+
+“My gratitude is without measure.” As he bowed once more, Tala watched his reality node shiver in a way she’d not observed before, the countless threads radiating off of him shuddering, and the forest around them seeming to tremble in a sudden, brief wind.
+
+As it passed, Walden seemed to stand taller. “Is there anything further?”
+
+Tala considered, then shook her head. “No, Walden. Thank you for your hospitality."
+
+He chuffed again. “It is nothing to offer you the water you cause to flow, nor the vegetation your provided light allows to grow.”
+
+She was going to argue, but decided it would be unbecoming. Instead, she bowed, slightly deeper than she had before. “Roam, grow, be.”
+
+He bowed in turn. “Conquer, nurture, defend.”
+
+With that, they each turned and went their separate ways.
+
+Five minutes later, Tala was willing herself down into Ironhold. Specifically, she arrived in the park in which Lupe’s sub-hold was connected. She obviously wouldn’t be entering the glass dasgannach’s hold—it was entirely filled with glass after all—but she wanted to check with the being regardless.
+
+The garden was lovely, mature beyond its years, and laid out with a mind toward both beauty and functionality. That functionality was as a walking garden and a place where older children could play in nature. Younger ones would have a harder time, but over the age of about five, it was a place of wonder, discovery, and imagination.
+
+As such, Tala was hardly surprised when she found two little girls playing in one of the little cottages set up near the doorway to Lupe’s home. They were practically twins with curly red hair that bounced and bobbed as they moved about in mock house keeping.
+
+Tala was a bit surprised to find Lupe there, seemingly playing with them.
+
+Tala knocked, garnering the attention of the three inside. The sisters had both been born in Ironhold, with Tala, herself, helping with their births and enabling their rebirth barely a handful of years earlier.
+
+It was Eliana—the older of the two—who came to the door. Her eyes widened, and she dropped into a shaky, formal curtsy. “Mistress Tala. You honor us with a visit to our home.”
+
+Analeia let out an eep from the kitchen, her eyes widening to Tala’s perception. “But we don’t have any real food! How can we have such a guest?”
+
+Tala grinned. “Good morning, girls. I apologize for the intrusion.”
+
+“No, no. Please, come in.” Eliana stepped back, motioning Tala inside.
+
+The door was short at barely five feet, so even Tala had to duck to come inside, but she didn’t mind. “Thank you.”
+
+Those children who were reborn tended to have their mental capacities mature more quickly than mundane children, but even so, these two girls were on the extreme end of that trend.
+
+The inside had been built to scale, everything just the right size for a child, and in the small livingroom, Lupe sat, sipping ‘tea’ from an empty cup.
+
+The dasgannach had constructed her form to be of a size with the girls, even while she still looked as she had previously—simply scaled down appropriately. While Tala couldn’t shrink down that much—not yet and maybe not ever—she was able to compress herself just a bit to more easily fit in the space and furniture.
+
+In the nature of children, the girls didn’t seem to notice the minor change.
+
+Analeia came over with an empty little plate and cup with a saucer, her hands shaking ever so slightly.
+
+Tala smiled at the girl. “Thank you for the refreshments, Analeia.”
+
+The girl’s eyes widened further at the sound of her own name. “You know me?”
+
+Tala nodded. “Of course. Surely your parents have told you that I was there when you were born.”
+
+The girls shared a look, Analeia glancing down abashedly right afterward. Eliana beamed, turning back toward Tala. “I knew it wasn’t just one of dad’s stories. Those change all the time, but that one was always the same.”
+
+Analeia grimaced, kicking at the ground seemingly unconsciously. “Why should she have been there when we were born? It makes no sense.”
+
+Tala smiled. “Because I was there for most of the early births here. Others have taken over the duty of late, but I helped nearly a hundred of you, starting with Talax.”
+
+This time, it was Eliana’s turn to go wide eyed. “He wasn’t fibbing?”
+
+Analeia laughed, her curls shaking as she covered her mouth with one hand. “Oh, I told you.”
+
+Eliana glowered at her sister. “You have a crush on him. You think everything he says is true.”
+
+Analeia’s laugh cut off, and she colored. Eliana eeped this time, looking back toward Tala before returning her gaze to her sister and moving it to the floor. “I’m sorry, Analeia. That wasn’t kind.”
+
+Analeia shook her head, giving a small smile. “It’s… it’s okay.”
+
+Tala cleared her throat, miming taking up a small cookie from the empty plate, hoping to change the topic. “These are excellent. Who made them?”
+
+As it turned out, the girls had worked together to create the treats.
+
+Tala didn’t know why, but she enjoyed the simple, unexpected play with the girls over the next little while, despite it not having been her plan. In the end, they had to head home for lunch, but Tala genuinely enjoyed the time with more ‘normal’ children.
+
+She loved Lea with all her heart, but she did sometimes wonder how much they’d missed out on because of her unique nature. Now, they had the future chance to find out, and she didn’t love Lea even a hair less.
+
+When they departed, Lupe set her dishes aside and smiled toward Tala, the expression sending cracks whitening across her face before they resealed. The glass woman had moved minimally while the girls were around, cognizant that—even with the sonic filter that Kit and now Tala maintained around her—the sounds she made while moving and speaking weren’t always the most pleasant.
+
+Still, Tala didn’t mind the minute cracking, and she found the woman’s voice positively musical. “Mistress Tala. Thank you for joining us. They are dear girls.”
+
+Tala smiled. “Of course. It hadn’t been my plan, but children necessitate some flexibility.”
+
+“Indeed.”
+
+“Do they come often?”
+
+“Somewhat. They and others frequent this cottage, and it is fascinating to observe their play. These two are among the few who invite me to join in, though. They are very kind.”
+
+“They are dear ones.” Tala echoed Lupe’s earlier words.
+
+“To what do I owe the pleasure of this visit? I assume I am the reason?” The glass dasgannach affected a look of polite interest.
+
+Tala nodded. “You are. I wanted to discuss our nature, and check in on you.”
+
+“Our nature? So, what I felt was indeed the truth. You have merged fully with the one of my kin you'd bonded with?”
+
+“I did.”
+
+Lupe leaned back, smiling even more genuinely. “You have drawn a being created as a curse into a full life. That is a beautiful thing.”
+
+Tala frowned momentarily. “Oh?”
+
+“You know of my… of our nature. We consume, we destroy, we are but a hoarder of that which we are. To use that nature not only to conquer, but to defend, to build, to nurture? It is at once the antithesis of our creation, and the most genuine fulfillment of it.”
+
+Tala’s frown grew. “I think you’re going to need to explain that.”
+
+Lupe nodded. “Very well. Are you comfortable?”
+
+Tala shifted slightly, realizing that even if she hadn’t been durable beyond the trivialities of ‘uncomfortable’ the seat fit her well enough. That noted, she nodded. “Yes, thank you.”
+
+“Very well. I will attempt to explain.”

@@ -1,0 +1,175 @@
+---
+id: a5a33b68-9e7a-50bd-9dd0-3f0b1a69a79b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134 If You Desire Peace..."
+slug: 0147-chapter-134-if-you-desire-peace
+partOf: melody-of-mana
+position: 147
+ownLength: 3557
+unit: words
+ownProgress: 3557
+publishedAt: 2022-05-05
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900865/chapter-134-if-you-desire-peace"
+royalRoadId: "900865"
+markedReadAt: "2026-06-29T22:30:55.555Z"
+---
+
+I wasn't sure what to do that evening when I found my friend in the bathroom, crying as she washed herself over and over. I tried to talk to her, tried to comfort her, but in the end, it was a bit beyond my capabilities. To that end I went and found someone far more suited to the task.
+
+"Hey..." I said as I approached Kala.
+
+"Hi, everything okay?" She still seemed in a good mood, a tiny bit down perhaps, but not too bad.
+
+"Um... I need some help, with Pinea."
+
+"What kind of help." Kala looked at me with a tiny bit of suspicion, and I scratched my head.
+
+"She's... in the baths, and I think something happened, but I'm not sure, and something is clearly wrong, but this is far beyond me."
+
+It took only a beat for her to process that and silently she rose, walking over towards the bathing area. She was in there for a long time, and I decided it was best to ask some of the other girls to go and wait for a bit. Eventually though they came out, and Pinea made her way back to her room.
+
+"What happened?" One of the girls nearby asked after she'd left.
+
+Kala sighed. "She saw someone die today, and I think that was a first for her. That kind of thing, particularly if it's violent will take a little bit to process."
+
+That got a series of nods, and the rest of the dorm went back to basically normal. There were a few whispers here and there discussing who could have died, or how, rumors and the like. Most of those shut up with a bit of a glare from me, or at least they went somewhere that I couldn't hear them. Pinea was a friend, and I didn't want people spreading things about her with ill intent.
+
+"You told them the truth," I said as I moved on the couch opposite Kala, it was a weird feeling, but it felt like where I should be.
+
+"Yes, there would be other rumors otherwise. She's been through enough and doesn't need that kind of thing floating around about her."
+
+"Yeah, you're probably right. So... how do we proceed?" I spent about a second putting up a basic privacy barrier as we began to talk.
+
+She looked at me for a moment, and in that time I could see it, pain, exhaustion, a slight feeling of betrayal, but also care, love, and hope. "I still like you, and I still... want to be around. Not as much perhaps, but sometimes. That said, I think it's best if we spend a bit of time apart." Then she sighed. "I'm still a bit raw Alana, I hope you understand."
+
+I could feel my throat tighten. I still liked her, in my own way, but she was probably right. "Okay," I said, "I'll try to keep back for a little bit. I really am sorry."
+
+As I rose to leave she reached out and gave my hand a light squeeze. "Thank you for trying to get Pinea help. I think she needs a friend right now who'll look out for her."
+
+"You know my past Kala, I wasn't sure where she was, but I'll do what I can to help her." I tried not to think about it too much, but in my short second life I'd seen a bit on the level of far too much violence.
+
+"I know. If you need any more advice, or help..."
+
+"I'll ask, thank you." With that I left.
+
+There was no easy way to deal with breakups, but for everything this might be the least stressful I'd ever had. There was no screaming, no anger, no refusal to deal with one another again. Perhaps it was because we both had known that it wouldn't be forever, perhaps it was because Kala was an absolute saint, I wasn't really sure.
+
+Over the next few days I spent a good amount of time with Pinea, we'd been going to classes sometimes before, but now I made a point to walk with her when I could. I also invited her to come and join me for studying. We talked about all kinds of things, but not whatever had happened. That was fine, she'd tell me if and when she was ready.
+
+We were in civics today, and talking about how it was important to let the various priest orders handle their own. There was a strong sentiment that while the government needed to be independent of them, they also needed to work together wherever possible. In particular when it came to finding, and training, young priests.
+
+This all seemed a bit odd to me, and from beside me I heard Pinea inquire. "Professor, will L- Emperor Durin not try to recruit any not involved with the orders?"
+
+"No, absolutely not. Have you not covered Arnim in your History course?"
+
+There were a few nods, though hesitant, and I noticed several of the priest students wincing and looking rather uncomfortable. One other student volunteered, "We heard that he caused a massacre, but not much more professor."
+
+"Well you should have. Arnim was a priest that lived a few centuries ago, while the orders were still forming and solidifying their rules. He was, by all accounts, a kind and gentle man for most of his life, protecting the weak, healing the sick. There were even reports that he helped with the local crops in his area. He wasn't much of a standout, but was a valued member of the community, and well liked..."
+
+She took a gulp of water as she led us through the rest of his story. Arnim, after years of service had a family, a wife and two daughters, who were the loves of his life. He doted upon them, as only a father would until one day... one day a group of bandits came to town while Arnim was away helping the local lord. When he returned he saw what they'd done to his house, to his family.
+
+In a rage the priest had tracked these men down and slaughtered them, killing them to a man. They begged for mercy, but found none in the spells of the distraught priest. That normally would have been the end of it, but he found documents when he searched their hideout. The papers showed that both the local lord, and several of his near neighbors had known about the group, and allowed it to prosper, in exchange for them primarily targeting his neighbors, or those he didn't care about.
+
+Arnim's fury was inconsolable, and he marched on the local lord's city. There were few priests then, as there are now, and as he passed through the gates men died in a wave. He didn't seem to care, didn't seem to be bothered as more and more guards came to fight him, only to die in the street. They tried arrows and the like to kill him, only to find that he healed himself as he walked.
+
+He strode to the lord's keep, slowly like death itself, and within killed scores, each falling like grass before a scythe. Soon enough even the lord of the city fell, his betrayal leading to a gruesome death. Arnim stood there, above the city staring at the carnage he'd wrought, declaring that all those men had deserved to die.
+
+He then proceeded to go room to room through the keep, killing servants, and those who hid. That was until he stumbled upon the room of the lord's daughter. The small girl was naught but an innocent child, fair in skin and hair, who looked almost like Arnim's own beloved girl. As he hesitated, weeping, a soldier managed to strike an instantly fatal blow to his head, ending the rampage.
+
+In the end he'd killed nearly three thousand citizens, soldiers, and others who'd either gotten in his way, or just been in the wrong place at the wrong time. The people of the time had been stunned, shocked that this man could go and do such a thing. There were inquiries, and investigations, questions about what he'd done, and how he'd done it.
+
+These things were not a first, it seemed that every few hundred years that a priest would go on a rampage, killing indiscriminately. There was even a term for it, a Death Priest, for the destruction they caused. The Order of The Shield had been the first to act, putting forth new rules after Arnim's slaughter to help find, and train, new priests, to identify them and make sure they were safe, or to retrain them if they were not. All of the other orders had agreed almost instantly.
+
+"And that is why it is important that young priests, for a time, be removed from their families and trained, so that they can be assured safe for everyone. No civilized country has tried to stop this in quite a long time, and Emperor Durin agrees."
+
+"But professor, don't priests need to believe what they're doing is right?" Asked a boy.
+
+"Naturally that is important, but tell me, can a priest not become confused, and perhaps think that many people deserve to die?"
+
+There was silence in the room as we all processed it. I had a rather large concern, because to me it sounded like the priests were just brainwashing all of their successors, each generation making sure that the sort of hatred and rage that one man had shown was cleaned out regardless of what the child wanted, or the parents wanted. Would that damage them? I wasn't sure, several of the priests I knew were pretty awful sometimes, but at the same time I knew a few who were downright wonderful.
+
+At dinner that night Pinea sat with me. The two of us ate as we chatted about the day, and the classes that we didn't have in common. Around the time that we finished she looked over at me.
+
+"Alana, if I were looking to learn some defensive magic, where would I start?"
+
+I gave her a hard look. I'd practiced for that class for going on a year now, and it was still hard. There was a lot to consider, what she could do, what she should do, where she might practice... There was also not much to consider as the answer was easy enough.
+
+"Pinea, that's a hard road, but you could talk to Professor Endel. He's tough, but fair, and he might teach you a few things. Honestly though, why do you want to learn it?"
+
+She looked a bit afraid. "I want to be safe."
+
+"Well, from common threats you can use items, that is a more immediate solution, if not a very good one. You can also learn to harden your aura, which is good generally against magic."
+
+"Will you show me that? Personally I think Endel is a bit too hard on students and I know you won't be too mean. You do owe me a favor anyway..."
+
+I sighed. "Save the favor for something I don't want to do. This on the other hand is fun, and I can show you the basic exercise in under an hour. After that you just have to work on it, like using a muscle to make it stronger."
+
+She nodded and after we were done with everything else for the evening we moved off to a side room. There I led her through the process of pushing her aura out, making it stronger so that it would resist any magic trying to enter it. She sat and sat, concentrating as slowly it materialized.
+
+Pinea's aura was a vibrant pink that wavered around her, not like an inferno like my father or my brother, but like a dancing candle flame. It was pretty, and her pushing on it harder and harder only made it stand out stronger.
+
+After a bit I pulled out one of the small balls of cold we used to practice in our combat class and threw it. It wasn't strong by any means, but the aura burned part of it away, only letting a bit of it smack into her.
+
+"Oh! That's cold!" Pinea yelped as it struck.
+
+"Yup, but it doesn't hurt. It's what we use in class to practice."
+
+"So what, if I get good enough I won't feel it at all?" She asked.
+
+"It will get weaker and weaker until it fades completely, at least at that level. The thing is that the stronger the caster, the more you'll have to resist. It's one of those things that's more like wearing a pillow on your stomach, if someone kicks you there, you'll still hurt, but you won't hurt as bad. Does that make sense?"
+
+"That doesn't seem particularly useful." She frowned a bit. "Can't I stop it completely?"
+
+"Maybe with shields, but those take a lot more time. Also, it's crazy useful, you remember when I got attacked back in my first year? The whole terror incident on our combat class?"
+
+She shivered. "How could I forget, a bunch of people died."
+
+"Yeah, and I probably would have too if not for that technique. Don't get me wrong, it still hurt like nothing, but I lived, and making it through is the first big hurdle."
+
+Pinea nodded, chewing on what I'd said. "Okay, this is great thanks!"
+
+"I'm thinking on some protective items too. I've got a few ideas, but most of my ideas tend to be wonky, so see what you can come up with as well. Who knows what we could need."
+
+After a few more rounds of practice we agreed to call it for the night. She looked as tired as I felt, but I had a few more things to do. Mostly this was to work on my core, it had been too neglected, and I was determined to finish it as soon as possible now. I wanted some personal things to protect myself and my friends, and if I had to take care of that on my own, so be it.
+
+The next day I waited after class to talk with Professor Ieala. Her approach to the theoretical portion of Magical Item Creation was solid. I got the feeling that she knew less about it than Professor Rooke had, but she was far, far better at explaining a lot of the workings of what we were doing currently. She was also less abrasive, which made her slightly more popular.
+
+"Professor, I had a question if you don't mind." I asked as she was packing up.
+
+She smiled, I'd avoided her for the most part since our first meeting, keeping distant, but not rudely so. "Certainly Alana, though if one of my best pupils is asking that must be some question."
+
+"I'm looking on information about shielding items. In particular I'd like to know about those that are made to shield from kinetic attacks."
+
+"I've seen your grades in Combat Magic, are you telling me you don't know how to shield against kinetic attacks? Because I'd have a hard time believing that."
+
+"No professor, I certainly know that, but those shields are slow to put up. I'm looking for something in case someone surprises me."
+
+"Oh, I see. Well making those is possible, something small that you can turn on if you're assaulted can be useful."
+
+"What about having it turn on automatically? We've covered some different signals, can you make it so that if an attack is detected it puts up a shield?" I already knew from the guide in the core that this should be doable, but what was doable and what most people considered to be possible were two very different things.
+
+She stopped to think for a few moments. "Hmm. I've not heard of anyone ever doing that, and I can think of three problems you will decidedly find if you try." At my questioning look she continued. "The first is that the mana usage will be higher than normal, much higher as it has to constantly be looking for an attack. If this item is functioning constantly that means it will constantly be draining it's mana and even if that drain isn't too bad it will need to be recharged fairly often. That will be expensive. The other is defining what an attack is. If you set the bar too low you're likely to set off your shield all the time, not very helpful in day to day activities, and potentially dangerous. On the other hand, if it's too high it runs the risk of becoming useless. Even setting those parameters is not well understood, so that may be a challenge." She got to her last point finally, tapping her chin with a finger. "You'll also need to get the timing right. I'm not sure if the item will be able to respond quickly enough to be useful in an actual combat situation."
+
+"That doesn't sound very encouraging."
+
+"On the other hand Alana, I think you should absolutely do it. Work like this is how magic progresses, and even if you fail to make something you can use how you want, you may discover something useful somewhere else. Please make sure to take good notes, if you bring me results we can go over them." She perked up giving me a bright smile. "Oh, and I'll send you one of the more common sequences for a standard shield item, you might find it useful as a place to start."
+
+I knew she was just using this to try and build a relationship with me. She clearly wanted some of my research, particularly if it was something novel. I can't say that I was too bothered. She'd be getting nothing that Mystien didn't approve of me giving her, and she was helping me. If she planned to milk me for all I could tell her, there was no reason for me not to reciprocate. I'd even expected something like this when I came to her.
+
+Mystien,
+
+I'm writing to ask for any advice you might have on shielding items. Particularly I'm looking for something like a kinetic shield. I'm fairly certain I could manage one of the standard ones, but those are static and need to be activated. Is there any way to make an item that just slows things over a certain threshold instead? Or activates if it senses something like that?
+
+I'm not sure where to go on this and while Professor Ieala gave me a few places that will probably be issues she didn't have any solutions.
+
+Thanks, Alana
+
+Mystien
+
+That girl was on the other side of the city, in a school full of magic texts, and still sending me letters about theoretical and insanely useful things. I did not have anything like she was asking. There were those who'd made similar things, to be sure, but normally for royals, and even then, only for short period use. I could probably cobble together something like that if I truly needed to, but it wasn't something that was either needed, or my area of study. I sent her a letter telling her as much in response, since she'd at least come to me for advice.
+
+While I wouldn't tell her, I was also pleased that she was making connections with Ieala. Her new professor was a smart girl, quite so, and I couldn't help but be glad that they might end up working together. Ieala had one major flaw, in that she lacked the art needed to make truly stellar magical items. She knew the concepts that governed them, certainly better than most, but she just didn't have the... flare, the little bit of omph that made for a good sequence writer.
+
+She was also the most conniving, research burrowing little woman I'd ever met. She'd ingratiate herself with people and learn all she could, not out of hostility, but out of a desire to grow. It meant that she was very, very good at gleaning things. It also meant that she wasn't allowed within five-hundred paces of any lab I worked in, and all of my assistants were forbidden from so much as holding a conversation with her on the weather. I'd have to warn Alana again not to go discussing too many things with her that she shouldn't, particularly with the gates, but she was a smart girl, and for the most part was doing a... passable job keeping her secrets hidden from anyone other than her father and myself.
+
+I sighed and turned back to my real work. The gates were proving to be quite good at hiding their secrets, and no matter what I did, I got very little back in useable information. That was frustrating, but there would come a time when I figured something out. For the time being I was pouring over the remaining notes of Ristolian, not the originals, but some copies. They were in some kind of code, and it was taking me a bit of time to parse some of the meanings. What I was sure of was that they were pointing to him doing some work on the continent of the elves. Perhaps that avenue would render some use.

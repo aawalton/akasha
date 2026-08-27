@@ -1,0 +1,245 @@
+---
+id: ecd46612-0dab-5c3f-b760-2cafd4b62a8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 589 - The Best Option is..."
+slug: 0089-chapter-589-the-best-option-is
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 89
+ownLength: 2710
+unit: words
+ownProgress: 2710
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2445453/chapter-589-the-best-option-is"
+royalRoadId: "2445453"
+markedReadAt: "2026-06-29T19:38:08.987Z"
+---
+
+Tala watched with far, far more than just her eyes—Rane’s hand clutched in hers—as Master Boma worked intricate magics around the kludged-together soul-medium.
+
+Alat made a displeased noise within Tala’s head at the unconscious description, but the alternate interface didn’t specifically comment this time around.
+
+The old master constructionist showed his skill and decades of experience, as his lines of power first worked to lie alongside every thread of thought and connection coming from Lea’s soul, then surrounded them, both cutting them off from the soul-medium and holding them in place, sheltered from any external interference.
+
+Master Boma used several tools that seemed to be augmenting his mind to super-Archon levels. Alat was analyzing it as well, and from what she could tell, the man was currently operating as three dozen minds, each utilizing other portions of the tool to make their control of magic much more minute and precise.
+
+It was clearly something that he had long practice with, as well as something that was visibly exhausting for him.
+
+Tala was amazing at accomplishing powerful workings, and she was passable at intricate spellforms and acts of magic, but outside of Kit? She was mostly a blunt instrument.
+
+-Hey, now. You’re a very sharp instrument. Don’t sell yourself short.-
+
+A smile pulled at Tala’s lips. What Alat had said was fair, after all. Then it might be more accurate to say that Master Boma was showing his facility with construction, creation, and positive modification, where she was an engine of destruction and a weapon to lay low her adversaries.
+
+-There is power in both paths, but of very different kinds.-
+
+Rane is a builder, a creator. He has faculty in destruction, but that isn’t how his mind is bent.
+
+-He’s an artist forced into war. Like the warrior-poets of old.-
+
+Indeed, where we are a born and molded killer, held in check by those who would see us be ‘more.’
+
+Alat huffed. -We are who we are.-
+
+Exactly. And as Tala considered it? So long as people like Master Boma existed to help and work alongside her, she was just fine with her place in things. Keep mine, mine.
+
+It took even Master Boma—with all his advantages and tools—more than an hour to disconnect the current version, which he set aside before slotting the new one in place.
+
+It was a perfect fit. Moreover, the tubes of his power meshed with it as if they were made to do just that.
+
+-Probably because they were.-
+
+Fair. The construct and the magics had been devised and designed for this singular, exact situation after all.
+
+Because of that, and because of the man’s obvious prep-work, the process was complete moments after the new soul-medium clicked into place, his power withdrawing and leaving Lea’s tendrils, her unconscious mind, well seated and secure.
+
+The odd raised ridge that Tala had noticed when he showed the soul-medium to them initially, revealed itself as a precise beveling to mesh with the surrounding head to make an all-but-perfectly-smooth connection.
+
+The construction seemed to instantly mesh with her other bodily control systems, and as Mistress Jenna had suggested, thick, white hair sprang forth, seeming more like the pure white of old age than an incredibly light blonde.
+
+It was white steel, just like the rest of her, but somehow… configured differently? It would act as hair naturally, without Lea having to constantly be aware of and in control of it.
+
+The hair, itself, fell to great length, mirroring Tala’s almost instantly, even while the hair that was under her resting head pushed her up just a bit as it piled and grew around itself.
+
+Oh… that’s going to be a pain to untangle.
+
+-Good lesson, though?-
+
+…Maybe…
+
+Master Boma sat heavily on a nearby chair, the tools that he’d used clearly powering down. He was drenched in sweat, and it looked like small muscles all over the man’s head and neck were twitching and cramping in varying intervals. Those were just the ones visible to mundane sight.
+
+Tala’s threefold perception revealed that much of the man’s body and magic was in an uproar, mis-firing and reacting out of his control for the moment.
+
+Still, with a few long breaths, the man seemed to retake control over his body, and the spasming died down. “Oh, my… That was…” He took a deep breath and let it out. “That was more intricate than I’d expected. I don’t know how I could have had assistance, but I almost wish I’d tried to find a way.”
+
+Tala and Rane gave him a long moment to recover before Rane broke the silence. “Can we wake her up?”
+
+“Hmmm? Oh, soon. I think another minute or so for things to truly settle is advised. A decade would be best, but that is rather unlikely.”
+
+Tala frowned. “What do you mean?”
+
+He smiled. “There is a small chance that her mind—her soul—will reject the new medium when her consciousness begins to fire once more. The body is already in a bit of an odd state due to being controlled by its power source.” He waved vaguely. “It’s not that much different from a vestige powered automaton, but it does seem to be different.” He rubbed his temples before shaking his head. “But the rejection, right, I was discussing that possibility. Like I said, there’s a small chance, but every minute that her unconscious mind acts through it reduces the chance of her consciousness rejecting it. There are diminishing returns, though, so unless you want to wait years, another minute should be plenty.”
+
+“Can we just replace it if it is rejected?”
+
+“Theoretically? Yes. Practically? I would normally say no, but within here? With your help? Maybe. It would be akin to you holding someone’s soul here after their body died. You might even be able to force them into another body, if you had the knowledge, skill, and desire, but the chances of that actually working are… quite low, and as I am sure you are aware, necromancy is forbidden.”
+
+Rane frowned. “Wait… I thought this was just a temporary soul-medium.”
+
+Master Boma shook his head. “It’s the best that we will be able to do.” He held his hands up, forestalling them as he continued. “If there is no rejection, then it would be possible to do this procedure again, but each time it will be harder, and the better the creation, the harder it will be to replace it.” He huffed a laugh. “It’s the difference between removing a hugely baggy garment, and one that is perfectly fitted, without fasteners. It is simple to pull off something that doesn’t really fit, but once you get a ‘perfect’ fit in place? It’s a fight to ever remove it.”
+
+Rane blinked a few times. “That was removing an ill fit?”
+
+“Yes.” The man nodded. “I could remove the new one right now, before she awakens, but it would be a struggle. Once she awakens? It will either be rejected or fully accepted, in which case it would be like switching out a mundane man’s brain to change it again. Possible in theory, but only that. I wouldn’t trust any save a highly specialized Reforged for it. Though, as I said, you might have more success due to the peculiar nature of this place.”
+
+Tala interjected, then. “That’s why you took so long to make it?”
+
+Master Boma laughed. “Long? We were building a blank slate, building blocks for her soul and mind to latch onto and mold as they needed. We had a workable version in an hour. We spent the remaining time iterating, experimenting, learning, and improving. The hair addition was a final touch, added this morning to our most advanced version.” He held up his hand briefly once more. “It is the most advanced version we could create, even with years more. Unless we threw our morals to the wind and began experimenting on human souls, there was nothing more we could test or alter.” He gestured to the still unconscious girl. “This was the next step.”
+
+“And now, this is the only one she’ll ever have.” Tala said slowly, uncertainly.
+
+“We have no idea. She is a fully actualized soul, Mistress Tala. She could bind herself within a pebble in the future. If she never advances magically? Yes. This is the only one that I can help you with. There are others who might be able to do more, but that’s a somewhat useless assertion, because there are always Sovereigns.”
+
+Rane grunted at that.
+
+Master Boma forced himself back to his feet. “So? Am I removing it so that you can seek help from someone else?”
+
+Tala and Rane shared a look, and a wave of comfort and certainty moved between them before they turned to Master Boma, and Tala shook her head. “No. Let’s wake her.”
+
+Master Boma met each of their gazes for a moment before nodding. “Alright. Alat?” He looked around a bit vaguely, clearly uncertain where to direct his eyes. “Can you wake her?”
+
+“-Absolutely. Three, two, one… awake.-”
+
+Tala watched as the gate within Lea’s head almost seemed to pulse, lines of power sparking outward through the soul-medium like ten million people trying to talk, each using their own, single, variable light-source.
+
+She could see the lights reacting and altering in definite, swirling patterns. Additionally, magic flowed, mixed with reality-threads as the soul seemed to be… deciding?
+
+That was the best description that Tala could think of for the sensation she was picking up. The soul was deciding how it felt about the soul-medium.
+
+Finally, there was an odd ripple in existence itself as the two merged on a Reality level, their reality nodes becoming one.
+
+Master Boma let out a breath that Tala hadn’t realized he’d been holding. Rane gave her hand a squeeze and smiled.
+
+The Constructionist nodded once. “It wasn’t rejected. The procedure was a complete success.”
+
+Lea’s eyes fluttered open, and the girl sat up, her body jerking oddly as she wasn’t used to the weight of her own hair. “Oh, oh! It worked? It worked!”
+
+She hopped up, grabbing some of her hair and twirled, looking at the new addition.
+
+“It’s beautiful! Thank you, thank you, Master Boma.”
+
+Master Boma gave a shallow bow. “You are most welcome, child. I hope that the medium serves you well for your entire life.”
+
+She gave a bow in return. “I hope so as well.”
+
+Master Boma ran a few quick scans, then bid the family goodbye, knowing that they would likely want some time alone.
+
+Tala walked Master Boma a bit away before opening the portal.
+
+He gave her a humorous look. “Is this where you either kill me or threaten me into silence about what I know about your daughter?”
+
+She raised an eyebrow. “First of all, it’s hurtful that you would think that of me.”
+
+He grinned, solidifying the fact that he was teasing. “I hear you have quite the protective streak these days.”
+
+“Well, of course. But in this case it would be pointless, we both know you’ve been in constant contact with the Archive.” She gave a wink as his smile faltered slightly. “No reason to kill or threaten what is only one source of a secret.”
+
+He huffed, shaking his head. “Skewered by my own joke, I see.”
+
+“Indeed.”
+
+“Then, what can I do for you, Mistress Tala?”
+
+“I just wished to express my deep thanks for the work that you did to create this construct for my daughter. I know that it was more difficult than you implied.”
+
+He gave her a slightly confused look. “I thought that I implied it was a rather arduous and rigorous endeavor.”
+
+“Exactly.”
+
+They exchanged a smile at that before they both bowed deeply.
+
+“Take care, Master Boma. Please don’t hesitate to reach out if there is ever anything that we can do for you.”
+
+“I will keep that in mind. Take care, Mistress Tala. Now, go. Your daughter needs you.”
+
+Tala released her silencing on Rob. “Goodbye, Rob. Thank you for coming too, and for your help.”
+
+“It would have been more efficient to just destroy me, if you wanted silence…”
+
+“I disagree.”
+
+After a moment, Rob huffed. “You’re welcome. If you reconsider my destruction, I wouldn’t mind seeing the child again before I’m freed.”
+
+Master Boma’s eyes widened in surprise, but he kept his mouth shut. Tala smiled. “I’ll keep that in mind. Take care.”
+
+The portal opened, and Master Boma stepped through it, back to the superficial.
+
+As it closed, Tala was already moving back toward Rane and Lea, ready to be excited with her daughter at all that had opened before her, now that she had a fully functional physical self.
+
+An hour later, Lea was screaming in apparent agony as Tala brushed her hair as gently as she could.
+
+“It hurts! It hurts!”
+
+“Lea, you can calibrate your own pain receptors. This isn’t harming you, and it won’t damage anything. Calm down.” Tala fought internally with herself about just willing one of the artifact combs to her hand but held off… at least for the moment. Too convenient can be crippling, just as much as too hard.
+
+“You’re going to rip it out!” Lea wailed.
+
+Tala stopped, setting the mundane brush aside, exasperated. “Your hair grew in horrible knots, really close to your scalp. We need to get them out.”
+
+“Just cut it off! I can regrow my hair.”
+
+She sighed. “I could do that, I could also utilize other fixes, but none of that would address the issue.”
+
+Lea harrumphed. “What’s the issue?”
+
+“This shouldn’t hurt you. You need to be able to take care of your hair, and just cutting it off and regrowing it every day won’t solve things.” She raised her voice momentarily to speak over Lea’s beginning interjection. “Even if you can absorb the material. You have to be able to put up with brushing if you ever want to have a hairstyle that isn’t just free hanging.”
+
+The girl grimaced, then glanced in the mirror that was nearby. “What if that is all I want?”
+
+“I would say you’re making that choice to get out of brushing, and you would most likely change your mind in the future.”
+
+Lea scowled, grumping.
+
+Tala took a calming breath, forcing a soothing tone to her voice. “Come on. I’m being as gentle as I can be. Let me just—”
+
+Lea screamed.
+
+Tala stopped, giving the girl a flat look. “I’m not even touching you.”
+
+“Oh…” Lea took on a mischievous cast before she giggled. “Well… it hurt.”
+
+Tala’s look became even less amused. “My not touching you. That hurt.”
+
+“Yes?”
+
+“Lea…” Tala sighed, scrunching her eyes for a moment in order to try to think. “Even if this does actually hurt, not all pain is bad. And even though this is hard for you, hard does not make something bad, either.”
+
+Lea scowled again.
+
+“If you want, I can simply block out your sound and pin you in place, but I think that no one wins in that situation.”
+
+“Couldn’t you just will my hair to be unknotted?”
+
+“I could, but…” Tala gave her a searching look. “Will you let me brush it then and not complain while we style it?”
+
+“You could just will it into a style?” Lea gave an innocent grin.
+
+Tala shook her head. “These are your choices. You can either let me brush it out and style it from here, or I’ll remove the knots, and we’ll go from that point. In either case, the screaming stops, now.”
+
+“...Fine…”
+
+After waiting a long moment, Tala prompted, “So?”
+
+Lea nodded once, causing her hair to bob. “I choose pastries?”
+
+Tala held back an exasperated smile. “That wasn’t an option given.”
+
+“I don’t know, mom. The best option is always pastries.”
+
+She took in a long breath and let it out slowly. “I’m fine with us getting pastries, after we finish with your hair.”
+
+Lea grimaced. “Fine. Please do it without the knots.”
+
+Tala nodded. “Alright. Let’s get it done.” After a moment’s pause, she smiled and appended, “Then, we’ll go to a pastry place with your father.”
+
+“Hurrah!” Lea cheered, settling back down to let her mother fix her hair.

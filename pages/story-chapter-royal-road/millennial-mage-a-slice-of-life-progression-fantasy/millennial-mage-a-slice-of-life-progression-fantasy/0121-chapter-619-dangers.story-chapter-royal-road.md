@@ -1,0 +1,279 @@
+---
+id: 41ef10ea-ddc9-5aee-98f1-ded0c761d352
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 619 - Dangers"
+slug: 0121-chapter-619-dangers
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 121
+ownLength: 2932
+unit: words
+ownProgress: 2932
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2660435/chapter-619-dangers"
+royalRoadId: "2660435"
+markedReadAt: "2026-06-29T19:39:10.341Z"
+---
+
+Tala and Rane sprinted toward the disturbance, Lea right behind them. Terry was already flickering ahead, engaging the threat.
+
+In hindsight, they should have realized that their quick action wasn’t absolutely needed. The very fact that mundanes had time to scream at a threat meant that it wasn’t in their realm of power. Still, it was good to help where they could.
+
+Odd vines of hairy flesh lay eviscerated across the cobblestones, the seemingly mundane dog that they had apparently grown from was pinned to the ground, whimpering under Terry’s talons.
+
+He… didn’t eat him?
+
+-Wow, is Terry finally learning some compassion?-
+
+Strangely, a little boy was wailing at Terry’s leg. “Get off him! He’s a good boy. Stop it, mean bird. Go away!”
+
+The child’s parents weren't in evidence, but there were several lacerated and bleeding people nearby.
+
+Alat was already contacting the city authorities, requesting healers and officials to sort this out.
+
+Tala landed beside Terry, Rane picking up the little boy despite the kid’s increasingly loud protests.
+
+Lea joined her father with the boy, trying to calm him.
+
+Tala heard Rane and Lea both assure the boy that the dog would be saved if possible, but her focus was turned on the canine and the small infestation that was actively trying to crawl onto Terry.
+
+Terry, of course, was able to rebuff the barely-Bound level critters, his very aura easily keeping them from crawling from the fur to his foot.
+
+Oh, that’s why he didn’t eat it.
+
+Alat sent a feeling of disgust. -Indeed.-
+
+The things seemed to have a better integration with the pup, so the terror bird couldn’t simply scour them away with a pulse of power, but the momentary stop-gap given by Terry’s actions and resistance gave Tala all the time she needed to see what was going on.
+
+The small things looked like lice, but—as with so many horrors to humanity—they were chock-full of dimensional magic, along with several other varieties of power. Now that she was looking for them, Tala could see the expanded spaces hanging stoneward, filled with fleshy, hairy, barbed tentacles.
+
+Worse, the expansion seemed iterative, meaning that every tentacle had uncounted more lice on it, even within the expanded spaces. There were thousands of the lice things just on the dog’s superficial flesh. Once she realized what she was looking for, Tala also saw hundreds on each of the attacked humans, the insects already actively disgorging their fellows.
+
+Tala felt a deep revulsion to the crawling, wriggling, squirming masses of insectoid flesh, and she kept a solid enforcement in her aura to keep the things back. “Contagion style spread. Seemingly contact based.”
+
+She hadn’t spoken loudly, but the simple words snagged Rane’s attention, causing his eyes to briefly widen, then narrow in focus.
+
+The boy had almost as much lice as the dog, but it seemed to not have reached the point of ‘activating’ or otherwise becoming hostile. Tala wasn’t sure why yet.
+
+Rane and Lea already had some on them, but Rane instantly hardened his own aura, shedding the insects, in what almost looked like a little shockwave, sending a disgusting rain onto the ground around him.
+
+He was seemingly about to reach toward Lea to do the same, but magics deep within the girl activated, pulling on her gate heavily before a ripple of power shivered through her.
+
+The insects that had found their way onto her were subsumed. Their expanded spaces wrung like dishrags, and the results fed straight into Lea’s matter processors.
+
+The girl seemed almost as shocked as her parents by the development, her eyes unfocusing for just a moment before she nodded.
+
+-Ahh, that’s what those magics look like when activated.- Alat flagged the information in Tala’s mind, highlighting the memories of the spellforms they’d found within the automaton’s body before Lea had come to be.
+
+Right. I’m glad that those dealt with the threat.
+
+-And quite effectively too.-
+
+Indeed.
+
+-I know that, after seeing that, I wouldn’t want to drink fresh squeezed juice for a while.-
+
+…You’re a bit of a jerk…
+
+-Maybe so, but focus. Others don’t have our daughter’s defenses.-
+
+Tala did so, knowing exactly what magics could handle this.
+
+She reached out to every superficial insect, locking onto them with incredible ease due to the power disparity. Then, she amplified their gravitational attraction toward one another, absolutely dumping power into the working.
+
+In less than ten seconds, the first of the critters were already starting to stick to one another instead of freely crawling about on their victims.
+
+Their low mass made this more difficult than it otherwise would have been, but that was fine. It was only a question of time, now.
+
+Are those numbing magics, keeping them from being felt as they crawl around?
+
+-So it seems, yeah, and rather powerful camouflage for that level of creature too. A mundane could stare right at one and never see it.-
+
+Expectedly terrifying…
+
+-Indeed.-
+
+Why can’t one of these horrors just be like… a vicious bunny or something?
+
+-Because Terry’s the only appealing predator allowed, and even if that weren’t so, he deeply dislikes rabbits.-
+
+…Why does that make so much sense? I feel like it shouldn’t.
+
+Terry continued to hold the wriggling dog, the canine seeming far more scared than hostile. The avian used his other foot to carve away any tendrils that attempted to reach out, away from the pup, effectively containing the greatest vector of the spread.
+
+Less than a minute after Tala and her family had arrived, three Mages landed around the group, fire flaring and carefully scorching the ground in a ring around the infected, completely containing the threat. The woman who was seemingly in charge gave a small bow toward Tala and Rane. “Master, Mistress, we are here to deal with a detected issue. Do you need our assistance?”
+
+Tala frowned. “We reported this, are you not responding to our report?”
+
+“No, Mistress. I am unaware of any such thing. Is the threat contained? I am happy to share anything I can once I know that it is.”
+
+She nodded. “It is contained, and I will have it dealt with in another minute or so.”
+
+“As you say, Mistress.” The woman glanced toward her companions, and the magical fire died away, one Mage moving toward the injured. With that handled, the Fused turned back to Tala. “We detected a new, disguised presence and sent a ripple of disruption to this sector of the city, hoping to flush out the source. When there was a violent response to our probe, we came as soon as the location was pinpointed.”
+
+The probe unveiled those on the dog, not the boy? Ahh, his soul and aura must have been just enough to keep them hidden. Devious.
+
+-I’m glad that the dog was infested, then.-
+
+Indeed…
+
+The Mage stepped forward, looking closer at what was happening. “Are those Writhe Lice?”
+
+Tala twitched at the name even as Alat confirmed the label. “Yes, it seems so.”
+
+The woman shuddered. “Those can be nasty. They usually simply spread quietly until they reach a critical mass. At that point, a huge portion of the populace are usually carriers. Nightmares to root out.”
+
+The male Archon with her was already working through the injured, bringing healing magics to bear.
+
+Tala’s gravitational amplification was growing, and she didn’t want to have all of the nasties drawn in to flood the poor dog. With that in mind, she looked around and settled on one particular cobble in this stretch of road before adding an amplification of the mass toward that point, splitting her power until the first insects started to scritch across the ground toward it. There, that should draw them all in.
+
+Rane continued to talk soothingly to the boy, even as the insects started to tear free of him, clearly causing some discomfort, even with their numbing magics.
+
+Tala looked to the woman in charge. “I’m Tala. You seem familiar with these?”
+
+“Good to meet you, Mistress Tala, I am Charlet. As to familiarity, unfortunately, yes, we are. This is the tenth time we’ve had an infestation of these in the last couple of years. Thankfully, this is the earliest we’ve caught them.” She sighed, stretching her neck. “We need the automated defenses up. They’re almost ready, but the increased population is drawing in more and more threats…” She trailed off, her eyes narrowing. “Wait… Mistress Tala? As in the Paragon who just brought more than nine-thousand more people to this city?”
+
+In the past, Tala might have shrunk from the implied blame, but now? She knew where she stood. “Yes, that’s me. I’m also the Paragon who brought more than a half-ton each of gold and silver, which you needed in order to finish those defenses.”
+
+Mistress Charlet grimaced. “Fine, your arrival is a mixed blessing all around, then.”
+
+Tala grunted, not willing to argue with the woman. “Well, this will be sorted soon. I assume that these writhe lice aren’t the only issue you have been facing?”
+
+The woman shook her head, her other companion moving closer to where the lice were gathering, clearly curious as to what was happening. “Not at all. My squad responds to three or four things every day, and we wouldn’t have it any other way.”
+
+“Oh?” It was Lea who interjected to ask for clarification. "Wouldn't less be better?”
+
+Mistress Charlet gave a kind smile to Lea. “You’d think so, Miss, but no. We know there are horrors trying to infiltrate, and if we aren’t responding to them, that means that they are going unaddressed.”
+
+“But so many?” Lea seemed genuinely concerned.
+
+“Yes, indeed. Everything from various sludge or slime creatures attempting to infiltrate our pipes to dimensional creatures trying to hide in the cracks, from illusory monsters living among those they hunt to the occasional dasgannach coming forth to claim some elemental portion of what we’ve built. Last year there was a rash of elemental sparrows that just had to make their nests in our buildings. To do that, they, of course, had to remove the human ‘infestations.’ The year before that, it was morphlings, taking the shape of family pets—we thankfully prevented any from replacing babies or children. The various threats seem to come in waves, but no type ever really fades entirely.” Her eyes filled with clear hope. “Not until the city defenses are ignited. Then, all these nuisances will be handled, and we’ll only be left with the more powerful threats. Even those will fade after another few decades as we lower the power levels in the region.”
+
+Lea tilted her head to the side in thought before giving a careful nod. “I see. Thank you, Mistress Charlet. I appreciate your explanation."
+
+“Of course, Miss. It is important for our citizens to understand what is going on in their cities, especially if they have already seen some of the horrors.” Mistress Charlet gestured to the blood around them.
+
+Lea simply smiled.
+
+Finally, Tala’s spell working amplified gravity to be powerful enough that the last insects were being torn toward the growing half-sphere on the ground.
+
+Tentacles tried to extend outward, but they were immediately pulled inward, adding to the mass and compression.
+
+Almost… Her threefold sight saw an issue, and Tala quickly moved around, shifting various people to let the insects on the back of them slide and skitter off. She also shook clothing, helping the bugs get free.
+
+It was a rather nasty thing to contemplate, but Tala gilded her resolve and pushed through.
+
+Mistress Charlet’s non-healer companion was frowning at the growing mass. “Is that… gravity magic?”
+
+Tala nodded distractedly. “It is indeed.”
+
+“But… But I don’t feel anything, and I’m right next to it.”
+
+She grunted. “I’m targeting just the insects.”
+
+That got a few blinks of genuine confusion. “What?”
+
+“I am amplifying the gravitational attraction of all the writhe lice to one another and to that point on the road. Once they’re all gathered, I’ll crush them… or maybe have my daughter dispose of them.” She glanced to Lea.
+
+Lea shook her head. “No thank you, mom. I’d have no room to eat for days.”
+
+That caused looks of confusion and revulsion on everyone who heard her.
+
+Lea covered her mouth, clearly realizing that she’d said too much.
+
+Yeah, I should have asked mentally.
+
+-I’ll convey your apologies.-
+
+Thank you.
+
+-You’re welcome. She forgives you and apologizes in return.-
+
+She is more than fine. We’re here with her.
+
+Mistress Charlet gave Lea an appraising glance before shaking her head and turning away, clearly deciding that it was above her paygrade.
+
+The other Mage, however, was genuinely confused. “But… this isn’t how gravity works!”
+
+Tala shrugged, feeling a smile pull at her lips. “It makes sense to me.”
+
+The woman hesitated for a long moment, mouth half open. She then closed it and shook her head. “Very well.”
+
+Terry lifted the dog and shook it, sending out a rain of insects. He then flickered around, taking different holds of the canine and shaking it to free the last stragglers. Finally, he set the dog down, and it ran toward the boy, staggering almost drunkenly.
+
+The boy tore away from Rane with a cry, catching his dog in a massive hug.
+
+Terry shrunk down, flickering to Tala’s shoulder and closing his eyes, clearly content. “Nicely done, Terry.”
+
+He cooed slightly at Tala’s words but didn’t otherwise react.
+
+The last of the insects ticked into the pile with the others, their combined attraction continuing to squish some of their superficial bodies.
+
+Tala targeted the whole mass and enacted a Crush working.
+
+It felt oddly cathartic to use one of her earliest spellforms.
+
+Still, it took two castings for the pressure to be sufficient for her purposes.
+
+There was an odd pulsating throughout the orb.
+
+As each of the lice died, its dimensional space would collapse, spitting out the mass of its true body along with the other lice, which would cause the whole semi-sphere to grow. That added mass would then immediately increase the pressure, causing a shrinking, which would kill more lice, starting the process over again.
+
+The result was not uniform, and while the gravity working kept any material from leaving the mass, the result was an incredibly disgusting, twitching, roiling ball of crunching, crackling, insectoid flesh.
+
+Mistress Charlet shuddered. “I think I prefer fire.”
+
+The healer grunted, leaving the last victim fully healed. “But she got every one, and we don’t have to put these people through decontamination.”
+
+“That’s true.” The older Archon sighed, turning toward Tala and Terry and bowing again. “Thank you. You’ve done our job for us, and freed us to do other tasks.”
+
+Terry didn’t respond, but Tala gave a small bow in return. “We are happy to have been of help.”
+
+Rane stood up, brushing off his pants and smiling. “We were in the area, after all. We couldn’t ignore cries for help.”
+
+That caused the woman’s smile to turn more genuine. “Indeed. It is a pleasure to meet more Paragons of humanity and to find that our own aren’t unique in their views.”
+
+Rane’s smile grew into a grin. “We are glad to not disappoint.”
+
+The healed victims were saying their thanks and moving on with their days, clearly hoping to get away from whatever was happening with the gross sphere thing. Thankfully, one of them had, indeed, come forward as the boy’s mother, taking him and the dog away from the insecticide.
+
+The street had cleared, and Tala wasn’t surprised given the continued gruesome nature of her solution.
+
+Still, in less than a handful of minutes, she was left with an inert, highly compressed ball of mass.
+
+She couldn’t detect any life within, but even still, she wanted to be sure.
+
+Mistress Charlet seemed to be of the same mind. “What are you going to do with that?”
+
+“This.” Tala grinned, then let out a thin stream of dissolution breath, confined and contained to only hit the no-longer-insect mass.
+
+Her aura had long-since laid claim to the whole area, and her will and authority refined her strike to the point that it wouldn’t even hit the street on which the remains rested.
+
+The entirety turned to dust-sized particulates, breaking free of her working as its form so radically transformed.
+
+That resulted in a momentary horrifying potential. The dust might have exploded outward in a great, disgusting cloud, but Alat imposed her will through their aura and directed it all to be shunted toward the park on one side of the street. “There, fertilizer.”
+
+Mistress Charlet frowned briefly. “And you certify that that is free of any lingering writhe lice?”
+
+Tala nodded once, decisively. “I do.”
+
+The older woman smiled. “That’s good enough for me. Thank you again, Mistress, Master. Take care, Miss.”
+
+Tala, Rane, and Lea each gave appropriate bows in return, and the two groups parted ways.
+
+Terry cracked one eye before rolling it at not being acknowledged a final time.
+
+Tala patted his head, only hitching a moment when her stump patted him instead of a palm. Still, she didn’t hesitate for long. “You were amazing, Terry. Thank you.”
+
+He shimmied, settling further in, squawking happily.
+
+Lea licked her lips as they walked away. “Mom, Dad?”
+
+“Hmm?” Tala turned to her.
+
+“Yes, sweet?” Rane smiled down at their daughter.
+
+“Can we get some more food? I think I’m hungry.”
+
+Her parents hesitated a moment before laughing.
+
+“Sure thing, Lea.” Rane pulled the girl into a side hug. “Let’s get some food on the way to the Archon Compound.”

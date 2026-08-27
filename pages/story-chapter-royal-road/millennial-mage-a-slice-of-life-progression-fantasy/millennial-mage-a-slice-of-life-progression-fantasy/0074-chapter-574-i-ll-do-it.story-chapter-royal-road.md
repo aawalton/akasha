@@ -1,0 +1,273 @@
+---
+id: d40553d4-9560-5857-a986-9f3ea4c43f70
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 574 - I’ll do it"
+slug: 0074-chapter-574-i-ll-do-it
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 74
+ownLength: 2906
+unit: words
+ownProgress: 2906
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2347776/chapter-574-ill-do-it"
+royalRoadId: "2347776"
+markedReadAt: "2026-06-29T19:37:39.927Z"
+---
+
+Tala and Rane got up before the sun rose, taking their time and even enjoying a lengthy bath as they watched the glowing, ever shifting landscape through her portal-window.
+
+“You really are getting so much more skilled with Kit.”
+
+Tala shifted to be able to give him a long kiss. “Thank you.”
+
+“I mean it. I remember when you struggled to do even minor modifications on the exit from this space, but now? You can deny anything you wish from entering, even light, and you can do so in a single direction at time.”
+
+“Thank you.”
+
+He chuckled. “Truly, it is masterful.”
+
+She gave him another kiss. “I believe you.”
+
+He opened his mouth to continue speaking, and she kissed him again.
+
+“Enough talking, even if it is sweet.”
+
+He put on a show of fake grumping, before he chuckled and drew her close, tucking her against him, their faces turned toward the view.
+
+When Mistress Petra contacted them, informing them that breakfast was ready, they got out and got ready before moving themselves to the dining hall.
+
+Tala shifted the view-portal to take up one wall of that space, and Mistress Petra gasped, pausing near the exit. “Oh, my. That is lovely.”
+
+Tala grinned. “Isn’t it, though?”
+
+The woman hesitated a moment longer to take in the sight, and Tala didn’t mind in the slightest. She did take the moment to really examine the woman.
+
+She and Rane still tried to have dinner with them at least once a week, even if it was occasionally put off. Still, she rarely just looked at the other woman.
+
+-She looks tired. Not weak, not exhausted, but still somehow…-
+
+Older. Her true age is catching up with her. And while she could probably hide it through her own efforts, or outside magics, it seems that she no longer wishes to.
+
+-Yeah…-
+
+Mistress Petra seemed to sense her gaze, because she turned, meeting Tala’s eyes. “Mistress.” The older woman smiled. “Is there anything else that I can do for you?”
+
+“No, Mistress Petra. The breakfast looks amazing.” After a moment’s hesitation, Tala added. “Is there anything that I—or we—can do for you?”
+
+The woman smiled, then gave a shallow bow. “No, Mistress, Master. Honestly, while working with you two, Simon and I have seen and experienced more than we ever thought that we’d be able to in our waning years.”
+
+She chuckled when Tala’s face fell.
+
+“Don’t fret, Mistress Tala. We’ve lived good lives, and we’ve still got decades of healthy living remaining to us. Just because we couldn’t survive a Refining doesn’t mean we’re addled or broken, not just yet.” Her smile grew. “I’ve still got grandchildren—and stars willing great-grandchildren—to see born and raised.”
+
+Tala nodded slowly. “I know. I am also aware that the time for that is sooner than ever. You will be missed here, when you move onto that phase.”
+
+The older Mage patted Tala on the shoulder as she moved to depart. “I’m sure, and I will miss being here, but I will go where my children are. Nevertheless, that time is still a few years off. Fear not.”
+
+And after another shallow bow, she departed.
+
+Rane put his arm around Tala’s shoulders. “Time is a funny thing. We are so young, yet already we have immortality in our grasp. I know it’s messing with my head.”
+
+“Yeah. It never really feels real—or maybe the right word is important—until we bump up against the edges like this.” She frowned after the departed Mage.
+
+“Indeed. In every city, we pass those whose great, great, great grandchildren will pass from old age while we remain as we are, and that fact doesn't even cross our mind as important. At least, it simply doesn’t cross my mind.”
+
+Tala shook her head, going up on her tippy-toes to give his cheek a kiss. “Mine either, love. Come on. The food is hot. Let’s eat.”
+
+Rane cocked an eyebrow, looking back and forth between Tala and the food which they both knew would stay perfectly ready for as long as Tala wished it to be so.
+
+She chuckled. “I didn’t say that would change, but I’m hungry.”
+
+He grinned in return, and they settled in, watching the last minutes of luminescent beauty through the view-portal as the sun began to rise.
+
+* * *
+
+Terry joined them in their travels about halfway to Bandfast from the inner-fire fount. By his demeanor—and the fact that he immediately flickered to curl up on Tala’s shoulder and fall asleep—he had satiated himself on some herd of arcanous creatures or other.
+
+Tala and Rane were taking their time, and so it was well past midday—and Bandfast was only barely in sight—when Alat gasped. -Tala… I…-
+
+Tala detected the utter panic and sense of uncertainty in her alternate interface, and she pulled herself to a stop, hovering in the air some twenty feet off of the ground.
+
+Rane landed below before turning to regard her for a moment. He then leapt up and drained himself of kinetic energy to come to a stop beside her, keeping the working going at a low level to stay in place. “Tala? What’s—?”
+
+His eyes widened as Enar seemingly began speaking with him.
+
+Alat? Tell me, NOW!
+
+-Nalac’s and Illie’s masters are dead. There was a breach in the mines, and their group was the closest. They called for aid, but it took precious minutes for help to arrive. Apparently, there were several breaches at near the same time, and theirs was the last responded to.-
+
+Tala felt rage boil up within her, even while sensing that Alat wasn’t telling her everything. Why were they last?
+
+Alat sent soothing sensations, though the effect was marred by Alat’s own, evident agitation. -Because they engaged last, and called for help last. Additionally, Masters Balin and Ori were some of the most experienced of the group leaders.-
+
+Tala took a deep, calming breath, but as Rane wrapped his arms around her, holding her close and speaking into her hair, she felt her selfcontrol breaking down. His words—obviously meant to comfort—were not helping. “I’m so sorry, my love. I’m here.”
+
+Now, Alat. Tell. Me. NOW.
+
+The alternate interface was clearly struggling as well, her emotions in utter turmoil. -Illie… she was dragged down and slain just after the masters. She’d already been bitten and influenced by a venom. Even so, she found a way to be in the rear of their retreating group. She was overwhelmed while protecting the retreat of Nalac and the guards. Because of her efforts, and those of the masters, there were only three deaths in their group. Everyone took injury, but none of the mundanes died.-
+
+Tala felt as if a buzzing tone rose up within her mind, slowly drowning out thought and outside input.
+
+She only barely heard Alat finish her explanation. -The other groups, even with Refined Defenders coming to their aid, had catastrophic losses. More than fifty guardsmen died, along with a dozen Mages and magelings. That’s not even counting the miners who died before the breaches were recognized. It was a pack of spawners, all somehow Magical beasts, bound to territories deep below, all around the city’s deepest mining tunnels. Apparently, Masters Balin and Ori held off the strongest of them, and their efforts—along with Nalac, Illie, and the guardsmen—allowed for hundreds of miners to evacuate their sector relatively uninjured. The other groups allowed similar numbers to retreat, but there were still losses across the board.-
+
+Tala latched onto one fact. They were attacked by Magical creatures?
+
+-Yes.-
+
+So, those who killed her are going to come back?
+
+-Well, yes. The city is pulling together a group to delve in and deal with the threat before it can rebuild and return.-
+
+I’ll do it.
+
+-Tala, we—-
+
+I will get it done. She pulled back from Rane, feeling Terry snuggling against her neck. “We’re going to Arconaven, and I will handle this.”
+
+He gave her a long, long look, searching for something within her eyes.
+
+Tala began building arguments within her head, preparing herself to fight for her right to—
+
+“Okay. Let’s go. I’m here for you. If you need to do this, I’ll be beside you every step of the way.”
+
+She only hesitated for an instant before she overcame her surprise and nodded once, moving them into their sanctuary, where they appeared in their thrones.
+
+A portal opened on the superficial and Tala guided a flier to exit. Tala attached a mini portal to it, within the small ‘cargo space’ within it. A moment later, it took off, hugging the edge of safe speeds as it tore northward.
+
+Her emotions were roiling, but she focused all of that into the task at hand. She shaped her aura and on pure instinct enfolded it with reality, void, and magic, altering the quantity and distribution of all three as she pushed the speed limits until she found a means of going faster than ever before.
+
+Void and reality funneled, negated, and absorbed the magic in front of the flier while she dumped power straight from Kit into the wake, matching the speed of expulsion to that of the flier’s movement, leaving a mostly identical, static concentration behind them.
+
+The result was almost no resonance before or around them and no ripples behind.
+
+Within the sanctum, Tala was outwardly utterly stoic, but the sky slowly darkened, something like an eclipse imposing itself on the artificial world.
+
+Alat’s voice was strained as she spoke within Tala’s head. -Lyn and Ron are concerned about the sky. I’ve informed them that we are responsible, and it shouldn’t have negative effects.-
+
+Tala grunted, unwilling to put the effort into fixing the sky.
+
+Mistress Petra and Master Simon approached, seemingly similarly concerned, and Rane rose, going to intercept them and explain the situation quietly.
+
+Tala utterly blocked out their conversation, keeping her attention locked on her goal.
+
+The two older Mages looked dumbstruck. They hadn’t known Illie well, but they had known her. They all knew how dangerous the world was, but for all of them that danger was almost always out there affecting other people.
+
+Tala’s greatest experience with it had been the death of her older brother, but that had been so long ago that she almost never thought of him at all… She pushed away the twinge of guilt and pain that came with that thought.
+
+-Enar and Rane are reaching out to handle what needs sorting.- Alat sounded almost like she was grinding her non-existent teeth, clearly begrudging having to convey the messages as her own thoughts were elsewhere.
+
+Tala grunted acknowledgement, eyes locked on the displays of the countryside that was absolutely tearing by, beneath them.
+
+She didn’t consider the fact that she shouldn’t really be capable of what she was doing with the flier. Her emotions and will demanded it, and she was simply acting on instinct. She quite honestly didn’t care how or why it worked.
+
+Her thoughts came back to a snowy path, where she waited on a bench.
+
+To her little brother, coming around the path and seeing her for the first time in years.
+
+She saw his joy, mixed with uncertainty.
+
+She saw him choose joy. He had brought her to her other siblings once again.
+
+That boy was now hurting, having lost his sister…
+
+His sister… Her sister.
+
+Tala shied away from direct memories of Illie. Even the echoes of them hurt too much.
+
+Even so, she couldn’t keep them fully away.
+
+She remembered Illie’s choice to be a Mage, and her departure for the Academy, how she’d grown through the years as Tala only saw her every so often.
+
+Tala remembered how she’d looked in Makinaven barely four days previous. She remembered hugging her and telling her that she’d see her again soon.
+
+She hadn’t meant to lie.
+
+She hadn’t meant for that to be their last goodbye.
+
+Tala didn’t notice the tears flowing down her face as the flier almost literally ate up the miles.
+
+The sun was barely beginning to set when Arconaven came into view ahead.
+
+It looked… normal, insultingly so.
+
+Don’t they realize she’s dead?
+
+It didn’t matter, or it wouldn’t soon enough. What was done was done, and that would never be different.
+
+They stopped outside the city’s defences, Alat guiding her to the exact location without having to be asked.
+
+With a bare warning to her husband and Terry, she moved the three of them to the superficial and put away the flier.
+
+Then, with her husband and companion at her back, she focused downward, wielding her threefold sight to get a perfect understanding of what was beneath her in a thirty foot wide cylinder, more than a hundred feet down.
+
+She split her mind, targeting various sections of the area with differing vectors before she cracked her neck.
+
+Her iron spikes drove into the ground in a ring just beyond where she was targeting.
+
+With a flexing of will within her domain, she overlaid her natural magics—not just her inscriptions—with iron before enacting her Way, which she had so little use for of late.
+
+Void-channels came to call, growing and weaving outward more quickly and more completely than ever before.
+
+Her emotion and stalwart will allowed for nothing else.
+
+Then, a moment after she’d manifested on the superficial, she let loose a scream of rage and pain as she enacted her magics.
+
+What she did wasn’t quite ‘crush,’ and it wasn’t really ‘restrain.’ It wasn’t her slow-building standard gravity magics either.
+
+Instead, it was as fast as the first two, and as flexible as the second, draining her utterly dry in a single working.
+
+Still, it did work. Less than a minute after she began, she got the desired result.
+
+A circle of ground erupted up and out, splitting around where the three stood, Terry on Rane’s shoulder, and Rane’s magic extending across all three to keep them locked in place.
+
+Tala had made the working temporary on purpose, allowing the removed material to arch back to the ground all around them over a distance measured in large fractions of a mile.
+
+Tala then turned her face downward, and opened a portal within the top of her throat.
+
+A beam of dissolution tore straight into the center of the devastation she’d already wrought, boring deeper yet and obliterating the ground as well.
+
+She allowed her artificial lung to entirely empty, expelled in a controlled rush. During that time, her body had refilled with power.
+
+The portal within her mouth closed, and another opened on her back, sucking in air to ready for another attack.
+
+“Lower.” Her voice was clearly a command, expressing her will, but it also carried a note of entreaty, a desire for her husband to help her in this.
+
+Rane responded to the request that was more of a command without complaint, allowing the three of them to drift down toward the location that the city officials had indicated was the likely center of the Magical creature’s binding.
+
+As they dropped down, Tala embedded more and more iron spikes. Additionally, Rane’s magic reached outward, pushing those spikes along with the rock, loose soil, and other things in the ground outward, compacting them, unifying them and strengthening the sides of the otherwise unstable path into the ground.
+
+The result was a vertical shaft roughly fifty feet across and steadfastly sturdy.
+
+The next gravity fountain would have had to pass through the three, but Rane acted again without being asked to, using their shared aura and authority again. Through that medium, he imparted kinetic energy outward on anything that came at them from below, keeping them utterly untouched.
+
+This continued for cycle after cycle as Tala went deeper and deeper, a perfect path remaining in their wake.
+
+They were nearly a mile underground when they all felt it.
+
+There was a powerful gathering of magic, as if the natural zeme of Zeme itself had a confluence within a cavern that was barely within Tala’s range with her threefold sight.
+
+At the moment, that power was moving, feeling like nothing so much as a thousand invisible hands all working together to weave power and matter into a body that was so standard as to be insulting.
+
+It was a mole, if one sized closer to a caravan oxen.
+
+The process was all but complete.
+
+No.
+
+The next few cycles weren’t faster—Tala had already been going as fast as she was capable—they weren’t even more focused as nothing else was in her mind, but they seemed more… vengeful.
+
+Finally, they came up against the bedrock that made up the cavern’s structure, that which had allowed a hollow expanse that was nearly large enough for a city to exist so far underground.
+
+Only a focused dissolution breath managed to breach the magic-reinforced stone. The very natural makeup of the reinforcement made the results somehow more powerful, more resilient.
+
+Regardless, she was through.
+
+But the mole was finished being rebuilt.
+
+It turned its face up to them as they dropped down toward where it waited, and as it regarded them, the magical creature seemed to make a decision.
+
+Without any hesitation whatsoever, it turned and fled, even as it began creating stone-spider looking things all around the cavern, the spawn swarming toward the falling Paragons.
+
+Tala’s focus was only on the mole as it tried to escape toward a side-tunnel.
+
+Yeah, no. Rust that.

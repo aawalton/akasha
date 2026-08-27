@@ -1,0 +1,253 @@
+---
+id: f262e6e7-7edb-5a0f-aa51-77f294fd1d55
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 57 - Miagete Goran Yoru no Hoshi wo (2) "
+slug: 0101-chapter-57-miagete-goran-yoru-no-hoshi-wo-2
+partOf: metaworld-hopecore
+position: 101
+ownLength: 2805
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3499636/chapter-57-miagete-goran-yoru-no-hoshi-wo-2"
+royalRoadId: "3499636"
+---
+
+NYC. The Met. Christmas Day. 10 AM. The museum was closed, and yet it was not. A handful of staff, paid with generous overtime, attended to the Chief Curator and a small group of private collectors, all of whom had contributed generously to the Met’s endowment trust.
+
+Dr Juliana Vaughan had been up since six, because there was no rest for the wicked.
+
+A private tour on Christmas morning was a rare yearly event that was hotly contested even among the donors. She had allowed only nine individuals with their plus-ones, plus obedient children, and the tour ran for three hours from 930 AM to 1230 PM, with breaks and canapés in between.
+
+At 11 AM, she could be found dispensing truths in the Sackler Wing. Beside her, from floor to ceiling, the room’s glass wall filtered in the winter light, pale, cold, and linear, illuminating the ancient cream sandstones so that the refraction turned golden.
+
+Behind her sat the Temple of Dendur, collected from Nubia in 1978. The Egyptian Government had gifted it to the US because a dam was swallowing it whole, and they were powerless to save it. And so, the two-thousand-year-old temple now sat in NYC, girt by the mirror-moat of human history.
+
+Vaughan stood at the water’s edge, speaking to the lucky nine and their chosen family members.
+
+The Chief Curator had a manner of speaking that was legendary, an idiosyncrasy Mirabelle described in one of Vogue’s editorials as "aphoristic closure." Her student had written that, when Dr Vaughan finished speaking, her audience felt enlightened, even though the same information was succinctly delivered on Vaughan’s curated plaques.
+
+“—the colour you're seeing now," her voice filled the airy chamber, "is not the colour it was. The original surface was artistically endowed. Pigment on sandstone, reds and blues and greens, the ‘gods’ in their proper colours. Two thousand years of weather removed all of it. What remains is what we feel history should be, CLEAN, sterile.”
+
+She paused and smiled.
+
+“But history is rarely clean or sterile. Instead, it endures. Sometimes, it is buried or forgotten. Sometimes, history lies in plain sight, and we simply refuse to see it. The Temple evokes melancholy precisely because it is a simultaneous preservation of human history, and its inevitable loss.”
+
+The donors nodded, feeling wiser by the minute. Vaughan continued.
+
+“The historian Motoori Norinaga spoke of this sorrow as an abstraction of ephemerality. He called it ‘Mono-no-Aware’. When history is lost—and it is lost often, through conquest, disaster, political erasure, or simple neglect—what remains is lyrics without the melody, an epic without context. Norinaga Sensei named this particular emotional register as something more vertiginous: the awareness that something WAS. It is a gentle sadness. We have many of these here in the met. Remnants. The Minoan civilisation. The Library of Alexandria. The Native traditions.”
+
+The donors followed like obedient children, even though half of them were older than Vaughan.
+
+“The beauty is oxymoronic,” Vaughan concluded by doing the thing that Mirabelle had written a whole Special Edition about. “The feeling of Beauty is inseparable from the loss. The cherry blossom in Cherry Hill is a canonical symbol precisely because the trees bloom so briefly. From its pale pink bower to the carpeted floor, the liminality is all. This feeling isn’t about accepting loss, it's about refusing the absence. We refused to let history be nothing.”
+
+Her donors nodded. They understood, whether authentically or superficially, why their donations mattered, why it was a higher cause.
+
+Vaughan left her guests to create space for rumination, for she had spotted a visitor she had promised to see on short notice. For now, her role would be taken over by the docents until the end, when another dose of aphoristic closure awaited her donors, driving home the need to preserve history on ontological and spiritual levels.
+
+Unhurriedly, in her camel turtle-neck and her kitten heels, she greeted her former student.
+
+“You came back,” Vaughan said, smiling, then noted the travesty of fashion behind Eppie with a frown. “Fred.”
+
+“Juliana.”
+
+“You did say don’t be a stranger,” the girl smiled awkwardly.
+
+“So, for what reason do I owe this visit?” Vaughan’s eyes moved to the giant bag beside the girl. “Your… father… or so he proclaimed, said it was a surprise.”
+
+“We found something,” Eppie moved in a way to emphasise the bag. “In Central Park.”
+
+“She found something,” Curon coughed. “I… I paid.”
+
+“Here.” Eppie held out what looked like… cardboard? Cereal boxes? Was this found art?
+
+Knowing her student, however, Vaughan took them with both hands, and with the automatic care she brought to all paper, a reflex of habit. She turned to the light. The pale December morning refracted off the Temple of Dendur.
+
+“This?” Her eyes read the codex of the artwork’s lines in a way that only a dozen experts in America could. “Sumi-e lines? Controlled lines, typical of ink wash work from the Meiji Era. That said, ballpoint pen? So much of it, some smudges too…”
+
+“Is this mould?” Vaughan looked at them in the eyes. “Yes.” They both replied.
+
+“As a medium?”
+
+“No.” They both replied.
+
+Her eyes returned to the artwork.
+
+“Found materials. Urban. Outsider register. Very interesting. Is the lack of pigment hierarchy because of the materials? Choice or limitation? The involuntary texture is certainly a choice… I hope. The… Nihonga school, a bricolage with Arte Povera?”
+
+Her audience of two was waiting for something.
+
+“The dating…”
+
+Vaughan paused.No, she stopped. She looked at the signature, then could no longer look away.
+
+“NO-NO-BOY…” she murmured the words, then looked through two more pieces, curated by her erstwhile student. “Who drew this?”
+
+“Someone from your park,” Eppie said. Not critically, not with sadness or reproach. Just… casually. Casually absurd. “Roughly a block from where you're standing. Sleeping near the undercover vents.”
+
+The Temple of Dendur sat in its pool of engineered light behind them. Her donors milled about, admiring their newfound wisdom.
+
+“BORN IN SACRAMENTO, CALIFORNIA. 1920,” she read the lines.
+
+Vaughan licked her lips. They were a bit dry. “Is Kiritani-sensei hale? Is he safe?”
+
+“He’s at the Four Seasons right now, still sleeping,” Eppie said. “I guess he hasn’t slept much since the camp.”
+
+Vaughan looked to Curon for confirmation. The internment camp?
+
+“Yeah, we need your help with his…citizenship?” Curon clarified. “I don’t think Sony can handle this. But you know people, right? Politicians, I mean.”
+
+Vaughan handed the drawings back.
+
+“Tony.”
+
+A docent peeled himself from the wall.
+
+“Ma’am?”
+
+“Ask Estelle to finish the tour in my stead. Give our guests signed copies of my book, the limited edition hardcovers, with my handwritten foreword. Tell them that I’ve found something that requires my immediate attention. Tell them if my instincts are correct, I will be calling on them in the near future. Tell them…” she gave the next words a moment of thought. “That they may soon participate in living history, if they so choose.”
+
+Then Juliana Vaughan turned and picked up her coat from the bench where she had left it, and put it on with the calm of a woman who wasn’t at all flustered by what she had ignored for the last thirty years, and Eppie had found in 24 hours.
+
+"Take me to him," she said.
+
+And they went.Out of the Met. Into the cold.
+
+The trio suffered a moment of mild existential panic when, at 1 PM, Henry Kiritani was gone.
+
+Gerald then politely informed them that he had seen Mr Kiritani enter Central Park.
+
+Eppie slapped her forehead. Of course, Kiritani had gone back to the park. That was in his character. He had no friends, no family, only the cats.
+
+“Let me call Joseph,” Curon offered as they walked to the park themselves. A minute later, he informed that, yes, Kiritani was in the garden section, feeding the cats. Joseph was the busboy Curon had called to bring food for the cats. The young man told Curon he had seen the odd Japanese fellow at noontime.
+
+They found Kiritani on a bench between the maintenance buildings and the garden, feeding the cats by hand, sorting them into rows, watched by a few children. Normally, his homeless visage was enough to keep tourists away, but Kiritani was no longer dressed like a vagrant. He had replaced the worst of his outfit with what Curon had picked out from Sony’s wardrobe.
+
+Around 2 AM, Curon had gone back to the penthouse and then returned at 8 AM with a massive duffel of whatever he managed to scrounge up from wardrobes. The present Kiritani wore new inners layered with his old boots, old overcoat, and his old hat. His beard and hair remained utterly chaotic.
+
+He looked fresh. His vitality restored, if only by a few points, and that was enough for Eppie.
+
+He looked up when they arrived. The grime was gone, the dead skin of god knows how many seasons. He looked good for a 87 year old.
+
+Vaughan asked Eppie for the artworks, then sat down next to the man.
+
+Then, to Eppie’s delightful surprise, Juliana Vaughan spoke Japanese to the man.
+
+"Kiritani Sensei," she said. "My name is Juliana Vaughan. I run the Metropolitan Museum of Art."
+
+Her Japanese was a little more formal than Eppie’s.
+
+“Vōn Sensei.” The artist acknowledged the curator. “Eppie-san says you are a serious person.”
+
+“If what Eppie-chan has told me is true,” Vaughan said, “Then it is imperative that your story is told. The country needs it. The survivors, their descendants, they all need to hear it. Not for closure, but for the necessity of it. It needs to be in the history books. I want to hear about your life, Kiritani Sensei. If you're willing.”
+
+Around her teacher and her artist, the cats arranged themselves as pillars of a fairy circle.
+
+“Let’s grab a hot dog,” Curon nudged Eppie. “My treat…”
+
+Henry Kiritani watched the young woman—young to him—sit beside him with the formality of an Okiya no Okami-san. The honourable madam of the Geisha house. Vōn-san sat on the bench the way people from old families sat—without adjusting, without checking the seat first, without small negotiations.
+
+She simply sat, then the world conformed around her. She was a serious person.
+
+Kimi climbed onto his knee.
+
+They had by now introduced themselves. Vōn-san’s Japanese was formal, imperial, like what the Americans called the Queen’s English; Japanese without regional enunciation. She was a woman of immense authority, not just in life, but in the arts. Yet, she spoke carefully, like she was constructing each sentence in her head before her mouth moved to connect the grammar.
+
+He could tell it was a trying endeavour, and he was grateful for it.
+
+“Sā,” he said, slapping his knees. Well then. Let’s start.
+
+He began to tell a story no one had heard, at least not in its entirety.
+
+“Sacramento ni umareta,” he said. I was born in Sacramento. He paused. “Ninen, sen kyūhyaku nijū-nen de gozaimasu.” In the year nineteen hundred and twenty.
+
+“My father's family was in America. My mother’s line was in Hiroshima.” His mouth moved around the old word, otta, the Hiroshima-ben form, the word of his childhood.
+
+“During the Great Depression, things grew too difficult for us outsiders. We returned to Hiroshima. Watashi wa, mada chiisai ko deshita.” I was a small child.
+
+Not too far away, he noted Eppie with an older man, most likely her father. He bought her a hot dog. They were feeding the bread to the pigeons. They looked happy.
+
+“In Hiroshima, my sensei told me I had talent,” he smiled. “I learned to draw, to paint. Sumie. Fude to sumi. Ink, wash, brush.”
+
+He showed her his hands. The skin was cracked. His fingers were skeleton-thin. The ballpoint ink was etched into his skin like tattoos.
+
+“Then the war gained momentum. I had an American passport. It was not safe for me here, in Hiroshima. The nationalists…” Kiritani licked his cracked lips. “My parents sent me back to America. I had papers; it was safer for me in a country where I had papers…”
+
+“Soredemo—” Nevertheless— “Tule Lake.”
+
+“The papers were why I was sent there. I was on their records. They asked me if I was willing to fight for them. To murder the people with my face. They asked me if I was willing to renounce the Emperor.”
+
+“My warden spoke perfect Japanese. Amerika ni chūsei wo chikaimasu ka? Nihon-kōtei no chūsei wo suteru to chikaimasu ka? I think he spoke it better than I did.”
+
+“They took away my papers. I didn’t know that could even happen. I was born with them.”
+
+He stroked Kimi. Kimi purred.
+
+“I found out about my parents through the camp Shinbun," he said. The newspaper. “August sixth. The morning edition.”
+
+He was quiet for a moment. My city was gone. My parents, grandparents, nephew and nieces, all gone in a single flash of light, if they were lucky.
+
+“The camp director, he was smiling when he handed us the paper, us NO-NO-BOYs. The men who had signed yes were already sent to the war, and they were already dying in Europe. I wonder what they were given.”
+
+The woman director sat still as a statue, like the bronze ones in the garden.
+
+“Gojū-nen,” he said. Fifty years. “I spent fifty years with the cats because I had no papers.”
+
+“Was this because—” Vōn Sensei finally allowed the slightest hunch to enter her posture. “Cats never ask for papers?”
+
+“Hahahaha—” Kiritani laughed. It was an absurd response from someone so formal, but it was so unexpected and funny that he couldn’t help but allow the hurt to escape from his chest. “You are too observant, Sensei.”
+
+Vōn laughed as well. Demurely, politely, controlled. Just like the Okaa-san of Kyoto’s most ancient establishments.
+
+"Kiritani-san," she said. She was offering him a hand. “Anatano hanashi wa—kiku hito ga iru."  People will hear your story.
+
+Kiritani nodded guiltily. It was only now that he realised he was a greedy man, like he was in his youth. He wanted his art to be seen. His history witnessed. He wanted, above all else, to exist and be remembered.
+
+But Eppie-san’s serious sensei was not finished with him, at least, not yet.
+
+“Kiritani-san,” Vōn said. "Tule Lake. Would you like to see it again?"
+
+He looked at her. A part of him knew the answer.
+
+“Wakaran,” he lied. I don’t know.
+
+“I think it would be closure,” she said. “To see it as it is now. In ruins. Eaten by time.”
+
+He considered this, his thoughts suddenly thrust into wool. Castle Rock. The drained lakebed smelled like death. The mountain rim that enclosed the sky.
+
+“Gomeiwaku de wa,” he shook his head. It would be an imposition on you. She was already doing too much for someone like him. Someone without papers.
+
+“I can arrange it,” Von’s expression did not change. “Do not forget. I am Eppie-chan’s sensei. I am a great and serious curator. I can get you the necessary papers. When you complete your Geidō, the world will heal. For someone who can arrange all of this, what could the imposition possibly be?”
+
+“You think too highly of me, Vōn Sensei,” Kiritani felt his hands tremble. They were more honest than he was. “I don’t know if I can complete it, my art. Too much time has passed already. I will disappoint you.”
+
+To his surprise, Eppie’s Sensei did not look disappointed. Instead, she looked relieved.
+
+“Two days ago, that little girl over there, eating the hot dog—her third—taught me a lesson,” the curator said. “She said the ‘intent is all’. I am still learning what that means, Kiritani Sensei, but let’s leave it at this—”
+
+“If going to Tule Lake can help you heal, then we shall go. The art—” Vōn-san looked at him with a mysterious expression. “The art doesn’t matter.”
+
+Kiritani considered this.
+
+“I am old. I do not speak English. Tule Lake is very far from here.”
+
+“Then I will send an angel to shorten the distance.”
+
+"Eppie-san?"
+
+"Hai."
+
+They sat on the bench, watching the girl throat her third hot dog while her father waited in line, possibly to purchase a fourth.
+
+"Sō de gozaimasu ka?" Kiritani heard himself say after a few minutes. It is so?
+
+“Sō de gozaimasu,” Von said, shaking her head at the hotdog cart. So it is.
+
+Kimi-chan meowed as the girl returned, her father following. She hissed, then ran into the bushes.If a poet were to capture this moment, Kiritani felt, it would probably go something like this:
+
+冬の園 父と娘と 四本目のホットドッグ
+
+Fuyu no sono Chichi to musume to Yonhonme no hotto doggu
+
+Winter in the park — Father and daughter togetherHer fourth hot dog.
+
+桐谷ヘンリーFather and daughter in Central ParkWinter, 2007

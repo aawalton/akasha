@@ -1,0 +1,261 @@
+---
+id: 43c67d4f-d322-5aa5-a6a8-48c4be5dd34c
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 84 - Uprising (2) "
+slug: 0144-chapter-84-uprising-2
+partOf: metaworld-hopecore
+position: 144
+ownLength: 3255
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3754492/chapter-84-uprising-2"
+royalRoadId: "3754492"
+---
+
+I-10. Valorie Sanders was already on the highway before she had time to digest what she was actually doing. In fact, she had left so hastily that she was still in her workout tights, her blue-grey fabric dark with perspiration. This meant that, in her convertible Lexus, she was an arresting piece of scenery, catching glances from drivers on both sides as she aggressively flirted with the speed limit.
+
+On her lap, her phone was still warm from having talked to Euphemia. She kept both hands on the wheel, for this was the first time she had driven in months. Her heart was still pounding because, for a brief, terrifying moment, there had existed a real possibility that the Lexus, long forgotten, wouldn’t even start.
+
+Thankfully, it did, and now she was driving to a house she'd told herself in March she would never willingly enter again.
+
+When she was about five minutes out, Valorie noticed that it was not the engine that thrummed, but herself. Her whole body was vibrating, either with adrenaline or with terror, or both. She saw her own face through the glass, pale and sweaty, like an acrophobic working up the courage to look down a cliff. Something in her chest was rattling like a loose piston.
+
+She had never done something like this in her entire life. Entering a place uninvited. Taking something without permission. Not just using, but manipulating the kindness of others, deceiving their welcome, for a nefarious purpose.
+
+At the gate to the community, the fawning guards opened the electric sliding barrier with big smiles and lecherous eyes. They called her by name, “Miss Sanders,” and jotted it down in their big visitors’ book.
+
+It took another minute to circle into the Chen compound, with its backside nestled into a cliff, and its front rising from the manicured frontage in contemporary glass and concrete.
+
+She slowed near the interior gate and keyed in the code that had been swimming in her short-term memory. It was six digits—William’s mother’s birthday. After this, she would try to forget it, like she would forget William.
+
+The gate opened, and her Lexus slid in silently behind the G-Wagon. She parked like a spoilt princess, making sure that her bonnet ate into the proximity laser so that William could not block her if he returned.
+
+Jiang stood at the garage’s interior entrance with a smile. He wore a mandarin jacket and stood in the usual, familiar manner, a man who was controlled and composed, despite his young missus’ refusal of basic modesty.
+
+“Miss Sanders.” A small bow of the head. “The young master isn't home yet.”
+
+“I know.” Valorie made her voice do the thing it used to do so easily around the same house, something that was bright and unbothered and careless. “I am not here for Will. I heard he got a cute new cat. Is that true?”
+
+A strange fondness crossed Jiang’s face. “He did. A great floffy thing, haha… very cute indeed.”
+
+It must get lonely… Valorie realised. Guarding this massive house alone.
+
+“Can I see it?” She fluttered her eyes. Without makeup, they were somehow more effective.
+
+“At once!” Jiang’s smile was genuine. “Come to the back, you know how much the young master hates fur…”
+
+“Why the hell did he get a cat then?” Valorie demanded in her usual arrogance.
+
+“Who knows?” He looked at her fondly this time. “Perhaps, he was hoping that someone who had been remiss would come to the house… and pet his new cat? I seem to recall a young lady saying that she was never allowed pets at home.”
+
+Valorie clammed up. Jiang’s familiarity was… unnerving because it was genuine. For three years, he had watched her come in and out of the house like it was her own. More than once, he had picked glass shards out of her hair.
+
+Jiang laughed, the lines of his eyes crinkling his whole face. Valorie felt sick.
+
+He led her down, past the beautiful garden with the succulents. Past the greenhouse where Jiang grew vegetables. Past the garden shed, until they arrived at the storage shed. A long time ago, when Mrs Chen was still alive. Jiang had slept in the detached house. These days, Jiang slept in the basement guest room to keep an eye on things.
+
+Jiang opened the door with a plastic tag.
+
+There was no way Eppie was going to break in… Valorie winced at the idea that, somehow, Eppie felt confident enough to perform untrained espionage.
+
+They walked through the wine cellar's cool stone archway to a section she remembered from a long time ago, when she and William still licked each other’s wounds by mangling each other in the strangest of places. That was… she realised, just after Mio’s incident, after he told her that Mio would drop out.
+
+Valorie swallowed the vomit tickling her throat and followed Jiang. She saw the familiar door. Against that door, then in that room… they had…
+
+“Meow?” The sound of a well-fed cat greeted them.
+
+“Mr Garfield!” Valorie did the Eppie voice—that high-pitched, Disney Princess pitch that could be incredibly grating. “Oh… you precious thing… come to mama!”
+
+The cat leapt at her, not affectionately, but with the fury of a frustrated animal trapped in a place for too long, his claws finding the back of her hand in one clean swipe before she got both arms around him. Valorie hissed through her teeth and said to an alarmed Jiang, who was aghast, “Oh, I JUST LOVE HIM. Tell Will I said thanks.”
+
+In her arms, Garfield was pressed face-first into her bosom, the only reason why he wasn’t shredding her tender and flawless skin into a disfigured carpet of ribboned flesh.
+
+Jiang looked as confused as Garfield was. “Miss Sanders, are you alright?”
+
+“Jiang, I am taking him home,” Valorie endured the claws digging into the flesh underneath her workout tights. The thin fabric did nothing to help. “He’s going to be a part of the Sanders’ family.”
+
+Thankfully, Jiang did not stop her from taking Garfield, and Valorie could guess why. First, the cat was clearly something William loathed, and so could only be intended for Valorie. Secondly, she was still Valorie Sanders, and if she took something—anything—from the Chen house, it would be settled by Master Chen with Francis Sanders, not by a servant to the young missus’ face. And thirdly, Valorie suspected that Jiang knew William didn’t have good intentions for Andrew Garfield.
+
+Unlike William’s familial followers, Jiang lived here among the Chen family’s secrets because he was Lee-Kwon Chen’s trusted friend. Jiang wasn’t, despite circumstantial evidence, a servant.
+
+She was three steps from her car when the Chen family’s spare G-Wagon swung into the driveway.
+
+William emerged already talking, already reaching, and Val felt every year of Cooper and Costello’s coaching arrive in her spine at once. With a tilt of a chin and the flat, bored authority of a girl whose father could end careers with a phone call, she dodged his embrace.
+
+“Val! Oh my god, Valorie…” William’s gladness lasted exactly two seconds, until he saw it. “... Why do you have that?”
+
+“Have what?” Her acting chops were firing on all cylinders. “Am I not welcome here?”
+
+“The cat…” William walked closer.
+
+Was he really this tall? Valorie looked up and felt… afraid. Not just fear of being discovered, but a more… physical fear. The fear of being helpless. The fear of being overpowered.
+
+“Put the cat back, Val.” William’s smile did not reach his eyes. “Please?”
+
+“No,” Valorie said churlishly, still playing the spoilt princess. “It’s mine now. I am taking him home. We’re going to sleep together.”
+
+“You can sleep here,” William’s voice rose an octave. The hope was real. The hope… and the matter-of-factness of it was what frightened her the most.
+
+Valorie turned her head and looked at Jiang. Jiang gave her a knowing nod, then retreated from the lovers’ spat. The man knew enough of their appetites to know that he did not want to stay around to watch.
+
+Valorie returned to her erstwhile boyfriend. “I am going home now. “
+
+“Don’t go,” William blocked her path. He reached out for the cat, and Mr Garfield, predictably,  exploded against her, all claws and outrage. With all her strength, she tucked him against her ribs and pinned him there with one forearm, feeling fabric tear, feeling her own skin open in three more places. “FUCKING CAT!” William swore. “Val, let it go.”
+
+The pain was enough to send Valorie curling into a foetal ball, but she endured. She endured for Eppie, who had given her the song. Who had told her that, yes, life can be Better. That her relationship with her father can be Better. And then… it all came true. In one night, unlike the three years of lies William had told.
+
+“Val, you’re hurt,” William was adamant. Valorie was sure he was trying to set Garfield off again, so that she would let the cat go.
+
+Thankfully, the warmth, or perhaps the ultraviolence done to her, had calmed Andrew Garfield down somewhat.
+
+“Please don’t touch me,” Valorie used the voice on her boyfriend. The voice that her father employed to suggest, politely, that a certain order should be followed.
+
+Then she walked around her former man, her body dripping crimson like a handmaiden stumbling toward an Aztec altar. The Lexus unlocked as she approached. She pulled back the door, sat, and—
+
+William took her by the wrist before she could clip her seat belt.
+
+“Val.” His voice was no longer kind or polite. “Leave the cat.”
+
+Valorie looked at the blood on her wrist, on William’s hand. She channelled her inner Antigone, the role that had won her both fame and accolades, a role she had won without competition from an absent Mio. “I have dinner with my father this evening,” she said, her tone leaving no space for permission. “He’s expecting me.”
+
+“Did the blonde bitch make you do this?” William’s voice was murder. “LEAVE THE FUCKING CAT, VAL!”
+
+“OR WHAT?” Valorie tried pulling her hand away.
+
+When she couldn’t, her off-hand moved from Garfield for a brief second to triple-click the phone icon.
+
+The Bluetooth fired. The LCD read “Francis Sanders.”  The speakers blared.
+
+William’s eyes grew dangerous.
+
+She freed her hand. It was easy this time. The sweat on his palm had made her blood slick. Valorie shifted to drive before her heart could escape her throat, before her blood loss made her faint against the steering wheel. If she stayed now, she felt, she might wake up stark naked and tied to a rack in the basement, like in that movie with the chainsaw massacres.
+
+That was the vibe William now radiated.
+
+“Get out of the way, Will.”
+
+William's face did something fantastical. She saw a man whose jaw and eyes scrambled for the old script, the old charm, the tilt of his handsome head, and failed at all of the above. For a raw second, he finally looked his age: eighteen, spoiled, and genuinely disbelieving that the world could take something he had taken for himself.
+
+With the bloodied Andrew Garfield still glued to her bloodied chest, she burst from the sunken garage and took to the streets, hoping against hope that a good Samaritan wouldn’t call the cops on a young lady bleeding out in her overpriced Lexus SC 430, while holding a cat.
+
+Francis didn’t answer. He never answered during work, but she was fine with it now.
+
+On the highway, her memory told her that William had cried out, called for her name, screaming that he loved her.
+
+She didn’t hear him.And she didn't look back either.
+
+Then she called Euphemia on hands-free, on account of her fingers being sticky with gore.
+
+Eppie and Lim had no idea why Val wanted to meet at the Wang Yip Ming Clinic until Valorie pulled up in the back alley and shut off her engine, leaving the metal to plink while she sat exhausted in the driving seat, her head against the steering wheel. Eppie and Lim approached the Lexus like a pair of detectives finding a murder scene, whereupon Eppie screamed like a supporting character from a slasher film.
+
+“HOLY SHIT!” She dragged Lim so hard that the giant nearly fell. “They shot Valorie!”
+
+“No…” Valorie raised a hand covered in dried blood. “I am okay.”
+
+“Oh no…” Eppie opened the door. “They shot Andrew Garfield?!”
+
+“No…” Valorie winced. “The blood’s mine…”
+
+“Meow?” Andrew Garfield, whom Eppie had not recognised before she opened the door, was glued to Valorie’s shredded sports bra by the literal blood on his fur.
+
+“I’ll get Dad.” Lim ran.
+
+Eppie watched in horror as Valorie took her fingers with a bloody, gore-soaked hand. “Tis but a scratch—”  she groaned.
+
+Jesus Christ. Eppie felt her heart scrunch. THAT IS NOT THE RIGHT LINE, VAL! Fearing her personal Mercutio moment, Eppie scooped up her precious Valorie and Garfield, Princess-carrying both Senator’s daughter and cat into the clinic, just in time to meet Lim’s father rushing down with a gurney.
+
+The girl in her arms was scarlet as a beet, but Eppie didn’t care. Valorie… poor Valorie… just what did these monsters do to Valorie? A whole Jason Statham action movie played in Eppie’s head.
+
+Wang Sifu set up the folk gurney with the haste of a much younger man. He didn’t so much as blink at the blood. Twenty years of pulling drunks and gutter-fighters through that steel back door had cured him of blinking.
+
+“Here, here, put her down.” Wang Sifu patted the gurney twice, hard, like he was calling a dog he was fond of. He examined the wounds, and Eppie saw that his whole posture changed—
+
+“Is she alright?” Eppie felt her vision blur. Was she crying? Yep, she was crying. Fuck…
+
+Wang Sifu looked at her strangely, without urgency, possessing only the professional ease of a man who has seen much worse.
+
+“Whoa— So much blood? Not to worry. Maau-jaau la.”
+
+Cat-claw?Eppie looked at Valorie again. Valorie’s face was redder somehow. “Hua-coi,” scratch-wound. “Lim, get me bandages and disinfectant. We need to clean all of this. And someone please take the cat. The fur… Aiya…. Get the Yunnan Baiyao, the big sachet.”
+
+“This was YOUR fault?” Eppie glared at Garfield. “YOU did this?”
+
+“Meow…” Garfield gazed back psychotically, his face still stained with Valorie’s blood. She placed her hands around the tubby tom and removed the cat from Valorie’s body. From the looks of it, about five per cent of Garfield, meaning his shedding, was now resting in Val’s weeping wounds.
+
+“Lim…” Eppie asked her Stray Cat Society captain when he returned with a giant pan. “Take the cat…”
+
+Nodding, Lim took Mr Garfield to be washed in the clinic bathroom.
+
+“Okay,” Wang Sifu looked at the two girls. “I leave you alone.”
+
+“Er…” Eppie raised a hand. “Val’s still injured.”
+
+Wang Sifu gave her a tired look. “This is San-je, okay? She is Senator daughter,” the man complained with a thick, Cantonese accent. “YES?”
+
+“Sorry…” Valorie winced.
+
+“You not sorry,” Wang Sifu shook his head. “You need disinfectant. And you. Eppie. Need common sense.”
+
+When Eppie grew more confused, Wang Sifu rubbed both hands against his chest. “Old man not disinfect young lady chest, okay? Not that kind of doctor. I want to keep operating clinic, not have Californian Senator conduct tax audit…”
+
+Skritch-snick. Skritch—snick—
+
+The scissors went through the ruined, blood-stiffened nylon fabric easier than either of them expected—two clean strokes up the side seam—and then there was nothing between Eppie and the raw furrows across Valorie's frontage, eliciting a clinical embarrassment neither girl had a script for.
+
+Val kept her eyes fixed hard on the ceiling tiles, counting them, or so Eppie hoped.
+
+Eppie kept her eyes on Val’s imposing… wounds, channelling the studied professionalism Vaughan possessed for the classical nudes of the Pre-Raphaelites.
+
+“I am so sorry…” Eppie said, her fingers hovering an inch above skin she hadn't touched yet. “I was selfish to let you go.”
+
+“Don’t be,” Valorie's breath came in waves.
+
+Eppie’s gauze hovered over the trembling flesh. “This is going to hurt.”
+
+Neither of them moved for a second longer than the sentence needed—then Val screamed.
+
+The gauze ran pink into the basin, then clear, then pink again as each fresh rag replaced the last, the smell of copper and antiseptic doing something unpleasant to the back of Eppie's throat. The disinfectant, when it finally touched open skin, made Val scream again—an obscene sound, entirely capable of fomenting in Eppie a core memory.
+
+Val's knuckles went white around the gurney's edge. “This is a… a new experience.”
+
+“I wish I could be in your place…” She really did. With the [System], she would be healed in a day.
+
+“Well…” Valorie’s voice grew mirthful. “I wouldn’t have gone if I knew it was going to sting this much…”
+
+Eppie almost snorted over Val’s open wounds. “Don’t do that…”
+
+With the blood gone, Eppie could see that Val was going to be okay.
+
+Four deep gouges, ugly but shallow. A dozen lighter scratches, already scabbing pink at the edges. Nothing needed stitches. Nothing needed a hospital; whatever Eppie's imagination had staged, it was from watching too many movies.
+
+She tapped the baoyao from its little paper sachet in soft white clouds and watched it cling to the wounds like powdered sugar, sealing the cuts like magic. Lim’s father promised that nothing but pale scars would remain, so long as they didn’t become infected.
+
+Then… after the bandages went up, they were done, and Eppie realised that now was the awkward part.
+
+Valorie… had no spare clothes, and neither did Eppie. They sat under the harsh light of the clinic, one in a Sunday dress, and the other half-exposed, wondering what could be done.
+
+Valorie extended a hand. Eppie took it.
+
+She looked at Valorie’s face, that enviable face that could probably launch a good number of yachts and wondered how she should thank the girl. Valorie was smiling, not happily, but sadly, which made sense, since she was probably cold, and in agony, and waiting for clothes and painkillers to arrive.
+
+“Could you sing the song?” “Of course…”
+
+With quiet sincerity, Eppie sang Valorie’s song, sparing no [Causality], allowing every skill to bring forth the welling emotions in her heart as living proof that things had gotten better.
+
+“I feel better already,” Valorie giggled, her pain dissolving into tears.
+
+“I am… very proud of you,” Eppie kissed the girl’s saintly palm like a pilgrim at prayer, for saving Garfield, and for saving herself. For Val to come from… whatever she had been, to this—was living proof that the [System] had once more triumphed. “So very proud.”
+
+Arms, long and serpentine, wrapped around Eppie’s back and pressed her face against the bandages until Eppie could feel Valorie’s heart thumping against her chest. Val’s lips landed an inch from Eppie’s earlobe, drawing the heat from Eppie’s neck to her cheeks.
+
+“Do you think it's possible?” Val asked quietly, almost too quiet to hear over the sound of a heavy body approaching the door, hopefully with clothes from the tailor shop next door. “For me to speak to Mio?”
+
+Eppie’s vision blurred, and it wasn’t just tears.
+
+Quest Advanced
+
+[The Usurper of Hope]
+
+Your actions have immensely reaped the Usurper’s Causality.
+
+You have completely restored one of the [Usurper]’s victims through [Noblesse Oblige].You have gained immense Causality.

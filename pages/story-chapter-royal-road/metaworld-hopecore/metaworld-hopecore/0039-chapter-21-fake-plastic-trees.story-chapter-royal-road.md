@@ -1,0 +1,305 @@
+---
+id: 8ec7b95e-5eff-5729-b626-dbc2a50d2621
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 21 - Fake Plastic Trees"
+slug: 0039-chapter-21-fake-plastic-trees
+partOf: metaworld-hopecore
+position: 39
+ownLength: 3071
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368972/chapter-21-fake-plastic-trees"
+royalRoadId: "3368972"
+---
+
+“Most people are other people… their lives a mimicry, their passions a quotation.”
+
+Oscar Wilde
+
+Week 9. LAPA.
+
+Three weeks out from auditions, the classes took on a new frenzy. English, Algebra, and World History all had their week 10 mid-semester exams, while Theatre delved into deep work involving both voice and body.
+
+At 2 PM, Dr Cooper first took the students to extend their work on Linklater’s methodology, lying on the floor to exercise their vocal centres, then feeding lines off each other while he corrected their tone and volume.
+
+From 4 PM, Seyrova and Costello double-teamed the movement labs, working the students haggard through their lines and running peer review circles on their performance with a strictness that made the earlier weeks seem like casual improv.
+
+After dinner, she split her time between guitar sessions with Zara and helping to kit out the Playhouse.
+
+At 9 PM, she capped her evenings with jogs, now more cautious than ever to stick to the light. Twice, she ran into Lim. Their second meeting involved Lim on his belly, coaxing out a new stray from between the gutters, while their third was Lim and a companion from the Stray Cat Alliance setting up the traps around the dorms, where the cats congregated. Mrs Mouser was also close to giving birth and had taken up residence in the basement of the old college dorm. At each meeting, Eppie got her fill of cats while growing more and more conscious of Mio’s final message: that someone would turn the stray cats into bargaining chips.
+
+It was such a sick and monstrous idea that even now, Eppie could not fathom the evil necessary to do such a thing. As Lana, she had overseen acquisitions that resulted in thousands of people being sent away with severance. People had also accused her of destroying lives, but Eppie had always felt that such sentiments were hyperbolic. After all, the nation had made its choice during the elections, and she had worked her way to the top after her own setbacks and failures. Folks had voted for a government that refused to provide healthcare, and it wasn’t the job of private corporations to then pick up the slack. Now, the [System] was aiming to teach her that she could have done better—
+
+But to threaten innocent animals? Hold kittens hostage?
+
+“Big” Lim would probably have something to say about that.
+
+Week 10.
+
+Eppie’s routine grew erratic as the tests finally took place.
+
+For English AP this was a written exam where the students had to compose a spontaneous essay on the topic of literary theory surrounding Antigone. Using her impeccable [Script Analysis], Eppie confidently aced the test and bid the classical play goodbye.
+
+Algebra II likewise came and went, with Eppie finishing the test with time to spare. World History proved to be more strenuous, but was ultimately managed by her impeccable writing and superior memorisation skills.
+
+What was left were her art blocks.
+
+Once the audition was done, the students would fall into their roles. This meant that, for the final quarter of 2007, more than half of the remaining lessons would be held in the Playhouse itself, and they would start to cross-pollinate, with the Juniors and Seniors sharing the same scene set.
+
+This meant that the tech crew was working overtime, not only finishing set pieces, but learning to load and offload them on stage. The stage itself was now semi-complete, bringing the manifested, postmodern scenes to life. Eppie’s team was responsible for one of the scenes, a press conference between Secretary Creon and the “Chorus” of the Mass Media, which was crashed by Antigone demanding the reinstatement of her brother’s citizenship.
+
+On odd days, Mrs Seyrova took the students through the Playhouse stage, tested the lighting, and practised spatial awareness while working within the confines of a set piece. Eppie, perhaps foreshadowing her future role, was allowed to descend a rake, a ramp, from stage left to stage right, where the media have boxed in Secretary Creon.
+
+Costello seated the students in the audience and had participants practice lines and roles on the soon-to-be-completed set, teaching them to be more aware of how they looked on stage from different angles.
+
+On even days, Cooper continued to help the students visualise their voice projection, using white-noise fillers and music to test their vocal projection range, remarking on their clarity and sound. As a make-shift theatre troop, all members had to be familiar with lighting and music, and practice moving on cue to the diegetic sounds synced with the lighting, and vice versa. Of the group, Eppie was the first to complete a sequence of Antigone’s movements against the void, following the lighting cues with enough smoothness to ensure that her face did not disappear into the black box void of the dark stage. She was careful to remain humble despite Dr Cooper’s praise, because her instincts were merely the effects of [Love the Light], karmically deserved, but hardly a product of unyielding labour.
+
+Tuesday and Thursday nights were spent with Zara.
+
+There, in the basement of the Old Music building, two girls in two folding chairs played their hearts out in the cell of a padded room, illuminated by nothing more than yellow-white, decade-old fluorescent tubes.
+
+With her fingers constantly healing, Eppie opted for the superglue trick, creating artificial callouses that finally allowed her to move into intermediate fingerstyle. Her left hand now handled the transitions smoothly, moving from fret to fret with a natural precision. Her right hand had also moved past rhythmic strumming into Travis Picking, using her thumb to maintain a driving baseline on the low E and A, while her index and middle fingers plucked out the blues.
+
+“Alright! One more set,” Zara wiped the sweat from her brow with a towel. The girls rehydrated, paced about to shake off their fatigue, then returned to their seats. “I think we’re getting there.”
+
+Eppie agreed. Again, the pair started slow and mellow, Zara maintaining the deeper baseline while setting the tempo. Eppie sang, humming the verses as the song's stark scenery unfolded in their heads. Mid-verse, the volume picked up, as did the complexity. Forcing her hands to move from pure muscle memory, Eppie leaned into the lyrics; she channelled her [Vocality], she channelled Cooper’s lessons. When she struck, “In the pines… in the pines…” Zara’s husky voice also rose, creating a haunting resonance. As one, their melody grew, their voices high and low, like sirens on a lonesome beach.
+
+The final cord faded. Eppie’s fingers were bone white and trembling. Zara breathed out; she, too, was exhausted.
+
+But alas, there was still some distance to go before the audience could be left abandoned in the pines, shivering the whole night long.
+
+Saturday. October 20th. Eppie woke up to the tune of a dozen [Causality] notices.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+It was her personal notification that the “Inside Van Gogh” exhibition was now live, and that a constant stream of people would be feeding her lifeline from now until the foreseeable future.
+
+Eric called shortly after 10 AM to congratulate her and pass on a message.
+
+“Director Vaughan called a friend at Central Casting LA, who called the studio, who then called Director Curon, who then called me,” her lawyer sounded immensely impressed. “They’re shooting a mockumentary-satire down at Santa Monica, and they need someone with the right…Look.”
+
+“What does that mean?” Eppie grew immediately a little suspicious at the unexpected opportunity. “Like, with clothes on?”
+
+It took Eric a few seconds to clear his throat from the sudden onset of coughs. “It’s a talking role. One or two lines. You show up, do make-up, do your lines, and go home. Top to bottom, about 3 hours of work. You get exactly $759 wired to your Trust, but most importantly‚—”
+
+“... I get to join the Guild,” Eppie completed the sentence for her lawyer. “Usually, they have to use SAG actors, don’t they? Won’t I be robbing someone of their opportunity?”
+
+She was, after all, back on the earth to do good. Taking someone’s providential dues certainly wasn’t going to do wonders for her [Causality] bank.
+
+“How the hell do you know all of this?” Eric’s voice remained as incredulous as ever. “I didn’t even know this.”
+
+“It’s on the internet,” Eppie passed on her knowledge of 2007 Google. “Use it or lose it.”
+
+“Yeah, well, are you free? The way it was orchestrated, I couldn’t call you until they couldn’t find anyone suitable, and had to necessitate the process of finding someone ‘with the right face’, which Central Casting provided.”
+
+“I can be free,” Eppie replied earnestly. “So, about what I said earlier? Is someone else missing out because of me?”
+
+“I am not an agent, nor a film guy,” Eric replied. “Your contract comes from another department. My aides should have it done by noon, when they’re ready to roll film.”
+
+“What are they filming?”
+
+“Something about plastic surgery,” her lawyer sounded sceptical. “Look, either way, just for the fact that Director Vaughan was the one who called in the favour, I wouldn’t…”
+
+“I’ll go,” Eppie said, trusting in the [System] and the fact that it must be aiming for a cosmically positive outcome. If it didn’t, then she would learn a difficult lesson about potential scams the [System] ran to syphon her [Causality]. “Anything particular I should wear?”
+
+“No idea,” Eric said after a moment. “Whatever is easy to take off?”
+
+“... are you sure this is a speaking role?” she demanded, teasing her man from Newfoundland.
+
+“Eppie, you’re fifteen,” Eric sounded tired. “This is a Union job, shot in broad daylight, on location. You trying to get everyone fired or what?”
+
+Eric found her in the parking lot just before noon, wearing her ivory lace mini, hatless and sporting a mismatched pair of Vans, looking very boho indeed. Eppie felt that this was the right look, as it would be very strange for a LAPA student without an industry background to show up to a shot decked from head to toe in a catalogue wear.
+
+Once they were in the car, Eric moved straight to business with her contract. As she was legally emancipated, her signature would suffice. The rest, such as the Taft-Hartley report on hiring a non-Guild member, was the production company's problem.
+
+Her contract also came with the “side” script for the several seconds of screen time she will occupy to fulfil the obligations of a speaking role as a “Day Player”.
+
+The show, which Eppie had never known or watched, was a dark comedy satire about the twisted world of plastic surgery in Hollywood. It followed the lives of two doctors, one a quack, and the other a genius surgeon, as they attempted to navigate the cut-throat work of Plastic Surgeons in Hollywood. Now in its fourth season, the show has a cult following and is frequented by guest stars from Hollywood's B-list.
+
+In her episode, a long-time surgery purist arrives at a trendy coffee shop to meet with the quack doctor, AKA the “Face” of the firm and the marketer, to discuss reversing the procedures she has done over the years. Her character speaks of immense remorse, of her loving husband barely recognising her, and of her desire to return to the person she should have been.
+
+This is, of course, impossible, and the quack, “Dr Morrow”, struggles to break it to his extremely wealthy client that things may not turn out as natural as she would assume. However, just as he makes up his mind to lose the client, a classically pretty teenager walks into the coffee shop.
+
+There is a close-up of her fresh, guileless, uncut face ordering coffee and smiling with knowing confidence at those around them.
+
+The client’s husband becomes instantly enamoured and cannot look away.
+
+Morrow’s client looks pained, then tells him she’ll call him later. Later, Mr Morrow receives a new quest. She wants to look like the girl in the coffee shop. This is also impossible, but it IS a request that Dr Morrow’s partner, Dr Childs, could partially fulfil for an astronomical price.
+
+At 1 PM, they arrived at what can only be described as an open-air circus consisting of interlocked trailers. An assistant called Daniels took them into the trailer, handed them their paperwork, which she signed with Eric's help, and asked her if she had read the script.
+
+Eppie replied that everything was in order, and then she was ushered into the next trailer on the pipeline, where hair, makeup, and wardrobe were handled.
+
+“Welcome, welcome,” the Second Assistant Director was friendly for exactly ten seconds before he ran off, handing her over to the equally stressed members of Trailer No.4. The very first thing she did was change out of her boho dress into something more suitable for a presumed “summer day” in Santa Monica, despite the cooling weather. This involved, to her chagrin, the loathed mid-00s teen fashion of cropped halter tops, low-riding denim mini-skirts, a massive belt, and, as a final crime, pastel-pink beach sandals.
+
+She had become Malibu Barbie.
+
+After the fits and fitouts from Wardrobe, she was ushered by friendly women into the makeup trailer to be made ready. The make-up ladies were the least stressed and the most talkative, and they were the ones who gave Eppie the lay of the land as a “first timer.”
+
+“Don’t stand in the way of equipment.” “Don’t trip on any cables.” “Be aware of the Grips as they move the lights.” “If you’re lost, don’t talk to anyone without a headset. Headsets are for the DAs, they’re your point of reference.” “I love your eyes. It's perfect. I can see why Central offered your headshot.” “LAPA? Oh my, I have two cousins who both graduated from there.
+
+The Director, Robert Simmons, wasn’t anyone Eppie was aware of, but was introduced by her make-up artists as a seasoned veteran with a sought-after resume. Their show was a cable staple—not high art—but it was still on cue to receive several awards during the corresponding season.
+
+The more the ladies talked, the more insecure Eppie grew that she would ruin the time and labour of what looked to be several hundred people with her “shoe-in” recommendation. After a moment's deliberation, she decided that, indeed, she owed it to the folks here to make their life as painless as possible.
+
+And so, she asked the [System] for guidance, by which she meant its contextually sensitive [Roulette].
+
+The result spoke for itself.
+
+Trait Acquired
+
+[Hitting the Mark] Causality Tier (C)
+
+You have gained a growing awareness of spatial positioning during filming. With experience, you will be able to hit your mark during shots and arrive at the correct position to present yourself as the director desires. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Trait Acquired
+
+[Act Natural] Causality Tier (C)
+
+You have acquired a natural inclination for acting out roles through performance continuity, allowing you to orchestrate physical actions, manage subtle conscious details, and match your co-stars' actions. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Muse Acquired
+
+True GritScreen Play by Marguerite Roberts.
+
+Immediately, she also improved upon her newly acquired traits, bringing both to the A-tier.
+
+Trait Acquired
+
+[Hitting the Mark] Causality Tier (A-)
+
+You have an almost supernatural awareness of spatial positioning during filming. With your unworldly experience, you almost always hit your mark during shots, arriving at the exact position to present yourself as the director desires. This trait now applies across a number of media intersecting with [Love the Light]. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality.
+
+Trait Acquired
+
+[Act Natural] Causality Tier (A-)
+
+You have acquired a supernatural inclination for performance continuity, allowing you to naturally orchestrate physical actions, manage even unconscious details to match the action of your co-stars. This includes the continuation of these traits from shot to shot, so long as you are portraying the same character. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+Gritting her teeth as her mind filled with abrupt knowledge, Eppie also took a gamble to spend the last of her five-digit [Causality]
+
+[Charisma] 25
+
+A representation of the Usurper’s metaphysical presence and influence on others.
+
+The Usurper possesses a charisma that is exceedingly exceptional when compared to the average adult of her present world. You will often command a room when addressing your audience with explicit intent.This innate statistic can be improved through practice and Karmic Causality.
+
+[Causality: 431]
+
+Her final [Potential] was self-evident.
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+20
+
+Athletics
+
+431
+
+Agility
+
+20
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+33 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+28 / 28
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS:: [Prophet of Profits] [Noblisse Oblige]Inactive:: [Weak Willed] [Demure] [Fearful]
+
+That her skills were synergistic had always been apparent to Eppie, but it was still nice to receive a double confirmation that indeed, karma knew how to meta-game.
+
+With her abilities sorted, make-up came to an end as well.
+
+She looked exactly the same—except now she had a thick layer of ‘au natural’ made for the heat of studio lighting.
+
+The make-up artist admired her handiwork and sighed with longing. “Ah, to be young. Take care of what you’ve got. It isn’t going to last forever.”
+
+Her stylist finished up shortly after with a blast of holding spray.
+
+Her hair, usually liberated and bushy and given to whatever style she woke up with, was now tamed. She had a slightly off-centre partition, with split bangs to her left and right that drew the viewer’s gaze to her eyes, cropped just below her neck. Together with her paper-white halter-top, she looked as fresh as a Californian beach, sans the smog.
+
+“She’s a bit pale,” her stylist stepped back with a critical eye. “But she looks good. I think it works.”
+
+“For her role, absolutely,” her MUA sagely agreed. “Alright, Eppie, off you go!”

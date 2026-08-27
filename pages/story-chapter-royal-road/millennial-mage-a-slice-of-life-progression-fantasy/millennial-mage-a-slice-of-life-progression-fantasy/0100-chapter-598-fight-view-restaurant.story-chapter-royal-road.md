@@ -1,0 +1,235 @@
+---
+id: fdea6c41-8cd7-5755-8af1-735c5e13657f
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 598 - Fight-View Restaurant"
+slug: 0100-chapter-598-fight-view-restaurant
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 100
+ownLength: 2560
+unit: words
+ownProgress: 2560
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2514663/chapter-598-fight-view-restaurant"
+royalRoadId: "2514663"
+markedReadAt: "2026-06-29T19:38:30.109Z"
+---
+
+Tala, Rane, Lea, and Terry slowly rode the clean, well-maintained elevator up toward the top floor of the fight-view restaurant.
+
+They hadn’t had any trouble gaining entry into the city—not only were they both still well known, Master Grediv had left word of their imminent arrival—and the setting up of Ironhold’s gate at the usual spot had gone off without a hitch. That done, they’d had no reason nor desire to delay their meal with Master Grediv and his introduction to Lea.
+
+Terry rode on Lea’s shoulder, perched happily atop her new dress, which the girl had asked Tala to make for her. It was similar to a sundress, but a bit longer and made of slightly heavier fabric.
+
+It was a slightly pastel ruby red, the subdued color setting off Lea’s clearly magical eyes all the more for the purity of their shade.
+
+The girl had put her hair into a braid, mimicking her mother’s style, and both her hands held the braid as if it were a lifeline.
+
+Rane rested his hand on her shoulder, the one Terry wasn’t occupying. “You’ll be fine. Master Grediv is a kind man.”
+
+“But you still call him ‘Master’… Is he that formal?”
+
+Rane smiled. “No. It is more something that I choose to do than something he insists upon. You are welcome to ask him. The worst that he will say is to confirm your use of the moniker.”
+
+Lea gave a slow nod. “Alright.”
+
+Tala gave her daughter a reassuring smile. “He’s powerful, but your father and I are his match in advancement. This is his city, but there is no way he’ll be able to do anything to you with us around.”
+
+Lea blanched. “Do to me? He might do something to me?”
+
+Tala hesitated. “Oh… that wasn’t your concern?” Rane was giving her a rather intense ‘are you kidding me?’ stare, and Tala cleared her throat, continuing in a placating rush. “Of course that wasn’t. How silly of me to even mention it.”
+
+Lea seemed a bit unsteady as the lift came to a stop, the doors opening to let them out into the vaulted, gorgeously appointed space.
+
+Terry headbutted Lea’s cheek and cooed softly, for once seeming to consider their surroundings as he chose his volume of communication.
+
+Lea relaxed a bit, releasing her braid with one hand to scratch Terry’s head. “Thank you, Terry.”
+
+Terry trilled softly in reply, nuzzling into her hand.
+
+The top floor was just as busy as the last time that Tala had visited, with magical privacy bubbles keeping the noise to a minimum as servers and staff hurried to and fro.
+
+The difference from Brand’s establishment was stark, though the various Archive slates displaying fights—along with the obvious food—tied the two together in theme and general purpose.
+
+“It’s so quiet.” Lea practically whispered.
+
+Rane leaned in a bit. “Can you see the magic around each table?”
+
+Lea squinted. “I can see… something? I don’t know what it means, though.”
+
+Rane nodded. “You are still learning how to identify what you see. Those are privacy bubbles, areas in which magic is keeping sound from coming out.” He emphasized that last word. “If we are loud, they will hear us just fine.”
+
+She nodded, seemingly unwilling to speak even quietly now that she fully understood.
+
+Tala leaned close, speaking softly, but pointedly not whispering. “It’s okay to talk; we just need to be polite about it.”
+
+Lea nodded again. “Okay, Mom.”
+
+At the central table, right near the massive transparent wall, Master Grediv waited for them.
+
+Upon their entry onto this level of the restaurant from the elevator, he stood and smiled, eyes tracking over each of them before returning to regard Lea more closely.
+
+The group crossed the floor, stopping just inside the range of the Stone Holder’s table’s privacy bubble. He activated that, and they exchanged appropriate bows. Tala decided to let Rane address his old master first. “Master Grediv. It is a pleasure to see you.”
+
+Master Grediv smiled. “Rane, the pleasure is mine. Mistress Tala, Terry, I am glad to see you two, as always.” He then turned to Lea, bowing again, far more deeply than he should have given their relative advancement. “Young Lea. I welcome you as a member of my family, however far removed.”
+
+Lea was practically bouncing as she bowed in return. “Greetings honored ancestor. I am glad to meet you.”
+
+He gestured for them to sit, and as they did so, Lea got a contemplative look on her face.
+
+“Do we call you ‘honored ancestor’ because ‘honored’ is the arcane equivalent of your level of advancement?”
+
+The Paragon tilted his head to the side in thought before shrugging. “I’m not sure. That might have been the origin, but I don’t believe that those of other advancements are addressed differently by their descendents.” He then glanced to Tala and Rane. “You have decided to discuss advancement with her?”
+
+His tone made his surprise evident. Tala shook her head. “Nothing specific. We are keeping to that tradition, but she could hardly be unaware of the differences between Mages of various levels.”
+
+Master Grediv gave a slow nod. “And with the Eskau in your hold, she has been exposed to arcanes and their advancement, at least in general.”
+
+Rane smiled. “Yes, we did give her the basic instruction there before we allowed Eskau Meallain to meet her.”
+
+Lea huffed. “Not that it mattered in the end.” She looked to Master Grediv, as if hoping to find someone to be on her side. “She got angry that I was me, was placated, then fought mom. It was all a bit silly.”
+
+Rane barked a laugh, even while Tala tried to stifle her own.
+
+Master Grediv arched an eyebrow. “Oh? She attacked your mom?”
+
+Lea shook her head in negation. “No, no. It was a spar. It seemed like she wanted that more than to meet me.” There was something in the girl’s tone, but it wasn’t quite sadness or disappointment. “Still, their fight was interesting.”
+
+“I see.” He looked to Rane and Tala once more. “I know that she has been examined by many people, but would you permit me a quick magical scan?”
+
+They shared a look before Rane shrugged. “We have no issue with it.”
+
+He left the implication hanging, and Master Grediv turned to Lea. “Lea, may I use some magic to quickly scan you?”
+
+Lea looked to her parents, and when they both smiled encouragingly, she agreed. “Yes. I think that would be okay.”
+
+“Thank you, child.” Master Grediv pulsed slightly to Tala’s threefold perception, his magic reaching out and passing through Lea. The area around them seemed to echo his power—his authority—and then it was done, the working having passed in less than a heartbeat’s time.
+
+He leaned back, clearly contemplating.
+
+Rane noticed his old master’s demeanor, seemingly realizing that the man would be lost in thought for a bit. “I’ll go order some food.”
+
+Tala smiled. “Thank you, Rane.”
+
+He returned the smile. “Of course.”
+
+Lea perked up. “Do they serve ribs? Mistress Petra made salt and pepper short ribs the other night, and they were fantastic. I want to try more types.”
+
+Rane’s smile shifted to a grin. “I’ll see what they have.”
+
+“Thank you, dad!” She was obviously gleeful at his agreement.
+
+He leaned over and kissed the top of her head. “Of course.”
+
+Without another word, he went in search of a server.
+
+Terry and Lea played a bit, with the terror bird flickering from shoulder to shoulder while the girl tried to gently catch and tug on his talons.
+
+He only rarely let her win, clearly doing so in order to keep her interested, as otherwise there was no way that she’d have succeeded even a single time.
+
+Tala, for her part, watched Master Grediv. She honestly didn’t think that the man would be a threat, but she wasn’t going to take her daughter’s safety for granted.
+
+Some of the surrounding patrons had glanced their way as their group had entered, and a few seemed intrigued by Lea—or to have recognized Tala or Rane—but no one was staring enough to be uncomfortable or rude.
+
+The fights being displayed were all recordings, so Tala assumed that the battle with the electric sheep had concluded in the time it had taken them to get to the city, gain entry, set up Ironhold’s exit, and walk to this establishment.
+
+On one slate, a man was fighting a bear, bare handed. The creature stood at over fifteen feet, and its fur was a striated mix of black, brown, and white. The magic it used seemed to be a combination of ice and earth, but the Mage boxing against it simply slid and dodged around any dangerous workings, consistently getting knuckles of bear flesh.
+
+-That’s a bad pun, and you should feel bad.-
+
+I don’t know what you’re talking about. Tala still sent the feeling of a smirk toward her alternate interface.
+
+-Sure, sure.-
+
+Another slate showed a group surrounding something that looked like an armored ox. Instead of hooves it had large, strong and stable feet, and two of its four horns were centered, anchored in the long snout.
+
+It also had wicked teeth that gnashed and tried to tear into those surrounding and harrying it.
+
+Some others showed swarm monsters, one even depicting fliers—which were blessedly rare in general—and over all, the fights were as diverse as Tala would expect.
+
+It was clear that the closest tables were mostly focused on the slate nearest to them, likely having influenced what was being shown on it. Tala was also able to see that the sound for each particular recording was being given to some of the tables but not all.
+
+Rane returned, and his arrival seemed to pull Master Grediv back to the present moment. The older man cleared his throat, and he nodded, smiling. “I see. They were quite right. Lea is your daughter through and through, a gated human if ever I’ve seen such a soul.”
+
+Lea practically wiggled with happiness at the words.
+
+The Paragon continued. “She also carries the Gredial… boon.”
+
+Tala and Rane shared a look. He sighed. “We thought that maybe with our official changing of our last name…”
+
+Master Grediv huffed a laugh. “If it were that easy, it wouldn’t have stuck around for so long. She is a true descendent and thus has the soul impression.”
+
+They gave slow nods of understanding. When Lea asked if it was the berserker issue they’d spoken of briefly, they acknowledged that it was, and promised to speak more on it later.
+
+After a momentary pause, the elder man cleared his throat and spoke again. “As a gated soul, I assume that she’ll be tested for magic competency?"
+
+Tala grinned. “We already have, if unofficially.”
+
+“Oh?”
+
+Lea turned to regard her mother as well. “Oh? I didn’t know that.”
+
+Rane smiled at his daughter. “Magic competency is basically a combination of how you think and how well you are able to truly embrace an idea—and all its implications—without actually believing it.”
+
+Lea frowned. “But… That’s just thinking through something thoroughly.”
+
+Master Grediv chuckled. “In a sense you are right, child, but not everyone sees it that way. Many think in different ways, making it more difficult for them to truly learn to master magic. They can still learn if they wish, but their road will be longer and more difficult, and the results likely worse.”
+
+Lea gave a slow nod. “So, I pass, right? I have that?” She looked between her parents, expectantly. “Right?”
+
+Tala grinned. “Yes. You will be fully capable of learning magic if that is your desire.” She hesitated before adding internally, Assuming nothing unforeseen prevents it.
+
+Lea lifted her hands in triumph. “Woo!” Then, she froze, looking around in horror at her loud noise. Obviously, no one had heard, but even still, she lowered her arms sheepishly. “I mean. I’m glad.”
+
+Master Grediv chuckled again. “Your Lea seems like a delight.”
+
+“I am.” Lea smiled unabashedly.
+
+He considered then nodded. “I’ve decided, then.”
+
+Tala frowned in confusion, and Rane stiffened, eyes widening.
+
+Master Grediv smiled. “I’ve been needing another apprentice. Lea will do nicely.”
+
+Lea frowned. “What?”
+
+Tala was already shaking her head, Terry was squawking in annoyance, and Rane was beginning to hold up his hands placatingly when Master Grediv continued. “She is, of course, too young at the present time. I wouldn’t dream of taking her from you, but when she’s older? When she’s ready? And if she wants? I will happily teach her.”
+
+That caused everyone to pause… everyone but Lea. “Teach me?” She looked to her parents. “He wants to teach me magic?” She turned to Master Grediv. “You want to teach me magic?”
+
+He nodded. “I do, when you are ready and if you are interested. Sometimes, it is difficult for parents to teach certain lessons. You can learn them once you are out in the world, or from someone else.” He shrugged. “I’m sure that your parents could teach you magic if that is your and their wish. You’d also be welcome at the Academy. Though…” He frowned. “I’m honestly uncertain how well you would teleport.” He glanced toward Tala. “That is likely something well worth investigating.”
+
+Tala frowned. “Yes, that… I hadn’t really thought about that.”
+
+“Regardless, I am simply stating that: Should you be amenable, when you are amenable, I am open to teaching you as I taught your father.”
+
+She perked up at that. “You taught dad?”
+
+Rane nodded, smiling once more. “He did. I did not like some of his methods, but looking back, I can see the value in each lesson he imparted.”
+
+Master Grediv grunted. “Not the highest of praise, but I’ll take it.”
+
+Rane chuckled. “It is what it is. I may give you an even higher recommendation after another few decades of intro- and retrospection.”
+
+“True enough, my boy, true enough.” Master Grediv grinned in return.
+
+The servers began arriving then, and he lowered the privacy bubble to signal it was alright for them to come in.
+
+Rane had ordered quite the spread, including a few different kinds of ribs, causing Lea to almost squeal in glee. “Thank you, daddy!”
+
+“You’re welcome, sweet.”
+
+After everything was laid out, the servers verified that nothing else was needed and departed.
+
+The privacy bubble reactivated and the five dug into the feast. Once the first quick bites were enjoyed, and things started to settle down, Master Grediv caught Rane’s attention. “So, you are going to see your parents as well? I hear that some of your siblings are at the Gredial estate as well.”
+
+Rane swallowed his mouthful and nodded. “Yes. We’ll be staying there for a few days to let them get to know Lea and she, them.”
+
+Master Grediv huffed. “I understand the sentiment, and I know I was grateful to spend time with my own grandchildren, but don’t let them spoil the girl, alright?”
+
+Lea looked at her father, meeting his gaze full on. “Dad?”
+
+Rane frowned, turning to more fully regard her. “Yes, Lea?”
+
+“Let them spoil me. That sounds wonderful.”
+
+It took a moment or two for the laughter to fade before the conversation continued, wandering through various light topics as the family simply enjoyed their time together.

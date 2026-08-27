@@ -1,0 +1,103 @@
+---
+id: be1ee8b6-f311-5a98-ba73-c39cd621aa8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 263 The Priestess"
+slug: 0277-chapter-263-the-priestess
+partOf: melody-of-mana
+position: 277
+ownLength: 1374
+unit: words
+ownProgress: 1374
+publishedAt: 2023-08-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1326596/chapter-263-the-priestess"
+royalRoadId: "1326596"
+markedReadAt: "2026-06-29T22:35:24.083Z"
+---
+
+I was cornered, trapped by the priestess, well, sort of. Somehow we'd managed to find our way to one of the many meeting rooms this facility still had. Since it had served as both a central office for a rebellion and an emperor's personal residence those were in anything but short supply. Now we sat across from one another in what some might call a chat, but others would clearly recognize as an interrogation.
+
+“So, how exactly do you know Justin?” she inquired, leaning forward. We were alone now, separated from our various guards.
+
+“We met while I was looking into the portals. I stumbled into his workshop and drank his tea.”
+
+There was a laugh like wind chimes and she leaned backwards. “Oh I would have loved to see that.”
+
+“How exactly do you know him? Or do you?” I asked, trying to parse who exactly I was dealing with here.
+
+“Oh, we have history going back a long, long way, but that's not important for now. What's important is why he's coming here? Or wants to.” Suddenly her face hardened, eyelids slipping down as she stared at me. “I won't lie, nobody is happy about this situation, but I want to know the basics of it.”
+
+“The math is beyond me if I'm being honest,” I began with, and she nodded, nobody really needed the physics details from a bar. “But we managed to find that the portals are making a number of anomalies in the world. They're not the only way for those to form either, so just getting rid of them would only be a stopgap. My hope is to figure out what the danger is, and how to ameliorate it.”
+
+“Have you had any success in that endeavor so far?” All of the bubbly, flirtatiousness was gone. We were alone now, and while this woman might have otherwise been well disposed towards me I was after something her whole organization decidedly didn't want.
+
+“Some, as I explained to the elder of the shield. My own apprentices are being trained to do the best we can, and we know that with time it all cleans itself up, eventually.”
+
+She seemed to still be quite unhappy, but nodded a bit. “Before coming I made inquiries among our own records and staff, and I hate to admit it, but that line of research is poorly understood. Your group might well be the best educated on the continent about it.”
+
+“I mean, it decidedly isn't priest magic,” I pointed out.
+
+“No, well, not really, at a certain level of power you can start to do some very interesting things that others might not expect, but that's beside the point. We also have more than a few wizards working for us and have had some powerhouses over the years.”
+
+“You also have methods of making items that don't really translate to the rest of us.” She raised an eyebrow at that comment. “The marks,” I clarified.
+
+“Oh, yes, well, sort of. That magic is secret to keep it from being abused, but it's more of a prototype version of the common item creation. It just released the magic at a timed interval, the real magic is in the ink, there were older ones you know.”
+
+“I did not...”
+
+“Tattoo type magic was a bit of a fad for a time, but it fell from favor.” It was now my chance to lean in, as this was information I'd never heard, and was unlikely to from many sources.
+
+“Why?” I asked, hoping to gain some insight.
+
+“A couple of reasons. One, it's horridly inefficient compared to magical items, and two, the uses are limited to the special inks. The effect of the Lover's Marks is so slight and subtle that it is the cheapest of them, and the use for the common people so high that it has persisted. We're getting off subject again.”
+
+“Right, what else did you need to know?” I asked.
+
+“The reports I have say you felt, something, looking at our world. Could you clarify? Can we fight it? Do we need to?” she asked.
+
+“I don't know how familiar you are with the idea of this universe...”
+
+“I'm aware of the very basics, and that there are travelers like yourself from others.” She frowned as she said that. “You all do seem to cause big change, for good or ill.”
+
+“Well, again, some o the deeper parts are beyond me, but there is a place outside of... reality, and there is something out there. Justin doesn't think there should be, and there were stories back on our world about that sort of thing, all generally bad. As for fighting whatever it is? From what I felt I can't imagine it.” I felt my own eyes slip off into the distance as I tried to picture combating something that made me terrified by it's very existence. All I could imagine coming from it would be horror and pain.
+
+“Stories?” she said, an eyebrow quirking.
+
+“Lovecraft was what it was called, but I'll freely admit I didn't really read them. Just knew the genre, and that they tended to have things that shouldn't be.” I'd said the name in English.
+
+“Love-craft? That sounds like something I'd be doing though doesn't it? Not some horror.” That was enough to confirm she spoke my lingo, though that shouldn't have really surprised me being who she hung with.
+
+“Er, I think it was a writer's name,” I explained.
+
+“What an odd name.” She leaned back and sighed. “Very well, when is the other party arriving? We'll need to get this over with.”
+
+“Tomorrow, I do hope that's alright?”
+
+“Of course, do we have rooms?”
+
+“Yes, near our current in residence priestess. I'm sure she'll be happy to have you around.”
+
+As we rose and moved to the door she fell away from the hard, unhappy, businesswoman attitude and back into her previous one. Our arms were interlinked by the time I got the doors open, and as I led her and her retinue to their rooms I heard at least one of my own men trip and stumble on the walk.
+
+Kala looked over the moon when we met her on the way, biting her lip seemingly without thinking about it. I let her take over, the still nameless priestess moving to her side and lightly discussing the work around the fortress.
+
+“Don't fall for it,” Ulanion said once we were far enough away, appearing at my side.
+
+“Care to clarify?” I asked.
+
+“That woman may not be evil, but she's dangerous. I've seen the kind before, like a flower with a poison scent. Within seconds she was pumping Kala for information on us, didn't you see?”
+
+“I did, and she certainly not a friend, but you think she's an enemy?” I asked, looking at him.
+
+“I don't know, but what I know is that she was sent here for a reason. I'd guess at least part of that reason is to get intel from us.”
+
+I sighed deeply, already tired from this politicking. “I'll need to warn our researchers to keep away from her, and to watch what they say. Luckily Kala's not too involved in that. We probably can't keep her from spilling any and all important information on injuries, but luckily most of that shouldn't reveal anything of note.” I stopped for a second and looked at him. “I do hope your not worried that I've shared anything untoward.”
+
+“You tend to, but I'll trust your judgment. Did you tell her anything important?”
+
+I ran over the conversation in my head. “Nothing vital that she didn't already know. Oh, we also need to add looking into magical tattoos to the list of topics to look into.”
+
+“Never heard of anything other than the Lover's Marks, but isn't the list already long enough? You've just taken a few things off haven't you?”
+
+“Aww Ulanion, that's the thing about lists, the harder you work to shorten them, the longer they tend to end up.”
+
+He chuckled as we went off to warn some of the staff, me the researchers, and he the guards. The latter definitely needed to be straightened out in short order.

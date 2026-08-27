@@ -1,0 +1,205 @@
+---
+id: 31ca55da-1156-52b5-b7b2-f96c9284bab9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 685 - Blood and Iron"
+slug: 0193-chapter-685-blood-and-iron
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 193
+ownLength: 2816
+unit: words
+ownProgress: 2816
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3172623/chapter-685-blood-and-iron"
+royalRoadId: "3172623"
+markedReadAt: "2026-06-29T19:41:14.749Z"
+---
+
+Tala felt a bit nervous, if she were being honest. She was always hesitant to have new people in her sanctum, and even letting people into Ironhold had become something she was hesitant to allow.
+
+She really needed to get over that.
+
+After all, the researchers were well ensconced within her sanctum, and Alat said that they were doing just fine, learning what projects she had for them and beginning to catch up on the appropriate materials.
+
+That had actually been a long project, if what Alat conveyed was accurate. The alternate interface had worked closely with their human assistants to decide what information should be provided for context and expediency, and what should be held back for a time to prevent drawing the new researchers into ruts and fallacies that they, themselves, had fallen into.
+
+As should be expected, it had been quite difficult to try to guess where they might be mistaken, as if they knew they were, they would obviously change their approach.
+
+In the end, they came at the problem from the other end, deciding to only provide the minimal information for each project that could be reasonably expected to make the researchers able to proceed. It would slow things down at first, but it should result in a better end result in each case, and faster achievement of workable results over all.
+
+Regardless, that branch of things was progressing, and while Tala would be checking in on things soon enough, her focus was on something else.
+
+On another group of people who were to be allowed within.
+
+Specifically, she stood in the entrance to the House of Blood’s hold in Croi, merchants from Ironhold and guards from the House of Blood giving her and those with her wide berth.
+
+As to who was with her? Twenty Eskau and Pillars of the House of Blood—including the entire council that had confirmed her elevation to Eskau of War, joined by Eskau De-arg—and five sets of Eskau and Pillars from the House of Iron.
+
+Word had obviously spread of the House of Iron’s new stance toward the House of Blood—in particular regarding their Eskau of War—but the House of Blood guards still gave the group composed of the previously ‘other’ House’s more powerful warriors nervous glances. It was likely only the presence of more than double their number from the House of Blood—if just barely—that kept that nervousness from spilling over into unwise action.
+
+Tala’s mind was wandering a bit because she really didn’t want to deal with the House of Iron’s reaction to her. Specifically, the Pillars were all on their knees, hands and foreheads to the floor, the Eskau standing over them defensively, while somehow seeming to show a desire to abase themselves right alongside their Pillars.
+
+“Please… rise.” She kept the pleading out of her tone, managing to make it a polite command and nothing else.
+
+“Yes, Iron Matriarch.” The Pillars snapped as one, rising in a controlled rush.
+
+After The House of Iron emissary had returned to his House with confirmation of Tala’s… nature, word had apparently been sent out through the House’s various information networks, and all who could be spared from among the upper echelon had rushed toward Croi.
+
+This wasn’t even the totality of those coming, simply those who were close enough or fast enough—or both—to have gotten to Croi in less than two days.
+
+Tala hadn’t had the heart to deny them when they showed up early that morning. After all, she’d been planning on giving the House of Blood Eskau and Pillars an… introduction to Ironhold, why not include the House of Iron?
+
+This. This is why.
+
+-Oh, it’s fine. They just realize how awesome we are.-
+
+Tala sent Alat an unamused look.
+
+-Wow, you are really not feeling it of late.-
+
+I don’t want to be revered…
+
+-Of course not.- Tala braced, somehow knowing that Alat wasn’t done. -You want to be Hallowed.-
+
+She groaned internally. I walked into that one.
+
+-That you did! Now, go get ‘em. They’re ready for you.-
+
+Tala nodded, acknowledging that everyone was on their feet and ready. “Know that you are all bound to secrecy around what I am about to disclose to you.”
+
+Her authority as Eskau of War resonated clearly with those of the House of Blood, and her authority—and their deference to it—as Iron Matriarch practically sang within the House of Iron.
+
+All gave nods or bows of assent, cementing the command’s place within them, though it hardly needed the help.
+
+As such, Tala reluctantly admitted to herself that her inclusion of the House of Iron wasn’t purely because they were there, and she didn’t want to send them away. Their submission to her authority—at least in this and similar things—was greater even than those of the House of Blood.
+
+I’m delaying… She gilded herself, smiled and turned, gesturing for them all to follow her.
+
+The House of Iron deferred to the House of Blood, and the House of Blood deferred to Head Corinis, making him—followed closely by his Eskau—the first ones through after Tala.
+
+She felt no need to bring up the rear for this group.
+
+Rather than opening a door into her sanctum, or altering the one she had into Ironhold, she simply led them through the merchant door she’d made into Ironhold the day before.
+
+Thankfully, it was large enough that traffic didn’t have to halt for them, and Alat worked with Tala to immediately move each person to a preselected park as soon as they crossed the threshold.
+
+Additionally, in order to prevent reasonable concerns that might have arisen from the trailing delegates if each Pillar or Eskau before them had simply vanished, Tala and Alat projected an illusion of those who passed within continuing forward as if nothing had gone amiss.
+
+It actually wasn’t very difficult, all things considered, but it had still needed to be decided upon and enacted.
+
+Thank you. Tala really did appreciate all that Alat did to assist in these and, honestly, most circumstances.
+
+-It is my pleasure.-
+
+Tala stood in the middle of the otherwise empty, chosen park, some of the most powerful arcanes on this continent appearing one after another around her.
+
+For the first twenty arrivals—excluding Eskau De-arg—the reactions were much the same as those of the researchers. Disbelief, followed by incredulity, leading the fledging belief and attempted testing. Each—including Eskau De-arg—tried to pull in some of her power, invariably failing as surely as if they’d tried to scoop water with naught but hopes and dreams.
+
+Tala was actually beginning to enjoy the consistency of the reactions when the first of the House of Iron arrived.
+
+The bull-kin’s eyes widened, and he dropped to his knees in stunned, overwhelmed reverence, tears immediately flowing freely. “It’s… beautiful.”
+
+Tala frowned, that was not what she’d expected.
+
+The nine other members of the House of Iron had similar reactions, each seeming to have some sort of revelatory experience.
+
+She was going to inquire, when one of the women—a dwarf—spoke under her breath, confusing Tala. “Iron… Iron undergirds everything.”
+
+-OH! Oh… Wow… How did we not see that coming?-
+
+Tala only frowned for a moment before it clicked. This space was her, and she was it. Her iron—both reality and mundane—was her, and suffused her entire being… including this expanded space.
+
+The House of Blood Eskau and Pillars had clearly noticed the House of Iron’s reactions, and were discussing potential meanings and implications among themselves. Eskau De-arg was staring straight at Tala, one eyebrow raised in clear question.
+
+Tala sighed, deciding to simply push through. “I believe that they are able to sense the iron and reality iron with which I have joined, and which suffuses this space as well as the entirety of me.”
+
+Several of the House of Iron jaws dropped open at the explanation, and even the House of Blood seemed… almost dazed by the information? Tala wasn’t quite sure, and truthfully, she didn’t need to be. Onward!
+
+“The power you feel in the air is also just as much a part of me, which is why you cannot draw it in, despite it being simply ambient, unaspected power.”
+
+That got grumbles—if understanding ones—from the House of Blood. The House of Iron seemed to only then notice the power, leading to more expected reactions, putting Tala on more familiar grounds.
+
+Though, the House of Iron shortcutted to awe far faster than most. Even so, the dwarven woman spoke up once more, this time actually addressing Tala directly. “I do not mean to contradict the Iron Matriarch, but this power… It is not simple power, nor is it unaspected.”
+
+Tala frowned. “What do you mean it’s not…?” She trailed off, realizing that she’d made the same mistake with the power that she had with the space. “The iron.”
+
+“Yes, Matriarch. It is not aspected to a person, nor is it twisted in such a way as to prevent the use of other power in conjunction with it, but it is… flavored?” She looked around, finding the other House of Iron representatives nodding in agreement. “Like power in the ocean is flavored with water, salt, and life. Like power deep in the ground is flavored by rock, minerals, and so on.”
+
+Tala grunted. “I suppose I can see that. What does it mean?”
+
+The dwarven woman grinned fiercely. “It means that concepts relating to iron will be both easier to explore here and faster to develop. All of our magics will function better with this power as their source. This truly is a holy land.”
+
+Tala felt herself pale slightly in expectation for what she knew would come next.
+
+The dwarven woman straightened, then bowed formally and deeply, only speaking again when she had straightened fully. “I officially petition for a right of residency for all members of the House of Iron within this hold.” The dwarf grinned broadly, her eyes practically dancing with exuberance. “Let us make the name, Ironhold, truer than ever.”
+
+A silence settled over the group, as everyone regarded Tala expectantly. Tala, for her part, frowned. “Unfortunately, I cannot say yes.” She held up a hand to forestall objections. “This is partially because I have no idea how many people that would entail. We cannot support nor sustain a flood of thousands more citizens within this hold. I imagine that the House has many holds at the moment, and our trying to take in that entire population… it would be madness.”
+
+The dwarf frowned, slowly nodding in understanding. “I apologize, Matriarch. You are, of course, correct. I spoke in haste. Even so, I petition for some form of access or residency for as many as you will allow.”
+
+Tala nodded. “That can likely be arranged in exchange for resources, services, and expertise, which would, in turn, be used to increase and enhance this hold so that more could come.”
+
+Head Corinis cleared his throat. “We would welcome members of the House of Iron alongside those of the House of Blood who come to enjoy the abundance herein.”
+
+Tala felt a smile pull at the sides of her lips at the insertion. “Indeed, Head Corinis. My intention is to make this hold—and the treasures within—available on a merit system as part of the war preparations.”
+
+Murmurs moved through the gathered arcanes yet again.
+
+“Toward that end.” She clapped twice, unnecessarily, but she liked the theatrics of it. “I have a gift for each of you.”
+
+A two-inch by two-inch cube of white steel appeared, resting solidly in the air directly before each of those gathered.
+
+The thirty cubes had all but drained Ironhold’s reserves of the material, but the first shipments of the resources to continue production had already arrived from the House of Blood. “This is white steel.” She briefly described its properties for those who might be less aware before adding, “It is also a sub-component of the material that the Black Legion uses in their armor and weapons.” Her eyes moved to lock on those of the House of Iron. “The other primary component being reality iron.”
+
+The House of Blood seemed quite interested in this revelation… the House of Iron seemed chagrined.
+
+Tala found herself nodding. “I’d thought so. Then, a member of the House of Iron…?”
+
+The dwarven woman sighed at Tala’s implicative, trailing statement, showing yet again that she was their chosen spokesman. “Yes, a previous member of our House departed, taking some of our deeper knowledge to join the project which resulted in the production of the first of the Black Legion.”
+
+Tala nodded one final time. “I had suspected. Though, no more than that. A key component in their creation—and likely in their… abnormalities—being iron and coming from these cities almost had to originate in your House.”
+
+The dwarf grimaced. “Indeed. That is one of our two great shames.”
+
+“One of two?” Tala frowned before groaning. “The Baba-Yaga?”
+
+The dwarf looked startled, but recovered quickly. “Yes, they come from a twisting of our knowledge as well.” The dwarf swallowed. “In recent centuries, many had begun to fear that they were the only, ultimate manifestation of our path, the culmination of our concepts, especially with how many had fallen to that fate.” The light of fervor rekindled in her eyes as she continued. “But now, we have found you, and that fear is proven false.”
+
+Tala grunted. “I see.” Then she frowned. “Wait… How many? How many baba-yaga are there?”
+
+“We cannot know how many still live, but the records that I am privy to denote thirteen of our finest.”
+
+“All women?” Tala tried to grapple with the potential of thirteen such beings out there… somewhere.
+
+“It seems so. We do not know why, but women seem to have a deeper potential on our path. Maybe the knowledge and insight of this place, and from you, yourself, will alter that, but only time will tell.”
+
+The House of Blood Pillars and Eskau had finished examining their cubes while listening to the exchange, but Tala could definitely sense a growing sense of restlessness. “Thank you for the information. Now, I have brought you here for a third purpose.” She gestured as she continued. “First, to let you experience the density potential of power within this hold. Second, to grant you the gift of the cube, and finally…”
+
+Lea took the cue and willed herself to Tala’s side, having been observing from elsewhere.
+
+“To introduce you all to my daughter.”
+
+Several pairs of eyes widened, but no one seemed overly surprised. Apparently, news of the girl had been circulating at least among those truly seeking knowledge of Tala as these, here, clearly had been doing.
+
+Lea bowed low, doing so several times to ensure she gave proper respect to all present. “I greet the esteemed Eskau and Pillars of the Houses of Blood and Iron.”
+
+Tala kept her smile hidden at the precise wording. She’d worked with Lea and Lisa on it, as a means of putting the idea in the gathered heads. If the two Houses united? Few could oppose them.
+
+More to the point, if they united in order to lead the other Houses in a war against a known and feared adversary? Few would want them opposed, let alone actually attempt it.
+
+Still, the idea had to be approached with care.
+
+Head Corinis’s slightly narrowed eyes showed that he, at least, suspected where she was aiming, and the man seemed uncertain how he felt about it.
+
+Regardless, Lea continued. “I am, in form, very close to our adversary. Though I am lacking in advancement for the time being, I will be available for combat training, and limited sparring in order to help prepare our warriors for the coming clashes. I know that each and every one of you could obliterate me with the barest of thoughts, but even so, I will gladly place myself in your hands in the hopes that it will help you better know our enemy.”
+
+Many eyes flicked toward Tala, but when Tala didn’t add or contradict anything, a wave of bows—shallower but no less sincere—were returned to Lea.
+
+All in attendance knew what this meant for Tala as well. They were being trusted with the daughter of the Eskau of War, the Iron Matriarch, and while they likely suspected that it would be difficult to do lasting harm while within this hold, the trust was no less weighty to the minds of these arcanes, so inculcated in their culture of honor and ritual.
+
+Likely, none among them would have allowed their own children to spar with those so far advanced above them, regardless of the supposed safeguards in place.
+
+Therefore, this was either an incredible show of trust or one of power, and in either case, it was effective.
+
+Tala felt her authority resonating with both groups, and she allowed her smile to grow in truth.
+
+This just might work.

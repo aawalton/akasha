@@ -1,0 +1,101 @@
+---
+id: a4012282-1234-5d4b-bfe4-38fdf078bfb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 I am an idiot"
+slug: 0001-chapter-1-i-am-an-idiot
+partOf: melody-of-mana
+position: 1
+ownLength: 1927
+unit: words
+ownProgress: 1927
+publishedAt: 2021-06-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/697972/chapter-1-i-am-an-idiot"
+royalRoadId: "697972"
+markedReadAt: "2026-06-29T22:26:15.854Z"
+---
+
+As I shimmied across the ledge over the little hole, I couldn't believe they'd talked me into this nonsense. I thought I'd be spending a fun day in big caves, playing around with echoes. I did not think we'd spend hours wandering through a tiny maze of little crevices full of that special bat funk.
+
+“Hey Alex,” Steve tried to break in. I ignored him.
+
+“Hey...” He looked back.
+
+“Isn't this fun?” Fun!? When we got back to civilization I was going to strangle him. If this was his idea of fun then he was never picking activities again.
+
+“Oh yeah, it's great.” The sarcasm was palpable.
+
+“Embrace the suck,” John broke in from behind. He, his girlfriend, and her little sister had joined for this calamitous adventure. I could hear the laughing as I struggled with crossing the gap, fuming at the collective insanity.
+
+I liked Steph, we'd known each other since kindergarten, her kid sister Julie was a trip too. Steph's new military boyfriend... I was less sure about him.
+
+The cave started shaking, and it hit fast. That wasn't supposed to happen in the Blue Ridge. This was the southeast, not bloody California. The rocks around us rumbled and cracked under the pressure of moving earth, the strain too much for them, luckily none fell on me. As it continued a particularly large wave threw me from the wall I'd been holding onto for dear life. I couldn't keep my balance and fell, right into the crevice I'd been trying to maneuver past.
+
+I freaked, trying to grab onto anything to arrest my fall as the air whizzed past. A rush of dark rock blurring in my headlamp's light. This crevice wasn't that wide, maybe two or three feet. Fingers and arms scraped against rough stone as I fell, only slowing my fall a bit before a floor finished it off.
+
+“Umph! Ow... ow, ow, ow” I whimpered from the ground. “Hey! I'm here, I'm...” I did a quick self check for broken bones. I could still move everything without tons of pain, so that was good. “Mostly okay!”
+
+I got no response from yelling up the void I'd fallen down, it couldn't have been that far could it?
+
+I pulled a small toy ocarina necklace out and began to whistle an SOS. I ran quick inventory of my current resources while I whistled for help. I had the ocarina, plenty of flashlights, half a bottle of water, and a pack of spearmint gum. Oh, and standard pocket cash and cellphone, always had those.
+
+I had no idea when I fell asleep, but nothing had changed when I woke up.
+
+“Hey guys! Little help? I'm still down here!” Still no response. That was odd, normally I'd be out and curled up on an ambulance tailgate by now. At least that's what all the movies said.
+
+There wasn't much to this cave I was stuck in. I could see a path leading somewhere, but I'd heard that you were supposed to stay put until rescuers found you. I didn't want to imagine what would happen if I wandered off and got lost, only for someone to show up looking for me.
+
+I must have been here for a day or two. I'm not sure, but my water is all gone. No response though, still no rescue. Even if the others got pulped in that earthquake shouldn't someone have come looking? I knew we'd left information with people on what cave we were going to. That was just common sense.
+
+When I woke up again my head was pounding. I was definitely dehydrated, no way around it, and severely so. I decided to give it one last try.
+
+“Is anyone there!? Can you hear me?” I yelled up into the darkness. The lack of a response sent a chill down my spine.
+
+There was no help for it; I had to keep going or I would definitely die here. Resolved I walked toward the path I saw. I was hoping to find a way out, or at least some potable water.
+
+Scabbed hands and knees from my fall protested as I pushed into the cave, deeper and deeper, unsure of my destination. This path was quite long, longer perhaps than the one that had led us in. I knew this was a bad idea, that to keep going might lead me to my doom. I couldn't stay still any longer though, another day and I might be unable to move, if nobody came for me at that point I would be dead. The caves were cool at least, so I wasn't sweating as I ventured into the darkness.
+
+There's some light up ahead! Rescuers? Maybe a way out or onto a lit cave path!
+
+“Hey! Hey help! I got lost, please help!” I screamed through my dry throat, begging anyone to aid me.
+
+As I stumbled and struggled forward I finally turned into a large open cavern. Nobody was here. There were no happy fluorescent bulbs to greet me either. There were however a number of glowing vines all leading to... a pool of water! Blessed water!
+
+I ran to the pool and took great gulps of the liquid, not caring that it was untreated and probably full of some nastiness. It was so sweet and cool. I wept as it flowed down my throat before I collapsed at the foot of the pool, laughing like a crazy person until I fell asleep.
+
+When I woke up I decided to have a good look around. There was some kind of pattern in the stone here. It was natural and flowing but looked oddly like it could have been something graphed out on one of those calculators they had you play with in math class. I had the strange feeling that there was something going on there, but it was just outside of my reach. A hunch poking at the edge of my mind.
+
+The vines were something else though. They were this brilliant blue, shining brightly all over the cave. I had thought they might be lightbulbs, and that seemed reasonable. Their color was quite unnatural. They all led to the water, where were they getting energy from? There was no sun down here, and the only way in or out seemed to be the one I'd used. I even checked in the pool, didn't seem to be any inlets or outlets there either.
+
+“Weird, where did you guys come from.” I ran my hand along one of the vines, brushing the leaves gently.
+
+I piddled around, examining every inch of this cave, but when I got near the path that led out I felt uneasy. It was like this place was welcoming me, like I was supposed to be here. The idea of leaving sent a cold shiver down my spine and sent me back to the safety of the pool.
+
+Within a day or two though I was getting hungry, desperately so. My thirst had been abated, so now I wasn't so obsessed with the need for water, but that just left my stomach aching. I briefly considered eating some of the vines. I knew kudzu was edible. But these might be some kind of ivy, which really wasn't. They were also my light source, so munching on them seemed a poor decision.
+
+As long as I stayed far from the exit I felt strangely calm. I was uncomfortable, yes, but not panicking. I even had enough sense to realize how weird that was. I was sure that even if I knew of a way out, I'd have a hard time wanting to leave this safe little nest I'd found.
+
+Little lights began to form around the vines. Waves of light that shimmered and danced in the air, how lovely. Again I got that feeling that there was something going on, but I couldn't quite place exactly what it was.
+
+I quickly learned however that the lights would respond to me singing or playing on my ocarina. They moved around in patterns that wouldn't quite come together. It was at the very least beautiful. I even saw a few bubbles forming from my own skin and floating off to join the lights.
+
+There was a non-zero chance that there was something in that water and I was tripping balls right now. I'd have to find out later. If there was, it'd be one hell of a drug. I could think of several uses both for calming people and recreation. If I'd lucked out and found the new weed of the century I was going to share it with everyone.
+
+After sleeping a few more times I woke up to find a flower had grown over where I liked to sleep. It was beautiful, some perfect periwinkle thing. I tried to take a photo but my cellphone had died. That one last game of sudoku had been too much apparently.
+
+I was still deathly hungry, but other than that I felt like some kind of nature spirit. Lounging in my magical cave of glowing vines and pretty lights. I played more music to lean into that feeling. A Fig for a Kiss got a good response from the little glowing waves; I laughed as they danced a bit.
+
+The flower turned into a fruit while I slept. It was big and plump looking, still periwinkle. I wasn't sure what to make of that, and spent the whole day debating. On the one hand, every piece of survival advice I'd ever heard screamed not to eat the unknown fruit. On the other... it looked so good, plump and perfect. It also just felt right, this cave grew it right over my sleeping spot, it was like a gift. The cave hadn't done me wrong before, it was safe and good here.
+
+“You wouldn't do me wrong would you friend?” I was speaking to plants now. That couldn't be a good sign.
+
+Just before going to bed again I made my decision and picked the plump little morsel. As I bit into it, I knew it was the right decision. The flesh was so soft and perfectly flavored, and sweet, so very very sweet. I moaned in pleasure as I devoured it, licking every bit of juice from my fingers and chin. It was too good. I was so exquisitely happy as I laid down to sleep.
+
+“Aaaahhh!” I woke up screaming in agony.
+
+My whole insides were in pain, like I was being rent apart. I looked down to see cracks running along my skin, leaking fire.
+
+“What the!?” I was cut off as another pulsing wave of pain flashed over me, driving the agony harder.
+
+This time when I looked down I saw one of my fingers turn to ash and fall away. I fled to the pool and jumped in, hoping to quell the fire. Much of the pain began to recede as I trembled and twitched in the cooling liquid. I looked around and saw the lights getting brighter, so much brighter. My body was dissolving into the pool and as I looked up it all became a single brilliant point.
+
+Gazing toward the ceiling as the lights became a hurricane around me, I felt myself pushed on all sides. Up and forward towards the brightness with inexorable force I went. Waves pushed me forward as I wondered if this was what dying was like. I was afraid, so very afraid as I got closer and closer to the shining point before me.

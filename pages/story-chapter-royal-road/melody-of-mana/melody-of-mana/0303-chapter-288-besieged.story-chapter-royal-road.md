@@ -1,0 +1,65 @@
+---
+id: cbe09282-10de-5286-baa4-28f6c4ba66a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 288 Besieged"
+slug: 0303-chapter-288-besieged
+partOf: melody-of-mana
+position: 303
+ownLength: 1364
+unit: words
+ownProgress: 1364
+publishedAt: 2023-11-29
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1425874/chapter-288-besieged"
+royalRoadId: "1425874"
+markedReadAt: "2026-06-29T22:36:17.190Z"
+---
+
+Amara
+
+The day we met up with the second group of refugees we walked down the road for hours. There should be more people, so many more people, than we'd seen. I wasn't sure the others realized it quite yet, kept as they were in their towers and libraries, but the roads were too empty.
+
+Only one answer presented itself to me, that this disaster had been on a scale the world had seldom seen. The reason nobody was around, was because they were hiding or dead. Painfully I realized that almost all of the missing people belonged to the latter category, everyone would seek help after a tidal wave like that unless they were under siege.
+
+Helpfully the crabs had thinned out a bit at least. By noon we'd only killed five or so of the beasts, their carcasses left in our wake. That almost seemed like a joke, celebrating because I'd 'only' had to fight five magical beasts by lunch, I nearly laughed. Even with our larger group, each was still an issue. The additional people weren't too much help, worn down and beaten by their own experiences.
+
+I hoped that the city was faring better, that it was just the outlying areas that were so wrecked, but I honestly didn't know. It had seemed during our tour that almost everything was in the city proper, with few outside of its walls, but it wasn't like I'd done a census. That of course wasn't altogether odd, as most people when able moved into protected areas, the simple existence of monsters in the world encouraging it.
+
+My ears perked as we reached a bend in the road, there were sounds before us, the sounds of battle.
+
+“Eyes up!” I called back. “Something's going on up ahead.”
+
+As we ran forward and cleared the corner what I saw both warmed my heart, and caused it to sink. We weren't the only one's who'd been busy it seemed, as someone had used magic to raise a small palisade. Atop the walls were dozens of men and women, some in uniforms, some not, with banners hung nearby. I didn't know the local symbology for such things, but this was clearly meant to be a refuge, a camp raised to save all they could.
+
+What chilled me though was the assault taking place. I could personally see no less than ten of the nascent monstrosities besieging the wall, and I couldn't view the whole thing from my vantage point. The defenders were putting up a fight, spears and spells raining down on the enemies, intermixed with arrows here and there. However, it was clear that the crabs were outmatching the elves here, stronger than a normal elf, even if they were weaker than a normal caster.
+
+“They need relief, start bombardment! Fighters front, and cast!” my brother yelled from behind me, stirring our stunned companions from their daze.
+
+I smiled, I might be able to take Omos in a fight, but he could get people moving in ways I never could. He didn't even seem to try sometimes. I knew for a fact that over previous generations many royal children had fought endlessly, but not us. Never had I wanted to rule anyone, it just seemed like too much trouble. Brother had looked that trouble in the eye and smiled though, taking the duty of his birth without a complaint.
+
+There was no time to think about it though, as the first volley from our casters flew forward, slamming into the back of the carapace covered enemies. The defenders and their little fort hadn't even recognized us arriving, but they looked up now as a wave of spells washed forward, crashing against the wall of chitin that was trying to destroy them.
+
+On day one we'd worked out our method, the casters would aim at the fringes, while I held the center, pushing back with all I could to give them the time they needed. It worked, crabs weren't all that smart after all, and had no tactics to speak of other than 'run at enemy, crush' in their small brains.
+
+The enemy didn't seem to realize our presence fast enough either, losing several of their number, and even more legs, before the first even turned to us. Cold magic prevailed well, and the priestess' bolts turned whole sections of legs into little more than blackened twigs. It all needed time though.
+
+The first of the crabs reached me and gave a quick, but clumsy swipe with its claw. It had taken me a long time to adjust to these things, their movements strange and limbs even stranger to fight, but adapt I had. I ducked under the appendage, the shell on it whizzing inches above my head.
+
+Like a fully armored knight these things were hard to damage, the thick shell equal to even enchanted steel. However, like a fully armored knight, there were weak points. On the first day I'd had difficulty cutting into the joints of their limbs, the odd angles required for a clean slice foreign to me. Today however I sent a thrust up into the place where the claw intersected the thorax, slicing deep and sending a spray of blood out as the crushing weapon went limp.
+
+There was a scream to the side, and I could tell one of the elves had fallen. We were going to lose a few, there was little I could do about that, other than hurry. The other front-liners weren't like me, their bodies not so enhanced by mana that they could move and think with the same speed I could. Attacks that would be minor injuries to me would kill them, therefore I needed to be their protector, their shield as much as I could.
+
+I bobbed and weaved under the crab, striking and slicing. Even giving my best it still took me nearly a minute to dispatch the thing, it having gotten a bit more cautious after my first strike disabling one of its arms. I was methodical, perfect blows topped fast ones in situations like these, and there was no room for error.
+
+The second crab I fought fell much faster though. It had been busy looking at two of the men who'd joined us when I hit it from the side, slicing both eyes off. If they had a weakness anywhere it was those, the viewing organs sitting on little stalks above their... head? Thorax? Whatever. If only they weren't so good at keeping a claw ready to defend against strikes to them we'd have no issues at all.
+
+Once we'd killed our group of enemies I looked up. The elves manning the wall were shouting, some motioning towards a small gate set in it. As one our cadre surged towards the opening portal, a path towards some safety now open to us. I let them pass me, determined to be the rear guard should any more monsters make their way to our side.
+
+As I made it in I took quick stock. Our side of the fort hadn't been the only one under attack. On the far side even as I watched a claw pulled another monster up the fifteen foot high wall, bringing it into view.
+
+I felt a surge of power in me and I moved, charging across the open space in the middle like a loosed arrow, the ground blurring under my feet.
+
+“No, no, no, no!” screamed an elven soldier, terrified and panicking as he brought his spear forward again and again uselessly, the monster cutting it in half with a single movement of its claw.
+
+With a single push upwards I bounded up. My sword led, the lightly enchanted weapon finding purchase where a leg met body. My boots landed against the thorax of the beast, pushing hard and sending it back over the side. To bleed off the last of my momentum I turned in the air, my golden hair flying in a arc behind me before I landed by the man, who now looked up at me with a mix of fear and awe.
+
+“Don't worry,” I told him. “We're here to help.”

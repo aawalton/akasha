@@ -1,0 +1,269 @@
+---
+id: b73125dc-ac71-5b5c-a6f0-dbe132994291
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 573 - Delayed"
+slug: 0073-chapter-573-delayed
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 73
+ownLength: 2601
+unit: words
+ownProgress: 2601
+publishedAt: 2025-06-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2342140/chapter-573-delayed"
+royalRoadId: "2342140"
+markedReadAt: "2026-06-29T19:37:38.009Z"
+---
+
+Tala, Rane, and Terry moved forward toward the burgeoning magical beast, less aggressively than they would prefer.
+
+-I don’t make the rules, I just convey them.-
+
+I know, I know. Tala was still a bit irked by the restrictions.
+
+As Alat had already stated, this fount—and indeed everything in the region—was treasured by gated humanity for the harvests provided.
+
+There was also that the burn-wolves—whose ancestors long ago came from this fount and whose numbers continued to grow with new additions from the same—were an excellent apex predator for the region, keeping other, more problematic, predators from gaining a foothold.
+
+-I was going to reiterate that, yes.-
+
+Over all, the fount provided a constant source of stable magic for uncounted arcanous flora and fauna, and the surrounding region was to be protected at most costs.
+
+Thus, Tala, Rane, and Terry couldn’t go in with their usual… fervor.
+
+-Mistress Ingrit has made a special request that we exercise restraint. Apparently, she went a bit out on a limb to offer us this task.-
+
+Noted. No lines of destruction, no wide-scale dissolution, no collateral damage if at all possible.
+
+-Yes. As I’m sure you are aware, the memories of the encounter will be meticulously reviewed.-
+
+Tala considered for a moment, then sighed. It did make a sort of sense. “I’ll be on mitigation duty.”
+
+Rane looked at her with a raised eyebrow, then simply nodded. “As you wish.”
+
+With that confirmation, she launched high up into the sky, reducing her own gravity so that she maintained that height, even as she continued her forward movement.
+
+As she came close, she drove out a ring of iron spikes, embedding them into the ground around the clearing to give her an unassailable anchor for her aura and authority.
+
+The toad seemed to realize the spikes wouldn’t hit it, because it didn’t even twitch, let alone try to oppose Tala’s actions.
+
+Silly frog. It’s already lost.
+
+-Well, you see, frogs and toads are actually quite different, and this is explicitly a toad.-
+
+Tala sent Alat the impression of a flat stare.
+
+-Fine, fine…-
+
+Thank you.
+
+The toad’s aura was… odd.
+
+It seemed to be fluctuating between very distinctly arcanous—thus barely more than mundane—and somewhere in the Refined range… she didn’t know the term for magical beasts in that advancement range, if there even was a distinct one. In truth, aside from the distinction between arcanous and magical and the difference between magical and god-beast, Tala had no idea what the actual stages were or meant for such creatures.
+
+Regardless, Tala could feel that the toad was somehow working to meld its reality node with that of the entire region that was permeated with the magic coming through the fount.
+
+She was sure that the task it was working on seemed a bit different from its perspective, as it was likely simply working to attune its magic to that coming through the fount, or something like that, but to her? It was somehow actively becoming one with the region.
+
+Fascinating.
+
+-Yeah, I almost wish we could just watch the whole process take place…-
+
+Hmmm… Put in a request?
+
+-For here?-
+
+No, Alat. Put in a request to observe next time there is a known magical binding for a beast. One that is going to be allowed.
+
+-Oh, yeah. That makes much more sense. I’ll submit the request for us to be allowed to observe such.-
+
+…You knew what I meant.
+
+-I always know what you mean. I can also place ideas straight into your head. Our conversations are a facade of overlapping of niceties meant to help maintain your sanity and sense of self without artificially propping it up through mental or memory manipulation.-
+
+…Yeah… let’s pretend I didn’t need that reminder.
+
+-As you say, individual who is definitely not me.-
+
+…I hate you sometimes.
+
+-Self-loathing is often found, and even to be expected, in the truly self-aware.-
+
+Tala decided to stop feeding Alat’s… attitude.
+
+-Rude… but fair. Get back to focusing on the matter at hand.-
+
+The barest moment had passed, and she refocused in time to see Terry and Rane engage.
+
+Her husband shot down, right along the toad’s left side, Force cleaving the back leg free on that side in a single stroke.
+
+Terry immediately flickered in and grabbed onto the frog-leg and flung it away before flickering again to appear in its path, where he caught it and began to devour it.
+
+The frog—toad—for its part seemed… ambivalent to the attack and resulting damage.
+
+Blood fountained out of the severed joint, and Tala imposed her will, keeping the burning liquid from spraying across the surrounding landscape. As nothing opposed her action, it simply happened as she wished, the blood moving and funneling through the portal she opened into her sanctum, to be stored in stasis until Mistress Ingrit found someone who could use it.
+
+At the same time, the toad regrew its back leg at least as fast as Tala could have replaced a lost leg. The act was made all the more incredibly impressive due to the size disparity. The regrowth looked like nothing so much as a blazing tongue of fire flaring forth before solidifying into a fully functional limb.
+
+Well, at least we know why it didn’t much care about losing the leg. Tala’s thoughts held a note of begrudging respect.
+
+-Indeed.-
+
+The whole process did, however, give her a thought. With a flexing of her will, she tried to move the toad into a stone box in her sanctum.
+
+The entire region began to shudder, and Tala instantly stopped. The animal was integrated enough that it couldn’t be removed without either destroying it or severing it from the surroundings.
+
+Well, that’s inconvenient.
+
+Rane continued to cut off chunks for Terry to munch on, and Terry continued to munch, quite content with the arrangement.
+
+Still, the flow of power through the fount seemed more than sufficient for the toad to draw from and maintain itself.
+
+It seemingly remained entirely unconcerned.
+
+Rane finally paused, looking up at Tala before shouting. “May I borrow your authority?”
+
+“Oh? Sure.” She was curious what he would do.
+
+He smiled. “Thank you.”
+
+He then looked at the toad, raising his blade.
+
+Tala felt a pull on the void aspects of Flow and her elk-leathers as soulbound to her. Then her authority and power moved, overlaying what Rane was doing.
+
+It wasn’t that he was controlling her, not really. It was more that she had opened herself up entirely to his wishes, and so she moved and acted exactly as he needed.
+
+He then took a guiding hand over the aura that she’d established and maintained with her iron spikes.
+
+With a long exhale, he stepped forward and swung Force.
+
+The swing was likely unneeded—after all, the blade didn't even connect—but it seemed to help crystallize Rane’s mental model for the magic he was working and guiding her through.
+
+A curved blade of void magic came into being and swept a full circuit around the toad in the blink of an eye.
+
+To Tala’s perception, it completely severed the pre-magical creature from the region, just as void-Flow had severed Eskau Meallain from the arm so many weeks earlier.
+
+The toad roared in panic, somehow sensing that something had changed.
+
+Tala tried to shift it again, but there was still something that made the toad… sticky? That was the closest to the right word that she could think of. She felt like she’d have to kill the toad to move it, and that was what they were going to do anyway. At least I can store it quickly once it’s dead.
+
+Rane was panting and took two staggering steps after his exertion of power and will.
+
+Terry trilled in excitement and flickered forward.
+
+The toad was no longer so blasé about being attacked. Even as its tongue lashed out at Rane, a thick, sticky substance was excreted from its pores, coating it entirely.
+
+Rane’s magics activated, moving him out of the way of the softly glowing, sizzling tongue.
+
+He flipped to the side, rolling in a tight corkscrew before he landed, already lashing out with Force, slashing at the more vulnerable side of the tongue.
+
+Terry was not a fan of the gunk on the outside of their foe.
+
+He slashed it a few times anyway, but after each strike, he took time to pause and shudder despite leaving the slime behind when he flickered away.
+
+Tala called down. “Want an assist? I think it will be cleaner.”
+
+Rane sighed, jumping around a series of lashing tongue-strikes. “Fine. I think you’re best positioned to end it cleanly.”
+
+Tala extended her spellforms and grabbed the frog—toad—easily overcoming its magical weight. The first thing she did was reduce its gravity downward in a mimicry of her old ‘restrain’ spellform.
+
+Then, as the toad began to drift upward, croaking and roaring in confusion as its legs and tongue flailed about, Tala increased its gravitational attraction toward itself, using a free-form ‘crush’ over and over again, massively multiplying the gravitational constant for the interactions among the matter that made up the arcanous beast.
+
+It was actually similar—if much faster—to the process she used to make the siege orbs.
+
+She didn’t let any part of it be exempt, and she purposely didn’t hold the shape of the frog—toad—in mind as she worked. It would be embarrassing if the toad crushed inward only to geyser back outward the instant afterward.
+
+Terry and Rane seamlessly moved to ‘environmental defense’, intercepting the wildly whipping tongue to keep it from damaging any of the surroundings.
+
+Talons and Force met squishy flesh in a random clatter of measured parries.
+
+Then, like a bolt of lightning had struck it, the toad stiffened. A moment later, a series of pops resounded through the clearing followed by a colossal squelch as the beast imploded, becoming little more than a ball of flesh and bone-paste.
+
+Terry pulled back in disgust, and Rane turned to the side, retching slightly before recovering himself and huffing a laugh. “I haven’t missed that aspect of your power.”
+
+There wasn’t a smell, as that would require particles being thrown free, but that somehow made it worse.
+
+It was like simply watching a disaster happen, fully divorced from the visceral experience of it.
+
+Tala didn’t know why her husband felt that way, but she could clearly sense his emotions through their bond as he contemplated the creature’s fate.
+
+Tala let herself fall to land beside Rane even as she moved the ball-of-toad into her sanctum through a quickly opened portal. As the creature was dead—and the spirit had well and truly departed—it gave no resistance. “And, we’re done.”
+
+Rane grimaced. “Yeah… I sometimes forget that you can do that.”
+
+She shrugged. “It required utter aura and authority dominance. That worked in lower grades, because even things more advanced than me could rarely resist well, but now? Everything around our level of advancement has monumental resistance to direct magical effects.”
+
+He frowned. “Yeah, I guess that’s true.” He shook his head before meeting her gaze, seemingly following that line of thought. “Do you regret your choice in magic?”
+
+She chuckled. “Not at all. It’s not as directly applicable anymore, but it is still immensely useful in so many other ways.”
+
+“Gravity shot?”
+
+“Yeah, the gravity shot is great. I have a huge number spinning in a vacuum, ready to be sent forth even as we speak. Few Mages, Arcanes, or Magical creatures have any sort of counter to a mundane hunk of material hurled at them at multiple times the speed of sound.”
+
+He chuckled in turn. “Yeah, and you have your siege orbs available too, and the iron balls?” He shook his head. “Against even a durable creature, you’re filling it full of material fragments that will disrupt any attempts at internal magics. And that ignores the fact that the iron is yours and gives you a foothold within them.”
+
+She feigned nonchalance. “I am rather awesome, aren’t I?”
+
+“Yes. Yes, you are.” He stepped forward, wrapping her up in his arms and kissing her with desire and passion. When they pulled apart an undetermined amount of time later, he smiled.
+
+After a long moment, Tala looked around, feeling a bit sad. “We took care of the issue, but now we’re expected in Bandfast…”
+
+He chucked her chin, turning her face back up toward his. “What do you need?”
+
+“Need? Nothing.” She laid her head against him.
+
+That made him give her a squeeze. “Then what would you like?”
+
+She only considered for a moment. “I think that this would be beautiful at night.”
+
+“Then let’s stay.”
+
+She moved back, looking up at him again. “Really?”
+
+“Absolutely. Let’s set up the sanctum over there, and leave a viewport open.”
+
+She bounced a bit, a wide smile breaking out across her face. “That’s excellent. Thank you.”
+
+“Of course.”
+
+“You sure it’s alright? I know you were looking forward to seeing Mistresses Aproa and Jean, as well as Masters Cazor and Stan…”
+
+“They’ll still be there tomorrow. There isn’t anywhere else that we need to be, and I’ll message them and explain that we were delayed. We can meet up for dinner, just like we planned, only a day later. How does that sound?”
+
+“Perfect.”
+
+Terry was flickering around, examining various burrows, and Tala could tell that he was using his own bloodstar clouds to find which ones held prey.
+
+“Terry.” Her tone held a note of warning.
+
+The terror bird lifted his head to regard her.
+
+“Please don’t hunt these creatures. They are a precious resource.”
+
+He trilled in mild annoyance, then bobbed his head and flickered away, leaving the fount’s influence in search of other game.
+
+Before the couple moved to the hill on one side of the clearing, they both turned to the fount, bowing low.
+
+Rane spoke for them both. “Thank you, honored ancestor, for your gifts of magic to your people.”
+
+Tala thought that she almost felt a mild fluctuation, or ripple of amusement through the exposed soul, but in examining the memory, she just couldn’t be sure.
+
+Regardless, they straightened, and moved a respectful distance away to take their meal and wait for night to fall on the otherworldly space.
+
+They passed the afternoon and evening together, playing games, reading books, sparring, chatting, and just being together in every way they could.
+
+They were rarely apart, but that often seemed to translate to them simply being nearby rather than intentionally being together.
+
+It was a truly enjoyable little respite among the hecticness of the trip and their lives in general at the moment.
+
+They had nowhere to be, nothing that they had to do, and no one they had to consider beside each other.
+
+They lay entangled, looking out on the landscape as the sun set off to the left of their view-portal out onto the landscape. The opening was magically controlled so no light escaped, maintaining their privacy in the very unlikely event that some sapient creature wandered by.
+
+Every moment of fading light made the inner glow within everything around them more and more clear, and they both stared, enraptured.
+
+Color rippled across the landscape in lazy patterns, sometimes shifting with the wind, other times spiraling or twirling perpendicular or even counter to it.
+
+Sometimes those colors moved through the red to yellow part of the spectrum; sometimes they jumped to blue or even white briefly, but always the display was mesmerizing.
+
+They didn’t sleep at all that night, and they just took the time to be, and to be together.

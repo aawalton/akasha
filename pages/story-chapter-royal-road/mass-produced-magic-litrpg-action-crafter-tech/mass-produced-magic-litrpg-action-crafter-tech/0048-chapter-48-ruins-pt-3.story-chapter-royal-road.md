@@ -1,0 +1,197 @@
+---
+id: 3cccbd0d-f1ed-5f22-9246-bb1488567c49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48 – Ruins – Pt 3"
+slug: 0048-chapter-48-ruins-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 48
+ownLength: 1895
+unit: words
+publishedAt: 2025-01-18
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2017541/chapter-48-ruins-pt-3"
+royalRoadId: "2017541"
+---
+
+Kindra looked at the staring dwarves. “That was a soul.”
+
+“And the person next to it?” Gleon asked.
+
+“Death.” Kindra shrugged. “I think he’s a god or something.”
+
+“Death,” Tilly whispered. She looked up at the tunnel and clasped her hands together, her eyelids drooping shut.
+
+Is she praying? She has to be.  Kindra looked up.  He can answer. Will he?
+
+[I do get a lot of them and answer a few. ~Death]
+
+Huh.  Kindra peered past the praying dwarves, looking into the tunnel. Loose gravel littered the area. She studied the gravel, looking at the glowing pebbles and feeding mana into her skill.
+
+Several pebbles lit up.
+
+[Elemental Earth - This earth was infused with the magic of an elemental. It may be of use to several crafters and a few gardeners.]
+
+[Elemental Iron Shard - This iron was infused with the magic of an elemental, potentially allowing it to become a magical creation.]
+
+Kindra darted down the hall. She scooped up the pebbles, stowed them, and grabbed a perfect sphere of glowing metal.
+
+[Elemental Core - This was the core of an elemental and has a variety of uses.]
+
+“Elemental core,” Gleon said. He stepped forward. “Do you know more about Death?”
+
+“He came to collect the elemental’s soul after telling me to break the magic keeping it here.” Kindra swallowed and met his gaze. “Gleon, why would he ask that?”
+
+Gleon glanced at the other two and back at Kindra, a strange look on his face. “I’m unsure.”
+
+“How did she kill it?” Tob interjected, stepping forward. He frowned and looked at her hair before turning to Gleon. “Who is she, really?”
+
+“Just a dwarven lass who survived the attack,” Gleon replied, sighing and heading down the hallway without another look.
+
+Kindra scooped the last stone and scurried after him.  What is he not saying?
+
+“But how did she kill it?” Tilly insisted.
+
+Kindra turned and shrugged. “I could see it. I don’t know why, but Death said I could end its hold on the orb.”
+
+“And it claimed to be a king?” Tilly asked.
+
+Kindra nodded and followed across the stone-covered hallway. Dust hung in the air, and her nose crinkled.  Don’t sneeze.  Clamping her mouth shut, she followed Gleon down the hallway to the crack. A small breeze washed through the crack, and a growing sense of wrongness filled Kindra’s nostrils.
+
+“I think there is another elemental down there.” Kindra gestured.  I’ll ask him about this later.
+
+Gleon peered inside. Stowing his weapons, he lowered himself down, free-climbing the rock wall. Kindra waited and looked over.  “Aika, can you scout it for me?”
+
+“Yes.”  Aika zipped inside.  “What really happened with that thing?”
+
+“I ripped the mana from the elemental. Death said it would kill the elemental, and it did.”
+
+“Good. There is something wrong with them—oh, this is a mining tunnel and not far.”
+
+Tob gestured to Kindra. “After you.”
+
+“Thanks.” Kindra walked to the ledge and peered down. Aika flew up and gestured at hand-holds. Reaching out, she grabbed them and began a slow descent, her heart thundering in her chest.  Dumbest thing I’ve ever done—well, if I exclude the choice to leave Earth… Earth.  A surge of emotions spiraled through her. People she’d lost. Places that were out of reach.
+
+Forcing the thoughts away, she lowered herself down, her fingers digging into the stone and perspiration spreading across her brow.
+
+Shoving her foot into a crack, she moved her hand, and a stone snapped. Her foot jerked free, and her weight slammed against the handhold. Rock dug into her skin. She smelled the metallic scent of blood and grimaced.
+
+Reaching down with her foot, she shoved it into a crack and forced herself to put weight on it. Reaching down, she moved her hand, wedging it into a crack.
+
+“Alright up there?” Gleon called with a soft chuckle.
+
+“I’ll throw a rock at you,” Kindra replied, clutching the stone and moving her other hand, leaving a small trail of blood on the stone.
+
+She lowered down her foot, and a hand steadied it.
+
+“Got you,” Gleon said with a smile. He plucked her off the wall and placed her on the ground.
+
+“You’re reckless,” Kindra said, taking a long breath and looking at her fingers.
+
+“Little bit. We weed to ensure you get some good skills and a good secondary class.” Gleon chuckled and turned.
+
+Aika fluttered out in front of him, and Kindra peered down the tunnel.
+
+“Is this a mining tunnel?” Kindra stepped inside of it and searched. A sulfuric smell lingered in the air, and a shiver ran down her spine.
+
+“Looks like it.” Gleon walked into the tunnel.
+
+Tilly landed with a soft thump and patted Kindra’s back. Kindra followed the group into the tunnel and walked down the hewn stone, slowly heading deeper into the ground.
+
+The scent grew, and the air grew hot. The sound of footsteps filled the air, and Kindra moved cautiously down the mining shaft, circling downward.
+
+The tunnel suddenly opened up. The sound of stone, feet, and chatter filled the air.  What is that language?  A burst of heat washed into their tunnel, and the dwarves stopped.
+
+The heat grew, and Kindra stepped back, moving away from the entrance.  “Aika, what is it?”
+
+“Some living fireball or something. It’s strange and doesn’t make sense.”
+
+Kindra scrambled backward.  How do you fight a living fireball? Chuck magic at it?  She shook her head and looked at the dwarves. A large glob of fire appeared, and a flaming arm reached out. Tob’s hammer glowed and smashed into it. Fiery blood that looked like lava splashed on the ground.
+
+This makes no sense. Magic makes no sense.  Kindra took another step back and studied the runes blazing around the creature. It surged forward, flames washing into the tunnel.
+
+Gleon met it head-on, his glowing axe ripping into the elemental. The lava-like blood hit the ground with a sizzle.  How do I help?
+
+Kindra pulled out her crossbow.  Would this even work?  She moved to the side of the tunnel, and a burst of fire engulfed Gleon.
+
+She fired, and he burned. The smell of burning hair filled the air, and the bolt sunk into the elemental. Fiery blood oozed out of it, and Gleon burst from the flame. With the grace of an enraged lumberjack, he hacked into the creature while his beard burned.
+
+Uh oh.  Kindra loaded another bolt, and Tob went wild, slamming his hammer into it. A wave of magic gathered around the elemental, building like a storm. Runes danced into view, and Kindra felt the counter snap into place.
+
+Burning mana, she let it go. A burst of icy water crashed into the elemental. Steam erupted. The spell snuffed out, and the dwarves rained blows upon it, sending streams of boiling blood spraying across the room.
+
+The elemental spun, rotating itself like a living ball of fire. It manifested an arm, and Gleon hacked it off. The fiery blood fell onto him, reigniting his beard. He unleashed a stream of profanity that Kindra failed to understand.
+
+Loading another shot, Kindra aimed for the glowing mana in the sphere and fired. The bolt sunk into it. A clang rang through the air, and the elemental lashed out wildly, fire blazing everywhere.
+
+The dwarves slammed weapons into it, cursing it while their beards smoldered. Ratcheting in another shot, Kindra chuckled and watched a green surge of magic hit the two dwarves, washing away their wounds.
+
+Tilly is good at that.  Kindra ratcheted in another shot, and molten blood sprayed across the floor, hissing while it cooled. The elemental lashed out, and a hammer crashed into its chest. Blood sprayed everywhere, and a loud crack rang through the air.
+
+Kindra watched the magic of the elemental come undone. The glowing gem inside its chest dimmed, its mana flooding the air. Kindra reached for it, and something connected to her mind.
+
+“Please,”  the voice whispered.
+
+Kindra paused.  “What?”
+
+“Please end this torment. Set me free. I can’t—not anymore.”
+
+“Can’t what?”
+
+“Serve him in this way.”
+
+“Serve who?”  Kindra frowned.
+
+“The fallen king. He remains, like so many of us. Please… He’s pulling.”
+
+Kindra watched magic surge into the room. It grabbed onto the spirit, and she ripped the magic free, pulling it into herself. A glowing presence flowed upward.
+
+“Thank you.”  It vanished.
+
+Kindra swallowed and looked at her mana.
+
+[Your mana has increased: 4930  →  5521]
+
+I should level. It’s only 180 mana.  She looked at the dwarves.
+
+Aika fluttered forward. “No more fire guys. They’ll burn my wings.” She scowled.
+
+“Kindra should level,” Gleon said, peering around the corner.
+
+Kindra nodded and turned her focus inward.  Let’s see. I’m level nine. What were my stats?
+
+[Speed: 12.]  ‎ [Intellect: 16.]  ‎ [Dexterity: 12.]  ‎ [Strength: 12.]  ‎ [Stamina: 10.]
+
+She willed her mana inward.
+
+[Your mana has decreased: 5521  →  5341]
+
+[Your level has increased: 9  →  10.]  ‎ [Your intelligence has increased: 16  →  18.]
+
+[Please select four attributes to increase.]
+
+Well, stamina is the lowest, and I’m bleeding. I should boost that and some strength.  Kindra selected them.
+
+[Your strength has increased: 12  →  14.]  ‎ [Your stamina has increased: 10  →  12.]
+
+[Please select an upgrade:  ‎ - Familiar Specialist: You may create additional mechanical familiars; these gain one-tenth of your stats and require ten times your level in mana each day.  ‎ - Replication Specialist: Transmutation may be used to create a copy of items you don’t understand.  ‎ - Ammo Specialist: You may augment items so they produce temporary ammo that fades after being fired.  ‎ - Battle Specialist: Enhancement effects are doubled for you and your familiar.  ‎ ]
+
+Kindra looked down the list and began vetoing.  Ammo specialist? That has use, a lot of use. But does it scale upward forever? Can I make a rocket launcher and get free rockets? I could make a perpetual energy machine!  A giddy smile spread across her face.
+
+[Ammo Specialist update: The enhancement fades after a variable number of shots depending on the mana used.]
+
+She sighed and looked at the others.  Battle is good. I could augment myself. Replication? I can do that anyway. I understand everything except runes, and I’ll figure them out.  She looked at the top.  And those would be useless in combat, but I won’t use them for that. I’ll use them to automate things.  She grinned and picked it.
+
+[Familiar Specialist selected.]
+
+Smiling, she looked over at Aika.  “Get anything good?”
+
+“Just an attribute boost.”  Aika flew over with a grin.  “And I can upgrade my suit again.”
+
+“We’ll get more mana and some metal.”  Kindra looked back at the dwarves and nodded. “I hit level ten.”
+
+“Keep in mind that what you do will impact it. So I advise against going too fast,” Tilly said, patting Kindra’s shoulder on her way by. “Most kids level twice a year while pooling for the future.” She walked up and inspected the two dwarves, a smirk spreading across her face.
+
+Kindra looked at the two. Gleon’s long beard was now short, a few inches at most. She laughed. He looked at her and scowled.
+
+Aika burst into a fit of laughter. “Your precious beard, gone, just like that,” she wheezed.
+
+Gleon scowled at her. “Get over here, you little demon.”

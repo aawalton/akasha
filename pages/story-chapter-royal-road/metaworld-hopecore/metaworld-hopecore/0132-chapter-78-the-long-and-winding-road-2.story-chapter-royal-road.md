@@ -1,0 +1,141 @@
+---
+id: e0ecb707-71a5-593a-8d30-a69a59556673
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 78 - The Long and Winding Road (2) "
+slug: 0132-chapter-78-the-long-and-winding-road-2
+partOf: metaworld-hopecore
+position: 132
+ownLength: 1697
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3692019/chapter-78-the-long-and-winding-road-2"
+royalRoadId: "3692019"
+---
+
+With a gentle cough, the friendly docent informed Eppie that the crowd was coming. Eppie dried her tear stains before Vaughan’s guests entered. Next time, assuming there was a next time, she would need waterproof eyeliner.
+
+The doors opened. The conversation arrived before the bodies, pooling around the pair like water finding a level, filling the circular room.
+
+She recognised all the faces now; the people she should have been performing I Look Up as I Cry for, had Valorie not attended.
+
+Trent Davis. Frederick Curon. Alan Nakamura. And her “boss’s boss”, Takashi Oribe, with his private translator.
+
+Francis Sanders entered with his daughter. Valorie positively glided, moving as if weightless, bringing a smile to Eppie’s lips.
+
+Juliana was now joined by Mirabelle, and they motioned for her to attend to them. Kiritani released her like a dove, and she drifted toward the two outrageously tall women to stand among them like a rather striking pheasant among cranes.
+
+“Five decades.” Vaughan’s voice filled the room without effort, and the guests quietened immediately. “For five decades, Kiritani Sensei carried our hidden history with his own two hands, mapping our neglect on the found canvas of our consumerist leftovers. But tonight, we have lit a torch—a torch of revelatory reality, and dropped it down the dark well of American history, lighting up the past.”
+
+A docent approached Kiritani and helped him into the centre of the display, where his final work would soon be seen by hundreds of thousands of visitors—the most important of which would be the survivors of the unjust incarceration and their families.
+
+“By claiming custodianship of this injustice,” her not-Sensei continued. “We have taken the first step to ensuring that such horrors will never again set foot on our blessed American soil!”
+
+The room burst into applause, while Eppie felt a shiver run down her spine. In 2032, not only had internment camps for “illegals” become commonplace, but they had ceased to be newsworthy. The struggles of the middle class, the housing crisis, the cost-of-living crisis, and the fuel-cost crisis were far more salient to the average American than the rights of people with complexions a shade too dark for the anxious voter.
+
+Kiritani stepped forward. “Thank you,” he said in English, then bowed. A full, formal bow, the kind of movement that was impossible for at least one-fifth of the guests.
+
+The applause that followed was warm, genuine, the kind that comes from people who, at least in this moment, meant it with all their heart.
+
+Eppie watched Juliana’s eyes catch Curon’s, watched the exchange between them, and then Juliana cleared her throat.
+
+“Ma Dauphine.” Her voice rose above the congratulations. “Was there something you'd like to play? As per our former arrangement for Vincent?”
+
+Eppie stepped into the limelight.
+
+She did indeed have a song to play.
+
+Her faux-father was moving before Eppie finished presenting herself. He ducked out of sight, then returned ten seconds later with a heavy guitar case from a docent. On his knees, heedless of his own optics, he popped the box and handed her a Martin D-35 as if he were the Lady of the Lake.
+
+The crowd made space for Eppie, then was delighted when she raised a white arm and welcomed Valorie into the fold.
+
+Eppie had expected Valorie to be blushing furiously, but the moment the metaphorical curtains opened, Val’s entire demeanour transformed itself into that of a professional actress.
+
+Val was coy—but she was in no way stage shy.
+
+That’s our Valorie… Eppie smiled to herself as a docent brought her a stool. Curon helped her up so that Eppie could sit with her legs crossed and her heels dangling, her Martin D-35 nested comfortably against a raised thigh. Most of the folk present knew that she had performed "Starry Starry Night" live for Vaughan in the past, and that was how teacher and student had met.
+
+What they did not know was that Eppie wasn’t the star tonight.
+
+She tuned the guitar, aided by [Perfect Pitch], achieving the desired resonance within a few simple twists of the pegs.
+
+“This is a song… about reconciliation, compassion, and letting go.” Eppie’s voice filled the room, taking advantage of the circular structure’s acoustics.
+
+“It has no explicit title,” she added, flashing the crowd a dazzling smile, which, combined with her smeared cat’s-eye makeup, made them all feel inexplicably sympathetic to this slip of a girl. “The song will have a modified license. Anyone can sing it. To their loved ones. To the lost ones. To a friend long gone, to a mother, a son, a daughter… a father…”
+
+Her fingers struck the strings.
+
+The F rang clean, unhurried, exactly as simple and honest as she had promised. Then the second chord, B-flat, dropped beneath it like a breath released. Her fingers found the shape without thinking, restoring lost music to a happier, unsuspecting world.
+
+Valorie's breath caught beside her, sensing the emotion before it even manifested.
+
+Together, the melody emerged, timeless and enduring—five notes, stepwise, unhurried, stirring a wave of nostalgia the listener hadn’t known existed.
+
+Eppie opened her throat to song, her eyes resting on Valorie.
+
+“Hey Val…”
+
+Eppie’s opening verse left her chest with a sonance of compassion, dismantling the wall of misunderstanding between them with every succeeding note. She sang of Valorie’s unbidden feelings of desperation and insecurity dissolving into understanding and betterment, wishing that her friend’s winter would thaw into spring.
+
+From stage to audience, father and daughter regarded one another, tethered by blood, tested by grief. Eppie watched them both without breaking the beat: Valorie first, whose carefully composed face had cracked wide open at her name, her persona dissolving as her eyes grew glassy.
+
+Francis’ practised political stillness slipped for only a second, his striking green orbs staring at his daughter in awe, seeing yet another side of Valorie he had neglected.
+
+Then his face recomposed to its usual polite appreciation.
+
+Just you wait, old man… Eppie’s fingers continued to play, her [Vocality], [Perfect Pitch], [Songstress], and [Sublime] firing at once. After a second, she added in [All the World’s a Stage] for good measure, because Valorie might just make use of her musical theatre talents as well.
+
+She repeated her verse for Valorie twice, the second with minute variations in pitch and tone.
+
+Unbidden, her audience grew dreamy. With the amount of [Causality] she was spending, anyone who wasn’t a music critic, such as Curon or Davis, was already drawn to the simplistic progression of her siren’s song.
+
+Through the bridge, her audience moved as one, a shoulder here, a head tilting there, the song’s effect spreading like a yawn. Vaughan, Mirabelle, the Met’s donors, Sony’s bigwigs, grew subordinate to the hypnotic tune from her Martin D-35. Curon looked so absorbed that he lay his head next to Juliana’s shoulder, only to be met with a sobering whip from her shoulder-length hair. The translator at Oribe's elbow had stopped translating and just hummed.
+
+Eppie knew that her choice had been correct. This song—this tune—two chords and five notes—spoke to the soul.
+
+Her verse ended. Kiritani Sensei gave her a subtle nod. She nodded back.
+
+Now, it was Valorie’s turn.
+
+Her friend’s voice did not have the supernatural quality that Eppie possessed. Unlike Eppie’s, which truly did resemble a songbird, Valorie’s was theatrical, operatic, thick and low and resonant like smoked whiskey.
+
+Her white arms, far longer and more expressive than Eppie’s, reached out into the crowd, as if pulling Francis Sanders to the fore.
+
+To Eppie’s [Perfect Pitch], Valorie’s voice felt warm and carried the hue of a rich, rose-tinted moscato. She watched Valorie's throat work, watched her hands clutching the side of her dress, watched Val release a part of herself that had been festering for years.
+
+“Hey… Frank…”  The free-form lyrics, by Eppie’s reckoning, were sung from the perspective of Val’s mother.
+
+Here was Val’s tragedy: a perfect daughter who had never enunciated her feelings, because it would make her father look weak. It would make him look neglectful; it would ruin his perfect image as the capable Senator. Valorie Sanders, who had been putting on a face since her mother died and her father withdrew, now performed with no mask at all.
+
+By the second verse, Val was cry-singing. She begged her father to be allowed back into his heart. Her [Vocality] sucked. But her emotions… were beyond doubt.
+
+Eppie kept her own hands moving, mellowing the strums beneath her fingers rather than competing with Val, letting Valorie's voice fill the room.
+
+She didn’t need to look at Francis again.Valorie’s horrible second verse had stolen his mask and fled down their family’s cul-de-sac, leaving him with only the memories of a mischievous daughter up to no good, before she became… perfect.
+
+Eppie watched Valorie's chin lift, just slightly, on the last word of her verse before she would repeat once more, just to… Eppie supposed… drive the point home.
+
+“Hey… Dad…”
+
+The repeat came softer than the first.
+
+The teenager with a woman’s body became a girl asking to be let back in. The rest of the verse was identical. The distance they had to travel was not.
+
+Francis Sanders’ stillness was gone—his practised jaw, the diplomat’s half-smile, all of it sliding off, revealing a widower who had spent eight years avoiding his childhood sweetheart’s face. He held the room’s eyes long enough to keep his composure, aware of the photographers, but his gaze never once left Valorie.
+
+In the final verse, Eppie mellowed the strings to almost nothing, letting Valorie carry the last words alone.
+
+The song ended not on a flourish—not on its famous four-minute coda—but on a single breath.
+
+The applause held. The audience—Eppie included—was waiting for what came next.
+
+Eppie returned the guitar to its box, then rejoined her sensei, who held her hand with profound admiration and relief.
+
+And then it happened, just like in the movies.
+
+In that gallery, surrounded by a celebration of reconciliation, Francis Sanders embraced his daughter, in public, and allowed her to cry on his shoulder.
+
+Eppie looked at her own father.
+
+Curon gave her a thumbs-up.
+
+For now, Eppie supposed, forgiveness had won the day.

@@ -1,0 +1,199 @@
+---
+id: aafede01-409e-5780-ab4f-caed9c4f3939
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - I Know Things Now (2) "
+slug: 0058-chapter-31-i-know-things-now-2
+partOf: metaworld-hopecore
+position: 58
+ownLength: 2513
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376618/chapter-31-i-know-things-now-2"
+royalRoadId: "3376618"
+---
+
+Contrary to all their expectations, Eppie was no stranger to being shot with a camera. She seemed to know her way around a studio shoot. This was because, as Lana, she had indeed experienced this in the past, first in industry magazines, then for Forbes in her twenties, and finally for Times Magazine in her thirties.
+
+Inside the vaulted-ceiling warehouse, the man behind the lens introduced himself as Dov Mizrahi, the chief photographer and founder of the studio. With his ponytail, turtleneck and skinny jeans, he was every inch the art circle elite with a taste for ceremonial grade Matcha. Hair and makeup were overseen by Lena and Bree. Wardrobe was from the client-side, meaning Sony, consisting of Madeleine “Maddy” Filmore, Ray Okamoto from headquarters, and Petra Voss in charge of her clothes.
+
+Their tertiary client was a middle-aged woman called Diana Mercer, the Photo Editor of the supermarket teen magazine called “Seventeen”.
+
+Drawing on her [Charisma] and [Business Acumen], she delivered appropriate compliments in English and Japanese, especially bringing incredulity and joy to the face of Vice President Okamoto.
+
+On set, Dov explained their work for the next nine hours.
+
+There would be three sets. Set A was what Lana called the specimen shot. It was a white cyclorama set shot with a four-four octobox, with minimal costuming and makeup. These were what Sony needed for its future promos, internal files, and press kits. Dov said he will likely produce about 60 to 80 images, and Sony will pick about 6.
+
+Set B was for Diana Mercer. The Magazine had its own brief. When she briefly spoke to Diana, the Editor explained that their audience was teens like herself and that the article would serve as inspiration for young songwriters and artists. She would observe Eppie working on Set A, then decide on an appropriate costume with Petra.
+
+Set C was for something wholly unique. Sony had promised LAPA a collaboration promoting the school, but they had one glaring problem. LAPA has no official uniform. All it had was semi-official merchandise. Consequently, Dov had arranged for a faux black-box setup and a rust-hued cyclorama that seemed to mimic a padded music room.
+
+Once the tour was completed, it was time for action.
+
+Set A wardrobes could not be white or dark, lest it screw with the results on the tethered monitors. Sony wanted a picture of her with a guitar, and one without, but what they wanted most of all was something that drew the viewer’s gaze to her face. For the guitar profiles, Petra picked a rose-knit sleeveless top and flared jeans the same hue as her eyes. The high waist accentuated the aesthetic proportions of her contoured lower body, making her look a bit older than her actual age. She wore no jewellery and was given comfortable ballet flats. For no-guitar photos, she changed to a salmon-hued textured blouse that accentuated her exposed abdomen. The same jeans gave her legs room to breathe.
+
+Makeup took all of ten minutes, and most of it was spent on her hair. With her [System] assisted skin condition, all she needed was a thin luminous foundation, a smidgen of concealer, and a brief contour to make her look older. Lena flattened and tamed her hair.
+
+“Berry naisu!” Okamoto-san heartily approved. “Kirei desu ne!”
+
+She moved into place, and Dov positioned his Hasselblad H3D toward her, its 85MM shooting as low as f/1.2. At its lowest stop, the background turned into churned cream, cutting her visage from the air.
+
+Eppie struck a neutral pose. [Act Natural] [Hitting the Mark] [Love the Light] all fired at once.
+
+“Ready?” she asked, guitar slung across her shoulder.
+
+“Ready?” Dov replied from behind the viewfinder. “Shouldn’t I be saying that?”
+
+She launched into In the Pines. Not the lyrics, just the acoustics. From the classic guitar, the sound of sorrowful, bleak, old Appalachia flooded the studio.
+
+CLICK—CLICK CLICK CLICK CLICK—
+
+The Hasselblad workhorse drank in the light, its electronic eye sending the vision of a girl playing the guitar via Firewire to the Macintoshes whirling at the command studio.
+
+Eppie paid little to no attention to the lens, or to Dov, allowing her [Traits] to fully manifest their potential and testing whether her hypothesis was truly correct.
+
+Two rounds and about eight minutes later, her In the Pines extended version was done, and she returned to neutral.
+
+“How was it?” She looked at her photographer. “One more?”
+
+Dov stood with Okamoto at the studio station together with Dov’s assistant, checking the images. They look at the monitor. Zoom into the images, look at Eppie standing on the cyclorama, then look at the monitor again with strange expressions on their faces, as if she had sprouted horns.
+
+“Umm…” Eppie’s skin crawled. “Are you guys okay?”
+
+Dov had nineteen years of photography behind his eyes. From Bosnia to Los Angeles, he had shot a great deal of people under a great deal of circumstances—but he had never done something as technically eerie as what he was seeing now.
+
+In Dov’s experience, every subject started stiff, regardless of their experience. This was more so for children and small animals. It took about ten, maybe twenty frames for people to relax. This was to Dov, a universal constant, like death and petrodollars.
+
+When he shot the girl, however, it didn't happen. She stepped onto the curved paper wall, and she just started playing the guitar like he wasn’t there. He shot, waited for her to act up, and then it never happened.
+
+After the first thirty seconds, he looked at Eddie on the studio monitor.
+
+Thumbs up.
+
+He shoots again.
+
+Thumbs up.
+
+Dov began to realise the problem.
+
+At 85mm f/1.2, even at portrait distance, there was about a thumbnail’s worth of depth of field. He shot fast because, in thirty pictures of a moving subject, one picture in perfect focus was normal. It’s not magic, it's physics. It's just how the light works at maximum aperture.
+
+Two minutes in, after about forty frames, he looked to Eddie again.
+
+Thumbs up. Everything’s sharp. Boss, you’re on fire.
+
+Dov wondered if the man was blinded by her good looks. He went to look.
+
+Everything was sharp.
+
+What the fuck is going on?
+
+Dov goes back to shooting. The picture looks great in his head. They look great on the screen. They’re in focus. They’re in focus almost 90% of the time. The girl wasn’t even staying still. She was swaying this way and that. The guitar drifted in and out of perfect focus, but her eyes, whether open or closed, were NEVER out of focus. The lens was keeping up, his body was keeping up, and they had somehow become a perfect machine.
+
+Dov moved himself, taking her pictures from different angles. He played with the softbox lighting.
+
+At the 5-minute mark, he moved the soft box 6 inches. He picked up the camera.
+
+AND THE GIRL MOVED. He watched with wonder as she moved back a step so that the lighting became once more the exact vision he had seen in his head. When he took the pictures again—
+
+Thumbs up. Great work, boss! On fire!
+
+Eight minutes later, the song was finished.
+
+Dov was dumbfounded. His hit rate, he felt, was well over 85%. That had never happened before. It hadn’t even happened while he was doing macro photography of stationary products.
+
+“Good job!” he said drily.
+
+Besides Eddie, Okamoto was already picking out the images. He had picked twelve already, and they weren’t even halfway through.
+
+Were they done? Am I done? He looked at Eppie, who packed away the guitar and readied herself for the next shoot.He looked at Okamoto, who was giving him big smiles and big thumbs up with both hands.
+
+"Bijin desu ne!" The man shouted. "Berry good! Dog-san!"
+
+I guess? He told himself, feeling suddenly guilty. I guess we’re done?!
+
+Wordlessly, Diane Mercer watched the studio staff change the setting and lighting to Set B for Seventeen magazine.
+
+Sony’s corporate shots took an hour, with no re-shoots.
+
+In all her six years of working as an Editor, she had never seen an amateur show up, shoot, and leave the cyclorama with everyone smiling without taking up the entire time allotment and more.
+
+It wasn’t something that would make the news, but everyone in the studio knew that they had stumbled upon something, or someone, who was built from a premium factory, running on premium software...
+
+Sony’s wardrobe brought out the three costumes they had agreed on.
+
+The first look was streetwise, dark-washed skinny jeans, ruby-top with a v-neck plunge, cream belt, gold earrings, and the latest Adidas Superstars.
+
+The second was a printed cotton knee-length floral-and-olive dress with a tight bodice and a cream cardigan. White Vans.
+
+The last was a high-waisted A-line minidress in teal, a china-doll ribbed tank, halter neck cut, with earth-coloured sandals from Zara.
+
+The girls gave the okay. Her request, Sony had said, was nothing expensive, nothing sexual, and nothing that would promote inappropriate body image. The final account made no sense to Mercer, who understood her readers' mentality very well. Euphemia Fontaine was a perfect fit because her figure was toned and developing, but not outrageous in any way. What the girl possessed more than anything was symmetry, contour, and proportion. She was aesthetic in the same sense that a feline was beautiful and alluring, drawing the eye in the same way as a panther’s svelte silhouette. Different parts of Eppie’s look were attainable by her readers, but the proportion? That could only be a gift from God.
+
+Dov shot all three looks over the next two hours, only because they had so much time for make-up and hair that they might as well take advantage of it. He used a wider lens for the set, a 50mm, which gave him half bodies and full bodies, depending on Eppie’s poses.
+
+Even so, the lens was glued to her face. Everything was in focus.It was only when he stopped the framerate too low that there was some blur, bringing back a little sanity to Dov’s process.
+
+Thumbs up.
+
+Thumbs up. Great work,
+
+Thumbs up. Great work, Boss!
+
+"BERRY GOOD MR DOG! BERRY GOOD!" Okamoto sounded like a broken record.
+
+After a while, Dov stopped checking in with his assistant and just shot to his heart's content.
+
+At 1 PM, an hour early, they were done.
+
+Diane Mercer had her shot list, her wildcard, and two additional frames for the Art Department to fit in. She shook their hands and gave Eppie a hug after asking for permission. Dov promised to send the edited photos tomorrow, because there really wasn’t much to edit other than minor makeup issues, problems with the mid-quality clothing, and Eppie’s preference for theatrical posing.
+
+Petra pulled out the wardrobe rack for Set C.
+
+“Wait!” Dov stopped them. He had done so little work that he was sure Sony would question the billable hours. “Let’s break for lunch. I got rolls and sushi for everyone.”
+
+Set C.
+
+Eppie slipped into the new leotard with the LAPA logo, marvelling at the quality of a garment that only now exists because of herself.
+
+From here on out, Petra told her, that’s what you wear to the theatre. There are three sets for you in the trunk. They’re a gift from the Director.
+
+The custom leotard, said to be made by Sony’s costume department, was a darkened, matted teal based on Van Gogh's Almond Blossoms, the very song that brought them here. As she examined herself in the mirror, she couldn’t help but thank K-Mart for keeping her clad for the last few months before she finally stepped into the tier of comfort she was once accustomed to.
+
+From the top, the upper section was a tight crew-neck fit that hugged the throat, below which was a sheer, breathable mesh that dissipated heat while hinting at the dancer’s collar bones. The leotard was shouderless, leaving her arm lines bare from the base of the neck to her fingers, giving her total freedom. Below the bosoms, a high-wasted elastic construction extended the leotard into a set of ankle pants that stretched and fitted her easily. On her right breast, a subtle matte gold font spelt LAPA, with the same gold making an appearance near the trims to add to the contour lines.
+
+Bree did her makeup for the third time, adding to Set B by giving her a theatrical makeover, adding gold to her eyelids, glitter to her skin, and darker mascara.
+
+Dov looked tired as he directed her onto the makeshift black box with far too much expensive lighting equipment on all sides.
+
+“Perform a scene,” he told her. “Do what you normally do in theatre, from the beginning.”
+
+The man had switched to a 135mm. Finally, he was interested, VERY interested, in her face.
+
+Eppie began on the floor, becoming neutral.
+
+From there, she moved through Costello’s warm-ups, Seyrova’s movements, and Cooper’s voice until finally, she showed Dov the true face of Antigone’s Bride of Death.
+
+At 3 PM, hours before he was expected to finish, Dov decided he would help the others pack the equipment for the day. Usually, they were so far behind schedule that it was normal to leave hundreds of thousands of dollars' worth of equipment out in the open or stashed in a corner.
+
+He had never had clients decide so readily that they were satisfied and that they had other places to be.
+
+For Set A, the presser headkit, Okamoto picked three frames for socials, three for promotion, and two for internal, as was the package ordained.
+
+For Set B, Mercer settled on her shortlist, then left to chase up her typesetters. The rest of the photos, if Sony wished to purchase them, were avilable for a discount. In her three styles, Eppie was a warm, versatile, accessible girl-next-door. It would sell, even though she wasn’t a pop star.
+
+For Set C, he had to pick eight and send them to the Principal of LAPA, though strangely, the email he was given said VP Thomas. These were the most unusual. These, Dov decided, were his favourites.
+
+He was packing his 135mm when the girl, still dressed in her leotard, ducked her head into his field of view. She thanked him for everything and hoped that they would work together again.
+
+“Anytime,” he said seriously, then called her back before she left. “Eppie, was that your first time?”
+
+“I don’t think that’s an appropriate question,” the girl replied cheekily. “But yes. First shoot ever.”
+
+It took Dov several seconds to catch the mischief, and he laughed.
+
+“Well.” Dov wasn’t sure what to say. Nineteen years in conflict zones and commercial studios, and now there was something he couldn't explain. “... Good luck. Let's shoot again sometime.”
+
+"Thanks for the Karma", she had said something nonsensical, then she was gone.
+
+Dov raised a hand without turning around. It wasn’t goodbye, because he still had a hundred odd Eppies on his screen, awaiting their chance to shine.

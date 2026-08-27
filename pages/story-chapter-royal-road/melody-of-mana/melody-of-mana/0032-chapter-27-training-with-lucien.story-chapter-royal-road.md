@@ -1,0 +1,149 @@
+---
+id: f4999b33-f199-587c-8b7a-cceca1da694b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 Training with Lucien"
+slug: 0032-chapter-27-training-with-lucien
+partOf: melody-of-mana
+position: 32
+ownLength: 2290
+unit: words
+ownProgress: 2290
+publishedAt: 2021-07-18
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/718313/chapter-27-training-with-lucien"
+royalRoadId: "718313"
+markedReadAt: "2026-06-29T22:27:20.438Z"
+---
+
+Step one on improving my magic was to talk to Lucien. I didn't know what all he could do, but he easily qualified as more experienced than I was when it came to magic. After one of my first shifts seemed as good a time as any.
+
+"You're fighting an uphill battle there." Was what he started with when I explained that I wanted to add offense and defensive spells to my repertoire.
+
+"How so?"
+
+"Well, let's start with exactly how you're going to go about fighting with magic. What are your ideas?" He led me out back to the alley behind The Sky. It was fortunate that we had almost no customers in the early afternoon.
+
+"What about something like a water or ice cannon? I already know the spells to make them, and a movement spell."
+
+"Try it." He pointed down the alleyway.
+
+First I attempted my water spell, throwing on the movement to launch it forward. The result was lackluster. A garden hose would have even been more powerful. The stream of water went perhaps five feet before burbling to the ground.
+
+The ice spell was much the same. It lethargically threw the cubes, even a three year old could have done better. I was thoroughly disappointed.
+
+"Before you continue to waste mana," Lucien broke in, "You should know that a wizard in their first month of training can generally knock a man off his feet if he focuses hard enough. What other ideas were you going for?"
+
+"Could I summon something dangerous? Like... poison or something?"
+
+"That's not a terrible thought, but it requires you to know that poison pretty well. If you've something safe enough in mind, go ahead and give it a try."
+
+The easiest idea would be chlorine gas. It was nasty stuff on a good day. I knew a few things about it, it was a yellow gas, could be made by mixing bleach and ammonia. I even managed to picture it's place on the periodic table. I think I got a bit of a yellow haze around one fingertip for about half a second. I couldn't even be sure of that.
+
+"It didn't work. Not at all." I was a bit dejected by that, I'd had real hopes on that after the water debacle.
+
+"I'm guessing you tried something you'd read about right? Perhaps you even knew a bit about making it?"
+
+I nodded. I'd seen it in high school chem a few times, but there was no need to go into that with him.
+
+"Not good enough, for a wizard maybe, but not a bard. What can you summon?"
+
+"Bread, cheese, ice, and water. How does that matter?"
+
+"These are all things you are intimately familiar with. You know them front to back because you've interacted with them for years. There's an instinct tied to them you see? You need that to summon something, you have to know it in your bones. Now, if you were severely poisoned by something, or minorly poisoned many times, you might be able to manage it but knowledge alone won't be enough for instinct based magic."
+
+"Why didn't the water and ice thing work then?"
+
+"Because our magic just moves too slowly for putting that much force on something. At least most of the time. You could have built it up into something respectable, but it would be way too slow in a combat situation."
+
+I pouted a bit and he flicked my forehead. Then pointed to a spot about five feet from himself. A small flame, about the size of my hand appeared, and spread to perhaps two or three feet in diameter over the course of a second or two.
+
+"I use that daily to light the fireplaces in the main hall and rooms if I need to. Have done for years, and that's about as quick as I can make it spread. Not very useful in combat huh?"
+
+I shook my head. "Then what can we do? Am I doomed to forever be virtually helpless?"
+
+He laughed, then whistled a quick tune.
+
+The alley went black, I tried to look around and saw nothing, not anywhere. After around three seconds it faded, and his hand came down lightly on my shoulder. It took me a few seconds to recover from almost peeing myself. That's when I saw the knife in his other hand.
+
+"What!?" I hadn't heard him so much as move. The bare blade and quick change of place were enough to send my legs trembling.
+
+"Not at all. Stealth will be your sword and shield. You already know how to stun someone, and how well that works. Work on developing a way to move unseen, and escape from bad situations. I'll teach you a few things later on, but think about what you can do now first. You can practice out here, or in your room. Just don't skimp out on your work." He glared a bit at the last sentence.
+
+"No... no worries, I won't."
+
+I had one last question as he turned to head back inside. "Why didn't Mystien or Jackson tell me this stuff?"
+
+"Because while Mystien's a brilliant man he's a wizard and doesn't understand it. Jackson on the other hand is not overly smart. Good skilled lad, just too interested in where he's going to get some next."
+
+I paced around in the alley for a few minutes, trying to think of things that might fit into what I'd learned. On a whim I tried to make some light like a laser. It was marginally better than a magnifying glass, even managed to set a little piece of wood to smoking... after about thirty seconds. Neat, but not combat effective.
+
+That night in my room I worked on another idea. I wanted to try invisibility, that would be the ultimate in stealth.
+
+I knew that most of everything was just empty space. I also knew that light was waves, or particles, or something. I was a little unclear on how that worked, but it was enough. I needed the light to just go through me. If I could get it to just pass by without interacting with me that 'should' make me invisible right?
+
+I started casting, focusing first on my hand. I guess I was actually working on the light, not myself in this. I pictured the light just moving through, ignoring, bypassing, like wind moving a field of grass but not a stone at it's center.
+
+My hand got clearer. It was like slowly, very slowly, turning down the opacity. By the time I was out of mana it looked like a projection. Not invisible quite yet, but real progress.
+
+Soon as I had pushed myself to E though, I went to sleep. It would not do to tick off the boss by being late to my morning shift.
+
+A few weeks passed and the snow started piling up. It was at least as bad here as it had been back in Orsken. I suspected it would be worse by the end of winter, but perhaps I was just being prissy about the cold.
+
+Lucien did in fact keep his word and pulled me aside after work one chilly afternoon.
+
+"Alright then Alana. I told you I'd show you some things. We'll start with darkness. It's an easy spell once you get used to it. What I want you to do is focus on keeping light out of an area. Imagine snuffing out candles and having shadows push in and deepen, until it becomes dark."
+
+That sounded weird, but I found a quiet spot in the back of the tavern and pushed the shadows. I was trying to make each deeper, and darker, letting them overtake the light. It sort of worked. The shadows did get a bit darker, not quite what we were going for though. After a few attempts that didn't really help much I tried instead to think about the light being consumed. To me light was a thing, it was in the air and could be taken out.
+
+The area around me dimmed significantly. The lighting going from bright to something that one might see on the night of the full moon.
+
+"Hey, look at you! Not bad, not bad at all, now keep pushing it harder and harder. Feel it out, that'll show you the way to go. Once you've got the basic picture, then work on making it feel right, that's the ticket."
+
+I had to admit that Lucien was a completely different kind of teacher than any I'd had before. He didn't go into deep explanations, instead focusing on the feel of the magic. He also let me practice ideas I had, not standing over me like Mystien had done.
+
+Every instinct my first teacher had pounded into my head screamed. I wasn't supposed to be experimenting with magic. I was supposed to carefully, methodically work on one spell at a time, finding and making minute adjustments until it was perfect. At least that's what I had learned up until now.
+
+Lucien on the other hand would show you something. Let you try out whatever seemed best. Then tell you to go work it out on your own. It was the difference between a college professor working in a lab, and a baker. I personally had made enough bread that I felt more like a baker. In every sense of the word. I would have to polish what I was doing for sure, but doing it, and things like it, felt like the right way for me to quickly learn what I wanted to know.
+
+Every night I began to practice the darkness spell, along with my invisibility spell. I had all winter and little else to do than that and my light tavern duties.
+
+I got first my arm to disappear completely, then both arms. Once I had my arms I worked on my legs. My torso was a tough bit, and it took a few weeks to push it up and along that until it went see through too. When I finally got to my head I experienced a real problem.
+
+Making my eyes invisible rendered me blind. As soon as the spell pushed past them, I was in complete darkness.
+
+"Well, shit."
+
+Turned out that making light not interact with me would render me blind. I kept practicing moving it around other parts of my body, this spell was horridly mana expensive, while I thought about a solution.
+
+Eventually I kludged together an opening in the spell for my pupils, that didn't work either. Even if the light could work with my pupils it still didn't hit the back of my eyes. I thought and thought, and came up with the answer. I needed it not only to come in via my pupils, but to let all light hitting them in the right way actually interact with me.
+
+Wrapping that concept up into the spell meant if I cast it, that was about it for a full mana charge. If I wanted to use this it would take my everything, at least until I worked it into efficiency or something. It also took several seconds to properly manifest. Still though, invisibility was a super cool power to have gained.
+
+The snows would be melting soon. I felt now would be the proper time to show the fruits of my labors to my new teacher. So I snuck down early one morning, before the rest of the staff had woken up. There I found the aged bard counting the previous night's take.
+
+"Good morning Alana. Not quite time to start up yet, but good on you for being early."
+
+"I had something I wanted to show you. It's kinda mana expensive." I was cheery and bright this morning. I really hoped I could surprise him.
+
+"Alright then, go ahead." He looked up from his work, giving me a sly smile.
+
+I began to sing, letting the spell wash over me from toe to head, until only two black dots that were my pupils remained floating in the air.
+
+"Invisibility eh? Not a bad one. There is one fatal flaw to it though." He was moving quietly as he got up, slinking towards me. I didn't think a man that big, or that old would be able to move that quietly. "Renders you blind!"
+
+I jumped back as he reached out to poke me where my forehead had been. He nearly tripped as I was not where I was supposed to be. For my part I circled around, landing a number of pokes to the fleshy part just between his pelvis and ribs. Seeing the old bard jump and yelp was decidedly the highlight of my week.
+
+"Alright, how'd you manage that?" He asked after he stopped laughing, and I revealed myself.
+
+"I let the light that came in through my eye interact with me. It's weird and klunky, but it works."
+
+"That it does. I've heard of a few people making themselves invisible before, but it always ends with them unable to see too. Good way to hide though. How about the darkness, how's that going for you?"
+
+"Honestly? Sub par, I can't get it going how I want it to quite yet."
+
+"Eh, you'll get there kid. Hammer out those two until they're easy. I would give them a few months of practice before I tried to gain too much more, but I'll let you decide on that."
+
+I nodded. "Sounds like a plan to me."
+
+"Good," he laughed again. "Now go get ready for the morning shift, no slacking."
+
+"Yes boss-man!" I chirped as I ran off to my morning duties.

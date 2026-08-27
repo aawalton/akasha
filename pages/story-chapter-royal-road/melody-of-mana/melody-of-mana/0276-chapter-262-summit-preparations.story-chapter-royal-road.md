@@ -1,0 +1,91 @@
+---
+id: fa1df40c-deb5-5325-963b-1177e7635473
+page-type-slug: story-chapter-royal-road
+title: "Chapter 262 Summit Preparations"
+slug: 0276-chapter-262-summit-preparations
+partOf: melody-of-mana
+position: 276
+ownLength: 1430
+unit: words
+ownProgress: 1430
+publishedAt: 2023-08-26
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1322384/chapter-262-summit-preparations"
+royalRoadId: "1322384"
+markedReadAt: "2026-06-29T22:35:21.990Z"
+---
+
+Unfortunately the leadership of the various Orders had decided to take their sweet time in sending a representative. Normally this would be an issue, but I had so much work to do that it really wasn't. If anything the extra time was giving me what I needed to get ready.
+
+The main thing I was doing now was overhauling the wards for the fortress, again. Many of my workers were downright tired of me doing it, but with the current civil war they all knew how important it was. Today I even had a bit of help with installation.
+
+“You know I didn't come here to help you with your chores,” Mystien chided as he floated several large pieces into place.
+
+“You're here, and taking up my time, so you are in fact here to help me with my chores. By the way, did you happen to tell anyone the secret to that lamp I made?” I asked.
+
+“The weird one? No, we studied it for awhile, but never could figure out why it was so weird. Is it important?”
+
+“Sort of, the last bit is in the box over there, then I'll send you off with a few little toys I'd like someone to test in the field.” I pointed at a crate that had been recently moved here from my own lab, the final piece to the whole addition here.
+
+The sphere was, much like its predecessor, really weird to look at. It was just so perfect, so oddly ideal that it didn't properly fit in with what it should be. I'd been studying the setup Ristolian had used for the past few weeks, and was now confident that this would fit in well with my newest updates.
+
+“Interesting, and you took the time to hide what it's doing,” he commented as he moved the final bit of this contraption into place.
+
+“I did.”
+
+“What is it doing?” he asked.
+
+“Oh, it moves some rocks in case we get attacked, nothing too bad,” I teased.
+
+“And the shape?”
+
+“Increases efficiency and mana retention several fold. We found one like it in Ristolian's old personal office that was still charged up centuries after being left there, with no external source. This one is the core of this new defense.” I had no problem sharing those facts with him, just from what he was seeing here he probably already suspected. “I'll send you some of the results we got.”
+
+“I'd like to see the actual site,” he grumbled.
+
+“Denied.”
+
+“Denied? Denied! I think you forget who's funding this little operation of yours Alana,” he said, seemingly scandalized.
+
+“I am. I'm currently the only provider of portals and sky-metal, and the best provider of half of the magical items your strongest forces use.” I didn't even have to exaggerate, it was all true.
+
+“About the sky-metal, I'm hoping you might be convinced to spare a bit more. The meager amounts you're sending us are hardly enough for our needs right now.”
+
+Sky-metal, or aluminum in my previous world's language, was a premium material for many magical uses. I'd figured out the trick to making it back in school, but others had a difficult time making it at all. The fact that aluminum was practically everywhere in rocks helped, but without a lot of knowledge of atomic theory wizards would struggle, and without proper visualization bards would fail. I was the only real supplier.
+
+For whatever reason aluminum was highly magically conductive, and therefore ideal for a number of purposes. It made workable parts for armor, though was too soft for weapons, and for static magical structures was also excellent, with only a few materials gathered from magical beasts really working as well. Silver and copper were also extraordinarily good, but each had their own problems that aluminum lacked.
+
+“When I get the time I'll be happy to,” I replied.
+
+“You know, telling me that you'll do it in your free time is rude. You could just tell me no.”
+
+He looked at me and I just couldn't keep the smirk off my face. Both of us were swamped with the war going on and my constant working. Sadly there didn't seem to be much of an end in sight.
+
+I wasn't privy to all of the details, as those were for people who needed to know only, but I knew a few things. Our faction had started off strong, with both father and Mystien, and control of the portals we had the best infrastructure of any of the various inheritors of the Empire. We also had some of the best of the special troops. Sadly we had access to fewer troops than a number of the other generals, and while we'd taken most of the former Bergond, we certainly didn't have every bit of it under control.
+
+Other generals had the bulk of the army under their commands, and they'd been far to the East when things had gone wrong. There was also a breakaway faction in the Southern sections of the two former kingdoms, itself trying to establish rule over lands that were difficult to take for one reason or another. The lines were blurry, with skirmishes almost constant, the alliances also seemed to shift on a daily basis, to politics that were well outside of my own level. The only real solid fact for me was that one of the generals, a man named Ozen, had set himself firmly against our group. I knew nothing about him save for the fact that everyone took him seriously.
+
+“I hope that doesn't mean you're backing out of joining in on my little summit,” I commented with a grin, watching his face crease in displeasure.
+
+“That I can't afford to do. Even if your 'friends' weren't too powerful for us to let wander about, I almost never get a chance to talk to people more powerful than myself. Their off the cuff insights could be world-changing.”
+
+“Good, but for now.” I led him over to a small crate and opened it up. “These are just preliminary, for testing, if they work as well as I hope we can make more.” I passed him one of the small boxes. Knowing that a perfectly circular core inside it was the real special bit. “Shielding arrays, mobile.”
+
+“Instructions?” he asked, only to see my finger pointing to the booklet in the box. “I swear you get more cheek by the day. Fine, I'll have my people look them over.”
+
+It was several weeks later when the envoy from the Orders finally arrived, and it wasn't quite who I was hoping for. It began with a few guards emerging from the portal first and checking things, before the envoy herself made her way out.
+
+My own self image instantly took a hit as the jaw dropping elven woman stepped through the portal. She looked, in a word, perfect. Her body curved in all the right places, and none of the wrong ones, and even the guards I'd brought were clearly distracted as she suantered through the opening and began looking around. Her snow-white hair fell into the cleavage of her simple robe as she studied the room, eyes eventually falling on me.
+
+My eyes of course snapped to Ulanion, who, to my satisfaction was looking everywhere except the beauty who'd just entered my home. If he'd been ogling her like some of the other soldiers were doing I would have had to have a conversation with him.
+
+“Ah, you must be Alana,” the woman said with a smile as she approached. “I've heard so very much about you, and about this little meeting we're supposed to have.”
+
+I knew the signs, I'd heard rumors of them, and seen them first hand. The way her ears were so long, the color of her hair. This woman wasn't just an elf, she was an old elf, a pure elf. What I didn't know was why they'd sent her.
+
+“Indeed, a pleasure to meet you. Unfortunately I wasn't informed of who exactly was coming?” I queried, hoping to learn what I could.
+
+“Oh? My apologies then, I'm from the Lovers, a pleasure to meet you. Do we have time before the meeting begins?” she asked, moving beside me and hooking her arm around mine.
+
+“Yes...” I said, only barely registering that she'd not given her name.
+
+“Good, good. I was hoping we might have a little chat to ourselves, girl to girl. I'm oh so curious as to your relationship with Justin. Won't you tell me all about it?”

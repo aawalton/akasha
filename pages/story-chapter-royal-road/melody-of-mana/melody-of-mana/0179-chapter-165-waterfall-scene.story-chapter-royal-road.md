@@ -1,0 +1,125 @@
+---
+id: c2c74496-03e7-54e0-a020-8a232ee9347b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165 Waterfall Scene"
+slug: 0179-chapter-165-waterfall-scene
+partOf: melody-of-mana
+position: 179
+ownLength: 1697
+unit: words
+ownProgress: 1697
+publishedAt: 2022-08-26
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/980233/chapter-165-waterfall-scene"
+royalRoadId: "980233"
+markedReadAt: "2026-06-29T22:32:02.036Z"
+---
+
+As the days of travel wore on and we moved through the roads one by one we settled into a rhythm. In under a week a schedule had been established as to when we rose and slept, for our order of travel and the various guard shifts. I did as I usually did and made sure we were all fed. The weather was pleasantly warm and the going easy.
+
+The road itself followed a small river, more a creek, hugging one of the banks through twists and turns. It was probably easier to use a pre-cut path through the forests than to try to make one, I didn't know, but it did make for an almost idyllic scene for our trip.
+
+As I took my afternoon break on the seat of one of the carts I felt the lurch at the same moment I heard the crack.
+
+"Dammit!" Olnir shouted as we were both tossed out of our daydreams and across the seats.
+
+I registered that we'd definitely broken something as I was sent sprawling into the grass. My "Oof," sound must have been louder than I'd thought because by the time I was picking myself up I saw Ulanion offering me a hand.
+
+"You okay?" Our elven friend asked as he helped me up.
+
+"Fine, how's the cart?' I had to brush a few spots off my clothes, but other than a few little bruises there was no real issue.
+
+Glen had moved back and was now picking up the vehicle's front. It was a bit scary how strong some of the people in this world were, as it seemed he barely registered the weight.
+
+"Looks like we had a bolt snap," he declared after a few moments of looking.
+
+"Fixable?" Olnir asked, only to get a shrug from the knight. While Glen might have been able to notice the issue he didn't seem particularly handy.
+
+Several of the boys gathered around to discuss, along with a few of the merchants. It almost looked like a group of men trying to work on a car or something from back on Earth and I nearly laughed. The conclusion was that the broken piece, a rather large bolted in iron rod that held everything together was totally buggered. This particular bit wasn't something we had an extra of and would need to be repaired. A few minutes and they'd pulled it out.
+
+"Shit," Robert commented as he held up the snapped bit of metal. "Might need a blacksmith or something for that."
+
+"I can get it hot enough to melt the pieces together and we could... I don't know, try to weld it together or something." Dras took it up and began examining the problem. If nothing else we could set up the tools for making magical items and remake it in that way, but either would take some time.
+
+"Alright, we're close enough to break for lunch anyway, so let's rest for now and get back to it in a bit." Olnir declared.
+
+Dras and the merchants seemed to be deep in discussion on options and so I moved over to where Leah was standing.
+
+"Thoughts on lunch?" I inquired.
+
+"No offense, but I'm about bread and cheesed out, and all of our rations are kind of..."
+
+"Dry and salty?"
+
+"Yup," she nodded.
+
+"Ideas?" Leah was far more well versed on local edibles and had proved herself a capable cook a few times already.
+
+"Hmm, we could check the creek there. There are a few berries and stuff that would be nice," She suggested.
+
+After telling some of the others where we were off to the two of us began a walk down the stream, checking here and there for things to fill baskets with. It was slightly relaxing, and this part of the forest wasn't known for anything dangerous enough to bother the two of us together. After about fifteen minutes we found a small waterfall that dipped into a little pool.
+
+"Jackpot," my partner said as she pointed at a cluster of small clams grouped at the bottom of the pool. "Those are definitely good if we cook them. Little deep though..."
+
+"Well, I haven't had a proper wash in a few days and a swim wouldn't be too bad." Sad facts of travel, but in this world days away from a town meant days away from even the most basic of hygiene.
+
+A minute or two later the two of us dove in, gloves and boots to make sure we didn't cut ourselves on the sharp edges of the mollusks and a small basket. It was about ten feet to the bottom where our targets were, the pool being shaped like a giant steep bowl. We took several trips, making sure to take the largest specimens, but leaving the small ones to repopulate.
+
+As we dropped our haul on the shore I moved over to the waterfall, only to be joined shortly by Leah.
+
+"Little cooler than I generally like my baths, but it is refreshing isn't it?" I said as she joined me in the stream of falling water.
+
+"Mmm," she agreed, lounging with me for a few moments.
+
+Soon enough though it was time for us to head back and we reluctantly rose from the little rock that seemed tailor made for laying on.  As the two of us waded back towards the shore a small rustling came from just over the waterfall's crest.
+
+"Hey girls, we're almost..."  Ulanion began as he jumped over the little cliff and down to the water's edge.
+
+Several things happened all at once.  The poor elven man's eyes went wide as he realized that we'd left the overwhelming majority of our clothing off to the side.  My face began to turn beet red as I tried to cover myself with my hands, and Leah.  Leah seemed more angry at being caught with her metaphorical/literal pants down, and didn't even give the intruder a chance to apologize.
+
+Her deep intake of breath registered with both Ulanion and myself at roughly the same time.
+
+"Wai..."  he tried raising his hands in alarm as she loosed the patented bard scream on him.
+
+I got the feeling that she didn't put her all into it, either that or she was just a hair weaker than I'd initially thought.  While it certainly got Ulanion to fall to his knees and cover his ears he didn't seem to have the blood that showed up when I really laid into someone with that particular spell.
+
+We rushed over and got dressed while Ulanion tried to right himself, looking pointedly in the opposite direction from where we'd headed.
+
+"You can look now," I told him once we were decent again.
+
+"Good grief, you didn't have to drop me like that!  It's not like I intended to do anything!"  He complained as he turned to address us, still rubbing his ears a bit.
+
+"You should have been more obvious about coming up on us," Leah retorted.
+
+"You shouldn't have been naked in the middle of the bleeding woods!" he looked a bit peeved.
+
+"That's my fault actually.  We wanted some clams and I wanted a swim."  I gave him a bit of an apologetic smile.
+
+"Still," Leah tried again.
+
+"Let it go, nothing too bad happened, and if you're going to be mad, you need to be mad at me."  I could take the blame here, as it was my suggestion, and having members of our expedition mad at each other would only cause problems later.
+
+While she took the basket off back towards the path I moved over to Ulanion and sang a few notes, bringing my hands up to his ears to heal them.
+
+"Thanks," he said.  "I was worried they might not stop ringing."
+
+I snorted, "Well, be more careful next time."  I mock finger-wagged at him.
+
+With a shake of his head he led the way back up to our carts.  Leah beat us by about a hundred feet and several of the others were already perked up and looking out towards our direction.  Glen particularly seemed a bit on edge.
+
+"Everything alright?"  Robert asked as we got nearer.
+
+"Fine, just a misunderstanding," I answered as his sister huffed off.
+
+Our meal that afternoon wasn't half bad, and it seemed that Dras had been right in that it would be simple enough for him to weld the pieces of metal together.  I saw the repaired item as they were putting it back in and while it was ugly, it would last until we got to our destination and a proper repair.
+
+A few more days of travel and we arrived at the village.  It was small compared to the capital, not being much bigger than the place where I'd been born.  I could see a wall, by the weathering no more than a few years old, that surrounded the collection of houses, and the slight overgrown look to the land outside of it.  It wasn't much, but it just seemed... off.
+
+"Does something look wrong to you?"  I asked one of the merchants in our caravan, they'd ostensibly been here a few times over the years, even if it was a bit far flung.
+
+"It's been awhile since I was out here, but yeah," he answered, looking a bit concerned.
+
+We took a cautious approach, our group of humans keeping back while the merchants led.  All of us took a moment or two to put up defenses just in case, even extending a few over our traveling companions who were doing the talking.  As we came up to the wall I could see a bit of movement atop it, and the rough gate opened as we drew up to it.
+
+A rather harried looking elf came out, some kind of elder perhaps.  He stood tall and had longer than average ears, with a sharp widow's peak and a nervous smile.
+
+"Finally, welcome to Eratol.  We were worried that our call for help hadn't reached anyone, but I see they sent a whole group of mages..."  He blinked a few times as he looked at us, finally realizing that we were human.

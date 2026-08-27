@@ -1,0 +1,313 @@
+---
+id: abd821b3-3ea7-561e-9bed-178aa0d63ab2
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 61 - January Friend"
+slug: 0107-chapter-61-january-friend
+partOf: metaworld-hopecore
+position: 107
+ownLength: 3243
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3533573/chapter-61-january-friend"
+royalRoadId: "3533573"
+---
+
+"After great pain, a formal feeling comes."
+
+Emily Dickinson
+
+Henry Kiritani returned to NYC on Sunday, the sixth. There were no tearful goodbyes, no floods of sentimentality, just the acknowledgement that the moment that they had shared at the Tanakas was engraved into their bones.
+
+Eric drove Eppie back to Culver City after the dropoff, picked up everything Curon had sent Eppie from NYC, then returned her to C-401A at LAPA after an easy meal at a local diner.
+
+He helped her unpack, for there were far too many boxes and far too much packaging, since the bulk of it came from Saks. Eppie had also taken the initiative to pilfer a dozen hangers from Sony Wardrobes while she could, so that her new wardrobe could be properly maintained.
+
+The last time she was home, she had left an old whodunnit trap for William—a short length of sticky tape that broke easily when her door or her undies drawer was opened. She was glad to see that these remained in place, inferring that, whatever the man was up to, he wasn’t doing scheduled runs on her cheap K-Mart underwear.
+
+The rest of the apartment remained similarly undisturbed, cool and smelling faintly of the cedar scent blocks Josefina had left here and there for moths.
+
+After thirty minutes of packing, Eric looked at her with disbelieving eyes.
+
+“How… how can you be so bad at this?” her Newfoundland stuttered. “I thought you were Miss Perfect at everything? What happened to the Mary-Sue we all know?”
+
+Eppie stood in a whirlwind of old clothes and new, twenty things on the bed, cables from the table, and cardboard on the floor. “I need a break…”
+
+What was she to tell him? That her mum had done the cleaning? That she had house cleaners and personal aides since her late twenties? That she had never packed a single thing in her tastelessly large ocean view home?
+
+Eric growled. As a man with a meticulous garage, he could not allow his ward to live in the human equivalent of the Stray Cat Society’s blanket-strewn hovel.
+
+In twenty minutes, her man set up her new iMac and sorted the cables. Installed the stand and spare keyboards for her MacBook, and reorganised her wardrobe for winter.
+
+“Jesus Christ, this sweater is $600?” Eric’s eyes watered as he held up one of her merinos in cream.
+
+“Curon picked it,” she explained, as if that was a valid reason. “Want one for Emily? There are two.”
+
+“You think Emily can wear children’s size clothes?” Eric snickered even as he marvelled at the tags. “No, this is… too much.”
+
+Eppie shot the man a dirty look, folded the sweater, then slipped it into the top shelf of her wardrobe.
+
+“What are you going to do with the old laptop?” The lawyer coiled the old cables like a pile of garter snakes.
+
+“Renée Goode,” Eppie said, before he could ask. “I’ll pass it through Simone.”
+
+“Like, in secret?” Eric was evidently surprised by the openness of her kind gesture.
+
+“We’ll see.” Eppie slipped her old machine into the cardboard box.
+
+“Always scheming.” Her Newfoundland drooped his tail.
+
+It took them ten minutes to slide the smaller boxes into the larger boxes, so that her small room finally had space to breathe.
+
+Eppie sat coiled on her bed, her body folded like a cat’s, exhausted by Curon’s gifts. Eric stood at the door.
+
+“Everyone’s coming back, right?” Eric asked from the doorway, coat on and arms full of compacted cardboard. “You gonna be alright?”
+
+“I am always alright,” Eppie tilted her head adorably.
+
+He gave her a Robert Redford nod, then locked the door behind him.
+
+It was late, and she still had all her accounts to set up. The room was quiet, even with the window two inches open.
+
+Eppie looked at the door and thought about her chances.
+
+[- 300 Causality]
+
+She sighed, then took her wooden chair, carried it to the door, and wedged it under the handles.
+
+A girl living alone should not be taking any chances.
+
+It really was unpleasant to know that, had she lacked a [System], what awaited Euphemia Fontaine would not be sweet sleep, but paranoid insomnia.
+
+Her roommates clocked in later in the evening, but Eppie was already unplugged.
+
+Eppie woke at precisely 6:15 AM. Her [Persona] ran a better body clock than any alarm.
+
+The chair was still wedged under the door handle, exactly where she'd put it. She felt immensely silly for a moment, then got up and moved it back to the desk.
+
+Her door opened to the lovely sight of Josefina holding a tray. On the tray: a cafetière, three mugs, and a cloth-covered plate that smelled of butter and warm bread. Behind her sat Ava in full dance warm-up: leggings, crossover cardigan, hair in a bun. Behind Ava stood Halle, still in her oversized Nashville Predators sweatshirt, her auburn hair wild, holding her hugmug like a kid by a fireplace.
+
+“Little bird,” Josefina said in Spanish, looking her over. “You're up?”
+
+“I am up,” she smiled back.
+
+Breakfast was served. The girls ate. The girls talked about their holidays. Eppie told them about New York, Central Park, the galleries, and the cats.
+
+“You look serious.” Josefina studied her face as she munched on a piece of toast. “Más seria. More serious. Something happened.”
+
+Yep. I watched Valorie get assaulted, then stopped it by throwing a forty-five-kilogram terracotta pot across the balcony of a multi-million-dollar mansion, nearly killing the most prolific Oscar-producing Producer in all of Hollywood. And that was in the first forty-eight hours!
+
+“Ah, nothing crazy,” she said.
+
+“Mm-hmm?” Josefina took her empty mug for cleaning.
+
+Ava sat cross-legged, stretching out her neck. The next few months would be crucial for her. She had her showcase, meaning it was her final chance to move to Guilliams. If she failed, she would not be attending an arts college but a regular Ivy League or nearby one, chosen by her parents. "New York? How was it?"
+
+“Bloody freezing,” Eppie said. I would have probably frozen to death in the park were it not for my [System] payments.
+
+Halle was far more intrusive than curious. “Did you buy a computer? I can see it from here!”
+
+“Ya, it's a work computer,” Eppie nodded.
+
+“A work computer,” the Freshman said, with the undertones of someone suddenly noticing heavy machinery. “For making music?”
+
+“That and other things,” Eppie said evasively. I really should start typing the scripts in my head down on paper. She had Pygmalion, True Grit, and Strictly Ballroom. One full-blown play, and two screenplays.
+
+She completely understood why Shaw’s generational masterpiece might be of interest to her future theatre ambitions, but True Grit?
+
+The revenge theme was on brand, for like Eppie, she had obsessively pursued her father’s murderer. And like herself, Mattie conducted herself among adults as an adult, rejecting her own girlhood. Then, Mattie fell into a serpent pit while chasing Tom Chaney—she got him, but a rattlesnake got her arm.
+
+Eppie looked at her right arm, then gave her biceps a pinch. She was rather more attached to it than Mattie.
+
+But why not the novel? Why the screenplay?
+
+Maybe it was because of the screenwriter, Marguerite Roberts, whose writing credits were stripped from her works by MGM as a result of the House Un-American Activities Committee’s unjust persecution. True Grit signalled Marguerite’s return in the sixties. She gave John Wayne his sole Academy Award and the repudiation of a crooked Academy. Either way, the [System] worked in mysterious ways.
+
+When she returned to the conversation, everyone else was laughing, and so Eppie laughed as well. The light outside her window was thin and pale, and the campus was rapidly filling up with noise.
+
+“To the new semester,” Eppie raised her water cup.
+
+“The new semester,” Halle raised her coffee, as did Ava.
+
+Josefina clapped. Their mugs touched, and Eppie took the moment for what it was—warm, unsullied, and wonderfully ordinary.
+
+7:45 AM.
+
+Eppie moved past the Quest Board, navigating around the students, struggling because most of them were taller than she was, including the Freshmen. Almost everything on the board had been stripped and reset. The forms and slips had all been collected, and final notices were now up for those who couldn’t make up their minds in the final weeks of December.
+
+At the centre of the theatre section, she saw what remained of the TITUS notice:
+
+TITUS ANDRONICUS — LAPAGANZA Spring Production Directing Team: Dr D. Cooper & Mrs S. Tyker Cold Reads: Jan 15 Auditions: Jan 16–18 Rehearsals begin: Jan 23
+
+There were half a dozen sign-ups now for the role of Lavinia. No one had prioritised the understudy's position as she had.
+
+She smiled at the familiar faces who came to greet her, and then it was time for class.
+
+English Honours began with students staring in horror at Dr Kirby’s holiday homework collection tray. At the same time, their good instructor wrote out the plans for the next five weeks in her exquisite handwriting on the whiteboard.
+
+Eppie set hers on the tray—she had done it in between her various activities, in under thirty minutes, thanks to [Script Analysis], composed in her impeccable handwriting thanks to her [Agility].
+
+The [System], if it was involved, was throwing her hints again. The cautionary tale in The Crucible was that Abigail Williams really was resoundingly successful, disturbingly so, in having her case heard. While Antigone and Lavinia were silenced or destroyed, Abigail had turned the corrupted systems of Salem upon itself, casting herself as the false martyr.
+
+Eppie sat in her usual seat opposite Kirby, then greeted her friend as they entered with the air of prisoners presenting paperwork.
+
+James Jules placed his report down with confidence, winking at her as he passed.
+
+Cameron Atkinson had a cardstock cover sheet. He gave her a nod.
+
+Lucy came in two steps behind Chelsea and put hers down like she was throwing away a dead rat.
+
+Chelsea dropped hers, sat down, then shot Eppie a big smile.
+
+Madison slipped hers in gingerly, then brushed Eppie with her eyes.
+
+Almost everyone, bar one or two, had something to give.
+
+Finally, Min-jun arrived at the bell, slightly breathless. He looked at the tray. He sat down.
+
+Kirby turned.
+
+She surveyed the tray. She surveyed the room. She surveyed Min-jun, who covered his face dramatically with a PLEASE DON’T LOOK AT ME!
+
+"Welcome back," she said. "I hope December gave you everything you needed."
+
+She picked up the tray. She counted the work.
+
+For a moment, the atmosphere of the classroom felt like that of the Salem High Court. Eppie realised that submitting 5 pages of handwritten analysis on the implications of female autonomy in Puritan New England may have exceeded the marking criteria.
+
+“Three of you,” Dr Kirby spoke in the tone of a Witch Hunter, remarking upon dinner. “Will be receiving a ten per cent grade reduction for each day of delay.”
+
+She then stood beside her desk. “Let us continue from last semester. Here is the grid: Three women, three repressive societies. Silenced—Mutilated—Amplified.”
+
+Dr Kirby’s eyes landed on Eppie.
+
+“Now, who will lead the discussion, I wonder?”
+
+When finally lunch rolled around, the newly returned children were already exhausted.
+
+The crew claimed their usual table in the cafeteria, the tables by the east entrance, so that they could share food and thoughts without obstruction.
+
+“Eppie, I was waiting for you,” Min-jun moped, his eyes blinking at her like an expectant pup denied its treat.
+
+“You were…what?” Eppie pushed the boy’s face a little further away.
+
+“So pretty,” Min-jun was shameless. “And yet, so petty.”
+
+Eppie tilted her head like an imploring cat. The boy blushed. “You said you’d come by the restaurant. I told uncle, and he was ready to give you a 20% discount!”
+
+“I was in New York,” she shrugged. “Unless he’s got a franchise there, it wasn’t going to happen. So you spent the ENTIRE time working at the BBQ joint? Seven days a week?”
+
+“We had staff shortages,” Min-jun moped. “I was family.”
+
+“Did he pay you?”
+
+“Sure did,” Min-jun broke into a grin. “I am so close, Eppie. My own car! I am thinking a second-hand Honda, a Civic! I’ll get a spoiler installed! You can be the first to ride shotgun.”
+
+“Chelsea,” Eppie sat closer to her Goth-coded friend, who, in her new attire, was only marginally Wednesday Adams. “What about you?”
+
+“Well, thank you for asking!” Chelsea’s pride was textured enough to feel. Apparently, her friend had performed in a production of Our Town with a community group in Santa Monica. Small venue, folding chairs, a director who communicated primarily through sighs. She described it with the unselfconscious affection of someone who had actually enjoyed herself. Lucy, who had attended every performance, described the same production as though she had personally experienced the full process from both the inside and the outside.
+
+Watching the two girls, Eppie felt a tinge of jealousy at their wholesome friendship and happiness, wondering if these innocuous moments would be the first casualty of her success.
+
+Before the theatre block started, she cornered Simone Goode by the lockers for a good reason.
+
+“Hey,” she said, doing her best not to look threatening.
+
+Simone had seen her approach but apparently had not expected Eppie actually to stop and say hello, and now she had no idea how to respond.
+
+The black girl glanced at the T-junction of the corridor, where the fee-paying kids had their lockers. Eppie looked as well.
+
+They saw Valorie, watching, nonchalantly.
+
+What are you, BIG BROTHER? Eppie wondered if she should just ask Val to join them.
+
+Eppie took the laptop out and held it out, without ceremony. “For Renée. If she wants it. It's a year old, but it's in good shape.”
+
+Simone again looked to the T-junction.
+
+“Seriously…?” Eppie placed the bag in her hands. “Give it to your SISTER.”
+
+Simone took the bag, her face finally grateful. “Thanks, Eppie.”
+
++ Karmic Causality
+
+“Yeah…” Eppie looked at the T-junction. Their spy mistress was gone. “So, how are things? William, get up your… nerves?”
+
+Suppose it weren’t for that weasel. I’d have a phone for your sister too…
+
+“No, no,” Simone seemed to relax. “He’s having a thing with Val, though. I am not sure what’s going on.”
+
+“A fight?”
+
+Simone shook her head. “Maybe? They’re just… well, it's weird.”
+
+“Bet. Is she being nice to you?”
+
+Simone tucked the laptop under her arm. She opened her mouth, closed it, then nodded. “Yeah, she's being—she's being nice to me."
+
+“Good.”
+
+“Eppie,” Simone whispered. “I am scared.”
+
+“Yeah… bad people suddenly being nice people can do that…” Eppie gave the dancer a knowing look. Simone smiled nervously.
+
+“I should go…”
+
+“Then go,” she waved the girl away.
+
+Eppie was almost to the arts block door when she heard Valorie's voice addressing Simone. Valorie clearly did not care for being overheard.
+
+The two were talking. And their conversation sounded like bullying… of the teasing kind.
+
+Arts block.
+
+David Cooper stood outside the door, mentally preparing his lessons and also listening in on his rowdy students. Craig once told him that this habit of his was a weird way to start the semester, but Cooper disagreed. “Listening” was a habit he had acquired while teaching in the Black Box theatres of the Bronx. By his personal pedagogy, if an instructor were to understand the natural atmosphere generated by his students, he would know which walk to choose, which tone to use, and who he would have a gentle chat with by the lesson’s end.
+
+Indeed, over the years, he had saved productions and students, all by pausing outside the door and listening for a few minutes.
+
+Presently, the students were hopeful and optimistic. He could hear Min-jun's particular laugh, the one that started high and fell off a cliff. He could hear Madison adjusting her bag with calculated giggles, watching the room to see who was admiring her. He could hear Eppie doing her stretches against the wall, her voice cutting through the din. Cooper had been teaching long enough to identify his students’ moods by the sound of their physical instruments.
+
+He took a sip of his giant coffee. He walked in.
+
+He did not look at Fontaine first, which was his natural instinct. After all, he wanted to check if his co-conspirator was still committed to the cause.
+
+The students grew gradually silent. Cooper moved to the table, set his coat down, then allowed the practice room to settle further under the weight of his gaze. He smiled at them, and the kids smiled back nervously.
+
+He told them to reset to neutral.
+
+Only Eppie succeeded among them. His actress remained committed, perhaps, more committed than before.
+
+As for the rest, the holiday break showed in their bodies. Their postures were uncertain. Their hips were rigid, their spines no longer speaking the right language. He could see the plasticity of people who stayed up for two weeks, catching up on TV series or video games. He could see the rigour of their holiday bodies conforming to couches, tables, chairs and beds, or, in Min-jun's case, Korean BBQ.
+
+“Stand up,” he made them rise from the horseshoe semi-circle.
+
+The kids stood. He worked them for the next thirty minutes, moving through his breath work, then through Costello’s body work, then through Seyrova’s dynamism.
+
+From floor to wall, to the open air. The feet, the body, the arms and then the head.
+
+He made them open and close, then close and close until they opened up.
+
+He made them move like automatons, then anemones.
+
+Then they moved on to voice.
+
+Jackson’s voice had dropped a step. Jules was still recovering from a cold. Madison’s voice needed moulding still. Chelsea’s had evolved, as had Lucy. Chloe’s voice had improved immensely, and finally, Eppie’s remained a tier above, as it had been.
+
+In the second hour, he stood beside the girl.
+
+He watched her with her feet planted, her eyes closed, and her face carrying the expressions of the exercise, lost in a play of her mind’s making. Her protean persona was admirable; to dive deep into a character was not easy, even for senior actors. This was what made Eppie different to the rest. Cooper felt that his student acted as if she were always playing one role or another, so that when yet another role arrived, she could head-hop into it with the ease of a skin-changer.
+
+What had Eppie done in the holidays? He was eager to hear it. For now, she was managing the class with the quiet enjoyment of someone who had been looking forward to Yoga class.
+
+“Welcome back, Miss Fontaine.” his tone while speaking to her subtly changed from the rest of his greetings.
+
+“Thank you, sir,” she smiled back at him. “It’s good to be back on track.”
+
+Cooper walked back to his table. Underneath, he had acquired copies of their next play for everyone, reprinted in an A3 format so that the students could readily compare them with the original script.
+
+“Romans! Make way—!” His voice boomed across the classroom as the box landed on the desk. “For vengeance is in my heart, death in my hand, blood and revenge are hammering in my head!”
+
+He looked at Fontaine.
+
+She looked at him.
+
+Their semester had officially begun.

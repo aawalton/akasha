@@ -1,0 +1,193 @@
+---
+id: dfc5e2e3-a31a-5eec-a4c9-5f9d820b5e56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 Winter, and helping the town"
+slug: 0006-chapter-5-winter-and-helping-the-town
+partOf: melody-of-mana
+position: 6
+ownLength: 3797
+unit: words
+ownProgress: 3797
+publishedAt: 2021-06-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/702377/chapter-5-winter-and-helping-the-town"
+royalRoadId: "702377"
+markedReadAt: "2026-06-29T22:26:26.675Z"
+---
+
+Creekrun did indeed send over a massive amount of fish, too much for any one family. All the men who went on the extermination got a good share. My family got three shares, for the help and healing afterwards. I was told my dad performed heroically in the fight by a few men when it was all handed out. It was a huge help to our winter supplies.
+
+Every year, I learned more and more about what went into prepping for the end of the year. This year I was in the thick of it, now able to reliably work at piling up wood and food, and aiding in the preservation that mom did, pickling, drying, and otherwise putting the fruits of our labors away so we could make it through.
+
+It was one evening, as we were preparing the last of the oil for our lamps that my mother informed us children that she was pregnant. Her smile at the announcement gentle and calm.
+
+"Really?" asked Rod, looking a bit surprised.
+
+"Mmm, the day the men went to Creekrun I went to talk to one of the midwives in town. Based on that, and other things I'm quite sure. I think it'll come around early summer." she nodded, based on dad's expression, I could tell he'd known for a bit now.
+
+"We'll have a lot of things to prepare," I piped in, "clothes, and a crib, and all kinds of stuff, won't we?"
+
+"Not too much, there are several women with babies in town right now. There'll be no need to make new clothes when we can buy some cheaply, and baby clothes are simple to make. We will need to make one or two small things, but it should be fine," my father responded. He'd been through this a few times before too, and seemed unconcerned.
+
+I blinked at how nonchalant they were being about this, but I'd never had a child, nor any little siblings, in either life, so I guess I wasn't really an expert on this.
+
+Upon seeing my concern, my mother just patted my head, "It'll be fine, I've been through this before dear," she smiled.
+
+My brothers also looked unconcerned, almost uninterested, which made me want to kick them. Something I'd reserve for when I was bigger, for now I just glared, "At least act like you're worried," I poked Rod with a frown.
+
+They all just laughed at me, but mom did end up having me practice working on spinning and even showed me how to use her loom. I was too small to do it at any real pace, but when she wasn't using it I'd be put to running it on some simple sackcloth.
+
+My teacher gave me some direction on a simple spell to make water. Nothing fantastically difficult, but the basis, I was told, for more complex summoning magic. I was told to practice it often as possible since we'd be putting lessons aside until spring. Almost everything went on hiatus for winter it seemed.
+
+He also told me to learn to read. Something I viewed with great trepidation, until he showed me the basics of it. I'd been told that you could learn to read Korean in an afternoon, and this was similar in nature. The alphabet was phonetic, if you could say it, you could write it. The symbols were also all clearly related, the patterns designed to be easy to recognize. Learning to read was just a matter of practice.
+
+I was informed that this setup had been made at the order of a king from a nearby country several centuries ago. The wisest men of his land designed it, having only 10 vowels and 25 consonants. It was so easy that it spread like wildfire, bringing the language with it. It was therefore that almost everyone could read and write, and while most peasants felt no need to most of the time, almost all of them could.
+
+When informed of my assignments my dad made some comments about how I was a bit young to be learning to read. My brothers hadn't started until they were five apparently, but ceased his objections when Mystien pointed out that I'd been making several of the characters on the ground as they talked, whispering their names to myself. For my part I didn't know this until I heard the old wizard laughing.
+
+So winter began, the first snow fell and we retreated into our home, only coming out for the most necessary of work before returning. I got to spend my days with mom, learning about making cloth, and writing things on the floor for her to check over. It was altogether relaxing.
+
+Several weeks into our winter break someone knocked on our door. It was early afternoon, and we were all busy with our various crafts, but this was such a weird happening that it took a moment for my father to get up and let our visitor in.
+
+"Ah, hello everyone, good day, I hope everything is well?" the mayor asked, he seemed a bit nervous.
+
+"Quite," my dad answered him. "Bit unusual for you to come by in the middle of winter, something wrong?"
+
+"Well, sadly I must say there is." the mayor began to slowly explain, "It seems the kingdom is moving a number of men to the East, to our border with the empire, and many of them were, ah, not properly prepared. We've been receiving far too many that won't be able to continue without having rather severe frostbite healed..."
+
+"What about their healers, the army should have more than enough to fix some frostbite, should they not?" Dad didn't seem to be at all interested in what the man was suggesting.
+
+"They were sped along to the border. Some are stopping for a day or two to fix up a few of the men, but they're still piling up, and it's beginning to cause problems. Not enough food, nowhere for them to stay... if we could just get them moving through the town..." The mayor looked downright pitiful.
+
+"And Baron Hazelwood? Why hasn't he sent someone to fix this?" My dad was getting more irritated by the moment.
+
+"Nobody to send Verren. The priest working for him left months ago, and it would seem the bard he had picking up the slack jumped town just before the first snow. We're on our own here. He even rerouted the army around Hazelwood so that he wouldn't have to deal with this any more himself." I felt bad for the mayor, he was stuck here, and screwed by all the authorities who should have been able to help him.
+
+I noticed something I hadn't ever before. My father had an aura, I'd never seen it, but now, when he was getting angry, truly angry, I could see it start to rise. It wasn't shapes like Mystien and I had, but rather more subtle, a light blackness, growing as it moved about him. I wondered how he'd hidden it, and I wondered more if the mayor knew how much danger he was in.
+
+"And you want me to send my daughter down into their midst to patch them up and send them on their way?"
+
+"No, no, I don't, but if nothing changes they'll pick the village clean of food in a month. We're holding as it is, but the numbers can't keep growing like this. Soon... soon I'll have nothing to offer the hungry soldiers, and not long after that, they'll start taking from the citizens. They'll tear the place apart looking for food." The mayor had his eyes down. It was an awful sight, a man powerless to fix a problem, asking for help he knew he had no right to.
+
+It took a few moments for my father to consider, his eyes boring into the mayor, but eventually I could see him calm a bit. "Very well, but I'm going with her, and someone is going to pay the same wages that a middle ranked healer working for the army would be getting. I don't care if it's you. I don't care if it's Hazelwood. I don't care if it's whatever poor bastard they left in charge of their men in town. Make it happen."
+
+The mayor visibly relaxed, letting out a breath he'd held as my father made his demands. "I'll take care of it. It'll take a couple of days to arrange it, but it'll be done." And after some hurried goodbyes, he took his leave.
+
+It was two days later that we got word that all was ready. Dad had packed supplies and made arrangements with his brother who lived in the town proper for us to stay. I think I'd only met my uncle once or twice in passing, so this would be an interesting change.
+
+That day he carried me to town. The snow was easily up to his knees, and it would have been impossible for me to walk in at any reasonable pace. He also had on a pack, which had to weigh two hundred pounds, from what I'd seen him putting in it, but it didn't seem to hinder him in the least.
+
+I spent a good long time looking for his aura. I only saw one or two small flashes as we went, and it was easy to understand how I'd missed it. I'd seen him move in superhuman ways before, but it hadn't registered properly.
+
+"How do you hide your aura?" I finally asked.
+
+He laughed, "Finally noticed it huh? There's a couple of tricks, but they don't work well for casters, and are pretty frowned upon by most. It's considered rude, like wearing a mask."
+
+"Then why do you do it?" I was a bit confused why he'd do something rude.
+
+"Old habit, it's fine though. Most of the people around here who could see it already know it's there." He adjusted his hold on me and I shivered against his coat. It was really terribly cold.
+
+"Will you teach me to?" it sounded like a good thing to know at any rate.
+
+"Perhaps when you're older, though, like I said, it doesn't work well for casters. Mystien doesn't bother most of the time. You can still see his even when he's trying, though it is a bit less pronounced, or so I'm told. I can't see them," he decided to change the subject, "Are you excited to see your uncle Barro?" he asked me.
+
+"He's the big guy in town, with the beard right?" Dad nodded, "I don't think I've ever talked to him, you and mom don't take me to town much."
+
+"Hmm, fair enough, we'll have to bring you more often. He's good people." dad scratched his short beard a bit as he thought about it, and I smiled at the promise to come see something new more often.
+
+I told him about all the things in town I wanted to look at for the rest of the short trip, making him laugh. Apparently most of it was thought of as rather boring.
+
+The door of my uncle's house was on the second floor of a building just off of the main street. From what I could see he lived right over a blacksmith's shop. We were hurried in by an older, lithe little woman.
+
+"Oi, is that my little brother then, come to find a place to stay have ya?" a good natured booming sounded just after we entered.
+
+"No, just making sure some old man hasn't died on me," dad jibed back.
+
+Uncle Barro appeared shortly thereafter. If my father was a prowling cat, he was a bear of a man, his beard and hair dark but beginning to gray with age, arms thick as telephone poles and muscles bulging, as opposed to the taut wires of my own father's frame. He wasn't much taller, but his build and movements belied that.
+
+"Come and sit for a bit, we'll talk," my uncle offered.
+
+"We need to get down to fix up those soldiers, after dinner though aye?" dad responded.
+
+It was clear Barro had something he wanted to say, but, it could wait. We'd be here for weeks at least, perhaps the rest of winter. Instead dad put down his pack and took me down the street to the tavern, where I gathered at least some of the men in need of healing were.
+
+As we went down the street, he spoke to me, "I'm going to do something which is going to make everything a lot easier, but it might bug you a bit okay?"
+
+"Okay," I nodded, not sure what he was talking about.
+
+Every hair on my body stood as his aura poured out. It surrounded him like a mist, black as night, it was like looking upon death. I almost began to tremble, nobody else noticed it, it was as if death walked the street, holding a little girl in his arms. The image was terrifying.
+
+"O-oh," I managed.
+
+He kissed me on the head. "It'll make things easier, trust me."
+
+I nodded "Yes father." I was feeling a bit more respectful than normal, almost like I was in trouble and wanted to look sorry.
+
+He chuckled a bit as he opened the door and we stepped in, going right up to a man in a slightly nicer uniform than the others in the main room. A few others bustled about while most were in chairs or hastily made bedrolls, their injuries obvious.
+
+"Sergeant," dad began, causing the man to look up at us. "I'm Verren, this is my daughter Alana. We're here to help the injured men." He spoke this all quickly and with finality.
+
+The man nodded, quirking his brow a bit at me, "Glad to have you. I've had the least serious cases that we need dealt with brought down here. You can begin as soon as you're ready,"
+
+I was put down and walked over to the nearest man, who had his foot propped out and was watching the proceedings, "Let's see what's wrong," I piped.
+
+The man looked to the sergeant, who gave him a firm nod, before unwrapping his foot. His toes were blackening from where they'd gotten frostbit, I began casting once I had an idea where it was going, and while the damage was certainly there, it didn't appear too deep or bad. Within about ten minutes he was patched up enough for me to move on.
+
+After the first, none of the men gave me weird looks. Several even smiled and thanked me as I moved to them, none of this damage was all that deep. It took some time to work the magic, but it was nothing like the men from Creekrun. These would be in great pain from walking, but beyond that, nothing much. It took about two hours to clear the tavern's main hall, after which I was given a quick lunch before moving to the rooms.
+
+Those cases were slightly worse, but nothing too bad. I was on the third when I head a man loudly moving down the hall.
+
+"Now where's this girl I'm paying so damn much to be here?" came a rather irritating voice. It sounded like a middle manager, the kind of person who reveled in their own tiny pond of power, making those around them miserable.
+
+A man appeared in the door of the room, his face in a grimace. I registered him briefly as he started to scoff, then we both realized a few things. First, his aura was weak. It was weaker than Mystien's. Heck, it was weaker than mine, and it was certainly weaker than my irritated looking parent's, from where he stood in the corner. Secondly, said parent was staring daggers at him, like he was nothing.
+
+"I believe you've found her," dad practically growled, "Now, do you have any other need of my daughter?"
+
+The man blanched, all his pompousness fleeing from him like a rabbit. "Ah, just checking on things, good work with the other men miss," He was a bit stiff, but still managed to hold his composure. He seemed to have been well trained on that account.
+
+"Thank you," I said, having little else to add to the conversation, being too busy as it was anyway.
+
+"Well then, keep up the good work," The man left in a hurry. I heard him go quickly down the steps, the sergeant was left by the door, he just looked in confused at us for a few seconds before nodding and heading to his own work.
+
+"What was that?" I asked, after I'd finished with the healing, for that room at least.
+
+"That was the second or third son of a nobleman, or perhaps the son of a second son, realizing that causing you problems would be a losing proposition for everyone," was the only answer I got. I spent another hour healing before finally finishing up for the day.
+
+I practiced my other spells for a bit after we got back to uncle Barro's, after which we had a good dinner made by my aunt, whose name it turned out was Elna. Elna was a lovely woman, if a bit quiet, and her cooking was a refreshing change from my mother's.
+
+Dad talked to uncle Barro while we cleaned up and then we all chatted for awhile. I sat on a bench with my father, opposite another with my aunt and uncle. I curled up and closed my eyes, letting myself relax a bit after the long day.
+
+"Verren," Barro lowered his voice, likely assuming I was asleep. I wasn't yet of course, but... "This isn't some border skirmish, not how they're moving troops. They're even calling some of our lads up."
+
+"They call for men every year, and every year a few hotheads go to join up," dad replied.
+
+"Aye, aye, that they do, I know one hothead that joined the call as soon as he could," Barro chuckled, "But this is different, ain't just a call. Come spring they're going to draft some of the lads who don't sign. The mayor got wind, wanted me to let you know."
+
+"An actual war? Are they nuts? We're not on the border, but we're certainly close enough for it to spill over here if it goes wrong." Dad sounded unhappy at the information.
+
+"Ermath may not be giving them a choice. You may not hear it from out in the boonies where you are but from the sound of it, they're massing troops. Your lads are too young, and mine are all moved out, but it's bad news little brother, bad news indeed," my uncle sighed, sounding tired. I knew Ermath was the proper name of the empire, but not much else about them, same as I knew our kingdom was called Bergond, but that kind of thing just didn't come up much.
+
+"I left the army to get away from that nonsense Barro, nobles who only care who was whose kid. The blaring incompetence of their mess, and the constant fights. Even this far out are they still gonna keep pushing? Where's it end?" Dad sounded some mix of tired and angry. "I hate to say it, but what if the kingdom lost? Do you think...?"
+
+"Don't finish that thought Verren, you know where that line of thinking leads. We've both seen it." There was sadness in that, though I didn't understand it.
+
+"I'll have to teach the boys to fight come spring," dad mused. "As for Alana, well, we'll see if Mystien has any ideas on how she can defend herself. Though I hope she never needs it." He petted my hair. "Regardless though, as long as the army doesn't drag them in, they should be fine." He laid back for a few moments, before he returned to more mundane conversation. I continued to feign sleep until he picked me up and took me off to a proper bedroll to sleep.
+
+Our days continued much like that, more frostbitten men were always showing up, though once I worked my way through the backlog it wasn't too bad. We even had a few more spellcasters come by now and again. They seemed to approve of my work. There were also a few knights who popped in. This group gave dad some weird looks, almost as if they could nearly see something off about him. I could tell that most of them had auras too, mostly weaker ones. I assumed those who had any of note wouldn't be stopping in our out of the way little town.
+
+After a bit of practice I managed to get my water spell to make ice too, and learned that I could in fact fix missing digits. I assumed that meant I could fix limbs as well, but even a pinky toe was so mana intensive to regrow that I shuddered at the thought of that.
+
+After learning to make ice, and learning that I was being paid a good clip for this work I did make a request of my father: to order an ice cream churn from uncle Barro. He didn't know what it was, but after a bit of pestering and telling him I thought I had an idea that would be good eating he finally relented. The plans were simple enough for a hand churn, and with my ice making spell the spring and summer would surely improve. I also got him to order me a beehive, another thing he didn't really understand, but the woodworking was cheap. After making a lot of money for the family, and mercilessly pestering him about it he finally caved.
+
+Once winter slipped away and we were no longer needed in town, we went home. The snow was mostly gone by this point, and I got to skip along as my dad carried the churn. He was picking up my hive in a few days, and I was in a cheery mood.
+
+Mom even let me take some of her extra thread and weave it into a loose mesh. Well, let me is a bit of an exaggeration I did it and pretended like it was a mistake. She was a bit cross, but I told her that we could still use it - I'd think of something.
+
+"You had better. Spinning all that wasn't easy," she glared at me, obviously suspecting foul play on my part.
+
+"I've got an idea. Don't be mad," I answered placatingly.
+
+"Looks useless to me," Rod offered.
+
+"Nope, nothing for that," John said.
+
+I gave them a grin, I knew two young men who would be helping me. Bee stings hurt.

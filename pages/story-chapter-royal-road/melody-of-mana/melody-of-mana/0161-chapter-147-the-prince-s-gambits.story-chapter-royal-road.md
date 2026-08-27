@@ -1,0 +1,85 @@
+---
+id: 9e92a1f2-eeda-5ac7-a8cc-406e818d7be2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147 The Prince's Gambits"
+slug: 0161-chapter-147-the-prince-s-gambits
+partOf: melody-of-mana
+position: 161
+ownLength: 1393
+unit: words
+ownProgress: 1393
+publishedAt: 2022-06-22
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/932804/chapter-147-the-princes-gambits"
+royalRoadId: "932804"
+markedReadAt: "2026-06-29T22:31:24.686Z"
+---
+
+The northern reaches of The Empire of Shadows
+
+Men poured into the small facility.  Days had passed as they'd pounded this hidden location with spell after spell of artillery.  Once they'd finally breached the barrier they'd been met with traps and a handful of golems.  That paltry resistance had only delayed them for a few moments.
+
+The Emperor of Shadow's soldiers passed hallway after hallway, each as empty as the last as they poured deeper and deeper, before long the lead of the group stopped, putting up a hand to motion the men following to stop.
+
+"Something's not right, where are they?"  He paused for a moment to look to his sides, only more empty halls greeted him.
+
+As if in response to his words a single line of red glowing light flew down the ceiling and past, branching off into each hallway.  As it spread it sent itself into every room one by one.  The men looked on in horror as the whole facility was overtaken.
+
+"RUN!" their commander shouted, his final word.
+
+Roughly halfway up a mountain on the other side of the valley three men watched.  The explosion was not big enough to make it rain debris, but it certainly sufficed to level their former home.  As it moved to charge after charge hitting the weakest points of the structure it boomed.
+
+"Well, that at least was a success," Lorrae said as he adjusted his clothes, looking more and more old and tired than he ever had before.
+
+"Enough of one at least," his grandson agreed.
+
+"No, that was a loss for us.  They lost only a few men, we lost our only base of operations.  It's clear who the winner of this engagement was."  The prince now fully a man, if a young one, frowned.  "We'll have to split our forces now, keep a lower profile.  I hate to emulate our enemy, but..."
+
+"But it is likely the only way forward my liege.  Without cutting the head off of this snake we'll never destroy it."
+
+"I know Lorrae.  Come, let us go for now, there's much to do."
+
+As a group the three made their way into the caves.  These mountains were riddled with holes and caverns, and this system could take them well to the other side of this peak without going above ground.  They walked in silence, each man lost in his own thoughts, all too tired to share with his companions.
+
+The bulk of their men had fallen back to some of the cities in the north.  In particular one known as the 'Free City of Ice's End' more commonly known as either 'Ice's End'  or 'the free city' depending on who you were.  This metropolis was sizable, and far flung from any other settlement.
+
+The area around Ice's End was rather unusual.  With a natural deep harbor going out to the Western Sea it could both receive ships from the outside world and engage in fishing several cold water species which formed it primary industry.  These fish would be salted and sold to any land a merchant could reach.  Normally salted fish would be a low cost product but due to the influence of mana many of these cold-water species could be preserved for years with minimal effort and no flavor loss, making them an excellent commodity for the war-torn human lands.
+
+While south of the city there was little other than frozen tundra for nearly a hundred miles, it sat upon a natural hot spring.  This was the only reason the towering glaciers to it's north hadn't overtaken the location, instead leaving it with incredibly strong natural barriers.  If one wanted to invade only the route by sea would work.
+
+For these reasons, and several involving trade, almost nobody bothered to attempt to seize the city, at least they hadn't until now.  Prince Lief had slowly moved his men and their families in, posing them as refugees had been difficult, as had hiding their mage status.  He'd focused on physical magic users at first, since any of them could, with some training, pose as sailors of some skill.
+
+As he exited the mountain cave the prince looked towards the former dean.  "Lorrae, are you ready?"
+
+The old man nodded and began casting.  This spell would speed them along much like the one he'd used to escape the capital, only at a much slower rate, and with far more stealth involved.
+
+Three Week's Later
+
+The Free City of Ice's End
+
+Lord Knud
+
+Lord Knud looked out across his hall.  For so many generations his family had ruled this city, passing lordship from father to son down through the line.  All the way to himself, where he feared it must end.
+
+Knud was not a small man by any definition nor a young one he had ruled for nearly forty years, and taken three wives in defiance of tradition, but only out of desperation.  He'd loved his first wife, to be true.  That woman had made his youth a joy, and when she failed to give him a child he had felt wounded.
+
+Though it bucked tradition, after many years his first wife had encouraged him to take a second.  She feared that her failure to produce an heir would sink her family.  The lord had hesitated a first, but only at first, and he'd soon taken a second wife, a young girl whose beauty was renowned.  Perhaps lust had gotten the better of him.
+
+Sadly, with his second wife as well he'd failed.  This was a stab to his own pride as a man, for clearly it was not any doing of his wives, but his own failing which kept him from continuing the family.  After several years without so much as a pregnancy he took a third, much to the chagrin of his first two.
+
+While he'd held little hope at the time, eventually his third wife had felt her belly grow.  The man had been a wreck for the entirety of her pregnancy, knowing that this might be his only chance.  While he'd desired a son to continue his lineage when he'd been handed his little Astrid he could feel nothing but love for the small girl.
+
+Now his eyes settled onto her once again.  She'd grown so, from the small child into a beautiful young woman.  At fifteen years of age her platinum hair and brilliant blue eyes struck all who saw her.  Her lithe grace opposed her father's bulk, but in their eyes, their noses, and their auras they matched.
+
+Lord Knud's reverie was interrupted by a servant.  "My lord, another ship arrived with more refugees.  You wished to be informed before they were let off?"
+
+"Hmm," the man grunted, "How many?  And their make up?"
+
+"Only five my lord.  Two cousins and their grandfather, the older cousin seems to have a wife and daughter with him."
+
+As the ruler considered a small chimed nearby.  "Father, doesn't their respect in bringing their elder rather than abandoning him deserve some reward?"
+
+Astrid knew her father was frustrated by the number of men coming to their city.  They got few on a normal year, but recently the influx had been much larger.  She understood his considerations, many men coming all at once could upset things, particularly if they were without families.  That said she also felt that they should give some kindness to those fleeing this 'Lord of Shadows' a man who certainly sounded evil to her ears.
+
+The lord of Ice's End had always had a soft spot for his daughter, and to an extent she wasn't wrong.  "Allow them to enter the city, but make it clear that they'll need to see to their own arrangements."  At his words the servant retreated and the girl gave him her most radiant smile.
+
+The elder went back to the paperwork that he must complete to keep his city running as his child began working on a new piece of embroidery.  He didn't know of the potent forces he'd just invited into his home, or of their enemy in any meaningful way.  He knew not that his decision would change the future of his people, or of his lands.  No Knud's thoughts were focused on other things, the fishing industry's recent successes, the new public works that must be built, and his family's future.

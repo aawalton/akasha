@@ -1,0 +1,295 @@
+---
+id: 681ed2e8-8b50-5f16-b092-085210dc87b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 557 - A Defensive Response"
+slug: 0057-chapter-557-a-defensive-response
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 57
+ownLength: 3084
+unit: words
+ownProgress: 3084
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2243017/chapter-557-a-defensive-response"
+royalRoadId: "2243017"
+markedReadAt: "2026-06-29T19:37:07.331Z"
+---
+
+Tala had at least a minute or so before the first other Leshkin arrived, and even when those did, Rane and Terry would be more than able to handle them, even if they didn’t use the same authority application that she was to hold the lesser in place.
+
+Which is probably wise, otherwise, they’ll start combining until they can fight the authority we’re using, and we can only hold so many in place even if they never take that path…
+
+-Exactly. It is better to kill than to restrain.-
+
+…That is not what I said.
+
+-...That is exactly what you said.-
+
+I didn’t say it so generally. I was referring to this situation and this manner of restraint.
+
+-Fine, fine.-
+
+Regardless, she had a lot to investigate with the lesser within her grasp.
+
+She strove to see more, see deeper, and finally, after spinning her clouds of bloodstars all around the lesser in every dimension that she was aware of, she made a discovery.
+
+Its reality node was not, in fact, one with the plants that made up its body, not really. That was incredibly surprising, as it meant that what Tala thought of as its body wasn’t, in fact, a body at all. At least it wasn’t in the sense that she usually considered.
+
+This was utterly unlike how humans worked, where each limb, organ, or bit of tissue would be a subset of the whole, rather than somehow existing in parallel with that which made the entity ‘one.’
+
+She had no idea what the implications really were, so, as a test, she cut off the thing’s arm.
+
+As she cut it free, the reality node seemed almost to slip free, pulling back into the rest of the body. Since she had only used Flow in its normal state, the reality node wasn’t severed, even though it did disconnect.
+
+It seemed like the connection had been so tentative that it had practically retracted before the cut was complete.
+
+The wound didn’t really seem to cause it pain, even if acidic blood flowed from some of the severed tendrils.
+
+That caused Tala to frown quite deeply. The plants that made up the matter that she’d cut weren’t filled with acid sap… or they hadn’t been before the Leshkin claimed them, however briefly.
+
+Rust, there were massive amounts of the vines all around, growing around the roots of the great trees.
+
+She could even see a leaf that she’d severed bleeding as well, clearly losing more than its own volume of blood every second or so.
+
+Moreover, there was no weakness that she could detect in the reality node associated with the injury, nor from what she could detect of the soul.
+
+-Have you ever detected weakness in a reality node?-
+
+I mean… no? Maybe? In looking through memories, I feel like it’s obvious that we saw variations in reality nodes when things were cut apart or separated. That violence seemed to send ripples through the previously unified nodes, but I suppose calling that weakness is forcing an interpretation on what we’ve witnessed.
+
+Alat sent the impression of a shrug. -I mean, you’re likely right, but it seemed worth mentioning that we’re making a leap, here.-
+
+That’s… fair. Tala sighed, fully invested in her myriad perspectives around the imprisoned lesser.
+
+The acid blood was still flowing freely with no sign of slowing, nor was there any indication that it was causing the Leshkin any discomfort, distress, or anything else.
+
+The blood was chock full of magic… at least it could be considered so when compared to the creature that it came from. The power was pushing right up against the border between non-magical and ‘Child’ on the arcane scale, which was very little power all things considered.
+
+The caustic nature of the blood tickled something in Tala’s memory, and she was immediately reminded of Thron and his concept of corrosion.
+
+“Oh.” She felt a bit silly. “It’s not blood. It’s a defensive response.”
+
+Rane glanced her way. “Seems like blood. Are you sure?”
+
+“Well, yes it does seem so. That’s a bit of the point, I think. It also only contains as much power as the thing is able to actively draw from the environment. It could, quite literally, bleed all day. It’s like losing a limb didn’t really negatively affect it at all.”
+
+He shook his head. “Never trust something that can lose its limbs and not care.”
+
+Tala cocked an eyebrow at him, giving him an unamused glance, and he cleared his throat, coloring at his unintentional slight.
+
+“I… I didn’t think that through. I apologize.”
+
+She shook her head and waved it off, a smile tugging at her lips. “It’s fine.”
+
+“Well,” he cleared his throat again, “they’ll be here soon. Let us know if you need anything more than time.” He hesitated for a moment. “Do you want to take it into your sanctum to work, or we could just wait for things to calm down?”
+
+She tilted her head to the side, considering. Finally, she shook her head. “No. It's connected to the others. They would know we were somewhere here, and it might cause them to combine up to a level of power that could—in theory—threaten Kit in one way or another.”
+
+He gave a slow nod in return. “I don’t think that’s likely, but yeah. I suppose it’s better safe than sorry.”
+
+Tala turned her attention back, regarding the void-like eyes staring at her in turn.
+
+Experimentally, she pressed the arm back against the body.
+
+After a moment during which nothing happened, Tala relaxed her hold on that portion of the lesser’s spirit. As soon as her restraint slacked, the reality node immediately extended into the vegetation, reconnecting and ‘healing’ the Leshkin with essentially no required energy, at least that was true if what Tala could see was all that had been required.
+
+Huh… that’s fascinating.
+
+She then delicately grabbed the reality node, itself, with her authority and pulled it from the limb with slow, precise pressure.
+
+That was actually much harder than cutting the arm free had been, but that was likely because she’d had a tool designed for cutting material, when compared to trying to pull it free with simple force of will.
+
+Regardless, when the reality node was fully withdrawn, the limb dropped off, withering as it fell, and no blood flowed.
+
+She wasn’t sure what all that meant, but she could analyze all that she was seeing and detecting more fully later.
+
+Terry and Rane had begun to engage lessers, but the enemies were only coming sporadically. Rane honestly had very little to do as Terry flickered around with essentially no delay.
+
+Through her grip on the lesser’s reality node, Tala could feel that far more of the creatures were closing in, already starting to meld into their higher forms.
+
+Noticing that distracted her for a moment, as it drew her focus to what was happening when they combined.
+
+It seemed that when four lessers came together, their magical density melded and was further augmented by the forest around them until they were pushing toward the middle of the ‘Child’ range.
+
+There must be more variations than we’ve seen… or these are weaker, somehow? The generals couldn’t have each required…
+
+-More than two hundred fifty thousand lessers? Yeah… I agree. Maybe they can have variable power? Or the higher forms take more than a half or a third step up in advancement at each stage?-
+
+Maybe… It was honestly a bit crazy that she considered Child to be weak. That was enough power to be considered an Archon for a gated human. Stars above, it was the power level she’d had when she’d come through these woods toward Makinaven last.
+
+It was no wonder they’d given so much trouble the last time.
+
+Well, the juggernauts did at least.
+
+But she was getting distracted, and it was almost time to move on and let the Leshkin calm down, or at least force them to disperse. -But Terry is having so much fun.-
+
+It was true. The terror bird was trilling with glee as he flickered through the woods around them reaping plant-bodied lives. What little blood got to him sloughed off like water off of a duck.
+
+-I think you can take a few more minutes. Rane is barely having to do anything, yet.-
+
+Fine. She tutted to herself, considering.
+
+Her thoughts and gaze were drawn up to the eyes, where instead of physical matter, the spirit of the Leshkin seemed to be physically manifesting itself to allow for sight.
+
+On one side, it created a rather creepy effect, as she was literally looking into something that shouldn’t be visible to mundane eyes. On the other, it was quite impressive. Well, their spirits are seemingly more malleable…
+
+That gave her an idea.
+
+Tala reached out and with her authority grabbed a part of the lesser’s arm.
+
+Specifically, she grabbed the reality nodes of the plant matter and that of the Leshkin itself.
+
+She then squeezed in a manner of speaking. She declared that they were one and the same. She enforced the truth that that part wasn’t just controlled by the lesser, it was the lesser.
+
+A wave of power rolled inward, responding to her command, and the upper arm became more solid, less vegetative, and more… real somehow.
+
+The physical matter that made up the plants seemed to rearrange itself, trying to match the reality node—the spirit—of the Leshkin.
+
+The lesser turned its gaze to that part of its body, the spirit-eyes somehow widening in horror.
+
+There wasn’t a body to support the suddenly flesh-like section, and Tala could see it already degrading for want of blood-flow and things like that, but something far more pressing took her attention.
+
+A feeling of supreme, unassailable power briefly seemed to surface, pushing Tala’s authority away from the area she’d fused together.
+
+No.
+
+There was no anger in the word.
+
+There wasn’t any emotion at all.
+
+In truth, there was no word in the word… somehow.
+
+Regardless, it simply was, and the idea it had conveyed could not be denied.
+
+The very reality node of the lesser unraveled, the vegetation of its whole body rotting away, and Tala became unable to hold the spirit any longer, as if it had become a greased pig in her hands.
+
+It shot free, heading back toward the nearest spawning tree.
+
+An instant later, Tala was left, trembling, standing before a slowly falling puff of rotten leaves and vines.
+
+The power was gone, leaving not a hint behind.
+
+The Leshkin who had been closing in on them had frozen, and a moment later, they all retreated, leaving the three interlopers alone, standing beneath the lofted canopy.
+
+Terry flickered around the forest in confusion, finally stopping some twenty feet away as he crooned in forlorn disappointment.
+
+Rane was bouncing on the balls of his feet, Force held in a middle guard.
+
+Everywhere about them, clouds of dissolute vegetation were slowly settling to the ground.
+
+Based on the size and distribution, they’d been surrounded by at least soldier level Leshkin, if not knight. A few even seemed to have been juggernauts.
+
+Her memory from the portions of her perspective that she’d been ignoring confirmed that such was exactly the case.
+
+Her husband turned and regarded her in confusion. “What just happened? I didn’t know that they ever retreated. Also, no records we reviewed indicated anything close to that quick of a convergence. They seemed to really dislike you exerting authority over one of their number, over their reality node.”
+
+Tala gave a slow nod. “I don’t know that any other Mage in living memory has been able to interact directly with reality nodes… at least not those of others…”
+
+A thought flashed through her mind. Oh… the Doman-Imithe… We need to ask Eskau Meallain about how the arcanes actually use it.
+
+-Right… we’ve been a bit focused on Reforging, and that doesn’t really pertain.-
+
+Well, it might, but we won’t know until we’ve asked.
+
+-True enough.-
+
+Terry crooned another lingering note, clearly sad that his fun had been cut off.
+
+That drew Tala’s attention to the no-longer acid ‘blood’ that was scattered liberally around them. It was beginning to reek, and that allowed her to identify it.
+
+“Their blood is just vegetation, decomposed to the point of being liquid?”
+
+Rane grunted, wrinkling his nose. “Yeah, then filled with their concept? Or its decomposition is a result of being over-full of their concept? I’ve really no idea about the order of operations here.”
+
+“It could be either.”
+
+He sighed, sheathing his sword and turning to face her after scanning their surroundings one last time. “So? What changed? I can’t see what you were working with as well as you, but it seemed like you somehow… concentrated the spirit? Is that right?”
+
+Tala shrugged. “Honestly? I’m not really sure. I want to bring in some other scholars on this. Regardless, did you feel that power at the end?”
+
+Rane tilted his head, then slowly nodded. “When you banished all of them? I didn’t think that you could concentrate your power to that extent. Did you pick up a new technique, or did your studies uncover something? It clearly was very powerful.”
+
+She blinked a few times. “What? Me?”
+
+“Yeah. It had your aura signature throughout…” He frowned then. “But… now that I consider it, I didn’t feel your authority in the act…” After another moment, he nodded. “I didn’t feel a connection with it either.”
+
+-He’s right. It matched our magical signature exactly. Anyone capable of telling what happened here isn’t really going to be able to point to anyone but us.-
+
+Tala’s eyes widened. So… it was us… from the future?
+
+Alat sent a long-suffering sigh. -...Sometimes I’m an idiot.-
+
+Hey!
+
+-Tala, time manipulation is lethal.-
+
+Even for Sovereigns? Transcendents?
+
+-While I appreciate the positive thinking, yes. If not, a lot of things would be different. More to the point, even if time manipulation was possible, it still couldn’t have been you. Your magical signature is constantly changing, if just slightly. There is zero chance that a Transcendent level Tala would have magic that felt the same as yours, now.-
+
+…Fine. That’s fair. Then, who or whatever that was seems to have been able to immediately, perfectly match our magical signature.
+
+Rane’s authority and aura was sweeping the area around them, and every time it crossed with hers, it felt more like a melding than an overlap.
+
+The feeling was a comforting reminder of their bond, giving her something to latch onto in contrast to the un-fading memory of that overwhelming negation which had been sent against her experimentation.
+
+She began explaining to Rane and Terry what she’d learned and what had happened.
+
+She supplemented her words with memories to make the process of conveyance easier.
+
+In the end, Terry had flickered closer, resizing to be in her lap as the two humans sat cross legged on the forest floor.
+
+He didn’t seem to have many thoughts on what she’d done or discovered, even if he did stay to listen.
+
+Rane on the other hand had actually gone so far as to begin to take notes. When she finished, he sat there, tapping the Archive slate before him. “So, the negation at the end… Do you think it was telling you no, thus protecting the lesser, or was it forbidding the Leshkin from having ‘true’ bodies once again? Or something else?”
+
+She tilted her head to the side in consideration. “I… I really don’t know. I feel like the effect that it used was something disruptive to the connection between Leshkin spirits and their assumed forms. It didn’t feel like something created on a whim. It came across as perfectly calibrated for the purpose. The fact that we didn’t feel even a ripple within our own spirits backs that up.”
+
+She looked around.
+
+“It even drove the connection I felt before from the trees. It seems to be reconnecting—regrowing—but it’s slow.” She grunted. “I suppose that’s actually the answer then, isn’t it? It seems like whatever happened was very much directed at the Leshkin, not at me.”
+
+“So, they aren’t allowed to have bodies once more. Someone is stopping it?”
+
+“Or something. Honestly, even though the ‘no’ was very clear, I can’t swear that it was actually a conscious expression. It was more like trying to use a dull knife to cut a tough rope. It was just a ‘no’ that’s not happening.”
+
+“So, you think that you might have pushed up against some fundamental stricture?”
+
+“Or an enforced boon, or some other Sovereign or god-beast edict.”
+
+“Do you think we’ll ever know which? I really don’t think you should do that again.”
+
+Tala barked a laugh, causing Terry to stir just enough to give her a faux glare. “I would say that I will not be doing that again.”
+
+Good.
+
+Tala and Rane were both on their feet—Terry behind them at his standard battle size—before they actually registered what they were sensing.
+
+A majestic creature stood more than one hundred yards away.
+
+It was larger than a caravan oxen, if more lithely built.
+
+Its head was similar to that of an elk, save for an all-too-human face, which was regarding them with interest.
+
+Even with that deviation, a truly massive pair of antlers spread from its crown, the rack extending stone- and starward in what seemed to be true four-dimensional existence.
+
+The creature itself seemed to have a similar physicality, but it was veiled from Tala’s sight like a piece of furniture covered with a blanket.
+
+-Or like Kit’s dimensionality to anyone other than you?-
+
+Yeah…
+
+It was as if the very nature of existence hid what would otherwise have been plain to see.
+
+Similarly, the ‘good’ that had washed over them had not been words. It was a simple feeling of peace and rightness, as if Tala had put herself in proper alignment with the laws of nature.
+
+It was a perfectly warm cup of coffee. It was floating lazily around her circular river. It was kissing her husband.
+
+It had been a feeling of just letting things happen as they should.
+
+Terry stood his ground, but Tala could feel his unease.
+
+Rane immediately sheathed his sword and bowed. “Rane Sappherrous greets the Forest Spirit.”
+
+That was all the confirmation she needed. Her husband had confirmed what she had already guessed.
+
+Somehow, yet again, they stood in the presence of a Sovereign.

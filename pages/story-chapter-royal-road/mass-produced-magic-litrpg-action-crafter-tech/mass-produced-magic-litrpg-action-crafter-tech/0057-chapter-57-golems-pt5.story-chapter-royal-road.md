@@ -1,0 +1,149 @@
+---
+id: 0d09a010-bd29-5d2b-b64c-7caf30b47f71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 – Golems – Pt5"
+slug: 0057-chapter-57-golems-pt5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 57
+ownLength: 1663
+unit: words
+publishedAt: 2025-02-11
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2061658/chapter-57-golems-pt5"
+royalRoadId: "2061658"
+---
+
+Kindra stepped further into the cottage and studied the crystal. Sigrid turned back to it, carefully filling engraved runes with the ink.
+
+How is she doing that?  Kindra took a seat and studied. Mana flowed down Sigrid’s arm and into the paintbrush, mixing into the ink and making it glow. Like a master caligrapher, she gently filled the rune, carefully filling it with the glowing ink. As the last part filled, the rune surged. The ink hardened into a glowing metal.  Wait. What is that ink?
+
+Sigrid looked over and smiled. “So, enchanting is a delicate art even with skills.”
+
+“Is there an enchanter class?” Kindra asked, sitting down and studying the rune.
+
+“Not directly. Most crafters can get skills for it,” Dain replied, patting Kindra on the back.
+
+“Wizard classes can, too,” Sigrid replied.
+
+“But those classes are a nightmare. You may as well not have a class than take that one of those,” Gleon said, shaking his head. “Artificer is better.”
+
+“Why?” Kindra probed.
+
+Sigrid gently traced a rune with her finger. “Because over the requirements for it. It takes decades of study to upgrade it beyond uncommon.” She looked up. “Wizards are the most versatile classes but require you to learn everything. Everything. You’d need to study, have a strong connection to magic, and an innate understanding of a school of runes.” She smiled. “I did get the option for my second class. Many did, and a few picked them.”
+
+“Did you?” Kindra asked.
+
+Sigrid shook her head. “No. It was common and not worth it.”
+
+Kindra nodded. That wouldn’t be worth it. “What skills do you get if you have to learn everything?”
+
+“Things to make it easier, less costly, faster to cast; things like that. That’s true for all classes. So most get skills to help with runes, which is why many view it as worthless.”
+
+Kindra nodded.  “Death, how long did they have the system before we met?”
+
+[Time passed strangely in there. They had the system for nearly a decade before you were back. I am sorry about that, but it was necessary. ~Death]
+
+“Are you one of them?”
+
+[No. They are a blight on this portion of this galaxy. Kill them for me.]
+
+Well, that’s something.  Kindra willed the text away.
+
+Sigrid smiled at her. “I’d advise a druid class for you. I specialized in earth, stone, and healing. It’s a good fit for artificers.”
+
+“Or a martial option,” Gleon added. “The abilities will synergize with a good melee build.”
+
+Sigrid leaned over and shook her head. “The priestess said that she’s more aligned to a mage.”
+
+“Ah. A shame, but with Aika, it makes sense.”
+
+“It does?” Kindra interjected. “Why?”
+
+“You shouldn’t have a familiar like her as an artificer.” Gleon studied Aika. “That is a mystery to us.”
+
+Kindra nodded. “Me too. I was supposed to be making a little robot. Instead, I got Aika, who’s way better.”
+
+“A nice upgrade, but it is strange.” Gleon chuckled and studied the crystal.
+
+Sigrid picked up the brush. “She will likely be a fire druid or fire mage given what I’ve seen.” She paused and met Kindra’s eyes. “You’ll want to practice feeling the mana around you and control what’s inside of you. Memorizing fire runes will help. I’d recommend it while I’m working on this.” She picked up the book and flipped the pages, pointing at a rune.
+
+“What’s the difference between a mage, a wizard, and a druid?” Kindra asked, looking at the rune. She recognized it instantly. It had been everywhere in her dream with the fire elemental.
+
+“A mage is a versatile caster that learns multiple schools of magic. Druids use nature and elemental magic, specializing in a few different types.” Sigrid sighed and shook her head. “Wizards do all of it, but through raw knowledge.”
+
+“Thanks.” Kindra smiled at her before returning to the book, looking at the potential sequences and bumping Dain. “Can you teach me how to read it?” She gestured to the writing.
+
+Dain smiled, patted her back, and read.
+
+Kindra listened intently.  So, these are different types of fire spells. A bolt of it. A stream, a whip, and ways to make it explode.  She memorized the runes.
+
+Dain smiled and flipped the mage, revealing more script.
+
+Kindra gestured to her paper. “The alphabet?”
+
+Dain smiled, stood, and walked to a cupboard. He pulled out ink and quill, walked back, and wrote them down on paper.  Time to learn the alphabet.  She traced over the fifty-three letters while Sigrid resumed her enchanting project.
+
+Looking up, Kindra watched. “What’s the ink?” she whispered.
+
+“A mix of magical metal filings and sap from ancient trees,” Dain replied. “She’ll draw the runes to stabilize the enchantment she’ll place inside.”
+
+“How do you power it?” Kindra asked, looking at him.
+
+“It depends on the enchantment. Some require mana.” Gleon reached under his shirt and pulled out a glimmering chain. “This boosts my stamina by my level. It powers itself from ambient mana, linking to me.” He gestured to the golem. “This would need a source.”
+
+“Do you need mana?” Kindra asked him.
+
+Gleon nodded. “I keep some for my abilities and items, but not like casters. They need to keep a lot of it.” He leaned forward and smirked. “Leveling is better.”
+
+Sigrid sighed. “Ignore him, Kindra. He prefers the fighter style with more passive boosts. But he still has several skills and some mana to power them. He can use both types of enchantments.”
+
+Gleon chuckled and studied the crystal. Kindra turned back to the book, flipping the page and studying it.  Is this still fire? It has the fire rune but something else, too.
+
+“Lava spells,” Dain said, gesturing to each. He started and the top, running his finger along the text while reading it aloud.
+
+Kindra listened and memorized, slowly building her vocabulary and the runes to further augment her fire. She learned how to launch molten stone in various forms. A pattern quickly emerged. Like firing a gun, the spells focused on delivering a lethal concentration of heat.  So, I use gravity indirectly and rain it down, or I fire it off with a pebble to act as a bullet.  She nodded.  Makes sense, and this is smart.  She paused and looked at Dain. “Why are the cities so primitive if you know this?”
+
+Dain grimaced and didn’t look up.
+
+“Please, tell me. I need to know.” Kindra studied the dwarves. They all went quiet and didn’t speak. “The necromancer kills you if you get too strong, right?” she pushed.
+
+Dain patted her on the back. “Yes, but you don’t need to worry about that.”
+
+Kindra reached over and hugged him. “Thanks for taking me in, and I am sorry.” She smiled at him and Sigrid.  And I will find a way to stop it even if I have to make an atomic bomb.  Turning back, she looked at the spells and flipped the page.
+
+Dain dragged his finger along pages, stating the words as he went. The difference in the spells became obvious, and the pattern snapped into place. Spells to create walls, tornados, infernos, and other combinations. Spells with more and more air appeared.
+
+“You likely will struggle with these. Artificers usually tend toward earth and fire,” Dain said as he finished. “But these may be options for you.”
+
+“Can you cast them using the runes?”
+
+“Yes, if you don’t take a second class or if you have the wizard class,” Sigrid said, nodding. “But both come at a steep price. It takes more mana, and they are difficult to truly master.”
+
+“And enchanting?”
+
+“Same thing, but artificer means you can.”
+
+“Thanks.” Kindra smiled at her and looked back at the book, studying the different spells.  So, these are better at area damage but not that much better.  She looked at Dain. “Why use these instead?”
+
+“Elemental harmony. If your spirit is more harmonious with air, these are the type that you will get. If you wish one, focus on it.” Dain gestured. “Fireball and Firewall are particularly useful. You can even use them to refine metal.”
+
+Kindra nodded. “Makes sense.” She studied the list of spells.  Which ones will I get? I did use one like Firewall.  Looking down at it again, she flipped the page, and her eyes widened.  Water?  She looked at Dain.
+
+Dain smiled and gestured. “Let’s work through it.”
+
+Kindra began working through the few spells. Both were related to steam, and it quickly became apparent that Dain wasn’t a fan.  Water and fire aren’t that bad… though these would be very hard to use.  She finished off the page and shook her head. “Are these common?”
+
+“No. Water and fire do not often mesh.”
+
+Sigrid looked up and nodded. “They are not ideal. I doubt you’ll get one.”
+
+I don’t know that I’ll get any.  Kindra smiled at her and looked back at the book. She flipped pages, stopping when she saw something like Gleon’s healing skill. She gestured at it.
+
+“Ah, healing. You may be minorly compatible.” Dain smiled and pointed at the first word.
+
+Kindra started sounding them out, slowly moving down the page of basic healing spells. Some were to heal cuts. Some were to heal bones, and others were to boost regeneration.
+
+She slowly worked through them. A calm, quiet settled across the room. The group worked, and Kindra heard the soft breathing of a sleeping Aika. With a smile, Kindra worked through the page, and Gleon gasped.
+
+Kindra looked up. The crystal was glowing, and a feeling of dread carried through the room like clouds in a storm. Hairs on Kindra’s neck stood, and the runes inside sparkled like ominous death.  Why is this bothering me so much?  She leaned forward and studied the familiar runes in the sequence.
+
+Realization hit her like a jackhammer.  I know those runes… They were in the plagued creatures.  A look of horror spread across her face.

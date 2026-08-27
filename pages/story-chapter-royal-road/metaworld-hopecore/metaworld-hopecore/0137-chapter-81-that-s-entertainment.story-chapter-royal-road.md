@@ -1,0 +1,235 @@
+---
+id: c3e72933-bba3-556b-8e78-ad9277435197
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 81 — That's Entertainment!"
+slug: 0137-chapter-81-that-s-entertainment
+partOf: metaworld-hopecore
+position: 137
+ownLength: 3056
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3727181/chapter-81-thats-entertainment"
+royalRoadId: "3727181"
+---
+
+"They had us working days and nights on end. They'd give us pep-up pills to keep us on our feet long after we were exhausted. Then they'd take us to the studio hospital and knock us cold with sleeping pills… Then after four hours, they'd wake us up and give us the pep-up pills again so we could work another 72 hours in a row… I started to feel like a wind-up toy from FAO Schwarz."
+
+Judy Garland
+
+Mid-term Break.
+
+The dorm was near-empty, and Eppie was happy to be out—even knowing that Mama Josefina was close by, ensuring no William Chen could raid her underwear drawers. Ava was gone before the week started, leaving for New York with her Guilliams piece. Halle went home to Nashville, as was tradition.
+
+Zara arrived at 10 AM in a cardigan two sizes too big, hair knotted up with what turned out to be a styled guitar pick, her gams peeking out from a comfortable mini. Eppie wore her cheap theatre blacks because anything they chose would be gone the second they arrived on set.
+
+Zara drove while Eppie seriously contemplated getting a licence. That said, the Prius had by now become a home to some of their deepest, most profound conversations, and it was a Toyota, meaning it was good until the heat death of the fossil fuel industry. With the music up, they sang the latest pop tunes across Overland with the windows cracked, breathing in the sweet stink of early jacaranda.
+
+Eppie had struck a particular high note, putting Zara to shame when, post insurance advert, she became blinded—
+
++ Karmic Causality+ Karmic Causality+ Additional Causality from [Noblesse Oblige] received+ Additional Causality from [Noblesse Oblige] received
+
+Your act of [Noblesse Oblige] has reaped the [Karmic Parasite]
+
+The notification, covering half her vision, was a very good reason as to why she should not be driving in the future.
+
+Her thought had already veered toward William when, unbidden, a tune she had heard for over three decades came on the radio, its percussive beats utterly unmistakable.
+
+“OH, MY GOD!” Zara took everything she had to keep her hands on the wheel. “EPPIE! IT'S YOUR SONG!”
+
+Indeed. It was Prince’s song.
+
+Doves Cry. feat. Kellie, Noah, Kelvin G.
+
+Her body moved without consent, the beat snapping against her sternum like lovers’ hands forcing her hips to sway. Like Prince, Curon also forwent the baseline—allowing the keening of the guitar to rise unchallenged, high and thin, like a cat yodelling over a sheer cliff. Then came the voices, Kel’s angelic falsetto, unbraced and aching, sending goosebumps up her thighs, followed by Kellie’s answer; warm, full, settled.
+
+For about a hundred metres, the Prius almost lost control. The girls pounded the dash, Eppie singing the song to her heart's content with her head back, her own falsetto higher than Kelvin’s while Zara sang Kellie’s part. From the outside, they looked like a pair of maniacs, drunk on music.
+
+The song ended, but the [Causality] sure as hell didn’t.
+
+Eppie’s phone buzzed, showing a message from Curon that simply said: “Call me when you hear it.”
+
+She called back immediately.
+
+“Wow, that was quick.” Curon sounded surprised himself. “It’s only been out for an hour.”
+
+“You should have told me!” Eppie was still far too excited from hearing the song’s alter-world rendition, done as a duet.
+
+“For what reason?” Curon made a snort. “Will you come join the press tour? Did you check Maddy’s email? She told you it was coming out this week.”
+
+“Ah…” Eppie apologised to her Media Manager. “Point taken.”
+
+“So, what do you think? The final cut.”
+
+“It's… gorgeous,” she said after a few seconds, trying to find the right word. “The hook, incredible. There’s just nothing like it.”
+
+“It’s no.5 on iTunes as we speak,” Curon answered with deserved arrogance. “I told Davis to chalk up another one for our songbird!”
+
+“HA!” Eppie gushed breathlessly against the phone, so giddy that Zara had to press her knee to calm her down.
+
+The windfall in [Causality] added immensely to Eppie’s joy. Having so much, so soon, meant she had far more control over the days leading up to LAPAGANZA, not to mention the shoot they were about to perform for Webber.
+
+“Kellie’s over the moon, and Kel’s absolutely regretting handing over his cut. I told him, you gotta have faith. He still thinks he’s a one-trick pony…” Curon’s rant went on for about two whole minutes before he arrived at his second point. “Anyway, Richard’s Estate.”
+
+“Go on,” Eppie collected herself. “When?”
+
+“Undetermined,” her faux-father said. “Davis says you need to record Better as well as this House song before he organises a date for you.”
+
+“It’s not… THAT serious, is it?”
+
+“He’s scared you’ll set the Richards off,” Curon answered her with a smirk she could imagine on his face. “You have that effect on people. Powerful people, especially. Guess he wants insurance for the next quarterly report.”
+
+“Alright, I guess that makes sense…” Eppie sighed. “Tell me when.”
+
+“We’re kind of preoccupied until May, so it’ll be mid-June, maybe early July…”
+
+“Mid-June is good,” Eppie stated, trying not to sound disappointed. Guess I better pony up the songs by April. I need that [Causality].
+
+“Great, pencil it in,” Curon made a scratching sound. “Alright, I gotta go. We got a song to promote!”
+
+The call died as quickly and efficiently as it was answered.
+
+Out of curiosity, Eppie checked her corporate iPhone, and lo and behold, it already had the single pre-purchased. Very quickly, she downloaded the song, and the two girls once more partied while haphazardly driving toward Culver City.
+
+Of course, the drive wasn’t all purple sashes and blouses. Somewhere in the slow traffic, they also spoke about the weeks apart involving both personal and school projects.
+
+Eppie told Zara about Valorie, and Zara responded with high-pitched squeals of joy and delight, saying that she knew Eppie could do it, that Eppie had the capacity for forgiveness after all.
+
+“Tell me about you!” Eppie changed the subject at a traffic stop. “How’s your final project coming along?”
+
+Zara made a face. “It’s technically complete, but I feel it's missing its soul, it's missing El Duende.”
+
+Eppie asked for clarification.
+
+“Paco came down two weekends ago,” Zara said, taking the turn onto Washington. “Drove the whole way from Fresno. We hung out in Dad’s garage and played for a week. I tried to figure out what El Duende is, I played soleares, but…”
+
+Zara sighed. “The song sounds better in Paco’s hands than mine. Mine sounds like a tune from a country fair. Paco’s version sounds like something that was freshly dug up.”
+
+“Did you get help from Antonio?” Eppie asked. “He did say he was going to be around.”
+
+Zara gave her an unguarded grin. “That’s a whole other thing, I am afraid. Antonio said that before I can make my own Basque-diaspora EP, I need to live a little, get a feel for the road. He told me that, after graduation, he’ll take me around the country for six months, playing gigs and music festivals, meeting the big names from the different industries.”
+
+Eppie considered this. “Not to be a sourpuss,” she said. “I know Antonio’s good for it, but… are you going to be safe?”
+
+Zara was, after all, an aesthetically pleasing young lady.
+
+“Paco said he’ll join me on a few legs, or send someone to keep an eye on me,” Zara said nonchalantly.
+
+What is he, a Basque mob boss? Eppie tried to imagine Paco’s past and recalled that, indeed, the man with a face like Uncle Machete did run with biker gangs. If he had favours, either as a musician, or as the Paco who could effortlessly tap into El Duende, then anything Antonio couldn’t handle could be handled by rough men with rougher means.
+
+“Should I go?” Zara looked at Eppie, her amber eyes catching the light.
+
+“A hundred per cent, you should go,” Eppie told her girl. “Go and see the world! You’ll find that feeling, I am sure.”
+
+“Okay!” Zara nodded to herself. “I’ll go.”
+
+“I’ll miss ya,” Eppie said by reflex.
+
+Zara’s face grew gradually flushed. “When I get back, let's do that play you were talking about.”
+
+“Strictly Ballroom?”
+
+“Yeah…”
+
+“Hell yeah!” Eppie could just imagine Zara pounding down the stage spruce in those dancing heels, her long legs flashing between a staccato beat. With [All the World’s a Stage], the audience was in for a spectacle, whether they came for the music or otherwise. “By the time we're ready, it's going to be a helluva show.”
+
+They passed the security kiosk with a wink and a hat tip from the security guards who had been expecting them. They drove past the windowless soundstages the size of aircraft hangars, past the water tower standing over the lot like a cinematic god emblazoned with the Sony logo, then parked. From the lot, they switched to a golf cart, zipping down lanes where Wheel of Fortune was being taped, watching the gaffer and electrics milling to and fro, carrying equipment from lot to lot.
+
+They passed the block where they had recorded In the Pines, past the Thalberg Building, and swung onto a lane signposted in stencilled black:
+
+STAGE 6. WARDROBE. MILL.
+
+There was an arrow for BASE CAMP, pointing to the camp itself: a horseshoe of white trailers and honeywagons, grip trucks with their ramps down, cable snaking off to a generator murmuring a lane over.
+
+A folding A-frame board read DREAM A LITTLE DREAM — CREW ONLY. PAs in beanies ferried coffee; someone gaffer-taped a call sheet to a door.
+
+The air smelled of generator diesel, grass mowed yesterday, and oil paint.
+
+The girls stepped off.PAs checked their passes, presented them with a coffee of choice in paper cups, and steered them to their circus master.
+
+Merric Webber was waiting for them, Americano in hand. For Eppie, who knew that this was their Marc Webb alter-world adjacent, felt the young director was far too… young. Merric, the veteran MTV director, looked like a graduate student who had wandered onto the lot by accident and got given the wrong lanyard. He wore a faded band tee under an unlined grey cardigan gone soft at the cuffs. Below the belt, he wore selvedge jeans washed pale, suede desert boots with real mileage on the toes. Wire-rim glasses, a knit cap shoved back off his forehead, three days of stubble.
+
+On his director’s chair hung a canvas messenger bag that belonged to a lifelong skateboarder. He was studying them as they arrived, Eppie with her golden balayage, and Zara with her exotic, European silhouette.
+
+“Hi, I am Euphemia Fontaine,” Eppie extended a hand. “And this is Zara Arriaga.”
+
+“Merric Webber,” their director shook their hands at the same time, one in each hand. “You guys look great.”
+
+“Thanks,” Eppie gave the man her most stunning smile.
+
+“Huh,” Webber retracted his hands. “I’d figured the tall one to be the talkative one.”
+
+The trio shared the mirth, then Webber pointed to the pedestrian gate to the left of the lot. “Let’s go for a walk. I’ll show you around the lot, and you two tell me about yourselves. I want to trust Director Curon, but this isn’t music…haha.”
+
+I see, Eppie concurred. My faux-father’s famous pettiness applies even to music videos.
+
+Taking a walk was good. It made sense.
+
+In her alternate world, Marc Webb was responsible not only for the tour de force that was 500 Days of Summer, his breakout film, but also for the Amazing Spider-Man films with Andrew Garfield. He was a character director with a strong preference for filming interpersonal connectedness. Despite the short-livedness of the “Webb-verse”, the films had made an immense impression on the fanbase, established Garfield for more serious roles, and provided one of the most iconic, heart-jerking moments of Peter Parker’s unending suffering.
+
+In other words, if Webber was anywhere near the same level as a young Webb, she and Zara were in good hands.
+
+Merric Webber knew exactly what he had to work with the moment he laid his eyes on Zara Arriaga, but the blonde…
+
+… gave him the heebie jeebies.
+
+She was pretty, a little too pretty. When she smiled at him, the smile of a sixteen-year-old amateur currying favour with her director, his skin went cold, and he had goosebumps. Everything was perfect: the subtle dimple, the baby-blue guilelessness, but it all seemed so… performative, like a very good actor playing a role. When he looked into her eyes, something old sat behind the iris and watched him back, like his film teacher, a mind that was patient and amused and taking notes.
+
+He already knew how he wanted to shoot the Spaniard, but Curon’s daughter…
+
+So he decided to take a walk with the girls, to see if he could gauge the blonde better, get to know her character, whatever that meant.
+
+He took them to the lot. Not a back lot, but an actual time capsule, behind the old MGM lot where The Wizard of Oz was filmed. This was one of his rituals: to take the actors to the set, and to walk through the history of a place, a setting, to get them in the right mood for filming. He wasn’t an auteur, like the established Masters, but he would very much like to develop a methodology at an age where he still could be creative, before the projects got large enough to involve executives.
+
+Behind him, even without makeup and costuming, the girls looked sufficiently aesthetic against the dappled shade from the tall maples. They cleared the sound lot and arrived at a series of curving streets with that low, California suburban stock from the late seventies, stucco and shake roofs and two-car garages, camphor trees gone big along the verges and sprinklers ticking over white picket fences and green lawns.
+
+The tiny one, Fontaine, seemed to clock his intentions within the second. He saw her face turn appreciative, which was its own spookiness. The guitarist was completely normal; she stood in the shade, hugging her elbows, looking lost. He liked the lost lamb look. That was easy to film.
+
+“Do you know where we are?” he asked them, pushing ahead with the script regardless of what the blonde may say.
+
+“Enlighten us,” the blonde said, smiling, already expecting a lecture.
+
+Webber’s lips felt stiff. “We’re in MGM’s Lot 2!” he stated grandly, nonetheless. “We’re standing in Carvel, Idaho, home to Andy Hardy.”
+
+He watched the girls, and something unexpected happened. The Spaniard looked downright confused, but a fire was suddenly lit in the blonde’s eyes.
+
+“THIS place was Carvel?!” the girl gushed. “Oh my word…”
+
+What are you, an old lady? Webber was confused by the excitement. He had expected boredom, churlishness, or even a demand to go back to the trailer, but he had not expected… recognition? Mutual appreciation?
+
+“That’s right,” he continued carefully. “The greatest backlot in the history of the movies — thirty-seven acres of it. The whole small-town American dream, the courthouse square, the drugstore, the picket fences. Here Michael Rooney made his home as a kid for sixteen movies.”
+
+“Mick… ah— Michael Rooney.” The girl nodded to herself. “What else?”
+
+They kept walking. “Over there—Verona!” “Romeo and Juliet!”
+
+“Over there—Tarzan’s jungle. And there—New England, from The Twilight Zone.”
+
+“So HERE was the every-town of every-Hollywood,” the blonde was now ecstatic. “What happened?”
+
+“Well,” Webber felt compelled to continue his lecture now. “MGM died, and they sold the dirt, and in the seventies, they paved the whole thing and built houses. Real ones. People lived here. Kids grew up here." He let the good part land. "And the developers named the streets after the dead. That's Garland, back there. Astaire. There's a Skelton Circle. They buried the dream factory, put a suburb on top of it, then named the lanes after the people who used to be famous inside it…”
+
+“And then Sony bought it,” Fontaine spun on the spot. “To make nostalgia films.”
+
+“Indeed. It was cheaper to maintain real homes from Post War America,” Webber nodded, feeling a strange rapport with the tiny girl. “Than to build an actual set. Everything still works here: the water, the gas, a film crew could use it for anything from the forties to the nineties, with thematic adjustments.”
+
+“So this is where we’re filming?”
+
+“It is,” Webber concurred. “What do you think?”
+
+“I love it,” the blonde was already inspecting the manicured lawns. “It's… so authentic.”
+
+“We’re filming an authentic 90’s childhood, after all,” Webber said. “I listened to your song on loop for a few days. It’s… quite old-timey. I think it’ll tap into a very specific demographic, and we need to capitalise on that.”
+
+The blonde nodded, but she wasn’t quite listening. She was looking at a street sign.
+
+Garland Drive.
+
+Webber felt his heart grow sore. The horrors MGM had subjected Judy Garland to were a cautionary tale to them all, to young producers, directors, actors and actresses. Here was the grave of MGM and the street of dreams. And here was homage to its greatest victim. What would this slip of a girl know about it? Was she comparing herself to that other slip of a girl who sang Over the Rainbow?
+
+His footfalls halted.
+
+Hold up! Hold the fuck up. A long and violent shiver ran up Webber’s spine, and realisation suddenly dawned upon the director like the Santa Monica sunrise. The girl’s actor’s profile had stated that she was a State Ward until the age of fifteen. She was completely alone until Curon had found her dashed to pieces in a children’s hospital, and she was later legally emancipated. Euphemia Fontaine was an orphan at the mercy of California’s infamous children’s services… An orphan with a face of that quality? And her figure, surely it's not from prolonged periods of malnourishment, right? RIGHT?
+
+And now, this minuscule blonde actress with an old soul was transfixed by the Garland street sign.
+
+Webber’s lips trembled. He understood the assignment now. He knew Curon’s assignment perfectly. He knew what childhood he must give this girl, to make her world a brighter, better place.He would make magic, even if he went over budget!

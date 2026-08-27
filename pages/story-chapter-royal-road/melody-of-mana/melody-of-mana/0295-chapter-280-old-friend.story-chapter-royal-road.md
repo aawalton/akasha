@@ -1,0 +1,95 @@
+---
+id: 8b9c8c15-d77b-5244-bd4f-175a5284d669
+page-type-slug: story-chapter-royal-road
+title: "Chapter 280 Old Friend"
+slug: 0295-chapter-280-old-friend
+partOf: melody-of-mana
+position: 295
+ownLength: 1177
+unit: words
+ownProgress: 1177
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1392063/chapter-280-old-friend"
+royalRoadId: "1392063"
+markedReadAt: "2026-06-29T22:36:00.720Z"
+---
+
+“Why don't you take a seat?” my new companion asked, pointing towards one of several around a larger table.
+
+We were in some kind of meeting room, and one look alone told me that this was one of the unused parts of the palace, and an older one. Oddly it had the same feel as Justin's lab, something about the magic that seemed to be constantly cleaning it along with other background enchantments. Something about the way he had flippantly opened the door had alarmed that woman, but I didn't have the full context quite yet.
+
+“Aren't these replicas of ancient furniture?” I asked as he helped himself to one of the chairs.
+
+“Hmm?” He spent a second looking at his own chair. “No, I'm fairly sure these are the originals, but what is the purpose of such things if not to be used?”
+
+“What if I should damage a valuable historical artifact though?” I teased a bit.
+
+That got me a laugh. “These are chairs, not something important, and I assure you that could be remade, not like we don't have plenty of them anyway.”
+
+After a bit more waffling I picked one and settled down, and ancient or not it was intensely comfortable. It was also being maintained, either by magic or hard work, though I couldn't tell which.
+
+“So, what do you want to talk to me about?” I asked politely.
+
+“Is that a real question? Clearly I was listening to the conversation between your children, clearly I know who you are, and clearly I recognize your mana, no? Add to that the fact that in living memory only His Majesty and that old bastard of a priest have ever been known to use that language...”
+
+“Perhaps I was unclear, what do you want?”
+
+I half expected for him to flex his power like old mages were often prone to when challenged, but no, he merely smiled.
+
+“To know what it says? No, no I already have a pretty good idea of that. Perhaps you think I want to win you over to my side? Why though?” he rattled off reasons that seemed normal for people. “What I want is to know first what your intentions are, and if you're a threat to my people.”
+
+“My intentions? To build my school to be better than anywhere else, and protect people as best I can.” I didn't get why people had a hard time understanding that.
+
+“Really? You expect me to believe that?” he asked as one eyebrow rose.
+
+“Why do so many people have trouble believing that?” I asked.
+
+“Because too many people become obsessed with power, and you have a reputation.”
+
+“A reputation I gained by protecting people I cared about. I'm not sure how much of some of the events of my past has been reported to you, but I'm not particularly inclined to fight unless I need to.” I snapped. I didn't need to be told that in some countries back home I was still vilified, even after all these years.
+
+We spent several minutes looking at each other over the table. After a time he even began to tap his fingers. One problem with dealing with some folks was how patient they were, letting things hang in the air.
+
+“Either you're a very good liar, or you're telling the truth,” he finally said. “Let's put that aside for now, as I have other questions.”
+
+“Go ahead,” I said tiredly.
+
+“The last time you came here, one of our people sent someone to follow you and your team.” He didn't seem to be too concerned, just stating a fact.
+
+I blinked at that. “What?”
+
+“Come now, it shouldn't be that odd should it? You, without knowing it spoke a name you shouldn't have known, that even most of our younger generations seldom learn. Certainly you understood that would get you attention. Lady Mistan sent someone to follow you, and...” he let his sentence hang.
+
+“Look, I didn't even know someone was following us, and if he died, he probably died to the Umbral Wolves, nasty bastards.” Just thinking back on their den sent a shiver up my spine.
+
+“Oh, we got him back, eventually. We also learned about the monsters, thank you for cleaning those up by the way. No, my question is about the individual who sent him back to us.”
+
+I tried to school my face, showing nothing. “Oh?”
+
+“See that's what people look like when they're hiding things,” he laughed.
+
+“I didn't even know someone was following me, much less who sent them off.” True, but I could guess.
+
+“I think you do, I've only one more subject to ask on. Is he well?” For the first time in this conversation the man's smile dropped, and he showed genuine concern.
+
+“No clue who you're talking about,” I lied.
+
+“I'm sure,” he deadpanned.
+
+“But if you were to have old friends somewhere, and you were concerned about them, you might try visiting,” I suggested.
+
+“... Not sure I'd be entirely welcome...” I knew that there were a lot of old people here, and that some of them really didn't like each other, but he did seem to be truthful. He also was dancing around exactly who we were talking about, which was a good start.
+
+“I find that time helps with old wounds, but maybe not, your choice. Now if you don't mind, I really do need to get back to my students. Call it intuition but I feel leaving them unattended is a bad idea.” I shrugged, not wanting to get involved with something that really wasn't my business.
+
+“Can't say I disagree with that. Well, I'll leave you to it then,” he said as he rose and let me out of the room.
+
+The worker we'd left earlier was still there, and still seemingly surprised. As the elven man turned and headed back down the hall I looked to her.
+
+“Excuse me, don't suppose you could point me in the direction of the tour groups?” I asked sweetly.
+
+I didn't manage to make my way back to the students until they were nearly at the end of the tour. A quick count of heads told me that nobody was obviously missing, and since no alarms had gone off, it didn't seem that anyone had done anything else extreme.
+
+The only hiccup was that I nearly forgot to re-cloak myself as I approached, realizing at the last minute. I even made it a step into the hall, quickly stopping and singing a few notes. Luckily it looked like nobody had noticed. My little disturbance had thrown me so far off that I was making amateur mistakes, no good, no good at all.
+
+At least the restaurant wasn't far. They didn't even bother using the carriages to get everyone there, instead just walking. As the sun began to sink it passed behind the spires of the city, not yet setting, but leaving deep shadows across Atal as the final rays left the sky shades of gold and blood red.

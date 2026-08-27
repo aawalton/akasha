@@ -1,0 +1,201 @@
+---
+id: 8504ebcf-4859-53af-bbb8-89ce1298881b
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 653 - Borrowed Authority"
+slug: 0158-chapter-653-borrowed-authority
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 158
+ownLength: 2657
+unit: words
+ownProgress: 2657
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2895311/chapter-653-borrowed-authority"
+royalRoadId: "2895311"
+markedReadAt: "2026-06-29T19:40:07.518Z"
+---
+
+Tala accepted the referred accolades for her champion’s success while Rane stood by her side, only a small smile—which tugged at one side of his mouth—ruining his otherwise stoic demeanor.
+
+The celebration was continuing apace, several other fighters already having clashed for fun, accolades, or over some slight or other.
+
+No one else challenged Tala, and the rest of her family remained unmolested at least with regard to direct challenges.
+
+Lea was clearly irritated that her dad wasn’t getting the praise he rightly deserved, but she’d been forewarned about that cultural oddity, among many others.
+
+Still, her daughter seemed to have no issue in accepting offered food whenever the servants came around, nor in engaging in light conversation with the few arcanes who spoke to her directly.
+
+Terry flickered about every so often—only barely noticeable to Tala with her bond to him aiding in the detection—as he snatched bits of food that wouldn’t be missed, otherwise keeping a predatory eye on everyone in the vicinity. In this case, that meant that he was likely monitoring everyone within the hold.
+
+Good Terry.
+
+-He is the best bird.-
+
+Quite.
+
+As Tala thought about the overall situation, and the differences in arcane culture, she felt her thoughts catch on something. Knowing that meant she was potentially on the edge of something important, she mentally dove into it, trusting to those around her to keep her safe and from making an unrecoverable faux pas.
+
+One of the strangest things in the given situation was that the arcanes who witnessed Rane fighting genuinely would not attribute the victory to him at all. At some point, he would be challenged directly, and whoever fought him would likely be surprised when he performed just as well.
+
+Tala hadn’t really understood that when she had been here before, but it made perfect sense to her now, especially with what she’d just recently seen.
+
+Authority.
+
+When a champion was fighting for their master or mistress, they—usually a Pillar or someone of similar importance—would naturally and unconsciously grant their ‘stand in’ a portion of their authority and power, allowing their champion to fight above their perceived advancement, though rarely a full tier up.
+
+As it happened on both sides—Eskau Sinaaq had decidedly had the weight of her House behind her—it usually wouldn’t be noticed as something that was important from a ‘fairness’ standpoint. If anything, the fact that those representing more powerful patrons ‘fought better’ in such clashes was simply to be expected due to cultural and societal pressures. As such, it was—at an almost unconscious level—recognized that such warriors essentially never fought as well when challenged directly.
+
+To lesser extents, warriors would often seek favors from those they were interested in—whether romantically or politically—before fights as it was usually recognized that such would improve their chances of winning.
+
+-Because fractions of authority are borrowed through such tokens.-
+
+Exactly.
+
+-Fascinating. We completely missed that portion of things when we were here.-
+
+Of course we did. I doubt they realize it. At least the majority are likely ignorant. They just ‘know’ it works, and the trappings are a part of their culture. There is power in that too.
+
+-Exactly. In this society, those who act in ‘approved’ ways have an infinitesimal portion of authority granted through that approval, while those who act against society have that same bit of authority acting against them.-
+
+Tala smiled internally. It isn’t a lot, but it would be enough to give ‘how things have been done’ more inertia than it has for mundanes or even gated humanity.
+
+-Indeed.-
+
+They had, obviously, not explained it in this way to Lea. They hadn’t even conveyed most of this to Rane, because, in truth, most of it came from the observations they’d made over the last two hours within the hold. Though it bore up to both scrutiny and logic.
+
+-I’ve added all our thoughts to the ongoing notes. I think I’ve seen at least Mistress Ingrit and Master Grediv looking through the logs already.-
+
+Good to know. Thank you, Alat.
+
+-Of course.-
+
+Now that her eyes were opened to it, in fact, she was able to see the subtle ebb and flow of authority between various groups. It was almost like seeing their reality nodes and threads, and the visualization of authority was very closely tied to that, but it was distinct.
+
+Almost like some of the reality threads are directional?
+
+-That’s it!- Alat excitedly exclaimed. -It’s an indication of deference or subservience, and there is a distinct gradient to it.-
+
+Yeah, some are barely deferential, but the servants toward the Revered City Lord?
+
+-Practically a cliff, they are so far ‘below’ him in their connection.-
+
+The only reason that metaphor didn’t hold up perfectly is that Tala could occasionally see a mutual granting of authority, as if each party saw the other as above themselves in some manner, so a simple gradient wouldn’t truly depict that accurately. There were also instances where two parties each saw the other as beneath them, but that didn’t actually grant authority either way, so it was basically just a flat line, even if there was something about it that distinguished it from individuals who saw each other as equals.
+
+With these revelations, Tala looked around with new eyes, instantly feeling overwhelmed by just how much information was available to her perception.
+
+Alat took as much in as she was able, cataloguing relationships and adding everything to the ongoing log of their time in the arcane lands. She was including visual and audio information as well, but due to the difference in senses and perceptions, the written notes were more than invaluable.
+
+All told, the event passed with little else of note occurring. Partially, this was because the House of Blood was going to be having another meeting with Tala right after this, in the safety and privacy of their own hold.
+
+Thus, while Tala had exchanged brief greetings with the various representatives of the House—mainly Pillar Sanguis, but there were a few high level adjuncts and representatives from other Pillars in attendance as well—they hadn’t been more than polite shows of mutual support and respect.
+
+Due to just who was in attendance, the event really couldn’t go on for too long, or the city would start to have issues of one kind or other. So after just under three hours—as measured from the time of Tala’s arrival—the Revered City Lord stood and clapped his hands, garnering the attention of the whole hold. “Thank you, one and all, for attending this small welcome for Eskau Tala of the House of Blood. May she, the House of Blood, and all of Platoiri benefit from her return. Even with the news that the Black Legion is once more an imminent threat, I see the future as holding nothing but good for most, if not all of us here.”
+
+There was polite applause, and then the attendees began to depart in groups from three all the way to fifteen, quickly emptying the hold.
+
+Tala—along with Rane, Lea, and Terry—and the House of Blood were the last guests to depart, having bid all their local supporters goodbye.
+
+As they left—leaving the Revered City Lord and servants along with an Eskau from one of the Houses as the ‘token’ guard for the City Lord—Tala glanced back at the solitary vestige, centered in and powering the hold.
+
+She could easily take it, free it, or both, but doing so would not be received well. Moreover, she was the best chance for gated humanity to find a middle ground with arcanes going forward, including reducing or eliminating the use of unwilling vestiges throughout arcane lands.
+
+She would cripple her chance of that if she acted to save this one vestige.
+
+With a bit of frustration before she set it aside, she turned away, walking back onto the plains and striding toward Platoiri, her family and House around her.
+
+Eskau Meallain was sent back into Ironhold as otherwise she would be breaking her given word as well as the banishments placed upon her.
+
+Beside the elven Eskau, their group continued undiminished.
+
+They were aligned with one of the main roads out of the city, the other groups already on the thoroughfare before them, but with no wall, there was no gate to pass through.
+
+That lack felt just as alien to Tala as it ever had—when she’d noticed it.
+
+Regardless, the buildings were smaller near the outer edge of the city, and while they did get bigger toward the center, they never really grew to be as large as many in the cycling cities to the north. The main reason for that was the holds.
+
+There were hundreds of holds within just a few blocks in every direction. They ranged from small things that were effectively just storage areas for shops, restaurants, or single family residences up to being the facilities, shops, or residences themselves.
+
+Most factories that she could see—as relatively primitive as they were—were housed within holds, magics surrounding them to prevent any adverse impact on the world around them. Those magics were obviously everything from air and water purification to particulate scrubbing and suppressing and literally dozens of other things so specialized or minute that she couldn’t easily parse them without a closer look.
+
+And all of this was visible when they weren’t within easy detection range of the District of Doors.
+
+She’d been here before, and even still, the sheer scale of everything was almost overwhelming.
+
+Rane was containing his awe reasonably well, but Lea’s eyes were massive as she tried to take everything in at the same time.
+
+Terry had shrunk and was contentedly riding on Lea’s shoulder, eyes closed even though he was clearly ready to defend the girl at need.
+
+Their group drew some eyes, partially due to its size and partially due to its makeup. While there were arcanes of all kinds throughout Platoiri—and they interacted well enough—basically every group that could be seen was composed of one, or at most two or three of the kinds of arcane—whether beast-kin or hue-folk—as they moved down the streets.
+
+The Sappherrouses and House of Blood had seven different races in easy evidence, with a couple of the adjuncts being beast-kin who might or might not be of the same sub-species.
+
+Regardless, the fact that almost all of them wore obvious house emblems, including two Eskau and a Pillar was plain to see. As such, while they drew a lot of attention, they also cleared the path before them with startling ease, making for an easier, faster journey forward.
+
+As such, it was a simple walk toward the city center, from which they would quickly be able to reach the District of Doors.
+
+That was a trip she’d taken many times, including the day that she’d woken up as ‘Tala’ after her months as ‘Tali.’
+
+As they walked, Tala occasionally noticed someone of more than average importance—or at least with more knowledge—as they recognized her, though it was often hard to tell if that was due to actually recognizing her, or simply that they noticed the fact of a human with the emblem of an Eskau of the House of Blood.
+
+There were the occasional utterances of ‘That girl’ among the chatter, as those in the know seemed to revel in their ability to share the news around to any who would listen.
+
+After more than two decades, the human Eskau had returned to Platoiri, and that meant every story of her time here, every rumor, every bit of gossip, was likely to be dredged up and spread liberally around in the coming days.
+
+Well, it is what it is.
+
+-True enough. We did expect this. We are not a low profile person.-
+
+I’m starting to accept that… if slowly.
+
+Still, when they drew deeper into the city, it was clear that Rane and Lea were drawing more and more attention, partially due to the fact that they, alone, were not marked as from the House of Blood. It was also clear to any with even passingly good magical perception that they were gated, and that was certainly of note.
+
+As such, Pillar Sanguis requested that the two be tucked away until news of them could be properly circulated. In that way, they should be able to head off the rumors, or at least point the rumors in the directions that they preferred.
+
+The two didn’t mind, especially since they would have many chances to see the rest of the city at other times. A moment later, they were gone, Terry going with them after a meaningful glance at Tala.
+
+As soon as they were gone, Tala glanced toward Pillar Sanguis, her words carefully chosen to be neutral. “We’re almost to the city center.”
+
+He glanced her way in turn. “Indeed. It won’t be long now.”
+
+She sighed, her tone shifting slightly. “You didn’t want them to see the central spire.”
+
+He huffed and gave a half smile. “You didn’t protest.”
+
+She grunted in response. “I did not.”
+
+Less than five minutes later, they entered the central square, and the spire of vestiges came into easy sight.
+
+It struck Tala deeply as she looked upon the thousands of vestiges there. She hated that these spires existed. A part of her hated more that she hadn’t done anything to remove them, when last she was there. Even now, she wasn’t going to do anything about them, not yet.
+
+In theory, she would be moving toward their removal in the coming years, but was that enough?
+
+Who was she to the vestiges? Who were they to her? She’d never known the people that they came from, and they hadn’t known her. Even now, they couldn’t feel her nearby. Her presence changed nothing for them.
+
+Her soulsight didn’t pick up a sense of torture or distress, but she was hesitant to look too closely. Still, the fact that it wasn’t overwhelming had to be a good sign… right?
+
+Her contemplations on the spire brought to mind the average citizen of Platoiri. Did she care about them?
+
+Removing the spire without a replacement source of power would likely result in the deaths of thousands as magics near and far collapsed. Food would spoil, production would slow or cease…
+
+She grimaced.
+
+It was good that Rane and Lea weren’t here to see this, because she didn’t know what to do. As a result, she did nothing, passing the spire by on the way to the District of Doors, trying to avert her gaze without making it too obvious.
+
+It might have been the safe thing to do—the coward's way out—but it was also the plan that might—just might—save the most souls from the same fate in the long run.
+
+She consoled herself with that as they made their way to the House of Blood’s hold, entering the all too familiar doors and walking as a group into one of the larger meeting rooms.
+
+It was all hauntingly familiar, even if much of it had to have been rebuilt after her departure, since there had been a rather destructive battle within this hold on that fateful day.
+
+As the doors were closing, Pillar Sanguis sent Eskau Pallaun to arrange for refreshments for the group, and they all took various seats around the more comfortable space.
+
+Even still, the atmosphere seemed… tense, and Tala was suddenly on her guard despite the clearly informal chairs and atmosphere.
+
+As it turned out, she was wise to be on guard.
+
+The Pillar cleared his throat, maintaining his relaxed posture. “Now, as glad as we are to have you back, we must get one formality out of the way.”
+
+Tala arched an eyebrow at Pillar Sanguis’s change in tone. “Oh?”
+
+“Yes, we must discuss the death of Pillar Be-thric and your hand in it.”
+
+Tala blinked a few times, trying to understand what this meant, what their plan might be. “Excuse me?”

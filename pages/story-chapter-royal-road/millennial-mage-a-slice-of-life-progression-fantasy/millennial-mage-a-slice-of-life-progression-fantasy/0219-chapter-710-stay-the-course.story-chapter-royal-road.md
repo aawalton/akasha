@@ -1,0 +1,227 @@
+---
+id: f23e3f36-2ea8-5421-818c-83d3037c1db7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 710 - Stay the Course"
+slug: 0219-chapter-710-stay-the-course
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 219
+ownLength: 2587
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3477573/chapter-710-stay-the-course"
+royalRoadId: "3477573"
+---
+
+Tala found that she was rather more efficient this time around, even if not really to her surprise, thank the stars.
+
+If she had been surprised by her increased efficiency, she might have accidentally trapped the workers as they were finishing up, or she might have had to find a way of spending time—most likely wastefully—until they were finished.
+
+As it was, it looked like she would be nearly right on time… with her original timeline. The estimate was that she would be finished just less than two hours after the hold had been completed from a construction perspective.
+
+Not too bad, and very much worth it to counter a Black Legion unit.
+
+It would still take a bit more than two days however, and so she might be able to make up that time to not have any misalignment.
+
+And hopefully the next will be even faster.
+
+-We don’t have that much room to compress. Things seem to be improving as we anticipated. Do you really want to compress the timeline further?-
+
+Want? Absolutely. Think we should? Tala sent a feeling of uncertainty, even as she added the detailed perception and cognitive model of another part of the hold into her growing working.
+
+Alat chuckled. -Fair distinction… If we decide to speed things up, I can get the blueprints and architectural and magical schemata that they’re using. Start the process of preparing for our work before we arrive, going forward.-
+
+Tala blinked a few times, processing what Alat had said. She grunted. …I feel really foolish for not thinking of that before now.
+
+-To be fair, no one did explicitly. We have access, but aren’t really utilizing it at the moment. We aren’t really the bottleneck, here, but our timeline definitely factored into how much the crafters pushed.-
+
+Fair enough. Let’s not alter this time, as that would just have us waiting around, but we can use what space we have to make the next more expeditious.
+
+Alat’s tone became a hair more distracted as she began pulling things together. -I’ll propose it to the council. I think they’d be willing to devote some more resources to getting these online a few days sooner.-
+
+I appreciate that. Thank you. How is the burden on infrastructure in the other, columnless cities?
+
+-Managable, but straining. The House and guild holds are bearing the burden well enough, and the clear and present threats have people working together and with a moderate amount of selflessness, but we don’t expect that to last for too much longer.-
+
+Tala chuckled at that. Yeah, arcane society is segmented and oppositional enough that I’m surprised we’ve achieved this level of altruistic cooperation.
+
+Alat went silent.
+
+Alat?
+
+-One moment.-
+
+Tala frowned. What could be happening that was—?
+
+-Makinaven is under attack.-
+
+She didn’t let her growing magical working falter, but it was a near thing. Tell me what you’re hearing.
+
+-The previously detected and suspected movements have crystallized into a full encirclement of Black Legionnaires.- After a moment’s pause, Alat added. -They’re already interlinked, and they’re attempting to disrupt and destroy the magics of the city. There are also some signs near the other forest cities, but no outright attacks just yet.-
+
+That was… well, both concerning and interesting honestly. What of Master Jevin?
+
+Alat’s tone shifted to one of eager anticipation. -He’s about to take the field.-
+
+* * *
+
+Rane was barely north of dropping off Terry, when a plume of magic surged upward more than a hundred miles to the east.
+
+He spun his external perspective to look in that direction, and thought he could see a mound in the otherwise mostly uniform canopy.
+
+Around that mound, power surged, the rise itself seeming to spread out, showing itself to be a great tree, many of the smaller branches spreading out just a bit under the sheer outpouring.
+
+Rane narrowed his focus, only then seeing an oddly dark shell of some kind completely surrounding the great tree. Legion?
+
+He reached out through Enar, confirming that Makinaven was under a momentary siege.
+
+They offered to go to provide aid—he was transporting most of the Talons after all—but he was told that the threat was being handled.
+
+Even so, Rane reached out to Lyn and Ron, sure that they’d be interested in witnessing this as well.
+
+The two arrived shortly after Rane’s message, willing themselves into his throne room.
+
+Ron turned and bowed deeply. “Master Rane. Thank you for allowing us to join you. Is there anything that the Talons can do for you at this time?”
+
+“No, thank you. I simply wished to ensure you saw the clash.” Interestingly, Rane felt his reach, his aura, his authority increase a fractional amount in the stark medium of reality around the flier as it continued northeast.
+
+Lyn looked about and cocked an eyebrow. “What are you doing, Rane? Is Tala’s power—lent to you—going to your head?”
+
+And… it’s gone. Rane sighed. “I’m experimenting with the idea of authority, and interestingly, this throneroom has made our travel north more efficient.”
+
+Ron was giving his wife a scandalized look despite knowing how familiar she was with Rane.
+
+Lyn, for her part, reached out and squeezed her husband’s hand—seemingly having known how he would react without looking—even as her incredulity shifted toward a building interest. “Really? I’d thought that ‘authority’ was just a shorthand for some more metaphysical concept… Is it actually related to the concept of authority in a mundane sense?”
+
+Rane gave Ron a consoling smile, while he addressed Lyn. “It really seems so, at least to some level. I’m not sure if it’s my understanding that’s shifting and causing the changes that I’m detecting, or if there is genuinely a connection.”
+
+Ron had taken Lyn’s touch in stride, but just as every time before, he treated Rane with overt respect and deference when in the ‘professional’ setting of his role as leader of the Talons. “While I am sure this is a discussion of surpassing import, Master Rane…”
+
+Rane frowned for a moment, then he remembered the purpose of their being here.  “Right!”
+
+He willed the stone of the throneroom to display the exterior perspective in a full three hundred and sixty degree view… except where the glass wall interrupted the stone.
+
+Rane sighed, and altered his enforcement and the glass was included, completing the arc of perception.
+
+Once that was done, he gestured, causing the view out toward the west to magnify, zoom in, and show more detail.
+
+Ron’s eyes widened, and he walked toward the wall.
+
+Lyn let out a small gasp, covering her mouth as she got a good look. “Are those little dots…?”
+
+Rane nodded even though no one was looking his way. “Black Legionnaires. From the looks of it, they’re trying to suppress and eliminate all magic within that dark shell. I don’t know their means of flight or levitation, but they seem to be trying to completely surround Makinaven”
+
+Ron’s voice was quiet as he asked, “How are they holding up inside? Do they need our help?”
+
+His eagerness was as obvious as his concern. Rane shook his head. “They said they’ll be fine, but since the shell thickened up, we haven’t been able to communicate.”
+
+Lyn frowned. “So, the isolation—that shell or field or whatever it is—extends across the dimensions of magic?”
+
+“It does seem so, yeah.”
+
+Each ‘dot’ seemed to be a sergeant with five regular legionnaires arranged around them, with each such group similarly coordinated with five others around a lieutenant, then on up. Five lieutenants to a captain, and so on.
+
+Rane frowned. Wait… that would mean that a captain is only over one hundred and fifty five others… that’s too low. There must be something below captain… maybe several ranks? Or maybe five of the lesser rank is just a minimum and there can be far more?
+
+Something tickled the back of his mind about the ranking and distribution being a bit different depending on the size of the total force of Black Legionnaires in any given engagement. He couldn’t recall beyond that at the moment, not that it truly mattered.
+
+Rane shuddered as the black shell seemed to darken for a moment.
+
+Then, an odd light began to build within, not quite green given the obscuration, but it had hints of that.
+
+Across the entirety of the portion that they could see, pricks of verdant green exploded forth like stars in an odd parody of a night’s sky.
+
+To their view, sharpened branches had lanced outward, piercing the shell and the chest of each Black Legionnaire.
+
+Ron’s mouth dropped open. “All of them?”
+
+Rane grunted. “At least all the lower ranks that I can see.”
+
+Lyn seemed equally flabbergasted. “At once?”
+
+“Seems so.”
+
+Ron chuckled in amazement, slowly shaking his head. “Devouring tree indeed.”
+
+Lyn looked toward Rane. “I thought that Master Jevin was only Reforged. Tala’s Reforged.” She glanced toward the tree, then back to Rane. “Right?”
+
+The implication was clear. Lyn didn’t think Tala could do something like that.
+
+The majority of the green lights winked out, seemingly taking the automata with them, but from what Rane could see, everything that was above a lieutenant had resisted, at least a little, the green light swelling around them.
+
+Rane couldn’t see it clearly, not at this distance, but he imagined a branch lancing through the chest of each one, vines and twigs growing out to wrap and cocoon those that hadn’t been instantly destroyed. “I think it might be a question of what Master Jevin merged with, and varying capacities that could have granted. Don’t forget, that tree is stationary, and we are within a portion of her right now. More than that, however, he’s had a long time to explore the edges of his power, even while still a Paragon. If nothing else, we are seeing a stark reminder that old power has a quality all its own.”
+
+The three watched the Devouring Tree prove his moniker yet again even as they drew further away, tucked within an expanded space, borne by the magically constructed flier.
+
+Ron was in clear awe. “And you’re sure that he is just Reforged?”
+
+Rane glanced at the other man, smiling slightly at how closely the Talon leader’s thoughts seemed to be mirroring his own. “Yes. As is Tala.”
+
+Ron nodded, then glanced briefly toward Rane. “And you’re Paragon, right? Right near stepping into that advancement?”
+
+Lyn glanced at her husband, arching an eyebrow, but didn’t say anything before turning her attention back to the ongoing slaughter.
+
+Rane grunted. “Yeah…”
+
+Ron didn’t seem to notice Rane shifting toward contemplation as he returned his own gaze to the projection on the wall.
+
+I am on the cusp, aren’t I…
+
+He and Tala had taken the step to Paragon at nearly the same time, but she had now been Reforged for more than three years, while he was not.
+
+That’s nothing in the timescale of such things. But his self-justification felt a bit flat, all things considered.
+
+It wasn’t as if he hadn’t been making progress. He had quite a stockpile of resources that he’d gathered for himself, using his own power and connections to gain and secure them. That process, of course, practically screamed of authority, especially given his recent thoughts and experiments.
+
+What is Reforging but the recreation of myself with full authority over my new physical form? It wasn’t a new thought, but it had more weight this time. That… that isn’t quite correct is it? It’s the claiming of full authority over my form, whether I remake it or not. It’s a Reforging of my perception of myself more than truly to do with the physical.
+
+That felt right. Even so, his body would be Reforged, and he thought that it could be soon.
+
+The materials that he’d gathered ran the gamut from rare stone that was known as highly magically conductive and precious metals of all sorts to reality iron that was not claimed by his wife, white steel, and a lot of magically saturated food—after all, he was a biological being first and foremost.
+
+Rane was a human and always would be, but that didn’t mean he couldn’t be more as well.
+
+As the last evidence of the failed Black Legion attack on Makinaven faded, Rane was smiling.
+
+It was time for the final push.
+
+It might be a day, a year, or a decade before he finished, but he now knew he would make it, and he committed to himself to be a bit closer at every sunset than he had been at sunrise.
+
+* * *
+
+Terry flickered through the southern forest, circumnavigating Leshkin along with their spawning trees as much as that irked him.
+
+He wanted to kill Leshkin. He still remembered how their blood had burned him when he first fought their kind, and he wanted payback.
+
+He had grown much since then, and he had many ways of negating the frustrating advantage they had against him in that regard.
+
+He also wanted to investigate the magical sources of their recurring returns to corporeality. But he wasn’t alone any more, either in action or in truth. So he had put forward his desire as a request.
+
+It had been denied. Both the ‘war council’ and the little hatchling—Tala, as he supposed she wasn’t really that young, given she had a hatchling of her own—had asked him not to provoke the Leshkin.
+
+The humans didn’t want to have to fight the Leshkin as well as the Black Legion at the same time, and the arcanes didn’t want the gated humans to be so tied up with Leshkin that they were suddenly on their own against the Black Legion.
+
+It was one of the most unifying issues between the usually oppositional packs—groups, he had to remember that such creatures didn’t consider themselves packs or flocks.
+
+He’d been with the creatures for a long time as most of his kind would measure such things, but it was still little as he regarded things. Still, he would honor their request. He wanted to fight—to hunt and seek vengence—but he wanted to help more.
+
+They needed him, and he would not let them down, he wouldn’t let her down.
+
+Trees passed in a steady flicker as he traveled at speeds faster than a freshly loosed arrow without requiring any momentum.
+
+His mind processed each flash of scenery, sending all his sensory input to Alat through their soulbond.
+
+She was an interesting facet of his young bonded. Over the years, Terry had often considered if he should ask for such an enhancement as the long centuries might have been more bearable if he’d had company, but the more he considered it, the more he realized that such would likely end badly in one way or another.
+
+He couldn’t imagine being to such a bound mind, and so any alternate interface that came from him would likely go insane, dragging him with it.
+
+That might not always have been the case, but with the increased cognizance that he had gained from their ever closer bond, it would be the result now.
+
+More trees, more Leshkin avoided, miles covered, tens of thousands more to cover in his search pattern.
+
+This would take weeks, but he had the time and ability.
+
+He had found family once more, and he would die before he let them be taken from him.
+
+This was the best way he could help at the moment, and so he’d do it.
+
+Mile by mile.

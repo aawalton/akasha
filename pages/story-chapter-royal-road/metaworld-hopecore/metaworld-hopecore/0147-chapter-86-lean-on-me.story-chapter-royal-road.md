@@ -1,0 +1,205 @@
+---
+id: 0c161615-7b2c-5cb1-ba83-3532051f6ea9
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 86 — Lean on Me"
+slug: 0147-chapter-86-lean-on-me
+partOf: metaworld-hopecore
+position: 147
+ownLength: 2713
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3771922/chapter-86-lean-on-me"
+royalRoadId: "3771922"
+---
+
+"Being from a rural, West Virginia setting, that kind of circumstance would be more accessible to me than it would be to a guy living in New York where people step over you if you're passed out on the sidewalk, or Los Angeles, where you could die on the side of the freeway and it would probably be eight days before anyone noticed you were dead."
+
+Bill WithersOn inspiration for “Lean on Me”, 1972
+
+LAPA. The Student Dorms. At noon, Eppie dropped a handful of [Causality] into her [Stamina] column to banish her hangover. With a clear head, she told herself that, statistically speaking, I am a responsible drinker. Discounting college, her blackout moments could be counted on one hand. Last night, her miscalculation lay in the concentration of the vintage brew given to the youngsters, the saltiness of Cantonese food, and the petiteness of Euphemia’s adolescent frame.
+
+Thus cured, she completed the chores which Josefina had half-finished in the absence of her roommates. As tradition, Halle would be back by the late evening. Ava, however, would remain absent until her auditions at Guilliams ran their course.
+
+In the warm afternoon, with the windows open, Eppie sat in the living room with the news blaring and the laptop on her lap, drafting an important email to Miss Filmore. First, she gathered from her camera roll all the cats that had wandered Cal State’s extensive urban landscaping. Sorting by familiarity, she admired her inexpert photography of Andrew Garfield sunbathing, Mr Chin on the library’s lower wall, Mrs Catchem looking angry after a fight, and the dozens of regulars with names no one agreed upon.
+
+She opened a new compose, then awakened the beast that was Maddie Filmore.
+
+From: [email protected] To: [email protected] Date: Sunday, 6 April 2008, 4:52 PM Subject: CAT SAFETY POST — NEEDS TO GO UP TONIGHT, NOT TOMORROW
+
+My dearest Miss Filmore,
+
+I need a post across everything—Myspace, the fan Twitter, the Facebook page, all of it—tonight if you can manage it, tomorrow morning at the absolute latest. Not a cute pet-account thing. I need it to sound serious. (Because it is… serious).
+
+Someone on campus might be targeting the cats, or targeting the cats to target me. It’s sick. Draft via the message below. I trust you to word it better:
+
+"If you see something, say something. Please check on the welfare of the CSULA cat friends. These are our regulars. If you see anyone handling them roughly, take note of the time and place, take a picture, and contact us. Some of the kitties are also available for adoption!"
+
+Please attach every photo in this email.
+
+Second thing: see if you can clear this with my Trust: I want 2,000 posters printed and posted by Tuesday. I want it on campus, and everywhere in a one-mile radius: Huntington, Eastern, the community boards, the bus shelters. Same photos, same language, Trust letterhead in the corner so nobody thinks it's a prank. Cost is irrelevant.
+
+Thanks, Maddie. You’re a saint.
+
+Attachments (14): garfield_steps.jpg, mrchin_wall.jpg, mrscatchem.jpg, tabby_01–11.jpg, kittens_group.jpg
+
+Yours truly, Eppie
+
+She hit send without remorse, then stared at the SPAM folder in contemplation.
+
+You made me do this, she told her imaginary William. The moment you took Andrew Garfield, the age of non-consequence was over.
+
+She then wondered, cynically, if a ‘stripped bare’ William would seek penance.  Eppie… remained optimistic in the [System]’s calculations, while Lana merely scoffed.
+
+Maddie's reply came at 6:14 AM the next morning: no emoji in the whole email, so Eppie knew her media manager meant business.
+
+“Posts went up at midnight. Posters go to print in an hour. I hired a group of pet shelter volunteers to do the posting.” Eppie read it on her phone after her shower and felt something between vindication and relief.
+
+Monday began grey and unremarkable and smelling of rain. Eppie wandered to the Quest Board and watched the students tear off slips for last-minute casting offers, music ensembles, technical aides, and more. She observed no William, and so turned her attention to her remaining classes.
+
+In English Honours, discussions and post-modern productions continued. With the test done, the students enjoyed themselves, even as Dr Kirby kept a tight rein on the Socratic sessions, moving from Antigone to Titus, Titus to Crucible, essay to discursive.
+
+Algebra had been reduced to pop quizzes and jovial banter, with many of the students electing to take the time to complete work from other subjects. World history, now that it had moved into the French Revolution, was no longer critical to Eppie, whose only interest was to replace her existing knowledge of Modern History with minute variations that may have engendered significant butterfly effects.
+
+In the Arts Block, Sophomore theatre continued its final-stage blocking, running smoothly without her intervention; after which it was back to the Whitman building with the Seniors, a mere block away from her fated foe.
+
+In the second Arts Block, Cooper continued to drill into the students the magnitude of their final performance and its implications. He genuinely wanted the production to succeed, even if, like Eppie herself, they felt haunted by the Sins of the Father situation borne by the school's wilfully negligent administrators.
+
+Yet, the show must go on, for how could either of them ever produce, teach, and participate in the great plays written by great men and women if they also chose complacency?
+
+“Three weeks,” Cooper reminded the cohort. “Three weeks left before you operate as a Theatre Company, as opposed to my students. Hell Week will be exactly seven plus five days, then LAPAGANZA, the culmination of your four years at LAPA.”
+
+“There will be pain,” Cooper walked among them as Prospero among the Men of Sin. “There will be frustrations. You will be short-tempered because you will be sleep-deprived. There will be nerves, and… there will be grievances…”
+
+Cooper stood beside Eppie. The two shared a secretive moment of mutual rapport.
+
+“That said, take a moment now to take it all in. What you have now...shall never come again. You will not get this specific configuration of people, in this specific room, ever again in your lives.”
+
+Their Theatre Chair allowed the realisation to sit. Someone made a tearful sigh, then, like an infection, the snuffles spread through the theatre.
+
+“So keep your temper tempered, and your patience professional,” Cooper returned to his place beside Tyker, who golf-clapped. “I hope that this is the last time I give this speech. It’s probably not… but let’s do our best.”
+
+The cohort clapped in turn, Eppie among them, with Val standing beside her, recovering after a ‘biking accident’.
+
+After the block, Eppie flagged down her Theatre Chair and her Production Manager, and informed them of the changes she had effected in the William Chen case.
+
+She kept the information brief and concise, yet even so, Cooper and Tyker sat with contemplative expressions and quiet amazement, their arms crossed and their eyes thoughtful as they digested the facts.
+
+“If this were a screenplay,” Tyker made a strange face. “I’d question its plot contrivances.”
+
+“Alas, life is strange,” Eppie shrugged. “So… about Valorie?”
+
+“I think,” Cooper said after a spell and a glass of water. “You should leave it to Val. She’s a smart girl. She should receive Mio’s benediction herself, rather than through you.”
+
+“What's that supposed to mean?” Eppie cocked her head.
+
+“You have… an effect on people,” Cooper gave her a sardonic smile. “Like a gravity well. And like Val, Simone, like Lim, like these families you mentioned, we’re all caught up.”
+
+“It’s true, Eppie. If you were an economics grad,” Tyker affirmed Cooper’s insight. “Or if you majored in politics. The damage you could do…”
+
+“You mean the value I could bring…” Eppie protested. Been there, done that…
+
+“I mean, sure,” Tyker grinned. “If it makes you sleep easier at night. I hope you’ll fund the arts.”
+
+“Ahahaha…” Eppie wrung the cold sweat off her back.
+
+Eppie confirmed that Cooper was sending videos and notes to Mio, after which the meeting of the witches concluded sans rain, thunder and lightning. She jogged out of the Whitmans onto the campus, circled the Old Music building, through the old dorms, back around the new dorms, the track and field, then back to the hidden gate-within-a-gate that was LAPA’s entrance within CSULA.
+
+The logo, the very rooftop from which she had fallen, was growing on her. She rather liked the way its four-colour letters inferred diversity and inclusion. She liked the old salmon-hued building with its rain splotches and repair patches. She liked the smell of Costello’s hot coffee and the jingle of Cooper’s iced one. She would have liked… to listen to more of Dr Kirby’s lessons and insights. She wanted to eat Josefina’s breakfast every Sunday morning.
+
+She was going to miss the place so completely that the sentiment embarrassed her—after all, this was the place—the place that had gotten her killed.
+
+Through the uneventful week, Eppie kept her ears to the ground, listening for tremors.
+
+The news of William, the most popular and nicest Senior on campus, came in whispers and fragments, then with a bang, at lunch, via Zara, who came to deliver, Eppie supposed, the good news.
+
+Someone in the editing bay had lost a full pass of colour-graded footage, probably a corrupted drive or a bad export, and William had put his hand on the culprit before anyone could stop him.
+
+Maybe it was a shove. Maybe it was a grab. Maybe it was a word in the ear about the kid’s life or his family.
+
+The exact nature wasn’t clear, but enough people had decided they had enough of William’s lording and had stood on the opposite side of the aisle. Either way, the kid, a Junior doing William’s work for credit and nothing else—wasn’t suing or talking to Burton’s office about it.
+
+It was business as usual for the administration, and yet the whole building had gone quiet, and folks started to avoid him while the last few weeks of his graduation film project proceeded.
+
+“They’re taking their work home, or to the old computer rooms,” Zara whispered while cuddling Eppie, watched by Valorie, who sat across the table. Val had developed a new habit: randomly dropping in with the Sophomores for lunch, driving Min-jun up the wall with happiness and leaving Chelsea and Lucy starstruck. With Eppie in the middle, the two girls gave off the vibe that neither was in the mood to share their favourite dolly. “Whatever you did, it’s stressing him out.”
+
+Eppie considered the news and chalked it up to karma.
+
+Valorie looked like she wanted to say something—then Eppie’s phone chimed with a text from a name she no longer had to obscure, because their mutual abuser had no more power over anything and anyone.
+
+The text was from Luciana Mio.
+
+I would love to speak to Valorie whenever she’s ready.
+
+Eppie left Zara to distract her friends, then went to a quiet corner with Valorie to read the text together.
+
+Eppie showed her the text. “You wanna call, or see her?”
+
+Valorie held her phone for about ten seconds of contemplative turmoil, then told Eppie that she wanted to apologise face to face.
+
+I would love to see Val as well, said Mio’s response. We used to be such good friends.
+
+Eppie chose not to ask why Valorie felt it necessary to spend a day and a half driving to and from Reedley. Dr Cooper had already explained very well that, in the end, the decision was Valorie’s, and the catharsis was Valorie’s as well. For Mio and Val, it was a necessary hurdle, one that did not involve Eppie in the slightest.
+
+“Drive safely.” She gave Valorie a warm hug of affirming encouragement.
+
+Then the girls returned to the table to discuss one of LAPA’s small miracles: how is it that Zara and Valorie ate salad and rice crackers for lunch, while a pint-sized Eppie downed shawarmas, pizzas, and chicken tenders with a serve of orange juice.
+
+Thursday. Zara, once again breathless, caught Eppie between the Arts Block.
+
+“It’s happened!” Zara fought the heat, fanning herself with her hands while relaying the thrilling news. “There’s going to be multiple versions of William’s Senior Project film! It’s a revolt!”
+
+The story, as Zara told it, wasn't really about one colourist anymore. It was about every man for himself.
+
+“It's not just Danny,” Zara said, speaking as though she were recalling the scene. "Sam cut her own edit of the doc-crew footage from November. They’re putting stuff like 'Assistant Producer' on their CalArts applications, because apparently William refused.”
+
+“He's still going to get directorial billing on the finished thing, though,” Eppie said. “They can’t cut that.”
+
+“Sure. His name, his footage, his credit.” Zara shrugged. “Except now there are, what, four other versions of the same thing, each one made by someone he screamed at, or shoved, or fired.” Zara’s amber eyes sparkled naughtily. “What happens if one of their cuts turns out better than his?”
+
+Eppie thought about Costello’s advice back in August. In a Company, we are all equal. Surely, they started with the same advice in film school. The sheer number of professionals involved in making a mere three-minute music video was already mind-boggling. Surely, William understood that his film, his shortlisted “Ethnic Story”, wasn’t the sum of one man’s work… right?
+
+Right?
+
+She almost felt bad for him.
+
+Then she cackled like a witch, startling Zara.
+
+Then, Eppie felt bad… but only for a second, and only because she startled Zara.
+
+Friday, Eppie found Lim in the quad’s cat-feeding station, surrounded by like-minded peers from the university.
+
+“Good posters,” Lim said, nodding at the one a volunteer was stapling to the bulletin board. “Very nice. How did you get so many made? And they’re all different too, with the different pictures of the cats we have. Must have cost a fortune.”
+
+I sent an email… “Well, you know, I have my ways,” Eppie smiled evasively. “Anything to keep old Willy contained, ya know?”
+
+Lim grimaced, then leaned in. “He’s been calling around. To me, to the others, to other people from Five Families, asking people for… I don’t know, actually.”
+
+“You don’t know?”
+
+“Most of us have blocked him,” Lim’s face made an expression of satisfaction. “The word’s gotten around that he’s up to his antics, and we’re not answering. And if WE are not answering, they’re not answering. Everyone suddenly got real busy. I’ve never seen so many people in the association require dental and optical appointments at the same time.”
+
+Eppie snorted. “Is he taking it well?”
+
+“Naturally, he’s cool with everything, or so he says to the folk who did answer, but…”
+
+“But?”
+
+“I heard from Uncle Bu, who heard from Uncle Jiang over drinks, that he’s all agitated. Uncle Jiang told everyone that William had better be careful, or he’s going to get a clip around the ears, and Chen-ye’s only reaction would be to thank Jiang later.
+
+“Meow?” Garfield came running up to Eppie. She reached down to pick him up, only to witness Mr Chin shoot from the bushes like a rocket.
+
+The two cats engaged in feline-fu for a brief ten seconds, leaving enough fur to clothe a third cat, then separated. Garfield, meowing in desperation, turned to Lim.
+
+Eppie picked up the victor and hugged him to her chest.
+
+Mr Chin purred like a resting Humvee, shedding an avalanche of fur over her theatre blacks.
+
+“You know,” Eppie said seriously. “You should hear him out next time he calls. Then refuse.”
+
+Lim picked up Garfield while pondering her advice.
+
+“I mean, how else are we going to know his plans?” Eppie pointed out the simple fact by rubbing her face into Mr Chin’s belly, inhaling so deeply that the cat started looking more nervous by the minute. Cats, alas, could detect evil by psychic means.
+
+Lim slapped his forehead in the universal language expression for, of course!
+
+Oh Lim… Eppie watched Garfield take purchase and climb onto Lim’s head like a self-donning hat. When will you learn that a good accountant is not one who is honest, but one who finds the right numbers, within the parameters of man-made permitted rules?

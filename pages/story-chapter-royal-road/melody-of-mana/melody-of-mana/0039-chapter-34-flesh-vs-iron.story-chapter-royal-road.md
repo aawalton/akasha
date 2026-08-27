@@ -1,0 +1,161 @@
+---
+id: 470fea5d-7d7f-5264-adbe-1fd4ebaf67c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 Flesh vs. iron"
+slug: 0039-chapter-34-flesh-vs-iron
+partOf: melody-of-mana
+position: 39
+ownLength: 2148
+unit: words
+ownProgress: 2148
+publishedAt: 2021-08-01
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/726425/chapter-34-flesh-vs-iron"
+royalRoadId: "726425"
+markedReadAt: "2026-06-29T22:27:33.837Z"
+---
+
+I nearly screamed at the newcomer, his appearance shocking me.
+
+Lief in fact leapt to his feet and drew his sword. "Identify yourself!"
+
+Dras jumped up too, the tiny flame he'd made jumping back to his hand and roaring to life.
+
+"Name's Charles. You still haven't answered my question." He seemed utterly unconcerned with their apparent hostility.
+
+"Wait, Charles? Like Jer's brother?" Dras blurted that out in shock, earning him an appraising look from the new guy.
+
+"You know Jer? Oh, are you that fire mage kid he was hanging out with? Look how big you got, good on you. I'd love to hear more about that in a bit. Anyway, a way out, do you have one?"
+
+"Um, we came in through a pipe in a big cistern room. We might be able to get out through there."
+
+"And the thing in there didn't eat you?"
+
+"We didn't see it."
+
+"Yeah, weird thing that. It doesn't mind things coming in, but as soon as you try to go back out that way, munch."
+
+"What about through the stairs near here?" It was Lief who spoke up this time around.
+
+"Good idea, wish I'd thought of that a few years ago. So, how do you plan on passing the golem at the door?"
+
+Lief took the cue to think about what he was saying. "Any ideas on how to go about that?"
+
+"Not really, I was thinking I might try dropping part of the ceiling on the wanderer, see how that goes."
+
+"What can you tell us about them? Are they solid or hollow? Is there any indication on them or the rest of the area on how to turn them off?" I smacked him with a barrage of questions about our enemies.
+
+"Oh, now you're asking the real questions. Come on, I'll show you what I've got." He turned toward the exit to our little hidey hole.
+
+"Um, what about the wandering golem?"
+
+"Two floors down. As long as we keep well away from him he won't come after us."
+
+Charles was right, and our friend the killer iron monster was nowhere around. I could hear him walking about far off, but we saw nothing.
+
+He led us to his little lair, one of the larger tombs, still with a very small entrance, that had several rooms. Glowing moss and lichen had been gathered and was all along the walls, providing a small amount of light. In the middle was a little carving from some kind of clay. It was a golem in extreme detail, every rune and line on it standing out.
+
+"As far as I can tell they're solid, or mostly solid. They don't ring if you hit them with something big. The runes I've got no clue on. I copied them here as you can see, but I don't know anything about what does what. There isn't anything else around quite like them."
+
+Lief jumped into looking at the model, even asked for an extra light. While he was doing that I looked back toward our host.
+
+'What about sight, how do they see?"
+
+"With their eyes I guess?"
+
+"No, do they need light to see? Or can they operate in perfect darkness?"
+
+"Oh, not sure, but they seem to do fine in the dark. I haven't tried to get close to one in pitch black, but I don't care to die either."
+
+"Do they have to recharge or something? They've got to be using a lot of mana."
+
+"They're drawing it from the ambient mana down here. There may be some form of storage, but I wouldn't know if I couldn't get one apart." Lief had looked over as he spoke. "See here, this group of runes is for doing that. It's a bit strange though, I'm not completely familiar with the arrangement. Probably explains why there isn't much down here though, between them killing it, or just eating the mana most bigger things won't move in."
+
+"Can we just break that sequence then?"
+
+Lief shook his head. "Not unless you've got a siege engine, no."
+
+I sighed, looking back toward Charles. "Do we even need to fight them? What if we just distract them and get past? Do you know what's up those stairs?"
+
+"The wanderer can be avoided, but the one at the stairs can't. He never moves from his spot unless you get really close. He also won't chase, so no leading him away. As for what's up there, there's a door, the stairs guy will follow you up to it."
+
+"Can we at least do something about the wanderer? Maybe lead him over to the cistern and let him and the monster there fight it out?"
+
+"Wanderer won't leave the tomb area."
+
+I sighed, really wishing for something like a machine gun, or someone more experienced. While Lief and I both thought out plans Dras caught Charles up on his little brother. It was several hours of me trying to put together an idea for a cannon or something before Lief spoke back up.
+
+"Hey, I figured out how they see."
+
+He instantly got all of our attention.
+
+"It's some form of sound sight. Their movements bounce off of the walls and back to them, letting them see what's around them."
+
+"What would happen if we overloaded it with noise?" That might be a key to at least distracting these things for awhile.
+
+"I don't know."
+
+We decided to set up an experiment. Waiting until it was on the top floor of the tomb I positioned myself on the opposite side of the open hole that was the center. I got the boys to sing with me for support and let loose on our friend the wanderer. I'd never hit a scream quite that hard and it was painful even from where I stood.
+
+The golem turned and charged straight at me. It would appear that it couldn't see anything else, because it ran right into the big hole in the middle of the room. I stopped as it fell and the enormous crash could be felt by all of us.
+
+"So... is it down?"
+
+Charles leaned over the edge. "Looks like one of its legs is bent all weird."
+
+"It seriously cannot be that easy, can it?"
+
+"I mean, it's still moving, barely."
+
+There was a loud snap and a crack ran up across the ceiling. "Oh, oh that's bad."
+
+More cracks started spider-webbing out from the main one, running all down through the tomb. As they expanded one by one a few small pieces of ceiling began to fall. I could feel the blood draining from my face as I turned to the others.
+
+"The time for planning is over! We need to go now!" Lief declared and he turned towards the second golem and started running. "I'll distract it, get that door open!"
+
+He'd learned his lesson last time and didn't even bother drawing his sword, instead charging and dipping to dodge. Charles and Dras slipped past quickly, easily pulling ahead of me as rumbles filled the hall. They had no issue passing as the golem did its very best to squish Lief.
+
+"It's stuck," yelled Dras.
+
+I managed to get up the stairs and start pulling along with them, but it was no use. The door adamantly refused to budge, and none of us had the strength to change its mind.
+
+Having an idea I yelled to Lief. "Bring it in here. I think I've got something."
+
+Lief obliged, as he led it in I put myself right in front of the door, looking down the stairs. The tomb was coming down, larger pieces falling. Even the floor near our area was starting to break near the center of the main room, tossing hunks of stone into the abyss. We'd have only one shot.
+
+As the golem followed its target up the steps I motioned the noble out of the way and let loose the loudest scream I could. It stopped turning towards him and came at me full on. With my back pressed to the door I needed removed. It pulled back its leg for a mighty kick as it flew forward.
+
+I cut off my scream and dove for cover as it came in. I was not quite fast enough though, and part of the uncompromising limb rammed my left leg. I heard the sound of metal breaking and the door flying off of its hinges. Someone had me, pulling me up and past the broken portal. I could hardly see, the pain was immense as I was pulled along, before finally being laid on the floor. I didn't scream, it was too much for that. All I could do was gasp for breath as my body flopped like a fish.
+
+"Alana! Alana, look at me!" It was Dras. He was kneeling beside me, pulling my face to look as him as I shook in agony. "It's your leg. You have to heal it, you're bleeding. We can't get you up like this and you'll die if we can't stop it."
+
+A quick look down at my leg revealed a bloody disaster with bones sticking out here and there. I tried to sing, to push my magic into it, but it was so hard, so hard to keep a tune going.
+
+"You need to cast, now." Dras was leaning over me still. The other two looked pale. In Charles' case even more than usual. "Here, I'll sing with you." He hummed a lullaby to me. I knew it, every child in the region probably did. This world's version of 'twinkle twinkle little star'. I managed a few notes here and there, each pushing the healing spell I was focused on into my leg.
+
+I had enough in me to realize I needed to stop the bleeding fast. The growing pool of blood around my mangled limb a constant reminder. I sealed up the wounds, reconnecting the broken blood vessels as best I could. The bones I just sort of, shoved back in. There was no time for that when I was bleeding so badly. If I survived I could worry about that.
+
+There was a loud booming sound and a rush of air and dirt as I closed up the wound. The bones were still looking like a broken window, just little shards everywhere, but I was no longer bleeding in a manner that would surely be death down here. My mana was gone, down to just the last dregs.
+
+"It's sealed up. Just need more mana. Don't move me." My vision blurred and closed off as I lost consciousness. The worried faces of my friends the last thing I saw.
+
+I awoke some time later in profound pain. Gasping as a few tears streaked down my cheeks. Everything hurt, my body was complaining on all fronts. My head was pounding like someone had taken a hammer to it, and let us not forget that my leg was sending waves of torment, one after the other, but I was alive.
+
+"Water." My voice was hoarse as I called out for aid.
+
+Charles brought over a skin, a literal skin, and brought it to my lips. It was foul, and warm, but the water there was enough to sate my thirst. I made a mental note to get him more when I had the option.
+
+"Can everyone sing with me again?"
+
+A few nods and we all went into a halting version of the same children's song. The gestalt effect was a life saver here, potentially literally. With the extra power I managed to get my leg back into a workable state. I was still in a lot of pain, but I was fairly sure I could walk on it. Magic sure was great.
+
+Looking down at my leg again gave me an idea of what it must have been. My dress was soaked with blood, staining it a darkening burgundy. The ground near me was also sticky with the drying stuff that had leaked all around it. My now wholeish leg was dark purple with bruises. I didn't have enough juice to fix that, even with the gestalt.
+
+Dras sat beside me in a place that was clean enough. "You gonna be okay?"
+
+"Yeah, yeah, give me a few minutes and I'll be ready to start moving again." I patted him on the shoulder.
+
+"Take all the time you need, we don't seem in immediate danger." Lief turned and looked down at me kindly as he spoke. He seemed a nice guy.
+
+"It would be nice to get on the way though, when you're ready." Charles was practically bouncing. The years alone had really messed with his social skills, and potentially his brain.
+
+After a few more moments of break I got Dras to help me shakily stand up. "Okay, let's go home."

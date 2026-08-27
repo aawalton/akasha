@@ -1,0 +1,85 @@
+---
+id: 26b443e9-6879-55eb-bed7-29077cfbf8f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 275 Fifteenth Year of Marriage"
+slug: 0289-chapter-275-fifteenth-year-of-marriage
+partOf: melody-of-mana
+position: 289
+ownLength: 1316
+unit: words
+ownProgress: 1316
+publishedAt: 2023-10-11
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1370253/chapter-275-fifteenth-year-of-marriage"
+royalRoadId: "1370253"
+markedReadAt: "2026-06-29T22:35:48.976Z"
+---
+
+I stood by my window, looking out upon the ice. In the reflected image I could see myself, I could still pass for somewhere in my mid to late twenties if I tried, though that was certainly no longer true. My work with age controlling magic had generated results, though it was still decidedly imperfect. I was still aging, just at a snail's pace.
+
+“You know, vanity is foolish,” came the voice of perhaps my oldest friend.
+
+“Maybe, but I can indulge sometimes. How are things going Dras?” I turned to look at him.
+
+Dras had fallen prey to the receding hairline a few years ago, and though he was still hale he looked quite distinguished now. No longer was he the slightly roguish young boy in a bar I'd met so long ago, but the smirking archmage of the kingdom.
+
+“Most of my people and equipment are out. I can't believe you're actually doing this.”
+
+“It's what this place was supposed to be in the first place, and with our portal networks as they are now we don't really need this hub. Regardless, no pouting, I've seen your new facility in the capital,” I responded.
+
+“Won't be the same without you,” he quipped, and I could tell he was unhappy that I wasn't leaving.
+
+“I'll be here if you want a consult on anything, but we haven't really needed me to butt in in years. You sure I can't convince you to stay?”
+
+“And do what?”
+
+“Teach of course. You know as much about magic as anyone, and more than almost anyone when it comes to fire magic,” I replied.
+
+“Maybe one day, but I like what I do,” he said as he shook his head.
+
+“Fair enough, if you change your mind you know where to find me.”
+
+He left and I began to look around once more. There were expansions going up everywhere, and had been for years, all part of my evil plan to turn this research facility into a proper school. Over the past few years we'd run into problems, lots of problems.
+
+The old academy in Lithere was wonderful, magnificent even, but it just wasn't big enough. It was made for a different time, and a different system then the kingdom ran on, one where only the few could get a proper education. As we found, and tried to train more and more casters for our army they just wouldn't fit, because they'd never been meant to. It wasn't going anywhere for now, but rather being converted into something like a magical primary school, somewhere local students could begin their education, an education we'd be finishing here.
+
+There were other schools of course, lesser ones, but those presented their own problems. They were small, normally in cities where they couldn't expand, and often sub-par, it simply wouldn't do. These too were being consolidated into my school, brought into the fold as it were.
+
+Finished with my watching the grounds I turned and began to delve deeper into the fortress, for a fortress it still was. There were halls and rooms, dorms and barracks. Even if we weren't going to be military anymore we'd still have a few security people around, necessary for this part of the world, and in case someone decided to attack us. Ulanion was heading that group, and I'd be meeting up with him later, or now I went to see other people.
+
+As I closed the meeting-room door I looked at the people gathered around, all of us bards. The twins Leah and Robert were there, along with Ian, one of my first students. Then there was Rena, and Perry, both who'd assisted in my lab over the years and learned more than a bit about portals from me. Finally was the aged Professor Magnolia, who'd been one of my schoolteachers and would be joining us not only at the new school, but for this clandestine organization.
+
+“Good evening everyone, and welcome to our first official meeting. Since we're all here, let's begin discussions.”
+
+This was the last of the problems I had, I needed more people who I could trust. Things were still going well, or well enough for my liking, but problems would undoubtedly appear one day, and a new group was needed to deal with them.
+
+“We need a name, the Order of Gatekeepers maybe?” Leah said thoughtfully. “Or the Knights of the Doorway?”
+
+“We're not priests, but bards. We need proper nomenclature, and a symbol,” Magnolia said with a chuckle.
+
+“Something we can put off for later. What we really need is more people, not a ton, but enough to keep things going even after we're gone. Call me crazy but I think the world will need it one day,” I said, cutting through the jokes.
+
+“Yes, you're right, those distortions are concerning, as are the reports I got on the, 'Incident' and what came after. To think they persist like that.” It was Ian this time that chimed in, leaning back.
+
+“Right, and while things are safer now the world will continue to grow. If we can just have someone there to protect it when things go wrong, that will be worth our effort.” Keeping them all on track was the hardest part of my job sometimes. “For now though, just get settled in and make sure your lessons are ready for the next school year. We'll be keeping an eye out for talent then.”
+
+There was a chorus of nods and after a bit more discussion on names we split. Soon we'd have to come up with something or one of the members would just place one on us without my asking. Secret societies always felt like they needed some kind of title, though I wondered if that was a good idea. Names gave a sense of belonging and purpose, but they also made things much harder to keep hidden.
+
+They split, all heading to get their own items ready. It would be a few months yet until classes actually began, but since this would be our first year there was still a monumental amount of stuff to do. They needed their lessons planned, their classrooms laid out, their supplies in order. There was also all of the administrative work that landed on my desk, luckily I'd burned through most of that over the course of the last few weeks. Now I was just putting out fires and having meetings as needed.
+
+My husband was waiting for me when I got back to our rooms. We'd been occupying these for quite some time now, and were well and settled in.
+
+“Hello love, I see you've finished up for the day.” He came close, wrapping his arms around me an kissing me like we were still newlyweds.
+
+“I have indeed, and I have just enough time to spend some with you before I head out in the morning. Still sure you don't want to join me? First chance to go home in a long time,” I offered.
+
+“Nothing back there for me. You sure you need to go?”
+
+“Before classes are scheduled I need to get a look at at least some of my students, see their measure.”
+
+“And I'm sure seeing the kids has nothing to do with it,” he teased.
+
+“Nothing at all. Though if they're not up to standard I'll be putting them in 'remedial' classes over the break, taught by yours truly.”
+
+That got me a hearty laugh. “You've been teaching them magic since they first manifested it, I'm sure they're up to standard.”
+
+I ran a hand over his face. There were a few more grey hairs, one or two more wrinkles, but he'd changed as little as I had. “So, bedroom? Or elsewhere?” He laughed as he pulled me close, I loved my children, but having them out of the house was a bit freeing.

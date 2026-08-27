@@ -1,0 +1,201 @@
+---
+id: 65559e8d-3466-5f45-a77e-578707e72507
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 672 - Welcome Feast"
+slug: 0178-chapter-672-welcome-feast
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 178
+ownLength: 2883
+unit: words
+ownProgress: 2883
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3059141/chapter-672-welcome-feast"
+royalRoadId: "3059141"
+markedReadAt: "2026-06-29T19:40:46.206Z"
+---
+
+Tala sat at the head table for the feast, Rane allowed at her side, while Lea—with Terry on her shoulder—was placed on one of the upper side tables.
+
+All the Sappherrous family had to keep their features schooled as Terry performed his usual play at such events, flickering out and back so quickly few could notice as he snatched food from around the room.
+
+To Tala’s surprise—though it shouldn’t have been in hindsight—Tala noticed most of the Pillars, and even a few Eskau, glancing at Terry often enough, and close enough to his little snatches, that they likely could sense something, even if they didn’t know exactly what was happening.
+
+Only Pillar Cruas seemed to actually figure out what was going on, at least if the small smile that occasionally tugged at his lips was any indication.
+
+It did answer a miniscule thing she’d wanted to verify, in that Terry could still teleport. Tala was reminded of when she had closely bound all the reality nodes in the sparring ring of her sanctum. Just like then, it seemed a fraction more difficult for him to dimensionally move around, but the increased challenge was nothing that he couldn’t overcome with ease.
+
+The solidity of the world-fragment did not prevent magical travel. Even so, both she and Rane had experienced an oddity, at least once they’d noticed it.
+
+Their gates had moved from feeling like they were being dragged across the ground—occasionally digging in and causing true damage—to a sense akin to gliding across ice.
+
+The world-fragment didn’t block their gates, and their gates didn’t harm the fragment in the least. What’s more, this didn’t feel like a temporary thing. It didn’t feel like reality in here was ‘bearing’ the burden. Like a skater on deep-winter ice, it was inconsequential.
+
+On the physical level of things, the hall was huge, easily holding near to three hundred members of the House of Blood of various ranks.
+
+The walls were lined with well spaced house guards, and servants moved to and fro with alacrity, seeing that none of the guests wanted for anything and clearing away that which they were done with.
+
+The place was constructed primarily of black stone—not obsidian or onyx that she could see—that had an odd depth to it, allowing any who took the time to look to feel like they were staring into great, unlit caverns, beyond the ability of light to ever illuminate fully. That primary material was clad and lined with a mix of gold, silver, rubies, and woods, both dark and light. All these materials were artistically woven across the underlying structure to highlight, intrigue, and tantalize.
+
+Overhead, it was done to such an effect as to give the impression of looking up through a winter forest canopy, catching glimpses of red stars in the night sky.
+
+Somehow the effect wasn’t ruined in the slightest, even though the hall had been created with one wall open to the world-fragment outside, the few columns required for structural stability shaped like great trees to add to the aesthetic.
+
+The flooring was similarly black, giving the feeling of walking over or sitting above an abyss, the furniture skillfully made to darken near the bases to help them fade from perception if any guest was looking toward the floor. On the edge of both the ceiling and floor, the stone had been made more translucent and somehow transformed so that it, too, seemed to fade from sight, causing the openings to seem to be larger even than they already were.
+
+As to the mostly open wall, there were great, intricately wrought magics ready to keep inclement weather out, but otherwise, it made the space much like a great covered patio.
+
+That was something that she hadn’t thought of much. The world-fragment did have weather. The climate continued to act as if it were in its natural place, the rain and snow coming as appropriate, the water being added to the space and flowing out without issue.
+
+It was one of the mysteries yet unplumbed about world-fragments.
+
+Regardless, the view was utterly spectacular, just as she remembered. The House structures were situated on a rise, giving unobstructed real views of the world that no longer existed.
+
+But might again, if this seed continues to grow.
+
+-You could eat it, add it to our expanded space. They probably couldn’t stop us.-
+
+Tala sent a horrified expression toward Alat. That would very cleanly end our chances, here.
+
+-What? I didn’t say you should, just that you could.-
+
+We have absolutely no idea what that would do. For all we know—based on the research that’s been done—this world-fragment is an actual anchor for Zeme. Our consumption of it could break that hold and send Zeme spinning off into oblivion.
+
+-Yeah, that would be pretty awful… but that’s just a theoretical worst case. We should still investigate. Besides, Vidarra ate one.-
+
+…Fine, but not now, rust you. Let me pay attention.
+
+-Fine, fine. Enjoy your food.-
+
+I will. It was an easy task, honestly.
+
+Aside from the three entire pigs that had been slow roasted over open fires to perfection—the various cuts offered to any who had a particular desire—there was more than a half-cow of beef with each portion properly addressed and prepared to best effect.
+
+There were sweet, savory, spicy, nutty, and so, so many other flavors, all available with the proper sides and accompaniments.
+
+The servants were trained to the point that any guest could simply put forward a general desire, and they could return with a full plate—if small—meant to perfectly facilitate the enjoyment of that request.
+
+There were wines, ales, meads, and myriad other drinks available, both alcoholic and not.
+
+Tala suspected that there was not enough of any one—or even any ten—things to feed everyone, but the style of the feast left everyone with what they most wanted, and put no great burden on somehow providing a small army’s worth of a single type of food.
+
+Tala’s first plate was roasted asparagus on a bed of brown rice, beside an herb brazed quail leg on the bone. To drink, they’d brought an odd dark wine that moved through both sweet and dry flavor profiles, complementing the myriad flavors before her.
+
+Her second was a fully woven enclosure of bacon, expertly crafted around an egg and white cheese souffle. Though Tala had no idea how that had been accomplished. She did suspect that dimensional magics had been used to place the two perfectly cooked parts together, one inside the other. Regardless, it had been plated with a thick and creamy, savory gravy in a dipping bowl. She had been hesitant at first, but after the initial bite with the dip, she’d had no desire to eat it any other way. That was despite how amazing it had been even without.
+
+They’d brought a sweet, slightly alcoholic orange juice with that second selection.
+
+Third, after asking for something a bit lighter, she’d received a small loaf of pull-apart garlic bread with a clear butter dip and pure water that still somehow had bubbles in it, like some of the more expensive wines she’d encountered in the past.
+
+Apparently it was simply called ‘sparkling water.’ A fitting, if unimaginative name.
+
+As she was moving to her fourth plate, she began to wonder how anyone outside her family was eating so much, finally turning her perception outward.
+
+…The Sappherrous family were essentially the only guests who were cleaning their—admittedly small—plates each time, and it was clearly to the befuddled amusement of the servants. Most other guests took a few bites of each—carefully sipping the provided drinks in accompaniment—before motioning for a servant to take away the rest and asking for another selection.
+
+To be fair, Rane was only on his second plate, and he seemed to be slowing considerably, noticing what she had and altering his behavior. But the women of the Sappherrous family? Tala and Lea were digging in, and there seemed to be no reason for them to slow down.
+
+Tala was momentarily stunned by the insane levels of waste given most guests only taking a few bites. True, each plate was barely larger than a tea saucer, so the guests were eating near to half of each order, but that was still nearly fifty percent waste.
+
+Any idea what is done with it?
+
+-No clue. Probably at least partially fed to the pigs or goats. Though I doubt they feed them the meat. Who knows, though. Mushroom farms?-
+
+She didn’t really know how to feel about it. On one side, it was wasteful, but on the other side, she hadn’t actually seen any arcanes starving, or even truly short on food.
+
+The Houses bought massive quantities of base crops, produce, and livestock from the various supplying holds, providing those places with jobs and income, allowing them to operate profitably within the expanded spaces.
+
+Was this waste possibly even… necessary in order to keep the House orders high enough for the massive scale of production?
+
+-They could always pay growers and producers to not grow.- Alat sent across the sensation of a shrug. -That would keep them in business and keep the waste down.-
+
+Come on, Alat, be serious. That’s an incredibly foolish idea. That doesn’t eliminate waste, that just moves the type of waste from foodstuffs to production capacity. If I were in charge, I would prefer to continue improving the ability to produce products, pushing technology, magic, and methodology forward. So long as everyone can eat and those making the base components of the food are making enough profit that they want to keep doing so? Maybe it doesn’t matter if there is a bit of wasted foodstuffs.
+
+-Wow, that was a quick turnaround. Moving from ‘this waste is terrible’ to ‘you know? If I were in charge, I would be quite happy with this waste.’-
+
+That’s not exactly what I said… but fair enough. I do think that paying for largess is quite preferable to paying, quite literally, for nothing and to ensure that nothing remains.
+
+-Maybe it could be to incentivize letting fields recover? Or not over farming?-
+
+If that were a concern—and magic can remove most if not all that issue—then motivating producers to continue producing long term would solve that nicely. They should want to care for their own resources.
+
+-Which is a whole different issue to address.-
+
+Well… I’m not trying to solve anything here. I’m no farmer… and we’re just discussing one, blindingly stupid solution and avoiding that.
+
+-Fine, fine. I’ll grant that it would be ridiculously foolish to pay people to not make useful things.-
+
+Tala considered, eating from her fourth plate—deep fried mushrooms with a thick egg-yolk, cream, and parsley sauce for dipping—unwilling to leave the matter, despite her words. Maybe to keep prices high? Reduce fluctuations?
+
+-That’s just forcing people to make the choices you think they should make. Farming guilds need to research well and take gambles. Some of those won’t pan out, but forcing the average person to pay more to keep that from happening is silly.-
+
+Maybe… Regardless, I’m sure this is more complicated than we’re considering.
+
+-Yes, it probably is, and we were done discussing it, right?-
+
+Right, right.
+
+Tala turned her attention back to her table-mates. Rane was engaged, discussing with an Eskau, a green hue-folk man with eyes a brown that—when paired with his forest green skin—gave him a feeling of ‘nature.’ That wasn’t reduced by his more simple, buckskin clothing, nor by his bone and wood-seeming protian weapon.
+
+Or maybe it was made of antler?
+
+Flicking through her memories of the conversation her perception had easily picked up let her know that it was, in fact, antler from a mix of various arcanous and magical elk. Those had been melded together and merged with the vestige in order to create a protian weapon that not only had a morphic form, but also morphic magics based on which harvests were brought to the forefront at any given time.
+
+The Eskau didn’t seem upset or offended to have been seated beside Rane, and Tala was quite grateful for that, as it would have been both awkward and frustrating were it otherwise.
+
+On her other side was Pillar Cruas, and she’d been exchanging simple small-talk with the man throughout the meal. He did genuinely seem fine with Eskau Meallain remaining contained for the time being, only asking after her in passing.
+
+He did ask if he could visit her soon, and Tala hedged, putting him off until after the decision was made.
+
+That had clearly been the wrong thing to say, causing the man to pull back, eyebrows rising in evident shock and offense, but Tala quickly disarmed the situation by stating flat out that she would happily facilitate his visit regardless of the decision. It simply needed to be afterward.
+
+This was not an attempt to influence his own vote on the matter. Pillar Cruas nodded at that, immediately returning to his pleasant demeanor.
+
+As they continued to chat, Tala’s main focus moved to where Lea and Terry were sitting.
+
+Her daughter was involved in some sort of argument—though it seemed friendly by the body language and Terry’s placid demeanor—with near to half her table, mostly composed of higher ranked guards and adjuncts, though there were a few other family members of those at the head table sprinkled in as well.
+
+Tala could have penetrated the din, distance, and other issues—probably—in order to overhear, but she trusted her daughter and didn’t feel a need to babysit the girl, not anymore.
+
+-They grow up so fast.-
+
+She’s literally never grown in her whole life.
+
+-...Wow… who’s being a jerk and purposely misunderstanding now?-
+
+Me, that would be me. Tala sent a wide self-satisfied grin to her alternate interface.
+
+Alat burst out laughing. -Fine, fine. I’ll leave you to it.-
+
+Thank you.
+
+Thus, the meal moved forward apace. They had arrived in Croi in the late afternoon, and the feast was scheduled to go through the night—the stamina of everyone involved making missing sleep a trivial concern for a single night—alternating between times of socialization, specially selected spars in the cleared middle of the hall, and entertainments of various kinds ranging from musical—both instrumental and vocal—to displays of rare animals of one kind or another and on to displays of skill that were quite impressive given the levels of advancement the performers held.
+
+More than anything, however, the feast was meant to facilitate mingling, which meant it included multiple seating changes throughout the night in addition to the times in which people could mingle more freely.
+
+Throughout, Tala chatted with a good portion of the other guests, usually about nothing in particular. It all honestly blurred together even from the start, just being something that she had to get through.
+
+She didn’t really make any ‘new connections’ though she did get the feeling that many of those she engaged with had come up to her in order to get impressions of her, personally, almost as if to remove some of the mystique around the ‘gated Eskau’... or maybe it was that she was the potential Eskau of War for a clash against an enemy of myth?
+
+Either way, it was clear that these people were interested in her.
+
+Rane seemed to be experiencing something similar, though obviously relating to her rather than himself, personally. The blessed man didn’t seem to mind, keeping conversation polite, and just as politely declining all requests for ‘friendly duels’.
+
+The Head of House had specifically reached out to them and requested that the whole Sappherrous family do the same.
+
+Lea… mostly followed that request. Apparently, at least a part of the argument the girl had been a part of involved armwrestling, and in that, Lea utterly dominated even the Elder guests who cared to challenge her. The one Honored she was pitted against held her off to the point that the table beneath them began to crack, and servants came forward to immediately request that the esteemed guests stop such activities.
+
+They all sheepishly complied.
+
+All told, Lea seemed to be having a grand old time, and her nature as a human in an artificial body either wasn’t known, didn’t come up, or didn’t matter.
+
+On one level, it made sense. The hall was filled with people of all kinds from hue- to beast-folk, elves to dwarfs, and other races too. This was the House of Blood, and as they kept saying, it’s the blood in everyone’s veins that really mattered.
+
+It was a bit funny that Lea didn’t have blood, but the sentiment carried through regardless.
+
+In the end, Tala found herself rather proud to be a part of this group, to count herself among them, and even to be a champion for their shared ideals.
+
+With ‘enemies’ like these, gated humanity just might be able to enter into a new, golden age.
+
+But a lot would be determined on the morrow. The next day, she would either be confirmed as Eskau of War, or she’d be scrambling for another way to maintain some level of authority in the arcane lands.
+
+Still, that didn’t worry her, not really. Tomorrow would bring what it would bring, and worry would not bring the answer any faster.

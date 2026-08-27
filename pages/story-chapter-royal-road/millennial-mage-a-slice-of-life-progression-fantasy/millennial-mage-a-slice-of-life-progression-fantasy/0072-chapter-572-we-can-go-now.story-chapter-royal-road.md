@@ -1,0 +1,273 @@
+---
+id: 90f2bcc3-d2ae-5cd4-9936-947885d07a84
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 572 - We Can Go Now"
+slug: 0072-chapter-572-we-can-go-now
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 72
+ownLength: 2761
+unit: words
+ownProgress: 2761
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2334785/chapter-572-we-can-go-now"
+royalRoadId: "2334785"
+markedReadAt: "2026-06-29T19:37:36.046Z"
+---
+
+Tala was quite on edge at Mistress Noelle’s assertion. “I don’t particularly have a desire to go back to the arcane lands anytime soon.”
+
+There. She’d been diplomatic in her refusal. She hadn’t lost her temper or flatly refused. Still, she’d made her feelings quite clear.
+
+There was no room for misunderstanding or—
+
+Mistress Noelle nodded easily, almost dismissively. “Oh, that’s fine. I assumed it would be a long time from now as one as young as you would count such things. I can easily wait a couple of decades as required.”
+
+Tala felt her eye twitch, but before she could start an argument with the woman, Rane cleared his throat, seemingly deciding to try and keep things moving in a more diplomatic direction. “That aside, how are you doing?”
+
+Mistress Noelle oriented on him, giving a little smile but not commenting on the change of subject. “Oh, I am doing quite well, Rane. It is a joy to see you both again. I can remember when you both were here so recently.” Her eyes flicked to Tala, causing another eye-twitch. “And you little Bound have gone so far and grown so much since then! After all, I am not Reforged myself, and you are pursuing that with abandon. It really is a pity that you all can no longer look up to me in advancement.”
+
+She gave a grandmotherly smile.
+
+“Aren’t you two just racing through the tiers like someone’s counting grains in the hourglass.”
+
+Rane continued to be their spokesperson. “Well, we have had a lot of good advice and that allowed us to progress at the measured pace we have achieved. Even so, I do think that we’re going to be working on our Reforging for at least a good length of time.”
+
+She patted his hand where it rested on the table. “As makes sense, and it is good to recognize that you didn’t get here alone.” For some reason her eyes flicked to Tala again. “But we don’t have to discuss this right now.”
+
+Tala grunted. “How goes your own Reforging?”
+
+The woman shrugged. “I am not particularly motivated to pursue that step, or any other for that matter. You can only Reforge once, and there is so much I don’t know about myself and the world around me. If I were to rush to take that step now, I am sure that I would regret it before the end of my time on Zeme.”
+
+When Tala frowned, Mistress Noelle waved dismissively.
+
+“Please don’t mistake me. I am not saying that Reforging must take a long time, simply that, for me, it isn’t the right time now, if it ever will be.”
+
+That made some sense to Tala, and she felt her frown fade away.
+
+Mistress Noelle took a drink of her tea, then clapped her hands, “But! Since you two are here, may I scan you once again? As I said, I am quite happy that your physical and soul-synchronization—which I analyzed the last time you were here—has grown in a true bonding of both.”
+
+She gave a happy little shrug before continuing.
+
+“I can even feel that you have been working explicitly on the unification of your magic, which is amazing! So few married Archons gain the awareness and control to even make that a possibility. Just one more benefit of your advancement, no?” She gave a decisive nod.
+
+There was a moment of silence before Tala realized that the woman was waiting for an answer to her questions. “Oh! Yes, that is a nice benefit. As to scanning us again?”
+
+She looked to Rane, and Rane shrugged. “I have no objection.”
+
+“I don’t either.”
+
+Mistress Noelle clapped her hands. “Good, good. Let’s get to it, then.”
+
+The process was much the same as before, with them only standing in a designated place and allowing magics to wash over them.
+
+This time, however, Tala could actually feel the magics more fully, and they actually did trace out the extent of their respective reality nodes, among other things. More interestingly, when Rane was scanned, Tala felt some of the magics resonating with—and even bleeding over to—her.
+
+Similarly, when she was being scanned, she felt resonance with Rane, despite him being across the chamber at the time.
+
+All told, it took barely ten minutes this time around, and Mistress Noelle seemed to descend into contemplations right afterward, her eyes unfocusing as she clearly looked over something that they could not see.
+
+After ten minutes of that—during which Tala and Rane enjoyed their provided beverages, as well as several snacks that Tala pulled out from their sanctum—they felt like they’d been patient enough. Finally, Tala cleared her throat. “Noelle?”
+
+The woman didn’t respond.
+
+“Noelle? Hello?” Tala felt a bit miffed.
+
+There was still no response.
+
+Tala sighed, deciding to go for a ‘drastic solution’ ,“Mistress Noelle.”
+
+Mistress Noelle spun on her, glaring. “I’ve told you not to call me that.”
+
+Tala didn’t back down, in fact, she leaned forward, keeping the woman’s gaze. “Well, when it’s the only thing that you’ll respond to, it’s what I’m going to call you.”
+
+The two locked eyes for a good long moment before Mistress Noelle huffed glancing away. “Fine. I suppose you have a point.”
+
+Without another word about it, she came over and sat with them.
+
+“I have a lot of data to go through. I appreciate you dropping through, and not just for a more updated scan. I don’t get many visitors, even on Archon time scales.”
+
+-I can’t imagine why.-
+
+Be nice.
+
+-I am. I only said that to you.-
+
+…Fair.
+
+Tala and Rane smiled, and Mistress Noelle returned the expression. “I can give you another half-hour or so, but then I really must get back to work.”
+
+Rane chuckled, and Tala sighed again before deciding to just go with it. “Well, at the very least, can you tell me what you learned about me and my husband?”
+
+Mistress Noelle huffed before shrugging. “You know all of it already. The most obvious fact is that you two are married.”
+
+Rane’s eyes widened in clearly feigned shock. “What? Are you sure?”
+
+He turned to look at Tala, and she played along, shaking her head sadly. “How could this have happened? We were being so careful.”
+
+Mistress Noelle sighed. “I suppose if you want to spend our time like this, we can…”
+
+They chuckled and shook their heads, Tala speaking for them. “No, no. Please, go on.”
+
+Mistress Noelle shook her head, and then dove into a rather expected set of information, including the fact that they were both Paragons, a listing out of their soulbonds—there was a not-often-thought-of thing here when she included Tala’s various bloodstars—but beyond that, there really wasn’t anything unexpected at all.
+
+Mistress Noelle did ask if Tala would call Terry back, but Tala got the feeling that the terror bird’s absence was entirely intentional, so she declined, much to Mistress Noelle’s disappointment.
+
+When the raw data was laid out, Tala surprised Mistress Noelle with a question, “What do we need to keep in mind to have the best chance of our children being balanced, existence wise and pertaining to the three pillars?”
+
+The other woman leaned back at that. “Well, well. You have been delveng deeper into the heart of things, haven’t you.”
+
+They grunted noncommittally hoping that she’d have something to tell them that could help.
+
+“Honestly?” She sighed. “You can’t really do anything. If you force something like that into yourself, it will more likely than not backfire. It’s like forcing a bond you don’t really want, just because you want the outcome you hope to achieve. Some people—who are quite fine people with nothing wrong with them at all—just cannot have children. Some physical causes can be addressed but others can’t, and more non-physical reasons can’t be addressed than can.” She shook her head. “Though, to be frank, it is not something that I’ve studied deeply. Take everything I’ve said with a healthy skepticism, and ask other experts.”
+
+That was… disappointing, but Tala supposed that she should have expected it. Mistress Noelle simply didn’t have an interest or experience in the area. No one could be an expert on everything.
+
+They turned the topic to lighter things, catching up in person rather than relying on the Archive exchanges that they knew would still be occurring going forward.
+
+All in all, it was a pleasant time with a slightly odd acquaintance.
+
+When the allotted time was up, Tala and Rane bid Mistress Noelle goodbye and exited the massive stump.
+
+Mistress Xakiri was off to one side, deeply engrossed in her own Archive slate, but they got her attention to tell her a final goodbye before heading into the woods once more.
+
+Terry joined them soon enough, and Tala frowned. It’s odd that he always comes back so clean, especially when we know he’s been killing and eating so much.
+
+-I mean his flickering leaves the evidence behind…-
+
+Exactly, oddly terrifying.
+
+-That’s our Terry.-
+
+The three didn’t delay before taking off, making their quick way toward Bandfast.
+
+They were barely twenty miles outside the forest—happy to have left the monotony behind—when Alat perked up.
+
+Rane also stopped in his tracks, which meant that Enar had likely been pinged as well.
+
+What’s happening?
+
+-Well, I try to keep Mistress Ingrit apprised of our location for myriad reasons.-
+
+As makes sense, yes. Please go on.
+
+-It seems that, apparently, there is a building issue just about thirty miles west of us. It was in the queue to have a Refined or above deal with it, but since we’re passing so close…?-
+
+Tala landed beside Rane. “Thoughts?”
+
+“Hmmm… I’ve never seen an arcanous beast try to become magical and dominate a fount before. So, it should be interesting, as well as a good thing to put an end to.”
+
+She blinked a few times. What now?
+
+-To be clear, I was going to tell you, but you rushed off. Apparently, some massive toad has decided it really wants to be a fire toad, and it’s trying to meld with a fount.-
+
+That… shouldn’t be possible?
+
+-Of course it shouldn’t be. It also isn’t possible, but magical creatures have been born from odder encounters.-
+
+It can consume the fount…? That threw everything she understood about founts and gates into question. How could—
+
+-No, no. What are you talking about? That’s impossible, but the act of trying can allow it to come into alignment with the region—after all, that’s what the fount is bound to—and that is what transforms a beast into a magical creature that can utilize the power coming through the fount. It isn’t a true bond—it’s not even a pseudo-bond—but it does grant power and a form of immortality. As this particular fount is one gated humanity wants to maintain—and one we want to be able to harvest resources around—we need to destroy the toad before it completes its own reshaping.-
+
+Oh? What do we like about this fount?
+
+-The burn-wolves come from there, and most of the harvests from them and other arcanous offshoots are incredibly useful for various parts of industry. It’s more the ‘inner fire’ type, rather than the ‘whirlwind inferno’ magic variety.-
+
+Ahh, yes. Then, I can see the appeal.
+
+-Indeed.-
+
+How long do we have? Do we need to get over there as fast as possible?
+
+-On average? Three to five years.-
+
+…Ahh.
+
+-It is about a year into the process, so it can’t be delayed for too long.-
+
+I now understand why this hasn’t been handled yet.
+
+-Exactly. Even when we informed others that we would come this way, it didn’t come up because it will be dealt with, but Mistress Ingrit was reviewing the files and thought we might be interested in handling it.-
+
+Tala had only taken a moment to be informed by her alternate interface after she landed beside her husband. With that done, she smiled at him. “Sure. It won’t take us too long. Do we want to take a flier?”
+
+Rane hesitated, then shook his head. “If we aren’t in a rush—and it really doesn’t seem like we are—I would prefer to continue to practice my movement methods.”
+
+Terry flickered beside them and trilled in annoyance.
+
+Tala scratched behind his ear-holes, his head level with hers. “Do you want to go kill a big, fire-bent toad?”
+
+Terry tilted his head to the side, then let out an ambivalent squawk. He was seemingly pretty full after all his hunting in the forest.
+
+Rane chuckled. “Well, that decides it then. I guess we’ll say no.”
+
+“Yeah…” She grimaced. Then, an idea struck her, and Tala grinned. “Terry would have been the only one to have the remains. I’ve never had interest in eating frog-legs.”
+
+Her husband matched her face and tone perfectly. “Yeah… Maybe it’s close-minded of me, but I agree. I am not interested in that at all.”
+
+Terry tilted his head to the otherside, letting out an inquisitive chirp.
+
+Tala decided to answer his inquiry. “Hmm? Oh, well… Apparently, frog-legs are a delicacy that some people really enjoy.”
+
+The pony-sized avian had a sudden gleam of interest in his eyes, and he danced from foot to foot with growing excitement.
+
+“Oh?” Rane hid a smile. “You do want to go?”
+
+Terry trilled eagerly at the sky before hunkering back down and continuing his foot-to-foot dance.
+
+When they didn’t leave immediately, Terry flickered behind each of them before head-butting them in a generally western direction.
+
+That caused the couple to laugh.
+
+Rane pushed Terry back momentarily. “One moment, Terry.” He glanced to Tala. “Come, love, we should get going before he finds a way to get there on his own.”
+
+“Oh, he could handle it, I’m sure.”
+
+“Obviously, but I want to see what this looks like. It doesn’t happen every day, after all.”
+
+Terry let out an exasperated squawk.
+
+Tala chuckled. “Fine, fine. We can go now.”
+
+Without further delay, the three took off, following the directions that Mistress Ingrit sent their way.
+
+It didn’t take them long to arrive, on a rise overlooking a rather spectacular view.
+
+Everything below them for miles toward the west had a sort of inner glow that would normally be lost in the bright light of day, but with Tala’s threefold sight, it became rather evident.
+
+“This will be stunning at night.”
+
+“Indeed.” Rane put his arm over her shoulder, pulling her against him.
+
+Even Terry paused, taking in the sights, his eyes flicking hungrily across the landscape.
+
+The trees had lines of fire visible between the cracks in their bark, and the veins in their leaves shimmered even in the sunlight, but it was more evident in the shade of the upper foliage.
+
+The grass rippled and cascaded through various colors of inner fire, ranging from yellows and reds to blues and whites.
+
+To her mundane eyes—even enhanced as they were—it just looked like the various plants had multi-hued structures, but she knew that impression would change as the sun set.
+
+She was beyond grateful for her threefold sight as it allowed her to enjoy the beauty before her even in the light of day.
+
+The small mammals, birds, and even insects all seemed to have similar magics threaded through them, and it took her a moment to realize that there was no snow in the area, even though there was a cool breeze blowing from behind them toward the glowing terrain.
+
+There wasn’t much snow on the plains yet regardless, given it was only late autumn, but there was some, especially on the northern side of hills, or tucked in hollows.
+
+Finally, her focus moved toward the core of this wonderland, a few miles away.
+
+A fount softly pulsed near the exact center, clearly connected to the entire area, its power flowing outward with a nurturing aspect woven through.
+
+And there beside it squatted a toad that was larger than a caravan wagon.
+
+It was sized like the bottom half of a cube, thirty feet to a side, its nose oriented toward one corner.
+
+More importantly, the arcanous animal was pointed their way, eyes looking in their direction even if Tala could tell that it couldn’t see them as of yet.
+
+Well, we aren’t exactly hiding our auras or our approach…
+
+-Of course not, scaring it off and breaking off the process is practically as good a solution as killing the thing.-
+
+Yeah… Though, I think Terry would be disappointed.
+
+Tala cleared her throat. “It knows we’re here.”
+
+Rane nodded. “Good. Let’s get Terry a snack.”

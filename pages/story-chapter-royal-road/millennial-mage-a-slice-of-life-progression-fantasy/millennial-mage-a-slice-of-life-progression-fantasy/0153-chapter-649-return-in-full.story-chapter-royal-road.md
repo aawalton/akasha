@@ -1,0 +1,199 @@
+---
+id: d044d686-f8fd-5408-a93c-5f64dc310a16
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 649 - Return in Full"
+slug: 0153-chapter-649-return-in-full
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 153
+ownLength: 2862
+unit: words
+ownProgress: 2862
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2855673/chapter-649-return-in-full"
+royalRoadId: "2855673"
+markedReadAt: "2026-06-29T19:39:58.112Z"
+---
+
+Tala looked at the slab of stone which showed the rear view from their flying construct as Howlton shrank and faded, then fuzzed and vanished in their wake.
+
+The dinner with Paresh had been enjoyable and largely dominated by his inquiries to Lea about some of the more esoteric portions of her nature. She, in turn, asked him what it was like being related to dragons, drawing much mirth from the dragon-kin.
+
+Apparently, even though dragonlings were ostensibly related to dragons, they were more truly simply a more esoteric sort of beast-folk. No one really believed that the ancestors of hawk-men had bred with those creatures, and so it was Paresh’s opinion that dragon-kin—or dragonlings—were the same. In essence, he believed that someone had experimented on his ancestors—perhaps the ancestors themselves—attempting to grant them the traits of the fabled dragons.
+
+All told, it was a rather ‘boring’ origin story, at least that’s how Lea seemed to take it, but she didn’t let the man’s theory hamper her for long.
+
+The remainder of the time was filled with pleasant conversation and good food.
+
+Ironhold’s merchants had done fast, thorough business, and the hold had been more than ready for their early departure that next morning.
+
+Tala took a deep breath and let it out in slow, quiet contentment, despite what lay ahead.
+
+The sun was rising from their back right as they headed southwest toward Platoiri at a good clip, all of Tala’s skill, experience, and nature bent toward smoothing and settling Reality around them as the density of power in the local zeme slowly increased around their craft as they continued away from the cycling cities, through the wandering wilds.
+
+The main slab before their thrones still depicted the live view forward, showing naught but rolling plains all the way to the mountains in the distance.
+
+She knew Platoiri to be at the base of those mountains, and the slab picked out what could be glimmers of the early morning light off of windows or metal, or it could even be brighter lights still shining forth from the city itself.
+
+She wasn’t sure, but it hardly mattered.
+
+At the speeds they were capable of traveling, she could get there in barely a few hours, but she was taking it relatively slow to perfect her technique in the ever increasing magical density.
+
+As such, her thoughts couldn’t help but drift to the sources of that power, the central pillars that marred each arcane city, the monument of vestiges—gated human souls bound and held as they dumped their power through filtering scripts and out into the world.
+
+They—in their thousands, if not hundreds of thousands—were the reason for this increasing density. The entirety of arcane society—whether hue-folk or beast-men— and the whole foundation of power that each Great House was built upon those columns, built upon the souls of her people.
+
+True, many holds had their own sources of power as well—more vestiges held and used regardless of their will—but without those central spires of enforced subservience, there would never be enough magic to go around, and the Houses would tear each other apart in constant war for what few sources that might be found.
+
+Not that they don’t fight and jockey for position and power already.
+
+-Indeed. But they do so over relatively little things. Imagine the lengths they would go to for the want of so precious a resource.-
+
+Absolutely. We need to figure out an alternative, something for them to switch to. Otherwise they will never change their stance on non-Archon, gated humanity.
+
+-You mean like your hold? Like what we and Kit have become?-
+
+Tala hesitated, not having considered that before. They are already used to being subservient to a City Lord… Then, she grimaced. But even my throughput would not be sufficient. Rust, Rane’s excess—whenever he has any—pours through our bond—through the filters—and helps sustain Ironhold, and that wouldn’t be enough to allow a city’s worth of arcanes to live ‘normal’ lives.
+
+-Agreed. Even if we could remove what little inefficiencies there are—what minor waste exists in the filtering process—it wouldn’t be enough unless they were forever locked within our domain.-
+
+Tala frowned, considering.
+
+Then, she dismissed the idea. We can hold far more volume than ever before, but it is nowhere near enough for an arcane city, let alone all the holds as well. Moreover, there’s far more than just one city.
+
+That would have been too easy of a solution, even if it would have involved both rare creatures and creations of incalculable expense, not to mention the finding of Mages capable of bonding and bringing those together under an iron-clad will.
+
+She frowned, turning and explaining her somewhat disjointed thoughts to Rane, who put aside his book to listen attentively.
+
+When she finished, Rane leaned back in thoughtful silence. After a long moment, he shrugged. “I see what you mean about cities, but what about holds?”
+
+Tala frowned. “What do you mean?”
+
+“What if instead of trying to replace the city, we worked to replace the holds? We could create effectively mobile sources of power and safety for them, each with an Archon at the core. It would invest the houses in the progression of young Mages into…” He grinned, drawing out the sentence, clearly liking what he was about to say. “Hold Wardens.”
+
+Tala’s eyebrows rose. “Oh… I like that. It would require either a filter artifact for each, or a good portion of early inscriptions being devoted to the cause…”
+
+“Filtering inscriptions have been tried before. It does lessen the strain on reality greatly, but the cost is… high. It effectively cripples our Mages in their early development, and it is a sufficient draw that putting those inscriptions on mundanes tips them over into the danger zone for founting.”
+
+Tala grimaced. “Yeah, I remember learning about that. The filtering didn’t have any real benefit in the short term, and the city system works quite well for gated humanity.”
+
+Rane tilted his head back and forth in thought. “I do like the idea, but I’m not sure if either side would go for it. It would require at least a few Archon-capable Mages every year becoming hobbled, potentially for the rest of their lives. On the arcane side, it would necessitate a radical shift in culture, as they’d effectively be putting themselves under the authority of a gated, rather than using that gate for their own ends, and at their own discretion."
+
+Tala shrugged. “Hasn’t it been said that the best deals are those in which no one is happy?”
+
+Rane gave her a flat look. “No. Just no.” He grimaced after a minute and amended. “If it has been said—at least if it was said with any degree of truth—it must have been referring to one-off instances that are ‘agreed and done.’ Otherwise, it would be something that both parties would be looking to find a way free of, and neither would be very likely to want to deal with the other in the future, if they had any other option.”
+
+She grunted. “Fair, I suppose…” She then blinked a few times, the seeds of an idea growing in her mind. “What if we just took one step?”
+
+Rane cocked an eyebrow. “Go on?”
+
+“What if we give or trade them the knowledge to raise up these Hold Wardens. Then, those that were going to be turned into Vestiges would at least have a chance. On the arcane side, the worst that would happen would be that they’d get the Vestige they were already going for. In the best case scenario, they would end up with a power source that would continue to grow and become more powerful.”
+
+“Huh… That might work? It would require working with the suppliers, though, and I think most of us would rather obliterate them out of hand.”
+
+She grimaced. “You aren’t wrong, but it would be a place to start that was short of all out war, and I don’t think we’re in a place where such a war is possible even given the stakes.”
+
+He sighed. “It is better to nudge the path of the prison ship in the attempt to eventually save some than to sink the whole thing and hope a fraction survive.”
+
+Tala gave a slow nod. “Even if it means allowing the prison ship to continue in the short term.”
+
+“And in that short term, we can work to turn it just a bit more at every opportunity.”
+
+They fell into a companionable silence then, only broken when Lea willed herself into her chair beside them. “Are you two ready for breakfast? I’m starving.”
+
+Tala shook her head, chuckling, and Rane sighed, addressing their daughter. “You literally can’t starve, Lea. Please don’t hyperbolize.”
+
+Lea groaned. “I’m not awake enough to care. Food? Please?”
+
+Rane gave her a level look before sighing again and glancing toward Tala.
+
+Tala nodded once before pulling the ready-made breakfast into place around the family. She also poked Terry mentally—soulfully?—and let him know that food was being eaten.
+
+He sent back the vague sense of gratitude before he flickered into being at his spot, beak already tearing into his breakfast.
+
+With their slow progress, it was another full day, night, and nearly noon on the next day before they drew close to Platoiri in truth. Her timing was nearly perfectly in line with what they’d agreed with the House of Blood via messenger exchange.
+
+In truth, she was a bit early, but Tala felt that such was better than keeping them waiting.
+
+Thankfully, it seemed that she wasn’t too early, and to her surprise, she saw Eskau Pallaun—a black scar on the otherwise lush hills—just outside the city.
+
+His obsidian eyes were locked onto the flier as it approached, the man clearly able to see the construct with ease.
+
+Rane stood. “My goodness, Tala. You weren’t joking. He is darker than midnight.”
+
+Tala gave her husband an odd look. “You’ve seen him in my memories.”
+
+“Yeah, but… I’m not sure if you’re aware of just how many of them are… colored by your mental state. Eskau Meallain was quite a bit smaller than you made her out to be, for example.”
+
+Tala grunted, giving him an unamused look. “That’s just a change in perspective, Rane.”
+
+He shrugged. “Even so. Regardless, it’s Pallaun, how are we going to proceed?”
+
+“Eskau Pallaun.” Tala corrected reflexively before giving him a sheepish look. “Sorry.”
+
+He shook his head. “No, no. You’re fine. I need to be better about that. Master and Mistress make sense to me, but all these other titles are harder to keep in mind. We discussed various greeting plans, which do we want to employ?”
+
+She smiled gratefully at his acceptance of her correction, then considered. “I think Eskau Meallain and I should be the first point of contact, her just after me. Terry should be with me, and you and Lea should be ready.” She ‘hmmed’ to herself then nodded. “Lyn and Ron too. Alat will keep you able to see what’s going on, so you won’t be blind to the situation.”
+
+Rane’s eyebrows rose at that. “A Talon so early? Isn’t that tipping our hand a bit much?”
+
+She shook her head. “I’m not saying I want you all out with me; be ready just in case. If we need a show of force, he can show up, act appropriately to the situation, and vanish again all fast enough that his less than perfect retention shouldn’t be apparent.”
+
+He gave a slow nod. “I can see that. Even if there is some slippage, Eskau Meallain will tell everything to the House of Blood regardless.”
+
+“But they won’t be the only House here. Remember, I have two roles in this. First and most important in their eyes—and that which allows for this meeting at all—is my title as Eskau of the House of Blood. Even so, the second is my reason for my return. I am Ambassador for the cities of Gated Humanity.”
+
+Alat’s voice sounded around them. “-I have alerted the requisite people, and Eskau Meallain is ready when you will her.-”
+
+Tala nodded once, their flier now barely a quarter mile from Pallaun. “It’s time.”
+
+She pulled the flier into a steady climb, rising at close to a ninety degree angle to get about two hundred feet higher on the final approach.
+
+Then, she kissed Rane’s cheek, winked at her daughter, and willed herself out.
+
+On the superficial, she came into view without fanfare, her flier vanishing as she appeared—back in its dock within the sanctum—even before she began to drop.
+
+Tala did nothing to slow or speed her fall as she descended, fully armed and armored for war.
+
+Flow was in the form of a glaive, having been shaped from her very flesh, as much a part of her as her armor and magic, blood and bones.
+
+Just under three seconds later, she impacted a dozen yards from Eskau Pallaun—close enough to be practical without being so close as to be seen as coming in for an attack. She took the landing with barely any bending of the knees, her will and authority already in the ground as she touched down, preventing it from exploding or worse, the embedding of herself up to her hips due to her weight and speed.
+
+Terry flickered into being beside her—matching her in height—as soon as she was stationary. He was crouched just slightly, clearly ready to act, but not actively preparing to pounce.
+
+They stood thus for a long moment, her a warrior clad in white and fitted with all the regalia of battle, blade bare, magics humming, and joined by a terror bird of immense power, him a warrior of obsidian, no weapon or magic in easy evidence, alone.
+
+Even so, Tala’s enhanced perception could see his soul… his two souls? That hadn’t been obvious before.
+
+One seemed to be in command of his body while the second was like a soothing blanket, a calming presence that radiated authority in harmonious resonance with the city in the near distance.
+
+She frowned within her helmet but realized that it was hardly the time to inquire.
+
+Both souls almost buzzed with slight uncertainty, but it didn’t last long in either.
+
+After a moment, the man’s perfect, alabaster teeth flashed in the light. “So, Eskau, do you return with blade and power to scour this city? Or am I worthy of such a display while alone?”
+
+Her armor melted away, fading from the superficial even as her glaive flowed back within herself. She lost near to four inches in height in the transformation, but she didn’t mind. When her helmet vanished, it revealed her wide smile. “Eskau Pallaun, it is good to see you again. Thank you for your greeting.”
+
+She then turned and looked straight at a point off to his right, the point where subtle yet powerful magics were providing a viewpoint to some others, even if she couldn’t trace it well enough to tell exactly who was watching.
+
+“As to the other, our audience was sufficient to necessitate a bit of a message. I am not returning as a contrite petitioner. I come in the fullness of my power, and I am not alone.” She rested her hand on Terry’s head and gave it a couple of scratches before allowing her arm to drop.
+
+The terror bird let out a deep trill that was as comforting to her—due to her familiarity with Terry—as it would be terrifying to any who might oppose him.
+
+Eskau Pallaun smiled in turn, not showing any apprehension at Terry’s presence. “Is that the little avian who followed you around when last you were with us?”
+
+Tala gave a single nod.
+
+“I am glad that he is well.” His smile fell away, and he met her gaze, sincerity plain across his features. “Though, I am far more glad that you are well.”
+
+They exchanged a simple, solemn nod. Tala then gestured unnecessarily, and Eskau Meallain appeared beside her, armed with her own protian weapon in the form of a sword at her hip, dressed in her fighting attire, flexible, strong, and formal—the insignia of her master prominent upon her chest. She was the consummate Eskau of the House of Blood.
+
+Eskau Pallaun’s eyebrows rose, though it was only Tala’s enhanced perception that was able to pick up the minute, black-on-black expression. “Is she free, then?”
+
+Tala gave a mischievous half-smile. “Not at all. She is still fully under my power.”
+
+Eskau Pallaun’s eyes seemed to unfocus before the big man barked a laugh. “I can see now, yes. Wonderful! It seems there will be much to be discussed, but for now, the others are waiting.”
+
+He turned and gestured to a doorway that was freestanding behind him. It had been waiting—just stoneward—for his gesture, and as it bobbed to the superficial, Tala grinned in turn. “As you say. Once the greetings are accomplished, I would introduce you to my family.”
+
+Eskau Pallaun lost a bit of his formality as he nodded, a quiet, genuine smile ghosting across his lips. “It would be my honor.”

@@ -1,0 +1,219 @@
+---
+id: a8a0da51-f701-5097-91ca-64faa3d0e7f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 628 - Celebration: Day Two"
+slug: 0130-chapter-628-celebration-day-two
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 130
+ownLength: 2748
+unit: words
+ownProgress: 2748
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2713849/chapter-628-celebration-day-two"
+royalRoadId: "2713849"
+markedReadAt: "2026-06-29T19:41:35.858Z"
+---
+
+Tala was relaxing with Rane, and it was well into the second day when her daughter sought Tala out, seemingly with something weighing on her mind.
+
+The night previous, Tala and Rane had moved the whole party back to Alefast, Waning, in order to ease the facilitation of the rest of the celebration.
+
+The goodbye with the Zuccats had taken the latter part of the previous evening, with everyone wishing to bid them farewell.
+
+Now? They were just… gone.
+
+Tala was still internally wrestling with that reality when Lea sat down across from Tala and Rane, pulling her mother’s attention. “Mom?”
+
+“Yes?” Tala pulled her focus back from the view, her hand still resting in Rane’s hand.
+
+The big man smiled at their daughter, but didn’t get in the way, as the girl seemed to be on a mission.
+
+“Why are my maternal grandparents not here? Why don’t you ever talk to or about them? Why haven’t I met them?”
+
+Tala’s grip on Rane’s hand tightened, and he responded in kind, giving a comforting squeeze. Even so, Tala still hesitated for a long moment, before she nodded. “I suppose you are old enough to know, you are certainly mature enough. But are you sure?”
+
+“Yes. Please. I heard Aunt Latna talking with Uncle Nalac. Grandfather isn’t doing well, and I’ve never even seen him. Please. I want to know.”
+
+Tala leaned back against Rane on the two person seat, allowing him to shift to put a comforting arm around her. “Are you sure, Tala?” He ignored their daughter’s glower. “I can give her the basics if you want.”
+
+She laid her head on him for a moment before sitting up a bit straighter. “Thank you, but no. It will be alright.”
+
+He nodded, giving her another squeeze.
+
+She sighed and nodded. “Alright, then. I suppose I should start at the beginning.” She willed a cup of fruit punch to her hand and took a long pull before nodding. “So, your grandfather, Alan, was very dedicated to his craft. He felt called to be an alchemist in order to help people, even though he had no gifting with magic. As such, he filled his early years with study and practice. He didn’t get married for the first time until he was not much younger than I am now. I believe he was around thirty.”
+
+Lea shifted, settling in and willing a small plate of snacks to her hand. Rane smiled and did the same, except his arrived resting on his leg so he could eat from it with his free hand.
+
+Around them, spread throughout the sanctum, the rest of the family and guests who had returned for the second day were enjoying themselves as they saw fit. Some were eating, some talking, some taking the time to relax in innumerable ways, and many conversing in variously sized groups just as most of the Sappherrous family was in this small alcove.
+
+As such, the three weren’t likely to be interrupted any time soon.
+
+Tala shifted slightly even as she continued. “They married, deeply in love, and they soon became pregnant with their first.”
+
+“You?”
+
+Tala shook her head, feeling a bit of regret that she’d never mentioned her older brother to the girl. “No. I had an older brother, Xale.”
+
+Lea looked shocked but didn’t interrupt again. Rane took another bite from his small plate, even as he rubbed Tala’s upper arm in comforting reassurance.
+
+“So, Alan’s first wife was pregnant with Xale. It was a standard pregnancy from what I’ve been able to work out, and when it came time to give birth, Alan insisted they do it at a Mage-run Healers. He didn’t want his wife or child to be in any danger, and so he was quite insistent that they get the ‘best’ care.”
+
+Lea frowned, noticing the oddity in that when compared to what she’d obviously heard on occasion about her grandfather’s views, but she held her tongue.
+
+“The Healer that attended them was newly raised to Mage-hood and apparently made a mistake. I’ve never gotten the details, and I haven’t tried to dig up the records, but suffice it to say, the Mage misapplied her magics in a way that wasn’t noticed. Alan’s wife died shortly after the birth.”
+
+Lea’s eyes widened, and she covered her mouth.
+
+“The Mage was stripped of authority, dropped back to mageling and made to start their apprenticeship over, and Alan was paid a handsome settlement, but money and apologies don’t bring back the dead, and they don’t heal a ravaged soul.” Tala gave a sad smile, knowing that truth all too well. “That set his dislike of Mages, of magic, deep. I think it was worse because he’d been the one to insist they go to that clinic, and I don’t know that he fully recovered from that mindset until years later, if he ever really has.”
+
+Lea nodded, seeming to understand the sentiment, and Rane leaned over to give Tala a soft kiss on her hair.
+
+She touched her head to his shoulder, smiling briefly in acknowledgement before continuing. “Regardless, he took years to get over the death of his first wife, his soul worn and strained by her passing on. He raised Xale by himself until my brother was well into his school years. Then, he met my mother.” Tala gave a sad smile. “They married and were soon pregnant with me.”
+
+Lea smiled, clearly glad to hear about that part. Rane grinned as well, sharing the moment with their daughter.
+
+“Obviously, when the birth came around—as the pregnancy was normal enough—he didn’t want Mages involved at all. Yet again, he wanted his wife and child to be safe. My mother followed his wishes, just as his first wife had. So, being a highly skilled alchemist, bent toward healing and wellness, he believed himself to be enough… but he wasn’t.”
+
+“She died in childbirth as well.” Lea gave her mother a sad smile. She knew that part of the story.
+
+Tala took comfort in her husband’s encircling arm and the warmth radiating from him beside her, able to continue more easily because of such. “Yes. Yet again, he blamed himself. Still, he knew he wasn’t up for raising me alongside Xale on his own, so he put aside his own grief, bearing through the pain of his now twice strained and battered soul, and began courting Martha.”
+
+“She’s the mom of my aunts and uncles?”
+
+“That’s right.” Tala felt a smile pulling at her lips at the girl’s excitement, there. She really did seem to love their extended family. “After an appropriate, if short, grieving process and betrothal, they married, and Latna came along. Alan let Martha choose how the birth would go, as he felt utterly incapable of doing so.”
+
+“I can imagine…” Lea’s voice was small, and Rane grunted in agreement.
+
+“Quite…” Tala grimaced.
+
+“What did she choose?”
+
+“A bit of a hybrid method. Alan helped, with assistants on hand, and they had a Mage near at hand in case there was need.”
+
+“Sounds reasonable enough.”
+
+Tala shrugged. “I suppose. Alan always made it clear that he didn’t like Mages, but they had their place, but continuing on, he was forty when I was born, making him seventy-four now.”
+
+Lea frowned. “That’s not very old, is it? For a gated mundane?”
+
+Tala shook her head. “It is and isn’t. His soul is thrice bonded and twice broken. That’s part of what led him to his path of addiction.” When Lea frowned, Tala shook her head again. “My apologies, I forget that I’m telling the full story. When I was a very young child, he developed a bad back from all his hunching over the alchemy workstation. He self-treated, unwilling to go to the Mages, despite their help with the births of his children. My grandmother died around that time, and his self-medicating built into true addiction, likely due to his hurt soul. He’d kept the settlement aside, saving it for Xale, but around then, Xale died in the course of his training and early career as a guardsman.”
+
+Lea let out another little gasp, leaning forward. “What happened?”
+
+“To Xale?”
+
+“Yes, that too.”
+
+“He died in a monster attack. No one was at fault, not really. People just die sometimes.”
+
+Rane squeezed her again, and Lea’s frown deepened.
+
+“As for Alan, he spent the money, trying to erase the pain. It worked for a little while, but the money didn’t last, and without it, he couldn’t afford the quantity of drugs he needed. Without those, the pain came back worse than ever, or so he said. So, to get away from the cloying agony, he borrowed. When that wasn’t enough, he borrowed more and gambled it away, trying to earn enough to keep the pain at bay.”
+
+Lea’s voice was soft as she spoke. “But that didn’t last. It couldn’t.”
+
+“No, it couldn’t.”
+
+Rane willed a glass of wine to his hand, offering it to Tala, somehow anticipating her need.
+
+She took it gratefully—Alat helping her manipulate her white steel hand to allow her to take the glass—draining it in one long pull. It wasn’t enough to get her drunk—or even really affect her at all—but it did help her suddenly dry throat.
+
+I don’t want to tell this.
+
+-I know, but she needs to know, and I think it will be good for you to share.-
+
+…Alright. She looked to Rane, and his comforting, sadness-tinged smile helped anchor her to her purpose. She continued before she could argue herself out of it. “I was eleven when it came to a head, all crashing down around us. I was found to be a promising Mage candidate and offered a place at the Academy. Unbeknownst to me, my parents were offered the option of securing the entire debt, including that which was accrued for the healing, against my future career.”
+
+Lea munched almost absently on a cookie, her eyes locked on her mother. “What happened?”
+
+Tala shrugged, the motion putting to lie just how much the events had hurt—had shaped—her. “They accepted, but such obligations couldn’t be put on me without permission. I was asked if I agreed.”
+
+She swallowed again, before Rane refilled her glass with a thought, and she drained it. He kissed her hair again, and tightened his arm around her.
+
+Tala took in a long breath, then let it out, giving a small, sad smile. “I was so shocked by what they’d done that I agreed, and I left for the Academy that same day.”
+
+“Didn’t you want to be a Mage?” Lea’s frown grew as she was obviously a bit confused. “I know there was more to it than that, but wasn’t that what you wanted anyway?”
+
+“Honestly? I hadn’t truly considered it.” Tala gave a sad smile. “What I had considered was alchemy. That is what I wanted at the time. Despite what I’d seen happen with my… with Alan, I had thought I would be an alchemist.”
+
+“Really?” Lea seemed to not know how to respond to the idea.
+
+“Yes.” Tala huffed a self-deprecating laugh before she swallowed again. “Despite everything, back then? I wanted to be like my dad.” She gave a sad smile. “Honestly, I don’t know what I would have chosen in the end, if given a true choice.”
+
+“And the Mages, the Academy just let them put that debt on you?”
+
+Tala shrugged, giving a small smile. “I agreed. They asked to verify I was sure, and I confirmed it. Sure, I was in a bit of shock, but they didn’t hoodwink me into the choice. Even so, Alan and Martha made the choice without me. At that point, what was I going to do? Condemn my family to impoverishment? Yeah, looking back on it, I definitely felt like I hadn’t actually been given a choice. It was take the deal or throw my family into destitution.”
+
+“So… they sold a part of your future to fix his mistakes?” Lea was in obvious shock, but something felt odd about the phrasing.
+
+Rane cocked an eyebrow at their daughter even as Tala gave her a narrow-eyed look. “Is your Momma helping you out?”
+
+Lea glanced away sheepishly.
+
+“-Sorry.-”
+
+Tala sighed, shaking her head. “It’s fine… Yes. That’s how it felt.” She gave a strained smile. “To be fair, Alan and Martha didn’t see it that way, but I did, and I still do in a fashion. Mainly—” she swallowed and gave a sad smile. “Mainly, I wish that they had just talked with me first. That wouldn’t have been that hard, and it would have changed everything.”
+
+Even as she felt an upwelling of frustration and echoes of her anger, it no longer had quite the same sting that it once had. Tala honestly hadn’t thought about this in years, not since Illie’s passing when they were last all together. She still felt the betrayal, the anger, but stating it all together like this made Tala feel a bit… petty. She huddled in on herself just a bit. Still, she didn’t owe her father… Alan anything. Lea frowned. “So… you never want to see him again?”
+
+She sighed, picking up Rane’s hand, giving it a squeeze and setting it aside so she could more easily lean forward, shaking her head. “No, that’s not really true. I am not against seeing him, Lea, but I have no desire to. I am neutral about the whole thing.”
+
+Lea perked up at that. “So… could I meet him? Could I meet them?”
+
+Rane looked to Tala, clearly interested in the response. “I… I don’t know.”
+
+“I might not ever be able to, if we don’t do it soon.” The girl didn’t whine, but it was definitely closer to that than her usual tone was.
+
+Tala frowned. “Oh?”
+
+Alat interjected then. “-I’ve heard it discussed several times. From what I understand, his soul’s state, coupled with the unhealed portions of the results of his addiction have left him in poorer health.-”
+
+Lea frowned, then. “I thought they paid to heal him. Shouldn’t there be no lingering effects?”
+
+Rane grunted, shaking his head, but he still didn’t interject, partially because Alat was already addressing the confusion.
+
+“-They healed the immediate issues. Physical, mental, and emotional were fixed, but he was trying to keep the debt to a minimum. Now, he isn’t willing to spend ‘family money’ on fixing his mistake. All that to say, he’s not dying, but he’s not well.-”
+
+Tala nodded. “There, you see? He’s not dying.”
+
+Rane closed his eyes and took a long, slow breath, his expression carefully neutral.
+
+Lea gave her a flat look, but then sighed, sensing her mom’s discomfort. “But when he is? Dying, I mean?”
+
+Tala hesitated, then hesitantly nodded. “If it’s safe, if we can… Yes.”
+
+Lea hopped up, leaning in to give Tala a kiss on the cheek. “Thank you, Mom.” She hesitated, then hugged her, Rane releasing Tala’s hand so that she could return the embrace. “Thank you for telling me. I’m sorry… for all of it.”
+
+She pulled back and smiled at her mother, and Tala returned the expression. “Thank you, sweet.”
+
+Lea nodded once. “Well… I’ll get back to the celebration now. Thank you, again, for telling me.”
+
+Tala huffed a laugh, and her smile grew, her mental load lightening as her daughter moved off.
+
+-Are you okay?-
+
+She sighed, slowly shaking her head. “I don't know. I still feel how I feel, but it feels… less important now.”
+
+-Are you really going to take her to him?-
+
+“If he’s dying? Yes. I won’t keep her from ever meeting the man.”
+
+-Alright. I hope the opportunity actually manifests.-
+
+Tala grimaced, unsure if she agreed. Still, if Lea wanted to meet the man…
+
+She groaned. “Things were easier when it was just Terry and I.”
+
+Rane gave her an amused glance but wisely continued to keep his thoughts to himself.
+
+-Less interesting, though.-
+
+“Absolutely.” She shook herself before standing and turning to regard Rane. “Thank you.”
+
+He stood and held his arms wide. She fell into them, breathing out a sigh of contentment. “You are most welcome, my love.”
+
+They stood like that for a long moment before moving apart and returning to the celebration. After all, it was not the time for wallowing in thoughts of the past.
+
+That could come later.
+
+Tala had a celebration to finish out. After all, it was her daughter’s fourth birthday.

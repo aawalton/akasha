@@ -1,0 +1,215 @@
+---
+id: 5ee0220f-8c68-5934-9e12-80356bfa4fc2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 551 - It’s Actually Reality Iron"
+slug: 0050-chapter-551-it-s-actually-reality-iron
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 50
+ownLength: 2896
+unit: words
+ownProgress: 2896
+publishedAt: 2025-04-16
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2206463/chapter-551-its-actually-reality-iron"
+royalRoadId: "2206463"
+markedReadAt: "2026-06-29T19:36:54.024Z"
+---
+
+Tala took a deep breath, locking eyes with Eskau Meallain. “Reforging.”
+
+The elf nodded, leaning in slightly, even as she continued her manipulation of the white steel.
+
+“The basic premise, as I understand it, is to remake yourself fully as you choose, with material you already have authority over, so that your physical form, at every level, is completely under your own authority. It seems to be a sort of ultimate statement of autonomy? It at least seems to lean that way, based on what we’ve heard from those who have succeeded. Though it does seem that it is not always so, and likely not truly perfectly.”
+
+Eskau Meallain frowned, seemingly latching onto one specific point. “What do you mean, using material you already have authority over?”
+
+Tala nodded, giving a small smile. “That’s one thing that seems to vary incredibly from person to person. Apparently, some people buy farms, so that all the food they eat will be theirs at every level. Some go further, and grow their food within their soulbound dimensional spaces, thus making it even more ‘theirs’ than simply owning the farm. I’m told that some people Reforge almost instantly, which means that it isn’t required to totally change out one's body. Though, I know of one, personally, who remade himself into pure light, thus Reforging himself in material of his own, magical creation. Since his magic came though his gate, and is his unequivocally...” She shrugged. “I supposed that isn’t the best counter example.”
+
+“That’s… a jumbled mess.”
+
+She huffed a laugh. “You’re not wrong. But tell me then, how do you achieve the same level of advancement? Revered, right?”
+
+The book on arcane advancement that she’d memorized before giving it to Thron had been less than helpful. It likened everything to the sun, or fire, or light, and tried to make her imagine herself as a plant of various kinds…
+
+She hoped that the explanation that she was about to get would be more understandable.
+
+Eskau Meallain nodded. “That’s right. The basic concept is the ability to draw in and retain magic of a certain level, but that would just be arbitrary, if there weren’t a meaning to that level.”
+
+Tala grunted. “I’m listening.”
+
+“First, each threshold purifies the body somewhat. The reason why is pretty obvious. The impurities are a hallmark of Reality, and Magic and Reality are in opposition. Thus, as the concentration of Magic reaches sufficient levels, it squeezes the Reality out of you.”
+
+“So… why in stages? Why not get a little more purification for every bit of extra power that you have?”
+
+“It was explained to me as being like friction. There is a level of ‘force’ required to get it moving, then that same level of force continues to push until the object is out of reach, and therefore, the object stops once more.”
+
+“So, a quicker infusion of power will cause more purification?”
+
+“In some ways, yes, but the best is a slow, steady increase, calibrated and regulated to keep a steady rate for the release of impurities. This might end with a bit less impurity being expunged, but it is easier on the body and results in a more stable advancement.”
+
+Tala blinked a few times at the other woman, then groaned. “That… that makes too much sense…”
+
+The elf chuckled. “Well, now you know.”
+
+Tala frowned then. “But wait, that doesn’t explain the tiering then. If you can expunge impurities even when not switching tiers, or continue to purify and end not at a specific tier, how are they related?”
+
+Eskau Meallain shrugged. “You can think of it, then, as the amount of magic-moving muscle a person’s will has, as that is dependent on magical density, that explains why it degrades as power is used.”
+
+“But why the delineations? What’s special about being barely Revered versus at the top of Honored? Just a little bit of power?”
+
+She shook her head. “Yes and no. That’s sort of like asking ‘what’s the difference between about-to-melt ice and about-to-freeze water? Just a little bit of temperature?’ Sure, that’s true and all, but there is a qualitative hurdle, which results in a quantitative difference.”
+
+“So… power at that density is in a different state?”
+
+“That’s a reasonable way to consider it. It’s actually one thing your Talons will have to overcome. Each density of power responds slightly differently, and trying to pretend they are all the same increases inefficiencies and drastically reduces capability.”
+
+Tala gave her a blank look. “What now?”
+
+The other Eskau sighed. “This is yet another difference between gated and non-gated. You are married to your power as only Sovereigns are among the non-gated. We lesser beings”—she said the last with a mocking tone—“have to first catch the interest of our magic, then draw him in, then woo him, and so on. At each stage of the relationship, we must act differently in order to maintain and improve our interactions. If I went up to a random man and treated him as if we were married, it likely wouldn’t go well.”
+
+“So… in the analogy when you drop down a tier in density…?”
+
+“We’ve begun to drift apart, and I must entice him back.”
+
+Tala huffed a laugh. “And you entice magic… how?”
+
+“It depends on what stage you’re in.” Eskau Meallain winked, then she sobered slightly. “But the analogy breaks down a bit there, as we don’t actually entice. We grab ahold and bend power to our will. It simply requires slightly different techniques to do so to best effect at each advancement. That is likely one of the greatest distinctions between the levels of advancement.”
+
+Tala found herself nodding. “So, how should a Revered handle her power?”
+
+“A Revered’s power should revere her. That’s one of the origins of the name. A Child must beg, wheedle, follow strict rules, and hope that magic does what she wants. One who is Mature can petition power to do as she wishes. An Elder has far greater influence. One who is Honored can be assured of getting their way almost all the time, if they are so crass as to demand such a thing. Revered? Obedience is a matter of course. It isn’t expected, it just happens.” She grinned then. “Hallowed though? To be Hallowed is to have power, itself, strive to meet your desires without you doing anything more than simply having them.”
+
+She sighed. “That’s a wonderful metaphor, and likely a very nice way of conceptualizing the difference, but what does it mean?”
+
+“We have likely landed on one of the primary stumbling blocks for human gateless. It is a nice way of conceptualizing it, because it’s a matter of concepts.” Eskau Meallain grimaced, then sighed. “Maybe a demonstration would be useful. May I have leave to draw in power up to Revered?”
+
+Tala gave her a flat look. “Are you serious?”
+
+“Absolutely. In this space, you could strip me of power in an instant. I’m no threat to you, especially with you right beside me. That won’t be required though. I will relinquish the power after my demonstration.”
+
+She narrowed her eyes at the far older woman. “Very well.”
+
+-I’ll be keeping a close eye as well.-
+
+Thank you.
+
+Eskau Meallain closed her eyes, setting her white steel to the side. “Watch closely.”
+
+Then, in seeming opposition to what she’d implied, she emptied herself of power completely.
+
+“Funnily enough, the emptying of oneself in a power-rich environment is being child-like as well.”
+
+And oddly enough, Tala could see it. The elf’s aura almost felt like it was throwing a tantrum… of sorts. No, it’s more like a child pushing away food it doesn’t want to eat…
+
+In short, it was an odd rejection of a purely good thing. The very power around the woman seemed to tremble in… confusion? More like the water of a small stream rippling when something suddenly dammed it up.
+
+Within a moment, Eskau Meallain was completely empty. “If you would, lower the amount of power that is in the zeme in my immediate area to just below the next threshold. So, now, please make it Child level. Once I cross the line, raise it to Mature, and so on.”
+
+Tala grunted agreement, the zeme around the elf fluctuating at Tala’s will.
+
+“That’s still so incredible, that you have this level of control.”
+
+She smiled but didn’t reply further.
+
+Then, Eskau Meallain’s aura changed. Rather than pushing power out and away, it settled to a rest, simply accepting the power that was trying to come in. It didn’t get her to Child level as Tala had lowered the density, but she did instantly match the offered power.
+
+At that point, her aura shifted again, feeling like it was beckoning, and to Tala’s surprise, Eskau Meallain immediately crossed the threshold to Child, surpassing the power density around herself.
+
+In response, Tala upped the available power to just below Mature.
+
+Eskau Meallain’s aura briefly became simply receptive once again, a sense of gratitude radiating off the woman. Then, as she matched the available power, her aura flexed again. It was no longer an entreaty. Instead, it was now a simple request for something that was her due, and the power moved.
+
+Again, a threshold was effortlessly crossed, and Tala increased the density.
+
+Her aura had become almost stately. As it shifted, as if asking the power to continue, it obeyed even faster than before, and she advanced.
+
+Now, the elf’s aura felt… aloof? No, not aloof, but something similar. It was as if she had an expectation of the power coming to her, and it did, easily taking her density above that in her environment and into Honored.
+
+Next, at the cusp of Revered, Eskau Meallain opened her eyes. “This is the one you were curious about.”
+
+Tala nodded.
+
+“Then watch closely.” Aura reached out, and there was a… thinning of the divide between the aura and the power which was not owned. That was all.
+
+Her density was equal to Tala’s, meaning that they were near the bottom of Honored, or Paragon.
+
+Even so, the response in the surrounding zeme was immediate. It was like the elf had vaguely said ‘I’m hungry,’ and everyone who heard had rushed to find her food.
+
+The power around her snapped inward, briefly leaving a vacuum in the density for nearly a dozen yards in every direction.
+
+Thankfully, the void of power stopped well short of the closest Talon, so no one was negatively affected.
+
+Eskau Meallain’s eyes blazed with the power, and she jerked slightly, her soul seeming to spasm, throwing the still-healing damage in stark relief. Even so, the elf grunted, refocused, and grinned. “This power is primed to obey an Honored. Thus, before a rising Revered? It begs to be tamed.” She took another deep breath and shivered. “I could achieve Sovereignty, here. I know not how, nor how long it would take, and I am sure I am missing components, but here it feels… possible.”
+
+Tala was tense as she regarded the woman. She held the vacuum of power around her, to at least make it more difficult for the elf to draw in more magic, but Tala didn’t oppose her directly, nor try to force the power out. She would give Eskau Meallain a chance to honor her word.
+
+Then, like the breaking of a dam, all that power rushed out once more.
+
+It came out in an odd gradient, the Revered level seeming to break apart as it left the elf, diffusing back down to Honored—Paragon—levels of density.
+
+There was an odd sense of loss, as if the power had somehow felt itself building toward a crescendo that had never come.
+
+Eskau Meallain lessened herself back down to the bottom of Mature, and Tala wordlessly reimposed the restrictions around her.
+
+They both knew that the elf could have more power, Tala was allowing a density of up to the top end of Mature, but Tala now understood why the other Eskau didn’t press hard against the limits. At least, she thought she understood at least a part of it.
+
+Tala had essentially commanded the power within Kit to never ‘Honor’ Eskau Meallain, and for a Mature person to attempt to get treatment even close to an Honored one—when they weren’t to be honored—would be the height of rudeness and arrogance.
+
+Tala frowned, shaking her head. What sort of concept nonsense is this? Magical power on Zeme doesn’t act like a society.
+
+-Unless you believe that it should, or anthropomorphize it as such along true functional appearances.-
+
+She groaned, rubbing her temples and squeezing her eyes shut. Alat was right. Somehow Tala knew that Eskau Meallain would be continually weakening her own aura and potential if she approached too close to the limit that Tala had imposed.
+
+It made no sense, but she somehow still knew it to be true. “So, what now? What does this actually mean for me?”
+
+Eskau Meallain shrugged. “How should I know? I can’t Reforge.”
+
+Tala groaned.
+
+“But if I had to guess…”
+
+She gave the other woman a flat look, and the elf laughed.
+
+“If I had to guess, I would say that you need to Reforge yourself in such a way that Magic Reveres you and your new physical form. Based on the Sovereign’s words, that would likely allow you to impose a… calming influence on the zeme around you, thus safeguarding Reality to some extent, wherever you go.” She gave a self-deprecating, half-smile before she continued. “I know that I generally was able to calm and level power around myself in all but the most extreme circumstances. That is likely one reason why my actions were such a violation. I used my influence to whip up a storm of destruction, rather than to calm and soothe.”
+
+Tala sighed. “Again, you are speaking metaphorically, correct?”
+
+Eskau Meallain smiled. “Yes, metaphorically. I can give another example, too. It is like I earned the trust of a city, and then I used that to start a riot, rather than calling for calm and civility.”
+
+“Your metaphors are getting further afield…” Tala grumped.
+
+“But you understand?”
+
+“I don’t feel like I should, but… yes. Somehow they make sense to me.”
+
+“So, you’re going to Reforge yourself into a Revered Gated, eh? This I’d like to see.”
+
+Tala huffed a laugh. “I’ve got a long way to go, but I believe that I am open to allowing you to observe.”
+
+“Well, then. Let’s start talking about some specifics. What are you remaking yourself out of? Food grown in here? Or, I suppose in your sanctum?”
+
+Tala shook her head. “Oh, I’ve been eating mostly food from my sanctum for years now, but no. That isn’t sufficient for me. I’m going to be Reforging myself out of iron.”
+
+That seemed to catch the elf off guard, and she simply frowned at Tala for a good minute before asking, “Come again?”
+
+“I’m using my iron.” She pulled up a handful of the pure iron dust from where it had been waiting—stoneward of her position—and moved it around above her palm. “This iron is mine at more levels than most humans can claim anything.”
+
+Eskau Meallain’s eye twitched, but she also seemed to be connecting the dots. “The iron dasgannach… you somehow bonded with it? That shouldn’t be possible.” She shook her head. “Eskau Tala, that’s like saying you ate a cloud.”
+
+Tala shrugged. “And yet, here we are.” She frowned, then. “Though, merged is likely a more correct term for what happened.”
+
+Eskau Meallain barked another laugh. “Oh, there are going to be so many questions when a proper accounting comes out in Platoiri. No one brought up your survival in our back-and-forths, because it’s rather rude to ask ‘why aren’t you dead?’ and they assumed you’d be reading the communications.” She gave Tala a flat look, but Tala simply shrugged, prompting the elf to shake her head and continue. “Regardless, there will definitely be an inquiry… The City Lord is going to have to pay a penalty for his collar failing, even if the House of Blood will likely waive most of it in honor of your miraculous survival. We’d thought someone here saved you with techniques we don’t know about… which I suppose could still be the case?” The question was rather explicit, but she asked it anyways, “Is that so?”
+
+Tala hesitated a long moment, before deciding that it would be okay to share a little. “Sort of, but mainly it was a combination of things unique to me. I won’t say more.”
+
+The elf grunted. “Fine, but iron? How are you going to make a body that works with magic out of iron?”
+
+She seemed genuinely curious, so Tala decided to reveal just a little bit more, yet again. “Well, it’s actually Reality Iron.”
+
+The look of utter confusion that crossed the elf’s face was momentarily satisfying.
+
+Tala felt incredibly proud that she knew something the other Eskau didn’t. She was aware of a material that Eskau Meallain wasn’t and—
+
+“How did you get any of that away from a Baba Yaga? Let alone enough to make something the size of a person?”
+
+Tala felt her pride shatter. …Of course… She’s confused how I got it, not what it is… Tala sighed. “Well, we had just left the Lunar Hunt…”

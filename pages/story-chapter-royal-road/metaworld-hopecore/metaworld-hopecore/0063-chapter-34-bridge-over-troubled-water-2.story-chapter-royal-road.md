@@ -1,0 +1,205 @@
+---
+id: 056a8b8e-75b2-508e-a99d-e478240db1c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - Bridge Over Troubled Water (2) "
+slug: 0063-chapter-34-bridge-over-troubled-water-2
+partOf: metaworld-hopecore
+position: 63
+ownLength: 2282
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3380271/chapter-34-bridge-over-troubled-water-2"
+royalRoadId: "3380271"
+---
+
+Tuesday.
+
+The highlight of the week thus far for Eppie was the affirmation of her future plans via Dr Kirby. After a very public warning from their English professor that Eppie’s momentary celebrity status was no excuse for distraction, their deep dive into Act III of Titus Andronicus began.
+
+“Where is Lavinia now? What’s her condition, if I may ask? Madison?”
+
+"Her hands have been cut off," Eppie’s prior rival said. "They also took her tongue."
+
+“Indeed,” Dr Kirby’s voice remained neutral. Eppie gets it. It’s a sensitive topic, especially to a class of mostly young women. "Marcus, her kin and uncle, finds her in the forest.
+
+What stern ungentle hands… have lopped and hewed and made thy body bare of her two branches?
+
+“He asks, then he speaks of the hands she used to possess, not in horror but with beautiful prose.
+
+lily hands, tremble lily aspen leaves upon a lute.
+
+Why? Why this cruel reminder? Eppie?”
+
+“Peripeteia,” Eppie replied effortlessly. “The reversal.”
+
+“Yes,” Kirby ticks her name for the answer. “We are reminded of what had come before, and what befalls her now. All the more pity for Lavinia. As a woman, she has been silenced by masculine violence and patriarchal politics. What remains is the next logical step. How does a silenced woman speak?
+
+Indeed, Eppie asked the same question in her mind. How could we get Mio to speak?
+
+She feels the cogs of her [Script Analysis] turn. Lavinia, the forest, Ovid in her arms, the staff held between her stumps. Mia, the locker room, the recording she may yet have in her possession.
+
+Was this what the [System] wanted her to do?
+
+“Our tragic protagonist arrives too late,” Kirby followed up on the plot. “His way of dealing with everything is, of course, for the worse.”
+
+“I am the sea. He says. His grief is as boundless as the Argentean. Then, he is met by Aaron the Moor, and Aaron deceives him, telling him that if he lopped off one of his hands, his sons, Lavinia’s brothers, would be spared by the Emperor. We don’t believe Aaron; we are sure that Titus does not believe in the words of a knave either, but why does he agree? Thomas?”
+
+“He has nothing left to lose,” Thomas said. “He’s grasping for straws.”
+
+“It’s because he wants to believe,” Madison added. “Surely, there’s enough vengeance by now. Surely, there is a limitation to man-made greviences? Titus was like that. He would have stopped after that, because his duty, his piety, was done.”
+
+“Both are foolishly true,” Kirby shook her head. “A scene later. Aaron returns Titus’ hand with the head of his two sons.”
+
+And this is why we don’t give in to sociopaths. Eppie reminded herself. Lim must instinctively know this, because he was pumping the brakes on William long before Mio.
+
+“This, we call Crisis. Not the English term as you know it, but a moment of decisive rupture, the turning point in which the situation is utterly irreversible. Imagine a hinge, it turns this way and that and now, it is stuck, the angle is set. All trajectories are now locked in.”
+
+Dr Kirby stopped pacing beside her desk. “How does Titus respond to Aaron’s… trolling?”
+
+“He laughs.” Eppie grinned at her teacher’s use of youthful vernacular. Sometime in the future, she might have to say that Aaron had mogged Titus via tragedy-maxxing. Isn’t language a wonderful thing? “Sometimes, that’s all a man can do.”
+
+“He laughs indeed,” Kirby gave her another approving nod. “He laughs because the alternative is stark acceptance rather than stark absurdism. Titus has reached his psychological limit. From here on out, he will have blood.”
+
+Eppie took her notes with perfect handwriting and colour-coded annotations. Somewhere inside the chamber of her virgin thoughts, a plot of vengeance began to gestate.
+
+Thursday. The lesson continues.
+
+Dr Kirby marks down “III.ii” on the board. “Act Three, Scene Two. The intertextual scene.”
+
+Below the play, she writes Philomela.
+
+“Who knows what this is?”
+
+It’s a loaded question. They were made to read the extract on Wednesday.
+
+“Atkinson. Explain.”
+
+"Philomela," their Production Manager said, "is from Ovid's Metamorphoses. She is raped by her sister's husband, Tereus, who then cuts out her tongue so she cannot tell anyone what he has done to her. She finds a way to communicate anyway. She weaves what happened to her into a tapestry. This parallels Lavinia’s state, being handless and tongueless. She takes a copy of Philomela's story and uses it. Her uncle reads it, and he knows what happened."
+
+“Then? Arthur.”
+
+“She uses a staff, and she uses it to write three words. Stuprum. Chiron. Demetrius. It’s a record of those responsible for what happened to her.”
+
+“Well done.” Kirby turned to the next slide. “We call this intertextuality. There’s another phrase here of interest and for homework: Mythological mirroring. It’s a technique we often see in today's movies, in the Hero’s Journey and in the recurring structure of Aristotelian Tragedies. It is also ekphrasis, the expression of one art form to invoke the message of another. The silenced Lavinia weaponises the mythological against her tormentors.”
+
+Kirby pauses for a moment, then her voice fills Eppie’s ear. “Literature prevails where justice fails. This is not unusual in the history of our world. Artistic testimonies have commonly righted wrongful history. The common tragedy of Atticus Mills composed against the House Un-American Committee and the dark age of the Hollywood Ten are all evidence of why theatre, art, and storytelling must remain unfettered and uncensored. What is legal is not always just, and sometimes it takes the public court of men’s hearts to punish evil. It’s not enough, but it’s a good start.”
+
+Eppie made her notes.
+
+Literature prevails where justice fails.
+
+She liked that. She liked that a lot.
+
+Mio. Theatre. Ovid.
+
+Within the recesses of her scheming mind, Frankenstein’s monster stirred in the murk.
+
+The play’s the thing!
+
+She was sure of it now.
+
+With the Gala drifting closer, Costello was no longer running exercises, but scenes. The walk, the spatial vocabulary, and the movement were now poured into the performance. Minute changes were added to the script daily. The Chorus and the technical crew rapidly matured their techniques through practice. Her teachers paid special attention to Eppie, not because of her fame, not because of Burton’s reminder that they cannot afford another bullying incident so close to the school's public opening, but because Eppie was now the hinge of the production. In theatre theory, all were equal, but in real life, altrustic intent bowed to fame, skill and fortune. It was a silk screen, and woe unto the sinner who poked a hole through the backdrop.
+
+Every other night, Eppie rehearsed with Zara, first in “In the Pines”, then “Dream a Little Dream of Me.” The tempo, the key, the resonance, the spontaneous variations, everything was coming together for the special arrangement.
+
+On Friday evening, in the aftermath of her practice with Zara, her phone buzzed, then slid from her duffel.
+
+“One sec,” Eppie gingerly replaced the guitar and went to check her phone. Like Zara, she was barefoot and in her easy tees. As a theatre major, barefoot anything just felt more natural.
+
+The called ID read “Newfoundland.” An endearing title.
+
+“Eric?” She asks the speaker, thinking that perhaps Curon wanted her time for one reason or another. “What’s the news?”
+
+"Hey."
+
+"Yo."
+
+“So,” Eric’s voice sounded a bit serious. “What are you doing for Thanksgiving?”
+
+The question was not at all what she had expected, and for a moment, Eppie had no answers. What did the former Euphemia Fontaine do for Thanksgiving? Did she go to her foundling orphanage? Did she eat alone in the dorms? Did she hang out with Simone’s family?
+
+Eppie had no idea.
+
+“Nothing," she said at last.
+
+“Nothing, as in you haven't decided yet?”
+
+“As in literally nothing,” Eppie confessed. “Maybe I’ll stock up on ramen… There are the cats that need to be fed as well. Not many people are going to be here during the break.”
+
+“Jesus…” her Newfoundland whined. “Eppie…”
+
+“Maybe Josefina is around,” Eppie replied. “You never know…”
+
+The pause on Eric's end was far longer than was comfortable for either of them. Behind her, Zara unslung her guitar and seemed to be listening to their conversation.
+
+“Don’t be sad, Eric,” Eppie felt guilty for making her Canadian sorry, which made Zara guilty. As an American Spaniard, Zara’s extended family could fill both sides of a church. “I am a State Ward. It comes with the territory.”
+
+“Alright,” the Canadian’s reply was stoic, leaving an unnatural silence.
+
+Eppie guessed that Emily probably made an offer, meaning that Eric was going to bring her over for Thanksgiving, which meant meeting Emily’s family and singing a few songs. Eat dinner at their home, in a nice family home somewhere in the suburbs. There would be a fireplace, and turkey, and— "I heard from Lafitte this afternoon."
+
+Eppie paused. “What?”
+
+"She found Mio."
+
+The words kicked like a 16 pound bass. Eppie felt her heart quicken. She looked at Zara with a face full of reassurance before turning back to her phone.
+
+"Where?" Eppie asked.
+
+"Reedley. Forty minutes south-east of Fresno. There's a farming community of Peruvian Japanese families, or so Lafitte said. There’s a Catholic church that serves the agricultural workers in the area. A few month ago, one of the families recently arrived from LA with trouble on their heels. Lafitte found them through the JACL chapter in Fresno.”
+
+"Is this confirmed?”
+
+“Lafitte confirmed with someone called Father Isidore Parson. He was more than happy to put us in contact. There’s one caveat, though.”
+
+“Oh?”
+
+“Miss Luciana Mio wants to meet you first, in person.”
+
+“Oh.” Eppie felt her hands go numb.
+
+“She won't talk to Lafitte," Eric continued. “So I didn’t bother presenting myself. Father Parson said that Mio will talk to Eppie Fontaine. Her friend. And that Mio is very, very sorry.”
+
+“Eppie, is everything alright?” Zara asked behind her. “You look pale.”
+
+“I am alright. Got some unexpected good news,” Eppie thanked her friend. “I’ll be with you in a second.”
+
+Jesus. She tried to imagine meeting Mio. She tried to imagine Eppie dragging a nude, bruised, battered Mio from the showers, blood between her thighs. Dressing her. Pulling her arm over her shoulder. Stumbling from the locker room. Taking Mio back to her dorms. Giving her water. Letting her rest. Helping her home.
+
+Then, Mio just left. Shortly after, Eppie left the world.
+
+There was an ugly watermark near the ceiling. For some reason, she now found it fascination.
+
+“So, Thanksgiving?”
+
+“Thanksgiving,” Eric said. “Father Parson invited us. Just you. Lafitte and I will be on standby in town. No Lim, Lafitte says we’ll keep him in the loop, but it's your call.”
+
+“Right,” Eppie concurred. As much as they trusted Lim, there was no harm in taking precautions. She was a far more trusting soul in her second life, but it wasn’t because of naivety or good nature; it was because of the [Causality] notifications. “I’ll tell Lim, but he can stay out of it until we need him. Is Fresno far?”
+
+“Very far,” Eric replied. “We’ll need to stay in a motel, if that’s alright with you. It's a five-hour drive out, longer on Thanksgiving. Pending on how things go, we might need to stay longer.”
+
+“Book me a room, I’ll pay with my card,” Eppie concurred.
+
+“Lafitte will take care of it,” Eric said. “Another thing. You’re emancipated, but I would still like to inform someone, maybe Principal Burton? This isn’t a Sony outing, it’s just us.”
+
+Eppie groaned. It was only when things mattered that the fact of her underage body became an issue.
+
+“Eppie?” Zara ducked into her field of view. “Sorry for being nosy, er… did you say you need to get to Fresno?”
+
+“For Thanksgiving,” Eppie wondered if she could at all tell Zara about Mio. She would rather not, however. If things went south, Zara should never be involved with William and Valorie. “There’s someone I have to meet in Reedley.”
+
+“I have family there, in Fresno,” Zara’s face was fresh and hopeful. “I could duck down to visit them for Thanksgiving. You know, my uncle has been asking me very persistently about where our songs come from. He runs one of the historical hotels down there. We have a room saved for family. We can stay together!”
+
+“Your people celebrate Thanksgiving?” Eppie regarded her guitar partner, wondering if she was overextending herself.
+
+“We’re Basque Catholics, so we do shared meals, get-togethers, soup kitchens, feed the community, that kind of thing. There’s music, of course. My God, there’s music.”
+
+“Huh…” Eppie considered it, then spoke into the phone. “Eric, I can hitch a ride with Zara, apparently. She’s the Senior I am doing the songs for. You’ll probably need to meet her in a month for the contracts anyway. What do you think?”
+
+“If it takes you off my hands…” Eric said seriously. Eppie guessed he really didn’t want to spend the night with her, even if it was in different rooms. “I’ll come find you in Fresno. Just text me the details.”
+
+“Zara,” Eppie lowered her voice so she’s a bit more serious. “You’re sure about this? I really need to meet this person.”
+
+“Mi casa es tu casa,” her friend replied with an old Spanish proverb. “The family is dying to meet you.”
+
+“Alright then.” Eppie allowed herself the liberty of giving her music partner a hug, noting that she only reached Zara’s shoulders. “My life is in your hands, my dear Miss Arriaga.”

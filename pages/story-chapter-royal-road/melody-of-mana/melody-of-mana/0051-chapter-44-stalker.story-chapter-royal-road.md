@@ -1,0 +1,131 @@
+---
+id: 8ea74c46-cf8b-554a-90dd-8578667f87b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 Stalker"
+slug: 0051-chapter-44-stalker
+partOf: melody-of-mana
+position: 51
+ownLength: 1996
+unit: words
+ownProgress: 1996
+publishedAt: 2021-09-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/750351/chapter-44-stalker"
+royalRoadId: "750351"
+markedReadAt: "2026-06-29T22:27:57.442Z"
+---
+
+As Summer slammed into us Dras and I were surprised by a visitor who joined us in the tavern one night.
+
+"Good evening bookworms," Charles said as he flopped down beside us.
+
+It took me a few moments to realize who it was. His skin had started to take on a bit of color and his whole body had filled out. He was still pale and had huge eyes, but no longer looked like a cave dwelling lost kid.
+
+"Hey Charles, long time no see." Dras looked up from where he was working, giving our friend a light punch on the shoulder.
+
+"There somewhere we can talk? Ya know, without people overhearing us."
+
+Dras blinked a bit and I put up my sound barrier, before turning back to the young man. For now he was certainly a man, lean muscle all over his wiry frame.
+
+"Okay, that's a neat one. Love to be able to do that on command. Anyway, we've got a problem."
+
+"Um... okay? What kind of a problem?" Dras asked before I had a chance.
+
+"You two are being followed."
+
+"How do you know?" It was my turn to speak up this round.
+
+"Because I've been following you every now and then."
+
+"So... you're here to tell us that you've been following us?"
+
+"Yes, and no. I've been following you as part of my training, and not for very long at a time. The issue is that somebody else has been following you."
+
+I narrowed my eyes. "I'm so very glad that you've been stalking us. Who is our other stalker?" I felt like I needed to put in just a bit of sarcasm there.
+
+"I don't know, haven't gotten a look at his face. He's also significantly harder to follow than you two."
+
+"We should tell Lucien." Dras pointed out.
+
+"He knows, or will shortly. My teacher is going to go over it with him. She wants us to handle it if we can though, think of it as a test she said."
+
+"We could probably take them, but what if it's a noble or you know..."
+
+"Fringe of the law... if you catch them they'll be in trouble. If you'd caught me and been mad I would have been. The two of you are a bit oblivious though, just so that you know. So if we catch them, there'll be no big issue. Assuming they're not from... you know."
+
+It went without saying that if we attacked someone the royal palace had sent to spy on us it would be trouble. I couldn't think of a reason for them to do that though, or to send someone who Charles could catch.
+
+"What are your opinions?" I was fully at a loss of what to do here.
+
+"Catch and stomp them." Dras was direct, if nothing else.
+
+"Capture, then see where it goes." Charles was only slightly less so.
+
+"Are we sure we can? Do we know if this person is stronger than us?"
+
+"Should be possible. Teacher looked in on them a few times, and seemed only mildly concerned. She's a friend of Lucien, so if she thought they were a serious threat, she probably wouldn't have told me to handle it."
+
+"I would like to ask Lucien his opinion before we do anything. Let's come up with a plan to take them down though."
+
+We spent the rest of the night going over ideas and things we might be able to pull off. The boys knew the city much better than I and so having them pick out places for an ambush was a lot better than asking me.
+
+The next morning I went to ask the most trustworthy adult caster I knew. Well, at least the one who was in the capital. It was really telling how screwed up it was that that was an aging bard who had, for all tellings been an absolute womanizer in his youth. Though maybe his hard won experience would be useful here, and he'd certainly calmed as he'd aged.
+
+"So, I'm guessing you already know what's going on?"
+
+"Yup."
+
+"Do you know who it is?"
+
+"Not exactly, but I've got a pretty good idea."
+
+"Are you going to do anything?"
+
+"I think letting you kids handle it will work out best."
+
+"Any advice?"
+
+"Don't aim to kill, capture only."
+
+"Wow, thanks for all the help."
+
+"Cut the sass. If I thought it was any real issue I'd do something, most likely let the city guard know. As it stands though I think you can handle this on your own, and the three of you need experience that will only come from field work. So take care of this, or don't, the results will be educational for you whatever you do."
+
+The boys and I took several days to get a real thorough idea of how exactly our stalker was following us. Habits, how far behind, where they'd be if we went down an alley, things like that. It was exhausting to go and walk around the city every day for no real reason, but needed. I suspected that if our little friend was a pro they'd have figured out that they'd been made, but it didn't appear so.
+
+Charles for his part stalked the stalker, flitting between buildings and roofs like a shadow. Even knowing he was there I didn't see him, not unless he wanted me to at least. His teacher, and I hadn't been given a name, had certainly taught him well. I wondered what else he was learning, then decided not to ask. There were only so many reasons to learn a skill set of stalking and hiding. Of course I wasn't really one to speak on that account.
+
+We met at night after our daily work to go over what we had and to plan. This part was fairly simple, we all knew about what we could do. The question was what could the stalker do. In a few brief glimpses I'd stolen I'd confirmed that our follower had an aura, though not strong. I suspected that they were suppressing it to avoid attention, but perhaps I was being paranoid. The reason for that suspicion was that it flicked in and out, also making it hard to get a good feel for it.
+
+All auras I'd come across so far had a unique feel or taste to them. Often something about the person who had one was reflected into their aura, sometimes not, but it was always very unique. The weaker it was though, the harder it was to get a feel for it. For particularly weak ones, like the girl I'd seen at a noble's house so long ago in Istlan it took a lot of time and close inspection to work it out though.
+
+When the day to strike rolled around it was perfect. I had the day off, our stalker had shown up early, and a thick fog had rolled in with the early morning, Dras had even showed up for an all day magic/study session. Charles insisted that we leave early, to make the most of the fortunate weather, something I agreed with fervently.
+
+Ten minutes in we made it to the agreed upon point. Dras and I turned into the alley and saw a green bottle laying against one of the side walls. It was a cheap piece of pottery and our sign that as of a couple of minutes ago that our tail was still in place, something Charles had suggested. I made a mental note of that being a really good one as we passed.
+
+I moved behind a bin, humming out two spells in quick succession. The first was my invisibility, the best I could do for remaining unseen, along with pushing down my own aura. After that I sent something that looked rather like a shadow version of myself walking along with Dras. It wouldn't fool anyone who got even relatively close, but the fog helped a lot, and our tail was keeping well back.
+
+If something failed here it would be the illusion. It bobbed as if walking, but the colors were all wrong, it didn't move quite right either. Again, the fog was a great help, as was the fact that many people just see what they want to see. I hoped that it would work long enough that our pursuer didn't realize it didn't have an aura.
+
+Dras and the shadow Alana walked to the end of the alley and into a door that stood there. It was one of the lesser known and used entrances to the Undercity, not that they were actually going in.
+
+I heard the quick footsteps as someone marched down the alley, a fast *tap, tap, tap* of shoes on stone. As she passed, and I was now sure it was a she I could hear the muttering. Her dark cloak with hood pulled up not managing to hide the distinctly feminine voice.
+
+"Of all the stupid... Where are they even going? Isn't that building a store? Basement? Don't tell me they're going into..."
+
+At this point she was far enough past the bin I'd pressed myself behind that I could get a clear shot at her back. It was oddly enjoyable to smash her with the scream I let loose. I hadn't had much a chance to really let go in awhile and I was absolutely going to take it, I'd even brought out my old mace.
+
+The scream was the sign for go and Charles dropped down from above, running forward with a net to try and bind the woman up. Dras almost literally exploded out of the door he'd just gone in, water swirling around one hand. He'd chosen it because it was far easier to keep it non-lethal than fire or ice.
+
+The woman was a far quicker to recover than I'd have anticipated. Before Charles could get to her she'd already come up to one knee and loosed a spell of some kind at him, strong enough to drop him to the ground, curling in pain. It was about that time that Dras' water cannon hit her and threw her across the stones, sprawled out in a quite undignified way.
+
+She sent something headed his way, which he dodged, and I saw red. As she got to her feet again I sung the wet ground below her into ice, one of Jackson's tricks. She stumbled and slid a bit but kept her feet as I closed in with the mace. A powerful swing at her thigh, enough to drop her to the ground, and keep her there.
+
+A swing and a miss, truly my lack of practice with that was coming back to bite me. She yelped at the attack and pushed herself against the wall as a brace. Her eyes flicked to me and another spell flew forth, catching me square in the stomach.
+
+My whole body went numb, like someone had given me novocaine just everywhere. Like a puppet with my strings cut I fell to the ground, unable to move as the muscles just wouldn't respond. It didn't hurt, but was quite disconcerting. Moreover, it was clear what we were up against now, not that I could do anything about it.
+
+Dras' roar of rage as he saw me fall could have shaken the buildings. I wanted to tell him not to do anything stupid, to keep his head, to keep to the plan, to not kill the priestess. Unfortunately I couldn't feel much of anything, or move at all.
+
+A powerful jet of water whipped over me, catching the woman again. A few drops splashed on me and even I could feel that it was ice cold. Though the little bits of slush coming off of it were strong confirmation. In moments the girl was down, unable to move from her quickly onsetting hypothermia.
+
+Marching towards her was an enraged young wizard.

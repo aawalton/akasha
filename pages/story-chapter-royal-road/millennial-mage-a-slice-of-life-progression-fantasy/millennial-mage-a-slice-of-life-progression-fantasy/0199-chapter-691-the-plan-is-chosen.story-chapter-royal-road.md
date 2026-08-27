@@ -1,0 +1,249 @@
+---
+id: c2daa5de-75dc-5b0e-bc63-58173e11dc4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 691 - The Plan Is Chosen"
+slug: 0199-chapter-691-the-plan-is-chosen
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 199
+ownLength: 3841
+unit: words
+ownProgress: 3841
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3247339/chapter-691-the-plan-is-chosen"
+royalRoadId: "3247339"
+markedReadAt: "2026-06-29T19:41:26.341Z"
+---
+
+Tala flickered through the gates of the Revered City Lord’s estate, using the temporarily granted authority from that man to allow her to use the dimensional magic within the city.
+
+She’d often done the same with Rane or Terry establishing the foothold for her—even if she usually used her own aura or authority for such—but it felt… odd utilizing the sway of someone she didn’t particularly like. She no longer felt true animosity for him, as much as a large part of her wanted to, but she doubted she’d ever feel positively toward him.
+
+Still, she wouldn’t turn down the tool as the man opened his power and authority to bolster all those within his city toward their own protection and its defense.
+
+Within the estate, Tala didn’t have to go all the way to the central buildings as there was a gathering of upper level Eskau and Pillars already clustering just inside the gates at the prearranged meeting point, obeying the instructions while remaining closer to the exit.
+
+No one wanted to be here with enemies so close at hand, but they all understood the need for this final coordination, those who had already sworn to follow Tala and the House of Blood in this event, and those who had tried to pretend this wasn’t coming.
+
+They all knew that they couldn’t face the Black Legion as individuals or even individual Houses. They needed to face this enemy with a cohesive plan. Tala, the Eskau of War openly dedicated to this exact fight, was the obvious source of that plan, and she’d made no secret of working with the head of this city to make preparations.
+
+His own endorsement within the call to gather made the necessity all the more clear.
+
+Her presence was immediately noted, and all those from allied Houses, guilds, or other organizations bowed deeply. This was her moment, her purpose, the foundation of the authority they’d granted her by submitting to the Eskau of War. They knew what was to come, most of them had even been a part of making the plans that Tala was most likely to lean on, and they were confident in her leadership.
+
+The others present bowed as well, if not quite as deeply. They weren’t fools, and many were likely regretting their own Houses’ lack of submission to the House of Blood, and the collective preparations for this very day—even if it had come sooner than ideal.
+
+There were beast-kin and hue-folk, dwarves and elves, there was even one gnome. She was, of course, the only human.
+
+Eskau Pallaun was there from the House of Blood alongside an Eskau and Pillar pair from the House of Iron.
+
+There were others from the House of Stone, the Upswelling Tide, the Unbending Oak, and so many more.
+
+Near to two hundred Eskau, Pillars, and other elites had gathered or would soon be there to unify their plan of action.
+
+Tala gave a firm nod of respect in turn, intentionally not distinguishing between the groups. She held sway over all of them now. They knew it, and she wouldn’t do anything to undermine that.
+
+Time was precious, and she wasn’t going to leave any of this to chance. This was near enough to one of many possibilities that had been considered, and as such she had a ready plan of action, but before she got to that, she needed to ensure that her place—her leadership and authority—was unquestioned. “We will be assaulted again in short order.”
+
+Her words pulled everyone’s full focus to her—including that of those few that were still arriving. Her perception was thrown wide, her aura unmasked and in full effect. Still, she’d learned much about authority and allowance over the last years.
+
+For gated humanity, a full powered aura was one of outflowing magic which could be harmful—if not lethal—to those weaker than the source. The gateless on the other hand had their auras manifest differently, even if they could use up power to get a similar effect.
+
+Arcane auras were far more give and take, a suffusion outward of claimed power which would cycle back. Tala had been doing that for years without really thinking about it or realizing such. It was one reason why she could display her aura, who she was, without harming those around her, despite being more advanced than almost everyone below Sovereign on the continent.
+
+Rane couldn’t do the same, not fully, and through that, they’d realized the likely reason. Other Archons could get a similar effect by lessening their aura, weakening it to not harm those within, or otherwise actively sheltering or exempting those within, but that was a difficulty and a complexity that weakened the result.
+
+Tala—and to a lesser extent Rane—had at least the touch of reality both to their soul and their magic. That let them retain control over their power as it stretched outward, to retain authority over it as the arcanes did as they cycled their power out and back.
+
+Regardless, it was through this widespread authority and aura that Tala pulled on the threads of reality, laying claim to what was hers by right.
+
+She was the Eskau of War, her opponent was the Black Legion, and that war had come.
+
+No one should be surprised that her authority had an all but unshakable foundation within a city under assault by that prime enemy. She even felt tugs from other threads which had her concerned about other arcane cities, but she couldn’t deal with them just yet.
+
+Unfortunately, her authority, while expansive and powerful, was not of the type that would let her toss the Black Legion away. Nor could she wield it to crush them outright.
+
+She had the authority to unify, to prepare, to fight.
+
+And fight she would.
+
+“They are not land locked, whether they can attack from the sky or through other means we don’t yet know, but we should assume that they can appear anywhere within our city and slip away as needed.”
+
+Suddenly, the Revered City Lord was beside her, resplendent not in armor or fancy clothing, but in the manifestation of his power, his authority somehow all but visible around him. “Reverence to the Eskau of War. We are uplifted by your leadership in this clash.” Tala felt the weight of the city’s authority mesh with her own more fully, suborning itself to her and bolstering hers, even if she couldn’t use it directly. “I believe that I can hamper their freedom of movement. When they came, it felt like it was through the Doman-Imithe, stepping directly into Zeme from there. I have sealed that method of access. There are already defenses which will hamper their use of the dimensions of magic, but I cannot promise that those will be perfect. Otherwise, consider them locked to the physical.”
+
+Tala frowned briefly, reaching out to feel the man’s authority, looking for how he was locking down the Doman-Imithe. When they’d been strategizing, he hadn’t been sure that his interference would be enough, if it came down to it, but apparently, he’d tested his methods now and come away with utter confidence.
+
+Her eyes widened fractionally as she noticed exactly what he’d done. Every reality node within the city was drawn tightly together, leaning heavily on the fact that it was a part of the city, and was viewed as such. The pressure inward, the emphasized, unified identity effectively sealed the usual cracks—slivers of void—through which one could access the backside of reality, the Doman-Imithe.
+
+Effectively, he’d forced anyone who wished to either enter or exit the Doman-Imithe to do so on the outside of this unified whole, outside the city. She couldn’t see any flaw in the working, but one thing was still critical. So, she asked, “How long can you maintain that defense?”
+
+The man had clearly expected the question, as he answered instantly. “Two weeks, if required, but if the assault lasts that long, we will have many more problems.”
+
+She nodded. “Agreed.” She turned back to the gathered elites. “The Revered City Lord knows this city best, and so he will assign each of your patrol locations. I will cover the center of the city myself, including the District of Doors. I welcome any House resources that wish to join me in that effort, but my husband and troops will be taking the fight to the enemy.”
+
+That got mutters of surprise. Those who had planned with her knew that such was one of the plans discussed, but they likely hadn’t expected her to take that aggressive of a tactic from the get-go.
+
+This particular plan was not only to mitigate damage to the city as much as possible while driving the Black Legion away, it would demonstrate and proclaim the value that gated humanity brought to this fight for all to witness.
+
+Tala smiled, willing to clarify. “They attacked the city, showing that they want something here. Moreover, their numbers are much less than we expected, unless they purposely executed a lesser first strike, which would hardly make sense. With their target seemingly within the city—and their concentrations indicating it is at least near the city center—I am the best able to deny them their goal if any of their officers breach the defenses. You and yours will protect the borders, and Rane, Paragon of Gated Humanity, will be a spear to drive them away. He will show them that they are not invulnerable; their return to form is not assured. When they have been driven off, we will regroup and pursue. They have finally shown themselves, and we will not let them slip away and plan another strike. This is our moment for a decisive denial. They will not claim Platoiri while I draw breath.”
+
+The gathered arcanes let out a single, unified shout of approval before the Revered City Lord stepped forward to divvy up the outer districts of the city. Before he did so, he added one final bit of information. “When the forbidding fades or I remove it, I won’t be able to enact it again for at least an hour, more likely closer to four. Do not count on that as rescue if you don’t defend your positions properly.”
+
+He glanced Tala’s way, and they shared a nod of understanding. He would handle the distribution of forces from here.
+
+With that done, and a plan selected and beginning to be enacted, Tala spun on her heels and headed toward the District of Doors.
+
+They likely had less than half an hour before the assault would be renewed.
+
+The element of surprise had been spent by the enemy, and the arcane preparations would come into play soon. Rust, the preparations had already shown their worth as Tala barely had to indicate which plan of action they were to follow, and others did so. There was no bickering, no jockeying for position. It was as clean an enactment as she could possibly have hoped for.
+
+These elites had already determined to follow, and so they did.
+
+Tala just hoped the plans and preparations which had matured would be enough even without those that were yet to be completed. She also spared a moment to hope that if any other cities were under assault that the City Lords and Houses had been ready and were acting appropriately.
+
+Platoiri first, then we can worry about the rest of the continent.
+
+Less than five minutes later, she was at the House of Blood’s hold, having used her sanctum to effectively skim across large distances more quickly than even jumping would have moved her.
+
+The city streets were already eerily empty, with the few people moving around clearly hurrying toward safety of one kind or another.
+
+The columns with safe-house locations had already disappeared, retracting back into the ground and going blank, denying any invader that information.
+
+Well thought and executed, Alat.
+
+-Thank you. Though, I can’t take credit for the execution. The Adjuncts of the Revered City Lord are rather good at their jobs.-
+
+True enough. The idea had been simple enough, given they had done something similar within Irondale.
+
+The basis of it was, of course, authority. In a crisis, the people of Platoiri were more focused on their City Lord than ever, counting on him—even depending on him—to keep them safe and defend the city on their behalf. That amplified his authority and what he could do during such times.
+
+Now, it wouldn’t allow him to physically alter the world—he was no Hallowed—but it did give him greater access to magical matrices that had been created beforehand, thus bypassing the need for prohibitively expensive means of interconnection and remote activation.
+
+Funnily enough, the barring or removal of a soul or a spirit was not considered affecting the physical world, because the body simply went or stayed with the banished or forbidden entity, but that was a peculiarity of how authority worked, and not truly germane to the matter at hand.
+
+Moreover, this was to do with the city, and Tala was not responsible for the average citizen, as much as she hoped they would be safe. Her task was the fight, and in order to turn her full mind to that task, she needed to know that those she was responsible for were safe.
+
+The last of the citizens of Ironhold that had been out and about were just finishing passing through that gateway when she arrived, and Rane and Lea waited just outside the House of Blood’s hold.
+
+Tala and Alat had long since apprised everyone within their expanded spaces of what had arrived, and all those of consequence and leadership were already watching the goings on around Tala and the other Sappherouses, even as the majority of the fighters were gearing up and preparing.
+
+“Rane, love, you will take Ironhold—including most of the Talons and the contingent of House of Iron forces living within—along with Terry. You will find and harass the Black Legion outside the city. Your goal is to drive them away, not destroy them to the last, unless you have an unusual opportunity. Let them see you permanently end at least one of their number. Let them see the cost of facing you.”
+
+His eyes firmed, instantly understanding both the import of such a task and the immense trust and faith she was placing in him. He knew which plan she had selected now, and while he would have preferred to be at her side, he knew the importance of his task. He stepped forward and kissed her forehead. “I will see it done. They will learn that gated humanity is not as they remember.” He then glanced toward Lea. “And Lea? This plan didn’t specify.”
+
+Tala smiled. “I will keep her with me along with a contingent of Talons in the sanctum. Both will be linked to her for this clash.”
+
+Lea nodded. “I remember, Captain Ron will be along to advise and assist. I won’t ignore him if you and I get separated.”
+
+Within the sanctum, Captain Ron gave a nod of agreement as well, speaking for Tala’s ears, knowing that Alat or Enar would convey it to Lea. “We are ready to serve, Matriarch.”
+
+Tala gave a tight, understanding smile. The introduction of the House of Iron into Irondale had long solidified that as her most common moniker. She was mostly used to it by this point. “Then that’s it.”
+
+Irondale’s gateway closed, the expanded space moving to Rane’s will as he took a deep steadying breath.
+
+Terry flickered to his shoulder, serious eyes locked on Tala, his choice of battlefield clear.
+
+Tala smiled. “We’ll keep our flock safe.”
+
+Terry gave an affirmative squawk.
+
+She then stepped forward, going up on her tiptoes to kiss her husband, even as he bent down to meet her.
+
+It was a quick kiss, but one filled with meaning. His eyes were burning with determination as he spoke. “No mercy. You have my trust, love. See you soon.”
+
+She quirked a smile. “That’s what I was going to say."
+
+They exchanged another quick kiss and went their separate ways. From the tilt of his head, Rane was listening to Enar, the alternate interface likely feeding him information on where he could find and engage the bulk of the Black Legion.
+
+Tala likewise was already moving, Lea jogging to keep up with her mother. “Where to?”
+
+“The central square. We’ll take to the air and provide overwatch across the center of the city.”
+
+Lea nodded. “Alone?”
+
+Tala shook her head. “Alat’s already gotten manifests for several divisions worth of House guards from our allies. They’ll be able to engage the foot soldiers of the Legion.”
+
+Lea’s face turned serious. “But that still leaves only you for the officers, if any come.”
+
+Tala grinned. “I’ve got you and the Talons to back me up.”
+
+Lea huffed a laugh. “I’ll do my best, but I doubt I can do more than delay them.”
+
+“That’ll be enough.” Tala hesitated, even as she kept moving.
+
+Thankfully, Lea filled in the next part on her own. “I will retreat to the sanctum if I’m in real danger. This isn’t worth my life.”
+
+Tala smiled, detecting the hesitancy in her daughter. “You are right, it isn’t. Thank you.”
+
+It took less than another five minutes to reach the central square.
+
+Tala ignored the central column, instead leaping high into the air and manipulating the surface area of her feet—along with her personal gravity—to affix herself in the sky. Her perception, aura, and authority blanketed the city while remaining most concentrated around the center.
+
+Beside her, Lea hovered, small flickers of magic keeping her from dropping out of the sky.
+
+Below them both, House forces gathered, and Tala used her authority to create her voice beside each group—sharing the mental load with Alat as she effectively held two dozen conversations at once—sending them in relatively strong groups throughout the area as quick response troops.
+
+The final part of her pre-arranged plan came in the form of one of her flying constructs, pulled from her sanctum and allowed to hover at her side, its small ‘holding area’ filled with her iron.
+
+Now, even as she moved, Alat would have an anchor from which to maintain overwatch even if Tala had to go and engage a threat personally.
+
+The Houses were settled into their assigned districts, and all was prepared.
+
+The stage was set, and they were as ready as they could be.
+
+As such, Tala wasn’t surprised when she felt the straining forbidding—backed and sustained by the Revered City Lord’s authority over all Platoiri—relax and be withdrawn, the man obviously deciding that it was wiser to husband his resources and not push his authority to the breaking point than to hold the Black Legion away for the absolute maximum amount of time.
+
+To the north-east, Rane had reached the edge of the city, and there, the gathered Black Legionnaires were already charging forward, having sensed reality moving in their favor once more.
+
+The opening skirmish had been messy, and Tala knew that many arcanes had likely died, but the civilians were tucked away, now.
+
+This would be a far simpler clash of warriors.
+
+Her gaze sharpened as a good half of the legionnaires Rane was closing with dropped stoneward in their charge, groups heading to various parts of the city.
+
+Magics throughout Platoiri flared to life, knocking the attackers back toward the superficial, but the action had allowed them to penetrate deeper than ideal.
+
+Still, the incoming forces drew her focus outward, and she noticed that while Rane was indeed moving to engage with the largest grouped contingent by a good margin, there were squads—and even some groups of as many as two dozen automata—completely surrounding the city, now all moving inward in a coordinated assault.
+
+Tala frowned in confusion.
+
+This strategy made no sense. It was almost as if the Black Legion wanted their units to be overwhelmed in detail, slowly whittled down by the larger number of arcanes.
+
+None of the groups already forced to return to the superficial were weak, and they met the Pillars, Eskau, and guards with power and precise violence, but nowhere that Tala could see were they outright winning their clashes.
+
+Some of the groups even broke into smaller contingents, despite leaving behind some automata in situations where they looked to soon be overwhelmed.
+
+They were always pressing inward.
+
+Still, the fact that the arcanes were claiming victory might have been because the majority had been trained by Tala, Lea, and the House of Blood over the previous years, making them more effective than the automata could have possibly predicted. Maybe, the Black Legion had expected to be able to simply roll over any resistance, but that didn’t feel right.
+
+They were missing something. Tala was missing something, and it was her responsibility to direct this clash. She needed to understand.
+
+As the opening seconds rolled by, and a minute of combat hadn’t shown a single legionnaire retreat, Tala became utterly certain. They had misjudged the goals of the Legion, and they desperately needed to figure out how so.
+
+She had noticed more than twenty legionnaries fall, odd magics wrapping around their enslaved soul-powercores and shooting off toward the north before vanishing into the Doman-Imithe through the cracks in reality once they were beyond the Revered City Lord’s defensive working.
+
+The Black Legion were losing.
+
+True, they were taking lives in turn, and Tala’s forces wouldn’t come back, but the scales were so unbalanced as to almost be comical.
+
+As she frantically swept her focus across the city, her perception delving deeper and deeper, leaving no stone unturned even within the myriad holds, Tala’s focus was drawn outward once more.
+
+In fact, the whole city seemed to pause, all fighting hitting a hitch as a wave of woven—if weak—void and reality buzzed through the superficial for tens of miles in every direction.
+
+Lea laughed from beside her mother, and Tala felt a grin pull at her features, momentary relief passing through her.
+
+It had worked.
+
+She’d had no reason to doubt, but it was untested.
+
+In the middle of a frantic battlefield of Talons facing off against Black Legion, Rane stood, holding the head of a midnight black automata in one hand, easily palming the construct as he held it off the ground.
+
+It was his power, his aura, his authority that had radiated outward, and the soul that had been trapped—enslaved to the Black Legion’s cause and banner for uncounted years—had been seized and almost forcibly allowed to pass on.
+
+The Legion had taken its first permanent loss of the war, the first of many.
+
+The brief moment of shock passed, and combat renewed in ernest.
+
+The Black Legion didn’t retreat, and Tala was more certain than ever that they had deeper goals, goals that she needed to determine and block.
+
+The tide was turning in their favor, but she was more sure than ever: Time was not on their side.

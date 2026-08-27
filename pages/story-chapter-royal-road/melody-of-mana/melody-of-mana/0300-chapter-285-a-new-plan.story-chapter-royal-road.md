@@ -1,0 +1,113 @@
+---
+id: e2e4e604-53e6-532c-b468-df50a2af6d4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 285 A New Plan"
+slug: 0300-chapter-285-a-new-plan
+partOf: melody-of-mana
+position: 300
+ownLength: 1560
+unit: words
+ownProgress: 1560
+publishedAt: 2023-11-18
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1413587/chapter-285-a-new-plan"
+royalRoadId: "1413587"
+markedReadAt: "2026-06-29T22:36:11.080Z"
+---
+
+Crown Prince Omos
+
+The sun dawned on a new day, which would have been magnificently fresh if not for the small rock hut full of refugees I found myself crawling out of. I was tired, physically, mentally, and magically, and quite ready to get home. That of course wouldn't be nearly as easy as I'd hoped.
+
+Our portal was gone, and that was not a small issue. Without it the only way home would be by ship, a long, arduous, and often dangerous journey. That was if we could even find a ship with the current state of things.
+
+Atal was a mess, and while a quick look towards the sea confirmed the city was still standing, I could also see flames here and there. That wasn't even mentioning the countryside, which the rising sun revealed to be wrecked beyond compare. Other than a few small hills like ours there was bare dirt everywhere, strewn with wreckage all over as well.
+
+Lena soon emerged beside me, hair a mess and looking roughly like I felt. “How are things?” she asked.
+
+By way of answer I just motioned. There wasn't much for me to add, and I was sure that things were in fact far, far worse than I could guess.
+
+“Think we should head back to the academy or no? Honestly that place is bound to be in panic with all the destruction,” I asked, for once unsure of my course.
+
+“Too bad we can't get a look at things,” she said with a frown.
+
+“Actually, we can.” I took a moment to reach out and begin shifting the world, using the air like a magnifying glass. For a few seconds there was a bit of a blur, but soon enough the world came into clear resolution, giving a view of the city.
+
+“Neat trick,” the priestess commented.
+
+“My aunt showed it to me, said it helped her a few times,” I answered.
+
+“Well, see if you can figure anything out. One of the people who joined us last night had some fruit, so I'm going to go plant these. I like pasta, but only so much.” she said, holding up some seeds, priests really could do a lot with those.
+
+She moved away a bit from the door, not out of sight or sound, but enough to give everyone some room. While she did so I began to scan the city, looking for the monster from the night before.
+
+It was good to report that the large, still carapace covered legs pointing to the sky showed that the defenders of Atal had won their battle. Though a quick look revealed that at some point the crab or whatever it was had in fact breached their wards. Several buildings were torn up, with pieces missing here and there. There was also something odd, but I couldn't quite put my finger on it.
+
+As I was playing with the magnification, trying to get a better look, I heard another joining me from the shelter.
+
+“Oi Omos,” I heard Rodrick say sleepily. “Not spying on the girl's dorms again are you?” he added with a chiding laugh.
+
+I turned to tell him off, only to see the displeased gaze of Lena in the background, eyes narrowed as she judged me. It was more than a bit shameful, but true that in my younger and more curious days I may, or may not, have engaged in just the slightest bit of peeping. That of course had come to an abrupt end when none other than my cousin had stumbled in on me in a rather compromising situation. Though after a bit of ribbing and blackmail he'd agreed to keep quiet about all of it.
+
+“Shut up Rodrick,” I said through gritted teeth.
+
+He must have sensed something and turned, seeing Lena behind him.
+
+“Haha, just an old joke...” he began to try to explain.
+
+“Shut up Rodrick,” she replied.
+
+The other girls soon joined us as I kept trying to get a good image. Under ideal conditions that wouldn't be a big problem, but between the still growing sunlight and the distance it was taking time. Soon enough I had slightly better resolution, and I could see something odd going on.
+
+“Movement,” my sister said.
+
+“Yeah, on the sides of some of the buildings,” I said thoughtfully.
+
+“No, at the bottom of the hill,” she replied, pulling her blade.
+
+That got everyone's attention quick, as did the small orange blur racing up the side of the rise we were on. Cousin Illa was the first to act, hands shooting forth a shimmering barrier that the assailant slammed into at speed.
+
+My first good look at the creature revealed that it was of course, a crab. Legs and all it was roughly the size of a horse and much faster as it scurried sideways towards us. The wall Illa had thrown forward making it tip ever so slightly to reveal its oval shaped top to us.
+
+Veska and I followed up her move with bolts of cold blue frost and pure force respectively. While neither seemed to do much damage, the area around it became rimed with ice.
+
+“Cold-blooded, leech heat to slow it down,” she said, professionally as she wove a net that I could feel the chill radiating off of.
+
+While Rodrick began singing more barriers into place Lena threw a bolt at the beast, the black energy sizzling as it soared through the air. The leg it impacted shriveled a bit, but that was clearly less than she'd been expecting. Everyone knew priest magic could be nasty on living flesh, but the thing was somehow resistant.
+
+As the monster bashed Illa's shield and made it shatter Amara stepped forward, sword gleaming as it traveled in a wide arc, landing where the priestess' spell had and severing the appendage. There was a shriek as the over-sized scavenger tried to pull back and retreat, but it was outnumbered and outclassed. We piled spells atop it one after the other as it tried to run, unable to move as cold seeped into its flesh and injuries piled up.
+
+“Well that was a bit much,” Rodrick huffed in the background. His spells had been mostly defensive in nature, but had worked well to aid my sister when they'd finally come up.
+
+“More resistant than I'd like to see,” Veska agreed with a frown.
+
+“Alright, I need to get eyes on the city, then we can decide what to do,” I said, gritting my teeth.
+
+A few minutes later I finally got the view I wanted, but it was not what I'd hoped to see. Atal's capital was in chaos. There were groups of elves on the roads fighting the crab monsters one by one, but there were quite a lot of them.
+
+The academy was of course, worse. Some of the buildings remained standing, but they were clearly in a defensive battle, waiting for aid. It also pained me to see places where the crab monsters were eating people, the dead either from the fighting or their own actions.
+
+“I think going back to the city is out,” I commented, noticing a few of the elves who'd joined us now emerging and looking shocked at the dead creature where it lay near the bottom of the hill.
+
+“Well we need to get home,” Amara said, “And a boat is our only option with the portal down.”
+
+“What about the other one?” Rodrick asked.
+
+“What other one?” several of us inquired, looking at him.
+
+“The one my mom and them took back? She told us the story when we were young,” he said.
+
+“Maybe, but who would remember where it was? We haven't heard those stories since we were like, five,” his sister asked sarcastically.
+
+“Eratol, it was called Eratol, in the ruins there.” There were some raised eyebrows at that. Rodrick could be a bit of a joker sometimes, but I didn't doubt his memory, and he loved stories.
+
+“...Alright then, since staying near the coast is out, let's head there,” I declared, even if it failed, it would still get us out of danger for the time being.
+
+Alana
+
+I sat atop their building, listening as the kids decided where to go. It had been a near thing for me stepping in during their little fight, but they needed to learn to fly on their own. Of course that didn't mean that I was going to throw them from the nest unaided, but maybe let them struggle a bit.
+
+It was a bit odd, watching them talk and act amongst themselves. There was so much I didn't know, hidden, or just never brought up in front of me. Kids could be like that, so different when they didn't think any of the adults were watching. It was nice, seeing sides of them I never had.
+
+On the other hand they really needed to set up a better watch at night. They'd not noticed that that wasn't the first, but rather the third crab to try its luck, the other two being sent off with a few stay bolts of lightning to find easier prey.
+
+As they turned to consult with some of the people they'd taken in I leaned back a bit. Hopefully my old friend wouldn't mind helping me get this lot home.

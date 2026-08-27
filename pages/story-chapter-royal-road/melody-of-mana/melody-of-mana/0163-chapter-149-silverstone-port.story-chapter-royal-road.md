@@ -1,0 +1,105 @@
+---
+id: 08edef61-a8b8-5ce5-997a-c6b578abdf1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149 Silverstone Port"
+slug: 0163-chapter-149-silverstone-port
+partOf: melody-of-mana
+position: 163
+ownLength: 1974
+unit: words
+ownProgress: 1974
+publishedAt: 2022-06-28
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/937069/chapter-149-silverstone-port"
+royalRoadId: "937069"
+markedReadAt: "2026-06-29T22:31:28.781Z"
+---
+
+It had been a long, and rather peaceful trip to get here. Our crew, composed of a primarily recent graduates from magical and knightly academies were some of the best and brightest of our generation, and after an extensive training process we were finally off on our first big mission.
+
+Off across the sea and to the elven continent we would go, seeking out information about teleporters our government sorely wanted to be able to recreate. Each member of our team had skills and practice in their chosen fields, but few could stand up to my personal mastery of the magical language. That was primarily because unlike most of the people in this world I'd had a head start, and a few cheats. This was my second go at the game of life, and while my first might have ended badly, this one was... well, not easy or peaceful, but going well. The knowledge that I'd retained of my first world, and the fact that many of the ancient mages of power seemed to be like me would do me all kinds of favors.
+
+We rolled up to the gates, letting them check our papers. These were fairly generic but needed because we were obviously bringing a sizable number of casters into town. They gave us a once over, and deciding that they didn't want a fight just waved us through. Normally this would have been impossible after sunset, but if you've got all the right things in order almost anything is doable.
+
+It's not like we weren't official, we decidedly were. Every t was crossed and every i dotted perfectly. It also didn't say what we were up to though, which aroused suspicion in the men at the gate. Their job was to keep an eye on the town and we would be a major threat if we wanted to, so they were wary of us.
+
+We also weren't the first to arrive here. The fact that we were the second of the three caravans to roll into town full of mages and gear would only make things worse. Something they couldn't outright ignore.
+
+A man in slightly fancier armor than your normal guard greeted us as we made our way through, stopping the little caravan. I had my window open and was looking around a bit, so I got a good view of what all happened. He went over to the carriage where Olnir had returned just after his discussion with the men outside and knocked loudly.
+
+"How can I help you?" The little wizard asked as he leaned out towards the guard.
+
+"Just a few questions sir, if you don't mind too much." I guess he got a nod as shortly thereafter he continued. "Mostly what your business is and where you're headed, you understand."
+
+"I do, but those details are need to know, and quite frankly, you don't need to know." I winced, Olnir was right in that he didn't have to answer the guard's questions, and their town mayor would be able to confirm that we were official, even if rather low key.
+
+"You're bringing in a large group, after dark, and from what our man on duty tells me, with lots of magic. I may not need everything, but I have my duty to perform," the guard responded, sounding rather peeved.
+
+"Then ask your superiors." Olnir was really doing us no favors as he still refused to answer.
+
+An hour later the 'runner' who was sent to get info from the town mayor returned. He walked as he did so, seeming in no hurry, and I suspected that the head guard here had told the boy specifically not to rush anything at all. It was a petty move on his part, but my boss was also being a petty little jerk so I understood. The boy handed over an envelope to the guardsmen and a few moments later we were let out of the little entryway.
+
+It was only after the third inn that told us that they were full that we got to the heart of the guard's plan. This late in the evening most places to rest were either closed or full, particularly in a busy port town. The guards surely knew this and had kept us held up more than long enough that the only place we could find to rest was a stable.
+
+I'd slept rough before, and the carriage that the other girls and I shared was by no means the worse sleeping arrangement. As a matter of point we'd slept in here several times during this trip already, since we often couldn't spend the night in a sizable town. That wouldn't normally be an issue, what was an issue was that I was now laying on a light cushion rather than a bed because my boss couldn't be the slightest bit polite.
+
+As the sun rose the next day and I began to work out the inevitable kink in my neck I looked around. I was not the first to have risen and neither was I the last. The boys were all up and wandering about looking sour while the rest of my own carriage slept soundly.
+
+After I'd slipped out and conjured up a bite for breakfast I looked at them. "So, what's the plan for today?"
+
+"Olnir went off to see if the other groups have arrived. I'm supposed to head to the ship here in a moment to see if they're ready and all in a bit, want to come?" Robert stretched as he rattled off the day's events, he was a nice sort, and I didn't have anything else pressing.
+
+"Sure, do you know the way?"
+
+"Not at all! I do however know the ship name and the like though, so I'm thinking I can just head down to the port and check in on them," he said excitedly. Seems the idea of adventure, even small, appealed to him.
+
+"Lead on then, if nothing else we'll at least get an idea of the layout." I waved towards the door.
+
+We stepped out into the bright mid-morning sun and joined the small crowd of people walking to-and-fro on their various businesses. Being a port town it was going at a good clip, but we seemed to have missed the morning rush. I didn't mind that, as a bit of a more peaceful stroll felt more my speed for this trip.
+
+While the city was on the upper end of what one normally saw in this kingdom it didn't compare at all to the city of Lithere, where I'd made my home for the past few years. It was also hilariously easy to find the direction we needed to go, since one whole side of the city was taken up by the various docks. That of course didn't mean we had any clue where our ship should be, or how the port was even organized though, but that was a problem for when we arrived.
+
+"So I hear that you're our resident item expert?" Robert offered as a way of an opener.
+
+"Yeah, sort of. I mean, I'm better at those than a lot of people, but I view myself more as a general caster."
+
+"Hey, don't sell yourself short. Dras told us that you were one of the best he knew."
+
+"Well, maybe, but there's still a ton to learn. What about you? My understanding is that you're a really good healer." I leaned over to look at him as I spoke and he blushed, seeming a bit nervous.
+
+"Yeah... the village Leah and I grew up in didn't have any priests or anything, so I ended up patching a lot of people up. When we finally got to school I guess I just signed up for all the healing classes and.... it kinda went from there. I'm no priest mind, but I can still patch up most stuff." He scratched his head as he spoke.
+
+My guess was that Robert and his sister were a year or two older than me, but I wasn't sure. I'd never run into them at the academy, but I pretty much kept to my small friend group, so that wasn't really odd.
+
+"That I understand," I said, nodding at his story. "My village went through a really rough patch too. Except with us it was the famine that was worse than any injuries." I looked off a bit as I remembered the place, which from my understanding was now nothing but ruins.
+
+"Damn nobles didn't care about anyone but themselves. Let the rest of us rot while they stayed in their little manors sipping wine and eating cake. Emperor Durin kicking those lazy bastards to the curb might have been the best thing to ever happen to the country."
+
+"I'm inclined to agree. I knew and still know a good few people who were nobles, and not all of them were that bad though. One or two were decent enough people, but a lot seemed either too proud or... apathetic to what happened to the common folk. Personally I think that can be way worse than just hatred, because it's not that they want to do harm, it's that they just don't care if it happens." At a look from him I gave a brief telling of how my home had been doomed by the local lord forcing us all to be locked in our city palisade. It had killed our ability to save much of our food and wrecked parts of our infrastructure.
+
+"That's insane! How did you all survive if you had to waste that much of your stock?"
+
+"Well, I made a small mountain of bread for people, but in the end we didn't. The town isn't there anymore."
+
+He placed a hand on my shoulder and gave me a reassuring squeeze. "I'm sorry to hear that, I can't even imagine."
+
+"It... wasn't good, and not a great time for me either. On another note, I think we're about there." I pointed and waited for his eyes to follow.
+
+We'd made it almost all the way to the port, and the ships were now clearly visible, their rigging standing over some of the smaller nearby buildings. I hadn't noticed it before but now I could hear the gulls making their racket over the soft sound of the waves splashing against the wood and stone that lined the harbor.
+
+There was no beach, only a small stone path that led to the various docks where all the vessels were anchored. The salty smell was strong and fresh and it was with a smile that I noticed something I'd seen only in my old world. The cement that made up the walkway and it's various small walls here had shells mixed in with it, giving it a rather unique look and feel.
+
+We made our way down the dock looking for our boats. Most of these could be ruled out with little more than a glance, though I had to explain to Robert why.
+
+"It's none of those, look at them," I said, continuing past the platform he was starting to turn towards.
+
+"Hmm?"
+
+"They're all too small, and the nets. Those are fishing boats, not merchant. You'd never be able to cross as far as we're going with them."
+
+"Oh... have you ever been on one before?"
+
+"No, but that doesn't mean I'm wrong.  What about you?"
+
+He shook his head.  "First time at the coast too.  The ocean is just so... big."
+
+"More than I think either of us know.  Come on, those look promising."  I pointed at a grouping of massive many sailed behemoths bobbing in the harbor to one side.  Their dock looked much more private, and was certainly a bit further out than the others nearby.

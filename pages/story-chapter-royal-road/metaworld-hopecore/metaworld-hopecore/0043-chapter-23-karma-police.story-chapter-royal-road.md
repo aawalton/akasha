@@ -1,0 +1,183 @@
+---
+id: 09c97da9-1b25-5456-a79d-6961d71f243d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 23 - Karma Police"
+slug: 0043-chapter-23-karma-police
+partOf: metaworld-hopecore
+position: 43
+ownLength: 2426
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369824/chapter-23-karma-police"
+royalRoadId: "3369824"
+---
+
+“As a man himself sows, so he himself reaps; no man inherits the good or evil act of another man. The fruit is of the same quality as the action.”
+
+The Mahabharata
+
+Together with the cold, October 23rd arrived with a snap.
+
+With kitten care added to their schedule, the students arrived at the second half of their academic semester with nary a practice session spared.
+
+Before the sun even rose, feral hordes of future actors and musicians assembled at the Quest Board, their eager eyes scanning the printouts for their names and assigned rooms. Phones of every shape and colour snapped up the notices, struggling with the yellow fluorescence of the old tungsten strobes.
+
+Eppie Fontaine, room 102.
+
+“Good luck, Fontaine,” a voice announced beside her. Eppie looked up to see the elegant chin of Madison, her rival, giving her the side eye.
+
+“Good luck, Maddy,” she replied with more earnestness than her rival, because she really did need the luck.
+
+When news got around that Eppie had a whole ten seconds on a syndicated television show, her class was once more in an uproar, cementing the rumour that she had to be the nepo child of somebody somewhere. Even her theatre teachers had taken an interest, asking her how she felt about her experience on set. To Cooper, Costello, and Seyrova, she gave earnest answers about how she would seize every equal opportunity, to which her teachers responded with praise.
+
+Madison’s rivalry had since then quietened, leaving Eppie to deal with the more pressing problem of a far crazier rival.
+
+Across the hall, where the Seniors read their notices, she could see Valorie Sanders staring daggers in her direction. She still had no idea why this was even the case, or why Valorie seemed to hate her with every fibre of her being, but here they were, only ten odd meters apart, ready to joust.
+
+As her own friends took down their rooms and numbers, Eppie seriously considered making a run for it or standing her ground to witness what Valorie dared to concoct in public. With her “healing factor” and her [Causality], she shouldn’t be in danger, unless of course, Senator Sanders’s daughter was hiding a Glock in her bag.
+
+She moved.
+
+Valorie moved.
+
+Her friends moved with her. As did Valorie’s crew, including the skittish African-American dancer Valorie used as a bag stand.
+
+Eppie could hardly believe that, finally, their confrontation was about to happen when, seemingly out of nowhere, a pale hand with a long, slender finger arrested Valorie’s right wrist.
+
+“Temper, temper, princess. What has gotten you so riled up in the morning? Don’t frown, it's bad for your complexion.”
+
+The boy who spoke looked more like a college kid than a High School Senior because he wore du ponte ankle pants and a preppy Hugo vest, and, in his lifted Oxfords, stood well over six feet. He was Asian, that much was obvious, but also wore a shocking head of bleached-blonde hair that was almost platinum. His limbs were long and well-toned, and his face had a touch of the feminine that added to his bookish air.
+
+The young man hooked an arm around Valorie, then gave her a peck on the cheek, eliciting a few squeals from the onlookers nearby.
+
+If Eppie were truly fifteen and had a predilection for mid 2010s K-Pop, she would have screamed like a banshee. But as she was an old soul, all she could see was a very guileful scholar-bureaucrat with the air of a mythical fox demon, like in those popular Asian web-dramas from BilliBilli.
+
+This, she surmised, must be the famous William Chen of the cinematics department, Playboy extraordinaire and future “ethnic film” director.
+
+From across the room, their eyes met with a sizzle.
+
+Her friends’ eyes darted from Eppie to the boy, then to Eppie again, their minds alive with possibilities.
+
+In Valorie's place, William approached.
+
+As he made his way to her, the young man positively loomed.
+
+Eppie knew this was because she was five-three in ballet flats, but even so, she had never met a more aggressively unpleasant aura, except in her dealings with AI founders.
+
+As a catatonic deer—for such was the natural reaction of her borrowed body—she watched in slow motion as the man’s hand landed gently on her hair and delivered a well-meaning, brotherly pat.
+
+“Good luck—”
+
+[- 330 Causality]
+
+[Causality: 3431]
+
+WHAT THE FU— Her heart rate shot to 190 in the blink of an eye.
+
+Quest Triggered
+
+[The Usurper of Hope]
+
+You have discovered another Karmic Usurper. A Usurper’s very existence sows misery and misaligns the causality of others. Their influence grows providential by robbing the possibilities of creation, joy, and wonder, feeding off the negative emotions of others. If left unchecked, Usurpers will devastate communities, principalities, nations and eventually civilisations.
+
+As a redeemer, you must sow the seeds of joy to prevent the little death of dreamers by reaping the Usurper’s Causality.
+
+Failing this quest will result in an immense loss of Karmic Causality.
+
+“—Euphemia Fontaine. We’re expecting great performances from you.”
+
+She stared at the flawless complexion of the man towering a head above her, mouth open and eyes wide, pupils shrunken to a pinpoint—or at least, that’s what she looked like, when in fact, Eppie Fontaine stared at the [Quest].
+
+Of course, there was a [Quest]. If there was a [System], then there were quests. It seemed silly now that she had assumed the [System] just allowed her to free roam in a sandbox.
+
+When she finally waved away the projection, William was gone, and so was his redheaded viper, and so was the gazelle carrying Valorie’s enormous designer luggage. She was alone with her friends, who had waited while she mentally recovered from being head-patted by a popular Cinema Senior.
+
+“So…” Lucy’s face was all sour. “I guess Senior Chen likes you? Are you going to be in his films?”
+
+“I don’t think that’s a good thing,” Chelsea’s observation was far more sage. “Valorie has a… reputation.”
+
+“Rather than film me,” Eppie shook off the stiffness of her body, then objectively denied Lucy’s fancy. “It felt more like he was going to eat me.”
+
+At 8:30 AM, Eppie arrived at the holding cell in Room 110. There were the usual, familiar faces waiting already, as well as a pair of Seniors sitting at a desk. From her handbag, she retrieved a headshot and a cardstock resume, the very ones the students’ instructors had helped them create at the start of the term.
+
+She received her number: #8, and sat with her classmates.
+
+In the world of the Sophomores, there wasn’t nearly as much pressure as in the Juniors and Senior years. Their places in the Showcase were more or less guaranteed, and the audition was really for a chance to stand in the spotlight on the largest stage available to them, which was the intimacy of the Playhouse.
+
+Next year, when they became Juniors, they would be competing with each other and the Seniors for their place in the opening production, or the closing production of LAPAGANZA, as sweet sixteen was when breakouts occurred, especially for actresses at the height of their marketability.
+
+In the room were Madison and her crew, a few of the quieter classmates, herself, and Lucy. They shared the space in silence, but even so, Eppie could feel the tension in the air.
+
+At exactly 9:00 AM, the side door clicked open.
+
+A Junior aide called out the randomly drawn numbers, summoning one of Madison’s friends. The rest of the group said nothing, even though Eppie blurted out, “Good luck.” This was their first taste of the cruelty that was the path of Theatre and the Arts, and all took it far more seriously than she did.
+
+The remaining students mentally practised their lines.
+
+“#8, come into the room,” the call for her came after thirty minutes. Lucy was done by then, as was Madison. She was the third-to-last student to be called.
+
+Eppie took a deep breath, banished all thoughts of William Chen and her [Quest], then arrived a moment later into one of the Senior practice rooms, padded from the walls, and painted pitch black but for the fluorescent lights.
+
+In the far side of the room were three tables and three teachers. Craig Costello, David Cooper, and a Senior instructor whose name she did not know, a lady instructor with light brown, greying hair and the look of a stern intellectual.
+
+Without looking down, she moved onto the X, shifting back and to the right until her [Love the Light] felt just right.
+
+The unknown instructor scribbled on her sheet. Costello and Cooper looked unmoved.
+
+"Good morning. My name is Eppie Fontaine, candidate no. 8. I will be performing the role of Antigone from Sophocles. My chosen monologue is the ‘Bride of Death.’"
+
+What she had chosen was a difficult part of the play, for the original performance was conjoined with that of the Chorus. As a monologue, the actress for Antigone would necessitate both the public’s sympathy and their judgment, a feat reserved for advanced students of the theatre.
+
+She took a deep, long breath—shifting her body and mind to neutral.
+
+[Physicality], [Script Analysis], [Act Natural], [Hitting the Mark], [Vocality] and [Love the Light] all checked green, like analogue switches on a fighter pilot’s console.
+
+Her gait pulled downward, weighed by inevitability. The dust of Thebe’s drying loam was suddenly on her naked feet as the great tomb of her family loomed. Her eyes gazed toward Cooper, but it was not her instructor sitting there, but an arrogant man on a throne, a man whose law he believed to supersede the laws of the Gods.
+
+In her mind, she projected pity, love, longing and loathing. Via her body, she projected pain, hope, and despair. Her shoulders were pressed down by the tomb’s immovable stone, and yet, her back remained rigid and straight, prideful and unyielding.
+
+Before she could start, a sudden rebuke filled the air.
+
+“Away with her-away! And when ye have enclosed her, according to my word, in her vaulted grave, leave her alone, forlorn-whether she wishes to die, or to live a buried life in such a home. Our hands are clean from touching this maiden. But this is certain-she shall be deprived of her sojourn in the light!”
+
+It was not she who spoke, but Creon, her kinsman and King. As low thunder, Cooper’s voice rolled over the stage.
+
+Eppie’s eyes refocused.
+
+Pale blue they were, hard and clear and without guilt.
+
+Then, from her chest, in a proclamation as hollow as the tomb she was to enter, she gave Antigone’s final speech.
+
+“Tomb, bridal-chamber, eternal prison in the caverned rock, whither go to find mine own, those many who have perished, and whom Persephone hath received among the dead! Last of all shall I pass thither, and far most miserably of all, before the term of my life is spent. But I cherish good hope that my coming will be welcome to my father, and pleasant to thee, my mother, and welcome, brother, to thee; for, when ye died, with mine own hands I washed and dressed you, and poured drink-offerings at your graves; and now, Polyneices, 'tis for tending thy corpse that I win such recompense as this…”
+
+Her voice was mesmerising and melodic, youthful and yet aged beyond belief. She wasn’t just delivering the lines; she was singing the Grecian Kommos. Traditionally, she should be joined by the Chorus, and performed alone, her lonesome voice should have focused on vulnerability and isolation.
+
+Yet, with [Songstress] joining the action, the voice that erupted from her lips seemed to fill the room like her instructor’s famous baritone. Despite the padded walls, it sounded as though she was joined by multitudes of Antigones throughout the ages.
+
+“What law, ye ask, is my warrant for that word?”
+
+Her face, now more beautiful for its twisted anguish, filled her audience with sympathy. Toward the heavens, she gestured an apostrophe, an appeal to the unfeeling Gods. Her fingers trembled, but her arms were rigid and proud. Her agony was unspeakable, and yet, as always, her spine remained unyielding.
+
+“... And what law of heaven have I transgressed? Why, hapless one, should I look to the gods any more,-what ally should I invoke—when by piety I have earned the name of impious?”
+
+Her voice cracked, not in the way of a loss of control, but that of a grunge singer’s voice as a chorus reached a crescendo.
+
+Then, her body grew still. As still as a statue in Medusa’s collection. Her eyes fell from her King.
+
+Antigone accepted her fate, even if she did not accept Creon’s judgment.
+
+The sound of pens scratching paper continued for a minute, then finally, Cooper’s voice rang out. “#8, the Cold Read is tomorrow, same time slot. You will have thirty minutes to prepare your scene.”
+
+Eppie returned to neutral.
+
+She breathed out, expelling the emotions, the sorrow, the anguish and the injustice.
+
+She flashed the judges her best smile, used the best available light, then she was gone.
+
+In the exit room, she was met by Lucy, Chelsea, and a free frappuccino. In the hallway, they accosted her and asked about every detail while patting her back and handing her a drink that was ontologically more dessert than beverage. Bathing in the sugar and caffeine rush, Eppie described her act with optimism, explaining that in the end, she chose the lament, and had chosen to perform it lyrically.
+
+The girls squealed, and Eppie was forced to play the part of the fifteen-year-old more readily than she had anticipated. With everyone on their crew done, they moved toward the cafeteria, where half of LAPA was now gossiping non-stop and texting everyone’s mothers about their performance in music, dance and theatre.
+
+At the food hall, she also saw her roommates, Halle Hillhock and Ava Bernstein. Halle looked like she was having fun with her clique of rich girls, while Ava didn’t look too well while being comforted by her friends. At LAPA, talent and practice spoke for themselves, and this was what made the school great and infamous for the incidence of students collapsing from the pressure.
+
+For the rest of the day, Eppie decided she would jog, eat, then go unwind at the Cat Club, eat again, then finish with yoga. If Ava truly did hit a snag, there was nothing quite like yoga to help her relax her tenseness and share some heart-to-heart advice.

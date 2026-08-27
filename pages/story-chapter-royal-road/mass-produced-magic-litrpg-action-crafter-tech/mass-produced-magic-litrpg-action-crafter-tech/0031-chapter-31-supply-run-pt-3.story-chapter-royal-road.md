@@ -1,0 +1,171 @@
+---
+id: d43a1d13-0203-50dd-84ad-98e42ce2bee9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 – Supply Run – Pt 3"
+slug: 0031-chapter-31-supply-run-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 31
+ownLength: 1929
+unit: words
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1965077/chapter-31-supply-run-pt-3"
+royalRoadId: "1965077"
+---
+
+Kindra felt time slow. She vaulted into the air and slammed her spear into a bird, sending it smashing into the ground. A bird extended its talons and slammed into her back. The talons hit the dress and didn’t pierce it.
+
+With a growing smile, Kindra spun, using her spear more like a bat. She hit and slashed into the birds, whirring the spear around her like a lethal propeller. The birds blasted her with sound and flew away, landing on the scavengers and the carcasses.
+
+Reaching out, Kindra grabbed the mana from anything they killed, ripping it into herself and blurring her spear through the flock.
+
+The birds scattered, doing everything they could to avoid her. One landed and pecked Gleon. Its bill bounced off, and it flew off, searching for easier prey.
+
+Kindra dashed toward the clump attacking the hog. They scattered, rocketing away at high speed. Little devils. Scowling, she ran over and picked up her crossbow and bolts. Loading a bolt, she aimed and fired. The bird shot upward, and the bolt clipped a few feathers.
+
+Sighing, Kindra loaded another bolt, and the birds dove. Dropping the bow, she grabbed the spear. Talons raked across her scalp, scratching into her.
+
+With the spear blurring, she slammed it into the birds, slashing feathers and stabbing repeatedly. An irate Aika shot overhead, her spear whistling as she spun. Feathers and blood sprayed around her, and she charged through the birds like a wrecking ball.
+
+“Die, yeh beasties!” Gleon slurred and bellowed at the same time. He charged and leapt, his axe slamming into the birds and the leaves overhead. Landing with a heavy thud, he leapt again, slamming his axe into a low-flying bird.
+
+Kindra watched the flock swarm Aika. “Aika?”
+
+Blood and feathers rained down. “My suit still has the buffs. Also, I need axes or swords.” She burst out of the group and shot toward the ground. The flock followed, and a thousand pebbles shot forward like a shotgun. They rained into the birds, and Kindra turned to see a livid Gran. She stormed forward, the stones dropping birds everywhere.
+
+The flock let loose a burst of sound and fled, flying through the trees while Aika shot after them, slashing and stabbing into the fleeing birds.
+
+“Be careful, Aika.” Kindra looked around the clearing. Birds littered the ground; most were the scavengers. The other birds had ripped them apart, feasting and killing indiscriminately. She pulled mana toward her before turning back toward the dwarves.
+
+Gleon scowled, and Gran’s face was red, her eyes alight with anger and worry.
+
+Kindra looked at a dead scavenger. “How do these stay alive with things like that around?”
+
+“They don’t.” Gleon massaged his arm. “That’s the nastiest flock of Screamers I’ve ever seen.”
+
+“Where’d they come from?” Gran asked, shaking her head. “We can’t have them around our settlement.”
+
+“That cave with the spring,” Aika said, zipping up and landing on Kindra’s shoulder. “They flew in that direction.”
+
+“Now is the ideal time,” Gleon said, turning in that direction. “They’ll be low on mana.”
+
+“One moment,” Gran replied, turning to Kindra. “The children?”
+
+“Inside. I didn’t want to leave them.” Kindra gestured to the cottage built into the tree.
+
+“Thank you.” Gran smiled and studied her. “How did you resist their magic? I can’t imagine you spent much on resistance.”
+
+“She’s good at that,” Aika said, giggling.
+
+Kindra blushed and shrugged. “I’m not sure. The magic was there, and I just sort of fought it.”
+
+“Odd. We’ll discuss it later.” Gran walked toward her home. “Go ahead, both of you. I’ll clean things here.” Pausing by the door, she spun. “End as many as possible. That flock could become a nightmare.”
+
+“We will.” Gleon stretched.
+
+Kindra stashed her crossbow and bolts before following Gleon into the forest, walking around the massive trees and moving closer to him.
+
+“Aika?” Gleon called.
+
+She flew over and landed on his shoulder. “Yes?”
+
+“Be very careful, and stay close. If they stun you, they will eat you.” Gleon scowled. “I’m hoping they’ll be out of mana, but there is a chance they’ll knock me out again. It’s fine if they do, but stay someplace safe.”
+
+Aika nodded. “I will.”
+
+Kindra jogged up to him, her focus shifting to the nearby trees. The sounds of the bugs and birds returned, leaving the trio with nothing but their thoughts. The distant sound of water reached her ears, and she looked over at the eager dwarf. “So, what relics are you after?”
+
+“Many things,” Gleon said with a gleam in his eyes. “There was a time when our forges ran hot, making the most amazing magical things. The fae would come to purchase things. Humans and elves held us in the highest regard. When the war began, we held our own and aided them… Then it all went to shit.” He sighed loudly.
+
+“How long ago was that?”
+
+He shrugged. “No idea.”
+
+“How do you know that, then?” Kindra asked.
+
+Gleon turned. “Ruins and records. You’ll see.”
+
+Kindra jogged along the cliffs. The breeze fluttered through the trees, and the bugs chirped up a storm of noise. She turned back to Gleon. “How dangerous are the things here?”
+
+Gleon shrugged. “Hard to tell. You’ll know if they’re too strong; they’ll come for you.”
+
+That’s not comforting. Kindra vaulted off a large root and landed on a boulder. She jumped down and continued forward, the three moving in relative silence.
+
+Jogging toward the waterfall, she saw a small group of short, deer-like creatures. They turned and bound away, sprinting into the forest at high speed.
+
+Gleon ignored them and looked up. He opened his bag and pulled out a grappling hook and rope. “Aika, if you could speed this along?”
+
+Aika grabbed it and zipped upward, embedding it into the stone above. Grabbing hold, Gleon scaled upward using the rope and the cliff face.
+
+Grabbing onto a ledge, he looked down and nodded. Kindra followed, scaling up the cliff. The strength really does make this easier.
+
+Scrambling up the dark wall, she quickly made her way up before repeating the process a half-dozen times.
+
+Grabbing a hand-hold next to the waterfall, Kindra pulled, and Gleon walked into the cave, wading through the chilly water. A deluge of sound blasted by, and he clapped his hands over his ears.
+
+Aika dove into Kindra’s bag, and Kindra fixated on the runes, pulling herself up and wading into the water. Moving down the hall, she looked out into the gray cave. Birds lined their nests, squawking furiously.
+
+Holding his hands to his ears, Gleon grunted and staggered toward the beach, sitting beside the wall. With her spear in hand, Kindra moved next to him and studied the birds.
+
+A massive one poked its head out, its body aglow with mana. Its eyes turned red, and it unleashed a booming noise. Shrugging it off, Kindra glared at it. “Come on. Try me.”
+
+The bird dove. Large talons extended, and Kindra snapped her spear upward. Fool bird. Its wings thrashed as realization spread on the bird’s face. Slamming her spear forward, she cut deep into its chest. Red blood flowed, and it churned the air, slamming into a wall.
+
+Stabbing repeatedly, Kindra cut holes into it, and the swarm of birds hit. Talons raked across her dress and head. Beaks pecked, and she slammed her spear into the creatures, knocking them into the wall and cutting into their flesh.
+
+Pain flickered through her body. Kindra looked down to see a talon sticking in her arm. This spear won’t work. Hissing, she jerked away and willed the spear away. Pulling out two knives, she burned mana.
+
+[Simple knives (x2) have been enchanted with armor penetration. Attacks will bypass 20 stamina. Lasts 4 hours.]
+
+Spinning the blades, she slashed into the swarm, cutting off wings, feet, and heads. Blood sprayed around her. Biting into one of the living birds, she drank it, letting the metallic taste pour inside.
+
+With her blades lashing out in a fury of strikes, she slashed into the flock, and Gleon bellowed. He launched onto his feet and began grabbing the birds out of the air, slamming them into the wall.
+
+Blood and feathers rained around them. Kindra bared her teeth and bit another, ripping into its throat and draining away its mana. Her wounds slowly started to close.
+
+[Innate Racial Skill Unlocked: Lesser Vampirism - Some species are evolved to harvest mana from their kills. Some took it further, using others' life to supplement their own.]
+
+I guess that isn't a surprise. Kindra dropped the bird and continued slashing, cutting down the surrounding birds.
+
+As suddenly as it started, the fight ended. The last few birds gave up and fled, flying out the door. Aika shot after them, stabbing furiously. Kindra took a deep breath. She could feel the mana around her. It sat like ripe fruit on the trees. Reaching out, she pulled.
+
+[Your mana has increased: 3583 → 3690.]
+
+I should level up. She willed one hundred and forty mana away.
+
+[Your mana has decreased: 3690 → 3550.]
+
+[Your level has increased: 6 → 7.] ‎ [Your intelligence has increased: 12 → 14.]
+
+[Please select four attributes to increase.]
+
+Kindra looked at them and the wounds on her body. Forget it. I’m tired of getting eaten. She dumped it all into stamina.
+
+[Your stamina has increased: 4 → 8.]
+
+[Please select an ability: ‎ - Hearty Swing: You may use mana to augment your next strike, boosting your strength during the swing. The boost varies based on mana spent. ‎ - Resilient Frame: You may use your mana to absorb damage from heat or shrapnel. The shield varies based on mana spent. ‎ - Eyes of the Smith: Use your mana to better see flaws in the metal and how to best fix them. Costs 1 mana for 10 minutes. ‎ - Scavenger’s Sight: Use your mana to find potential resources for crafting. Costs 1 mana for 10 minutes.]
+
+Kindra picked the last one instantly. Oh, I need that. I need that a lot. She looked at the birds and back at Gleon. “Do we leave them?”
+
+“Unless you want to do something with them.” Gleon nodded.
+
+Kindra looked at her absurd mana pool. I can spare a little. She burned a little mana to make a dozen more bolts. I need to find metal first. Gathering them, she placed them in her quiver and nodded.
+
+Aika flew down. “There are eggs up there.”
+
+“Free food,” Gleon said with a grin. He scrambled forward and started raiding the nests.
+
+Kindra did the same, scaling up rocks and picking up the eggs. She placed them in her bag. I’m going to break all of these. With a shrug, she gathered them and triggered Scavenger’s Sight.
+
+Like looking at some strange augmented reality, text popped up, quickly revealing the sedimentary rock that lined the place. She searched for anything with iron and failed to find it. Darn. Walking along the cliffs, she paused, and text appeared in her vision.
+
+[You have entered a concentrated mana zone. Please be aware that entities may manifest from the mana.]
+
+Gleon turned. “You didn’t mention this, little Aika.” He grinned and rubbed his hands together. “Let’s clear her out.”
+
+Kindra chuckled, and Aika groaned.
+
+Aika sighed at him. “Every time you say that, we end up almost dead.”
+
+“But we’re still alive.” Gleon turned and headed for the crack at the end of the cave.
+
+Alright, my first dungeon! Kindra darted after him.

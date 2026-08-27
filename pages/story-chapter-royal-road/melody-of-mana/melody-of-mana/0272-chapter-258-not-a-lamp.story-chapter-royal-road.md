@@ -1,0 +1,125 @@
+---
+id: bea31f5c-0faa-5e9e-971a-1e93cb75d503
+page-type-slug: story-chapter-royal-road
+title: "Chapter 258 Not a Lamp"
+slug: 0272-chapter-258-not-a-lamp
+partOf: melody-of-mana
+position: 272
+ownLength: 1680
+unit: words
+ownProgress: 1680
+publishedAt: 2023-08-11
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1306904/chapter-258-not-a-lamp"
+royalRoadId: "1306904"
+markedReadAt: "2026-06-29T22:35:13.245Z"
+---
+
+Hovering in the center of the room was a sphere, so perfect I struggled to look at it. Runes covered it's surface as it gently spun. This was the center, the very center of this area's whole setup. I stopped, jaw clenching.
+
+“It's like yours,” Dras said, turning towards me.
+
+“The effect isn't as bad, not at all,” I replied.
+
+“Care to explain?” Ulanion interrupted.
+
+“I made a lamp when we were in school that was too perfect, it hurt to look at like this. Might also explain why this place is still functioning, because it was insanely efficient,” I told him, walking around the small depression the sphere was hanging in.
+
+“So...”
+
+“So he made something similar, but this is no simple lamp. I never repeated the experiment, because it was weird, but this, it's the power source, and perhaps more for this whole area.
+
+There would be no telling what all was going on here until I got around to taking this apart. It could very well turn our current warding scheme on its head. The possibilities were staggering to consider.
+
+“Dangerous?” Ulanion asked, keeping close.
+
+“No, I don't think so, at least not in and of itself. The lamp was odd, and very, very mana efficient. Suppose that's why things are so stable with it.”
+
+“So if it's a storage device we might be looking at something that would hold for, well at least centuries. I can think of a few uses for that,” Dras said appriasingly. “How much is it storing? And why didn't you ever peruse this?”
+
+“How much? Who knows. As for why I never looked deep into it, simple, I had other things on my mind. I did tell Mystien, maybe he did. He saw the lamp and all, but neither of us expected storage as an option.” It would take me time, a lot of time, to decode this thing completely, assuming that it wasn't hidden, a distinct possibility. “Alright, let's look for controls, standard issue ones for on and off of these wards. Just find for now, see what we got here.”
+
+The room was large enough for the three of us to spread out a bit, maybe twenty feet on each side. Something like this didn't need a whole big area, and since it was basically a vault such a thing would be rather counterproductive. The center had the object we were most concerned with, it taking up a fair amount of space at about five feet around. All around it were various panels with readouts and controls. This was after all not a room one would mess with without reason.
+
+I quickly found some books which were in excellent condition for their age, and began to carefully flip through them. One thing about old inks and vellum was that it just lasted for centuries without any issues.
+
+“Find something?” Dras asked, seeing that I'd acquired literature while he was checking out one of the panels.
+
+“Yeah, I think these are the operations and maintenance manuals. Joker or not this guy was organized, like, impressively organized.” I waved my hand at some of the sheets hanging over the little case with the books. A quick glance told any who looked that they were the records for this room, dated with all problems listed out.
+
+“I think this is the power control panel,” Ulanion said, pointing, he wasn't a mage, but he was very used to dealing with magic.
+
+I strolled over to his section, looking at the levers and indicators. “Yeah, looks like, one sec... What did he put it under? Power... not on/off... 'shutdown procedures' it is.”
+
+After taking the time to do a once over of the current state of things I frowned. The wards here were quite good, and while I could see that they were registering an attack, they were also very capable of keeping themselves up for quite some time against it.
+
+“You've got that look,” my fiance said.
+
+“That look that says if we hadn't shut this down we'd be stuck in here for almost a month? Because yeah, that's the look right now.”
+
+“There's no way that's right,” Dras interjected.
+
+“According to these and some rough division it is,” I turned, not liking it that he didn't trust me in this.
+
+“Alright, let me look,” he said, joining us to do his own estimates. There was a series of murmured expletives. “Okay, well either his outputs are wrong, or something odd is going on here.”
+
+“His sequences must be way more efficient than ours, and with that thing,” I pointed at the orb. “running it, well.”
+
+“Right, so, turning it off?” Ulanion finally said, looking quite ready to go.
+
+“Ah, yeah.” I responded, turning a bit to the right section.
+
+There was another big friendly red button to emergency things down, but I didn't want to test my luck. It would probably work, but with things as old as they were it seemed more wise to go through the slower process of lowering the defenses slowly.
+
+As I let my hands work over the proper levers and buttons it occurred to me that this room must have been made possible to break into. Surely it could have been a tougher nut to crack, but maybe that itself was a fail-safe? If things went wrong then it would be possible to turn it all off, even if it took awhile. I briefly wondered if there were design notes or instructions around here somewhere, because I was very curious to see old Ristolian's theories on that.
+
+When the team here to rescue us finally arrived it was clear they were in a state. “Ma'am, we've been trying to get to you, but couldn't. Are you okay?” their leader asked.
+
+“I'm quite fine, please secure everything here. I know it will be a chore, but we'll need guards and some way to seal it we control. There's also a skeleton in the other room, please secure that as well. He needs a burial.” My orders given I had a growing list of things to get into.
+
+I wanted to dive into researching the work Ristolian had done, as we'd found a veritable treasure trove of materials down there. Who knew, with some time I might well manage to have us pumping out some of the most advanced protections on the continent in the next year or two.
+
+Sadly, I had a bit of personal business to conduct first. Never had I met that particular world-hopper, but I knew he'd had at least one friend. Since there was literally nobody else, it seemed appropriate to contact said friend and see about giving the man a proper funeral.
+
+The letter I made for Justin was formal, and in English. I told him we'd found the body, though there wasn't much left. Then asked him if he knew of any particular arrangements the other wizard would have wanted, or had any input.
+
+It took a few days, but I got a response. Another note hefted through the portal Justin and I were using as a mailbox. It was short and to the point.
+
+*I would like to speak to you at length, please bring the stone.*
+
+When I arrived Justin was there, his face, skin, and build the same as always. His eyes though, his eyes looked so old for a few moments. It passed, but in those seconds I saw the weight of the ages pushing down on him. I couldn't imagine that, seeing everyone and everything you cared for turn to dust.
+
+“My condolences. We haven't buried him yet, if you want to be there,” I began.
+
+“Thank you, I do, I do, but he should be buried at his home, and that complicates things. Let us put that aside for the moment,” he nodded to me, smiling gently.
+
+“Alright, then what should we discuss?”
+
+“You have the stone?” he asked.
+
+As soon as I produced it he snapped and it turned to dust in my hand. I had to glare a bit to that, and wipe my hand on one of his couches. Just because he could do so, didn't mean it was right to be rude. In a moment his eyes shifted to almost apologetic, realizing his misstep.
+
+“Are you done?”
+
+“No, I've got a new one for you. Please see to it that everyone uses it. This will put a few safeties in place, and I've included a document in old Elven explaining those.” Another similar stone was set before me.
+
+“Wow, an actual explanation with it, thank you.” I wasn't even sarcastic on that one, I really did appreciate it.
+
+“I'd also like you to deliver a letter for me. To the head of the temples.” He seemed almost nervous to ask that one. “I do not think it will go well, but I really do need to get eyes on that anomaly you made, in some form.”
+
+“What does that have to do with the Orders?” I knew they didn't like him, but not the specifics.
+
+“Old history Alana, very old history. If I took any direct action on your continent without discussing it with them, or heaven forbid, went there, it might well become quite nasty.”
+
+After that he told me about Ristolian. He'd never actually learned what the man had been called back on Earth, but it hardly mattered. The human man had come to visit him, always with new stories and jokes, always with a smile. I got the feeling that Justin didn't get that much. I let him go on until he'd finished, letting it all out.
+
+“Everything well?” Ulanion asked when I got home, his face concerned about how long it had taken.
+
+“Fine, fine. I need to go to Linden though, wanna come?”
+
+“Oh Alana, you still haven't realized it yet have you?”
+
+“Hmm?”
+
+“That my favorite place to be tends to be wherever you are,” he said, pulling me gently against his chest.
+
+I kissed him, if only to make him stop spewing smarmy lines.

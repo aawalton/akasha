@@ -1,0 +1,229 @@
+---
+id: 31a896de-faaa-57bc-8297-5fc2c7dde114
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 76 - Hurt (2) "
+slug: 0128-chapter-76-hurt-2
+partOf: metaworld-hopecore
+position: 128
+ownLength: 2845
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3664251/chapter-76-hurt-2"
+royalRoadId: "3664251"
+---
+
+The room dissolved. With herself in the scene, the effect was doubly as potent, for Derek’s body grew suddenly stiff, as if he had actually died. Eppie’s Lavinia dug into her husband’s body, then she rose with her wide-blue eyes misted over with disbelieving terror. Her Lavinia looked at her own hands in horror, at the invisible blood that was elbow deep—the precise place where Demetrius and Chiron would hew off her hands—and let out a guttural, bestial sob.
+
+Grief, stark and sudden, rippled into the darkness.
+
+Demetrius stepped up behind Eppie and, with one hand, took her by her glorious, glistening hair. He pulled, not too hard, for Eppie’s [Physicality] reacted to Joshua’s borrowed [Physicality], forcing her from the body of her husband.
+
+DEMETRIUSStay, madam; here is more belongs to her;First thrash the corn, then after burn the straw:
+
+Her Lavinia’s grief turned to shock, her body grew rigid with fright, then she looked up upon her husband’s killer with incomprehension. On Valorie, the aesthetic was paradoxically pitiful yet seductive. On Eppie, with her petite frame, enormous eyes, and tiny face, the visual aesthetic was nothing short of criminal.
+
+Then Chiron came in as a tour de force of pure, unmitigated villainy. Charles was a good-looking young man, and yet, he made the most punchable expression anyone had ever seen.
+
+CHIRONDrag hence her husband to some secret hole, And make his dead trunk pillow to our lust.
+
+With his shirt collar open, he knelt beside Eppie and ran a hand along her tear-stained cheek.
+
+Her Lavinia finally understood, and the comprehension turned her grief to desperation. [Act Natural] [Vocality] and [Physicality] fired every cylinder. She looked to Tamora, her eyes brimming with hope, while knowing that her pleas were futile.
+
+Tamora dared not meet Eppie’s eyes. “But when ye have the honey ye desire…”
+
+Eppie pulled her hand from Joshua’s, leaving a few golden strands still clinging to his fingers. She half-dragged, half-crawled over to Elizabeth to hug her red dress. She pleaded with the Goth Queen, woman to woman, a mother to a daughter, her eyes equal parts disbelief and despair.
+
+LAVINIAO Tamora! thou bear'st a woman's face—
+
+Her cries were a whisper, but her [Vocality] filled the black box practice room as if they were on stage. Cooper’s vocal lessons were evidently paying dividends.
+
+TAMORAI will not hear her speak; away with her!
+
+Elizabeth’s performance, that of a woman caught between primal revulsion, empathy for a fellow female, and her grief and vengeance, came out perfectly as well.
+
+LAVINIASweet lords, entreat her, hear me but a word.
+
+Eppie crawled back to the boys, praying to them as they were the vengeful, cruel Gods of an uncaring Pantheon.
+
+The boys mocked her pleas. They circled her like wolves, their eyes licking her exposed neck. She begged Elizabeth again, beseeching Tamora for a smidgen of humanity.
+
+Elizabeth threw her dress so that it whipped Eppie’s face. “I know not what it means; away with her!” Eppie exploded. Her tiny body seemed to, for a second, stand over the giantess that was Tamora as she delivered the final, FINAL lines she would ever speak from her own tongue.
+
+LAVINIANo grace? No womanhood?
+
+At the designated line, [All the World’s a Stage] deactivated.
+
+Eppie exhaled. The mist of [Sublimity] took a few more seconds to fade from her eyes. It would seem that her personal involvement made skill less costly—but it also meant—
+
+Exeunt DEMETRIUS and CHIRON, dragging off LAVINIA
+
+Chiron took her by the hair again—this time without the help of renting her [Physicality], and accidentally yanked her backwards so hard that Eppie genuinely fell. She let out a yelp—a moan—a scream, because she was still in character. Her naked feet, tiny and childlike, kicked the floor; the pain was bearable, but she was more worried about her newly acquired hair.
+
+“AH—beastly creature!” Eppie tried to adjust her own [Physicality] to match the action—but before she could, Derek—AKA the corpse of Bassianus—leapt from the floor and socked Charles across the face.
+
+“That’s my wife! You bastard!”
+
+[All the World’s a Stage]’s mental fog lasted another half-second, then evaporated as a fading pageant.
+
+Charles let Eppie go. Eppie fell butt-first on the floor with a thud. Charles stared at the dead man in the Italian uniform.Derek suddenly snapped back to reality with a look of disbelief.
+
+Shit. I really should have waited another five seconds… Eppie nursed her bony buttocks.
+
+No one saw who started laughing first, but the whole room was on their belly and beside themselves while Derek bowed to Charles with a face full of apologies. Joshua was in shock as well, but rolled with the punch because he was still horrified from hurting Eppie.
+
+Eppie sat in the middle of the black box room, rubbing her buttocks and looking over to see how Cooper thought about that performance.
+
+Her instructor was equal parts relieved and surprised.
+
+Then—there was scattered applause, followed by louder applause.Game recognises game. The Seniors were impressed. They were not expressly impressed by how well Lavinia acted—but how flawlessly she fitted into the script, how she had made everyone else so much more vivid. How Elizabeth Moore loomed over the morality of the scene, how Joshua and Charles seemed oblivious to their mother’s own conflict. Even Derek, the corpse, had “come to life.”
+
+Now THIS is theatre! Their hands seem to say. We get it now! That’s how you play the roles!
+
+Cooper looked worried, probably for her lost hair. The boys knelt to apologise. They helped her up. She gave them both a hug and told them not to worry. Elizabeth came and hugged her so hard Eppie was lifted from the floor.
+
+Susana Typer sighed, perhaps thinking of the futility of it all, and wrote notes into her notebook.
+
+“QUIET!” Cooper calmed the class down. “That was the best performance yet, from our Tamora, Demetrius and Chiron. Bassianus—not you. Well done. Eppie, you can change out of the dress now. We need the original for the second costume change reference.”
+
+Eppie nodded and returned to her place.
+
+“Also, as amazing as that was,” Cooper said drily to the boys. “Tone down the hair pulling. You might get our compilation banned in Ohio.”
+
+The class burst into laughter again, all the misery and tension dissolving completely.
+
+As for Eppie, she had returned to her Valorie Observation mode—except now, she was seeing Valorie’s inner demon come to life.
+
+Valorie did not laugh with the rest of the class.She felt no delight in Derek’s punch, no humour in hearing Eppie’s yelp. She looked like a girl in a trance, like a bomb squad veteran reliving some PTSD event.
+
+“I am not feeling well,” she said to no one, then sat back down while staring into the middle distance.
+
+Eppie’s [Script Analysis] activated while the Seniors praised her like a gang of feline enthusiasts patting down a Best-in-Show blue-eyed Ragdoll. Was Val having Vietnam Flashbacks? Or… Mio flashbacks?
+
+The realisation came to her at once. THE SAME THING MUST HAVE HAPPENED BEFORE! WITH MIO!
+
+For an observer rich in [Wisdom] and steeped in context, Valorie’s mental absentia was self-evident. The unfocused eyes, the quivering fingers, the vacant smile—Val was in disbelief. She was unable to reconcile with the idea that someone could outdo her by a whole magnitude.
+
+But it wasn’t about out-acting Valorie. It was the Ensemble’s reaction as well.
+
+Dr Costello had made this absolutely self-evident in her Sophomore classes. Her [Memorisation] recalled it perfectly.
+
+In a Company, WE ARE ALL EQUAL. Woe unto the diva who thinks herself capable of performing alone! As a Company, we are unibody… the cast is infinitely replaceable. No matter how compelling, pretty, or gripping you may be…
+
+And Valorie, with all her talent and all her gifts, had forgotten Acting 0201.
+
+And now she sat between her friends, smiling at everything and everyone, trying to control her face. Bruised jealousy? Insecurity? Incomprehensible manic depression? Eppie was shocked that her [Emotional Intelligence] failed to deliver even a clue.
+
+Cooper gave each of the kids private advice to do well, and Eppie could see in their eyes that—this time—they understood. This time, they had acted also—rather than just (re)acting to Valorie.
+
+The clock chimed. Cooper gave her another pat on the shoulder, left some words for Valorie to “self-reflect”, then walked off with Tyker behind him, giving Eppie her seal of approval.
+
+Valorie’s friends invited her to this and that, but she simply shook her head and said that she wanted to practice some more.
+
+By 7:15, only Valorie was left.
+
+“I’ll… be going then?” She approached Valorie carefully, in case Senator Sander’s daughter started biting. “You eaten yet?”
+
+“Go ahead,” Valorie flashed her a winning smile that did not extend to her eyes. In her hand, she clutched her phone. “I’d like some time alone.”
+
+Eppie looked at the phone, looked at her rival, then was gone.
+
+“Gone” next door.
+
+The second she was out of sight, she turned right into the adjacent practice room and locked the door. With ease, she silently moved two prop tables against the inner side, then clambered onto them to subtly open the acoustic ceiling tiles. Her heart was jackhammering. It was built for trades worth hundreds of billions of dollars, but apparently high school-tier espionage was enough to give it the thrill of a lifetime.
+
+With her head in the attic space, she still couldn’t see anything in the adjacent room—but she could reasonably hear everything if she had [Pitch Perfect] running on [Causality].
+
+To no one’s surprise, she was calling William. Unfortunately, Valorie did not have the habit of the 2020 Valley Girls, which was to take every call at 100% volume, on speakerphone, in public, while screeching into the mic.
+
+“It’s happening again…” Valorie’s voice cracked. “She’s going to take my spot, William.”“Can you come…”“I want to talk to you now.” “I don’t want to go to the film room.” “Yes, I am alone…”
+
+This is getting weird. Eppie could hear vocalised emotions through synaesthesia, with [Perfect Pitch] working alongside [Emotional Intelligence]. Because of subjective bias shaped by Disney’s Inside Out, sadness came across as blue, happiness as a sunburst, joy as yellow, anger as red, and more complex emotions as hues.
+
+Valorie’s weren’t blue. They were… grey-pink? Or something closer to bruised aubergine.
+
+Depression? Or something darker?
+
+She heard someone heavy and tall approaching. It was William. This late, only the Theatre kids and the music students were still on campus, which meant they had this whole section to themselves.
+
+Could I fit into the ceiling? After five seconds of serious math, Eppie decided against crashing down on Val and William through the acoustic panels.
+
+Click. William opened the door. CLACK— William locked the door.
+
+Eppie’s heart shot to one-fifty as the sound travelled up the frames into her head.
+
+“What’s wrong?” William’s voice drifted across the practice space. “Val? Why are you crying?”
+
+“I am going to lose my role.” “Are you now?” “It’s bound to happen. I can’t… I can’t do what she does…” “What did she do?” “She made… she…” “That’s a shame…” “I don’t want this.”
+
+There came the sound of rustling clothes.
+
+Huh? Eppie tried her best to imagine what the hell was happening. Were they getting ready to leave?
+
+Valorie groaned like a purring cat.
+
+“What—?” Eppie looked at the ceiling an inch away. What are these people doing?!
+
+“I don’t want to lose the role…” Valorie’s dialogue came in between Eppie’s appalled imagination. “It’s mine…”
+
+William didn’t answer.
+
+“I can’t disappoint him, Will. He hasn’t been home in weeks. How can I tell him I lost…”
+
+William said nothing again, despite the pleading in Valorie’s voice, begging him for something, for a sliver of empathy, for a tiny bone of compassion.
+
+Eppie’s [Script Analysis] connected the dots between the monologue. She felt on the verge of an intellectual breakthrough when the atmosphere shifted, explicitly.
+
+Valorie made a groan that sounded like… surrender. Eppie had no other readily available word for the synesthesia coming through the ceiling tiles.
+
+The weighted repression changed, fast and total, like the way weather changes over open water. The sounds that came from below weren’t those of teenagers in love, but horrible echoes of what her [Persona] had endured in a locker room for God knows how long. The sound of bodies being shifted, weight being thrown this way and that, reminded her of the bone-dry, scale-on-scale thrashing of copulating snakes. The noises Valorie made, half-crying, half-fighting for breath, were like a dying lamb’s while the fox’s jaws tore it limb from limb.
+
+Her [Persona] wanted to leave. Euphemia Fontaine wanted to leap down the crawl space, tear open the door, and flee into the open space, toward anywhere that wasn’t walls closing in on all sides.
+
+Valorie’s wracking sobs sounded like thunderclaps. Eppie finally knew why she had lost [Causality] at seemingly random intervals.
+
+The [System] had not been forthcoming, because she had no true willingness to help Valorie. Valorie started her ordeal out of inane jealousy, and she was still paying for it. Each volume of [Causality] William thrashed out of her body added to Valorie’s paranoia while preventing him from the total depletion of [Causality] Eppie had fleeced from William.
+
+The more she punished Valorie. The more Valorie turned to William. The more William fed, the more Eppie’s [Causality] depleted.And Eppie… Eppie had decided a long time ago that Valorie was no more forgivable than William. It was… a jagged circle of misery, suspicion, and apathy. The negative [Causality] was the cost of withheld compassion.
+
+She wasn’t sure how long the ordeal took. After the first… ten, maybe twenty minutes, Eppie turned off her [Perfect Pitch] and just… wallowed in self-loathing.
+
+When William did leave, he was alone, humming as he stumbled down the corridor, adjusting his collar, simultaneously playing Chiron and Demetrius. He locked the door behind him.
+
+Eppie dared not lift the acoustic pane, lest she run to a sink and hurl her guts out for the third time since her rebirth.
+
+It took Valorie another twenty minutes to shuffle back into her clothes, then unlock the classroom.
+
+Should I? She wondered. Months ago, Eppie had offered the same shoulder to another of William’s victims.
+
+Valorie was gone before Eppie could make up her mind. She crawled back from the roof space, replaced the furniture she'd moved, then walked, slow and silent, all the way back to the stairwell before she let her knees fold and sat down hard on the cold concrete step and fought down the acid reflux.
+
+She understood William’s mechanism now, how the fox fed. It wasn’t the sex. The carnality was just the process. It was the seed of self-hate he planted in Valorie each time. It was his joyful harvest of the toxic blooms fueled by her fecund soil.
+
+The [System] was right.
+
+Misery and misalignment. Denigration and abasement.
+
+Gods, how unambivalent the [System] could be!
+
+And him. It had to be Francis Sanders.
+
+She finally understood the significance of Francis’ schedule. What Lafitte had sent her, dating back the last three years and then some, was publicly demonstrative evidence that Valorie had lived, insofar as Eppie could see, in the negative space of her father’s cold shadow, begging for scraps that never came. Her heart was a gaping, bleeding hole.
+
+And that hole—was where William had wormed in like a usurping wasp larvae, simultaneously pumping Valorie full of paralytic venom, while hollowing out her [Causality]. Valorie had begged him for affirmation, for reassurance, but he had said nothing while he made a sport of her sweet body.
+
+Thou fox-eyed fiend! Thou elvish-mark'd, abortive, rooting hog! The slave of nature and the son of hell!
+
+Lord! How she hated the man! By Eppie’s estimates, Mio was his first true victim, a girl whose [Causality] he feasted upon. Next, Euphemia Fontaine jumped from that roof because she was starved of [Causality] to begin with. Simone Goode would have been his next victim, either by suicide or abuse after falling to the seedier side of the Chen’s businesses. Then, finally, even with her immense talent, peerless looks and political prestige, Valorie would find a tall roof, and realise—
+
+And then? Would William, like herself, pupate and remerge as some monstrous thing?
+
+She thought of Kelvin, the [Immature Parasite] and Kellie, bleeding and bruised.She thought of Grein, the [Matured Parasite], and the countless hopeful bodies he had debased and disposed of.
+
+Should she find a flower pot somewhere? [Noblesse Oblige] could be very heavy when properly sourced.
+
+Who’s to say that an accidental stumble won’t send a 90lb [Noblesse Oblige] down four storeys onto an unsuspecting [Usurper]?
+
+Hold your pots. Eppie’s [Script Analysis] hissed. What’s with you and pots? Are you not going to Vaughan’s Kiritani party? Are you not meeting Francis Sanders in person?
+
+“Oh yeah…” Eppie thought to herself, suddenly relieved of the dark weight on her frontal lobe. “I guess there really is more than one way to skin a fox.”

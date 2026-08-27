@@ -1,0 +1,179 @@
+---
+id: 9dbac9dc-5fe8-5507-bd81-ed949003a8c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 620 - Archon Compound"
+slug: 0122-chapter-620-archon-compound
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 122
+ownLength: 2571
+unit: words
+ownProgress: 2571
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2665540/chapter-620-archon-compound"
+royalRoadId: "2665540"
+markedReadAt: "2026-06-29T19:39:12.157Z"
+---
+
+Lea was still licking her fingers clean as the Sappherrous family finally arrived at the Archon Compound in the central ring of the new city.
+
+Tala was sometimes amazed at just how large cities were in the early stages. It hadn’t been difficult to get to the center, but compared to Alefast, Waning, it was huge.
+
+The central ring was largely empty, as it would be mostly composed of residential and administrative facilities. There were some businesses and other amenities as well to serve those within, and those areas would expand as the outer rings were abandoned throughout the city’s cycle.
+
+At the moment though, only a few folks were both risk tolerant enough to be in a new city and wealthy enough to have a home in the innermost ring. There were even very few in the secondary ring. As Tala had already observed, at this stage, most people were living very minimally near their work.
+
+Still, Tala and her family had just recently brought nine thousand new people, many of which were skilled craftsmen with their families, staff, and extended networks. Those folks were settling in across the city, bringing their modicum of wealth to bear to carve out a niche in this land of opportunity.
+
+Still, it was odd, passing by so many empty lots, and the few buildings and compounds that there were, stood out like a tavern in a park.
+
+-For the last time, none of them are syphons…-
+
+But they could have been. It was worth checking.
+
+-Fine… I didn’t stop you, did I?-
+
+No, I suppose you didn’t.
+
+The compound was much like all those that Tala had seen in the various cities that she’d visited—the one in tree-Makinaven excepted—and she actually felt a bit of calm slowly build across her as they walked down the entry hall, stepping out into the atrium.
+
+Without even looking up, Tala could take in the massive map of the cycling cities and surrounding wilds.
+
+Thirteen cities lit the map, bright and luminescent in the otherwise dimly lit ceiling map. One was far dimmer than the others, even so. The light for Alefast Waning, was but a flickering candle next to the torch of the other cities.
+
+Funnily enough, the light for this city was not yet lit, which made a sort of sense as Tala considered it further. Soon enough, the fourteenth would shine forth, but only when this city’s magics were fully kindled.
+
+This city wasn’t fully active yet, so it wasn’t a light in the darkness for humanity. Not quite yet.
+
+The round desk at the center of the large atrium commanded their attention, but Tala didn’t miss the dozens of Archons in surrounding seating areas, forming various groups that seemed to be chatting, playing games, or just otherwise relaxing together.
+
+With so few higher end establishments opened, this compound made for a convenient gathering place for the elite of Magical society. That would shift in coming years, but for now, it was interesting to see how many were here.
+
+Rather than being distracted by the potential contacts, the Sappherrous family went right to the central welcome desk.
+
+Behind the round counter, three green lights shone, along with one white, catching the attendant’s attention and causing her to glance down, even as she stood to bow.
+
+Her movements hitched, her eyes widened, and her bow deepened considerably. “Master Paragon, Mistress Paragon, master avian, Miss, welcome to our humble compound. How can the Archons of New Makinaven be of service to you, today?”
+
+Rane gestured toward Tala, and Tala smiled. “We were hoping to be allowed to view the ignition of the city’s magics. Could you tell us when that might be taking place?”
+
+The clerk opened her mouth momentarily, then slowly closed it before frowning. “I apologize. I’m not sure when it will take place. Would you be willing to wait while I get someone with higher authority?”
+
+Tala gave a respectful nod. “Of course, do what you need to do.”
+
+“Thank you, Mistress. I will return momentarily.”
+
+As the young woman navigated out from behind the counter, then went down one of the myriad hallways—clearly heading toward the office of some Archon or other—she was frantically doing something on her Archive slate.
+
+Lea turned toward her parents. “Mom? Dad?”
+
+Tala pulled herself free of her meandering thoughts. “Yeah?”
+
+Rane smiled and looked toward Lea. “Yes?”
+
+“Why do we reuse the same names for our cities?”
+
+“Well,” Rane hesitated, glanced toward Tala. “Do you want me to take this one?”
+
+Tala shrugged. “Sure. Thank you.”
+
+He nodded once. “Of course.” He then turned back. “With every city having such a relatively short life, we’d have needed so many names down through the ages otherwise, and we’d need more in ages to come. Sure, that’s possible, but it’s easier to simply have a small bank of names that we pull from, moving many of the citizenry from one to the next of the same name. There is also power in a name. City Stones function best when properly associated with their city’s name, and if that is changing every few hundred years?” He shrugged. “That would take from their power.”
+
+“But…” Lea frowned. “Master Jevin is the wielder of the ‘Makinaven’ City Stone, and also the tree in which that city is built. Is that just a coincidence?”
+
+Tala shook her head, deciding to add a piece. “Not at all. It almost never comes up, but where such things come into play, we ensure that the same name lands on the required city. We can use it elsewhere, such as this case, when Makinaven only has ten years before it starts its waning. Until then, this city will be New Makinaven. Eventually, that City Stone will move here, and when this city wanes, it will be held outside of the cycle for the short time required to ensure it re-enters the cycle aligned with the proper tree city.”
+
+Rane nodded. “And regardless of anything else, whoever is currently bound to the City Stone travels with it, and is in charge both of utilizing the power at need, and keeping it safe, should it be threatened.”
+
+Lea was nodding. This wasn’t really new information, but while she had effectively as good a memory as Tala, she didn’t have the organization of her thoughts and mind quite as well refined. The reiteration of the information—with some new—in a new context helped to solidify it and make it more likely to be useful to her, going forward.
+
+With the pause in their discussion, one of the other attendants—a young man this time—asked if he could get them any refreshments.
+
+Tala requested coffee, Lea the same, and Rane asked for tea, specifically ‘something local if you have it.’
+
+Tala arched an eyebrow at her husband, and he simply shrugged. “I don’t know what’s grown here, and it’s nice to try new things at times.”
+
+Lea grinned. “Our coffee is probably local. The grow-caves are usually among the first things established. Right, mom?”
+
+Tala considered. “Well, given it only takes about five years for a coffee plant to reach peak production, I think it is somewhat likely that the coffee is local. I doubt that the stuff they offer for free—even to Archons—is some specialty blend that might have to be caravanned in.”
+
+Rane huffed, shaking his head and giving a little smile. “Fine, fine. I was more hoping for something a bit unique, given tea is rarely cultivated in the grow-caves, but we’ll see what he comes up with.”
+
+Tala went up on her toes to give his cheek a kiss. “I hope you enjoy it, whatever it is.”
+
+Soon enough, the attendant returned, skillfully bearing three mugs on a tray. The young man passed cups of dark coffee to the ladies and a cup of reddish tea to Rane.
+
+Rane took a careful sip before his eyebrows rose. “Is that pepper?”
+
+The young man nodded. “There are some native bushes that grow peppers renowned for making the cold more tolerable. In this drink, they are combined with a red tea base and cinnamon. Some like it with cacao powder added as well, but to me, that’s no longer really tea.”
+
+Rane was nodding along. “I appreciate that. Yes, I don’t think I’d have liked it with the cacao. As it is? It’s a nice flavor and the spice is an excellent addition. Thank you.”
+
+The clerk bowed. “We are here to serve. You may wait anywhere you wish, and if you prefer, that seating area is available.” He pointed to one side. “In either case, please let us know if there is anything further that we can assist with.”
+
+They all thanked him and moved in the direction indicated, finding a collection of lightly padded seats, arranged for comfortable, sociable waiting. They were also robust enough that Tala didn’t feel the need to reinforce her or her daughter’s chairs. That was a pleasant change.
+
+Lea turned to her parents after they all sat. “So, why are there so many Archons here? Is this city that dangerous?”
+
+Tala arched an eyebrow.
+
+Her daughter sighed. “Yes, I know, Mom. We just encountered a danger and heard about more, but those could all be handled by strong Mages, or a few handfuls of Archons. There are thirty in here alone, and we’ve seen a disproportionate number of Mages for the population.”
+
+Tala huffed but smiled. “Well, first of all, be careful not to use Mage and Archon interchangeably." She held her hand up. “I know you didn’t, but you’re getting close. There is heavy overlap as all Archons are Mages, but be clear in what you are asking. I believe that you are saying that you have seen a large number of Mages at all levels, and among those, you’ve seen more Archons than expected. Is that what you’re asking about?”
+
+Lea nodded, a half smile tugging at her lips. “Yes. Why are they here?”
+
+“Well, first of all, a new city is a great place to forge a place for yourself, especially if you aren’t established elsewhere. There are Mages and Archons in basically every profession, and they often have more freedom to move to new places, thus allowing them to get a leg up in new cities.”
+
+Lea frowned. “That doesn’t seem very fair to mundanes.”
+
+“Well… it isn’t?” Tala shrugged. “Depending on what you mean, of course. They put up with more danger and invest more into the city than most mundanes do, so they should get more out. There are some mundanes who do the same, and they reap the same benefit.”
+
+“But Mages are more able to do so?”
+
+“Generally speaking, yes.”
+
+The girl grunted but didn’t press.
+
+“Now, that’s only one reason to be here. New cities pay very well for various Mage services, and that’s a heavy draw. Your father and I are more combat oriented, so we are more plugged in to that line of work, but there are Mages laying roads, digging foundations, and assisting with all sorts of other projects. We saw quite a bit of evidence of that already, and the kind utility Mage explained much of what happens magically in just one corner of two of the services provided by the city. There is also the surrounding wilds to clear—or at least thin—of creatures and resources to map. Moreover, it has been hundreds of years since a significant human population has been here, and in that time, some types of artifacts could have come into being.”
+
+That perked the girl's interest further. “Oh? What type?”
+
+Tala glanced toward Rane, knowing that he had more experience in this regard. He smiled first at her, then to their daughter. “Generally, the artifacts that form are suffusion based. It is more common for materials to be created that can be made into artifacts of significant power.” He patted Force’s hilt. “As an example, Force, here, was carved from a tree that spent most of a cycle beside a kinetic-tinged fount. There are also usually some more standard artifacts that adapted as the last waning ended. In those cases, their magics fundamentally change to take less power. These often operate in ways that are hard to understand and are almost always useful to study. The effects they produce are usually marginally weaker, but the cost in power is generally startlingly less.”
+
+Lea leaned back, taking another sip from her coffee as she considered her father’s words.
+
+Tala had already finished her own drink.
+
+Rane took a drag from his, his face flushing a bit from the spice, and Tala saw some sweat forming on the back of his neck, but he seemed to enjoy it regardless. Madman.
+
+-Part of why you love him.-
+
+Absolutely.
+
+A man came from the back area, having clearly overheard at least part of their conversation. He spoke as he strode up to their group of chairs. “There is also the fact that this is a good time and place for the older among our number to reconnect with the shorter lived, mundane citizens.”
+
+The Sappherrous family stood, giving appropriate bows toward the man.
+
+He bowed in return to each of the four. “My apologies for eavesdropping, but voices carry quite far in this place.”
+
+Tala smiled, knowing that he had, in fact, simply heard as he approached rather than pausing to listen as he’d drawn close. “I am Tala, this is my husband Rane, daughter Lea, and bound companion Terry.”
+
+The man smiled and bowed once more, this time taking them all in with the gesture. “Then you are, indeed, the Sappherrous family. I’d suspected.” He smiled, then continued. “But where are my manners? I am Tingain, chief administrator of this fair city for the moment.”
+
+The man was Refined and seemingly on his way toward Paragon, but he still had quite a ways to go. Tala smiled. “Greetings, Master Tingain. Thank you for taking the time to meet with us.”
+
+“Of course. We do have quite a few powerhouses in residence, but it isn’t every day that I get to meet such an auspicious group.” He motioned back the way he’d come. “Now, how can I assist you today? Do you wish a private meeting or…?”
+
+Tala shook her head, and the man turned back to them fully. “We simply seek permission to watch the ignition of the city spellforms.”
+
+“Oh! That’s wonderful. Yes, of course. I appreciate you checking in as it can be frustrating when unexpected sources of power and magical weight are present. If you would like to be here, know that it will be done at midnight at the turn of the year.”
+
+Rane smiled. “That’s a nice, easy way to remember.”
+
+Master Tingain smiled politely. “Indeed. We actually have you to thank for being able to hit that deadline. We have the new city construction down to a science, but things still always come up. Your delivery of resources and manpower will allow us to make the timeframe and kick off this city to as good a start as possible.”
+
+Lea was clearly excited, and Rane and Tala shared an equally glad expression. They’d never seen the ignition of a city before, and so they were looking forward to it.
+
+“If I may ask, what are your plans for the weeks until the event?”
+
+Tala shrugged, then grinned widely. “What else? We’ll train.”

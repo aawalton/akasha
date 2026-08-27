@@ -1,0 +1,335 @@
+---
+id: 4f587b08-c530-599b-a732-6110761dadf0
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 87 — Cat's in the Cradle"
+slug: 0149-chapter-87-cat-s-in-the-cradle
+partOf: metaworld-hopecore
+position: 149
+ownLength: 5559
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3781510/chapter-87-cats-in-the-cradle"
+royalRoadId: "3781510"
+---
+
+"The Child is Father of the Man"
+
+William Wordsworth
+
+Bel Air. The Sanders Manor. Valorie Sanders watched the video of her and Euphemia singing to Francis twice.
+
+She watched a girl on the screen fly into her father’s arms. She watched a father embrace his daughter, actually embrace her, for the first time in years, followed by a slightly comical procession of polite claps from around the room.
+
+In any other situation, the indoor lighting should have ruined the video. Fortunately for the anonymous photographer, her blonde companion seemed to flatter the camera's sensor, vastly improving a recording that should have been grainy and unfocused.
+
+The song faded, and so did Valorie’s revelry.
+
+She took a moment to recollect herself. Her present bedroom was no longer the guest house she had shared with William on far too many occasions. Since the night of the recording, she had moved back into the main house, into a room once furnished for a ten-year-old.
+
+Her princess bed was easy enough to replace, as were the wardrobes, the make-up table, the study desk, and the ensuite, which needed nothing new. What remained was the pale pink carpet, the cream coloured walls, the blushed-peach theme, and the Disney-themed cornice that ran along the ceiling. A shelf of equestrian trophies sat above a window seat, too distant to keep, too nostalgic to toss.
+
+The room itself held two lives: a rocking horse, a hand-crafted dollhouse from Francis' mother, and a vanity crowned with a Russian music box on one side; a guitar case, stacks of LAPA scripts, and rows of clothes racks wheeled in from the guest house on the other.
+
+Valorie walked out barefoot, wearing a comfortable, oversized shirt.
+
+The hall outside ran the length of the west wing, teak underfoot the whole way, lined with photographs that had survived Francis’ return to home living. There were portraits of Francis shaking hands at ribbon-cuttings, Francis at a podium, and Francis with a much younger Val on his shoulders at Disneyland. Her mother’s portraits were now conspicuously missing. Her father was never one to make choices lightly.
+
+Valorie took the back stairs two at a time, the way she had as a kid. The study door was already half-open. It was half-past ten, but Francis was still going over his documents. He had a legal pad covered edge-to-edge in his own small, senatorial annotations. There was a list of names she recognised, federal people. People who had promised to help him move from State to House, or higher, if Sanders leveraged the family fortune.
+
+Francis looked up when she knocked on the solid door. His eyes, the same hue as her own, softened.
+
+“You’re up late,” her father said with a smile. At the end of a work week and without his impeccable grooming, wearing shorts and a wrinkled polo, Francis looked uncannily like a dad who had just returned from golfing.
+
+She gave him her best smile. “May I come in?”
+
+Her father laid down his pen. “You look unnerved. What’s wrong?” Francis could always read people like a book. The difference between then and now was that her father actually cared about what he saw.
+
+It took Valorie a good two seconds to work up the courage to explain to her father what Eppie had told her verbatim.
+
+“... so…with so many people linking to our profiles, I think we’ll be viral, for a while. Eppie says to stay off Social Media until you get me a Media Manager.”
+
+For a brief, terrifying moment, Valorie expected Francis to scowl, or frown, or grow impatient. She waited, her heart at her throat, for the old Francis to make himself known.
+
+Instead of a rebuke, her father looked at her with a knowing grin. “I saw the video earlier today. You looked good.”
+
+Warmth, like the rising heat in a hot-air balloon, travelled up her gut into her chest, then spread into Valorie’s face as a blooming blush of colour. Already see it? Did this mean her father was fine with it? Or was he waiting for her to confess? Or…
+
+“Marcus Teel uploaded the video.”
+
+Her smile froze. The warmth in her chest turned to heartburn.
+
+Marcus Teel, who always sat far too close. Marcus Teel, who spoke for her father with a sympathetic smile.  Marcus Teel, whose eyes seemed to swallow her whole.
+
+An indescribable ick slid into the recess of her chest, settling among the toxic feeling she'd learned to store like salt.
+
+“Don’t worry,” Francis read her mind again. “I fired him.”
+
+Valorie felt the jagged blocks dissolve like sugar stirred into something warm, engendering a sweetness she wasn't prepared to embrace.
+
+“I don’t know why he decided to upload the video,” her father said. “But I knew that it wasn’t for me. His goal… was you.”
+
+Valorie nodded.
+
+Her father’s expression was far kinder than she had ever seen it. “I am so sorry, Val. I should have noticed sooner.”
+
+Her throat grew sore. “Can… can you just fire him like that? He’s been with you for almost a decade.”
+
+Francis snorted. “For an at-will employee? Technically, I don’t even need a reason—but uploading a recording of my daughter, without my knowledge or yours? From a closed-door function at the Met? Teel should thank his stars he isn’t reporting to legal. Come here—”
+
+Valorie slid closer. Francis took her fingers and tried to meet her eyes. “Am I that scary?”
+
+“A little.” She fought down the urge to hug him. Marcus Teel. Gone! Just like that? The relief felt surreal.
+
+“I was scared,” she confessed, fighting the heat in her face and the moisture in her eyes. “I thought I’d be hearing from Teel tomorrow morning, and he’ll drag me into your office for a publicity briefing… that’s why I wanted to tell you first, so we can do damage control…”
+
+Her father pulled her in and hugged her, the same way he used to do in her memories. The physicality of it, however, had evolved. Her father was now the same height. His hands were no longer enormous, and he no longer wore the cologne her mother had used to scent-brand him like a mama cat marking her tom.
+
+“Do you want the video taken down?” Her father asked quietly.
+
+“I don’t think we need to. Eppie said something about an effect. She said removing something people wanted to see would make it spread like wildfire.” Valorie repeated her friend’s wisdom. “She said people probably have it downloaded already. Having it spread underground would just make things weird and add to the speculation.”
+
+“Your friend… is very wise, for her age and education,” Francis smirked. “She’s a good friend to have.”
+
+“I know…”
+
+“Then there’s nothing more to worry about.” Francis tried rocking her, then grew too embarrassed when she didn’t move an inch.
+
+“Dad. The comments…”
+
+“Fuck’em.” Her father’s candidness shocked her. “Can't a father hold his own daughter in public? Can't a daughter sing a song for dear old dad? Is America not the greatest country on earth?”
+
+On the cusp of tears, Valorie burst into laughter. The colliding emotions were so jarring that her tears came out anyway, which made no sense. In their shared moment of careful rapport, Valorie felt, with great certainty, that now was the time to tell her father about the impending storm.
+
+“Dad,” she bit the syllables like they were butter cookies. “I am going to do something in May, in a few weeks,” she said. “I am going to expose William through the play. I am going to do it for Luciana, for Eppie, for Simone, for everyone he made miserable. It… It's not going to be clean. It’s going to be a scandal. LAPA will erupt. The LA Times will publish an article… some of it, maybe all of it, is going to circle back to you, since you granted Omnia the permits…”
+
+“Are you doing all of this?” Francis said, his voice soft like feathers. “Of your own free will?”
+
+Against his chin, she nodded.
+
+“Then you are a better Sanders than I could ever hope for.” his arms enclosed her shoulders, so that she felt safe and cradled and warm, and the comments and the gazes from YouTube no longer mattered. “I’ll be there at your performance. I may not be as tall as you—but I got broader shoulders.”
+
+Valorie wanted to tell her father then, those cliched three syllables that little girls said to their fathers in movies with soft key lighting while a lullaby played.
+
+But there really wasn’t any need for such an old trope.
+
+Nestled on her father’s chest like a kitten, with her arms around him and her ear against his beating heart, she believed Francis completely. She believed, with total certainty, that Francis would be there to catch her, be it from the Whitman’s stage or from LAPA’s roof.
+
+San Marino.
+
+The Chen compound, nestled in their exclusive gated community, didn't announce itself the way old money like the Sanders presented itself. There were no wrought-iron swans, no fountain visible from the street, just a high stucco wall requested by the HOA, a black gate that opened electronically, and, past it, a multi-million dollar mansion with clean modern lines standing in for the neighbourhood’s existing traditions.
+
+Here and there, security cameras nested under every eave, unobtrusive as birds, and just as obvious.
+
+Inside, the house ran cold and quiet, climate-controlled despite its total number of inhabitants fluctuating between one and three. In the main house, at the centre, stood the family shrine, relocated from the Chen’s original lodgings in Chinatown and placed at the end of a long entrance hall. Lee-Kwon Chen had placed his father’s photograph behind a thick pane of glass so the supplicating families could take turns giving their respects during Qingming. In front, a mahogany table with a scarlet tablecloth held joss sticks burned to stubs in a golden dǐng polished to a mirror shine.
+
+To the shrine’s left and right stood the house’s wings. Behind it, past an enormous granite dividing wall, lay the courtyard, the garden, and the open-plan kitchen and dining.
+
+Juxtaposing the distinctly asian decor of the main house, William’s room told a different story through its contemporary minimalism. Usually, it was meticulously cleaned by the staff on a bi-weekly basis.
+
+Unfortunately, much like his life, it was now in a bit of a mess.
+
+Without his picture-perfect partner in attendance, William sat half-collapsed in his ivory Herman Miller Aeron, barefoot and dangling, headphones clamped over both ears, jaw tight enough to ache, scrubbing the same three seconds of footage back and forth for the eleventh time.
+
+His eye bags were starting to accumulate weight. He was on his fourth can of Red Bull.
+
+A part of this brain told him, logically, that to perfect the cut, the grading, the mix and the score, he needed peace of mind. The unhappy part of his brain told him that none of it was now possible, because a bunch of ne'er-do-wells had robbed him of his deserved serenity.
+
+There were the family members who ghosted him, the bastards who pulled out of his project, the pricks who stole his work for their own, and last but not least, the blonde jiangshi who haunted him from her high horse.
+
+And then, there was Valorie. His dearest Valorie, who had revealed herself to be a bigger bitch than the blonde. For months now, William had suspected, rightly so, that some nefarious force was undermining his plans, and if he traced the thread back far enough—past the anger, past the excuses—past his unbridled love—it would lead to the love of his life.
+
+His suspicions had started as a morbid curiosity, beginning with Euphemia Fontaine, fresh off some viral hospital clip, too pretty and too sheltered by Sony to torch for a second time. Valorie’s incessant calls for him to nip her in the bud had been so annoying that he had categorically dismissed the need to deal with “Eppie”.
+
+Then Valorie had gone to New York, and she had returned in tears, but was that really it? Were jealousy and misery the only feelings Val had brought back with her?
+
+Then, the blonde had sung a song about Luciana Mio. She had undone him in front of an audience, and were it not for his impeccable reputation, his credibility would have slipped.
+
+After that, things started to fall apart. Midway through toying with his black Barbie, the Uncles went quiet, all at once. It made no sense why any of them would care—but they did, and he was no longer welcome at the club his grandfather had built.
+
+Then came the cooling, the gradual distance Valorie built so that they drifted further and further, even though he had done everything for her. He had performed every service, every whim; he had even burned through the goodwill the Five Families owed him—just to see Valorie smile.
+
+His reward was betrayal. The ungrateful bitch took the cat.Her mask had come off, just as ‘Euphemia’ had shed her mask earlier. That’s what they were. What they all were. Mask-wearing-phonies. And he had fallen for them every time.
+
+Val wasn’t a compatriot to his loneliness. Val wasn’t the desperate daughter who had lapped up every inch of affection.
+
+It was all an act.
+
+Like his project, William found himself drifting. He’d been watching his own cuts for about six hours, and his sanity was unquestionably frayed. A part of him began to wonder wether Valorie really was untouchable. After all… she’s still just a girl. Luciana Mio had thought that the school would protect her. How did that turn out?
+
+“YOUNG MASTER—”
+
+William half-tumbled from his seat. Torn from his interior world, he pulled off his earphones and turned with a scowl to the door, only to find Jiang. In the dimness, the man’s cold eyes reminded him of a dead fish.
+
+“Young master,” the old butler’s voice was disinterested and neutral. “Chen-ye is home. He wishes to speak to you at the shrine. Please make your way down. I will prepare tea for you both.”
+
+The corner of William’s mouth twitched. Not dinner, not father-son banter, but a CEO summoning an employee to be questioned.
+
+Jiang closed the door.
+
+William took a long, deep breath to inflate himself with courage. He scavenged his wardrobe for clean polos and shorts, brushed his hair, minted his breath, then made his way across the house.
+
+He met his father halfway between the cascading stairs and the sunken shrine, positioned to optimise harmonious Feng Shui. Lee-Kwon Chen stood beside his father's portrait, looking up at his son as he descended. In a corner of the shrine, kept out of the centre line because women made bad Feng Shui, were his mother’s portrait and ashes.
+
+“Ba,” William tried to sound confident; the word that came out was meek.
+
+His father had already placed three fresh joss sticks in the urn, and beside them, a small dish of oranges, a cup of Maotai poured but untouched. He was waiting for William to do the same.
+
+William retrieved his own incense from the pile, lit it with the supplied lighter, and held it in both hands the way he'd been taught before he could properly walk.
+
+“Guang zong yao zu,” his father read the plaque, “bringing glory to the house,” without looking at William. It was less a blessing and more so an instruction. William bowed three times and set the sticks in the urn beside his father's.
+
+“Come to the study. We speak there.”
+
+William’s gaze followed his father's ascent past the portrait of Lee-Ming Chen, the fabled Saviour of Chinatown, the man who had brought prosperity to a community of desperate migrants escaping the shadow of communism. All of them lived in Lee-Ming Chen’s shadow. His father was no exception, and neither was the grandson—Wai-Lim Chen.
+
+Jiang briefly reappeared, motioning to William that he was making the good tea. Usually, this meant the discussion was serious.
+
+In the study, William found his father seated at a mahogany desk far too large for a man of his reduced stature. Lee-Ming Chen had been enormously tall for a Cantonese man, and William had inherited the same height. Infamously, Lee-Kwon did not.
+
+His father’s office itself was, in William's cinematographic eye, a hostile space where the high ceiling swallowed sound, and the dark teak panelling absorbed the warmth. No family photographs adorned the place. “No clutter”, his father once said. There was only functionality and Feng Shui, meaning the desk, two guest chairs in redwood, a scroll of calligraphy by a nationally accredited artist, and jade ornaments like the buk-choi, the ruyi, and the peach tree. The scroll read jia he wan shi xing—through filial harmoniousness, all things flourish. On the far wall, an enormous portrait of Lee-Ming Chen sat above the drinks cabinet, following the viewer with its eyes. As a kid, it had scared the shit out of him.
+
+Lee-Kwon was studying rental documents collated by Jiang for his review. Who paid, who didn't, who owed what, who needed a visit. These days the "visit" was left to debt-collection agencies. It was safer that way, and less stressful on the Five Root Association.
+
+"Sit," his father said, without looking up.
+
+William sat. He loathed how unyielding the chairs were, how they perpetually drained a sitter’s stamina.
+
+Jiang brought the tea—Da Hong Pao, imperial tea—and filled the zisha pot to the brim. His father thanked the man as one might thank an old uncle.
+
+"Drink," Lee-Kwon said.
+
+William hated scalding tea. Lee-Kwon only drank scalding tea.
+
+"How's school?" The question came like a thunderbolt.
+
+“Good,” William answered, fighting down the boiling liquid in his throat. "My film's on schedule. The Chair's happy. I'm on track for the Awards season."
+
+“And your crew?”
+
+William felt his legs turn to jelly. To keep himself from slumping, he let his shoulders loosen, so that he could speak with an implied swagger, the kind he used for the girls at the Lantern Club. “It's fine. Just a staff turnover. Nothing unusual for a graduation term.”
+
+Lee-Kwon looked up, his kind face possessing no hint of kindness. He sipped his tea for a dozen breaths, then set the cup beside the mini electric stove.
+
+"I had a strange thing happen this month," Lee-Kwon said, conversationally, almost idly. "I received no complaints about you."
+
+William's stomach flopped.
+
+“How strange, I thought,” Lee-Kwon said. “You know how much they love to complain about you. Remember that time when you were six? You broke Edson’s fingers over a Batman toy.” His father smirked. “Before, they complained because you cost the business money, or you brought another girl home, or you made someone break a rule. I didn't mind, because through you, they came to me for favours, and I gave those favours, so that I was owed. Your Jia chou, your shame, was of value.” His father turned the phrase over like a coin. “It was good that your uncles cared. Now—nothing. Not a word, good or bad. Can you tell me why?”
+
+“To be honest,” William was fighting more than the tea now. “I hadn't even noticed.”
+
+The lie slid out a little too smoothly. His father turned his head just so, like a gambler inspecting a fighting cock for weakness.
+
+“You didn't notice? I see.” Lee-Kwon folded his short fingers together. He gestured at the spacious room, the desk, the priceless jade, the peach tree in the corner, then made an expression of such disappointment that regret filled William like a noontide swallowing a shallow beach. “But you do notice these things. This place. This opulence you enjoy. Do you not? Wai-lim?"
+
+"I do... sir."
+
+Lee-Kwon's eyes studied him, his nose like a hawk's beak.
+
+“The old country taught us that Zi bu jiao, fu zhi guo.” The fault of the son lies with the father. “So I won't only blame you tonight. I know I am often neglectful. But tonight, I will teach you something.” Lee-Kwon's voice made William shudder. Just how much of the last nine months did his father actually know? How much, if anything, had Jiang told him?
+
+“When I was ten, Wai-lim, your grandfather asked me to accompany him to collect a debt. This was an important debt. He and the Five Families had pooled their savings to create their first business—seafood delivery. It was dirty, smelly, back-breaking work, but it was good money. Demand was high, and they worked without rest. However, the man who managed our commissions did not feel that fish-eyed gooks from Guangzhou deserved to be paid the same rate as the Irish, or the Italians, or even the Polish.”
+
+“One night, while I was doing homework, your Yeye dragged me into an old refrigeration van and drove out of Chinatown for about thirty minutes. He made me ride in the front seat, which was perfectly legal back then, because why the hell not? We drove across LA until we reached the home of his business partner, a British expat who'd called us slurs and told us we were lucky to be paid at all.”
+
+“After we parked, your grandfather opened the glove box. He took out a gun. A Colt 1911, the symbol of the American GI. He had told me a lot of war stories, but this was still the first time I had ever seen him hold a gun. He looked very cool holding it, and he looked cooler while loading it. Your Yeye did not look like an amateur at all. His war stories weren’t embellishments.”
+
+William swallowed hard. He already knew how this story ended. He had just… never heard it told in such detail, and to his face. Usually, the story came out during drunken banter among the older generation after too much baiju.
+
+“We sat there, ten, twenty minutes. Maybe an hour, maybe two. Him holding the gun, and me, ten years old, breathing the recycled air.”
+
+Just like we’re doing now. William’s eyes wandered to the drawer his father always kept locked. Here they are, in 2008, sitting together, side by side, father and son, breathing the recycled air.
+
+“Finally, after an eternity, your Yeye spoke,” Lee-Kwon said. “He said that he has decided that he will not end the life of Mr Lee Edwards, Mrs Edwards, and their two daughters. Your Yeye said this while looking at me. He told me that he saw in his son a better life than whatever… he was seeing.”
+
+“I was ten years old, so I asked Yeye what he meant by this. Your grandfather smiled at me even though I could see he was in pain. He said he wanted to know for certain if the future of the Chen family was worthy. If I were not, then he’d rather the satisfaction of teaching Mr Edwards why a man should always honour his debts.”
+
+Lee-Kwon sipped his tea. “When he told me this, I thought he was going to shoot me after the fact. So I made a decision. I told your grandfather that I would speak to Mr Edwards. He looked at me, amused, and said, ‘Dak’. Okay. I got out of our van, walked into that house—it wasn’t even a nice house. Just a meagre two-bedder with a beat-up BMW in front. Fucking pathetic. And I knocked on his door. One of Mr Edwards’ daughters answered. She was very pretty. I recalled she had red hair, kind of like your girlfriend.”
+
+William’s insides knotted.
+
+“I asked to speak to Mr Edwards. The girl brought me inside. Her family were having dinner. Without stuttering, in front of his whole family, I told Edwards that he needed to pay my father and his workers. I told him how his petty greed had nearly gotten his whole family murdered. His wife was very reasonable. She told him, very quietly, to get me the money he owed your Yeye, Uncle Bu, Uncle Wang, Uncle Bian, Uncle Li and Uncle Meng. She apologised in her husband’s stead and told me that I was very brave. I walked out of that house with a thick envelope of cash—I didn’t count it, so maybe it was short—but I did it. I walked out of that house and back into your Yeye’s van, and watched him cry for the next five minutes. Mrs Edwards was an honourable woman. She did not call the police. We drove home that night, and everyone got paid. Your elders pooled their wages to rent another delivery truck. We continued to work with Mr Edwards until he died… of a heart attack, about a decade later.”
+
+The room was already quiet when his father began to speak. Now the silence turned silken.
+
+“I was ten years old,” his father repeated. “That’s when I became Lee-Ming's heir.”
+
+“I… understand,” William murmured. He didn't know what else to say. His father's patience was a rare treat. This, whatever this was, was beyond that.
+
+His father studied him a moment longer than was comfortable, then Lee-Kwon crossed the small distance between their chairs and put one soft, unworked hand on William's shoulder—a gesture so rare that William flinched, mistaking it for a blow.
+
+“Hu fu wu quan zi”, his father said. A tiger father does not beget a canine son. He said it so aphoristically that it almost sounded like he was channelling their grandfather. Hope and warmth moved behind the kind, cruel face, slipping past the hawk-like nose like a refracted mirage. “I still believe you are a good son. So solve your own problems, Wai-lim. I have great expectations for my heir.”
+
+If William had ever wanted to say, Father, I need your help—if such a want had ever truly existed in him—it lived now only in the fingerless dark of his subconscious.
+
+LAPA. Euphemia Fontaine watched the week eat itself without nary a burp, swallowing time in such voracious gulps that she barely remembered Monday Algebra, Tuesday World History, or the Wednesday drama with the Sophomores when one of the lighting staff dropped a gel sheet from the ceiling, nearly giving Cameron Atkinson a haircut. She vaguely recalled Cooper telling everyone that they had two weeks of school remaining, or Tyker assigning final costumes with personalised tailoring.
+
+What she did remember was being embarrassed to death on Thursday. As announced on her MySpace by Maddie, her new video for Dream a Little dropped at 2 PM sharp.
+
+The news had spread like wildfire, and before Eppie knew it, Sophomore Theatre Arts Block had been converted into a viewing party. Everyone came: her roommates, her Sophomore friends, her compatriots from Senior Theatre: Valorie, Elizabeth, Charles, Joshua and Nathan, the stars of LAPAGANZA, and of course, Zara.
+
+Madison Evans was apparently the organiser, with Min-jun acting as her helpful little assistant. They rigged up a projection system that one of the sophomore film students had borrowed, then placed their captive audience on the horrible, back-breaking seats.
+
+Eppie was placed in Zara’s lap, sheltered against spinal torsion by the softness of her pliant-bodied friend. Their compromised positions were arranged by popular demand; the result of far too many teasing jeers, whistles, and clamour too riotous for Eppie to ignore.
+
+“Alright, alright! It’s starting!” Valorie clapped the crew into silence. Somewhere near the back corner, Cooper and Tyker presided over the gathering like a pair of benevolent gargoyles.
+
+Someone clicked play on the laptop-to-projector display, transforming Internet Explorer into a full-screen video.
+
+Her music video opened grainy and warm, Super 8 static crackling over dawn light. A porch swing creaked into frame, followed by a pair of dainty bare feet floating through dew-heavy grass. Sunrise bled gold through a window, catching dust like confetti. The girl on the swing laughed at something off-camera, magnifying the blissful 90s.
+
+As Webber promised, he had gotten younger actresses to play their past selves.
+
+Like a feverish midsummer night’s dream, the opening cords cut in, the snare drum hissing like cicadas. They watched two little girls tumble through summer grass—one golden-haired and squinting into the sun, the other sun-kissed, cartwheeled past a sprinkler's silver arc. Laughter bled through the tape crank. A mother's hand came into and out of the frame adoringly, but unsteadily. The vibe was unreal. The young actresses, sans makeup, in their 90’s suburban fashion, exuded an unrehearsed innocence that made the Gen Y teenagers self-conscious.
+
+Stars shining bright above youNight breezes seem to whisper, I love youBirds singin' in the sycamore treesDream a little dream of me
+
+Cutaways bled in with the lulling lyrics: a scuffed guitar case, coffee rings on a windowsill, a cassette half-unspooled on a nightstand, each a cinematic shorthand for the quiet evidence of life beyond childhood.
+
+While I'm alone and blue as can beDream a little dream of me
+
+At the word “dream,” the tape seemed to age around the edges, the grains thickening, the colour bleaching toward sepia. Dust hung gold in a single shaft of light. A woman knelt among dusty boxes, blonde hair gone silver at the parting line, pearls and a cashmere cardigan speaking for a reserved life, digging through the archaeology of yesteryears.
+
+As the next verse sang of “linger on,” her hand rested on a small yellow box. She lifted the reel to the light and held it there a beat too long, paralysed by the decision to remember. A brief transition at the bridge showed a battered projector, a pair of wrinkled lips, followed by the sound of a tape being played.
+
+Stars fading but I linger on dearStill craving your kissNow I'm longin' to linger till dawn dearJust saying this
+
+The tempo seemed to slow—then Eppie saw it. The evidence of their labour, the result of what her [All the World’s a Stage] had paid for under the direction of Merric Webber.
+
+Eppie, now an adolescent, was on the swing again, chains creaking in time with the chorus, sandals grazing dust with each pass. Zara sat on the porch step below, guitar propped against one knee, carelessly matching the video’s beat.
+
+True to its theme of memory, dreams and first love, the cameras never held for more than a few seconds. Eppie's eyes, enormous and pale blue, tracked something just past the lens. A close-up of Zara's lips, curling at one corner, chin tilted, left the audience panting.
+
+Stars fading but I linger on dearStill craving your kiss
+
+Then the basement scene came on, and Eppie screamed internally.
+
+A shot—the longest thus far, and thus indicative of a core memory—lingered across the projection. In it, her head hung off the end of the bed, hair pooling upside-down toward the floor. Zara lay below her, looking into the strange inverted geography of Eppie’s face.
+
+For three full seconds, the frame was just hair—blonde, backlit, filling the space between their faces, obscuring whatever was happening underneath.
+
+Then came the final thirty seconds, the outro,
+
+But in your dreams, whatever may beYou've gotta make me a promise, promise to meYou'll dream, dream a little dream of me
+
+Zara on the swing; Eppie cross-legged on the porch.At the final couplet, the two of them together, Eppie's head dropping against Zara’s shoulder, both lit gold from behind—
+
+—the footage grew slack, its elasticity lost to time, a metaphor for memory.
+
+The song ended, clean, and yet sudden—leaving the audience yearning for more.
+
+And yet, the story had been told. Eppie discerned through her [Script Analysis]. The cuts were a little chaotic, but the sentiment it evoked washed over the viewers like a tide.
+
+In the Playhouse, nobody said anything for about ten whole seconds.
+
+“Okay…” Chelsea broke the spell from the floor, phone still recording, eyebrows somewhere near her hairline. “You two want to tell us something, or—”
+
+“That was Director Webber’s idea,” Zara said, far too fast to sound natural, both ears gone to the same scarlet grading at the film’s close.
+
+“We’re just… acting,” Eppie assured them, cutting Zara’s excuse in half while hanging from her neck.
+
+Their audience erupted. The room dissolved into chaos. In an act of callous revenge, Madison rewound the basement scene twice. Min-jun, the most evil boy Eppie knew, began narrating the shot’s cinematography via critical commentary; Chelsea turned her camera on the crowd instead, catching Zara burying her face in Eppie's shoulder. Someone threw popcorn out of nowhere, miming rice confetti. Cranshaw did a slow-motion swoon into Joshua's lap, perfectly miming Eppie’s acting, and said: “I do.” Valorie laughed so hard she almost threw up her lunch, which set off everyone else into hysterics. Eppie saw Cooper and Tyker trade a look from the back and decide to quietly leave via the side exit.
+
+The video started again. Caught in the moment, Eppie felt as though transported back to Lana’s private preparatory, to the guileless days of laughing until her belly burned among friends whose faces were long forgotten.
+
+Such a flood of [Causality] poured into her [Persona] that she could barely see Zara’s tear-stained, embarrassed half-to-death face. Her whole body tingled. She felt unspeakable gratitude to her friends, to Mueller, to Webber, to the film crew and to the post-processing artists for this gift—for now, brimming with joy, Euphemia Fontaine would woo the world with her LAPAGANZA.

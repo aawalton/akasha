@@ -1,0 +1,161 @@
+---
+id: 2ac02487-76ac-57e2-9b45-3c60db7507ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 638 - Endure or be Devoured"
+slug: 0141-chapter-638-endure-or-be-devoured
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 141
+ownLength: 2283
+unit: words
+ownProgress: 2283
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2780156/chapter-638-endure-or-be-devoured"
+royalRoadId: "2780156"
+markedReadAt: "2026-06-29T19:39:35.199Z"
+---
+
+Tala looked up into the massive eye that regarded her from the Doman-Imithe.
+
+No, that’s not quite right. She was having a bit of trouble getting her perception to properly interpret unexpected things in this pseudo-space.
+
+The creature wasn’t… physical… It had a physical form, but just as Kit hadn’t really been a leather bag, this creature wasn’t really the amalgamation of darkness and cast-off matter that she appeared to be. The ‘eye’ that Tala was having trouble perceiving past was more an overwhelming sense of being watched so potent that her cognizance simply created the impression of an eye watching her to have somewhere to attach the feeling to.
+
+Similarly, what had opened wasn’t really the Doman-Imithe. Instead, it was more accurately the space between the superficial and the Doman-Imithe. It was useless to talk about distances in the true void, but even so, Tala did get the impression that this being resided closer to the Doman-Imithe than Zeme, as such things were.
+
+Regardless, the creature’s question hung in the pseudo-space in which Tala’s soul currently resided, untethered to anything save the vast working of power bent toward prepping her Reforging.
+
+Tala manifested her will into words. “Your daughter? You are Kit’s mother?” She pulled her thoughts together and continued. “So, you are the Devourer?”
+
+A sense of pleasure radiated through the cracks in existence itself. “So, you know her true nature then? I had wondered why my little Devourer of All hadn’t returned in so long. My daughters usually visit between incarnations, and this one has been long absent.”
+
+Tala reeled a bit, confused at the verboseness of this entity, until she realized what had happened. She was sensing the spirit of the creature and taking the ideas that it sent her way and interpreting it as best she could. The actual impartment had been something like ‘good’ with all the shades of feeling and layers of understanding behind that single ‘word.’
+
+Tala was about to respond, better ready to interact now that she understood the situation more fully, when she felt a part of her bubble up from within. Rather than sending words, she conveyed an impartment in return, and that came forth not specifically at her will, but definitely aligned with her. Even so, Tala’s mind still translated it from the simple ‘Peace’ that was sent. “Mother, we are already bound. We are the Ravenous, Jealous Devourer, the Iron Matriarch. I am as we all wish to be. I am ensouled and forever united. This is but the last step so that even death cannot take this from that which is me.”
+
+There was a sense from the breach of uncertainty, followed by understanding, and finally joy. “The loss of the lesser separation for the greater whole and unity. Not all could choose this path, but to be devoured in order to devour in turn is as true to our nature as many other paths. I will not prevent this.”
+
+Tala almost smiled, but she couldn’t. Again, the simplest way to take in the entity’s words would have been ‘acceptance’, but there was just so much more in the impartment than a single word. Because of that, her mind rebelled against the very idea of taking it at that simple level.
+
+‘Parting Gift.’ Expanded and extrapolated to: “You are but true mother of one, yet you claim the title. I am true mother of uncounted. I give you an impartment, a weight to the title that you will truly earn.”
+
+Tala’s metaphorical eyes widened as a weight of existence that she couldn’t properly quantify pressed down upon her very soul.
+
+In that instant, she realized just how flawed her previous understanding was. If she had somehow reached this point with the mistaken certainty that she had to be utterly without ties to others in order to Reforge, this would have broken her.
+
+A cord of reality larger than any she’d ever witnessed slammed into her, not trying to attach, but simply enfolding her and streaming past before withdrawing once more.
+
+Tala was inundated with joy from literally millions of minor successes, each burst coming from watching a descendant who had succeeded in some task large or small. Close on the heels of that came a wave of sadness at the deaths and other minor troubles of so many as well, over and over as each was reborn, recreated, or reincarnated uncountable times all across Zeme and… elsewhere?
+
+What Tala got wasn’t really visions or memories. Instead, it was the overwhelming combined emotional weight of having uncountable daughters, each a source of pleasure and pain as they made their way through existence.
+
+Tala staggered, her gate groaning under the strain. Terry’s spirit, wrapped as he was around her gate, was able to help hold it all together, his will entirely bent toward keeping her intact.
+
+After it passed—whether after a moment or a decade, Tala couldn’t tell—the cracks began to seal and a final impartment was sent. ‘Survived? Good. Thrive.’
+
+Tala didn’t bother to expand that one, the meaning was clear enough. She sent back. ‘Gratitude. Endure or be Devoured.’
+
+As the crack sealed, a last impression carried through on a tide of mirth. ‘Endure or be Devoured.’
+
+* * *
+
+Tala just floated there, disembodied, for a long time, simply processing the massive influx of experience that she’d just been granted.
+
+That really was the best word for it. She hadn’t been given memories; she hadn’t been shown lives or events. Instead, she’d had the emotional growth and maturing of perspective that came from centuries of mothering reincarnating creatures.
+
+Just as a baby often screamed as if the pain it experienced was the worst thing to ever happen to it because it literally was. This was the equivalent of a child growing up and then experiencing that same minor bump. They didn’t actively remember every scrape or injury they’d had along the way, but their experience confirmed to them that this one? This one wasn’t that bad.
+
+That was the gift she’d been given, and she really didn’t know what to make of it.
+
+It wasn’t a bad thing. In fact, it addressed one of her greatest concerns in immortality by not only preemptively knocking the edges off potential heartache in the future, but she could also feel that she was prepped to take far greater joy in the little pleasures in life, at least pertaining to those she considered her progeny.
+
+Eternity was a long time, and it would be more torture than a short life—however violently ended—without a proper appreciation of what came.
+
+As she considered, she felt Rane’s presence, not physical, but with her nonetheless.
+
+His soul bound to her through choice and action rather than an act of magic, was partnered with her in ways that she simply couldn’t fully wrap her mind around.
+
+She felt his love and faith in her reflecting her own love and trust in him. He was excited for her and excited to see the results.
+
+She had a moment’s concern that he was hoping for something from her change, that he wished she were different somehow.
+
+In a way, she was right. He did want her to be different, but the manner of the wishing was at once utterly expected—based on her deep knowledge of him—and entirely beyond her expectations—based on what she’d been taught and seen in other relationships.
+
+He wanted her to be different because she wanted that for herself. His soul radiated hope that whatever changes she wrought would satisfy her own internal discontent with herself. That in the end, the results would help her to see herself as he saw her: Loved and lovely, exactly as she was and chose to be.
+
+With that reconfirmed anchor, and Terry’s presence contentedly holding her very gate together, Tala turned to one of the last components of her Reforging.
+
+Her body.
+
+Tala was instantly looking at her old physical form, sitting crosslegged inside its circle.
+
+This was the form she had been born with. It was the one that was related by blood to her siblings. A small part rebelled at losing that connection, but that would be like her mourning the loss of an arm, regrown through magic. After this, she would be her, as much related to them as she'd ever been. And even if that weren’t true, Lea had proved to her that the bonds of soul and relationship were far, far more important than any of mere blood or genetics.
+
+Rust, Rane had taught her that too, though it was harder to consider things in that way in regard to a husband. She expected to not be blood related to him, so the lack of that tie never really came to mind beyond that.
+
+She regarded her flesh, bound to her soul, but not a part of it.
+
+With an act of will, the body burst apart into motes of power, the magics shifting and setting into the new body, overlaying the inscriptions that replaced those left behind, the natural magics seamlessly joining and empowering those ready and waiting.
+
+Beyond that, the idea of her body came through, settling into the reality iron form more truly than any material integration.
+
+That was it. She couldn’t go back, if she stopped, her soul would simply pass on.
+
+Yet, even so, she felt no fear.
+
+This is what she wanted, and she was ready.
+
+Alright. Let’s do this.
+
+* * *
+
+Tala floated behind her body—her new body—hovering in line with the keystone that was ready and waiting across and within the form’s back.
+
+She had had a momentary, wild idea to instead manifest her soul within the head to match her daughter, but doing so would entirely rust the schema that Mistress Holly had created and which Tala had spent years memorizing and understanding down to the last detail.
+
+No, the time for changes had passed.
+
+A final verification allowed Tala to confirm that the magics that had come from Kit were entirely enmeshed with their counterparts within the new, true form.
+
+The expanded space, the sanctum, Ironhold, and Walden and Lupe’s subholds were all, in a very real sense, compacted and contained within the body, even while they were obviously stoneward of that superficial form.
+
+Her being within at that moment might have been a problem for this step, except that Tala fully intended to continue to come into her sanctum, Ironhold, and the rest whenever she wished, so avoiding this potential conflict in her Reforging might have ruined that.
+
+Instead, she felt her reality node acting like a rope, tied to itself. There would need to be some sort of anchor on the superficial, but that wasn’t new, and the issue would be headed off before it could form.
+
+Kit had accomplished this by effectively having the spaces exist stoneward of superficial, being their own anchor.
+
+That wouldn’t quite work as Tala intended for her expanded spaces to be all but undetectable from the outside.
+
+Instead, they were maneuvered into the space between, her void magics facilitating each to slip into the void, only her full encapsulation of each keeping it from floating away and vanishing forever. At the same time, her gate was undergoing a fundamental change, opening her entire body to the next world. Just as with each previous advancement since she’d bound Kit, the magical density throughout the expanded spaces swelled to match her own, newly advanced density.
+
+Aside from the human shaped form before her, uncountable, spider-silk-thin chains of reality iron spread out around her in two layers of distinct webbing, one just starward and the other just stoneward of where she was, carefully positioned at such an increment that they wouldn’t ever physically interact with the various other holds or homes.
+
+She’d gotten the idea from her own unconscious practice doing just that with the iron she’d had along with her for years now, always close, but rarely detectable from the superficial. Well, that and the various homes of the fox-kin, which always seemed to behave exactly as they needed.
+
+As to what the colossal web of reality iron chains would do? She was excited to test countless theories.
+
+There were two things that specifically needed to be addressed with her new, Reforged form before she actually completed the act.
+
+First, and one of the things she wanted to check was her womb.
+
+She focused in, examining and verifying exactly what she’d expected to see. Not only were the magics for nurturing, protection, and preserving the unborn in place and ready, but those very ideas, precepts, and alterations were physically instantiated as well.
+
+If any body could accept a nascent existence soul and nurture a body capable of housing it, it was this one, and with her added well of maternal experience from the Devourer, she felt like she was even better able to make that assessment.
+
+She grinned as she maintained the incredible compression and distortions required for all that she was bringing together for the Reforging.
+
+The final item was her left hand.
+
+It had been taken from her down to a fundamental level, erased from her existence beyond any ability to be rectified for Paragon Tala, but that was who she had been.
+
+This new Reforged Tala was not so crippled.
+
+Her left hand was there on the new body, no different than the right because it didn’t need to be. Reforged Tala had no infirmity to overcome. It simply was there, and that was that.
+
+Tala grinned. Everything was gathered, sorted, and arranged.
+
+It was time.
+
+Then, all the components were collected and ordered, brought together and ready.
+
+It was time to actually Reforge.

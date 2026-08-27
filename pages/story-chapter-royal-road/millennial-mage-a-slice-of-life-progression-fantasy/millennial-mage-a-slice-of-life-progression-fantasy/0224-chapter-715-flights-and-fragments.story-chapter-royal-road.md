@@ -1,0 +1,265 @@
+---
+id: a5e88e7e-e9ec-5b8c-bc51-2790a5e44c4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 715 - Flights and Fragments"
+slug: 0224-chapter-715-flights-and-fragments
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 224
+ownLength: 2736
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3541983/chapter-715-flights-and-fragments"
+royalRoadId: "3541983"
+---
+
+Tala was already in the sanctum, attached to her flier and zipping northeast, in the direction of the growing Black Legion emplacement.
+
+Information was pouring in from several scouts in the area—more and more as other groups converged to get a more holistic view—and it was… interesting.
+
+Less than an hour after its discovery, were already easily more than ten thousand Black Legionnaires that had been seen on the rise in the Wilds, and they were all seemingly linked and projecting a powerful field.
+
+Archons had been trying to get closer looks, and even Paragon level workings were breaking apart before they came within a mile of the growing gathering.
+
+The rise in the land was such that it could likely hold factories underneath, secreted among the bedrock of the jutting landscape.
+
+The high iron content could both explain why their earlier magical sweeps hadn’t seen them and provide a convenient resource for the construction of new automata, but it all felt a bit too convenient.
+
+The alliance had been scrambling all across the continent for weeks, unable to find hide nor hair—nor nut nor bolt—of the Legion’s base or factories, and they really should have.
+
+Tala, herself, had methods of detecting any new, large source of magic or even reality. The power of either kind should have lit up to her like a beacon when it was first fired up, but there had been nothing.
+
+That left either a way of hiding that they didn’t understand and therefore couldn’t account for, or the potential that they had established the bases or factories before Tala had been actively trying to pay attention with the ability to do so as a Reforged. That would mean nearly four years earlier.
+
+Neither idea was very pleasant.
+
+Now, though? She could see the building power of reality like a beacon.
+
+It was loud and easily visible.
+
+Convenient.
+
+It was so obviously a trap that it was almost laughable.
+
+Tala might even think of it as an insult to their intelligence, except for one thing: They couldn’t just leave them there, even if it was a distraction or a trap.
+
+This was already the largest concentration of Black Legion forces since the initial assaults—Rust, it was larger than any one of those too—and the alliance couldn’t allow them to entrench the position more than they already were.
+
+They also couldn’t simply attack, unfortunately, and it was looking like this would take a monumental effort to unseat the Legion.
+
+The one Refined who had been near enough to try to get close—in the hour or so since it had been discovered—had found their entire being suppressed as they snuck up to the base of the harsh terrain.
+
+Paragons had attempted to use detection magics from afar to virtually no effect.
+
+Master Xeel was inbound, but he’d communicated that even if he could arrive with his full power intact, he didn’t feel confident in destroying thousands of the automata on his own. As such, he wasn’t rushing, instead taking the time to shore up some positions on the way.
+
+Tala was a bit more… enduring than the other powerful Reforged, which she had gained in balance for her slower travel speed and lower ‘burst’ damage.
+
+Still, she felt herself grimacing at the idea of trying to fight through so many on her own.
+
+-The mental exhaustion would get to us even if they simply stood and let us work through them in efficient bunches. If we’re trying to permanently end them as well? I think we’ll be lucky to overcome a couple thousand in a day.-
+
+And we’d be worn out and vulnerable both during and after.
+
+-Exactly.-
+
+This wouldn’t be a task for an individual. If it was what it looked like, it wouldn’t even be a task for a strike team or two.
+
+They would have to bring an army to counter an army.
+
+The tenor of the war had just changed once more.
+
+* * *
+
+Tala all but tore across the plains toward the perimeter that was being established around the Black Legion’s escarpment.
+
+Reports were continually pouring in as more and more arcanes and Archons gathered around the known enemies.
+
+Apparently, the preliminary and primary source of information was a human of some oddity, formerly of the Cycling Cities, but she’d left a few centuries earlier.
+
+These days, she offered her protection to a few of the wandering cities in the plains. Regardless, she had been passing this way between two such cities as she made her rounds, and she had been the first to notice the oddities.
+
+Apparently, the large, lifted plateau was generally avoided because an odd pair of creatures had called it home.
+
+Two drakes, one clearly a magical beast, tied to the region, and the other just as clearly a beast of reality.
+
+Together, they’d kept any sapient user of magic—gated or not—at bay and away.
+
+This scout ‘thought they were beautiful,’ and so she’d been flying close to the edge of their known territory to see if she could catch a glimpse of the beasts when she had detected the Black Legion’s workings within.
+
+That had started the chain reaction of other scouts sweeping inward, confirming what she’d found and learning more besides.
+
+Tala took time and attention to pour through all those reports, doing her best to build a true picture of what was happening.
+
+When she finally arrived nearly four hours later, she thought she knew what to expect.
+
+Unfortunately, no one else had as clear a view of reality as she had, and so they couldn’t possibly have properly forewarned her.
+
+Tala popped back to the superficial—tucking her flier back into the sanctum—landing lightly on a hilltop, her eyes locked on the jutting rock some three miles distant.
+
+To her perception, reality was roiling.
+
+Even as ambient magic flowed in, threads and nodes seemed to be shifting, absorbing and negating the power, while drawing everything deeper in a process that was unlike anything she’d ever seen before.
+
+And it was on an entirely unseen level when considering mundane vision.
+
+With her most recent stop, she knew what it looked like. No… That’s not true… That’s impossible!
+
+-So, you see what I do.-
+
+Are… are they forging a world-fragment? That doesn’t even make sense!
+
+-By ‘forge,’ do you mean creating or faking?-
+
+Either? Both?
+
+-Then… yeah. That’s definitely what it looks like.-
+
+Rust. There was one very important difference between the world-fragment she’d so recently left behind and whatever the Black Legion was building before them. No magic was present within, at all.
+
+All magical power that tried to cross in the zone seemed to be consumed to fuel the process of creation and expansion of whatever they were doing.
+
+Tala needed more information. Get me that woman.
+
+-Vera.-
+
+Fine. Get me Vera.
+
+-On it.-
+
+Several Archons and arcanes had seen her land and were making their way toward her, but before any of them arrived, a streak dropped out of the sky.
+
+At the last moment, wings—honest to the stars, feathered wings—snapped outward, catching the air with the aid of magic and arresting the otherwise meteoric drop.
+
+The Mage’s brilliant red hair whipped around her head, showing off pointed ears with blue feathers—seemingly part of some bit of jewelry—holding back most of the auburn locks.
+
+Her outfit was odd enough to note. Long gloves and high boots were made of supple, black leather, a tight white shirt that was held down by the gloves and a thick belt, and the outfit was completed by a skirt that was slitted to leave much of her upper thighs bare for rapid movement and extreme range of motion.
+
+Tala’s threefold sight showed dozens of odd, azure-glass knives, bound in bronze, secreted around the Mage’s body.
+
+But all of that faded from notice in the face of two things.
+
+First, there was the pair of what looked to be roc’s wings sprouting from the woman’s back, coming through slits in her outfit clearly designed for them. Not magical manifestations, then?
+
+Second, she was not Reforged, explicitly so. Instead, she was Paragon, pushing hard up against Reforging in a manner that reminded her of Master Jevin while being rather different.
+
+This woman seemed to have tried to Reforge, but stumbled at the last, failing to claim full authority over her physical form at least for the moment.
+
+If Tala had to guess, this woman’s wings and other clearly non-human aspects—both physical and magical—were likely to blame.
+
+Are you sure she’s human?
+
+-There’s really no reason for her to lie, and she matches the description both visually and magically of a Mage Hunter who left a couple of hundred years back. Well, she matches closely enough.-
+
+Understood.
+
+Mistress Vera landed lightly, the air settling around her, her clothing falling perfectly into place, looking almost as if it had just been laundered and freshly pressed. She gave a precise bow, showing she not only knew who Tala was but actually understood arcane culture well enough to give the proper abasement. Her words confirmed the first part as well. “Mistress Tala Sappherrous, Eskau of the House of Blood, Eskau of War. Thank you for coming in this time of… need.”
+
+Tala gave a proper nod in response. “Mistress Vera… Is that the proper form of address? I understand you left the Cycling Cities. Do you prefer Greater? Paragon?”
+
+Mistress Vera had a prim smile, even as magic swelled around her in a clearly unconscious action, lifting her to hover an inch or so off the ground. “I would feel arrogant to ask you to address me as ‘Greater’, so either Mistress or Paragon work just fine as a moniker.”
+
+“Very well.”
+
+“And how should I address you?”
+
+Tala almost just told the woman to call her by her name, but she remembered that such was often seen by Mages—especially older Archons—as a sign of intimacy, and Tala did not want to complicate things with misunderstandings. “Any honorific or title you choose will be acceptable for me. My preference is for the shortest you are comfortable with.”
+
+“As you wish, Mistress Tala.”
+
+-Did you just realize that you prefer interactions in the arcane lands?-
+
+No? Maybe? Culture is odd…
+
+“Now, you called on me? How can I be of service?”
+
+“Tell me what you saw.”
+
+Mistress Vera conveyed essentially what her reports had, adding a bit of flavor in the oral retelling. She also spoke of how she was concerned that the drake pair might have been harmed in some way by the Black Legion in order for them to be able to establish a base there. After all, the two had been Paragon equivalents the last time she’d caught a glimpse of them nearly ten years earlier. They would hardly have been easily scared off.
+
+As they talked, a beast-kin joined them, setting off Tala’s perception once more.
+
+This was a wolf-kin, but a massive brute of a man, even hunched over to facilitate his oddly inhuman gait, he was still taller than Rane was. In that way, he seemed more wild and beastlike than the one who had challenged Rane to a duel some years back.
+
+She almost did something to raise herself up to his eye level, but remember the dwarven City Lord and how she’d had to suppress her mirth at him doing exactly that.
+
+She stayed where she was.
+
+Her thoughts played over the beast-man. He reminded her more of the reality-warped wolfmen that plagued the Cycling Cities on occasion, far closer to beast than the usual wolf-kin were.
+
+For clothing, he wore heavy, treated leather armor in shades of gray and brown. From his waist hung a pair of machete like weapons that he rested his hands on with unconscious ease.
+
+His fur was dark gray and black, and his eyes were a subdued violet.
+
+Why am I noticing so much more about these people than usual?
+
+-No idea? We’ve been in the arcane lands for so long that we’re used to those people and their manner of dress. The Wandering Wilds are filled with all sorts, and it makes sense that we’d take in that difference upon exposure.-
+
+I suppose that could be it, yeah.
+
+The wolf-kin bowed, hand to his chest. His actions showed he knew who she was, but he seemed to not feel a need to speak toward that effect. “You may call me Kor. I have scouted the perimeter and found no break in the circumference. It is also circular from the best that my senses and workings can determine.”
+
+She arched an eyebrow. “You ran around the entire circle?”
+
+He shrugged, but Mistress Vera answered. “Kor was the second on the scene, and he is both fast and enduring.”
+
+Kor gave a small bow toward the slight redhead. “I observed things of magic both pass in and be subsumed with the slow expansion. Both lost all detectable power, though whether that was from a true draining, or simply something changing so I could no longer detect it, I was unable to determine with speed.”
+
+Tala nodded, asking a few further questions of Kor, and the wolf-man was quite articulate in his answers, though they didn’t provide anything new.
+
+Finally, Tala gave a nod. “I think we need to create a base of operations. I want the two of you to do that near here, and I will go investigate the field.”
+
+Kor nodded once more, but Mistress Vera frowned.
+
+“What is it?” Tala wanted to get moving once more.
+
+“I… I don’t like staying in one place, Mistress Tala. I am happy to continue to scout for a time, but I cannot stay for very long. I should not be in charge of setting up a camp.”
+
+Tala raised an eyebrow, taking in the woman’s twitching wings, and her slightly higher hovering altitude. Definitely something odd in a merging or bonding, but she’s just as obviously not a danger. She’s not going to turn violent. Tala sighed. “Very well. Please continue to keep a bird’s eye view on the enemy, and report anything of note for as long as you are willing and able.”
+
+Mistress Vera visibly relaxed. “I will.”
+
+Without further hesitation, the woman’s wings spread wide, and with a downward beat and surge of magic, she shot into the sky.
+
+Kor grunted a canine laugh. “She’s a flighty one. Good eyes, though.”
+
+Tala grunted in response. “Seems so.” With a sigh, she nodded to herself before looking to Kor once again. “Are you willing?”
+
+“Yes.”
+
+“Good. I’ll be back shortly.” Without further delay, Tala jumped toward the slowly expanding field, ready to learn what she could.
+
+It was unfortunate that she couldn’t just flicker there, but she was far from her base of power and authority, and it would have taken longer to establish dominion over the area to a sufficient degree than it would have to just move herself in a more traditional manner.
+
+True, she could have sent out iron spikes, but there were a lot of unknowns here, and she also didn’t know how the action would affect those who had come to the area to help.
+
+Regardless, the trip only took a minute or so, and soon enough she was standing before the edge of the field.
+
+It was impossible to miss.
+
+Like a theoretical black hole but for magic alone, none of that power came out despite the light and even a gentle breeze that passed through.
+
+It was an impenetrable sphere of darkness to magic.
+
+Her threefold sight was able to give her perception of everything physical—all layers of it even—but nothing to do with power.
+
+Tala straightened, preparing to touch the surface.
+
+Hey, worse case I can probably just regrow my hand, eh?
+
+-...I don’t think that losing your hand is the worst case, Tala.-
+
+Well, we’ll never know until we try.
+
+-Good to see you back in proper form.-
+
+Thank you?
+
+-It wasn’t a compliment. How have we survived this long?-
+
+We are rather shielded from the reality of our dangers.
+
+Alat sent an unamused look. -Just touch it already. I’m ready to learn something new, die, or be able to tell you I told you so.-
+
+Tala chuckled, sheathing herself in armor even as she reached out.
+
+She wasn’t actually willing to be foolish about this, but they did need answers, and she could get them.

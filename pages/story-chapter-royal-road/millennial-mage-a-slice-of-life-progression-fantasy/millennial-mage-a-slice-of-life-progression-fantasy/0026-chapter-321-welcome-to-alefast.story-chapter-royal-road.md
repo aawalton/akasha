@@ -1,0 +1,273 @@
+---
+id: a668202b-a51e-5cf9-8852-7a9cb18aa6c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 321 - Welcome to Alefast"
+slug: 0026-chapter-321-welcome-to-alefast
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 26
+ownLength: 3107
+unit: words
+ownProgress: 3107
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1329187/chapter-321-welcome-to-alefast"
+royalRoadId: "1329187"
+markedReadAt: "2026-06-29T19:36:07.976Z"
+---
+
+Here Begins Book 9
+
+Tala kept up the pace of a light jog in the crisp, night air.
+
+She and Master Cazor had spent the whole day experimenting with iron in various capacities.
+
+In almost every regard, their experimentation simply confirmed what was already suspected about Tala’s control and manipulation over iron.
+
+So, more than anything, it was a relaxing change of pace and a fun new method of training.
+
+Thoughts of the day drew her mind toward the times before, and she cast her mind back over the last month or so, using the regular cadence of her footfalls to lull her into internal contemplations.
+
+She was glad that she’d spent all of the time that she had with her siblings. While she still felt a bit awkward around them, it was gratifying to actually feel like she had younger brothers and sisters once again. It was funny that, in many ways, she was a parental figure to most of them, given her role as an established adult overseeing their rightfully childish play. Maybe more of a crazy aunt.
+
+-Yeah, I could see that.-
+
+She had undeniable authority over them in some regards, especially when they were visiting her, but she also had proven that she didn’t see herself as obligated toward them at all.
+
+-Yeah, definitely more of an aunt than a parent. But, hey! You’re a fun aunt!-
+
+Tala smiled at that but didn’t reply. She didn’t feel the need to.
+
+Apart from her time with her family, her training was coming along well.
+
+While sparring with Terry was an exercise in futility if she were simply focused on victory, she felt like it was a wonderful whetstone upon which to sharpen her reflexes and combat awareness, among so many other facets of her abilities.
+
+Even so, it really was a shame that she didn’t have any venue in which to practice her full suite of abilities and deploy her full arsenal. Hopefully, this next venture would provide such.
+
+That brought her mind to her encounters in the wilds.
+
+The upland tiger had been an insane opponent. The more she’d considered it, the more she was uncertain if she would have been able to triumph, even without restrictions.
+
+She thought she could have, but she wasn’t sure and that worried her. She needed such opponents to push herself, to try herself against, or she was going to stagnate.
+
+There was also the Mage that she’d watched become a fount, and then subsequently sent on to the next world.
+
+She’d been paid basically as soon as the job was done—Mistress Ingrit had seen her memory and instantly verified the job was done, so that hadn’t been a problem. It was an easy, if sparse, source of income that she should keep in mind.
+
+There were also all the half-formed insights that she’d caught glimpses of through the process, but those would take a lot more discussing and fact finding before they bore any fruit.
+
+No, what had been an issue was finding that man’s family.
+
+Alat had taken on that task without even having to be asked, but even with a month’s time, she’d been coming up blank.
+
+-It is rather frustrating. No one matching his description has gone missing or been known to have departed to become a fount in the last three months. I checked with key individuals in Bandfast, Marliweather, Arconaven, and even Retindel. Nothing.-
+
+Why did you restrict it to those cities?
+
+Alat made an irritated sound within Tala’s head. -Because I can’t just blanketly bother city officials across all of humanity over a single Mage. I need to be strategic on who I inquire with and how I follow the threads that I find. People are usually okay with being reached out to individually, even for small things, but if it comes across as a ‘I just messaged everyone, you all solve my issue and tell me the answer’ people would likely get irritated.-
+
+Ahh, yeah, that makes good sense.
+
+-I’m glad that you approve of my methods.- There was a bit of humorous mocking in the alternate interface’s tone.
+
+Tala felt herself smile. Thank you for handling it, Alat.
+
+-It’s what I’m here for. I’m glad to help.-
+
+Their conversation, and Tala’s internal musings, moved on from there as she continued her night-run to Alefast, Waning.
+
+While she had considered staying in Bandfast for the night after her day with Master Cazor, she honestly hadn’t seen a point.
+
+She didn’t need the sleep.
+
+She’d already said goodbye to Lyn and Kannis, and waiting until morning would only delay her arrival, needlessly.
+
+On the funny side, she’d already had to skirt a caravan encampment during her jog. Doing so had reminded her of her own first contract between these two cities and had caused her smile to settle ever more firmly in place.
+
+As to this trip, Tala wasn’t moving as quickly as she could have, but she wasn’t going slowly.
+
+Terry had declined to run with her, so she was truly alone as she traversed the dark landscape.
+
+Fully wrapped in iron, she wasn’t announcing herself as a tantalizing target and her magical resonance was reduced to the extreme. Even so, there were still some limits to the speeds she could safely travel at, if she were inclined to push herself.
+
+I really do need to discuss such things with Master Grediv.
+
+-There does seem to be a lot in that category, doesn’t there?-
+
+Undoubtedly, yeah. There will probably be other powerful Archons in the area too, right?
+
+-Oh, absolutely, yes. By the records and inferences that I can find, there should be at least two hundred Archons who are Refined or more advanced.-
+
+That was… a lot.
+
+-Yeah. I was surprised by the number too. Though, when you think about it, it sort of makes sense. All told, there are just above two and a half thousand Archons who are Refined and higher, across a human population of well over ten million. Let us not forget that Refined and above don’t die of old age. Therefore, there have only been that many… ever. Neglecting, of course those that have been killed, which I would hope is not that many.-
+
+Tala found herself nodding, her smile gone. And even so, they are less than two-and-a-half percent of one percent of humanity.
+
+-‘We.’-
+
+Hmm?
+
+-You should have said, ‘we are less than…’ You’re one of them.-
+
+That was… an oddly horrifying thought.
+
+On one hand, she didn’t feel very special. She knew of quite a few beings and creatures who were her equals or even betters in a fight, and that didn’t factor in other situations such as topical expertise.
+
+On the other hand, she knew that she’d had an unusually successful road. The challenges that had come her way had been overcome by the skin of her teeth alongside her obsession with healing and defensive magics.
+
+If hers was the only way to reach Refined, she’d be surprised there were even as many as there were.
+
+The longer road is easier in some senses, I would guess.
+
+-Fewer sheer cliffs from which to fall and die is my estimation, but the wandering paths seem to rarely point toward the summit.-
+
+Yeah, that’s a good way to put it.
+
+Still, looked at in another light, having two-and-a-half thousand people as magically advanced as she was, or more…
+
+It’s no wonder that the major Houses don’t attack us. We’re terrifying.
+
+-But not strong enough to fight them all, and they would unite against us if attacked.-
+
+Hence the balance that Master Xeel explained to us. Tala felt like that had been so long ago.
+
+Thinking once again about combat effectiveness, she had to admit something else: There were those less magically advanced than her who would be able to match her as well. Most of them had depths of knowledge and experience that she was decades from even beginning to approach.
+
+A smile was beginning to creep back onto her face. We’re doing pretty good, aren’t we?
+
+-Humanity is on a slow track, but yes. I think that we’re going to be fine if we can keep on keeping on.-
+
+Tala felt her back straighten just a bit at that idea. Her people were doing well, in the grand scheme of things, and she was a part of that.
+
+She and Alat discussed dozens of little things that had been plaguing the edges of their mind as Tala took her time traversing the terrain.
+
+She also took a bit to read while she moved as well, but all told, the journey was mainly a relaxing little jog.
+
+As Tala wasn’t really pushing herself, the sun began to rise before she got to the cleft pass near which she’d helped fight a midnight fox on her first trip.
+
+She’d considered going south around the mountains entirely, but that would have taken her very close to the Leshkin forests, and it simply wasn’t worth the risk just to try out a new path.
+
+Blessedly, there were no odd encounters on her trip, and she found herself approaching the city around midmorning.
+
+She was still about half a mile out when she came out of her contemplations enough to see the massive fluctuations in the zeme hard up against the city toward the east.
+
+Honestly, she should have seen the powerful magical currents sooner, but she’d subconsciously dismissed any variation that might have drawn her attention as attributable to the massive increase in density, relatively speaking.
+
+This region would still be considered energy starved for arcanes. That made her smile grow, even as she shifted her path to investigate the oddity. The magical density in the air—or more accurately the lack thereof—was yet another defense enacted by humanity.
+
+She came over a rise and stopped in confusion.
+
+It took her a long moment to really understand what she was seeing, given just how much was going on before her.
+
+First and foremost, what stood out to Tala was an oddity in the wilderness: Just outside the northeastern gate, a woman was dancing.
+
+That would be odd in and of itself, but there were at least two dozen of her, all moving in sync to the point that they were obviously the same person, or at least directly controlled by the same person.
+
+Power flowed off every iteration of the woman, obviously in sync with the movements of the dance.
+
+I haven’t seen a movement-enacting caster since the Academy, at least not one with this complex a form of such.
+
+The Archon’s power seemed to be fluctuating through the orange-to-yellow range. Tala thought that implied that the woman was Refined and utilizing some weaker magics. Though, Tala hadn’t really seen magics exactly like this before, so that was only a guess.
+
+To all of Tala’s sights—mundane, mage, and void—the women all looked identical to each other.
+
+The oddest result of the three was that of her voidsight, as every single woman was quite obviously the same node of reality, simply existing in different locations simultaneously.
+
+The disjointed nature of what Tala saw almost caused her to drop that sight.
+
+Alat quickly convinced her to simply pass it off to one of Alat’s perspectives so that they could study it later.
+
+All told, however, the woman and her oddities were the least of what was occurring outside the wall.
+
+A minor tide of magical creatures was rampaging, attacking their opponents with abandon.
+
+The creatures were easy to identify with Tala’s knowledge and previous study.
+
+Asteries.
+
+They were small, Bound level creatures that tended to move in swarms with a few Fused variants among them.
+
+Each one was composed of five to twelve limbs and a miniscule core body. The core contained only a teeth-filled mouth, lacking even eyes.
+
+The limbs were somewhere between an arm and a tentacle, covered in barbed pads that could grip, or rip and tear. Each limb was tipped with a sensory organ which functioned similarly to eyes, but not quite the same. Tala hadn’t taken the time to grasp the exact distinctions.
+
+The asteries often moved with a clever sort of locomotion, rolling along on the tips of their limbs like their whole bodies were rimless wheels.
+
+Finally, they were usually between half a foot and three feet across when spread out, tip to tip.
+
+As to what they were fighting?
+
+Plants.
+
+They were fighting magically grown plants, clearly the result of—and controlled by—the dancing woman.
+
+Each plant seemed to hold an immobile central bulb with innumerable thorny vines whipping around them.
+
+Illusions wove around each plant as well. The majority of those illusions made the plants seem to roll or be moved by their own vines, but Tala was able to penetrate those figments sufficiently to see that they were, in fact, quite stationary.
+
+Adding to the chaos, there were tens of illusory versions of the woman with various weapons in hand, attacking the asteries quite effectively. When Tala looked closer, she saw that various plants surrounding each illusion as it moved across the battlefield acted within and along with those illusions to give them substance and actual striking power.
+
+As Tala looked on, she suddenly felt someone observing her in turn and looked back to the woman just in time to see her left hand, across all iterations, begin to move in complex patterns quite separate from the rhythm of the rest of her dance.
+
+The air right in front of Tala shimmered, and a version of the woman was suddenly standing there.
+
+She was quite obviously an illusion, not connected to the woman by anything but a tendril of power extended through the dimensions of magic.
+
+Tala could have dispersed it in an instant and without effort but saw no need.
+
+The illusion gave a shallow bow. “Traveler, welcome. I am Kaeti. I would appreciate it if you did not interfere. I have this threat contained and moving toward destruction, but unknown magics entering the field could complicate that outcome.”
+
+Tala gave a respectful bow in return, pulling her metal back from her face so that her illusion wouldn’t trigger any confusion. A battlefield was not the place for a misunderstanding. “A pleasure to meet you, Mistress Kaeti. I am Tala. I come from Bandfast on personal business. Since you do not need aid, may I enter by way of that gate behind you?”
+
+The woman smiled and nodded. “I will not prevent it, though I make no promises on what the guards will require. If you are in the city long, I hope our paths cross again.”
+
+Without waiting for a reply, the illusion vanished, and Tala noticed that the woman herself had ceased moving her left hand to a separate cadence.
+
+The mastery that would require...
+
+-Not to mention the split focus. I can’t imagine how long it took to perfect such mental acuity.-
+
+Yeah. We should seek her out to learn training methods, even if for no other reason. Besides, she’s doing something with the nodules of reality, and we should see if she’ll let us figure out what that is.
+
+-Excellent idea, yeah.-
+
+Tala carefully skirted the battlefield, re-covered in iron to prevent herself from drawing any attention from the little horde of creatures. Additionally, she suppressed her through-spike so that the projected aura wouldn’t be attention grabbing either.
+
+Now that she’d figured out what was going on outside the walls, she turned her focus to the walls themselves.
+
+There seemed to be more movement on the wall-walks than she’d have expected, but that made some sense. After all, there was a small horde of enemies outside the gates; why not have a larger guard presence, just in case.
+
+She looked up beyond the wall, and saw the expected city defenses, but she also saw something that she didn’t expect. There was an almost blur-like effect on everything beyond the walls. She suspected that if she were to rise straight up, she wouldn’t be able to see anything within the city with accuracy.
+
+They really have stepped up the defenses recently.
+
+Even going a roundabout way, it didn’t take long to come up to the heavily reinforced gatehouse, particular to waning cities.
+
+As she stepped inside, she allowed her through-spike the freedom to function once again. Across from her, she saw that the interior portcullis was down, effectively letting her into a confined space, without access to the city.
+
+They didn’t drop the one behind us, so that’s a good sign. Even so, she pulled the metal back away from her face, as she expected to have to communicate in order to be granted entry.
+
+She was proven right almost immediately as she was greeted by a voice calling from above, the sound coming through the murder hole above, “State your name, advancement, and reason for being here, traveler.”
+
+The tone of the inquiry wasn’t harsh, but it also wasn’t overly polite. It was simply professional, a man doing his job.
+
+Tala almost wanted to mess with them a bit, but she quickly realized that that was a foolish notion.
+
+Instead, she shrugged internally. There was no reason to withhold the information. “Tala, Refined, and to experience a waning city.”
+
+Tala could hear well enough to discern that the obscurement of some sort of magic sound scrambler was enacted, reducing what should have been an easy-to-hear conversation down to a few muttered garbles.
+
+That’s new.
+
+-Or it just wasn’t used when you came through with a caravan.-
+
+Ahh, yeah, that’s fair.
+
+The voice came again. “Are you coming to meet with anyone, or will you be meeting with the local Archon Council regarding the dispensation of your time?”
+
+She blinked in surprise at that, but as she considered, it made sense. An extra Refined would marginally increase the strain on the scripts and magics of the city, thereby speeding up the degradation of the city. That would be offset if she helped out, but they likely wouldn’t be pleased to have her within the walls if she planned on simply kicking her feet up and wasting time.
+
+Even so, having the gate guard ask so blatantly was surprising. Though, she supposed that it was better to be upfront as opposed to circumspect on such important topics.
+
+She smiled up at the source of the voice. “I will be meeting with Master Grediv Gredial, at his convenience. I suspect that I will also be interacting with the council at his behest.”
+
+There were some more obscured conversations, then the inner iron portcullis began to rise. “Thank you for your time, Mistress Tala. Welcome to Alefast.”

@@ -1,0 +1,131 @@
+---
+id: a67ae5df-4eb0-5af9-9f20-918792d8684f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59 – Golems – Pt7"
+slug: 0059-chapter-59-golems-pt7
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 59
+ownLength: 1742
+unit: words
+publishedAt: 2025-02-15
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2069527/chapter-59-golems-pt7"
+royalRoadId: "2069527"
+---
+
+Chapter 59 – Golems – Pt7
+
+The water burbled, blissfully apathetic to anything around it. A few birds stood on the edge, scooping and drinking the clear fluid. Plants waved in its soft current, and fish darted through it, silver streaks in the liquid that brought life.
+
+A large fish swam forward. Massive fins churned against the current, and it lounged in a glowing pool, its scales gleaming. A bug foolishly zipped overhead, and it leapt, breaking out of the water and snatching the bug out of the air. Landing with a splash, it returned to the bottom of the glowing pool.
+
+How much mana is in that water?  Kindra studied it.  It’s a lot.  She studied the roots that sank into the water.  They’re pulling in mana, too. Fascinating.  She looked at a massive tree next to the water. Its bark had gone almost black. She burned mana on Scavenger’s Sight.
+
+[Level 50 - Ironwood. This wood has fortified itself with iron, granting it additional strength.]
+
+Cutting that down is going to be a nightmare.  Kindra pulled out an axe and studied it.  I could sharpen it a lot or make a saw. Maybe I should make a saw. Then I could cut that tree down.  She looked at the stream and backed up several steps.
+
+Racing forward, she vaulted over the water and walked to the tree. She ran her fingers along the bark while circling it.  A saw that’s like six feet across.
+
+“Kindra, we’ll never chop down an ironwood,” Kode called, landing with a thump.
+
+“Why not?” Kindra called while running her fingers along it.
+
+“It’s like trying to chop down steel. You’d need a lumberjack class.”
+
+“Then how do other things grow?” Kindra asked. “And how do
+
+“They die eventually. Or an animal kills them.”
+
+“Exactly.” Kindra pulled out two swords and burned mana, transforming them into a two-person diamond-tipped saw. She turned and grinned at Kode. “Help a girl out.” She gestured to the other end of the saw.
+
+Kode groaned. “What is wrong with you?”
+
+“I need supplies. This tree has some.” Kindra gestured to the other end of the saw and carefully thought about the enchantment that she wanted.  I can limit it. It will only work on trees and grant additional strength to the user while cutting through magical defenses.  She burned five hundred mana.
+
+[Basic Diamond Tipped Saw has been enhanced for 4 hours, granting 25 strength to the users and negating 25 stamina in the target. This effect is quadrupled against trees.]
+
+Kindra wobbled. The smell of her blood passed through her nose.  Okay. That was a bit much, and I need to find something to eat.  She looked at Aika, who was flitting around, acting as the lookout.  “Tell me if you see something to eat, Aika.”
+
+“Roger that.”  Aika zipped up into the canopy.
+
+Kode took the other end of the saw, and his eyes went wide. He looked at Kindra. “That’ll give us a shot.”
+
+Kindra grinned and propped the eight-foot-long saw against the tree. She pulled it toward her, scraping it against the bark. Kode pulled it back, and the cycle began.
+
+The saw slowly ripped dust from the tree, inching inward at a glacial pace. The two fell into a rhythm, and the sound of their sawing carried out into the trees to join the sound of fluttering wings.
+
+~~~
+
+Aika flew. The wind rushed by her, and she breathed deeply.  Flying is amazing… Maybe I could make a mechasuit for Kindra. That’d be awesome.  She grinned and shot through the leaves, weaving through them and slowing. A large nest was perched in the branches, and a large bird was dozing in it.
+
+Pulling out her spear, she moved backward, hiding behind the tree and flying upward. Like predator birds everywhere, she flew upward, darting around the branches and bursting from the canopy. A layer of green greeted her. It rustled like water. The breeze played with her hair, and Aika flew upward, watching the sky for other avian predators.
+
+A massive wyvern churned the sky in the distance. A flock of small birds burst from the canopy, and Aika rose even higher. The clouds above seemed even closer. A moon drifted across the daytime sky, and the sun warmed her skin.
+
+With a breath, Aika spun and dove, tucking her wings against her back and aiming for the sleeping bird. Gravity quickly took over. With her spear cutting through the air, she dropped like a stone, shooting through the leaves and branches.
+
+A massive bird’s eye snapped open. It looked up, and Aika hit it like a speeding car. The spear slammed into its chest like a bullet. Grabbing the axe at her side, Aika swung, and the bird screeched.
+
+The sound pummeled into Aika. Blood rushed to her skull, and she dropped. With the air streaming around her, she landed on a branch, and the sound of churning wings filled the air. The smell of blood hit, and Aika dashed underneath a branch, moving like a squirrel.
+
+The bird slammed into the branch. Leaves tumbled. It shook, and the bird hissed, murder lingering in its yellow eyes. Aika flipped upward and slammed her axe into its side. A burst of blood rolled out of the wound, and the bird’s beak opened wide. It flew toward Aika’s head, and she let gravity take over, dropping like a rock.
+
+The bird followed, launching off the branches. Aika spun and flared her wings, soaring around the trunk. The eagle followed, its beak snapping behind her. Swooping upward, Aika grabbed a branch and wrenched herself back. Like a rebounding ball, she shot in the other direction, blurring over the bird’s back and slamming her axe into it.
+
+Blood sprayed around her. The bird fell, spiraling down like a stone. Aika shot after it.  I need my spear.  With a loud thud, the bird hit the ground.
+
+“Aika?”
+
+“I’m fine. Don’t worry.”  Aika swooped onto the bird and grabbed the spear, pulling it free. She grinned and looked at the large bird.  Can I carry it?  Grabbing a large talon, she leapt, her wings churning against the air and slowly lifting the bird off the ground.
+
+A strange quiet filled the air. Aika turned toward Kindra, and a snapping branch made her look up. A furious bird dove. Its yellow eyes blazed with anger. Its beak opened, and Aika felt space open. Like stepping through the ocean depths, pressure surged around her, and she found herself next to Kindra.
+
+The bird’s wings flared. It hit the ground, and a bang echoed through the forest. Aika watched feathers explode from the bird. It hit the ground and didn’t get up. “Thanks.”
+
+“Always, Aika.” Kindra smiled at her. “And thank you.” She jogged over and grabbed the birds.
+
+Aika spun toward Kode. “Don’t say it.”
+
+“Always finding trouble.” Kode smirked at her before leaning closer. “You really trust her? What is that thing?”
+
+“A gun. She was making something for it before.” Aika smiled. “You can trust her. I promise you that.”
+
+“But why does she look even more like an undead than most loyalists?”
+
+Aika frowned and flew closer. “I think they took control of her mind. She doesn’t remember, but I know she isn’t evil. In fact, we’re going to kill the necromancer.” She nodded proudly.
+
+Kode sighed and shook his head. “You can’t kill them. No one can. Gleon says he did, but it’s a lie. One will be back, you’ll see.”
+
+Aika shrugged. “We will. Your golems have nothing on us.”
+
+Kindra walked over and handed Aika a primitive-looking rope. “Can you tie this off so we can leave them to bleed out?”
+
+Aika grabbed it and blurred into the air.  I need to check that nest.  She tied the rope around the lowest branch before flying up into the tree. The sound of the saw filled the air, and she landed on the nest. Three large eggs were sitting there. She sniffed them and picked one up. Clamping her arms around it, she flew down and placed it near the birds, pausing momentarily to look at the two.
+
+The saw slid back and forth. A skiff of sawdust was on the ground, and flakes steadily fell from the groove they were making.  They’ll get it.  She flew and peered through the trees. Spotting nothing, she returned to the nest and brought the two other eggs down.
+
+Setting down the last one, she flew over the stream and looked down it. Greedy plants lined the banks. A few patches of plants grew in the water, and a fish launched itself from the water.
+
+Aika grabbed her spear.  Gleon never had this problem.  She twirled her spear and slammed it into the fish with a resounding clang. The fish flew toward Kindra, and Aika was knocked backward, tumbling through the air before righting herself.
+
+“Well, well,” a voice called. “Look who has become fish food.”
+
+Aika spun and stuck out her tongue. “And look who gave up his artificing career. How long has it been? Ten minutes?” She giggled.
+
+Gleon chuckled and ran forward, vaulting over the stream and grabbing the fish. He looked back at Aika. “You don’t mind, do you?”
+
+Aika winced. “Are you going to do it?”
+
+“We have no choice, Aika. Don’t you see that?” Gleon asked, walking toward her. “We have to change something.”
+
+“You have us, and we’ll make something to kill them.”
+
+Gleon shook his head. “Aika, we need every edge. Every edge. We lost with the golems. A gun will not do it. The spells we showed you this morning should have proven that.” He jumped over the stream. “I’ll release them when the necromancers are dead.”
+
+Aika nodded and didn’t fight it. “Gleon? How many have you seen die to them?” she whispered.
+
+Gleon turned, surprise showing on his face. “I’ve watched six entire generations be culled like cattle.”
+
+Aika blanched. “Do it, but don’t tell Kindra. It’s a touchy one for her.”
+
+He nodded and ran back toward camp. Aika shook her head.  We’ll find a better way.  She flew back toward the tree and heard the warning cry of thousands of birds. Launching herself upward, she flew up through the canopy and watched a massive plume of small birds erupt from the forest. Locking on the direction, she flew toward it.  What is going on over there?

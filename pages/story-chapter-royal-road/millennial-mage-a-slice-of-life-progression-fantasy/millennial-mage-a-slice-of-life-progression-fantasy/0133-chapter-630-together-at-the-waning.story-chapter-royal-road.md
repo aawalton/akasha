@@ -1,0 +1,303 @@
+---
+id: 8bb9badf-b2e8-5f5a-b2b1-0368446d07a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 630 - Together at the Waning"
+slug: 0133-chapter-630-together-at-the-waning
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 133
+ownLength: 3125
+unit: words
+ownProgress: 3125
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2728254/chapter-630-together-at-the-waning"
+royalRoadId: "2728254"
+markedReadAt: "2026-06-29T19:41:41.465Z"
+---
+
+Tala watched, being held back by her own will but still appreciating Rane’s hand on her shoulder, reminding her not to interfere.
+
+They stood on the plains outside of Alefast, Waning, their daughter walking toward a rather aggressive seeming thunderbull.
+
+-I mean… is there any other kind?-
+
+No… I suppose not. They aren’t quite as human-hating as many arcanous and magical creatures, but they aren’t exactly warm and cuddly.
+
+Lea had proven her restraint time and time again over the last six months, and that meant it was finally time to really let her cut loose in a true fight. Hence, the thunderbull.
+
+“Is this too soon? Are we rushing her?”
+
+Rane squeezed her shoulder. “She’ll be fine. Besides, she’d have been out here years ago, if we let her. If anything, we’re holding her back.”
+
+They both glanced to the side, where Terry waited on a nearby hill, eyes fixed on Lea and the bull.
+
+“See? Terry could get there basically instantly in the event of disaster, and our aura is already fully covering that hill. We can interfere if we need to.”
+
+Tala squirmed slightly, fighting against herself more than anything else. “But what if we interfere too early? That would teach her that she doesn’t need to be careful, that she’s safe no matter what, and that could ruin her as a fighter, not to mention getting her killed.”
+
+Rane sighed. “Then, we’ll address that if it happens. I don’t think she’s bent that way, but if she moves in that direction, then we’ll expose her to things that teach her otherwise.” He grimaced, likely remembering his own lesson in that regard. “But that won’t happen. We’ve been very careful. Moreover, we’ll be careful, now. She’ll be fine, and if she isn’t, we’ll make sure she recovers.”
+
+Tala shifted, trying to rid herself of the nervous energy. “What if we interfere too late? What if she gets so damaged that she’s in the tank for years? What if we leave her scared to ever face another opponent.”
+
+Rane turned his wife toward him. “Tala. If that happens, then we’ll be there with her for those years. We’ll keep her company if she’s conscious, and watch over her if she’s not. But she’s got this, and if anything goes wrong, we’re here.”
+
+Tala looked up at him for a long moment before nodding. “I know you’re right…”
+
+He smiled. “But she’s our daughter.”
+
+She nodded, even as he pulled her in for a hug.
+
+“She’s had good teachers, you included.”
+
+“Thank you.” They turned, still embraced but moving to more of a side-hug as they looked back toward where Lea was almost to the top of the hill.
+
+The thunderbull had noticed her by that point, and it had turned to face her, seeing her as the more immediate threat than the strange terror bird on the next rise.
+
+-He’s lucky that he’s right today, even if normally he wouldn’t be. Terry isn’t interested in him.-
+
+Indeed.
+
+The bull lowered his head, snuffing and pawing the ground.
+
+Rane tightened his arms around Tala, and she almost got irritated, thinking that he was trying to keep her back, that he didn’t trust her. Then, she saw his face, and how much he obviously wanted to move to his daughter’s aid.
+
+That washed away the frustration, and she squeezed him in turn, watching their daughter.
+
+Lea stood tall, her stance relaxed, but well balanced, ready to spring in any direction.
+
+The bull did not seem to like that. He bellowed, lowering his head further and charging.
+
+Tala couldn’t help but whisper to herself. Though, she knew that Rane would have heard her as well. “Come on… don’t forget that he’ll sweep at the last moment…”
+
+Lea didn’t forget.
+
+As the bull closed, she lunged forward, throwing off the big beast’s timing.
+
+She couldn’t steal the big thing’s momentum. She could impart hers without doing so, but to take would require establishing authority or magical control over it. Well… thinking of it that way, she likely could, but not without overcoming his magical weight, and that would spoil the test. She needed to fight it as if they were on equal footing, magically, or as if she had a disadvantage.
+
+Regardless, she lashed out with a punch, her full body behind the motion, a chain of magic adding to the kinetic chain of the strike, pouring a massive amount of gathered momentum in at the last minute before it was perfectly transferred to and through the point of contact.
+
+At that moment of contact, Tala also saw a sequence of inscriptions flare around the girl’s wrist as she accepted the momentum of the strike—not all that was in the beast, just that which it was trying to impart in its strike—and sent it right back along with her own.
+
+The bull’s head was hard and strong. It was used to battering against fellow thunderbulls at great speed. As such, the head didn’t detonate… but it did streak backward, tearing through the body behind it, creating a rather horrific meat tunnel that lasted for only a moment before the surrounding insides moved to fill the gap, splooshing out both ends atop the mess already there.
+
+Tala blinked a few times, and Rane’s mouth hung open. Huh… I’d have thought the spine and muscles reinforcing the skull would win, but apparently the skull is stronger?
+
+-So it seems.-
+
+Terry let out a long series of chirps and trills that was clearly his form of laughter.
+
+The husband and wife turned to regard one another for a long moment. Finally, Rane closed his mouth and cleared his throat. “So… restraint in violence? That’s the next lesson?”
+
+Tala gave a slow nod. “Absolutely.”
+
+* * *
+
+Tala grunted as her daughter’s fist slammed into her stomach, deforming the armor and sending a ripple of damage through her insides.
+
+Maybe I shouldn’t have just taken that hit.
+
+-Eh, you’re fine, and she didn’t break her own hand?-
+
+Yeah… that would have been unideal.
+
+Healing followed shortly on the heels of the damage, restoring what little actual harm had been done. The armor righted itself a moment later. -I mean… it also didn’t really do much? It’s good for her to learn that not everything bursts at a single hit.-
+
+Tala grimaced and Alat did the same, both remembering the thunderbull incident.
+
+-I mean… like mother like daughter?-
+
+Tala grinned. She didn’t have a helmet on, so her daughter saw it.
+
+“Oh… not enough? I thought I might actually affect you, there.”
+
+Tala shook her head, letting her smile shift to a patient one. “That wasn’t the task, Lea.”
+
+The girl grimaced. “Right… I was supposed to hit you like you were a mundane…”
+
+Tala held up a finger, manipulating the white steel of her replaced left hand to make the gesture. “Who…?”
+
+Lea sighed. “Who I wanted to survive the encounter.”
+
+Tala nodded once. “Would a mundane have survived that hit?”
+
+The girl groused. “No…”
+
+“So…?”
+
+“So, I don’t pass this test.”
+
+Tala shook her head. “That answer is not quite what I was looking for.”
+
+Lea looked up, frowning. “What?”
+
+Tala smiled at her daughter, taking on an encouraging tone. “You don’t pass this test yet.”
+
+That made the girl brighten. “You mean… I can try again?”
+
+“Yes.”
+
+Lea laughed. “Alright, then!” She did a few hops, shaking out her arms. “Let’s see what I can do.”
+
+“Lea…” Tala gave her daughter a stern glance. “We can test your power after. Right now? You are taking another shot at the test.”
+
+Lea stopped, then deflated slightly. “Fine… Do you want him to walk away? Require minor healing? Or just survive if there is a skilled Healer nearby?”
+
+Tala gave her a flat look. “Survive without magical intervention.”
+
+“Fine…”
+
+The girl drew in a long breath, seeming to center herself. She moved through a few motions, forming her fist before she suddenly blurred, lashing out, magics flaring to generate a strong hit.
+
+This hit did nothing to Tala, but still sent a loud, resonant thump of two pieces of padded, solid metal impacting.
+
+Once again, it had been directed into Tala’s abdominal region. On a mundane? It would have damaged organs but shouldn’t have burst anything. Had the impact been to a bone instead, it likely would have broken them… on a mundane, not on Tala.
+
+She slowly nodded. “On the hard side, you might cause internal bleeding with a hit like that, but it shouldn’t be immediately lethal.”
+
+Lea cheered, holding her hands up in triumph. “I pass!”
+
+“You do… but barely.”
+
+Lea frowned at her mother. “Come on, Mom. I did it. Momma, you tell her.”
+
+“-Lea… Your Mom is right. While you technically did as asked, you were on the upper edge of it. If you do ever hit someone like that, they could still easily die.-”
+
+Lea scrunched up her face. “You too?”
+
+“-We want good things from you, Lea. We aren’t going to keep you from advancing, we aren’t going to penalize you, but we need you to know that such a blow still isn’t safe for mundanes.-"
+
+“Obviously, Momma, I’m hitting them. If I’m hitting someone, it’s because I need to. I have to use enough force to end the fight.” She then held up a hand as Tala opened her mouth. “While still not over reacting.”
+
+Tala sighed. “As you say. I am proud of the control you’re developing. It’s one thing to completely restrain your magic—you have that more than mastered—but it is an entirely other thing to use exactly as much of your power as you want.”
+
+Lea smiled. “Thank you.”
+
+Tala’s quirked a smile. “Come on. Let’s get some lunch. I think Miss Kedva is making something special for dessert.”
+
+“Oh! Okay.” Then, the girl’s eyes narrowed. “Talax isn’t going to be there, is he?”
+
+Tala suppressed the smile she felt tugging at her lips. “I’m not sure, why?”
+
+“He’s been insufferable of late. You know that he’s been training with the Talons while I’ve been in ‘isolation’ of one form or another, right?”
+
+Tala nodded.
+
+“Well, he’s been winning of late, and I still haven’t beaten even one Talon in a match.”
+
+“Well. You might be able to change that, now.”
+
+Lea hesitated, then a mischievous grin spread across her features. “Yeah. That will show him.”
+
+Tala shook her head even as she huffed a laugh. “Just don’t overdo it, Lea.”
+
+“I won’t.” Lea then hesitated. “You said lunch… and dessert?”
+
+“I did, indeed.”
+
+“Then, what are we waiting for?” Lea flexed her will and moved them both to the dining room and to the waiting food.
+
+* * *
+
+It was late fall, Lea’s fifth birthday had come and gone, and Sella finally returned from the Academy.
+
+There was a large get-together for that—the Sappherrous family even traveled up to Marliweather as that was where the girl would be returning to—and it went off splendidly.
+
+Even so, there was an odd sense of finality around the whole affair.
+
+Sella was the last.
+
+All of Tala’s siblings were ‘adults’ in almost every metric of their society, and she really didn’t know how to handle that.
+
+The Sappherrouses took three days there, and when Tala, Lea, and Rane departed, they could all tell that something was different.
+
+They would likely never see a good portion of these people again.
+
+Tala felt like that should impact her more than it did, but in truth, the events of the wider world, and conversely those surrounding her immediate family, were what dominated her mind.
+
+In the vein of the former, there was a drastic uptick in sightings of automata, though mostly in the Wandering Wilds.
+
+The Major Houses that were still making overtures to gated humanity—including the House of Blood—carried some similar rumors, but as they weren’t going to be informed about the Black Legion in the near term, they likely didn’t pass all the tidbits along.
+
+Strangely, even though many automata were actually engaged and destroyed, none were of the Black Legion. Every one of them had recent origins and was able to be traced back to their place of creation.
+
+At least from what the information said.
+
+The various City Stone holders, Paragons, and Reforged were not happy about this. There shouldn’t be any automata wandering about, let alone nearly a hundred over the last handful of years.
+
+Something was changing, even if it was on a slow time scale, and that, along with everything else, caused Tala’s stress and frustration at her own lack of advancement and growth.
+
+* * *
+
+Tala barely paid attention as the years passed. Lyn and Ron were married, and they decided to wait on children while continuing to research the difficulties there-in. Lyn and Mistress Sae were in talks about her less invasive method of Refining, but it hadn’t borne fruit, not yet.
+
+Latna graduated to Magehood, freeing up Mistress Anna to return to Bandfast and her family there. The newly ‘Mistress’ Latna and Master Leighis were married one year after her raising, the two of them solidly taking over the Magical side of the Karweil’s Alchemy business, with Caln and Verla maintaining primary control over the ‘non-magical’ side of things.
+
+More and more gateless applied to become citizens of Ironhold, and a good number were even allowed to immigrate. Fox-kin continued to trickle in as well, though in far, far smaller numbers.
+
+All this came to pass, and in due time, Lea’s eleventh birthday came and went, and Alefast, Waning finally reached its appointed time. The massively increased levels of power that had been noted at the beginning hadn’t gone away, but the increase had leveled out, leaving them with a rougher end without it being as bad as those in the know had feared.
+
+Blessings for that.
+
+For years, caravans had been departing with far more passengers than came, and preparations had rendered the city all but deserted.
+
+Tala, Rane, Terry, and Lea sat with Master Clevnis, and Mistresses Cerna and Vanga in the abandoned top floor of a fight view restaurant. The giant Archive slates had already been taken away, or their magics had been allowed to disperse.
+
+The table and chairs they used were their own, brought out for this occasion, the food spread across the surface had been provided by Kedva and her assistants.
+
+The woman had truly risen to the occasion, creating a feast to remember, a feast of parting.
+
+The empty chair at the table had long become a comfortable reminder of their departed friend, Master Girt’s seat acting as a stand-in for all those whom they’d lost through the years.
+
+Yet again, Tala counted her blessings that she’d lost so few, especially in comparison.
+
+These Mages had been her Defender Unit for years—with Rane joining them later—the six of them living alongside one another for a long stretch of time.
+
+Nothing really stood out to Tala from that evening’s feast and companionship as they simply spent time together one more time in the husk of the city they’d fought and bled for.
+
+The other three had long known Lea, and so her presence wasn’t an imposition in the least, even while she wasn’t a primary participant. Still, the girl showed her acumen, drawing forth stories from the older Refined that even Tala and Rane hadn’t heard before.
+
+There were tales of fights, missions, camaraderie, and celebration. There were also stories of loss, difficulty, sorrow, and overcoming adversity.
+
+In truth, it exposed just how much was still unknown to Tala and Rane about even some of their longest-running colleagues.
+
+You never know everything about anyone else, do you?
+
+-It is unlikely, yeah.- Alat sent a feeling that reminded Tala of Rane and Enar, causing Tala to smile. They did try to get to know their husband as well as possible, but he still surprised them every so often.
+
+Master Clevnis asked after Sole’s sword, acquired from the cell so long before, and Tala presented it to him for his renewed inspection.
+
+Lea was quite obviously taken with the weapon, seeming to feel a call to the blade. She’d heard of it in stories in the past, but Tala had never bothered to show it to the girl.
+
+Regardless of her interest, Lea was told in no uncertain terms that she was not ready for such a weapon, not yet.
+
+She clearly wanted to argue, but she demurred, simply asking what she would need to do to be allowed to call that blade her own.
+
+Rane and Tala had actually discussed such before, so the answer came easily, Tala allowing Rane to be the bearer of good news. “Show yourself capable of fighting strong opponents effectively, without collateral damage. Once you can do that? Then, you’ll be ready for a force amplifier, for a tool of war, a weapon.”
+
+Lea opened her mouth, clearly excited and feeling that she’d already done that, but she paused when Rane continued.
+
+“Real combat, Lea, and not in the sanctum.”
+
+She hesitated, closed her mouth, and nodded. “Understood. Thank you.”
+
+And that was that; the meal went on.
+
+In the course of the evening, Master Clevnis and Mistress Cerna did surprise them all by expressing that they were considering having another batch of children.
+
+Apparently, even the intentional contact that Mistress Cerna had been maintaining with their remaining kin and descendants was becoming less fruitful, and with the final waning of this city, most of the remaining ties had dropped away.
+
+“Maybe this time we’ll get one who reaches Refined.” She was smiling as she said it, but there was sorrow and trepidation in her eyes as well.
+
+Master Clevnis interjected. “If. We’ve been talking with Master Grediv about his methods. He still has the greatest success rate of any Archon we know of.”
+
+She scrunched up her face. “Unfortunately, he’s stated quite openly that the pupil is more important than the method. Most of his advice was around choosing a pupil, rather than helping any pupil rise.”
+
+Master Clevnis sighed and nodded. “Yes, yes. He’s quite open about his own failings as a father. He did point us to others who have had many children advance.”
+
+She leaned back. “Still, unless the couple has very few children, the percentage success rate is… abysmal across the board.”
+
+Lea was paying rapt attention. She knew of the various ranks of advancement—it would be hard not to have learned that much while living with her parents—but she didn’t know how they were achieved or any other classically forbidden details.
+
+The topic moved on from there, ranging across topics both happy and sad, past and future as the group were just together.
+
+Together at the waning.

@@ -1,0 +1,150 @@
+---
+id: 83bd6961-0ff4-5c1a-b239-59893532602e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63 – Observed – Pt 3"
+slug: 0063-chapter-63-observed-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 63
+ownLength: 1707
+unit: words
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2089622/chapter-63-observed-pt-3"
+royalRoadId: "2089622"
+---
+
+Kindra ran, the forest floor blurring underfoot. Flocks of birds flew by, and fear rippled through her.  What?
+
+“Hurry, Kindra. We need to get back.”  Aika’s voice whispered through her mind.
+
+Racing across the forest floor, she burst through the trees and leapt, soaring over the stream. The water burbled by. A silvery fish darted past, and she landed next to Kode.
+
+He turned and jogged through the trees. Kindra followed and heard a distant whistle.  It’s the undead… Did I mess things up with that fire?  She grimaced and ran toward the cliffs.  How do I get a radiant enchant for Aika?  Frowning, she felt her mana.  That’s not enough for anything.
+
+Racing across the forest, an eerie quiet greeted her. A chill lingered in the air, and she passed a shattered corpse. Its bleached bones were scattered across the ground. Small patches of rotting meat clung to some of the bones, and Kindra vaulted over it.  Shame there’s no mana.
+
+She heard footsteps and the sound of bones breaking. Racing around a tree, she found Gleon. He slammed his axe into an undead canine, launching bone fragments and rotting flesh everywhere. The magic inside faltered slightly. It lunged, opening its mouth and clamping teeth onto his leg.
+
+The teeth failed to break the skin, stopping abruptly. The canine tried to dig its teeth in, and an axe slammed into its skull, shattering it into pieces. It staggered backward, teeth flying into the air. Kindra watched the runes and reached out. For a moment, she sensed it. Some remnants of the canine remained trapped by the magic.
+
+Kindra ripped the magic apart and pulled the sliver of mana into herself.  Well, that one is super weak.  She jogged after Gleon, who sprinted and leapt, swinging his axe and slamming it into an undead dwarf. It staggered to the ground, and he slammed his axe into it, smashing the head off of its body. It tumbled across the ground and hit a tree.
+
+Connecting to it, Kindra pulled, ripping the magic from it and into herself.  Little more.
+
+Gleon continued his charge, dashing through the trees. Kindra raced behind him, moving swiftly through the quiet forest. The sound of metal on bone filled the air, and she burst through the trees in time to see a golem. Horror flooded through her, mixing with dismay at the horrific sight. Deep inside the mana was a glowing ball of light. It made her want to vomit.
+
+The golem whirred and slammed a metallic arm into an undead bear. The bones cracked, and the bear slammed its claws into the golem, digging into the metal.
+
+I hope it breaks.  Skirting around the edge of the group, Kindra saw several dwarves out fighting the undead.  They’ll just keep coming.  She felt her mana and dashed up to the golem, touching it with a finger and willing a rune sequence into her mind.
+
+[Level 18 Golem has been enhanced with +5 radiant Damage for 6 hours.]
+
+With her mana gone, she darted away, racing toward the cave and leaving the battle behind. Sigrid stepped out of the cave, waving toward her. Kindra dashed to her and followed her inside. Most of the opening had been walled off, steps led up to a small balcony with slits in the stone.
+
+“Forgive us for the golem, sweetie,” Sigrid said, pulling her further inside. “How is the mana?”
+
+“Gone. I’ll try to get more, but it’ll be difficult.” Kindra grimaced, and Aika landed on her shoulder.
+
+“What are we going to do?” Aika asked.
+
+“Kill what we can while we gather refugees and prepare to leave,” Sigrid said, letting out a long breath. “We were too close to the city.”
+
+“How long do we have?” Kindra asked.
+
+“We need to be gone by tonight.” Sigrid pulled her down the tunnels.
+
+Kindra followed. “What about Gleon?”
+
+“He’ll be fine. He knows when to retreat.” Sigrid walked up to the door and stepped inside. She began packing.
+
+Kindra did the same, grabbing the things from her room.  This place did not last long.  She bit her lip. “Is this my fault?” she called, pulling the blanket off the bed.
+
+“No, sweetie. It was inevitable. We hoped to solve the golem mystery, and we did. Now, we’ll move on to a better spot.”
+
+“Back tunnels?” Kindra asked.
+
+“Yes.”
+
+Kindra resumed packing, stuffing her attire into the bundle. Grabbing it, she walked out of her little room.  “Aika?”
+
+“Checking on Gleon.”
+
+“Be careful.”  Kindra watched a small stream of mana flow into her. “Sigrid, how did the dwarves lose?”
+
+“They just kept coming.” Sigrid shook her head. “That’s what the legends said. For every necromancer killed, a new one would come. Sometimes it would take time, but they never stopped.”Sigrid filled a pot with silverware and placed it on the table.
+
+Strange… I’m missing something.  Kindra walked up to the shelves and began emptying them. She filled the pot. “Does killing a minion grant mana?”
+
+“A little, some give more than others.” Sigrid gathered the food supplies and placed them in a bag with a sigh. She looked at Kindra. “I don’t know if you are from another world or not, but I am sorry for what it’s worth.”
+
+“Thank you for taking me in.” Kindra smiled at her and saw the sorrow. It lingered through her eyes. “And don’t worry. The necromancers made a mistake.”
+
+“Oh?” Sigrid asked.
+
+“Yes. They let me live.” Kindra grabbed the chamberpot.  And I’m not living like this.  She turned, and the ground trembled. Like a growing earthquake, the vibrations grew stronger. Dust filled the air, the pot rattled, and the sound of breaking stones filled the air.
+
+Kindra darted to the door and peered outside. Dwarves scrambled around the opening to the cavern. A massive tunnel had been bored across their seal. A large undead grub was thrashing wildly, breaking stones and knocking all of their barricades apart.
+
+Turning her head, she was greeted by a rockslide that had completely engulfed the back of the cave.  So, we’re trapped in here.  Kindra darted back inside and grabbed things. “We’re going to have to leave through the front.”
+
+Sigrid poked her head out and scowled. “It’s going to be a fight. A real fight, Kindra. That means you need to stay close to me.”
+
+Kindra nodded and didn’t argue. She scooped up her little robot from the corner.  I’ll figure you out later.
+
+Hoisting a bag over her shoulder, she turned and looked at Sigrid.
+
+“Can you stash them?” Sigrid asked.
+
+“Maybe?” Kindra grinned and tried it. The things vanished. Chuckling, she ran around the room and stashed the others before following Sigrid out the door.
+
+Dwarves were streaming out of their homes, running up toward the breach. Sigrid jogged down the tunnel, and Kindra followed.  I need more mana. A lot more mana.  She frowned and willed some of her spent mana inward.
+
+[Your mana has increased: 4909 → 4925.] 
+          ‎ [Your mana has decreased: 4925 → 4605.] 
+          ‎ [Your intellect has increased: 30 → 32.] 
+          ‎ Kindra willed the points into speed and dexterity.
+
+[Your speed has increased: 14 → 16.] 
+          ‎ [Your dexterity has increased: 14 → 16.]
+
+[Please pick an upgrade: 
+          ‎ - Regenerative Blood - Your wounds will slowly heal. Drinking the blood of living creatures will better heal your wounds. 
+          ‎ - Hex - Sacrifice blood to augment the effects of free-cast spells. 
+          ‎ - Feed - You may pull the blood and mana from nearby creatures if their magical resistance is lower than a quarter of your level. This will kill the creature.]
+
+Kindra’s foot skidded against the stone. She nearly fell over, flailing to keep her balance.
+
+With a look of embarrassment, she looked back at the options.  That seems horrific… How am I getting this as an artificer?
+
+[This is a racial advancement.]
+
+And can I use it on undead?
+
+[Not at this level.]
+
+What about plants?
+
+[Not at this level. It needs blood.]
+
+Kindra shivered and looked at them. The last one was a fast way to kill low level things, but that wasn’t necessary. She looked at the others.  Healing would help.  She grimaced and picked it up. A strange sensation passed over her and then faded.
+
+Sigrid slowed and tugged her toward a group of defenders that had begun restoring their barricade. Looking out of the cave, Kindra saw undead emerging from the trees. They streamed forward, and the golem was on the warpath. Light radiated around it, and it whirred around, slamming its limbs into undead. The corpses faltered and dropped.
+
+At least it’s working.  A group of dwarves followed the golem, attacking and ripping apart the corpses. An occasional boulder slammed into the undead, and a massive bison burst out of the trees. Lowering its head, it passed through the undead and slammed into the golem, sending it flying with a burst of light.
+
+The bison staggered, and an axe chopped through its spine. Kindra turned and looked at the battered golem. It was lying on the ground and not moving.  Great. That plan backfired.  She reached out and grabbed mana from the dead bison and several others, pulling it toward her and watching the dwarves. Gleon was smashing his axe into them. Other dwarves were doing the same.  How long can they keep this up?
+
+She turned and looked at Sigrid. “What’s the plan?”
+
+“Wait for the others to gather their things. We’ll prepare and force our way through, heading deeper into the forest.”
+
+Kindra nodded and smelt blood. She spun and stared. A sword was embedded in one of the dwarves. The skeleton ripped the sword out, sending a spray of blood into the air.
+
+“Fall back!” Gleon shouted.
+
+The dwarves surged backward, gathering in a wall at the entrance. Kindra swallowed.  How are we going to get out of here?
+
+Aika blurred over and ducked behind Kindra. Whistles rang through the air, and Sigrid pulled Kindra closer.
+
+The undead surged forward, pushing and shoving toward the gathered group.
+
+“We go together!” a dwarf shouted. The dwarves around her pulled out weapons.  This is a terrible plan.  Kindra gulped and was pulled into the field of undead.

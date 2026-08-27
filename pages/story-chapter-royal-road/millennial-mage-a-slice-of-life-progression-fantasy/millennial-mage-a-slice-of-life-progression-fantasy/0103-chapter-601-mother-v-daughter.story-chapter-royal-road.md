@@ -1,0 +1,299 @@
+---
+id: 24c64883-d59e-5e5a-b954-97b3e6ce5a46
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 601 - Mother v. Daughter"
+slug: 0103-chapter-601-mother-v-daughter
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 103
+ownLength: 3203
+unit: words
+ownProgress: 3203
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2533019/chapter-601-mother-v-daughter"
+royalRoadId: "2533019"
+markedReadAt: "2026-06-29T19:38:35.783Z"
+---
+
+Tala felt a bit conflicted as she squared off against her daughter, even if it was explicitly at her daughter’s request.
+
+Should I slap her down quickly to show her that she still has a lot to learn?
+
+-Tala…- Alat sent the impression of a head shaking in exasperation. -No. No. Under no circumstances should you do that. She is aware that you are far above her, physically and as a combatant. She doesn’t need you crushing her into the ground to realize that you’re a better fighter than she is.-
+
+…Yeah, you’re probably right.
+
+-I’m definitely right.-
+
+Fine, fine.
+
+This, of course, brought up the obvious question of why Tala was the one fighting Lea at all.
+
+Terry had been playing games with her that might have bordered on sparring, but in truth, for true sparring, he was a really poor opponent for someone just learning to fight. He moved and fought like no other creature or being that Tala had ever faced, and his inhuman shape made him doubly unsuited for a new combatant.
+
+Tala had been sparring for years against other Mages at the Academy before she and Terry had started to clash.
+
+Rane, similarly, fought with an insanely unusual style, moving out of the way unnaturally due to his magical defenses, though it was not to the same extent as with Terry.
+
+Still, fighting against him would train a novice to hold back on their strikes, rather than putting true power behind them. Honestly, fighting Rane was barely better than doing forms, except for the variable nature. That is actually why Rane and Lea had engaged in such ‘clashes’ quite often over the previous weeks. Throughout, the girl had insisted that they weren’t proper spars, because she could never land a hit—even when he moved slow enough for her to get around his mundane defenses—and he simply tapped her with Force when he would have landed a blow.
+
+Even slamming the sword into her, while not using its magics, wasn’t more than a blow from a pillow would be for a mundane fighter. Rane could probably have put enough force into it regardless, but that would have required him going faster than her, thus turning it from a practice session into her being a practice dummy for him.
+
+That made sense because Force was a devastatingly powerful weapon that, if activated, could damage even Tala’s powerful defenses. Yet, Force didn’t have a ‘middle step’, at least not from the perspective of a mundane opponent, even one who was as resilient as many Refined. Rane would either be effectively taking a switch to his daughter, or be cutting her in half with Paragon level magic.
+
+Thus, Tala was the best choice, if her first ‘real’ opponent was to be one of the Sappherrous family, and Lea was insistent that she wanted it to be. Because all of that ‘reasoning’ aside, Lea had asked to ‘really spar’ against Tala first.
+
+Again, she didn’t count the play fighting she and Talax did on occasion when they met up. They weren’t mature enough in their mentalities to truly clash in a meaningful manner, despite their seeming perfect fit as sparring partners. Tala hoped that they would be able to grow into that once Lea was more comfortable sparring.
+
+As Tala was going to be her sparring partner, that meant that Tala needed to choose a level at which to fight. She could just match Lea’s ability, but that was effectively what they’d been doing with the training, and the girl had specifically asked for a ‘real spar.’
+
+Tala sighed, summoning Flow to her hand, its sparring sheath solidly locked in place around it. After a moment’s hesitation, Tala decided to just ask. “Do you want me armored?”
+
+Lea gave her a searching look. “Could I do anything to your armor?”
+
+Tala instantly shook her head. “Not in the slightest, not unless you have something hidden within you that none of the searching thus far has been able to reveal.”
+
+The girl seemed to consider. “We can still count hits against it as if they were on you without armor?”
+
+Tala grinned. “Of course we can.”
+
+“Then yes please. That way I can go full out.”
+
+-Hey! You didn’t cackle like a bog hag and tell her that there was no chance of her harming you.-
+
+What? Of course not. Why would you even say such a thing?
+
+-I like to note when progress is made.-
+
+I dislike you sometimes.
+
+Alat simply sent the feeling of a beaming smile in return.
+
+Tala’s armor flowed over her, giving her just a bit more height due to the material added under her feet and atop her head. The white steel meshed with reality iron was a thing of beauty, and the jointless construction made it almost without weak points. Though, obviously every valley—such as in her armpits—was a place where force could be more easily focused, and thus, technically, a ‘weakness’, comparatively.
+
+She was still shorter than Lea, however. Not that the girl seemed to notice, given the awe in her eyes. “Pretty…”
+
+Tala smiled within her armor, and thankfully, her daughter didn’t need a reminder to focus back on the fight to come.
+
+Lea, for her part, was armed with a white steel weapon that matched her skin perfectly… because it was the same material. In the case of the weapon, however, it was only partially under her dominion.
+
+The white steel that made up much of her body was as much under her authority as most people’s own flesh, more so in fact.
+
+It moved and flowed according to her unconscious will, giving her greater flexibility and range of movement—without difficulty—than any human was capable of without magical aid.
+
+Is it magical aid for her, though?
+
+-I mean, it is magical metal, but it’s hers, and it is her body. I could see it being argued either way.-
+
+Fair enough.
+
+Regardless, the girl fell into a perfect sword stance, her weapon matching Flow in length and design, save that it was a two-handed variant.
+
+Tala smiled at her daughter, pointing out a potential issue. “If you’re using two hands, would you like to make it longer?”
+
+Lea frowned for a moment, then nodded. “Thank you for the suggestion, mother. I will.”
+
+More white steel manifested as Lea willed it to her from their family’s store of the stuff, the blade lengthening to the maximum reasonable for a fighter of Lea’s height.
+
+It was a wise choice, given that she could shrink it when and if she closed the distance between them. Tala smiled. “Better.”
+
+Rane was sitting off to one side of the sparring ring, Terry perched on his shoulder. While Rane was clearly watching with an eye toward supporting his wife and daughter, Terry seemed to be on edge, watching with attentiveness that Tala had rarely seen.
+
+“Are you ready?”
+
+Lea nodded once.
+
+“Then, begin.”
+
+Lea moved instantly, the tip of her sword dropping even as she thrust forward, toward Tala’s heart.
+
+Tala almost just let it hit. In her armor, she was confident it wouldn’t hurt her, and she could use that to her advantage to strike out at the girl.
+
+No, Tala. You said you’d count any hit as if you were unarmored. She ignored the fact that the thrust likely wouldn’t do much to her even if she were unarmored.
+
+Flow flicked to the side, smacking the thrust off course, and causing it to pierce empty air off to Tala’s left.
+
+Tala’s parry came with a riposte, and she thrust for Lea’s shoulder, planning to drive her back with the distributed impact from Flow’s sparring sheath.
+
+Lea surprised her, however. Subtle magics began to dance throughout the girl’s body, the automaton nature of her body starting to show itself.
+
+The girl pulled the shoulder that Tala was targeting back and to the side, using the same motion to throw her body in an odd twist, allowing Lea to jerk her extended blade sideways in a vicious cut.
+
+Tala rolled with the incoming, unexpected attack. That got her torso out of the way as she turned her own thrust into a cut toward Lea’s abdomen.
+
+Lea surprised her again, leaping off her planted foot to move her whole body over the sweeping strike.
+
+Ahh, she went ballistic.
+
+-Poor girl.-
+
+Lea had no way of changing her trajectory now, and so when Tala used her massive strength and solid footing in the ground to rip her blade upward—changing the path of her strike as no mundane fighter ever could—it slammed into Lea’s outstretched side. There was nothing Lea could do to counter the move.
+
+The back and forth, which had been essentially a single quick exchange, had taken less than a breath, all told, demonstrating just how physically capable Lea really was.
+
+Tala was still going more slowly than she was capable of, but that made sense. She was a Paragon fighting against someone with near Refined level physicality.
+
+Though she was going more slowly, that didn’t mean that the strike was weak or without power by any means. It hit like a runaway caravan wagon. As Flow was in its sheath, there was no cutting. Instead, the power of the blow—and of the cutting magics that were held at bay—was all transformed into an impartment of kinetic energy, which shot Lea up, into the sky.
+
+Now, most of the time, sending something ‘into the sky’ is simply a statement that it went really high. In this case, however, Lea being thrown into the sky meant that she flew up to impact heavily on the upper boundary of the sanctum within Kit.
+
+Thankfully, it wasn’t rapid enough to cause a magical disturbance for Tala to contain. Even so, this had not been Tala’s intention. Tala closed her eyes within her armor. Oops.
+
+-Yeah…-
+
+Rane winced, shifting forward as if to be ready to stand up at need.
+
+Terry let out a low whistling trill of interest.
+
+The real question is if this will trigger her berserker aspects?
+
+-And if so, what it will look like. I suppose we’ll see when she falls back down.-
+
+Instead of falling back down, there was a pulse of power originating from within Lea’s very soul, and the girl vanished.
+
+-Oh… I was wrong, but there’s the answer regardless.-
+
+Instantly, Lea appeared behind Tala, having used her granted authority within Kit to move herself.
+
+Her eyes were now a solid, glowing red, her face expressionless, and her lips pressed into a firm line. Tracings of red power similar to—but also quite obviously not—inscriptions radiated down and out from the back of her head.
+
+Lea’s weapon had morphed almost in an instant, and a short, barbed mace struck out for Tala’s head from behind, but the older woman caught the blow on Flow with ease, even as she spoke. “No. You can’t use that in a fight. You won’t have it out in Zeme, so you can’t learn to depend on it.”
+
+Lea didn’t acknowledge, instead trying to use exactly what had been forbidden once more. This time, Kit rejected her will, and Lea didn’t shift.
+
+Her lack of willful shifting didn’t faze her for long as she attacked again and again, Tala blocking each blow with ease, allowing the girl to spend her energy on a fruitless assault.
+
+Well… she doesn’t really have energy to run out of in that sense? She hummed to herself. Rane or any other biologically human berserker had a finite amount of physical reserves to draw on, and their heightened activity levels and strength when enraged meant that they burned through them quickly, putting a definite time limit on the effect.
+
+Lea didn’t have that.
+
+She just had her gate.
+
+And her gate was endless.
+
+Rust… Well, it wasn’t entirely a bad thing. Lea was practicing, utilizing not only what Rane and Tala had taught her, but also doing things that were decidedly reminiscent of Io’s movements so long ago, seemingly resulting from the power flowing through her body.
+
+-There do seem to be combat instincts ingrained into the body, and she’s tapping into them.-
+
+Yeah, she seemed to be able to do so even before her soul reacted to the damage her body took.
+
+-Seemingly, yeah. Though, they seem to expect her to have complementary systems that she lacks.-
+
+Indeed. Did you see her off hand? It moved as if grabbing for something that wasn’t there, even as she leapt free of the ground before I smacked her.
+
+-I did. It would be worth investigating afterward.-
+
+Agreed.
+
+Tala finally turned around to face Lea even as the untiring barrage of attacks continued unabated.
+
+And why should it slow?
+
+Lea wasn’t going to get tired.
+
+Her arms weren’t limited by biological muscles.
+
+She could, quite literally, continue to attack for days.
+
+I’m not quite sure what to—
+
+“Well?” Lea’s voice snapped out, clearly inquisitive and not full of anger. “Are you going to strike back, or was your one hit all that you could manage?”
+
+Tala blinked a few times at that. Wait… she’s still cognizant?
+
+-It seems so.- Alat giggled at the realization. -Oh, yes. This will be interesting.-
+
+Lea’s lips hadn’t moved, so it was possible that there was still something keeping her from communicating traditionally, but she’d always been able to speak without using her mouth, she just didn’t do it very often.
+
+Tala stepped into the next strike, blocking it as all those before even as she struck out with her off-hand, striking the girl’s wrist to redirect the attack rather than the blade.
+
+Lea allowed the white steel to act as steel at the hit, meaning that while her arm and weapon were forcefully shoved to the side, nothing was broken or damaged, at least nothing easily detectable.
+
+Tala took that moment to really look at her daughter’s soul.
+
+The gate had a look similar to that of one that was in the process of gate-breaking, massively more power than usual was flooding out and shifting—almost lensing—ever so slightly, taking on an inhuman tinge.
+
+This wasn’t to do with her non-standard body. Instead, it seemed to match what Tala had observed in Rane every so often when his own ‘boon’ activated.
+
+Even so, the magic pulsing outward wasn’t alone, and in that way, Lea’s soul was acting entirely unlike Rane’s.
+
+There seemed to be an odd sort of solidity both around and throughout her soul, only seeming absent in the opening of the gate, itself.
+
+As makes sense, it’s hard to have ‘solidity’ in an opening.
+
+-Except that the emptiness around the soul has solidity.-
+
+Yeah, well, that emptiness isn’t a connection to another world. It’s different.
+
+-...Fair… while somehow making no sense at all.-
+
+I am just describing what I see, Alat.
+
+-Yeah, yeah.-
+
+Regardless, Lea stepped back from Tala’s advance, not trying to get her weapon back into position.
+
+“Well struck, Mom.” The girl’s body was practically vibrating, and she still wasn’t using her mouth to speak.
+
+“Are you alright?” Tala inquired, using her aura and authority to create her own voice outside of her armor.
+
+Lea gave a very hesitant nod. “Yes, but I think I need to keep fighting. I seem to have triggered some sort of fight or… fight response.”
+
+“The term is fight or flight.” Tala almost chuckled.
+
+“Yes, that is the phrase for biological humans. My body seems to only have one option: Fight.”
+
+Tala nodded, having kept Flow in proper position for another clash. “Then, by all means, let’s continue. You work to wind that down, and I’ll keep you and your body occupied. Agreed?”
+
+“Agreed.” Lea’s weapon lashed out again, once more in the form of a sword.
+
+* * *
+
+It had taken Lea three hours to figure out what was going on and bring it to a halt.
+
+Apparently, the physical response within Lea’s automaton form was controlled in a somewhat similar way to Tala’s gravity magics. That meant that Lea’s mental model for the thing she felt that she was fighting had to no longer apply for her ‘fight’ response to end.
+
+Once they realized that, Tala dismissed her armor and the heightened state faded from her daughter.
+
+Things had been muddled quite a bit by the berserker boon from Lea’s soul added on top.
+
+That had been what truly jump started the fight systems within Lea. Apparently, taking a hit so hard that it seemed to cause a measurable change in one’s power source was considered of great import to automata.
+
+Who could have known?
+
+-Anyone with a brain, who bothered to think about it.-
+
+Did you?
+
+-...There’s no need to ask silly questions.-
+
+The boon, itself, in turn had stayed active because her soul could tell that her body could maintain it and still felt threatened and in need of protection at an unconscious level.
+
+It all made sense once they figured it out, but before then, it had been maddeningly frustrating to suss out.
+
+At the moment, Lea was in her purple tank for the first time since her ‘birth,’ as the automated systems within it checked her over, top to bottom.
+
+Rane stood beside Tala, with Terry perched on her shoulder, all three regarding the unconscious Lea. “Our daughter has a long road ahead of her.”
+
+Tala regarded Rane for a moment before nodding. “Indeed. I’m glad that she has you to help her learn about what she is capable of in this area.”
+
+He smiled. “Me too.” He then glanced her way. “You handled it really well, today.”
+
+She huffed. “I shouldn’t have hit her that hard at the start.”
+
+He grunted. “Maybe, but I think it was good to test the edges of things earlier rather than later. Besides, it was more of a throw than a strike. The fact that the sky got in the way isn’t really your fault.”
+
+Tala chuckled. “I could have moved her, or prevented the impact. I simply didn’t consider it until after she hit… Still, maybe you’re right.”
+
+“I think I am.” He grinned. “Flow’s sparring sheath made this possible. I’d never really considered Force as limited, but maybe I should get such a sheath myself.”
+
+Tala looked down at where the weapon hung at her belt, the sheath showing noticeable wear. “I was warned that it wouldn’t be able to contain too much power. It seems that we’re pushing up against the edges of that. I’m glad that I ordered a new, more durable one, but I’m not sure it will be sufficient. As to getting Force one? Maybe, but it seems like something that will only be useful very rarely.”
+
+“Yeah, it might be worth contacting the craftsman about your sheath, and you’re likely right that getting a sheath for Force may be a bit unnecessary. Even so, I think it’s worth looking into.”
+
+“That’s fair.” She leaned against him, and he kissed the top of her head before they both turned back toward their daughter, staying close to one another.
+
+After a moment’s silence, Rane appended, “After she’s awake once more.”
+
+Tala nodded. “After she’s awake again, yeah.”
+
+Terry trilled in agreement, and the three settled in to wait.

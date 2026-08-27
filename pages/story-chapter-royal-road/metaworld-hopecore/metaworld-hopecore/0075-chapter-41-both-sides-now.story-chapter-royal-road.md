@@ -1,0 +1,145 @@
+---
+id: d60e5bfe-fca8-5d4e-8f5f-fdb5e131b0ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 - Both Sides Now "
+slug: 0075-chapter-41-both-sides-now
+partOf: metaworld-hopecore
+position: 75
+ownLength: 2415
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3403139/chapter-41-both-sides-now"
+royalRoadId: "3403139"
+---
+
+"I can take any empty space and call it a bare stage. A man walks across this empty space whilst someone else is watching him, and this is all that is needed for an act of theatre to be begun."
+
+Peter Brook
+
+G-Day, 5 AM. She couldn’t sleep, and she had [Causality] for stamina, so Eppie got up, got dressed in her clothes that were warm enough to wear and easy enough to disrobe, then left for the Playhouse.
+
+It was dark, but she was joined by hundreds of others. There were trucks everywhere. Not the food trucks, those would come later, but flatbeds with barriers stacked in rows and sections and white vans with city permits taped to the windshields. All over the entry, men with high-vis vests rolled chairs into place at the open-air amphitheatre, or expanded the overhead cover in anticipation of the December rain.
+
+The dorms would be blocked off. Small paths leading to the rest of the CSULA campus would be warded and redirected back toward LAPA and the overflow parking. Someone had already drained the fountain LAPA shared with the university, because two years ago, some fool had fallen into it while it was forty degrees out and tried to sue.
+
+On the way, Eppie saw Susan Carr running about the place, somehow immune to the cold, relying on her Scandinavian genes to maintain a permanent wardrobe of overpriced ladies' workout clothes. She travelled with a suitcase: within it were the school’s permits, sign-offs, invoices, and contracts for the four dozen contractors working on site, which had to be produced at a moment’s notice.
+
+By the time she arrived at the Playhouse, there was a mighty channel of plastic blocks funnelling arrivals from the main gate to the performing building’s entrances. At the fountain, it split into three: the Amphitheatre, where the music students would have their open airs, the Whitman Complex, with the gallery and the theatre, and finally the Playhouse, sadly out of sight and a little out of the way.
+
+When Eppie pushed on the double doors, she paused. The school had put up an enormous poster of Eppie in her Sony leotards. It was a very good photo, post-processed by Dov to achieve a chiaroscuro effect, with her elegant figure looking toward a stage light, her baby-blue eyes sharpened to a glistening pinpoint, with a minimum of twenty per cent more saturation.
+
+“YOU WERE MY UMBRELLA,” said a clearly misleading title underneath.
+
+Eppie fought the cringe, making her legs knock-kneed, sending goosebumps as far as her belly.
+
+Inside the building, the technicians were already crawling over the wireworks like ants, double-checking connections and fastenings the students had checked prior. For a public event, shitty plays were entirely permissible, but injury to the public? That was a catastrophe.
+
+Eppie walked past the lighting boards, cable runs and the gaffer tape lines on the stage floor. One of her theatre tech classmates was eating a breakfast burrito in a folding chair while a PA fed cable through a conduit through his legs. The stage itself was already set. The Syrian War Antigone pieces were in position, spike marks were confirmed, the press-conference table was centred, and the flash rig was ready. She recalled Min-jun noting in the Bible that he would arrive at seven to test it again.
+
+She leapt like a cat onto the stage, making the meter-high elevation in a single bound. She walked to the centre and looked out onto the empty seats. The Playhouse was not large, but in this moment, it felt like a stadium. Eppie stood on the X and looked out at the dark, feeling strangely nostalgic. In a previous life, she had stood on a stage like this in front of thousands. On the live stream, there were hundreds of thousands. In the weeks that followed, there would be millions, maybe even millions of millions, of views, likely a billion by the year’s end. “With [iNGENU], there will be no more barriers to creation, no gate-keeping of the human imagination,” she had told a captive audience. “My name is Lana Zacanissian, and this is my TED Talk. THIS—is the liberation of creative potential.”
+
+There was applause. Roaring applause. Applause from floor to ceiling, A section to Z. The video broke records for the most dislikes.
+
+As a CEO, she knew how to work a room, how to hype, how to sell a technology that took clean drinking water from America’s neediest towns so bloggers in Mumbai could create slop videos of pregnant strawberries abused by their banana spouses. She had never felt culpable for what historians had called the great race to AGI, because she wasn’t an engineer, or even an entrepreneur. She had merely gathered IP monopolies in a single room and drew them a pie the size of the sky and told them that old adage—Greed was Good.
+
+But this wasn’t the corporate stage. It was a black box theatre. As she said to Costello, the theatre was asking a person to be true via fiction. Her Antigone was genuinely fifteen and afraid to die, yet so unyielding in her resolve that she became a force to topple a regime.
+
+It’s about how much you can bear. Dr Cooper had said.
+
+And she had grown a little tired of Eppie’s body bearing so much. The locker room. Mio’s shattered psyche. Simone’s betrayal. Lim’s hurt.The recording.
+
+She shifted a little from neutral. There was a tiny white cross below her feet, which was a little loose. She pressed it with her toes, grinding it against the wood until it lay flat.
+
+Her [Persona] was going to perform a play in a few hours in which a girl-child defies an unjust king and an unjust system and pays willingly with her life. In the evening, she was going to sing a song, wearing the same costume, unironically, and drive a fellow [Usurper]’s mind to roaring for the next five months.
+
+“To be,” she mumbled to the darkness. “Or not to be.”
+
+To think that she finally understood the veritas of her AP English, three decades after the fact.
+
+Someone looked up from below, smiled at her, then went about their business. She stood there a little longer until the scent of espresso permeated the building.
+
+The food trucks had arrived, and she dearly desired a tamale.
+
+When she returned with coffee and no tamale, it was ten to six, and Cameron had arrived. His prompt book was already out, and the future stage manager was visualising the play.
+
+Min-jun and Sage arrived at 7 AM. They hugged Eppie, who greeted them at the door, then left for their stations. Maya, who played Tiresias the seer, aka the Political Analyst, had minimal lines with Eppie, but Eppie still gave her a reaffirming hug. Everyone else then arrived in ones and twos, including the other classes, the Juniors who had their showcases, and the Seniors who came to help.
+
+Chloe arrived at 8:15 in her warm-up clothes.
+
+“Hey there, Emmi,” Eppie greeted her with a smile.
+
+“Hey Anni,” the girl greeted her back in character. They laughed. They were not friends, and they were not foes. There were two people who knew their lines, and for the duration of the play, they were real sisters. It was a theatre connection, the kind where, after pouring their emotions into one another for weeks, their bodies had developed a working relationship. It was similar to what she and Cooper shared, a kind of intimacy that existed outside of the conventional.
+
+At ten, Dr Costello arrived.
+
+“Circle,” he said quietly, and the crew moved into place like trained hounds. Everyone joined, because the circle wasn’t just for the cast. Theatre was not conducted alone.
+
+They warmed up with LABAN, moving through weight, space, time, and flow. Their bodies remembered. That was the whole point of fourteen weeks of endless repetition. Their shoulders loosened, as did their jaw. The tension leaked away.
+
+Lucy held her left hand, and Chelsea held her right. Min-jun held Cameron with a sour look of disappointment.
+
+The warm-up took thirty minutes.
+
+Costello looked at them all with pride, then gave the final command. “Good luck, everyone. Now report to costumes and makeup.”
+
+The actors arrived backstage, in a section carved out for costuming, prop change, and makeup.
+
+“My bonnie babe,” Ms Olivia McGregor was in her working clothes, and she was in a mood all on her own. With both arms, she enveloped Eppie. “Come, Mama will pretty you little birdies up.”
+
+The girls laughed nervously, as did the boys. Eppie released herself, then stepped behind the curtain with her quartermaster.
+
+The costume for Antigone was precise, very precise. Tyker had spared no expense in sourcing it from lord knows where. The blouse was white, stark white, the kind that was made for photography and daily ironing by a housemaid.
+
+Eppie put it on. The fit amazed her at first, until she remembered that Ms McGregor had her exact measurements on file, next to the first cat in space.
+
+The skirt followed. It was blue-checkered, knife-pleated, stopping an inch above the knee. The hem was double-stitched for comfort, making Eppie suspect that Tyker may have actually just robbed a private preparatory school’s inventory. The length, measured against her disproportionately proportioned legs, was the calculated length of a girl who had never been imprecise in her life. The material spoke of a school that cost twice what Denise Goode earned in a year at both diners combined. The kind of school that the Secretary of Defence would send his adopted niece, the child of a battle brother who saved his life.
+
+Ms McGregor nodded with approval. “Socks.”
+
+Her costume master did not give her the classic knee socks. That particular aesthetic had been ruined forever by none other than Sony BMG, whose mass-marketing of Candice Leah, formerly of the House of Mouse, involved six years of knee socks and short school skirts. The spectacular rise and fall of Ms Leah was a cautionary tale in itself, one of fetishised knee-socks marketed by a ruthless Trent Davis.
+
+Ergo, hers were ankle socks in white with a crisp green band, situated inside a pair of Mary Janes with brass buckles. The heels were lifted a little.
+
+“Hmm, we can’t have that.” McGregor placed her hands on her waist again, unpinned something, then unrolled the folded waistband down one notch. “Okay. That’s prim. Go to the hair station.”
+
+A team of two Seniors and two Juniors worked the hair chairs. Eppie’s frazzled hair was sprayed, un-kinked, then straightened. A headband, something velvety and very expensive-looking, pinned everything in place. It was smooth, controlled, pristine: the hair of an elite.
+
+It was also precisely Valorie Sanders' vibe.
+
+Eppie looked at herself with Val's hair and felt the irony sink into her chest like American cheese soaking into a beef tamale. Val was Antigone too, two blocks across in the Whitman Theatre, but their production wasn’t Tyker’s postmodern version. There were two Antigones: an actress without power and a girl born with it, trying to put on the skin.
+
+She wondered for a brief second if Valorie would scoff at the irony, then threw the thought away.
+
+Makeup followed. Powder for the stage lights and exaggerated contours for the directional and flood lighting. Her eyes were lengthened, made meaner to match Antigone’s rigidity. Chloe’s eyes were widened to emphasise her timidity. No rouge for herself, but a hint for Chloe. Dark red lipstick for Antigone, pink for Ismene.
+
+Ms McGregor took the final pictures.
+
+“You’ve memorised the costume prompts?”
+
+Eppie nodded.
+
+Scene one: She speaks at length with Ismene. The audience almost wonders if she would play by the rules, until she lets loose a torrent of accusations on the press corps.
+
+Scene two: The confrontation with Creon. Her blouse comes loose at the left hip, her skirt no longer symmetrical. Two strands of hair fall from her hairband. Her makeup will smudge, just a little to add a sense of desperation. Her mind is steel, but her body—her body is that of a fifteen-year-old girl.
+
+Scene three. The bride of death. The cell. The blouse is untucked, let loose. The headband holds nothing; her hair has escaped. New makeup on old makeup. Her eyes are darkened. Her skin is sallow, pale, vulnerable. Her lips are dry and chapped. If she manages to cry for real, they’ll sort out the makeup where it falls.
+
+It’s a juxtaposition. The tortured body. The iron mind. The diminishment of her costume was a contrast to Chloe’s, whose clothing remains prim throughout, becoming only mildly dishevelled. The visual tension was a play unto itself, the reason why Costuming was its own discipline.
+
+Would the school uniform be too titillating by the end? Eppie had a feeling that some members of the audience would think so. Regardless, Tyker had insisted. The uniform evoked a particular emotion, she said, especially given Eppie’s tiny stature. The right people should feel the right things. Fatherly emotions, Tyker had assured her. Protective instincts. The dissonance between the titillation her dishevelled state provoked and what Antigone represented was the precise point of the costume, the unspoken theatrical tension.
+
+It was now almost 1130. Thirty minutes until the moment they would all be gathered up backstage, ready to face the world.
+
+Eppie looked at the mirror for a final time. “Break a leg, Eppie Fontaine,” she said to the [Persona] in the mirror, much to the confusion of Ms McGregor. “This is your dream come true.”
+
+10 Minutes to crunch time.
+
+Eppie and the crew were assembled in the back room by Cooper long before eleven forty. Everyone was present, everyone except those sitting in the control boxes.
+
+Cooper wore his good coat. He looked professional and prim, a prime example of an institutional Theatre Chair. He swept them with his eyes, a mother hen bidding goodbye to his half-grown chicks.
+
+“You’re all done with the work. The play’s yours now, in your bodies and in your head. Trust your bodies. Trust your guts. Out there is your veritas. Five months of work coalescing to this single point. Go out there and give them your all, and remember, Mrs Tyker, Dr Costello, Mrs Seyrova and I are proud of all of you.”
+
+Dr Cooper gave her a particular look and a long, knowing smile.
+
+The entry curtains opened. The stage was dim. And their time was now.

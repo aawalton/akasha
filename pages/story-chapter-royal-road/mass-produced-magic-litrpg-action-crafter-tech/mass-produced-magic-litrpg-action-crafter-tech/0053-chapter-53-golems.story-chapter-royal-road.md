@@ -1,0 +1,185 @@
+---
+id: 94d17201-901c-51a1-8a24-dd00753d6e8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53 – Golems"
+slug: 0053-chapter-53-golems
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 53
+ownLength: 1837
+unit: words
+publishedAt: 2025-01-30
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2038824/chapter-53-golems"
+royalRoadId: "2038824"
+---
+
+Kindra stood on the edge of a cliff. The sky was a hazy red. Dust and smoke flowed around her. The smell of it, along with blood, hung thick in the air.  Another dream?  Kindra looked at the dreamscape, and her nostrils flared.
+
+Inhaling the destruction, she looked up at the sky. A half dozen moons were in view. Each shone red, ominous mirrors of the surrounding destruction.  And I’m burning something.
+
+She looked out at the bodies that littered the ground. The red humanoids looked like devils. Horns protruded from their heads. Large black and brown eyes looked up at her, no emotion or life showing in them.
+
+“Monster,” a voice snarled, more animal than human. Like gravel running down metal, it rumbled across the still air.
+
+“Demon,” Kindra purred back, spinning and looking at the towering creature. Nearly twice her height and six times her weight, it towered there, wings swaying from its back and a large red tail flickering.
+
+The demon’s mouth pulled back, revealing fangs. His eyes glistened with rage, and he reached across his armored chest, drawing a large sword. It glowed, lighting his polished armor and red skin. “Today, you die.”
+
+“Wrong. Tell me of the celestial realm, demon,” Kindra replied, her lips pulling back to reveal her fangs.
+
+“There is no celestial realm.” The demon smirked and charged, his blade ripping through the smoky air and slamming into a shield of magic. Her shield of magic.
+
+Kindra sighed and rubbed her brow. “Did you learn nothing from them?” She gestured to the bodies on the ground and rolled her eyes. “Now. The celestial realm. Tell me or suffer far worse.”
+
+The sword smashed into her shield, slicing across the transparent surface. Kindra shook her head and raised her hand. Mana flowed from it, forming a glowing ball. “Last chance.”
+
+“Die!” The demon lunged, his sword bursting into flame. It washed over the shield.
+
+Kindra laughed and waved her hand dismissively. “Demon. You lack power. You lack practice. And you are lesser.” She flicked out her hand. Magic streamed through the air, and her shield flickered. The magic caught the demon in the chest. Blood sprayed. Viscera flew, and her spell blasted the demon backward.
+
+He landed in a heap, blood pouring from his body.
+
+Kindra walked toward him. “I’ll consider healing you if you make it worth my while.”
+
+“Die, bitch.” Fire exploded out of him, and a shield snapped into place. Kindra sighed and watched it bathe him and her in flame.  Did it kill itself?  She tapped her foot and prepared another spell, focusing on the dead around her.
+
+Green and black magic gathered around her, growing denser and denser. As the flames died, she dropped her spell, and it poured out across the ground, rippling across the undead. “Come to me, my new minions,” she hissed in a low voice.
+
+The demonic corpses ripped themselves from the ground. Bloody bodies stood, their insides aglow.
+
+“Let us find the next village,” Kindra said, striding down the bloody field. “The realm of the celestials is out there, and we will find it.”
+
+The undead followed her. The smell of blood, death, and smoke lingered in her nostrils, and the ground shook.
+
+“Kindra,” a deep voice called from nowhere.
+
+What?  Kindra continued down the hill, her shoes sinking into the dark soil. A few scattered plants remained, and she targeted a new group of corpses.  Always more dead.
+
+“Kindra!” the voice shouted, and the world shattered like a broken mirror. Pieces flew, and Kindra’s eyes jerked open.
+
+With several long breaths, she looked at the inside of the stone cottage. Gleon stood above her, a smile on his face and eagerness in his brown eyes.
+
+Kindra blinked and looked up at Gleon, groaning. “What time is it?”
+
+“Time to get up.” Gleon smirked, shaking her again. Her body bounced on the mattress.
+
+“Stop that.” Kindra jerked back, pulling the blanket up over her nightgown.
+
+“We have a golem to solve.” Gleon grinned and rubbed his hands together. He gestured to the large golem in the corner of her room. It sat next to her desk.
+
+“How’d you get in my room?” Kindra rubbed her eyes and stretched.
+
+“Sorry about that,” Sigrid called. “He’s excited. Like a puppy.”
+
+Gleon chuckled. “Can’t sleep all day. We have secrets to uncover.” He spun and scooped Aika off her pillow-bed. “Wake up!” he boomed.
+
+Aika’s eyes snapped open, and she scowled. “Rotten, beardless dwarf. Leave me be.” She smacked her fists against his hand, and he laughed. The booming sound filled the room, and Kindra groaned, covering her head with a pillow.
+
+Gleon pulled it away. “No time for that. We have work to do.” He chuckled, and Aika shot out of his hands, heading back toward the pillow. He snatched her out of the air. “Lazy, little fairy.”
+
+“Bloody, beardless dwarf,” Aika snapped back, scowling at him.
+
+“Little bug.”
+
+“You know that your hair is thinning, right?” Aika smirked.
+
+“How dare you!” Gleon tossed her into the air.
+
+Aika zipped around the room, chuckling to herself. Her metallic nightgown shifted, becoming a small dress.
+
+Kindra forced herself up.  Those two got close.  She picked up a tan dress from the shelves and waited. The door shut, and she slid out of her nightgown, putting on the dress instead.
+
+Walking to the door, she paused.  Am I throwing myself into work to avoid dealing with everything?  She blanched and swallowed, knowing the answer even as she asked. Her thoughts drifted to the ship.  Did any survive? And how would I find them?  She chewed on her lip and frowned. The answer required far more tech than she had. It also required her to deal with that ball of guilt and fear.
+
+Nope.  Shaking her head, she pulled the door open and was greeted with the smell of cooking meat. It sizzled on a pan over the nearby fire.
+
+Rubbing her eyes, Kindra walked out and looked at the group of three dwarves gathered around the table.
+
+“…elemental lord?” Sigrid asked.
+
+“Maybe. We’ll have to clear ‘em out eventually.” Gleon stretched and looked over at Aika. “Remember anything about the fae realm?”
+
+“I told you that I wasn’t ever there.” Aika sighed and shook her head. She turned toward Sigrid. “How many times has he had a concussion?”
+
+Kindra laughed and walked into the room, taking a seat next to Aika.
+
+“That’s nonsense.” Gleon wagged a finger at her. “All fairies come from that realm. They are bound to it. Just as the elementals come from the elemental plane and the demons from the demonic realm.”
+
+Aika flew up and landed on Kindra’s head. “I didn’t. I’m special that way.”
+
+Gleon turned toward Kindra. “What about you? Remember anything?”
+
+“I remember being on the ship.” Kindra gestured. “Then I was here, but I’ve had strange dreams.”
+
+“Dreams?” Dain asked from the kitchen.
+
+“Yes. I was on the demonic plane, searching for the celestial one. It was strange.” Kindra shook her head.  And I think it happened.  A shiver ran down her spine, and the images of the dead flashed into her view. Her skin went cold.
+
+“Dreams are funny that way,” Gleon replied. “Probably nothing. Best not to worry about it.” He turned back to Aika. “And you’ve known Kindra all her life?”
+
+“Yes. I told you that.” Aika sighed and shook her head. “We played together when she was little.” She grinned. “You can trust her. I do.” She nodded and patted Kindra’s arm with her small hand.
+
+Kindra smiled at her. “How much do you remember?”
+
+Aika blushed. “I remember the tea party in your dad’s lab. And I remember the first robot.” She giggled hysterically.
+
+Kindra blushed and covered her face. “Oh no. Anything but that.”
+
+“Best memory.” Aika laughed.
+
+Gleon leaned forward. “What realm were you on? The human realm?”
+
+“Is the human realm called Earth,” Aika asked.
+
+Kindra turned. “We came from Earth. Then we were pulled somewhere… I don’t know what happened after that.”
+
+Dain walked over. “Do you know how to get back? The magic symbols?”
+
+“No. We didn’t have magic,” Aika replied, stretching and landing on the stone table. She walked around the dishes.
+
+“A fairy from a world without magic?” Gleon scoffed and shook his head. He reached for her, and she darted away. “It’s nonsense.”
+
+Aika flew up and stuck her tongue out. “Is not. I explained it.”
+
+“That just made it stranger. Probably a fever dream.”
+
+Kindra chuckled.  How do you explain the concept of an AI to people who don’t know anything about electricity?  She smiled and stretched. “Sigrid, can I help?”
+
+“No, no. It’s done,” Sigrid called, pulling the pot from the fire. She walked over and scooped the steaming hash and meat onto their plates.
+
+Kindra smiled up at her. “Thanks.”
+
+“You’re welcome.” Sigrid smiled back.
+
+These two really deserve kids.  Kindra’s thoughts drifted to the necromancer and her dreams.  I have to break that shield. How do I break that shield? Can I enchant the bullets to break it?
+
+She mused on it, carefully recalling the runes while Sigrid started praying.
+
+Blushing, Kindra looked up.  “Death, do you care?”
+
+[No. I’m not out demanding things like that. There is enough to do.]
+
+“Is there a celestial realm?”  Kindra waited, and the prayer ended. The group began eating. She did the same, spooning the food into her mouth. No response came back.  Hmm. There probably is.
+
+She ate the vegetable hash and meat, savoring the flavor.  This is fresh.  She looked over at the dwarves and watched their faces. “Do you like it like this? Fresh?”
+
+Gleon nodded, a smile spreading on his face. “Nice bite to it.” He shoveled a heaping fork into his mouth.
+
+Kindra polished off the last of her bowl and stood, carrying it to the sink. “Any progress on plumbing? Pipes? Water?” She gestured.
+
+“Yes, we made a tank,” Sigrid said, turning and smiling patiently. “But we do have to focus on defenses first.”
+
+“Thanks.” Kindra smiled at her.
+
+“What else was on that world of yours?” Gleon asked, his smile pulling up into a smirk.
+
+“Oh, just you wait. There are so many things that we’re going to make.” Kindra smiled.  As soon as I kill that necromancer.  She washed her plate, the smile drifting away while the dirty water swirled. There were others, and they had used her to kill thousands. That had to be the truth.  No wonder Gleon’s so nervous about me… and the townsfolk.
+
+Memories of the dead swirled around her like the water. She felt the grief growing, and Aika bonked her head.
+
+“Kindra?” Aika asked.
+
+Kindra swallowed. “Sorry.” She pulled out the plate and placed it on a drying rack, letting it drip. Then, turning, she saw Gleon place the large golem next to the table.
+
+He grinned. “Shall we?”
+
+Kindra nodded. “Let’s figure this thing out.” She walked to the table and took a seat, studying the golem.

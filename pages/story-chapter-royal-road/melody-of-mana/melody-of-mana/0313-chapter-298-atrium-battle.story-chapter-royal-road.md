@@ -1,0 +1,87 @@
+---
+id: f3dfc134-b93f-5f40-ad1d-7e5e50bfa972
+page-type-slug: story-chapter-royal-road
+title: "Chapter 298 Atrium Battle"
+slug: 0313-chapter-298-atrium-battle
+partOf: melody-of-mana
+position: 313
+ownLength: 1522
+unit: words
+ownProgress: 1522
+publishedAt: 2024-01-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1481241/chapter-298-atrium-battle"
+royalRoadId: "1481241"
+markedReadAt: "2026-06-29T22:36:37.431Z"
+---
+
+Omos
+
+Our flight to the ruin was blessedly short, shields and trees covering our escape from the monster we'd clearly underestimated. Even so as I ran beside my friends I could hear it smashing into the trees behind us, and hear the crash as it sent jets of water slamming into them.
+
+“We need a plan,” I shouted, trying to keep my voice steady.
+
+“Carapace is too hard, can't cut it,” Amara said from ahead of me, still carrying Illa.
+
+“Normal spells aren't working,” Veska confirmed.
+
+“We need to hit the world around it, not the creature itself!” Illa shouted as she was bounced around.
+
+Seconds later we hit the clearing where the ruin stood. In another time I'd have been struck by the beauty of the place, the open courtyards before the perfectly maintained arches that led inside, but right now I didn't really have the time. We ran for those archways, hearing our enemy just behind us.
+
+The atrium had multiple levels, something we could use. This wasn't something I needed to tell Amara either, with her instantly grabbing Veska and jumping for the higher areas, from there those two could rain down damage, while the rest of us took on the beast from below. With enough angles of attack we might manage to take this thing down.
+
+“Rodrick,” I began to try to tell him what to do as the creature smashed in the front of the building, claw ripping the door right out of it. “Screw it, darkness around the eyes, can you?”
+
+“Got it!” he replied and began to sing.
+
+Our carapaced enemy scuttled into the room, huge legs struggling to fit as it slid inside, but we didn't let up our assault as it did. My own spells were kinetic, grabbing any of the rubble it created and hurling it at the thing's joints as fast as I could. I didn't bother hitting the monster itself, with its magical resistance that was a waste.
+
+The only person who I didn't know what should be doing was Lena, but she seemed to have a plan of her own. Beside me sweat began to pour down her brow and I wondered what she was casting, until I saw her hand flash forward, little green lights shining and the vines spring from the floor where they landed.
+
+Crawling plants worked surprisingly well, seeming to dig into the joints they found and wrap tightly, sucking out nutrients and water from this creature we were all having trouble even damaging. Had the room been a bit bigger it might have struggled and pulled away, but as it stood it couldn't, two of its legs disabled by the grasping green.
+
+Rodrick's cloud of darkness was not blinding our foe completely, the monster bucking and turning as it tried to escape the blinding effect, but it was helping. The crab seemed to think so too as it eventually stopped, claw opening and a bit of aura leaking out of it. I wondered what it was doing until I saw the flow coming in through the door. It wasn't as much water as before, but even a little at speed could be deadly.
+
+“Freeze it!” I shouted to the other two wizards, who did exactly that, bolts of blue impacting the fluid before the creature could form its spell properly.
+
+The whole time Amara was a blur, ducking and weaving as she used her sword against any point she could reach. It didn't look terribly effective, but she was distracting the creature by hitting the outside of its legs, tiny cuts left here and there.
+
+“I need to get under it,” she said as she landed beside me.
+
+“I can get you an opening, but only one,” I answered, grabbing the biggest of the boulders the monster had left when it tore the door open.
+
+“On your mark then brother.” She crouched, tensing her legs under her.
+
+With a heave I tossed the projectile at our enemy and two of its legs rose to meet it. The claws were too far away to reach here just yet, but those would be enough. As they rose my sister ducked, seeming to slide into the gap.
+
+Amara's sword shone blue as she stabbed upwards. It had some form of enchantment on it, though I didn't know the exact details, I knew that she seldom used it, since it apparently took some time to recharge. Between two of the sections of the creature's body the blade slid like a hot knife in butter, hilt deep into the crab's body.
+
+The monster did not take kindly to that, rearing up and turning hard and fast. There was a flash of movement and Amara was sent flying, a leg having smacked her in the gut. Time seemed to slow as she arced through the air.
+
+I sent out a cushion of air to where she would land, but knew it wouldn't be enough even as it began to form. It helped, slowing her body's momentum but she still slammed into the stone hard, sending cracks into the rock. My world dropped as my sister, who'd always been made of steel, slouched, coughing and sending a spurt of red from her mouth and down her front.
+
+In the moments that I was distracted the battle changed. The beast pulled forward, one claw latching onto the ramparts as it tried to pull itself upwards and two the two girls up top, ignoring the rest of us. It seemed to have decided that those were the issue, and one it looked to now solve, pulling back one of its massive claws for a sweep.
+
+Veska and Illa were nowhere near fast enough to make it to safety, even as they tried to flee. However, in rising like it had the monster had shown me its belly. For a second I didn't recognize what I was seeing, still shocked my Amara's injury, but there was a glint there, the hilt, still buried in the monster's body.
+
+When I was younger, I'd asked my aunt about one of her favorite spells, one she was well known for, lightning. It was a powerful weapon, one I too wanted to wield. She'd told me at that time to wait, that it was too dangerous for one my age to play with, but that she'd teach me once I moved to her new school personally. That however had not stopped me from searching for everything I could in the library, and learning as much as possible.
+
+Lightning wasn't my strongest spell, or even in my top five, but if it could be applied to a body it was potent. Normally I didn't bother, magical resistances keeping it out, pushing it away, but with that shard of steel... It took only an instant to form the concepts in my mind, imaging that hilt as the highest point in a city, reaching skyward, and then directing the bolt.
+
+With a scream of effort I poured myself into the spell. It wasn't the thunderous boom and death of a true expert, but a wave of crackling arcs, each smacking into the little metal protrusion. The crab seized as the first wave hit, claw unable to keep swinging towards the girls and drawing in.
+
+Moment by moment I poured magic into the metal. First it glowed orange, then, red, then yellow, gradually brightening as more and more energy was poured into the steel, smoking and burning the creature from within as it went. The monster screamed as legs twitched, shaking but unable to go anywhere, the claw it used to pull itself upwards locked where it had grabbed and unable to release.
+
+The girls above weren't slacking though, now freed from the threat of immanent death they took up some of the new rubble, and my old position. A grim smile crossed my face as one of the rocks landed true, crushing a pair of eye-stalks under stone.
+
+Eventually I ran out of power, the mana refusing to come from my now tired body. I slumped, but then again, so did the crab, the beast no longer able to move. It fell, smoking and burned onto the ground, the last of its twitching fading quickly.
+
+It was then that I looked towards Amara. During my final attack my cousin had made it to her side, singing a healing spell over her. Now Lena made it there, raising her hands and letting a yellow light flow over the injured knight. Amara was moving, and that meant she was alive, a small miracle.
+
+I tried to make my way to Amara's side, struggling as the exhaustion from spending all of my energy washed over me. To my surprise Illa grabbed Veska and the two shakily floated down. That wasn't easy magic at all. They took my arms and helped me make my way to my sister's side.
+
+“Will she be okay?” I asked, looking at Lena.
+
+“She's hurt bad, but she'll live.” Lena didn't even look towards me, instead concentrating on her own magic.
+
+With that assurance I slumped against a pillar, exhausted.

@@ -1,0 +1,251 @@
+---
+id: 8a54d7f9-c4b0-5055-a400-4c7f796405b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 743 - Distracting the Distraction"
+slug: 0254-chapter-743-distracting-the-distraction
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 254
+ownLength: 2622
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3867028/chapter-743-distracting-the-distraction"
+royalRoadId: "3867028"
+---
+
+Tala had been waiting for them to attempt to use the Doman-Imithe to gain access to the fortifications, and she’d been ready.
+
+Humorously, she used her aura, will, and authority to strengthen reality against any such breaches from the backside of things.
+
+The Black Legions’ methods of entering and exiting seemed to relate to increasing the connections of reality between some piece in the Doman-Imithe to something on the superficial, thereby pulling through momentarily and creating a hole.
+
+Though, to be fair, that was like saying Mages healed by ‘making the human body repair itself more quickly.’ Informative? Yes. Entirely accurate? Absolutely not.
+
+Regardless, Tala simply rejected the potential of the Black Legion’s ‘alien’ connections within her area of influence in favor of those connections that were ‘more real’ on the superficial of Zeme.
+
+As such, the senior commander who’d been attempting to exit the Doman-Imithe behind her—within her fortification and beside her siege equipment—instead came out into Zeme halfway between the tree and their partial encirclement, her deflection working better than she’d hoped and forcing it to surface well back within its own forces.
+
+Tala grinned as thirty siege engines continued their synchronized bombardment over the head of the clearly confused automaton.
+
+She was up. This was her time.
+
+It seems I won’t be in the infiltration team.
+
+-Hey, distraction and protection is distraction and protection.-
+
+Tala quirked an acknowledging smile as she wrapped herself in her armor and floated forward, pushing off the wall to arc over the lessers and juggernauts below.
+
+There were quite a few other variants as well that she’d not seen before, but she’d have to leave those to the allied forces.
+
+The Black Legion’s reality field was strengthening now that a senior commander was controlling and unifying it, so she couldn’t simply flicker down and engage.
+
+She considered seeding the ground with her iron spikes to gain a further edge, but decided that doing so would be quite counter to their current desires, mainly that of not alerting the Forest Spirit of their presence if at all possible.
+
+Heavy munitions screamed overhead and passed her while she advanced on the senior commander, but she paid them no mind.
+
+She had one target of her focus, and it was looking up at her with that strange mix of longing and loathing that she was learning to expect from the automata that knew she could permanently end them.
+
+That answers that question. They finally got the information out and to the legion at large.
+
+-So it seems.-
+
+Tala sighed. It was time. Send them in.
+
+-On it.- Alat would communicate with the infiltration teams, sending them around the distractions to take out the factory.
+
+Tala cracked her neck.
+
+The senior commander opened its mouth, clearly planning on saying something despite the legionnaires rushing around and past it toward the active battle-front now well behind Tala.
+
+Tala moved.
+
+With the quickest manipulations she’d yet been able to execute, she bobbed stoneward before launching ‘forward’ at the automaton, which included a starward angle.
+
+Flow came, growing into her hand, filled with void-magics.
+
+She crossed the superficial perfectly in line with her target, her momentum carrying her starward as well as orthogonally forward before she settled back to the superficial well behind the senior commander.
+
+* * *
+
+Rane gaped as he watched his wife.
+
+He even knew exactly how she’d done it, but it was still a terrible display of skill and power.
+
+Tala had seemed to simply vanish even as she approached the Black Legion senior commander.
+
+Then, she’d flickered back to view even as she passed it for just long enough for Flow to bite deeply. The next instant, she was well beyond her target, sword still in the position of the strike, void-magics roiling around it and most of the way up her arms.
+
+The senior commander staggered, but it didn’t fall.
+
+It had twisted at the last possible instant, taking a cut all the way from the front to the back of its torso, cleanly through where humans kept their lungs.
+
+Material roiled four-dimensionally, and the damage vanished, but it was clear that Tala had done something, even if that something was just to put the automaton on the back foot and remove its clear confidence.
+
+Rane grinned, flexing his fists until his knuckles popped. “Fight well, my heart. I’ll watch our forces.”
+
+He turned and punched a juggernaut as it tried to climb over the wall before drawing Force once again and bisecting a quadrupedal form—one that seemed to be an unholy union of two standard Black Legion soldiers—as it leapt up, attempting to gain the wall-top as well.
+
+There were dozens, if not hundreds, of these and other variants as the legion sought to find a way to breach or overrun the allied positions.
+
+This was going to be a test of endurance.
+
+His smile grew even as he continued to suppress his berserker boon… for the moment.
+
+* * *
+
+Lea’s soul roiled as the odd wolf-puma-automaton-thing bit down on her arm, triggering waves of anger despite her best efforts to keep it suppressed.
+
+She screamed in rage, more directed at her own paltry ability to master herself than at the legion’s new form.
+
+Her blade flicked out and and across, splitting the false beast in half horizontally, the top popping up, almost in slow motion, revealing the odd mix of mechanisms, reality-workings, and magic woven throughout the amalgamation.
+
+The two soul-cores fled back to the factory, and the material began to come apart, even as it fell toward the forest floor.
+
+She spun and leapt on the next closest opponent, pummeling it with her free hand while she swept the sword in a warding arc, cutting furrows in any others that tried to approach.
+
+She became a white engine of destruction obliterating the black reality trying to overwhelm their defenses as she unthinkingly continued, always forward toward the next opponent.
+
+Then, Eskau Pallaun was there, his skin making him look enough like the Black Legion that she almost attacked him.
+
+But her other senses were far too well honed to truly make such a mistake. Her rage quailed before the aura rolling off the man as he appeared beside her, seeming almost to burst out from within a sergeant, the first officer she’d gotten close enough to to identify it as such.
+
+“Control yourself, Lea. A wildly swung sword may wound, but it is the precise strike that kills.”
+
+Her very soul bent beneath his words, and she knew he was suppressing her, attempting to drive her boon back into quiescence.
+
+She could have fought him—rust, if he’d been an enemy, she likely would have, no matter how good the advice—but she trusted Eskau Pallaun on a fundamental level, and his words rang true.
+
+A hand rested softly on her shoulder from behind, and Talax spoke softly. “Are you back with us, Lea?”
+
+She turned and saw the young man smiling at her, clearly weary. They were nearly two dozen yards from their assigned position, and he’d followed her, clearly protecting her back as she’d raged. She nodded, feeling suddenly ashamed. “I… I am.”
+
+Talax’s smile grew. “Good. Come on. We’re meant to be there.” He pointed. “I think we’d better get back to it.”
+
+Eskau Pallaun had held their small section of the battlefield in silence and peace while they recovered themselves, but the hue-man grunted then. “I must go. Another senior commander is taking the field offensively. Eskau Meallain is otherwise engaged, so I will take this one.” He glanced toward the two young fighters. “Keep each other safe.”
+
+Then, the man was gone, and Lea and Talax were sprinting past other defenders who were coming to fill the void, heading back toward their post.
+
+* * *
+
+Tala caught the senior commander’s punch and frowned, sending forth her voice. “No concept blade? Truly?”
+
+The automaton didn’t answer, just continued the attack in an unending, unbroken, perfect sequence of attacks, each as powerful and precise as the last.
+
+In the back of her mind, Tala felt an itch to clad herself in existence and strike forth, but it was still a dangerous tool for her to use. The very fact of the temptation highlighting that truth.
+
+It would also go against their plan as there was nothing about the powers of existence that was quiet.
+
+Even so, this senior commander was… disappointing? Weak?
+
+“What’s wrong with you? Are you defective?”
+
+She didn’t even bother to block the next strike, and it bounced harmlessly off her chestplate.
+
+Tala took a moment to analyze her previous fights with automata, then she excluded all those that she was reasonably certain from which no information could have gotten back to the collective.
+
+She was left with a rather clear picture.
+
+Oh… I’m really that predictable?
+
+-It seems so. You fight harder and win faster against more powerful threats.-
+
+So, it’s giving a lackluster show to… what? Delay me?
+
+-That would be my guess.-
+
+Tala’s authority told her that Eskau Meallain and Eskau Pallaun were both fighting senior commanders, while Rane and the position beyond him were as of yet unchallenged by upper-ranked officers. That’s all we know about. Hopefully, they haven’t made more…
+
+The factory tree was still under bombardment, now with a full ten automata of at least commander level that were striving to negate the siege weapons’s attacks.
+
+The infiltration team was two thirds toward their target, and those in that group tasked with the destruction of the factory were already preparing their means.
+
+She wanted to extend the fight, keeping the focus on her, but why did the senior commander want that? Was it simply that they didn’t want her to permanently end a lot of their number?
+
+-On it.-
+
+Across the battlefield, Alat redoubled her efforts, helping send the erstwhile trapped souls on to the next world. Even so, with the underlying sovereignty that they had to avoid, it was far less efficient than it had been in previous battles, allowing many to slip back to be re-encased at the factory near-to hand.
+
+They could be delaying to try and wear down the allied forces? If they dragged out the conflict, the biological side would eventually wear out, and with the legion’s factory pumping out their constant stream of legionnaires…
+
+That thought brought Tala’s focus to the tree, where automata were pouring out of the top to slide or clamber down the trunk and swarm toward the ongoing battle.
+
+The flashing lights and concussive detonations didn’t disrupt her perception, but they did make it marginally annoying to focus on the defensive efforts of the legion in that area.
+
+The senior commander didn’t seem to notice her wandering attention, and its lack-luster performance was honestly beginning to irritate her.
+
+I should just send its core to the next world and move on. She nodded to herself, and the clash changed.
+
+Flow whipped out faster than any of her previous strikes, taking off the thing’s hand on the way to bisect its head.
+
+There was no hesitation, a blade of black steel appeared, parrying upward to deflect Flow and allow the void-magic weapon to sweep past even as the automaton bent backward, its hand reforming.
+
+Tala kicked out, knowing that while a biological opponent would be thrown off balance by performing such a backbend but also knowing that the senior commander wouldn’t be.
+
+Her foot connected, knocking one of the supporting legs out from under it, but she’d been correct, it maintained balance, moving with the hit and stealing momentum to whip its own weapon around and drive it toward her.
+
+Tala didn’t trust the automaton at all, and the fact that its attacks had been completely nonaffective against her felt more than a little like a trap.
+
+As such, she both dodged and lifted her off-hand vambrace to deflect.
+
+Sparks showered outward as the black blade carved deeply into her armor, only the angle and motion of her block turning the cut from one that would have taken her hand to one that simply removed a chunk of her armor.
+
+Tala felt rising irritation and opened a small portal as close to the thing as she could.
+
+Quicker than a hummingbird’s wing-beat, a tungsten sphere blasted out, pegging the senior commander directly in the head.
+
+She saw the briefest widening of the false eyes, drawing a smile to her lips even as shrapnel showered outward.
+
+Her hand snapped forward, reaching for the soul-core before it could disperse. Before the task was completed, however, two more rips were torn open, each ejecting another senior commander from the Doman-Imithe.
+
+Tala’s momentary shock a there being two more, let them through. After all, she was focusing more on keeping the Doman-Imithe sealed around the forts and siege weaponry. She had no issue with more automata coming to die at her hand. But more senior commanders?
+
+-Alright then, worst case scenario confirmed.-
+
+Indeed. She snatched the soul-core anyway, beginning the banishing process even as the new automata charged in.
+
+This time, they weren’t delaying, and the ferocity of their attacks demonstrated that plainly.
+
+* * *
+
+The factory tree was an incredibly odd, vertical construction, the sides made up of body-sized hexagonal chambers, much like a beehive, if at quite a different scale.
+
+Each hexagon had an automaton assembling within it, had such a thing pushing free, or had just disgorged the latest, ready to begin the process all over.
+
+There were thousands of assembly bays, and it looked to take bare minutes for each construction.
+
+The entirety was lit with flickering purple light as soul-cores were initialized in a seemingly random sequence throughout the factory.
+
+Mistress Noelle didn’t really know why she hadn’t sent an assistant to do this, but she was here, and she’d see it done.
+
+The Leshkin had been a thorn in her side for cycles, and now they had allied with something that was somehow both worse and more inconvenient.
+
+She’d been driven from her research more than a century ahead of schedule.
+
+Worse, she’d had to leave Kevin behind.
+
+It was unacceptable.
+
+She was no battle Mage, but she did have quite an assortment of fun results from her many experiments over the years.
+
+In this case, a magically bred and enhanced—but fully mundane—relative of the Lycoperdon ‘puffball’ had resulted in the creation of a powder finer than even magically milled flour.
+
+The resulting dust would actually slowly rise up, out of any container and spread evenly throughout any available space with no need of wind movement or outside force, simply due to how light it was.
+
+Mistress Noelle opened her bound storage in the miniscule room they had and dumped out fragile jar after jar, each as large as she was, each packed with that dust.
+
+The stream of earthenware fell straight down the center of the tree.
+
+Their transportation was already moving as the fiftieth and final large jar fell free.
+
+Several others had dropped their own concoctions, accelerants, chemical explosives, and even a fairly interesting bio-acid that only fully activated in the presence of extreme heat.
+
+Her jars hit first, the loud and long chain of shattering causing all automata present to momentarily freeze and swivel to look toward the suddenly billowing cloud of dust, expanding like smoke-spell, rising like the oncoming tide.
+
+The burly Refined carrying her and another of their strikeforce jumped from the upper branches just as Mistress Noelle saw a flickering spark deep within.
+
+That’s where everything went wrong.
+
+Rather than a conflagration, explosively reducing the factory tree to splinters and dust, a presence of surpassing power rolled over the entire clash.
+
+A single, undeniable word filled every sapient mind.
+
+“No.”

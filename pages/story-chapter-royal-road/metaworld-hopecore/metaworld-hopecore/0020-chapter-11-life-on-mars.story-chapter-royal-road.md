@@ -1,0 +1,249 @@
+---
+id: 518debd5-61a4-56d8-9c2c-4bc8eedfb83d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 11 - Life on Mars"
+slug: 0020-chapter-11-life-on-mars
+partOf: metaworld-hopecore
+position: 20
+ownLength: 2292
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3366438/chapter-11-life-on-mars"
+royalRoadId: "3366438"
+---
+
+"The theatre was created to tell people the truth about themselves."
+
+Stella Adler
+
+Theatre.
+
+Arts Block took place a brisk walk away, in the old Music Building now on permanent loan to LAPA, furnished with a series of recital halls last refurbished in the late 80s. A portion of the building was undergoing renovation, leaving the incoming cohort of Sophomores to use a series of tired-looking booths that formerly served the college campus orchestra.
+
+Looking at the row of bags by the wall, she was evidently not late, but concurrently, most definitely late.
+
+And she had apparently arrived at a cult meeting.
+
+The ceiling was linoleum. The floor was Marley. The walls were padded. The setup had the vibe of an old asylum.
+
+The kids, some twenty odd excluding herself, were in all black shorts and tees, and they were sitting in a circle, facing the instructor.
+
+Her instructor was not happy.
+
+But he was very handsome.
+
+At the head of the circle, towering over the Sophomores, stood a Lord Byron type who looked like he jogged the distance from CSULA’s off-campus staff apartments to the Goldberg Building every morning. He wore thick horn-rim glasses that focused the viewer’s gaze onto his equestrian nose. He also wore a top with just enough contour to match his expensive-looking denims. In short, her teacher looked like he had just walked off the set of a popular TV sitcom.
+
+This was, according to her program, Craig Costello, ex-Producer, theatre director, thespian, Tony nominee, and acting consultant to the stars.
+
+His audience does not turn to look at her. They look at him. His stoic body language.
+
+The room was quiet. Very quiet, save for the whinny of the old central AC.
+
+They looked away only when he broke the circle’s perfect symmetry to greet her.
+
+“Miss Euphemia Fontaine,” her instructor’s voice was low and resonant and Shakespearean. “I was hoping that a special admission student like yourself would have arrived early to put yourself into the right state of mind. I see that I was wrong.”
+
+“Sorry?” Eppie did the thing with her face. The smile.
+
+Castello’s hand moved as if to part the mountains. “Saying sorry does not restore our time. Dialogue is not free, Miss Fontaine. More so in a scene. If you ever join a theatre company, know that if you’re tardy, you’ll be folding programs and handing them out in costume on Broadway. Now sit. Do try to find your centre. If you can find your centre. This is Acting II. You are no longer total amateurs.”
+
+Eppie stowed her shoes, found her place, and sat.
+
+The gaze from her peers, a few of whom she recognised from English Honours, was not kind. Some were dismissive, some annoyed, others apathetic, and a few were amused.
+
+“I shall not repeat what I earlier said, so let’s begin with Big and Small. Class, take your positions.”
+
+Eppie watched the others shuffle backwards and take up an individual space. She followed suit, keenly aware of Costello’s gaze as she awkwardly found an unhindered spot.
+
+“Neutral,” her instructor spoke as if through tongues. “Relax your body. Relax your face. Ground yourself. You are completely neutral.”
+
+The others flopped.
+
+Eppie flopped.
+
+“Now, inhale, expand.”
+
+From the corner of her eye, she watched the others mime snow angels on the Marley floor.
+
+Unsure of its purpose, Eppie did as told. Moving her limbs and inhaling as commanded.
+
+“In SYNC, Miss Fontaine!” her instructor barked. “Feel the flow of the others around you. You are but one organism among the many. You are a polyp in the collective coral of life. Breathe as one. In SYNC.”
+
+She performed as told, or believed she had.
+
+Instead, her instructor shook his head.
+
+“Breathe out…. Small. Make yourself small. You are miniscule. Tiny. A pinpoint upon a pinprick…”
+
+She curled into a ball, carefully watching the others.
+
+“Keep going… Breathe out… out… out… out to sea.”
+
+“Now… breathe in. Expand… expand… expand… your limbs unfurl. You uncurl. You are largess itself. From your toes to the tips of your fingers, expand.”
+
+Eppie stretched out her limbs so that every sinew strained against their mooring.
+
+“Good.” Costello nodded approvingly, then moved on. “Now. As one, feel your neighbours. Sync your chorus. You are an ensemble. You are one body.”
+
+Her instructor said nothing else.
+
+In the sound-dampened room, the students were left only with the sound of their own breath. With a notepad in hand, Costello patrolled the flesh sea of bodies in black, offering ticks and remarks in pen, striking the names of each student.
+
+He arrived above her.
+
+The Roman nose made her instructor look like a brooding hawk. The man would make such a good authoritarian villain in a historical TV show.
+
+Her instructor scribbled twice, then made a note.
+
+Twice meant a cross. Her man was not satisfied.
+
+Eppie wasn’t sure how long the process took, but at some point, Costello suddenly shouted “LIVELY NOW”, and the boys and girls sprang into action, suddenly uplifting themselves as if they were resurrected dead.
+
+They began to pace endlessly, while Eppie lifted herself through sheer will in an attempt to catch up, then followed behind the others in a desperate attempt to mimic her peers.
+
+“No leaders!” Costello verbally lashed at a particularly striking blonde with a highly memorable face. “Neutral walk. We are ouroboros, don’t leave space for others.”
+
+Just as Eppie relaxed, Costello turned to her. “Eppie. Why are you behind in every loop? Feel the space around you. Move through anticipation, not reaction. Be natural. Do you think about space when walking in a crowd? Are you aware of others while rushing to the canteen? Channel that spatial awareness to the stage. This is the essence of the ensemble.”
+
+Eppie followed, not particularly understanding her instructor’s wisdom. She was managing it, though, through sheer physicality and by leveraging her highly attuned [Potential]. By the third revolution, her whole body was sweating. Her joints ached, and she could visibly see her [Stamina] fall.
+
+She paid the [Causality] and kept going.
+
+“Stop. Water time,” her instructor walked back to his desk.
+
+The boys and the girls stumbled as zombies for their water bottles by the wall, leaving Eppie alone in the middle of the room. The room smelled of teenage sweat, sweetly pungent, and onions, with a hint of iron. The cold air conditioning greedily lapped up the moisture on their bodies, making the artistic hopefuls shiver in unison.
+
+Eppie found her water bottle, then evaluated her present circumstance.
+
+This is fun.
+
+She faced her inward self with surprise.
+
+Holy shit. This is actually, really fun.
+
+When her instructor returned, it was with the weight of drama—a stack of Xeroxed copies of Antigone.
+
+“You are familiar with this from your prior studies. Today, we will explore conflict. The conflict of Natural Law and Human Law.”
+
+The atmosphere in the room shifted. The smug girls were no longer so confident.
+
+Some of the boys groan. A few of the students look secretly pleased.
+
+“Turn to page 78. Of Ismene and Antigone.”
+
+The students did as was told, and so did she.
+
+“Before we begin, let us be reminded what Theatre really is. In the misfortune of our present world, the idea of show business, a business, is inescapable. Yet, is that all theatre can be? Of course not. Theatre has never been about business. Theatre has never been about trends. Theatre is—?”
+
+A dozen hands shot up. “Harrison.”
+
+“Theatre is about performance. It’s about the roles we play as human beings.”
+
+“Fair. Claire?”
+
+“Umm…” the tiny brunette choked. “What Harry said.”
+
+“Unoriginal. Atkinson?”
+
+“All the world’s a stage…”
+
+“Wrong play. Eppie, will you volunteer?”
+
+Eppie’s eyes snapped open. She had just immersed herself in the authenticity of holistic learning, and now she was violently rocked from her comfortable perch. “Er…”
+
+Costello adjusted his glasses.
+
+Someone from the crew snickered.
+
+Eppie felt her pride growl like a kicked dog. The last time someone had tried to show her up, she had exposed her colleague’s questionable expense submissions and sent his wife the receipts.
+
+Was her teacher bullying her? Not really. Was he using her as a whip for the others, though? Absolutely.
+
+“Can I speak candidly, sir?” She raised her hand, rising to her feet. These kids want a show? Sure, she’ll give 'em a show. She’ll give them a TED talk with a front row fee of over five hundred US dollars a head.
+
+“Speak as you please,” Costello stepped back. “Do you not know I am a woman? When I think, I must speak."
+
+The students burst into laughter. Eppie made a haha, then filled her lungs with large, difficult, and terrible words.
+
+“Theatre is VERITAS,” she snapped at the air like a trainer with a whip, cracking the Latin with a bang. “Theatre isn’t business, because it is pedagogical philosophy. Theatre is where the mask of man falls away, and we see the rawness of life underneath. It is a crucible of the human condition where the impurity of society is removed.”
+
+The other students stared, mouths open, jaws unhinged.
+
+Eppie felt her face grow red.
+
+Did she overdo it?
+
+Fuck. I overdid it.
+
+She looked at Costello.
+
+The man’s face was pleased.
+
+“YES!” her instructor clapped just once. “Yes! Well done, Miss Fontaine.”
+
+He turned to the students.
+
+“Say it with me. Veritas!”
+
+“VERITAS”, the students aped back.
+
+“Three syllables contain the truth of the world,” Costello said, pacing the Marley floor, his thick horn-rims perched on the end of his nose. "Veritas. Truth. Not 'accuracy,' not 'realism,' but Truth.”
+
+“Truth is beauty, beauty is truth,” Eppie added to the man’s heightened sensitivity.
+
+“YES!” her teacher punched the air. “John Keats. Have a gold star.”
+
+Smugly, Eppie regarded her cohort.
+
+The reaction, unfortunately, was not the admiration she had expected.
+
+Instead, she saw displeasure, jealousy, insecurity, apathy.
+
+Bloody kids… She hid her face before rolling her eyes. Her teacher cared not for children's emotional dysregulation.
+
+“All the world’s a stage, that’s what Atkinson said. The stage is Veritas, while life is performance. In life, you wear the skin of social animals. You are my student, your parents’ children. You are a quirky friend. You are the rebel without a cause. What it is—is artifice. Life is artifice, but the STAGE—the stage is the realm of truth, where we shed our skins.”
+
+Her instructor bid her return to her place on the floor.
+
+“Now, we return to the girls. Ismene obeys the King's law. Antigone obeys the natural law of the Gods…”
+
+The marathon session lasted almost three hours.
+
+Eppie was selected to read out the lines of Antigone, while the tall blonde was made to read the demure lines of Ismene. She did a good job, or thought she did, until Costello told her that she’s not delivering sermons at a seminary, then bid her practice outside of class.
+
+The rest of the week, her instructor said, will be framed around rhetorical warfare.
+
+The chairs were stacked. Floors wiped. The circle was joined, and like a cult, they repeated the mantra of Veritas.
+
+When all was said and done, the sun outside was already golden, and her belly growled something fierce.
+
+As a privileged on-campus pay-to-play, she needed not suffer the cramped girls' change rooms with their musk of fruit-scented roll-ons. Instead, she made straight for the dorm, where she would pack her bags, go out for dinner, then capture her roommates for the evening run.
+
+In August, the LA sun was a harsh mistress.
+
+Yet, the strangest experience of all was the extreme dislocation she felt while traversing the CSULA campus.
+
+Mentally, she was more adult than most adults. Physically, she was an adolescent.
+
+The students who made their way around CSULA were, in her eyes, kids. Yet, they were clearly adults, while she was the kid who was out and about.
+
+As she effortlessly made her way up the hill to the apartments, she smiled, nodded, greeted the “juniors” who waved, said hi, and remarked upon the size of her duffle. In her shorts and her tees, with her hair in a bun, she must have reminded them of their own yesteryears before the pressures of college and the weight of real life made them bow their heads.
+
+That or they were simply mesmerised by what Eppie assumed was her [System] verified [Comeliness]. In her many years of working alongside entertainers, she knew very well that beautiful people were plentiful, but real “stars” possessed something special. Sometimes, it was Jennifer Grey’s nose. Other times, it was the marketability of outrageous body proportions. In her trained eyes, what had made Eppie special was the allure of pity—though that had been warped by Lana occupying the pilot seat.
+
+The Eppie of today was a chimaera that projected a particular, individual air.
+
+Near the entrance to her dorm, she stopped.
+
+Something wicked raised the hair at the back of her head, and there was no shaking the horrid feeling of being watched.
+
+In a single leap, she took to the retaining wall and inspected her surroundings.
+
+A silhouette near the Student Union building turned its back near-instantly and faded into the building’s interior. With the sun glaring in her eyes, she couldn’t catch the details, but she was absolutely sure that it was a man, a large-framed man, and he was watching her.
+
+Her eyes scanned the direction of Lapa’s borrowed array of buildings.
+
+The students near the dorm were all now looking at the girl standing on the wall like a fool.
+
+She landed with the grace of a lynx, though it was too late. The buzz was gone, and the afternoon sun had lost its warmth.

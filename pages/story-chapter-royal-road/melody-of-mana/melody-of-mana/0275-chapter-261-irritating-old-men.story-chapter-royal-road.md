@@ -1,0 +1,99 @@
+---
+id: fbdc7f80-3c00-5437-9c1a-863591606d40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 261 Irritating Old Men"
+slug: 0275-chapter-261-irritating-old-men
+partOf: melody-of-mana
+position: 275
+ownLength: 1305
+unit: words
+ownProgress: 1305
+publishedAt: 2023-08-23
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1319058/chapter-261-irritating-old-men"
+royalRoadId: "1319058"
+markedReadAt: "2026-06-29T22:35:19.573Z"
+---
+
+“You're a problem, do you know that?” a particular old priest asked me from his desk.
+
+His room was simple, so very simple, but it had a home-like quality to it. This was a place you could relax and do whatever it was you found relaxing for untold years, and he had. The only place that was hectic was his desk, piled high with papers.
+
+“I'm getting told that a lot recently, yes,” I replied truthfully. “But not all problems are bad.”
+
+“I do not want, and will not allow him here,” he said waving the note. “Not within a thousand miles of here if we're being precise. To even suggest such a meeting is some kind of insane insult to order itself, and I will not have it.”
+
+“Aaron, I can call you Aaron right?” At his hand wave I continued. “I know things went poorly in the past.”
+
+“You do not.”
+
+“I do, but I have other concerns. If you had been there, if you had seen and felt what I saw and what I felt, you would too.”
+
+“You're convinced that this danger you encountered is what? Some kind of Lovecraftian horror waiting to consume this world?” he asked.
+
+“Maybe, maybe something else, I don't know.”
+
+“And yet you continue to use the very magic that you say nearly brought it into this world, how responsible,” he quipped, clearly unhappy at that.
+
+I leaned forward, locking my eyes on his. “The cat is out of the bag old man, too many people now know about the portals; too many are already interested in the possibility of teleportation to just ignore it, or hide it. We didn't know at the time, or things might have been different, but they are as they are. What I am doing is trying to fix any damage that might happen, and to find ways for it to not happen again.”
+
+“Care to explain what you mean?”
+
+“Bards, we're capable of fixing the little distortions caused by this sort of magic, if imperfectly. I figured it out years ago when trying to clean up after myself and am training others to do just that. That and working on items, some of the aid for which has been provided by the one you're maligning so harshly. I went to get his aid because he's the best with this kind of magic.” I was already tired of this argument.
+
+“What makes you think that?” the old priest asked.
+
+“Because I've seen his work.” I could see in his eyes that he wanted me to expound on what exactly the man he hated so viciously was working on, but he was out of luck. “Which you're free to ask him about if you agree to a meeting.”
+
+“Even if I wanted, it would be impossible. I'm not going to where he is, or sending any of my people that could speak to him about this, and he is certainly NOT coming here.”
+
+“You can use my place, it's as neutral as anywhere could be,” I offered.
+
+“If I find that you've brought that man onto this landmass, we are going to have problems,” he said, his voice low and dangerous as he loosed his aura, the power flooding the room. “Are we clear?”
+
+“Crystal,” I said weakly, he was trying to intimidate me, and it was working.
+
+“Good.”
+
+Slowly he pulled the power back down. Over the years it seemed every stupidly powerful magic user seemed to gain both intuitive and perfect control of their aura. I wasn't quite there yet, but I was far better than most, and able to hide it when I wanted. Many a caster always leaked some amount of it out into the air, and I briefly wondered if that training made you stronger or something.
+
+“Teleconference,” I said after thinking in silence for a few moments.
+
+“What?” the ancient man replied.
+
+“We already have working radios, with a bit of extra effort we could easily set up a teleconference, or something much the same. Either here or at the old fortress. He wouldn't need to be nearby, and you could actually talk rather than just having issues at continental distances,” I suggested, hoping for some agreement.
+
+“Our 'issues at continental distances' are unlikely to be solved, but the idea is at least tolerable.”
+
+He sat back in his chair, tapping his desk repeatedly for several moments. I might have him here. There were only so many objections anyone could raise to accepting a phone call about potentially world-ending problems, and we both knew it. Heck, if he didn't I'd probably find some way to get Justin what he wanted anyway, consultation or not.
+
+“I'll consider that, and get back to you later,” he finally answered. “Part of the problem is you as well. You're associating with a known mass murderer and if reports are to be believed you almost single-handedly wiped out everyone in a succession line in one swoop.”
+
+“Not how I wanted things to go. Lief needed to die for what he did to Durin, what he did to our country, and what he would have done. I know reports were made on Ice's End, on what happened with those children.” Intimidated or not I spat venom at him now, he had no right to question me here, or berate me for doing what was right.
+
+“And the children, what of them?”
+
+“I did not kill any children,” I said, gritting my teeth.
+
+“No, you did not,” he said with the calm truth of someone letting you in on their secret. “We have ways of tracking bloodlines you know? When the bishop in Lithere found what he did he was most confused. Sent one particular little one to us, to make sure. Your portal network helped bring her here.”
+
+“She has no family left, and if you tell anyone that kid will either be assassinated or become a political pawn, perhaps both. She deserves a chance at a decent life.” I locked eyes with him.
+
+He knew these things already. Was he threatening to bring her forward? Did he think that having her here would make her a pawn, for him? I didn't know, but I'd done what I could to see to it that that little girl would get a chance, and I would do so again.
+
+“Is that why you did it?” he asked.
+
+“I didn't know she existed, and I didn't want to hurt her mom. They didn't need to die, far as I know they didn't ever do anything wrong. The mother didn't kill anyone, and the child is just a child. The question is, what do you plan to do?”
+
+“Nothing.” At my raised eyebrow he continued. “We're politically neutral on most things, we will do nothing. There are no parents to claim her, or even proof that she's the legitimate heir to anything, and exposing her to danger would be cruel. So we'll do what we do with every orphan, we will raise her.”
+
+“Theodore?” I asked, wanting to know what the bishop might be thinking.
+
+“Suspected she was a bastard. You wouldn't believe how many of those are floating about. I was hoping you might confirm my suspicions either way, though I would advise you to watch for that in the future.”
+
+He had me there, even if it pissed me off. I could have just denied everything or stayed silent, notes for later.
+
+“Advice noted. I'm off to set up the things so you or your representative can have that meeting. Kindly send them to the fortress as soon as reasonably possible.”
+
+“I didn't agree,” he pointed out as I rose to leave.
+
+“You will anyway,” I replied as I left, closing the door behind me. I could hear the guffaw, but I was right.

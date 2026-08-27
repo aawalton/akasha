@@ -1,0 +1,271 @@
+---
+id: 17f1bcc5-ca08-59b3-9e8f-39f7bbb016e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 632 - The Fox at Midnight"
+slug: 0135-chapter-632-the-fox-at-midnight
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 135
+ownLength: 3119
+unit: words
+ownProgress: 3119
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2740117/chapter-632-the-fox-at-midnight"
+royalRoadId: "2740117"
+markedReadAt: "2026-06-29T19:41:45.344Z"
+---
+
+Tala had left the gate open to Ironhold, anchored to the wagon that it had been with all that day. Doing so meant that they didn’t really have access to their sanctum—as Kit couldn’t spread her various parts out too much—but that was fine.
+
+Kedva, Brandon, Adrill, and their assistants could enter and exit the sanctum at will, so if something was needed while the core Sappherrous family were gone, it could be acquired, and they weren’t leaving those within the sanctum trapped there.
+
+The Sappherrouses didn’t simply walk out into the wilderness. No matter how much time they had, that would be far too slow as they didn’t know exactly where the beast would be holed up.
+
+Instead, they each utilized their own method of fast movement.
+
+Rane, as usual, turned his magic into kinetic energy, vaulting in great arcs.
+
+Terry flickered through the trees, and Tala leapt with great, powerful bounds, altering her gravity at key points to go further and move more quickly.
+
+As to Lea? She crouched, seeming almost to stutter, artificial muscles and magics straining against one another as she fought to move while absorbing all her own momentum as soon as she began to do so.
+
+After about ten seconds of this, her inscriptions flashed in a different pattern, and she was loosed forward, instantly taking on more speed than either her father or mother, catching up and passing them in what would have been a blur of movement to a mundane.
+
+The girl’s very soul seemed to resonate with the movement and with the world around her, leading to reality… remaining undisturbed by her passage. Wait… is it her soul? Or is it from her body?
+
+-I can’t tell either… We have been analyzing it when she’s practiced, but we haven’t been able to pin down the exact source of the… leveling? Soothing?-
+
+Well… keep an eye on it?
+
+-Already on it.-
+
+After reaching the top of her leap, Lea began to arc down, slowing rather than speeding up, her momentum re-entering her inscribed storage for that metaphysical quantity. At the same time, she would be moving her arms slowly in fluid actions, clearly fighting against her storing magics, adding to the building momentum that would be at her disposal. In the descending phase of her travel, Tala and Rane would catch and pass her, leapfrogging each other at various points as well.
+
+When Lea’s foot touched down, it was as light as a feather, not even disturbing the surface she landed upon.
+
+Then, she would release the stored momentum once again, loosing herself once more to catch and overtake her parents yet again.
+
+As to where they were going? Alat and Enar were guiding the family’s flying constructs through the area, each with a small bloodstar cloud utilized to give them a far, far greater ability to search.
+
+The family was proceeding right up the middle of the search pattern—which the alternate interfaces had been executing since the first of the exodus had begun setting up camp for the night—ready to divert to the side if anything was detected.
+
+Even so, it still took them hours before the midnight fox was discovered.
+
+Ten minutes after it was, the Sappherrous family landed outside a large cave, the mere starlight no hindrance to any of the four.
+
+Tala immediately informed the others what the situation was. “The beast is near the back of the irregular tunnel. The entire cave is only about a hundred yards deep with quite a few twists and turns, making it defensible for the beast, depending on how it chooses to fight.
+
+“No offshoots that I can see, and it is alone.”
+
+Rane nodded along, Terry was simply staring fixedly at the cave mouth, and Lea was hopping from foot to foot, clearly both nervous and excited.
+
+“So, Lea?”
+
+“Yeah?” The girl jerked, her head whipping to face her mom.
+
+“This is the test you wanted. Fight and win without collateral damage.”
+
+She nodded.
+
+Rane cleared his throat. “Do you know what you are facing?”
+
+Lea nodded again. “Midnight Fox, Bound level existence, lightning and darkness magics, most often manifesting as electrical strikes and defensive shields of various kinds.”
+
+Rane nodded, not seeming to see a need to correct her.
+
+Terry chirped, and Tala sighed. “No, Terry. Just her. We’ll wait out here.”
+
+He chirped again, clearly a bit disgruntled.
+
+She shook her head. “She’s ready, Terry, and she is better prepared than I was when I faced this beast.”
+
+Lea looked to Terry, seeming confused, almost hurt. “Don’t you trust me? Do you think I am so weak?”
+
+Terry squawked in complaint, eyes narrowing.
+
+Tala laughed. “Ahh, that’s the issue.”
+
+Lea looked between the avian and her Mom, confusion evident on her face. “What?”
+
+“He is afraid that you’re going to ruin the meat, and he’s still grumpy from my destruction of his snack, back in the day.” Tala turned to regard Terry. “I’ll remind you that you could have helped me back then, but you didn’t. I killed it the best that I could. It isn’t my fault that there was nothing left for the scavengers.”
+
+Terry let out a disgruntled, offended squawk, but then hunkered down to wait, shrinking until his head barely poked above brown grass in this sheltered valley. Still, his eyes remained locked on the cave mouth, his intent and feelings clear.
+
+Rane chuckled, patting Force’s hilt at his waist almost absently. “Well, then? We’ll wait out here. Proceed when you’re ready.”
+
+Tala nodded, her white steel hand molded around Flow’s hilt at her own waist, even though the weapon was in the form of a knife.
+
+Lea sighed, looking at her Talon-provided armaments and gear in general.
+
+She had a chest and back piece over her tunic along with vambraces and greaves for her arms and legs. Hanging down around her waist was a series of plated leather strips forming an armored skirt over her pants. An overly heavy round shield made up the rest of her ‘free’ white steel, meaning that which wasn’t a part of her body.
+
+She freed the shield from her back, moving it to her left arm where it integrated with the vambrace there and formed a handle for that hand to grasp, keeping it from twisting freely about her forearm.
+
+She then grasped the edge of the shield and pulled away, forming a short, heavy blade that would be a wonderful choice for the close confines of the cave, even if the space was nearly twenty feet in its smallest dimension.
+
+After taking a few test swings, Lea frowned. Then, with a sigh, she reshaped the weapon into a short spear. Tala nodded as that was, honestly, a better choice given the situation and Lea’s magics.
+
+The girl’s shield also grew, widening even as it thinned. Lastly, thin wires spun out to hang from the bottom edge of the shield, just long enough to brush the ground.
+
+Tala nodded in approval once again, but didn’t say anything further. This was for her daughter to work out.
+
+Lea muttered to herself. “I could just bring down the cave and crush the beast within…”
+
+Rane cocked an eyebrow, clearly holding his tongue.
+
+“But that would fail the test.” She sighed. “Alright, let’s do this.”
+
+Lea moved forward with a rolling gait, shield held before her, spear ready to thrust forward.
+
+As she approached the cave mouth, her over-thick backplate shed some of its mass to flow upward, forming a full helm that separated from the back to allow for ease of movement.
+
+The addition of the helmet caused Tala to sigh in relief, earning a mischievous glance from her daughter, her eyes barely visible through the eyeslit. Though Tala could see her just fine with her threefold sight.
+
+That girl… Still, a smile tugged at Tala’s lips. I am glad that she’s confident enough to have mental energy to play with.
+
+-Indeed.-
+
+Lea’s playful expression fell away as she oriented on the cave once more, her movements predatory as she advanced.
+
+The midnight fox had clearly sensed them, but it had stayed back despite their gates, likely cognizant of the vast disparity of advancement and power. Magical beasts hated gates and gated, but that hatred was generally not enough to cause them to kill themselves on humans so many stages beyond them.
+
+Now, however, Lea was moving forward alone, a being that wasn’t even Bound in power.
+
+Tala saw when the vulpine predator realized what was happening. It perked up, then dropped low, stalking forward, even while its antlers began to build a charge.
+
+The fox was a bit faster, but Lea had started first, meaning that the two met near the middle of the cave’s length.
+
+The first engagement was an obvious one, lightning lancing from the near total darkness of the deep cave toward Lea.
+
+Lea either felt or saw the attack and crouched a bit lower, the hanging wires coming into solid contact with the ground even as she pulled her short spear back behind the shield’s profile.
+
+The lightning struck her shield, then—being within Lea’s authority and thus outside the continued control of the fox—the electricity took the path of least resistance, flowing across the shield and down the heavy wires into the ground.
+
+The white steel was an excellent conductor, barely heating with the passage of such power.
+
+Lea barked a laugh before launching herself forward, using a good chunk of the momentum she’d stored during her advance into the tunnel.
+
+The sudden spring forward didn’t entirely take the fox off guard, but the attack was faster than the beast seemed to have expected.
+
+Lea twisted in the air, thrusting the spear far out before her, her magics enshrouding it and readying for contact.
+
+At the same time, her shield pulled back, protecting her body as she extended forward with the other hand.
+
+The fox had tried to jump aside, moving its body while snapping out with its jaws.
+
+Unfortunately for it, Lea wasn’t where it had expected.
+
+Her spear came within three feet of the vulpine shoulder, and she stopped dead, all of her momentum transferring through the spear and into the last three inches of the head, even as she physically separated it from the bulk of the blade.
+
+The large, dart-like bit of metal tore through the air for the last three feet, hitting like a ballista bolt, even as the fox’s teeth snapped down on where Lea would have been.
+
+Lea’s attack punched through the fox’s disparate magical shielding and into the shoulder. The force and placement of the strike actually blew off the beast’s front left leg with the tearing of flesh and the pop of bone, blood spraying the walls of the cave on that side. The white steel projectile continued on to burrow deeply into the left side of the creature, doing additional damage as it went.
+
+More even than that, however, was Lea’s positioning.
+
+The fox’s head was just in front of her, its counter attack spoiled by her sudden halt.
+
+Lea grinned as she thrust again using the remaining of her stored momentum to drive a reformed spear tip toward the creature’s right eye, seeking the brain.
+
+It was a skillfully executed sequence, and it would likely have worked if the combatants had been of equal advancement.
+
+But they weren’t.
+
+That momentary pause had been enough for the midnight fox to adjust, and its defensive shield flared to life, concentrated and focused into an incredibly small area. Moreover, it didn’t try to directly oppose Lea’s strike, instead, angling the protection and causing Lea’s weapon to deflect off to the side unexpectedly.
+
+Her eyes widened as her spear arm was forcibly crossed over top of her shield, turning her back slightly toward the beast as she spun slightly mid-air.
+
+She had been wholly unprepared for the defense, and so she hadn’t been able to reactively dump the momentum of her strike into the shield or in any other way to counter the fox’s action.
+
+As she was already out of position, the fox’s next lightning strike took her entirely unprepared.
+
+It hit her spear before the power flooded down her arm, flowing across her entire exterior before jumping from her boots to the ground a few feet below her.
+
+In regards to damage, the lightning did very little. Lea’s metallic nature allowed the energy to flow over her outside, and the high conductivity and low resistance of the particular metal meant that it didn’t even really heat up.
+
+That said, it was a shock to her system, enough so that when the fox lashed out with its head again—ramming her rather than trying to bite—it hit easily, slamming into her and tossing her toward the side of the cave.
+
+In the split second between the fox’s hit and what would have been a colossal impact with the wall of the cave, Lea’s magics fired, the girl stopping instantly, midair.
+
+The fox used its tossing of the surprisingly heavy Lea to leverage itself around and back, landing with three feet on the far side of the cave passage, crouched and clearly about to spring at her, despite the missing leg.
+
+Lea’s eyes were slightly glazed, showing that the sequence of events had rendered her at least a bit out of sorts.
+
+Tala’s right hand clenched into a fist, the metal of her gauntlet—that she hadn’t even registered donning—creaked under the force of her grip.
+
+Rane was forcibly breathing steadily, his own hand tight on Force’s hilt.
+
+Terry’s eyes were narrowed, and Tala could see that he’d risen just slightly out of his casual crouch.
+
+But Lea wasn’t out of the fight just yet.
+
+She twisted, bringing her shield back between herself and the fox even as she slowly moved toward the ground. More wires spun off the shield, even as a quick series of lightning blasts struck out, providing visual cover and forcing Lea to remain in place.
+
+When the light cleared, the fox was nowhere in easy evidence.
+
+Tala saw it sneaking closer, across the roof of the cave, but Lea was clearly unable to pierce the darkness of its magics.
+
+Tala took a single step forward before stopping herself.
+
+-Lea’s got this, Tala. We have to trust her.-
+
+I know… I just don’t… I don’t like this.
+
+-I know… I don’t like it either.-
+
+Lea’s eyes were flicking back and forth, trying to reacquire her enemy in the gloom of the cave. In this, one portion of her planning was shown as lacking.
+
+Lea hadn’t brought any source of light.
+
+True, she had fantastic vision even in the dark, but when also opposed by dark-based magics? She was incredibly hampered.
+
+Lea locked her spear against her shield before carefully bending down and picking up a handful of loose gravel from the floor, holding the handful out before her. A pulse of magic granted each individual piece a small bit of momentum in a spread of directions, shooting the rock fragments out in a spray, arching before her.
+
+It was a clever attempt to reveal her opponent, but it didn’t quite cover the area that the fox had reached.
+
+It did provide the fox with an opportunity, however.
+
+The beast had clearly realized that its lightning was less than effective against this invader, and so it didn’t use it for offense. The earlier barrage had allowed it to slip from sight, but it had also hidden the fact that the beast had cauterized its wound with its power, stopping that hemorrhaging.
+
+Now, it struck from just beside Lea, its jaws closing on her left leg before she even registered it was there. Most of its teeth were momentarily stopped by the thicker metal of her armor, but some went around that, magic acting on their points and edges to allow them to pierce her ‘flesh’ where the two met.
+
+Lea screamed in pain and rage, but the girl wasn’t out of the fight, not yet.
+
+Her greaves morphed into spikes that would make a porcupine proud, poking into the soft inside of the fox’s mouth. She couldn’t force them to grow or reshape deeper, but they did enough to keep the beast from chomping down further, at least for a moment.
+
+It didn’t release her however.
+
+Lea screamed again, her spear morphing and flowing up and around her right fist, being joined by most of the mass of her shield as it shrunk down to more resemble a buckler.
+
+Then, she dumped power and momentum into that fist, hammering downward at the now-close vulpine skull.
+
+A shield of darkness and lightning concentrated, gathering to block the hit, repulsing her first strike.
+
+This revealed another flaw in Lea’s planning.
+
+She’d come into a place of darkness, a place where the midnight fox would be more powerful than usual.
+
+Tala saw that dawning realization on her daughter’s face, and she almost went to save her, but Rane held up a hand, clearly having the same thought but noticing something more. “Wait.”
+
+Lea screamed again, in pain, desperation and rage as something changed.
+
+Her soul pulsed and the power of the boon-curse radiated from her gate and throughout her entire body.
+
+Her next blow came down like the fist of an angry Sovereign, the fox’s shield cracking like glass.
+
+The next hit splintered the remnants as the white steel mass bludgeoned the vulpine head, purposely driving the jaws closed and skewering the soft insides on the myriad spikes she had created.
+
+The blow also drove the teeth deeper into Lea’s leg, but she was seemingly beyond caring.
+
+The midnight fox tried to pull back, but every hit reset the inner spikes, damaging the fox from within even as the rain of blows cracked the hard outside.
+
+Lea’s voice continued to resonate through the darkness, no longer issuing forth from her mouth. Her very soul had grabbed the air around her and was generating the rageful scream, independent of her body.
+
+Twelve blows later, the skull split open. One more hit ended the magical beast’s life, and Lea’s white steel flowed back outward, taking its place as armor as she reached down and pried the teeth free of her leg.
+
+She didn’t stop there, prying the jaw open until it split free of the upper part of the head, the sound of tearing flesh rising alongside the continued, berserk screech.
+
+That came to a crescendo as she tossed the parts aside, standing and panting in obvious tumult.
+
+Rane lowered his hand. “Now, we can go to her.”
+
+Tala was in the cave a moment later, wrapping her daughter in her arms, words of comfort already pouring from her lips.

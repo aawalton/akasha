@@ -1,0 +1,221 @@
+---
+id: f5dd768f-9f74-5115-b086-4e77ca471715
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 626 - Earning Trust"
+slug: 0128-chapter-626-earning-trust
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 128
+ownLength: 2694
+unit: words
+ownProgress: 2694
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2700927/chapter-626-earning-trust"
+royalRoadId: "2700927"
+markedReadAt: "2026-06-29T19:39:23.798Z"
+---
+
+Tala, Rane, and Lea’s first real break from constant monitoring came a bit after Lea’s second birthday when Fedir came back from the Academy. Unfortunately, there was less of a collective desire to have a true ‘reunion’ since Illie’s passing just more than two years earlier. Even so, Tala and Rane sponsored any who wanted to come, allowing many of the siblings to meet Fedir in Alefast, Waning, where he kindly agreed to visit on the way to his new master.
+
+The fact that Tala and Rane could ‘power through’ the distance and send messages to the siblings at the Academy had increased the ability for the family to communicate, especially since Rane and Tala happily acted as intermediaries, even for her sibling’s father and mother.
+
+In retrospect, Tala realized that such was likely one reason that fewer of the family came to meet up with Fedir. They’d been in regular communication with him, and so felt less of an obligatory pull to see him in person.
+
+Interesting. I wouldn’t have expected increased potential for communication to decrease the desire to see one another when possible.
+
+-It’s in the records. It’s one reason that the Archons don’t allow for free use of the Archive. In centuries past, they found that ‘easy’ communication often reduced connectivity between people, as counter intuitive as that sounds.-
+
+Even so, Tala was nodding. When a thing is too easy, too cheap, it isn’t valued.
+
+-Indeed. Add just a bit of cost, and suddenly everyone strives to be able to use something that they might have ignored if it were offered freely.-
+
+We humans are strange…
+
+-Indeed.-
+
+Regardless, the group that did come had a celebratory meal in the sanctum which allowed Lea to be able to attend. During the meal, Alat and Enar devoted the entirety of their considerable attention to countering any accidental magics from the girl. They only had to prevent seven disasters through the course of the evening, but with their hard work, none of the visiting family was any the wiser.
+
+The next day, the family took some time in the waning city, Lea staying behind. It was an enjoyable time, but after lunch—once more in the sanctum—they departed, each back to their own home, and Fedir to his new master.
+
+When the last had departed, Tala was left standing in contemplation.
+
+Sensing her need to think, Rane took Lea off to train, the girl having found renewed motivation through the meal’s demonstration of the work she still had to do.
+
+In the grand scheme of things—and even in most of the minutiae—nothing had changed, but Tala felt an odd sort of countdown inside her head.
+
+It wasn’t minutes or hours, days or even years. Instead, it was in siblings. She only had two siblings still at the Academy. Even the Zuccats only had two left, and they’d be graduating in the next two years.
+
+One year after that, the last of her siblings would graduate, and then… they’d all be adults.
+
+That seemed insane, but time was just slipping through Tala’s fingers.
+
+In one sense, it didn’t really matter. After all, she and her husband were immortal, and her daughter might be able to become so, if she wasn't already. Even so, most of the people she had known in her life weren’t.
+
+She blinked a few times, shaking her head and coming back to the moment.
+
+Rane and Lea were off training, and she was… just standing there, staring at the spent teleportation circle.
+
+With another shake of her head, she willed the spellform back to a ready state, pulling from their reserves of silver beneath Ironhold.
+
+A final, brief once-over of the spellform confirmed that it was correct and prepared for use.
+
+She nodded in satisfaction. Then, as she willed herself to one of her favorite meditation spots, she frowned.
+
+Alat?
+
+-Yeah?-
+
+What’s the difference between my movement within Kit, and flickering about within my aura on the outside?
+
+-Well…- Alat sent the impression of a frown. -Huh… Flickering uses dimensional magic, explicitly Terry’s, but…-
+
+Yeah… but it doesn’t. He doesn’t have to flicker within his aura like we do. He just does it. We are using a lesser version, modeled after his.
+
+Alat grunted. -Only in some senses. We couldn’t do it before bonding him, and we are aspect mirroring his magics. Our ‘lesser version’ is likely due to our mindset. It’s not all negative, though. His flickering can be opposed, throwing him off. Yours occurs within your aura, so that has to be overcome before your movement can be interrupted.-
+
+So, mine is more defensible, more… secure?
+
+-That’s likely accurate.-
+
+But why isn’t it the same?
+
+Alat sent a shrug. -Like I said, different understandings create different results, even with the same magic.-
+
+And our movement within Kit?
+
+-That… involves manipulating dimensionality with authority, specifically our authority as one soulbound to Kit.-
+
+So, the action is leaning on the deeper authority that we have in here, Kit’s authority.
+
+-Yes? Tala, you know this. I can tell you do, and you're not really leading anywhere with this…-
+
+Tala grinned. Oh, but I am.
+
+Alat grunted, then gasped. -OH! Oh, that’s… huh. Do you really think that will be possible? You think that merging with Kit in your Reforging will give you this level of control over everything within your aura?-
+
+Possibly, yes, at least to some degree. It won’t be a segregated space, so I’ll be overlaying my authority overtop Reality’s. Within this separate space, nothing would be here at all without us, so Reality has very little sway, comparatively.
+
+-I see… Still, with your connection to and use of reality iron...?-
+
+I think we’ll be able to get close, yes.
+
+-That’s… terrifying.- Alat grunted. -And I see it now. That’s why it matters. This changes how you need to conceptualize parts of your Reforged nature.-
+
+Exactly.
+
+It would both mean that she had greater authority and control over her body, as something that should almost always be under her aura’s sway…
+
+She frowned. No… while it should almost always be under my aura, why wouldn’t it always be under my authority? Even if someone manages to push back my aura into my flesh, why would that give them any authority over my body?
+
+-So, regardless of who or what else might try to claim some or all of your Reforged self, it doesn’t matter? It’s your body, so your authority remains.-
+
+Tala nodded, smiling. Absolutely.
+
+Alat waited for a long moment, as if expecting Tala to continue. In fact, if Tala had to guess, she was expectant to an insane degree.
+
+When nothing more was forthcoming, Alat let out a long sigh. -Regardless, does this help?-
+
+Absolutely. It means I have to shift a bit, but it should result in an easier Reforging when I do it.
+
+-Glad to hear it.-
+
+The two fell into silence, Alat moving her focus off to deal with various tasks throughout Kit and the Archive, while Tala dove into the physical and magical side of things.
+
+Their division of labor was like a comfortable set of clothes by this point, and they each fell gratefully into their role in their dual existence.
+
+* * *
+
+Only a few months later, Segis—the Zuccat’s second youngest—returned from the Academy, prompting a small reunion of that family. They met up in Bandfast, prompting Tala to simply give Master Simon and Mistress Petra a few days off, gifting them the funds they needed for the teleport and reinscription upon return as well.
+
+It was funny. They could close up Ironhold and be in Bandfast in less than a day. With the little reunion taking only a couple of days, they’d be back in Alefast Waning in less than a week. That was barely more time than it would take a normal caravan to reach Bandfast from Alefast Waning.
+
+Still, it was easier just to pay the cost of sending the couple each way, and restoring their magics on this end.
+
+How my life has changed.
+
+-Life… finds a way to do that.-
+
+Tala huffed a laugh. I have literal eternity, if I don’t make a mistake, and yet it is worth so much to avoid interrupting my patterns.
+
+The time was useful all around, as it allowed Kedva and Brandon to temporarily step into the roles that they’d all but assuredly take up when the Zuccats retired.
+
+There were minor hiccups, but it was hardly the first time the couple had fulfilled the roles, and as usually happened, they rose to the occasion, learning and creating large lists of questions for their mentors upon their return.
+
+The Gredials had become somewhat regular visitors to the sanctum, seemingly taking great joy in having their granddaughter near at hand. They accepted the need of close monitoring as she continued to refine her use of her new magics, understanding far more easily than Tala’s family would have. Their visits had the additional benefit of allowing Rane to see his family more often than he’d otherwise have chosen to.
+
+Tala maintained that this was a benefit.
+
+Each visit was another inspiration to the girl, whether from friends or family, and she continued to shape what she was capable of.
+
+In truth, it was taking far longer than Tala had hoped that it would, but not longer than she’d thought it might.
+
+The core issue was that, given Lea’s soul and mind were effectively one, Lea was being forced to learn how to control her thoughts and emotions in order to control her magics.
+
+A normal Mage or mageling simply had to school their thoughts, and most of them—at least in the beginning—only really had to do so when they were actively using magics.
+
+The other means of control—used by many Mages who moved into ‘always active’ magics early—was to make the inscriptions incredibly focused, and almost thought-proof, given they would do what they were set to do and nothing more.
+
+Both were crutches, but they were useful ones that allowed for the faster achievement of the controlled use of power.
+
+Tala and Rane had both relied on a mix of having their always active magics be hyper focused and specialized, and by having the more variable ones take specific activation.
+
+Lea wasn’t given those fallbacks due to the type of magic she was attempting to gain mastery of. Hers were both always on, and technically, infinitely variable, even if only along a set axis, that of how much momentum they took in or put out.
+
+She could set them to zero, neither absorbing nor giving out momentum, but even that was dependent on her very soul not wavering in that desire, nor in her control over the power and the magics.
+
+In a real sense, it was unfair to expect Lea to exert this level of control, and the enforced effective imprisonment was… not ideal.
+
+Still, no matter how many times Tala and Rane discussed it with the girl, she always calmly explained that she wanted this. She wanted the power and ability that these magics would give her once she’d mastered them.
+
+She reminded them that she’d fought alongside Talons and watched them get hurt. She wanted to keep her friends safe, and that was worth a heavy cost.
+
+Rane had teased her, asking why she didn’t want to keep her family safe.
+
+Lea rolled her eyes. “My extended family, sure, but if anything can threaten the two of you or Uncle Terry?” She huffed a laugh, smiling and shaking her head. “I’ll need a lot more time before I can do anything to affect such a threat.”
+
+That had solidified it for the two, and they finally came to grips with the fact that she was set on this course. Though, they did continue to check with her on occasion. After all, even the most dedicated can change their mind with time.
+
+Even that stopped, however, when Lea angrily exclaimed that they were making it worse. “Every time you ask, it’s like you’re saying I can’t cut it, and I need an out. I hear it as you saying you think I won’t succeed, and I can’t…” She broke down a bit, there, tears leaking down her cheeks. “This is hard enough. I can’t do it if even my parents don’t believe I am capable.”
+
+And that was that. They stopped asking if she wanted to continue, and they simply moved to encouraging her, highlighting her progress and celebrating her gains.
+
+And those gains were significant.
+
+Lea had taken a harder path, yet again, working to divorce her emotions from her control of the power rather than just regulating her emotions. What that required was similar to a more standard human learning to consciously control their own heartrate, if not more difficult than that.
+
+Her emotions were centered in her soul, and her soul was both the source of the power—thus aspecting and tinting it—and the source of her cognition, amplifying the effect rather than counterbalancing it as those with a separate mind and soul were able to do somewhat often.
+
+Still, she persisted.
+
+Her training wasn’t all difficult experiences. In fact, one of her favored methods became the reading of emotionally charged books and allowing the emotions to really sink in, while keeping her magics in check.
+
+As such, she ended up reading almost constantly—usually facilitated by Alat or Enar to allow her to keep her hands free—occasionally giggling or bursting into tears as she trained.
+
+Her third birthday came and went with some celebration, but Lea had her eyes on the prize, and she barely wanted to stop for anything.
+
+She even started denying visitors, but her parents talked with her, and she acquiesced, realizing they were right and the visitors were actually a boon. They helped her both in that they let her relax and reset in a way that mere sleep didn’t, and they allowed her to keep in mind what she was aiming for.
+
+There would be more life for her on the other side of this than she had previously.
+
+In a way, the time was her own mini-Academy. It was akin to Rane’s isolation in the wilderness with only Master Grediv for company, and in most ways, Lea was better off than both of her parents had been through their own training periods.
+
+It was early in the next year that Olen returned from the Academy, leaving only Sella of Tala’s siblings still there.
+
+Again, there was only a token appearance of the family to welcome him home, the semi-regular get togethers were becoming less well attended as well, as each sibling moved more into their own lives, and felt less invested in their immediate family at large.
+
+They still clearly loved one another and cared how everyone was doing, but Tala was beginning to notice the looks her siblings—even the magically inclined ones—gave her and Rane.
+
+Her family was aging—at variable rates, but still aging all the same—while she and her husband weren’t, and that was adding to the separation.
+
+It was a clear and present indicator and reminder of how different the paths they each walked were.
+
+In that mindset, in an attempt to reverse some of the separation, Tala and Rane planned a much larger gathering surrounding Lea’s fourth birthday.
+
+As the timing worked out, Metti—the last Zuccat—would be returning around the same time, so the gathering would also be a sort of goodbye to Master Simon and Mistress Petra, Tala’s siblings and their families having gotten to know the older couple over the years of get-togethers.
+
+The final reason for the celebration was that Lea was finally ready to attempt such a gathering without requiring close monitoring. She would still be watched, but it was a final test of sorts.
+
+If Lea could get through the entire celebration without an incident, she would be allowed out with the family on the last day.
+
+-Our little girl is growing up, practically ready to leave the nest.-
+
+Indeed, they grow up so fast. Tala smiled, the teleportation receiving scripts beginning to light up. Let’s hope we aren’t testing this too soon.

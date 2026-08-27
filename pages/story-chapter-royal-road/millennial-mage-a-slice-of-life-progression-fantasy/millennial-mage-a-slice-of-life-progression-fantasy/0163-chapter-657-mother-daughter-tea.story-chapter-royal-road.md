@@ -1,0 +1,219 @@
+---
+id: 89bd6c20-87c9-5731-908d-04077cc75d86
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 657 - Mother-Daughter Tea"
+slug: 0163-chapter-657-mother-daughter-tea
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 163
+ownLength: 3004
+unit: words
+ownProgress: 3004
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2935158/chapter-657-mother-daughter-tea"
+royalRoadId: "2935158"
+markedReadAt: "2026-06-29T19:40:17.063Z"
+---
+
+Tala and Lea sat in a side room of the House of Blood’s Platoiri hold, servants having just departed after providing a lovely tea service.
+
+This ‘side room’ had vaulted ceilings and open walls, looking out onto an incredibly maintained garden, only magical sound isolation between them and the view.
+
+Lea was still looking around with obvious awe at the ostentation of the hold.
+
+To be fair, the sanctum had some of that, but given it had been made for an Eskau specifically—rather than to represent the House as a whole—the sanctum was effectively the ‘military outpost’ version of this splendor.
+
+Tala was grateful for the servants, as they had gone above and beyond to fulfill her rather simple request for private tea with her daughter. There were three types of tea—chamomile rose, green mint, and black oolong—all perfectly brewed and contained within tea pots linked to the ambient magic in the hold to allow them to maintain the ideal temperature. Cream, honey, and three types of sugar were each in containers that regulated either temperature or humidity to maintain each ingredient to best affect. In addition to the obviously magical nature of the containers, they were clearly meticulously crafted both to highlight what they contained as well as be genuinely lovely.
+
+As an example, one of the cast iron teapots was covered with what Tala recognized as chamomile buds, roses, and a myriad other distinct looking herbs which she was sure represented the full makeup of that particular brew. With that in mind—and similar depictions on the other two tea pots—it was obvious that they had a distinct tea pot for each type of tea that they might serve.
+
+When Tala had been there last, she had been more focused on escape, but she did still remember the beauty of everything. Now though? It was far more… available to her now. She was here by choice, and her position was hers not one seemingly held by some false personality.
+
+The food served with the tea was just as fantastic and expertly put together, running the gamut from little sandwiches of a half dozen different types to various tarts and jam filled cream cakes. To add to the sheer overwhelming nature of it, she could detect magic and reality threads tying each individual tray, pot, jar, or plate to somewhere over near the kitchens, and Tala was absolutely certain that the servants would be made aware if she and Lea were coming close to running out of any particular treat, drink, or accompaniment.
+
+That, of course, brought to mind the last item, a simple silver plate with embellishments on either side. At the moment, the side that faced up showed ‘Service Please.’ The other side bore the engraving of ‘Privacy Please.’
+
+They would need that privacy for the discussion to come.
+
+You know? I think some of this seems so new since much of the hold was damaged in the invasion on our last day.
+
+-That’s right! I hadn’t considered that. It certainly explains why we don’t remember things quite this way.-
+
+Tala took a deep breath, followed by a long sip of calming tea, and finally a nibble of a blackberry tart. Rust, I’ve missed good food.
+
+-...You have good food every day.-
+
+I know, but I don’t really think about it much any more.
+
+-Do you want to?-
+
+You know what? Maybe, yeah. I think I’m getting so used to the good things in my life that I hardly think about them any more. When was the last time that I really reveled in an evening with Lyn and Ron? Rane and I almost never take dedicated time together, and Lea is often just sort of along for the ride.
+
+-I can help you be more mindful?-
+
+I’d appreciate that, thank you.
+
+-You are most welcome. Now, in the spirit of that request, you are here for a hard conversation with Lea.-
+
+Tala sighed, nodding to herself. She knew what she had to do, and she needed Lea to come along for it. Tala was going to be doing what amounted to a controlled burn in order to make things safer going forward, and she needed Lea to understand that this use of fire was purposeful.
+
+-You’re getting lost in the analogy.-
+
+Right, thank you. Tala took another soothing sip, flipped the privacy plate, and smiled. “Lea?” She kept her tone gentle and maternal. “Dear?”
+
+Lea jerked, her focus drawn back almost violently. “Yes, mom?”
+
+Tala smiled. “I know there is a lot to take in, but we also have much to do.”
+
+The girl frowned. “Right, the two Houses.”
+
+Apparently, the two newest Houses—that of the Fated Clash and Frost Lance—had been trying to make space for themselves by pushing against the awe and fear the rest of the houses—both Major and minor—held for the House of Blood in the wake of both Tala and Eskau Meallain’s demonstrations of power and dedication.
+
+The House of the Frost Lance had been the most blatant about it at the welcome ceremony, but the House of the Fated Clash had barely been any better.
+
+As to why it mattered? Well, Tala’s ‘final penance’ for Be-thric’s death—which amounted to legal shuffling to allow her to act as an Eskau before being given a new role in that vein—was to deal with these two Houses as she saw fit. There was the unspoken addendum that how she did so—and how effective she was—would be conveyed to the House of Blood’s Pillars, likely affecting their stance on her assuming the position of Eskau of War.
+
+Beyond that, she had the regular duties of an Eskau to attend to—though, not standing ceremonial guard for the Revered City Lord. It would include standing as judge and arbiter for some squabble between champions of Major Houses, and being placed as next in the cycle to close a void hold…
+
+But that was for after. The champions weren’t scheduled for days yet, and there were at least three other Eskau before her on the void hold list.
+
+“That’s right, the two Houses. I want your thoughts on the matter.”
+
+Lea frowned in thought before asking, “Do you want me to give you my opinion or offer options as a gated? Or as an arcane would?”
+
+Tala held up her hand. “Remember, Lea, ‘arcane’ is a pejorative.”
+
+“Right… sorry. Then, as the other Houses might?”
+
+“Let’s hear each.”
+
+Lea gave her a flat look, then sighed. “Very well. I believe that gated humanity would approach this diplomatically. We would attempt to ply the two Houses with the benefits of working with us and hope to change their view of us going forward. If they attacked, we would then crush them.”
+
+“And the likely results of that? Would they attack?”
+
+“That is unlikely. They would be most prone to take the benefits, seeing it as their due, and not really change their view. If anything, our actions would lower us in their esteem because it would be tacit proof that we saw ourselves as beneath them as well. We might be ‘safe’ in a sense, but it would be the safety of fragility, simply hoping that no one deigns to break us.”
+
+Tala grunted in agreement, giving a half smile. “Go on, then.”
+
+“Most Houses would send a champion to challenge those two, or find a way to clash with them in some other way—whether martially, economically, or in some other manner—and therefore show them the error of their assumption of superiority.” Lea gave a half smile, took a sip of tea, and continued. “Eskau Meallian would assault them directly, likely causing a good deal of damage in order to force them to withdraw from the city.”
+
+Tala huffed a laugh at that. “Indeed. And what do you recommend.”
+
+The girl’s eyes hardened. “They challenged you and attacked dad. We should put them in their place.”
+
+Tala arched an eyebrow. “That was only the House of the Frost Lance.”
+
+Lea shrugged. “Exactly. We make an example of them. Offer them a subservient deal, and when they say no, crush them. Then, offer the same deal to the other House.”
+
+“The Fated Clash?”
+
+Lea nodded. “Exactly. Make the offer public each time, that way the implied threat the second time cannot be missed.”
+
+Tala regarded her daughter critically, not sure if she was proud or concerned that Lea had come to the same conclusion as Tala, herself. “Maybe you’ve been having too many lessons with Lisa and Eskau Meallain.”
+
+Lea grinned back. “I’m remembering your stories, Mom.”
+
+“Oh…” Tala shook her head, smiling at her daughter. “Well, I can see that I suppose.”
+
+“So…? What will you do?”
+
+“I am actually planning on doing something similar to your idea.”
+
+“Oh?”
+
+“Yes. We’re going to be putting together a coalition of Houses with an eye toward clashing with the Black Legion when they arrive. Once that precedent is set, I will invite the House of the Frost Lance to join the others, following our leadership. They will refuse, of course. At that point, we will ‘deal with the potential enemy behind us.’” She quirked a smile. “Then, I will invite the Fated Clash. They will either fall in line or be removed.”
+
+Lea was slowly nodding. “And that will set the precedent for the House of Blood to take a forefront position throughout the southern cities.” She frowned then. “How will you deal with the difficulty of ‘fighting down’ that got Eskau Meallain banished?”
+
+Tala smiled at her daughter’s realization of that issue. “How would you solve it?”
+
+Lea considered for a long moment. “Well, you could utilize House of Blood troops, but doing so would make it a matter of true war rather than simple political maneuvering."
+
+Tala nodded, not seeing any reason to amend what she’d said.
+
+“You could use your ‘personal guard’ in the form of the Talons, lowered to match those they fought, but that would be both dangerous and problematic in a dozen different ways.”
+
+She leaned back, sipping her tea and waiting for her daughter to continue.
+
+“I think you should do something none of them suspect, though.” An idea was clearly blossoming in Lea’s mind. “Kick down the door, walk through their defenses and free the vestige at the heart of their hold. Then, claim it for your own, devouring the whole hold and booting them out.”
+
+Tala tilted her head to the side as if considering. “That… that is interesting. Can you tell me the issue with it?”
+
+Lea gave a slow nod. “Licenses for hold ownership are granted by the City Lord, and fully removing a hold would technically be going against his granted authority, even if it wouldn’t have to be seen that way. If he chose to, he would have grounds on which to censure you and potentially the entire House of Blood. He could even, theoretically, remove the House’s own writ of hold ownership.”
+
+“How likely is that outcome?”
+
+“Vanishingly small, unless he thought you were truly trying to undermine his hold on the city.”
+
+“So, how would you mitigate or remove that potential?”
+
+“I would notify him in advance in such a way that implied courtesy without giving him the opportunity or opening to stop you.”
+
+“How would you do that?”
+
+“I… I don’t know.” She slumped slightly. “Sorry, Mom.”
+
+Tala huffed a laugh, reaching forward to squeeze Lea’s hand. “Dear girl, you have come to nearly the same conclusion I have. It is only a bit more experience that lets me take the last few steps.”
+
+That caused Lea to perk up. “Oh? How are you going to solve it?”
+
+“I will inform him that their vestige is in distress, and I need to free it as a distant relation. The law clearly allows Eskau of Major Houses to intervene when their relations are in distress, and due to the longevity of most gateless, there is no exact definition of ‘relation.’ Us both having gates is proof enough of a direct connection. After that, in order to maintain the hold against catastrophic failure and potential repercussions on the rest of the District of Doors, I will be providing for the powering of the hold myself. This means that it will be under my authority, of course, but I am happy to allow the House of the Frost Lance to remain for reasonable compensation.”
+
+Lea’s eyes widened. “So, you won’t kick them out?”
+
+“I’ll have no need. They will leave on their own or come to heel.”
+
+“That’s… huh.” She frowned. “Will that work? What if they stay? Will you have to devote a ton of resources to maintaining the hold? Couldn’t they use this to effectively make you into a servant of their House?”
+
+“In theory, but that’s why I am saying that I will be providing for the power of the hold.” Tala grinned. “Nothing in that says I have to allow any of the ambient power to be available to those within.”
+
+“Oh! Oh… Wow… That… I did not consider that.”
+
+“Exactly. It’s not something that I’ve seen, or even heard of, occurring anywhere other than Ironhold. If we move quickly, we can do this before knowledge of that spreads.”
+
+Lea’s wonder faded a bit. “But… doesn’t that mean you won’t really be able to do the same thing with the second House? You’ll be leaning on misunderstanding and obfuscation.”
+
+“True, and that is a good thing to keep in mind. Remember also, though, these are all fallbacks. If I am forced to use every fallback on the House of the Frost Lance, then we may have to take a different tack for the second. However, you are forgetting one thing.” Tala grinned.
+
+“Oh?”
+
+“These are not humans. They don’t share our culture. When I kick in the door, on a sanctioned mission to free the vestige of their hold, they won’t just step aside. They will attack, and I will then put them down. It is entirely possible that only servants will be left by the time I claim the hold.”
+
+Lea leaned back, clearly a bit shocked. “That’s… isn’t that killing a lot of people?”
+
+Tala hesitated.
+
+-She’s right, you know. This time, you can’t justify it as ‘Tali’ to keep your cover.-
+
+She took a deep breath. “We must establish a united front with which to face the Black Legion. I will not go out of my way to kill anyone, but I won’t allow them to endanger us all with their stubbornness. I would prefer they join the coalition. It would make things simpler and safer for everyone.”
+
+Lea’s voice was small as she inquired, “Still, you are backing them into a corner knowing they will likely attack. Is that still self defense?”
+
+Tala actually considered that for a long moment. “Honestly? No, it isn’t.” She sighed. “I would never do this in the Cycling Cities, and that distinction isn’t because of who is involved. I’m not valuing gated lives above gateless. The culture here demands shows of strength, and that means death. The fools often see anything less as weakness. What I will be doing is manipulating the situation and potentially concentrating the death to the local branches of one or two Houses, but if done another way, this could become a feud that would last centuries, leading to far more people dying across far more cities. This is brutal, but in this society, in this culture, it is the cleanest method I can conceive of.”
+
+Lea was clearly still conflicted, but she didn’t argue further.
+
+Tala sighed. She couldn’t let that stand. “Lea? You have reservations. I’m going to be bringing you along with me, and I can’t have you in a mindset that will lead this to breaking you.”
+
+Lea met her mother’s gaze then. “How is this different from what the Black Legion will do?”
+
+Tala rocked back. “What do you mean?”
+
+“They want to remove a small fraction of the life on this world to safeguard the rest.”
+
+“Ahh.” She nodded. “I see. Well, the core reason is that even if I am rather sure they will choose violence, they could choose to work with us, and they would be better off. The second House should do just that, and while they will bend initially out of fear, they will remain when they truly realize how much better working with us is.”
+
+“So, they could choose… Just like we could choose to give up magic?”
+
+Tala smiled, then, shaking her head. “Aside from those who quite literally can’t give up magic without dying, the cost in sapient-life-years—and the quality thereof—would be astronomical. That is like saying we could give up eating after a certain age. While technically true, the costs of that ‘choice’ would be extreme.”
+
+“So… the difference between what we are going to do and what the Black Legion seeks isn’t a difference in kind but degree?”
+
+Tala’s smile grew as she regarded her daughter. “Absolutely. That is a very mature realization. Very few types of action are universally evil, but the way in which they are done, and the degree to which they are carried out can make almost any type of action so.”
+
+Lea gave a slow nod. “I see.” She took another luxuriant bite of a strawberry tart, closing her eyes to enjoy the delicacy. When she opened her eyes again, there was a sparkle within them. “I understand, Mom. Let’s go secure a better future for gated humanity and the House of Blood.”
+
+Tala nodded in return. “Let’s.” She reached out and flipped over the privacy plate to show ‘Service Please.’ “But let’s finish our tea first. There’s no cause to rush through this time together.”
+
+Lea only hesitated a moment before taking up the oolong tea pot and refilling her own cup. “Of course, mother. What was I thinking?”
+
+The women shared a smile, then set to talking about how they would actually approach the rebuking of the House of the Frost Lance.

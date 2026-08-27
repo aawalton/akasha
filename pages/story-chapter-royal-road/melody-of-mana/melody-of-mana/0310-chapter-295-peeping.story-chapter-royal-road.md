@@ -1,0 +1,121 @@
+---
+id: 27fd516d-9d9f-5714-8652-206a0403039c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 295 Peeping"
+slug: 0310-chapter-295-peeping
+partOf: melody-of-mana
+position: 310
+ownLength: 1503
+unit: words
+ownProgress: 1503
+publishedAt: 2024-01-05
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1467088/chapter-295-peeping"
+royalRoadId: "1467088"
+markedReadAt: "2026-06-29T22:36:31.452Z"
+---
+
+Lena
+
+Days passed as we made our way deeper and deeper into the interior of the elven lands.  For the most part we were avoiding settlements since our escort had left us, didn't want to get caught up and held in one again.  It was slow going, passing through the deep forests and back-roads, but we proceeded well.
+
+As we went inland the monsters got fewer by the day.  There were even less signs of them, showing how most had been keeping near the coast.  It made the whole operation easier, more relaxing as we slowly trekked inwards.  There were signs of cultivation here and there, farms that had been taken care of that were now all but abandoned.  Some of these looked recent, though others could have been ancient orchards that had been left fallow for who knew how long.
+
+It was in one of these overgrown copses of fruit trees we broke for the day.  The gnarled and twisted forms of the branches above creating a thick canopy.  Nearby a brook gurgled softly forming a series of pools.
+
+“Don't see any fruits here,” Omos commented, looking at the trees.
+
+“Wrong season there cousin.  Lena, would you be willing?” Rodrick asked.
+
+Certainly I could make some of these trees fruit for us, delivering a bounty to our little group, and it wouldn't even be too harmful to them.  On the other hand it would still hurt them, and it had been drilled into me that allowing these little harms soon became allowing much bigger ones.  If we needed it that would be one thing, but wants and needs weren't the same.
+
+“We have enough supplies that it would be a waste,” I told him with a shrug.
+
+“Aww, but fresh fruit,” Veska pouted.
+
+“She's right though, we do still have a good bit of dried,” Omos responded, without looking.  It was nice to have him stick up for me like that.
+
+The other girls had gone to gather some wood while we set up camp.  Magic made that the sort of thing that only took minutes to do, so it wasn't much of a chore.  A few walls of dirt and foliage, a quick roof, and we were done.  There wasn't even much need for a fire, as it never got that cold, but the smoke was a wonder for dealing with bugs, and the light was pleasant.
+
+“Alright girls, I don't know about you, but I stink,” Rodrick declared once everything was up.  “Think I'll go for a wash.”
+
+“Right now?” his girlfriend inquired.
+
+“Why not?  Did you have plans?  Thinking of joining me perhaps?”  He inquired, raising up his eyebrows suggestively.
+
+Veska responded by helping him, in the form of throwing a sizable ball of water his way.
+
+“Oh look, you're already half done,” I snarked to the now soaking Rodrick.
+
+“So I am,” he said shaking his head like a dog and sending a spray of water over all of us.  “And you too!”  This didn't actually win him any points with anyone, but in retrospect was a bit funny.
+
+“Come on you idiot, now that I'm soaked I need one too.  We shouldn't go alone anyway,” Omos said as he grabbed his cousin and began to march towards the stream.
+
+“But I don't wanna see you naked,” the other boy objected as he faked resisting.
+
+“Idiots,” I said after they'd left, earning me a laugh.  “Well, I'm going to see about shoring up the roof a bit, maybe go relax in the sun.”
+
+For awhile I did just that, using some of the native vines to decorate and improve the strength of our dwelling.  We'd leave here soon, but this place could stay, letting the plants live longer and in a better place than they had.  Perhaps it was just a bit of whimsy, but I liked it.
+
+As the minutes wore on though I looked to the path.  I knew where the boys had gone, where they'd retreated to to bathe, there were really only so many pools in a couple minutes walk and one was just perfect.  The crystal clear water poured over the rocks just right and the small clams that lived in the river were pushed out of the way.
+
+Checking to see that Veska was still inside, and the others hadn't returned yet... I went to go find some mischief.  I slinked along at an angle to the path, carefully picking my way along through the brush and staying low as I could.  Soon I heard the water, splashing and the sound of voices.
+
+Getting as low as I could I crept forward until I came to a small break in the leaves.  There I peeked out, seeing what I could see.  Omos had spied on us, and well, maybe turnabout was fair play, it wasn't like I was planning to stay long.
+
+The two boys had put their clothes on a rock to dry and were scrubbing, waist deep in the cool stream.  I couldn't make out all the words, but it seemed they were chatting about what they were going to do when they got home.  As I looked on Omos started to move to the nearby waterfall...
+
+“Hey, what we looking at?” A voice whispered in my ear.
+
+I jumped and tried to scream, only to find a hand over my mouth and Veska's grinning mug inches away.  I wasn't sure how she'd snuck up on me, but she was here, right now.  Before I even had the chance to form thoughts she slipped up to the hole my face had been in, looking.  As she did I felt the heat creep up my face, threatening to make my cheeks as red as her hair.
+
+“My my what a view!” she continued low.  “And you coming out here to spy.”
+
+“Veska!” I hissed, trying not to get attention.
+
+“Lena!” she returned in the same small voice sounding scandalized.  “Oh my, did you decide to join them?  HEY OMOS!!!!”
+
+I nearly jumped up and ran, only to be pulled back down by the wizard.
+
+“What are you?!”
+
+“Don't worry,” Veska laughed.  “I put up a sound barrier before I said anything.  Didn't want you to spook them.”
+
+“Well... thanks,” I said, trying to figure out how to get out of this now.
+
+“Of course, peeping is a longstanding tradition isn't it?”
+
+“Not really?” I said.  “But I mean, Omos spied on us.”
+
+“Oh, fair is fair isn't it?” she said with an evil grin.
+
+Soon we were cheek to cheek, peeking out.  We didn't get to see much, though with Veska's running commentary you'd think something truly dirty was going on.  As the both turned to the rock on which their clothes lie though a single bubble floated down into our view, settling there before popping.
+
+Instantly I pulled back, turning, looking for wherever that had come from, and Veska wasn't far behind.  Every hair on my head stood straight up, like someone was breathing down my neck.  There was nobody though, no one was there, looking, watching what we were doing.
+
+Another quick peek and my partner in crime tsk'ed.  “Missed it, we need to head back before they do, unless you want to be discovered.”  There was a hint of invitation in her voice, a maniacal laugh hidden below the surface.
+
+“Let's go,” I whispered, still afraid of being found.
+
+We got back to camp just in time, our companions arriving soon after.  Illa and Amara strolled into camp seconds before the boys did, looking at us weird as they deposited their firewood.  The boys looked at us askance upon their return.
+
+“What, did you two roll around in the dirt while we were gone?” Rodrick asked.
+
+It was then that I realized that laying on the ground had gotten my clothes covered in dust.
+
+“Um... I fell, and grabbed Veska on my way down.  It was sort of a mess,” I answered, trying and failing to keep the heat from my face as I lied.
+
+“Yeah, let's go wash,” the redhead answered, and our other female companions readily agreed, joining us immediately.
+
+Alana
+
+I watched as the little perverts wandered off, not sure if I should laugh, punish them, or just not care.  Certainly they were out of line, but of course that line of thought pulled forward images of some of the parties I'd been at in my youth.  Wasn't sure I was really the one to talk on this issue.
+
+This particular section of river was also really, really familiar.  I couldn't quite place it, but I was sure I'd seen those rocks, somewhere.  Maybe we'd camped here too on our way inland all those years ago?  No, that would just be too much.
+
+“So, Omos, want to...” Rodrick said, tilting his head towards the same path Lena and Veska had taken.
+
+“Rodrick, our sisters are there,” the other boy answered, killing the suggestion instantly.
+
+“Fair point.”
+
+I boggled, these kids were all way too horny.

@@ -1,0 +1,271 @@
+---
+id: bb660e05-66a4-5deb-8017-4bf54bcab479
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 560 - About Reforging"
+slug: 0060-chapter-560-about-reforging
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 60
+ownLength: 2999
+unit: words
+ownProgress: 2999
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2266524/chapter-560-about-reforging"
+royalRoadId: "2266524"
+markedReadAt: "2026-06-29T19:37:13.130Z"
+---
+
+Tala decided to address the Reforged in the room… She decided to address the fact that the Reforged had Reforged… and he was in the room?
+
+-Focus, Tala.- Tala could practically hear the eye roll in Alat’s tone.
+
+Right…
+
+Tala grinned at Master Jevin. “So, you did it. You remade yourself as you once were.”
+
+The man laughed, clearly pleased with himself. “I have indeed. Take a look.”
+
+He held up his hands and did a slow spin.
+
+Tala did indeed take a look. The man was human through and through. The vaguely vegetative traits that had plagued him when last they met were entirely gone, and all that was left was a standard—if stately—middle aged, human male.
+
+Rane offered his congratulations as well, and Master Jevin gratefully accepted.
+
+Terry gave a trill of excitement too and got thanks in return.
+
+Once the man had done a full turn, Tala grinned, meeting his gaze once again. “How do you feel?”
+
+“Honestly?” He chuckled. “I feel a little lost. I’ve been striving for this since I was Bound, and now that I’m here?” He blew out a long breath. “On a personal level, I’m not sure what to do with myself.” A twinkle entered into his eyes. “I suppose that if I did know, I’d already have started Ascending.”
+
+She shrugged. “Don’t you have a lot to do, running this city, preparing for the Leshkin wars… that sort of things?”
+
+He waved her off. “Of course, of course. I’m not despondent or anything like that, and I did say on a personal level. Overall, I have many things that I am involved in and many tasks to complete. More than that, I have numerous friends and acquaintances.”
+
+“Oh!” She interrupted quickly. “The Lord and Lady of Astraya send their regards.”
+
+He hesitated at that. “Oh? I’m glad to hear from them. They live in a rather dangerous place, after all.”
+
+She chuckled. “So do you, but I suppose that’s neither here nor there.”
+
+“True enough.” He gave her a kindly smile. “I do appreciate your concern, but I am fine, and I will be fine. I more meant it as a commentary that I have a lot of free mental energy and time now that this is complete.”
+
+“Fine, fine.” She chuckled. “I do want to pick your mind about Reforging, after all. It’s good that you're done. I’d hate to pull ahead of you too soon.”
+
+He huffed a laugh. “I’ve read the missives sent my way. If you’re to accomplish even half of what you’re attempting, you might take longer than I did.”
+
+She rolled her eyes and laughed again. “Well, we’ll see. If that’s the case, I’ve got the time.”
+
+“Spoken like a youngster.”
+
+“The future is now, old man. Welcome to it.”
+
+He chuckled again, even as he gestured over to a side table where he had coffee and tea set out.
+
+When Terry began looking around, the Reforged smiled.
+
+“This is for you, good master Terry.” He gestured to one side where there was a cushion against the wall, which was a window out to the exterior of the tree that had sunlight streaming in.
+
+Beside the cushion was a mound of jerky.
+
+Terry chirped happily and flickered over to the offering.
+
+The three sat, and Tala couldn’t help but notice the fourth chair, but no one mentioned it for the moment.
+
+They talked of little things, enjoying their drinks, catching up on subjects they’d spoken of via correspondence over the years.
+
+Master Jevin had several questions about Tala’s various memories that she’d shared, and she happily obliged his curiosity, expanding on some of the context in a few cases, and going into the fallout and various results in others.
+
+After a while, Master Jevin leaned back. “Speaking of your memories; there is another Archon who would love to meet you.” He chuckled. “The man has been pestering me for days since your first memories of the experiment with the lesser Leshkin were made available to upper level researchers.”
+
+He hesitated then, leaning forward and locking gazes with her.
+
+“Do you realize that there are quite a few of us who are practically poised, ready to snatch up any new memory you deem worthy of selling?”
+
+Tala cocked an eyebrow. “Oh?”
+
+He nodded sincerely.
+
+Rane grinned, squeezing her hand. “See? What you share and experience is amazing.”
+
+Master Jevin nodded again. “Indeed. The Mage I was just mentioning lives here, and he would very much appreciate some of your time, if you are willing.” After a moment’s hesitation, he shrugged. “I obviously cannot force you to meet with him, but I would say that he is worth your time. He’s a figure of some prominence even in times of peace, but during the wars? His processing and dissemination of information is unrivaled. You have your alternate interface, but he’s cultivated magics almost entirely bent toward that end. Last I checked with him, he had eight independent minds, all centered on his soul, all working together in perfect harmony. That is obviously not the only aspect of his power, but it is a notable one.”
+
+Tala frowned, giving a slow nod.
+
+Alat clearly picked up on her train of thought, cutting in to head it off. -Don’t you dare. One of me is enough in here.-
+
+Yeah, yeah. I think adding another would be needlessly frustrating… She hesitated a moment before amending, Convenient in some ways though…
+
+-No.-
+
+Fine.
+
+“What’s this Mage's name?”
+
+“Master Saliocas.”
+
+“Alright. I’ll meet him. How about… in two days? My family arrives early tomorrow morning, and I think I have enough to do before they come as it is.”
+
+“I’ll let him know. I assume he’ll reach out, directly, to coordinate.”
+
+“That sounds excellent.” Tala hesitated a moment, refocusing on her purpose in being there with Master Jevin. “I do have one line of questioning before we go further. I imagine the ‘Reforging’ discussion will go rather into the weeds.”
+
+He smiled. “Very well. What can I answer for you?”
+
+“Well, your city here has extensive reality-stabilizing magics integrated into it, at least that’s what we thought we detected. Is that the case?”
+
+He nodded, his smile growing. “That’s right. Your perception and understanding have grown by leaps and bounds if you were able to detect and understand that much.”
+
+She smiled and gave a little self deprecating shrug. “That is kind of you to say.”
+
+“So, what was your interest in those spellforms?”
+
+“Well,” she hesitated, not quite sure how to phrase her question. Finally, she decided to just ask it. “Why are we not using such in all of our cities?”
+
+He frowned. “I don’t think I understand.”
+
+“Those scripts, why aren’t we using them for every city, to help the gated within not harm Reality as much?”
+
+He rocked back slightly, giving a slow nod. “Oh… I see what you’re asking. I think that there is a misunderstanding in your question.”
+
+“Oh?” Tala frowned. What had she misunderstood?
+
+“We do use them—to the extent we are able—in every city.”
+
+“What? Really?” Tala couldn’t hide her genuine surprise.
+
+He nodded. “Not these exact ones, obviously. These are very closely tied to the nature of this tree, but we use spellforms like them, created to be as strong as possible, given the power we have available and the other magics we need to have in place alongside them.”
+
+She frowned. “I see… Would it be possible to completely mitigate the damage to Reality with enough power?”
+
+He chuckled. “Yes and no. That is a bit like asking: If we embed enough diamonds in this wood, can we keep it from ever getting scratched?”
+
+Tala instantly understood what he meant. “Ahh, the very act of using Magic to reinforce Reality damages it a bit?”
+
+“A bit, yes. It’s a balance. To make it ‘invincible’ toward Magic, would be to replace it with Magic, and that is still destruction, if of a different kind.”
+
+She sighed, holding back a grimace of frustration. “So, we would be forcing what we sought to avoid.”
+
+“Precisely. And, in truth, we could replace Reality entirely with Magic, it would be… less than ideal, especially for any mundane person, creature, or material. Moreover, Magic is the impetus of change, of free will, of going against Reality and nature. If there is only Magic, is there really anything at all?”
+
+She chuckled a bit nervously. “Isn’t that a rather scathing commentary on the next world?”
+
+“In a way, yes, but in another, it is a proof that the next world is beyond our understanding until we are there.” He gave a small grimace. “There’s also the fact that we’d likely just dump everyone and everything into the next world with any such attempt. So, that’s a pretty large downside.”
+
+Rane huffed a laugh. “Just a little bit.”
+
+That made Master Jevin quirk a smile. “Indeed. Now, was there anything else?”
+
+She slowly shook her head. “On that topic? No, nothing else pressing.”
+
+“Very well.” He shifted a bit. “To the matter at hand, then. What are your specific questions about Reforging?”
+
+Tala nodded. “Yes, but if you’re willing, I would like Eskau Meallain to join us for that talk.”
+
+Master Jevin gave a slow nod, eyes flicking toward the empty chair. “You said she’s consulting with you for your own Reforging, correct?”
+
+“Yes.”
+
+“Then, I am amenable.”
+
+“Are you able to lock the power down, here? To prevent her from drawing in her max?” Tala conveyed the levels and means that she’d been allowing the elf access to.
+
+Master Jevin chuckled. “I think I’ll manage, especially if she’s so underpowered at the moment.”
+
+Tala nodded once, then willed Meallain into the empty seat at the table.
+
+As soon as she appeared, the elf cursed, starting to rise even as she reached toward the band around her upper arm which was the current form of her protian weapon.
+
+She froze in place as Master Jevin laid eyes on her. His voice was calm and full of command as he addressed her. “You will not take any hostile action, Eskau. Do we have an understanding?”
+
+Tala shuddered as the feeling like a collapsing forest focused on Eskau Meallain. Even though it wasn’t directed at Tala, the force behind it sent ripples through the fabric of reality near at hand, and those were enough to make her feel in danger.
+
+The elf’s eyes widened, and her gaze swept around them before she visibly swallowed. “The Devouring Tree.”
+
+Tala arched an eyebrow in confusion, but Master Jevin just nodded. “Indeed. You are in the belly of this beast, and I will not allow any hostility from you. Understood?”
+
+“Understood.” Eskau Meallain visibly relaxed, seemingly having forced herself to do so.
+
+“Good, now before we discuss the topic Mistress Tala has in mind”—the elf’s eye twitched at the ‘Mistress’—“we need to address your rampage through some of the research stations in my forest.”
+
+Eskau Meallain grimaced. “I have already outlined and admitted to all of my actions. I sought information and slew those who stood in my way. My goal might have been misguided, but I pursued it in earnest, and any who aided me rather than opposing me came to no harm.”
+
+The Reforged gave her a flat look, and the very air around her seemed to take on a hostile feel. “You left no survivors.”
+
+She shrugged. “Let that stand testimony to how broken relations are between our peoples.”
+
+Rane coughed, almost choking as he had been in the middle of a sip of his tea.
+
+Tala closed her eyes and fought back a laugh, not because the topic was funny, but because of the audacity of the woman.
+
+Master Jevin was not amused. “So, no contrition, then?”
+
+Eskau Meallain met his gaze for a moment longer, then lowered her eyes. When she spoke again, her voice was softer, and she seemed like the words were being squeezed out of her, despite her will. Even so, Tala didn’t detect anything actually forcing her to speak. “I… I don’t have the luxury of looking back on my actions with regret, at least not regarding what I purposely do. I am the hand of judgment for the House of Blood and have been for centuries. If I were to begin to regret those who have died by my blade, I would have to choke down an ocean of blood, weighed down with legions of the dead.”
+
+Tala leaned back slightly at the words, feeling the resonant truth from the woman.
+
+Master Jevin frowned, his anger seeming to shift before her frank admission.
+
+Rane had a hand resting on Force’s hilt, but the other was lifting a bit of food to his lips. When he saw Tala glance his way, he shrugged and took a bite as if to say, ‘This doesn’t really have to do with me.’
+
+That almost made Tala huff a laugh, but she contained herself.
+
+Neither of them thought the idea of the deaths was humorous, but the current situation had an undeniable dark humor to it.
+
+Master Jevin closed his eyes, seemingly composing himself for a moment before he opened them once again. “Be that as it may, you were foolish to have attacked them. If you had not encountered Mistress Tala when you did, you would have found yourself facing me.”
+
+When Tala frowned, he noticed and glanced her way.
+
+“I had several Archons in pursuit of her through the Wandering Wilds. They had almost locked in on her position when she suddenly took off—we only later learned that it was toward you. We assumed that she’d noticed our pursuit and was attempting to make it back to the southern cities.” He grimaced then. “I moved in that direction to head her off. If I had not done so—if I had not misunderstood what was happening—I might have been close enough to interfere in your altercation.”
+
+Tala gave a slow nod as the Reforged turned back to the Eskau.
+
+“You are very lucky.”
+
+She narrowed her eyes at him, seemingly considering. After a long moment, she seemed to have made a decision. “You have the position of Pillar, but the temperament of an Eskau. You are a City Lord in truth, even if not in concept. I understand what you have said. I believe you would have clashed with me, and though I held a higher advancement, I do not know that I’d have come away cleanly.”
+
+Master Jevin let out a dark, mirthless chuckle. “Little Eskau. You rightly recognized me as the Devouring Tree, but you still seem to have no concept of what that truly means.”
+
+The room darkened, and Tala felt overwhelming power suffuse the entire space. It seemed to be making a token attempt to avoid her, Rane, and Terry, but only to a small extent.
+
+A feeling like roots growing up through the ground into her feet, finding purchase in her very soul caused Tala to gasp, but as quickly as it had washed over her, it was gone.
+
+Rane jerked, and Terry squawked in irritation, but that was the only real reaction from them.
+
+Eskau Meallain did not seem to have been so lucky.
+
+Tala could see power branching throughout the woman’s entire being: body, spirit, and soul.
+
+It was a Reforged level working in a way that Tala hadn’t ever seen.
+
+“You seem to be deaf to the magnitude of your circumstances. You won’t hear words, so I will show you.” Master Jevin leaned forward, toward the paralyzed, entirely bound elf. “You have no idea what I have learned through the millennia. I could strip your very foundations from you, force you to begin clawing for power from the bottom yet again.”
+
+There was a flexing in the magic, and Eskau Meallain shivered.
+
+“I could tear your concept free of your soul and leave you as magically inept as the average ungated human.”
+
+Her eyes widened, but she was unable to otherwise react.
+
+“I am older than your precious House, and I am not to be trifled with. It is only the civilization of gated humanity that stays my hand. Your punishment has been determined, and I will not countermand that ruling, but if you cross the line again, I will not let the trespass go unanswered.”
+
+There was a sudden lessening, an outrushing of magic, and the room was as it had been.
+
+The tendrils of power that had seized hold of Meallain were gone, and the four of them were simply sitting around a table, drinks and food before them as if nothing magical had occurred.
+
+Eskau Meallain was breathing heavily, her cheeks flushed and pupils dilated. Her gaze was locked on the Reforged, an odd mix of fear and reverence plain across her features.
+
+After a tense moment, she performed a seated bow. “This Eskau hears the words of her Revered elder and understands. I will not claim false regret, but I do wish that it could have been otherwise. You have my word that it will not happen again while peace remains between our peoples.”
+
+Master Jevin grunted, reaching for his tea. “See that it doesn’t.”
+
+Tala’s very spirit was trembling in the wake of the exchange, and she’d been on the sidelines.
+
+What Master Jevin had done was so, so much more than a mere act of power. The comparison was like the difference between dumping ink across a page and writing an original poem.
+
+Sure, the first took more ink, but that was hardly the point.
+
+Master Jevin had just composed an original piece on the canvas of Eskau Meallain’s very being in an instant, and Tala doubted if the elf would ever forget it.
+
+The Reforged took a lingering sip before smiling slightly and nodding. “Very well, then. We won’t spend more time on this unpleasantness. Tala?”
+
+Tala jerked, almost spilling her coffee. “Yes?”
+
+“I believe you had something that you wished to discuss?”

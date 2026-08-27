@@ -1,0 +1,195 @@
+---
+id: 4675cf35-a825-5a01-b053-f72265725122
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 – City Departure – Pt 3"
+slug: 0043-chapter-43-city-departure-pt-3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 43
+ownLength: 2358
+unit: words
+publishedAt: 2025-01-09
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2001533/chapter-43-city-departure-pt-3"
+royalRoadId: "2001533"
+---
+
+The sound of rats filled Kindra’s ears. The smell of dirt and plants lingered in the air, and she sprinted, searching for something to give her an edge over the rats behind her. Where’s Aika when I need her?
+
+Vaulting over a rock, Kindra scrambled around a tree. I can’t waste all my ammo. Her eyes flickered through the forest, and she leapt off a root.
+
+Soaring through the air, her eyes went wide. A large chunk of white flesh greeted her. Not again. Not again. The large pig’s eyes went wide, and she slammed into its side, bouncing off and tumbling across the forest floor. It bolted, rushing toward the carcass and away from her.
+
+Kindra scrambled up, and Gleon’s laughter filled the air.
+
+Maybe they’ll attack him. She dashed forward with rats nipping at her heels.
+
+“Fight them, Kindra,” Gleon shouted, the chuckle still in his voice.
+
+I’m going to kill him. Scowling, Kindra tore across the forest toward him, her anger surging like a growing bonfire. Runes drifted into her mind, and she embraced them, shuffling them together to match the runes of the fire elemental.
+
+Gleon poked his head out from behind a tree with a chuckle. “See. Warrior classes are—”
+
+Rotten terror! Kindra spun and unleashed the spell, pouring mana into it. Like staring into the forge, the night air lit, and a wave of flame crashed across the ground.
+
+The first rats hit fire and burned. The smell of burning hair and flesh filled the air, and the rats scattered, fleeing the broiling heat that licked around them.
+
+“Well, so much for your plan to turn her into a berserker,” Sigrid said with a smile of satisfaction. “She’ll be a druid like me.”
+
+“A fire druid, it looks like,” Gleon muttered, stepping forward and studying the distant hog chomping down on the strange abomination’s carcass, ripping off pieces with a look of bliss in its black eyes.
+
+“Wait. That was your plan?” Kindra asked. “You wanted me to be reckless and wild.”
+
+Gleon chuckled. “The best way to get the class is to get banged up in a nice fight.”
+
+Aika was right. After targeting a few slower rats, Kindra ended the spell. The flames vanished, leaving charred and twitching corpses in their wake.
+
+“Finish them,” Gleon called out.
+
+Kindra walked forward and used her axe to end them, spraying blood into the air and pulling the mana into herself. “Why did they attack me? It seems suicidal.”
+
+“Most creatures can sense levels,” Gleon said. “I’m surprised the pig didn’t try for you, but I suppose it sensed the rats.”
+
+“So, they see me as weak?” Kindra asked, killing the last twitching rat.
+
+“Yes. Your level is low.” Gleon hefted his axe. “But you’ll get there.”
+
+“Are there things that see you as weak?” Kindra asked, walking toward them.
+
+“Yes. There are terrifying things out there, though the necromancers drove most into the deep wilds.”
+
+She paused and looked around the forest. “So, the necromancers and old beasts in the forest are the predators here?”
+
+“Yes. There is a legend of a lost civilization of dwarves out there. Maybe they are strong,” Gleon said with a sigh. “I hoped to find them.” He kicked a rock. “At least I found some golems. Speaking of which, did you two figure those out?”
+
+“No. We need the crystal intact,” Kindra replied, looking at the burned rats. “What do we do with them?”
+
+“Leave them for the forest to reclaim,” Gleon said. “You can kill any scavengers that show up. Speaking of which, kill that hog.” He gestured to it.
+
+Kindra walked over to him. “Aren’t you worried that we’ll hunt them to death?”
+
+“No,” Dain replied, shaking his head. “They have magic, and the weaker creatures tend to be focused on reproduction more than… Oh, gods.” He sighed. “Kindra, stay close.”
+
+Kindra pulled out her crossbow and looked at what was the equivalent of a sounder of sharklike hogs. Several turned and sniffed them, opening their mouths to reveal the rows of teeth. Then they walked forward, heading for the carcasses.
+
+“Do I level?” Kindra whispered.
+
+Gleon nodded. “But stay close to us.”
+
+Kindra loaded a bolt and aimed at one of the weaker-looking hogs. Pulling the trigger, the bolt streaked across the air and bounced off the pig’s skull with a loud crack.
+
+The pig jerked up. Adrenaline flooded Kindra’s body, and the pig charged with a look of rage in its small, black eyes. A stone pillar launched it into the air, and Kindra loaded another bolt. The pig squealed, the deafening noise flooding through the forest.
+
+The other pigs turned toward them. Magic surged in the hogs’ eyes, and the flying hog hit the ground, its bones snapping on impact.
+
+With a final horrific squeal, it went quiet, and Gleon charged toward the sounder, letting loose a roar of his own. Kindra burned mana.
+
+[Basic crossbow has been enhanced with armor-piercing rounds for 24 hours. Each shot will negate up to 15 stamina when fired. This effect lasts ten seconds after being fired.]
+
+Reloading and aiming at a pig’s neck, she fired. The bolt zipped forward and sunk into it. Gleon arrived moments later. Bounding into the air, he brought his glowing axe down with a thunderous smash, slicing through a pig’s spine. It burst open.
+
+Dang. That’s impressive.
+
+“Come on now, you two need levels too,” Gleon called, ripping his axe free and charging the next hog.
+
+The hogs turned and ran, bolting away from the wild dwarf. Kindra loaded another shot and failed to see a hog or Gleon.
+
+“Dad, must you always do this?” Sigrid called with a note of exasperation.
+
+A thud rang through the air, and Gleon walked out from behind a tree, dragging a pig behind him. He dragged it over and tossed it onto the abomination. “Gather round.”
+
+Kindra moved forward with a soft chuckle. She looked at the magic leaking from it. Most of it was seeping into the ground. She reached for it. “Do dwarves have a way to get more mana from it? Like eating it?”
+
+“We can draw some from the stone,” Sigrid said, smiling at her. “Our bond is with the elements.”
+
+So, I need to pretend the same. Kindra nodded and walked to the carcass. She tugged the leaking mana into herself.
+
+“Load up on ammo. You’re taking watch tonight,” Gleon said, smiling and gesturing at the corpses.
+
+“But I need to sleep,” Kindra protested, reaching down and touching the pig. She burned the rest of her mana, and the carcass rippled. Bone bolts burst from it, spraying blood into the air.
+
+Reaching down, she grabbed the bolts and ignored the rich metallic scent. The vibrant blood glowed with mana, and her mouth watered. Stupid, mana-craving body.
+
+Sigrid smiled approvingly. “I know you are fighting it. We appreciate it.”
+
+“Why?” Kindra asked, staring at the shimmering red fluid. “Why does it matter?”
+
+“Because that is a very dangerous path,” Dain said, patting her back. “If you give in to the predator and seek to feed, you can become a monster.”
+
+“Bah,” Gleon replied, rolling his eyes. “She’s fine.” He sniffed the air and looked up.
+
+Kindra did the same, looking up to see birds perched in the branches. A slow rumble echoed through the ground, and she froze. Not another grub thing. Her heart thundered, and Gleon turned, not seeming to care.
+
+What? Kindra turned and saw Sigrid. Magic surged through the air. Runic patterns flashed in and out of existence as a hole formed. The dirt and stone packed together, creating the foundation for some small structure. The stones piled themselves together, flowing into walls and a roof.
+
+Grabbing a piece of the ironwood, Dain shaped it, turning it into a crude door. He walked over to the small hut and placed it in front of the door.
+
+That’s impressive. Kindra studied it with a look of awe. In a few minutes, Sigrid had made a stone cottage, albeit a small one. What could they build if they could level? That thought lingered. The people were capable of being living construction crews. Images from Earth flashed into her view. We could build something even better and do it with magic.
+
+A smile spread across her face, and an elbow bumped into her. Gleon pointed at the scavengers above.
+
+Kindra fired off a bolt, sinking it into one of the birds. The bird came crashing down, and several flew higher, fleeing the range of her crossbow.
+
+“Now, get your bolts,” Gleon said, carving off a chunk of boar meat and heading to the building.
+
+Grabbing the handful of bolts, Kindra stowed them and darted to the building with small slits in the side. The inside was small, stone slabs acting as their beds. A stone hearth was in the back, and Dain darted outside.
+
+Gleon placed the meat on the hearth and walked out. Kindra watched as they gathered wood and returned, placing it inside.
+
+With a flick of her hand and a surge of magic, Sigrid ignited the gathered wood and formed a small fire, using a stone to cook the meat.
+
+“Kindra, you’re on watch,” Gleon said, gesturing to the slits in the wall. “Wake me when you run out of bolts.” Sitting on a stone ledge, he leaned against the corner and shut his eyes.
+
+Sigrid smiled and moved closer. “I know things have been chaotic, but they’ll calm down.”
+
+Kindra swallowed. Chaotic seemed like an understatement. It had been one long rush to try to get used to some foreign world.
+
+“And we’ll get things sorted,” Sigrid finished, patting Kindra’s back.
+
+“The city?” Kindra asked. “Are we ever going back?”
+
+“Not like we were,” Sigrid admitted with sorrow in her voice. “We’d hoped to last a while longer.” The sorrow in her posture was evident.
+
+Dain walked over and pulled her into a hug. “We did what we could, as fast as we could.” He looked at Kindra. “It’ll be harder now. Making things while on the run is difficult.”
+
+Kindra nodded. “I understand.” She smiled at both of them. “Thank you for taking me in, teaching me, and giving me the guidance you could.”
+
+“You’re welcome.” Sigrid smiled, the sorrow lingering in her eyes.
+
+Realization hit Kindra hard. She thinks we’re going to die out here. Either to the beasts or necromancers. She spun and looked out of the slits. That’s not happening. Gleon may be crazy, but he’s right about that.
+
+The two behind her went quiet, moving toward the fire.
+
+A swooping sound filled the air, and Kindra saw one of the black and white birds land on the rats.
+
+Loading another bolt, she aimed through the slit, lining the bolt up with the bird. Pulling the trigger, she fired. The bolt zipped through the dark and clipped the bird’s side. Feathers blew into the air, and it lurched into the air, fluttering and hitting the ground hard.
+
+Loading another shot, she aimed and fired, hitting the bird and finishing it. Pulling the mana toward her, she reloaded and heard snoring. That was fast. She turned and looked at Gleon. He sprawled across the stone, a low rumble echoing from his nose.
+
+Kindra giggled and shook her head. He’s something else. She peered out of the slits and waited. The birds did the same, refusing to come into her range. This is going to be boring.
+
+Sighing, she leaned against the wall, and her thoughts drifted to the crew and Earth. So many ships had been lost when the wormhole collapsed. The admiral hadn’t seen the dust, nor had the sensors. Her eyes widened. Was that magic? She looked at the glowing mana in the air. It had to be that. Mana and some necromancer. Did they pull me here and change my body?
+
+She considered it while waiting. With magic, it was possible.
+
+Time moved slowly while she mused on it and the new world, her new world. The smell of cooking meat filled the air, and Sigrid handed her a piece on a stick.
+
+Kindra turned. “Thanks.”
+
+“You’re welcome.”
+
+Kindra began eating the kabob, her thoughts drifting back to the day that the wormhole had collapsed. Did they survive? She tried to figure that out, and the sound of wings hit.
+
+Kindra raised her crossbow and looked out. A black and white bird swooped down, landing on a carcass and ripping out a piece of meat. She fired, her bolt sinking into the bird and knocking it over. Effective but it’s sure not sporting. Reaching out, she grabbed for the mana. It lingered, and she frowned.
+
+Is it still alive? She wrestled and failed to grab it. Darn bird. Loading another bolt, she peered into the black. Birds squabbled in the trees above. One swooped down, landing behind the bodies.
+
+Kindra sighed. And now I’d have to walk out the door. She looked at the piece of wood that could be slid back into the stone and considered it. The sound of wings hit, and she spun, looking out the slit.
+
+A small army of the birds flared wings, landed, and hissed at each other. Taking aim, Kindra fired. The bowstring twanged, and the bolt flew, streaking across the dark sky and sinking into a bird. Its wings flared, and it toppled, blood oozing from it. The flock took off, leaving behind the bravest.
+
+Kindra reached for the glowing mana and the mana from the wounded bird behind it. It flowed back into her, and she searched for another target. Come on birds. I need to grind some levels.
+
+She waited for the next target, firing as it came into view.
+
+Minutes slowly turned to hours. She fired into birds, rats, and whatever else that happened to stop by. The pile of bolts drained away, and exhaustion slowly overtook her.
+
+Firing off the last bolt, she kicked Gleon awake and fought her growing exhaustion. Kicking him again, she yawned, and her eyelids drooped, slowly falling shut. The noise faded with them, leaving nothing but calm, tranquil, and dangerous silence.

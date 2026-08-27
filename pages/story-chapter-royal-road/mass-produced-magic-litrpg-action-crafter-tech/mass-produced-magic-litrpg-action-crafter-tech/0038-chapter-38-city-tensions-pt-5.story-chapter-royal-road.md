@@ -1,0 +1,227 @@
+---
+id: 7f23f44c-65b8-51fa-ab8d-76305d397c83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 – City Tensions – Pt 5"
+slug: 0038-chapter-38-city-tensions-pt-5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 38
+ownLength: 2100
+unit: words
+publishedAt: 2024-12-31
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1984907/chapter-38-city-tensions-pt-5"
+royalRoadId: "1984907"
+---
+
+Kindra walked into her room. She turned all her focus toward the spell that spread throughout the room. It blanketed everything in a soft light. Small runes decorated the space, and she masked her expression, memorizing the sequence and preparing to destroy the spell.
+
+Standing there, she formed the counter in her mind. A moment of pressure hit her mind, and the runes flashed out, vanishing from the space in a glitter of light. That was easy.
+
+Sigrid walked into her room, a look of concern on her face. “I’d like you to study basic runes while I cook.” She set the book down on the nearby wooden desk.
+
+Kindra leaned closer. “The spell’s gone.”
+
+“How?” Sigrid whispered.
+
+“I broke it.” Kindra shrugged and felt magic surge through the air. “It’s coming back.”
+
+Sigrid sighed. “Basic lessons for now.” She walked to the kitchen. “Come wash up first.”
+
+Kindra followed, her annoyance at the spell growing. I’m going to break that into a thousand pieces. The spell did not seem to care, following both of them and making Kindra’s hair stand on end.
+
+Walking to a bowl of water, Kindra grabbed the rag and scrubbed off the dirt and ash, wiping her hands and face.
+
+“How were the gardens?” Dain asked.
+
+“Fine. A rat or two. Some boys collected them.”
+
+He nodded and walked to the cupboard. Opening it, he sighed at the space. “I’ll go to the market. Study you two.” He turned and walked out the door. The spell followed him.
+
+Kindra smiled. “It’s gone.”
+
+“Yes. This was expected. Quick. Let us resume.” Sigrid turned and took a seat at the table.
+
+Dumping out the golems, Kindra grabbed a screwdriver and removed screws. Walking up, Sigrid unscrewed and popped off panels.
+
+Kindra did the same, quickly removing the coverings and peering into each of the golems’ heads. Each head contained a shattered gem; the runes faded and gone. That’s unfortunate. She sighed, pulled out anything she didn’t recognize, and set them aside.
+
+She grabbed some useless panels and burned mana, turning them into magazines, casings, and slugs. They vanished into her storage. Grabbing another chunk, she willed it into an M4 carbine with a half dozen magazines.
+
+Sigrid blinked and picked it up. “How do these work?”
+
+“Simple.” Kindra smiled and pulled out a bullet. “Inside it is fuel, like ground-up coal.” She gestured to the back of the bullet. “This ignites it. And this holds it all, letting it launch the metal.”
+
+Sigrid paused in thought. She nodded and then frowned. “But we can throw stones with magic.”
+
+“How fast?” Kindra asked, raising her brow.
+
+“Very fast.” Sigrid smiled sadly. “It’s interesting but doesn’t change anything.”
+
+“Why?” Kindra asked.
+
+Sigrid patted her shoulder. “It won’t hurt undead, and it won’t hurt them. They have shields.”
+
+Kindra grimaced. She’s right about the undead. I’ll need something for them and something for the shield.
+
+“It is interesting, though,” Sigrid said sympathetically.
+
+Kindra smiled. “We’ll make the golems. We just need to get the crystals, and then they can help.”
+
+Sigrid patted Kindra’s back and picked up another golem part.
+
+Grabbing several, Kindra sorted through them. Images from her dream flickered by. That elemental did win, slowly burning through the shield… So, it must cost mana to absorb hits.
+
+She looked at the robot. Let’s find out how to make that crystal. She grabbed pieces, memorized runes, and stashed them away, hurrying through it all.
+
+Finishing the last, she smiled and turned toward Sigrid. “Discuss later?”
+
+“Yes. He’ll be back soon.” Sigrid walked over and grabbed a bucket.
+
+Kindra did the same, following her toward the well. I guess we could pull water out of the air, but that’s such a waste of mana… Oh, I should level.
+
+[Your mana has increased: 4623 → 4627] ‎ [Your actions have caused your mana to increase: 4627 → 4647]
+
+[Your mana has decreased: 4647 → 4487]
+
+[Your level has increased: 8 → 9.] ‎[Your intelligence has increased: 14 → 16.]
+
+[Please select four attributes to increase.]
+
+Kindra walked to the line at the well before focusing on the text. Well, stamina is the lowest, and I could use more speed.
+
+[Your speed has increased: 10 → 12.] ‎[Your stamina has increased: 8 → 10.]
+
+She paused. System! Where’s my skill up?
+
+[There isn’t one at this level for you.]
+
+That’s lame. She scowled at the text, and the system didn’t respond. Blowing hair from her face, she stepped forward. Her dress fluttered in the soft breeze, and the line slowly crept forward. She looked at the crowd and the guards at the nearby barracks. What am I going to do about them and that spell? She stepped forward. Don’t tell me this is some assassination game. I’m not doing that. She paused, and the system ignored her.
+
+Stepping forward, she tried to ignore them. The feeling of eyes lingering on her skin remained. They are watching us. Probably Sigrid more than me. She tried to ignore it, glancing around the square. Most of the dwarves were acting similarly, avoiding the gaze of the guards.
+
+What a terrible way to live. She slowly made her way forward, reaching the well and waiting. Sigrid lowered the bucket and filled both of the pots. Kindra turned and followed her, leaving the well and walking quickly down the stone streets. Do they excavate the dirt first?
+
+She studied the stone buildings. Like living in a modern city… with a lot fewer windows. She wrinkled her nose, turned down a small road, and walked up to the cottage. The hair on her neck stood, and she shivered, a wave of magic passing over her. Familiar runes danced nearby. That scrying spell is getting really old.
+
+She looked over at Sigrid. “What are we going to do?”
+
+“They’ll find him, and this will stop,” Sigrid replied, walking into the cottage.
+
+I hate this spell. Kindra walked inside, carrying the pot to the table. She looked at Dain. He chopped things and tossed them into the pot. Looks like stew again. Turning her focus, she studied the magic in the room.
+
+Reaching up, she touched a rune. The hair on her neck stood. That’s uncanny… feels like the thing that messed with our ship. Realization hit her like a hammer, slamming through her mind. You have got to be kidding me. Magic did all of this. Some necromancer or something pulled me here. A shiver ran down her spine. Why? Am I an experiment? She swallowed.
+
+“Kindra?” Dain said, raising a single brow.
+
+“Sorry, what?” Kindra asked, looking over.
+
+“Can you help with this?” He gestured to some strange root vegetables.
+
+“Sure.” Kindra walked over and started slicing the lumpy, yellow vegetable. The magic around her faded, dimming like the sun outside. She let out a breath of relief.
+
+“What?” Sigrid asked, pouring a little water into the pot.
+
+“The spell’s gone,” Kindra whispered. “What does it do?”
+
+“Likely a scrying spell. They cost a lot of mana and have a lot of limits,” Sigrid replied, walking over and taking the knife. She leaned closer. “Wash up, and be careful. They may still be listening.”
+
+Kindra nodded and walked to the washbasin. Using the rag, she washed her face, arms, and hands, removing any residual dirt. I miss showers. She ran her finger across her arm and wiped off more dust. Of course. She scrubbed again and looked at the little reflection that shone back. “Mom, can I color my hair?” She gestured to try to get her point across.
+
+Sigrid considered it for a moment and nodded. “There are berries if you wish to try them.”
+
+“Yes, please.” Kindra nodded emphatically.
+
+“I’ll see if the hunters find any.” Sigrid turned and smiled at her. “But don’t be ashamed of your hair.”
+
+“They hate it,” Kindra replied, the answer slipping out. “I see it in their eyes.”
+
+Dain spun. “The necromancers all have it. That’s why.” He smiled apologetically. “Forgive them, and you can dye it if you wish.”
+
+“Thanks.” Kindra nodded.
+
+He paused a moment. “Did you have that class as an option?”
+
+Kindra nodded. “I did, but I chose artificer.” She walked forward and stopped.
+
+Sigrid hung the pot over the fire and took a seat. “That’s a good thing, dear. They’ll come around.”
+
+Kindra walked forward and looked at the soup. Vegetables floated in the water. I miss good food.
+
+“What do you think about the workshop?” Sigrid asked, turning and winking.
+
+“It’s fun and interesting, but we’re missing something.”
+
+Sigrid turned with a large smile on her face. “Yes. Let us consider what.” She gestured at the empty spot on the table.
+
+Kindra nodded and pulled out pieces, placing them gently on the table. Dain turned and studied the pieces, his eyes quickly moving through them. He looked at Kindra. “Learn anything?” he asked her and turned toward Sigrid.
+
+Sigrid shook her head and looked at Kindra.
+
+Kindra looked at the old metal, picked up a piece, and brushed off the dust. “Yes, several things, but nothing that Sigrid didn’t.” She traced her fingers along the metal. Wait. Can I see what the system says? She focused on a gear.
+
+[Level 55 Fortified Gear - This gear was made from fortified steel, granting it the equivalent of 50 stamina. ‎- Inactive enchantment - Level 50 fortification.]
+
+That’s easier. Kindra set it down, grabbed an unrecognized gearbox, and studied it.
+
+[Level 50 Magical Distributer - This convoluted component is designed to turn magical energy into physical energy.]
+
+Her eyes went wide, and she grabbed for others.
+
+“Kindra?” Sigrid asked.
+
+“Sorry.” Kindra turned. “This distributes magical energy,” she said, looking at Sigrid.
+
+Sigrid nodded. “We can go over the runes.”
+
+Oh. She already knew that. Kindra picked up another. The floor creaked, and she spun.
+
+A dwarf she’d never seen before looked at them. The woman had dark gray, braided hair and extremely vibrant green magic. The woman turned and studied Kindra.
+
+“Kindra, this is Anna. Anna, this is Kindra.” Dain continued studying the metal.
+
+“Hello, Kindra. Curious hair.” Anna nodded at Kindra and turned back to Dain. “There is a problem, and I need you.”
+
+“What problem?” Dain asked.
+
+“It’s delicate,” Anna replied, her eyes flitting in Kindra’s direction.
+
+And answered. Kindra frowned. “I’ll go.”
+
+“Nonsense. You haven’t eaten,” Sigrid said. “Dain. Take a moment.”
+
+Dain nodded and walked into the room, closing the door behind him. Sigrid turned and smiled at Kindra.
+
+“Problems?” Kindra asked.
+
+“Always.” Sigrid sighed and then straightened herself. She smiled at Kindra. “But you needn’t worry.”
+
+“I don’t?” Kindra asked, raising her brow.
+
+“No, no. He’ll get it sorted.” Sigrid walked to the fire and stirred the soup with a wooden spoon.
+
+Kindra pulled out more pieces of the golem and studied the design. So, some piston and gear-based robot… Why use a humanoid design? Doesn’t make sense. She picked up a gearbox and studied the gears that would have caused movement through the legs.
+
+Sigrid sat next to her and smiled. “Supper for your thoughts?”
+
+“Why build them like this? It seems inefficient.” Kindra shook her head.
+
+Sigrid raised a brow. “What do you mean?”
+
+“Why bother with legs? You could give them wheels instead.”
+
+“It’s not always about pure efficiency. These were the sentinels. They were made in the likeness of the dwarves gone before.” Sigrid smiled. “There is beauty in that, yes?”
+
+Kindra nodded. Yes, there’s beauty in it… Magic, letting them shortcut the cold efficiency needed to push to a new age. She mused on that, looking at the stone room. Is it a hindrance? It could be. I wonder —
+
+The door swung open, interrupting her thoughts and revealing a worried Dain. He moved into the room and leaned down. “We need to pack.”
+
+“What?” Sigrid whispered. “Surely they don’t suspect it.”
+
+“It doesn’t matter. The rumor about Gleon is spreading. People want anyone related to the problem gone.” Dain kissed her cheek. “We need to go.”
+
+“Do we have time for dinner?” Sigrid asked.
+
+Dain nodded. “Quick.” He walked to the fire and pulled off the pot, moving the steaming pot to the table.
+
+Sigrid stood and pulled out bowls, placing them on the table. Grabbing a ladle, she dished out soup, filling bowls. Kindra grabbed the parts and stashed them.
+
+Picking up a spoon, she blew on the soup and took a bite. The taste of mud came with it. Like eating a tube meal on the ship, she forced it down, trying to ignore the abominable taste that seemed to have gotten worse.

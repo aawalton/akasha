@@ -1,0 +1,309 @@
+---
+id: ffeb0e9a-7347-575f-a603-60a1aa7fb422
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 4 - What a Wonderful World"
+slug: 0007-chapter-4-what-a-wonderful-world
+partOf: metaworld-hopecore
+position: 7
+ownLength: 2725
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364561/chapter-4-what-a-wonderful-world"
+royalRoadId: "3364561"
+---
+
+"Once you make a decision, the universe conspires to make it happen."
+
+Ralph Emerson
+
+When the news broke of what she had signed and done, St Marten’s erupted.
+
+Nurse Bessey held Lana in her mighty bosom and cried, while each of the physicians who had put her body through every conceivable form of test came to thank her.
+
+And it was only then that Lana Zacanissian truly understood that her “Whatever Will Be” had indeed “gone viral” in the factorial sense.
+
+In the midst of the celebratory air that filled an otherwise cold and clinically underfunded space, Dr Harper took a private moment to meet with her, naturally observed by their Nursing Manager, Mrs Bessey.
+
+“Despite everything, I would like to apologise for leaking that video of you singing,” the Director’s head was slightly bowed. “I hope you will forgive me, Miss Fontaine.”
+
+Lana retorted that she could only feel gladness, that the studio was a public space, and that the song had nothing to do with her medical privacy. This made the Director’s eyes grow so soft that he had to look away, after which the man thanked her kindly, then left to tend to other children that needed his care far more than she did.
+
+After another rigorous session with Dr Hughes, she was once more left alone in a room that would soon need to be vacated for the needy.
+
+She felt strangely happy. The fact of the matter was that “her” song had brought great happiness to a great deal of people and given a “little life” to the world, as opposed to the “little death” she sowed in her prior life; were not lost on her.
+
+“[System]. Show me the money.”
+
+Euphemia Fontaine [Lana Zacanissian]
+
+Causality
+
+Strength
+
+12
+
+Athletics
+
+528
+
+Agility
+
+19
+
+Acrobatics
+
+Health
+
+Vitality
+
+16
+
+Endurance
+
+Pain Suppression
+
+22 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception
+
+Legalism
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+25 / 28
+
+Charisma
+
+14
+
+Persuasion
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+53
+
+TRAITS :: [Prophet of Profits]
+
+Inactive :: [Weak Willed] [Demure] [Fearful]
+
+“System, raise [Agility] and [Vitality] to 20.”
+
+[Causality: 347]
+
+“System, raise [Comeliness] to 25.”
+
+The desire to have a good exterior was a little vain, but good looks were a currency the [System] did not fully understand, which Lana intended to exploit.
+
+Insufficient [Causality]
+
+“Oh?” Lana asked for clarification, but none was forthcoming. Did the System read her mind? Or was anything above the threshold of well above average something that required exponential [Causality]? After all, she had retained those nice high numbers in [Wisdom] and [Intelligence], reasons for which the [System] had decided to drag her into this alter-earth purgatory. No matter, she would try something else.
+
+“System, raise the potential of [Songstress].”
+
+[Songstress]
+
+Causality Tier (A-)
+
+You are a born singer with enormous potential. Your talent can be truly exceptional when mastered and exercised. Conditionally, your singing voice will enchant and fascinate others. This trait can be improved through training, performance, and Karmic Causality
+
+[Causality: 117]
+
+Lana winced. She needed to raise her proficiency because her contract with Sony stipulated that she would supply their Recording Department with a Master of the original. Knowing how anal-retentive her [System] was, she doubted there was much [Causality] to be gained by outsourcing her song.
+
+That said, she had almost no skills related to songwriting.
+
+“System, use [Roulette], spend the rest.”
+
+[SYSTEM MESSAGE]
+
+[YES] Selected. Spending 117 Karmic Causality Points
+
+Processing…Processing...
+
+"First thought is best in Art, second in other matters."
+
+William Blake
+
+Karmic Muse Acquired Trait [Composer]
+
+A dozen more epigrams came before and followed after, instructing Lana that indeed, Karma wasn't very generous. She especially felt this because of the insensible [Trait] the [System] had gifted her by chance.
+
+[Composer]
+
+Causality Tier (C)
+
+You can compose generic arrangements pertaining to instrumental music. To fully utilise the inherent synergy of this trait, the Usurper must possess additional traits in instrument and performance.This trait can be improved through training, performance, and Karmic Causality
+
+She was amazed, of course, considering she had never been able to read sheet music, and now she could visualise Livingston and Evan’s musicality in print. The problem was that she still knew exactly ZERO instruments. And now she also had 0 [Causality].
+
+“System. Show me [Potential].” Her mind scanned the lines and rows.
+
+[Causality: 3]
+
+Dear generous God! 3 [Causality]! In such a short period of time?
+
+Lana was just about to punch the air in celebration when, as was tradition, a great wave of [Potential] rolled over her muggy mind, sending her tumbling into the embrace of Hypnos.
+
+A day’s routine and a night later, Lana woke after a full ten hours of death-like sleep.
+
+Not even in her old body, with a lifetime of yoga and pilates and three private chefs, had she felt so energetic and full of vim and vigour.
+
+Her body was, as the System would say, now full of [Potential]. Above average potential, whatever the hell that meant in the context of their present world, because surely, the top percentile was being diluted by the teeming masses still living in abject poverty.
+
+Nurse Bessey was now no longer amazed that her recovery leapt day by day, and after a quick breakfast, her Unit Manager and the other nurses once more pulled over the ageing CRT television with its caged projection of Good Morning America.
+
+“In recent developments, Sony BMG has announced that they have acquired rights to Whatever Will Be, and will be supporting the anonymous teenage composer with her troubled circumstances. But of course, there’s more than just good vibes and tears in the air.”
+
+“Don’t keep us waiting, Joan.”
+
+“Sony has released a statement stating that our nameless singer has not only refused an advance, as is standard in the industry when purchasing a viral sensation, but has donated 50% of her royalties toward St Marten’s Children’s Hospital, the public hospital that saved her life.”
+
+“Absolutely heartbreaking, Joan. I don’t know what to say.”
+
+“I am not sure if our audiences can see, but I am holding back tears… Mmm. Yes. What a wonderful morning in America, Jeff. It's moments like these that I feel our country is great, truly great.”
+
+Golf-claps filled her ward as the TVs simultaneously broadcast their message of hope. Lana was left wondering just how great her country could be if Euphemia had to jump the fuck off a rooftop, but the answer to that would be a dish better served cold, and the prelude to a choice she had to make very soon.
+
+In the afternoon, when she left Dr Hughes, Eric from Sony was waiting for her with a rather large care package. In his workshirt and suit-pants, the lawyer was more dashing than Lana remembered.
+
+“Some clothes the Director thought you might need,” the lawyer said sheepishly as he unpacked. “He requisitioned a phone and a laptop for you as well. We’ve got dozens of them lying around in the office because the creatives are all using Mackintosh. Ironic, I know. Have you had a computer before? I’ll help you set it up. Until you find a place to live, it's easier to keep digital documents.”
+
+“That’s very thoughtful.” Lana sifted through the clothes with gratitude. Her main focus was the phone. Please, Lord, let it be a smartphone. Thankfully, it was an old Xperia.
+
+Her gratitude was genuine because she had completely neglected to realise that almost everything she wore at the hospital had been gifted by the staff, including her undergarments. Whatever she came into the St Marten’s with was now stowed in a biohazard bag.
+
+As for the computer, the moment the Windows XP chime sounded, Lana was transported to a darker time when she worked sixty hours a week and still had to take time out on the weekends to golf with her clients.
+
+The contract itself manifested as promised, pre-signed by Frederick Curon, remarked upon by the City of Los Angeles, and now signed by her.
+
+“Now this here…” Eric pulled out what looked like a bible-sized stack of documents that ranged from medical insurance to DCFS lodgements, to bank statements. What surprised Lana most of all was a certified copy of what appeared to be her birth certificate.
+
+“Goodness, I haven’t seen this… ever,” she said as she retrieved the document.
+
+There, on her Certificate of Live Birth, appearing not too different from her Karmic data points, were her name, her date of birth, the Santa Monica Public Hospital where she was born, the name Olivier W. Fontaine, and a series of em dashes where her mother should be.
+
+Huh. Lana bit her lip just a little too hard. A missing mother. The plot thickens. She would not be at all amazed if the father were missing, but the mother? How the hell was Euphemia born then?
+
+Adoption?
+
+Deliberate omission?
+
+Or…
+
+Surrogacy?
+
+The latter was something Lana wasn’t unfamiliar with. If she had been less successful at work, she would have also considered such a thing. After all, after a certain age, it was natural to think about inheritance tax and how to avoid it.
+
+As for the father, maybe when she had time and money, she could do a little digging to see if that was a worthwhile lead. Usually, though, there were very good and compelling reasons why fathers were absent—not that she knew anything about Euphemia Fontaine’s past. Insofar as she was concerned, she had hearsay and her own memories, and that was that.
+
+Which was why it was of utmost importance that, as soon as she was discharged, she had to find out what exactly what the fuck happened to Euphemia, and how and why it had led to the [System]’s possession. To leave something like why I chose to end my life as an unresolved loose thread was beyond stupid, regardless of how much more [Dasein] she could purchase.
+
+Feeling suddenly fearful, she double-checked a hypothesis
+
+[Causality: 3]
+
+Drats. So the refilling wasn’t periodic, but based on some actual form of Karmic consequence somewhere. And there’s a debt and credit tab running simultaneously, Lana cautioned herself.
+
+While she ran her train of thought, Eric ran her through the 1001 documents necessary to achieve her legal emancipation. She had to attend a psychology assessment, check in with third-party welfare agencies, and have a registered postal address, all of which would be impossible without the Director of Data paying for Eric’s sizable billing hours and Sony’s West Coast, in-house network.
+
+Knock— Knock—
+
+The duo looked up to see Nurse Bessey with a barely disguised scowl peeking through the doorway. “Eppie, you have a visitor.”
+
+Before the Nurse could announce the intruder, their space was invaded by the distinct aroma of Coco Mademoiselle applied in excess. The woman who entered was strikingly blonde, bleached blonde, and wore her contoured foundation like a Noh Mask. She wore a pin against her peach-hued blouse, which was sheer and aggressive, and her lower body was wrapped in a dark pencil skirt that hugged her knees. Her feet were furnished with bow-tie Ferragamos, a choice Lana approved.
+
+The logo on the pin, Lana noted, read LAPA.
+
+Without invitation, the woman extended a hand. “Susan Carr, I'm sure we’ve met during orientation, Miss Fontaine, but in case you don’t recognise me, I am the Operational Coordinator for LAPA.”
+
+Her voice was aggressively Californian.
+
+Lana shook the outstretched hand.
+
+For all her brashness, the woman was sweating through her palms.
+
+“May I ask who this is?” Her OpCor took note of her Sony lawyer, who had expertly packed the documents that were out prior.
+
+“My lawyer.” As always, Lana relished in half-truths. “Appointed to me by the powers that be.”
+
+“Oh…” Her OpCor certainly didn't expect to meet an Eric in the wild.
+
+The two of them watched as the Coordinator re-arranged the rehearsal in her head, then met them both with a smile that was suddenly sunshine and rainbows. “Euphemia—Eppie, we’ve been very worried about you.”
+
+The woman sighed dramatically. “Truth be told, the Principal has been talking about you for weeks. You had effectively disappeared after the ambulance took you away. You didn’t have a phone, and your caseworker—well, you obviously know more about that than I.”
+
+She met Eric’s eyes.
+
+The man was happy to play along, but Lana could see the hesitancy building. Eric was a mercenary after all. He wasn’t Dr Harper or Hughes.
+
+“Is… there a reason you’re here, Mrs Carr?” Lana asked carefully.
+
+Her question was rhetorical. Carr was here to wipe the school’s ass. If Euphemia had been a nobody, and if Euphemia had taken a month and more to recover, the whole thing would have blown over. The problem was that it didn't blow over, and now there was a viral video and a sob story going around that LAPA was, at worst, brewing a cover-up and, at best, neglectful toward its students.
+
+For a school with the reputation of “LA’s Academy of Fame,” there was no worse form of PR.
+
+“The Principal wanted to know if you’ll be continuing onto your Sophomore year,” her OpCor said shamelessly. “We completely understand if you don’t. Any outstanding tuition will be waived, and we’ll get your things back to you when you find a place to live.”
+
+She paused. It was a very deliberate pause.
+
+“But… if you choose to continue on,” her OpCor’s eyes sparkled. “LAPA wants to offer you a full-ride scholarship. I don’t know exactly what happened, but we’ll board you in the private dorms, where you’ll have a discretionary budget for food and sundries. You will receive the same support as the fee-paying students. Usually, we only offer this to students of Native American ancestry, but for you, sweetpea, LAPA is willing to make an exception.”
+
+Lana almost laughed at the transparency.
+
+The easiest way to blind society's gaze was to dazzle it.
+
+On top of damage control—giving a traumatised student the greatest grace a school could offer, a full ride—would make for a good story, especially if she said yes—thereby proving that there was nothing wrong with the administration or the school.
+
+If Lana still had access to her old resources and if Eppie was her blood-related relative, she would have litigated LAPA until they had to sell their office spaces back to CSULA. Alas, Eppie still needed to attend school and have a permanent address, both of which were required for her legal emancipation.
+
+That, and the only true way to find out what happened to Eppie was to attend the school itself. Bullies, much like serial murderers, couldn't help but come out of the woodwork to gawk at the bloodied bodies of their victims. It was an itch that had to be scratched, a psychological tick welded to the very psychology that propagated the violence in the first place.
+
+“Alright, sounds good, Mrs Carr.” Lana extended a hand. “Do we shake on it, or have you brought a contract? Eric here can be my witness.”
+
+“Er…” Susan Carr’s internal metronome took another beating while she course-corrected. “So, you WILL attend LAPA once more?”
+
+“I will.” Lana smiled with her teeth. “With great pleasure.”
+
+“Then… Here are the re-enrollment documents,” her OpCor retrieved a USB from her clutch. “Do you have a bank account? We'll need a government ID as well. Birth certificate, passport. Your Social Security number.”
+
+“All here,” Eric patted his briefcase. “All notarised."
+
+“Goodness, Miss Fontaine, you are certainly very organised.” Carr’s gaze brushed both of them again. “We’ll do our best to settle you into your new accommodations for the second quarter of the first Semester, starting your Sophomore Semester on the 20th of August. Will that be acceptable?”
+
+“Perfect.” Lana shook the woman’s hand again. “I look forward to attending classes again at LAPA, Mrs Carr. Please give the Principal my regards.”
+
+“Lovely!” The woman, clearly not expecting that everything would go so swimmingly, walked a little circumference around the room, fixed the flowers in the vase, then bowed her head. “Once again, we’re very, very sorry for what happened, Eppie. LAPA will ensure that such a thing doesn’t happen again. I promise you.”
+
++ Karmic Causality
+
+“Thank you,” Lana bowed her head as well. “This time, I am certain that whatever had happened shall never happen again.”

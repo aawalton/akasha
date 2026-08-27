@@ -1,0 +1,163 @@
+---
+id: 4a06f53c-adb3-5468-848c-0faaedcff0b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 City secrets"
+slug: 0034-chapter-29-city-secrets
+partOf: melody-of-mana
+position: 34
+ownLength: 2086
+unit: words
+ownProgress: 2086
+publishedAt: 2021-07-21
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/720094/chapter-29-city-secrets"
+royalRoadId: "720094"
+markedReadAt: "2026-06-29T22:27:24.340Z"
+---
+
+Spring rolled round into summer, and news started to spread. There was rebellion in the countryside. It was unclear where, but many of the smaller villages had either stopped paying their taxes, or gone fully against the local nobles. This wasn't that big a problem from inside the capital, there were no food shortages in this region, but many of the smaller regions were having real issues. My understanding was that in places magic users were having to be dispatched to quell the rebels.
+
+I idly wondered if the area around my former home was in flames, but I could only bring myself to care so much. I cared about my mom, my dad, and the brother I had left, and perhaps Sara, but that was about it. I didn't hate the people there, but I didn't know them anymore, and there was nothing I could do regardless. Lord Hazelwood was hopefully having problems though, because screw his whole family.
+
+Someone plopped down at the bar, interrupting my musings.
+
+"Hey Alana."
+
+"Afternoon Dras, what can I get you?"
+
+"Lunch, and some ale please."
+
+Dras came by most days when it wasn't winter. He was involved in filling some magic item or the other. At first I thought that this might make him competition for us, but it seemed that Lucien didn't mind it. There was currently more business than he could handle, so shoving some off on the kid wasn't an issue for him at all. On some of my days off I'd even end up doing some light practice with him in one of the open lots behind The Sky. It was good to have someone even relatively close to my own size to practice mace and spell with.
+
+I pushed across his stew and bread, along with a mug of ale. That was the standard around here, though sometimes we'd have some meat dish. It varied wildly by what was available in any given season. Today though was beef stew with veggies, thickened with barley. The bread was my old standard, good, but nothing particularly special.
+
+"So, anything new?" I asked over the counter I could barely see over.
+
+"Not particularly. More rumors about rebels in the country, there was an arrest of one of the brothel owners for using underage girls... That's about it. By the way, you know any clothes vendors? I'm starting to grow and almost none of my stuff fits anymore."
+
+"Underage? Hate to be that guy."
+
+"Woman actually, and yeah. Word is that the Crown is taking all of her stuff, and banishing her from the central duchies."
+
+"That's basically a death sentence yeah? No home, no money, no nothing."
+
+"Maybe, I don't know her but there are more than a few who could survive it. She'll be reduced to a beggar or something though. I think I could make it through something like that, but I'm a caster. What about the clothes though?"
+
+"Don't know anyone in particular about clothes. I know a guy who makes pretty good shoes though."
+
+"Sweet, mind introducing me?"
+
+"Sure, shift ends in a bit. I'll take you."
+
+His question was a fairly normal one. Many people would have preferred shops. Somewhere a friend or family member worked, or just somewhere they knew was good. If you weren't rich knowing somebody was a good way to make sure you got the best deal or service, so asking those you knew was the best way for an in on that. Since I saved most of my money I didn't know very many places, but I'd give Sorn a bit of business any time I could.
+
+Ordering shoes for Dras was easy. Dealing with Sorn's teasing about when we'd be getting married was less so. Threats were made before it would stop. Eventually though the order was placed. Dras, at Sorn's suggestion, even volunteered to walk me home.
+
+As we were passing through one alley what looked to be a manhole cover in the street opened up. Three men pulled themselves out. They looked a bit rough, and turned when they saw us.
+
+"Evening lads." Dras spoke before they could say anything. He seemed completely unfazed by the situation.
+
+"What're two kids doin' out in the middle of the night?" One of the men, I'm guessing their leader, replied. He seemed a bit put off balance by the boy's confident attitude. I of course knew that in a fight the two of us would likely trounce these three, size difference or not. They on the other hand had no auras, and probably just saw two kids. Aside from Dras' habit of dressing like a wizard.
+
+"Heading home, and minding our own business."
+
+"Well then, see that you keep doing so and have a good night." The threat in his voice was real.
+
+The other two didn't speak. They stood back, looking at us and around the alley. If I had to guess these weren't street punks. For one they were too old. While they looked rough, they were also too disciplined. Each knew where his place was, and stood like he'd been thoroughly trained. In all likelihood they had; most men in the country now had some level of military experience under their belt.
+
+Dras took me by the arm and pulled me away, giving them wide berth as we passed. He walked so that he would be between me and them, and quickly turned the nearest corner as we sped along.
+
+"What was that?" I asked after we'd gone a block or two and made sure we weren't being followed.
+
+"I don't know exactly, but not something we want to be involved in."
+
+"Where did they even come from, the sewer?"
+
+"Only sewers in the city run down the biggest streets. That was an undercity opening. They're all over the place if you know where to look."
+
+"Undercity?"
+
+"Yeah, the city's really old right?"
+
+I nodded as we kept walking.
+
+"So there's a bunch of old parts that have kind of sunk, and people just built over them. Add to that cisterns that haven't been used in centuries, access tunnels for old businesses, some sealed off basements, and a frankly insane amount of catacombs and you have the undercity. Over the years it's all gotten connected here and there from collapsed walls and people digging."
+
+"So they were exploring the undercity? That sounds cool."
+
+"No, probably not. Thieves and the like use those paths to escape sometimes. They might know one or two streets worth of the network. Partially because it's huge, but it's also unstable and dangerous."
+
+"It still sounds cool. I wonder if there are any openings near The Sky."
+
+"Tons, and I mean that. Most of the businesses on the street have an entrance into it, but they keep them sealed up. There are a few minor monsters that live down there."
+
+"Monsters!?"
+
+"Just little ones mostly. A few big rats and the occasional slime or something. Anyone could deal with them, but they're still nasty. There's other things if you go really deep into the system, but smart people stick to the paths they know. Getting lost down there is no good. Jer's brother went down alone once to find a new path... Do you know Jer?"
+
+I shook my head. "How do you even know all this?"
+
+"Most everyone who lives in the city knows they're there. It's also a sort of thing for boys to go and explore the tunnels near their house. Older brothers and neighbors and stuff will take you down if you ask nice and show you the way around. I used to use them to sneak out with my friends at night, lots of fun."
+
+"So did you like, fight the rats and slimes and stuff?" This was sounding like the city had a starter dungeon below it. Something out of an old MMO for sure.
+
+"What? No, why would I? That stuff runs off if you've got a light with you. Anything that's aggressive and near the surface gets killed quick too. Nobody really talks about it, but rat-catchers and the like go down there and clean out anything they can."
+
+"I thought maybe people would go down there and train or something..."
+
+"That's weird. It's a maze, and really unsafe. What would you even train for? Who needs to practice on rats? They're too weak to act like real monsters, and nothing like fighting humans."
+
+I pouted, my hopes for a starter dungeon were smashed. Reality seemed to not match up quite perfectly to games and books. I knew there were dungeons in this world, or at least its stories.
+
+"I thought it might be like a dungeon or something..."
+
+"Maybe if you went really deep you'd find a dungeon-like area, but we're in the capital. If something like that got found the army would just pour into it and tear it apart. There wouldn't be any big monsters, so thirty or so soldiers could move through and clean it in an afternoon."
+
+"Yeah, I suppose they would huh..."
+
+The rest of the way home I asked Dras to point out some of the entrances. They really were everywhere, almost every alley had one of some level or another. Many were just a round covers over a spot in the road, but there were also a few doors that were sunk into low spots on buildings. Each was marked with a symbol to warn everyone away. By the time we'd made it back to The Sky we'd made a game of it.
+
+By fall I'd bugged Dras about taking me down into the tunnels to the point that he was just ignoring it. Though he did tell Lucien; because he was a spoilsport.
+
+"You really shouldn't go down there Alana."
+
+"Because it's really unsafe?"
+
+"Yes, quite unsafe."
+
+"So you never did when you were young?"
+
+"... I am probably not the best role model."
+
+"So Jackson didn't when he was young?"
+
+"I knew him in his teens, but he's decidedly not the best role model."
+
+"You knew Mystien when he was younger right? He's a pretty good role model."
+
+He stared at me for a few moments, then sighed. "Fine, will you at least please not go down there alone?"
+
+"I'm not stupid Lucien."
+
+"You did trek halfway across the country to get here..."
+
+"Alright, alright, I have no plans on going into the undercity alone." They were never going to let me live that down.
+
+"Is there an entrance here by the way?" I felt I needed to ask.
+
+"It's in the basement, and quite well sealed. Do not try to unseal it." That got me a harsh glare.
+
+"I won't without your permission. If all the businesses around here have them though, couldn't it act as a way to get around in the winter without having to go above ground?"
+
+He paused to think for a few moments. "That not the worst idea I've ever heard, but it would be a lot of work to seal up the edges around our street and clean them up enough to be a viable option."
+
+"So why doesn't anyone?"
+
+"You'd need all of the businesses to agree to it. They won't, because there are no incoming customers from the areas around. Anyone using them would just be people that are already on this street, and those generally stay for the winter. That and all the work. Some of those tunnels are unstable, and many of them are weirdly designed. While you wouldn't need to deal with snow, you'd have to deal with lighting, and the overall confusing setup."
+
+I sighed, it would seem my idea for an underground walkway system was dead on arrival. These weren't caves either; they were buried streets. I'd made my mind up to avoid caves, due to a storied history of caves screwing me over. Well, two for two at least.
+
+It was right at the end of fall that Dras showed up on one of my days off with about three other boys and one girl around my age in tow, along with one other older boy.
+
+"You still wanna go check out the undercity? These four have been bugging everyone to take them as well, so Jer and I were gonna show them one of the paths."
+
+It took me only a few minutes to grab some boots and my mace. If there was gonna be a monster to fight, I wanted to take it down.

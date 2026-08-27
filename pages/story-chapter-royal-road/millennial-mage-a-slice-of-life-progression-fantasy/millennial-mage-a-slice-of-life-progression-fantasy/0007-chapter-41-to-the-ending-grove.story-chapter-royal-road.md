@@ -1,0 +1,337 @@
+---
+id: 91fc664b-6f9c-5abe-a909-ae183bdd6a94
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 41 - To the Ending Grove"
+slug: 0007-chapter-41-to-the-ending-grove
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 7
+ownLength: 4192
+unit: words
+ownProgress: 4192
+publishedAt: 2021-12-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/809731/chapter-41-to-the-ending-grove"
+royalRoadId: "809731"
+markedReadAt: "2026-06-29T19:35:31.077Z"
+---
+
+Tala was, by every metric that mattered, a Mage.
+
+Sure, she still lacked some basic knowledge that she would have gained as a mageling, under a master, but she was getting by just fine.
+
+Just fifteen days out from the academy, and she’d reached a level of recognition that would likely take her classmates years to achieve.
+
+She had operated as a Dimensional Mage for the most recent caravan from Bandfast to Alefast, earning quite a bit of gold.
+
+The other Mages she interacted with recognized her prowess and authority.
+
+She had magic inscriptions that left her nearly invulnerable to most threats. I’ll even get the remainder of my inscriptions as soon as I get back to Bandfast.
+
+And now, she had her own magical items to explore and exploit.
+
+Inside her newly acquired dimensional storage, Tala reached out and placed her right hand back on one wall and pushed power out, directing it straight from her gate into the surface, just as she had with the first cargo wagon she’d tried to empower.
+
+The wall greedily drank in the magic, and there didn’t seem to be any resistance due to her lack of a mental construct to shape the power.
+
+Even more interesting. As she continued to feed the wall magic, she watched the hole overhead shift slightly to rest beside one wall and gray ladder rungs sprout from the wall, along with shelveng around the opening itself.
+
+“Now, this is amazing.” The changes she’d described were complete, so she cut the flow of power and pulled her hand away. As she did so, she felt a staggering, whole-body exhaustion set in. She felt nearly as bad as she had after creating her first Archon Star. What was that?
+
+As she thought back, she realized that the lack of resistance had caused her to dramatically underestimate the amount of power she was funneling into the artifact. Instead of just taking power directly from her gate, she’d been pulling from the reserves around her keystone. She was used to draining water from a spout, and this had been like removing the top of the barrel and overturning it.
+
+She groaned. “No fair. I’m trying to work with you, and you drain me?”
+
+There wasn’t a response, per se, but the feeling of expectant waiting diminished to almost nothing.
+
+“That’s not an apology, but I’ll take it.” Tala, you’re talking to your pouch… She groaned, again, and pulled herself up the ladder and out of the hole. With stiff movements, she placed all her carefully arranged piles onto the shelves surrounding the hole and drew the pouch closed, satisfied. She absently patted the side of the bag. “Not too bad.” Not helping. Sanity check, Tala.
+
+She moved through some brief stretching to relieve the soreness, but she knew that her physical ache was just a manifestation of deep magical exhaustion.
+
+She eyed the two items that she’d left out, aside from her clothing for tomorrow.
+
+The vial containing her blood Archon Star and the artifact knife.
+
+Tala, you’re tired. Don’t do anything foolish. She picked up the vial and opened the top, looking in on the drop of blood.
+
+She held the knife in her other hand and looked back and forth between the two. What’s the worst that could happen?
+
+Tala tipped the vial over, dripping the blood onto the pommel of the knife and directly into the small void in its magic.
+
+As she’d hoped, the magic of the knife accepted the Archon Star with ease; the blood vanished as if she were confirming a contract.
+
+She watched in fascination with her magesight as the artifact’s magic subtly shifted to incorporate her Archon Star. Physically, the knife darkened in color until the steel was almost black-gray. In the handle, more of the flecks took on a red tint, and those that were already red brightened in color.
+
+Just as with the Archon Star itself, Tala was now aware of exactly where the knife was and its current condition: perfectly fine.
+
+Then, she was struck with a hammer of weariness. She would have said it was soul deep, and that was more accurate than she’d like to admit, even to herself.
+
+She dropped the knife and crawled lethargically to her bed before collapsing into blissful sleep.
+
+* * *
+
+Tala groaned into wakefulness, the room positively glowing around her.
+
+She immediately felt her knife nearby and fumbled around on the bed, trying to find where she’d dropped it. Her hand met the hilt. There you are.
+
+Lying there in her comfortable bed, she felt a flickering wave of tiredness threaten to pull her back into slumber, but she resisted. Nope! Time to get up, Tala.
+
+She pushed herself upright, looking around the brightly lit room.
+
+The artifact lights were still glowing, but their illumination was pale compared to the outside wall of her room, which positively radiated luminescence under the dawn’s light.
+
+East-facing room, indeed. She glanced down at the knife and quirked a smile, setting it on her bedside table. It was good to have a weapon, ready to hand. If I’d had that under the wagon, I’d not have needed the soldier’s sword.
+
+She hesitated at that. I had my camp knife. I did need a sword. Still, she felt like her new knife would have fit the bill, somehow. Strange.
+
+She stood and arched backward, first working out the kinks of a night spent in an unnatural position. After that, she moved through her morning stretches, looking within herself to verify that each was targeting the correct muscle groups. That done, she moved through her exercises, deciding to add a couple at the end when she noticed several sectors of muscle that weren’t worked well enough.
+
+That done, she turned towards the bath but hesitated. After a brief pause, she picked up her belt pouch and her sheathed knife, taking them with her into the bathroom.
+
+After a quick bath—she was running later than usual, after all—she refreshed her salve, guided by the magic detector. Both the salve and detector she pulled from the pouch, and both were returned.
+
+Finally dry and ready, she let out a long sigh. Last time I have to put these on. She pulled out her blood-stained clothing and pulled them on.
+
+They weren’t precisely filthy, but they were far from clean. The seamstress should have something better this afternoon. She needed to move quickly if she was going to get to eat breakfast, swing by the blacksmith, and get to the ending grove that Trent had marked for her before noon. That’s what I get for sleeping late, I suppose.
+
+Dressed, with her knife and pouch at her belt, she surveyed the room. There was nothing of hers remaining. I’ll be back. Still, it didn’t feel like her room, not permanently. That’s good; it isn’t.
+
+She left, heading back to the dining hall, where she was able to grab a quick, hearty, and portable breakfast, foregoing the huge spread in favor of a less awesome but more ‘grab-and-go’ meal. They would only let her have two cups of coffee, so she guzzled those before departing.
+
+Cloth sack of food safely tucked in her pouch, she strode from the inn and towards the blacksmith.
+
+It was a bright morning, and even after her routine tasks, it was still somewhat early. There were citizens walking about, but not nearly as many as there would be soon enough. She pulled one piece of her breakfast out after another, eating them with gusto to sate her all-too-familiar hunger.
+
+I really need to get better about monitoring my expenditure of power… Using magic didn’t directly affect her hunger, but the mental and physical strain of such definitely contributed to her appetite.
+
+The blacksmith was waiting for her when she arrived, and she paid him the additional silver for prompt delivery of her tools.
+
+The pliers easily vanished into the bag, but she had a bit of a comical time maneuvering the fruit picker, on its 10-foot pole, into her pouch. She ended up having to angle it quite extremely to allow it to fit well enough for her to draw the bag closed.
+
+“Thank you, Pedrin.” The poor man had watched with obviously subdued mirth at her struggles.
+
+“Our pleasure, Mistress. I hope that you return to us again, for any of your smithing needs.”
+
+“I believe I just might. Good day.”
+
+“Good day, Mistress.”
+
+Without further delay, she strode towards the easternmost gate, as that was the one closest to the grove she sought. The streets were beginning to get busy, and the sky overhead was becoming a true, pale sky-blue as day took firm hold at last.
+
+She grinned to herself, licking the last of her breakfast from her fingers. Today will be a good day.
+
+There was a short line to exit the gate, and she waited patiently… for the most part.
+
+It took the better part of a quarter-hour to reach the front of the line.
+
+“Name, reason for departing, and time of expected return?”
+
+“Mage Tala, on a personal errand, and late afternoon.”
+
+The guard frowned. “I don’t see you on any jobs list for outside the city.”
+
+“As I said, I’ve a personal errand.”
+
+The guard’s frown deepened. “But… you’re not on the lists.”
+
+Tala took a deep breath in through her nose before puffing it out in a quick, calming exhale. “Guardsman, are you meaning to imprison me within this city?”
+
+The man blinked. “What? No! Mistress, I would never—”
+
+“Then, note that I have departed, on a personal errand, and will return well before nightfall.”
+
+“We can’t send anyone out after you if you don’t return.”
+
+She gave him a flat look. “I didn’t ask you to.”
+
+He looked more than a little uncomfortable. Thankfully, a man who seemed to be his commanding officer stepped forward. He must have heard the end of the discussion because he bowed to Tala. “Mistress, my apologies. You are, of course, free to leave the city. Thank you for registering your departure with us. We will notify the”—he glanced at the slate the other guard held—“Caravan Guild of your journey, and we will relay any communications from them upon your return, after lunch.”
+
+Tala blinked at him. The Caravan Guild… Rust! “Oh! My… I completely forgot that I didn’t pack a lunch. I’ll be back, shortly. When I return, do I need to check in with you, or can I simply walk out?”
+
+“You may depart at your leisure.”
+
+“Thank you, and thank you for your timely reminder! I’d hate to have gone hungry.”
+
+She turned and strode away, as fast as she was able while maintaining a modicum of dignity. It took her another half-hour to reach the workyard near the city’s northern gate, where she found twenty cargo-slots awaiting her empowerment.
+
+The foreman appeared to check a watch as she arrived, but he seemed satisfied by what he saw because he smiled and waved. “Mistress! Are these set up to your satisfaction?”
+
+She gave them a quick glance before nodding. “They are indeed. Thank you.”
+
+She quickly moved through the now-familiar mental and magical motions of empowering the cargo-slots, though the doubling of their number left her feeling a bit spent by the end. I could have gone slower, and that would have been easier. But she needed to go.
+
+She verified that the foreman didn’t need anything further from her, and she turned to stride purposely back towards the eastern gate.
+
+All told, her forgetfulness had cost her more than an hour, but she thanked the heavens that she’d been reminded before departing. That would have been very bad.
+
+She waved to the guards as she walked out through the eastern gatehouse and threw her arms wide to bask in the sun streaming down upon her as she stepped free of the city.
+
+The magic in the air hit her like a cool wave, revitalizing her and filling her with energy. She didn’t precisely absorb magic from the air, but she did feel it ease the strain on her body, in ways that she didn’t quite understand.
+
+Always more to learn.
+
+She also noticed a strange pulling that manifested in the magic around her, causing it to distort and seem to flow into her belt pouch. Recharging, after being in the relatively low magic of the city? It was an interesting idea, but it was not her current focus.
+
+She pulled out the map as she walked, verifying her memory and checking for landmarks. As the first part of her path mainly took her across land that had been within the city at some point in the past, the ground was incredibly level and smooth, making for an easy, quick pace.
+
+As she walked, she tried to note her balance, posture, and breathing without allowing them to dominate her thoughts. She nudged each of them in the right direction, again without forcing the issue. Little steps, Tala. Little steps.
+
+She kept her senses sharp, ready to retreat or fight if any creature approached her, but she didn’t see any.
+
+Make no mistake, there was plenty of magic in the region—and even quite a few small, arcanous creatures—but nothing that would be a threat to a child, let alone her. That’s odd. Maybe another group swept through before me?
+
+She had left a bit later than most people she’d seen exiting the eastern gate.
+
+Even so, she didn’t allow herself to grow lax. Her eyes were ever-moving, and she tried to be as inconspicuous as possible.
+
+She was just over an hour outside the city, and more than halfway to the grove, when she felt flickers of dimensional magic and turned to find the terror bird regarding her from a dozen paces away.
+
+Lovely, just lovely.
+
+The bird currently stood just shorter than her, its heavily built body likely three or four times her weight.
+
+They stared at each other for a long time. “I wish you could talk.”
+
+The bird shook itself like a dog shedding water.
+
+“I suppose that means ‘no,’ but I already knew you couldn’t talk.”
+
+The bird didn’t react.
+
+“What do you want from me?”
+
+It bent down and mimed tearing a bit of meat from a kill.
+
+“You want meat?”
+
+The bird bobbed its head.
+
+“Can’t you kill something yourself?”
+
+It settled down on its haunches, not quite sitting but clearly at its ease.
+
+“You don’t want to…” Tala groaned. “I can’t possibly feed you enough for you to survive.”
+
+It shook again.
+
+“You don’t want me to feed you enough to survive?”
+
+Shaking.
+
+She groaned again. “You just like the taste of the jerky…”
+
+Bobbing.
+
+She let out a sigh. “Will you go away if I give you some?”
+
+The bird hesitated, then gave a small bob.
+
+“You just lied to me. You can’t even talk, and you lied to me!” She found a grin spreading across her face despite herself.
+
+The bird shook itself, but there wasn’t much intensity behind the movement.
+
+“You know, you can’t follow me forever.”
+
+The bird lifted slightly into what was obviously an aggressive crouch.
+
+“I’m not challenging you, bird. I’m stating a fact. You can’t get into cities, and I will be in many cities. You know—” She’d been about to say that she wasn’t the only human with jerky, but she realized that telling a dimensional terror bird that it could get tasty treats from humans it considered helpless was not the best plan. She scratched her forehead. “Fine. Fine! I’ll give you some.”
+
+The bird stood upright, clearly perking up at the idea. It shifted back and forth from foot to foot as it waited.
+
+Tala fished out a big chunk of jerky and contemplated for a moment. I’m not letting it get close to my hand, even if it can’t actually bite off my fingers. On a whim, she pulled back and tossed it off to the side.
+
+A ripple of magic passed over the terror bird, and it shrunk to the size of a large cat. A second pulse caused it to vanish from where it had been and reappear alongside the still-flying jerky, which it snapped from the air. A third pulse of magic took the bird and jerky from her sight altogether.
+
+She didn’t feel any other points of dimensional power, so it had moved out of her magesight range. The entire process, shrinking and transporting twice, had taken the bird less than an eyeblink.
+
+That is a terrifying creature… I can’t continue to call it ‘bird.’ It needs a name. Something else to think on.
+
+She sighed and turned to continue her trek through the lush wilds, towards the distant grove.
+
+* * *
+
+Almost an hour later, she had the distinct impression that the bird was back, even though she hadn’t sensed any dimensional magic. Following a self-destructive whim, she fished out a second large hunk of jerky and randomly flung it to the side.
+
+Twenty feet from her, the jerky encountered a brief flicker of dimensional power and vanished.
+
+She hadn’t seen the bird at all.
+
+“You know,” she called out, “I can’t just feed you for free. There has to be some give and take, here.”
+
+There wasn’t a response, and she didn’t have any way of knowing if the creature had heard her. It doesn’t really matter. I’m talking to a bird.
+
+She crested a small rise, small enough to not have been depicted on Trent’s map, and she saw the grove of ending trees before her.
+
+They were starkly beautiful in their loneliness. This used to be part of the farmland around Alefast.
+
+Unlike in other clusters of trees that she’d passed, no other foliage grew near them, and every tree looked exactly the same. Well, not exactly the same. They were clearly all the same species, though.
+
+I wonder why the one we passed on our way here was alone, but these seem to be living in harmony. They were often close enough for the branches to touch, and their unnatural swaying caused the limbs to click or rasp together, creating a constant undercurrent of fairly disturbing sound. So that’s what I was hearing. The sound had been growing louder on this portion of the trek.
+
+Tala glanced down at herself. She was not fond of the state of her clothing, but she had no interest in having to trudge back to the city naked. I’ve still got the shirt the terror bird ripped open and the one with a hole in the chest from where Brand stabbed me.
+
+Her pants were in a little better state, thankfully. The blood-stained shirt was her most intact shirt, but she could work with the cut and stabbed ones if necessary.
+
+Her belt, however, that she wasn’t willing to lose.
+
+Toward that end, she decided to use her iron salve on the belt and belt pouch. She reasoned that the belt pouch’s magic, like her own, was below the surface, so it wouldn’t be negatively affected by the salve. In addition, the opening would still be free to draw in magic, as it had continued to do throughout her trek.
+
+That decided, she opened the pouch and found two surprises.
+
+First, the fruit picker was clearly standing upright, instead of at the crazed angle she’d finagled it into in order to close it. When she peeked inside, it appeared as if a hole, just bigger than the handle, had opened up, going deep enough for the entire lower portion of the tool to fit in, allowing the basket and hooks at the top to rest comfortably within reach, while still being out of the way. “Huh. That’s pretty neat.”
+
+Second, the items she’d placed on the upper shelf now each seemed to have somewhat customized resting places, allowing for more secure storage and easier access.
+
+“I think I’m going to like you, bag.” She decided that the storage’s ability to mold itself was likely directly connected to how much power it could draw in, so her being outside the city had allowed it to shift more easily. “Seems that feeding you magic is going to be a wise decision.” It can’t possibly be a bad idea to give power to a semi-sapient, dimension-warping item. Not at all.
+
+Changes noted, Tala got to work. She pulled out her small glue bottle and painted her palms with the flexible substance. As soon as the paste had dried on her palms and the inside faces of her fingers, Tala pulled out an iron salve bar, working the salve into the leather of her belt and the outside of the dimensional belt pouch. That done, she placed her knife into the pouch and pulled out the fruit picker.
+
+With deliberate care, she worked iron salve into the entirety of the ten-foot wooden handle of the tool. Patience in the present removes frustration in the future.
+
+Her work finally complete, she stood, ready to approach the ending grove.
+
+She wore her blood-stained shirt, and she’d changed into the pants that were similarly speckled. Her belt held only the belt pouch, and her hands held only the fruit picker. Let’s do this.
+
+She walked forward and spotted the first bunch of endingberries on the closest tree.
+
+She carefully maneuvered her fruit picker up and used the hooks to pull the berries free.
+
+As she did so, several of the nearby branches swayed to bump the wooden handle of the tool. Thankfully, the iron salve protected it just fine, and nothing came of the interactions save brief, impotent flashes of magical power.
+
+She moved methodically around the edges of the grove, trying to stay out of reach of the moving branches. She had only gotten the fruit picker’s basket about half-full when a tree moved much more than any previously had.
+
+She had no warning as a branch descended and impacted her back.
+
+There wasn’t nearly enough force to harm her, or even knock her off balance, but the tree’s magic was still imparted.
+
+A ripple of destructive, disintegrating power flowed across her skin but couldn’t penetrate her own application of iron salve.
+
+Her shirt did not fare so well, and it puffed to dust, falling to the ground around her.
+
+Tala groaned, looking down at herself. That’s just great.
+
+She had a decision to make. Was she going to continue harvesting half-naked, or would she risk another shirt?
+
+The one the bird tore up wouldn’t be too much of a loss.
+
+She stepped away from the grove and pulled that shirt out, putting it on quickly. There.
+
+As she looked back towards the grove, she paused. Not worth it. She removed her belt, placing that within her pouch, and then she tucked the pouch beside a very prominent rock. Much safer to leave it here.
+
+Moving back to the edge of the tree line, she was even more careful as she continued to fill her basket, dodging the increasingly numerous, wildly moving limbs.
+
+Finally, she’d filled the little basket of her fruit picker, so she withdrew to a nearby boulder, which was poking out of a rather lush field.
+
+She retrieved the dimensional pouch from the base of the rock and fished out one of the jugs, placing it securely between her legs on the rock. Then, with the pole leaning against the rock so the basket was in easy reach, she went to work.
+
+In quick succession, she would take up an endingberry, twist it apart, and drop the two halves into the open jug. The seed would go into her mouth, where she would suck off the juice, enjoying the building buzz of power. Then, she would take the seed and hurtle it back into the ending grove, where it would land among the roots of its ancestral kin.
+
+To her surprise, the seeds of these endingberries did not build towards destruction nearly as quickly as those of the lone tree in the wilds had. As a result, she had almost a minute to work with each berry, if she so chose, leaving it a far less dangerous process.
+
+Maybe this is why there weren’t any other trees around that one? None of the seeds could get far enough away for the seedlings to establish… It was an interesting thought. Though, the closeness of the trees in the grove before her made that an unlikely reason.
+
+She’d considered keeping the ending seeds, as she had those from that singular tree, but in the end, she realized that she didn’t want to be carrying around what amounted to a massive box of destruction.
+
+Trent would approve of her decision, she assured herself, and that helped make the choice all the firmer.
+
+Many of the endingberries had retained their stems. For those, she used the iron pliers to help remove them before she processed the berries like the others. In the end, the single basket from the fruit picker allowed her to fill the jug somewhere between a quarter and a third full.
+
+Alright. Now, we’re getting somewhere. And back to work she went.

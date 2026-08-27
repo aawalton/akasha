@@ -1,0 +1,103 @@
+---
+id: 68f31995-694a-51c8-82b5-da6ac35b094a
+page-type-slug: story-chapter-royal-road
+title: "137 Party Time"
+slug: 0150-137-party-time
+partOf: melody-of-mana
+position: 150
+ownLength: 1807
+unit: words
+ownProgress: 1807
+publishedAt: 2022-05-18
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/909170/137-party-time"
+royalRoadId: "909170"
+markedReadAt: "2026-06-29T22:31:01.620Z"
+---
+
+I had had less than a full month to prepare, but when the night came I was ready.  The guests would be here shortly, but for the moment I needed all of my skill.  For while the decorations were up, and the games were in place, now we needed to mix the drinks.
+
+I had no less than five distinct cocktails in place, all sweet, along with three separate beers.  It had taken a full afternoon of getting drunk and unpoisoning myself to get through all of this, but it was well worth it.  The mixtures of fruit, liquor, sugar, and spices were all right, and I had even managed a passable mojito.
+
+"Wow, I dig the mushroom aesthetic."  Dras said as he arrived.
+
+Our whole ballroom was illusioned to look rather like a cave, the light primarily coming from fake glowing mushrooms on the walls.  Jackson was kind enough to provide it for me, but I was paying hand over fist for that, mostly in alcohol and cocktail recipes.  Both were easy for me to get, so I was less than unbothered by that.
+
+My other friends were coming in shortly too, those who'd helped me with setting up this mess.  Pinea had a whole group in the background getting dressed for their various performances, and making sure to apply cosmetics or illusions over their Lover's Marks.  Charles was doing his last sweep to make sure everything was all good, and Dras had just arrived with the last shipment of food for the party.  It was small dried dates, stuffed with nuts and tossed in honey, a personal favorite from back on earth, as well as some bacon flowers.
+
+The guests arrived in waves, and soon enough everything was going.  It was going rather slowly, because most of those here had no idea how to truly get down and have fun, but it was my job as hostess to remedy that issue.
+
+"So, how does this work?"  Said one boy over by a giant wheel that we had one of our bartenders manning.
+
+"I'll demonstrate."  I said as I bounced up.
+
+It took only a few seconds to spin the wheel, during which I hummed a happy tune.  The little arrow ticked past section after section before finally landing on one of the slices.  From there I was passed the drink that I'd won.  Had I cheated so I didn't get one of the bad ones?  Maybe.  Did I regret that?  No.
+
+"You spin it, and what it lands on is the drink you get."  I said as I downed the significantly weaker than normal shot, which was almost entirely fruit juice.  This world might not have a drinking age, but too much alcohol was bad.
+
+With a nod the guy spun the wheel, and our now smiling assistant handed him his drink.  Within a few seconds he'd followed my lead, but unlike me was sputtering and coughing.  His face was red and he looked rather irritated.
+
+"That's terrible!"  He declared, he'd received one of my personal amalgamations that involved rather a lot of star anise, I'd called it a 'falling star' as a joke.
+
+"Yup, there are one or two that are bad.  Most of them are good, but if you land on one of the unlucky ones it's pretty nasty."
+
+Several of the guy's friends had started laughing and now the game was off.  Each wanted to give their luck a try, and based on the number of spellcasters present, to cheat either to hurt their friends or help themselves.  That was fine by me, cheating at party games was a good and time honored tradition.
+
+There were several other similar party games, including one where someone tried to get a prize from a pool with only their teeth.  I'd had to adapt that one a bit, since normally I'd want a girl dressed as a mermaid in there with the prize.  Sadly there didn't seem to be a lot of info about mermaids, perhaps they existed in this world, but if they did they weren't a popular story where I lived.  Regardless, a rather soaked Dras was demonstrating wildly with several of his friends, and it was garnering attention.
+
+The sound of drums led to the main attraction of Atali dancers, who rotated in and out from a large circle.  Several would go at once, having their turn before moving to the side to take a short break, and soon enough one of the girls in the audience went to join them.  This led to several more, self included.  Planting the first couple had been easy enough as I knew most of the girls from the Atali Dance class.
+
+That attraction went on for quite awhile, and earned no small amount of whispers.  It was clear to my guests that this was no normal ball, and that their expectations could be left at the door.  That was aided by the fact that after a few rounds, one or two of the dancing girls just joined the rest of us while in full costume.
+
+"I need a slight break."  Pinea declared as she joined me in observing things.  She had been going for the better part of half an hour now and was dripping sweat.
+
+We got her a berry filled ice water and I turned to her.  "Want to go see what they're up to outside?"
+
+I could barely hear the cheers from where I was currently standing, but that I heard them at all from inside indicated that it was going well.  At her agreement we went to go and watch.  Two boys, Tobias and another whose name I didn't know stood high up in the air.  Each had his pole to stand on and several more he could jump to, and a staff in his hand.
+
+They were ducking and weaving, jumping, thrusting, and parrying, and as I looked on the young fanboy sent his opponent careening to the water below.  Another boy soon joined in on the fun to the cheers and encouragement of all those looking on.  I had a feeling like they might be at this for awhile.
+
+"Oh hi there Alana...."  One of the guys I knew from my Combat Magic class froze as he saw Pinea in her outfit, clearly oogling her, something she seemed to rather enjoy.  He stood there soaking wet and slack jawed for just a moment.
+
+"She's taking a break from the dancing inside.  How are things?"  I asked, trying to pull him out of his brain-lock.
+
+"Um... great, tons of fun.  Seems like I might have missed a few things though..."
+
+"Then go and enjoy them.  Dry yourself off before going inside though," I said, motioning him away.
+
+The two of us shared a giggling fit as he turned and tried not to run inside before going back to watching the matches up in the air.  At some point or other I think most of the boys tried it, if only to prove they weren't afraid.  Even the lads sent falling into the water were greeted with well meant jibes and pats on soaking backs as they left.
+
+Things went on well into the night before people eventually started to head out.  Kala had managed to convince several of her priest friends to help in giving all of the leaving guests a quick sobering up, not that we had anything that was all that strong being given out.  It still mattered as I didn't want to cause too much trouble for people.
+
+The morning after every good party involved cleanup.  Magic of course made this significantly easier and since I'd years ago come up with a simple cleaning spell most of it was kind of trivial.  As I was telekinetically tossing cups and plates onto trays for the kitchen to wash I found something though.
+
+"Oh my," I said as I found something truly interesting.
+
+One of our dancers had at some point lost her top, leaving it sitting on a chair not far from the area.  I blinked and laughed, it clearly wasn't Pinea's.  It was less than ten minutes later that I found the girl in question, one of last year's graduates, curled up with another of my guests under a nearby table, quite asleep, and thankfully otherwise clothed.
+
+"Hey, wake up!" I yelled, sending them both popping up and into the bottom of their hiding spot.
+
+"Wha!? *Thunk* Ow!  Wait, where..."  The girl quickly covered herself as she registered things.
+
+"Lost this?"  I asked, offering out the missing article.
+
+"Um... yes, sorry..."  She blushed brilliant red, putting it back on and the young man with her failed to look away.
+
+"It's fine, grab something from the leftovers if you need it before heading out though."  I waved them over to a small table which still had some of the extra food on it.  Neither of them seemed to need my help and I did have work to do.
+
+John wandered in to join me at some point, looking still a bit tired.  He was blinking the sleep from his eyes as he walked over, grabbing a few things on his way.  As he passed the happy couple was leaving in a hurry.
+
+"Were they...?"  He said as he looked after them.
+
+"I don't know, and don't really care."  I shrugged at  him.
+
+"Whatever.  Last night was great, we need to do that again some time."
+
+I just snickered and went back to my cleaning.  It may have been minimal effort, but it all needed to be done.
+
+I got a letter at school, an actual letter from my father when he'd returned.  I knew that our little gathering had been a hit based solely on what I was hearing at school, but apparently word had gotten out further too.  Not in a good way, I'd succeeded in causing a decent scandal.
+
+He'd received several complaints and questions about what exactly had gone on.  This had not been aided by my brother who was rather wild in his descriptions of everything.  The fact that we'd gone in a completely different direction from a normal ball was simply unacceptable to a number of people, including my mother once she'd understood what kind of dancing had been performed.
+
+That said I didn't get the feeling that he was at all irritated.  He sent me the letter to 'tell me off' as was his job, but I'd gotten his express permission, and even orders to go a bit wild.  Whatever, I'd know soon enough.
+
+Regardless of what he did though it wouldn't much matter.  I'd introduced enough new ideas to the students of the academy that I was fairly sure that we'd have a good rotation of celebrations going in the next year or two.  Setting trends was good fun like that.

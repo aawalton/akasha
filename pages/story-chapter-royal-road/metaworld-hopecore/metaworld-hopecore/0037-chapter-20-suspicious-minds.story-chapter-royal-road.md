@@ -1,0 +1,279 @@
+---
+id: 0c4daf7a-3453-5367-bddd-ed159c136153
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 20 - Suspicious Minds"
+slug: 0037-chapter-20-suspicious-minds
+partOf: metaworld-hopecore
+position: 37
+ownLength: 3075
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368904/chapter-20-suspicious-minds"
+royalRoadId: "3368904"
+---
+
+“All seems infected that the infected spy, as all looks yellow to the jaundiced eye.”
+
+Alexander Pope
+
+NYC.
+
+The Four Seasons.
+
+Valorie Sanders, heiress to the Sanders Estate, the uncrowned princess of LAPA, sat in the bed of her five-star hotel room, hugging her phone.
+
+She had just been abused.
+
+Not physically abused. Not verbally abused.
+
+Not even admonished, really.
+
+But she was left with no doubt that whatever feeling she was feeling was what “being abused” entailed.
+
+On the way back to the hotel, Sir Woodhouse had spoken to her about his disappointment.
+
+“Val,” he had said in the open space of the limousine. “We have left a poor impression today, and that is not something any amount of donations can cover, because conventional wealth is crass, it is pretentious, conforming, stodgy, and philistine. It is bourgeois. It is the opposite of what is fashionable."
+
+Her CEO had paused to temper his rising temper. “Do you know the girl?”
+
+“Who? Eppie?”
+
+“Who else? What is she?”
+
+“She is no one.” Valorie had told her employer the truth. “Euphemia Fontaine is a talentless nobody, a ‘poor’ who lived alone and had no friends.”
+
+“You expect me to believe this?” She saw Sir Woodhouse’s brows come alive with questions.
+
+“It’s true,” Valorie protested. “She hasn’t auditioned for anything. She even dropped out last year. God knows why she’s back. Dr Cooper, probably. He loves the ‘poor.’”
+
+The CEO of Universal looked at her with eyes more annoyed than accusatory. Valorie stared back, feeling suddenly oppressed. “Val, don’t look to me for answers. I know nothing. All I know is that your father promised your history wouldn’t be an issue if we chose to invest in your talents.”
+
+“Eppie’s a nobody!” Valorie recalled repeating the phrase like a mantra. It was true, though. Why wouldn’t anyone believe her?
+
+“Val, sweetheart,” Sir Woodhouse spoke with a direct, British dryness. “You do understand that your father and I are not chums. We are partners in a common venture. Universal LLC is trying to advance permits and permissions in California, and your father has a daughter who wants to be a star. This is how we met, and this is why you managed to crawl into the Met. What do you think will happen when one partner hides a crucial fact? Will our collaboration succeed?"
+
+“Sir,” Valorie recalled feeling so sick she may have thrown up in the car. “I… I am telling the truth. I haven’t done anything to this Euphemia. I don’t even interact with her at school. We have nothing in common.”
+
+“Don’t cry. It makes you ugly,” her warden didn’t even look up from his phone when he affirmed her claim. “Keep your upset to yourself next time. Even if you have to kiss Eppie on the lips, you will do it while smiling. There’s no joy in working with amateurs.”
+
+That was where her memory faded. When she was cognisant again, she was in the hotel shower, ugly crying.
+
+When has she ever been shamed so badly? Not since the day she stood in front of the Quest Board while Mio’s friends danced around her, ridiculing Valorie with their smugness.
+
+As for Euphemia—
+
+Her story to Sir Woodhouse had been true. She knew of the girl, but they had hardly ever interacted. It was William who took care of Euphemia, and he had told her that she was taken care of, that the penniless orphan wouldn’t be a problem.
+
+And even though she saw Eppie on the first day of school, William had told her that everything was settled, that unless the girl acted out, it was better to put all the unpleasantness behind them and focus on their Senior projects.
+
+And even though the girl blew up on MySpace, William said that it was good that she was minding her own business, and that their paths would not collide.
+
+But her boyfriend was wrong, just like he was wrong about Mio.
+
+Mio had taken her spot in the Showcase.
+
+And now, Mio’s partner in crime was here to steal her spotlight.
+
+She was going insane.
+
+She wanted to tell Papa her grief.
+
+She wanted to purge the negativity choking her breath. She wanted to see the girl suffer and revel in the pleasure of knowing she was the better actress.
+
+Like a shivering junkie, without her robe and without even applying her skincare routine, Valorie Sanders hugged her iPhone like a teddy bear and switched it over to text. William hated being disturbed at night, but he would read her messages in the morning, and he would know what to do to make everything better, as he’d done with Mio.
+
+Monday. San Marino.
+
+Bzzt. Bzzt.
+
+William Chen, son of Lee-Kwon Chen, heir extraordinaire and self-proclaimed future producer of Asian-American cinema, awoke to the buzzing of his phone popping off for the two hundredth time since it began at 10 PM.
+
+He gingerly slid from the silken sheets, careful not to awaken the girl in his bed, because he was a gentleman.
+
+Bzzt. Bzzt.
+
+He shuddered when his iMessage buzzed again. On the flickering screen, he could see the photo headframe of his official girlfriend, the daughter of his father’s business partner.
+
+Valorie Sanders
+
+213 Messages.
+
+Bzzt. Bzzt.
+
+Valorie Sanders
+
+214 Messages.
+
+“Fuck me…” William massaged his eye bags. In silence, he stretched out his well-built arms, marvelling at the sight of his own silhouette in the full-length mirror opposite his bed. Outside, behind the block-out curtain, the autumn sun was just about to peek through the hills, turning the valley below mauve and orange—
+
+Bzzt. Bzzt.
+
+He really, really did not want to answer the messages, nor read them.
+
+Valorie… sweet Valorie, beautiful Valorie, fiery Valorie—was a disturbed individual.
+
+Hers were mostly daddy issues, but not the kind William enjoyed. She was more like a toxic, hot, concentrated sriracha pepperoni, which was incredible in small doses, but absolutely exhausting if one had to eat it every day.
+
+Doting on Valorie was the only way to shut her up because her father was a Californian State Senator, formerly a big shot Attorney General. In a decade, Francis Sanders shall retire to become a very influential community leader who moonlights as a consultant for real estate developers in the valley—developers like Lee-Kwon Chen, CEO and founder of Omnia Construction Group, responsible for gentrifying Chinatown and parts of K-Town.
+
+For his father’s sake, he had supported Valorie since their Freshman years.
+
+Was there love between them? Valorie certainly seemed to enjoy William’s doting. Likewise, William felt with some sincerity that they were good partners. He admired her face, her vivacity, the way her waist writhed like a bag of snakes. He liked her prestige, her father’s influence, and the way she took no shit from anyone, not even his father.
+
+He liked that a lot.
+
+So yes, William supposed. It wasn’t the love they taught in Shakespeare, but it was love, in a practical, biological and sociological sense.
+
+Now, only three months after her last Greek tragedy, his princess of Mycenae was once again unhappy.
+
+Valorie Sanders
+
+218 Messages.
+
+He looked at the messages, some of which were on display. Truth be told, without her warmth beside him, he could not at all be fucked to suffer the mental anguish.
+
+Unlocking his phone, he swiped right for Wang. “Yo.”
+
+“Dai Lo. Zhou san,” a breathy voice replied from the other end in fluent Cantonese. Wang was in the gym. “What can I do for you?”
+
+“You remember that blondie?”
+
+There was a long pause. “The one Jimmu checked out in August?”
+
+“Yeah.” William felt a strange premonition as he affirmed the girl’s visage, but couldn’t place it.
+
+“Is she making trouble?”
+
+“Technically speaking, no,” William kneaded his brow. “But our young miss is disturbed by her.”
+
+“Is she being disturbed, or is Xiao-Jei… disturbed?”
+
+“Why not both?” William felt too tired to explain. “Supposedly, she ran into our golden-threaded finch in NYC. For the next few weeks, keep an eye on her. So long as she’s keeping to herself, Father’s orders are not to be disobeyed. I swear to the ancestors, he’s worse than Valorie sometimes.”
+
+“You got it, Chen-ge.” His subordinate answered with a grunt. “I’ll make sure to keep her out of San-jei's way.”
+
+The way Wang called Valorie Sanders “Sister-San” had always amused William. Satisfied, William tossed the phone back onto the bed.
+
+His partner, a lovely college-age thing he picked up at the CSULA bar, looked at him with admiration, then broke into a wide, inviting grin when she once more saw his well-toned figure.
+
+“Come here, hotstuff.” The girl slid closer until she was below him. With amorous eyes, she traced a finger up the side of his defined obliques. “When did you say your girl’s back?”
+
+“We have a few hours still,” Chen did his mental math, then snorted at his own shitty fatal flaw. He was a lustful young man, but even so, he was a good student. If he wanted to make it big on his Senior Showcase, he needed all the help he could get from Mister O’Donald. “Actually, I lied. I’ve got AP English in two hours, and housekeeping will be here in one.”
+
+The smile on the young woman’s face faded at once. “You’re a student?!”
+
+He didn’t deny it.
+
+“Grab a bottle of water on the way out,” William slipped from the bedroom into his walk-in closet. “If I see you again on campus, don’t be a stranger.”
+
+It took William thirty minutes to get ready. By the time he left, his uneasy partner had left his house in the hills with a cautionary tale to not judge a book by its cover.
+
+Jiang, his driver, had a light breakfast ready for him at the back of their palatial G-Wagon. He was thoughtful enough to take a route that was long enough for William to both eat and review his Senior work.
+
+Between his script, the screenplay, and his annotations, however, William could not help but be haunted by the incident in January. It had started all so casually, the friendly flirting, the advice, the less friendly advice, the warning, the stronger warning, then Wang and the stupid cats. Then, somehow, it just kept spiralling and spiralling out of control until, finally—
+
+After that incident, William’s Senior Treatise on Aristotelian Tragedy had scored straight-As.
+
+As for the players in his January tragedy.
+
+Val was still Hera.
+
+Ganymede, Hera’s African-American jazzophile, was still hanging around. William liked the girl because she was easy on the eyes, and her unbidden fear of him was a special kind of amusement.
+
+The skinny Freshman? She was merely a chorus member.
+
+In all honesty, William had a terrible memory for women he had no interest in, especially if they fell from a four-storey rooftop.
+
+Eppie returned in time to sign in and attend her Theatre class, driven by Eric, and arrived at the dorms with Armand.
+
+Unlike her male compatriots, she looked as fresh as an autumn morning, while the other two were sleep-deprived and barely alive.
+
+She switched over to her cheap casuals, grabbed her American Apparel duffle, and headed over to the Arts Block of Week 9.
+
+By now, the preparations for the auditions were ramping up rapidly, as was the construction of the set for the combined performance of Antigone. From what she had heard, LAPA would be open to the public for two days—meaning patrons, parents, and industry insiders- would all attend the Fall Gala.
+
+On the first day, the Seniors opened. Then Freshmen Showcases served as fillers from noon into the late afternoon, and the Sophomores had their run from the late afternoon into the evening.
+
+For the second day, Junior and Seniors had a mixed-grade Showcase across the School’s five major disciplines, split across Whitman Hall, Whitman Theatre, the Old Music Building, and the Playhouse.
+
+The Sophomores’ presentation would take place in the Playhouse, while the Juniors' and Seniors’ plays took place in the Whitman Building. The former had seating for only 400 audience members, while the latter, if fully utilised for the LAPAGANZA, could house 11,000.
+
+Presently, the crew, Eppie included, was fitting out the stage and literally learning the ropes. Unlike the main stage of the Whitman, the audience was as close as six feet away if they chose to sit in the closest row beside the stage. “Fontaine, good of you to join us,” Costello was their foreman, walking here and there to guide the students in their craft. Overhead, ropes and pullies, lights and rigs shifted slowly to and fro, with hard-hatted members of the crew directing their peers away from the potential points of impact.
+
+“It’s good to be back, Sir.” Eppie bowed her head at her instructor. Almost ten weeks in, they were more comfortable with one another, and the students had become, overall, more cheeky with their stern instructors. Her instructors did not mind that Eppie was often away on excursions—she was hardly the only one, and if she did make it somewhere, it could only be good for LAPA’s reputation. Besides, her developing skills as a theatre actor were only increasing by the week, easing any tension that may arise between her and her teachers.
+
+She quickly found their Production Manager, Cameron Atkinson, consulted the bible, and was issued an overall, a tool belt, and staple guns.
+
+Today’s theatre work was actually on lighting, and the canvas spreads they were finishing off would serve as props to complement Min-Jun's work.
+
+In the second hour, they took their place on the stage as Min-Jun and two of his aides were suspended near the rafters.
+
+“Today, we will review, then expand on the discourse that is Theatrical Lighting,” their instructor paced in the middle of the circle. “I will choose a few of you who have approached me for certain roles, and we will use you to test the efficacy of our lighting crew. Madison, you’re up first.”
+
+With great gusto, the leggy blonde leapt from the darkness, shot a glance toward Eppie, then stood in the middle of the circle.
+
+“Light—” Costello stood a distance away from Madison as he spoke, filling the intimate theatre with his voice. “Is the architect of human psychology.”
+
+He made a gesture for “punch”. A hard and unrelenting shard of light struck Madison's face on, sending her reeling.
+
+“Theatrical lighting is not cinematic lighting. Our place is in the darkness, and where the light touches—”
+
+In the dark, Min-jun adjusted the dials on his DMX board. The lighting on Madison became featury soft, illuminating the contours of her best features.
+
+“—what emerges is art. It is chiaroscuro.”
+
+One by one, Costello refreshed the students’ Freshmen knowledge by working with them through the cycles. Profile light was for sharp beams. Fresnels were for soft wash. Scanners were automated lights for tracking.
+
+Individual lighting fixtures were also brought out as they took time to experiment with dimmers, barndoors and shutters. What Eppie found most interesting was the newly installed LED lights that could internally adjust colour and saturation, forgoing the difficulty of individually applying gel to pre-mounted fixtures.
+
+What she garnered, after three hours, was that Min-jun’s job would be no easier than any of theirs, even though they would be hogging the light.
+
+“Eppie,” Costello sent her up last, in the final minutes of the session. “You may want to look away from this one.”
+
+Her teacher made the signal for “Bump”.
+
+Suddenly, thirty strobes lit up at once. For a second, all Eppie could smell was ozone as the shards of light converged on her, filling the air around her with motes of dust. What she noticed next was that the heat was immense. She was being cooked, literally, like someone had held her down with an invisible hand. Where she stood was no longer the black stage, but a white void where everything else simply disappeared.
+
+“FADE!” Her instructor made the gesture.
+
+Min-jun performed his dark magic. The shards of light bleed out, growing dull. Eppie is left panting in the gloom, her skin glistening with sweat, her eyes seeing purple after-images everywhere she looked, including the floating box that had just come into view.
+
+Trait Acquired
+
+[Love the Light]
+
+Causality Tier (D)
+
+You have learned to love the light. At higher tiers, you will respond to both natural and artificial lighting in ways that enhance your performance on stage and on screen.
+
+Beyond the B-tier, this trait can only be improved through Karmic Causality.
+
+“Learn to love the light,” Costello handed her a towel, then led her by the hand to sit. “Learn to love your Light Tech. I do not joke when I say that your life may be in his hands. You make a mistake, and he can make it go away by drawing the audience’s gaze. But if he doesn’t like you…”
+
+“Muahaha…” Min-Jun’s cackle echoed through the darkness.
+
+Eppie thought nothing of immediately throwing a good chunk of her [Causality] into improving what was probably one of the most essential skills she could imagine.
+
+Trait Acquired
+
+[Love the Light]
+
+Causality Tier (A)
+
+You have learned to love the light. With supernatural instinct, you will react to the presence of both natural and man-made lighting in ways that enhance your performance both on stage and on screen. Your continued practice has enabled you to instinctively react to lighting in such a way that your desired expressions and movements are clearly illuminated.
+
+Beyond the B-tier, this trait can only be improved through Karmic Causality.
+
+[Causality: 14122]
+
+“I’ll see you tomorrow, folks. You have until 7 PM before the custodians arrive to clean up and the systems are put to sleep.”
+
+Eppie’s life quickly snapped back to normal as the memories of NYC faded under the crushing workload of essays, exams and endless practice. Rumour had it that the new “Postmodern” script was done, and that all that awaited the Sophomores was who would be in what roles.
+
+After the theatre was done, she met with Zara, and the two practised their rendition of “In the Pines” until her fingers finally began to develop calluses.
+
+When her [Health] remained at [35], however, the callouses peeled away, revealing once more, the tender flesh of a pampered young lady beneath.
+
+Tender, bruising, bleeding flesh.
+
+This was… an unexpected outcome, one she would have to endure until a solution was found.

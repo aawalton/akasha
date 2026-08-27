@@ -1,0 +1,211 @@
+---
+id: 8db7cfb2-8d37-5386-a5ed-e52c1162f8ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 618 - New City Life"
+slug: 0120-chapter-618-new-city-life
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 120
+ownLength: 2863
+unit: words
+ownProgress: 2863
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2655176/chapter-618-new-city-life"
+royalRoadId: "2655176"
+markedReadAt: "2026-06-29T19:39:08.416Z"
+---
+
+Tala didn’t bother to hide her wide grin as Lea danced in a circle, exclaiming at the taste of the pasty. The girl had obviously had hand-pies before, even those filled with meat, but different cooks put different mixes of spices and other ingredients in, and there was a simple pleasure in experiencing those nuances.
+
+Lea had a leg up in that department as well, in that her senses and tastebuds essentially never dulled to even exceedingly familiar flavors.
+
+Around them, various passersby smiled at the clearly-young woman’s enjoyment. Many of the young men—of which there was a disproportionate number—did double, or even triple takes at the unusual, porcelain beauty.
+
+Thankfully, extra glances were the most that Lea elicited at the moment, and Tala was grateful for the uninterrupted time with her family.
+
+They’d arrived with little fanfare, helping the caravans get to the various workyards that were ready for them. As this was the final stop of their caravan, Tala wouldn’t be keeping the passenger cargo-slots charged any longer.
+
+She was free of that responsibility.
+
+The portal into Ironhold was in place in yet another workyard, and the exchange of goods was well underway.
+
+That left Tala, Rane, Lea, and Terry completely alone and on their own for the first time in weeks.
+
+Lea was enjoying her first meat pie in this city. Terry was munching on bits of jerky that Rane was tossing out for him, and Rane—other than pulling out bits of jerky from a pouch at his waist—was holding a meat pie in his other hand, taking slow, deliberate bites, enjoying it at least as much as Lea, even if he was expressing it in a more subdued manner.
+
+Tala was enjoying her own treat, but she also felt grumpy. She had wanted to buy two, but she’d quickly realized that she couldn’t actually hold two due to her missing hand.
+
+It was an incredibly silly thing to be upset over. After all, not only could she simply go back to buy another at any time, but she could have, in theory, held any number of pies with her aura, will, and authority. Still, it rankled.
+
+-Well, we also have potential other stop-gap solutions.-
+
+Tala sighed internally, not wanting to drag her family down. I know, but I don’t want to form a white steel or iron hand.
+
+-...but you want to form an entire body…-
+
+She hesitated at that. I… did not think of it that way.
+
+Alat huffed a laugh. -Of course you didn’t. You’re thinking in terms of fixing the body you have, rather than Reforging it into the one you want. That’s understandable, it only happened a couple of days ago, but you need to think long term. I don’t want to say that this is a blessing in disguise, because that trivializes the injury, but you can make it something that can benefit you in the long run.-
+
+Tala agreed, and almost started forming an iron hand where they stood, but thought better of it at the last moment. The citizens of a new city were heartier than most, and they were used to odd occurrences, but there wasn’t any reason to add to their already stressful lives by such a public display.
+
+-When we get back to the sanctum.-
+
+When we get back.
+
+So, instead, Tala turned her focus outward once more. Lea was gushing to the vendor of meat pies, and Tala allowed herself to feel the tugs on her heart at the sight.
+
+First, her daughter was often so like she, herself, had been, but without the jagged edges Tala had acquired over the years. Second, the meat seller was an older woman who reminded Tala of Greta.
+
+More than a year had passed since the woman’s passing, and so even the opening in the little culinary square in Bandfast, which had been held vacant in respect and memorial for her passing, was now filled. To humanity at large, there was no evidence that the woman had ever been there.
+
+She matters to me, even still.
+
+-Yeah, not because of what she is doing—which is nothing—but because of the effect she had on you while she lived.-
+
+And through me, the effect that she will have.
+
+-Exactly.-
+
+Something about that resonated within Tala, but she couldn’t put her finger on it. Alat seemed to have a moment of expectation, but it passed for both of them as Terry flickered to Tala’s shoulder and head-butted her. “Gah!”
+
+Tala almost dropped the remnants of her pie even as she batted at Terry with her other hand… which meant that she vaguely waved at him with her stump.
+
+She grimaced, shaking her head. “Don’t startle me like that, Terry.”
+
+He gave her an intense squawk, staring into her eyes.
+
+She almost missed him briefly flicker away to catch the bit of jerky that Rane tossed.
+
+After staring for another moment, he worked the meat in his beak—eyes locked on hers—before throwing his head back and quickly swallowing, then returning his gaze to hers.
+
+Tala snorted. “Stop thinking and enjoy good food, eh?”
+
+Terry bobbed his head and chirped, clearly happy that she’d immediately understood.
+
+“Fine.” She took the last bite, licking her fingers and heading back to the stand. They had time for her to get another.
+
+The kitchen-cart was closer to a small wagon, now that Tala really considered it, with the woman and her assistants actually standing within it as they moved around to make the food for the customers that regularly stopped on their way past.
+
+It was set up on the edge of a massive, clearly newer park. In the years to come, there would be forested sections, shade trees, and unless Tala misunderstood what she saw, even several places with edible landscaping prominently featured.
+
+At the moment, however, the trees were still getting established, and given the fact that it was early winter, there weren’t any flowers or fruits in evidence. True, the oldest trees were nearly twenty-five years old, but that hardly made for truly majestic trees.
+
+-No, that’s not true, take a look.- Alat highlighted a few things to Tala’s perceptions, and Tala found herself pleasantly surprised.
+
+Oh! Thank you. It seemed that some places within surrounding parks—and even a couple within the park they were beside—contained far older trees, and clearly native landscape that had been meticulously maintained through the establishment of the city.
+
+The infrequency of such spoke to how difficult maintaining the virgin landscape clearly was, but the team responsible for initial clearing and construction had obviously made an effort to keep some of the flora that had grown up since the last cycle.
+
+She wasn’t sure why, but Tala found that gratifying. Humanity was far from perfect, but they did try to do right by the world around them. That we do.
+
+The roads around the park, and going out throughout the city, were paved with a variety of methods ranging—on the mundane side—from cobblestone to poured stone, and on the magical side, they’d already seen a few places where someone with a talent for stone had fused the ground to massive, textured creations, reaching deep down. Those sections were fascinating as they incorporated pipes that meshed with other such fixtures in the ground around them as well as quite a few places where the passthroughs weren’t in use yet, but were there, ready for if and when the needs of the city changed.
+
+Additionally, they seemed to have intricately crafted expansion joints that were meshed in ways no natural—or even mundane set—stone could, ensuring continued unity without introducing the dangers of true, monolithic blocks.
+
+They were still near the outskirts of the city. The city walls in view were so new that they practically sparkled. So there were no dedicated residential buildings, and the few residence additions were attached to businesses of one kind or another. Many of those looked to be more like military barracks than true homes, as many of the current residents were there to make money and work toward a better life.
+
+The acquisition of that better life would come later.
+
+The people walking the streets were, for the most part, tough and clearly used to hard labor. Even so, essentially no one seemed to be bent by the strain. There was an energy about the entire city, a vibrancy of growth and expectation, and the average citizen seemed to revel in that.
+
+Those who were here, those who had braved the dangers of the wilds to face the dangers of a new city stood to gain so much in the coming years.
+
+As she’d already noticed, most of those present were men, and most of those were on the younger side, clearly having come largely from the demographics without established careers.
+
+Tala knew that in such new cities, many men would come to make their fortune, and only if they survived and succeeded, would they send for their families. It was a hard choice, but one that often—though not always—worked out to the benefit of the whole family, even if it came with the negative of temporary separation.
+
+Her eyes moved to Rane, wondering if they could have done that, were their circumstances different. Could she have left him and Lea and gone off to try to make a better life for them all? Could she have borne letting him go off without them?
+
+I’m lucky that we never have to find out.
+
+-Indeed. Often the most neglected blessings are the choices we never had to make.-
+
+Indeed.
+
+This wasn’t to say that there were no kids, simply not many. In the whole of the city, Alat had only found record of two schools. There were a similarly small number of women, and a disproportionately large number of those were older.
+
+What younger women there were, seemed to be treated with a courtesy bordering on reverence as many of the men were likely hopeful for a partner in this crazy venture of theirs.
+
+That definitely explained the looks Lea was getting. Tala, herself, was too obviously a Mage for such attention, not to mention Rane’s presence and his actions clearly indicating a connection with her.
+
+Regardless, in the end Tala and her family consumed no less than fifty more pies of various kinds, and by the end, the workers in the food wagon were in obvious awe.
+
+Still, that finally filled their ‘meat-pie’ hankering for the time being, and so they thanked the workers and moved off. The fact that they’d only ever ordered one pie apiece at a time meant that they hadn’t really garnered onlookers… well aside from the young men who continued to ‘onlook’ at Lea.
+
+-And you too, Tala. You may be in your thirties, but you could pass for early-twenties with ease. Even if they did move on after they realized you were a Mage… and taken.-
+
+Tala grunted, not really sure how to take that. On the other side, there were also interested looks at Rane, given his attire—mainly Force’s hilt hanging at his waist, but there were other indicators as well—made it clear that he was a Mage.
+
+Seemingly male Mages were of interest, and female Mages were to be avoided? -Or he’s a big guy and is easy to see?-
+
+Sure, I suppose.
+
+With their meat-pies consumed, the four Sappherrouses moved off, simply walking the streets of this new city.
+
+Alat and Tala took on the role of tour guide, but more in the sense of pointing out all that which couldn’t be seen with mundane eyes. They mixed descriptions with impartments of memory packets conveying what they’d seen.
+
+On the cognitive side, Enar was working with Alat to ensure that the end result would be understandable for the other three, as Tala—and by extension Alat—sometimes didn’t have the best grasp on what others’ minds could handle.
+
+Funnily enough, Lea was quite fascinated with the sewer system and water supply work that had been laid down and integrated into the city foundations. In fact, as her daughter asked more and more about it, Tala realized that she’d never really investigated that part of humanity’s infrastructure herself.
+
+True, that was hardly the only part of humanity’s utilitarian loadout that she’d never learned much about, but it was highlighted starkly in that moment.
+
+On a whim, she and Rane decided to follow Lea’s interest and track the massive plumbing network to the sources.
+
+Well, it was actually just the source of the pipes, and it was also the destination. As made sense, the sewers led to a processing area, where the water was separated from everything else, combined with other sources of water, pressurized, and piped back out to the city at large.
+
+They found a city Mage who was willing to take a few minutes with them, and he described their work as incredibly gratifying. They combined the actual use of personal magics with the creation and maintenance of a suite of magical constructs spread throughout the city and powered by the city’s grid.
+
+That was an intricate set of not-quite inscriptions. They were far odder than Tala realized was possible, but that was likely because they were not centered around a soul. The Mages in charge of forging the city had actually hammered the channels for magic into existence itself. They weren’t efficient in that form, but they were there, overlaying the precious metals now in place but not initialized as of yet.
+
+It was fascinating how such things as mundane as water and sewers were augmented, streamlined, and perfected by the ongoing efforts of Mages.
+
+Apparently, early human cities had used things called ‘water towers’ as means of effectively storing and equalizing water pressure no matter the collective usage at any given time. In contrast, with the proper application of various magics, currently entire systems were maintained at a usable, even pressure throughout the city.
+
+On the sewage side, most of what the magics did was to mitigate friction in the return pipes, removing almost all chance for blockage or slowdown.
+
+They did not pressurize that system… Lea had asked.
+
+It wasn’t something that really interested Tala, so she found her mind wandering now and again, but Lea was utterly fascinated with the minutia, so Tala didn’t mind that they took the time.
+
+Rane was better at engaging with their daughter and the city Mage, and Tala did her best to send him grateful expressions—or even just hold his hand—whenever she could, to show her gratitude for his efforts.
+
+Terry simply slept on someone’s shoulder, moving between the three Sappherrouses at irregular intervals without obviously waking.
+
+When the young Mage had to get back to work, he suddenly got incredibly nervous.
+
+Tala was momentarily confused, but when Rane led her a bit away, she understood.
+
+The Mage asked if Lea would be interested in hearing more about the city’s systems sometime, maybe over a meal.
+
+Lea listened and gently let him know that while she might be interested in the information, she was only in the city for a little while, with her parents. She indicated with her head, and that got the message through.
+
+The Mage was perceptive enough to realize that Tala and Rane were significantly more powerful than him, but he had taken a chance, given that Lea was seemingly mundane.
+
+She did not try to explain to him that she wasn’t even two years old… unlike the last time someone had tried to ask her on a date.
+
+She also hadn’t explained that as a potentially immortal existence, she wasn’t interested in leading on less long-lived individuals which she had the time before that. Rane had taken the girl aside after that one and explained the issues therein. He and Tala had then actually taken the time to give a short summation of their own relationship so that Lea could have a basis of understanding.
+
+That had, of course, led to her use of her age.
+
+Still, she was learning, and this rejection was positively kind.
+
+Even so, the young man— -Tala, he’s likely older than you are, given he’s a full Mage.-
+
+Oh… right….
+
+Even so, the Mage seemed saddened by the results. Though, he didn’t seem to let that get him down. He bowed appropriately to each of them, bid them a farewell, and said he’d be happy to answer any more questions for them if they ever cared to visit again.
+
+With that accomplished, the quartet found another park with food wagons nearby and set about eating their fill, yet again. This time it was flat bread cupped around meat and vegetables, slathered in various sauces.
+
+After dinner, Tala wanted to drop through the local Archon Compound and see if they might possibly be allowed to remain in order to observe the ignition of the city’s inscriptions.
+
+Still, it was just the first day of their visit, and they’d be in the area for at least a week.
+
+They had time.
+
+That, of course, was when they heard screaming coming from one street over.
+
+-You just couldn’t help yourself, could you.-
+
+Hush you, we need to see if we can help.

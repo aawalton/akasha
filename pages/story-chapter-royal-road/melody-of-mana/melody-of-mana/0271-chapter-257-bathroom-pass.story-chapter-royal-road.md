@@ -1,0 +1,75 @@
+---
+id: 24e18f97-11a5-591e-8978-2ab13a94396f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 257 Bathroom Pass"
+slug: 0271-chapter-257-bathroom-pass
+partOf: melody-of-mana
+position: 271
+ownLength: 1386
+unit: words
+ownProgress: 1386
+publishedAt: 2023-08-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1303753/chapter-257-bathroom-pass"
+royalRoadId: "1303753"
+markedReadAt: "2026-06-29T22:35:11.244Z"
+---
+
+The provided restroom wasn't at all clean, seeing as it hadn't been used in centuries, but it was plumbed. For a small miracle, as the mana started flowing around the section of this building again so too did the water begin. I idly wondered where it the world it was draining to, but I had other concerns.
+
+That golem was potent, made by a very skilled mage to defend his personal quarters. It was clearly holding back now, but who knew if it would continue to do so when faced with a real threat. That real threat was my men, who were absolutely going to be breaking in here at some point to disable it. We would succeed too, but I cringed at the idea of the potential losses.
+
+So it needed to go, and there were only a few ways to make it so. Ideally there would be a way to make it shutdown on its own, but I was dubious of that. Barring that we at least needed to cut off the mana supply to the golem, then we could just back off and let it drain itself. The golems underneath Lithere had managed to keep themselves going, but they were in a much denser region of mana, and this one had been on some kind of charging station or holder before we came in. That would be my first target.
+
+Before I could do any of that though, I needed to get out of this bathroom. Would the golem know to check on me if I took too long? Hard to say, constructs like that were often not very smart, and very, very locked in to what they could do. If its creator hadn't thought to put that in the programming, it wouldn't, but how much had he put in there? There was no way to know, constructs like that were the work of years of trial and error, and trying to find a hole in minutes was unlikely to succeed easily.
+
+I ran my fingers over the walls, looking for a weak spot in the wards. Care needed to be taken now, because the defenses were already up and I didn't want to attract attention. Minutes passed as I examined each wall, frowning the whole way.
+
+“Damn he was thorough,” I finally admitted, it was good work after all.
+
+As I washed the accumulated dust of my actions from my hands again I looked at the faucet. I'd not thought of that one, but there was a hole in the wall already, built and installed here. It would have been possible in theory to add a small water making spell to the faucet itself and negate the weakness, but Ristolian seemed to have been locked into old ideas on this one, and used pipes instead.
+
+A quick bit of work and I could see that the entry of this water line clearly did bypass the wards in the walls, sending a smile across my face. Disassembling the whole thing was a bit of a pain, and I had to freeze and chip away the ice inside it before I had a hole out of the warding, but it worked.
+
+Normally a small hole out into the hallway wouldn't have been particularly useful, but if I could see somewhere, I could make a portal there safely, so that was just what I did. I stepped through and waited, not knowing if or when our large metallic companion would come out into the hall, it would all depend on what kind of senses it had.
+
+A few moments and no sound of it headed my way I began to slink away from the office. The halls were still and silent as I backtracked where we'd come from through the tracks of dust on the floor.
+
+The place really was filthy, but not quite as bad as I might have feared. There wasn't much down here to rot or go bad other than the building itself so dust was limited, and there weren't any signs of insects or rodents getting in, it was more like a tomb to an ancient pharaoh, stone and quiet, undisturbed.
+
+The golem's creche was where we'd last seen it, stuck along the wall with a number of inputs for mana and signals from the building. I began to carefully, carefully examine it, though only because of the two large buttons on the side.
+
+On the side of the holder were two large red buttons, both covered by a bit of glass. The top one read, in English, “Attack” and ostensibly set the golem to a far more aggressive stance. The bottom button, separated by nearly a foot read, similarly, “Emergency Stop” which one would hope would do what it said on the tin.
+
+My concern, and the only reason I'd not already begun pressing the latter one was what I knew about the maker of this fortress. By all accounts Ristolian had enjoyed jokes, and switching his buttons to screw over an enemy would fit right in with the few stories I'd heard of him. There was also a very non-zero chance that both of them were a trap.
+
+After a sizable amount of observation of the creche I came to a conclusion. I didn't know what either would do. One or both could be traps and there was simply no way for me to discern from this object alone which would do which.
+
+“Okay, so he liked jokes and pranks, but would he do that here? The English makes it clear these were for him, or maybe Justin... Did Justin ever come here? Not important, may also work for me, or someone else who knows the language, would he mess with them with anything dangerous? Probably not, and if he put an emergency stop on these he should label it so, I would at least. Wait, maybe he liked that list of rules for evil overlords... fuck. Okay, best guess,” I mumbled to myself for minutes, but we'd run out of time eventually, and the entry of our forces would be that moment.
+
+I punched the button purporting to stop the machine, and waited. There was no instant attack on me, nor the sound of metal men approaching, looking to kill. That was good, so I slinked back to the office and knocked on the door.
+
+It took a few moments, but soon the door opened, revealing my smiling, if a bit confused looking companions.
+
+“You found a way to turn it off?” Dras asked.
+
+“Fun fact, our predecessor had the same feeling about fail-safes that the old elven king had. Probably just so he didn't have that thing lose it on him or anyone else.”
+
+“Makes sense, so are we getting out of here?” Ulanion asked.
+
+“Still haven't found the shutoff for the wards,” I explained.
+
+“How'd you escape from the bathroom anyway?” the wizard questioned as we continued down the hall.
+
+“Add a reminder to check for plumbing being warded into our system,” I replied by way of response.
+
+After a quick, and very unproductive search of the office we made our way to the largest and most heavily fortified door on the hall and began picking apart protections. If there was going to be a way to turn the protections off, or cut off their power, it would be in there.
+
+Dras and I were both experts when it came to things like this, and the doors protections were already beginning to fail. The building wards were too, having not been maintained as they should, but enough still worked to be an issue. This door however we could force, even if it took time. It wasn't like we were doing anything else until we figured it out or got help.
+
+An hour of work later Dras began ripping the whole thing out. Even without the magic in it it was still a formidable physical defense. That too fell before us, both smiling as our years of work paid off. The sight that graced us beyond made me freeze.
+
+“Is it me, or is that thing...” Ulanion let the end fall as he stood near.
+
+“That is eerily familiar,” my old friend said, looking upon it.
+
+“And it's certainly doing more than just making light,” I added.

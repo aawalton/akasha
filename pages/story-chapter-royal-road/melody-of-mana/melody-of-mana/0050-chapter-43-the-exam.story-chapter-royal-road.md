@@ -1,0 +1,111 @@
+---
+id: 1a0d9181-064d-5e21-8ede-3d96cf999d9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 The Exam"
+slug: 0050-chapter-43-the-exam
+partOf: melody-of-mana
+position: 50
+ownLength: 2278
+unit: words
+ownProgress: 2278
+publishedAt: 2021-09-10
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/748299/chapter-43-the-exam"
+royalRoadId: "748299"
+markedReadAt: "2026-06-29T22:27:55.416Z"
+---
+
+I spent more and more time working on studies with Dras as the day approached for his exams. I was assured that he was going to ace the math and reading parts at least if the study book we bought was good. It was all we had at any rate, but he knew it back to front, as did I. I still remembered a bit of trig from my past life, I'd even run a few of them myself to keep my skills up. Sharing those seemed to go against Mystien's advice of not adding new/unknown knowledge though, so I held off for now.
+
+The night before he wanted to come and go over everything one more time, but after a very quick review I told him to go rest. He knew everything he needed to, and trying to force any more would just make him tired for his exam. He briefly argued, but eventually he did head to go sleep. I kept our study guide to discourage any late night work on his part.
+
+Dras and I would be traveling separately. His parents were going to come to watch and cheer him on, and my issues with his mother did not need any further prodding. It also meant that I could sleep in a bit, since there really was nothing I could do for the written part. I was planning to come to the practical though, to cheer him on from the stands.
+
+I put on one of my nicer outfits, the one Dras had paid for, and headed out to The Academy. There was far less wandering around as I'd been there once before, and finding the testing area was rather straightforward. I could see the line of people headed for the entrance, those dressed as nobles skipped the line naturally and went straight to the front. I wondered if they were here to watch their children, or perhaps for some other reason.
+
+“Why hello there young lady.” A voice interrupted me as I came up to the entrance.
+
+I turned to see a man who was vaguely familiar. He was lanky and tall, somewhere in his mid or late twenties. His pitch black hair was falling straight to his ears and he had a pair of spider-like hands woven in a scholar's cradle in front of him. Even his robes were a bit unusual, nicer than what Dras normally wore, and in a deep, almost black purple. I gave him a once over and tried to place him, but couldn't quite. He stood beside the entrance with an amused expression.
+
+“You're the girl who came with your friend a couple of years ago are you not?”
+
+“I... you remember that?” I finally remembered who he was. This was the same man who'd led us to the study guide.
+
+“My dear, it is not often that we get people seeking to watch the practical who aren't family of the tested. Even more rare that they should be here to examine our examinations. I suppose the lad who was with you is taking his test today?”
+
+“He is,” I nodded, “I've come to cheer him on.”
+
+“How kind, do you think he'll pass? He looked a bit confused when I explained what was needed.”
+
+“His math and reading have improved greatly over the past two years. I've no worries about that at all.”
+
+“I hope he does. I suppose you'll be joining him in a year or two?”
+
+“Two, and I think I will. I've learned most of the basics so far, at least as far as I can tell.”
+
+“You seem sure, would you consent to showing me one of your spells? I'm always eager to see what those from outside formal institutions come up with. It's rather more original than some of the rote things nobles learn, at least sometimes. Some people come up only with truly bland magic.”
+
+I thought for a few moments on what I might show him. Eventually I settled on the spell I had come up with for the competition with Dras. I sang a few notes and it was like a bell jar had fallen over us, locking out all sound from outside.
+
+“This is something I came up with for a competition with my friend.”
+
+“Oh-ho, a dome of privacy. Not bad, and it doesn't just muffle or distort, but complete negation. Is it both ways?”
+
+“It should be, but I've never actually stood outside and tried to listen or anything.”
+
+“Did you win?”
+
+“I did.”
+
+“Well, I'll have to look forward to seeing what else you've come up with when you do join us. For now though, you'd best hurry along. Wouldn't want to miss your companion's examination now would you?”
+
+At his urging I hurried off, it turned out that the dome did block sound both ways. I saw him laughing from the inside before I cut the spell. I'd made quite the mistake not figuring that out before, and was quite glad he'd pointed out my oversight.
+
+My spot today was quite a bit closer than the last time I'd been here. I saw Dras' mother, and who I assumed was his father, they were just behind the nobles watching the students being led out. As they came into the arena like area I saw Dras scan the crowd, his parents waving to him first. I gave him a happy wave too as he moved his eyes past my spot, and saw his smile in return before they began.
+
+I watched on as Dras demonstrated first what I guessed was his muffling spell, followed by a lot of fire magic. Other than a light spell everything seemed to be fire actually, and not even a large variety of it. He showed his fire ribbon, but while it was powerful, it was his go-to. I realized our mistake too late, we had drilled over and over on the bookwork, but his variety of magic was lacking. His exam was over soon, too soon. He just ran out of things he could show to the proctor.
+
+He was at least not the first to be led out of the arena, but decidedly not far up that list. As I sat in the stands I buried my face in my hands, cursing that we had not covered at least a few basic elements for his spells. I saw his parents get up and head to the exit, they looked so excited. I could only hope that he'd managed to scrape by with a pass.
+
+Dras did not come by that evening, and I didn't see him for a full day. When he did he looked broken, coming in and slumping down in a booth.
+
+“How bad?” I asked.
+
+“Failed by a sliver. I aced the written, but when I got to the practical they said I just didn't have it, not enough control, not enough finesse, not enough variety. Guess I'll just take up a job like I have, it's no big deal.”
+
+“It is, and what you're going to do is go in next year and pass.”
+
+“No, didn't you hear me? I'm just not...”
+
+“Quiet. We spent all of our time focusing on the written portion. That's my fault, I should have known you'd need to work more on your practicals. You're in luck though, I need to too, so we can do that together. What we'll do is get you hitting several different elements, then combining them into some really cool stuff. By next year, you'll be so strong they'll not even recognize you.”
+
+“Did you not hear me!?” He almost stood up before I brought a fist down on his head.
+
+“I did, you're the one who's not listening. I'm going to make you a little magical monster. We'll do reviews and I'll help you come up with new spells, and Dras,” I leaned forward as he kept rubbing his skull, “don't you ever even pretend to give up that easily again.”
+
+Lucien was at the bar, and had apparently heard enough to send him laughing as I took the boy by the scruff of his neck and pulled him out the exit into our back alley. A not quite so easy feat as he seemed to be gaining height by the day.
+
+I raised my voice as we made out exit and stood there in the empty street. “Alright quitter, listen up. Your new training starts today, first is water. My first teacher was an expert in water and I know enough to get you started. What water type spells do you know?”
+
+“Er... none.”
+
+“Basics it is then. First water starts in the shape of a triangle,” I drew one like Mystien had used in the dirt, “this symbol. Focus on it as you try to summon some.”
+
+It took him a few minutes as I walked him through the basic summoning of the easiest liquid. His spell was much like mine, in that he had not imparted any force into it. The water just fell to the stones.
+
+“Good, now, try to make a stream and give it direction.” I demonstrated, though for me it was kinda like a weak water pistol, even then it was horridly mana inefficient. Being a bard had it's limits. Dras on the other hand was able to quickly get it into something like a rather powerful hose, though he ran out of mana shortly thereafter.
+
+We continued like that until it was too dark to see. I'd push him to try and make a stronger and stronger water cannon until he ran out of mana, then while we waited for some to come back I ran him through basic math and grammar. Progress was slow, as it always was with new magic, but by the end of the day he could at least make something.
+
+We spent weeks working on that alone. He complained that his water stream was strong enough only for me to counter that he needed to bring the cost of it down through practice. I was practicing fire magic as he did so. It wasn't something I'd bothered much with before, but I figured if I was going to drag him into learning water I could at least set a good example by learning some of what he did. It was a bit pathetic when compared to his, but that was sort of the way of things. I knew my magic would never be stronger in some areas, but learning how to do fire would at least be useful.
+
+After about a month we each had something that was, if not very good in comparison to what we knew before, at least workable. I could make small fires, and he could make something just short of a fire hose, easily able to power wash the alley clean, something Lucien was thankful for and amused by. There were a few issues, both of us had to work, and that meant that practice time was limited. We also didn't often start with our full mana and quickly ran out, but it was unavoidable, so there was no point complaining.
+
+It was starting to get colder, and I thought now was a good time to teach Dras about ice. This was one I'd learned years ago, and while there wasn't much use for it in winter, having ice all around us seemed to me a good way to have ready examples. I explained that ice came in hexagons, something Mystien was surprised I'd known, and we set off. I was still working on getting fire and moving water down as Dras struggled his way thorough making the cold stuff. He outshone me in all of these things, in speed and force wizard magic was just better. We set up a target so that he could hurl chunks of ice and streams of snow at something.
+
+I'd been using ice to keep food for longer since working at The Sky. It was one of my occasional, and helpful uses of magic. It was also something that everyone understood already. Larger estates and businesses had an ice room, normally in the basement. The Sky had a very small one for meats and cheeses, surrounded by a wall in the basement.
+
+While Dras was learning ice, and hammering out some of the roughness of water I worked on illusions. I could now make a few objects move believably so long as I kept them rather simple. Furniture that moved on it's own or walls that did the same were a go to for me. I felt like I still had a ways to go before I could make something that looked like a person, but I was making progress. Dras for his part had no head for the subtlety involved, and didn't bother with those after a few rather poor attempts.
+
+We each practiced together on our chosen magics until spring came and we felt that we'd gotten close enough for us to move on to something else. Dras suggested we move on far more quickly than I'd like, but nodded when I told him about Mystien's insistence on hammering fundamentals before learning too many different things.
+
+I was glad as we worked. It took a bit at first but I saw my friend brighten and rekindle his hope, letting it grow into a blaze like it had before his first attempt at the exam. I was sure of it, his next time he would pass both written and practical. If they failed him after what he was learning now, it was them that had the problem.

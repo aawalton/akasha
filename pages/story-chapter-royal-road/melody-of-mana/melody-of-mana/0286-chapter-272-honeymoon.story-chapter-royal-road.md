@@ -1,0 +1,103 @@
+---
+id: 6d302864-832d-5841-bce1-983cece74964
+page-type-slug: story-chapter-royal-road
+title: "Chapter 272 Honeymoon"
+slug: 0286-chapter-272-honeymoon
+partOf: melody-of-mana
+position: 286
+ownLength: 1588
+unit: words
+ownProgress: 1588
+publishedAt: 2023-09-30
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1359066/chapter-272-honeymoon"
+royalRoadId: "1359066"
+markedReadAt: "2026-06-29T22:35:42.568Z"
+---
+
+I stumbled to the washroom, taking each and every step gingerly. Behind me my husband still lay in bed, soft snores coming from where he lay. We were going to have to have a talk at some point. He'd been a bit overexcited and while he might be inhumanly durable, I wasn't.
+
+The large mirror in the side of the room showed a myriad of things. All along my hips, thighs and backside, even going up to my stomach were bruises. Yellow and purpling marks in the shape of fingerprints and large hands clung to me like some sort of odd body paint. While it hadn't been unpleasant at the time, it certainly was now, and something I was going to deal with promptly, along with other more private sorenesses.
+
+The tub was powered by magical items, which both created and controlled temperature of the water inside. There were a number of features, mostly prototypes, that were built in, and those primarily around the small issues I'd found in Ristolian's own warding network, there would be no easy exit entry into this place because of some small hole in the wall for water.
+
+I hummed a quick healing tune as I stepped in and sank into the water. It was the perfect temperature, with small bursts of heat whenever the water got even a little bit too cold. Those were one off my favorite additions to my personal tub, and I was thinking about releasing parts of the design to the public already.
+
+While I soaked I thought about the future, there were so many things to release, so many small household items that we could just make standardized if we wanted. Sure, there weren't all that many mages, but for those who were having to design everything from the ground up was a pain. Maybe a book of sequences was in order, basic designs for myriad items. Might even be fun to publish.
+
+There was also magic, and so many more places I could go. Growing plants was one that I liked, but seemed rather inefficient for me. They were slow, and sort of limited compared to what a priest could do, at least in my view.
+
+Just thinking of priest magic pinged in my mind. There was something I'd been neglecting, making the mistake of thinking I had time. Sure, I might have some time, but we were all on a clock. Well, unless you were a pure-blooded elf or powerful priest, but maybe we could change that.
+
+I needed to get to work on extending my own life, and perhaps that of others. Where to start though, could I work on mice like I had for other things or would I need to start with myself? I let my fingers flick in the water lightly as I tried to come up with ideas for visualization on that one, frowning the whole time.
+
+“Good morning,” said a voice from the door.
+
+“Mmm, and you,” I replied as Ulanion joined me, slipping into the water and close.
+
+For the longest time we just laid there, soaking, something I had no objections to at all.
+
+“Do we have anything pressing to do?” asked my husband.
+
+“I don't, and I told everyone I was taking a week off bar any emergencies. Didn't you do the same?”
+
+“Of course, but I thought you might want to to go Lithere or something, get away from the fortress.”
+
+That was a point. While there wasn't much in the way of tourism in this world there were a few places we technically could go. Some, like the hot springs retreat were even pretty nice, but mostly because of their services, once you'd seen them and experienced what they had it was less enticing, particularly if you could do it yourself.
+
+“Eh, maybe a visit or two, but I like it here, and I've got some things I want to try out,” I replied.
+
+“Oh really?” he said with a smirk, turning so we were face to face and pulling me close. “And here I worried I might be the only one.”
+
+“On that note,” I added, splashing his face with a handful of water.
+
+“Ah, what's that about?” He looked genuinely confused at being rebuffed.
+
+“Me having to heal myself this morning. You need to remember that I'm not made of iron.”
+
+I watched his face fall quickly in regret, an excellent response. “I didn't realize at all, why didn't you tell me? You know I'd have stopped.”
+
+“I was a bit busy at the time,” I answered, blushing a bit, really neither of us had thought of it, but it was a concern.
+
+That got me a laugh. “Well then, I'll be careful to be more gentle.”
+
+“Don't tell me,” I said, wrapping him up in arms and legs, “Show me.”
+
+He proceeded to do exactly that, in a manner that left me with no complaints at all.
+
+We spent most of the next several days lazing around our quarters and various workshops. I carefully avoided all 'work' but there was always more research to read. There were a few notes from people doing truly interesting things with mosses at the Academy, and I began to write down some of the basic designs I would use for household magic. At least when I wasn't spending time with Ulanion.
+
+He of course took breaks to do things like draw and write poems, one of the things I found quite enduring about him. He could rip a monster in two, then go home and sketch out pictures of flowers or compose a love sonnet without missing a beat.
+
+Eventually though restlessness set in and we headed to Lithere, a quick change of clothes and hat to hide Ulanion's ears and we slipped out into the lower city. I didn't care much for the richer districts, and instead wanted to go and see some old friends.
+
+Ulanion and I walked hand in hand as we strode through the back-roads and alleys that I'd spent much of my youth using. Me looking at the changes all around as I went, for there were so many. The roads were clean and far better maintained, with clear effort on someone's part to fix anything that reared its head. The buildings too were in better condition, more vibrant, more alive.
+
+I watched as couple after couple passed, and while many displayed the short stature of someone who'd not eaten too well in their childhood there were no thin cheeks, no sad eyes of refugees. The people looked like they had hope, hope for the future and what was to come.
+
+The Starlit Sky stood where it always had, and while a few of the changes to back streets had thrown me, we found it without too much trouble. There were some small signs of renovation, fresh plaster, newer signs, but the bulk of it remained as it had been. Inside there was still a hustle and bustle, but the chatter soon faded.
+
+The ceiling was an illusion today, of gently swirling stars, with a huge moon adding to the light in the tavern. Its source was obvious, the old, old bard sitting in a corner, feet propped up and mug at his side. I waited until his current number finished, the fingers on the strings of his lute stopping as the song ended, before I approached.
+
+“Mind if we join you?” I asked Lucien, slipping into a seat before he could answer.
+
+“Well, well, well, look who's here. If you're wondering, no, we don't have any rooms for rent,” he said with a smile.
+
+“All full up? It's not even winter old man,” I replied.
+
+“Maybe not, but we are, all the traders coming into the city like places to stay.”
+
+“For someone whose business is booming you sure seem relaxed,” I pointed out as I leaned on the table, doing a double take as I looked at his cup. “Are you drinking tea!?”
+
+“Two things, no, three. One, I handed over all the day-to-day operations to the lad awhile back, two, I'll drink whatever I please, and three, had to lessen the ale. I got sick awhile back and the priest who fixed me up told me in no uncertain terms that if I kept drinking like I was I'd be in my grave soon. Heck of a time cutting back though, that itself nearly killed me.” He leaned back and began strumming again, but much softer this time.
+
+“All the operations? So, what do you do now?” I pried.
+
+“Sit here, drink, and play music. Well, still do some magical item charging and the like, but not much else than that. Pretty good retirement honestly. Oh, and your wedding was beautiful by the way.”
+
+“Thank you, it's good to see you again.”
+
+“You too, by the way, what's the chances of me getting one of those gates to somewhere I can put another location, like a outdoor bar on a mountain somewhere?” he asked with a grin.
+
+“Zero I'm sad to say, though that would be some attraction wouldn't it?”
+
+“Well, if you're sticking around and taking up space in my chairs, why don't we see if we can bring a little bit of that skyline here?” he requested, eyebrows moving as he set the challenge for an illusion. One of his hands went up briefly, signaling a waitress to bring us drinks before he started the lute up again, in a song we both knew well.

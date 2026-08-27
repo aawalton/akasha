@@ -1,0 +1,269 @@
+---
+id: 1d930a8d-4e1f-5435-b5c5-18372bb4ee20
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 738 - The Reality of Clean-up"
+slug: 0249-chapter-738-the-reality-of-clean-up
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 249
+ownLength: 3011
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3812583/chapter-738-the-reality-of-clean-up"
+royalRoadId: "3812583"
+---
+
+Tala had never done anything like this before.
+
+Sure, she’d scooped up a bit of reality’s influence and driven it into her iron, a part of herself, but to command ‘free’ iron to somehow link up with something that was more than a concept, but somehow a non-existent reality?
+
+Well, I have to try.
+
+She considered exactly what she was trying to do, barely noticing as Alat fed her reviewed, collated, and perfected summaries of the House of Iron’s research notes on reality iron. She needed the iron to all but draw in the reality of what was around it… She also needed to spread the iron around through the inspected area, but that would be easy enough.
+
+So, once the iron was dispersed through the crystalized reality, she needed to draw the two together. Huh… Framed like that…
+
+That would actually be rather simple.
+
+In reality, iron liked to bond with other things. It’s one reason that pure iron rusted. It was an excellent ingredient in many alchemical products because of this, especially given how well it reflected magic, which could be harnessed even for directly magical concoctions.
+
+Regardless, iron was perfect for connecting with other things, at least when it wasn’t otherwise bound.
+
+She smiled, then leaned into her ending magics, washing through the iron detritus that had been presented to her by those under her command and rendering it all down to fine iron powder.
+
+It instantly began to fight her, but not on a magical or authoritative level.
+
+No.
+
+The reality of the iron—now separated and broken down as far as it could be while remaining iron—didn’t seem to want to stay as such. That’s a bit more effective than I expected…
+
+She had to move fast.
+
+Clear the area, Alat! She could have shouted, but a shout would likely have drawn people closer rather than driven them away. Alat would handle it better.
+
+-Rust you, Tala. You couldn’t have waited until after we cleared people away?-
+
+Didn’t know it would happen like this.
+
+She moved the iron dust as easily as her own hands by dint of authority. As it was mundane iron, moved without magic, there was nothing for the crystalized reality to oppose, allowing Tala to spread the literal tons of material back through the path that she’d carved and unintentionally seeded with this insidious threat.
+
+She liberally coated herself as well, along with everything within the area.
+
+-Archons are on standby to contain the fallout, but estimations are still not great.-
+
+Tala grunted, too much focus required for her to easily respond.
+
+The Mage that was frozen at the edge of the affected area was already dead, even if her body didn’t know it.
+
+Tala could see that the woman’s soul was gone, her gate closed and severed from her body by the reality splinters filling her.
+
+It was sad, but her loved ones wouldn’t have a body, at least not if this went as Tala suspected it would.
+
+She took a deep breath, exhaled, then inhaled, purposely drawing in aerosolized iron before she gave the mental instruction to the iron she was commanding.
+
+Bind.
+
+At the very same time, her will and authority pressed on all else within the area with a second command.
+
+Be bound.
+
+The thoughts were mostly a tool for her own authority and will to unify and act toward the purpose, but regardless, it keyed off a conflagration.
+
+…Though, much of that might have been simply due to her removing the restrictions holding back the natural reaction of the powdered iron.
+
+There was no staggered series of concussions, no string of detonations. Instead, there was a unified whoomp, and everything went up in heat and dissolution.
+
+Tala was scoured, exothermic reactions raging through every void and division that the crystalized reality had sought and tried to latch into.
+
+She exhaled, driving the burning splinters out along with flame and binding iron.
+
+Her ending magics of dissolution and cohesion were interwoven throughout the entire iron cloud, and in that frozen moment of total obliteration and creation, she had a funny thought.
+
+Magic really is the instrument of change. It separates and joins together, shifting the void before its whims. It alters how matter behaves, and creates lasting change to reality. Even so, that’s all that it is. Anything ‘made’ of magic was just a constantly reinforced change.
+
+Magic wasn’t real.
+
+She chuckled, even as too-golden flames churned and consumed everything around her and throughout the infected region.
+
+Magic was void of reality, and yet in reality, magic was void.
+
+Her chuckles became a full throated laugh as she dismissed her armor as it was burned clean to let her body be purified more easily in the ethereal flames.
+
+Around her, magic from dozens of sources reflected heat, light, and material back inward from the conflagration, creating a churning mass of utter obliteration.
+
+And through it, walked Tala, unscathed, her existence unbothered.
+
+Even so, she still felt a tickle in her sinuses. As such, she leaned to the side and violently blew out one nostril, then the other.
+
+-Gross.-
+
+Necessary. And she was right. She effectively ejected a cloud of reality powder and splinters from each side, committing it all to the inferno.
+
+Magic rolled in, pushing mundane air before it as it helped to compact the rust-red clouds down and inward even as they continued to glow and roil with golden flame.
+
+Tala’s will, aura, and authority pressed inward, making sure to scoop up every fragment of iron and crystalized reality as the borders moved in.
+
+She was fully purged and outside the cloud very near the start of the process, as she’d been quite close to one edge. When the clouds had been pulled away from her, she’d remade her clothing—maintaining decency as an afterthought and equally subconsciously sending a pulse of gratitude toward the part of her that was built upon the foundation and format of the long-integrated immortal elk leathers.
+
+Rane was at her side an instant after she was free, but he could obviously feel the power radiating off of her and clearly see her level of concentration, so he wisely stayed silent, simply becoming a comforting presence beside her.
+
+Together, they walked back toward the wall, pushing the roiling iron, much of the dust practically molten with heat, even if that heat was being contained and the the outward portions mitigated by more than a dozen Archons, all working at Alat’s direction while Tala focused.
+
+They were about halfway through the task when Terry appeared, adding his presence and weight to her actions through direct proximity.
+
+With their backing—aided by the fact that she had just ended a lot of reality splinters and crystal—Tala was able to let Flow fade, the ending blade magics within the weapon coming apart as well.
+
+Her mind jolted at the loss of that large influence, and Tala staggered slightly, finding Rane there in an instant, stabilizing her without coddling or attempting to hold her in place.
+
+She smiled up at him, the connection with him one of the few things of import in her current state.
+
+Terry, for his part, flickered to her shoulder and nuzzled in, clearly happy to be back at her side.
+
+Her soulbond with him was far more one directional in that it was her soul that held onto his spirit, and while he gave as much as she through that bond, it was less supportive than the two-directional soul connection that she had with Rane.
+
+Regardless, both were beyond invaluable at that moment, anchoring her to that moment.
+
+Her focus was kept on task in large part by the final thing that still helped her focus through the odd dissonance brought on by the existence shield. The net of authority, each strand coming from an individual in the near-area who fell under that authority, aligned with that purpose.
+
+Since she was currently directly opposing an attempted action of the Black Legion, that practically sang with power.
+
+Eskau of War, cleaning up the battlefield after victory. A smile tugged at her lips at the thought.
+
+It was a lovely feedback loop. Using her power to work against the Black Legion was acting in alignment with the majority of her authority, and as such, doing so increased the potency of her authority and power—even if not the quantity—which she fed into her actions and so on.
+
+“You really cut a swathe through this sector, didn’t you?” Rane muttered, drawing Tala’s attention to some more disparate details.
+
+All around them as they walked, automata lay bent, broken, shattered, and otherwise obliterated. Now, they were also scoured by the passing conflagration.
+
+In all honesty, she had no memory of killing them as she pursued the senior commander… well, except the singular juggernaut captain amalgamation.
+
+“I… I’m not sure I’m the one who did this.” Her tone was flat, emotionless.
+
+Alat projected her own voice out into the world. “-You did. You also can drop the existence working, Tala. I could cut it, but that hasn’t landed well in the past.-”
+
+Tala hesitated. As she was? She liked the neutral feeling, the lack of horror at the destruction that had been wrought.
+
+She knew that many had died in the defense, mostly before she arrived, but there had definitely been casualties after, including some deaths even then.
+
+Wouldn’t it be better to remain armored, to remain stoic in the face of that?
+
+Alat didn’t interject, but she didn’t need to.
+
+Tala was able to wield her logical mind through the memories of the truth. No. To be human is to feel, and if I block the emotions, I will be making myself more like them each time I do.
+
+Her very being rebelled against that idea, her authority swelling alongside that innate revulsion, and she used that swelling as impetus to release the existence shield.
+
+It was just dispersing as Lea arrived from a different portion of the fight, and Tala’s expanded perception picked up something… interesting.
+
+Even though she could see how magic, reality, and void were in everything, she rarely saw it in those terms.
+
+In that moment, however, she did.
+
+Lea’s head—the location of her soul, her gate—positively blazed with magical power, the gate of a Refined not an inconsiderable thing. Even so, it seemed to be giving off more power than Tala would have expected for a Refined of her age and lack of forceful expansion.
+
+At the same time, that soul was somehow flowing with reality all its own. That was the only way that Tala could describe it. Lea was, and her soul ‘wanted’ all of Zeme to know it. It was almost as if the soul were declaring to existence, ‘I am real. I am here.’
+
+And riding between the two—not as its own thing, but as a matter of course—was a division. Void in its purest form.
+
+As Tala stepped from a state of nearly supreme existence, she was confronted with an unmistakable fact:
+
+She’d been faking it.
+
+A powerful enough Archon could superheat the ground—rock, soil, and everything else—to the point that it would mimic an erupting volcano, creating all the side-effects and results.
+
+Rust, a Reforged could probably make one that outshone the real thing.
+
+But that was still an important fact.
+
+It wasn’t the thing itself.
+
+It was an imitation, requiring magic, monitoring, and constant input to keep up the facade.
+
+Tala was that created volcano. Lea was the real thing, and Tala had never seen her daughter’s nature as a true existence soul more clearly.
+
+Two powerful bonds suddenly braced up Tala’s soul as it threatened to collapse into despondency.
+
+She was an actor in a play, racking her prop weaponry only to see a real sword in the hand of another.
+
+She was a wild dog, getting her first glimpse of a wolf.
+
+She was a rain puddle, somehow understanding the existence of the sea.
+
+In that same moment, everything that had been pushed away—all the connections, all the sensations, all the roiling emotions—came crashing down upon her, reminding her of what she actually was.
+
+It roared through her in a wave, the feeling of being an imposter, a fake, a pale sketch in reality.
+
+The existential truth rocked her to her very core.
+
+She didn’t break down and weep. In all honesty, she barely physically reacted at all, but Terry and Rane felt it. They knew, and they were there.
+
+Terry’s spirit pressed close, her connection to him a pylon into bedrock.
+
+Rane was stalwart; a neighboring building, sharing a wall and bracing her up in the moment of weakness as she trembled all the way down to her foundations.
+
+Alat took over the compression and sweeping of the molten clouds for the moment, allowing Tala to disconnect physically, as counter intuitive as that might seem.
+
+The result was a moment’s true peace, and in that moment, Tala just was, and that was enough.
+
+Her very soul leaned into Rane’s in a way that was impossible physically. Sure, his hand was on her shoulder, but that was hardly a lot of contact. Even so, there was a momentary deepening of their connection, an intimacy garnered from the support he was giving her, and the fact that he wasn’t trying to make her talk or solve things.
+
+He was just there, with her.
+
+Terry, on her shoulder was a warm vibration, a stalwart bonfire against the frigid realities trying to invade her from without. The moment passed, and she let out a long breath even as Alat guided her steps forward.
+
+“Thank you, one and all.”
+
+And that was all the time she had. Lea ran up to her. “Mom! Mom, are you okay?”
+
+Tala smiled, straightening off of Rane’s support and stepping forward to embrace her daughter. “Yes, sweet. I’m glad you’re safe too.”
+
+Lea returned the hug, chuckling. “Talax wouldn’t let anything really threatening get close to me.” Something flickered in her eyes, and she frowned. “But it was still a close thing.
+
+Tala frowned in turn. “Where is the boy?”
+
+Lea sighed. “He lost an arm, pushed me out of the way of some odd, thrown weapon, a big saw-blade type thing with counter-rotating blades. A juggernaut threw it.”
+
+Rane’s eyebrows went up. “I saw a couple of those. Nasty weapons.”
+
+Tala flicked her attention into Ironhold and sighed. “He’s getting the limb regrown.” A chuckle left her lips. “Kedva’s less than pleased, but she seems more irate at him than anything.”
+
+Lea grinned. “Yeah, she thinks he shouldn’t be on the front lines.” A light of knowledge sparked in her eyes, and her smile changed just a bit. “But that’s where I fight so…” She shrugged. “I doubt she’ll convince him to move to the back-lines, and he definitely won’t convince me.”
+
+Rane pulled back slightly, giving his daughter a searching look.
+
+Tala sighed. “So, you two are…”
+
+Lea shook her head, flushing. “Nothing official, no, but…” Her small smile returned. “But maybe…”
+
+Rane sighed. “This is more stressful than that battle…”
+
+Lea left the hug and swatted at her father. “Stop it, dad. Things are fine.”
+
+He rolled his eyes. “Famous final words before disaster.”
+
+Tala cleared her throat. “As much fun as this topic is, I need to keep moving forward.”
+
+Lea turned and looked at the remaining red clouds. “Yeah, I was going to ask after that. What is it?”
+
+“A crazy solution to an insane problem.” Tala stepped around Lea, giving her a little tap to indicate she wanted her to follow along. “Let me complete the solution, and then we can figure out what comes next.”
+
+Even though Rane and Lea fell into silence—and Terry was simply comfortably settled on her shoulder—they stayed with her, offering comfort and support.
+
+It took nearly half an hour more to progress back to where her path had started, driving and compacting the roiling, glowing cloud the whole way, leaving absolutely none of the almost-living, crystalized reality in their wake. This was only possible because—thankfully—some mix of the iron, the highly reactive state Tala had placed it in, her will, and her authoritative power did indeed allow for the crystalized reality to be swept up and absorbed, contained and rendered… if not inert, no longer able to grow outward.
+
+Tala began to have trouble compacting and unifying what remained with will and authority alone when what remained was the size of a large house.
+
+As such, she conceptualized what she was working with and began layering on gravity magics, altering the coefficient of gravity of the substance to itself, compacting it further and further just as she did with the siege orbs.
+
+That utterly failed, because of course it did. She was dealing with reality and iron… She frowned at that. Reality iron can be affected by magic, though…
+
+So, it wasn’t quite fully combined yet? That was… interesting.
+
+Still, she had the template from her magic, and was able to form her will and authority into the working in place of magical power, and that took effect, even if far slower.
+
+As she’d started with quite a lot of iron, she did the compaction in distinct chunks, working with Alat to enact the two dozen workings at once, keeping them distinct even as she ramped up the power.
+
+That took another hour, but when she was done, twenty-four blood red spheres smoldered on the ground, perfectly smooth, but seeming to contain roiling clouds of auric intensity.
+
+As they looked down at the results of their work, surrounded by a ring of Archons—who’d each helped keep the substance or reaction contained since the beginning of the process—Mistress Holly walked up. “Mistress Tala, you are needed in the healer’s tent.”
+
+That drew Tala’s attention, but the Inscriptionist’s countenance was such that Tala did not delay. Instead, she willed the spheres into a new small space for later study, bowed in thanks to those who had aided her, and turned to follow the older woman. “Of course, Mistress Holly. Lead the way.”

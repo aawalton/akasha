@@ -1,0 +1,105 @@
+---
+id: 38eb9bf1-6d38-5433-ac7a-4d75b409a2d7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130 The Chase"
+slug: 0143-chapter-130-the-chase
+partOf: melody-of-mana
+position: 143
+ownLength: 2101
+unit: words
+ownProgress: 2101
+publishedAt: 2022-05-04
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/900066/chapter-130-the-chase"
+royalRoadId: "900066"
+markedReadAt: "2026-06-29T22:30:47.296Z"
+---
+
+After a few more dances I met up with my brother to the side of the room, he too was taking a bit of a breather. We stood by one of the tables and he looked on all of the various arrangements. Before picking up one of the flowers laid around.
+
+"These are great. They tell me the queen herself did a lot of work making original flowers for the event. Look at this one, have you ever seen one like it?" He twisted the little plant in his hand, looking closely.
+
+"That is a goldenrod John, it's not one of hers, but they are pretty, yes."
+
+"Oh, well, learn something new every day."
+
+"Now now John, the young lady there obviously has an escort already. Don't go bothering her about the chase." Another guy, ostensibly one of his friends, said as he came to join us. "Pleased to meet you, I'm Alowen, John and I go way back, so try not to mind him," he said, greeting me properly now.
+
+"Oh, we do too. I've known John for so long it seems like my whole life." I tried not to laugh at the guy, as he joined us.
+
+"And yet you never introduced us?" He turned towards my brother, looking scandalized. "I can't believe you'd keep such beauties to yourself my friend."
+
+"... you mean my sister?" He asked as he looked at the newcomer. "Why in the world would I want you anywhere around her?"
+
+I laughed and excused myself as they started arguing. I was still quite amused when a few moments later women seemed to be subtly disappearing from the party. As this was going on Veska pulled me to the side. We made our way, with several other women, mostly young to a side door.
+
+"Okay, the rules are... get back to your room before you get caught." Veska explained, like that covered everything.
+
+"Who's chasing me?"
+
+"Your escort of course."
+
+"And if I get caught?" Several of those present were already bolting as they made their way out the doors.
+
+"That is the question isn't it, now, time to go." She started taking off her shoes as she moved to the door, a good idea which I followed.
+
+It took only a few seconds to understand. It was a game of catch, undoubtedly, and one invented by horny people. I could imagine now what all the girls and their boyfriends would be doing after their little run. It wasn't hard to think that this was just another one of those kinds of things.
+
+"What if I don't want to run?" I asked, hoping there was an opt out for this wedding tradition.
+
+"... my, my, then you'd just be easy to catch, no?" The way she said it implied that I would both be spoiling the fun for everyone, and viewed as wanting to be caught.
+
+There was a loud noise behind me as I bolted from the doors. It took only a second to sing myself invisible and silent as I made my way out into the night. I don't know who had thought to head most of the courtyard, but as I began my flight across it I was grateful for it, trying to do this in the snow would be a disaster.
+
+The courtyard wasn't too big, but it was sizable enough for this, and as I went I could see a number of girls here and there going to hide in the various bushes, walls, slipping into doors along the side, that was an idea, I could probably set up an illusion of a bush or something and just...
+
+I nearly fell as it struck me who I'd picked as my escort. I knew of precisely one person who could see my illusions, see through my invisibility, pierce all the many defenses that I normally set up. I could feel myself speed up as I realized the person after me was probably the best person in the whole kingdom to try and catch me.
+
+Wait, if I realized this, then certainly my father had, and Mystien, and... Did they think I'd known about this? Did they think that me inviting him was some form of flirting? Did he know? Shit, shit, shit, I needed out of here as fast as I could go.
+
+As I made it to the door to our section of the fortress I heard a horn from behind me and saw a cascade of guys pouring out of the hall entry. Each quickly pouncing forward to chase after their target in one giant game of catch. I caught a glimpse of my brother as I threw the door open, he was flying across the courtyard, I had little doubt that he'd end up catching his quarry, but I had my own issues. I didn't see Charles, but then again I wasn't going to stop and look, because if I could see him, he'd definitely see me, and rather made my way along.
+
+It occurred to me that this was supposed to be a fun game. Had I known about it, and just picked someone who had zero chance of catching me, or even better, someone I was into, then I'd be having a grand time right now. As it stood, I had none of those little insights and so instead I was fleeing to avoid getting caught up in the amorous contest.
+
+I heard several giggling shrieks and hollering behind and in front of me as I flew up the stairs, not literally, but close enough, and soon found myself at our hallway. I could have cheered, the adrenaline pushing me to my door.
+
+At about that moment I felt my legs sweep upwards into the air. This caused the slightest bit of panic in the half second it took for me to land in the waiting arms of my well sighted pursuer. As I looked up I found myself held in a princess carry of all things.
+
+I instinctively grabbed onto him around the neck to keep myself steady, breath heaving from the run and panic of my sudden loss of control. As I dispelled my magic I saw him chuckling.
+
+"Didn't you know I'd beat you here?" He asked as I tried to compose myself.
+
+"I didn't know the game existed before a few minutes ago when Lucien told me."
+
+That got me an outright laugh. "I forget sometimes that you seem to be oblivious to everything that you're not directly dealing with."
+
+I stuck my tongue out at him as he carried me over and into my room, sitting down on the bed. "Nothing is happening tonight, so don't get any ideas." I nearly growled at him as he sat down, leaving me in his lap.
+
+"Your father beat you to that declaration by several weeks," he snickered as I untangled myself.
+
+"As long as we understand each other," I huffed.
+
+"Understand each other? No, no I don't think I understand you at all." He reached forward slowly, giving me plenty of time to move as he brushed a lock of hair from in front of my face. "But I hope one day perhaps I will." My heart fluttered a bit as he turned and left, making one last declaration at the door. "Now if you'll excuse me, I've some other mischief to go get into." With a small waggle of his eyebrows he was gone.
+
+I sat there feeling really rather divided. I cared for Kala, a lot, she was close, and warm, and happy. Being together with her and all curled up somewhere or other made me happy like nothing else. At the same time there wasn't really any physical attraction there, while it made me happy it wasn't the same. That little flutter was like nothing I had ever had with her.
+
+All of that made me feel terrible. Did I want to continue as things were? Did I want them to change? Were my mind and body in two different opinions on the matter or was it all me? The guilt that I was feeling attracted to someone else was crushing, and at the same time, it didn't change anything at all.
+
+Many of the guests had left, as they were going through some massive clock and dagger scheme to keep the fact that they'd been taken through portals quiet. That left me a few days to both dive into my core for expansion and study of the guide and to work on my new teleportation.
+
+The latter of which I did very, very carefully. The mana cost was on another level even compared to the other spells I'd worked on. My power personally had been growing hand over fist as I attended school, and this year was no exception, and it still almost flattened me to move that apple. So I started even smaller, pebbles and the like.
+
+This led to a few discoveries. The couple of which were about the distortion I'd created on my first attempt. It was mostly the product of sloppy casting and a lack of preparation. I'd not had anywhere near enough mana or practice with the spell in the first casting to do it very well, but as I worked on my visualization it reduced dramatically, after a few rounds of practice I managed to get some teleports without any distortion at all, or at least none I could detect.
+
+Which was fortunate, because of some of my other early experiments indicated that the distortion, while harmless, did allow things to pass through it. Stuff coming in from the side seemed to just sort of... mold around the teleport tube, and while I wasn't sticking my hand into it, the stick I used seemed fine after several passes through.  If it went through the proper end though it would certainly stick out the other side.  This seemed a bit more dangerous though.
+
+It was more dangerous because the distortion broke down over time on it's own.  That itself was another important discovery, and one I was very happy of.  It meant that I was not going to have to fix them all manually if I needed to move something in a hurry.  My stick though, if left inside did not fare well, and as the wrecked bit of space righted itself is caused more and more pulling, until the piece of wood shattered and left it's area in bits, some of which were very small.  I considered the danger of someone being in there when one failed, and that gave me pause.
+
+The guide was, as always, rather unhelpful.  In fact all of the menus in the core were kind of like that.  I'd tried every iteration of 'find' I could think of, but find, locate, look-up, and even cntrl+f had all been duds.  There was no information on warping space either, or at least nothing obvious from what little I could locate in the documents.  I wasn't sure what that meant, if the gates had used some trick of the core, or if there was something altogether left out, or if maybe the mage who'd made them had found another hack to put the magic in.
+
+Before we left I did put in a request to get a look at 'Alcubierre's Artifacts', but that was soundly denied.  I did receive an answer though, and from Emperor Durin himself no less.  It was flowery, and longer than it needed to be, but boiled down to 'You're still in training, go finish up, and I'm quite pleased that you want to work for me, I look forward to you taking that position.' sensible they were, even if I didn't like them.
+
+That done I had nothing to do but wait.  With no other distractions I bemoaned what I would say to Kala, what I could say to Kala.  How would I tell her all that had happened, and that I even felt sort of attracted to others, or anything about that whole mess.  I was so unsure and worried that by the time I made it back to my room at the academy I was in a right state.
+
+It was shortly after I arrived back that she came to see me, joining me in my room with her normal smile.  I guess my face showed something though, because as she looked at me her face fell a bit into a much sadder smile.
+
+Kala sighed and sat down, looking at me with an almost regret.  "Well, it looks like we need to talk."

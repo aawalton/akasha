@@ -1,0 +1,191 @@
+---
+id: 967fa790-a4e0-53a5-b078-7e258e76db83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 – Supply Run – Pt 2"
+slug: 0030-chapter-30-supply-run-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 30
+ownLength: 1998
+unit: words
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1961865/chapter-30-supply-run-pt-2"
+royalRoadId: "1961865"
+---
+
+Gran ran her blade along the scales of the wyvern. The forest chirped around them, the trees casting everything in shadow. “Druid is more sensible.”
+
+“She’s a smith, like Dain,” Gleon said, shaking his head. “She wants to know enchantments, not follow that fool path.”
+
+“Fool path?” Kindra asked.
+
+“Aye.” Gran nodded. “The class requires you to memorize your spells, writing them in books and things.” She sliced through tendons, blood oozing around her. The metallic scent filled the air. “It’s not practical.”
+
+Kindra knelt and ran her blade along a seam between the scales. She watched the blood spill. It pooled around her like a metallic, crimson stream. Why does it smell so good? She sniffed and swallowed. I already got the mana.
+
+“But since it’s for something practical, I can answer. Runes are the language of magic. Your mother will teach them to you, as I did to her,” Gran said. “There are core runes. Using a single rune is dangerous. The rune for fire can do so many things. You need the others to tell it what you want it to do.”
+
+Kindra nodded. “And the book teaches you those?”
+
+“The basics, yes. Beyond that, it gets very complicated.” Gran looked up. “Wizards study those, and I advise against them. Rune mastery requires centuries of study, and we lost those books during the war.” She sighed and sliced up to the wyvern’s neck. “In short, it’s not worth it even if it’s versatile.” Cutting around it, she sliced around its neck and whistled. “Gleon, chop the spine for me.”
+
+Gleon walked over and raised his axe. Kindra vaulted back, darting behind a tree. He swung, smashing through the vertebrae and sending a small burst of blood spraying across the area.
+
+We need a hook. Kindra looked up at the tree. We could drain it.
+
+Gleon walked into the house and came back with a metal hook attached to a rope and a barrel. He tossed the hook over a large branch and drove it into the wyvern’s tail. Grabbing the rope, he began hauling it up, pulling it off the ground.
+
+Gran grabbed the rope and aided. The two hoisted the carcass up into the air, tying the rope around a nearby tree. Moving swiftly, Gran placed the barrel underneath, letting the blood flow into it.
+
+Looking at the massive carcass, Kindra studied the scales and body. A soft glow emanated from them. There’s still mana in there. Interesting.
+
+“Blood?” Kindra asked, gesturing at it.
+
+“Potions,” Gran replied with a smile. She resumed the butchery, removing scales and organs. Several went into the home.
+
+Kindra walked up and helped, cutting off a scale and handing it to Gleon. He turned and walked a stack into the house. Kindra reached up and licked the blood from her fingers. The taste of the sweet and fiery mana mingled with the blood. That tastes way too good. She continued slicing, errantly licking her fingers when the dwarves weren’t watching.
+
+Aika fluttered up and raised a brow. “Really?”
+
+“It tastes so good.” Kindra blushed and turned back to the carcass, cutting off more scales.
+
+“So, tell me, little Kindra,” Gran said. “How old are you?”
+
+Kindra shrugged. “Don’t know.”
+
+“Still fighting with your memory?” Gran’s eyes remained locked on the carcass.
+
+“Yes.” Kindra watched Gleon cut out the heart. He carefully dumped the blood and took it into the house. Do they have a fridge? She considered it and worked away, slowly breaking down the carcass in the late hours.
+
+The sounds of the bugs dimmed. An eerie quiet spread across the area, and Kindra looked up to see the black and white geese sitting in branches above. They looked down with greed in their black eyes.
+
+Gran looked up, smiled, and let out a low whistle. “If you don’t mind, Kindra, we have a few others trying to grow a bit.”
+
+“That’s fine.” Kindra nodded. “Will the birds attack?”
+
+“No, no. They’ll try to steal things.”
+
+Gleon nodded and smiled. “Aika, time to practice.”
+
+Aika groaned. “No way. Ranged. Ranged!” She fluttered over to Kindra’s shoulder, and a gasp broke the silence.
+
+Kindra spun and saw two young dwarves with black hair. They each stared at Aika with wide brown eyes. The girl held her hands out. “Hi,” she said softly.
+
+“That’s Aika,” Gleon called with a chuckle, gesturing at her. “She’s friendly enough.”
+
+Aika stuck her tongue out at him and waved at the two dwarves. She flew over and smiled at them. “Hello.”
+
+The girl grinned and held out her hands. Aika chuckled and landed on them. “What’s your name?”
+
+“Go ahead, Kindra. They’re close enough to get a little,” Gran said.
+
+Kindra pulled out her crossbow. “Should they do it?”
+
+“If you wound one, sure,” Gleon called. “Over here, kids.” He hauled a massive liver into the home.
+
+The two kids walked over, looking apprehensively at Kindra.
+
+“It’s fine. She’s my best friend,” Aika said, flying off and landing on Kindra’s head with a grin.
+
+Kindra chuckled and aimed at the boldest bird. She pulled the trigger, and the bolt zipped through the air, sinking into the bird’s chest and knocking it off the branch.
+
+The bird’s wings flapped wildly, and it hit the ground with a thud. The young dwarf boy ran forward with a small hammer in hand, delivering a quick blow to its head.
+
+Kindra pivoted, and the girl held out her hands, nervously looking at Aika with a hopeful smile.
+
+Aika flew over and landed on them. “Why?”
+
+“So we can get strong together.” The girl raced her over to the body and stood there.
+
+Oh. Kindra watched it flow toward all of them. She inched a little closer to the mana and ratcheted in another bolt. Aiming at another, she exhaled, and the sound of wings greeted her. Several launched off branches. Kindra fired. The bolt zipped into one, sending it tumbling down. The other birds launched off the branches, flying higher into the trees.
+
+They’re far more reasonable now. A grunt pulled her attention, and Kindra spun. One of the strange shark pigs sniffed, following the trail of blood.
+
+“Shoot that thing before it frenzies,” Gleon called, reaching for his axe.
+
+Kindra reloaded, aimed for its skull, and pulled the trigger. The bolt zipped through the air and bounced off its thick skull. The hog wobbled, and its eyes turned red. An axe slammed into it, spraying blood across the forest.
+
+Gleon dashed forward and examined it. The boy did the same, running forward and delivering a whack with his hammer.
+
+Gleon slit its throat and dragged it back towards them. Kindra looked up and saw the birds hiding behind branches. They poked their heads out and dodged back.
+
+Well, they aren’t suicidal. Kindra turned and studied the pig. “Dinner?”
+
+“Aye.” Gleon nodded with a smile. He winked. “We’ll sell it in town.”
+
+Makes sense. Kindra walked over to the young boy. She gestured to the crossbow. “Want to keep watch?”
+
+He grinned and put his hammer on his belt. He took the crossbow. Kindra placed her makeshift quiver and bolts next to him. She showed him how to load it.
+
+Gran walked over and gave a safety lecture.
+
+Kindra walked back and started cutting.
+
+“Why not make a normal bow?” Gleon asked.
+
+“Those are easier to aim and draw back.”
+
+“You really didn’t have it.” Gleon looked at her, surprise on his face.
+
+KIndra turned back and raised her eyebrow.
+
+“With my strength bonus, your bow could never keep up.”
+
+He has a point. Kindra paused. “Doesn’t that apply to anything you don’t throw?”
+
+“Yes.” Gleon nodded. “Most rangers compensate by using mana to boost their shots, but when it runs out, they are forced to throw things or come into melee.”
+
+“But you can make stronger bows.”
+
+“Yes. You can, but it’s something everyone has to keep in mind.” Gleon smiled at her. “It’s important that you know before you push your magic down a path. Right now, it looks like you’ll rely heavily on crafting. Your skills will reflect that.”
+
+“I’m happy with that.”
+
+“Good,” Gran said, looking up. “It’s a useful path, and I approve.”
+
+“Is there a class you don’t approve of?”
+
+“Several,” Gleon muttered.
+
+“Don’t get me started, young man. I was worried sick for most of my life!” Gran launched into a lecture about his class and fighting style, which apparently ended with a great deal of his blood on the ground.
+
+Kindra sliced into the wyvern and chuckled inwardly as he took the lecture in stride, grunting occasionally.
+
+The crossbow twanged, and the sound of wings filled the air. Kindra looked up. A bird with a damaged wing crashed into the ground, and the girl ran up with a hammer.
+
+Well, they’ll level fast. Kindra watched her proudly hit the bird.
+
+The girl turned. “See, Aika!”
+
+“Yes, I see.” Aika chuckled and flew forward. A burst of high-pitched sound ripped through the clearing.
+
+Runes danced across Kindra’s mind, and she instinctively slammed the counter into place. Spinning, she pulled out a nine-millimeter and saw the young dwarves drop. Aika followed, hitting the ground hard. A swarm of birds burst through the trees, their cries ripping through the air.
+
+Gran spun with a look of fury on her face. A blastwave of sound hit, slamming into her. She staggered, and Kindra pulled the trigger.
+
+The gun cracked. The casing flew, and the bullet hit the first bird, blowing through it in a spray of blood, metal, and feathers. Pivoting, Kindra looked at the flock. Okay, you dumb birds. You’re dead!
+
+She unloaded, blowing through her magazine within five seconds. Black feathers and blood rained down. The birds jerked up and swooped down.
+
+Racing forward, Kindra slammed in another magazine and scooped up Aika. The birds continued screeching, and the scavengers fell, slamming into the ground.
+
+Placing Aika into her bag, Kindra burned mana.
+
+[Advanced Mechasuit enchanted with lesser magical resistance for 24 hours, granting the wearer +20 magical resistance for 4 hours.]
+
+She spun and looked at the swarm. They were everywhere. Darting forward, she ripped into the falling scavengers. Several locked onto her and unleashed their sound.
+
+Some dove toward the kids, and panic flashed through her. Shit! Pulling on the runes from her dream, she brought the runes for fire forward and felt the horrific sound smash into her. Her mind went sluggish, and she slammed the counter sequence back into place, racing to the kids.
+
+The birds launched off the ground and sent down another barrage. Kindra picked up the dwarven girl and ran, racing back into the home and placing her on the floor inside. She bolted out the door and opened fire on the descending flock, burning through her magazine in seconds.
+
+The flock scattered and unleashed another wave of sound. Sprinting to the boy, Kindra picked him up and hauled him inside.
+
+Setting him next to the girl, Kindra summoned a replacement magazine and swapped them. I’m going to need to go mining. Reaching out, she connected with the dead things and ripped the mana into herself while walking out the door.
+
+The flock remained. Several had landed, pecking away at the scavengers, carcasses, and the two dwarves. Stowing the gun for her spear, Kindra blurred it around her head and slammed it into a low-flying bird. The bird smashed into the ground, and a barrage of noise lit the area.
+
+Birds dove toward Kindra, and she smiled. Fine. Let us dance. Her spear blurred around her, and she burned most of her mana.
+
+[Basic armor has been augmented with enhanced durability, granting +40 stamina to the armor and wielder for one hour.] ‎ [Basic spear has been augmented with enhanced agility, granting +20 dexterity and +20 speed to the wielder for one hour.]
+
+I guess I get to imitate Gleon this time. With a manic grin, she spun her spear and tore into the birds.

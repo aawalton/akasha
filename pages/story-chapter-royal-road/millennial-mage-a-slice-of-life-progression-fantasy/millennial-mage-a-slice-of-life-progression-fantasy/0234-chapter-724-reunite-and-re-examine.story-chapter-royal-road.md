@@ -1,0 +1,295 @@
+---
+id: f68f86ad-4a2f-5cb3-8afc-2639e5655d99
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 724 - Reunite and Re-Examine"
+slug: 0234-chapter-724-reunite-and-re-examine
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 234
+ownLength: 2803
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3638947/chapter-724-reunite-and-re-examine"
+royalRoadId: "3638947"
+---
+
+Tala felt a wave of relief pass through her. The odd thrumming from her connection with Lea had died down, and assuming it had meant that the girl was in danger, she should be safe now.
+
+At least the threads didn’t sever. She honestly didn’t know how she’d have reacted if Lea had been slain, but at the very least, there’d have been… words with a certain other Eskau.
+
+-We’d have flipped half of Zeme.-
+
+Yeah, and that.
+
+-And dropped it on the other half.-
+
+Tala huffed a mirthless laugh. No doubt.
+
+But the momentary danger had passed, whatever it had been.
+
+With nothing more that she could do at the moment, Tala worked to calm herself before going back to her lonely bed and falling asleep.
+
+Days later, she was finally on her way to her last stop. She was flying directly toward Rane, using their soulbond as a guiding anchor despite that usually not being sufficient.
+
+-Because it isn’t. You’re following Irondale—which is a part of you—and using that connection to know where he is.-
+
+Sure, but going to my husband is more poetic.
+
+-Yes.- Alat deadpanned. -It’s more poetic for a wife to perfectly track her husband across half a continent, while he’s just trying to do his job.-
+
+…I really don’t like you sometimes.
+
+-I love you too.- Alat sent the impression of a jovial grin. -Enar says hi.-
+
+Tala rolled her eyes. What about you? Only talking to your husband through words on an ever-changing wall? What sort of poetry is there in that?
+
+-None. I gave up poetry when I gave up my eyes.-
+
+You never had eyes… Tala sighed and cut off the conversation, willing herself to her dining room. She paused to look at the massive portrait of her extended family, basking in the auras radiating from it. She smiled. “Good morning.” Her thoughts then went to the one who’d maintained and expanded it through the years. “Glad you’ll be back with me soon, my husband.”
+
+She was rather hungry, and thankfully, Kedva had continued to build up both the quantity and variety of the available food.
+
+Tala slaked her thirst with a sweet, cinnamon and rice steeped milk… and coffee, but that was rather a given.
+
+Tala ate two cheesy little caravans, along with half a quiche lorraine and three breakfast sausages each as large around as her two thumbs pressed together.
+
+She chased that down with a large selection of diced fruits and berries of various kinds.
+
+She didn’t strictly need to eat so much any more, but she found that she enjoyed it, taking her time to savor every bite, using the action to fill the mental space until she arrived at Rane’s location.
+
+-You mean Ironhold’s location.-
+
+Tala simply sent an unamused look toward the alternate interface. Then, after a moment’s thought, she grinned to herself and sent the sensation of actually eating. She didn’t send the memory as she usually might have, but instead, she momentarily linked her enhanced nerves directly to Alat.
+
+Alat stiffened within Tala’s mind. -Rust you, Tala. You can do that?-
+
+Apparently. Never really considered it before. Tala shrugged, taking another bite.
+
+The alternate interface somehow shivered within Tala’s thoughts. -There is no reason that should be so different from memory.-
+
+Really? Tala was actually a bit puzzled. Parnesis’ triad of desire? Ring any bells?
+
+Alat groaned. -Anticipation, experience, and satisfaction.-
+
+Exactly. You can really only experience anticipation and satisfaction. At least, that’s how it’s been. We haven’t really experimented since I Reforged.
+
+-Until this.- Alat gave her a narrow-eyed glare. -As I said, rust you.-
+
+Tala snorted. If I can do it, you can too.
+
+Alat hitched. -...Well, turn me to rust, refine, reforge, and rust me again. Why didn’t I think of that?-
+
+Tala shrugged, eating another grape, still mainlined into Alat’s consciousness. Because you were too busy being upset at me.
+
+The alternate interface grumbled. -Point.-
+
+Tala looked across the table. So…? What do you want me to eat?
+
+-Tala.- Alat shook her head in disappointment. -For shame.-
+
+Tala snorted a laugh. Right, right. My apologies. Tala reached for the coffee. Bottoms up!
+
+-Oh, yes…-
+
+The hours literally flew by until they came into range of Ironhold, and Tala willed herself through a double-flicker, barely touching the superficial before she was gone again and within Ironhold.
+
+She appeared with her arms already wrapped around Rane, and after his startled exclamation, they spent a few minutes getting reacquainted.
+
+A bit later, Tala and Rane sat in thrones within the mountain outside of Irondale—Rane had given her the one that he’d carved by hand—and she couldn’t help but bend her entire focus and perception upon her husband.
+
+Part of that was due to missing him, but the larger part was because of his advancement.
+
+He’d done it.
+
+Rane had Reforged.
+
+As her body was flesh and blood, while also being iron, his was both human and statue, now stone at a deep, fundamental level. Moreover, he wasn’t simple, natural stone. He was worked stone, both through mundane skill and magic.
+
+He’d been in communication with the Archons specializing in mobile ramparts, learning how stone was treated and steeped in power to make it surpass most magically reinforced metals, even in repelling the most powerful of arcanous and magical creatures.
+
+The feel of him was like a warm statue, though his flesh still had give to it. She didn’t understand exactly what he’d done, but at every moment, it felt like she was in contact with immobile stone, even as it did move at her touch.
+
+Funnily enough, it reminded her of the magic-engines in their non-moving motion.
+
+Sculpted motion indeed. A small smile pulled at her lips, and he turned her way, blinking and giving a frown.
+
+“What?” He looked around himself. “Do I have something on my face?”
+
+Tala almost said something cheesy like ‘not yet’, but they genuinely did have work to do. So, instead, she sighed. “No, Rane. Your face is fine.”
+
+He chuckled. “I’m glad you think so. Your opinion is what matters.”
+
+She smiled, locking her gaze on his. “But I do want to say one thing.”
+
+“Oh?” His eyebrow rose in obvious question.
+
+Her smile grew to a grin. “Congratulations on your advancement.”
+
+He huffed a laugh before teasing. “Ahh, so you did notice.”
+
+“A bit hard not to.”
+
+He laughed again. “Well punned.”
+
+She grinned back. “I thought so.”
+
+“-Get a room, you two.-”
+
+Rane looked up and to the right before responding to the alternate interface’s projected words. “We already have many, and we’re even in one.”
+
+“-...Fair point. Carry on.-”
+
+Tala chuckled. “But truly, it looks like it went well?”
+
+Something flickered across his vision, most likely a memory, and he shuddered. “Yeah. All's well that ends well, right?”
+
+She grimaced in sympathy. “Rough, then?”
+
+He gave a slow nod. “I knew it wasn’t actually killing myself, but tearing apart the body I was born with?” He shuddered again. “I’m glad I don’t have to do that again.”
+
+Her grimace turned to a consoling smile. “Yeah. It’s… It’s not fun, but you got what you were aiming for, right?”
+
+He nodded. “I… I’m not sure I have enough control yet to advance further, and I don’t think I’ll gain it any time soon.”
+
+“Ahh.” She leaned back, knowingly. “I can understand that. So, Reforged is as far as you go for now?”
+
+He nodded again in agreement. “For now. For this century at least.” He chuckled then. “Likely for this millennia. Stone is a… it’s a difficult thing to gain true mastery over, and if what I understand about Ascending is true, I’ll have to get very good at claiming that control quickly.”
+
+That brought a frown to Tala’s face. “But your current form…?”
+
+“All mine.” He grinned. “No bad quenching, here.”
+
+She rolled her eyes but smiled. “I’m glad to hear it.”
+
+He chuckled. “Honestly? In the end, I was pulling from what Master Girt and I discussed so many times.” His face took on a sad, contented smile. “I do miss that man.”
+
+Tala gave an empathetic smile in return. “I do too.” She willed herself over to him, kissing him again before pulling back, her smile growing. “Is there anyone else we need to get? Are you ready to depart? We really do need to head for the escarpment. We’ll already be cutting it a bit close on the planned timing for the assault.”
+
+Rane shook his head. “No, ma’am. We’re ready.”
+
+“Good.”
+
+She briefly sent her focus to the superficial, bringing a flying construct along with it. From there, she sent the device winging south, herself and her expanded spaces anchored to it.
+
+She then returned her focus to her husband. “We have just under a day…”
+
+Rane grinned, standing and picking her up. “Let’s make good use of it, then.”
+
+* * *
+
+They made the trip in just under eighteen hours, as Tala didn’t push the limits of her speed, being almost tender with reality as they streaked across it well faster than a galloping horse.
+
+The last hour or so, Tala began feeling the growing area of re-aspected reality before them. It wasn’t any bigger than she expected, but it still somehow felt more… prevalent.
+
+It might have just been that she now knew what to look for and what she was seeing, but either way it blared in her perception like a bonfire at midnight.
+
+As she brought her focus to bear, she let out a deep sigh. That’s what we’re fighting against.
+
+-What do you mean?-
+
+That, a reality without magic. The Black Legion is just the instrument for the creation of that. They aren’t the true threat.
+
+-That’s one way to look at it, I suppose.-
+
+Tala stood in her sanctum, having flickered over to that space with Rane hours earlier.
+
+Now, they were both on the dais, going over the information that they had about the upcoming clash.
+
+Others had joined them, including Ron and quite a few arcanes of power from the wandering settlements.
+
+They obviously couldn’t feel the massive weight of reality as they approached.
+
+No, weight isn’t quite right.
+
+Tala had once seen a sheep shearing operation at the edge of her perception. The sheep had been somehow thoroughly washed and completely dried through a combination of manual effort, mechanical wonders, and magic, and once the wool was prepped and fully dry, the sheep was sheared. Apparently the clean, fully dry wool was easier to cut closer to the skin and more cleanly, but that was only reasonably possible with the magically-aided drying.
+
+The result was sheep rendered almost bald, and with barely any nicks or inconsistencies. The bits of magic involved in the shearing make the wool practical peel off all of a piece.
+
+As to why sheep had come to her mind at that moment? Well, the best description of what Tala was seeing fell right in line with that.
+
+At the edge of the expanding dome, reality seemed like it was being plumped, primped, washed and dried… even while none of those things were actually happening.
+
+The final step fit quite well, however. She could practically feel reality being sheared smooth, top and bottom. Moreover, if magic was viewed as a contaminant, it now had no ‘hair’ in which to cling onto, such ‘grime’ was unable to stay on the smooth surface that remained.
+
+She frowned. No… that’s how the Black Legion perceives it. Am I picking up on their intention, on the concept they are going for?
+
+Tala’s body moved forward, toward the projections within her sanctum unconsciously, even as her perception focused, all ancillary sensations and perspectives being shunted fully to Alat, including even all current sensations and voluntary control over her form.
+
+In that moment, Alat found herself fully and completely in the driver’s seat of their body for the first time in her existence.
+
+She… was not a fan, but she would still do what needed doing.
+
+As for Tala? Tala didn’t even notice her body move back to her throne under Alat’s direction.
+
+The expanding bubble before her was first revealed to not truly be spherical to her heightened scrutiny.
+
+It was circular, make no mistake, but rather than extending equally up and down as well, it was squashed, taking on the form of a domed disc rather than a sphere.
+
+What lay within wasn’t really open to her magesight, but once again, that was seemingly due to no magic passing through it rather than any sort of forbearance or barrier.
+
+Still, she could see reality itself, a mere lack of magic unable to greatly hamper her when she was determined to see.
+
+Tala felt a weight of authority behind her inspection, her power in that realm of things currently grounded upon the idea of opposing and destroying the Black Legion.
+
+Inspecting a stronghold of theirs fell entirely within the domain of that authority.
+
+They were ‘cleaning’ reality, trimming the edges and healing the seams that had existed since Zeme was stitched together from the void. It was clear they were both trying to maintain what was there and remove as much magic as they could.
+
+Well, slag… The Mountain King was right. The lack of standard levels of magic radiating from within revealed something. It was like a particularly dark night allowing for more stars to be seen in the sky above.
+
+As it turned out, there was still magic within, and it did have a slightly different flavor than that which she was used to.
+
+It felt more alive, more… grounded?
+
+She looked at a bit of her own power, and she felt a shudder, her metaphorical eyes going wide in sudden realization.
+
+The magic within the expanding disc—what little there was—came from the living flora and fauna within. Even the soul-cores that she knew were within were either perfectly containing their power, or it was being otherwise scrubbed from the environment.
+
+The result was a realization she’d never had the opportunity to be faced with before  as she’d never seen living magic before.
+
+Magical power—as she’d always known it—was static. It moved where she and other Mages directed it. It acted as expected. It was like water, inanimate on its own while never seeming like it had ever been more.
+
+The magic within the expanding area? The thin wisps of it that she could barely catch glimpses of? It danced.
+
+It seemed almost to live and move and even breathe.
+
+It made the power she used, the power that filled Zeme, even the power she’d felt within the world-fragment feel… dead.
+
+The world-fragment. She felt herself waiver under the realization. The world-fragment was a tableau of a dead world.
+
+She didn’t even look further for a long moment, so stunned was she by this realization.
+
+She felt as if she’d grown up playing with a posable statue, only to finally be told that it was the body of a long dead woman.
+
+Tala felt… violated, gross, slimy at a level she couldn’t comprehend.
+
+She felt the fool. It comes from the next world. Of course it’s dead.
+
+It was no wonder that it was effectively infinite as well. Where did the magic that they used go? Sure, they could recover some, but the rest?
+
+It was ‘dead’; it returned to the next world where it could be sucked back to Zeme to be reused again.
+
+Gorge rose up within her mind, spirit, and broken soul.
+
+Her anti-vomit magics ironically extended conceptually enough to keep whatever might have spewed forth down, but it didn’t help her feel any better.
+
+Center yourself, Tala. Focus! You are still picking up on what the Black Legion sees and how they think. The weight of their worldview is tinting everything.
+
+That… That helped, but it didn’t allow for a sudden removal of a veil. She wasn’t able to suddenly see how the Black Legion was wrong.
+
+Instead, she was left with the feeling that she’d always known she lived in a mausoleum. It was no wonder the tools they found and used had once belonged to the dead. The fact that the sword which she used to keep her family alive had, itself, once been alive as well wasn’t the most ground breaking revelation she’d ever been exposed to, but…
+
+She swallowed, sliding back into her body with sinking finality.
+
+They still had an hour.
+
+Around her, a silence had fallen, and she realized that her aura and authority were in turmoil.
+
+Rane appeared beside her. “Tala?”
+
+She stood, taking a deep breath. “I need to talk with Lisa.”
+
+“Shall I come?”
+
+She almost told him no, but after a moment’s hesitation, she nodded. “I’d appreciate that. Thank you.”
+
+He gave a comforting smile. “Let’s go.”

@@ -1,0 +1,101 @@
+---
+id: 0f5a301e-2194-5829-b954-1e2bddbca55b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 265 Interloper"
+slug: 0279-chapter-265-interloper
+partOf: melody-of-mana
+position: 279
+ownLength: 1453
+unit: words
+ownProgress: 1453
+publishedAt: 2023-09-06
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1334386/chapter-265-interloper"
+royalRoadId: "1334386"
+markedReadAt: "2026-06-29T22:35:28.134Z"
+---
+
+The back and forth was intense, but there was some wiggle room. Justin was an absolute monster when it came to design and the Orders knew it, therefore they wanted some of his older ones. Both Mystien and myself heavily objected to this once we learned what exactly they were after.
+
+In the past there had been a few ship designs that had allowed the elves to cross the ocean with seeming ease. Both sides were vague about exactly what was going on with them, but apparently when it came to war they were unparalleled. They'd also all been built and maintained by a corps of elves led by our elderly king himself, one that ha been lost to the ages. These matched with some of the magically powered boats I'd seen on their continent, but had been of a different scale, one not seen since.
+
+There were also magical weapons and golems that the old man had designed over the years that could work as a force multiplier. Adia wanted those too, since there were very, very, few people who could design a working golem of any real ability. Ristolian's assistant was a good example of why, they just had to be too complex or they would get locked into circular paths of action, unable to escape.
+
+Limited versions were eventually agreed upon, but then the priestess turned to me.
+
+“Portals, we want to be able to make and maintain our own,” she declared, like it was already agreed upon.
+
+“Absolutely not, I've done too much work trying to keep that contained to hand it over,” I responded, slightly offended that she'd make such a request after our talks.
+
+“We do not ant you to have a pure monopoly on portal travel, it would allow us to move priests where they needed to be, when we needed them to be there.”
+
+“Mind if I propose a compromise?” I offered.
+
+She raised an eyebrow, but nodded. “You may.”
+
+“I can provide you with a limited number of portals, for your people to place as they please. We can hash out the exact number, and where they would be delivered, but they would be yours, not ours. It would also allow me to keep the creation of those dangerous objects controlled for now.”
+
+“How many?” Adia asked, smirking. This may have been what she was hoping to get in the first place.
+
+The next round of negotiations then began. Mystien had things he wanted as well, the sharing of those plans, which we got some of, and the slower delivery of portal pairs than the priests specifically wanted. While we could understand that they desired actions over promises we were still in the middle of a war and in need of all the infrastructure we could get.
+
+The deal with eventually struck, with Adia securing the next five portal pairs we made, and then an additional every five we made until we'd delivered twenty to the Orders for their use. It would be a hassle, but one we could deal with in both the short and long runs.
+
+As for the teleportation technology out there floating around, I wasn't too worried. I hadn't revealed to them that I had a way to track those, because why would I? If they decided to become a real thorn in our side we could have personal visits to wherever they decided to stick their portals, and repossess them with vigor.
+
+Once we had all of our agreements in place we took a break so a scribe could put it all in proper legalese for us. These wouldn't be public records or anything, but everyone liked having a receipt for their deals.
+
+“Then we're all satisfied?” Justin asked tiredly.
+
+“No, but we can live with it,” Adia answered, tapping her fingers on the desk.
+
+“I do hate to impose while in your home miss Alana, but might my counterpart and I have a few moments of privacy?”
+
+Mystien and I went for lunch while the two elves set up a barrier and began to have their chat. I didn't know what they were talking about, and while I could have planted bugs in the room, that had seemed in bad taste. I'd also hate to be found out for doing such a thing, and the many issues it might cause, potentially even the failure of these negotiations.
+
+They joined us some time later, both looking a bit drained from whatever had transpired between them. A few minutes into what should have been a cordial chat Ulanion appeared.
+
+“We have a bit of an issue,” he said, leaning over towards me.
+
+“What?” I asked.
+
+He went over to the window and pointed at the horizon in a particular place. I could see little more than a small blur there, but joined him. With a few small movements I set up one of my lenses, expanding the view to cover what had him worried.
+
+There was an army. Not the largest collection of men I'd ever seen, but one clearly well arrayed to assault us. They marched forward in rank after rank. Within their formation were carts and held aloft items I recognized as some of my own designs, older ones for warding and protection. There seemed to be mages as well, outriders from them putting up spells and wards to stop anything we might throw at them.
+
+“I suppose that answers what happened to Ozen's forces. He must really have tried to bring them here without us noticing,” Mystien opined. “Not sure we can fight that many on our own.”
+
+“You are absolutely forbidden from joining in this conflict,” Adia said from behind, voice hard as she addressed Justin.
+
+“Do not worry my dear, I wasn't planning on it,” the white-haired magus answered.
+
+“He won't be needed,” I said with a smile. “Though Mystien, remind me to thank Ozen should we see him. I've been itching to try out some of my new protective schemes.” I turned to my fiance. “Have you already initiated the emergency protocols?”
+
+“Of course,” he chuckled. “We've called for reinforcement, and all of the gate rooms are on alert.”
+
+“Great, let's send out the Hall Monitor.”
+
+“The Hall Monitor?” Adia asked, her voice showing her confusion.
+
+“Something an old friend left behind.”
+
+General Ozen stood among his men, staring at the captured fortress. This had been Durin's home, and the murderous little wretch and her ilk had taken it for themselves. There was no way some two-bit princling had killed his lord, only to fall to that girl, and he would prove it, after he retook the empire.
+
+With a wave the bombardment began. The shields were no surprise, as his enemy was well known for their defensive structures, but shields could, and would, be broken. It might be a bit of a rush to do it, and he had no doubt that some or all of the portals would fall before he could conquer this bastion, but that was fine, doing it would still cripple his enemies, robbing them of one of their greatest assets.
+
+Long range ballistae, and very long range magics bounced off a hard shell, the dome appearing only as the impacts fell, shattering and splattering across the surface of the protections. It was like trying to crack a turtle's shell, each impact one more blow against them.
+
+And then the wind died.
+
+Ozen looked towards one of his advisors, a specialized battle-mage. The man turned to the sky, eyes flicking as he pulled out observational tools.
+
+“Shield, secondary and around us. Not too strong I think, probably so their men don't have to deal with the cold as we fight them,” the advisor said, shrugging slightly. “Not a threat to us.”
+
+As they continued pounding against the dome surrounding the little castle-like structure a single figure emerged, pulling behind it a sled. At first Ozen thought it a man in armor, but soon it became clear that it was too large for that.
+
+“YOU ARE A THREAT TO THE ACADEMY, THE HEADMISTRESS HAS COMMANDED THAT YOU BE DETAINED AND HANDED OVER TO THE PROPER AUTHORITIES,” the golem declared, raising its arm.
+
+His men answered without order, turning part of their attention to the metal man. It shortly became clear that the sled was some form of shield as well, protecting the thing from harm. That said, it didn't actually do anything but glow.
+
+“That is why you never use a golem,” his advisor said with a chuckle. “They tend to get weird on the battlefield.”
+
+General Ozen snorted, sharing the humor. Several of his men as well were beginning to laugh at the failure of the hideously complex construct.

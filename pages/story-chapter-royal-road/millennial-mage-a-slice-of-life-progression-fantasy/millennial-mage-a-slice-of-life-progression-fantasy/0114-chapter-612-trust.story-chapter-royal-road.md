@@ -1,0 +1,247 @@
+---
+id: d69e4e6f-f64e-527d-a3eb-acabe3e0227d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 612 - Trust"
+slug: 0114-chapter-612-trust
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 114
+ownLength: 2917
+unit: words
+ownProgress: 2917
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2601735/chapter-612-trust"
+royalRoadId: "2601735"
+markedReadAt: "2026-06-29T19:38:57.055Z"
+---
+
+Tala came down toward the caravan, taking in the rippling, interconnected defensive fields still actively under assault around the outside of the rumbling group of wagons.
+
+Terry was flickering around the outside, slicing through what seemed to be oddly moving mounds of plant matter.
+
+The plant things weren’t leshkin, just as a bucket of blood couldn’t be said to be human, even if it moved on its own. Instead, they were seemingly just some of the myriad other plant-based creatures on Zeme.
+
+Terry’s talons occasionally flickered with the black-purple aspect of void, but the plants just pulled back together regardless.
+
+Rane was hacking a path in the front of the caravan—then kinetically flinging the pieces aside even as they reformed—keeping the way clear for the five-wide column.
+
+While Terry protected the eastern side—the side closer to Tala—the Talons were making a great showing by keeping the odd opponents back on the west.
+
+Odd indeed, almost as if Reality is starting to pick what it sends our way.
+
+-Once does not indicate a pattern.-
+
+…Fair enough.
+
+A couple of Talons were at the back of the caravan as well, executing a fighting retreat. Their job was the easiest, as the vegetative opponents seemed barely faster than the moving wagons, so the very progress of the caravan kept them from attacking very often, and every cut made them even slower.
+
+While Rane, Terry, and the Talons cleared the crowding enemies, it was the barriers of the Mage Protectors that kept even stray vines or attacks from reaching the wagons sheltered within. Without those, the caravan would be in a bad way, despite the powerful Defenders that Tala and Rane had brought along.
+
+Alat finally finished going through their memories and records, coming up with the name of the opponent after a handful of seconds. -Shambling Ivy, and a rather advanced pack.-
+
+No joke. I’m detecting Refined level power from most of them.
+
+-That’s a misassumption. It’s just one creature. Cutting it will never harm it, though it will slow it down and make it less effective until it reconnects.-
+
+Tala grunted. So, it was one creature. Dissolution breath?
+
+-Dissolution Breath.-
+
+As Tala came in, she opened the portal to the already refilled space, sending a line of power streaking out to strafe the edge of the caravan.
+
+Rane’s aura and authority—established by Tala, herself—bent to her will and kept her magics from rolling over the barriers protecting her charges. The last thing she wanted was to slam dissolution into the caravan she was trying to keep safe.
+
+It took twenty seconds to release, recharge, and release again, four dissolution breaths covering the four quadrants, directed and constrained by her and Rane’s aura, backed by Terry’s magical weight along with their own.
+
+Then, she landed back on her wagon, dropping into a cross-legged position, the threat handled.
+
+She reopened the portal into Ironhold, affixing it to the expected wagon so that the Talons could trade out at need.
+
+To her mild surprise, those who were moving to take up their previous patrols weren’t actually the same as those she’d seen when she left.
+
+-Rane shuffled the drained Talons back into Ironhold and moved out their replacements.-
+
+Tala felt a smile pull at her lips. He’d done what needed doing. Her trust in him had been well placed, and she hadn’t needed to explicitly hand off the task for him to do. He’d risen to the occasion as she’d known he would, as he always did.
+
+-I’ve bundled that set of feelings and thoughts. Do I have your permission to deliver it to Enar and Rane?-
+
+Tala quirked a smile. Yes, Alat. Thank you.
+
+-And… done! You’re most welcome.-
+
+Her stomach gurgled a bit, and she dropped her armor, letting the various metals flow away. With the portal open to Ironhold, she couldn’t easily will the food out to her, so she willed herself into her dining room, grabbed an already loaded couple of plates and willed herself back out.
+
+After all, her daughter was coming to join her.
+
+A moment after Tala returned to her wagon-top perch, Lea landed at the back, causing the wagon to rock from the impact. Even so, the various springs and other shock absorbers did as they were supposed to, and the wagon didn’t tip too much before righting itself.
+
+“Mom?” The girl’s tone was a mix of excitement and trepidation.
+
+Tala patted the wood beside her. “Come, sit.”
+
+She moved one of the plates to be in front of that place, even as Lea dropped into a crosslegged position as well. “That was… That was crazy.”
+
+Tala grunted, taking a few bites before swallowing and answering. “It was a rather powerful beast, and things were complicated by having to keep the caravan safe, yeah.”
+
+Lea finished her own bite before giving Tala a look. “So… was it a hard fight?”
+
+“Some? As with all fights, there were aspects that were difficult and some that were easier. It was hardly fair, though.”
+
+“Oh?”
+
+“With your father and Terry here, we were three against one. Those were anything but good odds for the bird.”
+
+Lea frowned. “But… you took it down on your own.”
+
+Tala laughed, pulling up a napkin to dab at her mouth. “If you believe that, you weren’t paying close enough attention. Aside from the fact that Terry and your dad finished the fight by coming back here to take care of the caravan, letting me put it completely from my mind—which is a big deal in a fight—both Terry and your dad cut deeply into the beast, helping to force it from the sky above the caravan. They also engaged it and protected you all while I was sent sailing away. Let me emphasize that. Without them, I’d have effectively lost when I was thrown away. Beyond that, it was only together that we forced it to change forms, allowing me to more easily deal with it in the end.” She huffed. “Honestly, there at the end? Your dad would have been a better finisher than I was. We couldn’t have known that beforehand, and I’m more flexible than your father, so we still made the right call, but it’s worth stating.”
+
+Lea’s frown was growing. “But… you landed the final blow.”
+
+“I did, but that hardly matters.” Tala smiled at her daughter’s confusion. “Let me put it another way. A rather pertinent, ancient saying is: ‘No man is an island.’ Do you know what that means?”
+
+Lea gave a slow shake of her head.
+
+“It means that no one exists on their own. We are all dependent on one another. For me to try to claim that kill as only mine would be as arrogant as it would be incorrect.”
+
+Her shake hesitated, and after another moment’s consideration, Lea began to nod. “I… I think I can understand that, yeah.”
+
+Tala gave her own nod and turned back to her food. “So, what did you learn by watching?”
+
+Lea smiled, her eyes unfocusing slightly as she clearly remembered what she’d just experienced. “Aside from such advanced fights being terrifying?”
+
+Tala huffed, then gestured as if to say ‘Beside that, yes.’
+
+“Well…” The next hours passed in instructive back and forth, and Tala found herself quite happy to have the time with her daughter.
+
+No other Paragon level opponents showed themselves, and Tala wasn’t needed to deal with any of the lesser magical beasts that threw themselves at the caravan. Though, that was mainly because of just how capable Rane, Terry, and the Talons were.
+
+It helped that no other ‘slash resistant’ monsters attacked.
+
+That day came and went, and the trip continued.
+
+Their passage garnered more and more magical beasts, but blessedly, no others matched the Roc in pure power.
+
+By the time they arrived at Marliweather, though, everyone was exhausted.
+
+The city and its defenses easily absorbed the large caravan, and Tala spent the first hours analyzing how the City Stone operated differently than her own attempt at a gradient mana-well imposed stoneward of superficial as a fix. After all, with two more legs to their trip, she did not look forward to potentially coming across more Paragon-level threats.
+
+It wasn’t that she didn’t want—or even enjoy—such fights, but with the mundanes and the caravan as a whole behind her, requiring her to be careful and keep them safe as well, it just became much, much too stressful for her to look forward to the next such clash.
+
+After getting the caravan settled in the Marliweather workyards—they had to spread out over three separate yards close to one another due to their size—Rane and Tala sat down for a late lunch, just the two of them, in their sanctum.
+
+Lea was training with some of the Talons, and Terry was off being Terry, likely reducing the population of tasty creatures in the region as a whole.
+
+Regardless, Tala and Rane sat, leaning back, eyes closed as Mistress Petra set the food before them.
+
+“Thank you, Mistress Petra.”
+
+“Of course, Master Rane.”
+
+Tala thanked her as well, as the older woman departed, leaving the two alone for the first time in what felt like years, even if it had only been a couple of weeks.
+
+Finally, Rane straightened, leaning forward and opening his eyes. “How can it be so exhausting? It’s not even that hard of work.”
+
+Tala groaned, sitting up, herself, and reaching for her fork. “I think it’s that we were dealing with constant, low-level threats.”
+
+He grunted in return. “I think you’re right, yeah. I suspect we actually faced the same magical creatures at least a few times. Their places of merging were just close enough—and the local zeme stirred up enough—to allow them to be spawned and thrown at us multiple times.”
+
+It was her turn to grunt. “Hmm… I think you’re right, but I also think some weren’t spawns, but uplifted, arcanous creatures who were plucked up from essential mundanity, filled with magic and sent at us.”
+
+“That would make sense, yeah.” He let out a long sigh.
+
+“It’s maddening that we’re facing this much resistance. We never came across anything like this when we were actual Mage Protectors.” She frowned. “Well, the leshkin were pretty persistent on our first trip to Makinaven… but otherwise, this is very unusual.”
+
+Rane snorted a laugh. “It’s almost like there’s a reason large caravans basically never happen.”
+
+Tala rolled her eyes. “I didn’t say it wasn’t expected, just that it’s maddening.”
+
+He grunted at that, too. “True enough, I suppose. Zeme is as it is, though. Even moving with a City Stone doesn’t lead to perfect trips. Those last exoduses generally have more people, but they also seem to have about this level of resistance, give or take.”
+
+“Yeah, that’s what we were able to find in the records, too. Master Grediv told us as much as well, of course.”
+
+“Did you find anything with your investigations of Marliweather’s City Stone and magic funnel?”
+
+Tala nodded, savoring a few more bites before responding further. “The most obvious answer is that it doesn’t move, but we already knew that much. I think that there’s another issue though. The expanded spaces.”
+
+Rane frowned, then his eyes widened. “Ours are just expanded. They aren’t isolated?”
+
+She huffed. “Wow, you got it in one. I think that, somehow, the dimensionality of superficial Zeme is sliding through the spaces, rather than sliding with them through an otherwise undisturbed superficial.”
+
+“But why wouldn’t the wainwrights have addressed that? It seems like one of the simplest changes that they can make to reduce danger to caravans.”
+
+Tala shifted a bit. “I think that the issue is my mental model. I conceived of it exactly like you just did, without really realizing it.”
+
+He grunted, taking another bite. “Well, that’s easy enough to shift, even for an ongoing effect, if you can alter your mental model.”
+
+“I know… it just…”
+
+Rane glanced her way, then gave a half smile. “You don’t see it that way.”
+
+She sighed. “Exactly. It would be nice if I did, but that’s just not how my mind is approaching it.”
+
+“Well, let me see if I can help.”
+
+“Really? Are you willing to?”
+
+He huffed, giving a half-smile. “Of course. Come on. We’ll only be in this city for a couple of days this go-round, but I know you want to see your family, and we have a lot else to do. Let’s see what we can tackle this afternoon.”
+
+She just stared at him for a long moment.
+
+“What?” He frowned. “I know I don’t have anything on my face.”
+
+She shook her head. “No… It’s just… Thank you.”
+
+He smiled fully then. “I’m always happy to help if I can.”
+
+The next couple of hours proceeded with Rane pulling out various examples ranging from soap bubbles to boats to demonstrate a place of greater surface area moving within an otherwise flat plane, while not scrolling through the dimensionality of that plane.
+
+Tala felt her own conceptualization of the process first loosen, then finally snap into realignment.
+
+There was a shudder through the parked caravan in the workyards outside of Ironhold, and Tala imagined that anyone within might have felt a bit of a trembling, but nothing more.
+
+The distinction between the space that was added within the passenger wagons and that without became more firm and delineated. In many ways, Tala realized that this was a bit more dangerous a way of conceiving of things.
+
+Before, if anything had caused a breach in one of the expanded spaces, dimensionality from Zeme would have slid into place, the extreme version of that being a dumping of all the contents out onto the superficial.
+
+Now, however, the spaces were expanded and ‘free hanging’ off of the superficial. In the case of catastrophic failure, the contents would be dumped stoneward, where none of the mundane—or even magical—passengers would have a means of saving themselves.
+
+Truthfully, Tala had been close to this understanding before, given that this was exactly how Kit—and therefore her sanctum and Ironhold—functioned.
+
+Aside from catastrophic failure, the spaces were now much easier to simply cut free from the superficial and allow to ‘fall away’, but doing so would still require overcoming Tala’s magical weight, will, and authority, and that meant overcoming Rane’s and Terry’s as well.
+
+All that to say, if something had the ability to magically out-muscle three Paragon level entities quickly, then being cut free to potentially be saved later might actually be a relatively minor inconvenience when compared to what might otherwise have happened.
+
+This more ‘free-form’ connection to the dimensionality of Zeme’s superficial would also now allow Tala to stagger exactly how stoneward each expanded space was. That, in turn, would reduce the abrasion on Reality overall, and should alleviate much of their ‘beacon in the dark’ issue with regard to magical beasts.
+
+Satisfied that she’d at least mitigated one of the larger issues before them—and in only a couple of hours—Tala and Rane settled in for a family tea-time.
+
+Lea and Terry appeared just as Mistress Petra and Kedva were setting out the last parts and greetings were exchanged all around.
+
+While they shared mint tea, Rane read a few passages of poetry, then showed the others his latest little carving and exercise in precision.
+
+It was a small, game-piece-sized statue of Tala without her armor, but still armed with Flow in glaive form.
+
+Terry chirped approvingly, Tala kissed Rane’s cheek, and Lea excitedly exclaimed that Tala could now be the ‘royal’ piece at the center of their tafl board.
+
+Once Rane had soaked up the praise, and joked with Lea for a bit, it was the girl’s turn. She showed her parents a few pictures that she’d sketched of various places within the sanctum, then read a passage from a less known, early gated philosopher.
+
+That sparked a discussion on the nature of souls and gates, and whether the ‘healing’ of gates would actually be good on an individual, societal, or global level.
+
+They’d moved onto black tea and coffee when it was Terry’s turn, and he presented the perfectly cleaned skull of a great cat, which Tala thought looked vaguely familiar.
+
+The rest of the Sappherrous family was suitably impressed, and Terry fluffed his feathers happily at the praise.
+
+Tala finished off the afternoon with her own selections of acclaimed poems and a brief summary of the work that she and Rane had done on her mental model of the expanded spaces.
+
+Thankfully, Lea had enough of a grounding in spatial theory to understand well enough, even if she was still at least a few years away from enacting any such working, herself.
+
+The four spent the rest of the late afternoon relaxing together, playing some games, lightly sparring, or just talking.
+
+When evening rolled around, they cleaned up, and headed out to meet with their family in the city for dinner. It wouldn’t be quite the event that the quarterly reunions tended to be, but it would still be good to see everyone there in the city again, even if just for a meal.
+
+As her husband willed himself and his family to the superficial, Tala felt a growing warmth and pride within her.
+
+This was her family.
+
+Her husband, her daughter, her companion, hers.
+
+She wasn’t sure what the coming years would bring, but she felt glad that these three, at the very least, would be with her through it all.

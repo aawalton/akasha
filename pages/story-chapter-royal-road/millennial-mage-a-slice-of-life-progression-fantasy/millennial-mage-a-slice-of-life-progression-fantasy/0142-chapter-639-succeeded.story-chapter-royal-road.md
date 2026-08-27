@@ -1,0 +1,259 @@
+---
+id: b20969f5-a667-5b1d-b1c5-69f36f8a1415
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 639 - Succeeded"
+slug: 0142-chapter-639-succeeded
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 142
+ownLength: 2846
+unit: words
+ownProgress: 2846
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2788307/chapter-639-succeeded"
+royalRoadId: "2788307"
+markedReadAt: "2026-06-29T19:39:36.982Z"
+---
+
+Tala’s new body rested before her floating perception, built of reality iron and white steel, then woven through with regular iron, malleable material from her elk leathers, precious metals in the form of inscriptions, and magics of all kinds.
+
+Her very power and will, her authority within this space allowed far more matter to exist in the size of a human body than should ever actually have been able to fit.
+
+Around her body swirled her myriad bloodstars, all recovered from her various uses and consolidated here.
+
+Each bloodstar was effectively the tip of a tendril of her soul, ready to bind to anything she wished to connect with. She had never really had need of that capacity in most of her blood stars, using them, instead, as anchors for her aura and places upon which she could mirror her perception.
+
+She had need now.
+
+She moved forward, essentially just her soul, her gate, slipping through the keystone on her body’s back, settling exactly where she was supposed to be, within her own body.
+
+Immediately, her bloodstars began to spin and weave, threading throughout her entire physical form, drawing the ephemeral tendrils of her soul throughout the entirety of herself. As she did so, she drew along threads of power which streamed from her gate, quite reminiscent of her Fusing process.
+
+Beyond that, with her perception as it was now, she could see that the interweaving was catching up every reality thread and drawing it close, readying it for what was to come.
+
+She didn’t wish for a bond, not yet, instead utilizing an ancillary feature of those soul tendrils, effectively weaving her soul throughout the body in a manner that she was sure no other gated human had ever been able to do before.
+
+There was marginal resistance when she worked across her left hand, but as this body was her, there was no reason for it to be any different. The left hand had been taken from someone else, someone left behind as Tala stepped toward who she truly was.
+
+The magic of the merging chamber she sat within provided coherence and a sort of odd spiritual compression that helped contain and form that which she was making.
+
+Terry, from his circle, acted as an anchor, a point of reference, and an additional source of strength.
+
+Rane continued to pour power, love, and support through his bond to her soul, and Tala could tell by sensing in the other direction that he was with their daughter, and that was a blessing and a burden removed. She didn’t need to worry for either of their safety while she was so unable to do anything to help.
+
+Finally, after an unknown length of time, and a truly staggering amount of weaving later, it was done.
+
+Her blood stars were scattered throughout her form, bound close, ready and waiting.
+
+Bond with me. Then, as she was her body, she grinned and answered herself. Yes.
+
+A pulse of power raced down each tendril of her interwoven soul, crossing the enmeshed lengths in a blink, despite the seeming hours it had taken to create the knit.
+
+As the pulses reached their respective bloodstars in a synchronized moment, spherical ripples radiated out from each bloodstar as it triggered, unleashing her magics to bind her, body and soul.
+
+At the same time, two other things happened.
+
+First, she pulled. Well, she also pushed, and also just moved. What had been enough volume for three of her split, one full body’s worth moving slightly starward, the other slightly stoneward. Those two bodies slotted into the center of their respective webs of reality iron a fraction of an increment away from superficial as experienced by the third and final body which had been left behind.
+
+Her gate remained in each of them, all centered and anchored together, and the interweaving was maintained.
+
+They were three bodies that would naturally mirror one another, creating a robust, four-dimensional lattice of magic and flesh, allowing for her magics to truly spark to life like never before, while completely containing her power like never before, building the magical pressure and compounding the effects of her every spellform many-fold.
+
+And it was flesh, because of the second thing that happened concurrently with the first.
+
+She imposed her will, her authority upon the reality iron, knowing it was her body, knowing it was her flesh, down to each and every part.
+
+The three bodies resonated, each with slightly different makeups.
+
+The one at the heart was, of course, marginally more aligned with reality, the normal iron content was higher, and the attention to minute detail all the more precise.
+
+The one slightly starward held a greater connection with magic. The spellforms weren’t really more densely populated there, but they were somehow more… real? That was a ridiculous word to express it, but that’s the best way she’d come up with it to comprehend the truth of the varied nature.
+
+Finally, the echo that was slightly stoneward bore more of the void magics, actually helping to sustain the inbetween, separate-yet-together nature of her threefold existence.
+
+The entire conglomeration was decidedly, unavoidably magical. She was gated, after all, and to try to truly deny magic from parts of herself would be to deny her self. Still, the balance was set, and Tala’s gate now more closely mirrored Lea’s in that it was not entirely anathema to Reality. More to the point, Tala’s existence actually resonated with Existence.
+
+Now, she was there, all ensconced in her new body, and she knew that she could open her eyes and begin her existence as a Reforged, but she wasn’t done.
+
+Instead, she took what she’d learned about the cities, about the collective unity of all those disparate souls seeing themselves as one united group, and leaned into that.
+
+A mundane human was themselves, and as food came and went, as cells were created and died, as they grew up, they were still themselves.
+
+It wasn’t those individual parts that made them them, it was that they were all together, forged into a singular entity, for a singular purpose.
+
+That, more than anything else, was the origin of calling this process Reforging.
+
+With all of her magical weight, all of her authority, and all of her raw power, she latched onto the loosely joined reality node and accompanying threads and compressed.
+
+She was herself, not a collection of ideas, not a group of body parts, not a being that would fade from existence in time.
+
+She was the Ravenous, Jealous Devourer.
+
+Maternal Iron.
+
+The Iron Matriarch.
+
+Tala Sappherrous.
+
+And she was made new.
+
+* * *
+
+Tala opened her eyes slowly, looking about the now rather nondescript, stone room.
+
+There were places where the now fully used up spellforms had been, but as there was no heat involved in their usage, all that was left in their wake were empty, thin grooves in the stone. The result was that the whole space had a bit of a weathered look, rather than the distinctly magical air that it had held before.
+
+Terry was perched to one side, power roaring into him after flowing through her gate and along their bond and the surrounding sanctum, but Tala, herself, rested in a sort of calm center.
+
+As soon as she found herself curious about what was going on elsewhere, she was immediately slammed with full knowledge of everything that was occurring throughout the sanctum and Ironhold.
+
+Her enhanced mind rose to the occasion, parsing every minute detail with ease and giving her a holistic picture beyond anything that her vague curiosity had warranted.
+
+Alat, take it, please.
+
+There was a delay, and for a fraction of a moment, Tala feared that something had gone wrong, that Alat hadn’t been maintained.
+
+It was a silly concern given that she could feel the magics that facilitated Alat were in perfect working order, as well as the connection to the Archive and the presence of the alternate interfaces slightly different memories on their soul.
+
+Even so, Tala still let out a relieved breath when Alat responded. -Absolutely, Tala. I appreciate the ask.-
+
+As she exhaled, Tala sent a wave of air through the room, her very unconscious desire to exhale in relief causing the wind to respond in this place of her power.
+
+She took a moment to assess herself, finding that her body was responding to the cool of the underground room, goosebumps growing across her exposed flesh.
+
+With the barest whisker of desire, Tala was clothed once more, the garments having grown out of her, while still being her.
+
+In effect, she was just as naked as she had been, but she was showing a different exterior. Her clothing was now more like a turtle’s shell, or a bird’s plumage than a mundane’s clothing, but that was of little consequence.
+
+She felt no need for ‘exterior’ clothing, now. It helped that she could feel her armored form but a thought away from deployment, so there wasn’t even a lingering desire for more protection.
+
+She truly was set.
+
+Her magics hummed through her, her body now—effectively—a magical construct. Those internally set magics harmonized beautifully with her inscriptions and natural magics both creating yet another three-part whole in her new, true existence.
+
+To the side of the room, Terry was almost finished with his own advancement, his spirit being scoured and uplifted through the connection to her and her soul.
+
+Tala knew the process wouldn’t be pleasant for him, but it was effectively just something to bear through, her own advancement having carried him forward.
+
+Still, she would wait here with him through it all.
+
+She’d barely had the thought of going to him, to comfort him through the final stages, then she was there, the barest desire enough to bring her will and authority to effect on the situation.
+
+He was resting in her lap, her arms and hands cradling him close to her torso. After an instant of startlement at the movement, she began speaking softly to him, uttering reassurances and soft nothings, just to let him hear the sound of her voice.
+
+He curled into her embrace, clearly taking comfort in it through the ordeal.
+
+As she stroked his head and back, Tala marveled in the feel of her own physical movement, as well as the softness of his feathers under her fingers.
+
+Her sense of touch had never been more clear, allowing her to feel every ridge and bump as she drew her hand across the avian again and again.
+
+The movements themselves were precise and powerful, giving a sense that she could have moved as easily through sand or water or soil as through the air.
+
+Her every breath felt like it stirred the whole chamber, her lungs acting like great bellows as they drew in more air than should have been possible, before exhaling the same.
+
+Within the circle of her embrace, Tala saw the magics spiraling, purifying him bodily even as they ran along the lines of his natural magics, carving them deeper into existence itself even while they were thickened and made more in some manner that Tala couldn’t quite pin down.
+
+-He is becoming more himself.-
+
+Isn’t that what I just did?
+
+-Yes, but you are a gated. Who and what you were fractured and had to be put back together and guided more than any arcanous creature will ever have to face.-
+
+Magical creature now.
+
+-Bonded creature. He is all three.-
+
+He is Terry.
+
+-The best little murder bird.-
+
+Indeed. Tala grinned happily. Communication with Alat was more seamless than she’d ever experienced, and she felt like she could almost sense what the alternate interface was thinking, rather than just what she sent toward Tala.
+
+Additionally, it felt like Tala could push that last little bit and actually connect in that way, but she chose not to, preferring to keep things as they had been.
+
+Moments later, Terry relaxed, the magics around him calming down and settling into place.
+
+Tala gave the avian a light squeeze before asking softly, “You alright?”
+
+He cracked one eye open briefly before nodding tiredly.
+
+“You just want to sleep?”
+
+He chirped once, then closed his eye once more.
+
+Tala grinned, willing them both to the main house and laying Terry on her and Rane’s bed. “Sleep well, my friend.”
+
+With that finished, Tala finally reached out to Rane through Alat and Enar.
+
+She got an immediate response. ‘Come. Now.’
+
+Tala didn’t hesitate, willing herself out of the sanctum and to the superficial, right next to where Ironhold had been opened into Marliweather before she’d withdrawn it for her Reforging.
+
+She took a brief moment to revel in the sensations around her—opened to her newly heightened senses—before forging a gate of iron on the appropriate wall. It was effectively an empty rectangle, but it was hers and with her power, it acted as a gateway and anchor for Ironhold, allowing that portion of her expanded space to separate off and stay in place.
+
+On one level, it felt odd, knowing that she could effectively leave, and Ironhold would be fine waiting right here until she returned.
+
+It was—and would remain—a part of her, but that was no longer dependent on physical proximity, partially because in the void—where the expanded space of Ironhold actually was kept—physical distance was all but irrelevant.
+
+She didn’t take more time than that—ensuring that the portal was open in the right place on both ends—and she was off.
+
+She almost leapt through the city back to Alan and Martha’s house, but instead, she simply flickered forward.
+
+She didn’t have to press her aura outward, her web of reality iron carried her aura and authority as readily as her own body did, as easily as the iron spikes she’d been using for years had.
+
+The fact that she brought it along with her when she flickered just made it all the more efficient.
+
+She barely had time to blink between flickers as she streaked across the city, arriving less than half a minute later.
+
+Rane was at the door, having known she was coming. “Come on, Love. You need to hurry.” He looked her over and smiled. “Congratulations. I want to hear all about it, but there isn’t much time left.”
+
+Tala frowned. “What?”
+
+He gave her a sad smile. “It’s been a week since you left, Tala. We only got word a couple of hours ago that Alan took a final turn. I’m glad you came out in time.”
+
+She nodded, moving forward.
+
+She still didn’t like what Alan had done, neither him nor Martha, but that culmination of bad decisions was hardly the only thing that had ever passed between them. Moreover, even if that had been the only interaction, Alan had been right. He had left an enduring mark on her that had led her to this place, to who she was and would always be.
+
+He was forever a part of her, and his words had finally pulled the blinders back from her eyes, and allowed her Reforging.
+
+At the very least, she wanted to say ‘thank you’—
+
+They entered the house just in time to see Martha stepping out of a side room just behind Lea, pulling the door closed behind herself.
+
+Lea turned and wrapped the older woman in a hug, Martha shaking with evident sobs.
+
+Tala froze there, on the threshold, her threefold sight—now different in origin, but easily as far reaching in scope—showed her the small bedroom that Alan had apparently been moved to.
+
+Within, a body lay still on the bed, a sheet respectfully pulled up over the lifeless form.
+
+Under the sheet, Alan—the man who had helped raise her—lay in peaceful repose, a gentle smile somehow still tugging at his lips.
+
+Tala’s eyes widened. What?
+
+She’d been… too slow? She’d missed him by mere minutes? How?
+
+It was ridiculous.
+
+Lea and Martha saw them then and moved their way at a sedate pace.
+
+Tala embraced Martha when the woman held out her arms. “He held on to be sure you succeeded.”
+
+Tala pulled back, frowning. “What?”
+
+Martha nodded toward Rane. “He said you were done and coming back here.”
+
+Rane rocked back slightly at the words, but quickly gathered himself and elaborated. “He asked if you had succeeded. I said yes.” He closed his eyes and shook his head. “He didn’t even ask what you had been doing, he just wanted to know that you’d accomplished your goal. I stepped out right after that, coming to meet you.”
+
+Martha nodded, but it was Lea who said the next. “He passed almost as soon as you left the room, Dad.”
+
+Tala found herself sitting on one of the benches in the entry area, not remembering having sat down.
+
+He was gone.
+
+He’d held on despite being ready to die because he wanted to know that she’d succeeded.
+
+That had been enough for him to pass with a smile on his lips.
+
+She blinked back tears, somehow, beyond all expectations, overwhelmed.
+
+Her father was dead.

@@ -1,0 +1,163 @@
+---
+id: 6ba89513-c4ed-5e0c-8735-119382992c94
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 651 - Gifts and Reasons"
+slug: 0156-chapter-651-gifts-and-reasons
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 156
+ownLength: 2587
+unit: words
+ownProgress: 2587
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2869730/chapter-651-gifts-and-reasons"
+royalRoadId: "2869730"
+markedReadAt: "2026-06-29T19:40:03.783Z"
+---
+
+Tala stood tall in the Revered City Lord’s temporary throne room as silence practically resonated around her.
+
+The gold and iron dasgannachs flowed across her exterior, creating beautiful patterns as their various tendrils coiled and intertwined without losing connection with the rest of the singular dasgannach of each type, even as they continued looking for material to devour.
+
+She felt something within them, an odd fraying of their reality nodes that was growing worse with every passing instant that they didn’t consume something, that they were exposed to the air.
+
+With the barest flexing of her will, she gripped the nodes, pulling them back together and allowing them to start to reknit. At the same time, she used the same action to pull the air back from them just barely, halting that vector of degradation.
+
+The creatures—curses? It didn’t really matter—didn’t react, continuing to futilely search for anything they could claim. As such, Tala assumed that their actions were only partially driven by the reality of their situation.
+
+As to material, there was plenty of iron and gold, much of which they were actively touching, but all of it was utterly and irrevocably Tala’s. As such, it didn’t seem to even register to them as either iron or gold.
+
+So, they can inherently tell that something isn’t available to them.
+
+-Doesn’t that mean that your bloodstar, oh so long ago, wasn’t entirely yours?-
+
+Exactly, but we knew that. We offered it up, remember?
+
+-Right, right. So, that was enough to be the bait and hook in one.-
+
+So it seems.
+
+-Poor things. Slaves to their nature.-
+
+Eskau Meallain had taken a step back as Tala had gripped the collar, but Terry hadn’t moved, his faith in Tala unshakable.
+
+In that frozen moment, Tala noticed that the collar had actually been created of an odd amalgamation of gold and iron, mixed with something else that she could only describe as tangible authority, even if that made no sense.
+
+Still, even if she couldn’t understand it—maybe especially because she couldn’t fully understand it—she would not snub such a gift. She bowed in gratitude—even if not in deference—before speaking into the stillness. “Thank you, Revered City Lord. There is so much that I can learn from this collar as well as these fine specimens. This is a truly unmatched greeting gift, utterly beyond what I deserve, and I return the gesture with an offer of a minor boon from myself, as the gift was to me and not my house.”
+
+That sent a ripple through the gathered Pillars and Eskau. Pillar Sanguis seeming to let out a relieved breath as he stepped forward. “We of the House of Blood cannot allow such a gift to our long absent Eskau to go unrecognized, despite the truth of such a gift being specifically for her. We also offer a minor boon to the City Lord.”
+
+The Revered City Lord seemed to relax just slightly. Tala had danced on the edge of outright stating that she was over him, deigning to give him a minor boon, but with the explicit addition of that from the House of Blood? It was reframed as an action of gratitude due to his generosity.
+
+At this point, he could act as if this was his intention all along—thus taking their actions as a bolster to his position and increasing his renown—or he could countermand the narrative that had been handed to him and force a conflict in that moment, his authority and position on the line.
+
+A younger, more prideful man might have taken the second path, but this man was no fool, at least not in this. He smiled, giving a slight incline of his head. “I am glad that my gift is so well received. I was momentarily concerned that I would have to insist.” He chuckled mirthlessly. “Your House has been lesser without your presence, Eskau Tala, and all of Platoiri rejoices at your return.”
+
+The silence of all those gathered stood in stark contrast with his words, but Tala nodded in grateful acceptance nonetheless. “Thank you for the words and the sentiment.”
+
+At her direction, the two dasgannach flowed, one to each hand, balling up near—but not quite touching—the broken halves of the collar.
+
+With a flexing of will, she sent them all into the sanctum, contained and in close proximity, the space altering to fit their needs. At the same time, Tala used her own proximity to the dais and the table of similar collars to grab another half-dozen that were unlikely to be missed.
+
+The acts of will had been accomplished concurrently, and apparently no one noticed the second, at least not for the moment.
+
+The man turned and strode the rest of the way up the steps of his dais before sitting on his throne once more. “In light of Eskau Tala’s arrival and continued… freedom, a change to the laws is required.” His tone took on one of absolute authority, existence itself seeming to resonate with his pronouncement. “Gated users of power may be free within the bounds of Platoiri if they are under the control and authority of a Major House or other recognized, allied entity of note.”
+
+As his words faded, Tala gave another bow. “Thank you, Revered City Lord. In light of your magnanimity, It would be my honor to introduce to you, and all those assembled here, my husband, Paragon Rane Sappherrous.”
+
+Instantly, Rane appeared beside her, his Paragon aura sending an almost tangible pulse through the hold as it pushed back the other powers, magic, and auras with a brutality that belied the kind man she knew and loved.
+
+Still, this was a side she had seen and been drawn to for years.
+
+Rane stood tall, having arrived a bit behind her and to the left. Force was out and resting casually across his shoulders, one hand on the hilt. His clothes clearly designed to be courtly, and their quality and cleanliness made them appear to be brand new.
+
+The only armor he wore were two bracers of white steel, thick bands of metal that coated him from wrist to elbow, seemingly each of one piece as they clung perfectly to his flesh.
+
+Inscriptions danced with power within his flesh, even as his magic was tightly contained. Even his aura—which he’d briefly pulsed out upon his appearance—was obviously under precise control.
+
+His appearance caused a rather different reaction than Tala’s arrival had.
+
+Many of the gathered Eskau and Pillars had fought gated throughout the centuries, and most of those would have been Paragons or above. As such, the appearance of one such in their midst caused an outpouring of exclamations, gathering magics, and drawing of weapons.
+
+The Revered City Lord stood in a rush, his power and authority billowing out in a wave.
+
+Contrary to what Tala expected, the man suppressed all of those who were aimed at Rane with hostile intent. “Cease!”
+
+Silence once more fell upon the assembled crowd, though blades, whips, clubs, and hammers of all sorts were all in evidence, many Eskau having brought their protian weapons forth in defense of their Pillars in the face of a perceived threat.
+
+Rane didn’t even look around as he sheathed Force and bowed appropriately to the Revered City Lord. “City Lord. It is my honor to come to Platoiri, where my wife was so well treated in the past. I hope that I can return that hospitality, kindness, and courtesy at some point in the future.”
+
+The already standing arcane looked down on Rane, a grin spreading across his features. To Tala’s surprise, the expression seemed utterly and entirely genuine. “Paragon Rane Sappherrous, it is long since I have crossed blades with one of your rank. Though, I sense you are still a youth in the grand scope, I trust that your advancement is hard won and rightly earned. It would be my honor to enter the sparring ring with you in the near future, if you would be so inclined.”
+
+Rane smiled in like kind, though his did not reach his eyes. “I gratefully accept your invitation. Though I do not know when my other duties will allow it.”
+
+“Oh? What duties do you speak of? Are you already bound to the House of Blood, then?”
+
+He shook his head, his smile finally reaching his eyes. “No, City Lord. I am charged by an ally of the House of Blood with accompanying and protecting their ambassador.”
+
+“Ahh, you speak of gated humanity to the north, then?” He gave a slow shake of his head. “Unfortunately, they are not an ally of this city. Therefore, I will have to insist on a collar for you, that you may enter Platoiri. Though, I will gladly remove it upon your departure, at your desired time. I will, of course, extend the same offer to the ambassador that Eskau Tala has brought to us.”
+
+Rane gave a small nod. “I appreciate that kind offering, but I think you misunderstand. Mistress Tala Sappherrous, Eskau of the House of Blood, is not escorting the ambassador.”
+
+Confusion only flickered across the Revered City Lord’s features for an instant before he understood. Tala was the ambassador.
+
+Moreover, because the ambassador was also a part of the House of Blood, all of her retinue and retainers would fall under that House’s authority. In granting Tala a forbearance from the collar in the manner he had chosen, he had inadvertently granted the same to all who had come with her. His annoyance was clear, but he was also just as clearly unwilling to alter the laws further. “I see. Very well, then. It seems that today is filled with changes in perspective. For the sanity of my peace keepers, will you and yours consent to wearing a small, non-magical emblem to indicate your status and avoid potential situations of… diplomatic awkwardness?”
+
+Rane glanced toward Tala, and Tala nodded before speaking for them both, “That is wisely suggested. We will happily do so, within reason.”
+
+The man gave a small smile. “Within reason, of course. How many will you require?”
+
+Tala only had to think for an instant. “Five.”
+
+“And who might these five be?”
+
+“Myself, my husband, my daughter, my adjunct, and a lead purveyor of magical artifacts within my hold.” Artia shouldn’t need to leave Ironhold, but her status as non-Bound meant that she would actually be in the most danger if she were so exposed.
+
+“Lead purveyor of magical artifacts?” He huffed a laugh then waved dismissively. “For so few, I will not contest the inclusion of even such a one. The emblems will be delivered to the House of Blood’s hold within the day.”
+
+“Thank you.”
+
+“Now, Ambassador, what matter of import was so overpowering as to allow for this diplomatic attempt after so many years of hostile peace?”
+
+Tala took a deep breath. This was it. This was where all this maneuvering could fall apart into all out war. If that happened, she wasn’t sure how the House of Blood would respond, and even if they did side with her, she had no idea if she would escape this hold alive. “Toward answering your question, let me introduce my daughter to you, Bound Lea Sappherrous.”
+
+Lea appeared before the Revered City Lord could comment one way or another on the idea.
+
+If Rane’s appearance had been a proverbial skunk in the middle of a party, Lea’s was a fresh corpse.
+
+Many people were stunned and confused, not really understanding what they were seeing, while instantly realizing that something was odd—the gate in the girl’s head was an instant proclamation of that to anyone with the senses to see.
+
+The few who instantly identified her as an automaton were seemingly torn between attacking, fleeing, and demanding to know what was going on.
+
+Before anyone could act, Eskau Meallain stepped forward and raised her hand to draw attention. “I, Meallain, Eskau of the House of Blood, proclaim that this is a free soul, bound to and housed within an automaton-like body, not an automaton utilizing a gated soul as a power source.”
+
+Her announcement was like a Healer proclaiming that the ‘corpse’ was just a very real imitation. As such, no one seemingly knew how to take the current situation.
+
+The Revered City Lord’s eyes flicked between the various Sappherrouses, then over to Eskau Meallain, and finally to the House of Blood and their supporters, where he could not help but notice that the Pillars and Eskau of that House had been caught entirely unaware.
+
+Notably, Eskau Pallaun’s fists were all but invisible within a dark mist that it was hard to focus on, even for Tala’s threefold sight.
+
+Rather than waiting to see how things would fall, Lea opened her mouth to speak into the renewed silence.
+
+Oh, please don’t make a joke.
+
+-Agreed, as funny as it would be, this situation would be almost impossible to recover if she did something like that.-
+
+Thankfully, the girl seemed to realize the same thing—they’d explained it enough in preparation for this, after all—and she spoke with a clear, calm voice. “I am Lea Sappherrous Bound of the Cycling Cities. I am the first, true daughter of Rane Sappherrous, Paragon of the Cycling Cities, and Tala Sappherrous, Reforged Ambassador of the Cycling Cities and Eskau of the House of Blood. This is the form into which my soul was manifest, and I have never known another. It is bound to my soul, not the other way around. I am not an automaton, no matter how many features I share with them.”
+
+To Tala’s sight—and to the vision of the few others who could see souls—her words were absolutely true.
+
+The seven Pillars of different Houses stepped forward one after another to state the same, ceremonial phrase. “The girl’s words are true by her soul and my sight.”
+
+Some were baffled, others clearly angry that they were forced to support such a thing, but none were so without honor as to try to lie about what they’d seen.
+
+The Revered City Lord acknowledged each in turn. Finally, he looked toward two more, each of which shook their head before stating with a similar amount of ceremony. “I will not support nor disparage the words spoken.”
+
+Tala’s eyes widened at that, and Rane looked confused for only a moment before Alat seemingly filled him in.
+
+At a basic level, they were saying that they would not comment one way or another, but after seven others had confirmed that Lea believed her own words were true, their refusal was essentially saying that they didn’t care, and that they were in opposition regardless.
+
+One was of the House of the Frozen Lance, which had already made a point of snubbing Tala. The other was another new house, but Tala let Alat catalogue which. She had other things to be focusing on at the moment.
+
+The Revered City Lord grunted. “Very well. Now, Eskau Tala, we have been introduced to your… daughter. I hesitate to ask again—and I fear we all already know due to context—what prompted your visit?”
+
+Tala straightened her shoulders, locking eyes with the man despite his higher position. “Your fears are well founded. I come to proclaim that the Black Legion is on the move, and we expect that war could resume at any moment. I come to call on the old pacts. How answers Platoiri?” Her gaze swept the reeling faces of those in attendance. “How answer the Major Houses?”

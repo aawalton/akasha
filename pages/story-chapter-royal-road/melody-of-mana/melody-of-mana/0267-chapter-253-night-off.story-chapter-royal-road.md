@@ -1,0 +1,89 @@
+---
+id: 89c2232d-8fd0-588e-9bb9-4f5bfba9b712
+page-type-slug: story-chapter-royal-road
+title: "Chapter 253 Night Off"
+slug: 0267-chapter-253-night-off
+partOf: melody-of-mana
+position: 267
+ownLength: 1577
+unit: words
+ownProgress: 1577
+publishedAt: 2023-07-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1277586/chapter-253-night-off"
+royalRoadId: "1277586"
+markedReadAt: "2026-06-29T22:35:02.462Z"
+---
+
+I stood in the small central square where I'd once killed a former teacher, looking about. It was odd to be back here again, back at this place that had been so nice, but filled with unpleasant memories. The square itself was bedecked in small paper lamps, that if I had to guess were being lit with magic.
+
+There were as many traditions for spring as there were settlements in these lands. I'd never gone to one in my home village, even if they'd happened, as I'd been a bit on the young side, but they did happen. Normally a village would slaughter several of the animals, and have a small meal with games and food when times were good. Times had not been so good in my younger years.
+
+All of this was done after the planting of course, and to celebrate the new year. Winter was harsh even in the milder places in our country, and spring initiated a flurry of work. That work was followed up though with much lighter labors until harvest, another time when large festivals were held.
+
+“This is all quite strange to me,” Ulanion said as we munched on some of the prepared snacks.
+
+“Me too, at least a bit. I never really went to the spring festival in Lithere, I was working or in school, and it's more for adults,” I agreed.
+
+“More for adults?”
+
+“When else might people get together to 'plant their seed' with one another. Good time for young couples.” I wiggled my eyebrows at him a bit and he laughed.
+
+“When you put it that way, I guess it does make sense,” he finally got out, returning my eyebrow movements.
+
+“Harvest was bigger when I was little too. I think it's like that? Spring is more of a city holiday, harvest more for the countryside. Mostly because it's when like, all of the work is finally done for the year and you basically go hide in your house for several months.”
+
+“The weather on this continent is weird, I hope you understand that.”
+
+“What's it like over where you're from? Hot and steamy most of the time?” He didn't miss the smile and I was glad.
+
+“Yeah, or raining. You guys missed the rainy season with your visit, and we hadn't had a winter in some years. Those are a right mess, but at least we get a warning for it.” He leaned back, stretching and I leaned forward, waiting.
+
+“Seriously though? It gets cold? Aren't you all in like, the hottest section of the world?”
+
+“Only once every few decades. It's something magical, but you'd need to ask one of the people who studied it to get a real explanation on why it happens.” He shrugged, clearly not having the answers here, then flicked his eyes from me to the square where dancing was going on. “Join me?”
+
+“Thought you'd never ask.”
+
+I had to admit, this wasn't like other places I'd been. The elves had their styles of dance, fast and with lots of hip movement, the rich had theirs, slow and fancy. This though, this was another thing altogether, these were the same things that the peasants had used to use, and farming communities still did, to celebrate the turning of the year. There was no formality to it, the movements were only very generally proscribed. It was fun though, just fun, no worries, no stress about where or what you had to be, you could just be.
+
+So I went with it, I laughed, and twisted, I moved either with just him or with a group to the wild, informal music someone had decided to bring to this event. Many of our people were from villages like mine had been, or from cities like Lithere still was. They led us in dance after dance until late that night I finally swayed, held close with my face buried in Ulanion's shirt, resting.
+
+The night here was nearly perfect, the air warm and rich from the billowing steam that never seemed to escape this little valley. Sometimes you'd get a breeze that was just a bit chilly, but after giving a refreshing jolt it passed away, replaced by the pleasant air once again.
+
+Since I was in charge around these parts managing to reserve one of the little rooms that were being built up had been easy as pie. It had it's own hot bath, was wonderfully warm, and served as an easy spot to have a cozy night without having to go all the way home. It also made sure that we'd be undisturbed either over the evening or in the morning, without letting my servants know to go away. I needed to figure something out for that in the future that wasn't too obvious.
+
+I made it back to the fortress by early afternoon, and was massively refreshed. It was a perfect little mini-vacation, even if only one night and I would need to schedule something like that more often. Perhaps we could institute a proper vacation policy here, that would be a real change from how this world generally handled such things.
+
+As soon as I stepped through the portal though my day started to go downhill. Several of the soldiers were up in arms, and before I had time to register what was going on one of my students, Leah, approached me in a rush.
+
+“Thank goodness, there you are! Unrecognized portal miss, on the premises, activated five minutes ago.”
+
+“What!? Where?” I tried not to shout, but struggled.
+
+“In your lab, just happened and when you didn't respond to the calls there... we'd feared something had gone wrong. There's a breaching team readying now to go in.”
+
+I power walked over to my lab, all the relief melting like snow in a volcano. The looseness in my muscles that my good night had helped me achieve was gone, replaced with tight tension as I walked up to the team of heavily armored knights preparing to try and break down the door to my workshop.
+
+“I've got the door, you guys lead,” I commanded, and the leader of the team nodded as I got my personal shields up.
+
+With a quick movement the door popped open and they rushed, shields held out before them. It was almost like looking at video of a SWAT team entering a home, and in practice it very much was similar, with less guns and more magic. I heard them sweep the room, looking for any threats as they shouted at one another.
+
+Eventually their commander came back out, with an envelope in hand.
+
+“Er, there's a gate in here ma'am, did you know that?” he asked.
+
+I felt my face fall, one hand going to massage my temples. “Yes, my apologies I moved that there awhile back. I've been telling it to ignore the place, but when I left I must have left one of my alarms on and tripped it. Is there anyone there?” I knew there was only one person who'd activate it, and if he didn't want to be seen, he wouldn't be.
+
+“No ma'am, just a letter in front of it. Policy says we should check things like this for poison...” He seemed concerned about my reaction that he would take something obviously intended for me without my permission, but hadn't offered it out yet.
+
+“Then do so, we have those for a reason. Mind if I talk to your men for a moment?” I was glad he was sticking to procedure here, and gave him a smile.
+
+“Of course,” he answered briskly.
+
+I gave a brief apology to the team for wasting their time, explaining that I'd made an error and thanking them for such a quick and well executed response. I didn't like to admit my failings, but I'd learned a lot of things from Durin's rule, and one of those was that treating your people well tended to work well. Following someone who would freely admit a mistake, and tell you that your actions in response were perfect when you did what you were supposed to built trust in the system. It also made sure that when things really did go wrong that there wasn't a lack of response due to fear of reprisal.
+
+It took hours for me to finally get the letter back. It came with one from the staff stating that they were unsure what in the world it said, but it didn't display any indication of poison or any odd residue of magic. There were a few magical substances out there that were pretty unpleasant after all. I'd not wasted the time waiting though, instead tracking down the alarm that had alerted everyone and changing the parameters ever so slightly to avoid this situation happening again.
+
+It was a list of instructions from Justin, telling me to send a lamp through if I needed a meeting, with a color code to indicate the severity of the situation. He also told me how he would respond, which was by returning my lamp when things were ready. I was warned against trying to venture through until that was done though, as it might be dangerous to do so.
+
+It took less than ten minutes to make a hand-sized light with a bright blue radiance and toss it through. The message was simple, 'large issue, not immediately dangerous' and I hoped to see him soon.

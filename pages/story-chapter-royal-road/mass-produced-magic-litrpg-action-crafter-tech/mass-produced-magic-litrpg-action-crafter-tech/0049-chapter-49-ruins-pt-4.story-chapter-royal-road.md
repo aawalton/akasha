@@ -1,0 +1,161 @@
+---
+id: 7f9c4fd5-8de8-50c6-a7a8-9e3489c1351f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 – Ruins – Pt 4"
+slug: 0049-chapter-49-ruins-pt-4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 49
+ownLength: 1828
+unit: words
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2022661/chapter-49-ruins-pt-4"
+royalRoadId: "2022661"
+---
+
+Aika dove behind Kindra and laughed, the soft sound bouncing around the stone walls. Kindra chuckled with her, looking at the charred dwarves. Burns remained in their clothes, and smudges of ash were on their faces. A few hairs smoldered, and Gleon chuckled, shaking his head and knocking away the charred remains of several hairs.
+
+Tob sighed and massaged his chin. Errant singed hairs fell out, and he sighed. “Every damn time.”
+
+“Why even have them?” Kindra asked with a large smile.
+
+Gleon scowled. “It’s a mark of honor.”
+
+“It’ll regrow within the week,” Tilly replied, chuckling. “And it looks fine.”
+
+“It’s not. It’s the greatest travesty that has—”
+
+Kindra gasped and looked at the strange dwarf who’d entered the passage. His eyes were red, his skin appeared to be gray, and he was wearing gleaming armor. Reaching down, he grabbed for an axe, yelled, and charged.
+
+Gleon spun and did the same. His axe slammed into the metal armor. Sparks flew into the air, and the dwarf slammed his axe into Gleon’s leather tunic.
+
+Kindra jerked her crossbow up. She aimed, and Tob launched himself forward, his hammer slamming into the armor with a crunch. The red-eyed dwarf coughed blood and dropped, slumping to the ground.
+
+The sound of footsteps filled the air, and two dwarves charged out of the tunnel. Aika zipped out after them, and Kindra jogged forward. She peeked around the edge.
+
+The cave had opened into a stone hallway, and a group of the strange dwarves raced forward. Four of them hit the two in a clash of metal. Aika zipped into the air, and a boulder ripped from the wall, shooting toward her.
+
+Rage flowed through Kindra, and she swapped the crossbow, pulling out the nine-millimeter and resting it in her palm. Glowering at the caster in the back, she looked down the barrel and burned mana.
+
+[Basic 9 millimeter has been enhanced with armor-piercing rounds for 8 hours. Each shot will negate up to 30 stamina when fired. This effect lasts ten seconds after being fired.]
+
+She exhaled and pulled the trigger. The gun barked. The mage jerked back, and the bullet blew through her chest in a spray of blood.
+
+The caster screamed. Magic pulsed around her, and an enraged Aika shot forward with her armor aglow. Her spear whirred. Stone ripped from the ground, and Kindra pulled the trigger.
+
+The gun barked, the bullet sang, and blood sprayed from the caster’s chest. She wobbled, and Aika slashed across her throat.
+
+The caster dropped, blood flowing onto the floor. The remaining four dwarves went wild, cursing and slashing recklessly. Rotating, Kindra exhaled and waited for a clear shot. Aika zipped down and stabbed one in the back. It spun, and Kindra fired. Blood sprayed, and a rock smashed another into the floor.
+
+A surge of magic washed across Tob and Gleon, their wounds closing. The sounds of battle died with it, blood oozing across the floor. The smell washed over Kindra, and she felt like gagging.  What?  Surprise and disgust spread across her face, and she leaned down and sniffed.  Why does it smell rancid?
+
+The mana oozed out of them, and she tried to figure out why it felt strange. Mana flowed elsewhere, and she frowned, reaching for it and jerking it back toward them. Another presence tugged back.
+
+What?  She grabbed it and jerked it into herself. A smoldering heat flooded through her.  Strange. Why is it hot?  She reached out and grabbed the streams going elsewhere, pulling them back.
+
+Tilly leaned closer. “Be ready for others. Your weapon is loud.”
+
+Kindra flushed and nodded. “Why attack them? They’re dwarves.”
+
+“Because they’re more monster than dwarf,” Gleon said, shaking his head and reaching down. He grabbed one of the bodies and pulled it up, pointing at fading marks on the skin.
+
+Kindra leaned forward. “What are they?”
+
+“It’s easier to see in the light, but they made a pact with the elemental lords.” Gleon shook his head and frowned.
+
+“A pact?”
+
+Tilly nodded. “I don’t fully know the details, but it changes them.”
+
+Kindra studied the body, and a wave of wrongness washed over her. It surged, and she jerked up, pulling her gun up and looking down the sights.
+
+A stone golem walked into view, its heavy feet thumping against the stone. It turned, and Kindra gasped.  Is that a dwarf?  The humanoid stone golem looked at them with brown eyes embedded in the stone. Kindra shivered.
+
+“Join us,” it bellowed, its voice shaking the stone and echoing through the cavern.
+
+“Not on your life.” Gleon charged with Tob on his heels.
+
+The golem replied in kind, whirring forward. Kindra swapped her pistol for the rifle. She exhaled and aimed for its eye.
+
+With her heart thundering, she pulled the trigger. The gun barked. The bullet zipped forward, and the eye exploded. Blood, gore, and stone burst into the air. The golem crashed to the ground, and the two dwarves smashed into it, breaking off pieces with their weapons.
+
+Stone shattered. Blood sprayed, and Kindra watched the runes inside the body fade.  Why do those look familiar?  She frowned, and the realization hit. It had several that were in the plague that had brought back the undead.  Different, but some are the same.
+
+Another spray of blood hit the air, and a spirit wafted into the air, surrounded by a web of magic and runes.
+
+Kindra reached out and ripped the spell away. The spirit turned toward her. Warmth surged through Kindra, and the spirit vanished.
+
+Strange.  Kindra looked at the golem. The stone was strangely flesh-like. Blood oozed on the floor, and a dozen dwarves burst around the corner.
+
+Angry red eyes turned toward the group. “You’ll pay fer that,” one snarled. It reached for an axe, and stone smashed into the group, ripping from the walls and crashing down on several.
+
+The rest dashed forward, and Kindra swapped back to her pistol, stepping closer to the group and aiming.
+
+Gleon crashed into them. The sound of steel on steel filled the air. Blood oozed from wounds, and Kindra fired. The gun cracked out a warning. The bullet zipped forward and blew through a dwarf’s head. It crumpled, and a rock smashed into another.
+
+Aiming at another, she heard Gleon grunt. Blood ran down his body. A sword was buried in his chest, and he coughed, spraying blood into the air.
+
+Shit!  Kindra unloaded, rapidly emptying the magazine and reaching for a spare.
+
+Aika zipped forward, her spear blurring and stabbing at the dwarves, opening small wounds.
+
+The dwarves ignored her, and Gleon fell, hitting the ground with a thud. Green magic flowed through the air, and three dwarves charged toward Tilly.
+
+Kindra slammed the replacement magazine in. Her emotions surged.  Breathe.  Time seemed to slow as her heart thundered. She pulled the trigger.  Breathe.  The bullet exploded through a dwarf’s head.  Breathe.  She exhaled and forced her trembling hands steady, pulling the trigger.
+
+The gun barked. Blood sprayed from the dwarf, and she pivoted.  Breathe.  Exhaling, she fired. The gun barked. The bullet ripped through the armor, and blood sprayed from the dwarf’s heart. A furious Gleon ripped himself off the ground and slammed into the three dwarves like a wrecking ball. His axe blurred, and gore burst into the air.
+
+Kindra turned her focus and saw Tob. He was covered in blood. It ran down his body in small rivulets, and he wobbled. Green magic surged through the air, and heavy steps sounded from the hallway. Metal crunched on stone, and Kindra swapped her guns.
+
+Gleon and Tob staggered toward Tilly, leaving a trail of blood. Tob growled, his hand pouring out a rain of bloody droplets.
+
+Kindra forced her eyes away, raising the gun and fighting with the emotion that wrapped around her throat.  Don’t panic. Breathe.  A metal creature burst around the corner. It turned toward them, revealing a glowing gem in its head. The golem crunched forward, and Kindra fired, her hands shaking.
+
+The bullet went wide, blowing past the golem and bouncing off the rock wall.  Damn it, Kindra.  She swallowed.  Breathe.  With her throat and the cave closing around her, she exhaled and fired. The bullet burst out and punctured a hole through the metal thing.
+
+Its large legs continued forward, an unrelenting and unstoppable force. The air grew thin, and a voice rippled through Kindra’s mind.
+
+“Kindra! I need mana!”  Aika shouted.
+
+Kindra willed it to Aika, and Aika zipped forward, her entire body glowing. Like a dazzling flare, she shot into the bullet hole, vanishing into the golem.
+
+“Aika, no!”  Kindra shouted. She aimed and hesitated.  “I’ll hit you!”
+
+The golem thumped forward, and its eye burst from its socket, tumbling down the stone.
+
+The golem spun, its gears whirring wildly. Kindra stepped backward, following the retreating dwarves and moving as quietly as possible.
+
+“More mana!”  Aika shouted.
+
+Kindra willed more mana into Aika, letting her take some absurd amount.
+
+Like a living bullet, Aika burst from its skull. The golem slapped upward, barely missing her.
+
+Aika zipped around it and dove through an eye socket. Its fist connected with its head. Metal crunched, and gears squealed. Smoke and sparks burst into the air, and the golem crashed to the ground, metal smashing onto stone. Aika burst out of a hole and grabbed the eye gem.  “Kindra! Grab it!”
+
+Kindra dashed forward. She reached down and placed her hands on the golem, willing it into her storage. Grabbing swords and armor, she did the same, stashing as much metal as she could.
+
+Turning, she ran back toward the dwarves. Gleon coughed, blood oozing down his chest. Tob stood there, blood coating his body.
+
+Kindra blanched and nearly fell over.  How did this go so wrong?  She grimaced, and footsteps filled the air.
+
+“Go,” Aika whispered, gesturing to the tunnel.  “Kindra, take the mana from it if you can.”
+
+Kindra grabbed the mana and ripped it into her. She turned back toward the tunnel. “I’ll help, Aika.”
+
+“Kindra, I need you,” Tilly whispered, gesturing to Gleon.
+
+Looking down, Kindra realized.  I have to carry him out.  She swallowed. “Aika—”
+
+“Don’t worry. I’ve survived worse.” Aika flew to the corner.
+
+Reaching down, Kindra grabbed Gleon’s legs. She followed Tilly toward the tunnel, struggling to keep the dwarf in her hands. His weight dragged against her fingers, and she willed mana inward.  Should have done this sooner.
+
+[Your mana has increased: 5341  →  5684]  ‎ [Your mana has decreased: 5684  →  4584]
+
+[Your level has increased: 10  →  15.]
+
+She willed it all into strength before the prompt could show up.
+
+[Your intellect has increased: 18  →  28.]  ‎ [Your strength has increased: 14  →  34.]
+
+Strength flooded through her muscles, and she willed the other notifications away.  I can get them in a minute.  She moved up the cave and away from the sound of footsteps.  “Be safe, Aika.”

@@ -1,0 +1,169 @@
+---
+id: 5bb19395-a13d-56d8-8316-07b60b38a6b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55 – Golems – Pt3"
+slug: 0055-chapter-55-golems-pt3
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 55
+ownLength: 1798
+unit: words
+publishedAt: 2025-02-04
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2048148/chapter-55-golems-pt3"
+royalRoadId: "2048148"
+---
+
+Kindra walked out of the hut and headed down the tunnel, slipping by a few dwarves and heading for the growing light. Blinking repeatedly, she forced her way into it, moving to the exit. The forest was lit with the sun above. Birds were chirping in the branches above. A soft breeze blew the leaves, and a guard spun toward her.
+
+He raised his brown and stepped forward, his polished armor gleaming in the blinding light. “Business?”
+
+“I need to make paper.” Kindra smiled at him, and he frowned back. Then he staggered, his eyes going wide.
+
+Aika burst into laughter and landed on Kindra’s shoulder. “Kindra, this is Kode. Kode, this is my bond.” She smirked at him.
+
+Kode stared at her, bowing slightly. “Must you hide every time, lady fairy?”
+
+“Yes.” Aika smirked. “It’s funny, and you all act weird around me… Except Gleon. He’s cool.”
+
+“I didn’t mean offense by it, my lady. Forgive me?”
+
+Aika sighed. “Let’s go, Kindra. He’s doing it again.” She looked back at him. “When I figure out how to contact the fae, I will.”
+
+“Thank you, my lady.” The guard bowed and gestured toward the illusion. “You’re free to go.”
+
+Kindra walked up and looked through it, studying the forest.  Seems clear.  She stepped outside and walked into the woods, enjoying the smell of dirt and plants. “Does that happen a lot?” she asked Aika.
+
+“Always. It’s sort of fun, but it’s also really annoying.” Aika sat down, her legs dangling down Kindra’s chest. “I have no idea how to contact the fae or get them allies. For all I know, they’re dead.” She paused. “Yes, I had that dream when I died, but that wasn’t real.”
+
+“Why?”
+
+“They spoke English. Know any fairies who’ve been to Earth?” Aika snickered.
+
+Kindra chuckled. “I see your point.” She walked around a large tree, searching for one to use for paper. “Maybe it was a translation?”
+
+“Nope. He was speaking something I didn’t know and then swapped.” Aika sighed. “Besides, it’s not helping us with languages here.”
+
+Kindra nodded. “We’ll figure it out.” She picked up the pace, jogging into the forest and enjoying the little sun that broke through the thick canopy above. The breeze rippled by her, blowing her hair here and there.
+
+Slowing, Kindra turned.  I need a compass.  She jogged toward the distant river, moving back toward the cliff and using it as a guide. Her thoughts flickered to the shield that she’d used in her dreams. She began working on the on the counter runes while she ran around trees.
+
+Jogging forward, the sound of the birds chirping faded, leaving nothing but the sound of rustling leaves. Like nails on a chalkboard that made her hair stand, the silence ripped her thoughts back to her surroundings. Pulling out a nine millimeter, she burned mana.
+
+[Basic 9mm has been enhanced with armor-piercing rounds for 12 hours. Each shot will negate up to 25 stamina when fired.]
+
+Keeping it ready, she continued her path, jogging toward the stream and searching for any sign of the cause. A howl rang through the air, and a feeling of dread passed over her. Another howl happened moments later. Turning toward the cliff, Kindra swallowed.  “Aika? Do you see it?”
+
+Aika blurred toward the sound.  “I may need mana.”
+
+Kindra nodded and willed some over to her. Aika shot into the trees like a bullet, vanishing behind a trunk.
+
+Moving closer to the cliffs, Kindra stood next to a bush and hoped it would obscure her. Howling bounced around her, and she aimed, searching for the source.
+
+“Found them! Canine things. They can’t jump that high or climb.”
+
+Kindra spun and looked at the cliff, burning more mana.
+
+[Basic dress has been enhanced for 6 hours, granting +15 strength and +15 stamina to the dress and wearer.]
+
+Grabbing small ledges, she began scaling the face.  This has gotten a lot easier.  She grabbed the stone and pulled, lifting herself higher and higher. Spotting an outcropping, she crawled forward.
+
+“Incoming!”  Aika shouted mentally.
+
+Kindra ripped herself up the cliff, scaling it like a desperate spider.  Faster, damn it. Faster!  Her heart thundered. She clawed against the stone, scratching her fingers and ripping herself upward.
+
+A large, black canine burst out of the forest and leapt. It opened its mouth to reveal massive teeth. Its fur rippled in the wind, and a speeding Aika slammed into it like a bullet, driving her spear deep inside while smashing into it.
+
+The wolf slammed into the rock, its blood spraying into the air. Aika ripped the spear free and shot upward. The dire wolf dropped, its tail flailing as it hit the ground and bled. Looking up, it snarled, and a half dozen others burst from the forest, launching themselves off the ground.
+
+Kindra grabbed the outcropping and hauled herself up. A half dozen massive wolves flew through the air toward her, and she raised the gun, pointing at the first wolf while letting her emotion fade away.
+
+The wolf’s eyes met hers. They gleamed with predatory insight, magic leaking from them. Kindra pulled the trigger. The gun barked. The bullet flew, smashing into its skull with an explosion of blood and bone.
+
+Spinning robotically, Kindra aimed at the next wolf. The greed in its eyes faded as realization hit. She fired, and the bullet blew through its skull, spraying the forest.
+
+The other wolves flailed, and a fairy blurred by, her spear moving at high speed and slicing deep through their fur. Blood leaked and oozed, the vibrant red sprinkling to the ground below.
+
+Kindra pivoted, dismissing the gun for a hammer and swinging. Like a bat hitting a baseball, a crack rang through the air, and the wolf smashed into the other, flying off and dropping down fifteen feet with a heavy thud.
+
+Dismissing the hammer, Kindra pulled out the pistol and looked down. The surviving wolves turned and ran, sprinting for the trees and leaving the wounded or dead behind.
+
+At least they aren’t suicidal.  Kindra aimed and fired, the slug sinking into one’s back. It yelped and continued running. Aika shot by moments later, her spear blurring and cutting into each.
+
+Kindra watched them fade.  I need to get her axes.  She dismissed the gun and looked out into the forest.  And I need to get the carcasses back.  She pulled out a sword and turned part of it into two fairy-sized axes.  There we go.
+
+Smiling, she stashed them.  “Aika? Clear?”
+
+“Yes. I got two more.”
+
+Kindra looked down.  I wonder how far I can jump down now.  She turned and lowered herself down instead, dropping down the last ten feet and landing with a light thud.
+
+The sound of footsteps made her spin. She turned and saw Kode walking up. He looked at the wolves and looked back at her in surprise.
+
+Kindra reached out and ripped the mana into herself. “Hi, Kode.”
+
+“Hello, Kindra. I’m impressed.” He looked at the ledge. “Smart.” Reaching down, he grabbed carcasses, easily lifting them off the ground. “Your family will have first rights, but we need the food, and it will go bad.”
+
+“What are the policies right now?” Kindra asked.  I don’t even know.
+
+Kode chuckled and shrugged. “Try to help each other? That’s all we can do.”
+
+“Makes sense. Aika said there are a few more in the forest.” She reached down and grabbed one. Kode snagged it and nodded toward it.
+
+Kindra turned and headed for the trees, following Aika’s trail.
+
+“And you came to make paper?” Kode asked, blood dripping from his fingers. Some of it got on his long, blond beard.
+
+“Yes, but I was heading to the stream first. I wanted to get a drink and find some supplies.”
+
+“Makes sense. I can escort you and come back.”
+
+Kindra sighed.  Maybe I can sneak some blood.  She rounded the tree and found two more dead wolves along with Aika.
+
+Aika fluttered forward and sighed. “There were at least six more, but they ran off.” She grinned at Kode. “Did Gleon tell you to follow us?”
+
+“It’s best to have backup for the young.” He smiled.
+
+“You’re young!” Aika said, scoffing.
+
+“Yes, but so are you.” He chuckled.
+
+Kindra walked up and picked up the corpses, pulling the mana into herself and lifting the corpses. Bending her head, she sank her teeth into its neck and drank, pulling the metallic-tasting fluid into her mouth. Like the rarest, most delicious steak, it roared through her veins, and she felt a surge of energy come with it.  Why is that so good?
+
+Releasing the corpse, she licked her lips and wiped them with her hand, looking over and seeing Aika tormenting their new guard.
+
+“… Can’t even grow a beard!” Aika smirked.
+
+“You’re very improper, you know that?”
+
+“Because I’m not a lady. I’m Aika, the mechafairy!”
+
+“I don’t even know what that means.”
+
+Kindra laughed. “Come on, you two.” She turned and headed to the stream, enjoying the smell of the bloody carcasses beneath her nose.
+
+The sounds of the birds above resumed, and Kindra felt eyes on her spine. “Aika, be careful. The scavengers are out again.”
+
+Kode nodded. “They always do this. Drop the carcasses if needed.”
+
+“I’ll just kill them.” Aika grinned and flexed while fluttering up into the air. A large black and white bird swooped down. It opened its beak, and Aika zipped by it, moving at high speed.
+
+She has gotten faster. A lot faster.
+
+With her wings throwing herself through the air, Aika blurred past the bird, slicing its throat on the way by. Blood sprayed into the air, and it crashed into the ground. Kode reached over and grabbed it, adding it to the pile.
+
+Aika flew by, soaring over to Kindra with a grin. “Thanks for the levels.”
+
+“You’re a lot faster.”
+
+“The strength helps. I’m balancing it all a bit.” Aika grinned and landed on the wolf carcass. She looked up at the trees.
+
+“Oh. I have something for you.” Kindra willed the two small axes out onto it.
+
+Aika snatched them up with a grin. She swung them, testing them out. “Thanks. The spear is great, but sometimes I need to chop things.”
+
+“My feeling exactly.” Kindra smiled at her and walked around a tree, freezing on the other side.  What the hell is that thing?
+
+Looking like an overgrown hippo, the gray-skinned creature waded out of the river, its skin glistening. Water dripped down it, and it opened its mouth, revealing massive tusks and some molars capable of grinding anything away.
+
+“Back up, Kindra. Slow,” Kode said.
+
+Kindra took a step back, and its head jerked up. Meeting her eyes, Kindra felt the magic hit.  Oh shit.

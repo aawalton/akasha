@@ -1,0 +1,147 @@
+---
+id: fd8c6659-aa5d-5ac3-9737-62f7bc90ef5d
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 88 - Good Riddance (Time of Your Life) "
+slug: 0150-chapter-88-good-riddance-time-of-your-life
+partOf: metaworld-hopecore
+position: 150
+ownLength: 1929
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3791023/chapter-88-good-riddance-time-of-your-life"
+royalRoadId: "3791023"
+---
+
+“Good night, good night! Parting is such sweet sorrow,That I shall say good night till it be morrow."
+
+William ShakespeareRomeo and Juliet Act II, scene 2
+
+LAPA.
+
+With two weeks to go until the end of the academic semester, time flowed for the Seniors as waves made toward a pebbled shore, each day hastening the semester’s end.
+
+In preparation for the Hell Week leading to D-Day, Euphemia Fontaine micro-managed each passing day with militant vigilance. She caught up on her networking, ensuring that each branch of her Mousetrap was updated on the latest plots and ploys. She kept her eyes open and her ears to the ground, catching rumours and inferences, anything that might indicate William was going after her cats, herself, or one of her girls. In her communiques, she masked their conspiracy behind the technological limits of the mid 2000s, their emails and messages revealing entirely natural chains of dialogue between teachers, students and peers organising sound design for a popular school production.
+
+Somewhere in the emails, Zara’s family friend from Reedley informed them that, “Yes”, she would be in attendance on D-Day.
+
+Unsurprisingly, the unrepentant William Chen continued to live day-to-day as though Eppie’s Sword of Damocles did not hang over his head. Whether this was a case of paralysis, cowardice or arrogance—Eppie did not know, nor desired to know. The Eppie that felt optimistic enough to knock on William’s door had been kidnapped with Garfield, and the Eppie that Valorie had rescued simply lacked the predilection to try again.
+
+Consequently, the only release valve across a fortnight of ratcheting of tension was an email sent by Maddy that landed on Thursday night.
+
+From: [email protected]  To: [email protected]  Cc: [email protected]  Date: Thursday, 1 May 2008, 11:04 PM Subject: "BETTER" + "DREAM" NUMBERS—plus a Kimball 😅
+
+Hi Eppie (and Zara!),
+
+Okay. Deep breath. Good news first, because there's a lot of it. 📈
+
+THE NUMBERS 🎥 Dream a Little Dream (official MTV premiere, Apr 17): 3.3M YouTube views in 14 days. Peaked #6 on the iTunes Music Video chart, #34 on Singles. MySpace embed alone is past 1.8M plays. CEO Davis says not to worry about the rankings. He’ll bankroll 10 no.100s for every no.1 you put up. 😤 🎻 "Better" (the Met leak — still no official release, still not ours to control): 2.9M combined views across six different re-uploads, after the first copy got deleted by the uploader. 12k+ comments and climbing. 118 fan covers tagged back to the originals as of tonight. That’s impressive.
+
+This cute Canadian kid has 40k views alone. I’d say things are out of our control—but this is the good kind of out of control. 🎤
+
+THE ASKJohnny (Jonathan) Kimball’s booker called Sony directly today. They want "the LAPA girls" on the show, together. I have to be straight with you: you're the only one without an agent, per se. This is because you’re not technically a Sony Artist; that’s not your contract. Valorie has her own people with Universal, and Zara’s our in-house Artist. You… might have to decide for yourself. I’ll have Eric send over the contract.
+
+ACTION ITEMS
+
+That's everything!! 👑👑👑
+
+— Maddy
+
+Madeleine Filmore, Media Manager, Artist Services, Sony Music Entertainment T: (310) 244-XXXX | [email protected]
+
+Eppie read it twice, then ran the scenario through her head. Lana never watched the late-night talk shows, but she lived for the TikTok clippings that made up the bulk of any doomscroller's slop stream.
+
+She tried to imagine them: three girls on a shared couch, two of them easily eighteen, and herself, sixteen.
+
+A redhead, a brunette and a blonde walk into a talk show…
+
+The jokes wrote themselves.
+
+Of course, in typical Kimball fashion, they would be wearing short skirts. They would be wearing heels. Hair and make-up would be all-expenses paid, as was costuming. That said, ABC, a subsidiary of Disney, would be very careful with both questions and attire, since Eppie was still a minor.
+
+Jokes would be had at their expense, but not their bodies. Some LAPA anecdotes would be shared. Questions to Valorie about “Dad.” Questions to Zara about “Eppie”The narrative has been stolen; if detected on Amazon, report the infringement.And Questions to Eppie about “Curon, who isn’t actually your Dad, right?”
+
+If she played it right, the segment would make for some incredible short-form bites.
+
+The problem, Eppie felt, was LAPAGANZA D-Day.
+
+Do the interview beforehand, and it would drum up incredible publicity for LAPAGANZA—then crash and burn when the truth about William turned up mid-performance, together with Lafitte’s article a day later.
+
+Do the interview afterwards, and the whole optic changes. The girls were now victims of a system that they fought against and survived. Eppie was a living martyr, Valorie the penitent, and Zara, the faithful sister.
+
+Did ABC have the balls to host such an interview?
+
+Eppie felt, with great earnestness, that maybe Juliana Vaughan or Senator Sanders’ influence might ease the network’s timidness. It would certainly be very nice if ABC’s complicity in breaking the greatest scandal to rock LA’s “High School of Fame” could kickstart a proto #metoo movement.
+
+If that happened, it would be her first salvo at #DontSeeGreinAlone.
+
+Satisfied. She replied ALL, roped in Valorie, and told everyone that whatever they chose, the booking should be after LAPAGANZA.
+
+Friday.
+
+The last day of LAPA’s 2008 academic attendance.
+
+Euphemia woke to the clamour of Seniors mucking about on campus, their voices so loud that the din traversed the trees and arrived at the new student Dorms.
+
+By the time Eppie reached the quad, conservatively dressed for spring in her mix of theatre black, the shared space had dissolved into something closer to a hurricane event.
+
+Seniors in togas and capes and one increasingly deflating inflatable dinosaur swept past in loose, glittering currents, posing for photographs that stacked five deep before the cinema kids even caught them.
+
+Underclassmen orbited the famous students in widening gyres, phones raised like votive offerings, hoping simply to have stood close enough so that they could someday say things like, “I went to school with Euphemia Fontaine!”
+
+Beneath the repaired fountain's spray, a knot of Sophomores had begun Shakespeare unprompted, Puck's lines dissolving into laughter as the Seniors filled in for their lack of professionalism.
+
+Musicians formed impromptu ensembles, jazz mixing with the classics, blues fighting against a string quartet's Vivaldi. In some quadrants, something incredible emerged. Other times, the audience fled before the musicians self-destructed.
+
+All in all, what had been a quiet LAPA morning dissolved into reckless noise that no one minded, that everyone, in fact, seemed to have been waiting for all year.
+
+Eppie’s sail diverted its course too late and slipped inadvertently into the maelstrom of glee. She became a hapless blonde ragdoll tossed this way and that, posing for photos, receiving hugs and giving them, with or without her permission, bouncing from group to group like Odysseus lost at sea.
+
+Somewhere between the Lotophagi and the Cyclops, her red-headed Circe arrived and rescued her from the carnival of chaos, commanding the crowd with the bearing of a sorceress queen.
+
+When Eppie finally stumbled into her end-of-semester classes, the gifts she had prepared for Dr Kirby and company were barely in one piece. From her duffel, she pulled out shattered butter biscuits, crumpled cards, and barely together bars of chocolatier chocolate, all chosen by Maddy Filmore. She handed these to her dear instructors for putting up with her antics for two semesters.
+
+At Sophomore theatre, Cooper told the crew that this was not goodbye. In fact, he would see them next week, starting from Monday, for final blocking rehearsals, equipment checks, off-book run-throughs, a cue-to-cue, and finally, the dress rehearsals that would decide, once and for all, whether they were ready to become Junior LAPA students.
+
+As there was no hint of finality, the class scattered to reconvene Monday morning, ready for Hell Week. Cooper gave Eppie a knowing look, one that Eppie returned, then the two of them walked together across the quad to Whitman’s Theatre, where the Senior class awaited.
+
+In their chaos incarnate costumes, the Seniors rehearsed an absurd block of the final dinner scene where Titus feeds Tamora her children, ending with Lucius’ rebuke of “That ravenous tiger, Tamora.”
+
+Unfortunately, the solemnity of the moment was broken by the visage of Elizabeth Moore, dressed as a Red Shirt Ensign from Star Trek, sprawled over the table mock-up. Owen, the slim-bodied short king playing Lucius, gave the play’s final lines.
+
+… Throw her forth to beasts and birds to prey.Her life was beastly and devoid of pity,And being dead, let birds on her take pity.
+
+Then, with all the solemnity in the Roman world, Lucius lowered a pair of pink bunny ears, the type typically sold in a sex shop, onto the dead Tamora’s head like a laurel.
+
+When the tip touched her hair, the dead Tamora opened her eyes and glared at Lucius, daring him to place the ornament.
+
+The Seniors held it together for exactly six seconds, then lost their collective minds.
+
+At day's end, the students held Senior Sunset on the west lawn, the one with a clean sightline past the parking structure to where the sky diffused like tea in April.
+
+Eppie stood on the hill behind the Seniors, stopping to watch the Class of 08 say their goodbyes to the school.
+
+Zara’s cluster claimed a blanket near the saddle, surrounded by her fellow musicians with their instruments, strumming a little tune to whittle away the final minutes of their adolescence.
+
+Valorie, ever the queen, held court near the top with Senior theatre, tightly ringed by a wall of bodies, entirely distinct from the group sitting opposite.
+
+The opposite group, segregated by clans, was William’s coalition, sitting with what remained of the enormous conglomerate of cliques he once commanded. William himself sat with his back against an enormous sycamore tree, looking aesthetic and handsome as usual.
+
+He wasn’t interested in the sunset at all, but in Valorie, who did not, for a second, look his way.
+
+Eppie felt something in her chest unclench, then grow tight again. She catalogued the way William seemed wholly absorbed in watching Valorie’s every move, wondering if, somewhere in those fox-like eyes, there existed regret.
+
+She was just about to leave when, under a golden sunset, she saw him.
+
+The rarest Pokémon in all of LAPA, the shiniest of shinies.
+
+Armand Amar, the man and the legend, dressed in a stylish jacket and a bucket hat, moving toward the Seniors’ hill, doing the best he could to make distance before the sun completely set. His destination was the art-track Seniors, half of whom had easels and paintbrushes out, some with oils, others with watercolour.
+
+Eppie’s lips curled, revealing a set of perfect, glistening teeth.
+
+Like a jaguar, her sleek body slid from the hill and made for the saddle, where Armand was now stomping up the steps. With her stealth, [Strength] and [Agility], there would be no escape for the elusive painter. She was no longer a woman, but a stray that stalked the concrete jungle called LAPA. In her all-black theatre clothes, she had become Félicette the ferocious, the first cat in space!
+
+A few minutes later, Armand’s soul escaped his body, never to be seen again.
+
+Laughter rolled across the painters’ ranks.
+
+Come Monday, when the sun would dawn once more, Hell Week would begin, and they—these Seniors of Los Angeles Performing Arts—would no longer be students—they would be adults of the floating world, ready to bewitch the world with their artistry.

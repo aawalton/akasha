@@ -1,0 +1,139 @@
+---
+id: a105a757-66f1-5d52-a303-bf05ccb52009
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61—Observed"
+slug: 0061-chapter-61observed
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 61
+ownLength: 1564
+unit: words
+publishedAt: 2025-02-20
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2079645/chapter-61observed"
+royalRoadId: "2079645"
+---
+
+Kindra looked back at the raging inferno. The fire crackled, and the remains of the tree fell, dropping into a pile of blazing heat. The nearby trees wilted.  Are they going to catch fire? Or does mana stop that?
+
+“Kindra, don’t worry. It won’t spread far,” Kode called.
+
+She turned and jogged after him, pulling up her mana.
+
+[Your mana has increased: 4336 → 4909.]
+
+Well, that was effective.  She grinned and jogged to the fallen tree, the breeze blowing through her hair. The smell of smoke faded, leaving the smells of the forest.  Shame that I could get more mana from that slime.
+
+Walking up to the fallen tree, she studied it.  Can I just burn the mana on it?  She reached out and ran her fingers across the rough bark.  In theory, this is likely just carbon and iron mixed.  She walked over to the stump.
+
+“It’s pretty,” Aika said, landing on the stump and looking at the thin bars of steel that spider-webbed through it.
+
+“It’s valuable but heavy,” Kode said, running his fingernail across the stump. “You can make very sturdy things with it.”
+
+“Good.” Kindra ran her fingers along the tree.  Time to make a fifty caliber.  She placed four swords on the tree and triggered Transmutation, dumping all of her remaining mana into the materials. It smoldered. Steam billowed into the air, and Kode jerked up.
+
+“What are you doing? Do you know how valuable that is?”
+
+“We can just cut down another one.” Kindra smiled and stepped away from the smoldering tree. Steam billowed around them, and a twig snapped. She spun.
+
+“What in the tarnation are you up to now?” Gleon asked, leaping over the stream and landing next to the tree. He sniffed.
+
+“Making a gun,” Kindra replied, raising a brow. “Finish your work?”
+
+“We did.” Gleon sniffed the air and looked at the tree. “Ironwood? You’re using intact ironwood? Do you know how hard it is to find this stuff?”
+
+“No. It was just standing there.” Kindra shrugged. “Aren’t there others?”
+
+“I think I saw one.” Aika grinned.
+
+“The problem is getting one that’s intact. They destroy most axes when you cut them down. It takes a level one hundred lumberjack to…” Gleon trailed off and looked at the stump. He looked over at Kode. “How did you cut it down?”
+
+“Don’t ask me. She made something.” Kode shrugged.
+
+Kindra chuckled. “It’s a saw.”
+
+“But the teeth?” Gleon demanded.
+
+She winked and looked at the remains of the tree. A small portion of it was gone, and a large machine gun was sitting there with a belt filled with bullets. Several other bullets were lying on the ground. Grinning, Kindra reached down and stashed them all. She looked at the tree.  Wish I could fit that in my stash.  She turned back. “I’m out of mana. You can have the rest.”
+
+“There may be some ocol if it didn’t all burn,” Kode added, gesturing toward the forest and distant fire.
+
+“Burn?” Gleon turned and laughed. “Did you light it on fire?”
+
+“Yes.” Kindra blushed and looked at the clearing in the trees. A small ray of sunlight poked through the hole she’d made. The sky was a light blue.  Not too different from Earth.
+
+“Give me that saw,” Gleon said, chuckling and holding out his hand.
+
+Kindra handed it to him. “Don’t go too deep or fast. It will break.”
+
+He placed it on the tree and started sawing, running it back and forth and sending a soft ribbon of sawdust into the air.
+
+Kindra turned and listened. The birds and bugs were quiet, the leaves fluttered, and she searched the trees. Mana flowed through them.  Are the animals off fighting for the slime?  She listened and looked up. A flock of birds flew by, heading toward the smoke.  It has to be that.
+
+Looking back at the tree, she watched the two sawing before turning back toward Aika.  “See anything to hunt?”
+
+“Fighting for the slime, probably.”
+
+Kindra turned. “Gleon, is it better to level by killing?”
+
+“Faster, yes. Better, no. It impacts your skills and things. For an artificer, it’s important to spend time doing that.” Gleon looked up. “I’d make you chop this up, but it won’t do much for you.” He resumed sawing.
+
+Kindra walked to the stump and sat on it. She sat on it, and Aika flew over to Gleon. He whispered something to her, and she took off, flying back toward camp.
+
+“Aika?”  Kindra thought toward her.
+
+“I’m going to report this.”
+
+Searching the nearby forest, Kindra listened. The leaves rustled, and the creatures were quiet. An errant flock of red and yellow birds passed overhead, and the sound of large wings filled the air.
+
+She looked up.  Another wyvern?  A large, glowing bird greeted her instead. It looked down with glowing blue eyes. Runes swam around it, and a burst of fear spread through Kindra. She reached toward her empty mana.  What’s an undead doing way out here?
+
+The undead bird remained aloft, spiraling over the hole in the forest. A deep trill rolled from its throat, and Gleon jerked up. “Shit,” he hissed.
+
+“Gleon, what do we do?” Kindra asked, looking up at the bird. “I’m out of mana.”
+
+“For now, nothing, but be ready. They’ll be coming.”
+
+Kindra grimaced.  I can’t fight undead. I have no mana.  She looked for anything that would let her get some. Spotting some fish in the stream, she pulled out her crossbow and jacked in a bolt.
+
+Aiming at the shimmering fish in the water, she exhaled and fired. The bolt hit the surface, deflected, and missed the fish. It shot off down the stream, a flash of silver in the water.
+
+Grabbing another bolt, Kindra jacked it in.  Maybe I should have made so many bullets.  She frowned and looked up. The bird remained. It circled the hole in the clearing.
+
+It knows we are here.  “Gleon, how do we get?”
+
+“Don’t worry. We’ll have a ranger coming soon.” Gleon looked over. “See any more ironwood?”
+
+“I’m out of mana, but I can try to find out.” Kindra hopped off the stump and looked at the surrounding trees.
+
+“They’ll be alongside the stream, most likely.”
+
+Kindra nodded and walked up to the trees, studying them.  I need mana.  She searched for a bug or anything else to let her get mana.  Should I try to chop down a tree? It’ll give me a tiny bit, though it’ll make a lot of noise.
+
+Another screech rang through the air, and Kindra jerked up. The spiraling bird vanished, flying in the direction of the smoke.  Is that good or bad?  Kindra walked up to a tree and knocked on it.  Is this ironwood?
+
+She looked into the stream and saw another fish.  I wish I knew how to spearfish.  Taking aim, she fired. The bolt blew into the water and deflected off the fish. It looked up at her, magic and anger surging through its eyes.
+
+Kindra scrambled away, and a large icicle flew over her head.  You have got to be kidding me.  Avoiding the water, she walked back toward the two. “I have no idea.”
+
+“So, you were using a skill to find it?” Gleon asked.
+
+Kindra nodded.
+
+“Get some mana. Find some bugs. They’ll be around.”
+
+That’s embarrassing.  Kindra walked around the area, searching for anything to kill. She didn’t find anything when she flipped over rocks, leaves, and branches.  Well, they are all over at slime land.
+
+Giving up, Kindra darted back toward the fire and slime. She ran through the forest, vaulting off roots and quickly making her way back. The smell of smoke lingered in the air, and animals continued to squabble.
+
+Breaking through the trees, Kindra turned and saw the undead bird. It circled the path of destruction, a beacon of information that was likely being fed back to somewhere. Even as she thought it, another bird joined it, spinning in harmony.  That one is alive?
+
+Kindra swallowed and looked up. The two birds weren’t fighting, unlike the distant animals who risked the heat and smoke for the distant slime remnants. Moving closer, Kindra examined some nearby trees. Several had been scorched by the flames. Walking over to a small one, she pulled out an axe and began hacking away.
+
+Wood flew. The smell of smoke drifted through the air, and the birds circled above. With a resounding crack, the tree trunk snapped. Kindra vaulted off the ground and kicked, shoving the tree and pushing herself backward.
+
+Landing lightly, she watched it tip. It slammed down into the ground, and she reached out, grabbing the mana. It did not yield. Like playing tug of war with a stump, she gritted and pulled.  Do not tell me I have to kill the roots of this one.
+
+She ripped on it, and it didn’t move. Giving up, she shook her head and looked up. The two birds continued circling, and another undead bird blew past them, flying and hovering over something in the distance.
+
+Great. The necromancer is scouting.  Stashing the axe, she pulled out the crossbow and looked at the distant birds and bugs. She aimed and fired. The bolt streaked across the air and hit a bird.
+
+She grinned.  I guess this is one way to do it.  She grabbed another bolt.

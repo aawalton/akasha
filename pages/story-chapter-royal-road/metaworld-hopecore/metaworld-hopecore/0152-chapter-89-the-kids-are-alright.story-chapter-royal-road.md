@@ -1,0 +1,205 @@
+---
+id: 210db9fd-3365-5f5e-91e6-fdf51a57ac13
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 89 — The Kids Are Alright"
+slug: 0152-chapter-89-the-kids-are-alright
+partOf: metaworld-hopecore
+position: 152
+ownLength: 2992
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3798307/chapter-89-the-kids-are-alright"
+royalRoadId: "3798307"
+---
+
+To-morrow, and to-morrow, and to-morrow,Creeps in this petty pace from day to day,To the last syllable of recorded time;And all our yesterdays have lighted foolsThe way to dusty death.
+
+William ShakespeareMacbeth
+
+Friday.Nine days to D-Day.
+
+Eppie opened the door to her dorm at 7 AM, surprised by the double visitation of Josefina and Susan Carr, LAPA’s Operations Coordinator, the very woman who had inducted her into the dorm many months ago.
+
+“I am so sorry about this…” Susan looked guilty before she even opened her mouth. “Could I borrow you for a day… or two?”
+
+“Is something the matter?” Eppie always held a soft spot for Susan, even though she was the type of middling-ability middle-management that Lana deemed as the equivalent of organisational decor. For Eppie, however, Susan Carr more than made up for competence with effort, which, though unsustainable at scale, she found endearing.
+
+“VP Thomas made a request,” Susan explained with apologetic eyes. “To send you around to the different departments, the Arts and the Music departments, specifically, to talk with the students about their prospects. It's for our 08 Fall promo, and er… she hopes you will humbly… I mean, she humbly hopes that you will oblige.”
+
+Eppie snorted. Humble? Hardly…pragmatic? Probably.
+
+As with their first meeting when she arrived at LAPA, Eppie figured VP Thomas was the politicking, overly goal-oriented corporate ladder-climber type. A real artist with an artistic soul would have minded a lot, but Eppie merely respected the hustle. Besides, Thomas could have as much footage as she wanted—after D-Day… they probably needed to re-film the promo.
+
+“Does Dr Cooper know?”
+
+Susan Carr duly informed Eppie that everyone had been told already and had given their consent.
+
+“Sure,” Eppie nodded. Knowing what may befall Susan's employment in less than ten days… she didn't have the heart to say no. “I’ll change into something nicer.”
+
+When Eppie re-emerged, she had changed out of her theatre blacks into the soft dove-grey cashmere cardigan Curon had sent, the one that always left an alluring shoulder exposed, transforming from humble theatre student to a trendy, quirk-adorable Sophomore.
+
+“Thanks for doing this.” The relief rolling off Susan Carr was palpable. Eppie felt sorry for her OpCor, because VP Thomas was an immovable rock, and Eppie’s fame made her, in a sense, a bit of an anvil.
+
+Besides, there was nothing wrong with trying to shore up her supply, for [All the World’s a Stage] wasn’t going to get cheaper.
+
+They exited the dorms, Susan bought her coffee, and the pair made their way down to the Whitman; then they slid into the second floor of Whitman’s adjacent section, where the artists were housed.
+
+Susan read out a list of names—which Eppie assumed were VP Thomas’ personal picks—that she should appreciate. Eppie committed nothing to memory and told Susan that she would appraise her peers as they were.
+
+On the first floor of the gallery, Installations, Susan announced her arrival with a clap—and Eppie became surrounded.
+
+The first thing Eppie realised was that she was more famous among the art students than she was among the theatre kids. The second was that the level of anxiety expressed by the art kids put her confident theatre peers to shame.
+
+Unlike her Titus Company, the art kids cared about Juliana Vaughan a lot. They had seen the pictures of Eppie sitting next to Juliana, posing with Juliana, being held by the shoulder by Juliana while standing next to Kiritani Sensei, whose exhibition was even now ongoing.
+
+They knew, from local legends, that Eppie had brought Juliana into the gallery to look at an Armand Amar sculptural masterpiece. They had seen her at Senior Sunset, clambering over Amar like a raptor from a dinosaur movie, swinging to and fro from the young man’s neck while he begged her not to embarrass him. That was how their Senior had gotten his big break. That was how he became an artist in residence, making six figures and living the life at the age of nineteen.
+
+Every artist in the Whitman dreamed of what Armand had attained.
+
+And Eppie was the human-shaped charm that had made it possible.
+
+It should have taken Carr and Eppie an hour to congratulate everyone and thank them for their effort. Instead, it took Eppie three hours to look through each and every single artwork the Seniors had put up, passing genuine compliments and collecting [Causality] where possible.
+
+Eppie was not an art critic like Vaughan; she only had [Intelligence] and [Wisdom], but thankfully, her [Sublime] was an extremely reliable measure of taste.
+
+Her personal pick of the Spring 08 collection was a set of thematically juxtaposing photo portraits titled "Me and My," using living animals and their owners, located in the Photography section.
+
+There were four prints in all, each with its distinct qualities.
+
+A woman who looked like she was swallowing a lorikeet—except it was gingerly taking a tiny nut from inside her mouth.
+
+A young boy’s fingers with the tip of a hedgehog’s quill pressed into the flesh, the creature's face grinning adorably.
+
+An ageing punk rocker with spiky hair and spiky pads—and a massive Russian Blue, completely limp and fully fluffy, draped over his shoulder like a lazy rug.
+
+A spiny lizard that looked like it belonged in the deep desert, scampering across the contoured landscape of its owner's sweat-soaked, milk-white abdomen.
+
+Each pair of subjects shared a paradox in texture, temperature, tactility, and hue.
+
+Her [Sublime] informed her, without question, that this was the one.
+
+The photographer, a young woman not on VP Thomas’ list, held Eppie's hands with genuine gladness when Eppie asked for a calling card and a link to the collection. She would send them to Vaughan's office and let the experts decide if the artworks were worth disseminating.
+
+Once they left, Eppie hoped, a little self-consciously, that she hadn’t chosen the collection simply because there was a comically fat cat in the mix.
+
+On the final Sunday before D-Day, Val found her at the Stray Cat Society with Zara, who had finally shown up for her final contributions to the society before they went their separate ways. Prior to Valorie’s entrance, Zara was explaining, while serving as a human-shaped radiator to the cats, the grilling she received from her extended family over the ambiguity of her music video.
+
+Thankfully, Valorie arrived to prevent Zara from bursting into flames. When the girls asked what was wrong, Valorie stood with a stillness that told Eppie that something serious had occurred. She hooked an arm under Valorie's elbow, in case her friend needed more than just moral support. “Is it William? Should I go grab a vase?”
+
+Unbidden, Valorie’s melancholy turned to mirth.
+
+“No need for that…William called me this morning. I didn’t answer. He texted me a dozen times, and finally, I read a few texts, answered them…and then I came here.”
+
+“Whoa… okay,” Eppie sat the actress down, then Zara, then herself. She assigned each witch of her coven their cats: Mr Chin to herself, Mrs Catch’em to Zara, and a newcomer to Valorie, then reconvened to converse about their plot to un-man Macbeth.
+
+"Alright…" Eppie replied through her cat-induced zen. “What did Willy want, and what did you promise?”
+
+“Face,” Valorie replied. "He asked me… begged me, to come to his premiere. It's on the Saturday of the Showcase Weekend. A few photos, something that looks amicable for whoever's watching. That's all he wanted."
+
+Something inside Eppie fell through the floor. Even now. Even with his crew defecting under him, even with Valorie gone and his name quiet in every mouth that used to whisper it, William Chen was still trying to balance his social capital. He was still trying to borrow a Senator's shine for one more photograph before the roof came down.
+
+Had William really learned nothing?
+
+Eppie gave Val an encouraging look. “I take it that you agreed?”
+
+Val demurely nodded. “I told William that we'll do an exchange. If he promises to come to our Titus Andronicus Showcase, then I'll go to his premiere.” Val's chin lifted—the old posture, Senator's Daughter, the one where you could visibly see the gears turning in her head. “I told him that if he sits through all of Lavinia’s scenes, then I'll consider speaking nicely to my father about his father.”
+
+Eppie’s brain blanked. For a second, she couldn't answer.
+
+“Did…did I do the right thing?” Valorie’s timidity revealed the true reason she had come to find Eppie.
+
+Eppie felt goosebumps traverse her arm. She couldn't believe that Val had plugged a major hole in the plot—that Eppie simply assumed that William would be seething as a member of the audience. It had not at all occurred to her that the weasel would just go home and hide—thereby robbing Mio of the moment of revelation. Their ploy did not need William to be there—but it sure as hell helped his victims' vengeance if they could see him implode.
+
+Eppie exhaled. She felt such relief for having Val on board. And underneath that relief, she felt a healthy dash of shame.
+
+“Thanks, Val.” Her fingers tingled from the unbidden adrenaline. “I think you just saved the whole production. Our production.”
+
+Valorie’s cheeks grew rosy.
+
+“Credit where credit is due. I owe you one.” Eppie gave the actress a firm pat on the knees, her voice dropping into the register of a proud drill sergeant. “That said, will you be alright next to William? He better not pull some shit.”
+
+“I can go with Val,” Zara offered. “I am free. Uncle Paco can… hang around, as well.”
+
+“I would love that,” Valorie dug her fingers into their new cat, a snowshoe Eppie dubbed Tuxxie. Eppie tried picturing Valorie meeting Paco for the first time in a dark alley, and had to wrestle the laughter back into her gut.
+
+Then, in front of their innocent eyes, Valorie’s mouth grew mischievous and a little cruel. “Of course, I never told William my father would be absent. He’s taking both Saturday and Sunday off to see me through LAPAGANZA. That’s what he planned, anyway…”
+
+Valorie's smile was firm and easy. “I mean, if he can’t make it in the end, I’ve still got you guys.”
+
+“Aww. Val…” Eppie felt so proud that she wanted to hug her big, beautiful Norwegian Forester and give her affirming kisses on the forehead. She was so proud that Valorie had made the choice all by herself. Not only did Val think of others, but she understood that she wasn’t alone and that there were others she could rely on.
+
+That in itself… was a feat worth celebrating. And celebrate we shall!
+
+“ALRIGHT—!” Eppie announced to the room, sending the cats scattering as her next declaration brought old traumas to the surface. “Tonight, we're going to have Tacos! My treat!”
+
+Monday. Six days to D-Day. Eppie had told both her Sophomores and her Seniors she needed the day off—no rehearsal, no flyer circuit with Val, no enticing strangers on Third Street Promenade with her big blue eyes like a Roppongi club tout.
+
+She was going to focus on her personal well-being. She was going to… farm [Causality] for the final push beyond [400,000].
+
+By now, Culver City was like her backyard. She packed her J-45, took the pre-booked taxi, arrived inside the studio, walked the familiar lanes down to the recording studios, and found Mueller and his interchangeable entourage of aides already set up.
+
+They hugged, shared a coffee, made small talk, and then proceeded with Trent Davis’ orders.
+
+Like an old horse treading a familiar road, she tuned her guitar via [Perfect Pitch], slapped on the MDR-7506, stretched out her [Vocality] with exercises, then poured herself into the Sony C800G.
+
+“Better” took three hours.
+
+Different to Eppie’s other songs, the very nature of Better, as manifested in her present universe, meant that there was no “correct” way to sing it. The lyrics were interchangeable, the chord progression was simplistic, and the true depth came from the emotions of the singer, such as Eppie’s hope that Valorie would get better, or Valorie begging her father to feel better.
+
+Mueller opted for a dozen takes, some slow, some fast, about a father to a child, a friend to a friend, a lover to a lover, a lover to an ex-lover.
+
+Eppie optimised her [Traits] usage, drawing on her inner [Script Analysis] to conjure fictive characters out of the movies and stories of her old life—each one a vessel for whatever emotion she needed to borrow. Paired with [Act Natural], she marshalled those wildly juxtaposed emotions into technique: rubato that let her drag behind the beat, an accelerando to pull it forward again, an octave leap into her upper register, a modulation down into a lower key.
+
+“Perfect,” Mueller informed her with polite applause. “Let’s break for lunch!”
+
+The House of the Rising Sun took about an hour. Eppie sincerely explained that she didn’t truly understand, herself, the final form of the song she had “dreamed up”. She sang it traditional, guitar and all, channelling Alan Lomax, capturing 16-year-old Georgia Turner in Middlesboro, Kentucky, 1937. In her head, the Animals’ version played endlessly—but Eppie knew that this was not the version she needed.
+
+The song… sought ownership. It wanted to come home. The evidence the [System] had provided pointed everything in the direction of the Bailey Ray Richards estate, but how? And why?
+
+She then sang it a cappella, using [Script Analysis] and [Act Natural] to try and conjure the regret and pain of a young mother wishing, dearly, that her daughter would escape her “ruined” fate.
+
+“It’s missing something.” Mueller leaned back in his chair. “You’re the songwriter, you don’t know?”
+
+“I am just a conduit for the arts,” Eppie said seriously. “Not a technician.”
+
+“Have you tried going to school to learn?” Mueller’s lips split with good humour. “I am serious, maybe a few years in a conservatorium will do you good. Guilliams? With your talent, just say the word and Davis will have you on a full ride.”
+
+Eppie shook her head. According to her [Roulette] results, theatre was where her talents lay. If she ran off and became a full-time musician—what would happen to these predestined [Quests] and [Usurpers] thrown into her life?
+
+“What kind of instruments would a musician have access to in New Orleans?” she asked instead. “What instruments would have accompanied the grieving mother?”
+
+Mueller went quiet, the particular quiet of a man doing musicology in his head. “Now that’s an original thought. Historically accurate instruments, eh? Leave it with me,” he said, rubbing his jaw. “Yeah… that’s a great idea, Eppie… Hmm, this might take a while.”
+
+Her maestro looked up, impressed, but also curious. “Is this because of Lucia… I mean, Richards’ Estate?”
+
+“Maybe,” Eppie replied without an ounce of certainty. Indeed, she would also like to find out exactly how the song fitted into this whole Richards kerfuffle.
+
+She left the Suites past six, sent home via a Sony chauffeur. Her [Causality] was still short of what the play alone would cost her, never mind whatever William may take out of her after.
+
+Mueller promised that at least one version of Better would go official in forty-eight hours. Sony really wanted to capitalise on its growing virality, and Davis was already chomping at the bit to release something, anything, to supplant the Valorie videos that kept cropping up everywhere.
+
+As for why, Eppie could guess.
+
+Universal, Mueller had told her—had the gall to suggest that the ownership of the song should be shared…
+
+On Tuesday, five days from D-Day, Susan Carr walked Eppie to the Old Music Building to peruse VP Thomas’ hand-picked shortlist.
+
+An hour in, Eppie’s mood soured.
+
+The music ensemble groups wanted something more specific than the artists—they wanted her to be the difference between a demo that got heard and one that got filed into recycling. When Eppie earnestly revealed that she had no real advice to give because she truly wasn't a part of the industry, her Seniors' smiles no longer reached their eyes.
+
+Eppie, with all the cynicism of Lana’s decades of experience, read their faces like Tumblr blogs.
+
+She was no longer the “Sony connection”. More like a… “Snobby hussy who got lucky.” Or maybe a “baby doll with a sugar daddy.”
+
+Eppie felt nothing for these people, not even criticism. Jealousy and envy were a natural part of an artist's ego, and there was nothing improper about their true feelings. She was an authentic pretender; her abilities were a matter of [Causality]. Ergo, she had no advice to give, nor could she be a conduit to pass along demo tapes. Nonetheless, if LAPA’s 08 Seniors truly believed that “I could have sold out stadiums if only Euphemia Fontaine passed my demo to her daddy at Sony,” was the difference between Rock and Roll Hall of Legend and mediocrity—then she was glad to be uninvolved.
+
+In the end, she elevated no one and generated scant few blocks of [Causality]. She simply lacked the [Traits] to measure musicology beyond vibes and [Sublime]. She would need, Eppie suspected, significant tutelage under Curon to possess her faux-father's world-famous taste.
+
+Her tours continued, against common sense and courtesy, all the way to Thursday, taking up a little over half of her time.
+
+Nonetheless, Eppie did her best to smile at people and give them dazzling, flawless smiles. She gave out signatures to those who wanted them, actually got to sign a few CDs for In the Pines and Dream a Little singles, and took pictures with her LAPA fan club.
+
+When they were finally done, Susan offered to buy Eppie dinner as thanks.
+
+Eppie allowed it. Out of guilt, she gave a big, thankful hug to her poor Operations Coordinator, hoping to the gods of theatre that this woman would be allowed to keep her job after the shit hit the fan.

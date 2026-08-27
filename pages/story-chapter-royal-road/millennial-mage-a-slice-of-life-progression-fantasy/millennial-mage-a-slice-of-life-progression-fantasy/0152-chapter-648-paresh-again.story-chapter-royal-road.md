@@ -1,0 +1,267 @@
+---
+id: a694662e-a798-536d-873c-b916be5d0a5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 648 - Paresh Again"
+slug: 0152-chapter-648-paresh-again
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 152
+ownLength: 3303
+unit: words
+ownProgress: 3303
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2849597/chapter-648-paresh-again"
+royalRoadId: "2849597"
+markedReadAt: "2026-06-29T19:39:56.165Z"
+---
+
+Tala came up into a place near the center of the room, taking a moment to look around while Rane, Terry, Lea, and Honored Brandgul joined her in the room.
+
+Just as she remembered, the room was ringed in glass, giving unobstructed views of the surrounding countryside. Additionally, there were scripts and magics embedded in the floor along with fully impressed spellforms that existed solely stone- or starward.
+
+Interestingly enough, this time, she was able to see distortions in the glass, magics that had been too subtle, or too hidden, for her to notice them last time. The power within them subtly shifting, even as the village took rolling steps forward.
+
+Is that how he’s able to see so much more than should really be possible?
+
+-Possibly, along with the various display and observational scripts in the floor that you noticed before.-
+
+That’s fair.
+
+The room only had one occupant before they arrived, and he turned toward them as they came up the central stairs.
+
+First, he wore what appeared to be incredibly traditional Mage’s robes of a dark green satin, and his feet were bare.
+
+Beyond that, he had a few clear demarcations of a dragonling nature about him. His hands and feet ended in neat—but wicked-looking—claws. The backs of his hands, tops of his feet, and his bare arms were covered in small black scales, but his palms were bare. Horns swept up and back from his brow ridge, their base almost hidden among his long, scraggly, black hair.
+
+Lea’s eyes immediately latched onto those features, a soft gasp of awe escaping her lips.
+
+Even with all those traits so evident, his face looked human, or more or less human. A scraggly—but well-kept—beard matched his hair quite nicely, and his features were on the sharper, more angular side for a human, without crossing the line into seeming truly alien.
+
+He had deep, dark circles around his eyes, the irises of which glowed a sickly green. In truth, he looked utterly exhausted, and that was just how he looked physically.
+
+Magically? His aura was Honored, clearly earned in the arcane style, most likely bolstered and supported by his authority over the village and citizenry of Howlton. In fact, he seemed to have moved just a bit toward Revered, though if that was due to the increased population, practice with magical retention and compression, or something else, Tala was unsure.
+
+He clearly had deeply impressed, natural magics that she couldn’t interpret, along with spell-lines of the same material that seemed to glow an unhealthy green, matching his eyes. Even with all the years of experience and study since she’d seen him last, Tala was still unable to suss out the man’s magics nor even identify the material of his inscriptions.
+
+As before, the spellforms in his flesh glowed even where Tala couldn’t detect magic flowing through them, so it was something about the material itself. I forgot about those.
+
+-Yeah, it definitely slipped my focus as well… He did say it was hurting him to have such inscriptions though, so I doubt it’s something worth delving too deeply into.-
+
+True…
+
+Still, despite all the man’s oddities, the strangest remained the fact that he had a gate, sitting within him in just slightly the wrong place for it to be his own, and just as before the gate in question felt like it had a flowrate similar to that of a Refined, utterly unchanged from when she’d seen it last.
+
+His wife hasn’t chosen to move on yet.
+
+-I don’t know that she ever will.-
+
+A love for the ages.
+
+-Indeed.-
+
+As soon as they were all up and in, Honored Brandgul bowed toward the man who stood off to one side, “Head Pareshti, I have brought the visitors.”
+
+Tala felt the telltale pressure and tingle of someone using a magesight equivalent on her before feeling the magic sweep across the rest of her family.
+
+The man spoke softly, as if his voice were hoarse and he was trying not to strain it. “Greater Tala, Greater’s husband and daughter… Human yet not? Barely more than a child yet Bound in the manner of your… kin.” He hummed thoughtfully. “Be welcomed indeed.”
+
+Honored Brandgul straightened, bowed again, and departed without a word.
+
+Tala called after him. “Thank you for the escort.”
+
+He hesitated, then nodded once and continued back down, out of the chamber.
+
+Tala turned back to Head Pareshti. “Thank you for the welcome once again.”
+
+The man quirked a smile. “And thank you for choosing yet again to not kill my men when they met you.”
+
+Tala grinned, enjoying the symmetry from their first meeting, but it was time to part from that script. “This is my husband Rane—as you correctly saw—daughter Lea, and my bonded companion, Terry.”
+
+The dragon-kin bowed slightly to Lea, just more than a dip of the head. “To meet the daughter of two so powerful is an honor, and I will be fascinated to learn more of your… unique nature.”
+
+Lea gave a deep bow. “Head Pareshti, it is my pleasure to meet you as well. My mother has told me of the aid you offered her upon her journey through your lands. Thank you for that.”
+
+“It was my pleasure then—and now—to be of assistance.”
+
+“As to my unique nature, I am happy to exchange information for like kind. I have never met one such as you, and it would be fascinating to acquire such knowledge.”
+
+“That it would, young one. I will consider your offer.” He smiled as he turned and bowed toward Rane, deeper this time. “A Paragon of gated humanity is an Honor of a different kind. I cannot express the joy I felt when I learned that the harried traveler found a companion of the soul.” His hand rested gently against his chest, right near where his wife’s soul rested, pulsing with quiet contentment.
+
+“You do me honor.” Rane returned the bow in equal measure.
+
+Finally, Head Pareshti gave the deepest bow yet—to any save Tala—toward Terry. “The hunter graces us with a visit in person this time. The prosperity of those we serve is our greatest reward, and I can see you are richly appointed indeed.”
+
+Terry fluffed his feathers from where he rested on Lea’s shoulder, giving a chirp of solemn acceptance.
+
+Tala cleared her throat, drawing Head Pareshti’s eyes back to her. “Thank you for your prompt meeting with us.”
+
+He smiled. “I do my best to watch over all my people, and your arrival caused quite the stir. It was reasonable to meet you without delay.” His smile turned soft. “It truly is wonderful to see you again. I rejoiced when I heard you’d made it home, and that you had sorted your little… problem too. I will be curious to learn of that.”
+
+Tala nodded. “I did indeed make it home, and now I have home with me wherever I go.”
+
+His eyes flicked to her family, and sadness rolled through his soul and across that of his wife. “To have those you love close is a joy beyond question.”
+
+“Indeed.” Tala swallowed, searching for a way to change the topic. “So, do you still wish to be addressed as Paresh?”
+
+He chuckled. “If the Greater Tala so wishes, of course. I wouldn’t dream of attempting to command you.”
+
+“Just Tala please, Paresh.”
+
+“As the Revered one wishes.” His eyes twinkled. “If that is even an accurate title.”
+
+She smirked. “That is quite the topic and likely not one for today.”
+
+“I suspected not. Even so, it is rare that I feel one so easily slide beneath my authority. I am glad that you avoided the trap of so many with power. I would not have found an assault by yours pleasant in the least.”
+
+Tala gave a sheepish smile. “Well, that’s a new thing for me, actually. I was ‘bludgeoning’ my way through the world until recently.”
+
+Lea was frowning, clearly not quite understanding, but Rane’s careful expression—and Terry’s closed eyes—showed that they remembered what Tala had conveyed to them. Lea was not nearly advanced enough for the secrets of authority to be openly discussed with her.
+
+“Your hand is light upon this place, but even so, I’d not have enjoyed that clash either.”
+
+“Perhaps.” He smiled. “After the centuries, I would be more of a wart within the flesh of the city than a callus to be shaved off.”
+
+Tala grimaced. “Lovely metaphor.”
+
+He shrugged. “It is what it is.” He gestured past them implicatively. “Please, sit. We need not stand on ceremony.”
+
+Tala suddenly found a chair behind her, which not only held her greater than average weight, it was quite comfortable, just as she remembered. She hadn’t seen where it came from this time either, and that made her grin at their host, even as her family sank into their own seats.
+
+She had felt the barest flicker of power just as before, but it didn’t seem to have either created the chairs nor summoned them. There still is magic in the world.
+
+Alat sent a snorting laugh, but otherwise didn’t comment.
+
+Paresh stayed upright, standing in the center of what seemed to be a control script for the walking village. This time around, Tala saw how threads of reality not only bound the man to the moving village, but also to the control scripts. It was a wondrous melding of authority, connection and magic at a level that would take centuries to understand, let alone replicate. She did feel that some of it was due to his unique inscription material, but not all.
+
+“Your wife is with you still. That gladdens my heart.” Tala smiled.
+
+Paresh gave a small smile in return. “I feel her love every day, and pray to the heavens that I will until the day I die, at which point we will both pass on.” A few tears leaked from his eyes, and he pulled out a handkerchief to dab them dry. His smile turned sad. “Though it has been long since she passed, I miss her laugh, her voice, her smell, her wisdom, her level head.” He shook his head. “But I am prattling on. You are here for a purpose, am I correct?”
+
+“You are, and we are, yes.”
+
+“Then let us hear it. Does it have to do with the curse that no longer lies upon you? I feel that you still have some traces of that creature—one of pure ravenous, jealous desire and the impetus to consume—upon your very soul.”
+
+Tala chuckled once more. “That is not really the reason, no. That was sorted long since. I did end up bonding with it and more. It fit me too well to do anything else. Though I believe I communicated that in some of my missives?”
+
+“You did, but you also implied that something had happened that we needed to discuss, and I assumed.” He shrugged. “I can see I was mistaken. Though, now that I’ve had time to truly look, could it be that your… daughter is a source of what you wished to discuss? Have you fallen to an oddity and been banished?”
+
+Tala sighed, the conversation getting a bit away from her. “I know that this room’s magic is bent toward providing information to you, and at least part of that is about what is within it.”
+
+“That is so, yes.”
+
+“Then, you can see the truth of it. She is the soul. It is not a power source.”
+
+“Indeed. If it were otherwise, I would not have been able to allow you in, despite all.” He smiled. “Still, I cannot help but be curious why you have an automaton for a daughter.” He held up his hands to cut off the immediate response. “Please make sure you actually heard all that I said. I do not doubt that she is your daughter. I do not think you are deceived, nor do I think she is corrupted. Though…” He gave a consoling smile. “I imagine that most gated—even incredibly advanced—would lack the sight to easily see that. You must have had a hard time keeping her safe. But back to my question. Based on your response—indirect though it was—I trust that you were not exiled?”
+
+“We were not.”
+
+“Good.”
+
+Tala grimaced again, then sighed before continuing. “That said, she is connected to our secondary reason for stopping through.” When he gave her a questioning look, Tala grinned. “Our primary being to catch up with an old acquaintance, of course.”
+
+He chuckled at that, but simply motioned for her to continue.
+
+So, Tala spoke of the automata, and Paresh listened attentively, his eyes only occasionally sweeping the slowly moving landscape around Howlton, swaying easily to remain in place despite the shifting of the floor beneath his feet with every great step of the village.
+
+Tala told of her encounters with them before, what the various experts had told her, along with how this body had been acquired.
+
+The dragon-kin interjected there. “I am rather concerned to learn that the Major Houses are seemingly so blase about the research of automata…”
+
+“Indeed.”
+
+“And you did not feel this warranted telling me when you were here last, years ago?”
+
+“First, no. I had far more on my mind. Second, I had no idea just how big a deal it was then, and third, even if I did, I wouldn’t have told one more advanced than me—even one as kind and personable as you—about potential contraband within my hold.”
+
+He quirked another smile at that. “Fair. I’ll not hold that now-revealed secret against you, then.”
+
+She chuckled. “Well, I’m glad to have gotten that out of the way, at least.”
+
+“So, how did your daughter get inside such a form?”
+
+Tala almost answered, but then she realized that she’d been dominating the entire conversation. She shifted back and gestured toward Rane.
+
+Rane, for his part, didn’t hesitate, launching into a polite, oblique retelling of circumstances around Lea’s conception and subsequent introduction to the world.
+
+Lea, herself, was listening with rapt attention. She’d obviously heard the story before, but it was always illuminating to hear a story told to a new audience, assuming the teller was competent in the telling.
+
+Rane was that. He had really grown into a great story teller through the years, and Tala even found herself drawn in by his tale, short and known to her as it was.
+
+When he was done, Rane leaned back, and Paresh steepled his fingers, clearly considering.
+
+Rane grinned, “I can see we’ve given you much to think about.”
+
+The dragonling huffed a laugh, his green-glowing inscriptions flaring slightly. “Indeed. I had not thought such a thing was possible, and I suppose it really isn’t. That is the magic of young Lea’s existence.”
+
+The last word seemed to tremble slightly to Tala’s senses, and she knew what he meant, causing her to smile as she responded. “Indeed.”
+
+“Thank you for the tale.”
+
+Rane nodded. “Of course. Words are free.”
+
+Paresh smiled. “True enough.”
+
+Lea opened her mouth, clearly ready to object given all that she’d learned from Lisa, but she held herself back, just as clearly realizing that they weren’t being literal. It helped that Tala intervened, steering the conversation elsewhere.
+
+Tala cleared her throat. “So, all this is but background. We have reason to believe that the Black Legion is moving toward making a return.”
+
+The Head of Howlton grimaced. “I had heard such rumors through the network. I assume that her nature is meant to be an added weight behind your certainty?”
+
+Tala nodded. “Indeed.”
+
+“That is… unfortunate.” He sighed. “Still, if it comes to war, we will do what we can, even if it is just to be a rest stop to warriors in the area.”
+
+She blinked a few times, pulling back slightly. She hadn’t even considered that. “That… that is very kind, thank you.”
+
+He gave her an odd look. “That is not what you were seeking?”
+
+She shook her head. “No. We wanted to ask if you would host a summit between gated humanity and the Major Houses.”
+
+He stiffened. “That… That is a large ask.”
+
+“We know.” Tala turned to Rane, and he took over.
+
+“We understand that it would be putting you and yours in the crosshairs, but we would extract commitments of peace before we ever gave your location, and our own highly advanced people would be here to help keep that peace.”
+
+“You two?” He seemed to be considering.
+
+Rane shook his head, gesturing back to Tala. She gave a consoling smile to Head Paresh. “I will be taking back my position as Eskau of the House of Blood.”
+
+Paresh’s eyes widened slightly, then he burst out laughing. “Are all the rumors true? Did you spit in a Sovereign’s eye after your husband chased him naked through the snow?”
+
+Rane blinked a few times before frowning and opening his mouth to respond. Tala held up her hand to forestall him however. “We cannot discuss that, unfortunately.”
+
+The village head seemed utterly taken aback, his voice small. “Are you saying…?”
+
+Tala shook her head. “I am explicitly not saying anything on the topic. Now. What do you think about the summit?”
+
+“Will you—and those of gated humanity—provide a guarantee of safety to my citizenry?"
+
+Tala grimaced, but slowly nodded. “We cannot promise perfection, but we can promise to do everything in our power to guard their wellbeing.”
+
+Paresh gave a small smile. “Good. If you had given such a promise, I would have denied you as over-optimistic about the event.” He seemed to contemplate, tapping his chin in thought, before nodding. “I’ll want more information on a lot of things… but I think it is doable.”
+
+“Thank you. That will help tremendously.” Tala smiled.
+
+Paresh sighed and gave a weak smile of his own. “Of course. It cost me nothing, and we will be negotiating for fees and such.”
+
+“Understandable.” Not wanting the topic to fall back to Rane and the Sovereign, she chose the next subject. “I can’t help but notice that I haven’t felt any thumping in this region. Did you ever find the tomb of the clockwork thunder?” She now suspected that it was a cell for a magical beast, but there was no reason not to use the local term for it.
+
+Paresh sighed, shaking his head. “Yes and no. An Eskau and Pillar from a Major House came through the area, and we avoided them. After they left, the thumping was gone, and we were able to trace their passage to the entrance. The entry room was ransacked and the seal strengthened.” He shrugged. “So, I suppose the payment went to those it was meant for.”
+
+Tala nodded. “I suppose so.” She almost asked to see the cell, but shook off the impulse. She’d seen plenty of them over the years, and it was hardly the time. “Now, I imagine you have some administrative staff. Shall my adjunct talk with them to arrange the details of the summit?”
+
+Paresh nodded. “Certainly. Will you and yours join me for dinner this night? I know you must leave in the morning, but there is no reason I cannot be hospitable."
+
+Tala glanced at Rane and Lea, who both nodded. Terry was feigning sleep again. “Yes, I think we’d like that.”
+
+“Then let’s get to it. The hour grows late.” He smiled and stepped forward, the magical and reality connections stretching and moving with him. He gestured and the floor opened to one side, a fully set table rising up into the space.
+
+Tala gave him a look. “You knew we would accept?”
+
+He shrugged. “I assumed. I’d have had the food used elsewhere if you had said no.”
+
+She chuckled. “Very well.”
+
+“So, shall we?”
+
+“Indeed.”

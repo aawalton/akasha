@@ -1,0 +1,169 @@
+---
+id: 84d683a6-fb22-5989-916b-0b076a2a3db7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56 – Golems – Pt4"
+slug: 0056-chapter-56-golems-pt4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 56
+ownLength: 1813
+unit: words
+publishedAt: 2025-02-08
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2055870/chapter-56-golems-pt4"
+royalRoadId: "2055870"
+---
+
+Chapter 56 – Golems – Pt4
+
+Runes burst into the air. The birds above continued chirping, seemingly ignorant of the mutated hippo that looked at Kindra with an eager eye.
+
+Its feet dug into the damp earth, and Kindra dropped the carcasses, willing out the rifle and pouring mana into it.
+
+[Basic M4 carbine rifle has been enhanced with armor-piercing rounds for 2 hours. Each shot will negate up to 40 stamina when fired.]
+
+The hippo charged, racing across the ground at an absurd speed and throwing dirt into the air. The magic thrummed around it.
+
+With her heart thundering and dirt on her face, Kindra jerked the gun up, firing without a second thought or chance to aim at the point-blank creature. The gun boomed, and blood exploded from the hippo’s skull, spraying the surrounding ground and Kindra.
+
+The magic on it dimmed even as it crashed into Kindra like a dead bowling ball. She tumbled across the ground with the carcass, rolling across rocks, roots, and mud.
+
+Coming to a stop at the base of a tree, Kindra groaned. Her entire body throbbed. Her heart thumped through her body, and bloody mud was splattered across her face. Groaning, she waited for the world to stop spinning. It whirled around her, her brain thundering in her head.
+
+Well. That was a mistake.  Using a nearby tree, she stood, wobbling and listening to the muffled sound of the forest.  Do I have a concussion?  She blinked and felt something running down her neck. Reaching back, she dabbed her fingers in some sticky, wet fluid.  Is that blood?  She brought her fingers forward and sniffed. A metallic scent entered her nose, and Aika landed next to her.
+
+Kindra blinked. “Aika?” she slurred.
+
+Aika said something Kindra couldn’t hear, her heart drumming through her skull.
+
+“What?” Kindra asked.
+
+Aika turned and started shouting at Kode.
+
+He bolted over and pulled out a vial of red fluid, handing it to Kindra. “Drink it.”
+
+Kindra downed it. Tasting like a juicy berry, it washed around her mouth.  Not as good as blood.  She swallowed and felt the magic fill her, building like a storm. The pounding in her head slowly faded, and the sounds of the forest came into focus. “Thanks.”
+
+“Sorry about that. Caught me by surprise.” Kode looked back at the carcass. “It would help feed the camp.”
+
+Kindra reached out and latched onto the mana, ripping it to her.
+
+[Your mana has increased: 4584 → 4621]
+
+“We can drag it back. Give me a minute.” Kindra walked over to the stream and rinsed off her face and hands. Looking into the water, she examined her reflection.  I can’t believe this is where I landed and how I ended up.
+
+Kindra studied the white hair and blue eyes.  I look like an undead. No wonder they all give me that look.  Grabbing some sandy gravel, she pulled out a sword and burned mana to turn it into a compass.
+
+A wave of heat washed over her. Steam billowed off the gravel, and it rippled, becoming molten glass.  How is this not burning me?
+
+[Your magic protects you and it.]
+
+A needle of steel formed.  That should be magnetic.  Kindra watched the glass envelop it, encompassing it along with some of the water. As suddenly as it started, it stopped smoldering and became a small compass. The needle pointed toward the cliff, and she spun it, watching the needle and hoping it would line up again.
+
+The needle swung, pointing back at the cliff.  This will help.  She smiled and tucked it in her pocket.
+
+“What is that?” Kode asked, meeting her gaze.
+
+Aika laughed. “A—Kindra, how do you say compass?”
+
+Kindra gestured. “It points the same way all the time.”
+
+His brow raised. He held out his hand, and Kindra handed it to him.
+
+Spinning it, he examined the needle, watching it spin back around. Kindra chuckled and walked over to the carcasses. “I hope you have a lot of strength.”
+
+“He does.” Aika flew over to him. “Come on, Kode. You can check back at the caves.”
+
+Kode walked over, examining it every few steps. “Does it work everywhere?”
+
+“That’s what I have to find out.” Kindra smiled and grabbed the bird and wolves. She dragged them over to the hippo. “Do we make something?”
+
+He looked at the pile, grimaced, and handed her the compass. Reaching into his pocket, he pulled out a wooden whistle and blew, sending a trilling sound bouncing around the forest. “A few scouts will come over to help.”
+
+Kindra nodded and piled them up. “Do you see any easy to cut trees or anything I can use for ink?” She peered around the clearing and up at the canopy above.  “Aika? Can you chop down some small stuff?”
+
+Aika shot upward, her silvery wings blurring through the air. She zipped into the branches and chopped into the foliage. Leaves fluttered down, and the birds went quiet.
+
+Picking up her gun, Riley waited.
+
+“What is that thing?” Kode asked.
+
+“Gun. Fires things at high speed.”  And I need to upgrade it to handle a necromancer who can cast a magical force field.  She mused on it and watched smaller branches rain down. A large leaf tumbled down, drifting in the wind.
+
+The sound of chopping faded, and Aika burst out of the foliage, a large hawk diving after her. It extended large talons, and Aika suddenly shot upward. Like a sparrow against an eagle, she flew circles around the bird, slashing and cutting into it while the eagle spun and tried to catch her.
+
+“Die, dumb bird!” Aika shouted, slamming her spear into a wing joint. The eagle’s wing went limp, and it fell, tumbling like the leaves and hitting the ground with a crunch.
+
+Kindra looked up. “Are you alright?”
+
+“Fine.” Aika flew back into the trees.
+
+Kindra stepped forward and watched the bird flap its wings, trying to take off. It looked at her and hissed, magic streaming out of its beak. Kindra watched it, forming the counter runes as it formed. A burst of wind hit her, sending her hair fluttering. As quickly as it started, the winds fell away.
+
+The bird hissed, and Kindra pulled out her spear, swapping it for the gun.
+
+“Well, now, that’s handy,” Kode said, walking up and looking at it.
+
+Kindra nodded and stabbed. The spear blurred forward and bounced off the bird’s feathers.  You have got to be kidding me.
+
+Kode chuckled and held out his hand. “Allow me.”
+
+“Fine.” Kindra handed it to him.
+
+He spun, the spear glowed, and Kindra focused her attention on the runes.  Is that Power Strike or something? I should learn the sequence.  She memorized, and he ran the bird through, ripping out the spear and looking into the canopy.
+
+Kindra looked up and saw branches rain down. The sound of small chops filled the air, and she glanced back at the carcass, slowly pulling any leaking mana toward herself.
+
+Walking around the clearing, she gathered leaves and sticks, piling them off to the side. The sound of footsteps filled the air, and she spun. Two dwarves jogged toward them, and a large branch crashed down, hitting the ground with a thud.
+
+The guard looked up, confusion on her face.
+
+“Aika. She’s chopping.”
+
+“Good enough, Aika. The other dwarves are here.”  Kindra walked over and grabbed the branch. “Hello, I’m Kindra.”
+
+The guards stared at her and began whispering.  Whatever.  Kindra spun and added the branch to the pile. Using transmutation, she watched the pile smolder, the smoke streaming away while the wood changed.
+
+Aika burst out of the trees. She looked down and grinned. The leaves next to her rustled, and a small, brown feline poked its head out, meowing at her. She spun and looked at the cat. “What?”
+
+The cat meowed.
+
+“I don’t speak cat.” Aika shrugged at it. “Kode, what is this thing?”
+
+One of the guards stepped forward. “That’s an Otail, Lady Aika. They hunt insects and often end up as pets.”
+
+The cat turned toward the dwarf, meowed happily, and jumped. Kindra watched it fall.  Well, I hope it has a skill to —
+
+A flash of magic surrounded it. The momentum slowed, and it drifted down the last twenty feet, landing lightly. Kindra grinned.  Okay. That’s cool.  She turned back and grabbed her paper.  “Aika, I don’t suppose you saw any berries I could use to dye my hair?”
+
+“Nope, but we’ll find some.”  Aika flew down.
+
+Kindra grabbed the stack of paper and looked over. The dwarves had grabbed the various carcasses. She darted after them, heading back toward the settlement.
+
+Aika landed on her shoulder and sighed.  “Sorry that they keep looking at you like that.”
+
+“It’s okay. I look like an undead, and they can see it.”  Kindra felt something brush against her leg. She looked down at the cat, and it looked up at her, meowing. “Fine. Up you get.”
+
+The cat launched off the ground and landed on her other shoulder. Kindra chuckled and followed the guards.   The cat’s tail wrapped around her arm like that of a monkey, anchoring it to her. Aika flew over and looked at the cat. It meowed at her and began cleaning its face.
+
+“That’s very strange for a wild creature,” Aika said, looking at Kindra.
+
+Kindra nodded. “It is.”
+
+“Many species for symbiotic relationships, Lady Aika,” Kode replied. “It helps both. The cat will help remove smaller pests, and we’ll keep it safe from the bigger threats.”
+
+“Like the wyvern?” Kindra asked.
+
+Kode spun, raising a brow. “I’m surprised you heard about that.”
+
+“We were there when it happened,” Aika said, chuckling softly.
+
+Kindra laughed and followed him, looking up at the trees.  I guess I could go based on the mana inside.  She studied the lines in the nearby tree and followed the group of dwarves. The two were older, a lot older. The mana inside shone like a radiant sphere.
+
+Walking around the trees, they walked into the cliffs. The guards broke away, carrying the carcasses to a nearby building. Kindra turned to the cat. “This is home.” She walked into the tunnels, and the cat leapt off her shoulder. It sauntered down the lane with a swagger in its step.
+
+Kindra chuckled and walked further and further into the cave before pausing in front of her new home. She walked up and knocked before poking her head in.
+
+Sigrid looked up. “Kindra, dear, you don’t have to knock. It’s your home.”
+
+“Sorry. Just wanted to warn you.” Kindra stepped inside and froze. The three were gathered around a crystal. A bowl of glowing ink was at their side, and a quartz crystal was on the table. “What is that?”
+
+Gleon turned and grinned. “The key to our future,” he said dramatically.

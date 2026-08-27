@@ -1,0 +1,251 @@
+---
+id: a62726d8-e601-574f-9204-6d40da88df99
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 624 - Lea's First Schema"
+slug: 0126-chapter-624-lea-s-first-schema
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 126
+ownLength: 2518
+unit: words
+ownProgress: 2518
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2690643/chapter-624-leas-first-schema"
+royalRoadId: "2690643"
+markedReadAt: "2026-06-29T19:39:19.943Z"
+---
+
+Tala sat in the same inscription room in which she’d received her first set after the Academy. She and Mistress Holly were examining what would be Lea’s inscriptions as illusory lines on an equally illusory image of the girl.
+
+It spun at their gestures, zooming in where they needed before returning to a more high level view.
+
+Taken holistically, the schema was on the sparse side, partially made more so by how fine the inscriptions were overall. But that was to be expected given the magics already in the girl’s body as well as the nature of that body and her inexperience with magic.
+
+The two Archons had taken just shy of an hour to go over the schema again ensuring nothing stood out as flawed. With that complete, Tala contacted Rane, and he appeared beside them.
+
+He frowned, looking around before locking his gaze on Mistress Holly. “I believe that we were anchored too far to reach here from within the sanctum. Was I mistaken?”
+
+Mistress Holly waved her hand dismissively. “Your limitations are hardly my concern, and this will already take more time than I usually give to new customers.”
+
+He shook his head, a small smile tugging at his lips. “Very well. So, it is my turn?”
+
+Mistress Holly nodded. “Indeed.”
+
+She and he went over the whole schema again, Tala keeping her thoughts to herself so as to not influence his assessment. In the end, Rane determined what the two women already had. It was correct.
+
+With that done, Mistress Holly gestured, Archiving the verified pattern. Then, she manipulated the schema subtly reaching in and introducing a number of flaws—all minor and nuanced—scattered throughout.
+
+She raised an eyebrow at the parents and got nods in return.
+
+It was time.
+
+Alat and Enar signalled Lea and the girl arrived an instant later, clearly having been waiting for the summons.
+
+She didn’t notice the oddity of being able to come directly to Mistress Holly’s workshop.
+
+Mistress Holly was to take the lead here, so Tala and Rane didn’t comment as Lea saw the illusion of herself, eyes widening in delight.
+
+“Greetings, child.”
+
+Lea turned, belatedly bowing toward Mistress Holly. “Greetings.”
+
+“You’ve already seen the schema, I believe.”
+
+“Yes, Mistress.”
+
+“Good, good. There are ten flaws in the schema. Your task is to point out the flaws, and be sure. I will not accept less than the full set, all at once. Failure in this task will mean a delay in your inscribing.”
+
+Lea swallowed and nodded. She hadn’t known what form the final test would take, but she had been forewarned that there would be a final verification that she was ready.
+
+Over the next two hours, Lea went over every inch of the schema. After ten minutes, she was frowning. After an hour, Tala would have bet that a more standard child would have been sweating.
+
+Finally, Lea turned to Mistress Holly, defeat in her eyes, shoulders slumping. “I have failed.”
+
+Mistress Holly arched her eyebrow. “Explain. I saw you focusing on a number of flaws. Where is the difficulty?”
+
+Lea grimaced and growled before taking a deep breath and visibly calming herself. “At first, I could only find nine issues. Then, as I went over the schema again, I realized that I hadn’t taken overlay and through-patterns into account. That was wonderful, because I quickly found a tenth flaw…”
+
+“But?” Mistress Holly prompted when the girl seemed to hesitate.
+
+“But before I could tell you I’d found it, I noticed an eleventh.” Lea frowned. “In fact, I found fourteen all told. I’ve rechecked, making sure I wasn’t mistaken, but no matter how I look at it, based on my understanding, they are all flaws. I can’t narrow it down to the ten that are truly flaws.”
+
+Mistress Holly raised an eyebrow. “Oh?” She then looked to Tala and Rane. “I thought you said she was taking lessons from the fox-kin.”
+
+Lea blinked a few times, her eyes widening in realization. A moment later, they narrowed in annoyance. “You never said there were only ten. You just said there were ten.”
+
+Mistress Holly nodded once. “So, do you have a set of flaws ready to turn in?”
+
+Lea groused a bit, then sighed and nodded. “Yes.”
+
+She manipulated the controls of the illusion, highlighting fourteen places within the schema.
+
+As Tala examined the spaces, she agreed with seven instantly. They were obvious to the point of being effectively ‘free’ for Lea to find. Another four were more difficult to notice, even with them highlighted. When looked at locally, they seemed correct in comparison to the schema that had been put together for Lea, and only when examined in context did they become obvious flaws.
+
+Not errors in inscription pattern, but in subtle pattern placement within the whole? To test if she was just checking and comparing to a mental map of the patterns.
+
+-Exactly. It would only stand out if you understood the magics involved and how they were supposed to fit into the whole.-
+
+The final three were… esoteric. Even staring straight at the highlighted flaws, Tala could only tell that they weren’t quite right. They match the schema, but only because the schema shown has her own magics wrong…
+
+-Yeah, there’s an odd flux around them. If this were put in place on her, those points would be areas of magical stress that might cause issues.-
+
+“There, fourteen, Mistress Holly.” Lea bowed to the older woman.
+
+Mistress Holly smiled. “Those are, indeed, all flaws.”
+
+Lea straightened, seeming hopeful. “And… if I may ask, how many flaws were there?”
+
+Mistress Holly looked to Rane and Tala, the illusory Lea vanishing. After a poignant moment, the Inscriptionist allowed her smile to grow. “Fourteen.”
+
+Lea pumped a fist in the air, letting out a little squeal of glee. She reined herself in a moment later before bowing once more. “Thank you, Mistress Holly.” She hesitated for only a moment. “Does that mean that we can proceed?"
+
+Instead of answering verbally, Mistress Holly gestured, and the auto-inscriber moved from where it had been resting in the corner. “There aren’t too many who can use this, but you should definitely be one.”
+
+Lea nodded excitedly, clearly recognizing the device from her mother’s stories.
+
+Tala and Rane stood, congratulating their daughter with words and hugs before helping her get inside the torture-device-looking auto-inscriber.
+
+They knew far better than Lea how much this was going to hurt, even if they didn’t have experience with her particular physiology.
+
+Mistress Holly wasn’t one to leave that angle unaddressed. “Remember, Lea. You are magic-bound to your body. If you try to shut out the pain, even if it is ‘artificial’ pain created to help you have more standard interactions with the world, you will be harming yourself in the long run.”
+
+The girl nodded sagely before the helmet was fastened around her head.
+
+“Then, let us begin.”
+
+Mistress Holly closed her eyes for but a moment, and the various needles began to move, controlled by magics and guided by the schema logged in the Archive.
+
+Within, Lea began cycling her breathing before simply stopping the unnecessary action.
+
+Her eyes closed, and she seemed to relinquish all hold on her own body, the form not even twitching as it was injected with minute bits of metal dozens of times every second.
+
+Even so, Tala could see the girl’s core, her very soul, and it was reacting strongly to all that was occurring. “She locked herself in.”
+
+Mistress Holly and Rane both glanced toward Tala, the woman nodding in understanding, Rane frowning at the implications.
+
+“I think she’ll be fine, but I think it will be worse for her than it was for us. I slept for hours after my first full inscribing.”
+
+Rane grunted. “Even with such a limited set?” But after a moment, he shook his head. “Of course. You wouldn’t have said something if such an obvious fact would negate what you conveyed.”
+
+Tala smiled, leaning against him. “She will be okay.”
+
+He nodded, despite the concern on his features. “Yes. Yes, she will.”
+
+The next hours were among the longest in Tala’s life, despite her ability to see the entire process in intricate detail.
+
+She briefly considered if that was the issue, even going so far as to ask Alat to disconnect her from their threefold sight, but that immediately made things worse.
+
+In this case, knowing was vastly preferable to not knowing.
+
+How do mundane parents do it? When their child needs something done to them, and they can’t be there, watching every twitch of power?
+
+-I imagine they have faith in the healer, or the alchemist, or the doctor, depending on what is being done, along with the tools being used. Even here, you have faith in Mistress Holly and her machine. If she had nefarious intent—or even if something simply went awry—there isn’t much we could do to stop harm from being done, assuming we even noticed what was happening.-
+
+…Is that supposed to make me feel better?
+
+-No? I was trying to answer your question.-
+
+And the answer is that, even though I feel like I’m in a better position, I’m really not.
+
+-Exactly. But that’s fine. Tricking our own mind is part of what it means to be human.-
+
+…I think I’m done with this conversation.
+
+-Fine, fine. I’ll be here if you change your mind.-
+
+Tala looked up at Rane. “Are you nervous?”
+
+He returned her gaze and smiled. “Yes and no.”
+
+She continued to look up, waiting.
+
+Finally, he shrugged. “I am, of course, concerned for our daughter, but we’ve done all we can. The greatest expert we know of is doing what needs to be done, and in the end, there is nothing more we could have done. The only other option would be to forbid her magic entirely, and I doubt anyone would have been happy with that line of action.”
+
+Tala grunted, returning her gaze to the auto-inscriber and leaning against Rane once more. “I suppose that’s true enough.”
+
+They both fell back into silence.
+
+Mistress Holly, for her part, was slowly walking circuits around her machine, alternatively looking down at an Archive slate and back at the rhythmically moving needles. On occasion, the woman’s eyes would also unfocus as she looked at something else, likely through an internal Archive connection.
+
+She’d likely heard their conversation but didn’t seem to feel the need to participate in any form.
+
+Tala almost became irritated at that, wishing the woman would have offered reassurances, or the like, but even a moment’s thought allowed Tala to remember that she far, far preferred Mistress Holly keeping her focus on Lea’s inscribing.
+
+Overall, the process went smoothly and without incident. Tala and Rane’s conversation being the highlight of the otherwise rote process.
+
+When Lea was complete, Rane took up the girl, lifting her from the auto-inscriber and carrying her to the baths that Tala remembered so well.
+
+They weren’t exactly needed given Lea’s different physiology, but Mistress Holly still thought they would be useful for helping to reset the girl’s touch sensitivity and other sensation input if nothing else.
+
+After a couple of cycles of hot to cold and back once more, Lea began to stir.
+
+When her eyes fluttered open, her parents were both beside her, heedless of the water around them all. “Mom? Dad?”
+
+“Here, Lea.”
+
+“Here, sweet.” Rane was still holding the girl up, only aided marginally by the water.
+
+“Did…” Lea licked her lips unnecessarily. “Did it work?”
+
+Tala nodded. “Your inscriptions took wonderfully. Once you’ve recovered, Mistress Holly will help you ignite them properly. Has your body accepted them as a part of your physiology?”
+
+Lea’s eyes unfocused for a moment. “Yes… Huh… Upgrades detected, do I wish to keep them, or discard any part?” The girl shook her head. “Keep, of course.”
+
+There was a ripple of power deep within Lea, and she was focusing on them once more.
+
+“There, I think that was the last thing I had to address to keep my body from rejecting them.”
+
+Rane smiled. “That’s good, sweet. But you need to rest now. Sleep, and we’ll help you explore your new abilities when you wake.”
+
+“Promise?” Her tone was drowsy, but still full of pleading.
+
+“I promise, little Lea. Sleep.”
+
+Tala leaned forward and kissed the girl on her forehead. “Good night, Lea, Zeme’s newest Mage.”
+
+The girl smiled as she drifted off.
+
+Rane cocked an eyebrow, whispering to his wife. “Mage, eh?”
+
+Tala shrugged. “Well, she’s not really a mageling, and given we aren’t going to officially be her ‘masters’ calling her an apprentice seemed wrong. Besides, it fits.”
+
+Rane shrugged. “Fair enough, love. Come on. I think we can get her to bed now.”
+
+They waded through the draining water, heading toward the resting room that Mistress Holly had prepared for their daughter.
+
+Three hours later, Lea woke, sitting up instantly, and seeming wide awake.
+
+Rane vanished, and Tala immediately went into the room and sat beside her daughter. “Good morning, sleepy head.”
+
+Lea smiled. “Morning, Mom.” She shifted slightly. “Is there food?”
+
+Tala nodded. “Your father went to get it when you woke up, and—”
+
+Rane came back to the superficial, carrying a massive tray of food of various kinds.
+
+Tala grinned. “And he’s back.”
+
+Rane sat, holding the tray as their daughter immediately grabbed a breakfast sandwich and dug in.
+
+That one was scrambled eggs and bacon on a laminate, savory pastry. There was a bit of dressing added on as well to help elevate and unify the various flavors.
+
+Tala took a sandwich that was a sausage and a fried egg on a bagel, the yolk still runny to act as the moistener for the whole thing.
+
+Rane’s initial selection was effectively a bacon, veggie omelet pressed between two slices of sourdough.
+
+Tala shook her head slightly even as she enjoyed her first bite. She’d never really liked sourdough as a sandwich bread. With butter or oil? Yes, absolutely, but it just didn’t seem right for sandwiches.
+
+Regardless, Rane seemed to quite like it, so she was hardly going to put an end to such a use.
+
+None of the food was magical, and Rane and Tala were very carefully not allowing any of their power to brush Lea.
+
+In a sense, it was a bit of paranoid caution, given the girl’s every action was a result of power flowing through her body, but they didn’t want to accidently trigger any of the inscriptions prematurely.
+
+They were also collectively using their aura and authority to keep ambient power from interacting with their daughter.
+
+Nothing would ruin this if they could help it, and if that meant they had a few minutes of ‘over the top’ sheltering, then so be it.
+
+Soon enough, the familial meal had passed, and Mistress Holly had returned from one or another of her projects. “Are you ready, dear girl?”
+
+Lea nodded hesitantly at first, then more firmly. “Yes, Mistress Holly, I do believe that I am.”
+
+“Good. Then let’s see what you’re really capable of.”

@@ -1,0 +1,239 @@
+---
+id: 21f77ffb-061a-53aa-8159-9bbb03c30bc4
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 54 - Liability (2) "
+slug: 0096-chapter-54-liability-2
+partOf: metaworld-hopecore
+position: 96
+ownLength: 2217
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3480821/chapter-54-liability-2"
+royalRoadId: "3480821"
+---
+
+To Eppie, Valorie’s near-silent moans felt agonising until Sir Justin Woodhouse filled the doorway with immense relief.
+
+He approached Vaughan first.
+
+"Madam."
+
+"Justin."
+
+Universal's Creative Director looked at the room—the bandages, the dressing, the general evidence associated with launching a terracotta pot into the stratosphere—and chose silence. A dozen paces later, he reached Valorie’s side.
+
+“I am sorry, Sir Woodhouse,” Valorie mumbled.
+
+Eppie felt a zap of electricity surge through her chest. So you CAN say sorry! Where’s mine?!
+
+Whatever passed between them was brief, without audible words, and inaccessible to someone like Eppie. Val stood. She pulled the blanket from her shoulders and folded it with the neatness of someone raised with an etiquette tutor.
+
+She did not look at Eppie.
+
+Woodhouse turned to Eppie in Valorie’s place.
+
+He gazed at her with immense discomfort, induced by, Eppie surmised, a fairly complete picture of how the evening's theatre had ended and what role a fifteen-year-old girl in a ripped Givenchy had played.
+
+The man settled on directness.
+
+"Miss Fontaine." He paused. "Thank you for helping Valorie come to her senses."
+
+The man was sincere. Eppie accepted it.
+
+"I should also note," Woodhouse added with a smile, straightening, resuming the facade of the British socialite, "that this changes nothing between myself and Director Curon. We remain competitors in every professional capacity. See you at the Grammys, Miss Fontaine."
+
+"Naturally," said Eppie, feeling like she should extend an Austenian hand for Woodhouse to kiss.
+
+Woodhouse eyed her bandaged hands, gave her a precise nod, then held the door open for Valorie. Valorie moved toward the exit. At the threshold, she stopped.
+
+She turned. Not all the way. Just enough. God, that dress is ridiculous. Eppie had to change the direction of her gaze.
+
+Thank you. Maybe Valorie said it. Maybe Eppie imagined it. She didn't know. All she saw was someone who had some very difficult choices to make, and most likely didn't have the strength to pull it through, at least not without further encouragement.
+
+Then Val was gone. But that was fine. Come January, they would have five months on Cooper’s chain gang.
+
+Sir Woodhouse bowed. The door closed.
+
+"George, bring us some tea," Juliana Vaughan had already cleared out a space free from bandages, blood and scattered band-aid wrappers. "Let's talk."
+
+George set down the tea, cakes, fresh napkins, and cutlery, then left with the bin of soiled wipes and bloody bandages.
+
+"Chamomile with Rose of Valencia," Vaughan said. "From a local shop on 5th Avenue. They have their own flower farm."
+
+Now, it was Eppie's turn to sit with her bandaged hands between her legs, listening to someone else speak.
+
+Vaughan poured for both of them. She drank her tea hot.
+
+"Was it all true?" she asked. "What you told Valorie."
+
+Eppie considered the question seriously. She had taken… a little theatrical liberty.
+
+"Everything about Mio is true, about as true as I can know." Since I was there. "There's something I haven't told Valorie, though. Only a few people know."
+
+"You don't have to tell me if it's sensitive," Vaughan said.
+
+"Mio's pregnant. She's due in January."
+
+Vaughan's teacup clinked against the saucer. "Jesus…"
+
+"She's safe, happy, she's… moved on," Eppie said softly.
+
+Vaughan replaced the cup. "Does she need help? Financially, perhaps?"
+
+"I took care of it. What matters is her amazing family and community."
+
+The curator accepted her words as fact.
+
+"As for Simone's story…" Eppie coughed. "She's a waitress at a Chinese place associated with the Chens. She works the tables in a short skirt and gets decent tips. The uncles there are apparently very protective of their hei-mei-mei. She's going to take her two sisters to Disneyland in January. It’ll be their first visit."
+
+Vaughan absorbed this. "I see."
+
+She smiled.
+
+"And yourself?"
+
+Eppie inhaled as she gathered her thoughts.
+
+"I have no idea," Eppie said finally. "I know what Simone told me. She pushed me by accident."
+
+She stopped. "Then I woke up in the hospital as the person you now know."
+
+The ancient lamp flickered. Outside, the last of the guests were departing—the faint punctuation of doors and engines and the particular quality of silence that follows a large gathering when it has finally exhausted itself.
+
+"Will Valorie repent?" Vaughan asked.
+
+Eppie thought about the question genuinely. She turned it over in her head, but in all honesty, her bet wasn't on Val making it to the finish line.
+
+"I think Valorie has to choose to live with her actions, or seek penance," Eppie said. "Did you know that I confronted William? I told him I had proof. I told him that if he apologised, paid reparations, and went to jail, he could be out when he's thirty and still living the most amazing life anyone can manage. His response was to consider if I could be pinned against a fence and taught a lesson—at least, that was the look he gave me."
+
+She sighed.
+
+"As for Val, I don't know for sure. I think she will choose to live with it. She won't make things worse, but that's not her choice to make. Living with the knowledge—is that enough? She has to confront William, and I don't think she has the head or the heart for it. What I can imagine is William pushing her down the stairs again, only this time, she might not clamber back up. That or, after I do away with William, she'll just find herself another one. Maybe Grein this time, for real."
+
+Because William is a [Usurper of Hope], the kind of creature only Grein could match.
+
+Vaughan sipped her tea. "You will do away with William?"
+
+"I am almost there, in fact," Eppie explained to Vaughan her plan. Her Mouse Trap. "A bit hypocritical, considering your lesson to me, but it is what it is."
+
+Vaughan did not argue with her conclusion.
+
+"So, let me surmise," her mentor said. "You have thus far taken from William the man called Fat Lim Wang, then Simone Goode, and now, Valorie, for better or worse. And you have put into place a public trial so humiliating that death would certainly be preferable."
+
+"Apparently."
+
+"And you have done this," Vaughan said, "over the course of what is, by any measure, a single school term?"
+
+"I also did Neo Antigone, learned the guitar, released two classics, have two more cooking, wrote a Number One, and aced my academic challenges," Eppie informed her teacher with all the humility in the world.
+
+Oh, and Eppie's [Memorisation] threw up an open thread. What's happening with Mio's song?
+
+Vaughan studied her. Eppie grew increasingly self-conscious as the curator's critical eyes landed on the ruined Givenchy.
+
+"And you," Juliana Vaughan said, "dare to call me Machiavellian."
+
+The corner of Eppie's mouth moved.
+
+"And speaking of Machiavellianism," Vaughan finally reached across the table to take her bandaged hand. The old lady caressed the pink bandage, as if the wound were her own. "I think you made the right choice—to save Valorie, that is."
+
+Her teacher's eyes were soft. "I am not sure if you will believe me now, but I wasn't going to let Grein leave with your friend."
+
+Eppie listened. She neither nodded nor refuted the woman's assertion.
+
+"You read my Hamlet better than I did." Vaughan’s expression was bittersweet, defeated. "And now I am too self-conscious to continue the play. Can you tell me why? Why did you save her, despite all the ample reasons not to?"
+
+The answer, Eppie deduced, wasn't something that could fully be expressed in words.
+
+Morality wasn't a balance sheet. The human conscience wasn't a ledger. Goodness could be utilitarian, but did that apply to the human heart? She did it because she was Brutus because of something more innate than reasoning. She hadn't thrown the pot at Grein because of the [System], nor because of guilt or sentimentality or pity.
+
+She had managed the strength because it was, in that moment, the right thing to do.
+
+So she told Vaughan exactly that. It felt right.
+
+"Eppie. Do you still want to stay here?" Juliana Vaughan listened, digested her simple words, and gave her verdict. "You, me, and Mirabelle. We can do things. Great things. For art. For the people of this city. This country. Maybe beyond that."
+
+"I can't." Eppie felt herself deflate even as the answer left her lips. "You are an institution, Juliana. You're so embedded in the system. I am scared that, if I take up your mantle, I'll become a part of it too."
+
+And if I did. Then what's the point of her rebirth? What's the point of the [System]? She didn't need a mysterious [Karmatron] to make the world a better place. With her knowledge of the past and her financial expertise, she could be a benign tyrant. She could create, for a small, glorious half-century, an American Utopia.
+
+"Do you know another way?"
+
+Eppie shook her head. Eppie nodded her head. She looked like an indecisive feline.
+
+"I don't know what it looks like yet," Eppie confessed. "I want to be honest about that. I don't have the method. I don't know how long it takes. I know it's slower than what you do. I know it's less efficient. I know the Met is a shortcut to everything I want for the world. I know—"
+
+"And yet," said Vaughan.
+
+"And yet," Eppie answered.
+
+Vaughan waited for her answer.
+
+"You're going to tell me I'm naïve," Eppie didn't want to say the words. Even in her head, they sounded stupid.
+
+"You ARE naïve." Vaughan’s smile was without judgment. "Now spill the beans, Saint Fontaine."
+
+Eppie looked at her bandaged hands. Blood spots were seeping through on her wrists. "Maybe we need to stop thinking so much. Stop thinking about the efficiency, the calculus. The cost-effectiveness. Maybe it's just about the intent, the origin thought. I'll make the world a little better, person by person, and then they will pass it on. The world becomes a little better, just a little, the movement grows, it gains mass, it becomes momentum."
+
+She looked up. Vaughan rotated her teacup. "Yes, that is the definition of naïve," she said at last.
+
+Eppie sighed. No shit.
+
+"You are proposing to do by hand what can be done by lever. We've industrialised goodness, about a century ago, if you must know."
+
+"I know," Eppie said. Maybe I should have just shut up.
+
+"The overhaul of systems requires systemic intervention, not—" Vaughan paused, choosing the word with care not to be too upsetting. "Theatre is not enough."
+
+"What is a man?" Eppie said quietly, "If the chief good and market of his time be but to sleep and feed?"
+
+The room felt smaller.
+
+Vaughan looked at her with suspicion. "Are you setting a trap for me? The Mousetrap?"
+
+"I can't be your heir, Dr Vaughan," Eppie said at last. "At least, not until I change your mind. Completely. Totally. I don't know when. I don't know how. But I will."
+
+The Chief Curator of the Met considered her words. She considered her bandaged face, her torn Givenchy, her bruised thighs, and her tiny body.
+
+"And that is your veritas?" Vaughan sipped from her cup. "What of—"
+
+"William is an exception. Fuck that noise."
+
+Vaughan almost spat out the tea she was nursing. Her mentor laughed—loud and clear, her eyes filling with tears.
+
+"If you need help," she said, dabbing her face with a handkerchief. "Come to me. We can be friends, at least. Friends for Good."
+
+"I won't be a stranger," Eppie said, her chest warm. "I will change your mind."
+
+It was a statement of fact.
+
+With a flourish, Eppie stood. It was time to leave. Now was the perfect conclusion to the night. Walking with dignity and her head held high, floating on the euphoria of spotless virtue, she made for the door as the noblest Roman of them all.
+
+George opened the door.
+
+The midnight air caressed her bare legs. Her bare midriff. Her bare shoulders. Her bare feet. Eppie sneezed. The Givenchy chiffon, hem-split, graze-stained, terracotta-dusted, with the structural integrity of something that had survived an Eppie-made disaster at personal cost, demanded redress.
+
+George closed the door.
+
+Vaughan stifled a laugh.
+
+"It's late," Eppie said. "Could I…"
+
+"I have already prepared towels and a change of clothes, Miss." George was already beside her, wrapping her with the cashmere shawl. "You may have the principal guest room for as long as you wish while you mend."
+
+Eppie left. The door closed. The protégée was gone. Gone for Good.
+
+After about fifteen minutes, there came a knock on the door.
+
+Mirabelle entered with a smile. "Is she gone?"
+
+"She's upstairs," Vaughan said.
+
+Mirabelle watched her for a moment.
+
+"Will she be our opponent?"
+
+Vaughan shook her head slowly. She moved to the window. The garden below was December-dark. In the centre, a replica of Michelangelo's The Dying Slave was illuminated by uplighters on all sides. From where she stood, she could see the simultaneous act of surrender and struggle.
+
+"If being good is our opponent," she said at last, "then we are already our own worst enemies."
+
+Mirabelle's eyes glowed in the dimness. She loved Vaughan dearly, for even when her teacher got her ass kicked, her wisdom was infinitely quotable.

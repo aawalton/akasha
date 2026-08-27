@@ -1,0 +1,295 @@
+---
+id: fb3e0ca4-e8c6-58a6-9e54-624791f7872c
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 60 - Kaerō ka na (2) "
+slug: 0106-chapter-60-kaero-ka-na-2
+partOf: metaworld-hopecore
+position: 106
+ownLength: 3383
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3517958/chapter-60-kaero-ka-na-2"
+royalRoadId: "3517958"
+---
+
+Morning came.
+
+The trio rode out in the Mercedes.
+
+Kiritani watched the land flatten. Orchards gave way to scrub, then to long fields of pale stubble, then to nothing at all. He wondered if the US military had chosen the place for its psychological desolation. California was a verdant state, but here, the sky made a man feel small and insignificant.
+
+Mount Shasta stood white and alone on the horizon.
+
+He felt… Natsukashii. The word did not translate cleanly. Not nostalgia. Not homesickness. Closer to the ache of recognition than anything else, but sans the bittersweet feelings, because Kiritani could only recall the bitterness.
+
+The Newfoundland called Eric drove without speaking. He was a good man. He understood what was about to happen. Eppie sat half-turned in the passenger seat. She was smiling at him now and then. This made Kiritani less sad, because Eppie-san being more nervous for Kiritani seeing Tule Lake than the man who had lived there was an amusing thought.
+
+And so, they drove in silence.
+
+Kiritani did not mind the silence. He was working himself up as well. The courage he tried to summon was not something he had expected to possess for the last fifty years. A week ago, he was trying to keep the cats warm in Central Park. Now, he was here, in this heated seat, in this heated car, with Eppie-san and Lee-san, going to see the place that took his papers.
+
+Maybe he would cry? The thought was amusing to Kiritani.
+
+The landscape changed again. They were closer now. Dust trailed the Mercedes. He remembered the bus, the dust. The dust that found its way into everything. The rice, the bedding, the seams of his one white shirt. He remembered Tanaka, grinning through all of it, catching scorpions in a coffee tin and naming each one after the guards he despised. He remembered the latrines in August and the cold that rolled down from the mountains in winter, so cold that they had character. He remembered the women singing at night, very demurely, hauntingly, songs with no English.
+
+The guards did not like that. There were no more songs after that winter.
+
+He remembered the day they gave him a number.It was funny, now that he thought about it. He had no passport. No birth certificate. No Social Security. But he did have his number. TL-19204.
+
+“TEE-EL-NINE-TEEN-TWO-O-FOR!” The warden's accent was deeply southern. Kiritani could not understand a single word he said, which enraged the man on an existential level. Some years later, in New York, he had heard that they made a movie, “The List,” centred on one of Japan’s former allies, the Germans. The Fascists had tattooed numbers onto their prisoners. Kiritani’s, by comparison, was only a card.
+
+The land began to fold itself into low black hills. Old lava, scorched and sleeping, led to a lake that no longer held water. Holding, instead, human misery.
+
+“Mō sugu,” he told himself. Soon.
+
+His hands, folded in his lap, had begun to shake. It wasn’t the vibration of the car. The car was very quiet, very expensive.
+
+Eppie-san noticed. She was always watching. She reached back and laid her hand briefly over his, the way one steadies a cup in a moving car.
+
+Kiritani breathed.
+
+Sutte. In.Haite. Out.
+
+The car slowed.
+
+Ahead, past a chain-link fence grown flaccid with disrepair, past a government sign that named the place in English. Suddenly, with no ceremony at all, they had arrived.
+
+Flat. Vast. Sun-bleached.
+
+Cruel. It was a cruel landscape. Here, cruel things had happened.
+
+"We're here," Eric said quietly. “Sensei?” Eppie held his hand as they exited. He needed the help.
+
+Kiritani did not answer, because the old artist was no longer here. He had gone inside already. He was twenty-one years old, with dust on his shoes, looking up at a sky that had not shown compassion in sixty years.
+
+Cruelly, Kiritani realised too late that this was not a return:
+
+Instead, the NO-NO-Boy had never left.
+
+They watched the old artist amble, very slowly, through the gate alone.
+
+In Eppie’s memory, in her world, Tule Lake had a formal visitor centre, rangers on site, ticketing… and, in the way of Lana’s America, it had a gift shop.
+
+There was nothing here now save the dregs of memory.
+
+The fences. The stockade. The motor pool.
+
+And broken-down longhouses where the inmates were kept.
+
+Kirtani moved slowly, deliberately, like a man entering a dream, slipping through history while walking in real time.
+
+Screech—
+
+The crunch of rubber on gravel turned them both around.
+
+A second car pulled in behind theirs, dust still rising off its tyres. The woman who stepped out was familiar to them.
+
+“Ms Lafitte,” Eppie bowed her head. “You’ve made it.”
+
+“You’re late,” Eric grinned. “I guess this place is a bit far out.”
+
+Lafitte wore her sunglasses pushed up, stabbed into her greying bun. She looked entirely too pleased for a woman with her level of journalistic integrity. Clearly, she was here to bear the good news.
+
+“It’s you guys who are late,” she grinned at them, her pearly whites glistening in the cold sun. “I was here an hour ago. They’ve already gone in.”
+
+“They?” Eppie felt her heart skip a beat. “You’re serious?”
+
+“Absolutely serious,” Lafitte laughed. “They weren’t even hard to find. Did you know there’s a website? Tule Lake Pilgrims? No joke. The families who chose to stay in these areas actually run tours for displaced families to visit. I basically just… booked a tour. I wouldn’t call that investigative journalism…”
+
+Eppie smiled at Eric. She was smiling so much her jaws ached. Eric was smiling as well, but unlike Lafitte and Eppie, he was just happy to see them happy.
+
+Out across the flat gold grass, Henry Kiritani kept walking, smaller with every step, shrinking away into the past, until the old camp swallowed him whole.
+
+As a liminal memory in a floating world, Kiritani visited his past selves.
+
+He walked the stockade and was shocked at how small it was, that such a small space could cage so many men at once. The bars were rusted now, and the place was choked with dust. The building itself was tender with age, sagging in the middle, no longer a threat. He laid two fingers against the broken windowsill and watched the dust drift from the gaps. He had spent eleven days in here once for the crime of asking a guard, politely, in English, where Tanaka had gone.
+
+He walked from the stockade to Barrack 7, Block 42. There were no signs, no landmarks, but his feet remembered the distance. His body itself affirmed the space where the building had been. He could feel the doorway, or the ghost of it, the crampness of the room. The dust… the dust that got everywhere. There were eight people here at the beginning. Two by the end. NO-NO-Boys like him. There was a space where he kept his trunk. Inside were scraps of paper, scraps of cardboard. Inside were pictures of the camp. Of cats that had perished long ago.
+
+His feet continued their pilgrimage. He arrived at the lake. There was a lake once. There were ducks, he was sure, and reeds. The American government had drained it two decades before the Japanese-Americans arrived. They had turned life into death. There was no lake. There were no tule, the name of the bulrush reeds.
+
+Everyday, Kiritani stared at the life that was. The flat, grey-gold earth of the river bed, cracked a thousand directions, shattered singularly as if by some enormous bomb. He had drawn this lakebed a hundred times from memory. It was, in his mind, a great wound, a blight upon the sublime world.
+
+He remembered telling Tanaka that he would have liked to swim in the lake that once was.
+
+Kiritani wasn’t sure how long he had walked, but the butte looked bigger now.
+
+Petroglyph Point, the guards called it. The Japanese families who could understand English said it was covered in ancient carvings, geometric patterns, made by the folk who owned this land before the Americans arrived, before the lake was drained, before they built a prison.
+
+Kiritani found a piece of flat, dark, volcanic rock.
+
+He sat, slowly, the way an old heron settles into place in the reeds. Enjoying the story? Show your support by reading it on the official site.He found that his eyes had grown very heavy. The sun was warm on his face, despite the cold in the air. His clothes, his new clothes, were unbelievably warm. His hip ached. His ankles ached. His soul ached.
+
+But he felt at peace.
+
+He closed his eyes.
+
+Would Eppie-san be sad if he never woke up? Knowing Eppie, she would probably cry.
+
+Kareru ike Fuyu no hi nuruku Nemuru ka na
+
+枯れる池 冬の日ぬるく 眠るかな
+
+The dried lakeWarm in the winter sun — Shall I sleep, I wonder
+
+Henry KiritaniTule LakeJanuary 2008
+
+He would just… rest his eyes, and—
+
+“Ohayō!” a voice sounded beside his ear.
+
+Kiritani’s eyes opened. The young lady who stood over him was not Eppie san, but a little ojou, about six or seven, her black hair styled with a neat-cut fringe, staring at him with a seriousness that only guileless children and old senile men could manage.
+
+There was something about this child… something very familiar.
+
+Tanaka? No. Tanaka was a boy.
+
+“... Are you dying?”
+
+Kiritani choked on his own thoughts. The question was so shocking that, for a moment, his body forgot it was 87 years old and decided to sit up.
+
+“Hana! Mō! You cannot say such things!” a voice, an adult voice, old but not as old as his own, called out from Kiritani’s left. “Shitsurei deshita, Kiritani-sensei… she was raised American, this is my fault—”
+
+Kiritani turned his face.
+
+He was expecting a boy, but instead, he saw an old man with a cane, larger than the memory in his mind, taller, fatter. The old man's face was lined all over, in the way that a farmer’s face reflected the years he spent in the open field. He was looking at Henry and smiling, while also horrified at his grandchild.
+
+"Kiritani-sensei," the old farmer, his face tanned, his voice cracked, sounding no longer prepubescent, called out across the same dusty yard from fifty years ago. “Mada neko wo egaite imasu ka?”
+
+Do you still draw cats?
+
+Hana squatted beside him, her enormous eyes staring, her hair falling about her doll-like face.
+
+“Donna neko desu ka?” she asked what kind of cat. “Can I kiss them?!”
+
+“OH, THANK GOD.” Eppie held onto Eric hard enough to bruise the poor man. “He’s alive. I thought…”
+
+I thought the pause in the [Causality] stream meant…
+
+Eric wiped anxious sweat from his brow as well.
+
+They had been watching from a respectful distance.
+
+Eric, Eppie, and Lafitte stood together. They watched two old-timers, one with a cane, one with endless trauma, wordlessly embrace while a little girl in a sakura-hued coat stood beside them, bored after only five minutes of living history.
+
+Click—Click—Click—
+
+Lafitte’s camera sounded almost apologetic, the gesture of a machine that understood it was imbibing something far more than colour and light imprinted onto a digital sensor.
+
+Once the old men began to return, she lowered the camera.
+
+“Thanks, Eppie,” Lafitte said to her, quietly. “For the story.”
+
+“I just made a call,” Eppie felt so drained that she just half-flopped against Eric. “It’s not even my story to tell. What’s there to thank?”
+
+“Well, however humble you propose to be, you should brace yourself.” Lafitte exhaled as she slung the camera once more against her ribs. “Come March, this story will have legs—from California to New York—and from America to Tokyo.”
+
+Sacramento. The pines.
+
+Seeing as Tanaka-san and Kiritani-sensei were no longer separable, Eppie made the call to accept Tanaka’s invitation to their farmhouse, so that more time could be made for the pair of old friends to catch up.
+
+The Tanaka farmhouse sat at the end of a long dirt drive outside Sacramento, ringed by almond trees gone bare in the winter. A dog named “Tobimaru”, the size of a calf, lifted its head to regard Eric, nodded in affirmation, then licked his hand, because game recognised game.
+
+With Eppie, Tobimaru tried to lick her into submission until Hana called him off with a shrill and firm “No!”
+
+The farmhouse was almost too typical. It had stained pine floors with family photographs marching up the staircase wall in chronological order like a visual genealogy. The one difference was the back room, the one they were shown for the night, a room laid with tatami. Eppie marvelled at the pale gold straw mats, a low table, and a single scroll of calligraphy.
+
+“My mother insisted,” Tanaka said, by way of explanation, easing himself down onto a cushion with the careful negotiations of a man whose knees had strong opinions. “She never could sleep in the normal beds.”
+
+In the main farmhouse, they were delighted to meet Tanaka-san’s partner.
+
+Margaret Higgins-Tanaka was much taller than Ichiro Tanaka. She was platinum-haired and athletic, wearing faded jeans and a practical winter jacket. Her complexion held the particular texture of a Californian who truly loved the great outdoors.
+
+She bowed when Kiritani turned to her, low and unhurried, the bow of someone who had been doing it habitually for some time.
+
+“Hajimemashite, Kiritani-sensei,” she said. The American woman’s Japanese was clean and unaccented, the register of a woman who had learned the language out of love. “Tanaka Margaret to mōshimasu.”
+
+My God… Eppie’s eyes moved from the tall statuesque lady to the short, squat Tanaka. Our brother has got game.
+
+Kiritani squinted at Margaret for a long moment.
+
+Then he looked at Tanaka. Then back to Margaret.
+
+“Musume-san desu ka?” Your daughter?
+
+This time, it was Eppie who almost choked. Kiritani-san! Is it that hard to believe that Tanaka-san’s got GAME? Would you rather cross the barriers of genetics?
+
+"Tsuma desu," she said simply, with a small smile. His wife.
+
+Tanaka looked wounded. “Sensei…”
+
+Dinner was simple and enormous: miso, rice, grilled fish, katsu, pickled vegetables, a pot of mixed purple rice that the granddaughter insisted on serving herself. The low table was crowded, loud, warm in the way that only houses with three generations under one roof ever manage to be.
+
+Hana was staying with them because it was still school holidays. Her parents worked in California as a GP and a Pediatrician. The cost of their success was that Ichiro and Margaret Tanaka effectively raised Hana.
+
+It was over the second pot of tea that the story came out.
+
+“I also invited you here today, Kiritani-sensei, because I wanted to tell you something. Something I’ve wanted to tell you for a very, very long time, ever since I left that camp.”
+
+Henry Kiritani asked him to proceed, in the old formality of an older gentleman showing deference and respect to the younger one.
+
+“After the war, when I left the camp with my new parents, we were given twenty-five dollars and the notice that our old homes had been sold for next to nothing to the Americans who came to claim them.”
+
+The room grew quiet except for Hana.
+
+“The Kurodas, my new family, felt immense shame. They had told me they would take care of me, but their shop, their house, their business were all gone. We didn’t know where to go, how to rebuild our lives. Mr Kuroda had dreamt of returning to his Tea Shop for six years, and now…”
+
+Tanaka sighed, then he looked up at his wife.
+
++ Karmic Causality
+
+Oh… Eppie realised where this was going almost immediately. Did I set this up? I… I guess I did…
+
+“We were staying at a Marysville motel, at our wits' end, when someone came to find us. Mr Walter. G. Higgins of Sacramento. He did not come for the Kurodas. He came for me.”
+
+Tanaka held his wife’s hand. “Mr Higgins told me that six years ago, he was friends with a Japanese man who ran a farm that grew the best damn cabbages he’d ever tasted. I’ve never seen this man, because they usually met at the farmer’s exchange. He told me that Otosan would share a drink with him, and they would talk about farming, about life, about the war.”
+
+“When Otosan didn’t show up for several market days, he went looking for him. He came down to the farm, and he found an abandoned lot, being sold on the cheap by a government man who asked him if he wanted the farm.”
+
+Tanaka's voice didn't crack much as slow down, his anger rising but also being soothed by his wife’s presence.
+
+"The government asked for sixty dollars an acre. Higgins-san bought our farm on the spot. The whole thing.”
+
+“So we followed Higgins-san back to his property—my old home. And found it as it was. Untouched.”
+
+Tanaka’s voice shivered with emotions his listeners struggled to imagine.
+
+“Our family photos were still here,” he said. “Okasan, Otosan… all still here…”
+
++ Karmic Causality
+
+Eppie found herself dabbing away tears. She now knew why Margaret had given out so many napkins earlier. Her eyes wandered from Tanaka to Kiritani. The story, she knew, was for her Kiritani-sensei.
+
+“Mr Higgins wanted to give the farm back. He couldn’t, legally, of course. The government wouldn’t allow it. The county clerk told him my father was deceased, and the transfer, therefore, impossible. Not to mention, I had no papers.”
+
+“So we stayed on as farmhands for the Higgins, but in reality, we were living on Otosan’s farm. I met Margaret here, and she felt sorry enough for me that—”
+
+Margaret slapped her husband. Everyone laughed through their blurred vision.
+
+“—Well, I guess you grow close when you grow up in the same house, sharing the same chores. It took me too long to understand what we were to each other. There was a lot of opposition, not from Oto-sama, of course, but from the neighbours, the Parish.”
+
+“The last time I spoke to Higgins-san, when we walked down my farm to his, he told me that never once had he felt peace walking on the Tanaka’s land, even as he took care of it. He felt like a thief standing in another man's boots, and he would never put an end to that feeling until he found his friend and gave him back the farm that fate stole.”
+
++ Karmic Causality
+
+No one at the table was pretending not to cry anymore. Eppie had a hand pressed over her mouth. Lafitte had stopped writing entirely, her pen forgotten against her notebook. Even Eric had to look away toward the window for a long moment. A white American had acted with honour in a moment of collective dishonour, and the world was a better place for it.
+
+Tanaka squeezed his wife's hand. She squeezed back and said nothing, because Tanaka had finally done the very thing that Mr Higgins had done for Tanaka’s father.
+
+He had told a story.A story of compassion for his Kiritani-sensei.
+
+“Why are you all crying?” Hana tilted her head, her enormous eyes watching them from the floor. “Do you want more katsu?” She had earlier eaten the last piece.
+
+For a long moment, nobody spoke. The fire ticked in the next room. Tobimaru sighed against the porch boards outside.
+
+“So I hope,” Tanaka said to his sensei. “That you won’t hate them too much, Kiritani-sensei. There are good people here as well. No matter how harsh life has treated you, I want you to know that a good man saved me, and without this, none of this—”
+
+He gestured at the farmhouse, his eyes benevolently hovering over the cutest little girl this side of Sacramento. “—would be possible.”
+
+Henry Kiritani bowed his head deeply.
+
+Huh? Eppie wondered as the man seemed to make peace with himself. Where is my [Causality]? Was the [System] on a delayed fuse? Or—?
+
+Then the artist’s eyes landed on herself, and with a sudden burst of heat from deep inside her chest, Eppie understood why there was no more reward.
+
+Kiritani-san did not need Tanaka-san’s convincing.He was already at peace.

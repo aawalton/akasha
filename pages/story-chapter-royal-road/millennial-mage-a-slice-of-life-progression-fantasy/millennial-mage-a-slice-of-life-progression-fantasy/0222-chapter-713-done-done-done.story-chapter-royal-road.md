@@ -1,0 +1,245 @@
+---
+id: 4ca2085d-e100-5446-b1c8-13b458532d64
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 713 - Done, Done, Done"
+slug: 0222-chapter-713-done-done-done
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 222
+ownLength: 3052
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3509030/chapter-713-done-done-done"
+royalRoadId: "3509030"
+---
+
+Tala heightened her focus.
+
+It had only been two weeks, but they’d been able to accelerate the process immensely at every level, to make the quicker turnaround possible and cutting down the overall time by a nearly a third.
+
+The first hold—the one in Platoiri—was already host to near the required number of people with expectation of hitting sustainable population in the next couple of days.
+
+The magics were working perfectly, with power already beginning to flow from the new column, now fully regulated and attenuated by the Revered City Lord of Platoiri.
+
+All eyes seemed to be on the results—as made sense given the immense effort and expense that had gone into the solution—and it was meeting expectations splendidly.
+
+Degradation of reality within the spaces was below projected levels by a fair margin, and there was, as of yet, no room for complaint.
+
+Rane had been stomping out small units of automata in the far north as well as coordinating with the few cities and settlements up that way.
+
+At the same time, Black Legion forces had begun to appear in small groups across the continent. In some cases, they appeared near strategic targets, seemingly trying to remove people or resources from the alliance, but at other times, their location seemed random. It was even possible that they were, in fact, just surfacing at random and attacking what they could.
+
+After the failed attack on Makinaven, that city had been entirely avoided by the automata. It was actually a source of some humor, and more than one Archon and arcane had asked Master Jevin just what had allowed him to execute such an effective rout.
+
+It was unfortunate that he really couldn’t do the same away from his tree.
+
+The other tree cities had been similarly assaulted in a random sequence, and those attacks had been fought off effectively, if not with the same rapidity or devastation to the attacking forces.
+
+No more attacks had come on arcane cities, and the non-tree, gated cities were as of yet untested, but as they were the ‘next most northern’ type of city, many assumed they’d be next.
+
+All told, the alliance had been able to confirm that there had to be automata factories up and running because across all the allied forces, they’d destroyed well more than that projected fifty-thousand Black Legion automata that should have existed.
+
+So, they're either making new ones or at the very least new bodies for those previously destroyed.
+
+-Indeed.- Alat paused dramatically for a moment before continuing. -Or there were more to begin with than anyone realized.-
+
+That was a rather unpleasant thought…
+
+In any case, the less effective responses from the other city trees seemed to have emboldened the Black Legion, as those regions were harassed in one way or another every few days at irregular intervals while Makinaven was entirely left alone.
+
+Lea was nearing the halfway point of her whirlwind tour of the southeastern cities.
+
+The Black Legion had completely switched tactics as one should expect from a crafty enemy.
+
+From the ten simultaneous, all-out assaults, the automata had shifted to a sporadic, small-unit, hit-and-die method of fighting, punctuated by the assaults on the tree cities, using the little probes as constant threats that each might be the next big attack. All told, it was difficult not to have the allied forces scrambling for full-power responses to every sighting.
+
+It had been nearly three weeks since the first attack, and Master Xeel was apparently a bit ragged from fighting small groups in the Cycling City region as well as assisting the various settlements in the southern portion of the Wandering Wilds.
+
+He had begrudgingly told the Archons that he’d taken a concept blade from the first senior commander he’d killed in the first assault, but it seemed to be broken. The Reforged had surrendered the weapon to Archon Constructionists for examination, but they hadn’t been able to figure out what had happened to the arcane weapon. The one wielded by Tala’s foe had… not survived their encounter.
+
+No other such weapons had been recovered, as the Black Legion seemed to be deeply invested in sending their small groups to fight to the death, and they were clearly aware of how useful the weapons could be to arcanes, who were now their enemies rather than allies.
+
+As it stood, the first attack had essentially been a highly coordinated, probing strike, and since, the Black Legion had continued to act as they had in other cities—rather than as they had in Platoiri—fighting to the utter destruction of every unit.
+
+Only the higher level officers tend to retreat… I guess those bodies really are more expensive to replace?
+
+-Well, they also retreat from permanent extinction. Rane’s had quite a bit of success in the north. It is a bit funny that they are seemingly retreating under orders to do so, as otherwise the sense Rane has been getting is like what we got from the lieutenant, that they relish their own end.-
+
+Other Reforged and Paragons weren’t much better than Master Xeel as they too tried to be useful in opposing this seemingly never ending foe. Mistress Holly was invested in several ‘highly beneficial and interesting’ projects, but she promised to be available at need.
+
+The arcane Houses and Archons had continued to work together to assist against any attack within the southern section of the Wilds, but within their own territory, they’d all but stopped calling for aid.
+
+It was simply too costly and slow for arcanes to come up to the Cycling Cities and vice versa, and it didn’t help that such all-out travel never seemed necessary. In fact, attempting was often utterly useless, as the small attacks were universally dealt with long before such reinforcements could arrive.
+
+The superficial search for the new factories had yet to bear fruit, but everyone was hopeful.
+
+They had to be hopeful.
+
+All this to say, the war was going in an irritating direction, but things were theoretically looking better by the day.
+
+Which was one reason Tala felt so on edge.
+
+Sure, their best and fastest were nearing their limits, but overall, the alliance would be better able to engage with any true assault now than they could have three weeks earlier.
+
+Tala, as previously considered, was finally buttoning up the final new powersource in Croi.
+
+Within the hour, she’d finally be free to join the fray, and she couldn’t be more eager.
+
+It’s time to truly whittle down their numbers rather than simply attempt to tax their resources and production capacity.
+
+Before joining the fight, however, she was going to take the opportunity to duck into the world-fragment and check on Eskau De-arg, but that would be her last non-combat task for the moment.
+
+Then, I get to go banish automata.
+
+* * *
+
+Tala felt like cheering and crying at the same time.
+
+She was done.
+
+She wasn’t done forever—she’d need to come and help switch out for the backup holds in each of the cities when the current ones began to degrade after all—but she was done for the easily foreseeable future, and that was monumental.
+
+There was no fanfare in her completion, but that didn’t make it any less wondrous for her.
+
+There wouldn’t be a celebration, but she was exuberant all the same.
+
+As such, Tala had Alat send messages to her husband and daughter, pushing elation along her soulbond with Terry herself, receiving humoured congratulations in return.
+
+Terry was deep in the southern woods… well, the woods that she had known as the southern forest for most of her life. It was actually rather far north of her position at the moment.
+
+He was combing through the Leshkin infested lands for any trace of the Black Legion with detail that Archons would find hard to replicate, given the already known hostile presences within.
+
+He had observed some Black Legion within, but if anything, there seemed to be fewer within that forest than any similarly sized region on the continent at the moment.
+
+It would have been suspicious, but given the dearth of gated and other sapients within—away from the tree cities of course—it did make sense there would be less automata seeking to destroy them.
+
+Mistress Noelle and other heads of research enclaves had been working to pull back to the nearer cities, simply because none of them were under the delusion of being able to stand before a full assault from the Black Legion.
+
+In fact, the only real oddity was that the Leshkin seemed a bit less prone to attack the traveling groups than they had been in times past.
+
+Regardless, Tala took a step back from the final anchor column, looking around at the surrounding plaza.
+
+This one was far more similar to Platoiri’s than to any of the non-plains cities.
+
+And there, at the exact center, was the distortion, the scar of a stolen power source.
+
+With almost casual ease, Tala walked over toward it, slowly rising up under her own power until she was equal to the vertical center of the damage.
+
+She took a deep breath, manifested Flow and executed the repair, slotting in a perfectly shaped bit of dimensionality to replace what had been taken.
+
+The action was all but unnoticed save the stiff breeze that momentarily whipped through the surrounding area, but such winds were common enough in the plains—even within the city—that it didn’t draw attention.
+
+She was getting better and faster.
+
+As with all the other portions that she’d repaired, no one seemed to acknowledge that it had happened.
+
+Well… the first had been witnessed and acknowledged by researchers, but beyond that, no one that she’d have expected to notice gave any sign.
+
+The one claiming the title of City Lord over Croi didn’t come to investigate. There wasn’t even a ripple of authority showing that she had noticed the repair within the city.
+
+Odd. But by this point, it was just expected. The current theory—supported by a few key individuals among the aforementioned researchers—was that when Tala executed the repair, she was acting entirely within her own authority. Then, when she relinquished the area back to the city, it was such a minor fluctuation that it was easily lost among the day to day ‘noise’ of people’s ever shifting opinions of exactly where the city boundaries ended in every direction—including along the vertical axis—and exactly how much respect and deference a given City Lord was due.
+
+But it hardly mattered. She was done.
+
+She was not just done; she was done, done.
+
+Tala smiled at a growing thought. In fact, she’d completed the repair, the hold, and the entire current list of holds.
+
+Done, done, done! Tala giggled in slightly manic glee, even as she turned and strode toward the entrance to the world fragment.
+
+-You’re rather proud of yourself for that one, aren’t you?-
+
+Just a bit. This has been… not very fun. I was nearly fully engaged, but it was boring to the extreme.
+
+-Yeah… I’m glad I had other things to engage myself with during the last days.-
+
+Indeed.
+
+She caught some scents on the wind that called to her, but she wasn’t willing to stop or divert. Instead, she willed a portion of food from the enticing cart straight into her sanctum while placing enough coin beside the proprietor to cover the purchase with a bonus beside.
+
+A moment after, she called one of the sausages to her hand, wrapped in a linen napkin. It was filled to bursting and still sizzling. The first bite tried to explode all over her, but she contained the juices with her will and sighed in enjoyment, the excessive heat not burning her in the least.
+
+There was bacon, cheese, and myriad other ingredients and spices alongside the expected meat, making the concoction closer to a crustless meat pie than a traditional sausage.
+
+She liked crust and other baked goods a lot, but this was a wonderfully inventive idea.
+
+Hmm…
+
+Alat sighed. -I’ll send the information to Kedva so they can work on replicating it in some form or other.-
+
+Thank you.
+
+-Yeah, yeah.- Alat’s tone carried a hint of mirth.
+
+Most arcanes that they passed paid her no mind, but a few noticed that she was gated, drawing their attention with interest.
+
+Most of those immediately recognized her and either hurried on their way, or gave subtle nods or bows in her direction. To do more might bring attention and hamper her, after all, and so they showed their respect in manners that might not cause inconvenience.
+
+There was still no power pouring from the center of the city, not yet. If the previous holds were any indication, it would take between three and six days before they were ready to start alleviating the magical needs of the arcane city hosting them.
+
+Still, it would be ready soon, and it was moving in the right direction.
+
+As she approached the entrance to the House of Blood’s hold—the world fragment—she began passing a line of arcanes awaiting their short turn within, in order to give them a chance to refill their reserves.
+
+It was an odd thing that even arcanes with no discernible magical leakage still needed to have a source of power to slowly draw on, otherwise they would lose power over time.
+
+Even the best and most powerful did have to constantly draw on ambient magic a bit for this exact reason, but in those cases it was incredibly miniscule, to the point that they didn’t need anything but what was freely available across all Zeme.
+
+She’d have thought it might be because some magic was used for the passive enhancements of the body when it held power, but if that was a part of it, it had to be a minor factor, as often those with the most natural enhancement had the least need to constantly pull in more.
+
+Regardless, it was good that the various holds were allowing average citizenry to replenish as the average arcane couldn’t sustain themselves on Zeme’s standard magical levels.
+
+She could see quite a few holds open to such brief visitations—lines snaking toward their entrances, and individuals walking back out—and that gave her some hope.
+
+Arcanes were… selfish wasn’t quite the right word for it, but maybe insular? Yeah. Arcanes were insular by nature, only caring about those they were directly connected with.
+
+Not that humans are much better. We just feel ‘connected’ with most other humans. Even so, have we ever pushed to free the humans—even the gated ones—who were in literal servitude, slavery, and exploitation here?
+
+-A bit harsh, but true. It is hard to care about those we don’t know personally in more than a vague ‘I wish them well’ or ‘I wish that wasn’t happening to them’ sort of way.-
+
+Exactly. But this tragedy, the Black Legion attack, had done something… interesting.
+
+People who would have passed one another with ambivalence or even mild hostility now gave minor nods or waves of greeting, their shared suffering giving them a link that they’d never had before.
+
+Tala wondered how long it would last.
+
+For convenience, she altered the front of her outfit to prominently display her House affiliation and rank. There was no need to leave herself open for misunderstanding after all.
+
+She bypassed the line of people waiting to gain entrance into the House of Blood’s hold with ease. The flow was steady, just below the pace of a walk, but both the in and out of that group was tucked to one side, allowing regular traffic to pass through the majority of the large gate.
+
+No one tried to call out to her, let alone demand that she ‘get to the back of the line’ or any other such nonsense.
+
+Even if she were the only entrant not from the line, her prominent sigil made it clear who she was.
+
+The guards snapped to attention at her passing, bowing their heads while keeping their eyes sharp. “Eskau of War!”
+
+Their call was loud enough that those inside could hear it, and mutters went through the surrounding crowds.
+
+Tala quirked a smile, nodding to the guards in turn. “Blood of my House.”
+
+They lifted their heads, standing a bit taller than before.
+
+She was barely a half-dozen paces inside the gate—just taking in a refreshing breath of world fragment air—when a senior servant came up to her and bowed low. “Eskau of War, we are honored by your visit. My apologies, but we did not expect you, despite your presence in the city. You have not entered House of Blood holds in other locations on your travels. Please forgive our oversight.”
+
+Tala smiled and motioned for the servant to rise. “Think nothing of it. I did not come for fanfare or ceremony. Is Eskau De-arg in the same rooms?”
+
+“Eskau De-arg has not changed his residence in more than three decades, Eskau.”
+
+“Good, good. Please go ahead of me and inform him that I am on my way for a short visit.”
+
+The servant’s eyes widened. “I… yes, Eskau of War. He will be informed.” There was a hesitance. “Can… May I convey the nature of your visit, and ask for a slight delay so that he may prepare himself for your auspicious arrival?”
+
+She shook her head. “I want no preparations. I already said I want no ceremony. I simply wish to visit a friend before I depart for the war-front… wherever that is at the moment.”
+
+The man gave another hesitant bow. “It will be done. When should I tell him to expect you?”
+
+She hesitated a moment, then sighed. She had the time to be polite. “Within half an hour. I will stop by the outer parapet before heading his way.”
+
+He visibly relaxed, giving a grateful nod. “I will convey your message. Do you wish a repast either before, during, or after your visit with him?”
+
+She shrugged. “If he has not eaten, I would enjoy joining him for a meal, otherwise no thank you.”
+
+“It will be done.”
+
+Without further delay, the man turned and departed at a quick walk.
+
+Tala, for her part, headed toward the nearest exit to the central complex. She, apparently, had a bit of time to kill.

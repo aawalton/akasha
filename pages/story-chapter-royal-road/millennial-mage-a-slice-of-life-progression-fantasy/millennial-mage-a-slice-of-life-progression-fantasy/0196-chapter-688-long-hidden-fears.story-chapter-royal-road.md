@@ -1,0 +1,261 @@
+---
+id: 87596b3b-528d-5f7c-9ed8-42fc7253f897
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 688 - Long Hidden Fears"
+slug: 0196-chapter-688-long-hidden-fears
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 196
+ownLength: 3072
+unit: words
+ownProgress: 3072
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3199241/chapter-688-long-hidden-fears"
+royalRoadId: "3199241"
+markedReadAt: "2026-06-29T19:41:20.527Z"
+---
+
+Tala didn’t go straight back to the House of Blood’s hold in Platoiri after she left the Revered City Lord’s estate.
+
+Instead, she diverted to pass just a couple of streets over from the central column, catching a glimpse of it with her eyes while keeping her perception away.
+
+She was working to bring down the evil that it represented, but it wasn’t gone yet. She’d found if she focused on it too much, she’d become… grumpy.
+
+It was better to focus on moving forward.
+
+Even so, Rane and Lea had both asked her to see a city central column multiple times, and she’d always found reason to delay…
+
+That day was no different.
+
+The none-too-close return to the Cycling Cities, along with the surprisingly amiable meeting with the Revered City Lord, put a fire under her, and she had things that she needed to do.
+
+There were Houses that had still not given official responses despite the growing coalition, headed by the Houses of Blood and Iron.
+
+She hadn’t succeeded in unifying those Houses yet either, but she was drawing them into closer contact.
+
+Even when I am no longer Eskau of War, the House of Iron will remain with me. If I can integrate them and the House of Blood sufficiently, I’ll be able to continue influencing the trajectory of these cities through all the connections I’m forging. The Black Legion was her overt opponent, but she was keeping her eyes on the greater ill. The Black Legion was just one in a long line of atrocities that had come from the clash between gated and gateless. Addressing that was her true goal.
+
+That in mind, she slipped back into her sanctum, already reaching out to Lyn and others to put added pressure on those dragging their feet.
+
+She would be ready when the Black Legion was found, and she would bring to bear unimaginable might before they knew that they’d been found.
+
+Days turned to weeks, weeks to months, and finally, as her promised return to the Cycling Cities drew near—even if it would only be for a few months—she felt the last of her excuses falling away.
+
+She’d promised Rane and Lea, and despite putting it off for years now, she didn’t think she could any longer.
+
+She bowed to the House of Blood servant who had just brought her the latest tallies of stocked white steel, and headed for the hold’s exit, a destination firmly in mind.
+
+Alat had, of course, sensed this shift in attitude and plans, already informing their husband and daughter. As such, when Tala reached her destination, the two were both ready.
+
+With a flexing of will, Tala pulled Rane and Lea to the superficial, all three sets of eyes instantly affixed to what they had come to see.
+
+A moment later, Terry arrived at his own will, appearing on Tala’s shoulder staring in the same direction.
+
+At the same time, Tala locked down the air close to them, ensuring that nothing they said would be heard by any of the passing arcanes, even if they walked within reach. They would still be able to hear each other of course, but that was basically a given.
+
+It was midmorning, and as such the city center was bustling. Thankfully, that made the four of them staring at the central column, unmoving, mostly fade into the background. Though, they did draw some glances before the heraldry they all—except Terry—displayed caused the arcane attention to move on.
+
+Rane had paled almost instantly, and Lea’s eyes had widened in shock, despite both of them knowing full well what they’d be seeing.
+
+Terry simply exuded a comforting warmth through careful manipulation of his aura and authority. The effect was more emotional than physical, and it acted in a way as to be easily resisted if so desired.
+
+None of the other Sappherrouses desired such.
+
+Wait… That’s possible? How is—
+
+-Tala, focus. Now is not the time.-
+
+Right!
+
+She cleared her throat. “It’s funny. I avoided coming here for so long because I knew I would want to destroy it. I knew I would struggle to let such a monument stand when I could—at least in theory—bring it down.”
+
+Rane gave a slow nod. “It’s… I don’t have words.”
+
+Lea swallowed. “There are thousands in there… Maybe tens of thousands.”
+
+Tala gave a slow nod. “Your second guess is closer to the truth.” They both glanced her way, and she grimaced. “I’ve seen the reports. Twenty-three thousand, five-hundred, eighty-four as of two days ago, when one slipped away to the next world.”
+
+Their eyes returned to the city’s central column, the source of all of the power that suffused the air around them.
+
+“Twenty-three thousand, five-hundred, eighty-four souls trapped with little hope of freedom.” Tala’s voice was soft, her tone strained.
+
+“Little?” Lea’s tone conveyed her confusion. “Not ‘no hope?’” She shook her head. “I know you just basically said that one had attained freedom, but… really?”
+
+Tala gave a wry smile. “The magics within are largely based on physical spell-forms, not natural magics. Those have to be refreshed, and every so often, a soul slips through to the next world during that time. Over years? Decades? More? There is quite the turn-over.” Tala sighed, shaking her head in turn. “While it’s wonderful that the souls can find rest, it’s one of the reasons vestiges are always in demand.”
+
+The girl grunted in understanding. “Everything’s a trade-off.”
+
+Rane leaned slightly toward his wife, prompting her to fully lean against him. “I can’t help but notice, you haven’t torn the thing down.”
+
+His tone had a bit of dark humor to it, causing Tala to chuckle then sigh. “I want to, but doing so would effectively be a declaration of war, and we cannot do that right now. One war is more than enough, but once that’s done…?”
+
+Lea’s voice was barely above a whisper. “Are they… are they being tortured? Are they in pain? I can barely see the gates through the nets of power and ambient magic.”
+
+Rane looked toward Tala as well, clearly curious as to the answer. He likely could have seen something given his Paragon level advancement, but she would be able to see deeper.
+
+Tala, for her part, had chosen ignorance, unsure if she could bear the necessary evil of patience in this circumstance if she saw the souls in torment. Still, the question forced her to reconsider and she begrudgingly realized that willful ignorance was a crutch. She was working to remove this and other columns in the only way she knew how—short of killing hundreds of thousands of arcanes if not more. “I’ll… I’ll look.”
+
+Rane’s eyes widened, and he was clearly about to try to offer her a way out, but she shook her head.
+
+“I should have already… I was just too afraid to.”
+
+She closed her eyes and took a deep breath. When she opened them again, she released the unconscious restriction she’d maintained, which had kept her perception from delving into the column whenever it was within range.
+
+She saw them then, truly saw the tens of thousands of gates and the mesh of interconnected, modular confinement and purification magics.
+
+By the nature of souls, Tala couldn’t easily tell who the souls had come from. She could probably have delved deeply into any particular one and sussed it out, but she was not going to do that.
+
+Part of that refusal was due to a continued desire to keep her distance, but a larger part was how much of a violation such a deep delve would be. These souls were held in place and couldn’t resist her. She would not take advantage of that.
+
+Even with her rather high-level view, she could get a good idea of quite a few things.
+
+The first one actually surprised her. Collectively, all the souls in the column were being treated as a singular reality node, and a rather weighty one at that.
+
+In retrospect, that should have been obvious given their locked location and how they were perceived by the arcanes, but she’d never seen even two souls truly viewed as one node, save in the case of soulbound spouses after one had perished yet remained behind.
+
+These souls weren’t soulbound, though there was an interesting sort of magic-bond that resonated and rippled through the purified magics of the column.
+
+Regardless, the massive reality node that was the column was absolutely subsumed by reality threads stretching out to every arcane in the area, likely in the entire city.
+
+-Beyond even that, actually. Look here?- Tala and Alat looked through quickly, picking some at random to investigate. They were almost immediately presented with links to seemingly every arcane that had ever drawn power coming from this column, and through those arcanes they vaguely sensed links and connections to other columns in other cities.
+
+The entirety of the arcanes’ lands was as closely connected—if not moreso—than the Cycling Cities.
+
+Tala hadn’t thought that would be the case due to the more isolationist and jockeying nature of the culture here.
+
+It seemed she’d been wrong.
+
+Beyond that, she could get a sense of the souls involved as a whole.
+
+She smiled, letting out a relieved breath. “They aren’t in agony.”
+
+Both Lea and Rane visibly relaxed. Terry didn’t shift.
+
+“I wouldn’t say they are happy, but the feel I get is like those in forced, menial labor rather than those imprisoned in confined spaces or tortured.”
+
+Rane grunted. “Really? That’s… huh.”
+
+Lea grimaced. “I almost wish they were in a worse state…”
+
+Her parents looked her way, Tala frowning but Rane nodding. “It’s awful to think, but I would prefer to have more reason to hate this. It’s still awful, but…”
+
+Lea nodded. “But it’s not the constant torture that I’d imagined.”
+
+Tala shook her head. “Well, I, for one, am glad they are better off than my fears.” She glanced toward her family and sighed. “I know you are too, despite the confusion.”
+
+Rane’s frown deepened. “Yes, but…” He gestured at the distant column. “This is how we’re seen. We’re just gates to these people.” He glanced at Tala and gave a small, half smile. “You aren’t. Your position is what they see first, but us? The others?” He gestured again. “Fuel for the fires of their civilization.”
+
+Lea looked around, nodding. “We’re insulated from it a bit because of you, because of these.” She tapped the Revered City Lord’s badge that gave her and the other gated with Tala freedom of movement within the city. “But the very fact that we need them?” Her head shook in obvious disgust. “It’s… horrible.”
+
+Rane nodded along. “We are more than our gates, we are more than tools to be utilized.”
+
+Lea gave a pained smile. “You might be, but I’m not.”
+
+Rane and Tala both turned to regard her with concerned confusion. Though, by the look in Rane’s eyes, this was not the first time he’d heard—or at least suspected—that she felt that way.
+
+Lea glanced their direction and gave a sad smile. “Don’t mistake me, I love who I am, but…”
+
+There was a prolonged silence, only broken when Terry flickered to the girl’s shoulder, headbutting her cheek.
+
+Lea reached up and scritched the back of his head. “This body was here before me. I am just the soul inhabiting it. This body allows me to exist in Zeme, but it’s not me.”
+
+Rane shook his head. “No, Lea. That body… It’s yours. It’s you.”
+
+Lea shook her head, looking toward the column, and Tala took that as a potential avenue. “Lea, those there? They are just souls. You have a body, and this body is you.”
+
+Lea grimaced, obviously unconvinced. “Any of them could inhabit this body just as easily.”
+
+“Let’s assume that’s true—which just so you know, it isn’t—so what?” Tala huffed a laugh. “That is actually true for my body.”
+
+Lea looked at her with confusion, which increased when Rane nodded. “And mine. True we’re both magic and soul bound to our physical forms, but so are you.” He shrugged. “You are right in one sense. We could say that we are just our soul, temporarily inhabiting this body or that.”
+
+Tala grinned. “This body isn’t even the one I was born with, and I’m not talking about the slow replacement that all people have happen over time. I died, and even that isn’t what I’m talking about. I utterly destroyed the body I was born with, the body I had when I married your Dad, and remade it.” Her eyes flicked to Rane, and she shifted what she was going to say to avoid even a chance at endangering his own Reforging. “I’ll not say more, but there’s a reason that such is so late in advancement.”
+
+Rane smiled. “Your mom is right. If anything, you are more you than most people. Their bodies have slowly changed over time. You are still in the same form that allowed your soul to come into being. All the changes have been purposely brought about by and for you. And don’t forget, it is that body that allowed us to have you at all.”
+
+Tala nodded. “You’re our daughter.”
+
+Lea shrugged. “Yeah, I know that.”
+
+Rane put his hand on her shoulder. “Look at me, Lea. You are our daughter.”
+
+“I know.”
+
+“Body and soul.”
+
+She looked up, eyes widening with sudden vulnerability as she looked around, almost seeming to be seeking a way out. “I know.”
+
+“No, no you don’t seem to.” He gave her an encouraging smile, squeezing her shoulder. “You are our daughter.”
+
+Lea shifted, looking back toward the column. “I know.”
+
+Tala stepped back, watching the fluctuations around Lea as Rane pushed again. “Lea. You are our daughter.”
+
+Lea shrugged. “Alright.”
+
+Rane pulled her a bit closer, turning her back toward him as something within him resonated with Lea. The girl glanced toward Tala, and she smiled and nodded, feeling a similar resonance within her own chest.
+
+Rane put his other hand on Lea’s shoulders, turning her the last bit to fully face him. “You are our daughter.”
+
+Tala stepped forward, adding her voice. “You. This body. This soul. This spirit. This magic. You.”
+
+Lea visibly swallowed, clearly not fully accepting the idea.
+
+Tala pulled her taller daughter into a hug, Rane moving in a moment later with Terry nuzzling the girl’s cheek yet again. Alat and Enar pressed close through their mental connections, having been closely monitoring the situation throughout.
+
+Lea stiffened for only a moment, then she threw her arms around her parents, tears flowing from her eyes. “I’m sorry! I’m sorry. I’m so broken!”
+
+“No, Lea. You are you.” Tala contradicted gently.
+
+Rane nodded. “And you—exactly as you are—are our daughter.”
+
+Tala felt Lea’s reality node trembling before it finally stilled, something breaking lose from within.
+
+“I’m… I’m not a disappointment? I’m not a consolation until you have a real daughter?” The words seemed to cut at her—down to her very soul—even as she uttered them.
+
+Tala could practically hear the girl’s soul screaming in desperation along with the questions surrounding this long-hidden fear.
+
+Both of her parents answered instantly, Rane speaking first, “No. You are our daughter,”
+
+Tala continued for them, “and we wouldn’t change a thing about you.”
+
+Rane added, “Body or soul.”
+
+Tala smiled, echoing him. “Body or soul.”
+
+They both saw acceptance finally click into place in their daughter’s eyes, and the magics all through her body roared to life, seemingly having been suppressed by the girl, herself, whether consciously or not.
+
+Right there—barely a hundred yards from the Platoiri column of souls—Lea Sappherrous accepted who she was and allowed her unique nature to fully mesh. She Fused on the spot, her soul settling more fully within her automaton form—her body—the gate relaxing and opening further, allowing power to suffuse her form even further, completing the advancement, and allowing more draining magics already laid within the form to spark to life.
+
+All of this, Tala, Alat, and Terry willfully hid from those around them, as none of them knew how the arcanes would respond to the girl Fusing, but that didn’t take their attention from the youngest Sappherrous.
+
+Hugs tightened and nuzzles continued as the process finished, Lea weeping openly throughout.
+
+When Lea’s aura finally settled, it was at a bright, yellow-orange which reminded Tala of natural sunshine. The girl would not be able to advance further without Refining… but was that even possible with her unusual body?
+
+Tala shook herself. Such questions could be addressed later.
+
+How did we miss the signs of this?
+
+-We are all good at hiding our insecurities, is it any wonder our daughter can too?-
+
+Maybe… Rane seemed to have an inkling.
+
+-Well, we did marry him for a reason.-
+
+True enough. Even so, Tala felt a bit like a failure as a mother. Her daughter had been struggling, and she essentially hadn’t noticed. It wasn’t even that she hadn’t recognized the signs. She felt like she hadn’t even seen them. Even today, she’d have let the moment pass if Rane hadn’t pressed the issue. She squeezed him a bit tighter too. “Thank you, Rane.”
+
+He smiled, face pressed into the top of Tala’s hair. “Of course. I love my girls.”
+
+Terry let out a little squawk.
+
+“And you too, Terry.”
+
+Terry gave a self-assured nod, causing the other three to chuckle, even as they pulled back a bit.
+
+Tala gave a soft smile. “Come on, let’s—” She cut off as she caught sight and sense of someone on the far side of the square, even as he turned down a side street. She frowned. “Is that…?”
+
+Rane turned to look, but the turtle-kin was already out of sight.
+
+Tala was already taking a step to follow. “Come on. I think I saw someone I want to talk to.” She pulled her family along as she went after the man who had helped her find Terry when she was in Platoiri so long ago. “If I’m right, I need to give my thanks. I also want to introduce you all to him.” She glanced back toward Lea even as her daughter followed close behind. “Then, we’ll celebrate.”
+
+With no objections—and happy smiles and squawks all around—the family sped up, placing the vestiges of Platoiri behind them, out of sight, but certainly not out of mind.

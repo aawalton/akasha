@@ -1,0 +1,221 @@
+---
+id: e3353420-609c-5014-b492-6c7682a8ba0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 694 - Into the Hold"
+slug: 0202-chapter-694-into-the-hold
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 202
+ownLength: 2442
+unit: words
+ownProgress: 2442
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3276397/chapter-694-into-the-hold"
+royalRoadId: "3276397"
+markedReadAt: "2026-06-29T19:41:31.950Z"
+---
+
+Tala arrived at the hold entrance, barely a breath after the active defenses had come to full power, and found herself in an irritating position.
+
+Mainly, she was outside those defenses.
+
+Sure, she could crack them open and force her way inside, but not only would that take time, it would be politically dicey, which was something she did need to consider, given how much of her authority came from political arrangements at the moment.
+
+Thankfully, she was quite a well known figure by this point, and she was immediately recognized. That, combined with the obvious signs of battle from further in, caused the guards of the hold to rapidly begin the process to let her inside.
+
+Tala could see into the hold, but not as well as before those defenses fell into place. Even so, she could see that several beast-kin had engaged with the Black Legion Commander, taking a beating but actually managing to slow the automaton marginally.
+
+I might just make it in time. She still had yet to use her existence abilities, but she was very hesitant to do so under the current circumstances.
+
+Maybe this situation would be worth using a trump card, but it wasn’t the right time, not quite yet.
+
+* * *
+
+Rane met force with Force, his blade flashing through long-honed motions—long honed due to all his clashes with Lea and some of the more specific War Games—blessing his daughter for her efforts in mimicking likely Black Legion fighting styles.
+
+Terry didn’t flicker—even if he likely could have—instead stalwartly clashing with the other captain, clearly acting to stall rather than overcome. Even so, the terror bird did try to swipe for the head every so often. Unfortunately, the captains were fast and agile enough to keep that portion of themselves out of reach.
+
+Rane understood the avian’s hesitation and deeply appreciated his assistance in this situation.
+
+Terry was a being of instinct and his concept was one that had been key to Terry’s survival. The Black Legion threw off his senses and his concept, making the terror bird more hesitant than usual.
+
+There was also the fact, Rane knew, that no one was quite sure how a soulbound companion could be affected if slain with powers of reality. Even still, the avian was not being timid, clashing talon against blade without seeming to be concerned about the outcome.
+
+So far, nothing had truly threatened him, and he was gaining in fervor with every passing moment.
+
+Speaking of Talons—even if of a different sort—the men and women in white steel continued to team up against black-armored automata, cycling out after every two or three opponents.
+
+They were prioritizing their own safety and quick takedowns over magical efficiency or sustainability. Due to their ability to swap through the magic rich Ironhold practically at will in order to refill and rest, it was a tactic that could work even for sustained clashes.
+
+Rane had been a bit delayed from being able to finish off his second captain mainly due to the Talons as they continued to shunt crippled legionnaires his way for soul-core dispersal.
+
+In fact—
+
+Rane executed a quick series of cuts, driving the captain back and allowing him to lunge backward, where he caught the head of a tumbling automaton, and poured his will into the dispersal.
+
+Two Talons—who had just cut off that soldier’s left leg—came at the momentarily opponentless captain from either side, forcing it to engage them rather than pursuing Rane.
+
+Rane only took a breath to free the soul-core and send it on its way to the next world, but even so, he had to rush to reengage the captain.
+
+The two Talons both vanished back to Ironhold, their replacements arriving to engage the rank and file once more.
+
+Enar reported that the two had immediately collapsed in exhaustion, joining the others on a break-rotation.
+
+Rane was actually worse at fighting the captain than the Talons had been in many ways, but he was a good distraction for the powerful Black Legionnaire while the Talons whittled down the opponents they could overwhelm quickly.
+
+Generally speaking, Talons could remove two or three automatons each—so four to six for a fighting pair—before they needed to rotate out. That included both those they destroyed enough to send the soul-core and spirit from the body—unfortunately the vast majority of automata destroyed fell into this camp—and those that they were able to get into position for Rane’s or Terry’s permanent ending of the threats.
+
+It had quickly been decided that such was a better use of their resources than spending Talons to take down a singular captain that might simply be replaced.
+
+They knew that the number of Black Legion present should have come with more sergeants and captains than they were facing, but something was keeping the numbers low. Thus, they weren’t in a rush to take down those they could see. After all, every time they’d done so, the automata had been replaced quickly from reserves that seemed to be waiting in the Doman-Imithe.
+
+Terry, of course, wasn’t having an issue keeping the second captain tied up, even if the avian wasn’t finishing it off.
+
+That might have been because of his hesitation, or because the terror bird had decided to follow the battle plan of ‘delay the officers’, but Rane didn’t know.
+
+The avian still took the occasional swipe for the captain’s head, but it seemed perfunctory.
+
+Honestly, it didn’t much matter either way. Rane wasn’t in a position to think beyond the clashes happening around him as yet another Talon pair called out that they were well-enough positioned to allow a permanent kill.
+
+Rane had work to do.
+
+* * *
+
+Lea felt her entire being sing as she clashed blades with the sergeant again and again.
+
+Their movements were more liquid, more fluid, and more extreme than those humans could easily make.
+
+They were also more precise than any mundane would have been able to manage.
+
+Each block gained safety measured in the widths of a hair, every attack was aimed precisely at minutely vulnerable positions.
+
+In their precision, they were equals. But this fight was about more than precision.
+
+A strange heaviness almost seemed to radiate off the sergeant, clearly a thing of reality, attempting to work against her own enhancements and magics.
+
+Lea had within her body some spellforms that could have been altered toward creating that effect, but instead they’d been co-opted and altered to add greater magical power to her movements and inscriptions.
+
+The result was an odd churning maelstrom of powers between the two combatants as they twisted and spun around one another, using their bodies and armor to attack and deflect as often as their swords, even if such deflection invariably allowed momentary nicks or scratches.
+
+The screech of steel on steel was easily ignored by inhuman ears, and morphic forms flowed to quickly repair even what minor damage was done.
+
+Lea couldn’t gain the upper hand. Even so, she was deeply pleased to be able to hold her own against a Sergeant of the Black Legion, even if just for a moment.
+
+But this wasn’t a sparring match, and it wasn’t a game.
+
+She couldn’t let her pride get in her way.
+
+As such, she called on Alat, asking her to bring in aid to finish this clash.
+
+A Talon appeared directly behind the sergeant, having willed herself from the sanctum, her sword already cutting deeply into the back of the sergeant’s leg.
+
+The automaton tried to correct for the sudden injury and loss of capacity, whirling to avoid more damage and to face the new threat.
+
+Lea took ruthless advantage of that shift, driving her sword through its head from the side, shattering the containment scripts.
+
+She felt magics and reality contracting around the soul-core, things she couldn’t fully perceive or grasp gathering to carry it away.
+
+Her soul resonated in displeasure at the enslavement, at the soul’s inability to pass on, and Lea tried to resist the pull, to allow the soul-core to be dispersed.
+
+She didn’t have the focus, precision, or power to effectively do so.
+
+Lea staggered backward, feeling like she’d rebounded off a heavy shield. Worse, she had a moment of disorientation, her soul and body momentarily trying to separate.
+
+No.
+
+She was Fused.
+
+Her body was her, and her soul was hers. They were one, and she would not be split.
+
+The odd feeling of vibrant dissonance settled, but the moment had passed. The sergeant’s soul-core and spirit were gone, and she was standing beside a small squad of various House Guards and a Talon.
+
+Less than a block away, more Black Legion were fighting another group of Guards.
+
+Lea grinned fiercely. She might not be able to free the souls, but she could help the other fighters. “There are legionnaires to hunt. Let’s go.”
+
+* * *
+
+Tala was about ready to break the defenses, regardless of the results. She’d decided on seeking forgiveness later for the destruction when the defenses finally came down.
+
+Honestly, it had only been a handful of breaths, but she came into the hold and found chaos.
+
+The clash was ongoing in a clearing all too near to the hold-core.
+
+An owl-kin was using a book as both reference and source of spellforms as he called on internal hold defenses and sent his own workings at the commander.
+
+A tiger-kin was practically ricocheting around the battlefield, using everything from floor and ceiling to broken trees and even a few fallen guards. Each bounce allowed the tiger to come in with claw, fang, or bladed-armor-clad tail to harry the automaton further.
+
+There was even a rabbit-kin who was trying to hit the legionnaire with a hoe of all things.
+
+There were an unfortunate number of other beast-kin in various states of injury, a few looked on the edge of death, even with some of their fellows clearly already moving in to help them.
+
+Tala closed on the conflict just in time to see a pig-kin yell in a clearly terrified attempt at bravery before charging straight for the enemy, barehanded.
+
+Tala flickered, the action slower than usual but still landing her between the two, allowing her to take a powerful kick intended for the pig, thus saving the arcane’s life.
+
+Still, she was thrown back into the beast-kin, and they both went tumbling through the trees, allowing the automaton a momentary space in which to act. It was no fool, and cared very little for these creatures, so it capitalized on the gap, charging straight for the core.
+
+Tala growled, flickering out of her ongoing tumble.
+
+This hold wasn’t one that had allied with her directly, but they clearly knew who she was, and the very act of fighting directly with the Black Legion put them subconsciously under her authority.
+
+It wasn’t clean, but it was enough for her to flicker. Sadly, it was slightly slower than ideal, and she was more limited in range.
+
+That was an oddity with granted authority, rather than that which was utterly her own and within the scope of her aura. It was like acting through thick gloves rather than with her bare hands.
+
+Still, it was enough that she arrived right after the commander.
+
+‘Right after’ just wasn’t quite soon enough.
+
+The automaton ripped the vestige free, pulling it into an odd, expanded space within its own chest.
+
+At the same time, a power with no magic associated with it lanced out, using the shattering connection—that which all dimensionality within the hold had with the control column—to taint the whole hold almost at once.
+
+Reality itself? That was purer than we’ve seen from the Black Legion before.
+
+-Yes. It basically just enforced the concept through all the dimensionality in here that it really shouldn’t be… or something like that? As to the purity… it’s possible that they are holding back as well.-
+
+Tala growled. Nothing about that was good.
+
+When she tried to snatch at the fraying reality threads, in order to claim the hold and stabilize it, they pulled away from her, even as near to half of the reality nodes started to roll.
+
+That was the best way she could describe it, but she knew exactly what it meant.
+
+The hold wasn’t moving to breach, not in full, and while that sounded like a good change, it really wasn’t.
+
+The hold was tearing itself apart with close to half moving to explode into Platoiri’s city center, and the other half dumping into the Doman-Imithe.
+
+If Tala did nothing, those within would die and many more would be imperilled in the surroundings of Platoiri as well.
+
+The commander hadn’t been idle in her moment of investigation, turning on her and stabbing forward with a newly manifested sword.
+
+Tala countered, voidblade against concept, even while Alat came to her aid.
+
+A storm of iron spikes flew outward, driving into the edges of existence throughout the hold.
+
+Tala’s voice echoed through the forest as well, even though she wasn’t the one to send it. “Evacuate immediately. Complete hold collapse imminent.”
+
+The arcanes didn’t freeze, they didn’t let their horror grab hold. Instead, they acted.
+
+There weren’t many people in this scenic hold—likely positioned to be a lovely place for the rich and powerful to experience a bit of curated nature—but they still came together and helped get everyone free with surprising unity, even helping the severely wounded to get moving. Still, it would take time.
+
+Tala bent her will toward holding—pun not intended—even as Flow kept the commander from doing her harm.
+
+This had been a frustratingly effective distraction, and Tala knew it.
+
+She guessed that even if she handled this perfectly—and everyone got out safely—the commander was likely to attempt something similar again.
+
+It wanted to keep her from snuffing more Black Legionnaires, and it was succeeding.
+
+Tala shot spheres—even if she was still husbanding that resource—used her dissolution breath, pulled out her defensive disks, and every other small-scale tool she had.
+
+She considered dropping a wall-segment on the automaton—and she likely would have if she’d known it would work—but the last thing she wanted to do was play such a useful card on the first day of the war with little gain.
+
+So, she buckled down and fought.
+
+She fought as Alat held the hold together.
+
+She fought as innocents evacuated.
+
+She fought as her family fought on the superficial, and the Black Legion began to learn just how terrible of foes the Sappherrouses could be.
+
+They likely didn’t know the name yet, but Tala and her family would teach them all the same.

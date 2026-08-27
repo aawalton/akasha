@@ -1,0 +1,231 @@
+---
+id: df3499c4-0027-55f5-88e2-7be0e6f820a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 742 - Assault on the First Factory"
+slug: 0253-chapter-742-assault-on-the-first-factory
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 253
+ownLength: 2576
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3857801/chapter-742-assault-on-the-first-factory"
+royalRoadId: "3857801"
+---
+
+Tala grinned in triumph.
+
+Despite her wandering thoughts, she’d been keeping close track of their progress, and they’d managed to get within a quarter mile of the Leshkin spawning tree—now Black Legion factory—before they’d been noticed.
+
+Their plan at this point was three fold.
+
+First, with the factory so close, the legion could effectively pour an unending stream of automata at them, excepting those that Tala and her family were able to permanently end, which—despite her widespread authority—wouldn’t be most of those they killed, not with the suppressive effect of Tala and Alat doing their utmost to avoid the notice of the Forest Spirit.
+
+They’d still be able to remove many from this world for good, but not the ubiquitous banishment that they’d achieved on the escarpment, or even the more focused removal around select combatants in the defense of Bandfast.
+
+These would have to be very precisely and individually handled by the Sappherrouses, and that meant it wouldn’t change the landscape of the fight in the short term.
+
+All that to say, they needed defensive positions that could hold out against effectively unending waves of automata.
+
+Second, they needed a ‘threat’ to hold the Black Legion’s attention on those defensive positions. Toward that end, they’d brought many of the siege engines from the escarpment, augmenting their haul with more that had been in various stockpiles and armories within Bandfast.
+
+It wasn’t as many as they’d prefer because they could only use those that actually attacked with fundamentally mundane material or energy, but there were still a full thirty of various types, giving each of the proposed five positions six to use.
+
+Third and finally, once the automata were distracted, Tala and several other weighty combatants would escort a group of particularly focused Refined in to take out the factory. They were those both leaning toward wide-spread destruction and the manipulation of pre-existing matter and energy to bring such about.
+
+Well, if I’m actively engaged, I won’t be part of the group, but I hope I can be.
+
+In the end, it was both a simple plan and one that should give them a good chance of success.
+
+The signal was given, and the spread out lines of the alliance forces drew together into their groups, surging forward.
+
+These variants of siege weaponry needed to be within about five hundred feet to be as effective as possible, and that was half the distance they still had to go.
+
+Tala’s armor rolled out over her, encasing her in its white magnificence.
+
+Then, she spearheaded the charge, her authority building at the advent of this battle against her pre-ordained foe.
+
+* * *
+
+Rane did not like being in a different unit from his wife, daughter, and Terry even if he did understand the reasoning for it.
+
+If they’d been concentrated, the legion could have noticed and focused their efforts there, on the group that was permanently ending their legionnaires, and that would make the plan… more difficult.
+
+In truth, Tala probably shouldn’t be in the group directly assaulting the factory, but they expected at least one senior commander along with its commanders and sub-commanders, and if the group going to destroy the factory was to be successful, they would need to be fully protected and that meant some heavy hitters needed to be in that protective force.
+
+As to what Rane would be doing?
+
+Well, he and Eskau Meallain would be in the second and fourth positions, there to counter any upper level officers should they target the fortifications directly. Eskau Pallaun would be in the first group, and he hadn’t heard who would be the ‘anchor’ for the final position.
+
+Terry would simply be a roving force of destruction, despite the restrictions that the reality field imposed upon his usual fighting style and battle senses.
+
+Rane sighed even as he sprinted forward at the head of his segment of their assault force.
+
+Here we go again.
+
+* * *
+
+Lea let loose her battle-cry alongside the Talons surrounding her.
+
+She was not the tip of the spear for this section of the army, but she was barely two ranks behind the arcane who was, an Honored Eskau of the House of Stone.
+
+Rocks were already tearing themselves from the ground and crushing inward around the man as he launched forward, every step augmented by the very ground rising up beneath his feet to propel him onward.
+
+They approached the equally charging legionnaires with frightening speed, but at the last moment, the Eskau’s rocks fractured on the side toward the enemy, seeming to break apart even as the fragments blasted outward, each one carrying the stopping power of a ballista bolt.
+
+The entire front rank of the oncoming legion was blown backward before their unit, creating a cascading avalanche of artificial bodies tumbling and churning over one another, and allowing their group to hit the enemy with little contest.
+
+It hadn’t come without cost, however.
+
+The gray hue-man stumbled, now only registering as Mature to Lea’s sight, and he was caught up by one of his fellows and borne backward in their charging lines so that he could recover.
+
+Lea lost sight of him then while she advanced, stabbing down into each legionnaire that she could as they rushed passed, ensuring that they wouldn’t be getting back up.
+
+It was surprisingly easy to pick out those that were still functional—which made the task trivial—but the reason was… concerning.
+
+Every disabled automata seemed to be almost absorbed into the very ground, and Lea could feel the powers working to draw the material back to the all-too-near factory, from which was pouring a continuous stream of new, midnight-black automata.
+
+Talax was right beside Lea—if slightly back and to the left—his white steel weapon in the form of a glaive so that he could hack at the fallen more easily without slowing their charge.
+
+Just a hundred feet more.
+
+The breach in the line that the House of Stone had bought for them got their charge the majority of the way to the position that they were to take and hold, but it didn’t allow an easy path the whole way, nor would it clear the space that they required.
+
+The tide of legionnaires was rising, and they would be lucky if they had minutes in which to establish themselves for the coming battle.
+
+Lea grinned. This was going to be fun.
+
+* * *
+
+Tala used her tungsten spheres… if not freely then more freely than she had been up to this point.
+
+She scythed down the basic models that comprised the entirety of this first wave, the officers clearly suspecting a trap or some other trick.
+
+They’re right, of course, but in the wrong way.
+
+This wasn’t an all-out assault, but one to gain proper strategic positioning.
+
+Tala’s group had the shortest distance to go, being the center of their planned arc of fortified positions. That way, it would be her holding the center, with a hundred yards to each position flanking hers, all centered as close to five hundred feet from the tree as possible, biased inward if they could manage it.
+
+Regardless, with her work at the front—backed by Eskau and material flinging Pillars and Refined—it was barely two minutes’ work to reach a rise that Tala thought would be perfect.
+
+She fought over the top and down the slope just a bit, then dropped the first of her mobile battlements.
+
+The gleaming stone and white steel practically glowed in the ambient light beneath the forest canopy, and as the second one appeared—falling to crush automata beneath it—Tala’s will worked with the magics within to fuse the white steel couplings and join the pieces into a unified whole.
+
+She’d judged correctly—and Alat worked to perform the needed calculations—allowing them to have each subsequent segment land at the proper angle to drive into the soil and settle level enough for the neighboring wall pieces to grab on and perfect the alignment.
+
+Within thirty seconds, the entire hill was surrounded by a hexagon of magically refined and reinforced ramparts, a tower at each corner, and the entirety practically bursting with Tala’s will and authority.
+
+They were hers, and she’d be rusted to slag before she let the magic be driven from them.
+
+Once the last piece clicked into place, long rods drove downward in criss-cross patterns, anchoring and locking the fortifications in place to the ground beneath it.
+
+At the same time, Tala willed her siege weapons into place, the operators beginning to swarm around them almost instantly.
+
+That done, Tala moved through the interior of the walled off ground, helping her people deal with the final legionnaires in the space.
+
+Unfortunately, even her presence wasn’t able to prevent the remains from being absorbed by the earth below them.
+
+Only the few she pulled into the sanctum or Ironhold were kept from the factory's tendrils of power.
+
+She did have the spare will to permanently end a dozen or so. That was a positive at least.
+
+Tala turned to regard the massive magical constructs at the center of her position. “Time to first volley?”
+
+The Archon in charge responded almost instantly. “Two minutes.”
+
+She nodded. “We’ll get you that time. Get it done.”
+
+“Yes, Mistress!”
+
+She then moved to the wall-top where human and arcane were fighting side by side against the rising, clamboring hordes of automata.
+
+With a grin, Tala activated one of the defenses deep within the walls.
+
+On the outside of this face, long slits opened near the bottom, and she forcibly switched the targeting of the amplified gravity that she’d built up around multiple objects in each wall.
+
+As one, fantastically thin, yet impossibly tough discs zipped out, accelerating so quickly, that they put crossbow bolts to shame. They almost instantly began to whistle as they picked up speed.
+
+The automata at the base of the wall were cut off at the knees, those behind them at the waist, and those behind them at the neck.
+
+Unfortunately, the elevated positioning of the wall meant that the weapons went over the heads of the standard legionnaires beyond those first three ranks, but the juggernauts that had begun to form? The now screaming discs tore into them quite nicely.
+
+While the discs were wobbling and deformed by the time they reached the juggernauts, they still did quite a bit of damage as they detonated, sending fragments tearing through the surrounding lessers.
+
+And that is what they were.
+
+The Black Legion was clearly enmeshed with the Leshkin, but it was even more obvious now so close to the factory, where the combining units were pulling up material from the ground, the process facilitated by the vegetation, even if not being comprised of it.
+
+Vines and roots were twisting and writhing, lifting material out of the soil to press to mounds of automata as they combined into larger forms.
+
+Those forms made the fortifications feel a lot smaller than they had just a minute earlier.
+
+This was going to be an interesting battle to say the least.
+
+* * *
+
+Rane cut some of the lessers down before him, but others he grabbed and threw bodily back into their fellows, keeping their assault from arriving in a uniform wave.
+
+He had still not quite made it to his position, and that fact was irking him.
+
+He had three Archons with him, each with their own mobile battlements, but he still had to get them to the proper location.
+
+The reality field of the onrushing automata was less unified than that of the armies they’d faced recently, their arrival seemingly not having been anticipated.
+
+Even so, the reality field was seemingly resting atop an authority that underpinned the whole region… Rane didn’t like what that implied.
+
+Regardless, it rendered his kinetic blades into simple powerful blasts of air rather than the shredding weapons they really should be. Thankfully, that was enough to drive back these weaker automata.
+
+We just need to get in place before the officers arrive.
+
+As if in defiance of his thoughts, that’s when he caught the first sight of juggernauts beginning to form, with officers no doubt close behind.
+
+Great, now what are we—
+
+All light seemed to momentarily vanish as a bar of brilliance far outstripping the sun appeared for the briefest instant before vanishing, leaving an afterimage even in his Reforged sight.
+
+His gaze snapped to the tree they were targeting, and he barked out a laugh.
+
+A hole had been burned deeply into the side, with fires sparking and smoldering around the edges.
+
+A moment later, the whoomp, whoomp of heavy projectiles impacting and barreling through the air drew further attention.
+
+Large metal shapes hit the tree with tremendous force, fracturing along pre-prepared lines to send out bursts of shrapnel in all directions, tearing deeply into the tree, surrounding the hole.
+
+Rane grinned. Tala had established her position, and they were drawing attention so the rest of them could do the same.
+
+Oh, I love her.
+
+He gave a renewed cry and charged forward with purpose.
+
+Rane hadn’t allowed his berserker boon to activate as he didn’t know how long this clash would take, and since he was meant as a last-line defender, he couldn’t exhaust himself at the start of the fight.
+
+He hoped to the stars that it was the right call.
+
+* * *
+
+Lea cheered along with those around her as her mom’s fortification belched forth heavy ordinance at a steady cadence.
+
+After the first four attacks landed, an undoubtedly powerful automaton appeared in a direct line between the heavy weaponry and the factory tree, intercepting, deflecting, and otherwise mitigating the siege equipment.
+
+At the same time, the hordes of lessers and assembling juggernauts turned their fury toward that fortification, relieving pressure on the rest of the allied forces.
+
+That was all that they needed, and less than a minute later, walls were clicking into place around Lea as she leapt up to continue the fight from a newly fortified, elevated position.
+
+Her dad’s fort was the next to come fully online, a second cadence of magic-driven mundane attacks joining that of her mother, only two slamming into the tree before the Black Legion officer was able to shift enough to handle both streams.
+
+Lea’s grin grew.
+
+Behind her, she felt the surge of power as the siege weapons in this fort were engaged, sending a third barrage of mayhem into the mix.
+
+Each position only had a single light-lance, but it still made it difficult to watch the attacks. Thankfully, the siege engineers began to align their strikes, sending the attacks of like kind forth in parallel,to increase the difficulty of defending against them.
+
+Through the strobing light and explosions, Lea was able to see that the lone powerful defender had been joined by four others, and they were working together.
+
+The weaker forces were now swarming the three established positions, failing to change tactics soon enough and allowing the final two fortifications to lock into place, adding their own salvos to the overwhelming onslaught.
+
+Even deflected or dispersed, the mundane munitions created widespread carnage, and the defenders were struggling to truly counter the continuous assault from six vectors.
+
+If things didn’t change, the plan might not have to progress further than this for the allied forces to achieve victory.
+
+That, of course, was when a presence settled across the battlefield, clearly bolstering and unifying the legion.

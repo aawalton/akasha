@@ -1,0 +1,107 @@
+---
+id: 35dc7d94-9f53-58ed-baeb-c01c9b596d40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 271 Tying the Knot"
+slug: 0285-chapter-271-tying-the-knot
+partOf: melody-of-mana
+position: 285
+ownLength: 1867
+unit: words
+ownProgress: 1867
+publishedAt: 2023-09-27
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1355706/chapter-271-tying-the-knot"
+royalRoadId: "1355706"
+markedReadAt: "2026-06-29T22:35:40.398Z"
+---
+
+My morning had been hectic, hair, makeup, all the little things that added up to me being very tired already. As I looked in the mirror though, most of that seemed to fall away. Today would be a mix of traditions, some from this world, some from my last. What I saw there certainly wasn't what most girls on Earth thought of, but it suited me well.
+
+The dress, rather than white, was a cool velvet blue, struck through with small bits of the glowing thread that was getting harder and harder to come by. Nestled in my hair was a small comb, painted and decorated. That had been brought by my father, something of mom's to wear on this day. Finally as I looked at myself, Kala, who still was one of my best friends hooked around my waist a thin silver chain. That was one of the things this world used, a symbol of binding together lives, marked in silver, here too considered a metal indicative of purity.
+
+“So, is everything in place?” I asked Kala, since she was running around more than I'd been in the last couple of hours.
+
+“It's fine Alana, everyone is here, the protections are in place, and they're all very aware of your opinion on interruptions,” she sighed.
+
+“It's not an 'opinion', it's a fact, and that fact is that if anyone interrupts my wedding I will kill them horribly,” I repeated.
+
+“So you've stated,” she griped.
+
+“And so I mean,” I replied, not joking at all.
+
+“Everyone is on their best behavior, and I assure you, there is nobody not here that even knows that we are.”
+
+I'd needed somewhere proper, and spent quite some time trying to find just where I wanted. Most o the normal venues were just out, since it would become a spectacle that I didn't really want. That left me with smaller places. I looked here and there, everywhere near a gate that we could use to organize things. Popping in and out near all the locations I'd had good times in over the years, and even to places that people just suggested to me, but none of them felt quite right.
+
+Then I came up with better idea. I needed somewhere important to me, but somewhere nobody would go, and there was one place that fit perfectly. For that reason I went home. I didn't go to my home in Lithere, or my home in the fortress. Nor did I go to the orphanage I'd spent a winter in, calling it home. No, I went to my first home.
+
+When I got there the village was abandoned, with almost nothing of its former self left. The houses were gone, the walls gone, what hadn't been consumed by the fire that had destroyed it had rotted in the many years since. Even the roads were completely overgrown, nobody having needed to settle back into this area.
+
+Dras had agreed to help me with setting up the venue, a small building made of local stones melded together by his magic. While he'd done that I'd taken seeds from the gardens of the fortress and sewn them all about. I'd never tried growing things with my magic before, and it was a bit of a struggle, but they didn't need to be huge or anything, just some flowers for decoration. The soil being very rich and having lain fallow for years helped.
+
+Our little construction used many of the techniques Dras had worked on when making the little hot spring retreat everyone loved, and while the stones were different, they were very similar in look and function, with a few rooms and a larger open space for the ceremony itself. If I was any judge it stood close to where my first home in this world had been.
+
+Mystien appeared as the last touches were put on my look. “They're all ready for you whenever you're ready.”
+
+“Good to hear,” I said with a smile.
+
+“You should also know that I've already had to hear five different complaints about your abuse of the portal network,” he added. “They've all been told to contact you no sooner than a week from now.”
+
+“They can all get stuffed, I made the gate here on my own time with my own funds,” I replied cheerfully, nobody could ruin my mood today with such trivial issues, particularly when I'd already thought of them.
+
+“Hah! Like those are even concerns for you.”
+
+I shrugged, being able to make valuable materials out of literal rocks meant that things like 'budgets' didn't really apply if I didn't want them to. Well, at least for things of this level, larger projects still took time.
+
+Kala left to take her place, and my first mentor to take his. For a few moments I was alone with a couple of the few maids who were on this little outing, all carefully chosen. There were many forms of security, but the best in my opinion was simply not letting anyone know what was going on if they didn't need to. Heck, many of my guests didn't even know exactly where we were.
+
+There was little time for reflection before the light sounds of music drifted to me, my own signal to enter. I knew more than enough bards to find a few players, and while none of them had before heard 'Canon in D' they all learned it at impressive speed.
+
+I registered that there were subtle effects going off all around me, decorations and the like that I'd spent probably too much time setting up, but none of it seemed to matter. The only place I could look was forward, to where Ulanion stood with the softest smile on his face.
+
+He stood there in a coat that matched my own clothes. The subtle shades of blue mixing well with his dark hair and the cloth sitting perfectly against his large frame. There was just a bit of a twinkle to his eyes as he first saw me, which spread across his whole face and body.
+
+There was a speech from Kala, but if I'm being honest I missed most of it. I was too busy looking and thinking about the man in front of me. It was quite embarrassing when she finished and told us to kiss, since I missed the signal and stumbled a bit, but that was fine. We exchanged the customary three kisses before he did something unexpected.
+
+“Ah, I got you something, I do hope this is the right time,” Ulanion said a bit nervously, taking out a small box.
+
+The ring inside was a work of art, dainty and swirling, but covered in gems every color imaginable, the center being a massive clear stone. Shaking, I extended my hand and he slipped it onto my finger. It was warm, and comforting and I wanted to cry as it slid into place, my desire to keep my face in order the only thing stopping the tears that welled.
+
+“Thank you,” I whispered.
+
+Time flowed quickly after that. There was a feast, albeit a small one, with drinking. Then it seemed that every bard save myself in the building took a turn playing and singing so that people could dance. I had only two partners, my new husband, and my father, who made his way in for one of the slower dances.
+
+“I never thought I'd return here,” he said, and it was clear he was having a lot of feelings today.
+
+“You don't mind do you? It seemed... right.”
+
+“There's never been a more perfect place for this Alana. I never wanted you to suffer though the things I had. All I wished for you was a happy life with some man you loved, perhaps even staying in the village and away from all the madness in the world. Well, some of that seems to have happened at least.”
+
+“You were, and are, a wonderful father. I couldn't have asked for anyone better,” I told him truthfully, bouncing up on my toes to kiss his cheek.
+
+Several more dances were shared, and the crowd began to wind down. The food was gone, the drinks consumed, and it was around time to end it. At this point dad steeped back out before the crowd, making a brief call for attention.
+
+“Alright everyone, now that everything else is done it's time for the running to the chamber!” he exclaimed with vigor.
+
+My brain made a brief skip as I tried to think of what was going on. When it hit me it was like a ton of rocks. Of all the many traditions I'd forgotten this one, and while last time I'd been unhappy about it, this time well...
+
+I made my way to the door with all the other girls and struggled to get my shoes off. Inside my head I cursed the fact that I'd gone with such complex straps as I pulled them away. They'd barely come off when the first signal went up and I bolted for the exit.
+
+As a group we flew across the small courtyard of flowers and to the portal. It was off of course, and I'd barely gotten the thing up and running before the second signal, calling for the men to give chase went up.
+
+We all hurried, particularly those of us who'd been escorted by physical magic users. Nobody tried to beat me through the gateway, and unlike them, I knew my way around the fortress pretty well. Still, I was only reaching the end of the first hall away when the first giggling screams reached my ears.
+
+I went invisible, and I began to use one of my other favorite magics. I teleported all around the halls, cutting distances by leaps and bounds, taking circuitous paths to throw off my pursuer, though I'd not seen him, and moving quick as I could while not being too obvious.
+
+I made it all the way to the last hall, teleporting into the junction and looking down. The floor felt weird. I had only enough time to register that someone had spread powder all along it before I was taken off my feet, arms like steel wrapped around me.
+
+“Tsk tsk,” Ulanion said as I dropped the invisibility. “Even if I'd not prepared for you to be hiding I would've seen the portal. You're getting predictable my love, almost like you wanted to be caught.”
+
+“Boo!” I said between laughs as I was lifted and carried to our room.
+
+His hands were fast, and even wrigging as I was he somehow managed to get my clothes off before we'd even properly entered the door. I was gently tossed to the bed, still laughing as he too began to quickly lose coverings.
+
+“Well, you've caught me, now what?” I teased.
+
+“Hmm... let's see,” as he was pretending to think he looked at me and froze, his eye settling on my thigh.
+
+It was at that moment he realized that I'd let the magic run out on my Lover's Mark. Our eyes locked onto each others, and very quickly he joined me upon the bed.

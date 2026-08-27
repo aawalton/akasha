@@ -1,0 +1,191 @@
+---
+id: 889de563-571b-52b0-aa54-870463bc1580
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 645 - Finally Time"
+slug: 0149-chapter-645-finally-time
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 149
+ownLength: 2797
+unit: words
+ownProgress: 2797
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2829429/chapter-645-finally-time"
+royalRoadId: "2829429"
+markedReadAt: "2026-06-29T19:39:50.420Z"
+---
+
+Tala, Rane, Terry, and Lea stood in a massive, exterior experimental yard, surrounded by sections of wall.
+
+There were octagonal towers, tower extenders to allow them to reach higher, wall tops with protected walkways—ten feet tall as a start—that could be set atop wall bases, each designed to stack and interlock to a crazy degree.
+
+These had been designed for the Sappherrous family specifically, the fact that they could easily fill the center of walls at need was taken into account. Though, that would only come into play if they made a monumentally tall wall, and that would limit their scope.
+
+The construction put a very small slope on the outside of the wall to ensure that even enemies at the base would be able to be easily attacked from the top of the wall, and a slightly greater, slope on the inside. The bases were minutely adjustable so that they could be used to help create walls up to fifty feet high without trouble. The bottom plates were constructed such that they would give solid footing on any terrain, even if doing so would create a bit of a drain on the wall’s reserves. They had been designed well enough to be able to endure for a full day before needing to be recharged or directly empowered.
+
+The interlocking nature of everything meant that they could assemble and disassemble fortifications of all sorts of shapes and sizes in a matter of minutes, even if they were working alone. The four working together should be able to bring about truly spectacular results.
+
+Tala was no longer quite as limited in how many expanded spaces she could create, distinct within the volume she controlled, but she was still a far cry from being able to craft an individual space for every part.
+
+Now that would facilitate truly fast deployment.
+
+Still, she was able to divide the parts into ten groups, tucking them away in their own designated spaces for quicker deployment. Lea and Rane—and Terry too, actually—would be able to access those spaces at need, but only if they were close enough to Tala, herself, unless she explicitly created a superficial anchor for a given space, and they were close to that.
+
+The fortifications were a true masterwork of magical engineering, heavily deviated from the standard templates to make sure they were artifact style in their magics, and that they would do well within the high power density of Tala’s expanded space. Moreover, many of their functions had to be redesigned to not simply activate with an influx of power, waiting instead for explicit command.
+
+The downside to that was that as soon as any Sappherrous supplied power to them directly, the wall-piece would be bound to that individual, but that should only be needed if the piece was needed for more than a day, with no break in which to switch it out for another piece.
+
+Tala was working on ways to pull power from her sanctum directly to recipients on the superficial, but as it hadn’t been perfected yet, it couldn’t have been incorporated into these fortifications that were more than a decade in the making.
+
+All told, the mobile defenses were all that Tala and Rane had imagined when Master Jevin had shown them an example in Makinaven so long ago. Honestly, they were even more than they’d imagined. The white steel that had been used in the construction as well as all the augments that had been able to be incorporated due to the power density available would make any fortification assembled from these pieces more defensible than a city, and that wasn’t factoring the fact that it would be the Sappherrouses and Talons who were manning the battlements once they were set up. The armaments and attack potential within the walls was truly impressive as well, though much of it would need to be charged up, but Tala would be able to do that over time now that she had the walls.
+
+They hoped that these wouldn’t be necessary, but if they were?
+
+Tala knew she was grinning like a madwoman. The assessment was that if she set up in the middle of an arcane city, they should be able to hold out for days, even if a City Lord came knocking personally.
+
+While she’d likely be able to keep a City Lord at bay—within his own city—on her own for a while, this would be creating a defensible position that others could be safe within, not just her protecting herself with dynamic fighting and avoidance.
+
+In truth, she felt far better about her return to the cities under Major House control with this tool in her back pocket.
+
+With that picked up, they really had nothing keeping them in the cycling cities. Even so, Tala deviated to pick up another order of cheesy little caravans while Rane, Terry, and Lea went ahead to visit with the Zuccats.
+
+Kedva had tried to make a version of the cheesy little caravans—just like Mistress Petra had before her—but for some reason, they just weren’t the same.
+
+Still, the detour only added a few minutes, allowing Tala to arrive barely behind her family, and they spent the rest of the day visiting with their old companions.
+
+Master Simon and Mistress Petra were beginning to show their age, not in body so much as in their souls and spirits. Tala could see the strain in each as they drew ever nearer to the end of their lives.
+
+It was odd. Refining was an almost entirely bodily process, but it resulted in a change to the longevity of the soul and spirit.
+
+Tala understood it; the Refined body was easier for the soul and spirit to inhabit, to the point of being effectively an eternally maintainable endeavor. The advancement to Paragon technically improved that further by strengthening the other side of the equation, but as it was already balanced, it rarely came up as a noteworthy feature of that advancement.
+
+And I’ve now gone a step beyond Refining, bodily. I should be more immortal than ever.
+
+-True, but I don’t know that you would want to survive two eternities… however that would look…-
+
+Tala glanced toward Rane, Lea, and Terry. True enough.
+
+When they left the Zuccats’ that evening, fully planning on returning to the sanctum for a night of rest before an early morning departure, they were surprised to find a messenger waiting for them on a bench across the street.
+
+When the boy saw Tala, he hopped up and ran up to hand her a note before departing with nary a word.
+
+It was a simple message from Mistress Holly. It requested that Tala come see her before they left the city.
+
+Rane frowned when he saw it. “Why didn’t she send a message through the Archive?”
+
+-She did. This is a redundancy.-
+
+By Rane’s grunt, either Alat or Enar had communicated that with him as well.
+
+Lea turned to Tala. “Why would she need the redundancy, Mom? What’s so important?”
+
+Tala shrugged. “I suppose I’ll find out.” She smiled. “How about the two of you go in and get some sleep. I’ll anchor us near Ironhold before I join you.”
+
+Lea and Rane shared a look before nodding. They all exchanged goodnights, and the two vanished, willing themselves into the sanctum with ease.
+
+Tala, for her part, decided to walk toward Mistress Holly’s workshop despite her easy ability to move much faster.
+
+She took the trip to simply soak in the ambience of the place. She was surrounded by mundane, gated humans, and she likely wouldn’t be so again for years.
+
+Even if everything went perfectly, this mission was slated to be three years, and that was to be held loosely. They’d even stocked up on healing items and found a few gateless who were mundane healers to train in their use so that they’d not be without a dedicated way of healing their citizenry for that whole time.
+
+She had one specific goal: Solidify favorable relations with the House of Blood and as many other Major Houses as reasonable.
+
+If those could be formalized and widely known, then the very fact that the gated humans were fulfilling those obligations and the Houses involved were prospering because of the agreements would bring others into the more peaceful way of thinking.
+
+That was a rather high-level summary of the task before her, and she knew that what was coming would likely only come to pass with an ocean of blood, but they were ready.
+
+Even Rane and Lea were ready.
+
+In theory, they were each open to challenges from arcanes of similar advancement. For Rane, that put him within striking reach of some of the most powerful and experienced Eskau and Pillars. For Lea, only the very young could honorably challenge her, but as she was young herself, that still made Tala nervous.
+
+Such challenges shouldn’t be lethal, but accidents happened.
+
+All Lea’s combat teachers agreed that the girl was absolutely lethal when she needed to be, and she sparred like a combatant with three or four times as much experience, but that only reduced Tala’s stress marginally.
+
+Thoughts of all the differences she was about to reencounter between gated and gateless society filled her mind in a roiling maelstrom until she arrived at Mistress Holly’s shop.
+
+It looked dead, almost every light off within, but the front door was unlocked, and Tala let herself in.
+
+As the door swung open, Tala froze, finding Mistress Holly sitting in the front entrance in a chair. Neither the woman nor her chair had been visible to Tala's threefold perception.
+
+More to the point, they were still not there according to all her senses but her mundane eyes. There wasn’t even an aura to show another magic user was present.
+
+Mistress Holly was giving a small smile that exposed that she knew exactly why Tala had stopped when she had. “Come in, dear girl. I’ve coffee for you, and we have much to discuss.”
+
+Tala walked in, her authority extending over the space in which Mistress Holly was, both without laying any sort of claim on her, nor being pushed away.
+
+It was as if she wasn’t there from an authority perspective. The woman smiled, gesturing to the chair. “I’ll explain in a moment. There are a few things you need to be told, and I was selected to convey the information.”
+
+“Selected by whom?”
+
+Mistress Holly’s smile turned into one that was a mix of pride and smugness. “Myself, of course. No one tends to fight me on such things, if I actually want to be involved.”
+
+Tala found herself smiling as she pulled up a chair, accepting the cup of coffee that was obviously much more full than it had space for. “The inscriptions on this mug are stunning. Another experiment?"
+
+“Mmhmm.” Mistress Holly acknowledged around a sip of her own drink. “In a sense.”
+
+Tala frowned for a moment. She felt like there was… something that she should be seeing… And then, it finally clicked within her. Her authority wasn’t encountering anything of note because Mistress Holly wasn’t contesting her.
+
+It wasn’t something like surrendering to Tala. Instead, it was just like Walden within his expanded space. Tala and the immortal elk never actually clashed. Tala had full authority—bordering on sovereignty—and so did Walden. That said, Tala’s was supreme, underlying his like a foundation to a well-built house.
+
+“You are placing your authority beyond contestation.”
+
+Mistress Holly set her cup aside and actually seemed to be tearing up. “Girl, you continue to amaze me. That was wonderfully noticed.”
+
+Tala waited a moment, then she remembered who she was speaking to and simply asked, “How?”
+
+The Inscriptionist chuckled. “And yet you prove yourself so young.”
+
+Tala sighed. “Yes, I am young, but I am also Reforged.”
+
+“That you are, so why do you believe that your authority should be able to be challenged?”
+
+She opened her mouth to respond but hesitated. Why did she? Whenever someone else came into range, she subconsciously asserted her authority over them and theirs, and most fell under her sway without the least effort, most not even realizing it had happened.
+
+But… was that the right way of things?
+
+I am Reforged, why should I have to assert authority? Am I a schoolyard bully that needs to force submission?
+
+Then, she recalled Be-thric, Pillar of the House of Blood and her captor. Everywhere he went he knew his place, his position, his authority. His attitude had grated against her, but it had also had a power to it. More to the point—and as more positive memories—Master Grediv moved about his city with a surety that was unquestionable. She, herself, had the same view of her expanded space. She didn’t assert authority over everyone and everything that entered; she simply had it.
+
+Her eyes widened, and the world around her shifted subtly.
+
+Mistress Holly’s smile returned. “Good, good!”
+
+Tala felt her own aura and authority settle, moving from feeling like an army ready to rush out and subdue all opposition to a roaring river that simply was.
+
+A river didn’t fight those who entered it. They might fight it, but the river didn’t care. It simply flowed.
+
+Only then did Tala actually begin to feel Mistress Holly’s authority.
+
+In this place, if Tala’s was like a river, Mistress Holly’s was the bedrock over which the river flowed. There was some friction, but the two weren’t actually in opposition.
+
+More to the point, it was unquestionable which was senior. If Mistress Holly shifted her authority, Tala’s would either be redirected or entirely subverted. It was true that, in following the analogy, Tala might be able to wear away at the more senior authority here, but it would not be a fast process, nor one that she could really actively speed up.
+
+She was but a passing current, Mistress Holly endured.
+
+The older woman nodded. “Excellent. You are a Reforged, your magic is powerful and your authority has a depth that is beyond your gate’s advancement, but you are unpracticed.”
+
+That brought Tala up short. “Wait… how do you have such authority? Are you advancing on the gateless path as well?”
+
+She left unsaid whether the ‘as well’ meant as well as the gated or as well as Tala, herself. Still, Mistress Holly seemed to pick up both meanings. “In a sense, yes. All Archons exert authority through their magic, and this lesson is poignant and applicable to any with the knowledge and power to actually work with authority directly, but I too have a more direct, more intrinsic source and base for my authority.”
+
+Even as the Inscriptionist took another sip, Tala’s eyes widened, and she looked down at her own arms, at the precious metals embedded within, entrenched at every level within iron encasement. “Inscriptions.”
+
+“Exactly.” Mistress Holly grinned.
+
+When Tala swallowed visibly, Mistress Holly raised a hand. “Don’t mistake me, I cannot rip your magics from you, to do so would be a violation of the very nature of my authority. I am recognized as the source of most gated inscriptions at one level or another, and what source can pull back that which it issues forth?” She shrugged. “I could do something, but that is not germane to the conversation.”
+
+That did make Tala feel better—even if she couldn’t actually verify the veracity of the statement—and so she chose to ignore the rather ominous final implication. “Alright, then. So, you have authority that isn’t derived from magic as well.”
+
+Mistress Holly nodded. “But that is just the basis. A warrior can use his authority gained through might to exert authority in many other areas. Do not let the source of your authority hold back your manifestations of it, though you will have more… leverage when the areas are more closely aligned. In theory, though, you should almost never actually have a clash of authority, because you aren’t trying to take anything. You simply have authority. Anyone who disagrees might need to fight you, but you simply are.”
+
+“That’s why others shrugged off my authority without seeming to even notice.”
+
+“Precisely. They simply are. Many are in that same camp, but you will find that it doesn’t matter. An otter can swim across a river without either truly being bothered by the other. In fact, if all is well, they can each help the other. But we are getting into the weeds with these metaphors. You seem to understand well enough.”
+
+Tala nodded. “I believe that I do, yes.”
+
+“Good, then it is time you were told about Ascension, and beyond that, Transcendance. Are you ready?’
+
+Tala stiffened in surprise, then downed a huge gulp of coffee before nodding. “Yes. I am.”

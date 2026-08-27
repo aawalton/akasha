@@ -1,0 +1,181 @@
+---
+id: f40a40ce-5d66-53c5-ac51-568d436a4982
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 663 - To the Duel!"
+slug: 0169-chapter-663-to-the-duel
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 169
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2980421/chapter-663-to-the-duel"
+royalRoadId: "2980421"
+markedReadAt: "2026-06-29T19:40:28.888Z"
+---
+
+Tala strode forth from the House of Blood’s hold, Rane and Lea at her flanks, Terry on her shoulder, and a squad of House guards in tow.
+
+The last weeks had been filled with glad-handing and settling back into life within arcane society. They wouldn’t be staying long term—relatively speaking—but they would be there long enough, and their purpose was important enough, that it was critical to not be seen as ‘sojourners’ or people to simply bear through until they were gone.
+
+The House of the Fated Clash had officially declared that a clash with the House of Blood was not fated. Moreover, if the House of Blood was fated to fight a worthy foe, they would gladly join forces toward that clash.
+
+It was a lot of poetic posturing that all together reduced down to the other house kowtowing to the House of Blood’s influence within Platoiri. The City Lord was seemingly a bit irked, as he’d specifically invited in the new Houses, hoping to counter the House of Blood’s growing power in the wake of Eskau Meallain’s actions. Despite her banishment and the House’s continued refusal to defer to his authority, he didn’t seem to feel a need to act on his disgruntlement further than he already had.
+
+The duel that Tala was supposed to oversee had been postponed one more time, but the day for her oversight had finally arrived. The issue on the table seemed to be that the House of the Steep Mountain and the House of the Little Leader had a dispute having to do with their respective heirs.
+
+They were older, hereditary Houses, and they had never really gotten along despite both Houses being composed of similar species, mainly dwarves, gnomes, badger-kin, and several other traditionally underground folk. They were, in fact, the only Major Houses to have a presence in the undercity of Platoiri, a place that Tala had never had occasion to visit, but which was apparently just as sprawling as that which was above ground.
+
+But that was beside the point. The issue between the Houses was stated to be that their heirs wished to marry, and while that would seemingly be a good thing, unifying the Houses and ending the long-standing, low-level feud, there was no agreement upon which House would rise to prominence.
+
+As such, the heads of house, themselves, would be fighting, hence, the need for one such as Tala to oversee the clash.
+
+As Tala and her party walked through the streets, most cleared out of the way of the clearly powerful, official group.
+
+Even so, Tala saw more than a few confused or disparaging looks sent Rane’s way. Those who noticed Lea’s gate seemed to be more intrigued than hostile, thus marking themselves quite easily to Tala’s perception.
+
+Of those who regarded Rane though, many put hands on weapons of various kinds.
+
+Finally, when they were about half-way to the dueling arena, an Honored wolf-kin man stepped out in front of them, forcing a halt even as he bowed deeply to Tala. “Revered Eskau, I apologize for my intrusion, but I must inquire.”
+
+The party shifted in trepidation as Tala regarded the wolf-kin, the guards forming up behind, but not interfering. After all, they were each only Elder in advancement, thus making this an ‘Eskau’ issue. Still, they would ensure no one came from behind in the unlikely event that this was some sort of distraction.
+
+The wolf-kin rose and pointed at Rane. “Is he your slave?”
+
+Tala stiffened, instantly understanding. Rane was not of the House of Blood, yet he walked in front of guards of that House, in a place of honor beside an Eskau. If he was her slave, if she claimed ownership over him, then his position would be accepted, even if it still violated social customs.
+
+Otherwise, the very act of a gated being in such a position within an official delegation was an affront to social customs and norms of society.
+
+Once again, Tala’s nature as gated was essentially ignored due to her position as Eskau taking precedence. Even the City Lord’s symbol didn’t grant Rane social standing. It simply prevented him from being treated as a law breaker. “He is not.”
+
+She could have stated that he was her husband or ‘official guard,’ but that might have actually made things worse. The wolf nodded before turning to regard Rane. “Your actions are disgraceful, and even if no other will do so, I will put you in your place.”
+
+Rane sighed. He was aware of the background which likely led to this occurrence, even if he still found it ridiculous. “I am in my place, Honored one.”
+
+The man growled in return. “My honor is my own, and none of yours. I challenge you to official combat. I would demand that it be to the death, but a corpse cannot learn, and my aim is to instruct.”
+
+Rane took a deep breath, and nodded. “Send the particulars to the hold of the House of Blood. I will attend.”
+
+“See that you do.” The wolf-kin nodded once in acknowledgement, turned and bowed to Tala, then strode back into the crowd, where he was received with clear approval by many of the onlookers.
+
+Tala sighed, giving a small shake of her head before striding forward once more.
+
+It didn’t take too long for them to reach the arena, and they were able to hear the crowds around it far before they arrived.
+
+The duel wasn’t for an hour yet, but already people were gathering, both from the Houses, and from the general populace.
+
+The massive compound was draped in the colors and banners of the two Houses, those banners having far more detail than the simplified symbols usually worn by Eskau or Pillars.
+
+The House of the Steep Mountains banner was a sapphire and emerald, each picked out in silver, resting on a field of deep, richest purple. The banner of the House of the Little Leader was a ruby, resting upon an orange and black bed of coals, all contained upon a similar field of dark purple.
+
+Funnily enough, due to the racial composition of those moving toward the arena, Tala was actually on the taller side, with Rane, Lea, and the House of Blood guards practically towering over the average.
+
+There were, of course, other attendees of a more ‘standard’ height moving through the crowd, but the majority were what would be considered short.
+
+-That majority includes you, Tala.-
+
+Hush you, Alat. Let me have this. I’m finally in the ‘taller’ group.
+
+-Fine…-
+
+As they moved forward, the crowd continued to part for them, though now it was due to which House they were from, more than the fact that they were an official group from a House.
+
+The symbol of the House of Blood stood out prominently at the top of each display of banners around the arena, serving as the upper point on the triangle, and declaring that the House of Blood would be overseeing portions of the main event.
+
+They navigated to a side entrance and were immediately within the underbelly of the arena. Attendants greeted them with appropriate honors and led them through a veritable maze and out to an overseer’s box, down near the sand of the great oval floor.
+
+At the moment, there were various other entertainments going on, all with a festive air. This was, after all, a wedding.
+
+What an odd way to get married.
+
+-Yeah… it’s certainly different.-
+
+As is most of the culture though, I suppose.
+
+Even if the Houses were in agreement as to which would be in prominence upon their union, there would still be mock combat, and other martial festivities within the arena, through which the House or Houses would display their worth both to each other and to the guests.
+
+Toward that end, there were sparring melees currently going on, and even though they were using blunted weapons, their clashes were no less vehement.
+
+Rane frowned. “Isn’t that the husband-to-be down there?”
+
+They’d received quite a bit of information on the whole thing, and sure enough, the heir to the House of the Steep Mountain was down in the pit, clad in green and blue, laying about himself with a broad-sword.
+
+Lea winced. “I think he just brained one of his future wife’s relatives.”
+
+Tala nodded. “Yes, I think that’s her cousin.”
+
+Lea shook her head. “I don’t know that I’d appreciate my future husband harming my cousin.”
+
+Rane chuckled. “Different cultures. And remember that they are filled with power, my sweet. Such a blow will daze the other man, but it would take a tragedy for him to be dead because of this.”
+
+Refreshments were provided by various servants, and the House of Blood guards took up position guarding the overseer’s box from the four corners, with the last standing just outside the entrance.
+
+It was odd to Tala that so much honor was being given to the House of Blood in this, when all that they would be doing was providing oversight for the duel. Still, it spoke to the importance both Houses put on the proceedings, and on which House would ultimately continue, while enfolding the other.
+
+The Sappherrous family settled in to enjoy the festivities with the rest of the guests and attendees, and time practically flew by.
+
+Finally, it was time, and the sand was cleared and cleaned once more, magics making the process take less than a minute.
+
+Tala then leapt down, her armor enfolding her as she landed, her surface area expansion scripts making walking atop the sand effortless.
+
+The only two changes she made from her standard armaments were to have the symbol of the House of Blood be prominent upon her chest and to keep her helmet from manifesting.
+
+As she strode to the center, Alat asked for permission to try something on a whim, and Tala agreed with a quirked smile.
+
+A moment later, a massive, stylized keystone inscription—surrounding the symbol of the House of Blood—formed out of Iron above her head, slowly rotating for all to see.
+
+That drew murmurs, even as the crowd was otherwise falling silent. When the silence was total, Alat let the symbol fade.
+
+Shortly thereafter, Tala was in place in the center of the space. As she stood there, she manifested iron spikes within the sand as additional anchors for her authority and will, creating them in a wave radiating out from her. She didn’t drive them into place, instead creating them already ensconced within the sand.
+
+A moment after she’d taken her post, a herald stood up, clearly wearing the livery of the City Lord. “The great City Lord of Platoiri sends his blessings on this union, and delegates his authority within this arena to Eskau Tala of the House of Blood for the term of this event.”
+
+As the words were uttered, Tala felt a powerful, deep layer of authority that had been underpinning her own… unlock somehow. More than simply moving away, it seemed to now actively be looking to her for direction and action.
+
+Interesting. I don’t know that I’ve ever felt something like this so clearly.
+
+-Indeed.-
+
+Tala gave a nod of acknowledgement to the Herald, then projected her own voice, “Lord Onta of the House of the Steep Mountain and Lady Capricia of the House of the Little Leader, please take to the sand, if you still so agree to this clash.”
+
+Lord Onta wore thick armor, and though it was not the War Regalia of a Pillar, it was decidedly magical in nature, drawing in a trickle of ambient power to maintain the integrity of the magics, with clear places for input from the man—well, dwarf—for full activation. He wore a massive shield on his right arm, and wielded a wicked looking battle axe in his left. The half-moon blade was balanced with a long, hefty spike, clearly designed to help the Lord deal with armored opponents more easily.
+
+Lady Capricia was more lightly armed, though the magic flowing through the brigandine set she wore let Tala sense that it was no less durable.
+
+So, she’ll be a bit more vulnerable to piercing attacks and heavy blows, while being more spry, assuming all else is equal.
+
+She wielded a warhammer on a polearm shaft. It was just a bit taller than her at five feet in length, and the head of the hammer was the size of a closed fist, set opposite a longer, hooked spike, clearly also for armor penetration.
+
+In the manner of dwarves, they seemed to have created their inscriptions from some form of gem powder rather than precious metal, which still baffled Tala.
+
+She’d discussed it with Mistress Holly at a few points over the years, and the woman had essentially said that it seemed to be something to do with dwarven biology interacting with the dust that made it a good magical conductor, not the dust itself.
+
+Regardless, the Lord had blue and green lines beneath skin so white, it almost reminded Tala of Lea. In contrast, the Lady’s skin was a dark, graphite gray, seemingly closely matching the coal in her banner, and her own inscriptions were of ruby red, glowing with a steadily pulsing light.
+
+The two took up position some fifty feet from one another, with Tala nearly directly between them.
+
+“Do you consent to my arbitration?”
+
+They each bowed, and Tala felt their natural resistance to her authority vanish. She couldn’t do whatever she wanted, but anything that could be reasonably viewed as required for the arbitration would no longer risk opposition from one or both of them.
+
+As was the way with authority, once given, it was exceedingly hard to scrabble it back, so there wasn’t really danger of one of them getting angry and trying to break the rules in that manner.
+
+Tala once more reminded herself that these were a Lord and Lady, not Pillars or Eskau. They each had Pillars and Eskau under them both in Platoiri and elsewhere, but they were something else.
+
+Hereditary nobility. She kept her feelings on the notion to herself. Though, if she were being honest, she understood it far better now that she had such a stark view of authority.
+
+Each of the combatants had thick ties of reality thread and steep authority gradients linking them with every member of their respective Houses, both those present and elsewhere. Moreover, they seemed to have an equally steep authority gradient with… some concept? It seemed to be similar to her own tie to the House of Blood, but both more substantial and more deferential.
+
+Seemingly, it was the collective identity of the House, itself, subjecting itself to each of them.
+
+Each such tie conveyed a rather hefty amount of weight such that—without their permission—Tala suspected that she wouldn’t have been able to overcome their magical weight, even individually, and that was despite being a full advancement above them, and being gated, which was generally accepted as gathering greater weight as a general rule. Moreover, Tala was unusual in how much she had invested into her own magical density, even over and above her peers. Still, she wouldn’t count on being able to overcome them solely with density or authority.
+
+Tala held up her hands and spoke for the benefit of the watchers more than the combatants. “This is to be an honorable duel to surrender or subjugation. Lethal blows will not be tolerated, nor allowed to land. If I am forced to interfere, I will take a limb from the offending party, and a debt will be incurred for the requirement. In return, I and the House of Blood pledge to safeguard the lives of the participants and the wellbeing of the onlookers. Do you agree to these terms?”
+
+The two bowed, speaking as one. “I do, Eskau.”
+
+She looked to the audience. “Do you acknowledge these terms?”
+
+The crowd roared their approval before falling into competing chants for each of the fighters.
+
+Tala nodded, feeling the weight of more, temporary authority settling behind her will. With that will, and a flexing of her power, she filled the space with her voice, ensuring everyone could hear it at a volume that was undeniable, but also barely above a normal speaking voice, “Begin.”

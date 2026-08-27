@@ -1,0 +1,181 @@
+---
+id: f4c46f05-968f-5654-8610-34a974b8418a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 20 - Suspicious Minds (2)"
+slug: 0038-chapter-20-suspicious-minds-2
+partOf: metaworld-hopecore
+position: 38
+ownLength: 2090
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368920/chapter-20-suspicious-minds-2"
+royalRoadId: "3368920"
+---
+
+At 9 PM, Eppie decided to go for a run before curfew struck.
+
+It was a habit from her past life, and the use of her youthful body was a pleasure in itself. The freedom she felt to stretch herself beyond her physical limits without repercussions the next morning was simply [Sublime].
+
+This late at CSULA, the campus descended into a kind of concrete noir. The new and old, consisting of glass-wrought lecture halls and old brick and brutalist buildings, created dark pockets of geometric shadow, warmed only by the jaundiced light of the old sodium-vapour bulbs.
+
+Whenever she passed one of the lamps, her shadow would grow and shrink, or split into fours or sixes before retreating into the body of the summoner. She had yet to purchase the proper shoes for jogging, but her new body could take the abuse without complaint. When she huffed, the Southern California chill cooled her flaming lungs, egging her onward toward greater heights.
+
+One lap in, Eppie was streaming with sweat. Underneath the dull lamp, a stream rose from her petite frame as she drank deeply from an oversized bottle.
+
+Behind the C-wing of the Lincoln Hall, across the street from the sunken entrance to the Rec Field, she stopped to catch her breath.
+
+She stopped because there was someone watching her, someone with a camera.
+
+Goosebumps broke out along her thighs, travelling up her spine until she could feel the hair raise on her neck.
+
+Either in this life or the last, Eppie was no stranger to being seen.
+
+It was precisely because she was photographed so candidly and so often that she could feel in her gut the difference between being “seen” and being “watched”. To others, the difference may not feel so apparent, but she knew this sensation like the back of her hand.
+
+There was a tangible aspect to being watched with purpose that was different to serendipitous observation. When she jogged past the college kids, and the boys spared her a glance, it was a natural reaction, a passing fancy. When someone felt keen enough to stop her and talk to her, it was the desire to establish a connection, a form of desired mutual recognition. From staff and colleagues, there was attention, affirmation and communication. Even Madison’s stares were those of longing and insecurity, which were perfectly natural.
+
+The man in the distance, the long lens he was holding, was far from natural.
+
+A paparazzi? Eppie moved a bit into the shadows so her eyes could adjust. Did someone from the NYC party want to know her true identity? Unlikely. Because the man was neither subtle nor professional.
+
+Trusting in her inexhaustible stamina, she ran toward the man.
+
+It took about ten seconds for her photographer to realise he was being accosted. Packing his Canon-coded long lens, the man ran.
+
+A young man. Asian. About five-eight. Athletic. Young and dumb enough that he only remembered his hoodie when she was just a hundred meters away.
+
+When the man ran behind the Whitman building, she stopped.
+
+This late, there were still students here and there on campus, all of them college-aged, hoodie-clad, and either in pairs or alone, carrying the same JanSport bags that were everywhere.
+
+She was not far from her dorms now, and all that stood between her and home was the old dorms for the Gen-pop students. The path she was on had a single lane for driving, a lane for bikes, and just enough room for joggers. To one side, Lincoln Hall was softly illuminated by accent lighting, while the geography to her right was better described as menacing splotches of shadow.
+
+She nervously licked her lips.
+
+Her lips were dry and hot.
+
+Her hands were shaking.
+
+She was shivering.
+
+Her [Persona] was… Eppie realised with a sudden, paralytic terror, afraid.
+
+She was afraid because she knew just how easily a group of men and women she had paid no heed to had pushed her off the edge of that yacht. She was scared because if someone were to drag her into the dark now, even kicking and screaming may not summon the necessary help quick enough to prevent the worst.
+
+Her legs were solid lead.
+
+Evidently, when it came to fight or flight, the original Eppie’s response was option C: become catatonic.
+
+“Meow?” The unbidden sound of something soft drew her attention away from the shadows she needed to transit before arriving home. Eppie looked down and saw a tiger-striped tabby rubbing itself against her leg.
+
+Almost instantly, the tension dispelled.
+
+She knelt, feeling suddenly fatigued, and ran her fingers through the cat’s luxurious fur.
+
+“Meow—” the cat purred.
+
+“Hey buddy,” Eppie mimed a meow of her own. “Where did you come from?”
+
+“Meow!” The cat sprinted away.
+
+Her eyes followed the cat’s shadow as it grew, stopping finally at the feet of a giant silhouette sitting in the shadow between two yellow lamps, where a bench had been placed.
+
+There was a ring of cats around the bench, about six or seven.
+
+And the cats had evidently summoned a man.
+
+As in a dream, Eppie walked toward the light, cajoled by the cats.
+
+Closer, she could see that it was an Asian guy, older than she was, but not by much. He didn’t have their clothes or the air of a LAPA Senior, which meant he was a college student who attended Cal State. The man had a bag of food that looked like Chinese takeaway tubs. Presently, he was stroking a cat while feeding another, nuzzling a third, while two more made infinity circles around his feet. The man was a bonafide Cat God surrounded by faithful feline adherents.
+
+About ten or so meters away, the felines caught wind of her scent and bolted.
+
+“Oh…” Eppie realised her mistake too late. “Sorry…”
+
+“It’s alright,” the man replied, his English afflicted with a slight accent. “They’ll be back soon enough.”
+
+The two of them looked at one another awkwardly.
+
+“Are these your cats?” Eppie asked, then realised just how stupid her question was.
+
+“They’re our campus cats,” the man replied with a smile. “Members of the CSULA Stray Cat Alliance.”
+
+The tiger tabby meowed. “This one here is Sir Pussyfoot.” He pointed to a snow-shoed black cat who had stayed. “Here is Prickly Purr. Be careful, he has a mean scratch.” The man slapped his thighs, and a third cat leapt onto his leg. “Mrs Catch’em, our mouser.”
+
+A part of Eppie wanted to run back to her dorm and take a hot shower. Yet, she seemed inexplicably drawn to the cats. Taking a few more tottering steps forward, she sat on the bench beside the man and waited for the cat distribution system to assign her a feline.
+
+“Fat Lim Wang,” the man offered her a hand. “It's spelt F-A-T, but the t is silent. For both our sakes, just call me Lim.”
+
+Wang-Lin-Fa, Eppie mouthed silently to herself in Mandarin. His name was Cantonese, one she didn’t know. “Are you always here, Lim? Feeding the cats?”
+
+“Not always,” Lim shook his head. “In spring, the mama cats roam far and wide in search of suitable mates. Most will come to the campus to give birth. I am trying to get them to trust me so that, before winter, I can collect the kittens and maybe catch the parents so the veterinary department can neuter them. Mrs Catch’em is pregnant, by the way. She’s too gravid to hunt.”
+
+“Oh,” Eppie couldn't help but reach out.
+
+After a cautious sniff, Mrs Catch’em flopped itself onto her side so that she could rub its belly. “Oh… she’s pregnant… with a capital P.”
+
+“She is indeed, Miss Euphemia Fontaine.” Lim seemed to relax when the cat did not immediately scratch her eyes out.
+
+“You know me?”
+
+“You are famous, for many reasons,” Lim laughed. “The singer in the car park, right? You are the talk of the town. The art department says that you’re their idol.”
+
+“Oof, that’s embarrassing,” Eppie lied to make herself more humble. “It was just a fancy.”
+
+“I bought your song.” The man looked embarrassed. “I am not flirting with you, by the way. I am just… not sure what else to say. Normally, it's just the cats and me.”
+
+“Ha…” Eppie wasn’t sure what else to say either.
+
+By now, the wayward cats had returned. When Lim opened his takeout box again, there was a pungent smell of squid.
+
+“Sorry if it stinks,” the man apologised. “It's er… squid cuttings from my family’s restaurant in Chinatown. There’s whiting in there as well, and bonito. I try to keep it fresh, but the ice packs last only so long.”
+
+With the escaping scent, the cats that surrounded them grew into a frenzy of meows. Taking advantage, Eppie ran her hands from cat to cat, feeling her weariness flow away with the softness of their fur.
+
+While she took advantage, she saw her neighbour snap open little tubes of liquid to douse the feeding tabbies, stopping now and then to take notes.
+
+“Bravecto, if you know what that is. We need to keep our mousers doused once per three months for fleas, paralysis ticks and heartworm. If it wasn’t for this, I would NOT recommend petting them, ha. I’d still wash your hands if you intend to eat after this.”
+
+Eppie nodded.
+
+The cats continued to meow, and she continued to take advantage of the feeding felines.
+
+“You know, Euphemia,” Lim started to speak once more after he finished his notes. “I used to know you. I am a little… disturbed that you don’t recognise me.”
+
+“Oh?” Eppie felt her cheeks turn red. Of course, it made sense that someone on Campus knew her. After all, she had lived just around the corner in the old dorms, even if she was so unassuming and quiet that her classmates barely recalled her as a person.
+
+“You had an accident, didn’t you? I remember the ambulance. You were gone after that, so I assumed it was you who they carted away.”
+
+Eppie swallowed, careful not to imbibe cat fur by accident. “Er… were we friends?”
+
+“No, not really,” the man shook his head. “You were very quiet, very timid. Your friend, the black girl, hated cats. You were introduced to me by someone else, Luciana Mio. Do you remember her?”
+
+Eppie studied the cat-man’s face. Like most Chinese faces, the young man was not one to expressing emotion; when their eyes met, his was a blank and unknowable stare.
+
+“Not… really,” she said truthfully, not wanting to sound like a weirdo in front of their cat-guardian. “After I came back, I can’t recall much of last year at all.”
+
+“That’s a shame. I haven’t seen Mio in months. I heard she dropped out?” Lim gave her a wry smile. “Well, you know me now.”
+
+“It’s nice to meet you, Fat Lim Wang,” she gave the man a winning smile, one that was enough for him to perform a double-take.
+
+“Well met,” the stoic cat-feeder returned his gaze toward the cats in his lap.
+
+“So er… are you here for much longer?” She asked.
+
+“Until Miss Catch’em and a few others give birth, yes,” the man nodded. “I need to collect the kittens. A few of the newcomers also need to be trapped and neutered for their sake.”
+
+They sat for five more minutes, stroking cats and listening to the thunderous purr.
+
+Just before she had to leave for curfew, Lim stood. The cats fell like a furry waterfall.
+
+Eppie’s jaws almost struck the floor. Lim was jacked. It was impossible to see with the cats all over him, but this was a guy who did not miss a single day at the gym. He took a few steps and back and forth, but could not shake the cats, making the whole scene unexpectedly humorous.
+
+“You laugh now,” her college friend snorted derisively at her giggles. “Just wait until you get back to the dorms.”
+
+Waving her new friend goodbye, Eppie stepped into the dark, no longer afraid, and ran with a bit more haste than she intended back to her room.
+
+The moment she walked through the door, however, Mama Josefina’s scream echoed through the lobby. “Eppie! What has happened?! Did you run into a Dzulúm?”
+
+Confused, Eppie looked into the mirror and—
+
+Saw that every inch of her was smothered by cat fur of every type and colour, from long to short, brown to silver, from her neck to her ankles.

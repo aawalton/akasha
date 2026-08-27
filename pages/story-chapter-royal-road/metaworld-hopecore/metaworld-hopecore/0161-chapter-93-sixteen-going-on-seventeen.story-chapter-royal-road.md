@@ -1,0 +1,363 @@
+---
+id: 7bca7dff-ef7b-5667-aa60-6d26d9fcfae5
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 93 - Sixteen Going on Seventeen"
+slug: 0161-chapter-93-sixteen-going-on-seventeen
+partOf: metaworld-hopecore
+position: 161
+ownLength: 4360
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3841281/chapter-93-sixteen-going-on-seventeen"
+royalRoadId: "3841281"
+---
+
+"For man looketh on the outward appearance, but the LORD looketh on the heart."
+
+1 Samuel 16:7
+
+June came in like a wet, mangy, well-fed lion at Central Park Zoo, settling over the five boroughs as a lazy feline too content to move. Two days past May, the weather had grown hot enough that the asphalt around JFK had gone soft enough to take a heel print. Air conditioners added to the general misery, sweeping down the faces of pre-war buildings to air-fry the pedestrians piled shoulder to shoulder.
+
+On the Van Wyck, the traffic idled with collective anxiety. Fuel, four dollars a gallon, was very much a concern. It was a number the country had never seen before—not that it stopped the cars idling from keeping every interior at a comfortable seventy-one degrees. North-west, two square miles of Manhattan were already selling it forward.
+
+The Taxis, at least, were glad they had hybrids and burned a little less for the privilege. The city had forcibly converted half of its yellow fleet years earlier than scheduled. The other half, buoyed by the proud, patriotic tradition of American exceptionalism, had applied for exceptions and were suffering for it a gallon at a time. No one knew that here lay the last ordinary summer America would ever know, and that cheaper fuel would soon be a curse, because the only thing that made fuel cheap was nobody going anywhere.
+
+And it was in the same summer that Euphemia Fontaine found her father idling at arrivals, wearing cargo shorts topped with an Armani Collezioni shirt in viscose and silk, sleeves rolled, and a fat Rolex Submariner with a cobalt face. Below the knee, Curon wore white tube socks and designer Birkenstocks.
+
+He saw her, and his whole face went; then he put the coffee on the floor, then he opened his arms.
+
+“Gosh…” Eppie looked around the landing. “Where could my father have gone?”
+
+Surely, the father of an impeccably dressed young woman in a sunburst Hepburn dress suitable for summer, replete with a pair of fashionably worn Common Peoples in white, could not be related to this walking travesty of aesthetic sensibility.
+
+Eppie strolled past Curon without meeting his gaze. Clearly, someone who wore white socks and sandals in a public space in New York was mentally unwell. She hoped the strange man would not follow her, because that would just make things awkward for everyone. Perhaps, if she called Trent Davis, he could send a car.
+
+Then her [Persona] body betrayed her sensibilities and spun toward Curon at speed until the man made an oof.
+
+The spectacle was such that two baggage handlers nudged each other, a family of five stopped talking, and a security guard shifted from the wall where he was resting.
+
+Their eyes were drawn to a fourteen-year-old daughter with her arms locked round the neck of a sixty-year-old dad dressed for a barbecue he had not been invited to, in a reunion that could not be cuter or more adorable.
+
+Of course, Eppie was sixteen, and her faux-father was a hairline under fifty.
+
+"You grown taller yet?" Curon said into her hair.
+
+“... who greets people like that?” Eppie pushed him away, one hand on Curon’s belly. “How’s your hypertension… you know what? Let's go, people are watching.”
+
+Curon grinned. “It’s a free country. Let ’em watch.”
+
+Eppie dragged her father away with her [Strength] of [21] lest the hypertension grow contagious.
+
+They parted the crowd for Terminal Four, where Sony had their corporate parking reservations. Eppie’s brows went up the moment she saw what her father had chosen to drive to JFK. It was his 1966 Lincoln Continental in green with the suicide doors, eighteen-and-a-half-feet of American optimism.
+
+And the car that JFK died in…
+
+The porter did not look at Eppie. The porter looked at the car.
+
+“Sir. Sir. Is that a slab-side?”
+
+“No. It’s a Sixty-six. They put the crease in that year.” Curon’s smugness at the young man’s envy was… enviable.
+
+Curon opened the rear door backwards, so that it swung out toward the curb like a page turning into the cabin. Eppie stepped in, sitting like the grand prize of the Kentucky Derby, foreshadowing the agonising experience to come.
+
+They drew eyes for eleven miles. They drew eyes on the Van Wyck, and on the Grand Central, and through the tunnel, and up Madison, where a man on a Vespa took both hands off the bars to take a picture and nearly rear-ended a truck.
+
+Her father enjoyed every mile as if bathed in the warm waters of an onsen, subjecting his daughter to the glaring sun of first summer as the wind tossed her hair in impossibly aesthetic ways.
+
+Their palatial vehicle did, at least, block the wind enough that her [Vocality] could speak.
+
+“How was the hospital?” Curon asked, still grinning.
+
+Eppie told him.
+
+To distract herself from the rubberneckers, she recounted her return to the building where she’d woken up, sans [System] notifications.
+
+She told him that St Marten's Children's Hospital had not changed. The West Hollywood lobby still smelled of floor polish over something older. The vending machine on the second floor still had the same handwritten apology taped across the coin slot.
+
+Eric had carried a cart’s worth of signed albums, chaperoning Eppie, who had dressed for the occasion.
+
+Nurse Bessey came around the nurses' station on the fourth floor with a drug chart in one hand, stopped dead, praised Jesus in Igbo, then she came at Eppie like the weather.
+
+“Nwam!” Bessey was beside herself. Eppie was inspected from head to toe. She was pronounced too thin, which she was not, and then held again.
+
+"You did not tell me you were coming." Nurse Bessey pinched her cheeks, making sure Eppie wasn’t an illusion.
+
+"I wanted to surprise everyone.”
+
+“You went and surprised people at a working hospital?! Unannounced?” Her father interrupted the story, but he was right. In two hours, she saw her former benefactors for about ten minutes.
+
+Dr Mills shook her hand for slightly too long, said I love your songs, and went the colour of a beetroot. He took two albums. He said one was for his sister. Eppie did not believe him and let it go. Dr Richardson took an album, held it at arm's length, examined the cover the way he had once examined her CT, and asked, “Is this from the swollen side of your brain?” Then his pager went off, and he was gone, and that was Radiology.
+
+Director Harper hugged her like a long-lost uncle, then asked whether Eppie was sleeping well. He said he had read the article, knew the byline, and was very, very glad that he made the right decision. “We’re making good use of your charity,” Director Harper said, shaking her hand as an equal. “You’ve brought more hope to this world than you know.” What passed between them was beyond words…
+
+Dr Hughes came out of the physio room between patients and mouthed, Oh—, then refused to release Eppie for the whole time she was on break. “Thank you,” Dr Hughes told her. “Thank you for being you.” She then buried her face in Eppie’s hair, waiting until the final second of her next appointment before handing her back to Bessey.
+
+It was only ten minutes in two hours, but Eppie knew her gratitude would last a lifetime.
+
+“They’re good people,” Curon sighed. “You got lucky.”
+
+It was a terrifying thought, Eppie had to admit. What if she hadn’t been lucky? Or had the [System] known exactly which hospital to plonk Euphemia’s cold, brain-dead body?
+
+Curon took five minutes to painfully manoeuvre the Continental into 550 Madison’s underground garage, fully demonstrating the titanic effort it took for her father to exercise the vanity of picking up Eppie in a collectable car.
+
+They took the lift to the ground floor, for the garage lift did not reach the penthouse office suites.
+
+At the interior security check, the doorman held the gate for them as soon as the lift doors dinged open.
+
+“Mr Curon.”
+
+“Vasquez.”
+
+Vasquez looked at Eppie, who was very small, very blonde, and very yellow in her lemon Hepburn dress, timidly peeking past her producer’s impressive girth.
+
+"Take-your-daughter-to-work day, sir?"
+
+Curon barked. Eppie laughed. Vasquez reciprocated. Curon fumbled a bill into Vasquez’s coat pocket and praised him for a job well done, then he took Eppie’s hand and walked them into the heart of Sony’s music empire.
+
+Trent Davis, CEO of Sony BMG, expelled a fine mist of americano onto the floor of Sony’s music empire before he forcibly reversed course, almost choking on the patriotic liquid.
+
+The midday lobby break was his ritual. He liked to drink his coffee at the base of his empire, with his back against the cool pink granite, watching the whole floor. After almost two decades in the business, he knew that here, in the lobby, through those security gates, was where fortune and scandal emerged.
+
+Presently, he watched a scandal slip through the gate, all smiles and happy as a clam at high water.
+
+What Trent Davis, father of two and a friend to Frederick, saw was a delightfully oblivious moron playing parent to a talented orphan in yellow, who was humouring him while enjoying herself, enjoying herself at both their expense.
+
+What Trent Davis, CEO, saw was a producer who was not married, had no children, and had never once been suspected of being homosexual on the grounds that the rumour would have required taste—holding hands with one of Sony's brightest and most controversial starlets, sixteen, with a face that had been on a Grammy broadcast and a viral video, in a lobby where everybody was watching.
+
+He saw his beloved moron tip Vasquez with a wink. Vasquez was being considerate, of course, but the gesture could be as obscene or innocent as a copywriter made it.
+
+And then, his mouth bitter with coffee, Davis’ eyes scanned the lobby and saw the paparazzi pack that lay in wait for Lucia Lancet or Kellie Noah or Nathaniel Ellake, raising their lenses and snapping away.
+
+The sound of the shutters shunted the blood flow to his left ventricle.
+
+He saw the headlines flash across his frontal lobe. He saw them, the press, with their notebooks and their recorders, asking him questions about Curon’s unsavoury tastes. He saw his star producer holler with indignation and rage at their accusations. He heard those words, as clear as day, “It’s a free country!” and he felt his blood pressure tickle the limitations of his medication. He heard the song the girl would write, probably something about father and child to exonerate herself, and the rollercoaster that was SONY BMG’s share price as the board demanded Davis answer for Curon’s indiscretions.
+
+In short, Trent Davis was afraid.
+
+With a shaking hand, he tossed his unfinished coffee in the trash, prompting the barista to break out in cold sweat.
+
+He watched as Curon and Eppie entered the lift together, laughing like silly buggers.
+
+Oh, thought Trent Davis, oh noo…
+
+A lobby away in La La Land, the lift went up past four floors of Legal, past the Sony Club, and opened on thirty-three, where Frederick Curon lived.
+
+Curon did not have an apartment. That was the thing Eppie had failed to picture when she said she would be living with “dad” until she found a place. Curon had a section—a bite taken out of the north-west corner of the Belmonte Building sometime in the nineties. It had been made for him by a platonic partner who had formatively shaped 90’s pop music after a contentious merger.
+
+Here was Curon’s studio, also the office where he held meetings that determined what Americans would hear each season. There was a living room off it with a sofa nobody had ever fully sat back on. There was his bedroom. There was another bedroom.
+
+There was no front door. The lift opened into an open-plan living space, and then there was simply his stuff.
+
+“So, this is er…”
+
+“This is it!”
+
+“This is your house?”
+
+"Yep. This is where I… where we live," Curon said, smug with dignity. Eppie watched him drop his keys into a Grammy. There were a dozen of them, here and there, placed without particular concern.
+
+The decor was a catastrophe. Eppie stood in the middle of the room and turned slowly, like the princess of a sacked Christian capital that had survived a Visigoth invasion.
+
+There were eleven guitars that she could see, on stands and off them, one flat on its back on the floor like a passed-out punk rocker. A Rhodes with a coffee ring on it. A cased mandolin. A cased something-that-was-not-a-mandolin. Sheet music rested in drifts, weighted down against the air conditioning by whatever had been nearest, which was cigar cases, empty ones in oiled mahogany. Photographs in frames were stacked five deep against the skirting because he had run out of wall in about 1997 and had never once considered stopping. Records lay here and there.
+
+And in the corner, still, in June, was a Christmas tree; the baubles were half-packed into the box. A box that was abandoned about ten minutes into the twenty-minute endeavour.
+
+“... Rick…”
+
+“What? It’s almost Christmas.”
+
+“It's June.”
+
+“The strings snag,” complained Curon. “Nobody wants stringless baubles. That’s plastic waste. You know our president. No more plastic waste in the oceans! Save the whales!”
+
+Eppie dodged a dozen tripping hazards and arrived at Curon’s workstation.
+
+The workstation was in the far corner facing the window. It was the type of desk she had only seen in photographs of musicians' homes in Sound on Sound. She spotted a pair of Yamaha NS-10Ms sitting on the bridge with tissue paper taped over the tweeters, and behind them, doing the actual work, two Genelecs that probably cost more than Eric's car. She recognised the Pro Tools rig, a Neve sidecar with the knobs worn smooth, a Minimoog, and an Oberheim DMX, twenty-seven years old and possessed of more history than most touring bands.
+
+There was more gear she didn’t recognise, that Mueller had never shown her, or she had yet to read in her personal research. What she did know was that this single workstation could renovate and furnish a downtown apartment with change to spare.
+
+“Is this the only clean space?”
+
+“A necessity of the profession,” Curon smirked at her admiration.
+
+Then he showed her to her room.
+
+To Eppie’s surprise, it had been professionally cleaned out.
+
+“I couldn’t decide which Disney Princess was your favourite, so I left it empty,” Curon reached her side before informing her with great solemnity that his choice had been Belle, but felt she might be more of a Cinderella girl.
+
+Her favourite was Mulan.
+
+It was obvious that Curon had put in the work.
+
+Fresh linen. A desk. An empty wardrobe with the hangers all facing the same direction, which meant a stranger had hung them. Her own ensuite. A window that looked north up Madison at a slice of the park.
+
+Somebody had put a lamp on the nightstand. A vintage one. Possibly once belonging to a movie set somewhere.
+
+“It ain’t much,” said Curon, from behind her. “But it’s home, for now.”
+
+“It’s perfect,” Eppie had to fight the palpitations in her chest. Her mother had been a therapist, and her father had taught at a private college, and neither of them had lived long enough to know that the next person to make Lana’s bed would be a man in Birkenstocks.
+
+“More like basic…” she could hear Curon’s pride purring.
+
+“Dad,” said Eppie, with more intent than expected. “It’s perfect.”
+
+Curon went to make coffee, just so the day could be a little more perfect than it already was.
+
+To settle in, they found a place on the enormously expensive leather sofa by moving a small trolley of instruments, notes and what Eppie recognised as copies of unfiled contracts, then kicked off their shoes and did their best to imitate homebodies.
+
+Curon asked her what her plan was from here on out.
+
+“Theatre,” Eppie answered without hesitation.
+
+Curon put his coffee down. “Musical? Stage? Classical? If you want, I've got people I can call right now. You can audition for any suitable role at any time, and…”
+
+“That’s not what I meant,” Eppie shook her head. “I am thinking of writing, producing, directing, running one, eventually.”
+
+“How about a stint on Broadway?” Curon rubbed his jaw. “You can learn on the job. How about a role in something popular while you figure it out? Frankie? Sound of Spring? A Summer in Saigon?”
+
+Eppie shook her head again. “No thanks. I need something local, small. I need to build up experience from the ground up. My own troupe.”
+
+She had scripts in her head, but felt keenly that the [System] did not intend her to be auctioning scripts. They were tools instead, mechanisms to elevate dreams, to bring like-minded people together, to create… she wasn’t sure, but the direction itself was certain.
+
+Curon regarded her over the rim of his terrible coffee.
+
+“You’re gonna keep writing songs?” he asked.
+
+“Of course,” Eppie nodded. I still need to live, after all. Can’t put on theatre when your Causality is zero.
+
+Curon tapped his foot. “School?”
+
+“No. No school.”
+
+“Eppie…” Curon’s tone grew firm.
+
+“There’s no need,” Eppie said seriously. I need to produce. I need to create. I need to inspire others, not gain a Bachelor of Performing Arts.
+
+“There's every need. You're sixteen. You completed nine months of tenth grade, then withdrew. What will people think…”
+
+“Rick. I can pass anything. Any exam. Any board, any subject, any time, with a week's notice and three days' lead time with a good study guide," Eppie said the fact without weight on her shoulders. “Get me into a college, and I’ll get you a certificate. You can frame it. But I can’t sit in another room for two years. I’ll die.”
+
+The last part came out meaner than she meant it to, and it sat in the room among the guitars.
+
+Curon tasted the uncertainty in her voice. “You… do have all the time… in the world. Right?”
+
+“I am not ill, if that’s what you mean,” said Eppie, "But I need to work. Work is life.”
+
+Her father read it as ambition. Eppie squirmed. That was the trouble with telling true lies to people who loved unconditionally. The guilt grated on the soul.
+
+“Any words from Lucia?” Eppie changed the subject.
+
+“Nada from Miss Lancet,” Curon shook his head. “And nothing from the estate, or the lawyers, which is our usual mode of communication.” He shrugged. “Give it a fortnight. A family like theirs likes to take their time.”
+
+Eppie turned the mug around again, then leaned against her father. The mystery of the Rising Sun endured, at least for now.
+
+Still, she had time, right? All the time in the world.
+
+DING! The elevator opened. The man who entered was as familiar to her as Curon, though not nearly as endearing.
+
+He stood at the threshold, frown-in-hand, and sighed long and deep, then said something disturbingly familiar.
+
+“You… you see how this looks, right?”
+
+There was no door to knock.
+
+The lift opened into Curon’s office suite, because that was how the building was designed.
+
+Thereby, Trent Davis waited for the door to slide open while holding a folder of up-and-coming artists as a pretext and entered the living room of Frederick Curon’s domain.
+
+What he saw was this.
+
+His starlet in a sunburst summer dress, barefoot, legs resting in the middle of a sofa, drinking Coke out of the can. Her shoes were somewhere else. Her hair, now a little past her shoulders, was draped over Curon’s shoulder.
+
+Frederick Curon was beside her, socks on, watching a muted television on which a ticker was reporting that federal regulators had closed a bank in Staples, Minnesota, while reading emails on his phone.
+
+The girl was leaning just the right amount to make a pretty picture, if someone were to take one.
+
+“You… you see how this looks,” said Trent Davis. “... right?”
+
+Two heads came round.
+
+"Eh?" said Curon.
+
+"Eh??" said Eppie.
+
+Davis closed his eyes briefly and reflected upon helming a public company for nineteen years. A company that dressed up young women in push-up bras and crop tops. A company that popularised the low-rise schoolgirl mini. A company that, while having a blemish-free reputation, nonetheless sold sex with the same gusto as corn syrup in Capri Sun.
+
+There were reasons why a company that promoted a forty-second cut of Kel in a room of fangirls bouncing bombastically to ill beats did not receive sexual misconduct lawsuits.
+
+Those were illusions. This… this was real life.
+
+“Move aside,” he announced, “I am going to take a seat.”
+
+He crossed the room. He sat down on the sofa. He sat down on the sofa between them, which required a certain amount of insertion, and which put a fifty-two-year-old chief executive in a four-thousand-dollar suit directly in the middle of a half-drunk Coke and a dainty pair of white feet with unpainted nails.
+
+“Oi!” said Curon in his unmistakable Bronx accent. “I'm sitting here!”
+
+“You are not going to be sitting here,” said Davis, “for very much longer, and neither is she, and before you start yammering, I want you to both listen to me.”
+
+Davis turned to Eppie. She looked back at him with enormous blue eyes that seemed to read him like a book. Davis felt his headache change key. The girl gets it, right? She’s so smart, surely she gets it.
+
+“Miss Fontaine is not moving in here,” he said to her.
+
+“She's already moved in here,” protested Curon. “That’s her bedroom.”
+
+“Then Miss Fontaine is moving out of here,” he turned to his friend. “Fred. Look at me. Look at my face. Listen. You have an underage artist, signed to my label, sleeping forty feet from you, in a residence inside my building. No… please don’t argue with me. You press me on this, I swear to God I am going to walk into the Hudson, and in my note, I am going to name you with your full legal name.”
+
+“She has nowhere else to go!”
+
+“Is that really true?” Davis turned to Eppie, who was smiling. “Can you not look at me like that? Put on your shoes! I am not the one writing the articles.”
+
+He sighed.
+
+“Look, your Dad—Frederick Curon—is your discoverer,” said Davis. “That's the industry title. Not father. Not Guardian. There’s a very special relationship between an artist and their discoverer, and historically… history isn’t on your side. Concurrently, you're emancipated, there are no guardianship papers, you consent for yourself, and I want you to understand that that is the part that makes this worse and not better. Imagine if a producer who found a fifteen-year-old, elevated her, put her on a Grammy stage, named himself Dad in her telephone as a joke—”
+
+Davis glared at Curon. “On a CORPORATE PHONE—now wants to house her.”
+
+Curon frowned like a sad clown. Davis continued.
+
+He made a growling sound. “Look, I saw the paparazzi pack downstairs take photographs of the two of you. As far as I am concerned, it's bring-your-artist-to-work day, okay? She is NOT staying with you.”
+
+The room went quiet.
+
+Curon, who had been building toward something loud, stopped building. “Eppie, living alone in New York? Is that safe?”
+
+"It's not safe for YOU for her to be here," said Davis. “I am not saying anything else. You know better, Fred.”
+
+Eppie pulled her knees up.
+
+“Fine.” The girl, thank God, agreed. “I came to see the business anyway. I wanted to see how the music-making happens, maybe write a song or two. Contracts. Publishing. How a building like this decides what an artist is worth." She looked at Davis. “So yeah, bring your artist to work day sounds good to me.”
+
+A… a song or two?
+
+Trent Davis, father of successive generations of girl and boy bands, felt suddenly that it wouldn’t be so bad to have such an understanding and workaholic daughter after all.
+
+“Alright, I’ll get you a lanyard,” he said, relieved beyond belief.
+
+“A lanyard?”
+
+"All-floors, escorted below eleven, unescorted above it. You can sit in on A&R, scheduling, publishing, and legal if Mister Fielding will have you, and on marketing if you can stand them. If you’re unobtrusive, they’ll answer some questions. You'll learn more in a fortnight than most of my VPs.” He held up one finger. “Lanyard on Thursday. So long as you don’t sleep in the same building as your producer.”
+
+Father and daughter looked at each other across their chief executive.
+
+They sighed. Their shared sigh arrived in the same key and at the same length, and Davis, wedged between them, heard it in stereo.
+
+Eppie’s hair fell over her face, then she turned her head just so that her eyes peeped at him through the blonde strands. She looked small. She looked pitiful, with her knees up and her arms round them, and her hair draped over both. Meow?
+
+Did something just meow? Davis fought the siren-like mewing invading his mind.
+
+Curon, unable to resist, protested once more.
+
+“Don't look at its eyes!” Davis hissed, averting those viral baby blues. “Don't look! It’s doing it on purpose!”
+
+Davis sighed again as Curon insisted that the paparazzi squad be removed from the lobby.
+
+“Where will you go?” Curon demanded, glaring at Davis for ruining his moment of fatherhood.
+
+“I’ll ask Dame Vaughan,” Eppie replied in Curon’s stead, regretful but without complaint. “She said to come if I ever needed a place.”
+
+Can’t you have done this in the FIRST PLACE?! Davis wanted, more than anything, to spray the girl with a garden mister.
+
+Fed up. Davis got up. Unlike these layabouts, he had to get back to work.
+
+The things I have to do, he thought to himself, finally allowing his throbbing temples to ease, just to keep a song factory alive.

@@ -1,0 +1,249 @@
+---
+id: 062751bf-3dc2-5a6b-a7c9-9964e32ea6f2
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 49 - Black Girl (2) "
+slug: 0088-chapter-49-black-girl-2
+partOf: metaworld-hopecore
+position: 88
+ownLength: 3142
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3448595/chapter-49-black-girl-2"
+royalRoadId: "3448595"
+---
+
+As a self-conscious home intruder, Eppie walked into the living room. The carpet was worn at the doorway, and an old armchair indicated where Denise might sit while the kids played. Everything was Antique USA or 80’s beige. The kitchen looked like something from a late-70s catalogue, with minimal updates. There was a cheap IKEA desk and chair against the wall, above which were workbooks, obviously Renée's.
+
+The kitchen was connected to the living room. There was a fridge, an old commercial model that looked like it had been salvaged from Mae’s. Cora's drawings covered the lower half of the fridge, held with alphabet magnets, and from there had migrated to a full section of the kitchen wall. She recognised the well-drawn figures. They were of Simone, or was it Denise? Whatever the case, Cora had a way to go before she could match Armand Amar and earn Eppie's recommendation to try her luck at the Met.
+
+Eppie gave the room’s inhabitants her sincerest smile.
+
+Renée was twelve and had the stillness of a girl who knew to keep her eyes peeled. She looked like a colt—long limbed and gangly. Her skin was dark chocolate, unlike her mother's. She had fuller lips, a broad nose, flat across the bridge in an unambiguously West African way. Her hair was in braids, self-made and self-taught. The girl stood with her arms crossed, weight on the ball of her feet, ready to fight or flight.
+
+Eppie would have had more time to read Renée were it not for the effluence of joy that was Cora, six years old, round-faced and gap-toothed, hair misaligned puffs, gripping Eppie’s arm as if she had just caught a shiny Pokémon. Unlike Renée’s cat eyes, Cora’s eyes were enormous and liquid brown, wide-set enough that Eppies’ body felt compelled to kneel and give her an enormous, heartfelt hug. Cora’s response was no less intense than a double strip of industrial-strength Velcro—the girl dug her face into Eppie’s shirt and seemed to inhale her, as Eppie might do to Mr Chin.
+
+“EPPIE!” The girl screamed into her belly, traumatising her [Perfect Pitch]. “YOU CAME BACK!”
+
+Back from the dead, was the thought floating through Eppie’s mind. Renée agreed.
+
+“WANT TO SEE MY DRAWINGS?” Cora pulled her with a strength that put William to shame. “I drew you!”
+
+Denise apologised for having to get ready for her next shift and left her with the girls. The woman’s trust was utterly unnerving. Its sheer generosity was not something Eppie was mentally or emotionally prepared to accept.
+
+She sat on the floor while Cora took out a shoebox and, from within, showed her pictures of her and Simone.
+
+It was evident that the people in the crayon stencils were good friends.
+
+She studied the room. Opposite Cora, Eppie saw a portrait of the three girls, taken maybe a year ago. Simone with the light-hearted smile, Renée and Cora with the big ones. Denise had turned the TV down before she left for the bedroom. A recorded cartoon was playing. Around the TV and above it were Christmas decorations. A small tree, barely Cora’s height, stood near the window. The ornaments were cheap, the kind from K-Mart, but the heart was there.
+
+“So… Renée.” Eppie wondered how she would break the ice.
+
+“Not while mum’s here,” Renée said coldly. She did not sound like a twelve-year-old.
+
+“Okay,” Eppie said. “Where’s your sister?”
+
+“Work,” Renée replied. “She won’t be home until midnight. Later, sometimes. A Chinese man drops her off in a nice car.”
+
+Eppie gulped. That did not sound like Simone was having a good time. A seventeen-year-old dancer, chauffeured by a Chinese man in a nice car? Just what the hell did William make her do? Eppie thought about it, then she regretted thinking about it.
+
+“Is that your father?” Eppie pointed at another picture. A dark-skinned, African-American fellow in a suit with a flat nose, frozen in a moment of joy. It was a wedding photo, though Denise did not have a wedding dress.
+
+“Yes,” Renée said.
+
+“Tyrese?” Eppie took a wild guess.
+
+“Darnell,” Renée’s tone remained unimpressed. “Dad’s in prison.”
+
+Eppie wanted to slap herself. She felt the hair on her neck rise and fall. What a terrifying kid. “I am so sorry.”
+
+“Don’t be. He’ll be out in a year, pending good behaviour.”
+
+Eppie didn’t know where to put her hands. Should she perform a Laban exercise? She was here to corner Simone, but now she was being cornered by a twelve-year-old with an aura that made Valorie seem reasonable.
+
+Against her hip, Le Galleria de Cora continued to exhibit its curated collection.
+
+“Eppie!” Cora’s plosive sounds were escaping through her tooth gap. “Simone said you write songs now! Can you play the guitar? Can you?”
+
+“I can.” Eppie nodded eagerly. She was thankful. Anything to get away from Renée.
+
+Cora sprang from the floor, using Eppie’s calves as a trampoline. She returned five, maybe six breaths later, with a child-sized instrument. A ukulele. It had a pineapple motif. The pegs were tiny pineapples.
+
+Cora looked at Eppie with expectant eyes.Eppie looked at Renée.Renée’s gaze cut like metallic guitar strings.
+
+“Alright,” she took the ukulele and set it against her ribs. [Perfect Pitch] activated, and she sent the next minute tuning every string by ear until the nylon sang. It was good enough. There was a limit to a child’s toy instrument. “I only know a few songs, though.”
+
+“I want to hear your song!” Cora gushed. “Do you have a CD?”
+
+“Mine are digital mostly… this one is about a painter,” Eppie announced the song’s content to her audience of two. “A man who only sold one painting in his entire life. His name is Vincent.”
+
+She found the sound with her slender fingers, surprisingly suitable for a child-sized fret. Her hands had played the song so many times that she didn’t even need the [System]’s help. With her knuckles, she set the pace, then her thumb rolled across the strings, once, twice, hitting the right tempo.
+
+Starry, starry night—
+
+Her private Met concert was intimate. More intimate than when she had sung for Armand. The room was small, the ceiling low. The beige was everywhere, and the wallpaper was peeling at the edges.
+
+Cora sat completely still, mesmerised. Her fidgeting stopped, her excess energy finally tamed. She sat on the floor, hugging her knees, listening to the story of a man whose vision was never appreciated by the world until he chose to leave it. She did not understand the lyrics, but she understood the sentimentality. After all, Cora was also an artist.
+
+Denise reappeared at the door.The girls’ mother was smiling as she listened.She had a new uniform on, not the whole thing, but enough to make changing in and out of the official one effortless.
+
+The song was short, but Eppie extended it. She played the chorus three times.
+
+“That's beautiful,” Denise declared with a soft series of claps. “Simone’s right, you really are a whole new person. I am happy for you, Eppie.”
+
+“I have a few more songs,” Eppie adjusted the strings. “Would you like to—”
+
+“I really have to go,” Simone’s mother apologised. “You can stay with the girls as long as you like. There’s Chinese food in the fridge. Simone should be back in the evening.”
+
+“I’ll wait for her.” Eppie smiled as best as she could, considering the circumstances. “Take care at work.”
+
+Denise left, just like that.There was no ceremony, no moment.Work beckoned, and she needed to put food on the table. In this house, four days before Christmas, there sat only two kids, a stranger, and a fridge with a surprising amount of Chinese food.
+
+Renée walked to the corridor and slid the dead bolts home, then returned to the couch.
+
+“Next song!” Cora wasn’t about to let her off the hook yet. “PLEASE?”
+
+She looked to Renée at the threshold, the twelve-year-old with the demeanour of a twenty-year-old. Renée gave her permission to continue by turning the TV down to nothing.
+
+Eppie shifted her fingers up the neck, her [Instrument: Guitar], [Songstress], and [Perfect Pitch] doing the heavy lifting, with a bit of help from [Gospel]. The next song called for a different key—higher, bright, happier. It was the ukulele's natural register.
+
+Her throat opened to sweetness and tenderness.
+
+Stars shining bright above youNight breezes seem to whisper, "I love you"Birds singing in the sycamore treeDream a little dream of me—
+
+Dream a Little Dream was a different beast on four strings. At the Gala, her song had been breathy and teasing. Without Zara, her simple playing conjured a different scene altogether. A scene of cheeky lovers at Christmas, kissing below the sycamore tree, lit by the amber string lights.
+
++ Karmic Causality
+
+—Dream a little dream of me.
+
+Cora crawled into her lap without asking.
+
+The child in Eppie’s arms was skinny and warm, and she smelled like crayons, with a hint of spilt milk. There was also a scent of spice, Chinese spices, something like cumin and aniseed. Evidently, Cora had been hitting the five-spiced duck with gusto.
+
+Eppie kept the song going. Her fingers, unlike those of other artists, did not tire.
+
++ Karmic Causality
+
+Renée sat down on the sofa, her eyes dreamy. Finally, she was looking like a twelve-year-old should.
+
+Renée made dinner. It was all kinds of absurd, but Eppie seriously did not know how to use their 80s stove, and there was no Uber Eats in 2007. They ate chow mein and deep-fried dumplings.The quality of Renée’s cooking was another shock to her system. Eppie knew her Chinese food, and this wasn’t some white man’s Noodle Box. It was legit. Thick, chewy Hakka noodles in a heavy, sticky soy sauce were stir-fried with generous portions of tender beef strips and vegetables. Ginger and shallot dumplings, hand-made, were piled across two plates. This was premium stuff. It was authentic, Hong Kong-style banquet food, reheated by a kid. They were from Simone’s workplace.
+
+Didn’t William send Simone to something called “The Club”? Eppie recalled hearing about the decision from Lim. She had always assumed that it was… seedy. Like a K-TV bar or something. Somewhere a little south of the moral boundary, but nothing that would incite the FBI.
+
+Cora chowed down.Renée ate slowly, meticulously. Her face was always in thought. She picked out vegetables for Cora. Eppie ate because she was genuinely hungry, and it was better than making conversation.
+
+When they finished eating, it was dark. Renée took her sister to the bathroom, cleaned her up, changed her, brushed her teeth, and then at 8 PM, settled Cora into Simone’s old bedroom. Eppie did her best at cleaning up the dishes. She hoped she did a good enough job.
+
+Cora was asleep by 8:15. Eppie's excitement was too much for her. When they finally sat down again, Renée had the same fatigued face as her mother.
+
+“Now, we talk.” The twelve-year-old’s eyes were softer, more considerate, but they were not yielding. “What do you want from Simone?”
+
+“How much do you know?” Eppie asked.
+
+“I know you fell from the roof,” Renée’s voice grew pained. “That she pushed you.”
+
++ Karmic Causality
+
+The hell? Eppie did a double-take. NOW? What the fuck does that mean? Why would anyone be getting [Causality] from a twelve-year-old’s confession?
+
+“It was an accident,” Renée’s voice was low and conflicted. “No part of Simone wanted to push you. It just happened.”
+
+“IT JUST—” Eppie controlled herself. Renée was a twelve-year-old kid. She had to keep her temper. “Tell me, how does one push a body off the roof by accident? Did Simone trip?”
+
+“I don’t know,” Renée’s reply was not emotional or hostile. “All I know is that before you fell, you made my sister’s life hell.”
+
+The accusation struck like a barbed wire snare. In truth, she knew nothing about Eppie’s past. She had simply assumed that Eppie was the victim. A quiet, sad victim. Lim had confirmed that—he even had the cats’ testimonials as proof. Mio had confirmed it as well, with her demureness, her kindness and compassion. Eppie wasn’t a culprit. Eppie was a victim.
+
++ Karmic Causality
+
+Eppie sighed inwardly. Clearly, the [System] had a sense of humour.
+
+“And how did I do that?” Eppie asked. “Did I push her down the stairs before a rehearsal?”
+
+Renée’s eyes grew red, and Eppie regretted her quip instantly. God, I am such an ass.
+
+“You made my sister a target,” Renée said, her mind too young for ambivalence, too innocent for euphemisms. “The people who were after you told her she shouldn’t see you anymore. Simone didn’t listen at first because she was your friend. She didn’t believe that the kids who usually practised with her in dance class were serious.”
+
+“Did they bully—”
+
+“They threw away her jazz shoes.”
+
+Eppie’s expression was not shock. It was confusion. Renée’s voice grew choked.
+
+“Do you know how much those cost?”
+
+Eppie did not know.
+
+“Ninety dollars. Fifty for old ones, but they don’t last. Not for how hard Simone works. She had a demonstration. She practised for months and months, and now she has no shoes. She went to the spare closet to borrow some, but someone had taken everything in her size and the size below. She was losing her mind—”
+
+“She walked home crying. She told mum. Mum told her that she would have to wait until payday…” Renée’s storytelling was simple, but the rawness was undeniable.
+
+“Then Simone came home and told us that she didn’t need new shoes after all. There was someone at school, someone a year above her, who gave her a pair of her old ones. They had the same size feet.”
+
+Renée’s eyes grew watery. “Simone lied. I knew she lied. The shoes were brand new. I found the tag at the bottom when Simone was in the shower. They were shoes from LONDON. Dancia of London! I am not dumb. They were brand new, Eppie! BRAND NEW!”
+
+The girl was crying now. Crying about split sole, suede bottom, leather upper Dancia shoes.
+
+Dancia from London.
+
+A long time ago, Lana had a pair of dancing shoes. Her parents had gone through the usual upper-middle-class lawnmower parent crisis. $5000 pianos. $500 dance shoes… $ 50-an-hour lessons.
+
+Eppie felt her own eyes water. She didn’t know why they were crying about imported shoes, but here they were, shedding tears for Dancia from London.
+
+What did Simone trade for a pair of perfect shoes?Her soul?What was the name of the incubus that her long-limbed friend had met that night?
+
+Valorie?William?
+
+The answer was obvious.There was only one [Usurper], and one asshat with enough meticulous maliciousness to not only record Simone’s exact shoe size before he tossed them, but also order a pair from London to arrive the day Simone needed it.
+
+And this was the man whose chain she yanked? Eppie shivered. Outside, in the dark, the lemon tree looked like a spectre. What if William ordered her a length of noose, perfectly measured so that her petite body didn’t touch the ground, her toes a tiny inch from salvation—
+
+BANG—!
+
+Eppie leapt. She leapt half a meter into the air as every thought flew through the window, then hit the deck as though she was in a warzone. Renée stared at her through her tears, then she broke into laughter. She laughed so hard that tears streamed down her face.
+
+“That’s just someone’s car,” Renée explained, still laughing. “It's nothing. Gunshots sound different.”
+
+That’s not funny. Eppie protested. No. It’s not fucking funny.
+
+The sound of wheels and a roaring engine followed.It took Eppie a few more seconds to catch her breath.
+
+“Simone… said it was an accident?” Eppie clambered back to their last conversation. “Did she ever tell you why we were on the roof in the first place? Why not argue on the ground?”
+
+Renée shook her head.
+
+“She just said she did it. She wouldn't tell me why. Simone said that she saw you being carted away. You were covered in blood. There were tubes and stuff, sticking out of your face." Renée’s voice stayed flat, but barely. “She didn't sleep for a week. She missed school.”
+
+She didn’t sleep for a week? I don’t… I don’t think that's the right point of emphasis. Eppie protested in silence, but gave it to the twelve-year-old. For a kid, Renée was… not very child-like. She was more like a young mother. A tired one.
+
+“There’s still a song you haven’t sung,” Renée said suddenly. “Simone sang it to us. It was very sad, and Simone couldn’t hold a tune for the life of her. She said that you sang it at the Gala. It was a standing ovation. Lucia Lancet came out and gave you flowers.”
+
+The girl’s eyes were worshipful. The request was not explicit, but Eppie understood it. The mood had changed so fast, so quickly, that Eppie was feeling whiplash. I guess I owe Lucia now.
+
+She slid the tiny four-string guitar over her chest again. The tune was already off, so she had to tune them again.
+
+“What’s it called?” Renée asked.
+
+Eppie did not say. She started low.No introduction. No explanation.
+
+My girl, my girl, don't lie to me.Tell me where did you sleep last night
+
+In the pines, in the pines, where the sun never shines—I shivered the whole night through.
+
+The ukulele was too small and too bright for the song. She was playing something twisted. A murder ballad on a child’s toy, to a twelve-year-old dreaming of Lucia Lancet and a six-year-old sleeping next door.
+
+The notes ate into the walls.She sang the version from the Gala, sans the howling.She sang it in hoarse whispers.
+
+My girl, my girl, where will you go?I'm going where the cold wind blows
+
+Somewhere between the bridge and the last verse, the front door opened, dead bolts slid back as keys turned the lock.
+
+Simone Goode, up to no good, quietly stepped into the room, her shoulders hunched and her back bent from the weight of the Chinese food someone had given her for Christmas.
+
+“Originally, a long time ago, in the unhappy time of plantation owners,” Eppie told the mesmerised Renée. “This song had another name. Not a nice name, but it is the original name…”
+
+“What is it?” Renée asked, finally noticing that her sister had come home early.
+
+Eppie freed the controversial title from her lips. A title from an era where life was less kind. She did not look at her former friend, but lamented the unfortunate implications of the song’s origin as founded on young girls who ran for the pines. Girls who swore to have witnessed imaginary things, because the anything was better than the alternative.
+
+“Black Girl.”

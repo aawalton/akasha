@@ -1,0 +1,271 @@
+---
+id: 12b8f83c-f9bb-5cbe-a47e-adc9067e6051
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 623 - Always One More Secret"
+slug: 0125-chapter-623-always-one-more-secret
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 125
+ownLength: 2854
+unit: words
+ownProgress: 2854
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2683185/chapter-623-always-one-more-secret"
+royalRoadId: "2683185"
+markedReadAt: "2026-06-29T19:39:18.069Z"
+---
+
+Tala and Rane both felt that they had years of insights revealed in the ignition of the city script. In talking about it later, they also both came to the conclusion that if they hadn’t been Paragons, it might have been useless to see as much as they did.
+
+That made them excited to watch another ignition in the future, once they’d achieved their Reforging.
+
+They also agreed that the memory of the event didn’t seem to hold the same weight as experiencing it. Well… that wasn’t quite true. In reviewing their own memory, they had second, third, and so on looks at the insights they gained and were able to deepen their understanding. However, when they observed—or even when they were submerged in—the memories of the other, the insights were almost entirely absent.
+
+There seemed to just be something about experiencing the thing with their own particular senses, perspective, and mindset, that the memories of another just couldn’t replicate.
+
+They’d experienced instances like that before, where the memory of a thing was interesting, but didn’t hold the depth of benefit that actually having personally experienced the event did or would have had.
+
+Regardless, they were each left with much to consider.
+
+On Rane’s side, he conveyed that experiencing the unity of purpose, the leveling of individuals into a united whole with a guiding principle and goal resonated with his desire to serve as an equal, not as one ‘superior’ to those he protected and provided for.
+
+Tala, for her part, felt the most resonance with the intricate harmonies between the various magics. These nth generation city magics were designed so that the very twists and ripples of one magic either strengthened another or counterbalanced the ripples of others. The end result was both far, far more powerful magics, and an almost entire lack of disturbance within the zeme. More than that, there was actually less turbulence than before the truly massive spellforms had been ignited.
+
+That showed the true mastery in the working.
+
+She’d understood the concept before. Rust, she’d seen and used it herself, but observing it—being inside it—on such a large scale had been something else, and it opened her eyes to quite a few subtleties within Mistress Holly’s schemas that she’d never picked up on before.
+
+In retrospect, the inner-interactions between the various portions of personal inscriptions were likely one of the delineations between a master inscriptionist and everyone else. They sought this exact effect on a smaller, more intricate scale.
+
+That started a rabbit trail of research on Alat’s part, and she and Tala came to the conclusion that this very fact was one of the aspects that set Mistress Holly apart. The inscriptions that she created had resonance and beneficial overlap greater than any other inscriptionist whose work they could find examples of.
+
+Moreover, Mistress Holly’s schema for Tala’s Reforging seemed to be even a step beyond Mistress Holly’s usual. It was as if the woman had set it up so that Tala had no hope at all of matching, let alone exceeding, its perfection.
+
+That sent Tala into a couple hours of frustration, and since they were taking their flier back to Bandfast, she was able to slow their progress marginally and exit in order to beat up several Refined level magical beasts in the mountains to the east of their flight path.
+
+It was gratifying to work up a sweat with no need to hold back, and since she didn’t use any of her ranged armaments or magics—or even Flow—the various creatures served that purpose nicely.
+
+She didn’t find a solution through her venting of course, but it was good to work her physicality after finding frustration on the cognitive side of things.
+
+It’s like she didn’t want me to be able to succeed…
+
+-You could ask her?-
+
+No… Not again. This doesn’t really change anything. Last time I asked, she just said she was glad I appreciated the work that she put in, and she knew I’d get to what I needed in time…
+
+-I remember, and you’re probably right, I doubt she’d say anything different if we reached out again.-
+
+…It is pretty irritating that you ask questions—and prompt lines of conversation—that you already know the answer or end to…
+
+-But they help.-
+
+…That makes it more irritating… Thank you.
+
+-I aim to please.- Alat sent a comforting smile. -We’re in this together.-
+
+Always.
+
+Lea continued her training and study.
+
+Terry filled his time sleeping and lazing in the sun.
+
+To be fair, the trip only took about a day given the implementation of all the various techniques that Tala and Alat had been perfecting.
+
+It was fascinating, really. As they got better and better at minimizing issues during fast travel, the number of gated with them came into sharper focus.
+
+At the moment, they had seven: Master Simon, Mistress Petra, Artia, Lyn, Tala, Rane, and Lea.
+
+For the first time, Tala was truly grateful for how careful Lyn had been in selecting families with no gated, as even those seven each caused resonance both with Zeme and with each other as they moved so rapidly, dangling stoneward of superficial.
+
+After passing near a fount and noticing that its proximity caused an increase in the work she had to do to mitigate damage to reality, she had another realization. It’s a version or manifestation of how spellforms interact, but on a larger scale… Her eyes widened. Alat!
+
+-Oh… oh!- Alat changed one of the large panel displays that were hovering in front of Tala and Rane on their dais to a top-down map of the cycling cities. -Let me see… I can add the fluctuations that the leveling of the zeme would cause in the surrounding regions… I have our recent experience as a model…-
+
+Various colored lights began radiating from each city location. It was a chaotic patterning for a moment, that only seemed to grow worse over time, causing Tala to frown. Then, she grinned. “The city spells change through the cycle.”
+
+Rane shifted. “What?”
+
+Tala waved vaguely. “Talking with Alat, sorry.”
+
+He focused on the changed displays, coming fully out of his internal thoughts. He opened his mouth momentarily, but then stopped, clearly dialoguing with Enar as the alternate interface brought him up to speed.
+
+-Requests sent for maps of the zeme around each city… oh, we already have access? Well, that’s easy then.-
+
+The minute ripples coming from each city changed, none of them exactly identical, and suddenly the whole region took on a nearly uniform hue.
+
+“-Well, rust my biscuits.-”
+
+Rane snorted a laugh, and Tala rolled her eyes. “But what does it mean?”
+
+“-I have no idea. Though… If I had to guess, I would say that it’s a suppressive effect that levels and dampens magical density in the environment across the whole area.- Alat modeled how it would look, first without the new city, and then replacing it and going forward in time with Alefast Waning’s end.
+
+The other cities—based on the information that Alat had found they had access to—would have slow, subtle changes to their magical profiles that would account for and counterbalance the loss or gain of a city, along with other alterations.
+
+It wasn’t perfect, but it was very good.
+
+Rane shook his head slowly. “Well, that explains yet another reason the cities are spaced as they are.”
+
+“Indeed.”
+
+They stared at the representation for a long moment before Rane glanced toward Tala. “Does this… change anything for you?”
+
+Tala sighed, then shook her head. “No… I suppose it doesn’t. You?”
+
+“Nope.”
+
+Another moment passed before they both laughed, returning to their various tasks, smiles across their faces and their hearts a bit lighter for the momentary distraction and camaraderie.
+
+Without much thought, their hands intertwined on the shared, extra-wide armrest of their thrones.
+
+Alat sent the impression of an eyeroll to Tala, then returned the commandeered display to a depiction of the exterior of their flier as it continued to zip across the sky.
+
+* * *
+
+As seemed to always be the case, the sight of Bandfast coming into view brought a smile to Tala’s face.
+
+It had been more than a decade since the city had been her home, and it hadn’t even been her home for that long back then. Regardless, it was where her journey started, and that meant it had a special place in her heart and always would. After all, Lea came to be here as well.
+
+I wonder if that will last even through cycles… She hoped that it would, but she didn’t really know.
+
+Tala exited the flier outside the range of the city’s defenses before tucking the construct away and striding forward, coming in alone on foot out of respect for the defenders. Everyone else came along in the sanctum and Ironhold, but on the superficial? She walked alone.
+
+-Hey now. I’m beside you, like your shadow.-
+
+So, my shadow’s the only one that walks beside me?
+
+Alat snorted. -In this case, I suppose so.-
+
+Well, since that’s still me, I walk alone, I walk a—
+
+-Enough of that. Enjoy the sights.-
+
+Fine, fine. Tala chuckled.
+
+It didn’t take long for Tala to enter the city, even without moving fast enough to catch extra attention.
+
+While Tala headed straight for Mistress Holly’s workshop, she did make a stop to grab a large number of cheesy, little caravans along the way.
+
+She would never admit to how many, nor to the fact that Alat had put in the order days earlier to allow for such a large, quick pickup.
+
+Nope. In fact, she’d likely never even mention getting a single one.
+
+En route, she also opened the gate into Ironhold at its customary location, the citizens stepping out immediately to place their signs and do what needed to be done. Merchant wagons began rolling out within a minute of the gate’s opening, showing just how well organized things had become within Ironhold.
+
+When she arrived at Mistress Holly’s, Tala pushed open the door and found a new receptionist behind the counter.
+
+Just as expected.
+
+-Indeed.-
+
+The young man sprang to his feet when he saw her—presumably recognizing her—his hand coming down on a small inscribed card that instantly flared with magic, a paired working triggered in the back of the building. “Mistress Tala!” He bowed deeply. “You are expected.”
+
+He picked up an odd jug of sorts, and Tala instantly saw that it was an unusual sort of expanded space, filled with coffee.
+
+“Mistress Holly asked me to give this to you upon your arrival.”
+
+Tala took it tentatively, not opening it. This was as suspicious as a bucket of rust. “What’s the catch?”
+
+The young man colored, visibly swallowing. “I’m… I’m uncertain, Mistress. I apologize, I meant no offense.”
+
+Tala frowned, looking closer at the odd item. It looks like it’s not really active, but the space is there… being held open by the coffee?
+
+-It looks like it, yeah. So, a single use storage? When you pour out the drink, it will shrink?-
+
+Huh… it also looks like it couldn’t expand again. So, it truly is one use… Wait…
+
+-Oh! Huh… does that mean it’s under pressure?-
+
+Reality itself is trying to push the coffee out… but it can’t be too terrible, because this lid is holding… it… back… Tala’s face took on a flat look.
+
+As Mistress Holly entered the reception area, Tala turned the gaze on the older woman.
+
+“Really? A basic restriction that would dissipate when I remove the cap? What was the plan? Have me fill up this room with coffee?”
+
+The inscriptionist arched an eyebrow. “Certainly not. That would be a waste. If you were to do something as foolish as opening that ‘freshness’ seal, it would cause a slow bubbling flow of coffee over the next few hours. That flow would be quite difficult to reduce, let alone stop.”
+
+Tala frowned. “Then… Oh! It’s meant to be put in the sanctum and let me draw out coffee as I desire?”
+
+“Exactly.” Mistress Holly nodded.
+
+Tala narrowed her eyes. “Why would you give me this?”
+
+“What use do I have for such a thing?”
+
+Tala sighed. “I mean why do you have it at all?”
+
+“Ahh, it was created to test a theory.”
+
+There was a long moment of silence until Tala gestured for the other woman to continue.
+
+“First of all, I wanted to see if reality would collapse around incompressible material. I could have used plain water, but I was confident enough in the result that I wanted the end product to be useful.” She hesitated. “I mean more useful. Water is almost always helpful, when put to the proper use.”
+
+Tala grunted. “So… coffee.”
+
+The Inscriptionist shrugged. “I knew that you were coming by soon, and you like coffee.”
+
+“Huh… Well, thank you, then.” She looked around and saw a mug tucked to one side. With a flexing of her will, aura, and authority she pulled it to her, eliciting another raised eyebrow from Mistress Holly. “What? I’ve been practicing.”
+
+“I can see that.”
+
+Tala stood with the jug in her white steel hand and the mug in the other for a long moment. Finally, she grimaced slightly, then flexed, bending her arm stoneward in such a way as to pass the mug through the coffee filled space. Specifically, she parsed her control out so that only the space within the mug passed through the coffee containing space.
+
+It was a rather impressive bit of fourth-dimensional thinking and manipulation, especially considering that the expanded space wasn’t just offset stoneward. Instead, its connection was in a stoneward direction, while actually existing entirely within a small point on the four axis.
+
+Tala doubted she could have fully comprehended—even after her mental enhancements—until a few years ago. There was just too much involved in conceiving of such things.
+
+Still, that description wasn’t exactly right, and as it turned out, the hardest part was a mix of ensuring the entire space didn’t transfer to the mug and keeping the whole of the contents from suddenly trying to fill the finite mug’s interior.
+
+That might have caused an odd sort of coffee fuelled detonation.
+
+-I feel like there’s a joke in there somewhere involving you, coffee, and bad decisions.-
+
+Then… I feel potentially, vaguely insulted?
+
+-Thank you.-
+
+I try?
+
+Regardless, it was a simple seeming motion. Tala’s arm, up to the elbow, seemed to fade away for a moment before it returned, bearing a full mug of steaming coffee.
+
+The coffee space had shrunk by one mug’s volume.
+
+Mistress Holly gave an approving nod. “You really have been practicing. In fact, you’re good enough that normally I’d give you a hand.” She lifted an eyebrow to drive home the obvious secondary meanings. “Sadly, that isn’t possible as things stand.”
+
+The coffee space shrank a bit more, and Tala saw Mistress Holly’s jaw dip slightly as if she were drinking through a straw, an impression reinforced by the older woman swallowing a moment later. As before, Tala’s threefold perspective was unable to see anything but the outer layers of the woman and her attire, restricted to what any mundane could observe.
+
+Mistress Holly nodded. “Still good, no adverse effects.”
+
+Tala gave the woman a flat stare. “How?”
+
+She had been watching closely, and Tala hadn’t seen any magics, nor any dimensional manipulations of any kind.
+
+Mistress Holly’s aura and authority underpinned everything in this workshop, but it hadn't seemed to flex in any particular way.
+
+The Inscriptionist suddenly held up a spoon. “Like this.”
+
+Tala frowned. “What? You didn’t use a spoon. Where did that come from?”
+
+Mistress Holly shook her head. “There is no spoon.”
+
+And the spoon was gone… Apparently never having been there to begin with.
+
+“You are becoming quite skilled with aura and authority, Mistress Tala, but you still have a lot to learn. You have only begun to explore the edges of what is possible in your seat of sovereignty.”
+
+Tala pulled back slightly, critically examining the older woman. Mistress Holly wouldn’t have used that word lightly. “How advanced are you?”
+
+Mistress Holly reached up and patted her on the cheek. “When you catch up, you can tell me.”
+
+Tala sighed, deciding to move on. “Fine. Are things ready for Lea?”
+
+Mistress Holly nodded. “Come, come.” She turned, moving back toward her favored workroom. “Put that away and follow me. We’ve much to talk about.”
+
+Tala shook her head, and decided not to argue. As such, she willed herself back to her sanctum, slightly surprised that she was in range. She sat the coffee jug down and willed herself back out.
+
+During the return movement, she felt it. The dimensionality of Mistress Holly’s shop was being artificially altered to be closer to Kit… somehow.
+
+It hadn’t moved—neither had Kit—but they were definitionally closer than they really should have been.
+
+Mistress Holly always has one more secret.
+
+-So it seems.-
+
+She arrived back in the reception area, bowed toward the wide-eyed, slightly shellshocked receptionist, and followed after Mistress Holly. Let’s see what she has to say.

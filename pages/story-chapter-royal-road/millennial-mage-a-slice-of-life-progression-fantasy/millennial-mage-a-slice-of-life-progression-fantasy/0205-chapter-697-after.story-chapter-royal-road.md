@@ -1,0 +1,263 @@
+---
+id: a6fcc8b8-e296-58ba-9d35-779ac094e592
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 697 - After"
+slug: 0205-chapter-697-after
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 205
+ownLength: 2965
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3304424/chapter-697-after"
+royalRoadId: "3304424"
+---
+
+Here Begins:Eskau of WarBook 15 of Millennial Mage
+
+Tala watched on in consternation as the totality of the Black Legion attackers disengaged and retreated, clearly just attempting to get beyond the Doman-Imithe lockdown to escape.
+
+Despite her shock, despite the realization that they’d been entirely mistaken on the Black Legion’s objectives, she was still the Eskau of War.
+
+Her authority, her aura, still stretched through the city toward that end, and one set-back did not end a war.
+
+Without hesitation, she began snuffing the automata out as quickly as she could, the approval of existence serving to help her recover and maintain her mental focus.
+
+As she bent her mind toward that goal, she physically moved toward her daughter.
+
+Rane, Terry, Meallain, and the bulk of the Talons were on the north-eastern edge of the city, once more killing and doing as much damage as they could to the Black Legion as the automata attempted to execute a fighting retreat.
+
+The discipline and regularity of that action was quickly being eroded as Tala took out legionnaires one after another, only her own mental fatigue and strained will slowing the process.
+
+She could have flickered over to Lea, but that would have interrupted her process and likely meant she got fewer of the existence cursed abominations in the end.
+
+Lea, Ron, Talax, and other Talons were fighting a surrounded group of Black Legion alongside a larger group of collected House guards, and Tala saw no reason to interfere with their live training.
+
+She did detect an attempted flexing of reality and bent her will against it, preventing even the one remaining sergeant from making its escape.
+
+Thankfully, at least one thing they thought they understood was proven true as not a single member of the Black Legion self-detonated, despite such potentially doing untold damage to Platoiri.
+
+So, they are at least somewhat respectful of reality still.
+
+As Tala became more and more worn—each extension of will to loosen a soul-core and let the long-imprisoned soul pass on draining her further—she found that the automata were better able to resist her working.
+
+It got to the point that she finally stopped taking out those that were increasingly distant, concerned that she would encounter one and be unable to snuff it out, thus leaving the Black Legion with solid information both on her ability and on how to combat it.
+
+By that point, however, she’d gotten to Lea and their group, so she was able to use the excuse of helping her daughter permanently end her opponents.
+
+I’m just glad that proximity amplifies my capacities.
+
+-It does for the moment. I really do feel like it shouldn’t.-
+
+Probably still a flaw in my thinking.
+
+-Yeah, you’re still too tied to our physical form. Why can’t you just ascend and smite all these enemies from existence with a thought?-
+
+Tala sent an unamused look at Alat, even while she somewhat agreed. I do think that might be partly the key. I should be equallystrong everywhere within my authority.
+
+-That’s a Sovereign.-
+
+...Within my domain? From where I draw power and strength?
+
+-God-beast.-
+
+…So, what’s Ascended again?
+
+-That you are more than your physical form. It’s been called the ‘Reforging of the Soul’, and once complete, should allow a complete destruction of the body without you dying.-
+
+…Then what’s Transcendence?
+
+-Well, to be Transcendent is to transcend the distinction between body and soul, making them one and the same, your whole body a gate and your gate is your body. It is to be both dead and alive, in this world and the next.-
+
+Tala’s unamused look returned to color their mental connection. You just made that up.
+
+-Of course I did, but it sounded good, right? We’ve been told not to worry about being Transcendent until we’re Ascended.-
+
+Tala let out an irritated groan. Lea heard her and turned away from her companions, where they’d all been quietly celebrating one another’s personal victories, while at the same time trying to understand the overarching results of this first clash.
+
+“Are you okay, mom?”
+
+Tala gave a tired smile. “Yeah, Lea. I’m just… I’m just tired.”
+
+Less than a quarter hour had passed since the column had been taken.
+
+Already, the enemy was gone, and the density of power was beginning to slowly drop within the city.
+
+“This was… this was a terrible result.”
+
+“Momma says that Master Xeel is still fighting.”
+
+Tala nodded. “We might be able to get there to help if we took a flier, but it would be unlikely. It would take us a couple of hours at minimum to reach the city he’s in. Unfortunately, that city’s column is already gone. He’s just unwilling to let the senior commander leave unscathed…”
+
+Reports were coming in of Archons arriving across the arcane cities to honor their agreement of mutual defense, but the clashes were all but over.
+
+And there was now a big problem.
+
+The area around Platoiri was still at a Fused—or Mature—level of power density, but that was slowly dropping just due to the natural drift and zeme. Once the citizenry largely returned to the superficial? It would potentially plummet.
+
+An arcane city required its vestige column, and while they had been working on Hold Wardens to replace the vestiges within hold-cores in the near future, they had nothing in place with which to take the place of those central columns.
+
+Now, there were ten missing, and that meant one of a few things for each city.
+
+The simplest result would be that the city would die, the holds would be moved away and those who lived outside of holds would relocate, and the City Lord would diminish.
+
+That was rather unlikely, however.
+
+The most likely outcome was the creating of a new central column. The ‘farms’ of gated humans would be all but harvested clean across all cities, the City Lords willing to pay practically any price to maintain their seat of authority.
+
+This was, as might be expected, unideal in the extreme. It might even shatter the still-fragile alliance between the arcanes and gated humanity.
+
+That left the last, and most ambiguous, option.
+
+They needed to find another way to supply the needed magic to keep the city in good repair, and with enough magic that they could function as required. That would definitely be a topic of conversation at the upcoming strategy meeting.
+
+They could rather easily create magical artifacts that would turn aspected gate-derived-magic into the ambient power useful to arcanes.
+
+Rust, the arcanes were the world-leading experts in such.
+
+However, they still needed those sources.
+
+Tala’s own throughput was monumental, but she could, at best, replace about a quarter of a central column on her own, and that would only be if she devoted her entire throughput to that every moment of every day.
+
+There was no way that was happening.
+
+Truthfully, she’d only roughly match about a tenth of the throughput, but the density of her power was such that it would make up much of the difference.
+
+She needed solutions, and she needed them now.
+
+As such, she ensured that Alat was reaching out to all her contacts and resources in the Cycling Cities.
+
+There had to be a solution that they weren’t considering. Hopefully, there were dozens, and hopefully, at least one would be workable and acceptable to all involved parties.
+
+Lea’s hand fell on Tala’s shoulder, causing her to jerk. “Wha—?”
+
+“Mom? Are you okay? You… You sort of drifted off for a second. I tried talking to you, but you didn’t answer.”
+
+Tala frowned. That couldn’t be the case… right? But when she reviewed her memory, she found that Lea was right. “I’m sorry, sweet. It’s been… It’s been a day.”
+
+That got a weary smile in return. “It really has, hasn’t it?” Lea looked around. “Is dad done yet?”
+
+Tala flicked her mind in that direction, and saw that Rane was, indeed, heading their way with heavy steps, Terry asleep on his shoulder.
+
+Meallain and the Talons were back in Ironhold for the time being. “He’s on his way. Give him at least a few minutes to make the walk. He’s not going fast, but he isn’t dawdling.”
+
+Lea nodded, looking around in clear expectation.
+
+Tala chuckled and pulled two chairs from one of her expanded spaces—she honestly didn’t verify which, letting Alat do most of the heavy lifting.
+
+-We’re sleeping tonight, yes?-
+
+Yes.
+
+-Oh bless the stars, thank you. I still have so much to do. Arcane Houses are reaching out and I’m beginning coordination efforts and… It’s just a lot, Tala.-
+
+Of course. Thank you, Alat, for all you did and are doing. I quite literally couldn’t do this without you.
+
+Alat sent the impression of a tired smile. -Happy to help.-
+
+Tala and Lea flopped down in the chairs even though neither really needed to sit.
+
+The action was more a thing of mental relaxation, honestly, than a physical one for them.
+
+Ron and the other Talons willed themselves back to the sanctum and to their own rest, but Talax came over and pulled out a seat, giving the two Sappherrous women respectful bobs of his head, followed by a cheeky grin. “Mind if I sit?”
+
+Tala just shook her head.
+
+Lea glanced away but nodded. “Sure.”
+
+The boy sat, and they fell into silence.
+
+Well before that silence could become awkward, another joined them.
+
+The Revered City Lord landed beside the three humans, his face a mask of stoicism, despite the myriad wounds that covered his body. “That did not go well…”
+
+Tala grimaced before extending an olive branch in the form of a chair coming into being beside the man.
+
+He glanced at it for a long moment before sighing and settling in. “I confess that it was partially my advice and assurance that led to this… result. When I fought with the Black Legion in the last war—and then against them before they were banished—something like this would have been utterly beyond them. It still should be. The magics involved in their creation cannot bear multiple vestiges together, so unless the forges were both remade and redesigned? Unless their base nature has been tampered with? It still shouldn’t have been possible.”
+
+Tala pulled another chair to the superficial as Rane came around the corner, easily having heard what the Revered City Lord had said. “What if they learned from another source?”
+
+The arcane glanced toward Rane, not seeming surprised by his arrival nor interjection. “What do you mean, Master Rane?”
+
+Tala was surprised at the genuine use of the honorific, but she supposed her husband had acquitted himself quite well in the fight, as short as it had been. Rane took the offered chair with a grateful smile toward his wife before answering the question. “The design of those final automata reminded me of Leshkin juggernauts. They weren’t identical by any means, but the similarities are a bit too apparent to ignore.”
+
+“So, they breached Zeme near the Leshkin, captured some for study and set up their facilities… somewhere to mimic what they learned?”
+
+Rane shrugged. “It’s possible. Have we considered that they might be using their very nature to their advantage.”
+
+The arcane frowned, as did Tala, and she was the first to ask. “What do you mean?”
+
+“Well,” Rane shrugged, “we know that their forms of power take magic and bend it to reality manifestation. What if they did that in the Doman-Imithe, using it to lock down an area to prevent the magic they are using—or that of the returning spirit soul-core pairs—from causing havoc."
+
+The Revered City Lord’s eyes widened before narrowing in thought. “Could such a thing be possible?” He frowned, speaking almost to himself. “We know their magics allow for the traversal of the Doman-Imithe, even if not cleanly. If their sapience were greater than we assumed, and they worked toward that end? It is possible, especially if they had a fixed location to add the workings to. Fixed constructs are almost always more stable and more efficient than mobile ones…”
+
+Tala slowly shook her head. “Wouldn’t we still have sensed the ripples in Zeme at the creation of such a facility? The backside of reality is still intrinsically connected.”
+
+The arcane grunted. “In theory, yes, but in practice? We have no historical examples to go off of.” He looked to Rane and gave a slow nod of respect. “It is worth digging into. I think I was not alone in seeing the fleeing soul-cores move into the Doman-Imithe. That seems to support your theory.”
+
+Rane grimaced. “Exactly. I don’t like the idea, but I think we have to assume that the enemy is more capable and crafty than our best estimate.”
+
+Alat took that moment to interrupt. -Master Xeel has slain the senior commander, but he was unable to prevent the soul-cores of it or the command from escaping.-
+
+Tala grunted before conveying the news.
+
+The Revered City Lord. “That is… good news at least. Those automata take far more to create than the standard models. It might not be a permanent end,” he gave a nod of respect toward where Tala and Rane sat side by side, Terry still on Rane’s shoulder, “but it will cost them.”
+
+Rane grunted. “That’s something at least. I think at the best we permanently ended a thousand of them. That’s not a small number compared to their original numbers, but with ten central columns of vestiges to pull from?”
+
+Tala leaned back. “They’re all near to the same size, so that’s at least two hundred thousand souls.”
+
+The Revered City Lord grunted. “The process of making a soul-core spirit pair is not perfect. They will have losses… unless they’ve perfected that process as well, or have another means of doing it, which we haven’t conceived of before.” He grimaced. “The Black Legion was already a nightmare with just the capabilities we gave them. If they’ve truly grown and expanded to this extent?” He shook his head. “We might have to consider them more as sapient, growing enemies rather than the simplistic—if clever and stategic—agents of reality that they were when last we clashed.”
+
+Tala sighed. “That is a bit of a horrifying thought.” She then regarded the Revered City Lord. “Honestly, though, you seem calmer than I would have expected.”
+
+He gave her a flat look. “I will rage once I recover. At the moment, however, my authority within the city is stronger than ever. My citizens trusted me to keep them safe, and with your help, I have. The loss of the column is a blow, but it will be solved one way or another.” He gave her a meaningful look at that. “Of this I have no doubt.”
+
+She grimaced before answering flippantly. “Yeah… Let me just cut a hole to the next world for you.”
+
+The man’s eyes widened. “You can do that?”
+
+“What? No!” She hesitated. “Well, technically maybe, but it would be just about the stupidest idea I can conceive of.”
+
+“Oh?” He frowned. “Why is that?”
+
+“Because the only reason gates don’t tear wide the veil and suck all of Zeme into the next world is that they are intrinsically bound to a mortal entity, and if they were to break wide, that would kill the connection. Rust, even founts and vestiges have that safeguard. If I made a non-living hole? I doubt even the Sovereigns could survive the fallout.”
+
+He narrowed his eyes. “So… you’re saying there's a chance?”
+
+It was her turn to give a flat look. “Is there a chance I could kill you, ash the body and send you to the next world, then reach through the veil, find you, bring you back and revive you?”
+
+He frowned. “No?”
+
+“Technically, that is possible, but not in any way that is actually going to happen.”
+
+“Really?” He looked intrigued.
+
+Tala threw up her hands in exasperation, looking to her family for support.
+
+Lea looked fascinated, clearly not understanding.
+
+Rane was shaking his head. “Let me try. Can you dump a cup of water into a barrel then regather just those exact drops back out and into the cup?”
+
+The Revered City Lord hesitated, then slowly nodded. “No, you can’t, but technically, it isn’t impossible.” He sighed. “I see what you are saying now.”
+
+Tala wasn’t sure if she should be miffed that he hadn’t understood her example or grateful that he had understood Rane’s.
+
+Regardless, she decided to move on. “As nice as this has been, I imagine we’ll have to have a more official gathering in order to decide how to proceed.”
+
+The arcane nodded, standing back to his feet. “Unfortunately, yes.”
+
+Tala regarded the still injured man, frowning. “The wounds aren’t healing properly?”
+
+He shook his head. “They are old wounds, brought back by the machinations of reality.”
+
+She looked closer and saw the infection of reality behind the man’s solid barrier of authority and power, just as he’d said. “May I?”
+
+He hesitated only briefly, then nodded. That simple acknowledgement made his defenses permeable to her.
+
+Tala reached out with her own authority and aura and pulled, drawing the reality free from the arcane and into her own reality-iron like drawing filings to a magnet.
+
+The Revered City Lord gasped, his eyes widening even as his wounds closed in barely a second. He took a deep breath, broken bones having set, and internal injuries no longer bothering him.
+
+He regarded Tala for a long, long moment before bowing low. “My thanks, Eskau of War. I will attempt to be ready for our conclave within the next hours. Call, and I will come.”
+
+With that explicit granting of authority, the man turned and vanished, moving through his city to do as was needed.

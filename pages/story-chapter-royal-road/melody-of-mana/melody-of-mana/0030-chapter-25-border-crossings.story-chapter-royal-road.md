@@ -1,0 +1,145 @@
+---
+id: 869aba6a-9946-5349-a41e-59ac7a8b32b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 Border crossings"
+slug: 0030-chapter-25-border-crossings
+partOf: melody-of-mana
+position: 30
+ownLength: 2028
+unit: words
+ownProgress: 2028
+publishedAt: 2021-07-15
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/716732/chapter-25-border-crossings"
+royalRoadId: "716732"
+markedReadAt: "2026-06-29T22:27:16.744Z"
+---
+
+I was correct in thinking that allowing others to know that I was a bard would lead to them pestering me. As soon as they found out that I was a spellcaster the passengers and workers alike began to ask for a number of small favors, most of which I could not do. This was made all the worse by the fact that Sorn kept telling people about the things that I could do, every single one of which he made up.
+
+For my part I was intentionally vague about what exactly I could do. I saw no reason to explain my abilities in detail, it would only make people bother me for food or whatever. It also meant that I could shrug off things I might actually be able to do.
+
+The average citizen had little understanding of magic. They knew that priests could heal, and that wizards could do all kinds of flashy stuff, but also knew bards had some weird abilities. They did have a slightly better understanding of physical magic, if a man can rip a tree out of the ground that's easy enough to wrap your head around.
+
+They continued to pester me anyway though. It eventually got to the point that I declared that the next person to ask me for magic in a non-emergency situation would be getting screamed at. This seemed to make them all back off.
+
+Sorn was quite surprised when my response to being asked to summon a bunch of water was to drop him like a stone. It was one I could do, but he could go get his own bloody water. It was a few moments until he had recovered enough to yell at me. I liked to think it would do him good.
+
+“Oi what'd ya do that for!?” The first words out of his mouth were not encouraging.
+
+“Was I not unclear about what would happen to the next person to ask me for non-emergency magic?”
+
+“Come on! It was just a bit of water!” He was yelling a bit; tinnitus will do that to you.
+
+“Go get your own water if it's no big thing.”
+
+“Don't go talking like that lad, it's the mark of a bad apprentice!”
+
+“I will never be your apprentice.”
+
+“Now that's just being rude now isn't it?”
+
+“Like telling everyone I could instantly cook their food?”
+
+“Yeah, like that.”
+
+I could feel my eye twitching, and nearly screamed at him again. I couldn't bring myself to it though, he was fun to hang around with. His laughing eventually brought me back out of my considerations though. I joined him for a few moments before we headed back to the wagon. A guard had heard the scream, and came to check things out. He left shaking his head and muttering about stupid clients and the like.
+
+It was easy to tell as we approached the border to the central duchies, the number of guards on the road increased dramatically. While the roads up to here may have been mostly dirt, these shifted over to cobbled as we joined the main road. The quality of everything increased dramatically as we went, I could even see some of the fields devoted to more cash crops than food.
+
+I got my biggest shock as we approached the border between the two regions. There was an official border, with a border station and all. Leading up to it on both sides were corpses, hung thirty or so feet back from the road, all clearly visible to those going to the border station.
+
+I froze as I saw them, most were long dead. Some might have been added only this morning.
+
+“What are those Sorn?” I pointed my head towards the dead bodies swinging in the wind.
+
+“Smugglers mostly, if I had to guess.”
+
+“They kill smugglers? What is there even to smuggle?”
+
+“Food, if I had to guess. It's not as bad as it was, but in times of crisis it's illegal to take vital goods from the capital or central duchies. Most of them look older, a month or two perhaps. Shame, if they had waited a bit longer then maybe they'd not have done something so foolish.”
+
+I was ready to vomit, this was insane and cruel. I'd heard that centuries ago the heads of criminals had been displayed, but there were too many here. It was also just smuggling, the punishment seemed too strict to me for such a crime. On some level I knew that the society in which I now lived was brutally harsh, but it still hit me every now and then just how bad it was.
+
+I was still stunned as we came up to the border station. They were doing individual checks, both on people and on goods. A group of guards at the station came out and had all the passengers come forward. I could see the caster that they had with them, he indicated me as I approached the line.
+
+“Come this way please.” One of the men called me out of line and into a side area, a few more joined us. I was guessing that this was standard to look for dangerous spellcasters. After seeing how they dealt with those violating their rules though, the whole thing made me shake in fear.
+
+We went into a room at the station. It was small, with stone walls and a magic item in the center. An orb, covered in runes and sitting atop a small pedestal.
+
+One of the guards took the spot in front of me. “Please put your hand on the orb, if you will.”
+
+When I did so writing appeared along the pedestal. I could easily recognize a number of the stats it was spitting out.
+
+“Thank you, let's see now, age 8, height, weight...” He narrowed his eyes at me. “Female?”
+
+“You have less problems traveling if people think you're a boy. At least that's what my teacher said.” I shrugged, I had my own reasons for wanting to not stand out too. What they didn't ask though wouldn't hurt me.
+
+“I... see. What is your name?”
+
+“Alana.” I was unsure if this thing could tell if I was lying, so the truth seemed most prudent.
+
+“The device indicates the presence of mana, but not your method of use?”
+
+“I'm a bard, if that's what you mean.”
+
+“It is. Do you currently have any intent to cause damage or chaos within the borders?”
+
+“No, definitely not.”
+
+“Well, that's good to hear. What is your purpose?”
+
+“Visiting a bard in the capital.”
+
+“Do you know healing magic?”
+
+“Yes, is that important?”
+
+“It is.” I could hear the men behind me moving, but I didn't dare move. The guard in front of me pulled out his belt knife and made a small cut on the back of his hand. “Could you please?”
+
+I healed it, the process took only a couple of seconds.
+
+“Finally could you demonstrate another spell for me? Anything not related to healing would do.”
+
+With a slow song I made a small light over the table. “Like that?”
+
+He nodded, “Well, that all seems in order. Can you support yourself resource wise? We are technically still under the rules for a crisis, so I have to ask.”
+
+“Um... I think I should be fine.”
+
+“I'll put that down as a yes then.” He spent several minutes filling out paperwork before I was returned to the caravan. I looked at Sorn as I came back, standing near him.
+
+“You look awful lad.  You okay?” I was apparently still a bit pale from the interview.
+
+“Yeah, I'm fine.”
+
+He patted me on the shoulder. “Nothin' to it, they don't give nobody problems as long as you've got legitimate business, and you're not a criminal or nothing.”
+
+I looked over, several of the other travelers had been taken away from the group. My questioning gaze made Sorn give me a sad smile.
+
+“Couple of the people here had no good way to take care of themselves. That kind of folk they don't let in. The leadership of the country doesn't want beggars in their areas. Don't want anybody who is likely to cause any kind of problem.”
+
+The restrictions on exporting vitals seemed to make a bit more sense now. The nobles and royals here took a dim view on anyone who might make it harder for those near them to have what they needed. Some kind of anti French Revolution measure. The people in near the capital can't starve, because they might try to overthrow the king or his lackeys. With magic backing up the ruling class I doubted they could, but perhaps something had happened in the past.
+
+Sorn gave a light chuckle. “Tell ya the truth, I was a bit worried before I learned you were a spellcaster, but anyone with mana can breeze through. There's always jobs for mages. Like making magical shoes.”
+
+I snorted at his last bit. “Never. Going. To. Happen.” Then I gave an actual smile. It was amazing how well he managed to get rid of bad moods. I really needed to learn that skill.
+
+That night the caravan stopped in an actual city. This area of the country was much denser than I was used to. I suspected the fact that we were now very near our destination also helped. The city of High Rock was larger than Hazelwood by an order of magnitude. The inns here were a step above too. I managed to find one, The Mermaid's Rock, that even had small tubs and stoves in the room if you paid extra. I of course paid the extra, I hadn't had a proper bath for my entire second life, and I was eager to change that fact.
+
+The tub itself was metal, and situated near the stove for warmth and heating water. It was getting quite cold now, so that was a must. I had to heat water myself if I wanted hot, not really possible for me to do. If I hadn't been able to make my own even filling my tub would have been a daunting prospect. I did try to make the magically created water warm, but the result was less than stellar. Still, a lukewarm bath in a toasty room after all that time on the road was almost dreamlike.
+
+About fifteen minutes into my bath I had an idea and tried to use my heating spell while in the bath. Focusing as much mana as I reasonably could into the water around me. It was mana intensive, but brought the water up to just where I could call it hot. I nearly melted as I finished washing myself. Then I just laid there, enjoying it until it was too cooled for me to keep going.
+
+I was perfectly relaxed when I fell into bed that night. Letting the covers embrace me and lull me down into sleep.
+
+I awoke with a gasp, my heart pounding hard in my chest as images of myself hanging like one of the smugglers by the roadside jolted me back into consciousness. It was still early, but I would find no more sleep tonight.
+
+If rest was impossible at least I had time to beat my clothes as clean as they'd go and wipe myself down before joining back with the caravan. Doing that helped the images from my dreams fade at least, which was a blessing. I also had plenty of time to find and eat a breakfast which contained neither bread nor cheese, something that I really wanted.
+
+By the time we were ready to leave I was good and ready, greeting Sorn with a smile as the carts took us ever on, off to the capital and all that lay there.
+
+"When you think we'll be there Sorn?" I asked, eager to be on with this trip.
+
+"Oh, I reckon it'll be either today or tomorrow lad; not much further."
+
+I smiled peacefully as I laid back against the side of our little wagon, content that soon I'd be somewhere I might actually relax a bit.

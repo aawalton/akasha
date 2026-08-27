@@ -1,0 +1,67 @@
+---
+id: 5073c529-7007-5c0b-8443-027a03a30fc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 249 Morning Talks"
+slug: 0263-chapter-249-morning-talks
+partOf: melody-of-mana
+position: 263
+ownLength: 1411
+unit: words
+ownProgress: 1411
+publishedAt: 2023-06-28
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1260028/chapter-249-morning-talks"
+royalRoadId: "1260028"
+markedReadAt: "2026-06-29T22:34:54.359Z"
+---
+
+As I finished my explanation of the night's events I looked at the bishop. His hands were clenched till the knuckles shone white under the skin, teeth gritting almost audibly. I'd only been in his office once or twice before, and it didn't look like it had changed too much from my memories.There were some things of course that I left out. The details on the portals, or the fact that the young princess had survived and was coming into his care shortly. He didn't need to know, nobody did, it would only cause problems. I also made up how Lief's wife? Sex slave? Mistress? Honestly I wasn't totally clear, had gone fire heavy on her chamber. Telling him that I'd hoped for her surrender, and would have accepted it was no lie though."The prisoners, I want them," he growled."Get in line. There are some we might hand over, but that's going to be up to either father or Mystien. I can trust you to take care of the children at least can't I?" I responded.It was odd looking at him now. When I was a child he was so intimidating. He was so much stronger than me, with connections, subordinates, and sheer magical might; not so anymore. I had plenty of friends in high places, several subordinates of my own, and based on the few times his aura had flared over the course of my explanation of the goings on, I was stronger too. It was odd seeing how you'd grown sometimes, but refreshing that he couldn't bully me anymore regardless of what he wanted."Of course, of course, poor innocent dears. We'll see to it that they're raised well if we can't find their families. I think we've got a couple of priests in Ice's End after the whole debacle there, would you mind seeing to it that I can get them messages?""Again, things are... complicated right now, I'll know more in the next day or two.""Yes, a real shame, Durin was a great man. Ah, forgive me, my condolences for your mother as well," he really did sound sad at both of those, and reached for one of his cabinets, pulling out a small bottle and a pair of glasses.After a confirming nod he poured me one to join him. I was trying to keep the small tears that were forming in my eyes from going anywhere, and he politely tried to ignore them. There were still... a lot of emotions about that, complicated ones that I'd not had enough time to work all the way through. It hurt, but it had hurt so much over the night that I was just a bit spent."Thank you," I said."To those who died well before their time," he uttered, raising a small toast.I sipped my drink in silence, looking down into the glass. "You need better wine," I announced."Hah! Even this is something I only drink rarely, the temples don't pay for such frivolities. I got this as a gift a few years back, else I wouldn't have any at all." His laugh was only halfhearted, he was as tired as I was it seemed.
+
+“Being a priest sounds miserable. Maybe why Sophia hid her own status?” I thought aloud.
+
+“I suspect her family had something to do with that. Royalty and all probably didn't want us to take her. I trust you can see why we would have though. There is precedence for priests who aren't totally bound to us, if circumstances are right.” Even he didn't seem overly convinced.
+
+“Pfft, the reputation of the Orders says otherwise. I suspect she'd have had an 'accident' at some point had she tried to just remain a princess and not trained with you.”
+
+He gave me a sharp look. “I've tried to be polite Alana, and while I know you and I don't like each other, I would ask that we remain civil. You're not completely wrong, in all likelyhood she would have been assasinated by someone had we known the true depths of what was going on. Surely you can see why though? Had she not been stopped when she was, the destruction that one woman could have loosed on this city would have made the attacks by her idiot brother and his cronies look like child's play.”
+
+We spent a few moments looking each other down. He was right, we really didn't like each other. Sure, we'd found something here we could agree on, and perhaps I could even laugh at the wine thing, but we weren't friends. Sadly, he was also right, I'd been ruder than was proper.
+
+“My apologies, I could have put that better; and yes, I do get it. She managed to cause panic and death in seconds, that's some scary stuff.” I lowered my head just a bit, no need to make another enemy, particularly when I was in the wrong.
+
+“We've both had a rather long and stressful night, let us put this aside shall we? There's still much to do, and it's better to focus on the future.”
+
+We finished our drinks in silence after that, the mood rather dead. I could have left, but it just didn't feel right to waste something he'd been keeping for years like that. Nor did I really want any more, since I had no clue what would be coming in the next couple of hours.
+
+“Alright, while I would love to sit and drink, I do need to check on things, and perhaps get some sleep,” I declared once my glass was empty.
+
+“Not the worst idea I've heard.”
+
+As I finally left into the bright morning light I stopped and sighed. I looked up and down the street. It was mostly peaceful in this section of town, but I still hadn't seen what was going on elsewhere. That could wait, since surely we'd be getting reports and I really needed some proper sleep.
+
+Briefly I considered trying to go see Kala, I knew she'd probably be at the temple for The Lovers, doing... whatever they did all day. It would be nice to see her again, a friend and someone I'd really trusted, but it had been so long, and I was so busy. I made the commitment to go and visit later, after sending a letter to her.
+
+Home called to me, and soon enough I found myself there. The parts of the city I passed were still in a bit of a lockdown, people aware that something had happened, but no official announcement yet as to what. The high ranking people of the city were all either putting out fires, or holed up in warded estates, waiting for the storm to blow over. Somehow it seemed unlikely for that to happen any time too soon.
+
+My butler had at least learned from his mistake and ran me through the full entry procedure when I got home, before informing me that I had a guest.
+
+“Who?” I asked. Not many were permitted when we were locked down.
+
+“Mister Ulanion, he arrived a bit ago and is currently in the sitting room,” the man replied.
+
+I found him there, snoozing on one of my couches. He had propped his head up on one of his hands and was snoring ever so slightly, the cup of tea in front of him forgotten. I lightly placed a hand on his shoulder and saw his eyes immediately open.
+
+“There are guest rooms with beds you know,” I chided.
+
+“But then I'd be missing out on this wonderful sitting room,” he said, smirking.
+
+I sat down next to him, cuddling in briefly. I wanted someone to hold me, and he was not only pretty good for the job, but had the good sense to be present for it. “Looks like we missed our breakfast appointment,” I observed.
+
+“Huh, seems like so long ago now,” he said, looking off. Some nights were like that indeed.
+
+“Yeah, you said you wanted to talk?” I asked.
+
+“Now's probably not the best time for that,” he replied.
+
+“If there's one thing I can say for sure based on last night, it's that there's no time like now.”
+
+“You're right, not really the way I wanted this to go, but...” He rose and turned to me, taking my hands in his and I was instantly awake, this was something major. “Alana, I was hoping that you'd do me the great honor of marrying me.”

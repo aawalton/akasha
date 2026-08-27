@@ -1,0 +1,227 @@
+---
+id: 4b0ed7fe-b68c-506d-b542-93e46dc1ff6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Macavity"
+slug: 0054-chapter-29-macavity
+partOf: metaworld-hopecore
+position: 54
+ownLength: 2912
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374427/chapter-29-macavity"
+royalRoadId: "3374427"
+---
+
+"By the pricking of my thumbs, Something wicked this way comes."
+
+William ShakespeareMacbeth
+
+Wednesday 31st, October.Halloween.
+
+Eppie’s day began in her small clothes in her windowless bathroom, ambiently supported by the thrum of the bathroom ceiling fan. After 72 days of daily exercise, jogs, protein intake, and [System]-assisted body-sculpting, she was certainly beginning to look the part of the image Sony had hoped to sell.
+
+She was still short, her hair was still frazzled, and there was nothing bodacious, but none of that mattered right now, because she was about to step into a cat costume.
+
+She was so glad that Madeleine from Headquarters had the foresight of “a cat”, because it was cool enough to keep herself dry during the second summer of late October, and warm enough with its arm and leg fur to keep her happy in the evening.
+
+The previous owner of the costume was evidently taller than her, leaving her upper body a bit sluggishly bedraggled with a small primordial pouch. Still, Eppie’s legs were long enough that the spine-plate moulded to her hip, conforming to the musculature of her trained torso.
+
+She fixed the drooping fur with a few safety pins, then donned the lifelike cat ears.
+
+From the Alleycat Musical, she was now Félicette la chatte, a black-white Snowshoe and the first Cat in Space. With mascara and eyeliner, she drew thick contours around her overlarge eyes, drawing the viewer's gaze toward her baby-blue irises. With the pencil, she gave herself some whiskers, and on the tip of her button nose, she drew a matt-toned cross-hatch.
+
+“Meow—” She meowed at the mirror, then broke into self-deprecating laughter.
+
+As it was 2007, Eppie knew very well that the idea of Fursuits and Furries had crept into mainstream discourse. The question, she supposed, was whether there were any compatriot animal lovers in LAPA, and whether her kitty cat would drive anyone wild.
+
+Outside her bedroom, she was greeted by Ava Cleopatra, silver screen edition, and a full-blown southern belle from a classical 30s film she did not know and had not watched.
+
+“Your highness,” Félicette meowed before the Queen of the Nile. “Young Miss,” Félicette meowed before the owner of a historically sensitive plantation.
+
+“Your catness,” the girls curtsied, then all three broke into controllable laughter.
+
+“I LOVE your costume,” Ava looked very fetching in her ribbed white Cleopatra dress. However, the Egyptian eyeliner was the only other indication that she was of the Ptolemaic royal line. “You look so… huggable.”
+
+“I want you to curl up in my arms and purr,” Halle gushed, her eyes gleaming. “I am serious. This is crazy. How can a cat look this cute?”
+
+Eppie wiggled her spring-loaded tail, and the girl squealed in delight.
+
+For a dress-up that showed not a single inch of skin in the age of Slutty-McTheme, the costume was incredibly fetch.
+
+“OH!” Ava halted her before she could grab her duffel. With a few pins and a twist, she removed her Cleopatra wig. “Put this on. My hair’s black anyway.”
+
+“YES!” Halle concurred. “How can you be a black-white-blonde cat?”
+
+The wig, Eppie noted as Ava tied her hair and slipped on the clips, was not cheap.
+
+“CLEOPATRA CAT!” Halle gushed, then buried her face in the fur on Eppie’s shoulders. “I am dying. This is too much.”
+
+“Oh yeah…” Ava snapped a few pictures with her iPhone. “This is… I need to show Papa.”
+
+Playing along, Eppie pawed the air with her furry gloves.
+
+“AH—” Halle feigned an overdose, then posed for pictures. Ava got her pictures in as well, then finally, it was time to face the world.
+
+At a regular high school, attending class in Halloween costumes would be contested, perhaps outlawed.
+
+At LAPA, attending class in costume was mandatory.
+
+There were very few rules for the costumes, which Eppie did not read and which were pinned to the Quest Board.One—Students are not allowed to wear masks that obscure their faces.Two—Students are not allowed to wear costumes that block the class's sightlines.Three—Students may not wear costumes that prevent movement in classes.Four—Halloween was a normal academic day.
+
+Of course, for a school infamous for dreamers, wunderkin, creatives and rogues, the kids lived fast and loose by the rules. Other than the no mask rule, half the students valued creativity over the limitations of their teacher’s labour, and their teachers were often happy to accommodate, unless students broke the unspoken, cardinal rules.
+
+Salacious costumes.Costumes that may harm others.
+
+In the long basement hall, students from every grade mingled and shared pictures of their creations.
+
+The very first, very noticeable group that Eppie saw the moment she ducked into the hall out of curiosity was Marie Antoinette—AKA Valorie Sanders, in full powdered wig, panniers, beauty mark, cleavage, and what may be real jewellery.
+
+William Chen was, she presumed, a ridiculously dashing Louis XVI. Together with her ladies in waiting, they absolutely dominated, and almost every member of the school was lined up for pictures with the Queen of France.
+
+From across the hall, a distance that felt like a kilometre, their eyes met, and finally, for the first time, Valorie was not angry, upset, or livid.
+
+She was smugly superior, a perfect Queen.
+
+Eppie’s smile faded when beside Marie-Valorie, William’s gaze grew hungry. Breaking out in cold sweat, she quickly left the basement hall for her first class.
+
+Outside, past the witches, the superheroes, the ethnic costumes of ghosts and goblins, she walked past Principal Burton wearing a pumpkin tie, and VP Thomas wearing a no-fuss, deep burgundy coat with a pair of dark orange heels. The message, Eppie supposed, was clear. You guys have fun, but we’re still here to work.
+
+Burton’s eyes landed on her fursuit, performed a double take, raised both brows, then waved hesitantly.
+
+She waved back, her tail bouncing happily.
+
+VP Thomas laughed at first, then, perhaps realising it was her, grew grim as she waved back with the tiniest of hand movements.
+
+“Eppie!” The familiar sound of her friends called out from the sea of props and costumes. “Oh. My. God!” It was Lucy's voice that had pierced the crowd.
+
+Lucy was a 1950s pin-up, and she looked ravishingly good when dolled up. The victory rolls, red lips, petticoat, and red heels accentuated her natural vivaciousness, making Eppie a little self-conscious.
+
+Chelsea was in full gothic. If there were an Addams Family in this universe, then she would be Wednesday in a little black dress.
+
+Min-jun was in an outrageously colourful goblin-garb, something he said was called a Dokkaebi, a playful spirit of sorts.
+
+The three circled her cat-form like sharks, touching her tail, patting her wig, pinching her cheeks.
+
+“Permission to hug…” Lucy’s housewife hands were already wandering places they should not be.
+
+“Er…” Eppie was just about to remind herself of her true age, but it was too late.
+
+The girls surrounded her, patting her, hugging her, and even lifting her. On the side, Min-jun watched with the expression of a connoisseur watching fine wine aerate in a decanter.
+
+Feeling suddenly mischieving, she sidled up to the Korean goblin king and gave him a devastating blast of her cosplaying as a pleading cat.
+
+“Opa…” she pronounced expertly, her hands formed into paws just under her chin, her eyes swinging her long lashes like golden scimitars. “Meow…”
+
+“NOPE!” Min-jun turned away, covering his face. Without make-up, the boy’s face was completely scarlet. “That’s not fair. Oh my god! I’ve been soiled. I’ll never get married. God damn it, Eppie.”
+
+“I think I awoke something in Min-jun,” Eppie observed. “Right, Opa?”
+
+“ARRRRRRRR GET AWAY!”
+
+The girls burst into laughter, falling about trying not to fall. Other members of the Sophomores joined them, and pictures and MySpace handles were exchanged.
+
+Maddy was also a cat. A sexy Garfield wearing a miniskirt.But no one cared, for who could resist the allure of Félicette la chatte, the first Cat in Space?
+
+For Eppie’s first period, Dr Kirby spared no expense. She opened the class in full Edwardian, her hair pinned in a tutor’s bun, with a subtle string of the family pearls around her neck. When the students asked questions about Austen, she rolled her eyes and spoke a few lines, which Eppie immediately recognised.
+
+Austen and Woolf. Eppie felt glad that these two formative ladies of women’s writing had echoed across the cosmos, setting a reminder to herself to read their anthology of works.
+
+In costume, Dr Kirby brought their Grecian module to an end and began on their Shakespearean module.
+
+“For our new module—Shakespeare—we will be learning the play you will perform in the Spring Gala, also known as the worst play ever written by Shakespeare. Yes, worse than the Merry Wives, worse than the antisemitism of Merchant.”
+
+As Woolf, she looked them in the eyes. It wasn’t easy addressing a room composed of handmaids, vampire counts, Fiends for Hire, a boy lathered in blue slime wearing a conical hat, and distracting felines with bouncy tails, but her instructor was used to it.
+
+“The great Poet Samuel Butler said that Shakespeare's first tragedy, possibly his first play, is simply trash. It is sex, violence, and barbarity, a spectacle for the masses, not for the theatre. The seminal poet T.S. Eliot said it was the stupidest thing he had ever written.”
+
+T.S. Eliot. Eppie noted. Another one for the mind map.
+
+“Were they right?” She asked the class.
+
+“Briefly, if you recall, we covered the works of Ovid’s Metamorphoses. The most critical scene, the one that critics loathed, the rape of Lavinia, isn’t original. It is lifted almost entirely from the Greek original. Indeed, in Act 4, Scene 1, Lavinia literally carries a copy of Ovid onstage to communicate what was done to her. The play knows its source. It cites itself.”
+
+“As postmodern readers,” Dr Kirby sighed. “We know that worse things have happened to women and girls, mothers and daughters. Women silenced, not by strangers bearing history or racial hatred, but by husbands, fathers, uncles and relatives.”
+
+“I have included some readings in your booklets,” Dr Kirby tapped the new printouts. “Know that Alabama became the first state to rescind a husband's legal right to beat his wife. This was 1871. This isn’t ancient Greece. Women were not allowed to vote until 1920. The Equal Opportunity Act, prior to which a woman was denied a bank account or credit card without a husband's signature, was not enacted until 1974.
+
+“A mere seventeen years ago, in 1990, Senator Joe Biden introduced the Violent Crime Control and Law Enforcement Act. When most of you were one or two years old, the Violence Against Women Act passed.”
+
+“Women’s rights and the progress of that right is written in the blood and broken bones of women who spoke up. VAWA was challenged in 2000, then in 2005, the private right of action was stripped away.” Kirby tapped the projector as her voice grew low and quiet. “Enjoy it, know that you will always have to fight for it. Rights, when not used, are lost.”
+
+As a former CFO of a trillion-dollar AI conglomerate, Eppie knew her corporate compliance procedures. In her early career, she had absolutely made use of the rights that her predecessors had put into place. It was ironic for Eppie to note just how much successive conservative Presidents had eroded civil rights for women. In contrast, women's corporate rights had been preserved and reinforced by women in power.
+
+The message in Titus Andronicus, if they were to take it to the 21st century, was that Lavinia was the victim of a fully articulated legal system that had no language for what happened to her because she was a woman.
+
+“Your take-home assignment,” Kirby proclaimed, “Such as it is, will be on the relevance of exploring the viscerality of Lavinia’s fate in relation to women’s rights in the USA.”
+
+The topic was such a downer that Eppie could only half-focus in Algebra. Something terrible, some recognition, gnawed the back of her brain. Not even Mr Ali’s colourful tie, with its Indonesian motifs, could take her mind away from second-guessing that something absolutely revolting might have happened to Mio.
+
+Her dour mood was quickly dispelled by the unbridled joy of lunchtime festivities with her crew of theatre kids. At the quad, everyone was busy updating their limited socials, exchanging pictures, and complimenting her on her minimum effort cat costume.
+
+Thankfully, the Seniors and Juniors had their own area in the Old Music Building, leaving the Sophomores with the Freshmen to feast in the university food court, watched by bright-eyed college students who eagerly looked out for figures like Maddy’s.
+
+After lunch, Eppie and her crew of twenty-something kids shuffled into their portion of the Old Music Building, as the Playhouse was off-limits while one of them was dressed for the stage.
+
+Dr Cooper spared no expense as he walked into the black box to the roar of cheers and applause. Their Theatre Chair had brought, from what Eppie could discern, a full-fledged Prospero costume from one of his old productions of The Tempest. He had a staff, the Mage robes, everything. The strange thing was that, twenty minutes into the lesson, they stopped noticing the costume. It was as if Cooper were Prospero, the Duke of Milan, all along.
+
+Comparatively, Costello merely wore all black, which isn’t usually his daily teaching garb.
+
+“Your body is the costume,” the thespian said aloud, then put them through the paces while they were dressed in their costumes.
+
+Also joining them was Madam Tyker, wearing no costumes, looking very serious. When she walked past Eppie, she noted her theatre-grade unitard with the fur and the wired tail, then made a very subtle expression of resignation.
+
+Soon, practice began.
+
+Atkinson’s blocking called for Antigone to enter from the left, cross to the centre, and face Creon for their first scene. In the Old Music Building black box, there was no furniture or props; the space was clean.
+
+In that space now stood James Jules, or rather, “Count Jules”, Vampire Lord of the Eastern Reaches. Regal and stoic, the vampire lord stood, his eyes regarding the Chorus of reports around him.
+
+Immersed in character, James began to speak. “Captain Polyneices has been removed from the board because he has chosen to make himself a threat. A threat to our theatre of operations in the region. A threat to his comrades in arms…”
+
+Beside the Vampire was the cutest cat the campus had ever seen. Her body shook from the anger welling in her soul, setting her tail to swing and bounce. With her face planted in cat-face, she began to speak in a low, resonant vibrato.
+
+“Meow! He was a true American. He followed his orders, but couldn’t live with his conscience. Your own Marine manuals…”
+
+The Chorus lost it. They fell to their knees and began to laugh, tears streaming from their faces.
+
+Cooper’s pen stopped its note-taking. “Miss Fontaine, was that really necessary?”
+
+Her tail moved.
+
+The wire armature, designed to hold a specific curve, had developed an opinion of its own during Costello's morning session and now responded to Eppie's slightest shift of weight by sweeping slowly and independently to the left.
+
+“I am sorry, Sir,” Eppie apologised.
+
+But the scene of an apologetic cat, especially one with her face, was simply too much for the audience. From the wings, someone who sounded like a dying Chelsea made a sound like a very small kettle releasing steam.
+
+“Continue,” Cooper commanded. “Chorus, get a hold of yourselves.”
+
+The Chorus picked themselves off the floor. They were an orc, a Fiend, a bald spearman, and two Wizarding Witches.
+
+They found their positions. They opened their mouths to demand answers from Creon. They were the Chorus of Fourth Estate.
+
+"Secretary, how will you respond to allegations of the Pentagon giving explicit orders with clear outcomes that constitute War Crimes?"
+
+Eppie hissed at the Vampire Creon.Vampire Creon, fangs and all, hissed back. Eppie covered her ears with her paws. The Chorus and everyone else collapsed again into laughter.
+
+Prospero stood up. "Are we done?" he said. “I think we’re done for now. You, kids, are clearly not in the mood for Theatre.”
+
+Eppie heard a crack in his voice. The man was wholly serious, but he was now turning away from them.
+
+"Mr Cooper," Eppie came closer, her tail bobbing, her eyes cat-like and inquisitive. "Are you laughing?"
+
+"I am not laughing," Cooper said, in the voice of a man who was not laughing. "Everyone on their feet. From the Chorus entry. From the start. You there, Cat. Not another Meow from you, Miss Fontaine!"
+
+Cooper sat back down. Opened the script book unnecessarily. And then, very quietly, he held it against his face.
+
+Eppie, from centre stage, tiptoed with cat-like agility around him to see what her instructor was doing. Her face slowly appeared within her teacher’s field of vision like a cat blocking a TV screen.
+
+The man was laughing, she saw. Old Coop was actually laughing.
+
+Someone sighed in the background.
+
+“Meow?” she made the same face toward Costello, pawing her ears. “Meow, meow?” The stoic Italian turned away to face the wall, his shoulders shaking.
+
+Ah— Eppie returned her body to neutral. What a lark it is to be young again.
+
+From the back of the Black Box, Susanna Tyker uncapped her pen and wrote a single line in the folio, then snapped her folder shut.

@@ -1,0 +1,339 @@
+---
+id: ffbfee0c-5992-51f7-bdb7-b695c1083300
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Karma Chameleon"
+slug: 0004-chapter-2-karma-chameleon
+partOf: metaworld-hopecore
+position: 4
+ownLength: 2636
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364471/chapter-2-karma-chameleon"
+royalRoadId: "3364471"
+---
+
+“Faithful, indeed, is the spirit that remembers / After such years of change and suffering!”
+
+Emily BronteRemembrance
+
+“I AM TELLING YOU, Director Harper, this is a medical miracle!”
+
+Lana awoke to the commotion of two doctors and Nurse Bessey fussing about with her IV feed, scratching their heads in wide-eyed wonder. At first, Nurse Bessey almost lost her mind when she found Lana with tubes removed and supports displaced—until Lana sat and informed her that she was alright.
+
+Doctor Mills then came rushing into the room to perform a head to toe, half-way through which he ran off to call the hospital Director.
+
+“Her displaced cornea… undisplaced itself? Her left scapular and humerus mended themselves?” The Director of Marten’s Children Hospital was no less sceptical than his junior staff member. “The bruise covering the entirety of her left lumbar has faded?”
+
+“She can move her left foot as well,” Dr Mills was a wild man. “Look! She had extensive tissue tearing of the plantaris. I mean, it's still not looking great, but now, she can turn her ankles.”
+
+To prove Dr Mills’ point, Lana wiggled her toes. They were very petite toes, ivory and delicate, and very wiggly.
+
+“Send Miss Fontaine in for a full body MRI. Brain, neck, spine, chest, abdomen, pelvis, and knees—” Director Harper walked a half-circle around her, his eyes burning with curiosity. “Ankle and feet.”
+
+“Isn’t that too expensive?” Lana asked sardonically. Even knowing that a suspicious party had covered her initial medicals, she baulked at the uninsured, itemised cost of Director Harper's curiosity.
+
+The trio stared.
+
+“You can talk now?” Dr Mills was picking his jaw off her bed. “Why didn’t you talk earlier?”
+
+“You said to blink,” Lana replied. “So I did.”
+
+Nurse Bessey laughed. The woman’s mirth was so very different from Mills, who laughed like a cat with IBS. “I’ll call the radiographer then?”
+
+“Yes, let's get a CT of her throat as well. We’ll have to redo all of the bloodwork, naturally,” Dr Harper leaned in close. For the director of a small, government-funded children’s hospital, he was surprisingly New Amsterdam.
+
+Reflexively, Lana gave the man her best smile.
+
+“Oh, sweet baby Jesus…” Nurse Bessey gushed. “How can such an angel exist?”
+
+“Well, someone upstairs heard your prayers.” Dr Harper studied her like an archaeologist mapping a Grecian statue. “Someone who does not believe in modern medicine. Not to look a gift horse in the mouth, Miss Fontaine, but do you have any idea why you’ve miraculously recovered? Your convalescence schedule was for four weeks. Minimum.”
+
+“I have no idea,” Lana lied as easily as she breathed. “Good genes?”
+
+“I can certainly see that, but no, this is more than just good genes,” the Director read her medical history like a man rediscovering a favourite Penguin classic. “Whatever the case, I’ll ask Dr Hughes to pay you a visit. If you’re well enough, we should start your physio sessions before we miss the golden window.”
+
+“That would be lovely,” Lana answered. Thus far, she had yet to leave her bed. She had no mirror or device with a selfie cam to examine this [Persona]. Other than the vague reflection of herself she saw on the CRT television set overhead, she still had no idea who Euphemia Fontaine was supposed to be, or why she had the body of a broken doll. For someone who had spent almost two decades glued to a handheld info-tainment feed, the lack of information was torture.
+
+But just as her doctors had their work, so did she as their patient.
+
+The CT. The X-rays. The MRI scans. The bloodwork.
+
+It was through her paperwork that Lana finally got to know her Karmic [Persona], the body born on Valentine's Day, 1992. 14 years old. Born in California. USA. Her address was 1325 N Western Ave, Los Angeles, CA. Her Emergency Contact was a Case Officer called Joan Campbell. There was no registered Next of Kin.
+
+After drifting in and out of sleep, Dr Hughes came, and together with Nurse Bessey, she was guided from the bed to the physiotherapy room.
+
+With some effort, Nurse Bessey slipped Euphemia into loose shorts, a sterile t-shirt, and slippers a size too large. Like a wounded bird, she was guided by the wing from the changing room onto the wheelchair, then from the wheelchair onto parallel beams used for bracing.
+
+There, standing on tiptoes, trembling from the frigid air conditioning, Lana saw Euphemia Fontaine in the flesh.
+
+Considering her usual company before the boating incident…
+
+Euphemia Fontaine was… unimpressive.
+
+She was small for her age. Unpleasantly skinny. Lanky, not petite, which would be a marketable characteristic.
+
+But she did have a remarkable face.
+
+Hers was exceptionally symmetrical, with large, luminous eyes the hue of shallow alpine lakes. Her nose was a classic button shape, slightly upturned where it mattered, the very same that a master surgeon would sculpt for a premium fee. Her lips, though pale and chapped, could not hide their cupid's bow. The overall ratio, Lana’s trained eye discerned, was golden, even if one side was swollen.
+
+But her hair. Lana shuddered.
+
+Euphemia’s straw-blonde mop had never known the fingers of a stylist or real haircare.
+
+Watching her face, watching herself, a strange, unhappy premonition crept into Lana’s heart.
+
+Euphemia looked wiser than her youthful years, while paradoxically much too young for her age. Her resting expression was like someone who had suffered enough and was now wondering why her frozen corpse had been exhumed from the morgue to thaw.
+
+Why was this girl hospitalised? Her professional curiosity grew morbid. From Dr Mills’ report, the injuries sounded like someone who had tried to fly, only to kiss hard, unyielding concrete.
+
+Lana Zacanissian had an eye for pretty things. She collected them, both people and stuff.
+
+And she hated it when beautiful things were ruined by callousness. Once, a protestor splashed engine oil on her favourite coat. Her response had been so toxic that HR had to sit her down and calmly explain the cost-effectiveness of merely leaving the perpetrator bankrupt.
+
+“Chukwu m—, sweet bebe,” Nurse Bessey was once more dabbing her eyes. “I’ve prayed for this day…”
+
+[SYSTEM MESSAGE] + Karmic Causality
+
+Lana immediately called for the holographical tabulation of the Persona she presently piloted.
+
+Euphemia Fontaine [Lana Zacanissian]
+
+Causality
+
+Strength
+
+10 (-3)
+
+Athletics
+
+1
+
+Agility
+
+12 (-4)
+
+Acrobatics
+
+Health
+
+Vitality
+
+11 (-4)
+
+Endurance
+
+Pain Suppression
+
+18 / 25
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception
+
+Legalism
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+24 / 30
+
+Charisma
+
+14 (-1)
+
+Persuasion
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+Dasein
+
+Comeliness
+
+21 (-1)
+
+Seduction
+
+23
+
+TRAITS :: [Prophet of Profits] [Crippled] [Silenced]
+
+Inactive :: [Weak Willed] [Demure] [Fearful]
+
+Lana scrutinised the changes.
+
+[Charisma]?
+
+[Charisma]15 - 1(Trauma) = 14
+
+A representation of the Usurper’s metaphysical presence and influence on others.
+
+The Usurper possesses charisma on par with that of the average adult in her present world. Please utilise Charisma to grow your Causality.
+
+This innate statistic can be improved through practice, knowledge and Karmic Causality
+
+She couldn’t help but note that her [Comeliness] had also improved.
+
+[Comeliness]22 - 1 (illness) = 21
+
+A representation of the Usurper’s physical presence in the eyes of her beholders.
+
+The Usurper is endowed with genetic blessings beyond those of the average adult in her present world. The Usurper is injured.
+
+This innate statistic can be improved through care and Karmic Causality
+
+She also improved her [Health] and [Stamina], which made sense given that she was eating well and her “life force” was apparently stronger. If so, would the acquisition of rare purple geodes and a few sessions of sound therapy improve her chances?
+
+By comparison, the single statistic that caught her eye was [Causality].
+
+[Causality]
+
+A Usurper who has escaped oblivion may only be nourished by the catalysts of penance.
+
+That which brings joy shall bless the Usurper with Karmic Causality That which creates misery shall incur Karmic Rebound
+
+Clearly, this was the system’s currency, and if Lana Zacanissian knew anything, she knew currency.
+
+Still, what the hell is Karmic Rebound?
+
+[Karmic Rebound]
+
+Actions that cause the loss of human potential and inspire negative emotions will lead to Karmic Rebound. Karmic Rebound is balanced against the simultaneous creation of Karmic Causality.
+
+“Euphemia?” A hand touched her shoulder. “Are you alright?”
+
+Lana turned her head, meeting her physiotherapist’s worried face a few inches away. Dr Jane Hughes was the name on the tag, followed by DPT, DScPT. Her therapist wore coloured contacts that made her eyes look friendlier than they would have otherwise, in a shade that complemented her mousy hair.
+
+“I am good,” Lana placed her weight on the beams, using both hands to gingerly stretch out her body. “Just… just thinking.”
+
+“Take your time,” her therapist smiled back. “We’ve got the whole hour for your assessment. Dr Harper wanted to make sure that your miraculous recovery isn’t just… well, a misdiagnosis.”
+
+“The X-rays and CTs weren’t enough?” Lana said, returning the smile. “The Radiographer was amazed. Oooooh…”
+
+Her calves trembled.
+
+The tendons were healing, but they were not yet healed.
+
+Dr Hughes exhaled with relief. “That’s normal, at least. Imagine if you started performing acrobatics. I don’t even know who we’d have to call. The Mayo Clinic, probably."
+
+While her leg swings, arm stretches, breathing exercises, and localised pilates continued, Lana took another moment to consider the strangeness of her inexplicable circumstance.
+
+So, [Causality] is currency.
+
+Good Karma gives [Causality]?
+
+And BAD Karma took away, or penalised the [Causality] she would otherwise receive.
+
+As far as she could tell, there’s cosmic auditing happening here…
+
+But was it really as simple as debt and credit?
+
+She offered a few hypotheses, but the system remained mum.
+
+Her mind then turned to those strange aphorisms. "There are darknesses in life, and there are lights, and you are one of the lights..." Bram Stoker? What was the point of all that? She certainly saw the movie. Gary Oldman was the bomb, but what the hell did that at all have to do with Causality or Karma?
+
+And the song… what is the purpose of the song? What is the point of knowing SO MUCH about a Doris Day movie song?
+
+“Eppie?”
+
+“Hmm?” Her mind snapped back to reality.
+
+“You look a little tired,” Dr Hughes offered her a towel, which she took. “Would you like a drink of water? Have a seat. We can take a break. How about some music? Do you know YouTube? Young people watch it a lot these days. What do you usually listen to?”
+
+“Ah…” Lana was suddenly taken aback by the question that just so happened to parallel her train of thought. “Umm… D-Doris Day?”
+
+“Oh?” Dr Hughes looked embarrassed. “Is she new?”
+
+“No, not all,” Lana felt the same fluster that her physician showed. “Don’t worry.”
+
+“Nonsense, I’ll find it,” Hughes pulled a familiar shape from her coat pocket.
+
+It was an iPhone.
+
+An iPhone… 3G. She recognised the ceramic design of the shell.
+
+Holy shit… I am really in the past. Lana felt her heart rise to her throat. Holy Moly. The things I could do with what I know… I could be richer than Musk and Bezos put together… assuming this is the ‘07 of yesteryear.
+
+After a series of awkward taps on what looked like a rudimentary Safari, her doctor’s face grew red. “Umm… There's no artist by that name. Is she perhaps foreign?”
+
+Lana ate her shit-eating grin like a snake swallowing a stone. Doris Day, foreign? Doris was as American as the apple pie that came with her Texan brisket basket.
+
+“No, she’s a singer and actress,” Lana answered carefully. “You know, Que Sera, Sera? Whatever will be, will be?”
+
+“That sounds Spanish,” Dr Hughes replied with a tone of triumph. “Do you speak Spanish, Eppie?”
+
+Lana had no idea if Euphemia spoke Spanish, but she certainly did. However, none of that was pertinent to the strange thought that had just landed like a UFO in the Nevadan part of her brain.
+
+Euphemia was fifteen.
+
+The year is 2007.
+
+The phone in her therapist’s hand is the 3GS, now that she paid proper attention.
+
+The original iPhone was released in 2007. She would know because she has one in her collection of expensive things the 1% own for the sake of coffee-table icebreakers.
+
+What if this meant…
+
+“Dr Hughes,” she heard Euphemia’s nightingale-voice trill. “Do you… Would you mind if I sang a song for you? The one I was thinking about?”
+
+“The Doris Day song?” Dr Hughes was now trying to type the name in Spanish and having no luck. “I would love to hear it.”
+
+Lana gathered her wits, then faced the mirror. The last time she had sung a song was when she was a freshman in Stu, her elite NYC High School, cementing her future career as a manager of entertainment assets, rather than an entertainer.
+
+In the wall mirror, the pallid face of Euphemia Fontaine stared back at her with eyes that were painful and blue. With some effort, she pried open her chapped petal lips, then forced the breath from her lungs until she smothered the air with a thin, desperate melancholy.
+
+She began. Her mind controlled the levers, but it was “Eppie” who sang.
+
+“When… I was… a child…” Her body moved to an invisible tune, swaying to a waltz that only she could hear, moving like a sickly child being rocked by a tearful mother. The first verse was inquisitive, full of wonder and hope, wondering what the future might hold, marvelling at all the possibilities of life that awaited her.
+
+Then, with clear notes of timeless clarity, her pubescent soprano rang out, sad and forlorn and fatal, knowing that whatever shall be would have no recourse.
+
+Her first chorus was barely over, and Lana’s face was a blast furnace. Tears, actual tears in pearly drops of liquid pain, were running down her face and blurring her eyes. The sensation was a ridiculous cocktail of emotions coursing through her veins, drowning her in feelings not entirely her own.
+
+The following verse fell from the brilliance of the first. She was no longer a child but an adult whose optimism was a glass-half-full attitude. Her refrain settled into acceptance, her melody growing hollow.
+
+By her second chorus, Dr Hughes was mopping away tears and swallowing prickly pears. Lana wanted to stop. The feeling, the emotion, the rawness of it all—was oppressive. She felt as though the towel around her neck had fallen away, and the hurt Euphemia felt had become unclothed for the world to see.
+
+With each progressive será, untold emotions of grief, desperation, hope and horror crept into each syllable, penetrating the halls of an ancient manor where a mother’s child was hidden.
+
+“... Que… Será…. Será…”
+
+The final refrain faded, and she was a drenched mess. Lana could feel, acutely, emotions that could only be related to the optimistic fatalism of a child softly chiselling away at the cold granite of reality, leaving nought but ineffective scars.
+
+“Oh heavens…” Dr Hughes was folding in on herself. “I am so sorry, Eppie …”
+
++ Karmic Causality
+
+Lana barely noticed the system message. The song had ended, but the wringing of her heart had not. For a day and night, she had thought only of her own circumstance, and now the weight of it all had struck her all at once.
+
+Lana was alive.
+
+And Euphemia never wanted to die.
+
+Yet—Lana Zacanissian was here and now.
+
+But Euphemia Fontaine? Where had this innocent creature gone?
+
+This body was a shell.
+
+A [Persona] piloted by a sinner, hand-picked by a [System]. A Revenant.
+
+“Dr Hughes?” Slowly, with the gait of a stringed automaton, Euphemia Fontaine cast her gemstone gaze over her physiotherapist. “How… How did I die?”

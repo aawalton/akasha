@@ -1,0 +1,181 @@
+---
+id: 7ab8af6c-194d-5675-9d6a-1220ffde2468
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 641 - Weeks Since"
+slug: 0144-chapter-641-weeks-since
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 144
+ownLength: 2699
+unit: words
+ownProgress: 2699
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2800235/chapter-641-weeks-since"
+royalRoadId: "2800235"
+markedReadAt: "2026-06-29T19:39:40.839Z"
+---
+
+Tala regarded Eskau Meallain with an impassive face as the elf looked around in a mix of curiosity and hesitancy as she panned her gaze across the city of Marliweather.
+
+The woman was firmly within Tala’s aura of control and authority, her very existence completely bracketed by the web of reality iron chains.
+
+At the moment, Tala had more control and authority over Eskau Meallain on the superficial of Zeme than she’d had over the woman within Kit before Tala’s advancement.
+
+Even the magic within her area of influence was responding to her desires, slowly moving inward toward her while preemptively resisting any potential attempt from the Eskau to draw in more than her allotted amount.
+
+The Prime Defender walked nearby, apparently a relative of Master Hori as evidenced by his appearance, his strong leaning toward fire magics, and the thick reality cords that linked the men together, somehow more easily seen and sussed out, now that Tala had Reforged.
+
+The man was… obviously uncomfortable with the current situation, though he was hiding it well enough from those without soulsight.
+
+On the positive side, his presence had allowed for Tala to test something. When they’d approached one another, his reality node had initially rejected her authority and aura, causing her reality iron net to be pushed slightly away on the fourth dimensional axis as he maintained mastery over himself.
+
+She was able to tell that it was simply his Paragon level soul, magic, and authority which allowed such. She felt that she might have been able to force control over him regardless, but felt no need. Even if she hadn’t maintained authority over everything around him that wasn’t his—such as his body, clothes, and the like—the fact that he’d bowed to her, and acknowledged her had caused a noticeable shift.
+
+The webbing had moved inward just slightly, effectively giving her more control over him and his, without granting total authority.
+
+Eskau Meallain had already given over full control, and so while the elf might have been better able to resist Tala out here than within Ironhold, she’d long since given up any pretense of resisting.
+
+-So, she could likely have thrown off her imprisonment if she’d still had any thought about doing so?-
+
+Or if she noticed a chance, yeah.
+
+-But not anymore?-
+
+That’s the sense I get. If we free her, we’d have to reestablish the hold over her, but until then? Unshakable.
+
+-Fascinating. That contains a lot of interesting implications toward the various City Stone holders and Archon Council leaders.-
+
+Tala hesitated at that before slowly nodding. Indeed.
+
+Eskau Meallain had been playing nice with the Paragon, offering him respect without ever actually bowing to his authority despite literally bowing. It seemed that she was at least a bit aware of authority then—at least a bit more than she’d previously indicated—and she was holding back true subservience, despite the niceties.
+
+As to why they were out here? Tala had thought it would be both a kindness given the fact that the woman had rarely left Ironhold in the last years and a demonstration of her own new advancement and how much it had shifted things.
+
+This was necessary, of course, because of the other, more overt result of Tala’s advancement. She was being asked to return to the Arcane lands, to reestablish her own place within the House of Blood and bring the other Major Houses to heel in regard to the coming Black Legion.
+
+Importantly, her position in the House of Blood wasn’t outwardly in question—it was one of the foundations of the current deal between that House and the gated human cities after all—but it was on shaky ground within the House itself. Eskau Meallain had been sure to hammer that point home.
+
+She would have some things to do once she arrived in the arcane cities, and she was going. She might once have been frustrated that she’d effectively be in enemy territory, especially because she now had the option of having more children, but funnily enough? The very fact that she could have children now—and she was unequivocally sure that she could—she no longer felt the same pressure, the same rush and need to do it right then.
+
+She could wait until things calmed a bit.
+
+As to the arcane lands? She’d be bringing Rane, Terry, Lea, and all of Ironhold. There was apparently precedence for a Pillar or Eskau having their own elite guards, so the Talons wouldn’t be too out of the ordinary. Even the hold was fine, she’d had Kit back when she’d been there the first time, after all, and they’d gone to great expense to improve and enlarge it then.
+
+On the humorous side, the last week—since Tala’s Reforging—had been overwhelmingly marked by the Talons struggling to learn how to operate with their new power density.
+
+Apparently, maintaining magical density became almost exponentially harder the more that was held, and the manifold increase to their physical and mental augmentations had been… jarring.
+
+Tala could limit the amount available to them with relative ease—and that was the plan for any new Talons they began training in the future—but for now? For the existing Talons? They were judged to be capable of the transition, Eskau Meallain being incredibly clear that she thought coddling those she’d been working with for so long wouldn’t be acceptable.
+
+Tala did enjoy the idea of having Revered level footsoldiers to call upon in the arcane cities, even if only for shorter missions. Moreover, with her enhanced control over her expanded space, she had found herself able to grant lesser authority to the Talons and others at her will.
+
+What that meant in practical terms was that those she gave access to were able to come in and out of Ironhold at their will, exiting onto the superficial near the current anchor for that space, or beside Tala if there was no other anchor at the moment.
+
+Tala did make sure to keep that granted authority on a short leash as she had no desire to have other people moving things around within her holds, nor popping out beside her at unpredictable intervals.
+
+Overall, she was still getting used to her new state as a Reforged. Nothing felt ‘off’ or awkward—the whole process precluded that outcome afterall—it was more that it felt new. Like suddenly having a pair of shoes that fit so perfectly that she forgot she was wearing them. That might result in her walking into places where shoes weren’t allowed without thought.
+
+Her every action was instinctive and felt right on a level that was hard to convey, but because of that, she was forgetting that she was quite a bit stronger than she had been.
+
+Thankfully, the only casualties so far had been a few utensils and other minor items that were easily replaced.
+
+Still, this walk through the city was as much a benefit to her as to Eskau Meallain.
+
+She was having to consciously ensure that the road maintained its shape and integrity after she passed, as she was naturally reshaping the world around her—even if only marginally—toward her benefit. Her aura and authority made it all but effortless.
+
+The paved roadway would texture under foot to give better purchase, then lift slightly as she pushed off to give her greater power and distance in her steps.
+
+It was a small thing to ensure that the thoroughfare returned to how it had been afterward even if it required conscious thought, and it was important.
+
+There was enough evidence of her passage without her allowing negative things to remain.
+
+Plants grew around her, not new ones, and not to the extent that most mundanes would notice, but Tala sensed new life surging through those that entered her sway. The occasional upset animal was calmed, and everywhere nearby—even a bit beyond the range of her reality iron webbing—reality threads pulled tighter, thickening and seeming to grow more firm.
+
+Tala didn’t know exactly how that would affect things, but in broad strokes, it would make people feel more strongly for one another without creating new feelings. It would—essentially—be a reaffirming of relationships that already existed.
+
+But she didn’t just strengthen those ties between people.
+
+She suspected that people were becoming more attached to their homes, their jobs, their cities, their pets. She had no idea if it was a net good or ill, but it was strengthening Reality as she moved about, and given that such would be a net good for the city, she decided to allow the effect to continue.
+
+The Paragon with them was observing everything with rapt attention, but after nearly ten minutes, he finally broke the self-imposed silence. “Mistress Tala, if I may ask, where are you going?”
+
+Tala gave a confused look and smiled toward the man who was likely older than her great-great grandfather and likely a few more greats beside. “We, Master Sindar, are going to a lovely little bakery. My…” She hesitated, mindful of those moving through the city around them, even if no one was paying them too much direct attention. “My companion has been on her best behavior for quite a long time, and when asked, she requested a huckleberry puff pastry. Now, our own bakers could prepare such with relative ease, after our merchants got the requisite berries, but the whole point was to let her get out. Thus, here we are.” She frowned momentarily. “But you know all of this. It was in the message we sent, leading to your request to accompany us.”
+
+Eskau Meallain glanced back, a sly smile on her lips, before she continued her walk, clearly proud of Tala’s tact in the discussion.
+
+Master Sindar cleared his throat and glanced away. “Well… the powers that be were concerned that the request might not have been… complete. Therefore, I was asked to accompany you.” His eyes flicked toward Eskau Meallain before he continued, indicating the true one who had caused concern. “Just to be sure, of course.”
+
+Tala sighed. “As you say, then.” She motioned for him to speed up and did so as well. “Well, this way you get to try a wonderful treat.”
+
+He chuckled. “Indeed.”
+
+She had been unconsciously matching the man’s pace in an effort to not simply blaze across the city, and his leisurely gait meant that they were taking longer than intended. That would no longer be the case.
+
+They made the trip in less than ten more minutes, navigating by some of the more lovely parks, which Tala only really noted as she recognized them from her childhood. I thought you picked the quickest route.
+
+-I said I picked the best.-
+
+…Fair… Thank you.
+
+-Of course.-
+
+She didn’t stop, but she did appreciate seeing a tree that her family had picniced under so many years ago, or a field in which she’d played with her siblings or erstwhile friends.
+
+It felt a bit like a farewell glance, which was silly because she was only going for a short time, a few years at most, not for long enough for Marliweather to wane and fade.
+
+Still, she appreciated seeing the sights one more time before they could change further still.
+
+All too soon, they arrived at the bakery, and Tala bought all of them pastries.
+
+Eskau Meallain took her time enjoying her one, while Tala devoured five.
+
+Master Sindar sat, seeming vaguely uncomfortable, for nearly a minute before he took up his own and took a tentative bite. His eyes widened in delighted surprise, and he soon caught up with Eskau Meallain’s progress, finishing just before she did.
+
+Tala happily got each of them a couple more, but soon enough, the time had come to be done, and Eskau Meallain politely bid Master Sindar goodbye.
+
+Without waiting further, Tala willed the elf back into Ironhold, which was anchored near enough to where they had been sitting to allow for such.
+
+Master Sindar visibly relaxed when the Eskau vanished. “So, then… Are you ready for your upcoming trip?”
+
+Tala arched an eyebrow, but then simply shrugged. “I suppose so, yes. I’ve had an order in for mobile defenses for years now, and I’m hoping they’ll expedite it now.”
+
+The man grunted. “Ahh, yes. The Constructionists in that division tend to be… perfectionists isn’t the right word, but they do tend to take their time. I don’t know that I’ve come across a work order that took less than five years for them to fulfill, and that was during the height of a Leshkin War.”
+
+Tala grimaced, then sighed and nodded. The two had another pastry or two and chatted about meaningless things.
+
+She didn’t particularly want to do it—not because Master Sindar was unpleasant or anything like that, but because she would have preferred to simply be home—but it was a valuable chance to build a bit of rapport with the man, and given his position, it was wisest to keep good relations where possible.
+
+Still, soon enough, they’d said their goodbyes and parted ways, allowing Tala to return home in time for supper.
+
+* * *
+
+In the three weeks since Alan Karweil’s death, Ironhold had been in an absolute tumult. The constructs that could be made to take higher density power had been modified to do so, but the vast majority didn’t need any more magic, and thus had to have restrictions set up on their intake for safety's sake.
+
+This wasn’t the first time this had happened—Tala’s advancement to Paragon had sparked much the same issue—so it wasn’t anything new, and Lyn even had lists and prepared workflows for the process, which made things much easier.
+
+Beyond that, those within Ironhold were either ecstatic at the idea of going to the Arcane lands or terrified.
+
+There had apparently been quite a few applications for emigration, and surprisingly an uptick in the desire for immigration as well. After confirming with Tala, Lyn allowed all those who wanted to leave to do so, returning their deposit in silver and wishing them well.
+
+It was better to not have people who would effectively be prisoners along for the trip, even if they had, technically, accepted this as a possibility before being allowed in in the first place. They also could technically use the teleporters, but the understanding had been that if they left in that manner, that would be them leaving permanently. There were discussions of that shifting, but there was no promise that there would be easy back and forth travel.
+
+The merchants were deep in research and goods acquisitions, some sending for trade goods from far-flung cycling cities in preparation.
+
+The essentials were being stocked in vast quantities. The influx of dimensionality due to Walden and those who wanted to ask him questions, was largely put to use as storage areas for all the supplies they’d need in case they had difficulty resupplying down south.
+
+There were some farmers and other food producers within Ironhold, using the magic and other features to produce surprisingly large amounts of food for the land used, but they still couldn’t supply the needs of the whole hold on their own.
+
+As such—coupled with the fact that Tala was unwilling to let her people starve—they were spending a literal fortune on supplies. Thankfully, the nature of Tala’s space meant that nothing they took with them would have even a chance of spoiling. It also meant that they could sell it once again on the far end of this venture if they ended up not needing it.
+
+Rane had stocked up on quite a bit more stone, and Lea had made the rounds, spending more time with the Karweils, both present and past, in her own preparations for departure.
+
+As such, the Sappherrous family was all but set to leave quite a bit sooner than they’d feared.
+
+They’d make a single stop in Bandfast for Tala’s modular fortifications, before they took to the proverbial sky and flew south, with potentially the fate of gated humanity resting on the results.
+
+No pressure or anything.
+
+-Of course not. I’m sure it will be a completely uneventful trip.-
+
+Tala sighed. You are rusting mean sometimes.
+
+-Yes, yes we are.-

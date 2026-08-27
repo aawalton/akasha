@@ -1,0 +1,167 @@
+---
+id: 850ffc89-8cdd-5453-87bc-46c4354392de
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 7 - Workin’ for a Livin’"
+slug: 0012-chapter-7-workin-for-a-livin
+partOf: metaworld-hopecore
+position: 12
+ownLength: 1785
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364652/chapter-7-workin-for-a-livin"
+royalRoadId: "3364652"
+---
+
+"For every action, there is an equal and opposite reaction."
+
+Isaac Newton
+
+She was still alive, but now she was less alive.
+
+Seeing the number [8], which had been [47] before, was enough to have her suddenly double over in regret. For the first few seconds, the experience was wholly out of body in the literal sense, as her consciousness had been ejected from the seat of her [Persona], leaving her wholly incapable of commanding herself to get up.
+
+“Eppie? EPPIE?” Her coach shook herself from the revelry of the snow capped alps. “Shit. Johan, call the first aid team! I think she’s passed out!”
+
+Like the ghost of Ebenezer Scrooge, she watched Eric, Mueller, Smith and Cass move her insensible body so she wouldn’t choke on her own tongue.
+
+Was this the consequence of… karmic intellectual rights? At least she knew now that if she ever wanted to die quickly and instantly, all she had to do was sing the opening line of Imagine to an attentive crowd. The clap-back would probably turn her into a blazing supernova, leaving behind only the legend of the self-combusting popstar.
+
+Naturally, it was the precise moment that the concierge medical team arrived that control was returned to her, and she sat back up in perfect [Health].
+
+“I am alright!” she told a truth as truthful as any undead body piloted by [Causality] could. “Just… low blood sugar, I guess. I am a bit anaemic as well.”
+
+“She had the all clear from St Marten’s,” Eric clarified. “We ate well yesterday as well. We did have a light breakfast, though.”
+
+The corporate medics ran the usual anyway, reporting that indeed, her blood oxygen and heart rate were all perfectly acceptable.
+
+“Gosh, that was terrifying…” Yaleena mopped the sweat from her brow. “I don’t mean to pry, but that song…”
+
+“The… song? You mean… Deer-re-mi?”
+
+“Did you write this song?”
+
+I sure as hell didn’t. Eppie groaned. But I sure as hell paid the deposit.
+
+“It came to me,” she replied to her Vocal Coach with absolute authenticity, fully leveraging the power of her hypnotic eyes. “In a fever dream, just like Whatever will Be.”
+
+“I see,” the one who replied was Mueller. “Well. You’ve just shown us something wholly original and incredible. I’ll get Director Curon down here and have a listen. Eppie, this is a very good, very important song. Not for the charts, but for almost everything else. Do you understand what you’ve managed to hum out? It’s a nursery rhyme for teaching the scales. My God…”
+
+Yaleena Cass had caught on as well. “Eppie, when the director comes, tell him you want the money. All the money. I don’t care. This is more important than money. He’s your suit, right? Get him to ask for it.”
+
+“Er… actually,” Eppie was sympathetic to the sweating Canadian, because the man was now in dire need of a new shirt. “I am Sony’s lawyer…”
+
+“Ergh—” Mueller gave him a look of disgust. “We’re shortchanging kids now? She’s thirteen…”
+
+“Fifteen,” Eppie protested her youth. “Eric is my chaperone, from Sony West Coast. He’s Canadian.”
+
+Mueller gave the man a curt nod. “Fine. Just don’t ever trust pro bono lawyers from New Jersey.”
+
+While they waited, the group gathered around the long leather couch, upping her sugar levels and chatting and trying to figure out her life story until the Big Man himself, Director Frederick Curon, was summoned from his private suites.
+
+“I heard the news,” Curon closed the door behind him, shutting out prying eyes. “Skip the small talk. Roll tape.”
+
+Mueller’s fingers tap-danced across the SSL deck. “I’ve made a few clarifications already. Check this out.”
+
+The song played. Or rather, the scales did. Her voice, somehow more refined, controlled, and timeless, played out from the man-sized speakers facing the couch.
+
+The deer, the Alps, the threads of music that glided through each and every note filled the room.
+
+“Again.”
+
+Her creative director listened with eyes open.
+
+With eyes closed.
+
+With eyes squinted, staring at Eppie.
+
+She smiled back.
+
+He listened to it again while staring at her forehead, like he could crack it and see what other songs oozed forth.
+
+“Alright, how much?” Frederick Curon made a motion to sign a chequebook. “If you don’t know, then I’ll decide. I’ll make you a generous offer that’ll stand up in any court of law.”
+
+“It’s not so much a matter of how much,” Eppie said awkwardly. She dared not even dream of profiteering when her lifeline was so low. “But… how… charitable…”
+
+“You’re KIDDING?!” Curon’s eyes went wide. “REALLY?”
+
+“Ya, really.” Eppie moaned. Her whole body was shaking with frustration. “Eric knows the drill.”
+
+“Er… Label owns Master? 25% Royalty for media purposes? 75% for streaming? Absorption of production costs, $30,000 advance, Conditional Creative Control… 15% to your Coogan account, 50% to St Marten’s.”
+
++ Karmic Causality
+
+“You’re giving 50% to St Marten’s again?” Curon protested by throwing his hands in the air. “This is going to be a lot of money, Eppie, over time, I mean. You could buy a house by the sea, by the time you're 25, surely? You do realise you’re homeless.”
+
+“He’s right,” Mueller interjected. “Eppie, if we do it right, the song will be used here and there and everywhere, generating a consistent annual revenue for the foreseeable future, at least until the death of the Americas and the Copyright Office.”
+
+“My mind is made up.” She said, “I’ll sign it over, here and now.”
+
++ Karmic Causality
+
+“Okay, okay, calm yourself, Saint Fontaine,” the Director addressed the rapturous disbelief radiating from every individual in the room. “BUT. You’re going to get us and the hospital into trouble. Did you forget you’re fifteen? If we make this the norm, your hospital will pay more in legal and accounting fees than it can earn. Eric, what do you suggest?
+
+“Speaking only as legal, Sir.” Her Lawyer was happy to be finally of help. “We can probably set up a Charity Trust once her emancipation comes through. It’ll have Non-Inurement clauses that forbid profiteering by shareholders. We can worry about the management later, but all of Eppie’s royalties will go into this account, and then she can distribute them as she sees fit. It will also be tax exempt, the deed can include a portion for tuition, excursions and education-related expenses like equipment, production and hires.”
+
+“Excellent suggestion, young man,” the Director approved. “Eppie, what do you think?”
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+“Yep, sounds good to me,” she relaxed, funnelling her newfound [Causality] into the buffer of life.
+
+Your Dasein is
+
+31
+
+Acquire Dasein through Karmic Reciprocity
+
+She breathed out. She had burned almost a thousand [Causality], but at least she could relax.
+
+“Very well. I’ll assign a team from Legal to hash it out while you all continue the work with Miss Fontaine,” Curon’s face lost some of the tension. “Eppie, why are you like this?”
+
+“Because I am thankful?” Eppie said to the room, and she was serious. How else was I going to get [Causality?] Busking? MLMs?
+
+“Alright, I’ve decided,” Curon, the only man who could speak for them all, announced his decision to the room. “Johan, make time for her. Cass, if Eppie has performance issues, you take care of it. Eric, tell Legal you have my blessings, I want this done, and I wanted it done yesterday.”
+
+Her director looked at the door, then at her sitting there, surrounded by the men and women in his employ.
+
+“You know what? Let’s break for lunch. You guys deserve it.” The man smiled with a joy that belonged to the Alps. “You guys know Kuromon-san? Come, it's my treat.”
+
+By the afternoon, the news had spread.
+
+It was only natural, for a record company was a natural place for gossip, and it wasn’t as though Eppie was a company secret. But Eppie did not know this, nor did she care, for when they finally waved their aburi-stuffed companions goodbye, Eppie could literally see that her [Stamina] was on half-tank.
+
+She and Eric decided to head up Madison and cut through East 60 to grab some cannoli and grain bread from an Italian joint, then go feed ducks by The Pond. Lazing about on the lawn, she got to know Eric a bit more, about his girlfriend, Emily, about Newfoundland, his scholarship, about his old folks, who were both teachers, and about his work in Los Angeles.
+
+He asked her why she seemed to know Central Park better than he did, and she answered that they had Google Maps on their phones now and that his ageing Blackberry would be a relic in two years.
+
+The latter made Eric visibly upset, though Eppie could only laugh at the future. 2007... 2008.
+
+If this were her old world, she would become the wealthiest woman in America within a year by shorting the markets as the credit derivatives fell like dominoes.
+
+But hers was a more optimistic America.
+
+The gleaming Tower still stood.
+
+The American Dream still flickered.
+
+There were interventions in the Middle East, but no boots on the ground. America’s soft power remained indisputable; its cultural output was magnitudes larger than that of its secondary competitors, and that was the way the leadership liked it. In a year, a hopeful junior Senator from Illinois would have the audacity to hope, and the country would enter a sea change.
+
+And while Fox and Friends still existed, its cheerleaders of folly were stuck picking eggshells from omelettes. It would take the reign of a black President before they could master the art of peddling manufactured outrage.
+
+From the joggers and the lovers, the students and the hotdog vendors, she could still feel it. The hopeful optimism of the roaring 90s still burned bright, even if the cracks were there.
+
+Should she stoke the flame? Mend the cracks?
+
+If she were an artist, politics was inevitable.
+
+Artists are witnesses to human history; their works inherently support or challenge power structures, whether intentionally or not.
+
+To stand here on Gapstow Bridge, to be surrounded by buildings that touched the heavens and actually enjoy the serenity, was politics. Standing on the stonework, watching her watch her [Persona], asking if she should do nothing, was politics.
+
+How far could the [System] go in altering her present world?
+
+And if the world did become a better place than where she had come from, was there [Absolution]?
+
+She had no answers, nor did the [System], but Eric did.
+
+“Alright, that’s enough philosophy,” he brushed the crumbs from his hands. “Let’s head back up. Legal just messaged my Blackberry on their Blackberry. They're expecting us in… thirty minutes.”

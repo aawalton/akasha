@@ -1,0 +1,319 @@
+---
+id: d593950d-cf96-5083-ad3e-432a3ccc05c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 546 - Surprising yet Inevitable"
+slug: 0045-chapter-546-surprising-yet-inevitable
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 45
+ownLength: 3183
+unit: words
+ownProgress: 3183
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2173512/chapter-546-surprising-yet-inevitable"
+royalRoadId: "2173512"
+markedReadAt: "2026-06-29T19:36:44.486Z"
+---
+
+Tala and Rane passed the next day together, helping one another ‘reset’ emotionally and intellectually. They sparred and conversed, ate and read, tinkered and walked as they saw fit.
+
+The day after, Rane was tasked with being the next Paragon in command for a cell closure. There was no need for such for another week.
+
+Coincidentally, the day he departed was the day that Meallain's final sentencing was issued, and the Eskau was brought to Tala for their conversation.
+
+Tala waited outside the entrance to her sanctum, the portal opened on an out-of-the-way wall within the Alefast Archon Compound.
+
+Master Grediv led Eskau Meallain through the halls, Archons turning to regard her with curiosity, hostility, or a mixture of the two, the woman still missing her left arm.
+
+The elf’s face broke into a smile as she caught sight of Tala, and she gave a single nod.
+
+Master Grediv gave a slight bow as well before addressing Tala directly, “Mistress Tala, would you like me to accompany her into your sanctum? I am maintaining a magical dead-zone around her at the moment, and such will be up to you once I turn her over. She could draw from her weapon, but she’d never pull enough, quickly enough to defend herself against punishment for such an action.”
+
+Tala shrugged. “I can do so with ease.”
+
+She examined Eskau Meallain, who seemed at least a little startled by Tala’s assurance, even if she didn’t say anything. The weapon in question was in the form of a bracelet around her one remaining wrist. The elf still held roughly Mature levels of power, which was impressive given Tala doubted any of the Archons would have allowed her to absorb more power in the last month or so. Thus, Eskau Meallain had held nearly perfect containment on the power that she’d absorbed after the battle south of Alefast. She’d done so while awake or asleep, while eating, dialoguing, and anything else that she had to do.
+
+-We could definitely stand to learn some of that. Though, we’ll have to modify it to not pop from magical pressure.-
+
+Of course. Magical pressure isn’t something we want at all.
+
+-...Tala… That’s a dangerous thought.-
+
+Of course it is, but it also might be exactly what we’re looking for. Arcane retention, reserves, and control with gated throughput? Imagine what we could do with such power.
+
+-...Well… yeah… that would be amazing, but is it possible?-
+
+Only time will tell.
+
+Additionally, now that Tala was looking closer, she could see that the zeme around the woman seemed to pull back just slightly. It was clearly an effect of active authority usage, and Tala suspected that Eskau Meallain could have reached out and overcome the block if she’d desired, but it was impressive nonetheless.
+
+I’m glad we don’t have to do anything so active within Kit.
+
+-Yup, cheating our way into spoofing higher-level abilities, for the win!-
+
+Indeed.
+
+Still, she was getting distracted. She smiled toward Master Grediv. “Should I let you know when we’re done with our conversation?”
+
+Eskau Meallain frowned, and Master Grediv fought back a smile. “No, that won’t be necessary.”
+
+Tala felt a sinking in the pit of her stomach, a horrible premonition sweeping through her. “Who should I inform then?”
+
+The other Paragon shrugged, his lips twitching once more. “Whomever you desire, I suppose. You are her custodian for the next…” He turned to look at Eskau Meallain. “How long was your sentencing again?”
+
+The elf narrowed her eyes, seeming to believe that she was missing a joke at her expense. “Until I’ve provided enough benefit to humanity to offset the loss of an immortal defender ten times over… as well as the loss of quite a few private citizens who—while not defenders—were still a loss to you…apparently, and whose deaths must be rectified.” She grimaced. “Or three millennia, whichever comes sooner.”
+
+Tala almost choked. “What?”
+
+-What?-
+
+That’s what I said.
+
+-Exactly, both of me said it. Hush. I need the surprising yet inevitable answer.-
+
+Master Grediv chuckled, then, allowing his smile to bloom forth. “Come, let’s go into your sanctum to speak. This isn’t a topic for the Compound atrium.”
+
+Almost in a daze, Tala gestured, and Meallain and Master Grediv entered through the portal, which closed right behind them.
+
+Tala simply willed herself inside, appearing beside the other two.
+
+Eskau Meallain stretched, and Tala felt the elf revel in the magical density around her. “Oh, yes. This is the proper way to treat an Eskau of the House of Blood. It’s even better than my own accommodations back in Croi. This dense powerful zeme is worthy of—”
+
+She hesitated then, frowning as she clearly tried to draw some in and simply couldn’t.
+
+“What madness is this?”
+
+Tala waved a hand dismissively. “I have supreme authority over the power within this space.”
+
+Eskau Meallain’s eyes bulged, but Tala was already turning on Master Grediv.
+
+“What do you mean when you say I am her custodian?”
+
+He nodded, going along with her choice of topic. “Well, the House of Blood wouldn't stand for their Eskau being confined, held, nor incarcerated under the authority of any of our people in the long term. It was only after we put you forward as a potential solution that negotiations progressed. They were surprised that we would be comfortable with one of their Eskau watching over another, and we were equally gratified that they would consent to have a Paragon of humanity be given final authority over their Eskau.” The man shrugged, a truly gleeful grin unashamedly on display as he continued. “And with no one to object or offer alternatives, that became the foundation of our solution.”
+
+Tala’s eye twitched.
+
+-Surprising yet inevitable.-
+
+Rust you, Alat… Rust him… Rust this whole situation.
+
+-Surprising yet inevitable though it may be.-
+
+…I dislike you sometimes.
+
+-Well, he did warn us.-
+
+I know he warned us, Alat. I’m aware that this is a bed of my own making, but that doesn’t make it any more comfortable.
+
+Eskau Meallain was still striving mightily to grasp at the power that simply ignored her attempts. “This isn’t possible. There’s nothing for me to strive against. You aren’t resisting my attempts. I’m not too weak to make it happen. I simply can’t. I might as well be without any magical talent at all.”
+
+Tala frowned at the elf, a bit irritated that she was still focused on the previous topic. “This is a soulbound space, Eskau Meallain. Nothing in here is open for your interference.”
+
+As Tala turned back to Master Grediv, about to raise another objection, Eskau Meallain reacted as if slapped. “And I entered willingly!” Her whole body began to tremble. “By the stars above, what have you done to me?”
+
+Tala sighed. I guess I should deal with her first.
+
+-Yeah, I think that you had better.-
+
+She placed her hand on the other woman’s shoulder. “Eskau Meallain, examine your own soul.”
+
+The elf snapped her attention back to Tala, then frowned. Tala saw tendrils of magic delveng throughout the elf, and a moment later, the woman seemed to relax. “No new bond… there is no bond. But… how?”
+
+Tala grinned, feeling a bit proud at having information that Eskau Meallain didn’t. “The bond has its foundation within a formerly separate, sentient creature rather than within the dimensionality itself. She is now one with me, and thus this space is utterly mine in a manner usually impossible otherwise.”
+
+Eskau Meallain gave a slow, considering nod. “I see. While that is, of course, impossible, it makes sense. It seems that impossible things are—and will continue to be—the rule of this season of my life.”
+
+-Oh, she doesn’t know the half of it.-
+
+Hush you. Tala nodded once to the elf. “Good. I’m glad that’s settled.” She then turned on Master Grediv. “Now, explain.”
+
+He gave a short nod in turn. “It was the perfect solution. We trust you because we know you. They don’t really care about trust, but your title as Eskau of their House gives them political expediency and reasonability for leaving Meallain in our custody for the term of her restitution.”
+
+Tala’s eye began to twitch. “That term being three thousand years.”
+
+Eskau Meallain seemed to have recovered from her shock, at least for the most part, as she huffed derisively. “That was a silly addendum. If it takes more than a year to offer service worthy of replacing ten Refined then I’ll have failed.”
+
+Master Grediv sighed. “Be that as it may, you are not the arbiter of such. Mistress Tala is.” He met Tala’s gaze. “You will decide when Master Girt’s worth has been repaid ten times over.”
+
+Tala rocked back slightly. That… that was an impossible task. His life was irreplaceable, it was beyond any valuation.
+
+-Which is why they didn’t put a gold or treasure value on it. They didn’t even ask for a certain amount of power. They probably could have requested vestiges in repayment, but that would have likely just meant more humans harmed, not fewer.-
+
+How am I supposed to judge this?
+
+-With time and wisdom?-
+
+…I hate you sometimes…
+
+-I know. You’ve made that quite clear. We’ll get through this even so, and we’ll do it together.-
+
+…Thank you.
+
+-Of course.-
+
+Master Grediv placed a hand on Tala’s shoulder. “Mistress—”
+
+Eskau Meallain narrowed her gaze, cutting across the man before he could continue. “You keep addressing her so, but she should be addressed properly. Mistress is used for the common trash of your civilization who barely start to scrabble out of the midden. She is something more.”
+
+The Paragon rolled his eyes, and Tala hid a smile. Master Grediv seemed to decide to say something, however, turning to address Eskau Meallain, even if only briefly. “Your belief in arcane superiority is quaint. Your people have your strengths, and we have ours.”
+
+Eskau Meallain took the pejorative in stride. “Are you saying that there are more human Eskau than human Mistresses?”
+
+He frowned then. “No, of course not.”
+
+“Then, it should be self-evident that such is a more fitting title.” She nodded once, definitively.
+
+Master Grediv tilted his head in thought. “Huh… that actually makes some sense.”
+
+Eskau Meallain gave a triumphant smile, which lasted only until he spoke again.
+
+“Regardless, Mistress Tala, is there anything further that you need from me?”
+
+Eskau Meallain’s eye twitched, and Tala chuckled, then grimaced as she remembered what was happening under the not-so-subtle jabs. “I will want to have words with you later, but doing so in my sanctum feels… underhanded. I’ll feel better…” She glanced toward the elf before returning her gaze to her fellow Paragon. “I’ll feel better making my feelings known in your city, under your authority, when I can’t accidentally do something I’ll regret.”
+
+“Wisely chosen, Mistress Tala. With that, then, I will take my leave.”
+
+Tala nodded and willed him away.
+
+Eskau Meallain grimaced, crinkling her nose even as she cursed under her breath, “Humans…”
+
+Tala huffed a laugh. “You’re surrounded by us now. Welcome to an ironic switching of fates.”
+
+-Surprising yet inevitable.-
+
+Hush, now.
+
+The elf tilted her head to the side, then barked a laugh. “You know? I hadn’t thought of it that way. Though, in my case, I won’t have to kill you to be free.”
+
+Tala met her gaze levelly. “Then you are in a far better position than I was.”
+
+The other woman grimaced. “That… that is fair, yes.”
+
+Tala closed her eyes, let off an internal scream to release her frustration, and then opened them once again. It would be counterproductive to scream at the other woman at the moment. “So. You said you wanted to talk with me. What about?”
+
+The other Eskau narrowed her gaze, but then just shook her head. “There were a few things I wanted clarified, for my own peace of mind.”
+
+“Well, ask away.”
+
+Eskau Meallain studied her for a long time. “Did you kill Pillar Be-thric?”
+
+“Yes.”
+
+The elf shifted back slightly at the immediacy and simplicity of the answer. “I suppose I suspected.” She grimaced. “I long suspected that other Pillars in the House allowed your elevation to Eskau in the explicit hope that something would go wrong and little Be would end up dead, but that still seems too convoluted for most of them. The rest? They’d have picked a more assured path to the goal they wanted.”
+
+Tala just grunted, waiting for a moment. Then, she sighed. She should take care of some basic things. “Well, if you’re going to be here for a while…” Then, she hesitated, looking around at her sanctum, at where she and her husband lived and spent most of their time. “No, you know what? I don’t want you in here. You get to come to Ironhold.”
+
+Without further warning, Tala grabbed Eskau Meallain with an iron grip of will and authority and—along with herself—willed them both to Ironhold.
+
+The Eskau tried to resist, likely on reflex, but the fact that the sanctum was pushing her out, even as Tala drew her onward—and the fact that she was barely Mature in magical weight at the moment—rendered Eskau Meallain’s resistance futile.
+
+The next instant, they stood in a garden where Tala had known Lyn was working, sitting beside Ron as he did the same.
+
+Tala didn’t drop in on them directly, instead coming in alignment with Ironhold some hundred yards away and out of line of sight. They were probably out of most people’s hearing range as well, except for shouts.
+
+She would finish her conversation with Eskau Meallain and then pawn her off on those two.
+
+-Noble of you.-
+
+Practical.
+
+-...That’s fair.-
+
+Her prisoner looked around, her look of surprise turning to one of confusion. “This is a different space.”
+
+“Oh? How do you know?”
+
+“It feels different. There is more dimensionality here, and more other people. I can sense some close by, and many more in the near distance.”
+
+“Well, you’re right. It is different.”
+
+“But the magic density is the same, the zeme is just as unresponsive to me.”
+
+“Well, that is because it’s still a part of my soulbound voidling.”
+
+“Voidling?”
+
+Tala waved the question off. “Some call it a devouring dimension, but that’s not important right now. So, you had questions. That’s what you said.”
+
+The elf’s eye twitched, but she seemed to decide not to press. “That’s right.”
+
+“You’ve only asked one.”
+
+“That’s right.”
+
+Tala waited, but the elf just grinned back at her. Tala rubbed at her temples. “You know, I’ve given you the promised conversation. I could simply toss you in a hole and come back in three millennia.”
+
+Eskau Meallain was about to retort, clearly in the vein of calling a bluff, but Tala would have none of it.
+
+“I already have two long term prisoners. Don’t think I won’t add a third.”
+
+That caught the other woman’s attention. “Really? I’d like to meet them, if possible.”
+
+Tala huffed a laugh. “Of course you would, but I don’t know that I want them to meet you. Only time will tell. And if you get no more time to convince me…” Tala shrugged. “That’s not my issue.”
+
+Eskau Meallain sighed. “Very well. There is no cause to be difficult.”
+
+Tala cocked an eyebrow, causing the elf to continue through a growing smile.
+
+“For either of us to be difficult. So, you killed him.”
+
+“I did.”
+
+“How?”
+
+“Dissolution magic. I had thought that such would be fast enough, but he still activated the collar as he died.”
+
+“So I remember…” The elf frowned. “About that. How—?”
+
+Tala shook her head. “Not now, maybe not ever. Ask something else.”
+
+Eskau Meallain grimaced. “Fine. I’m not used to being in the subordinate position.”
+
+“Not even to your Pillar?”
+
+She barked a laugh. “He comes to me for advice more often than to give orders…” Her face fell, and she grimaced again. “At least he used to…”
+
+Tala clucked her tongue. “So. Questions.”
+
+Eskau Meallain sighed but nodded. “Why did you kill him?”
+
+“I wanted to be free. I couldn’t be as long as he lived.”
+
+“Why did you want to be free? Was your life really so terrible?”
+
+Tala almost laughed in her face, but the sincerity in Eskau Meallain’s tone made her hesitate and take the question more seriously than she otherwise would have. “Sure, life was good there, but it wasn’t my own. It wasn’t one that I chose. It was the life he’d built for me without my permission or say so.” Tala laughed then. “I actually considered many times that I might have enjoyed such a life if I'd been invited into it rather than stolen.”
+
+“So, you had your memories, then? To know that you were stolen?”
+
+“I did.”
+
+“For how long? Surely not the whole time?”
+
+“No, not the whole time. I regained myself just before the clash with the other candidates. I was me just in time to make him a Pillar and me his Eskau.”
+
+The elf’s eyes widened at that. “So long?”
+
+“So long.”
+
+“Then… I never met you as her. I only ever knew the real you?”
+
+“The real me wearing a mask, playing a part, but yes.”
+
+Eskau Meallain grunted. “I see. That is good to know, actually. So, he wasn’t as skilled as he thought himself to be?”
+
+Tala truly laughed then. “Oh, he did a masterful job. It was only by chance and happenstance that I recovered myself when I did. I had magics in place to restore my mind in case of head-trauma or memory tampering—a thing most Archons don’t have—and those magics were triggered in such a way as to bring me back to myself.”
+
+A frown was the first thing Tala got in reply. “But that doesn’t sound like luck at all. That would be like a soldier saying it was luck he survived the arrow, while wearing a shield on his arm that caught the attack.”
+
+Tala shrugged. “I suppose, but it took long enough to trigger. I don’t know how much longer it would have been before another effect would have come along to set me free.”
+
+“Ahh, so you meant that the timing of your recovery was lucky, not the fact that it happened at all.”
+
+“Exactly so.”
+
+A throat cleared behind them, and the two women spun around to find a rift of nothingness awaiting them.
+
+Tala felt instant dread as the thing wasn’t there to any of her senses save those that were entirely mundane.
+
+Eskau Meallain seemed to have sensed that something was amiss as well, because she fell into a defensive stance, somehow not seeming odd even with only one arm.
+
+Within the emptiness stood a starkly white man—not untanned, but white as the driven snow—with eyes even darker than the abyss that surrounded him. “Eskau Tala, Eskau Meallain. It seems that I caught you with… lucky timing. You lesser beings have settled on a punishment for this spoiled child’s actions. It is time for me to determine if I agree that such is sufficient.”

@@ -1,0 +1,95 @@
+---
+id: bbee35f1-1272-561d-aa20-64cd4d6f4a8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 274 Fifth Year of Marriage"
+slug: 0288-chapter-274-fifth-year-of-marriage
+partOf: melody-of-mana
+position: 288
+ownLength: 1316
+unit: words
+ownProgress: 1316
+publishedAt: 2023-10-07
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1366277/chapter-274-fifth-year-of-marriage"
+royalRoadId: "1366277"
+markedReadAt: "2026-06-29T22:35:46.675Z"
+---
+
+The rain poured down over the city of Lithere. There was no thunder, no lightning, only the sky weeping over the city. It was appropriate, the right kind of day for it, the right time for such a storm.
+
+At the foot of the statue, on a small dais stood my brother in mid-speech, the crown upon his head shedding water. The way that the droplets flowed down both his face, and the stone one behind him made it seem as if both were weeping. Like both had tears pouring forth for what had to be done today.
+
+When the Empire of Shadows had finally stabilized the name had needed to change, for there were far too many people claiming to be the empire still. As we were no longer truly an empire it was, at my suggestion, made into the Penumbral Kingdom. Father had taken the name Penumbra as his surname, and regardless of the fact that I refused any other title, had heaved it upon me as well. Now John Penumbra, the second king ruled, and none questioned him.
+
+As John finished his speech, some unspoken signal was given and the coffin erupted in flames. Magic was in use here, and through it the body was soon reduced to nothing but ash. My heart sank, and though I'd already wept several times, once more I felt salty drops make their way down my face.
+
+The ceremony done I retreated into the palace, into one of several rooms set aside for us. Ulanion and Dras wouldn't be joining me for some time yet, as they'd both volunteered to help collect the bones once everything was done.
+
+“Have you been good?” I asked as I approached the ones I was here for.
+
+“Yes, is everything okay?” Rodrick asked, he was still a bit young to understand everything that was going on, but clearly knew something had happened.
+
+“It will be,” I answered.
+
+“Mommy, cousin Amara is fun, we should come see her more often,” said his little sister, Illa.
+
+“We may do that,” I told her, patting her head gently.
+
+I looked at Omos and Amara, my niece and nephew and current prince and princess. They smiled, near the same ages as my own and both very well mannered, and offered me a greeting. While some things had come back their parents had not raised them to be too proud or haughty.
+
+The door opened and a few moments later I smiled at the echoing calls of “Grandpa Verren!” from all of the kids. Soon he was swarmed, and I got to watch as his face transformed from one of sadness, to the kindest look he could manage.
+
+My father went down low to the ground and embraced them all, leaning in conspiratorially. “Now, grandpa has some people he needs to talk to, but you all behave and I'll come play with you later.” There was a chorus of agreements from their favorite adult before he motioned me and we left them.
+
+“How are you?” I asked once we were far enough away from them.
+
+“I've been better, but I should ask you the same shouldn't I?” he replied.
+
+Dad had aged, his hair now almost solid grey, and his skin showing wrinkles here and there. Mom's death had taken a lot out of him, ruling even more. In the last few years he looked like he'd aged decades. Now he'd lost his oldest friend.
+
+“I'll miss him. It's so odd, knowing that I'll never see Mystien again, never have him tell me off for something, or come to see what I've been working on.” I said as I hugged him.
+
+My first teacher was gone, fallen in battle against mankind's first enemy, age. He'd been ancient, and though magic could do much, he hadn't been able to fight off the specter of time. It had at least been fast, his wife just waking up one morning to find that he was gone, not some drawn out process.
+
+“I think he'll rest well, knowing that there are plenty who can keep his legacy going.” Dad rubbed my back a bit, holding me close.
+
+Father was right there at least. Mystien may be gone, but he'd left behind some of the best trained mages in the world. Dras wasn't his equal, but among the wizards in our nation was sitting near the top. I myself was considered one of the best in the world when it came to magical item production, and bardic magic, some of my most recent creations being added to massive public works.
+
+“Have there been any issues?” I asked, wanting information, but still enjoying the hug.
+
+“A few people thought they might get clever, and they received what they should for it,” dad answered, a hard note in his voice.
+
+Father had only taken the throne for a short time, setting things as they should be before stepping down. It was a good plan, and would likely save us problems in the future. The first few years were always the most delicate for any new nation. If power was not handed down properly, or if there was some confusion about who should take over, well, we'd already lived through that, and nobody wanted it again.
+
+After awhile longer dad went to go play with the children. Nobody who had ever met him on the field would have believed how he acted with them, happy, childish, a bit foolish even sometimes, making silly faces and joining in whatever game they were trying to play with him. As a grandfather he seemed determined to spoil them all with attention. He was also doing a wonderful job distracting them from all the sad adults, something appropriate since we were all in a private room.
+
+My brother joined me not long after. “Hello there little sister,” he said teasingly.
+
+“How are things, 'your Majesty'?” I teased right back.
+
+“Oh, they're as well as can be expected. At least none of the other powers have tried anything stupid.”
+
+“I think most of them are smarter than that,” I added.
+
+“Indeed, it's a shame there was no way to stop time for the old man. They told me stories about his youth earlier, and I'd have loved to see it.”
+
+“I've been experimenting with that, you know? Trying to reverse aging.”
+
+He looked at me and blinked, then really looked at me. “Does it work!?”
+
+“Sort of, I can slow it down a bit, at least on myself. Maybe one day I'll manage it on others, but I've had issues since I'm not properly able to put the mental feelings right for others. It's weird,” I explained, and it was true. I'd managed to slow my own aging process by a bit, but even then not fully. “It's also extremely mana expensive.”
+
+“Could a priest?”
+
+“Probably, but they all seem to have hangups about it, and that stops them from doing it properly. Well, almost all of them.” I didn't elaborate, even if I knew one old man who definitely could.
+
+“I'd like you to keep me informed on that.” His voice took on a bit of the command he used in official functions.
+
+“Giving me orders brother? Don't worry, if I find anything of use to others you and dad are already at the top of the list for people to aid. We've already lost enough family.”
+
+Etia soon joined us, “She's ready for you.”
+
+“How is Veska?” I asked, I didn't really know the woman well.
+
+“Not well, nor is the daughter.” That was unsurprising, and one of the reasons we were in separate rooms for now. Veska and Veska, yes they'd named the daughter the same as her mother, were still in mourning, whereas our kids weren't.
+
+“Alright, I'll see you soon,” I said, turning to head towards their room with more than a few worries.

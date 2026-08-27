@@ -1,0 +1,195 @@
+---
+id: 1a58a960-7efb-5bb2-8f91-0796a27db856
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 - The Pretender (2) "
+slug: 0027-chapter-14-the-pretender-2
+partOf: metaworld-hopecore
+position: 27
+ownLength: 2148
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368692/chapter-14-the-pretender-2"
+royalRoadId: "3368692"
+---
+
+Monday.Week two. The first person she met outside the dorm wasn’t her friends from the dorm, but Coordinator Carr in her usual leotard and cardigan combo, one hand on her phone and the other on her hip, arresting a thick manila envelope.
+
+With a big smile and a grand gesture, she presented the folder with a flourish. “How did you do it?”
+
+“Do?” Eppie cocked her head.
+
+“This!” The Director sighed. “You passed, Euphemia. Not just passed. You cleared it with flying colours. Highest bands for both Physics and Japanese. Both will be added to your transcript.”
+
+“No more Chemistry and French?”
+
+“No more, my Ariel,” Carr seemed more excited than she was. “To the elements, be free.”
+
+“Thanks, Mrs Carr,” Eppie received the folder with a bow. “You’ve helped me immensely in my endeavours."
+
+“Eppie!” From the door, Josefina was obviously using her dorm mother's super hearing to drop in on their conversation. “Physics? And the Japanese, too? Ave María! I knew you were a smart cookie. Congratulations, mija.”
+
+“On a more serious note,” the Director’s eyes sparkled. “What are you going to do with your extra time, Eppie? This is a very rare thing. Spare time at LAPA. That’s two to three hours a day. You understand your advantage, yes? What will you spend it on?”
+
+“I was thinking of picking up an instrument, actually,” Eppie said sheepishly.
+
+“Oh.” Carr studied her. “Yes, that’s certainly possible. You haven’t done the Freshman course, so you can’t join the Sophomores, but we certainly can spare the rooms in the late afternoon. As for your instructor…”
+
+The Director looked up, then had a lightbulb moment. “There are Seniors who tutor instruments across the spectrum. With your scholarship, we can probably negotiate something. Yes. That’s an excellent idea.”
+
+Eppie giggled at her Director’s self-glazing.
+
+“What do you want to play?”
+
+“Guitar, for now. I won’t be able to play classical instruments, not with my level of training. It’ll be a joke.”
+
+“Hmm, true,” Carr nodded. “And you do write songs. That one you wrote still lingers, you know. I hum it sometimes.”
+
+“Our Eppie is a songwriter, too?” Josefina’s chest swelled three sizes. “Truly? Eppie! Are you being humble with me? You did not tell Mama Josefina?”
+
+“I er… hum them,” she backed away from the advancing Latina. “No, seriously. I am instrument blind.”
+
+“Not for long, though.” Carr paced back and forth a few steps to think. “Alright, I think I have a few candidates. What’s your weapon of choice? Parlour? Classic? Hollow-body electric?”
+
+“It's all French to me…”
+
+Carr laughed. “Do you prefer a male or female colleague?”
+
+“Either—”
+
+“A girl!” Josefina shouted. “Eppie already has a pintor boy she pines for.”
+
+“Please ignore that,” Eppie laughed awkwardly at her Director. “Yes, I don’t mind either.”
+
+“Let’s go with Parlour for now, knowing your preferences,” Carr stated sagely, her eyes measuring the length of her arms. “You’ll need to grow a bit taller to sling a classic full body. I think a parlour’s a good start. They’re easy to learn, intimate sound, lower price point, and are popular with the composing crowd.”
+
+“Please,” Eppie thanked her Op Director. “I’ll be expecting the good news.”
+
+Their morning meeting parted with Josefina beside her, eyes positively glowing with anticipation.
+
+“Concerto later?” her dorm mother grinned.
+
+“Let me…” Eppie couldn’t help but hold back her excitement as well. “Let me learn the guitar first. Then, you experience the real thing.”
+
+In her usual two-piece Kmart garb, she arrived at the Quest Board with her new American Apparel duffle, then immediately realised that people were staring.
+
+They were not outright staring, but inquisitively staring.
+
+It was the kind of stare she was very much accustomed to, because it was always a surreal experience for the public when someone you’d just seen at the Forbes cover on a bus stop stood next to you on Fifth Avenue, ordering a hyped up salted beef bagel from a viral TikTok video.
+
+As a person, she was down to earth like that, but as a broker…
+
+Either way, with or without her main character energy, the Quest Board was a place full of protagonists. As an arts school, it simply came with the territory. After the initial volume of inquisitive stares, people returned to their own lives, and the hall’s high-friction noise swelled to its usual tinnitus-inducing static.
+
+Her eyes skipped past the Jazz announcements and the art show exhibition tags to arrive at the theatre segment. In neatly printed Times New Roman, the notice announced that the Fall Showcase has been decided, and that it will be a series of vignettes from Antigone, with scenes to be announced later in each class, for each student group.
+
+A notice of absolute importance was the dates for the Audition Timelines.
+
+October 23rd for the Vocal and Movement Prelims. October 24th for the Cold Reads of their yet to be finalised script (available before November!) Stolen story; please report.October 26th for Final Callbacks.
+
+The clock struck the promised hour, and the body of chittering students dispersed.
+
+Her first class was English Honours, as was tradition, and Monday lessons were only 40 minutes. They handed in their homework, and Mrs Kirby grilled the students on their understanding of Antigone.
+
+Sitting ramrod-straight at her desk, her English teacher was directing the lesson with a different air, one that was aimed at Eppie.
+
+Was it because of the competency exams? Or was it because of the MySpace video? Eppie could not know, because her teacher did not ask. Instead, she was tasked with explaining the motivation of the play’s tragic families.
+
+"Eppie," Mrs Kirby said, her voice cutting through the low murmur of the other children at work. "Antigone chooses to bury her brother, knowing it means her own execution. How does the dilemma fit into our discussion of the Legelian Dialectic?"
+
+It was a question framed around the optional readings, and it was a test.
+
+“Er… Hegel stated that—”
+
+“Legel, Miss Fontaine.”
+
+“Right, right, umm…” She corrected herself, recalling that her alter-world information wasn’t exact. “So, Antigone is the ultimate tragedy because neither Antigone nor Creon are explicitly good or evil. Instead, the tragedy arises from the inability to reconcile the tension between two incompatible forms of ethical power.”
+
+“Excellent. Madison, can you clarify?” Her teacher picked someone behind her.
+
+“What? Er…” a melodic, but panicked voice answered. “Antigone is fighting to do the right thing for her family, while Creon has to fight to maintain power over the state. It’s about the contest of these two forces.”
+
+“A fair answer,” Mrs Kirby gave credit, but wasn’t at all satisfied. “But a shallow one. This is English Honours, ladies and gents. College credit isn’t that easy.”
+
+Her eyes landed once again on Eppie, for whom, indeed, college credit proved very easy.
+
+“Miss Fontaine?”
+
+Eppie pretended to take a moment to think. “So er… the Family represents the laws of the world, the Gods, the blood. It’s an immutable ethical bond as old as the earth, as the Greek perceive it. Meanwhile, Creon is the ethical power of the state, its social contract. Stability, collective survival, compromise. It's what Antigone’s family, especially her brother, had already broken.”
+
+“Continue.”
+
+“Er… the tragedy?”
+
+“Of Antigone. What is her Hamartia?”
+
+“Umm…” She realised that the others were watching her now. Was the answer too much? “I don’t know.”
+
+“Nonsense,” Mrs Kirby dismissed her refusal. “I read your submission. You know. Why not share it with the class? God knows some of them could use it.”
+
+By now, Eppie knew exactly what her teacher was doing; she had done the very same to the junior managers in her firm. She didn’t like being used, but she rather liked Mrs Kirby’s classes, because they made her nostalgic for the halcyon days of school, where the innocent acquisition of knowledge was all a student cared about. It was a peace that those who lived and died by the quarterly margin calls had long forgotten.
+
+And so she humoured her teacher.
+
+“If we remain within the Hegelian paradox—”
+
+“Legelian.”
+
+“Sorry, Legelian paradox, then we’re witnessing the conflict of contradictions that led to a deeper understanding of human truths. In the case of a girl who refuses to acknowledge any other law except her own, more so than Creon himself. She’s an autonomia—a law unto herself. This makes her blind to the rules of the human world. This is her tragedy, her Hamartia—which, by the way, has the word root in ‘missing the mark’.”
+
+She took a deep breath. “Her fatal flaw is the lack of compromise. Like, even Creon looks at his son and his wife and realises maybe he needs to calm down. Not Antigone. She is an antagonist to Creon. She doesn’t play by the rules, and she’s struck down by it. She's unsavable. Is she a good person? Did she deserve it? Are we sorry for her for the right reasons? That’s the point of the tragedy.”
+
+The class grew silent.
+
+Yep. I fucked it up. The very socially aware Eppie Fontaine realised that she might have just made an Antigone of herself, at least to her peers in class.
+
+“Let's put this in the report for tomorrow,” Mrs Kirby’s thin lips formed into a conspiratorial smile. “Well done, Miss Fontaine. If you wish, I can speak to Mr Cooper on your behalf about your wide breadth of knowledge regarding tragedies.”
+
+The class erupted into clamour.
+
+Eppie acknowledged that, though these were in a mere government school, she was still among wolves and foxes.
+
+“That will be all. Class dismissed.”
+
+World History continued with the Enlightenment and its impact on the arts, after which her math teacher gleefully explained cosine waves to the music students by humming the graph, much to the delight of the cohort.
+
+At lunch, she met up with her friends from the theatre, and once more faced the scrutiny of teenage minds busy at work.
+
+When she sat down with her enormous tray of soup, dumplings and chow mein, the laptops were already out.
+
+“Eppie…” Lucy Tanterman cornered her before she could land the tray. “Why didn’t you tell us?”
+
+“About?” Eppie moved around the girl and dropped her tray on the table space between them.
+
+“Your Song! You sing?”
+
+“We all sing,” Eppie downplayed the fact. “Did you forget where we are?”
+
+“Right, RIIIIIGHT.” Chelsea McQueen wasn’t about to let her go easily. “Have you checked your MySpace?”
+
+Eppie shook her head. Unless Eric was a late 2010s analytics wizard, there was no way her profile would go viral within 24 hours.
+
+“Here.” Min-jun, ever the helpful flirt, turned his laptop toward her.
+
+The very first thing she saw was a glaring banner with the worst font design she had ever seen in her life, shouting in full caps, “DO YOU SHOP AT MACY’S?” The next image is of her, looking bright and sunny and in a low-resolution, compressed JPEG with maximum grain, sitting beside her name, with “Female, 15 Years Old”. Below that was an “About Me: I’ll fill this in later. And who I’d like to meet: I don’t know.”
+
+Eppie Fontaine has “1” friend—her lawyer’s girlfriend, Emily.
+
+She was not in Min-jun’s network, but that didn’t stop him from browsing her profile and seeing her public videos.
+
+The video had 13,000 views, which was sesame seed money in Eppie’s Youtube-know how, and it had 284 comments, with a 4.8 Rating. In comparison, Lana’s TED talk video on AI consolidation of entertainment assets in 2028 had 132 million views, five thousand comments, and more dislikes than people who existed on MySpace.
+
+“Is that good?” she asked the crew.
+
+“IS THAT—?” Chelsea held her head with both hands and tried her best impression of Edvard Munch’s The Scream. Min-jun looked like he wanted to stab her with a plastic fork.
+
+“Here’s mine, from my audition,” the Korean boy showed one of his videos. For a guy with 500+ friends, he had 13 comments. “Do you get it now? DO YOU GET IT?”
+
+“Yeah… kind of. No, not really,” Eppie was honest. Viral, assuming bots, had a minimum of a million views in the mid 2010s. Was MySpace so different? It had been so long she could not tell.
+
+“OH MY GOD,” the Korean was beating his chest like one of those ape-men in Planet. “You’re killing me. GO AND LOG IN. Your friend requests… let’s just say you’ll be clicking those buttons for an hour.”
+
+“It’s a beautiful song, by the way,” Lucy was less up in arms about her social capital. “Vincent van Gogh, right?”
+
+“Yeah…” Eppie felt the self-explanation was as good as any. “So er… I should go and take care of this?”
+
+“GO!” McQueen and Min-Jun boxed her in lest she wandered away to do something other than accept their friend requests. “Eat! Then go!”

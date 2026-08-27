@@ -1,0 +1,229 @@
+---
+id: 7da602d8-3c0c-5dff-90b2-aa769c4f77d5
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 13 - Starry Starry Night"
+slug: 0024-chapter-13-starry-starry-night
+partOf: metaworld-hopecore
+position: 24
+ownLength: 2975
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368642/chapter-13-starry-starry-night"
+royalRoadId: "3368642"
+---
+
+"I am seeking. I am striving. I am in it with all my heart."
+
+Vincent van Gogh
+
+From CSULA, she took the Metro Silver Line to 6th and Main, skirting the old Pacific Electric building, now a series of high-profile lofts.
+
+There, she visited what she hoped was a surviving relic of both worlds, and she wasn’t disappointed.
+
+Cole’s French Dip, built into a classic buffet, looked like a 1900s museum. The French Dip wasn’t actually the dip now associated with biscuit condiments, but a bread dipped into a pan of savoury jus, topped with spicy pickles, salads and more. She ate a turkey on premises, then bagged the boeuf for supper with the jus in a separate container.
+
+Back at Main, she took the Trans-Continental 730 West-bound, standing shoulder to shoulder with tourists and locals watching the glass towers of the CBD fall away to the bright neon of Min-jun’s K-town, Beverly Hills, and finally, Santa Monica.
+
+It was 5 pm when she stepped onto Ocean Avenue.
+
+I really need to buy a car asap… Eppie checked her [Stamina] gauge and confirmed that the buses were indeed as exhausting as they looked.
+
+After a quick check of her belongings, Eppie Fontaine stepped onto the hot pavement.
+
+Wary of the ocean breeze’s effect on the cheap fabric of her Kmart summer dress, she descended the Californian incline with a hand on her hem, wearing the same Adidas runners Eric had scrounged from the costume department, keeping her other hand firmly held against her ill-fitted hat, on loan from Josefina.
+
+Santa Monica in August was heavy, golden, and hot. Thankfully, the Santa Ana winds kissed the coast, bringing a refreshing chill from the Pacific, setting the Mexican Palms to rustle and dance.
+
+From her vantage, the beach was more amber and pink than its usual hue of honey, stretching from horizon to horizon, punctuated by the smell of brine and highlighted by lines of white water rolling along the surf. Thanks to California’s electrification, the smog wasn’t nearly so prominent.
+
+Palisade Park was different, and yet the details were the same. There were the Tourists with the cameras and their I Heart LA shirts. The vendors with their overpriced hot dogs. The beach goers in their neon bathing suits, over-tanned bodies, and big, affable grins.The surfers that looked like they were living in a coconut oil commerical.
+
+With the pleasant moisture of the wind whipping her hair, she made for the pier. Past the threshold, the traffic faded, and the overwhelming scent of salt, fish, and deep-fried food pervaded the air.
+
+The Lana of the past had only visited the pier as a child once in her life. Her parents disliked the uncurated atmosphere and far preferred the walled garden of the House of Mouse. The only ride she had ever ridden on with her parents was the Ferris wheel, and even then, her father complained the whole way, albeit endearingly.
+
+Had Euphemia come here before? She found a space near the rails to admire the view. Did Euphemia have a parent who accompanied her here? Had Euphemia ever ridden on the Ferris Wheel?
+
+They were not questions she had come to answer, though they now weighed heavily on her shoulders as the inheritor of her predecessor’s karma. In 2007, prior to the area’s gentrification, there were still fishermen at the wharf. She watched the men fish, admiring their form as they cast perfect parabolic curves into the brimming murk. Below her, the dark green waters of Santa Monica rose and fell against the barnacle-encrusted pier. To one side, the skyline was beginning to glimmer.
+
+She walked a little farther, where the tourists were less dense, and found a spot on the very edge of the pier to sit, her legs dangling over the Pacific. From her canvas tote, she retrieved her water bottle and the boeuf sandwich.
+
+The bread had gotten stale from the crush and the transit, but that was what the jus was for.
+
+In tune with the screaming riders on the coaster, she soaked in the sun and the surf, then nibbled on her supper, taking small, measured bites like the minnow on the wharf, taking the moment to soak it all in.
+
+As a diffusing disk of light, the Californian sun sank into the ocean, distorting the ocean air to create a wavy mirage across the horizon. She was soon joined by locals and the tourists, cameras out, phones ready, trying and failing to capture the grandeur of a scintillating metal sea swallowing a mauve sky.
+
+She left before the pier grew claustrophobic, making for the water below.
+
+At the top of the wooden stairs, she stowed her shoes and socks in her tote and walked down the planks with a steady, rhythmic gait, keeping her body neutral and her spine lengthened, just as Dr Costello had instructed.
+
+Soon, the hot, dry sand kissed her soles. Finally, Antigone had descended upon the sandy battlefield of Archeon. Somewhere in the bean-green sea in front of her was another body, the phantasmal corpse of Lana Zacanissian, lost in an ocean of time.
+
+Eppie hiked up her skirt, exposed her thighs, then stepped past the waterline, one foot after another, into the white foam.
+
+The caress of the water was first warm and ticklish, then quickly cold and biting. This was the boundary, and she was a bride of death, standing at the mouth of a bottomless Pacific, her future as unknowable as its depth.
+
+The coaster’s screams faded, as did the human sounds of the pier above her and the city behind her.
+
+The currents gripped her toes, just as her toes gripped the sand, and the sand girted the shores of Santa Monica, whispering promises of a dream it could not cash. With every retreating pull, she sank deeper, inch by inch, swallowed by the suck of sand. She did not fight shifting sand. Instead, she adjusted her weight, every muscle in her body responding to her [Physicality], keeping her perfectly balanced as she channelled the ocean's energy.
+
+She frolicked in the ocean’s song, the snare drum of the foam, the double bass of the curling tide as it folded upon itself, the sharp flute of the gulls above, searching for wayward servings of fish and chips.
+
+Should one hold a funeral for themselves?
+
+Lana had no corpse, unlike Polynieces. But that didn’t mean there couldn’t be a dirge.
+
+A song came to mind. A eulogy and an epitaph for the life of an agonised painter, one appropriate for the occasion. In her old world, in a place of petroleum and light pollution like Los Angeles, there was no starry night to be mourned. There, the smog was her only canvas.
+
+But not so now.
+
+She began to hum—a delicate, rhythmic play on the lips, laying down the first strokes of midnight blue on a blank canvas, with each cascading note came washes of violet and indigo, speckled with flecks of tears in white.
+
+She was sublimating the [Sublime]. Her lips parted, and from between her pearly teeth came a swirling melody of summer hues.
+
+Muse Acquired
+
+VincentComposed and performed by Don McLean
+
+[SYSTEM MESSAGE]
+
+You have paid the necessary Causality.
+
+[Causality: 324]
+
+She ignored the notifications.
+
+She had thought Lana’s life was behind her, but now Eppie understood. There needed to be a send-off, even if she was the only one who understood.
+
+Her second verse, more confident now, was the burnished crimson of the sun-brushed beach, reflected upon the weathered face of an older surfer facing the sea for the final time.
+
+By the third verse, the water lapped above her knees, threatening to swallow her whole. Her melody grew breathless as the shadows of the city grew like long-torsoed cats, blurring the jagged edge of the pier on the sand.
+
+Her final chorus did not arrive because she suddenly lost her footing.
+
+Eppie Fontaine rolled into the surf like a doll, crashing into the white-gold silica swirling in the water. Spluttering, she fought the tendrils of the tide, her body streaming with quicksilver as her soul fought to box its ghost back into its shell.
+
+Then she was out.
+
+A pair of arms, powerful and strong and rough with light brown hair, tore her from the water, lifting her weightless body back to shore.
+
+“I am alright!” she called out, bewildered. “I am alright! I just lost my balance.”
+
+“You didn’t seem alright to me,” a gruff and resonant voice answered from above. “You stood there for like, almost an hour, Eppie!”
+
+On the still warm sand of the beach, catching her breath, Eppie wiped the wet sand from her eyes and tried to discern her rescuer.
+
+She saw olive eyes and an olive complexion on a very familiar face. Unlike when they met in the mornings, he wore overalls, though the man was now half-soaked. Her immediate thought was that the young man must be here to fish, until he helped her up, and she recognised the stains for acrylic and oils.
+
+“Ergh…” the man stomped the hard sand, grimacing. “My poor shoes.”
+
+They were Air Jordans. The shoes looked well-loved, and Eppie wasn't a collector of shoes, but she was a collector of many a fine thing.
+
+Her gaze followed the young man from his soaked lower half to his curls, to where hence he came.
+
+“Holy shit. Armand? You jumped from the railing? Are you alright? Why are you here?”
+
+“Before I tell you,” the art student, one of the first Seniors she knew by name from LAPA, pointed at her tote. “Is that going to be alright?”
+
+The bag was soaked, but she only had a leftover jus jar. And her shoes. And her phone.
+
+“FUCK,” Eppie pulled out her Sony. After a second, her device flicked into life. “Oh, thank God.”
+
+Armand laughed. “You want a towel?”
+
+“I would love a towel,” she looked up at her saviour like an expectant kitten. “Come, I got some up top.” The art Senior trudged back toward the boulevard. “I wanted to show you something as well.”
+
+As a drenched kitten, she followed her bedraggled lion, drawing pity, amusement, and a few intimidating gazes from those who saw the spectacle below.
+
+Evidently, Armand had a shop tucked away between a bait bar, an oyster bar, and a store selling Route 66 memorabilia.
+
+“You’re selling paintings?” She noted the stacked row of canvas, some on display, some reserved, and some half-finished. The tourist paint-stand, unsurprisingly, had a section that overlooked the pier, below which some idiot girl had recently fallen into the sunset sea.
+
+Her “senpai” rummaged through the half-open shed, then emerged with an enormous bundle of painter’s micro-fibre. “Here, this should work.”
+
+Eppie took the enormous bundle, then began to dry herself then and there. She set her shoes upside down, then worked the string of microfibre up her feet, from ankle to her thighs. Awkwardly, she wrapped the length around her waist to draw out the water, looking like a hula dancer.
+
+“You’re certainly not shy.” Armand was half-looking away, a courtesy their impromptu audience did not indulge. Suddenly, he lunged to stand between her and a tourist. "Bro! Don’t be a creep, man, what the fuck?”
+
+The painter snapped, not at her, but at a tourist taking a video of her trying to beat out the moisture from her diaphanous fabric.
+
+Faced with judgmental glares from fellow onlookers, the man skulked away.
+
+“Thanks, Armand.” She flashed the painter a look of gratitude and the crowd a winning smile. “I am very sorry you had to… leap off the pier and drag me out of the water. And I'm very thankful.”
+
+“Thankful is good,” Armand glared at the tourists. “Come, if you’re grateful, then tell me what you think about this—”
+
+At the edge of the pier was an easel with a mostly finished painting. At first, Eppie thought the painting had been a part of the coastline, but now that the sun had set, and it was illuminated by the pier’s faux daylights, she saw the image for what it truly was.
+
+It was Van Gogh’s Starry Starry Night, but in burnished hues of sunset orange and mauve, meeting a sea of reflected flames with a hint of neon from the pier. What was most impressive was how Armand had captured the impressionist movement Gogh was famous for through a seemingly impossible mix of deep ochre, cadmium, whiskey orange, which faded into the deeper grooves of Prussian blue.
+
+At the centre of the image, distinct yet indistinct, was the silhouette of a young woman, slim and white, the flaming waters about her lower limbs, breaking the swirls of surf. The girl in the image did not have strawberry blonde hair. The golden refractions were merely highlights, hinting at a darker mood. Together with the brushstrokes, there was an authentic, applicable flow to the image, one that could only be described as visual kineticism.
+
+Eppie felt her heart seize.There it was, her water burial, her very own Edna Pontellier, slow walking into oblivion.
+
+The Death of Lana Zacanissian
+
+With her mouth half-hanging, she looked to Armand, who looked pleased by her reaction.
+
+“I don’t usually paint this well, if you must know,” the man confessed, smiling heartily. “I was almost done with this one, then I saw you down there, and I thought it looked beautiful. You were standing in that water, waiting for the tide to rise. When I finally finished, I saw you literally get sucked-in by the next wave. So er… what do you think?”
+
+“It’s incredible, Armand. Just… incredible.”
+
+“Ya, so,” Armand scratched his thick mop of hair. “Do I have your permission to use your likeness?”
+
+“Absolutely,” she nodded, her eyes still on the image. “Is it for sale?”
+
+“That’s why I am here,” Armand blushed. “My uncle owns the souvenir shop, actually. I am here to make pocket money. Contemporary Oil is… not a cheap specialisation.”
+
+“Do you…” she fished out her soaked wallet. She was lucky that it was worthless polyester, and that its only use was housing change and her bank cards. “Do you take Mastercard?”
+
+“My uncle does strictly cash… for reasons.”
+
+“Ergh—” Eppie deflated. “Oh, and I er…”
+
+She looked at Armand’s savaged Jordans. “I want to repay you for that as well. Could you wait until tomorrow? I can probably scrounge up some cash. Getting back here is going to be an ordeal, but I really would like that painting.”
+
+“No need! Er… I drive. So er… Can I take this to your dorm next week? Oils take a week to dry. It’s not like I can sell it to you wet, ha!”
+
+Her heart swelled. “Amazing. How much?”
+
+Armand’s face was scarlet. "For you, sister? It’s free. It would not exist without you. This is fate, see? You drown, I paint. Far from me to question the Muse. What is it they say? En art comme en amour, l'instinct suffit.”
+
+Eppie gazed into her painter friend’s soulful brown eyes. The young man gulped. “I… can’t speak French…”
+
+The man looked physically in pain from the cringe coursing through his heart.
+
+“Good try though,” she gave him a playful punch. “No, seriously. How much?”
+
+“It's my gift,” Armand bowed, still scarlet from neck to ear.
+
+“Unacceptable,” she did not want to suffer from [Karmic Rebound], and a painting such as this was surely worth a hefty amount of currency. “Tell me what you desire.”
+
+Armand looked at her strangely. “Anything?”
+
+“Anything,” Eppie puffed out her very discrete chest, putting all her chips on the boy being, well, a boy. She was still very much waterlogged, and her cheap dress was still very much figure-hugging.
+
+“Then I want…” Armand’s eyes were bloodshot as he spoke. “The song you were singing.”
+
+The request was so out of the blue that Eppie had to do a double-take. “What?”
+
+“You were singing something. Starry starry night? Right? You were singing about Van Gogh. About how the artist suffered for his sanity. I know those colours you were humming. I could see them.”
+
+She looked at the painting, and she looked at Armand. She absolutely believed him, only she was singing about isolation, loneliness, solitude, and a genius investor drowned at sea, killed by folk who didn’t understand her…
+
+It was a fine request. She had paid her pound of flesh, and the song was now hers to let loose into a brave new world.
+
+“Is it a new song?” Armand’s face grew close to hers. “It sounded so sad. You know, I… er… looked into some of your work. Is it true that you’re the writer of Whatever Will Be? If the rumour from last term was true, then it was you…”
+
+“So that’s why you jumped down and pulled me out of the sea,” she found great comfort in the wisdom of knowing why this young man did something so irrational. “You thought I was going to kill myself?”
+
+“You stood in that water for an hour,” Armand gave her a stern glare. “What was I supposed to think? Also, you stood in the shadow of the pier. Most people can’t even see you there, not when the sun sets.”
+
+“Fair point,” Eppie reached out a hand and patted her artist on the shoulder. “Yeah, I got history, but that’s behind me. I was just… feeling sentimental.”
+
+She took the painter by his rough, warm hand. “Alright, I’ll sing the song for you at home.”
+
+“At home?” Armand looked at his hand in hers, using his eyes to punctuate the question mark.
+
+“Yeah…” Eppie shaped her face into her best impression of Puss-in-Boots. “Its’ 8 PM now, and if I don’t get back to the dorm by the 10PM curfew, Mama Josefina is going to be pissed.”

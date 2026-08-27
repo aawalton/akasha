@@ -1,0 +1,269 @@
+---
+id: cc7e1f22-bbea-5a5e-8ef9-8389d9adcf70
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 740 - Discussions and Weariness"
+slug: 0251-chapter-740-discussions-and-weariness
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 251
+ownLength: 3025
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3833794/chapter-740-discussions-and-weariness"
+royalRoadId: "3833794"
+---
+
+Tala had asked for her family to prepare for the next battle while she took Eskau Meallain and willed them through Ironhold and out, well beyond the walls of Bandfast.
+
+From there, they walked through lightly disturbed crops and past shattered defenses—both liberally sprinkled with parts and pieces of shattered automata—until they were out, beyond the outermost defensive line, into the area that was Bandfast’s mining district back when it was founded. Though, now, it was indistinguishable from the surrounding wilds save for its proximity to the gated human city.
+
+There, standing in the tall grass—which still remained on this side of the city—Tala drew them to a stop.
+
+Eskau Meallain had wisely stayed silent, and she continued to hold her tongue as Tala took several deep breaths, preparing herself.
+
+This isn’t foolish, the being is likely already watching, even if I don’t think about it very often.
+
+She gilded her resolve and straightened her posture just slightly before speaking.
+
+“Unknown Sovereign, I ask for your forbearance. Release the edict over Eskau Meallain that she may fight against the twisted agents of reality.” She didn’t shout. Instead, she purposely put her weight, her will, and her authority into each word, trusting that would be enough.
+
+After all, this particular Sovereign should be less than five hundred miles from her current position, most likely a lot closer. Moreover, he was the one monitoring Eskau Meallain, and in theory, Tala herself.
+
+She almost repeated her request again but decided to wait.
+
+Finally, a voice carried back to them, the elf’s eyes widening as it seemed to resonate from everywhere at once. “I will not interfere in this conflict, nor in the fate of Zeme. All will end eventually, and if this is the end of this world? So be it.”
+
+Tala gave a slight bow of her head. “I ask not for your interference. Eskau Meallain has worked toward the betterment of existence, just as you commanded. I do not ask that you free her from obligation. Please allow her to leave my authority in order to fight, even if such is only a temporary reprieve, and she must return thereafter.” Following an instinct, Tala added one last thought. “It is time for the heaviest restriction upon her to end.”
+
+A deep, resonant chuckle vibrated the very world around them. “The child thinks herself clever. Amusing… But very well. It is not my purpose to deny any the end that they choose. She may leave your direct control so long as she returns within one week’s time. If she does not or cannot, I will ensure her time on Zeme is at an end.” The tenor of the voice changed. “Do you accept these terms, elf?”
+
+Eskau Meallain only hesitated an instant before bowing toward the north. “I do.”
+
+“Then, it is done.” The ‘done’ resonated as the chuckle had, but somehow even more deeply.
+
+Eskau Meallain staggered slightly, almost as if punched, but she caught and righted herself before she’d moved more than a few steps.
+
+Tala, likewise felt an odd impact on her very self, something that she hadn’t even noticed before began shifting and lessening within her being.
+
+She narrowed her eyes, driving her perspective and focus toward the—
+
+“No.”
+
+The word slapped Tala upside the head.
+
+“You will not interfere with my monitoring, even to investigate how it is accomplished. Do not make me wipe the slate clean.”
+
+Tala straightened, iron in her very veins. She was Reforged. Her body was her own, not to be saddled with something from another. She would not be altered by any, and if this being, Sovereign or no, thought that—
+
+“Peace, child. You will be an interesting power one day, but you cannot oppose me now without depriving your little alliance of their greatest asset. I will point out that I have not altered your body one bit, and what I have done is no different than your spirit wearing a glove. You are offended; your irritation is noted; now move on, or I will move you.”
+
+Tala almost sank into the rising rage within her, but she knew that this being was beyond her. Even threatening him in return would be beyond foolish. Still, she might have pressed the issue, but she could feel that he hadn’t lied. He hadn’t changed any part of her in any way, and that lessened her irritation.
+
+Most importantly, she was tired.
+
+She deflated slightly, giving the smallest of bows. “So be it.”
+
+There was a minute ripple of authority. It was not a lessening of hers, or really a growing of the Sovereign’s, but it was a tilt of acknowledgement that she placed her own purpose, mission, and authority over her personal feelings.
+
+Strangely, it seemed that both of them benefited from that shift, if slightly.
+
+I… I really have a lot to learn about authority, don’t I?
+
+-That we do.-
+
+In that frame of mind, Tala felt the attention of the Sovereign slide away…
+
+She frowned. No… that isn’t right.
+
+She focused—being careful not to violate the command not to meddle—and realized it was a lessening, not a removal.
+
+Interesting…
+
+-You know, if he is Sovereign of the Void, or of endings…-
+
+He can’t be over such a broad concept, but I hear you. I would bet that the ending blade touches on his authority quite heavily.
+
+-More than that, it might be influenced by him and his authority, whether intentionally or not.-
+
+That… that made a good amount of sense.
+
+Eskau Meallain cleared her throat. “Thank you, Eskau of War. I do not mistake this for anything save the freeing of a weapon, but I am grateful nonetheless.”
+
+Tala turned to regard the elf and sighed. “You have been a benefit to me and mine, Eskau Meallain. You have been genuinely contrite for that which you did and caused, and you have an opportunity to put action to your beliefs and protect all those with blood.” She gave a half-smile. “I look forward to the destruction you will wreak upon our enemies.”
+
+The elf shrugged. “I was in the wrong. My masters would be ashamed by those actions—by my actions—and I will not fall in that way again.”
+
+Tala gave a singular nod and turned back toward Bandfast. “Come.”
+
+Eskau Meallain fell into step beside and behind her on the left side, a place of deference and support.
+
+The act drew a smile to Tala’s lips, but she decided not to comment, simply reveling in the slight buzz of authority that came from such a powerful arcane intentionally taking that position.
+
+As soon as they entered into the purview of Ironhold—a bit after they’d crossed within the outer Bandfast defenses—Tala willed them into the expanded space and then back out, arriving beside Mistress Holly and Mistress Jenna.
+
+The fiery redhead smiled tiredly at Tala. “Well, well. It’s good to see you, girl.”
+
+Eskau Meallain bristled slightly, but Mistress Jenna waved her down.
+
+“Hold your offense, you old hag. It’s no offense to notice a person’s age.”
+
+The elf growled. “Old hag? That isn’t meant to be offensive?”
+
+“Oh, that was, but calling our Mistress Tala, girl, wasn’t.”
+
+Before Eskau Meallain could respond, Tala held up her hand and sighed. “Children, please.”
+
+That caused both women to glance her way, eyebrows rising in amusing parody of one another.
+
+The duality brought a grin to Tala’s lips. “Let us all act our ages, shall we?”
+
+Eskau Meallain grimaced briefly, then gave a small bow. Mistress Jenna snorted but left the topic, her mirth falling away. “We have some dire news.”
+
+That sobered even the elf. Tala frowned. “What is it?”
+
+“The strike on Surehaven was… it was more extensive than we thought.”
+
+Tala felt the color drain from her face, her thoughts immediately going to another city, to her family. “Marliweather?”
+
+Mistress Holly interjected. “I found all the forces moving on that city, and they were countered well enough, but a large force of the new Black Legion Leshkin came through the Doman-Imithe and overwhelmed Surehaven in less than a quarter hour.”
+
+Eskau Meallain was incredulous. “What of your oh so powerful defenders?”
+
+Tala turned to Mistress Jenna, only to find the woman grimacing. “The City Stone holder, and the Reforged were diverted by… other duties, only joining the defense after the central scripts were shattered. They learned from their attack here and were brutally efficient.”
+
+Tala swallowed. “The citizens… their gates?”
+
+Mistress Jenna shook her head. “Hundreds were lost, but that’s all we know for sure. Once the main scripts were broken, all defenders turned toward evacuation. With the strongest fighters at play, the Black Legion is being held back while the citizens are evacuated.”
+
+Tala turned to look to the west. “Can we help? Do we depart immediately?”
+
+Mistress Holly shook her head, drawing Tala’s focus. “No. We need to end this, and now we have a true target.”
+
+Mistress Jenna interjected then. “It seems that we get to strike back. This time, hopefully taking one of their factories.”
+
+The war council hadn’t taken that long to agree to the proposed plan of attack. Mistress Holly had been correct, they would target the Leshkin spawning tree closest to the borders with the Pack’s forest.
+
+“Tomorrow morning… that is so soon.” Tala couldn’t keep the weariness from her tone. The news of another attack from the Legion—successful this time—and one that she couldn’t do anything about had stolen the last of her waning mental strength. It wasn’t a physical exhaustion, but she felt rung out, like butter left out on a too hot day, sagging and beginning to separate.
+
+Mistress Jenna grunted. “Yet it is also so very far away if we utilize our time properly. We can use every minute of help to return this city to the state it should be in.” Her countenance fell slightly. “And those who died in the defense will be sorely missed, their loss felt by more than those who knew them.”
+
+Tala knew the truth of that. The Cycling Cities were a well honed machine of magic and logistics, but a side effect of that was that there wasn’t really that much room for loss of the Mages and Archons that kept things moving.
+
+Mistress Jenna grimaced in clear frustration. “I will not be able to join the assault. There are too many other dangers to leave the city without its primary defender.”
+
+Mistress Holly snorted. “Nominal.”
+
+Mistress Jenna sighed at what was clearly an oft-rehashed argument. “Would you care to stand before the lower dome? To directly clash with the ones below?”
+
+Tala frowned. “What now?”
+
+Mistress Jenna waved her off. “Not your concern. Your Reforged duty was decided as opposing the Black Legion. Once they are dealt with, though?” The woman shrugged. “You might be told more. Now? It would just be a needless distraction.”
+
+Tala glanced toward where Rane was coming her way. “Rane?”
+
+He sighed, and Tala felt a minute flexing of his will and connection with her. It reached out and sealed the air around Eskau Meallain’s head to block sound and obscure vision to prevent lip reading or other means of circumventing his blockage. “All cycling cities have defenses against the magical and arcanous creatures of the deep. That defense is the primary responsibility of the Reforged, and the core reason why the few Reforged there are are rarely seen. It isn’t a heavy burden nor a truly constant threat, but two Reforged per city is generally considered wise as the probing attacks come sporadically and with little warning.”
+
+Mistress Jenna clicked her tongue in irritation, and Mistress Holly cackled. Mistress Jenna then rubbed at her temples. “Master Rane, you were explicitly told not to tell others about the lower defenses as they don’t need to know.”
+
+Rane shrugged. “And while I agreed not to bring it up, I explicitly told you that I wouldn’t obfuscate should Tala ask.”
+
+Tala grunted. “Well, that explains some of what I saw when Master Grediev let me use his City Stone, however briefly.”
+
+Mistress Jenna grimaced. “That man…” She took a deep, obviously calming breath, and let it out slowly before continuing. “Fine. So, you know. We won’t discuss it further, but I’m needed here.”
+
+Eskau Meallain had clearly had enough, because she reached up and a flick of power pushed back against the restriction. Neither Rane nor Tala tried to stop her, so it popped.
+
+The elf sighed. “Was that really necessary?”
+
+Rane opened his mouth to answer, but Tala spoke first. “I could stick you back in Ironhold?”
+
+Eskau Meallain hesitated, then gave a slight bow. “Thank you for doing what was needed to keep me out here.”
+
+Tala quirked a smile. “It was my pleasure.”
+
+Mistress Holly lowered her hands and turned toward the group. “I will not be coming either. My talents do not lie along the… combative.”
+
+Eskau Meallain snorted. “Tell that to the House of Thunder.”
+
+Tala frowned. “I do not know of that House, and I should if they’ve any prominence."
+
+Mistress Holly waved both comments away. “There is no longer such a House.”
+
+The elf grinned broadly. “That was my point.”
+
+Mistress Holly sighed. “The fact that a statue can crush a man does not make it an effective weapon, Eskau.”
+
+“If you say so, Inscriptionist.” After a moment, she added. “I don’t suppose you have any of your stamps that might work on automata?”
+
+Mistress Holly shook her head. “No.” She then turned to Mistress Jenna. “What of the inscribed or constructed solutions for automata or Leshkin?”
+
+Tala twinged a bit at that, remembering the threat of such against Lea.
+
+Mistress Jenna was non-plussed. “We tried both. The Leshkin ordinance is utterly useless, the new Black Legion nature negates the magics before they can disrupt their bond to the matter of their makeup. And the anti-automata weaponry?” She sighed. “In the past, we never actually engaged in full-scale warfare with the things. It was always skirmish clashes, and as it turns out, an army’s reality field negates un-linked magics too quickly for such to be very useful.” She gave a mirthless laugh. “Rust, linked magic is all but useless against an army, and that’s with the weight of the Mage behind it.”
+
+Eskau Meallain grunted. “They learned, and they’ve had dozens of centuries to consider and plan.”
+
+“Indeed.” Mistress Jenna shook her head. “But we are quite off in the weeds. The Constructionists are working on solutions, and speaking of them…” She turned to Tala. “Will you turn over one or more of those orbs to them for research purposes?”
+
+Tala grunted, knowing exactly what was meant. “Sure, here.”
+
+She gestured unnecessarily, and a red orb—shot through with roiling, molten clouds of golden light—appeared in the air right in front of Mistress Jenna. The woman’s eyebrows rose, and she started to reach for it. “They’re safe?”
+
+Tala shrugged. “I’ve no idea.”
+
+Mistress Jenna’s hand stopped, before she gave Tala a flat look. Her next utterance was more accusation than question. “Really.”
+
+Tala smiled. “So long as you keep it within your aura while you touch it, it should be fine for transport, but if you want to put it in a contained space, so much the better.”
+
+The older Reforged sighed, gesturing to an Archon who’d been waiting in the wings.
+
+The man pulled out a small box, practically glowing with enough power as to be visible to mundane sight. Tala cocked her head to the side. “A containment cube? You had one on hand?”
+
+Mistress Jenna smiled even as she closed the construct around the sphere of iron and reality. “I hoped that you’d give us one, and luck favors the prepared.”
+
+Tala decided not to press the issue any further. “Fair enough.” She stretched back and groaned. “Alright, I need to bathe and sleep. It seems that tomorrow’s going to be a big day.”
+
+Rane nodded. “Indeed it is. I’ll coordinate for us, get yourself a bit of rest.”
+
+Tala leaned over and gave him a quick kiss. “Thank you, love.”
+
+He smiled back. “Of course. You’ve had a harder day than I.”
+
+Tala blinked a few times then sighed. “It has only been a day… hasn’t it…”
+
+Rane nodded in clear sympathy.  “Indeed.” After a moment’s thought, he held out his hand, willing a mug of coffee into it even as he stretched it out toward her. “To tide you over.”
+
+A smile blossomed across her features as she accepted, immediately taking a long pull from the dark liquid. “Thank you.”
+
+He watched her with obvious care for a long moment before turning to the two older women. “Is there anything that I can do to assist before we depart tomorrow?”
+
+Mistress Holly gestured toward Mistress Jenna. “I’ve no idea. Ask her, or better yet, find Mistress Elnea.”
+
+Tala yawned again before taking another long drink. “I think I really do need the rest.”
+
+He turned back and gave her a quick kiss in goodbye. “Go. I’ll be fine.”
+
+She nodded once and willed herself into the sanctum.
+
+Tala appeared in her bedroom, feeling the sudden weight of silence, the weight of all that had happened… the weight of loss.
+
+So many had died that day, yet it didn’t feel real.
+
+She snorted at that.
+
+Real was exactly the right word for it, as it was things twisted by reality that had brought this about.
+
+She stripped and slipped into a perfectly luxuriant bath, summoned by her will.
+
+Tala let out an almost involuntary groan and sigh of contentment as the heat permeated through her.
+
+As a Reforged, she could manually relax all her muscles, and soothe away most aches and pains, but there was just something about the natural methods that was superior.
+
+She sat up only briefly to drink more coffee every once in a while, otherwise, taking the time to just be.
+
+After all, tomorrow was another day, and tomorrow would host at least one more battle, and likely, there would be many more who fell.
+
+Some casualties were unavoidable.
+
+She shouldn’t feel too distraught.
+
+Such was the reality of war.

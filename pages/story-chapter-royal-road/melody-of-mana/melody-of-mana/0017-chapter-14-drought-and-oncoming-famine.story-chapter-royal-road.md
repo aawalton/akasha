@@ -1,0 +1,181 @@
+---
+id: 6164d651-6ffd-59cd-ae9e-c4c3250f4c28
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 Drought and oncoming famine"
+slug: 0017-chapter-14-drought-and-oncoming-famine
+partOf: melody-of-mana
+position: 17
+ownLength: 2759
+unit: words
+ownProgress: 2759
+publishedAt: 2021-06-29
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/707649/chapter-14-drought-and-oncoming-famine"
+royalRoadId: "707649"
+markedReadAt: "2026-06-29T22:26:50.562Z"
+---
+
+We were struggling. There was no way around it as the first day of summer hit. The food was... me for the most part. Several had killed dairy animals and even a portion of their breeding stock. The forest was being picked clean. Even our cave was empty of mushrooms; someone else had found it and picked it dry.
+
+By this time I'd been forbidden by my mother, something backed by both brothers and every adult in town, to join the foraging parties. If something happened in the forest and I couldn't make any more food, the hamlet might fall.
+
+Every day I woke up, cast until I had only enough mana for an emergency, rested, then cast again. This was repeated as many times as it could be any given day, and mother had asked me not to cast anything except my bread spell. I did a bit of studying between castings, and some spinning, but my heart wasn't in it. I needed breathing room, and there was none.
+
+Worse still, spring had been low on rain. Our crops were surviving, but we were still going to be under production. When I looked out, the fields were too sparse, and too brown.
+
+My brothers had taken to leading the foraging parties. Said parties were getting more armed and territorial. That too was a powder keg from what John was telling me. Though there had been no spotting of bandits in a good while. Seems they had the good sense to evade the forest constantly patrolled by soldiers and bands of angry, ravenous, armed youths.
+
+It was about ten days into summer that I had visitors. I recognized some of the older men, there were four, along with Orin, Rosk, and Mayor Malke. They asked to speak with me, my mother of course joined in, along with an old man who was as I understood it, the eldest in our hamlet.
+
+"I had hoped we might speak to young miss Alana's mother privately.." the mayor began.
+
+"And I've been hoping you'd find a cliff and throw yourself off of it." I cut him off. I had had a horrid couple of weeks, and quite honestly he could fuck off.
+
+Everyone else frowned at me, though a few only half-heartedly.
+
+It was Rosk who spoke. A wise decision in that of those here, my opinion of him was the highest. "Alana this is a formal meeting, kindly remain civil."
+
+I grumbled my consent to his request.
+
+"The situation stands like this. The village, and all of it's hamlets are on the brink of starvation." Orin began, "I know it is a lot to ask of you, but the amount of food shared from this hamlet has decreased substantially. If some of your bread could be diverted it would be a great help."
+
+"That is not an unreasonable request," I began. There were several smiles from our visitors. "Unfortunately it is not a feasible one."
+
+"Why not?" Orin replied. Rosk looked curious as well. The elders gave tired looks.
+
+"You are not a farmer, nor was your family I would guess," I told the officer.
+
+"I don't see what that has to do with anything. Please explain."
+
+"In the winter we are mostly idle. One can't farm in snow as far as I know. During this time little food is needed. A lamp that is kept low needs little oil yes? But if it is kept bright it requires more."
+
+Rosk was the one to try this time, "That may be true, but you were providing enough for two or three of the hamlets. Certainly you could provide some aid."
+
+I sighed, "A man idle requires around a third of what a man engaged in hard work needs. There aren't many men, but it holds true for our workers here."
+
+The priest considered this point for a few moments. "Can you find any leeway? Perhaps if you managed your casting carefully?"
+
+"I am already doing so Rosk. I'm currently stretched to the limits on what I can do, and there is no leeway."
+
+"You can't just refuse to help us!" One of the old men shouted, standing.
+
+"Our people are starving too, you can't do nothing!" Another agreed.
+
+"Nothing!' I roared, "NOTHING?! YOU came here to ask for aid. The situation is simple, I cannot divert my magic towards you or my hamlet will STARVE. If they decide to divert a portion of their bread that is fine with me, but I WILL NOT force them to do so." I took a breath letting my aura flare, much to Rosk's surprise. "YOU asked if there was spare, THERE IS NOT. YOU asked if I could cast more I CANNOT. What you haven't done is give a single idea within those bounds. Do that and I'll help all I can." I was raging, "And while you ungrateful bastards try to come up with some idea, remember that I fed you and your families over the winter and asked for no payment in return."
+
+"Calm down dear, and sit back down." Mom pushed lightly on my shoulder to return me to the seat I hadn't realized I'd left. It took me a few moments to get my hands to stop shaking.
+
+The mayor, in a great act of foolishness began to speak. "Tantrums such as these..." Before Commander Orin's hand locked on his shoulder like a vise. "She's not wrong here. Let's see if a proposal can be made." It was a polite way of telling him to stop talking.
+
+Both Orin and Rosk kept their eyes locked on me. The smart men in the room knew the kind of things an incensed mage could do.
+
+"Then let's brainstorm something, what do we have?" Rosk looked towards the other men.
+
+"The funds and stores of the town are for most practical purposes empty, tax revenue has been almost nothing for a couple of years now, and the cost of hiring a priest drained us down to less than five gold." The mayor went first, offering nothing.
+
+Several of the village elders listed off what few assets had survived the years of bad times, it wasn't much.
+
+"What about the honey?" One of them asked.
+
+"That could keep us going for awhile, but it won't be enough to make it through to harvest." Our elder responded.
+
+"What if we sold it?" I asked.
+
+"Nobody around has spare money for sweets." The mayor replied, looking condescending.
+
+"There are nobles in Hazelwood, they might."
+
+"That much food in one shipment will be a target."
+
+"A few of our boys could go, we'll get them spears." One offered. It was echoed by all, even the mayor.
+
+The old men talked like this for awhile. They came to the conclusion that they just needed to make it until they could sell that one good, and it might be enough.
+
+"We just have to make it until the honey is ready then. Alana is there truly nothing?" It was our old man who asked this.
+
+"I am at my limit, no more can be made. You can ask some of our neighbors to give a portion of their food if you want. I'd be willing to give a bit of mine."
+
+"No, you will not." Mom nixed that offer. "You'll eat every bite of your allotted amount."
+
+That got a bit of grumbling. Which was silenced by a single glare. "You ask too much of a child. If you continue to ask you shall receive nothing more. I will see to that." Mom wasn't as strong as my father was, but she could be quite scary.
+
+"Amara, please be understanding..." The mayor tried to speak again, and again quickly understood his input was unwelcome with only a glance.
+
+"Mayor Malke, the only reason the men left in this town haven't torn you to pieces and hung you from the palisade is that there are too many soldiers around. This war will end though, and when it does sons and husbands will return to see what a mess Orsken has become. Were I you, I would flee before that happens."
+
+The mayor paled. He'd always been a bit incompetent, sniveling to those stronger than him, a bully to those weaker. His true crime though had been siding with those that had locked us in. Not one member of this village would overlook that; it had caused too much pain and fear. I doubted he'd thought of that when he did it, but he had committed that betrayal. He had failed to fight for us when we were our weakest.
+
+I don't know if any man could come home to find his mother, sisters, his wife, or children starving, all telling him who was responsible, and let that man live.
+
+Orin would need to flee too. He was not as malicious, and he had some traits I admired. All that was irrelevant when he became an enemy.
+
+Mom stood, taking me by the shoulder. "It sounds as if you have things worked out. Since you've no further need of my daughter, we are going home."
+
+I left with her. Nobody tried to stop us, or even call out as we went.
+
+It was several weeks until the honey was ready to be taken. Several men and women (mom included) opted to give a portion of the bread that had been going to them instead to the other people of the town. They had also absolutely forbade their children from doing the same. I was even watched while I was eating, to make sure that I didn't short myself any.
+
+Rod was told that he would be going with the shipment, and hopefuly return supplies because he was the older and bigger of the two.
+
+John was told that he would stay with me for the duration in case our idiot mayor tried anything else because he was the better fighter.
+
+Both felt that they had gotten the better end of the deal due to stroked egos. Teenage boys could be wonderfully easy to manipulate sometimes.
+
+None of Orin's men, nor the soldiers passing through would be going. It would go against their orders, and they wouldn't get anything from it anyway. The same reason Rosk stayed. He at least would have been welcome.
+
+I slept poorly while they were away. There was simply too much going on, too many needs pulling at me for me to rest properly. The whole trip took nearly a week, and when they returned we saw their results.
+
+The results were good. The honey had managed to bring a good price on the market, and the men negotiating had managed to find someone who was willing to sell them some grain and fish. They were not great, in that we still got far less than we would have managed to from a normal run. It was enough that if we kept doing it throughout the summer we'd at least make it to winter.
+
+I did not envy the people who'd have to deal with distribution of the grain that was gotten, or the endless arguments over who got what and who contributed more. Those discussions could only end in more anger at one another.
+
+I counted myself lucky that I had no place in those incoming arguments. I didn't want any anger directed at me or my family. I also regretted that I was not part of those incoming arguments, because I was of the firm opinion that our best leaders had all been called off to war.
+
+While our food situation was presently manageable we had other pressing problems. Namely that by midsummer the rain was still well below where it ought to be. This was a slow burning issue, there was enough so that the crops weren't outright dead, but they were certainly suffering. The water levels in the wells were also suffering. The little creek in the forest was dry according to my brothers.
+
+In any other year this would have been something difficult to overcome. This was not a normal year. Our stockpiles were gone; too many years had passed where too many workers were missing. There was no safety net to fall into, no backup of stored food or funds with which to purchase it.
+
+If the harvest failed...
+
+If the harvest failed this village was doomed. No amount of pushing on me or anyone else would solve it.
+
+A few people had the straight audacity to ask me if there was anything I could do about the lack of rain. I resisted the desire to throw things at these people, barely. I then had to admit that it was 'possible' to make a rainstorm, in theory. I crushed their building hope by explaining how much of my time and mana would go into trying to just learn to do that properly. The real questions were, if I stopped making food to learn to make rain could I learn to make rain before half of the village died of starvation? Even if I did, did I have enough mana to keep people from starving to death while watering our fields? The answers were a resounding 'no'.
+
+Even with what we were getting from the city runs it wouldn't be enough. Added to that was that every indication was that the Ermathi armies were moving to the eastern borders of our region. It was all too much. One day just a couple of weeks before harvest I broke. I'd just made a load of bread and it was being carried off to it's intended recipients. I was cleaning a pot, just a stupid pot, and I began to weep. I fell and leaned up against the wall of the house and just bawled. I cried and cried until eventually Rod found me and picked me up.
+
+"What's wrong!? Are you hurt?"
+
+"It's... not.. enough." I spat out between sobs.
+
+"What isn't?"
+
+"The food... this harvest is too small... I can't do enough... the village will starve over winter... it'll be slow and there's nothing I can do about it!" It all came out at once. It was all sadly true.
+
+"Shh, it's gonna be okay." he carried me over to my bed and held me, rocking me back and forth, "It's going to be okay Alana, just hold out a little longer and your big brother will take care of everything." I didn't see how that was possible, and just kept crying, curled up in his arms.
+
+He held me until I'd cried myself to sleep, then put me to bed. At breakfast mom told me he'd let the last group of delivery people know I'd passed out and couldn't make anything for them. John came to join us followed shortly after by Rod once they'd finished their morning chores.
+
+"I'm going to forage today, got a new spot that I think will give some good stuff." Rod declared.
+
+"Great, I'll come with." John perked up.
+
+"Actually I'd like you to head over to Creekrun and pick us up some fish, I think we could all do with a good dinner." He passed over a handful of coins to his younger brother. "You're a bit faster than I am, so you should be home for dinner no problem." Rod added on, smirking.
+
+He wasn't wrong, John was faster. He would be faster still soon. The flashes of aura popping out were almost constant now. I was expecting it all to push it's way out any day now.
+
+"Alright, sure." John agreed easily. I wondered if he'd run the whole way there and back.
+
+John headed out with haste to his task as mom left on her morning chores.
+
+"Thank you Rod." I hugged him. I knew he was going through all of this nonsense just to make me feel better.
+
+He ruffled my hair and kissed the top of my head, "Okay, gotta go. Behave yourself now okay?"
+
+"Okay!"
+
+With that he ran off.
+
+My day after that was quiet and relaxed. I was still really worried, but having something to look forward to gave me what I needed to keep going. I worked through my daily tasks with vigor, feeling more energized than I had in months.
+
+It was late afternoon when someone came to get me. There was some commotion and apparently I was being called for.
+
+What I saw when I got there took all words away from me. I dropped to my knees as I looked upon it.

@@ -1,0 +1,109 @@
+---
+id: 53cc0e96-ee7b-5e8c-915a-bf67997a3042
+page-type-slug: story-chapter-royal-road
+title: "Chapter 254 Consultation"
+slug: 0268-chapter-254-consultation
+partOf: melody-of-mana
+position: 268
+ownLength: 1449
+unit: words
+ownProgress: 1449
+publishedAt: 2023-07-19
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1282384/chapter-254-consultation"
+royalRoadId: "1282384"
+markedReadAt: "2026-06-29T22:35:04.480Z"
+---
+
+When the time came and the signal was given I stepped forward through the portal. The world around me stretched and it took a brief time, but I emerged out the other side perfectly fine, if a bit disoriented. There was a definite lag between one side and the other, and it was super weird.
+
+The room I was in was empty and blank, all white with light coming from seemingly everywhere. I couldn't even be perfectly sure where the walls were as I looked around, since it all just blended. I started to move forward cautiously when a bubble popped into existence around me and I shifted again.
+
+The second teleport was worse. It was worse then the portals I used for personal transport, though I had to admit those had improved markedly. At least there was no visible disturbance in the space around me as I reappeared. This time in a slightly more comfortable room, Justin's den.
+
+“That is disorienting,” I commented as the ancient mage made his way into the room from, wherever he lived, and sat down, motioning me to the couch opposite.
+
+“I assume this isn't just a social visit, given how many times you tried to activate the portal,” he said calmly, leaning back a bit.
+
+“Yeah, it isn't. I ran into something awhile back that spooked me nastily. Hoping you might have a way to prevent it from happening again, or at least advise on it.”
+
+He raised an eyebrow at that. “While I'm rather fond of our people in a general sense I feel the need to express that I am not at your beck and call young lady.”
+
+“I never meant to insinuate that you were. If this weren't serious and something that I thought you'd understand I wouldn't be here. It involves the portals,” I explained. Justin was nice enough, but I got the feeling that if I bugged him about trivial nonsense that might end, at least if I didn't come prepared with something funny, as he'd found one of my predecessors fun, or so he'd told me.
+
+“All right, let's hear it then,” he declared.
+
+I launched into the story of how one of our portal makers had been captured, and subsequently tortured into making several for one of our enemies. How she'd done so, but left off even the most basic of safety measures, and my tests that followed.
+
+As I ran over the tests I attempted I could see his eyebrows furrowing, and when I got to the rail-gun attempt I thought they might well meet.
+
+“The potential power of a weapon like that isn't to be underestimated. I do hope you didn't destroy anything important.”
+
+“Not as such no, though the explosion was pretty impressive. The weapon didn't function at all, as a point of fact it did... something, to the space around it that was quite energetic. I was then left with what I could only describe as a distortion on a massive scale,” I answered.
+
+“I'm aware that spatial magic, if improperly cast can have effects on the area, but those tend to dissipate on their own, and not be too bad. What were the measurements on it?”
+
+I brought out and handed over a notebook. I'd long since gathered up all the estimated sizes for this, and organized them into something concise.
+
+“There were more distortions in the area than I realized when it happened, from the other experiments. It cascaded through them, even though it looked like they'd all closed by the time I did it.”
+
+“Those residual effects seem to disappear, but they really just shrink. The rate is logarithmic,” he said, flipping the pages as he spoke. “They do seem to eventually hit zero, or at least lower than any detector I've made can find. I like your notes by the way, if not what they say.”
+
+“What do you mean about the rate?” I asked.
+
+“The smaller they get, the longer it takes for them to shrink. Goodness is the size of this crater right? It would take something the level of high explosives to do that.”
+
+“Of course, though that was the smallest of the issues. The gate disruption area was enormous, and then there was whatever was looking at us as I tried to fix it,” I explained.
+
+“The last page, what do you mean about something outside? Outside of what?” he asked.
+
+“Reality as far as I can tell. Justin I felt something, something, I don't know, terrifying, absolutely terrifying, like it was trying to look at us, and, and.” I shivered and rubbed my arms at just the memory.
+
+“That isn't something I can really quantify. You're sure about it as well?” he said, rubbing his chin.
+
+“I wasn't the only one who felt it, though I think I got the worst of it, being the center of the spell and all. I'd rather you not try to repeat the experiment, because I got the feeling that if things had been just a little different, something horrible would have happened,” I asked him as low as I could, knowing how many scientists would always repeat things.
+
+“I'll abstain if you say it was that bad. Also have to think about how to stop this from happening again. You have the stone still right? The one I gave you?”
+
+“Locked in a vault, and all of our current portal makers are accounted for under my supervision. I managed to get that right at least,” I answered.
+
+I couldn't actually open the vault on my own. It had originally been keyed to Durin himself, but after his death we'd managed to crack it. Mystien and I had successive layers to keep it, and a few more nasties, locked down tight.
+
+“Glad to hear it. I'll need to run some numbers. It could take a few weeks, but not more than that.” As he finished he handed me back my notes.
+
+“Don't you want to keep them?” I asked. “I did make this copy for you.”
+
+“Elves have an eidetic memory. Well, pure blooded ones do at least, it lessens as more human blood is brought in.”
+
+“That is completely and utterly fucking unfair,” I said.
+
+That earned me a chuckle. “It is isn't it?”
+
+It did indeed take him a few weeks to get back to me, and after another series of teleports I found myself in a slightly different room. This one with a number of chalkboards, all covered with math that was so far beyond me it slightly hurt.
+
+“This is one of the most interesting problems I've ever seen young Alana, and I've seen a lot,” the ancient magus said as he sipped some tea.
+
+“Any idea what happened then?' I asked.
+
+“Yes, you made ripples in the area outside of this universe. Not something I even expected to be possible, I'm impressed,” he answered calmly.
+
+“So, what's out there?” I inquired.
+
+“Nothing, or at least there should be nothing.”
+
+“Well there's something,” I said.
+
+“Allow me to explain. There is nothing, no matter, no known energy, there isn't even time and space out there. All of those concepts fall apart when we talk about things outside of a universe. If there is something, it is so foreign to what we know as real that it would be like magic all over again, only worse, because it wouldn't be native to the world. I can't express well how much anything outside of a universe really does not relate to us in sensible ways, completely outside most of what we consider as conceptually possible.” He shook his head as he looked at the equations.
+
+“Our previous world didn't have magic,” I said.
+
+“Oh I suspect it did, only limited or somehow repressed. Not sure why or how though, and it doesn't matter. I'll figure it out when I get back. For now though it is clear that there are some large issues with the current portal structure. Can you guarantee that no more are being made?” he seemed concerned.
+
+“I've shifted all of our research into tracking and cleaning up the residue, so yes. The gates are completely off of production. Why?”
+
+“Because clearly they shouldn't be made at all. I need to find a way to make sure this doesn't happen again or permanently stop their production, perhaps both.” That last bit sent my hair up.
+
+“It sounds like you''re considering hurting my people,” I said cautiously.
+
+“I briefly did, killing all of you would be expedient and solve the issue quite cleanly. It would cause all kinds of others though, ones that I don't care to.”
+
+That was only barely comforting.

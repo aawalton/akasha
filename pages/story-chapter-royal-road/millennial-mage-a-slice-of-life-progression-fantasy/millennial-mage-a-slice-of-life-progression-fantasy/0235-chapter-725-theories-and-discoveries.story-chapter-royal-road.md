@@ -1,0 +1,229 @@
+---
+id: 8df3936b-76fc-5b7d-a916-56bf9c853898
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 725 - Theories and Discoveries"
+slug: 0235-chapter-725-theories-and-discoveries
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 235
+ownLength: 2320
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3648134/chapter-725-theories-and-discoveries"
+royalRoadId: "3648134"
+---
+
+Tala willed herself and Rane to a small clearing and found Lisa already waiting for them at a small table with two empty seats situated across from the fox-kin.
+
+A steaming pot of tea with three cups rested on the table, and Lisa had a contented smile across his features. “Welcome. To what do I owe the pleasure?”
+
+Tala and Rane sat, but before Tala could ask anything, Rane interjected. “So, I have to ask. Do you just sit in mysterious anticipation whenever you’re alone?”
+
+Tala glanced at her husband, not even trying to hide her humorous half-smile.
+
+Lisa chuckled. “In a way? I suppose you could say that, yes. I have a library within my mind, a carefully created catalogue that I can sift through at my leisure, and I find doing so with tea to be quite relaxing. To an outside observer? Yes, that could look like mysterious anticipation.”
+
+Rane grunted, starting to pour some tea. “And the two chairs and three cups?”
+
+Lisa’s smile widened, showing its vulpine nature. “I have two friends coming for tea.”
+
+Rane stopped, mid-pour. “Oh… I…” He cleared his throat in clear embarrassment. “I just assumed…”
+
+Lisa nodded. “That the chairs and cups were for you?”
+
+“Yeah…”
+
+His smile somehow widened further. “That’s fine. They are.”
+
+Rane’s apologetic expression fell away, and he gave the fox-kin an unamused look. “Really.”
+
+“Of course. Your wife notified me that you were coming but a minute or two ago. That is why the tea is not yet properly steeped.” Lisa gave the half-poured cup of weak tea a meaningful look.
+
+The large man sighed. “I… I’ll just sit and listen.”
+
+Tala patted his shoulder. “You are a rather good listener.”
+
+He gave her ‘Really?’ look before he sighed again, willing himself a small cup of coffee from elsewhere in the sanctum. When Lisa arched an eyebrow Rane simply responded, “To keep my mouth occupied until the tea is ready.”
+
+That brought another chuckle from the arcane.
+
+Tala shifted in her seat, drawing Lisa’s focus once more. “Is the magic we use dead?”
+
+Lisa arched an eyebrow. “Straight to business then, I see? Very well.” He shifted slightly before nodding. “That’s not a theory I hear bandied about every day, despite all the evidence for it.”
+
+“So, it’s true?”
+
+“It comes from the next world, does it not?”
+
+“Yeah.” She grimaced. “Well, I suppose that does make sense.”
+
+Rane tilted his head to the side. “Wait. Does that make all Mages necromancers?”
+
+Both of the other two at the table looked at him, eyebrows rising.
+
+“Right… Sorry…” He took another sip of his coffee.
+
+Tala grunted, turning back to Lisa. “He’s right in a sense, if it is dead magic. But we generally define necromancy as being soul manipulation.”
+
+Lisa nodded. “That is a good definition, though I will say that it is usually caveated as the manipulation of others’ souls.”
+
+She nodded in turn. “But back to the topic. Am I understanding you correctly: Magic is dead?”
+
+He sighed, shaking his head. “No, that’s a silly question.”
+
+She frowned. “How so?”
+
+“Your father is dead, isn’t that correct. And your mother?”
+
+Tala pulled back at the seeming sudden topic change. “Yes?”
+
+“Does that mean that ‘parents are dead’?”
+
+“Ahh.” She took the cup from Rane—which he lent her readily—and gulped it down before willing more into it and handing it back. “So, the magic we use is dead, but that doesn’t mean ‘Magic’ as a whole is dead.”
+
+“Indeed.”
+
+“Why is the magic in world-fragments dead?”
+
+He paused for a moment, lifting his hands and laying them palms down on the table. “That is an insightful question.”
+
+There followed a long moment of silence.
+
+Finally, he sighed and continued. “World-fragments… They are like a meticulously reconstructed corpse, or more accurately, they are that but of a very small portion of the body. Without the whole body—or at least a good majority—it cannot be said to be alive, nor can it be made so. As such, it is expected that all that is within would be dead or a mere mimicry of the live once there.”
+
+“The Black Legion is creating a region devoid of dead magic, and there is some living within.”
+
+Lisa let out a long breath then. “You are causing many sighs today, Mistress Tala. It is inarguable that what they are working on would benefit the world as a whole, but the sapients who live upon it? There is the issue.”
+
+Tala frowned, but waited for him to continue.
+
+“How many lives would it be worth to ensure a better future for everyone who survived and all their descendants?”
+
+“That’s a trap of a question if I ever heard one. Because the answer is both as many as it takes and none at all.”
+
+Lisa gave a half-smile. “Well said, but please elaborate for the sake of the discussion.”
+
+“If we are fighting for the survival of our species, our way of life, or something similar it only makes sense for as many of us as is required to lay down our lives to bring about victory.”
+
+“But?” The fox-kin prompted.
+
+“But, if it’s something more nebulous? Like, ‘If we kill these people, their genetics will no longer make the rest of us ‘lesser’, so it’s okay for them to die.”
+
+Rane grimaced, nodding in agreement but not speaking.
+
+“In that vein”—she continued—“there have been those who thought all Mages should be killed—actually all gated—to remove the abrasion on reality. The Black Legion is obviously among that group.”
+
+Lisa caveated slightly, “Removed or enslaved and locked down, but go on.”
+
+She sighed. “Those looking at the stars have campaigned to remove people from around them to reduce light pollution and make their work easier, but that’s obviously not killing anyone, so it’s not quite the same.”
+
+“Indeed.” Lisa nodded. “I see you’re starting to grasp at straws, so let me fill in the rest. What about purposely starving a portion of the population to allow those who are left to survive in a food crisis?”
+
+“If everyone would die with even distribution? Then I could see the argument, but I wouldn’t want to be the person to choose who lived or to execute the decision.”
+
+Lisa nodded. “What about keeping people from getting resources because it’s damaging to the world as a whole, or the only means they have is so damaging.”
+
+“You could give them greater means?”
+
+He huffed a laugh. “Those without greater means are rarely able to make good, enduring use of such, but yes, that is one temporary solution. Resources could be poured into that in order to try to shift them as we want.”
+
+Tala frowned. “I… I think I lost the thread. What are you driving at?”
+
+“The Black Legion does not like the means we use to survive and make our way in the world.” He hesitated then amended. “Well, they actually have no direct issue with me as I could function on ‘living magic’ as you call it, but I believe the world is better as it is than as it was.”
+
+Her frown deepened, but Rane gasped, his eyes going wide. “We killed magic. That’s… that’s what broke the world?”
+
+Lisa glanced at the kettle in the middle of the table. “Ahh, it’s ready.”
+
+Rane’s eye twitched as Lisa carefully poured tea for each of them, the half-measure of weak tea in Rane’s cup vanishing before it could dilute the properly steeped measure. They each took their cup and sipped deeply. Tala and Rane thanked the fox-kin, and the latter held himself back from overly aggressively insisting that Lisa answer.
+
+Finally, Lisa seemed satisfied. “That, Master Rane, is one of the prime theories, yes. Even so, it is one not often spoken of because it cannot really be proven one way or another.”
+
+Rane grunted but didn’t interrupt.
+
+“Using living magic is… inconvenient.” The fox-kin chuckled. “That’s an understatement, actually. It is akin to trying to carve a statue from an earth elemental, if you’ve ever met one.”
+
+Rane grimaced. “That sounds… not likely to work?”
+
+“Indeed.” Lisa took a sip. “All such workings with living magics are, effectively, bargains and deals. Living magic is not sapient, but it is sentient and able to be incentivized to agree to binding deals both short and long term. That said, it does not like the longer term. It hates to be tied down, so the longer any agreement is to last, the exponentially more… costly it can become.”
+
+Tala clicked her tongue. “Hence fox-kin obsession with such things.”
+
+“Indeed.” Lisa nodded. “We trace our culture back to a time when living magic was far more prevalent, and our history indicates that we were to train others in such.”
+
+“Your purpose as a species.” She said, understanding.
+
+“Indeed.” He took another sip. “My guess is we succeeded in at least one instance, and that… person bound all of magic in such a way that it either died—causing the world to break—or broke the world—causing magic to die. In practice, it amounts to the same thing.” He shrugged. “Though, I have found some texts that seem to indicate that dead magic was in use for quite a time prior to the ending of the last world, and if that is the case, my own pet theory rather falls apart.”
+
+Rane smiled. “I suppose it’s good to hold your theories loosely.”
+
+“Quite.” Lise gave a self-satisfied smile.
+
+Tala leaned back, considering.
+
+Rane set his own cup aside and asked a rather pertinent question. “Shouldn’t our world have a mix of living and dead magic?”
+
+Lisa nodded. “It should, yes. This is one means of argument against the dead and living view of things. I speak of not liking, and deals, and sentience, but most if not all could also be described as an element of chaos and a more metaphysical nature. In that way, what I believe to be ‘dead’ magic could simply be magic that has been forcibly aligned to a certain set of behaviors, the chaos stripped away so that it acts in a more sedate manner. In that case, new magic produced even from previously ‘living’ sources is simply aligning to the nature of the magic around it, slotting in and simple being.”
+
+Rane swallowed. “But if it is alive, then it’s dying as soon as it comes into being…” He frowned. “Wait, but magic doesn’t have a soul, how would it even get to the next world?” His frown deepened. “And we know there are natural sources of magic, and they still add to the ambient, so ‘dead’ magic doesn’t just go to the next world.”
+
+Lisa’s smile grew. “Yes. Good. You are asking the right questions. There have been many debates on this topic, including what it means for various things to be living vs. dead. It might be that the magic we have is ‘brain dead’ in one form or another, and only when it is used does it truly die. It might be that the magic of Zeme and the magic of the next world are just cousins of a kind, with the nature of the latter being able to transform the former to match it.”
+
+“So, it is possible that they are different?”
+
+“Of course.”—he took another sip—“A core reason for the theory about dead magic is that our current magic mostly comes from the next world.”
+
+“But that aligns with other options.”
+
+“Indeed.”
+
+Rane grimaced. “So… we don’t actually know.”
+
+“Of course not, but given magic acts and affects things on a more metaphysical level, what matters most is that side of things. How it appears and how we think about it.”
+
+Tala finally interjected once again. “And this is how the Black Legion sees things. Thus, their imposition upon reality is reflecting that.”
+
+The fox-kin smiled once more. “Exactly.”
+
+“And it has some truth to it.”
+
+“Of course, in the sense of there being some reason that they believe what they do. They are not idiotic in their conclusions, just in what they’ve decided to do to ‘correct’ the issue.”
+
+“They’ve decided that the health of ‘magic’ is worth more than the lives of the people living on Zeme.”
+
+“A bit oversimplified, but yes. Their focus is more on reality, but obviously the state of magic affects reality. Even so, I think that if gates did not cause such… issues, the automata connection with reality would not have driven them to such extremes, regardless of the state of magic.”
+
+Tala sighed. “Well, know thy enemy and all that.”
+
+Rane chuckled, downing his tea.
+
+Lisa gave a soft smile. “There is wisdom there. Do you know how you will face this?”
+
+Tala stood. “With overwhelming force.”
+
+The fox-kin laughed. “Well, if that isn’t a call to battle I don’t know what is.”
+
+She arched an eyebrow. “Are you coming?”
+
+He waved her off. “I am… restricted from such overt conflicts, as are most of my kin. I will be here wishing you all success.”
+
+She sighed. “Understood. Thank you.”
+
+“Of course.”
+
+Without delay, Tala willed herself and Rane back to the center of the sanctum, leaving Lisa alone once more.
+
+* * *
+
+Terry had finally found a trail of the automata. He wasn’t used to hunting by magical scent, but something in him—something he’d long since learned to trust—had finally led him where he needed to be, and he found the Black Legion gathering in small groups in the southern forest, near its northern edge.
+
+He hadn’t found a lot of them, but something was making him feel that he was close to finding what he had been seeking.
+
+He just hoped that he found it before it was too late.
+
+His little chick needed him, and he would not let her fall because he was elsewhere.
+
+He protected his family.
+
+He would not fail them.
+
+Not again.

@@ -1,0 +1,111 @@
+---
+id: 7f4a1311-617e-5e44-8abd-3e9632da76f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 163 Various Perspectives"
+slug: 0177-chapter-163-various-perspectives
+partOf: melody-of-mana
+position: 177
+ownLength: 1571
+unit: words
+ownProgress: 1571
+publishedAt: 2022-08-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/975492/chapter-163-various-perspectives"
+royalRoadId: "975492"
+markedReadAt: "2026-06-29T22:31:58.166Z"
+---
+
+Soon enough the time till our expedition needed to move out had passed. It didn't take too much time for us personally to get our affairs ready, but another day passed before things were completely ready. This was because we'd decided it'd be easiest to try and move with a merchant caravan to our area of interest. There was no hiding the fact that a group of humans was passing through elven lands, so instead we needed to rely on our cover of doing a survey, and there would be no reason to not travel with a much safer caravan than alone.
+
+As we formed up around a pair of smaller carts I saw something new.
+
+"Hey Glen, new sword?" He was currently polishing the roughly two and a half foot long piece of steel.
+
+"Yeah, something I picked up in the market, don't have any like this back home.' He held it out for me to look it over. I couldn't see anything different, but I was no smith.
+
+"Um? Magical?"
+
+He nodded and after a moment the blade began to glow. I didn't see any runes on it but perhaps they were hidden somewhere.
+
+"Wasn't that expensive, but with just a bit of mana it'll cut through stone like butter." As he spoke our newest addition joined us.
+
+"Manablades are fairly standard around here, do you not use them on the human continent?" Ulanion asked.
+
+"No, I don't think we have that enchantment. Would that be something we could trade for?" I looked up at him.
+
+While often anyone making magical items would be a bit jealous of their methods, we certainly weren't going to be competition for them.
+
+"Not an enchantment," the elven man answered. "Something about how they make the steel, I'm not clear on the details, but it's widely enough spread that I can't imagine you'd have any real issues. Use the same stuff in my arrows." He produced one of the darts and passed it over to me.
+
+It was solid steel and a bit longer than I was used to but clearly an arrow. There was a series of runes engraved on it and they were easy to read. It was a standard enchantment that did nothing other than store a small amount of mana and release it over a controlled period of time. That wasn't one that was used often since the core handled that pretty well on its own, but there were places for it.
+
+"Interesting." I pushed a tiny amount of mana into it and watched as the glow spread up.
+
+"Careful with that," Ulanion said. "When it's active it's rather more dangerous, even if you don't fire it." I could see the slight glow, moving down and focusing around the angled parts forming a second blade around the sharpened bit.
+
+Our guide took the arrow and demonstrated by lightly pushing it into the street, where it made a perfect hole.
+
+"Point taken," I said, which got a laugh from the two warriors.
+
+A shout of "We're moving out," made it's way down the caravan and we all had to get a move on.
+
+A society that appeared more advanced than the human one or not, the elves still used wagons for any overland transport. Several hours of walking along the various paths and roads and we found ourselves clear of the city's immediate area.
+
+Once clear of the walls there was little talking. Since most of the elves crops grew either as trees or better as part of a forest there were no big open fields but rather expanses of deep forest, lending a very different air to the landscape. By our first night I was feeling that nothing I knew from before would properly apply to this place but that was part of different lands wasn't it?
+
+The wagons were circled in a small meadow and everyone started to relax. A small fire was built and the twenty or so other members of the little caravan joined, and we all began telling stories.
+
+"No shit there I was," the old caravan leader started. "When we heard the growl, and it stalked out of the woods twice as tall as me, and four times as long, a forest tiger." He went on about how the beast had attack his first caravan, killing several of their pack animals in its rampage before he'd buried a spear in its chest.
+
+Every member had some story or other, and from what I gathered the higher amount of mana and mages around here meant that almost everyone who traveled had met a magical beast at some point or another. Most were just described as huge versions of normal animals, not unlike the giant rats that sometimes gathered in the undercity back home.
+
+"What about you lot, anything you've met of note?" One of the caravan members asked.
+
+"Well, we met a hurricane whale, that's probably the worst I've seen," Olnir stated.
+
+Our fellows leaned in for details and he began to dryly recite how we'd been chased, before I had to stop him.
+
+"Mind if I tell it?" I asked, and with an eye roll he waved me on.
+
+As I rose I began to dance, if they wanted a story, there was no reason to hold back. Illusion worked as the words flowed, and someone began a slight drum rhythm to keep time. I brought images of the pitch black clouds over the little meadow of our camp.
+
+With each verse I wove images of our fight into the background of the meadow, letting them see the enormity of our battle, the sound of wood cracking and waves accentuated until I finally finished.
+
+I didn't notice the wide eyes of the caravan members until I went to sit back down, perhaps I'd overdone it a bit.
+
+Outside the camp
+
+Unknown
+
+Shadow to shadow I'd flitted throughout the day, only to watch these blasted people. What were they up to? No survey of plants like they claimed, that was nonsense. Moreover what did that girl know? Master had personally seen her use his Majesty's name while looking at that old riddle. What had she seen?
+
+I'd thought it was too much bother to look into this lot until I'd followed her footsteps. The librarian had been all to happy to tell me about the nice human girl who'd gone asking about places that didn't exist anymore, and how she'd not even known about her faux pas. Nobody would know that name without knowing from whom it came.
+
+When I'd brought the details back of her destination and reference to the village that had been renamed I thought my master would go himself to confront her. His pale face and tightly gripped hand told me she'd found something he recognized. In the end though he'd sent me out after them.
+
+When the quiet camp had been overtaken by black clouds and small silent flashes of lightning I'd almost turned to flee. Only my long training had alerted me to the fact that it was a mere illusion, which only brought up more questions.
+
+Durin
+
+My head of intelligence brought me another thin folder.
+
+"No location on him then?" I asked.
+
+"No wherever they've gone to ground it must be hidden."
+
+"Hmm, up the reward for his capture, and let it be known that we'll pardon anyone who brings us his location, their family too, I don't care what they've done, we can't have him wandering about."
+
+This was a thorn, and becoming more by the day. There was no way I could leave someone with a claim to the throne wandering about, particularly not if he'd managed to recruit as many of the skilled individuals our reports said he had. It wasn't anything I had against the lad personally, but... well, he had to go.
+
+I rose and went to the window. Below the capital of my empire stretched out, the first lamps being lit for the night along the roads. These people, formerly the Ermathi were now mine. I owed them, owed them all I could give them, a place where the good and just could live in peace, where the low and weak wouldn't be abused. I would create an empire where those with talent could rise rather than being beaten down by the circumstances of their birth, rise and lead us into a new dawn.
+
+Well, that was the hope, but it was easier said than done. Even after I'd purged the worst of the predators and abusers from the previous regime I still had to put new people in power. Sadly a few of my own men had failed in the same way their predecessors had, and adjustments had to be made.
+
+I sighed as my spymaster left his reports and headed back to his duties. Only to soon be replaced by my lovely wife.
+
+"You seem bothered," she observed as she made her way to sit down on a couch.
+
+"A bit, but it will pass. How are you feeling?" I moved to sit beside her and wrap her up in my arms, resting a hand on the small bulge in her belly.
+
+"Still a bit ill now and then, but nothing unexpected," she said as she leaned in.
+
+I couldn't help but smile as we rested there, my hope for the future cutting through all the sadness and fear.

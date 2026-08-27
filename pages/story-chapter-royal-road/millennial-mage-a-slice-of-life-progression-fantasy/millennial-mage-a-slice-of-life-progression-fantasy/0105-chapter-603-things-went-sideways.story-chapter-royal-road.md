@@ -1,0 +1,217 @@
+---
+id: 6bf6692d-457d-5837-b52f-7dd8e13d40ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 603 - Things Went Sideways"
+slug: 0105-chapter-603-things-went-sideways
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 105
+ownLength: 3053
+unit: words
+ownProgress: 3053
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2546158/chapter-603-things-went-sideways"
+royalRoadId: "2546158"
+markedReadAt: "2026-06-29T19:38:39.551Z"
+---
+
+Tala was amazed at how time seemed to almost pass in a blur as she and her family settled into a pattern, and soon enough, they were celebrating Lea’s first birthday, and then even that was past.
+
+The girl’s days had been filled with training, learning, and socialization. She had even begun to go on some patrols around Alefast, Waning, with Defender groups, not participating in combat just yet, but learning from watching them and the creatures they took down.
+
+She was not allowed near any cells, not yet, not even as an observer.
+
+Lea and Talax spent time together nearly every day, and Tala and Rane were set on eating every meal possible as a family, and since they didn’t have any pressing duties, that meant three meals a day, and afternoon tea and coffee most days.
+
+The fox-kin skulk grew once it was ‘widely known’ that some of the more eccentric individuals had come and survived, seemingly demonstrating to the more ‘standard’ members of the race that it was safe. Standard, of course, was a relative term, and for a group of long-lived, word-focused, magical savants? Yeah, every one of them was a bit odd.
+
+Lisa taught Lea as needed, and otherwise filled the role of ‘head fox-kin,’ being the point of contact for them. Around that, he had his own projects, one of which was working with Artia to continue acquiring artifacts as they were found in and around Alefast, Waning.
+
+Lisa’s pockets were deep, and he soon became the bankroll behind the business, allowing them to buy out basically every other artifact merchant in the city. That allowed those merchants to depart years before the Waning finished with reasonable profits, and it ensured that Lisa and Artia would get better rates on every artifact to be found for the remainder of the time.
+
+Their store becoming the defacto supplier also meant that more people—more even than usual—came into Ironhold. These came to sell artifacts and to peruse those that Lisa and Artia had on display. Counter to most artifact shops, the one within Ironhold was able to have all of its wares displayed openly, with no fear of bad interactions or loss of magic over time.
+
+Artia, additionally, was undergoing the process of actually putting her gate to use. She didn’t have a great aptitude for magic, and she’d never have been trained at the Academy as she’d not have made the best Mage, but given her husband, son, daughter-in-law, and now grandchildren could potentially live for a very, very long time, she was unwilling to settle for a mundane lifespan.
+
+It was unclear if she’d ever become an Archon, but she was determined, studying and practicing hard around her work and time with family, and that, alone, would extend her lifespan markedly.
+
+Suffice it to say, the fox and shopkeeper were kept quite busy and content with various things.
+
+Adrill seemed to be happy that his wife was so fully engaged in various projects and tasks. He, himself, had fallen into a partner role with his son, Brandon, as assistants and obvious successors to Master Simon in the post of research and magical lead for the humans within Ironhold and for the sanctum directly.
+
+Where Adrill had a greater depth of knowledge and experience to start, Brandon had a more youthful, flexible mind, able to pick up all the new information more quickly, as well as adapting to their expanded abilities as ‘reborn’ citizens of Ironhold.
+
+They were equalizing slowly after all this time, hence their positions as near equals. Though, Adrill still often deferred to his son out of pride in the young man’s accomplishments, and Brandon often deferred to Adrill out of respect for his father. Overall, it was a good balance, and both men found great benefit training alongside the Talons, even while not, necessarily, being members.
+
+Kedva, similarly, enjoyed training with the Talons along with her son, Talax, the oldest of the citizens actually born within Ironhold and thus inducted into magical suffusion from birth. However, most of her time was spent as the primary assistant—and obviously upcoming successor—for Mistress Petra in her duties as caretaker of the more ‘mundane’ sides of work within the sanctum.
+
+Those ‘mundane’ duties, humorously, included the preparation of magically infused meals. There was now a small group of people training in the preparation of such meals in order to provide the Talons with a similar level of benefit to what Tala and now Rane received.
+
+Lyn and Ron continued to run Ironhold and the Talons respectively, with the former spending quite a bit of time with the Sappherrous family, and the latter beginning to join in such gatherings on occasion.
+
+Ron wasn’t officially courting Lyn, but everyone who knew them expected him to do so sooner rather than later.
+
+Tala and Rane—around spending time with each other and Lea, as well as training the latter—continued to move toward their own Reforgings, making steady, but slow progress.
+
+All the experts they consulted implied that they were sure to reach the goal in the end, and if things continued as they seemed to be going, they should even be at a place where further advancement wouldn’t be barred, but in basically every case, it came across as more of a guess than true knowledge.
+
+They were both pushing up against the edges of human knowledge in regards to advancement, motivating and inspiring each other on a near daily basis.
+
+They additionally trained with the Talons in magical retention and in white steel manipulation, both to get some more time—and maintain more common ground—with their daughter, and because those were useful skills to have.
+
+Tala had many, many conversations with both Lisa and Eskau Meallain, helping to nudge and perfect her understanding of various aspects of Zeme, and thus better informing her own foundation.
+
+Master Nadro had come through to talk with the whole Sappherrous family, and he had been delighted by Lea, enjoying his private conversation with her.
+
+Tala and Alat watched closely enough to make sure nothing went awry, while giving Lea the privacy to actually speak with the man freely.
+
+For her part, Lea came away from the conversation with an air of calm and certainty that had been absent before. Seemingly, he’d helped her talk through some of her lingering concerns, and she was quite content in her own, unique form of humanity afterward.
+
+At the moment, Tala was trying to relax and enjoy some coffee with Rane in one of their few rest times together.
+
+Lea was out on a patrol with Master Clevnis and Mistress Cerna, doing a simple check on a somewhat familiar nearby valley that occasionally spawned cyclops to harass the city and passing caravans.
+
+It was, in fact, the very valley in which Tala had faced a previous incarnation of that cyclops at Master Grediv’s insistence.
+
+But that was more than a decade previous. Upon the last check, there had been the beginnings of a rock outcropping that would eventually form a body if left alone, so they were seeing how far it had progressed.
+
+They could simply break the forming creature, but that tended to have detrimental effects on the local zeme, and often resulted in more powerful creatures coming into being in slightly different areas, more quickly.
+
+No, it was best to patiently observe the known spot and deal with the more predictable creatures as the need arose.
+
+The girl still wasn’t ready to get anything like inscriptions. Though, Mistress Holly was practically beside herself with exuberance at the notion, seemingly poring through all the information Tala had on the construction of Lea’s automaton body.
+
+When Lea was ready to be inscribed, she’d be in exceedingly good, and well-prepared hands.
+
+Tala pulled herself from thoughts of her daughter, and refocused on what Rane was saying.
+
+He’d been training against the Talons again, and he was deep in a story about one particular clash in which he’d been surprised by a new use of white steel.
+
+Despite internal appearances, Tala was listening closely, enjoying the retelling even as she revelled at simply being able to sit with her husband.
+
+That, of course, was when things went sideways.
+
+-Tala! Get out of the city, now!-
+
+Even as Rane’s eyes widened, likely getting some similar communication from Enar, Tala willed them both out of the sanctum to the far reaches of her ability to do so, in the direction that Alat put in her mind.
+
+In the direction that Lea had gone.
+
+They popped to the superficial still inside the walls of Alefast, Waning, but only just, and the two were quick to leap up and out, their distinct magics acting to enable their departure even as the warning bells began to sound throughout the city.
+
+Behind them, Tala felt Master Grediv step onto the wall, clearly having ‘bobbed’ toward the City Stone and come up at the edge of that stoneward well.
+
+He wouldn’t leave the city in the event of a threat like whatever this was, but he would come to its edge to lend his aid if possible.
+
+What is happening?
+
+-Mistress Cerna called in an automaton sighting. Not Lea, obviously. She is retreating with Lea, and Master Clevnis is engaged with it now, but it seems focused on Lea.-
+
+Tala cursed, and above, Rane suddenly rocketed forward, faster than Tala could quickly go. She was capable of greater speed over long distances, especially with her new technique, but it would take time to get up to that velocity.
+
+Terry was on his way, but he’d been hunting on the far side of Alefast, Waning, and it would take precious moments before he could arrive.
+
+Their destination was too close for that to matter.
+
+His motion did send out ripples, and Tala threw her aura and authority wide, doing her best to quiet the zeme in his wake.
+
+Ahead, she could detect magic swelling and roiling, the very zeme in tumult, even without Rane’s rapid motion, as two Refined drew deeply from their gates and did battle.
+
+Moments later, Rane slammed into the ground ahead of her, between the combatants on the ground, forcing a momentary pause.
+
+Lea was retreating back toward Alefast, Waning, Mistress Cerna beside her. Both were still close, both seemingly not wanting to abandon Master Clevnis and not wishing to be herded into a trap if there were more than one opponent.
+
+There was a large number of spellforms woven out of metallic thread moving along with the two women, clearly ready for use and being held in reserve.
+
+Tala let out a breath of relief, even as she continued to accelerate forward, uncaring of the energy and violence of her imminent impact. Lea was safe for the moment, and still with a friend.
+
+Interestingly, Tala could see a large bulge of rock on the far side of the valley shifting, the magic around it quite obvious. Huh, the cyclops will come forth quite soon.
+
+But that only took her focus for barely a moment given what else lay before her.
+
+Master Clevnis, unfortunately, was not doing as well as his wife nor Tala’s daughter. The man was broken. His left arm was hanging limply at his side, and even so, it obviously had several unnatural kinks in it. His lower right side was similarly caved in to such an extent that his internals had to be pulped.
+
+Several workings from Mistress Cerna were in place, to patch up other breaks and deformations, one even providing structure and utility to his right leg, which looked about as bad as his left arm. Only her magic allowed him to stay upright.
+
+Most of the flesh that Tala could see—and with her threefold perspective, that extended under his clothing as well—was purpled or otherwise mottled in a way that indicated severe internal bleeding.
+
+Blood was flowing from his mouth in a steady trickle, but he wasn’t cut, despite his opponent’s sword.
+
+He’s maintained enough authority around himself to keep the blade from cutting.
+
+-That is seriously impressive.-
+
+Tala shuddered, and Alat put the feeling to words.
+
+-Imagine how he’d look if the wounds had cut instead of bludgeoned.
+
+Yeah…
+
+-Mistress Vanga is on her way. Less than five minutes and she’ll be here to provide more rapid, complete healing. Mistress Cerna’s workings are enough to be a stopgap until then, assuming he doesn’t take much more damage.-
+
+Noted. Rane’s on the ground. There won’t be any more damage… not to our friends.
+
+Even as injured as he was, Master Clevnis wasn’t fleeing. He was obviously doing his utmost to execute a fighting retreat, trying to buy more time for his wife and Lea, despite their obvious hesitancy to take advantage of that time.
+
+Kit was stretching their way, and she’d even be within range soon, but that wasn’t available at that moment.
+
+As to his opponent, it looked like a midnight-black person, similar to how Lea looked like a snow-white one.
+
+Its eyes were purple in contrast to Lea’s red, and the back of its head wasn’t covered, revealing what was obviously a vestige core.
+
+It was unquestionably an automaton, quite similar to the individual that had been spotted on occasion around the gated human cities over the last couple of years.
+
+Or one and the same.
+
+-We can hope it’s alone. That’s much better than the Black Legion actually being fully free.-
+
+Yeah…
+
+There were numerous cuts on its black armor, revealing that the metal was black all the way through, but the damage was slowly closing in a manner quite reminiscent of the white steel Tala, Lea, and the Talons used, if more slowly.
+
+-As makes sense, we got it—and the means to make more—from an automaton manufacturing facility…-
+
+Still, it wasn’t quite the same, and as a snap assessment, Tala decided that the black form was more resilient, but slower or harder to morph. She made that determination based on how she’d seen Master Clevnis cut through the white steel before, and how much trouble he’d obviously had with the black.
+
+-Just got an information packet. Here’s the breakdown. The thing is fast, not too durable, comparatively. It’s also stealthy. It came upon them with no warning, and none of their senses detected it before the first strike. It is slower to self-heal than you were as a Refined, but faster than most Mages. The weapon is morphic, but only slowly, unless it's taking on what seem to be preset shapes. If a given shape is damaged, it seems to somehow ‘remember’ that damage when the metal tries to return to that form again, and each form has to be healed slowly while manifesting. Master Clevnis is only alive because it keeps trying to get around him, and it’s only alive because Master Clevnis is trying to defend the other two rather than going for a kill and risking it getting around him.-
+
+So, it’s a match for him?
+
+-If they had no other distractions? The assessment is that Master Clevnis would have won if properly prepared and aware, but he received his wounds in their first exchange, before he really knew what was happening. In the time since, he’s held his own, even injured, and hasn’t sustained any further damage. Mistress Cerna—after setting up the healing and support for her husband—has focused on readying defensive workings while helping Lea stay back and safe. They don’t want to come into an ambush unaware, so she’s holding back just in case.-
+
+Tala grunted at that. Good to know. They are prioritizing my daughter, and it’s costing them.
+
+-That is my assessment as well.-
+
+If that was the case, Rane and she would make quick work of the thing… Unless something changed, or there was something they were unaware of. Everything about this is unknown. Of course there’s going to be things we’re unaware of.
+
+Regardless, she tried to grab a lock on the automaton to simply Crush it. That would be the easy way to end this. Unfortunately, the magical connection refused to form.
+
+It wasn’t like the being outweighed her magically. That would be its own type of horrifying. Instead, it was as if her magic couldn’t affect it for some reason.
+
+She hadn’t experienced something like it since, as a student, she’d petulantly tried to Crush the moon.
+
+It had been a stupid thing to do, given it would have killed everyone if it had worked, but the attempt had simply slid off. Her teachers at the time—after staring at her in horror for a long moment—had simply said, ‘That’s outside of your authority to affect.’
+
+They hadn’t explained what they meant, nor had they actually seemed to know themselves, but that was the explanation they had.
+
+This felt the same.
+
+A higher authority was denying any direct magical interference with the hostile automaton before her. Most likely? Reality was interfering, preventing Magic from taking hold.
+
+Well, there goes all the easiest solutions… She could dig into the why later. Now, she needed to fight.
+
+With that in mind, her armor flowed around her, the comfort of its presence helping to center her mind.
+
+The automaton had only hesitated for an instant—seemingly not noticing, or not caring about her attempt to exercise her magics upon it—before blurring, attempting to go around Master Clevnis and Rane.
+
+Rane’s sword was in his hand, and Force slashed out, only being turned aside at the last moment by a black blade, seemingly of the same material as the creature’s armor.
+
+The two exchanged a series of blows, Rane obviously falling into a comfortable state of flow, moving from one strike or block to the next with ease as he drove it back.
+
+The automaton for its part was moving almost frantically, its eyes continuing to flick toward Lea, uncertainty clearly visible within.
+
+Tala sent a spray of iron spikes before herself, driving them deeply into the ground all across the valley as she claimed large swaths of the potential battlefield under her aura and authority.
+
+Then Tala landed in her fully armored glory, willing all the debris from her impact to spray straight at the automaton, causing it to stumble back and away.
+
+After the dust cleared, its eyes locked onto her blank white faceplate, and everything changed.

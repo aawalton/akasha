@@ -1,0 +1,89 @@
+---
+id: 053795a8-0252-5402-a490-0a28974fcbd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 290 Children Change"
+slug: 0305-chapter-290-children-change
+partOf: melody-of-mana
+position: 305
+ownLength: 1190
+unit: words
+ownProgress: 1190
+publishedAt: 2023-12-06
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1433889/chapter-290-children-change"
+royalRoadId: "1433889"
+markedReadAt: "2026-06-29T22:36:21.543Z"
+---
+
+Illa
+
+“Battle mages,” I declared as we looked over the dead crabs. “At least one, probably more than one by the destruction.”
+
+“But they didn't come to say anything to us?” Omos asked, I could only shrug in response.
+
+“Smells good though,” Amara commented. I hated to agree with her, but there was a roasted crab smell that was absolutely lovely.
+
+“I don't know, their diet is throwing me off wanting to try it,” Rodrick said as he pointed to another of the beasts, this one had half an elf in its mouth. In the area there were a couple more beginning to decay.
+
+My body instantly rebelled at my brother's words, bile moving up my throat. I'd been thinking of eating one of these things that was eating people. Even as I tried not to puke my brain summoned the smell of butter and herbs.
+
+“We should bury them,” Lena said from the side.
+
+“That's not how we do things here,” one of the refugees interrupted, there were dozens following us, all of those at the fortress we'd spent last night at.
+
+We were quickly shown how elves dealt with their dead. Lena happily gave up some of her seeds, and less happily some of her mana to grow plants on the bodies of the dead. She took care of several of the fallen elves, while my brother helped with the others and the crabs. He'd learned an elven song as part of our schooling, as it was a good way to pick up words quickly, and sang it, a lover's lament, maybe not perfect for the occasion, but it worked.
+
+Luckily we weren't attacked while we worked. It looked like some of the elven mages had run through last night slaughtering monsters as they went. I briefly wondered where they'd gone, or where they'd come from. Why hadn't they come to see us in that little fortress? Perhaps they'd been swamped, or just missed us, it was hard to tell.
+
+Even if yesterday had been a brutal slog today was, rather uneventful. The whole time I was looking around for more enemies, but it seemed that there were few, if any, in the area. That was fortunate for us at least. We even decided to take a slightly longer than usual lunch.
+
+Omos was doing the rounds checking on people, and eventually made it over to where Lena and I were standing guard.
+
+“How are you doing?” he asked kindly. Everyone had been a bit on edge.
+
+“Conflicted,” Lena said, looking at him. I'd known she had feelings about our path, and if it was the right one.
+
+“That's understandable, but we can't change the past. Things have worked out well so far, so let us hope that they continue to do so, and focus on the future.” He gave her shoulder a gentle pat before turning and heading off again to check on others.
+
+“He's not a bad guy is he?” she asked.
+
+“Omos? He's alright, used to be pretty immature, but I think he's trying,” I answered. I didn't spend a ton of time with my cousin, but I knew that much. “If you really want to know about him you should ask my brother, though don't expect any kind of a straight answer from him.”
+
+“So... what do you do when you're not,” she waved her hand around indicating the whole situation.
+
+“Really? That's what you're going with?”
+
+“Got a better conversation topic?” she snapped.
+
+“Don't laugh,” I told her, and she nodded. “I'm trying to learn to fly.”
+
+She laughed, the traitoress. “You know that's almost impossible right?”
+
+“I need something,” I griped. At those words she raised an eyebrow. “My family is... they're all big and important or strangely good at things, but I'm not. My grades are good sure, and I'm a decent wizard, but I'm not 'Kingkiller Alana' nor do I have my brother's insane memory. I feel... subpar. Like I'm the one left behind. Nobody really cares about me.”
+
+“I heard your mom hates that name,” she said curiously.
+
+“Oh violently, if she heard me using it I doubt I'd sit right for a week,” I agreed.
+
+Only a few people had ever called mother that to her face, fewer still had eardrums left after they did. It still made the rounds though, people saying how she killed one, or both, of the kings that night, along with all inheritors of the royal title. People thought I didn't hear, but I did, how we'd taken the royal family by force.
+
+“Flight's pretty cool,” Lena said after awhile. “I mean, nobody our age can do it.”
+
+“I know, I can sort of hover for a bit, but it takes a lot of mana.”
+
+“When we get out of here, will you show me?” she asked. I could tell she was just being nice, but I didn't really care.
+
+“Yeah, of course,” I said with a small smile.
+
+Soon enough the break was over, and we had to move. There was still so much ground to cover, so much left to do, and so many people to get to safety.
+
+Alana
+
+I frowned as I looked down at Illa from the tree I'd perched in. Was that how she really felt? How had I failed to miss it, that she was hurting, feeling left out like that? I wanted to do something for her, but honestly didn't know where to even begin. Mostly I just wanted to hug her, but now wasn't the time. Clearly I'd have to make some time to spend with her, just one on one. Maybe we could work on some spells, or I could help her with her flight.
+
+As that thought passed through my head I froze. Was I doing the same thing my mother had? Had she had those same worries or thoughts about me being left behind? I'd certainly not fit what she thought I should, not a problem I had with Illa, but maybe I was going about this the wrong way.
+
+I needed to spend some time with her, that was clear, but I should figure out what she wanted to do, not decide myself. I'd been on the receiving end of that before, and I remembered vividly how I'd hated it. Then again I did still use my sewing spell from time to time, so I couldn't really fault that growth.
+
+Also, did she really think I'd be that mad over her using that stupid name? Sure, I hated it, but I still loved her.
+
+Illa was so different than I saw her in my mind. She was no longer the small girl who wanted to play with her dolls or her grandfather. That time had passed years ago, years I'd missed while working. Rodrick was the same, so different from when he'd been little, so changed from how I'd seen him. They'd been out of the house and in school for years, and it seemed I needed to see them again, and more. They'd have to fly on their own one day, but I didn't want to lose them completely.

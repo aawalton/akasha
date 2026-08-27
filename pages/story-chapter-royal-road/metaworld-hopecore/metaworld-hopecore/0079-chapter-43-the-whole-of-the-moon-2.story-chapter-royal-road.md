@@ -1,0 +1,131 @@
+---
+id: 1fd8ecf3-3c11-5a7d-a876-bdc316bf4eef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - The Whole of the Moon (2) "
+slug: 0079-chapter-43-the-whole-of-the-moon-2
+partOf: metaworld-hopecore
+position: 79
+ownLength: 2411
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3412638/chapter-43-the-whole-of-the-moon-2"
+royalRoadId: "3412638"
+---
+
+While Frederick Curon doused fires for his CEO, Eppie and Vaughan made their way through the Gala crowds. Eppie walked a pace ahead, navigating by sight. Vaughan kept up with a surprising grace, enjoying the sight of so much youth exercising God’s given gift of art. As they walked, passersby would stare at her tattered uniform, but as they were in LAPA, greater distractions soon diverted their attention.
+
+As with her past visit to Armand, the Whitman Complex's gallery wing was on the upper section, accessible via a staircase that smelled of varnish. There was a unique atmosphere in the Gallery Wing during any Galas, tied to the specific anxiety of students who had executed their labour and were now pacing back and forth, watching visitors watch their work.
+
+At the Fall Gala, the exhibitions spanned six rooms and two cinemas. The first four were paintings, photography and mixed media. The latter were sculpture, electronica, and film.
+
+William Chen’s film was also showing, but Eppie had no desire to venture anywhere near that cursed section of the Gallery Wing.
+
+“The Vincent Exhibitions,” Eppie broke the silence between them once they found a quiet spot to sit, not too far from Armand’s work, but far enough to determine whether she would introduce it once Vaughan relayed her thoughts. “Congratulations on the roaring success. I heard it broke all records.”
+
+“Thank you, Eppie. The summer run was extended twice.” Vaughan sat beside her, watching the young people with a dreamy look. “The Basquiat rooms had to be rerouted through August because people clogged the Annenberg Galleries. The Immersive Light and Magic team has been booked out til 2011. We had hundreds of documented cases of visitors asking the docents about you and where to find you. We had to tell them that it was a recording, and that you’re not available for meet and greets.”
+
+Eppie felt the warmth of Vaughan’s praise settle behind her ribs.
+
+“I want to ask you something,” Vaughan’s tone shifted gear. Eppie shifted her body so that she leaned toward the older woman. Vaughan felt more like a peer than an aunt, but Eppie’s [Persona] possessed particular needs that Eppie could not herself provide. “Have you checked your Trust recently?”
+
+“Eh—?” Eppie’s sentimentality skidded to a halt. What? Why would she bother to check? With the amount coming in and her VGT ETF, it should be rock solid. In her old world, not even the GFC managed to drop its value in any significant way. With Umbrella doing the numbers, there should be about 1.5 million doing the float.
+
+“Have you no greed, Eppie?” Vaughan’s voice seemed to reach past the space between them and grip something in her chest. “I’ve been keeping an eye on you, your career, and your… charity.”
+
+The Dame of the Met studied the young people in the gallery once more. “Do we still have time?” “Of course,” Eppie said. Her performance wasn’t until 630. They had four hours, almost, though Zara was expecting her anytime now. Vaughan offered her a hand. Eppie took it. The older woman’s fingers were skeletal but warm. Her skin felt supple, smooth, but it wasn’t the suppleness of youth like Eppie’s [Persona]; it was the result of expensive skincare and a curated diet by a private chef.
+
+“First, a little something to settle your beating heart,” the old woman read her like a book, for Eppie’s chest was pounding unusually fast for some reason. “One of the docents told me a nice anecdote. There was this woman who came to the exhibit, a bit older than I, in her sixties. She had arrived with her granddaughter. She stood in front of Starry Night for about fifteen minutes without moving. The docent grew so worried that he cautioned the first aid team before approaching her to ask if she was all right. Of course, she wasn’t unwell. She was very happy. Thrilled, in fact. She told the docent that I never understood what the fuss was about. Then she heard the song, walked through the programme, and heard it again—she saw it. She saw Vincent. She understood.”
+
+Eppie’s cheeks grew rosy. Vaughan was still holding her hand, and she held it a little tighter now.
+
+“Here’s another story. There was a girl-child from the old country, Tennessee, the sole surviving child of three,” Vaughan said, her eyes drifting from Eppie toward some liminal space she could not discern. “Her mother cleaned houses for a living, her father drove deliveries, but because he drank, his truck flipped into the river. Neither of them ever saw the world as other than what it really was, concrete and real. They had no idea that their strange child had a gift, a hunger, for the abstract. The child was very good with people. Her teachers loved her. They allowed her to borrow everything. Their books, their library, they paid out of their own goodness for her excursions and exhibitions. At fifteen, the girl ended up where she was never supposed to be, Yale, because the Proctors there decided she was worth teaching. It was an amazing thing. She was in the papers. Her mother was so very proud.”
+
+This part of the story, Eppie knew off by heart thanks to [Memorisation].
+
+“You met your husband there,” Eppie said. “Ah—I see you’ve done your homework,” Vaughan’s expression grew amused. “Now I feel embarrassed. Yes. James Vaughan. Jim’s family had been endowing institutions since before this country had a Constitution. He had no interest in his family's money whatsoever. He had every interest in the Flemish masters. He was insufferable about it. He was my lecturer."
+
+The corner of her mouth curled. "And the best man I ever knew."
+
+Eppie did not speak because the noise in the museum had faded. Vaughan’s was the only voice she could hear.
+
+“It might be controversial now, but we married while I was still a Junior, a little older than you are now. James was in his forties. He had a dream of making art accessible to all and had made considerable efforts to squander his family’s fortunes in pursuit of that end. He didn’t just want a wife. He wanted a protégé, a partner. Someone who could carry on his work. He didn’t trust his colleagues. He had cut out all of his relatives, some with brutal efficiency.”
+
+Vaughan’s grip tightened.
+
+“He died when I was twenty-four. Cancer. We had no children. He left me the Vaughan fortune. Which meant I had nothing to spend it on except the work, for the next thirty-one years.” Eppie felt her burning gaze and realised where they were headed.
+
+“James’ love may have been ambivalent, but his legacy was real, and it is now my legacy. And I am watching, year by year, all the people who want to reduce it to an asset slowly creep into the Met’s Board of Directors. The CEOs. The banks. The consultancies. They tell me which data models to follow and which exhibitions will generate the most revenue. How can the Met survive, they said, if we don’t commercialise? Grow the endowment?”
+
+If Eppie had not possessed a [Strength] of 20, she would now be yelping at the hand crushing her hand.
+
+“Are they right? Eppie? Am I wrong? Was James wrong?”
+
+Eppie shook her head.
+
+“I want the Met. The art. To be for that old woman with her grandchild,” Vaughan minced her words slowly and meticulously. “Of course, Vincent made a lot of money. The leeches were happy about that. They were very happy that I was finally on board.”
+
+Eppie didn’t know what to say. What was there to be said? And yet… it was with heartbreaking irony that Eppie—no—Lana, KNEW the exact answer down to the last penny. For Vaughan, the answers were abstract and liminal. For Lana, it was history, for she had previously purchased the Met’s catalogue via iNGENU.The answer to Vaughan’s existential frustration was doggedly simple. First. Government Funding through robust cultural lobbying.Second. Admission Revenue through membership and public ethos. Third. Unrestricted gifts that freed Directors and curators from answering to donors. Fourth. Only accept bequests that result in a win-win for philanthropic donors. Fifth. A chief curator who was selfless, steadfast, and could not be bought, whose institutional authority and credibility cowed those that dare touch the Met’s mission. And for all of this to happen, the Met needed a CFO capable of achieving absolute endowment independence, so that all expenses were resolved internally, no questions asked.
+
+Who could know all this? Who could execute all of this?It was god damn absurd, but she was sitting right here. Lana could do it and have change left over for Make-a-Wish. Would the [System] allow it? It wouldn’t, at least not as Lana.
+
+"I have been looking," Vaughan said, her grip softening, her eyes imploring, “for someone who was a natural genteel. Without instruction, without performativity." She turned. "You gave a song to a church in Fresno. You wrote a song for Vincent, our mutual love. You wrote a children’s song. You wrote a song to save your life. You wrote a No.1 Hit. Davis tells me that you have a gift for finance. That you know your legalisms as well as Eric. Yet, for someone capable of all this—”
+
++ Karmic Causality+ Karmic Causality
+
+Vaughan gave her a knowing look. “You gave everything to a Charity Trust because it seemed right, leaving yourself only the means to live normally. The most absurd part? No one even knows you have a charity." She paused. "Do you know how many people operate that way in our industry? In my industry? In any industry?"
+
+“No.” Eppie’s face was scarlet. She wanted to throw Vaughan’s hand away like a fat spider. She wasn’t good because she wanted to. She was good because she wanted to live. Because she wanted revenge. It was a calculated goodness. It was performative. It was—
+
+“EPPIE!” Her panic was disrupted by the sound of Zara’s voice shooting across the space of the gallery. “Holy cows, you’re really wearing that uniform til the end, eh? Well, it looks good on you.”
+
+She looked up and saw the Spanish Inquisition staring at her expectantly. “Oh my god, Eppie, have you seen Armand’s work? Its… You have to see it to believe it, come on! Oh—” The approaching Zara finally noticed the old woman holding her hand. “Good afternoon, Ma’am. I am Zara Arriaga, Eppie’s performance partner for tonight. May I ask who you are?”
+
+“Anna,” Juliana replied as her hand slid from Eppie’s grasp. “I am Eppie’s friend, from when she went to NYC. I was just waxing nostalgic, as old people tend to do. Did you say there was an amazing artwork?”
+
+“YES,” Zara turned and introduced her family. Eppie embraced Paco, kissed Itziar on the cheeks, then gave Carmen and Pilar the same treatment. She shook Mateo’s hand. Paco snickered.
+
+As a group, they dragged Eppie and Vaughan to the last room, to the final sub-section. “Ready?” Zara’s tone already told Eppie more than she needed to know. “TADA!”
+
+They followed Zara through the door.
+
+Armand’s piece occupied the far wall in three dimensions: the floor, the left wall, and the right.
+
+Eppie’s breath halted.
+
+Beside her, Vaughan stood appreciatively still. The kind of stillness that made world-renowned artists knock-kneed.
+
++ Karmic Causality+ Karmic Causality
+
+Armand’s work was not a painting in any conventional sense of the word.
+
+It began on the left wall and did not stop. The impasto—if it could be called that—was applied not as pigment but as matter, as emotional geology, moving across the wall and the floor in ridges and furrows that amplified Van Gogh’s signature style.
+
+It was a sculptural painting, something done with a palette knife, a brush, definitely fingers, probably toes, and mayhap his nose.
+
+The texture was so deep in places that Eppie's first instinct was to reach out and touch it, to confirm that what she was seeing was real and not a projection, not a trick of the Immersive exhibitions that Vaughan had put on at the Met. And the colour. It was Almond Blossoms. Pale blue was the predominant colour, with branching dark ley-lines that created moving, shifting branches. Here and there, flowers faded in and out with the viewer’s movement. Unlike the original, there were scattered petals on the floor, settling like flowery snow into the deepening ultramarine. And if one looked close enough, one saw a figure. Not exactly, but it was there, just out of sight, a trick on the eye, a figment of the imagination. If one challenged the topography enough, if one’s eyes watered, then they could see it, a shape. A girl. A girl in a dress of Almond Flowers. Eppie looked at it for a long time. Vaughan also looked at it for a long time, then she breathed slowly through her nose, inhaling the scent of yet uncured oil pastels.
+
+"Who is the artist?" Vaughan’s voice was professional, precise.
+
+"His name is Armand Amar," Zara said. "He's a Senior. He’s not here because..."
+
+She looked at Eppie. Eppie blushed, for real this time, for the normal reasons a teenage girl should blush.
+
+"Eppie, I need to return to work," Vaughan said after a moment of contemplation. “They’re probably wondering where I’ve gone. Before I leave, could you do me a favour, so that I may do one in turn for you?”
+
++ Karmic Causality+ Karmic Causality
+
+“Sure,” Eppie nodded. She didn’t even need the prompt to agree.
+
+“Come visit during Christmas,” Vaughan said. “There will be a party. I want you to meet people.”
+
+Eppie nodded. Zara’s eyes moved from Eppie to the regal-looking lady.
+
+“I’ll send someone to see Mr Amar on Monday,” The Chief Curator of the Met announced her friend’s artistic ascension with the ease of someone espousing their favourite bakery. “LA isn’t my home, but I do have many friends in LA who would very much appreciate a local talent.”
+
++ Karmic Causality+ Karmic Causality
+
+They watched the nice old lady go.
+
+“What was that about?” Zara asked for her family, whose eyes were brimming with curiosity. “She must really like you. She looked sad, though.”
+
+“Yeah,” Eppie pursed her lips as an arm naturally curled around Zara’s waist. If this moment were a song, then she needed somebody to lean on. “I guess she had a lot on her plate.”

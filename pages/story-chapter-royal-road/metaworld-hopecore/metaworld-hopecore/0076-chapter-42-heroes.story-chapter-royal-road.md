@@ -1,0 +1,129 @@
+---
+id: ae819a8f-5529-5312-b717-355450a44d47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - Heroes"
+slug: 0076-chapter-42-heroes
+partOf: metaworld-hopecore
+position: 76
+ownLength: 2267
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3406245/chapter-42-heroes"
+royalRoadId: "3406245"
+---
+
+"Unhappy the land that has no heroes.""No. Unhappy the land that is in need of heroes."
+
+Bertolt BrechtLife of Galileo
+
+LAPA. The Playhouse.
+
+One thing Frederick Curon loved about his job was that no one knew who he was. As a midwestern suburban Dad facsimile, he was not good-looking, he didn’t style his hair, and his scalp could never quite wash away the tobacco stink of his young life.
+
+He could be in a private box, in concerts with a million attendees, or he could be in a room with the world’s best divas, singing for a test audience of ten, and still not be recognised unless someone introduced him.
+
+Ergo, there was no danger he would be recognised in a high school theatre production, watching other people’s kids flop like carp on stage.
+
+Curon sat in the fourth row, aisle seat, which he had demanded from Principal Burton’s helpful elf, the blonde lady called Susan Carr. This meant he had room to spare, to manspread, and to have one arm on a guaranteed armrest. On the way in, some damned kid had confiscated his coffee thermos, but Curon was kind enough to live and let live. Maybe one day, the kid will tell his kids about it.
+
+Somewhere down in the pit was Filmore and her photographers. He had expressly instructed them not to bother him, trusting his Maddy to run a tight ship. He didn’t need the programme either. He was only here to watch one thing, then he had to get back to work.
+
+Curon vaguely knew Antigone from when he attended school in the 60s.
+
+Plus, Eppie had already explained the concept to him. He had fallen asleep halfway through her long-winded rant because there was no bassline, but he got the gist of it. LAPA’s play was anti-war, anti-cover-up, and anti-Gore, because their President had kept up the bombing campaigns, while covering up the consequences. Curon usually voted centre-right, or did not vote at all.
+
+The place was packed. Eppie writing a No.1 was no joke. Somewhere in front sat the goons from Warner and Universal, whom Curon needn’t care about. After all, was his daughter going to write for a rival company? Not on his watch! As for EMI… Davis had said something about absorbing them sooner or later.
+
+The house lights went down. It was starting.
+
+On the black box stage was a table, three chairs, and a microphone stand. The whole thing could be cut and changed by using nothing but lighting, hiding one section in darkness, while emphasising another. The props were well-made, given that Eppie said they handcrafted the set from scratch. On the table, there was a glass of water, a name plate, a folded flag, documents, and the trappings of a Secretary of Defence’s desk.
+
+The room grew hush. His daughter walked on.
+
+Jesus Christ, Curon’s heart skipped. Watching his little girl in that skirt and uniform, he felt a sudden urge to punch Trent Davis in the balls. Twice.
+
+Curon rarely co-worked with Costume, but he knew its effects like the back of his hand. The Culver Academies prep uniform, a midwestern military school for the children of higher-ranked officers, from the looks of it, did three things simultaneously. It made her look young. It made her look prim. And it gave the audience a certain anticipation.
+
+Eppie looked good with straight hair and the hairband. She looked like someone who was used to being privileged. Very, very privileged. Her every movement made it completely convincing. It was downright uncanny how effortlessly Eppie gave off the vibe.
+
+She crossed the table and stood beside it, her gaze against the American flag, the bronze nametag. She was in an invisible liminal space. She was thinking. The other girl came on. Younger-looking, but taller. She was made up to be prettier, but in Curon’s mind, nothing could be prettier than his daughter.
+
+“Anni,” the timid girl whispered, yet her voice was completely audible. “Why are you here? There are cameras out there! They’re talking to Uncle Creon, now!”
+
+“I know,” Eppie said, turning her body. It was only two words, but Curon felt immense satisfaction. He knew Tony winners, he knew Oscar winners. Eppie wasn’t there yet, but she gave off the same vibe.
+
+“You can’t, Anni… How can we fight? Anni?” The sister’s body acting was good as well, but it was the action of a diamond in the rough, not yet a gemstone. “We’re just girls… we’re girls, Anni. Students. Nobodies. How can you expect us to challenge Uncle Creon? He’s the Secretary of Defence! I… I don’t…”
+
+Eppie’s Antigone shifts her weight; she’s sitting on the table now, and she moved her hand over the bent microphone there, caressing it like a cat. “I am going to bury him.”
+
+Bury Polyneices? Or Creon? Her uncle’s reputation? Or her brother’s corpse? Curon felt a tingling surge of unexpected excitement. Whoever wrote this thing was pretty damn good!
+
+“You can’t. Anni, please…”
+
+“Emmi,” Eppie’s expression, the love, the disappointment, the resignation, was surprisingly clear even from where Curon sat. It wasn’t her face, because his eyes weren’t 20/20. It was her body, the way she fidgeted, the way she leaned. “It’s too late… Uncle Creon gave the address just now. It's been filed. It's official. It has the Ministry's seal. Polyneices is to remain—“Eppie paused as if to make firm her resolve. “—in Syria, among the nation’s enemies. No, he is an enemy now—”
+
+Curon wanted to applaud. Eppie’s voice was an instrument of wonder. Only a few months ago, the girl had struggled to record “Whatever Will Be”, but now, it was as if Muller had taken a comp session to her voice box. She was not projecting exactly, but the sound arrived with full fidelity and with its emotions intact.
+
+The scene played out. Cutting between the settings with the magic of lighting. Creon, Tiresias and the media circus that was the Chorus Ensemble. Curon watched the performance with the rapt attention of a child with a new Saturday morning cartoon.
+
+“You can be what you want to be. But I will bury him,” Eppie delivered the punchline at long last. The first act was short, a mere ten minutes. The girl left, leaving her sister standing alone, stunned and cold, shivering in the room alone.
+
+Applause. Not polite applause, but genuine, heartfelt. A hollering Spaniard stood two rows down, blasting out thunderclaps while his wife tried to pull him down. Curon figured that the guy must be a relative of the other girl.
+
+The lighting shifted. There was a short break between the scenes. Jesus Christ, who the fuck installed this crap? The maker of the world’s No.1 Pop hit leaned back in his horribly uncomfortable seat, then realised his ageing spine and overweight body may not survive the next thirty minutes unless he sat while leaning forward.
+
+He just hoped Eppie would like the present he brought her.
+
+Paco sat in the second row, left of centre. Mateo, Zara’s father, sat to his left. Carmen to his right. Pilar sat at the end, because she was a large woman. Itziar, Zara’s mother, was with her daughter at the Whitman, touring the student artworks.
+
+Paco had never been to a black box theatre. Yet, he had watched the first scene with his hands on his thighs, leaning forward with a hunch. He watched Mateo scoff when the girl showed up in an expensive private school uniform, only to stare with his mouth half open by the third exchange. Watching his little brother, Paco felt a strange satisfaction. He had known Eppie first. He had helped Eppie. Whatever Zara’s relationship was with Eppie, he was her first Uncle, not Mateo.
+
+Mid-smirk, the lights shifted, and now it was the second scene. There was a cacique on stage, or more accurately, a student dressed like a big man. This was, according to the programme, the United States Secretary of Defence. The costuming was on point, but the makeup made Paco laugh, for they gave the boy a grey streak in his hair. Still, Paco knew men like the Secretary, a cacique who wielded real power, men who could say with certainty who lived and who died.
+
+Into the scene came Eppie. She was… different, somehow. Paco was no expert, but he could feel the change in the atmosphere. Eppie had to push past what looked like six kids playing reporters. The programme called them the Chorus Ensemble, whatever that meant. She had a shirt tail hanging out, a loose strand of her perfect hair whipped as she spun and spoke. She was fierecilla, untamable. Paco felt a little ashamed that he lacked the words to make sense of what was happening below, but he liked it more than her first appearance.
+
+“HE WAS MY BROTHER!” The girl cried out, her voice booming across the tiny Playhouse, filling every nook and cranny. “You know where he is. Why?” On stage, the kids with the camera props swivel toward the Secretary.
+
+“Your brother was a soldier,” said the big man. “And now that he has endangered this entire operation, this entire THEATRE, he has forfeited the protection of the United States, both as an officer and as a civilian.”
+
+“He forfeited NOTHING.” Eppie’s mannerism was clearly a cut above the boy playing opposite, but the result was riveting nonetheless.
+
+The other kids murmured. They were taking notes. Oh! Paco almost clapped. They represent the public! He was getting it!
+
+“Ann—Anni,” Creon sighed long and hard, looking around the room. The reporters perked up. “You see? You see what we are dealing with? A grieving child. Look at her. So pretty—pretty pitiful. I am sorry, Anni. I love your brother like my son. But the Law is the Law. Without the Rule of Law, what is a nation? Sympathy is not governance. He chose his path. You think he didn’t know the cost?”
+
+“Your laws don’t apply here.” The room flashed with simulated photography.
+
+“What?” Creon’s brows furrowed. “What ridiculous thing—”
+
+“Your order, this… it does not reference humanity, it does not reference God.”
+
+The press corps turned on Eppie now like hyenas. The girl has them. God?
+
+“Can you expand on that, miss?” Someone asked from the reporters’ section.
+
+“There are LAWS,” Eppie announced to the world. “There are laws that are written by powers greater than this apathetic government. Immutable laws, requiring no seal, no signature, no executive order. My brother is a patriot. He did it for the love of the nation. He is a hero. He is a US citizen. The military that sent him there owes him the rite of passage. The right of trial. loyalty and love. These are the SOUL of our nation. The oldest law. Take that away, and for what do we fight for?”
+
+The camera shuttered. The whole stage grew incandescent.Eppie glowed for a moment, transformed into a monument of brilliant silver.
+
+But Creon was not done. “You DARE to accuse me? Anni? Have you lost your mind? We are at War! Your brother is no ‘hero’. He compromised the lives of his fellow soldiers to make a political statement! How dare you march up here, with these demagogues, demanding that we extract him? Bring him home?”
+
+“Damn your draconian laws!” Eppie shrieked, her face red, moving Paco in ways he couldn’t reciprocate. “Is that all you care about, Uncle Creon? Was that why our father died saving you? For the law? He disobeyed orders, too. Will your LAW now brand him a traitor?”
+
+Eppie’s whole body was shaking. She was bathed in sweat. The voice from her chest reverberated in her audience’s mind.
+
+“Another word,” the Creon boy’s voice grew hoarse. “And you’ll be facing federal charges.” Naturally, the girl refused to be silenced.
+
+Paco exhaled. He agreed with Eppie. His whole family would agree with Eppie. There are laws in this world more important than legality. Without those laws, there would still be community, but there would be no humanity.
+
+He pressed his hands flat on his thighs.He thought about Mio. He thought about his niece and the girl, singing In the Pines. He briefly thought about a dangerous thought involving finding a certain young man and accidentally putting a full stop to the story.
+
+“Oso?” Carmen's hand found his forearm, her fingers soothing the prickled hair. What’s wrong, my big bear? Paco did not look at her. He patted her hand twice, the way he patted her when they were younger and he was a wilder man. No, he couldn’t do as he pleased now, not with Carmen, Zara, the hotel, and his dues in Fresno. The Paco of the past had hung up his guitar for a real one. He felt ashamed that he didn’t have the same courage as Eppie’s Anni.
+
+He looked back at the stage.
+
+Creon boy was still talking. The schoolgirl in the deteriorating uniform still stood. Her spine, he observed, was symbolic of something the costume was trying to undo. She stood straight, dignified, and defiant. Then darkness.
+
+Paco sat back. He winced. The seat was shit. The carpenter deserved a whipping.
+
+Thinking of Eppie, he was strangely reminded of a photo Carmen had pinned on the wall of Hotel Basque. It was a picture of his father, standing in a field, holding a guitar. The face was a blur now, but he remembered something of it. His father stood with a particular gait, ramrod straight and unyielding, defiant against the drought, the poverty, and the unknowable future.

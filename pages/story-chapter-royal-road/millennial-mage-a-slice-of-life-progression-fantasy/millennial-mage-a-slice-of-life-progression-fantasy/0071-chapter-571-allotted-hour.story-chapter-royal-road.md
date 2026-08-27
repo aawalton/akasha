@@ -1,0 +1,253 @@
+---
+id: 856a307c-48f7-5b16-9362-0347122f0f6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 571 - Allotted Hour"
+slug: 0071-chapter-571-allotted-hour
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 71
+ownLength: 3336
+unit: words
+ownProgress: 3336
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2329483/chapter-571-allotted-hour"
+royalRoadId: "2329483"
+markedReadAt: "2026-06-29T19:37:34.061Z"
+---
+
+Contrary to Tala’s assumptions, they didn’t all enter the stump. Only then did she remember that the interior of the stump had been a bit of a private research space for Mistress Noelle, so it made sense that the woman wouldn’t want to take tea in there with the three of them.
+
+Maybe if it was just Rane and I, since we’ve already been there?
+
+-I suppose we’ll find out eventually. It doesn’t seem like Mistress Xakiri will be around that long. She likely will want to hunt up an Inscriber.-
+
+True enough.
+
+Instead, they all went to an inset half-room that was made complete by a heavy, overlarge awning and glass panels, spaced just far enough apart to allow some airflow without really making the area subject to the weather outside, mild late-fall day though it was at the moment.
+
+A table was already set for four, and Tala had seen servants—or less advanced Mages—setting it hurriedly as Mistress Noelle had walked her, Mistress Xakiri, and Rane over to the stump and through some superficial passages to reach it.
+
+The large teapot was already steaming, and when Tala looked around for coffee, Mistress Noelle chuckled. “No coffee at the moment, my dear. We will enjoy tea together.”
+
+With a sigh, Tala sat and took up the cup that the older woman poured. The tea was dark and had an interesting, almost nutty flavor.
+
+-How much do you want to bet this is mushroom tea?-
+
+I would bet a lot that this is mushroom tea.
+
+-No, no. I want to bet it’s mushroom tea. You have to bet that it’s not.-
+
+I will not take that bet.
+
+-But, Tala, you literally can’t lose.-
+
+She took another sip to cover her sigh.
+
+After everyone had taken a sip, Tala noticed that Mistress Noelle was regarding them critically. As such, Tala closed her eyes and focused inward. She couldn’t detect anything, but she still suspected that the woman had just performed some kind of experiment on them.
+
+-Yeah… that was rather expected.-
+
+Indeed.
+
+Mistress Xakiri thanked Mistress Noelle for the tea—even if it was obviously not her flavor—before turning to Tala. “So the Leshkin.”
+
+Mistress Noelle sighed, interrupting. “Ahh, if that is to be the topic, I know what you do already, Mistress Xakiri. I’ll return in one hour to talk with those two.”
+
+The other three stood and bowed as the older woman left, not giving them the time to say anything further.
+
+Tala examined the woman’s aura, and it showed that Mistress Noelle was simply Refined, but she was probably at least a Paragon based on what she’d demonstrated. Tala honestly wasn’t exactly sure, and at the moment, it didn’t matter.
+
+As the three sat back down, Mistress Xakiri began. “I assume that you know that the Leshkin are an odd sort of semi-hive mind. They are individuals, but for the most part those individuals are indistinguishable. They are separate, but they are also somehow inseparable. They can communicate with each other regardless of magical interference. My understanding is that you’ve met Master Saliocas?”
+
+Tala simply nodded.
+
+“Good. Then when I say that he is unable to prevent them from communicating, that will mean something.” Mistress Xakiri waited expectantly for confirmation.
+
+Tala grunted in acknowledgement. Rane gave a slow, thoughtful nod, having been filled in on Tala’s conversation with the older man.
+
+“That makes things easier. Now, I say they are indistinguishable, but there are also oddities. One particular Leshkin always manifests a red bloom over its left ear when manifesting as a lesser, and always makes the soldier, knight, or juggernaut it is a part of wield a spear and shield.”
+
+Tala frowned, but held her tongue so as to not interrupt.
+
+“It is actually this oddity that first caught my interest as juggernauts only very, very rarely use that combination of weaponry. I suspect that this one spirit is the basis for at least one of the Leshkin Generals when those manifest, but I have not had a chance—nor come up with a means—to test that theory.”
+
+Rane chuckled. “All Leshkin are equal, but some are more equal than others.”
+
+Mistress Xakiri frowned for a moment then shrugged. “It’s obviously self-contradictory, but yeah, it fits. I can kill any lesser with the exact same sequence of attacks and feints. They do not deviate in how they act or react to stimulus. It is safe to say that the lessers don’t learn, even as a collective. They start to show learning behavior at the soldier level. Knights occasionally seem to recognize attack patterns and anticipate traps that Leshkin have fallen for before, and juggernauts seem to actively observe and adapt.
+
+“It is common knowledge for those aware of the existence of the generals that they are incredibly strategic, and make great strides and improvements from one Leshkin war to another, seemingly incorporating everything that the collective learned and experienced in the intervening centuries. Some have even theorized that this is why the generals go dormant, so that they can learn from and incorporate their new experiences. We don’t really have a way to know one way or another.”
+
+The woman stopped to take a long pull of her tea before continuing.
+
+“Now, I say that lessers never change, that is true for the length of every cycle, not when taken as a whole. After the next war, expect all those base behaviors to have changed, and the lessers to be—yet again—more dangerous than ever. It is like the generals—or royals or some other authority—rejiggers their instincts and behavioral attitudes each cycle. They manage that change, and it’s a pain to deal with every time.”
+
+Tala frowned. “Assuming that’s true, I’ve noticed two oddities with the Leshkin.”
+
+“Oh?” The woman leaned forward. “What were they? Maybe I can explain what you came across.”
+
+Tala shrugged, not really feeling a need to hide what she experienced. “First, they seemed to specifically dislike me, and no one has been able to tell me why.”
+
+The woman grunted. “Can you explain your gear and skill set when you first met them, or when you first experienced this ‘dislike’?”
+
+Tala did so, and the woman started chuckling fairly quickly.
+
+“You coated yourself in iron dust? That’s… huh. It might be the gravity magics, as some of the more effective mages last war were gravity based in their fundamental understandings, but I don’t think that’s it. It also sounds like you got a reaction before using any power or spell form. Did I understand that correctly?”
+
+“Well… I have some magics on constantly, but otherwise, yes, I believe so.” She glanced to Rane who shrugged and gave a tentative nod as well.
+
+“Your healing and reinforcement magics? I don’t personally see why that would be an issue.” She nodded once. “Alright. Then, I think it was the dust.”
+
+“Oh?” Tala leaned back in surprise, taking another sip of her drink without thought before grimacing and placing the teacup back on the table, further away this time.
+
+Mistress Xakiri noticed the action and chuckled, moving her own teacup further away before continuing. “Yeah. Apparently, near the beginning of the last war, we took to releasing clouds of iron dust through various methods. While it didn’t sever the connection with the collective, it did disrupt communication to a certain degree. Seemingly as a counter, the Leshkin set the lessers to go into a frenzy when they detected the dust. That way, they wouldn’t be easily taken down while the command channels were so disrupted. I believe they also targeted those with the most dust ‘about’ them, as they were responsible. So, it was an attempt to dissuade the tactic. Either way, it quickly became untenable, and the release of iron dust fell out of favor.”
+
+Tala frowned. “Why did no one warn me? Why couldn’t anyone else figure that out?”
+
+Mistress Xakiri grinned. “They try thousands of crazy things every cycle, in an attempt both to get a new edge and to counter the growing capacities of the Leshkin themselves. I only know about it because I know about all of them to one degree or another. That tactic stands out to me, though, as it was something that was both highly effective and quickly abandoned, given that they were able to hard-counter its benefits. Not to mention it had a tendency to cripple most Mages caught in the spread. Since I doubt anyone else has used iron dust around them since, it hasn’t come up, and so memory of it wasn’t reinforced to allow for easy recall when your issue arose.”
+
+Tala grunted. It was frustrating, but it did make sense. Her own perfect memory was hardly standard, and even with that, she didn’t always think of overlaps and corollaries when she probably should have.
+
+“So? What was the second thing?” Mistress Xakiri was leaning back, clearly feeling a bit happy that she’d been able to provide an answer to Tala. After all, Tala, Rane, and Terry had likely saved the other woman’s life, and she was gratified to be able to pay them back, even in such small ways.
+
+Tala suppressed a bit of a grin before shrugging in a bit of feigned self-consciousness. “Well… they run away from me now.”
+
+Mistress Xakiri blinked a few times, leaning forward in immediate, focused interest. “...What?”
+
+“You saw the memory. The experiment I performed? Ever since then, the Leshkin have run from me whenever they sensed me nearby.”
+
+Mistress Xakiri hesitated a moment, then suddenly, she was pulling a slate from the pouch at her waist, hastily starting to take notes. “That’s what you did then? At the caravan? When you drove them off? You basically let them know it was you?”
+
+“Essentially, yeah.” Tala almost grabbed the tea again, but she stopped herself, instead willing for the cup to move out of easy reach.
+
+“And they simply ran.” A gleam entered Mistress Xakiri’s eyes. “Mistress Tala, this is huge.”
+
+Rane’s eyes widened, and he started laughing. “Oh! That’s wonderful.”
+
+Tala frowned, a bit frustrated at not figuring it out. “I don’t understand.”
+
+Mistress Xakiri motioned to Rane. “Master Rane, it seems like you worked it out?”
+
+“Indeed. Do you remember the Path of Remembrance?”
+
+That made Mistress Xakiri frown, but Tala suddenly got it. “Oh… Wow… Yeah. Matching someone’s aura.”
+
+“Exactly.” Rane grinned.
+
+Mistress Xakiri smiled, ignoring the reference she didn’t understand in favor of continuing the dialogue. “Whatever you did was enough for the ‘response’ set of the Leshkin to be altered—which is something that I’m not sure has ever been known to happen before, outside of a war—and it seems like it was altered and imprinted all the way up the chain, at least to the level of the juggernauts. We haven’t seen a commander in decades, so I have no idea if it would have an effect on them, but if we can simply give every caravan an aura beacon mimicking your aura? Our caravans won’t have to deal with Leshkin for the rest of this cycle.”
+
+There was a long moment of contemplative silence. Tala considered bringing up the generals that she’d met because she’d begun using void magic to ‘eat’ Leshkin spirits… and decided that topic wasn’t an inscription she wanted to power.
+
+The woman finally gathered herself and stood. “I…” Then she hesitated and sat. “I want to go and test this immediately, but I obviously need your permission.”
+
+Tala sent a thought to Alat and got an immediate response. -Done.-
+
+Tala nodded. “I’ve messaged Mistress Ingrit, the Librarian in Bandfast. Work with her on this. She has my permission to allocate the use of my aura signature.”
+
+“Right, she’s your preferred point of contact for these things. Thank you.” The Mage smiled. “Now. I’ll try to give you the rest of the quick overview that I promised. I will give you access to all of my notes after we part ways.”
+
+Tala nodded again, ready to listen.
+
+“Alright. So, we covered their collective nature and their separateness. When one loses its corporeal body, it—generally—has to return to a spawning tree. Those trees are almost impossible to distinguish from the outside, as there is no entrance or exit. The only means of telling which tree is one such is that lesser Leshkin are found in greater numbers leaving the area right around them when they are under attack nearby. I also suspect that any of these trees could become such a spawning tree if the collective needed it.”
+
+Tala frowned. “I thought you said you snuck into one? Doesn’t that mean it’s hollow? That it has a way in?”
+
+“Oh, I have ways.” Mistress Xakiri looked down at her blank arms. “Well, I did, and I will again. Regardless, with my full inscription set, I can gain access, and there are interesting things within the trees, but my notes will cover that. The point is, the trees are more like reset points for the Leshkin spirits. I believe they come back to get an impartment of power that allows and facilitates the reanimation of new forms. This also is supported by some individuals being able to immediately remanifest without returning, especially when they were a part of a collective entity that was ‘destroyed’.”
+
+“So, sometimes slaying a juggernaut doesn’t send all component Leshkin back to a spawning tree?”
+
+“Exactly. The messier the destruction, the more seem to be required to make the trip. Because of that need, the mobile ‘spawning constructs’ that Leshkin armies bring with them during wars become critical.”
+
+“Why not take a scorched earth policy? Leave no vegetation for them to claim?”
+
+“That’s been tried.” Mistress Xakiri grinned. “If—and seemingly only if—there is no vegetation around, they are able to build bodies out of other natural materials like earth, topsoil, rock, or stone.”
+
+Rane grimaced. “Yeah, I can see how that’s worse.”
+
+“Indeed.” She sighed. “We’ve actually had to cart in mass amounts of vegetation in some past clashes to prevent the Leshkin from gaining access to those more durable forms.”
+
+“That’s… horrid? We have to supply our enemies with material?”
+
+Mistress Xakiri gave a consoling smile. “Because not doing so would be worse… exactly.”
+
+She went on to explain some more general concepts surrounding the Leshkin, but nothing else was truly novel for Tala.
+
+At the end of their allotted hour, Mistress Noelle returned, and Mistress Xakiri bid them goodbye, thanking them for their timely rescue and for the potential tool for safe travel through Leshkin stalked lands. She also thanked Mistress Noelle for her hospitality before leaving them to their conference.
+
+As the remaining three stood in momentary silence, Mistress Noelle chuckled. “Come, come. You’ve already seen my hollow chamber. I think it best we catch up and chat in there.”
+
+Without another word, Tala and Rane followed her from the room, quickly being led to a different secret passage than last time and striding into the heart of the enormous stump.
+
+It was much as Tala remembered it, even down to the ‘clear’ ceiling above, giving light and a view of the sky. The dasgannach were still in various tanks around the room. Even the odd mushrooms growing on various shelves around the space were familiar.
+
+Tala saw Rane looking around, and he noticed something just as she did, moving toward it. “Oh, Noelle, someone seems to have lost their handkerchief. Let me grab that for—”
+
+“No!” Mistress Noelle was suddenly in front of Rane, between him and the bit of cloth that was partially draped over one of the mushrooms. She cleared her throat, seeming a bit embarrassed, but then she smiled. “No, thank you. It’s fine where it is.”
+
+Rane blinked, hand held extended for a brief moment. Then, he shrugged and let his hand fall back to his side. “Very well. I meant no offense. I apologize if I overstepped.”
+
+She waved that off, though she didn’t move until he turned and continued further in. “You didn’t know, and you were simply trying to be polite.”
+
+She pointed to the far side of the space where a table and three chairs waited.
+
+Tala checked her memory, and yes, that furniture had been closer to the middle of the room only a moment ago. Alright, we should leave the mushrooms alone.
+
+-If you needed her little outburst, there, to realize that, we might have a problem.-
+
+…Fair. Rane is probably rubbing off on me.
+
+-I wouldn’t say it that way. In fact—-
+
+Nope! We are not going there.
+
+-...fine.-
+
+Mistress Noelle sat and gestured to the coffee at one place and mint tea at the other—going by the smell.
+
+Tala shook her head as she sat. “So, what were you testing with the mushroom tea?”
+
+Mistress Noelle gave a wry smile. “It was a mushroom that is great for tea, but it had been used as part of a Leshkin body. I was curious if it was affected in a way that was discernible either by one of the leading Leshkin experts of this cycle or by you.”
+
+Tala felt herself almost retch at the realization, but her inscriptions held the bile back, and that let her suppress the urge entirely. Huh, I haven’t needed those magics in quite a while.
+
+-Yeah… Still, we drank people juice…-
+
+No, no, Leshkin aren’t people. Tala tried to console herself.
+
+-That’s what arcanes say about humans.-
+
+…This isn’t the same, and you know it.
+
+-It’s still gross.-
+
+Rane sighed. “And you didn’t want to ask, as it would potentially spoil the experiment.”
+
+“Precisely. I can’t tell the difference, but my expertise is with mushrooms, not magically immortal pseudo-collectives. Though, I am expanding my knowledge in that direction.”
+
+Tala frowned, looking at Mistress Noelle. That was almost exactly how she’d talked about synchronization when they were last here.
+
+The woman glanced her way, catching the look and clearing her throat. “But regardless. It is good to see you two! I’m glad to see that your budding physical synchronization did, indeed, lead to soulbonding and magical unification.”
+
+Rane grinned. “It is good to know that you were rooting for us from the beginning.”
+
+“Rooting?” The woman shook her head. “I suppose so. Just like when I throw a log on the fire I am rooting for it to burn.”
+
+He blinked a few times. “That’s… an interesting choice of analogy.”
+
+Mistress Noelle smiled, seemingly pleased with herself. “Thank you. I do try.”
+
+Tala decided to change the subject. “I see you still have your dasgannachs.”
+
+Mistress Noelle gave her an exasperated look. “Yes, well, I am still fascinated by the creatures, and I just wish that I could bond one as you have.” She gave Tala a mock glare. “I am quite a bit irritated that you succeeded where I have been unable to.”
+
+Tala chuckled. “Well, all you need to do is infect yourself with one of the creatures, along with embedding an Archon Star of their desired material within your body, then, once they are nice and starving for it, take a simple little teleport, forcing it to make a choice. It really is quite simple.”
+
+Mistress Noelle gave her a flat look. “I’ve obviously tried that. Do you have any other suggestions?”
+
+Tala gaped back at the other woman, unsure for a moment if she was serious.
+
+-Oh, I think she is… that’s… huh.-
+
+“Um… no. I don’t have any others at the moment. Maybe sourcing a dasgannach from the arcanes? The modifications that they performed might be critical.” Tala only briefly considered Lupe, and… yeah, no. She was not going to introduce Mistress Noelle to a sapient dasgannach… at least not while they were all within that woman’s domain.
+
+Mistress Noelle gave her an almost predatory grin in return. “Yes, that was my thought as well. If only I had someone who might be able to facilitate such an acquisition.”
+
+Tala suddenly had a sinking feeling. This was going to be an even more interesting visit than she’d expected.

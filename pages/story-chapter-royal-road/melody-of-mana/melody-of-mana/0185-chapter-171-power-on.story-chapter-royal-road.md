@@ -1,0 +1,143 @@
+---
+id: 4f974a06-7c25-59d8-b7fe-ec44fa0a873b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 171 Power On"
+slug: 0185-chapter-171-power-on
+partOf: melody-of-mana
+position: 185
+ownLength: 2171
+unit: words
+ownProgress: 2171
+publishedAt: 2022-09-16
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/995744/chapter-171-power-on"
+royalRoadId: "995744"
+markedReadAt: "2026-06-29T22:32:13.956Z"
+---
+
+There were a number of problems that needed fixing. The first was that while we'd driven off the shadow-wolf for the time being who knew how long that would last. I then needed to hook back up with the rest of our crew. Finally, the massive amount of work to be done in this room alone was staggering.
+
+We can only do what we can though, and with the problems laid out in front of me I had few options at the moment. This room seemed responsible for a massive quantity of systems, and perhaps if I could get a few of those working I might manage to help with the other two problems. I was hoping that this place had some form of defense system, though that was unlikely, or at least lights that I might turn on. If I was really lucky we might manage something like intercoms or cameras. To that end I was clearing panel after panel and trying to get at least a general idea of what each did, starting with the glowing ones.
+
+The first I stumbled upon was some form of cleaning panel. It was fully powered up and while I didn't have the time to work through all of the details it seemed that at least a portion of the enchantments had been devoted to keeping the place spotless and in good condition.
+
+The second was nearly as interesting as the first, and seemed to be devoted to repairs. It was quite honestly beyond my current ability to understand, but I could tell that it was strained at the moment. I didn't imagine that it could fix the giant mess that we'd made of the entryway, but it looked to be trying its hardest.
+
+I sighed, leaning my head back.
+
+"What?" asked Ulanion.
+
+"Well, those are all the active ones, and nothing immediately useful," I responded.
+
+"Have you at least found out why this room is so damn cold?"
+
+"Sorry no, I suspect it's because one, or many, of these make a lot of heat when running properly, but that's just a guess. Whatever it is isn't controlled from those panels."
+
+"Where is it then?" The elf looked about curiously.
+
+"How should I know? Some box hidden in a corner and covered in inches of ice, maybe it's just set to always be like this." I really had no experience with any of these systems, and the fact that they were in an archaic and technical version of their language didn't help too much.
+
+"Fine, fine, what's next then?"
+
+I pouted, "I'm hesitant to leave with that monster still out there and the two of us alone, but it's either we try to get things running from here again or we go look for the rest of the team."
+
+He rubbed his head. "We're here, and without any more arrows I'm crippled. Do what you can here and we'll decide from there."
+
+"Can you help me sing for a bit?" I needed to clean this place before I could even access things.
+
+Ulanion smiled, "That I can do."
+
+We wove a tune together, as the minutes passed I found that one after another the ice fell away with ease. It was a mixed bag, as some of these were clearly marked with how to restart, while others were rather more opaque.
+
+Hours passed of translation, examination, and careful checking over, and one by one I started to re-power the facility. I had to start with figuring out what all of this did. It also became clear rather quickly that starting it all back up wouldn't be so simple as pressing a button.
+
+I began with lighting, as it would be both helpful and unlikely to go catastrophically bad. There were dozens of different settings for different parts of the building, depending on what you wanted and where. Even once I had it mostly sorted and labeled with little scraps of paper I found that it wouldn't turn on when the switch was flipped. Whoever had abandoned the place had turned it off.
+
+I checked and rechecked my work on it before sighing and looking back at the panel for what seemed the trillionth time. It was then that I realized that there was a small section on the side that didn't match with the rest of it. I experimented for minutes before I finally got the side off and a look at the inner workings of the control station.
+
+It was of course full of ice, which if I had to guess was hampering the function on a fundamental level. Once I got all that cleared out I saw the most incredible thing. As I knelt, mouth gaping open parts of runes engraved and connections reformed, slowly, but I could see it as it went. A quick trip to the other side of the room showed me that the repair panel had rerouted power again, and while my understanding wasn't yet at the place where I could be sure I had a pretty good idea to where.
+
+It took a bit of time to complete but soon enough the light controls came to life. One by one the runes along the surface lit, indicating the restoration of services. About halfway through the lighting in our own room popped on with a click, the whole place filled with a gentle white glow. I could also feel a slight heat coming off of the inside of the control panel.
+
+"Success!" I cheered.
+
+"Congratulations, we can see now," Ulanion said as he smiled at me. "And I can see enough to know our friend isn't currently on our hall."
+
+"Great, one down... several to go." I looked at the work before me and felt my good mood drop just the slightest bit.
+
+Now knowing what I needed to do I began on the 'harmless but probably useful' controls next, doors, elevators, that kind of thing. One by one I cleaned out the ice and put the settings on. I did slightly worry about accidentally drawing too much power from the generators but they seemed to be chugging along without the slightest of concerns. The readings stayed the same regardless of what systems I turned on.
+
+Soon enough though I was starting to struggle. Casting spell after spell through the night was no joke and my mana reserves were falling, as was my wakefulness. I found myself looking at one of the many controls through the room for something like ten minutes, and realizing that I'd completely forgotten everything I'd just read.
+
+"You okay?" Ulanion asked as he saw me rubbing my eyes.
+
+"Bit worn out is all, give me a second."
+
+"Nothing wrong with being tired, rest for a bit then we'll get back on it." He was still standing guard, though with the new locking feature on our room that was probably unneeded.
+
+"Yeah, okay, I'll just sit down for a second..." I agreed.
+
+I found a open spot on the floor and tried to curl up. I was wiped enough that I thought I'd pass out immediately, but as it stood the ground was sucking heat from me and making me shiver and chatter my teeth.
+
+My third or forth time trying to rearrange myself I felt my companion move over and beside me. Ulanion gave me a slight smile as he tossed his cloak over me. It was irritating that he felt this comfortable, but I was cold, so I ignored it and leaned on him. He made a passable pillow, and I did stop shaking.
+
+On the other side of the facility
+
+Dras
+
+As the massive form of the monstrosity that had been coming and going flashed out of the door in front of us once again we turned.  At first we'd tried to chase it down, but that was a losing proposition, it would try to set traps, falling rocks and the like.  These had gotten significantly less effective of late though, and in the last hour or two we'd only caught a glimpse or two of our enemy as we moved throughout this frankly massive complex.
+
+"Do we follow?"  Robert asked from my side.
+
+"Could be a trap, but there are only two doors here."  His sister observed.
+
+"Yeah, the last time it let us see it go one way, only to drop that boulder on us when we tried to go the other."  Glen had been particularly irritated by that trick, and he still looked sore as he spoke.  He was tough as steel though, and it hadn't slowed him for long.
+
+The lights coming on had been a small miracle for us, saving a lot of mana usage and it seemed hampering our pursuer.  Glen had pointed it out at first, but now even I could see it, the wolf-beast was slowing, and not by a small amount.
+
+As we were discussing a section along the wall lit up and made a small *DING* sound.  We'd seen a few of these here and there, but had no idea as to their use.  They just seemed to be a door looking bit with an outline, but no obvious way to pass through them.  Now that it was fully lit however I could see a pair of glowing triangles pointing up and down beside it.
+
+"Is that..."  Selene began.
+
+"It looks just like the ones back in the city yeah.  I'd wager the design is based on ones like this," I responded.
+
+"Dras, this place is waking up, should we be... worried,"  Glen's question wasn't a bad one, but I doubted we were in trouble.
+
+"I don't think so."  Somehow I'd been elected as our leader since Olnir was gone.  We'd gotten close enough to see the streak where he'd been, thankfully Ormien swore that he saw the other elf grab Alana and bolt.
+
+"Is it because we're here?"  Ormien asked, looking about the room.
+
+"Honestly, I'd bet it has something to do with our missing bard," I responded, getting a chorus of nods.
+
+"Regardless, we've got decisions to make, to see if we can find said girl."  Robert was still scanning, and seemed on edge.
+
+"I think we go down, I'd like to regroup before we go after the wolf again."
+
+"Elevator then?" Selene asked.
+
+I nodded and we piled in.  It was a bit cozy, but we could manage.  Once the doors closed for us again I pressed one of the buttons labeled 'basement'.
+
+Alana
+
+I was unceremoniously stirred by a panicking Ulanion.  He roughly shook me for a few moments.  I sincerely thought about shouting at him until I managed to come fully to and process his words.  He spoke the human tongue pretty well, but now when this stressed.
+
+"Alana!  Up, something's happening!  Get up now!"  He yelled at me in Atali.
+
+As I scanned the room I began to panic too.  There had still been ice here and there but it was now... sublimating away at a rather high speed.
+
+"Where did it start!?"  I asked.
+
+The archer pointed to a now fully lit control panel that I hastened over to.  I'd labeled it 'temperature controls' and left it be.  Instead I'd worked around it, but it seemed that the heat coming off of the nearby panels had melted some of the ice inside and it had managed to repair and do the rest.  Now fully running it was speedily cleaning the buildup from the room and everything was coming to life.
+
+I froze, I'd been a bit too nervous to start that one up and this was not what I wanted at all.  I had no clue what all these would do, and there were certainly a few that I wanted to stay dormant until I had a full workup on them.  The most severe of those worries was just now beginning to power up.
+
+"Shoot that!"  I screamed, pointing at the panel in charge of security.
+
+For his part Ulanion didn't question me for even a second.  In a blink his bow was in his hand and firing.  The shining enchanted arrow slammed into the panel and... did nothing, it seemed somehow shielded once active.
+
+There was nothing I could do, either our presence, or something I'd messed with had initiated a full startup, and now the whole facility was coming back to life.  Just as I was thinking about all the ways this could go wrong a section of blank wall split, revealing a eight foot tall lupine figure.
+
+"POWER ON" a mechanical voice said in a barely understandable Atali as the eyes lit up.  "Detecting unauthorized entities, beginning removal."
+
+As the golem stepped from its alcove small blades slid from it's teeth, lighting with red energy in a most unfriendly way.  Ulanion blurred and appeared before me, his belt knife in hand.
+
+"Identifying mana signatures... Unknown mana signature detected, unknown royal-type mana signature detected.  Ceasing hostilities."  The golem withdrew its weapons and knelt before us.   "Your highness, what are your commands?"

@@ -1,0 +1,105 @@
+---
+id: 17cfa2f9-7463-5b4c-99a1-777e3ee9230f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 138 Breaking and Entering"
+slug: 0151-chapter-138-breaking-and-entering
+partOf: melody-of-mana
+position: 151
+ownLength: 2214
+unit: words
+ownProgress: 2214
+publishedAt: 2022-05-20
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/910663/chapter-138-breaking-and-entering"
+royalRoadId: "910663"
+markedReadAt: "2026-06-29T22:31:03.606Z"
+---
+
+My third year seemed to fly past me.  Between all of the many things going on and the work I was doing it was summer again before I knew it.
+
+My work on portals was progressing, but I'd run into a hitch, the cost was just too high.  I'd managed to practice it until I could now reliably move an apple or something around a room a few times without passing out, but it was slow going.  There had to be an answer beyond 'use more mana' because that was obviously not what the gates were doing, but I couldn't work it out.
+
+I suspected part of it was that they were fixed points.  If they were somehow connected that might end up meaning that their connection was far more stable.  While that was probably true, I wasn't sure how that was being done.  Did they need to be in specific places?  Was it something to do with the gate architecture, some form of spell that it was running when they were on?  Without more time to study them I couldn't work it out, and I wouldn't be getting any of that for another year or so at least.
+
+While I chewed on that little issue I continued to work my way through the Guide.  I looked to be getting near the midway point now.  This should have been something I finished in a year or two, but the lack of good organization was still a big mess.  There were references to other parts, that weren't labeled, and no explanation of how to find them, meaning that I had to spend far too much time wandering around looking for simple answers that I should just be able to search.  It was really less of a guide and more the ramblings of an expert jotted down about things he thought about when he thought about them.
+
+You'd think the 'Help' function would be useful, but here it honestly wasn't.  The problem with it was you had to know what you wanted for it to help you, and if I already knew what I was missing, I wouldn't be missing it.  Frankly that seemed to be an almost completely useless thing from where I stood.  I suspected that whoever had made it had some better use, but without them telling me what it was, or something in the Guide, how was I to know?
+
+Regardless of my gripes I was still learning loads.  Between my classes and my own research I was now easily one of the best, if not the best at writing sequences in my year.  I'd learned to pump in multiple functions and adjustments and now that I had a higher level core I could start to get into some really interesting bits.  These were mostly layering things one atop the other and in complex trees of behavior with if/then statements, that took otherwise simple actions into much more useful methods.
+
+It was one night as I was sitting, bemoaning my current state of progress that I received a letter.  This one wasn't much, a simple notice from Professor Endel that we'd be having another military exercise on our next day off.  It oddly didn't say what we'd be doing, just where to show up and when for the event.
+
+Our next Combat Spellcasting class came soon enough, and our teacher wasted no time in getting down to business.
+
+"Good morning everyone, I'm sure you've all gotten my notice by now."  There was a murmur of agreement. "Excellent, now, I won't be telling you what you're doing, but I will tell you that you will all need whatever basic rations you think are important for at least a day.  This exercise will test how you respond to situations that are unexpected, as you won't always know what you're going into."
+
+Several hands went up, only for him to shake his head.  "No questions on this one.  Now, let us proceed on today's topic, common monster weak points."
+
+This was something we'd go over every now and then for this class.  There were a number of monsters who could differ considerably from place to place, but most of them shared locations to attack, joints, eyes, brains, and the like.  Since these creatures were what we'd be fighting when we weren't going after other humans, those were important to know.
+
+After class I joined with a few others in discussion of what we'd be going into.
+
+"Well, definitely monsters of some kind."  Troy looked around at the others.
+
+"Sure, but any thoughts on what kinds?" A girl asked.
+
+"Who knows, heck, we might even be going into somewhere that has a lot of variety."  A few of the others looked at me as I jumped in, nodding as they thought on it.
+
+"The Junkyard again?"  One asked.
+
+"Hmm, I don't think so.  We've been there a few times now, so it wouldn't be a surprise.  That's what he was talking about right?"  Troy was right, even after the attack there we'd gone back once or twice for other, less strenuous exercises.  Even if we only had a few of these days a year, they still added up here and there.
+
+I sighed as I looked about the room.  "Well, if it's a surprise we have only two options I suppose.  We can try to figure it out, or we can let it come as it does."
+
+"Isn't one of those cheating?" Asked the girl from before, I thought her name was Samantha.
+
+"Is it?  It might not be what Professor Endel wants us to do, but war isn't fair, and going in blind is stupid."
+
+Troy looked at me.  "Alright, I'm game, you lot?"
+
+The girl looked a bit worried but nodded, as did everyone else in the little gathering.
+
+"Okay, so here's what I'm thinking..."
+
+The thing about breaking into Professor Endel's office to steal the info was... we didn't need to.  Well, some of us would be trying, but I didn't honestly expect that to work.  There were multiple parts of this plan that were easier to work out, and many, many avenues that would have decidedly less security.
+
+First of all was the fact that the vast, overwhelming majority of any plan involved having more than once person.  Knowing that, and that we only needed to know where we were going opened some routes.  We could go after his new assistant (minder) and see what we could learn there, but that seemed about as likely as trying to get the info from Endel himself, not very.
+
+So we broke into three pairs to look into different areas, this fit our group of six well.  One was after the Professor's information, one would try breaking into the office, and one would be looking into the transports.  I was in the last, because I thought it had the best chance of success.  All of us were of course under strict instructions to bounce if it looked at all hairy, better to fail than to get caught.
+
+We always took carriages wherever we were going for these events.  It stood to reason then that we'd be taking them on our next outing.  With this information in hand, and a guess that the carriage operators would both have a schedule and some notes, we aimed for them.
+
+Few people who were raised amongst nobility thought much about all of the many workers below them, and that was a huge flaw.  For each student there were a number of staff, be they our maids and manservants, the cleaners who took care of the main part of the school building, or the staff who dealt with any of the other general service, like moving us around.  That was a flaw in my view, one that we needed to exploit.
+
+Troy had joined me as we sat on a ledge overlooking the small stable.  It was off of the main building, nearer to the gates.  We were here just after our classes ended and while we could see a few lights still on, things were definitely winding down over there.
+
+"Being invisible is weird," Troy observed.
+
+"You get used to it.  Heads up, looks like the last light just went out."
+
+"Alright then, we wait about a quarter of a bell then move.  How do I know where you are while we do that by the way?"
+
+"You'll take my hand obviously.  Be ready to deal with any wards on the building or anything like that."  I could of course sense him to some degree, being that my spell was covering him, but the opposite was very untrue.
+
+As I counted the last of the time down I nodded, sighed a bit at the useless gesture, then took Troy's hand.  "Time to go."
+
+We moved across the drive silently, I'd worked the spells out for that years ago.  His addition to this started here as well, as he'd cleared the normally dirty area while we waited, removing any dirt and dust that might have given away our footprints.  By doing it slowly enough and over the whole drive it didn't look very obvious, but might prove important if anyone was watching.
+
+As we reached the building we needed to make a few quick decisions.  Neither of us knew how it was warded, if at all, or where.  We also didn't know what the locks on the doors or windows looked like, and what might come of those.  Troy moved forward and took a quick look at the main door, checking the seams for runes, or the signs of obvious warding.  That done he tapped my hand twice, a signal that there were wards, but they were minimal.
+
+Next we needed to check windows, it was likely those were protected too, but if they were there was only one solution.  A quick look over revealed that the first floor ones decidedly were, and floating a mirror up to the second floor let us know that those too were protected.  That was unfortunate, but not unexpected, we'd just been in a war for several years and our school would have been a primary target.
+
+We students were somehow given a pass by the school's normal warding, but we couldn't bet that these would be the same.  That said, everything had a weakness, including wards.  If we didn't care, we could just break some of the connections and be done with it, destroying them.  That wasn't an option since we were both trying to be sneaky and trying to not disrupt the school's functioning.  That left us with draining the magic from them.
+
+Something like this wouldn't work for the main building, but this wasn't nearly as well protected.  See, sometimes magical items that have a charge need to be drained, for whatever reason.  If the item is damaged this can be dangerous, but for a well functioning, well built thing this is no big deal.  There were tools for it, and Troy set quick to work on pulling all of the mana in one of the windows out.
+
+As he finished up I carefully undid the latch on the other side with a small spell and slid the glass pane up.  One of us would need to stay there to make sure that the magic didn't refill from any connected area while the other got inside and looked around.  Since I was both the more sneaky and smaller of the two I got job number two.
+
+This place was quite literally a barn and it took me only a few moments of looking around to find the small office-like area attached to it.  Here the workers could drink tea and go over their assignments, and like most break rooms, it had a nice, friendly board with papers on it.  From there I only needed to find the order for the day and time of our departure, easy since I knew roughly how many of us there were, when we were leaving, and from where.  I quickly marked down our destination on a map of the city I'd brought for just such a situation and slipped back out.
+
+Our little conspiracy met back up right after breakfast the next morning.  The other groups had failed, but that was due to them not finding a good way into where they were going.  I'd thought that the office group might get something, being that one of their people was supposedly practiced at ward bypass, but he'd taken one look at it and called a retreat.  Endel had also apparently stayed in his office until almost curfew, so no luck there either.
+
+I laid out the map we'd managed to secure and frowned down at it.  "Just a location, but I've got no clue what's there."
+
+"Not much," our other female conspirator answered.  "That's the back end of one of the parks in the old noble's district.  The only thing there is an entry for one of the little creeks.  My brothers used to get in all kinds of trouble for using it to get down into the... un-der-city-shit."  The last word was drawn out as she realized our destination.
+
+For my part I just buried my face in the nearest padded chair and screamed.

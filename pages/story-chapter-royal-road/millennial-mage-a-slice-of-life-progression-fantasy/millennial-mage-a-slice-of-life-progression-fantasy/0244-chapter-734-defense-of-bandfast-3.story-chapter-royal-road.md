@@ -1,0 +1,221 @@
+---
+id: 34aa3617-81bd-584d-99dc-22b53762df42
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 734 - Defense of Bandfast (3)"
+slug: 0244-chapter-734-defense-of-bandfast-3
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 244
+ownLength: 2771
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3772571/chapter-734-defense-of-bandfast-3"
+royalRoadId: "3772571"
+---
+
+Tala’s flier screamed over the last hill, Bandfast finally in sight. She was keeping nearly a thousand feet in the air so that no automata could interfere with their arrival.
+
+It would be less than thirty seconds before she could will herself down to the walls, and even that was going to be pushing things.
+
+Juggernauts were clinging to those walls, their arms embedded deep on either side of the harpoon-borne chains as their smaller brethren—and some of their own kind—flowed out and up from the thirty remaining connection points.
+
+The defenders had managed to dislodge two of the enemy anchors, sending loads of automata down into the grinder below, but even that was slowing, the city’s holistic defenses pulling back to maintain power for more judicious use.
+
+Still, there was quite a bit of impetus for the almost-tornado that was as wide as the entire city, and it was clear that the winds wouldn’t be dying down any time soon.
+
+The notably powerful automaton was still waiting on the cliff edge, seemingly overseeing the combat from afar.
+
+It was odd, because they’d expected the Black Legion to try to rush Bandfast, but something seemed to have changed. Instead they’d had a meticulous, almost leisurely approach to the whole assault.
+
+The alliance was clearly missing or misunderstanding something in their attempts to suss out the Black Legion’s plans and motivations.
+
+Still, Tala had a fight to join, and so the details therein required her attention.
+
+Even at this distance, Tala was able to perceive several groups of mundane fighters using their expertise and lifetimes of training to oppose lesser legionnaires, even taking down some sergeants through group efforts, but they were all but helpless before anything stronger.
+
+Since this was a bit of a numbers game, they were undoubtedly helpful, but one thing had been made abundantly clear in this assault: The Legion didn’t care about casualties in the least. They operated far more like the Leshkin than even the Black Legion of old, and it was hard to fend off an enemy that seemed to truly not care if it lived or died.
+
+The funny balance of things between magical enhancements and the automaton reality field meant that the elite, mundane fighters often could do more damage more easily, but the Archon fighters were far better at avoiding taking damage themselves in one form or another.
+
+That said, the Defender Units that were coming to the city’s aid—few though they may be—were having the greatest impact beside Mistress Jenna herself as she sparked and flared from one portion of the wall to another, shoring up weaknesses.
+
+Still, the city was clearly suffering from a lack of combat oriented Archons.
+
+Tala saw quite a few Mage Protectors as she drew ever closer, and they were doing alright—especially where they were working with the mundane elites in groups that they were long used to fighting in—but in truth, they were a bunch of school-children with sandbags, trying to hold back the tide.
+
+Sure, they were doing something, but it was obviously not going to be enough in the end. Even if it was holding for now.
+
+That’s why we’re here.
+
+They arrived, and in the next few moments a great many things happened across the whole city almost at once.
+
+She’d long since granted authority to the Talons for entry and exit at their discretion, and as such, as soon as she was in range of the near wall, they began appearing to block attacks or land their own blows with the element of surprise, immediately alleviating the pressure in the hardest-pressed areas of the defense
+
+At the same time, Terry flickered forth, chaining his flickerings so close together that he was on the other side of the city before any of the combatants even noticed the Talons’ arrival.
+
+The terror bird tore through high level automata, targeting the head of each he encountered with void and reality tinted claws, utterly obliterating their soul-cores with terrifying ease.
+
+Tala extended her authority outward, blanketing the near-side of the city—as well as the area around Terry—but without the feedback loop of direct attribution of the fight to her, she was unable to extend her hold through every fighter. Even so, Alat began using what sway they did have to ensure those that were destroyed near at hand couldn’t ever return.
+
+Rane used his own granted authority—along with Enar—to deposit arcane fighters into hotspots that desperately needed reinforcement. Those reinforcements came mostly in the form Eskau and Pillars of the allied Houses, but some were also House guards or Guild elites as well.
+
+Tala didn’t take the time to really let the reality of that sink in. After all, the fact that she’d effectively brought the most powerful arcane fighting force to ever set foot within a gated human city would just be a distraction if she allowed herself to contemplate it.
+
+Even so, the fact that they’d come to help gated humanity did bring a smile to her lips.
+
+Those forces did trace their loyalty and actions directly back to her, and so each of them was a repeating beacon of sorts for her aura and power, drawing on the fervor and actions of those around them whom they worked to aid.
+
+She was just glad the city defenses had been reconfigured to accept their presence. Forewarned is forearmed.
+
+-Or in this case disarmed?-
+
+Indeed.
+
+Rane, himself, stepped to the superficial and directly into the path of a juggernaut that had all but cleared an isolated section of wall top.
+
+Her husband took two steps forward and drove his fist into the behemoth’s chest. With a sound like a mountain falling atop an iron statue, the blow collapsed the metal inward, the hit flinging the thing from the wall even as the automaton fractured into eight smaller forms, each desperately trying to snatch at the crenellations as they were tossed past them.
+
+Rane put his Reforged body to use, whipping Force after them and sending cutting arcs of kinetic force to ensure they couldn’t garner anything close to a solid grip.
+
+He then turned his attention to those automata still on either side of him, and Tala felt the man’s soul ignite, sinking into a controlled rage.
+
+Lea moved to join the Talons, her magic technically weaker than theirs, but her body truly a level above, allowing an equivalence of sorts as she threw her abilities into the mix at their side. Talax, in particular, was quite used to fighting near her, and they fell into a comfortable rhythm with no words needed.
+
+Alat took over the flier even as Tala anchored both the sanctum and Ironhold to it. The alternate interface would take the construct in a higher-flying, constant circuit of the city, so that all parts of the defense would be in range at least once a minute or so. Though, this was mainly because she would be circling well within the city, so that the outer wall was closer to the outer reach of the underlying bubble of Ironhold.
+
+If she had tried to fly the true circumference of Bandfast each minute, they’d have decidedly breached the speeds they could safely achieve.
+
+That intermittent access wasn’t ideal as the Talons were used to being able to instantly come and go at need, but it would have to do, given the sheer size of the area they were trying to cover.
+
+All this had taken less than five seconds to get moving, but even that was longer than she’d wanted to wait. Regardless, it was time for Tala’s own deployment.
+
+Tala was tempted to drop out of the sky and fall straight onto the highest level automaton she’d ever personally seen, but the lesson of the escarpment was still quite stark in her mind.
+
+They were momentarily clawing back the upper hand, but it would still be hard fought. Worse, they would all be weakening the entire time that the fight dragged on.
+
+Every single fighter Tala had brought with her had needed reality splinters removed, and they all knew that such would be accumulating once again, even though they couldn’t for the life of them see it happening.
+
+The only thing that could be guessed was that there were such splinters jutting off from essentially every automata, driving in and breaking off as a matter of course, but since they couldn’t really sense the things directly… Or can I?
+
+She’d have to see.
+
+Regardless, while she was tempted to drop on that one automaton, she was needed on the walls with the rest of the defenders. She could sally forth and drive off the attackers once Bandfast was fully secure.
+
+As to what she would do on the walls?
+
+A grin pulled at her lips as she willed herself forth, appearing just far enough above a chain to be outside the range of the anti-magical effect coming from the automata clambering across it.
+
+It was time to stem the tide.
+
+The metal links were colossal, the width of each as large as Tala’s thigh, showing that the Black Legion had done some reinforcing after the initial, much smaller chains were connected to the walls by the harpoon throws.
+
+The links also weren’t smooth, instead containing innumerable handholds, allowing the flood of automata that were swarming across like insects charging to battle.
+
+Tala almost simply shot siege orbs to super-cool the chain before using tungsten to shatter them, but that was too open to interference and risk. Instead, she dropped like the executioner’s axe of an angry sovereign.
+
+Flow took void-glaive form before Tala extended it, pressing the reality field back with her power, aura, and authority, preventing any interference.
+
+With a single vertical swing as she descended, she cleaved through dozens of automata—as they attempted to continue their assault—and the chain underneath, the void-magics in Flow radiating outward to remove all matter within two feet of the cut to either side.
+
+Before the great mass could more than barely begin to fall, Tala had flickered forward, toward the next chain in line.
+
+It took her less than two minutes to deal with all thirty remaining chains, and while she hadn’t directly clashed with a single automata, she could feel dozens of splinters within her flesh, somehow having bypassed her armor and the distance that she’d maintained.
+
+Are they growing it through the air somehow?
+
+She had made the full circuit of the city before flickering up to the wall to relieve a rather beleaguered guardsman who had been standing over the unconscious body of a downed Mage Protector.
+
+Tala took a frozen moment to truly take in the scene.
+
+Three other guardsman lay broken across the wall top. Two Mages were huddled back near the closest watchtower, each sporting broken bones and multiple cuts.
+
+Their magics were sputtering and sparking in a way that made it obvious that they were riddled with splinters… or given their unbound nature, they might only have a few, but the end result was the same.
+
+The one guard was standing over a larger Mage who looked to have taken a blow to the head. The armored form held a heater shield before him with obvious pain—Tala’s threefold sight showing that three of his fingers were broken on that hand—but he held it properly positioned regardless.
+
+Facing off against him was a single sergeant, the other Black Legion automata flowing the other way, toward more powerful defenders on that portion of the wall. A few even seeming to contemplate dropping from the wall into the city itself.
+
+It was only then that Tala noticed the powerful, weighty magic radiating from within the city that was forcing any sapient focus away from anything within the walls, and it was doing it with such force that even as it passed through the dispersion of the reality fields, it was still enough to keep the momentarily uncontested Black Legion on portions of the wall from taking advantage of the openings to drive inward.
+
+Well done, Mistress Elnea.
+
+-Master Mikael, Mistress Jenna’s husband, is also aiding in the defense. This might have been his idea.-
+
+Thank you. Send them both my compliments. Tala stepped forward, catching the back of the sergeant’s head and almost immediately banishing the soul-core, causing the artificial body to fall limp in her grasp.
+
+The city guard practically fainted with visible relief when he saw her. Tala smiled even though he wouldn’t see it through her helmet. “I’m sending you and your friends for healing.”
+
+The man barely nodded before Tala willed them to the healers in Ironhold, Alat having just brought that expanded space back into range on her latest circuit.
+
+Quick pings and checks with the Archive found that the few automata left on the walls were being quickly handled. Unfortunately, everyone was flagging, the reality splinters building up far, far faster than they could be removed.
+
+Around the city, the Legion had easily been reduced by two thirds, but those that remained were the more powerful variants.
+
+Even the sixty juggernauts that had been holding the walls around the harpoons had used their powerful forms to lunge back across the gap to rejoin the remaining forces.
+
+Tala didn’t like the implications of that action.
+
+In that moment of pause in the fighting, Tala felt an undercurrent of authority—that wasn’t her own—resonate throughout the city. She instantly recognized Mistress Holly’s touch and smiled.
+
+The inscriptions of the humans she’d brought all became slightly more efficient, more potent. It was good that the boost hadn’t come mid-battle, or it might have thrown some of them off, but now? In this lull? It just might help keep them alive.
+
+Tala, herself, felt the ripple through her inscriptions, and even though she relied on those less and less of late, it was still a welcome balm in the face of what she’d already faced and what was yet to come.
+
+The Black Legion truly didn’t seem hurried, obviously content to let their splinters weaken the magic users they sought to destroy.
+
+But if we show them that we can counter those, will they go back to an all out assault?
+
+They might be able to hold off the remaining sixty thousand larger and more advanced automata… but they might not.
+
+True, they looked scattered and less threatening without the hordes of lessers around them, but in truth, she’d be surprised if the army’s fighting capacity had dropped by more than fifteen percent.
+
+On the side of the allies, though? The splinters had easily cut down their ability to defend by nearly half, especially when all the wounded were included in that reduction.
+
+Her arrival with reinforcements had countered that for the moment, but her people were getting infected as well.
+
+They had a moment’s reprieve, but the defense of Bandfast was not certain, not yet.
+
+I need to use it. She began to steel her resolve. If I am armored in existence and wielding the ending blade…
+
+-You could cut through anything that opposed you with near impunity, but if they avoided you? Simply did their utmost to destroy the city while keeping their distance?-
+
+Tala grimaced. What if I attacked their leader now?
+
+-That might work, especially if it came along with a more widespread outward push.-
+
+She gave a slow nod. Coordinate with the local defense. Give me that push in five.
+
+-Minutes? Are you insane?- Alat was clearly a bit incensed.
+
+Widespread push or not, I’m striking back in five.
+
+The alternate interface grumbled, but she could see Tala’s certainty within their mind. -Fine. I’ll get it done.-
+
+Thank you.
+
+-Thank me by surviving, mind and soul intact.-
+
+That’s the plan.
+
+-Well, you know what they say about plans and contact with the enemy.-
+
+Yeah, yeah. I’ll be careful. She hesitated then, actually barking a laugh. Well, no, I won’t, but I will be smart.
+
+-I’ll take it. Thank you.-
+
+Tala had a thought, and felt herself grin. Alat?
+
+-Yeah…- Then she obviously noticed what Tala was considering. -Oh… Seriously?-
+
+Well, we are here in the city. The shop is in range, and we’ve already paid…
+
+-Fine, you glutton. I’ll pick up our orders on my next sweep.-
+
+Thank you.
+
+-Yeah, yeah. Focus on the fight to come. It’s going to be a hard one.-
+
+That’s the hope. If it’s easy, they won’t oppose me, and I’ll only make things worse.
+
+-To a hard, but not impossible fight.-
+
+Tala dismissed her helmet and pulled out a cheesy little caravan, taking a large bite, intent on devouring it before her time was up. Hear, hear!

@@ -1,0 +1,213 @@
+---
+id: 9427cce2-6f74-54ae-8ddf-8dd18685e0df
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 592 - Honored Acquaintances"
+slug: 0093-chapter-592-honored-acquaintances
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 93
+ownLength: 3061
+unit: words
+ownProgress: 3061
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2472494/chapter-592-honored-acquaintances"
+royalRoadId: "2472494"
+markedReadAt: "2026-06-29T19:38:16.485Z"
+---
+
+Tala held back for just a moment as Rane stepped forward to open one of the doors into the Caravaners’ Guildhall for his wife and daughter, allowing Tala to stride into what felt like a memory.
+
+She’d come through here quite a few times while going back and forth between Bandfast and Marliweather, as well as before that. It had been a blissful, more carefree time… before Be-thric.
+
+Yet we’ve taken back ourselves and risen higher than ever before, despite him and that time.
+
+-Arguably because of, as we rose to the occasion of opposing and escaping. A powerful challenge often leads to the greatest growth.-
+
+The doors were simple, if wide, and they had stood open when last she was here, allowing for easy foot-traffic in and out. This time, they had been closed, but obviously not locked. The arch which held the doors was easily wide enough for four people—five of Tala’s size—to come through shoulder to shoulder, with a bit of room to spare.
+
+The room they entered was a wide receiving hall, with clerks working in alcoves around the outside, as well as some more senior workers moving through the shifting groups of their prospective clients.
+
+Here, almost every business was represented, and it was a flourishing hub of activity.
+
+Restaurants negotiated food shipments, either for more specialized crops not grown within this city, or working to establish contracts for when the city’s farming phase ended. Artisans, craftsmen, and tradesmen similarly negotiated for materials, or to ship their goods to other cities, and countless others sought or negotiated similar services.
+
+As the Caravaners also carried mail from city to city, along with the other goods, there were quite a few people with letters, parcels, or packages moving about or waiting in one of the lines for that service.
+
+Tala shook off the memory of her first time here as she walked in, beside her daughter, right in front of her husband. As they stepped inside, a voice called from a nearby counter, “Mistress, Master, miss, welcome. How can we assist you, today?”
+
+Tala turned toward the Caravan Guild receptionist who’d called out to them, intending on asking after Mistress Kannis, but the woman, herself, seemed almost magically to appear, even if Tala had seen her coming from a cleverly disguised sideroom. “Mistress Tala, Master Rane, miss Lea, welcome and be welcome.” She turned to smile at the receptionist. “Thank you for greeting them, miss Turry. I’ll take it from here.”
+
+Turry gave a bow toward Mistress Kannis. “As you wish, Mistress Kannis.” She then smiled toward the guests. “I hope that you are successful in whatever brings you here, today.”
+
+Rane and Tala gave nods in return, Rane speaking for them. “Thank you. Have a good day.”
+
+Lea gave a bow after her parents, seeming to try to key off of them. “Good day.”
+
+Mistress Kannis led them off to the side, toward the restaurant attached to the Caravan Guild. “To what do we owe the pleasure of the Sappherrous clan’s visit?”
+
+Rane chuckled, and Tala shook her head slightly. “No need for the formality, Mistress Kannis. We’re leaving Bandfast, and wanted to come by to say goodbye, and for Lea to be able to see Fannas again and say goodbye to him.”
+
+“Oh! Well, that is very kind of you. Let me call him.” They stopped their progress as a group, and she closed her eyes momentarily, before opening them once more and smiling. “He’s on his way.” She turned to Lea. “Fannas enjoyed talking with you quite a bit. I know he’ll be glad for another chance. He bought a couple of decks of cards and some other things, in order to be better able to teach you the games he was telling you about.”
+
+Lea gave a little bow. “Thank you for your kind words, Mistress Kannis. I am rather excited to spend some time with him as well. He is an enjoyable companion.”
+
+“I find him so.” Mistress Kannis smiled in return before turning to Tala. “Your daughter is wonderfully polite. You must be proud that she is learning so much, so quickly.”
+
+Tala and Rane both gave small, pleased nods.
+
+“I know I wasn’t so well mannered at her age.” There was an obvious twinkle in the Mage’s eyes along with the playful words, and the three others each smiled at the rejoinder for their own reasons.
+
+A minute later, Fannas walked out of a back room, drawing a few glances and greetings—which he returned as appropriate to each—but not too much more than that. It was obvious that he was a well known and accepted feature of this guildhall.
+
+Lea hopped in place and waved, then scampered over to Fannas’s side, barely containing herself enough to arrive next to him before bubbling over with chatter.
+
+Tala decided not to listen in on Lea’s socializing, instead joining in on Rane and Mistress Kannis’s conversation.
+
+The young Mage had taken to her master’s old position in truth, and she was well and truly accepted as the head clerk of this local branch.
+
+Lyn had dropped through a few times already in recent days to say hi to old colleagues, as well as to check in on Mistress Kannis, and the younger woman had been delighted to see her.
+
+Things were going smoothly, and while caravans were still being attacked as they forged through the wilds—even occasionally lost—there hadn’t been any concentrated areas of such losses of late, meaning that the cycling cities seemed to be enjoying a time of relative safety and ease of travel.
+
+That caught Tala’s attention. “Oh? Do we know why things are a bit safer of late?”
+
+Mistress Kannis shrugged. “Well, honestly, it’s a lack of things more than anything else. There are no prominently rising Magical beasts, and those that were known have wide ranges.” She hesitated then, and winced. “I apologize. I know that your sister… I meant that there were no new rising magical beasts along our trade routes, I know that you yourself just encountered one near a city and—”
+
+Tala gave a sad smile while shaking her head and speaking to end the building awkwardness. “I know you didn’t mean that badly, Mistress Kannis. My sister passed in the line of duty, protecting those under her care. No more needs be said.”
+
+Mistress Kannis hesitated briefly, and then nodded. “Very well. Thank you.”
+
+Tala gave a tight, but understanding, smile.
+
+The Mage cleared her throat and moved on, clearly falling back into a more familiar topic. “So, with such wide ranges for the known beasts, it’s always a bit of a coin toss whether or not they’ll be encountered. Caravans have been missing most such potential encounters, and those that do cross paths have been well prepared for the specific beast in question.” She shrugged again. “We’re not doing anything differently, not really, but it’s bearing fruit for the moment.”
+
+Rane grunted at that. “Like the harvest from a crop. Some years it’s not great, and some years it’s fantastic, not really from the farmer doing different things, but because the environment and weather are more or less favorable.”
+
+“Exactly.” She nodded. “The farmer can’t know the exact weather or other factors that will come into play through the year ahead. So he just does the best he can, and in retrospect it is more or less successful in a given year.”
+
+Tala ‘hmmed’, nodding slowly. “I think I can see that, yeah. Well, I’m glad that caravans are safer for the moment. I hope that such doesn’t lead to laxness or a change in expectations.”
+
+Mistress Kannis sighed, a bit of sadness creeping into her eyes. “That is a danger, yes. We don’t advertise to the citizenry that things are safer now, because that’s looking back and holds no promise for what the next years will look like, or even just the next trip, but those with more influence have access to the information, and some of them lack the understanding of statistics and the various other concepts in play. We’ve had two non-guild caravans depart from Bandfast in the last year, both toward Marliweather. One got through with a few scuffles. They lost half their guards to things that wouldn’t have even required Mage Protectors for us. The other? Gone entirely.”
+
+Tala frowned. “We allow that? The traveling of non-guild caravans?”
+
+Mistress Kannis arched an eyebrow. Though there was still mischief in her eyes. “Allow? People aren’t prisoners in our cities, and it’s rather funny that you ask, given you, by yourself, would qualify as a non-guild caravan.”
+
+“I know all that.” Tala sighed before huffing a laugh. “But we still keep citizens from doing especially stupid things.”
+
+“You’d think so, right? But no. We prevent them from doing especially dangerous things, if that danger is posed to others. That’s it. You know this Mistress Tala. Rust, that overarching policy is how you’ve been able to do half of what you have done.”
+
+Rane huffed a laugh and nudged his wife with his shoulder. “She has a fair point.” He flexed their aura briefly, trapping all sound within as he said the next sentence. “Even with Lea, the issue was only whether or not she would be a danger to others, once that was shown to be unlikely…” He shrugged, releasing the lock. “We were left to our own devices.”
+
+Tala grunted, but Mistress Kannis glanced around, frowning. “This isn’t the most private of places, Master Rane.”
+
+Rane shook his head, smiling. “I secured us for that moment. We’re fine.”
+
+Lea let out a giggling laugh that actually had notes and tonal similarities with Terry’s laughing trill, now that Tala considered it. That’s interesting.
+
+-Lea doesn’t really have vocal cords as you do. So, between non-human sound generators, and the fact that children often tend to take on similar sound characteristics to those around them, this is just a bit more extreme of a case due to her capacities and Terry’s close integration with our family.-
+
+I can see that. I don’t want to control her, nor remove what makes her unique, but should we consider trying to curb some of that?
+
+-At the moment? No. Her laugh is more musical and melodic than most other people’s laughs, but it’s not really so far outside of the range of human sounds as to be noted as such. Unusual? Yes. Notably lovely? Yes. Inhuman? No.-
+
+Understood. Thank you.
+
+-What’s a mother for?- Alat had a smug contentment to her words that made Tala feel a bit mischievous.
+
+Well, lots of things. If you really need me to spell it out for you I—
+
+Alat gave an exasperated sigh, drawing an internal smile from Tala. -You know we both do this, right? It’s not just me?-
+
+I don’t know what you’re talking about.
+
+At that moment, an oddly familiar voice sounded out from behind them, where they’d been heading before Fannas had come out and the adults had stopped to let the children talk for a moment. “Mistress Tala? Master Rane?”
+
+Tala and Rane turned, finding a pair of incredibly familiar Mages.
+
+They were both taller than she was, with the younger being the taller by half a head at least. They had brown hair cut close to their heads, though the elder’s was slightly longer, darker, and curly. They both had the lean, careful physique of Mages and faces with well used smile lines. While both looked older than the last time that Tala had seen them, neither had more than one or two gray hairs across their whole head.
+
+“Rust the sun, that is you!” Master Trent came forward, arms wide, and Tala smiled as she returned the offered hug. Clearly his elevation to Archon had increased his faith in the integrity of his own inscriptions when close to another’s.
+
+Master Renix stepped forward as well and bowed, before Rane caught him up in a hug too. “Congratulations, Master Renix. I don’t think we’ve seen you since before your elevation.”
+
+“Congratulations, Master Renix.” Tala echoed her husband. “Why are you still around this one? Mage-life not as appealing as you had thought?”
+
+Master Renix returned Rane’s hug before exchanging one with Tala as well. “He’s kindly talking me through what it will take to become an Archon.”
+
+Tala raised an eyebrow at that, looking to Master Trent. He shrugged. “The very basics. He’s progressing well, but I suspect he’ll need another decade of seasoning before he’s truly ready for… that step.”
+
+She took in the older man’s aura, finding him already halfway Fused. “You are advancing rather well yourself.”
+
+He smiled, self-deprecatingly. “Not really. I reached this point almost at the moment of my elevation. Master Grediv is a kind and wise guide, and he set me up for success.”
+
+Tala narrowed her eyes, taking in the man’s soul and truly analyzing it. “Ahh, so he played the match-maker with you as well?”
+
+Master Renix’s eyes widened, but Master Trent just huffed a laugh and shook his head. “You always did see more than expected. Yes. I married one of his great-great-great nieces a few years back.” He glanced toward Rane. “Not in your line apparently.”
+
+Rane grunted but didn’t otherwise comment.
+
+“Anyway, Maria and I have been very happy. She’s in Manaven with our three, while I took this trip to check in on my old apprentice.” He clapped Master Renix on the shoulder.
+
+Tala arched an eyebrow. “And we just happened to be here at the same time as you?”
+
+Master Trent shrugged. “I’m here about one month every year or so. The caravan work out and back is a good extra income, and Renix just won’t move out to be near us.”
+
+Master Renix’s eyes flicked toward one of the Mage clerks on the far side of the main office, and then away. “I have things to do here. It’s a great base of operations.”
+
+Tala suppressed a smile. “Do you have time to catch up?”
+
+The two men exchanged a look and shrugged, Master Trent speaking for both of them. “We can make some time, yeah.”
+
+“Well then, let’s get some food. Our treat.” She turned to her daughter and her friend, waving. “Lea, Fannas, come on. We’re getting some food, and Lea?”
+
+As the girl walked over, she gave a nod. “Yes, Mother?”
+
+“This is Master Renix and Master Trent. They are family friends, and they were fellow Mage Protectors when we filled that role.” She indicated Rane and herself. “Can you say hi?”
+
+Lea bowed to the two in turn, automatically giving the exact right depth of bow to each. “Master Renix, Master Trent. I am Lea Sappherrous. It is a pleasure to meet you.”
+
+The two Mages bowed in return, greeting her as well before they all turned to move into the restaurant. Master Trent leaned toward Tala as they walked. “Sappherrous? Isn’t that your and Master Rane’s last name? Not adopted then?”
+
+Tala nodded. “Yes, she is our daughter, down to her soul.”
+
+He gave her a look, then laughed, chuckling. “All Mages have their secrets, eh?”
+
+She grinned in return, remembering how often they’d had conversations that ended in that or similar ways. “Indeed.”
+
+As they stepped through the wide double doors, another voice from Tala’s past greeted them. “Master Renix, Master Trent, did you forget something, or—”
+
+Mistress Atrexia cut off as she was walking across the floor, clearly in a position of authority within the place.
+
+Her eyes widened a bit as she took in those with Masters Renix and Trent. “Mistress Tala, you’re still alive, eh? And Master Rane, I have heard well of you, be welcome. It has been a long time. Welcome to my establishment.” She bowed to each. “Mistress Kannis, you are a bit early for lunch. Can I assume it is due to these two?”
+
+Mistress Kannis smiled. “It is. Will that be a problem? I can wait on my food until later if—”
+
+“No, no. It’s more than fine.” Mistress Atrexia smiled. “I’ll let the kitchens know.”
+
+As the woman turned and left Tala turned to Mistress Kannis. “Mistress Atrexia works here?”
+
+“She and her husband own it, or I suppose you could say they own the contracts to run it within the Caravaners Guild. You know her?”
+
+“She was on the same trip as Masters Renix and Trent when I met them.”
+
+“Oh! I didn’t realize that, or I’d have told you about her.”
+
+“If that’s the same Mistress Tala—and if my eyes don’t deceive me, it is—then she knows me too.” Master Cran set his book to the side and stood from where he’d been sitting at a table near the entrance—just as he had so long ago when Tala had first met him—and bowed deeply. “We only spoke occasionally, but I am the aforementioned husband. Do you remember me?”
+
+Tala blinked a few times, taking in Master Cran. “I do, yes… I had not expected this day to be so full of reunions.” She looked around. “I half expect Master Tang to come walking in now.”
+
+There was a momentary hesitation that lengthened into an awkward silence as Masters Trent and Renix winced. Mistress Kannis frowned, clearly not recognizing the name.
+
+Master Trent finally spoke, breaking the building silence. “Master Tang died defending a caravan some four years back. He held the line against a wave of creatures. No one else was even hurt, making him the sole casualty of the incident.”
+
+Tala felt herself deflate a bit. “Oh… I didn’t know.”
+
+Master Trent gave a sad smile. “There’s no reason you should have known. He wasn’t the most pleasant man, but he acted in honor at the end.”
+
+She honestly didn’t know how to process that, and it sat heavily on her heart while she contemplated.
+
+Mistress Kannis waited a moment before clapping her hands and drawing everyone’s attention back to her. “Honored acquaintances aside, shall we all sit? I think it is a wonderful time for catching up with old friends before Master Rane and Mistress Tala depart.”
+
+Master Cran grinned, seemingly trying to help lift the mood as he motioned to the table that he’d stood from. “And for meeting new friends. Who is the lovely young woman with you?”
+
+Tala gilded herself and smiled. Well, here goes nothing.

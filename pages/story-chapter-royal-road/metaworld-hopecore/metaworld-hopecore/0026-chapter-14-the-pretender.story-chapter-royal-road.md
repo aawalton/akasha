@@ -1,0 +1,195 @@
+---
+id: 3d2c4ae7-f005-54f5-b336-bde2acbca03e
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 14 - The Pretender"
+slug: 0026-chapter-14-the-pretender
+partOf: metaworld-hopecore
+position: 26
+ownLength: 2081
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368683/chapter-14-the-pretender"
+royalRoadId: "3368683"
+---
+
+“I paint not what I see, but what I saw."
+
+Edvard Munch
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+[Causality: 4524]
+
+When Eppie received almost a dozen notices stating that she had gained almost 4000 [Causality], she deeply suspected that Armand wasn’t just going to be a guy who painted commissions for the corridors of corporate towers.
+
+From the vibe of the [System], it meant that Armand was about to embark on an arduous but ultimately rewarding pilgrimage to find the veritas of his art.
+
+Once she got back to her dorm, she cleaned up, put everything in the dryer-washer, then cleaned herself before finally settling into bed to check her gains. Finally satisfied, Eppie slept like a log until Josefina awoke her for breakfast, teasing her about her pintor escort.
+
+Both Ava and Halle were dying for details, and with as much dryness as she could muster, Eppie told them exactly what happened, sans the singing.
+
+“I don’t like the beach,” Ava confessed. “It's sandy, of course, and the sand gets everywhere.”
+
+“I wish a hunk would pull me out of the sea,” Halle hammered the table. “So romantic!”
+
+Josefina rolled her eyes.
+
+Today, Ava and Halle had a week’s worth of homework to catch up, but not so for Eppie.
+
+On the Seventh Day of the new school term, there was no rest for the wicked.
+
+Eric Lee, workaholic and good enough boyfriend, awoke to the sound of his Blackberry buzzing.
+
+Having committed a good portion of his savings to a fruit company and a search engine, he was suffering sleepless nights of late, which often made his girlfriend not in the mood for morning cuddles.
+
+He was very much surprised, therefore, when, on Sunday, the 19th of August, 2007, at 8 AM, he received a text from a saved number with the notification “I need your help”.
+
+Like a jack-in-a-box, he sprang out of bed, failing to unlock his phone twice before he finally read the rest of the message.
+
+“I need your help getting this song to Frederick. If you have a line, use Mueller’s number (the one you got from our last trip in NYC). I uploaded a video of the song on YouTube; you can also see it on my MySpace account. Check the link below. (This is not phishing, I promise.)
+
+Frederick did not know exactly what Phishing was, but the cybersecurity guy at work did mention it in one of those meetings, which could have been an email.
+
+When his heart rate finally returned to its usual arresting rate, he swore loudly.
+
+“What’s wrong?” Emily stumbled into the modest kitchen of their shared West Hollywood apartment, one hand rubbing her eyes.
+
+“Work,” Eric said. “It's Eppie.”
+
+“Oh no,” Emily shot from sleepy to wakefulness at once. As a third party, she had been completely invested in Eppie’s story as it had unfolded. “Is she in trouble? Should I get the car?”
+
+“No—” Eric fiddled with the phone until it sent the message to himself as an email. “Eppie sent us another song.”
+
+“SHE DID?” Emily ran to the laptop, almost tearing off the cover. “Let’s hear it! Put it on the sound bar!”
+
+After his work with the bigwigs in NYC, Eric had been promoted, and as a part of that promotion, he had received many gifts from the LA office for his ongoing contributions, including decommissioned products from Sony’s Electronics division.
+
+The MySpaceTV video took a few seconds to buffer. It was 4:3, grainy, heavily compressed, and so dark he could barely see her face and figure, and the CSULA backdrop with the yellow bulbs made the scene look like something out of a horror film.
+
+Then, the song began.
+
+The soundscape was the worst, but somehow, her voice itself penetrated the static and the compression and pierced through the screen into their hearts.
+
+Emily was crying again. She always cried when listening to Eppie.
+
+Swallowing, Eric scrolled down the video profile.
+
+Poet_91_X wrote, “Lmao. Is she wearing a K-mart top? Why is she wet? Is this a promo?”
+
+SceneQueen_Fleur wrote. “If she’s pretty, she should show her face, Lol. But seriously dough. That voice is UNREAL. Who is she?? Has she signed to a label yet? this feels like something from a soundtrack."
+
+Prawn_Fanatic_88 wrote, “Is she singing about Gogh? I know van Gogh. This is sick. This is SICK YO! You can HEAR the paintings, people! To the BBS Boards! Brb. Note: F U Poet_91_X for making the first about her shirt. The internet remembers!”
+
+There were a total of 78 views, but 40 comments. Most people, it seemed, felt compelled to leave a message.
+
+“Wow,” Eric said, sitting back. “What do you think?”
+
+Emily looked up at him with reddened eyes. “Are you serious right now?”
+
+Eric straightened his spine. “So er… Should we still go to the park for that walk?” “Hell no!” Emily leapt to Eppie’s defence at once. “Go call your boss! Tell them they need this! Tell them to pay her before someone else does.”
+
+“Right then,” Eric adjusted his invisible tie. “I guess I’ll make some calls.”
+
+Trent Davis, CEO of SONY BMG, was 4 holes into a fantastic 18-hole game when a golf cart bearing the indifferently attired visage of his Creative Director rolled up with an outstretched hand and a wolfish grin.
+
+“Money,” the man said. “I need to buy a song.”
+
+Davis apologised to their peers: a fellow CEO from BMG, a bigwig producer from Rough Town Records, and a junior Executive Officer from Tokyo, then swung. TANG—!
+
+The hit was clean, as was the arch.
+
+Davis admired his work while the others took their turn.
+
+“Alright, what now? Who is it? How much do you need?”
+
+“It's from the girl, and I need about fifty grand and authority to modify the standard contract.”
+
+“Do you have any idea how little that narrows it down?” Davis walked as he talked, pacing beside the man in his electric golf buggy. “Is it Noah? Hmm. Can’t be Cass, she can’t write. Jamison? Oh, is it Levinski? He did say he would have something soon for the new girl groups.”
+
+“No, no, none of that noise,” Curon swerved around a bush. “It's the girl, Eppie Fontaine.”
+
+“She wrote a new song?” Davis frowned. “Come on, do you seriously expect another hit? What is she? Bach?”
+
+“Universal Records,” Curon replied impatiently. “She’s not greedy, but I don’t want to be sued or ruin our relationship. I got Eric doing the contract as we speak. The new song is blowing up on MySpace. I’ll send you the link.”
+
+“Fine,” Davis waved his friend away, like shooing away a fly. “I give you full authority for Fontaine. Your song, your problem. If—”
+
+Curon was gone.
+
+Davis shook his head. A minute later, his Blackberry beeped.
+
+The CEO of the largest music conglomerate in the world arrived at the green, his Calloway Hex-6 only a few inches from the hole. He tapped the ball with his two-ball putter, and it sank itself handsomely with a satisfying tink.
+
+“Well, you look at that," he remarked to his peers, "an Eagle!”
+
+Eric dropped in after midday with a familiar contract with a generous upfront endowment and a mysterious duffel bag.
+
+“What’s in the loot bag?” She couldn’t help her curiosity once she read through the contracts and verified the usual distribution. Her Karmatron Foundation was already nearing $50,000, a tidy sum for a fifteen-year-old, but more or less nothing if she desired to sponsor an artist or a cause at a state or national level.
+
+“Emily said you were still wearing the clothes we bought last time from K-mart, so she asked me to bring you some. I instead spoke to Coordinator Curon, and he told wardrobe to spare a selection of their off-seasons inventory. Which brings me to my next question—how are you taller? I saw you last week.”
+
+“Teenagers have growth spurts,” Eppie shrugged, measuring her shoulders with her fingers, then using the same digits to effect a knowing expression of mischievousness. “The food court here is to my taste. Very nutritious."
+
+Eric looked to the KFC behind her, the kababs to her left, and the McDonald's beside her.
+
+“Are you being paid to say this? Blink twice if yes.”
+
+Eppie burst into laughter. “Do I take the whole bag home? Or do I pick out a fit here and now?”
+
+“It’s all yours,” Eric patted the heavy bag. “Pretty heavy though—whoa—”
+
+She lifted the toddler-sized bag with one hand.
+
+“You’ve been working out?” Her lawyer was impressed.
+
+“I’ve been a good girl,” Eppie grinned. “100 push-ups, 100 sit-ups, 100 squats, and a 10km run daily.”
+
+“Right…” Eric’s leather briefcase clicked shut. In the far distant future, the man could just send her an email with DocuSign, but for now, every transaction was analogue pen and paper.
+
++ Karmic Causality+ Karmic Causality
+
+She received her payment with gratitude.
+
+“Thanks for coming out, Eric. Thank Emily for me as well.”
+
+“She’s a fan,” Eric gave her one of his fatherly grins. “Say, I was wondering, would you like to join Em and me for dinner?”
+
+“I would love to.” Eppie clapped happily. “But not today. I am waiting on my AP Physics and Japanese results, and I need to brush up on the work I missed. I was out all yesterday, working on this song.”
+
+“That song took you one afternoon?” Her lawyer raised both brows. “Hold up, did you say AP Physics?”
+
+“Well, I did the competency test. I don’t know if I passed yet,” she replied with feigned humility.
+
+“Good luck.” The two shook. “Wow, AP Physics. That was a nightmare for me. When I took the SAT, I needed a 5 to score enough points for UCLA. Look at my arm, I am getting goose bumps.”
+
+Eppie had nothing else to say other than that she was very, very grateful for his help once again, and that indeed, she would need his help in the future.
+
+“Actually, if you don’t mind a bit of advice from me,” her lawyer said. “If ever inspiration strikes again, see if you can write a song suited to one of our existing artists. I know you’re not one for fame or money, but if Director Curon is willing to give you a similar cut for writing credits for one of our top 20s, your Fund will grow exponentially.”
+
+The man suddenly paused, as if recollecting an important piece of information. “Did you say AP Japanese earlier?”
+
+“And so will yours, if you just keep investing in Apple and Google.” She stepped away, then half-turned her body before tilting her head to deliver a small, energetic wave. "Ja ne, Eri-kun! Ittekimasu!"
+
+“KEEP your phone on!” her lawyer yelled back as she retreated, cringing at her youthful impulse. “If there are any changes, we need to re-sign!”
+
+At the dorm, Eppie reviewed her English Honours, Algebra II, and World History, then re-read the script for Antigone, miming out the scenes she had missed on Friday.
+
+At 5 PM, her roommates arrived, and the trio shared a meal with Josefina, who once more delivered on her soulful cooking.
+
+At 630, she dragged the girls out for a jog, then dumped them at the front door at 715 to shower with uninterrupted hot water.
+
+Then she checked her loot bag.
+
+As it was 2007, she had no expectations for Eric’s selection, but was pleasantly surprised by Sony LA’s quartermaster pick.
+
+There were several “blank slate” items from American Apparel, the absolute teen staple of the era, consisting of disco pants, V-neck tees, and unisex hoodies. Underneath were more Juicy Couture, but she absolutely could not stomach the idea of low-riders.
+
+Underneath the garish selection, she found gold.
+
+Free People skirts, two of them. Lace camisoles, one in yellow, another in toffee. GIANT cardigans, two of them, in faux denim and cotton, and finally, a boho lace minidress with a modest plunge line.
+
+Jackpot.
+
+She finally had costumes that did not make her old soul cry out for fashion emancipation.She could finally walk into a restaurant and have people stare for the right reasons.
+
+At the bottom of the bag sat the reason why the damned thing was so heavy. There were two pairs of Uggs and a pair of Converse All Stars in the low profile. The Uggs she kept for winter, and the All Stars, she admired with all her heart.

@@ -1,0 +1,45 @@
+---
+id: 4edc4647-f764-5ed3-ae75-e1287ec9f259
+page-type-slug: story-chapter-royal-road
+title: "<Not a Chapter> Important Information for Readers and Supporters <Update>"
+slug: 0233-not-a-chapter-important-information-for-readers-and-supporte
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 233
+ownLength: 428
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3632505/not-a-chapter-important-information-for-readers"
+royalRoadId: "3632505"
+---
+
+First and foremost, I will be at LitRPG Con next weekend in Denver, CO, USA to hang out and have fun with other writers and readers of the genre. If y'all are in the area, I'd love to see you even if just to say hi.
+
+I will have some fun MM swag, so check the swag tables or find me to get some for yourself. 😁 (I only have 500, so first come first serve.) 😉
+
+I'll be doing four panels and an in-person signing, schedule below and on Discord.
+
+MM Update:Book 15 and the series will end for top tier supporters sometime between Aug and Oct. At that point, I will slowly remove the MM Patreon and Ko-fi tiers, BUT! I will be working with those supporters who remain in the removed tiers to go back through and bulk up book 15 (and/or add potential epilogues) over the subsequent months with more scenes/chapters/POVs, etc. I'm not sure exactly how it will look, but it will mean a bit more MM, more patron engagement, and hopefully a better finale for the series. 😁
+
+My intention is also to revisit many of the supporter inspired characters as lenses through which to show the state of the world as the series comes in for a landing (whether temporary or permanent).
+
+At this time, I do not intend to write any books with Tala as the MC past MM15.
+
+Personal/Medical:I have an upcoming major surgery sometime before December. I am not sure how this will affect things, but if I need to pause my writing I will pause the payment platforms or find a means of issuing refunds, etc. I will not take a break without pausing the payment platforms to the best of my ability. I always wish to honor the support given me by readers and contributors alike.
+
+This surgery is not cancer related. Long and short: I have screws in my face that are causing problems. 😅
+
+I am deeply and eternally grateful for your continued readership and support.
+
+Sincere Regards,J.L.Mullins
+
+My LitRPG Con Event Schedule:Full Descriptions and schedule can be found: https://litrpgcon.com/
+
+Friday, July 10th10:30 AM - 11:30 AMPanel Name: Leveling Up My Normal Life in a Fantasy World
+
+Friday, July 10th1:30 PM - 2:30 PMIn-Person Signing
+
+Friday, July 10th4:30 PM - 5:30 PMPanel Name: When Your Side Quest Becomes the Main Plot
+
+Saturday, July 11th10:30 AM - 11:30 AMPanel Name: You Can’t Drink Another Potion Yet
+
+Saturday, July 11thTime: 1:30 PM - 2:30 PMPanel Name: Multiple Paths, One Goal: Getting Your LitRPG Into Readers' Hands

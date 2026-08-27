@@ -1,0 +1,667 @@
+---
+id: 498dcd5e-eef4-5a65-9005-2d8deff9d72b
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 91 - Que Sera Sera"
+slug: 0158-chapter-91-que-sera-sera
+partOf: metaworld-hopecore
+position: 158
+ownLength: 6501
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3816413/chapter-91-que-sera-sera"
+royalRoadId: "3816413"
+---
+
+Here lies one whose name was writ in water.
+
+John KeatsOn his unnamed gravestone
+
+San Marino.The Chen Estate.
+
+All morning, since the news broke twelve hours earlier, an unbroken line of black sedans had idled at the estate's gates—BMWs and Mercedes and locally made automobiles, disgorging mourners by the dozen. They came from all over LA, from the old tong halls of Chinatown to the wholesalers and shopkeepers of the San Gabriel Valley, from the Five Root families on Broadway down to real estate brokers in Monterey Park and construction foremen out of City of Industry.
+
+Each arrived bearing something: a wreath of white chrysanthemums banded in gold characters, a sheaf of joss paper, an envelope of condolence money pressed solemnly into Jiang's waiting hand at the door.
+
+From morning to noon, from the long corridor, incense smoke braided up from the sunken shrine and drifted out across the garden, thick enough to taste.
+
+From noon to dusk, men and women, old and young, came to bow three times before the ivory-ribboned portrait propped inside it, to murmur their sympathies in low Cantonese, and—more than anything—to be seen doing it: to give "face" to the Patriarch of Omnia Construction Group, because in Lee-Kwon Chen's world, absence was an incriminating confession for apathy.
+
+At the end of the long corridor, the ancestor room lingered in a haze of incense from the morning's ritual. An enormous bowl, thrice the size of the usual xiānglú used by the family, was filled with so many joss sticks that the fire alarms had to be manually disabled.
+
+And then, like the sandalwood haze, the visitors dispersed. The duty of being seen had been done. They had been in the business of Lee-Kwon’s business, not his grief.
+
+The men and women who had respectfully remained until dinner were the folk Lee-Kwon had known his whole life. The Five Families. Yet, on this day, they were no longer their usual talkative self.
+
+“... And none of you knows what had happened to Wai-Lim?!” The patriarch’s eyes were bloodshot. He had not slept since the phone rang, and he had rushed to the hospital’s morgue. The police had been there, and they needed to identify the body and sign off on the autopsy. His son, his precious boy, had died a violent death. It was a crime, the police had told Lee-Kwon, whether he jumped himself, or someone pushed him.
+
+Lee-Kwon stalked like a rooster from family to family, vitriol rolling from his sweat-strewn brow with the same potency as the incense. “Why is no one talking? Can you not FIND who did this to my son—to your nephew?”
+
+Still, no one answered. To Lee-Kwon, the silence stank of complicity.
+
+He tried to summon the voice—the one that made grown men thank him for the privilege of owing him money. What bubbled forth from his hoarse throat was instead pain. Unadulterated pain, a grief with no register.
+
+Wai-Lim was his boy! His only son! His heir! And now, bái fà rén sòng hēi fà rén—the white-haired man was sending off the black-haired kin. Heaven itself had gone awry.
+
+What was the point of anything? The money. The deeds. The Uncles, the nephews, the grand-nephews. What was the point of any of it without Wai-Lim? What was the point of having the Five Families, if his dynasty was barren?
+
+The tea Jiang had poured him sat cold on the tea table, untouched—Lee-Ming Chen’s axiom, to always drink tea scalding, was now lost on him.
+
+Still no one answered him. Not even Jiang. There were almost fifty of them present. The heads of the Five Families, their wives and children, and immediate relatives. They were people who had grown up with William, whom he called uncle and aunty, brother and sister.
+
+“If someone can tell me WHY Wai-Lim fell—I will give that person anything he or she desires,” Lee-Kwon croaked.
+
+Finally, someone moved from the crowd. Lee-Kwon’s bloodshot eyes grew heavy.
+
+It was Wang Yip-Ming—Fat-Lim’s father, wispy-bearded, stout and compact inside his changshan, a junior Lee-Kwon had dearly addressed as Ah-Ming since they were boys.
+
+Was Ah-Ming trying to comfort him? Too bad then, that the only thing Lee-Kwon desired was vengeance.
+
+“Lee-Kwon,” Yip-Ming’s use of his first name jarred Lee-Kwon from his internal revelry. When was the last time his old friend had called him by his first name? Usually, Chen-ge sufficed. “I speak on behalf of all of us.”
+
+“Speak.” Lee-Kwon found his chair out of habit, but felt no desire to sit. “But if it's not about William, I don’t want to hear it.”
+
+“It’s about William,” Yip-Ming said.
+
+Lee-Kwon looked up.
+
+“Your son killed himself.” Yip-Ming’s next words were like a physical blow. “He died of yīnguǒ.”
+
+Yīnguǒ—the fruit of causality.
+
+“Pok-gai…” Lee-Kwon felt his rage flare from orange to bright blue. “Hum-ga-chan! Yip-Ming! You have some gall! The fuck you say?”
+
+Yip-Ming did not back down. In fact, he seemed indifferent.
+
+“Yīnguǒ,” his childhood friend repeated the word carefully, a man setting down something permanent. “Your son, our nephew, died harvesting his own fruits.”
+
+Something in Lee-Kwon's chest threatened to spill. When he next spoke, Lee-Kwon’s voice had grown dangerously calm. “Yip-Ming.” The name came out flat, already a eulogy. “Say that again, and you are no longer my family. You are a sǐ-yen, a dead man. Do you understand? I think… for both our sakes, for our fathers’ sake—you should leave.”
+
+And still no one moved, not even Jiang, who tended to the tea with infinite patience. It was in that stillness—that some animal part of himself that was cunning and sharp and had sent Lee-Kwon into that house when he was ten—suddenly understood that his man really did know what happened to William.
+
+“You… know what happened to Wai-Lim?” His voice trembled. “You… you ALL do?”
+
+From his coat pocket, Lee-Kwon took out what looked like a folded sheet of newspaper. The headline, sitting beside the LA TIMES header, named William's school.
+
+“What is this?”
+
+“William’s Yīnguǒ,” his old friend said. “If you want to know why he died. The answer’s here. He died because he couldn’t face the shame of answering to you.”
+
+Lee-Kwon looked at the paper. It was real. With trembling hands, he read the article.
+
+A terrible crime had been committed at LAPA. An inhuman crime. An animal thing.
+
+It did not name William—but there was only one William in LAPA. One boy who had made the International Student Film Festival short-list. By now, everyone in Chinatown would know.
+
+Lee-Kwon sat. His blood grew cold.
+
+Everyone, from his business partners to the lowest cleaner in Omnia, would know of this unfathomable crime committed at LAPA. They would know that his boy was an immoral, carnal thing, a chuk-sang—a beast.
+
+He, Lee-Kwon Chen, had raised a beast. No more.
+
+Yip-Ming stepped aside for his son. “Lim. Inform Chen-ye of William’s Yīnguǒ.”
+
+The Wang boy, a giant, stepped up. Lee-Kwon looked at him with bloodshot eyes.
+
+He didn’t want to listen. He really didn’t.
+
+“Last April, Chen-ge called all of us into his school,” the Wang boy spoke in slow and meticulous tones. “He asked for our help. I picked up Luis and Jimmu, Edson came on his scooter, and Kitty took a taxi.”
+
+Lee-Kwon’s fingers were white. Yes. This was how things were supposed to be. When a brother asked for help. You went. You didn’t ask why. You just showed up and saw what could be done. That was how the Five Families were with his grandfather. That was how his grandfather was with his Association brothers.
+
+“He made us visit a locker room, under the Main Building, the one Omnia renovated.” The Wang boy’s voice grew lower with every word, sending goosebumps up Lee-Kwon’s back. “We walked in, and he told us to clean up his mess.”
+
+The other families pushed their kids forward, presenting them as witnesses.
+
+“The mess was a girl. San-je’s theatre classmate. He raped her.”
+
+The verb, keung-gaan, rang across the vaulted Ancestor’s Hall like a funeral bell.
+
+Lee-Kwon felt like someone had slammed a gong an inch from his ear.
+
+The Wang boy repeated himself.
+
+Keung-gaan. Rape. Then he told Lee-Kwon, who sat paralysed with disbelief, that William had been happy, proud, nonchalant, and joyous, boasting about the act to his friends as if he’d just won a prize at an arcade.
+
+Lee-Kwon knew of his son’s infamous indiscretions; playing with women was something the Uncles complained about since William was fifteen. But was that such a bad thing? The girls loved Wai-Lim, did they not? They threw themselves onto his lap. They were after his money, his influence, they—
+
+“He made me take pictures of her… of us, there, with him.” Edson Li sobbed with his clan standing behind him, their eyes burning with what Lee-Kwon knew to be unfathomable resentment. “He made me keep the phone. He made me send him one, now and then, so that I wouldn’t delete them.” Behind his boy, old Li looked like an er-gui, a demon.
+
+“Lee-Kwon Chen! Your boy made my Kitty—Kitty had to wash—she… you fucking pok gai! What kind of fucking animal did you raise?! If it weren't for Yip-Ming here, I would have strangled that chuk-sang myself!”
+
+Lee-Kwon had no words, but his former friends had plenty.
+
+Each of the children had their tale. It wasn’t just the girl William had ravaged. He had other victims as well, kids he bullied, a girl he sent to work for Uncle Bu at the Club, knowing the sort of things that happened there. An orphan he made jump from the roof for his amusement, who had survived, and then he targeted again.
+
+Each, to Lee-Kwon, added a fruit of causality to the charge of William’s self-fashioned Yīnguǒ.
+
+Monstrous. So… monstrous. His father had been a hero. And he had been a hero to his father. And yet… and yet…
+
+Shame. Lee-Kwon felt so much shame that he couldn’t even weep. He had thought himself a righteous man. Well respected. A brother to the Five Families. A hard, but fair boss to his employees. And now…
+
+His childhood friends watched his face. Expecting. Waiting. Wanting.
+
+They had chosen the place of their battle well. Here—at the Ancestor’s Hall, in front of Lee-Ming Chen’s portrait, Lee-Kwon had nowhere to hide.
+
+He grasped for straws. “And you all knew? Why didn’t you tell me? Why didn’t you stop William?”
+
+“I think you should count your blessings that he knew enough shame to at least jump.” The vitriol from Meng’s voice broke something in Lee-Kwon.
+
+“Zi bu jiao, fu zhi guo,” Yip-Ming threw the very idiom Lee-Kwon had once used on William like a blade, handed back to him the cutting-edge first. The son’s fault lies with the father.
+
+There was a pause, a kind and cruel sigh—then Yip-Ming said the thing Lee-Kwon wanted to hear the least. “You did this, my friend. You put your son on that roof. You put that building there.”
+
+Me? Lee-Kwon tried to breathe. I… I did?
+
+He did.
+
+Omnia had built that new facade for LAPA. To make the signage pop, there were no guard rails.
+
+Lee-Kwon felt his anger deflate.
+
+Anger turned to grief. Grief turned to shame. Shame turned to regret.
+
+“What do you want?” He heard himself ask. He felt too tired to even grieve.
+
+“Five decades in, is that all we are to you?” Yip-Ming squeezed out a smile. “People who want? Well…we want nothing. We don’t want anything, anymore.”
+
+Lee-Kwon gazed at his former friends, and now, it was he who said nothing.
+
+Yip-Ming bowed from the waist, not at him, but to the portrait of his father. They all bowed. One after another.
+
+Then they left.
+
+The great, long hall was now empty of people and sound, possessed only by the thick smog of smouldering sandalwood.
+
+Lee-Kwon sat in the redwood chair for an hour, maybe two. Thinking. Digesting. Understanding that more than Wai-Lim had passed today into the underworld.
+
+When his back began to ache, Lee-Kwon realised that he was staring at the black-and-white portrait of his boy. The body, because of his violent death, would take a week to come home. The police report would take up to two months.
+
+Lee-Kwon wanted to say that he wanted revenge—but what was the point?
+
+If William was alive—
+
+He would send his son to prison. Or would he? It was easy to say that now, but in reality…
+
+“Jiang?”
+
+“Yes, Sir?” Jiang inclined his chin to signal that he was listening.
+
+“Was I a bad father?”
+
+Jiang poured him a fresh cup of tea. Scalding hot Pu’er. His friend was quiet for a moment, weighing honesty against courtesy.
+
+“The young master,” he said finally, carefully, “could have used a mother.”
+
+Lee-Kwon’s eyes fell to the portrait of his wife, kept at the edge of the shrine. He thought of the string of women he had enjoyed since her passing; none of them had dared to stay, none of them had dared to ask if they could be William’s mother.
+
+He looked, without quite deciding to, at the sidearm on Jiang's hip.
+
+Ancestors help him, for one long, ugly, shameful moment…
+
+Jiang saw where his eyes had gone, and replaced his cooling tea instead.
+
+“What do you wish to do, young master?” Jiang asked instead, steady, practical, pulling the room back down to earth by the sheer force of asking a question with an actual answer. “If you really want a culprit. I can find you one.”
+
+Lee-Kwon looked at this man who had been in his life since forever.
+
+He had no answers, but his phone had one.
+
+It buzzed. A text message.
+
+On reflex, he looked at the preview.
+
+A photograph. A baby—months old, dark-haired, wrapped in something pale.
+
+Something in the shape of that small sleeping face stopped every other thought in his head at once, because Lee-Kwon knew, he knew, the way a man knows his own hand in the dark, that this was no stranger’s child.
+
+He unlocked the phone. He groped at hope like a drowning man grasping at reeds.
+
+Below the photo, there was only a short message.
+
+LAPA. The dorms.
+
+In any other year, the week after LAPAGANZA would be the quietest one on the calendar—Seniors gone home to wait out graduation, the underclassmen resting on their laurels, the whole campus exhaling after its biggest weekend of the year.
+
+But not this year. This year, the wrought-iron gates that usually stood watch over an empty, sun-bleached quad held back a different kind of crowd, a rotating shift of news vans with telescoping masts, cables snaking across the visitor lot, crews hoping to catch a juicy snippet of truth.
+
+Lafitte's piece had hit the stands Monday morning. The wires then picked up the story, then the cable panels, then all the Social Media channels that either supported or hated the Los Angeles Performing Arts High School, AKA “Fame High”.
+
+By Wednesday, the whole thing had metastasised. It hadn’t taken much effort at all for LA’s scandal-loving rags to dig up everything LAPA had spent years quietly paying to keep sealed: the harassment settlements, the neglect complaints, the suicides nobody outside these gates had ever answered.
+
+By Thursday, a story about a dead film student and a recording had set the CSULA campus on fire.
+
+All administrative staff were called back. All media promotions were suspended.
+
+The sound of construction and deconstruction overtook the quad. The Whitman's marquee, which for eleven weeks had spelt out TITUS ANDRONICUS: LAPAGANZA in individually gelled letters, was dismantled in its entirety.
+
+Euphemia Fontaine left her dorm, then crossed the quad under a sky the colour of sodden chalk, past the place where William’s body had been collected, and made her way purposely toward her destination.
+
+Along the way, she recollected herself by recollecting the events of the past five days.
+
+Sunday night had been a wreck.Valorie found her after the show, still in costume, still tangled in the red strings she had cut away with scissors, and held her so tightly against her body that Eppie wondered if Val was getting even for William. Val was blaming herself for having pointed at him. A part of Valorie had spent three years with the boy in a relationship that would have continued—and that part of her had grown cancerous. When they parted, Francis told them that Valorie would be spending the next few months on the East Coast with Woodhouse, out of sight of LA’s media, while he dealt with the shitstorm.
+
+Juliana Vaughan, conversely, was her cool and svelte self. Holding Eppie’s hand, she had kissed her soaked forehead, wrapped her five-figure shawl around Eppie to keep her warm, then told her that she had never in her life seen a young woman handle revenge with such poise, not even close. She said that she was proud, so proud, and that Eppie was welcome to stay with her in NYC anytime, for as long as she wanted. In the meantime, her people would take care of everything.
+
+Mirabelle’s praise was more considerate. She told Eppie that she would speak with the editors of the various papers to preserve her privacy. Then Mirabelle put on her sunglasses and conjured a team of people who ran to her with umbrellas and held them for her and Juliana. “We’ll be seeing you soon.” Mirabelle looked amused as she delivered her prophetic vision. “Like teacher said, come to NYC. Let things blow over.”
+
+Eric expressed with enormous regret that he did not practice criminal law. In response, Emily kicked him in the shin, then the three of them shared a big hug.
+
+Uncle Paco told her she did a good job, then told Eppie she could come to Fresno if she was on the run. In response, Carmen kicked him in the shin. Together with Zara, they exchanged a big hug, with Eppie promising to visit when Zara returned from touring with Antonio, or to see her if she had a gig nearby.
+
+Frederick Curon had no one, and Eppie didn’t want to kick her father in the shin. So they just stood under the awning, watching the rain drip and the police scour the ground for evidence.
+
+On Tuesday, she was called into the Hollenbeck Division LAPD Station.
+
+The summons was within reason. After all, she was the one who had texted “rooftop”.
+
+She had expected fluorescent lights, a locked room, and a story she'd have to defend one contradiction at a time. Instead she got a detective who offered her a Sprite from a vending machine and a folder he seemed faintly embarrassed to be holding.
+
+Eric drove her there, but when they had arrived, the pair were met by two teams of lawyers: one from Senator Sander’s privately engaged family firm, and one from a national-tier firm whose Partner was one of Juliana Vaughan’s long-term mutual benefactors.
+
+Eppie didn’t even answer anything. She just sat there while the lawyers did all the talking. Then the Detective asked to see her hands—and she gave consent because she knew exactly why the Detective had asked.
+
+Pictures were taken of her hands. Both of them, with their unblemished skin and her dainty fingers and their seemingly manicured nails. Then the detective thanked them for their understanding, and everyone got paid and went home.
+
+Simone called on the way home. Eppie spoke with the girl at length—but there really wasn’t much else to be shared. William was gone, Simone had one more year of school left, and the Uncles were happy to let her keep working.
+
+“Focus on your new home,” Eppie told her. “I’ll catch you later, when chance permits.”
+
+And then she put herself in bed, paid the [Dasein] its pound of flesh, and slept for a day.
+
+And then, on Thursday, after cleaning cat shit with Lim, they drove to the Chen Estate in Lim’s ancient hybrid Camry. Lim didn't say much on the drive, only that Chen-ye had taken three days to make his peace.
+
+The Chen house, when they reached it, was still in mourning.
+
+Jimmu, Edson, Kitty, and Luis were all waiting for her. They didn’t have to be there, but Lim had told them, unequivocally, that Eppie was the reason for everything. They approached her one at a time, bowing with their hands held in front of their faces in the traditional Kung-fu stance for respect and kudos.
+
+“Isn’t this a little excessive?” Eppie turned to Lim. After all, it was just… one William.
+
+Lim rubbed the back of his head, grinning with an earnestness he usually saved for cats. “Edson, tell her.”
+
+“Chen-ye called a meeting last night. He’s selling us the deeds to our shopfronts. He told us to go find our own lawyers. He’s giving it to us at prices a decade old.”
+
+“Bian's tailor shop, Li's grocery, the Mengs' practice, Bu's salon—my dad's clinic too. All of it, pennies on the dollar,” Lim sighed appreciatively. “The JKD Association building is going to go into a Trust. I hope this doesn’t mean we owe the Chens…again.”
+
+Eppie nodded toward the kids—Jimmu, Edson, Kitty, Luis—and congratulated them on achieving a generational dream.
+
+“Thank you,” Kitty, who wasn’t into all that Asian formality to begin with, held her hand and shook it.
+
+Watching their small, cute faces, Eppie felt embarrassed at how gladly she enjoyed their approval.
+
+After all, her [Dasein] was at [8].
+
+The buffer, from the looks of her last penalty, should at least be [35].
+
+As a group, they entered the mansion.
+
+The ancestor corridor was exactly as she'd imagined it from the other people's impressions—sunken, hushed, Lee-Ming Chen watching from behind glass with an expression that had apparently intimidated three generations since the 50s.
+
+The joss sticks were already burning in front of the portrait of William in black and white.
+
+The bitten part of her hand itched.
+
+Lim passed her three sticks. The irony… was palpable. But then again, it was because William had chosen death that she could be here today, cutting a deal with Lee-Kwon.
+
+Had William survived—the irony was bittersweet.
+
+She lit the incense without fumbling—then bowed three times, unhurried, to a grandfather she had never met, to William’s mother, whom she had never met, then to the boy who had bitten the helping hand keeping him in the world of the living.
+
+“Welcome.”
+
+The voice came from above, where the two sets of stairs conjoined.
+
+Lee-Kwon Chen stood to one side, out of the smoke's path, and for a long moment neither of them said anything at all.
+
+He looked smaller than she'd expected. Not physically—she'd known he was a head shorter than his son—but reduced, somehow, and tired.
+
+“Miss…Fontaine.” His voice had none of the command she'd heard described. “Will you come to my office?”
+
+She nodded.
+
+The Five Families remained at the shrine.
+
+Eppie ascended the stairs, then entered the office through its generous double doors. She studied the place—its redwood chairs, jade sculptures, a calligraphy scroll promising family harmony, and the jade peach tree. Lee-Ming's portrait, above the drinks cabinet, eyes watching and judging.
+
+She sat. The ever-present Jiang appeared, bringing tea.
+
+She drank it hot, as did her host.
+
+“You sent me a photograph,” Lee-Kwon’s voice was gentle, like a man terrified to wake up from a dream.
+
+“I did.”
+
+“A boy?”
+
+“A girl.”
+
+A pause. Lee-Kwon nodded, adjusting to this new reality. “A girl is fine too. Is she…”
+
+“Yes,” Eppie spoke with both [Vocality] and [Persuasion], because now was a point that was beyond pivotal to her cause. “She's healthy. She's loved. She has a name. She is happy, as is her mother, because William will never see them again, or hurt them.”
+
+Lee-Kwon studied her face as she spoke the truth.
+
+“Did… you kill my son?” The old man’s perceptiveness was astounding.
+
+Eppie sipped her tea. The question, though shocking, was well within her calculations.
+
+“No.” She had no idea if Lee-Kwon believed her.
+
+“I see… My granddaughter… when can I…”
+
+“Mr Chen,” Eppie interrupted him, doing her best to remain sincere. “I'm not here to give you access. I'm here because you deserve to know she exists, and because I think—and I sincerely feel—that this child deserves a chance—to have all of her family’s love.”
+
+Love. Eppie thought cynically. And everything that William would have squandered.
+
+Lee-Kwon nodded, contemplative, not caring that a child was dropping life lessons like they were mentee and mentor. “Name your terms.”
+
+Eppie shook her head. “No. Not terms. Penance.”
+
+“Penance?”
+
+“Yes,” Eppie’s voice grew stern as her spine straightened. “You understand… how the child came about.”
+
+She watched an invisible weight depress Lee-Kwon’s shoulders.
+
+“Yes…” He swallowed. “Penance it is.”
+
+“It will be…” Eppie toned down her [Vocality]. “Slow. Small. On the mother’s terms.”
+
+Lee-Kwon nodded again. “Slow is fine. Small is fine. Her terms. Not mine.”
+
+“I have another condition,” Eppie brought out the memory of her and Mio talking. “This one’s from me. I do not wish the child to live under the shadow of shame, of how she came about. Presently, not even her maternal grandparents know.”
+
+“That…” Lee-Kwon half-stood, then sat, crushed by shame. “It’s too much. The child… deserves to be happy, does she not?”
+
+“If you love your granddaughter as you have proposed,” Eppie said seriously. “As her mother does, because she had carried that child to term and into this world under duress. Then the truth is merely a detail. If your granddaughter knows she is loved, she shall fear no shame from her grandparents. She will live unburdened, unlike… unlike William.”
+
+Lee-Kwon sipped his tea, digesting thoughts she could not see. When he looked up again, his eyes were clouded.
+
+The old man swallowed before he could choke.
+
+“Do… they have money? Do they need money? My grandchild cannot grow up knowing want…”
+
+“They have it, more than they need, but nothing obscene. Nothing like this.” She turned her eyes to the office. That singular jade tree could likely pay for Reedley’s church renovation.
+
+“Then I accept,” Lee-Kwon said. “Unconditionally,”
+
+Eppie fought down her own shifting feelings. How is it that William’s father was so compliant? Why couldn’t William feel shame, if his father could? Should she have… could she have…
+
+My God… Eppie felt her insides twist. Could I have…
+
+She felt suddenly stricken by her compassion for Lee-Kwon’s shame. “May I propose something?”
+
+“Yes?” “Write a letter,” she said. “Put your heart and soul into it. Your true intent. Without ambiguity. Be sincere. Be yourself. Then… come what may…”
+
+Lee-Kwon stared at the desk. The enormous desk. A piece of heirloom furniture in a house without an heir.
+
+“Then please… wait a while,” Lee-Kwon bowed his head. “I will compose this letter now. Does the mother read Chinese?”
+
+“English,” Eppie said. She refrained from shaking the man’s hand, because she felt too ashamed now to look him in the eye. “I’ll be outside.”
+
+Reedley. The Courtyard.
+
+Many months since Doves Cry, the courtyard’s fracturing plasterwork had been reworked by volunteers, the roofs fixed, and the wind-worn angels once more possessed wings.
+
+The orange trees in the courtyard were heavy with spring—though there was not yet fruit, just green promises and flowers. Beneath its laden bowers, the blossoms’ scent travelled so viscously that it sat on the tongue like concentrated Sunkist.
+
+It was under Father Parson’s most prized citrus that Luciana Mio sat on the newly donated benches, hand-crafted by local artisans, with her baby at her hip, giving Nozomi the breast. In another place, a city, perhaps Central Park, an urbanite Puritan would remark upon the inappropriateness of it. Here, however, with the light coming gold and green through the leaves, highlighting the white of her woollen blouse, she channelled the aesthetic of the ancient masters.
+
+She was Madonna with Child, sans cherub, for her angel had her own life elsewhere.
+
+Not all of Mio had wanted the proposal Euphemia had made.
+
+Yet she agreed, because Eppie's proposal felt right—right in the same way the sun was warm on her skin, the same way the babe upon her breast made her happy and fulfilled. She agreed because Eppie had said that she and Nozomi deserved to live in the light of truth, that no one should be ashamed of her nor Nomozi, especially their closest of kin.
+
+The cloister’s double doors opened, heavy and sharp, protesting the new hinges.
+
+Father Parson came around the side of the cloister with an envelope that he held like a relic.
+
+“Paco asked me to give this to you. It's from Miss Fontaine.”
+
+The envelope was an ancient lai-see packet in gold and red. It looked vintage, like someone had found it in a drawer of memorabilia and decided to repurpose it. She opened the lip and tapped out a handwritten letter. It was only two pages, trifolded for volume.
+
+Nozomi grasped the lai-see packet with her tiny hands as Mio read in silence:
+
+To my grandchild, and her dearly beloved mother:
+
+You do not know me, and I believe that, for a long time, you will only know me through these letters and Father Parson's good hands. Knowing the yīnguǒ I have created, this is as it should be.
+
+My name is Lee-Kwon Chen. I will not write my son's name in this letter. I do not think you wish to see it, and I now find that I do not wish to write it either.
+
+I shall not ask for forgiveness. I shall not ask for visitation. I shall not ask to speak.
+
+Your friend has made it clear that I had earned no such thing. I ask only this: that you find enough compassion in your heart to send me a photo on her birthdays, so I know that my grandchild is healthy.
+
+And if, years later, you still cannot forgive me, then grant me only this:
+
+Bring her documents to my deathbed, so that everything my father has built, I have built, will be bestowed upon her, without attachments.
+
+Your friend says this may be the only letter you are willing to read. I have made my peace with that possibility, even as I shudder at the shame that has been placed upon you. Please, I wish to speak to your parents to make penance and to instil in them the understanding that there is no shame.
+
+The shame… is wholly mine, and I will bear any cost associated with it.
+
+I am told your daughter's name means hope.
+
+I hope, from whatever distance you require of me, that she will never lose it.
+
+WIth Gratitude— Lee-Kwon Chen
+
+Mio read it twice before Nozomi tried to nibble the red packet. She wondered if she would cry, and she didn’t. She felt something she couldn't quite describe.
+
+Hope. Perhaps.
+
+Nozomi took to her breast once more. She was a hungry child.
+
+Father Parson, studying the orange trees, pulled a pesky caterpillar from the bower and gave it to the foraging chickens.
+
+Nozomi, indifferent to all of it, kept feeding—a small fist holding the red packet, her eyes uncomplicatedly happy—the only person in the churchyard for whom hope had never once been in question.
+
+LAPA. The Old Main Building.
+
+Sitting with Principal Burton of Los Angeles Performing Arts in his old-timey office, Euphemia Fontaine suddenly slipped mid-conversation into a thousand-yard stare.
+
+Quest Completed
+
+[The Burden of Debt]
+
+You have successfully utilised [Noblesse Oblige] to convert a mature Karmic Parasite. The Karmic Parasite has elected to empower joy, dreams and hope in place of denigration and abasement.The Usurper has reaped the Karmic Parasite for [Causality] through [Noblesse Oblige].
+
+The Usurper has gained immense [Causality].
+
+Calculating…You have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a UsurperYou have successfully saved a victim from debasement by a Usurper…
+
+You have created hope through [Noblesse Oblige]The Usurper has gained immense [Causality].
+
+Rewards have been applied.
+
+You have gained [The Giving Tree] Trait.
+
+Eppie counted the number of zeros behind her newly acquired [Causality]. Before the [System] could change its mind, she jacked her [Dasein] to [35].
+
+She grew cold, then hot, then, finally, like scalding coffee entering the Goldilocks zone of perfect temperature and taste, she allowed herself a moment to take it all in and despair.
+
+Just wha—just…
+
+She needed time to think.
+
+“... Euphemia, are you listening?” The voice with mild annoyance belonged to Principal Burton. “Is it not enough that VP Thomas resigned? What else do you want from us?”
+
+“Nothing.” Eppie’s bittersweet smile was now genuine. “As I said, sir, I'm leaving. Veni, vidi, egi, and now I am done.”
+
+“Is there nothing LAPA can offer that will make you reconsider?” Her Principal was desperate, and in Eppie’s heightened state, she did feel sympathy. But that same institutional arrogance was why Eppie had fallen off the roof, why Valorie could bully Mio, why William could do as he wished. In the aftermath of both the play and the articles, LAPA’s reputation was in tatters, its future spluttered, and Burton would be fighting the PTA for a long… long time.
+
+Burton needed an anchor, and that anchor, or so he had presumed, was LAPA’s Grammy winner, who may or may not have been in cahoots with Sunday’s audio accident.
+
+Unfortunately for Principal Burton, Eppie had no interest in his politics or his institution.
+
+She had done this for Euphemia. For Mio, who had found peace; for Lim and co, who were freed; for Valorie, who had found her father; for the Goodes, who had found a new home; and for Zara and Armand, who had been incidentally elevated.
+
+Now, her [System] needed feeding, and the same providence that made her come to LAPA now pointed toward where the theatres lay.
+
+She would not find near enough [Causality] in a school that was now healing from trauma.
+
+Her Principal looked up at her then, and relented with a sigh. “Then I shall rescind our enrollment contract effectively today. It was a pleasure having you, Miss Fontaine.”
+
+“Thank you, Sir. It was a pleasure to be here, in many ways, despite everything.”
+
+The two shook hands. One professional to another. She hoped that, in the end, Burton had learned a lesson as well.
+
+She left the office feeling unburdened by the “range anxiety” of her [Dasein]. The hallway outside still smelled like the same LAPA it had always smelled like—coffee, rosin, hair spray.
+
+Eppie understood that this was goodbye. The Seniors were already gone, but her Sophomore friends would be shocked to return and find their blonde Ms Mistoffelees had absconded.
+
+To fight the sentimentality, she decided to check her newest [Trait]
+
+[The Giving Tree]
+
+Causality Tier (S) “The richest is he who can never hoard…”
+
+The blessings gained by the Usurper are not theirs alone, but the result of talent, passion, and labour by countless generations of dreamers. Even as the Usurper gains the blessings necessary to enact hope and restoration, they are not the [Trait]’s true possessor.
+
+Use this [Trait] to gift the world’s lost dreamers the means to attain their [Potential]
+
+Only Core [Traits] given by the [System] can be given. The recipient and the Usurper must share [Karmic Reciprocity]
+
+This trait cannot be improved.
+
+Eppie’s heart skipped a beat.
+
+Hope, wild and forlorn, filled her chest—until she realised that [Vitality] and [Health] were not candidates for the [Giving Tree].
+
+Thankfully, the sadness proved smaller and quieter than she'd expected—until she saw her Theatre Chair.
+
+Her former Theatre Chair.
+
+Cooper was outside his office with a cardboard box on his hip, one of a dozen boxes with the proud pictures of his former students beside him. Costello trailed a step behind, furious in the specific, restrained way of a man who knew on a professional level that shouting won't help.
+
+Cooper looked up and smiled at her—not as teacher to student, but as peer to peer.
+
+“Miss Fontaine,” he said, happy and unburdened. “Heading off?”
+
+“Yep, same as you,” she grinned back.
+
+“Is Mio better?” Cooper asked. “I didn’t get a chance to speak to her.”
+
+“Couldn’t be better,” Eppie replied. “She has… what was needed, and more.”
+
+Behind Cooper, Costello was glaring. His anger lasted for a brief few seconds, then he waved at her with the same friendliness he always had.
+
+“Good. Then it was worth it.” Cooper set another frame in the box with care. “Our friend Susan’s out too, by the way. Burton let her go this morning, gently, so she’ll still get severance like me.” Cooper gave a dry, almost amused shake of his head. “She's going on a cruise. Some line out of Long Beach. Round the world, until the payslip runs out. She said if I saw you again, she wants you to know that she looks forward to not using Excel for as long as she remains happily unemployed.”
+
+Eppie laughed—happy for the mirth, considering what she’d just learned from the [System].
+
+“Where are you going, Sir?” She asked.
+
+“Back to New York.” He said it casually, but she could see the trouble behind his eyes. “My children have to remain in LA to finish their college degrees, but I think I'll go back to community theatre in my old haunt.”
+
+Eppie nodded, and Cooper nodded back, and there wasn't anything else that needed saying between two people who'd already succeeded in becoming LA Theatre trivia for years to come. Between the articles and the TV programs, the whole thing had become household news.
+
+They shared a final hug, then Costello gave her a hug as well. He would stay on as the new Chair. He loved the school too much to just leave it in its time of need.
+
+“Kirby is going to be so sad when she’s back next Semester,” Costello shook his head. “Her favourite student. Gone.”
+
+“Where are you going?” Cooper loaded another box. “Guilliams?”
+
+“Naw—” Eppie denied ever wanting to repeat school. “But I do have a lot of places I can crash.”
+
+Maybe, she thought, she'd just crash with Dad for a while.
+
+And after that? Knowing the Powers that Be…
+
+Whatever will be, will be.
+
+— END OF ARC ONE: Whatever Will Be, Will Be —
+
+FInal Stat Sheet
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+21
+
+Athletics
+
+500012
+
+Agility
+
+21
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+21
+
+Endurance
+
+Pain Suppression
+
+38 / 38
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+35 / 35
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+25
+
+Seduction
+
+[Love the Light]
+
+35
+
+TRAITS :: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] [El Duende] [All the World’s A Stage] [The Giving Tree] Inactive ::

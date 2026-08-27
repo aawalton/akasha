@@ -1,0 +1,361 @@
+---
+id: 823dd210-2a25-54b3-9a9d-3eb218cb2991
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 736 - Defense of Bandfast (Endings)"
+slug: 0246-chapter-736-defense-of-bandfast-endings
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 246
+ownLength: 2998
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3794725/chapter-736-defense-of-bandfast-endings"
+royalRoadId: "3794725"
+---
+
+Tala breathed, a feeling of connection raging through her soulbonds to Terry and Rane, and to a lesser extent through her heavy reality thread connections to others, including her daughter.
+
+Interestingly enough, her authority—pulsing as it was with every action of those under her auspices, toward her goal—was as powerful an anchor as her soulbonds. In the case of her authority, it was like a net of fine but tough cabling as opposed to the massive, single points of linkage to her soul bonds.
+
+Regardless, as her existence shield enhanced her metaphysical weight to the level that everything seemed just so ephemeral, those ties back to Zeme and who she was without this power filled most of her mind.
+
+She knew that she cared about those, and even though she didn’t feel that care in the moment, she devoted the majority of her mentality to remembering that enduring truth.
+
+In counter to the nihilism and the desperate clinging to those she loved and cared for—and in clear alignment with those she fought beside—was the finely honed power suffusing her blade.
+
+That demanded an end to all that was before her… or more accurately, it demanded an end to it.
+
+The automaton senior commander was scrambling backward, its concept blade now trapped in her armor.
+
+All of her demanded the ending of that automaton, no part more so than her manifest, Flowing edge.
+
+She stepped forward, the motion feeling more like it moved the world around her rather than her through it, and she felt a pull on her bond to Terry for the motion, suspecting some sort of dimensional magics had helped facilitate the smooth lunge.
+
+Flow arched down, barely biting into the shoulder of the retreating thing when the blade still embedded in her armor detonated.
+
+No.
+
+Detonated wasn’t the right word.
+
+It was as if the concept blade were a potato with ideal moisture around it, and time had been sped up tremendously.
+
+In her existentially elevated state, she finally saw that which had been plaguing her people for the most recent battles.
+
+Eyes opened all across the surface of the blade, each shooting forth fractal branches that quested across the surface of her armor in a few cases, but in most? They drove inward, seemingly drawn by her very presence.
+
+In that moment, there was an odd disjointment.
+
+Her body had been in a place of supreme balance, on the point of the three-side pyramid of existence.
+
+The introduction of these reality tendrils flailed at her, trying to pull her down one face and bleed out every drop of magic within her while crunching away the void and making her inviolably and irrevocable one thing.
+
+But she was weighty.
+
+Just like the odd balanced boulders that she’d occasionally seen—those that seemed to be barely upright despite standing for centuries through wind, rain, earthquakes, and uncountable bumps and scrapes from passing beasts—she was unmoved.
+
+This didn’t mean that she was untouched of course. The attack was as pernicious as it was powerful.
+
+But it didn’t unbalance her existence as it might otherwise have.
+
+Her focus was drawn to the thing embedded in her side, the momentary distraction allowing the senior commander to slip back some fifty yards, where it turned to observe her in turn.
+
+Tala put a small part of her mind on watching the thing, left the majority to ruminate on her connections and purpose, and poured what remained into examining the oddity worming its way through her insides.
+
+No… That wasn’t right. It couldn’t penetrate her being. She was defended from exactly this type of attack.
+
+She frowned, momentarily confused, but then she saw it.
+
+The prismatic growths were slithering through the voids. Gaining access and purchase through the natural divisions in how she viewed herself.
+
+She was a suit of armor of inviolable metal with ivy growing through the joints. The metal was untouched, but the ivy had purchase nonetheless.
+
+The questing, growing tendrils of reality were pervading the edges of her existence while being utterly unable to breach it.
+
+Fascinating.
+
+Even so, the majority of her that held focus on what ‘truly’ mattered, tore her away from the contemplation.
+
+She’d have to deal with it eventually, but not now.
+
+The ending blade thrummed, sending an intoxicating resonance through her very core.
+
+Tala’s gaze snapped to the automaton before her.
+
+First, it dies.
+
+* * *
+
+Tauto watched in fascination as, to his perspective, the multi-colored, coruscations of reality grew throughout the abomination’s being in jagged fits and starts, always moving in straight lines and hard angles.
+
+Once more, he took comfort in the reality of his victory. It was a shame to have lost that half of his blade but—
+
+She moved.
+
+At the movements, the bits and pieces of her being shifted and rather than being further skewered and permeated, they were untouched, the crystalized reality failing instead. Wherever the two were forced together, the growth sheared off, shattered, and blasted outward, brilliant reality splinters firing forth like an entire unit of archers loosing at once.
+
+Rather than be knocked free, however, the sacrificed blade simply regrew, almost violently driving more tendrils and growths into the new shape of her.
+
+But then she took her next step, and the shattering nova of reality shards burst forth again.
+
+Again.
+
+Again.
+
+Tauto’s eyes widened to take in all that he could even as he began to move.
+
+This was something new. Something that could not be stopped by mere reality—He trembled at that heresy—It held too much weight, too much impetus.
+
+It existed, and there was nothing he would be able to do to negate that truth.
+
+* * *
+
+It was a novel experience, sending bursts of reality flashing outward with every movement. It was like a rime of ice shattering from her armor with her motions but with more outward force.
+
+She could see how each splinter tore through the ambient zeme, consuming magic even as they wove into the substrate of the superficial like a darning needle as it began to fix a sock.
+
+That’ll be a pain to remedy after all this is over…
+
+The thought was a fleeting one as she plodded forward, the strain of shattering her way through each step not inconsiderable.
+
+The automaton, for its part, somehow looked truly terrified by her approach, as if her very existence undercut some fundamental belief, necessary for its continuation.
+
+She rather liked that idea.
+
+It resonated pleasantly with much of her being.
+
+That’s right little metal man, run for me. She smiled, her helmet fading away, stoneward, to reveal her inhumanly predatory face. Run from me.
+
+Without the helmet, each burst of reality splinters that shot upward from her chest and shoulders broke across her chin and face from below, some even firing up her nose in a way that positively tickled.
+
+With an absent curse, she reinstated the helmet, but the effect had taken hold, and she doubted it would go away any time soon. Rusting nose splinters…
+
+The senior commander was in full retreat now.
+
+Tala growled, funneling her triune power through gravity altering magics, attempting to latch onto the retreating prey.
+
+Unfortunately, the thing—while weaker than her—had enough heft to resist being the direct target of her working.
+
+With the preferred target off the table, she decided to show it the cost of retreat.
+
+She saw—so, so clearly now—that one of the juggernauts was also a captain… somehow.
+
+Regardless, she lifted her hand in its direction and latched onto that one. “Get over here!”
+
+Her working—backed directly by authority and with the weight of existence itself—barely punched through the unified defenses around the massive automaton, and suddenly, she was its ‘down’.
+
+There was a brief scramble as the thing tried to catch hold of anything around it, but it failed, slipping free of the ground and falling directly at her from nearly four hundred feet away.
+
+Flow flicked out, greeting it upon arrival.
+
+The juggernaut’s eight soul-cores flared as one, and Tala felt something that pulled at her memory.
+
+The void-magic in the ending blade—those flowing alongside, between, the powers of cohesion and dissolution—remembered devouring Leshkin spirits in the past, and this reminded her of that.
+
+So, that’s how they did it? The source of so many soul-cores suddenly made sense. The souls were the vestiges from the pillars that they’d stolen, but even so, the alliance had not been too concerned, because the Black Legion should have still needed to fabricate automata spirits to bond with the souls.
+
+Oh, how foolish they’d been.
+
+The Black Legion had taken the Leshkin spirits—the soul-less remnants of a once sapient race—and bound them to the souls of gated humans, enslaving them in a whole new way and creating the fighting force the alliance now faced.
+
+Rust, and rust, and rust again. She knew that she should be more infuriated than she was, but even so, she was surprised that she felt any anger at all.
+
+Not that it mattered in the moment.
+
+She felt her alternate interface share the all-but-certain theory out through the Archive, so it was no longer Tala’s concern.
+
+She still had her task before her.
+
+What was I…? Ah, right. With a flexing of her will, she allowed Flow to drink in the Leshkin spirits, shattering their connections with the souls more easily than any other method before and allowing those long-tormented gates to close, passing on to whatever awaited them beyond.
+
+Something about that was unideal, but she couldn’t put her finger on what.
+
+The automaton leader had paused in clear surprise when she’d ripped the juggernaut to herself, and now, as the fractured remnants were raining down behind her, it hesitated further.
+
+She lifted her hand toward another juggernaut and paused, her message clear.
+
+Run, and I’ll take them.
+
+She didn’t know if it would care, but she supposed that she was about to find out.
+
+* * *
+
+Tauto was not prepared for what he faced.
+
+This thing, this… woman was something unlike anything they’d ever encountered, and he needed to report on it.
+
+He’d have gladly let his entire army be sent to recreation to let him get free and back to report, but that wasn’t what would happen.
+
+In the best case scenario, he’d get free, and they’d lose thousands of legion soul-cores.
+
+Sure, they had more than ever at their disposal, but they were still a finite resource, and he couldn’t simply throw such away in a hope of getting the information out.
+
+He considered detonating his body to send himself back to report with all expediency, possibly creating an opening for his fellows to retreat, but even that was uncertain to succeed.
+
+He did realize, however, that he now had an answer that they’d been searching for, and that information was valuable as well.
+
+He now knew why so many of their number hadn’t returned as they’d expected.
+
+He sent a burst transmission to his entire force, containing three things.
+
+First was a command to disengage and withdraw with all haste.
+
+Second was an information packet with all the information on this woman that he had gathered.
+
+Third and finally was a prioritization shift.
+
+They were to get the information back to command at any cost.
+
+There was an army-wide hitch as every automata’s internal prioritization schemata was realigned.
+
+Then—even as every legionnaire and juggernaut and everything in between turned to disperse—Tauto turned as well.
+
+In his case, however, he turned toward the threat, toward the only thing that he knew of, which might prevent their ever-renewing force from simply grinding this world down into their image at reality’s behest.
+
+Moreover, deep in his sub-processes—somewhere he’d never consciously be able to find it—he turned toward his own end, something that he longed for but could never choose until the mission was done.
+
+If it came in the course of duty, though?
+
+That would be alright… wouldn’t it?
+
+* * *
+
+Tala had a moment of disbelief as suddenly—across the entire battlefield that ringed Bandfast—every automaton stuttered, turned and sprinted outward, clearly angling to head south, but not in any way that would bring any individual closer to the city of the defenders.
+
+At the same time, the single, powerful automaton that was clearly the leader here, spun and lunged at her.
+
+It crossed the distance with surprising speed, and she reflexively backhanded the thing into the ground, even as Flow waited in her other hand.
+
+That surprised her more than the attack.
+
+She’d mostly expected it to dodge or have something else up its metaphorical sleeve, allowing her to follow up with the ending blade to finish it, but no, it had just charged straight in.
+
+She frowned. Does it want to die?
+
+That… that was entirely plausible, actually.
+
+Many of the others that she’d seen had exhibited a bit of desire to be permanently ended, their nature—deep down—knowing their own existence to be as much of an abomination as those they hunted so ruthlessly.
+
+Still, the officers had always seemed to hold ‘the plan’ in higher regard than their own desire to end their existence.
+
+Something really had broken in this one.
+
+As it pushed itself up, out of the churned earth, Tala found herself shrugging.
+
+“If an end is what you seek, I will grant it.” She didn’t know why she verbalized the sentiment, but it seemed fitting.
+
+Interestingly, as the words buzzed from her aura—generated by a forceful vibration of the air with her will—the automaton’s face twisted in… frustration?
+
+She tilted her head to the side, the odd dichotomy pulling more of her focus.
+
+She stepped forward, the kaleidoscope of reality bursting around her with each movement.
+
+Flow struck out, and the thing dodged.
+
+Why did it continue to strive to avoid the end it so clearly desired?
+
+Her frown grew.
+
+Flow struck again and again, but it wouldn’t hold still.
+
+She flickered behind it, but it twisted to be out of an easy arc of her blade.
+
+So, she kicked it instead.
+
+At the last possible instant, she manifested a blade along her shin, shunting the ending magics through this new edge.
+
+The automaton’s eyes widened… not in surprise, but almost like it was trying to see as much as possible in the hopes of countering her attack.
+
+Her shin blew through the thing… or it should have.
+
+The senior commander had another blade.
+
+Of course it did. She knew that it did…
+
+How did I forget the second sword? Something about that was important… but her quarry was skipping across the ground, then blowing through an ancient tree trunk, and she would not let it escape its ending.
+
+That would be unkind.
+
+She flickered forward, prevented from arriving directly beside it by the stubbornly persistent reality field it generated.
+
+Still, she was able to appear in its path, allowing her a clean swing with Flow that would cut it top to bottom and—
+
+Her left elbow caught on something that was lodged in her side, but the force of her strike couldn’t be stopped.
+
+Flow was jerked to the side and metal screamed against metal as a sword that she’d forgotten about shattered, filling the voids in her being with shrapnel that continued to consume itself to grow ever more tangled nets of crystalized reality around her, trying to lock her down, to deny her existence.
+
+It failed. Reality always bowed to existence, no matter whose reality was making the attempt.
+
+Still, the automaton managed to block the twisting strike, the force of this blow driving it downward… straight into her legs.
+
+It stopped dead against her weight, things clearly shattering within its multilayered existence, but it was built too well for that to put it down.
+
+Good.
+
+It would have been a shame for it to find an end anywhere but at the edge of her blade.
+
+Her smile widened, and she felt almost like glass was in her mouth, the edges not quite sharp enough to cut.
+
+When she closed her lips, there was an odd tingling burst as reality tried to invade her even still.
+
+Folly.
+
+She reached down, snagging the being around the throat with her off-hand—her gauntlet growing, despite the interference and her small hands, to completely encapsulate its neck.
+
+At the same time, Flow shrunk down to the size of a knife, reversing itself in her grip.
+
+She drove downward.
+
+The automaton blocked that first stab with its remaining blade, the metal tinging off her armor as it failed to affect it at all.
+
+No matter.
+
+She shrugged and shifted before stabbing again.
+
+Block-ting!
+
+Reset. Stab.
+
+Deflect, Flow neatly slicing through a poorly protected hip.
+
+The reality of the automaton screamed at the violation, at the end that trimmed away at its spirit without bothering to wait for its death.
+
+Tala shifted again as a hail of blows rained ineffectually against her armor.
+
+Stab.
+
+Scream.
+
+Stab.
+
+Scream.
+
+Stab.
+
+…
+
+…
+
+Silence.
+
+Tala looked down at the thing in her grasp, Flow embedded in its chest, and saw the spirit splintering and fading.
+
+It hadn’t been a Leshkin spirit, and that seemed to matter… for some reason.
+
+Her eyes snapped up to the soul as it tried to slip away, but… that wasn’t an ending… was it?
+
+Why should she let the soul go?
+
+She was to end this being, not allow part of it to escape.
+
+…Right?
+
+Her hand snapped out, tearing through her own gauntlet and punching through the reinforced skull to catch a hold of the prize as easily as snatching a fish from a river.
+
+She pulled back her hand—the crackling burst of reality splinters as she flexed her fingers seemingly causing what she held to shudder—and looked at the restrained soul in fascination.
+
+She felt the void within her ending blade, she felt the Leshikin spirits within, and how they… added to her in some way.
+
+Why couldn’t this do the same?
+
+…and if not…
+
+Shouldn’t it be ended?

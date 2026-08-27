@@ -1,0 +1,203 @@
+---
+id: fa863d89-02ea-5404-bf41-40f952d8d6ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 – Ruins – Pt 6"
+slug: 0051-chapter-51-ruins-pt-6
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 51
+ownLength: 2074
+unit: words
+publishedAt: 2025-01-25
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2030060/chapter-51-ruins-pt-6"
+royalRoadId: "2030060"
+---
+
+Kindra reached behind her and pulled, ripping the mana toward her. A sense of wrongness filled the air, and she frowned.  What is causing that?  She looked at the cave walls. Moisture clung to a few cracks, and the sound of wings filled her ears.  I should pick my upgrades.  She pulled them into view.
+
+[Please pick an upgrade:  ‎ - Enhancer - Item enhancements are 25% stronger.  ‎ - Fabricator - Transmutation costs 25% less.  ‎ - Combatant - You may sacrifice a familiar or crafted item to boost your item stats for a temporary duration. Specific duration and boost vary based on the item.]
+
+Only things I make?  She wrinkled her nose and ruled Combatant out before looking at the others.  Both are good, but I need more bullets and to make things.  She picked the second, bolstering transmutation.
+
+[Please pick two upgrades:  ‎ - Machinist Cache - Increase the capacity by 500 pounds.  ‎ - Guided Hand - Use magic to help fix flaws during crafting.  ‎ - Salvager - Upgrade your Scavenger’s Sight to better understand the things you salvage and how to salvage them.  ‎ ]
+
+Kindra paused and looked at them.  Two? That’s strange.  She blew a hair out of her face and plodded down the stone hall. The send one didn’t make sense. She could do that with transmutation.  Is it different?
+
+[Slightly. Magic will help control your body.]
+
+She shivered, a remnant of dread passing through her body. Vetoing that option, she picked the other two and waited to see if she’d get another. None appeared . Did I level too fast?
+
+[Aika got a few choices. However, you may wish to wait longer between each one.   ‎ A system upgrade is being developed to aid.]
+
+Good to know.  She walked down the hall, and Gleon coughed, a small bubble of blood forming in the corner of his mouth. “Is he okay?”
+
+“He’s healing. Slowly.” Tilly marched around the corner.
+
+Kindra followed.  “Aika, did you get upgrades?”
+
+“Two of them. They’re great… Oh. And there is a grub up here. I think he’s sleeping.”
+
+“Tilly, there may be a grub,” Kindra whispered, winding down the tunnels back toward the tunnel.
+
+Tilly sighed. “Thank you.” The sound of her footsteps faded.
+
+Kindra walked carefully, carrying Gleon and trying to avoid making any noise. The stone walls stood solemnly around her. Her eyes cut through the darkness, lighting the place in shades of gray.  Darkvision is pretty cool.
+
+Turning a corner, she felt a soft breeze. A glowing form appeared, and she moved cautiously across the floor.  Just go slow and —
+
+The entire floor shook. The grub flailed, its heavy body slamming into stone. Aika blurred through the air, and a squeal echoed down the tunnels. A small, glowing creature bounced around inside the grub, and the grub slammed its body against the stone, sending dust and stone flying. The creature inside bounced like a rubber ball, smashing into the sides of the grub.
+
+A blurring Aika slammed her spear into its face, sending a spray of ichor against the wall. The grub rolled, twisting while its massive mouth opened, revealing strange circular teeth.
+
+Kindra froze, waiting while Aika slammed her spear into it. With a burst of movement, the grub lurched forward, and the mouth closed around Aika.
+
+“Aika?”
+
+The grub thrashed, smashing its body down and sending Aika flying inside. She bounced around, and ichor oozed from the grub’s side.  “Can you get me out?”
+
+Kindra triggered her skill to summon Aika, and Aika burst into existence, her armor, face, and hair drenched in smelly fluid.
+
+Kindra wrinkled her nose and gently set Gleon down. She pulled out her rifle and aimed.
+
+The grub thrashed, slamming itself into the ground and ripping some of the wounds open. Suddenly, it stopped. The light from the creature inside began to extinguish, and the wounds began to close. Aika blurred across the room, her spear whirring around her like a propeller.
+
+Kindra reached out and pulled, ripping the mana out of the dying creature and into herself. The grub’s wounds stopped closing, and Aika opened several new wounds, blurring around it and avoiding the large mouth.
+
+Ichor oozed from it. The grub slammed into the ground, and Kindra felt the ground shake. Her feet hit the stone, and the grub wriggled toward her at high speed. She pulled the trigger. The bullet went through it in a small explosion of fluid. It coated the walls. The casing flew, and Kindra fired again. An eyeball exploded, and the ground opened under the grub.
+
+It slithered into the tunnel, its large, oozing body covered in wounds. Aika followed, hacking and slashing into it. Kindra felt her mana pulsing and pulled runes into her mind.  “Aika, watch out!”
+
+She focused on the runes. Flames rippled into her hand, and Aika zipped out of the tunnel. Fire burst forward, racing eagerly toward the grub and igniting it. The ground shook. The smell of burning flesh filled the air, and everything went quiet.
+
+Aika zipped over to the tunnel. “I think it’s dead.”
+
+Kindra pointed the gun down and walked over. She peered into the tunnel and saw a charred grub.  That’ll work.  Reaching out, she pulled the mana into herself before walking back and picking up Gleon.
+
+He mumbled something. Kindra looked at Tilly and followed, heading down the tunnels. “What happened to the dwarves?”
+
+“They aren’t dwarves anymore. The magic changes them.” Tob sighed and leaned against the wall, shuffling slowly. “They make binding pacts with the elementals. It can turn them into living stone.”
+
+“Why do it?”
+
+“Power, of course. They can live far longer and have additional skills from their core element. Yours seems like fire, I might add.”
+
+Gleon’s eyes snapped open, and he wiped blood from his mouth. “Did we win?”
+
+“No.” Tilly shook her head. “You had your heart impaled instead.”
+
+“Put me down.” Gleon struggled and pulled out of Kindra’s arms, landing with a heavy thump.
+
+Kindra frowned. “You need to stop charging in.”
+
+“That’s what I said,” Aika added, flying over and landing on Gleon’s head. She bonked it. “Get a bow or something. You’re losing your edge.”
+
+“Pah,” Gleon scoffed, swatting at Aika with his large, meaty palm. “They just got in a lucky shot.”
+
+“Because you were letting them.” Aika smirked at him, landing on his head again
+
+“Little demon.” Gleon scowled and hobbled down the cave. “Just like my mum.”
+
+“She’s right.” Aika nodded. “I won’t be there to protect you forever.”
+
+Gleon scoffed and swatted at her. “Overgrown fruitfly.”
+
+“Blustering bison.” Aika flew off and smirked at him.
+
+Kindra chuckled and followed, shaking her head.   She looked at his gear. “Why not wear armor, Gleon?”
+
+“No point. I get bonuses without it, which makes it pointless.” Gleon stretched and wiped the blood off his large arms. He hobbled down the hall, and the magic inside him flowed like a small river.
+
+Kindra followed them down the hall, periodically checking behind them.
+
+Turning a corner, she watched Aika land on Gleon’s head. He swatted at her. Laughing, Aika zipped into the air and shot down the hallway.
+
+Kindra smiled and followed the three dwarves. “What do we do about the elementals down there?”
+
+Tob turned. “We’ll worry about it later. They’ll be busy.”
+
+“Busy doing what?” Kindra asked.
+
+“Preparing to invade the surface. We’ll have to deal with them, but we have more pressing problems.”
+
+“Umm, this seems pressing.”
+
+“It is, but we need to fortify the city from them. And we need to fortify it from the vampires. When they come, the dwarves below will die regardless.”
+
+Gleon sighed and nodded. “We need to learn the secret of the golems and prepare a new location.”
+
+“So, we run?” Kindra asked.  What about the people who are going to die?  She frowned.
+
+“We don’t have a choice,” Tilly said, patting her on the shoulder. “The necromancers are extremely strong. They’ve ruled over our people for generations, and—”
+
+“We’ll end them. We just need those golems.” Gleon grinned and swatted at Aika. “Shouldn’t you be scouting?”
+
+“I did. There’s a tunnel.” Aika smirked at him and gestured. “See. Tunnel.”
+
+Gleon hobbled along and chuckled.
+
+“What happened to your hair and eyes?” Tilly asked, turning to look at Kindra.
+
+Kindra shrugged. “I’m not sure.”
+
+Tilly turned toward Gleon.
+
+“Found her like that,” Gleon said with a slight grunt. He coughed, and blood oozed from his mouth.
+
+“Are you okay?” Aika asked, perching on Kindra’s shoulder.
+
+He coughed repeatedly, the sound bouncing through the tunnel.  Shouldn’t he be getting better?  Blood trickled down his chin, and he wiped it off, steadying himself against the wall.
+
+“Just had to get it out.” Gleon stood and looked at his blood-covered hand. He shook off the blood and plodded down the hallway.
+
+Kindra followed, slowly making her way down the tunnel and up to a wooden door.
+
+Tilly knocked on it, tapping out a rhythm. The door slid open, and a dwarf poked his head out. He looked at the group, and a smirk spread across her face. “Finally meet your match, Gleon?” He grinned and ran his fingers through his beard.
+
+Gleon scowled at him. “That a challenge?”
+
+The guard looked at Gleon’s blood-plastered armor. “Nah. I’m clean.” He stepped out of the way with a chuckle.
+
+Gleon walked inside and slapped his shoulder, leaving a blood smear on the tan leather armor. Kindra chuckled, and Aika laughed.
+
+The guard’s focus shifted. He smiled at Aika. “And you kept him alive, Aika?”
+
+“Sure did.” Aika winked and flew over. “It was a challenge. He said something about life without a beard isn’t worth living.”
+
+Gleon scoffed and swatted at her. “You’re a terror.”
+
+Aika laughed and flew around the room with a smile on her face. Kindra chuckled and slid by, following her down the hallway and toward her new home. She walked up to the door and knocked before walking inside.
+
+Sigrid turned and smiled. “Welcome back. How was it?”
+
+“We did find a golem, but it was rough.” Kindra slumped onto a bench and looked around the stone structure.  How do they live like this?  She searched the room. Pots, pans, and plates were stacked by a hearth. A chamberpot sat in the corner.
+
+“How do you live in the dark all the time?” Kindra asked, looking at Sigrid.
+
+Sigrid turned and sighed, the sorrowful sound saying everything. “If we are exposed, we have to hold off more predators. There aren’t enough of us left for that.”
+
+Kindra swallowed. “How strong are they?”
+
+“Impossibly strong. Gleon claimed to kill one once.” Sigrid shook her head. “He was there. In that village when the necromancer attacked it.” She paused. “It was a miracle that you survived. One we don’t understand.”
+
+“How did he kill them?”
+
+“Her shield broke. I don’t know why.”
+
+Kindra swallowed. The runes from her dream danced through her mind. They were familiar. Very familiar. She’d ripped them apart right before she’d left the darkness.  What was that place? And why were their runes for a shield?
+
+Sigrid looked at her. “Do you remember anything from it?”
+
+“No. Why? Was I there?”
+
+“I don’t know, but I was hoping you knew what happened. He says that he was smashing against her shield. She laughed and laughed while people around him were slaughtered. Turning toward him, she held out a hand, and the shield burst into a thousand pieces. Then he cleaved her heart out.” Sigrid traced the stone. “I didn’t believe it, but you then appeared, and the mystery grew. After all, you somehow survived. You and he alone.”
+
+Sigrid went quiet, her fingers drumming on the table.
+
+Kindra flushed and waited.  Did Death put me in her body? Or was she in mine?  A chill ran down her spine.
+
+Sigrid looked up. “Do you remember anything from before it?”
+
+“Not since the ship.” Kindra trembled. “I heard a voice. Then there was pain. Pain and runes. I spent a small eternity there. Then I was here.”
+
+Looking up from the table, Sigrid nodded. “A problem for another day then. Let’s get supper and get you to bed. I’m sure it has been a long day.”
+
+Kindra walked toward the kitchen.  Yeah. That’s true.  Errant memories of the runes flickered through her mind, and a nagging pain haunted her throughout the evening.

@@ -1,0 +1,249 @@
+---
+id: 57682837-5b3c-550d-908b-7feccb881feb
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 699 - Anchors for Opulence"
+slug: 0207-chapter-699-anchors-for-opulence
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 207
+ownLength: 2989
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3324180/chapter-699-anchors-for-opulence"
+royalRoadId: "3324180"
+---
+
+Looking back on it, Tala was honestly grateful for the first Black Legion attack.
+
+Make no mistake, she did not like the results, but with such incontrovertible proof of the threat they posed, all of arcane society fell into line, and given the Houses of Blood and Iron were already spread throughout the cities, preparing for war and with a solid track-record as ancient and powerful Houses, the last remaining hold-outs flocked to join the cause.
+
+No one wanted their city to be hit like the ten, and even the City Lords eagerly pledged to the war effort in order to gain more personal support and added defenses for their columns—or to ensure a stop-gap for those who had lost their columns—making the Black Legion’s strike a galvanizing one to say the least.
+
+The end result wasn’t the removal of all barriers. In fact, it was more like kicking a sleeping ants’ nest than waking a giant, but the result was still a lot of things getting done.
+
+Refined flooded out of the Cycling Cities to sweep through the continent in search of the Black Legion—only avoiding the southern forest to not accidently trigger the Leshkin War early this cycle—and everyone was confident that if factories existed on Zeme, they’d be found. A few more adventurous groups were even heading to the great white north, something that Tala realized even she would be hesitant to do.
+
+May the stars preserve you all.
+
+Arcane excursions were planned for the Doman-Imithe to sweep the backside of reality for Rane’s theorized hidden facilities.
+
+Eskau Reidh and a few other dragon-kin were being dispatched to the closest hatchery to ask if an Ancient would aid them in this struggle, but they were very emphatic to not be hopeful.
+
+Yet another path of advancement.
+
+-Not really. They are god-beasts with roots in treasure and territory, drawing as deeply from reality as from magic… and void come to think of it.-
+
+The separation of treasure from its previous owner?
+
+-Precisely. A bit more conceptual than some forms of void but theoretically valid.-
+
+That’s quite the theory. Tala huffed a laugh at that. If they are a triune existence, we might want to seek an audience…
+
+-It’s a part of the delegation’s plan. The potential of existence linked individuals could be a powerful bargaining chip to pique their interest and possibly draw their interference.-
+
+Tala decided not to dwell on the potential of an ancient dragon coming to Zeme for her. But even if they agreed, their help would have to push through Sovereign resistence…
+
+-Most likely. Zeme is generally not the domain of dragons. Though, history suggests they occasionally meddle.-
+
+Yeah…
+
+The final damage reports were in, and the superficial damage to most cities was minimal, even in the two where holds had been successfully used as weapons through catastrophic realignment.
+
+One of those two was Croi, and in both cases the local City Lord had thrown all other concerns aside to contain the issue, leading to their columns being among the first taken, with the shortest lengths of engagement.
+
+For the most part, across the ten cities, collateral damage was confined to some torn up and destroyed cobblestones and a few crumbled buildings.
+
+It certainly wasn’t the large-scale devastation that would be expected in a true engagement between such powerful opponents.
+
+The Black Legion had been surgical, and the longest of the fights had been over in less than an hour.
+
+On the physical side, with the judicious application of magic, all was set right with startling rapidity.
+
+On the magical side, in the ten column-less cities, holds opened their doors for the average citizen to step within and top off their reserves.
+
+It was agreed that the first days would be gifted by the various groups who owned the holds. After that, those same holds would be allowed to charge a nominal fee to prevent the waste that was universal with anything ‘free.’
+
+In truth, even those first days had been a bit of a hard negotiation, with Tala having to put on a bit of pressure as the Eskau of War, making it abundantly clear that this was a matter of war and keeping the population safe in the aftermath of the attack.
+
+Still, it was a temporary solution that would hopefully be unnecessary once the ten ‘resort’ holds were up and running.
+
+Archons were already hard at work with hold-crafters of the arcane cities to create distinct, enticing locations, as well as portions that could be for those who took ‘paid positions’ for otherwise unskilled gated, places to reside in for a time.
+
+The planners had apparently quickly tossed out the idea of having gateless workers within as gated staff were just more throughput within, which was precisely what they needed.
+
+The whole process was going to be expensive, on the order of tens of thousands of gold worth of materials and magic for each of the twenty holds—and that wasn’t even factoring operating costs—but it would temporarily fill the need… at least in theory.
+
+Tala was trying to see if the Hold Wardens could be involved, but they just didn’t know how much damage a Hold Warden could mitigate or repair, nor exactly how much damage the needed gated would do.
+
+Everyone knew that gated within permanent, non-bonded holds was harmful to the hold, so it was avoided. No one had really done large studies on how dangerous and damaging it was beyond a few people for short periods of time.
+
+In the best case, Hold Wardens would be involved in the second or third iterations of this solution, if they could make it work with Hold Wardens, and if power-holds were still needed by then.
+
+As for what Tala was doing now? Well, it had been four days since the attack, and she was finishing the last conceptual ‘gravity’ amplification between the reality nodes composing the new hold at Platoiri’s center.
+
+The primary, semi-permanent anchor, of course, wasn’t a door, as they didn’t want any gateless coming and going, nor any gated to come out into the arcane city. Instead, it was a stone monolith, with reality iron woven through it, around a core built by the arcane hold-makers.
+
+That core was the actual anchor for the hold, and only Tala would easily be able to enter the hold once it was fully attached.
+
+Well, me or another with the ability to both move in the dimensions of magic and bypass the defenses.
+
+The Black Legion’s tactics had been at the forefront of everyones’ minds, and these holds would not be in danger of a breach either from the Doman-Imithe or the superficial. They truly were as sealed as cells.
+
+Except to the one who sealed them… which is me.
+
+But that was once they were complete, as this one almost was. Until then, a very utilitarian, carved wooden gateway stood open, granting access within.
+
+Workmen, craftsmen, and various laborers were streaming through the ten-foot wide opening, both coming and going in the final minutes of construction.
+
+Most of the headroom wasn’t used in the square pass-through, but it had occasionally become critically important when they’d needed to move through something bigger.
+
+The whole process had been a bit odd, as they’d built the hold with itself as the core. Rather than having containment and purification magics around a small vestige, they’d woven them around the entirety of the exterior of the expanded space. The result would slowly drain any gateless of power, almost regardless of their advancement or usual ability to retain internal magical density, but that was an unavoidable side effect of the required spellforms.
+
+It borrowed a lot from the magics involved in the creation of City Stones, several high level Constructionists having arrived two days earlier to help put together the first version.
+
+In theory, it would increase the longevity of the hold even further, but expensive was beyond an understatement.
+
+Sheeting the inside of the mile-diameter sphere with a half a foot of gold might have been cheaper.
+
+The result was three feet of granite woven through with silver and gold, having been precisely placed by variations on Mistress Holly’s inscribers, mass produced across the Cycling Cities and brought to bear, here.
+
+Thankfully, most of the components could be reused, and those were already on their way to the next cities, where Tala would follow to help with the final anchoring on the already in process holds.
+
+Most of the time had come from the actual making of the space and prep work, so they hoped to be doing a single hold every day here on out for all but the next three weeks.
+
+Within the hold, the teleportation circles were flaring practically as fast as the spellforms could be relaid, even while the final touches were being put on the ‘exit’ teleporters—the process taking longer than might have been expected because they were laying the surrounding spellwork to make the refreshing of the metal automated.
+
+The end goal was to have a Mageless process, because if Mages were required to be involved, that would mean that they needed to set up an entire ‘inscription infrastructure’ within each hold, and that would be another massive undertaking in and of itself.
+
+The spellwork around the perimeter sphere had been designed and developed to be sufficient to establish the magics involved as ‘natural’ within the hold itself. That, too, had increased the expense over just refreshing the spell-forms periodically, but as the goal was to have these be entirely isolated physically—a requirement for the acranes containment and purification magics—then they couldn’t be constantly engaging in the work of refreshing such large-scale workings.
+
+Even just the teleportation circles—both sending a receiving—would also be pushing the precious metal reclamation magics they’d be able to impress upon the hold in the same timeframe.
+
+In truth, it was an insanely delicate balance that Tala was sure she only understood a tenth part of.
+
+Still, gated were already beginning to arrive, specifically the staff, and even those few gates were already beginning to fill the space and allow the spellforms to start charging toward ignition.
+
+That would likely take another day as well, after the last entrance was closed and the anchor fully established.
+
+The magics on the anchor would need to be refreshed, but thankfully, they were simple in the extreme, basically consisting of what amounted to a pressure release valve.
+
+They would allow the Revered City Lord to choose how much magic came out at any given time, giving him far more control over the ambient magic than had been possible in the past.
+
+Regardless, it was coming together with the rapidity to be expected of hesitant allies striving to keep that fragile understanding from crumbling around them despite a greater, looming threat.
+
+-That’s… that’s so specific as to be practically useless.-
+
+Well… It’s what came to mind.
+
+-Fine, fine.-
+
+Tala was taking extra time to ensure that her binding the whole thing together was in a manner that would give the magics conceptual weight when interacting with one another.
+
+A little known fact was that older holds were more efficient at least in part because they’d had time to truly unify, and the alliance needed that efficiency without having the time to allow for proper percolation.
+
+Hers was still an artificial unity, but with the combination of her ‘gravity’ amplification, reality-iron—created and influenced without being claimed—and a drawing away of the void from between the various components, it should be an improvement.
+
+Interestingly, she could feel the unclaimed dimensionality hanging just stoneward of superficial, ready to slip sideways to hang within the void, where it would be sheltered.
+
+There was nothing at its heart, and while it was more and more unified by the moment, it was still just there.
+
+That, combined with the iron that she’d worked with without claiming, left her with an almost palpable yearning to claim the whole thing.
+
+She could, of course, but it would result in an undoing of essentially all of the work that had gone into the hold.
+
+People would likely be… less than pleased with that outcome.
+
+Tala would resist.
+
+Of course she would.
+
+To do otherwise would be counterproductive in the worst possible way.
+
+Yes.
+
+She would resist.
+
+There was no question.
+
+-Tala!- The mental voice hit her like a slap, her perception pulling back from the juicy hold, the tasty iron, the unclaimed goodness that— -Enough!-
+
+Tala jerked again, shaking herself, the freeform workings of void-magic and reality-magic within her aura slipping just slightly, but Alat helped her catch them and lock it down.
+
+-Don’t focus on what we can’t have, Tala. It just makes it harder.-
+
+Right, right.
+
+She had gotten sleep… three days earlier. There was just too much to do to take time to sleep, and while she didn’t really need sleep, it certainly helped with recovery and mental acuity.
+
+But it was time.
+
+The last of the gateless were leaving with their tools, moving toward expanded, iron lined cargo containers waiting in the Platoiri central courtyard, so that they could bring the parts needed to the next city through the Doman-Imithe.
+
+That’s one caravan I’m glad to not be protecting.
+
+-Indeed.-
+
+They would be escorted by a delegation of nearly twenty Eskau whom Tala had hand-picked for the assignment, partially based on how well they’d done in training, but mostly based on Alat’s observations of the city during the actual clash.
+
+Each of the twenty had slain at least five legionnaires in as close to single combat as such a sporadic melee could allow, while she disqualified those who ordered support to back off in order to have such one-on-one encounters.
+
+There was a time for such, but when defending non-combatants was not it.
+
+Even as she was going over next steps—a part of her mind documenting the Eskau as they helped button things up and gather the workmen together—most of her was adding to her conceptualization of the hold before her.
+
+She’d approach this project a bit differently from something like her spheres.
+
+She hadn’t simply targeted everything within a range, or even everything of a certain type—like reality-nodes—within that range. Instead, she had started with a single portion, and slowly added to it over the past days, learning how various reality-nodes responded.
+
+As odd as it seemed from a physical perspective, all reality nodes seemed to respond effectively the same, at least to what she was doing.
+
+I guess it’s like all mass is mass. Gravity doesn’t care.
+
+-Ahh, yes. Gravity is the great unifier.-
+
+Still, she was grateful that she’d taken her time this time around. It had made the whole task incredibly clear, and if she’d done it all together, she might have accidentally sealed it off too early.
+
+Because that was something she hadn’t actually understood about holds, which she really should have.
+
+The more coherent a hold was, the harder it was to connect it to the superficial.
+
+It was actually one thing that cells depended on as a portion of their means of sealing. They were effectively made as stable as possible in order to help keep that seal… sealed.
+
+She’d been momentarily confused about the world fragment, but apparently, it wasn’t connected to the superficial, the superficial was connected to it through an intermediary hold that was effectively just the size of the main gates, and that frankly disturbed Tala just a bit.
+
+She wondered why it hadn’t come up in her discussion with the fragment-keepers, but she supposed that many things hadn’t simply due to the nature of the time they had for their discussion.
+
+Regardless, as Tala looked stoneward—to the practically glowing sphere of opulence—she mentally grasped the last portion, her power rippling as it rolled over the final piece.
+
+The whole thing was already in her authority, and her aura permeated the entirety almost as thorough as it did Ironhold.
+
+Off to her right, the large wooden square, which was the temporary entrance, groaned, the internal coherence of the hold becoming too much for the portal magics to maintain a connection.
+
+They couldn’t take that down as destroying, disassembling, or otherwise deactivating it from this side would create a backlash, which might have been problematic.
+
+Doing it from the other side would still create a backlash, but—
+
+The wood detonated, the portal within vanishing in a shower of splinters.
+
+There was more to it than that, the dimensionality around the disrupted portal twisted and tried to buckle and unravel, but Tala’s very presence was a break-water for the energy.
+
+Her aura, her magic, her authority clamped down, bleeding away the potentially devastating reaction and smoothing out the folds of existence.
+
+Apparently, the size of the backlash was generally in proportion to the size of the opening that was broken, factoring in the size of the entire enclosed dimensionality as well, and it was mitigated by the power of what the hold was being bound to instead.
+
+Since there was no new bond—unlike when an Archon soulbound a storage item—it might have done more damage to the city center than the Black Legion, but Tala had been here, and she’d handled it with ease.
+
+A backlash on this side is inconsequential.
+
+-Show-off-
+
+Just doing my job.
+
+Despite the banter, she kept a close eye on the resort as it bobbed slightly up and down in the dimension of magic before settling and slowly slipping through a non-existent crack into the void, only remaining connected to Zeme through its anchor.
+
+That anchor, within the column now in Platoiri’s center, held it fast, the long-honed knowledge of cell construction ensuring it wouldn’t just drift off to be lost in the void.
+
+Still, as the teleporters within continued to flash at a regular cadence, Tala breathed a sigh of relief.
+
+Well, that looks good from out here. Shall we investigate the inside before moving on?
+
+-Let’s.-

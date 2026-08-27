@@ -1,0 +1,443 @@
+---
+id: 02d0269b-d793-5b79-9068-50f19dc8d293
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 59 - Karma Police"
+slug: 0104-chapter-59-karma-police
+partOf: metaworld-hopecore
+position: 104
+ownLength: 4317
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3512078/chapter-59-karma-police"
+royalRoadId: "3512078"
+---
+
+"Power concedes nothing without a demand."
+
+Frederick Douglass
+
+January 1st. LAPA.
+
+Euphemia Fontaine stepped into the familiar dorm room, feeling the vertigo of a child who had toured half the world to land back in her humble bedroom.
+
+The flight over had been nice; it was business class, meaning Eppie naturally ate her share and drank her fill for the five-hour flight, arriving at LAPA in the late afternoon.
+
+The dorm room was pretty much how she'd left it.
+
+The place was spotless. Evidently, Josefina or someone had felt the need to spruce the place up while it was empty. Her things were largely where she had left them—not that she had anything of note, and—
+
+The Lana inside her dispelled the optimistic naivety at once. She gingerly opened her drawers.
+
+Someone had moved her underwear. Lana always stacked her intimates like a hotel stacked cascading towels, and they were no longer arranged in the same way. In fact…
+
+A pair was missing.
+
+EURGH… Her head throbbed.
+
+She then checked the lowest drawer, where she stored her old phone, not the one with Mio’s recording on it, but the one originally given to her by Eric.
+
+“Well, I’ll be damned…”
+
+It was gone.
+
+Someone who could have access to her room? Someone who had proved themselves fully capable of going about LAPA’s electronic security systems? Someone who had access to spare keys because Daddy’s company hired the locksmith and contractors? Could her [Usurper] be any more transparent?
+
+Maybe—the Machiavellian part of her told Eppie—that was the point. After all, wasn’t paranoia what she was doing to him as well?
+
+Either that or a cleaner had rummaged through her shit, carefully repackaged her stuff, then stole a two-year-old, out-of-date Sony Xperia.
+
+Regardless, it was no big deal, at least logically. There was nothing on it, and there was no cloud account. At best, there were some theatre class photos and a few pictures of her checking her scalp for dandruff. A song or two that everyone’s heard. Eric and Zara are on the call logs. Still, she could feel—
+
+[- 1130 Causality]
+
+Are you shitting me? She felt the depression, paranoia and invasion of privacy hit at once. Well, I guess that settles who the fuck was here.
+
+Was the [System] warning her against blatant revenge? Or did her fortunes diminish at the precise moment her vitriol was affirmed? Sometimes, she wished the damned thing could trade in its sandbox style for multiple choice.
+
+Still, she had not anticipated that her New Year LAPA gift was a [Causality] hit. Thankfully, Eppie felt confident that her stowed volume was enough to battle any snakes William might toss her way. After restoring her [Dasein], [Vitality], and [Health], she was left with just [128,902] [Causality]. With her streaming [Causality] revenue drying up, her quarterly revenue was in gross decline. That said, she still had an astronomical lump sum in March from Kiritani-sensei’s exhibition, from whenever In the Pines and Dream a Little hit the charts, and from whenever Curon felt ready to find an artist for Doves Cry.
+
+For now, there were also the Goode sisters.
+
+Still, the fact that someone could access her room at their leisure was all kinds of fucked up.
+
+Perhaps… she should stay out until Josefina and the girls returned on the 7th.
+
+For now, she repacked a bug-out bag, changed into cheap casuals, and went to the Old Dorms.
+
+The Stray Cat Society at LAPA was doing well. Despite being a student initiative, its budget had, of late, become generous, allowing the heating to run all winter. In total, eleven cats were living in the basement when Eppie left.
+
+Now, they were plus-four.
+
+She found them behind the food rack as the first person—according to the logs—to set foot inside since the 30th. They were curled up in a mess of curtains the mama cat had pulled from the shelf. The mama cat was new and had evidently been informed by strays of cat society that here was a good place to give birth.
+
+Eppie crouched in front of the scrunched curtains, giving the mama cat and the kitten time to take in her scent.
+
+“Man… Lim is going to lose his mind.”
+
+She sent him a text via his disposable number, role-playing a fellow college Senior from his course. In all honesty, even if William found out, it would only add to his torture. Still, Lim had his plans for the Five Root families, and as Lim himself had said, if you know the enemy and know yourself, you need not fear the result of a hundred battles.
+
+Then she refreshed the water, replaced the kibbles, scooped out half a ton of poo, then lay on her side with a hand extended toward the newcomers while Mr Chin kneaded her new clothes with its paws.
+
+“Good job,” she said to the new mother. “Mrs… Mesa.” “Meow!”
+
+Mesa blinked once, slowly, which in cat speak meant obviously.
+
+Her phone buzzed.
+
+Are you back?
+
+I am back, she typed. How are things?
+
+In all honesty? Not great.
+
+“Oh shit…” Eppie fought down the instinct to call.
+
+How bad? Was it the mean cat?
+
+The replies took a while to come, meaning Lim was busy with something.
+
+The meanest cat. His mate was gone for Christmas. He was antsy as hell. Kept bullying the black cat.
+
+“OH FUCK,” Eppie felt her hands grow cold. Was this a repercussion of what she did with Valorie? Clearly, Val was away precisely because Vaughan wanted to use her to teach Eppie a lesson, but still—
+
+How bad? She typed.
+
+Bad. But someone stopped em.
+
+Where’s blacky now?
+
+She’s gone back to the shelter.
+
+Alright. I’ll go check up on them.
+
+Eppie put down the phone.
+
+Eppie picked up the phone. She had to check her email before she went to see Simone again.
+
+From: Madeleine Filmore <[email protected]> To: Euphemia Fontaine <[email protected]> Date: Tuesday, January 1, 2008 — 9:02 AM Subject: RE: Weekly Media Report — W/E 31 December + NEW YEAR ITEMS (PLEASE READ IN FULL THIS TIME)
+
+Eppie,
+
+Happy New Year. I hope you're reading this. I know you don't always read these. Please read this one. I heard you got new computers. Apple ones. Does that mean you’re going to look at my emails😅
+
+WEEKLY MEDIA REPORT — W/E 31 DECEMBER 2007 Prepared by: Madeleine Filmore, Media Manager (Sony Music, Artist Services)
+
+MySpace
+
+YouTube — Vincent
+
+YouTube — Whatever Will Be
+
+YouTube — In the Pines (LAPA Fall Gala, Dec 14)
+
+Umbrella — Kellie Noah (feat. PayZEE) (Attribution: composed and gifted by Euphemia Fontaine)
+
+GRAMMY NOMINATIONS — 50TH ANNUAL GRAMMY AWARDS Ceremony: Sunday, February 10, 2008 — Staples Centre, Los Angeles
+
+The nominations were announced on December 6th. Here they are:
+
+Kellie Noah — "Umbrella" is nominated for: Record of the Year — Best Pop Solo Performance — Best Pop Vocal Album  —
+
+Euphemia Fontaine — nominated for:
+
+Song of the Year (songwriter credit: "Umbrella" )
+
+Yeah… So you are nominated for Song of the Year at the 50th Grammy Awards. I cried for approximately forty-five minutes. Curon said not to expect much for this category. There are STRONG contenders, like Universal’s Vanessa Vines. No one can beat depressed Jazz song writing.
+
+Sony's official communications team will be in touch separately re: press strategy for the nomination. Curon has opinions. Davis has more opinions. I have forwarded everything to Eric.
+
+Seventeen — March Issue Cover is confirmed. On stands 5 February. Diana Mercer's team have signed off on the images. Curon handled the placement. I am told a Grammy promise was involved.
+
+OTHER ITEMS
+
+Interview queue — still holding. Rolling Stone, Billboard, Entertainment Weekly, Teen Vogue. LA Times Arts is still on pause per Eric's instruction. No action taken without your sign-off.
+
+Sony Special — Pending Grammy results. Nothing is needed on your part unless you want to take time off from school to attend.
+
+Disneyland — Park Hopper Plus (×4) Your four passes are confirmed and waiting. Valid from January 3rd. I've had them couriered to the address you gave me. Please confirm receipt when you get a chance.
+
+PERSONAL NOTE (feel free to skip — though I hope you won't)
+
+Director Curon called me on Christmas Day.
+
+He told me about Kiritani sensei in Central Park. The artist. The cats. 😭I had to go into the bathroom and redo my make-up twice 😭
+
+I don't always know what to say to you, Eppie. I mostly just send you numbers in a table. But I want you to know that I think you’re the best. Really 😍😍😍
+
+Happy New Year. I mean it.
+
+P.S. — I heard from the grapevine that Diane Mirabelle wants a picture of you in the next issue of Vogue. IS THIS TRUE? OMG? 😳😳😳
+
+Madeleine Filmore, Media Manager, Artist Services, Sony Music Entertainment T: (310) 244-XXXX | [email protected]
+
+She immediately went to the apartment’s internally locked mailbox and, lo and behold, there were the Disney passes, as promised.
+
+Thank you, Maddy, you angel. She sent a prayer skyward toward her Media Manager, without whom her life would be so much more chaotic.
+
+This time, she also sent over emails of thanks.
+
+“Alrighty then,” she hefted the weight of the Park Hopper Plus packet, feeling nostalgic. Beneath the courier plastic, she could see the classic cardstock peeping out of the protective packaging. Just in case, she unravelled the plastic and checked the dates.
+
+They were correct. And Maddy had evidently gone the extra mile as well. There was a little care package attached to a tote and a Photo Pass. A separate card said “Compliments of Sony Music Entertainment,” in case the girls wondered who had sent them this generous gift.
+
+Holding the tickets, Eppie allowed the anticipatory revelry of meeting the girls with tickets in hand to overwhelm the fact that some bastard had snooped through her underwear drawers.
+
+Eppie stepped off the pricey New Year Taxi.
+
+She had no choice, because Denise was the kind of woman who had a window of 1 PM to 5 PM, after which she was back at work.
+
+Like Denise herself, Broadway Manchester on New Year's Day was quiet in the way of neighbourhoods that don't get days off. Everything was open, and everyone milled bout their business, whatever that may be. The neighbourhood’s mood remained hostile, which was why Eppie especially wore her K-Mart coat to hide the warmer clothes Curon had gifted her.
+
+She called out from the wirelooped fence.
+
+The lemon tree in the middle of the yard stood where she'd last seen it, bare and dignified in the January cold. The house looked no happier than before. The security bars on the windows were the same defiant yellow.
+
+Denise opened the door in her in-between clothes, her hair wrapped, a dish towel over one shoulder. Her face cycled through three expressions as recognition dawned: surprise, and then her characteristic unguarded warmth
+
+“Eppie!” The woman was an angel.
+
+“Hi, Mrs Goode. Happy New Year.”
+
+"Happy New Year. You look great!” She ushered her inside. “Come in. Come in, it's freezing out.”
+
+The house was warm and smelled of something with onions. The living room was full as always. Renée was at the table with her worn school books. Cora was cross-legged on the floor, drawing with crayons. She was drawing Mickey.
+
+Jesus Christ. Eppie drew in a lungful of warm breath. That is A LOT of Mickeys.
+
+Mickeys covered the fridge door, then migrated onto the walls, then the doors. Cora was really getting very good. Her family projections were truly spectacular. In a museum, the plaque might read as such:
+
+Cora Goode The Family Goes to Disneyland, 2008. Crayon on A4, artist's proof.
+
+“The image shows four figures of escalating height standing before a pink structure identified in the margin as "THE CASEL." The mother is smiling, the oldest sister is serious, and the older sister looks tired. The father is missing. Wow. This is kind of depressing…”
+
+Cora looked up, saw her, then the little girl’s face reorganised itself into guileless delight.
+
+"EPPIE—"
+
+She launched off the floor. Eppie caught her with one arm, swinging the girl easily with her [Strength] until Cora pressed her face into the side of her bosom like an affection-seeking vampire.
+
+Renée watched from the table. She closed the book over one finger. The girl was friendlier now, but still far too serious. Eppie figured that, maybe, after Disney, some of the Tabula Rasa might still be there.
+
+“Hey, Renée.”
+
+“Hey.”
+
+And then from the short corridor, Simone appeared in the doorway of the bedroom.
+
+In her casuals, the dancer looked all legs. Eppie breathed out. If Simone had come out bandaged or with bruises, she had a mind to call Lim and tell him it was time to put William on Plan B. Thankfully, Simone was just tired-looking. She was just a girl in her own house, in hoodies and socks and dancer’s shorts, whose facial expression held more surprise than dread.
+
+“Sup.”
+
+“Yo.”
+
+Cora was still hanging off her neck. Eppie looked down at her.
+
+"I brought something." She set Cora down and opened the tote. “From Sony.”
+
+She produced the four Park Hopper Plus ticket sleeves first—Disney's cream card stock, the castle printed in blue and gold. She held them out to Denise.
+
+Denise stared.
+
+“Disneyland tickets,” Eppie said. “Four of them. The whole family. Both parks. These are dated for the Third, but I do believe you can claim them later. Take two days if you can. Enjoy the ambience. That’s the best part.”
+
+“Eppie,” Denise’s protest came as expected. “That’s too much.”
+
+“Not from me,” Eppie posed like a teapot from Beauty and the Beast. “From Sony. I’ve been to Disney plenty of times already. They’re free anyway. Don’t make things awkward now.”
+
+Cora was already on the verge of tears. Renée was choking back hers. Denise took the envelope slowly, as if Eppie were bestowing upon them some life-changing Golden Ticket to a Chocolate Factory. She watched the girls’ eyes study the castle on the front, then she put a hand to her mouth to stifle a cry.
+
+“No…” Eppie patted her hand. “No crying now. NOT in front of the Happiest Place on Earth.”
+
+Denise broke into a whimpering laugh and cried anyway. Eppie felt the weight of that laughter, the relief, the gladness, the joy, delivering to her [Persona]’s heart an uppercut.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+Thank you, [System], she said to herself sardonically. How could I have known that bringing joy to innocent families was worth Karma without your help?
+
+“DINNEY!” Cora pulled on Eppie’s clothes. “Are dey real?”
+
+“Oh, dey real…” Eppie assured the girls.
+
+She reached into her cheap tote. “And I got something else from Sony as well.”
+
+She produced the signatures on the signed CD sleeves. First was Kellie Noah's name across the front. She opened the CD, and inside was the private message she had Kellie write for the girls.
+
+Renée looked at it. Then up at Eppie. Then back at it. Her hands shook.
+
+“Is that…? Is that real too?”
+
+“Oh, dey REAL,” Eppie grinned, mimicking Cora.
+
+The sound Renée made was not a word. She grabbed the CD with both hands and held it up in the kitchen light to see it better, her face flushed, her careful composure entirely gone.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+Nice.
+
+Cora, not caring who Kellie Noah was but understanding categorically that something wonderful had happened, began jumping on the spot.
+
+Then, she produced the Lucia Lancet photos with the signature and message.
+
+Cora remained her happy self, but Renée may have perished from happiness.
+
+Denise laughed. She was still crying tears of joy.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+Bring it in… bring it in…
+
+Without a word, Denise pulled Eppie into a hug that had a mother's full weight behind it.
+
+Over Denise's shoulder, Eppie looked at Simone.
+
+Simone was watching her family. Her face shared the joy, but it was a weighted happiness, tinged with guilt and regret.
+
+That was William’s power. Even in the purest moments of unadulterated joy, the shadow of his being loomed over all.
+
+“If you want to talk,” Simone said, when Denise finally released her. “We can use Cora’s room.”
+
+“You’re such a liar…” Simone said as she moved herself onto Cora’s bed.
+
+Eppie clenched. “You’ve never been to Disneyland…” Simone’s voice was choked up. “You told me it was your dream to go…”
+
+Eppie unclenched. No sis, I’ve been to Disneyland… every single Disney in the world. In fact, when I was your age, I went on weekends just because I felt like eating Dole Whip. Those Annual Passes were no joke…
+
+“How’s work?” Eppie changed the subject so Simone would stop sobbing for a liar. “William give you grief?”
+
+Simone looked up, her eyes suddenly wide.
+
+“Don’t be scared,” Eppie put up both hands. “I am just asking because it's probably my fault. When I was in New York, I ran into Valorie…”
+
+“Oh…” Simone’s paranoia was downgraded to realisation.
+
+“Yeah… did you talk to Val lately?”
+
+Simone shook her head. “She’s at her family home. She won’t be back until the 7th. I guess William was expecting to spend Christmas with her.”
+
+“Yep, that was my bad,” Eppie kept lying as she explained her encounter with Valorie. She deliberately omitted the part where she told Valorie everything, including that Simone had to ‘serve’ dozens of old Asian guys at night. For now, observing Valorie’s reaction once school started was far more important than coordinating with Simone, who was the definition of loose lips sink ships.
+
+Speaking of lips. She still couldn’t believe Valorie just pulled a fast one on her and managed to flip the whole script. Being obnoxiously pretty had its advantages, but Valorie’s UNO Reverse was on a whole other level.
+
+Simone, sitting on Cora’s bed, which was her old bed, looked kind of ridiculous. The dancer’s long body was far too long for the tiny frame. Maybe they should swap the chair-versus-bed arrangement.
+
+“So, what happened to you?” Eppie asked. “I mean, you look… nice.”
+
+Simone was clearly looking for someone to finally open up her frustrations, and so she did exactly that.
+
+She told Eppie that William started coming to the club daily, looking for girls. There was no shortage of gullible women, but he still seemed dissatisfied. He was antsy, short-tempered and not at all like his usual charming self. By the time Christmas rolled around, he was so irritable that some of the waitresses started openly complaining about their young master. During one of these gripe sessions, William happened to overhear one of the girls joking with Simone, and that’s when their eyes met.
+
+“Uh-oh,” Eppie expressed her sympathy.
+
+“He made me follow him around the place, serving drinks, bringing him food, taking away his trash…”
+
+Which is in your normal job description…
+
+“And then,” Simone’s complexion grew two shades darker. “He started getting handsy. He never liked me… like that, so I guess the embarrassment was the point…”
+
+“Jeez…” Eppie wasn’t actually sure what else she had expected. If William couldn’t drain a random victim, then of course, he would go for an easier target. For someone so used to… a [Persona] of Valorie’s calibre, she guessed, not just anyone would do. As an [Usurper], satisfaction was both psychological and physical, and, most importantly, it had to involve karmic theft.
+
+“Did you kick him?” Eppie asked. “With them gams of yours?”
+
+Simone shook her head. “Uncle Lai caught him trying to…” The black girl crossed her legs. Eppie signalled that she did not need more details.
+
+“He started shouting at William in Cantonese. He was swearing so fast. William looked bewildered, as if Uncle Lai were speaking Mandarin or something. After he finished, William tried to laugh it off and said something in Cantonese to him. They were talking about me, because he kept saying hei-mei, hei-mei. I don’t think he was saying nice things. Then Uncle Lai called out to the bar, and Uncle Bao came out from behind the counter…”
+
+Eppie was ready to subscribe to Simone’s Patreon. “And?”
+
+“Uncle Lai listened to his speech, then he called over Uncle Bao, then Uncle Bao told William to repeat himself. William pointed at me and said something very, very rude, because the girls standing behind them made this face, and then—”
+
+Simone’s face was red. She was clearly quite excited and had been waiting to share this for a while.
+
+“Then Uncle Bao backhanded him across the face. PA—! Like that! Then he told him to fall on the street in Cantonese. One of the girls said that he’s going to speak to Chen-ye about making the business look bad.”
+
+It took Eppie a few seconds to find her jaw and reattach it to the lower part of her face.
+
+“Did William fight back?”
+
+“No!” Simone’s eyes were alive with… schadenfreude? “He just stood there like he forgot his script. He just… stood there.”
+
+“For the whole night?”
+
+“For about five seconds…”
+
+“Oh…” Eppie rolled her eyes.
+
+“I thought everyone would be upset, but instead, they looked thrilled.”
+
+“And then?”
+
+“He left.”
+
+“He left?”
+
+“He left.”
+
+Eppie sat with this. Terrible Cliff. No Patreon for you.
+
+“And he hasn't been back?”
+
+“Not to my knowledge.”
+
+Eppie inhaled and exhaled. Okay. It made sense. She side-eyed her Quest.
+
+You have successfully disrupted the Usurper’s theft of Causality from others.
+
+And
+
+Your actions have reaped the Usurper’s Causality.
+
+If William had a visible [System], he would know that he was losing [Causality] through each and every act, and that a foreign [System] was applying an endless stream of penalties and negative notifications to his [Potential]. It was karmic justice, in a way; the [Usurper] was now suffering from the same series of unfortunate events that he usually bestowed upon his victims.
+
+Didn’t her [System] say that Simone had her [Karmic Causality] restored, while William had his reaped? That these abstractly deterministic quantifications could manifest so readily in real life was a study in itself, one that would fascinate the most esoteric of scholars, if indeed such a discipline existed.
+
+“Okay, I got some good news and bad news.” Eppie’s wisdom, however, was far more pragmatic.
+
+Simone stared.
+
+“The good news is that Valorie is probably going to be very nice to you when the new Semester starts. The bad news…”
+
+Eppie felt truly sorry for the Musical Theatre major. “...is that, on your life, NEVER be in a room alone with William Chen.”
+
+She had dinner with the Goodes family, sans Denise, because the mother of three was going to head to work early and inform them that she was indisposed for the third and fourth of January. With Denise’s people skills, Eppie suspected she should have no trouble finding someone to cover her shift.
+
+This time, Simone cooked. She was absolutely god-damn awful at heating lemon chicken, which was an effort in itself.
+
+Eppie left while it was still safe, just after sundown, before the midnight creatures of the suburb came out to play. She rode the bus to a commercial hub, then caught another Taxi to the hotel Eric had arranged off campus with her bugout bag.
+
+It was a Culvet City Sofitel, and for a minute in the lobby, Eppie toyed with the idea of asking Lucia Lancet whether her family business could offer her a discount for a week-long stay. According to her unsettled itinerary, Kiritani-sensei would arrive tomorrow, and she and Eric were on the hook to get the man to Tule Lake.
+
+Lying in bed, she thought about the architecture of how William operated. Like Grein, William Chen had a specific scaffolding to his idea of control. It involved leverage, obligation, fear, and dependency. Each person in his orbit was connected to him by something he held over them or something they needed from him. The whole structure was interlocked and load-bearing, and each person's compliance locked in the next victim.
+
+With Val gone for the moment, William had lost his principal outlet for what Eppie imagined to be some sort of psycho-sexual sadism.
+
+With Simone sheltered by the uncles, William had lost his emotional punching bag.
+
+With Eppie becoming the equivalent of a brick wall, William had no other outlet.
+
+Did that make William more or less dangerous?
+
+The thing about a parasite without hosts was that it didn't become peaceful. It became hungry in a different way. Hunger without an outlet…
+
+She shivered. She had a bad feeling, but couldn’t place it.
+
+Her January was already packed with hope and conspiracy alike
+
+She had until the 6th before school started, giving her three days to find Kiritani-sensei’s peace.
+
+School started on the 7th.
+
+In the Pines and Dream a Little was on the 12th and 13th of January.
+
+Titus cold reads were on the 15th of January. Followed by auditions on the 16-18. Both were a formality, for unless things changed, she and Val were the only girls fighting for the role, and Eppie had already been determined to be the Understudy.
+
+After the 23rd, rehearsals for their roles would begin, and Eppie would spend at least three hours per day with Valorie and her friends, which naturally included William.
+
+Then, between the end of January and the start of February, Mio was due.
+
+On February 10th, she had Grammy night with Curon and Kellie, hosted at the Staples Centre, a local institution.
+
+She pulled up her [Potential] and studied it intently, reading through every line and every description with care.
+
+Satisfied, Eppie addressed herself with a slap on both cheeks.
+
+“Happy New Year, Euphemia Fontaine”, she said to the ceiling. “Rejoice. For your revenge… has only just begun.”

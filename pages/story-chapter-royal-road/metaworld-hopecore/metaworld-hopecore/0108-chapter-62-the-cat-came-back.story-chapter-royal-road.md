@@ -1,0 +1,231 @@
+---
+id: 157b05f6-0107-5bc2-a3fa-2490c87ca358
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 62 - The Cat Came Back"
+slug: 0108-chapter-62-the-cat-came-back
+partOf: metaworld-hopecore
+position: 108
+ownLength: 2602
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3540933/chapter-62-the-cat-came-back"
+royalRoadId: "3540933"
+---
+
+"I am in so far in blood that sin will pluck on sin."
+
+William ShakespeareRichard III, Act IV
+
+LAPA.English Honours.
+
+Two names were already on the board when Eppie arrived for her second session with Dr Kirby.
+
+ABIGAIL and TITUBA
+
+She waited for the students to sit, then wrote down another pair of names.
+
+ELIZABETH and ABIGAIL
+
+“Before we begin, thank you, Mr Yoon, Miss Levitt, and Mr Cranshaw, for your submissions. As you can see on the board, the topic for your next report is a young woman, an uncommonly pretty teenager who speaks her mind against two others who are denied theirs. Let us begin with the first.”
+
+She turned to Atkinson. “Who is Tituba?”
+
+The boy’s hand shot up. “She’s a slave. She’s from the Caribbean. She practices something the play doesn’t fully explore, but it's likely Obeah, which is West African spiritualism. The village already knows that she is the devil’s child because of racism… that’s all I got.”
+
+“Obeah,” Kirby was pleasantly surprised. “Most students would have said Voodoo, which is Haitian and a century away. Well done, Mr Atkinson.” Dr Kirby clapped. It was 8:10 AM, and no one else clapped. Eppie shared the class’s cringe.
+
+Dr Kirby cleared her throat. “The DEEP irony is that Tituba’s magic, be it sacrificial or spiritual or merely herbology, isn’t even her own. The Puritans made it up. Salem has already decided it is diabolical before Abigail points the finger. When Abigail points at her, the community does not need to be persuaded. They need only to be given a target. This is what makes Abigail so dangerous.”
+
+Their English professor made a face. “Salem is not fiction. Much of what this play is about is recorded history in the trials. The Salem Trials of 1692 remain the most documented in colonial history. Nineteen people were hanged, and Giles Corey was pressed to death. All because a terrified little girl pointed a finger.”
+
+“But back to Tituba.”
+
+Dr Kirby pointed her finger at the girl most likely to give up the gossip.
+
+This time, the class laughed. Oh, so I am the class Tituba? Eppie puffed up her cheeks indignantly.
+
+“Why does Abigail use Tituba?”
+
+“Because Abigail is tapping into a meta-narrative,” Eppie gave the laughing kids a sharp, retaliatory look. You think I am Tituba? I give you homework! “It’s effortless. She deploys the prejudice like a weapon. Everyone knows that Tituba is capable of witchcraft. She is the most helpless, vulnerable person in all of Salem, more so than Abigail. So Abigail is just punching down.”
+
+“And Tituba does what?”
+
+“She instantly confesses. She says she’s sorry for calling upon the devil. To save her life.”
+
+“She tells a lie.”
+
+“A lie that sets the village on fire,” Eppie replied with an intellectual air. “The meta-narrative of the other, the fear of the unknown, what Miller calls ‘children in the dark woods’, comes out all at once. The moment Tituba confesses and names others, she’s no longer the victim, but the breaking wheel of an inhuman justice system. Both girls have to fuse themselves into this system because it’s built to persecute unattached young women. Not protect them. The cruelty is systematic and structural. Their confession is natural and expected. The irony of theocratic justice built on lies is what allows Salem to sleep in ignorance.”
+
+[Script Analysis] fired like a V8 in Eppie's mind. She shot the rest of her class her most beaming smile. Thanks for coming to my TED Talk.
+
+“Write that down.”
+
+“Thanks, Eppie…," someone mumbled under their breath. Min-jun, who hated homework, bunched his fists tighter.
+
+Dr Kirby stared at her suspiciously. “And thank you for the civics lesson, Miss Fontaine. Shall we clap?”
+
+The class clapped. Cameron whistled. Eppie felt herself turning bright red.
+
+“Conversely, Elizabeth Proctor,” Dr Kirby continued, smiling to herself. “She is not like Tituba. She is a mother of two, respected, pious, trusted, and an obstacle between Abigail and Proctor.”
+
+Kirby tapped the name on the board. “Not many people realise that Elizabeth is the lynchpin, as are other supporting characters like Rebecca Nurse.”
+
+“These are the characters who are constitutionally good. And that goodness is precisely what makes the accusation devastating. Accusing the good woman demonstrates that no one is safe. It escalates the hysteria from the margins to the town hall. If good people can be accused and hanged, then those who are mad for the land of their neighbours had just found their instrument…”
+
+Dr Kirby stopped by Eppie’s desk again.
+
+Hello? Eppie looked up, still recovering from Dr Kirby’s academic bullying.
+
+“Abigail has never told a single line of truth in the play, yet she survives, then thrives.”
+
+“But Elizabeth… she told the truth her entire life, then she lied once, to protect Proctor, and the world burned.”
+
+Why are you looking at me? Eppie projected her thoughts at her English professor. She was seriously starting to wonder if the [System] was puppeting Dr Kirby like one of those Jim Henderson characters.
+
+“And that—” Dr Kirby said with solemnity. “Is what we call the Common Man’s Tragedy.”
+
+Her [Script Analysis] trembled at the legacy of her alter-world Arthur Miller. Tragedy doesn’t need noble characters, it told her. Ordinary people are far more cruel when orchestrating misery beyond comprehension, because there are no kingdoms to be gained, no laughing Gods to be satisfied. Ofttimes, the only motivation needed was the settlement of illusory grievances.
+
+LAPA. The CSULA cafeteria.
+
+Valorie Sanders did not mind being gawked at.When she was a girl, the same attention had been levelled at her mother, a model who had won her share of pageants, and who had been the belle of the ball and love of her father’s life since high school. She had been the Homecoming Queen, and though Francis wasn’t the King, he did win in the end.
+
+After her mother died, Valorie began to notice that the men around her father looked at her differently. Their gaze felt… hot, somehow, against her skin, or what little of it was exposed in the funeral dress Marcus Teel had picked out for her. It was as though they were all waiting for something.
+
+In her adolescence, she understood. In her late teens, she welcomed it. In her chosen profession, objectification was inevitable.No one had pressured Valorie into becoming an actress. In fact, her father had expressed his doubts despite lacking the time to articulate his views.
+
+Even now, in the cafeteria, the college students walking by would glance her way. Some of them, the more confident ones, would smile at her.
+
+Her one regret was that her father’s gaze had also changed. The more she resembled her mother, the more formal he became. Was it because of the familiarity? The lingering grief? But she had his green eyes. Her mother’s eyes were brown.
+
+Valorie sat with Chloe and two other Seniors, whose names came and went. She ate her egg sandwich. They were talking about their jet-setting holidays.
+
+Valorie had herself experienced a holiday like no other. New York City. Morris Grein. Euphemia Fontaine. Juliana Vaughan. A large flower pot. The kiss. Even now, her face grew hot at the thought of that stupid, irrational, instinctual act. And to do it in front of Juliana Vaughan…
+
+She was glad, at least, that Sir Woodhouse had been pleased. Her patron was happy that she had backed down from her stubbornness and would pursue the arts without shortcuts. He told her that with her connections, looks, and talent, it really was a matter of patience. The foundation of theatre, music, and TV roles was slower, but at least it wouldn’t send her father into a tailspin or taint her career with a mark of sin.
+
+She had then spent the last week away from William. She had instead chosen to follow Francis Sanders around. Her father had seemed annoyed by this at first, but his attitude grew mellow when all she did was demurely follow and receive praise from his PR team. She was also on TV about a dozen times, which made her realise just how much exposure she was receiving simply by wearing her mother’s Chanel. In the end, Francis Sanders begrudgingly gave her the praise she sought with a smile and a fatherly sigh. He even hugged her in public. Normally, they just did the mid-air cheek-kiss.
+
+From where she sat, she could see Euphemia and her friends near the east window. They always sat there, so they were easy to find. The Korean boy was doing something silly. Now and then, people would fall about laughing, spilling food or drinks.
+
+Why don’t I have a table like that? Valorie looked at her friends, who gazed upon her with awe and what she knew to be envy. She wondered if they would be envious of her encounter with Grein.
+
+Her phone buzzed. William.
+
+She texted back something nice. She had been doing that for two weeks. At first, it had felt like an effort she was making daily. Now it felt like the default.
+
+Eppie and Mio. Eppie’s story had taken the ignorance from her heart and stomped on it with four-inch heels.
+
+Without William, her world seemed without colour. It was a strange thing. She had expected to feel lonely, or sad, or needy. Instead, she felt… ordinary. Not the kind of feeling that made her heart ache and her belly tighten, but… unencumbered.
+
+Someone came into their circle and sat. “Miss Sanders…” The other girls said sup.
+
+Simone Goode. Her friend.
+
+She wore the clothes Valorie had passed on. Good clothes for dance practice. Comfortable. They were of similar stature, despite Valorie being a year older.
+
+“Euphemia Fontaine,” she said suddenly.
+
+Simone Goode froze like a deer in the headlights.
+
+“She gave you a laptop.”
+
+To Valorie’s amazement, Simone broke out in a visible cold sweat. “It was for my sister…”
+
+“Is it?” Valorie reached down into her bag and pulled something from the heavy duffel she usually had Simone carry. “Here.”
+
+Chloe and the girls stared uncomprehendingly at the ivory-shell MacBook, still in its plastic wrap.
+
+Valorie allowed a snort of air to escape her nostrils. She still had a few of them stacked up at home. Gifts, mostly. Just one of the many things her father’s office received, and he occasionally brought home.
+
+“What’s this?” Simone asked very slowly and very carefully.
+
+“For you,” Valorie said without emotion. “I have no idea what you’re using, but you’re embarrassing us in the library.”
+
+The other girls laughed awkwardly.
+
+Simone raised both hands in protest.
+
+“Take it.” Valorie’s tone was imperial, commanding, theatrical. She was Lavinia. She was the General’s precious daughter.
+
+Simone held the laptop like a rare relic. “Thank you. Val.”
+
+“Mm-hmm.” Valorie stood. Valorie left. Valorie was about a hundred meters away when she realised she had forgotten her duffel.
+
+Alas, no matter. Her gofer would bring it to Arts Block, as she always has.
+
+Right now, she needed to go to the restroom.
+
+Her face was on fire, her hands were trembling, and the college kids were all staring.
+
+The Cafeteria. Eppie ate lunch.
+
+THE FUCK? Eppie stared at her free-range egg sandwich.
+
+Free-range eggs gave [Causality]?How eggsellent!
+
+She then took a long, contemplative bite.
+
+Hmm… She masticated with deliberation and care. I wonder if there's [Karma] in gluten-free.
+
+Arts Block.
+
+Dr Costello had heard from Dr Cooper that the students had lost their theatre bodies after two weeks, and so spent forty minutes on Suzuki Walks.
+
+For Eppie, this was one of the most cult-like, insane theatre-kid exercises available to the cohort. The theory, developed by Tadashi Suzuki, was based on the belief that Western Theatre had over-emphasised the face and the upper body. Ergo, Suzuki drew from Noh, Kabuki and Greek theatre a method to re-train the lower body, focusing on the feet as an actor’s core presence.
+
+From Costello’s iPhone, a synth-koto track played, emphasising the exercise’s cultural crossover from Toyama to California.
+
+Heel—ball, heel—ball. Each step made tremors as the kids stomped from left to right, then right to left, like drunk elephants, their upper bodies making an A-line, while their lower bodies sounded like a troop of amateur Irish dancers.
+
+She wasn’t exactly sure if she was doing it correctly, but her [Clockwork Pulse] followed the beat of the “Slow Ten”.
+
+After the stomping, they practised “Running to Stillness”.
+
+Together with the others, Eppie ran.
+
+"Stop!"
+
+At Costello's clap. The students froze with variable success. Someone's arm was still mid-swing. Someone lost balance. Someone fell over someone else. There was much laughter to be had. Through it all, Eppie felt her [Physicality] come alive after weeks of disuse.
+
+"The stomp is not aggression," Costello said. He was looking at Marcus. "It's contact. You are arriving on it." He walked through the frozen tableau, stopping in front of Eppie. Looked at her perfectly balanced awkwardness, then nodded with approval.
+
+“Now, the circle.”
+
+The students moved into a circle and were told to maintain a steady pace. The goal was chorus training, with the group moving together on cue. People ran into each other, stepped on one another’s feet, and tripped with every other change in pace.
+
+Seyrova had recommended Suzuki because the iambic meter so prevalent in the Bard’s resounding speeches perfectly matched Suzuki’s Kabuki movements to a tee.
+
+After the kids were covered in sweat, Costello made them sit. After the body, it was time to exercise the mind's plasticity.
+
+“Titus Andronicus,” he held the script with one hand. “Will also be produced by Mrs Tyker. As you know, her speciality is bringing something fresh, contemporary, and socially salient to the stage. I want you to imagine that YOU are Mrs Tyker. How would you reimagine Titus for a new audience?”
+
+Cameron Atkinson raised his hand. “US General. American contemporary. Vietnam War?”
+
+“Why would this work?” Costello asked as the students cooled their bodies.
+
+“A culture based on masculinity, honour and legacy. Fathers and sons?”
+
+“Not bad, but the finer points of the play would struggle, unless we imagine a fully Fascist America.”
+
+“Oil Barons!” Chelsea put up her hand. “Like, during the 1920s?”
+
+“Potential.” Costello nodded. "Who else?"
+
+Min-jun, the quietest kid when it came to answers, suddenly raised his hand and said: "Chaebol."
+
+Costello considered the boy’s suggestion. “Go on.”
+
+“Korean conglomerate family. Third-generation dynasty. Grandfather, the founder. The father inherited it, and the sons are fighting over what's left. The whole thing runs on arranged relationships and strategic marriages and underhanded violence." He paused. "Lavinia is the daughter who gets traded in a deal. Tamora is a foreign acquisition from a hostile company. Absorbed into the biggest Chaebol stockholder. And Titus is the patriarch who followed honour, and can't understand why his patron cannot be satisfied even after taking the lives of his sons and the honour of his daughter.”
+
+The room was quiet.
+
+“This is very good, Min-jun,” Costello clapped. “How did this idea come to you?”
+
+“From K-Drama, Sir!” Min-jun confessed. The class burst into laughter.
+
+“It’s an excellent suggestion nonetheless. Now for homework, I want a written proposal. How does your chosen variant carry the play's social commentary into the present? What is lost in translation, and what is gained?”
+
+Eppie caught the edge of Costello’s expression as he turned back to the group. Her teacher had been looking at her with curiosity, wondering what she had kept penned for a rainy day.
+
+Unable to say Luciana Mio… Eppie wondered if something from Feudal Japan could work, something like Kurosawa’s Ran.

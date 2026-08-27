@@ -1,0 +1,237 @@
+---
+id: 385774b1-b5c5-5ace-88e1-8cc9a897ac25
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 687 - Revered City Lord"
+slug: 0195-chapter-687-revered-city-lord
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 195
+ownLength: 3046
+unit: words
+ownProgress: 3046
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3191600/chapter-687-revered-city-lord"
+royalRoadId: "3191600"
+markedReadAt: "2026-06-29T19:41:18.593Z"
+---
+
+Tala strode across the incredibly expanded grounds of the Revered City Lord’s home, pulling some enjoyment from their grandeur, but what she felt was mostly surprise at how little they had changed since she was last there.
+
+The Revered City Lord was an old being, so Tala supposed that he’d be a bit set in his ways and slow to change.
+
+That lack of change was likely one reason he was still Revered.
+
+She did find it funny that if they succeeded in their destruction of the Black Legion, and the Cycling Cities entered into truly peaceful relations with the arcane cities, there might be an explosion of prosperity. In that case, it might not actually be that many more centuries before another Revered—all but Hallowed—truly clashed against Platoiri, allowing for both beings to potentially give mutual acknowledgment.
+
+Would that be enough to let the man finally take another step? Would that be a good thing?
+
+Tala… honestly didn’t know. In her position, with her current power, she might be able to slay the man. If she brought Terry, and utilized the Talons? She’d give herself more than even odds, even in the center of the man’s power.
+
+But, if she could bring allies, then only a fool would assume that he couldn’t, or wouldn’t, as well.
+
+There would undoubtedly be split loyalties, but Tala did not delude herself into thinking that the other Houses would casually allow the House of Blood to usurp the Revered City Lord, no matter how willing they were to follow their lead in the war with the Black Legion.
+
+After all, bad but consistent leadership and laws were usually better than change, at least for the short term.
+
+Long term? Of course change could be for the better, but Tala’s authority as Eskau of War was almost entirely based upon the short term in the way arcanes regarded such things.
+
+She wasn’t letting that hold her back, of course. Her goals were long term, and she’d managed to make quite a few advancements.
+
+As a prime example, nearly two dozen Hold Wardens were nearing the final two tests, the last hurdles before they could come into active duty. Those being the bonding of dimensional creatures and becoming Bound.
+
+They would either succeed at those steps or fail and be made into vestiges.
+
+She grimaced at that, remembering the seventy-seven candidates who had already fallen to that fate.
+
+The fact that those vestiges were being used for the varied purposes each hold warden candidate had chosen before beginning their training was hardly comfort to Tala.
+
+This path was more humane than the one these people had been destined for, but she still hated it.
+
+Her only consolation was the twenty-three hopefuls. Mages raised with a knowledge of the watershed, trained in strict lines of power and thought, the entirety of their education driving toward these largest of hurdles.
+
+Tala blessed her stars that she wasn’t directly involved, even if she would be when they tried to attract devourlings for the prospects. Those weren’t the only option for dimensional creatures, but they were tried and true, and that meant it was worth trying here.
+
+Still, she’d avoided more than passing involvement up to this point. She doubted she could have borne making connections with the trainees then watching them fail one after another.
+
+Alat did her best to offer comfort. -This is a horrific first step, but a necessary one. We are turning a hostile ship from within.-
+
+Indeed. Tala had been… distraught to learn that, generally speaking, the attrition rate for gated becoming vestiges was unbelievably high, to the point that their perfect success on their… failures was already being remarked upon.
+
+Apparently, the vestiges choosing how their power would be used increased compatibility and removed some of the variables that had been plaguing vestige use for generations.
+
+Tala was a bit horrified that no one had ever bothered to ask the condemned how they wanted their soul to be used… but putting it that way made it pretty obvious why it hadn’t happened. Doing so would have humanized the victims, and made it harder for those involved to continue.
+
+At least that’s what Tala assumed.
+
+She was brought from her reverie by her arrival at the front doors of the manor proper.
+
+She was met by powerful servants who showed her the exact level of deference her own power and position required before she was led up to an all-too-familiar tower.
+
+She ascended alone, coming up into the Revered City Lord’s study, pausing to admire the result of the rising sun painting a spectacular wash of orange across one wall.
+
+She only hesitated momentarily, allowing the sole occupant to set aside his book and rise. “Eskau of War.”
+
+Tala turned as the Revered City Lord gave a shallow bow, dipping her head in return. “Revered City Lord.”
+
+He straightened, meeting her gaze for a moment before grunting. “There is no one else here. You may shorten that for ease. May I address you as Tala, or Eskau Tala might be preferred?”
+
+She gave a slight nod. “Either is acceptable.” She considered. The man no longer had a name, not really, and addressing him as ‘City Lord’ or ‘Platoiri’ risked acknowledging him and allowing him to advance. She hid a small smile as she decided to needle him to test how he would react. “What about Re-celo?”
+
+The man’s eye twitched before he began rubbing his temples. “You aren’t, by chance, a reincarnation of my sister, are you? The stars sometimes seem capable of such ill-favor, as much as I’d like to see her again.”
+
+Tala frowned, confused. “Sister?”
+
+“Oh? Eskau Pallaun has not spoken, even to you?” He gave a slow nod. “I find that pleases me… Regardless, I will not leave such a thing unsaid.” He gave a tight smile. “My sister was married to Eskau Pallaun, and she died.”
+
+“I’m sorry to hear that.” Even as she gave the expected answer, she blinked at the blunt delivery. Is this the explanation for the reality ties that I saw between Eskau Pallaun and the Revered City Lord?
+
+“It has been… long, but both of us still mourn her passing in our own ways. She and I were twins, and our power was… intertwined.”
+
+Tala didn’t really know how to take that, nor how to respond. As such, she simply waited, allowing the moment to drag slightly toward an awkward silence.
+
+The man regarded her for a long moment before shaking his head and sighing, ending the quiet before it went too long. “I must apologize, I should not have mentioned her.” He then gestured to a table prepared to one side. “Please, come and eat. Have you broken your fast, yet?”
+
+She hesitated, considering lying but saw no reason to. “I have, but not thoroughly.”
+
+That got a chuckle. “Then, I am happy to call for more if this is insufficient.”
+
+Tala gave a half-smile in response. ‘This’ was a table laden with enough food to feed half a hold. “I will let you know.”
+
+The two moved to a two person table which was situated within easy reach of the massively laden buffet.
+
+The large surface had an interesting contraption upon it that slowly moved the various selections in a circuit, changing what they had easiest access to and allowing them to take as they wanted without having to rise.
+
+Luxury.
+
+-Over the top.-
+
+True, but still nice.
+
+He and she ate in silence that… somehow didn’t become awkward? It likely helped that the view out the near window was both expansive and stunning, looking toward the near mountains as they were bathed in growing light.
+
+Finally, Tala set aside a half-finished selection of berries and pork belly and looked toward the Revered City Lord.
+
+He noticed the motion and met her gaze.
+
+“Why did you call me here?”
+
+One side of his lips lifted. “Partially to see if you would come. We have not crossed paths since your elevation, and I was curious how deep your avoidance would extend.”
+
+She huffed a laugh. “It would be rather… contentious if I did not come.”
+
+The man arched an eyebrow. “Really? Would it have been?”
+
+“If you had made an issue of it…” Tala hesitated. She wasn’t actually sure what would have come of it.
+
+He seemed to have no issue informing her his thoughts on the matter. “I would have been openly announcing that I could be defied within my city.”
+
+That surprised her. “So, you would have simply borne the insult?”
+
+He waggled his head back and forth. “I think it would have depended on the manner of your refusal.”
+
+Her gaze narrowed. “This is rather forthright of you. Aren’t you concerned that I will take this admission and act differently going forward?”
+
+“You may, but I have decided it is a risk worth taking. It has ever been obvious that you don’t like me, and I cannot say you have no cause.” He took a sip of his tea. “Have my dasgannach and collars been of use to you?”
+
+Tala’s eye twitched, and she felt like he’d sprung the topic on her on purpose. “So, you noticed?”
+
+He blinked a few times, obviously a bit befuddled. “Tala. I brought a large number of precious magical artifacts to greet you upon your arrival in Platoiri. After the meeting, many of them were gone… Do you really think me such a fool that I wouldn’t count?”
+
+“Ahh… that’s… fair… I suppose I didn’t think about it that way.”
+
+“Seemingly not.” He gave her an incredulously searching look.
+
+“You never made mention or issue of it…”
+
+“So, you assumed I didn’t notice? Really?”
+
+Tala cleared her throat, took a few berries, and ate them to gain a moment.
+
+“But I have not fully answered your question, so I suppose I should do so.” He arched an eyebrow, clearly offering her a way out of the current topic. She gratefully nodded, and he continued. “Indeed. As I said, our earliest interactions were as City Lord to local, new Eskau. I have long honed how I approach such relationships, but that approach is not useful when dealing with those who are closer to being a peer.”
+
+Tala lifted an eyebrow, feeling a bit recovered and willing to push back. “Closer?”
+
+“Indeed. Your authority is relatively fleeting, while mine will endure and grow on and on.” He was watching her very closely, and Tala realized that he was watching for a reaction to what he’d said.
+
+“You are actually discussing the reality of authority, then? Not simply the concept in the abstract?”
+
+He barked a laugh, grabbing up his tea cup and lifting it in salute. “I knew it. Your defense within the hold upon your arrival screamed of authority, and I knew you had to have at least a bit of understanding behind such an action. No one has instinctive defenses that are that good.”
+
+“Ahh… well, yes.” Tala took another sip of her own drink.
+
+“Good, good. Then this discussion can be far more productive.”
+
+Tala leaned back, waiting. Where he was obviously excited, she felt more wary than before.
+
+“You are gathering a large wealth of authority, but it will disappear as soon as you accomplish your task. This is one of the reasons that such ‘goal oriented’ positions are relatively rare, despite their utility.” He chuckled. “If governance is good at anything, it is finding reasons for more governance. Authority is the same.”
+
+She arched an eyebrow again.
+
+He waved that off. “I am not accusing you of anything, Tala. You will execute your directive, and the Black Legion will fall, or you will fail and we will all be enslaved or slain. The nature of your authority bends that way as well. That is not usually a hallmark of ‘short term’ authority, and I at once commiserate with your imminent loss and applaud the skill with which the position and appointment were crafted.”
+
+Tala gave a slow nod at that. “The House of Blood rarely has an Eskau of War, and the few who have held the post are always allowed to retire after their war is executed. The position is not necessary for day to day functioning, and my own appointment was very obviously centered around and based upon this singular task.”
+
+“Indeed.”
+
+“I suppose I’ll have to change Houses after the war, then.”
+
+He huffed a laugh. “The House of Iron has always been… different. A few of my peers have tried to keep them out or drive them away from their city in millennia past, and it always ended badly. I find ignoring them works best, overall. As such, I have nothing to add to your previous comment.” His smile was… patronizing? No, there wasn’t any of the disdain usually evident in such a sentiment. Maybe consoling? She honestly couldn’t tell.
+
+Tala felt… odd. The Revered City Lord had always been cordial—quick to punish a slight but otherwise reasonable enough—now though? It felt like he was trying to become her friend, or something like that. “What are you seeking from me?”
+
+He nodded along, not seeming to mind the sudden topic change. “Quite right, your question. What I want from you is to simply point one thing out and to make an offer.”
+
+Tala took the moment to snag a small fried dough ball as the tray of them moved past.
+
+“You are already using Platoiri as the hub for your gathering war-effort. This is increasing travel and trade in general, while also adding in the occasional trading group from the Wandering Wilds. In years to come, it is possible that some will even come directly from your Cycling Cities.” He raised his eyebrows implicitly before continuing. “All of this benefits my city and therefore benefits me. The offer I have for you is this. Use my city more fully. Lean on industry here, hire the local experts, and invest here. I have no fear of you moving to another gateless city as your central point, but you could still get so much more if you truly committed.”
+
+“Which would add to the utility of the city to the war effort, thereby increasing the measure of your authority in the short term and the strength of it in the long run. Correct?”
+
+He gave an unabashed nod. “Of course. I know you will not stay here forever. Rumors have you leaving back to the Cycling Cities within the next few years, at least for a time. Build up the war effort so it can continue to thrive while you are away. That is all I ask. I will throw my support behind the efforts, and that will add to your own authority significantly.”
+
+She chuckled. “So I get a large boost for a short time, and you get added depth to your authority that will last?”
+
+“Everyone wins, and the war effort has a better chance for success. After all, we will only benefit from each other, just as we have up until now, despite our differing perspectives."
+
+She gave him a flat look. “You took my arm.”
+
+He shrugged. “You got better. It even grew back almost instantly, if I remember correctly.”
+
+She frowned, as he was right on that count. “Still, you took my arm. Why should I help you at all?”
+
+He shrugged, lifting one arm and holding it out to the side. “You can take mine if that would make you feel better.”
+
+She grimaced. She had to admit to herself that she’d wanted to rip his arm off, but he hadn’t offered her the smallest reason in the conversation. It didn’t help that she could feel his authority weaken around the offered arm. His words had actually been genuine. “Not if you offer it… that just… that just ruins everything.”
+
+He chuckled. “Would it help if I insult you? You could take the arm in retribution, and then we could move on?”
+
+Her grimace deepened. “Now you’re just making it weird…”
+
+His expression turned inquisitive. “What did you expect to happen?” He seemed genuinely curious. “You’d mention your arm, and I’d say you deserved it? Then you could righteously take mine?”
+
+“Well… that just makes me sound like a child, but sure. That had come to mind as a possibility.”
+
+He shrugged. “Well, you did deserve it.”
+
+Her gaze flattened once more, heat building within her mind. Her one word response was more a challenge than a question. “What.”
+
+The man was entirely undeterred. “You were being disrespectful to the City Lord, me. That cannot and could not be allowed.” He smiled. “A light reprimand was required, and so I delivered.”
+
+She opened her mouth to argue, then her gaze narrowed. “You’re just play-acting.”
+
+“Whether I am or not doesn’t matter, because you did act disrespectfully, and I reprimanded you. If you feel you need or want some sort of vengeance, I won’t stop you while you are here.” Some of his levity fell away. “But if you try such when there are witnesses? It will not be such a simple matter.”
+
+Tala grunted, then leaned back. “I will keep your words in mind.” When he opened his mouth to speak, she continued, forestalling him. “All your words. We will see what comes of my consideration.”
+
+The man nodded, standing. “Then, if there is nothing else?”
+
+Tala hesitated only a moment before standing as well. She glanced toward the food before willing it all into her sanctum. Ironhold was out of reach, but she’d kept her sanctum close given the uncertainty of the meeting.
+
+Now, the researchers housed therein would get a bit added to their breakfast.
+
+The Revered City Lord huffed a laugh. “Very well, take what you will. I can have the kitchens make more?”
+
+Tala shook her head at the offer.
+
+“Very well, then. Good day to you, Eskau of War. May the blood of our enemies flow and dry, leaving a better world in your wake.”
+
+Tala gave a shallow bow in return before departing down the stairs, thoroughly uncertain what to make of the meeting and more excited than ever to head back to the Cycling Cities as soon as she could manage it.

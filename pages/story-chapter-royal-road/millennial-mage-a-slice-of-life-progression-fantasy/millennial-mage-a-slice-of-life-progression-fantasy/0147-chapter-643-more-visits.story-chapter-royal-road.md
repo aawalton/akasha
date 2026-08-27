@@ -1,0 +1,235 @@
+---
+id: e049ff6e-c640-522a-aec7-cbe925097b7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 643 - More Visits"
+slug: 0147-chapter-643-more-visits
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 147
+ownLength: 2858
+unit: words
+ownProgress: 2858
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2814840/chapter-643-more-visits"
+royalRoadId: "2814840"
+markedReadAt: "2026-06-29T19:39:46.434Z"
+---
+
+Tala briefly looked around at the play cottage, marveling at just how much work had been put into the children’s space. There were no kids about at the moment, the girls having just left, but if any did arrive, she and Lupe would leave. There was no reason for them to dominate a play space when they could go elsewhere.
+
+For the moment though, it was a comfortable place to chat, and Lupe had some interesting knowledge to impart, it seemed.
+
+Lupe sat stiffly, as made sense for a being of glass. Still, her gaze met Tala’s with unwavering assurance. “You are aware that dasgannach are generally considered curses, that we are often seen as plagues, or even beings that are cursed at our base nature. There are theories that our origin is as mundane creatures or beings that are stripped down to our base desires.” She shrugged, sending white cracks rippling through her form before they resealed. “I’m not certain one way or another. Regardless, we are each defined by our need for more, and that need is focused down to a single type of thing.”
+
+Tala nodded. “That is my understanding.”
+
+“So, do you think things like iron, copper, and the like are rare?”
+
+She frowned at the apparent change of topic. “No? Why do you ask?”
+
+“So, couldn’t a dasgannach gain all the material it could glut itself on by simply sliding through the ground, or even delving deeper than any human has ever gone?”
+
+“I… I suppose? That does make sense. It wouldn’t be as concentrated, most likely, but it would be more prolific overall.”
+
+“Then, why do we surface so often? Why are those that surface so small?”
+
+Tala shrugged. “The easiest explanation would be that the larger ones are lower down, and only new or weak ones come upward, forced to hunt for scraps by those below.”
+
+“Fair. That could be the case.”
+
+“It could also be that they can only reach a certain size before they die. They could be a means of gathering trace materials and concentrating them for later harvest.”
+
+Lupe smiled. “Agreed, though, that wouldn’t explain the greater dasgannach, like myself.”
+
+“You…” Tala’s eyes widened. “You are the example, the true goal?”
+
+Her cheeks whitened momentarily as she smiled, the expression not touching her eyes. “Indeed. I was uplifted when I had achieved my aim.”
+
+“But not freed?”
+
+She shrugged again. “It was something in my nature, not something that was done to me, not really.” She closed her eyes and mimicked a sigh. “I suddenly awoke, free of my compulsions, and… without purpose. As such, I fell back on the only thing I felt like I’d ever known, gathering glass unto myself. I tipped my own nature back into one of gluttony and need. I can’t say that, before I awoke, I wanted to awaken. I can’t even claim that I wish to stay awake now. It would be so much easier to just let myself fade, but I am what I am.”
+
+“So, dasgannach unknowingly strive for a prize, and that prize is one that at least you regret achieving?”
+
+“Regret is a strong word.” She gave another sad smile, her features cracking and healing into the new configuration. “It is easier to say that I have gotten less from it than I might have imagined, especially after uncounted years in a cell. Now? Now, the balance might be shifting.”
+
+“Well, I’m glad for that… Why are you telling me this?”
+
+Lupe smiled more genuinely. “You achieved where I failed. You have purpose, and the magics of a dasgannach, broken from the shackles to a single thing. You aren’t even bound to only take in that which you personally touch. If you so wished, you could consume all that is around you, yet you don’t.”
+
+Tala blinked several times. “I… I did not even consider that.”
+
+“Exactly!” Lupe moved, pointing at Tala in emphasis. “You have manifested the absolute pinnacle of consciousness. You do not take all that is within your power to take. You do not gorge, you do not revel in your base nature, you rise above that which you can do, what you can have, and seek that which you deem of more value, even if it is a more difficult road.”
+
+Tala… did not know how to feel about that. “I’m not sure I agree?”
+
+Lupe nodded seriously. “That is understandable. A being such as you is faced with the nuance of choice to such an extent that the truly important ones often go unnoticed. May I give some examples that might put this into context?”
+
+Tala shrugged, then nodded. “Sure.”
+
+“What would you think of a man who is too weak to harm a child he is playing with?”
+
+She frowned. “That he is weak? It would be sort of sad, honestly. Children are rather damageable, and to be unable to harm one means he is weak indeed.” She hesitated, hearing what she’d just said. “That sounds really terrible when worded that way.”
+
+Lupe chuckled. “Indeed, but you understand. Now, what of a man who is strong enough to easily harm the child, yet no matter how rough or fiercely they play, he always keeps from doing so?”
+
+“He is gentle.” Tala smiled, thinking of Rane. “He is doing good.”
+
+“But the result is the same. Why is one good and the other sad?”
+
+“What one does because he is unable to elsewise, the other does by choice.”
+
+Lupe’s smile grew. “Precisely. One more example. What do you think of a woman who is unable to protect herself or those she cares for? One who is unable to do anything but hope others keep her safe?”
+
+“Again, weak. It’s sad that she cannot do anything to protect herself or others.”
+
+“Would you call her harmless?”
+
+“Yes. That’s a good word for it.”
+
+“And now, what of a woman such as you? One who could obliterate most who threatened her or hers, but instead chooses to find non-violent solutions where possible?”
+
+Tala felt a bit awkward, given she could be talking about herself. “Strong?”
+
+“True, but that could apply to one who is violent in every situation. What about peaceful? Or Peaceable?"
+
+Tala considered. “I could see that, or restrained?”
+
+“That works too. Is that laudable?”
+
+“Yes.”
+
+“But the harmless one is not?”
+
+Tala shook her head. This wasn’t a new concept to her, but she was still trying to work out how it applied to their current discussion. “No. What are you driving at?”
+
+“Most creatures are unable to seize much of what they desire. Dasgannach, at our base nature, can only seize that which we desire. We are closer to your species’ addicts than your average specimens."
+
+Tala winced at that, thinking of Alan.
+
+“In that same vein, from what I have observed, humanity does not see a man who does not get drunk as worth noting, unless he struggles with drunkenness. Then, his sobriety becomes something worthy of respect.”
+
+“I think I see what you’re saying.” And she did. In truth, Tala did feel a constant desire to consume more and more, especially of iron, but that specificity had faded over the years as she’d realized more and more that her ability to consume was not so limited. She truly did want everything.
+
+But she didn’t take it without need, cause, or right.
+
+“So, you are saying that acting in this way is the height of consciousness.”
+
+Lupe smiled again. “I think I would go so far as to say it is the only act that proves that your consciousness is more than an illusion, thinly painted over mere instinctive reaction. To be clear, you cannot simply be one that always desires and never acquires. That would be a different sort of veneer. The important thing is the choice. That is what is so powerful.”
+
+Tala leaned back at those words, considering.
+
+“I was put to that test, and I failed. Even now, my lack of consumption is due to your reasonable restraints put upon my being. There is nothing which proves my consciousness to be more than simple veneer over animalistic drives.”
+
+After a long moment, Tala nodded. “I think I agree, at least in part.” She then frowned. “What is your point?”
+
+Lupe laughed again, the sound made musical by the sonic filter, removing the majority of harsh grinding and cracking. “You are dasgannach now. There is no separation within you. Your existence, your achievement, gives me hope that I might one day reach true cognizance."
+
+She bowed.
+
+“So, my point is: Thank you. Thank you not only for my greater freedom, my ability to interact with other sapients, but for the example of what I might one day achieve.”
+
+Tala smiled a bit self-consciously. “Then, you are most welcome. I am glad to be of service.”
+
+She asked after the dasgannach in other small ways, but nothing else in their conversation was of true import.
+
+Less than a quarter hour later, Tala was moving toward the fox-kin, having decided to walk rather than simply will herself there.
+
+She had returned herself to her normal size upon exiting the cottage, much to Lupe’s amusement, and from there they had parted ways.
+
+The park was incredibly lovely, and when she reached the end and stepped onto the main thoroughfare, she found it well ordered and strong beneath her feet.
+
+This particular one ran dead straight, aiming for the heart of Irondale where the gate out was currently wide open, letting out into Marliweather.
+
+Her destination was nearby, but it was still interesting to see the people all about.
+
+There were still few enough people that nowhere was crowded, but there were enough that many were in sight at all times, at least now that she’d left the decoratively twisting paths of one of the public gardens.
+
+The population of Ironhold was nearing twenty thousand these days, and they were honestly nowhere near capacity.
+
+She glanced the other way, seeing the thinning of the buildings out to where the road ended at cultivated ground.
+
+There was a ring of agriculture around the current borders of Irondale within Ironhold. Most were such that it would be easy to build overtop of them, if and when there was need, but some places had orchards being established.
+
+-We do have a few pending requests to move some orchards or even just a few trees…- Alat sent a contemplative air. -How about I handle those now?-
+
+Lyn has approved the moves?
+
+-Yes.-
+
+Then yes, thank you.
+
+-Happy to assist.-
+
+She turned away from the fields once more, feeling as Alat got to work, moving trees and all their root systems one at a time, swapping in the soil that would have been displaced so that the area left behind remained relatively undisturbed as well.
+
+It was a short enough walk to the fox-kin district, and as she entered it, a smile tugged at her lips.
+
+The arrangement was at once so like and yet utterly unlike the districts of doors she’d seen in arcane cities so long ago… that she’d be seeing again so soon. Each fox-kin had their own ten by ten plot, each centered on a doorframe of some kind.
+
+No, that’s not quite right.
+
+Some of the plots had circles in the ground at their centers, whether looking like a well or a simple circle of stone, or earth, or metal, they were as varied as the doorframes. One was even simply a ring of more prominent flowers among a small field of wild blooms.
+
+Unlike some other times that Tala had visited in person, however, there was quite the hustle and bustle about.
+
+There were now a few more than two hundred fox-kin of various stripes within Ironhold, their homes—both newly built and those that had been moved here—affixed and dangling into the void.
+
+At the moment, some twenty could be seen in the area, some chatting with each other, others interacting with humans that seemed to be there for purposes ranging from social calls to business dealings.
+
+It was a true pleasure to see the two races getting along so well. Tala suppressed the thought that it was only because the fox-kin were forbidden from taking advantage of the humans of Ironhold, but she did wonder sometimes.
+
+She knew that the fox-kin still ‘sharpened’ the humans they interacted with, pointing out the flaws in the ways they spoke, but nothing binding came from it. In one way, that made them somewhat abrasive, and so not every human liked interacting with the fox-kin. On the fox-kin side, they apparently found the restriction frustrating because ‘humans just don’t learn without consequence.’
+
+Regardless of the difficulties, Tala was happy for the results. The fox-kin had a safe haven, and her human citizens had an invaluable resource in the other race’s deep knowledge around most topics of magic and the world at large.
+
+A perfect example of that benefit was the business relationship between Artia and Lisa. The two had continued their acquisition of artifacts as Alefast had fully waned, building up a truly monumental supply, all things considered, and unlike what usually happened in such situations, the higher power density within Ironhold was actually helping those artifacts to continue to grow in power and utility, leading to a considerably lucrative resource.
+
+Tala actively prevented new artifacts from forming within Ironhold, though that was mostly due to how most artifacts came into being. Mainly, that was from magical creatures either inhabiting items or ‘brushing’ against them sufficiently to impart a brief echo of power that took on a life of its own with enough ambient magic. Since Tala prevented magical creatures from manifesting within Ironhold, that also prevented the creation of essentially all artifacts.
+
+But that was neither here nor there. She had come to speak with Lisa, and the fox-kin seemed to have intuited her arrival as his doorway suddenly held a door that swung inward, allowing Lisa, himself, to step out. He pulled the door closed, and a moment later, the door vanished, leaving an empty frame.
+
+He turned to her and bowed with a vulpine smile. “Eskau Tala, to what do I owe the pleasure?”
+
+Tala gave an appropriate bow in return. “Lisa, it is a pleasure indeed.”
+
+He held his smile, waiting.
+
+“As to the reason for my visit? I simply wished to touch base with you. Has anything shifted of late, requiring my attention? Is there anything that you wish to discuss?” She patently did not mention his aura, which was conspicuously and utterly absent.
+
+“If there were an issue, I know who to contact.” His grin spread. “Though, I should offer my congratulations. Your advancement came much earlier than I had begun to suspect it would occur, and the elevation of the magic throughout this entire space has been…” He took in a deep breath and let it out with a satisfied sigh. “...invigorating.”
+
+Tala arched an eyebrow. “Oh? You aren’t accessing any more power than before. Is there that much of a difference?”
+
+He huffed. “Does a human need to own all she surveys in order to enjoy the view of a beautiful vista?”
+
+“Well… no?”
+
+“Then why must I have access to the greater magic density in order to find it enjoyable?"
+
+Tala considered for a moment before shrugging. “That’s fair, I suppose.”
+
+Lisa nodded once, clearly considering the topic settled.
+
+“So, you and yours are doing well? You don’t need anything?”
+
+Nearby, a fox-kin turned, raising a paw and one finger, his mouth opening as if he were going to say something, but Lisa shot him an unamused look, and the grey-furred creature wilted, closing his mouth and huffing off.
+
+Tala arched an eyebrow again, not needing to turn to have perceived the whole interaction. “What was that about?”
+
+“Him? That is Shade. He has petitioned to have shorter days within Ironhold and longer nights.” Lisa rolled his eyes. “He’s only found three who agree with that. Even the hairless humans prefer longer days, as it seems this sun does not cause burns to their exposed skin.” He shrugged. “That has never been a concern of my kind, and most of us appreciate the warmth.”
+
+“That is… good to know, I suppose.”
+
+Lisa smiled. “Now, if there is nothing else? I was heading to the Little Shop of Wonders. Artia and I need to finish our inventory before we are ready to sell to the arcanes.” His smile turned predatory. “There are so many ways to earn a profit in those lands.”
+
+Tala hesitated a moment, noticing then just how exuberant the various fox-kin were around her.
+
+She hadn't considered it, but fox-kin were often disliked within the arcane cities, making it hard for them to enter unmolested, and she was bringing hundreds along with her, and effectively guaranteeing their safety…
+
+Is this a mistake?
+
+-I suppose we’ll see, won’t we.-
+
+Tala closed her eyes and sighed. “That’s all, Lisa, but I’ll walk with you. I haven’t gotten to see the shop in person in quite some time.”
+
+“Very well, lead the way.”

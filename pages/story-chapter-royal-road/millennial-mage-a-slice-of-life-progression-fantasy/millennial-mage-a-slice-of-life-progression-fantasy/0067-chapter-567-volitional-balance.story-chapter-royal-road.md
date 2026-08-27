@@ -1,0 +1,237 @@
+---
+id: 565d3e59-c2d9-588d-a65a-cd7bd2065681
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 567 - Volitional Balance"
+slug: 0067-chapter-567-volitional-balance
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 67
+ownLength: 3084
+unit: words
+ownProgress: 3084
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2306556/chapter-567-volitional-balance"
+royalRoadId: "2306556"
+markedReadAt: "2026-06-29T19:37:26.318Z"
+---
+
+Tala and Master Saliocas sat in their bubble of magically imposed privacy.
+
+The older man—though still mid-thirties by appearance—nodded once more. “So, you came into direct conflict with a Sovereign Boon. I’ve reviewed the memories that you made available for acquisition, and I feel like we both have something that the other could learn from. For my side, I would like you to talk with me about what you’ve learned about reality nodes. I specifically want your thoughts and conclusions, not just your memories. For your side, I believe that I can share some insights into higher-level magics and interactions between the three fundamental aspects of existence. From what I can tell, what I will share should be useful.”
+
+Tala frowned, taking another pull of coffee. “Master Jevin spoke highly of you, and that recommendation does carry weight, but I still would like to know who I’m sharing this with.”
+
+A smile was his first response. “Understandable. What do you want to know?”
+
+“In this area? What do you do? Who are you? Why do you want to know this?”
+
+He chuckled. “So, just simple questions, it seems.”
+
+Tala smiled at that and shrugged. “It seems fair to ask. If you don’t want to answer…?”
+
+He waved that off. “Of course, of course. I actually appreciate the open-ended nature of the questions. Generally speaking, I help organize the logistics of the cycling cities. I assist in the coordination and planning out of caravan routes, and ensure things and people are where they need to be, when they need to be there. During war—such as the upcoming Leshkin War—I join the Librarians in far more minute coordination of the recruiting, training, and tactical deployment of combatants, as well as their use of limited resources. To me, the right information, at the right time, is power unlike any other.” He paused, seeming to contemplate. “I was born in spring, but there is no record of the exact day. My first Archon Star was an impossibility, a striated blend of diamond and quartz, created by clashes of power and subsequent churning of the ground in some ancient clash. I found the sample that I used while chasing after a fleeing arcanous beast that attacked me and mine. I am Reforged, and have been for…” He exhaled slowly before chuckling. “I honestly stopped counting the years precisely, but Master Jevin is my contemporary, if that holds meaning to you.”
+
+She nodded, eyes widening a bit.
+
+“My Ascension is unlikely as I don’t actually seek any…” He paused. “Ahh, my apologies. That would likely hamper your Reforging, if not your own Ascension at the proper time.” He gave a helpless shrug. “But is what I have said sufficient for you?”
+
+Tala contemplated, choosing to ask another question rather than answering his. “So, you want the information in order to better gated humanity as a whole?”
+
+“Essentially, yes. Every Mage who has a view into these things has a different means of visualization, of comprehension, and each provides insights that are hard to glean elsewhere.”
+
+After a long moment, Tala nodded. “Very well. Then, yes, that is sufficient for me.”
+
+And so she told him.
+
+She did far more than simply share memories with the man, though she did that where she had ones that he had not seen already. Alat helped to grant him access to all of her direct encounters with the nature of reality nodes, as well as those surrounding the things she could do with them. More importantly, however, Tala narrated her own thoughts, understandings, and musings on the matter.
+
+Master Saliocas seemed particularly interested in that, as it seemed to be the basis of his goal, getting her understanding of the subject rather than simply adding her experiences to his own.
+
+It took a few hours, but in the end, the Reforged was left with a look of deep contemplation. “Thank you, Mistress Tala. I cannot easily convey how grateful I am for your thoroughness.”
+
+She nodded, then shrugged. “I’m glad to have been able to help, I suppose. Though, I’m still not sure how valuable it actually is.”
+
+“Time will tell.” He smiled gratefully. “Before we move on, I wanted to mention someone to you. I would honestly assume that they would seek you out over these memories sooner or later, as I don’t believe they’d be entirely above her clearance level. Mistress Xakiri has specialized in gathering information on Leshkin and their nature and movements for decades now, maybe longer. If you wish to learn more about the Leshkin and deepen your understanding of their current nature, she’d be a good resource, and as I already said, she very well may seek you out, because your memories would have to be at least somewhat redacted if she got access at all. That would leave her a bit miffed and entirely intrigued.”
+
+“So, not a Paragon?”
+
+“No, no. Last I saw her, she was at the edge of finishing up her Refining.” He chuckled. “She was going out to do ‘one more mission’ to gain the needed drive and impetus to go through the final cleansing, but that was… a couple of years ago, now?” He shrugged. “Recently enough. I know she succeeded… in both her mission and her Refining.”
+
+Tala gave a slow nod, a smile tugging at her lips at his definition of ‘recent’. “I’ll keep an eye out for her. I’m sure she’d have much of worth to share.”
+
+He gave a single nod in return. “Now, for my part of our bargain.”
+
+Tala leaned forward a bit, ready to devote her full attention to his next words.
+
+“As you are aware, the three pillars are Reality, Magic, and Void. What many fail to realize is that they are not in conflict at all, but in balance.” The man paused, leaving a dramatic pause as he drank some more coffee.
+
+Tala frowned. She didn’t disbelieve him—she even thought she understood what he meant—but she also hadn’t really thought about it in that way. She decided to simply wait for him to continue.
+
+“Many believe the three are like wrestlers, each striving to throw one or more of the others out of the ring—to drive them from Zeme—but evidence does not actually support this. Imagine, instead, three people standing on the top of a very small pole. They hold hands and lean back, supporting each other on a space that would be hard pressed to allow even one to be stable on their own. Now, if one were to start to gain prominence, do the other two work against that unbalancing? Of course, for if they didn’t, all three would be worse off. The third also does not resist the actions of the other two, allowing themselves to fall back into equilibrium, even assisting if possible.”
+
+She grunted. Now that she considered it, she’d never actually seen anything like the three forces in active conflict. Sure, they seemed to clash, push and pull one another, and not be able to be blended with ease, but never with anything resembling hostility… but a lack of hostility wasn’t really a proof of anything. That was claiming that a lack of anthropomorphism was proof.
+
+Still… when the hammer stroke of Reality had fallen due to Eskau Meallain’s abuse of Magic, there had been no resistance that she could detect. Magic had simply withdrawn, even as it was driven away. My gate even stopped spewing forth power…
+
+“I see you understand what I’m getting at. You have even experienced things that lend credence to what I suggest, yes?”
+
+She nodded slowly. “I think so… yeah. But, while I appreciate the insight, what does this have to do with Reforging?”
+
+He gave her a confused frown. “Nothing.”
+
+Tala blinked at him, feeling utterly confused, but then the man smiled.  I suppose he didn’t say it had to do with Reforging. Was that just my assumption or—
+
+“Everything.”
+
+There was a long silence, then Tala shook her head. “Nope. You can’t just say something so contradictory and ridiculous and then not elaborate. How? What?”
+
+He chuckled. “This was not meant to be an ‘insight toward Reforging’ so it has nothing to do with it. That said, it deals with the true nature of Existence, and you are Reforging your own existence, so of course it is fully applicable.”
+
+She groaned, putting her palms on her eyes and rubbing furiously. “What’s the purpose of—” She stopped her eye-rubbing, then dropped her hands, eyes wide. “Reforging has to create a balance. The process… it isn’t about strengthening some parts so they are supreme, it isn’t about ‘defeating’ parts that I don’t like or don’t prefer. It’s about achieving a balance between the different parts of myself, the different parts of my existence.”
+
+The Maternal Iron and the Ravenous, Jealous Devourer. Two sides of the same coin. She was both. She was the Iron Matriarch.
+
+-Not to mention: warrior, wife, friend, and provider of shelter.-
+
+I mean, yes? I don’t really see any of those four as in conflict.
+
+-Of course you don’t, because you’re used to holding those views in parallel. There’s also the balance of teacher, sister, mentor, mother?-
+
+Yeah… I hope those all apply eventually. She considered that for a moment, even as Master Saliocas was shrugging.
+
+The man smiled. “If that’s what you pull from it, I am glad to have been able to assist.”
+
+That caused Tala to hitch. “What do you mean, ‘if that’s what I pull’... What was I supposed to pull? What was the point?”
+
+“Supposed to? Nothing. I simply wished to convey the truth to you. I don’t have any agenda in doing so. I’m telling you the rose is red, not trying to convince you it would be a good color for a dress.”
+
+“I… I don’t understand.”
+
+He sighed. “If many people look at the same sky, they may each pull different things from the truth of it. One might make an observation about the weather; another might determine an insight into color palettes; a third might get inspiration for a poem; and so on.”
+
+Tala… guessed that she understood that. To her, because she was in the process of investigating Reforging, everything was related to Reforging. If she’d been Fusing instead, she’d likely have seen this as an insight into that step. If she was a new parent, she imagined she might have seen how it pertained to rearing a child… maybe… she actually had no idea.
+
+-And now you’ve made us sad…-
+
+Sorry…
+
+-It’s alright. It happens.-
+
+Hey, but you brought up motherhood first. That put it in my head.
+
+-Sorry…-
+
+It’s alright. It happens. Tala sent the feeling of a broad grin, and Alat chuckled.
+
+Master Saliocas sighed, taking up and draining the last of his coffee. “Honestly, that’s all I had. I am happy to answer other questions, but the trade of information that I had intended is done.”
+
+She raised an eyebrow. “Do you see what you told me as equivalent to what I shared?”
+
+The man huffed a laugh. “Oh, of course not, but unless you have more you’d like to know, I have nothing else to offer that I know would be a benefit.”
+
+“When you Reforged did you—”
+
+He held up his hand, cutting her off. “I… I am willing to answer almost any question you ask, but please think carefully before inquiring about the Reforging of others. It is impossible to escape all influences, but actively choosing into one? Make sure that is truly what you wish to do.”
+
+Tala hesitated for a long moment, then gave another slow nod. “I appreciate the warning, and I will take it to heart.”
+
+He smiled. “As you wish. I am usually around these parts, so if you change your mind, I am happy to meet up again. Even if you are no longer near, I am willing to dialogue in person or through the Archive.”
+
+“Thank you, Master Saliocas.”
+
+“It was my pleasure, Mistress Tala. Once again, I do acknowledge that I got far, far more from our meeting than you did. Please don’t hesitate to reach out if there is anything that I can do for you.”
+
+-Already dialoguing with him via the Archive.-
+
+The man smiled. “Ahh, yes. I am happy to discuss things in that venue as well.”
+
+“I’ll remember the offer and stay in touch. Thank you again.”
+
+With that, the man pulled out a silver coin, laid it on the table, and… vanished.
+
+Tala’s three-fold sight saw him vanish, and if she had to guess, he somehow vanished starward, even if he didn’t seem to have actually moved that way?
+
+It really didn’t make sense, but that’s what she’d seen. He had almost appeared to break apart, his reality node fading away as it shifted ever so slightly starward.
+
+Well, everyone’s magic is a bit different I suppose?
+
+The isolation sphere that had been around them vanished as well.
+
+Tala took a moment to absorb the feeling of the reality nodes coming back together.
+
+No… that wasn’t right.
+
+It was more than just the ‘feeling’.
+
+She had her three-fold sight of the ongoing results, as well as the perfectly preserved memory to review, and something was telling her to do so right then.
+
+It had not been like a thunderclap, or something else that separated air and then let it come back together. It hadn’t been like water pouring back into a pond, or even like her arm being reattached through healing—though that last example was the closest.
+
+Had it been like her arm?
+
+No, my arm has too much physical intermeshing to be the same…
+
+-I think all of the examples do, actually. They are all physical things rejoining. I don’t think there was any physical movement.- Alat sent the feeling of a gasp of surprise, right as Tala’s own eyes widened. -This is it!-
+
+This is why he wanted us to meet in person.
+
+He had allowed them to experience something that would shape their understanding. If he had told them—or if he had sent them information that had shown the same—it wouldn’t have been experiential knowledge, and she probably wouldn’t have trusted it, not fully. Even an experienced memory would have been curated and selected for their consumption, rather than a true experience.
+
+They both dove back into the recollection, vaguely noticing a server take the silver that Master Saliocas had left, coming out of her thoughts just enough to order more coffee but little beyond that.
+
+She sifted through every sensation, every aspect, every instant of the happening.
+
+They were separate, then they weren’t. Their reality didn’t change, but the core of how it related to existence around it…
+
+-Is that it? Is that really it?-
+
+The physical body is very clearly the most Real portion of a person. Their soul the most Magical. Their individuality—their reality node, their spirit—the most Void. But none of those things are in isolation. A soul must be Real to have any effect on the physical, and it must be Void, or distinct—it must be defined by its separation from what is around it—for it to be a true, singular soul.
+
+-The body is Real, but if it had no Magic to it, it couldn’t be affected by the soul, and similarly, it must be distinct from what is around it.-
+
+Alat, do you realize what this means?
+
+-I think I do.-
+
+Her thoughts took on a bit of a sassy tone. Existence has three Pillars that are all interdependent at every level.
+
+-...Wow, we really are jerks sometimes.-
+
+Tala chuckled. It was a strange thing. As she thought about it, none of this was actually new information to her, but it was something that she had only known cognitively and understood on a macro level.
+
+Just as Master Saliocas had stated, she’d seen the three pillars as in conflict, as pushing back on one another rather than in being in volitional balance… for lack of a better descriptor.
+
+Now, she realized that her misunderstanding had gone deeper than that. She’d seen the three as separate pieces rather than integrated parts of every piece.
+
+-It’s like length, width, and height. Anything that exists in three-dimensions has all three, and when volume is fixed, altering one alters the others, but they aren’t in conflict. Thinking of it in that way would be silly.-
+
+Though, I think the pillars are a bit more than simple physical dimensions.
+
+-Oh, undoubtedly, but I think the analogy still works.-
+
+Absolutely.
+
+Tala—in her own mind—held many parts of herself as being more Magic, or Void, or even Reality in nature—the dasgannach that she’d merged with being a prime example of the latter—but each part actually held all three. Each part of her required all three.
+
+Her Reforging needed to be a true meshing of those. They needed to come into a stable balance.
+
+That didn’t mean equal parts of each, that didn’t mean that she had to give up anything. It just meant that she needed to ensure that she wasn’t creating instability within herself.
+
+She recalled seeing some artfully done rock stacks in the gardens that Rane took her through recently. Her memory supplied the name: Cairns.
+
+They were things that looked completely off kilter—like they would fall over at the slightest vibration or breeze—but instead, they were often surprisingly robust and enduring, at least when done correctly.
+
+She would be such a cairn.
+
+The thought brought a smile to her face, and she found that she couldn’t wait to tell Rane.
+
+In that moment, she heard the sound of a clearing throat.
+
+Tala didn’t look around, as she instantly knew that it had been Master Jevin. She smiled. “Yes, Master Jevin?”
+
+“As… stimulating as conversation with an ancient arcane can be, I do have other things that I should be attending to, and they require more than my partial attention.”
+
+Tala frowned. What is he…? She blinked a few times. “Right. Eskau Meallain.” She cleared her own throat, trying to hide her embarrassment. “I suppose that two days is long enough for you two to chat this time around?”
+
+He chuckled. “Quite. She does have a lot of interesting things to say, but as I said, I do need to have my full attention available for a few things.”
+
+Tala stood, downing the remainder of her coffee and paying before striding from the shop. “Of course, of course. I’ll be right there.”

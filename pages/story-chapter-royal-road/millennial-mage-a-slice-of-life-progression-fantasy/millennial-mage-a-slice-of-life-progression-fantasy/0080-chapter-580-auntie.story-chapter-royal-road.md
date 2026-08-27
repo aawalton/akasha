@@ -1,0 +1,239 @@
+---
+id: 7e0a4960-2dda-5eb1-8576-0bb76c2a2584
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 580 - Auntie"
+slug: 0080-chapter-580-auntie
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 80
+ownLength: 2779
+unit: words
+ownProgress: 2779
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2383895/chapter-580-auntie"
+royalRoadId: "2383895"
+markedReadAt: "2026-06-29T19:37:51.473Z"
+---
+
+Tala, Rane, and Lea spent more than an hour slowly going through breakfast, trying various things.
+
+Throughout the process, Tala had an odd dissonance within herself. On one side, she felt undeniable love and attachment to Lea. She felt like the automaton was her daughter, and desired to protect, nurture, and instruct her.
+
+On the other side, she felt like she shouldn’t feel that way.
+
+She hadn’t carried Lea, nor birthed her—those two being obviously linked—and she wasn’t genetically related to the body before her at all.
+
+She understood that genetic relation wasn’t required for parent-child bonds, but she’d thought that it was needed for such immediate attachment. She also understood that some people struggled with attachment, even when there was that component.
+
+As she considered the facts, and analyzed her own feelings, she came to a realization. It was really only her Paragon level senses and practice analyzing souls that made their connection so starkly, undeniably obvious. It was tangible to Tala in a way that just wasn’t the case for most people.
+
+This was her child, she knew it down to the core of her being—literally within her very soul—and no one and nothing was going to change her mind.
+
+Oh, Tala. This might get messy.
+
+Alat chucked. -That’s an understatement. If the powers that be decide she needs to be destroyed?-
+
+Then we’ll leave. We’ll fight our way out if needed. She looked up, meeting Rane’s gaze, and she saw a spark of the same determination—likely due to thoughts along similar lines—echoed in his eyes.
+
+Lea was looking at the greatly diminished spread of food before them, and spotted a sausage out of her reach. She pointed. “I want that sausage.”
+
+Rane smiled. “Lea, don’t just state what you want. We’ve been talking about this.”
+
+“Give me that sausage.” She nodded once, satisfied with her change of wording.
+
+Tala huffed a laugh. “Lea. You need to ask politely.”
+
+The girl grimaced slightly, then looked toward Rane once more. “Father. Would you give me that sausage?”
+
+He nodded. “You’re just missing one word there, little miss.”
+
+Lea tilted her head, narrowing her eyes for a moment before speaking again. “Please… don’t call me ‘little miss’.”
+
+Tala hid her renewed smile behind a hand, and Rane blinked at their daughter a few times before centering himself and nodding. “Alright, Lea. Please ask politely.”
+
+Lea watched him in return for a moment, but after he didn’t move to give her what she wanted she capitulated. “Would you please pass me that sausage, father?”
+
+“Of course.” He did so with a smile, holding onto it as she tried to take it. One eyebrow rose in expectation.
+
+The girl saw his face and remembered what they’d discussed over the past hour. “Thank you.”
+
+Rane let go, smiling. “You are most welcome.”
+
+They had quietly—and rather without having to directly discuss it—decided to begin working with Lea on manners and proper ways to interact with people. It had started rather naturally with the whole ‘berry’ interaction, and simply built from there.
+
+It was something that parents normally had years to both teach and model for their children. So, Tala and Rane were at a stark disadvantage, but Lea was a quick study. After they’d explained to her that interacting with others was a must—and if she wanted those interactions to go well, she needed to be cordial—she was willing to hear them out.
+
+They had no idea what punishment would look like with Lea—if there would even be any in the first place—but Rane had taken the tack of patiently ensuring that she asked and acted properly before giving her what she wanted, and that was bearing fruit.
+
+I suppose having a child that understands what we’re saying makes all this much easier. Still, they would have to decide how to handle bad behavior.
+
+-It would be kind of funny to see you try to spank an automaton.-
+
+I mean… she can feel through the white steel as if it were flesh, and I’m durable enough, but would it even be useful? What would be the point?
+
+-I more meant it was a silly thing to consider, not as a serious suggestion.-
+
+Oh… I guess? It does hit an odd chord. I don’t foresee it happening though.
+
+-True enough.-
+
+Tala wasn’t even considering such discipline in the context of regular parenting. She and Rane were in uncharted territory, here. She did know that while she hoped to never need to discipline Lea, it would be foolish to assume that the girl would act perfectly. With that in mind, never considering how they’d react would just be foolish.
+
+Rane and I will need some time…
+
+-Very true. Enar and I can watch her… but not soon. We have a lot of appointments with people about this whole situation.- Alat only gave a beat of silence. -Speaking of which, Mistress Ingrit will be here in about a quarter hour.-
+
+Oh! Tala frowned. Alright. I suppose we should start preparing, then.
+
+Tala cleared her throat, getting the attention of her husband and daughter. When they looked her way, she smiled.
+
+“Mistress Ingrit is going to be here very soon. Before she gets here, Alat and I thought it would be worthwhile to introduce Lea to Lyn.”
+
+Rane lit up. “Oh! That’s a great idea. It will let Lea meet someone new who will be an easier first attempt.” He hesitated, then amended. “Not that Mistress Ingrit isn’t a kind, wonderful person of course.”
+
+Tala nodded, then turned to their daughter. “Lea? Are you ready to meet Lyn?”
+
+The girl hesitated a moment, then gave a slow nod. “People seem nice. Yes, please.”
+
+Alat had been in communication with Lyn, and so the adjunct was ready for it when Tala willed her to join them.
+
+Lyn blinked a couple of times before orienting on Lea. She gave the girl a bow. “You must be Lea. I am your auntie Lyn.”
+
+Auntie?
+
+-Hush. Don’t spoil it. Lyn is doing her best to forge an immediate connection.-
+
+Through a familial title? I suppose that might work?
+
+-Most people aren’t you, Tala. They aren’t us. I think it will help Lea.-
+
+Lea stood—just as Tala and Rane had told her was appropriate—and gave a slight bow. “Good to meet you… Auntie?” She glanced toward Tala and Rane. “You are father’s sister? Or mother’s?”
+
+Lyn smiled. “Oh, no. Sometimes a good friend of the family is called an aunt or an uncle. I fall into that category.”
+
+Lea brightened at that. “Oh! Auntie Lyn, then.”
+
+“Yes.” Lyn had a smile on her face, but Tala could see tension in how the older woman moved, and in how her expression was just a bit forced. Even so, she had been informed in no uncertain terms what Tala’s—and presumably Rane’s—stance was on Lea, and she was open to understanding it.
+
+The four of them chatted for a bit before Tala felt Mistress Ingrit approach the location Alat had given her from which to enter the sanctum. “She’s here.”
+
+That caused everyone to pause.
+
+Lyn had gotten more comfortable over the few minutes of conversation. Part of that was likely due to the fact that Lea acted exactly like a little girl would, rather than as the killer construct she appeared to be.
+
+Tala willed away the remnants of the food, along with the table, and brought over another chair before opening a portal for Mistress Ingrit to step through.
+
+She could have simply willed the Librarian inside, but it was more polite to allow her to step across the threshold entirely of her own volition.
+
+Mistress Ingrit didn’t show any nervousness as she entered.
+
+Tala’s focus was instantly drawn to a metal spike that was loosely sheathed at the back of the woman’s belt, but she was otherwise ‘unarmed,’ at least as unarmed as an Archon ever was.
+
+The spike was very simple in construction. It was mostly of iron with spell lines carved and filled in with precious metals, making a pattern for magical disruption.
+
+Clever, a single use spell meant to destroy a construct of magic. It would even work to fully obliterate the inscription set on an Archon below Paragon, and I imagine it would do a number on the natural magics of a similarly advanced beast.
+
+-We’ve seen these mentioned before. They are specifically lower-tier, anti-automaton weapons. Still, I’ll put in a request for the schematics, or to see if we can get some made in sphere form. They might be good additions to the void donut.-
+
+Thank you… I still don’t like that name for it.
+
+-It fits though. As to the weapon, it seems a bit like overkill, at least for non-automata. You know, because most people would just die from a spike to the chest.-
+
+Well, of course, but really look at it. It can activate with any penetrative contact. The lethality of the blow is entirely secondary, even if the effect would be better the closer to the center it was activated.
+
+-True enough, I suppose… We’re not going to let her use that, right?-
+
+Oh, of course not. If she even tries to reach for it, I’ll will it away before she can lay a finger on it.
+
+-Good, good. I was wondering why you were so calm.-
+
+…You can literally see the plan in my head.
+
+-Eh, I’m a bit distracted. Hush, we need to focus.-
+
+As the portal closed behind Mistress Ingrit, she bowed toward each of them in turn, even as they rose to their feet to greet her. “Mistress Tala, Master Rane, thank you for having me. Mistress Lyn, it is good to see you again. Lea,”—she smiled as she swallowed before continuing—“I have been quite looking forward to meeting you.”
+
+They each bowed and greeted her in turn. Lea, for her part, waited until after everyone else had spoken before giving her own address. “Hello, Mistress Ingrit. I hope that your anticipation is rewarded.”
+
+Lea had used much larger words than she generally did, but they were spoken… not hesitantly, but certainly with an obvious lack of practice. She knew what they meant, and knew how they sounded, she just hadn’t actually spoken them very often—or in this case at all—before. Thus, she was unused to sounding them out.
+
+Regardless, Mistress Ingrit seemed to take the greeting in stride. As they all sat, Lea’s eyes stayed locked on Mistress Ingrit, and she displayed, yet again, that while she was a new soul, come to this strange world, she had an intelligence and capacity for comprehension that should not be underestimated. “I am… scared.”
+
+Mistress Ingrit blinked a few times frowning and shifting slightly in her seat. “What ever for?”
+
+Tala and Rane, who were flanking their daughter, each put a hand on the girl in reassurance. Lyn gave a comforting smile, but none of them spoke.
+
+Lea took a moment, seemingly composing her words. “I might need to die. That is why you are here.”
+
+Everyone stiffened slightly, but Mistress Ingrit responded smoothly and clearly. “Yes and no. I doubt that your mother and father would allow your death, but I am here to interact with and assess you. I am told that you know of how you might be viewed?”
+
+Lea nodded, responding simply, “Hated.”
+
+The Librarian hesitated for a moment. “That… might be accurate for some. Fear might be more accurate for others, but I personally don’t think that will be the case for most. Those who look similar to you were made to hunt us down, kill us, and enslave our very souls. They use those bound gates to power more of themselves, sometimes even whole squads.”
+
+Tala frowned. She hadn’t known that the black legion could use a single vestige to power more than one automaton, but it was hardly the time to inquire further.
+
+Mistress Ingrit wasn’t done. “That said, that isn’t you. You are not responsible for what those who resemble you have done. Though, it is good to be aware of it, so that you can understand when people react poorly.”
+
+Lea nodded slowly. “Sometimes we do wrong things, and it is kind for others to help us understand that.” She turned and smiled at Rane. “Right?”
+
+Rane nodded. “That’s right. In this case, though, we may not always be correcting those who have this wrong understanding. Mistress Ingrit simply wants to be sure that you won’t be surprised, or have a bad reaction, if someone does have such a response to you.”
+
+“Oh… Alright.” She turned back to the Librarian. “I will not kill people who are mean to me.” She then gave a wide, beaming smile that perfectly conveyed the confident assurance of someone who knew they’d said the right thing.
+
+Mistress Ingrit blinked a few times before seemingly barely holding back a laugh. After a moment, she simply nodded, her smile plain and unguarded. “That is very good to know, Lea. Thank you for telling me.”
+
+Tala and Rane had both seen the truth in the words, and Tala assumed that Mistress Ingrit had as well.
+
+It was an odd thing, in one sense, to have it stated so plainly and openly, but Tala supposed that it was good to have it be so clear.
+
+Unfortunately, as the issue wasn’t the soul before them, but the body, knowing that the soul was being honest wasn’t actually that helpful in this case.
+
+Still, Mistress Ingrit was happy to just talk with the girl, and that seemed to put her at ease as they spent a bit of the morning together.
+
+Once again, the disparity of Lea’s age and competence in communication came into stark focus. She didn’t have a favorite… well, anything, except breakfast foods. She had no memories to pull from for discussion, and even what knowledge she did have was almost entirely cognitive, making it harder to really discuss anything with her.
+
+Thankfully, Mistress Ingrit didn’t seem to want to ask her philosophical questions, or anything like that. She wasn’t trying to plumb the girl’s mindset or trap her with questions about moral dilemmas.
+
+Instead, she simply seemed willing to get to know her.
+
+Finally, Mistress Ingrit suggested that they go for a walk, and Lea was quite excited at the prospect. After all, she’d only seen the short space between the research cave entrance and the complex at the sanctum’s center.
+
+Lyn decided to tell them goodbye, then, taking a special moment to let Lea know that she was very glad to have met her, and she hoped to see her again soon.
+
+Lea gave Lyn a hesitant hug and said that she didn’t ‘want auntie to go.’
+
+Lyn hesitated at that, but at Tala and Rane’s prompting, she let Lea know that she had to go, but she’d be back later.
+
+That seemed to mostly satisfy the girl, and Lyn was willed away.
+
+Lea pouted a little, but as soon as they all walked outside, she was instantly distracted by all that there was around them to look at.
+
+That brought a smile to her face. So like a toddler. So easily fascinated and distracted by the wonders of the world.
+
+-Unlike us, who never divert down rabbit trails of thought.-
+
+…Fair point.
+
+Still, the way Lea was acting sparked a memory of Illie spending an hour following a little ladybug around their backyard when the girl’s mom had asked Tala to watch her.
+
+That little girl hadn’t wanted to do anything else until she followed the bug back to its house. She hadn’t listened when a very young Tala had tried to explain that ladybugs didn’t have houses.
+
+Illie just knew that she would prove her sister wrong.
+
+The memory pulled tears to Tala’s eyes, but she was able to hold them back.
+
+Sometimes it was hard to process how recently Illie had passed. Tala knew that she hadn’t fully processed it.
+
+-Master Nadro is still available…-
+
+…Fine. I’ll meet with him. I bet he’ll want to meet with Lea as well?
+
+-I’ll ask, yeah.- Alat waited another moment before adding. -Thank you for being willing to speak with him. I really think it will help you… will help us.-
+
+I hope so, Alat. I really, really hope so.
+
+Just then, Lea spotted a bird drifting by—high up near the unseen ceiling of the sanctum—and she leapt to one side before crawling up on a boulder beside the path to ‘get a better look at the bird.’
+
+That made Rane smile and Tala laugh. Mistress Ingrit even seemed to be relaxing a bit more than before.
+
+Maybe, just maybe, this will work out alright.

@@ -1,0 +1,241 @@
+---
+id: f50246d5-241b-5765-bdab-57a98fe8b321
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 78 - The Long and Winding Road"
+slug: 0131-chapter-78-the-long-and-winding-road
+partOf: metaworld-hopecore
+position: 131
+ownLength: 3359
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3692017/chapter-78-the-long-and-winding-road"
+royalRoadId: "3692017"
+---
+
+"The quality of mercy is not strain'd;It droppeth as the gentle rain from heavenUpon the place beneath."
+
+William ShakespeareThe Merchant of Venice
+
+Valorie and Eppie spent the next hour practising her new song, with Eppie humming the tune through [Perfect Pitch] and Valorie learning the words through her mortal brand of [Memorisation]. The words, as Eppie explained, really didn’t matter. The timeless tune possessed the melody of a bardic monologue. The weight rested in the lyrics, told from the heart to wedge open closed doors.
+
+With Valorie’s talent and Eppie’s familiarity with a song that had played in her head for over three decades, something close to mastery was quickly attained, after which the girls had to find a way to discreetly rejoin the party.
+
+Their only barrier was Valorie singing through her tears every second or third verse. Thankfully, it only took the first thirty minutes to convince Valorie once again that it wasn’t her fault.
+
+They stopped by the amenities along the way… and acknowledged that there was no fixing their makeup, not even close. Eppie did her best with her pinpoint precision and whatever Valorie brought in her handbag, and the girls mutually agreed that they looked presentable enough from a distance.
+
+They exited gallery 918 and found that they had already missed the opening of the Tisch Galleries—the Met's dedicated special-exhibition wing on the second floor. From the map near the entrance, they saw that Vaughan had commissioned multiple partitions, each in sequence, doors held open by docents in themed uniforms so the whole thing read as a single held breath rather than five separate exhibits.
+
+A brass plaque by the entrance told her where the guests had gone:
+
+The docents in their funeral-coloured garb bowed their heads as the girls approached.
+
+“The guests are midway.” The young man smiled affably at the two stunning young women in their black and green dresses. “Dame Vaughan has instructed that you be let inside. The rooms reset every ten minutes, so you won’t be able to catch up until the final room. Please enjoy the exhibit, Miss Fontaine.”
+
+The girls thanked the young man as the installation opened with the sound of sucking air.
+
+The girls wandered inside and felt suddenly small. They were in a stark white space. The edges of the rooms had been engineered away with seamless interiors to create a liminal world. Boundaries, which were unnoticeable until the viewer came closer, were marked with white-painted pegs, strung from point to point with ivory strings.
+
+In the middle of the room, hanging from the ceiling, was a ten-foot-tall portrait.
+
+It was Kiritani Sensei, half-naked, his kuromontsuki and haori stripped to the waist.
+
+“Oh my God…” Valorie involuntarily inhaled the air-conditioned air.
+
+Eppie lacked the words because her state of shock was far greater than her new friend’s.
+
+The portrait was photographed rather than drawn, with every rib and knot of the spine visible beneath sallow, sun-cured skin. Scar tissue mapped across his shoulder blades like a second, private cartography. Fifty years of sidewalk and shelter-line and winter had written themselves into Kiritani’s ageing body like a rude biography. Yet, the man’s face was a study in patience. Her sensei’s wrinkles were as deep as fault lines; his eyes were half-lidded and exhausted.
+
+They stayed there for the first five minutes, just… taking in the gravity of that visual texture.
+
+“That was the old man you brought in?” Valorie’s voice was sweet and compassionate. “The reason you ran out that night?”
+
+Eppie nodded.
+
+“You’re incredible…” Valorie looked down at her hands. “I am an idiot.”
+
+“Don’t… don’t say that,” Eppie hooked an arm around Valorie’s elbow. “Come on.”
+
+They crossed the middle threshold, felt the backs of their necks tingle, turned, and—
+
+IT WAS A TWO-SIDED PORTRAIT! Eppie’s mind rioted. They could see Kiritani Sensei’s back in the same detail and resolution! They could—
+
+“Are those…” Valorie’s hand on her arm tightened. “Lash marks?”
+
+Eppie didn’t know the answer either.
+
+The plaque read thus:
+
+Fifty Years (Kiritani, Two Sides) Renata Voss, 2008 Archival pigment print, mounted on aluminium
+
+Photographed in a single sitting, one week before the exhibition's opening, Ms Voss was instructed only to “photograph what fifty years without shelter leaves behind, and nothing more.” No retouching was performed. The Chief Curator requested that both sides be shown with permission from the subject. No explanation is left to the viewer, who must witness history with their own knowledge and eyes.
+
+And witness history they did. Eppie had seen Kiritani in the shower, but even so, she had never imagined… this.
+
+After another minute, the girls moved on, their hands held a little tighter.
+
+It was only then that they noticed the docent in white. The young woman gave them a solemn smile and opened the door to the next room.
+
+The second room breathed easier. Evidently, Vaughan had become a master of the sensory as well as the visual, for like the Van Gogh exhibitions, she had staff engineer the sound and smell of Central Park in winter. The temperature was also several degrees colder—though that might have been because of their sheer dresses.
+
+The white space was gone. Instead, it was replaced by a seamless, projection-mapped Central Park re-creation that immersed the visitor in one of New York’s finest public spaces. With great subtlety of lighting, the room shifted from spring to winter.
+
+On the walls, arranged almost eclectically, were pictures of cats. Hundreds of cats, all hiding in Central Park. Some were pen on cereal paper. Others were cardboard. A few were whiteboard markers used as paintbrushes. A scant few survived without water damage over the years they were carried by Kiritani in his enormous duffel bags.
+
+Eppie’s sharp eyes caught the plaques:
+
+Kimi, tortoiseshell, companion since approx. 1998.
+
+Tanaka, orange tabby, companion since approx. 2001.
+
+Hundreds more, names Eppie had never heard Kiritani say aloud, for they were cats that had not outlived their portraits, lay everywhere.
+
+Fifty years of homelessness. And here it was. Fifty years of companion cats.
+
+Almost all of Kiritani’s cats were gone; no more than two dozen of them could still be alive somewhere in Central Park, and yet, here they were—living in history: The Stray Cats of Henry Kiritani.
+
+Eppie cried for the kitties. She cried for her sensei. Spring, summer, autumn and winter, keeping her sensei company, warming him in times of frigidity, bringing solace in times of desperation. Providing him with the joy needed to keep on living in a hostile birth country.
+
+Valorie looked at her in amazement. “Do you… know these cats?”
+
+“I know that one, and that one.” Eppie swallowed her sadness.
+
+The docent, no less affected by Eppie’s tearful, Disney princess expression, opened the door for them.
+
+The third room was black, the kind used to develop film. The viewer, such as the pair of girls, was forced to find their way by moving from station to station, with each station representing a memory belonging to Kiritani.
+
+The first short film, about half a minute long, was that of 1920s Hiroshima before the bombing. The scene was a family home. The people were clearly unrelated to Kiritani, but they represented what was lost to war.
+
+Recollection 01 From the testimony of Henry Kiritani Reconstruction and direction: Naomi Ishida, 2008 16mm film, transferred to digital, with sound
+
+No photographs survived Kiritani's household before August 6, 1945. His memory is now the only negative left to print from. Each station recreates a single fragment of his testimony. Station 01 is surviving archival footage on loan from the Hiroshima Peace Memorial Museum.
+
+The next station, “02”, held a short documentary about the bombing of Hiroshima. The short film, a mere four minutes long, told the stories collected by American journalist John Hersey in his non-fiction account of Hiroshima, detailing the events before and after the bomb fell, from 1945 to 1985.
+
+Station “03” began with a photo installation of Kiritani as a young artist, handsome, shaven bald like a monk. It was the last time he was in Japan, for the war had begun, and he was returned to the USA as a “US Citizen” to avoid lynching by Japanese nationalists.
+
+Arm-in-arm, Eppie and Valorie went from station to station until they arrived at no. 08, a stark installation of eight crude drawings of Hiroshima in red ballpoint, crisscrossed by hatch marks in black. These were done on age-old American cardboard, made before environmental conscience was a thing, made to last the aeons.
+
+Over the decades, these had gone soft and warped at the edges. They were composite works of mixed found materials as well. Newspapers yellowed to amber. A grocery bag, flattened and drawn on in ballpoint, the Stop & Shop logo still faintly visible behind a mushroom cloud rendered in nothing but cross-hatched ballpoint.
+
+Kiritani Sensei had done this from imagination; Eppie realised something new. He had no access to television. He did not read English fluently. He could only reproduce what was in his head.
+
+Henry Kiritani, undated (c. 1960s–1990s) Ballpoint ink on found cardboard, newsprint, and paper, in eight parts
+
+Kiritani kept no calendar during his fifty years without shelter, and dated almost nothing he made. These eight pieces survived as much by accident as by intention. They were carried, folded, rained on, and carried again. Long before any institution thought to preserve them. They are shown here exactly as they were found: warped, yellowed, and whole. Fragments of an impression, memories of living history.
+
+This time, Valorie held Eppie’s tiny shoulders while she shed her tears. At least now there was a good excuse for their barely presentable makeup.
+
+The fourth room opened into a low murmur of adult conversation.
+
+Entering, the girls saw the docents first—men dressed in the same hue as the US soldiers sent to guard the Japanese prisoners, but in the cut of the Met’s officious uniform.
+
+In the middle sat a scaled-down model of Tule Lake under glass, instantly recognisable by its volcanic plateau.
+
+The enormous display was the camp as a diorama, restored to every minute detail. Every guard tower was rendered in miniature, every barrack block numbered, the barbed perimeter a thin silver thread looping the whole tragedy into something you could walk around and study.
+
+A list of the inmates, last names redacted but for Kiritani, wreathed the display.
+
+A copy of the camp manual was reproduced for visitors. As was the case with the infamous Executive Order 9066 and the Loyalty Questionnaire.
+
+There was a photo of the “No-No Boys” being subjected to corporal punishment.
+
+The adults were talking, and most of them turned their eyes toward the girls, because it was impossible not to notice Valorie.
+
+Valorie rejoined her father, who gave Eppie a strange, complicated look as she took the man’s arm and embraced him. Eppie joined Curon, who cared nothing for optics, and embraced him in a way that made it clear it was a competition between the fathers.
+
+Juliana Vaughan’s curation of the final exhibition paused, then she brought up the two bodies beside her to greet Eppie.
+
+To Vaughan’s right stood a figure in a formal black montsuki kimono that Mirabelle had built around nothing but skin and bone. On his chest, a stitched orange cat sat where a family crest should have been, since he had no family left to claim one.
+
+Henry Kiritani reached out with both hands, and Eppie took them. The two embraced. Her sensei’s body was all bones and no meat. This late, no amount of nutrition could make him whole again.
+
+Juliana Vaughan introduced the man next to her with a faint smile. Eppie recognised the gentleman from the nation’s 24-hour news cycle.
+
+“Mister Vice President. This is Euphemia Fontaine. Eppie, this is Vice President Joel Lieberwitz. Eppie is my student. She found Kiritani Sensei’s artworks, and she brought Kiritani Sensei into a place of shelter. Without her, this would be a very different exhibition indeed.”
+
+“She is. My. Tenshi.” Kiritani spoke with broken English in a heavy accent. “Tenshi.” He repeated himself, in case the others did not hear. “Angel.”
+
+“So I’ve been told.” The Vice President turned to address her with a masterfully performative kindness. In Eppie’s learned eyes, Joel Lieberwitz looked exactly like an institutional American politician. He had silver-grey hair combed with precision, meticulous grooming, heavy dark-rimmed glasses, a slight stoop that read less like age and more like studied humility. His suit was navy, unremarkable, tailored to make him look harmless. He wore his gravitas quietly, using a voice that moralised without malice, sounding wise without offence. “My, you’re more beautiful in person than when you were at the Grammys.”
+
+Which is a lie. Eppie deduced. There was no way her ruffled dress, loosely pinned hair, and literal streaking makeup could look like Marta’s best work.
+
+“Your parents must be very proud.” Lieberwitz winked at Curon, who not only did not shrink from the insinuation but gave the Vice President a Robert Redford nod.
+
+Valorie touched a hand to her lips, whispering into Senator Sanders’ ear as the man winced.
+
+“I am an orphan of the state,” Eppie explained with a dazzling smile that injected guilt by the gallons. “I am very thankful to the Democratic Party for the school lunches, if nothing else. Without them, I probably won’t be standing here tonight.”
+
+Lieberwitz's face went from stricken to visibly relieved in the space of a breath, then he recovered from the moment by staring daggers at Curon, who looked scandalised that he was being accused of lying.
+
+That’s what you get for trusting a man wearing three fashion labels. Eppie read the tension between them.
+
+“Allow me to apologise…” Lieberwitz’s recovery was near-instant. Eppie didn’t blame the man. It was far more believable that the youngest Grammy songwriter was a nepo baby than an orphan. It was true in a way. Her one true Daddy was the [System], and it dispensed both belt and flan with equal zeal, sometimes together.
+
+Eppie wondered, karmically, if she should tell the senior politician that when the GFC hit, the government absolutely must not set a precedent. The bailouts were necessary to avoid an outright depression, but they were without nearly enough structural reform attached. Breakups, executive accountability, and tighter capital requirements—none of the mechanisms her Wharton lecturer prescribed had been exchanged for the rescue. Dodd-Frank ponied up the cash, but not the boundaries. If Gore repeated history, there was a real chance that the Republicans would ride the wave of outrage to the White House.
+
+Watching the unctuous demeanour of the career “centrist”, however, Eppie felt it best to let politics take its natural course. She was reborn to save the arts. Not the world. Right?
+
+The [System] offered no comment.
+
+“No offence taken,” Eppie replied with the same professionalism. “It warms my heart to see you here tonight, Sir.”
+
+Her sweetness lifted everyone’s mood. Unfortunately, the conversation had already died.
+
+Still holding her left hand, her dearest Kiritani Sensei watched it all without a word. Then he leaned into the circle of power with a careful bow.
+
+In the low, careful Japanese he reserved for rooms too grand for him, he spoke to her. “Sukoshi, futari dake de hanashi wo sasete itadakitai no desu ga.” He bowed his head again, “Fuku-daitouryou kakka, oiboreno bureiwo, o-yurushi kudasai.”
+
+Oibore. Eppie noted. This humble old man would like to speak to his tenshi alone.
+
+Vaughan translated. Lieberwitz bade them both good health in English.
+
+With their blessings, Eppie led her sensei to the last room, while her other sensei continued to speak in a hypnotic, aphoristic cadence, enthralling both pundits and politicians alike.
+
+The fifth room was empty when they entered, since Vaughan’s guests were still trapped in the fourth. The docent at the door gave them a respectful nod, then closed the door behind him so that they had absolute privacy.
+
+The final chamber was a circular transient space, architecturally framed so that the viewer had to walk around it. The temperature was a bit warmer than the other rooms, and the scent as well smelled faintly of sakura flowers.
+
+The principal piece of artwork hung in the middle, enormous, the largest Kiritani had ever made. From a distance, it looked like a Sumi-e installation, but from ten feet, it was evident that the image was composed from thousands upon thousands of ballpoint pen strokes.
+
+It was Tule Lake. Empty. Serene. The barracks drawn faint, almost apologetic, guard towers rendered thin enough to nearly vanish. The towers were unmanned. The fences had fallen apart. His final work was not a vision of imprisonment—It was a vision of Tule Lake, decayed, open, resigned to history.And nowhere in the frame, not one corner of it, was Kiritani. There were no more No-No Boys at the threshold.
+
+There was a long, soft bench.
+
+They sat.
+
+Kiritani Sensei did not look at his own drawing. He had already let it go. He looked, instead, at Eppie.
+
+“Tenshi-sama,” he spoke slowly, the way he always did in rooms too grand for him. His hands were folded before him, still as a monk at prayer while speaking to a higher power. “There is a debt I carry. An on.” He said the word the way he said her name, carefully, as though it held weight. “A gratitude too old, too heavy, for words alone to lift.”
+
+“You don’t need to say anything,” Eppie held her sensei’s bony fingers. Her heart knew what was coming—she wasn’t a child, but knowing was worse than ignorance or naivety. A man who spoke to God was not a man who had an excess of time.
+
+Kiritani shook his head, slowly, conserving the energy he had left for a final burst of emotion. “I am an artist now. Of two worlds.”
+
+“You were… always an artist,” Eppie assured him, biting back her tears. “In both worlds.”
+
+He raised his arms, and Eppie hugged him. It wasn’t a very Japanese thing to do, but it was American down to the core. She hugged him with all her heart, her fingers counting his ribs as they embraced, and she sobbed into his neck.
+
+“Thank you, Tenshi-sama,” Kiritani spoke plainly. “For finding me.”
+
+“I found the cats,” Eppie confessed. “They led me to you. But you found the cats. You saved them from the cold.”
+
+“And so it goes,” Kiritani laughed softly. “The karma of On.”
+
+They both laughed, dry as paper. Then both joy and sorrow faded into something that wasn't. Something closer to gladness.
+
+“Mou iku junbi ga dekimashita, Fontaine-san.”
+
+I am ready to journey onward. He whispered into her ear, staring at his final drawing.
+
+Eppie didn’t answer. There was nothing to answer with that would be worth the breaths her Sensei had left. He had lived on that single breath in Central Park for fifty and more years, pure and mulish, driven by spite to resist a country apathetic to its own citizens. That breath, once released, caught up with his body like a comet.
+
+“Yurushita,” Kiritani spoke even more softly, as if he was falling asleep. I have forgiven. They both allowed the words to settle. “I hope you can forgive as well, Eppie. Tanaka told me not to hate them, but I gave up that hate the moment you took me from the cold. That was the beginning of my yasuragi." He smiled at her with every wrinkle on his face. My peace.
+
+Eppie knew that Kiritani would have heard about her history from Vaughan, possibly even her plans for William. She thought of the weight she was still carrying, deliberately, on purpose, and wondered, not for the first time, whether she'd been carrying it for the wrong reasons.
+
+She had no answers for that either.
+
+So she took his hand, kissed his paper-thin skin, and stood with him in front of the empty camp, knowing that the serenity would last only as long as her not-Sensei kept talking.
+
+Eppie couldn’t speak forgiveness in the same way as Kiritani—but she hoped that her capstone performance would put her sensei’s final worry to bed.

@@ -1,0 +1,165 @@
+---
+id: c9b08580-71ef-5cea-a937-338703a2208b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67 – Confrontation Pt4"
+slug: 0067-chapter-67-confrontation-pt4
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 67
+ownLength: 1555
+unit: words
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2108559/chapter-67-confrontation-pt4"
+royalRoadId: "2108559"
+---
+
+The magic and the command swirled around her. It sank into Kindra’s mind, and she stepped forward, saliva filling her mouth. Walking toward the prone dwarf, she licked her lips and inhaled the smell of blood and death.  Why am I doing this?
+
+“Kindra!”  Aika shouted in her mind.
+
+Like a bucket of icy water, her name snapped her back to reality. It flooded through her. A chill spread through her mind, and she took another step toward Gleon.
+
+“Monster,” Sigrid shouted. The ground around them churned, and a bolt of glowing energy flew through the air.
+
+Kindra turned her head in time to see the mana hit Sigrid. It ripped through her, and horror filled Kindra’s throat. She felt like sobbing and vomiting. Blood and bone shards filled the air. Sigrid dropped, blood pooling around her.
+
+All she wanted was a life.  Tears ran from Kindra’s eyes. The magic slammed into her, and she stepped forward. A volley of arrows flew toward them and bounced off a large shield.
+
+“Go, my daughter. Feed. Claim your destiny,” Diana whispered, her voice thrumming with magic.
+
+Kindra stepped forward, willing the counter runes forward. With each step, she finished another rune.
+
+Standing over the prone Gleon, she fixed the final rune and felt the spell falter. A presence slammed into her mind.
+
+“My daughter. Today is the day. We rise together. Don’t fight it. Embrace it. Your destiny. Your future.”
+
+The familiar voice echoed through her mind. The words struck resonant notes, and Kindra gasped as her rage ignited. “You,” she whispered. “You were the one who kept me there.”
+
+“No. I was the one that brought you back from the brink of death. I was the one that helped you on a better path. Don’t you remember, Kindra?”
+
+A wave of magic crashed by, and Kindra saw a ship flying through space. It spun out of control, the window blurring by. She saw inside, she was reaching for the console. Blood oozed from her nose, and she went limp. The ship spun, flying wildly through a wormhole. It passed through and spun toward a green and blue planet. It descended and hit the atmosphere, fire erupting everywhere.
+
+The ship shattered, breaking into four pieces. Each plummeted toward the rocky ground, and magic engulfed them. Looking down, Kindra saw seven people with white hair, one of whom was Diana. She looked up, magic blazing from her and engulfing a fragment. It slowed. The fire went out, and it landed softly in the snow.
+
+“They will need help,” an ancient voice thundered from one of the men.
+
+A shiver ran down Kindra’s spine.  That voice. I remember that voice. It said something else, though.
+
+Diana ran to the ship fragment. She looked inside and gasped, clutching her heart. “So many dead. Gods guide them onward.” She moved to the window and smashed her hand against it. Magic flared, and the glass shattered. She dashed inside and looked at Kindra. “This one is still alive!”
+
+A man stepped forward. Swirling green magic spread from his hands, flooding into Kindra. The runes were familiar but wrong.  Those weren’t the runes I saw.
+
+Kindra screamed, thrashing against her belt.
+
+“What is this?” Diana asked, turning.
+
+“They’ve never encountered magic before,” the ancient voice said, booming through the air. “Help me. This will be an adjustment and may kill them if we aren’t careful.”
+
+Diana dashed to Kindra, freeing her from the restraints. “My daughter. Someday, you will help us off this broken world.”
+
+The vision distorted, flashing to a world that was covered in monsters. Snow clung to the ground. Plants were scrawny and struggled to survive. The sight shifted, zooming out to reveal snow and darkness everywhere. Haggard villages struggled to survive.
+
+Why was the planet green before?  Kindra blinked.
+
+“Remember,”  Diana whispered, and the world faded away.
+
+The smell of blood filled the air. The compulsion to feed on Gleon grew, and Kindra embraced the rage she’d spent ages cultivating.  Lies.  The memories of her dreams filled her mind, and the realization hit.  She was using my body. It was her voice.
+
+Stepping over Gleon, Kindra looked down and took a deep breath.  You don’t go down like this.
+
+He looked up at her, pain in his eyes. Struggling against magical shackles, he tried to say something.
+
+“Kindra?”  Aika shouted, still lying in her hands.
+
+“Forgive me, Aika.”  Kindra dropped her, pulled out the gun, and flooded mana into her mind.
+
+The magic smashed into the spell. It flickered, and she spun, lining the shot.
+
+Diana’s face contorted. “Fine,” she hissed. “Die with them.”
+
+Kindra pulled the trigger and held it down. The gun erupted. Bullets streamed through the air, and Diana laughed.
+
+“You think that your pitiful device can kill a lich? My dear, you do not fathom who you are fighting.” Diana laughed and gestured, magic gathering around her.
+
+Bullets bounced off the shield, and Kindra panicked. Every dwarf, herself, Aika… Everyone was at risk. She dumped everything she had, draining her mana and blood.
+
+[Basic 50 Caliber has been enhanced with Extreme Shield Penetration for 30 seconds.]
+
+The gun nearly jerked Kindra off her feet. The shield exploded, and Diana’s chest blew open. Blood and gore splashed across the courtyard. Kindra wobbled, her heart drumming through her skull.
+
+Did I do it?  She blinked, and a large cloud of smoke billowed out of the body, gathering in a ball.
+
+Reaching out, Kindra ripped the mana away from the smoke. A scream rang through the air, and she fell, her vision blurring while her heart drummed loudly.
+
+Hitting the ground with a thud, she lay on the cold stone, blood trickling down her face.  What?  She struggled to keep her eyes open.
+
+Blurry shapes ran forward. A dragon roared, and streams of light lit her vision.  What are they doing?  She blinked and felt her consciousness slipping. The muffled sounds around her dimmed, and a strange-tasting fluid filled her mouth.
+
+A soft warmth filled her mouth, and she swallowed it greedily.
+
+“… what was that?” Aika asked.
+
+Kindra opened her eyes and saw the blurry shapes above her. She swallowed, and a warmth spread through her chest. The sounds around her came rushing back in a cacophony of noise.
+
+Dwarves were shouting. Some were sobbing, and Aika landed on her chest. Her hopeful eyes stared down.  “Kindra? You okay?”
+
+“No.”  Kindra coughed, spraying the healing potion everywhere.
+
+“Easy now,” Gleon said, patting her on the back. “Knew you had it in you.”
+
+“Sigrid,” Kindra choked out. “Is she—is she—”
+
+Gleon grimaced, the pain showing on his face. “She’s alive.”
+
+Kindra looked at the pain on his face. “What?”
+
+“She’ll recover.” Gleon reached down and pulled her into a hug. “Thank you,” he whispered. “Thank you for fighting for us.”
+
+Touching her gun with her foot, Kindra willed it away and looked over. The undead dragon was lying there in a heap. “The undead?” she whispered.
+
+“Turned feral.” Gleon patted her on the back and held up the rest of the healing potion.
+
+Kindra took it and downed it, bracing herself against his sturdy body. “Aika?”
+
+“Attacking undead.”
+
+A large hand clapped Kindra on the shoulder, and she spun, looking at Tob. He grinned at her. “Well done, my lass.”
+
+Kindra stepped forward and looked down the road. Dain was cradling Sigrid against him. She darted forward, running down the road and gasping. Blood and bone fragments littered the road.
+
+Sigrid opened her eyes and looked down at her missing arm. She turned and smiled at Kindra. “Are you alright?”
+
+Kindra’s throat went tight. Water pulled at her eyes. “Your arm?” she whispered.
+
+“It’ll be alright. I can get by,” Sigrid said, looking at her with a hopeful smile.
+
+Gleon walked up and nodded. “Aye. And we’ll find someone who can regrow it.” He rested his hand on Kindra’s shoulder.
+
+Kindra swallowed and looked at the nearby dwarves. Several had the runes glowing inside them.  I can purge that.  She felt a hand on her arm and looked down.
+
+Sigrid smiled up at her. “Thank you. Thank you for not listening to her.”
+
+“Of course. She was lying.” Kindra smiled. “What do we do now?”
+
+“We die,” a dwarf replied. He stalked forward. “Others will come.” He looked at Gleon and reached for his axe. “You know that.”
+
+Gleon launched off the ground, soaring overhead and landing with a heavy thud. His eyes blazed. “And we will be ready and waiting.” He smiled. “It’s time for us to take back our world.”
+
+“You’ve killed us all,” the man replied, glaring at all of them.
+
+“Back off,” Roto barked, stepping forward with a sword in hand. He clapped Kindra on the back. “If they return, we’ll be ready.”
+
+Gleon nodded and strode forward. Kindra felt a hand tug on her. She looked down at Sigrid.
+
+“Come on, sweetie.”
+
+Dain carried her toward the barracks. Kindra followed.  Is she dead this time?
+
+[Yes. And thank you. ~Death]
+
+[Your mana has increased: 11310 → 227913.]
+
+Kindra looked at the message and felt the mana churning through her.  That’s worth dozens of levels.  She followed the two toward the barracks.
+
+“Kindra! I got the best upgrade!”
+
+Oh, right.  Kindra walked inside and slumped onto a bench. She willed the skill-ups into view.

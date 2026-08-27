@@ -1,0 +1,91 @@
+---
+id: 96869a74-562e-5356-9e73-2487c20ce24c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142 Year Four Begins"
+slug: 0155-chapter-142-year-four-begins
+partOf: melody-of-mana
+position: 155
+ownLength: 1648
+unit: words
+ownProgress: 1648
+publishedAt: 2022-06-03
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/919731/chapter-142-year-four-begins"
+royalRoadId: "919731"
+markedReadAt: "2026-06-29T22:31:11.975Z"
+---
+
+Before I could start my fourth year there was something I had to do. I didn't want to, well, okay, I kinda did, but at this point there was no arguments to be had. It was a requirement for my continued participation in classes.
+
+That was why I now found myself in Marcus' shop. No matter how much he complained he was still the best tailor in the city and I couldn't really go to anyone else. The man himself knew, or at least suspected why I was here and gave me a scathing look as I came up to his counter.
+
+"Marcus."
+
+"No, I already told you no." He didn't even seem to consider what I planned on asking him.
+
+"You are the best in the city, and I trust you more than anyone else with this."
+
+"There are a number of other tailors and dressmakers who will be happy to help you. I had my fill with that little monster Pinea, and..."
+
+"And what? If I thought any of the others would do as good a job then I'd go to them."
+
+He harrumphed, "I've already turned down others. Why shouldn't I turn down you?"
+
+"Because if you do, I'll get one elsewhere and then tell everyone I got it here. I'll up-sell it as hard as I can to as many of my companions as possible and even if it's not as good I'll make sure they know where to come. Or you could help me out and I can have conveniently forgotten where I purchased it."
+
+"You would actually blackmail me like that? Would you really do such a horrid thing?" He gave me a hard look.
+
+"Eh, probably not, but I'd still be pissy about you turning me down."
+
+"I'll make a deal with you," the grumpy old tailor said as he looked at me.
+
+"Hmm?"
+
+"The rumor is that you came up with a spell to make drinks. Teach me how to do that, and keep that I'm doing this again to yourself, and I'll do it."
+
+I nearly laughed. I would happily have shown him that spell anyway. With a smile I held out my hand for him, "Deal."
+
+"Come in the back then and lets get this over with."
+
+"Oh come on, it's just a dancing outfit, it's not that bad."
+
+He didn't say anything, instead getting straight to work. It was a marvel to watch the man in his craft. I'd learned enough about this kind of magic to know that what he was doing was the work of a master, honed over years into making what he considered to be works of art.
+
+The whole process took less than an hour, he'd rushed it I was sure, but that didn't mean that it wasn't better than anything else in the city. It had certainly helped that I knew exactly what I wanted, added to the fact that there wasn't much involved in this particular operation. Of note was the fact that while he was working Marcus had the most peaceful of smiles.
+
+The finished product was perfect. A pair of long panels covered me below the waist, if only barely, hooking onto a bottom that much like Pinea's looked like it didn't really exist. The top was a more complex affair than hers had been, with off the shoulder bits and several cords peppered with decoration.
+
+After trying it on and the last few adjustments I changed back into my normal clothing. I wasn't my friend, and wouldn't try to cause problems in the city. As I returned to the front with the outfit in a small box to pay the tailor scowled at me.
+
+"You always seem so grumpy, but you also seem to enjoy the work." I quirked a brow at him.
+
+"Just because I like making clothes does not mean I like dealing with people, particularly when those people can be a thorn in my side."
+
+"I'll admit to being a pain in the neck, but at least I gave you something different to work on."
+
+He rubbed his temples. "I'm married, you knew that right? I think the outfits are lovely, and making them is a challenge, but... Well, I don't really like seeing women other than my wife half-naked, makes me feel disloyal. Also, it's weird with some of you girls, I've known some of you since you were children."
+
+I grimaced a bit as I finally understood his objections. Perhaps I had been more pushy than I should have. As I looked back up at Marcus and put away my new clothing I sighed.
+
+"I won't tell anyone where I got it. To be true I had to for school, the professor insists that fourth years have one, and I wanted the best I could get."
+
+He huffed, but on my way out he called after me. "Oi, girl, your measurements have changed a bit since you were last in. Come by when you need to get your skirts lengthened again and I'll handle it for you." That was about the best that I was getting as confirmation that he'd forgiven me. Either that or he was telling me I was gaining weight, which I certainly wasn't.
+
+School settled in much as it was before. As more new students came in I couldn't help but notice that not only were the classes bigger, but they also contained almost no members of what I would refer to as members of the 'former noble' faction. Sure some of them were former nobles from one place or another, but of those, they didn't fall in with the remnants of the malcontents, not that there were many of those left now anyway.
+
+We now had to dress out before Atali Dance. Professor Etia would unceremoniously oust any girl who didn't show up in a proper outfit, something I suspected she wanted to do from year one, but had been forbidden to enact. Now though we were at the mercy of her demand.
+
+I looked better than most of my peers did on this account, matching well with Pinea and even getting a nod of approval as our teacher went over our outfits on the second class of the year. That was good, as I would have hated to be in the group of two or three who she outright told needed to get replacements.
+
+Other changes happened in Combat Magic. For one we had far larger groups for our exercises now, and we were all drilled hard on monsters like we never had been before. We also got a new spell to learn that would help us retrace our steps in certain encounters. Everyone was expected to learn it and it was fairly similar to what the item we'd had did. Professor Endel seemed to think this was needed so that we could go backwards should we ever enter something like the undercity again.
+
+The biggest changes by far though happened in Magical Item Creation. Both sides of that class had spent years drilling us with the basics and now we were getting to some really juicy things. We all knew the sequences well enough that we had a good understanding of how to make them work, but this year focused on making them work together in ever more complex ways.
+
+Our first major project was an item that moved through a series of different steps based on a few input runes. These could be touched to turn them off or on and allowed for a much wider array of function. That in itself was very cool but I now finally realized why the core had been putting so much more emphasis on the movement of physical items than our normal class did. It allowed for things like dials and items that would run through ever increasing complex designs.
+
+With the mixture of what I was learning in both I even managed to create an item that would change the active sequence based on some inputs. The changes weren't too big, mostly moving one section for another, but because the runes were tied as they were it was just possible to do. I got the feeling that the designer of the Guide knew how to do this too, based on what I was seeing. I also felt that he'd forgotten to write down specifics on it. This form of change went in my 'do not tell anyone about this for now' bucket while I looked into its current existence in society.
+
+With those changes going on I fell hard into my own personal research. The sewing spell was going quite well, and I was now confident that I could meet my mother's expectations with ease, which was good enough for me to let it to the side for now. Portals were still a beast, but as I practiced and worked out the kinks I could almost feel the mana cost reducing. High cost magic worked like that though, and before too long I could portal myself across my room, it was hard, but possible.
+
+Most of my nights I spend working on either my core or the Guide though. I was getting close in the latter to completion, and from there it would only be a matter of finding a way to securely make something akin to an appendix, or at least a physical copy with page numbers, and chapter headings, and a freaking table of contents.
+
+It was on one of these nights in the spring as I worked through my current chapter that I found it. Clear, concise directions, written as a note down below a major section. I wanted to scream and rage, and beat whoever wrote this with a stick as I read through it. It was all so simple, why did he have to be such a damn bastard about it!

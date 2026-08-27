@@ -1,0 +1,175 @@
+---
+id: 4beddb54-83b2-5cd0-8442-42e388b98c91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 – City Departure – Pt 2"
+slug: 0042-chapter-42-city-departure-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 42
+ownLength: 1758
+unit: words
+publishedAt: 2025-01-07
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1997858/chapter-42-city-departure-pt-2"
+royalRoadId: "1997858"
+---
+
+The thing lurched, its extra limbs swaying. Its flesh split open, revealing extra mouths. They all opened.
+
+No more horror levels. Kindra shivered and pulled out her gun. Gleon’s red beard blurred. His axe whistled and hacked into its body. A spray of purple blood shot into the air, spattering him and the forest.
+
+The thing ignored it. Its limbs reached for him. Claws slashed through the air, and he vaulted backward.
+
+Kindra swallowed and looked up at Sigrid. This is embarrassing.
+
+Sigrid gestured. Stone ripped from the ground and slammed into the creature, hammering it and ripping off extra limbs.
+
+The thing shuffled across the forest floor, reaching for Gleon with several limbs. His axe blurred around him, pieces of flesh, blood, and pus spraying into the air.
+
+How could nature make something that disgusting? Kindra exhaled and looked at Sigrid. “You can put me down.”
+
+“Nope.” Sigrid’s eyes remained locked on the thing.
+
+Dain moved cautiously forward and smacked the longer limbs away. Kindra contemplated trying to shoot it. Though that was going to be difficult while stuck in a princess-carry by a protective dwarf. She frowned. What can I do to help?
+
+Eyes across the creature’s body opened, and Kindra shivered. What the hell? The abomination lunged toward Dain, its limbs raking across his arms and chest.
+
+“Dain!” Sigrid shouted, and another barrage of stone smashed into it, ripping away the limbs. Dain staggered back, and a long arm shot out, grabbing him and pulling him closer.
+
+Kindra’s heart thundered. Her adrenaline spiked, and she saw them. Runes glowed inside the strange creatures. She rapidly worked on the counter.
+
+Gleon chopped with reckless abandon, ignoring the wounds on his body. Blood sprayed around him, and Kindra burned mana, sending a stream of glowing magic toward the creature.
+
+The magic hit it, and the runes snuffed out, canceling each other in a burst of magic. The creature screamed, horrific snarls, growls, and shrieks emerging from its mouths. Parts of it began falling off as the magic unraveled.
+
+God, that’s disgusting. Kindra shivered.
+
+Gleon’s axe slammed into its side, spraying pus and blood everywhere. The creature moaned, and a stone pillar erupted from the ground, staking it like a pile of rotten flesh.
+
+The thing went still, and Kindra shuddered. She looked at Dain. Blood oozed down his body, and Sigrid raced toward him, setting Kindra to the side.
+
+Kindra balanced and watched the two. Sigrid pulled him into a hug, magic flooding from her. That’s a healing spell. Kindra studied it, and an eruption of putrid blood flew.
+
+She darted backward. Gleon stood on top of the creature and chopped again, sending out another spray.
+
+“What are you doing?” Kindra asked, moving further away from the blood-covered group.
+
+“Ensuring it doesn’t come back.” Gleon shook his head. Rage lingered in his eyes. “Damnable blight.”
+
+“Blight?” Kindra probed, watching Dain’s wounds close. “Was it infected with something?”
+
+“Aye.” Gleon chopped again, cutting deep into its flesh. “I need to kill the host.” He slammed his axe down. A splatter of foul blood splashed next to the pair.
+
+“Be careful with that,” Sigrid said, shaking her finger at him.
+
+Gleon chuckled. “Been a while since my daughter lectured me.”
+
+Turning her focus to the body, Kindra studied it. There is magic inside. Is it corrupt? It flowed out and streamed straight into her, ignoring everything else.
+
+A small torrent of it filled her, and her eyes widened. What the hell?
+
+[Your mana has increased: 4487 → 4930]
+
+She reached inside, feeling her spent mana. I did get some from that… Should I level? She debated it. Having more mana meant more spells. Having more levels would boost things. Her face contorted as she debated it.
+
+“Don’t even give mana, rotten things,” Gleon huffed and swung.
+
+Kindra scrambled away. A burst of blood sprayed, and the head came off.
+
+Gleon jumped down, blood dripping from him. “Washing up.” He turned and headed to the nearby stream.
+
+Kindra followed him. “Gleon, what was that? What’s blight?”
+
+“Some spell or skill that the necromancers have. It infects things. Then, they lumber around killing things out here and becoming that.” He spit, disgust and disdain evident in his brown eyes.
+
+Kindra followed him toward the stream. “They do that?”
+
+“And far worse. They’re monsters.” Gleon waded into the stream and rinsed himself off.
+
+Kindra swallowed and touched the icy water. “That’s freezing.”
+
+“Aye. You’re young. I forget,” Gleon said. He turned and looked at her. “Let’s fix that.”
+
+“How?” Kindra asked.
+
+“We’ll go kill some things.” Gleon dunked his head in the water.
+
+“She needs to practice or else her skills will suffer,” Sigrid said, walking up. “The magic must know what to do.”
+
+Gleon sighed loudly. “She knows plenty.”
+
+“No. We haven’t covered enchanting, casting, or nearly enough crafting.”
+
+“Psh,” Gleon scoffed. “She just needs to know how to use an axe.” He grinned and gestured. “Let’s start by using it on that tree.”
+
+Kindra looked at him and back at the tree. “I can’t even cut it.”
+
+“And yet, you’re going to. No using your skill to give yourself a boost.” Gleon chuckled and led her back toward the tree.
+
+Kindra followed and watched the black and white vulture thing land on the carcass of the bear abomination. She considered pulling out her crossbow.
+
+“Do it,” Gleon whispered with a grin, gesturing at the bird.
+
+Kindra summoned the crossbow and loaded a bolt. Spinning toward it, she exhaled and fired. The bow twanged. The bird jerked up, and the bolt speared through its body.
+
+“Good shot. Maybe you’ll be a hunter,” Gleon said. He nodded to himself and got an idea. He walked to the tree and hacked off a branch. Walking over to the corpse, he grabbed it, slashed open the leg, and pulled out a tendon.
+
+Okay. Still gross as ever. Kindra watched him bend the branch and make a bow from it.
+
+Grabbing her bolt and the bird, he jogged back to her and held them out. “Use your axe to cut off a branch, and use the bow to shoot anything that comes over.”
+
+Kindra stashed the crossbow and looked at the disgusting bow. Blood trickled down the sinew, and she wrinkled her nose. “Ew.”
+
+“Nonsense. Strapping lass like you needs to learn.” Gleon handed it to her and gestured at a branch on the fallen tree. “Chop that while you wait.”
+
+Looking at the bow, Kindra burned a little magic to straighten the crude thing out. It straightened, and she stashed it. Grabbing her axe, she walked to the branch and chopped, the blade hardly denting the wood.
+
+Why is resource gathering so much harder in this game?
+
+[Who knows, you may unlock the rare lumberjack class.]
+
+Kindra smirked. Alright. The system is getting better. She slammed her axe into it, chopping repeatedly to slowly cut through the branch. She was not the only one. The others gathered around and did the same. While she hacked away, trying to break through the single branch, the dwarves slowly broke down the tree, piling the logs nearby.
+
+Kindra’s arms screamed. She breathed heavily and slammed the axe into the branch, making a tiny, pathetic notch. This will take days.
+
+Gleon smiled at her and slammed his axe through a branch, chopping it off in a single hit.
+
+Kindra massaged her arm momentarily and tried again, slamming her axe into the notch. The jarring impact rippled through her arms, and a bold rat darted up. It started gnawing on the corpse, chittering between bites.
+
+Gleon leaned closer. “Go ahead, hunter.”
+
+Summoning the bow, Kindra nocked a bolt and frowned. I need arrows. She grabbed a branch and the bird carcass, burning mana to turn it into a dozen arrows. Nocking one, she aimed at the rat, and a swarm of them rushed forward. They attacked the body in a fury, ripping off pieces.
+
+Kindra fired. Her arrow curved and flew off into the trees without even scaring the rats. They’re in more danger from old age than me. Sighing, she nocked another arrow. “Can’t I use the crossbow?”
+
+Gleon scoffed. “A hunter who can’t shoot a bow?” He shook his head.
+
+Kindra scowled at him. “I don’t want to be a hunter. I’m an artificer.”
+
+“Yes, but you need a good second class. One that lets you defend yourself.” Gleon chopped the trunk, spraying wood chips into the air.
+
+Cheating, Kindra burned a little more mana to create a notch on the handle. Aiming at the rats, she drew back an arrow and let it fly. It zipped through the air and soared far above their heads. Okay. Archery is hard. Where is my skill up or class to help with that?
+
+[The second class is unlocked at level fifty, and such skills are typically not given to artificers. Though it’s possible that you could gain an archery-related class.]
+
+Hmm. Kindra nocked another arrow and fired. It veered off and hit a large tree with a crack. And it’s broken. Grabbing another, she repeated it.
+
+Gleon grabbed a log and chuckled, leaning closer to her. “That’s why it’s better to be a berserker and paladin,” he whispered. “You don’t need to deal with bows.”
+
+“Says you. My build will be even better,” Kindra replied. “Now, let me use it so I can get a crossbow class.” She paused. Or gunner class. Is that a thing?
+
+[Yes.]
+
+Kindra grinned.
+
+“Fine. Use your cheater bow, but I expect you to practice when there’s nothing to shoot.” Gleon carried a log toward the tree.
+
+With a breath of contentment, Kindra dismissed the bow and pulled out the crossbow. It’s so much easier to aim. Loading a bolt, she aimed and fired. The bolt zipped across the field, sinking into one of the rats. Blood sprayed. It rolled across the ground, and every rat turned. They looked at Kindra and swarmed, their tiny legs racing across the ground.
+
+Her eyes went wide. Grabbing another bolt, she ratcheted it in. Suicidal rats! She fired, sinking another bolt into the rats.
+
+That did not deter them. The pack scurried across the ground, their beady little eyes turning red. Each mouth revealed large teeth.
+
+“Umm, Gleon?” Kindra shouted, looking and finding all the adults gone.
+
+“You’ve got this!” Gleon shouted. “Make us proud.”
+
+Kindra spun and ran, willing her crossbow away. The sound of chittering rats filled the air, and a scowl spread across her face. I hate this stinking planet and its mutant wildlife!

@@ -1,0 +1,257 @@
+---
+id: 8615c9d3-20cb-511c-aacc-f8dfeca93883
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 650 - City Lord?"
+slug: 0154-chapter-650-city-lord
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 154
+ownLength: 3202
+unit: words
+ownProgress: 3202
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2861373/chapter-650-city-lord"
+royalRoadId: "2861373"
+markedReadAt: "2026-06-29T19:39:59.968Z"
+---
+
+Tala and Eskau Meallain moved toward the door even as it slowly opened before them, large and ornate as Tala expected of the Major Houses and City Lord.
+
+She was quite content walking between the elf and Terry, but Eskau Meallain paused, clearing her throat and glancing at Eskau Pallaun and Tala’s chests meaningfully.
+
+Eskau Pallaun chuckled, darkness seeming to pull back, revealing his own emblazoned symbol of the House of Blood. “I am glad to see that the years have not changed you too much, Eskau Meallain.”
+
+The elf scoffed. “It has been but a blink.”
+
+A momentary pressure rolled over the entire area, a feeling of void and ending and of displeasure.
+
+Eskau Meallain had paled, and she cleared her throat. “Which is, of course, why my punishment has only just begun.”
+
+Eskau Pallaun had stiffened at the manifest attention of a Sovereign rolling across the plains and nearest buildings of the city. A mild panic had started in those few structures, but it seemed that it would settle down soon enough since the aura had passed almost as quickly as it had come.
+
+The three Eskau stood for a long moment before Tala shook the sensation off enough to register that there was mild panic through the open door of the meeting hold as well.
+
+Deciding to seize the opportunity that presented, she manifested her iron into the symbol of the House of Blood, details picked out in white steel. Then, just to make her position clear, she created a simplified version of the basic keystone inscription as a symbol on her back and other breast.
+
+The manifestations drew the attention of her fellows, inspiring first nods of approval, then looks of amusement.
+
+Terry had stiffened at the powerful presence, but he, likewise, shook off the freeze-instinct, shimmying, fluffing his feathers, and trilling at the sky.
+
+“Let’s go.” Tala strode forward, the other two Eskau falling in step just behind her. Terry flickered to be in front of her before shrinking slightly to allow her to be seen past him with ease.
+
+As such, Tala walked in, looking more like the High Pillar of one of the Houses who used that position. In the House of Blood, the closest post was the Eskau of War, which was a position not used for more than three thousand years.
+
+It was fitting, however, as it was how she wanted to be perceived. This was a time of war, and she was more than just Eskau to a Major House.
+
+Stepping from springy turf carpeted with long grass onto well-dressed stone was a bit jarring. As funny as it sounded, not having to will herself between the two caused the change to lack a smooth transition in her mind.
+
+Even so, both Terry and Tala navigated the transition with aplomb, entering into a large, ornate space that was the majority of the hold.
+
+The expanded space was two hundred yards across, and half as high in the middle, making a perfect half-sphere. The entrance opened near to one third from one side toward the middle, in a dividing wall that separated the ‘interior’ space from that which was modeled to look like it was ‘exterior’. That was but a small garden, the purpose of which she couldn’t easily determine.
+
+The interior section was decked out to look like the throne room of a king of antiquity with gold accents in abundance—oddly not even shaped into spellforms—and most features were made of stone that was beautiful by nature, expertly wrought and shaped to highlight those aspects.
+
+Oh, Rane is going to love this.
+
+The people gathered were clustered into three groups, all turning her way, away from a massive stone slab that showed the plains outside. -Well, that answers who was watching.-
+
+Yup, everyone. Tala was immediately glad for her overt display of strength and power, as silly as it had seemed with only Eskau Pallaun seemingly there to witness.
+
+-Yup, you were right about the observers.-
+
+Thank you.
+
+At the center of the expanded space—in clear pride of place—was the core of this hold, the vestige easy to see as it powered the magics, the spellforms that contained it also purifying that power and running the minutiae of the space.
+
+Tala chose to ignore it for the moment, despite its placement likely having been chosen specifically to cause an issue, or make a statement.
+
+The three groups of arcanes were made up of Eskau and Pillars of the various Major Houses in the city. Notably, Tala did not see any representatives of the Houses that Eskau Meallain was said to have driven off, and that drew a smile to her lips. Good on you, Eskau. Well done.
+
+One group of attendees was obviously the House of Blood and its supporters, Pillar Sanguis prominent among those there. Another was just as clearly hostile by their glares if nothing else. Interestingly, this was the smallest group, though their average level of advancement was quite high, several of their number being Revered.
+
+The final group was the largest, most likely those neutral to the House of Blood, or at least not fully decided.
+
+The only people not in those clusters were those moving between the groups and the laden tables spread out among the space—the servants—and the one upon the throne, raised up and overlooking the space, an odd table beside him: the City Lord.
+
+At that thought, Tala felt something shifting within existence, and she frowned.
+
+His eyes locked with Tala, and she had a momentary memory of all that had passed between them, how overbearing he had been in his power simply by being.
+
+She clearly remembered being under his authority.
+
+She was no longer.
+
+He was obviously the anchor point for the city outside as well as this hold, his Authority almost like a Hallowed… yet hollow in an odd way.
+
+Her eyes widened just a fraction as she realized something that should have been obvious well before then. He hadn’t taken that last step in order to progress into that tier of advancement, and unlike Eskau Meallain, he didn’t have the sheer competency with magic to advance regardless.
+
+-The City…- The odd shifting returned, and Alat stopped herself. -That man is unrecognized.- Alat was in awe. -No one who is truly Hallowed or above has ever acknowledged him as ruler over this city, in precedence over themselves.-
+
+A smile pulled at Tala’s lips. And they aren’t about to. I don’t think that us addressing him as ‘City Lord’ would be enough, but there is absolutely no way we’re risking it.
+
+His eyes narrowed, as he clearly noticed something, forcing Tala to refocus.
+
+Oh… we’re going to need something to call him.
+
+-Eskau Meallian might know his name. She’s old enough?-
+
+Tala flexed her authority just slightly to lock down the area around herself before creating her voice near the elf. “What is the name of the leader of this city?”
+
+Eskau Meallain’s eyes widened in brief startlement before she simply answered. “I cannot say. I knew it once, but it has been taken as it is for all City Lords. You can address him by the city’s name, if you wish. That is done on occasion.”
+
+Yeah… not doing that.
+
+Eskau Pallaun glanced her way, clearly having heard her question. “Be careful what games you play, Eskau. You are not so powerful that you could survive should this room turn against you. He could do that with a word.”
+
+Tala glanced his way, her enhanced thoughts settling and calming about the topic, leaving her at peace. “So, you have bowed to his authority, then?” As the man’s eyes widened in surprise for the second time that day, Tala smiled. “No matter. It is no loss to leave a man his own home, nor is it slavery to be polite when within the walls.”
+
+With that said, she released the slight flexing of her will, and she could be heard by those outside her influence once more. “Greetings, Revered City Lord.”
+
+She gave a bow between equals, right hand rising to cover the crest of the House of Blood for the motion. Normally, such an action would be used to highlight the fact that, before him, the House meant little. In this case, it served to highlight the representation of gated humanity on the other side of her chest. -Revered City Lord. That’s perfect! Well said, Lisa would be proud.-
+
+Tala had a half-smile on her face as she straightened, the City Lord rising to stand before his own throne, the dais—along with his own greater height—allowing him to tower significantly over her. “It is a pleasure to return to this fair city once more, after so long an absence.”
+
+There was utter silence within the hall as she finished speaking. In that momentary pause, when everyone was holding fearfully still, Alat took a moment of brainpower to check something. -Oh… all the servants are human… subtle.-
+
+Probably meant to demonstrate us as lesser. She honestly didn’t care.
+
+Pillar Sanguis cleared his throat, speaking before the City Lord could. “Welcome home, Eskau… Tala.” It was the briefest of hesitations, but it was noticeable to those with enhanced perception, meaning every guest in attendance. “We of the House of Blood are grateful to the City Lord for hosting this event in honor of the return of such a scion of our House.”
+
+The City Lord relaxed marginally at those words, giving Pillar Sanguis a nod of acknowledgement before he returned his attention to Tala, not bowing in the slightest. “Tala,” The lack of a title stood out starkly in the formal atmosphere. Moreover, Tala felt the mere statement try to pull at her authority, attempting to lessen it. The effort fell entirely flat as she was quite used to her name being stated without any title. Thus, it was trivial to brush off the meager attempt even as the man kept speaking, “you are indeed welcome back to my city. I hope that you enjoy your stay with us. May it be one to foster prosperity and amicable interactions.”
+
+It was only then that Tala noticed what was on the low table beside him: Collars, their dasgannach clear within them.
+
+A smile pulled at her lips, but she suppressed it as she got an idea. Still, she couldn’t be overt about it, or he might suspect something. She wanted at least one of those collars to study, preferably a lot more than one. She needed to play her cards right to make that happen, or more accurately, to ensure that it happened, given the very presence of the collars implied it was already planned on his part. Subtlety. I can do that.
+
+-You? Subtle? Good luck.-
+
+Tala ignored Alat as the first of the other Houses stepped forward. “The House of the Turbulent Ocean welcomes you to Platoiri.”
+
+She was momentarily confused. Didn’t they leave Platoiri?
+
+-I guess they have negotiated for a return, at least in part?-
+
+Huh. Fair. Tala gave a bow of acknowledgement.
+
+A wolf-kin stepped forward, his bone protian weapon flaring with magic as he met her gaze and gave a slight bow. “The House of the Lupine Moon welcomes you to Platoiri.”
+
+She kept eye contact and gave the barest of nods of acknowledgement.
+
+“The House of the Eternal Fires Within welcomes you to Platoiri.”
+
+“The House of Stone welcomes you to Platoiri.”
+
+That must be an older house?
+
+-Because of the simpler name? I suppose?-
+
+An alabaster hue-man stepped forward and didn’t bow as he made his pronouncement, his Eskau clearly waiting behind him. “The House of the Frost Lance acknowledges your return to Platoiri.”
+
+They’re new, right?
+
+-Seems so. We were told that the two newest Houses were not well disposed to the House of Blood. This is likely one.-
+
+Tala just smirked back at the man, gaining a scowl in return.
+
+“The House of the Feather welcomes you to Platoiri.” The avian-kin gave her a wary look, and Tala thought he might look familiar. Though, to be fair, many of the beast-kin’s distinguishing features weren’t obvious to her, even with perfect memory.
+
+“The House of Iron welcomes you to Platoiri.”
+
+Oh, I like that one.
+
+-Don’t be biased… and no, you can’t eat a whole House.-
+
+Spoil sport.
+
+“The House of the Ursine Fundamentals welcomes you to Platoiri.”
+
+The large grey bear-kin bowed deeply, well beyond what was dictated by propriety, and his black, panther-kin Eskau visibly sighed behind him.
+
+Tala found herself smiling at the pair. She returned his bow, if not as deeply.
+
+“The House of the Falling Moon welcomes you to Platoiri.”
+
+“The House of the Stalking Prowler welcomes you to Platoiri.”
+
+“The House of Holds welcomes you to Platoiri.”
+
+Wait, there is a ‘House of Holds?’
+
+-Yes, we didn’t really interact with them much. They were the first of the Major Houses to adopt the use of holds, and they took on that name as a mark of pride in that accomplishment.-
+
+Interesting.
+
+And on and on it went for nearly fifty Major Houses. Some had holds within the city, others simply had strong economic—or otherwise—ties to Platoiri, meaning they only had an official, or occasionally a single Pillar or Eskau—with retinue—in the city at any given time.
+
+Finally, Tala addressed the Revered City Lord once more, moving her plan forward. “Thank you for the welcome. It is good to know that I am so received. Even so, I confess, I must address one concern.”
+
+He raised an eyebrow in amusement. “Oh?” His voice lost all mirth then, as he continued. “I listen.”
+
+She gave a lower bow, shifting it to be the bow of apology, rather than acknowledging power. “I departed this great city without your permission, when last I left, and in the course of my journey, I broke your collar.” She gave an apologetic smile as she straightened. “I will say—on my own behalf—that it was trying to kill me at the time, so I claim self-defense. Even so, I feel it right to apologize for my actions.”
+
+Silence fell once more, but the enthroned man simply leaned back and chuckled lightly. “Oh, fear not. You did not offend me. I allowed you to leave in the hopes that you would help to shake up the stale state of our little continent. I am always gratified to be proven correct.”
+
+Tala blinked at him a few times. Oh… I expected him to fight me on that.
+
+-Did that ruin your plan?-
+
+No, but it was unexpected. She smiled graciously. “Thank you for your allowance then.” She made as if to turn away, but then she pivoted back. “Oh, I forgot to mention, but I apologize, I won’t be wearing one again, nor will any of my people.”
+
+That pronouncement caused ripples throughout the space. Not only was it openly defiant, to follow through on the words would be a breach of Platoiri’s law, and everyone—including Tala—was curious how the Revered City Lord would respond.
+
+They didn’t have to wait long. “What.”
+
+His tone and inflection was not that of a question, but Tala answered it regardless. “The collars. They won’t be needed, and so we won’t be wearing them.”
+
+He leaned forward, eyes narrowing once again.
+
+Then, another memory from their previous interactions came back. She had been less than perfectly respectful toward him before on some slight matter, and he had taken her arm without seeming to use magic at all.
+
+This time, she saw the attack coming.
+
+It actually wasn’t magic. It was purely an exercise of authority, honed to a razor edge and executed upon someone who was fully under his aegis.
+
+But Tala wasn’t, not any more.
+
+There was the suggestion of the sound of a blade ting-ing off a heavy chain, and Tala’s nets of reality iron chains rattled both stone- and starward of the hold’s superficial, small ripples traveling through them back toward her.
+
+One of the links had been deformed, almost severed, but she repaired it immediately with barely a thought.
+
+Still, that wasn’t as much of a victory as it might appear.
+
+The man had been able to wield the mere fact of his position in the city to physically damage the manifestation of her aura and authority without the use of a physical medium of his own.
+
+She had to remember that, despite her considerably increased power, this man was still not someone to trifle with.
+
+She swallowed at the implications while at the same time trying to understand exactly what he’d done and how. It seemed that she had a lot that she could learn, if she could find a way to do so.
+
+For his part, the man’s eyes widened in obvious surprise on his side as well, if due to the deflection rather than the nature of the attack.
+
+Most in the room wouldn’t have heard anything, but Eskau Pallaun clearly had, as had many of the Pillars of the various Houses. Most wouldn’t know or really understand what they’d heard, but a few were looking at Tala with new eyes, mixes of fear, confusion, and curiosity clearly churning within them to various degrees.
+
+Tala gave a tight smile, straightening her back just a bit. “I think that you have mistaken my position here. I am something of a City Lord in my own right, if a relatively new one. I am not invading, but I am also not submitting myself to you, here.”
+
+His nostrils flared, and he stood. “Then you will not be entering my city. All gated with any control over their power are to be collared, this is the law.”
+
+Tala arched an eyebrow, then shrugged. “If that is indeed the requirement, I suppose that you may collar me if you want, but it will be rather useless.”
+
+It was his turn to blink in confusion, a frown creasing his brows at her seemingly abrupt change of position. “You will be collared?”
+
+There were ripples of confusion through the other guests as well.
+
+Tala nodded. “I see no point, but if it is a requirement?”
+
+She left the rest unsaid. He held out his hand to the side, and one of the collars snapped into his grip, opening of its own accord. “Approach then, so that we can move past this oddity.”
+
+Tala smiled, striding forward, Terry remaining with Eskau Meallain even while Eskau Pallaun moved over to the group with the House of Blood.
+
+The man came down from his throne, meeting her at the foot of the dais, putting the collar around her neck in a quick motion, as if expecting a trick.
+
+He seemed to relax once it was sealed in place—a spark of authority acting to meld it into a single piece—turning and climbing back to his throne, clearly not having understood at all.
+
+Tala grinned. “See? Useless.”
+
+He turned once more, just in time to see her grip the collar—one hand on either side—and pull, shattering the metal and releasing the two dasgannach in a blaze of magic.
+
+The nearest attendees gasped, pulling back in horror as the living curses flowed across her.
+
+Tala’s smile only grew.

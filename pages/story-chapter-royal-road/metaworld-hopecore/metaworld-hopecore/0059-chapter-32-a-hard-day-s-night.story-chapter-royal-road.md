@@ -1,0 +1,177 @@
+---
+id: 4f0b85c4-45fa-59e6-ab25-151d0fe60181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - A Hard Day’s Night"
+slug: 0059-chapter-32-a-hard-day-s-night
+partOf: metaworld-hopecore
+position: 59
+ownLength: 2336
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376682/chapter-32-a-hard-days-night"
+royalRoadId: "3376682"
+---
+
+“The heights by great men reached and keptWere not attained by sudden flight,But they, while their companions slept,Were toiling upward in the night.”
+
+LongfellowThe Ladder of St. Augustine
+
+While waiting to return to LAPA, Eric explained what Maddy Filmore had told him while Eppie removed three layers of makeup and returned her hair to neutral.
+
+For the Sony shots, retouching usually took two weeks, but Okamoto-San was so pleased with the results that he may only opt to remove makeup imperfections. After that, Filmore would give the final approvals, then Sony would run the images through their internal pipeline: associate journalists, industry exchanges, corporate, you name it.
+
+Her cross-promo with LAPA would take longer, being released to the school after her Fall Gala performance as Antigone; furthermore, pending her performance of the two songs she had planned with Zara, they may need more, such as couple shots.
+
+Seventeen had slated her for March 2008, with the issue hitting the supermarket stands in February. It was a bit of a gamble for the publication, and they were somewhat strong-armed into it by Frederick Curon’s promise that a certain song would bring home a Grammy on the 10th of February, thereby rocketing both the magazine and Eppie into the stratosphere.
+
+Looks like Filmore is due for a quadruple promotion, Eppie mused to herself, understanding that incidentally, the world had yet again worked itself to stand in her favour. Either the [System] had a sense of humour, or Director Curon was just that bloody good. That and Kellie would soon turn the whole Lucia Lancet rivalry on its head, DJ table and all.
+
+For now, she had a whole new contact list added to her phone, ready to be blessed with future gainful employment.
+
+Monday rolled in with the cold, six weeks and counting to the Fall Gala, close enough that students were beginning to feel the stress. Rehearsals were tightening, and groups began to jostle for time to practice in the Playhouse.
+
+Nonetheless, classes were still happening.
+
+English Honours opened with Act TWO, the most controversial scene in all of Shakespeare.
+
+Taking place in a forest, the “Moor”, the “Other”, the naked evil that is the lover of Tamora plotted the rape of Lavinia by the Queen’s two sons, and the framing of Titus’ other children for murder.
+
+Here, Tamora’s sons, Chiron and Demetrius, would slay Bassianus and drag Lavinia into the dark woods. In the same act, Quintus and Martius, Titus’ boys, would be framed for the death of Bassianus, kin to the Emperor, and be slain by the very laws his father upheld.
+
+Here, the audience would find Lavinia, handless, tongueless, bleeding out her existence.
+
+“Before we begin,” Dr Kirby said seriously. “Let’s get it out of our system. Let’s not skirt around something that happens somewhere, sometime, every day, even here in America. Who would like to volunteer?”
+
+Eppie shuddered involuntarily. James Jules raised his hands.
+
+The hunt. The forest. Bassianus killed. Lavinia… was... er...
+
+“It’s not a dirty word,” Dr Kirby told them. “It’s life. It happens in our industry even now. Say it. Acknowledge it. Have power over it.”
+
+Brutally assaulted. Tongue removed. Hands removed. Left in the forest. Found by Marcus.
+
+“Yes,” Kirby answered the uncomfortable silence with a clap to break the tension. “Now, let’s make you all even more uncomfortable—why did this happen?”
+
+Power. Eppie answered silently.
+
+“Their power manifests in her silence,” Kirby spoke to a silent room. “Its far more logical to have Livinia killed, and yet—”
+
+Kirby brought up a list of critics who argued that Titus Andronicus, for this scene among others, should be removed from the Shakespearean Folio. It was almost never performed from the late 1600s to the 1800s, and in America especially, the play was avoided like the plague. Some critics point to the dark-skinned orchestrator of the rape, Aaron the Moor, but thespian in every age knew the true reason.
+
+The scene was too raw, too gratuitous—and too reflective of US history, especially in the Deep South.
+
+“The theatrical simulacrum’s purpose is, in many cases, to make the audience feel quite uncomfortable. It takes them into a place that's already of discomfort inside of them, and then they are trapped there, looking at themselves and what they would do.”
+
+“The assault never happens, EVER, on stage. We only see the aftermath.”
+
+Kirby spread her hands. “Why her hands and her tongue?”
+
+“So she can’t testify,” Cameron Atkinson answered.
+
+“She is the evidence—well, there’s no DNA testing back then—but she’s the evidence,” Lucy says with a quiet voice. “And yet, she can’t provide the evidence because she can’t write and she can’t speak.”
+
+“Yes, because Roman Law has certain legalities,” Kirby says. “Sophistry, of course, but that’s the social contract.”
+
+Slut shaming. Legal proceedings. Witnesses being silenced. Eppie remained silent as well, thinking of Mio, somewhere in Fresno, unable to speak. In their civilised age, William didn’t even need to take off her tongue or her hand.
+
+“She writes with her stumps, with a rod, in the sand” someone pointed out the obvious.
+
+“Not the point” Dr Kirby shook her head. “The silence isn’t just physical. It’s legal as well. Shakespeare wrote the play in 1594. Even in that world, nearly sixteen hundred years since Anno Domini, the words of women do not hold up in court when your assailants are the sons of the Queen of Rome. The brothers are cruel not because they can, but because it shames her father, because they fear no consequence.”
+
+Eppie took notes like an autoscribe, fighting the rage building inside her.
+
+“You’ve all read the play, so let's move forward a bit. How does Lavinia communicate then? Eventually?”
+
+Atkinson volunteered. “She leads her uncle with a book. Ovid's Metamorphoses. Philomela. Greek myth, retold by Ovid. She was raped by her brother-in-law, Tereus, who then cut out her tongue so she could not tell her sister what he did.”
+
+“And what does Philomela do?” Kirby chased up the question. “Eppie, you’ve been awfully quiet.”
+
+Eppie looked up. She knew the story. She knew the theory. But not like this.
+
+“Philomela weaves a tapestry,” she answered. “She weaves it into cloth, a classic Greek symbolism of the fates and of storytelling, and she sends it as her testimony. She—”
+
+Eppie felt her head fill with a sudden, unexpected heat, like the spark of a new star igniting into being.
+
+“She… that is, Lavinia, uses a script to show the truth. She uses Ovid’s play to tell her father what happened.”
+
+THE PLAY! Eppie felt her brain burn. THE PLAY'S THE THING!
+
+She finally knew how to skin the [Usurper] known as Willian Chen.
+
+"The tapestry," Kirby continued, setting the homework for the week. "The play. The testimony that finds a form despite everything designed to prevent it. That’s why we do this play today, despite the public protest. The answer isn’t the violence, or the revenge, but the truth beneath the truth: how does a silenced person speak? How can dignity and justice be exercised in a futile, biased system?
+
+Her mind continued to burn with possibilities all through Algebra. Formulas fade into scripts, and scripts fade into equations. She spent an hour doing the work she usually finishes in twenty. Mr Ali noticed this, but he does not disturb her. She was one of his best students, and if she wanted to daydream about theatre, then LAPA was certainly the place to do it.
+
+In the arts block, they returned to in the black box rooms. Costello took the crew through the basics. Cooper took them through voices. Laban’s movements were expanded upon. Everyone took their turn in the Ensemble.
+
+Costello and Cooper took turns playing Creon to her Antigone, Seyrova played Ismene and Antigone to others. The students listened with rapt attention as the instructors shared advice and experience, anecdotes and hints.
+
+In the afternoon, Eppie passed Simone Goode in the corridor. The gazelle girl looked to have lost weight. She looked tired, but she was hanging on. She does not run this time. They do not speak, but pass each other without breaking stride.
+
+On odd days, she joined Zara, and the two finalise the chord changes for In the Pines, with Dream a Little Dream of Me still in progress. Like lovers of a duet, Zara played the guitar line, while Eppie sang it back. Zara then listened, noted the effect, and they continued. Their conversation was wordless, conveyed through notes and score sheets.
+
+"Dr Ford's going to hate the combo," Zara plucked the strings sadly.
+
+"Ford's going to love the combo," Eppie said. "He'll say he hates it, but then he'll approve it."
+
+Zara looked at her, though her eyes were elsewhere.
+
+[Composer]Causality Tier (B)
+
+You can compose complex arrangements pertaining to instrumental music. This Trait is boosted by additional Traits in proficiency of instruments and their performance.This trait can be improved through training, performance, and Karmic Causality
+
+"Sony’s already bought the rights, they’re just waiting on delivery…"
+
+Zara considered this. Then she laughed and closed her notebook, shaking her head in disbelief.
+
+At night, she met with Lim in the sacred darkness of the Stray Cat Society. She informs Lim of Eric’s insight. The futility of true legal justice, the pain it may yet cause to Mio, the prolonged pain with no catharsis.
+
+Lim was silent, then asked her for her wisdom.
+
+They agreed on engaging the services of Charlene Lafitte.
+
+Lim informed her that William has kept both himself and Valorie on a tight leash. Their own Fall Gala was coming up, and despite everything, there was no nepotism when it came to the discerning eye of industry judges. William was knee-deep in final shots, re-shots and edits, while Valorie’s crew were running rehearsals to the ground in a private theatre William’s father rented.
+
+They had time—at least until Eppie stirred the pot once more.
+
+“Me?” she looked up at the man defiantly. “Does this look like the face of a shit-stirrer?”
+
+The days that follow blended into one, until, on Thursday, the 8th of November, in the Arts Block, Euphemia Fontaine joined Zara Arriaga in front of Dr Ford.
+
+Dr Lucas Ford’s office was modest. He was of the VP Thomas Faction, but he had also chosen to remain in the same office from which he had trained Tony and Grammy nominees, with the rare winner every few decades. His room smelled of cheap coffee, music sheets, electric warmers, and the unique scent of instrumental wood.
+
+He was known in the industry, but not really famous. Ford had made peace with his lack of success in the eighties, when he had worked with a number of headlining bands, always in the background, always unseen. He became a bit of a mercenary, having credits on eleven No. 1 albums, always in the margins. He received enough royalty cheques to ensure a luxurious life, then he found a passion for teaching. Ford was originally recruited by Arthur Burton, but it was VP Thomas who made him Chair. She wanted a Commercial Music Programme, and he was the man to run it.
+
+When the girls walked in, his gaze went straight to Sony’s songbird, the sole teenager elevated by Curon out of all the songwriters in his vast media stable. Ford did not like Curon. The man was not a technician; he wasn’t even a musician. The fact that Curon picked hit after hit was something Ford could not understand, even if he wrote five more doctorate-tier dissertations.
+
+The girl sat.The girl smiled. Ford’s tooth ached. How could anyone be so sweet? He caught himself from smiling back. He feels amazed that Sony wasn’t leading with her portrait plastered over everything she ever wrote or sang. Was it Curon who ordered her face to be hidden? Maybe. The music industry could be a sick place for a young woman. In the past, many of his students had made it into the mainstream. The ones he always regretted losing were the ones with three paragraphs about their figures and one about their songs. To Ford, the moment a producer starts thinking about visuals over the auditory; that was the end of a singer’s career. It was one of the things about the industry that made him never want to join it in earnest.
+
+"Welcome," he said.
+
+He had their arrangements on his desk. Zara sent them on Tuesday and he had made notes in red ink in the margins. Neither of the girls could read the notes from where they were sitting, and they were nervous.
+
+"The combo," he said to his student, watching her squirm.
+
+Zara glanced at Eppie. Eppie winked. Mischievous, too, Ford remarked internally.
+
+"I like the combo," he says. “It’s got bite.”
+
+Zara exhaled.
+
+Ford picked up the sheet for "In the Pines." He held it aloft for a moment, hearing the song in his head, then motioned for Eppie to answer. "This is a dark song for a Gala, Miss Fontaine."
+
+"I know," Eppie agreed.
+
+He waited for more. She didn't offer more. He looks back at Zara.
+
+“Why so dark?” he asked. It was not quite a question. “I know Zara built her arrangement around your singing. What the hell are you trying to say, even?”
+
+“The truth," the girl said, her eyes suddenly serious. “Sir, I promise that you will be blown away. All of the audience will.”
+
+Ford heard the earnestness in her voice. He felt… strangely persuaded. He couldn’t quite put his finger on the pulse, but he found himself nodding before he could fully control himself.
+
+“It’s Zara’s life on the line,” he reminds her. Then he signed the approval sheet.
+
+The girls left. Euphemia’s face remained at the fore of his mind as he picked up the sheets and played them out in his mind once more. A pretty face. A haunted face.
+
+There was something here, some secret. Ford felt acutely that he was right. What does she intend to do?

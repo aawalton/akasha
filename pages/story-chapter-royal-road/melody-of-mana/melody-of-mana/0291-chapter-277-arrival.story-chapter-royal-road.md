@@ -1,0 +1,59 @@
+---
+id: a1573914-6041-5253-9a30-570306681294
+page-type-slug: story-chapter-royal-road
+title: "Chapter 277 Arrival"
+slug: 0291-chapter-277-arrival
+partOf: melody-of-mana
+position: 291
+ownLength: 1216
+unit: words
+ownProgress: 1216
+publishedAt: 2023-10-19
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1379326/chapter-277-arrival"
+royalRoadId: "1379326"
+markedReadAt: "2026-06-29T22:35:52.815Z"
+---
+
+After the children and their 'official' chaperones had made it through the gate I slipped in, moving behind them quietly. Well, pretty much everything I did was quietly, since there were spells in place canceling the noise of my feet and clothes, and making sure that there was no incidental noise heard from me.
+
+Over the past may years I'd steadily improved my spells, particularly when it came to stealth. After failing so many times because of being spotted I'd dedicated a bit of time to making sure that would never happen again. No more would stopping me be as easy as finding a rare individual with both physical magic and the ability to focus it on their eyes. Even my own were now hidden perfectly, a few tricks of light and perspective getting rid of the nearly invisible pupils that had been a hallmark of my passing.
+
+Sadly on the other side bodies were still shuffling around a bit, everyone trying to get into position for the reception. Once or twice I had to give space the most gentle of nudges to let myself through. This spell was one that had taken me an embarrassingly long time to come up with. It was much like the spatial deformation used in portals but so very much more subtle. Rather than a proper gateway the area just shifted a bit, turning inches into feet. Subtle or not though it wasn't perfectly invisible, and very, very well trained people who knew what to look for could still see it. There was also a sort of practical limit, pushing through an area a few inches wide was one thing, but trying to get under a door was another, and would basically just be a portal.
+
+There were a few greetings by the staff and visitors on the far side, and one in particular. This elf was clearly older, and with slightly longer ears than was average around here.
+
+“Welcome, welcome to the wonderful students of Penumbra. I am Headmaster Indir, and let me be the first to bid you good day. It brings my heart joy to see you all, and soon enough I'm sure we'll meet once more, but I understand you've been through several speeches already so if you'll follow my assistants here they will show you to your rooms.” The man in question spoke in Atali, with a slight accent that if I was reading it correctly sounded very proper, almost like my old friend Justin.
+
+A quick glance out the window confirmed what I already knew, that while we'd left in the early afternoon, it was still morning here, so far to the west. That change was being widely discussed in some circles, mostly the ones who didn't already know such things.
+
+Almost everyone had left, with only Headmaster Indir and a few others, potentially staff, left. There was also an elf there with armor, her potent aura focused around her head like a small mist. A female elf moved up to his side and looked around curiously.
+
+“Sir, wasn't their headmistress supposed to...” she asked.
+
+“Greetings,” I said, letting my protections fade slowly and stepping forward.
+
+The armored elf snapped her head in my direction eyes bulging. “No sound, no smell, no visual cues, no aura? Ancestors above I'd heard you were subtle, but that's something.”
+
+“Headmistress Alana I presume? Lovely to make your acquaintance,” my counterpart said with a smile.
+
+“And yours sir. I do hope we get the chance to work together in the future as well. I feel there is much progress that could be made through such cooperation.” That was the official line.
+
+“Indeed, though I know that our magical research is ahead of your own nation's I must say the mastery you've shown in this teleportation magic is not something even our people can yet produce reliably,” the other magus admitted with a small smile.
+
+“I've long known the research team involved in it and I would suggest the utmost care if you try to pursue it. There have been accidents, they have been... catastrophic, and that with some controls in place. Though if you want more of these portals that might be something our governments can arrange,” I replied.
+
+“Advice I will take to heart. On a more happy subject though, let me welcome you as well. I know you're here to watch over your students, but I hope that during your stay you'll get a chance to see our fair land for yourself,” Indir said, opening his arms.
+
+“That would be wonderful Headmaster Indir. I once traveled here long ago, but sadly I didn't get to see much of the city,”
+
+We talked as we walked, and I could tell that the elves were as proud as ever. In a sense, they had a right to be, when it came to magic and standard of living they blew humanity out of the water. As such, they were ever eager to show how magnificent their lands were, how nobody went hungry, and housing was large and of the highest of qualities.
+
+I smiled and nodded, but we both knew the truth, elven culture was high, but nearly stagnant. They didn't innovate at anything near the rate of humanity, never tried to improve designs or materials. For so long the elves had been leaps and bounds ahead of everyone, but their leadership kept things from progressing.
+
+The real benefits the elves had were that they were obsessive, perfecting things to a pristine degree. The few elven magical items that had made their way across the seas and into my hands had never displayed anything unusual, but they'd all been pushed to the limit of their capabilities. The sequences and codes that governed each were pristine, optimized as far as they could be. That and the fact that basically every elf had at least some mana, and it was hard to compete with them in magic.
+
+Elves had a much higher rate of mages than humans, even if their population was much lower. Even those who weren't mages were almost always what we would call 'talents' back home. These were rare individuals who had magic, but only one ability, and could normally only use it once or twice at a time. These tended towards small things like being able to make a gallon of water, or healing small wounds. They could even manifest as physical quirks that let a person greatly increase their abilities for a short time. Even though they weren't full mages these people could still put their small quantity of mana in an item, allowing them use of the elven infrastructure.
+
+After our chat I was shown to my room. It was separate from the main dormitories, and rather nice. They'd even been so kind as to provide a schedule of all the planned events and maps before I could ask. There were a number of tours and meetings, meals with the staff and students here, all rather regular activities.
+
+“Well,” I said with a sigh. “It looks like it's going to be a rather long trip.” After setting down the few bags I'd brought with me I turned and headed for the students' dorms. If they were going to make trouble, it might well be immediately.

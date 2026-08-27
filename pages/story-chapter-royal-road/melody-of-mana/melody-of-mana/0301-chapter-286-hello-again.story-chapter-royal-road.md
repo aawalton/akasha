@@ -1,0 +1,109 @@
+---
+id: 565e7abc-ea38-5070-a5f9-414eb57a3533
+page-type-slug: story-chapter-royal-road
+title: "Chapter 286 Hello Again"
+slug: 0301-chapter-286-hello-again
+partOf: melody-of-mana
+position: 301
+ownLength: 1498
+unit: words
+ownProgress: 1498
+publishedAt: 2023-11-22
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1418009/chapter-286-hello-again"
+royalRoadId: "1418009"
+markedReadAt: "2026-06-29T22:36:13.158Z"
+---
+
+Rodrick Penumbra
+
+“Stop fucking getting in front of Amara! If you die, I can't heal you!” screamed the angry priestess from the back, she really was a breath of sunshine that one.
+
+I kept channeling, kept pouring mana into my spells. There was one thing about being a bard, that it was slow, but if you could get things going... well, that really did get going. Earlier in the day I'd been going for defensive measures, but when it became clear that it was going to be a lot of fighting I'd changed over to offenses.
+
+As my feet moved and my voice peaked I saw the streams of water being pulled from the giant crab's carapace, a steady flow from all of its joints and onto the ground below. Perhaps I lacked the explosive capacity of my comrades, but how much water did any animal need to lose to just die? Not much, that was certain, and aquatic animals were no less sensitive to it. I'd killed my fair share of these already, and this one was slowing down even as I watched.
+
+Beside me Veska, my dear Veska was grabbing up that water and turning it into deadly projectiles of ice. Her hair blew in the wind and I was very, very nearly distracted as she turned briefly to smile at me. Maybe she didn't speak about it most of the time, but I could see from the fire in her eyes, matching the tone of her blazing hair that she lived for this.
+
+Our enemy wasn't going down easy though, bobbing and weaving from side to side as it tried to pick apart the front-line fighters with its claws. Amara was supposed to be on point, keeping the creature's attention, but every now and then one of the refugees would decide they wanted to take a shot at a chink in the shell. This was a source of great frustration for our healer, as...
+
+I couldn't do much as one of the men thrust forward, makeshift spear aiming for a softer looking part of the belly. With a flash of movement a claw zipped outwards, snapping shut and sending a spurt of blood into the air. The elven man went down screaming, his arm held in the grasping appendage of the magical beast.
+
+A cursing Lena sent forward a spell, sealing up the wound on the elf's arm as one of his fellows tried to pull him away. He wasn't the first to get hurt, or the fifth, though he was probably the worst injured. Mostly people had been struck and sent flying, but if things continued they might well start to die.
+
+Regardless Amara didn't let the monster's momentary distraction go to waste, her sword zipping forward in a beautiful arc and separating both of the monster's eyes from its head. From that point forward it wasn't much of a fight, with everyone backing off and letting the ranged attackers finish it up.
+
+Our knight was nearby huffing as she tried to catch her breath. “What was that fourteen?” she asked when we finished up with the beast.
+
+“Fifteen,” her brother answered.
+
+“At least a lot of them seem sick,” Illa said, and I nodded agreement.
+
+“Yeah, but sick from what? We don't know anything about these, maybe there are some just born weak, but maybe something's getting to them,” I commented.
+
+Of all the crabs that we'd fought maybe a third were sluggish, slow, weak. As soon as they'd started moving they basically stopped, instead thrashing weakly. It made them really easy to dispatch, but caused other problems.
+
+“Hey, Lena, can you check one of those after you're done? See if there's something wrong with it? We need to know if there's some disease or something we should be worried about,” I requested of the healer, who was still stabilizing the guy who'd now be left handed.
+
+She gave me a look that could have cut glass, but did as I asked.
+
+“Nothing's wrong with it. Well, actually it looks like it was suffocating or drowning. Maybe they need water to breathe?” she said with a shrug.
+
+“Then we need to keep heading inland, away from the bulk of them and where they'll have a harder time,” Omos declared.
+
+Our brave leader could be a bit of a jerk sometimes, and really couldn't take a joke, but he was right here. Not that we hadn't been headed inland anyway, but he was right. Unfortunately the sheer number of these beasts was causing problems, as was the size of our group.
+
+Our classmates were quick, and trained to be so, we were also stronger than most. On the other hand the many elves we'd come to take under our banner weren't. Many of them were young, or old, or just injured from the tidal waves, and it was slowing them down. Between that, the monsters, and the destruction blocking or destroying paths we were going at a snail's pace.
+
+“We need a clearer path,” I told Omos. “It's almost noon and we've made it what? Five miles? Heck, you float me up a bit and I could probably still see that hill we stayed on last night.”
+
+“Suggestions?” he asked, sadly I had none.
+
+“There was a road that shouldn't be too far,” one of the elves pointed out, indicating a slight northerly direction.
+
+“Was it higher or lower than the ground around it?” Amara asked.
+
+“Um...” the woman considered for a moment, clearly thinking about the road itself.
+
+“Not high, but it ran along a river, which would probably been lower than it,” another of the refugees answered.
+
+“That way then,” Omos declared, leading us forward.
+
+It was about another mile before we made it to the road. It did look to be mostly clear, save one little problem. The road we were trying to get to was on the other side of the river from us. Our side was nowhere near as clear, but at least it was better, so we began following the water. The river looped North and West, away from the coast. Traveling here was faster, though not by much.
+
+As the afternoon wore on we saw our first other group of people, the shouted and waved, but were opposite from us as well. Well, projecting your voice was part of my repertoire, so I became our communicator.
+
+“Hey,” I said into my spell, letting the sound flow across the way. “Do you know of anywhere we could cross?”
+
+“Ahead! Two miles, there's a big bridge that might have survived!” their representative yelled.
+
+The bridge had in fact survived, and so there we crossed. Our side of the river was a little lower, and so had taken more damage, but the far side had a few trees left standing, and looked just that much nicer. That evening we all gathered together with the refugees, setting a much stricter watch before trying to rest a bit.
+
+We sat around the fire that night, exhausted, but alive. Over her pasta Lena kept looking at me, curled up where I was with Veska.
+
+“Food's not that bad is it?” I teased.
+
+“No... you're the new Headmistress' kids right?” she asked, looking between me and Illa.
+
+“Yeah, why?” I responded with a quirked brow.
+
+“What's she like?” the priestess asked, nervous.
+
+“Mom? Hmm, nice, bit moody sometimes, why?”
+
+“Well, during the fall of the old kingdom she saved me,” Lena said, blushing slightly.
+
+“Really?” Illa asked she looked a bit surprised by that.
+
+“Mhmm, those monsters took me from my family in Ice's End. The Shield told us they were planning to keep us all as servants or whatever, make us their slaves. I found out later she's the one that led the assault against their keep. I was a baby then of course, so I don't remember it, but she and her men rushed in and saved us all. So, I'd like to thank her at some point.”
+
+“Shit, seriously?” I asked, mom didn't really talk too much about the fighting. I got the feeling that for her it was more sad than heroic. “Was your family alright?”
+
+“Never found them. I did get magic though, so at least I can join The Shield and try to make sure something like that never happens again.” She laughed briefly. “The others in the orphanage were always so jealous, but at least they understood what I wanted, to keep more like us from being made.”
+
+“That's a noble goal,” cousin Omos said with a soft smile.
+
+There was a crash off to the side, somewhere in the brush. Before any of us could think more of it Amara was on the job, blade out. She scanned the area briefly before frowning.
+
+“Broken branch, nothing here,” she called back.
+
+As the surprise wore off I turned back to Lena. “Yeah, Omos' right. We'll introduce you, I'm sure she'll be thrilled to see you're doing well.”

@@ -1,0 +1,261 @@
+---
+id: ba5197e8-66fd-58a9-8e04-4762d2de752a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 548 - Just for Her and Rane"
+slug: 0047-chapter-548-just-for-her-and-rane
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 47
+ownLength: 2955
+unit: words
+ownProgress: 2955
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2187192/chapter-548-just-for-her-and-rane"
+royalRoadId: "2187192"
+markedReadAt: "2026-06-29T19:36:48.337Z"
+---
+
+Tala regarded Rane as warring emotions flowed across the big man’s face. There was relief, concern, and not a little bit of embarrassment, all mixing together in a muddled mess, that Tala suspected she only understood slightly because of their long time together.
+
+She had, of course, told him of all that had happened while he was gone, and he’d seemed less than awed by the mention of the white Sovereign. The man’s words, though?
+
+‘Tell the sculptor of motion that his promise no longer applies in regards to what he may discuss with you, but if he takes advantage of this allowance, it will bind your words thereafter.’
+
+Finally, Rane leaned back, taking a long pull of his tea—a mixture of spear- and peppermint—before nodding. “I am bound to not reveal something by that Sovereign. It seems like I am allowed to reveal it to you, but if I do, then you will be just as bound as I to pretend ignorance. If you don’t, I am unsure if I will be held responsible or if you will, but in either case, it wouldn’t be good.” He met her gaze and smiled. “I will tell you if you wish but only if you wish.”
+
+Tala considered for a long moment. She was fine keeping secrets at need. She didn’t particularly like it, but she’d rather have a secret between herself and the rest of Zeme, than between herself and her husband. “Yes. I want to know. I don’t want you to have to carry a burden like that on your own.”
+
+He seemed to relax further, a smile growing across his features. Clearly, that is what he’d hoped she’d choose, but he hadn’t been willing to force the issue. “I love you, you know that?”
+
+She gave him a wide-eyed look. “As a friend, though, right?”
+
+Rane hitched before his eyes narrowed.
+
+Tala couldn’t hold her fake expression any longer, and she started to laugh.
+
+He shook his head, joining in after a moment to collect himself. “Oh, love. That is the stuff of nightmares.”
+
+She shrugged a bit self-consciously, still chuckling. “I apologize, then. I only meant to tease. Now, what is this big secret?”
+
+Rane glanced around their sitting room, verifying that it was empty. He even looked out the windows, which overlooked a good portion of the sanctum, making sure that none of the assistants, nor Mistress Petra, nor Master Simon were about.
+
+Finally, Tala felt Rane use the authority he had through her. He used it to lock down the air around them within Kit. He did so in a hollow sphere so that no sound would be able to cross the barrier. That caused her eyebrow to rise even further.
+
+That seems a bit over the top.
+
+-Not really? A promise to a Sovereign is no small thing.-
+
+Fair.
+
+That done, Rane grinned sheepishly. “I’ve not spoken this aloud in more than ten years. I may be being a bit overcautious, but it is better to be safe than sorry when Sovereigns are involved.”
+
+“Yeah… I suppose that’s fair.” She waited patiently, nursing her tankard of coffee.
+
+“So, when you were taken by Be’thric, I didn’t handle it well.”
+
+She quirked a smile. “Neither did I.”
+
+He chuckled at that, then grimaced. “I know. I’m not trying to say that I suffered more than you.”
+
+She shook her head. “I apologize. I know that’s not what you’re saying. I’ll listen.”
+
+His grimace faded back to a smile. “Thank you. As I was saying, I felt like I should have been there with you. I had decided to go off on my own, to give you space and see some of the world…”
+
+When he hesitated, Tala filled in for him. “And I got snatched shortly thereafter.”
+
+Rane nodded. “Exactly. I know it’s a bit foolish, but I blamed myself more than a little bit.” He scrunched his face and huffed a laugh. “Honestly, some of the coping mechanisms I found helpful are proving critical in the aftermath of Master Girt’s loss. I think if you hadn’t been taken, if I hadn’t had to deal with my feelings of guilt and responsibility—however misplaced and ill founded—I would be in a far worse place now.”
+
+“I can see that. My abduction was a new stressor for you, and required you to grow up in certain ways, and face certain realities.”
+
+“Exactly. I’m not responsible for the bad that happens around me—unless I bring it about or reasonably could have prevented it. More than that, I am not responsible for the repercussions of the choices of others, whether friend or foe.” He shook his head. “But I’m getting off into the weeds.”
+
+She took another drink and shrugged. “Take your time. We have as long as you need.”
+
+He returned a grateful smile. “Thank you, but I am more trying to give background information than truly delaying. Regardless, when I couldn’t find any evidence of your fate, I decided that I needed to seek out a higher power.”
+
+“Master Grediv?” Tala teased.
+
+“Well, yes. I did ask him, but no, he wasn’t helpful, and he wasn’t who I was referring to.”
+
+“The Sovereign.”
+
+“Yes. I was able to find rumors about a Sovereign in the mountains at the center of the Cycling Cities circle. He was said to be simply lying at the peak of a mountain. So, I went to find him.”
+
+Tala’s eyes widened a bit. “The map, your path into those mountains.”
+
+“Exactly, yes. I apparently found him something like five times, but he moved to a different mountain before I actually could reach him, or even knew he was there.” He chuckled, scratching the back of his head a bit self-consciously. “It seemed that I was starting to annoy him with my persistence, and on my side of things, I just assumed I was searching the wrong mountains. Regardless, he let me find him, just so that he could ask me to leave him alone.”
+
+Tala snorted a laugh. “He did seem a bit like he didn’t want to deal with us.”
+
+“Yeah… I would bet he didn’t actually have a choice… somehow.” Rane shrugged. “Regardless, I told him that I’d need a boon to leave him alone.”
+
+Her eyes widened, and her mouth opened of its own accord. “What?”
+
+Rane let the moment linger a moment before sighing dramatically. “He said no.”
+
+She huffed, shaking her head. “Of course he did. That would have been too easy.”
+
+“Exactly. He did offer a minor boon, though.”
+
+“A minor boon? What does that even mean?”
+
+Rane shrugged again. “I’m not sure exactly, but he required that I leave him alone and never tell anyone that I had found anyone or anything in the mountains. I wasn’t to speak of it at all.”
+
+Tala grunted. “So? What did you ask for?”
+
+“Well, after he’d confirmed that you were alive, and where you were, I had to think.”
+
+“That… That’s some important information. He didn’t count that?”
+
+“Apparently not, no. So, after a lot of back and forth—during which he was getting increasingly irritated—”
+
+That made Tala chuckle again. She could just imagine how her husband would have handled such a thing.
+
+Rane cracked a smile as well. “Yeah… regardless, finally, he agreed to ensure that you had a chance to escape.”
+
+When he didn’t continue, Tala frowned. “What? That’s it? A chance? What does that even mean?”
+
+Rane shrugged. “I’ve no idea.”
+
+“Rane… What? How am I supposed to understand that? Is he responsible for when I recovered my memory? For the collar not killing me as Be-thric died? For me realizing a means of keeping the dasgannach at bay?” She frowned, thinking longer. “Did he arrange for the assault on the House of Blood hold that gave me my window of opportunity to kill the man? For Be-thric’s state when I found him? For the fact that I found him at all?”
+
+Rane held up his hands in a clear indication of uncertainty.
+
+“Did he help Terry find me? Did he get me the void sword? I thought I saw something looking at me then… Did he bring the void-hold into the area for me to have to deal with? Did he do all of those things? He couldn’t have influenced the clash to choose the Pillar… could he? If I was dead, there was no chance for escape… Did he keep me alive?” Tala knew that she was spiraling.
+
+Rane saw that too. “Hey, hey now.” He stood, coming over to wrap his arms around her. “At most, he gave you a chance, but even if so, it was you who made it a reality. In all likelihood, he did nothing at all and just wanted me gone.”
+
+“Could he do that?” She frowned. “I mean, could he tell you he was going to help and then not?”
+
+“I asked that he make sure you had a chance. If he’d looked and seen that you had one?” He shrugged, still holding her close. “Then, his promise would have been fulfilled.”
+
+That… That actually made sense, and it actually made her feel better. She hadn’t been some damsel in distress, only getting free and coming home because some odd white man came to her rescue. She couldn’t imagine how much that would have grated… well, everything.
+
+“The most valuable things he gave me were knowledge that you lived, and a certainty that you had a chance to come home. I had no doubt that with even a minuscule chance, you’d get free.”
+
+Tala pulled back, looking into her husband’s face and seeing overwhelming confidence in her along with love in abundance.
+
+“With that knowledge?” He shrugged. “I could get back to life, to training, and preparing myself so that when you came back, I would be ready. I couldn’t tell anyone what I’d learned, not really, but I did what I could.”
+
+Tala smiled. “My siblings told me that you reached out to them. You told them that I was alive, and you believed I would return.”
+
+He nodded. “It seemed the least that I could do. You’d just started to reconnect with them after all. I assumed that your vanishing would have been… less than good.”
+
+She leaned forward and kissed him. After a moment, she drew back. “Thank you.”
+
+He laughed. “You’ve already thanked me for that. Many, many times as I recall.”
+
+She shook her head. “Not just for that, Rane. For everything, Thank you.”
+
+Rane just smiled in return for a long moment. Then, he kissed her forehead and moved back to his seat. “Now, you didn’t tell me how things settled out with Meallain in the end.”
+
+“Well, Eskau Meallain is—”
+
+He held up his hand, frowning. “Quick question, if I may?”
+
+She blinked a few times, feeling a bit jarred out of her train of thought. “I… sure?”
+
+“Why do you always add ‘Eskau’ before her name?”
+
+Tala shrugged. “Because it’s what she is?”
+
+“Is it like ‘Mistress,’ where not saying it implies closeness or some other thing that’s untrue?”
+
+“No, not really… It’s just how I think of her. I feel like it’s important.”
+
+“Huh… okay. I apologize for interrupting, then.” After a moment’s hesitation, he added one more question, “Do you need me to always add the honorific?”
+
+“No, I don’t think so…” She was frowning. It was something that she hadn’t really been thinking about as she did. Is it left over from my time in the south?
+
+-No, I think you started doing it more after you returned. I’m not really sure why.-
+
+It just felt right?
+
+-Yeah. I think so.-
+
+Huh…
+
+Rane smiled. “Alright. Thank you for letting me ask.”
+
+“Of course.” She smiled. “So, Eskau Meallain is with Lyn and Ron.”
+
+“The Talon Leader?”
+
+“That’s the Ron I mean, yeah.”
+
+“Because of what the Sovereign said?”
+
+“Somewhat? I think his injunction removed some of my hesitancy by making the ideas I was considering into, essentially, requirements rather than just my own fancy, but in all honesty, I had been planning on seeing what she could do with the Talons either way.”
+
+He gave a knowing smile. “Either way… even though you had no idea you’d have her around until a few minutes prior?”
+
+She frowned. “Fair… I guess I meant that as soon as I knew she was going to be in my custody, that was one of the first uses of her talents that came to mind.”
+
+“And now you’ll also be getting her advice on Reforging?”
+
+“Yes.”
+
+He sighed, picking up his mug once again. “At least you’ll find a true path of advancement. I’m still trying to make sure I’m not being deceived up a false trail…”
+
+She smiled and leaned forward to take his hand briefly. “You’ll find the right way. There’s no rush. Even if I Transcend, I won’t leave you behind.”
+
+He laughed. “I don’t want to just ride your coat-tails.”
+
+“Oh, you won’t ‘just’ do that. You can be my arm candy too.”
+
+His laugh rang out again. “That doesn’t seem like much of a life, but I suppose it would do for a few years, until I can catch up.”
+
+“Or a few centuries.” Tala said mischievously as she took another sip of coffee.
+
+He grimaced. “...That might be a bit long.”
+
+She gave him a flat stare. “I feel like you’re setting me up for a joke, but I don’t think I want to make it.”
+
+Rane colored slightly. “That’s not how I meant it!”
+
+“Fine, fine. Regardless, you haven’t told me about your trip. How was repairing the seal on the cell?”
+
+“Oh, it was fine. It was actually an easy one and a bit odd. Did you know that cells are sometimes used as preserves?”
+
+Tala frowned. “What now?”
+
+“Yeah, apparently if there are Mages alive who can make new cells without needing rare constructs or materials, then they are sometimes used to preserve things that might otherwise go extinct or be destroyed… It’s fallen out of favor, but there are some really ancient cells that we still maintain like that.”
+
+“Are we sure that the prisoner didn’t die or escape, simply leaving the cell with a sample of the flora and fauna behind?”
+
+Rane blinked a few times. “I mean… no? The atrium doesn’t really indicate that, but I suppose anything is possible. They could have come from a time before recording details in the atriums was common practice. I suppose we’re just guessing?”
+
+She chuckled. “I didn’t mean to throw your understanding into question. So, this was one such?”
+
+He cleared his throat, refocusing. “Yeah. It was huge.” He shook his head. “Like, I think Ironhold might not even be a fourth as large. Everything within was different. The air was somehow easier to breathe than what we’re used to on Zeme, and the vegetation was all species I’ve never come across. The animals, though!” He grinned. “The animals were the most apparent difference. Most were massive lizards of all sorts. Some had frills or even feathers, but they weren’t warm enough to have been avian. There were some mammals, but the few we saw were pretty small.”
+
+“Did you have to fight any?”
+
+“Yes and no. The unit had to scare a few away, but for the most part, the Refined just got to explore near the breach while I reset the seal. There's a whole ecosystem in there, Tala. A preserve and a way to look at how Zeme was… who knows how long ago.”
+
+Tala frowned. “What’s the purpose, though?”
+
+Rane grinned. “Well, in this case, we’ve known it exists for a long time. Many Archons have petitioned for—and been granted—limited access to study what’s inside. These types of cells are opened quite a bit more often, and their atriums are closer to a secondary lock and seal, likely created differently in accommodation for the fact of their different purpose.”
+
+She smiled in turn. “Or because they came from a time when different practices were standard.”
+
+He gave her a flat look, then shook his head huffing a laugh. “Regardless, nothing within poses a real danger, but it is being preserved and contained even so.”
+
+“For their protection and endurance rather than ours?”
+
+“It seems so, yeah.”
+
+Rane then went on to describe the few things he’d been able to see while doing the repair work—one being something like a large terror bird with teeth and proportionally smaller wings that were more like stubby arms.
+
+All told, Tala quite enjoyed the afternoon spent with her husband. It was time that they tried to take when they could, but things often got in the way.
+
+Even so, the next day she was going to have to check in on the Talons and Eskau Meallain. The elf had requested a lot of white steel, and Ron had lodged both a formal complaint around the Eskau’s attitude and actions and a formal ‘thank you’ for assigning the woman to train the Talons.
+
+If Tala needed to get her away from the Talons for a bit, she’d also bring Eskau Meallain up to speed on her own progress toward Reforging… she’d probably have to teach the woman what Reforging was, too… She might just start that process regardless of if a break from the Talons was needed, but Tala would assess that later.
+
+It was a bit irritating—as well as daunting—that she might have to educate the arcane on gated advancement, but the Sovereign had specifically stated that the Eskau could possibly offer good insight, so who was Tala to argue?
+
+But that all was for tomorrow.
+
+Today?
+
+Today was just for her and Rane.

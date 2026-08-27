@@ -1,0 +1,185 @@
+---
+id: f034ba51-98e7-54fe-893d-5b98e07d3d55
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 80 - The Heart of the Matter"
+slug: 0135-chapter-80-the-heart-of-the-matter
+partOf: metaworld-hopecore
+position: 135
+ownLength: 2838
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3716856/chapter-80-the-heart-of-the-matter"
+royalRoadId: "3716856"
+---
+
+"To subdue the enemy without fighting is the supreme excellence."
+
+Sun TzuThe Art of War
+
+On the flight back to LAPA, Curon swung some of that corporate magic and got Eppie and Val seated together in business class. The girls talked shop, mostly about Titus Andronicus and LAPAGANZA, until the seatbelt sign went dark somewhere over Nevada and Valorie fell into a deep, blissful sleep.
+
+Eppie watched the redhead for a while, this child in a woman’s body, and marvelled at her defencelessness. Val slept like a kid in a movie, with her mouth slightly open, one hand curled loose against the window, with waves of loose hair smothering her face. How William saw this in his bed, then chose debasement and misery, pain and tears, was something to be marvelled at. It was, to Eppie, the stark proof of a deeply disgusting mind.
+
+She restrained herself from parting Valorie’s hair so she would breathe easier. Instead, she turned inward. Unlike Val, her Philosophical Zombie body did not need rest like a mortal being. Instead, her [Script Analysis] ran a ledger of the recent events, browsing every entry, every [Causality] spent and gained.
+
+After the tears, the smiles, the sing-alongs, her cache measured as such:
+
+[All the World’s a Stage] was a panacea, but by the Powers that Be, it was a hell of a [Causality] hog.
+
+But it was worth it. In front of her face, in front of Joel Lieberwitz and Juliana Vaughan, Francis had chosen his daughter over his political persona and expressed a rare moment of vulnerability. That, to Valorie, was a shot in the arm that would inoculate Val against her Daddy issues for years to come, even if Sanders grew busy with his work. As for Daddy Sanders, the Senator may not have let go of his wife, but Better would make its rounds for years to come, and every time, he would be reminded that he had been its first recipient.
+
+As for the song, Eppie’s father said he would organise a recording session once the licensing was clarified. There would be a press conference. Then the song would be freed into the unsuspecting world, untethered from enterprises, unless, of course, someone sought to profit from a free thing.
+
+And now, with Valorie keeping her distance, Simone out of reach, Mio in Reedley, and herself as an insurmountable wall—she had her [Usurper] by the proverbial balls. Oh, and Lim’s part: his family was working to undermine the Chens.
+
+And in all of this, she had never touched William. No flower pots. No Grecian vases. Nothing. She gave herself a satisfied pat on the shoulder and gave the [System] one too, in case it was watching her.
+
+As for herself, she and Zara had a home video to make. And she had an unscheduled interview with the Richards Estate.
+
+Checklist completed, Eppie slipped on her headphones, cutting out the dull thrum of the cabin. I should lay low for a bit… she mentally measured the disbelief Curon and Davis had shot her way when too much Lana had escaped the seams. I am a sweet little Eppie. She repeated the lies to herself like a mantra. I am a harmless kitten.
+
+Beside her, Val sweetly snored.  With her looks and her talent, what manner of heights could a well-connected actress reach?
+
+Eppie mentally flipped through all the redheads who made headlines in her old world, probing a catalogue of films that had made her smile in appreciation, or laugh out loud with their absurdity. She pictured Val in a magic-realism musical with Gosling, then she imagined Valorie running from a T-Rex in four-inch pumps, achieving the same acceleration as Usain Bolt.
+
+She giggled to herself, giving her brain enough relaxation for a catnap before Lana’s brain invariably returned to schemes, plots, [Script Analysis] and Gantt charts.
+
+They landed with a jolt at LAX around dusk. Past Arrivals, the traffic moved in slow motion, with town cars, shuttle vans and families returning from holidays, punctuated by the trifecta stink of exhaust, rubber and jet fuel.
+
+“Ride with me?” Valorie offered Eppie a hand when Senator Sanders’ driver found them at the exit bay.
+
+“What, and show the world we’re accomplices?” Eppie’s lips curled wickedly. “No, I’ll take the taxi. Remember, go home, sleep in your own bed. Clean break, reveal nothing. In the meantime, let’s do our best for Titus Andronicus.”
+
+Seeing her leave, Valorie looked like an abandoned kitten.
+
+“All the world’s a stage, Val.” Eppie stayed a little longer, giving the redhead’s hand one more squeeze. “And we both need to play our parts. After May… we’re both home free. Well, you’re free—I am still a Sophomore, ha!”
+
+Valorie’s mouth did something complicated. Eppie kept her distance in case the kiss-happy princess decided to make a scandal in the midst of the LAX lobby.
+
+“Okay.” Val’s voice trembled.
+
+“Hey.” Eppie flashed her baby blues as a vote of confidence. “Where’s my Queen of LAPA?”
+
+“God. You’re so exhausting.” Valorie rolled her eyes. “Seriously, Fontaine?”
+
+“THERE SHE IS—” Eppie gave Valorie an upvote with her thumb. “Final thing. If you need someone to share the burden, share it with Simone. She’s good for it. She’ll be hella happy to hear that she no longer has to tiptoe around broken glass.”
+
+Which would be another dose of [Causality]...
+
+“And er… if things get pushy, for reasons,” Eppie said seriously. “Come straight to me. You’ll be surprised at how much damage a landscaping pot can do. We got dozens near the dorm.”
+
+Valorie’s face turned scarlet. Indeed, Grein wasn’t a memory anyone wanted to recall.
+
+“Remember! Try not to be alone with William if you can. God knows what he might try behind your father’s back.”
+
+“I’ll be careful,” Valorie’s voice was firm as her flummoxed driver took her bags.
+
+Eppie watched the Escalade veer into the La Cienega on-ramp traffic, then gave her cab driver an address that wasn't quite LAPA’s front door, riding home through the amber sodium wash of Century and La Brea, ready for—
+
+“JOHN PROCTOR HANGS—” Dr Kirby announced to the class, first thing Monday morning, opening Week 9 with state-sponsored homicide.
+
+It didn’t cost Eppie anything else to imagine a proud and indignant William Chen, standing at the gallows, fully invested in the idea that his soul was beyond the reach of an unjust system, unaware that heavenly judgment was only ten weeks away.
+
+Seven weeks of school.One week of mid-term break. And two weeks of LAPAGANZA prep.
+
+“Proctor chooses death,” Kirby repeated for emphasis, her voice nostalgic over the fact that this week marked the end of their Tragedy Module through Antiquity, Renaissance and Modernism. What was left was film study, discursive discussions, and then Sophomore finals in essay form. “Yet, Salem achieves no epiphany. Salem’s survivors—evidently—have failed to learn the lessons taught by the dead. The theocratic machine grinds down the bodies and silences the rebellious voices; the town’s best people are dead, and what’s left is denial.”
+
+“There is no rebellion in Andover!” Dr Kirby quoted Danforth, miming the judge's growl, her voice louder than her usual Socratic tone.
+
+“An institution exists only because of the people believing in its fairness. That is all it is. Recall that the court in Salem had no army. It was neighbours who put their neighbours to the torch, who strung the gallows. Their collective greed and fear are what gave the ‘keys of the kingdom’ to the ‘children’. Salem as a society fell, because one motivated individual—”
+
+Kirby paused. The questions had begun. “Eppie, what makes Abigail so motivated?”
+
+The rest of the class exhaled with relief.
+
+“Umm…” Eppie made herself look a little more modest than she really was. “Because Abigail is the product of the tragedy of the commons. She owes nothing to a community that has become bankrupt, that only sees her as a burden, or a commodity, or a source of sin.”
+
+“Good.” Kirby looked satisfied. “One motivated individual, one girl with a grievance and a talent for performance, unravels the loose threads of Salem’s social contract. Abigail doesn't overthrow Salem. She exhausts the common pool of Christian goodness, humility, trust, community and compassion, all that jazz. And a community that cannot trust itself is not a community. It is a selfish and cannibalistic beast.”
+
+Sounds like the 2030s… Eppie shivered.
+
+Next, Kirby turned to Cameron Atkinson. “So what is the tragedy here?”
+
+“Aaaaa…” Teabags weighed down Atkinson’s eyes. “People… died innocently?”
+
+“Lucy.”
+
+“It’s the breakage of the system’s load-bearing values.” Lucy was on the ball. “For us, the tragedy is that Proctor died in such a principled way, but his death is basically a statistic in the largeness of things.”
+
+“Well done!” Kirby clapped.
+
+For once, Eppie was clapping someone else.
+
+“In actual history, the hangings are just bookkeeping,” Kirby smiled at them. “But in the arts, on Mills’s theatrical stage…”
+
+She looked at Eppie.
+
+“It is veritas…” Eppie repeated one of her very first answers, which, if she recalled, was for Costello.
+
+“It is VERITAS,” Kirby snapped her notebook shut. “We will review your notes over the next two lessons. Then… we’ll be looking at postmodern productions of each tragedy… in film.”
+
+Sophomore theatre on Monday, week 9, was no less exciting, because Eppie’s grand plan had finally brought home the sweet fruit of her labour.
+
+First, the Western Costume Company’s Sophomore costumes. And secondly, early access to the Seniors’ professional hand-me-downs.
+
+Both were products of Eppie’s deal-making. True to her word, Tyker provided the Sophomores with film-grade costumes from the Senior production, allowing them to present themselves with no less authenticity than the LAPAGANZA crew. Of course, being in a Playhouse production, there were lighting and prop limitations—but these were non-issues compared to the limitations of the student actors’… student acting.
+
+For her peers, Eppie decided against using [All the World’s a Stage] in her Sophomore production—because she had already given them a perfect schedule, redundancies, professional costuming, and had left key roles to her peers like Madison, Lucy and Chelsea.
+
+Like a proud mother hen, she watched the Sophomores swap into their costumes, feeling satisfied that she was able to improve their lives for just a little bit—even if May meant the school itself was going to undergo a brand-shattering scandal.
+
+To save the Institution, however, the gangrene must be excised. Principal Burton had refused to make the hard choices—and now, the choice would be made for him. As to how he responded—that would be his legacy to make.
+
+The second event to hit the Juniors and the Sophomores was another LAPA tradition, known endearingly as the hand-me-downs. Every year, around this time, the Seniors' company would clear out its lockers, supply closets, and black box practice rooms, and bring boxes upon boxes of assorted stuff to be donated to their juniors.
+
+It was a tragic ritual as well. Moving to the Whitman’s theatre signalled the end of the Seniors’ time at Los Angeles Performing Arts. Their final ten weeks would exist backstage, in the paint shop, in the light booth, in the professional space of real-life performing arts. Their school days… were done.
+
+Thereby, anything that couldn’t fit in the Whitmans' or was no longer needed was donated.
+
+For the Sophomores, Eppie’s connections elevated their turn to Wednesday, before the supplies were picked clean by the rest of the Junior grade.
+
+Spare rehearsal blacks, the soft, laundered, hundred-times-worn practice uniforms every student lived in, were placed in a free-for-all. Dance shoes, leotards, ballet flats, whole laundry bins of bric-a-brac were passed down to the next generation of actors, dancers, performers and singers, who received the gifts like relics.
+
+This, Eppie could see, was one of the rare positive vestiges of mixing the “pay2win” students and the “free2play” students.
+
+“This one's Charles Cranshaw's,” some kid held up an all-black by the corner, as if it were a jersey off a champion's back. “He wore this in the fall Showcase! He was… so beautiful.”
+
+Pima cotton, high thread count, Eppie noted. Beautiful indeed.
+
+“He sweated in the fall Showcase,” someone else said. "You're inheriting a year of a large man's perspiration…”
+
+Eppie gagged a little, hoping to God Charles had laundered the thing.
+
+Meanwhile, Lucy and Chelsea were having the time of their lives. As a small mercy, Eppie stood next to the bin with an expert eye, her hands feeling the materials for the right texture, elasticity, and—
+
+“Here,” she threw a size 2 to Chelsea and a size 4 to Lucy. “Check these out.”
+
+Chelsea’s eyes widened after she read the label. Quickly, she squirrelled away the leotard. Lucy, who had the support of her parents, was far less impressed by finding an old Repetto or Yumiko. Chelsea, on the other hand, could probably wear a pair of “perfect Tees” until graduation.
+
+Whatever the case, Eppie moved to the next bin; the point was that the kids were incandescent. The uncomplicated joy of finding theatre treasure, be it clothing, shoes, or props cast off by idols—the very people whose shoes they wanted to fill—was the exact thing that made a school like LAPA special.
+
+An hour later, Eppie switched from her Sophomore class into the Senior front, where the Whitman’s complex had swallowed the cohort whole, while welcoming the tiny blonde as an anomalous ally.
+
+Different to the Playhouse, the Whitman Theatre was a proper house—nearly two thousand seats banked up beneath a full fly tower, its gridiron strung with a state-of-the-art motorised fly system.
+
+On alternating years, Musical Theatre and Classical Theatre took precedence as the headliner. This year, it was Titus Andronicus, and so the theatre kids had the main run of the block, moving into the place like a big modern family haunting an abandoned mansion. Voices that had filled the black box without trying now vanished up into the dark above the grid and had to be thrown. Footsteps that used to just happen now required intention. A previously crowded ensemble of twelve looked positively tiny on stage with the house lights up and a thousand-odd empty seats climbing away into the gloom.
+
+Costello’s advice for Eppie, and the Seniors who had been here before, was the same: “You either learn to fill the room, or you let the room eat you alive.”
+
+It took a day for the teams to settle and the schedules to be posted by the Production Manager. After that, Cooper had them for voice and text; Costello had them for bodies, using unibody ensembles to turn twelve individuals into one breathing organism; Tyker produced, which meant she was everywhere at once, demonstrating the expertise of a veteran West End producer who knew everyone’s business like the back of her hand.
+
+The Seniors, and therefore Eppie, rehearsed Monday, Wednesday, and Friday nights.
+
+And because LAPA students built their own show, all of it. Eppie spent her evening in the workshop learning that a "brick wall" was actually a flat of luan wood, a sea sponge, and four shades of grey glaze feathered wet-on-wet.
+
+On Tuesday, she joined the effects team, now planning their work around her red-string device, the very one Tyker had organised with Odette Kessler from Imagineering. Overtly, one was made for Valorie—and secretly, another for Luciana Mio.
+
+The same evening, in lighting, she learned the difference between a gel and a gobo; she learned about how to call for Rosco 80 Primary Blue versus Lee 141. She learned how to make dappled leaves and window mullions, prison bars, textures and shapes by using cut-sheets over light gates. She learned about McCandless angles, back, flood, and key lighting.
+
+On Thursday, in costuming, she learned from Ms McGregor that a costume seam let out for a fight call had to be resewn stronger than it looked; she learned that stage makeup for a full-size house was painted for the back row and looked like a clown’s makeup up close.
+
+In other news, the Seniors marvelled at the fact that Valorie no longer showed up in full make-up and four-figure apparel. Like Eppie, she looked like a part of the team now, in her plain theatre blacks and Adidas. Like everyone else, she was there every night, mean and girly, but busy with paint, her blacks discoloured by wood stain. She still called Eppie “Fontaine” in front of her peers, but her eyes were smiling where her lips were not.
+
+On the prop table, Val passed her a loaded brush without being asked, handle-first, the way you'd pass scissors to a sibling or sister, without thought. Eppie botched a glaze and swore under her breath; Val fixed it for her, telling her to “Feather it out,” before catching herself and sounding disappointed at the useless Sophomore. Val became a friend wearing an enemy's face for the cameras, and Eppie felt weirdly warm and fuzzy about the fact.
+
+Session after session, she watched the [Causality] go up and up, and realised, for the first time in months, that she was… having fun.

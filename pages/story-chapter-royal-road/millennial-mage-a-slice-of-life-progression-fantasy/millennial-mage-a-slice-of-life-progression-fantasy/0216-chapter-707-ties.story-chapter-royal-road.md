@@ -1,0 +1,263 @@
+---
+id: 7e91a5ee-c2c2-5f10-a9ab-e889c551b837
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 707 - Ties"
+slug: 0216-chapter-707-ties
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 216
+ownLength: 3250
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3443339/chapter-707-ties"
+royalRoadId: "3443339"
+---
+
+Tala found that it was a bit of an irony that she, the human, fought with only a blank plate of white steel to be seen before her visage while the automata had human-like faces of black metal, the artificial musculature shifting minutely with their changing emotions.
+
+Flow clanged against the black shield, but the power of Tala’s strike drove the braced legionnaire back and to the side, the planted shield scraping a wide furrow in the topsoil.
+
+The shield had deformed under the force of the strike, but it returned to shape even before its bearer slid to a stop.
+
+There was a moment of almost stunned silence, and then the automata swarmed forward in close formation.
+
+Tala reflected that this fight mirrored that of primitive human hunters facing off the great beasts of yore. They had more skill and numbers, she had greater strength and staying power.
+
+Unfortunately for them, she was far more intelligent than a beast, and between herself and the automata, she was the faster combatant.
+
+The fact that she was smaller than them as well—even in her full armor—gave her more maneuverability and tilted the odds even further in her favor.
+
+Their greatest advantage was the field they maintained, preventing her from quickly ending them with simple magics.
+
+Their shields also meant that simply destroying them with projectiles would be costly when she had a finite number. True, it was a large number, in the thousands, but it was still finite, and this war might be long.
+
+Tala lunged forward before jerking her feet after her, twisting in the air and putting them in front as she slid the last few feet to their shield-line.
+
+Her armored boot barely got under the central shield before they were able to react and slam it downward.
+
+Tala barked a laugh to echo around within her helmet as the black shield failed to harm her leg.
+
+Kicking upward, she actually bodily lifted the legionnaire who had tried to brace its shield with its entire weight.
+
+Her iron-corded muscles knocked the heavy thing up and back, and she flowed forward, her body moving almost as lithely as an automata, and just like that, she was among them.
+
+Their field was keeping Alat from simply reaching forth to snuff them out, but as Tala struck each, that very action asserted her authority over the opponent, and the significant damage established that assertion as fact, allowing Alat to go to work.
+
+As she Flowed through their formation, Alat’s assistance made it one-hit-one-kill.
+
+They showed their skill in blocking or dodging more often than not, but as even a simple strike to a leg or shoulder was sufficient to establish authority, they were at a significant disadvantage.
+
+And with each eliminated automaton, their resistance against her aura weakened both because they had fewer units adding their strength to it, and because she was showing that her authority was supreme over and over again.
+
+The battle was going Tala’s way to an almost disappointing extent, until she came up against the first sergeant.
+
+Not only did their exchange last a full three clashes before she was able to get Flow to bite into a slightly out of place leg, but the cut she made in the armor did not allow Alat to grab a firm hold.
+
+In that moment, the sergeant met her gaze through her faceplate and smiled.
+
+The remaining six regular legionnaires disengaged and the other sergeants moved forward, the lieutenant was almost free and so it had been left to get itself the rest of the way.
+
+The regular automata were relegated back to the role of reinforcements on a metaphysical level, giving the sergeants enough weight—just barely—to keep from being overwhelmed with a single successful strike.
+
+The automaton in question still had to effectively eject the metal around the cut, but that was significantly less damage than full destruction of the unit.
+
+Rust… Well, this is good to know at least.
+
+-True. I’ll keep working. We could flicker to the lessers and kill them quickly?-
+
+No, we shouldn’t show that capability yet. We might need a moment of surprise. If not in this fight, then maybe in the next.
+
+-Understood. I’ll proceed with prepping for the original ‘ending.’-
+
+Thank you.
+
+The Black Legion was not interested in ‘honorable’ combat, and all four remaining sergeants came in together, coordinating their attacks.
+
+They didn’t form a shield wall or any such thing, opting instead to form longer weapons and strike from multiple angles while maintaining distance.
+
+Tala pushed Flow into void-glaive form and clashed back, summoning her defensive discs to even the odds.
+
+She did not push for victory. A quick fight wasn’t her goal in the least.
+
+While Tala was taking the clash seriously, she was using it to test their assumptions on fighting style and tactics of the automata, among other things.
+
+Her discs had difficulty as when the sergeants’ weapons landed against them, that put the authority of the legion in direct conflict with Tala’s own. Tala was able to maintain superiority when the discs were close to her, but as she was maneuvering around that field, her discs were often driven back toward her in various exchanges.
+
+That was a bit surprising due to the three bloodstars that each still contained, making her control, aura, and authority over them absolute. Even still, the automata weaponry and attacks were able to extend enough impetus across a given disc upon a solid hit to force it backward.
+
+When they were driven back to within a foot or two of her, she was able to restabilize them, and lock them in place once again, but it turned them into a far closer defense than she found ideal.
+
+They were also—for the first time she could remember—beginning to show wear.
+
+Their material was more durable than the black metal of the automata, and their weapons were less able to impart damage than Flow. Still, the three discs that Tala had carried with her for more than a decade were suffering.
+
+Alat was working steadily to brace her aura and authority within the iron-chain net which splayed out around her both star- and stoneward.
+
+They could have leaned on that connection to expand her control during the press of auras, but while it would have given her quite the edge, it also would have left her with a weaker base from which to strike.
+
+As it was, her alternate interface was prepared to execute a series of cascading actions on the now separate standard legionnaires.
+
+But not yet.
+
+The lieutenant needed to come closer.
+
+Tala got a minute flash in which she saw the whole world from a new perspective.
+
+She was a spider in the center of her web, allowing four insects to believe themselves free to draw in the bigger prize.
+
+There was no need to hide her smile beneath the helmet.
+
+The only hitch in her plan was, of course, the wearing down of her defensive disc, which irked her a bit more than was reasonable. They were items that had been crafted for the use by a Fused, after all, and the fact that they’d held their usefulness for so long was a testament to the skill of the craftsman.
+
+-We should try to hunt down where they were acquired from.-
+
+Not sure how much time it’s worth, but that would be nice, yeah.
+
+As the clash continued, Tala found her body loosening, her mind relaxing into the fray.
+
+If nothing else, the four sergeants were good sparring partners as they strove to kill her. There was only so much that her superior capacities could overcome.
+
+She took hit after hit, her momentary ‘teachers’ giving her little grace for her mistakes, even if most Eskau wouldn’t have been able to even notice the slight misalignments in her technique.
+
+It was funny when she considered it. Most questions of proper form or stance or grip or weapon positioning beyond the basics was to ensure a combatant had leverage, strength, or the ability to finish a strike without deflection or prevent the opponent from doing the same, which were all, again, a question of leverage, strength, and torque.
+
+As such, Tala’s enhanced physiology and weight quite literally countered much of the difference in skill, but Tala wanted to learn and improve, so she allowed her imperfections to be exploited. She used gravity magic to decrease her weight—even if she couldn’t decrease her inertia. She let Flow be deflected from non-optimal strikes when she could have pushed through. She let blows land, pushing through ‘weak’ blocks that she could have held despite imperfect positioning. She stepped back when pressed where she could have stood firm even in what would have been an unbalanced stance for others.
+
+She knew she would fight against opponents that could match her strength, weight, and stability, and so her skill mattered, and this was an excellent means of improvement.
+
+It also served to give them confidence, their reality threads practically humming in anticipation as the lessers reinforced the sergeants and the lieutenant strode forward with supreme certainty.
+
+The farthest automata was just out of the radius of her chains, but she wasn’t in their exact center, so if she moved a bit to her left, they should all be positioned as she wanted.
+
+She let a strike cause her to stumble to her left, and she was ready. She’d barely experimented with her ending blade, and she knew it would be folly to use it for any length of time, but she had a use for it now that it should work for.
+
+Tala was about to enact her plan, when the truly unexpected happened. The lieutenant spoke. “Human atrocity, you are outmatched. Surrender and be spared for a greater purpose.”
+
+The sergeants momentarily pulled back, and Tala was left genuinely confused.
+
+-I… I did not see that as a possibilty?-
+
+Worth inquiry and investigation?
+
+-Definitely.-
+
+She retracted her faceplate, frowning. “What purpose? Why would you spare me? I permanently ended a number of your subordinants.”
+
+The lieutenant nodded, seeming almost excited. “Yes, exactly.”
+
+Tala waited a long moment, but nothing more was said, so she prompted. “I don’t understand.”
+
+It tilted its head to the side. “Do you not? You cleanly removed the holes in reality and allowed their spirits to end.”
+
+“Yes? I removed several of your warriors.”
+
+“Precisely!” It glanced toward the sergeants, and they were giving oddly enthusiastic nods as well. “So, you understand.”
+
+Tala grimaced “No, not in the least.”
+
+It grunted. “We are not meant to exist, but our only means of ending is anathema. You represent a true, clean end. This is the final piece we need to complete the great effort.”
+
+Tala was quite confused. “Well, I mean, if you want to just line up the whole Legion, I’m happy to send all of you to such an end, one at a time.” She chuckled wryly. “I imagine I can even do batches to expedite the process if you aren’t resisting.”
+
+The lieutenant grinned, seeming relieved. “Excellent! Come with us, and when the task is complete, you can give us rest.” It paused, seeming hesitant to add after her agreement, but something compelled him forward. “We will, of course, have to ensure you do not endure after the Verity. Though, Verity will likely insist upon remaining to safeguard the integrity.” It nodded, happy with itself for some reason. “Do you need to gather anyone or anything to be comfortable? We estimate the full campaign to take at least a few years, as the infection extends beyond this landmass.”
+
+Ahh… now I see. They want to tuck me in their pocket until the end of the war.
+
+-Seems so. They have no means of dying, or ending.-
+
+Tala gave a slow nod, but it was for Alat. They were built so that even if there was no facility to create new forms for them, the soul-spirit pairs would be held in reserve until they were needed. Aside from self-detonation, we might genuinely be their only way out.
+
+-Do we want… to go with them? They might take us straight to their main base.-
+
+…Is that a suggestion? That seems a bit too insane, even for me. What are the chances they don’t have a means of subduing us, even if it’s just some sort of stasis.
+
+-Yeah, and if we did get to the base, I don’t know that we could fight all of their upper-level commanders at once… by ourselves.-
+
+Would have been a funny end to the war though.
+
+-I know, right? A bit anti-climactic though.-
+
+The automata had all straightened, coming to ready positions but not true fighting stances. The lieutenant motioned, and the lessers drew a bit closer, all clearly thinking that she was going to go with them.
+
+Tala sighed. “Well, I suppose it is time.”
+
+Without further warning, she and Alat acted.
+
+Tala solidified her stance, releasing the working that had made her lighter, and thus easier to be knocked around.
+
+She didn’t replace her faceplate yet, keeping the element of surprise for another precious instant or two.
+
+Alat struck at the back-most legionnaires—a spike of iron driving toward the superficial from within the surrounding nets, pincering the soul-core from each side—before tearing apart the connection between spirit and enslaved soul.
+
+Tala, though, Tala had the most critical job for this to work as they had hoped.
+
+She manifested Flow and formed the weapon as the ending blade at the far edge of her reach. Then, with speed that would make Terry proud, she whipped the blade in a full circle, thirty feet out.
+
+Her will and the dissolution edge circumnavigated the entire group of remaining legionnaires, severing all remaining connections to them, effectively cutting off any form of communication with the rest of Black Legion, at least if it used anything she could perceive, which should include all forms of power.
+
+She’d considered leaving one of the legionnaires outside the effect or simply tracing the connections back, but this was a time for experimentation, and she couldn’t allow even a whisper of this to get back to the greater whole.
+
+The legionnaires jerked, one and all, and Tala took advantage.
+
+Her strikes were now backed by power and weight, blowing through the first sergeant’s defenses as if they weren’t there, despite the automaton having executed a perfect, well supported block.
+
+The iron that Tala had drawn into the superficial to lock it in place had even prevented the thing from simply being knocked aside.
+
+Tala snatched the soul-core with her iron will even as she engaged the second sergeant, which was just shaking off its shock.
+
+She freed the first soul as the second sergeant was destroyed, and continued that pattern until after only ten seconds, she stood before the lieutenant, the thing now alone.
+
+Alat had improved and with the metal spikes at her easy disposal, she had been able to remove the final thirteen lesser automata, making this last officer truly alone.
+
+The lieutenant looked genuinely confused. “You… you are the answer. The powers you wield can complete the healing. I can feel reality in your actions, somehow not lessened by your magic. Why are you fighting us?”
+
+“Because you would have burned down my world to save it. I won’t give you peace after such wanton destruction. I will put you in the ground now.”
+
+Confusion briefly flitted across the all-too-human face. “But… you could have helped, redeemed the harm you’ve already caused.”
+
+Regardless of its potential internal conflicts, it still struck.
+
+Just as the bodies of the sergeants were superior to those of the lessers, the lieutenants were better crafted yet again, their design perfected, their materials with fewer impurities.
+
+It wasn’t that the standard legionnaire was flawed, far from it. It was simply that the officers were a cut above.
+
+If the soldiers were ninety-nine percent pure silver, the sergeants were ninety-nine point nine, and the lieutenants point nine nine.
+
+It seemed like minimal improvement, but weren’t such things precisely what separated more advanced Archons from less? Their magic was more pure within their bodies and from their gates, their control more precise. When compared to what mere Mages could do, it could seem like an inconsequential difference, but it meant so much in reality.
+
+Similarly with arcanes, where the ability to retain and increase magical density was only fractionally different between grades, but it was the cornerstone upon which everything else rested.
+
+So it was for the Legion. The lieutenant's superior form elevated its speed, power, and maneuverability above the sergeants. Its skill was possibly greater than that of the sergeants as well, but both outclassed Tala in that regard, so it was difficult for her to really tell.
+
+The result was that the lieutenant was able to meet her blade to blade for three exchanges while Tala was holding nothing back… well, nothing in regard to her sword fighting.
+
+It charged her, thrusting for her heart, and Tala slipped sideways, executing a rolling chop, where Flow slammed down on the extending blade before taking most of the momentum to sweep along with the redirected thrust and roll back around to come down again on the hand, arm, or even head of the attacker.
+
+In the space of an eyeblink, the automaton pulled its thrust, and twisted, getting in position to block the secondary downward strike.
+
+Tala hit like a collapsing battlement, the impact flinging the lieutenant downward to crater the ground and blast most of the looser dirt away in a wide area around them.
+
+Tala had been lifted up a bit from her own downward strike, but she fell after the automaton all the same.
+
+The thing contorted and uncoiled with supernatural speed, barely coming to its feet in time for the second exchange.
+
+Tala came down with a powerful overhead chop, Flow striking the raised, angled blade and deflecting to cut deeply into the ground to the right.
+
+The lieutenant struck forward from its high guard as her feet hit the ground, and Tala bent under the sweep, twisting forward and to the side out of the way of the follow-up strike.
+
+As she straightened, she punched the thing with her offhand, blasting it away to slam into the crater wall and send up yet another plume of dirt.
+
+Tala bent and launched herself after the automaton, coming in with her own thrust.
+
+The lieutenant recovered a bit slower this time, but it still rose up quickly enough to execute its own rolling parry.
+
+Tala didn’t allow Flow to be knocked aside. Unfortunately, the automaton’s blocking strike was powerful enough that it moved itself instead, if only barely, causing Flow to pierce its shoulder instead of its chest.
+
+As the black blade tried to come around in the too-tight space, Tala headbutted the lieutenant, driving it down into the ground once more and tearing Flow free, ending the third exchange.
+
+Tala sighed and shook her head.
+
+She might have said ‘good fight,’ but it really hadn’t been, not at the end.
+
+So, without a word, she bent down and gripped the things head, using the contact and the authority that such granted her to tear apart the soul-core and free the soul.
+
+Despite a bit of confusion still on the lieutenant’s face, Tala saw contented acceptance as the spirit was separated from the soul, the former dispersing as the latter passed on.

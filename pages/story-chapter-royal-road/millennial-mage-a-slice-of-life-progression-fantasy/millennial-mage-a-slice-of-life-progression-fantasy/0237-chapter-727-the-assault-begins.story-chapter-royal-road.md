@@ -1,0 +1,217 @@
+---
+id: f0d12ce6-0073-5185-8aec-4a7db43abf4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 727 - The Assault Begins"
+slug: 0237-chapter-727-the-assault-begins
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 237
+ownLength: 2489
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3688554/chapter-727-the-assault-begins"
+royalRoadId: "3688554"
+---
+
+Tala strode through the idyllic countryside and couldn’t help but feel a bit… off.
+
+She was at the forefront of a small host of powerful beings, one of eight groups marching inward with an intent to do violence.
+
+That purpose, that intent was at terrible odds with what was around her. She felt like there should be rain-laiden clouds overhead or bogs of fetid water or the sound of torture in the distance.
+
+Instead, she was leading an invasion of paradise.
+
+And with that thought, she realized that she, yet again, her mindset was being influenced by the Black Legion’s field that the alliance forces were advancing through.
+
+She hardened her resolve, rejecting the growing notion of regret and uncertainty, the feeling radiating out through her authority and allowing all those involved in the assault to stand a little taller, more secure in the purpose of their actions.
+
+That’s pernicious.
+
+She took a moment to pull her armor around herself, modeling it with joints. That choice would make it a bit weaker but ensured that even if she faced a truly powerful reality effect, she would keep her mobility.
+
+Magic was being maintained within an irregular ring of a bubble around their contracting advance,and there was no new power coming in from outside. Those with gates were ‘bleeding’ power from themselves almost constantly, and that would slowly work to maintain power density, but the de-aspecting of power wasn’t a fast process without special equipment.
+
+If I’d thought of it, we should have equipped all the gated with such constructs… Something to consider if they needed to make such an assault again.
+
+There would be no retreat for the Black Legion from this position, though.
+
+Tala had received the scouting reports from the Doman-Imithe, and the backside of reality simply no longer existed behind this region. It was utterly empty in the sense of being non-existent from what they could tell.
+
+The Black Legion couldn’t use that method either to come in or to depart.
+
+Subjugation was the name of the preferred tactic, here, with Tala and Rane meant to permanently banish as many as possible. Obviously, every fighter would destroy their enemies as necessary, but if they could incapacitate? They would.
+
+Alat finally responded. -I… I don’t like it in here. I feel cut off from so much without the Archive.-
+
+Indeed. I don’t like feeling severed either. It’s a bit… horrific that it can temporarily dampen even soulbound connections down to all but non-existence.
+
+-That’s the truth.- Alat shuddered. -Still, I’m ready to crush and banish. Get me close, and I’ll wipe them clean.-
+
+Tala grinned at that. Sounds good to me.
+
+They weren’t advancing slowly, per se, but they were being careful not to stumble into any sort of trap.
+
+From what the scouts had been able to see, they had another mile or so before they’d encounter resistance. From there, it would be a hard push to the escarpment.
+
+At that point, if there were no entry points, they’d be scaling the nearly two hundred foot vertical cliffs to reach the enemy at the top. Unless those in strategic command think of other solutions.
+
+For mundanes alone, that would be a suicidal plan of attack.
+
+For Tala and those following her? It shouldn’t be an issue in the slightest.
+
+Firming her resolve, she continued forward, further into the jaws of the beast, hoping to choke it from within.
+
+* * *
+
+Lea was rather frustrated that she couldn’t link to this massive reality field which was just out of reach from where she was in the advancing formation.
+
+Something within the field had changed, and her attempts to join in—let alone subvert—the great working were utterly rejected.
+
+If I’d known, I might have saved that card for now… Assuming it would have worked even then. It was more than possible that this field was built on entirely different principles.
+
+Regardless, she walked ever forward, her white steel exterior matching the armor of the Talons advancing around her.
+
+She wasn’t the point of this tooth of the closing maw, but she was near the front. The Talons seemed to have decided that she needed to be near the center of their part of the greater formation, which was frustrating but understandable.
+
+Talax walked at her side, and the fact that he let her be a step in front of him—indicating that he was there to support her instead of shelter her—meant the world in her mind.
+
+She smiled back in his direction, getting a grin in return.
+
+They would reap a harvest of automata this day, and if she could figure it out? She’d kick as many as possible into a permanent end.
+
+Alat had been describing the process to her, and she actually felt like there were systems within her body that were somewhat in line with the process. Though, she suspected they were latent paths for the forming of soul-spirit pairs not destroying them. In either case, they were clearly not complete.
+
+Still, some parts might come in quite handy if she could finagle them properly.
+
+It was actually becoming a bit frustrating, their advance through nothing.
+
+They were barely a hundred yards from the two-hundred foot cliffs, when they finally encountered resistance.
+
+“Incoming! Stones from above!” One of the foremost in their tooth called out, and Lea lifted her eyes before they widened.
+
+If she was judging distance and size correctly, each of the projectiles that were now beginning to arc up from the top of the cliff in their direction was the size of her head, give or take.
+
+To the gathered forces, that wouldn’t be comfortable, but it was hardly a threat given they knew it was incoming. Even the least advanced were close to those who could shelter them, so even they shouldn’t be at true risk.
+
+But if we’d been stripped of magic? She decided that must be it. If the Black Legion had assumed their reality field would make any invaders effectively mundane, then this attack would be devastating.
+
+Even though those in the assault could take the rain of rocks, those in charge clearly didn’t want to just accept the bombardment. As such, another, more authoritative voice snapped out. “Return projectiles, charge!”
+
+They’d been told beforehand not to waste power on magical attacks of any range. As such, a few could either accelerate—or otherwise attack with—mundane objects or projectiles as a base, and those were what had been called for.
+
+Lea… didn’t have any such thing nor did the Talons. As such, they didn’t delay, charging forward as a group.
+
+Around them, some Archons and gateless sent items streaking forward in various manners, but that was all the time they had before hail from the abyss began falling among them.
+
+Physical shields were raised, and the clang and thump of impact resounded all around.
+
+Even where no damage was done, the impacts were heavy, and threw off the sprinting charge of those struck. As to who was struck? Almost everyone.
+
+The rocks: Just. Kept. Coming.
+
+It was as if more than ten thousand automata were dedicated to throwing a rock every second.
+
+Lea had read stories where arrows or other things were said to block out the sun, but in this case, it was literally true.
+
+So many stones were arching overhead at varying trajectories that she couldn’t see the sky up above.
+
+Soon, the powerful warriors of the assault were reduced to dodging back and forth, their footing uncertain on the settling projectiles even as more continued to rain down. Those paired with weaker combatants covered and lifted them to ensure they weren’t buried.
+
+Did they mine the whole escarpment? This is ridiculous!
+
+The stones didn’t have anything magical—or reality based—about them, and as such, there were actually quite a few Archons who were able to render them down to gravel or sand, sometimes before they landed but certainly afterward.
+
+Lea almost started to laugh even as their charge stalled, the tactics changing on the fly.
+
+Those capable of moving the earth and stone were doing so, the rock and sand suddenly flowing up around their part of the assault and moving forward to land just in front of the foremost in their group, still within her mother’s aura which allowed them to continue using magic.
+
+Orders were passed, and they advanced again, a bit slower this time. The earth and stone protected them from the overhead assault even as it carried all the material right back toward the cliff, building a ramp that they advanced up.
+
+The assault had covered two thirds of that distance and scaled nearly half the height when the sounds of impact changed.
+
+Lea looked up and instantly knew what had happened. Hers was the first voice to sound out, but far from the last. “Legion on the roof!”
+
+The automaton presence was disrupting the magic keeping the sand and stone aloft, and moments later, localized collapses dropped their enemy down among them along with heavy debris.
+
+It seemed that some close-quarters fighting had begun a bit ahead of schedule.
+
+* * *
+
+Rane walked at the head of his portion of the assault force, a feral grin across his features.
+
+Not a single one of the stones had landed among his people, each and every one shattered and redirected by his will as he passed the material to those with magics more suited for stable, underfoot construction.
+
+Given the tactic had so obviously failed against his portion of the assault, it had only continued for a handful of seconds, and Rane was fine with that.
+
+His earth movers were already fanning out to the sides behind him, digging deep to draw materials forth for their siege ramp.
+
+They’d considered creating or bringing siege engines, but in all honesty? They’d have just been a liability in Rane’s estimation.
+
+Some of the other teeth had such, and he could see them firing off to his right and left—hear the reports of various magics and other methods of devastation—but he was secure in his choices… Well, in the choices he’d helped the one in tactical command of this portion of the attack make.
+
+That brought a grin to his face. He got to be the muscle. He was used to his wife being the heavy hitter, but with her on another front, he felt positively weighty with power.
+
+It helped that he’d basically not been able to fight since he Reforged. This would be a good chance to stretch his legs a bit.
+
+He walked forward slowly, each step gaining height through mundane means as the slope was built up just ahead of him, the material practically flowing away before his advance.
+
+The ramp was widening to either side and behind him as material was swept inward.
+
+Day turned briefly to night as a compressed-light siege engine triggered, tearing the air with a thunderous crack.
+
+The light might have been gathered and compressed with magic, but it was entirely mundane once it was fired forth, rendering it effective even when fired into the reality field.
+
+It superheated a portion of rock a quarter mile to the east, causing an odd mix of slump and mini-detonation as the material first liquified, then turned to gas in the center before popping like the very hot bubbles that it contained.
+
+The damage was undeniable, but also disappointingly minimal in the grand scheme of things.
+
+Still, it had disrupted the fortifications that the Black Legion had built on that portion of the cliff, so it wasn’t a waste.
+
+But Rane was getting distracted by other’s fights. It seemed inevitable that he would be distracted by such realities, but he’d forge on nonetheless.
+
+Ahead and now only a little above him, Black Legionnaires gathered to repel their ever closer advance.
+
+Rane’s bone armor grew out from his skeleton, covering him from head to toe in integrated protection, its very makeup woven through and augmented with white steel.
+
+Force was in his right hand and a widened vambrace—almost a shield but not quite—formed across his left forearm. When he was only fifty feet from the automaton ramparts atop the cliff, he pulled an odd sphere from his storage, lofting it briefly before slamming it with a two-handed swing.
+
+His magics imparted the kinetic energy throughout the stone and metal construction, and it launched forward, just clipping the top edge of one of the crenulations.
+
+That comparatively light impact was enough to shatter the structure of the construct, causing spring-loaded fragments to explode outward in all forward directions with shredding force.
+
+This expansion was aided by the reality field as it removed the magic that had been used to compress far, far too much material into the spherical shape. It was mostly directed by the speed imparted to it when launched by Rane.
+
+The combined result was hundreds of little flechettes expanding outward, each with the speed and force of a monstrous ballista but in a far more compact, concentrated package.
+
+The whole section of the wall was wiped clean of standard and sergeant automata, and even the lieutenant models that were hit seemed quite worse for wear.
+
+With that introduction, Rane crouched and leaped, easily clearing the remaining distance to land atop the recently cleared wall.
+
+* * *
+
+Terry was sure now, and this was not good.
+
+There was an army of automata moving north through the southern forest, and from what he could tell as he flickered through the canopy above them, they were converging, all heading in a singular direction.
+
+Bandfast.
+
+More disturbing were the… oddities of these Black Legionnaires.
+
+While they seemed to be made of the same materials as those Terry had fought before, the designs were entirely different.
+
+No, that wasn’t right. They were still basically humanoid, but where the Black Legionnaires that had attacked Platoiri looked very human indeed, these looked like something else.
+
+These looked like Leshkin, and there were even Leshkin among the ranks, seemingly now made of a mix of plants and metal.
+
+Worse yet, the more advanced variations of Leshkin were represented among the Black Legion’s forces, but in those cases, they were of metal instead of plant matter.
+
+Something had drastically changed, and if Terry had to choose a trail to follow, he’d pick the one that led to a single conclusion.
+
+The Leshkin had been subsumed, and from what he could see through mirroring his little chick’s magical means of sight, the Leshkin spirits had been leashed to the souls of the stolen vestiges to make new soul-spirit pairs and provide soul-cores for this new army.
+
+Tala needed to know.
+
+The gated humans in Bandfast needed to be warned.
+
+Terry had a lot to do and not much time in which to do it.
+
+Without further delay, he flickered forth, racing ahead of the loping army, pressing to get to the human city before the oncoming tide.

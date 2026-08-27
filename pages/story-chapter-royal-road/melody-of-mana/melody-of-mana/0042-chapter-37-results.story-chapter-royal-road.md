@@ -1,0 +1,135 @@
+---
+id: 1a824f90-1cdc-5a69-8be3-0d75d6b8c9d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 Results"
+slug: 0042-chapter-37-results
+partOf: melody-of-mana
+position: 42
+ownLength: 2099
+unit: words
+ownProgress: 2099
+publishedAt: 2021-08-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/730569/chapter-37-results"
+royalRoadId: "730569"
+markedReadAt: "2026-06-29T22:27:39.510Z"
+---
+
+There was a small carriage waiting for us. It was functional, not overly decorated, but neither was it uncomfortable, with plenty of room for both us and the three soldiers. They did not speak as we rattled along down the streets. The vehicle had windows of course, but nobody seemed much interested in looking out of them.
+
+I was nearly trembling as we slowed to a halt and were led out of the carriage. Where we were was obvious in an instant. The large gleaming building standing above us was one all of us knew quite well. The guardsmen who'd brought us led us inside what could only have been an entrance for servants and low visitors, as we were joined by several more, two women and another man moved into our party as we passed through the doors.
+
+"Come with us please." Our little group was broken into three. Two guards led each of us off into rooms. The women of course came with me, the men splitting themselves between Charles and Dras.
+
+The room I was led into was rather spartan, a table and two chairs. The guards took up spots beside the door as another woman bustled in. She quickly and quietly took all of my measurements, a small tape being pressed against me again and again. I counted myself lucky at least that they'd allowed me some dignity by not having male guards watching as this woman worked. She had an aura, which was off-putting, it hung on her like a shroud.
+
+"Excuse me." I began to try to start up a conversation with the strange lady.
+
+"Not now dear, I'm working."
+
+She was noting down a number of measurements on a small piece of paper. She took numbers on several places along both legs, even the upper thigh, somewhere that made me stiffen and turn red, along with arm length and diameter, neck, and all along my torso. In the end she shuffled off, exiting without giving me even the slightest bit of information.
+
+I considered trying to talk to the guards, but one look at their disciplined posture dissuaded that. They stood like statues by the door, watching my every move. It was unnerving. I stood there, tiny and covered in filth and dry blood before the two in their pristine armor, looking down from high above at what must have seemed to them like a beggar.
+
+The awkwardness was 'mercifully' ended by the entrance of a slim man dressed in dark gray. He slithered into the room and even through their discipline I could sense the guards recoil a bit. No aura that I could see as he gestured to one of the chairs beside the table.
+
+"Would you please sit?" His tone was smooth and businesslike, but made clear this was an order, not a request.
+
+I sat where he'd indicated, the chair was a plain wooden affair, well made save for the fact that one of the legs was a bit off. No matter how I shifted I was constantly off balance. From my angle I also could not see the guards, the whole setup was like it was meant to unnerve. Even knowing that I could still feel shivers running up my back.
+
+"Good evening Alana, my name is Emil. We're going to have a little conversation, and you're going to answer me truthfully. Am I understood?"
+
+I nodded.
+
+"Good, good. Now, I'd like you to tell me exactly what happened."
+
+I began my story, detailing how Dras and I had gone to watch the entrance exams, and how we were headed home after visiting a bookstore. When I got to the part of the attack he interrupted me.
+
+"Did you purchase the book you so desired?"
+
+"Um... yes."
+
+"Do you have it with you?"
+
+"Yes." I took it out and showed it to him, he briefly flipped through as he continued asking questions.
+
+"Did you know there was going to be an attack?"
+
+"No."
+
+"How much did the book cost?"
+
+"What?" The sudden jump back was a bit jarring.
+
+"The book you bought, how much was it?"
+
+"Um, ten silvers with the leather case and everything. I split the cost with Dras, since we both wanted to read it."
+
+He raised an eyebrow at that.
+
+"He mostly wanted to read it... I cared a bit less."
+
+He chuckled a bit. "I see. That's quite a bit of money. Wherever did you get it."
+
+"I work as a bard."
+
+Another nod and he had me continue. There were a few points here and there where he asked for details on what transpired, but nothing too deep. Eventually I finished, and he gave me a slight smile. I had pointedly left out the part where I had confessed to murder to a young man who was seemingly far more important than I'd previously gathered.
+
+"Now, I believe you left out the part where you confessed to killing the mayor of your village to His Highness, but that is a rather minor matter."
+
+I felt myself stiffen and my breathing hitch as he spoke.
+
+"Relax, with what you told him no court would convict you. There's no name that I know of, no place, all that. Not that it matters anyway, if His Majesty has so deemed it, you would still be convicted."
+
+At this point I was visibly shaking. This man, Emil, sat there with a light smile on his face. He was enjoying himself watching me panic.
+
+"I told you to relax didn't I? You really must learn to listen Alana. It's an important skill. The fact is, that nobody cares if you killed some man, well, nobody important. The king did seem a little concerned for a bit, but I'm told our dear queen declared that she didn't care if you'd killed a hundred men and mounted their heads on spikes, for you'd returned her dear son to her. You didn't do that by the way, did you?"
+
+I shook my head, trying to parse out everything he'd just said. Apparently I'd been casually conversing with a royal for the last few days. The implications of that were a bit staggering.
+
+"Now, your two young friends are being rewarded with a nice little sack of gold each, but you, I think you'll find this more to your liking."
+
+He pulled a piece of parchment from a belt pouch and laid it down. The writing was significantly more complex than what I generally dealt with, but it was clearly rather official. A brief read through showed that is was a royal pardon for all crimes I'd previously committed. All of the worry about that melted away. I'd put everything forward, and at least as far as the law was concerned, I had been forgiven. I knew I'd still feel bad about it, but that mercy was a potent salve. I froze where I was, only barely holding back the tears.
+
+Emil read my face easily. "Ah, I see you understand, good. Now, as it's late you'll be staying as a guest here. There are a few more things." His face darkened and I felt like a mouse staring up at a snake. "Listen, and listen well. As far as anyone is concerned His Highness was rescued by several apprentices to his guard. They did an excellent job, and are getting a public commendation. You, and your friends are unimportant. You are to speak of what happened to no one. You are also not to try to contact Prince Lief. You and he live in different worlds. I suggest you make sure to keep that close in your mind."
+
+"I... understand."
+
+"Make sure that you do." The smile returned in an instant. "Well, you've given me everything that I need for now. If all goes well we'll never speak again."
+
+"I certainly hope all goes well."
+
+"As do I young miss Alana, for your sake." He looked over to the guards. "Please show our guest to her room."
+
+After he swept out I was led off to a guest room. The door opened to an opulent little suite. A servant girl stood by and after one look at me set the table with food and began to prepare a bath. The tub in the corner was certainly on the larger side, and the many soaps beside it nearly made me jump for joy.
+
+The food was amazing. It was not like the food of Earth. The methods and ingredients just weren't there, but it was so fresh. Every bit had been made with exacting care, and there was tons of it. The meat was of course the best part, I seldom got much in the way of meat, and the excess here nearly put me into a food coma.
+
+The servant who'd been assigned to me saw to it that I did not pass out at the table and instead pulled me over to the bath. She expertly helped me undress and wash. It was a bit weird to have someone else washing you, particularly a stranger, but the warmth of the water and sweet clean smell of the soaps helped ease me.
+
+"So, how did you end up as a guest? Particularly one covered in dirt and, what I'm assuming is blood. I should hope not yours." The girl hadn't spoken much, only doing so after I'd been soothed into the calming water.
+
+"It's not important. Simply a kindness as it's late." This was an obvious test, and based on what I'd been told, one I certainly did not want to fail.
+
+She nodded and once I was finally clean helped me into a rather nice chemise. It was of quite a bit higher quality than what I'd owned before, but didn't quite look like something a noble might wear. This was this world's undergarments and a bit long, but they did at least keep your clothes cleaner, something needed if you didn't change every day.
+
+As I finally lay down in bed it finally hit me. I was safe, really, truly safe. After everything I no longer worried about someone finding out about the village, about what had happened there. There was nobody coming to kill me. No monsters were hiding in the corner of the room, waiting to eat me. All the tenseness fled from my body and a few tears streaked down my cheeks.
+
+"Finally," I muttered as exhaustion overtook me.
+
+That night I found my dreams were, for the first time in a long time, peaceful. I couldn't remember the details, but I felt as if I'd been held and protected.
+
+I was given another excellent meal the next morning, along with a dress to replace the one that had been destroyed. It slipped over the one I'd had as nightwear and fit magnificently. There were even places where it could be let out when I grew a bit, so I could probably keep it for a good long while. The cloth was a cool midnight blue and it was easily now my nicest garment. I spun with joy as I checked it out.
+
+The boys met up with me in the hall as the three of us were being taken back home. It was a short trip to another plain carriage, which we were told would take us right to our respective streets.
+
+"Nice dress," Dras did look suitably impressed. He too looked quite good in a brand new set of clothes, his in a deep red. Charles was similarly dressed, in his case in a pale yellow.
+
+"Thanks! You two look good too. You'll have to figure out how to explain everything to your families though."
+
+"Oh that's simple. We got lost in the undercity, stumbled upon Charles here trapped deep in it, and escaped with a magical item, which we sold. Charles came up with it, even ran it by the... man we met yesterday afternoon. It's now the official explanation."
+
+"Well, you could have included me in your planning for all of that."
+
+"By the time we got together to come up with it you were asleep. At least that's what the person we sent to check on you said," Charles explained.
+
+"Dras' mom isn't going to believe that for a second." I looked over at the lad in question as we pulled up near The Sky. "Have fun with that, and leave me out of it. I don't need her accusing me of running off and stealing her son." I fled before he could come up with a good response.

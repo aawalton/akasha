@@ -1,0 +1,339 @@
+---
+id: f2cad604-a15a-55a4-91fc-38a16f9c081a
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 50 — The Weight"
+slug: 0089-chapter-50-the-weight
+partOf: metaworld-hopecore
+position: 89
+ownLength: 4326
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3458429/chapter-50-the-weight"
+royalRoadId: "3458429"
+---
+
+"I will not charm my tongue; I am bound to speak."
+
+OthelloEmilia, Act V, Scene ii
+
+Simone Goode, up to no good, gave her a wan smile, then walked quietly to the kitchen. The dancer spent five minutes packing Chinese food into their second-hand industrial fridge, then walked slowly and calmly back into the living room, where Eppie sat on the sofa with her ukulele.
+
+“Hi Eppie,” the girl said in a tired, measured voice. Simone wore her dance casuals, but they were not cheap like the K-Mart adjacents Eppie wore to practice. The tights were branded, and the high-quality elastics conformed around Simone’s figure like a second skin. They looked comfortable, settled, unperturbed. “Thank you for looking after the girls. Would you like a glass of water?”
+
+Renée left to get them water. The little girl set a jug of warm water with two mismatched glasses between them on a crayon-covered coffee table, then informed them she would go to bed.
+
+Simone kissed her sister goodnight.
+
+She poured out a glass of water for Eppie. Her hands were shaking.
+
+“How much do you know?” Simone asked. “William said you lost your memories. You didn’t even know who he was. Much less what he did.”
+
+“Renée told me some stuff.” Eppie received the glass. She spilt water over her sleeve. Her body was far more honest than her state of mind.
+
+Why the hell am I nervous? Eppie berated herself. I am the victim here.
+
+They sipped from their cups.
+
+“I am sorry,” Simone broke the silence. “I didn’t mean to push you from the roof.”
+
+Eppie didn’t know how to respond to something so… honest and uncomplicated. She would have preferred excuses. Hearing those words now, it occurred to Eppie that Simone might have been rehearsing this moment for months.
+
++ Karmic Causality
+
+Eppie was sorry that she genuinely needed the [System] to tell her that Simone was sorry. It wasn’t that she was bad at reading people. It was that, for better or worse, she had never experienced genuine contrition from anyone.
+
+As CFO, she had fired more people than she had hired. That was one of the reasons why she rose to power. Her ability to “trim the fat” was second to none. In those final meetings, when she asked people, be they middle managers, project managers, or even junior executives, to justify why she should keep them, they would lie through their teeth. “Sorry” in her world had nothing to do with remorse. It was a survival mechanism, a trigger prompting an LLM to spew platitudes, hallucinate numbers, or offer garbled pleas that someone else should go instead of them. These people were not sorry. They were afraid of consequences.
+
+There was a line that Eppie often used in her former life to mock these unrepentant corporate loafers.
+
+“What is remorse?” she would say with a cold sneer. “If you had no choice?”
+
+For Simone, the sorry was a form of acceptance. Catharsis. The full stop at the end of a long chapter of her life. She made a choice. Now she was remorseful.
+
+The rest was up to Eppie, the friend she sold.
+
+Only now, Eppie wasn’t so sure.
+
+Could Neo Fontaine, safe in her [Persona], rich with the knowledge of another world, remain on her high horse and say that Simone should tough it out in Broadway Manchester? Should she remain here, in this two-bedroom house, sharing a room with her little sister? Should she just give up her dancing, her prestigious position at LAPA, and just get a job at a Chinese culture club? Should Denise be making better lifestyle choices? Should Renée or Cora take some responsibility for their sister’s actions?
+
+“Before I accept anything,” Eppie forced her voice to remain level. “I want some details clarified.”
+
+Simone nodded, her hands turning the mug in a circle.
+
+“Tell me what happened on the roof,” Eppie said. “And tell me what the deal is with the locker. My old locker. The new one as well, while you’re at it.”
+
+There was a long pause as they waited for the sound of cars passing. The walls of the Goode’s house were not well insulated.
+
+“Where shall I start?”
+
+“The Dancia shoes”, Eppie picked her point of entry. “Were they worth your friend’s life?”
+
+Simone leaned down, picked up the shoebox where all of Cora’s pictures were kept, and turned it over.
+
+Dancia London. The inscription was faded, but a body could tell that it was a part of a very expensive, handmade item. The box itself was more luxurious than anything the Goode family had owned. That’s why Cora had kept it for her artworks.
+
+Fuck. Eppie felt her heart give her the heebie-jeebies.
+
+“I didn’t have a job back then. Last spring. I was obsessed with the tryouts. I thought that a TV station might see me perform at LAPAGANZA, pull me out of a lineup, and life would change for the better,” Simone said, caressing the box.“Then I lost my shoes, my only good pair. Mum said she couldn’t afford another, not for another week. I needed them in forty-eight hours. The school had no spares. My assessment could be delayed. My place in the show could be affected. I could become the understudy.”
+
+“Then William came to me. He said that Valorie saw my plight, and she just happened to have shoes she wasn’t using. He said Valorie had closets full of the stuff. He gave me the shoes unconditionally. But there were conditions.”
+
+No shit, Sherlock… Eppie kept the expression from spreading to her face.
+
+“He told me why I was being bullied. He told me that it was because of you, because of Mio. Mio stole something from Val, he said, so he took care of it. Instead of disappearing into obscurity like a good girl, Mio had stuck around instead.”
+
+“Because of me,” Eppie said. Because I was her support. “I know that much.”
+
+Did Simone help as well? Mio hadn’t said as such, so Eppie wasn’t sure. The likelihood was low, though. Mio was too self-aware to bring in yet another victim.
+
+“He said if I didn't stay away from you, I'd be punished too, for associating with Mio. I was sure he was lying.”
+
+“Why?” Eppie tried her best to assess the events in chronological order. Unfortunately, when it came to Eppie’s memories, neither [Wisdom] nor [Memorisation] helped.
+
+“Mio had already dropped out,” Simone’s voice quavered. “I only knew of her from the two months you guys were close, when you started feeding the cats around campus. Mio was just gone, they said. That’s when I realised that William did something to Mio. Now, he's after you.”
+
+Because I knew of the recording.
+
+“Do you know what William did to Mio?” Eppie’s voice grew coarse. “That Mio had a recording of her… trauma?”
+
+Simone shook her head, then nodded her head. She was, in Eppie’s eyes, oxymoronically penitent and defiant. "You don't ask William more than he tells you."
+
+“But you knew there was a recording,” Eppie’s voice increased in volume. “You took proof from my locker, Simone. Why did you do it? For the Dancia shoes? Just… shoes? Who told you there was a recording?”
+
+Simone’s eyes flashed. There was anger in her sadness. There was resistance.It was a look of indignity. The indignity of a girl brought before the High Court of Salem to explain that Witchcraft was real, that their choice was to confess and burn, or drown in a barrel.
+
+“You told me,” Simone said, her eyes unyielding. “You told me to do it.” “I…” Eppie was expecting all kinds of mental acrobatics, but she had not expected this. “Are you serious?”
+
+“Yes.” “How? WHY?”
+
+“They bullied you for a month, around June, through to July,” Simone’s voice would have been too quiet to hear had Eppie not possessed supernatural hearing. “After I left, you had no other friends. You would frequently lose notes, workbooks and textbooks. Sometimes they would be in the bushes around campus, and you had to go find them. There would be gum on your bag and clothes. You would trip more often than not while going through the halls. You stopped showing up to arts blocks. You had meetings with Dr Cooper and Costello, but you refused to talk to them or see the school counsellor. You lost weight…”
+
+“And you know all this because?” Eppie suspected she knew the answer, an answer she did not like.
+
+“You came to me,” Simone was a whisper now, her eyes peeping out from her long lashes at her friend. “You asked me to help you one last time. You told me there was a recording. You said you had never seen it and never had it, but William wouldn’t believe you. He said you were protecting Mio to the bitter end. He said he admired your tenacity. It was more fun that way.”
+
+Simone’s voice grew flat. Very flat. The flatness of someone retelling some great disappointment.
+
+“You told me—you told me you didn’t give a shit about Mio anymore. You just wanted your life back. You said you’d do anything to give him Mio, but you didn’t know how. Mio was gone. Mio didn’t trust you.”
+
+Eppie closed her eyes. She didn’t need the [+Causality] at the edge of her vision to know that this was true.
+
+“The irony—the irony was that you couldn't even prove you didn’t know. You had nothing, but you couldn't prove you had nothing, because William didn't believe you."
+
+There it was. The truth. The truth sucked. The truth had knocked on the door of her righteousness, took it from her heart, then ran away into the darkness, into the pines, where the sun doesn’t shine. Her vengeance was a farce.
+
+“You begged me…”
+
+“I get it,” Eppie couldn’t take the story much longer without a violent desire to harm her [Persona]. “So what happened?”
+
+Simone exhaled a breath she had been holding for five months.
+
+"You showed me how to get into your locker," she said. "You told me how it was already broken. You planted a diary inside. You told me the middle pages had everything. That Mio had told you about the recording, that you'd written it down, that you didn't have the tape, but your diary was the proof you knew it existed. You said—”
+
+Simone’s eyes were unrelenting. “You said that if William could see. If he believed the diary, then he would stop bullying you. He would know how much you regretted helping Mio.”
+
+“And you did it, for me,” Eppie touched a hand to her temple. She was sweating. She was drenched.
+
+“I gave the pages to William. He read it,” Simone stared into her cup. “I thought I was saving you. I really did. I thought…”
+
+Eppie suddenly understood what Othello felt, the desire to be roasted in sulphur. Simone was not her Emilia. Her [Script Analysis] trembled. She was her own Emilia, a dumb broad who didn’t fool Iago for a split-second.
+
+They both stared at the cups while their emotions found distractions and avenues to hide behind. Eppie wondered if this was the right time to throw herself out the window, only there were these brightly painted security bars. Such was the malaise of poverty. A sinner couldn’t even defenestrate herself.
+
+Simone didn’t make an immoral choice. Eppie had made a miscalculation.
+
+“Did William accept this?”
+
+“He laughed,” Simone answered. “He threw the pages in the bin. He said it didn’t matter if you didn’t have it. You were the last person to contact Mio. She owed you her life. Mio, he said, was a good person. Eventually, she wouldn’t be able to stomach the guilt. She would contact you, and then…”
+
+The silence that followed was the kind with answers no one wanted to imagine.
+
+So it was never about bullying her—Eppie moaned, the pain escaping from her lips like steam from a bubbling kettle—but Eppie was too naive to understand. She was just fifteen. She only knew yesterday and tomorrow, because she really was just a kid.
+
+It was about William. It was always about William. The diary was a test, and Eppie had failed spectacularly. Instead of exoneration, she had incited William to new heights of sadism.
+
+Eppie had walked into it.
+
+She had walked Simone into it.
+
+“The bullying continued,” Simone said very quietly. “Then William made me lock you in the Old Music Building change room. I was supposed to turn off the lights; you were always afraid of the dark. He thought it would be funny.”
+
+Oh god.
+
+“You went insane.” Simone’s voice trembled. “You lost your mind in there. At first, you went completely quiet, and then you started screaming. You started saying obscene things. Do it to Mio! You said. Do it to her. Not me. Let me out. Let me out. Don’t hit me. Don’t hit me. You screamed for what felt like hours, but it was only two, three minutes.”
+
+Eppie ran to the sink and purged herself. Her [Persona] remembered, even if its new pilot did not.
+
+Without spending [Causality] on [Stamina], she would not have returned.
+
+Simone did not wait for her health to recover. Simone also had a right to purge.
+
+“You screamed. You pleaded. You bargained. I stood outside. William was long gone. Then, I did something unforgivable.” Simone’s knuckles were white.
+
+“You left me in there,” Eppie’s voice was without accusation. “Like Antigone entombed.”
+
+“Like Antigone.”
+
+Eppie could see William’s face now. The delight, the sadism, the misguided realisation. “And then you told William… what I said.”
+
+“I told William what you said. And William praised me.” Simone swallowed. “He said he knew you were lying. He made me lock you up the next week after practice as well. The one practice you showed up to, because you were scared Cooper might just throw you out of school. It was a different room. You screamed and begged.”
+
+“You never let me out?”
+
+“I was scared,” Simone said, studying her hands. “I told myself it was only ten minutes. Your begging was worse than your screaming.”
+
+And so, instead of innocence, Euphemia Fontaine proved herself guilty.
+
+“The week after…”
+
+“Enough—” Eppie didn’t want to hear it anymore, lest her body revolt again. “It wasn’t you who asked me to go to that rooftop, was it?” she said softly.
+
+“No.” Simone’s voice was like the soft archery of rain. According to Dr Hughes, it was raining that night when she was brought in. “You begged me to bring him. You said you would prove your lack of knowledge. Instead—”
+
+“He did it again,” Eppie said. “The locker? You did it… again?”
+
+“It got easier… for both of us.”
+
+The Eppie of the past wanted to slap Simone for being weak. Actually summoning the strength, however, was a whole other mechanism. How was Simone to know that her former friend wouldn’t latch onto William and scream do it to Simone! Not me!
+
+Simone's voice had dropped to almost nothing. "After the third time, you said you'd do anything. That you'd find Mio, that you would prove you had nothing. You were going to prove it to him, on the roof. I… told William. I said that you were sincere.”
+
+The tiny living room felt like a cell.
+
+The inside of Eppie’s head felt like hell.
+
+Simone drank from her cup. Then she refilled it and drank again.
+
+“What happened on that rooftop?” Eppie had to know. She was now too deep in the well to escape.
+
+“William gave me a script. Tell me where Mio has gone. And everything will stop.”
+
+“I assume I didn’t have an answer.” Eppie pinched her brows. “I was too much of a dumbshit to make something up. To get help. To bait him. To threaten him with mutually assured destruction. Instead, I did something dumber than that. I threatened to jump. Didn’t I?”
+
+Simone said nothing. The silence was worse.
+
+Eppie wanted to tear out the feeling in her chest with her bare hands. The sound that came from her vocal cords was like that of a wounded cat’s final, fatal breath.
+
+“You said that the police would investigate him if you died. You told him to leave you alone, or else. He hesitated, THEN you told him that, by your life, he had to believe that you had no way of finding Mio, that you had no idea what this recording might contain.”
+
+“And then he laughed.” Eppie felt like a broken record. God, Eppie was so stupid. So young and stupid.
+
+“You looked at the asphalt below you, and then you looked at me,” Simone’s gaze rose from her cup, to Eppie’s hands, to her chest, to her chin, then her face, slowly and meticulously, as if seeing her for the first time.
+
+“I jumped?”
+
+Simone shook her head. “I remembered you walking forward. I was sure you changed your mind. It was raining, and the ground was wet.” Simone reached out with a hand. Eppie took it. “Next thing I knew, we both lost balance. My hand was on your shoulder. I remember that. We fell in opposite directions. William caught my shirt and pulled me back, but there was no one to catch you.”
+
+Eppie squeezed the girl’s cold, trembling finger bones.
+
+“You were just gone. One second you were there, and then—William stood behind me, thinking for a while. He looked… relieved.”
+
+“Hei-mei. He said to me. I’ll never forget the way he said it. The way he acknowledged me, like it was all a part of something we agreed on. I am impressed, he said. Good job, killer. We’re sharing the same script now.”
+
+Simone tried to withdraw her hand. Eppie did not allow it.
+
+“He said not to worry,” Simone continued, her voice stripped down to the marrow. "He said he was the witness. Eppie fell by herself, he said. You are only a murderer if I say so. He said. Be glad, he said, now we can all enjoy the rest of our academic careers. He said.”
+
+Simone made a swallowing sound.
+
+“I thought about mum, and Renée and Cora, I thought about… the Dancia shoes. Okay. I said. He kissed me on the forehead. Let’s celebrate, he said."
+
+Simone’s left hand wound around her throat, like she was pulling on a leash.
+
+She was speaking faster now, her words half-slurring. “After the ambulance left, we told Valorie the news. Valorie stared at him for a long time; she stared at me. Then she said she was hungry. William drove us out to Japantown. Val wanted ramen. We went to Ippudon. He bought me ramen, Eppie, all the toppings, and it was so expensive. I’ve never had Ramen before, it was, it was pork bone soup. There was so much of it. I don’t know why, I just kept… eating…”
+
++ Karmic Causality
+
+“Stop,” Eppie pulled the black girl closer, close enough that she could put her head on her shoulders. “Enough. Don’t ask for forgiveness, Simone Goode, because I can't give it.”
+
+She squeezed her friend hard enough to wring out tears.
+
+“Forgive me, Simone, for my ignorance.”
+
+Unlike Renée, who cried at the drop of a shoe. There were no tears left in the girl with the Dancia shoes. Their tears had dried out in July, with Antigone scratching at the door and Ismene outside, listening to the thumps. All that was left in Eppie now was rage, resentment and guilt, all of which she would heap on William’s shoulders.
+
+I will plague them all, even to roaring.
+
+Simone Goode had not been up to no good. She had done what good she could.
+
+And Euphemia Fontaine, in her blind bitterness and suspicion, had forgotten all about Dr Cooper’s lesson.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality
+
+True heroism lay in human pain. It was about how much a girl could bear.
+
+The girls took a break to wash up, because God knows they needed it.
+
+They drank boiled water, they ate microwaved siu-mai and BBQ pork buns for sieu-ye.
+
+They sat at the kitchen table. Their bodies pliant, casual, relaxed. The tension was resolved. The blood was let. Catastrophe had given way to catharsis.
+
+“You were gone for almost a month. I spent the break with Valorie, practising, running errands, that sort of thing. Val can be very generous when she’s in the mood. She bought me clothes, drinks, supplements, and she even took me to see this old Chinese Physio when I sprained my ankle in practice.”
+
+Eppie tried and failed to imagine Val being helpful. If Valorie hadn’t set William on Mio—
+
+“The Club I am working at… I think I might keep working there for a while, at least until a month before dance tryouts.”
+
+“Are they not taking advantage of you?” Eppie’s eyes fell on her friend’s rather fetching figure. “I mean… you’re seriously just waitressing?”
+
+“The uncles there are really great people,” Simone spoke in a way that made Eppie wonder if some kind of Stockholm Syndrome was involved. “They give me all this food.”
+
+Okay, she had to admit. This Chinese food is legit. Still, Simone had to wear what? The slits were HOW high? Besides, cash tips can’t be a long-term, fiscally responsible solution to building a credit rating.
+
+“By the way, the Birkin…” She changed the subject. “Did you pay it off?” Eppie felt immensely guilty for the fact, but the matter of revealing Lim’s role and the forgiveness of her former friend were too complicated to untangle without putting them all at risk.
+
+Unlike Lim, Simone could not be emancipated from William until Eppie mopped the floor with his reputation. Until then, Simone’s collar would have to remain. At least for now, she assured her friend, William could no longer blackmail her with “killing” Eppie. If he tried, Eppie could just stand up in court and tell Lafitte to bring on the discovery.
+
+Instead of answering, Simone walked from the table to her bag. She retrieved a red envelope from a modest, faux-branded clutch and pulled out a wad of greenbacks. “My bonus, for being a good girl. A good friend. William said that it's good that Valorie has a friend. Val has no friends, William told me. You can be Valorie’s friend, a real friend who can’t betray her.”
+
+Eppie had never seen kindness used in such a villainous way.
+
+“I think…” Simone sat back down, her face a mix of emotions. “Val’s the only thing he cares about, other than himself, that is.”
+
+The only thing. Eppie picked up on Simone’s unconscious choice of words. As a Tech Executive and Marketer, she had known men and women like William Chen. The precise, meticulous gaslighting, the web-weaving of debts and obligations—it was obvious that William would have succeeded in her old world. She had hired men like that, shaken their hands, praised them in her quarterly reviews. Gave them bonuses. Just as Simone had received hers.
+
+But even so, William was a truly special existence. I guess that’s what makes us [Usurpers].
+
+“I think… I’ll take Cora and Renée to Disneyland,” Simone said dreamily, her eyes lingering on the envelope. “It was our dream to go one day.”
+
+As someone born with an annual pass and having had every limited-edition Minnie headband from the age of four, Eppie had nothing to add.
+
+“In the future, the near future,” Eppie still couldn’t work herself up to tell Simone of her plans. The best she could do was keep the girl out of the crossfire. “Come work for me.”
+
+Simone’s eyes fluttered. It was a hell of a statement to make.
+
+“Theatre, music, film…” Eppie spoke with the confidence of a woman who had already bought out the entertainment conglomerates. “So long as you have the skill, I can get you through the door.”
+
+Simone wetted her lips. The dancer was exhausted in more ways than one.
+
+The lights were dim because the bulbs were as exhausted as the house.Next door, Cora was fast asleep. Knowing Renée, she was probably listening with a cup against the keyhole.
+
+Eppie looked at her friend and told her that she was going to see Juliana Vaughan about an internship of sorts. She told her to stay out of the way when the new Semester started, because invariably, inevitably, William would be a footnote in their mutual future.
+
+Simone’s agreement was forced, but Eppie knew that in five months, Simone would see.
+
+The truth will out.
+
+Quest Progression
+
+[The Usurper of Hope]
+
+You have partially restored a Usurper’s theft of Causality. You did not progress the Usurper on the path of Karmic Penance.
+
+Your actions have reaped the Usurper’s Causality.Warning! The Usurper must be made to repent to complete this quest.Failing this quest will result in an immense loss of Karmic Causality
+
+And there it is. Eppie had suspected there was light at the end of the tunnel, and the [System] delivered.
+
+“I should go,” She looked at the clock, then the door. She had a flight to catch and bags to pick up.
+
+Simone shook her head. “Not safe to go out now. Mum’s home soon, she carpools with a friend.”
+
+Eppie looked around the room. There was one couch.
+
+“I’ll take the floor,” her friend offered. “Like old times.”
+
+Eppie thought of a life that wasn’t hers. A life where two girls would talk until they fell asleep in the living room, even if there were sirens and the occasional firecracker as the heater plinked.
+
+“Like old times,” Eppie lied. “But trust me, let me take the floor.”
+
+Unlike the old Eppie, Neo Euphemia was built of sterner stuff. Come the next morning, heedless of aches and pains, her [Stamina] would ensure that she rose as fresh as a Santa Monica sunrise.

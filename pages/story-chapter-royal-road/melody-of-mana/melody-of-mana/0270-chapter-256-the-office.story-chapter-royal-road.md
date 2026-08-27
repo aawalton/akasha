@@ -1,0 +1,127 @@
+---
+id: c626d49b-f074-53ee-acbd-706e87966f04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 256 The Office"
+slug: 0270-chapter-256-the-office
+partOf: melody-of-mana
+position: 270
+ownLength: 1714
+unit: words
+ownProgress: 1714
+publishedAt: 2023-08-03
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1298654/chapter-256-the-office"
+royalRoadId: "1298654"
+markedReadAt: "2026-06-29T22:35:09.081Z"
+---
+
+Everything in here was dangerous, well most of it, but we'd be treating it all as dangerous. Several items were trying to come on and failing, to multiple effects. A quick look over confirmed my fears.
+
+“It's the items themselves failing. Whoever built this didn't bother seeing to it they'd last long, and I'd wager it hasn't had anyone taking care of it since Ristolian,” I said as I backed off from the piece I'd been examining.
+
+Rust and decay would damage and destroy even the safest of magical constructs eventually. Things in stone lasted longer, but if you didn't to something to stop it all of them would degrade eventually. These were in the middle of that process, not yet fully broken, but not working as they should.
+
+“Agreed, and there's no way to tell what they were supposed to do. What I'm curious about is the power though, where are they getting it, and how much is there?” Dras added, rubbing his chin.
+
+“Well, we're going to have to find it so we can disconnect all this mess, and dispose of it too.” Any power source for this would be useful, and I'd love to study it, but the items needed to go, they were the rough equivalent of nuclear waste.
+
+The room we found ourselves in was some form of workshop, not unlike my own. The tools were mostly variants on what the academy used, though degraded enough that it was a bit unclear what the differences were. There was a stone door at the end of the hall with a reader beside it, just a box on the wall, but we'd get there soon.
+
+For now we needed to start removing equipment, bit by bit we identified the power inputs and began to destroy them. It looked like the room was set up to just turn everything on when you entered, and none of them were hidden or anything.
+
+Soon as we were down to nothing but lights we turned to the door. I couldn't see anything clearly indicating what we were supposed to do.
+
+“Thoughts?” Dras asked after joining me in my examination.
+
+“No idea, but it's old, just break it down?”
+
+“Yeah, I've got nothing better.”
+
+The old standby of 'break it' was pretty effective, so after getting our shields back in place we readied.
+
+Dras' spell shattered the door like it was made of glass, sending splinters everywhere. Whatever protections it had or used to have weren't enough to stop his magic from breaking it to bits.
+
+It also set off an alarm, a loud one, the lights flashed to red and before I could even look Ulanion had scooped me up. I felt him turning towards our exit, and then stop. The reason became clear as soon as I got eyes on it. There was a glowing red energy field there now, crackling all along the walls and even the floor of the room. It was opaque, and if I couldn't see where I was teleporting, it was not safe to try it.
+
+“That's not good, that's not good at all!” I shouted in panic.
+
+“No really?!” Dras asked sarcastically as he began to move into the hall. “Quick, we need an exit.”
+
+I got put down and we quickly made our way into the hallway. There looked to be about five doors along it, none clearly marked so far as I could see. Of note was that the one at the far end of the hallway was much larger and very clearly more heavily warded. The opposite end of the hallway had something far more ominous, a large golem that was slowly coming to life.
+
+“Guys...” I pointed before I began putting up shields, singing them into place as fast as I could.
+
+The golem ponderously disconnected itself from the wall, and began to walk towards us. Before it arrived it began to speak. “INTRUDERS INTO HEADMASTER'S OFFICES DETECTED. YOU WILL COME WITH ME,” it commanded with a mechanical voice.
+
+Dras responded with an explosion of fire while Ulanion drew his sword and I spun up lightning, not thinking I had much else. The golem let us, seemingly waiting for us to do something. As the blasts hit it one after another it didn't even flinch.
+
+“It's tough,” Dras said, looking for any damage on the construct's body, and finding no signs of any.
+
+“RESISTANCE DETECTED, DEPLOYING NON-LETHAL COUNTERMEASURES.” It lifted it's arm and lights began to display all along the limb.
+
+We felt nothing through the shields, but it was clear this was some form of wind spell based on the amount of dust and debris being blown about.
+
+“At least it's not trying to squish us,” Ulanion said. “This wind won't do much.”
+
+“Probably supposed to be something else in the past, or to pin students breaking in. Listen to it, it's still referring to a 'headmaster' it probably thinks we're... woah...” as I was speaking I began to feel a bit off, until dizziness began to overtake me and I almost fell.
+
+“What?” Ulanion began, stumbling himself.
+
+“How is it?” Dras asked, similarly confused.
+
+“Gas, it's not wind, it's gas, prob... prob... oh.” I managed to sit down on my own as the whole world started to make 'woo woo woo' sounds. I briefly gave a halfhearted attempt at singing some air into my face, but couldn't hold a tune or concentrate at all as everything spun.
+
+Dras was down too, slumping against the other wall with his head lolling about a bit. Ulanion made a run at the creature, only to fall and end up sprawled out foolishly. I couldn't help laughing at him, it was so funny.
+
+“You're cute,” I slurred unable to stop myself from giggling. As I laid on the cool floor I felt like I was floating, and slightly tingly.
+
+“SATURATION LEVEL REACHED, RELOCATING TROUBLEMAKERS.” I heard, and began shortly thereafter to feel myself being picked up and carried somewhere. I could hardly figure out where we were going though, and didn't really care.
+
+Soon enough I found myself sat in an uncomfortable chair, my companions beside me on either side, all of us slowly starting to come back to our senses. There was another chair as well, like the place was ready for up to four at a time to sit on this side of the desk. The desk was sizable, with a few discolored papers littering it and covered in dust.
+
+The most important thing about it though was the skeleton sitting behind it. It looked like we'd finally found Ristolian, sitting in his office in what must have at some point been a plush little throne. A corpse sitting in it had ruined that though and I was quite glad we'd missed most of the decomposition process.
+
+“One day I'm going to learn,” I finally said, leaning back in the wooden seat. “Not to go underground, not ever.”
+
+“It's not that bad,” Ulanion said a bit groggily as he pinched himself. “That was the most pleasant take-down I think I've ever suffered at least, and effective.”
+
+“Something I will be adding to my own spells soon,” I said, trying to check my toes as I sucked in air.
+
+“Ugh, she's not complaining about how bad it was, only that it's every freaking time we end up underground. It really is too with you isn't it Alana?” Dras observed while trying to blink. “What was that anyway?”
+
+“Laughing gas if I had to judge, non-lethal and a good move if it's trying to just stop disobedient students.”
+
+“Fun, but I'd rather be able to do it myself. Any side-effects?” he asked, drugs were a known thing in this world.
+
+“Not for this amount of exposure.” I began to look around, hoping to find some way out of this.
+
+I began to rise but heard a voice from behind me. “THE HEADMASTER HAS BEEN ALERTED, YOU WILL REMAIN WHERE YOU ARE UNTIL THE HEADMASTER ARRIVES.” That got me to quickly sit back down.
+
+“Any ideas on what to do about this thing? My spell didn't look like I even touched it.” Dras asked as I turned to look at the golem. These things too were always a problem.
+
+“A few, but none that we can do here and without any supplies. There should also be some way to turn it off, or some commands. Not sure what to do really, ask it stuff perhaps?” I looked at the golem. “Um, it looks like the headmaster is here, may we leave?” I asked innocently, pointing towards the skeleton.
+
+“THE HEADMASTER HAS BEEN ALERTED, YOU WILL REMAIN WHERE YOU ARE UNTIL THE HEADMASTER ARRIVES.” It appeared to understand I was addressing it, but didn't have a response to that.
+
+“I think the headmaster is hurt, could you call for help?” I requested hopefully.
+
+“THE HEADMASTER HAS BEEN ALERTED, YOU WILL REMAIN WHERE YOU ARE UNTIL THE HEADMASTER ARRIVES,” it repeated mechanically once more.
+
+“Maybe we can take it down?” Ulanion suggested.
+
+“If we damage it but don't break it the thing might well go to significantly more lethal measures. Depending on how it was made,” I answered thoughtfully, killing that idea.
+
+We went back and forth, trying to come up with something for almost half an hour. The emergency teams would already have been alerted, but they weren't here, meaning they couldn't yet break into the wards.
+
+“Pfft, this sucks, and I need to pee,” I finally declared in frustration. As I mulled it over though that pinged an idea. “Hey, golem, can I go to the bathroom?”
+
+“I DO NOT KNOW, CAN YOU?” it asked, sounding awfully sarcastic for an automaton.
+
+“If your creator wasn't dead I would punch him in his smug face,” I mumbled. “MAY I go to the bathroom?” I asked, louder.
+
+“YOU MAY,” it stated, pointing to a door off to the side of the office.
+
+“May I go as well?” Dras asked.
+
+“ONLY ONE AT A TIME,” it said, turning towards him directly and looking rather menacing.
+
+“Okay, I'll see what I can manage. See you soon.” With that I rose and headed to the room it indicated, hoping that it was at least a little clean and maybe the plumbing worked.

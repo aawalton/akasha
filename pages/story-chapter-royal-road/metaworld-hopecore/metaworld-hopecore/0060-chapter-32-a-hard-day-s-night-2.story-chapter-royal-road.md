@@ -1,0 +1,187 @@
+---
+id: 3081ec6f-65d3-50a7-9c37-67376c3a2f4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - A Hard Day’s Night (2) "
+slug: 0060-chapter-32-a-hard-day-s-night-2
+partOf: metaworld-hopecore
+position: 60
+ownLength: 1875
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376772/chapter-32-a-hard-days-night-2"
+royalRoadId: "3376772"
+---
+
+Saturday morning. 7:42 AM. Her [System] broke. Eppie spat a mouthful of porridge all over the table as she choked on the Mt Vesuvius of notifications. They had begun as a trickle, then suddenly the world imploded.
+
++ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic Causality+ Karmic CausalityAdditional Causality from [Noblesse Oblige] Additional Causality from [Noblesse Oblige] Additional Causality from [Noblesse Oblige] Additional Causality from [Noblesse Oblige]
+
+She also spat because, after Halle was told about a hot new song, the sounds of her old world blasted through the JBL Bluetooth speakers.
+
+“Uh— Uh— uh–huh—! (Kellie Noah)” “You know Her-huh—” “She a bad girl—uh-uh—” “Too good for yo uh–huh—!”
+
+The opening lyrics were different. The voice belonged to PayZEE, a renowned artist-turned producer with authentic West Coast credibility, a man whose career was reignited by Curon in the mid 90s by mixing RnB vocals with street rap.
+
+Tight from the startWe were, two Queens aligned, sisters under GodYou had my heartThrough every battle, every alley, firing squadThen came the bladeYou smiled in daylight while you sharpened knives inside the darkI was your prizeAn angel caught me, she gave me the sparkNow watch me riseMy crown forged from the scars you marked
+
+Holy SHIT. Eppie profusely apologised as the changed lyrics played out. Curon was NOT fucking around. Kellie Noah was not fucking around. PayZEE was not fucking around! They were kicking ass and taking names. They were going for Lucia Lancet’s throat. No more Mrs Sunshine! No more nice girl!
+
+Then Noah’s power vocals hit like a goddamn runaway freight train.
+
+I sold my heartWe were made worlds apartYou’re on your magazinesActing as my guiding starWhile I lived in the darkWatching from the parkThey told me you put me thereSo you’ll never share
+
+… You were my umbrella…You were my umbrella…
+
+OH MY LORD JESUS SWEET BABY CHRIST IN CATHARTHIC HEAVEN—! Eppie almost punched Halle when she punched the air. The power! The release! The anguish! This was NOT a song about love and support. This was a fuck you and the producers you rode in on. This was Kellie Noah freeing herself from the shackles of fate. This was her emancipation proclamation!
+
+Curon was absolutely cooking! The man had spared no expense in the production. The god damn song was a load-bearing pillar of Sony’s modern music empire!
+
+With the familar cadence, but a wholly new twist, the song played its course. By the second verse, the song had taken command of her and Halle’s body, and the two were dancing beside the desk, gyrating to the beat of “Ella” and “Eh—” as the ambient sound of rain crashed down around them.
+
+“Wanna listen again?” Halle reached for the replay. “YES— but first—” Eppie ran for her room, porridge still on her chin. First, she'd better check her god-damned email.
+
+After a few clicks, Eppie acknowledged that she really should keep up to date with her undyingly loyal Media Manager.
+
+From: [email protected] To: [email protected] Date: Saturday, November 9, 2007, 6:47am Subject: Weekly Report (W/E Nov 9): FOR THE LOVE OF GOD READ THIS ONE.
+
+Eppie,
+
+PLEASE DON’T GHOST THIS ONE. (If you do, I don’t care, I am going to call you in class, I will hunt you down) ✊
+
+☔ UMBRELLA — KELLIE NOAH ♥☔
+
+The song was released at midnight. As of 6 AM, it is sitting at #2 on the Billboard Hot 100 digital chart with 76,000 downloads in the first 48 hours and 94 confirmed radio adds this week. For a debut single, those are exceptional numbers. Sony's projections have it crossing 200 adds by week three if the momentum holds, which it will.
+
+The attribution note in the digital release credits the song as composed and gifted by Euphemia Fontaine. Noah's team confirmed this with us before release.
+
+Here’s your notices on MySpace:
+
+September 14th — Your MySpace posted: "wrote something this week that felt like it belonged to someone else. gave it away. That's probably what it was for." This has 400+ comments.
+
+October 2nd — Interview response at the Sony office session (the one where you answered twelve questions in writing and I handled the rest). Question: Do you write for other artists? Your answer, as filed: "It comes to me from a source unknown." No one knows what that means, but people liked it.
+
+October 19th — Comment on Kellie Noah's channel "This one’s for the deserved. — E.F"
+
+I wrote this comment. It has 47,000 likes as of this email. I will understand if you have feelings about this. I felt it was right. If you want to discuss it, call me. Sorry in advance if I overstepped.
+
+Attention: Do not make any public statement about Umbrella or Kellie Noa. That’s my job and Sony’s job, unless you want to make it your job (which you pushed to me). I will call you this afternoon with talking points for when you're ready to speak. Until then — nothing. You're good at nothing. Stay there. ☔
+
+VINCENT — YOUTUBE 🌼
+
+You crossed 1,000,000 views at 3:17 AM this morning.Final count as of 6 AM: 1,143,000.
+
+Sony will issue a formal response from the label next week. I am coordinating with Okamoto-san on a press release. The comment section is currently 4,400+ long. Mostly from Met visitors. Don’t read YouTube comments if you wish to remain sane.
+
+Photography Update 🎥
+
+The Set A playing frame went live on your MySpace on Wednesday evening. As of this morning: 61,000 profile views since the post, 370 comments, 1,900 shares. The image has been picked up by three music blogs and one industry trade. Good placements.
+
+Seventeen has formally reviewed the contract. March issue. You are now the cover girl. On newsstands February 5th. More on this in next week's report when I have the full layout confirmed.
+
+REGULAR ITEMS 🌈
+
+MySpace friends: 18,200 (up from 12,400 last week) YouTube subscribers: 19,400 (up from 14,800) Pending fan mail requiring acknowledgement: 340 items (drafted responses ready, going out Monday in your name, standard language, nothing controversial) Interview requests this week: fourteen. I have declined all fourteen.
+
+One exception: Los Angeles Times Arts has requested a brief profile. I have not declined this one. I am waiting for your instructions. Eric said you have a thing with Charlene Lafitte? Call me before you decide.
+
+WHAT'S COMING 🎥
+
+The next two weeks are going to be loud. I’ll do what I can, but you will need typed interviews. Maybe one or two at LAPA in person. Just don’t feed the news cycle.
+
+The Gala is on December 14th. That's our next real public moment. I’ll start building buzz for Pines and for Miss Arriaga.
+
+I'll call you at 5 PM.
+
+Read my emails.
+
+— Maddy😎
+
+Madeleine Filmore | Media Manager | Sony Music Entertainment [email protected] | [office] | [mobile]
+
+Thanking god she didn’t have to attend classes on Saturday, Eppie fired off emails back to the people at Sony who sought her guidance, thanking each and every one of them for supporting her support of Kellie Noah.
+
+By the time she was half-way done, it was half past ten.
+
+Her phone rings.
+
+“Dad?” She reads the caller ID. I HAVE A FATHER?
+
+She stared at the ID for a good three rings, wondering if this was some bastard calling to skim money from her, before her curiosity got the better of her.
+
+“Hello?”
+
+“Eppie? It’s you. Good. It's me.”
+
+She pinched her brows for several seconds in silence. “Director Curon?”
+
+“Yeah?”
+
+“Why does your caller ID say—Dad?”
+
+“Ah…” Curon was fighting back laughter. “Are you not my daughter?”
+
+“Am I?”
+
+“Well, Eric can arrange adoption papers…”
+
+“No,” Eppie sighed. “Seriously, Frederick…”
+
+“Call me Dick—wait, no. Fred. No, that’s weird too. Call me Rick,” Curon self-corrected. “You know, if you change your last name to Curon, it will open a lot of doors.”
+
+“What’s this about?”
+
+“You REALLY have to ask that?” Curon was far too excited. “Did Maddie call?”
+
+“Nope, but she emailed me.”
+
+“Good, good. You've seen the numbers?”
+
+Eppie couldn’t help but smile. “Yeah, I saw the numbers.”
+
+[Causality: 82332]
+
+It’s a beautiful, glorious number. Extra days of life. Limitless potential. And access to lord knows what Karmaic copyright she needed for her next trial. The more Kellie Noah continued on her path of emancipation, the more her [Nobless Oblige] would reward her in their shared future.
+
+“So, what do you think?” her father asked.
+
+Eppie paused. It was an awkward pause, because the song had acquired a karmic derivative of its own. On the phone, she could hear Curon passing a fat cigar from one side of his mouth to another. The man was clearly over the moon.
+
+“It blew me away,” she said in earnestness. “I had no idea this could be done. Kellie will be untouchable this award season.”
+
+“Damned right!” Curon laughed. “Did you know Davis wanted to give the song to Lancet?”
+
+“Of course, that’s why we had a contract.”
+
+“Did you know what I was going to do with the song?”
+
+“Nope,” Eppie confessed.
+
+“I didn’t either,” Curon was giggling like a schoolgirl. “When Davis told me I would fuck up his plans and gave me the talk down, it suddenly occurred to me just to stop giving a shit and let it all happen. I got PayZEE in on a favour, and the rest is history.”
+
+“Wow,” Eppie did not know she could feel respect the way she felt now. “Is Davis pissed?”
+
+"Yeah." Curon's tone doesn't change. It didn’t need to. "Then the numbers came in.”
+
+They both laughed, synchronising their joy like a pair of maniacs.
+
+Something that might be a cigar being set down. "After the next board meeting, he'll get over it. He's getting over it right now, as a matter of fact. Watching his dolly girl sit well below our Noah and wondering how his decade-long work got rolled by a fifteen-year-old orphan without a music degree. Brilliant.”
+
+"Director Curon—"
+
+“Rick,” Curon interrupted. “Are you really not up for adoption?”
+
+“No. Eppie is free like a bird.”
+
+“More like a stray cat…” Curon muttered. “So er… yeah. I just called to say thanks. I knew that you knew what you were doing, and you proved me right. Kellie is beyond grateful, she’s got something planned for you.”
+
+Wait a second… Eppie tried to work out the logic of her megalomanical composer-Director.
+
+“Er… I am not one for speeches, so here it is,” Curon continued. “I want you to take a moment and breathe it all in, and then give yourself all the credit its due. This song, I don’t know how you came up with it, but I feel it isn’t luck, and it isn’t some formula. Don’t doubt yourself. You got this.”
+
+"Thank you, Frederick," Eppie’s eyes were a little moist.
+
+"That’s Rick. Don't thank me." The voice had the curve of a smile. "Now finish those other two songs! Come Fall Gala, I’ll have a surprise for you.”
+
+The call ended. Eppie stared at the phone, her chest hot and her eyes warm. Still, she wondered:
+
+Why the fuck… is the ID tag DAD?

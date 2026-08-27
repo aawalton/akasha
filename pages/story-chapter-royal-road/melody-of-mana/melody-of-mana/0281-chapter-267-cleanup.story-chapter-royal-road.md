@@ -1,0 +1,93 @@
+---
+id: bcc1f9b7-f639-5bf4-84a9-9ea439e32803
+page-type-slug: story-chapter-royal-road
+title: "Chapter 267 Cleanup"
+slug: 0281-chapter-267-cleanup
+partOf: melody-of-mana
+position: 281
+ownLength: 1169
+unit: words
+ownProgress: 1169
+publishedAt: 2023-09-12
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1341113/chapter-267-cleanup"
+royalRoadId: "1341113"
+markedReadAt: "2026-06-29T22:35:32.175Z"
+---
+
+My father literally couldn't stop laughing. It was refreshing to see him in such a good mood really, since he was far more dour than I'd like since mother's death. On the other hand it was getting a bit frustrating to deal with.
+
+“That he actually came here to lay siege...” he began before giggles overtook him again.
+
+“Honestly it's like he never even looked at the defenses on the place,” my brother added.
+
+“It wouldn't have been as clean if Mystien hadn't been around, but yes, I can't imagine what he was thinking,” I agreed.
+
+While I wasn't known as the most aggressive of sorts I'd always been heavy into the magical items, and anyone who'd even bothered to read over my history would know that I had a knack for coming out unscathed. Then again, without any real military experience I supposed that perhaps he thought it would be a pushover, even with the known defenses of the fortress.
+
+“Well, I suppose I should go and get them all, anything else for me?” dad asked.
+
+“I passed over the papers indicating his surrender and that of his army. I really didn't have enough room for all of them here, and the cleanup alone was a bit more than my current staff was prepared for. We'd manage it, it would just be a pain.
+
+“So with Ozen out of it, think things will go on much longer?” I asked.
+
+“He may be out, but not all of his men will be. Some of his territory will accept our rule, but we need to be prepared for the same thing that happened with Durin. Some of the sub-commanders will split off, claiming they're now in charge. Some may even become bandits or some other large-scale issue. There's also the fact that there are still other claimants to the imperial legacy that may absorb parts of Ozen's land and will definitely keep opposing us,” dad answered, no longer laughing.
+
+“Boo,” I observed, quite wisely in my opinion.
+
+“Civil wars are nasty little sister,” John said with a slight smile. “We'll get back to normal, one day.”
+
+I was glad both of them were here. They'd not managed to come immediately when we called for help because of other attacks, but those proved minor. It looked like I'd been the real target, the others just distractions to keep aid away. Since this was the largest portal nexus we had, that made sense. The smaller one would have been useful to take for them, but this would have been the real prize.
+
+I gave John an appraising look. Some days he still seemed an idiot, but even now I had to admit that he'd become quite the leader. In some years when our father stepped down I thought he'd step into the latter's shoes without any issue.
+
+“I sure hope so John. Well, if that's all done then, I have guests that I need to attend to,” I said, leaving them.
+
+The two elves had been more than patient with me leaving them for so long. I briefly wondered if that was because living for that long just made you patient, or because they saw that it was an actual emergency. In the end it didn't really matter, as I soon made my way back to the meeting.
+
+Turned out I was wrong, my guests were just there staring at each other. Walking in on them in the middle of this felt rather odd if I had to be honest, like I was walking into someone's therapy session.
+
+“Sorry for the rude interruption,” I said, nodding towards them.
+
+“I actually found it rather interesting. What exactly did you have that golem doing? If you don't mind sharing,” Justin asked, one eyebrow quirked.
+
+“Laughing gas, something Ristolian left behind,” I answered with a shrug. “Hilariously effective.”
+
+He snorted laughter at that. “That does seem his style,”
+
+“Laughing gas?” Adia questioned.
+
+“Nitrous oxide, a temporary, if effective painkiller,” I told her. “Causes feelings of joy, happiness, things like that, also makes it hard to function for dizziness.”
+
+She made a face, “A poison then? I can't say I approve.”
+
+“Everything is poison in the right amount, but this is fairly benign. Frankly the temperature see-saw was a lot meaner than that,” I argued, poisons weren't banned by any of the orders, but they weren't well liked either.
+
+“I personally thought that bit was rather inspired too. Seldom do I get to see bardic magic abused in war so thoroughly, and never in that manner. Which is saying something, I've seen a lot of magic over the years,” Justin observed.
+
+“There have been a few similar uses, but few,” Adia answered, tapping her chin. “Mostly those involved making it cold and wet rather than hot and cold.”
+
+“Well thank you for the compliments. Mystien should bee here to rejoin us soon, but I think we're pretty much done anyway. Justin, when exactly would you like to go and see the site?”
+
+“It will take me a few days to get my side of things put together. A week then?”
+
+“Sounds good to me. Miss Adia, I'll discuss with you later about portal deliveries, but unless either of you have anything else, I have a bit of a mess on my doorstep.”
+
+“Would you mind if we had the room for a bit longer? There's some things I'd like to continue speaking about with my opposite,” Justin asked, getting a quirked brow from Adia.
+
+“No problem, please excuse me.”
+
+I met Mystien in the hall, it looked like he'd just finished up some of his own tasks and was indeed coming to rejoin us. After a brief greeting we went back down towards my lab on my own.
+
+“Alana, you know I feel like we have the same conversation again and again,” he said.
+
+“What about?” I asked.
+
+“Secrets. I'm not stupid, and while you may have met Justin on that little trip of yours, there's certainly more to it, any fool could see that. I cannot say that I would give such concessions as he did to someone I'd met only a few times. Oh, as well as the fact that the orders were willing to send what is clearly a very senior priestess out to this meeting, to say nothing about allowing it at all.”
+
+“I have more and more as time goes on,” I answered, and it was the truth. “I think I've shared more than enough of them with you as well, even when I didn't want to.”
+
+“True, true you have given me far more than I could ever have asked for from an apprentice.” I raised my eyebrows at that description. “Don't look at me like that, while I may not have been responsible for all of your education, you are certainly one of my students. There's one more question that I really would like answered though.”
+
+“And what is that?”
+
+“Your aura, why is it the same at Justin's?”

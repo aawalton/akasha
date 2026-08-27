@@ -1,0 +1,107 @@
+---
+id: 9e0779df-439d-5ab5-9ffe-0f763f3b4847
+page-type-slug: story-chapter-royal-road
+title: "Chapter 292 Subtle Advice"
+slug: 0307-chapter-292-subtle-advice
+partOf: melody-of-mana
+position: 307
+ownLength: 1716
+unit: words
+ownProgress: 1716
+publishedAt: 2023-12-13
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1441489/chapter-292-subtle-advice"
+royalRoadId: "1441489"
+markedReadAt: "2026-06-29T22:36:25.676Z"
+---
+
+Alana
+
+I followed the kids in, but I was more than a bit worried. These people's needs weren't the children's, and what the children wanted was certainly not what the protectors of this city did. At minimum I anticipated that they'd try to delay my students so they might extract some extra mana or something from them, to power the city wards. If things went truly wrong they might try to press gang them all into the city's protections, in a back-line position of course, for everyone's benefit.
+
+Should I let them handle it? Should I just go to the leaders of the city and tell them what they needed to do? The answer was a bit unclear at the moment, so I would just wait, and watch. It would be easy of course to do something if and when it came to it, but I'd seen the little birds fly, and stepping in where I wasn't needed would only hurt them.
+
+It was a good sign that they were being checked out by nurses and if I wasn't mistaken a priest first. None of them were hurt in any meaningful way, so that was quick, but it was there that they were pulled away from the rest of their little group. After some consultation and a few quick runners sent they were to be moved out. The people of Atal had just been traveling with them, so I cared only as much about them as any normal person, but even with that I presumed they'd be fine.
+
+The mayor's house wasn't far, but the trip there let me see just how many people they'd packed in here. It was like sardines in a can, and I understood why. Some of the people looked a bit broken, or exhausted, but most of them looked to be alright. That was a good sign, the administration wasn't completely broken yet, I'd seen that, and this wasn't that. There was still hope for the people here.
+
+My childhood had some darker moments, and I was worried that I might see some more of that in the people here. To be fair some did look terrible, but I'd seen worse. The elves weren't starving, they weren't being beaten down by those in power, they weren't suffering, at least not right now. No, right now they were scared, but still making it.
+
+“Youth, ah the future of nations, welcome. I'm afraid you're not seeing me at my best right now, but I do hope you'll take a moment so we can speak. I hear you're from abroad,” the mayor said as he met them. He was on the larger side, and looked frankly exhausted, with black bags under his eyes and a strained expression. An aide joined him, standing off to the side.
+
+The kids did just that, telling him about how they'd been separated from their group. How they were trying to make it inland to meet up with a potential way home, and a few small details about their trip so far. They left out anything about portals, thankfully, as well as the fact that two of them were the heirs to the throne. Progress might be slower than I'd like, but it was happening.
+
+“I see, and I understand your desire to return home, but this isn't exactly a normal situation,” the mayor told them.
+
+“Sir, we cannot, and will not stay here for an unknown amount of time,” Omos said, straightening his back.
+
+“No, no young man, I wouldn't try to make such a thing happen. I will however ask for a couple of days though. Let me try to get word to the city of your whereabouts, as I'm sure they're looking, and make sure the worst of these monsters is passed. If it is so, I'll certainly send you on your way, and perhaps even manage a few soldiers to go with you.”
+
+“Two days,” Amara told him, backing her brother up. “No more.”
+
+“Patience, please. For the time being I'll host you, after all there are almost no rooms left in the city and my house is the safest. Now if you'll follow my aide here, he can show you to a room, and where the baths are, I'm sure after such a journey a relaxing soak would be nice hmm?”
+
+The besieged leader didn't wait for his assistant to come back before he went back to his office. There were a few others there, all chest deep in paperwork. One tried to speak before being quieted with a raised hand. They were waiting for the aide to come back it seemed.
+
+“How are they settling in?” the mayor asked.
+
+“They don't trust you,” he replied.
+
+“Well I did just lie to their faces. Kids from another country, lost, in the middle of this? No, we're not letting them run off where they please, that's a diplomatic disaster waiting to happen. Even if we have to force the issue, and they hate us, their parents will understand.”
+
+I began checking my protections as they continued to speak.
+
+“What about contacting the capital?” the aide inquired.
+
+“Oh we will, if for no other reason then we need someone to come and take them out of here. I'm not holding my breath though, the fighting's still going on over there and a gaggle of lost children isn't their first priority.”
+
+“None of them look weak sir, not sure how we'll keep them here if they choose to fight us,” the aide told him with a furrowed brow.
+
+“Well,” I said, letting my voice be heard as I pushed out and made bubbles fill the room. “You won't.”
+
+The mayor tripped back and nearly fell on his face, one of the people doing paperwork also paled and stood, looking all around for me. I gave it a few seconds, and then revealed myself, stepping out into their midst.
+
+“W-who are you?” the startled leader asked.
+
+“Well, I'm generally considered the most famous assassin on Hediza,” I told him, using their name for the continent from which I hailed. “But I also happen to be those children's... chaperone.”
+
+“They didn't say anything... no, they don't know you're here, why?” I'll admit I was impressed, I'd just scared them all shitless and he was quickly putting some things together.
+
+“Reasons,” I answered shortly. “Those don't matter though. What matters is what you're going to do. What you're going to do is let them rest a couple of days, refresh themselves a bit, and then be on their way. Their travel arrangements are already in place and I can't have you waylaying them. Also, don't mention me, good?”
+
+“And if I refuse to let them go with some hidden killer into wherever they're going?” he asked, and I smiled, he really did want to protect them didn't he?
+
+“We'll see won't we?” I answered with another smile before turning in a quick dance move and rendering myself unseen once more. At the same time I withdrew my aura, leaving the room much as it was when I first appeared.
+
+The aide who could see auras was the first to speak. “Is she gone?” the girl asked.
+
+“I don't know, but if she is I suspect she's not far.” her boss responded.
+
+“What are we going to do?” she asked.
+
+“Send word to the city. Then... take it from there.” He was still looking around, for me. This mansion was definitely going to be swept soon, so I left. I suspected he'd do as I asked, and if he didn't? Well, I guessed I would take it from there too.
+
+A Certain Councilor's Office
+
+“Sir, letter for you. Looks like there's word on the missing students,” a secretary said as he appeared at my door, paper in hand.
+
+“Wonderful news, let's see it.” I took the letter and read it over. We'd not managed to find any of the human students, which was a bit of a worry on my part. On one hand, they might have made it home, on the other, they might all be dead.
+
+It was straightforward enough, a list of a few students who'd appeared at a certain official's city, brief descriptions. It wasn't addressed to me, but a subordinate had thought to send it up, the right choice of course. A quick glance through my memories told me that among them were the ones I would worry for most, good, good. Oh, and what was this?“Is this accurate?” I asked the secretary.
+
+“As far as I know sir,” he replied.
+
+Looks like Alana had appeared and briefly threatened him. Normally I'd take that as a negative, but a mother bear was well within her rights to be a bit defensive of her cubs. If she actually did stab the man I might need to bring it up, but she didn't seem the type.
+
+I took a piece of paper and quickly jotted my response.
+
+“Let them go.” Those three words were followed with my signature and seal, let the mayor make of that what he would.
+
+The fighting here had reached manageable levels and I wasn't needed at the moment. As a matter of fact so many of us councilors all working at once had become a bit stifling. Perhaps a quick jaunt would do me well, I'd been prepping for that before hand anyway, and based on their direction of movement their destination was clear.
+
+“Return that to the sender. I've a few short things to take care of then I'll be heading off. Good job bringing that to me,” I told the assistant, positive reinforcement was important after all.
+
+Things were busy, and the casualty count hurt, but honestly this might be the most interesting month I'd had in the last couple of centuries.
+
+Soon enough I was flying through the sky once more. The city proper was well enough, but everything around it was still in shambles, or just gone. For a disaster of this magnitude, and an unexpected one at that, we'd done better than predictions said. Perhaps with the right leadership we might have stopped the waves completely. Perhaps I could get that leadership back.
+
+“See you soon boss,” I whispered to the wind. “Maybe this time you'll come home.”

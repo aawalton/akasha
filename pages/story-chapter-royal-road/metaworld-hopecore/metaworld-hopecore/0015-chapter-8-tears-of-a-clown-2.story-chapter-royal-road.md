@@ -1,0 +1,212 @@
+---
+id: dc7e77b8-0571-581f-ac5b-564fe9a7d7e4
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 8 - Tears of a Clown (2) "
+partOf: metaworld-hopecore
+position: 15
+ownLength: 2790
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364704/chapter-8-tears-of-a-clown-2"
+royalRoadId: "3364704"
+---
+
+It took twenty minutes to travel down the 101 from West Hollywood to Cal State, east of which sat the Los Angeles Performing Arts School, LAPA to the locals.
+
+On approach to Valley Drive, one would never have suspected that, hidden behind the glass-and-concrete brutalism of the California State University, was the No. 2 high school for the arts in the USA, dwarfed only by the billion-dollar endowments of Guilliams, NYC.
+
+Though LAPA was a high school for students from Freshman to Senior, its zone of occupation was woven into Cal State’s campus, sharing auditoriums, halls, and transportation infrastructure with the university.
+
+When Eric first pulled up at the gate, it took Eppie almost half a minute to recognise that there was no grand entrance. Unlike Cal State itself, LAPA was hidden behind a foliage of dense buildings and landscaped greenery. If it wasn’t for a bleached-blonde punk in torn military cargos smoking a cig beside a wall, Eppie would have missed the entrance to her new home entirely.
+
+The school building, hidden out of view, was prefaced by an enormous pit, a smooth indent of sunken concrete that looked almost like a skate park, but was actually an amphitheatre. Above the concrete were rows upon rows of blended white arches, from which massive canvas sails stretched, providing shade and shelter for the students below.
+
+Once Eric parked, they made their way with her new clothes and rolling suitcase across the lawnless open-air atrium, and Eppie got a chance to study the students who would be her peers.
+
+It was lunch break, and kids were… kids, she supposed.
+
+She had never paid attention to kids, unless they were making the studio good money, and she wasn’t exactly sure what to expect. First of all, the student body here was explicit exhibitors of American exceptionalism, the epitome of cool.
+
+They were individualistic, but not quite individuals. There were, for example, more ivory-white cords hanging from ears than anywhere she had yet seen. At the same time, Eppie had never in her life seen so much variation in hair colour, from natural blacks to gothic jet, to bubblegum pink, to tyrian purple, to shades of blue, to anime green, to shocking orange.
+
+The most visible were the theatre kids, recognisable by their tracksuits and warmers, practising with their peers, or projecting their voices across the spacious courtyard at the trees. Around each troop of two to six people, there were more coffee cups than Eppie believed was healthy for young adults, which they sipped from incessantly between thickly printed bundles of scripts bristling with sticky notes.
+
+A closely adjacent species was the film students and the photographers, a few of whom had already taken her picture. Like lost birds they were, meandering around the quadrangle, DLSRs in hand, imagining themselves as groundbreaking directors creating the next billion-dollar enterprise, peeking and pecking at anything that moved.
+
+The least organised of the sub-species of LAPA, Eppie discerned, was the musicians. As a conservatory-type school, the student body was split between the Jazz Cats and the Classics. The former were the ones who travelled in packs, wore matching blazers, and mimed ensembles wherever they could. The latter was rarer, for school had yet to officially begin for another week, though Eppie could already spot the violinists with their precious hand-held cargo, and the contrabassists with their man-sized instruments.
+
+The hidden species that Eppie knew of was the visual artists, the painters, sketchers, the avant-garde inventors of the visual language, who were either still enjoying the last days of fall, or already in the art rooms, preening their craft.
+
+Of the four core species, the theatre kids gave the school its most prominent alumni. Many veterans of the arts, six Academy Award Winners, a dozen recipients of the Tony, a baker’s dozen of Emmys and countless fellows of elite Fellowships once called the septic-smelling halls of LAPA their fond home.
+
+Strangely, the school had produced no Grammy winners. That prestige was firmly monopolised by Guilliams.
+
+It was thanks to the school’s alumni that LAPA offered free tuition to its general stream students. It was also thanks to the school’s alumni that LAPA had been pressured into creating one hundred positions for fee-paying students.
+
+It was a compromise that Dr Arthur Burton, the long-serving Principal of the school, had reached after a half-decade tug-of-war with the school’s parental board. Simply put, the school’s well-to-do alumni wanted their kids to have the same opportunities they had, but they couldn’t produce children who could pass the school’s elite audition process.
+
+And unlike Eppie, the sixteen-year-old son of the all-time Hall of Fame rapper Calvin Smith, aka Yo-THUG, could not be considered categorically disadvantaged.
+
+Eventually, the momentum of privileged grievances resulted in a new academic wing, new landholds, new student condos, new staff, new grants, and thus—new students. Principal Burton forsook the school’s four-decade-long principles in exchange for creating LAPA’s endowment program, aimed at providing the best for general-population students by leveraging the fees paid by sponsored kids.
+
+Under the gaze of the Gen-Ed students, she and Eric walked past the main office building…
+
+… toward the Special Admissions building.
+
+The students lost interest at once.
+
+One of them visibly shook their head in disgust.
+
+Unlike the retro-brick with a fresh splash of paint that had been the old main building of LAPA, the Special Admissions building was a glass-and-concrete wonder of modernity. Cut with strange angles that created interlocking trapezoids, the building looked more like something the Cal State had funded from its endowment than something a group of parents had collectively donated.
+
+As they approached, a heavy set of double glass doors slid open soundlessly, admitting her and Eric into the atrium of a modest metropolitan museum. Curved wood, accented lights, and black granite formed the core aesthetic, guiding them toward the smiling blonde at the counter.
+
+“My name is Eppie Fontaine,” she introduced herself. “I am here to see Mrs Carr. I am moving into the… the Stratford-upon-Avon Condos?”
+
+She hadn’t paid too much attention to the title of the brochure until now, but now that she did, the name of her new home rang alarm bells inside her head.
+
+“Ah, she’s expecting you. You must be Mr Eric Lee,” the receptionist gave Eric doubly the attention she had bestowed upon herself. “Come this way, please.”
+
+They followed the click-clacking of the young lady with the shapely calves until the atrium ended, and a secondary set of sliding doors took them into a sloped plane of zig-zagging sandstone paths that led upwards toward a series of modern apartments.
+
+Eppie was sure that the first set of apartments, older-looking and in the brutalist fashion of the Cold War, would be her new home.
+
+To her surprise, Susan Carr emerged from the entrance to the newer buildings, four storeys tall and made of a composite of glass, brick, wood, and steel, shaped like interlocking, stacked shipping containers.
+
+“Eppie! Mr Lee! Welcome back to LAPA,” the woman tipped her head, and extended a hand. “Euphemia, you are looking very, very hale. That’s awesome! Mr Lee, thank you so much for bringing her back to us. We’re forever grateful for Sony’s generosity.”
+
+Eric and Susan exchanged handshakes, while she and her Operations Coordinator exchanged smiles. From the way the woman was almost pressing herself into Eric, Eppie guessed Sony was a sponsor for the programs Susan oversaw.
+
+“Well, let’s head up.” Carr snapped her heels like Dorothy trying to get home. “Let me show you your room.”
+
+Incredibly, the building had an elevator, and her new home was on the top floor.
+
+“Unit C-401A,” the Operational Coordinator handed over two keycards. “Your individual rooms are lockable both ways. Doors cannot be opened from the outside, but they also cannot be locked from the inside—that’s fire safety rules. The building management, that’s your dorm mother, maintains the right to access any room at any time, for any reason, what with you all being minors and all.”
+
+“These are single-sex dorms?” Eric looked around the mid-budget Sofitel decor.
+
+“Naturally,” Carr grinned. “Eppie is free to invite boys if she wishes. However, there’s a very strict curfew. Violation of this curfew will result in penalties, possibly including expulsion. No exceptions.”
+
+“Not even for the Nepos?” Eric asked conspiratorially.
+
+“That’s above my pay grade,” Carr flirted with her lawyer effortlessly.
+
+DING!
+
+The lift opened.
+
+They walked down a new-carpet-smelling corridor until they reached C-401A. The card kissed the sensor, and the door popped open.
+
+The first thing they saw was the kitchen table, still wrapped in plastic from the deep clean. To the right sat a kitchen so small it was only good for tea, coffee and ramen. A set of couches was placed directly adjacent to the exterior window, through which the LAPA campus could be seen. There were three plus one doors, with the latter being the common bathroom.
+
+“Three rooms?” Eppie inspected the living room. “Isn’t this for four people?”
+
+“The left room sleeps two,” Carr opened the door to show her a cramped bedroom with a walk-in wardrobe and two beds with tiny tables. “The middle-right room sleeps one. You’ve got the master suite.”
+
+“I do?” Eppie was now certain that someone was feeling guilty and wanted the past swept under the rug.
+
+“And it has an ensuite!” Carr beamed. “Usually, this is reserved for our higher tier of fee-paying students.”
+
+Her new bedroom was barely a hundred square feet, but, true to Carr’s hopeful real estate pitch, it was comfortable and cosy, with its own tiny ensuite featuring an integrated bath-shower. Her only gripe, she supposed, was that there were no windows. In a fire, the place was a death trap, with a single door as its only escape route.
+
+“This is wonderful, thank you,” she informed the LAPA Coordinator. “I’ll be sure to appreciate the opportunity.”
+
+“Wonderful, Eppie!” Carr feigned a hug, and Eppie obliged. Whatever happened next, she needed the administration either onside or forgetful of her existence. “Here, put your suitcase there. Let me tell you, the wardrobe here is deceptively deep!”
+
+Each time she and Eric thought her Operations Coordinator would go, the woman kept restarting the conversation by spouting yet another industry-insider spiel about surviving LAPA. Eppie was on the verge of asking the woman to leave when there came a knock on the door.
+
+“Come in!” She tested the limits of her new abode.
+
+The door opened.
+
+The lady at the door was a curvaceous African-American woman with a flawless, milk-chocolate complexion wearing an impeccably styled black wig. She was not heavily made up like Carr, and her uniform was more corporate than arts-school.
+
+“VP Thomas!” Carr clapped like a theatre student whose director just walked in on rehearsal. “How delightful that you could make it!”
+
+The Vice-Principal of LAPA extended a hand to them all. Eric shook it, then Eppie. The handshake was firm but not forceful. The aura VP Thomas exhibited was familiar to Eppie. From her French nails, gold band and pearl earrings, Eppie knew that she had run into a fellow corporate sister.
+
+“So this is Miss Fontaine,” her VP gave her a one-over. “I do hope you like your room. I asked the director to pick it out myself.”
+
+“It’s wonderful, ma’am,” Eppie did her best impression of a gushing fifteen-year-old. “Mrs Carr did a good job.”
+
+“I am glad to hear that. I can also see that Mr Lee is here. A stroke of good luck, that is. As we have previously discussed, LAPA is very happy to have you back. We are very much looking forward to your future career trajectory as well.”
+
+“I am thankful, ma’am,” she replied shyly.
+
+“Good, good,” the VP reached for her handbag and retrieved a small stack of papers. “I need you to sign this.”
+
+Eric took the papers before she could. The man wasn’t even her lawyer anymore, but her admin did not know that.
+
+“An NDA?” Her lawyer wasn’t happy at all as he flipped through the chaff to find the buried poison pills. “... She loses all funding and privilege if she talks about her hospitalisation, or events leading up to it?”
+
+Ah, there it is, phew. She studied her VP, this Assistant Principal Emilia Thomas.
+
+To ambush a fifteen-year-old by dangling the carrot of life in front of her face.
+
+It was a scummy thing to do.
+
+But it was very corporate and very appropriate.
+
+After all, they did not possess equal power, and if the old Lana were in her place, she would have done so much worse to Eppie to protect her nest egg.
+
+“... And Euphemia is liable for repayment of fees incurred, and she’s open to litigation and slander.” Eric looked up, and the man’s expression was ice cold. “You can sue Eppie. Euphemia cannot sue you. I see. Would LAPA like to enter litigation right now?”
+
+“Eric.” Eppie stepped forward before her white knight could swing the mighty pen and put an end to her revenge. “It’s fine.”
+
+“This isn’t fine, nor is it fair,” her lawyer’s face was pink with indignation. “Are you sure this is the school for you? I dare say there’s a decent settlement here, one that’s enough for you to attend another arts college, all expenses paid.”
+
+Their VP did not rebuke the man, but smiled serenely at herself.
+
+Eppie smiled back. “I’ll sign it.”
+
+Eric held the papers for a few more seconds, then relented. It wasn’t as though the man had a choice. His job was done. She was emancipated and therefore was no longer under the conditional protection of Eric’s firm, nor Sony’s child labour provisions. Unless she wanted to engage him personally, there was nothing else to do.
+
+This time, she was sure to sign the name in the moniker of her [Persona], Euphemia Fontaine.
+
+“Mr Lee, your witness signature please.” VP Thomas remained both professional and pleasant as Eric marked down his contact details.
+
+The room relaxed as the tension slowly drained from the claustrophobic space. “I’ll be going then. Mrs Carr will be on hand to provide you with anything you need, including your timetable and your cafeteria cards. There’s an allowance for transportation, too.”
+
+“Thank you, ma’am,” Eppie bowed her head as the VP bid them goodbye.
+
+“I am sorry, Eppie.” Coordinator Carr looked like an abused spouse who had finally made a schnitzel that stayed in her husband’s hand. “This was VP Thomas’ idea, if you still trust me.”
+
+“I trust you, Susan.” Eppie held the woman’s hand with her own. “That was scary!”
+
+Eric rolled his eyes and stared at the wall where a window should have been if the architect hadn’t cut some corners.
+
+“I’ll go and arrange your timetable right away, and everything else. Will you be here tomorrow?” Susan was a different woman entirely.
+
+Eppie laughed. “Where else would I be?”
+
+Realising her foolishness, Carr laughed at herself. “Sorry, I am a little tizzy at the moment. Keeping my job and all that, haha… the potential of losing health insurance can do that to a girl.”
+
+“Laters, Mrs Carr. Thank you.”
+
+“My pleasure, see you tomorrow morning. Oh, your new roommates will be here by the end of the week.”
+
+Her Programs Coordinator left with a spring in her step.
+
+“I hope you know what you’re doing,” Eric stood by the door. “I am going now.”
+
+Eppie studied the man standing at the threshold.
+
+For certain, Eric deserved a reward.
+
+She motioned for him to lean downward, and her lawyer obeyed.
+
+Leaning forward herself, she gave him a peck on the cheek, one that was light but affectionate. While her man was still stunned, she whispered sweet nothings in his ear.
+
+“Eric, trust me absolutely when I say, buy Apple stocks before the release of the 4s and 4GS. Also, buy Amazon if you see a dip in 2008. Hold both for five years, don’t sell unless you're buying a house. That’s my wedding gift for the future Mrs Lee.”
+
+If indeed Eric could buy AZN at $2.80, he should be sitting pretty at $128.00 by the time Covid comes and goes, and if Covid doesn’t come into this world, he should still be sitting at well over 25 times his initial investment.
+
+“What in the—”
+
+She closed the door.
+
++ Karmic Causality
+
+For now, Eric should take a break and spend some time with Emily.
+
+“Alright…” She looked at her room, her suitcase, and the place that would be her home until she avenged Eppie. Outside, the summer gales tossed the dessicated leaves in swirls of brown and black, not that she could see any of that from her windowless suite. “... Let’s unpack.”

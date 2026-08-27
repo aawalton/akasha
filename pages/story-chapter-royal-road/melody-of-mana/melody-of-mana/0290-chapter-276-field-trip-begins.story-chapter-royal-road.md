@@ -1,0 +1,65 @@
+---
+id: 0c68439c-9fbb-565e-91bf-4359a9284a7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 276 Field Trip Begins"
+slug: 0290-chapter-276-field-trip-begins
+partOf: melody-of-mana
+position: 290
+ownLength: 1266
+unit: words
+ownProgress: 1266
+publishedAt: 2023-10-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1373661/chapter-276-field-trip-begins"
+royalRoadId: "1373661"
+markedReadAt: "2026-06-29T22:35:50.921Z"
+---
+
+The seat below me shifted only slightly as I looked up at the interim headmaster. My alma mater had lost the old one a few years ago, and since we were setting up a new academy that I was going to run there had been no reason to replace him. This man was cheery and bright, and would be taking over here after the changeover. He'd been chosen specifically because he specialized in training younger mages, as had some of his staff.
+
+“How have things been this year?” I asked pleasantly.
+
+“Honestly? A bit rough with all the new students. We were already bursting at the seams and this most recent batch now has us renting nearby buildings,” Headmaster Gorin replied.
+
+“Well, I'll be happy to take the lot off your hands then, and if you ever decide to move to older students...”
+
+“I'll keep you in mind. I suppose you'll be visiting your while your here? Not often we get parents from so far away,” he inquired.
+
+“No, the kids don't know I'm coming, and aren't supposed to know that I'll be escorting them on their little field-trip,” I raised and eyebrow and he indicated that they didn't with a silent word. “Just want to see how they and the royals are doing. Is there Atali going well enough?”
+
+“On that note you've nothing to fear. Both they and the royal children are doing magnificently, almost like they were taught it from the cradle,” he gave a wry smile. “The four of them will be leading the first group of course. Setting an example for everyone and all that.”
+
+We chatted a bit longer and he handed over the list of students going. Most of them I knew nothing about, though there were some exceptions. Of course I recognized my Rodrick and Illa, as well as my niece and nephew. The fact that Veska the younger was coming was a bit of a surprise, but quite welcome. This of course covered all the students going, both from this academy and the knight one.
+
+“Good mix,” I noted.
+
+“Our counterparts across the ocean have been absolutely over the moon about this. They offered several tutors on language and have assured me that no few of their own have also been picking up ours. I've even met with the ambassador a few times, which I may say is not something I'm really used to.”
+
+None of that was particularly surprising to me. I knew for a fact that the elves of Atal had been over the moon when they learned that our royal line was mingling with some of their people. It didn't really change much at first, but had served as a sort of point of pride for them.
+
+Those friendly relations had led to the next step though, and that was my brother suggesting intercontinental trade. Apparently Etia sometimes complained about missing foods from her youth, and there were some things even money had trouble buying, like produce from the other side of the world. So he'd come to Dras, who was running most of the portal network now. There'd been months of consults on security and design, but eventually we'd come up with an acceptable agreement for everyone.
+
+Getting the portal across an ocean was no small feat, though I was told they ran into significantly less problems than my own passage had. Two months ago tomorrow it had been set up, and the diplomacy had been nonstop since. Messages and gifts flowed back and forth, and now a small group of about twenty students would be going over there to see the new continent themselves. It was a clear publicity stunt, but the people at large were eating it up. Both countries now had the honor of hosting the only intercontinental connection, and all the boons that came with it.
+
+There was also the bonus that this served as both a sort of final feather in the cap of the old academy, and the first for mine. Most of these kids would be coming to me, and after a summer break would be attending my school. About halfway through the week-long trip they would even be changing from the older black uniforms into the new deep blue and purple ones for my school.
+
+For those reasons and many others I would be serving as both chaperone and admin of this little trip. I'd be invisible the whole time of course, an they didn't know that I was coming, but if anything needed to be done I'd take care of it. The fact that I was a member of the current ruling family was key here as well, since it meant that I had enough authority to deal with either the prince or princess if they got a bit too big for their britches.
+
+Gorin and I left the small back room together and headed for the portal room. The fortress we now occupied sat right in the middle of the city, and like all other portal locations, had a number of defenses pointed inwards. The main all though had the only portal here for now. Before we arrived at our destination I hummed a few words and disappeared like mist on a sunny day.
+
+“It's spooky how you can do that,” the other teacher commented.
+
+The last thing he heard from me in response was a small echoing chuckle.
+
+The main hall was packed, with parents on one side, milling about and on the other diplomats from both nations. In the center were the students, two groups of ten each from both the knightly and mage academies.
+
+Amara stood tall before the knights, her hair pulled back over her ceremonial armor, sword and buckler on her waist. She took after her mother in a lot of ways, with a dancer's body and bright eyes. I was told when it came to physical magic the princess was no slouch either.
+
+Opposite his sister was the crown prince Omos. He looked like the spitting image of his father at his age, though not as muscled. His light robe and staff showed the school he represented. All around him his aura blazed bright, flaming like both his father's and grandfather's, but in a cool blue color. I'd seen his grades and he too was giving a good showing of himself.
+
+Of course as with any ceremony there were speeches. The headmasters of both the knight and mage academies felt the need to drone on for a small eternity about this and that. They were of course followed by representatives from each of the nations involved. The whole thing seemed to drag, and by the end of it all the students looked like they were struggling to focus on looking attentive.
+
+My brother sat behind the podium, looking thoroughly interested. This was of course an act, and I knew it, as he'd long bemoaned the longwindedness of people. Once all the others had said their bits he rose, looking down at the gathered youths.
+
+“You students have volunteered to serve as some of the first of our citizens to go through to Atal. In this you have my gratitude, so now go, go and show the greatness of our nation,” he spoke and once they'd all given him a proper salute returned to his seat with a smile, nodding to the youths.
+
+The portal opposite the podium lit with a slight whooshing noise and as one the outgoing group turned, heading two by two through it. I of course slipped into their ranks, silent as a ghost.

@@ -1,0 +1,167 @@
+---
+id: 361255fc-3ded-580c-b6bc-85f52c282b9c
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 51 - Vienna (2) "
+slug: 0091-chapter-51-vienna-2
+partOf: metaworld-hopecore
+position: 91
+ownLength: 2619
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3468981/chapter-51-vienna-2"
+royalRoadId: "3468981"
+---
+
+Vaughan's town car arrived at two minutes to ten.
+
+She walked out in her shabby layers and greeted the silver-haired driver, an African-American gentleman holding an A5 cardstock embossed in gold with her name.
+
+“Good morning, Miss Fontaine. Your bags?”
+
+“Just the one, Mr Taylor,” she read his name tag. George Taylor. “Thank you.”
+
+“Just George would suffice, Miss,” George guided her inside. The leather was warm. The seats were heated.
+
+The trip took twenty minutes in the post-rush traffic. In all honesty, she could have jogged it. The distance was not the point, Eppie guessed. It was the formality of things. On the way, she observed the city and its millions of tiny rituals, a reborn Flâneur of the 21st century. She saw men in overalls doing morning deliveries, a woman in a good coat walking her tiny dog, and a Mexican man in a puff jacket walking six large dogs. She saw hard-hatted road workers drinking cheap coffee from paper cups. She saw the homeless, still asleep at 10, against luxury fashion houses with leggy mannequins.
+
+I am moved by fancies that are curled.Around these images, and cling:The notion of some infinitely gentleInfinitely suffering thing.
+
+The enduring observations of T.S Eliot lingered in her head. Eppie’s eyes drank in as much as she could. Was the city itself an art form? Or was it merely statistical infrastructure?
+
+The city was in a constant state of decay, while simultaneously being rebuilt by the men and women who called it home. The current Mayor was a man called Conrad Holt, her alter-world Bloomberg, a billionaire having a crack at city planning. She guessed the rich must love him well enough not to sabotage one of their own, because her [Memorisation] recalled no headlines of note.
+
+She had yet to dip her toes into politics in this world, and until she had enough of a power base, Eppie understood fully well how dangerous and stupid it was to try.
+
+Could art improve infrastructure? She asked herself, then filed the thought to [Memorisation]. How much [Causality] is needed to improve public transportation?
+
+The car turned north.
+
+They had arrived at Eleven East, 73rd Street.
+
+The Vaughan residence, it turned out, was not so much a manor as a building that had decided, at some point in the previous century, that it had nothing left to prove. It was five storeys of pale limestone, worn into a grey-gold by Manhattan winters. Some renovation work had been done in recent years, but the iron gate looked original as the car slid inside. The front stonework, Eppie could see, was left un-renovated, for Juliana was the kind to appreciate the wear and tear of geometrically sagging sandstone steps. When they passed the entrance, she saw no plaque. No visible number. No intercom panel. This was a private residence. A very private residence.
+
+She thought—uncomfortably—of the Goodes’ home. It was an unhappy thought, for never in her former life had such thoughts ever pervaded her appreciation of uptown real estate.
+
+George took her suitcase without asking in the garage. They walked along a side passage through a set of ancient doors sized for carriages. Up the ramp, in the second tier of the garage, she stopped to stare at the first pieces of art she would encounter in the Vaughan estate.
+
+There were six of them on display because it was obvious they were cared for as relics rather than as Sunday cars.
+
+Eppie surprised herself by mentally calling out the collection. She had never seen them in real life, only in industry magazines she studied so as to slide into the conversations of her old-money clients.
+
+There was a Hispano-Suiza H6 in deep burgundy, famous because it was Picasso’s car. Beside it was a Bugatti Type 35 in a particular French blue with a total production number of 300. She saw what was probably the original town car, a Rolls-Royce Silver Ghost famous for its silent-running engine. The final car she recognised was an Isotta Fraschini Tipo 8, the type of car Jay Gatsby would have lent to Daisy, the car that splattered Myrtle all over the pavement. She doubted the cars had identical histories as her old world, but the vibe was unmistakable.
+
+The thing with coachcars, one of her F1 clients had said, was that they were built before mass production truly took off. Each was a work of art because they were unique. The body was built by hand; the leather, the knobs, every stitch was done by masters of their craft.
+
+He liked supercars as much as anyone, but coach classics were special. They were history. They were evidence of a time when machines were made by humans with love, not loathing. They were art.
+
+“Sir Vaughan’s collection,” George caught her salivating. “Not for sale or display.”
+
+Eppie nodded. She had suspected rightly that these were relics of Juliana’s late husband. Even a meticulous philanthropist must have a hobby, especially with their kind of money.
+
+They used the back rotary stairs, for the garage could not be modified for elevators without modifying the artistry of the architecture, into the first-floor sitting room.
+
+Their destination was the kind of room that Eppie, with all her money and all her taste, had never managed. Floor-to-ceiling shelves lined two walls, covered in books arranged by use rather than colour, punctuated by brass lamps and library stairs for the upper shelves. The third wall was an enormous window looking out into the garden, and below it sat two plush sofas from antiquity in walnut and emerald. The Persian rug was faded but tasteful. Here and there were intimate curios. Expensive items collected from artisans over the years, suggesting the cultured places the owner had ventured.
+
+Two women stood at the window in conversation.
+
+The first was her host. Juliana felt smaller than both Curon and Maddy had made her out to be, which tended to happen when peers kept inflating the enormity of someone’s worth with words. She was only a head taller than Eppie in flats, maybe five-foot-seven without heels. She had her hair styled recently, so that it was angular and gave her a more aggressive, sharper look. She wore a charcoal wool dress with long sleeves. Where her skin showed, it was only her hands that truly exposed Vaughan’s age.
+
+Her companion took a few more licks of [Wisdom] to kick in. The tall, angular, Art Deco mistress of the arts had dark hair cut to the jaw with millimetre precision. She should have been immediately recognisable, but for the fact that she sported a totally new style.
+
+Diane Mirabelle. Chief Editor, Vogue.An old friend. From the Met. Maybe.
+
+George tipped with his brow, then was gone with her luggage.
+
+“There’s our songbird,” Vaughan announced Eppie before she announced herself. “Come join us, Eppie. Diane, you remember Euphemia Fontaine?”
+
+Mirabelle gave her a look that immediately roused her suspicion. She knew the look. Unlike herself, the Editor of Vogue knew something was afoot.
+
+“How could I forget?” Mirabelle’s smile was sharp as a tack, reading her as easily as she read Mirabelle. “Great choice of dress back then, Eppie. They told me you picked it out yourself, against Trent’s advice. Well done. People with taste should never listen to hacks.”
+
+Eppie blushed despite herself. Having one’s taste praised by the Editor of Vogue was an experience in and of itself. They shook hands. In the aftermath, the two women walked around her, inspecting her with quiet satisfaction.
+
+“Alright,” Juliana Vaughan clapped. “Mirabelle’s team is upstairs. Hair and makeup, then costume. Your MUA is Marta. She’s been dressing girls like you for nineteen years, and she has yet to disappoint. She’s a gem, and she has your evening wear. Of course, if you’re that attached to school uniforms…”
+
+Mirabelle covered her mouth and laughed. Vaughan smiled.The old mentor-student pair were clearly very good friends.Eppie laughed as well, because she played the third Musketeer.
+
+"Third floor," Vaughan touched a hand to her shoulder. "Take the back stairs. It’ll save you walking through the main lobby. Watch out for the uneven steps. I’ve worn them out over the years. They’re a death trap for the unwary…”
+
+Marta, a large woman with long, pianist’s fingers, introduced herself with a seasonal greeting and a crushing hug.
+
+The makeup room was warm and private. It looked like an old reading nook, but only if the definition of “nooks” changed to singular rooms with a view of the city for natural light, about twice the height and triple the usable space of Denise’s bedroom.
+
+The “road train” kit of a Vogue MUA was something else entirely compared to the supplies LAPA provided to its students. Small bottles were arranged by hue and shade. A 20kg suitcase carried nothing but pressed powder. Brushes that had been cleaned so many times they had gone soft as breath took up two rows. A rail stood to one side, draped in cloth bags. Marta looked in her fifties, but could be older. Eppie guessed her to be Portuguese by the cadence of the single instruction she had given. There was an assistant, too, but Marta did not introduce her. Both women had the most incredible browlines.
+
+Her “natural” makeup took forty minutes. Marta began by sandblasting dead skin, oils, and grime from her face after her flight. Then, after massage and moisturiser, she applied a hand-mixed foundation so close to her natural colour that Eppie barely noticed the difference. After that, Marta explained the “costume” Juliana had ordered. Eppie was to be invisibly impressive. Her aesthetic was not allowed to overrule her personality in any conversation. This was why Marta held back on the eyeliner and mascara, and instead focused on soft sakura pastels, a hint of apple on her cheeks, and a lip colour so subtle that the viewer would feel comforted without knowing why.
+
+Her face was the canvas—Marta was the artist.Mirabelle was the designer.Vaughan, their curator. Makeup, performed for the right reasons, was art. The hair took longer. In the second half of their ordeal, Marta gave up and told her assistant to grab the extensions. Eppie’s reedy hair was tightly tethered, then out of a suitcase big enough to fit Eppie’s [Persona], the pair retrieved buns and coils that added enough volume to be properly styled. When they were done, she had an elegant coiled chignon at the back that showed off her thin white neck, and two symmetrical tendrils that framed her face, one real, and one false—all “natural”.
+
+The dress came out of the cloth bag in a single pull.
+
+Black chiffon, halter neck, two panels meeting at the nape and dropping clean from her shoulders, leaving her arms bare. Eppie praised herself for not forgetting to shave, but even so, Marta did her due diligence before allowing the fabric to fall cleanly around her waist.
+
+The dress was thigh-length. It was a cocktail dress for a cocktail event, the proportions ending exactly where the designer intended.
+
+“Hmm…” Marta looked her critically, then brought out pins to tighten the fabric around her waist. The dress shimmered. Eppie studied the fabric for a few seconds, then recognised the sparkle. “Are those…” she gulped.
+
+“They are,” Marta said without looking. “Givenchy, Spring 07.”
+
+Eppie felt a sudden and terrible premonition. “Ready to wear?”
+
+Marta gave her a look like a mother hen comforting a sweet, summer chick. “Haute. Mirabelle had one modified to order. Look at you. You don’t have a standard size zero.”
+
+Eppie groaned internally. Mass-market Givenchy was… $1,500? She should know. Haute Couture was hand-made by the artisans. Based on the commissioned atelier, it was between $5,000 and $30,000. That’s not a sum the present Eppie could throw around.
+
+“Insured?”
+
+“Naturally.” Marta looked impressed.
+
+Eppie’s heart settled back into place. She was pretty sure her Trust wasn’t going to pay for damaging a Haute Couture Givenchy.
+
+The heels were easier. They were only ivory Chanels with four-inch heels and a shiny black buckle at the ankle, $1200 at best. Easy peasy.
+
+“That,” said Diane Mirabelle when she returned to the first-floor reading room, “is better than I had hoped.”
+
+“Mmm…” Vaughan clapped twice, her palms crisp and unambiguous. “I apologise for any doubts I may have had.”
+
+Diane Mirabelle smiled smugly, a teacup in one hand. It was apparent to Eppie’s [Script Analysis] that Mirabelle could probably be the Lady Bracknell of High Fashion, only thanks to Vaughan, she didn’t mind that Eppie was a cloakroom foundling.
+
+Eppie checked her fit in the mirror. Diane Mirabelle, as always, was right.
+
+The Eppie in the mirror was a framed shot from the Golden epoch of Hollywood. The dress was made for her height, her youth, her longer-than-normal neck, her small shoulders, and her tiny torso. It was the heels that created the contrast, adding four inches to a proportion that had no business being that long. With her Disney-princess eyes, the bangs, and the hair that framed her cheekbones, she was legitimately channelling Breakfast at Tiffany’s.
+
+It was unholy magic, in a way. Her ruffles covered where a viewer expected skin, yet the hem was bare where one expected coverage. It was joyous to see. Hepburn's Holly Golightly could walk around respectfully in nothing but a man’s shirt precisely because she embodied whimsy, disarming innocence and benign air-headedness—she was the original manic pixie dream girl.
+
+So this, Eppie noted with a hint of sadness. Was the difference between the professionalism at the top and the semi-professionals at LAPA? Between the two extremes, Sony was merely somewhere in the middle-bottom.
+
+“Stand here,” Juliana Vaughan made a space for her.
+
+Eppie joined the women. “Aziz!” Mirabelle took Eppie’s shoulders and pointed toward a man with a camera rig the size of her torso. “Eppie, smile!”
+
+THE HELL DID THIS GUY COME FROM? Eppie did her best while the room flashed a dozen times in succession.
+
+“One for the archives,” Mirabelle sounded ominous.
+
+Vaughan sat her down on the couch. They took more pictures.
+
+“We’re almost ready,” her mentor spoke to her while the photographer busied himself. “Tonight, you will be in a room with about sixty people. Some are powerful, others are influential. Most are merely rich. Most, I hope, will be men and women of taste. Naturally, there will be those without, because money can’t buy that which does not come naturally.”
+
+“They do not yet know that you are my protégée,” Vaughan spoke with a hint of mirth. “Only those with taste will recognise you for what you are.”
+
+Mirabelle laughed again. She was enjoying this far too much.
+
+“I have prepared a gift for you,” her self-proclaimed mentor added with a casualness that was easy to miss, as if the dress with the diamonds, the makeup, and the opportunity weren’t worth noting. “I hope it will clarify our relationship, going forward.”
+
+Again, Eppie felt her skin crawl. “Anything else?” The question was directed at Diane Mirabelle.
+
+“Don't eat anything after six,” Mirabelle said. “Save it for the second half, when people are drunk. If you don’t feel well, go back to Marta. She’ll loosen the pins, but it’ll ruin the folds.”
+
+“Okay.” Eppie nodded.
+
+“The first guests have already arrived. That said. I scheduled you for six. Go to Marta for a tune-up before you come down. George will show you where to enter,” Vaughan gave her a knowing smile, then left the room.
+
+Eppie looked at Diane.
+
+Diane looked back with the fox-like expression of someone who was very, very much looking forward to the mysterious gift.
+
+Eppie hoped it was a cat, a fat, orange Norwegian Forester with a mop of flaming hair.

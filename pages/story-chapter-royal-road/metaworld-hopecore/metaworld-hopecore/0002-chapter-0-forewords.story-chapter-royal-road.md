@@ -1,0 +1,53 @@
+---
+id: 1eb86522-7bae-51d6-9a34-67176523d9d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 0 - Forewords"
+slug: 0002-chapter-0-forewords
+partOf: metaworld-hopecore
+position: 2
+ownLength: 661
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364264/chapter-0-forewords"
+royalRoadId: "3364264"
+---
+
+TLDR LET ME READ IT
+
+Hello there! You’re about to begin reading Wutosama’s new novel, Metaworld Hopecore.Relax. (Are you relaxed?) Concentrate. (Minimise notifications)
+
+Dispel Rising Star thoughts. (Of what to read next)Look around you. If someone is looking at you weirdly, shout at them. Shout “I AM ABOUT TO READ METAWORLD HOPECORE!” Or you can just ignore them, because what do they know?
+
+Are you comfortable? Did you know that long-form LitRPG contributes to bad spine posture? Don’t fall for this common mistake. Read with your phone at a comfortable distance, or read it as a book (in the future), or read it through your Smart Glasses, if you’re reading this in 2032. Find a couch, a chair, a sofa, a bed, a daybed, a divan, lie flat, lie down, lie sideways, lie next to a partner, while spooning. So long as you’re comfortable.
+
+Okay. I go read now.
+
+You’re about to read a very strange form of LitRPG. You’re about to read a book with no murder hobos, no mobs, no gronks, no gooning, no harem, nothing you are used to in any LitRPG you have ever read. It’s a gamified world, but this isn’t about power fantasy, even if it is immensely satisfying. Wait! Don’t close the tab! I should inform you that, yes, there are cat girls (not the Stray Cat Strut ones), and cats (so many cats), and cat shelters, and cat cafes. Yes, the number goes burrrrrr. Stat blocks galore.
+
+No, there isn’t an Excel spreadsheet tracking every change.
+
+Yes, it's HopeCore.
+
+People are inherently good; the world veers toward the fair; the good are rewarded; the bad are punished, one way or another. It’s a hyperreality sitcom. American in a better timeline. Characters aura farm… for the betterment of others.
+
+Yes, the Foreword is channelling Calvino. No, the story is written in normal prose.
+
+You’re going to read a book that the author has always wanted to write. There’s no Patreon, no tiers, no strings attached.
+
+You’re reading about art.
+
+You’re reading about art making.The making of music, theatre, and movies that bring joy to viewers and readers like yourselves, and make the world a little better, a little more bearable.
+
+You’re reading a story adjacent to all the wonderful stories this community has shared since its inception, when we were all reading Machine Translated LMS by Mister Heesung NAM on Kana and Wing's forums. You’re reading a book that exists thank to folk like @Selkiemyth of Mango Media.
+
+Read enough of this book, and you may find yourself capable of teaching a common course of AP English or making sense of theatre recitals and short films. You’ll discover classical songs, books, plays, and more, which may distract you from your saved LitRPG titles. (Sorry) You’re reading a book about what goes into the sausage. You’re also reading a book that serves as a repudiation of the rise of AI, which is ironic because the author works full-time, falls asleep during editing, and needs Claude to check tenses now and then. If you enjoyed this weird-ass LitRPG, leave a raving review. If you’re weirded out by the lack of the usual ingredients, there are absolutely better books out there. Have you read Metaworld Chronicles? The author thinks it's the Ben Affleck of Webnovels.
+
+Shut up! I want to read.
+
+Wow, you’re still here? That’s incredible.
+
+So you’re ready to jack in.You’re forewarned that this book is different from the author’s other works. Ergh! But then you read on, and on, and you realise, hey… you’ve acquired a certain taste.
+
+When you run out of chapters, maybe you’ll write one like this, too.
+
+Something the author can’t cover with his limited knowledge. Maybe the rise of hip-hop. Maybe classical music. Maybe the Golden Age of Hollywood! Maybe, the battle of the Modernist composers! How about KPop in Imperial Rome? Grab a pen! Buy a typewriter! You sit down… you’re comfortable, and then you start to write.

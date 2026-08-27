@@ -1,0 +1,127 @@
+---
+id: 1c24ad6f-67cc-517a-99ec-8828059703cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118 Lover's Worries"
+slug: 0131-chapter-118-lover-s-worries
+partOf: melody-of-mana
+position: 131
+ownLength: 2022
+unit: words
+ownProgress: 2022
+publishedAt: 2022-04-14
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/886032/chapter-118-lovers-worries"
+royalRoadId: "886032"
+markedReadAt: "2026-06-29T22:36:54.243Z"
+---
+
+It took about a week but eventually someone worked up their nerve and came over to approach me while I was working in the practical part of Magical Item Creation.  Hern had retained his position after the takeover, as had most of the teachers, but I didn't get much of a chance to talk to him out of class.
+
+"Hello there.  You're Alana right?"  The boy said, he was around my age and had pitch dark hair.
+
+"Yes..."  I didn't know him, or what he wanted, so caution seemed apt.
+
+"Is it true?  Are you General Verren's daughter?"
+
+"I am."
+
+"Mind if I talk to you after class?"  He looked over at Professor Hern, who seemed a bit miffed that we'd stopped working and looked distracted.  We weren't working with anything too high energy, but whenever we did anything in his class our full attention was to be on our project.
+
+Afterwards we both stayed behind.  Kala had managed to come by too, and was looking in.  The boy looked a bit awkward, like he wanted to spill out everything he was.
+
+"I'm Tobias.  It's really nice to meet you.  I wanted you to know.  Your dad saved me."
+
+"What?"  That was a bomb of a way to start a conversation.
+
+"Yeah, back when Ermath was still a thing.  I lived on an estate, the executor there was a monster of a man.  He treated all of us like dirt under his feet and well, I had a minor talent, I could make light.  It wasn't much, but it meant that I had a little mana and every day he made me put as much as I could into an item he had."
+
+"That sounds horrible."
+
+"It was I guess, but I didn't have it too bad.  A little mana meant that I had some value to him, everyone else that wasn't a soldier was pretty much just a slave, to be tossed aside as soon as he tired of them.Anyway, when the war came it was your father's unit who rescued us.  It was amazing.  I remember seeing him fight the executor.  I'd never seen anyone fight like that, and when he'd taken down that bastard the first thing he did was start freeing everyone.  They had a man who was strong enough to rip iron like it was paper and he went and loosed all the slaves.  After all the fighting that night... When I looked up and cleared my eyes I could see it then, the auras.  The first one I saw was the general, a burning black flame of death to everyone who oppressed us."
+
+He was nearly crying, and I had no clue what to say to this at all.  The kid obviously thought my dad was some kind of superhero or something, but I'd never seen any of that.  I knew he was strong and fast, sure, but I'd never really seen him go full on against someone.  Even if I had, I didn't have any way to process all this.
+
+"I... I didn't really know he was doing that kind of thing."
+
+"Really?  What's he like?"
+
+"He's like a dad.  Serious most of the time, nice, a bit overprotective if I'm being honest."
+
+"Cool.  Hey, me and some of the other new students have a study group going.  If you want you could join us.  We'd be really happy to have you around and from what I've seen today you are better at making magic items than we are for sure."  He smiled as he made his pitch.
+
+"Maybe, but until classes get fully in the swing I don't know that there's too much to do.  Can you write down the where and when for me?"
+
+He scribbled a little note on a piece of paper for me before heading off.  As he left Kala came to join me in the now empty classroom.
+
+"How goes your day oh daughter of the coolest dad ever?"  She giggled a bit as she found a seat beside me.
+
+"Please don't you start too.  I get stories but I haven't talked much to him in years.  Well, we've had dinner and stuff, but it feels like I'm getting chewed out every time I go to one of those by someone."
+
+"Fine, fine.  He is nice though."
+
+"Baahh!  New subject, want to join a study group?"  I flashed the piece of paper at her.
+
+"Yeah... I wanted to talk to you about that.  My order sent me a messenger this morning.  I'm to keep everyone at arms length for the time being.  I'm ignoring it for you specifically, but the others..."
+
+"What?  Why?"
+
+"It's not public yet, but looks like Lord Durin is marrying the former princess Sophia.  As you can imagine we're... 'deeply concerned' about it."
+
+As soon as the shock wore off I took a beat to think.  "He's trying to establish himself as legitimate.  Even if he doesn't take the title king if he marries her he'd have claim.  I can't imagine she's happy about it though.  He did take her country and like, kill her family."
+
+"The current theory is that he made her an offer to either become his bride, or take a short walk up to the headsman's block.  Either that or she's been in on things with him for awhile.  I don't know what the official statement will be, but it should be clear why The Lovers as a whole are a bit on edge.""Force marriage is... not uncommon."  I knew that a lot of people were put under heavy pressure.
+
+"Our position is that it should always be willing.  In practice there's a lot of pressure you can exert on family if you want to, but she needs to be able to say no.  If she can't... I know I'll be pretty mad, and I imagine most of my fellows will as well."  Kala was pretty solemn about this.
+
+The Lovers believed very strongly in love, in willing love, and took a violent, brutal stance against things like rape.  I wasn't a hundred percent sure what they did, but I didn't want to know either.  If he was forcing the former princess to marry him, there would be a lot of rage there.  They might keep it quiet, but they'd be pissed he did something so publicly against one of their strongest strictures.
+
+That didn't seem like what I'd heard of him though.  I didn't know the man, but my dad did, and the way he told it, Lord Durin was a pretty decent man.  I didn't think either he or Mystien would follow someone willing to go down that path, or even my brother.  It was a bit jarring to think about.
+
+"What are you going to do?"  I wanted to know if this would go bad and how fast.
+
+"Me?  Nothing.  The Lovers will probably send someone though to try and speak with him.  There's a bishop to the west that might be asked to go and very politely ask to meet with her.  We'll know more from there."
+
+I just threw my head back and groaned.  I wanted nothing to do with this, I wanted politics completely out of my life, forever.  There was a brief moment I considered just running, but then I had a brief mental image of Jackson, and that killed that desire.
+
+"So what do you want me to do?  And who knows about all of this right now anyway?"
+
+She looked a bit nervous.  "What I want is for this to all blow over Alana.  There's no good end if he's doing something bad, and I do consider that an if.  As for what I want you to do?  I don't know, and I don't know that you should do anything.  I want you safe, but..."  She took a brief moment.  "As far as who knows, I don't know.  I'm not high on the list there and all I got was a letter telling me that he's planning to marry her and to keep everyone a bit distanced until we've figured things out."
+
+"Any other news you have for me today?"
+
+"I don't think so... were you looking for more?""Not really, but I'd personally prefer to get any more bad news out of the way.  I find that just throwing it all out and letting the disaster play out is often the best way."
+
+"You do tend to do that.  It's one of the things that I love about you."  She smiled and poked me in the side, causing me to jump as it sent a jolt up my side.
+
+"Stop that!"
+
+"Ohoho!  I've found a weakness!"  For the next several moments I ended up jumping here and there as she made an attack.
+
+By the time we made out way out of the room I wasn't in nearly as serious as a mood.  It was hard to be worried and laugh at the same time.
+
+Rooke
+
+As I struggled up the side of the mountain I sincerely considered jumping off.  It had been weeks since I'd left civilized lands and I was keeping myself on the barest drops of my mana through sheer usage.  We were far and away from the edge of the kingdom's furthest out city, a place that was still at least nominally loyal, if only because they didn't know that the kingdom had fallen yet.
+
+This far out there were monsters constantly, which was a double edged sword.  It did generally keep most of the chances of enemy soldiers low, but they were hostile, and that was its own bag of fun.  I'd run into no less than four mountain lizards in the last three days.
+
+As the next rise came into view so did my next enemy.  The beast looked like a lion, only four times larger and pure white.  I wasn't sure if this was going to be one I could win, and the beast didn't look like it was about to leave me be.
+
+As the creature turned and narrowed eyes upon me I threw forth my first spell.  This was obviously something of ice so I would be focusing on fire.  The torrent caused the monster to flee back and give me space, but it was only temporary.  The flames roared between us and I continued to measure my resources.
+
+It charged forward like an avalanche, only to slam into a barrier projected from the little sphere on my waist.  I may not have too much in the way of mana at the moment, but items I had in spades.  With a quick movement I threw a small dart.
+
+My enemy dodged the projectile as it sped itself to an incredible velocity, landing with a booming explosion in a tree hanging off the side of the mountain.  Between that and the fire we were making a ton of noise, and if I survived I would have to make my way far from here as quickly as I could.
+
+We had three more passes before there was a flash of silver and a spear appeared.  The fact that it was stuck deep into my opponent's neck was helpful.  The spurt of blood that shot out shortly thereafter as it struggled and fell signaled the end.
+
+I looked around and finally found my protector.  Lord Farren came striding across the snow, cloak blowing in the wind behind him.  I supposed that all the noise and smoke had alerted him to my location.
+
+"Hello there Rooke.  It's been quite some time hasn't it?"
+
+I was nearly ready to fall to my knees in relief.  "You are a sight for sore eyes.  I don't suppose you have any news on his highness?  Or my irksome grandfather?"
+
+"Both alive m'boy.  I'll not tell your wife that you didn't request her first as well.""She beat me here!?""By about a week."  The old warrior laughed.
+
+"Well, that's a relief.  Are we lucky enough to be near?"
+
+He gave a deep laugh as he turned, leading me off once again.  There was work to do, and we'd need to get on it.

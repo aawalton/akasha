@@ -1,0 +1,245 @@
+---
+id: 5b41ed20-6338-5597-98aa-e0cf366d47cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 720 - Lea and Rane"
+slug: 0229-chapter-720-lea-and-rane
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 229
+ownLength: 2743
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3593448/chapter-720-lea-and-rane"
+royalRoadId: "3593448"
+---
+
+Lea fought.
+
+Her outward opponents changed between elves, dwarves, hue-folk, beast-kin, and other races, but in truth, she always fought against herself or, more accurately, her imperfections.
+
+She wove the triune of power throughout herself at every opportunity, slowly—agonizingly slowly—she purged herself of…whatever it was.
+
+It was odd. She knew that when most gated humans Refined, they were purging the taint of reality from their being—at least that was what had been conveyed to her now that she was Fused—but she obviously didn’t have any issue with Reality being tied to her being.
+
+She was as woven together with reality as she was with magic, and the two were kept distinct and whole by an equal part of void.
+
+So what was the grit?
+
+She’d collected some of the sand, but it defied all analysis, leading her to begin to attempt to collect all of it wherever possible.
+
+Unfortunately, just like with the more normal Refining process, the black excrete-ment faded away to nothingness in a short period of time.
+
+Hers was a sand rather than a sludge, but it still shared many similarities. One of those was a defiance of any attempt to understand it.
+
+Separate note: Interestingly, as she sparred against a wider variety of outward opponents—factoring in age, race, advancement, skill, and even number at a time—she found more buried features and capacities within her body.
+
+Most were meant to help her fight or subjugate the various races and levels of power, but some were… odd.
+
+As one example, for certain groups of fighters, she found that there was a specific manner of interacting with the magic in the area that would cause a dissonance between the allies when they tried to utilize their magics. It was both more efficient than directly opposing their workings and actually expanded her maximum range of effect.
+
+Some few were useful—like the little efficiencies for certain opponents or groups—and she added those both to her training and her growing arsenal of abilities. Those that were less than desired? Recurring prompts and urges to destroy users of magic and things of that nature? She had a different path.
+
+So, as Lea Sappherrous—daughter of Rane and Tala Sappherrous—fought to train the warriors of the City Lords’, Houses, and Guilds, she also fought to find every imperfection within her self.
+
+And as each bit was found, she purged it without remorse whether existential grit or inbuilt subprocess.
+
+With each such step, she advanced, if only fractionally, moving toward being Refined. With her self-monitoring, it was fascinating to watch the magic coming through her gate become a bit purer, a bit denser, a bit more powerful.
+
+At the same time, her soul, itself, was gaining as well, rather than fading away to leave only the gate behind, and as it grew, as it was refined as well, it seemed to smooth out somehow and become less jagged.
+
+They were nearly three-quarters-way through their rapid circuit of the southeastern cities when their plans were thrown into upheaval.
+
+Word had come down from the war council of a far-reaching assault on a Black Legion stronghold, and Lea was requested to be there.
+
+Her time was running out if she wanted to improve her ability to help. As such, she dug deeper, hunting for everything that she wanted removed.
+
+A test was coming, and she would be ready.
+
+* * *
+
+Rane was getting frustrated as he ran from one end of the northern wilds to the other. Though, he was not as tired as he would have been if that had been more literal.
+
+He had been stamping out fires with the various volunteer groups of Refined and a few other Paragons.
+
+And by fires I mean automata. And by stamping out I mean destroying any that we can get our hands on.
+
+He, himself, had killed hundreds—maybe thousands—of the regular legionnaires, many of those were even expelled from Zeme entirely, never to return.
+
+He knew he’d permanently ended at least a hundred sergeants, and even two lieutenants, but the sporadic trickle continued to surface across the plains.
+
+By now, it was painfully obvious that the Black Legion had factories, else they’d found some ancient cache of bodies for their use, which amounted to the same thing in the short term, even if not the long.
+
+In the north, they’d logged more than sixty thousand dead automata. Within the region surrounding the Cycling Cities another fifty had been dispatched—temporarily unfortunately—and the arcanes had dispatched nearly as many surrounding their southern cities.
+
+Blessedly, there were one or two other Archons who could end Black Legionnaires through one means of another, but none were very efficient, and all struggled with any above the rank of sergeant. Same with a few Eskau and Pillars in the arcane cities, but they were just as rare.
+
+Even a Paragon who was the go-to Archon for closing difficult founts struggled to overcome the sheer metaphysical weight behind the spirit-soul pair of an automaton soul-core.
+
+We have a bit of a cheat. He and Tala weren’t unique in having access to void-magic, but they were unique in the touch of reality mixed in, and that seemed to make all the difference in overcoming even lieutenants quickly enough to prevent them from separating from their bodies and escaping.
+
+But again, with so many already destroyed without any detectable change in the Black Legion’s behavior, and given the last known size of the Black Legion was somewhere in the neighborhood of fifty thousand?
+
+Yeah… this is less than ideal. They had to have found an immense cache of artificial bodies, or they had factories. If not, their strategy was foolish.
+
+Instead, it is our strategy that’s foolish.
+
+The alliance of gated and arcanes in cities established, cycling, and mobile had been running their elites ragged to try to remove as many enemies from the field as they could, but that was nearly played out.
+
+It couldn’t continue.
+
+But I can keep trying until I have a better option.
+
+He was dancing on the edge of Reforging, with all his materials gathered, his plan set, and his mindset all but complete.
+
+Even so, he felt it would be selfish to take one to five days just for his own personal advancement. Sure, it might help in the war, but for the moment he didn’t lack power, he lacked time.
+
+His current predicament highlighted that fact.
+
+Just minutes previous, he’d received a signal informing him of a Defender Unit that had volunteered together that was under attack by automata that they couldn’t overcome.
+
+And he was more than a hundred miles away.
+
+Other Paragons were further, or actively engaged at the moment, but given there were only five of them from the Cycling Cities in the north, that made sense.
+
+It was just too much area to cover with so few.
+
+One of the flying cities was close enough that it was providing support—empowered by their own more advanced citizenry—but that could only do so much.
+
+Rane couldn’t move as fast as his wife, not safely, and so the minutes dragged on, the Paragon of humanity becoming more and more agitated until—
+
+There!
+
+In the near-distance, he could suddenly see trailing lines of light as weaponry meant to drive off Paragon-level threats rained supportive fire down on a depression in the landscape.
+
+By the look of it, the miles wide depression had been created by that very bombardment.
+
+Unfortunately, the city’s firepower was intended to deal with large creatures and to dissuade more than destroy.
+
+Even so, it was a devastating, near continuous volley.
+
+Rane focused his projected outside view more closely on the ongoing battle and cursed.
+
+The legionnaires seemed to be dancing through the falling magics, clashing with a smaller group of humans who were likewise staying clear of each falling attack, forcing constant motion in an already frenetic fight.
+
+He couldn’t quite see enough detail to pick out the symbols on the automata to know their rank, but after so long clashing with them more than daily? He could tell.
+
+Six lieutenants and something more. This was either an elite squad or all the lessers had been eliminated already.
+
+Looking at the widespread devastation? It could have been either.
+
+On the human side, he could only pick out four Refined.
+
+The Defender Unit had been composed of six members, and Rane hoped to the stars that the other two had either withdrawn or found somewhere to hold up in the maelstrom.
+
+It looked like at least two of the remaining Refined had fire or light magics as they were actively reaching out and snagging the incoming friendly fire and diverting it for their own ends.
+
+If Rane had to guess, that was likely a key reason they’d survived as long as they had.
+
+Still, even at this distance, he could tell they were waning.
+
+I’m almost there. Hold on just a minute more.
+
+But a minute in such high-level combat could be an eternity.
+
+Rane hated how reactive they’d had to be in this war, but how could they do anything else if they couldn’t find the blasted enemies in order to attack them.
+
+Tala was done with the holds but something else was occupying her and Alat, making Enar and Alat’s communication slow and sporadic. Still, he felt some of his tension bleed away as his love for and confidence in his wife filled his thoughts. She’ll find something for us to hit.
+
+He knew from the last communications that the Black Legion had made some tentative plays for more central columns, but the responses had been immediate and overwhelming to the point that they’d have had to level the whole city in order to get to the column, and they didn’t have the forces to do that, at least seemingly not yet.
+
+Their initial strike had taken advantage of the very idea of the columns being taken, seeming irrational. Now? Those were defended and defended well.
+
+They’ll be looking for other sources of souls and power. They tried getting magic-engines in the past, but now they know how quickly that goes badly for them, so we can’t count on that mistake happening again. He grimaced. And the dwarves likely know that their deterrent was a powerful one. If they get involved again, they’d be opening themselves up for attack needlessly.
+
+He shifted his focus, as it wasn’t helping to calm him before the clash.
+
+Thirty seconds.
+
+The Refined were being driven back despite all their advantages, training, and power, the automata advancing and closing in.
+
+Twenty seconds.
+
+Rane stood, calling his bone armor around himself and Force to his hand.
+
+The armor wasn’t as useful as it once had been, his own body coming close to being as durable, but it was something, and given the situation, he was inclined to stack the deck a bit more in his favor.
+
+His white steel came to him, first his bracers—a gift from his wife so long ago—followed by a larger volume of the material to weave in and throughout his armor.
+
+Because he was going to fight the Black Legion, he manifested it with joints and divisions so any imposition of reality couldn’t lock him down.
+
+He trusted in his ability to resist such, but overconfidence would be a foolish reason to die.
+
+As the helm closed around him, it was time. He knew that, just like every time, Enar would convey his love to his wife as he deployed.
+
+An act of will brought him to the superficial as a concurrent action on Enar’s part tucked the flier into its housing within Ironhold.
+
+In times past, he might have tried to fight the seven Black Legionnaires all on his own, only calling on help at need, but that time had passed.
+
+Rane had nothing to prove to himself anymore, and he was no longer quite as young as he had been.
+
+As such, he called on help in two forms.
+
+First, a further act of will and granted authority brought forth fourteen forewarned and prepared Talons.
+
+The powerful, interlinked fields of sway around the seven legionnaires forced the white-clad fighters to manifest in a loose ring around the battle, but that was fine. It put the automata in a position of being both surrounded and with an enemy at their backs: Defenders in the center, Talons enclosing them all.
+
+Second, Rane leaned into his overarching perception. These were the enemies of humanity. These and their ilk had killed humans who should have lived forever, benefiting their fellows for centuries.
+
+They were a scourge, and they were an affront.
+
+And in the frozen instant of his arrival on the field—with building, controlled rage—Rane reached into his very soul and plucked the cord of his boon, that which lay at the core of his being.
+
+His visions sharpened, his soul churned, his rage burned, and he embraced the heat, molding it and directing it as he needed.
+
+Rane’s aura flared, not with tumult, but with overriding purpose.
+
+Anger was often seen as a thing of uncontrolled response, but Rane had finally realized the truth of it.
+
+Rage—anger—was a closing off of options. It was a shutting out of certain lines of reasoning, a deafness to outside attempts to calm or redirect. It was a decision to act accompanied with a protection of that decision from potential redirection.
+
+Sure, some were paralyzed by anger, but those generally were already in a state of indecision—whether intentionally or not—and their anger simply locked them into it.
+
+Rane? Rane’s decision was made, and it was one of action.
+
+His enemies would fall.
+
+The Talons struck as one, each pair moving on one of the lieutenants. Rane joined the two that were assaulting the other from behind, and now that he was closer, he had identified it as a captain.
+
+Funnily enough, the automata and Defenders had similar reactions.
+
+The flier wasn’t the most subtle thing in the world, so they’d likely known something was coming, but with the continued bombardment, it could have been mistaken for yet another attempt by the lofty city to offer aid to those on the ground.
+
+Regardless, both sides had been aware of the incoming magics and had been keeping them under scrutiny.
+
+As such, when fifteen fighters appeared, there was little delay.
+
+The automata reacted disparately, but with coordination, trying to capitalize on the change before they could be overwhelmed.
+
+The Defenders shifted from fighting retreats and attempts to safeguard their group as a whole to harrying magics, trying to delay the automata by even an instant so that their newly arrived allies could take advantage.
+
+For two lieutenants, that was enough, and Talons tore them apart with sword and maul.
+
+For one Refined, he’d misjudged, and his opponent used the opening to embed a fist in his heart. That automaton lost his head in exchange to a Talon from behind, but it was still a losing trade for the humans.
+
+One of the other Refined immediately moved to help and heal their comrade, but only time would tell if it was enough.
+
+Three of the lieutenants were able to avoid being hampered and dodged or deflected the Talons’ opening attacks.
+
+The captain caught the incoming strikes of the Talons—skillfully gripping around the sharpened parts of the weapons—hopping over the stones that rose up trying to grab his feet despite his suppression of magic, and kicked at Rane’s chest.
+
+Rane deflected the attack, but the exchange had still given the captain a chance to reset and face his attackers with surprise no longer as large of a factor.
+
+Rane wouldn’t let that stand.
+
+As the automata reality field tried to stabilize despite the instability wrought by the quick deaths of three of their number, Rane’s soul smashed outward, bringing to bear his single-minded aim, fueled by rage and that hyper-focus.
+
+The Black Legion’s field was shattered, the power whipping back into each automaton and further unseating their balance.
+
+An almost feral grin overtook Rane’s features, and he lunged forward.
+
+He hurled Force into the back of a lieutenant’s head on the other side of the battle, freeing up his hands to snap into place on either side of the captain’s skull.
+
+MINE!
+
+His magic rose up—sparks of void and reality along with the tide—and he assaulted the workings of the soul-core.
+
+He was just beginning to dig at the defenses when the captain’s counter attack landed.

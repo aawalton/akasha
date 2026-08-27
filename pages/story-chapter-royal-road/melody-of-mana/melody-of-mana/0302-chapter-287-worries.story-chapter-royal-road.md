@@ -1,0 +1,107 @@
+---
+id: 5e1dc669-85fa-5f76-93a2-e92cfba6aea2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 287 Worries"
+slug: 0302-chapter-287-worries
+partOf: melody-of-mana
+position: 302
+ownLength: 1914
+unit: words
+ownProgress: 1914
+publishedAt: 2023-11-25
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1421539/chapter-287-worries"
+royalRoadId: "1421539"
+markedReadAt: "2026-06-29T22:36:15.062Z"
+---
+
+I was ready to curse, having just barely evaded discovery. The girl had caught me off guard, completely off guard, but I knew she was out there somewhere. Really with my luck I should have just guessed that I would be meeting her sooner or later, it's just that here was rather unexpected.
+
+I'd left the princess with the Order of The Shield years ago, and intentionally avoided contact. When I later found out that they knew who she was that was a surprise, but I'd still kept my distance. Many times over the years I'd thought about going and trying to see her, check on her, but I hadn't. I'd told myself at the time that I didn't want to jeopardize her even a little, but the truth was that I wasn't sure if I could deal with it if she was doing poorly.
+
+What could I do if the child I'd orphaned turned out to be miserable there, unable to get what she needed? What if she pined for parents that she'd never seen, parents that I'd killed? Could I deal with that? Could I look upon her and know that I'd caused this? I knew it would cause me pain, so I'd avoided it.
+
+Perhaps the only thing that would have caused me more trouble than her being sad or lonely was if she'd been a bad egg. If I'd released another havoc causing royal onto the world I wasn't sure I'd be able to live with myself. Luckily it seemed that while she was a bit easy to tick off she was at least dedicated to the ideas of The Shield. Perhaps she'd been unhappy with people getting hurt, but she was helping them, and working hard to do it.
+
+Quietly I gave their camp another once-over before pulling back a bit. They'd chosen an excellent spot, and used debris from the disaster to form a sort of wall around it. None of that would stop one of the giant crabs, but it would certainly slow them down. I could pull back, leaving them alone for a bit, something I needed to do.
+
+The day had been long, and I was exhausted, soon I would need to rest, but there were a few other things I needed to do before that. First I found the highest nearby point, and pushed on my left earring. This was a variant of one of my oldest magical items, one much improved from the original version.
+
+“Hello, hello, hello, can anyone hear me?” I said as the magic activated.
+
+I repeated my message three times, frowning but unsurprised. I knew that it was technically possible for radio waves to bounce off the atmosphere and reach truly epic distances, but I also knew that I'd not made these communication devices quite well enough to do so. Back on Earth I'd not known enough about them, and while I was confident that this little one would reach someone if we were anywhere near our homeland we were very far away.
+
+“Ulanion is never going to let me live this one down,” I pouted.
+
+My husband had suggested, several times, that I bring a small portal with me, just in case. Something a few inches wide might not have seemed like a big deal, but with it we could easily have sized up in a hurry and gotten the kids out of here. Making a lot of those and carrying them around grated on me however, so I'd refused; had I not we might have the kids home by now.
+
+“Shit, John is never going to let me live this down,” I added. His kids were here too, and I could only imagine what he'd be like right now hearing the reports of what had attacked us. He might even be sending some military vessels over to try to do anything.
+
+Well, I'd try to establish contact if I could, but if I couldn't I'd just deal with things as they came. For the moment that was my only real option, so I began taking stock. One by one I went over my magical items and tools, hoping to find something that I'd missed, some extra trick I could use.
+
+My earring was already being used, and it was straightforward enough. It was an amazingly potent transmitter and receiver, and even had a small storage function built in. There were flaws, and it had never been tested for what I was using it for now, but if someone did manage to get a strong enough signal out it should notify me, and save whatever they said. Until then I'd only have to try and keep establishing contact.
+
+Next was my anklet. When I'd still been young I'd made one of these that had saved me once or twice, but this one made that look like a cute little trinket. The shielding and ability to redirect force contained in that piece of jewelry could be staggering, but it was nearly empty. Using that along with my own spells had been enough to redirect most of the water that would have killed us. I supposed that in that way it'd done its job well.
+
+My belt didn't do much, but functioned to make a small shelter where I could rest anywhere, with a built in alarm. The bubble it could project around me would shield me from casual observation, weather, and light attacks, but little else. I activated it, giving myself eight hours, that would be enough to wake me well before dawn.
+
+Finally I had a bracelet, it too did far more than it looked like it should. This last item was a final word if I had to defend myself, something that I didn't need time to charge up to fire. It could shoot projected lances of kinetic energy, either many very small ones, or one, really, really large one. I'd never used it in combat before, and really hoped I wouldn't need to any time soon.
+
+One thing that my few items all shared was optimization. I didn't carry many, but each one did its job to a T. Long time had been spent getting the features I wanted put into the most straightforward form possible, molding them and readying them for use. Then I'd pushed them all to the very limits of what they could achieve, the edge of what a magical item of that size could manage to hold and project.
+
+As I settled down to sleep I began to hope that tomorrow would be just a bit easier than today had been.
+
+Veska
+
+I stood at the edge of camp, eyes scanning. We needed to get moving soon, but unless we were willing to abandon the elves we'd joined up with mornings would take time. That many people always took time, regardless of how much we got things right.
+
+Soon enough Lena came to join me, looking for any approaching enemies. As she did she held out a fruit for me, one of the local ones. They were all so sweet, the flavors so floral and magnificent. I moaned lightly as I took it and bit into the soft flesh.
+
+“We need these back home,” I observed.
+
+“Agreed on that point. Anything happening?” she asked.
+
+“No, but I can't shake the feeling like I'm being watched,” I answered.
+
+“Something bad?”
+
+“Who knows? Those stupid crabs don't watch, but we don't know all the animals around here, could be we're being followed by a scavenger, or could be someone from the city. Then again maybe I'm just paranoid.” I couldn't do anything but shrug. “How about you?”
+
+“Honestly? I'm a bit frazzled. The new group is worse off than ours was. They're all stable, but they need proper attention as soon as they can get it. No real healing among them and no good casters meant the crabs they met did quite a number on them, and frankly I don't have the facilities or the mana to do much more than get some of them walking.” Her face showed her worries, even with the short time I'd known her I could tell she cared.
+
+“We should find more people soon, more help,” I reassured her with a small smile.
+
+“Sure, but what if we can't get back home? What if we're stuck in this disaster for who knows how long?” she asked, admitting her real worries.
+
+“Rodrick says there's a portal at that village, there's a portal there,” I answered with a shake of my head.
+
+“Rodrick is a bit of an idiot, even I can see that. I know you like him, for some unknowable reason, but that's not enough.”
+
+Now I got a real laugh, this was something I'd heard before. “He looks that way doesn't he?”
+
+“Seriously, other than the pedigree, what do you see there?” she inquired.
+
+“Our families known each other for years, if in passing, but I never really spoke to him until his first year at school. We met in one of the combat training sessions, did you know that?” I asked, and saw her shake her head, she wasn't in those classes. “I thought I was hot shit, with my parents, and my grades, and the way I dominated our spars in class.”
+
+“Okay?” she said, clearly a bit confused where I was going.
+
+“When I went up against him I planned to do the same, but I've never been so thoroughly dominated in combat in my life.”
+
+She blinked. “What?”
+
+“Sort of my reaction too as I laid there in the sand. You know what he told me when I asked how he'd done it? That he'd only let me in on the secret if I let him take me on a date.” I giggled, it was a funny memory, in retrospect. It had also been a pretty good date.
+
+“And!?” the impatient priestess demanded.
+
+“He'd watched all my fights, all of everyone's fights. My Rodrick might look like a fool, but he's got a mind like steel. If he sees or hears something, he remembers it. If he sees a tactic, he comes up with a counter. He'd seen my spells, and how I fought, he knew how to beat me. That's why I'm sure it's there, he wouldn't forget such a key detail like that.” I stood confidently, knowing things would work out.
+
+“So he's actually a really good fighter?” she seemed to disbelieve that.
+
+“Eh, sort of? The next time we went against each other I changed things up and wiped the floor with him, but we spar a lot, and I'll tell you the same thing almost never works twice.” I left out that he also wasn't too bad on the eyes, she could already see that if she wasn't blind. Just his ass alone...
+
+“You're all weird,” she finally said after mulling things over for awhile.
+
+“And you're not? I may not know a lot of priests, but I'm pretty sure most would wash your mouth out with soap if they heard how you talk while fighting.” She blushed and turned away. “Oh-ho! Hit that right on didn't I?”
+
+There was a sound from camp as someone tripped while putting on their makeshift bag. “Looks like we're heading out,” Lena said, seemingly happy to have something to interrupt with.
+
+“Let's get going then, we've got lots of ground to cover,” I answered as we both went back to the others.

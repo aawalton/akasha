@@ -1,0 +1,241 @@
+---
+id: b25d9ff8-009c-551c-86c7-42661630e88f
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 83 — Every Breath You Take (2)"
+slug: 0142-chapter-83-every-breath-you-take-2
+partOf: metaworld-hopecore
+position: 142
+ownLength: 2939
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3746099/chapter-83-every-breath-you-take-2"
+royalRoadId: "3746099"
+---
+
+Their exam results came back on Tuesday, which came as a surprise to Eppie, because she had completely forgotten they existed. Mr Alvarez called her name across the room with the brightness of a teacher who'd been waiting all week to say it, and told her she'd aced the test. The rest of the class cared less than Eppie did; they had long been inoculated against her overachievements.
+
+At lunch, Susan Carr called the kids to her office and gave them a rundown of where to hand out flyers, when they should do it, and what to do if there were hecklers. She made them memorise the closest police precincts. Not that Third Street Promenade in Santa Monica was unsafe—Carr was merely being cautious, given that Valorie was a Senator’s daughter, and that someone might be ill-intentioned enough to do something untoward.
+
+That said, Cranshaw and Malcolm were eighteen, and Valorie—Eppie was sure Val was seventeen during Christmas, and was old enough. It was Eppie and Chelsea who raised red flags. Yet, students giving out flyers for student theatre was about as everyday as apple pie.
+
+Whatever the case, their operations director left them numbers to call, procedures to follow, permits to display, and a trolley to stow sunscreen, water, snacks, and the flyers.
+
+She listed the best days to disseminate the news: Fridays and Saturdays, the 18th, 19th, then the 25th and 26th of April. Two weeks were optimal for a non-profit like LAPAGANZA. When Eppie asked about the optimal leads for a mid-size for-profit theatre, Carr gave Eppie the look you’d give a sweet summer child.
+
+“The reality is that you bust your ass out there every evening handing out flyers until every seat is filled, else your company won’t last the year…”
+
+Eppie was sure the poor woman was speaking from experience, for in her eyes, she saw the thousand-yard stare associated with unspeakable trauma.
+
+After Carr, the week started to blur in that specific, deliberate way time dilates when there were three separate jobs stacked on top of a normal school day. Sophomore schedule sheets, Senior costume racks, rigging crew that needed a fourth pair of hands more often than not, one thing after another.
+
+Somewhere in the noise, Eppie remembered the two songs she still owed Curon, unrecorded, unfinished, hanging over her like a bill she kept meaning to pay.
+
+So she called. Her dad didn't pick up.
+
+Her faux-father texted back forty minutes later, apologetic and distracted—Doves Cry had cracked number one on iTunes. It broke through the top 5 on the Hot 100 and still had room to climb thanks to Kellie’s existing Umbrella momentum. Together with Sony’s parallel projects, Mueller was booked to the hilt and begging for sweet release.
+
+Eppie asked if she should just record with her iPhone.
+
+Soon, mon coeur. Curon texted back, and somehow, Eppie could hear the horrible American accent in French. Davis won’t allow that. Be patient. You will have two number ones in six months. What is this unfathomable greed?
+
+LIFE. Eppie wanted to text back. I want the fruit of my karmic harvest.
+
+She looked at her greed with ambivalence. Would another No.1 be enough?
+
+On Friday, news came down the grapevine that something truly insane and unusual had happened. The whole campus had a version of the story, and every version pointed to William crashing out.
+
+“William went crazy at the editing bay,” Chelsea said, her voice hushed, glancing around like LAPA had a Gestapo of its own. “He fired two of the actors from his graduation film outright for questioning him!”
+
+“They said William's going to cut their footage. Thank you for your time, he said!" Lucy winced in secondhand sympathy. “But how are they supposed to graduate if one of their required Senior credits gets pulled?”
+
+Eppie had no answers. William having a public crashout was on her radar, but she hadn’t expected it to actually happen. Whatever the case, the full scope of the young man’s vengeance arrived over the course of the afternoon’s art block. Nobody had ever seen anything like it. Not from William. William, who was patient with everyone, William who was kind to the Freshmen, William who was, by long campus consensus, simply the nicest Senior in the building.
+
+“Will’s just stressed,” Cranshaw was saying, already smoothing it over; he said he had known the man since they were in Freshman year. “The film's due, his whole future's riding on it, and—you know. Pressure does his head in. No one’s perfect.”
+
+“Yeah,” Nathan Drake, their Titus Andronicus, was firmly on nice guy William’s side. “He'll blow off some steam and bring Duan back to the fold.”
+
+Eppie refrained from swaying public opinion. William was a [Causality] addict, and without his supply, things must not be going his way. When all the little misfortunes added up, the man snapped. After all, life was hard when life wasn’t charmed by supernatural means?
+
+It was either that or the fact that he no longer had an outlet. Val was gone. Simone was walled off behind Uncles in a restaurant where he was no longer welcome. Mio and her child were beyond his reach and beyond his knowing. The Five Families were quietly turning. And a little blonde bitch haunted him like the revenant of Christmas Past.
+
+If [Causality] was as real for William as it was for Eppie, a part of him had to be cannibalising himself. That’s why he was seeking out hapless victims again. A Senior who was a camp follower with a coffee cup, an actor who'd flubbed a line or disagreed with his vision.
+
+The Seniors in the theatre laughed it off. Her skin prickled with goosebumps. Was it her fault if William’s lackeys got the boot? Were they the same goons who had made Simone’s life hell?
+
+The nicest Senior in the building, the theatre crew said aloud, looking at Valorie’s impassive face, wondering if William’s former lover had anything to say.
+
+She didn’t.
+
+Sunday.
+
+Eppie answered the door and received a welcome surprise.
+
+Her Newfoundland didn't call ahead. That or he did, and she didn’t answer. Eppie knew for sure that there was probably an email from Maddy telling her Eric was coming—but it was too late for that.
+
+Eric was in his work suit, with a leather portfolio under one arm and a box of doughnuts under the other.
+
+“Oh, my god…” Eppie leapt into his arms. “ERIC! It’s been so long!”
+
+“Eppie,” Eric allowed the hug, then told her to sit like a prim young lady. He set the doughnut box between them like a peace offering, then studied her face. “You look good. Really good. Did you grow taller?”
+
+Eppie’s joy lasted a second, until she recalled that, no, she did not.
+
+Eric laughed, then unzipped the portfolio. "Mr Fielding finished the special license as quickly as he could. It took about twenty billable hours at the highest consult tier to materialise your desires for the non-profit waiver, name-swap clause and all. You want to read?”
+
+“I do.” Eppie received the book-bound contract without flinching.
+
+Her [Legalism] did the grunt work for about thirty minutes, skimming the industry-standard legal babble until she got to the meat of the matter. As requested, anyone could sing it. Anyone could swap the name in the second line for whoever they needed to forgive, or be forgiven by. The only teeth in the whole document were reserved for the one clause Curon had stipulated on Eppie’s behalf: the second anyone tried to profit off Better, the full weight of Sony's legal department would go masks off, full Nintendo.
+
+“It's an amazing song,” Eric complimented her. “A true gift.”
+
+Eppie looked up. Her Newfoundland wasn't wrong. Every other contract she'd signed had made somebody money. Sony's, Curon's. Her Charity Trust. This one asked nothing back except that it stayed given.
+
+“Done,” she said, her hand made the flourish, then she held the pen out to him.
+
+Eric packed everything, slowly, meticulously. “You know, it’s kind of insane how it hasn’t even been a year…”
+
+Eppie wholeheartedly agreed.
+
+“I just wanted to say that we’re proud of you,” her Newfoundland gave her a golden smile. “That’s from Emily and me both.”
+
+Eppie didn't trust her voice enough to answer out loud, so she hugged him instead, wordless and free of charge.
+
+Week 13 began with a calendar in her head and a countdown attached to it: four weeks of the regular grind left before Hell Week swallowed the schedule whole, six weeks until LAPAGANZA itself.
+
+The bulk of Eppie’s efforts was now spent at Senior rehearsal, learning about production design, working with Valorie, and observing David Cooper run a scene. She recorded, mentally, the way he stopped a Senior mid-line, not unkindly, walked her through the correction with his hands as much as his voice, then—before the girl's confidence died—made her say the lines in the way he wanted. The Senior laughed with relief, Cooper pretended to laugh with relief, and then he made her perform the scene again, this time giving a handful of specific praise, never once making her smaller in the process of making her better.
+
+And he did this, somehow, with everyone. Even the theatre techs.
+
+Eppie watched from the back and felt something uncomfortable settle into place.
+
+She had run multiple companies in her life, VERY profitable companies.
+
+She remembered exactly how she'd corrected her people. Brisk, direct, transactional, more interested in the fix than the person attached to the mistake.
+
+Interns who survived hell got raises. The ones who didn't get shown the door.
+
+For two decades, she had genuinely believed that this was how competence functioned in the workplace. Watching Cooper now, she understood with some discomfort that she could have made something out of the people who had passed through her fingers. Instead, she had been praised for being cutthroat, arithmetic, heartless, and professional. She once fired half of the intern intake on ZOOM, then left Emily to pick up the pieces.
+
+So much for Time’s Woman of the Year…
+
+Eppie groaned, then returned to helping her friends with practice, dispensing smidgens of [All the World’s a Stage] just to show them that… yes, they could.
+
+Lim found her at the racks on Thursday evening, folding a bag of emptied kibble under one arm.
+
+“Two more gone since last week,” he said, without preamble, making their instant nood sieu-ye. “Weather's turning. The toms wander more when it's warm. They’re very territorial, especially when the girls are in heat.”
+
+She held Mr Chin against her chest, and the round-bodied tom gave her a long, hard, narrow-eyed look.
+
+Where are my testicles, Euphemia? Mr Chin seemed to say. Why have you unmanned me?
+
+She scratched under his chin until he forgave her.
+
+Lim was right, though. Where had the cats gone? If nothing else, they needed to be collected and spayed, vaccinated and inoculated. She thought about Garfield and felt paranoia tickle her insides in a most unpleasant way.
+
+“In… other news,” Lim handed her the cup of chicken noodles. “The other three families got back to us. The kids are with us—or with me. Their parents…”
+
+Lim shook his head in disappointment. “Cheung-tau-cho.”
+
+Wall-top-grass. The one who sways with the wind, with no balls of their own.
+
+“That’s life, I guess.” Eppie set Mr Chin on the floor. “I’ve made a decision…”
+
+Lim looked up. “What decision?”
+
+“One last chance for William Chen,” Eppie said plainly. “I am going to tell him that he has one month to make amends. To find it in his heart to come to terms with his crimes. Failing that, decisions will be made for him.”
+
+Lim didn't move for a second. Then he very carefully removed a cat from his sleeves. “That’s a dangerous thing to do.”
+
+It’s also a stupid thing to do. But what could she do? She had met all these… fantastic people… they had taught her that forgiveness was divine. As a result, the iron lady that was Lana had grown soft with kindness.
+
+“You got his number?” Eppie asked. Lim punched a contact and flicked it over via AirDrop. Her phone chimed. Mr Chin meowed.
+
+In front of Lim, Eppie sent the text.
+
+It was brief, unthreatening, a time and a place, then she felt… a little liberated. Like she had opened a door she'd spent months keeping bolted.
+
+“What are you even expecting?” Lim asked, his face grim, as though a beloved cat had just died.
+
+“I… don’t know,” Eppie meant what she said. She looked at her phone, at the little grey bubble of Delivered under her own name. Maybe she was hoping that William could supersede his penchant for Moral Hazard. “Maybe… I'm just a soft-hearted idiot.”
+
+“You are an idiot,” Lim agreed. “Tell me where you’ll meet him. I’ll be close.”
+
+Saturday.
+
+Eppie arrived first. She had chosen the Santa Monica pier for the meeting. Their date was at a trendy cafe, the kind of place with reclaimed-wood tables and a menu that charged eleven dollars for toast. Eppie hadn't been sure what to expect when she walked in.
+
+She still wasn't sure two minutes after he sat down.
+
+The [System] had a plan, surely. She had walked into Mio’s life, Simone’s home, and a party with Valorie, and pulled them all out of the fire.
+
+Maybe, now that his [Causality] was dry, William was willing to listen. Maybe he could take a step, a tiny step, like Kel, and realise that the path to penance wasn’t so bad, that at the end, there was a bittersweetness that made his time on earth more worthwhile.
+
+William was five minutes late.
+
+He wore a tight black T-shirt, boot cut jeans, and an affable smile.
+
+William looked, if anything, better than the last time she'd seen him up close. His platinum hair was immaculate, his fox-slit eyes attracting the attention of several young women, not to mention the waitress.
+
+“Dearest Euphemia,” William said, calling her name without malice. They were, she supposed, off to a good start.
+
+For the first few minutes, he talked about his final project, about the kid he decided not to fire out of compassion. He asked her about the rumours that she did a shoot with Zara. He asked her about her new songs. He said he was jealous of her growing fame.
+
+The coffee arrived, the waitress flirted with William, and then they drank in awkward silence. William, Eppie realised once more, really was very tall, and very good-looking.
+
+“Will,” she worked up the courage to finally say the words she’d been brewing for weeks, months even. “Have you considered my offer?”
+
+William smiled like a fox, unbothered. “Is there room for negotiation?”
+
+“Before we discuss your punishment, or the negotiation thereof,” Eppie remained calm and professional. “Tell me if you’re willing to face the truth. At all.”
+
+William watched her like she'd offered him a flavour of coffee he simply didn't care for.
+
+It took Eppie almost all of her [Charisma] and [Act Natural] to stop her mouth from frowning.
+
+Was this not the way? She demanded of her [System]. Am I being scammed?
+
+She hadn’t touched William. There were no flower pots nearby. She hadn’t poisoned his drink either.
+
+“I was hoping you would have changed your mind by now,” William said, his tone mockingly regretful. “Was minding our own business so unpleasant?”
+
+She did not like the sound of that.
+
+She really didn’t like the sound of that.
+
+Was… was there no part of William worth saving? Was that what the [System] was telling her?
+
+“You don’t think this is just… going to go away, is it?” Eppie asked, her voice measured and careful, like an interviewer asking a mass murderer an intimate question of how he felt about his victims. “Come May… that’s your deadline; decisions will be made for you, whether you accept it or not.”
+
+“Ha…” William grinned at her, showing his canines. “I am still amazed that you’re so confident.”
+
+Eppie felt sick. Their eyes met. He held her gaze with an easy, patient smile and picked up his phone. He tapped the screen once, twice—and hers lit up with the small grey AirDrop pop-up before she'd even registered what he'd done.
+
+“Accept,” William said.
+
+Caught in a bad dream, she pressed accept.
+
+A photo. A cat, orange and chubby and unmistakably one of her Familiars, was curled in what looked like the corner of a very clean, very unfamiliar room, looking very happy, very well fed.
+
+Mr Garfield.
+
+Eppie's whole body went cold, all at once, in a way that had nothing to do with the ocean breeze coming off the pier.
+
+William watched her [Act Natural] implode, and did not stop smiling.
+
+“This is a crime,” Eppie heard herself say. She was no longer the forgiving saint or the avenging angel. She was a young woman who suddenly realised the woods were lovely, dark and deep, and that there were foxes about.
+
+Not the fantastical foxes of suburbia.
+
+Wild foxes.
+
+Cruel foxes who killed for fun. Real fucking bastards.
+
+“It's not a crime,” William said softly, like he was explaining something reasonable to an upset child, “to give a home to a stray cat.”
+
+Eppie knew then that she really was a soft-hearted idiot.
+
+Whatever had been growing in her bosom these past weeks—the forgiveness, the compassion, the milk of human kindness she'd been so proud of—had curdled where she sat.
+
+Her mind was full of scorpions now. Small, and many, and meowing in distress.
+
+Scorpions wearing a fox’s face.

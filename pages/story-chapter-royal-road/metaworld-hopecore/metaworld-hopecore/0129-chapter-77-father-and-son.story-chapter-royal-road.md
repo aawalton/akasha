@@ -1,0 +1,235 @@
+---
+id: ae1e9777-b7a2-5c3f-9866-3df842ead24e
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 77 - Father and Son"
+slug: 0129-chapter-77-father-and-son
+partOf: metaworld-hopecore
+position: 129
+ownLength: 3050
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3683176/chapter-77-father-and-son"
+royalRoadId: "3683176"
+---
+
+"Home is the place where, when you have to go there, they have to take you in."
+
+Robert FrostThe Death of the Hired Man
+
+Euphemia Fontaine, Grammy winner, spent the next four hours meticulously working over possibilities involving a certain Valorie, Hey Jude, and a loaned guitar. In the taxi, she had fallen into such a trance of thought that she started humming the tune aloud.
+
+“Na-naaaah, na-na-na-naaaaah….”
+
+If her messy hair had looked less intentional, or if her face had looked any less adorable, her driver would have kicked the teen tweaker out of his car before she left her sick all over the front seat.
+
+At 10 PM, she slid into LAX with her bugout bag and all her documentation. She stood for a moment in the sodium lights, bathed in the gold of the old, burning bulbs, and wondered just how ridiculous her plan seemed.
+
+A part of her scoffed at the plan—until her [Perfect Pitch] and [Memorisation] threw up the exact synaesthesia of Valorie’s breath against the muffled, padded blackbox wall, burying the girl’s panic in the porous fabric, hoping that the foam would absorb the hurt.
+
+The texture and hue of that terrible sound, Eppie recalled, was a fresh purple bruise, black around the edges, pink and glistening near the middle, because she had heard it less than two hours ago.
+
+She gave her doubts a few more moments to settle, then fed herself into the great confluence of bodies flowing through LAX.
+
+In business class, her overstimulated body meant she had plenty of time to arrange Jude, using [Composer] to annotate the song for guitar.
+
+Hey Jude was, in essence, beginner's guitar 101. It really was a perfect song in the sense that it was easy for anyone, from anywhere, to hum, sing, or play. No one with a degree in musicology would laud the song’s composition, because it was just three chords doing what came naturally to the human ear. F, B-flat, C. A schoolkid's first chord chart, the kind a gifted kid learned in their second guitar lesson, right after G-C-D. No key change. No modal trickery. The melody barely left five notes for the first two verses, stepwise; it was almost lazy. The tune was so accessible that a tone-deaf layman could hum it in the shower and do a decent karaoke rendition.
+
+And then, the bridge—resolving so predictably that it felt inevitable, like a well-worn classic by Bach. This song—this uncomplicated melody—had sold eight million copies and stayed unchallenged for nine straight weeks.
+
+And then the CODA—four straight minutes of Sir Paul McCartney murmuring “Na-na-na-na” while a billion people hummed along without missing a beat—in the stadium, in the office, in the classrooms, and in lightless parks at night.
+
+But what was Jude without Julian?
+
+Eppie knew precisely what to do. She was, after all, the lady who had sacrificed the Beatles' catalogue on the altar of her success, amongst countless other works of immense human inspiration.
+
+Her [Script Analysis] told her that the song wasn’t just for [Causality]. For Jude to exist in this world, it mustn’t be affected by her [Prophet of Profits]. For the song to exist across the planes of causality, it mustn’t be a vehicle for a maestro’s ego, or Sony’s profit engine.
+
+It must be a threshold, it's simple keys opening the stubborn door to the everyman’s heart.
+
+Heedless of the questioning looks from the business class hostesses, Eppie’s hands played her invisible guitar, while her lips hummed the lyrics, her [Vocality] leaving half a cabin with a tune they couldn’t shake from their heads.
+
+NYC. The Four Seasons. Eppie stepped from the taxi into the porte-cochère, aided by Gerald Fitts, the General Manager himself. The manager led her into the lobby, his face a mask of affability. Eppie returned the courtesy, possessing no negative feelings for the man’s initial reaction to Kiritani, especially since Gerald had since made himself useful.
+
+Having topped up her [Stamina] after her red-eye flight, she had already assembled her thoughts, ready to manifest from hypothesis to reality.
+
+“Allow me to take that to your room.” The manager was all smiles. “There’s someone who is waiting for you in the cafe lounge.”
+
+Unsurprisingly, Eppie met Frederick Curon in the lobby, sprawled sideways across one of the Four Seasons’ absurd velvet armchairs. Moncler jacket. Cuban Fedora. Gucci sneakers loosely laced. A newspaper open on his knee. All black and gold. If the man were in a three-piece suit and oxfords, he would have looked the part—but now, he looked like a Gen-Alpha, AI-hallucinated idea of an old-school detective.
+
+He intercepted her as she entered with Gerald, throwing the NY Times on the desk as if she were some femme fatale slow-sauntering through the lobby.
+
+“There’s my little lady.” Curon was up and had her in a hug before she could protest being seen with his fashion crime in the same room. “What happened to you? Your hair looks great.”
+
+“Thanks?” Eppie endured the ruffling of her hair, which somehow made her look cuter.
+
+“You ate?” Curon studied her new look strangely, then shrugged.
+
+Eppie’s stomach answered before she could, for [Stamina] replenishment was synonymous with hunger and thirst.
+
+They ate in the hotel’s near-empty cafe, too late for the AM crowd, too early for the brunch ladies. In hushed tones, shaping her voice through [Vocality], she told her adopted father about her plans to throw Valorie a rope.
+
+“A new song?!” Curon ignored everything else she said, zeroing in on the only thing he cared about. “And you want it open to non-profit usage?”
+
+Eppie nodded. “It’s essential.” Essential for my… 400,000 [Causality].
+
+Curon smacked his lips. “How good of a song are we talking about?”
+
+Without the Julian context? God knows… “It’s good…” Eppie said modestly. “Top 10?”
+
+Her adopted father pinched his brows. “That high? Are you trying to shorten my life? Or Davis’s?”
+
+“Wouldn’t the good karma Sony generates add to your longevity?” Eppie cocked her head prettily, leveraging her new [Comeliness]. “Is this such a challenge?”
+
+“You’re making it one,” Curon shielded his eyes with his latte. “I think you need to convince Davis. Carey Fielding—that’s our Head of Legal—will be on the hook to draft a standing waiver in addition to our usual licensing. We’re talking schools, non-profits, student productions, non-monetised social media—all without fee or clearance, so long as ‘Euphemia Fontaine’ is credited. That’s a hell of a grey zone. Also, you’re making my gift look bad.”
+
+The inner Eppie made a triangle with her hands in the style of Mr Burns. And that’s how I’ll lower the cash flow and up the Karma flow…
+
+“Films, adverts, streaming, covers, as normal,” Eppie affirmed Sony’s potential profits. “Also, what did you mean by gift?”
+
+“We’re dropping Doves Cry next week,” Curon answered seriously. “I asked Kelvin how serious he was about making it up to you, and he decided on the gift of money. A bit crass, but the kid’s heart’s in the right place.”
+
+“Money?” Eppie tilted her head to the opposite side. Her innards shuddered.
+
+“Some serious money,” Curon said. “He’ll give you his cut.”
+
+“From the song?” Eppie felt her heart seize. If that money hits my personal account… and [Prophet of Profits] kicks in… She might just evaporate in a puff of smoke.
+
+“To your Trust, of course,” Curon watched her expression change colour. “Are you allergic to profits?”
+
+“Yes,” Eppie’s soulful eyes brimmed with moisture. “I am deathly allergic… to money…”
+
+Curon studied her for a second. “I can’t tell if you’re serious.”
+
+“Yes.”
+
+Her adopted father sighed. “Anyway, is the donation good enough? We’re talking three to four million over five years. I don’t think Kel understood just how much he gave away.”
+
+“Tell Kel I’ve got a part for him in the future,” Eppie thought about Sister Act II. “Kellie, too, among others. It’s going to be an interesting project. After May.”
+
+“No doubt,” Curon said drily. Her adopted father knew what was going down in May. What neither of them could predict was the aftermath. “Alright. Next order of business. Dream a Little MTV, I’ve got the director—Merric Webber. You’ve heard of him?”
+
+Eppie shook her head.
+
+“Young guy, mid 20s, he did about… two hundred music videos so far, almost always for young bands like Blue Days, Marylene 5. He’s trying to get money up for a movie—and he’s not going to give up this opportunity to rub shoulders with Vaughan’s protege. He’s signed up a bit later, so… mid-March?”
+
+The name sounded incredibly familiar, but Eppie couldn’t place any of the pop singers, nor had she seen their music videos.
+
+“Sure,” Eppie said. “I’ll make time when he makes time.”
+
+They agreed on mid-March. Her job with the Sophomores was largely supervision, and her work with the Seniors… was a placeholder.
+
+“How’s Pines doing?” she asked Curon out of curiosity.
+
+“Maddie didn’t tell you?”
+
+“I check emails as often as you do…”
+
+Curon burst into laughter. “It’s doing well with critics, not so much with the public. It’s a serious song for serious people. I am surprised it sold this well. In the right circles, though, it's making inroads. No one writes Appalachian Blues anymore, much less little white girls from Los Angeles. The music video we made isn’t doing it any favours—but I think it’s necessary.”
+
+Eppie nodded. Ah, yes, a middle-of-the-road, appreciative audience with purchasing power, the marketer in her mind concurred. Perfect for [Causality], guilt and nostalgia.
+
+“But back to your plan,” Curon drained his latte. “So, you’re going to need a guitar and a quiet room to… practice?”
+
+Frederick Curon dropped her off at Vaughan’s NYC mansion, the one with the chipped exterior facade where a terracotta flower pot had taken out a chunk of the middle balcony. He also promised to bring her a guitar and make a private space available at the Met.
+
+He also passed her the dress—the one Mirabelle brought for her on her sweet sixteenth, telling her that she should ‘break it in’.
+
+Her not-mentor was already at the Met. As hostess and the Chief Curator, Juliana Vaughan had a thousand and one checklists to tick off before the evening kicked off in earnest.
+
+She was met by George and Marta, who had been waiting for her.
+
+“Come.” Marta looked relieved the moment she entered the study. “We don’t have much time, that hair of yours…”
+
+Marta stopped dead mid-sentence. “What happened to your hair? Who did this?”
+
+“Er…” Eppie wasn’t sure how she was going to get out of this one. “Would you believe me if I said that I prayed for better hair? And God answered?”
+
+Marta strode over and checked her head like a mother monkey checking a pup for lice. “Wait… Natural balayage? Are you serious?”
+
+“I’ve been out and about,” Eppie lied hopefully. “It’s true. I was outdoors!”
+
+Marta lifted her chin and inspected her collar. “The sun tans your hair, but NOT your cheeks, or your shoulders, in Spring?”
+
+“It be like that…” Eppie replied with her best Forrest Gump impression. “Sometimes.”
+
+Marta sighed and dragged Eppie to the make-up chair.
+
+“You’re free to destroy the dress tonight,” she announced, first and foremost, taking the dress from George, who had been holding it for them. “For once, it belongs to you. Modified original Givenchy by Ms Vittoria Conti, one-of-a-kind, commissioned for a compact torso, five-one starlet. You take a flower pot to it, and it's gone. Forever.”
+
+The dress came out in one pull. Eppie was no longer surprised that Conti was framing her as Givenchy had once framed Hepburn. The design was updated for a younger generation. Unlike Hepburn’s knee-length cocktail dress, hers was shorter at the hem, more revealing at the back, and covered up to the neck in front, with two bow-tied fettuccine strings on the shoulder that made the wearer look like she could be unboxed with a pull.
+
+The strings were decorative, of course, just in case some cad did decide to play a prank on a delectable young lady.
+
+Eppie changed into the dress, then admired her Sabrina silhouette in the boat-neck, fitted bodice. Chanel pumps, three inches in obsidian, finished the look.
+
+“I don’t even think you need foundation,” Marta pinched her cheeks. “You’re tender as a ripe peach. Ah, to be young…”
+
+Unfortunately, as a blonde, Eppie couldn’t pull off Hepburn’s triple black. Instead, Marta opted for cat’s-eye makeup with bold black tips and accessories in onyx, such as earrings and a hairclip.
+
+She was still buttoning the last hook when Diana Mirabelle swept in without knocking, took one look at Eppie, and made a small, satisfied sound with her lips.
+
+“There’s our songbird!” Mirabelle looked like she had already done two rounds at the Met as she took her seat. “I heard you’re performing? Marta, I need a refresh when you’re done. Then I am taking Eppie with me.”
+
+“Got it,” the MUA gave her boss a thumbs up.
+
+“Well, look at you,” Mirabelle studied her while stretching out her figure like a cat. The fashion editor was very tall, and very long. “Something about you seems different. It’s… the hair…”
+
+Mirabelle’s hand moved up her neck, examining a loose strand. “Balayage? And it’s real?”
+
+“That’s what I said,” Marta said, exasperated.
+
+“How is that even possible? Did you surf for three weeks? In Hawaii? With reflectors?”
+
+Eppie shrugged; what else was she to say?
+
+Mirabelle mimed her shrug mockingly, then snorted at her own humour. “Frederick came in like a storm. He says he’s got your guitar. Juliana says you can use the Contemporary Wing; it’s to the left of the Tisch Galleries. That’s where the Kiritani Exhibition is set up. You’ll know where to go—there’s one way in and one way out.”
+
+“Dad works efficiently,” Eppie said appreciatively.
+
+“For you, perhaps. He’s a nightmare to interview.” Mirabelle corrected her. “Did you know he’s famous for never answering his emails?”
+
+Eppie laughed awkwardly. “Truly?”
+
+Was it true then? Like father… like daughter?
+
+At dusk, the Met’s entrance was a theatre with its limestone face floodlit gold against the dark. The banners for Kiritani’s Cats hung four storeys tall between the columns, his own sparse pen-and-cardstock lines blown up to a scale that made the pen strokes textured. For the pre-opening private gala, there was no red carpet, no barricades, no photographers held back by velvet rope—just a discreet line of black cars pulling up to the Fifth Avenue steps one at a time, a handful of security in dark suits checking names off an iPad instead of a clipboard, and the enormous bronze doors standing open, spilling warm light and the low murmur of the well-to-do.
+
+Mirabelle steered her up the steps with a hand at the small of her back, in case she tripped over her new heels.
+
+At the threshold, she held Eppie’s hand and told her to look up.
+
+Eppie did as told, and came face to face with the enormous banners of Kiritani’s Cats, Kimi, Tanaka, Kana, age-old residents of Central Park, which no doubt visitors would begin to recognise.
+
+“You can’t see it from here, but there’s a cat shelter now, near the old water pumps,” Mirabelle squeezed her hand. “We have a veterinarian on call, but in reality, the shelter has more volunteers than we can handle. After the exhibition, the cats are likely to become local celebrities. If the adoption program goes well, Central Park might have to import cats for its rodent problems.”
+
+Was that for me? Or did Mirabelle feel touched enough to commit herself? Eppie squeezed back, and the two of them entered the lobby, flanked by vetted photographers from the news rags, becoming momentarily bathed in quicksilver.
+
+Vaughan found her immediately. It was hard not to, when Mirabelle stood over six feet and became the centre of attention the moment she entered.
+
+Her not-patron was being orbited by a cluster of grey-suited men who all seemed to be negotiating for their piece of the pie, while playing coy, cool, and aloof, as men in positions of power often did in front of money. Vaughan was radiant in an angular way, as one might if one wielded not only social and political influence, but billions to her name. She wore Balenciaga in a singular shade of plum, and the smile she gave Eppie was wholly different to the smile she gave the men.
+
+Mirabelle joined the circle first, calling the men by their first names, singling out one or two by their last names, so that their cheeks bloomed.
+
+“Gentlemen,” Vaughan presented Eppie as if she were her best in show. “Ma Dauphine.”
+
+“Your daughter?” a Texan-sounding gentleman looked scandalised. “I thought…”
+
+Mirabelle pulled the man aside with a polite cough.
+
+Eppie dropped into a small, deliberately theatrical curtsy. She knew what she looked like, and she knew how to make grown men in expensive suits sigh for not having daughters.
+
+“Our princess curtsies well,” someone of influence and power said, sounding delighted.
+
+“Affable little thing,” said another, nodding appreciatively. “You know, Clara’s married. God, what I would give to go back to those days… I guess I can wait for a granddaughter.”
+
+“Is she up for adoption?” A grey-haired gent raised a hand in the style of an auction house.
+
+They collectively laughed. Eppie laughed with them, studying their faces. She recognised about two of them. They had been with Vaughan when she gave her speech near the Temple of Dendur, the day she brought news of Kiritani. So these were people who had believed in Vaughan. Eppie took note of their names. Perhaps, in the future, one good turn deserves another.
+
+“Don’t be deceived by her yonder innocent face,” Vaughan laughed, winking at Eppie. “She is a hellion, come to reap wrongs. And she writes songs with far more confidence than your speechwriters.”
+
+The men laughed, now more self-conscious than before.
+
+Then, in front of her donors, Juliana Vaughan bent and kissed Eppie's forehead, quick and dry, then returned to her circle. “Go. Enjoy yourself,” she commanded Eppie. “I have donors to bore.”
+
+Eppie left, glad that Curon had delivered her message. After all, aside from congratulating Kiritani Sensei, her chief objective for the night was someone else.

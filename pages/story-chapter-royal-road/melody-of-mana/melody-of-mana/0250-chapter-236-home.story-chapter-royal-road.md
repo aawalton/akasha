@@ -1,0 +1,79 @@
+---
+id: 409a2446-a8e7-51b5-9482-ff8243f30886
+page-type-slug: story-chapter-royal-road
+title: "Chapter 236 Home"
+slug: 0250-chapter-236-home
+partOf: melody-of-mana
+position: 250
+ownLength: 1265
+unit: words
+ownProgress: 1265
+publishedAt: 2023-05-13
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1211494/chapter-236-home"
+royalRoadId: "1211494"
+markedReadAt: "2026-06-29T22:34:27.717Z"
+---
+
+It took days for me to be back up and running properly.  The priests that they'd brought in to heal me had assured me that I'd recover in time, but also encouraged me to hold off on casting anything big for the next week or so.  That was annoying, as a lot of little things worked into my life, floating books over, cleaning stuff, and the like, at least when things weren't too hectic.
+
+That of course meant that I got to go home to rest.  So far as we could tell there was nobody in Lithere after me, and Ulanion would get a chance to go back to some semblance of his actual duties.  It was fortunate that he lived so close so that we could go out whenever we wanted.  Sadly there were other people in town that were slightly less easy to deal with.
+
+Mother wasted no chance asking me when I would be marrying my boyfriend, or to imply that my brother was at least trying to be honest.  She also somehow found a way to try and drag me to any and every function she could.  The only thing I had to stop her was either work, which I was on light duty for, or seeing the aforementioned boyfriend, otherwise I was supposed to be resting and avoiding too much magic.
+
+This led to me having breakfast and complaining.
+
+"I know I've been saying it a lot, but I have to keep away from home, it's just too much," I said over food.  I left out that I wanted a private workspace where I could try and figure out spells I'd be hesitant to let anyone else see, and items to potentially stop the looming disaster that was portal proliferation.
+
+"I would invite you to stay with me, but seeing as my room at the barracks is rather small that would be a bit difficult."
+
+"Wish I had a room or something," I pouted.  It was childish, I knew, but hard to resist.
+
+"Why don't you rent one, or buy a house or something," he asked.  "Surely you make enough to afford it."
+
+I nearly dropped my fork.  I'd been so used to living with family, or not even being in town, that it hadn't even occurred to me to just buy a place.  There were some other things in that statement though that I'd also not really paid attention to.
+
+"I... think I do,"
+
+"What do you mean you think you do?  You've got savings right?  You've been working for the country for years."
+
+"I guess..." I hesitated.
+
+Ulanion slowly put down his silverware.  "Alana, what do you do with your wages?  You save them or something, right?  I know you know how to run a budget; I've seen you do it, recently in fact."
+
+"I mean... I mostly just have then sent to my section of the family vault and then get money out as I need it... it's not like I spend all that much..."  I was having flashbacks to my childhood already, of a particular woman who'd lived with me for awhile.  I could hear her screaming about responsibility already.
+
+I really had little in the way of expenses.  Much of my food I either made or came from the house kitchens, I didn't spend much on frivolities and the like, and I couldn't stop my mother from either making, or buying me clothing once or twice a year.  I probably did have a good amount put away, but honestly I'd never bothered to pay much attention.
+
+Ulanion looked divided.  "I would tell you off for not thinking of that kind of thing, but seeing as I spent most of my years as a mercenary bouncing from place to place I'm not sure I have much in the way of a place to stand."
+
+"Right, right, I'll... take care of it tonight, thanks by the way."
+
+He just shook his head slightly.
+
+It turned out that government work actually paid pretty well at certain levels.  I was a caster, and a fairly in demand and specialized one, and that alone meant that I made a very large salary.  If you added to that that I was heavily involved in high level projects that were often covered in a mix of hazard and away from home pay, for weeks at a time, it meant that I made bunches and bunches.  There was literally a pile of gold, and a ledger for my monthly earnings that nearly made my eyes bulge.  I made only slightly less than my father, and he was a general.
+
+That was how I ended up three weeks later standing in the home I'd just purchased.  There still weren't proper nobles, and if there had been this would have been a home for one of the branch families for my own.  It was near my parents place, and significantly smaller, the kind of thing one of the non-inheriting children would have gotten from the main family.  All that suited me well, since I liked to travel and didn't need anything insanely huge.  My main concern was the large wine cellar, which I was already working on plans to convert.
+
+"It's enormous," Ulanion said as I showed him around.  That was true enough, as while it wasn't a proper mansion, it was still quite the house.
+
+"It has all the things I want, and even had some wards installed, though I'll be adding to those later.  Suppose I'll need to hire a staff though, hmm."  My parents had insisted on me getting something at least this big, if only because of the safety of the area and inbuilt protections, at least they'd helped me find a place.  I suspected they'd also led me to this place in particular, since it was right next to their own place.
+
+"Surprised something like this was on the market," he said.
+
+"Almost nobody can afford them, the old nobility had centuries worth of wealth built up, but now... most of these are situated around the old proper estates, and those that could afford them, are a bit off-put by the few remaining members of the old guard hovering around."
+
+"Makes sense I guess.  What's this room?"  He asked politely as we came to a set of double doors, me leading him around by the arm.
+
+"Oh this?"  I smirked.  "This is my room."
+
+"Oh, I see..."  I didn't give him time to finish before pulling him inside.  I had a particular housewarming activity that I was most interested in finally getting around to.
+
+Leif
+
+Location Unknown
+
+My men and I sat round the large table.  Reports had just come in, full success, we were ready, ready when the time came to strike.  If we'd done things properly, they wouldn't even know we were coming.  We were all rough, the war had hardened us from soft nobles into the beaten, but unbroken rebellion we now were.
+
+"My friends, and I mean that, for you are all truly my greatest companions.  You, each and every one have stood, side by side, as our men fell, and disloyal traitors knelt to that conquering bastard.  You all are the ones, the ones that shall ride with me to victory.  Our plans are in motion, we merely await the right time.  The time when we'll surge forth and destroy the shadows, and bring the light back to our lands."  I rose my goblet.  "To the light!  To the end of the darkness!"
+
+"To the end of the darkness!" They all cheered, raising their glasses.

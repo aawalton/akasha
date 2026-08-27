@@ -1,0 +1,231 @@
+---
+id: 357e71e7-59dd-58da-bd44-245e178509e0
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 80 - The Heart of the Matter (2) "
+slug: 0136-chapter-80-the-heart-of-the-matter-2
+partOf: metaworld-hopecore
+position: 136
+ownLength: 3193
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3716857/chapter-80-the-heart-of-the-matter-2"
+royalRoadId: "3716857"
+---
+
+Thursday night, Eppie finally had the spare time to visit the Stray Cat Society.
+
+In a low, warm, concrete room that smelled of kibble and litter and the musk of many cats hanging out, she reunited with her gentle giant. Now that the weather was warmer, the adult strays preferred the outside campus over the basement, a stark difference from the basement-raised kittens awaiting adoption.
+
+Here, surrounded by the faint ammonia of cat piss, lay her and Lim’s private sanctum. As the president of the Stray Cat Society and its future vice president, they were CSULA’s Munkustrap and Mr Mistoffelees.
+
+Alone, they didn’t use their coded text-speak. In the basement, with a tabby kitten climbing his forearm and the door shut against the campus, Lim could say the quiet parts aloud.
+
+“The Mengs are in,” he nodded to her, easing the kitten off his sleeve and setting it among its siblings. “All the way in. Aunty Meng talked her husband around without him taking a tyre iron to William. Kitty vouched for the aftermath plan. They're solid.” He picked off another kitten trying to climb his shirt. "That's two. Us and the Mengs."
+
+“And the other three?” Eppie stroked Mr Chin, looking rather like a character from a Bond film.
+
+A muscle worked Lim’s jaw. “They’re far more timid than I thought. Poorer families, I guess. They feel… safe with the Chens. They listen to Chen-ye, they take the lai-see at New Year, and they pay their rent. They have their circumstances. There’s nothing wrong with that…”
+
+“Well, there’s something wrong since last April,” Eppie’s lips went sideways. A new marmalade tom investigated her fingers, then got slapped in the face by Mr Chin. It fled. “Look, there’s one more thing, and you’re probably not going to protest…”
+
+Lim sat back on his heels and waited.Eppie waited until he had a cat.
+
+“I’ve forgiven Valorie Sanders,” she said flatly. “I settled with her. She’s on our… my side.”
+
+The basement went quiet but for the industrious purring. Mr Chin made bedroom eyes at Lim while Eppie watched with a guilty heart.
+
+“San-jei,” Lim repeated the name. “The culprit.”
+
+“A victim,” Eppie reminded him. “Yes, she kick-started William’s… appetite, but the things he had been doing to her in the dark…” Eppie made a face. “There were bruises.”
+
+“She was a Senator’s daughter,” Lim was picking his words carefully, his eyes growing redder by the syllable. “They had the power to do something. To say something. Instead, she was jealous of Luciana, and that jealousy led William to a locker room. How can I tell the other families that the girl responsible—the accomplice—is now one of us?”
+
+“Don’t tell them anything.” Eppie very carefully put Mr Chin aside. The situation, she knew, required a delicate touch—a feminine touch. Lim had convinced himself that he loved Luciana, and that his failure to protect her was why she was in the situation she was in—but none of that was really true.
+
+He and Luciana had a good thing, but they never dated. And Luciana was never someone he could have protected; that is, unless William dragged him over beforehand and told him to hold the girl down.
+
+Having touched Valorie’s pain, she was now equipped to help Lim as well. That was the wisdom she had gained at the Met. The human experience, after all, was interior decoration arranged and rearranged in a room called life. The room itself… rarely changed.
+
+“Lim,” her [Vocality] grew hypnotic, her baby blue eyes were depthless pools of persuasive pity. “I am not asking you to forgive her. I’ve hated her longer, and with far more intensity than you did. That said… Val has her own circumstances, like the families, when you walked out of that locker room, leaving William intact, when you scrubbed the video. When you reported my whereabouts to William, was that not a circumstance?”
+
+Lim’s giant body froze. The devastation of her words was like incisors poking and stirring a welt. His face was undisguisedly hurt, enough to make a girl’s heart sore.
+
+“Don’t move,” Eppie needed to close the distance before her tiger-sized Munkustrap fled the shelter in a fit of self-loathing. “Give me your hand.”
+
+“Meow?” The kitten hanging from his sleeve demanded to know what was up. Eppie gingerly removed the cat, then held Lim’s giant flesh mitts. She took a deep breath, so that her striking irises captured Lim in their pale-blue crystalline lens, and said the magic words—in Cantonese.
+
+“Lim… it’s not your fault.”
+
+“What?” Lim looked taken aback. As an Asian kid, sympathy from a parental figure was rarer than six-toed cats.
+
+“It’s not your fault that William happened to Mio,” Eppie said softly. “You saved me. And you would have saved Mio, too. But as for what happened to Mio… It’s not your fault.”
+
+“It’s Valorie’s fault.”
+
+“But it's not your fault…” She walked forward, closing the distance.
+
+Lim looked like he was about to be attacked. He tried withdrawing his hands, but—
+
+Eppie’s [Strength] was [21]. Lim’s eyes widened. His breath grew laboured.
+
+Unable to escape, Lim looked at her in disbelief, then confusion, then desperation.
+
+“It’s not your fault.” She inched closer still, pulling him forward this time, her tiny arms tensing with near-superhuman strength. Her voice was like a siren’s; her mouth, small and pink and guileless, demanding his forgiveness.
+
+Lim fought back, his fingers cracking her entwined digits, his biceps bulging, the veins of his neck rising, until...he lifted her bodily at about thirty degrees, so that, to the kitties, they looked like a Chinese acrobatic troupe performing a trick.
+
+For a brief moment, tiny blonde and her Asian giant remained in their astonishing pose, a cheerleader and her base, caught mid-motion, like a still photo.
+
+“It’s not your…” Eppie felt the tension dissolve. Things were now too absurd for psychological therapy to continue. Imagine if Robin Williams had lifted Matt Damon like a child while delivering the same speech. “Lim… can you let me down? As you know, I am… afraid of heights.”
+
+Her hair, which had grown out, had fallen over Lim’s face. The young man was scarlet as he lowered her as a cat with its arms outstretched.
+
+Eppie did her best to recollect her composure. “Look, it’s not your—” “I know,” Lim said, his voice hoarse. “I know.”
+
+“And Valorie—”
+
+“I don’t agree with it,” Lim said, shaking his head, then gave her a defeated look. “But… I’ll try.”
+
+Well, that’s good enough. Eppie told herself as she shook out her swollen fingers.
+
+“You haven’t been wrong yet," Lim finally freed her body. Against her fingers, his had been burning hot. “Fine. The Norwegian Forester’s yours. Keep her on a short leash."
+
+“I’ll take good care of her,” Eppie said, grinning.
+
+She stayed ten minutes longer than she intended, letting the new marmalade tom fall asleep—until Mr Chin returned and near-shredded the newcomer, Eppie decided to call Garfield.
+
+Lim sat opposite, grooming the cats with a fur pad, processing his pain through a long procession of cats waiting to be brushed.
+
+Saturday, Eppie and Val made a coffee date at a trendy joint out near Sunset Junction, at an intelligentsia-themed bookshop cafe a long way away from LAPA, and a few degrees north of student spending.
+
+Val came in a cap and minimal makeup, slid into the booth across from her, and ordered a frappe. For Eppie, seeing Valorie in public without her lashes and her glossed lips and that Blair Waldorf hair—was just weird.
+
+“Are you sure this is a good idea?” Eppie sipped her latte. “What if…”
+
+“Will’s at the editing bay all weekend," Val dutifully informed her. “He’s bogged down for now. Graduation project in the final stretch. He’s got editing, and when he’s done, colour grading, then final cut—he’s going to be trapped in there for days at a time, in six-to-eight-hour stretches.”
+
+It took Eppie a few seconds to realise, oh yeah,  William was a student first and foremost. He wasn’t some end-game boss sitting around in a throne room scheming while monologuing to himself. Furthermore, as Daddy’s high-achiever, anything below 2300 was an utter failure, and for an Asian-American, 2350 to 2400 was the baseline for Ivy League.
+
+Sitting opposite, Valorie looked all pink and flustered, not at all like her ice queen self. After a few studied glances, Eppie guessed why Val had wanted to meet.
+
+“You told him,” she said. It was a statement.
+
+Valorie averted her eyes.
+
+“He tried to kiss me.” Her fingers worked the rim of her cup. "But I told him I’ll be indisposed until graduation. I said that my father had unexpectedly come home…” Eppie watched Val’s eyes involuntarily tighten around the word father. “... and found the bruises, and that daddy was incandescent, and that if that little dickhead so much as texts me before we graduate, it's over for both of us, not to mention his father. I told him that I begged my dad not to tell Mr Chen. I told William I was almost sent away somewhere.” Valorie looked up. She looked simultaneously innocent and wicked. Eppie felt her heart skip a beat. “Did I do good?”
+
+Eppie’s jaw grew tight. Why couldn’t you be this obedient before? We could have skipped so much grief…
+
+“What was his reaction?”
+
+“He was perfect about it.” Valorie sighed. “You know, William. He was… Concerned. Understanding. He said, of course, he said the last thing he'd ever want is trouble with the Senator, said he'd give me all the space I needed and we'd sort it out properly in the summer when he could bring his father over and apologise.”
+
+Then Valorie’s eyes grew red.
+
+“Gods, he’s so good with words, Eppie…” she said with a hint of distress. “He leaned in to kiss me, and I… I almost kissed him back.”
+
+That’s how [Usurpers] are, Eppie felt her own body shiver. That’s how I am. In her prime, she could sell Santa his own Elves on a three-tier monthly subscription program.
+
+Eppie reached out with her hand and arrested the girl's fingers. “You did well, Val. You did it perfectly. I am proud of you.”
+
+“He said he wanted to marry me.” Valorie’s voice became very small. “He said he’ll propose after we graduate.”
+
+Ha! Good luck on that, asshole. Eppie wondered what Francis Sanders would do if William indeed tried to elope with his daughter. A manhunt wasn’t out of the question. The question was whether the ordeal would become an episode of The Running Man.
+
+“You didn’t say yes, did you?”
+
+“I ran away…” Valorie said quietly.
+
+“You… ran away?”
+
+“I ran away.”
+
+Eppie felt her temple throb. Clearly, William was getting desperate. Withholding affection had now turned to overwhelming affection. Not very original, but if it works…
+
+“Hey,” she grabbed Valorie’s fingers with more force. “Whatever happens, I've got your back. Remember the flower pots in front of the dorm.”
+
+Valorie nodded with confidence. Val knew what she could do with a flower pot. The only other people who knew were Kellie and Kel. According to Curon, even now, Kel was wary of large vases.
+
+“What should I do if he texts me?” Valorie asked after a few more sips. “What if he follows me home?” “What if he hugs me at school?” “Should I attend his showcases?”
+
+The questions came, one after another.
+
+Jesus Christ…
+
+Eppie’s sixteen-year-old body groaned as she watched Valorie sip her frappe demurely, her green eyes brimming with overflowing earnestness and trust, like a guileless girl from Green Gables finding a female friend for the first time.
+
+I am too fucking old for this…
+
+The next week, Week 10, started with a bang, and it took Eppie a day and a half to find out exactly what happened.
+
+William.
+
+Of course, it was William.
+
+William Chen, the nicest Senior in LAPA, it seemed, had lost his temper in public.
+
+That was not to say that William hadn’t perfectly recovered. She had seen him near the Quest Board, making his presence known, hanging around Valorie like a bad smell. He was tall and platinum blonde, and his fox-like eyes still browsed the girls like a farmer counting his hens. He held the doors for the music kids, laughed at the jokes of the Juniors and Seniors, and flirted voraciously with anyone, even the staff.
+
+Yet, different to the others, Eppie could see the slow fracturing of an [Usurper] who had lost his supply. William wasn’t scratching invisible itches or chasing unseen dragons, but he was… aware that things were now different. There was a brittleness to the way he laughed, a crack in his voice. Sometimes, his laughter didn’t reach his eyes, or he laughed too loudly, or too often.
+
+By Tuesday, people walked around him rather than with him. Girls admired him from afar rather than trying to cosy up against his Loro Piana cashmere sweaters.
+
+From the gossip box that was Min-jun, Eppie heard that it was just a small outburst. Someone had dropped a stray cat into William’s lap.
+
+William had gone ballistic. Full Metal Jacket. Pedal to the metal for about five seconds.
+
+The cat had escaped, while William nearly put the Junior’s lights out before he apologised profusely for… trying to tear the boy in half.
+
+The incident was a rare moment where Eppie missed the 2032s. In the future, someone would absolutely be filming the interaction, whether for clout or nuisance, meaning she could enjoy a video of William freaking out in public, while purring with pleasure.
+
+William or no William, though, her work was unending.
+
+In Whitman, tech deepened. The seniors ran Act II over and over until the young actors collapsed, trying to recapture the magic of [All the World’s a Stage]. Costello drilled the ensemble through the scene shifts as choreography, twelve bodies moving a Roman court on and off in the dark until the whole thing breathed.
+
+Val's Lavinia was coming in raw and terrible and true. They did one run with the red threads, and the effect was so horrifying that several of the students grew too sick to continue. What was also morbid was re-spooling twenty meters of red thread, some entwined, some sticky, some made to drag while others lingered, back into its mechanism.
+
+Each use, Eppie saw, drastically reduced the lifetime of the prop, while robbing at least two to three hours from their dedicated costume techs, not to mention adding to the chance of a future misfire.
+
+On Wednesday, she hung lights with Min-jun until eleven, learning the patient theology of theatrical lighting from the third rung of a swaying A-frame—an eight-kilo Source Four in each hand, her [Strength] carrying the load while [Agility] kept her boots honest on the slippery ladder. Min-jun called positions from the deck; she’d hook each instrument's C-clamp over the pipe, then crank the bolt down with her fingertips. At his behest, she then dropped the barrel and focused the light, sliding a gobo into the gate to throw the shape of a window and a frame of Rosco 80 to turn it to moonlight. The boy never noticed her supernatural feat—and Eppie said nothing.
+
+The next day, her Sophomores flourished in their professional costumes, mounting scenes in the clothes of their idols. Eppie watched it all from the back, not a part of the show, but its backbone. She was its producer, a figure like Tyker, and she found herself strangely joyous while watching the faces of these young men and women living out their dreams of fantasia.
+
+When they were ready, Cooper, Costello, Tyker, and she sat together on the middle steps of the Playhouse and watched the rehearsal of the second scene run from start to finish. When Cameron concluded the scene, she stood and clapped with the rest, giving out accolades and congratulations.
+
+It was only afterwards that her friends' looks went strange and sidelong—the delayed realisation that a tiny blonde Sophomore had held court with the faculty, dispensing praise like their equal, and that no one had thought it odd until now.
+
+Finally, in the midst of two plays, three subjects and a whirlwind of activity, the midterm break arrived, not as an actual period of rest, but as Hell Week Redux.
+
+Week 11, the third week of March, CSULA started to empty while the LAPA kids started their seven-day grind. The Seniors practically lived at the Whitmans, while the staff elected to stay at their campus lodgings. The Artists who were not already employed and off-campus, like Armand, piled into ambitious exhibition spaces so they could be like the legendary Armand Amar. Joined by the artists, the musicians split into practice rooms and corridors, while the performing arts kids ran amok in and outside the boundaries of the campus.
+
+For Eppie, however, her LAPA labours had to wait.
+
+She had another assignment for the week, one that would take her away from both the Whitmans and the Playhouse, signalled by the arrival of Maddy’s call to arms.
+
+From: Madeleine Filmore [email protected]To: [email protected], [email protected] Cc: [email protected] Date: Friday, 14 March 2008, 9:47 PMSubject: DREAM A LITTLE DREAM — Shoot Schedule, Culver City (please read in full this time 😅 )
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Hi Eppie (and Zara!),
+
+Webber came back with a script, and I love it. It's really happening🎬. Full schedule below. Please read it twice.
+
+We're based at Sony Pictures Studios, Culver City, the whole time: a soundstage for the interiors (the bedroom/kitchen/attic build), plus hair, makeup and wardrobe. For the exteriors, we’re shooting a few blocks over, in the actual neighbourhood off Overland. (Fun fact: that neighbourhood is literally built on the old MGM movie backlot. Spooky 👻) Thanks to that, the costs won’t blow out. Sony artist, Sony lot, Sony dime, and it's a fifteen-minute cab from your dorm. Trent approved in about four seconds. 🙂
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+TUESDAY 18 MARCH — CAMERA + WARDROBE TEST (on the lot)
+
+2:00 PM: wardrobe fittings — period, nineties-suburban, hand-me-down register. Nothing you'd recognise from a Sony rack 👗.3:30 PM: camera test with Webber. Super-8 and VHS, grain and all. Webber will also walk you both out to the exterior location, so wear comfy shoes. This is where your protests can happen, so you don’t disturb the shoot days. So PLEASE be there. 🙏
+
+WEDNESDAY 19 & THURSDAY 20 MARCH — SHOOT DAYS
+
+6:30 AM: hair and makeup on the lot, both mornings. Webber wants golden light on the exteriors, hence the crime-scene call time ☕.7:30 AM: exteriors in the neighbourhood (Culver City permits sorted—locations have the residents squared away, so please be nice and quiet; they're letting us onto their street).Midday: back to the stage for interiors and the attic setup.On camera: you AND Zara, the whole shoot. Narratively, you’ll be playing solo, then as a pair. Zara — that means you too, and yes, bring the J-45 🎸.7:00 PM: scheduled wrap. It's a music video, so… realistically, later. 🙃
+
+ACTION ITEM
+
+That's everything!! 🌙🌙🌙
+
+Maddy
+
+Madeleine Filmore, Media Manager, Artist Services, Sony Music Entertainment T: (310) 244-XXXX | [email protected]

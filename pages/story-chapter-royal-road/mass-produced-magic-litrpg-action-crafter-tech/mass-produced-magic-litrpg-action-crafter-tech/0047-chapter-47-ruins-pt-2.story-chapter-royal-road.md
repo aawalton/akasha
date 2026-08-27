@@ -1,0 +1,207 @@
+---
+id: 96fff819-783c-513a-bfd3-3b4956491ee0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 – Ruins – Pt 2"
+slug: 0047-chapter-47-ruins-pt-2
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 47
+ownLength: 1920
+unit: words
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2013893/chapter-47-ruins-pt-2"
+royalRoadId: "2013893"
+---
+
+Machine and flesh bore down on the group, metal feet clanking on stone. Gleon raised his axe and ran forward.
+
+Kindra pulled out her crossbow and shivered.  What the hell happened to those things?  She jacked in a crossbow bolt, and the two dwarfs slammed their weapons into the strange cyborg creatures.
+
+Blood and metal broke away, spraying across the dusty hall. With gears whirring, one slammed a piston-like arm into Gleon, launching him down the hall.
+
+Dodging a strike, Tob growled. “Back to the abyss with you, apparitions.”
+
+Oh.  Kindra aimed and fired, her bolt streaking across the air and sinking into a shoulder. A spray of blood splashed across the ground, and it charged at her, its piston-like legs slamming against the stone. Its eyes blazed with a strange fire. A boulder hit it, sending it crashing into the wall.
+
+Loading another bolt, Kindra aimed and watched Gleon hurl himself into the fray. A metal arm flew off in a spray of blood. It clattered down the hall, and Kindra looked at it. A bone jutted out of the metal.  Can you do that?
+
+Swallowing down bile, she searched for an opening, trying to get a clear shot while watching the two dwarves fighting together. They moved harmoniously, their weapons slamming into the constructs. Pistons churned, bones snapped, and the two dwarves smashed pieces off of the creatures.
+
+Looking down, Kindra watched the arm decay, turning into a small stream of mana that rushed out into the group.  That’s sort of amazing.  She jerked her attention back to the fight and fired. Her bolt blew into one’s arm, and Gleon lashed out, hacking into it with his axe glowing.
+
+Kindra reloaded her crossbow and waited. Tob chopped into another, and she fired, sinking a bolt into one’s chest. A burst of black and red sprayed from it, and Kindra wrinkled her nose.  That’s foul.
+
+The bloody oil sprayed on the floor, leaving a slippery puddle. Pulling out another bolt, she jacked it in, and a boulder smashed into one of them, flattening it against the ground. The two remaining fell moments later, and Kindra walked up to them.
+
+She studied the creatures that were fading away.
+
+“Apparitions,” Gleon said, kicking one. “They’ll fade away.”
+
+“But why would mana do that?” Kindra asked, looking at the three. “It doesn’t make sense. Logically, there has to be a reason.” She paused and waited.
+
+Gleon shrugged. “It happens where the mana gets dense.” He turned and walked down the hall.
+
+System, why does this happen?  Grabbing her bolts, she darted after them.
+
+[Convergence. In places with too much, it takes a shape, trying to be something more.]
+
+Strange.  Kindra followed down the hallway and studied the ambient mana. Like a sea, it eddied and swirled around the dwarves, bumping and spinning. Ripples formed in it. She looked down and saw a vastly different sight. It didn’t bounce off her. She cut through it like a razor blade.  What?  Spinning, she looked behind her and saw a small gap in the mana that drifted shut.
+
+“Keep up, Kindra,” Gleon called.
+
+Turning, Kindra darted forward.  Am I absorbing it from the air itself? I mean, it’s optimal, but that’s bonkers.  A small smile spread across her face, and she zigged around the hallway, trying to get more of it.
+
+Tilly turned and chuckled. “What are you doing?”
+
+“An experiment.” Kindra blushed and darted up to her. “Do you think we’ll find a golem? A real one?”
+
+“That’s the plan,” Gleon said, a smile spreading on his face. “With them, we’ll end this war for good.”
+
+Kindra nodded and followed them down the hallway. Silence and mana hung in the air. Dust coated the tunnel. The doors vanished, and the tunnel ended with a single ball of mana in the wall. She tilted her head.  What is that?  It glowed a soft red.
+
+Gleon turned. “Sara, do you see a way forward?”
+
+“I’m unsure. Give me a moment.”
+
+“What’s that?” Kindra pointed at the ball of mana.
+
+Gleon turned, grabbed his hammer, and threw it. It whirred through the air, and the wall moved. Flowing like loose mud, the living block of stone charged, its body pulling into a blocky, humanoid shape.
+
+Kindra took a step back and pulled out the rifle. She aimed, and Tob slammed a hammer into the creature. A thunderous boom rolled through the tunnels. Cracks shattered across its stone flesh, and it slammed a rocky arm into Tob, sending him rolling.
+
+Darting to the side, Kindra exhaled and fired at the concentrated mana in the middle. The gun barked, and the bullet hit stone, sending fragments flying everywhere.
+
+The elemental turned toward her, and a hammer smashed into it. Gleon wrenched the hammer back and slammed it down again, blasting a spray of fragments into the air.
+
+What is this thing?  Kindra jacked in another shot, and the elemental smashed its fist into Gleon’s shoulder. A resounding crack filled the air, and Kindra pulled the trigger.
+
+The bullet blurred, and the stone exploded. Fragments burst into the air, and the elemental turned toward her. An ominous wave of heat filled the air. Magic gathered around it, runes flickering into view and flowing into the stone.
+
+“Run!” Gleon barked, sprinting down the hall and grabbing Kindra on the way by. With a burst of energy, he shot down the hallway.
+
+Kindra bounced. Her hair fluttered, and she looked up to see Aika fluttering ahead.  At least she’s safe.  She looked over and saw Tob and Tilly sprinting alongside. The sound of falling stones filled the air, and she looked back at the cave. An eruption of stone rained downward, and the elemental moved through it without a care.
+
+“Is that real?” Kindra asked.
+
+“Aye. Stay safe,” Gleon said, setting her down and turning. He bellowed and charged toward it.
+
+Tob followed, and Kindra lined up another shot.
+
+“Don’t,” Tilly said. “They’ll get it.” She patted Kindra’s shoulder.
+
+Leaping in the air, Gleon slammed a glowing hammer into it. Cracks ripped through it, and the smell of sulfur and ash filled the air.
+
+What?  Kindra shivered. A feeling of wrongness filled her, and she studied the glowing mana inside.  Why does it feel wrong?  The magic surged. Runes spun into view, and the dwarves attacked it with the fury of two racing miners. Stone shards blew off it, revealing a core of molten metal. The metal blazed with magic, runes blurring through the air.
+
+Bellowing, it slammed its stone arms at the dwarves. Tob dodged to the side, and the strike connected with Gleon, knocking him to the ground. He vaulted up, spat blood, and attacked in earnest. Stone blew into the air, and the core of molten metal shone.
+
+Magic surged through the air. Hammers pounded, and a spear of earth smashed into it. The elemental staggered, and Gleon swung, smashing his hammer through it and sending the glowing ball rolling across the floor.
+
+The sense of wrongness increased. It hung in the air, and Kindra’s stomach churned.
+
+The ball softly glowed, and runes gathered around it. The stone began flowing toward it like tiny streams of mud.  What?  A hammer came crashing down, slamming into the orb. It cracked. The smell of sulfur filled the air, and magic flooded from the core, billowing up into the air like a patch of smoke.
+
+The horrific smell set her on edge. Every hair stood on her body, and Kindra bared her teeth as an overpowering hunger flooded through her body. The cloud of magic began to move, flowing toward the stone. The hunger surged, and she let it lose.
+
+Her magic snaked into the cloud. It writhed, and she felt a presence in her mind.
+
+“Release me!”  a gravely voice thundered.
+
+Kindra pulled, dragging it toward her.  What is it?
+
+[Kill it for me, will you? ~Death]
+
+She paused, and it jerked against her magic. Like a fish trying to get free, it slammed against her magic.
+
+“Shame they don’t give mana, but it’s impossible to kill ‘em,” Gleon said with a long sigh.
+
+Kindra stared at it.  Is this its soul?
+
+[And the mana that’s keeping it out of my domain. ~Death]
+
+A thousand questions danced through Kindra’s mind. The elemental jerked and slipped toward the wall.
+
+Kindra tightened her hold and pulled it toward her.  Am I eating this thing’s soul?
+
+[No. You’re breaking the magic that’s keeping it alive. ~Death]
+
+Isn’t this your jurisdiction?
+
+[Yes. That’s why I’m replying. Break the chains of magic that bind it to the realms. It’s time for it to move on. ~Death]
+
+Kindra ripped it forward, pulling on the magic like some strange mental tug of war.
+
+“Unhand me!”  the voice bellowed.
+
+“Who are you?”  Kindra asked, pulling the mana closer and closer toward her.
+
+“I am Bodon, king of the dwarves! I ascended and became much more.”
+
+Kindra’s eyes widened.  “You’re the king of the dwarves?”
+
+“Yes, unhand me, peasant!”
+
+Kindra ripped the mana forward.
+
+“Wait! I can tell you the secret.”
+
+“What secret?”  Kindra pulled it closer.
+
+“The secret to immortality. You can become like me, one of the true kings of the dwarves.”
+
+“Tell me how to make a golem.”  Kindra paused and looked at the dwarves and Aika. They were all staring at her.
+
+“Kindra?” Gleon asked. “What’s got you distracted?”
+
+“Talking to this elemental thing.” Kindra gestured at it. “It says it’s Bodon, the king of dwarves.”
+
+Tilly raised a brow. “It’s talking to you?”
+
+“Yes. I’m trying to get it to tell me how to make a golem.”
+
+“I can do that. Let me go so that I can write out the runes.”
+
+“No way. Just tell me. Describe them to me.”
+
+“Describe them? I can’t—”
+
+“Describe them.”
+
+“There’s a squiggly one. It’s difficult to describe. If you let me free, I’ll draw it.”
+
+Kindra frowned.
+
+[End him, please. He can’t help you, and you’ll figure it out. ~Death]
+
+Why don’t you end him?  Kindra thought back.
+
+[My domain is over death. That came with some irksome restrictions. ~Death]
+
+“Kindra?” Gleon asked.
+
+“Sorry. Too many conversations.” Kindra shook her head and felt the connection weaken. The magic pushed toward the ground, sinking into it. She ripped it backward.  “Last chance, Bodon.”
+
+“There wasn’t a King Boden,” Tob said, shaking his head. “I’ve never heard that name before.”
+
+The spirit thrashed against her. Kindra felt panic roll through the connection, and she ripped the mana free. It slammed into her, and the entire world went white.
+
+Staggering backward, she blinked out at the bright white.
+
+A young man with spiky black hair appeared. Death looked at her and smiled. “Thank you.”
+
+“You can’t interact with the living? Then how did you interact with me?”
+
+Death smiled. “Kindra, you’re bright. Figure it out. Oh, and he was not a king. That will be very obvious soon.”
+
+“Why?” Kindra asked, looking at him.
+
+He grinned and stepped closer. “Because you’ll meet one soon enough.” He winked and snapped his fingers.
+
+Kindra slammed back into her body. The world was aglow with mana, and a strange shimmering thing hung in the air. It turned toward her, hovering in the air. Another figure appeared next to it, a man with spiky black hair. He winked, gestured, and both vanished.
+
+Was that a soul?
+
+[Yes. You deserved to see it. ~Death]
+
+Kindra looked at the dwarves. All of them were staring at the air.
+
+“What was that?” Gleon asked, his eyes wide.

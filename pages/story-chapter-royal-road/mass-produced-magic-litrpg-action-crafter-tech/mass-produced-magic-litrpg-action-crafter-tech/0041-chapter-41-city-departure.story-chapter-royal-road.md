@@ -1,0 +1,159 @@
+---
+id: dbd5ce23-4e5b-58a8-b364-5b263ae9ab0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 – City Departure"
+slug: 0041-chapter-41-city-departure
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 41
+ownLength: 2002
+unit: words
+publishedAt: 2025-01-05
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1993862/chapter-41-city-departure"
+royalRoadId: "1993862"
+---
+
+The buffalo’s eyes glistened with the night, twinkling like little angry stars. Stars that had decided their next target. It stared at Kindra, pawed the ground, and lowered its head.
+
+Kindra reached for her rifle, and it surged forward, its hooves ripping into the ground and spraying dirt.
+
+Cold steel filled Kindra’s hands. She pulled the rifle up, and the world tilted. Dain set her aside, stepped forward, and reached for his weapons. Hooves thundered, and Kindra steadied herself. Come on. She corrected the aim, and a massive boulder erupted from the ground, launching the buffalo like a pinball. It shot into the air, an expression of bewilderment on its face. A soft moo escaped its throat as if it couldn’t believe Sigrid would do such a thing.
+
+Kindra spun and watched. The bison soared, its legs and tail flailing. Then, it slammed into the tree with a heavy thud. The tree quivered, a few leaves breaking free. The bison dropped like a stone, bellowing in protest.
+
+Well, that’s one way to do it. Kindra watched it hit the ground hard. Bones snapped, and it bellowed, pain ringing with the sound. Well. It’s not going anywhere. Kindra turned and let her mouth drop open.
+
+Sigrid smiled and dusted off her hands, her pride clear. “Really, Dad? Letting a bison get the drop on you?” She chuckled and wagged her finger at Gleon.
+
+He pulled himself off the ground and rubbed his arm. “Fool critter. Must have had an illness to dare charge me.”
+
+Kindra turned back to the bison. It tried to stand up, bellowed in pain, and dropped. That’s gruesome. She looked at the snapped legs. Dain walked up to it and brought his hammer down, smashing into the bone with a loud clang.
+
+The bison bellowed. Kindra debated shooting and felt a hand on her back. She turned.
+
+“Always take a healing skill if you get one,” Gleon said, stretching out his shoulder with a loud pop.
+
+“Aika says that yours made you crazy.” Kindra smirked, and he chuckled.
+
+A thump and cracking bone caught her ear, and she turned. Dain raised his hammer.
+
+“Pity we can’t bring it back,” Gleon said, sighing and walking toward it.
+
+Kindra followed. “What are we going to do with it?”
+
+“Set up camp and harvest a bit. This is far enough, I reckon.” He pulled out a knife and sliced into it. Red blood poured out, and Kindra took in a long breath. That smells way too good. She looked at the mana flowing out of it. Some of the mana streamed into the dwarves, some went into herself, and some drained into the forest floor.
+
+Licking her lips, she stepped closer and reached, targeting the part oozing away and pulling it into herself like a delicate ribbon of mana. It hit, and she swallowed, enjoying the flow of heat that surged through her.
+
+“Let’s find some wood.” Sigrid walked up and nudged Kindra away.
+
+“Are you afraid I’ll be consumed by bloodlust or something?” Kindra asked, gesturing at the blood to get her point across.
+
+Sigrid blushed and patted Kindra’s back. “It’s better to be safe.”
+
+Okay. So they think I’m some sort of vampire thing, even though I can eat fruit and stuff. It just needs mana in it. Kindra didn’t bother arguing with them. She turned and looked into the forest, trying to find a fallen tree. “How do we gather wood?”
+
+Sigrid turned and studied the trees. “We find one that is young, find one that’s weak, or get Gleon to help us out.”
+
+Turning, Kindra walked into the trees, studying them. Mana ran up the trunks. Wish I could see levels. That’d be cool. She paused, her thoughts drifting to the priestess and the spell. How much mana does that cost?
+
+Fixing the runes into her mind, she pushed a little mana into it and cast it at a large tree next to her. The magic surged out and slammed into a tree. For a moment, Kindra felt the presence. Like hitting a brick wall, it stood there unperturbed. Her spell snuffed away, breaking against the tree.
+
+So, it’s strong enough to cost a lot of mana. She patted the tree on her way by, looping around and pausing to look at the distant stream. Mana flowed in the water, and trees seemed to be drinking it in.
+
+A glowing fish shot through the water, blurring with an absurd speed, its mouth open wide. Snagging an insect, it landed with a soft splash and vanished into the water. Kindra moved closer and searched. Small insects were feasting on mana and pieces of the trees. Looking up, she saw large sections of vines attacking the trees.
+
+Fascinating. Nature still finds a way, even with trees that get level-ups. Looking at the canopy, she watched a glowing squirrel-like creature hop onto the branches. It wrapped its fuzzy tail around one and chittered loudly. Magic and runes streamed out. That looks like the identification spell.
+
+The runes hit Kindra, and Sigrid stepped forward, glowering at the critter and putting her arm around Kindra. “Don’t even think about it.”
+
+The squirrel chittered at her. More magic flew, hitting Sigrid. The squirrel stopped chittering and bolted into the branches.
+
+They use magic to identify threats? That… makes sense. If you can’t read it, it’s not weak. She smiled and looked at Sigrid. “Dangerous?”
+
+“Only for the young.” Sigrid patted her back and gestured toward a tree down the stream. “That one.” She walked between the trees, moving toward a large tree.
+
+“How can you tell?” Kindra asked.
+
+“Trees don’t level like us. Instead, they level based on the ambient magic that they pull inside. At a certain point, too much leaks out. See the moss and vines, they’re feeding on the leaks and causing more.” Sigrid gestured to the foliage. “The leaves are far weaker than the trunk and large branches. Typically, bugs and smaller creatures will attack those.”
+
+“Do they get classes or abilities?” Kindra asked.
+
+“A few, but most can’t. They fortify themselves with the mana.” Sigrid pulled an axe from her belt. She walked to the large trunk and chopped, sinking the axe into the bark and blowing small chips into the air.
+
+Walking to the tree, Kindra pulled out her axe and hit the tree with a thud. The jarring impact ran up her arms. Pulling back the axe, she saw no visual effect on the tree. That’s just embarrassing. Her face went red, and she tried again, slamming the axe into the tree with a resounding thud. Pulling the blade away, she saw the tiniest mark.
+
+Sigrid chopped, sending another spray of fragments into the air.
+
+“How much strength do you have?” Kindra asked while debating spending limited mana on another enhancement.
+
+Sigrid smiled. “You are young, my dear.” She slammed the axe into the tree, cutting off small pieces. “I have over a hundred and a lot of practice.”
+
+Over a hundred… “What level are you?”
+
+“You’ll get there. Don’t worry.” Sigrid smiled at her. “I am nearly to level one hundred.”
+
+Kindra let out a low whistle.
+
+“She’d be further if Gran had let me raise her in the wilds,” Gleon said, walking over and slamming his axe into the tree. It sunk into it with a resounding thud.
+
+How does the steel survive if the tree is stronger? Kindra studied the weapon and saw the faint glow of mana inside. It looped back into Gleon, and he swung. The axe glowed faintly and bit deep into the tree, sending shards of wood spraying into the air.
+
+Kindra held hers up and studied. The magic remained in her body. Must be a skill or something. She slammed it into the tree and searched for a mark.
+
+She found a small dent, and an explosion of chips flew around her. Stepping backward, she looked at Gleon. “What level are you?”
+
+“In general, it’s poor form to ask,” Gleon replied. “But since you’re family, I’m level two hundred and forty-three.”
+
+“How did it even move you?” Kindra asked, shaking her head and studying the dwarf. His large frame moved with superhuman grace, and his axe slammed into the tree. It sunk into the trunk.
+
+Gleon chuckled and pulled the axe back. “Their charge is powerful.” He smiled. “It’s not enough to break my bones, but it is enough to send me flying unless I’m braced against something.”
+
+Oh. Gravity would have limits… How high can they jump? She mused on it and took another step back. His axe sunk into the wood.
+
+“He also has a very powerful self-healing skill,” Sigrid said, turning and pulling Kindra to the side.
+
+Gleon ripped the axe free. “Aye. Never pass on skills to stay alive.” He swung, and a loud crack rang through the woods. The tree stood there, a crack running through the trunk.
+
+With a sigh, Gleon leapt nearly ten feet into the air and kicked, his foot slamming into the tree like some absurd martial artist. The tree tipped and came crashing down, smashing into the ground with several snaps. The mana inside slowed and went still, freezing in place like some strange monument.
+
+Is that material magical now? And what does it do? Kindra studied it and turned to the others. “Is it magical wood?”
+
+“Yes,” Sigrid said, walking forward and chopping off branches. “The wood retains some of its innate properties. Usually, it’s a stronger version of itself.”
+
+“If it’s strong enough, you can imbue it with magic and mana to create a self-contained enchantment,” Sigrid said, chopping off branches. “In addition to boosted stats.”
+
+“But those require heavy amounts of it,” Gleon said, chopping off pieces.
+
+Damn. I shouldn’t have left that wyvern behind… Maybe it’ll still be there. It is way down in that cave. Kindra looked at the wood. “Can I use some?”
+
+“Sure.” Gleon slammed his axe through a branch, severing it.
+
+Walking up to it, Kindra pulled out metal and placed it next to the branch. Grabbing her mana, she willed some of it into her skill and imagined the bullets.
+
+Mana flowed, and runes danced across the branch. Steam billowed into the air. The branch and leaves curled on themselves, and a burst of smoke rose into the air.
+
+There goes the extra carbon and oxygen. Metal flowed like it was alive, snaking into the smoldering mess. Don’t ignite my bullets, you crazy spell. Kindra frowned, and the flames vanished. The smoke faded, leaving behind two dozen bullets for her rifle. Walking forward, she reached down, and large hands snatched them up.
+
+Gleon stared at it, moving it close to his eye. “What is this thing?”
+
+“A bullet. Remember?” Kindra asked.
+
+“You use trees and metal?”
+
+“Yes. But the trees have to be altered a bit to get the right reaction.”
+
+Shaking his head, Gleon handed them to her with a look of confusion. “Never seen the like. Can you make more?”
+
+Kindra pulled on her mana; most of it was spent and felt more like sludge. “Yes. I should be able to once my mana recharges.”
+
+“And can you make another gun?”
+
+“Yes, but I’ll need to get—” Kindra was jerked off her feet. Two strong arms were underneath her legs and back. She looked up at Sigrid. The normally calm woman had a look of fear in her brown eyes.
+
+“Dain,” Sigrid hissed and whispered at the same time.
+
+Dain sprinted over, and Kindra turned. Her throat closed, and she trembled, fear and horror lacing through her.
+
+A creature stepped out from the trees. It had the fur and general shape of a massive bear. The similarities stopped there. Horns, teeth, limbs, and claws protruded from the body in a haphazard amalgamation of flesh. Extra legs kicked in the air, and Kindra felt like vomiting. What the hell is that?
+
+Gleon bellowed, his voice booming through the night. Then, he charged straight for the abomination of body parts.

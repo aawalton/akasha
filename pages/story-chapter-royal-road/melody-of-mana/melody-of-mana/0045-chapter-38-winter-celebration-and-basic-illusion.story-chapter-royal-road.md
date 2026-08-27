@@ -1,0 +1,121 @@
+---
+id: 1f657666-5668-5b7d-a953-202841baa09f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 Winter celebration and basic illusion"
+slug: 0045-chapter-38-winter-celebration-and-basic-illusion
+partOf: melody-of-mana
+position: 45
+ownLength: 2018
+unit: words
+ownProgress: 2018
+publishedAt: 2021-08-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/738974/chapter-38-winter-celebration-and-basic-illusion"
+royalRoadId: "738974"
+markedReadAt: "2026-06-29T22:27:45.379Z"
+---
+
+I yawned and blinked. I'd had the strangest dream, and it had told me to write it down. Unfortunately as I woke up I couldn't remember it at all. Something involving a cave or something like it? I shrugged, looking around at my room.
+
+Then I sat up straight, it was midwinter. We'd gotten together several days ago and talked and both Dras and Charles were coming by today. Hopping up and tossing on clothes, if they were coming by then I was going to have some things ready. The now full jar of sugar joined me as I made my way to the kitchen.
+
+Lucien had kindly allowed me to try out some recipes in exchange for some of my failed sweets, something I could happily give up. Today would be the day for a simple cake with proper icing and some sugar glazed pastry stuffed with a bit of jam I'd secured. It had taken a good amount of practice and a few total failures to manage the sweets, but I had a fair idea of how to make such things from my previous life, so it was mostly dialing it in to match the local ingredients.
+
+The pastry I had put together the night before, so that was easy enough to prep this morning. The cake was fairly straightforward too. The Swiss buttercream on the other hand was an absolute monster to make, taking the better part of the morning. The lack of power mixers was a big hindrance, and without a spell to move things around I'd have been in a really bad state. The kitchen work was too hard to do normally without magic, even with modern tools this would have been a bit much.
+
+There were no plastic bags for doing something like cake decoration. Waxed linen was a crude substitute for something like plastic wrap, but the cost was such that it wasn't really viable to cut a hole in it just to make a cake fancy. I had wanted to do roses and the like for the cake, but had to just pout that it would only be tasty, not pretty and tasty. Not that the boys would care much, but I hadn't been able to bake much in the way of sweets since coming to this world, and going a little over the top now would be fun.
+
+The end result wouldn't have looked like much of a spread back on Earth, one small cake and less than a dozen jam pastries. Here though it was quite different, the sheer amount of sugar pumped into this would have been enough to break a family of farmers. That was not counting the other ingredients.
+
+Soon enough the boys did indeed show up. They shivered as they came in the door, trying to warm themselves. Dras could easily clear a path, but it was still chilly. I quickly waved them over to a booth in the back corner and they all piled in as I brought out the sweets.
+
+"I've been baking!"
+
+"So we can see, what is all of this?" Charles looked at the cake a bit dubiously. It did look like a mound of white cream to the uninitiated.
+
+"Cake and pastry," I spoke as I distributed the goodies, cutting the tiny little cake into three slices.
+
+'Whoa," Dras' eyes went wide as he took his first bite.
+
+"Mmm, cake is yummy." I dug in, it was a decent cake, but not great. The sweetness though.
+
+"Can you make this more often?" Dras asked as he dove into one of the pastries.
+
+"The cost of the ingredients would make you puke if you tried to buy them in a store. The sugar alone..."
+
+"How much did you spend on this?" Charles leaned over, speaking as he finished his first bite.
+
+"Not much in coin, but a lot of time to get it. It's miserable outside and I wanted to celebrate with my friends."
+
+"Why?" Both of them asked in unison.
+
+"Because it's nice to sometimes and..." 'It should be roughly my birthday and Christmas.  "and I just wanted to try something new out."
+
+I couldn't tell them the truth, that I'd missed holidays. There were few here, and most of those were rather plain affairs. An extra large meal and no work that day for most people. Perhaps nobles or the wealthy did something more, but farmers didn't, and I'd been working for them since I'd moved to a city. Birthdays weren't even a thing, it was based on the season you were born in, the day was considered unimportant. I didn't even know mine for sure, just that it was in winter.
+
+"Well, it's great, very, very sweet." Dras was slowly working his way through the slice he had.
+
+"So, how are your winters going?"
+
+"Good enough. I don't know that I want to join the family business of being a ratcatcher or the like. Reckon I've had enough of being underground to last me for the rest of my life. I've also forgotten a lot of the tunnels that I used to know, so I'd have to go and learn them again. Hey, Alana, I meant to ask before, Dras was telling me I had an aura. I think it's physical, but neither of us know jack about that, you know about it?"
+
+"Not much to be honest, my dad was like that. I could teach you to hide it, but you should ask Lucien if he knows anyone who could train you how to use it. Yours seems to be mostly around your eyes."
+
+Charles nodded, "Yeah, I noticed that I was seeing way better. Didn't really occur to me back when we were down below. I thought I'd just gotten used to not having much light. Now that I'm out... if I try I can see even in the middle of the night, or things that are kinda far away. It's hard to describe."
+
+"Right, you can probably move faster and hit harder too, but I don't know. Like I said, talk to Lucien. What about you Dras?"
+
+"My family doesn't believe me about finding an artifact and selling it. Mom's being a real pain about it. She thinks you got me involved in something criminal."
+
+I snorted. "I would get you involved if I was interested in committing any crimes, but I'm not. How's the studying going?"
+
+"Right, about that, I've got a few questions..." The rest of our meal fell into me and Dras going over basic algebra and geometry. Charles decided to follow my advice and go speak to my boss, who I was sure knew someone. Lucien seemed to know just about everyone in this section of the city.  It was weird, useful, but weird.
+
+As our afternoon of fun came to an end Dras looked over to me, he seemed a bit nervous.
+
+"What is it?"
+
+"What you said back in the tunnels..."
+
+"About killing a man?" Rather more quietly was that said.
+
+"Yeah... so you've..."
+
+"Yes, and I don't care to go into it."
+
+"Oh... okay then."
+
+I sighed, "He was at least partially responsible for the death of my oldest brother."
+
+"I-I didn't know you had a brother."
+
+"Two, I don't know where my other one is. It doesn't matter though."
+
+"You don't talk about your family much."
+
+"No, I do not. Please let it be."
+
+He nodded, catching on finally. He seemed uncomfortable about the whole thing, so I led him back to the studying. There was quite a bit he needed to learn, and if it kept him from making me uncomfortable I was happy to use it as an excuse.
+
+The rest of my winter I wiled away rather happily. Work during the winter was always light. Lucien asked about getting the recipe for the cake, which I happily sold him for a few silver in pocket money. I thought he was going to smack me when I told him just how much sugar he was going to need.
+
+At this point I did need to consider if I wanted to keep working at The Sky or if it would be better to just sell sugar. I decided to keep at The Sky, if for no other reason than to keep close to a man who knew enough about my kind of magic to keep me learning for years.
+
+I went to my local resource and asked him about interesting new spells he might care to share with the rest of us. He took a few moments to run me through my current list, laughed at both the sugar spell and how I could now reasonably cast the invisibility one and sat back to think for a few moments.
+
+"Let's add a bit of illusion to your repertoire. You're already pretty good and on your way to being a little monster of a support caster, and a sneaky one at that, so I think that's for the best."
+
+I nodded at his comments, "Okay, what kind should we go with?"
+
+"We'll start with something simple. You've already got light and darkness, so let's do some inanimate shapes. Try visualizing making a cube, not shining and bright, but having light coming off of it to match what's around it, form it in your mind and try to make it in the world before you."
+
+I did as he said and imagined it. It took a ton of time to get it to manifest properly, but in time it did, a small gray cube hovering between us. Lucien took a bit of time to examine it from different angles, even passing his hand through once. After a few moments he nodded and patted my head.
+
+"Not bad, not bad for a first try at all. You do need to work on the shadows around it, it's not interacting with light as it should. Also it's glowing ever so slightly, work on those on your own. Illusions are powerful, but learning to make them look good is a long process. After getting shapes, and shade, and light correct we'll move on to textures and the like. Then we can add more and more complexity."
+
+Magic homework still felt like homework. The upside was that it was a ton of fun if you could just lose yourself in it. Lucien had suggested that I keep to simple shapes for the time being and since he was more experienced than me, and all his advice had worked out in the past, I was all too happy to follow it. I was happy to realize that learning this wasn't nearly as exhausting as other spells I'd worked on. Useful since making even simple shapes that looked right to the world around them was a massive headache.
+
+As spring rolled in and I could officially and really call myself eleven I got to see Charles and his new mentor. She was a woman about Lucien's age with a sharp, hard look to her. Based on how often he came to The Sky to get healed I could guess that she was running him ragged as well.
+
+Dras ended up spending a lot more time hanging around too. With his newfound wealth he no longer had to worry so much about being able to pay for school. For that reason he ended up coming by almost every evening after work to study with me. He really had no mind for numbers or reading, still we powered through. He kept practicing his fire ribbon spell too, something like his favorite and signature attack.
+
+It was near to summer when Dras' mother came to The Sky herself to retrieve her son. I saw her approaching the doors with an irate look on her face and tried to wave him to flee, but the poor lad thought I was trying to get his attention and perked up right as she walked in the door. I briefly considered beating my head on the counter as she waltzed up to her unsuspecting victim, rage written on her face.

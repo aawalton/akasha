@@ -1,0 +1,261 @@
+---
+id: 2cb74dc2-37b3-514b-9cee-44c268ce9be4
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 577 - Full Authority"
+slug: 0077-chapter-577-full-authority
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 77
+ownLength: 3199
+unit: words
+ownProgress: 3199
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2365831/chapter-577-full-authority"
+royalRoadId: "2365831"
+markedReadAt: "2026-06-29T19:37:45.637Z"
+---
+
+Tala, Terry, Rane, and Lyn all stared at the almost entirely empty spot where Gretel’s meat pie stand had stood the last time they’d been through this city. The place where the boisterous woman had stood every time they’d come through the city since Tala’s very first visit.
+
+No…
+
+-No…-
+
+Terry let out a long, low trill of confusion and despondency.
+
+Lyn was covering her mouth, eyes wide as they flicked back and forth between Tala and the non-existent cart.
+
+Rane was frowning as he read the small plaque on the ground where her cart had been. It must have been the dozenth time he’d read it, but this time he chose to read aloud, as if hoping he was making a mistake and reading it aloud would correct the problem. “This spot will be held vacant for one year in honor of Gretel Haberdash, purveyor of meat pies without equal, and friendship without reservation. Her delicacies will be missed, her joy moreso.”
+
+He turned to his wife, clearly already aware of her distress.
+
+“Tala… There are other places we can go. Should we…?”
+
+Tala spoke softly, not really addressing anyone in particular. “She’s… she’s gone too?”
+
+-Everyone is so fleeting…- Alat’s voice was dangerously close to a monotone.
+
+Why… why is everyone dying? Tala felt her emotions rising, almost in specific contrast to Alat’s leveling out.
+
+-All they are is dust in the wind.- The alternate interface felt like she was pulling back, placing a purely analytical lens between her and the world.
+
+Tala raged against that, demanding that Alat engage with her. What did she gain by all her labor? A little plaque? A year’s remembrance before someone else hawks food where she once stood? A year before memory of her fades into nonexistence?
+
+-What do people gain from all their labors? No one can take anything with them…- Alat had a bit more emotion in the question, so Tala chose to engage with it.
+
+It’s true… I knew it before, but I didn’t really know it.
+
+Alat perked up a bit more at the continued back and forth. -It seems that cognitive and inferred knowledge has become experiential knowledge.-
+
+Tala grunted internally at that, feeling herself slip toward a mental monotone now that Alat was pulled a bit from the brink. Generations come and generations go, but I will remain forever.
+
+Rane pulled her into a hug, obviously sensing her wildly fluctuating emotions through their bond. “Come on, let’s go to the sanctum.”
+
+Lyn nodded in agreement, stepping forward to help guide Tala away.
+
+Once they were at least slightly screened from casual eyes, the four of them shifted stoneward, guided into the sanctum by Rane’s will.
+
+He must have been communicating with Mistress Petra, because the woman arrived moments later with a tray of tea, coffee, and treats. “I’ll have dinner whipped up for you all in short order.”
+
+Tala started to raise a vague objection, but the woman cut across her immediately.
+
+“Never you mind. Take the time to just be. I’ll have you fed in short order.”
+
+Lyn regarded Tala and Rane. “Should I stay or should I go?”
+
+Rane hesitated a moment, then said, “Stay. Let’s see if we can draw her back and distract her with conversation.”
+
+Tala huffed. “I’m not lost.”
+
+He shook his head. “I know you are here, my love. I know you are you, but you are mentally and emotionally adrift. You didn’t need the shock of Gretel’s passing.”
+
+Tala waved vaguely. “What does it matter? I just lost my sister, what difference does the death of…”—she hesitated, trying to keep her emotions in check—“the death of…”—she swallowed—“a wonderful meat pie lady have to do with it?”
+
+She then put her head down, resting on her arms on the table. She hadn’t even remembered sitting down. She didn’t descend into sobs or wails. She didn’t shudder or shake. That wasn’t really how she worked. “I’m… I’m just done with all this.” She grimaced against the tabletop. “What’s the point?”
+
+She didn’t have anything further worth saying. Instead, she simply sank into the sensation, the feeling that there wasn’t any point to anything. Meaningless.
+
+-Meaningless?-
+
+Everything is meaningless…
+
+-Ahh… yeah… it sort of seems that way at the moment.-
+
+Tala didn’t even have the gumption to muster irritation at Alat. The alternate interface was supposed to help with things like this. True, she was no longer seemingly sinking into her own mire, but she still wasn’t helping Tala.
+
+Lyn and Rane tried to talk with her about things both big and small. She responded, and engaged in the conversation, but her heart wasn’t really in it. She barely lifted her head except to occasionally give a longer—if still pointless—answer.
+
+Food came, and it was as delicious as always. Tala ate and would say that she enjoyed it, but the taste didn’t really impact her more than at a surface level. She could have just been eating rocks for all it comforted her.
+
+I could eat rocks, couldn’t I?
+
+-I mean, I bet our teeth would be fine, and our mouth and throat would resist the cutting… but why?-
+
+Just a passing thought.
+
+-Sure… I’m glad the food was good at least.-
+
+Yeah.
+
+At Rane and Lyn’s insistence, after lunch, they all went to join the Talons in training, and Tala engaged with them but remained mostly quiet. She kept from being rude or dismissive, but didn’t put forth any effort beyond that bare minimum.
+
+Afterward, Lyn went back to her work, and Tala and Rane returned to the sanctum to spar.
+
+Tala fought well from a technical standpoint, but she didn’t try anything new. She wasn’t creative in her fighting or in her responses to Rane’s own improvisations, and so she did worse than usual.
+
+After getting clean, they walked through the more natural parts of their home, being together in the beauty of it, but it just didn’t feel right.
+
+The place was beautiful, but it lacked… something. She probably could have figured out what it was, but honestly, she just didn’t really care at the moment.
+
+Rane drew her toward some of her experiments. She altered her artificial lung slightly based on her most recent experiences, even feeling like she enjoyed the dialogue with Rane as she worked through some points of interest. In the end, she perfected a place where there had been added resonance and stress after multiple uses in quick succession.
+
+She’d never put the tool under such conditions, and so she’d learned much as a result.
+
+They talked briefly about Flow’s new form, but while it was interesting, Tala couldn’t muster the mental energy to really delve into such a new topic.
+
+At Rane’s suggestion, she added a half-dozen tungsten and iron balls and siege orbs to her void-donut for gravity shots. She even added a couple of flanged spikes to eventually test if such would be good to add to her arsenal, but the actual testing would have to wait as she didn’t really feel like creating random destruction.
+
+That seemed to concern Rane for some reason, going by his actions, and he turned their efforts in a more creative direction, hoping that would yield some results.
+
+They went and took a couple of hours to check on and investigate Io.
+
+It was possible that Rane did have some right understanding of things, because that investigation at least gave Alat some distraction, pulling the alternate interface out of her own growing, brooding silence.
+
+Tala, however, was not really diverted. So, she gave Alat full permission and authority over Io and left the alternate interface to it. She’d never really done that before, but she really didn’t want to have to be a go-between, and so fully vesting all of her sway over the research cave to Alat just made sense, even if she’d never done it before. Hopefully, the other her would be helped by the work and not have to bother physical Tala in doing so.
+
+Another meal didn’t help, and Terry had gone off on his own after Tala sparred with him. Unfortunately neither that, nor holding and petting him seemed to make a difference.
+
+He would be back, and he would try again, but he wasn’t one to be tied to Tala’s hip, and he seemed to feel giving her space was the better call for him at the moment. It was also possible that he needed the space for himself.
+
+If that was the case, Tala hoped that he got what he needed out of it.
+
+Rane’s final gambit was a play that he’d found for them to attend, and while it worked for a bit—providing a good, momentary distraction—as they returned home, the sense of the ephemeral nature of everything around them slowly began to creep back in.
+
+In that way, the play exacerbated her feelings, as all the interest in the play had only mattered while the play continued… and then it had ended.
+
+Tala wasn’t pleased by this, but then that was somewhat the point. She was fundamentally displeased with the idea of those she knew dying, and now she was being forced to confront that reality again and again.
+
+Everything ended. Everything stopped. Only she continued and would continue.
+
+Well… she and those like her… Like Rane, her husband…
+
+Thus, when they got back to the sanctum, Tala did what many do when faced with the harsh truths of reality and existence itself, she took physical comfort and enjoyment in the one she loved.
+
+* * *
+
+-Um… Tala?- Alat sounded… not panicked, but definitely a bit stressed. There was even a large dose of… contrition?
+
+Tala groaned, rolling out of bed and taking in the pale light of early morning. What is it, Alat? I was sleeping. Couldn’t it have waited?
+
+She was a bit irritated because at least in her sleep, she hadn’t felt like life was pointless.
+
+Now, that was over, and she was faced with yet another problem. Please tell me someone else hasn’t died?
+
+-Well… um… No? Sort of the opposite? …Something… happened? I did wait some—maybe too long—but I felt like I should wake you, regardless.-
+
+Tala was suddenly fully awake. Alat had been working with Io.
+
+She moved her perceptual focus to the underground holding area and—
+
+Alat. Tala held herself under tight control, not allowing memories of a difficult fight against an unfinished automaton rise up within her.
+
+-Yeah?- Alat sounded like a child who had been caught with their hand in the sugar jar.
+
+Why isn’t Io in her tank? Tala would not jump to conclusions… whatever those might be. She would not go destroy the automaton that was seemingly no longer contained. She would listen. She would allow Alat to tell her what the RUST was going on.
+
+-Well, about that… That’s what I wanted to discuss.- Alat sounded entirely too meek.
+
+Tala took a calming breath, assuring herself that everything was fine. Alat, you can just move the body back into the tank. Why is it— Io’s body was on the ground near the tank… sitting perfectly cross-legged. Did you take over the body?
+
+-No…- Alat sounded momentarily offended but reined herself in. -I think it’s better that I just tell you the whole story. Can I?-
+
+…Should I wake Rane?
+
+-Enar was going to try to talk with him in dream. He should be—-
+
+Rane jerked up into a sitting position, looking around with frantic unfocused eyes. When he saw her, he calmed down. “Oh, love. That was… that was a crazy dream.” He shook his head, rubbing his eyes. “It made no sense. We had a baby, but it was an automaton?”
+
+Tala’s eyes widened—dozens of thoughts flitting unacknowledged through her mind—and she whispered out one word, “What?”
+
+-Well… dream communication is both more reliable and less useful that I’d hoped, it seems.-
+
+Alat? NOW.
+
+-Fine, fine. Hold your activations.- From here, the story came out in fits and starts.
+
+Apparently, Alat had been working with Io all through the evening with Enar’s assistance. Even as Rane and Tala had gone to the play, the two alternate interfaces had continued their research and investigations. Most notably, they’d been closely integrating with the holding, monitoring, nurturing, and protective tank of glowing purple liquid.
+
+When their two physical selves had returned and… taken solace in one another, the mental selves had taken a break from their research and done the same.
+
+When all was concluded, Io had suddenly awoken in the tank, moving uncontrollably.
+
+Alat and Enar immediately moved to investigate. They had wanted to have a preliminary understanding before alerting their physical selves. What they found, however, made them pause and reassess.
+
+They’d found a non-physical soul resting where the control orb and vestige had been. In fact, it was exposed in such a way that Alat was certain it had only continued to exist in this world—rather than instantly passing on—because of Tala, Alat, Rane, and Enar’s very powerful, ongoing desire to have children, and protect them.
+
+Tala had jerked at that assertion as it cemented the very clear idea Alat was putting forward.
+
+This was, in theory, a child… their child.
+
+Tala’s breathing began to pick up even as the alternate interface continued the retelling.
+
+Alat had panicked, but Enar had looked closer, finding that the soul was interfacing with the automatan’s controls but in a haphazard manner. On a hunch, he’d extended a bit of knowledge outward—interfacing soul-to-soul in a manner only possible within Kit and given Enar and Alat’s peculiar natures—mainly the understanding of what the various control magics and pathways did.
+
+The soul had all but slurped up the offered tidbits, and the automaton had stopped convulsing.
+
+That didn’t address any of the core issues, however, and they weren’t about to leave the soul naked and exposed.
+
+Thus, they had then created a simple housing for the soul so that it wasn’t just resting there, with only the sanctum between it and the next world. They actually pulled on knowledge Tala had been researching in regard to incubation and magics for struggling babies, whether before or after birth.
+
+Alat emphasized that it was very basic, and they would likely want it to be looked at closely before anything further was done.
+
+What followed between the alternate interfaces and the automata-bodied soul was a slow introduction of how the human body was supposed to move, what words meant and… well? In the end, Alat readily admitted that Enar and she had gotten a bit carried away.
+
+When the sun began to rise, they’d been jostled out of their fugue state and realized that Tala and Rane really did need to be informed as soon as possible… and so here they were.
+
+Alat finished a bit lamely, leaving Tala to sit in stunned silence.
+
+Tala was still breathing heavily, reeling from what had been laid out before her.
+
+Rane, for his part, seemed to be getting not only similar information, but assurance that what he’d been told in the dream was true.
+
+“Well…” He cleared his throat. “That complicates things, doesn’t it…”
+
+One thing stood out to Tala’s mind, and that crystalized her next steps. There was a baby soul nearby, and it was alone and in need.
+
+Tala stood, needlessly reshaping and straightening her clothing, her mind sharper than it had been in days. “We are in an odd place, here.” She looked at Rane and laid her thoughts on the table. “I am both horrified and excited. I have no idea what is going on, but…”
+
+“No kidding.” He shook his head, still clearly trying to sort through everything. “It is possible we have a child. I just…”
+
+She shook her head more firmly, cutting him off. “Rane. I know you’ll understand this with another moment or two to wake up, but we don’t have that time. There is a baby in need. Your carefully considered approach is perfect for most things and in many situations, but it won’t work here. So, I’m going to lay it out so we can act, together.”
+
+He straightened, orienting on her. “I’m listening.”
+
+“Good. If what Alat and Enar have said is true, then a human soul was just brought into being with the automaton’s body as its body. There have been Mages who have made automata-like bodies, or just control body shaped items, but full, true automata? I don’t think it’s ever been done successfully.”
+
+Alat chimed in then, projecting her voice for Rane’s benefit. “-More than just not done, it has failed many times. To be precise, there have been twenty documented cases of Archons trying to make an automatan their primary physical form. Those who tried have been of every level of advancement from Bound to Reforged. Some tried at those stages, some tried to use the automaton body to enter those stages. Apparently, there is something like an uncanny valley of bodies. Human souls can exist in and control non-human vessels, but if they are too close, the soul doesn’t like it—for some reason—and rejects the body.-”
+
+Tala was practically tapping her foot at the end, wanting to move faster, to get to the new life that needed her. “Thank you, Alat. Regardless, this soul seems to have come into being with this as its native body.”
+
+“-Her.-”
+
+“What?” Tala frowned, a bit irritated at the interruption.
+
+“-Her. The body is clearly female—if it has sex at all—and so is her soul. Besides, calling something with a human soul ‘it’ feels… demeaning?-”
+
+Tala sighed, grimacing, but wanted to justify herself all the same. “It is common practice to call a baby ‘it’ in the womb before it is born, especially if the sex of the baby is being held back as a surprise or is unknown for other reasons.”
+
+“-Even so…-”
+
+She huffed. This wasn’t worth the delay. “Fine. Her native body is that of an automaton. We need to figure out what this means, and we must get the higher-ups of humanity involved. Trying to hide this, or go it alone, would not end well.”
+
+Rane nodded. “Yes. We should notify Mistress Ingrit, and then we need to go meet the new one. We need to meet her. I don’t like the fact that she’s all alone, and has been physically alone since she came into being.”
+
+That tugged at Tala’s very soul, hitting on exactly what she’d been feeling, despite the other confusing thoughts swirling around her, and she found herself nodding. “Agreed.”
+
+They sent off some quick messages, and Tala took a moment to process Alat’s memories of the interactions that had already taken place.
+
+Do this right, Tala. You don’t want to be talking over her head just after you meet her, and likely, everything that is said or done in her presence will matter in the long run. We need to do this right.
+
+Then, Rane and Tala willed themselves into the room where the automaton sat on the floor.
+
+The feminine face lifted to regard them both, a small smile tugging at her white steel lips even as her blood red, glowing eyes regarded them. “Are you my parents?”

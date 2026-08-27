@@ -1,0 +1,77 @@
+---
+id: 94fa5216-bdd0-5a7b-a846-aaf5afe7e9d5
+page-type-slug: story-chapter-royal-road
+title: "Side Story 1 Jackson in town"
+slug: 0005-side-story-1-jackson-in-town
+partOf: melody-of-mana
+position: 5
+ownLength: 948
+unit: words
+ownProgress: 948
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701187/side-story-1-jackson-in-town"
+royalRoadId: "701187"
+markedReadAt: "2026-06-29T22:26:24.650Z"
+---
+
+Waking up this morning was magnificent, a comfortable bed, a bottle of good wine (A rarity in these parts) within easy reach, and most importantly, a redhead who was plump in all the right places curled up next to me.
+
+She woke just after I did, and to my joyous surprise, was feeling quite as randy. Our tongues were working around each other. Each trying to find its way into the other's throat as I ran my fingers down her silken skin, reaching for the moist warmth between her legs. Already she had started moaning in anticipation... when some bastard started beating on my door.
+
+And that was the moment my day started getting worse.
+
+"Busy." I yelled at whoever had the absolute gall to interrupt this.
+
+The beating continued, "Urgent message for you sir!" he yelled through my door, obviously unwilling to kindly fuck off.
+
+I planted a kiss on the lovely woman's lips, giving her chin a light shake, "One moment my sweet, I'll be right back with you." I whispered to her, and rose, turning and opening the inn room door with a smile on my face, in my full and exceptional stature.
+
+"So, tell me what brings you to my inn room on what was an excellent beginning to a day?" I asked the shocked looking young man, "You don't look the kind to join us, and frankly, I don't like to share." he held out a rolled piece of parchment.
+
+I unrolled it, noting the seal of the local lord as I broke through it and cursed, "Well shit," I looked to the woman behind me, "I'm afraid my dear I've been summoned. We'll have to continue at a later date."
+
+Not twenty minutes later I strolled into the lord's manor with his messenger, greeted by one of the stewards. A sharp featured man I'd met several times before, "You know my friend, I was greatly enjoying my morning before his Excellency summoned me here. I assume there's been some emergency?" I inquired.
+
+"Quite so sir, I've been instructed to take you to his office straight away," he spoke as we walked. The manor really was something to look at, the walls pure white and decorated with tasteful portraits, a lush red carpet covering the marble floors, the whole thing was obscenely lavish compared to the rest of the city, not to mention the lands surrounding.
+
+"I hope you weren't interrupted in the middle of anything too important?" the steward inquired, seeming to read my slightly cold mood.
+
+"A lovely woman, with skin like fresh cream, hips wider than a river after spring rain, and hair the color of an inferno.... Julie, or Juney, or was it Juline... something like that," I explained.
+
+"Ah, well, quite a shame then..." I could see the door to the office we were going to now. The steward rapped upon it several times and I heard the gasp of a woman. A few moments later a maid, disheveled and obviously a bit flushed with heat, it doing nothing to offset her stunning proportions, opened the door for us, bowing and closing it as she quickly made herself scarce.
+
+'The jerk is here getting it on after ruining my perfectly good breakfast, what an absolute bastard'.
+
+The baron saw me looking over the woman ever so briefly, speaking after she left, "Ah, Sasha is quite the girl yes? You could have her this evening if you like, a thank you for your quick response."
+
+"Your generosity is greatly appreciated my lord, but I've an appointment with a young woman already, perhaps another time." I responded as I hardened the fake face I used with nobles.
+
+'That and I like girls who can actually tell me no, there's no joy in it if they've no option.'
+
+The man shrugged, "Very well. At any rate, several of my best men were injured earlier, a mountain lizard they were transporting got loose, and I'd like them healed,"
+
+I quirked an eyebrow, "Certainly, but I'm not nearly as good as father Mannory surely?"
+
+"The whoreson left," spat the baron in disgust, "As if I didn't give him plenty."
+
+"A shame," I bowed placatingly.
+
+'Probably because you kept trying to have your way with the female temple staff, I may need to follow his example...'
+
+"Hmph, upon his whole order, at any rate, I'll pay you what I'd have paid him. I just need those men up and ready as soon as possible, need to get my monster back." he was licking his lips at the thought.
+
+"Certainly my lord, I'm sure the villagers are panicking about its escape,"
+
+"Bah, they don't even know. If any are stupid enough to fight it, they deserve what they get." a frankly cold response, but not unexpected.
+
+"Very well then, shall I begin immediately?" I asked, wanting to leave this place as quickly as possible.
+
+The nobleman waved me off, and I happily set to my work.
+
+Some hours later, and more than a bit of complaining from the knights about how I was too slow at healing them, I walked back to my inn, considering the options should I decide to move on.
+
+"I'd worry for him trying to bring in the kid, but with the Roaring Torrent and Panther of Kelson's Hill there, nobody in their right mind is going to harass that hamlet. If he even finds out about her."
+
+As I came in the door I spotted a familiar redhead, and she'd acquired a friend. A raven haired girl who was, in my humble opinion, quite bouncy.
+
+"Well, well, well, today might have been a bust, but perhaps tonight can be salvaged."

@@ -1,0 +1,253 @@
+---
+id: a87da4a2-44db-5a91-a0ee-543330e4a9e0
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 10 - Changes"
+slug: 0018-chapter-10-changes
+partOf: metaworld-hopecore
+position: 18
+ownLength: 3023
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364723/chapter-10-changes"
+royalRoadId: "3364723"
+---
+
+“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+
+Rumi
+
+Sunday.
+
+On Saturday, Mama Josefina laid down the law and demanded that everyone come together for dinner on Sunday, and so it was done.
+
+Eppie walked in the door to the stares of her dorm mother and her roommates, sweet sweat and steam rising from her burning body.
+
+“Dios mío. Did you run to Appalachia? Your theatre teachers will think you’re a changeling! They’ll say, 'What happened to our tiny Sophomore?' and what will you say?”
+
+I would say that I had a quasi-divine [System] embedded in my body. Is what went through Eppie's mind, but no one, not even the university’s top philosophers or physicists, would believe her.
+
+“You know, Josefina’s right.” Ava’s bushy brows wiggled as if alive. “Eppie, have you gotten taller? It’s not an illusion, is it? You feel taller.”
+
+Eppie shook herself out like a dog. She wouldn’t exactly say that her calves were popping, but they certainly had substance. As a test, she performed a horribly unprofessional relevé, landing with an inexact toe touch before losing her balance. “No?”
+
+Ava, a real ballet student, winced.
+
+“Which Gym are you with?” Halle’s eyes were gleaming. “Who is your PT? I want her. What’s your thinspo?”
+
+“What the hell is thinspo?” Eppie heard a little alarm going off in her head.
+
+The younger girl flashed a perfectly fine leg. From what was exposed, she could see that they were well-proportioned. “I wish my thunder thighs were as toned as yours.”
+
+“Whoa there,” Eppie felt her face turn suddenly scarlet, firstly because her achievements were karmic, and secondly because she was about to gain some major negative karma. “Stop saying that. Don’t even think about it! The body is a temple, not a prison.”
+
+She advanced forward, propelling herself until she was looming above their dorm mother. “You see this? Mama Noceda, now this is peak performance. So soft, so thicc, pure allure, my girl. Keep her away from the musical theatre department, Ava. The boys will lose their minds.”
+
+This time, it was Mama Josefina who turned a shade darker. She made the sign of the cross, gave Eppie the stare, and muttered "Ay, Dios mío" under her breath.
+
++ Karmic Causality
+
+The girls fell about in rancorous laughter.
+
+Eppie wiped literal sweat from her brow.
+
+Crisis averted, for now.
+
+“You know, you need a lot of stamina in theatre,” she told the Freshman. “You want to come run with me? At 5 AM, we rise, eat a light breakfast, drink water, and do a circuit around the campus. Back by 6 AM, wash up, pack, eat again, start class.”
+
+“I don’t think I have the discipline,” Halle said. “I'd rather just skip breakfast.”
+
+“Nope, terrible idea,” she wagged a finger at her junior. “How about you, Ava?”
+
+“Er…” The Jewish girl nursed her tea. “I’ll pass. I don’t think my father likes me running in the dark.”
+
+“We’re running in the dark?” Halle trembled. “Eppie! This is a college campus! There are other people about!”
+
+“Yeah, like, a dozen guys, a few professors, the security staff, a cleaner or two, tops,” she smiled back at them. “This isn’t Venice Beach.”
+
+“What if someone…” Halle pantomimed the Big Bad Wolf by folding her hands behind her head.
+
+“You tell them you’re off to see grandmother,” Eppie replied without a beat.
+
+The room fell about in laughter once more.
+
+"Look at you girls, ¡qué bellas… so atrevidas! Mijas, listen to me: look out for each other and you'll be alright, okay? It's perfectly safe here if you stay near the college grounds. Don’t go past the station.”
+
+“How about this?” She pursed her lips at the girls. “When school starts, the three. 5:30 AM Yoga, thirty minutes. I’ll teach you.”
+
+“YOU KNOW YOGA?” Their eyes grew round.
+
+“I know it very well.” Eppie nodded. “Where can we get mats? It’s summer, so we can do it in the courtyard of the building, near the back fence. Later, we’ll need to hire a place.”
+
+“Mama Josefina will find you something,” their dorm mother said, giving her an approving look. “You are a buena mujer, Eppie. You girls listen to Eppie. In this dorm, you are all sisters.”
+
+“I’ll get the mats.” Halle raised her hand. “Ava?”
+
+“Alright?” The dark-haired girl relented after a moment. “I guess?”
+
++ Karmic Causality
+
+Nice. Eppie gave herself a thumbs up. “Give me ten minutes, and I’ll be out and ready to help set up dinner.”
+
+In the privacy of her room, Eppie checked her stats, accounted for the minute increase in [Causality], and performed a head-to-toe in front of the full-length mirror, an essential feature for a performing arts student.
+
+Stepping back, she mimed the catwalk and admired her handiwork.
+
+Compared to when she first saw herself at Dr Hughes’ studio… What a difference a full [20] suite of physical stats makes.
+
+The girl in the mirror didn’t just walk; she moved with grace. She moved with line and poise, like the women she’d seen on the runways of the fashion shows she sometimes attended. Eppie had always projected a willowy aura, but now the willow had an unbreakable flexibility. As someone whose youth had come and gone, she loved her appearance—the exuberance, the contour, the well-proportioned limbs with their subtle curves, her flat abdomen, the uplifted glutes.
+
+And to think this was only the beginning.
+
+She fought down a sudden impulse to axe kick something. Knowing her luck, she’d probably hack her bed in two.
+
+Is Martial Arts a [Trait]? She imagined karate-kicking the person responsible for Eppie’s fall with these stainless-steel gams at [Strength] 30. Would her assailant turn into pink mist?
+
+She shuddered at the result of [Karmic Rebound].
+
+Fifteen minutes later, Eppie was out, wearing an unbranded tee and Soffe shorts.
+
+The table was already laid out, as was a big piping pot of Arroz con Pollo, chicken and rice.
+
+The girls ate, laughed, shared stories from home, then Eppie offered to wash up while Mama Josefina brought out the heavies.
+
+Flan.
+
+A one kilogram Flan.
+
+Holy FUCK. Eppie was choking on the rapid production of saliva. She LOVED Flan. Mama Josefina was an angel, and she deserved every possible good bit of [Karma] that she would now direct toward her and more.
+
+It was such a shame then that Halle and Ava had to watch their weight. When it comes to flan, it really was, as the wise women say, “a moment on the lips, a lifetime on the hips.”
+
+Monday.
+
+Halle could not secure the Yoga mats, and so Eppie took the girls on a circuit around the LAPA campus, waving at the arrivals as they ran. Less than twenty minutes later, both Halle and Ava were sprawled out on the lawn, swallowing the air, while Eppie doomscrolled early YouTube on her gifted Xperia.
+
+They then ate, washed up, and went their separate ways.
+
+On her first day of school, Eppie was very glad she was a campus kid, for unlike the students who travelled from all around Los Angeles, she wore only her base layers.
+
+Soffe shorts, plain white tank top, ballet flats, K-Mart-branded, of course, and her hair in a messy bun via a cheap crunchie from the Two-Dollar store.
+
+Everything she needed for the day was stuffed into a giant, cylindrical dance duffle given to her by Coordinator Carr. Inside were her copy of Norton’s Anthology of Literature, Algebra II, and World History. She omitted her French and Chemistry textbooks, of which she would have to ask Carr to intervene on her behalf.
+
+As a conservatory, LAPA did not offer assemblies and intermittently held Homeroom.
+
+Of all the buildings loaned to the school, a public assembly hall was not included on the list.
+
+Instead, the arriving students congregated at the “Quest Board,” an enormous analogue pin-and-paper corkboard outside the classrooms of the Gen-Ed classes.
+
+When she arrived, the area was already a sea of faces, none of which Eppie recognised. The semi-circle of people shuffling into and out of the board “walk” was no less than rope drop at California Disney, made worse by the fact that half the student body carried giant duffles, violin cases, trombone boxes, art portfolios and more.
+
+There were two types of notices that Eppie could discern from her prior visits to the board. The first was the official notices, always poorly formatted, always written too small, always in Times New Roman, size 11. The latter was an eclectic explosion of colourful flyers, headshots, and self-promotional material for bands, jazz ensembles, casting parties, and battle-of-the-bands events.
+
+The most notable list was the locker assignments for the Freshmen, who were the largest group present. The second was a reminder that their headshots will be professionally taken for the school’s database, and that the students can mickey around at their own professional peril. The third was for textbooks, which Eppie had already received from Carr. The most colourful official notice was a warm welcome from the Associated Student Body.
+
+Of particular interest to Eppie was the Theatre section’s audition sign-up sheets, which she had already received together with her books. There was a list beside the sign-ups, with students placed in their chosen professions.
+
+So I AM a theatre major.
+
+But there were more pressing reasons as to why she was at the Quest Board.
+
+She had put Eppie there, standing in the most conspicuous spot in the whole school, as bait.
+
+And just now, she had caught another fish.
+
+The biting fish was a Gossip Girl, quite literally a facsimile of Blaire Waldorf.
+
+Even in a crowd, Eppie saw the girl standing a head taller than the rest, because she had a flaming head of auburn hair styled as a perfect flat-ironed blowout, with sideswept bangs that were minimally three figures a week to maintain. She also wore an emerald-green satin headband, which, Eppie had to admit. Pure Sheikh.
+
+And the girl wore a college Ralph Lauren button-down, collar popped because of course, and tailored jeans. On her shoulder, she carried nothing heavier than a Louis Vuitton clutch. And behind her was her caramel-complexioned gazelle, carrying both of their books in enormous duffles.
+
+Presently, her antagonist was staring rudely, shoulders squared, back arched, tits up and hips protruding, one hand on her waist like a pissy teapot.
+
+Summoning every will from her perfectly innocent soul, Eppie stood on her tippy toes, faced her fated foe across the entirety of the board, then smiled like a mega-wattage lamp.
+
+The redhead’s expression was a whole Ice Age, spilling rime over the hapless Freshmen. The gazelle behind her looked like she was about to faint.
+
+Ah, kids… Eppie patted herself on the shoulder. So easy. So innocent.
+
+Like gunmen at a stand off, they stood in place while the Freshmen came and went like the tide. After some ten-odd minutes of indecision, her redheaded friend pulled herself out of the rage-filled stupor, issued a command to her second, then left.
+
+Looking around, Eppie grabbed the arm of a boy a head and shoulder taller than herself, then pointed to the bobbing figure with the red-green head. “Excuse me, sorry to bother you. Do you know who that is?”
+
+The Senior she accosted gave her a strange look. “You don’t know Valerie Sanders?”
+
+“... Does her family own KFC?”
+
+The Senior laughed, breaking the ice. “No, of course not. That’s Valerie, Val for short. She’s the star of the Spring Musical last fall, and she played Katherina in the Production. She’s already starred in several TV commercials and er… her family is loaded? And connected?”
+
+“To… the Mafia?” Eppie fluttered her eyes.
+
+The Senior burst into laughter again. “You’re a fun one. No. I still wouldn’t mess with her, though. I heard that last year, she had beef with some Freshmen, and that Freshmen—”
+
+The smile disappeared from the young man’s face.
+
+“You don’t happen to be…”
+
+“Pufft. Do I look like I fell off a building?” Eppie lied as she breathed.
+
+“Oh, thank god,” the boy feigned the mopping of his brow. “That would be awkward, eh? Yeah, don’t mess with Val. Her boyfriend is William Chen.”
+
+“Son of Jacky Chan?”
+
+Her Senior had to bite his own tongue from laughing out loud again. “No, you goose. William Chen! You know? Omnia Construction? His dad… er…”
+
+This time, her senior did not continue, for they were not alone. “Don’t screw with them, alright? It's a tight clique they got going. Even the teachers keep their distance. William’s got history, but he’s a nice enough, generous enough guy. Don’t tell anyone I told you this.”
+
+The boy gave her a pat on the shoulder, a wink, then slinked out from the notice board, dodging Freshmen as he went.
+
+“Hey! What’s your name?” She called out after him. “Armand! Armand Amar! I am in Visual Arts!” the Senior waved back, then was gone.
+
+BRRRRRRRRRR—
+
+The alarm on her phone called the students to class.
+
+It was time for English Honours.
+
+In English, Eppie thought about life.
+
+She had been a 90s student at a private preparatory school. Never in her wildest dreams could she imagine that things could get this cramped. No wonder the investors were pushing for new buildings and dorms for their privileged kids.
+
+At LAPA, there were two kinds of classrooms. Tutor rooms rented from CSULA, or auditoriums, and almost nothing in between, because the mid-sized rooms were all sacrificed to the arts.
+
+English, therefore, took place in a cramped room made for fifteen college kids, with twenty-four Sophomores stuffed into plastic chairs that did permanent damage to their spines. The kids who had to travel looked like they hadn't slept at all and listened with a middle-distance stare that spoke of generational PTSD from LA’s public transit systems.
+
+What shrunk the room further was the presence of dance duffles, instrument cases, a god damned double bass that took up its own quadrant of the room, and more.
+
+Most of the kids were from Gen-pop and looked the part. A few of the kids who stood out did so because of the school’s high tolerance for individuality, be it gender ambiguity, Gothic Romanticism, or overpriced fashion. The only rule of style, so it seemed, was no expensive jewellery and no indecent exposure.
+
+Standing behind her desk was their English professor, an ashen-haired scholar who introduced herself as Nicole Kirby, Dr Kirby by preference. Their topic for the next six months was “Tragedy”, beginning with Aristotelian works, moving into Shakespeare, ending with the modern American Tragedy of the Commons.
+
+Their first text was Antigone, which they would dissect not just on a literary level but also on a theatrical one.
+
+“As some of you may have heard, Dr Cooper, our Theatre Chair, has decided to interrogate an exceedingly difficult Classic for the end-of-year Production. Sophomores, Juniors and Seniors will all take part in a ‘revisionary postmodern production’ of the most controversial Shakespeare play of all—Titus Andronicus. To wit, we will be heavily focused on narrowing down the sequence of interest for those of you in theatre and technical production. As for the rest of you, your Arts Chairs will have their own plans.”
+
+Eppie’s ears perked up.
+
+Titus Andronicus was a hell of a play, literally.
+
+From the Ritual sacrifice of Alarbus in front of his mother, to the rape and mutilation of Lavinia, Titus’ daughter, to the discovery of the mutilated Lavinia, to the revelation of the rapists, to finally feeding Tamora the remains of her own children…
+
+It was a horror fest, not exactly appropriate for kids.
+
+Usually, government schools stick to the big “safe” foursome: Romeo and Juliet, Macbeth, Hamlet, Julius Caesar.
+
+But as someone far older, she could see the appeal. Titus Andronicus was the equivalent of a Shakespearean slasher that explored raw human emotions pushed to extremes by taking its tropes to the very edge of what was psychologically feasible. It explored themes of a dying empire and the perils of irrational pride, and, most importantly, the play possessed incredible potential for reimagination in modern contexts.
+
+For students in turn-of-the-century North America in general, Titus Andronicus had nuance.
+
+Still, was LAPA not afraid of pearl-clutching parents? Her [Script Analysis] kicked off. Or did the department possess such grandiose power over the PTA? Or perhaps, that was the point? Was the staff wanting to maliciously comply with the undesired pressure placed upon them by stakeholders who forced their way into the curriculum? Was the rape of Lavinia a metaphor for—
+
+Eppie had to stop herself before she started making conspiracy pin-boards at the back of the room.
+
+The lesson lasted forty minutes, but left her with an extra kilogram of notes.
+
+She then had five minutes to find her Algebra II, which, once she acknowledged the coursework, she could do one-handed while doomscrolling old-Tube.
+
+Then it was World History, for which she had to go to her locker. Having already memorised the map of the sprawling building and her locker number, she made her way through the central artery and stowed her new notes and books. Unlike the old lockers used by the Gen-Ed students, the fee-paying students used new “donated” lockers with electronic pins at the far end of the two-hundred-meter-long corridor running below the old school building.
+
+Unlike the basement, her area was well lit, clean, and only half taken over by flyers, stickers, and personalisation posters of girl and boy bands that the students admired, a stark contrast to the dystopian wasteland that was the old locker corridors.
+
+In AP World History, the kids received two more bricks. The Earth and Its Peoples and Traditions and Encounters, 4th Edition. They were books thick enough to deadstop small calibre ammunition, a fact for which Eppie was sad to know. Her hope, one of her hopes, was that her parallel world had not inherited the same zeitgeist that inspired I Don’t Like Mondays.
+
+Her final two periods were Chemistry and French, which she skipped to meet with Coordinator Carr.

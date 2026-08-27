@@ -1,0 +1,195 @@
+---
+id: 3b971fd2-b05d-592d-a532-734e6c3f0755
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 689 - Delays and Timing"
+slug: 0197-chapter-689-delays-and-timing
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 197
+ownLength: 2493
+unit: words
+ownProgress: 2493
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3226196/chapter-689-delays-and-timing"
+royalRoadId: "3226196"
+markedReadAt: "2026-06-29T19:41:22.466Z"
+---
+
+Tala didn’t rush, but she also didn’t dawdle as she led her family after the familiar figure—the familiar aura.
+
+Sure enough, she was able to find the turtle-kin sitting placidly on a park bench, feeding strips of raw meat to a mixed flock of little terror birds, ravens, crows, and other avians of all stripes: mundane, arcane, and even two magical.
+
+The two magical birds were both ruby red, seemingly of the cardinal variety, their feathers actually having some of the iridescence and facets of gems, though they were still clearly capable of flight. The magics the two held were a variety that Tala hadn’t seen before, and as the family approached, the two birds looked their way, narrowing their eyes in obvious hostility.
+
+Do birds even have eyelids?
+
+-Terry does, but even if the mundane ones don’t, these clearly do.-
+
+Fair enough.
+
+The fact that the birds were barely in the Mature—or Fused—level meant it wouldn't have really been an issue either way, but before anything could happen one way or another, the turtle–kin smiled and spoke, his voice somehow lost to Tala’s ears.
+
+Even so, the birds clearly heard him, and they all looked his way before hopping as a group over to one side, away from the oncoming humans, allowing the Sappherrous family to approach while they were continuing to be fed.
+
+The man looked up at Tala, meeting her gaze after looking over her family and smiling. His eyes had rested on Terry for a longer moment than on the others. “I am glad that you found him.”
+
+Terry let out a chirp, flickering to the turtle-kin’s knee for a moment, where he got a few scritches under his chin before he returned, settling on Tala’s shoulder.
+
+Terrapin eyes moved over the Sappherrouses again, and his smile grew. “I see that you found all that you sought after we last met. That gladdens my heart, young one.”
+
+Maddeningly—but not unexpectedly—Tala couldn’t determine the turtle’s advancement. It was odd because his aura was clear, and she could easily get the sense of age and power from him, but the actual level of power wasn’t in evidence. To be safe, and to express just how much gratitude she felt, Tala bowed low, her husband and daughter following suit. “Thank you for your advice so many years ago. I was lost, alone, and in need, and you gave me hope when I had all but none.”
+
+He gave a slow nod. “When it is darkest and despair is all around, even the smallest light can be more than enough to provide insight.”
+
+“I don’t know that I would say your light was small, but truly and sincerely, thank you.”
+
+He nodded again.
+
+Rane cleared his throat. “My wife has mentioned you many times over the years. I want to thank you as well. It seems you don’t believe you did much, but we benefited from even that little.”
+
+The turtle-kin met Rane’s gaze and held it for a long time. Finally, he sighed. “Those on top of the mountain see much and can offer a broad view or general guidance with very little effort, but sometimes they cannot see the ruts in the road.”
+
+Rane’s eyes widened, clearly taking something more from the turtle’s words than Tala had. He bowed low, even deeper this time. “I understand. Thank you. I will not claim to be in your debt, but if there is any service I can offer…?”
+
+He waved Rane off as soon as the man straightened. “I have no need. Those who wait do so in different manners, but we all need only for time to pass.”
+
+Then it clicked for Tala, her eyes widening. -There you go.-
+
+You could have told me.
+
+-I saw you were about to understand. I didn’t want to take that from you.-
+
+…Fine.
+
+“Are you referring to…” Tala carefully chose her next words. “...one who is on a mountain?” A weight settled on the park, Tala and Rane straining under the sudden knowledge of the focused, powerful observation, while Lea remained blissfully unaware and unaffected, her senses incapable of understanding. At the sensation, Tala stopped speaking, having gotten her answer and knowing that while she’d come close, she had not breached Rane’s given word. Still, it had clearly been enough to draw attention, which surprised her. Unless his interest was already drawn for some other reason…
+
+The turtle-kin sighed, then turned and looked north—over the heads of his birds—speaking under his breath. “Calm yourself.”
+
+The feeling seemed to roil for a moment, the void in greater evidence, and the birds took flight as one—the terror birds sprinting away in varied directions—before the feeling retreated.
+
+“Rusting layabout.” The man shook his head as he shifted on the bench before looking toward where the birds had been. “No respect for this old turtle.”
+
+Tala’s eye twitched, and she was left uncertain what to say next.
+
+Lea had no such issue, as she’d lacked the perception and understanding to even begin to grasp what had occurred.
+
+-It’s interesting, weren’t we just Fused when we met him last?-
+
+Yes… I suppose that it’s no wonder Lea isn’t seeing any of what we are, and I suppose it’s not surprising we missed any hint of this back then.
+
+Lea threw the turtle-kin a sheepish smile. “I’m sorry, we’ve scared away your birds.”
+
+“Not at all, child. You’ve done nothing wrong.” He smiled in turn, giving an almost theatrical pause. “Oh, excuse me, young miss. You are Mature now, no longer a child.”
+
+Lea grinned at that. “Yes, sir. I just advanced.”
+
+“I can see that. It is good to embrace who you are, only then can you strive to become who you want to be.”
+
+She nodded, replying politely. “Yes sir.”
+
+He sighed. “I do apologize for the timing, we are cutting it close.”
+
+Tala frowned. “What do you mean?”
+
+“I…” He frowned. “I selfishly wanted to meet your whole family, but I cannot meet with the immature without… causing issues within them. My selfish whim was almost…” He shook his head. “Apologies, I’m rambling.”
+
+Tala’s frown deepened. “What are we cutting close to?”
+
+“To events I cannot participate in, nor influence by discussing further.” The turtle hesitated again. Then, he seemed to decide something, turning back to Lea. “When seeking to Refine ourselves—”
+
+He cut off as a raven landed on a nearby roof.
+
+Tala glanced at it, detecting oddly familiar magics and reality connections. Is that… a spy? Someone is using a bird to spy on us? She hadn’t seen that done in years, even since the beginning of her time in Platoiri before she found Terry again. Now that she thought about it, she almost never saw birds of any kind in the arcane cities, at least not anywhere close by… Huh, I wonder why that—
+
+Terry flickered, and the bird was gone, a visible bulge suddenly evident in the terror bird’s throat as he sat on Tala’s shoulder.
+
+-Oh… that’s where the nearby birds and bird-spies have gone.-
+
+Well, I imagine that the non-spy birds just stayed away… after a bit.
+
+-That seems most likely, yeah.-
+
+Huh… I can’t say I noticed him doing that, but I suppose he has our perception and range, and if he’s specifically looking out for them…
+
+-He could manage such things without us noticing rather easily. I guess we now know what he meant when he said he’s been hunting? At least in part.-
+
+So it seems.
+
+The turtle sighed, regarding Terry with seeming strained indulgence. “Was that really necessary, little one?”
+
+Terry threw his head back and visibly swallowed, the whole display clearly purposeful.
+
+The turtle sighed again. “Very well…”
+
+Lea frowned, not really understanding given she hadn’t seen the bird before Terry consumed it. “You were saying something, sir?”
+
+The turtle-kin smiled. “Yes. In Refining ourselves, it is important to understand what the impurities that need to be removed are.” He hesitated, a moment, seeming to be considering something. Finally, he gave a slow, decisive nod. “That is all I can say without diverting your road.”
+
+Lea’s frown had turned speculative. “I see.” Her head slowly tilted to one side as she spoke almost without seeming to realize it. “I am me, body, spirit, and soul,”—her eyes clicked to her parents and a hesitant smile pulled at her lips—”but who is that? Who am I, and who do I want to be? What could be purified from me?”
+
+The only response he gave was a comforting smile.
+
+After a moment, Lea seemed to understand at least in part as she nodded, her own smile growing despite how uncertain she clearly still was. She gave a low bow. “Thank you for your wisdom.”
+
+The turtle-kin stood, waiving her off. “It is nothing of consequence, little miss. You would have understood on your own soon enough.” A twinkle came into his eyes as he finished. “I simply removed a rut or two from your path.” He turned to look to Tala, his demeanor serious once more. “But I have nearly stayed too long. Bound of War, the beginning is near, as many measure such things. Much will be decided before the end.”
+
+Tala swallowed, gilding herself before asking, “Can you help?”
+
+He shook his head. “Such is not mine to do, nor should you expect others to reach down from above. This war is in your hands.”
+
+She opened her mouth to argue, but the man turned away, clearly signalling the end of the discussion. “You should go. I am glad that you have found your family. Do not forget that. Don’t lose your foundation nor where you come from.”
+
+Tala bowed, prompting her husband and daughter to do the same.
+
+Terry ruffled his feathers and gave a squawk of farewell.
+
+A moment later, the turtle was gone. Tala felt like he’d simply walked away, but she also felt like not nearly enough time had passed for that to be the case.
+
+Lea turned to her mom, clearly not having detected anything amiss. “He was kind.”
+
+Tala nodded in turn. “Yes, yes he was.”
+
+They turned as a family and began walking back toward the House of Blood’s hold.
+
+The city around them was alive and well, bustling with people going hither and thither about their day to day lives.
+
+In fact, it was only then that Tala realized how odd it had been for the park and surrounding streets to have been entirely deserted when they had been speaking to the turtle…
+
+-Oh… I didn’t notice that either.-
+
+Tala nodded in understanding. To add to the oddities, they hadn’t asked his name, nor had they even considered doing so. The idea hadn’t even occurred to her or clearly to her husband or daughter. Nor had it the last time Tala met the wise old turtle.
+
+Still, his words echoed in her head. Things were coming to a head, the war would start in truth soon, and much would depend upon her and her alone. Or it will if I’m not careful, if I pull into myself and try to continue alone.
+
+But, no. She would not. She wouldn’t forget her family and the support she had in them nor who she was…
+
+She knew who she was, where she’d come from, that wasn’t in question, but he’d meant something more than that. He’d purposely put mention of her family first.
+
+I am of Gated Humanity, and we will not be underestimated nor suppressed. More importantly, we do not stand alone. She glanced toward her husband, a smile pulling at her lips.
+
+She loved him deeply, far more than she’d ever expected to if she were being honest. That love seemed to be growing day by day as he continued to be a stalwart supporter and help, even when he had his own tasks and things to accomplish.
+
+He is an example of the best of Gated Humanity. Unlike me, he’s here, among these politics, these games of strife and violence, and he remains firm, stalwartly unchanged.
+
+-You’re not a leaf on the wind, Tala. You are still you.-
+
+I know, but I… I have let the culture, the violence here be reflected within me. It is a part of me, where he remains separate from that bent.
+
+Humanity as a whole had a chance because of people like her husband. Rane was an ever present reminder of what she was striving to protect, and she was grateful that he was there for others to look to, to follow.
+
+Whereas, I am still an Enforcer, but with no Pillar, I could be a sword with no wielder. Even as Eskau of War, I am considered just an intelligent weapon. Her thoughts moved to the nascent hold wardens as well as several other projects. I will show them differently.
+
+All three were contemplative as they entered the district of doors, approaching the House of Blood hold, but still a ways off.
+
+Regardless, the cogs are being built for the engine of war. The first of the hold wardens—hoping that many survive—will be ready in the next months. The forces of the Wandering Wilds are readying for war, each city and village making their own preparations. The communication network should be mostly established by next spring. The Mountain Kings have finally agreed to meet with an understanding that more than just their defense will be discussed, and even with construction on a new city about to begin up north, the Cycling Cities are all but ready to engage the Black Legion once they are found.
+
+There was nothing more that Tala could do to prepare, and such had been the case for months. She had only to persist as the plans fully matured. Then, they’d have a solid chance almost no matter what the Black Legion threw at them.
+
+She was finally, finally ready to head back to the Cycling Cities for a short break. She might even be able to see her siblings and their families while there. It really had been longer than she wanted since the last time—
+
+Her thoughts were cut off as a pulse of power washed out over the city, causing everyone to freeze in confusion. A moment later, clear ringing bells began to sound as well as a rising whine of the general alarm.
+
+Tala had never heard the city’s emergency alert, but this was unmistakably it.
+
+The only question that really remained was as to the nature of the emergency. Tala strained her perception, waiting the few seconds needed for the more specific sirens to provide that information.
+
+She needn’t have bothered. That question was answered early—barely a breath after the general alarm had begun—as a wave of shattering rock blossomed outward from the middle of a nearby crossroads, something having slammed down with incredible force. Tala’s perception easily pierced the debris and clouds of dust, locking onto the squad of five, midnight-black, automata.

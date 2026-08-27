@@ -1,0 +1,271 @@
+---
+id: 1face4be-f5cb-5684-b7d9-ffc5357cd660
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 731 - Slivers"
+slug: 0241-chapter-731-slivers
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 241
+ownLength: 2821
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3732070/chapter-731-slivers"
+royalRoadId: "3732070"
+---
+
+Tala had to disgorge quite a few of her researchers in the pit around the real void. They weren’t at all confident in removing it from Zeme, but they would be bending their collective intellect and expertise toward that end. At the very least, they seemed to believe that they could contain it as they investigated the oddity more closely.
+
+There was talk of creating a cell just for it, but when a Paragon with such capacity was called from a different portion of the mop-up operation, she had laughed at the researchers. “Are you mad? Giving something like this its own little pocket of reality to twist and claim? We’d never be able to renew the seal, and when it eventually failed, it would return to Zeme larger and more entrenched than ever before.”
+
+She had similar scorn for the notion of dropping it into the void. Though, to be fair, most of the researchers seemed to agree on the non-viability of that notion.
+
+Tala left them to it, ensuring that the war council and those in strategic command of this assault were aware of the assets she was leaving behind.
+
+It would likely take days to fully clear the escarpment and honeycomb of tunnels and hidey-holes throughout, but they would do it.
+
+With the Doman-Imithe scoured away in this area, every automata was trapped, giving them a perfect opportunity to experiment with the legionnaires.
+
+Almost precisely fifteen minutes after she’d asked Alat to gather those who would come with her, Tala came out of the hole and found a group waiting for her.
+
+Rane looked almost as ragged as Tala felt, and the Talons were far fewer in number than they had been.
+
+Tala had a moment’s panic before she found that—per their standard operating proceedure—those who were injured or otherwise unable to fight had retreated into Ironhold to be tended to.
+
+In that same vein, Tala was made aware of just how many other wounded were being tended to in that expanded space.
+
+-We’re to drop them off at the main staging ground on our way out. We were asked to check on that location as well, as since the signals were sent off, we’ve had only intermittent contact there. The other points have been secured, but no one has returned from the main area.-
+
+Wait, secured?
+
+-Yes. Black Legion came from the Doman-Imithe about twenty-five minutes ago.-
+
+Tala sent a quite unhappy expression toward the alternate interface. That seems rather important, Alat.
+
+Alat was unruffled. -Tala, all sorts of emergencies occurred all over the battlefield without you being told. We lost a lot of good people that you might have been able to save, but that wasn’t your purpose, here. There were others acting to put out fires, and you were needed where you were placed. Do you want strategic command?-
+
+Tala growled, willing everyone into her various expanded spaces and sprinting toward the edge for the plateau. Tell Rane what’s going on, and handle any other questions.
+
+-Lea wants Talax with the Talons in the sanctum.-
+
+Tala sighed. Fine with me.
+
+There was the briefest flicker as the young man moved through the superficial before going to the sanctum.
+
+Let Kedva and Brandon know.
+
+-Already done. They’re happy he’s well.-
+
+Thank you.
+
+Eskau Meallain was a bit irritated to have been put in Ironhold again, but Tala didn’t want to deal with the elf at the moment, and she couldn’t leave her behind.
+
+She considered pulling out her flier for the short trip to the main staging area, but decided it wasn’t worth the slight delay.
+
+Instead, she pulled all her power and authority together, weaving magics to launch herself forward in a great arcing leap, aimed straight at the encampment.
+
+She’d barely left the plateau when she picked up the first signs of the battle that had raged for control of the encampment, and she was still a bit more than a mile away when she saw some of the specifics.
+
+There were no automata left, but their broken and disfigured bodies were scattered about. If her quick count was correct, Tala saw the remnants of more than five hundred.
+
+That’s… that’s a lot.
+
+-More than we anticipated, but not more than they should have been prepared for.-
+
+I guess it would depend on the ranking. I can’t tell from the remains.
+
+-True enough.-
+
+There were a lot of casualties, the wounded already being tended to, but Tala couldn’t see any dead on their side of things.
+
+Even with the wounded, it thankfully looked like the healers weren’t overwhelmed yet. -I hope we don’t push them over the edge…-
+
+Keep the other points of contact updated on the state of things.
+
+-Will do.-
+
+The center of the camp looked a bit like a winter wonderland with ice frosting nearly everything to one extent or another.
+
+It was here that the plurality of the automata had met their end, many skewered or sliced by spikes or blades originating from all sorts of places ranging from tent lines to the ground itself.
+
+Near the center, three healers crowded around a white hue-folk woman.
+
+She wasn’t dead—Tala could see that much—but she was missing her left arm at the shoulder and her left leg ended just above the knee.
+
+Those two major injuries were complimented by numerous bruises that Tala could see beginning to form across her pearlescent skin, and innumerable cuts all across her form.
+
+Tala frowned as she shifted her body and magics to finesse her landing zone.
+
+She came down just outside the healer’s section, quickly gathering one of the coordinator’s attention.
+
+They quickly got the wounded and weary from Ironhold and the sanctum doled out and properly passed over for continued treatment—Alat placing them gently in the requested areas, well outside the frosted area of the camp—and Tala almost simply launched back into the sky to streak toward Bandfast, but something was nagging at her.
+
+The woman.
+
+She had three healers feverishly working on her, but she didn’t seem to be getting better.
+
+Tala flickered over to the domain of ice, startling the three with her arrival.
+
+The woman just sluggishly looked up, a small smile growing across her features. “Pillar Ifa, reporting to the Eskau of War. How may the House of the Frost Lance serve?”
+
+She then turned and began coughing, blood flecking the white beside her.
+
+Tala gave a slight bow. “Well met Pillar Ifa.” She then frowned, turning to the healers. “What is the issue? What is hampering the healing?”
+
+A cat-kin growled, magic swirling around her with ease before turning to molasses as it tried to enter Pillar Ifa’s body. “Something’s making her body reject magic. Even her natural density seems to be draining away. If I couldn’t see her clearly, I’d say this rate of loss was positively human.”
+
+The three healers stiffened, the cat-kin’s eyes growing wide in horror as she realized what she’d just said. Before anything could progress, Tala held up a hand. “No offense given. So, something is removing power from her.”
+
+“Yes, Eskau.” The healer hung her head, looking back to her patient.
+
+Tala nodded and extended her authority and aura. Pillar Ifa accepted her influence gladly, both consciously and unconsciously. A moment later, Tala cursed.
+
+There were reality fragments in the woman, or whatever the horrific slivers were.
+
+Tala explained to the healers what she, herself, had found, at the same time coordinating with Ironhold to get iron pliers, hoping that such a material would be able to grab onto the issue.
+
+The healers paled as Tala explained her experience, and an elf in the group seemed to be swaying. “We have dozens of injured who seem to be taking longer to heal than expected. Could this… could this be widespread?”
+
+Tala sighed and nodded. “Unfortunately, yes. I think most of those that were driven into me came from the lower ranked automata.”
+
+The elf called for a messenger, and began the process of spreading the news.
+
+Tala didn’t mind the duplication of communication. This needed to be circulated as quickly as possible.
+
+She willed a large blanket onto the ground and added more than a dozen iron tools to it. “I have to go, but these might be able to help you get the slivers out if you can find them. I’m sorry that I cannot delay. I’m needed elsewhere.”
+
+They three bowed, their head, the final healers speaking for the first time. “We thank you for your time. I’m not certain we’d have found the issue without your assistance.”
+
+Tala gave a curt nod, then leapt into the sky, willing her flier out and herself into the sanctum before streaking northwest, toward Bandfast.
+
+As she worked her authority, will, and aura around her point of view—allowing the flier to push faster and faster—she begrudgingly angled a bit to the north to ensure they passed over pack forest rather than Leshkin.
+
+She’d gotten the reports now, and it was all but certain that the Leskhin were aiding the Black Legion at the very least, even if she didn’t understand how yet.
+
+Still, she needed to get to Bandfast to render aid, and she couldn’t let herself be tied up in what would likely be a near-endless clash in the southern woods.
+
+Assuming the Forest Spirit doesn’t involve himself. She grimaced, deeply irritated that the creature seemed to allow hostile creatures to thrive and attack humanity while preventing humanity from putting such to a permanent end.
+
+-I mean, couldn’t it be seen as a blessing?-
+
+Tala sent an expression of surprise. You’re going to have to explain that one, Alat.
+
+-Well, for centuries, the Leshkin have provided a buffer between gated humanity and the arcanes. Moreover, the constant threat of the Leshkin each cycle has forced our predecessors to remain vigilant and sharp, honing our warriors, tactics, and society to be able to endure what amounts to being at constant war for near-to half of each cycle.-
+
+So, struggle builds competence, and he’s forced us to keep struggling?
+
+-In a sense, yes.-
+
+…Yeah, no. While I see what you’re saying—and it might be true that we’re better off because Master Jevin and others couldn’t wipe out the Leshkin entirely—unless it was done for our benefit, I won’t be grateful for incidentally good outcomes from the Forest Spirit’s horrid policies and whims.
+
+-Fair.-
+
+All that to say, they went on a northward bent arc as they moved northwest toward Bandfast.
+
+Alat was in communication with Terry, and he flickered toward their path so that they could pick him up just about an hour before they would reach the city.
+
+The Archive was already hosting a plethora of information about the oncoming army as various Archons worked to scout the oncoming assault.
+
+Some were being evacuated, but the vast majority of citizens were simply being moved inward, toward the core of the city.
+
+The defenses were being primed, and Mistress Jenna was ready.
+
+Unfortunately, the Black Legion had not shown themselves to be fools, and if they were attacking, they had to have a reason to believe they had a chance of success.
+
+If, instead, they simply had so many automata to burn that they could attack with no hope of localized victory, then the war was likely already lost.
+
+The allies couldn’t hope to fight an ever growing tide. After all, slashing at the surf would never defeat the ocean, no matter how many drops were cut.
+
+Tala and Alat conveyed what they’d learned about the odd slivers that had been used against them, and that sparked a flurry of activity.
+
+To their growing horror, nearly everyone who had participated in the previous assault had at least one sliver, passively weakening the magic within them.
+
+That might have been the true purpose behind the Black Legion’s work there, but they couldn’t be sure yet.
+
+Tala and Alat almost bent their will to working the invasive things free, but they were forestalled when several of the healers in Irondale requested the couple of hours of flight time to investigate the issue and seek solutions themselves.
+
+Tala didn’t like leaving those she cared for—and those she was literally carrying—to remain so hampered, but she understood the utility of the investigation, research, and experimentation.
+
+If she removed the issue, then she’d have to be their main source of that type of healing in the coming fight.
+
+On the other hand, if the healers were able to work out other ways to deal with the issue, then that could be spread throughout their forces, and everyone would be better off.
+
+I can perfect my own process later. The generally applicable methods take precedence.
+
+-Not to mention those techniques will be informative for us too.-
+
+True enough.
+
+Tala finally pulled her perspective back from Zeme, sinking into where her body waited in her throne within the sanctum.
+
+She’d been aware of herself in there, but had not focused on it. As such, while she wasn’t surprised to find Rane and Lea near her, she did have a little ‘thrill of discovery’ to find them still there in their own chairs, watching the outside feed and restoring their energy with relaxation and food.
+
+…Mostly food.
+
+And drink.
+
+Lea was actually guzzling coffee which caused Tala to arch an eyebrow. “Since when do you enjoy black coffee?”
+
+Lea grinned over at her mother. “Good of you to join us. As to coffee? I drink it every so often.”
+
+“In such quantities?”
+
+The girl shrugged, taking another large gulp answering through control over the air beside her. “It’s been a day.”
+
+Rane laughed into his own mug. After sipping some of his own drink, he grinned and nodded. “That it has.”
+
+Tala briefly held out her hand and a mug of steaming coffee appeared, allowing her to get her own taste. “Oh… Oh, that’s good.”
+
+The other two let out their own grunting moans of ascent.
+
+After a long moment, Rane frowned. “How bad is it?”
+
+Lea’s focus moved to her mother, and Tala let out a long breath, even going so far as to take another long pull of coffee before answering. “Not great.”
+
+Rane sat up straighter. “Oh? I thought we claimed victory at the escarpment.”
+
+“Oh we did.”
+
+He frowned. “Then…?”
+
+Tala sighed. “How’s your left arm?”
+
+Rane looked down, flexing just fine. Still, it was obvious what she was referring to. There was a single pinhole that was slowly leaking blood. “It’s being stubborn, but it’ll heal.”
+
+She shook her head. “No, it won’t. Not magically.”
+
+His eyebrows went up. “What now?”
+
+“It’s some sort of reality sliver… though that’s probably a terrible name for it: too close to world fragment.”
+
+Rane grunted, looking closer. “I’ve not been able to sense anything in there…”
+
+“It’s only detectable in the negative from what I’ve been able to see. It either disrupts magic, pulls it in, weakens it, or… something. Healers are working on mitigating the issue and hopefully removing the things, but most—if not all—of our fighters on the plateau have at least one.” She gave a mirthless chuckle. “After all, one got into you, and part of your Reforging was directly related to toughness and defense. Your armor should have mitigated most of the chance of being so infected.”
+
+Rane grunted. “That would explain what’s been going on…” He sighed. “Well… I’m glad that you noticed; that you caught it.”
+
+Lea frowned for only an instant before her eyes widened in horror. “Otherwise, we’d be slowly getting weaker, healing slower, having more and more trouble with our magic, and we’d be hard pressed to even realize among all the chaos.”
+
+Tala grimaced. “Indeed. Honestly, I only noticed due to a fluke. They overplayed their hand there.”
+
+Rane arched an eyebrow, and Tala flushed, clearing her throat and glancing away. “I… I over-committed a bit to take out three commanders, permanently.”
+
+Lea brightened. “That’s great, mom! Congratulations.”
+
+Rane gave her a flat look. “Lea, sweet, your mother likely almost got herself killed.”
+
+Lea scrunched her nose. “Yeah… well. She didn’t though, and it sounds like three commanders are gone?”
+
+“That’s right.” Tala smiled slightly. “It also had the side benefit of revealing this issue.”
+
+His eyebrow lifted again. “Let me guess. They pumped you so full of these slivers that the difference in your healing was unmistakable.”
+
+Tala flushed deeper, clearing her throat. “Something like that.”
+
+Rane’s eyes narrowed.
+
+Alat took it upon herself to answer so that everyone could hear. “-Oh, they turned her to a slurry in her armor, and she was utterly unable to heal. If we hadn’t been so diligent about protecting our head—or if we hadn’t had the nice shell of armor—we’d absolutely be dead.-”
+
+Rane blinked a few times before frowning. “Tala…”
+
+Lea was less controlled. “Mom!”
+
+Tala threw up her hands in a vain attempt at defending herself. “I got better!”

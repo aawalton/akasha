@@ -1,0 +1,179 @@
+---
+id: 82343257-f89a-5ca8-b24a-b6da355e96aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 - Back to School (2) "
+slug: 0017-chapter-9-back-to-school-2
+partOf: metaworld-hopecore
+position: 17
+ownLength: 2021
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364721/chapter-9-back-to-school-2"
+royalRoadId: "3364721"
+---
+
+By Thursday, she was down to a 5:30-minute mile for her personal best, which was an insane statistic for a short, adolescent Caucasian female. Her figure had also picked up definition, which made her both happy and proud, because, finally, her Eppie was no longer obviously underweight, and where her ribs had been visible, obliques were now visible.
+
+At the school gym, which was thankfully empty for the week, she put another theory to the test.
+
+How much could a [Strength] of 20 bench press?
+
+The answer was “at least her own bodyweight,” which was about 120 pounds, give or take a few massive meals. She could easily lift herself, perform pull-ups, and exercise a level of agility that was surprising for the uninitiated. Some of her moves were so effortless that she was seriously considering re-taking rock climbing as a hobby to further perfect her physical abilities.
+
+The concrete outcome of her theory put Eppie at ease.
+
+With a [System] like hers, her body was currency.
+
+[Athleticism] was key to basic survival, like fighting off potential assailants or fleeing from danger. [Comeliness] and [Charisma] were key to her social capital, used to disarm foes, entice allies, and feign innocence.
+
+After three meals in three places to remain inconspicuous, she finally made it to her reading session in the quad, where she saw the girl.
+
+The dancer who had fled.
+
+This time, she did not approach like a bull elephant.
+
+Instead, she moved quietly around the quad, watching the gazelle girl nervously scan her surroundings, clearly waiting for someone. Like a leopard, she leveraged her newfound agility to stalk her prey, moving closer and closer while keeping to the girl’s blind spot.
+
+Twenty meters.
+
+Ten meters.
+
+Five.
+
+“HELLO!” She appeared only a few feet away, throwing herself into the girl’s field of vision.
+
+The girl gasped, then choked on her own saliva.
+
+Between her uncontrollable fits, Eppie saw a light-skinned African-American teenager who looked older than she had expected. While the girl came to terms with her next breath, she noted her second-hand tights, the all-black, off-shoulder tee, and her worn Reeboks. On the floor beside them was a crumbled rucksack that looked like military surplus. This was a Gen-Ed student, one of the many who had received their positions through talent.
+
+“Sorry…” Eppie rubbed the girl’s back until she was sensible. When her victim looked up, however, her oval, molten-caramel eyes were almost popping out of her skull. “So er… Surprised to see me?”
+
+The girl’s mouth moved, but no words escaped.
+
+To prevent her skittish gazelle from escaping, Eppie took up the rucksack. There was a nametag attached.
+
+Simone Goode. The tag read. Junior. Musical Theatre.
+
+“Don’t be so dramatic.” Eppie made sure not to smile too invitingly. “Is it so impossible that I should return?”
+
+“You… you fell,” Simone mumbled, then covered her mouth.
+
+“Well, they stitched me back together with glue, unlike Humpty Dumpty.” Eppie did a little twirl. “See? No scars either. I guess it wasn’t that bad.”
+
+“It was four storeys…”
+
+“Five, actually, now that I am here. Look, you can see the mezzo from here, it’s a two-storey ceiling.” She pointed toward the main school building. “But I am here now, so it doesn’t matter. Did anyone get into trouble? I almost died, you know.”
+
+“T-trouble?” The gazelle girl stumbled over every word as her complexion continued to pale. “I… I need to go.”
+
+She tugged on her bag.
+
+The bag might as well be attached to a pole.
+
+“Simone.” Eppie smiled as disarmingly as possible. “We’re friends, right?”
+
+“Yes? Yes!” The girl was pulling harder now, but obviously terrified of destroying what little possessions she had. “Eppie, can you let go of my bag?”
+
+“Of course, in a minute.” She stepped forward while Simone backpedalled. “My memory’s super fuzzy at the moment, Simone. I need a friend to rekindle some of it, lest I remember the wrong thing and end up speaking to the wrong people. Could you give me an account? Of what happened that night when I… lost my footing?”
+
+In blind terror, the girl jerked her bag back, tearing it from Eppie’s fingers. A seam ripped, but Simone was now beyond caring. Like fleeing an unwrapped leper, her “friend” tripped over herself to get away from the passively smiling Eppie, hobbling across the concrete.
+
+The commotion was enough to direct a dozen stares her way, some curious, some unfriendly, but mostly curiosity. A few people even had their phones out.
+
+The girl’s tag, her [Memorisation] recalled, read 151 West 101, Broadway, Manchester, a whole damned hour and a half away by public transit.
+
+In her old life, she had never ventured into the south of LA. Her haunt ranged from the Pacific Palisades to Santa Monica, then across the boulevard to the art scenes, then over the mountains into Studio City and North Hollywood.
+
+Broadway Manchester had a reputation, the type that Fox and Friends would remark to its rural viewers as having “deep poverty” and “not for beginners,” as a result of “community roots.” Her present world was better in many ways, but from what she had seen thus far, inequity remained a staple of the American Dream.
+
+But maybe… just maybe, there was [Causality] to be tapped. Perhaps, through the easing of life’s more predictable miseries, she could glean the truth from her former “friend”.
+
+For now, for her production of the Eppie Fontaine whodunnit, she would have to wait for the rest of the ensemble cast to be announced.
+
+Friday.
+
+The final member of her Stratford-upon-Avon apartment arrived in full fashion, joined by both parents, a younger brother, and Señora Josefina.
+
+“Hola! Eppie, Hilly. Let’s welcome our final member! Miss Ava Bernstein! She is Jewish, okay? No loud music or movies—we are going to respect her Shabbat. At the cafeteria? No pepperoni, Si? Not even accidentally.”
+
+She then turned to the family with her signature, all-encompassing smile. “Ava, mi amor, if you need anything—a regular candle, a special plate, or just a hug because you miss your mama’s cooking—you come to my room on level 1. Josefina will fix you a Kocher Taco.”
+
+“Er… actually, we’re not practising, we’re Hiloni," the father of Ava, a man in a woolen vest despite the August weather, humoured their dorm mother. “Thank you for the offer, though, it's very kind.”
+
+“Oh my God…” Ava looked like she was physically in pain. “Dad… I am a Junior. I’ve been out here since my Freshman year. It’s just a new house. I lived literally across the lawn, in that old building.”
+
+“I know, I know, bubeleh,” the father’s eyes swept over Hilly and herself, stopping when they landed on her.
+
+“Hi.” Eppie waved.
+
+The father returned her smile. “What streams are you in?”
+
+“I am a Freshman, Mr Bernstein. So just the basics, I guess. I am here for Musical Theatre, but that won’t be until next year,” Halle replied.
+
+“I am not sure, actually,” Eppie laughed awkwardly. “Theatre, I think?”
+
+That’s what the [System] seemed to infer at least. She crossed her fingers.
+
+“Our Ava wants to be a dancer, a prima ballerina,” the girl’s mother, a larger-than-life housewife with all the trappings of privilege, held her daughter’s shoulders. “Please help her out if she needs it. We’ll be very grateful.”
+
+“Please just go now,” Ava tried and failed to push her mother’s hands away.
+
+“Don’t use the air-conditioning too much, you’ll get sick,” the Dad continued, blithe to his daughter’s desire to find a crack and meld into the floorboard. “Your coat will come later when it's colder. I got them all packed in the garage. I’ll bring them in the fall.”
+
+As a captive audience, Eppie, Hilly and Josefina watched the ordeal play out for another twenty minutes while her parents extolled the dangers of high school boys.
+
+The theatre boys. The cinema arts boys.
+
+The danseur boys, just like the old country.
+
+The university boys, who were much too old for her.
+
+As a cool Jewish Dad, he didn’t mind her fancying boys, as long as they were Jewish.
+
+Halle’s face was a blooming rose of fire, while Josefina hit it off with the mother like a house on fire. As for herself, she slipped out during a particularly rowdy burst of laughter, and once more dived into her morning circuit around Cal State’s spacious campus.
+
+Saturday.
+
+After her morning routine, Eppie settled down to plan for the beginning of school.
+
+As her education was performed in the Conservatory Style, there were three sessions a day, labelled in her welcome pack as “The Blocks”.
+
+Mornings began at 8 AM, with Sophomores taking on a rotation of core subjects. Based upon Eppie’s past performance, she was taking English Honours, AP History, Algebra, Chemistry and French.
+
+Evidently, Eppie was a bit of a nerd.
+
+The afternoons, starting around 1 PM, were Art Core. The latter involved Intermediate Acting, Movement, Voice and Speech, Stage Tech, Improv, and Theatre History.
+
+After that was the Production Credits.
+
+The Fall Gala and the Spring Gala, as well as indivdual showcases.
+
+In the first Semester, a play would be selected for the Sophomore class by the Theatre Chair for “Classically Classic”, and auditions would take place. Those within the limited production, usually a cut-down tragedy, would learn their lines and practice, while everyone else would be involved in Technical Theatre. As a consolation, everyone got a chance to showcase a two to four-minute monologue, albeit in front of staff and peers rather than the public.
+
+At the end of the academic year, the Seniors organised a Spring Gala, open to auditions from Sophomores onwards, though neither Classics nor Musicals measured up to the ultimate showcase that was “LAPA, now with money”.
+
+This was because, having forced the school to re-write its charter, the investors of LAPA needed to show the world that their investment, and indeed, their children, was “worth it”. The LAPAGANZA, therefore, was an enormous charity event held in May, capping off the school year. Using a different criterion, it gave roles to all the tuition-paying students to strut their stuff, conducted not only by the school but also by technicians, directors, musicians, and producers from within Hollywood itself, spanning the school’s five core disciplines.
+
+These “Projects” were the source of the competitive air that made LAPA renowned across the West Coast; fifty roles were offered to four hundred-odd eligible students. The losers were banished to perform “dark magic” backstage, while the winners were given the spotlight.
+
+It was training, in the harshest way possible, for the reality of showbiz.
+
+As a regressed revenant, Eppie considered her foreboding future.
+
+She was far too skilled for English Honours. She could probably mime the work better than most professors if given enough practice.
+
+AP History was a matter of avoiding an incidental retelling of the future.
+
+Algebra? She could complete AP Calculus in a week.
+
+Chemistry? No idea. She never took the subject.
+
+French? Awkward. She didn’t speak French. Her clients were first British, then Japanese and in her latter career, Chinese. The EU hated her corporation, and they hated working with EU regulators.
+
+She would need to swap Chemistry for Physics.
+
+For others, this would be a problem, but she had Coordinator Carr in her pocket, as well as the temporary grace of VP Thomas. As for French, she would skip it by taking the AP Japanese or Chinese exam.
+
+This effectively freed up her mind for the more important aspects of the [System]. The karma that drove her this far clearly had a plan, and she had to take advantage of it to survive. Her [Dasein] was accumulatively expensive, even purchased in single daily units, and the goodwill from her songs wouldn’t last the year; she needed more insurance in the form of songs and accolades so that she could “do good”.
+
+Eppie shook her head in wonder, marvelling at the fame, credibility and creativity needed to keep herself alive. The [System] demanded redemption, but that was her redemption. To redeem others and gain [Causality], she had to do it the old-fashioned way.

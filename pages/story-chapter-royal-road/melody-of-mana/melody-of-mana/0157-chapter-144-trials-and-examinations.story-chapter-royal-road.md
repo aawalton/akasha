@@ -1,0 +1,121 @@
+---
+id: b3c282f3-1c69-5f71-a131-7cd6f8e61bb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144 Trials and Examinations"
+slug: 0157-chapter-144-trials-and-examinations
+partOf: melody-of-mana
+position: 157
+ownLength: 2078
+unit: words
+ownProgress: 2078
+publishedAt: 2022-06-10
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/924438/chapter-144-trials-and-examinations"
+royalRoadId: "924438"
+markedReadAt: "2026-06-29T22:31:16.340Z"
+---
+
+I found myself bored as expected at one of the parties mother had suggested. It wasn't the worst thing in the world, just not really my scene. We were around half a dozen dances in and while I was participating, my heart just wasn't in it.
+
+"I think I like your parties better." Dras moved over to my side.
+
+He was attending for similar reasons to myself, ostensibly to find a spouse. The main difference being that he seemed to be taking the whole matter more to heart then I was and was clearly enjoying himself at least a little.
+
+"Thanks, how are things?"
+
+"Well, care to dance?"
+
+"Certainly."
+
+We caught up a bit as we danced.  He told me how he liked his current job, the research was fun apparently and he was getting to learn a lot of specialist things.  I was left out on specifics of course, since he worked for the military, but I was glad he was happy.  Near the end of it all he pulled me to the side to speak more though.
+
+"Hey, Alana, be careful okay?"
+
+"About what?"  I asked, my brow quirked.
+
+"Rumblings from up north.  Nobody is really talking about it, but a lot of those nobles that were unhappy with the regime change is disappearing, while the others are staying oddly quiet.  Nobody knows for sure if something's up, but..."
+
+"I'll make sure not to take too many wild adventures for now then."
+
+"Thanks."
+
+It was nice to have someone plugged into the current regime who would actually tell me anything.  Dad and Mystien both thought that I needed to be protected for my own good, but also kept well away from anything important.  They may have kind of had a point as being near important things tended to end with me coming up with new and overpowered magic, but it was annoying nonetheless.
+
+From there we separated and some guy who looked like his baby teeth hadn't even fallen out tried to woo me with another dance and a drink.  I was polite, but he wasn't at all the kind of person I was interested in.  The party continued muchly thus and I lamented the fact that I couldn't find many people who appealed to me at all.
+
+The parties continued on through the spring and until I finally got a short respite.  A few weeks where just after planting many of the big wigs needed to go over their numbers.  Who had put what in the ground, how much, where, and what the general condition of the soil looked like.  There would be a lot more breaks like this in autumn, but I'd take what I could get.
+
+So I returned to school and my daily life.
+
+One evening after all of our classes had finished I came upon a group of circling giggling fourth years.  Pinea was at their head and upon seeing her I moved over.
+
+"What's up?"  I asked moving to her side.  She jumped a little and then with an evil smile pulled me into their little circle.
+
+"Alana, you're here, I'm so glad, we were discussing setting up some orders."  She spoke so low that we all had to lean close.  "You see poor Menae here is getting married at the end of the year, and her future husband is..."
+
+"He's nice, just kind of..."  The girl in question said.
+
+"Right, right, so we're going to get her some... helpers, from a shoemaker in town.  He uses wood and metal to make things she can use to push things along at night."
+
+I wanted nothing to do with this order, but the way my friend had latched onto my arm, and the terrible mistakes I felt like they were about to make made me speak up.
+
+"One, find somewhere more private to discuss this than the common room, good grief there are first years around.  Two, that sounds disgusting, wood and leather?  It'll be almost impossible to clean.  You need something like metal or glass, and if you didn't mind using a bit of magic..."  I then broke them down several basic designs that would be found in any number of locations on Earth.
+
+I got a bevy of stunned looks, at some point Kala had joined our little group and even she was wide eyed.  As they blinked a few more times it was Pinea who pulled me over.
+
+"I never knew Alana.  You must have spent some time on those designs, why don't you sell a few?  Or at least the sequences, I'm sure we could get you a good price."
+
+"I've never made such a thing in my life.  If you want to use my suggestions go ahead, but leave me out of it."  I tried to pull away only to have Pinea hold me tight.
+
+"Don't you at least have the sequences?"  Pinea begged.
+
+"No."
+
+"Well... you are the best in our year.  Could you write one for me?"
+
+"Didn't I say leave me out of it?"  I glared at her.
+
+"You know that favor you owe me Alana, about the maid?"  She could not seriously be trying to cash in a years old debt now.  "I'd like to use it."
+
+I gave her a deadpan look.  "Fine."
+
+It took me less than an hour to write up something that would fit in an apprentice level core, along with a few design notes.  About a week after passing those off to Pinea I was gifted a small box and a dirty look by my erstwhile friend.
+
+As I made my way through my final year I school I felt, terribly alone.  Other than Pinea, who was a pain at the best of times, most of my close friends were now gone.  Dras had graduated, Charles had never been one to go to our school, only appearing every now and then, but even he seemed to be absent a bit more in recent months, and Kala...
+
+I cared for Kala, but there was still awkwardness there.  We couldn't come to a good conclusion on how to speak to each other, how to deal with where we stood.  There were attempts, to be sure, but neither of us could go back to how things had been, and we both knew it.  Perhaps in some years things would work their way into a normal friendship again, I could hope at least.
+
+I mused on this as I stood atop a tower at our school, looking out at the city below.  The lights and sounds filtered up to me, hanging in the summer air.  I had only one more season to go, only one last push until I reached the next stage.  I didn't honestly look forward to it that much.  I'd graduated high school once, and knew that it didn't make anything better.  I could feel the wind around me, pushing me gently forward to my next destination, and I faced it with a light melancholy.
+
+Mid-autumn marked the beginning of our examinations.  Most of these were much like one would expect from an Earth class, simple written tests on what we had learned.  There were a few exceptions though, and these were of note
+
+There were also practical aspects in our classes that needed them.  In Atali Dance I had to perform a routine for Professor Etia, in my instrument classes I needed to run through a piece of music.  All of the spellcasting classes made us display some of what we'd learned, mostly small tricks here and there.
+
+Magical Item Creation was a beast of an exam.  After the written portion we were given a full afternoon to create an item from scratch.  We weren't told what it would need to be ahead of time, but instead given a small sheet of paper with instructions on what it needed to do.  They were all fairly straightforward 'a heater that responds to adjust based on the ambient temperature and manual controls', 'a light with three methods of activation', or other such things.  Mine was 'a floating object that can support a person's weight'.  There was a list of how each needed to function, but nothing too grandiose.  That was mostly because my classmates were almost all still stuck on the apprentice level of their core, and couldn't make anything with too many lines of coding.
+
+I pulled a face upon reading it, this was too easy.  I designed a chair of one of the more magically reactive woods.  They were all subpar, but there was a type of pine from the western coast that worked passably well if you didn't mind having to spend tons of mana on it.  I could have used metal, but the downside would have been weight, requiring more mana as well, and being dangerous.
+
+The tools for shaping it were already set out for us and we'd worked with those for years, so making a basic wooden chair shape was simple enough, a few holes and cuts and I had something that would be functional, if a bit uncomfortable.
+
+The sequence as well was simplistic, just an upwards force if the bottom was less than three feet from the ground.  I made it limit its power to only equal that that was being placed down upon it, but that was not too bad.  As a fun addon I threw in an on/off switch and a limiter on speed to keep it from acting like a catapult if someone turned it on while sitting on it, and I was done.
+
+My grade on that one was quite good.  I saw a few others have some of their attempts not go quite as planned, but by the end of the day everyone seemed to have a functional version of whatever they were given.
+
+Along with the written exam on theory of war Combat Spellcasting had a brief practical.  Professor Endel met each of us in the arena at a specified time and after showing him some of our spells we had to engage in a short duel.  None of us were expected to beat the old warmage, but we had to show what we'd learned.
+
+He and I faced off for one last time.  I'd been informed that he was wearing armor that would protect him from any lighting and so I went hog wild.  The arena was littered with illusions, fake footsteps to make it look like I'd gone invisible, swathes of melted sand, and the small sticks that represented sedatives.
+
+I danced along the side of the arena throwing spell after spell at him from as many directions as I could manage.  Each and every one seemed to bounce off of his shields and defenses as he responded with something that looked rather like one of those old bullet dodging arcade games.  He couldn't find me, so his next best option was to fill the whole arena with projectiles and hope that one hit.
+
+I launched a thunderbolt down from the sky only to see it absorbed by the bubble of magic protecting him.  The arena shook as it turned into harmless light and sound.  Since nothing else was working I went back to basics, I was only one or two spells out from being spent and needed to strike something decisive, so I loosed my strongest scream on him.
+
+It seemed he'd neglected his sonic protections and while most of it was taken by his own aura I got him to stumble, nearly falling to his knees.  Sadly he seemed to have accurately guessed my position and with one final push filled the whole area with magic, enough to break my own shielding and drop me, ending the fight.
+
+I let myself lie there, chest heaving as my breath came in gasps.  A brief look confirmed that Endel was much better off, if still tired, he huffed a bit as he walked over to where I lay.
+
+"Good showing full marks, I'll give you a recommendation to the army if you want, I still know a few people."  He offered a hand which I gratefully took, letting myself be pulled back up.
+
+"I'll pass, I've already taken a job in research sir."
+
+"That is a shame, you'd do very well.  Well then, I'll see you at graduation."
+
+"Yes sir, thank you, for everything."  He gave me a smile as we walked out, patting my shoulder a bit as he saw me off.

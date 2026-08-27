@@ -1,0 +1,203 @@
+---
+id: 4bd44814-5156-5dc9-bd65-de4745074c94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 An afternoon with my brothers"
+slug: 0004-chapter-4-an-afternoon-with-my-brothers
+partOf: melody-of-mana
+position: 4
+ownLength: 3322
+unit: words
+ownProgress: 3322
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/701117/chapter-4-an-afternoon-with-my-brothers"
+royalRoadId: "701117"
+markedReadAt: "2026-06-29T22:26:22.465Z"
+---
+
+The days droned into weeks, and before long the harvest arrived and went. I'd like to say that I became significantly proficient at healing, but I was mediocre at best. Progress was certainly made in that department, but the going was painfully slow.
+
+It was just after our fields had been brought in that dinner brought with it an interesting conversation.
+
+"Got a message from Creekrun this afternoon. They think they've got a monster in one of their caves," dad declared. I knew Creekrun was one of the nearby villages, but this was the first I'd heard of an actual monster in the area.
+
+"Wow! What kind? Are we going to go kill it?" John perked up, excited by the idea.
+
+"You're not going anywhere, but I'm headed that way with a few others tomorrow morning, and we don't know, probably just overgrown coyotes or something, but those can be nasty to tangle with." He talked like this was something normal.
+
+"Well I'm heading into town in the morning," mom declared, "You boys'll have to keep an eye on your sister."
+
+"I'm going to practice though." I piped up.
+
+"Nah, we're taking old Mystien with us." dad explained.
+
+"Why?" In retrospect a foolish question.
+
+"Because if it's something nasty he can cook it before it gets near. Wizards are cool like that," Rod popped in.
+
+"Aye, that's the plan, some of the guys wanted you to come too Alana, but they're idiots." I shook at the idea of fighting monsters, or even being near them.
+
+"Maybe you could call someone to deal with it, like a monster hunter or something?" I asked.
+
+"Adventurers might come if we asked, but they're more of a problem than a solution to something like this. They'd drink the town dry, burn half of it to the ground, kill the monster, take everyone's money, sleep with the mayor's wife, then flee before the lord could come deal with them. Soldiers might come out, but the lord would charge the town and it would take weeks for them to do so, particularly now; they're all out gathering up his taxes." Father seemed to harbor a bit of resentment for both groups.
+
+"Oh, um... I could look after myself," I offered, both parents ignored that idea completely.
+
+"I'm hurt sister, you don't want to spend time with us?" Rod leaned in, smiling like a fox.
+
+"That's just mean, and we could've taken you out to the woods to gather, it's tons of fun," John joined in "even some berries just coming in."
+
+"No no, you just want to sit around the house like a baby though huh?" The teasing was already getting old.
+
+"No, I'll go." I glared at the two of them.
+
+"Great, we'll head out early then," Rod declared.
+
+"Make sure you're back before sunset," dad instructed them with a harsh look.
+
+So the next morning after breakfast my brothers took me with them and we headed towards the forest, a few baskets carried for our haul.
+
+The walk there was quite a bit further than I was expecting. Having seen the trees from my house I didn't think much of it, but it turns out that when you're short everything is much further away, and the constant complaints of my brothers about how slow I am didn't help at all.
+
+As we came to the shade I began to smell something lovely. The familiar scent wafting around as I looked for the flowers, "Come're and try this." John led me over to the big bush of honeysuckle, showing me how to pull out the stem and suck out the little drops of nectar, "These are the best," he added as he ate a few.
+
+Rod laughed from a bit behind us, "Teaching her to suck things John? What'll you do to the family's reputation?" I thought to tell him off, but realized a three year old wouldn't likely understand that, so I just glared.
+
+"You're saying dirty things aren't you?" I accused over a frown, "I'll tell mom." I threatened the most dangerous thing I could think of easily, and at it he blanched.
+
+"Ah.. no, just saying we don't want you to get known for being too greedy about sweets is all." His stammered explanation was almost funny.
+
+"Well okay then, let's go." With that declaration I began walking into the woods, only to be caught and pulled back to the spots they knew better.
+
+I quickly learned that there were a few, and very strict rules. The most important being that we weren't allowed to take any animals. It was bad to even look too closely at them, as they belonged to the local lord. This was a major crime, and for even a rabbit you could be badly punished. Secondly, was not to mess up the trees, for the same reason. We could take from the bushes and mushrooms, and anything near the ground, but not damage the trees. We'd pick up wood on our way out I was told; sticks and the like from the ground. Finally, not to take too much from any plant, so we could always come back and get more. Nobody shared their gathering spots outside of family and a few close friends, who'd only go to the well known ones.
+
+Our first stop led us to a small gully, and behind a curtain of overgrown bushes, there was a cave. It was so well hidden I could have walked past a hundred times and never seen it.
+
+"A cave?" I stood near the entrance nervously, having had bad experiences with these before.
+
+"Yup, this is where the best mushrooms grow, dad showed us, now come in, it's perfectly safe." Rod practically dragged me into the little hole.
+
+Inside was a room around thirty feet in diameter. The light was low, with an extra bit coming from some of the mosses, a light greenish glow flowing around them. I could see a bit of mana flowing about them as well, and stopped to study them for awhile.
+
+"What about these?" I asked my brothers, pointing the illuminating growths out.
+
+"Glow moss? Grows in all the caves around here, but if you pick it it stops making light, so not useful, tastes bad too." John said, "Not interesting, but these are, see the mushrooms here? Pick the white ones, the red ones will make you sick, the blue ones, very sick." He pulled out and showed me the three that grew here. I recognized the white ones from much of our food.
+
+"We come here all the time." Rod came over to check on what I was picking, pointing to the larger fungi, "Cause these things grow like crazy. Also a good place to hide out if you ever make mom mad," he chuckled.
+
+After we grabbed a healthy quantity of fungi my brothers showed me a number of small herbaceous plants and ferns. We focused on the easy to identify ones as we walked through the woods, even managing a few handfuls of nuts here and there, until we found an old path.
+
+The path led us down to a tiny creek, little more than a burble of water over some rocks.
+
+"Fish?" I asked, looking at the water.
+
+"No, no fish in this one, or none big enough to eat," said John.
+
+"What we're after is that." Rod pointed to a tallish tree beside the bank of the stream. I could see a few fruit hanging from the upper branches, but it was probably too small to climb.
+
+"What is it?" I looked toward the fruit, they were something I'd not had before.
+
+"Paw paw," responded my brothers, "We normally don't get much. Everyone grabs the low ones too fast... but think you can get a few Alana?" Rod looked down smiling. Looked like he'd planned to bring me here for a while now.
+
+"Mmm sure." I sang a brief tune and managed to pop a few off of the branches I couldn't reach. We got maybe ten before I stopped.
+
+Rob cheered at the haul. John brought one over to me and cut it open with his belt knife. It was green, had a rough skin, and was just smaller than a banana, I hesitated at first, but after a taste dug in, it was SWEET, so sweet, and I'd had almost nothing with any sugar since coming here, the whole thing tasted almost tropical, it'd probably make a magnificent smoothie and if I had a blender, or ice, I'd have found that one out.
+
+"Wow!" was all I managed.
+
+"Yeah I know," Rod shoved a few pieces in his mouth as well, "delicious."
+
+We each ate one. I was tempted to go for another but the thought of having one after dinner proved just tempting enough to hold me back.
+
+We spent a bit more time slowly making our way home, picking out a few more edibles and finally some sticks for firewood to top off. Our baskets bursting full we cheerfully exited the forest laughing about the obscenely good haul.
+
+As we exited the treeline I saw a cart coming down the road. Some of the men in it recognizable, we three waved to them and called out, but they seemed off. Something was wrong about their gait, the way they were looking towards the trees.
+
+I saw my father begin hurrying towards us as soon as one of the others pointed us out, and the look of his froze me in place. There was blood dripping down his face from a head wound, more stains on his shirt and pants bearing the dark, brownish-red that only came from one thing. He took the basket from me, quickly shoving it over to Rod and lifted me into his arms, power walking back to the cart.
+
+"A couple people got hurt, I need you to heal them. I don't expect it to be perfect, do the best you can." His words were curt, strained as he spoke. Normally his tone was kind, but today... today he sounded like a soldier.
+
+I nearly puked when I saw the men in the cart. Two men, soaked in their own blood, one had his stomach chewed open, his organs held in place by a pressed down cloth. He was shaking in pain, a friend holding onto his hand for comfort as he ground his teeth to not scream. The other not much better, his shoulder looked like it was barely still attached, pulped meat replacing what should have been ordered muscle and bone. He'd been lain on his side, a few seconds revealed why as he coughed up a spurt of blood.
+
+I was stunned into inaction until my father lightly shook me. "Heal them," was his command and I shakily began casting, trying to focus, but I'd never seen anything like this in either of my lives and just trying to bring it all together was throwing me.
+
+Mystien came over and placed his hand on my dad's shoulder calmly. He leaned in and began to speak gently to me, "Breathe, you need to focus, first on the man coughing. Work on his lungs first, you know exactly what to do here. Bring your mana into place slowly and use it to repair him." his voice was enough to bring me back to my senses fully, and I began as he instructed.
+
+Following my mentor's instructions I worked first on the damaged lungs. It was harder than any of my practice sessions by an order of magnitude, and I could feel my mana draining from me. My head was pounding when I finally got them into a state where I could not worry about him dying immediately.
+
+I moved to the other man's belly and it was even worse, as my mana flowed over the wounds, trying to knit and piece them back together I could tell that this wasn't working, I was too drained, his organs were shreds, most of the blood dripping along the cart, and through its boards was his, refocusing I pushed on, until blackness seeped into my vision and took me.
+
+I awoke in Mystien's house, a couple women were there tending to the two injured men, along with my father and the homeowner.
+
+"Oof," I said as I came to. Based on the lights and the darkness in the window I could guess it was night.
+
+One of the women, a friend of my mother's named Theara, came over and spoke softly to me when she saw that I'd awoken, "They still need help, particularly Leon, can you help them?"
+
+She indicated the man whose stomach was still in a bad shape. I could still see a bit of blood leaking out, his breath barely there and ragged. I returned to trying to help him, but if anything he was worse. Some of the bleeding had stopped, but some was building inside. I'd have to move to disease removal to know for sure, but I was guessing some infections were already beginning.
+
+I did what I could trying to find the worst spots, but a few minutes in something went weird. Like my mana was having trouble latching on. I looked up to hear Leon's breath hitch a few times, followed by a gasp as air escaped him, and the healing failed. Like I was trying to heal a piece of wood. I could feel it, almost taste it as he died, my mana still wrapped around his body as it became a corpse. The sensation was...
+
+I fell to my knees and emptied my stomach, shaking and crying as the man's death hit me. It was all real, all too real, and I knew I could do nothing for him. The sensation was visceral, I knew, for a fact that nothing would bring him back, and it struck me like lead.
+
+My dad came over and took me to a chair, sitting me here on his lap. "What happened? Why'd you stop?" the woman tending to Leon asked, still holding a cloth to wipe his sweat.
+
+"He's... dead," I managed between sobs, holding on to my father's shirt and looking away. I wasn't sure what happened to her, but it was quiet. I could hear nothing but my own crying, feel nothing by my dad rubbing my back to calm me. It took several minutes to calm down enough to stop, but eventually I did, just laying there for a bit as it all washed over me.
+
+After a bit Mystien came over, putting down a small bowl of stew and crust of bread, "Eat," he instructed.
+
+"But... the other man..." I began.
+
+"Orlen," he said, "is resting, and stable. You'll need to do a bit more before he'll be okay, but for now, eat."
+
+"But..." I tried again.
+
+"But, you are still shaking, and haven't eaten. When you're done, you'll be ready to go work on his wounds." He would brook no argument, "it'll be fine, now eat."
+
+It was annoying, but the old man was right. I was trembling a bit as I began to munch on the stew, but as I mopped up the last bits with the bread I'd calmed down considerably. I still felt horrible, but it was better.
+
+Orlen's shoulder was a disaster, so I started there. Whatever happened to him had crushed the bones and muscles. While the outside looked bad for being cut up. It wasn't anything to the internal damage. By the time I had most of that sorted I was nearly out of mana again, and needed to go rest.
+
+Dawn greeted me the next day, and I was still a bit woozy as John greeted me, holding me out a basket, "Mom made you breakfast, eat up." I grumbled about people shoving food at me but did as I was told, finding a generous egg and cheese omelet, and even one of the paw paw we'd gotten the day before.
+
+I couldn't help but think about how much mana I'd wasted getting the fruit down as I ate it. I'd like to say it tasted like ash in my mouth, but it was delicious, which only made the guilt I was feeling over not being able to save both men that much worse.
+
+I spent that morning fixing up Orlen though. By the time I was done he wasn't in perfect condition, his ribs would still need a week or two before fully healing, and his shoulder was still raw, but he was good enough that he'd be fine on his own soon enough. He was a nice enough guy, chatting a bit as I worked.
+
+"That was a total disaster, what was that thing anyway? Not anything I've seen before." he asked as I was putting the last touches on his ribs.
+
+"Mountain lizard, and you shouldn't have seen it. It shouldn't be within a hundred miles of here." the old mage answered him, "Not sure why it was, but we'll need to let Lord Hazelwood know, it's too strange." he said thoughtfully, "At least its body will be able to pay for all the damage. They're useful for a half dozen or so different parts."
+
+"Okay, that's about as good as I can do, for right now at least." I broke in as I finished up what I was working on.
+
+"Alright." Mystien looked me over a bit, "It should be more than enough. You'll have to manage on your own from here Orlen." he smirked a bit as the man reached up and ruffled my hair, with a loud objection on my part.
+
+"Thank you Alana, one day you'll make some man really happy." I stuck my tongue out at him at that, I didn't need to make anyone happy except myself.
+
+"And one day you'll not get half eaten by a beastie." I retorted before I turned to leave, gaining me a few chuckles.
+
+A couple days later I returned to my lessons. Though I couldn't stop looking at the place on the floor where Leon had died, my mood sinking every time I did.
+
+"You can't save everyone girl." The comment shook me out of my thoughts a bit.
+
+"I wasted a bunch of mana picking fruit. If I hadn't, then maybe I could have..." I began.
+
+"Oh? Did you know how dangerous that monster would be?" my teacher asked.
+
+"No... dad said it was probably no big..."
+
+"And you went to get your fruit after knowing we were coming back with injured?"
+
+"Well, I didn't know..."
+
+"Ah, are you the one who brought the mountain lizard here then?" he prodded.
+
+"Of course not!" I snapped at him.
+
+"Well it was brought here. We found out just this morning, none of this was your fault, not even a little, and it's no small thing that you managed to save one." That gave me something to think about.
+
+"Now, listen up, you won't be able to save everyone, and if you try you'll just run yourself to death, so don't. Save who you can, help who you can, and those you can't... well it happens. It's sad, but it happens." I chewed on his lecture, finding one thing that stood out.
+
+"It was brought here? Who would do that?" I asked, disgusted once I understood it.
+
+"Not someone you need to get involved with if you can help it, so don't say anything. I thought your father was going to put a fist through a wall when we got the news. On a happier note, Creekrun sent over a bunch of smoked and salted fish, which will be quite nice." It was obvious he was trying to distract me from questions I was better not knowing the answer to.
+
+"Hooray! Meat's expensive too!" I cheered, hoping I was being convincing, but I did like fish...

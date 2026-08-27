@@ -1,0 +1,107 @@
+---
+id: 48b17232-3f83-5df8-9db5-cacfa74bb277
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141 Graduation and Garden Talks"
+slug: 0154-chapter-141-graduation-and-garden-talks
+partOf: melody-of-mana
+position: 154
+ownLength: 1986
+unit: words
+ownProgress: 1986
+publishedAt: 2022-05-31
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/917830/chapter-141-graduation-and-garden-talks"
+royalRoadId: "917830"
+markedReadAt: "2026-06-29T22:31:09.953Z"
+---
+
+Alli spent several days recovering fully from her spider experience. That said we still got excellent marks on our underground activity. Our group had gone deeper and killed far more impressive monsters than any other, so there was no contest. The fact that we'd made it back just in the nick of time didn't look good, but nobody could fault us since we were technically within the time we needed to be.
+
+After that little foray though our class got a stern lecture on dangerous elements to use together. My guess was that Professor Endel had the same issue with Troy's battle tactic on the spider as I had. So he gave us all a number of different situations and made us drill a bit on where and when to use certain things.
+
+As with all things though, time marched forward. Soon enough came the end of the year and the graduation ceremony. I'd never been to one, not that I couldn't, I'd just never wanted to. This year though I did need to, as it was time for one of my best friends to make his exit from our institution.
+
+Dras had already secured a job working for one of the research facilities under Mystien. His skills would have managed it on their own, but I personally prodded the man more than once to make sure that it would happen. Nepotism was alive and well even after the fall of the nobility.
+
+I mused on these as I stood in the audience at his graduation. It was a bit like one from any high school or college on my previous world. There were stands packed with well wishers as our dean placed a belt on each of the new graduates. It was a wide silk thing, clearly meant to signify status. A number of those in the audience worse similar ones, the colors had changed slightly over the years. You could tell that almost all of the alumni wore blue ones, from the former kingdom, while the newer graduates were getting those of a deep black.
+
+There were only separations for those who were family, and those who were friends. Though in the past the nobles had been given the seats closest to the graduating students no such tradition held anymore. Now whose parents got to be closest was determined by a set of exit exams. I was proud to say that I could easily see Dras' mother right at the very front.
+
+The clothing on display was kind of... weird. The parents and guests tended to wear whatever formal attire they chose, lending an almost party-like atmosphere to the event. The only rules seemed to be that academy graduates wore their sash, or a replacement, and some of the more physical type mages wore shining breastplates. The current students who were watching wore their uniforms, with what I assumed to be a slightly different uniform for those of the knight program.
+
+The graduates wore their uniform as well, with a handful of variations. Those who were healers, or had taken that class designation wore a variant that had golden threading around the edges. There were a number of other edgings for other specializations too, blue for water, red, for fire, green for those who'd gotten high marks in item creation classes. Those who'd passed their combat classes through were wearing a set of leather armor. Dras of course had a red edging to his uniform that suited him quite well.
+
+As far as ceremonies went, it wasn't too bad. Sure it dragged on a bit, but nothing like those on Earth did. Perhaps it had been worse in the past, with nobles and the like, I didn't know, but now it was pretty quick and clean.
+
+Immediately after everyone split off into groups to go to their various parties. Most of the restaurants in the city were completely packed, and so we had to settle for one that was a slightly lower class establishment than we might have liked. It was still only a short walk from the academy, but down towards the lower part of the city rather than further into the wealthier parts.
+
+Dras and his father were a riot. I had never really known his dad, but the two of them seemed to be having a grand time. He hadn't ever talked much about it, but from what I understood his father worked almost nonstop. Tonight though they were telling jokes and drinking.
+
+About halfway through the festivities the two of them left his mother and I alone for a bit, having gone to find either more drinks or whatever bard was performing tonight to request songs, there seemed to be an argument on which should be done. Moments after they left she turned to me.
+
+"Thank you for helping him get into that school." She turned to me, it looked like she was eating a lemon as she said it, but the words alone caught me off guard.
+
+"He worked hard for it. I didn't do anything but help him a bit on the path." I tried to look away.
+
+"Don't be modest, it's rude. I don't like you, but without your help my son would never have achieved his dream." She sighed, "So, when can I expect you two to marry then?"
+
+"Never."
+
+"What?"
+
+"Never, it's not like that, and hasn't ever been. If you asked him he'd tell you the same."
+
+She just stared at me for awhile, seemingly lost for words. It seemed that even after everything she still thought I was trying to steal her son away. It was patently ridiculous to me, but in some odd corner of her mind it probably made sense.
+
+Eventually the boys returned to us and Dras came near. His dad looked a bit spent from the night, even if he was having a good time.
+
+"Hey, so one of my classmates is having a party and I just got invited, wanna go?" He leaned over, whispering to me too loudly.
+
+"Sure," I said, grabbing my coat as I looked at his parents.
+
+"Go on, you two have fun." His dad waved us off. As I left I could swear the man turned to his wife and said "So... when are..."
+
+After we left we ended up at the house of one of Dras' friends. One of those who, like him, hadn't been a noble before everything happened, but rather a commoner, well, a merchant's son. This party was impressively similar to the one I'd put on, with the addition of a few new games and a rather well stocked wine bar instead of cocktails. People were still having a hard time getting ahold of pure enough alcohol, though it seemed that Lucien had spread the spell to a few of his bard friends, as had I.
+
+The evening was fun. The music was good, as was the dancing, and I made it back home before anything troublesome happened.
+
+Queen Sophia
+
+Today found me in my personal garden. I hummed idly as the vines twisted and reformed. Botanical magic had always been my personal favorite, the flowers bent to my will and never tried in response to bend me.
+
+"Hello my love." The calm words caused me to turn.
+
+The voice didn't surprise me, as only one other person was allowed in this room. Not because it was his home, and he could go where he pleased, nor because of some insistence. My dear husband had offered me this private space to do as I pleased, and only after my repeated invitations had joined me.
+
+He was of the opinion that everyone needed somewhere that was theirs alone, some place that they could go when they wished no disturbance. It was a bit of an odd idea, but a nice one. When I'd been younger I'd been followed all hours of the day and night by servants and guards, ministers who'd seen to my every desire. I was told that many who heard that longed for such things, but it was stifling. I never had the chance to just be myself, to do as I wanted without any reports to my parents, or judgment from whatever hangers on I'd been assigned.
+
+It was why I had hated them so. A hatred that had only grown when I'd met Durin. For all of their expectations and desires he met them with a simple response. He wanted me, not some image of a perfect princess, or a brood mare for royal children. No, he just asked what I wanted, and when he understood, all he wanted from me was myself. I was happy to give it all to him, and in return I gained him, a trade I felt I'd quite won.
+
+"Husband, come and join me." I pulled him over to a pair of chairs as he looked at my current work.
+
+"New project?" His eyes flowed over my work with a light curiosity.
+
+"Not as such, no. Just making a new piece to fill out a spot I don't like."
+
+"Ah I see, it is lovely." He smiled as he looked over at the section I'd been working on.
+
+"I doubt you came here to discuss flowers with me. Is something wrong?"
+
+"Not wrong my dear. I've simply come to speak with you on the disposition of a few of the more rebellious nobles from your home."
+
+I felt my jaw clench. We'd had a few incidents where some of those who'd made it through the war ended up turning on us after surrendering, or trying to establish contact with my brother and his little band. Frankly I had little patience for such individuals.
+
+"Do with them what you will. We gave them the option to fall in line, did we not? I see no reason to extend any further kindness if after everything they still won't obey."
+
+"In an ideal world we could capture your brother and get him to call off his resistance. Force him to abdicate all his claims and live out his life somewhere... controlled. As it stands though that isn't possible, and while I know it irks you, I ask that you temper your anger." He gave me a rather knowing look.
+
+"Those nobles conspired against us, their punishment was just." I stood and faced away. It seems he'd gotten word of how I'd dealt with some nobles from the former lands of Bergond who'd tried to find and join up with my brother. I was completely within my rights as the queen of those lands to hand out whatever punishment I wanted. Not to say that he couldn't overrule me if he really chose to, but in theory I could.
+
+"I am not questioning your displeasure at them my dear. You've every right to that, but when you confiscated all of their goods you left their families paupers. Now there are children with nowhere to turn, who likely feel resentment to our government. You know for a fact what those who are cast out are capable of. I'm merely asking you to see such children are provided for. Allow it to be a show of your kindness." As he spoke he wrapped his arms about me and I blushed, perhaps I had been a bit hasty in how I'd responded.
+
+"Very well, in the future I'll leave them with enough to live on, and a house or something. They still need to be watched though."
+
+As I turned to face him he gave me a quick kiss. "Of course watch them. It may lead us to other rebel cells, and thank you."
+
+"You owe me though," I said, pouting upwards.
+
+"Oh, and what do I owe you?" In response I waved my hand and a literal bed made of flowers appeared on a blank patch of soil nearby. Giggling I escorted him into it.

@@ -1,0 +1,347 @@
+---
+id: d1026364-bc5e-5791-92a7-d016b21c4f12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - (Just Like) Starting Over (2)"
+slug: 0006-chapter-3-just-like-starting-over-2
+partOf: metaworld-hopecore
+position: 6
+ownLength: 3582
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364539/chapter-3-just-like-starting-over-2"
+royalRoadId: "3364539"
+---
+
+Madison Avenue.
+
+Midtown East, New York.
+
+At the birthplace of the Mad Men, on lot 550, stood the Sony Belmont Building, a brutalist rectangle in pink limestone, flanked by evergreen arcades and a picture-perfect atrium. The year was 2007, the month was March, and for the moment, the masters that reside below the “ugliest pediment” in New York were on top of the world.
+
+Sony Entertainment Corporation, EMC for short, had recently completed an M&A with BMG that shook the entertainment industry. Under a singular and gargantuan eye-sore of a roof, its board flaunted its largess, having already acquired Columbia, RCA, Epic Records, Arista, CBS, America Records and others.
+
+And this was merely the US branch, a profitable arm of Sony Japan, a sprawling conglomerate that, if graphically tabulated, would look like a WWI anti-Sino propaganda poster of a hairy funnel-web perched over a map of the world.
+
+On the thirty-seventh floor, a group of men with full heads of voluminous hair sat in a circle, watching an aide play a video from a Sony laptop.
+
+After the third loop, Trent Davis, CEO, did his best to immerse himself.
+
+“Who owns this?” he asked his aide with the ruined makeup.
+
+“No one, for now. It’s the girl’s original song, as far as the rumour mill goes,” answered a man to her right.
+
+Davis shifted his focus to this man, his right-hand man, his Vice President of Creative Control, Frederick Curon, the overseer of Data Science and Analytics, the bone marrow of Sony America.
+
+“I want to own it.”
+
+“So buy her out,” Davis shrugged. “Unproven, no followers, no media presence, underage, low-social economic household. $500 should be enough.”
+
+“Trent, you're taking this too lightly,” the creative in the loose shirt shook his shaggy head. “I had Legal make some calls to LA. The original video came from one of the LA Times reporters, who received it from St Marten’s Children’s. The girl’s a patient there. The story goes that she was bullied, tried to end it all, and this song was her dirge.”
+
+Davis leaned back. He understood why Tiffany was in tears, and now he felt a little uneasy. Still, it was a good story. Good songs needed good stories.
+
+“Does she have a guardian?”
+
+“She’s a state ward. The Journalist says DCFS can’t be trusted. LAPA, the school she was boarding at, probably paid the caseworker to bury the bullying. From my understanding, there are receipts."
+
+“Urgh…” Davis grunted. “Do we need this song? It sounds like a legal nightmare.”
+
+“Trent—” His DSA director leaned in with a passion usually reserved for chart-toppers. “I want the song. My guts are telling me that if I miss this… whatever it is, I’ll be regretting it for the rest of my days.”
+
+Trent Davis regarded his friend, partner and colleague with a penchant for boho hair products. Over the years, Davis and his predecessors had learned to trust Curon because, after Sony America acquired him from American Records, the firm saw a Renaissance.
+
+Davis had built his career on the backs of pop ensembles, G-Sync, Blockstreet Boys, Relish Girls… But the biggest earners in the last half-decade were Curon’s picks. His artists’ stable included Idol winners, R&B artists, something called Trap-Rap, electronica, old country blues, and a Canadian skater with pink, punk hair. Unlike his contemporaries, Curon had a way of stripping tracks down to their bone, creating clean melodies, vocals, and basslines that were immediately iconic.
+
+“I just don’t see it on radio play,” Trent fired back at his director. “You know this as well as I do.”
+
+“Who said I wanted it for radio play?” Curon gestured toward the video on the laptop. “Film, TV series, shorts, children’s programs, social media. It’s a whole new world out there, Trent. Besides, we can sell it as a single, digitally.”
+
+“I don’t know.” Davis considered the worst-case scenario. “Your time is precious. This song is ten thousand at the most. 50k, tops, maybe, if we include legal.”
+
+“Glad you agree. Now, I would like to see her myself.” It was then that Davis realised his partner of a decade was wholly serious. “Tell Kenneth to give me jurisdiction on this. I’ve got someone at Sony Pictures who can use this, but we can’t use it without the rights.”
+
+“You’re that serious?” Sony’s head honcho finally sat upright. “You are serious.”
+
+“Let me put it this way,” his Creative Control raised his hands in a gesture that resembled a noose. “If Universal gets their grubby hands on her because of a mere five-figure budget, I am going to defenestrate Kenneth over there. Try explaining that to HR.”
+
+Their VP of Finance and Operations finally looked up from his laptop with a wild expression of alarm.
+
+“Well.” Davis had to relent, because his Director of Data was right. No matter how much they overpaid for the no-name with the flaxen mop, there was no greater shame than losing a good song to god damned Universal Music.
+
++ Karmic Causality
+
++ Karmic Causality
+
++ Karmic Causality
+
++ Karmic Causality
+
+Lana Zacanissian had grown numb to the incessant notifications at the edge of her eye after the fourth day.
+
+After breakfast, she exercised for half an hour with Dr Hughes, then wandered around St Marten’s, trying to make sense of her present world.
+
+In the hospital library, she found only children’s books, some YA fiction, and came at last to the conclusion that indeed, she now lived on a parallel earth. For one, there was no Harry Potter in the library. There was another series, though, something more Percy Jackson than Potter that seemed to have taken its place, though it seemed that The Baby Sitters’ Club was a series that transcended cosmological constants.
+
+One gobsmacking piece of information she did find was a children’s book on United States Presidents from the past to the present.
+
+Until the year 2000, EVERYTHING was in order, except for one Y2K glitch in the singularity matrix.
+
+Albert Arnold Gore Jr was the 43rd President of the United States. The Supreme Court was mum on the validity of the Florida recount. Consequently, Gore won 271 votes with a popular vote margin of over 500,000.
+
+In 2008, there would be another election to find the 44th President, but for now, Gore was sitting on the laurels of his historical accomplishment—the phasing out of fossil fuels for green energy, at least within the USA. What this meant for the world Lana was once familiar with, she had no idea, but the children’s library was certainly not the place to speculate. She had wanted to tease out more information from her physicians, but they found her interest in politics and economics cute and gave only vague, ambiguous answers.
+
+As such, given that there was nothing else she could do, she decided on self-improvement.
+
+“[Potential]”.
+
+Euphemia Fontaine [Lana Zacanissian]
+
+Causality
+
+Strength
+
+13
+
+Athletics
+
+378
+
+Agility
+
+20
+
+Acrobatics
+
+Health
+
+Vitality
+
+17
+
+Endurance
+
+Pain Suppression
+
+19 / 35
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception
+
+Legalism
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+24 / 30
+
+Charisma
+
+15
+
+Persuasion
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+Dasein
+
+Comeliness
+
+22
+
+Seduction
+
+56
+
+TRAITS :: [Prophet of Profits]
+
+Inactive :: [Weak Willed] [Demure] [Fearful]
+
+[Crippled] and [Silenced] were obviously gone. She had grown tired of being tired all the time, so she had shored up [Vitality] by another 2 points, which gave her more [Health]. The resulting increase apparently healed her negative [Strength] and other associated statistics, as well as her overall sickly appearance.
+
+This was, of course, another example of a medical miracle, and Dr Harper was seen carrying a Bible after her latest biomedical examinations had made their rounds around the conference room.
+
+Nurse Bessey seemed over the moon, interrupted only by a general air of melancholy, which seemed to stem from her impending discharge, a sentiment shared by Dr Hughes.
+
+Lana’s worry, however, was over [Dasein]. Originally, she had over 1000 [Causality]. She had spent 10 to 1 for [Dasein], then wrongly assumed this was the flat rate, until her store dropped to 500 after she commanded the system to give her another month or so of borrowed time.
+
+The cost is exponential, compounded by circumstances, was her conclusion. There was no hard math here, because who could truly quantify human potential? Well, according to the [System], she certainly could, but the rules were forever changing.
+
+She also discovered that the numbers did not indicate instant growth, as in the tabletop games Lana knew of but never played. For example, she had spent sixty-odd [Causality] on improving [Agility] to 20, thinking that, perhaps, there’s a very good chance she might have to run from the reason why Eppie was in the hospital. Yet, she did not feel more agile—
+
+—but she did find performing Dr Hughes’ routines to be more natural, and less burdensome on her still-developing Persona body, and if she had to describe the sensation, she would say that her body had “yet to reach its [Potential]”.
+
+Whatever the case, Lana had come to accept, over the past half-week, that she was a Woman of Sin, and that indeed, this was some kind of Cosmic Penance.
+
+As always, her contemplation of the [System]’s fuzzy math was disrupted by a gentle cough.
+
+It was Dr Mills, and he had come to retrieve her for food, or examine her, or both.
+
+“Miss Fontaine? There’s someone here to see you,” Mills was more meek than usual. “Quite a few people, actually. They say they’re from Sony BMG?”
+
+Lana knitted her brows.
+
+In her old world, Sony had remained a giant, but it had long been overshadowed by its inability to keep pace with AI. By the time Netflix bought Paramount-WB, Sony had calmly settled into the role of a content creator for the big boys’ catalogues. Considering how many people had given her [Causality], Lana suspected it must be because of the Doris Day song. Maybe there was a Doris Day by another name, and now Sony wanted its cut.
+
+But alas, a cut of what?
+
+She had no money, no property, not even a home.
+
+Which was fine. Once she settled, she could probably build a million-dollar portfolio in a year. After all, she was an expert negotiator, the co-author of a book on hostile M&A, and the ghostwriter of a book for her boss that topped the NYT best-seller list.
+
+“Thank you, Dr Mills. When and where can I meet them?” She replied sweetly.
+
+“You’re going to meet them?” Mills fumbled with his clipboard. “You don’t want to… maybe ask Director Harper to intervene?”
+
+Hell no. Lana almost rolled her eyes. What would the kind Dr Harper think of his dear Euphemia Fontaine if she started blasting corporate jargon with the best of them? If he did, the man’s newfound faith may inspire an exorcism.
+
+As a hospital for kids, the public library area was equipped with therapy rooms, one of which Lana commandeered for the occasion.
+
+There were three men in total who came to greet her, none of whom Lana recognised, which was about what she expected. The handsome young fellow had the look and smell of a lawyer; the smaller man in the three-piece suit could only be from finance; and the last guy, wearing an 80s band shirt, boot-cut cargos, and absolutely wild hair, could only be their boss.
+
+“Hello, Euphemia. I am Frederick Curon, Director of Data and Operations for Sony BMG. How are you?”
+
+The suits moved to sit, but the director did not. When they realised this, they awkwardly pretended to be finding the right angle to slide into the worn furniture. Lana also noted that Curon did not introduce his colleagues, probably because they were accessories to the discussion.
+
+This was good because Lana always preferred a single negotiator over the collaboration of short-sighted, indecisive ass kissers.
+
+“I could be better.” She smiled, patting down her wild hair, wondering how natural her expressions were when forced onto the guileless face of Euphemia Fontaine. “May I ask what the purpose of your visit is?”
+
+They shook hands. Curon’s grasp was the hands of a conductor—hard, sinewy, long-fingered and powerful. Comparatively, her girlish fingers disappeared into the man’s palm.
+
+The two of them sat; the rest followed.
+
+“Sony BMG would like to purchase Whatever Will Be.” Curon did not beat around the bush. “We understand your circumstances, Miss Fontaine. We are offering a generous contract that will give you enough of a financial push to return you to a normal life.”
+
+The suit slipped a stack of papers from his suitcase and pressed it toward her.
+
+“Usually, we purchase Master Recording rights from young artists like yourself at a relative pittance—around $500 to $1000. That said, your performance has gone viral, and there is already demand for the song Whatever Will Be. You are not a recording artist, though we understand you attended a performing arts high school. If you are unable to reproduce the song to the high standard of quality we expect, Sony hopes that another artist in our stable will perform the song on your behalf.”
+
+The man spoke slowly and meticulously, meaning he wasn’t a shark in a suit. From his very demeanour, Lana could read that Curon must be fairly close to the C-suite if a creative type was left with the purse strings to negotiate the rights to a song.
+
+She already knew exactly what she wanted, but she still faked a meticulous reading of the legal jargon, asked questions where appropriate, and used a faded texta as a highlighter.
+
+What Euphemia needed right now, more than anything, was money.
+
+She needed a house, a car, health insurance, and enough creature comforts to make her second life worthwhile. That, and she would very much like to find out what the hell happened to Euphemia, for which she needed lawyers. Either a very accomplished lawyer or a team of middling ones. All of which meant money, Money, MONEY.
+
+After some thirty minutes, she slid the paper back.
+
+The balding man took a pen to the paper, his eyes growing wider with every page.
+
+“Label owns Master, returned after 30 Years?” The lawyer’s forehead was glossy. “25% Royalty for media purposes? 75% for streaming? Absorption of production costs? $3000 advance? Conditional Creative Control…”
+
+The lawyer looked at her suspiciously. “You seriously understood all of this?”
+
+Curon laughed. “Is this not your first rodeo, Miss? Have you been offered one of these before?” The Director then stopped as if struck by an epiphany. “That is, did… er… did Universal come by earlier?”
+
+Lana did not fault the man for his suspicions.
+
+The internet was already maturing, and with video-sharing platforms and everything from Myspace to YouTube, it isn’t unthinkable that a child with a knack for chorus lines could have already sold music under a generous NDA.
+
+Lana nodded.
+
+Let the man think whatever he wants. She was here to make money—
+
+Personal profiteering will result in Karmic Rebound
+
+What?
+
+“Assuming we accept your proposal, what will you sign under?” Mr Lawyer Man raised a hand. “You are fifteen, Miss Fontaine, are you not? Have you been financially emancipated?”
+
+Lana wanted to respond, but she was completely overwhelmed by the blaring message covering half of her vision.
+
+Karmic Rebound in progress
+
+“Er… I am sorry,” she tried to swipe away the display, but there was nothing to click. “I actually have no idea.”
+
+“The court records we have acquired say that you are not,” the suited fellow followed up. “But that is itself no object. Are you aware of Coogan Law? Subject to confirmation by the Los Angeles court, Sony BMG will sign. We shall establish a personal Trust. 15% of your earnings will be placed in this Trust. All of the above are also subject to regular tax authorities. Usually, your caseworker will be consulted, but we understand that there are extenuating circumstances, and our legal team will help you establish legal and financial independence as a one-time favour from Director Curon.”
+
+Given her prior occupation, Lana was no stranger to contracts with minors. She was not completely privy to the details, however, because that was the legal eggheads’ job. Whatever the man said, however, she wasn’t listening, because the system was mad as a kicked cat at the prospect of her earning enough change to live.
+
+[Karmic Rebound]
+
+Tread not the path you once walked. Atonement is penance.
+
+Due to the Prophet of Profits, the penalty for Karmic Rebound is maximised.
+
+Jesus jumping Christ! Her heart leapt to her throat as her blood pressure shot to triple digits.
+
+Her [Potential]!
+
+Every statistic she possessed other than [Wisdom] and [Intelligence] dropped by 1! Everything she had invested in was… was literally decaying. Her potential, all that [Causality] she had garnered, all for nothing!
+
+“Miss Fontaine?” the worried voice of the Data Director hovered over the howling of blood pounding in her ears. “Are you alright? Eric! Go and get the Nurse. Go get Dr Mills!”
+
+“I… I am alright…” Lana forced herself up. “Don’t go.”
+
+She had no confirmation, but she had an inkling of what she must do. Having sat through half a lifetime of contractual conferences, she should have known better than to ignore the fine print.
+
+Karmic Rebound is balanced against the simultaneous creation of Karmic Causality.
+
+That was what the [System] had said the first time. If so, combined with the [System]s’ blatant penny pinching, what had to be done was kind of obvious.
+
+“I was just a bit overexcited. I wasn’t expecting you to actually accept.” Lana forced the bile back down her throat. She wasn’t actually sick, but she was, for a little moment, actively dying. “Could I redo the amendment?”
+
+Mr Lawyer and Mr Finance certainly weren't pleased, but Curon didn’t seem to mind. “What else would you like to add to it? More advance payment? Shorter copyright term? Do you… Want to perform the song yourself?”
+
+Personal profiteering will result in Karmic Rebound
+
+Alright! SHUT UP—! Lana fought down the urge to physically assault Euphemia’s brain.
+
+“No, nothing like that,” she groaned internally even as the words left her mouth. “I… I am just so grateful to St Marten’s for looking after me like this. Dr Harper and the others, I know they’re struggling as well.”
+
+“That’s their job…” The finance guy was oozing suspicion. “Are you asking us to co-pay your co-payment?”
+
+“Miss…” the lawyer protested as well.
+
+“Eric, let the girl speak.” Curon raised a hand. “I have jurisdiction here.”
+
+“I was thinking.” Lana’s mind spun up what legalism she still could filter through Euphemia’s wetware. If they’re using Coogan’s Law, and Sony was happy to set up a Trust overseen by LA County, then surely they would prefer the latter. “Forget the advance payment. Can Eric there set up my royalty so that 50% of everything goes to St Marten’s, while the other 50% goes into an education fund for my independent living? I’ll give Sony the right to the song in perpetuity. Just help me with legal Emancipation.”
+
+The trio from Sony looked at one another.
+
+“Your Coogan Trust cannot be accessed in full until you are 18,” Eric, the lawyer, softened his tone. “But yes, we can petition the state to release your essential and educational expenses in a separate Trust. That said, there has to be money in the account first.”
+
+“If we will own the song in its entirety, for perpetuity, then I’ll advance $30,000, and we’ll count Euphemia’s royalty proceeds against the balance as a line of credit,” the Director glanced at Mr Finance. “Is that doable?”
+
+“We can. St Marten’s has a Charity Trust.” Finance nodded in approval. “Payroll can directly pay into it, including Miss Fontaine’s Trust when it's certified. As a tax credit, we can then write off the whole thing.”
+
+“Alright, that settles it.” Curon studied her intently; the man’s gaze grew sympathetic enough that Lana felt suddenly self-conscious. “But I am curious. You’re well spoken. Too well-spoken, in fact. You are also exceptionally confident. You can read the gobbledygook in Eric’s contract as well. These are signs of a very intelligent, very capable young woman with a bright future. Can I ask something, as your future business partner and the guarantor of your emancipation?”
+
+Lana knew what the man was going to ask, but it wasn’t like she could charge him consultancy fees.
+
+She shook her head.
+
+“Then I won’t ask.” The Director tipped his chin at Eric. “I hope this isn’t the last contract we sign.”
+
+Eric, the lawyer, slipped over a provisional contract. “Miss Fontaine, this is a …” “Provisional. Effective only for a week while you draft the real thing. I know.” She smiled back. It must have been a pretty damn good smile, because Eric’s suspicions softened some more. “I won’t renege, I promise.” Lana wondered if she should tell him that there was nothing to renege, because there was a literal system of supernatural Karmic balance preventing her from being the chief beneficiary. With a flourish, she signed on the dotted line.
+
++ Karmic Causality
+
++ Karmic Causality
+
++ Karmic Causality
+
+The men carefully observed her perfect cursive. They admired a signature that had graced the cover page of annual reports read by some of the wealthiest people in America.
+
+“Pardon me,” Eric turned the page a few degrees so that he could read better. “Who or what is Lana Zaza-za-za-N?”

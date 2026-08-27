@@ -1,0 +1,269 @@
+---
+id: 5da2efee-06c3-5440-93d3-be9a621e100e
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 538 - Anniversary"
+slug: 0036-chapter-538-anniversary
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 36
+ownLength: 3017
+unit: words
+ownProgress: 3017
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2121533/chapter-538-anniversary"
+royalRoadId: "2121533"
+markedReadAt: "2026-06-29T19:36:27.132Z"
+---
+
+Here Begins Homebound, Book 13 of Millennial Mage
+
+Tala woke early on the morning of her one year anniversary, warm in her bed, within her sanctum that was safely ensconced stoneward of Alefast, Waning.
+
+Rane was sleeping beside her, one of the main reasons for the warmth of the bed—which was closer to hot, but with her enhanced physiology it was still quite pleasant.
+
+In truth, they’d both woken earlier, but after reaffirming their bonds, they’d fallen back asleep, embracing once more.
+
+Now, with the sun rising over their sanctum, Tala felt it was time for her to rise… but she was so comfortable…
+
+-Just sleep a bit more, Tala. You both—separately I might add—asked Mistress Petra to have your breakfast held until mid-morning. The woman is taking the time to go a bit overboard, if we’re being honest.-
+
+Tala hmmed at her alternate interface before curling up against Rane’s back once more. He seemed to feel the contact, shifting away before rolling so that she could pillow her head on his chest and shoulder, the man still apparently asleep.
+
+She wasn’t honestly tired. Even the sleep she’d just woken up from hadn’t been needed, but there was something deeply wonderful about sleeping beside her husband, and today was meant to be a special day focused on things just like that.
+
+As a detraction from that, Master Girt’s passing was still fresh in their minds, even though it had been over a month. They, of course, weren’t expecting to have forgotten the man in such a time, but they were surprised at how raw his passing still felt.
+
+Meallain was in effective isolation, with the powers that be in lengthy councils to decide what would become of her—apparently usually with her in silent attendance.
+
+Rane and Tala had been asked to give their input on the matter, but they’d both refused, stating that they would honor whatever was decided.
+
+Tala did concede that regardless of the outcome, she needed to have at least one conversation with the elf within her sanctum before anything permanent took place.
+
+That had been agreed to with little difficulty, and so Tala had put the matter from her mind.
+
+-Liar.-
+
+Hush, you. I’ve barely thought about her over the last month. I had my siblings here for an extended visit… and their children. Tala had four nieces and nephews already, and while they were fun little bundles of joy—and their parents loved the immediate clean-ups available in Tala’s sanctum—seeing them had been a constant, painful reminder that she couldn’t have her own children. Not yet.
+
+-Aren’t you just a bucket of sunshine this morning?-
+
+Tala gave a small smile. I’ve noticed that—when he’s holding me—I can face what’s actually bothering me more easily.
+
+-Aren’t you just sickeningly sweet this morning?-
+
+She huffed a laugh, then, accepting Alat’s teasing for what it was. How are you and Enar?
+
+-We’re great. Thank you for asking.-
+
+Tala had an invasive thought that she voiced internally, knowing Alat had already seen it regardless. I wonder how many anniversaries Master Girt and Mistress Stonia had.
+
+-Such personal information isn’t available for casual inquiry, but I would bet that I could find out with relative ease.- Alat then saved them both some time by continuing. -But you don’t actually want that. You are just feeling the loss of a friend, and that causes even little similarities between the two of you to draw him back to mind.-
+
+Yeah… She and Rane had talked about it at length over the last weeks. They’d also both had sessions with Master Nadro, both together and as individuals.
+
+That man was in Alefast, Waning as a consultant in the Meallain… issue, but he had been carefully kept from the elfin Eskau’s direct attention.
+
+He was still a trump card in the cycling cities’ defenses, and they were loath to expose him, especially with Meallain’s occasional contact with the House of Blood.
+
+There had been a total of four messages exchanged, each rewritten and reworded before they were sent. The same with the replies before Meallain was allowed to read them.
+
+It was likely an excess of caution, but after Tala confirmed that Eskau were instructed on how to code hidden messages into other information—and that each Eskau was taught different methods partially as a means of authentication—it was agreed to not take the chance.
+
+But all that was to say that Master Nadro was physically around and available to help with the grieving process.
+
+Tala honestly hadn’t needed him—not for this—though he had still helped. She was certain that Master Girt would have been quite content with how things had turned out. He successfully saved a friend who was a more powerful Defender of humanity than himself, held up an oath to another friend and spared her from the heartbreak and pain that he went through so soon after they’d wed, and reunited with his beloved, proving that his anguish wasn't for nothing.
+
+Even so, Tala was sad that her friend was no longer with her… not that she’d been around much of late. That, honestly, had made it worse.
+
+She was very indirectly responsible for his death, and she hadn’t spent much time with him recently. If she could go back she would definitely change the second and would probably change the first even if her reasons were on the selfish side.
+
+Rane, though. Rane had taken Master Girt’s death hard.
+
+The man had died to save Rane, after all. Her husband was immeasurably grateful for that—she was too, obviously—and that gratitude had no one to be directed at.
+
+Master Girt had descendants, but he and his wife hadn’t had any new children for at least a hundred years before her passing, and by this point, those who likely still existed had no true ties to the man. Apparently, none of their magically inclined children had survived to this point.
+
+That had been a sad thing to learn, and it had featured prominently in some of their other discussions.
+
+But she was going off on a tangent again; back to Master Nadro. In one of their sessions together, Rane had given a bitter laugh before saying, “In a way, I almost feel angry with him. I can’t even say ‘Thank you’ because he’s gone.” Rane had looked so conflicted. “I know that that is silly, but something within me won’t let it go.”
+
+Master Nadro had been his usual understanding self, and they’d all talked through it, the older man mostly asking questions, only inserting a statement on occasion to help open up the topic for greater scrutiny, moving toward clarity.
+
+In one sense, Tala understood Rane’s feelings. She felt a bit of the same if she were being honest, but her feeling was more of sadness than of anger. She supposed everyone processed such things differently though.
+
+-Spending the morning of your anniversary thinking of another man… for shame, Tala.-
+
+Tala rolled her eyes, but had to laugh, at least internally. Fine. I’ll stop wallowing.
+
+-Did you get Rane anything?-
+
+Get him? You mean as an anniversary present?
+
+-Yes, Tala. I mean as an anniversary present.-
+
+…You know the answer to that.
+
+-Well, of course I do. Don’t you think I know that too?-
+
+Yes? …Now I’m confused.
+
+-I’m asking because I want to highlight the answer. Do you know why?-
+
+Tala let out a little groan. Because he got me something…
+
+-Exactly.-
+
+Well, now I feel like a bad wife.
+
+-Fear not. We did get him something, and because you and I are one, that means you got him something.-
+
+Oh! Tala felt a wave of relief wash through her. Well, that’s wonderful. Thank you, Alat.
+
+-Yeah, yeah. Try to remember such things on that half of yourself next time.-
+
+Tala sent a feeling of affirmation. So? What is it?
+
+-An elf mistress!-
+
+Tala hit Alat.
+
+There was a moment of stunned silence before, -How…? How did you do that? What even did you do?-
+
+I’m… I’m not sure? Tala thought about it, and then she and Alat realized that she’d somehow used her will and authority to impose the feeling of being hit upon Alat. Huh… I didn’t know I could do that.
+
+-Oh, I do not like this development.-
+
+Well, then, tell me what you actually arranged?
+
+-An over-thick white steel bracer with bindings and structure of iron and sapphire. There is also a compilation of notes on how he can form pieces into any carving tool he desires at need, or into a small shield or anything else within the mass limitations. A talon with artistic experience created the iron and gem lattice to represent your union.-
+
+Oh! …Wow… That’s really great. Thank you. She felt bad for a moment that she hadn’t considered such a thing before. Still, it was good that she was getting it for him now.
+
+-Of course… don’t hit me again.-
+
+Tala narrowed her eyes. Don’t give me a reason. Besides, She couldn’t help but grin. It’s not like I really hurt you. The pain was just in your head.
+
+-...We’re a jerk sometimes.-
+
+Yup! She gave Rane another squeeze, then willed herself out of bed, appearing just beside it, looking down at her husband.
+
+Should she let him sleep?
+
+I could… Or… I could wake him up… She felt a smile pulling at her lips.
+
+That made the choice easy.
+
+* * *
+
+They were a bit late for their scheduled breakfast even though that had already been scheduled for much later than usual. Thankfully, due to the magics in their kitchen and dining room, the food was all in prime form.
+
+The meats, baked goods, and warm sauces were hot and steaming—somehow not drying out or developing any ‘dry’ parts—the fruits, creams, and cheeses were well chilled, and everything looked as perfect as the moment Mistress Petra and her assistants had laid it out.
+
+As the couple sat, Rane let out a contented sigh. “I told you that Master Grediv asked to drop by later today, right?”
+
+Tala nodded, taking an unneeded—but greatly enjoyed—pull of coffee. “You did, yes. Mid-afternoon, right?”
+
+“That’s right. I thought we could have tea, and then go for a walk in the Garden of Remembrance.”
+
+She hesitated for a moment. “You finished, then?”
+
+He nodded. “Yes. I am sorry that it lined up with our anniversary.”
+
+She shook her head. “We wouldn’t have an anniversary without him. I would have been a widow before we’d even been married for a year. As much as his passing is still a weight, his sacrifice allows all the joy we have had since and all that we will have going forward.”
+
+Rane smiled at that. “Well put, my wife. Thank you.” There was a moment of hesitation before he added, “Master Grediv may try to give us a City Stone again as an anniversary present.”
+
+“If it didn’t come with a city, I’d accept.”
+
+Rane chuckled. “Yeah, he did not particularly like that response.”
+
+Tala shrugged, then leaned against him for a moment before straightening to grab a small bowl of fruit. “Come on. We’ve a lot to do today. You said you wanted to fit in some more training, too?”
+
+He looked her way, his features softening and relaxation visibly moving through him. “You’re alright with that? With me training even on our anniversary?”
+
+“Of course. I know how you feel, and I’m all for you becoming even more competent than you already are.”
+
+He huffed a laugh, shaking his head. “You bent over backward to word that kindly.”
+
+“No, I bent over backward this morning.”
+
+He flushed slightly, then frowned. “Wait… no you didn’t? What? Did I miss something?”
+
+She bumped him with her shoulder, feeling a bit silly. “I was trying to be playful, not accurate.”
+
+“Ahh, I see. So you were bending the truth over backward to make an implicative joke?”
+
+Her mock glare had no effect on him save to make his smile grow.
+
+“You know I love you, right?”
+
+The change in his tone caught her off guard. “Yes? Of course I do. I love you, too.”
+
+Rane nodded once, turning back to his food. “Good. Let’s eat. I don’t know why you’re dawdling. We’ve lots to do today after all.”
+
+She laughed, bumping him again before leaning in and resting her head on his shoulder as she ate. It was a bit uncomfortable, and it made the whole process longer and harder, but she reveled in the contact.
+
+This was where she belonged, with him.
+
+* * *
+
+Force slammed into her stomach, Tala taking the blow purposely to work on mitigating the damage done by undodgeable attacks.
+
+The kinetic energy rippled through her, tearing at her very cells, but her magic counter-healed, essentially fixing each part of the damage as it was trying to happen.
+
+On the macro level, Tala punched toward her husband, causing him to roll away, twisting in mid-air in an unnatural movement that kept him from being struck.
+
+She wasn’t using Flow, even though she was using the Way of Flowing Blood.
+
+Their back and forth was at about half-speed, and neither were using armor or any physical augmentation beyond what they had at all times.
+
+Rane’s added reach—both because of his longer limbs and due to the sword he wielded—put him at a distinct advantage, but that was alright, because the whole purpose of the exercise on Tala’s side was to improve her response when taking hits.
+
+On Rane’s side, he was working on landing hits without exposing himself to retaliation.
+
+His fighting style had been built upon devastating blows that usually rendered his target dead. At least, that’s how it had worked at the lower tiers of advancement.
+
+Now, though? They were regularly fighting things that could take at least one or two of his blows before death, and that changed things drastically. Rane had to change how he fought if he wanted to continue succeeding in said clashes. He could no longer over-extend to end the fight quickly, assured that—so long as he could touch Force to them—victory was his.
+
+Thankfully, that isn’t what had allowed Master Girt to be killed, what had required the man’s sacrifice. This was simply training that he needed to do regardless.
+
+To mitigate that, Rane also trained without magic at other times, working to improve his base reactions and competencies.
+
+Regardless of his own training, these bouts were an enjoyable—if a bit unconventional—way of getting sweaty with her husband, and that was more than fine. They were a bit of an unconventional pair.
+
+Her smile grew as she focused on her movements even while unarmed. It was a common misconception that Eskau needed their protian weapons to be truly effective. While that might be true for the Eskau of some Major Houses, it was not for those of the House of Blood. Empty hand fighting was, in fact, the foundation of the Way of Flowing Blood. For them, unarmed movement was the standard, with varying weapons slotted in as needed to vary range and target type.
+
+This was Tala’s element, and even with all of Rane’s advantages, she still matched him more often than not, even overcoming his defensive magics through proper positioning to force him to withdraw or have his attacks spoiled as his own magic tried to keep him from being struck.
+
+It was a testament to their different fighting styles. Hers was specifically geared toward taking hits as appropriate, where his style was almost entirely around not allowing any to connect. With that in mind, his contact with her was as much a part of her defense as his magic moving him out of the way.
+
+Because of that, they both were quite well aware that she was actually ‘engaging’ his magical defenses more often than he engaged hers, as stood to reason. Though, in truth, she wasn’t actually counting.
+
+…Alat was.
+
+Alat—and Tala’s perfect memory—made not counting impossible, but Tala wasn’t keeping track, herself. Instead, she was simply enjoying yet another facet of her relationship with the man she loved.
+
+* * *
+
+Tea time came sooner than they’d have preferred, but Alat and Enar ensured they had enough lead-time to bathe and get cleaned up after their sparring before Master Grediv arrived.
+
+Mistress Petra and company had laid out a wonderful spread of tea-time snacks as well as ten different types of tea, each brewed to perfection and kept warm by amazing magic.
+
+I do so love this place. I have to be careful or I’ll become indolent.
+
+-Become?-
+
+Hush you.
+
+Tala almost asked a silly question like, ‘Are there really that many types of tea?’ but she thought better of it, and simply thanked the woman after she’d presented the layout for their approval. Mistress Petra, of course, accepted the thanks, bowed, and departed with a minor act of will exactly as Tala opened a portal out to Alefast, Waning at the appointed time.
+
+The gate opened right in front of Master Grediv as he walked into range of Kit, causing the man to hesitate momentarily before walking through. He huffed a laugh and shook his head before muttering, “That’s only slightly disconcerting.”
+
+He had a smile on his face even before Rane walked over to give his old mentor a hug.
+
+Tala hugged the older Paragon after, a smile tugging at her lips. It wasn’t every day she was able to surprise him, and so it was entertaining to have been able to do so.
+
+She only felt a bit uncertain at the man’s presence. After all, Master Grediv had willingly entered into their domain, placing himself under their authority. To be fair, they were in his city, so they’d done the same to him—even if to a less extreme degree given that his authority was on the superficial of Zeme and therefore not as contained as theirs within Kit.
+
+Still, they were, all three, currently a tangle of overlapping authority, both actual and granted.
+
+She shook her head and grinned. It was going to be an interesting afternoon.

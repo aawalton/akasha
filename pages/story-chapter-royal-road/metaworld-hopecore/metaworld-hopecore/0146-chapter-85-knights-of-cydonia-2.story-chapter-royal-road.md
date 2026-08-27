@@ -1,0 +1,263 @@
+---
+id: d723edf7-2fe1-58cb-8f15-c082aa560d10
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 85 - Knights of Cydonia (2) "
+slug: 0146-chapter-85-knights-of-cydonia-2
+partOf: metaworld-hopecore
+position: 146
+ownLength: 2982
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3762074/chapter-85-knights-of-cydonia-2"
+royalRoadId: "3762074"
+---
+
+Eppie watched as Simone served the table’s snacking plates—preserved radish, roasted peanuts, dried fish, dipped celery, crispy jellyfish ‘head’, and two pots of steaming tea.
+
+Lim and Valorie made small talk with Eppie, discussing how they would broach the subject to the kids while they waited, listening to her with expressions of timid wonder as she explained the rationale behind William’s growing powerlessness.
+
+About ten minutes in, Kitty Meng arrived.
+
+Eppie watched Simone show her first victim through the door. Kitty froze at the threshold, her eyes scanning the room and landing first on Valorie, then on Eppie. Like in Lim’s story, Kitty was an effortlessly cool tomboy, with backswept hair cropped at the neckline. Wordlessly, she slid past the empty chairs and sat next to Lim. She wore a cropped tee and loose jeans, all age-appropriate, and a pair of ragged Converse All Stars.
+
+“I am Euphemia,” Eppie extended a hand. “You can call me Eppie.”
+
+“Kitty Meng,” Kitty shook her hand. “Let’s talk later. I assume the others are coming?” Unlike Lim, Kitty’s accent was flawlessly Californian.
+
+“They are,” Lim said.
+
+“Good.” Kitty poured herself a cup of tea, grabbed a handful of peanuts, then crossed her legs. “About time.”
+
+Nice. Eppie liked the girl already.
+
+She watched as Simone’s next victim came in, flirting and laughing, his eyes glued to Simone’s neckline, then choked on his own saliva to the sound of Simone clicking shut the door.
+
+Eppie watched it in real time, the boy’s eyes going from Val’s dress to Lim, then from Lim to Eppie to Kitty. Luis was the everyman Cantonese, short, tanned and sporting a mid-line haircut like a daytime idol from HKTV drama.
+
+“Wait,” he said. Then he said it again, catching his breath. “Lim. Wang-ge. Do you have any idea what this looks like?”
+
+Lim grinned. “Sit down before I make you sit down.”
+
+Luis laughed without mirth. Lim’s giant hand landed on his shoulder like a rider calming down a startled pony.
+
+“Hi. I am Euphemia,” Eppie extended a hand. “Eppie for short.”
+
+Luis looked smitten before she could even react. “Hi… have I seen you on TV?”
+
+“Luis, shut up,” Kitty kicked the man from under the table. “Wait for the others.”
+
+Luis sat, but his eyes were glued to Eppie.
+
+Someone has a thing for blondes… Eppie smiled at him, and the boy’s throat began to bob like crazy.
+
+Thankfully, their next victim arrived. As before, Simone clicked the door closed like a correctional officer introducing a new cellmate.
+
+Jimmu was tall and lanky, but in an athletic way, demonstrative of his place in Lim’s martial arts association. His eyes, Eppie noted, did not go to Lim or herself, but to Val. Not Val’s face, but her dress.
+
+“Y-You’re wearing it?” he stammered. “M-mum said you w-wouldn’t!”
+
+“I love it,” Valorie rose from her chair and took the stammering man by the arm, then sat him down and poured him a cup of tea to settle his nerves. “Please tell your mother that I love it. It’s a beautiful dress, and I was a fool to reject it. Can you tell her that?”
+
+“Y-yeah!” Jimmy nodded, then suddenly noticed other people in the room. “She’ll be s-so h-happy… Oh…”
+
+“Hello! I am Euphemia Fontaine,” Eppie extended a hand. “Please call me Eppie.”
+
+“H-h-hi,” Jimmu clammed up. His mouth moved, but no sound emerged.
+
+“We wait,” Kitty told the man. “Eat.”
+
+Jimmu ate the snacks.
+
+“That leaves Edson.” Lim got up and walked to the door, then to Eppie’s surprise, he stood behind it.
+
+After a minute of uncomfortable silence, the door opened.
+
+Edson came last, guided by Simone, the scandalous Ferry Woman of the Underworld. He took one look at the table, at the people there, at Valorie, then turned for the door.
+
+Eppie winced when Lim slammed it shut an inch from his face.
+
+“Sit,” Lim said, not unkindly, but far firmer than Eppie expected.
+
+Edson stood very still for a moment, hand still half-raised toward a door that wasn't opening for him. Then he turned around, walked to the table like a man attending his own sentencing, and sat.
+
+Edson didn't say anything. He didn't need to. Eppie had seen that expression many times before. Edson was the weakest link. Edson was the man most likely to tattle to William Chen.
+
+Lim sat closest to the door and instructed Edson to sit beside Eppie. The seats were all filled now, except for one.
+
+When the door opened again, it was Simone with a yumcha cart, its layers laden with the opening dishes to a traditional Cantonese banquet. In her tiny dress, watched by her peers and friends, their mei mei served the cold cuts, arranged them to be photogenic, then added on the poached spring chicken, quartered roasted pigeon, char siu, pork belly, and a massive plate of XO pipi overflowing with dried scallop, layered on top of crispy vermicelli.
+
+“Simone. You stay,” the voice of Uncle Lai filtered into the room through the door. “Lim say it important.”
+
+Simone stayed, finding a seat beside Lim.
+
+She looked terrified. Not of Valorie, not of Lim, not of the families, but of the smallest girl in the room. Simone, with a herbivore’s instinct, recognised the one true predator in the room.
+
+Eppie understood the girl’s fear. If each of them had kept monolithic secrets, then Simone was the girl caught in the fault lines. She had kept, from each of them, secrets that only she knew, even if the secret was the secret itself.
+
+At last, Eppie observed, the Round Table had gathered at Camelot.
+
+And now, she supposed, it was time for the sorceress to give her quest.
+
+The room was silent. The pipi was rapidly cooling.
+
+Lim sat with his back against the door, and Simone sat with both legs closed and hands on her knees, smiling like a waitress trying not to anger an unhappy customer. Kitty sat with her legs crossed, and her arms crossed, too cool for the timid Jimmu, who sat like a man warming a hot stove. Luis looked like he could propose, if given the chance, and Edson looked like he’d rather be anywhere else.
+
+No one wanted to speak. No one knew what to say.
+
+Except, Eppie guessed, herself.
+
+She stood, all five-one of her, which wasn’t very impressive on its own…
+
+Comparatively, her [Charisma], [Comeliness] and [Persuasion] were nothing short of forces of nature distilled. It was a strange sensation, for the last time she had exercised her public speaking skills was at a paid conference attended by men and women with net worth in the multi-billions. Now, she was giving a free seminar to a bunch of kids, half of whom did not want to be there.
+
+Funny, Eppie mused to herself, how life worked. Considering her novice audience, Eppie elected to employ a Ciceronian methodology.
+
+First, Exordium—Ethos.
+
+“Good evening, ladies and gentlemen,” she began blandly so as not to frighten the children. “Thank you all for coming tonight at the behest of Wang-ge. Some of you already know me. For those of you who do not, my name is Euphemia Fontaine. I am sixteen years old. I am a student of LAPA. I am a songwriter in my spare time. I have multi-million dollar contracts with Sony Music. I am also the youngest recipient in history to receive a Grammy for original songwriting. In March, I attended the Met with Vice President Joel Lieberwitz.”
+
+The table’s murmurs grew gradually silent. Jimmu’s mouth hung open. Luis looked like a man who had swallowed fireworks.
+
+She had their attention.
+
+Now, for the Narratio–the facts.
+
+“Last September, I found myself on a rooftop, beside the giant glowing sign on top of our school, the one that reads LAPA. According to eyewitnesses, I was there to make a request of a Senior of mine.”
+
+She allowed the euphemisms to permeate her audience like an undesired whiff of perfume.
+
+“Shortly after, I fell four storeys onto the concrete pavement. My left side was singularly shattered. It took a week of surgery to stitch me back together into a human shape. My survival, the physician said, was a medical miracle.”
+
+Kitty’s hands moved to her mouth. The boys stared, searching for scars. Those who were in the know studied their tea.
+
+Eppie moved on to Divisio—the foreshadowing.
+
+“I was on that roof because I had been brutally bullied for months. The popular Senior suspected that I possessed evidence of his unforgivable crime. I did not. Nonetheless, out of sport, out of paranoia—but probably the former—he decided to torture me. With a helping hand from Simone—who has her own circumstances, so please withhold your judgements—he locked me in the change rooms, turned off the lights, and listened to the sweet music of my screams until my throat grew hoarse. Ergo, I went to that roof that night, stating that either I kill myself, or he ceased his torture. By all accounts, he chose the former.”
+
+Simone was shaking. Tears were bubbling from her face and staining her doll dress. Lim offered the girl an enormous napkin and held her shoulders in solidarity.
+
+Now, the Confirmatio.
+
+“I fell from the roof because the popular Senior wanted confirmation that I had indisputable evidence of a crime he had committed. He knew that I knew, because I was there when it happened.”
+
+The four families looked up, their eyes wide with disbelief.
+
+“I hid, you see, in one of the change rooms. I heard the exchange. I listened to the assault take place. Then the door opened, and I saw Brother Lim, and behind him, I saw four others, three young men and a girl, standing beside the popular Senior, standing over their victim, wondering how each of them would survive. Brother Lim told me to hide. I did. I heard a girl pull Mio into the showers to wash the evidence from her bruised body…”
+
+Kitty stared at her tea, her cheap mascara staining her cheeks.
+
+“I heard a boy hide away a phone full of pictures…”
+
+Edson slid half under the table.
+
+“I heard a discussion about CCTV. About alibis. About how to hide an unforgivable crime, all the while Luciana Mio was naked and bleeding, lying in the shower, drowning in warm water.”
+
+Luis and Jimmu’s faces were redder than the chillies in the pipi sauce.
+
+“I had no evidence,” Eppie said, manipulating her [Vocality] and [Act Natural] just so that her voice grew desperate and choked. “And yet, the evidence was everywhere. You had evidence. Every single one of you had EVIDENCE. But I was the one who got dragged onto that roof…”
+
+She shifted toward Confutatio—the rebuttal.
+
+“I know this is hard to believe,” Eppie’s [Persuasion] flowed laminar. “Lim, can you confirm that I have told nothing but the truth? That you were there and so was I? That I would have heard everything? That it was I who helped Mio out of that room?”
+
+“I can,” Lim’s affirmation dropped like a hammer.
+
+Kitty gasped. “I am sorry…” she whispered, her voice anguished and whimpering, “I am so sorry...”
+
+“Well, I am alive now,” Eppie laughed bitterly, tapping into [Larceny]. “Simone, can you confirm that you were there on the rooftop? That our popular Senior was there? That he had instructed you to confront me? That I fell, after confronting his bullying?”
+
+“I… I can…” Simone’s voice was no louder than a mosquito’s, but it roared.
+
+Eppie walked behind Valorie, her [Charisma] smouldering with [Persuasion], her voice like a siren’s song calling her audience to sea. “But all is not lost. I wish to inform you that Miss Sanders here has since informed her father of what you all saw. I do not know what the Senator may prepare for the fallout, but knowing Francis Sanders, there will be nothing the Chens can do to try and drag the good name of the Sanders family into this sordid ordeal. Valorie, have I spoken the truth?”
+
+“It’s true,” Valorie said, reaching out and touching Eppie’s hand.Eppie held Valorie’s fingers and squeezed them for all to see. Now, she was ready for the Peroratio—the close.
+
+“Since my resurrection,” Eppie said sardonically. “I have not been idle. I returned to LAPA, uncovered why I had fallen, and I have found the evidence that our mutual Senior sought. There really was a recording…”
+
+She waited for the fact to sink in.
+
+“... Of what he did to Mio. What he said, and more.” Eppie allowed their imagination to do the legwork. “I recovered it. That evidence is now with the media. A very respectable national publication, the name of which all of you would know.”
+
+The room looked up, all of them, except those who knew, some with hope, some with horror.
+
+Kitty raised a hand. “Is the girl safe?”
+
+Eppie nodded with approval, watched the table exhale, then continued.
+
+“I cannot speak for our individual sins in this matter. I am neither a preacher nor a judge,” Eppie allowed the tension to release a little before her audience’s psyches bent under the pressure. “But I can speak for those of us who fought.”
+
+She looked at Lim. “Lim-ge saved me that night. If not for him, I don’t think I would be alive to be thrown off that roof.”
+
+She held up Valorie’s hand, so that they could see the bandages around her waist and around her neckline through the dress. “Yesterday, to force me back onto that roof, our Senior took my beloved cat and threatened me with its mutilation. Valorie, your San-je, walked into the Chen estate, picked up the cat, and walked out, braving security, Uncle Jiang, and our Senior, arriving at Lim’s clinic covered in wounds.”
+
+Eppie seemed to rise as she gave her final summation, for her speech wasn’t just for the Five Families and Simone; it was for herself as well.
+
+“Once, a student asked Confucius,” she switched over to Cantonese for the CODA, surprising her listeners once more. “Shouldn't we repay unkindness with kindness?”
+
+“Confucius, much to his surprise, said no.”
+
+“Repay unkindness with uprightness. The saint said. Straightness. And repay kindness with kindness.”
+
+She turned to Simone now, switching back to English, because the girl was a weeping wound that had to be addressed.
+
+“You survived by staying quiet. I won’t judge survival, but I will judge—” she gestured at the room, the lazy Susan, the others, their eyes in varying states of heightened emotion. "—whether you choose straightness tonight. This is where the debt actually gets paid. Not by you grovelling, but by making sure my kindness is met with kindness.”
+
+Simone's mouth trembled. Eppie had done all she could. The rest was up to Simone.
+
+Just as the rest was up to Lim’s peers.
+
+Then she picked up her chopstick, picked out a fat, juicy clam, slurped up the XO jus and the fleshy pouch, then exchanged her chopsticks for her teacup.
+
+“So—here’s to straightness,” she raised her cup to a contemplative audience, each fighting their own demons. “Yam-sing!”
+
+Yam-sing.
+
+The thing with Cantonese people, Eppie realised once the main dishes finally started arriving, was that they took their banquets very seriously.
+
+The conversation around William flowed freely.
+
+What he had fed to Jimmu to give poor Jimmu a stutter. The bullshit he had tried to pull on Kitty when he was younger, before he started frequenting the Lantern Club. Edson finally said, “Fuck it!” and swore for a good five minutes about those damn photos he kept buried like a cursed tome.
+
+Simone then joined in and said that William made her pay for a Birkin Bag she didn’t lose. Valorie turned deep scarlet—until Lim raised a hand… and told them what had happened.
+
+The girls stared at Lim… aghast…
+
+After a minute of internal turmoil, Valorie sighed and asked for forgiveness. Simone bit her lips hard enough to draw blood, then cried on Valorie’s arm until the lobster arrived.
+
+While de-shelling for Simone, Lim said the bag paid for the Stray Cat Society’s heating, food and vet bills, and Valorie asked him if he needed more.
+
+By the time the crab hit the table, the banquet had turned into a full-blown Mao-era Criticism Session with William at the centre.
+
+Then uncle “Bao” Bu came in, placed two boxes on the table, and told them that they were on the house.
+
+Eppie recognised the red and white boxes at once.
+
+Mao-tai.
+
+Delicious, expensive, Mao-tai, the smoothest, most fragrant baijiu on the planet.
+
+While the crew shared their tale of their Senior, from Valorie’s sordid tales of William cheating on her, to Kitty’s childhood trauma, to Jimmu’s ongoing trauma, to Lim’s tales of William pussy-footing during JKD practice…
+
+Eppie stole a sip.
+
+Found herself growing happier and warmer.
+
+Then stole another sip.
+
+And another.
+
+And another
+
+And another.
+
+Then the [System] started firing off notices. Notices like [Your actions have immensely reaped the Usurper’s Causality] and [Would you like to restore Stamina Y/N?]; only her vision was blurring, the room was tilting, the people’s voices were very loud, and she suddenly felt like a tipsy woman on a yacht, losing her balance.
+
+The last thing she remembered was Kitty Meng laughing at something, Lim screaming in Cantonese, Valorie grabbing her by the waist—then both sight and sound started smearing sideways into the lacquer on the walls and—
+
+Eppie woke up in her own bedroom.
+
+“You’re finally awake…”
+
+Josefina was standing in the doorway with her arms crossed and the specific expression of a housemother who had signed for a girl at one in the morning, a girl who came home smelling like a distillery.
+
+“Do you have any idea…”  Josefina began. Eppie slumped back into bed.Too much had happened, and whatever came next, she would face it after a full day of blissful Sunday sleep.

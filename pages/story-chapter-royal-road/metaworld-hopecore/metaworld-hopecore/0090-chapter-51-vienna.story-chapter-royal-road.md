@@ -1,0 +1,189 @@
+---
+id: ed0ff869-c09a-5a71-b1a8-1f96e0c91148
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 51 - Vienna"
+slug: 0090-chapter-51-vienna
+partOf: metaworld-hopecore
+position: 90
+ownLength: 2628
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3468973/chapter-51-vienna"
+royalRoadId: "3468973"
+---
+
+"You can never be overdressed or overeducated."
+
+Oscar Wilde
+
+The next morning, Eppie chowed down on oat porridge while relaying strategies to Simone to maximise their time at Disneyland. Her recommendations were from an alternative universe, but she had watched three whole YouTube guides on the universality of things like Fastpasses, packed lunches, good shoes, and Excel spreadsheet-level event planning. She told Simone to hold off the visit, because late December was hell, while early January had decorations but not the crowd. Besides, the second best thing about Disney was planning the visit.
+
+Denise had been rightly suspicious about Simone’s windfall, but Eppie stepped in and assured Simone’s mother that the tips were seasonal. Placated, Denise joked that maybe she should work there too, and for a brief spell, Eppie had seriously pondered the horrifying logistics of having both mother and daughter under the Chen’s thumb.
+
+Over the two-and-a-half weeks of the Winter Holidays, Simone would work four nights a week and look after the girls, while Denise would work every shift possible, because the holiday crush paid well and tipped well. Between the two of them, Disneyland was assured, especially if Denise did not attend.
+
+Eppie did not feel entitled to comment, so after breakfast, she kissed the girls goodbye and promised to visit. Secretly, she sincerely hoped that, after May, she could perhaps make enough of a difference to move the Goodes family out of the neighbourhood to somewhere modest and safe. None of it was for Simone. She would be doing it for Cora, Renée, and Denise, who certainly deserved better.
+
+She followed Denise to Mae’s Diner and had breakfast. Hugged the waitress goodbye, tipped her a $20 from her limited weekly withdrawals, then rushed back to the dorm. The public bus back smelled like someone’s sick laundry, with a hint of piss. She watched El Camino go by through the cracked window and made it her mission to get the girls out to somewhere nice, somewhere with yellow school buses and lawn strips.
+
+The trip took an hour.
+
+The campus felt eerie. Both the college and her school were vacated of stuff and students. The emptiness of her apartment felt so strange that, like a child with an overactive imagination, she was starting to wonder if William might leap out from behind a door or lift and try to mug her in broad daylight.
+
+William… Even now, Eppie could not believe that the [Usurper of Hope] was an actual manifestation. What he had done to Simone, to Mio, to Eppie, maybe to Valorie, it seemed… supernatural, as if the man were some kind of morality vampire. Mio had abandoned Eppie before William had concrete proof. Eppie turned from sympathetic Samaritan to willing participant. Simone turned from innocent bystander to helpful torturer. People like Lim and the families, who were caught in William’s orbit.That one random guy who was forced to keep jailable photos on his phone. Valorie… okay, maybe not Valorie. Senator Sanders’ daughter, as far as Eppie could see, did not have a single redeeming bone in her body.
+
+Hey Antigone… her [Script Analysis] buzzed. Remember what you promised to do for Simone?
+
+Eppie banished the thought, growling at her reflection in the lift.
+
+DING—!
+
+The door opened, and no William had arrived for her to defenestrate from the third floor.She opened the door to her apartment, yelled, "Josefina!" just in case, then retrieved her pre-packed bag.
+
+Then she performed a head-to-toe.
+
+Passport. Phone. Charger. All of her legal documents in their original casing. The small notebook she carried everywhere and wrote nothing in.
+
+She called a taxi from the lobby. Sony's charge. Maddy had assured her that everything could be back-charged to her Sony expense account with three separate emojis.
+
+Speaking of the Marvellous Ms Filmore.
+
+She checked her phone.
+
+From: [email protected] To: [email protected] Subject: NYC — Tonight — READ THIS ON THE PLANE 🛫
+
+Eppie 🙏
+
+The Four Seasons is booked under corporate with your passport. Check in, order room service, sleep. You are not going out. You are not walking around Midtown alone at midnight. You are SLEEPING. ✈️🛏️
+
+A town car from the Vaughan Estate will collect you at 10:00 AM sharp. Dr Vaughan has informed us that you won’t be going to the Belmont Building for your dress up. She has a team on-site. Hair, makeup, clothing, jewellery. I am beyond jelly. I cannot stress enough what an extraordinary privilege this is. Juliana Vaughan does not dress guests. She does not send cars to pick up students. I Googled this, and it says the Vaughan Estate only sends cars to family friends, meaning donors. She did it for a Pulitzer finalist once. If you happen to win a Pulitzer 🤩, please let me know. I will add it to your MySpace.
+
+I also wanted to give you a who’s who of things, but Director Curon said to let you handle it yourself. I guess Dr Vaughan will prefer it that way. It’s a test, right?
+
+Remember, there’s no one more talented than our Euphemia. 😤
+
+Safe flight, boss. Thank you for the kind words to the Director. I didn’t get another promotion, but I did get a fat bonus.
+
+Call me when you land. (I know you won’t…😐)
+
+— Maddy 💙
+
+P.S. I have already packed a panic bag with sanitary goods, underwear and PJs. It should be on your bed in the suite.
+
+Maddy was truly her guardian angel.
+
+Eppie typed back "Merry Xmas and Happy NY," then paused. “PS: Maddy, can corporate source me four Park Hopper Plus tickets? I need it as a gift for early January.”
+
+She dropped by the Stray Cat Society on her way to the gate.
+
+Inside, everything was in order. Lim had recently visited, according to the logs. The bowls were changed, the food was refilled, the litter boxes had only fresh poo, and the cats remained indifferent. Mr Chin came running to her. She picked him up and inhaled Mr Chin’s soul like Imhotep in the 1999 action classic The Mummy, starring Brendan Fraser, stopping only when Mr Chin complained.
+
+She folded the spare blankets and stacked them in the supply cupboard, then she was gone.
+
+The taxi was uneventful. Her hair was a mess, her clothes were cheap, and her bags looked frumpy. West Hollywood had no shortage of cute girls catching taxis, and Eppie wasn’t impressive enough to invite uninvited conversation.
+
+LAX arrived with more chaos than usual. The slip road bottleneck, the horns, the people pulling luggage in the great Christmas Migration of Los Angeles. Eppie paid with her company card, slipped through the minimal security, then stood at the check-in for a whole five minutes before she slapped herself.
+
+She left the line, watched by a few confused patrons, then joined the First Class queue. A young woman with [Comeliness] of at least 22 called her by name before ushering her through the First-Class security line.
+
+They made small talk as she was handed off to another service representative, who then inducted her into the Admirals Club.
+
+Inside, throngs of businessmen gazed upon her with as much curiosity as the patrons at the regular check-in, but otherwise left her to ravage the salad bar all on her own.
+
+Midway through a grilled Ahi salad, her phone rang. It was Dad.
+
+“Eppie,” the voice on the phone said. “It’s me.”
+
+Eppie waited a full second before making her choice, “Mr Curon.”
+
+Curon laughed. “So, you on your way? Are you at the lounge?”
+
+“Are you checking my location?” Eppie affirmed her suspicion.
+
+“Did Mueller not tell you it’s a company phone?”
+
+“Never mind. What do you need?”
+
+“Right,” Curon’s voice was joined by the sound of someone reading minutes of a meeting meticulously. “Okay. Work first. You. Antonio. Zara. January. Second week. Dream a Little. Pines. Mueller. Culver City, the good one with the iso booth. Pencil it in. It wasn’t easy booking a good studio. I had to move people around.”
+
+“Done,” Eppie committed the facts to [Memorisation].
+
+“We’ll brief you closer to the day. There’s no rush. You all set for tomorrow night?”
+
+“Maddy said Dr Vaughan’s got a whole thing waiting for me.”
+
+“That’s my girl!” Curon sounded downright proud. “Rubbing shoulders with New York’s finest! Remember, no tantrums! Don’t embarrass your father!”
+
+“I feel…” Eppie confessed her consternation. “A sudden desire to make a fool of myself. When I am interviewed by the Hollywood Reporter, I shall unquestionably lay it at your feet.”
+
+Curon cleared his throat. “Don’t say that. Anyway. I got work. Merry Christmas, Eppie. And… if anything happens, anything at all, call me directly, yeah? Not Filmore. Me. I got people.”
+
+For anyone else, a music producer saying he had “people” would have been strange, but Eppie understood that her adopted father was genuine. Curon had created no less than a dozen Platinum to Triple Platinum artists, half of whom were scene folk with legitimate street cred. Curon was a man who had “put people on in the city.” If her father asked for a favour, folk would answer.
+
+“I will,” she promised.
+
+“Enjoy the party,” Curon said. “Don’t ever trust someone who says they’re a producer! There’s nothing anyone can get you that Daddy can’t!”
+
+He hung up.
+
+Eppie smiled sadly at the “Dad” tag because fun as Curon could be, she was still reminded that somewhere back in Mae’s Diner, a single mother was still busting her ass, while at home her three daughters were drafting plans to visit a common local attraction for the first time in their lives.
+
+She had two more hours until her 11 PM flight.
+
+Eppie wandered here and there, window shopped at the terminal, studied the prices of the luxury goods, drank a coffee, read books at the book stores, then did a little jog around the departure terminal.
+
+The gate agent called for First Class first, as was tradition.
+
+It was a strange feeling to experience a privilege from her old life, but the [System] seemed to have done an internal audit, so Eppie slid into the cabins with individual seating and made herself comfortable. There were only fourteen of them here, no kids, meaning that after dinner, all could have a quiet night’s nap for their AM arrival.
+
+Over a dinner of Diane steak in a rich sauce with her choice of three salads, which Eppie ordered one of each, she played out her planned revenge tragedy in her head, pondering at which point William would break like a fifteen-year-old orphan trapped in a locker room and come begging for mercy.
+
+What if the guy was too stern for remorse? After all, her gentle encouragement could not infringe upon that divine jewel known as Human Free Will. What would the [System] do then? She had plenty of [Causality], and more was on the way.
+
+Was it enough…?
+
+Before bedtime, the attendants came and collected their dinners. Her carer was a young woman, maybe twenty-six or seven, dark-haired, meticulous makeup, who again had a minimum [Comeliness] register of 24. There was little wonder businessmen flew First Class as often as possible.
+
+“I am sorry to interrupt,” she said in a low voice that didn’t carry across to the other cabins. “My sister goes to LAPA, and she showed me a video of the Gala.”
+
+Oh my god. Eppie’s chest tightened. Is it happening? It’s finally happening?
+
+“Could I possibly ask for a…”
+
+“YES,” Eppie took the Thank you for flying with us card and lifted the complimentary fountain pen. “Your name?”
+
+“Janie,” the woman gushed. “My sister’s name is Georgia.”
+
+Eppie signed the card with a thank you to the sisters and slid the gift back to her with a slick, impeccable signature in the style of her old one.
+
+“Thank you so much!” The attendant bowed her head, her eyes warm with joy. “Georgia won’t believe that she’s got Zara’s signature!”
+
+Eppie’s knuckles turned white as she smiled back, doing her best not to crack. She was starting to understand a little of how Valorie felt listening to Umbrella on a daily basis.
+
+Eppie slept too deeply and too full of dreams for her own good. She dreamt briefly of the Goodes, each doing their best. She dreamt of Renée portioning out dim sums with the careful fairness of someone who had been dividing things all her life so that Cora had the biggest share. She dreamt of Cora drawing Mickey after Mickey, waiting for January. Then she finally fell asleep, catching an hour of bliss before the attendants served breakfast.
+
+She arrived at JFK at 730 AM sharp.
+
+Outside JFK, the NYC inhaled and exhaled winter in great lungfuls of steam. As the financial centre of the United States and, by extension, the world, the city possessed a certain vibe, one that was particularly acute to ex-day traders.
+
+She slipped into a taxi, paid no mind to the cab charge, then watched the city where she had spent most of her twenties before she relocated to Silicon Valley for the tech stint in her thirties.
+
+Morning in NYC was nothing like midnight in NYC. The lights were off, the people were still waking up, and the steam rising from the grate made it look like a scene from an 80s nostalgia flick. Block after block, the city was dirty and yet strangely aesthetic, like a roughly sketched charcoal print.
+
+At the entrance to the Four Seasons, the bellboy helped with her bags. Inside, with trained professionalism, the staff escorted her to the desk, copied her passport, and then delivered her to the corporate suite.
+
+She ordered breakfast through room service but did not unpack. She had her small clothes in a smaller tote, along with her basic skincare. The most cheat-worthy aspect of the [System] for an American was that her [Persona] came with a Diamond-tier health plan. Illnesses, she supposed, were [Causality] in a way, and the [System] either did not take illnesses into account, or simply prepaid from her [Dasein] deductibles.
+
+But it also meant that she had no sick leave from the [System]. Does her [System] offer maternity leave? Eppie found herself suddenly shuddering. Her skin grew clammy with cold sweat. Either her [Persona] was protesting, or the [System] was warning her about the near-unimaginable [Causality] involved in such an act.
+
+She tipped the lady who brought her breakfast another $10. It was all the small notes she had left.
+
+North of her sat Central Park, leafless now in Winter, stark, beautiful and poetic, cradling the dawning sky with its generous public spaces. The horizon to the east was turning pink, the light catching nicely on the Chrysler Building.
+
+She moved her plated eggs to the window and sat with her legs against the pane, her back against a cushion.
+
+She ate alone. From the upper suites, she could see the slight curvature of the island thanks to the geometry of the Midtown grid. NYC remained a civil marvel in 2032, even if the street had grown desperate and hostile thanks to men and women like herself. Here, the city still felt hopeful, sleepy, unaware of the impending mass surveillance, the data theft, the erosion of individual agency that awaited its denizens. She could see people, even from this height, emerging into the morning, coffee in hand, walking with purpose instead of apathetic fatigue, stopping to interact.
+
+Tell me what you want? What you really, really want? She asked the [System] via Spice Girls. What is atonement for what she had done? How could she, a fifteen-year-old girl, stop the oncoming slop tide?
+
+Was Juliana Vaughan the answer? She, an Arch-Mage of the Arts World, and I, the helpful Ariel to her Prospero?

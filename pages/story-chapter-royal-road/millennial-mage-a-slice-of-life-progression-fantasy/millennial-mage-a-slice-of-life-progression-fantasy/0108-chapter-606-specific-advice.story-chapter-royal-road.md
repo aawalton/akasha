@@ -1,0 +1,173 @@
+---
+id: 178e94b4-78a5-561c-b43d-613824eda3e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 606 - Specific Advice"
+slug: 0108-chapter-606-specific-advice
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 108
+ownLength: 2887
+unit: words
+ownProgress: 2887
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2565029/chapter-606-specific-advice"
+royalRoadId: "2565029"
+markedReadAt: "2026-06-29T19:38:45.371Z"
+---
+
+Tala and Rane sat in the contemplative silence of the meeting of some of the most advanced and influential Archons in the Cycling Cities.
+
+Eskau Meallain’s words hung in the air, and with the skill born of centuries of appealing to and dealing with people of power, she waited just long enough to allow her ideas to sink in before she continued. “My specific advice is thus: Hunt the Black Legion, approach the Wandering settlements and enlist them as allies and co-equals in the struggle. Tie them to you with trade and other tethers of power, but do not forget the aim: Find the Legion. If that is accomplished, immediately enlist the Major Houses. Assuming you do not find the Legion in the short term, I suggest that you send Mistress Tala and me to the House of Blood within the decade.” She hesitated. “If she were to Reforge, that would solve most of the issues—or if one of your Reforged were to join a Major House as an Eskau or Pillar—but I do not see that happening.”
+
+Master Grediv grunted, interjecting into the pause. “And could we not simply establish ourselves as a Major House with our own Eskau and Pillars?”
+
+“Of course.” The elf smiled. “But that would open your cities for the other Houses to enter, as it is forbidden for a Major House to also directly bind a City Lord, and even if it were not so, no City Lord may reserve a city for a single House. You could easily bar specific ones—and you will want to when that time comes—but you could not keep an influx of Houses—both Major and Minor—from seeking to establish themselves in your cities.”
+
+Master Saliocas frowned, asking a question of his own. “How would Mistress Tala Reforging, or another of our number joining another House prevent this?”
+
+She nodded. “Excellent question, because of what it wouldn’t do. It wouldn’t attempt to make these Cities a part of the Major House society. Instead, they would be loosely aligned with one or more of the Major Houses. You would be asking for nothing and leaving a tacit promise of violence out for all to see. It makes the request to leave you alone easy enough to honor.”
+
+“But if we were a Major House?”
+
+“Then it states that this area is worth the direct and wholesale investment of a Major House, and others will want some of the rewards. To keep them out would be you joining the game, but then trying to not follow the rules. To proceed as I state, would mean most of gated-humanity remain outside the game, while laying out that there will be consequences within, with no real potential for gain.”
+
+Tala grimaced. It makes no sense to me.
+
+-Oh, I’m aware.-
+
+You’re no better.
+
+-Of course, I’m not. This is ridiculous. But look at the others? Most everyone else seems to get it.-
+
+Alat was right, most of those present were giving slow nods of understanding and agreement.
+
+Eskau Meallain wasn’t done, however. “Lest you think I am acting out of altruism, I am not. This will benefit my House immensely, and it will likely cause some intra-house clashes, but those shouldn’t spill out this way. You will be sowing chaos in the Houses, and with your backing, we will profit.”
+
+Several Paragons shifted in discomfort. Most of those who were Paragons were the least combat focused of the Archons present. The few Reforged seemed to take the idea in stride.
+
+Mistress Jenna cleared her throat. “That does raise an interesting point, and I, for one, want Mistress Tala’s opinion."
+
+Tala started slightly at the sound of her name. She turned to regard the older woman. “Oh? What insight do you seek from me, Mistress Jenna?”
+
+“Is the House of Blood the caravan we should bet on? Or is it filled with rotten cargo? Protected by washed up Protectors?”
+
+Eskau Meallain turned to regard Tala with one eyebrow raised, clearly just as interested in her response as the Archons were. Tala took a deep breath before letting out a long sigh. “Of all the Major Houses I interacted with or heard about, the House of Blood is, by far, the best of them, ideologically. They do not always live up to their founding principles, but those are lofty indeed, and their very existence and deep codification within the House’s governing structure has led to humans being not only allowed, but welcomed in most levels of the House. There were no Eskau or Pillars of the House of Blood who were human before me, but that is essentially the only rank or position to never be held by a human. Even then, those were not withheld by dint of race. There had simply never been a human worthy of those positions available and interested in seeking those posts.” She hesitated for a long moment before closing her eyes and continuing. “They do use vestiges extensively, but to my knowledge, they do not have any ‘farms’ or harvesting facilities to create them. They have human villages with occasional gated, but they are nothing like what other Houses employ. That fact could be said to have slowed their growth and left them weaker than they might otherwise have been. Yet, there was never even mention of opening such lines of production.”
+
+Mistress Jenna grunted, causing Tala to open her eyes even as the woman spoke. “That is a lot of information, and we can draw conclusions from it, but what is your opinion? Should we consider aligning more closely with the House of Blood in a manner that would elevate them among the other Houses?”
+
+Tala looked to Eskau Meallain, seeing a small smile on the woman’s face. Tala gave a small smile in return. “Yes. I recommend that we implement a few other things as well, but at its core—as an answer to your question—yes, I think that is the best course before us, at least as far as I can see.”
+
+That hung heavy in the room.
+
+Most knew of her capture by a scion of the House of Blood, and many had bargained for access to some of her memories of that time.
+
+They knew that she was predisposed against the House of Blood. That added a great deal of weight to her words when those spoken were in their favor.
+
+The conversation moved on from there. Various Archons were proposed as being ideal to approach each known settlement in the Wandering Wilds.
+
+Tala was a bit surprised that she and Rane weren’t mentioned as options, even though their recent trip was referenced on occasion. Apparently, there were a few Archons—mainly Refined, but one of the Paragons was in the number as well—who made semi-regular trips to various settlements for the purpose of research or trade. One or two even had some family in the settlements, and they ventured out to connect with them.
+
+Master Jevin also put himself forward, given he’d been planning on taking a quick trip out in the next decades regardless, and he didn’t mind moving up his timeline, so long as it was a quick trip.
+
+They also discussed each of the cycling cities, organizing detailed investigations of their near regions as well as the cells to be found there.
+
+It would mean investigating all the cells, both known and those that they could find. That violated the spirit of the cell-system, but if the Black Legion were so sealed, they couldn’t wait for the cell to begin to break down. The Legion might be able to hide that degradation regardless, leading to their full escape with no warning.
+
+It went unsaid that this is exactly what might have already happened.
+
+No one really wanted to face that possibility. It was also incredibly unlikely, as if the Legion were free, then they’d have already struck.
+
+They weren’t known for their patience when targets of opportunity presented themselves.
+
+Regardless, all the human cities would begin the entrenchment process early—usually reserved for the Leshkin War each cycle—and ensure that they wouldn’t be caught completely flat footed if an attack did come unexpectedly.
+
+It was still more than a century early for the start of the next such war, and enacting those procedures would put a strain on their society, but it was agreed that war was coming one way or another, and they needed to be ready.
+
+Into that mindset, Tala spoke. “We have one source of defense and power that we don’t truly discuss, one that would turn the liability of founts into a potential asset… more than current policies are able to accomplish.”
+
+Dark looks swept through the room as many anticipated her next words.
+
+Tala glanced toward Rane, and he took her hand, giving it a squeeze in silent support. “When we were going through the Wandering Wilds, we came upon several settlements that had geared their society toward lauding those who could not become Bound. They didn’t push people that way, but those who would have founted were, instead, intercepted and made into Vestiges without any of the binding aspects. They were Inheritances, souls that remained to give power and strength to their descendents and communities. Many only remained for a handful of years, but some endured for decades or even centuries, according to what we were told. Can you imagine the power we could have for use in the defense of our citizens if we were to adopt this feature into our society?”
+
+“No.” A Reforged whom Tala didn’t know stated emphatically. “I will not allow the souls of the honored dead to be so abused.”
+
+Eskau Meallain rolled her eyes.
+
+Master Grediv held up his hands. “This is an old argument, and we have not adopted this out of consideration for this exact concern. I don’t see the issue with it as a voluntary process. One that a soul can exit at any time, but I know that many do.”
+
+The Reforged growled. “Of course I do. We do not allow voluntary slavery. We do not allow volunteering for certain types of experimentation. Moreover, we have no idea what it actually takes for a soul to move on, even if we don’t act to restrain it directly. It is possible that the process is torturous to the extreme, and the process of leaving takes years once enacted. It could also be utter bliss so powerful it’s overwhelming. We just don’t know, and I cannot in good conscience put a decision of such import before people who have no means of understanding the consequences of their choice.”
+
+Mistress Holly snorted. “Which is the same as you making the decision for them.”
+
+“Yes.” He gave a firm nod. “Just like we don’t train every citizen as a Mage. We don’t force any to become Mages, but we do deny the choice to most citizens. Civilization is about removing certain choices as options from those within it. Every society exists to limit choices to those that can reasonably exist within the strictures of its boundaries. The benefits greatly outweigh those restrictions, but that doesn’t make the existence of those restrictions any less true. Vague jabs and snark are not the basis for a solid argument against my point.”
+
+The discussion devolved from there.
+
+Even so, Master Grediv didn’t allow it to go on for too long. After about five minutes, he cut across the impassioned—but still reasonably respectful—arguments and drew the focus back. “So!” He looked around, ensuring that he had everyone’s attention. “We are agreed then? We will thoroughly search throughout our region while reinforcing our cities and reaching out to the wandering settlements. If that does not bear fruit within the next two years, we will reinforce ties with the House of Blood, and begin to use their—and their allies’—resources to continue the search for the Black Legion, though that fact will have to be somewhat obscured to prevent a full mobilization of the Major Houses. We will accept the slowdown in industry and scientific advancement in order to increase our war-capacity over the coming generations of mundane citizenry. Additionally, we will approach Anatalis and the Mountain Kings immediately to inform them of this development and ask for aid. Hopefully Anatalis will be willing to point us in the right direction at the very least, even if records insist that the sovereigns have not involved themselves against the Legion in the past. The Mountain Kings have quite a grudge against the Black Legion, but they are as likely to simply button up their dominion as to venture forth without a direct aim.”
+
+There were some mutterings of discontent at various parts of the plan, but no one seemed to object strongly enough to make an issue of any part in particular.
+
+“Good. Are we unified in purpose?”
+
+A round of agreement rippled through the room.
+
+Master Grediv nodded. “Unified in purpose, varied in path, we defend the future of humanity.”
+
+That got a resounding, ‘Aye!’ from almost everyone present.
+
+“Go with power and wisdom. Keep in touch.”
+
+Without further delay, the manifestations of the various powerful Archons of humanity began to vanish, one after another.
+
+Mistress Holly lingered a bit after most of the others had gone, her manifestation walking over to Tala and Rane. “Mistress Tala, Master Rane.”
+
+They bowed as appropriate. “Mistress Holly.”
+
+“I have a solid set of inscriptions to start the girl with. I kept it simple, as I know she will have to get used to leaving them in place. With such malleable… flesh, it would be easy for her to ruin, or worse, alter, the spellforms, and we must figure out a means of training her not to do that.”
+
+Tala nodded. “Yes, we’ve noticed that her steel flows to points of damage from all the surrounding area, and if that causes inscriptions to be shifted…”
+
+Rane grimaced. “I agree as well. We need to help her alter that response.”
+
+Mistress Holly shrugged. “Or alter it slightly and incorporate the resulting feature of her body into our schema. Inscriptions can be very malleable things if approached with the correct mindset.”
+
+He grunted. “So seek to remove it, but if we can’t, see how far we can adjust that path of self healing?”
+
+“That is my recommendation, yes. I think that with the proper training and investigation, the initial set of inscriptions could be ready for her use within a year.”
+
+Tala raised her eyebrows at that. “So soon?”
+
+Mistress Holly smiled. “From the reports you’ve given, her studies are progressing with amazing rapidity, and I see no need to delay unnecessarily. She is unique, so her timeline in all of this will be so as well.”
+
+The couple shared a look before nodding and agreeing with the ancient inscriptionist.
+
+“Very well. I have much to do, so I will leave it at that.” Without further delay, her manifestation vanished.
+
+With her departure, Tala and Rane were left with only Master Grediv and six other Paragons from Alefast, Waning, who had been invited to this conference.
+
+There was also one Reforged who hadn’t introduced herself, and who hadn’t seemed to feel the need to add anything to the discussion.
+
+She gave Master Grediv a bow before seeming to vanish.
+
+Tala watched the woman bob stoneward before rising back up at the edge of the city, effortlessly using the artificial dimensional structure of the city to her advantage for quick movement.
+
+Tala frowned. She’d hoped to talk with that woman about Reforging—as she’d talked to basically every Reforged she could—and maybe get a friendly spar, but apparently, it wasn’t meant to be.
+
+The other Paragons were in deep discussion, but they still gave bows of acknowledgement toward Master Grediv along with Tala and Rane as they left as a group.
+
+Master Grediv sighed, coming over to Tala, Rane, and Eskau Meallain. “Well, that went better than expected.”
+
+“Oh?” Rane seemed skeptical.
+
+“Oh, absolutely. These conclaves sometimes yield nothing but argument, but this is simply too large and important an issue for people to attempt jockeying for personal advantage, at least not right away.” He gave a wry smile. “I expect at least a decade before any more selfish plans begin to manifest, and hopefully by then, we’ll be at open war, and it won’t matter.”
+
+Eskau Meallain huffed and shook her head. “For all your supposed ‘benevolent’ leadership of humanity, it sounds like you all are surprisingly self serving.”
+
+“By selfish, I meant those which benefited their own cities or interests more, not which were truly detrimental to the greater goals of our society.” Master Grediv shrugged. “Regardless, I see no profit in arguing with you. We are who we are, and our citizens have a better quality of life than any surrounding society. That seems like a rather ringing endorsement from my perspective."
+
+The elf rolled her eyes but didn’t argue further.
+
+Tala cleared her throat. “Well, we have much to be about, then.”
+
+Master Grediv gave them a shallow bow. “Very well. Please let me know if you need anything. Eskau Meallain is now solely in your custody.”
+
+“Eskau Meallain, come with me.” With that, she willed herself, Rane, and Eskau Meallain back into Ironhold, feeling her authority wrap around the woman like a set of ephemeral chains.

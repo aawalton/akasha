@@ -1,0 +1,241 @@
+---
+id: 1750ab47-139d-5b03-a2a1-f438630384ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 559 - A Lot to Unpack"
+slug: 0059-chapter-559-a-lot-to-unpack
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 59
+ownLength: 3031
+unit: words
+ownProgress: 3031
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2261926/chapter-559-a-lot-to-unpack"
+royalRoadId: "2261926"
+markedReadAt: "2026-06-29T19:37:11.197Z"
+---
+
+Tala, Rane, and Terry stood at the edge of the massive clearing surrounding the tree city of Makinaven after four days of working their way through the southern woods.
+
+Tala felt herself gaping up at the massive edifice of living wood, partially because even her perfect memory had a hard time doing the immensity of it justice, but that wasn’t the whole reason.
+
+For the first time, her voidsight took in the reality node of the tree.
+
+Not only was it a single, absolutely overpowering whole—so overwhelming that it kept any of the questing tendrils of Leshkin spirit miles away—but it was a Reforged existence, clearly blazing with power for all to see.
+
+Even so, the aura of power was held… separate somehow, so that it was underlying the superficial, rather than being atop it and harming those within.
+
+With it being held separate, being near the tree’s spirit was like being in direct, unmitigated sunlight instead of standing within a fire. It was harsh, but in a different way.
+
+Even so, the hundreds of mundanes within Tala’s easy line of sight didn’t seem negatively affected in the least.
+
+One more important quality of the tree’s reality node? It was looking back at her.
+
+“Mistress Tala, welcome. You are a bit earlier than I’d expected.”
+
+Tala spoke out loud in response. “Master Jevin, it is a pleasure to be here. We’re only a day early, correct? If our presence will cause complications, we can leave for a short span.”
+
+Laughter came back through their mental connection, and Rane smiled, clearly indicating that he could hear as well, though Tala suspected that he’d been greeted separately. “No need for a delay. Come, come. Your timing works out rather well, in fact. You’ll be greeted at the nearest gate, and led to my offices. Though, I imagine you remember the way. Please do not disguise your aura, as that will make it easier for your guide to identify you.”
+
+Tala hesitated a moment, but when she looked to Rane, he simply shrugged. So, Tala decided to just accept the guidance, even if she suspected Master Jevin was up to something. “Will I know the one to meet us?”
+
+“With your memory? Yes.” There was a hint of humor in the words, but he didn’t say anything further, and Tala felt the attention of the massive reality node move on from them.
+
+Rane grinned her way. “Well, I suppose we should be about it. Given how he approached this, it’s bound to be entertaining one way or another.”
+
+She sighed. “I’m sure he’ll see it that way…”
+
+He bumped her playfully. “I’ll be here, regardless.”
+
+Terry flickered around them, clearly having a bit of fun investigating the different plants, and the setting as a whole, after days within such monotonous surroundings.
+
+It was funny, standing there at the boundary of Makinaven. It was so like their first arrival. In both cases, they’d spent days in a chase with the Leshkin. Though, this time it was Tala, Rane, and Terry who had been chasing down the forest monsters.
+
+After the disbursement—seemingly enacted by Existence itself—the Leshkin had given them a rather wider berth than normal. Normal, in this case, being the frenzied assault of any gated that the beasts could detect.
+
+Tala, Rane, and Terry had been forced to hunt down every subsequent test subject after the first. Once they had each one trapped, many others would come to fight for the freedom of the imprisoned, but as soon as Tala released her experiment, all of them fled in short order.
+
+It was honestly odd and harkened to the Leshkin Wars, from what Tala had heard. Those were supposedly a time when more powerful humans clashed directly with the Leshkin, and often the Leshkin, themselves, would act more strategically, which included making strategic retreats on occasion.
+
+Tala hoped that the difference didn’t indicate the ‘activation’ of one of the more sapient Leshkin.
+
+If so, Master Jevin would likely be a bit irate with her.
+
+Speaking of the Reforged, Master Jevin was waiting for them, and it was time that they stopped lurking on the periphery.
+
+Tala and Rane moved forward almost as one, glancing toward each other and chuckling at the coincidence. He put his arm over her shoulder, draping across her back so that his hand could be on her waist. “It’s been a long time since we’ve been here.”
+
+She cuddled up to him even as they walked. “Indeed it has. Eleven years? A bit more?”
+
+“Give or take, yeah.” He had a bit of a mischievous glint in his eye as he continued. “If I recall correctly, the last time you were here, didn’t you go on some sort of date?”
+
+Tala scowled. “It wasn’t a date… at least I didn’t think it was one.”
+
+He chuckled. “Oh, that much was clear. Still, do you want to look up your old flame while we’re in town?”
+
+She hip-checked Rane, but he held on firmly, laughing all the while.
+
+“Fine, fine. It really is amazing how much we did while we were here…”
+
+“Yeah.” She smiled fondly at the memories. “I’m glad that they delayed our departure. We learned a lot while here, and we met a lot of fun people.”
+
+“Isn’t that the truth.” He considered. “Isn’t this the first place you expanded Kit?”
+
+“Hmm? Oh, yeah. I think so.”
+
+He chuckled. “Her magic manifested in a feline form and caused a lot of confusion.”
+
+Tala smiled in turn. “Yeah. That was before we knew that she was special.”
+
+She manifested Kit as a pouch on her belt for a moment, giving the accessory an affectionate pat before letting it fade from existence once more.
+
+A feeling of deep satisfaction came back from the part of her soul most closely aligned with the voidling. Kit was content. Tala’s path was her path, and their interests perfectly intersected. The voidling had no complaints, and she looked forward to the future even more closely aligned with Tala.
+
+Yes, content was the right word.
+
+The great tree filled up more of their sight as they came closer and closer.
+
+When they were almost to the gates, they passed by some animal stalls, and Terry flickered to perch on a fence, looking in on some pigs. The herds all crowded away from the terror bird, and the swineherds eyed him warily.
+
+Tala sighed, bopping the bird playfully on the head. “No, Terry. That’s not even the same pen, and we assuredly do not have permission for you to… enjoy the pork.”
+
+He trilled sadly, but he didn’t argue with her, flickering back to her shoulder as they came up to the gate.
+
+This close, it was as if a veil had been pulled back, and Tala almost staggered at what she was able to perceive.
+
+The tree was a fully four-dimensional existence, the entirety of it was seemingly purpose-grown to facilitate the living spellforms woven out of every one of the fibers of its makeup.
+
+To her three-fold perception, it was a true edifice of power, and the magics spoke to her of suppression, sleep, and lethargy, all directed outward.
+
+At its heart, far stoneward, she suddenly saw the City Stone, intimately intermeshed with the forms.
+
+All the gated here power the magics which weaken and calm the Leshkin.
+
+-That is one of the primary purposes of the forest cities.-
+
+I know that—Tala sent the impression of an indignantly scrunched face to Alat—but I guess I didn’t really consider just how all consuming that would be. I suppose that’s one reason they keep them at full capacity for the whole cycle?
+
+-Likely, yeah. I’m sure the simple fact that they actually can also factors in. Even so, they need as many gates as possible to power the great workings. Did you see this part?-
+
+Tala focused where Alat was indicating. No, I… Oh! Is that Reality reinforcement?
+
+-It looks like it… if I’m understanding correctly. I’m not as familiar with wood-in-wood spellforms as other mediums of power, but based on the effect coming off of it? Yeah.-
+
+That explains how the city can be maintained as long as the others, even with a larger average population over the timespan… Tala frowned, considering something.
+
+Alat sent a feeling of agreement. -Yeah, I don’t know why they don’t use these everywhere… We could ask Master Jevin?-
+
+That is probably a good idea, yeah.
+
+They passed by the mundane guards on either side of the great gates, and the guards gave slight bows in their direction. Tala and Rane weren’t obviously very advanced, even if they were somewhat obviously Mages.
+
+Their apparent youth made it unlikely that they were of great importance, at least from a mundane perspective. Neither of them had visibly aged much past their mid-twenties, after all, and at that age, the majority of magic practitioners would still be magelings.
+
+Terry was perched happily on Tala’s shoulder, and while the guards gave him a bit of a lingering look, it was obvious that he’d already gotten through the city’s magics to be there. Thus, they likely saw no reason to question his presence.
+
+That would, of course, change if he made a nuisance of himself, but he was being a good terror bird for the moment.
+
+In any case, Tala, Rane, and Terry didn’t have to interact with any of these outer guards as they proceeded into the city proper, making their entry rather smooth.
+
+When they came out into the familiar bottom tier, Tala found herself smiling at the recognizable sights.
+
+Things had changed a bit, but by-and-large the structure of the city was unchanged, which made sense for a city literally carved out of a giant tree.
+
+As they looked around, noticing the caravan receiving area off to one side, a voice called out to them.
+
+“Master, Mistress! I believe that I’m here to meet with you.”
+
+Tala frowned, finding the voice vaguely familiar.
+
+-Oh, my. This will be fun… or awkward… or both!-
+
+Tala and Rane turned around, finding a younger looking man already bowing toward them. “I am Master Grent. I was sent by Master Jevin to greet two Paragons, newly arrived in our city. Shall I assume that you—” His voice cut off as he straightened, eyes widening. “What? It’s you?”
+
+Tala could easily see the aura of the Archon. It was solidly Refined… in fact, it was exactly the same shade that it had been when last she’d seen the man. He seemingly hadn’t taken even the smallest step forward in Advancement despite more than a decade having passed.
+
+As to who he was? Alat was right, it was somewhat humorous, as Rane had just mentioned the Archon whom Tala had somewhat accidently gone on a single date with… Her eyes narrowed.
+
+-...Yeah, that does seem like something Master Jevin would do as a bit of a joke… This was entirely intentional.-
+
+I’m going to have words with that man.
+
+-I do think that’s the point.- Alat teased.
+
+Tala sighed, then put a smile on her face. “It is us, indeed. I am Mistress Tala, and this is my husband Master Rane. It’s been a long time, Master Grent.”
+
+The man gave a slow nod, clearly a bit out of his element.
+
+Rane cleared his throat. “Good to see you again, Master Grent. Am I right that you are to take us to Master Jevin?”
+
+Master Grent shook himself, clearly coming back to the matter at hand. A smile returned to his features, if a bit less exuberant, and he nodded once. “Yes, yes. Absolutely. I apologize, but I wasn’t informed who I was to meet. It simply caught me a bit off guard to recognize you both. It is good to see you again, Mistress Tala, Master Rane. Congratulations on your advancement, and your marriage.” They all exchanged bows, and then Master Grent spun on his heels and strode off with evident purpose in his stride. “Right this way, if you please.”
+
+Tala and Rane followed Master Grent up the spiraling ramps of the city, eschewing the pedestrian ladders for a more scenic trip up to the Constructionist Guild office in which Master Jevin had his offices.
+
+There was hardly any traffic, and that which did come rumbling by passed quickly enough. It was a rather quiet trip except for Master Grent occasionally pointing out some new change to the city here or there.
+
+Apparently, there had been a few renewal projects aimed at meeting the shifting needs of the citizenry, and everyone in Makinaven was rather excited by the developments.
+
+A few parks had been expanded, some streets had been widened or shifted, and several districts had been reallocated, which mainly meant that the previous owners had been allowed to use the space differently or to sell them to people who wished to do so.
+
+Bureaucracy aside, the view out over the first tier was as lovely as ever. It actually reminded Tala of looking at a toy town, because of how enclosed it was.
+
+Maybe it’s like a dwarven city, too.
+
+-Oh, yeah. It does resemble the hold we acquired, even if only just a bit.-
+
+When they arrived at the Constructionists Guild Office, Tala recognized the building front that was skillfully set into the wall of the tree. It looked to have been spruced up a bit since they were there last, with the detailing a bit clearer than before, and fresh paint on the sign and door.
+
+As they pushed open the door, a familiar ding sounded through the space, and a receptionist stood to greet them.
+
+Tala made sure to allow her aura through her iron, just to be safe, not wanting anything like a repeat of some of her previous visits.
+
+Master Grent closed the door behind their group before bowing in respect toward Tala and Rane after which he made his excuses and left them in the receptionist’s capable hands.
+
+As he retreated through a side hall, Tala barely caught him muttering under his breath. “That’s the last time I—”
+
+The last bit was lost as he turned a corner.
+
+The receptionist bowed in greeting, clearly having expected them. She then led them back to one of the workrooms, in which Master Jevin was waiting.
+
+Tala thanked the young woman, causing her to bow several more times before she departed, closing the door behind them.
+
+Only then did the trio turn and find Master Jevin awaiting their attention. He stood before them, grinning widely, almost expectantly.
+
+Tala took a moment to take him in, seeing just how human he was. More than that, she could sense just how closely tied his reality node was to his physical form.
+
+Interestingly enough, she could tell that both the tree around them and the human body before them were Master Jevin. They were tied, yet separate; integrated, yet distinct.
+
+She didn’t quite understand it, but she also didn’t think that she was supposed to, not yet. Funnily enough, it reminded her quite a lot of how the Leshkin seemed to be individuals, yet united, that unification somehow even seeming to include the trees in much of the southern forest.
+
+There is a lot to unpack, here.
+
+-Indeed. I’ll begin parsing what I can, but I bet we can ask him as well.-
+
+True, and we’ll do that soon enough. Now, though? Now, he seems rather pleased with himself. We should get the greetings out of the way. It has been more than a decade since we’ve seen one another.
+
+-Very well. Have fun.-
+
+His smile grew slightly at their regard. “I trust you found your way easily enough?”
+
+Tala gave a mock glare. “Not only do you know exactly how our trip through your tree went, but you sent Master Grent to meet us as a poorly conceived joke.”
+
+The Reforged held up a finger. “Not as a joke, no, and certainly not poorly conceived.” He shook his head in mock sorrow. “If you believe I failed, then you have mistaken my aim.” After a moment’s hesitation, he shrugged, amending, “Though, I will admit that the joke was a side benefit.”
+
+Rane cocked an eyebrow. “Oh? What then was your purpose?”
+
+The Reforged regarded them for a long moment before sighing. “I suppose there is no harm in sharing. Master Grent has been stagnating, as so many do in these cervid-cursed woods, despite our best efforts. His lack of drive has been showing up in little ways recently, but finally, it came to a head roughly two years ago, when he stated that no one advances very fast, and so his pace was more than fine.” Master Jevin shook his head. “While he was right in a sense, the excuse came just before an across-the-board decrease in his already slipping productivity and effort. I felt that seeing familiar faces, now greatly advanced, would light a fire under him.”
+
+That… actually made some sense. Though, she did find it funny that Master Jevin considered spans greater than two years as recent. Even so, Tala frowned, opening her mouth to ask something else, but Master Jevin moved his still raised finger back and forth implicatively, eyes slightly unfocused.
+
+After a moment more, he nodded and smiled. “And it worked. He’s in his lab, actually working on his projects for the first time this week.”
+
+Tala sighed. “Well, I guess we’re glad to be of service?”
+
+Master Jevin chuckled, walking forward, arms wide. “Yes, thank you for that, and welcome back.”
+
+Tala stepped forward and gave the man a hug. Rane followed suit a moment after. Then, Terry flickered to the other man’s shoulder, prompting the Reforged to scratch him behind the head.
+
+“Oh, Terry, it’s good to see you again, too. I hear you’ve been taking good care of that girl.” He glanced toward Tala in unnecessary implication.
+
+Terry preened, shifting into the scritches and trilling.
+
+Master Jevin took a minute or two to finish paying Terry some attention, before he finally turned back to Tala and Rane. “Well, it’s good to have you two back here again. It seems like we have a lot to discuss.”

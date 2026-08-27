@@ -1,0 +1,209 @@
+---
+id: 44563c6f-e6fc-5261-92f3-17e583db3c6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 631 - Waning"
+slug: 0134-chapter-631-waning
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 134
+ownLength: 2784
+unit: words
+ownProgress: 2784
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2734298/chapter-631-waning"
+royalRoadId: "2734298"
+markedReadAt: "2026-06-29T19:41:43.413Z"
+---
+
+Tala looked out on the all-but-empty city with a mix of excitement and sadness. It was the final day, and while there were ten thousand souls still within the bounds of the City Stone’s well of power, they were clustered at the core of the city.
+
+The fringes of its protective influence were ragged to Tala’s threefold sight, on the edge of shearing through.
+
+The great magics within the city were teetering on the edge of ticking over to their final phase, those which began the preparations for the next city to be established at this location in a few centuries time.
+
+More than half of those remaining were Guards, Defenders, and Mage Protectors.
+
+The last of those willing to teleport away had done so the afternoon before—including the last of Rane’s family and servants, his statues moved to the sanctum for safe keeping—and the remains of old Alefast’s citizenry were gathered in the cleared courtyard around the Archon Compound near the city center.
+
+Below ground, the Library was emptied, the last Librarian having left nearly three months previous.
+
+The guildhalls, homes, shops, restaurants, parks, and thoroughfares stood empty throughout the once thriving city.
+
+A respectful silence hovered over those gathered, whether on foot or in wagons. Even the beasts of burden and few pets were unusually quiet.
+
+The only things that broke the silence were the occasional cries of a recently born babe and the muttered words of power from the Mages who used that method, and who were assisting in this final step.
+
+Tala stood with Rane, Terry, and Lea near the center, beside Master Grediv as he stood with head down, magics pulsing and spiraling out from him in intricate patterns, meshing with the City Stone, deeply stoneward, and receiving magical pulses and streams of information in return.
+
+On the Paragon’s other side, three more Paragons—the only others who had stayed—worked as assistants to the City Stone Holder. Both Tala and Rane had offered their assistance, but apparently the process was not only immensely complicated, it was finicky beyond belief.
+
+Around the six Paragons, one avian, and one girl, the remaining groups of Defenders were spread out in two rings. One was in close around Master Grediv, relatively speaking, encircling the eight beings in truth. The other was around the outside of the gathered populace. All were watchful for any potential interference or threat in these final moments.
+
+Finicky and complicated it might be, but it went quickly. In her observations, though, Tala had to admit that the speed was likely due to long experience, as she felt unable to even parse half of the magics used, each done almost entirely freeform through aura, power, and authority manipulation.
+
+Less than half an hour after they started, there was a feeling like a great exhalation.
+
+Tala’s eyes momentarily widened as the City Stone moved toward the superficial like a cork shooting toward the surface of a pond. As it rose, the power funnel collapsed upward, the forces involved compressing the magical conglomeration from something that seemed almost as large as the entirety of the Archon Compond—attendant Library included—down and down and ever more down until…
+
+Master Grediv stretched out one hand in what was obviously a practiced flourish, and a sphere reminiscent of molten glass came into being, cradled easily in his palm.
+
+Through her threefold sight, Tala saw that it had a depth and complexity that beggared the imagination. If she’d been told that it contained a full galaxy, she’d have been hard-pressed to argue.
+
+It was clearly not hot to the touch, at least for Master Grediv, and as he closed his fingers around it, a pulse of magic radiated outward, having three effects.
+
+First, deep below the city, the closing scripts were activated, rivers of gold, silver, and copper lit with power, drawing deeply on the City Stone one last time, dimming it by a percent or two.
+
+That alone rocked Tala backward. The amount of power drawn forth would have beggared what Kit contained, along with her own throughput for years.
+
+Even factoring in that the power within Kit was denser—more powerful unit for unit—there was still no balancing those scales.
+
+And still that had been only one or two percent of the total contained within.
+
+Master Grediv clearly noticed her reaction, because he glanced her way and smiled tiredly.
+
+The second thing that the pulse of magic did was to disassemble the magical protections around the city site before they could collapse catastrophically with the departure of their power source.
+
+That was evident to even the mundanes as the obscuring magics faded first. Overhead, vast overlapping, interweaving spellforms were suddenly visible, manifested in light and power before slowly fading, seeming almost to burn away.
+
+Finally, on a level that only Tala and a bare handful of others could see, the binding of reality threads fractured. The collective identity of ‘Alefast’, based in this location, seemed to almost let out a last, ragged breath before passing on, its task complete, its end welcomed with open arms.
+
+With that dissipation, power rolled inward. The collective might of reality that had risen up against this city was finally able to come in and reclaim this land.
+
+As it came crashing inward, the majority of stone walls, timber houses, cobblestone streets, and so much more seemed to almost melt. The land returned to its pre-city state, leaving slightly lower hills, smoother landscape, and fragments of civilization as the only surface level evidence that a city had ever been there.
+
+Blessedly, the cycling of cities—while relatively infrequent from a mundane perspective—was deeply ingrained into the culture, so there was not a single person who was trying to stay in ‘their’ home.
+
+If they had, Tala doubted that they’d have survived.
+
+The City Stone pulsed again, sending out a smaller wave of power that caught the inrush of power just outside the outer edge of those gathered in close. The result was that the Archon Compound and surrounding area was maintained for the moment, the people sheltered.
+
+Tala knew that Master Grediv would have to maintain that smaller protection until they exited the previous city site, and so she opened her mouth to call for the group to move out, but someone else beat her to it.
+
+The head driver of the wagons called out, beginning the now unobstructed journey out of what used to be the city center.
+
+A horse was brought for Master Grediv, and his assistants helped him up into the saddle, sweat already beginning to bead off of him.
+
+It wasn’t so much a question of power—he had that in abundance—the effort came from the fact that he was intentionally pulling up all of his own authority in the area, giving him far weaker purchase from which to resist the purifying force of reality.
+
+All the power in the world was meaningless if he didn’t have anything to brace against.
+
+They were on a clock, then, and so the mass began to move at a good clip, Master Grediv keeping to as near the exact center as was possible.
+
+As the people moved—and the remaining protective field moved with them—the last vestiges of the influence of man were left unprotected, and they too were washed away, leaving only wilderness and thread-bare reality.
+
+The short trek to the edge of the city site was obviously taxing on Master Grediv, but he bore under the strain with aplomb. Even so, he noticeably relaxed when the whole group was past that point, only then spreading out to form more of a column, moving toward the pass that Tala had come through so very long ago.
+
+Master Grediv’s task wasn’t done of course. He still needed to maintain a power-well and mitigate the damage to reality by all the gated moving in tandem. Still, it was easier than holding together a crumbling city site for their passage, and he was even able to alter his area of protection to mold to the oblong nature of the great migration.
+
+That, of course, did not entirely remove the issue. If it had, then City Stones could be used as Caravan Stones, or some such, to give safe transport between cities.
+
+Even if that would take a Paragon to execute—and those were in short supply—it would likely have been arranged.
+
+Sadly, that was not the case, and their journey would be far from perfectly safe.
+
+Lea seemed to be counting on that.
+
+Ironhold was participating in this exodus, once again having an entrance attached to one of the large wagons, allowing those within Kit to help with logistics as well as making the Talons' participation in protection duty more viable. It was even more so now, after the Talons had had years longer to get used to keeping their magic contained, allowing them to be out and about for longer stints before they were forced to return to Ironhold.
+
+There were, of course, Defender Units taking on the greatest burden. Rust, Tala had already seen them engage a dozen threats of various levels of severity, and the group was barely twenty miles into their trek.
+
+Still, the Talons providing backup, as well as additional forces in general, was gratefully accepted by all.
+
+Well… almost all.
+
+Lea was grumpy that between the Defender Units and the Talons, there was really very little for her to do, and that didn’t even factor in the three Paragons that stuck close to Master Grediv, ready to keep him and the City Stone safe with all the power and skill that they had at their disposal.
+
+Lea clearly still had Sole’s sword on her mind, and she was practically spoiling for a fight in which to prove herself.
+
+Tala sympathized, remembering her own early days.
+
+-These aren’t really her early days anymore, Tala. She’s had her magics for longer than you did before your capture.-
+
+Yeah… well…
+
+-I still think we are holding her back. Her age—and your biases about that—are clouding our decision making.-
+
+Tala grimaced. We’ll see how this trip goes, then… Alright. We can discuss her being taught the Archon Star spell form. Maybe we'll give her a chance to prove herself on this trip.
+
+-Good. Thank you.-
+
+Thankfully, not all the wildlife—mundane, arcanous, or magical—attacked them, showing that Master Grediv’s efforts were doing something.
+
+At one point, Tala and Alat noticed a roc far, far above, looking like little more than a fly at the great distance, but even that meant it would dwarf the one they’d fought to the north, when traveling with their own overlarge caravan.
+
+Thankfully, the exodus seemed to not catch its attention.
+
+The trip through the cleft-canyon itself was irritating, given the width of the bottom of the dead-straight passage, only a bit wider than one wagon.
+
+Because of the necessary delays that navigating that created, it was decided that their group would camp for the night on the far side.
+
+The head of the column arrived well before the rest, and they began the process of setting up a secure site for the night.
+
+None of the adults who remained for the final waning was a slacker nor afraid of hard work, and so the whole process went much faster than Tala would otherwise have expected, even without very much magical intervention.
+
+As such, everything was set up and food was hot and ready long before the final group came out of the pass near enough to sunset.
+
+Tala wandered the campsite, just enjoying the obvious excitement and camaraderie of the average citizen. It’s more of a waystation than a campsite.
+
+-Except that it won’t exist after we move on.-
+
+…That’s fair enough, I suppose.
+
+-Thank you.-
+
+Tala was seen and invited to join quite a few groups as they ate and spent their evening hours before sleep. She did stop for a few bites here and there, but she always begged off of staying longer. After all, she did have a destination in mind.
+
+Rane and Terry were making their own ways through the mass of gathered people, each enjoying the atmosphere in their own way, all three heading toward a singular location. Mainly, they were moving toward where Lea was eating and socializing with a group of Talons and guardsmen, enjoying the camaraderie of others who fought for a living.
+
+Throughout the day's short travels, both Rane and Tala had noticed their daughter’s excitement and frustration at being unable to fight due to the plethora of protectors of various kinds. Even so, they had also seen her keep herself contained. She’d had chances where she could have rushed in to fight, but she didn’t. She stayed in position, she obeyed the instructions of those who had been over her, and she’d demonstrated a willingness to put her own wants and desires after others and the success of her task.
+
+As such, they wanted to reward her.
+
+Terry had been disappointed that Lea hadn’t ‘risen to the hunt’, at least as he’d conveyed to Alat, but since Tala and Rane were going to give their daughter a gift—specifically the gift of a battle—he was all for it.
+
+The three elder Sappherrouses converged on Lea, arriving at around the same time, only to find the girl in a ‘friendly’ spar with Talax.
+
+The lad was nineteen and had joined the Talons in full only in the last couple of years, quickly rising through the ranks due to his long familiarity with white steel and dedicated practice since his childhood.
+
+Around them, the guards and other Talons were placing bets, the cross-talk making it clear that wasn’t the first fight for either of them, though they hadn’t fought one another yet that night.
+
+It was ‘bare hands’ fighting, but both wore white steel vambraces and greaves, their torso armor set aside, though for Lea that was relatively pointless, given her very flesh was white steel.
+
+That might seem to give Lea an unfair advantage, and while that was technically true, Talax was riding on power with significantly higher density and purity than that which empowered Lea.
+
+The two were just moving in for another exchange when Tala, Rane, and Terry approached, mostly unnoticed. Though, one particular Talon sergeant spotted them, eyes going wide.
+
+Tala met that man’s gaze and shook her head slowly, making sure it was clear that she didn’t want him to announce them.
+
+The man visibly swallowed before giving a nod of respect and acknowledgement, careful to not make the motion too noticeable.
+
+The sound of metal on metal, and metal on flesh resounded as fists and feet flew, blocked and countered with blinding speed.
+
+Talax’s hands were bare, but his fists still hit like weighted sledges, the bones reinforced to the degree that his fingers were safer than a mundane’s within the finest non-magical gauntlets.
+
+He took hits as he stayed in close, but he gave as good as he got, and the power behind every landed strike clearly rocked Lea.
+
+Her magics were, of course, being held in abeyance to keep the exchange on an equal footing.
+
+In the end, the two combatants broke apart, Talax panting, and Lea actually seeming a bit dazed.
+
+As the girl pulled her focus back together, her gaze swept the crowd, and she saw her parents, her eyes going wide in surprise.
+
+Others noticed her change in expression, and turned to see what had garnered such a reaction, and a moment later, every Talon was bowing deeply toward the Sappherrous trio, with the guards following suit a moment later.
+
+Rane sighed, but a smile still tugged at his lips as he deferred to Tala.
+
+Tala gave a slight bow in return. “My apologies for interrupting your evening activities.”
+
+There was a moment of uncomfortable silence as those in the know realized that their ‘evening activities’ involved them watching her daughter hit and take hits.
+
+“I’m afraid that I must take Lea from you all.”
+
+Lea looked at her in question, an edge of defiance creeping into the look.
+
+Tala grinned. “We have a magical lightning fox to hunt, and I’d hate for it to get too late before we set out.”
+
+Lea’s eyes widened again, along with an uncontrollable grin. She quickly made her apologies, bowing to Talax in particular, though there was a spark of frustration and disappointment in her eyes as she did so.
+
+She picked up her gear, from a pile to the side, her white steel flowing to lock into place around her torso.
+
+In less than a minute, all four Sappherrouses were heading toward the edge of camp, ready to allow Lea to be tested against the first magical beast Tala ever slew, a midnight fox.

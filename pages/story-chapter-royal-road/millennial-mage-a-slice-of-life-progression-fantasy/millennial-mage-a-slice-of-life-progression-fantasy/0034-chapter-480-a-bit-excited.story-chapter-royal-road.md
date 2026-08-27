@@ -1,0 +1,301 @@
+---
+id: 673b4da6-45c7-500c-863f-8b90bbf4db47
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 480 - A Bit Excited"
+slug: 0034-chapter-480-a-bit-excited
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 34
+ownLength: 3390
+unit: words
+ownProgress: 3390
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/1849647/chapter-480-a-bit-excited"
+royalRoadId: "1849647"
+markedReadAt: "2026-06-29T19:36:23.287Z"
+---
+
+Here Begins Book 12 - Outbound
+
+Tala could barely contain her own grin, as the most recent Irondalian to be reborn stood and laughed with joy.
+
+She could already feel the power coursing through him.
+
+Advances in technique and procedure had made the whole process smoother for Tala and less painful for the reborn. Though, it would never be classified as a pleasant experience.
+
+It was to the point that Kedva and Brandon’s younger children had all been reborn without any hesitation or issue. They hadn’t even asked for Healers to be on hand for the fourth or fifth.
+
+Now that is going to be a powerhouse of a dynasty. Tala had been following those children’s growth, and while the magic hadn’t affected them too much—it was proportional enhancement after all, not a flat increase—it had manifested in faster learning and their excelling at most games.
+
+Toward that end, Kedva had requested that Tala make most of the playgrounds, courts, and fields be low-magic zones, at least for her children. She didn’t want them to have an unfair advantage, nor to grow up with a superiority complex.
+
+It was a bit finicky to get right at first, but Alat, Kit, and Tala had figured out how to set up conditional access to magic for various citizenry.
+
+But that wasn’t what was important at the moment. The newly reborn man was what Tala should be focusing on.
+
+That man leapt into the air, giving a startled cry and windmilling slightly as he didn’t get the jump quite right, not having expected to have quite so much power behind the leap. Even so, he landed well enough and spun and threw his arms around Tala.
+
+She was used to these spontaneous outpourings from the reborn by this point. Thus, she returned the hug graciously before Ron—the head of training for the newly reborn—stepped forward to lead the man away.
+
+Ron gave her a bow. “Mother Tala, thank you for your time and assistance.”
+
+She had long since stopped trying to change how they addressed her. It was better for them to do it to her face rather than when they could pretend that she couldn’t hear. Even so, she had to fight back the usual twitch at his referring to her as ‘Mother.’ Regardless, she pressed on, “Always a pleasure, Ron.”
+
+This newest man to be reborn was something of an experiment. He would not be joining the other peacekeepers within Irondale—not that they had much to do in that role. Instead, he was simply a citizen of the town.
+
+He’d gone through the preliminary training, but other than that? He was just a gateless man.
+
+They were curious how far he would progress, and how much the increased capacities would help him in his day to day life.
+
+Given the fact that he was a builder, they expected it to be a direct benefit to his work, as well as to how quickly new homes and other buildings could be put up in the continually growing Irondale.
+
+Lyn had a contented smile on her face as the two men left, moving over to stand with Tala. “It is always enjoyable to see their reaction to the rebirth.”
+
+Tala smiled over at her friend, only feeling a little awkward. “And in this case, you are directly responsible for him being chosen.”
+
+“Indeed. We were having trouble keeping up with demand, and I have no interest in forcing people to do certain types of work. Prices were in danger of rising too high to be reasonable, and while that got some more builders involved, we just don’t have a large enough economy to pull the builders we need from other lines of work. Even with the acceptance of immigrant applications being biased toward builder supporting professions, we are coming up short.” She laughed. “Even without inclement weather requiring houses, we are coming up short.”
+
+“Hence, him.” Tala smiled.
+
+“Exactly. He’s contracted to keep his prices at the going rate for a completed product, and he will now be able to do more. Thus, his time will be more valuable even without a premium on the end result.”
+
+“And faster production will drop the going rate.”
+
+“Some, but he’ll still come out ahead. Like I said, demand is high. And we are still a small community.”
+
+“How are we looking, population wise?”
+
+Lyn’s eyes flicked to the side as she recalled the exact figure. “Twelve thousand, four hundred, and seventeen.”
+
+A small smile pulled at Tala’s lips. “Precise.”
+
+“Accurate. We log people leaving the expanded space or entering. That way we can be sure we don’t leave anyone behind nor move our portal while still hosting anyone who shouldn’t be in here.”
+
+Tala gave a long-suffering smile. “You know I have that in hand.”
+
+“You do, but you could have all of this in hand. My purpose here is to take things off of your plate. This is but one of those things.”
+
+Tala gave her friend a hug, squeezing lightly. “And you do such a good job of it too.”
+
+Lyn pulled back from the hug and looked her friend up and down. “It’s been months since… How are you holding up?”
+
+Tala sighed but smiled. “I do appreciate you asking, but you do so quite often. I’m fine. Master Grediv has had a bevy of experts poke and prod at me: body, spirit, mind, and soul. I’m in perfect health. They noted some oddities with my soul, but they couldn’t say if those came from my recent experience, my odd use of bloodstars, the dasgannach bond, or something else entirely.”
+
+Lyn tsked before letting out a resigned breath. “You have lived an… exciting life, even when compared to other Refined.”
+
+Tala huffed. “Isn’t that the truth. Like I’ve told you at least a dozen times, it was terrifying in the moment, but in the end, I think I’m better for it.”
+
+Lyn rolled her eyes. “It has not been a dozen times, Tala. Don’t exaggerate.”
+
+-It’s been ten times, and it’s still terrifying to me…-
+
+“Alat says it’s been ten, so you’re right.”
+
+“Really? Ten?” Lyn looked a bit abashed. Then, the woman frowned. “How is Alat?”
+
+Tala gave a sad smile. “She’s alright. The experience was entirely different for her, and it’s still something that we’re working through, together.”
+
+“Well, let her know that I’m thinking of her, and I’m here if there’s ever anything that I can do.”
+
+-I know, Lyn, and I appreciate that. Thank you.-
+
+“She knows, Lyn, and she’s grateful. We’ll let you know, and thank you.”
+
+“Of course.”
+
+Tala didn’t feel like continuing that line of discussion, and as she searched for something to switch the topic to, she glanced after the departed men and a smile tugged at her lips. Lyn noticed the expression and tilted her head to one side. “What is it?”
+
+“I was just thinking… It won’t be too long before I have actual children of my own.”
+
+Lyn chuckled. “Some people take a while to get pregnant after the wedding, but that shouldn’t be an issue for you two. You’re both Refined, after all. So, yeah. It could be less than a year before you have a little one on the way.”
+
+Tala smiled in return. “Exactly. I’m… I’m nervous, but also a bit excited? It’s a new adventure. I think I need a new adventure right now.”
+
+“You mean besides marriage?” Lyn teased.
+
+“That’s fair.” Tala laughed along with Lyn. “But I honestly think that they’re one and the same… or at least very closely linked. One will feed the other, you know?”
+
+“I think I do. But do you really want kids right away?”
+
+Tala shrugged. “I don’t think we’ll actively try, but if one comes our way?” She gave a small smile. “I don’t think we’d be too unhappy.”
+
+Lyn grinned in return. “Regardless, I’m excited for you both.”
+
+* * *
+
+Terry tore through the pride of arcanous creatures which seemed like nothing so much as ground squirrels crossed with lions and given a dose of earth manipulation magics.
+
+He wasn’t defending Alefast at the moment. Tala—and by extension he—had been taken off that duty for the near future after their temporary deaths.
+
+No, he was deep in the mountains, in a place that very few humans had likely ever gone, seeking a challenge.
+
+This pride? It sort of qualified.
+
+Their ability to quickly and selectively armor themselves against his strikes made things interesting, so long as he didn’t use void-talons.
+
+Even better, they could, theoretically, actually hurt him with their pebbles, which they could shoot out at nearly twice the speed of a human arrow.
+
+Back before he’d bonded with Tala, he would have had to retreat from the concerted, coordinated attacks of this hunting group.
+
+Not any more.
+
+He flickered in and out, changing size to fit where he needed to in order to strike where he wanted.
+
+He couldn’t get as big as he once would have been able to—not since his own death and reconstitution—but becoming giant wouldn’t have helped in this fight regardless.
+
+Terry hamstrung the swiftest of the beasts, and when they began using their earth manipulation to compensate, he used that distraction to slash open more vital portions of their anatomy.
+
+His own threefold perception was fantastic for spotting weaknesses and vulnerabilities in his prey.
+
+It took a bit of the guesswork and intuition out of the hunt, and made it easier overall.
+
+…a bit too easy.
+
+Soon enough, they were all dead, and he was able to throw his head back and swallow each body in turn.
+
+He was about to move on, feeling a bit grouchy for the lack of proper prey, when he felt a presence unmask itself on a nearby hill.
+
+He crouched low, but the giant wolf didn’t attack. “Bound of the human sireling, your hunt seemed unsatisfying.”
+
+Terry hesitated, then squawked a reluctant agreement.
+
+The great canine showed her fangs in an approximation of a human grin. “Anatalis wishes to extend a specific invitation to you, avian wolf. When your human journeys to the northern forest, we do not doubt you will come, but it seemed right to specifically invite you. You are packbound as we are, if to a different Alpha. We are kin-in-kind and will welcome you with fresh kills and howls of delight.”
+
+Terry bobbed his head in acknowledgement, keeping a careful watch on her with his threefold perception.
+
+This wolf was powerful.
+
+She hadn’t even been evident to his aspect mirrored sight until she’d allowed herself to be seen. That shouldn’t really have been possible, but he supposed that predators who specialized in hunting magical beasts at or above their advancement would need such abilities.
+
+…at or above their advancement.
+
+Terry straightened, trilling his question, both hesitant excitement and cautious inquiry filling the tones.
+
+The wolf’s rumbling laugh came in response. “But of course, little hatchling. What else would we do, but hunt?”
+
+Then, the wolf faded from his view and awareness.
+
+Terry flickered up to the space in which she had just been, but she was nowhere to be perceived. There were not even paw prints to stand testament to her having ever been there at all.
+
+The terror bird looked toward the north, eagerness filling his heart once more.
+
+* * *
+
+Rane pulled back the polishing cloth and looked at his finished work.
+
+It was a sculpture of a simple cat.
+
+It wasn’t modeled after a specific one that he’d seen. Instead, he’d tried to capture the nature of what it meant to be a cat in the stone.
+
+He smiled to himself at his accomplishment. He sort of wanted to knock it off the table where it sat, but felt like that was just because the statue was so accurate.
+
+I don’t hate cats, right?
+
+|No.|
+
+Simple. Thank you.
+
+|Of course.|
+
+It was smooth and hard, but somehow evoked the notion of softness.
+
+It was stiff and unmoving, but somehow looked as if it were lounging bonelessly in the sun.
+
+He was honored to have been able to craft such a statue.
+
+He didn’t have a particular plan for the piece. He simply loved the act of creating it. He had plenty of funds for materials even without the money his family made available to him as part of their continuing attempts to try to convince him that he should take a more formal role in the family.
+
+His engagement to Tala had sparked a whole new round of such things to the point that he had seriously asked Master Grediv how the Paragon would feel if he and Tala took a new last name.
+
+The Paragon had been ambivalent, but advised that—if they did so—it should not be something that referred directly to their first names—unlike what he had done.
+
+It was apparently more hassle than it was worth in the long run. Though, he did concede that it was convenient for tracking his descendants after all of these years, so that should be factored in.
+
+Rane had been considering things like Magnetite, Hematite, or others in that vein. He was taking inspiration from a combination of iron and stone, Tala and himself.
+
+He personally liked Pyrite, except for the fool’s gold connotations.
+
+She hadn’t been too interested in the discussion at first. Truthfully, she had thought it would be funny to have no last name, or to pick something random. In the end, however, she seemed to be coming around to making something for themselves, a family that they could call their own.
+
+|You know she was joking at first, right?|
+
+Of course I do, but it still wasn’t very helpful.
+
+|You’re overly concerned about the name. Isn’t it more important that you two are together?|
+
+And you and Alat? He poked back.
+
+Enar didn’t seem to take issue with the teasing, however. |That will be quite good as well, but we can’t expand the family, so the family name hardly matters to us.|
+
+Is that true? I mean, I know there haven’t been any cases of alternate interfaces having children of any kind, but given that you’re both as much of our souls as we are…?
+
+|There have been studies. It takes two compatible sapient souls of a similar biological framework to procreate. It seems that a new soul won’t come into being with no chance of birth. I can’t imagine why.| The last was said in faux confusion.
+
+Rane decided to ignore the sass. Well, wouldn’t that imply some level of intelligence behind the creation of the soul? That doesn’t seem right.
+
+|Or just mechanisms beyond our understanding that require a vessel to be incoming as well.|
+
+Could be. Rane shook his head, turning his attention back to the cat.
+
+He would have sworn it was looking at him, but since he’d been the one to carve the eyes, the effect was less pronounced than it might otherwise have been.
+
+He deeply enjoyed sculpting, but if he were being honest, he could hardly wait for Tala to be cleared for active duty again. It had been months, and he missed fighting by her side.
+
+Just another week or two. Then, they would be able to face the world side by side once again.
+
+* * *
+
+Tala stretched, sending a series of pops up her back as she examined the pictograms in the cell antechamber along with her unit and the same Paragon that had accompanied them last time.
+
+That was unusual but not unexpected. Mistress Dihsre was a bit of a specialist with souls and so had volunteered to come out with them to be there if Tala had need. She was also a prominent member of the oversight counsel for the cells. Given the nature of this cell, it was deemed wise for her to come along for that reason as well.
+
+The prisoner was seemingly a phoenix of glass.
+
+That wasn’t as helpful a description as it might seem, because basically every prisoner could be described as phoenix-like in their survivability. In this case, however, the incarcerated seemed to legitimately be a bird of some kind, at least in its preferred form.
+
+The theory that had been recorded for posterity was that it had been a dasgannach of silica or something similar which had advanced sufficiently to take on a more definitive shape and gain some intelligence.
+
+If the conveyance was to be believed, it had approached the Mages of its day, distraught with concern that it might destroy the world, asking that they help it.
+
+They tried, but it was its very nature which threatened to subsume the material it was drawn to. They could contain it, but not alter its nature through means that they all agreed were acceptable.
+
+Eventually, it had learned of the cells and asked to be imprisoned.
+
+All that to say, the unit wasn’t expecting a fight. On the contrary, they were expecting to be able to simply speak with the creature as the cell was repaired.
+
+All that combined to explain why they were there.
+
+Tala was technically still a few days from returning to active duty, but the unit that had initially been sent to this cell had reported in, before handing the opportunity to Tala’s group.
+
+Her own bonding of a dasgannach was seen as a powerful touchpoint for interacting with the creature, and if the description held true, Tala might be able to get more from the being than anyone else, just by dint of that connection.
+
+Lyn was also there with Tala, but the older woman hadn’t actually been assigned to the task, so Tala didn’t really count her as ‘officially’ being there.
+
+Lyn was looking around the atrium this time around. Ron was at her side acting as a sort of escort—not that she needed one—while she goggled.
+
+She’d be back in Irondale with the place sealed up before the cell was opened, no matter how peaceful the prisoner was supposed to be.
+
+Ron was actively leaking power, but it was at a markedly slower rate than nature would account for. He was getting very good at holding in magic. He was actually about matching the natural retention rate of a ‘high’ race in Platoiri. Even so, he was still a far cry from what their trained members could achieve, but it was a solid start.
+
+Lyn came over to stand beside Tala before nudging her with her shoulder. “So, this is what one actually looks like, eh?”
+
+Tala smiled back. “Pretty much, yeah. Though, this is a bit more upbeat than they generally are. This is a voluntary incarceree rather than the usual fare, who were trapped against their volition.”
+
+“Well, I don’t envy you regardless. Do you know why the depictions of the Mages are often holding their ears?”
+
+Tala shrugged. “They are probably trying to convey that the thing is noisy to a painful degree. If it really is made of—effectively—glass, I believe it too.”
+
+“Yet another reason I’m glad to not be going any deeper than this.” She gave Tala a long look. “This one is a candidate for Kit’s devouring, isn’t it?”
+
+Tala nodded. “The cell is, yeah. That’s one reason Mistress Dihsre is here. Honestly, this cell is a more reasonable candidate than even Walden was, given he still would prefer to be out and about.”
+
+Lyn chuckled. She’d had the opportunity to talk with the elk, but nothing had really come of it. He wasn’t overtly hostile to humanity as a whole, but he wasn’t one for small talk, and Lyn didn’t have anything pressing that she’d wanted to ask him. It had effectively been a greeting in passing before Tala asked a few questions that she’d expanded his forest to get answered. All in all a mundane experience… with an Immortal Elk of human-like intelligence.
+
+Tala smiled, happy to have her friend with her, if even for a moment. “Regardless, we’ll have to see where this goes.”
+
+“Indeed.”
+
+Mistress Dihsre called out from near the center. “We’ve gotten the all clear. Time to get to work.”
+
+Lyn bowed toward the Paragon then turned back to Tala. “That’s my cue to leave. We’ll close up Kit and wait on the outside of this cell.”
+
+“Sounds good. See you soon enough.”

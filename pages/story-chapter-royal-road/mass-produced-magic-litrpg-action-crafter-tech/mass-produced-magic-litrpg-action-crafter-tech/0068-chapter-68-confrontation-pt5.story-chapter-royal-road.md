@@ -1,0 +1,237 @@
+---
+id: 6f546502-90f7-5a99-a0b5-a99f71e995b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68 – Confrontation Pt5"
+slug: 0068-chapter-68-confrontation-pt5
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 68
+ownLength: 2242
+unit: words
+publishedAt: 2025-03-08
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2114276/chapter-68-confrontation-pt5"
+royalRoadId: "2114276"
+---
+
+[Please pick an upgrade: 
+          ‎ - Power Shot - Infuse mana into a ranged weapon to deliver more force to your attack. 
+          ‎ - Lethal Strikes - Your attacks do more damage when aimed at vital locations. 
+          ‎ - Guided Strikes - You may use mana to guide your weapon strikes. 
+          ‎ - Conjured Shot - You may enhance an item to create temporary ammo. Cost varies per shot.]
+
+Kindra paused and studied it. One would help craft, one was more lethal, but one would let her turn mana into an efficient attack.
+
+She picked the last one, and new text popped up.
+
+[You have unlocked the ability: 
+          ‎ - Feed - You may pull the blood and mana from creatures within 100 feet if their magical resistance is lower than a quarter of your level. This will kill the creature.]
+
+I guess I used that skill too often.  She willed the text away and leaned against the wall. A head fell onto her shoulder.
+
+“Sorry. I’m a bit worn out,” Sigrid said softly.
+
+“It’s alright. Sorry to worry you,” Kindra said and looked at the dwarf, who had cared far too much. A smile was spread across her face. “Happy?”
+
+“Yes.” Sigrid reached up with her sole arm and wiped at her eyes. “We can fight back. We can have lives.”
+
+Kindra nodded.  Are there others? I’ll need to prepare if there are.  She looked up and saw Dain.
+
+“We have a bit of a problem,” Dain said, sighing loudly. “People are infected.”
+
+“I can get rid of it,” Kindra said, leaning against the wall. “Bring them in, and let me touch them.” She imagined the runes and sat there.
+
+Aika burst into the door, her large feet clanking on the stone. She turned and grinned.
+
+“What the hell?” Gleon said, staring at her.
+
+Kindra turned and stared. Looking like a young elf of some kind, Aika was taller than Gleon.
+
+Aika stretched her skinny arms and grinned. “I got an enlarge skill!” she said with a massive grin.
+
+Kindra laughed and shook her head. “That’s amazing.”
+
+Aika walked over, her heavy metal boots clanking on the floor. She sat on the bench next to Kindra. “Now what?”
+
+“Order! Order!” a dwarf outside shouted. “We will have order!”
+
+“I’m not listening to you. You’re only level fifty-two!” someone else shouted.
+
+Gran started shouting, and dwarves filed into the room, walking toward Kindra with a look of confusion. Willing the counter sequence into her mind, she reached out and touched one, watching the magic fade from their body.
+
+Dain watched, moving closer and raising an eyebrow. “Do you know the runes?”
+
+“Yes.” Kindra nodded and looked at the dwarf in front of her. “It’s gone.”
+
+“Are you sure?” the dwarf countered.
+
+“Yes.” Kindra gestured to the next.
+
+Dain moved closer. “Could you sketch them out?”
+
+“Yes.” Kindra pulled out her paper and pencil. She rapidly sketched out the sequence while Sigrid and Dain watched.
+
+“How did you uncover those runes?” Sigrid asked, leaning closer.
+
+Kindra sketched out another and glanced up at the gathered dwarves. She held out her hand, and a stream of dwarves passed by. The magic vanished from each of them, and Sigrid took the paper with the unfinished sequence. She studied it while Kindra focused on removing the magic.
+
+The people passed through, and the shouting outside erupted. Dwarves that Kindra didn’t recognize shouted at each other in a building fury.
+
+“We are next in line. The Ironhand clan has always ruled over this city!” someone shouted.
+
+“Ah, hang your useless clan!” another shouted. “Abusing us for decades.”
+
+“Quiet!” Gran barked. “We will not devolve into petty squabbles. For now, we will focus on the wounded, any undead, and then we will meet to discuss this in the morning.”
+
+“Discuss?” the Ironhand guy shouted. “There is nothing to discuss!”
+
+“Ah, hang your clan!” another shouted.
+
+“Enough!” Gran shouted, and the ground trembled.
+
+Kindra bounced on the stone seat, hitting the dwarf in front of her and removing the plague.
+
+“Stop fighting!” Sigrid shouted angrily. “Now is the time for celebration.”
+
+A dwarf poked his head in and gestured to Dain, who walked over to the door. Kindra gestured the next dwarf forward, and things outside went quiet.  At least they are done fighting.  She looked over at Sigrid. “I’ll be back, okay?”
+
+Sigrid raised a brow.
+
+“Just going to speed this up.” Kindra darted through the dwarves, touching anyone infected and watching the runes snuff out.  “Can other people do this, system?”
+
+It didn’t answer, and she shrugged.  Wonder where the ship is on this planet… and how am I going to find it?  She darted through the line, and the dwarves stared at her.  “Aika, tell them they’re cured. They’re giving me that look again.”
+
+Aika flew by and began touching them. Dwarves started thanking her profusely. Kindra ignored it, darting outside and looking at the gathered dwarves. Some were heading back toward their homes, and a few looked pissed. They started shouting.
+
+I guess we did just lose the government.  Kindra wrinkled her nose.  Not that I want any part of that. I need to find the ship and figure out where this planet is.
+
+Kindra turned away and failed to see any more infected. Groups of dwarves were forming, gathering, and staring out toward the walls with strange looks on their faces.
+
+“They’re gone?” a young dwarf whispered, tugging on his father’s arm. “We’re free?”
+
+The older dwarf reached down and clapped him on the back. “Aye, we are.”
+
+Whispers broke out among the group, and two dwarves walked toward them, large cats slung over their backs. Kindra’s focus flickered to him.
+
+Tob and Tilly walked down the street. With a wink, Tilly waved at her.
+
+“Oi! Who’s gonna help with the feast?” Tob called, a smile spreading across his face.
+
+Some dwarves ran forward and began making a fire pit. Kindra waved and walked back into the barracks, sitting next to Sigrid and gesturing for the paper. Pulling out her pencil, she sketched out the rest of the runes as Tob began singing songs.
+
+Struggling to understand the deep, elongated words, Kindra sketched, glancing over at Sigrid. “Will they be back?”
+
+Sigrid nodded. “Likely, my dear, but we’ll be ready. Your grandfather has been working on some things, as have the smiths.”
+
+Kindra paused, looking up from the paper. “The golems?”
+
+“And other magical gear. There are records of some relics that we used to make, and if we can counter this spell, we have a chance.” Sigrid leaned over and watched.
+
+“I’ll give you the one for radiant damage against undead, too.” Kindra resumed sketching, finished the sequence, and handed it to her. Grabbing another paper, she began sketching the sequence for the radiant enhancement she had used.
+
+The sound of flames and the smell of cooking meat filled the air. The singing grew slightly louder.
+
+“What are they singing?” Kindra asked.
+
+Sigrid sighed. “A drinking song.” She shook her head. “It’s nonsensical.”
+
+“What is it?” Kindra asked, her pencil flicking across the paper.
+
+Sigrid began to sing along with them.
+
+“Oh, Bacardo was a legend, 
+          ‎ some say the greatest dwarf. 
+          ‎ A brewmaster of great renown, 
+          ‎ a class he had at birth. 
+          ‎ He leveled with the brew he made 
+          ‎ and every finished mug. 
+          ‎ And that is what I’m drinking for! 
+          ‎ A drinker has to chug!”
+
+Kindra chuckled.  Nonsense… Wait. Is that a class?
+
+“So bring the barrel over, 
+          ‎ and let me have my fill! 
+          ‎ For magic’s so darn practical, 
+          ‎ I need a drinking skill!”
+
+Gleon’s voice boomed with the chorus, and Aika groaned. She shook her head. “Not again.”
+
+“Oh sure, the fae are out there, 
+          ‎ living in the trees! 
+          ‎ They live long lives and survive 
+          ‎ but lack the finer things! 
+          ‎ Not a single one among them 
+          ‎ has the class most grand. 
+          ‎ Brewmaster and a drinking class, 
+          ‎ that’s the master plan!”
+
+Kindra chuckled and turned toward Sigrid. “Is that a real class?”
+
+Sigrid laughed. “I have no idea, but I highly doubt it.”
+
+“It’s not real. He’s an alcoholic,” Aika said, blurring into the room. “He said he needs it because he has too much stamina.”
+
+“Alcoholic?” Sigrid asked, raising a brow.
+
+“Drinks too much.” Aika dove between them.
+
+Little Sara scampered into the room with an eager smile. Her black hair bounced, and she slowed, her eyes darting around the room. “Have you seen Aika?” she asked.
+
+Aika poked her head out. “Sara, I don’t know how to get you a fairy familiar.”
+
+“But you can try?” Sara asked, moving closer and holding out her cupped hands. “Can’t you?”
+
+“I don’t know how.” Aika shrugged. “If I figure it out, I’ll try.”
+
+Sara’s smile broke into a massive grin. She held out her hands and gestured to Aika. “Want to go to the party with me?”
+
+Aika stood. “But no being a doll, okay?”
+
+Sara nodded, and Aika flew over to her, landing on her shoulder. The two headed for the door, and Kindra finished sketching the runes. She handed the paper to Sigrid and leaned against the stone wall.
+
+Sigrid studied it. “Thank you, Kindra.”
+
+“You’re welcome.” Kindra leaned against the wall and listened to the celebrating dwarves outside. A soft smile spread across her face.  One step at a time.
+
+Footsteps sounded on the stone, and Dain walked over, sitting next to them. He leaned over and looked at the parchment. Whispering something to Sigrid, he hugged her.
+
+Kindra tried to overhear it.  Did they find someone to help her arm? That’s a thing here, right?  She drummed her fingers on the stone bench, and a small group of dwarves walked inside, Aika standing on Gleon’s shoulder.
+
+What’s this?  Kindra turned. A dwarven woman handed each of them a makeshift sandwich and walked out the door, shutting it behind her.
+
+Gleon walked over and sat, the smell of a potent ale lingering on his clothing and breath. He took a large bite out of his sandwich and bumped Kindra. “Well done, lass.”
+
+“Thanks,” Kindra murmured. She watched the dwarves return from the dining room with chairs. They gathered them into a circle.
+
+“Very well, Gleon,” a skinny dwarf with red hair said. “Explain to us why some other necromancer won’t just come back. If you killed one like you claim, why won’t we have another come?”
+
+“We will,” Gleon said simply. “That’s why we need to prepare. We can’t waste time squabbling.” He paused. “We need to inform the other cities as well.”
+
+“We cannot win this war,” a female dwarf said, a large scowl on her face. She turned toward Kindra with a frown, her gaze lingering on her hair and eyes.
+
+Looks like that hasn’t changed.  Kindra ignored her.
+
+Gleon scowled. “Now is the time to be free. We finally have a chance, and you’d what? Have us scurry back under a rock. Live like cattle? Live like insects beneath their boots? Let them kill the elders?” He shook his head, his red bear swaying. “No. This is our world, and we are keeping it this time.” His eyes went hard, and the woman didn’t reply.
+
+Dain nodded. “It is necessary. We need to move forward. To take our planet and be dwarves again.”
+
+“I need to level,” another dwarf interjected.
+
+“Aye. You all do,” Gleon said. “So we can win this war. Our focus should be on training and preparing.” He leaned back and stretched. “We’ll be here to help, but I’m going to ask for volunteers for the night watch. We can get back into the rhythm of things and start progression.”
+
+Kindra sat there and listened. The dwarves rotated between topics, and awkward gazes passed in her direction. The reason became apparent, and she stood, quietly walking to the door and slipping outside.
+
+A cool breeze washed over the town. Dwarves were gathered around bonfires that blazed around the barracks. Smoke billowed from fires, and the smell of cooking meat filled the air. Some turned toward her, their smiles shifting into frowns.
+
+Kindra moved quickly, darting through the crowds and heading toward the mines.  It’s time to take care of this problem.  A soft smile spread across her face, and she jogged, moving quickly down the streets.
+
+“Kindra?”  Aika called into her mind.
+
+“Taking care of something. I’ll be back.”  She jogged up to the mine and inspected the stone.  This should work.  Pulling out an arrow, she placed it against the rock and flooded mana into Transmutation. Stone flowed out and then smoldered, turning bright white.
+
+Kindra blinked, shutting her eyes and waiting for the glowing lines to fade. Peeking them open, she looked down at the glasses that had formed. The lenses slowly cooled.
+
+Recalling the runes from the hidden cave, Kindra willed the idea forward with a quick prayer that it would work. She used Enhance Item, draining some of her blood.
+
+[Basic Glasses have been augmented with a minor disguise illusion, altering eye color to brown. Please note that some may see through this illusion.]
+
+Kindra placed them on her face.  I’ll make them sunglasses if I have to.  She looked at her white hair.  I can take care of this tomorrow.  Watching a comet fly by, she walked down the stone path, heading back toward the dwarves with a smile on her face.

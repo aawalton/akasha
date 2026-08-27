@@ -1,0 +1,291 @@
+---
+id: ebb9e174-b4a9-547b-9ef7-92bcda841573
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 586 - A Long Afternoon"
+slug: 0086-chapter-586-a-long-afternoon
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 86
+ownLength: 2881
+unit: words
+ownProgress: 2881
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2426411/chapter-586-a-long-afternoon"
+royalRoadId: "2426411"
+markedReadAt: "2026-06-29T19:38:03.207Z"
+---
+
+Tala opened the portal for Mistress Kannis and Fannas to enter the sanctum.
+
+There was a dinner prepared, but Mistress Petra and Master Simon were out in the city, visiting old acquaintances and checking on their house, which they’d rented out under the management of a neighbor.
+
+Apparently, a few decisions needed to be made, and the two were excited to renew their old ties as well, given they’d raised their children around many of the surrounding families.
+
+Tala was a bit hesitant, especially since the apprentices and assistants of the two weren’t quite on the level to be trusted on their own in the sanctum—Kedva excepted, but she was at home attending to her youngest—and thus the Sappherrous family was essentially fully alone.
+
+Well, Lyn was there with them, but she was there as a friend rather than someone to attend to them, so the sentiment still stood.
+
+-Yup, having a friend at your side is way lonelier than having servants available.-
+
+Hush you… I probably conceived of that badly, but you still know what I meant.
+
+-Fair enough.-
+
+To Tala’s surprise, Fannas was quite nearly four feet tall, having continued to grow, even if just a bit. If she understood correctly, the silvery man would continue to do so as Mistress Kannis advanced.
+
+Mistress Kannis, herself, had aged, but only in the best senses. She seemed to have matured, her stride firm and assured, her gaze level, and her smile genuine. “Mistress Tala. Thank you for the invitation. We look forward to meeting this ‘special person’ you mentioned.”
+
+Fannas bowed deeply. “Mistress Tala, it is indeed a pleasure to see you once again.” His eyes flicked around. “You have bound the voidling in truth. That is good.”
+
+That surprised Tala, until he continued.
+
+“They need to be kept close and watched. Even though Kit seemed better than I’d have expected…”
+
+Despite his polite words, his eyes narrowed in clear concentration on something else as he straightened.
+
+“That aside, I sense… odd magics. What is the nature of this special person, Mistress? If I may be so bold as to ask.”
+
+Tala gave a little smile. “Well.” She closed the portal behind them. “Master Rane and I want you to meet our daughter.”
+
+Mistress Kannis gasped, covering her mouth in surprise before she laughed in happy startlement. “Oh, Mistress Tala! That’s wonderful news. I didn’t even know that you were pregnant.”
+
+She stepped forward, giving Tala a big hug, which Tala returned a bit hesitantly.
+
+“Congratulations, truly.”
+
+Tala smiled. “Thank you, Mistress Kannis.”
+
+Fannas’s frown deepened. “I do not detect a human child in the vicinity.”
+
+Mistress Kannis waved her companion off. “This is Mistress Tala’s sanctum. We won’t sense anything she doesn’t wish us to sense.”
+
+He slowly shook his head. “Mistress, I do detect a soul descended from Mistress Tala and Master Rane. I do not detect a human child.”
+
+That pulled the other woman up short. She had already been stepping back from the hug, but now she moved back with obvious hesitation in her actions. “Mistress Tala?”
+
+Tala sighed. “There were… complications? …Oddities? Oddities. Lea is not your standard child.”
+
+“Oh, I’m sorry to hear that…” Mistress Kannis gave her a long look, then slowly nodded. “How about we meet her, then? Fannas, let’s go.”
+
+Fannas was hesitant. “Mistress, I—”
+
+She shook her head, cutting him off. “This is their sanctum. We are perfectly safe here.”
+
+“So long as they aren’t compromised.” The small man’s voice was firm as he continued his mild protest.
+
+That caused the woman to hesitate.
+
+Tala let out a frustrated grunt. “I’ve already met with Mistress Jenna, and Mistress Elnea has been following this whole situation quite closely. I won’t force you to come meet her, but there is no danger. Besides, Lyn is already here as well.”
+
+That was enough for Mistress Kannis. “Very well, we trust you. Come, Fannas.”
+
+“Yes, mistress.”
+
+Tala led them down the path that she’d created the entrance on. The three went around a turn in the path and came upon Rane and Lea already sitting at a hexagonal stone table.
+
+Lea was wearing a sunhat that hid her soul-medium, even if the reason she was wearing it was for an entirely different purpose. The girl had been shading her eyes against the light, and Tala had seen it as an opportunity to introduce her to head-wear. Once Lea had hair, she’d almost always have something in it or on it, so getting used to the sensation earlier would be quite useful.
+
+Thus, to Mistress Kannis and Fannas, Lea simply looked like a young adult with an extreme case of albinism.
+
+Well, she would look that way to mundane sight.
+
+“An automaton? Reality’s pawns. Mistress! Get behind me. They have no hostility to voidlings, but you are in grave danger.”
+
+Mistress Kannis seemed quite taken aback by her bonded creature’s reaction, but magic still began to swirl through her, not interacting with any inscription yet, but clearly ready to activate them at the slightest hint of danger.
+
+Mistress Lyn stood, holding out her hands in a halting gesture. “Kannis, Fannas. Hold!”
+
+The two stopped, though they both still seemed ready to run.
+
+Lea for her part was staring with interest at Fannas. “You look different.”
+
+Rane gave a small smile. “Lea, that isn’t kind.”
+
+“But it’s true.”
+
+“That isn’t the issue, sweetheart. Many true things are unkind.”
+
+“Oh…” The girl frowned. “What should I say, then?”
+
+“How about introducing yourself? We can take it from there, then.”
+
+“Oh! Okay.” The girl stood in a rush, practically flouncing over to Fannas who was clearly uncertain about her approach. She gave a quick bow. “I’m Lea Sappherrous. It’s a pleasure to meet you. What’s your name?”
+
+Fannas seemed to decide that he was happy with his position between his mistress and the girl, and so he gave a slow bow in return. “I am Fannas, bonded of Mistress Kannis.”
+
+Lea giggled. “Fannas and Kannis? Did you bond because your names rhyme?”
+
+The silver man blinked a few times. “No… that was a… happy accident.”
+
+“Oh! That’s wonderful. If you are bonded, I’d ask if you are married, but that’s not how it works for non-humans, right? I mean mother is bound to uncle Terry, but they aren’t married. That would be weird because he’s a bird. So, you must be some sort of companion, right? That’s amazing! I haven’t met many companions, and I didn’t know that they could be so obviously sapient. Have you met many other companions like yourself? Are you a unique creation, or is that odd distortion around you an indication that you come from somewhere else where you might be more common?”
+
+Fannas hesitated, clearly a bit momentarily overwhelmed by the words. Still, he shifted out of a ‘ready to flee’ stance, settling into dialogue with Lea. “No. Yes. No. Yes.”
+
+Lea hesitated, clearly processing back through her own questions. Her smile grew. “Neat! What kind of creature are you?”
+
+“Lea…” Rane let out a slightly defeated sigh.
+
+“Yes, dad?”
+
+“You should ask something closer to: ‘I haven’t met anyone quite like you. Can you tell me about yourself?’”
+
+“Oh! Okay.” She turned back to face Fannas once more. “You’re different from anyone else I’ve met, not that I’ve met that many people. Why are you different? Tell me why you are you!” She briefly glanced toward Rane, then appended, “Please.”
+
+Mistress Kannis had visibly calmed during this back and forth, and she was now obviously holding back a smile.
+
+Fannas glanced back toward Mistress Kannis, and she gestured her assent.
+
+“Very well. I am a keeperling of the void, given this form through various magical means and bound to the Mage Mistress Kannis for a term of service from now until the sun ceases to shine.”
+
+Lea’s eyes widened, and she glanced up at the artificial sun in the sanctum’s sky. “Oh, my. Is that soon?”
+
+“Not that sun, and yes, as some conceive of it.” Mistress Kannis cleared her throat, causing the silver man to continue. “Well, not as most humans would count such things. Also, my term of service would end if my mistress perished, but as that would cause me to lose my magical anchor and be cast back into the void, the end of my service would be the least of my concerns if such an event occured.”
+
+“Oh… I see.” Lea seemed somewhat at a loss for what to say next.
+
+Tala sighed. This is going to be a long afternoon…
+
+She cleared her throat and gestured to the food, prepared and ready on the table. “Shall we sit and continue the conversation?”
+
+“Yes, mom!” Lea hopped up onto her toes as she spun around and practically skipped back to her seat.
+
+Mistress Kannis and Fannas followed, most of their hesitation gone for the moment.
+
+* * *
+
+Tala flopped down in her bed beside Rane, who was already only half-conscious.
+
+Lea had finally settled down and fallen asleep. Well, she’d entered into the state that was ‘sleep’ for her.
+
+How can it be so exhausting to have kids and their friends around? That did bring a smile to her face. She has a friend.
+
+Lea and Fannas had hit it off in a rather odd way. Both were consciousnesses that were entering into human society from a point of full sapience and understanding rather than growing in comprehension along with capacity at a slow, measured pace.
+
+I hope that Lea isn’t as… stilted as Fannas after she gets used to things. Tala did have hope that that would be the case. Already Lea was more… human? Yeah, that’s the way I’d put it. She’s more human than Fannas. Her interactions and words seem to be more natural to her. Her mind and thoughts are more familiar. Fannas always feels a bit odd.
+
+“Thank you, Rane.” Tala whispered to her husband.
+
+“Hmm?”
+
+“Thank you for all that you did today. I think you are a great father.”
+
+“Hmmm.” He rolled over, pulling her close even as he muttered. “Thank you. You too.”
+
+Tala held back a laugh, giving him a kiss on the cheek and reveling in the comfort of her bed. Who knew that I’d sleep more after I had a daughter?
+
+-I think mothers everywhere would riot if they heard you say that.-
+
+Yup, mothers everywhere are a singular unit that can be easily predicted.
+
+-Wow… you have enough energy to snark? Maybe you aren’t as tired as I thought.-
+
+There was no response as Tala slipped into blissful sleep.
+
+* * *
+
+Tala was ready to let Lea meet some more people, and when she sought Lyn’s advice, she’d been surprised by the woman’s suggestion.
+
+True, after a minute or two of thought it had made sense, but Lisa definitely wouldn’t have been Tala’s first thought. Though, once she considered it, he was good with kids, open minded, and interacting with him could help Lea understand that people can be very different.
+
+Following the suggestion, while Rane and Terry took care of some other things, Tala had invited Lisa to tea with her and Lea.
+
+Well, tea and coffee. Tala wasn’t a barbarian.
+
+The fox-kin had graciously accepted, and Lea had been forewarned about his nature as non-human.
+
+At the appointed time, Tala observed Lisa stepping out of his own home, where he simply stood and waited patiently.
+
+She felt herself smile as she willed the man to her location in the sanctum.
+
+She and Lea were standing to receive their guest, and when he arrived, they both bowed.
+
+Lisa, for his part, froze on the spot, his eyes widening in apparent surprise. Even so, the fox-kin was not one for rash action, and he clearly perceived both Lea’s base, physical nature and the fact that she was more than she appeared.
+
+Finally, he bowed in return. “Mistress Tala, I assume that this… enchanting creature is your daughter, Lea?”
+
+“Yes, master Lisa. Thank you for coming to meet her. I’ve been meaning to speak with you about Reforging and other things, but that might not be the best course for this meeting.”
+
+Lea let out a small sigh. “I can try to understand, mom. Even if I can’t, I can listen regardless. I don’t mean to keep you from something that you need to do.”
+
+“Oh, you aren’t sweetheart. Not really.”
+
+“Really?”
+
+“Really.” Tala smiled.
+
+Lea perked up at that. “Master Lisa, what’s it like to be a fox?”
+
+Tala closed her eyes and let out a long, controlled breath.
+
+Lisa, for his part, just smiled. “I am a fox-kin but to answer the spirit of your question? It is just who I am. What is it like to be an automaton?”
+
+Lea shook her head, smiling in turn. “I am human. I just have a different body than usual. But I guess it’s the same, then? I’m just me. I don’t really know any difference.”
+
+“Exactly.”
+
+The girl nodded in thought. “If I had fur, I’d constantly be petting myself. There’s a cat in here, and petting fur is so nice.”
+
+Tala blinked a few times. Cat?
+
+-Yeah. When you were doing a bit of work, Lea was wandering the paths and the cat spent some time with her.-
+
+Oh! The cat that gave me a mouse as a wedding present?
+
+-Same one. It’s the only one in here, I think.-
+
+Right. She must be getting up there in years.
+
+-True enough, but she’s as saturated with magic as most things in here. I think she’s got a few years left at least. Maybe a few decades.-
+
+Maybe we should get another as a companion?
+
+-They’d fill this place with their spawn and kill everything…-
+
+Fair… cats are rather… efficient hunters.
+
+Tala, Lea, and Lisa moved over toward the tea-service set out for them, and they settled in to chat.
+
+As Tala poured tea for Lisa, she met his gaze. “As the ultimate authority here, I am stating, categorically, that no bargains can be made at this time, are we clear?”
+
+The side of Lisa’s lip curled up slightly, and he nodded. “As you say, Mistress Tala. No bargains, deals, or other forms of binding agreement will be started or agreed to, here.” He paused, taking a sip for dramatic effect. “After this one.”
+
+Tala chuckled, nodding once. “Agreed.”
+
+Lea looked back and forth between her mother and the fox-kin. “Mom? What was that about?”
+
+Tala gave the fox a look, and he sighed before explaining. “My kind are known for striking bargains that are not in the other party’s favor.”
+
+Lea took a moment to parse what he’d said, then she looked to Tala. “Why do people ever agree then? Do they lie?”
+
+Tala shook her head. “No, they don’t, but sometimes what is offered is too valuable to miss out on, or so people think. Also, obviously not every deal with them is like that. They are just prone to weighting deals in their favor, as all people who are negotiating strive to do.”
+
+Lisa shrugged. “Usually, we just punish laziness or impatience with our deals, but more than anything, we strive to teach others the importance of precise language.”
+
+Lea was frowning. “So… you don’t try to understand what people mean? You purposely misinterpret what they say?”
+
+“Occasionally.”
+
+Her eyes widened. “That’s mean! Are you a bad guy?”
+
+Lisa almost spat his tea out, but managed to catch himself in time. “I… what?”
+
+“My parents have told me that I need to seek to understand, even when people don’t say things that well. They said it’s unkind to try to trap people just because they didn’t say something well. You’re mean!”
+
+Tala did her best to suppress a smile, hiding it behind her coffee cup.
+
+Lisa’s eyebrow was twitching, but he managed to master himself. After taking another sip—and swallowing properly—he sighed. “Some people would agree with you, but you have yet to learn about magic.”
+
+“What does that mean?” Lea seemed genuinely curious.
+
+“Magic doesn’t always care what you meant. If you are in the habit of speaking lazily, and just demanding that others ‘understand what you meant’ then not only are you being a selfish person, but you could inadvertently trigger disasters when you wield power, assuming that you can make anything happen at all.”
+
+Lea frowned in consideration, and Tala’s eyes widened. Oh, no… She didn’t hear anything after—
+
+“You think I’m selfish?” Lea’s eyes grew big, pushing the edges of human proportions, as she gave Lisa a truly pitiable look.
+
+Lisa closed his eyes and muttered to himself, barely loud enough for Tala to hear. “She’s just a kit, she’s not trying to spar words with you. She’s just a kit, let it go.” He exhaled once, then opened his eyes and gave a toothy smile. “No, of course not, child. I am saying that you would be selfish to speak sloppily and then demand that others 'understand what you meant’ when you have other options, but I assume you don’t do that. Do you?”
+
+Lea shook her head vehemently.
+
+“Well, then. There you go. You aren’t selfish.” He hesitated before amending, “In that way.”
+
+Tala sighed. This was going to be a long afternoon.

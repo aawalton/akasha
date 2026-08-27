@@ -1,0 +1,261 @@
+---
+id: 2b53bf1c-da35-534f-b61b-fca3df5dbd81
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 723 - Maternal Instinct and Refinement"
+slug: 0232-chapter-723-maternal-instinct-and-refinement
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 232
+ownLength: 3183
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3626208/chapter-723-maternal-instinct-and-refinement"
+royalRoadId: "3626208"
+---
+
+Tala was not happy. Not happy at all.
+
+She had an itch deep down in her very being, and when she’d investigated it, she found that a bundle of reality threads were tingling, a part of her Reforged form resonating with whatever they were connected to.
+
+She was flying between cities in the middle of the night, and she had been sleeping.
+
+Now, she felt concepts connected to The Consumer stealing her sleep.
+
+More irritating still, she thought she understood.
+
+Those threads were most likely those connected to Lea, and given the impartment of maternal weight given at Tala and Kit’s union, it could only mean that her daughter was in danger.
+
+What’s more, it had to be great danger, as Tala had never felt anything like this before, even when Lea had been fighting Black Legionnaires in Platoiri.
+
+And she couldn’t go to her.
+
+Why not?
+
+Firstly, Tala had a task to do that was actually rather important and which would be difficult for almost anyone else.
+
+She had a dozen Revered beings in her sanctum, expecting to be transported to battle with the Black Legion at her side. They’d be rather cross if she either dropped them off or simply didn’t take them to the agreed upon destination.
+
+Secondly, and more importantly, even if she threw everything else aside and literally tore across Zeme, she was hours away from where Lea would be at this moment—assuming she could find her at all, given reality threads had a frustrating tendency to not be directional.
+
+Any danger the girl was in would be entirely resolved—for better or for worse—by the time Tala could arrive, and thus all she’d accomplish was potentially demonstrating to her daughter that Tala didn’t trust her.
+
+In that vein, thirdly and most importantly, Tala knew that she needed to trust Lea. The girl was full grown, even if she was still of an age that Tala felt she was too young to be such.
+
+Lea was Fused and seemingly moving toward Refining in her own way. Rust, the danger might just be the girl Refining. Stars knew that was a dangerous process.
+
+She deserved Tala’s trust.
+
+And she’s with three very competent guards. I doubt there’s a being on the continent who could ignore Eskau Pallaun in a conflict.
+
+-There are some who could kill him, but none would have a simple time… Maybe Anatalis?-
+
+I think it would still be a fight, even if the result wasn’t in question.
+
+-Fair.-
+
+Tala took a deep breath before growling at her manifesting maternal instinct. “This is not a gift…”
+
+She almost wished the creature would show itself again so she could slap it. -Yes, Tala, imagine attacking what is seemingly all but a void-god. That’s a good plan.-
+
+Tala grimaced. “Fair.”
+
+And so, knowing her daughter was very possibly fighting for her life far to the southwest, Tala flew on, her flightpath unchanged.
+
+* * *
+
+Lea swept forward through her pain, advancing on the captain with fluid grace, her blade cutting great arcs through the air.
+
+She wasn’t able to land the cut as the captain was retreating before her, but she was keeping it off balance, and that was a rather large accomplishment given the pain that was the last traces of her body’s subtle—but significant—resturcturing.
+
+Despite the pain, a laugh came to her lips, barely held back as she continued forward. Both her and her opponent fought with gray-ish weapons, while being white and black respectively.
+
+It made for a humorous spectrum of a fight.
+
+Her poetic side came out a bit. I am the light, driving back the darkness.
+
+She chuckled then, through pain-gritted teeth. Eskau Pallaun—someone who was almost literally the personification of darkness—was fighting on her side, and the whole battlefield was shrouded in minimal light.
+
+Honestly, it was only her nonbiological and enhanced eyes that let her see as well as she could in these circumstances
+
+She knew her opponent had an advantage in that, her own white form standing out more easily in the gloom in such a way that would have aided even mundane eyes.
+
+She didn’t care.
+
+She was now equal to or superior to the captain in every physical regard, and she’d gained the specifications to make those changes from a simple touch.
+
+True, the process of shifting over had been painful, but it hadn’t really been that difficult.
+
+A thought came to her at that, and she grimaced. I need to ask Eskau Pallaun to let me touch the commander before he destroys him.
+
+It was frustrating. If the differences between the different levels of automata had just been ‘more material here’ or ‘less of this compound there’, she could have simply intuited what further progression would be.
+
+Instead, large parts of it were complex chemical and magical formula, in which only one or two components or variables were changed minutely—some up, some down—altering the resulting allows and systems like the fine-tuning of a masterwork clock.
+
+She couldn’t just reach in and pull out gears, expecting it to be ‘better’ at the end. What she was doing was the equivalent of changing the exact number of teeth on specific gears, while altering their weight and structural form to result in more precise, long-lasting movements.
+
+And the commander’s schema would be filled with more such improvements, more refinements.
+
+She opened her mouth to call out, but that’s when the last bits of lingering pain left her mind allowing her to realize that the captain hadn’t been pointlessly retreating.
+
+It had been leading her, and she’d been so distracted by pain and elated at her advancement that she hadn’t noticed.
+
+The trap sprung shut.
+
+Reality fields linked as rapidly as a stack of plates clattering to the floor, the captain’s field connecting and taking preeminence before spearing it toward her, a look of triumph briefly across its features.
+
+Her reality armor blunted the hit, the field that she, herself, generated taking quite a bit of bite from the attack, but even so, she couldn’t stop it entirely.
+
+Lea staggered, her magics under a weighty assault, her enhancements—and even some of her basic functions—threatening to go completely offline.
+
+She was in a ring of sergeants, all of which had been hiding by using the crumpled remains of obliterated automata, having used the bodies and gloom to go unnoticed as she drove the captain in a retreat… that it had clearly orchestrated.
+
+Rust my bones. She chastised herself for her overconfidence. She knew that the captain was more skilled than she was. Yet, she’d convinced herself that her improvement of physicality had crossed that hurdle?
+
+This was the result of her hubris.
+
+Nothing attacked her physically, but the reality field pushed inward, and she scrambled mentally, trying to figure out what she could do.
+
+She might be able to destroy a couple of the sergeants before her internal magics were entirely suppressed, but if they chose to retreat, keeping her in the middle of their circle, rather than fighting her?
+
+She’d lose and lose hard.
+
+Moreover, because that was the wise choice, they’d undoubtedly pick it. At the very least, she should assume that they would.
+
+She needed another plan.
+
+She had no inscriptions that could help through the inhibition. She hadn’t really been using her magics of momentum capture and redistribution because she wasn’t in the habit of it. Should she fall back on that now?
+
+Mom always said to practice how I would actually fight. I guess it goes both ways. She grimaced. She hadn’t been using her full toolbox. Instead, she’d been training others how to combat the Black Legion’s manipulations, the very thing she was now facing.
+
+…She’d been using this exact ability on others. She’d simply discounted it as useless against the automata, momentarily forgetting the systems she’d built into herself based on the discovered schema.
+
+Well… Here goes nothing. She grinned, activating the linking function, routing it through the command sections.
+
+There was a funny thing about command codes, at least basic ones like the Black Legion used. In order to be able to recognize them, all units had to have them in one form or another. For the Black Legion, that wasn’t an issue as they had perfect discipline, and no issues of hierarchy or subversion. The codes were also buried in such a way that only the automaton itself could ever access or utilize them either for sending outward or for verification.
+
+Moreover, for them to even be ‘checked’ by a Black Legionnaire, they had to have originated from an automaton.
+
+All this to say, Lea had incorporated a commander’s level of authority into her link, and they had no reason to have ever put precautions in place to mitigate such an abuse.
+
+Her connection to reality and power therein clicked together with that which had been pressing in on her, the unaltered functionality fitting together like couplers on a carriage.
+
+In that instant, the pressure on her magics vanished, her ‘reality armor’ slotting in and becoming the ‘inner’ border of the field that was otherwise encompassing the group.
+
+Then, with no pause or delay, no two-step process, or need for verification, she found herself in command of the field, generated by the combined weight of all those already interlinked.
+
+She almost just tore it apart, getting rid of it entirely, but in a moment of clarity, she realized that they could just rebuild it after she was done, and that would at most buy her a few seconds.
+
+She needed another plan, and she had one.
+
+With a feral smile, she sent two pulsing commands through the field to all surrounding Black Legionnaires.
+
+First was a call sent outward from the group to join their field to the actively growing one.
+
+Second was an injunction, forbidding any who were already a part of it from leaving.
+
+Then, she moved the entirety of the protective shroud of reality into the ground—only connecting to the various units below the knees, leaving those around her all but utterly exposed.
+
+Without hesitating, Lea spun in a circle, activating the inscriptions that borrowed most from her father, sending an expanding ring of slicing air outward.
+
+It only had the weight of a Fused behind it, and would never have penetrated even a standard soldier’s reality protection, but none of these had protections any more.
+
+Seven of the ten automata that had been smugly surrounding her a moment earlier lost their heads, their soul-cores and spirits instantly dissipating.
+
+The captain and two sergeants ducked under the attack, somehow realizing the danger, despite its seeming impotence based on everything they should believe.
+
+Good instincts.
+
+Around them, other automata were joining their weight to the reality field, having their protection stripped away even as they carried the request for connection further outward.
+
+It was an avenue of attack that they’d never experienced before, and so they were slow to realize what was happening, let alone adapt.
+
+“Eskau Pallaun! I need to touch the living commander!” Lea shouted to the wind, trusting that he would hear her.
+
+A moment later, he appeared at her side, holding the commander by the throat, the flesh of his hand writhing as if it had maggots beneath the skin. His voice was calm, but there was clear pain underpinning it. “Be fast.”
+
+And while the man’s voice sounded level, but by the tension and twitching throughout his frame, it was costing him.
+
+Lea snapped her hand outward, slapping her palm against the commander’s side, connecting to it and making her information request.
+
+Just as with the field integration, it was something that only an automaton could do, so there were no defenses in place against even such a juvenile attempt. After all, automata—by their very nature and the nature of reality—were always aligned with the Black Legion.
+
+“Thank you. I’m done.” Lea told the Eskau, and he threw the commander away—into a nearby boulder and shattering it—pulsing after him in a wave of shadow.
+
+The captain and sergeants had pulled back while the Eskau had been close, and Pillar Tili and Eskau Kanabo were quickly coming after her, making relatively easy progress now that many automata lacked any defense against magic.
+
+For Lea’s part, she couldn’t help but laugh.
+
+There it was, now within her. The information of a commander’s physicality, something that was a bit above that—likely a senior commander’s schema—and that of ‘The Truth’, which seemed even more perfected and fine tuned.
+
+Honestly, even with her mastery over the white steel of her makeup—and her mother’s granted authority over the body that had belonged to Tala for so long—Lea couldn’t follow the top-level specifications.
+
+Those of the commander, though?
+
+She tore through them, integrating them with her own schema at a lightning pace on an informational level.
+
+Unfortunately, the changes would be more extensive than those she’d made to subsume the advantages of the captain’s construction, and she was almost out of time in her reprieve.
+
+The captain came in like a blur, and Lea barely deflected its punch, slashing out in a repost that it spun around, leaving room for another to attack.
+
+More Black Legionnaires were closing in.
+
+Lea grinned, her inscriptions flaring to life, now unopposed by the machinations of reality.
+
+She was unwilling to leave power on the table, and so she began in her hands, devoting a considerable portion of her enhanced mind and will to the Refining of her form as far as she was capable of achieving.
+
+Black sand as well as more mundane contaminates practically rained down as she spun, sliced, and struck among the onrushing automata. The only thing preventing a scream from tearing from her lips was the fact that Lea had deactivated her vocal systems.
+
+No one needed to know just how much pain she was putting her self through in that moment.
+
+Soon enough, Eskau Kanabo’s heavy club and Pillar Tili’s wind blades—somehow impregnated and enhanced with iron—were tearing through their attackers alongside her, and the captain was driven back, falling into a support role rather than be overwhelmed by the three fighting side by side.
+
+Their only issue at that point was the endurance to finish the task. Well that, and their enemy’s willingness to continue the press forward.
+
+Unfortunately, while Lea should have been able to banish the soul-cores of the falling Black Legionnaires, she lacked the knowledge and fidelity to do so. Even if she had been clear of mind, she was already doing enough else that she didn’t think it worth the potential distraction to try in that moment.
+
+She was anything but clear of mind, most of her combat being handled by instinct embedded deeply within her form. At the same time, her soul was pulsing alongside the battle-instincts of her body, her boon shunted off to the side and actually given more control to let her mind have more freedom to act on other things.
+
+The expulsion of contaminants—both physical and meta-physical—moved up her arms in a slow, agonizing wave. At the same time, she pulled on her own store of white-steel, having a trickling stream of the material flow downward to prevent any sort of shrinking of her form.
+
+She, of course, purified and refined that material before she reincorporated it as well, otherwise the process would have been at least a bit counter productive.
+
+As a result, she had tendrils of white flowing out of her torso and into her arms, connecting just below the progressing wave of expulsion, contaminants falling free of the tendrils on their path as well.
+
+In that way, her body did not diminish, but her white steel armor did lessen by a bit.
+
+She tried to distract her internally screaming mind with a happy thought. I’ll have to try to pass this information on to Mom. Imagine how much more the Talons could do with improved material in their weapons and armor.
+
+Talax, at least, would benefit from having such improved metal at his disposal, if it worked. Because she wasn’t actually sure that it could be improved in the same way for them. After all, they were using ‘ambient’ magic, rather than her triune of power.
+
+It was something worth testing and considering… later. Even though the line of thought was a good distraction from the pain, she needed more of her focus if she was going to continue to fight.
+
+Eskau Pallaun seemed to have finally broken through the defenses of the commander, as when Lea now caught glimpses of that automaton, it was increasingly ragged.
+
+With the two others at her side, she no longer had as many close calls, and the whole battle became a foregone conclusion despite her tribulation. Well, it’s more that we can use magic against them than simply that the three of us are together.
+
+There were only a few hundred legionnaires left on the superficial when Lea felt an odd tug ripple through her.
+
+In that moment, every automaton turned and sprinted toward the closest rip into the Doman-Imithe.
+
+Several even ripped new holes before others dove through, closing them behind the group. She saw the captain that she hadn’t been able to quite finish off, close one of the closer breaches.
+
+What followed was a frantic minute where they destroyed far more of the beings, but they couldn’t possibly catch them all.
+
+Less than two minutes later, the four were left in a broken wasteland of a battlefield, shattered automata strewn about like broken toys.
+
+Eskau Kanabo was sitting, addressing a severe gash in his right thigh, and Pillar Tili had a clearly splintered wing. They each had innumerable smaller injuries, but they were otherwise still in fighting shape.
+
+Eskau Pallaun arrived beside them, holding the clearly non-functional commander. “Good, you all survived. Well done.”
+
+They all exchanged nods.
+
+“It is a shame that some got away, but I suppose even their soul-spirit pairs could have reported what happened here.” He grimaced, then gave Lea a consoling smile. “That was a useful thing you did, but if I understood it correctly, don’t expect it to work again.”
+
+She sighed and nodded. “I showed that I was no ‘wayward child.’ I don’t know how they’ll counter it, but you’re right. I should expect some sort of counter if I have the opportunity to try that again.”
+
+She grit her teeth, letting out a small whimper as her wave of Refining swept down her legs with measured progress, and Eskau Pallaun arched an eyebrow. “You figured it out?”
+
+She grinned despite her mental exhaustion and the pain that the process caused. “I believe so. I can feel my gate advancing as the body it's bound to is purified, perfected, Refined. I guess we’ll know soon if it’s enough to get me the whole way.”
+
+As the dual waves finished at the tips of her toes, a pulse of power radiated outward, her aura flaring yellow for a brief moment, bringing a laugh of triumph from Lea and congratulations from her three guardians.
+
+Lea Sappherrous, human souled and automaton bodied, had Refined.

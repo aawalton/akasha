@@ -1,0 +1,227 @@
+---
+id: 97ef7b98-a5ea-5643-8792-1e609a33d3d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 622 - Ignition"
+slug: 0124-chapter-622-ignition
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 124
+ownLength: 3418
+unit: words
+ownProgress: 3418
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2678049/chapter-622-ignition"
+royalRoadId: "2678049"
+markedReadAt: "2026-06-29T19:39:16.192Z"
+---
+
+Tala and her family passed the next weeks—waiting for the ignition of the city’s magics—in intensive training and preparation for the future.
+
+Lea studied momentum at a deeply theoretical level as well as increasing her understanding of the world in general and magic in particular. She also sparred with anyone and everyone she could convince to meet her in a clash. Though, she only pulled from those in the sanctum or Ironhold.
+
+She lost essentially every bout given her lack of overt magic and very shallow well of experience, even given her body’s inborn instincts, which she tried to hone as well.
+
+The girl also dug more deeply into her own make-up. Because her inscriptions would be tying into her existing magics, overlaying—and in some very select cases replacing—what was in her automaton body, she had to know them almost as intimately as Tala had known her biological form before getting her regenerative inscriptions.
+
+To her credit, Lea fully devoted herself to the venture, only taking breaks when she’d pushed herself to the ragged edge of mental exhaustion.
+
+That whole concept of Lea’s ‘mental’ exhaustion was odd to Tala. In the girl’s case, there wasn’t actually a separate mind to be exhausted. Instead, it was the girl’s soul that simply couldn’t handle any more input or strenuous processing. Since that manifested as essentially the same thing, that’s how they conceived of it and addressed it. The only real difference was that it was Lea’s soul that was being trained and strengthened, rather than her mind.
+
+Tala, Rane, and their alternate interfaces were all quite interested in the long term results of that. They were especially interested because at least Alat and Enar were effectively doing something quite similar, if to lesser extents because most of their actual cognitive processing was still being done via inscriptions rather than within the soul itself.
+
+In this, they were quite beyond the realm of any expert they’d been able to find. Lea seemed to have a true existence soul, with aspects of reality, magic, and void all intermixed and giving it as of yet unknown abilities. Some that were known were clearly a direct result of the circumstances of her conception. Her soul was aberrant in so many ways, due to its far more direct integration into her physical form.
+
+No one knew the long-term implications of that, but in the near term, it meant that she had to sleep basically as much as a child in order to let her soul rest.
+
+The closest thing Tala had experienced to that was gatebreaking, but that had been an entirely different type of soul stress. Still, the comparison was… worrying. It was possible that Lea’s soul simply wouldn’t be able to remain viably attached to her body long-term, but only time would tell. One year was far too short a span to watch for changes.
+
+At least she’ll be safe and hale for the near term.
+
+-Agreed.-
+
+Regardless, their daughter was striving for excellence, and her parents could hardly do otherwise.
+
+Rane was delveng deeply into philosophy of sorts, and the sparring matches he did participate in with the Talons, he strove to end in a single strike.
+
+He would often duck and dodge for long moments before lashing out with fist, foot, or Force to end the bout. He even took blows that he might have otherwise blocked or dodged—or even avoided entirely with his defensive magics—as he tested out various concepts and mindsets. His berserker ‘boon’ was more under control than ever, and he was working to impart his growth and control to their daughter as part of his overall work.
+
+He fought more normally with Tala and Lea so as to not affect their own work. Though, his lessons with Lea leaned more toward quick exchanges of violence, followed by long stints of discussion.
+
+She still hadn’t used her eyes to shoot fire as Io had done when fighting Tala with the same body. The only explanation that the girl had been able to give was that her mindset didn’t mesh well with those magics. So, even though they were connected, they didn’t really work.
+
+That would hopefully be corrected during her upcoming inscribing.
+
+Rane’s bouts with Terry were… unusual to say the least.
+
+From the outside, the two would simply stand, staring at one another for long minutes before one of them would blur, landing a match-ending blow while the other seemed almost to just take it.
+
+To Tala and Alat’s all-seeing perspective within Kit, the two were an absolute storm of magics, reaching out and countering faster than Archon-thought. In the end, when one moved, it was because the other was entirely mired within the other’s power and authority.
+
+Tala felt a little ashamed at her own surprise, when she realized that the two were neck and neck in win-count. She knew her husband was capable, but Terry had always been a beast with few equals.
+
+Come on, Tala. Have more faith in your husband. He’s not flashy, but his methods work.
+
+-Well… color me surprised. I didn’t have to say it this time.-
+
+Tala sent a glare toward her alternate interface. I love him, but my feelings have never been based on his combat prowess.
+
+-I would bet that he cares more than you think about your view of him, especially in this regard.-
+
+She hesitated for a long moment, then nodded. When next they were near one another, Tala went up on her tip-toes and kissed his cheek. “Hey, you.”
+
+He looked at her with narrow-eyed suspicion. “Yeah?”
+
+She smiled. “I just liked watching you fight. It’s really impressive.”
+
+He seemed to hesitate. “Really?”
+
+She nodded, giving him a quick kiss on the lips. “Absolutely.”
+
+He swallowed, then smiled. “Are you sure? I feel like I have a long way to go.”
+
+She nodded again. “Yes, I’m sure. We have different strengths, but you are really excelling at in-fighting, and I think even your medium-range combat is reaching new heights.”
+
+He pulled her in for an embrace. “Well… thank you for saying so.” He gave her a squeeze. “That really means a lot.”
+
+Terry—aside from sparring with the various Sappherrouses and occasionally hunting in Walden’s sub-hold—spent his time around New Makinaven. Given the magics weren’t active, his ‘human illusion’ remained inactive, but he managed to keep out of trouble… for the most part.
+
+The city authorities only had to contact Tala three times, and each time it was simply to inform her that there had been an incident, but it was resolved. No one died, and the few injuries were easily healed.
+
+For her own sanity, Tala left it at that, not digging deeper, nor doing more than ensuring Terry knew she was glad that he hadn’t hurt anyone seriously.
+
+The avian didn’t seem to feel the need to test himself in any specific way. His advancement was entirely tied to Tala’s, and from everything that she could tell, he was more than fine with that.
+
+As to Tala’s advancement, she had a lot going on.
+
+She spent a large portion of every day deepening her understanding of the merging magics and fundamental principles. After that, she studied the inscription set that Mistress Holly had built for her, delveng into every portion of the spellforms in all their masterwork glory.
+
+And they were that: A true masterwork.
+
+They were perfectly tuned for her eventual reality iron body, with the iron and even the inscriptions themselves created to be a true part of her biology from the magic’s perspective. That coupled with her work on the body itself would make the inscriptions self repair via her consumption of precious metals. Those magics drew heavily on the reinscriber embedded within her sanctum’s central dais as well as Mistress Holly’s various advanced methods for inscribing.
+
+Moreover—in the efficiency department—with the iron fully encapsulating every bit of her inscriptions so perfectly—in all four dimensions—even the metal that was ‘spent’ was largely captured, drawn toward collection points in her digestive system.
+
+It wasn’t perfectly efficient by a long stretch, but it was a massive improvement on what most Mages had to deal with.
+
+In studying, researching and learning everything she could, she built a new reality iron body for herself, from scratch, every day.
+
+Though, to call it a ‘reality iron’ body was woefully underrepresenting the true majesty of what she was doing. There was white steel and her own blood woven throughout, making the result much like her armor, at least it would appear that way up until she Reforged and the reality illusion was enforced in a way that magic, by itself, never could. It was hard to describe, but that was part of the issue.
+
+She wasn’t doing it perfectly. She still struggled, but that was most likely due to the fact that she wasn’t actually Reforging, not yet. When she did, the reality illusion should effectively sweep through the new body and make it hers at every level, unifying it as biological and metallic in one.
+
+She longed for how that might bring her closer to her daughter as well, but that was secondary to her core long-term goal of Reforging. In that regard, she expected it to take at least another five years for her to fully and completely grasp all parts of what she’d been given. At that point, she’d have to forge ahead at remaking it into her own solution, her own map of her own future self.
+
+In the short-term, she had to deal with her hand… well, the lack of it.
+
+It was simple to just make a hand-shaped block of white steel, but it had no feedback, and required direct, conscious control to get it to do anything. She tried making it out of reality iron, but she could feel how her very being resisted having an ‘extra’ limb grafted on. Even when she tried to frame it as a small addition to an existing limb, her self balked.
+
+She didn’t have this issue with tendrils from her armor, because she never really tried to make them limbs. They simply were. She observed them intricately and controlled them utterly at all times that they existed. She didn’t want that for her replacement hand.
+
+It felt like something that she could push through, but it also felt like doing so would be building barriers between herself and Reforging.
+
+In the end, she settled for the white steel hand. With Alat’s help, she was able to use it reasonably for the few things that had been irritating to do with only one hand. With her throughspike, it was also impossible for mundanes—or even less advanced Archons—to notice her injury.
+
+Thus they passed the time before the turning of the year and the ignition of New Makinaven’s spellforms.
+
+Ironhold was hardly idle during this time. Aside from the initial massive outflow of resources—and less extreme inflow of tradegoods—Ironhold also provided a base of expertise and production essentially attached to the side of the new city, ready and waiting to fill in almost any gaps.
+
+It was a known, short-term situation. So, it wasn’t like Ironhold’s presence caused the breaking—or even reworking—of contracts or business relationships, but with the citizens available as what amounted to a pressure release valve for everything from consulting to man-power, projects all across the new city were suddenly able to meet deadlines that were beginning to seem over-ambitious, and more were able to be both started and brought to fruition.
+
+The Talons ranged into nearby nests of magical and arcanous creatures for training, which also caused shifts in the region, going so far as to cause noticeable alterations in the regional zeme, toward the betterment of the city, reducing incidents—even if only by a bit—and leveling out magical currents to provide for an easier, smoother ignition.
+
+In the end, the entire near-region was solidified for humanity far more thoroughly in advance of the ignition than anyone had a right to expect, and the city was all but begging for the next wave of immigrants that would come in the new year.
+
+Thus, it was in a spirit of camaraderie that the Sappherrous family, Lyn, Ron, and several other key members of Ironhold—including Lisa—were invited for the ceremonial ignition.
+
+The festivities took place within the city’s Archon Compound, catered by many of the restaurants of note within the city. There was music, dancing, games of various kinds, and lots and lots of socialization.
+
+While Tala wasn’t much for dancing, she had the physicality and mind to make it a rather easy task, and it was an enjoyable diversion, moving to the music, her hands in Rane’s.
+
+Her husband also danced with Lea, and they both danced with many officials and people of note as part of the pageantry of the event, but they always returned to one another, treating those times as moments of rest amidst the storm of expected-extroversion.
+
+Lisa had remolded himself to be of a more human height to allow for his own dances with the ladies who were open to it. He followed his agreement with Tala to the letter, not making any new deals during the night, despite several conversations with more flighty seeming individuals causing the fox-kin obvious pain as he restrained himself.
+
+Tala had a brief desire to snatch up all the food and hoard it for later, but she let the urge pass. That wasn’t necessary any longer. She had more than enough, and quite a bit to spare.
+
+Terry indulged in the food, but even he kept his consumption to a reasonable level, leaving plenty for everyone else. Beyond that, he seemed to take great joy in flickering about, attempting to avoid detection.
+
+Several of the other attendees took to trying to keep track of him, pointing him out when they spotted him. At that point, he would flicker away, and the odd game would begin again.
+
+By the time midnight was drawing near, close to half of those in the large room were in on the game in one form or another. Some were even smart enough to try to draw the avian out with tossed treats.
+
+He always snatched them from the air if he ‘saw’ them, and that let people narrow in on where he was sequestered, given they could use that method to determine his lines of sight.
+
+Tala knew that Terry had access to one of her bloodstar clouds. So, he could see everything. Even so, the terror bird seemed to enjoy following the ‘rules’ that slowly built around the exercise, and she was just glad that he was having a good time in a way that didn’t involve violence or blood.
+
+As the last few minutes began to roll by, the crowd quieted, and a trio of Paragons came to the center of the space.
+
+While there were a few notable mundanes, most attendees were at least inscribed, and one and all, they recognized the power and authority of the three Archons.
+
+This room had been picked for more than just the spacious accommodations. In the very center the upper edges of the city’s spellforms breached the surface, protected by a thin layer of what seemed to be clear crystal. Though, it was obviously entirely permeable to magic.
+
+The spellforms were extensive in a way that mirrored the complexity of Tala’s own undertaking writ large—if for vastly different reasons.
+
+Still, even without intimate familiarity, Tala was able to see the three command and control points laid into the floor, forged of copper. These three would ignite the city’s magics, and then they’d become self-sustaining, free of the influence of any save the City Stone holder, when Master Jevin arrived with the Makinaven stone in another thirty-five years.
+
+Until then, the power would simply be used by the city, slowly building to the point it could nurture and meld with the Stone.
+
+Not that he’ll stay around much.
+
+-Yeah… Well, he’ll be here near the beginning of the cycle, once he arrives of course. Didn’t he say he likes roaming around near the edge of the forest during the Leshkin Wars?-
+
+You know he did. I imagine being too far from the tree isn’t fun either, but he makes that sacrifice for the betterment of those living here.
+
+-...Yeah.-
+
+We’re still not taking up a City Stone.
+
+-I know. I think we’d hate it… Rane and Enar aren’t interested either.-
+
+…Yeah. I mean, if they really wanted to…
+
+-But they don’t.-
+
+Exactly.
+
+At least, that’s how it had been explained to Tala. She didn’t truly understand the intricate mechanics of the process, but that was fine.
+
+As the three Paragons took their places, Master Tingain stepped forward, clearing his throat and gaining everyone’s attention. “Greetings, Mistresses, Masters, ladies, and gentlemen. I won’t take but a moment of your time. I know you aren’t here to hear me speak.”
+
+There was a ripple of a few chuckles through the room.
+
+“Thank you all for coming to the celebration of our city’s true founding. With the ignition of these magics, our citizens will finally enjoy the safety of a full city, and the real work can begin.”
+
+Cheers rose at that, many glasses rising in a salute to the idea.
+
+“First, we want to thank the Felsen clan for all of their work in shoring up the bedrock beneath the city and creating the walls that will aid in keeping the citizens of this fair city safe. Without their aid, our foundations would be weaker, and our city lesser.”
+
+That sent a larger wave of cheers through the room, which Tala thought was a bit backward. But that was fine. It was easier to applaud individuals than a concept. Scattered around the gathering, a large group of Mages and Archons—all sharing obviously familial features—waved, bowed, and otherwise showed humble acknowledgement of the gratitude.
+
+“We also would like to extend a special thanks to the Sappherrous family and the good people of Ironhold for their delivery of goods and citizens as well as their partnership with us over these last weeks. We are eternally grateful for their assistance, and we will mourn their departure.”
+
+Another round of cheering ensued, and she and the others bowed in acknowledgement and acceptance of the gratitude.
+
+“Finally, I would like to thank all of you, whether newly arrived or among the first arrivals, for your work and dedication to get us to this moment. The journey is just beginning, and may the next centuries bring prosperity to all who settle in this city.”
+
+The last wave of celebration was the largest yet, and it only calmed down when the trio began to work their magics.
+
+Their gates were thrown wide, and the entire throughput was funneled down into the waiting scripts. Beyond that, their magical density was bent toward the working as well, their bodies beginning to slowly drain.
+
+Beneath them—and stoneward—the wisps of power that had been gathering, and from which the anemic magical grid was already pulling, drew together, condensing and dropping further stoneward, deepening the magical well and increasing the pull on all the gated within the bounds of the city’s magics.
+
+Even though it was disparate, the sheer quantity of more than twenty-five years of accumulation dwarfed the contributions of the three Paragons, as it all sank into the workings beneath the city.
+
+With a resonant thrum, the inscriptions ignited, the magic flowing outward from the central point.
+
+Pressure like the hand of a Sovereign briefly washed outward, and the magical defenses were triggered to strike in dozens of places all across new Makinaven.
+
+Apparently, for all the Defenders’ diligence, there had been a good number of threats still within the bounds of the city, but that was to be expected.
+
+For a brief moment, as the magics were sparking to life one after another, Tala felt the city draw together on a Reality level, all the uninscribed gated becoming—in a sense—one from the perspective of the magics, becoming a singular, collective gate at the heart of the city’s inscriptions.
+
+Oh, oh! That’s how it fits?
+
+-Fascinating.-
+
+The being that was this city took a metaphorical breath, the various humans’ affiliation with the city giving them unity of purpose and opening them even further to the draw.
+
+Then, the obscuring scripts received their power, and Tala’s view on the collective ‘being’ of the city faded, leaving her utterly awed at the scope and depth of what she had just witnessed.

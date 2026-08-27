@@ -1,0 +1,145 @@
+---
+id: b2623aa0-70f4-588c-9fcb-8f492163182d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - Heroes (2) "
+slug: 0077-chapter-42-heroes-2
+partOf: metaworld-hopecore
+position: 77
+ownLength: 2183
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3406268/chapter-42-heroes-2"
+royalRoadId: "3406268"
+---
+
+Eric Lee had a habit as a boy who had grown up in Newfoundland, ice fishing with his father and running the dogs.
+
+His old man had taught him that he must always observe their surroundings and note every detail. The slightest misattention, a twig sticking out of the snow, a hidden branch, could mean a broken arm or worse, a mangled Lab.
+
+Now, that same power of observation was sending his brain into a dog sledge tailspin.
+
+When he walked in, he had immediately spotted Frederick Curon’s silhouette. His Director was slouched in his chair with the looseness of a man who was here to enjoy himself while looking like a house-Dad dressed in off-season Gucci. For anyone who knew him, the man’s disregard for wearing gifted fashion with no actual concern for fashion was legendary.
+
+Thankfully, there was no Trent Davis, but Eric did see that two rows to his left, a fellow record lawyer from the Billboard Summit in September. The lady whose name he cannot recall was Senior A&R, and if she’s here now, it meant she was at least a Division Head. There was another guy a few seats away, studying Eppie like a hawk. He had his Blackberry out at minimum brightness, and he sat like a man who had been told by some LAPA kid that recordings were not allowed, and that he would otherwise be asked to leave. Warner or EMI? Eric couldn’t tell, but he saw another guy to the guy’s right, one row down, grey-suited, grey-haired, giving off the same vibes.
+
+“Eric, what are you even looking at?” Emily asked. “The third act is about to start. Wasn’t Eppie great? She was so good. Gave me the shivers! Eric, are you listening?”
+
+Eric was listening and looking. He was looking at fucking Lucia Lancet, disguised with nothing but a baseball cap and a puff jacket, studying the girl on stage with a quizzical look, flanked by some handler from the Richards Estate.
+
+He was also looking at a god damn giant that made Lim look slim, sitting on the other corner of the black box, taking up two seats. He knew the guy as Big Brandon, Kellie Noah’s bodyguard, which meant the girl sitting in the row with a face mask and a white-blue Lakers cap had to be the No.1 Singer in the world right now.
+
+“Eric, stop checking out the girls and watch!” Emily was growing agitated. “Are you cheating on Eppie right now?” “I am looking, I am looking…” Eric said. BUT! BUT—! Eric wanted to shout. More than Eppie, I want to see a cat-fight between Lucia and Kellie playing Eppie in the middle!
+
+The hall lights dimmed. Scene Three opened.
+
+Shuttered, criss-crossing shards of geometric light form a cage on stage.
+
+Before the audience had noticed, Eppie had silently made her way on stage so that when the first beam of light fell, she was there among the shadows, miraculously using sharp shadows to mime a prison.
+
+She did not move, nor speak. The opening action was elsewhere, for the third set was the longest. Creon, Ismene, Tiresias, Haemon, each had their lines and interactions, affording the young actors an opportunity to stretch their wings while Eppie sat in the dark, in solitary confinement.
+
+It was brilliant symbolism. It was silence. The Chorus began with agency, demanding answers and asking questions, and ended with pure passivity, nodding along with Creon, growing bored with Antigone, just like a real-life news cycle. Susan Tyker, the lady who produced this, Eric discerned, had chops.
+
+When the play finally reached Eppie once more, the Press Conference was finished, the lectern gone.
+
+Creon’s Ensemble fades. Antigone is revealed in her tomb-cell.
+
+The lights that fell upon her now were hard and bright, like prison spotlights. The Chorus has retreated to the margins. They were now public opinion, men and women reading newspapers, doom-scrolling phones, watching TV, typing on an internet forum. Passive consumers, not seekers of answers or accountability.
+
+Eppie stood in the light with her old costume in a new configuration. The velvet headband was gone. Her blouse was open at the collar, untucked and tired. The checkered skirt was wrinkled and lifeless. She looked tired, worn, beaten down and trodden. The state had done this to her by merely ignoring her pleas, leaving her to rot.
+
+The sound of clunking, heavy gates. A spotlight follows Creon toward Antigone’s cell.
+
+The sound of sliding metal announced a visitor. Creon entered into the light, moving like a man who had won but found no satisfaction in the victory. He stopped within arm's reach of Eppie; his dress uniform was crisp. Hers were tattered.
+
+The boy playing Creon did his best to convey the complex emotions required for the moment. In Eric’s eyes, he was barely successful. Creon was supposed to play many conflicting roles here. Uncle, ward, father-figure, Defence Secretary, a mentor. The boy playing him just looked forlorn.
+
+“Anni. You know it doesn’t have to be this way.” Eric liked the boy’s voice. It was deep, resonant. His voice work was much better than his acting.
+
+“I know,” Eppie said, staring into the middle distance. Eric was no expert, but even he could tell that his girl had skill. “I know why you’re here. If I make a statement, retract my accusations, and recant my foolishness, then you’ll do something through the back channels. Look for Polyneices, recover his body, something like that.”
+
+“Will you do it?” “I won’t.” Eppie’s voice was oxymoronically quiet yet loud, timid yet firm.
+
+“Why not? Annie, you’re just… a girl.”
+
+“I know, but if I recanted—” Eppie turned to look at Creon properly, directly, facing the audience for the first time. It was kind of incredible how vividly her baby-blue eyes popped under the right lighting conditions. “Then everything I did was for nought. The cameras, the judges, the coverage, the twenty-million people who watched my accusation—it all becomes noise. Polyneices won’t come home, and the next soldier who sees the same horrors will stay quiet, because he watched me fold.”
+
+Creon’s body shifted its weight.
+
+“Do you remember when we were kids, Uncle Creon? At the base, you told us that the law was only as strong as the people who held it. You told us we don't get to pick which laws apply to us.”
+
+Eppie’s voice was gentle, nostalgic, soft as a feather. Support the creativity of authors by visiting the original site for this novel and more.There was a slow, collective exhale. Eric wasn’t sure if it was from Creon, the sound team, or the audience.
+
+“Anni.” Creon took a careful step forward. “For my sake, for Emmi’s sake, don’t do this. Your life, what comes after. Your whole life. College. Haemon. Kids. You can work in government. You can change the policy. I know you can.”
+
+Warm keylighting falls on Eppie.
+
+Eppie looked up toward the taller actor, her face near luminous and heartbreaking.
+
+“Then don’t think of what comes next, Uncle. Just stay here with me. Until it's time, we’re family. Father and daughter.”
+
+Against Eric’s expectations, Creon did not hold Antigone’s hand or offer to sit beside her.Instead, he walked away.
+
+The cold light follows him.
+
+Two figures move from the dark. It’s the Chorus. They were in military fatigues.
+
+“Take her,” Creon said, and in that precise instant—
+
+The spotlight winks out, casting Creon into darkness. The block lights criss-cross, entombing Antigone.
+
+Just as Eric thought the show was done, Eppie’s cell lit up. A monologue? Eric felt Emily’s hands grip his forearm in excitement.
+
+In her dishevelled uniform and imperfect makeup, Eppie pantomimed the act of holding onto a set of steel bars, then faced the audience.
+
+“Look at me.” “Look carefully.” “I won’t be here much longer.” “My name is Antigone. My father was Captain Oedipus—a man who served his country and died for it. My mother was Jocasta, who took her life when my father put country over his family. My brothers are Eteocles, who died wreathed in medals, and Polyneices, who will now die, or has died already in Syria as persona non grata. My sister and I are what remains of this family.” “I am fifteen years old. I went to school in Indiana. I was going to college. I wanted to marry Haemon and buy a small house in the countryside where he and I could argue about where to put the chicken coop.”
+
+“When I am gone, people will ask—”
+
+The Chorus speaks from the darkness.
+
+“Why did she do it?” “Was she a fool? Was her brother not a traitor by law?” “Did she mistake conscience for law?”
+
+The chorus surrounded her now, their bodies low and barely shapes. Military men. Family men. An office lady. A schoolgirl. She was invisible to them. The news cycle was over.
+
+Antigone continues to speak.
+
+“There are laws in our world. Laws written down by men. These laws change, as they have changed before, and they will continue to change, no matter the amount of monuments we build.”“But there is another kind of law.” “It is the oldest law human beings ever made with each other—before there were countries, before there were flags, before there was a Secretary of Defence. I did not invent it.”
+
+The light closes to a point.
+
+“I am not a martyr.”
+
+The silence floated through the theatre like a haze.
+
+“I just wanted my brother back.”
+
+Then—Blackout.
+
+Eric Lee realised, after a few seconds, that he had stopped breathing. He couldn’t speak for the rest of the lines or the play, but the last four lines. Those gave him the shivers.
+
+Wow. Eric gripped Emily’s hand and squeezed. He was starting to see the allure of local theatres.
+
+Eric did not applaud immediately. He wanted to see who would applaud first.
+
+And much to his surprise, the very first to recover was a lady with a very familiar silhouette, someone with a headscarf. His long-term memory flashed, then Eric almost dropped his programme. He should have noticed her; he really should have. No one else was willing to disguise themselves by wearing a Hermès shawl worth the price of a small car. With her camel-fur knit, dark trousers, Oliver People’s Glasses and her tight bun, anyone who had seen her before would recognise her again anywhere.
+
+Juliana Vaughan.
+
+The Chief Curator of the Metropolitan Museum of Art clapped politely, precisely for about two seconds before she was drowned out by others, but that didn’t stop Eric’s forehead from throbbing. What’s the Madam of the arts world doing here?!
+
+Bewildered, he looked around. He saw Director Curon, who looked like someone had just thrown a cup of iced coffee on his face. He looked at the talent scouts below, who did not notice. He looked at Kellie and Lucia, neither of whom made a move, for they had finally seen each other.
+
+That’s Juliana Vaughan! He wanted to shout at them. Do you not know the gatekeeper of high art? Have you not read the info dumps on the Met’s website?What made Vaughan’s existence special had already been amply demonstrated by the Vincent Exhibitions. She wasn’t just an American curator. She was a global influencer because the Met was a globally renowned museum, the apex of a global arts world. With a single act of curation, Vaughan had set the global canon across the Occidental world. She had ignited a Van Gogh fever in every nation for the next decade. If Starry Starry Night were to count every visitor whose ears it touched, Eppie would drown in Platinums.
+
+And here she was, wearing a knit and flats, in the back third of a black box with the most horrible seating this side of the hemisphere, watching a school production in East LA.
+
+And she had not come with Curon, Warner, Sony, EMI or Universal. She had come all this way just to see Eppie.
+
+Curon was limping down the aisle now, trying to greet Vaughan before anyone else noticed, likely to monopolise her time for Eppie, because Curon was a brutally cunning man who sniffed out potential like a Périgord pig digging for truffles.
+
+Around them, the house lights came up. The company walked out: Cameron, Min-jun, Sage, the full crew, then James Jules, then Chloe Vickers, then Eppie in her crumpled costume. It was a student play. The ovation lasted ten seconds. The actors had another ten. Then they had to fuck off so the next production could start. The audience stood, Big Brandon stood and clapped for ten.
+
+Emily hugged his arms and squealed. Eppie saw them and started waving with all her might.
+
+Eric Lee, lawyer, Newfoundland and Sony Entertainment legal counsel, waved back with both hands, then looked past his shoulder and realised Paco was in the crowd in a section not too far from him. Was she waving to him? Or to Paco? Did Eppie notice Juliana? He had no answers, but he did lose the ability to feel sensations in his lower back.

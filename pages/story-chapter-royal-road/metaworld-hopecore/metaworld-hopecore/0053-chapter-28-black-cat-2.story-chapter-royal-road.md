@@ -1,0 +1,203 @@
+---
+id: b47bea93-fea5-55e3-82a9-4a52d2269134
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Black Cat (2) "
+slug: 0053-chapter-28-black-cat-2
+partOf: metaworld-hopecore
+position: 53
+ownLength: 2256
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374353/chapter-28-black-cat-2"
+royalRoadId: "3374353"
+---
+
+Outside the Main Building, Eppie stretched out her body against the brick facade.
+
+“Whelp, that was useful,” she said to Eric. “I guess we should find someone to find Mio.”
+
+“Charlene is the obvious choice,” Eric agreed as he studied the other students staring in their direction. “You got anyone else in mind?”
+
+“Not really,” Eppie replied. “So things are moving fast, eh?”
+
+Eric wasn’t looking at her, but at the quadrangle.
+
+“What are you looking at?” she asked.
+
+“Halloween,” her lawyer said, looking at her all-black theatre get-up. “You doing anything?”
+
+“You know, I totally forgot about that,” Eppie became suddenly aware that, indeed, she really was out of the loop. With all the practice and the songwriting and the Valorie drama, she had completely forgotten about America’s hyper-commercial season of spirits. In truth, she hadn’t celebrated Halloween in as long as she could recall. Their gated community was full of very private people who kept to themselves, and the C-suite rarely indulged in the festivities they organised for their workers through middle managers.
+
+“I hear that Halloween is an ordeal here, in LAPA.” Eric looked at her again, then at the kids in the quad. “I take it you didn’t receive any invitations?”
+
+“Not at all.”
+
+Eric gave her a strange look. “You’re telling me that with your popularity, your songs, your number of friends on MySpace, you…”
+
+He stopped.
+
+“When’s the last time you checked your MySpace?”
+
+Eppie suddenly felt sodden as cold sweat permeated her cheap t-shirt.
+
+“When’s the last time you checked your email notifications?”
+
+Her brows grew equally drenched with realisation.
+
+“JESUS CHRIST, Eppie! Go check them now!”
+
+With a glowering Eric looming over her, Eppie turned on her computer and checked her Social Media summaries.
+
+From: [email protected] To: [email protected] Date: Friday, 27 October 2007, 5:47 PM Subject: WEEKLY WRAP — Oct 20–Oct 27 🎃 (please read the bit about Kyle!!!)
+
+Hi Eppie!!
+
+Hope the week went well! Here's your weekly wrap!
+
+NUMBERS
+
+MySpace profile: 4,340 friends (up 318 from last week — the Halloween bump is real, people were sharing your page like crazy). I posted that little "Happy Halloween from Eppie 🎃" message on Wednesday night, and it got 214 comments by Thursday morning, which is genuinely insane.
+
+YouTube: The clip from the Vincent segment is up 130,000 views. Someone reposted it on a fan forum (LAPerformingArts.net). I've been lurking ther,e and the sentiment is really positive. We’re now only 210,000 views from the big 1 million!
+
+IMPORTANT
+
+I have a call with the journalist from LA Youth magazine on Monday about Vincent. I'll handle it, but I may need a quote or two from you — I'll send a separate email with like 3 super easy questions. No rush until Wednesday.
+
+THE KYLE SITUATION (please read this one!!)
+
+OK so. A boy named Jules Hernandez left like 37 comments on your profile over the past week. I replied to a few of them (friendly, nothing weird), and now he has told his friends that you and he are friends for real. I've gently cooled off the replies on his end. Situation managed 👍
+
+ACTION ITEM
+
+That's everything!!🌟
+
+Maddy
+
+Madeleine Filmore | Junior Artist Relations | Sony Music Entertainment
+
+“I should really read these emails…” Eppie confessed with both eyes closed. “I don’t deserve Miss Filmore.”
+
+With professional efficiency, she tore through the emails, penned a few thank yous, answered the 3 questions, and affirmed that, yes, she would go dressed as a cat, whatever that meant.
+
+“Okay, now what?” She turned to her Newfoundland.
+
+Eric pointed at himself, reflecting her confusion. “Now, you go find a cat costume, I guess…”
+
+While they walked down to the Old Music Building to see if they could beg for favours from the costumes department like every other student who lived on campus and had no access to craft supplies, Eric had a few more questions for her.
+
+“You have a photo sesh at Lightbox Studios next week, after Halloween dies down,” her lawyer reminded her. “Are you ready for the fame? It won’t be instant, but if Umbrella really hits the no.1 spot, you won’t be an unknown anymore. Sony will also replace your art covers with your portraits, for obvious reasons.”
+
+The reason, of course, was that a good face sold more downloads. The very same reason Ebooks had to have outlandish covers.
+
+“We should keep Vincent’s cover as the Almond Flowers,” Eppie said after a moment. The song was a tribute to a great artist, not a vehicle for her ego.
+
+“Fair,” Eric replied. “I’ll pass it on to the team.”
+
+At the entrance to the Old Music Building, Eric bid her adieu.
+
+Costumes lay in the older section of the building, largely left untouched by the renovation carried out by Omnia Construction, down from the East Wing and in the basement. She passed a dozen others who carried costume bags, and so arrived with confidence when she saw the sign that read:
+
+WARDROBE — AUTHORISED ENTRY ONLY
+
+The door was askew and sounded like there were already people inside.
+
+She knocked and entered.
+
+Inside, Wardrobes was long and low-ceilinged, lit by bulbs that must have been there since the building was erected in the 50s. Having seen Sony’s Wardrobe, however, LAPA’s felt minute by comparison, consisting only of thirty or so racks of assorted, sorted genres, labelled by production years.
+
+Spring '06,
+
+Fall '05,
+
+Spring ‘04
+
+Fall '04.
+
+There was a very specific odour to the room. Something that was a combination of hot glue, dry-cleaning, and mothballs.
+
+At the entry, she was accosted by a large woman with light brown hair. The nametag read Ms Olivia McGregor, and she had the look of a gritty fairy godmother, the type one might find at a medieval festival selling custom bodices. The seamstress looked up at Eppie and acknowledged her with a curt nod.
+
+“What do you need?’
+
+“Hi…” Eppie waved, flashing the woman with a golden smile. “I was wondering if— “
+
+“Size?”
+
+“Huh?”
+
+“Er… 0?”
+
+“Your THREE sizes,” Stein looked exhausted by her lack of knowledge. Eppie touched a hand to her bosom awkwardly. One would think the [System] might have that on file…
+
+“Come here,” the woman said. She coaxed Eppie behind the desk, then produced a tape measure. “Arms up!” Eppie did as told.
+
+“5'3"... 33-25-35,” the Mistress of Costumes jotted down her numbers on a yellow parchment, then handed it to her. “Nice long legs. Hmm. Short torso. Looks good in photos, but terrible for sharing costumes.”
+
+Ms McGregor stepped back and pursed her lips. “Alright, what costume do you want?”
+
+“Cat?” Eppie asked. “It's for—”
+
+“Yes.” The woman left before she even finished.
+
+When she returned, Ms McGregor carried in one hand a skinned cat on a rack, tail and all, with a headband with ears.
+
+“Production costume, Fall 03, we did a production of the Alley Cat Musical. This one’s a bit loose. You’ll have to use pins. It’s also the last one of its kind left. We never repaired the other damaged ones. Unitard, tail, headband, greaves and gloves. The construction is stellar. I sewed the unitard myself. The tail has a spring plate; it bounces when you pounce, haha!”
+
+“It sounds kind of precious…” Eppie gulped. “Is there a cheaper one?”
+
+“It’s gathering dust anyway, luv.” Ms McGregor shrugged. “And you look a bit cattish.”
+
+"Okay, thank you," Eppie pawed the air.
+
+“Sign here. Year. Name. Number. Student Number.” Ms McGregor tapped on a form, then returned to her table. "Back by Thursday morning, clean. If there's any damage you report it before I find it myself. You don’t want to be on my black list."
+
+"Of course." Eppie draped it over her arm while dodging the tail. "Thank you, Ms McGregor!"
+
+The woman made a purring sound that was a little unsettling before returning to her work repairing another costume.
+
+Outside, Eppie held the costume in a daze.
+
+She had experienced a lot of complications of late, so she had not at all expected to pick up a costume and be done with it within ten minutes.
+
+Now, she had enough time left to take the costume home, come out for lunch, meet with her friends and then attend the afternoon arts block.
+
+The final block of arts before Halloween was conducted with a new instructor with a long history of working with LAPA students.
+
+Dr Cooper did not announce the arrival of the woman responsible for coordinating the art aspects of the Fall Gala with Susan Carr. Instead, he allowed her to walk into the classroom while the students stood in a semi-circle, working on softening their bodies.
+
+Before they knew it, a woman who looked older than her gait and body suggested stood before them, her brilliant hazel eyes scanning the students one by one, landing ultimately on Eppie in the centre.
+
+The look, Eppie read, was that of a veteran event organiser checking the inventory before the big show. What she could not tell was whether the lady was satisfied with what she saw.
+
+“Students, allow me to introduce you to our Producer. Susanna Tyker. She has been working behind the scenes, providing us with the ideas, the support, the logistics and the means to create our manifestation of Antigone for the showcase. She has recently completed her responsibilities for a professional project, and she will be with us for two days of the week until the Fall Gala.”
+
+The students clapped.
+
+Cooper stepped back. Tyker looked at the room. She looked at Eppie. Eppie felt the hair on the back of her neck rise. The vibe the lady gave off was eerily similar to that of Maggie Smith playing a first-impression McGonagall, albeit much younger.
+
+"Theatre is fun," Tyker said. "But foremost, that fun is for the audience. What you're going to have is harder than fun and better than fun. What you will do for me is work."
+
+Their guest instructor let that sit for a moment.
+
+"My name is Susanna Tyker. I have produced and was Production Manager on thirty-one productions. I’ve done Regional theatre. I’ve done Broadway. I had one West End transfer that nearly made me quit and go back to the English countryside where I grew up. I've worked with three-hundred-dollar budgets, and I've worked with three-million-dollar budgets, and I can tell you with certainty that, give me enough passion, enough skill, and a good enough script, a budget is almost never the problem. If we wanted, we could do it in the Quad, using nothing but the sun and a few reflectors." She looked around the semicircle without appearing to evaluate anyone. "The problem is almost always that, like your young bodies, some in the room decided early on, once they pass the audition, they stop listening.”
+
+Eppie nodded. She liked Tyker already. The lady has done this sort of thing before, and she knew that stubborn stones had to be ploughed out of the way before they sent the tractor.
+
+"Antigone," Tyker began to move. There was a collective shift in the room, the sound of two dozen teenage spines straightening. "You all know the plot. The girl buries her brother. King says my LAW. The girl says I am natural LAW. Everyone dies."
+
+Tyker stopped by Madison, whose face instantly turned pink.
+
+"But Dr Cooper has taught you better than that. This production is about what happens when the law is correct, and Antigone is also correct. It is about simultaneousness. When duty to the state and duty to the dead pull in opposite directions, and there is no position you can stand in that doesn't cost you something. That’s the cost our country pays when it puts boots on foreign soil. That's what postmodern means in this context: not breaking the fourth wall, not edgy re-readings of the original, not anachronism as a frill for a better costume budget. It means we make our modern audience see that there are lessons in the old art. We saddle them with a question that has no real answers. In real life, there is no turning back time. All we have is revision and regret.”
+
+Someone near the back, Eppie didn't turn to see who, coughed to clear their throat.
+
+"My job," Tyker continued, "is to make sure you have everything you need to do that. Scheduling, logistics, production meetings, technical rehearsals, and the dozens of conversations with the lighting board operator that happen before a single cue is set. You won't see most of what I do. If you're seeing it, something has gone wrong." A brief pause. "You will see me in this room. I will be watching. Not to catch you out, but to understand what you're building, so I can build around it."
+
+She circled back to Cooper.
+
+"Mr Cooper will give you the final rehearsal schedule." She spoke without the need for emphasis, which somehow made it more definitive than if she'd raised her voice. "Any questions about process, scheduling, or technical needs are welcome in my office. Any questions about the text, the character, or your own grievances will be directed to Mr Cooper or Mr Costello. I may have put your Fall Gala into place, but it is very much a LAPA production. Ergo, I wish you all good luck."
+
+She looked at the room one more time.
+
+"Good. Scene 3. The Bride of Death. I want to see how our Sophomores measure up against the Juniors and Seniors."

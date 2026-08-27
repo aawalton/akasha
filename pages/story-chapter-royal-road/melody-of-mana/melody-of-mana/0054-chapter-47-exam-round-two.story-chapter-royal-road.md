@@ -1,0 +1,179 @@
+---
+id: 9e2251cf-bd46-5637-ae64-5e6a6a7cdfbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 Exam Round Two"
+slug: 0054-chapter-47-exam-round-two
+partOf: melody-of-mana
+position: 54
+ownLength: 2501
+unit: words
+ownProgress: 2501
+publishedAt: 2021-09-24
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/755687/chapter-47-exam-round-two"
+royalRoadId: "755687"
+markedReadAt: "2026-06-29T22:28:03.662Z"
+---
+
+The sun rose early on our last morning of study, and I rose to meet it. That in itself was rather normal, having lived on a farm, then working a morning shift I was used to waking up at the crack of dawn, if not a bit earlier. Breakfast was a bit of a hurried affair, where Dras joined me looking quite a bit less like a morning person. I wondered if he'd stayed up studying all night, but that didn't really matter that much, today was a day for prepping.
+
+As we finished a rather tasty meal of soup and bread we looked at each other and began to talk over the important points of his studies. His having taken the test before was a big help here, since he already knew the basics of what was on it.
+
+After breakfast we decided to take a walk down the merchant district, then up to the Academy gates. There was no real reasoning for this, just a good way to get outside a bit and go enjoy the Autumn air. The gates were closed, but he'd registered for the test weeks ago, so there were no worries there.
+
+After lunch we went for a bit of magic practice through the afternoon, going over each and every spell he planned to show them during the practical. I was satisfied that he had a good variety now, and some of them really did show off more of his control than his fire ribbon spell ever had. He planned to make a few small ice sculptures, just to show he could, and even made me a small cat that fit well in my hand as practice. Add to that the various water and fire tricks and I was confident about how far he'd come.
+
+Unlike the last few days we went slowly through all of this. The point was to bring confidence, he had the material down, all he had to do was show it. My only fear was that he would get too nervous or something, and that might cause him problems. That was the whole purpose of today, to make sure he didn't.
+
+We went out for dinner, something I almost never did. I liked to think of my life as frugal, though in the opinions of others it might be considered spartan. For that reason I'd only ever been to a few of the various eating establishments throughout the city. Dras claimed to know a place though and led us on, right up to the edge of the noble's district of the city.
+
+The place he led me to was rather more tall than the rest of the buildings around it, though significantly less fancy from the outside. As we entered I could see small wisps of aura around the hostess, one of the weak, barely there kinds that signified those who'd never developed far, or were suppressing their power.
+
+"Welcome to The Tower, do you have a reservation?" She asked as we came up, this place was far, far more than I was used to.
+
+"Dras, should be a place on the top."
+
+"Indeed there is, right this way please." She turned and led us over to a spiral staircase, taking the steps up slowly and with the grace of someone who did it every day.
+
+Our table was on what might have otherwise been the roof, and it looked out over most of the city. It was even possible to see over the wall in places. From here I could tell why they had built this place as they had, there was a clear view to watch both sunrise and sunset on either side, a rather well thought out gimmick.
+
+"My parents brought me here when my magic first manifested. They were so happy to see that I had a real chance that they spent the coin we normally wouldn't. Since then I've loved it, and tried to come back a few times. It's too expensive to do often though."
+
+"Thank you for sharing this with me. It's certainly lovely."
+
+"The food's amazing too. I would have preferred to bring you in the morning, but... well, I couldn't afford, or get reservations. Too many couples..."
+
+I didn't really follow that, but I'd ask later. I seriously wondered how great the sunrise here would be. While it would be a great view, it would also mean waking up so very early that I would probably pass.
+
+"Morning would mean waking up early though, night is better."
+
+"Yeah, I guess you're right." Dras passed me over a menu, an actual small paper one.
+
+We decided to have fish. It was brought in daily from a local river and slowly baked. The light greens and citrus it was served with worked with the flaky pale meat. It was also one of the cheapest things they had. I worried about how much Dras was spending on this outing, and while I appreciated it, I didn't want to break his bank. Also, I hadn't eaten decent fish in some time, so it was a nice change.
+
+"So, are you excited?" I asked between bites, making a note that Dras' table manners really needed some work.
+
+"A bit, I know that things will be very different tomorrow. That I'll take one more step towards being who I want to be. Thank you, for everything."
+
+I looked at him as he gazed towards the slowly setting sun. "You're welcome. You did the work though, how far have we come since we met?"
+
+"Well, I don't see any groups of angry women around here for you to put to the ground." He smirked over at me.
+
+"I'm sure we can find someone, just have to look hard."
+
+He was chuckling as the waitress came by and asked us if we wanted dessert.
+
+"Yeah, what do you have for it tonight?" Dras answered for us.
+
+"Oh, we have a new product coming out of the East of the country. It's called ice cream, and it's quite wonderful. We have three flavors, strawberry, roasted cinnamon apple, and honey walnut."
+
+I nearly died. Both at hearing that it had spread this far, and at the flavors. Some of those were a bit... original, where was the chocolate? The vanilla? The mint? On second thought, honey walnut didn't sound all that bad though.
+
+"Honey walnut please." I tried to keep my face from breaking as I asked.
+
+"Then I'll go with the roasted cinnamon apple." Dras seemed to be weighing the options as I choose mine.
+
+"Okay, what's with the face?" he asked after she left.
+
+"I wasn't really expecting it here."
+
+"You have ice cream where you're from? I've never even heard of it before, but if it's from here I'll trust it's good."
+
+"Um... yeah, I think our village was the first to make it, though we just used honey for sweetener, I imagine they will have some amount of sugar in it here in the capital."
+
+"You and your sugar, that stuff's too expensive." He shook his head with a good natured smile.
+
+When it came I thought Dras' eyes would pop out of his head. He was obviously keeping himself from just digging in all crazily. I was glad to see he liked it.
+
+"You know, you could make this stuff pretty easily Dras, you can make the ice for it. You'd have to get a churn and all, but it's fairly straightforward to do."
+
+"Really!?" he coughed, "I, I mean, that's great, you'll have to show me some time. I can see why people like it."
+
+We laughed and tried each others' flavor as the sun set. The view from up here did not disappoint at all. Dras paid the bill without letting me even see it, said it was a thank you for teaching him so much.
+
+As I waited for him I could hear the hostess from the back room talking to one of her coworkers.
+
+"They're so cute, and her manners, she's got to be related to a noble family."
+
+"A daughter, here?"
+
+"Nah, cousin or something like me. The boy has an aura too, I think he might be first generation, if only he were a few years older..."
+
+"Are they?"
+
+"Casters? I think so, maybe physical, but I'm betting casters."
+
+"Oh, that's good, if we get more casters or hopefully even nobles for business... But I meant a couple."
+
+"Most definitely. I'd wager their families set them up or something, trying to get them together to improve everyone's standing."
+
+"Yeah."
+
+At this point the door to the back was opened by another passing wait staff, and I got to see the hostess pale as our eyes met. I wanted to go collapse in a corner or something, but she was probably having a minor heart attack at the idea I might cause a scene. I wouldn't, the food was good and her assumptions were not that far outside of the average.
+
+I decided not to share their thoughts as we walked back to The Sky. It was still early but we both turned in. Tomorrow was Dras' big day, and he needed his rest. I looked at my sugar jar and considered making him something sweet, but decided against it. I was sure there would be celebrations afterwards for his inevitable success.
+
+Our morning was fast. Dras' parents came to pick him up and take him over to his exam early. His father and I exchanged a nod and smile while his mom scowled in the background. He seemed like a nice enough guy on that short meeting. I was planning on leaving a bit later as I did last year, they needed their time together after all.
+
+Upon arriving at the practical I met the same guy again. He stood there as he always did, giving me an amused smile as I came over. I knew by this point where to go, but it was tradition to speak to him, so I did.
+
+"Ah, I'm glad to see you returned. I did notice that your friend didn't quite make it last year, but registered to retake today."
+
+"Yup, we neglected the practical too much, but I've no worries this time."
+
+"Oh? I took the liberty of going over his exam results. On the written he got top marks, it was only by a small margin that he didn't make it before. Had he been the child of a noble, or even a close relative..."
+
+"That's a lot of favoritism."
+
+"Of course, not showing how much we prefer the higher classes would be unthinkable." He said it as if giving nobles an easier pass was the right and proper course.
+
+"Are you telling me that I'll have to struggle hard to make it in then?"
+
+"That depends. If you're truly skilled you'll have no issues. I would say that if your little spell from last year wasn't just a one off fluke then you'll do well."
+
+"It wasn't, and thank you."
+
+"You're quite welcome, would you by chance be willing to show me another?" Now we got to the meat of it. He wanted to see what I could do.
+
+"I'm planning on taking the exam next year. Why not run my practical if you're so interested?"
+
+"Oh ho! It isn't often that people come to me so snippishly. Very well, I shall."
+
+"I mean, I don't even know your name..."
+
+"Ah, well. I must wait until next year to learn more about you, so I see no reason to tell you more about myself until then."
+
+I wasn't sure how much I liked that this guy was a teacher, but he was fun conversations every now and then at least.
+
+"Fair, see you next year."
+
+"Indeed you shall, and best of luck with your friend young Adraias."
+
+"Dras doesn't need luck, he worked hard."
+
+The laughter as I left was a bit irritating. I'd have to come up with something quite fun to show him next year. I had an idea or two on that, and it seemed well within the realm of possibility.
+
+As I sat in the stands and watched I knew that he was on the right track. I saw all that we'd worked on pulled out and displayed for the tester, and cheered to myself for my friend. Unlike last year his test went on and on, well after those who had been canned early were ousted.
+
+He made it of course, and that night the party we threw at The Sky was amazing. I pulled out the sugar and we tossed out a few caramel apples for the table. Dras' dad got a bit drunk and sang several songs with Lucien, sadly he had no skill at it. Even his mother was friendly, we still didn't like each other, but there would be plenty of time for that later.
+
+Dras had less than a week to prep for school, and prep he needed to. I saw the list of things he needed to get ready and nearly fell over. He'd been debating but ended up going with living in the dorms. The walk in every morning from where we lived would be too much. Preparing for that was an effort though, and I only saw him a few times in the evenings.
+
+The evening of his first day of classes I sat at a table, enjoying a meal. It was strangely lonely. I had gotten so used to sharing my evenings studying with Dras that him not coming by felt sad. Like there was just something missing from that part of the day. I really needed to make new friends or find a hobby.
+
+It was as I considered this that a beleaguered looking man stumbled in. His jaunty hat was to one side, and he looked like he'd been traveling hard for days. Even his normally colorful clothes seemed a bit more sedate. Then again I'd known him for... Wow, about a decade, and he was pushing into his late twenties, maybe early thirties at this point.
+
+"Well, well, well, look what the cat dragged in," I said as he drew near.
+
+"If it isn't the traveling troubadour of trouble." Lucien added, having appeared by my side in his characteristically silent way.
+
+"Alana!? Good grief how did you get... You know, never mind, I don't want to know."
+
+"So, is it a father, a spouse, or the law you're running from?"
+
+"Oh come now Lucien, when is the last time I..." He cut himself off as he saw both of our smirks.
+
+"To tell the truth, I just wanted to get away from the borders."
+
+"Don't tell me we're going to have another war with the Empire?" That was a thought I truly dreaded.
+
+"No, we won't. Mostly because the Empire no longer exists." The silence that greeted that statement spread through the whole room. "I see news hasn't made it this far yet."

@@ -1,0 +1,117 @@
+---
+id: b7d9a621-f80c-55c3-95f0-9a46f236e0f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 235 Return"
+slug: 0249-chapter-235-return
+partOf: melody-of-mana
+position: 249
+ownLength: 1845
+unit: words
+ownProgress: 1845
+publishedAt: 2023-05-09
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1207875/chapter-235-return"
+royalRoadId: "1207875"
+markedReadAt: "2026-06-29T22:34:25.844Z"
+---
+
+Ulanion
+
+Our group fled back to the city at speed, the... whatever that was, was gone, and now we could return home.  The fortress would be where we went just as soon as we could, but getting back to the city was our first concern.  I looked down at the reason for that in my arms, her hair wild in the wind.
+
+Something had happened during the spell, we all felt it, the feeling of approaching, unstoppable doom.  That feeling had grown and grown, like a massive shadow on the world until, with a final pop, the crater went back to looking normal, or as normal as a massive hole in the ground could look.  At that point the woman I was now racing along with had fallen over, vomited violently, and then fainted, mumbling a bit.  Even now blood leaked like tears from her nose, her ears, her eyes, and the corner of her mouth, clearly something about the spell had gone horribly wrong.
+
+My mount was pushing as hard as it safely could, and while I could have gone faster, I couldn't do so for the whole distance.  As for the rest of the men with us, a few had lingered behind to keep an eye on things while the rest of us went to get our bard medical help.  The pair in the town might not be able to do much, but they could at least see to stabilizing her.
+
+The gates grew before me at speed, and seeing our charge the guards quickly moved out of the way.  Luckily they had the gate open and the good sense not to get in our way.  I'd only seen where the bards lived on some of the maps, but my memory was pretty good and I was sure we could find them.
+
+The knight, Glen, pulled up beside me once we got within the walls.  I had to slow a bit, if only to navigate and take corners safely.
+
+"Calm down, haste here could make things worse," he advised.
+
+"I disagree.  There are a pair of casters in town, they might be able to help.  Can you send one of your men to the waystation to check on things?"  I replied as we made our way to the northern part of the town.
+
+He turned and barked a series of commands to some men, and a troop of three broke off from our mass.  A few civilians ducked out of the road, pulling children to the side and out of our way.
+
+It was fortunate that finding my target was easy, I knew the general area and just had to look for the only place around with trees.  They were small, and it looked like they were being pruned often, but the little copse was almost exactly where I expected.  The house was on the nicer side, and the plants near the door flowering brilliantly, a few crimson apples hanging from the branches there.
+
+I climbed down from my mount and quickly hauled Alana over to the door.  I slammed on it, hard, perhaps a bit too hard as there was a light cracking noise the third time my fist connected.  There were quick steps and the  son we'd fought with appeared in the door, looking aggrieved.
+
+"What in the world... oh goodness."  His eyes grew in size as he took in the woman in my arms.  "Oh, shit, get inside, inside."
+
+I was pointed over to a couch where I could set Alana down.  "I'm not sure what happened, she was casting, and then when the spell ended she puked and then this."
+
+The man paid me little mind, turning with a quick whistle and yelling "MOTHER!  FRONT ROOM!"  and while his voice wasn't too loud, the house still shook with the magic.  I had little doubt she could hear it.
+
+"Can you help her?"  I asked as he set to looking over her wounds.
+
+"I don't know, I've never seen this kind of injury before," he replied before he began whistling.
+
+About the same time his mother arrived, and began her own appraisal of the situation.  She must have heard her son, because she replied.  "Was she casting?  How many in the gestalt?"  My look of reply must have told her all she needed.  "Too many, needed to confirm, she'll need a proper priest, and we don't have one."
+
+"Can you see to it that we can move her?  If you do that it'll be enough."
+
+The woman nodded and turned back, adding her voice to her son's own performance.
+
+I found a comfortable place nearby and set to watching.  Nothing happened for awhile, the two bards working their magic over our own injured caster.  They went slow, but I could tell it was having an effect, some of the color returning to her face and all the bleeding stopping.
+
+I heard the horses before I saw anything, and turned to answer the door.  I didn't want our hosts to stop working until we were good and ready.  Outside came the knights who'd been sent to the waystation, along with the mayor.  I could only assume that they'd needed directions, he didn't look particularly happy.
+
+"Status?"  Glen asked from beside me.
+
+"Good sir," the leading horseman replied.  It was the best news I could imagine.
+
+"May I ask what's happening?"  Mayor Mallowsweet chimed in, eyes half-lidded.
+
+"Miss Jenna was badly injured and needs to be evacuated," I said.
+
+"How unfortunate," he replied with dripping sarcasm.
+
+In the split second he had to reflect on things he must have realized his mistake.  I'd tolerated his actions for awhile now, it was understandable, his people had been hurt and died because of our mistake, but there was a limit.  My fist clenched and I stepped, only to find the leading knight's hand clenched on my arm.  He was slower than I was, but also stronger.  I turned towards him, ready for a fight, until I saw his own angry eyes.
+
+"You were the mayor correct?"  He asked, and I didn't miss the tense.
+
+"Yes, I am."  The man still eyed me, and I wondered if he knew how close he'd come to me turning his jaw into paste.
+
+"Ah, then I have good news.  Your replacement will be here in a few days, please vacate the mayoral residence with your family."  His tone was calm and cool, even if his eyes told a different story.
+
+After the man had left I turned to the other knight.  "Can you actually do that?"
+
+"Officially?  No, but I'm betting that between myself and your complaints we can have him removed before anyone can call that bluff.  I also don't want you to kill him, it'd only cause more problems."
+
+Was it an abuse of power?  Yes, yes it was.  Was it wrong?  Also yes.  Was I still going to do it to punish someone who'd been so flippant about the woman I was courting almost dying?  Why yes, I would indeed.
+
+Alana
+
+I gasped as consciousness returned to me.  My whole body felt like it had been put in a blender and then simmered over a low heat.  The groan of pain must have attracted attention because as soon as I tried to sit up a firm hand pushed me back into... a bed?
+
+"Shh, it's okay, don't try to get up."  I raised my eyes to the speaker, an older man whom I didn't know.  He had a medallion around his neck indicating he was a priest of The Shield.
+
+"Ow..."  I replied with great wisdom.
+
+"It's okay, can you tell me what you remember?"
+
+"There was, it was, had to hide the mess.  It was turning towards us!"  As I remembered my last moments before passing out I knelt over the railing and dry heaved, an apt reenactment of that time.
+
+"Calm, calm, you're safe, you're safe, I promise."
+
+I spent most of the rest of the day with the priest, and a couple of his compatriots looking over me while I shook like a leaf.  It felt as if I'd walked up on a nuke that had only not gone off due to a failure to activate, right in front of my house.  The pressure of observation was gone though, and as I sat there thinking I convinced myself that whatever was happening wouldn't again so long as we didn't repeat an experiment like that.  I still didn't manage to sleep until the priests did something to knock me out though.
+
+When I awoke I had a few visitors.  Ulanion had strong-armed his way to my side, and that was nice.  Mother came by later as well.  The final visitor came with an entourage, though he asked for a bit of privacy, and we received it.
+
+"I'm glad you're well," Emperor Durin said, since we were at his fortress he'd probably been nearby.  "Some of your reports were handed over to me, and I've taken a few actions, but I'd like to hear your thoughts personally as well if you don't mind."
+
+It was weird for the ruler of a country to so easily come to see me in the hospital, but I was glad, because I had some major thoughts that hadn't yet been written down.
+
+"Shutting down all the gates is my suggestion, and not building any more.  Also, we need to find those that idiot princeling got and obliterate them."
+
+"That... is an extreme answer, and not going to happen.  They're still our strongest strategic resource," he said, a bit surprised.
+
+"Then please keep them well away from each other if you can.  That last test went wrong, more wrong than I could have imagined, and I think we had a near miss on losing that entire region.  If that had happened in a city, we'd have thousands dead from the initial detonation alone, and I'd wager it would get worse if there were more gates nearby," I explained.
+
+"I'll take that under advisement.  Clearly you've been through a lot Alana, and the priests have told me your overdrew on a gestalt, you're lucky to be alive."
+
+He was right on that.  I had felt that I was pulling too much, and every bard knew that could be extremely fatal, instinctively when they tried as well.  Not that I regretted it at all.
+
+"Please listen to me on this, if you listen to nothing else, please, on this.  When I'm back up I'll redesign some wards, and maybe something to clean up around the gates, but they're dangerous.  There was... something, something out there that could notice us, and I don't think we want that to happen."
+
+"Of course, of course, but for now, rest."  He patted my hand gently, and I knew he was just talking.  That was no good, but there wasn't much I could do about it.  If I kept on, he might even decide that I'd gone crazy, and then I'd lose all access, access I'd need if I wanted to change things in the future.

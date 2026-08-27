@@ -1,0 +1,223 @@
+---
+id: 7d855b74-7294-51aa-94a6-8df9a3ee1c3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 655 - We Must Clash"
+slug: 0161-chapter-655-we-must-clash
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 161
+ownLength: 2764
+unit: words
+ownProgress: 2764
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2919918/chapter-655-we-must-clash"
+royalRoadId: "2919918"
+markedReadAt: "2026-06-29T19:40:13.177Z"
+---
+
+Tala tried to meet the gaze of each of those present as her words hung in the air. Even so, it was Pillar Sanguis who finally responded. “Let’s get our other guests out here. If I am not mistaken, you can allow Eskau Meallain to speak with us while not having her breach her banishment, is that correct?”
+
+Tala nodded. A moment later, Rane, Terry, and Lea appeared around her. As they’d been watching via slates within the sanctum, they already knew what was going on.
+
+Similarly, Eskau Meallain was in the know. So, the woman wasn’t surprised when Tala drew a hollow square of iron to the superficial and opened a portal within it that allowed the elf to see out but not step through. Tala’s will kept it in the air as much as anything else, given the iron was hers.
+
+Tala very carefully, kept all traces of the magic within Ironhold from crossing the boundary, so none present should be able to tell what a trove of magic she held within.
+
+That would likely not stay a secret for long, but it would certainly muddy the waters in the current discussions.
+
+Pillar Sanguis gave a tight lipped smile as he looked at the elf. “I assume you were kept apprised of what was discussed?”
+
+Eskau Meallain nodded. “Just as I stated in my reports. Eskau Tala is able to share what occurs outside her hold with those within, if she so wishes.”
+
+“And in this case, she wished you to be kept informed?” The man clarified.
+
+The elf smiled. “Obviously. Additionally, I requested it of her, and she is kind enough to take my wishes into consideration.”
+
+That caused the Pillar to frown. “So, you truly are shackled by her? Suppressed and restrained?”
+
+Eskau Meallain nodded seriously, no hints of mirth in evidence. “Unequivocally. In that light, I would like to voice my support for Eskau Tala to be elevated to the position of Eskau of War.”
+
+His eyes opened wide in surprise. “Is this a personal recommendation, or do you claim to speak on behalf of your Pillar, Cruas, Second of the House of Blood? I will not insult you by asking if this endorsement is coerced or in an attempt to gain favor with your jailer.”
+
+“It is both personal and something I am confident in representing Pillar Cruas in. I state this of my own free will, without prompting or persuasion from Eskau Tala.” She stated the last with a bit more force than was actually required.
+
+The Pillar grunted, seeming to take a moment to consider before responding. “That… carries weight. Thank you, Eskau.”
+
+She bowed in return, her head almost crossing into the hold of the House of Blood but not quite.
+
+Rane cleared his throat, drawing all eyes to him. “I know we are discussing my wife’s position—and I don’t mean to detract from that—but what do you have for me, while I am here? I am content to be her protector both in name and truth, but I am able to do more, if you so wish.” After a moment of silence, he clarified. “I mainly bring it up in case my involvement might open up more options for the central topic, here.”
+
+Pillar Sanguis nodded along, giving his answer shortly after Rane stopped speaking the second time. “You are something we discussed at great length in preparation for your arrival. No matter what we do, you will be challenged. That cannot be avoided, and anything we did to mitigate it would weaken both the position of our House and that of gated humanity. We might have considered you as a Pillar, but that would put you beyond direct challenge, and such would be seen as a lack of confidence in your abilities and weaken both your position and ours.”
+
+Rane grunted. “Then, shall I act the part of an Eskau of humanity? Make and take challenges, spread the ‘honor’ of those I represent?”
+
+Pillar Sanguis held up one hand, horizontally above the floor, waffling it back and forth. “In a sense, but more accurately, we believe that you should take a stoic role. Accept all challenges, but don’t seek any out. That will show gated humanity as they expect, and elevate you further.”
+
+Rane grimaced but finally nodded. “We aren’t aggressive, but we respond to threats with strength and violence.”
+
+“Exactly. It will strongly present that to the population and minor houses, as well as the newer Major Houses.”
+
+He sighed. “I can do that.”
+
+Lea spoke up next, clearly seeing an opportunity to ask her own question. “Since we are discussing my family’s duties, what of me?”
+
+Pillar Sanguis gave her a kind, paternal smile. “You, Child, you should simply be. Grow in strength, enjoy what amenities our hold—and the city as a whole—can offer. I would also recommend you pursue the next step of your advancement, for your own safety.”
+
+The girl frowned. “But… I already have power. I have mastered my magic. I can fight. I can be of help.”
+
+He nodded along, an understanding look on his face. “Yes, you have, and you can. I can see that in your aura and in how you carry yourself, but those of the Houses who match you in advancement would be less than a half-century old. Such can hardly be trusted to show restraint, and so they are generally barred from duels.” He shrugged helplessly. “There simply are not any who could challenge you within the structures of civilized discourse.”
+
+Lea’s frown shifted to a grimace, clearly having latched onto a portion of what the man had said. “I’m less than fifty.”
+
+“I am aware. Your mother was last here less than thirty years ago, you could hardly be older than that.”
+
+She nodded in acknowledgement before pressing. “Still… I don’t want to just languish in a hold somewhere.”
+
+Tala cleared her throat. “You can come with me. It is not uncommon for Eskau to have an attendant, even if Children are generally not among those selected.”
+
+Pillar Sanguis arched an eyebrow. “And they are generally not children of those they attend, but…” He glanced toward Eskau Pallaun. “That can be arranged. At least, it can if we find a position into which you will fit.”
+
+Eskau Pallaun sighed. “It would be so easy if we already had another Pillar in Be-thric’s position, as Eskau Tala could come alongside that Eskau in a mentor role. That would solve our issue for at least a decade before it would become odd.”
+
+Both he and Pillar Sanguis gave Eskau Meallain dour looks, and the elf shook her head, responding in an almost flippant tone. “I’ve been gone for years. How is this my fault?”
+
+It was the Pillar who answered. “No one has been willing to step forward for consideration. Not since you killed the last one…”
+
+Eskau Pallaun shook his head. “Pillar Sean didn’t deserve to be killed.”
+
+Eskau Meallain shrugged. “He shouldn’t have taken the role then. It was clear enough that death would come.”
+
+Pillar Sanguis interjected. “Hence why no one else has stepped forward, despite your absence.”
+
+She simply grinned. “Wise of them.”
+
+He sighed. “Can you now make an announcement that you are open to the position being filled? We have quite a few candidates who are ready to be considered, and while we’ve filled other such positions Pillar Be-thric’s is still open.”
+
+Her smile turned incredibly self-satisfied. “And because of that, Eskau Tala’s position is uncontestable, allowing us to have this wonderful meeting, along with all its potential benefits for us all. Her absence for the first decades of a new Pillar’s tenure would have made her stepping in as their Eskau’s mentor now odd to say the least, if it would be accepted at all.”
+
+That got grumpy looks, but nothing else in response. Instead, Eskau Pallaun turned to regard Tala. “We do have one issue to deal with before we can send to the other Pillars for their official response to your potential new position as Eskau of War.”
+
+“Oh?” Tala was fairly certain she knew where this was going, but she didn’t want to assume. “Do tell.”
+
+He grinned in response. “I, of course, would be a much better Eskau of War. Therefore, we need to send along reasoning for the choice of you over me.”
+
+She gave a half smile in reply. “You mean aside from the fact that you do have a Pillar?”
+
+Eskau Pallaun shrugged. “He could take another if I were raised. You, in fact, could become his Eskau.” Before anyone could comment, the man shook his head and continued. “I do not want this, and it would go against the agreement which Pillar Sanguis used to draw me into his service, but the others will want a tangible reason.”
+
+“So?” She was sure now, but she still wanted him to say it.
+
+“So, my dear Eskau. We must clash, and show once and for all that you can hold your own, even against me.”
+
+“And if I cannot?”
+
+The man shrugged. “Weakness leaving our House is a good thing.”
+
+Lea’s eyes widened, and she looked to Rane. Her father met her gaze before looking back to his wife and the obsidian arcane. “It will be alright, Lea. Let them fight.”
+
+Eskau Pallaun laughed. “It’ll be alright, Child. We are not beasts to lay waste to all that is around us in a clash. The chance of either of us dying is very small.”
+
+The girl frowned. “But you said…?”
+
+“Weakness leaving the House? Yes. If she cannot defeat me, or at least give a good showing, then it is unlikely we will find a place for her in the House long term. It will cause some issues, but not as many as allowing weakness to take hold among us.”
+
+Lea opened her mouth to object but stopped herself, frowning in frustration and thought, clearly remembering many of the lessons that Lisa and Tala had both given her about arcane culture in the southern cities.
+
+Tala cleared her throat. “I must admit. I was looking forward to testing myself against you, Eskau Pallaun, though I did not think it would be in such a… formal bout.”
+
+The man shrugged. “The particulars don’t particularly matter.”
+
+She snorted a laugh. “Fight the fight, and let everything else fall as it may.”
+
+He pointed toward her and grinned. “Exactly.”
+
+“You haven’t changed, even after all these years.”
+
+The man huffed a laugh in turn. “All these years? Girl, you were gone for but a blink.”
+
+“Sure, old man, whatever you say. Now, let’s get to the ring.”
+
+Pillar Sanguis sighed and shook his head. “Eskau indeed. Come. We shall bear witness.” He then glanced to the portal through which Eskau Meallain was watching. “Can that be brought along? Or will you need to reopen it?”
+
+Tala nodded. “I can bring her along.”
+
+“Then let us move to the pit.”
+
+The group stood almost as one as they headed toward the very fighting arena in which Tala had earned her position as Eskau so long ago.
+
+This will be interesting.
+
+-Oh, yes. I am quite excited.-
+
+Tala found herself grinning. You know what? I am too.
+
+* * *
+
+Tala stood across from Eskau Pallaun, fully armored and with Flow formed in her hand, a sword ready and waiting, the sparring sheath not needed for this fight.
+
+Opposite her, Eskau Pallaun wore a simple shirt and pants—black of course, and somehow it wasn’t as dark as his skin—his protian weapon only barely in evidence as a darker shadow overtop the already obsidian skin of his right arm. “Do not hold back, Eskau Tala. I only ask that you avoid direct attacks on my existence, if you have found yourself so able.”
+
+She frowned at that, wondering what caused such an assertion. “What of dissolution?”
+
+He grinned. “That won’t be an issue. Your ancestors attempted to kill me with that enough times.”
+
+“And the arena?” Tala arched an eyebrow.
+
+Eskau Pallaun looked around, frowning slightly. “Wisely considered.”
+
+Pillar Sanguis called down. “I will activate the void-sheath. Do not touch the walls if you can avoid it. There will be a layer of hardened air overtop, but if that is breached?”
+
+He left the rest unsaid, and Tala almost let her mouth fall open as she saw magics she hadn’t even heard mentioned in passing before then.
+
+The walls of the pit turned dark before simply vanishing from her senses. From a mundane perspective, they likely still seemed black, but to anything more perceptive, it was obvious that there was simply nothing there. More, it was a consuming nothing, a nothing that would propagate to eliminate anything that it came in contact with.
+
+To that end, the air beside it almost immediately began to be eliminated, and a barrier of hardened air appeared, pulling back just slightly from the void, creating a vacuum barrier to insulate that void and keep it contained.
+
+Tala found herself nodding at the magics she could see, working to maintain the void in isolation from the hold on both sides. “Effective.”
+
+Eskau Pallaun nodded solemnly. “Necessary for some of our most powerful combatants. Though most of those are Pillars.”
+
+She grinned. “Because Eskau are generally melee fighters.”
+
+“Indeed.”
+
+“Is there anything else?”
+
+The man shook his head. “No, I think that’s it. This will be a fight between you and me alone.”
+
+Terry would be watching from above, so Tala nodded, her helmet growing up over her head. “Then we begin.”
+
+It snapped closed, leaving only her mouth exposed. As she opened her jaws, she immediately opened a portal into her sanctum lung, grateful that Eskau Meallain was in Ironhold, else she’d not have this tool at her disposal.
+
+-We really should use one of our extra spaces for an artificial lung.-
+
+Or several?
+
+-Could work, but not now.-
+
+Right, not now.
+
+The highly compressed, dissolution magic laden air lanced out, barely restrained by the magics imposed around the stream through the inscriptions in her mouth.
+
+Eskau Pallaun, for his part, looked mildly surprised, but not overly shocked as he leaned and shifted out of the direct line of attack. The man was a bit difficult to track being black on the background of nothingness, but Tala easily caught the movement regardless as that didn’t really matter to Tala’s perception.
+
+His dodge was also a bit useless, given she’d set the containment magics to release just in front of his position, causing the dissolution magic to blossom outward in a high-speed cone, almost instantly breaking the air apart and starting an exothermic chain reaction that roared forth, filling a full quarter of the arena with dissolution fire,
+
+From what Tala had seen, Eskau Pallaun should have been well within the area of effect, but a moment later, she had to twist, bringing Flow up to block a sweeping strike from behind.
+
+Flow caught the weapon that was more shadow than substance, but the resonant ringing from the clash made it clear that it was still a powerful tool.
+
+Eskau Pallaun laughed as he disengaged, pulling well back and letting her turn to face him once more after she cut off the stream of breath. “Impressive, Eskau Tala. I remember much of your capacities before. You have grown well into your power. That demonstration alone should earn you a position on the front lines in any conflict.” He tilted his head and grinned, showing over-white teeth. “Well, any conflict in which we don’t care about wanton destruction.”
+
+She huffed a laugh. “I can be precise when required.”
+
+“I have little doubt that you think so.” He winked, causing her to roll her eyes, fighting back a smile.
+
+After another moment, she shook her head before deciding to just ask, “How? I didn’t see you move. We’ve fought before and you’ve never shown anything like that.”
+
+“Perhaps I am faster than you realize.” He shrugged nonchalantly.
+
+She gave him a flat look. It was a look that she knew he could feel even through her helmet. “If you don’t want to tell me, just don’t. Lying is useless and beneath you.”
+
+“I did not lie, young one, but very well.” He shrugged. “That attack was very bright, and I am not in the light.”
+
+The final phrase rang like a bell to her perception, to her soul, as he uttered it, and she suddenly understood. That was at least a portion of his concept. Well… rust. This is going to be a pain.

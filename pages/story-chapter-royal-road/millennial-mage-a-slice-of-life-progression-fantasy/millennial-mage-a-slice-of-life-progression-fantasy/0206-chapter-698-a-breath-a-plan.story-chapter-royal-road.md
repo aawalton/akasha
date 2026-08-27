@@ -1,0 +1,259 @@
+---
+id: 40ccc285-f9b8-5977-8f0b-e4483d363635
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 698 - A Breath, A Plan"
+slug: 0206-chapter-698-a-breath-a-plan
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 206
+ownLength: 3651
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3312660/chapter-698-a-breath-a-plan"
+royalRoadId: "3312660"
+---
+
+Tala, Lea, Rane, and Terry put a serious dent in the stores of food that Kedva and her assistants had been building up as they dug into the feast within their private dining room.
+
+They each took comfort in their own way from the familial portrait on the wall, radiating the various auras and signatures of their family members, whether magical or mundane.
+
+The centerpoint of Tala’s opening platter was a chicken-pot-pie, with a spiced cider to compliment. Rane chose a drumstick that looked to have come from a horse-sized bird, and Lea had an entire platter of pastries.
+
+Each of course had lots of sides and accompaniments, but even they barely registered them, despite a knowledge that they were all delicious.
+
+Terry, of course, flickered to catch whatever the others threw for him… and he willed an entire roasted pig into being, then shrank down to the size of a house cat, locking eyes with Tala.
+
+Tala hesitated in her not-quite-gorging, pausing to look toward the terror bird with her full attention and a question in her gaze.
+
+He slowly—oh, so slowly—opened his mouth unnaturally large and consumed the entire pig with one slow, gigantic chomp.
+
+Tala snorted at the sight, her nose momentarily burning from the spices in the cider before she willed it away. “Terry, that’s ridiculous.”
+
+He chirped and squawked happily, clearly happy with her reaction and that he’d pulled her from the somewhat mindless state she’d momentarily fallen into.
+
+Rane and Lea had been facing the other way, and when they looked, there was, of course, nothing to see.
+
+Tala waved away their questioning glances, and willed in her next course, a long-hoarded cheesy-little-caravan.
+
+Both Rane and Lea’s eyes widened, her husband speaking first. “You have one left?”
+
+Lea gave a little pout. “No fair! You kept that secret all this time?” She looked vaguely up at the ceiling. “I am betrayed, momma! I asked if there were any more, and you said no.”
+
+Alat’s voice was a bit clipped given she was quite busy at the moment, but she still responded somewhat playfully. “-To be perfectly clear, sweet, you asked if there were any. To that I said: there are none available, no.-”
+
+Lea glared at the ceiling. “Twisty…”
+
+“-Lisa has trained you well enough that you really shouldn’t be caught by such things, dear. Now, I apologize, but there is a lot being coordinated, and your dadde and I are a bit stretched thin at the moment.-”
+
+“Yeah, yeah…”
+
+Tala then grinned, and two more cheesy-little-caravans appeared, one each in front of her husband and daughter, the specific ones with the slight customizations that the family member preferred. “I kept these to celebrate something. This qualifies.”
+
+Terry flickered to the table right in front of Tala, turning his head to stare intently at her with one avian eye.
+
+As he stared her down, the eye slowly began getting larger and larger.
+
+Finally, Tala laughed. “Gah! Stop that, Terry. It looks really odd.”
+
+She appreciated him going beyond his normal behavior to try to pull them from their post-battle daze. As such, she pulled another cheesy-little-caravan from the ether and tossed it to the side.
+
+The terror bird flickered to grab it, returning to give her a narrow-eyed glare, blessedly with normal sized eyes.
+
+He then threw his head back and swallowed before flickering away to let her enjoy.
+
+Her more human family members were giving her suspicious glances. It was Lea who spoke first this time. “How many of these, exactly, do you have secreted away?”
+
+Tala arched an eyebrow. “I can put that one back and have one more if you like.”
+
+Lea’s eyes briefly widened. “Nope!” She turned away, chomping down, her next words coming around the mastication. “All good here.”
+
+Rane huffed a laugh, shaking his head. “Thank you, love.”
+
+Tala smiled. “Absolutely.”
+
+How many do we have left, actually? Tala was curious.
+
+Alat’s tone was only slightly exasperated. -Three-thousand-two-hundred-fifty-eight.-
+
+…That’s getting low… Tala hid her frown behind a large bite.
+
+The alternate interface sent a sigh across their connection. -I’ll put in another order. We can pick it up next time we’re in the cycling cities? The time-locked storage we provided them with should allow another large shipment to be made ready.-
+
+Yeah. We’ll likely have to make that trip sooner rather than later, regardless. Tala sent appreciation back toward Alat.
+
+-Consider it done.- Alat was now purposely playing up her frazzled tone.
+
+Thank you. For that and all you’re currently doing.
+
+-It’s what I do.-
+
+Tala smiled as she took a bite of the glorious, chickeny-cheesy-creamy-spicy-goodness. The marinated and fried vegetables were a perfect compliment alongside the fresh-chopped lettuce and twice-fried beans. Well, fresh-chopped before it was stored.
+
+-Timeless storage is the best.- The thought was a bit throwaway as the alternate interface was always connected through Tala no matter what else she was aware of.
+
+Indeed. Tala only considered for a moment before deciding it was worth the use of resources. She willed a large cup into existence next to each of them, including Terry. The cups were filled with sweet, cinnamon milk that had been steeped in rice and blended before being strained and chilled. Perfect.
+
+The three other Sappherrouses exclaimed in joy at the addition, before thanking Tala and relishing the sweet drink.
+
+When that portion of the feast was done, they each pulled out a dessert as they continued to work their way through comfort foods in the wake of the battle.
+
+Rane and Lea would likely be crashing into unconsciousness soon, but Tala had to meet with the local powers that be, as well as likely coordinating with various City Lords, Heads of Houses, Archons, and even wandering village heads in the wake of this first attack.
+
+The Black Legion would be foolish to assume they’d have as easy a time assaulting the cities again, but the allied sapients of Zeme still needed to improve the defenses in case it was attempted.
+
+Moreover, the cities that hadn’t been hit would need to take extra measures to secure their columns, and those that had been, would need to find a workable solution to the missing source of power.
+
+But that was for later.
+
+Now? Now she needed to enjoy good food and time with her family. She needed to give her mind a break, even if it was only possible because Alat and Enar were keeping things moving.
+
+The Sappherrouses chatted about their various fights, the others giving thoughts and feedback as each shared their perspective.
+
+It was always interesting how different varying points of view could be, and they each had to concede that they could have handled things differently.
+
+Tala, though, was confident that the only reason she actually would have done anything differently was if she’d had foreknowledge. That didn’t make her actions perfect, of course, but given the circumstances, she’d acted as well as she’d been able.
+
+Rane gave her a comforting smile. “You really don’t practice with your existence workings, my love. I know that they are… terrible in some fundamental ways, but it’s worth working through the difficulty to find the power within.”
+
+Lea cleared her throat, drawing her parents’ attention. “Like our berserking ‘boon’?”
+
+Rane opened his mouth to respond but hesitated, frowning. “I… I suppose I didn’t consider it like that, but yeah.” His frown grew for a moment before it visibly broke, and he sighed, his shoulders visibly slumping in a sort of defeat. “We likely all need to train our abilities that cause us to lose control.” He huffed a resigned laugh. “I suppose I didn’t consider the similarities.”
+
+Lea laughed. “Yeah, wouldn’t it be funny if the enraged, hyper-focused state came from doses of reality or void being imposed on us?”
+
+She kept laughing, but her parents just froze, eyes widening.
+
+Her laughter trailed off. “Wait… you have to have checked for that… right?”
+
+Tala looked to Rane. “Master Grediv would have said something… I know I haven’t specifically sensed any reality or void in you during those times, but if it were veiled by the same working…”
+
+“We’d never see through a Sovereign-level obscuration by happenstance. Even intentional investigation would likely miss such a thing if that was the design.”
+
+They both turned to look at Lea, seriously considering.
+
+Tala swallowed. “We need to contact Master Grediv to ask. They have to have checked this through the generations.”
+
+Rane nodded. “Yeah. Enar’s already on it, but whether it is or not, we”—he gestured to himself and Lea—“both have reality and void aspects to our souls, so we could make it a part. That could make things worse, or…”
+
+Lea practically hopped in place. “Or! It could make the effects more powerful and put them more under our control, given it will be more volitional. We need to investigate this, dad. Please!”
+
+Rane chuckled in acquiescence. “Absolutely, sweet. It might give us another edge against the Black Legion next time we meet.”
+
+Tala gave a slow nod, then she started to move on, but Rane held her up.
+
+“Don’t think we forgot about you, either.”
+
+She grimaced.
+
+“I know you don’t like the loss of control, or the feeling of isolation, but they are powerful tools, Tala. You need to practice with them.”
+
+-Not to mention that mastering them might move you toward less dependence on your oh-so-influenceable body.-
+
+That made Tala grunt.
+
+It made a sort of sense, actually…
+
+She sighed and smiled at her husband. “Thank you, Rane. I appreciate your input. That aside, it seems like you might have a path forward?”
+
+He huffed a laugh. “I will admit that one of my biggest hurdles is figuring out how to handle my family’s… boon.” He sighed. “It is possible that I’ve been thinking about it incorrectly, but a lifetime of dislike… or fear is hard to consider rationally.”
+
+She filled his drink once more, and he lifted it in thanks.
+
+“Is there anything that we can do to help you prepare?”
+
+She sat up straighter before cracking her neck—a pure affectation, but one she enjoyed regardless. “No, but thank you. I just need to get all the ‘great minds’ together and figure out what the go-forward will be. We’re all adults—most with centuries of difficult situations and highly critical decision making under their belts—it shouldn’t be too difficult.”
+
+* * *
+
+Tala put her head in her hands and groaned as that not-quite-yelling continued.
+
+She and Alat were facilitating an Archive connection between the Cycling Cities, Platoiri, and several of the villages in the Wandering Wilds.
+
+None from the northern reaches were willing to risk the information dasgannach, but that was fine. More mundane methods of communication were already on their way to those allies.
+
+They would be being joined shortly by connections to several other arcane cities, but those connections were each being set up individually by necessity.
+
+Tala had almost forgotten that the nature of arcane magic made their use of the Archive all but unsecurable. Security within the Archive was based upon magical signature, and given all arcanes used ambient magic rather than their own? Nothing could be secured to a limited number of arcanes, and anyone who could match ambient magic could access those sections as well, and this needed to be kept secure.
+
+The Black Legion had never shown the ability to access the Archive in any way, but they’d already demonstrated that this war would be different.
+
+All sorts of ideas had already been put forward to solve the most immediate issue, that of the missing cores to ten arcane cities.
+
+One rather grumpy gnome hadn’t liked Master Grediv’s ‘attitude’—apparently—and she’d responded by trying to demand that the Cycling Cities provide gates with which to rebuild the columns as they had been.
+
+That had gone over about as well as could be expected, except that Master Grediv had gone against his reputation and simply refused, rather than actively raining down destruction at the very idea.
+
+At least he seems to fully grasp the gravity of the situation.
+
+Master Xeel, on the other hand, had offered to enlighten the gnome on why that would be a bad idea, and things had momentarily devolved.
+
+Thankfully, Tala had been there to get it back on track… until a younger Archon—only about two hundred—had asked if they couldn’t just trade for soul engines from the Mountain Kings or the other continent. He also thought it would be wise to try to make them themselves.
+
+Apparently, that was akin to asking why humans didn’t just all become Archons instead of having some become founts.
+
+Of course they’d tried to recreate or trade for such devices. They’d done so for centuries to no avail.
+
+Tala thought that she might be able to figure something out about them—they likely were an existence construct of some kind after all—but the time that a research trip would take while the Black Legion was in active conflict with them made it a non-starter. As such, she didn’t even mention the possibility. Still, there was a diplomatic mission in the works, and she could meet up with them as a part of it, if the opportunity presented itself, but that was still weeks away at the earliest.
+
+They tossed around getting volunteers from across the Cycling Cities and Wandering Planes from among the gated to provide power within new columns, and to Tala’s surprise, the idea wasn’t instantly shot down, despite the idea requiring the premature deaths of near-to a quarter million people.
+
+The Wandering Wild’s representatives seemed amenable to the notion, so long as it would not be forced, and the families of the volunteers would be well compensated.
+
+That was close enough to many of the customs of the Wilds that it wouldn’t be too out of the ordinary.
+
+Unfortunately, in the quantities needed, the bulk would necessarily come from the Cycling Cities where there was no such cultural foundation for the practice. As such, the Archons were less than pleased with the idea, but that’s where Tala stepped in once more.
+
+“We are looking for a volunteer solution, right? Not an enforced one?”
+
+That got some grumbles, but no one outright contradicted her.
+
+“And we still have some convicted of capital offenses, correct?”
+
+Mistress Jenna grunted. “That… I could see that. Would it be a prescribed punishment? Or a manner in which they could leave something behind to family or dependants?”
+
+Tala grimaced. “While I’d prefer the second, if we closed the option to any save the worst criminals, there are those who might commit those heinous crimes just to get that option, to offer a ‘better life’ to their dependents.”
+
+Mistress Elnea sighed, shaking her head through the projected image. “There are other social implications as well, but if we offer this option, it could be with a lower reward to the convicts. Then, the desperate would simply take the option, while we still incentivize the convicts as well.”
+
+Tala still didn’t like it as it was effectively taking advantage of people’s desperation, but that’s how many dangerous ventures worked. Rust, her own time working the caravans had been her putting herself in danger for greater pay in a sort of desperation. There were other options, so it wouldn’t be a purely nominal choice…
+
+The Revered City Lord cleared his throat drawing focus. “All of this is interesting in theory, but how many condemned criminals do you really have? What is the largest number we could expect from this?”
+
+The Archon grimaced. “Maybe, ten thousand over the next few years.”
+
+The arcane closed his eyes in an obvious attempt to master himself before he opened them again with a fire of irritation plain to see. “Then this is a pointless discussion. We need solutions, not social experiments with no hope of being sufficient. We lost the magical throughput of more than twenty-thousand vestiges, per city, and we need to address that shortfall.”
+
+Silence fell then.
+
+Mistress Jenna cleared her throat. “If the high-level goal is gates giving their throughput, and we want it to be sustainable and voluntary…” She stared hard at all the arcanes within her purview. “What about a hold that is specifically designed to capture expelled magic and release it at the anchor point. We could then put a teleportation circle in it and pay mundane gated to spend time within it?”
+
+Master Grediv gave a slow shake of his head, but grinned. “No, that could get a fair amount of interest, but not enough, at least not consistently.” He gave her an encouraging smile across the Archive connection. “That could still be a part of it, and it might even be the lion’s share, but what if we also make a part of the hold a resort of sorts? We could then put those ‘paid’ gated to work as staff, and the wealthier mundane gated could vacation there?”
+
+Tala frowned, feeling confused. “Are we forgetting about the degradation of holds under the influence of gated? There are holds here and in the Wandering Wilds with far more people within, but not gated.”
+
+Mistress Jenna shook her head, clearly picking up a bit of steam. “At worst, the hold should still be able to last a year, and if we start by building two, and switch over as soon as the first starts showing wear? That would let us know how quickly we should have the following ones up and ready. Hopefully, the war will be over before even that first change out is required.” She smiled, clearly getting a bit excited. “It would be more like the caravan cargo wagons than a House’s hold. We’d make them to be disposable in a sense.”
+
+The Revered City Lord grimaced, but also slowly nodded. “If I’m understanding the plan, it would be fiscally wasteful in the extreme but possibly less so than other options…”
+
+The gnome rolled her eyes. “So, instead of putting gated where they belong, locked down to remove their selfishness and put the power to good use, we’re spending war-resources to make them comfortable, to give them a place of leisure?”
+
+Tala turned on the Pillar, of the House of the Under-Night if she remembered correctly. “Would you like the Houses to fight this war alone? Would you like to take a two sided war that we have a chance to win into a three sided conflict where we can be defeated in detail?”
+
+The Pillar opened her mouth, but Tala wasn’t done.
+
+“The Black Legion hasn’t stagnated, and now they have hundreds of thousands of vestiges prepped and ready for them to attempt making new legionnaires with.” She explicitly did not add that it was arcane society and structures that had served up those resources to them on a silver platter. Such would alienate more than it would help. “We must stand together, and we must use our resources to best effect. Is this an expensive idea? Absolutely. Is it odd on the face of it?” She laughed. “Yes, and no. Is it improper for a soldier to keep their gear in as good a condition as possible? To eat tasty meals when possible? Of course not. It is understood that supporting all parts is a part of the war effort, and this is no different. It is not an idea I’d have thought of, but it’s the best one we’ve found so far that could not only solve the issue facing ten of our cities, but strengthen our ties to the primary ally available to us in this conflict on a societal level. It’s possible that you’re right, and this will be seen as inefficient in retrospect, but at the moment? It should work. I don’t know about you, but I’d rather not have our society collapsing into infighting due to a lack of power in ten of our cities. Would you? If you have a real idea, we’ll hear it.”
+
+The gnome grimaced, but finally shook her head, crossing her arms and leaning back in silence.
+
+In that silence, everyone present turned to regard Tala, and she realized that they were curious as to her thinking, curious if she had anything else to say. Though, by the mirth in Master Grediv’s eyes, they weren’t planning on following her, come rust or ruin. She sighed. “I said what I have to say. This is as good a short term solution as we have, while we hunt for the stolen columns and look for other fixes. In the leadup to this, we discussed the creation of a war council for the big picture once the war began. It’s begun. Get that going. I’m the Eskau of War, not the Pillar of War. There’s a reason there is no such position. I’m going to be on the front lines as much as I am able, and that does not lend itself to good leadership and strategy. I know my strengths, and by this point most of you should too. I’ll make the choices I think best where I am, and I’ll rusting weld you all together for this effort no matter the heat or pressure it takes, but I won’t be in charge of the large scale.”
+
+There were no objections and even many looks of overt approval.
+
+She would be glad when the Council was in place…
+
+Regardless, there was a quick, preliminary vote by those present, and thus, they had a stabilizer chosen for their currently teetering situation. The united alliance of Cycling Cities, the settlements of the Wandering Wilds, and the arcane cities would build resorts to entice gated to visit from across the alliance.
+
+…For the good of the war effort. She sighed, feeling a bit resigned. Out-of-the-box enemy actions required out-of-the-box responses if they hoped to win. This is going to be a very, very novel war… isn’t it.
+
+-Oh, undoubtedly.-
+
+Joy.

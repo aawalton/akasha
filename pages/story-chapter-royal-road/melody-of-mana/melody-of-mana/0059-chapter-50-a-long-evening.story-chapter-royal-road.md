@@ -1,0 +1,189 @@
+---
+id: 8b9b9a02-a9d0-5e89-9512-36c3bbbadc16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 A long evening"
+slug: 0059-chapter-50-a-long-evening
+partOf: melody-of-mana
+position: 59
+ownLength: 2927
+unit: words
+ownProgress: 2927
+publishedAt: 2021-10-08
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/763448/chapter-50-a-long-evening"
+royalRoadId: "763448"
+markedReadAt: "2026-06-29T22:28:13.752Z"
+---
+
+There was still a good amount of time to go before the beginning of the party, and I was expected to spend it socializing with the other girls that had arrived. Those that had come in already seemed to gravitate towards those they knew. The room had separated almost down the middle, with men on one side and women on the other, and a small area between the two where light conversation and introductions were being made.
+
+I meandered over to several girls who were marveling at the snowflakes, the spell was drawing a small trickle of mana from me, but I could keep it up for practically forever. They gave friendly smiles as I came over.
+
+"The snow is amazing! how is it not melting and making a mess do you think?" one asked.
+
+"Perhaps there's some sort of drying enchantment going on?" another commented, following a flake with her eyes.
+
+"Father said something about warm snow once, but I can't remember the details."
+
+"It's probably just an illusion isn't it? I can't feel any snow touching me, and if you look at the ceiling the sky definitely is one." I decided to give up the secret easily, these three obviously knew nothing about magic at all.
+
+"I suppose that might be true, and the fake sky is lovely." The oldest of our little group commented, looking up.
+
+I nodded, along with several of the others. Eventually they did look back down though, the leader settling her eyes on me.
+
+"I'm Quinta, these two are Julia and Armina." She pointed to her friends in turn.
+
+"I'm Alana, it's a pleasure to meet you." I tried to fall back into the tone and mannerisms Mystien had me study all those years ago, but it was a bit difficult since I hadn't really been practicing.
+
+Quinta was perhaps two years older than myself, with flaming red hair that draped down the front of one of her shoulders. She stood just a bit taller than the rest of us, perhaps owing to the small heels on her shoes. Beside her the other two looked like they could have been sisters, their hair chocolate brown and features quite fair, as was common among the wealthy.
+
+"I don't believe I've seen you at any of the balls I've been to before Alana." Quinta looked me over for a few moments as if trying to recognize me.
+
+"This is my first in the capital I'm afraid."
+
+"Oh, that would explain it. Are you coming to the one hosted my Lord Johannes next month? I hear he's trying to find a wife for one or two of his sons. It would be best to be noticed early if you want success there."
+
+"I'm afraid neither I nor my guardian have received an invitation as of yet. Perhaps I'll meet them here or there though." I needed to be as non-committal as possible when it came to this subject. I had no desire to get invites to parties thrown by the merchants and weaker nobles.
+
+Julia had a keen eye for fashion and started pointing out the new trends to us in the dresses of some of the older girls. One in particular had managed to find a stunning violet piece that incorporated a few frills along the sides that were gaining popularity. Other trends like overlarge padding on the bustle were now falling out of popularity hard, and were only being seen on older women. I was thankful that my new dress seemed about average for what was expected, probably something Marcus had thought of.
+
+As we stood back looking at the various people as they came in one group threw me a bit. A man and three boys who could only have been his sons came in the door. The man was decidedly a magic user of some kind, as was the oldest of his sons. They were both quite a bit weaker in aura than I was and the two younger boys had barely a flicker. I could see it, just barely, but it was one of those that meant they probably couldn't do anything.
+
+The man's eyes scanned the crowd quickly, I could see when they fell on Jackson and immediately I began suppressing my own aura. Not quick enough though it would seem, the oldest son was already looking in my direction with wide eyes. He quirked his head a bit as he and his father exchanged words I could not hear. The other boys then perked up and looked over too.
+
+"That's Lord Johannes, he's looking at us!" Armina excitedly whispered as a slight blush worked it's way up her face.
+
+As I internally cursed the other girls around me began squeeing in excitement. All of them were here in the hopes of being noticed. I on the other hand had no desire to be noticed at all. In fact it took all of my effort to keep my face neutral as I had a cross room staring contest with the young noble boys.
+
+Their father eventually got their attention, pulling them away towards... Jackson, naturally he'd go straight to the other caster in the room. In the middle of their conversation I felt my sometimes teacher's eyes flick over towards me too. We really needed to work on his poker face.
+
+"Who's that man Lord Johannes is speaking to? I don't think I recognize him," Quinta asked.
+
+"And what in the world is he wearing? It's the loudest thing I've ever seen!" Julia added in a small scandalized whisper.
+
+Julia was, in my humble opinion, right. Jackson dressed like a man who puked and decided to dress in the colors that he saw there. It did kinda work for him though. I dreaded it as he, and the small group of nobles moved toward the area for the genders to meet, his eyes on me.
+
+"Are they looking this way?" Quinta whispered.
+
+"I suppose I'll be right back." I groaned internally as I moved towards them, feeling like I was walking towards my death.
+
+"Alana, this is Lord Johannes, and these are his sons, Dietrich, Rieg, and Armond." He turned to the nobles, "This my lords is Alana."
+
+"A pleasure to meet you my lords." I curtseyed as we were introduced, even if it was absolutely the last thing I wanted to do to attract the attention of people at this party.
+
+Each of the men nodded in greetings. There was a lot of hierarchical things going on here in who had to be introduced to who based on gender and rank and all kinds of other rules I was only barely aware of. Regardless after that the lord and his sons quickly moved on.
+
+As soon as they had I hummed up a silence bubble around Jackson and myself.
+
+"What was that about?" I asked as the sounds of the party faded, trying to keep my mouth as still as possible.
+
+"Now that you've been formally introduced, it is not impolite for his sons to speak with you later tonight. It would also be quite rude of you to refuse light conversation or an invitation to dance."
+
+I groaned loudly, knowing that it wouldn't escape.
+
+"Be noncommittal as possible. I'll have to give you some very basics on the etiquette of these events should you wish to continue working with me at them. We'll handle that later though." With that said he left my little silence bubble, moving across the room.
+
+I returned to the group of girls I'd been speaking with earlier, a rookie mistake. The three kept bright smiles on their faces as they all but demanded an explanation on the events. The simple answer that Lord Johannes realized he hadn't met me and arranged an introduction did not sit as well as I thought it would have.
+
+All three had been introduced to him, and his sons, at some point. They all also knew that he cared not at all about them, it had just been a formality to bring them up. That kind of thing would be handled later in the evening by those who knew both individuals. The fact that he saw, was interested in, and acted to actually speak to me pretty much ousted me as a caster, though if I had to guess only Quinta truly understood it.
+
+I was saved by the dancing, which began before too many conversations and questions could be had. Everyone began to intermingle for a few moments before, choosing partners as they did. Armond came up to me at this point.
+
+Armond and Rieg had to be twins if I was any judge, as their heights were almost identical. Both were close to my age, perhaps a year or less younger than me. They had dark brown hair, Armond's fell over his eyes, while Rieg had his cropped short.
+
+"Miss Alana, may I have this dance?" His voice was smooth and kind as he offered his hand to me.
+
+I lightly took it, and quickly moved with him to the floor. A few moments before the Master of Ceremonies had called out that the Couple's Arch would be first. It was a group one, so talking would be minimized, and I knew it, so I was confident.
+
+Armond made light conversation as we moved into place. The normally permitted subjects, how the weather was looking to be especially cold this year, a compliment on my dress. It wasn't until we were nearly in place that he started asking what I felt were the real questions.
+
+"It is a shame I haven't seen you before miss Alana, did you just move to Lithere?" He actually used the name of the capital, that was a bit unusual among my normal crowd. I'd only heard it in lessons with Mystien and in conversations where multiple countries were involved.
+
+"Awhile ago actually, but I prefer to keep mostly to myself."
+
+"Where from, if I might ask?"
+
+"Out east, ah it seems we are beginning." Using that excuse was magical, and soon enough we were working though the many motions needed for this particular piece.
+
+It ended soon enough and I managed to go back to join the chatting with the other girls. The fact that boys could, and did now join us ended with me getting introduced, and subsequently dancing with several others. Quinta's brother came by for one of those, as well as one of Julia's cousins or something, the relationship there was a bit unclear.
+
+Rieg came by shortly after to ask me to join him for Twin Circles. That went much as it had with his brother, him trying to pry information out of me after small talk. I made another attempt at avoiding too much of that as well.
+
+"It is surprising that your parents were not here with you today miss Alana. I should hope to meet them."
+
+"Perhaps in the future that shall be, but they are unfortunately unable to be here tonight." That was technically true. They were unable to be here because well... they were out of contact.
+
+"Oh I see, do I know them?"
+
+"I find that unlikely Lord Rieg." Again I'd managed to delay until the dancing started, and postpone my suffering.
+
+I hid for Summer Flowers, going into the room reserved for ladies as I'd been instructed. It was a good chance to grab a drink of water and use the facilities anyway. The latter part was a bit of a chore in a formal dress, involving a chair, several minutes, and a rather more fancy chamber pot than I was used to.
+
+Following that there were several more rounds of dancing. As I again fled at the announcement of Winter Flowers I saw Dietrich trying to approach me. I did all I could not to literally run. The idea of having to tell him no and violating some Byzantine rule of etiquette speeding me along.
+
+Irritatingly some girl of about eighteen, who I didn't know approached me shortly after my arrival.
+
+"Are you quite okay? I believe Lord Dietrich wished to dance with you. You should hurry before they begin."
+
+"Sadly my history with Winter Flowers is poor," because it doesn't exist, "and I was told by my dance instructor that I was, under no circumstances to dance it tonight. Had he chosen almost literally any other I would be happy to join him. I can't well turn him down though, and I've no clue how to explain the problem."
+
+I could have died right there. All I wanted to do tonight was make a bit of money, maybe have a bit of fun along the way. I had been woefully unprepared for what I considered my second worst disaster in the capital. Frankly I might be willing to go fight the golem again if it kept at this rate though.
+
+The girl suppressed a giggle and turned. "No worries, I'll take care of an explanation for you."
+
+I didn't know if I should be relieved or more afraid. "Thank you."
+
+When I returned, after hearing the call for an upcoming dance for couples, I was met by the young Lord Dietrich before I'd even made it all the way back to the floor.
+
+"One of my cousins tells me you had a bad experience with Winter Flowers?" He asked as he neared.
+
+"Something like that Lord Dietrich." I could feel heat creeping across my cheeks as I tried to properly explain myself.
+
+He seemed to take it in stride. "Ah my apologies, I thought you were avoiding me for a moment there."
+
+"Not at all. I merely wished not to publicly embarrass myself, and you." That got me a chuckle.
+
+Of the three brothers I'd met he seemed to be the most charming. He had a warm smile and his hair was longer, pulled back into a simple ponytail. If I had to guess I'd say he was around a year my senior. Most of all was his confidence, he exuded it from every pore. This young man knew his place in the world and he fit there perfectly, moving past people with perfect grace.
+
+"Well then, would you do me the honor of joining me for a couple's dance?"
+
+"Certainly Lord Dietrich."
+
+"I don't believe I've seen you at the academy, are you not planning to attend?" He asked after the standard handful of small talk questioning.
+
+"Oh, I'm just a sliver too young to attend this year. Next year I plan to apply."
+
+It was at this moment that the music began. He wrapped one arm around my waist and led, quite a bit better than the other young men who'd joined me earlier in the night. This particular dance involved us being extraordinarily close, pressed together as we moved in circles around those older than ourselves.
+
+"Oh I see, I see. I shall look forward to it. There are several lovely places there. One particular nook is perfect for watching the sun rise. I hope you'll let me show it to you over breakfast one day." ... Um, what? I mean, I liked breakfast as much as the next girl, but that was kind of a weird invitation.
+
+"Perhaps my lord. That does not sound unpleasant." Being noncommittal seemed best here, since I was a bit put off.
+
+"Ah, but I'm getting ahead of myself. Is there anything you would like to ask me?"
+
+"Why are you and your brothers paying so much attention to me?"
+
+"That's quite simple. We know most of the magic users in our age range. Both our rivals and potential allies. A new individual is of great interest."
+
+"Oh, I see."
+
+"I don't suppose you'd be willing to join me in a bit of mischief?" He whispered to me, causing me to grin a bit.
+
+"That would depend on what that is Lord Dietrich."
+
+He chuckled. "You see, I saw you before my father. Before you began suppressing your aura. He thinks, from what he can see now that you might be interesting as a potential candidate to marry one of my brothers in the far future, and that I'm wasting my time by even speaking to you. I'd rather like to get one over on him, as I seldom manage that."
+
+"And how do you propose to do that?"
+
+"All you would need to do is stop suppressing yourself. I really would appreciate it."
+
+I knew it was stupid, that what he was requesting of me was an absolute fool move. At the same time the way he spoke, so kindly and warm. Even his aura was warm, it looked like leaves floating in the wind around him. In a snap moment I let my suppression go, flooding out a trail of ethereal bubbles behind me. Just for a few moments as we turned. The huge widening of his father's eyes was something to see as we spun past.
+
+"Thank you Alana, I really do mean it." He said shortly after I pulled it back in. "Will you be joining us at our ball in the near future?"
+
+"Lord Dietrich, I haven't even received an invitation, much less considered it."
+
+"Well, I will have to see that that changes then won't I?"
+
+After that display, the rest of the party was rather less eventful. I enjoyed a bit more until it was time to go and I joined back with Jackson.
+
+"Well, that was wild," he said as he slid into the carriage after me.

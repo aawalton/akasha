@@ -1,0 +1,259 @@
+---
+id: 46af5c60-b7fb-55ca-9e8f-ff60bd2aee5e
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 84 - Uprising"
+slug: 0143-chapter-84-uprising
+partOf: metaworld-hopecore
+position: 143
+ownLength: 3043
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3754491/chapter-84-uprising"
+royalRoadId: "3754491"
+---
+
+Some say the world will end in fire,Some say in ice.
+
+Robert Frost
+
+Eppie’s overactive [Script Analysis] dilated time while her [Causality] quietly bled out.
+
+On her phone, Andrew Garfield’s feline face remained until Apple’s energy-saving feature reduced it to the lock screen of her and Curon at the Grammys.
+
+How pathetic. The Lana partition of her philosophical zombie scoffed at the Eppie partition. Look at you, your pretty white neck caught in the jaws of this vulpine [Usurper], frozen with terror. Whose fault is it?
+
+It was the [System]’s fault, Eppie said. The [System] had dulled her healthy cynicism. The [System] had taught her, after some eight or nine months, that bad people were a product of extenuating circumstances. The [System] had made her believe that people innately yearned for goodness. And yet, looking at William Chen now, all she could see in his sadistic face was what Samuel Taylor Coleridge coined as “motiveless malignity” two centuries before Robert Hare found the word “psychopath”.
+
+She wished, dearly, for a [Quest] pop-up, just to clarify what the fuck she was supposed to do about her connoisseur of cruelty.
+
+Well, you DO have three options. Lana’s voice answered in place of the [System].
+
+The first was to pull William Chen over the pier railing by his stupid platinum hair and pound him through the wooden slats into the black water beneath. Failing that, she had [21] for [Strength], and Santa Monica Bay was right there, just behind the French Windows and a flimsy old wooden rail. A good portion of her psyche agreed to this—especially the partition that remembered the locker rooms. The purity of this thought came on a little too strongly for Eppie to ignore, driving her toward the second option.
+
+The second was disgusting, and she knew it came from Euphemia. This was to cry, to leverage the pitiful part of her present being. It was the defence of the defenceless: when a young woman was sufficiently debased, possessing no shame nor pride, she could do anything.
+
+Then—like a body thrown into the deep dark of Santa Monica Bay at dusk—Lana Zacanissian arrived holding option number three.
+
+Her former self took a deep and drawn-out breath to re-inflate her ragdoll body. In a second, though her exterior still wore the guileless balayage fringe, the baby blue eyes and the doll-like face, the [Intelligence] writhing within was now a [Usurper] who had wined and dined on human flesh with the sociopathic AI oligarchs of the 2030s.
+
+Opposite, William Chen grinned like a shot fox.
+
+As an entrée, Lana would give her opponent a measure of hope. After all, there was no pleasure in a hurried meal.
+
+Under her watchful eye, her body sat back up, then unlocked her phone once more.
+
+There it was—Garfield—guileless, brainless and possessed of no idea who had taken it home, kind of like Euphemia, now that Lana thought about it.
+
+The AirDrop photo sat in her camera roll exactly where William had dropped it, smug as a business card.
+
+She tapped the information icon, called up the secondary menu, and…
+
+The location field was blank. No coordinates. No timestamp beyond a generic export string. Nothing.
+
+So he’s a careful psychopath. Lana deduced. Par for the course, I suppose.
+
+Opposite, William snorted. “You thought I wouldn't strip it?” He shook his head, genuinely pleased with himself, then chuckled in a way that maximised her infuriation. It was a masterfully sadistic act, for which Lana had to give him kudos. “I live in a colour suite six days a week, Fontaine. I export through Compressor before anything leaves my phone. Do you have any idea how much metadata a raw AirDrop file carries? I scrub my lunch photos, dummy.”
+
+The word Dummy was spoken with endearment. Actual, legitimate, endearment. Had Lana not decided to take over, she suspected that the [Noblesse Oblige] part of her might walk to the counter and procure the 50 lb vase.
+
+“Sorry. I was being a dick. So, no more CSI?” William was still teasing her. Oh, how fun it must be to watch Eppie squirm.
+
+Lana deployed [Act Natural] to squeeze out a tear, to really get William going before she performed the rug-pull on his over-leveraged emotional investment.
+
+Unfortunately, after a mere ten seconds, her patience ran out. An indication of how sickeningly kind she had become.
+
+With a sigh, she switched gears. Inexplicably, the atmosphere shifted without subtlety.
+
+“Insipid, puerile boy…” Lana spoke in the same voice she had used on her employees, the same voice that had made Emily cry in the stairwell for hours, only now enhanced by both [Vocality] and Cooper’s tutelage. “I don’t need metadata to know where you’ve hidden my cat.”
+
+William's slimy smugness faltered because it wasn’t every day that a man heard the voice of an old and cynical lady emerge from the pink, petal lips of a girl who looked far younger than her actual age.
+
+Even for Lana, her voice was jarring.
+
+“It’s obvious to anyone who would even bother to check where you’re keeping Andrew Garfield.”
+
+William’s confusion grew, because how could a [Usurper] from this world know about Lana’s favourite Spider-Man?
+
+“I don’t believe you,” William said.
+
+“He’s at your house,” Lana lied flatly, tiredly, bored to her core, filtering her disappointment through [Act Natural] and [Larceny]. “And it's public knowledge where you live.”
+
+By which I mean—I have no idea where you live.
+
+Then she looked at him. REALLY looked at him. She watched his jaw tighten, his pupils dilate, his mockery grow strained.
+
+“You’re a terrible liar.” William tried to make an ugly frown.
+
+Unfortunate for William, his face was full of hints. She had hit close to home. But his actual home? Who could know? Yet it made sense. Her [Intelligence] deduced that William would not keep anything he loathed in a place where he didn’t have a servant or a maid. Hadn’t William jumped up and freaked when someone dropped a stray cat on him? This was not a man who liked cats. To keep Garfield contained and used for leverage, William had to keep the cat hidden, but paradoxically at arm’s reach.
+
+After all, Lana scoffed, William Chen wasn’t a politician; he was a [Causality] junky, and addicts shared a common trait—distance decay—meaning the Least Effort Principle applied. And if Lana’s [Memorisation] served, she recalled reading that violent offences possessed the shortest travel distances of any crime category. Ergo, Andrew Garfield was in William’s basement, or somewhere like it.
+
+“You really are stupid and simple.” Lana turned Eppie’s guileless gaze into the judgmental critique of a woman who had bought a billion-dollar supply chain, then cut the health insurance of the bottom 25 per cent of staff to shore up the next quarter. She looked up at William, while looking down on him, with the unquestionable arrogance of a woman who organised a yearly “Intern Hunger Games”.
+
+“You see this photo, William?” Her voice was a whisper, and yet it thundered. “Let me draw you a picture.”
+
+Lana leaned in. William leaned back. It was reflexive. The instinct was primordial.
+
+“First. I am going to make a thousand flyers of my cat, in your house. It will say that the cat is missing. That someone had taken Garfield. That I, the most famous person in LAPA, am heartbroken.”
+
+William blinked in rapid succession. Lana savoured his internal panic like a savoury soup.
+
+“And then, I am going to post this picture. Of my cat, in your house. To MySpace. Did you know that I have… 700,000 Friends on MySpace? Impressive, isn’t it? Oh, and then, I am going to put this face, this beautiful face, on YouTube. Did you know I have 300,000 subscribers? I am going to get Maddie to do it… You know Maddie? My Media Manager? She’s a beast.”
+
+She watched his face stiffen. She watched the horror germinate like a parasitic weed, and felt her insides glisten and glow.
+
+“I am going to tell the world my favourite rescue was taken. I am going to say, very sadly, very sympathetically, that I think a Senior at my school took a commonly-owned cat the lot of us at the Cat Society have been feeding for months. No, silly goose. I’m not going to name you. I’ll let them find you instead. It’s going to be so fun.”
+
+Lana smiled with teeth. Eppie had very pretty teeth.
+
+“Just imagine, Mr Chen. How famous will you become then?”
+
+“I’ll…” His throat fought her, and yet failed to answer.
+
+“You’ll harm Mr Garfield? Is that it? You’ll hurt it anyway, idiot.” Lana sighed even as her heart grew sore for the poor cat stuck between two [Usurpers]. “Here, let me teach you a cardinal truth.”
+
+She arranged her tongue for Chinese. Authentic Mandarin, in fact, because her Cantonese wasn’t that good.
+
+“Zì zuò zì shòu,” she said. “Bù dé hǎo sǐ.” It meant, You reap what you sow. The karmic equivalent of being handed a bill. And underneath that, quieter, she slipped in an uglier truth: that those with karmic debts may not die a good death. After all, she was living proof.
+
+William went pale.
+
+Yeah, that was pretty freak-ass, even for me. Lana shuddered at herself. She didn’t think she had it in her to actually deliver aphoristic closure in Chinese. Usually, aphoristic closure was Juliana Vaughan’s area of expertise.
+
+“Now, you can apologise,” Lana offered, holding out a teasing hand for her man to kiss, only to withdraw the hope with a smile. “But you can’t do that, can you? You’re a simple guy, after all.”
+
+After all, William had refused Eppie. Now, he must contend with Lana.
+
+“Oh… and then there’s this, since you like photos so much.”
+
+Lana scrolled down, found the photo, and flicked it over through AirDrop. “Accept it.”
+
+William accepted it.
+
+He looked down. The arteries of his neck grew visible.
+
+“Yes,” she said with an affable, almost simpering smile. “That’s Francis Sanders and me at the Met. You can check the metadata all you like. Unlike someone, I don’t need to erase jack shit.”
+
+She allowed William’s imagination to run wild for a moment.
+
+“If I don’t get Garfield back, William, I am going to call Francis Sanders, and I am going to tell him what you are, and what you did, and that I have evidence. That his daughter would be known as a ruined woman. Your daddy would LOVE THAT. Do you think he loves you like Francis loves his little actress, Willi-kins?”
+
+“SHUT UP!”
+
+“JUST… shut up…”
+
+Half of William’s face was red, and the other half was blue. The result wasn't the dramatic framing of gel lighting or a well-angled camera, but psychologically-induced hypertension. The cafe was watching now. They had felt the animosity radiate from the pretty little lady, and now they were a captive audience. A few people even had their phones out. Lana dabbed at the corner of her mouth with a napkin. She had feasted well.
+
+She stood from the table thereafter, the hem of her white skirt brushing the edges teasingly. William’s long, thin fingers closed around her wrist before she could take a full step, digging into her soft, youthful flesh.
+
+“Shall I scream?” Lana allowed Eppie to slip back in, so that her voice once more grew feminine and adolescent. Her job here was done, and she felt exhausted. “Look, everyone’s watching, William. I wonder if they’ll recognise me and tag me on MySpace.”
+
+Eppie watched something inside the man rise and fall, rise and fall, then fester and die.
+
+He released her, because what was the alternative?
+
+She did not look back. She walked, and then, once she'd put enough boardwalk between them, she ran.
+
+Barely two hundred meters from the wharf, Eppie had Lim on the phone, her thumb finding his number via [Memorisation], the ocean air tearing sideways into her receiver.
+
+“Sending you a photo,” she said. “I’ll explain while it sends.”
+
+With [Script Analysis], she surmised William’s ploy in a heartbeat, taking no more than a minute to make her internal horror known.
+
+The time it took for AT&T to transmit an HD photo was eye-wateringly slow, so much so that Eppie pondered just running to Lim, who was only a block over. After a brief eternity, the picture landed.
+
+“Shit. I don't know this room, Eppie. Could be anywhere. Could be a garage, it could be a storage. There's no window in it. Nothing on the walls.”
+
+“Not his house?”
+
+“I… I’ve never seen a room like this in his house.”
+
+“Alright. Can you try to find out where this is?”
+
+“I’ll send it to Kitty and the rest,” Lim said. “Is Garfield safe?”
+
+“He’s safe for now, I am positive,” she said. “He looks fatter than the last time I saw him.”
+
+“If he harms Garfield…”
+
+“No,” Eppie stopped her friendly giant, going dark before her [Causality] started ticking. “Lim, the cat’s safe. Trust me. We just have to figure out a way to get him out. He’s leverage. The moment you self-sabotage the leverage, it’s masks off for all of us.”
+
+“Alright,” Lim’s breathing was already laboured. “I’ll… I’ll show this to the others. Wait for my call.”
+
+Eppie called for a Taxi, told the man to drive back toward LAPA, and sat in the back, scrolling her contacts.
+
+My Newfoundland… was not an actual dog, so I could not help. Dad… would freak, but was of no help at all. Juliana… was too far removed to help, both literally and otherwise. Kiritani Sensei… couldn’t help. Maddie? She was a manager, not a genie. Zara? She would only add to the chaos. Simone? Maybe. Nope, none of the kids at LAPA could help.
+
+The newest entry was Valorie Sanders. Eppie stared at the profile for a good six seconds, found her resolve weakening, then pressed on the contact.
+
+“Eppie?” Valorie sounded like she was in the middle of a workout.
+
+“Val, we got trouble.” She explained the ordeal, then sent the picture.
+
+Two minutes later, Valorie called back.
+
+“That’s the storage at the back of the main house,” Valorie said, confident and affirmative. “There’s a guest room there. I think it’s the storage to the left of the guest room, across from the wine cellar staircase.”
+
+Eppie was speechless. “Are you serious?”
+
+Valorie confirmed it.
+
+“How do you know…”
+
+“This one time, William…” her voice grew quiet.
+
+“Okay, okay,” Eppie hand waved, the imagery away. “I trust you. Let me get Lim on the line.”
+
+Lim answered straight away. “Yes? Did you make any progress?”
+
+“I got Val on the line. She knows the place. She says it's the storage room at the back of the main house.”
+
+“Ah—that makes sense,” Lim’s voice audibly released its ratcheting tension. “Hi, Lim.”“Hello…uh... San-je?”
+
+Then… there was silence. Eppie realised something. A mistake. A very big mistake. Valorie didn't know that Lim was their ally.She didn’t know that the Five Families, or at least two of them, were in open revolt. To Valorie, Lim wasn’t an ally or a friend. He was William’s indebted guard dog, a man whom William trusted with all his heart.
+
+Oh… God help us… Eppie groaned internally. What a blunder. What… a blunder.“...William’s house isn’t easy to get into,” Lim continued after a ten-second pause. “The area they’re set up in has private security. It’s a gated community, with cameras on every corner, in the trees and the bushes. We won’t even be allowed inside the housing area, much less his house.”
+
+“Yeah, there’s a lot of security.”
+
+Wait… are you not going to question… Valorie? Eppie wished they were in the room together, so she could look at their faces. Val, are you not going to question Lim?
+
+“So you’re saying we can’t just break in?” Eppie asked.
+
+“Even if you did, how are you going to avoid the alarms? The police will come. Besides, there’s a man there, Jiang—I think. He’s Chen-ye’s old driver, semi-retired. He’s ex-PLA special forces,” Lim said.
+
+“Jiang has access to firearms,” Valorie interjected. “The regular security only has sprays and tasers, but… I’ve also seen one or two of them with pistols.”
+
+Could this body survive a gunshot? Eppie’s thoughts strayed a little too far before she pulled herself back. “Lim, could your dad…”
+
+“No…” Lim said firmly. “Chen-ye’s compound is accessible twice a year: the Autumn Festival and Chinese New Year. That’s it.”
+
+“What if we dressed up as…” Eppie grasped for straws. “Utility workers?”
+
+The suggestion was too absurd to even be answered.
+
+Eppie slumped in the back of the taxi, painfully aware that the Taxi driver was looking pretty alarmed.
+
+“We’re doing a play…” she told him, her [Charisma] and [Comeliness] doing the heavy lifting.
+
+The man… was convinced. For no reason. It really was terrifying how pretty privilege worked.
+
+“I’ll do it,” Valorie said suddenly.
+
+“Huh?” Eppie bolted upright. “Do what?”
+
+“I’ll go and get Garfield,” her voice came across the speaker loud and clear, and a little fatalistic.
+
+“Val—” Eppie heard herself reaching for the no, already assembling every reason it was the wrong ask, the cruel ask, the ask that would undo a father's public hug in front of a Met crowd—that Val should not be going back into the fox’s den.
+
+“You said he was with you, right? Even if he left ten minutes ago, it will take almost an hour to get home from the pier in traffic,” Val said, already moving. In the background, they could hear the sound of a car starting up. “I'm still at LAPA. Fifteen minutes, tops. I know the house code. I know Jiang. I'm going.”
+
+“Jesus, Val…” Eppie felt her bitterness dissolve like a climate-change glacier.
+
+“Then I’ll give him a call,” Lim announced his part. “I suddenly feel like sparring, and I am going to insist that he comes to the Association.”
+
+“Thanks, Wang-ge.” Valorie’s accent was measured, natural.
+
+“Take care, San-je,” Lim’s Cantonese was impeccable. “And... thanks.”
+
+Eppie knew the words she wanted to say, but the sheer selfishness of what she was asking made her swallow them. Her belly hurt. As expected, the indigestion of guilt and self-loathing was the worst.

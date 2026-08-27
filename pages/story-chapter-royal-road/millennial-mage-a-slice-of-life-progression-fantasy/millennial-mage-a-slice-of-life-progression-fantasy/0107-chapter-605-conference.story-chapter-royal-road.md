@@ -1,0 +1,211 @@
+---
+id: 0a871b09-cdfd-5939-a3ed-6ac6d64700c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 605 - Conference"
+slug: 0107-chapter-605-conference
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 107
+ownLength: 2978
+unit: words
+ownProgress: 2978
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2557334/chapter-605-conference"
+royalRoadId: "2557334"
+markedReadAt: "2026-06-29T19:38:43.334Z"
+---
+
+Here Begins:Eskau ReforgedBook 14 of Millennial Mage
+
+Tala sat in a conference with more than two dozen Reforged along with a smattering of Paragons, assuming everyone was displaying their true advancement. In this case, Tala could imagine people hiding it in attempts to reduce the authority to be foisted upon them in this new, special situation.
+
+Most likely, however, those hiding their advancement were simply in the habit of doing so.
+
+In truth the majority of those in the conference weren’t actually there with her and the others. Instead, they were visual projections—facilitated by the archive—with such detail and nuance that Tala could see their magic and their very souls.
+
+Lea was back in the sanctum with Talax, Terry, and manifestations of Alat and Enar, all giving her comfort and people to talk with as chaos reigned around them, outside of Kit.
+
+Mistress Petra, Master Simon, Lyn, Captain Ron, Kedva, and Brandon were all running about, buttoning things down and spinning up Ironhold’s engines of war. They obviously weren’t certain when war would come, but they all felt confident that it would come sooner rather than later.
+
+A Black Legionnaire had tried to accost her daughter, and that wouldn’t go unanswered.
+
+Rane obviously felt the same way as he stood beside her, regarding the room full of advanced Archons.
+
+This gathering of powerful, gated humans was joined by one distinctly inhuman participant.
+
+Eskau Meallain stood to one side, Master Grediv once again in charge of suppressing her advancement, given they were within his city.
+
+On the table in the center of the large room lay the broken shell of the automaton. The elf’s gaze rarely left the construct, despite the gathered power of humanity laid out before her scrutiny.
+
+Mistress Holly was in one corner, brow furrowed with clear irritation at being required to be there. She had altered her aura to show true green, and not a whisker more than ‘new’ Paragon.
+
+Mistress Jenna had already come up to check on Tala and Rane, asking after Lea before moving off to check in with others after they assured her that she was well.
+
+It seemed that every city had sent at least one representative, seemingly their most powerful defender, if Tala had the right of it.
+
+In fact, the only powerful Archon that Tala and Rane were aware of who was not present was Master Xeel. He was apparently doing circuits of the cities, going further out than the patrols usually did, to prevent any issue from cropping up for at least the duration of this short conference.
+
+That allowed even the City Stone holders, or at least their Primary Defender, to be in attendance.
+
+For some reason, Master Nadro wasn’t in attendance, but Tala chalked that up to him having other things of import to be about. He’d be notified at need.
+
+Each of the powerful people had taken time to examine the body, and it seemed that the preliminary reconnection of old acquaintances was over, because Master Grediv cleared his throat and called the meeting to order. “Masters, Mistresses, Defenders of Humanity, family, and friends,” Small smiles rippled through the room at the overly long opener, but Master Grediv continued even so. His eyes flicked to Eskau Meallain, and he reluctantly had one more addition before he continued, “and Hallowed guest, we can all see why I have called you together.”
+
+That got a round of muttered acknowledgements.
+
+“We have found many automata through the long centuries, but never have we found one so clearly, and obviously of the Black Legion. There have been those that claimed to be such, and those that ranted about refounding or finding the Legion, but never have we found one that is of the original construction, made of their rarest of alloys, the construction of which is lost to history.”
+
+Tala cleared her throat, drawing every eye to her. “While I can’t tell you how to make it, I can tell you what it is made of.”
+
+Master Grediv’s eyebrows rose. “Oh? Is that how you unmade his weapon when it was thrown at you?”
+
+She nodded. “Yes.” She placed an ingot of white steel on the table, pulling it from Kit as she did so. “This is the white steel that we’ve been producing for a few years and that we’ve been selling to Constructionists and others throughout the cities.”
+
+There were nods through the room.
+
+“That automaton is made from this material with one addition.” She pulled some of her iron—her Reality iron—and formed it into a sphere resting atop the ingot. “Reality-enforced iron. About this much iron to this quantity of steel.”
+
+A ripple of murmurs moved through the gathered Archons.
+
+“Again, I don’t know how, but after seeing it in action, I’m interested in figuring it out.” She gave a small smile. “I already have some experts in the manufacturing and use of white steel looking into the matter.”
+
+Master Grediv grunted, before giving a slow nod. “Thank you, Mistress Tala. Assuming that this is correct, it certainly explains a lot of the Black Legion’s quirks.”
+
+Tala glanced toward Eskau Meallain. “Wouldn’t her people have known what their constructs were made of?”
+
+That drew every eye to the elf, but Eskau Meallain didn’t seem to mind in the least. “Those who created the first of the Black Legion are long dead at automaton hands, but even if they weren’t, the information wouldn’t have been available to give. We didn’t make them, past the first generation. Instead, we designed them to analyze their own failings, their own weaknesses, and to improve themselves and those they made thereafter. The incorporation of Reality Iron into their construction would, certainly, explain what finally tipped them over the edge into Reality’s embrace and out of our control.”
+
+Eskau Meallain seemed to be contemplating something, and when she noticed that, Tala gave the elf a flat look. “No.”
+
+Eskau Meallain frowned, looking to Tala. “What?”
+
+“No. You are not going to suggest a restart of automata research, bent in a direction that forbids Reality iron.”
+
+The elf rolled her eyes. “Come, Eskau Tala. You know me better than that. Moreover, you know arcanes better than that.” She grimaced at the word even as she spoke it. “Automata have been tried repeatedly for millennia with all manner of restrictions, including the forbidding of self-improvement at all. This would not be a meaningful bit of information in that area of study, at this time. Since the fall of the Legion, there has not been even a single successful creation that didn’t fall to Reality’s sway, save those that were created already bound to their maker’s soul. Even many of those dragged their creators into madness and self-destruction.” She gave Tala a meaningful look. “Not a single one has been successful until your daughter.”
+
+Lea’s existence and circumstances were well-known to those present here, even if most hadn’t met her directly, so there was no ripple of shock at the pronouncement. Still, one of the men that Tala hadn’t met before seemed to be hung up on something that they’d already discussed.
+
+He was a taller man, while still not quite as tall as Rane. He had sharp eyes and a kind face. He cleared his throat before bowing toward Tala. “Mistress Tala, forgive me, but I am still uncertain how you can be so sure of the material composition of the Black Legion’s armor.” After a brief pause, he appended. “I am Master Pierce, forgive my lack of an introduction.”
+
+Tala gave a bow in return. “Master Pierce, it is good to make your acquaintance."
+
+“Likewise, I am sure.”
+
+She nodded. “This is why.” She held out her hand toward the automaton, extending her aura and authority to a small piece of the black armor.
+
+Her authority, her need, resonated with the iron throughout the entire automaton’s construction, but she leashed the urges, stifling the shadow of a little voice that echoed through her very being, screaming MINE!!!
+
+Regardless, she used her power to pull away a thumb sized bit of black steel, forming it into a sphere as it floated up. “As you can see, when authority is established, it is quite easy to pull a piece off of the armor.”
+
+That got another ripple of mutters that she didn’t bother to pick apart.
+
+Alat cleared her metaphorical throat. -You might want to pay attention, Tala. They’re asking each other if anyone besides them attempted to do exactly what you are doing. The response is ‘yes,’ everyone tried to claim a bit of the metal. No one succeeded as their attempts to establish authority were rejected.-
+
+Oh… Maybe she should listen to murmurs more often?
+
+-Nah, that’s why you have me.-
+
+Thank you.
+
+-But of course.-
+
+Eskau Meallain had narrowed her eyes, but with how locked-down Master Grediv was keeping her, she likely hadn’t sensed very much.
+
+Tala cleared her throat. “Regardless, from here, I can do this.”
+
+She commanded the Reality Iron within the black steel to move stoneward, even as she fed magic into the white steel component, pulling it away from the iron within the more standard three dimensions.
+
+As everyone watched, the black sphere moved sideways even as it shrunk just slightly, bleeding from midnight black to snow white in mere moments.
+
+The reaction to that was starkly different across the board.
+
+Master Grediv had seen Tala do this once before, and therefore, essentially didn’t react.
+
+Mistress Holly barked a laugh from her corner, shaking her head even as she continued to chuckle.
+
+Others gasped, or even pulled back slightly.
+
+Master Pierce stepped forward, eyes widening. “How?”
+
+Master Grediv cleared his throat before asking. “Have you read the missives about Mistress Tala over the past decade or so?”
+
+The taller man shook his head. “No, I’ve been too busy. In two years, I have six months set aside to catch up on correspondence and news. It’s more efficient that way. There are two trinary star systems in process of collapse, and even this conference is an unwelcome distraction from them.”
+
+Master Grediv grunted. “Be that as it may. I suggest that you catch up on the information surrounding her.”
+
+Master Pierce glanced toward Tala and Rane beside her. “I suppose… with two Mages becoming Archons and rising to Paragon in less than fifteen years? That does seem worthy of investigation…”
+
+“Good. I won’t waste any more of this meeting on minutiae, then. Suffice it to say, she is bound to an iron dasgannach, and that is the method by which she is accomplishing this.” Master Pierce looked like he was going to choke, but Master Grediv had turned to Tala. “Is that assessment correct, Mistress Tala?”
+
+Tala nodded. “More merged with than bound to, and to Reality Iron claimed from a Baba Yaga, but otherwise, yes. I would guess that such is also the source of my ability to claim authority over the black steel as well.” After a moment’s pause, she added a question. “Am I correct in guessing that even once an automaton was destroyed, we’ve never been able to put the material to use?”
+
+One of the other Paragons—
+
+-That’s Mistress Terra, founder of the Mage Hunters-
+
+Thank you.
+
+Mistress Terra held up her hand and waggled it back and forth. “Records are a bit sparse, but from what my research tells me, in the rare cases where we had a body to investigate at all, we could melt it down and pour it into molds, but not only did it resist standard metal shaping, it almost instantly fell to Black Legion authority if taken into battle against them.”
+
+Tala grunted at the woman’s words. “Thank you.”
+
+Master Jevin was nodding along in the corner and didn’t seem to feel the need to interject.
+
+Mistress Terra smiled and acknowledged the thanks.
+
+Master Grediv cleared his throat for a third time. “We have become sidetracked. Though, given the incredible usefulness of the white steel, I am glad to know that we can process future slain Legionaires into useful components.”
+
+Tala grimaced, holding up her hand. “Apologies, Master Grediv… In order to do this, I must claim the material.”
+
+“Yes, you said that.” He gave her a look of genuine confusion.
+
+She nodded. “I did. I cannot claim an infinite amount of Reality Iron, however. Doing so would greatly unbalance me in ways that would be… dangerous.”
+
+He frowned. “I see. I knew that you had that issue with iron in general, but…”
+
+A small smile grew on her lips. “Interestingly, the iron helps balance out the Reality Iron, actually, and together, I am able to maintain authority over more of both. It is an effort to keep all my iron from changing over, but I’ve found value in it nonetheless. Even so, they are still just two parts of a triad. I fear that even if I had all three types I would still be limited, but I would be less so.”
+
+Master Pierce sighed, and shook his head. “We can’t help you find strange matter.”
+
+Tala frowned this time. “I’m sorry, what?”
+
+“Hmm?” The man looked genuinely confused for a moment. Then, he seemed to realize something. “Oh, were you not aware? Strange matter is effectively ‘void iron’. A material that utterly rejects all voids, all separation between anything. Even if we could create it, which some of us could, we would not. Nor will we allow it to be created. Some things are not safe to allow to exist in close proximity to civilization.” After a moment’s pause he added. “In this case, ‘close proximity’ should be measured in lightyears.”
+
+Mistress Holly laughed again. “That is the understatement of the eon. As you do not know enough of Mistress Tala to realize that you just gave her a goal and a challenge, I will address this before we all die due to her good intentions.” She turned and locked Tala with a steady, hard gaze. “Do not pursue this. Most of the ways would result in failure, which would destroy this planet, and even if you succeeded, you’d have created something which is non-magically more powerful than the combined magic of everyone in this room. It wouldn’t last long, and when it ceased to be, it would take Zeme with it. If any Sovereign noticed your attempt, they’d stop you, likely by simply killing you. Don’t do it.”
+
+Tala sighed but nodded. “As you say. In that vein, I could strip this body of Reality Iron, and maybe two or three others, but then I would be at safe capacity. I could get rid of the Reality Iron, but the process is…” She grimaced. “It doesn’t come free or cheaply, and the costs aren’t monetary."
+
+Master Grediv sighed. “Thank you for that then.”
+
+Master Jevin spoke up then. “Why not just give the bodies to an iron dasgannach? In theory, it could be able to strip the iron just as well, correct? Sure, an iron dasgannach filled with Reality Iron would need to be very carefully handled, but it shouldn’t be prohibitively difficult.”
+
+Master Saliocas grunted and nodded in assent to the idea.
+
+Once again, approval rippled through the room.
+
+Master Grediv grunted. “Very well, all in favor of investigating this line of research?”
+
+Every hand went up, save Mistress Holly, Tala, and Rane’s. Well, Eskau Meallain also didn’t vote.
+
+“All opposed?”
+
+No one raised their hand.
+
+“Good. Then we can move on.” He paused for a quick moment, and when no one else interjected, he nodded. “So, we have an indisputably confirmed encounter with a Black Legion automaton for the first time in millenia. Will the Major Houses honor the treaty?”
+
+All eyes turned toward Eskau Meallain. The elf grimaced. “The Black Legion is a threat to all. If properly presented with supporting evidence? Yes. The Major Houses should rally to the effort.” She hesitated for a moment, then sighed. “I would caution you against that course of action, however.”
+
+Master Grediv cocked an eyebrow. “Oh? Do tell.”
+
+“They would muster immediately, that is without question—assuming we presented them with this body or evidence of equal weight—but you have no target for that army yet, Master Grediv. An undirected army will find a target. They would quickly decide that a united front would be better positioned to face the Black Legion and, undirected, they would take the Wandering Plains before coming for you.”
+
+Silence hung heavy in the room for long moments before the woman continued.
+
+“Right now, the Major Houses are pointed inward. You don’t register as a threat, and even our new agreement will—at most—make them begin to see you as if you are just one more, well defended resource to jockey for a stake within. The Black Legion, though? That will galvanize every House, Major or not, together, and as a united force, they will want you to be united with them in one manner or another.”
+
+“And the factions of the plains.” Rane added solemnly.
+
+Eskau Meallain nodded seriously. “Indeed.”
+
+Master Grediv sighed. “What, then, do you suggest?”
+
+“Prepare for war, strengthen your connections with the House of Blood and maybe one or two other Major Houses. Seek to find the Black Legion, and once you are ready, call on the old treaty. Don’t give the Major Houses and City Lords time to scheme and seek targets of opportunity. And once you have an enemy to engage or”—she pointed toward Tala—“once she is Reforged, standing as an Eskau of the House of Blood to cement the position of gated humanity. Her advancement—as an already established and acknowledged Eskau of a Major House—would prove that you all are just as capable as any hue- or beastman, as valuable as any elf, dwarf, or other sapient. Then your call for aid will not be the spark that lights your own pyre.”

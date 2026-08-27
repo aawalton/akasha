@@ -1,0 +1,361 @@
+---
+id: aeae6029-1c84-57e3-b3e1-f143ede4e362
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 74 - The Show Must Go On (2) "
+slug: 0124-chapter-74-the-show-must-go-on-2
+partOf: metaworld-hopecore
+position: 124
+ownLength: 2079
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3642765/chapter-74-the-show-must-go-on-2"
+royalRoadId: "3642765"
+---
+
+Saturday night, Eppie taxied through Chinatown, got her cast removed by a very impressed Wang Sifu, and took her first full-body shower in a week, taking advantage of the fact that her roommates were gone by Friday night, and would not be back until Sunday afternoon.
+
+She ate a two-course meal worth of Chinese by herself at a Cantonese diner, sent Zara and Lim the news of her clean bill of health, then took a taxi home to finally do something she’d been planning for some time.
+
+On her bed, she sat in the lotus pose, calmed her mind, then readied her body.
+
+“[System], show me my [Potential].”
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+20
+
+Athletics
+
+419900
+
+Agility
+
+20
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+20
+
+Endurance
+
+Pain Suppression
+
+33 / 33
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+30 / 30
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+21
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS :: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] [El Duende] Inactive ::
+
+First, let's get a glimpse into the future. “[System] use [Roulette], spend 9900 [Causality].”
+
+Dozens of epitaphs flooded her head.
+
+Trait Acquired
+
+[All the World’s A Stage] Causality Tier (C) "All the world's a stage, and all the men and women merely players."
+
+This traits alters the causality of a Stage Production using the [Causality] of the [Usurper]. When a production heralded by the [Karmic Usurper] for the purpose of redemption is in progress, [All the World’s a Stage] will consume [Causality] to bestow its cast with periodic access to skills acquired by the [Usurper]. Presently, [Athletics] [Acrobatics] [Endurance] [Physicality] [Script Analysis] [Memorisation] [Act Natural] [Hitting the Mark] and [Love the Light] are accessible by participants. In moments of crisis, the efficacy of associated [Traits] will be improved.
+
+This trait can only be improved through successive productions that has produced significant volumes of [Causality]
+
+Eppie squinted
+
+Is this because I have a wealth of [Causality]? Is the system telling me that the power of friendship is the power to theatre? “They have their exits and their entrances,” she mouthed the next line from memory. What’s worse, like [Perfect Pitch], there was a trigger function as well. It was a [Trait] to be turned on and off—meaning like [El Duende] and [Pitch Perfect], it was bound to be a [Causality] black hole.
+
+A few thousand [Causality] rolled by, offering naught but aphoristic wonder, until—
+
+Muse Acquired
+
+Hey JudeWritten by Lennon–McCartney principal authorship by Paul McCartneyPerformed by The Beatles
+
+She almost fell out of bed.
+
+HOW THE HELL IS THERE NO JUDE?!
+
+This world had The Beatles. She had heard their songs, the sound was very familiar.
+
+It had taken her a while punching lyrics into Google to finally find them, but when she did, there was no doubt that Paul McCarron, John Lenden, George Harwood and Colin Hanton had left their enormous footprint on the history of music. Of particular interest to her wasn’t the OG trio—but Hanton.
+
+Hanton was, in her original world, the original fourth member who was later replaced by Ringo. The band name as a result, was a play on Lennon’s original idea of the “Quarrymen”, becoming “The Quorum”.
+
+The divergence, Eppie guessed, was because Colin, the “fourth Beatle” never left the band in this more optimistic reality, and the Discography of Lennon, McCarthy and Harrison had been subtly altered as a result.
+
+There was even a Yuki! And heartbreakingly, a band break up, and also a Chapman. In his deposition, Chaplin had told the court that he wanted to murder someone “as famous as Lenden,” but in his manifesto, he had also stated that it was because of Lenden’s infamous “no religion,” sentiment, expressed in a 1966 interview with the lead singer that, “The Quorum” had the quorum on “God” when it came to popularity and fame. Chaplin even had a copy of The Catcher in the Rye!
+
+Songs, as clumps of immense [Causality], and as Eppie had learned through Kellie’s Umbrella, likely possessed their own Karmic Gravity Well of sorts.
+
+Nonetheless, why wouldn’t there be Jude? Eppie performed the usual google searches, but even with tricks of the trade, all she could infer was that Lennon was a decent enough father to his first child. There were even archival pictures of the two hanging out with the band. This meant that, Paul would not have needed to drive out to comfort Julian, and thus—no Jude.
+
+And the bigger question was—
+
+WHY JUDE?
+
+Like, who was the song for? Que Sera was for Eppie. In the Pines was for Mio. Dream a Little… Zara? Ue wo Muite Arukō was for Kiritani Sensei. Umbrella changed Kellie’s life, and finally, When Doves Cry (choral) was for Mio, and it doubled as a salvation mechanism for Kelvin Grant.
+
+If so, who was Hey Jude for? Hey Chelsea? Hey Lucy? Hey… William… Don’t make it sad? Let’s sing-a-along and make Mio better?
+
+Eppie made a gagging sound. Before her thought process could be taken further, the [Roulette] made its final cycle of vertigo known to her.
+
+Muse Acquired
+
+House of the Rising SunWritten and performed by Unknown
+
+“... Whoa—” Another mystery. And she knew that it wasn’t the popularised version, but the original, because the singer was the “poor girl”, a ruined woman, warning her younger sister from the same fate. Rather than a gambling house, the “House of the Rising Sun” was a bawdy house.
+
+What was the portent of this song then? She didn’t know anyone of that persuasion—or did she?
+
+[Causality: 410014]
+
+In the two hours it took her to meditate upon her future, she had already gained more [Causality]. Nonetheless, much like Umbrella, every song had diminishing returns.
+
+Her next order of business was to spend [200,000] or so [Causality] on self-improvement.
+
+This was something she had been dreading for a while because the last time she had to top up her [Strength], the costs had been in the thousands, then tens of thousands.
+
+What this meant was that each point-buy wasn’t individually scaled—her total amount of [Causality] spent upon improving her baseline [Potential] was on an exponential tangent!
+
+First, Eppie decided that the dangers she had thus faced necessitated at least a single point into [Strength], [Agility], and [Vitality].
+
+She read the pop-up.
+
+[Strength]21
+
+A representation of the Usurper’s strength, affecting lift, pull, push and physical force.The Usurper is endowed with blessed strength when compared to the average adult of her present world.
+
+This innate statistic can be improved through training and Karmic Causality
+
+Eppie watched her [Causality] dwindle. [8500] for [Strength], [12000] for [Agility], and [16500] for [Vitality]. [37000] total.
+
+She wasn’t 100% on the difference between Exceptional and Blessed, but she knew that going past [20] was a milestone of sorts. Either way, she could see a lot of [Noblesse Oblige] in her future, and they could get very heavy once flowers turned to succulents or trees.
+
+Now, she turned her eyes toward the great temptation of [Comeliness]. Eppie wasn’t a saint. She was vain. She needed assurances.
+
+“Increase to 22.”
+
+She winced, but she couldn’t hold back now. Her superficiality, meaning her inferiority, wouldn’t allow it. She didn’t need Valorie’s aesthetically contoured bosoms, or Zara’s legginess, or Lucia Lancet’s gobsmacking perfection. She just wanted to be at least as tall as Audrey Hepburn, so as to not appear as a child by the time she was an adult. As evident since August, jogging, exercise, and her infamous cafeteria Mukbangs were not helping Eppie’s stunted childhood—so now she had to turn to illicit gains.
+
+“Increase to 23.” “Increase to 24.” “Increase to 25.” She subjectively felt that Val was sitting around [26], and her beauty would only grow with age, unlike Eppie’s, which did NOT improve through mortal means of self-improvement.
+
+Her skin grew clammy. She felt like a stat-junkie from one of those online webnovels. Dare she go further? The next tier changed the [System]’s classification from Blessed to Singular.
+
+If a young woman was to somehow achieve [40] in [Comeliness], would ten-thousand ships be launched? Would she be abducted at twelve by Theseus, then again from Agamemnon by Paris, passed from men to men like a prize made of blood, gold and divinity? More interestingly, if one had SO MUCH [Causality] in a single area of their being, would a Karmic Gravity Well appear?
+
+She suspected it might.
+
+For herself, a lady with an [Intelligence] of [37], she had gamified the AI Hunger Games until a single conglomerate controlled almost all human creative potential—and then it had landed her here. What had been terrifying was that, in the 2030s, there were dozens of individuals who were no less accomplished than herself.
+
+It made sense—Eppie reminded herself. The non-physical [Potential] were subjective numbers. One in ten-million was still 700 bodies in a world of 7 billion people. How many people were Hollywood A-listers? How many people, whose charisma and skills balanced or enhanced their comeliness, simultaneously dominated the fashion and entertainment world?
+
+[Comeliness]25
+
+A representation of the Usurper’s superficial, external presence in the eyes of her beholders.
+
+The Usurper is endowed with exceptionally blessed privileges of genetics above the average adult of her present world. Observers of the Usurper may sometimes be enthralled. This innate statistic can be improved through care and Karmic Causality
+
+The care part, Eppie suspected, was a bit of a scam when it came to the limitations of time.
+
+Euphemia Fontaine
+
+Causality
+
+Strength
+
+21
+
+Athletics
+
+242014
+
+Agility
+
+21
+
+Acrobatics
+
+[Physicality]
+
+[Instrument: Guitar]
+
+Health
+
+Vitality
+
+21
+
+Endurance
+
+Pain Suppression
+
+38 / 38
+
+Wisdom
+
+27
+
+Insight
+
+Emotional Intelligence
+
+Perception The Sublime[The Clockwork Pulse]
+
+Legalism
+
+[Script Analysis]
+
+Stamina
+
+Intelligence
+
+35
+
+Arithmetics
+
+Accounting and Finance
+
+Business Acumen
+
+[Composer][Memorisation]
+
+35 / 35
+
+Charisma
+
+25
+
+Persuasion[Act Natural][Hitting the Mark]
+
+Intimidation
+
+Larceny
+
+[Songstress]
+
+[Vocality][Gospel]
+
+Dasein
+
+Comeliness
+
+25
+
+Seduction
+
+[Love the Light]
+
+32
+
+TRAITS :: [Prophet of Profits] [Noblesse Oblige] [Perfect Pitch] [El Duende] [All the World’s A Stage] Inactive ::
+
+In the beginning, it took a month for her [Potential] to grow into place from below average to exceptional. How long would ‘blessed’ take? Certainly, [Comeliness] could take years, unless the [System] decided against its usual trend and opted for Gangnam style elective surgery.
+
+And speaking of Gangnam Style…
+
+Eppie eyed her [Causality] like it was a fat bowl of Josefina’s flan.
+
+She shook her head. Not only was PSY a generational artist. He was also, insofar as the West was concerned, a business role model and an underdog success story. The [Causality] attributed to the song that mainstreamed K-Pop in the west… was incalculable.
+
+With her [Causality] spent and body base improved, she laid back and spread herself over the cover, hoping that, maybe, just maybe, come tomorrow, Euphemia Fountaine would be an inch taller…
+
+Now there was only [40000] to go before she reached her spending goal.
+
+Eppie decided on another round of accounting.
+
+S-tier: [Perfect Pitch]
+
+A-tier:  [Memorisation] [The Sublime] [El Duende] [Physicality] [The Clockwork Pulse] [Love the Light] [Hitting the Mark] [Act Natural] [Songstress]
+
+B-tier: [Script Analysis] [Vocality] [Gospel] [Composer] [Instrument: Guitar]
+
+C-tier: [All the World's a Stage] [Athletics] [Acrobatics] [Endurance]
+
+N/A Tier: [Noblesse Oblige], [Prophet of Profits]
+
+Some [Traits], like [Gospel] were capped. Others had mutual synergy, such as [Act Natural] and [Script Analysis] or [Hitting the Mark] and [Love the Light]. Some were influenced by statistics, such as [Comeliness] or [Intelligence].
+
+She would leave [Athletics] [Acrobatics] [Endurance] for the future.
+
+For now, dare she improve two of her most used [Traits]? She did. She felt that it was necessary.
+
+“Increase [Script Analysis] and [Vocality] to A-range.”
+
+Causality Tier (A-)
+
+You have acquired an exceptional talent for projection and articulation, understanding the voice as a physical, psychological human instrument. This trait is modified by your [Charisma] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+[Script Analysis]Causality Tier (A-)
+
+Your exceptionally analytical mind may now read between the lines, place yourself in the shoes of real and fictional individuals, and see hidden truths. This trait is modified by your [Wisdom] statistic.
+
+This trait can be improved through training, performance, and Karmic Causality
+
+OH—MY—GOD— MY [Causality]! Eppie felt her innards contract into a ball.Then, her new and improved [Script Analysis] slapped her across the face. HEY JUDE must be for Valorie! Did this mean—
+
+Then, knowledge of a kind filled her head—and the greedy [Usurper] grew insensible to the world.

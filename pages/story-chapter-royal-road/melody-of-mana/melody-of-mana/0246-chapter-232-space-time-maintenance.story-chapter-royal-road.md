@@ -1,0 +1,103 @@
+---
+id: c7ddeb2b-697f-5518-bdfb-f4cd87f49e29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 232 Space-Time Maintenance"
+slug: 0246-chapter-232-space-time-maintenance
+partOf: melody-of-mana
+position: 246
+ownLength: 1583
+unit: words
+ownProgress: 1583
+publishedAt: 2023-04-29
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1196371/chapter-232-space-time-maintenance"
+royalRoadId: "1196371"
+markedReadAt: "2026-06-29T22:34:19.827Z"
+---
+
+As the song swelled and my mana became stronger and easier to manipulate I began trying to wrap it around the massive knot in the world before me. Even with the power I couldn't encompass all of it though. The tangled mess of space flowed and wavered, spitting out and surging from one moment to the next invisibly as some internal current pushed and pulled.
+
+Frustrated I instead looked at one of the parts, it was smaller, bubbling to the edge of the blob that I'd impressed on the world. I reached out again, the mana like water as it wove around the little anomaly, and began to slowly shrink it. this was just one of many, many such bits, and nothing compared to the main body of the beast. At least as it pushed down it didn't seem to swell back up.
+
+As I tried to cut the cancer in the world out one bit at a time I began to become convinced that there was something over the larger area. Was this what was causing the gate to have issues? It was subtle, and expansive, as large as the crater at least. Should I try to deal with that or the easier to spot bits first? I was unsure, and frankly, a bit out of my own depth here.
+
+I began to reflect on my lack of education in something like physics or calculus, or anything even vaguely resembling space back in my own world, and how I couldn't know this would happen. Would it have mattered though? Nobody there could manipulate space like I could, so I kind of doubted they'd have anticipated this result. There was also magic involved, which, no matter how much it resembled what I remembered of physics, clearly wasn't.
+
+With great effort I managed to prune away three of the little growths before I had to stop. They were all among the smaller side, and even then wrangling them was both a mentally exhausting and mana intensive fight. I looked over to the other singing with me, and all but Ulanion looked dog tired. The process had taken a couple of hours in total standing out on the open plains.
+
+"You all okay?" I asked.
+
+"Just not used to singing for hours..." I looked around and realized that we weren't too far off from nightfall, it certainly had been.
+
+"Did it even do anything?" One of my assistants asked slightly hoarsely.
+
+"Yes, though not as much as I'd hoped..."
+
+I took one last look at the mess before we all began the process of mounting up.
+
+That night when I finally fell asleep I dreamed, dreamed about all I'd seen and done over the past day, about the ripples and tangles, about how badly I'd messed up, and about a singular eye, a thousand eyes, and none at all, staring, groping and pulling, turning and twisting in a trillion directions at the frayed edges.  Needless to say that I woke up in a cold sweat, and couldn't get back to sleep.
+
+The next morning as we approached the the hole once more, armed with a slew of new songs, simple dances, and a drum someone had dug up from the waystation's back rooms I saw something interesting.  Deep in the lake-bed the soil was cracking and dry, and in the hole at the crater's bottom was a bright shine.
+
+"What's that?"  The waystation leader Klaus asked, eyes flicking down.
+
+"Does it matter?'  One of the women asked.
+
+"Maybe, I'd like to see it regardless," he said as he looked at me.
+
+I spun up a small viewing spell, the same one I'd used in the mountains.  Nobody was crazy enough to go down there into the massive crater right under an undulating spacial anomaly.  It zoomed in enough for us to see that the shine in question was a mix of blackish cubical crystals and a few silvery metal blobs holding them together.
+
+"Miss... I hate to impose, but would it be possible to get one of those?  It might go a long way to helping with the damage this mission had done..." the man asked.
+
+I smiled.  "Silver ore?"
+
+"Yes ma'am, and those bits might be actual silver."
+
+I'd long mastered the spell to pick things up at a distance, and so this wasn't too hard.  While he looked closely at the sample sized bit I locked my eyes on his.  "After we're done, and not before will you get more.  Going down there right now is dangerous, and I've already got more than enough work."
+
+"Sorry miss, but this could turn the town around," he explained.
+
+"I understand, but that will wait until after we're done."
+
+It was at our first break that the first snake slithered out of the crater, the hole down into the mines and caves below letting it see light.  Everyone faltered as it spotted us and became a silver blur.  Ulanion met it before it made it all the way to us, the beast's head flying as his sword cut it down.
+
+"Don't stop, we need to get this done," he said.
+
+Over the next hour we saw three, the hour after that ten.  On the third hour the beasts were emerging almost every other minute and I could tell that our warrior was getting tired.  Ulanion focused, sweat dripping down his face.  The snakes themselves weren't much of a threat, but there seemed to be no end to them.
+
+"We need to plug that hole," I said, trying not to gag on the smell of blood.
+
+"Tell me you've got something," he replied, killing another as it emerged.
+
+"Nothing permanent, but yeah..."
+
+I got Klaus to take up the drum to a simple repeating beat, the others to dance, and I whistled the theme.  Popular t.v. shows didn't exist in this world, but I needed a bit of cold, so winter was certainly coming today.  Bit by bit A crystal of ice formed in the depression, filling the opening into the caves below.  The first one failed, falling into the hole, but after that I began building around the opening, slowly working my way inwards as the structure got thicker.
+
+My main hope was that the snakes would be deterred by the cold, since it was well know that normal ones were rather dissuaded by it.  I was also low on options, Not having the expertise to do anything with the mud or dirt, and already tired.  Ulanion had the good sense to throw the corpses on top of the growing plug, which would surely help with the smell.  After a good couple inches or so of solid ice was piled over the sinkhole I finally stopped.
+
+"Won't last forever," one of the girl's observed.  "Can we put dirt or something over it?"
+
+"Maybe, or sawdust," I said, remembering one of those history lessons about warships from WWII.  "We can add sawdust to make it last longer, but that's unlikely.  The town might have hay or something, that might work... we can get some, tell them our horses are running low."  I wasn't sure how much I was having to lie as of late, it'd been fun at first, but it wore on me.
+
+I didn't know, I was too beat.  I could cast a lot, and I could cast a lot more and a lot better with a gestalt like this, but there were limits.  I was running on fumes already, unable to keep up with the demands.  The only good news was that the disaster hanging above our little snake-hole had visibly shrunk with our efforts today.
+
+After another spree of attacking the anomaly I had to stop.  I was getting better at this, of course casting the same spell over and over did improve things, but it was still draining.
+
+"Are you okay?  You look terrible," one of the girls Jewel, said as she came over and placed an arm around me.
+
+"I'm out, any more mana and I might collapse.  We need to rest and start again tomorrow, or maybe try the gate, I don't know."
+
+After a good night's sleep we gathered up a cart the waystation had and made our way out towards Silversprings.  I was the only one of the girls along, the others having been judged to be too odd.  My own inclusion was justified by the fact that my guard wouldn't be able to go without me, and I needed to 'consult' with the mayor anyway.  It was a poor excuse, but an excuse none the less.
+
+Before we even got there I heard the bells, bells declaring emergency, bells calling for all people to aid or hide.
+
+Durin's Fortress
+
+A frantic knocking came at my door, answered quickly by one of the on duty guards.  The man looked elated, a piece of paper in his hand and waving.
+
+"My Emperor, good news, we've reestablished contact with two of the gates.  They report no casualties," he said as soon as he'd been acknowledged.
+
+"Swilstown and Red Rock?"  I asked, questioningly.
+
+"I... yes, that's correct."  He looked at me like I was some kind of genius.
+
+I wasn't, the simple fact was, that of the twelve gates we'd lost contact with, those were the furthest from Silversprings.  I walked back over to my map and looked at it once more, removing the pins marking the disabled gates.  At the very least I knew this, that girl had found something.

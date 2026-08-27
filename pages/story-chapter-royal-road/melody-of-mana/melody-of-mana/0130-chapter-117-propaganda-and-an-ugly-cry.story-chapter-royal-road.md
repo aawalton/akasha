@@ -1,0 +1,115 @@
+---
+id: cd2c9432-e187-5c40-9196-413eabfef5f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117 Propaganda and an Ugly Cry"
+slug: 0130-chapter-117-propaganda-and-an-ugly-cry
+partOf: melody-of-mana
+position: 130
+ownLength: 2031
+unit: words
+ownProgress: 2031
+publishedAt: 2022-04-13
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/884466/chapter-117-propaganda-and-an-ugly-cry"
+royalRoadId: "884466"
+markedReadAt: "2026-06-29T22:36:52.278Z"
+---
+
+It took me several days to wrap my head around the current factions in the school.  Because ho boy, there were now factions, who did not like each other at all.  We'd always been a bit divided between nobles and commoners, but with the invasion, and the influx of new students that was on a whole other level now.
+
+First we should cover the former nobles of Bergond.  They were, in a word, pissed.  They were also not stupid enough to let that slip out.  They'd been beaten, stripped of their titles, and now reduced in status to those commoners who they'd at the very least looked down their noses at just a bit.  They were also now the outsiders.  They wanted to think they still had something on everyone else, but everyone else knew they didn't.  There also weren't all that many of them, for obvious reasons.
+
+Next came those former commoner students that were still attending.  This group had friends in the former nobles, but were always a bit looked down on.  They knew the school, some of the teachers, and most were trying to get along with everyone.  Dras was finding himself ever more popular nowadays and I wished him the best with it.  He also seemed to be hanging around Clarissa a lot less, but he didn't tell me and I didn't pry.
+
+Thirdly we had the newcomer students from Bergond.  This group was a big mix and most fell in with the former commoner students, but they didn't have the prestige of knowing the place already.  Since they were all in their first year they were all being watched, to see where they'd go.
+
+We also had those who'd come from the former Empire of Ermath.  This faction was trying to be friendly where they could but there were some oddities about them.  The biggest was that they all thought Lord Durin was the absolute best.  I hadn't had too many deep talks with them yet, but from the way they acted you'd think he'd personally walked into their town and saved them all.  Which he really might have done in some cases.  From what I understood Ermath had made our country look like a daycare in the way it handled people of the lower classes.  I was still keeping my distance for the time being since I was trying to figure out if they'd been brainwashed.
+
+Then we had my faction.  We were the ones who didn't really fit too neatly into any of the groups and I was the queen bee.  Well, sort of, all of us were sort of out of the various factions for the moment since it wasn't completely obvious where we fit.  Lots of loners and those who'd not gotten too involved or were too hot of an asset to really be taken in without consideration.
+
+The priests might have been a faction, but if they were they seemed to think that the best move was not to play.  I had to admit they really might have a point there.  It was sometimes too bad that I didn't really fit into their little group, being a bard.
+
+I did not like this division at all, particularly because it put too much attention on me.  The nobles seemed to think I was a traitor.  The former commoners also thought that I was probably a traitor, but seemed to care a lot less.  The (formerly) Ermathi students thought they should get to know me, but were a bit worried.  I got the vibe that dad and John had done some big things, but I didn't know what yet.  The exiles and the priests tended to be friendly enough, but that didn't really help too much.
+
+I mused on all of this as I sat in Civics.  It was full of propaganda, but the way it was done wasn't too bad actually.  There were a lot of lessons on philosophy and how we should all strive to uplift, rather than to degrade.  That isn't to say that there weren't parts of the lecture where we were just flat out told what was right, and that Lord Durin had been doing his best to better everyone, because that was there, but it was subtle.  I wasn't sure if that was more or less insidious, but I was leaning towards more.
+
+At the moment we were going over questions about how a change in farming technique should be handled.  It was a high cost in the short term, with large long term benefits.  All the numbers were from real villages, showing how the method had increased yields and the rate at which it had done so.  The math was easy enough and I'd worked out the answer a bit ago.
+
+"What do you think Alana, what choice should we make?  To remain with the current way, or to change?"  The professor looked at me expectantly as she began this part of the lesson
+
+"I believe we should change professor," I said with confidence.
+
+"Counter opinions?"
+
+It was one of the former noble boys who raised his hand.  With a nod the teacher gave him the floor.
+
+"I disagree strongly.  The investment in changing the crops would be stifling to the community.  It would cost a fortune to change over."  He looked like the idea of spending that money was horrid.  "As it stands the current yields are within acceptable levels for those working the land to live and pay their taxes."
+
+"There is the possibility that the investment is too high for it to all be changed at once, as well as that the farmers may resist or resent the intrusion into their business."  I admitted the biggest fault in my position, that people didn't always want to do what you wanted them to.  "That said, the current yields give no surplus, no barrier against disaster or drought to the farms listed here.  While the initial investment would be high it would fix that.  One might have to give some incentive, at least in part to change, but with only a bit of time the farmers themselves will see the benefit, and adapt accordingly.  Within ten years the estimate on investment would be recouped by the increased taxes anyway.  Assuming that it works as laid out."
+
+"You seem a bit hesitant in your position Alana.  May I ask why?"  Our instructor seemed to have questions as well.
+
+"Because while this is an exercise if we were to run it as something in the real world we would not be playing with numbers and charts, but rather having a deep effect on people's lives.  People are not just numbers you can move on a page or pieces on a game board, and you should not treat them as such."  I then shrugged.  "Anyways, as I said, they are likely to resist anyway if you try to force the issue.  You'd do better to find a way to convince them to do it themselves."
+
+"Oh what a wonderful answer!  You're quite correct my dear, on both accounts."  She smiled brightly as she turned to everyone.  "What is the duty of the strong?"
+
+"To protect the weak."  Everyone answered in unison.  It was one of several such answers we were expected to give that was one of the more obvious points of propaganda.  Could I really hate that idea though?
+
+Later in the day I was walking invisibly through the halls.  I'd taken to that method to avoid any more attention than I was already getting.  I didn't have much to do at this particular hour, and soon enough I'd need to head to dinner.  Really I was just avoiding people while strolling randomly, it was pleasant.
+
+As I passed by one or the empty classrooms I both saw and heard the discussion going on inside.  Pinea and some older boy I didn't know had taken up residence there, and were having a bit of a time.
+
+"You and your whole family disgust me.  I can't even believe you'd defend that treachery."  The boy hissed angrily.
+
+Pinea seemed on the verge of tears.  "There was no point to continuing, all that would have happened is more death.  Can't you see that?  Father just did what he thought was..."
+
+At this point the guy pulled back and spit full on in her face, and uttered something I'd never though anyone would to her.  "Never speak to me again traitorous whore."  With that he turned and walked out.
+
+I was so shocked that I almost didn't move in time for him to miss me as he passed by.  He threw the door open and scowled as he left, teeth locked.
+
+Pinea sank into a nearby chair and began to bawl.  As I came in I closed the door, not even thinking about being invisible.  As her head popped up I let that spell fade, revealing myself.  She might have once been a noble but Pinea had always been a friend.  It only took a few seconds for me to put a sound barrier on the door, pull out a handkerchief, and move to her side.
+
+After letting her have a good cry while I held her and getting her a little cleaned up I finally asked.  "So what was that all about?"
+
+"There... at the end... dad made a deal. *sniff* He had all of his knights turn on the guards in the palace when the signal when off."
+
+"Oh, well, it wouldn't have mattered anyway."
+
+"I know.  What was he supposed to do, let all his men die?  Lose everything himself?"  She shrieked.  "There was no point to continuing to fight.  It was over!"
+
+I patted her back.  "The asshole?"
+
+"My betrothed, well, former betrothed I guess now.  I thought he'd understand..."
+
+I leaned in.  "Well then, I'm glad he called it off.  You can do way better."
+
+She laughed a bit.  "Do you think so?  I am a disgraced former noble after all."
+
+"Oh yeah.  Imagine if you'd ended up married to that.  We can find you someone better.  I know some people; I'll introduce you," I continued, trying to be as flippant as possible.
+
+"Great, because I think most of my friends hate me now."
+
+"If they do they weren't real friends anyway.  Now let's go get you cleaned up."
+
+"You're really good at this, you know that Alana?"
+
+"It comes with being a bard."  I said as if it were the most obvious thing in the world.
+
+"Wish I was one," she said, starting to mope a bit again.
+
+"You should put in for a change then.  I hear the forms are a real pain though.  Oh, and you have to learn how to sing."
+
+"Oof, guess that's a pass for me."
+
+I didn't know all the details, but I knew enough.  I knew that she'd probably hurt from this for a bit longer.  She may not have been beaten up or tortured, but she'd obviously lost a lot.  Regardless of what happened though I'd help her through her ugly cry phase, she deserved that at the very least.
+
+"Okay, so I'm going to turn us invisible, because you're a mess, and I don't want to attract attention."
+
+"Alright..."  Pinea seemed a bit hesitant.
+
+"It doesn't hurt or anything, just hold my arm while we walk back to the dorms.  Oh, and try not to walk into anybody.  That's super embarrassing."
+
+"Sounds like you have experience."
+
+"So much.  Once I fell down a flight of stairs, and it was really loud, but nobody could figure out what had happened.  At least nobody could see me.  I felt like my face was strawberry red as I snuck off."  That got her laughing again, and laughing was good.  Laughing wasn't crying.
+
+The whole way back she asked me for more stories.  Who was making out with who and where.  What juicy gossip she was sure I'd heard on my wanderings.  She wanted the works.  Sad thing was I didn't really pay attention to that kind of thing.  When we finally arrived she rushed off to wash up and I sighed as I nearly fell into a chair myself.

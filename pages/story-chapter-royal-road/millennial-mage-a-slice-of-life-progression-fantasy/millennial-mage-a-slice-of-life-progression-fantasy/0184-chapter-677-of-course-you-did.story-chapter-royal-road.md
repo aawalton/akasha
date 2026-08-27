@@ -1,0 +1,237 @@
+---
+id: 67337be9-62b3-57cd-9f79-6a06c3b27aa2
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 677 - Of Course You Did"
+slug: 0184-chapter-677-of-course-you-did
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 184
+ownLength: 2870
+unit: words
+ownProgress: 2870
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3097926/chapter-677-of-course-you-did"
+royalRoadId: "3097926"
+markedReadAt: "2026-06-29T19:40:57.856Z"
+---
+
+Tala stood to the side, gesturing for the small bear-kin to walk through the offered door.
+
+He recovered enough to give her an incredulous look at the off-center placement of the portal—they both knew it had been purposeful. Even so, he shook his head and sighed before stepping through and into a small seating area along one of the lesser paths within the sanctum.
+
+It wasn’t where they would take their tea, but it was a lovely spot nonetheless.
+
+He took in a deep breath, and Tala felt his aura pulse outward, stretching, reaching, grasping for the magic in the air all around him.
+
+It closed on nothing, coming back to him with no harvest at all. The diminutive man stumbled slightly, even though he’d been standing still. “What gated horror is this?”
+
+He turned on her even as she stepped through the portal, closing it behind her. “Whatever do you mean, Eskau De-Arg?”
+
+His eyes narrowed. “The power in the air. Is it fake? Some elaborate illusion?” His face hardened. “Have you been dabbling in mental magics?”
+
+“Not in the least. This space, and everything in it, is mine.” There was a usual little tremble in existence at the sentiment, even if it was weaker while she was within her space.
+
+Eskau De-arg looked around, ears twitching, clearly having felt something. “So, this power is real? It’s not faked?”
+
+“Not faked, entirely real.”
+
+His will flexed again, and again, he came back with nothing. “Then how are you…”
+
+She smiled. “As I said, the power is mine.”
+
+“I see…” He looked around, seeming to actually be looking deeper than the superficial of her sanctum. “Fascinating. You have somehow fully interlaced your authority with the power… without it being aspected to you at all.”
+
+“That’s right.” Tala’s smile grew a bit. “Right this way. I assumed you would enjoy a tour.”
+
+Eskau De-arg’s eye twitched. “You aren’t going to tell me how… are you…” It wasn’t a question. “You brought me here to show me things without explaining anything…”
+
+“I don’t know what you mean? Tea and repast is just a short walk away. It is a lovely walk.” She smiled at the Eskau.
+
+He harumphed, but followed her direction, falling into quick steps to match her slower, longer strides.
+
+She led him around the central rise, sticking to the portions that were cultivated for the purposes of beauty for use as walking trails.
+
+Eskau De-arg was looking around constantly with more than just mundane sight. His aura was sending out little tendrils to test aspects of the space.
+
+Tala didn’t mind. He wasn’t trying to subvert anything. He was simply exploring the oddities, or more likely seeking them. “This place is… normal? It’s like the superficial in every way I can tell, save that the power in the air is utterly inaccessible to me.”
+
+She nodded, then pointed to a particular flower. The petals were an interesting gray with violet stamens, making it look like an amethyst hiding within stone. The unusually dark green stem and leaves began to look like emerald in that context, a bit of translucence and a more geometric shape added to the effect. “This is a flower that my husband has been playing with, altering the cross-breeding. With perfect control of such things, he’s been able to get great results. It helps that we also have precise control of the environment. In that way, I believe he kept the ‘generations’ to only a couple of weeks.”
+
+Eskau De-arg seemed a bit startled to have it pointed out, momentarily confused to have missed it. Then, he understood. “No magic?”
+
+“None, aside from what is naturally surrounding it.”
+
+“Amazing…” He looked up, seemingly investigating around himself with new eyes. Only then did he appear to take in the more nuanced portions of the sanctum.
+
+Tala had become a bit inured to this place after so long, and in Eskau De-arg’s defense, it had been spectacular when she’d first acquired it. He hadn’t seen it then, and she and her family—including those assisting them—had been improving it for years now.
+
+She didn’t spend a lot of time gardening herself, but Alat seemed to enjoy the regular maintenance, and since she was always monitoring everything, it was trivial to do things such as deadhead flowers or control the subtleties of cross-pollination and the like.
+
+Rane occasionally wanted to test the limits of what he could do with this plant or that flower, but more often than not, he set Alat and Enar to the task only checking back in on it on occasion. More often, he simply allowed his own alternate interface to work on such projects at his leisure.
+
+The unusual flower was one such project, about which Enar was incredibly proud.
+
+-And don’t you forget, he’s my husband.-
+
+Alat… You are me, I am you. He is Rane, Rane is him. He is my husband.
+
+-So, Rane is my husband, then?-
+
+Yes. You are me. He is my husband. Therefore, he is your husband.
+
+-Are you sure?-
+
+Tala sent an unamused sensation toward Alat. Whatever you are scheming, no. Just no.
+
+-But, I thought you sai—-
+
+Tala cut her off before she could go further. No, Alat. No word games. Now, leave me to it. I’ve a guest to entertain.
+
+-...Fine.-
+
+She turned her focus outward, taking in what surrounded them for the first time in what felt like years.
+
+They were walking past trees with bone-white bark. Monoliths so large she couldn’t wrap her arms around them, making them seem much like marble columns, despite the obvious canopy of rustling leaves overhead.
+
+The trees were a squatter variety, selected and then bred for short tops and thick canopies with all the branches clustered near the top. The Sappherrous family couldn’t take credit for those, as they’d been brought in fully grown by the arcane artificers when Kit was originally outfitted.
+
+They added to the ambiance of the walking paths without obstructing the view from the top, a delicate balance to walk.
+
+The path of artfully laid stones, though? Rane had slowly replaced those through the years, and recently, Lea had taken to selecting random spots along the various paths to create miniature enclaves of her own personal touch. She usually brought a fountain into being within each, working with Alat to align the piping for the water to be able to flow without active magics in the location.
+
+Occasionally, she would make them look like little villages, adding in miniature houses, so small that Tala’s finger wouldn’t fit through the windows. But more often, she simply made lovely little spaces that rewarded those who were looking for them with their beauty.
+
+There were magical aspects to detect and find in the sanctum as well, spellforms that had been laid down by those original crafters and later added to for various purposes. Some were natural magics, made and maintained by the very power flowing through them, but many more were within the ground or other aspects, underpinning everything.
+
+Eskau De-arg seemed to be inspecting everything even closer now, and he was obviously enjoying himself.
+
+The walk wasn’t long, all things considered, and it led down to the circular river and to a newer bridge that arched over it to one of Tala’s more favored tea spots.
+
+Waiting there for them was a low table that would allow them to sit on the grass while retaining the more stable platform for their cups and plates.
+
+Eskau De-arg paused in the middle of the arch of the bridge, looking down with a frown. “Down… isn’t?”
+
+Tala chuckled. “There is a gradient incorporated around the entirety of the central hill. From an external perspective, the river is perfectly flat. It should be a stagnant moat, but with the gradient?” She shrugged and smiled. “It’s all down hill, all the way around.”
+
+“Fascinating use of dimensionality and malleable perspective.” He was nodding. “You didn’t do this yourself, correct?”
+
+She shook her head. “I did not, though I could now.”
+
+He looked her way, raising one eyebrow. “Oh?”
+
+“Of course. This is my sanctum. I can do almost anything I want within here.”
+
+He grunted at that. “As is true with most soulbound spaces… to an extent. Had I not already known this one was special—specifically that Eskau Meallain had been within along with many others—I would be concerned that this was entrapment.”
+
+“Yet you stepped in? That’s all that is generally needed.”
+
+He waved that off. “First of all, I said ‘had I not’. I do know better, so it is no issue. Secondly, for one such as I? It would take more than a volitional step through to bind my soul to yours.”
+
+“Oh?”
+
+“Of course. I have forsworn the binding of my soul to anyone or anything else. I am seeking balance, and adding complication would disrupt that pursuit.”
+
+Tala grunted. “I see.”
+
+“So… How did you do all this? The portions that are you?”
+
+She hesitated, then shrugged. It wasn’t that secret. “You actually got it in one.”
+
+He frowned. “What?”
+
+“It is me, all of it. I Reforged this into my very being.”
+
+He slowly turned to her, his expression a mix of flat disbelief and incredulity. “Of course you did…”
+
+She shrugged. “It fits. This is me and mine.”
+
+He narrowed his eyes, seeming to examine her rather than the sanctum for the first time. A moment later, he jerked back, eyes widening yet again. “Are there… three of you? What is this?”
+
+She smiled. “I could not contain all of my self in a superficial body, so I forged a set of three, perfectly balanced of course.” She gave a humorous wink. “They are all of the triad, but each is more one than the other. This?” She gestured at herself. “Is the most ‘real’ portion of myself.”
+
+“You Reforged yourself into a being bridging the triad of existence…” It wasn’t asked as a question, but Tala decided to answer anyway.
+
+“Yes.”
+
+“...of course you did.”
+
+She smiled. “It seemed the most stable and true path forward.”
+
+He sighed, shaking his head slightly and falling into silence.
+
+They turned to regard the lovely river for another long moment before Eskau De-arg turned and continued forward, gesturing languidly. “Shall we?”
+
+Tala smiled after the Eskau. “But of course.”
+
+The late morning tea passed pleasantly. Eskau De-arg got the sense that the deeper secrets weren’t going to be discussed, so he didn’t ask. Tala likewise kept the conversation light, simply catching up with the little Eskau who had helped her find her balance in an otherwise tumultuous time.
+
+Finally, as lunch was nearing, and they each had their own appointments to get to, Tala turned to the bear-kin and smiled. “I haven’t said it before, and I want to express it clearly. Thank you.”
+
+He set his tea cup aside and regarded her for a long moment. “What for?”
+
+“When I was here last, in Croi… I was very unbalanced. I didn’t know what to do, I didn’t know how I would survive… Overall, I was out of my depth. You helped level me, even though we mainly focused on combat balance.”
+
+“Hmm.” He gave a slow nod. “Balance begets balance. I am happy to have assisted. Though, it sounds like you took more from the lessons than I gave.”
+
+She huffed. “It was more than that, Eskau De-arg. The moments training with you… they were islands of tranquility amidst a raging sea that sought only to pull me under. I think that, indirectly, you helped bring about all this.” She gestured around herself. “I made it back home. I married. I had a daughter. I advanced, all upon a foundation that you helped to balance. Thank you.”
+
+He set his cup to the side. “Eskau Tala. You offer me too much credit.”
+
+She shook her head. “Every other teacher I had before you focused on ‘improving,’ being ‘better’ reaching ‘further,’ driving ‘farther.’ Your simple instruction forced me to reassess my roots. You forced me to see that I needed to improve where I was before I could advance. I needed to be solid and balanced in the present before I could properly focus on the future.”
+
+He tilted his head, considering. “I had not thought of it that way. A singular moment of balance can ripple forward in history, helping to provide stability in otherwise difficult times that follow…” He frowned. “That… hmmmmmm…”
+
+Tala waited as he drew out his thoughtful ‘hmm.’
+
+When he finished, falling back into momentary silence, his eyes had an interesting sparkle to them. His voice held some animation when he spoke again as well. “A single perfectly balanced moment could, in theory, be the foundation from which a better world could be forged, lacking the instability that came before.”
+
+Tala gave a thoughtful nod. “Yes, I do believe it could. Though, that would need to be an absolutely sovereign level of balance.” She frowned. “I don’t even know what that would mean, not really. Even if such a thing were possible, what moment? I suppose if the Black Legion simply all fell over dead right now, that would be great, but would that actually lead to a better future? I think that would disrupt the balance, if anything…” She nodded again. “That’s what you mean. You didn’t say a ‘perfect moment,’ you said a ‘perfectly balanced moment.’ A point in time where good and bad were fully measured, taken into account and arranged with eternity in mind.”
+
+He frowned as she started to chuckle. “What amuses you, Eskau?”
+
+She gave a small smile. “Oh, I just remember someone telling me that a mortal life was like that, but for an immortal life not eternity.”
+
+His frown deepened. “What do you mean?”
+
+“Oh, that if the Sovereigns were controlling everything, why are things like this?” She gestured around herself. “What I was told was that, what if the brief horrors of mortality are required for the best immortality possible? Who wouldn’t accept a small amount of pain if it made life better later?” She chuckled. “That’s what exercise is, after all.” A host of other examples flicked through her mind, but they weren’t relevant. She’d made her point.
+
+Eskau De-arg continued to frown in deep thought. “I… I had not considered it that way.”
+
+They sat in silence for a long moment before Tala reached for the last dumpling.
+
+His ear twitched and his staff fell over, knocking the table and causing the plate with the dumpling to wobble closer to him, out of her easy reach.
+
+Tala arched an eyebrow. “Do you want the last dumpling?”
+
+He gave her a small smile. “Why thank you, Eskau Tala. That is quite kind of you to offer.”
+
+He reached out and took it, eating it in a single, satisfied bite.
+
+Tala huffed a laugh, then took an almond cookie. “You could have simply asked. Imagine if I’d tried to fight you for it.”
+
+He waved that away. “It was the last dumpling, it is only proper for it to have been offered to a guest.” He arched an eyebrow, a smile tugging at his lips. “Besides, such a fight could have been an excellent way for me to test your skill.”
+
+“Really? I think it would have been hard to convey my skill in such a manner.”
+
+“You might be right. Thankfully, we do not need to find out.” He side-eyed another plate before flicking out a hand to snatch a small stack of cookies, tucking them into his sleeve as he stood. “Thank you for the morning tea.”
+
+Tala stood as well, giving an appropriate bow. “I am happy to send you home with any food you desire.”
+
+He waved her off with his empty hand, keeping the cookie hand tucked away. “No need, but thank you.” He looked around. “Is the exit located where we entered?”
+
+Tala shook her head. “I can take us out directly.”
+
+As the other Eskau nodded, Tala willed them both out.
+
+Eskau De-arg seemed to start to resist, but that resistance vanished as he seemed to reflexively realize what was happening, despite the eyeblink of time.
+
+Tala could have kicked him out regardless—it was her sanctum after all—but that would have been a less pleasant trip for the bear-kin, and she would have had less control of the location and manner of his arrival back in the world-fragment. He might have been booted all the way to the superficial, which would have been embarrassing.
+
+They exchanged one final bow, his bow lower than hers as was appropriate. “Thank you, Eskau Tala. You have… given me much to think on.”
+
+“Absolutely, Eskau De-arg. If there is ever anything that I can do for you, don’t hesitate to ask. I may be calling upon you for the coming war.”
+
+He waved that off. “I will, of course, answer the call when it comes. As to your offer, I will keep it in mind. Thank you.”
+
+Tala smiled, then turned and departed. She had a lunch meeting with the Head of House and diplomatic delegates to meet with.
+
+It was turning out to be a very full day.

@@ -1,0 +1,297 @@
+---
+id: 39116d83-9f95-5eb7-8fc5-80436f61824c
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 1 - New Beginnings"
+slug: 0003-chapter-1-new-beginnings
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 3
+ownLength: 4000
+unit: words
+ownProgress: 4000
+publishedAt: 2021-10-27
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/773515/chapter-1-new-beginnings"
+royalRoadId: "773515"
+markedReadAt: "2026-06-29T19:35:23.511Z"
+---
+
+Frost licked over Tala’s already sensitive skin, accompanied by the static tension of power rippling through her from an outside source.
+
+With a pulse of darkness, she left her old life, her adolescence of learning and exploration, behind.
+
+She crouched low in the center of a large, white-speckled, granite room. It was the shape of a half-sphere, each block sculpted and placed so precisely that had she not known better, she’d have believed it was carved from a single piece.
+
+Though, I suppose a Material Creator could have summoned the room into being, fully formed. That was unlikely. If her schooling had taught her anything, it was that magic was expensive; why would anyone do something with it, which could be done by hand?
+
+Beneath her were the empty grooves of a spell-form, an anchor used to draw a target in and recombine them.
+
+Everyone said teleportation was tricky, and that was true, in part. Disintegration and expulsion of a person was incredibly simple. Calling that person, and all their requisite pieces, back from the ether and putting them all back where they belonged, now that was tricky business.
+
+She shivered, as much from the fading cold as from the existentially terrifying thoughts. A person’s soul does most of the work, Tala. It’s not like the scripts could get your insides wrong.
+
+She glanced down at her hands and saw fading red traces where her spell-lines should have been. She let out a short groan. Well, that didn’t work…
+
+Blessedly, she saw her own dark hair, roughly shoulder length, swaying in her peripheral vision. The inscribers at the academy shaved all the students’ heads to allow for the easier adding of spell-lines, but in her soul—how she viewed herself—Tala had hair. Thus, somehow, her recombination had returned it to her. Now, I just have to find an inscriber capable of leaving it be.
+
+Huh… my skin is still raw. Shouldn’t it be as healed and complete as my hair? She supposed that some things just didn’t make sense.
+
+Tala heard several of the guards gasp as one voice stuttered out, “She’s… She’s naked!”
+
+A commanding voice cracked out. “Go check her! If the teleportation acolytes at the academy managed to leave her clothes behind, who knows what else was forgotten.”
+
+Take charge of your life, Tala. She sighed, standing fully upright, back straight.
+
+An uninscribed guard, a tall, broad-shouldered and grizzled man, stepped back in surprise at the sudden movement.
+
+Tala looked around the room, ignoring the man. A waist-high stone wall stood in a circle halfway between her and the smooth granite of the outer walls. It was broken only in one place, allowing access to the inner circle.
+
+Everyone—six guards and two Mages—was staring at her.
+
+One of the Mages, heavens bless him, was coloring so that the red was easily visible, even under his spell-lines. He was sparsely clad, as befit an on-duty Mage, and he was, somehow, blushing nearly down to his navel.
+
+Tala cleared her throat, speaking softly but letting her voice carry. “Nothing’s for sale, gents, so please stop window shopping.”
+
+Three of the guards turned away, blushing in turn. The two others grinned but averted their eyes. The one already in the circle with her huffed something near a laugh but turned slightly away, keeping his eyes to himself.
+
+That poor mageling flushed even redder and turned, putting his face against the outer wall. The female Mage, likely his sponsor, rolled her eyes and walked forward with a blanket taken from a pile that rested on a shelf laden with supplies.
+
+She was practically naked herself, cloth covering as little as possible, while maintaining the semblance of modesty. Her lines were proudly on display, their magic unhindered by covering. She was not young, but wrinkles had yet to render her inscriptions faulty. Both Mages were fit, if not well-muscled—as most Mages had to be. Changing size or shape would almost universally ruin your spell-lines, as well as force your inscriber to rebuild your spell-work from scratch. That was assuming the distortions didn’t make such work impossible.
+
+Make no mistake, Mages, one and all, were vain creatures, but it wasn’t their vanity that inspired scrupulous attention to their own bodies, so much as devotion to their art.
+
+The older Mage moved with practiced grace and fluidity, obviously aware of her every gesture, careful not to brush any of her lines against others. Such contact would usually be safe, but so would juggling knives; it was the unexpected that killed, and when spell-lines were involved, there was far more than a cut hand on the line.
+
+The older guard walked beside her as Tala strode to meet the Mage. If she had to guess, he had strategically placed himself between her and some of the other guards, blocking their view of her. Thoughtful of him.
+
+A furnace blazed on the opposite side of the room, and its heat was slowly taking the teleportation chill from her. Quickly, now. Don’t let them see how embarrassed you are. She found herself blessing the chill, which had kept the flush from the surface.
+
+As the Mage drew close, she lowered her tone to keep it from carrying. “The chill does many things, dear, but it doesn’t hide every sign of your embarrassment, at least not from those who know to look.” She draped the blanket over Tala’s shoulders. “Now, how did you arrive in such a state?” She frowned. “Why does it look like someone put you through a sandblaster? You’ve raw, new skin across your whole body.”
+
+Tala gave a formal half-bow, clutching the blanket close, while trying to affect a nonchalance that she did not feel. Though it was soft, the blanket still chafed lightly on her skin. The rawness had little to do with the unclad teleport, though it was still her own doing. “I’m Tala, Mistress, newly graduated from the academy.”
+
+“Yes, dear. You may call me Phoen. You have not answered my questions.”
+
+Tala cleared her throat, glancing away. “Well, you see, Mistress Phoen. Our current teleportation spells strip away spell-lines and won’t take any gear, save the clothes on your back.”
+
+“Hmmm?”
+
+“In studying the formula, it looked like it might be some factor of mass, beyond the organic being teleported, that is why at least a modicum of clothing always comes. Metal only comes if the person was wearing armor, and then not very much of it.”
+
+Phoen sighed. “So, you thought to, what? Modify the spell somehow? Child, you are lucky you didn’t scatter yourself across half of inner-solar space!”
+
+Tala’s eyes widened. “Oh, no! Absolutely not!”
+
+Phoen narrowed her eyes. “Then, what?”
+
+“I guessed that, without clothes to teleport, other material would be brought along.” She held up her hands. The red marks were already faded into bare visibility. “But I missed something.”
+
+“…Wait…”
+
+“Hmmm?”
+
+“Do you mean to tell me that you went into the teleportation circle… naked?”
+
+Tala cleared her throat and looked away. As she did so, she was able to see two guards using heavy metal tongs to move a crucible from the furnace to the short wall. They then poured the contents, liquid silver, down a funnel set into that stone.
+
+She knew the formulas needed for this spell-form well. Precisely two pounds of silver.
+
+The metal flowed out of a spout low in the wall and washed through the grooved lines of the spell form, which was set into the floor.
+
+She didn’t know what preparations had been laid into the stone to ensure the silver would always distribute evenly and cleanly. She hadn’t studied the Builder Arts, after all. Nonetheless, the Mages’ work was flawless, and the spell-form was filled once more, allowing the silver to cool evenly, creating strong, solid spell-lines.
+
+Tala had found variations of this catching spell that used a combination of metals, thus making them much more efficient from the perspective of materials, but the difficulty in casting interlacing liquids quickly meant that the uniform version was vastly easier to use, and thus the most pervasive.
+
+Phoen sighed. “Mact!”
+
+The young mageling jumped, turning around. “Mistress?”
+
+“The spell-lines are reset. Take your place.”
+
+“Yes, Mistress!” He scurried around the women and went to sit in the center of the spell-lines, a hand resting within hand-sized outlines to either side of him. He sat straight, his core tight, his limbs carefully aligned. He took a deep breath and exhaled.
+
+Tala felt the power ripple out from the boy, activating and resetting this teleportation receiver.
+
+Without delay, Mact stood and returned to his master.
+
+“Well done, Mact.”
+
+“Thank you.” He smiled happily, almost to himself.
+
+“Now, girl. You are beginning to tire me.”
+
+Tala sighed. “Yes, I went into the circle naked. Yes, I was lectured by the Mages on the other end about the folly of it. Yes, I know that teleportation magic isn’t intended to work on naked subjects.” She pulled the blanket closer together in front, and the top billowed out slightly, causing it to fall from her shoulders, exposing her back.
+
+The grizzled guard let out a little startled exhalation, then started to laugh.
+
+Tala spun on him. “What’s so funny?”
+
+Phoen let out a similar sound and barked a laugh of her own.
+
+Tala turned back. “Mistress Phoen?”
+
+“You seem to be cleverer than I’d thought.” After a moment’s pause, she amended, “Or, your cleverness bore more fruit than we’d guessed.”
+
+Tala frowned. Then, her eyes widened in realization. “My keystone?”
+
+“Yes, your keystone looks intact. Come, I’ll examine it.”
+
+Tala thanked the guard and followed Phoen from the room.
+
+Mact tried to follow, but Phoen sent him back with several stern words.
+
+Less than two minutes later, Tala was sitting in a small side room, a blanket covering herself strategically while leaving her back exposed. She was naturally straight-backed, her feet flat on the floor, knees bent at as close to right angles as the seat allowed—as she’d been trained.
+
+Phoen took nearly five minutes examining the spell-lines in excruciating detail. “Child, what type of Mage are you?”
+
+“Immaterial Guide, Mistress.”
+
+She grunted. “That explains it. I’m a Material Creator. None of these mean a thing to me. Though, they do look intact. You’ll need an inscriber to look these over.” She sighed. “Fresh from the academy, right?”
+
+“Yes.”
+
+“If you’re here, I assume you’ve signed a contract with the Caravanners, or maybe the Constructionists or Wainwrights? Though, I didn’t think the latter two took on magelings, here…”
+
+Tala grinned. “Not yet.”
+
+Phoen blinked at her, cocked her head to one side, and then sighed. “Oh, child.”
+
+“What? It’s the law.”
+
+“If that inscription is still viable, you have a case, but they may not be happy about it. They might just turn you away.”
+
+“I…” Tala hadn’t thought of that. Magelings got such poor pay until they could buy some spell-lines themselves. In addition, they had to operate under a full Mage, bound to obey them, subject to their schedule and whims. Once the mageling had scraped together enough to afford their own spell-lines, though, they were a Mage, and it was common law that a Mage commanded a much higher salary. She’d not considered that, given a choice of paying her a high salary or not hiring her, they might simply not hire her. She cursed.
+
+Phoen quirked a small smile. “You must have been a joy to your teachers.”
+
+Tala bristled. “My teachers loved me.” After a moment, she amended, “Most of them, anyways.”
+
+Phoen just grinned.
+
+“Well, what can I do?”
+
+“You have to decide whether or not to gamble. Don’t tell them you have inscriptions until after the contract is signed and accept the lower wage; or tell them, and possibly lose any chance at work. No one else is hiring those of your quadrant in this city… that I know of.” She smiled ruefully. “If you were a Material Creator, I’d throw you out on your ear for hubris.” Even so, her eyes twinkled. “But not everyone’s as crotchety as I. Perhaps you’ll be lucky.”
+
+Tala frowned. “So, I’m naked, likely for nothing… Lovely.”
+
+Phoen opened her mouth to comment, but Tala held up a hand.
+
+“Please… I know I’m asking for it, but please don’t.”
+
+Phoen patted her on the shoulder. “I’ll get you some clothes, dear. I have a friend who’s an inscriber, and she should be able to verify your spell-lines. Then, you can make your own choice.”
+
+“Thank you… for everything.”
+
+*         *          *
+
+Half an hour later, Tala was dressed in surprisingly soft, simple clothes and heading out of the great doors, several floors below the teleportation receiving areas.
+
+She wore no shoes for two reasons. First, shoes were expensive and should be custom-made to be more help than harm. Second, some Mages preferred going barefoot, and in this, Tala’s oddities were no exception.
+
+Phoen’s inscriber had verified that Tala’s keystone spell-lines were intact and functional. Blessedly, the trickiest portion of her inscriptions had been maintained.
+
+While most spell-lines were scripted thin to avoid interference, the keystone was always made as robust as possible. As a result, the keystone only had to be refreshed every year or so, with normal casting. Heavy casters still only had to have that work redone every six months, at the most often.
+
+In contrast, the ancillary spell-lines could be used up in days—faster with heavy casting. Even standard amounts of magical work forced many inscriptions to be refreshed every couple of weeks.
+
+As a result, the work and materials required for the keystone were tremendous. In general, Mages spent as much on the once- or twice-a-year keystone work as on all the ancillary inscriptions for the rest of the year combined. In many cases, the keystone work could cost as much as two years of ancillary lines.
+
+Ahh, math. How I hate how much I need thee.
+
+She paused before exiting the tower fully, taking a moment to admire the craftsmanship of the arch and doors that stood open, allowing entrance into the teleportation tower. Magic rarely makes beauty. And the beauty of this work spoke of human labor.
+
+Tala shook her head. I can’t imagine striving to add embellishments to buildings that won’t last even four centuries. Even so, she enjoyed them. She idly wondered how many passersby had already gained a measure of pleasure from the elaborations. Maybe, that’s enough.
+
+Turning her gaze outward, she looked out on Bandfast for the first time.
+
+The sky above the city was the deep blue of a clear autumn day, with a scattering of thin, high clouds. She loved such days, such skies.
+
+Below the clear blue beauty, from this high vantage, she could easily see six layers of the city’s defenses. All but the outermost were still in place, making the burgeoning nature of the city even more apparent. It’s in the farming phase.
+
+Indeed, the city’s outermost active defenses encompassed vast tracts of farmland. Those defensive scripts were enormously taxing and would only last for the first hundred and fifty years of a city’s life. By the growth on the land, the city was close to halfway between leaving the first and entering the third phase.
+
+The only ring beyond the farmland was the mines, but those would have been abandoned in this second phase city, their defenses already depleted.
+
+When the farmland’s defenses faltered, the workers would move inward to the foundries, ore processing plants, and raw-goods refineries of the third ring.
+
+Inside of that were factories, workshops, and artisan shops, which stood ready within the next layer of defenses.
+
+The next layer contained the clerks and organizers of the city.
+
+Inside that, the final layer of defenses held the homes and services like the teleportation tower.
+
+The fifth phase of every city simply allowed for the buttoning up of all loose ends, and the sixth kept those remaining people comfortable as they prepared to leave and then left. She’d heard mention of other tasks and opportunities surrounding the final years of a waning city, but had never delved too deeply. As a new Mage, she knew better than to consider work for the Harvesters Guild, at least for now.
+
+One hundred years of mining, an additional fifty years of farming, fifty more of refining, fifty of manufacturing, then twenty-five years each of closing down and departing.
+
+Three hundred years: the lifespan of a city, with only the last twenty-five years of waning to lament the end.
+
+All of this to keep humanity safe.
+
+As if on cue, she felt a thrum of power and saw a lance of lightning strike from one of the outermost towers into the sky. The piercing scream of an eagle split the air, despite the great distance, and she was able to see the great beast spiraling downward to crash into some poor farmer’s field. Not too poor. That large corpse would bring substantial payment to the one who had lucked into receiving it. Assuming it didn’t drop on their heads.
+
+She sighed, contemplating the slain creature. I have not missed that. The academy, for some inexplicable reason, did not have to deal with arcanous or magical beasts. Yet more unknowns.
+
+Tala shook her head, coming back from her reverie. This city still has at least a hundred and fifty years. Probably closer to two hundred, if she had to guess. She would be long dead before it was fully abandoned. Unless I go back to the academy…
+
+For reasons that no one had been able to explain to her, the longer someone stayed at the academy, the slower they aged, but also the weaker their abilities with magic became. Finally, after endless pestering, Tala had determined that even the faculty had no idea why it worked as it did.
+
+She smiled to herself, realizing that she’d fallen back into musings. To the Caravanner’s main office. That would be in the ring one out from where she stood, with the other bureaucratic and guild offices.
+
+The inscribers would be here, in the innermost ring, and she itched to have her spell-lines refreshed, but she lacked the funds to pay for such services. Like most students, she left the academy not with accounts bursting, but indebted to the institution for her training. She, herself, had… other debts, as well.
+
+I’m delaying again.
+
+With no further introspections, she strode through the archway and down the front steps, allowing herself to enjoy the artistry of the carvings as she passed.
+
+The streets were busy but nowhere near capacity. After all, this section contained the housing for nearly the city’s entire population—as well as several of the smaller market areas—and had been built accordingly. The majority of the population would be about their work—mostly farming, given the city’s phase.
+
+Even so, the streets were far from empty.
+
+Several large arcanous animals trudged through the streets, led by handlers. There were oxen, whose shoulders stood twice her height; horses, both massive and diminutive, pulling loads that seemed comically overlarge for them; and even several clearly arcanous pets padding alongside their owners. In every case, a simple scripted collar enclosed the arcanous animal’s neck, denoting them as tamed or domesticated, exempting them from the city’s defensive magics.
+
+Thankfully, Mages didn’t need to wear any such thing, as human magic seemed to function differently enough that wards could differentiate.
+
+As her eyes scanned those she passed, she was able to pick out the occasional Mage by their bearing and fluid manner of movement, not to mention the spell-lines evident across their exposed skin. Most also wore Mage’s robes, but not all.
+
+To her surprise, she also saw an arcane, a humanoid arcanous creature.
+
+What had caught her attention at first was the leather collar he wore, though it was tucked low, almost entirely hidden by his shirt’s collar. As she’d looked closer, ensuring that her eyes hadn’t deceived her and that it wasn’t just an odd fashion choice, he’d turned to regard her. She hadn’t noticed his gaze until after she’d seen the metallic spell-lines on the leather collar.
+
+When she had felt his gaze, her eyes flicked up, meeting his, and she felt frozen to the spot.
+
+His eyes were blood.
+
+No comparison held the weight of truth save to say that his eyes were spheres of fresh, liquid blood, unbroken save for small circular scabs in place of pupils.
+
+Tala swallowed involuntarily. He’s looking at me. She tried to smile politely and turn away, but she found she couldn’t force herself to turn.
+
+Around his eyes, true-black, smooth skin forced the orbs into starker contrast, making their deep shades seem almost to glow. Subtle hints of grey lines ran under that skin in patterns very like spell-lines but somehow utterly different. Like seeing her own language written with the phonetic alphabet. The concepts seemed familiar while remaining utterly opaque to her interpretation.
+
+She tried to turn away, again, and actually felt resistance like she was fighting herself. A tingle of her own power, emanating from her keystone, proceeded the answer: Allure. He’s somehow manipulating the conceptual nature of reality, forcing my attention to remain locked on him.
+
+As an Immaterial Mage, she could work with non-substance aspects of the world, such as gravity, dimensionality, and molecular cohesion, but warping the magnitude of concepts? That… that had disturbing implications.
+
+As if in response to her thoughts, a different set of lines seemed to flicker into prominence around those wounding eyes, and she found herself turning away in confusion. What is wrong with me? I stare at something I’ve never seen before and suddenly insist that it must be magic.
+
+She shook her head at her own foolishness. Then, another prickle rippled out from her keystone, a subtle warning, and she froze. Conceptual manipulation… would the concept of believability count? She spun, her eyes ripping across the crowds, trying desperately to find the arcane once more. She had the flickering impression of an amused smile but nothing more.
+
+After another few moments of frenzied searching, she was left with a subtle, low-level itch from her keystone and the growing concern that she’d somehow imagined the brief encounter. I… I need to get to the Caravanner’s Guild.
+
+Why had she allowed herself to get lost in her own musings once more?
+
+Tala huffed. I’m never going to get anywhere if I don’t get going.
+
+Without a backward glance, she passed through tremendous gates, the southernmost of eight sets, to breach the gargantuan innermost walls.
+
+Those walls were also carved with beautiful, intriguing reliefs, showing the Builder’s attention to detail. When building a cage, make it a pretty one.
+
+She sighed, pushing those thoughts away, along with her others. A cage with doors flung wide hardly counts. At least, that was what she wanted herself to believe; what she needed to believe if she were going to maintain her own sanity. Human cities are to keep violence out, not humans in. She did not contemplate that the results were virtually indistinguishable.
+
+She strode purposely onward, now, and though she had to ask for directions twice, it took her less than an hour to find the building that she sought. When she did, she hesitated, standing across the street and observing the flow of traffic in and out of the building, itself.
+
+This is it, Tala. You need to decide. Will you take the easy way? Or risk it all? She laughed. It was hardly a risk. Even if no one would hire her, the academy wanted her to pay them back, plus she had her parents’ debts, which had led to her sale into the academy’s tutelage. No, they wouldn’t let her stay unemployed, though who knew what pittance they’d give her if they were forced to find employment on her behalf…
+
+Not helping, Tala.
+
+She took a deep breath and let it out slowly. Now or never.
+
+Without further delay, she strode through the wide, double doors.

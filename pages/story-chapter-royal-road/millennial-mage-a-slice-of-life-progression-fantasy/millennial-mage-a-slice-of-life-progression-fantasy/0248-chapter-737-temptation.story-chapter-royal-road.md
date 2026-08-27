@@ -1,0 +1,281 @@
+---
+id: 7a1d6404-d8fe-5d85-8731-61d4eb08daf7
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 737 - Temptation"
+slug: 0248-chapter-737-temptation
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 248
+ownLength: 2575
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3803811/chapter-737-temptation"
+royalRoadId: "3803811"
+---
+
+Tala felt her perception flowing over and around the gate she held in her hand.
+
+In the distance, the automata of the Black Legion were fleeing, but they didn’t matter.
+
+She had her target.
+
+She had that which needed to end.
+
+That was the only thing of import before her.
+
+A creature of terror and predation thrummed at her through the connection it had with her soul. Its nature as an ender of many spoke to her current frame of mind and drew her back just slightly from her teetering decision. Its susurration not a condemnation or an attempt to stop her, but instead, a reframing of the hunt and the need of worthy prey.
+
+As soon as she’d expanded her focus that slight bit, she felt another, deeper connection with her soul resonating with a furious desire to kill, maim, and destroy… but this one was restrained, in control, the desire harnessed and used as a source of power for the soul it burned within. It’s fervor gave it power and control rather than taking it away.
+
+It was funny, enshrouded in the existence working, she was disconnected from almost everything that could affect her, but at the same time, the blade she wielded had a passionate need to connect with the rest of Zeme… violently… in order to rend it apart.
+
+In contrast, it was her husband’s rampaging emotions, harnessed, guided, and commanded by a steady, powerful hand were the shield and protection for the man.
+
+Could she combine her workings into one and follow Rane’s lead toward greater mastery and power?
+
+Before she could think too deeply on that, the soul in her off-hand grip squirmed, pulling her focus.
+
+She… she shouldn’t be able to actually interact with this in any sort of physical manner, yet she could feel the metaphysical thing in her grip.
+
+It felt like nothing so much as a large ring, more the size of a baby’s bracelet if she were being honest.
+
+Across the inside was a membrane of sorts that flexed slightly when she tested it, even her ending blade not wanting her to pierce that inviolable boundary.
+
+The circumference itself felt hard, unyielding, like there was nothing she could ever do to damage it… But at the same time, she could feel the cracks through it,
+
+The sensation within her hand changed, and suddenly, she would swear that she held half of a sphere, the ‘flat’ portion that had been near the middle was jagged and torn, something about it pulling toward its other half, creating a bridge to—
+
+Then it was a squishy sphere, struggling and squirming to get free.
+
+Fascinating…
+
+* * *
+
+Rane screamed across the deserting battlefield.
+
+He ignored the retreating legion and moved.
+
+Alat had Ironhold on the far side of the city at the moment, or he’d simply have willed himself through that medium to cross the distance, but he couldn’t wait for the next circuit.
+
+His wife needed him, and if he was even half-way correct, they all needed her to—
+
+Thoughts stuttered as he saw her then, with his own eyes.
+
+It was a haunting, disquieting, chilling scene.
+
+To his mundane eyes, the left arm of her armor hung down, the twisted gauntlet wrapped and molded entirely around the neck of a clearly broken automata.
+
+Her left arm wasn’t in that torn armor… torn from the inside.
+
+Instead, the limb was slightly flexed, her cupped hand hovering above the shattered remains of the head, seemingly holding… nothing.
+
+The remainder of her armor was battered and marred, but still mostly intact… all save her left side, where a line had been cut out of it, now overgrown with some sort of crystal, multi-colored and slowly growing.
+
+As he looked closer, he found that crystal—so thin as to be all but trasparent—skinning all of her that he could see.
+
+Her blank faceplate was turned toward her empty hand in clear fascination.
+
+But that was only what his mundane eyes saw.
+
+His magesight? To that sense, he saw the unbound soul held firm by fingers that shouldn’t have been able to interact with it directly at all.
+
+He saw something drinking in the magic pouring off his wife and the soul she held.
+
+The very zeme around her and in the path she’d obviously fought through was utterly nonexistent, the area almost as devoid of magic as entirely as the escarpment had been.
+
+Moreover, he could feel magic being drawn inward toward the zone of negation.
+
+It was… Rane didn’t know how to interpret it.
+
+After having it pointed out to him by his wife before this battle, he could now at least somewhat detect the reality splinters within his flesh.
+
+What lay before him?
+
+It was the equivalent of a miasm of splinters… and if anything, it was slowly growing outward.
+
+“Tala!” He called, jerking himself to a halt some hundred yards from her, as close as he could get without impaling himself in the slurry.
+
+This was not like the area around the escarpment in at least one key way: He could still see magic through it. If he couldn’t, he’d not have been able to see the soul she held, nor would he have been able to feel his own connection to her soul.
+
+Still, if anything, Rane felt like this might be more dangerous than that had been.
+
+With the automata retreating, the defenders were pulling back toward the wall, the defensive gorge filling in and disgorging the remnants of the automata that had been ground down within it.
+
+He smiled at the funny symmetry of words, then froze in horror.
+
+A Mage had come off the walls nearby and unknowingly walked into the edge of Tala’s trail of… whatever this was.
+
+The Mage had frozen in place, seemingly entirely locked down.
+
+Rane cursed. “Stay back!” His shout garnered a lot of attention from those nearby. “This whole area is filled with splinters.” He pointed to the trapped Mage. “Don’t approach her or anywhere around her. We’ll help when we can, if we can, but something is very wrong.”
+
+He saw Mistress Holly of all people coming his way from the wall, though he hadn’t seen her come over it.
+
+Her focus was on the area that he’d indicated, and her voice carried. “What is it, Master Rane?”
+
+“I can’t tell exactly, but it is very like the reality splinters infecting most of the defenders.”
+
+She grunted, then after a moment she nodded. “I’ve communicated with the city. A potential solution is on the way.”
+
+Rane shifted from foot to foot where he stood in the air, still so far from his wife, where she was far more statue-like than he was at the moment.
+
+“Hold on, Tala. We’re coming.”
+
+* * *
+
+Tala didn’t know how long she stood there, her mind unable to decide what she wanted to do with the riven soul in her grasp.
+
+Even so, the Leshkin spirits suspended in Flow’s void had started to feel… not rancid, but they were definitely taking on an odd sense to them, struggling and pulling to get free.
+
+She got the feeling that if she continued to add more, they’d build on one another in a cumulative way, keeping one another stable and viable, but letting them languish, especially when she only had eight?
+
+She needed to do something with them or let them go.
+
+She growled at that, even the small motion involved in that noise sent out radiant bursts of coruscating reality.
+
+Still, she knew she couldn’t hold onto them, and she couldn’t end those while holding the soul…
+
+That decided it.
+
+She released the gate, allowing it to fold in on itself and flee on to the next world, practically ejected from reality by what surrounded her.
+
+Her now free hand reached over to Flow—through continued crackling puffs—allowing her to physically pull out something she, once again, shouldn’t have been able to touch.
+
+A minute motion tore the spirit asunder on the ending blade, and she grabbed another.
+
+And another.
+
+And another.
+
+Until all eight were ended, and she felt a sense of contentment.
+
+She could end her workings and return to—
+
+-NO!- Alat lambasted her mind, overriding her mid-action.
+
+Wha-? Tala was reeling, mentally.
+
+-If you drop your existence shield, I’m pretty sure you’ll die and likely instantly.-
+
+Tala frowned, feeling the odd crackle-pop that motion caused as her flexing skin and muscle pushed crystalized reality out of the way, even within her helmet.
+
+That… didn’t seem right.
+
+Alat? What… What’s going on? She didn’t like the odd feel of her thoughts. She didn’t like feeling like she was trapped and being denied the open door before her.
+
+-You’ve been absolutely coated and permeated with something akin to a reality crystal that easily splinters. It appears to be something like whatever the source of the other reality splinters is. In this case, however, it seems far more pernicious, even alive as it continues to grow.-
+
+That… wasn’t great. Right?
+
+Tala felt like it wasn’t good, but she couldn’t really bring herself to care about what would happen after she ended the workings.
+
+Are you sure? I… I don’t like this very much.
+
+-I’m sure enough. Just wait. We’ve spread the stuff across our path, and if we move, we’ll spread more. The source seems to be with us, and once it separates it doesn’t grow, or at least it grows far more slowly.-
+
+Tala did not like that, not one bit.
+
+She growled, remembering the automaton that she’d most recently ended, and felt a growing desire to somehow end it again.
+
+She knew that was foolishness, though. When she ended something, it was ended. There was no bringing it back, and if she could, it wouldn’t be an end.
+
+She shook herself, the pleasant buzzing crackle across most of her being bringing a moment of clarity back to her.
+
+What should I do?
+
+-I’ll let you know when I’m told. For now? Focus on your soulbounds, lean on them, and have patience.-
+
+I’ll… I’ll try.
+
+Tala spread out her perception, grimacing at the odd distortions caused by whatever she was mired in.
+
+Thankfully, as her perception had long since moved to originating from essentially everywhere within her aura, she had plenty of varied views that her mind was able to interlace and use to create a coherent whole.
+
+A side effect of this was that her mind quite effectively mapped out where this particular distortion existed, and in what concentrations.
+
+She felt Alat grab the information and send it out to those nearby, and Tala felt like she should have thought of that, but honestly? She didn’t care.
+
+She was irritated that she wasn’t supposed to move, and even more irritated that she couldn’t end the effect that was making her irritated at being unable to move.
+
+It was like knowing that a piece of clothing was the cause of horrendous itching that she couldn’t scratch, but then being forced to leave the clothing on… for some reason.
+
+Madness.
+
+Her right hand twitched, the motion enough to flick Flow through a swath of the crystalized reality, momentarily wiping away the substance only for it to almost immediately grow back in from every side.
+
+She could just flicker out, beyond the distortions, but Alat immediately quelled that desire, stating categorically that such would simply spread the contaminate.
+
+Tala felt like if she could flicker it couldn’t be that bad, but Alat once again sensed the direction of her thoughts and headed them off.
+
+-Very few splinters are within your being, Tala. Your existence defense is locking new ones out, but they are woven entirely around you, and at least some would come with you when you moved.-
+
+She growled, the vibrations of her voice sending out crackling, fractures radiating outward from her.
+
+Dissuaded, she grumpily sent, I could just build a body out there, and move to it.
+
+That caught Alat off guard. -Really? You could do that? Wouldn’t that… Ascend us?-
+
+It would… Tala growled quieter this time, taking some comfort in the buzzing spark within her mouth and throat. But no. I don’t think I can.
+
+Alat sighed.
+
+It was madness.
+
+She could feel how the stuff was only pushing against that which was magical, the little bits of her that were all but unaffected by power—few though they may be—seemed proportionally unbothered.
+
+So, this was another anti-magical attempt.
+
+She hated it.
+
+Tala momentarily regretted releasing the soul, as at least if she’d still been holding it she could have had something to focus on aside from herself.
+
+Her whole body was shot through with the stuff, and everywhere she tried to look, she found it, pressing into the gaps—the voids—between distinct parts of her.
+
+She should have been immune given that she was Reforged, and had rather extreme command of and authority over herself, but even with her unified, perfected self, she wasn’t a monolith, and it was those logical distinctions that the living crystal seemed to be using as fault-lines to grow through.
+
+Honestly, it tickled.
+
+As time passed, people were coming from the city carrying massive barrels, making it clear that they were enhanced.
+
+Even so, their feet sunk into patches of softer soil, showing just how heavy the barrels were.
+
+What are those?
+
+She got her answer as soon as the first one came into her more focused aura.
+
+Iron.
+
+The barrels were filled with iron scrap, with the gaps filled in by iron dust.
+
+The result was nearly solid volumes of the stuff.
+
+What madness is this? Iron won’t… Then she saw Mistress Holly, and remembered the conversations she’d had with the woman.
+
+She vocalized her realization, knowing the Inscriptionist would hear her even over the crackling reality crystal. “You want me force the reality into the iron and make reality iron…”
+
+Mistress Holly turned toward her, looking at her back. Her response was just as quiet. “Yes.”
+
+Tala shook her head with crackling pops in reality around her. “This is too much. It would unbalance me.”
+
+Mistress Holly shrugged, giving the smallest of smiles. “Only if you claimed it.”
+
+That… that might be true.
+
+The woman’s next words demonstrated that she understood the situation far better than Tala had assumed. “After all, this will let you end this growing issue, will it not?”
+
+Flow hummed in Tala’s grip, the dissolution and cohesion magics all but begging to be put to use once more.
+
+That—Tala considered—just might work.
+
+With the lightest of touches, she extended her authority over the offered iron, trying to hold in her mind that this iron was like the forces who followed her, a temporary tool that she commanded but which wasn’t her.
+
+Mine, not me.
+
+The dasganach that she had once been would have been unable to comprehend such a distinction, but she was more than the parts that had come from that existence.
+
+To end through unification.
+
+It was still a part of the ending blade’s power, just not the part she felt the most pull to use. Still, it reminded her of alchemy. It was often quite correct to say that the ingredients were dissolved, or that they otherwise had their individual existences ended through the combination.
+
+Yes. Yes, I can do this.
+
+She’d have to. Because even within an existence-fueled fugue state, she was beginning to understand just what a disaster this reality crystal could become.

@@ -1,0 +1,145 @@
+---
+id: 04de410f-b871-5046-b4c1-26b1237c5486
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 – Interlude – Diana"
+slug: 0052-chapter-52-interlude-diana
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 52
+ownLength: 1894
+unit: words
+publishedAt: 2025-01-28
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2035186/chapter-52-interlude-diana"
+royalRoadId: "2035186"
+---
+
+Water dripped from a stone ceiling, falling and splattering into a red, bloody puddle. The smell of stone, metal, blood, and pain filled the cell. Diana breathed it in, enjoying the feel and taste of it.
+
+Turning, a strand of white hair fell into her view, and she studied the man before her. Shackled to the wall, blood oozed from cuts on his muscled arms. Runes on the wall and in the shackles glowed softly, and footsteps pulled her attention.
+
+What now?  A flash of anger passed over Diana, and she spun, glowering at the humanoid shape of mana. It moved down the steps and walked forward.
+
+Elana stepped into view, walking to the cell and looking at the damp, bloody floor. “Gross.” She huffed and crossed her arms, further pushing up two large breasts that poked out of her red dress.
+
+“What is it, Elana?” Diana spun back toward the man and pulled out a small comb. She ran it through the hair, examining the errant white strands that had joined the black.  Progress.
+
+“The council sent a missive. They are having a meeting today.” Elana sniffed. “Waste of blood.” She gestured at the floor and the man.
+
+Diana sighed. “You know that it is not. Now, I need quiet.” She turned her gaze back toward the man, pulling up a glowing knife and driving it into his skin. Moving precisely, she drew elaborate runes with the blade, his blood acting as the ink.
+
+Finishing a chain, she paused. The bloody flesh glowed and then went dark, the magic fading away like the blood. The flesh stitched together.
+
+Moving down, she repeated it, slowly carving another. The knife traced and cut skin like a pen of magic. With each marking, the man’s appearance shifted. His nose softened. His fangs grew, and Diana plucked a vial of glowing red liquid from her belt.
+
+Elana gasped. “With all due respect, I think that—”
+
+“Enough, Diana. Stop thinking short term. It’s unbecoming of an immortal, even if you are young.” Dipping the blade into the blood, she resumed her work, carving another set of runes into his flesh. “You will need to master this, Elana.”
+
+With that said, she flourished the blade and waited. The runes faded. The man’s face and eyes glowed with a soft blue light. Any trace of brown slowly faded away, and the man screamed. He thrashed against the manacles, and Diana sighed.
+
+“Is he breaking?” Elana asked, stepping around the bloody puddle and walking up to him.
+
+Diana frowned.  That would be a loss.  She watched. His body dug into the chains, blood oozed from his nose, and he mumbled something.
+
+“It’s so tedious,” Elana said, scowling at him.
+
+“But it is worth it.” Diana waited and watched, her concerned eyes scanning his body.  Will he survive?
+
+Quiet settled on the cell. Another drop of water fell from the ceiling, splashing in the red puddle. The stone walls stood silently, quiet sentinels to the ancient structure. The two women waited, and the man went still.
+
+Diana reached forward and placed her fingers against his neck, searching for a heartbeat. She felt it thundering through him like a drum. Waiting, she frowned and looked at the walls.  Another meeting. Why is he calling it?  She mused on it and the progress throughout the realms.  The elementals have been quiet, as have the demons. It’s a shame I don’t have time to visit.
+
+She looked down at her body and sighed .  Soft wrinkles were on her hands. Scars lined her hands and arms. She sighed and looked at the man. His pulse returned to normal.
+
+She removed her hand and brought the knife forward, dipping it into a vial of blood before resuming her work on his arms.
+
+Blood dripped. Magic hung in the air. With each cut, she fed mana inside and watched. Hairs on his head grayed, and he thrashed against the manacles, forcing her to pause.
+
+Elana leaned forward and sniffed. “Are you certain this is worth it?”
+
+“Yes.” Diana turned and looked at her. The doubt remained on her face, doubt that shouldn’t have been there. “What’s on your mind, Elana?”
+
+“I have heard things. How can you be certain that others on the council won’t betray you?”
+
+Diana laughed and shook her head. “No. The necromancer wars ended long ago. It was… pointless. We lost much and accomplished little. Never again.” She studied the woman. “You are young. So very young. You’ll understand in time, and you’ll learn how futile your bursts of emotion are. They are not but fleeting fancies in the massive passage of time.”
+
+“What of the rumors from the dwarven world?” Elana asked, stepping forward and holding out her hand.
+
+“The rebels don’t matter. They are weak.” Diana paused and considered it. “Very well.” She handed the knife to her. “You know the place and have the mana?”
+
+“Yes. Is there a way to get a skill for this?”
+
+Diana shook her head, anger flashing through her. “That rotten system. We will find out who did it, but that’s a problem for another day. The ancient ways still work, even if they are more difficult.” She traced a rune on his arm with her fingernail, dragging it along his skin. “Go.”
+
+Elana stepped forward, dipped the knife in the blood, and cut into his flesh. The blade glowed. The blood sizzled, and the man screamed. It ripped through the room, bouncing off the stone walls, floor, and ceiling. Ignoring it entirely, she continued to slice into his flesh.
+
+Blood dripped. The magic built with each cut, and he thrashed against the manacles.
+
+Elana’s demeanor went cold. She gritted her teeth, and the knife slipped.
+
+Diana gasped as the jagged, broken rune surged. She grabbed the knife and sliced quickly, finishing the rune and waiting. The magic surged around her. The man slammed against his chains. “Elana, I taught you better than that,” she hissed.
+
+“He was fighting me somehow.”
+
+“Of course. I told you he would. They always do even without realizing.” Diana leaned back and frowned.  He won’t survive.
+
+The man’s face contorted. He continued screaming, and blood oozed from his mouth and nose, dripping down his face. Another stream rolled down from his eye.
+
+“Is that what happened? Did she fight? Did she—”
+
+“Elana,” Diana hissed. “I will not discuss that. Now, you should practice your control. Try again.” She handed the knife back and nodded.  He’ll die. She may as well get use from this.  “No blood.”
+
+Elana blanched. “That bad?”
+
+“Yes. Look at him.” Diana gestured to the man. His face was contorted, and large teeth grew out of his bloody mouth. “He won’t last another hour.”
+
+“Can’t we fix it?” Elana reached forward. “I could try it again.”
+
+“No. This is not some cheap enchantment sold on some black market. Nor is it an artifact from a great artificer. This magic is far more.” Diana’s eyes blazed a vibrant blue. The magic in the room rippled around her, washing in and out of the man. His glowing ball of mana inside crashed through him like a lightning storm. With each strike, things altered. Hair grew. Muscles expanded, and his bones cracked.
+
+“The perfect body is not born. It is made, and that requires the precision of the divine.” Diana ran her fingers across his face. “Alas, he will never know what it is like to taste the blood or walk our path.”
+
+“Divine?” Elana asked, reaching forward and carving a rune into his flesh.
+
+“Oh, make no mistake. There is a divine realm, and we will find it.” Diana smiled and watched hairs burst from the man’s face. “And when we do, we shall ascend higher than ever.”
+
+Diana spun and walked away. “Practice. Kill him when you are finished or when he causes trouble.” Her shoes clicked on the stone floor, and she spun and walked up the hallway, passing through an open gate and heading up the steps.  Shame that we lost him. Finding a new replacement will be annoying.
+
+She walked up the spiral of stairs, stopping at the door at the top. Reaching forward, she placed a key into the door and swung it open, revealing a stone room filled with undead. They lined the walls and ceiling, guards against the secrets kept below.
+
+Walking toward the wall, she stopped at a stone and slid it out, revealing a small gap in the stones. Corking the vial of blood, she placed it inside and fed mana into the glass bottle. Runes glowed, and she examined the blood.  I’ll need more for the next one.  She groaned and slid the stone back into place.
+
+Turning, she walked to the door and opened it, revealing a carpeted hallway. Torches flickered in braziers, and undead soldiers lined the hallway like statues, their armor polished and clean. A maid scurried by, curtsying, before moving toward the kitchen.
+
+Diana studied the mana inside of her.  She can’t be more than level sixty, a shame.  She sighed, turned, and walked down the halls, her heels clicking on the wood.
+
+Entering a room, she walked to a desk and picked up a piece of parchment.
+
+Lady Diana,
+
+The council will be convening today at noon. All are to attend. There is news, and we must act quickly.
+
+By way of information, we will be pushing against the elemental world once more. It is regrettable, but several elemental lords have aligned, and some have aligned with other enemies. That must be stopped. Prepare yourself, your house, and your troops.
+
+Eternally,
+
+~Justin
+
+Diana sighed and tossed the letter on her desk.  Why are we going back to that hellscape? It’s such a waste of time and energy.  She frowned, her thoughts turning to her supplies. Those were in order. However, there was a small complication.  I’ll need to harvest the dwarven world and pick up Kindra.  She drummed her fingers on the polished wood desk.  Will she accept, or will she cause me trouble?
+
+Walking out of the room, she proceeded down the hallway and out of a large set of double doors, swinging them open to reveal a courtyard with undead. Rose bushes filled the courtyard, a seeming contradiction between life and the dead next to them.
+
+Walking down the steps, she followed a stone path through the courtyard before turning toward a large building next to a wall. Smoke drifted from its chimneys. Undead stood outside, and she threw the wooden door open, revealing a large workshop with a dozen humanoids. The dwarves, humans, and elves looked up. They rapidly bowed, and she ignored them, studying the strange objects around them. Shimmering metal, smooth white plastic, and a few circuit boards were on the benches.
+
+“How is progress?” Diana asked.
+
+A dwarf swallowed and stood. He kept his gaze on the floor. “The white substance is strange. We don’t know its exact makeup.”
+
+“And that strange, green thing?”
+
+“It’s some strange mix of metals. We are working on it,” the dwarf replied.
+
+Diana snarled.  Nothing. It’s been centuries!  She stared at the dwarf. “I need results. Now,” she hissed.
+
+“Of course, my lady. We will solve it.”
+
+“See that you do, or end up like the others.” Spinning, she walked out and slammed the door.  Incompetent louts. Maybe Kindra will remember.

@@ -1,0 +1,233 @@
+---
+id: b6b495dc-d03e-59dc-ba5a-d3ae2e390057
+page-type-slug: story-chapter-royal-road
+title: "CHAPTER 54 - Liability"
+slug: 0095-chapter-54-liability
+partOf: metaworld-hopecore
+position: 95
+ownLength: 2930
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3480795/chapter-54-liability"
+royalRoadId: "3480795"
+---
+
+"I am not afraid of storms, for I am learning how to sail my ship."
+
+Louisa May AlcottLittle Women
+
+The greenhouse was spacious and warm and smelled of potting soil and tropical plants. Like a docent, George led the girls toward a set of divans once belonging to a Regency drawing room.
+
+The green room was warm and humid, very much unlike the wintry corridor. George produced two cashmere blankets from a nook, retrieved a first-aid kit from the wall, and then pulled over a potting desk to lay out the contents. His old hands moved meticulously, signalling to Eppie that the man's early life was probably not spent as a housekeeper. He worked on Eppie's hands first. The terracotta had left three deep abrasions across her right palm and two shallower ones on her left. Her wounds looked worse than they were, because Eppie could have pumped her [Stamina], [Health] or [Vitality]. Of the three, it was [Health] she had yet to intervene with [Causality], because such a thing was probably best investigated in private, lest she be politely asked to attend to a research lab.
+
+She took the bandages like a champ thanks to her [Pain Suppression], a [Trait] that was either from her orphanage or from her time with William. The graze on her thigh he attended to with the same professionalism, peeling her dress back with a discretion that granted her considerable dignity.
+
+Across from Eppie, on another divan, Valorie Sanders sat watching her.
+
+For once, Val was not pissed, upset, or fighting the desire to Mike Tyson Eppie's ear. She looked subdued, like she had run out of the fire that made her so Valorie. She pulled the blanket around her shoulders so that it covered her chest. Her hands were in her lap. George had left her a packet of baby wipes and some disinfectant to clean herself. She had done so, discovering in the process that her wounds were superficial and that the blood was almost entirely Eppie's.
+
+Eppie’s arm gash took three wound patches. The cut on her face was thankfully shallow, and the bleeding had already stopped. Babywipe after babywipe of bloody material fell into the bin beside George. Eppie studied her foe without staring into her eyes, in case she reignited something in Valorie. In all honesty, she had expected Val to cry. Instead, for some irrational reason, Val had kissed her.
+
+Was it a Pavlovian thing? Had William conditioned her to do this? Would Val just kiss whoever came to save her like a Princess waiting for a knight, hoping against hope that the recipient was a protector and not an abuser?
+
+In her piled-up hair, red dress, and blanket, Valorie did look like a Princess, even if that Princess was from the Golden Age of Disney Animation.
+
+A part of Eppie still couldn't believe she had rescued Valorie. There was a part of her, roughly one-fifth of herself, that had voted for satisfaction. Even now, she couldn't shake the feeling, because, in the course of justice without the courts, what should have happened was as close to karmic justice as possible.
+
+As for Vaughan’s patronage… She had thrown it with the pot, because she wanted to do the right thing.
+
+She wanted to be Brutus.
+
+Her tally after saving Val with forty-five-kilos of [Noblesse Oblige] was roughly negative five thousand [Causality], one Givenchy, and one mentor who could have given her the keys to this world's high society. Oh yeah, the Chanel shoes were ruined as well.
+
+Touched by her wincing, George offered her painkillers and a glass of water from the carafe on the desk. She swallowed both, then fought through the stinging on her arms by focusing on Val’s visage. Was it strange that Val, a girl lauded as best in show at the second-most-prestigious performing arts high school in the US, should be like this? So… passive? So yielding? So mentally pliant?
+
+Was it only on stage that Valorie Sanders was alive?
+
+Her train of stray thought arrived at a country station she hadn't considered before. Simone. Eppie. Mio. William had gorged on their [Causality].
+
+She had opened Pandora’s Box. But she also paid. Just how much life did the [Usurper of Hope] manage to harvest from Val?
+
+Eppie wished she had a [Karmatron Scanner] or something, just to see how much [Causality] Valorie had left in her tank. Whether the girl was replenishing her [Dasein] through performances like herself, or if she was surviving on fumes.
+
+In the west corridor, Mirabelle walked with Aziz the way she walked in her office, slightly ahead of the room's general momentum.
+
+Aziz kept pace, his camera rig now capped, his demeanour wholly professional.
+
+A minute later, her mentor joined them.
+
+"The photos?" Vaughan said.
+
+Aziz reached into the full-frame body without breaking stride and produced a second CompactFlash from the main slot. Earlier, he had given them the spare. It was a professional habit from his conflict work.
+
+He placed it in Vaughan's open palm without a word. Vaughan walked with purpose toward the main gallery.
+
+"Madam," Aziz came closer to the revered Madam of the Met. "Earlier, your… niece? She threw the pot clean across the balconies. She lifted it from the plinth and released it on Mr Grein." He paused, his voice measured, his retelling factual. "It was an extraordinary feat of strength. I think I would have struggled."
+
+Mirabelle whistled. "That’s quite the claim. Did you capture it?"
+
+"I did," Aziz gave her a strange look. "I took it on reflex, no setting adjustments. Yet, the image was… sharp? Aesthetic? There was even chiaroscuro lighting… it was… accidental Renaissance.”
+
+“How about the…” Mirabelle wiggled her brows.
+
+Aziz’s expression grew professional. “The image in focus and the lighting were phenomenal.”
+
+Mirabelle felt her professional curiosity peak. "Julia, could I have a copy, for editorial purposes? I feel inspired by this aesthetic. I am going to do a Special Brief. We’re going to smash some pots."
+
+"Noted," Vaughan said, still holding the memory card.
+
+Her mentor kept walking.
+
+In the galleria, the Grein Incident had already begun its retreat from the evening's official memory. Such was the nature of rooms like this one. The attendees had a collective metabolism that processed disruption quickly and expelled it quietly, because the alternative was to acknowledge that Juliana Vaughan was not a perfect host. No one wanted to be the first to say it.
+
+Besides, Grein had a reputation. If the man were struck by lightning on a clear day, they would say, “I am not sure what else I expected.”
+
+Vaughan found her man near the Icarus painting. The woman called Marie, a B-list soap star, stood at his elbow, her dress had been wiped clean, her mental vacancy reinstated.
+
+"Mr Grein." Vaughan extended her hand. "I am sorry for whatever that was. Are you all right?"
+
+"Right as rain," Grein said. The man's handshake was slimy. "These things happen. Old houses, old pots." He chuckled with true professionalism. "Please don't concern yourself, Juliana. I'll be fine."
+
+"I am glad to hear it. I will, of course, look into what occurred."
+
+"I am sure you will," Grein motioned for his partner. "Perhaps I can help."
+
+Marie took a shoe out of her Gucci handbag.
+
+It was a Chanel. Four-inch heel, ivory, the kind of shoe that costs more per inch than most of Denise’s weekly groceries. It had been snapped cleanly at the ankle strap. It was covered in soil and what looked like old rainwater.
+
+Grein turned it over in his hands with the satisfied expression of an animal abuser who had found his next kitten.
+
+"Found it on a balcony," he grinned wolfishly. "Next to an empty plinth."
+
+Vaughan scoffed. "Cinderella," she said pleasantly. "How charming." She tilted her head. "Do you intend to have every young woman in your stable try it on? What's the reward? A leading role?"
+
+Grein's smile held. "When I find her," the man said viciously, "she'll have the pleasure of finding out."
+
+Vaughan gave him a hard, long look. She opened her hand. In her palm sat the CompactFlash card.
+
+“Out of charity, I invited an infamous producer into my house,” she said, her voice low and quiet, rising like a storm. “I extended that courtesy with the expectation that it would be reciprocated.”
+
+The room continued its business around them. People were watching. People like Mayor Holt, who was now ready to shake Vaughan's hand and bid her adieu.
+
+Grein's face scrunched together like a pug's.
+
+“Touché.” The producer bowed deeply. He took the shoe and placed it with some ceremony on the canapé desk. He then straightened his soiled jacket. “Merry Christmas, Dame Juliana. If there's anything I can do to help in the future, don't hesitate to ask.”
+
+“Merry Christmas, Mr Grein.”
+
+He turned. Marie moved to follow, then paused. She looked at the singular Chanel shoe with longing, as if pondering some emerging truth. As if that singular shoe was a thought-provoking piece of art.
+
+“Merry Christmas,” Marie said. Her eyes, Vaughan felt, finally had a spark of life.
+
+She was just about to meet Mayor Holt when, from the direction of the Constables, Sir Justin Woodhouse accosted her with the expression of a British gentleman expecting a scalding from his nanny.
+
+“Juliana.” The purveyor of popular music stopped beside her, watching Grein's retreating silhouette. “Valorie. Is she okay?”
+
+“Your young miss is being attended to,” Vaughan felt unexpectedly generous. “George will fetch you when she is ready, Justin. Have a rest. You've had a long night.”
+
+“What will you do with her?” His voice failed to hide his anxiety. Justin Woodhouse had always been a better music producer than he was a talent manager.
+
+“Instruction.” Vaughan surprised herself with her verbosity. Her student's charity, it seemed, was growing on her.
+
+Sir Woodhouse, ever the Oxbridge man, nodded once and went to find a drink.
+
+The greenhouse.
+
+Eppie looked like a burn victim. Large bandage patches covered her cheek, hands, arms and thighs. Earlier, Vaughan’s housekeeper had left them, not entirely, but in a manner that made him unseen.
+
+The greenhouse settled into the particular quiet of a room containing two people who were no longer so sure what they were to each other. The plants judged the silence. The lamp on the potting desk watched them, expecting the drama to erupt at any moment.
+
+Watch her redheaded princess shiver in her cashmere blanket.
+
+Eppie made a decision. "Val."
+
+Valorie looked up.
+
+"For the next few minutes, I am going to tell you a story. After that, we're on the same page, and if you still want to fight me, just think about how heavy that pot was."
+
+Val sat with her hands in her lap, attentive. Eppie felt mildly annoyed by her evocative, tragic aesthetic because she was starting to see where William was getting his appetites.
+
+"Okay, here we go." She took a deep breath. "First. Let's start with Luciana Mio." Eppie took a really deep breath.
+
+Valorie shuddered.
+
+"Mio beat you in the audition. Correct? Just nod." Valorie nodded.
+
+"You told William you were unhappy?"
+
+Valorie nodded.
+
+"You told him to do something about Mio. Apply pressure. Break a leg, maybe. Make her life hell. Stress her enough that she can't practice. She'll drop out of the title role, and it will be yours, since you're the understudy."
+
+Something moved across Val's face. A stone dropped into still water, the ripple spreading before she could stop it.
+
+"Do you know what William did to her? To her family?"
+
+Valorie shook her head, then nodded.
+
+"I think you do know," Eppie said. "How could you not? Well. William Chen cornered Luciana Mio in the B2 change room. Here, let me break it down."
+
+She told her. Her retelling was visceral. It was merciless, inhuman, and delivered in one single breath.
+
+She did not tell it with drama. She did not construct it for impact. She merely told the story as she imagined it from the locker room, listening to those first few seconds of Mio's struggle, her silence, then her endurance. She cross-referenced Lim's retelling, Simone's impression, the recording, and the imprinted physical memory of the event in her [Persona]. She purged it out of her onto Valorie, covering her from her hair to her peep toes. She told Valorie about its violence. Its duration. Its aftermath. The only thing she skipped was Fresno. Of all the sins, that was not Valorie's albatross to bear.
+
+Val's hands had gone very pale and very still. She was panting, her breath audible enough to fill the room.
+
+"Even after Mio left, William targeted me because I helped her. Because I became someone who knew of his crimes. Of the truth he tried to bury. He needed a way to get to me, so he decided to have his way with our mutual friend, Simone Goode," Eppie continued.
+
+Valorie looked like she wanted her to stop, but Eppie allowed no quarter.
+
+"At this point, I think you might know Simone better than I," Eppie said. "After all, she's your lackey now. Do you want to know why Simone is so devoted to you?"
+
+Valorie didn’t want to hear. Eppie didn't give a shit.
+
+She told her fated foe everything that happened after Valorie gave Simone the "Dancia shoes". The isolation of Eppie, the physical and emotional bullying. The locker room at B2, where Eppie lost her mind.
+
+"Even now, thanks to your Birkin bag, your friend has to work at the Club." She paused here—not for effect, but because the next part really showed how much Valorie knew. "To pay you for the bag, Simone had to serve customers three nights a week at the club. Dozens of men, wearing dresses shorter than mine. Whatever they ordered. Whatever kept the lights on for her family and William off her back. That's your friend. Think about that next time you buy her Ippudo ramen with all the toppings."
+
+Then she studied Valorie.
+
+Val's imagination arrived like a freight train. Eppie watched it happen. The unspecified horror assembling itself from the inferred material. Valorie could only imagine the worst because she had just experienced Grein first-hand. Because she knew her boyfriend so well.
+
+Finally, like Eppie had done twice before, Valorie rushed from the divan to the sink and emptied herself of the night's expensive bubbly wine.
+
+She stood over Valorie as the girl hugged the potting sink, her eyes bloodshot.
+
+"And finally, there's little old me," Eppie's voice offered no kindness. "Simone told you what happened on the roof, I bet. I fell. I broke in half. Eppie Fontaine hit the concrete screaming, and it took a team of very kind doctors to stitch her back together. The chick who flew from the roof that night rose from the dead as a whole other bird."
+
+Eppie leaned in so that her face was close to Valorie's, but not close enough to be kissed, because that was some bullshit.
+
+She tapped her skull. “And all the king's horses and all the king's men couldn't put Humpty together again.”
+
+Valorie watched her from the sink. The way they looked, a casual observer would think that their roles were reversed, that Valorie was Cinderella, and Eppie was the stepsister.
+
+"And that's the end of my story."
+
+Eppie collapsed on the divan, crucified by the retelling. Valorie turned on the tap and washed away the sick.
+
+"What a terrible tale," came a voice from the shadows. It was Vaughan. She stood under an arch formed from birds of paradise; the greenhouse’s lighting was angular and sharp as it fell upon the mistress of the garden. "I am so sorry that's how it happened."
+
+Eppie sat back up, her posture prim as a lady at a tea shop. Vaughan had been standing there long enough to hear everything.
+
+As she approached, Vaughan stopped by Valorie. "Think on what Eppie has told you, Valorie Sanders. It is not often that we are given a second chance in life." Then she stood between them, in case Valorie had other ideas.
+
+"May I give you a hug?" Juliana asked for her permission this time.
+
+"I am dirty," Eppie said. She still stank of December rainwater.
+
+"We're all a little dirty," Juliana moved toward her, and the two embraced—stiffly.
+
+When they separated, Vaughan's permanent haughtiness had diminished. It was still there, but it was no longer so pronounced.
+
+Neither of them said anything. Both were too intelligent to vocalise the obvious. Eppie’s teacher had discovered that her student had been studying material not included in the syllabus and had just now accepted that she was no longer the most qualified person in the room.
+
+Eppie felt like she should break the tension. But how?
+
+Thankfully, George appeared with the timing of a Middle-earth wizard, someone who had spent decades arriving at the precise moment he was needed.
+
+"Sir Justin is pacing like a lost cat, Madam, in the anteroom."
+
+Vaughan nodded. She looked at Val one final time—not with a lecturing look, not with a measuring look, but with something more measured.
+
+"Valorie," she said. "From the Roman Valeria, derived from valere, of the Valerius family. It means vigour and vitality—and in today's vernacular, courage under fire. I hope you learned something about yourself tonight, Valorie, even knowing that no choice you can make tomorrow shall erase the ones you've already made."Valorie studied the tiled floor. If Eppie was religious, she would have prayed for her friend.

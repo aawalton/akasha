@@ -1,0 +1,211 @@
+---
+id: ea4a21ed-0566-5216-97c1-f4b3856e053a
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 608 - Preparations"
+slug: 0110-chapter-608-preparations
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 110
+ownLength: 2991
+unit: words
+ownProgress: 2991
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/2576118/chapter-608-preparations"
+royalRoadId: "2576118"
+markedReadAt: "2026-06-29T19:38:49.233Z"
+---
+
+Tala and Lea stood in the caravan yard in which Tala had tested her empowerment of cargo wagons so long ago.
+
+Master Himmal stood beside Tala, shaking his head. “You didn’t even have to touch them.”
+
+Tala grinned. “Well, of course not.”
+
+Before her was a veritable fleet of passenger wagons, ready to join the forty already in their caravan.
+
+Fifty more. Each now had a handprint-sized and -shaped bit of her iron pressed and locked in place on each of the power influx points, allowing her to steadily rotate through each, using almost all of her inflow of power to charge five at a time through her aura and her iron’s connection to the wagons.
+
+There was some inefficiency from a power perspective, but that wasn’t really an issue at the moment.
+
+Once she got the process up, it would only take ten seconds or so to top off each set of five, and most of that was because she had to be careful not to overload the relatively weak, delicate scripts. That meant that she would cycle through every wagon every three minutes or so.
+
+It was unnecessary, as each would run for a day or so when topped off, but Tala had learned that things usually happened when she least wanted or expected them to, so it was better to be safe than have to balance a fight with keeping the wagons viable.
+
+Master Himmal chuckled. “I should surrender my moniker to you. Truly, you are more of a ‘Void Key’ than I ever was.”
+
+Tala gave the old man a smile. “You do much more with less. I am brute forcing this into being. If you had my throughput, you could do so, so much more than just this.”
+
+He shrugged. “Maybe so, but quantity can be said to have a quality all its own.”
+
+She grunted in assent. “That can be the case.”
+
+Master Himmal gave another small bow. “You’ve also helped me give just a little life back to my aching gate. I do thank you for all the knowledge you brought back from the arcane lands.”
+
+She glanced at his gate just briefly. It was still broken beyond repair, seemingly only held together by wishes and sunshine, but that sunshine seemed a bit brighter, and the wishes appeared a bit more likely to become true.
+
+-Wow… that’s a harsh assessment. I don’t think you classified it that way in the past.-
+
+I didn’t. I can see better now.
+
+-Fair enough.-
+
+Lea stood, staring in wonder at the workyard as floods of workmen descended on each wagon, heading to build out the interiors for the extended trip to come. “How many people will fit into each when they’re done?”
+
+Master Himmal turned to the girl, his face softening as a small smile grew across his features. “Well, Miss Lea, with your mother’s support and power, we expect a hundred in each wagon.”
+
+“A hundred?” Her eyes widened in shock.
+
+The man nodded. “That’s right. It is the most efficient we can be based on your mother’s capacities as tested in Alefast, Waning. She could power passenger wagons with a capacity of up to a thousand, but aside from becoming logistically difficult, and making the interior that much harder to build out, she could only power one such wagon for every fifteen of these she can handle. There are difficulties that forced this configuration as well, but I won’t bore you with those details.”
+
+Lea nodded in understanding. “So, it would be more efficient from a per wagon perspective, but we’d be able to bring a third less people.”
+
+“Exactly right.” His smile grew. “You are quite the clever girl. Your parents must be proud.”
+
+Tala nodded, smiling. “We are, yes.”
+
+Terry was ranging along their intended path ahead of their departure from Bandfast, killing or scaring off the beasts that might otherwise have been a problem. That took care of the least threats, but with so many gates moving together, there would be magical beasts coming to investigate.
+
+Still, it was a nice means of smoothing out the way forward.
+
+Rane was checking in on several of his projects and tasks around the city, and Tala would be effectively trapped here for the next day until they were able to get under way. He’d offered to stay with her, but she’d waved that off, telling him to go do what he needed to.
+
+Ironhold’s entrance was open to one side of the caravan yard, workers flooding in and out of there, exchanging materials, carrying in those that were to leave Bandfast, and coming out with those destined for this city from Alefast, Waning.
+
+Many of the Ironhold merchants were hard at work making deals and striving to earn their keep.
+
+There was also a smaller line of gateless, politely waiting for their turn to be seen as they applied for citizenship within Ironhold. Lyn was busier than she’d ever been, but from all the signs that Tala and Alat could see, she was loving every minute of it.
+
+Talons patrolled the workyard, rotating out to Ironhold as needed to replenish their power, white steel armor denoting rank. Each Claw was made up of four members with only white vambraces—though they had more standard armor on the rest of their bodies—and a fifth member with a chest piece as well. These senior Talons sometimes even had backplates too.
+
+There wasn’t truly any danger needing such heavy patrols, but it was great magic retention training for the Talons, and a good show of power for the locals who flocked to the area to see the largest caravan most had ever heard tell of.
+
+Lea got some glances from workers and the public alike, and that was likely amplified by her presence, standing beside Master Himmal and Tala, herself. The girl had chosen to stay with Tala for the time being as she wanted to see the process of caravan ramp-up. She’d spent the days in Alefast, Waning with her father while Tala was at the workyard there.
+
+With permission, Lea began shadowing the workers, expertly staying out of their way and helping where she could and where she wouldn’t interfere.
+
+Soon enough, her ridiculous strength was noticed, and she was happily enlisted to help carry some of the bigger prebuilt sections and materials.
+
+Tala smiled, moving over to sit with Master Himmal at the resting area she remembered from so long ago.
+
+They chatted and enjoyed the provided snacks and drinks for nearly an hour before he stood, bowing her way and excusing himself to go back to his other work.
+
+That left Tala on her own once more. She didn’t have much magic free as she continued to cycle through the various sets of five wagons.
+
+Therefore, instead of adding to her growing void donut of rapidly orbiting projectiles, or practicing her iron-self construction, she dove into her growing notes and musings on her inscription set and merging work.
+
+Her intention was to fully merge with all her soulbonds—save Terry and Rane—incorporating their magics into her very self, reinforced and augmented by her inscriptions, but fundamentally making them a natural part of her physical self.
+
+It was a delicate balance that she was attempting, and while the experts of the Cycling Cities had helped her create exactly the magics and schema that she needed to accomplish this, she needed to do it on her own. Therefore, she was in a place where she effectively had a working, wonderful, borrowed recipe for a dish, and now she needed to remake the results with her own, fully distinct recipe.
+
+It… wasn’t going well.
+
+From what she could tell, much of what she wanted to do could only be accomplished in one way, at least as far as the Archons were concerned. With a solid solution, one containing no perceivable downsides, why would anyone look for another method?
+
+-Because they are stubbornly determined to be remade as their own person, unhampered by any reliance on anyone?-
+
+Don’t be a jerk, Alat. Reforging is all about remaking yourself, as yourself, not as others can make you. I don’t know of any other way to do this. She grimaced. Though this does seem like a huge portion of why so few people Reforge.
+
+-Could be…- Alat seemed torn, but she kept whatever her hangup was to herself.
+
+Tala just shook her head, took a large bite of a cream cheese laden bagel, a sip of coffee, and dove back into her research and conceptual experimentation.
+
+Impressively, Lea didn’t return to Tala’s side until the sun was setting, and the construction efforts were done. Load-up would begin bright and early the next morning, and the various workers were heading home for food and a bit of rest before a final push to get this caravan on its way.
+
+Despite Lyn’s attempts to keep Rane and Tala as the only Mage Protectors needed, the Caravaners’ Guild had insisted on assigning an additional team for every ten wagons. In truth, Tala thought it was probably a good idea, even if it rankled a bit.
+
+There were quite a few reasons that caravans this large were vanishingly rare.
+
+She’d had to drive off seven Fused level magical beasts on the journey between Alefast, Waning and Bandfast, and Rane and Terry had each handled a similar number.
+
+They weren’t clashes of note, and none of hers had taken more than a single gravity-shot to obliterate. In fact, aside from a sound like a breaking branch, no one in the caravan had even noticed that she’d done anything.
+
+Lea had been informed in a vain attempt to alleviate the child’s boredom, but that had simply led to the girl complaining that Tala should have drawn out the clashes to provide some actual entertainment.
+
+Honestly, Tala was afraid that she’d have to resort to just giving the girl an Archive slate with permissions for a huge suite of combat records… She didn’t want to do that. She wanted her daughter to take in the countryside, and really experience the caravans as she and Rane had.
+
+But she was getting distracted. She had nine teams of Mage Protectors to connect with, and they’d gathered in a large warehouse turned meeting hall to one side of the workyard.
+
+It was close enough that Tala would be able to easily keep up her three-minute cycle of topping off the wagons.
+
+The Talons continued their patrols, and the good folk of Ironhold continued to come and go in their sight-seeing attempts. Additionally, those who had come from Alefast, Waning in the passenger wagons—and who would be continuing on to Marliweather—were coming and going from their assigned wagons, Talons checking their identities and ensuring that only those with legitimate cause to be there were allowed to actually go inside the expanded spaces.
+
+Each Claw of Talons saluted her if they came near, but otherwise they gave her space.
+
+It really is odd to consider, sometimes, that I have a private army.
+
+-And yet their combat potential is less than yours, even all combined.-
+
+True, but that won’t be true for much longer. Eskau Meallain and Captain Ron are truly doing a fantastic job.
+
+-They really are.- Alat paused for a moment as Tala and Lea walked toward the meeting area. -Master Jevin has asked permission to communicate with Eskau Meallain on occasion.-
+
+Oh? Why would he ask me? Though as soon as she expressed the question, she understood and realized the answer. Right, she’s my prisoner, and I’m in charge of her activities… Sure? I don’t think he’ll do anything that will help her escape… assuming he could.
+
+-I think considering anything as ‘fool proof’ has underestimated the ingenuity of fools.-
+
+While that’s true—and rather pithy—I don’t think that applies here? No one involved in this is a fool.
+
+-True. Regardless, we shouldn’t ever consider anything as inviolable, even Kit.-
+
+Fair enough. We don’t want her to be smote, at least not yet. She’s still useful.
+
+-Wow… Okay, sure… I guess. Heartless, but true.-
+
+Lea was still looking about with interest, the day of hard labor not exhausting her in the least. Even so, she did seem a bit socialed out, as her normal chatter was absent at the moment.
+
+“Are you up for meeting a bunch of strangers?” Tala felt a bit wary about it, but she wasn’t going to just send her daughter away.
+
+Lea looked to her mother. “Yes, mom. I’ll be fine.”
+
+“It’s okay to need some time to yourself, you know.”
+
+“I know. The workers were fun, and they talked a lot, but I don’t want to miss this.”
+
+“Very well.”
+
+As to what ‘this’ was? Well, as Lyn had managed to keep the Mage Protectors out of the caravan for the first leg, this would be the first time that any of these Mages had met her mother, and Lea clearly expected it to be an event.
+
+“I’ll try not to disappoint.”
+
+“Oh, I’m sure you won’t.”
+
+There was a low hum of activity and conversation from the twenty-seven Mages within as Tala quietly opened a side door and entered with Lea.
+
+Men and women ranging in apparent age from late twenties to late sixties were chatting and milling about in everchanging groups, just as Tala had seen for the last fifteen minutes or so with her threefold perception.
+
+They were enjoying the drinks and food provided for the event, and she’d waited until much of the initial awkwardness had rubbed away.
+
+Even with all the goings on, her and Lea’s entrance was noted, and a ripple of final mutters went through the room before the Mages all collectively turned her way and bowed, falling silent.
+
+Tala gave a shallow bow in return, and Lea gave a much deeper one. “Greetings, honored Mages.” Even after all this time, Tala still felt a twitch at using the appellation ‘incorrectly’ when considered from the arcane perspective. “Thank you for joining us this evening.”
+
+A mixed chorus of greetings came back her way, and she waited for that to die down before she continued.
+
+“I am Mistress Tala, and this is my daughter Miss Lea.” The ‘Miss’ was unnecessary, but it emphasized that the girl was not a Mage, whereas if she’d simply said ‘Lea’ many would have assumed that she left it off due to familiar relations. “I am the Dimensional Mage for this caravan and co-commander of the Mage Protectors.”
+
+This wasn’t news to them, as they were aware of what they’d signed up for. There were even a few Archons among those here who would be able to see and understand just how advanced she was, given that she was doing nothing to hide her aura which permeated the entire workyard, including this building. Though, she was keeping it from affecting anyone within its scope.
+
+“We don’t expect you to have to do much unless something goes horribly wrong. Simple barriers as appropriate should be the extent of it. Even so, there are some things we wanted you to be aware of.” She smiled, feeling a particular being almost upon them. “First, this is my soulbound companion, Terry.”
+
+Terry flickered in perfectly on cue, sized to sit on her shoulder. That caused another storm of mutters, people turning to exchange quick words with those around them.
+
+“He is a dimensional terror bird, as such you may see him at various sizes.” Terry obliged by flickering about and changing his size going down to be small enough to fit in a cupped hand and up to big enough to nearly brush the twenty-foot-high warehouse ceiling. “Please do not attack him regardless of his size. It would make him cross, and none of us want that.”
+
+There was a round of accepting nods. Terry took them in before nodding once himself and flickering to Lea’s shoulder, sized appropriately for the perch.
+
+“Second, if we are faced with a true threat, you may see me equipped like this.” She pulled her armor to the superficial, growing a couple of inches. She also suppressed her throughspike to allow her full and true self to be exposed to the watching Mage Protectors.
+
+Several stumbled backward in surprise and even evident fear in several cases, but each showed their professionalism in that not a single inscription activated, not even one spellform sparked to life.
+
+Tala nodded, projecting her voice. “I don’t anticipate anything requiring myself or my husband to bring our full capacities to bear, but this is an experiment, so our experiences may prove to be poor indication of what we will face. Therefore, if you see me in this form, pay close attention to the commands sent your way, and do not delay. We are Paragons of combat, and anything that forces us to truly clash with it will be a lethal threat to the entire caravan.”
+
+Several Mages swallowed nervously, and quite a few uncertain glances were exchanged.
+
+“We are transporting close to nine thousand people through the wilds. There will be magical beasts attacking and often. Even with many of you being Archons, we expect you to maintain a more defensive role in any clash. Keep your assigned wagons intact, and prevent any collateral damage. There is a reason that most of you are defensive specialists.” She took a deep breath and looked around the room. “Now, I would like to meet each of you and field your questions. If any of you want to back out, this is the last time to do it. Once this meeting ends, you will all be irrevocably locked into the contract for the job.”
+
+There was a moment of heavy silence. Tala dropped her armor, allowing her through-spike to reassert herself, and smiled at the assembled Mages.
+
+Then, and only then, will I introduce you to my Talons.
+
+She waited a moment more before nodding.
+
+“Now, who would like to go first?”

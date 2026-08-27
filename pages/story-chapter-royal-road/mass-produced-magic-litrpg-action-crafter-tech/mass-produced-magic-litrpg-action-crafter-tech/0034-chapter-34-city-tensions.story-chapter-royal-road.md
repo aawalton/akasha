@@ -1,0 +1,173 @@
+---
+id: f246da23-2438-558a-b493-0b99bac35e00
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 – City Tensions"
+slug: 0034-chapter-34-city-tensions
+partOf: mass-produced-magic-litrpg-action-crafter-tech
+position: 34
+ownLength: 1919
+unit: words
+publishedAt: 2024-12-24
+link: "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1973521/chapter-34-city-tensions"
+royalRoadId: "1973521"
+---
+
+A hazy city stood on the horizon. Smoke billowed in the air, and red scales glistened in the sunlight.
+
+Kindra’s focus shifted upward. Am I dreaming again? Lizard-like eyes focused on her, and massive wings churned the air like a helicopter. Is that a dragon? She looked up at the massive creature. Its long tail flicked through the air, and a smile spread across her face. An icy breeze carried the scent of death and smoke from the smoldering city before her.
+
+Magic surged into her palm. Runes spun on her fingertips, and an icy bolt formed. Then it doubled and doubled and doubled, becoming a lethal ball of ice and magic.
+
+The dragon opened its maw; fire poured across the undead and her shield. She laughed. “Yes. Burn your mana, fool.” She waited, building her spell as the torrent continued.
+
+As the flames finally abated, she flicked out her hand. The ice streamed forward, smashing into the furious red drake. Mana poured from her. The runes sparkled, and she felt a strange unease flow through her body.
+
+Ignoring it, Kindra poured mana against the dragon. “You were a fool to come alone,” she hissed. It opened its mouth, revealing massive, white teeth. Its wings slowed, and a blade slammed into her. A shield triggered instantly, knocking away the blade and ending the spell. She hissed and spun, her eyes focusing on the new threat.
+
+A woman with elven features glared back. Her platinum hair was aglow with magic, and her sword slammed into the shield like lightning, moving at impossibly fast speeds. It blurred, slamming into the shield over and over.
+
+Kindra felt her mana draining away. She sighed and conjured another spell, willing the runes into existence. Unlike most, these runes were pure black. They pulsed and absorbed the light.
+
+The assault stopped, and the elven woman vanished along with the dragon. Kindra sighed and looked at the city. The guards were gone. Everything was gone. Snuffing out her spell, she sighed and began another. “Well?” she asked the remaining undead. “What are you waiting for? Attack!” she hissed and pointed at the city. “Destroy it. All of it. Then find their new base.”
+
+She growled and stepped through the floor, falling through the stars and slamming onto a stone floor in space. “What?” the words left her mouth. Her heart thundered, and a chill ran down her spine.
+
+“Well now, what have we here?” a feminine voice whispered.
+
+Panic grabbed Kindra’s mind. She spun and saw a woman with white hair and sharp teeth standing there. The woman reached out and ran a finger along Kindra’s cheek. “Where are you, darling?” she whispered in some language that was eerily foreign and familiar at the same time.
+
+Kindra’s heart thundered. The woman smiled, her icy blue eyes glowing with magic. “Tell me,” she whispered.
+
+A pulse of magic hit Kindra, and she screamed, snapping awake in a soft bed. The magic continued. She felt a growing compulsion in her mind. Runes danced across her, and she slammed her will against them over and over, ripping and shredding the spell.
+
+The magic faded, and Kindra pulled herself into a ball. Who was that? A shiver ran down her spine. She whimpered, and Gran darted into the room.
+
+“Kindra?” Gran reached down and patted her. “Are you alright?”
+
+Kindra swallowed and shook her head. “I had a dream, and something found me. One of them,” she whispered.
+
+“Oh.” Gran’s eyes widened. She patted her sympathetically while a long silence spread through the room. “Thank you for telling me. For now, we’ll prepare for the worst. That’s the focus for the day. Can you make weapons?” she asked.
+
+Kindra nodded and looked down at the blankets. “I’m sorry.”
+
+“It’s not your fault,” Gran said, patting her on the arm. “Even if they come early, it’s not your fault.” She reached down and gently bumped Aika, her focus remaining on Kindra. “If you could look at those golems, do. They might be able to help, and we don’t have much time.”
+
+Kindra pulled herself from the bed, her body trembling. Who the hell is that person? She shivered and glanced at the clean dress on top of a trunk. “Aika?”
+
+“Five more minutes,” Aika grumbled back.
+
+Turning, Kindra looked over at the blanket next to her pillow. Aika had burrowed into it. “You’ve really made a nest.”
+
+“It’s nice in here.”
+
+“You should get up.” With a final shiver, Kindra walked over to the bowl of water. Wiping away the blood and dirt, she slowly cleaned before putting on a tan dress.
+
+Combing her white hair, she frowned as the dream replayed through her head. Was that a fae? She considered it before shifting focus to the magic used. Doing her best to memorize them, she finished brushing her hair. I need some way to break their shield… So, I need a stronger weapon. She shivered. Is that woman coming here?
+
+Walking over to the blanket, she dug Aika out of it. “Come on, Aika. Time to wake up.”
+
+Aika opened an eye and groaned. Her suit shifted around her.
+
+“I need to make you a set of clothes.”
+
+“Gran already did,” Aika replied. “I was just too tired to change.” She stretched, flying off Kindra’s hands.
+
+Kindra turned and walked to the door. She opened it and saw a small living area with a kitchen but no windows. “Are we still in the tree?”
+
+“Under it,” Gran said with a smile. She set down a plate.
+
+Kindra walked over and looked at the raw meat.
+
+Gran winked and held her finger to her lips. She took a seat. “Your parents are pretending that you are off patrolling the gardens. You’ll want to make at least one appearance a day. But the focus will be on building a small village near the ruins. Anything you can do to help defend is appreciated. Gleon put the golems in the nearby workshop. There are some supplies there.”
+
+“That’s my focus?” Kindra asked.
+
+Gran nodded. “Yes. Aika can help us. It would be ideal for you to keep growing.”
+
+Oh! My mana.
+
+[You have left the concentrated mana zone.] [Your mana has increased: 3761 → 4623]
+
+Good. I need all of that. Kindra picked up a fork and knife and started eating, quickly swallowing the meat. Tastes like pork. She ate and watched Aika zip in.
+
+Aika happily began eating a piece of fruit, attacking the thing with gusto.
+
+Gran rinsed a pan.
+
+Kindra swallowed. “Can you install plumbing this time?”
+
+“Plumbing?” Gran asked.
+
+“Yes. Plumbing. Pipes. Water.” Kindra gestured.
+
+“How would you do that?” Gran asked.
+
+Kindra smiled, and a memory washed over her.
+
+~~~
+
+Exhibits and museum walls stretched around her. The polished floor shone brightly, and a holographic display flickered into view, showing an old town from the eighteen hundreds. Wooden buildings dotted the area, and Kindra waved her hands through the display, hitting the dirt road, a tavern, horses, and a few people.
+
+The sheriff walked out with a gun. “Jake!” he shouted.
+
+Kindra laughed and turned. “Did this really happen?”
+
+“You know, there’s a lot of debate about that,” her father said. “People did get in shootouts. It was a wild time.”
+
+Kindra shook her head and waved her fingers through the tall wooden water tower. The four legs were anchored to the ground, and pipes sunk into the dirt.
+
+“What happened to them?” Kindra asked, pointing at it.
+
+“Cities happened. When the skyscrapers came around, gravity wasn’t enough to move the water to the top. So, we had to move to the modern stuff.”
+
+Kindra nodded and smiled. “Pumps,” she said happily, swishing her dress and grinning at him.
+
+“Yes. We had to use pumps and pressure.” Her father walked forward and batted her hair. “Civil engineers create the systems needed to distribute water. Back then, we could use a pump and gravity. Then you’d dump the waste off in a river. Of course, that all got replaced.” He walked over to the display and hit a few buttons. The display shifted to one from the twenty-first century. “We had to use pressure, which required more complicated systems. We added water treatment so we wouldn’t ruin the rivers.” He gestured.
+
+Kindra looked at the shining city. Her smile faltered, and she turned toward the museum’s door. The heavy, interlocking doors were closed. Sirens blared outside. “But we didn’t do enough,” she said sadly.
+
+Her father patted her on the back. “No, we didn’t, but we will. Remember what I’ve told you. The ladder to the sky. They say that every step along the way teaches us to fly. So remember, dearest daughter, when hope is running out. Pause and think. Do the math, and you will know the route.” He chuckled, swatted her ponytail, and gestured. “Come on. Let’s look at the dinosaurs.”
+
+Kindra smiled and ran for the exhibit…
+
+~~~
+
+Kindra shook her head and wiped the water from her eyes. Aw, Dad. Wish you were here. She swallowed. The thoughts of the crew hit. Death, guide them.
+
+Gran walked over. “Kindra?”
+
+“Sorry. Lost in a memory,” Kindra whispered. She traced her finger on the table. “We need a tank in the air. We can build it with stone or wood. Then, we affix a pump to the water source, probably a spring. We pull it up into the tank and run pipes into the houses. Hook that to a drain, and we’ll run the waste out. Ideally, we can make a toilet.” She looked dourly at the chamber pot. “I need one of those.”
+
+Gran nodded. “We can do that. How does the pump work?”
+
+“I’ll build it and show you.” Kindra smiled. “Are there any trees with resilient sap, bouncy sap?” she asked with a bit of hope.
+
+Gran laughed long and loud. She shook her head and patted Kindra on the back. “Almost all of them. It helps them survive.”
+
+Well. Rubber just got way easier. Kindra grinned. “Then that’ll work.” She polished off the meal and stood. “The workshop?”
+
+“It’s next to your father’s forge.” Gran smiled and walked to the corner. She opened a door and gestured to the tunnel. “Ready to go back?”
+
+“Yes.” Kindra stood and followed her into the tunnel. The two jogged down it. Small tunnels ran through the ground, ending at other doors. They are good at this. Turning, she raced down the long one. Crossing the fields back toward the town.
+
+Her breath billowed. A light breeze blew, and she turned down a tunnel, walking up to a set of stairs. Gran reached out and grabbed her arm. Muffled voices carried through the stone.
+
+“I told you, she’s guarding the gardens,” Dain said with plenty of exasperation.
+
+“The mayor would like a word. Go get her,” some dwarf replied.
+
+“About what? She’s a young lass, if a bit tall.”
+
+“He needs to know what she remembers.”
+
+“She doesn’t remember.”
+
+“Get her, now. We’re coming with you.”
+
+“You’re getting the bill,” Dain said with a huff.
+
+Gran opened the door and nudged Kindra.
+
+Kindra nodded and forced her thundering heart in check. There’s no way he knows. Calm down. Calm down. She walked up the steps, preparing the lie in her mind. Mom sent, and the pests were cleared.
+
+Anxiety blossomed in her chest. She opened the door of the forge and poked her head out. “Dad?” she said softly, and two angry guards turned toward her.

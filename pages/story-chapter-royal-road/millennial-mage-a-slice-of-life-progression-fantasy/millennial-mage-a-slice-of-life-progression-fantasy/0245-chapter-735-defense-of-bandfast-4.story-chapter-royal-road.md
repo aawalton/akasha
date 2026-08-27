@@ -1,0 +1,263 @@
+---
+id: 7e34a474-e886-5b7d-8035-5fb37f6d1a31
+page-type-slug: story-chapter-royal-road
+title: "Chapter: 735 - Defense of Bandfast (4)"
+slug: 0245-chapter-735-defense-of-bandfast-4
+partOf: millennial-mage-a-slice-of-life-progression-fantasy
+position: 245
+ownLength: 2823
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3781373/chapter-735-defense-of-bandfast-4"
+royalRoadId: "3781373"
+---
+
+Senior Commander Tauto stood on the edge of the human-made cliff, not looking down at the remains of his fellows, still churning at the bottom of the gorge.
+
+They would be remade, and the fight would continue.
+
+It always did.
+
+They were without end.
+
+He didn’t yet understand Verity’s plan with this assault, but while it was frustrating having a large portion of his forces’ resources be devoted to this new avenue of attack, he trusted that it had a greater purpose.
+
+Reality barbs did seem to be having a slowing effect, but Tauto felt like he’d have gotten better results by just swarming over the defenses from the beginning.
+
+Now, not only was there something memetically making his forces unable to enter the city while any defenders remained on the walls, but they’d been driven back even from that foothold.
+
+Still, his lack of understanding simply showed that he had more to learn.
+
+Verity was correct.
+
+A new challenge lay before Tauto, however. A white-armored specimen of rot eyed him across the chasm.
+
+It looked similar to the ‘ending one’ that he’d heard theorized but never had confirmed.
+
+If his feedback from the Persistent Well was correct, there was something affecting a large number of soul-cores on this battlefield, and it had only started in the last few minutes… since that arrived.
+
+The one he was watching had her helmet off, and she was eating something.
+
+Tauto barely kept from sneering at such weakness, needing food.
+
+Then, however, he reprimanded himself. Most of reality’s creatures take in nutrition. Do not fall into the trap of reviling all that is associated with a given evil, simply because of that association.
+
+He nodded at the reproof.
+
+His hand felt comfortable around the hilt of his joined weapon, newly made by the temporary combinations they’d been able to utilize with their reclaimed factories.
+
+It was a wonder how they’d been repurposed, but thankfully, it wasn’t hard to bring the original utility back to the fore. The modifications available to them now were even easily seen as improvements in that light.
+
+This sword was one prime example.
+
+Reality remembered how magic violated its laws, and that memory was powerful.
+
+His blade simply gave reality the push it needed to claim true cause and effect.
+
+The profaners called these concept blades, but that was because they had only ever gotten hold of them in their inert state.
+
+They were reality blades, and the fact that some of the profaners forced magic through them was possibly the highest offense imaginable. To take the holy and use it for evil… what could be worse?
+
+Still, they could be used that way, hence the relatively new, universal order to destroy the weapons before letting them fall into enemy hands.
+
+They were to do so, even if such would cause an objective to be missed. Not a single holy blade should be allowed to be claimed.
+
+The thing stood, and Tauto found himself straightening in turn.
+
+Something was wrong.
+
+The profaners had sent all his fellows that had been upon the wall back for recreation, and they should be licking their wounds, hoping he chose to depart.
+
+He wouldn’t, of course, but they should be hoping.
+
+Instead, the network with his forces showed that around the full circumference, wielders of magic were stepping forward, seemingly preparing to attack.
+
+That was preposterous, but it was all that fit.
+
+Moreover, something… weighty, something real told him that this white-armored thing was to blame.
+
+His grip tightened on his hilt, and he felt reality solidify around him, the comfort of a healing tank, the fluids pouring into every part of him until he was cradled in safety and beneficial power through and through.
+
+The white thing lifted from the wall in an almost lazy arc, foul magics clearly aiding the impossible leap.
+
+With a sneer of contempt, he swung his blade, sending a ripple of reality out.
+
+Let us see how you do in the grinding gorge. The reality would hit her, and she would drop like a stone, allowing—
+
+His strike splintered ineffectively nearly ten feet from it, and Tauto was so startled that it covered the last distance before he recovered.
+
+The thing came to a stop some twenty feet from him, hovering above the pit. The voice that reached him was decidedly female. “So, just a senior commander then?”
+
+Tauto glared up at her. “I am sufficient for this task.”
+
+She laughed, her metal faceplate somehow more inanimate than he was. “No, you’re not. I am Mistress Tala Sappherrous, Eskau of War, and today, I am your end.”
+
+Tauto crouched low, pulling his blade back in a low guard. “We shall see, profane one. Reality is with me.”
+
+She didn’t visibly signal, but he somehow felt something ripple out from her faster than thought, and suddenly the other forces vaulted outward from the wall, clearing the gorge through various means, coming forth to attack his army.
+
+Tauto pulsed his command outward, and the Legion responded.
+
+This would be a bloody fight, and his people had no blood to give.
+
+* * *
+
+Tala decided to be decisive, even though she wasn’t going to go for the existence shield and an ending blade right out of the gate.
+
+She had plans for those, but it wasn’t quite time yet.
+
+Regardless, she opened with a salvo of tungsten spheres.
+
+The first orb tore down on the automaton, and its blade flashed, cutting the metal in half with a squeal of metal on metal.
+
+Even so, such was the speed of its initial flight that the two halves still impacted, one taking it in each shoulder.
+
+The thing was thrown back and to the ground, where the second sphere found it, this one landing squarely in the chest, leaving a sizable dent before ricochetting off into the surrounding automata, ripping off legs and generally spending its energy by wreaking havoc.
+
+The third drove the target deeper into the ground.
+
+So did the fourth through tenth.
+
+By that point, the careening orbs of metal had torn apart practically everything in a hundred foot radius around the downed senior commander.
+
+The automaton was nearly three feet into the torn up topsoil, nearly ten feet back from the edge that it had been standing on.
+
+Tala followed up the initial barrage with a pair of siege-orbs that were predictably nullified, causing an outrushing explosion of freezing air. That served to clear the air as she touched down, her heavily armored boot crunching on an automaton fragment as she did so.
+
+She increased her own specific gravity, locking herself in place to prevent any trick from being able to knock her backward into the gorge behind her.
+
+Here, she would stand.
+
+“You fail to understand that you weren’t fighting our warriors,” she said as it started to scramble upward, and Tala pegged it with another sphere to drive it back down. “You were held back by our crafters, by our young, by our least capable—by and large—and their heroic efforts still stymied you.” She chuckled, shaking her head.
+
+A single senior commander should be more powerful than five commanders, but there was something she hadn’t considered in that calculus. She was excellent at fighting single opponents. It was what most of her training and practice revolved around.
+
+To her? Fighting the commanders on the plateau was harder than this should be.
+
+This clash was all but over.
+
+She almost turned her perception away to check on the rest of the battlefield before finishing this opponent, but a flicker of movement caught her focus.
+
+A simple rock whipped out of the pit that the automaton was embedded in, striking her helmet with enough force to snap her head back, deforming the metal that tried to oppose the motion.
+
+Her neck snapped, the reinforced bone splintering under the torsion.
+
+Following close on the heels of that stone was the senior commander, its blade leading the way as it lunged for her extended throat.
+
+Tala cursed, swiping Flow in a side-to-side block even as she twisted, using the motion and an act of will to crack her head back into position so that it could properly heal.
+
+Her helmet had a sizable dent in it, but the metal responded to a flicker of magic, flowing back into proper form and allowing her skull to reinflate with a subdued squelch.
+
+The concept blade was knocked aside, but the automaton kept coming, closing the distance and driving a secondary blade toward her.
+
+Two? Where did the other… Then she saw it.
+
+The two blades had rested together perfectly. They were two halves of one weapon, and this automaton was clearly used to using them.
+
+With a growl, Tala drove a dozen iron spikes into the ground around her, gaining renewed stability for her aura, power, and authority, rebuffing the encroaching reality field even as she punched the already disfigured being before her.
+
+And it was disfigured.
+
+Her hits had ravaged the artificial body, but unlike the lessers she’d fought, this one had seemingly been able to correct most of the issues save those at the cosmetic level.
+
+Her threefold sight saw power being shunted through starward and stoneward backup systems, this particular creation shifting and showing that it was at least three layers thick, all systems intermeshed. So much for those being the dimensions of ‘magic.’
+
+-Eh, nomenclature is a funny thing.-
+
+They exchanged blows back and forth, and per usual, Tala was not its match in pure technique. How could she be?
+
+Even so, she was faster, stronger, and her authority lent power to her every blow, stability to every block, and speed to every movement.
+
+This was her purpose, her drive, her base of power.
+
+She had been elevated to fight the Black Legion.
+
+Her armor hardened under each blow, rejecting her magic that normally kept it mobile, but that was fine. She was maintaining the form that had joints, keeping the hardening from hampering her movement.
+
+Void-Flow carved great chunks from whatever layer presented itself, but the nature of stacked reality was somehow perfect for ‘pinching’ the blade and stopping its progress before she could do more than leave superficial lacerations. They would have been enough to end any biological thing, but one of metal and reality? It barely seemed to affect it at all.
+
+Tala would have loved to undercut its footing by affecting the ground beneath their feet, but its natural reality field was too large, only really deforming around her physical form as they closed for each clash.
+
+Its metaphysical weight was less than hers, but not by so much as to allow her to simply crush it.
+
+More to the point, her authority was widely spread once more as Rane, Lea, Terry, the Talons, and so many others scythed through the ranks of the Black Legion that had encircled Bandfast.
+
+Toward that end, Alat was wholly bent toward making each one of those ends permanent.
+
+Tala had fought against twin-blades before, but she couldn’t say that she particularly enjoyed it.
+
+The easy solution generally lay in the fact that most beings couldn’t wield two weapons with as much skill, dexterity, and focus as wielding one. That was one of the core reasons that a sword and shield was such a powerful combination despite the increased weight of the shield slowing down most fighters.
+
+The ability to only have to barely move one arm to maintain a near perfect defense of a huge portion of the body was hard to beat.
+
+When that was given up to have a second offensive weapon, it was often just sort of swung in tandem with the first, more a conceptual threat than a true one. After all, there were very few human warriors capable of using it to great effect.
+
+But Tala hadn’t been sharpened against human fighters.
+
+Arcanes were long-lived and generally far more martially inclined for the majority of those long lives, meaning that they could perfect dual weapon fighting to a level where each weapon was just as useful in warding and striking as a human warrior’s primary weapon—if not moreso—and fighting that level of skill on an even footing could be frustratingly difficult.
+
+The automaton’s capacity far surpassed that of the arcanes she’d fought. Part of that was due to its undoubtedly long life, but the majority was to the non-biological body allowing for strength when she might have expected weakness and angles of attack that were just outside of what should have been reasonable.
+
+In truth, without her years of sparring against her own daughter, she’d likely have been entirely overmatched. Even as things were, she’d have fairly quickly lost a pure contest of arms.
+
+A smile was growing on Tala’s face even so.
+
+This wasn’t a pure contest of arms. This was war, and she still had cards to play.
+
+* * *
+
+Tauto churned on the information he was gaining in this clash.
+
+The armored being was decidedly human and obviously female. He hadn’t needed her introduction to tell him that.
+
+She had at least partially twisted her body with magic, but the ranges of motion, the proclivities, and the capacities were still close enough to standard that it was obvious to one with a critical eye and the desire to look.
+
+Oh, she was enhanced to be sure, but the base was undeniable. Two more things of note were her obvious talent in combat—showing that she would be a bright star on any battlefield—and her age. She was unbelievably young for one of such skill.
+
+But as skilled as she was, experience and age had a weight all their own, and in that he had her overmatched by centuries.
+
+He felt the joy of that reality; he would never fall in a contest of arms to one such as this.
+
+Her opening salvo had been battering, but the results were more irritating than inconvenient. He would have to return to a factory to have repairs accomplished once this city had fallen, and that would keep him from the assault on the next, but one of his fellows would be up for leading that attack.
+
+Perhaps Yeager?
+
+Oh, this opponent wasn’t dead yet, and her sporadic use of the tungsten spheres meant that—unless she ran out of those—this would be an endurance battle, but that was fine.
+
+He was nothing if not practiced at noticing, guiding, and deducing the reality of a situation. Reality had decided the results of this clash before they’d even begun, and the reality was, Tauto and his army would be victorious.
+
+But.
+
+But in some moments, reality bent.
+
+Magic was the most common source of that violation, but it wasn’t the only one.
+
+A strategy could be perfect, but if a soldier or unit was held back—making their expected position void of the support it should have had—that could ruin a plan before it could be realized.
+
+As Tauto fought this Tala, as they exchanged blows, he had a growing confusion.
+
+Even a human should have noticed the imbalance, and while it was common enough for biologicals to fight to the death in some misguided hope that such would change reality, this… this didn’t feel like that.
+
+Instead, he would be willing to categorically state that she was smiling beneath her helmet.
+
+It was then that he felt it, something tugging at the reality upon which his foundations stood.
+
+The sensation wasn’t the twisted distortion of magic—his reality field was too powerful for any such thing to hold large sway in this clash. It wasn’t the absence of what should have been there—he’d reduced the number of expected variables to the absolute minimum. This wasn’t even the adding in of some previously unexpected force from her side of the clash.
+
+Instead, the reality simply… changed. One moment, everything was lining up for his inevitably crushing victory. Then, without warning, another reality existed, and it was weighty.
+
+His sword slammed into her side with his full power supporting the strike. Before, that would have hardened the material, locking down a section of her armor and driving her to the side even just a bit.
+
+This time?
+
+The metal received his strike like a shallow puddle, the ‘water’ splashing out to envelope his weapon and lock it in place even as she didn’t move at all.
+
+Tauto’s head snapped up, eyes widening to take in as much data as he could.
+
+He only barely saw the end before it claimed him.
+
+A blade of surpassing finality came for him, and he unhesitatingly released his sword, triggering the irreversible sequence of self-obliteration within it.
+
+Sometimes—every once in a great while—what was believed to be real turned out to only be a thin veneer atop what existed beneath.
+
+Tauto had made a miscalculation, and the next seconds would show just how great the consequences for that mistake would turn out to be.

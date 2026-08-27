@@ -1,0 +1,93 @@
+---
+id: 64e4f92a-fe2a-51b6-8d51-1fa41037da89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 284 Shelter in the Storm"
+slug: 0299-chapter-284-shelter-in-the-storm
+partOf: melody-of-mana
+position: 299
+ownLength: 1551
+unit: words
+ownProgress: 1551
+publishedAt: 2023-11-15
+link: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1409674/chapter-284-shelter-in-the-storm"
+royalRoadId: "1409674"
+markedReadAt: "2026-06-29T22:36:09.056Z"
+---
+
+Crown Prince Omos
+
+The world was filled with dark blues and greens as I was thrown, tossed around the room like a ragdoll. Some last ditch ward, some protection had managed to redirect the most of the momentum of the blast of water that would have pulped me, but I'd not caught much of it. The water was still here though, and still trying to fill the room.
+
+Almost as quickly as it had come, the wave left, falling back or dissipating as it spread. A brief pull towards the exit door sent everyone alive and all the furniture back in towards the entrance before dumping us unceremoniously on the ground, as it did the lights died.
+
+“Amara, you okay?” I sputtered, sending a light up.
+
+“Yeah, I'm here, where's the portal?” she said, pulling herself off the ground.
+
+It didn't take us long to find it, or the teacher who'd been sent with us. The elven woman had apparently dove for the exit in the last second, something even those only barely familiar with portals knew was a bad idea, and was now a demonstration as to why. Her body had been ripped, much of her torso and a large part of her head were gone, pulled through when the connection broke. On the only part of her face left was a single eye, seeming to radiate pain and terror.
+
+As for the portal, it was smashed, some piece of rubble having destroyed the gateway. In its place now stood a undulating hole in the world, not large, but giving off a palpable wrongness. As I rose I looked toward it, almost taken in by the oddness.
+
+“We need to go, now,” spoke my cousin as he pulled up off the ground his girlfriend. He thought he'd been sly, hiding who he was dating, but more than a few of us knew. “That is dangerous, mom always told us we needed to get away from any of that kind of thing.”
+
+“Little help there brother!?” Came my other cousin's voice through gritted teeth.
+
+None of us had had time to register is yet but Illa was leaning against a wall, a spar of wood, perhaps two inches around shoved through her gut. As soon as she spoke we all looked, the blood dripping from the corner of her lip mixing with the seawater. It looked like she'd landed on a chair or table leg or something.
+
+“Shit, shit, shit,” I said as I tried to rush over to her, only to be beaten by the last person in the room.
+
+The last of our little group was a blonde, I didn't know her, having only seen her here and there around the school. She was one of the older students, and I was pretty sure she was in her final year, but that was about it. Without hesitation she rose, wet hair falling down her back, and ripped the shard of wood from Illa's stomach with a sickening squelch.
+
+“You're going to be fine,” she said to the now screaming Illa, reaching out one hand and letting a golden glow flow forth, closing the wound near instantly. “I'll check on you again later, but for now, we need to move.”
+
+“Right, after me, we need to get to high ground!” I declared, if tidal waves were the problem, we needed to be as high up as possible. I grabbed my staff from where it'd fallen and looked back.
+
+Amara had our injured cousin, being the strongest physically of all of us. Without hesitation all the rest fell in and I led us back towards the door. It didn't take us long to find our way back into the overcast light, the evening sun fighting to illuminate the world through the thick clouds.
+
+“The city? They have skyscrapers,” suggested Rodrick.
+
+As one we turned towards the nearby settlement, and saw the battle commencing there. The wards were by some miracle still up, but the clash between some giant monster and the defenders was visible even from here. Before I even had the chance to comment there was a large spell launched, followed a second or two later by an ear-shattering *BOOM*.
+
+“Yeah, I don't think they're gonna let us in right now,” my sister dryly commented.
+
+I let my eyes sweep around quickly before pointing. “That way, there's a slope upwards, may not be much, but it's what we've got.”
+
+As a group we ran for the best place we could find, all around us were shattered buildings and rubble, trees had been knocked down, and there were a few dazed people pulling themselves from wherever they'd ended up. There were also bodies, a lot of them, those who'd not been fortunate enough to survive. The blonde girl, clearly a priestess, pointed at a few, seeming to try and check for signs of life, but with everyone not already moving she only commented that they were dead.
+
+The only other thing odd were large orangish spheres that lodged themselves in nooks and crannies all over the place. Every minute or two we seemed to pass another, sometimes in groups of two or three. They were each around as tall as me, and clearly something unusual, so we just gave those a wide berth.
+
+After ten minutes of running I heard Amara shout “Incoming, two minutes tops!” from behind me.
+
+We all started looking for the highest spot, and it was Rodrick this rime who yelled. “There!” with a gesture.
+
+The hill he'd found wasn't steep, but it was large, and all of us ran as fast as we could, pushing ourselves for the bit of high ground and hopeful safety. As we neared the top I saw small bushes and weeds, undisturbed by either of the former two waves, and sighed, this was a good spot.
+
+No sooner had we reached the apex than the water came, this time much lower. It spun around the bottom of our safety, loud and fast, but not high enough to come even close to us. When it became clear we were safe I nearly collapsed, spent and coming down from the rush of excitement.
+
+“So, stay here for the night, see what we can do in the morning?” I suggested. There were no objections.
+
+With the number of spellcasters we had making a shelter was painfully simple. The walls were dirt, and the ceiling some form of local bush our priestess grew into place, but it would keep the rain off. We even broke it into sections so there's be a bit of privacy for the girls while drying clothes and cleaning ourselves up.
+
+Once we all met back up in the little front room Rodrick requested some bowls. Those were easy enough to make with magic from the local clay and stone, and once he had them he began filling each with warm pasta in some kind of creamy sauce.
+
+“You know, I always thought mom was paranoid insisting I learn to make food, but she may have had a point,” he commented.
+
+“Well, at least you don't do plain bread like she does,” his sister laughed, taking her food and beginning to eat.
+
+It seemed all the girls knew each other, each settling to somewhere they felt comfortable. For Rodrick's girlfriend Veska that was right up against him. She was older than him, but none the less the redhead was one of the better looking girls I'd ever met. I looked to the only person in the room I didn't know personally.
+
+“Sorry for the delay, but it seems I've forgotten my manners, I'm Omos, pleased to meet you,” I said to her.
+
+“Lena your highness, a pleasure to meet you,” the priestess said with a small bow. Her voice was polite, but it was clear that she wasn't wowed or anything, which was refreshing at least.
+
+“Name's Rodrick, pasta?” the only other male in the room said, proffering a bowl. My cousin was a good enough guy, but not what one might call cultured.
+
+“Well met, and absolutely,” she said, taking it from him.
+
+We were all tired, and the food was hot. Sure, we had to eat with belt knives and sticks with the bark shaved away, but it was good. The little bits of not really mushroom and not really meat were perfect with the meal. Bardic food was like that, most things that would be noticeably one ingredient never being quite right, only the mixtures and prepared bits really the same. It led to a meal where there was little talking.
+
+A rotation of watch was quickly agreed upon, but before we'd even gotten laid down a pair of elven women approached, shivering and scared looking.
+
+“Um... is there any chance we can get out of the rain? Our house is gone and everything's a mess,” the taller of the two hesitantly asked in our language, her accent was quite heavy.
+
+Over the night we got little sleep, as group after group of those seeking some form of shelter joined us. Some were injured, all appreciated the offer of a warm meal and a place to get out of the rain. A few gave us odd looks, as we were clearly foreign, but most were just too exhausted.
