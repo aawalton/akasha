@@ -27,7 +27,7 @@ export function rootEnvName(repo: string): string {
 const BESIDE = resolve(HERE, "..", INSTRUCTIONS)
 
 export function ownRepoRoot(): string {
-  return rootOf(INSTRUCTIONS)
+  return rootOf(AKASHA)
 }
 
 function namedIn(at: string): readonly string[] {
@@ -80,7 +80,7 @@ export function isVendored(relPath: string): boolean {
 
 export function repoPagePath(repo: string): string {
   const stem = `${repo}${REPO_ENDING}`
-  const root = rootOf(INSTRUCTIONS)
+  const root = rootOf(AKASHA)
   return `${root}/${pageFileIn(root, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
 }
 
