@@ -8,7 +8,7 @@ domain-slug: domain/global
 
 # Claim
 
-Five instruction documents spell a code path bare — `packages/alanwalton/personas/registers/<colour>.md` on `domains/tasks/persona-reward/send-daily-reward.md:25`, and the same shape on `create-persona-voice.md`, `port-supervisor-file.md` and `folders/spotify.md`. None resolves from the instructions repo, which holds no `packages/`, and `ops instructions read` refuses the code repo outright. Rooting one breaks step with the other four.
+Five instruction documents spell a code path bare — `packages/alanwalton/personas/registers/<colour>.md` on `domains/tasks/persona-reward/send-daily-reward.md:25`, and the same shape on `pages/task/create-persona-voice.task.md:20`, `port-supervisor-file.md` and `pages/domain/spotify.domain.md:17`. None resolves from the instructions repo, which holds no `packages/`, and `ops instructions read` refuses the code repo outright. Rooting one breaks step with the other four.
 
 # Evidence
 

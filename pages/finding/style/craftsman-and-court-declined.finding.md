@@ -16,7 +16,7 @@ Recovered from `dirty/skills/style/rulings.md` lines 49-59 while emptying that s
 
 Its words: *"Craftsman and Court remain open, unbuilt. Do not push them; he chose."* The entry adds: "A later lead cycle that finds them unbuilt has found the intended state, and re-offering them is pushing."
 
-Nothing live records the ruling, and the source's own claim to be the only surface naming either direction holds. `rg -uuu -n -i 'craftsman'` across `~/instructions`, `~/books` and `~/memory` returns three hits in total, each read back rather than counted: two are the source lines themselves, and the third is `dirty/maybe-keep/skills/literature/SKILL.md:166`, a literature persona's "craftsman's read" — a different sense of the word. "Court" appears only as Shaestrel's own "Spring Court" in `domains/personas/shaestrel.md`.
+Nothing live records the ruling, and the source's own claim to be the only surface naming either direction holds. `rg -uuu -n -i 'craftsman'` across `~/instructions`, `~/books` and `~/memory` returns three hits in total, each read back rather than counted: two are the source lines themselves, and the third is `dirty/maybe-keep/skills/literature/SKILL.md:166`, a literature persona's "craftsman's read" — a different sense of the word. "Court" appears only as Shaestrel's own "Spring Court" in `alan/persona/shaestrel.persona.md:30`.
 
 `domains/style.md`, the live domain, is ten lines carrying a Definition and nothing else — no Design, no Intent, no Principles, no Rules. The seat memory that held the original record is gone: `~/agents/shaestrel/` is an empty directory, `find -type f` returning nothing.
 
