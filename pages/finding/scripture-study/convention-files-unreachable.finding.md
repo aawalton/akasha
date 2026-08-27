@@ -8,13 +8,13 @@ domain-slug: domain/scripture-study
 
 # Claim
 
-`~/books/my-faith/OVERVIEW.md` routes every structural claim to a `CLAUDE.md` convention file, and none of the files it names exists in the books repo. The corpus's stated conventions are unreachable from the document that is loaded at session start to carry them.
+`dirty/my-faith/OVERVIEW.md` routes every structural claim to a `CLAUDE.md` convention file, and none of the files it names exists in akasha. The corpus's stated conventions are unreachable from the document that is loaded at session start to carry them.
 
 # Evidence
 
-OVERVIEW.md's own front matter says "every structural claim traces to a CLAUDE.md convention file", and its body links three: `sources/CLAUDE.md` for the source-authority tiers, `sources/book-of-mormon/CLAUDE.md` for the two-artifact rule, and — from `sources/book-of-mormon/abstraction-map.md` — `commentary/CLAUDE.md` for the linear commentary.
+OVERVIEW.md's own front matter says "every structural claim traces to a CLAUDE.md convention file", and its body links three: `sources/CLAUDE.md` for the source-authority tiers, `sources/book-of-mormon/CLAUDE.md` for the two-artifact rule, and — from `pages/book-chapter/my-faith/sources/book-of-mormon/abstraction-map.book-chapter.md` — `commentary/CLAUDE.md` for the linear commentary.
 
-None resolves. `git ls-files "my-faith/**CLAUDE.md"` in `~/books` returns nothing. `sources/` holds only `book-of-mormon/`, and `sources/book-of-mormon/` holds only `abstraction-map.md` — there is no `commentary/` directory at all, so the two-artifact rule has one artifact.
+None resolves. `find . -name 'CLAUDE.md'` over akasha returns only `infra/eso-rig/CLAUDE.md`. `pages/book-chapter/my-faith/sources/` holds only `book-of-mormon/`, and `pages/book-chapter/my-faith/sources/book-of-mormon/` holds only `abstraction-map.book-chapter.md` — there is no `commentary/` directory at all, so the two-artifact rule has one artifact.
 
 The convention files are not deleted, they are quarantined in the instructions repo as `dirty/code/packages-books-my-faith-sources-claude.md`, `dirty/code/packages-books-my-faith-sources-book-of-mormon-claude.md` and `dirty/code/packages-books-my-faith-sources-book-of-mormon-commentary-claude.md`, alongside `packages-books-my-faith-claude.md`. `dirty/` is queued for removal, so the conventions go with the sweep unless something moves them.
 
