@@ -2,8 +2,8 @@ import { resolve } from "node:path"
 import { type Held, foldersHere, named } from "../../../file-structure/folder/folder.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
-export const folderCodeOrSubfolders = {
-  slug: "folder-code-or-subfolders",
+export const folderHasOneCodeFileBesideSubfolders = {
+  slug: "folder-has-one-code-file-beside-subfolders",
   needs: "tree",
   cached: false,
   run: ({ root }) => {
@@ -22,4 +22,4 @@ export const folderCodeOrSubfolders = {
   },
 } satisfies Check
 
-export default folderCodeOrSubfolders
+export default folderHasOneCodeFileBesideSubfolders
