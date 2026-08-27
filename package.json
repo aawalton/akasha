@@ -7,7 +7,8 @@
     "native-shell/atlas",
     "lua-compiler",
     "lua-compiler/vendor/*",
-    "alanwalton/calendar-sync"
+    "alanwalton/calendar-sync",
+    "alanwalton/chess"
   ],
   "dependencies": {
     "@vscode/ripgrep": "^1.18.0",
