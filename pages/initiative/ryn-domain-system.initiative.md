@@ -11,6 +11,10 @@ parent-slug: aine-global
 
 A folder arrangement shape's status is worked out from the check it names.
 
+Every folder matches a folder arrangement shape.
+
+A change that would leave a folder matching no folder arrangement shape is refused.
+
 # Notes
 
 `domain/domain-system` holds one intent line today, which this initiative would take off the
