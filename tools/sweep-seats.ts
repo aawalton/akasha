@@ -1,11 +1,11 @@
 export const tool = {
   summary: "Name every running seat holding no unfinished assignment",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
-import { MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
+import { akashaRoot } from "../repo/roots/roots"
 import { frontmatterOf, seatPagePaths, seatPresence, type SeatPresence } from "./lib/seat-presence-read.ts"
 import { statedOf } from "./lib/seat-stated.ts"
 import { type Sources, initiativeFinishedIn, readSeat } from "./lib/seat-sweep.ts"
@@ -17,7 +17,7 @@ Reports three classes in one run, from one reading of the fleet:
   presence-uncertain  a seat page whose presence could not be read either way
   running-unassigned  a live seat holding no unfinished assignment
 
-The population is the seat pages standing in the memory repository. A seat's page stands while
+The population is the seat pages standing in akasha. A seat's page stands while
 an agent is present in it and goes when none is, so a page with nobody in it is the first class
 above rather than a seat to judge. Nothing here reads a row.
 
@@ -86,13 +86,11 @@ export async function main(argv: readonly string[]): Promise<number> {
     }
   }
 
-  const roots = resolveRoots()
-
   const seats = seatsStanding()
   const stated = new Map(seats.map((seat) => [seat.id, statedOf(seat.id)]))
 
   const from: Sources = {
-    initiativeFinished: initiativeFinishedIn(rootFor(roots, MEMORY)),
+    initiativeFinished: initiativeFinishedIn(akashaRoot()),
   }
 
   const findings: Finding[] = []
