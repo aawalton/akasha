@@ -9,8 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- A page names the file implementing it.
-- Nothing works out where a page's code sits for itself.
 - Every node type and edge type the graph carries is worth what it costs.
 - No node the graph holds asserts something that is not true.
 - No edge the graph draws asserts something that is not true.
@@ -75,7 +73,7 @@ Three edge types, from the union's 83: `import`, `relation`, `contains`. All thr
 
 `names` is dropped. It was drawn up to absorb seventeen old types, and most of those went with the node types they joined; what remained had no reader and was never built.
 
-`file-kind` is not an edge. A file's format is an attribute on the file, by Alan's ruling on 2026-08-27, and an edge to the kind's page would state the same fact a second time. The `file-name` producer and the `file-kind` edge go; the name matching they used stays, being what tells the write path whether a body is bytes.
+`file-kind` is not an edge. A file's format is an attribute on the file, by Alan's ruling on 2026-08-27, and an edge to the kind's page would state the same fact a second time. The `file-name` producer and the `file-kind` edge are gone; the name matching they used remains in `page/file-kind/`, being what tells the write path whether a body is bytes.
 
 `path` collapses into `relation`, by Alan's ruling on 2026-08-27. Both are read by walking the property definitions and reading a frontmatter key, and with `file` and `folder` the only node types, a page is a file, so the ends do not differ either. Which key named the other end, and whether it resolved as a page or as a path, are attributes.
 
