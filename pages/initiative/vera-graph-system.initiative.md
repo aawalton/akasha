@@ -100,11 +100,9 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 # Notes
 
-Forty pages have a `.ts` sharing their folder and stem: 18 `command`, 14 `check`, 5 `graph-edge-producer`, 1 `graph-node-producer`, and one each of `graph-edge` and `domain`. The last two are collisions rather than pairs, and are the false edges the declaration removes.
+Two pages have a `.ts` sharing their folder and stem: `graph/edge/file-kind.graph-edge.md` and `readouts/ring/ring.domain.md`. Both are collisions rather than pairs, so every edge the `beside` producer now draws is false and none of the true pairs draws one.
 
 Three places work out where a page's code sits, each for itself: `checks-system/checks.ts`, `tools/ops/akasha.ts`, and the `loader` producer, which duplicates `beside.ts` line for line before emitting an `import` edge.
-
-`page-type/check` and `domain/the-graph` both write the beside convention as an invariant. Those lines change when the attachment lands, and each changed line goes to Alan first.
 
 `tools/required-reading.ts` builds four maps in one loop — by repository and path, by file extension, by file-purpose ending, and by body-section heading — and each takes a plain `set`, so a second page claiming a key another page already holds silently replaces it. Two `readout-widget` pairs do, leaving one page of each pair unwarranted. A declaration that is displaced reads exactly like one never written, which is what makes it expensive to find.
 
@@ -114,9 +112,9 @@ Three places work out where a page's code sits, each for itself: `checks-system/
 
 `tools/hooks/block-whole-suite-run.sh` and `tools/hooks/state-errand.ts` are registered in `settings/agents.json` with no page of any type.
 
-The 28 hooks split seventeen `.ts` and eleven `.sh`, while `attachment` takes one extension rather than a set. No attachment key anywhere on disk spans two extensions, so the hooks would be the first.
+The hooks split `.ts` and `.sh`, while `attachment` takes one extension rather than a set. No attachment key anywhere on disk spans two extensions, so the shell hooks become TypeScript rather than the declaration becoming plural, by Alan's ruling on 2026-08-27.
 
-Four hook pages — `hold-seat`, `block-unread-writes`, `block-code-comments` and `block-memory-writes` — are registered nowhere this repository reaches, though the first two gate every write made from a seat. Renaming their files would disable them with nothing here to repair it.
+A renamed code file draws no relation edge, an attachment being `type: text` and the frontmatter producer drawing from a property's type. The `beside` producer meanwhile matches no true pair, every one having lost the bare `{stem}.ts` it looked for. Both facts hold until an attachment property draws an edge to the file it names.
 
 The named suites report twenty-three failures in three groups, none of them this initiative's: fixtures naming `repos/instructions` after the fold, `relation-resolves` fixtures carrying no `page-type` page since the registry was rebuilt from the index, and an `ops mv` error message reworded without its test.
 
