@@ -11,6 +11,7 @@ export interface FileTree {
   readonly open: Open
   readonly repoOf: (slug: string) => string | null
   readonly root?: string
+  readonly roots?: Roots
   readonly pending?: ReadonlySet<string>
 }
 
@@ -43,6 +44,7 @@ function builtSpanningTree(roots: Roots): FileTree {
   }
   return {
     root: roots["instructions"] ?? "",
+    roots,
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
     open: openIn,

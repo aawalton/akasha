@@ -1,8 +1,9 @@
 import { createHash } from "node:crypto"
 import { existsSync } from "node:fs"
 import { gitCapped } from "../../repo/git/git.ts"
-import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
+import { AKASHA, akashaRoot, REPOS } from "../../repo/roots/roots.ts"
 import type { FileTree } from "../file-tree.ts"
+import type { Roots } from "../page.ts"
 import { folderIn, PAGE_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../page-types.ts"
 
 export const CODE_DIRS: readonly string[] = [
@@ -22,6 +23,8 @@ export const CODE_SEEDS: readonly string[] = [
   "page/property/value.ts",
   "page/shape/shape.ts",
 ]
+
+const PAGE_TYPE_NAMED: readonly string[] = ["*.page-type.md", "*.rules-engine-rule-set.md"]
 
 interface Ground {
   readonly base: string
@@ -56,6 +59,19 @@ function blobsUnder(root: string, dirs: readonly string[]): ReadonlyMap<string, 
   return blobs
 }
 
+function blobsNamed(root: string): ReadonlyMap<string, string> | null {
+  const listed = gitCapped(root, ["ls-files", "-s", "--", ...PAGE_TYPE_NAMED])
+  if (listed.code !== 0) return null
+  const blobs = new Map<string, string>()
+  for (const line of listed.stdout.split("\n")) {
+    if (line === "") continue
+    const [head, at] = line.split("\t")
+    const oid = head?.split(" ")[1]
+    if (at !== undefined && oid !== undefined) blobs.set(at, oid)
+  }
+  return blobs
+}
+
 function ownCodeParts(): readonly string[] | null {
   const root = akashaRoot()
   const dirs = presentIn(root, CODE_DIRS)
@@ -82,13 +98,58 @@ export function groundOverCommit(root: string): Ground | null {
   return { base: parts.join("\n"), blobs }
 }
 
+function repoParts(
+  repo: string,
+  root: string
+): { readonly parts: readonly string[]; readonly blobs: ReadonlyMap<string, string> } | null {
+  if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...PAGE_TYPE_NAMED]).code !== 0) return null
+  const blobs = blobsNamed(root)
+  if (blobs === null) return null
+  const parts = [...blobs.keys()].sort().map((at) => `${repo}/${at}:${blobs.get(at)}`)
+  const dirs = presentIn(root, PAGE_SHAPE_GLOBS)
+  if (dirs.length > 0) {
+    const oids = recordedAt(root, dirs)
+    if (oids === null) return null
+    if (!matchesCommit(root, dirs)) return null
+    parts.push(...dirs.map((at, index) => `${repo}/${at}:${oids[index]}`))
+  }
+  return { parts, blobs }
+}
+
+export function groundSpanning(roots: Roots): Ground | null {
+  const own = ownCodeParts()
+  if (own === null) return null
+  const parts: string[] = []
+  const blobs = new Map<string, string>()
+  for (const repo of REPOS) {
+    const root = roots[repo]
+    if (root === undefined) continue
+    const one = repoParts(repo, root)
+    if (one === null) return null
+    parts.push(...one.parts)
+    for (const [at, oid] of one.blobs) blobs.set(at, oid)
+  }
+  if (blobs.size === 0) return null
+  parts.push(...own)
+  parts.push(`bun:${Bun.version}`)
+  return { base: parts.join("\n"), blobs }
+}
+
 const grounds = new WeakMap<FileTree, Ground | null>()
 
 function groundOf(tree: FileTree): Ground | null {
   const held = grounds.get(tree)
   if (held !== undefined) return held
   const root = tree.root
-  const made = root === undefined || (tree.pending?.size ?? 0) > 0 ? null : groundOverCommit(root)
+  const spanned = tree.roots
+  const made =
+    (tree.pending?.size ?? 0) > 0
+      ? null
+      : spanned !== undefined
+        ? groundSpanning(spanned)
+        : root === undefined
+          ? null
+          : groundOverCommit(root)
   grounds.set(tree, made)
   return made
 }
