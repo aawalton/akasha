@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { patchedText, splitValues, type Where } from "../lib/page-write.ts"
-import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const roots = resolveRoots()
 
@@ -9,10 +9,10 @@ const TYPE = "branch"
 const RELPATH = "pages/branch/zz-probe.md"
 
 const AT: Where = {
-  root: rootFor(roots, MEMORY),
-  repo: "memory",
+  root: rootFor(roots, AKASHA),
+  repo: "akasha",
   relPath: RELPATH,
-  path: `${rootFor(roots, MEMORY)}/${RELPATH}`,
+  path: `${rootFor(roots, AKASHA)}/${RELPATH}`,
 }
 
 const STANDING =
