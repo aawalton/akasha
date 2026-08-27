@@ -114,7 +114,7 @@ The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-
 
 `file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
-`edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. `contains` is the only one answering directly today, at 2,000 separate asks in 3ms against 581ms for one `import` ask over 89,648 nodes. The targeting line is aimed at the producers still walked.
+`edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. Asked about 2,240 nodes, `relation` answers from the reverse index in 1,135ms against 4,504ms for the walk, and the two answers are the same set; asked about five it is 197ms against 4,428ms. `graph/ask.unit.test.ts` fell from 8.6s to 635ms on it.
 
 The `Said` memo at `build-context.ts` is the one held answer today, keyed by a file's git blob oid and a mark hashing the graph engine's own import closure, so it drops itself when an extractor changes.
 
@@ -130,7 +130,7 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 
 The `frontmatter` producer is gone, replaced by the `relation` producer, which reads the pages index rather than deriving the same facts a second time. Its forward answer is the pages system's own `reachedFrom` over `relations.json` and `pages.jsonl`, so the declaration walk, the inheritance walk and the target resolution the graph kept a second copy of went with it. It emits 124,755 edges where the old producer emitted 121,824, and everything it adds is `link`. Of the 124,768 relations the pages system reaches, 13 are dropped for naming a path no tracked file is at, all of them links; `links-resolve` is what reports those.
 
-`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. Only `contains` offers one today.
+`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, which is how `relation` handles a drifted index. `relation` and `contains` both answer; `typescript` and `loader` are still walked.
 
 Every producer's held answers are filed under one mark hashing the whole engine's import closure, so registering `contains` dropped all 59,376 answers held by `typescript`, which does not import it. Filed at `finding/graph-system/one-mark-drops-every-producers-answers`.
 
