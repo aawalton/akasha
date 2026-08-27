@@ -1,6 +1,6 @@
 
 export const summary =
-  "Write one addon's ESO load-order manifest and build-id stamp into the code repo's addon dist tree"
+  "Write one addon's ESO load-order manifest and build-id stamp into this repository's addon dist tree"
 
 import { existsSync } from "node:fs"
 import { mkdir, writeFile } from "node:fs/promises"
@@ -25,9 +25,9 @@ const BUILD_ID_FILE = "build-id.lua"
 
 export const help: CommandHelp = {
   description:
-    "Read one addon's `addon.json` and `tsconfig.json` out of a code checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `packages/temper/addons/dist/<name>/`.\n" +
+    "Read one addon's `addon.json` and `tsconfig.json` out of a checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `packages/temper/addons/dist/<name>/`.\n" +
     "\n" +
-    "Both written files are build output of the code repo, untracked there, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
+    "Both written files are build output, untracked, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
     "`TemperCatalog` alone takes its `## APIVersion:` from the pages system rather than from its `addon.json`, as the lowest version any active catalog domain declares its generator last ran for.",
   flags: [
@@ -43,7 +43,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout read and written. The addon resolver this reads is loaded from the main checkout either way.",
+        "The checkout read and written (defaults to $CODE_ROOT, else this repository). The addon resolver this reads is loaded from the main checkout either way.",
     },
   ],
   examples: ["ops temper addon generate-load-order --addon TemperCharacters"],

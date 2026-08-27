@@ -1,6 +1,6 @@
 
 export const summary =
-  "Install one built addon from the code repo's dist tree into this workstation's live ESO AddOns folder"
+  "Install one built addon from this repository's dist tree into this workstation's live ESO AddOns folder"
 
 import { createHash } from "node:crypto"
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
@@ -38,9 +38,9 @@ const ADDONS_REL_ROOT = "packages/temper/addons"
 
 export const help: CommandHelp = {
   description:
-    "Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a code checkout's `packages/temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.\n" +
+    "Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a checkout's `packages/temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.\n" +
     "\n" +
-    "Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, which is why this stands here rather than in the code repo, where only what a deploy carries belongs.\n" +
+    "Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, so this is workstation tooling rather than anything a deploy carries.\n" +
     "\n" +
     "A folder carrying no `build-id.lua` was installed by something other than Temper. It is left alone where it satisfies every version floor this fleet declares, and refused rather than deleted where it does not, or where its version cannot be read at all — refusing to destroy somebody else's addon on missing evidence.\n" +
     "\n" +
@@ -58,7 +58,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout installed from. The addon resolver this reads is loaded from the main checkout either way.",
+        "The checkout installed from (defaults to $CODE_ROOT, else this repository). The addon resolver this reads is loaded from the main checkout either way.",
     },
   ],
   examples: ["ops temper addon install --addon TemperCharacters"],

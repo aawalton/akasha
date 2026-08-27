@@ -1,6 +1,6 @@
 
 export const summary =
-  "Copy one addon's manifest, XML, assets and sibling folders into the code repo's addon dist tree"
+  "Copy one addon's manifest, XML, assets and sibling folders into this repository's addon dist tree"
 
 import { existsSync } from "node:fs"
 import { copyFile, cp, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
@@ -27,7 +27,7 @@ export const help: CommandHelp = {
   description:
     "Write one addon's load order, then copy every non-Lua file it ships — its `<name>.xml` and `Bindings.xml`, the extra Lua files its manifest names, every directory under `metadata/`, its declared assets and bundle XML, and each sibling addon folder — into that checkout's `packages/temper/addons/dist/`.\n" +
     "\n" +
-    "Everything written is build output of the code repo, untracked there, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
+    "Everything written is build output, untracked, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
     "An addon whose `<name>.xml` or `Bindings.xml` is absent gets an empty one written, because ESO reads a named file rather than an optional one. A declared sibling folder that is not there is refused rather than skipped.",
   flags: [
@@ -43,7 +43,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout read and written. The addon resolver this reads is loaded from the main checkout either way.",
+        "The checkout read and written (defaults to $CODE_ROOT, else this repository). The addon resolver this reads is loaded from the main checkout either way.",
     },
   ],
   examples: ["ops temper addon copy-metadata --addon TemperCharacters"],
