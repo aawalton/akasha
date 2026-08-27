@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: nimue-akasha-repo
 errand: "I restarted you as well, so we should be safe for cleanup now"
 registration-account: aawalton
 claude-code-session-uuid: ddbafaa0-2262-4f9a-bcb2-b70f04170b5b
