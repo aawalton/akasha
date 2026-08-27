@@ -21,3 +21,5 @@ A case row matches only where its test answers true.
 `??` answers its left side, or its right where its left is absent.
 
 Dividing by zero answers absent.
+
+A text literal answers absent where any reference in it is absent.
