@@ -1,0 +1,55 @@
+{
+  "workspaces": {
+    "packages/alanwalton/atlas/web": {
+      "entry": [
+        "app/**/*.{ts,tsx}",
+        "tunnel-routes.ts",
+        "react-router.config.ts",
+        "vite.config.ts",
+        "server.ts",
+        "*.workflow.ts",
+        "deploy/k8s/**/*.ts",
+        "scripts/**/*.script.ts",
+        "scripts/**/*.test.ts"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/alanwalton/health-samples/access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/alanwalton/sms/access": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/alanwalton/voice/core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/alanwalton/web": {
+      "entry": [
+        "app/**/*.{ts,tsx}",
+        "app-capacitor/**/*.{ts,tsx}!",
+        "tunnel-routes.ts",
+        "react-router.config.ts",
+        "vite.config.ts",
+        "*.workflow.ts"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+
+import { appendFile, mkdir } from "node:fs/promises"
+import { seatNameForSupervisorPid } from "./seat-presence-read.ts"
+import { shape } from "./shape.ts"
+import { type Infer } from "./shape-core"
+
+const MS_PER_MINUTE = 60_000
+
+export const TypingMinuteRecordSchema = shape.object({
+  minute: shape.number().finite(),
+  seat: shape.string().min(1),
+})
+
+export type TypingMinuteRecord = Infer<typeof TypingMinuteRecordSchema>
+
+export function typingSpoolDir(): string {
+  const home = shape.string().default("/home/walton").parse(process.env.HOME)
+  return `${home}/.cache/alan-typing-minutes`
+}
+
+export function minuteIndex(ms: number): number {
+  return Math.floor(ms / MS_PER_MINUTE)
+}
+
+function dayKeyForMinute(index: number): string {
+  const d = new Date(index * MS_PER_MINUTE)
+  const year = String(d.getFullYear()).padStart(4, "0")
+  const month = String(d.getMonth() + 1).padStart(2, "0")
+  const day = String(d.getDate()).padStart(2, "0")
+  return `${year}-${month}-${day}`
+}
+
+export function spoolFileForMinute(index: number): string {
+  return `${typingSpoolDir()}/${dayKeyForMinute(index)}.jsonl`
+}
+
+export function spoolLine(record: TypingMinuteRecord): string {
+  return `${JSON.stringify(record)}\n`
+}
+
+export function parseSpool(contents: string): {
+  readonly records: readonly TypingMinuteRecord[]
+  readonly dropped: number
+} {
+  const records: TypingMinuteRecord[] = []
+  let dropped = 0
+  for (const line of contents.split("\n")) {
+    if (line.trim() === "") continue
+    const record = parseSpoolLine(line)
+    if (record === undefined) {
+      dropped += 1
+    } else {
+      records.push(record)
+    }
+  }
+  return { records, dropped }
+}
+
+function parseSpoolLine(line: string): TypingMinuteRecord | undefined {
+  try {
+    const parsed = TypingMinuteRecordSchema.safeParse(JSON.parse(line))
+    return parsed.success ? parsed.data : undefined
+  } catch {
+    return undefined
+  }
+}
+
+export function selectShippable(
+  records: readonly TypingMinuteRecord[],
+  shippedThrough: number,
+  throughMinute: number
+): readonly TypingMinuteRecord[] {
+  const seen = new Set<string>()
+  const out: TypingMinuteRecord[] = []
+  for (const record of records) {
+    if (record.minute <= shippedThrough) continue
+    if (record.minute > throughMinute) continue
+    const key = `${record.minute} ${record.seat}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    out.push(record)
+  }
+  out.sort((a, b) => a.minute - b.minute || a.seat.localeCompare(b.seat))
+  return out
+}
+
+export function distinctMinutes(records: readonly TypingMinuteRecord[]): number {
+  return new Set(records.map((r) => r.minute)).size
+}
+
+function readSeatName(pid: number): Promise<string | undefined> {
+  return Promise.resolve(seatNameForSupervisorPid(pid) ?? undefined)
+}
+
+export interface TypingMinuteRecorder {
+  readonly note: (ms: number) => undefined
+}
+
+export interface TypingMinuteRecorderOptions {
+  readonly pid: number
+  readonly append?: (index: number, line: string) => Promise<void>
+  readonly resolveSeat?: (pid: number) => Promise<string | undefined>
+}
+
+const defaultAppend = async (index: number, line: string): Promise<void> => {
+  await mkdir(typingSpoolDir(), { recursive: true })
+  await appendFile(spoolFileForMinute(index), line, "utf8")
+}
+
+export function createTypingMinuteRecorder(
+  options: TypingMinuteRecorderOptions
+): TypingMinuteRecorder {
+  const append = options.append ?? defaultAppend
+  const resolveSeat = options.resolveSeat ?? readSeatName
+  let lastMinute = Number.NEGATIVE_INFINITY
+
+  return {
+    note(ms: number): undefined {
+      const index = minuteIndex(ms)
+      if (index === lastMinute) return
+      lastMinute = index
+      void (async (): Promise<void> => {
+        try {
+          const seat = await resolveSeat(options.pid)
+          if (seat === undefined) return
+          await append(index, spoolLine({ minute: index, seat }))
+        } catch {
+        }
+      })()
+    },
+  }
+}

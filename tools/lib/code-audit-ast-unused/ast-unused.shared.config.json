@@ -1,0 +1,243 @@
+{
+  "workspaces": {
+    "packages/shared/auth": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/design/badges": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/design/forms": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/design/layout": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/design/patterns": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/design/primitives": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/design/system": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/monarch-categorization-access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/object-store": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/pages/access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/pages/core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/pages/ui": {
+      "entry": [
+        "**/*.test.{ts,tsx}",
+        "test/**/*.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    },
+    "packages/shared/pages/ui-store": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/pages/url": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/person-access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/person-authority": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/person-document": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/person-enrolment": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/person-target": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/recurrence": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/status-bar-access": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/supabase/auth": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/supabase/client": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/supabase/database": {
+      "entry": [],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/supabase/rr": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/supabase/server": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/utils/narrow": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/utils/sync": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/utils/test": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/verdict": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    },
+    "packages/shared/pages/query": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    }
+  }
+}

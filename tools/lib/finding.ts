@@ -1,0 +1,116 @@
+
+import { readFileSync } from "node:fs"
+import type { Repo } from "../../page/document/types.ts"
+import { dataError } from "./exit.ts"
+import { parseFrontmatter } from "../../page/frontmatter.ts"
+import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
+import { filedIn, pageTypePathIn, placeDirOf } from "../../page/page-types.ts"
+import { scan } from "./seat-resolve.ts"
+
+export const DOMAIN_KEY = "domain-slug"
+
+export const PAGE_TYPE_KEY = "page-type-slug"
+
+const FINDING = "finding"
+
+const DELIMITER = "---"
+
+const KEBAB = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
+
+export function findingsDirIn(root: string): string {
+  return placeDirOf(FINDING)
+}
+
+export function findingPathIn(root: string, domain: string, slug: string): string {
+  const dir = `${findingsDirIn(root)}/${domain}`
+  return pageFileIn(root, dir, slug) ?? `${dir}/${slug}.${FINDING}${MARKDOWN}`
+}
+
+export function findingRepo(instructionsRoot: string): Repo {
+  const relPath = pageTypePathIn(instructionsRoot, FINDING)
+  let stated: string
+  try {
+    stated = readFileSync(`${instructionsRoot}/${relPath}`, "utf8")
+  } catch (err) {
+    throw dataError(
+      `${relPath} could not be read from ${instructionsRoot}, and it is what says which repository ` +
+        `a finding stands in: ${err instanceof Error ? err.message : String(err)}`
+    )
+  }
+  const filed = filedIn(parseFrontmatter(stated))
+  const only = filed === null || filed.length !== 1 ? null : (filed[0]?.repo ?? null)
+  if (only === null) {
+    throw dataError(
+      `${relPath} declares no \`files: <repo>:<glob>\`, so nothing says which repository a finding ` +
+        "stands in and this refuses rather than guess"
+    )
+  }
+  return only as Repo
+}
+
+export function kebabRefusal(slug: string): string | null {
+  if (KEBAB.test(slug)) return null
+  return (
+    `\`${slug}\` is not kebab-case, and a finding's file name is — lower-case words joined by ` +
+    `single hyphens, as \`bounds-unsized\` and \`select-options-unenforced\` are`
+  )
+}
+
+export function declaredDomains(root: string): ReadonlyMap<string, string> {
+  return scan(root).slugs
+}
+
+function distance(one: string, two: string): number {
+  let row = Array.from({ length: two.length + 1 }, (_, i) => i)
+  for (let i = 1; i <= one.length; i += 1) {
+    const next = [i]
+    for (let j = 1; j <= two.length; j += 1) {
+      const substitution = (row[j - 1] as number) + (one[i - 1] === two[j - 1] ? 0 : 1)
+      next.push(Math.min(substitution, (row[j] as number) + 1, (next[j - 1] as number) + 1))
+    }
+    row = next
+  }
+  return row[two.length] as number
+}
+
+export function undeclaredRefusal(domain: string, declared: ReadonlyMap<string, string>): string | null {
+  if (declared.has(domain)) return null
+  const near = [...declared.keys()]
+    .map((slug) => ({ slug, at: distance(domain, slug) }))
+    .sort((a, b) => a.at - b.at || a.slug.localeCompare(b.slug))
+    .slice(0, 5)
+    .map((one) => one.slug)
+  return (
+    `no document declares \`slug: ${domain}\`, so a finding keyed to it would reach nobody — ` +
+    `${declared.size} domain(s) are declared, nearest: ${near.join(", ")}. Declare the domain first ` +
+    `if it is genuinely new; \`bun ~/repos/instructions/tools/dag.ts\` prints the map`
+  )
+}
+
+export function composeFinding(domain: string, title: string, claim: string, evidence: string): string {
+  const said = title.trim().replace(/"/g, '\\"')
+  const front = `---\n${PAGE_TYPE_KEY}: ${FINDING}\ntitle: "${said}"\n${DOMAIN_KEY}: ${domain}\n---`
+  return `${front}\n\n# Claim\n\n${claim.trim()}\n\n# Evidence\n\n${evidence.trim()}\n`
+}
+
+export type Splice = { readonly body: string; readonly declared: string } | { readonly refusal: string }
+
+export function withDomainKey(body: string, domain: string): Splice {
+  const fm = parseFrontmatter(body)
+  if (fm.error !== null) return { refusal: `its frontmatter could not be read — ${fm.error}` }
+  if (!fm.present) return { refusal: "it declares no frontmatter, so it holds no `domain-slug:` to rewrite" }
+  const lines = body.split("\n")
+  const close = lines.findIndex((line, index) => index > 0 && line === DELIMITER)
+  if (lines[0] !== DELIMITER || close === -1) {
+    return { refusal: "it opens a frontmatter block this cannot find the edges of" }
+  }
+  const at = lines.findIndex(
+    (line, index) => index > 0 && index < close && line.startsWith(`${DOMAIN_KEY}:`)
+  )
+  if (at === -1) return { refusal: `it declares no \`${DOMAIN_KEY}:\`, so it is not a finding a rehome can move` }
+  const declared = (lines[at] as string).slice(DOMAIN_KEY.length + 1).trim()
+  return {
+    body: [...lines.slice(0, at), `${DOMAIN_KEY}: ${domain}`, ...lines.slice(at + 1)].join("\n"),
+    declared,
+  }
+}

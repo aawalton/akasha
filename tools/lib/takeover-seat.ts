@@ -1,0 +1,67 @@
+
+import { dataError, operationalError } from "./exit.ts"
+import { liveAgentPidsFromProc } from "./decide-proc-liveness.ts"
+import { decideKillTarget } from "./kill-target-plan.ts"
+import { terminatePidsEscalating } from "./process-termination.ts"
+import { scanProcEntries } from "./proc-scan.ts"
+import { SEAT_START_DIR } from "./supervisor-config.ts"
+import { seatRecord } from "./seat-facts.ts"
+import { resolveSeatTarget } from "./seat-handle.ts"
+import { resolveSessionIdByAgentId } from "./seat-session-resolve.ts"
+import { materializeLocalTranscript } from "./transcript-materialize.ts"
+
+export interface TakenSeat {
+  readonly agentId: string
+  readonly name: string | null
+  readonly sessionId: string
+  readonly tookOver: boolean
+}
+
+export async function resolveTakeoverTarget(target: string): Promise<string> {
+  const resolved = resolveSeatTarget(target)
+  if ("error" in resolved) throw dataError(resolved.error)
+  return resolved.id
+}
+
+async function stopHolder(pids: readonly number[], name: string | null): Promise<boolean> {
+  const outcome = await terminatePidsEscalating(pids)
+  if (!outcome.signaled) return false
+  if (!outcome.allExited) {
+    throw operationalError(
+      `supervisor process(es) ${pids.join(", ")} for '${name}' did not exit within the poll ` +
+        "budget — not handing off to avoid two supervisors on one session"
+    )
+  }
+  return true
+}
+
+export async function takeoverSeat(agentId: string): Promise<TakenSeat> {
+  const sess = await resolveSessionIdByAgentId(agentId)
+  if ("error" in sess) throw dataError(sess.error)
+  const sessionId = sess.session
+
+  const seat = seatRecord(agentId)
+  const name = seat?.name ?? null
+  const livePids = liveAgentPidsFromProc(scanProcEntries().entries)
+  const killTarget = decideKillTarget({
+    supervisorPid: seat?.supervisorPid ?? null,
+    supervisorStands: seat?.presence === "present",
+    procPidsForId: livePids.get(agentId) ?? [],
+    seatName: name,
+    selfPid: process.pid,
+  })
+
+  const tookOver =
+    killTarget.kind === "signal" ? await stopHolder(killTarget.pids, name) : false
+
+  try {
+    await materializeLocalTranscript({ agentId, sessionId, cwd: SEAT_START_DIR })
+  } catch (err) {
+    process.stderr.write(
+      `no stored transcript for agent ${agentId}; the resume may fail: ` +
+        `${err instanceof Error ? err.message : String(err)}\n`
+    )
+  }
+
+  return { agentId, name, sessionId, tookOver }
+}

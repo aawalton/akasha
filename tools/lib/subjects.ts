@@ -1,0 +1,253 @@
+
+import { readdirSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import { DOMAIN_SLUG_KEY, stemOf } from "./domain.ts"
+import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { placesIn, scanIn, soleRepoOf } from "../../page/page-types.ts"
+import { type Roots } from "../../page/page"
+import { isDirty, resolveRoots } from "../../repo/roots/roots"
+import { isRowsFile } from "../../page/rows-file.ts"
+import { isAttachmentFile } from "../../page/attachment-file.ts"
+
+const DOC = ".md"
+
+function isDocument(relPath: string): boolean {
+  return relPath.endsWith(DOC) && !isAttachmentFile(relPath) && !isRowsFile(relPath)
+}
+
+export const SUBJECTS = ["personas", "persons", "roles", "tasks", "domains"] as const
+
+export type Subject = (typeof SUBJECTS)[number]
+
+export function isSubject(value: string): value is Subject {
+  return (SUBJECTS as readonly string[]).includes(value)
+}
+
+export interface SubjectRecord {
+  readonly slug: string
+  readonly path: string
+  readonly frontmatter: Readonly<Record<string, unknown>>
+  readonly championedDomain?: string
+  readonly defaultRole?: string
+  readonly body?: string
+}
+
+export interface SubjectReading {
+  readonly subject: Subject
+  readonly root: string
+  readonly records: readonly SubjectRecord[]
+  readonly unnamed: readonly string[]
+}
+
+export class DeadRead extends Error {}
+
+function documentsUnder(
+  root: string,
+  relDir: string,
+  what: string,
+  skipDirty: boolean
+): readonly string[] {
+  const out: string[] = []
+  const walk = (at: string): undefined => {
+    for (const entry of readdirSync(join(root, at), { withFileTypes: true }).sort((a, b) =>
+      a.name < b.name ? -1 : 1
+    )) {
+      const rel = at === "" ? entry.name : `${at}/${entry.name}`
+      if (entry.isDirectory()) {
+        if (entry.name === ".git") continue
+        if (skipDirty && isDirty(rel)) continue
+        walk(rel)
+      } else if (entry.isFile() && isDocument(entry.name)) out.push(rel)
+    }
+  }
+  try {
+    walk(relDir)
+  } catch (err) {
+    throw new DeadRead(
+      `\`${join(root, relDir)}\` could not be walked (${err instanceof Error ? err.message : String(err)}), ` +
+        `so no ${what} resolves. That is a dead read rather than a tree with no ${what}s.`
+    )
+  }
+  return out
+}
+
+function blockOf(
+  absolute: string
+): { readonly named: Readonly<Record<string, unknown>>; readonly body: string } | null {
+  let text: string
+  try {
+    text = readFileSync(absolute, "utf8")
+  } catch {
+    return null
+  }
+  const fm = parseFrontmatter(text)
+  if (fm.error !== null) return null
+  const named: Record<string, unknown> = Object.fromEntries(fm.fields)
+  const body = text.replace(/\r\n/g, "\n").split("\n").slice(fm.lineCount).join("\n")
+  return { named, body }
+}
+
+function byDeclaredSlug(
+  root: string,
+  relPaths: readonly string[],
+  personas: boolean,
+  withBody: boolean
+): { readonly records: readonly SubjectRecord[]; readonly unnamed: readonly string[] } {
+  const records: SubjectRecord[] = []
+  const unnamed: string[] = []
+  const seen = new Set<string>()
+  for (const rel of relPaths) {
+    const read = blockOf(join(root, rel))
+    if (read === null) continue
+    const block = read.named
+    const carried = withBody ? { body: read.body } : {}
+    const declared = block[DOMAIN_SLUG_KEY]
+    const slug = typeof declared === "string" ? declared.trim() : ""
+    if (slug === "") {
+      unnamed.push(rel)
+      continue
+    }
+    if (seen.has(slug)) continue
+    seen.add(slug)
+    if (!personas) {
+      records.push({ slug, path: rel, frontmatter: block, ...carried })
+      continue
+    }
+    const championed = typeof block["championed-domain-slug"] === "string" ? block["championed-domain-slug"].trim() : ""
+    const role = typeof block["role-slug"] === "string" ? block["role-slug"].trim() : ""
+    records.push({
+      slug,
+      path: rel,
+      frontmatter: block,
+      ...(championed === "" ? {} : { championedDomain: championed }),
+      ...(role === "" ? {} : { defaultRole: role }),
+      ...carried,
+    })
+  }
+  return { records: records.sort((a, b) => (a.slug < b.slug ? -1 : 1)), unnamed }
+}
+
+function byStem(
+  root: string,
+  relPaths: readonly string[],
+  what: string,
+  withBody: boolean
+): readonly SubjectRecord[] {
+  const at = new Map<string, string[]>()
+  for (const rel of relPaths) {
+    const stem = stemOf(rel)
+    at.set(stem, [...(at.get(stem) ?? []), rel])
+  }
+  const shared = [...at].filter(([, found]) => found.length > 1)
+  if (shared.length > 0) {
+    throw new DeadRead(
+      `a stem under \`${root}\` must name one document, and these do not — ` +
+        `${shared.map(([stem, found]) => `${stem}: ${found.join(", ")}`).join("; ")}. A seat holds ` +
+        `one ${what} and \`lib/seat-resolve.ts\` refuses such a slug, so handing it back would put ` +
+        "a value in the column that no pin can answer to. Rename one rather than having this choose."
+    )
+  }
+  const records: SubjectRecord[] = []
+  for (const [slug, found] of [...at].sort((a, b) => (a[0] < b[0] ? -1 : 1))) {
+    const rel = found[0]
+    if (rel === undefined) continue
+    const read = blockOf(join(root, rel))
+    if (read === null) continue
+    records.push({
+      slug,
+      path: rel,
+      frontmatter: read.named,
+      ...(withBody ? { body: read.body } : {}),
+    })
+  }
+  return records
+}
+
+interface Home {
+  readonly root: string
+  readonly relPaths: readonly string[]
+}
+
+const TYPE_OF: Readonly<Record<Subject, string>> = {
+  domains: "domain",
+  personas: "persona",
+  persons: "person",
+  roles: "role",
+  tasks: "task",
+}
+
+function homeOf(root: string, subject: Subject, what: string): Home {
+  const slug = TYPE_OF[subject]
+  const roots: Roots = { ...resolveRoots(), instructions: root }
+  const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slug)
+  const repo = type === undefined ? null : soleRepoOf(type)
+  if (type === undefined || repo === null) {
+    throw new DeadRead(
+      `no page type \`${slug}\` states where its files stand, so no ${what} resolves. That is a ` +
+        `dead read rather than a tree with no ${what}s.`
+    )
+  }
+  const home = (roots as unknown as Record<string, string | undefined>)[repo]
+  if (home === undefined) {
+    throw new DeadRead(
+      `\`${slug}\` states its files stand in \`${repo}\`, which names no checkout here, so no ` +
+        `${what} resolves. That is a dead read rather than a tree with no ${what}s.`
+    )
+  }
+  return { root: home, relPaths: scanIn(home, placesIn(type, repo), repo) }
+}
+
+export function readSubject(root: string, subject: Subject, withBody = false): SubjectReading {
+  const one = subject.slice(0, -1)
+  const home = homeOf(root, subject, one)
+  if (subject === "domains") {
+    // A domain slug is declared by pages of many types, not only by `*.domain.md`,
+    // so the whole tree the domain page type names is walked rather than the glob
+    // that page type files its own pages under. Which tree that is was the root
+    // handed in here until `pages/` landed in akasha and this walked an empty one.
+    const walked = byDeclaredSlug(home.root, documentsUnder(home.root, "", one, true), false, withBody)
+    return deadUnless(walked, subject, one, home.root)
+  }
+  const kept = home.relPaths.filter((relPath) => !isDirty(relPath))
+  const found =
+    subject === "personas" || subject === "persons"
+      ? byDeclaredSlug(home.root, kept, subject === "personas", withBody)
+      : { records: byStem(home.root, kept, one, withBody), unnamed: [] }
+  return deadUnless(found, subject, one, home.root)
+}
+
+function deadUnless(
+  found: { readonly records: readonly SubjectRecord[]; readonly unnamed: readonly string[] },
+  subject: Subject,
+  one: string,
+  root: string
+): SubjectReading {
+  if (found.records.length === 0) {
+    throw new DeadRead(
+      `nothing under \`${root}\` names a ${one}, so this read returned none. That is a dead read ` +
+        `rather than a repository with no ${subject}: a ${one} IS a document in this tree, and there ` +
+        "is no state in which it legitimately holds none."
+    )
+  }
+  return { subject, root, records: found.records, unnamed: found.unnamed }
+}
+
+export function slugsOf(root: string, subject: Subject): readonly string[] {
+  return readSubject(root, subject).records.map((record) => record.slug)
+}
+
+export function readCorpora(
+  root: string,
+  subjects: readonly Subject[],
+  withBody = false
+): ReadonlyMap<Subject, SubjectReading> {
+  const wanted = new Set(subjects)
+  return new Map(
+    SUBJECTS.filter((subject) => wanted.has(subject)).map((subject) => [
+      subject,
+      readSubject(root, subject, withBody),
+    ])
+  )
+}

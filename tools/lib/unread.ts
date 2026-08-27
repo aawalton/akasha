@@ -1,0 +1,114 @@
+
+import { existsSync, readFileSync, statSync } from "node:fs"
+import type { Repo } from "../required-reading.ts"
+import { blobId } from "../../repo/git/git.ts"
+import { countLines, firstUnreadLine, ownRead, sameBody } from "./read-log.ts"
+import { fromDisk, refusalText } from "./refusal.ts"
+import { canonicalize } from "../../repo/path/path"
+
+const OWED = "for this path"
+
+function whenText(at: number): string {
+  return new Date(at).toISOString().replace("T", " ").slice(0, 19)
+}
+
+function reading(repo: Repo, relPath: string, absolute: string, from: number, lines: number): string {
+  if (repo !== "code") {
+    const named = repo === "instructions" && !relPath.startsWith("/") ? relPath : absolute
+    const command = `ops read --file-path ${named}`
+    return `\`${command}\` prints what you are missing of it and records the read`
+  }
+  return from === 1
+    ? `Read all ${lines} lines of ${absolute}`
+    : `Read ${absolute} from line ${from} (\`offset: ${from}\`)`
+}
+
+export function remedyFor(
+  agent: string,
+  relPath: string,
+  absolute: string,
+  repo: Repo,
+  root: string
+): string | null {
+  let bytes: Uint8Array
+  let changedAt: number
+  try {
+    if (!existsSync(absolute)) return null
+    bytes = readFileSync(absolute)
+    changedAt = statSync(absolute).mtimeMs
+  } catch (error) {
+    return refusalText(
+      "required-document-unopenable",
+      { path: relPath, error: error instanceof Error ? error.message : String(error) },
+      root,
+      fromDisk
+    )
+  }
+  const lines = countLines(new TextDecoder().decode(bytes))
+  if (lines === 0) return null
+  const canonical = canonicalize(absolute)
+  const entry = ownRead(agent, canonical)
+  const readAt = entry === null ? null : entry.at
+  if (entry === null || readAt === null) {
+    return refusalText(
+      "required-document-unread",
+      { path: relPath, owed: OWED, route: reading(repo, relPath, absolute, 1, lines) },
+      root,
+      fromDisk
+    )
+  }
+  const mark = blobId(bytes)
+  if (!sameBody(entry, mark)) {
+    return refusalText(
+      "required-document-changed",
+      {
+        path: relPath,
+        owed: OWED,
+        read: whenText(readAt),
+        changed: whenText(changedAt),
+        route: reading(repo, relPath, absolute, 1, lines),
+      },
+      root,
+      fromDisk
+    )
+  }
+  const unread = firstUnreadLine(agent, canonical, mark, lines)
+  if (unread === null) return null
+  return refusalText(
+    "required-document-part-read",
+    {
+      path: relPath,
+      owed: OWED,
+      line: `${unread}`,
+      lines: `${lines}`,
+      route: reading(repo, relPath, absolute, unread, lines),
+    },
+    root,
+    fromDisk
+  )
+}
+
+export function lead(
+  relPath: string,
+  repo: Repo,
+  alreadyRead: readonly string[],
+  count: number,
+  record: string,
+  root: string
+): string {
+  const read = alreadyRead.length === 0 ? "none of them" : `${alreadyRead.length} of them (${alreadyRead.join(", ")})`
+  if (repo === "instructions") {
+    return refusalText(
+      "required-reading-unread",
+      { path: relPath, count: `${count}`, read, record },
+      root,
+      fromDisk
+    )
+  }
+  return refusalText(
+    "required-reading-unread-elsewhere",
+    { path: relPath, repo, count: `${count}`, read, record },
+    root,
+    fromDisk
+  )
+}

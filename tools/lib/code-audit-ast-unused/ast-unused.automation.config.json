@@ -1,0 +1,12 @@
+{
+  "workspaces": {
+    "packages/automation/core": {
+      "entry": [
+        "**/*.test.{ts,tsx}"
+      ],
+      "project": [
+        "**/*.ts"
+      ]
+    }
+  }
+}

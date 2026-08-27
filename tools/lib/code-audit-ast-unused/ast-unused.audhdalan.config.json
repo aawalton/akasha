@@ -1,0 +1,16 @@
+{
+  "workspaces": {
+    "packages/audhdalan/web": {
+      "entry": [
+        "app/**/*.{ts,tsx}",
+        "tunnel-routes.ts",
+        "react-router.config.ts",
+        "vite.config.ts",
+        "*.workflow.ts"
+      ],
+      "project": [
+        "**/*.{ts,tsx}"
+      ]
+    }
+  }
+}

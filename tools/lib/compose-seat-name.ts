@@ -1,0 +1,109 @@
+
+import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { CHAMPIONED_DOMAIN_KEY } from "./domain.ts"
+import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { pageRelIn, placeDirOf } from "../../page/page-types.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
+import { stemOf as slugOf } from "../../page/name/name"
+import { documentFor, personaIsDefault } from "./seat-resolve.ts"
+
+export const JOINER = "-"
+
+const DEFAULT_ROLE_KEY = "role-slug"
+
+const IDENTITY_KEY = "identity-slug"
+
+export const FLEX = /^flex-(?:0|[1-9]\d*)$/
+
+export const HANDLER = "handler"
+
+export interface SeatAttributes {
+  readonly persona: string | null
+  readonly domain: string | null
+  readonly role: string | null
+}
+
+export interface SeatAssignments {
+  readonly task: string | null
+}
+
+export const FLEET = "agent"
+
+// The person pages have moved into akasha and every caller here still hands in
+// the instructions root. Look where the caller names first and where they now
+// stand second, so no seat is refused its principal over a page that exists.
+export function personPrincipals(root: string): readonly string[] {
+  for (const at of [`${root}/${placeDirOf("person")}`, `${akashaRoot()}/${placeDirOf("person")}`]) {
+    if (!existsSync(at)) continue
+    const found = [...new Set(readdirSync(at).filter((one) => one.endsWith(".md")).map(slugOf))].sort()
+    if (found.length > 0) return found
+  }
+  return []
+}
+
+export function principalsFrom(persons: readonly string[]): readonly string[] {
+  return [...persons, FLEET]
+}
+
+export function principals(root: string): readonly string[] {
+  return principalsFrom(personPrincipals(root))
+}
+
+export type Principal = string
+
+export interface NameableSeat {
+  readonly attributes: SeatAttributes
+  readonly assignments: SeatAssignments
+  readonly flex: string | null
+  readonly principal: Principal | null
+}
+
+export interface PersonaDefaults {
+  readonly domain: string | null
+  readonly role: string | null
+}
+
+export function personaDefaultsOf(root: string, persona: string): PersonaDefaults | null {
+  const named = documentFor("persona", persona, root)
+  const at =
+    named === null
+      ? `${root}/${pageRelIn(root, "persona", persona)}`
+      : `${root}/${named}`
+  if (!existsSync(at)) return null
+  const frontmatter = parseFrontmatter(readFileSync(at, "utf8"))
+  return {
+    domain: textField(frontmatter, CHAMPIONED_DOMAIN_KEY),
+    role: textField(frontmatter, DEFAULT_ROLE_KEY),
+  }
+}
+
+export function identityHeardFrom(root: string, person: string): string | null {
+  const at = `${root}/${pageRelIn(root, "person", person)}`
+  if (!existsSync(at)) return null
+  return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
+}
+
+function stated(value: string | null): string | null {
+  return value === "" ? null : value
+}
+
+function spelling(seat: NameableSeat, root: string): readonly (string | null)[] {
+  const persona = stated(seat.attributes.persona)
+  const domain = stated(seat.attributes.domain)
+  const role = stated(seat.attributes.role)
+  const { task } = seat.assignments
+  if (role === HANDLER) {
+    return [domain === null ? null : identityHeardFrom(root, domain), domain, HANDLER]
+  }
+  if (seat.principal === "alan" && persona !== null && !personaIsDefault(root, persona)) {
+    return [persona]
+  }
+  return [domain, role, stated(seat.flex), stated(task)]
+}
+
+export function composeSeatName(seat: NameableSeat, root: string): string | null {
+  const { flex } = seat
+  if (flex !== null && flex !== "" && !FLEX.test(flex)) return null
+  const kept = spelling(seat, root).filter((segment): segment is string => segment !== null)
+  return kept.length === 0 ? null : kept.join(JOINER)
+}

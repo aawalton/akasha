@@ -1,0 +1,47 @@
+import { readFileSync } from "node:fs"
+import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { resolveRoots } from "../../repo/roots/roots"
+import { filesUnder, summaryIn } from "./declared.ts"
+import type { Command, CommandModule } from "./surface.ts"
+
+const PAGE_SUFFIX = ".mp-command.md"
+
+const PATH_KEY = "path"
+
+function textAt(at: string): string {
+  try {
+    return readFileSync(at, "utf8")
+  } catch {
+    return ""
+  }
+}
+
+export function akashaCommandPages(repoRoot: string = resolveRoots().akasha): readonly string[] {
+  return [...filesUnder(repoRoot, PAGE_SUFFIX)].sort()
+}
+
+export function akashaEntryFor(page: string): string {
+  return `${page.slice(0, -PAGE_SUFFIX.length)}.ts`
+}
+
+export function akashaPathFor(page: string): readonly string[] | null {
+  const stated = textField(parseFrontmatter(textAt(page)), PATH_KEY)
+  if (stated === null || stated.trim() === "") return null
+  return stated.trim().split(/\s+/)
+}
+
+export function akashaCommands(repoRoot: string = resolveRoots().akasha): readonly Command[] {
+  const commands: Command[] = []
+  for (const page of akashaCommandPages(repoRoot)) {
+    const path = akashaPathFor(page)
+    if (path === null) continue
+    const entry = akashaEntryFor(page)
+    commands.push({
+      path,
+      summary: summaryIn(textAt(entry)) ?? "",
+      load: () => import(entry) as Promise<CommandModule>,
+      source: entry,
+    })
+  }
+  return commands
+}

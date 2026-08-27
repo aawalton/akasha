@@ -1,0 +1,134 @@
+export const summary = "Move a finding to another domain, key and folder together"
+
+import { existsSync, readFileSync, statSync } from "node:fs"
+import { land, toRelPath } from "../../lib/command.ts"
+import { inputError, operationalError } from "../../lib/exit.ts"
+import {
+  declaredDomains,
+  findingPathIn,
+  findingRepo,
+  findingsDirIn,
+  undeclaredRefusal,
+  withDomainKey,
+} from "../../lib/finding.ts"
+import { parseArgs } from "../../lib/parse-args.ts"
+import { repoOf } from "../../lib/payload.ts"
+import { type Roots } from "../../../page/page"
+import { resolveRoots, targetRepo, targetRoot } from "../../../repo/roots/roots"
+import { landMoves } from "../../../move/move.ts"
+import type { CommandHelp } from "../../ops/surface.ts"
+
+export const help: CommandHelp = {
+  flags: [
+    {
+      name: "--file-path",
+      argLabel: "<path>",
+      valueShape: "token",
+      path: true,
+      required: true,
+      description: "The finding, exactly one domain folder deep.",
+    },
+    {
+      name: "--domain",
+      argLabel: "<slug>",
+      valueShape: "token",
+      required: true,
+      description: "The domain it belongs to.",
+    },
+    {
+      name: "--message",
+      argLabel: "<msg>",
+      valueShape: "prose",
+      description: "Commit message. Defaults to one naming both ends.",
+    },
+    { name: "--dry-run", description: "Gate and report; move and commit nothing." },
+  ],
+  exits: [
+    { code: 0, meaning: "gated, moved, committed, and the push handed off (or dry-run)" },
+    {
+      code: 1,
+      meaning:
+        "input error — a path outside the repository findings stand in, a path that names no finding, " +
+        "a domain no document declares, a finding declaring no `domain-slug:`, or one already sitting " +
+        "under the domain it declares — or a gate or the escaped-spelling survey refused. " +
+        "Nothing was moved",
+    },
+    { code: 3, meaning: "operational: the write or the commit failed" },
+  ],
+  examples: [
+    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain ops-namespace",
+    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain ops-namespace --dry-run",
+  ],
+}
+
+function rekeyed(body: string, domain: string): string {
+  const spliced = withDomainKey(body, domain)
+  if ("refusal" in spliced) {
+    throw operationalError(`the body about to land no longer carries a \`domain-slug:\` — ${spliced.refusal}`)
+  }
+  return spliced.body
+}
+
+function landKeyOnly(relPath: string, body: string, roots: Roots, message: string, dryRun: boolean): void {
+  const entries = [{ relPath, body }]
+  land(roots, entries, message, dryRun)
+}
+
+export default async function findingRehome(args: readonly string[]): Promise<void> {
+  const parsed = parseArgs(help, args)
+  const filePath = parsed.requireString("--file-path")
+  const domain = parsed.requireString("--domain")
+
+  const stands = findingRepo(resolveRoots().instructions)
+  const held = repoOf(["--file-path", filePath])
+  if (held !== stands) {
+    throw inputError(
+      `${filePath} is inside the ${held} repo, and a finding stands in the ${stands} repo — ` +
+        "`pages/page-type/finding.page-type.md` files them there and nowhere else, and no flag here overrides it"
+    )
+  }
+  const roots = resolveRoots(stands)
+  const root = targetRoot(roots)
+  if (!existsSync(`${root}/.git`)) throw operationalError(`${root} is not a git repo`)
+
+  const undeclared = undeclaredRefusal(domain, declaredDomains(roots.instructions))
+  if (undeclared !== null) throw inputError(undeclared)
+
+  const at = toRelPath(filePath, roots)
+  const findings = findingsDirIn(root)
+  const under = at.startsWith(`${findings}/`) ? at.slice(findings.length + 1).split("/") : []
+  const leaf = under.at(-1) ?? ""
+  const absolute = `${root}/${at}`
+  const deep = under.length === 1 || under.length === 2
+  if (!deep || !leaf.endsWith(".md") || !existsSync(absolute) || !statSync(absolute).isFile()) {
+    throw inputError(
+      `${at} does not name a finding — one lives at \`${findings}/<domain>/<name>.md\`, and this takes ` +
+        `one from there or one sitting directly under \`${findings}/\`, and moves nothing else`
+    )
+  }
+  const spliced = withDomainKey(readFileSync(absolute, "utf8"), domain)
+  if ("refusal" in spliced) throw inputError(`${at} cannot be rehomed: ${spliced.refusal}`)
+
+  const to = findingPathIn(root, domain, leaf.slice(0, -3))
+  if (to === at && spliced.declared === domain) {
+    throw inputError(`${at} already sits under \`${domain}\` and declares it, so it asks for no rehome`)
+  }
+  const stated = parsed.string("--message")?.trim()
+  const message =
+    stated === undefined || stated === "" ? `${targetRepo(roots)}: rehome ${at} to ${domain}` : stated
+  const dryRun = parsed.boolean("--dry-run")
+
+  if (to === at) {
+    landKeyOnly(at, spliced.body, roots, message, dryRun)
+    return
+  }
+  const where = { repo: targetRepo(roots), root }
+  landMoves({
+    moves: new Map([[at, to]]),
+    source: where,
+    destination: where,
+    message,
+    dryRun,
+    transform: (_, moved) => rekeyed(moved, domain),
+  })
+}

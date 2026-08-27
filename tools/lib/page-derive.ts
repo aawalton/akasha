@@ -1,0 +1,410 @@
+import { codeValueFor } from "./page-code-values.ts"
+import { rowsPagesIn } from "./page-rows.ts"
+import {
+  AGGREGATE,
+  BACK,
+  ROWS,
+  type Declared,
+  declarationsIn,
+  EXPRESSION,
+  FORMULA,
+  FROM,
+  type Kind,
+  kindsIn,
+  TARGET,
+} from "./page-declared.ts"
+import {
+  along,
+  listing,
+  NUMBER,
+  type Reached as Page,
+  type Reaching,
+  reducedFrom,
+  underivable,
+  WALKS,
+} from "./page-reach.ts"
+import { evaluate, ExpressionRefused } from "./page-expression.ts"
+import { noteUnreadable } from "./page-fault.ts"
+import { BODY, type Held, type Values, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
+import { placeOf } from "../../page/page-types.ts"
+import { NONE, textAt } from "../../page/text/text.ts"
+import { stemOf as slugOf } from "../../page/name/name"
+import { scanIn } from "../../page/page-types.ts"
+import { foundIn, indexingOver } from "./page-derive-index.ts"
+import { keptIn, type Narrow, narrowing } from "./page-narrow.ts"
+import { slugNamed } from "../../page/page-address.ts"
+import { type Roots } from "../../page/page"
+import { isAddressable } from "../../repo/roots/roots"
+
+
+export const WALK_BOUND = 64
+
+export interface Carries {
+  readonly body?: boolean
+  readonly attachment?: readonly string[]
+  readonly rows?: readonly string[]
+  readonly pages?: boolean
+  readonly only?: Narrow
+}
+
+export interface Row {
+  readonly at: string
+  readonly values: Values
+}
+
+export interface Relation {
+  readonly key: string
+  readonly target: string
+  readonly slugProperty: string | null
+}
+
+export interface Backed {
+  readonly slug: string
+  readonly repo: string | null
+  readonly glob: string | null
+  readonly heldBy: readonly string[]
+  readonly namedFor: string | null
+}
+
+export interface Deriver {
+  readonly rows: (pageType: string) => readonly Row[] | null
+  readonly one: (pageType: string, name: string, slugProperty?: string | null) => Row | null
+  readonly relations: (pageType: string) => readonly Relation[]
+  readonly backed: () => readonly Backed[]
+  readonly typeOf: (pageType: string, key: string) => string | null
+  readonly attachmentKeys: (pageType: string) => readonly string[]
+  readonly faults: () => readonly string[]
+}
+
+const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
+
+export function deriver(roots: Roots, carries: Carries = {}): Deriver {
+  const carryBody = carries.body === true
+  const carryAttachments = carries.attachment ?? []
+  const carryRows = carries.rows ?? []
+  const carryPages = carries.pages === true
+  const onlyFor = narrowing(carries.only)
+  const kinds = kindsIn(roots)
+  const { byKind: declared, bySlug } = declarationsIn(roots)
+  const chains = new Map<string, readonly string[]>()
+  const loaded = new Map<string, readonly Page[]>()
+  const rowsPages = new Map<string, readonly Page[]>()
+  const filling = new Set<string>()
+
+  const carriers = new Map<string, Declared[]>()
+  for (const one of bySlug.values()) {
+    if (one.rows === null || one.target === null) continue
+    const held = carriers.get(one.target) ?? []
+    held.push(one)
+    carriers.set(one.target, held)
+  }
+
+  const settled = new Map<string, Held>()
+  const namers = new Map<string, ReadonlyMap<string, readonly string[]>>()
+  const walking = new Set<string>()
+  const naming = new Set<string>()
+  const faults = new Set<string>()
+
+  const chainOf = (kind: string): readonly string[] => {
+    const held = chains.get(kind)
+    if (held !== undefined) return held
+    const chain: string[] = []
+    const seen = new Set<string>()
+    let at: string | null = kind
+    while (at !== null && at !== NONE && !seen.has(at)) {
+      seen.add(at)
+      chain.push(at)
+      at = kinds.get(at)?.above ?? null
+    }
+    chains.set(kind, chain)
+    return chain
+  }
+
+  const declarationFor = (kind: string, key: string): Declared | null => {
+    for (const one of chainOf(kind)) {
+      const found = declared.get(one)?.get(key)
+      if (found !== undefined) return found
+    }
+    return null
+  }
+
+  const typeOf = (kind: string, key: string): string | null => {
+    const declaration = declarationFor(kind, key)
+    if (declaration === null) return null
+    if (declaration.type === AGGREGATE) return declaration.returnType ?? NUMBER
+    return declaration.type === FORMULA ? declaration.returnType : declaration.type
+  }
+
+  const largeKeys = (kind: string): readonly string[] => {
+    const found = new Set<string>()
+    for (const one of chainOf(kind))
+      for (const [key, declaration] of declared.get(one) ?? [])
+        if (declaration.attachment !== null) found.add(key)
+    return [...found].sort()
+  }
+
+  const derivedOn = (kind: string): ReadonlyMap<string, Declared> => {
+    const found = new Map<string, Declared>()
+    for (const one of chainOf(kind))
+      for (const [key, declaration] of declared.get(one) ?? [])
+        if (
+          !found.has(key) &&
+          (declaration.reaches ||
+            declaration.from.length > 0 ||
+            declaration.back !== null ||
+            declaration.fallback !== null ||
+            declaration.expression !== null ||
+            declaration.relation !== null ||
+            declaration.reduction !== null ||
+            codeValueFor(declaration.slug) !== undefined ||
+            (declaration.rows !== null && (carryPages || carryRows.includes(key))))
+        )
+          found.set(key, declaration)
+    return found
+  }
+
+  const rowsPagesFor = (parent: Page, declaration: Declared): readonly Page[] => {
+    const target = declaration.target
+    if (target === null) {
+      faults.add(
+        `\`${declaration.slug}\` states \`${ROWS}: ${declaration.rows}\` and no \`${TARGET}\`, so nothing says what its pages are`
+      )
+      return []
+    }
+    const mark = `${parent.at}#${declaration.key}`
+    const held = rowsPages.get(mark)
+    if (held !== undefined) return held
+    const made = rowsPagesIn(
+      roots,
+      parent.at,
+      parent.named,
+      declaration.on,
+      declaration.key,
+      declaration.uncommitted,
+      (why) =>
+      faults.add(why)
+    ).map((one) => ({ ...one, kind: target }))
+    rowsPages.set(mark, made)
+    return made
+  }
+
+  const pagesOf = (kind: string): readonly Page[] => {
+    const held = loaded.get(kind)
+    if (held !== undefined) return held
+    if (filling.has(kind)) return []
+    filling.add(kind)
+    const one: Kind | undefined = kinds.get(kind)
+    const pages: Page[] = []
+    for (const each of one?.filed ?? []) {
+      const repo = each.repo
+      if (repo === null || !isAddressable(repo)) continue
+      const root = roots[repo]
+      for (const relPath of scanIn(root, [each.place ?? placeOf(kind)], repo)) {
+        const text = textAt(root, relPath)
+        const read = text === null ? null : valuesIn(text, carryBody)
+        if (read === null) {
+          noteUnreadable(faults, repo, relPath, kind)
+          continue
+        }
+        const held = withLarge(
+          withUncommitted(`${root}/${relPath}`, read),
+          carryAttachments,
+          root,
+          relPath,
+          (key) => declarationFor(kind, key)?.attachment ?? null,
+          (key) => declarationFor(kind, key)?.uncommitted ?? false
+        )
+        const named = typeof held.values.slug === "string" ? held.values.slug : slugOf(relPath)
+        pages.push({ kind, at: `${repo}:${relPath}`, named, values: held.values })
+      }
+    }
+    for (const declaration of carriers.get(kind) ?? [])
+      for (const parentKind of beneath(declaration.on))
+        for (const parent of pagesOf(parentKind)) pages.push(...rowsPagesFor(parent, declaration))
+    filling.delete(kind)
+    loaded.set(kind, pages)
+    return pages
+  }
+
+  const beneath = (target: string): readonly string[] => [
+    target,
+    ...[...kinds.keys()].filter((slug) => slug !== target && chainOf(slug).includes(target)).sort(),
+  ]
+
+  const indexFor = indexingOver(beneath, pagesOf)
+
+  const reach: Reaching = {
+    declarationFor,
+    indexFor,
+    valueOf: (page, key, depth) => valueOf(page, key, depth),
+    fault: (why) => faults.add(why),
+    walking,
+    bound: WALK_BOUND,
+  }
+
+  const namersFor = (declaration: Declared, depth: number): ReadonlyMap<string, readonly string[]> => {
+    const held = namers.get(declaration.slug)
+    if (held !== undefined) return held
+    const source = declaration.back === null ? undefined : bySlug.get(declaration.back)
+    if (source === undefined) {
+      faults.add(`\`${BACK}\` on \`${declaration.slug}\` names \`${declaration.back}\`, which no property declares`)
+      namers.set(declaration.slug, NAMES_NOBODY)
+      return NAMES_NOBODY
+    }
+    if (naming.has(declaration.slug)) return NAMES_NOBODY
+    naming.add(declaration.slug)
+    const made = new Map<string, string[]>()
+    for (const kind of beneath(source.on))
+      for (const page of pagesOf(kind))
+        for (const named of listing(valueOf(page, source.key, depth + 1))) {
+          const at = slugNamed(named)
+          const names = made.get(at) ?? []
+          names.push(page.named)
+          made.set(at, names)
+        }
+    naming.delete(declaration.slug)
+    for (const names of made.values()) names.sort()
+    namers.set(declaration.slug, made)
+    return made
+  }
+
+  const valueOf = (page: Page, key: string, depth: number): Held => {
+    const written = page.values[key]
+    if (written !== undefined && listing(written).length > 0) return written
+    const declaration = declarationFor(page.kind, key)
+    if (declaration === null) {
+      faults.add(`\`${key}\` is declared by no property on \`${page.kind}\``)
+      return null
+    }
+    const cannot = underivable(declaration)
+    if (cannot !== null) {
+      faults.add(`\`${declaration.slug}\` ${cannot}`)
+      return null
+    }
+    if (WALKS.includes(declaration.type ?? "")) return reducedFrom(page, declaration, depth, reach)
+    if (declaration.expression !== null) {
+      const also = [
+        ...(declaration.from.length > 0 ? [`\`${FROM}\``] : []),
+        ...(declaration.back === null ? [] : [`\`${BACK}\``]),
+        ...(codeValueFor(declaration.slug) === undefined ? [] : ["a computation in code"]),
+      ]
+      if (also.length > 0) {
+        faults.add(
+          `\`${declaration.slug}\` states an \`${EXPRESSION}\` and ${also.join(" and ")}, and a property is worked out one way or another`
+        )
+        return null
+      }
+      const at = `${page.at}#${key}`
+      if (walking.has(at) || depth >= WALK_BOUND) return null
+      walking.add(at)
+      try {
+        return evaluate(declaration.expression, (named) => {
+          if (declarationFor(page.kind, named) === null) {
+            throw new ExpressionRefused(
+              `\`${named}\` is declared by no property on \`${page.kind}\``,
+              "unknown_key"
+            )
+          }
+          return valueOf(page, named, depth + 1)
+        })
+      } catch (why) {
+        if (!(why instanceof ExpressionRefused)) throw why
+        faults.add(`\`${declaration.slug}\` states an \`${EXPRESSION}\` this evaluator refuses: ${why.message}`)
+        return null
+      } finally {
+        walking.delete(at)
+      }
+    }
+    if (declaration.back !== null) {
+      if (declaration.from.length > 0) {
+        faults.add(`\`${declaration.slug}\` states both \`${FROM}\` and \`${BACK}\`, and a property states one or the other`)
+        return null
+      }
+      if (depth >= WALK_BOUND) return null
+      return namersFor(declaration, depth).get(page.named) ?? declaration.fallback
+    }
+    if (declaration.rows !== null) return rowsPagesFor(page, declaration).map((one) => one.named)
+    const computed = codeValueFor(declaration.slug)
+    if (computed !== undefined) return computed(page, { declared, chainOf })
+    if (declaration.from.length === 0) return declaration.fallback
+    const mark = `${page.at}#${key}`
+    const answered = settled.get(mark)
+    if (answered !== undefined) return answered
+    if (walking.has(mark) || depth >= WALK_BOUND) return null
+    walking.add(mark)
+    let answer: Held = null
+    for (const path of declaration.from) {
+      answer = along(page, path.split("."), depth + 1, reach)
+      if (answer !== null) break
+    }
+    walking.delete(mark)
+    if (answer === null) answer = declaration.fallback
+    settled.set(mark, answer)
+    return answer
+  }
+
+  const rowOf = (page: Page, derived: ReadonlyMap<string, Declared>): Row => {
+    if (derived.size === 0) return { at: page.at, values: page.values }
+    const values: Record<string, Held> = { ...page.values }
+    for (const key of derived.keys()) values[key] = valueOf(page, key, 0)
+    return { at: page.at, values }
+  }
+
+  const isFiled = (pageType: string): boolean => {
+    const one = kinds.get(pageType)
+    if (one === undefined) return false
+    return one.filed.some((each) => each.repo !== null && isAddressable(each.repo))
+  }
+
+  const isHeld = (pageType: string): boolean => (carriers.get(pageType) ?? []).length > 0
+
+  const rows = (pageType: string): readonly Row[] | null => {
+    if (!isFiled(pageType) && !isHeld(pageType)) return null
+    const derived = keptIn(derivedOn(pageType), onlyFor(pageType))
+    return pagesOf(pageType).map((page) => rowOf(page, derived))
+  }
+
+  const one = (pageType: string, name: string, slugProperty: string | null = null): Row | null => {
+    if (!isFiled(pageType) && !isHeld(pageType)) return null
+    const page = foundIn(indexFor(pageType, slugProperty), name)
+    return page === undefined ? null : rowOf(page, derivedOn(page.kind))
+  }
+
+  const relations = (pageType: string): readonly Relation[] => {
+    const found = new Map<string, Relation>()
+    for (const kind of chainOf(pageType))
+      for (const [key, declaration] of declared.get(kind) ?? [])
+        if (!found.has(key) && declaration.target !== null)
+          found.set(key, { key, target: declaration.target, slugProperty: declaration.slugProperty })
+    return [...found.values()]
+  }
+
+  const backed = (): readonly Backed[] => {
+    const found: Backed[] = []
+    for (const [slug, kind] of kinds) {
+      const heldBy = (carriers.get(slug) ?? []).map((each) => `${each.on}.${each.key}`).sort()
+      const filed = isFiled(slug)
+      if (!filed && heldBy.length === 0) continue
+      const namedFor =
+        chainOf(slug)
+          .map((each) => kinds.get(each)?.namedFor ?? null)
+          .find((each) => each !== null) ?? null
+      const homes = kind.filed.filter((each) => each.repo !== null)
+      if (filed && homes.length > 1)
+        faults.add(
+          `\`${slug}\` states its files in ${homes.length} repositories, and what reads this names one`
+        )
+      const home = homes[0]
+      found.push({
+        slug,
+        repo: filed && home !== undefined ? home.repo : null,
+        glob: filed && home !== undefined ? (home.place ?? placeOf(slug)) : null,
+        heldBy,
+        namedFor,
+      })
+    }
+    return found.sort((a, b) => (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0))
+  }
+
+  return { rows, one, relations, backed, typeOf, attachmentKeys: largeKeys, faults: () => [...faults].sort() }
+}
