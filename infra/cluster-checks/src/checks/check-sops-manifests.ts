@@ -7,7 +7,7 @@ import {
   YamlFileAttrsSchema,
 } from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -124,8 +124,8 @@ type FileOutcome =
   | { readonly kind: "judged"; readonly violations: readonly SopsManifestViolation[] }
   | { readonly kind: "environment"; readonly error: Error }
 
-async function validateFile(codeRoot: string, relPath: string): Promise<FileOutcome> {
-  const abs = resolve(codeRoot, relPath)
+async function validateFile(root: string, relPath: string): Promise<FileOutcome> {
+  const abs = resolve(root, relPath)
   const decrypted = await decryptSopsFile(abs)
   if (!decrypted.ok) {
     return {
@@ -185,7 +185,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the yaml-file graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const { manifestFiles, skipped } = discoverSopsFiles(fullGraph)
 
   if (manifestFiles.length > 0) {
@@ -197,7 +197,7 @@ async function main(): Promise<never> {
 
   const violationsByFile = new Map<string, readonly SopsManifestViolation[]>()
   for (const file of manifestFiles) {
-    const outcome = await validateFile(codeRoot, file)
+    const outcome = await validateFile(root, file)
     if (outcome.kind === "environment") {
       return exitOnToolError({ error: outcome.error, prefix: PREFIX })
     }
@@ -211,7 +211,7 @@ async function main(): Promise<never> {
       kind: "atLeast",
       members: MANIFESTS_AT_LEAST,
       from:
-        "the `.sops.yaml`-suffixed files in the code repo's tree read at the tree sha above, " +
+        "the `.sops.yaml`-suffixed files in the tree read at the tree sha above, " +
         "which held 35 manifest-shaped and 1 flat when this least count was taken — a body the " +
         "snapshot could not hand back is classified as no sops file at all rather than raising, " +
         "and a producer reach that stops short narrows the tree before classification, so a run " +
@@ -219,7 +219,7 @@ async function main(): Promise<never> {
         "none of the rest; lower it only alongside deliberately retiring that many secrets",
     },
     labelOf: (file) => file,
-    siteOf: (file) => resolve(codeRoot, file),
+    siteOf: (file) => resolve(root, file),
     examine: (file) => violationsByFile.get(file) ?? [],
   })
 

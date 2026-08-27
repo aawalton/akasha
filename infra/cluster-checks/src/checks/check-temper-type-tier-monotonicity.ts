@@ -39,8 +39,8 @@ const TIER_HOMED_LEAST_COUNT = 120
 
 const TIER_HOMED_FROM =
   "the temper tier layout: every workspace standing directly under `temper/` whose name begins " +
-  "`shared-`, `game-` or `player-` is tier-homed, and those three prefixes held 146 workspaces " +
-  "(63 shared, 72 game, 11 player) when this least count was set"
+  "`shared-`, `game-` or `player-` is tier-homed, and those three prefixes held 145 workspaces " +
+  "(62 shared, 72 game, 11 player) when this least count was set"
 
 const tierDirsWhereRank = (accept: (rank: number) => boolean): string =>
   TEMPER_TIERS.filter((tier) => accept(TIER_RANK_BY_TIER[tier]))

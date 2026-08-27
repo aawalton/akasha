@@ -14,7 +14,7 @@ import {
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { type FunctionalType, FunctionalTypeSchema, RANK_BY_TYPE } from "../../../../tools/lib/check-workflow/functional-type"
@@ -103,7 +103,7 @@ async function main(): Promise<never> {
   }
   const { reading, graph: fullGraph } = held
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const packageNodes = fullGraph.nodes(PACKAGE_NODE_TYPE).map(parsePackageNode)
   const workspaces: readonly WorkspaceEntry[] = packageNodes.map((n) => ({
     name: n.attrs.name,
@@ -120,7 +120,7 @@ async function main(): Promise<never> {
         "the members are the `package` nodes of the graph built at the tree sha above: `readAt` takes one git reading of one commit and `buildFrom` either hands back that graph whole or throws into the `toolExit` beside it, so there is no per-workspace fetch that can come back short one at a time. Each workspace's `functionalType` is read back out of that same held snapshot rather than off a working tree, so no member is judged against a package.json newer than the graph it stands in. Fewer members is therefore a shorter workspace list at that commit, never a reading that arrived half made",
     },
     labelOf: (ws) => ws.path,
-    siteOf: (ws) => resolve(codeRoot, packageJsonIn(ws.path)),
+    siteOf: (ws) => resolve(root, packageJsonIn(ws.path)),
     examine: (ws) => {
       const type = functionalTypeIn(readRepoFile(reading.ctx, CODE_REPO, packageJsonIn(ws.path)))
       if (type !== null) typeByPath.set(ws.path, type)
