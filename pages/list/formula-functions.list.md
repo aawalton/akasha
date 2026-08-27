@@ -13,6 +13,6 @@ domain-parent-slug: domain/formula-language
 # List
 
 - **now** — the moment the formula is worked out, as an instant.
-- **hoursBetween** — the hours between two instants.
+- **hoursBetween** — the hours between two instants, never negative.
 - **contains** — whether a list holds a value.
 - **hasWord** — whether a text holds a word, bounded at both ends.
