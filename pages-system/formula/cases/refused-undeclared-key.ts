@@ -1,0 +1,114 @@
+import type { FormulaCase } from "./cases.ts"
+import { C, COUNT, call, FLAG, L, NAME, NOTHING, NUMBER, num, refused } from "./shorthand.ts"
+
+// ---------------------------------------------------------------------------
+// Refused for a key the page type does not declare
+// ---------------------------------------------------------------------------
+
+export const refusedUndeclaredKey: FormulaCase[] = [
+  {
+    name: "a formula naming a key the page type does not declare is refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{missing}",
+    shape: COUNT,
+    values: {},
+    expected: refused("check", "undeclared-key", ["missing"]),
+  },
+  {
+    name: "the refusal names the key that was not declared",
+    group: "refused-undeclared-key",
+    from: L.nameTheCause,
+    claim: C.nameTheCause,
+    formula: "{count} + {missing}",
+    shape: COUNT,
+    values: { count: num(1) },
+    expected: refused("check", "undeclared-key", ["missing"]),
+  },
+  {
+    name: "an undeclared key is refused even where the page holds a value for it",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{extra}",
+    shape: COUNT,
+    values: { count: num(1), extra: num(2) },
+    expected: refused("check", "undeclared-key", ["extra"]),
+    // The shape settles what may be named, not what the page happens to hold.
+  },
+  {
+    name: "an undeclared key inside a text literal is refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: '"hello {missing}"',
+    shape: NAME,
+    values: {},
+    expected: refused("check", "undeclared-key", ["missing"]),
+  },
+  {
+    name: "an undeclared key inside a function argument is refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: call("hasWord", "{missing}", '"a"'),
+    shape: NAME,
+    values: {},
+    expected: refused("check", "undeclared-key", ["missing"]),
+  },
+  {
+    name: "an undeclared key behind a fallback is still refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{count} ?? {missing}",
+    shape: COUNT,
+    values: { count: num(1) },
+    expected: refused("check", "undeclared-key", ["missing"]),
+    // The check reads the whole formula; that the fallback would never reach
+    // its right side is a run-time fact.
+  },
+  {
+    name: "an undeclared key on a side the short circuit never reaches is refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "false && {missing}",
+    shape: FLAG,
+    values: {},
+    expected: refused("check", "undeclared-key", ["missing"]),
+  },
+  {
+    name: "a key differing only in case is not the declared key",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{Count}",
+    shape: COUNT,
+    values: { count: num(1) },
+    expected: refused("check", "undeclared-key", ["Count"]),
+  },
+  {
+    name: "a page type declaring nothing refuses every reference",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{count}",
+    shape: NOTHING,
+    values: {},
+    expected: refused("check", "undeclared-key", ["count"]),
+  },
+  {
+    name: "a computed key naming an undeclared key is refused",
+    group: "refused-undeclared-key",
+    from: L.undeclaredKey,
+    claim: C.undeclaredKey,
+    formula: "{doubled}",
+    shape: {
+      doubled: { type: NUMBER, formula: "{count} * 2" },
+    },
+    values: {},
+    expected: refused("check", "undeclared-key", ["count"]),
+  },
+]

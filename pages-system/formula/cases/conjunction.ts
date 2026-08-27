@@ -1,0 +1,159 @@
+import type { FormulaCase } from "./cases.ts"
+import { ABSENT, answersBoolean, C, COUNT, L, MIXED, NOTHING, num, refused } from "./shorthand.ts"
+
+// ---------------------------------------------------------------------------
+// Conjunction
+// ---------------------------------------------------------------------------
+
+export const conjunction: FormulaCase[] = [
+  {
+    name: "and answers true where both sides are true",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "true && true",
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(true),
+  },
+  {
+    name: "and answers false where the left is false",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "false && true",
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(false),
+  },
+  {
+    name: "and answers false where the right is false",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "true && false",
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(false),
+  },
+  {
+    name: "and answers false where both sides are false",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "false && false",
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(false),
+  },
+  {
+    name: "and over two comparisons",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "{count} > 0 && {count} < 10",
+    shape: COUNT,
+    values: { count: num(5) },
+    expected: answersBoolean(true),
+  },
+  {
+    name: "and over three sides",
+    group: "conjunction",
+    from: L.opAnd,
+    claim: C.opAnd,
+    formula: "true && true && false",
+    shape: NOTHING,
+    values: {},
+    expected: answersBoolean(false),
+  },
+  {
+    name: "a false left side answers false without working out a division by zero",
+    group: "conjunction",
+    from: L.shortCircuit,
+    claim: C.shortCircuit,
+    formula: "false && {count} / 0 > 0",
+    shape: COUNT,
+    values: { count: num(1) },
+    expected: answersBoolean(false),
+    // The right side would answer absent. An implementation that works both
+    // sides out and then discards the right answers absent and fails here.
+  },
+  {
+    name: "a false left side reached through a comparison does not work out its right",
+    group: "conjunction",
+    from: L.shortCircuit,
+    claim: C.shortCircuit,
+    formula: "{count} > 10 && {other} / 0 > 0",
+    shape: MIXED,
+    values: { count: num(1), other: num(1) },
+    expected: answersBoolean(false),
+    // The left side is false because it was worked out, not because it was
+    // written `false`.
+  },
+  {
+    name: "a false left side short circuits through a chain of ands",
+    group: "conjunction",
+    from: L.shortCircuit,
+    claim: C.shortCircuit,
+    formula: "false && {flag} && {other} / 0 > 0",
+    shape: MIXED,
+    values: { other: num(1) },
+    expected: answersBoolean(false),
+    // Neither the absent `{flag}` nor the division by zero is reached. The
+    // answer is false whichever way `&&` associates, so this case does not
+    // rest on an associativity the pages do not state.
+  },
+  {
+    name: "a true left side does work out its right",
+    group: "conjunction",
+    from: L.shortCircuit,
+    claim: C.shortCircuit,
+    formula: "true && {count} / 0 > 0",
+    shape: COUNT,
+    values: { count: num(1) },
+    expected: ABSENT,
+    // `&&` cannot answer from a true left alone, so it reaches the right,
+    // reaches the absent the division by zero makes, and answers absent.
+  },
+  {
+    name: "or is not an operator this language has",
+    group: "refused-at-read",
+    from: L.noOrOperator,
+    claim: C.noOrOperator,
+    formula: "false || true",
+    shape: NOTHING,
+    values: {},
+    expected: refused("read", "unknown-operator", ["||"]),
+    // `||` belonged to the language this one replaces.
+  },
+  {
+    name: "not is not an operator this language has",
+    group: "refused-at-read",
+    from: L.noNotOperator,
+    claim: C.noNotOperator,
+    formula: "!true",
+    shape: NOTHING,
+    values: {},
+    expected: refused("read", "unknown-operator", ["!"]),
+  },
+  {
+    name: "remainder is not an operator this language has",
+    group: "refused-at-read",
+    from: L.noRemainderOperator,
+    claim: C.noRemainderOperator,
+    formula: "7 % 2",
+    shape: NOTHING,
+    values: {},
+    expected: refused("read", "unknown-operator", ["%"]),
+  },
+  {
+    name: "single equals is not an operator this language has",
+    group: "refused-at-read",
+    from: L.noSingleEquals,
+    claim: C.noSingleEquals,
+    formula: "1 = 1",
+    shape: NOTHING,
+    values: {},
+    expected: refused("read", "unknown-operator", ["="]),
+  },
+]
