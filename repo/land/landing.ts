@@ -1,6 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { type Landing, landHere, markLanded } from "../../page/index/build.ts"
+import type { Holds } from "../../page/index/relation/relation.ts"
 import { indexReaches } from "../../page/index/store/store.ts"
+import { trackedIn } from "../../page/tracked/tracked.ts"
 
 const PAGE_FILE = /\.[a-z0-9-]+\.md$/
 
@@ -59,8 +61,10 @@ export function indexAfterLanding(
   const landings = landingsFor(repo, root, before, written, removed)
   if (landings.length === 0) return []
   if (!indexReaches(repo, root)) return []
+  const tracked = new Set(trackedIn(root))
+  const holds: Holds = (asked, key) => asked === repo && tracked.has(key)
   try {
-    landHere(landings)
+    landHere(landings, holds)
   } catch (err) {
     const said = err instanceof Error ? err.message : String(err)
     return [`        THE PAGE INDEX DID NOT TAKE ${String(landings.length)} PAGE FILE(S): ${said}`]

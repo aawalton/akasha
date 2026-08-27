@@ -1,3 +1,4 @@
+import { attachmentFileOf } from "../../attachment-file.ts"
 import { listField } from "../../frontmatter.ts"
 import { NONE, stringAt } from "../../text/text.ts"
 import { BY_FILE, type Held, type Resolve, kindOf } from "../identity/identity.ts"
@@ -5,6 +6,8 @@ import { LINK_RELATION } from "../link/link.ts"
 import { pageTargetOf } from "../place/place.ts"
 
 const DEFINITION = "page-property-definition"
+
+const ATTACHMENT = "attachment"
 
 const PAGE_TYPE = "page-type"
 
@@ -28,9 +31,13 @@ const INSTRUCTIONS = "instructions"
 
 export type Relation = {
   readonly key: string
-  readonly kind: string
+  readonly kind: string | null
   readonly target: string | null
+  readonly attachment: string | null
 }
+
+/** Whether a repository tracks a file. An attachment relation is true only where its file is there. */
+export type Holds = (repo: string, key: string) => boolean
 
 export type Reached = {
   readonly relation: string
@@ -55,12 +62,13 @@ function declaredOver(pages: readonly Held[]): Map<string, Relation[]> {
   for (const at of pages) {
     if (at.type !== DEFINITION) continue
     const kind = kindOf(stringAt(at.fm, TYPE) ?? "")
-    if (kind === null) continue
+    const attachment = stringAt(at.fm, ATTACHMENT)
+    if (kind === null && attachment === null) continue
     const on = tailOf(stringAt(at.fm, DEFINED_ON))
     const key = stringAt(at.fm, KEY)
     if (on === null || key === null) continue
     const held = made.get(on) ?? []
-    held.push({ key, kind, target: tailOf(stringAt(at.fm, TARGET)) })
+    held.push({ key, kind, target: tailOf(stringAt(at.fm, TARGET)), attachment })
     made.set(on, held)
   }
   return made
@@ -99,6 +107,7 @@ export function relationsOver(pages: readonly Held[]): ReadonlyMap<string, reado
 }
 
 function targetOf(relation: Relation, value: string, resolve: Resolve): string | null {
+  if (relation.kind === null) return null
   if (relation.kind === BY_FILE) return fileTargetOf(value)
   const to = resolve(relation.kind, relation.target, value)
   return to === null ? null : pageTargetOf(to.stem, to.type)
@@ -107,12 +116,25 @@ function targetOf(relation: Relation, value: string, resolve: Resolve): string |
 export function reachedFrom(
   at: Held,
   relations: ReadonlyMap<string, readonly Relation[]>,
-  resolve: Resolve
+  resolve: Resolve,
+  holds: Holds
 ): readonly Reached[] {
   const type = stringAt(at.fm, PAGE_TYPE_SLUG) ?? at.type
   const found: Reached[] = []
   const seen = new Set<string>()
   for (const relation of relations.get(type) ?? []) {
+    // An attachment is named by the convention rather than written in the frontmatter, so the page
+    // states nothing to read. What makes the relation true is the file being there.
+    if (relation.attachment !== null) {
+      const key = attachmentFileOf(at.key, relation.key, relation.attachment)
+      if (!holds(at.repo, key)) continue
+      const target = fileTargetOf(`${at.repo}:${key}`)
+      const said = `${relation.key} ${target}`
+      if (seen.has(said)) continue
+      seen.add(said)
+      found.push({ relation: relation.key, target })
+      continue
+    }
     for (const value of listField(at.fm, relation.key)) {
       if (value === "" || value === NONE) continue
       const target = targetOf(relation, value, resolve)
