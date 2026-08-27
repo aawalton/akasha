@@ -1,13 +1,15 @@
 import { relative, resolve } from "node:path"
 import { edgesInto, nodesIn } from "../graph/ask.ts"
 import { type BuildContext, KEEPS_NOTHING } from "../graph/build-context/build-context.ts"
-import { CODE_EDGE } from "../graph/edge-producer/beside/beside.graph-edge-producer.code.attachment.ts"
+import { RELATION_EDGE, RELATION_KEY } from "../graph/edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
-import type { EdgeInit } from "../graph/edge-producer/edge-shape.ts"
+import type { EdgeAttrs, EdgeInit } from "../graph/edge-producer/edge-shape.ts"
 import type { FileNode } from "../graph/node-producer/file/file.graph-node-producer.code.attachment.ts"
 import { AKASHA, rootFor, rootsHere } from "../repo/roots/roots.ts"
 
 export const ROOT_FOLDER = "."
+
+export const CODE_RELATION: EdgeAttrs = { [RELATION_KEY]: "code" }
 
 export type Section = {
   readonly ctx: BuildContext
@@ -39,5 +41,9 @@ export function sectionAt(argv: readonly string[]): Section {
 
 export function pointersInto(section: Section): readonly EdgeInit[] {
   const refs = section.nodes.map((node) => ({ repo: node.repo, key: node.key }))
-  return edgesInto(section.ctx, refs, Object.keys(section.ctx.roots), [IMPORT_EDGE, CODE_EDGE])
+  const repos = Object.keys(section.ctx.roots)
+  return [
+    ...edgesInto(section.ctx, refs, repos, [IMPORT_EDGE]),
+    ...edgesInto(section.ctx, refs, repos, [RELATION_EDGE], CODE_RELATION),
+  ]
 }

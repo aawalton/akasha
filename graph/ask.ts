@@ -1,4 +1,3 @@
-import besideEdgeProducer from "./edge-producer/beside/beside.graph-edge-producer.code.attachment.ts"
 import fileNameEdgeProducer from "./edge-producer/file-name/file-name.graph-edge-producer.code.attachment.ts"
 import frontmatterEdgeProducer from "./edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts"
 import loaderEdgeProducer from "./edge-producer/loader/loader.graph-edge-producer.code.attachment.ts"
@@ -12,7 +11,6 @@ export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   frontmatterEdgeProducer,
   fileNameEdgeProducer,
   typescriptEdgeProducer,
-  besideEdgeProducer,
   loaderEdgeProducer,
 ]
 export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {

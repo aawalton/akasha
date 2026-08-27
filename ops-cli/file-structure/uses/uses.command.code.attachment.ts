@@ -1,9 +1,9 @@
 export const summary = "Map what points at each file under one section of a repository"
 
 import { edgesFrom } from "../../../graph/ask.ts"
-import { CODE_EDGE } from "../../../graph/edge-producer/beside/beside.graph-edge-producer.code.attachment.ts"
+import { RELATION_EDGE } from "../../../graph/edge-producer/frontmatter/frontmatter.graph-edge-producer.code.attachment.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
-import { folderOf, pointersInto, sectionAt } from "../../../file-structure/section.ts"
+import { CODE_RELATION, folderOf, pointersInto, sectionAt } from "../../../file-structure/section.ts"
 
 const TEST_SUFFIX = ".test.ts"
 
@@ -47,7 +47,7 @@ export default async function uses(argv: readonly string[]): Promise<void> {
     const within = `${home}/`
     const who = [...(pointing.get(node.key) ?? [])].sort((one, two) => (one.from < two.from ? -1 : 1))
     const outside = who.filter((one) => one.foreign || !one.from.startsWith(within))
-    const beside = edgesFrom(section.ctx, node, [CODE_EDGE]).length > 0
+    const beside = edgesFrom(section.ctx, node, [RELATION_EDGE], CODE_RELATION).length > 0
     const mark =
       outside.length > 0
         ? ENTRY
