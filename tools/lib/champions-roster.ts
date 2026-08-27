@@ -1,13 +1,13 @@
 
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./check.ts"
-import { type Documents, domainNamed, DOMAIN_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
+import { type Documents, domainNamed, DOMAIN_SLUG_KEY, PAGE_TYPE_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { claimant, domainKindTest } from "../../page/page-types.ts"
 import { type Roots } from "../../page/page"
-import { slugNamed } from "../../page/page-address.ts"
+import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { isDirty } from "../../repo/roots/roots"
 import { SEQUENCE_KEY } from "./sequence-manifest.ts"
 
@@ -112,8 +112,16 @@ export function readRoster(roots: Roots): Roster {
   let unchampionedDomains = 0
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
-    if (slug === null || slugs.get(slug) !== relPath) continue
+    if (slug === null) continue
     if (!isDomain(relPath, fm)) continue
+    // KEPT UNLESS ANOTHER PAGE OF THIS TYPE ALREADY HOLDS THE SLUG. This guard used to ask
+    // whether the bare slug resolved back to this page, which dropped every domain whose slug a
+    // page of some other type had taken first — the domain vanished from the tree and its
+    // children were promoted to roots of their own. A type carries a slug once, so asking by
+    // address answers the question the guard was for and only that one.
+    const type = textField(fm, PAGE_TYPE_SLUG_KEY)
+    const named = type === null ? slugs.get(slug) : domainNamed(slugs, addressOf(type, slug))
+    if (named !== relPath) continue
     slugAt.set(relPath, slug)
     // Spelled bare for the same reason the parent above is: a sequence names its members by
     // address and the kin it is matched against are bare slugs, so an address left as written
