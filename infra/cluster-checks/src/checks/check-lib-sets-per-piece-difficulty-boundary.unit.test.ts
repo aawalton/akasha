@@ -9,7 +9,7 @@ import {
   scanPerPieceVeteranReferences,
 } from "./check-lib-sets-per-piece-difficulty-boundary.ts"
 
-const LIB_SETS_SRC = "packages/temper/shared/addon-libraries/lib-sets/src/"
+const LIB_SETS_SRC = "temper/shared-addon-libraries-lib-sets/src/"
 const HELPERS_FILE = `${LIB_SETS_SRC}tooltips/helpers.ts`
 const PER_SET_SURFACE = `${LIB_SETS_SRC}tooltips/veteran-breakdown.ts`
 const VETERAN_API_FILE = `${LIB_SETS_SRC}core/api-perfected-veteran-set.ts`
@@ -113,22 +113,22 @@ describe("scanPerPieceVeteranReferences — the per-piece difficulty boundary", 
 })
 
 describe("isOutOfScope — path scope", () => {
-  test("in scope: first-party ts/tsx under packages/", () => {
+  test("in scope: first-party ts/tsx", () => {
     expect(isOutOfScope(OTHER_FILE)).toBe(false)
-    expect(isOutOfScope("packages/shared/pages/ui/src/thing.tsx")).toBe(false)
+    expect(isOutOfScope("shared/pages-ui/src/thing.tsx")).toBe(false)
   })
 
   test("out of scope: emitted TSTL bundles under a dist/ tree", () => {
-    expect(isOutOfScope("packages/temper/addons/dist/LibSets/LibSets.ts")).toBe(true)
+    expect(isOutOfScope("temper/addons/dist/LibSets/LibSets.ts")).toBe(true)
   })
 
   test("out of scope: declaration files and non-ts sources", () => {
-    expect(isOutOfScope("packages/temper/addons/types/eso/generated/index.d.ts")).toBe(true)
+    expect(isOutOfScope("temper/addons/types/eso/generated/index.d.ts")).toBe(true)
     expect(isOutOfScope(`${LIB_SETS_SRC}../package-notes.md`)).toBe(true)
   })
 
   test("out of scope: installed dependencies", () => {
-    expect(isOutOfScope("packages/temper/node_modules/libsets/index.ts")).toBe(true)
+    expect(isOutOfScope("temper/node_modules/libsets/index.ts")).toBe(true)
   })
 
   test("out of scope: this gate's own source and unit test", () => {
@@ -189,7 +189,7 @@ describe("the syntax-bundle entry — the rule as the bundle runs it", () => {
 
   test("its pre-file skip is the same scope predicate the standalone walk filters with", () => {
     expect(ENTRY.preFileSkip?.(OTHER_FILE, REPO_ROOT)).toBe(false)
-    expect(ENTRY.preFileSkip?.("packages/temper/addons/dist/LibSets/LibSets.ts", REPO_ROOT)).toBe(
+    expect(ENTRY.preFileSkip?.("temper/addons/dist/LibSets/LibSets.ts", REPO_ROOT)).toBe(
       true
     )
     expect(
