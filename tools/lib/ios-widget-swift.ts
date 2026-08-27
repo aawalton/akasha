@@ -1,19 +1,12 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { readoutCatalog, rootsHere } from "../../readouts/readout-catalog.ts"
+import { readoutCatalog } from "../../readouts/readout-catalog.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 const WIDGET_PAGE_TYPE = "readout-widget"
 
 const WIDGET_DIR = "readouts/widget"
-
-function akashaRoot(): string {
-  const here = rootsHere().akasha
-  if (here === undefined) {
-    throw new Error("akashaRoot: nothing here says where the akasha repository is")
-  }
-  return here
-}
 
 export interface WidgetDoc {
   readonly slug: string

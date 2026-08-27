@@ -1,6 +1,5 @@
-import { realpathSync } from "node:fs"
-import { resolve } from "node:path"
 import type { Roots } from "../page/page.ts"
+import { rootsHere } from "../repo/roots/roots.ts"
 import { type PageFile, pagesIn } from "../page/tracked/tracked.ts"
 import { listField } from "../page/frontmatter.ts"
 import { blockOf, NONE, stringAt, textAt } from "../page/text/text.ts"
@@ -15,32 +14,6 @@ const PAGE_TYPE = "page-type"
 const SLUG = "slug"
 const EXTENDS_SLUG = "extends-slug"
 const FILES = "files"
-
-let held: Roots | null = null
-
-function akashaRoot(): string {
-  const stated = process.env.AKASHA_ROOT
-  if (stated !== undefined && stated !== "") return stated
-  const self: string | undefined = import.meta.dir
-  if (self === undefined || self === "") {
-    throw new Error(
-      "readoutCatalog: this build reads no `import.meta.dir`, so nothing in it says where akasha " +
-        "stands — a bundle states the akasha root in `AKASHA_ROOT`"
-    )
-  }
-  return resolve(self, "..")
-}
-
-export function rootsHere(): Roots {
-  if (held === null) {
-    const here = realpathSync(akashaRoot())
-    held = {
-      akasha: here,
-      instructions: process.env.INSTRUCTIONS_ROOT ?? resolve(here, "..", "instructions"),
-    }
-  }
-  return held
-}
 
 export type ReadoutSortOrder = "label" | "place"
 
